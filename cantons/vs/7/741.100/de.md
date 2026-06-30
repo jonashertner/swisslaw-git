@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "741.100"
-title: Reglement der Kantonalen Kommission für Stassensignalisation
+title: "Reglement der Kantonalen Kommission für Strassensignalisation *"
 short: RKKSS
 language: de
-version: 2022-01-01
-corrected: 2022-09-28
-version_adopted: 2022-02-16
+version: 2026-07-01
+version_adopted: 2026-07-08
 adopted: 2022-02-16
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.100"
-pdf: "https://lex.vs.ch/api/de/versions/3014/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement der Kantonalen Kommission für Stassensignalisation
+# Reglement der Kantonalen Kommission für Strassensignalisation
 
-vom 16.02.2022 (Stand 01.01.2022)
+(RKKSS)
+
+vom 16.02.2022 (Stand 01.07.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -149,9 +150,9 @@ verordnet: [^ingress-1]
 
 **Verfahren**
 
-<sup>1</sup> Das Anbringen oder Entfernen von Strassensignalisationen und Markierungen muss von der Kommission, auf Gesuch des Strasseneigentümers, genehmigt werden
+<sup>1</sup> Das Anbringen oder Entfernen von Strassensignalisationen und Markierungen auf öffentlichen Strassen muss von der Kommission vorgängig genehmigt werden, und zwar auf Gesuch desjenigen hin, der die tatsächliche Herrschaft über die vom Gesuch betroffene öffentliche Strasse ausübt.
 
-<sup>2</sup> Wenn die Strassensignalisation privaten Interessen dient, namentlich Sicherheitsinteressen, wie das Anbringen eines Verkehrsspiegels, einer Markierung oder einer Vorschriftstafel, muss das Gesuch beim Gemeinderat eingereicht werden, welcher dann eine Vormeinung dazu abgibt und das Dossier für den Entscheid an die Kommission weiterleitet.
+<sup>2</sup> Wenn die Strassensignalisation privaten Interessen dient, namentlich Sicherheitsinteressen, wie das Anbringen eines Verkehrsspiegels, einer Markierung oder einer Vorschriftstafel, muss das Gesuch bei demjenigen eingereicht werden, der die tatsächliche Herrschaft über die vom Gesuch betroffene öffentliche Strasse ausübt und der dann eine Vormeinung dazu abgibt und das Dossier für den Entscheid an die Kommission weiterleitet.
 
 <sup>3</sup> Das Dossier hat je nach dem betreffenden Projekt die folgenden Unterlagen und Angaben zu enthalten:
 
@@ -170,6 +171,8 @@ verordnet: [^ingress-1]
 
 <sup>5</sup> Die Gemeinde kann die Bevölkerung über ihre Projekte und über Projekte des Kantons durch eine Publikation im Amtsblatt informieren. Eine solche Publikation begründet jedoch kein Einspracherecht.
 
+<sup>6</sup> Die Einreichung der Dossiers für Strassen- und Baustellensignalisationsverfahren erfolgt über zwei digitale Plattformen, nämlich SIROUT und SICHAN.
+
 ## 4 Verfahren für Strassenreklamen (Art. 95 SSV)
 
 #### Art. 10
@@ -186,11 +189,13 @@ verordnet: [^ingress-1]
 
 <sup>1</sup> Der Gesuchsteller leitet das Verfahren durch die Einreichung eines Baugesuchs bei der zuständigen Behörde ein.
 
-<sup>2</sup> Der Gemeinderat ist die zuständige Behörde für die Bewilligung von Strassenreklameprojekten, die von Privatpersonen ausgehen.
+<sup>2</sup> Der Gemeinderat ist die zuständige Behörde für die Bewilligung von Strassenreklameprojekten, die von Privatpersonen ausgehen. Er legt das vollständige Dossier der für die Untersuchung von Baugesuchen zuständigen kantonalen Stelle vor, die gemäss Artikel 26 Absatz 1 Buchstabe a der Bauverordnung (BauV) die erforderlichen Vormeinungen und Entscheide einholt. Zudem holt er eine Spezialbewilligung der kantonalen Baukommission (nachstehend: KBK) ein, falls das Projekt ausserhalb der Bauzone liegt.
 
-<sup>3</sup> Die kantonale Baukommission (nachstehend: KBK) ist die zuständige Behörde für Strassenreklameprojekte, die von der Gemeinde ausgehen oder an denen diese beteiligt ist.
+<sup>3</sup> Die KBK ist die zuständige Behörde für Strassenreklameprojekte, die von der Gemeinde ausgehen oder an denen diese beteiligt ist.
 
-<sup>4</sup> Die zuständige Behörde holt bei der Kommission eine Spezialbewilligung bezüglich der Verkehrssicherheit ein, und auch eine Bewilligung der KBK, wenn das Projekt von einer Privatperson ausgeht und ausserhalb der Bauzone liegt. Diese Entscheide sind für die zuständige Behörde bindend und integraler Bestandteil der Baubewilligung.
+<sup>4</sup> Die zuständige Behörde holt grundsätzlich bei der Kommission eine Spezialbewilligung bezüglich der Verkehrssicherheit ein.
+
+<sup>5</sup> Diese Spezialentscheide sind für die zuständige Behörde bindend und integraler Bestandteil der Baubewilligung.
 
 ## 5 Entscheid der Kommission
 
@@ -222,7 +227,7 @@ verordnet: [^ingress-1]
 
 - a) Baustellensignalisation:
 - 1\. Allgemeine Verwaltungskosten für das Gesuch — Fr.100.-
-- 2\. Verwaltungskosten für die Veröffentlichung im Amtsblatt — Fr. 80.-
+- 2\. Verwaltungskosten für die Veröffentlichung im Amtsblatt — Fr. 20.-
 - 3\. Anfordern von zur Gesuchsbehandlung erforderlichen Unterlagen — Fr. 100.-
 - 4\. Anpassungsmassnahmen für Fussgänger und zur Einhaltung des BehiG — Fr. 80.-
 - 5\. Verkehrsumleitung — Fr. 100.-
@@ -230,7 +235,7 @@ verordnet: [^ingress-1]
 - 7\. Kontrolle der Signalisation auf Verlangen der Behörde — Fr. 100.-/St
 - b) Genehmigung für Signale und Markierungen gemäss der SSV:
 - 8\. Allgemeine Verwaltungskosten für das Gesuch — Fr. 100.-
-- 9\. Verwaltungskosten für die Veröffentlichung im Amtsblatt — Fr. 80.-
+- 9\. Verwaltungskosten für die Veröffentlichung im Amtsblatt — Fr. 20.-
 - 10\. Bearbeitungskosten bei aufwändigen Dossiers — Fr. 100.- à Fr. 600.-
 - c) Spezialbewilligung für Strassenreklamen:
 - 11\. Allgemeine Verwaltungskosten für das Gesuch — Fr. 100.-
@@ -243,7 +248,7 @@ verordnet: [^ingress-1]
 
 <sup>1</sup> Entscheide der Kommission können innert 30 Tagen nach ihrer Publikation mit schriftlicher und begründeter Beschwerde beim Staatsrat angefochten werden.
 
-<sup>2</sup> Während der Beschwerdefrist kann bei der Kommission und auf dem Gemeindebüro der Standortgemeinde Einsicht in das Dossier genommen werden.
+<sup>2</sup> Während der Beschwerdefrist kann bei der Kommission und beim Gesuchsteller des betreffenden Projekts Einsicht in das Dossier genommen werden.
 
 <sup>3</sup> Ausserdem sind die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) anwendbar.
 

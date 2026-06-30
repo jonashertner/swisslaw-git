@@ -4,20 +4,21 @@ number: "741.100"
 title: Règlement de la commission cantonale de signalisation routière
 short: RCCSR
 language: fr
-version: 2022-01-01
-corrected: 2022-09-28
-version_adopted: 2022-02-16
+version: 2026-07-01
+version_adopted: 2026-07-08
 adopted: 2022-02-16
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3014/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3639/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement de la commission cantonale de signalisation routière
 
-du 16.02.2022 (état 01.01.2022)
+(RCCSR)
+
+du 16.02.2022 (état 01.07.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -149,9 +150,9 @@ ordonne: [^ingress-1]
 
 **Procédure**
 
-<sup>1</sup> La mise en place et la suppression de la signalisation routière et du marquage sur les routes ouvertes au trafic doivent être préalablement approuvées par la commission sur requête du propriétaire de la route.
+<sup>1</sup> La mise en place et la suppression de la signalisation routière et du marquage sur les routes ouvertes au trafic doivent être préalablement approuvées par la commission, sur requête de celui exerçant la maîtrise effective sur les voies publiques pour lesquelles la demande est formulée.
 
-<sup>2</sup> Lorsque la signalisation routière poursuit des intérêts privés, notamment sécuritaire par la pose d’un miroir ainsi que d’un marquage ou d’un panneau de prescription, la requête doit être déposée auprès du conseil municipal, lequel est chargé d'émettre un préavis et de transmettre le dossier pour décision à la commission.
+<sup>2</sup> Lorsque la signalisation routière poursuit des intérêts privés, notamment sécuritaire par la pose d’un miroir ainsi que d’un marquage ou d’un panneau de prescription, la requête doit être déposée auprès de celui qui exerce la maîtrise effective sur la voie publique concernée par ladite demande, lequel est chargé d'émettre un préavis et de transmettre le dossier pour décision à la commission.
 
 <sup>3</sup> Les dossiers contiennent en fonction du projet concerné les documents et indications suivants:
 
@@ -170,6 +171,8 @@ ordonne: [^ingress-1]
 
 <sup>5</sup> La commune peut informer la population de ses projets ainsi que de ceux du canton par une publication au Bulletin officiel. Dite publication ne confère néanmoins pas de droit d'opposition.
 
+<sup>6</sup> Le dépôt des dossiers dans le cadre de la procédure de signalisation routière et d'autorisation de chantier, se fait par le biais de deux applications numériques, à savoir SIROUT et SICHAN.
+
 ## 4 Procédure de réclames routières (art. 95 OSR)
 
 #### Art. 10
@@ -186,11 +189,13 @@ ordonne: [^ingress-1]
 
 <sup>1</sup> Le requérant engage la procédure par le dépôt auprès de l'autorité compétente d'une demande d'autorisation de construire.
 
-<sup>2</sup> Le conseil municipal est l'autorité compétente pour autoriser les projets de réclames routières émanant d'une personne privée.
+<sup>2</sup> Le conseil municipal est l'autorité compétente pour autoriser les projets de réclames routières émanant d'une personne privée. Dans ce cadre, il dépose le dossier complet auprès de l’organe cantonal en charge de l’instruction des demandes d’autorisation de construire, qui récolte les différents préavis et décisions y relatifs, conformément à l'article 26 alinéa 1 lettre a de l'ordonnance sur les constructions (LC). En sus, il sollicite une décision spéciale auprès de la commission cantonale des constructions (ci-après: CCC), si le projet se situe à l'extérieur de la zone à bâtir.
 
-<sup>3</sup> La commission cantonale des constructions (ci-après: CCC) est l'autorité compétente pour autoriser les projets de réclames routières émanant d'une commune ainsi que ceux auxquels celle-ci est partie prenante.
+<sup>3</sup> La CCC est l'autorité compétente pour autoriser les projets de réclames routières émanant d'une commune ainsi que ceux auxquels celle-ci est partie prenante.
 
-<sup>4</sup> L'autorité compétente sollicite une décision spéciale relative à la sécurité routière auprès de la commission et, en sus, auprès de la CCC lorsque le projet émane d'une personne privée et qu'il est situé à l'extérieur de la zone à bâtir. Ces décisions spéciales lient l'autorité compétente et font partie intégrante de l'autorisation de construire.
+<sup>4</sup> L'autorité compétente sollicite systématiquement une décision spéciale relative à la sécurité routière auprès de la commission.
+
+<sup>5</sup> Ces décisions spéciales lient l'autorité compétente et font partie intégrante de l'autorisation de construire.
 
 ## 5 Décision de la commission
 
@@ -222,7 +227,7 @@ ordonne: [^ingress-1]
 
 - a) signalisation de chantier:
 - 1\. frais généraux d'administration pour la demande — Fr. 100.-
-- 2\. frais administratifs pour la publication au Bulletin officiel — Fr. 80.-
+- 2\. frais administratifs pour la publication au Bulletin officiel — Fr. 20.-
 - 3\. demande complémentaire d'adaptation pour le suivi du dossier — Fr. 100.-
 - 4\. mesures d'adaptation pour les piétons et de respect de la LHand — Fr. 80.-
 - 5\. déviation du trafic routier — Fr. 100.-
@@ -230,7 +235,7 @@ ordonne: [^ingress-1]
 - 7\. contrôle de la signalisation sur demande d'une autorité — Fr. 100.-/h
 - b) homologation de la signalisation verticale et horizontale selon l'OSR:
 - 8\. frais généraux d'administration pour la demande — Fr. 100.-
-- 9\. frais administratifs pour la publication au Bulletin officiel — Fr. 80.-
+- 9\. frais administratifs pour la publication au Bulletin officiel — Fr. 20.-
 - 10\. frais de traitement du dossier selon la complexité — Fr. 100.- à Fr. 600.-
 - c) décision spéciale pour les réclames routières:
 - 11\. frais généraux de traitement de la demande — Fr. 100.-
@@ -243,7 +248,7 @@ ordonne: [^ingress-1]
 
 <sup>1</sup> Les décisions de la commission peuvent faire l'objet d'un recours motivé au Conseil d'Etat dans les 30 jours dès leur publication.
 
-<sup>2</sup> Durant le délai de recours, les dossiers sont consultables auprès de la commission et du bureau communal du projet concerné.
+<sup>2</sup> Durant le délai de recours, les dossiers sont consultables auprès de la commission et du requérant du projet concerné.
 
 <sup>3</sup> Pour le surplus, les dispositions de la loi sur la procédure et la juridiction administrative (LPJA) sont applicables.
 
