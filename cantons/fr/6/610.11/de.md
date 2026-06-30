@@ -4,13 +4,12 @@ number: "610.11"
 title: Ausführungsreglement zum Gesetz über den Finanzhaushalt des Staates
 short: FHR
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-12-15
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8340/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Finanzhaushalt des Staates – R
 
 (FHR)
 
-vom 12.03.1996 (Fassung in Kraft getreten am 01.01.2026)
+vom 12.03.1996 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,7 +34,7 @@ beschliesst:
 
 #### Art. 1
 
-**Geltungsbereich (Art. 2 Abs. 1 und 2 FHG)**
+**Geltungsbereich (Art. 2 Abs. 1 und 2 FHG[^1-1])**
 
 <sup>1</sup> Die Gesetzgebung über den Finanzhaushalt des Staates gilt für die Haushaltsführung sämtlicher Organe des Staates einschliesslich der Anstalten mit eigener Rechtspersönlichkeit, der Organe der richterlichen Gewalt und der Organe der gesetzgebenden Gewalt.
 
@@ -51,31 +50,40 @@ beschliesst:
 
 <sup>4</sup> Das Sekretariat des Grossen Rates und die Staatskanzlei üben in finanzieller Hinsicht die Befugnisse einer Direktion aus.
 
+[^1-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 2
 
-**Teilweise Geltung (Art. 2 Abs. 3 FHG)**
+**Teilweise Geltung (Art. 2 Abs. 3 FHG[^2-1])**
 
-<sup>1</sup> Die Behörde, die über die Erteilung einer Finanzhilfe entscheidet, kann die Gewährung an den Empfänger davon abhängig machen, dass dieser die im Finanzhaushaltsgesetz aufgeführten Grundsätze für die Haushalts- und Rechnungsführung und die Vorschriften im Bereich der Rechnungskontrolle einhält.
+<sup>1</sup> Die Behörde, die über die Erteilung einer Finanzhilfe entscheidet, kann die Gewährung an den Empfänger davon abhängig machen, dass dieser die im Finanzhaushaltsgesetz[^2-2] aufgeführten Grundsätze für die Haushalts- und Rechnungsführung und die Vorschriften im Bereich der Rechnungskontrolle einhält.
+
+[^2-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+[^2-2]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 #### Art. 2a
 
-**Staatsschatzverwalter (Art. 46 Abs. 2 FHG)**
+**Staatsschatzverwalter (Art. 46 Abs. 2 FHG[^2a-1])**
 
 <sup>1</sup> Der Vorsteher der Finanzverwaltung führt den Titel Staatsschatzverwalter.
+
+[^2a-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 ## 2 Grundsätze der Finanzpolitik und der Haushaltsführung
 
 #### Art. 3
 
-**Finanzpolitik (Art. 3 FHG)**
+**Finanzpolitik (Art. 3 FHG[^3-1])**
 
 <sup>1</sup> Der Selbstfinanzierungsgrad gilt als ausreichend, wenn der Ertragsüberschuss der Erfolgsrechnung, vor den Abschreibungen auf dem Verwaltungsvermögen und vor Einlagen in oder Entnahmen aus Fonds, Spezialfinanzierungen und Eigenkapital, mindestens 80 % der Nettoinvestitionsausgaben deckt.
 
 <sup>2</sup> Der finanzielle Aufwand des Staates für den Schuldendienst (Passivzinsen) darf grundsätzlich nicht mehr als 10 % der Kantonssteuern ausmachen.
 
+[^3-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 4
 
-**Gesetzmässigkeit (Art. 4 FHG)**
+**Gesetzmässigkeit (Art. 4 FHG[^4-1])**
 
 <sup>1</sup> Die Direktionen, Anstalten und Dienststellen prüfen für jede Ausgabe, ob eine ausreichende gesetzliche Grundlage besteht.
 
@@ -86,13 +94,17 @@ beschliesst:
 - c) von Gesetzen, Parlamentsverordnungen oder Dekreten;
 - d) von Verordnungen oder Beschlüssen des Staatsrates, sofern diese in Zusammenhang stehen mit den für die Verwaltungstätigkeit erforderlichen personellen und räumlichen Mitteln und Materialien. Diese Erlasse bilden keine ausreichende gesetzliche Grundlage für das Eingehen von Ausgabenverpflichtungen für einen Neubau.
 
+[^4-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 5
 
-**Beurteilung der finanziellen Folgen (Art. 8 FHG)**
+**Beurteilung der finanziellen Folgen (Art. 8 FHG[^5-1])**
 
 <sup>1</sup> Zur Beurteilung der finanziellen Folgen von Gesetzesentwürfen müssen die wiederkehrenden Ausgaben (insbesondere für Personal, Mieten, laufende Ausgaben) für die ersten fünf Jahre des Gesetzesvollzugs abgeschätzt werden.
 
 <sup>2</sup> Dieselbe Vorschrift gilt auch für die Dekrete und Beschlüsse, sofern ihre Geltungsdauer 5 Jahre oder länger ist.
+
+[^5-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 ## 3 Rechnungswesen
 
@@ -100,7 +112,7 @@ beschliesst:
 
 #### Art. 6
 
-**Grundsätze (Art. 11 Abs. 2 FHG)**
+**Grundsätze (Art. 11 Abs. 2 FHG[^6-1])**
 
 <sup>1</sup> Das Rechnungswesen ist auf den folgenden allgemeinen Grundsätzen aufgebaut:
 
@@ -123,6 +135,8 @@ beschliesst:
 
 <sup>2</sup> Die Verwaltungseinheiten mit leistungsorientierter Führung können innerhalb der in den Artikeln 24a – 24e festgelegten Grenzen von den Rechnungslegungsgrundsätzen der qualitativen, quantitativen und zeitlichen Bindung abweichen.
 
+[^6-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 7
 
 **Belege**
@@ -131,7 +145,7 @@ beschliesst:
 
 #### Art. 7a
 
-**Anhang zur Staatsrechnung (Art. 12 Bst. e FHG)**
+**Anhang zur Staatsrechnung (Art. 12 Bst. e FHG[^7a-1])**
 
 <sup>1</sup> Der Anhang zur Staatsrechnung enthält insbesondere:
 
@@ -147,9 +161,11 @@ beschliesst:
 - j) die Liste der Fonds und Stiftungen;
 - k) die Liste der hauptsächlichen nicht bilanzierten Verpflichtungen sowie Zusatzinformationen zu den darin aufgeführten Rechtsträgern.
 
+[^7a-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 7b
 
-**Neubewertung des Finanzvermögens (Art. 18 Abs. 7 FHG)**
+**Neubewertung des Finanzvermögens (Art. 18 Abs. 7 FHG[^7b-1])**
 
 <sup>1</sup> Die Vermögenswerte im Finanzvermögen werden mindestens alle drei Jahre neu bewertet. Sie können auf- oder abgewertet werden.
 
@@ -157,35 +173,45 @@ beschliesst:
 
 <sup>3</sup> Die Neubewertung erfolgt grundsätzlich zum Verkehrswert am Bilanzstichtag.
 
+[^7b-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 ### 3.2 Staatsrechnung
 
 #### Art. 8
 
-**Investitionen (Art. 21 FHG) – Begriff**
+**Investitionen (Art. 21 FHG[^8-1]) – Begriff**
 
 <sup>1</sup> Die Investition ist eine Ausgabe, die den Wert des Verwaltungsvermögens erhöht. Sie ermöglicht eine neue oder erhöhte Nutzung eines Vermögenswerts über mehrere Jahre.
 
+[^8-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 9
 
-**Investitionen (Art. 21 FHG) – Grenze**
+**Investitionen (Art. 21 FHG[^9-1]) – Grenze**
 
 <sup>1</sup> Nur Investitionen in einem Betrag von über 250'000 Franken je Objekt werden der Investitionsrechnung belastet. Investitionen in einem geringeren Betrag werden der Erfolgsrechnung belastet.
 
+[^9-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 9a
 
-**Ausserordentliche Finanzvorfälle (Art. 19 Abs. 3 Bst. c und 20 Abs. 3 Bst. c FHG)**
+**Ausserordentliche Finanzvorfälle (Art. 19 Abs. 3 Bst. c und 20 Abs. 3 Bst. c FHG[^9a-1])**
 
 <sup>1</sup> Als ausserordentlich gelten nicht budgetierte Aufwendungen und Erträge sowie Ausgaben und Einnahmen im Betrag von mindestens 1 Million Franken.
 
 <sup>2</sup> Dieser Betrag kann von der Finanzverwaltung periodisch an die Teuerung angepasst werden.
 
+[^9a-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 10
 
-**Interne Verrechnungen (Art. 26 FHG)**
+**Interne Verrechnungen (Art. 26 FHG[^10-1])**
 
 <sup>1</sup> Zweck der internen Verrechnungen ist eine bessere Vergleichsmöglichkeit der Kosten und eine genauere Rechnungstellung an Dritte.
 
 <sup>2</sup> Die zwischen den Verwaltungseinheiten des Staates erbrachten Leistungen sind in den Budgetrubriken für die internen Verrechnungen zu verbuchen (39 und 49).
+
+[^10-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 #### Art. 11
 
@@ -197,7 +223,7 @@ beschliesst:
 
 #### Art. 12
 
-**Abschreibungen (Art. 27 FHG)**
+**Abschreibungen (Art. 27 FHG[^12-1])**
 
 <sup>1</sup> Das Verwaltungsvermögen wird in der Regel auf dem Restbuchwert am Ende des laufenden Jahres abgeschrieben.
 
@@ -216,17 +242,21 @@ beschliesst:
 <tr><td>Nicht überbaute Grundstücke, Alpen, Forsten, Reben</td><td>–</td><td>keine Abschreibung</td></tr>
 </table>
 
+[^12-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 13
 
-**Rückstellungen (Art. 28 FHG)**
+**Rückstellungen (Art. 28 FHG[^13-1])**
 
 <sup>1</sup> Rückstellungen können namentlich für eine Ausgabe vorgenommen werden, die sich aus einer bestehenden Verpflichtung von mehr als 100'000 Franken ergibt, die jedoch noch nicht in allen Einzelheiten festgelegt ist.
 
 <sup>2</sup> Rückstellungen mit Reservefunktion können vom Staatsrat in Ausnahmefällen genehmigt werden. Diese Rückstellungen müssen in der Staatsrechnung ausdrücklich ausgewiesen werden und dürfen nur für den Zweck verwendet werden, der bei ihrer Bildung festgelegt wurde.
 
+[^13-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 13a
 
-**Vorfinanzierungen (Art. 28a FHG)**
+**Vorfinanzierungen (Art. 28a FHG[^13a-1])**
 
 <sup>1</sup> Die Vorfinanzierung kann für eine Investition oder einen Investitionsbeitrag gebildet werden.
 
@@ -236,19 +266,25 @@ beschliesst:
 
 <sup>4</sup> Die Vorfinanzierung wird aufgelöst, wenn der Vorfinanzierungszweck erreicht ist oder das Vorhaben, wofür sie gebildet wurde, aufgegeben wird. Der Staatsrat beschliesst die Aufgabe des Vorhabens namentlich dann, wenn innert sieben Jahren nach Annahme der entsprechenden gesetzlichen Grundlage keine Ausgabenverpflichtung eingegangen wurde.
 
+[^13a-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 ## 4 Verpflichtungskredit
 
 #### Art. 14
 
-**Berechnungsgrundlage (Art. 30 FHG)**
+**Berechnungsgrundlage (Art. 30 FHG[^14-1])**
 
 <sup>1</sup> Für die Feststellung, ob ein Verpflichtungskredit einzuholen ist, ist die Summe der vom Grossen Rat genehmigten Aufwände der letzten Erfolgsrechnung (Gesamtergebnis) und Ausgaben der letzten Investitionsrechnung massgebend.
 
+[^14-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 15
 
-**Zusatzkredit (Art. 33 FHG)**
+**Zusatzkredit (Art. 33 FHG[^15-1])**
 
 <sup>1</sup> Ein Zusatzkredit ist nur für die Netto-Mehrausgabe, das heisst für die Mehrausgabe nach Abzug der Beteiligungen, einzuholen.
+
+[^15-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 #### Art. 16
 
@@ -274,7 +310,7 @@ beschliesst:
 
 #### Art. 18
 
-**Nachtragskredit (Art. 35, 45 Abs. 2 Bst. d und 46 Abs. 1 Bst. d FHG)**
+**Nachtragskredit (Art. 35, 45 Abs. 2 Bst. d und 46 Abs. 1 Bst. d FHG[^18-1])**
 
 <sup>1</sup> Ein Nachtragskredit ist nur für die Netto-Mehrausgabe einzuholen. Das Kreditbegehren ist ordnungsgemäss zu begründen.
 
@@ -287,9 +323,11 @@ beschliesst:
 
 <sup>3</sup> Jede Direktion stellt der Finanzverwaltung ihre Beschlussentwürfe über Nachtragskreditbegehren mindestens zehn Tage, bevor sie in die Traktandenliste der Staatsratssitzung aufgenommen werden, zu.
 
+[^18-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 19
 
-**Kreditübertragung (Art. 37 FHG)**
+**Kreditübertragung (Art. 37 FHG[^19-1])**
 
 <sup>1</sup> Ein Kredit kann nur unter folgenden Bedingungen übertragen werden:
 
@@ -303,6 +341,8 @@ beschliesst:
 <sup>3</sup> Ausnahmsweise können mit vorgängiger Zustimmung der Finanzverwaltung besondere laufende Ausgaben Ende Jahr übertragen werden. Bei Meinungsverschiedenheit entscheidet der Staatsrat.
 
 <sup>4</sup> Kreditübertragungen sind vor Ablauf des Kalenderjahres mit ordentlicher Begründung bei der Finanzverwaltung zu beantragen.
+
+[^19-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 #### Art. 20
 
@@ -319,15 +359,17 @@ beschliesst:
 
 #### Art. 21
 
-**Voranschlag – Nachweis (Art. 39 und 40 Abs. 2 FHG)**
+**Voranschlag – Nachweis (Art. 39 und 40 Abs. 2 FHG[^21-1])**
 
 <sup>1</sup> Jede Ausgabe und jede Einnahme ist zu begründen.
 
 <sup>2</sup> Die Nachweise für den Voranschlag müssen Aufschluss über die Gründe für die Abweichung zwischen dem Voranschlag des Berichtsjahres und dem Voranschlag des Vorjahres geben.
 
+[^21-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 22
 
-**Voranschlag – Unerlässliche Ausgaben (Art. 40 Abs. 3 FHG)**
+**Voranschlag – Unerlässliche Ausgaben (Art. 40 Abs. 3 FHG[^22-1])**
 
 <sup>1</sup> Als für die Verwaltungstätigkeit unerlässliche Ausgaben gelten:
 
@@ -337,9 +379,11 @@ beschliesst:
 
 <sup>2</sup> Diese Beträge dürfen nicht höher sein als die des letzten vom Grossen Rat genehmigten Voranschlages.
 
+[^22-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 22a
 
-**Eckdaten der konjunkturellen Lage (Art. 40b Abs. 4 FHG)**
+**Eckdaten der konjunkturellen Lage (Art. 40b Abs. 4 FHG[^22a-1])**
 
 <sup>1</sup> Bei der Festlegung seiner Budgetziele berücksichtigt der Staatsrat die Entwicklung der konjunkturellen Lage, die Arbeitsmarktentwicklung sowie die Entwicklung der Steuereinnahmen und stützt sich dabei auf die jüngsten verfügbaren Daten.
 
@@ -349,9 +393,11 @@ beschliesst:
 
 <sup>4</sup> Er berücksichtigt auch die Schätzung der Steuereinnahmen der Kantonalen Steuerverwaltung sowie die Lohnstatistik der kantonalen AHV-Ausgleichskasse.
 
+[^22a-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 22b
 
-**Abweichung von der Regel des ausgeglichenen Haushalts (Art. 40b Abs. 4 FHG)**
+**Abweichung von der Regel des ausgeglichenen Haushalts (Art. 40b Abs. 4 FHG[^22b-1])**
 
 <sup>1</sup> Von der Regel des ausgeglichenen Haushalts kann abgewichen werden, wenn mindestens eine der folgenden Bedingungen erfüllt ist:
 
@@ -359,9 +405,11 @@ beschliesst:
 - b) Die kantonale Arbeitslosenquote beträgt mehr als 5 % und die Quote der im Kanton gemeldeten Stellensuchenden mehr als 7 %.
 - c) Die jährliche Veränderung der Steuereinnahmen und der Löhne ist negativ.
 
+[^22b-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 22c
 
-**Ausserordentliche Finanzbedürfnisse (Art. 40c Abs. 2 Bst. a FHG)**
+**Ausserordentliche Finanzbedürfnisse (Art. 40c Abs. 2 Bst. a FHG[^22c-1])**
 
 <sup>1</sup> Als ausserordentlich können die Finanzbedürfnisse gelten, die durch Ereignisse oder Situationen verursacht werden, die gleichzeitig die folgenden Bedingungen erfüllen:
 
@@ -370,9 +418,11 @@ beschliesst:
 - c) Es konnten keine Vorfinanzierungen oder Rückstellungen gebildet werden.
 - d) Sie sind für den Kanton und seine Bevölkerung von grösserer Bedeutung.
 
+[^22c-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 22d
 
-**Ausserordentliche Einnahmen (Art. 40d Abs. 3 FHG)**
+**Ausserordentliche Einnahmen (Art. 40d Abs. 3 FHG[^22d-1])**
 
 <sup>1</sup> Als ausserordentlich gelten die nicht budgetierten Einnahmen, die mehr als 1 % der Gesamteinnahmen vor internen Verrechnungen ausmachen und aus folgenden Quellen stammen:
 
@@ -381,17 +431,23 @@ beschliesst:
 - c) aus Schenkungen und Vermächtnissen;
 - d) aus anderen ausserordentlichen und einmaligen Einnahmen.
 
+[^22d-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 23
 
-**Berechnungsgrundlage für den Steuerzuschlag (Art. 41 Abs. 6 FHG)**
+**Berechnungsgrundlage für den Steuerzuschlag (Art. 41 Abs. 6 FHG[^23-1])**
 
 <sup>1</sup> Die Steuerzuschläge können die Einkommens- und Vermögenssteuern der natürlichen Personen, die Gewinn- und Kapitalsteuern der juristischen Personen, die Minimalsteuer sowie die Kapitalgewinnsteuern betreffen.
 
+[^23-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 24
 
-**Staatsrechnung (Art. 42 Abs. 4 FHG)**
+**Staatsrechnung (Art. 42 Abs. 4 FHG[^24-1])**
 
 <sup>1</sup> Die Ausgaben und Einnahmen des laufenden Jahres können bis zu der in den Richtlinien der Finanzverwaltung festgesetzten Frist in der Rechnung des Vorjahres verbucht werden.
+
+[^24-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 ## 5a Verwaltungseinheiten mit leistungsorientierter Führung
 
@@ -455,6 +511,10 @@ beschliesst:
 
 ## 5b Infrastrukturfonds (Art. 42a<sup>bis</sup> FHG)
 
+[^24e-1]
+
+[^24e-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 24f
 
 **Höchstdotierung des Infrastrukturfonds**
@@ -465,7 +525,7 @@ beschliesst:
 
 **Verwendung des Infrastrukturfonds**
 
-<sup>1</sup> Die Mittel aus dem Infrastrukturfonds dienen der Finanzierung von Vorhaben in den Bereichen Mobilität und Bildung.
+<sup>1</sup> Die Mittel aus dem Infrastrukturfonds dienen der Finanzierung von Vorhaben in den Bereichen Mobilität, Bildung und Klima.
 
 <sup>2</sup> Ausnahmsweise können sie für strategische Vorhaben in anderen Bereichen verwendet werden.
 
@@ -495,25 +555,30 @@ beschliesst:
 
 #### Art. 27
 
-**Zuständigkeit – Im Allgemeinen (Art. 44 Abs. 2 Bst. i FHG)**
+**Zuständigkeit – Im Allgemeinen (Art. 44 Abs. 2 Bst. i FHG[^27-1])**
 
 <sup>1</sup> Der Staatsrat geht alle Ausgabenverpflichtungen ein, für die nicht ausdrücklich eine andere Behörde zuständig ist.
 
 <sup>2</sup> Die reglementarischen Bestimmungen über das Verfahren der Arbeitsvergebung und der Auftragserteilung bleiben vorbehalten.
 
+[^27-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 28
 
-**Zuständigkeit – Laufende Ausgaben (Art. 44 Abs. 3 und Art. 45 Abs. 3 FHG)**
+**Zuständigkeit – Laufende Ausgaben (Art. 44 Abs. 3 und Art. 45 Abs. 3 FHG[^28-1])**
 
-<sup>1</sup> Die Direktion sind dafür zuständig, die neuen laufenden Ausgaben nach Artikel 23 FHG oder die Ausgaben, die zur Kontenklasse 31 «Sach- und übriger Betriebsaufwand» des Kontenplans gehören, in einem Betrag von über 50'000 Franken zu tätigen.
+<sup>1</sup> Die Direktion sind dafür zuständig, die neuen laufenden Ausgaben nach Artikel 23 FHG[^28-2] oder die Ausgaben, die zur Kontenklasse 31 «Sach- und übriger Betriebsaufwand» des Kontenplans gehören, in einem Betrag von über 50'000 Franken zu tätigen.
 
 <sup>2</sup> Die Dienststellen sind dafür zuständig, alle anderen laufenden Ausgaben zu tätigen.
 
 <sup>3</sup> Die Anstalten sind dafür zuständig, alle ihre laufenden Ausgaben im Rahmen der von ihrer Direktion festgesetzten Grenzen zu tätigen.
 
+[^28-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+[^28-2]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 29
 
-**Investitionsausgaben (Art. 44 Abs. 3 und 45 Abs. 3 FHG)**
+**Investitionsausgaben (Art. 44 Abs. 3 und 45 Abs. 3 FHG[^29-1])**
 
 <sup>1</sup> Eine Investitionsausgabe kann getätigt werden:
 
@@ -526,6 +591,8 @@ beschliesst:
 - a) Vergaben von Liefer- und Dienstleistungsaufträgen ab 500'000 Franken inkl. MwSt;
 - b) Vergaben von Bauaufträgen ab 2'000'000 Franken inkl. MwSt;
 - c) Nachträge oder kumulierte Nachträge, die zu einer Überschreitung des ursprünglich vergebenen Betrags um mehr als 50 % führen.
+
+[^29-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 #### Art. 30
 
@@ -597,73 +664,93 @@ beschliesst:
 
 #### Art. 38
 
-**Finanzdirektion (Art. 46 Abs. 1 FHG) – Weisungen (Bst. a und c)**
+**Finanzdirektion (Art. 46 Abs. 1 FHG[^38-1]) – Weisungen (Bst. a und c)**
 
 <sup>1</sup> Der Finanzplan, der Voranschlag, die Staatsrechnung, der Kontenplan, die Nachtragskredit- und Verpflichtungskreditbegehren werden nach den von der Finanzdirektion erlassenen Richtlinien erstellt.
 
+[^38-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 39
 
-**Finanzdirektion (Art. 46 Abs. 1 FHG) – Aufbewahrung der Buchungsbelege (Bst. a)**
+**Finanzdirektion (Art. 46 Abs. 1 FHG[^39-1]) – Aufbewahrung der Buchungsbelege (Bst. a)**
 
 <sup>1</sup> Die Anstalten und Dienststellen bewahren ihre Bücher und Buchungsbelege in der Regel während fünf Jahren auf. Diese Aufbewahrungsdauer beträgt sechs Jahre für die Abteilungen, deren Leistungen der Mehrwertsteuer unterliegen. Abteilungen, die direkt Post- und Bankzahlungsanweisungen erteilen können, müssen die entsprechenden Unterlagen während zehn Jahren aufbewahren.
 
+[^39-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 40
 
-**Finanzdirektion (Art. 46 Abs. 1 FHG) – Prüfung der finanziellen Auswirkungen (Bst. e)**
+**Finanzdirektion (Art. 46 Abs. 1 FHG[^40-1]) – Prüfung der finanziellen Auswirkungen (Bst. e)**
 
 <sup>1</sup> Gesetzes-, Dekrets- und Verordnungsentwürfe sowie Beschluss-, Vertrags- und Vereinbarungsentwürfe mit finanziellen Auswirkungen müssen mindestens zehn Tage vor dem Termin für die Aufnahme in die Traktandenliste des Staatsrats der Finanzverwaltung unterbreitet werden.
 
+[^40-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 41
 
-**Finanzdirektion (Art. 46 Abs. 1 FHG) – Zahlungsverkehr (Bst. f)**
+**Finanzdirektion (Art. 46 Abs. 1 FHG[^41-1]) – Zahlungsverkehr (Bst. f)**
 
 <sup>1</sup> Die Finanzverwaltung gewährleistet den Zahlungsverkehr des Staates. Sie kann diese Aufgabe gewissen Anstalten übertragen und ihnen zu diesem Zweck Vorschüsse gewähren.
 
+[^41-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 42
 
-**Finanzdirektion (Art. 46 Abs. 1 FHG) – Liquide Mittel (Bst. g)**
+**Finanzdirektion (Art. 46 Abs. 1 FHG[^42-1]) – Liquide Mittel (Bst. g)**
 
 <sup>1</sup> Die Finanzverwaltung informiert sich regelmässig über den Stand der Post- und Bankkonten der Anstalten und Dienststellen.
 
 <sup>2</sup> Die verfügbaren Mittel sind ihr unverzüglich zu überweisen.
 
+[^42-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 43
 
-**Finanzdirektion (Art. 46 Abs. 1 FHG) – Zahlungssperre (Bst. g)**
+**Finanzdirektion (Art. 46 Abs. 1 FHG[^43-1]) – Zahlungssperre (Bst. g)**
 
 <sup>1</sup> Wenn der Stand der Tresorerie es erfordert, kann die Finanzdirektion beschliessen, die Zahlungskredite vorübergehend zu sperren.
 
+[^43-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 44
 
-**Finanzdirektion (Art. 46 Abs. 1 FHG) – Bewilligung (Bst. k)**
+**Finanzdirektion (Art. 46 Abs. 1 FHG[^44-1]) – Bewilligung (Bst. k)**
 
 <sup>1</sup> Die Schaffung einer Kassen- und Buchhaltungsstelle sowie die Eröffnung eines Post- oder eines Bankkontos bedürfen der Zustimmung der Finanzverwaltung.
 
 <sup>2</sup> Für alle Kontobewegungen ist die Validierung zu zweien erforderlich.
 
+[^44-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 45
 
-**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG) – Planung (Bst. a)**
+**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG[^45-1]) – Planung (Bst. a)**
 
 <sup>1</sup> Die Anstalten und Dienststellen planen ihre finanziellen Verpflichtungen und sorgen dafür, ihre laufenden Ausgaben und Investitionsausgaben über das ganze Jahr zu verteilen.
 
+[^45-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 46
 
-**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG) – Belege (Bst. b)**
+**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG[^46-1]) – Belege (Bst. b)**
 
 <sup>1</sup> Die Verbuchung der Ausgaben und die Ausführung der Zahlungen erfolgt nach Einsicht in die von Unternehmern und Lieferanten im Original erstellten Rechnungen und Zwischen- und Schlussrechnungen.
 
+[^46-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 47
 
-**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG) – Ämtertrennung (Bst. c)**
+**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG[^47-1]) – Ämtertrennung (Bst. c)**
 
 <sup>1</sup> Das Amt des Kassiers und das Amt des Buchhalters dürfen in einer Anstalt oder einer Dienststelle grundsätzlich nicht von derselben Person ausgeübt werden.
 
 <sup>2</sup> Die Person, die die Zahlungsanweisung erteilt, kann nicht das Amt des Kassiers oder des Buchhalters übernehmen.
 
+[^47-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 48
 
-**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG) – Kontrolle (Bst. c)**
+**Anstalten und Dienststellen (Art. 47 Abs. 1 FHG[^48-1]) – Kontrolle (Bst. c)**
 
 <sup>1</sup> Die Anstalten und Dienststellen führen eine Kontrolle über ihre finanziellen Verpflichtungen anhand der Grundakten, das heisst namentlich der Verträge, Bestellungen, Arbeitsvergebungen und Beitragszusicherungen.
 
@@ -675,35 +762,45 @@ beschliesst:
 - b) den Stand der eingegangenen Ausgabenverpflichtungen und ihre voraussichtliche Fälligkeit;
 - c) das Gesamtvolumen der geleisteten Zahlungen.
 
+[^48-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 ## 7 Finanzkontrolle
 
 #### Art. 49
 
-**Arbeitsvergebungen und bedeutende Käufe (Art. 51 Abs. 1 Bst. f FHG)**
+**Arbeitsvergebungen und bedeutende Käufe (Art. 51 Abs. 1 Bst. f FHG[^49-1])**
 
 <sup>1</sup> Als bedeutend gelten Arbeitsvergebungen sowie Material- und Ausrüstungskäufe, wenn sie 200'000 Franken übersteigen.
 
+[^49-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 50
 
-**Informationspflicht (Art. 52 FHG)**
+**Informationspflicht (Art. 52 FHG[^50-1])**
 
 <sup>1</sup> Die veröffentlichten und unveröffentlichten Entscheide des Grossen Rates und des Staatsrates, die finanzielle Auswirkungen haben, sind vom Sekretariat des Grossen Rates oder von der Staatskanzlei an das Finanzinspektorat zu übermitteln.
 
 <sup>2</sup> Diese Informationsübermittlung wird im Einzelnen mit dem Finanzinspektorat geregelt.
 
+[^50-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 51
 
-**Kontrollberichte (Art. 53 FHG)**
+**Kontrollberichte (Art. 53 FHG[^51-1])**
 
 <sup>1</sup> Die Berichte des Finanzinspektorats werden der Finanz- und Geschäftsprüfungskommission, dem Staatsrat, der betroffenen Direktion, der Finanzdirektion, der Finanzverwaltung und, sofern keine Gefahr für den Fortgang einer Untersuchung besteht, den Verantwortlichen der kontrollierten Abteilung zugestellt. Ist die Finanzdirektion betroffen, so werden die Berichte auch dem stellvertretenden Direktionsvorsteher zugestellt.
 
 <sup>2</sup> Der Kontrollbericht wird vom Inspektor unterzeichnet, der die Revision durchgeführt hat. Er wird vom Vorsteher des Finanzinspektorates visiert, der damit bestätigt, davon Kenntnis genommen und den Inhalt genehmigt zu haben.
 
+[^51-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
+
 #### Art. 52
 
-**Feststellung von Unregelmässigkeiten (Art. 55 FHG)**
+**Feststellung von Unregelmässigkeiten (Art. 55 FHG[^52-1])**
 
 <sup>1</sup> Sicherungsmassnahmen sind namentlich die Sperrung der Zahlungen, die Aufhebung der Zeichnungsberechtigung, die Sicherstellung von Daten und Buchungsunterlagen, die Beschlagnahme von Schlüsseln oder die provisorische Suspendierung.
+
+[^52-1]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 ## 8 Übergangs- und Schlussbestimmungen
 

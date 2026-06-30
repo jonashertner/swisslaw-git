@@ -4,13 +4,12 @@ number: "610.11"
 title: "Règlement d'exécution de la loi sur les finances de l'Etat"
 short: RFE
 language: fr
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-12-15
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8340/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8644/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Finances de l'Etat – R
 
 (RFE)
 
-du 12.03.1996 (version entrée en vigueur le 01.01.2026)
+du 12.03.1996 (version entrée en vigueur le 01.07.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,7 +34,7 @@ Arrête:
 
 #### Art. 1
 
-**Champ d'application (art. 2 al. 1 et 2 LFE)**
+**Champ d'application (art. 2 al. 1 et 2 LFE[^1-1])**
 
 <sup>1</sup> La législation sur les finances de l'Etat s'applique à la gestion des finances de l'ensemble des organes de l'Etat, y compris à celle des établissements érigés en personnes morales, des organes de l'ordre judiciaire et des organes de l'ordre législatif.
 
@@ -51,31 +50,40 @@ Arrête:
 
 <sup>4</sup> Le Secrétariat du Grand Conseil et la Chancellerie d'Etat exercent, en matière financière, les attributions d'une Direction.
 
+[^1-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 2
 
-**Application partielle (art. 2 al. 3 LFE)**
+**Application partielle (art. 2 al. 3 LFE[^2-1])**
 
-<sup>1</sup> L'autorité qui décide de l'octroi d'une aide financière peut en subordonner l'allocation au respect, par le bénéficiaire, des principes de la gestion financière, des principes de la comptabilité et des règles en matière de contrôle des comptes, énoncés dans la loi sur les finances de l'Etat.
+<sup>1</sup> L'autorité qui décide de l'octroi d'une aide financière peut en subordonner l'allocation au respect, par le bénéficiaire, des principes de la gestion financière, des principes de la comptabilité et des règles en matière de contrôle des comptes, énoncés dans la loi sur les finances de l'Etat[^2-2].
+
+[^2-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+[^2-2]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 #### Art. 2a
 
-**Trésorier d'Etat (art. 46 al. 2 LFE)**
+**Trésorier d'Etat (art. 46 al. 2 LFE[^2a-1])**
 
 <sup>1</sup> Le chef de l'Administration des finances porte le titre de trésorier d'Etat.
+
+[^2a-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 ## 2 Principes de la politique et de la gestion financières
 
 #### Art. 3
 
-**Politique financière (art. 3 LFE)**
+**Politique financière (art. 3 LFE[^3-1])**
 
 <sup>1</sup> Le degré d'autofinancement est considéré comme suffisant lorsque l'excédent de revenus du compte de résultats, avant amortissements du patrimoine administratif et avant attributions ou prélèvements sur les fonds, les financements spéciaux et le capital propre, couvre au moins 80 % des dépenses nettes d'investissements.
 
-<sup>2</sup> Les charges financières de l'Etat consacrées au service de la dette (intérêts passifs) ne doivent en principe pas dépasser 10% des impôts cantonaux.
+<sup>2</sup> Les charges financières de l'Etat consacrées au service de la dette (intérêts passifs) ne doivent en principe pas dépasser 10 % des impôts cantonaux.
+
+[^3-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 #### Art. 4
 
-**Légalité (art. 4 LFE)**
+**Légalité (art. 4 LFE[^4-1])**
 
 <sup>1</sup> Les Directions, établissements et services vérifient pour toute dépense l'existence d'une base légale suffisante.
 
@@ -86,13 +94,17 @@ Arrête:
 - c) de lois, d'ordonnances parlementaires ou de décrets;
 - d) des ordonnances ou arrêtés du Conseil d'Etat lorsqu'ils ont trait aux moyens en personnel, en locaux et en matériel nécessaires à l'activité administrative. Toutefois, ces actes ne constituent pas une base légale suffisante pour engager des dépenses destinées à une construction nouvelle.
 
+[^4-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 5
 
-**Evaluation financière (art. 8 LFE)**
+**Evaluation financière (art. 8 LFE[^5-1])**
 
 <sup>1</sup> Pour l'évaluation financière des projets de lois, l'estimation des dépenses répétitives (notamment personnel, location, dépenses de fonctionnement) doit porter sur les cinq premières années d'application.
 
 <sup>2</sup> La même règle s'applique aux décrets et arrêtés, à moins que leur durée de validité ne soit plus courte.
+
+[^5-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 ## 3 Comptabilité
 
@@ -100,7 +112,7 @@ Arrête:
 
 #### Art. 6
 
-**Principes (art. 11 al. 2 LFE)**
+**Principes (art. 11 al. 2 LFE[^6-1])**
 
 <sup>1</sup> La comptabilité est établie selon les principes généraux suivants:
 
@@ -123,6 +135,8 @@ Arrête:
 
 <sup>2</sup> Les unités administratives gérées par prestations peuvent déroger aux principes comptables de spécialités qualitative, quantitative et temporelle dans les limites fixées aux articles 24a à 24e.
 
+[^6-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 7
 
 **Pièces justificatives**
@@ -131,7 +145,7 @@ Arrête:
 
 #### Art. 7a
 
-**Annexes aux comptes (art. 12 let. e LFE)**
+**Annexes aux comptes (art. 12 let. e LFE[^7a-1])**
 
 <sup>1</sup> Les annexes aux comptes de l'Etat contiennent notamment:
 
@@ -147,9 +161,11 @@ Arrête:
 - j) la liste des fonds et fondations;
 - k) la liste des principaux engagements hors bilan ainsi que des informations complémentaires relatives aux entités qui y figurent.
 
+[^7a-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 7b
 
-**Réévaluation du patrimoine financier (art. 18 al. 7 LFE)**
+**Réévaluation du patrimoine financier (art. 18 al. 7 LFE[^7b-1])**
 
 <sup>1</sup> Les éléments du patrimoine financier font l'objet d'une réévaluation, à la hausse ou à la baisse, au minimum tous les trois ans.
 
@@ -157,35 +173,45 @@ Arrête:
 
 <sup>3</sup> La réévaluation se fait en principe selon la valeur vénale à la date de référence de l'établissement du bilan.
 
+[^7b-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 ### 3.2 Comptes de l'Etat
 
 #### Art. 8
 
-**Investissements (art. 21 LFE) – Définition**
+**Investissements (art. 21 LFE[^8-1]) – Définition**
 
 <sup>1</sup> L'investissement est une dépense qui accroît la valeur du patrimoine administratif. Elle permet l'usage nouveau ou accru d'un bien sur plusieurs années.
 
+[^8-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 9
 
-**Investissements (art. 21 LFE) – Limite**
+**Investissements (art. 21 LFE[^9-1]) – Limite**
 
 <sup>1</sup> Seuls les investissements dont le montant excède, par objet, 250'000 francs sont portés au débit du compte des investissements. Les investissements d'un montant moins élevé sont portés au débit du compte de résultats.
 
+[^9-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 9a
 
-**Opérations extraordinaires (art. 19 al. 3 let. c et 20 al. 3 let. c LFE)**
+**Opérations extraordinaires (art. 19 al. 3 let. c et 20 al. 3 let. c LFE[^9a-1])**
 
 <sup>1</sup> Peuvent être considérés comme extraordinaires les charges ou revenus, respectivement les dépenses ou recettes, non budgétisés atteignant 1 million de francs au minimum.
 
 <sup>2</sup> Ce montant est adaptable périodiquement par l'Administration des finances en fonction du renchérissement.
 
+[^9a-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 10
 
-**Imputations internes (art. 26 LFE)**
+**Imputations internes (art. 26 LFE[^10-1])**
 
 <sup>1</sup> Les imputations internes ont pour but une meilleure comparaison des coûts et une facturation plus précise à des tiers.
 
 <sup>2</sup> Les prestations effectuées entre les unités administratives de l'Etat doivent être comptabilisées dans les rubriques relatives aux imputations internes (39 et 49).
+
+[^10-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 #### Art. 11
 
@@ -197,7 +223,7 @@ Arrête:
 
 #### Art. 12
 
-**Amortissements (art. 27 LFE)**
+**Amortissements (art. 27 LFE[^12-1])**
 
 <sup>1</sup> Les biens du patrimoine administratif sont en règle générale amortis sur leur valeur résiduelle au terme de l'année courante.
 
@@ -216,17 +242,21 @@ Arrête:
 <tr><td>Terrains non bâtis, alpages, forêts, vignes</td><td>–</td><td>pas d'amortissement</td></tr>
 </table>
 
+[^12-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 13
 
-**Provisions (art. 28 LFE)**
+**Provisions (art. 28 LFE[^13-1])**
 
 <sup>1</sup> Peut faire l'objet de provisions notamment une dépense qui résulte d'un engagement existant dont le montant dépasse 100'000 francs mais dont toutes les modalités ne sont pas encore arrêtées.
 
 <sup>2</sup> Le recours à des provisions présentant le caractère de réserve peut être exceptionnellement autorisé par le Conseil d'Etat. Ces provisions doivent être inscrites de manière explicite aux comptes et ne peuvent être utilisées qu'en conformité avec le but fixé lors de leur constitution.
 
+[^13-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 13a
 
-**Préfinancements (art. 28a LFE)**
+**Préfinancements (art. 28a LFE[^13a-1])**
 
 <sup>1</sup> Le préfinancement porte sur un investissement ou une subvention d'investissements.
 
@@ -236,19 +266,25 @@ Arrête:
 
 <sup>4</sup> Le préfinancement est dissout lorsque le but visé est atteint ou lorsque le projet pour lequel il a été constitué est abandonné. L'abandon du projet est décidé par le Conseil d'Etat, notamment si aucune dépense n'a été engagée dans un délai de sept ans après l'adoption de la base légale spécifique.
 
+[^13a-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 ## 4 Crédit d'engagement
 
 #### Art. 14
 
-**Base de calcul (art. 30 LFE)**
+**Base de calcul (art. 30 LFE[^14-1])**
 
 <sup>1</sup> La somme des charges du dernier compte de résultats (résultat total) et des dépenses du dernier compte des investissements arrêtés par le Grand Conseil sert de base de calcul à l'obligation de recourir à la présentation d'un crédit d'engagement.
 
+[^14-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 15
 
-**Crédit additionnel (art. 33 LFE)**
+**Crédit additionnel (art. 33 LFE[^15-1])**
 
 <sup>1</sup> La demande de crédit additionnel porte uniquement sur la dépense supplémentaire nette, soit après déduction des participations.
+
+[^15-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 #### Art. 16
 
@@ -274,7 +310,7 @@ Arrête:
 
 #### Art. 18
 
-**Crédit supplémentaire (art. 35, 45 al. 2 let. d et 46 al. 1 let. d LFE)**
+**Crédit supplémentaire (art. 35, 45 al. 2 let. d et 46 al. 1 let. d LFE[^18-1])**
 
 <sup>1</sup> La demande de crédit supplémentaire porte uniquement sur la dépense supplémentaire nette. Elle doit être dûment justifiée.
 
@@ -287,9 +323,11 @@ Arrête:
 
 <sup>3</sup> Chaque Direction transmet à l'Administration des finances ses projets d'arrêtés portant demandes de crédits supplémentaires au moins dix jours avant leur inscription à l'ordre du jour de la séance du Conseil d'Etat.
 
+[^18-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 19
 
-**Report de crédit (art. 37 LFE)**
+**Report de crédit (art. 37 LFE[^19-1])**
 
 <sup>1</sup> Un crédit ne peut être reporté que si les conditions suivantes sont réunies:
 
@@ -303,6 +341,8 @@ Arrête:
 <sup>3</sup> Exceptionnellement, avec l'accord préalable de l'Administration des finances, le report en fin d'année de charges de fonctionnement particulières peut être autorisé. En cas de différend, le Conseil d'Etat tranche.
 
 <sup>4</sup> Les reports de crédits font l'objet d'une demande dûment justifiée adressée à l'Administration des finances avant la fin de l'année civile.
+
+[^19-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 #### Art. 20
 
@@ -319,15 +359,17 @@ Arrête:
 
 #### Art. 21
 
-**Budget – Justification (art. 39 et 40 al. 2 LFE)**
+**Budget – Justification (art. 39 et 40 al. 2 LFE[^21-1])**
 
 <sup>1</sup> Chaque dépense et chaque recette fait l'objet d'une justification.
 
 <sup>2</sup> Les justificatifs du budget explicitent les raisons des écarts entre le budget de l'année sous examen et celui de l'année précédente.
 
+[^21-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 22
 
-**Budget – Dépenses indispensables (art. 40 al. 3 LFE)**
+**Budget – Dépenses indispensables (art. 40 al. 3 LFE[^22-1])**
 
 <sup>1</sup> Sont considérés comme des dépenses indispensables à l'activité administrative:
 
@@ -337,9 +379,11 @@ Arrête:
 
 <sup>2</sup> Ces montants ne peuvent dépasser ceux qui ont été inscrits au dernier budget adopté par le Grand Conseil.
 
+[^22-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 22a
 
-**Indicateurs conjoncturels (art. 40b al. 4 LFE)**
+**Indicateurs conjoncturels (art. 40b al. 4 LFE[^22a-1])**
 
 <sup>1</sup> Lors de la fixation de ses objectifs budgétaires, le Conseil d'Etat prend en considération l'évolution de la situation conjoncturelle et de l'emploi ainsi que celle des revenus fiscaux, en se référant aux dernières données disponibles.
 
@@ -349,9 +393,11 @@ Arrête:
 
 <sup>4</sup> Il prend aussi en considération l'estimation des revenus fiscaux du Service cantonal des contributions et la statistique des salaires de la Caisse cantonale de compensation AVS.
 
+[^22a-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 22b
 
-**Dérogations à la règle de l'équilibre (art. 40b al. 4 LFE)**
+**Dérogations à la règle de l'équilibre (art. 40b al. 4 LFE[^22b-1])**
 
 <sup>1</sup> Il peut être dérogé à la règle de l'équilibre du budget lorsqu'au moins une des conditions suivantes est remplie:
 
@@ -359,9 +405,11 @@ Arrête:
 - b) le taux de chômage ou le taux de demandeurs d'emploi dans le canton dépasse respectivement 5 et 7 %;
 - c) la variation annuelle des revenus fiscaux et des salaires est négative.
 
+[^22b-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 22c
 
-**Besoins financiers exceptionnels (art. 40c al. 2 let. a LFE)**
+**Besoins financiers exceptionnels (art. 40c al. 2 let. a LFE[^22c-1])**
 
 <sup>1</sup> Peuvent être considérés comme exceptionnels les besoins financiers découlant à la fois d'événements ou situations:
 
@@ -370,9 +418,11 @@ Arrête:
 - c) pour lesquels il a été impossible de constituer des préfinancements ou des provisions;
 - d) présentant une importance majeure pour le canton et sa population.
 
+[^22c-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 22d
 
-**Recettes extraordinaires (art. 40d al. 3 LFE)**
+**Recettes extraordinaires (art. 40d al. 3 LFE[^22d-1])**
 
 <sup>1</sup> Sont considérées comme extraordinaires les recettes non budgétisées supérieures à 1 % du total des revenus, avant imputations internes, provenant:
 
@@ -381,17 +431,23 @@ Arrête:
 - c) des legs et dons;
 - d) d'autres rentrées exceptionnelles et uniques.
 
+[^22d-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 23
 
-**Base de calcul des centimes additionnels (art. 41 al. 6 LFE)**
+**Base de calcul des centimes additionnels (art. 41 al. 6 LFE[^23-1])**
 
 <sup>1</sup> Les centimes additionnels peuvent affecter l'impôt sur le revenu et la fortune des personnes physiques, l'impôt sur le bénéfice et le capital des personnes morales, l'impôt minimal ainsi que l'impôt sur le bénéfice en capital.
 
+[^23-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 24
 
-**Comptes de l'Etat (art. 42 al. 4 LFE)**
+**Comptes de l'Etat (art. 42 al. 4 LFE[^24-1])**
 
 <sup>1</sup> Des dépenses et des recettes de l'année en cours peuvent être comptabilisées dans le compte de l'année écoulée jusqu'à la date fixée dans les directives de l'Administration des finances.
+
+[^24-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 ## 5a Unités administratives gérées par prestations
 
@@ -455,6 +511,10 @@ Arrête:
 
 ## 5b Fonds d'infrastructures (art. 42a<sup>bis</sup> LFE)
 
+[^24e-1]
+
+[^24e-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 24f
 
 **Dotation maximale du fonds d'infrastructures**
@@ -465,7 +525,7 @@ Arrête:
 
 **Utilisation du fonds d'infrastructures**
 
-<sup>1</sup> Les moyens du fonds d'infrastructures contribuent au financement de projets relatifs à la mobilité ou à la formation.
+<sup>1</sup> Les moyens du fonds d'infrastructures contribuent au financement de projets relatifs à la mobilité, à la formation ou au climat.
 
 <sup>2</sup> Ils peuvent exceptionnellement être utilisés pour des projets stratégiques dans d'autres domaines.
 
@@ -495,25 +555,30 @@ Arrête:
 
 #### Art. 27
 
-**Compétences – En général (art. 44 al. 2 let. i LFE)**
+**Compétences – En général (art. 44 al. 2 let. i LFE[^27-1])**
 
 <sup>1</sup> Le Conseil d'Etat engage toute dépense qui n'est pas expressément de la compétence d'une autre autorité.
 
 <sup>2</sup> Les dispositions réglementaires relatives à la procédure d'adjudications et d'attributions de mandats sont réservées.
 
+[^27-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 28
 
-**Compétences – Charges de fonctionnement (art. 44 al. 3 et 45 al. 3 LFE)**
+**Compétences – Charges de fonctionnement (art. 44 al. 3 et 45 al. 3 LFE[^28-1])**
 
-<sup>1</sup> Les Directions sont compétentes pour engager les charges de fonctionnement nouvelles au sens de l'article 23 LFE ou celles qui appartiennent à la classe 31 du plan comptable «Biens, services, marchandises et autres charges d'exploitation» dont la somme excède 50'000 francs.
+<sup>1</sup> Les Directions sont compétentes pour engager les charges de fonctionnement nouvelles au sens de l'article 23 LFE[^28-2] ou celles qui appartiennent à la classe 31 du plan comptable «Biens, services, marchandises et autres charges d'exploitation» dont la somme excède 50'000 francs.
 
 <sup>2</sup> Les services sont compétents pour engager toutes les autres charges de fonctionnement.
 
 <sup>3</sup> Les établissements sont compétents pour engager toutes leurs charges de fonctionnement, dans les limites fixées par la Direction dont ils dépendent.
 
+[^28-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+[^28-2]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 29
 
-**Compétences – Dépenses d'investissements (art. 44 al. 3 et 45 al. 3 LFE)**
+**Compétences – Dépenses d'investissements (art. 44 al. 3 et 45 al. 3 LFE[^29-1])**
 
 <sup>1</sup> La compétence d'engager une dépense d'investissement appartient:
 
@@ -526,6 +591,8 @@ Arrête:
 - a) adjudications de marchés de fournitures et de services dès 500'000 francs TTC;
 - b) adjudications de marchés de construction dès 2'000'000 francs TTC;
 - c) avenants ou avenants cumulés entraînant un dépassement de plus de 50 % du montant initialement adjugé.
+
+[^29-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 #### Art. 30
 
@@ -597,73 +664,93 @@ Arrête:
 
 #### Art. 38
 
-**Direction des finances (art. 46 al. 1 LFE) – Directives (let. a et c)**
+**Direction des finances (art. 46 al. 1 LFE[^38-1]) – Directives (let. a et c)**
 
 <sup>1</sup> Le plan financier, le budget, les comptes de l'Etat, le plan comptable, les demandes de crédits supplémentaires et d'engagement sont élaborés conformément aux instructions émises par la Direction des finances.
 
+[^38-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 39
 
-**Direction des finances (art. 46 al. 1 LFE) – Conservation des pièces comptables (let. a)**
+**Direction des finances (art. 46 al. 1 LFE[^39-1]) – Conservation des pièces comptables (let. a)**
 
 <sup>1</sup> Les établissements et services conservent en règle générale leurs comptabilités et pièces comptables pendant cinq ans. Cette durée s'étend à six ans pour les secteurs dont les prestations sont assujetties à la taxe à la valeur ajoutée. Les secteurs qui sont autorisés à donner directement des ordres de paiement à la poste et aux banques doivent conserver les documents y relatifs durant dix ans.
 
+[^39-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 40
 
-**Direction des finances (art. 46 al. 1 LFE) – Examen des incidences financières (let. e)**
+**Direction des finances (art. 46 al. 1 LFE[^40-1]) – Examen des incidences financières (let. e)**
 
 <sup>1</sup> Les projets de lois, de décrets, d'ordonnances ainsi que d'arrêtés, de contrats ou de conventions avec incidences financières doivent être soumis à l'Administration des finances au moins dix jours avant la date limite d'inscription à l'ordre du jour du Conseil d'Etat.
 
+[^40-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 41
 
-**Direction des finances (art. 46 al. 1 LFE) – Service des paiements (let. f)**
+**Direction des finances (art. 46 al. 1 LFE[^41-1]) – Service des paiements (let. f)**
 
 <sup>1</sup> L'Administration des finances assure le service des paiements de l'Etat. Elle peut déléguer cette tâche à certains établissements et, à cet effet, leur accorder des avances de liquidités.
 
+[^41-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 42
 
-**Direction des finances (art. 46 al. 1 LFE) – Liquidités (let. g)**
+**Direction des finances (art. 46 al. 1 LFE[^42-1]) – Liquidités (let. g)**
 
 <sup>1</sup> L'Administration des finances s'informe régulièrement de l'état des comptes postaux et des comptes bancaires des établissements et services.
 
 <sup>2</sup> Les fonds disponibles doivent lui être versés sans délai.
 
+[^42-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 43
 
-**Direction des finances (art. 46 al. 1 LFE) – Blocage de paiements (let. g)**
+**Direction des finances (art. 46 al. 1 LFE[^43-1]) – Blocage de paiements (let. g)**
 
 <sup>1</sup> Lorsque la situation de trésorerie l'exige, la Direction des finances peut décider le blocage momentané des crédits de paiements.
 
+[^43-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 44
 
-**Direction des finances (art. 46 al. 1 LFE) – Autorisation (let. k)**
+**Direction des finances (art. 46 al. 1 LFE[^44-1]) – Autorisation (let. k)**
 
 <sup>1</sup> La création d'un service de caisse et de comptabilité, l'ouverture d'un compte postal ou d'un compte bancaire ont lieu avec l'accord de l'Administration des finances.
 
 <sup>2</sup> La double validation est exigée pour tous les mouvements intervenant sur ces comptes.
 
+[^44-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 45
 
-**Etablissements et services (art. 47 al. 1 LFE) – Planification (let. a)**
+**Etablissements et services (art. 47 al. 1 LFE[^45-1]) – Planification (let. a)**
 
 <sup>1</sup> Les établissements et services procèdent à la planification de leurs engagements financiers et s'efforcent de répartir leurs dépenses de fonctionnement et d'investissements sur toute l'année.
 
+[^45-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 46
 
-**Etablissements et services (art. 47 al. 1 LFE) – Pièces justificatives (let. b)**
+**Etablissements et services (art. 47 al. 1 LFE[^46-1]) – Pièces justificatives (let. b)**
 
 <sup>1</sup> La comptabilisation des dépenses et l'exécution des paiements se font sur le vu de factures, situations et décomptes originaux établis par les entreprises, fournisseurs et maîtres d'état.
 
+[^46-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 47
 
-**Etablissements et services (art. 47 al. 1 LFE) – Séparation de fonctions (let. c)**
+**Etablissements et services (art. 47 al. 1 LFE[^47-1]) – Séparation de fonctions (let. c)**
 
 <sup>1</sup> Au sein d'un établissement ou d'un service, les fonctions de caissier et de comptable doivent, en principe, être assumées par des personnes différentes.
 
 <sup>2</sup> Celui qui donne l'ordre de paiement ne peut assumer les fonctions de caissier ou de comptable.
 
+[^47-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 48
 
-**Etablissements et services (art. 47 al. 1 LFE) – Contrôle (let. c)**
+**Etablissements et services (art. 47 al. 1 LFE[^48-1]) – Contrôle (let. c)**
 
 <sup>1</sup> Les établissements et services tiennent un contrôle de leurs engagements financiers au moyen des documents de base, soit notamment des contrats, commandes, adjudications et promesses de subvention.
 
@@ -675,35 +762,45 @@ Arrête:
 - b) l'état des dépenses engagées et leurs échéances probables;
 - c) le volume total des paiements effectués.
 
+[^48-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 ## 7 Contrôle des finances
 
 #### Art. 49
 
-**Adjudications et achats importants (art. 51 al. 1 let. f LFE)**
+**Adjudications et achats importants (art. 51 al. 1 let. f LFE[^49-1])**
 
 <sup>1</sup> Sont considérés comme importants les adjudications et les achats de matériel et d'équipement d'un coût supérieur à 200'000 francs.
 
+[^49-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 50
 
-**Obligation d'informer (art. 52 LFE)**
+**Obligation d'informer (art. 52 LFE[^50-1])**
 
 <sup>1</sup> Les décisions du Grand Conseil et du Conseil d'Etat, publiées ou non publiées, ayant une portée financière doivent être transmises par le Secrétariat du Grand Conseil ou la Chancellerie d'Etat à l'Inspection des finances.
 
 <sup>2</sup> Les modalités de cette transmission d'informations sont réglées avec l'Inspection des finances.
 
+[^50-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 51
 
-**Rapports de contrôle (art. 53 LFE)**
+**Rapports de contrôle (art. 53 LFE[^51-1])**
 
 <sup>1</sup> Les rapports de l'Inspection des finances sont adressés à la Commission des finances et de gestion, au Conseil d'Etat, à la Direction concernée, à la Direction des finances, à l'Administration des finances et, à moins qu'il n'en résulte des risques pour la suite d'une enquête, au responsable du secteur contrôlé. Lorsque la Direction des finances est concernée, les rapports sont également adressés au conseiller d'Etat-Directeur suppléant.
 
 <sup>2</sup> Le rapport de contrôle est signé par l'inspecteur qui a effectué la révision. Il est visé par le chef de l'Inspection des finances, qui certifie ainsi en avoir pris connaissance et en approuver la teneur.
 
+[^51-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
+
 #### Art. 52
 
-**Découverte d'irrégularités (art. 55 LFE)**
+**Découverte d'irrégularités (art. 55 LFE[^52-1])**
 
 <sup>1</sup> Les mesures conservatoires peuvent consister en un blocage des paiements, une suppression du droit à la signature, une mise en sécurité de données et de documents comptables, une confiscation de clefs, voire une suspension provisoire d'activité.
+
+[^52-1]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 ## 8 Dispositions transitoires et finales
 
