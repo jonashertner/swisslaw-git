@@ -3,11 +3,11 @@ sr: "812.214.5"
 title: "Ordinanza del 14 settembre 2018 dell'Istituto svizzero per gli agenti terapeutici sui suoi emolumenti (OEm-Swissmedic)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/593"
 language: it
-version: 2023-01-01
+version: 2026-07-01
 adopted: 2018-09-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-593-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2018-593-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/it"
 
 (OEm-Swissmedic)
 
-del 14 settembre 2018 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 14 settembre 2018 (Stato 1° luglio 2026)
 
 Approvata dal Consiglio federale il 21 settembre 2018
 
@@ -26,7 +26,7 @@ visto l’articolo 65 capoverso 5 della legge del 15 dicembre 2000[^ingress-1] s
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 1
 
@@ -36,9 +36,9 @@ ordina:
 
 <sup>2</sup> Si applica per analogia agli emolumenti per le prestazioni fornite da Swissmedic nell’ambito degli espianti standardizzati per l’esecuzione dell’articolo 49 della legge dell’8 ottobre 2004[^1-1] sui trapianti, dell’articolo 16 della legge del 28 settembre 2012[^1-2] sulle epidemie e della legge del 3 ottobre 1951[^1-3] sugli stupefacenti.
 
-[^1-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^1-2]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^1-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^1-2]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^1-3]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 2
 
@@ -46,7 +46,7 @@ ordina:
 
 Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^2-1] sugli emolumenti (OgeEm).
 
-[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -62,7 +62,9 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 <sup>1</sup> Gli emolumenti si calcolano secondo importi fissi conformemente agli allegati 1 e 2 o secondo l’onere.
 
-<sup>2</sup> La tariffa oraria per gli emolumenti secondo l’onere ammonta a 200 franchi.
+<sup>2</sup> La tariffa oraria per gli emolumenti secondo l’onere ammonta a 270 franchi.[^4-1]
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 17 apr. 2026, approvata dal CF il 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 #### Art. 5
 
@@ -80,8 +82,8 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 Nella procedura di omologazione accelerata (art. 7 dell’ordinanza del 21 settembre 2018[^6-2] sui medicamenti), gli emolumenti per le nuove omologazioni, per le estensioni di omologazione e per indicazioni nuove o modificate sono maggiorati del 50 per cento.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
-[^6-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^6-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^6-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 #### Art. 7
 
@@ -89,7 +91,7 @@ Nella procedura di omologazione accelerata (art. 7 dell’ordinanza del 21 sette
 
 Per le nuove omologazioni e per le indicazioni nuove o modificate, presentate nell’ambito di una procedura con preannuncio e trattate con un termine abbreviato del 20 per cento, gli emolumenti raddoppiano.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 8
 
@@ -113,8 +115,8 @@ L’emolumento per nuove omologazioni non è riscosso su:[^9-1]
 - b. medicamenti veterinari importanti per malattie rare di cui all’articolo 8 OOSM;
 - c. medicamenti con indicazione esclusivamente pediatrica.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
-[^9-2]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^9-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^9-2]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 #### Art. 10
 
@@ -132,7 +134,7 @@ L’emolumento per nuove omologazioni non è riscosso su:[^9-1]
 
 Se la stessa variazione con documentazione dal contenuto identico è presentata contemporaneamente per più medicamenti (domanda collettiva), l’emolumento per il secondo e per ogni ulteriore medicamento è ridotto dell’80 per cento.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 12
 
@@ -146,7 +148,15 @@ Swissmedic può rinunciare interamente o in parte alla riscossione degli emolume
 
 Se per un medicamento omologato sono richieste contemporaneamente una o più estensioni di omologazioni o variazioni (domanda multipla), Swissmedic riscuote al massimo l’emolumento che applicherebbe per la nuova omologazione di questo medicamento. Da questo importo sono esclusi i supplementi di cui all’articolo 5.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+
+#### Art. 13a
+
+**Tetto massimo degli emolumenti per la registrazione di dispositivi, sistemi e kit procedurali**[^13a-1]
+
+Per la registrazione presso Swissmedic di dispositivi di un fabbricante o sistemi e kit procedurali di una persona che li assembla in uno stesso anno civile sono riscossi complessivamente emolumenti pari al massimo a 10 000 franchi.
+
+[^13a-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 17 apr. 2026, approvata dal CF il 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 #### Art. 14
 
@@ -163,7 +173,7 @@ Oltre agli esborsi di cui all’articolo 6 OGeEm[^14-1], sono considerati esbors
 
 <sup>2</sup> Scaduto il termine di pagamento, è dovuto un interesse di mora del cinque per cento all’anno.
 
-[^14-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^14-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 15
 
@@ -172,6 +182,18 @@ Oltre agli esborsi di cui all’articolo 6 OGeEm[^14-1], sono considerati esbors
 L’ordinanza del 2 dicembre 2011[^15-1] sugli emolumenti per gli agenti terapeutici è abrogata.
 
 [^15-1]: [[RU 2012 705](https://fedlex.data.admin.ch/eli/oc/2012/108)]
+
+#### Art. 15a
+
+**Disposizioni transitorie della modifica del 17 aprile 2026**[^15a-1]
+
+<sup>1</sup> Swissmedic fattura nel gennaio 2027 gli emolumenti per i dispositivi, i sistemi e i kit procedurali registrati entro il 31 dicembre 2026.
+
+<sup>2</sup> Per la registrazione entro il 31 dicembre 2026 di dispositivi di un fabbricante o sistemi e kit procedurali di una persona che li assembla sono riscossi complessivamente emolumenti pari al massimo a 10 000 franchi.
+
+<sup>3</sup> Per i dispositivi, i sistemi e i kit procedurali che, dopo il 31 dicembre 2026, non sono più immessi in commercio e la cui registrazione è stata modificata di conseguenza presso Swissmedic, non è riscosso alcun emolumento.
+
+[^15a-1]: Introdotto dalla cifra I dell’O del Consiglio dell’Istituto del 17 apr. 2026, approvata dal CF il 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 #### Art. 16
 
@@ -185,7 +207,7 @@ Allegato 1[^t-1]
 
 ## Emolumenti per medicamenti per uso umano e veterinario
 
-[^t-1]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 30 ott. 2020, approvata dal CF il 25 nov. 2020 ([RU 2020 5433](https://fedlex.data.admin.ch/eli/oc/2020/945)) e dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^t-1]: Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 30 ott. 2020, approvata dal CF il 25 nov. 2020 ([RU 2020 5433](https://fedlex.data.admin.ch/eli/oc/2020/945)) e dalla cifra II cpv. 1 dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 ### I. Emolumenti per omologazioni
 
@@ -235,9 +257,9 @@ Allegato 1[^t-1]
 <tr><td>6.1 Variazioni minori di tipo IB</td><td>750.–</td><td></td></tr>
 <tr><td>7 Emolumenti per variazioni di tipo IA di medicamenti per uso umano</td><td></td><td></td></tr>
 <tr><td>7.1 Variazioni minori di tipo IA, notifica immediatamente dopo l’attuazione della variazione</td><td>200.–</td><td></td></tr>
-<tr><td>7.2 Variazioni minori di tipo IA, notifica entro 12 mesi dall’attuazione della variazione</td><td>200.–</td><td>[tab]</td></tr>
+<tr><td>7.2 Variazioni minori di tipo IA, notifica entro 12 mesi dall’attuazione della variazione</td><td>200.–</td><td></td></tr>
 <tr><td colspan="3">7*a* Emolumenti per le modifiche con valutazione dei medicamenti veterinari</td></tr>
-<tr><td>7*a*.1 Variazione della forma farmaceutica</td><td>[tab]</td><td>3 000.–</td></tr>
+<tr><td>7*a*.1 Variazione della forma farmaceutica</td><td></td><td>3 000.–</td></tr>
 <tr><td>7*a*.2 Variazione del principio attivo</td><td></td><td>3 000.–</td></tr>
 <tr><td>7*a*.3 Variazione o integrazione della posologia (= dosaggio)</td><td></td><td>3 000.–</td></tr>
 <tr><td>7*a*.4 Variazione o aggiunta di un modo di somministrazione</td><td></td><td>3 000.–</td></tr>
@@ -263,7 +285,7 @@ Allegato 1[^t-1]
 <tr><td>9.4 Trasferimento dell’omologazione di un medicamento</td><td>1 000.–</td><td>1 000.–</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlI-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex1-lvlu1-lvlI-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### II. Emolumenti per controlli di oneri di omologazione
 
@@ -320,12 +342,14 @@ Allegato 2[^t-2]
 
 ## Emolumenti per dispositivi medici
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)). Aggiornato dalla cifra II dell’O del Consiglio dell’Istituto del 17 apr. 2026, approvata dal CF il 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 <table>
 <tr><th></th><th>franchi</th></tr>
 <tr><td>1 Immissione in commercio</td><td></td></tr>
 <tr><td>1.1 Notifica per l’immissione in commercio di un dispositivo medico</td><td>300.–</td></tr>
+<tr><td>1.2 Prima registrazione in un anno civile presso Swissmedic: – di un dispositivo di un fabbricante; – di un sistema di una persona che l’assembla; – di un kit procedurale di una persona che l’assembla.</td><td>200.–</td></tr>
+<tr><td>1.3 Ogni registrazione supplementare nello stesso anno civile presso Swissmedic: – di un dispositivo di un fabbricante; – di un sistema di una persona che l’assembla; – di un kit procedurale di una persona che l’assembla.</td><td>20.–</td></tr>
 <tr><td>2 Autorizzazione di sperimentazioni cliniche</td><td></td></tr>
 <tr><td>2.1 Nuova sperimentazione clinica</td><td>5 000.–</td></tr>
 <tr><td>2.2 Verifica semplificata di una sperimentazione clinica</td><td>1 500.–</td></tr>

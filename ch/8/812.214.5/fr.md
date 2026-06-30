@@ -3,11 +3,11 @@ sr: "812.214.5"
 title: "Ordonnance du 14 septembre 2018 de l'Institut suisse des produits thérapeutiques sur ses émoluments (OE-Swissmedic)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/593"
 language: fr
-version: 2023-01-01
+version: 2026-07-01
 adopted: 2018-09-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-593-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-593-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/fr"
 
 (OE-Swissmedic)
 
-du 14 septembre 2018 (État le 1<sup>er</sup> janvier 2023)
+du 14 septembre 2018 (État le 1<sup>er</sup> juillet 2026)
 
 Approuvée par le Conseil fédéral le 21 septembre 2018
 
@@ -26,7 +26,7 @@ vu l’art. 65, al. 5, de la loi du 15 décembre 2000 sur les produits thérapeu
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 1
 
@@ -36,9 +36,9 @@ arrête:
 
 <sup>2</sup> Elle s’applique par analogie aux émoluments relatifs aux prestations fournies par Swissmedic dans le domaine des transplants standardisés pour l’exécution de l’art. 49 de la loi du 8 octobre 2004 sur la transplantation[^1-1], de l’art. 16 de la loi du 28 septembre 2012 sur les épidémies[^1-2] et de la loi du 3 octobre 1951 sur les stupéfiants[^1-3].
 
-[^1-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^1-2]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^1-1]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^1-2]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^1-3]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 2
 
@@ -46,7 +46,7 @@ arrête:
 
 Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^2-1] s’appliquent pour autant que la présente ordonnance ne prévoie pas de réglementation particulière.
 
-[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -62,7 +62,9 @@ Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émolu
 
 <sup>1</sup> Les émoluments sont calculés selon les tarifs fixes figurant dans les annexes 1 et 2 ou selon le temps consacré.
 
-<sup>2</sup> Le taux horaire pour les émoluments facturés selon le temps consacré à un dossier se monte à 200 francs.
+<sup>2</sup> Le taux horaire pour les émoluments facturés selon le temps consacré à un dossier se monte à 270 francs.[^4-1]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’institut du 17 avr. 2026, approuvée par le CF le 27 mai 2026 et en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 #### Art. 5
 
@@ -81,7 +83,7 @@ Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émolu
 En cas de procédure rapide d’autorisation (art. 7 de l’ordonnance du 21 septembre 2018 sur les médicaments[^6-2]), les émoluments pour les nouvelles autorisations, les extensions d’autorisation et les nouvelles indications ou la modification d’indications augmentent de 50 %.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’institut du 16 sept. 2022, approuvée par le CF le 19 oct. 2022 et en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
-[^6-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^6-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 #### Art. 7
 
@@ -114,7 +116,7 @@ Une exonération des émoluments applicables aux nouvelles autorisations est pro
 - c. les médicaments dont l’indication est exclusivement pédiatrique.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’institut du 16 sept. 2022, approuvée par le CF le 19 oct. 2022 et en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
-[^9-2]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^9-2]: [RS 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 #### Art. 10
 
@@ -148,6 +150,14 @@ Si une ou plusieurs extensions d’autorisation ou modifications sont demandées
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’institut du 16 sept. 2022, approuvée par le CF le 19 oct. 2022 et en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
+#### Art. 13a
+
+**Plafonnement des émoluments pour l’enregistrement des dispositifs, systèmes et nécessaires**[^13a-1]
+
+Pour les dispositifs d’un fabricant ou les systèmes et les nécessaires d’une personne qui les assemble enregistrés auprès de Swissmedic au cours d’une même année civile, les émoluments perçus se montent au total à un maximum de 10 000 francs.
+
+[^13a-1]: Introduit par le ch. I de l’O du Conseil de l’institut du 17 avr. 2026, approuvée par le CF le 27 mai 2026 et en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
+
 #### Art. 14
 
 **Débours**
@@ -160,9 +170,10 @@ Outre les débours selon l’art. 6 OGEmol[^14-1], les frais suivants sont répu
 - b. les frais liés à des études scientifiques;
 - c. les frais d’analyses en laboratoire;
 - d. les frais d’examens particuliers.
-- [tab] <sup>2</sup> À l’expiration du délai de paiement, des intérêts moratoires annuels de 5 % s’appliquent.
 
-[^14-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>2</sup> À l’expiration du délai de paiement, des intérêts moratoires annuels de 5 % s’appliquent.
+
+[^14-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 15
 
@@ -171,6 +182,18 @@ Outre les débours selon l’art. 6 OGEmol[^14-1], les frais suivants sont répu
 L’ordonnance du 2 décembre 2011 sur les émoluments des produits thérapeutiques[^15-1] est abrogée.
 
 [^15-1]: [[RO 2012 705](https://fedlex.data.admin.ch/eli/oc/2012/108)]
+
+#### Art. 15a
+
+**Dispositions transitoires relatives à la modification du 17 avril 2026**[^15a-1]
+
+<sup>1</sup> Swissmedic facture en janvier 2027 les émoluments concernant les dispositifs, les systèmes et les nécessaires enregistrés jusqu’au 31 décembre 2026.
+
+<sup>2</sup> Pour les dispositifs d’un fabricant ou les systèmes et les nécessaires d’une personne qui les assemble enregistrés jusqu’au 31 décembre 2026, les émoluments perçus se montent au total à un maximum de 10 000 francs.
+
+<sup>3</sup> Aucun émolument ne sera perçu pour les dispositifs, les systèmes et les nécessaires qui ne seront plus mis sur le marché après le 31 décembre 2026 et dont l’enregistrement auprès de Swissmedic aura été modifié en conséquence.
+
+[^15a-1]: Introduit par le ch. I de l’O du Conseil de l’institut du 17 avr. 2026, approuvée par le CF le 27 mai 2026 et en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 #### Art. 16
 
@@ -262,7 +285,7 @@ Annexe 1[^t-1]
 <tr><td>9.4 Transfert de l’autorisation de mise sur le marché</td><td>1 000.–</td><td>1 000.–</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlI-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex1-lvlu1-lvlI-1]: [RS 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### II. Émoluments pour le contrôle des charges d’une autorisation de mise sur le marché
 
@@ -319,12 +342,14 @@ Annexe 2[^t-2]
 
 ## Émoluments pour dispositifs médicaux
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du Conseil de l’institut du 16 sept. 2022, approuvée par le CF le 19 oct. 2022 et en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du Conseil de l’institut du 16 sept. 2022, approuvée par le CF le 19 oct. 2022 ([RO 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)). Mise à jour par le ch. II de l’O du Conseil de l’institut du 17 avr. 2026, approuvée par le CF le 27 mai 2026 et en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 <table>
 <tr><th></th><th>en francs</th></tr>
 <tr><td>1 Mise sur le marché</td><td></td></tr>
 <tr><td>1.1 Déclaration pour la mise sur le marché d’un dispositif médical (notification)</td><td>300.–</td></tr>
+<tr><td>1.2 Premier enregistrement au cours d’une année civile auprès de Swissmedic: – d’un dispositif d’un fabricant; – d’un système d’une personne qui l’assemble; – d’un nécessaire d’une personne qui l’assemble.</td><td>200.–</td></tr>
+<tr><td>1.3 Tout autre enregistrement au cours de la même année civile auprès de Swissmedic: – d’un dispositif d’un fabricant; – d’un système d’une personne qui l’assemble; – d’un nécessaire d’une personne qui l’assemble.</td><td>20.–</td></tr>
 <tr><td>2 Autorisation d’essais cliniques</td><td></td></tr>
 <tr><td>2.1 Nouvel essai clinique</td><td>5 000.–</td></tr>
 <tr><td>2.2 Vérification simplifiée d’un essai clinique</td><td>1 500.–</td></tr>

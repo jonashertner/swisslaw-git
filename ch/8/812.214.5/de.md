@@ -3,11 +3,11 @@ sr: "812.214.5"
 title: Verordnung vom 14. September 2018 des Schweizerischen Heilmittelinstituts über seine Gebühren (GebV-Swissmedic)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/593"
 language: de
-version: 2023-01-01
+version: 2026-07-01
 adopted: 2018-09-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-593-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2018-593-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/de"
 
 (GebV-Swissmedic)
 
-vom 14. September 2018 (Stand am 1. Januar 2023)
+vom 14. September 2018 (Stand am 1. Juli 2026)
 
 Vom Bundesrat genehmigt am 21. September 2018
 
@@ -26,7 +26,7 @@ gestützt auf Artikel 65 Absatz 5 des Heilmittelgesetzes vom 15. Dezember 2000[^
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 1
 
@@ -36,9 +36,9 @@ verordnet:
 
 <sup>2</sup> Sie ist sinngemäss anwendbar auf Gebühren für Leistungen, welche die Swissmedic beim Vollzug mit Transplantatprodukten nach Artikel 49 des Transplantationsgesetzes vom 8. Oktober 2004[^1-1], nach Artikel 16 des Epidemiengesetzes vom 28. September 2012[^1-2] sowie nach dem Betäubungsmittelgesetz vom 3. Oktober 1951[^1-3] erbringt.
 
-[^1-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
-[^1-2]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^1-1]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^1-2]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^1-3]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 2
 
@@ -46,7 +46,7 @@ verordnet:
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^2-1] (AllgGebV).
 
-[^2-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -62,7 +62,9 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 <sup>1</sup> Die Gebühren werden nach festen Gebührensätzen gemäss den Anhängen 1 und 2 oder nach Aufwand bemessen.
 
-<sup>2</sup> Der Stundenansatz für die Gebühr nach Aufwand beträgt 200 Franken.
+<sup>2</sup> Der Stundenansatz für die Gebühr nach Aufwand beträgt 270 Franken.[^4-1]
+
+[^4-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 17. April 2026, vom BR genehmigt am 27. Mai 2026 und in Kraft seit 1. Juli 2026 ([AS 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 #### Art. 5
 
@@ -81,7 +83,7 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 Im beschleunigten Zulassungsverfahren (Art. 7 der Arzneimittelverordnung vom 21. September 2018[^6-2]) erhöhen sich die Gebühren für Neuzulassungen, Zulassungserweiterungen und für neue oder geänderte Indikationen um 50 Prozent.
 
 [^6-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
-[^6-2]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^6-2]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 #### Art. 7
 
@@ -114,7 +116,7 @@ Die Gebühr für Neuzulassungen wird erlassen für:[^9-1]
 - c. Arzneimittel mit ausschliesslich pädiatrischer Indikation.
 
 [^9-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
-[^9-2]: [SR 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^9-2]: [SR 812.212.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9367)
 
 #### Art. 10
 
@@ -148,6 +150,14 @@ Werden für ein zugelassenes Arzneimittel eine oder gleichzeitig mehrere Zulassu
 
 [^13-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
+#### Art. 13a
+
+**Gebührenplafonierung bei Registrierungen von Produkten, Systemen und Behandlungseinheiten**[^13a-1]
+
+Für die innerhalb eines Kalenderjahrs bei der Swissmedic registrierten Produkte eines Herstellers oder Systeme und Behandlungseinheiten einer Person, die diese zusammenstellt, werden insgesamt höchstens Gebühren von 10 000 Franken erhoben.
+
+[^13a-1]: Eingefügt durch Ziff. I der V des Institutsrats vom 17. April 2026, vom BR genehmigt am 27. Mai 2026 und in Kraft seit 1. Juli 2026 ([AS 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
+
 #### Art. 14
 
 **Auslagen**
@@ -160,9 +170,10 @@ Neben den Auslagen nach Artikel 6 AllgGebV[^14-1] gelten als Auslagen insbesonde
 - b. die Kosten wissenschaftlicher Untersuchungen;
 - c. die Kosten von Laboruntersuchungen;
 - d. die Kosten besonderer Prüfungen.
-- [tab] <sup>2</sup> Nach Ablauf der Zahlungsfrist ist ein Verzugszins von 5 Prozent pro Jahr geschuldet.
 
-[^14-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>2</sup> Nach Ablauf der Zahlungsfrist ist ein Verzugszins von 5 Prozent pro Jahr geschuldet.
+
+[^14-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 15
 
@@ -171,6 +182,18 @@ Neben den Auslagen nach Artikel 6 AllgGebV[^14-1] gelten als Auslagen insbesonde
 Die Heilmittel-Gebührenverordnung vom 2. Dezember 2011[^15-1] wird aufgehoben.
 
 [^15-1]: [[AS 2012 705](https://fedlex.data.admin.ch/eli/oc/2012/108)]
+
+#### Art. 15a
+
+**Übergangsbestimmungen zur Änderung vom 17. April 2026**[^15a-1]
+
+<sup>1</sup> Die Swissmedic stellt die Gebühren für die bis am 31. Dezember 2026 registrierten Produkte, Systeme und Behandlungseinheiten im Januar 2027 in Rechnung.
+
+<sup>2</sup> Für die bis am 31. Dezember 2026 registrierten Produkte eines Herstellers oder Systeme und Behandlungseinheiten einer Person, die diese zusammenstellt, werden insgesamt höchstens Gebühren von 10 000 Franken erhoben.
+
+<sup>3</sup> Für Produkte, Systeme und Behandlungseinheiten, die nach dem 31. Dezember 2026 nicht mehr in Verkehr gebracht werden und deren Registrierung bei der Swissmedic entsprechend geändert wurde, werden keine Gebühren erhoben.
+
+[^15a-1]: Eingefügt durch Ziff. I der V des Institutsrats vom 17. April 2026, vom BR genehmigt am 27. Mai 2026 und in Kraft seit 1. Juli 2026 ([AS 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 #### Art. 16
 
@@ -245,7 +268,6 @@ Anhang 1[^t-1]
 <tr><td>7*a*.7 Neue oder geänderte Dosierungsempfehlung</td><td></td><td>2 500.–</td></tr>
 <tr><td>7*a*.8 Grössere Änderung der Arzneimittelinformation</td><td></td><td>2 000.–</td></tr>
 <tr><td>7*a*.9 Grössere Änderung der Qualität</td><td></td><td>2 000.–</td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
 <tr><td>7*a*.10 Umteilung in eine andere Abgabekategorie</td><td></td><td>2 000.–</td></tr>
 <tr><td>7*a*.11 Sonstige grössere Änderungen</td><td></td><td>2 000.–</td></tr>
 <tr><td>7*a*.12 Änderung oder Ergänzung einer Zieltierart Heimtiere</td><td></td><td>2 000.–</td></tr>
@@ -263,7 +285,7 @@ Anhang 1[^t-1]
 <tr><td>9.4 Übertragung der Zulassung eines Arzneimittels</td><td>1 000.–</td><td>1 000.–</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlI-1]: [SR 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
+[^annex1-lvlu1-lvlI-1]: [SR 812.212.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9368)
 
 ### II. Gebühren für Kontrollen von Zulassungsauflagen
 
@@ -320,12 +342,14 @@ Anhang 2[^t-2]
 
 ## Gebühren für Medizinprodukte
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)). Bereinigt gemäss Ziff. II der V des Institutsrats vom 17. April 2026, vom BR genehmigt am 27. Mai 2026 und in Kraft seit 1. Juli 2026 ([AS 2026 257](https://fedlex.data.admin.ch/eli/oc/2026/257)).
 
 <table>
 <tr><th></th><th>Franken</th></tr>
 <tr><td>1 Inverkehrbringen</td><td></td></tr>
 <tr><td>1.1 Meldung für das Inverkehrbringen eines Medizinprodukts (Notifikation)</td><td>300.–</td></tr>
+<tr><td>1.2 Erste Registrierung in einem Kalenderjahr bei der Swissmedic: – eines Produkts eines Herstellers; – eines Systems einer Person, die dieses zusammenstellt; – einer Behandlungseinheit einer Person, die diese zusammenstellt.</td><td>200.–</td></tr>
+<tr><td>1.3 Jede weitere Registrierung im selben Kalenderjahr bei der Swissmedic: – eines Produkts eines Herstellers; – eines Systems einer Person, die dieses zusammenstellt; – einer Behandlungseinheit einer Person, die diese zusammenstellt.</td><td>20.–</td></tr>
 <tr><td>2 Bewilligung von klinischen Versuchen</td><td></td></tr>
 <tr><td>2.1 Neuer klinischer Versuch</td><td>5 000.–</td></tr>
 <tr><td>2.2 Vereinfachte Prüfung eines klinischen Versuchs</td><td>1 500.–</td></tr>
