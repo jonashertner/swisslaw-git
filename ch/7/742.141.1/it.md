@@ -4,11 +4,11 @@ title: "Ordinanza del 23 novembre 1983 sulla costruzione e l'esercizio delle fer
 short: Oferr
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: it
-version: 2024-07-01
+version: 2026-07-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240701-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/it"
 
 (Ordinanza sulle ferrovie, Oferr)
 
-del 23 novembre 1983 (Stato 1° luglio 2024)
+del 23 novembre 1983 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 [^ingress-3]: [RS 744.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8875)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -36,7 +36,7 @@ ordina:
 
 [^chap1-sec1-1]
 
-[^chap1-sec1-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^chap1-sec1-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 1
 
@@ -53,14 +53,14 @@ La presente ordinanza disciplina la pianificazione, la costruzione, l’esercizi
 
 <sup>3</sup> Essa si applica a tutte le ferrovie assoggettate alla Lferr e alle parti elettriche di impianti filoviari e filobus.[^1-2]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 ### Sezione 2: Sicurezza
 
 [^chap1-sec2-1]
 
-[^chap1-sec2-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^chap1-sec2-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 2
 
@@ -78,8 +78,8 @@ La presente ordinanza disciplina la pianificazione, la costruzione, l’esercizi
 
 <sup>5</sup> Se parti o materiali risultano essenziali per la sicurezza, occorre poter provare che le loro caratteristiche e il loro stato soddisfano i requisiti conformemente al presente articolo.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^2-2]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^2-2]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 2a
 
@@ -90,8 +90,8 @@ L’Ufficio federale dei trasporti (UFT) esamina gli aspetti rilevanti per la si
 - a.[^2a-2] sulla base di attestati di conformità (art. 15*k* e 15*l*), rapporti di perizia (art. 6 cpv. 3, 5*l* cpv. 3 e 15*m*) o rapporti di valutazione sulla sicurezza (art. 5*m* cpv. 4); o
 - b. procedendo a controlli per campionatura.
 
-[^2a-1]: Introdotto dal n. I dell’O del 16 nov. 2011 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^2a-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2011 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^2a-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 3
 
@@ -112,12 +112,12 @@ A complemento della presente ordinanza si applicano segnatamente:
 - c. l’ordinanza del 23 dicembre 1999[^4-5] sulla protezione dalle radiazioni non ionizzanti;
 - d.[^4-6] l’ordinanza del 14 marzo 2008[^4-7] sull’approvvigionamento elettrico.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^4-3]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 [^4-4]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 [^4-5]: [RS 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
-[^4-6]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^4-6]: Introdotta dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 [^4-7]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 5
@@ -135,10 +135,10 @@ L’UFT può accordare deroghe in casi singoli se il richiedente prova che in ta
 
 <sup>3</sup> L’UFT può autorizzare domande di approvazione dei piani o di autorizzazione d’esercizio sulla base delle prescrizioni valide al momento della ricezione della domanda completa, sempre che in tal modo non siano compromesse la sicurezza e l’interoperabilità.[^5-4]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5-4]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5-4]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 5a
 
@@ -160,12 +160,12 @@ Se la domanda è conforme anche ai requisiti previsti nell’allegato I del succ
 
 <sup>3</sup> L’UFT informa il gestore dell’infrastruttura entro un mese riguardo alla completezza della domanda di rilascio, di modifica o di rinnovo. Decide in merito alla domanda entro quattro mesi dalla ricezione della documentazione completa.[^5a-6]
 
-[^5a-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 [^5a-2]: Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie (rifusione), versione della GU L 138 del 26.5.2016, pag. 102; modificata da ultimo dal regolamento (UE) 2020/1530, GU L 352 del 22.10.2020, pag. 1.
 [^5a-3]: Regolamento delegato (UE) 2018/762 della Commissione, dell’8 marzo 2018, che stabilisce metodi comuni di sicurezza relativi ai requisiti del sistema di gestione della sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga i regolamenti della Commissione (UE) n. 1158/2010 e (UE) n. 1169/2010, versione della GU L 129 del 25.5.2018, pag. 26; modificato da ultimo dal regolamento delegato (UE) 2020/782, GU L 188 del 15.6.2020, pag. 14.
-[^5a-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^5a-5]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^5a-6]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5a-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5a-5]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5a-6]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5b
 
@@ -179,14 +179,14 @@ Se la domanda è conforme anche ai requisiti previsti nell’allegato I del succ
 
 <sup>4</sup> L’UFT ritira il certificato di sicurezza se nel primo anno del suo rilascio non è stato utilizzato nel modo previsto.[^5b-8]
 
-[^5b-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5b-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5b-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5b-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5b-3]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 [^5b-4]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 [^5b-5]: Regolamento di esecuzione (UE) 2018/763 della Commissione, del 9 aprile 2018, che stabilisce le modalità pratiche per il rilascio dei certificati di sicurezza unici alle imprese ferroviarie a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (CE) n. 653/2007 della Commissione, versione della GU L 129 del 25.5.2018, pag. 49; modificato da ultimo dal regolamento di esecuzione (UE) 2020/777, GU L 188 del 15.6.2020, pag. 1.
-[^5b-6]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^5b-7]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^5b-8]: Nuovo testo giusta il n. I 5 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^5b-6]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5b-7]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5b-8]: Nuovo testo giusta la cifra I n. 5 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 5b<sup>bis</sup>
 
@@ -196,7 +196,7 @@ Se la domanda è conforme anche ai requisiti previsti nell’allegato I del succ
 
 <sup>2</sup> Le domande di rilascio di certificati di sicurezza che abbiano validità in Svizzera e in almeno un suo Paese confinante devono essere presentate all’ERA.
 
-[^5bbis-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5bbis-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5c
 
@@ -206,8 +206,8 @@ Se la domanda è conforme anche ai requisiti previsti nell’allegato I del succ
 
 <sup>2</sup> Se non mostra come il sistema di gestione della sicurezza soddisfa le esigenze secondo l’articolo 5*a* capoverso 1 o l’articolo 5*b* capoverso 1, il richiedente deve presentare prove aggiuntive.
 
-[^5c-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5c-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5c-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5c-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5d
 
@@ -222,8 +222,8 @@ Un utente di un binario di raccordo può oltrepassare il punto di raccordo senza
 - a. sulla base delle informazioni messe a disposizione dal gestore dell’infrastruttura, si sia assicurato che il veicolo è compatibile con la tratta; e
 - b. il gestore dell’infrastruttura abbia confermato che il percorso tra il binario di raccordo e il binario di stazione utilizzato presenti un dispositivo di protezione assoluta contro possibili percorsi treno.[^5d-2]
 
-[^5d-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5d-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5d-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5d-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 
 #### Art. 5e
 
@@ -234,7 +234,7 @@ La procedura dell’UFT di rilascio e di rinnovo è retta:
 - a. nel caso dell’autorizzazione di sicurezza per i gestori dell’infrastruttura: dall’articolo 12 della direttiva (UE) 2016/798[^5e-2];
 - b. nel caso del certificato di sicurezza per le imprese di trasporto ferroviario: dall’articolo 10 della direttiva (UE) 2016/798 nonché dall’articolo 6 e dall’allegato II del regolamento di esecuzione (UE) 2018/763[^5e-3].
 
-[^5e-1]: Introdotto dal n. I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5e-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^5e-2]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 [^5e-3]: Cfr. nota a piè di pagina relativa all’art. 5*b* cpv. 1.
 
@@ -246,8 +246,8 @@ La procedura dell’UFT di rilascio e di rinnovo è retta:
 
 <sup>2</sup> Per le tratte in prossimità della frontiera e per le corse su siffatte tratte, l’UFT può riconoscere le autorizzazioni di sicurezza e i certificati di sicurezza esteri, senza che a tale scopo sia necessario un accordo internazionale sul riconoscimento reciproco di tali autorizzazioni e certificati.
 
-[^5f-1]: Introdotto dal n. I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^5f-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5f-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5f-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5g
 
@@ -259,7 +259,7 @@ Le imprese ferroviarie presentano annualmente all’UFT, entro il 31 maggio, un 
 - b. l’articolo 18 paragrafo 1 del regolamento di esecuzione (UE) n. 402/2013[^5g-3]; e
 - c. gli allegati I numero 4.5.1.2 e II numero 4.5.1.2 del regolamento delegato (UE) 2018/762[^5g-4].
 
-[^5g-1]: Introdotto dal n. I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5g-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5g-2]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 [^5g-3]: Regolamento di esecuzione (UE) n. 402/2013 della Commissione, del 30 aprile 2013, relativo al metodo comune di sicurezza per la determinazione e valutazione dei rischi e che abroga il regolamento (CE) n. 352/2009, GU L 121 del 3.5.2013, pag. 8; modificato da ultimo dal regolamento di esecuzione (UE) 2015/1136, GU L 185 del 14.7.2015, pag. 6.
 [^5g-4]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
@@ -272,7 +272,7 @@ Le imprese ferroviarie presentano annualmente all’UFT, entro il 31 maggio, un 
 
 <sup>2</sup> Pubblica un rapporto annuale sulla sua attività in veste di autorità di vigilanza che contiene almeno le indicazioni di cui all’articolo 19 della direttiva (UE) 2016/798.
 
-[^5h-1]: Introdotto dal n. I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5h-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5h-2]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 
 #### Art. 5i
@@ -292,18 +292,18 @@ Non devono essere iscritti nel registro i veicoli di servizio (art. 57), che:
 - a. possono circolare sia su rotaia sia su strada (veicoli strada-rotaia);
 - b. sono smontabili e rimontabili.[^5i-6]
 
-[^5i-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5i-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 [^5i-2]: Decisione di esecuzione (UE) 2018/1614 della Commissione, del 25 ottobre 2018, che stabilisce le specifiche per i registri dei veicoli di cui all’articolo 47 della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio e che modifica e abroga la decisione 2007/756/CE della Commissione, versione della GU L 268 del 26.10.2018, pag. 53.
-[^5i-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^5i-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^5i-5]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^5i-6]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^5i-3]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-5]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-6]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 5i<sup>bis</sup>
 
 [^5ibis-1]
 
-[^5ibis-1]: Introdotto dal n. I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Abrogato dal n. I dell’O del 12 giu. 2020, con effetto dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^5ibis-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Abrogato dalla cifra I dell’O del 12 giu. 2020, con effetto dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 5j
 
@@ -324,7 +324,7 @@ Il servizio responsabile della manutenzione dei veicoli secondo l’articolo 17*
 
 <sup>2</sup> Chiunque abbia motivo di ritenere che il servizio responsabile non adempia i relativi requisiti, è tenuto a informarne l’organismo di certificazione. L’organismo di certificazione comunica senza indugio all’UFT le misure adottate.
 
-[^5j-1]: Introdotto dal n. I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5j-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5j-2]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 [^5j-3]: Regolamento di esecuzione (UE) 2019/779 della Commissione, del 16 maggio 2019, che stabilisce disposizioni dettagliate su un sistema di certificazione dei soggetti responsabili della manutenzione dei veicoli a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 445/2011 della Commissione, versione della GU L 139 I del 27.5.2019, pag. 360; modificato da ultimo dal regolamento di esecuzione (UE) 2020/780, GU L 188 del 15.6.2020, pag. 8.
 
@@ -334,14 +334,14 @@ Il servizio responsabile della manutenzione dei veicoli secondo l’articolo 17*
 
 Alle imprese ferroviarie e alle persone responsabili della manutenzione dei veicoli si applicano gli obblighi sul processo di monitoraggio previsti negli articoli 3–5 e nell’allegato del regolamento (UE) n. 1078/2012[^5k-2].
 
-[^5k-1]: Introdotto dal n. I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5k-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^5k-2]: Regolamento (UE) n. 1078/2012 della Commissione, del 16 novembre 2012, relativo a un metodo di sicurezza comune per il monitoraggio che devono applicare le imprese ferroviarie, i gestori dell’infrastruttura che hanno ottenuto un certificato di sicurezza o un’autorizzazione di sicurezza e i soggetti responsabili della manutenzione, GU L 320 del 17.11.2012, pag. 8.
 
 ### Sezione 3: Pianificazione, costruzione ed esercizio
 
 [^chap1-sec3-1]
 
-[^chap1-sec3-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^chap1-sec3-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 5l
 
@@ -361,7 +361,7 @@ Per comprovare la sicurezza e la conformità alle prescrizioni, il gestore dell�
 
 <sup>4</sup> La prova della conformità alle prescrizioni e alla decisione comprende una dichiarazione del gestore dell’infrastruttura o del detentore del veicolo. Questa può basarsi sulle dichiarazioni dei fabbricanti.
 
-[^5l-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5l-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5m
 
@@ -375,7 +375,7 @@ Per comprovare la sicurezza e la conformità alle prescrizioni, il gestore dell�
 
 <sup>4</sup> Se si tratta di una modifica rilevante, deve effettuare una valutazione dei rischi applicando il procedimento di gestione dei rischi secondo l’allegato I del regolamento di esecuzione (UE) n. 402/2013. È inoltre necessario un rapporto di valutazione sulla sicurezza redatto da un organismo di valutazione del rischio.
 
-[^5m-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5m-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5m-2]: Cfr. nota a piè di pagina relativa all’art. 5*g* lett. b.
 
 #### Art. 6
@@ -394,12 +394,12 @@ Per comprovare la sicurezza e la conformità alle prescrizioni, il gestore dell�
 
 <sup>6</sup> L’approvazione dei piani di costruzioni e impianti riveste valore di licenza di costruzione.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 12 apr. 2000, in vigore il 1° mag. 2000 ([RU 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2000, in vigore il 1° mag. 2000 ([RU 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)).
 [^6-2]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
-[^6-3]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^6-4]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^6-5]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^6-6]: Abrogato dal n. I dell’O del 29 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^6-5]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^6-6]: Abrogato dalla cifra I dell’O del 29 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 6a
 
@@ -410,7 +410,7 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 - a. sui capitolati d’oneri e sugli schizzi del tipo;
 - b. su altri elementi del veicolo dai quali dipende l’omologazione di tipo.
 
-[^6a-1]: Introdotto dal n. I dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 6b
 
@@ -420,10 +420,10 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 <sup>2</sup> Per le corse di prova i gestori dell’infrastruttura sono soggetti ai doveri stabiliti all’articolo 21 paragrafi 3 e 5 della direttiva (UE) 2016/797[^6b-2] e all’articolo 6 del regolamento di esecuzione (UE) 2018/545[^6b-3].[^6b-4]
 
-[^6b-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^6b-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^6b-2]: Direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, relativa all’interoperabilità del sistema ferroviario dell’Unione europea (rifusione), versione della GU L 138 del 26.5.2016, pag. 44; modificata da ultimo dalla direttiva (UE) 2020/700, GU L 165 del 27.5.2020, pag. 27.
 [^6b-3]: Regolamento di esecuzione (UE) 2018/545 della Commissione, del 4 aprile 2018, che stabilisce modalità pratiche per la procedura di autorizzazione dei veicoli ferroviari e la procedura di autorizzazione dei tipi di veicoli ferroviari a norma della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio, versione della GU L 90 del 6.4.2018, pag. 66; modificato da ultimo dal regolamento di esecuzione (UE) 2020/781, GU L 188 del 15.6.2020, pag. 11.
-[^6b-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^6b-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 7
 
@@ -437,10 +437,10 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 <sup>4</sup> La dichiarazione di conformità per i veicoli destinati a essere impiegati su tratte interoperabili (art. 15*a* cpv. 1) è retta dall’articolo 15 della direttiva (UE) 2016/797[^7-2] e dall’allegato VI del regolamento di esecuzione (UE) 2019/250[^7-3].[^7-4]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 [^7-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^7-3]: Regolamento di esecuzione (UE) 2019/250 della Commissione, del 12 febbraio 2019, relativo ai modelli di dichiarazioni e di certificati «CE» per i sottosistemi e i componenti di interoperabilità ferroviari, relativo al modello di dichiarazione di conformità a un tipo di veicolo ferroviario autorizzato e alle procedure «CE» di verifica dei sottosistemi conformemente alla direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 201/2011, versione della GU L 42 del 13.2.2019, pag. 9; modificato da ultimo dal regolamento di esecuzione (UE) 2020/779, GU L 188 del 15.6.2020, pag. 6.
-[^7-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 8
 
@@ -464,11 +464,11 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 <sup>8</sup> Per i tronchi di confine di cui all’allegato 8 l’UFT può rilasciare autorizzazioni d’esercizio in considerazione delle autorizzazioni d’esercizio estere o riconoscere queste ultime anche in assenza di un accordo internazionale sul riconoscimento reciproco di tali autorizzazioni.[^8-5]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^8-3]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^8-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^8-5]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-3]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-5]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 8a
 
@@ -478,13 +478,13 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 <sup>2</sup> Può controllare attestati di sicurezza mediante esame diretto dell’impianto ferroviario o del veicolo.
 
-[^8a-1]: Introdotto dal n. I dell’O del 12 apr. 2000 ([RU 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 12 apr. 2000 ([RU 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 8b e 8c
 
 [^8b8c-1]
 
-[^8b8c-1]: Introdotti dal n. I dell’O del 16 giu. 2003 ([RU 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Abrogati dal n. I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8b8c-1]: Introdotti dalla cifra I dell’O del 16 giu. 2003 ([RU 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Abrogati dalla cifra I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 8d
 
@@ -494,7 +494,7 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 <sup>2</sup> L’UFT verifica i rapporti per campionatura e in funzione dei rischi.
 
-[^8d-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^8d-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 9
 
@@ -510,12 +510,12 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 <sup>5</sup> La vigilanza sugli organismi di valutazione del rischio riconosciuti dall’UFT (art. 15*v*) è retta dall’articolo 11 del regolamento di esecuzione (UE) n. 402/2013[^9-5].[^9-6]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^9-3]: Regolamento delegato (UE) 2018/761 della Commissione, del 16 febbraio 2018, che istituisce metodi comuni di sicurezza per la supervisione da parte delle autorità nazionali preposte alla sicurezza in seguito al rilascio di un certificato di sicurezza unico o di un’autorizzazione di sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 1077/2012 della Commissione, versione della GU L 129 del 25.5.2018, pag. 16; modificato da ultimo dal regolamento delegato (UE) 2020/782, GU L 188 del 15.6.2020, pag. 14.
-[^9-4]: Introdotto dal n. I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^9-4]: Introdotto dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^9-5]: Cfr. nota a piè di pagina relativa all’art. 5*g* lett. b.
-[^9-6]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^9-6]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 10
 
@@ -531,10 +531,10 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 <sup>5</sup> La responsabilità delle altre persone che hanno un impatto sulla sicurezza dell’esercizio ferroviario è retta dall’articolo 4 paragrafo 4 della direttiva (UE) 2016/798[^10-3].[^10-4]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 [^10-3]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
-[^10-4]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^10-4]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 10a
 
@@ -542,7 +542,7 @@ Prima dell’inizio dei lavori e nella fase di costruzione del veicolo, il richi
 
 Chi viene a conoscenza di un rischio per la sicurezza deve adottare le misure del caso. Tra queste rientra anche il necessario scambio d’informazioni con gli altri responsabili e interessati.
 
-[^10a-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 10b
 
@@ -564,7 +564,7 @@ Prima di utilizzare un veicolo, l’impresa ferroviaria deve controllare che sia
 
 - c. adeguatamente integrato nella composizione del treno.
 
-[^10b-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^10b-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^10b-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 
 #### Art. 11
@@ -581,8 +581,8 @@ L’organizzazione dell’esercizio e l’effettivo del personale dell’impresa
 
 <sup>2</sup> Al fine di agevolare il traffico transfrontaliero sulle tratte brevi in prossimità della frontiera, può dichiarare applicabili le prescrizioni sulla circolazione dei treni dello Stato confinante.
 
-[^11a-1]: Introdotto dal n. I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
-[^11a-2]: Nuovo testo giusta l’all. n. II 5 dell’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^11a-2]: Nuovo testo giusta l’all. cifra II n. 5 dell’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 12
 
@@ -610,10 +610,10 @@ Per gli utenti della rete sono vincolanti le prescrizioni d’esercizio che cont
 
 <sup>5</sup> L’UFT provvede affinché le prescrizioni relative all’esercizio delle ferrovie siano per quanto possibile uniformi.[^12-4]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^12-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^12-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 12a
 
@@ -626,13 +626,13 @@ Il gestore dell’infrastruttura emana raccomandazioni di natura tecnico-azienda
 - c. la lunghezza ottimale dei treni e il carico sui ganci di trazione, la caratteristica del percorso, la sicurezza contro il deragliamento;
 - d. la protezione delle merci contro lo spostamento e il danneggiamento del carico.
 
-[^12a-1]: Originario art. 12*a*<sup>bis</sup> e 12*a*. Introdotto dal n. I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^12a-1]: Originario art. 12*a*<sup>bis</sup> e 12*a*. Introdotto dalla cifra I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
 
 #### Art. 12a<sup>bis</sup>
 
 [^12abis-1]
 
-[^12abis-1]: Originario art. 12*a*. Introdotto dal n. I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).Abrogato dal n. I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^12abis-1]: Originario art. 12*a*. Introdotto dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Abrogato dalla cifra I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 12b
 
@@ -642,7 +642,7 @@ Il gestore dell’infrastruttura emana raccomandazioni di natura tecnico-azienda
 
 <sup>2</sup> I dati relativi alle tratte possono essere utilizzati anche per studi e statistiche e trasmessi a tale scopo ad altri servizi della Confederazione o dei Cantoni.
 
-[^12b-1]: Introdotto dal n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^12b-1]: Introdotto dalla cifra I n. 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
 
 #### Art. 13
 
@@ -659,7 +659,7 @@ La manutenzione dev’essere organizzata in modo che:
 
 <sup>3</sup> La manutenzione dev’essere pianificata e regolata mediante programmi e direttive di lavoro.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 14
 
@@ -673,8 +673,8 @@ La manutenzione dev’essere organizzata in modo che:
 
 <sup>4</sup> Le imprese ferroviarie nominano almeno un responsabile per la direzione dell’esercizio e della manutenzione nonché un sostituto.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 15
 
@@ -687,26 +687,35 @@ La manutenzione dev’essere organizzata in modo che:
 <sup>2</sup> Per il rimanente si applica l’ordinanza del 17 dicembre 2014[^15-4] concernente le inchieste sulla sicurezza in caso di eventi imprevisti nei trasporti.[^15-5]
 
 [^15-1]: Nuovo testo giusta l’all. n. 12 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
-[^15-2]: Nuovo testo giusta il n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^15-2]: Nuovo testo giusta la cifra I n. 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
 [^15-3]: Introdotto dall’all. n. 3 dell’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogato dall’all. n. 12 dell’O del 23 ago. 2023, con effetto dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 [^15-4]: [RS 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
-[^15-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15-5]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 15<sup>bis</sup>
 
-**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^15bis-1]
+**Obblighi di notifica**[^15bis-1]
 
-<sup>1</sup> L’UFT informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+<sup>1</sup> L’UFT informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
 
-<sup>2</sup> I gestori dell’infrastruttura informano tale servizio entro un termine di 20 giorni in merito alle modifiche di loro costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+<sup>2</sup>
 
-[^15bis-1]: Introdotto dall’all. n. 12 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, il gestore dell’infrastruttura è tenuto a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, il gestore dell’infrastruttura trasmette sotto forma di geodati i piani di cui all’articolo 3 capoverso 3<sup>bis</sup> OPAPIF[^15bis-2] approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^15bis-3] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^15bis-1]: Introdotto dall’all. n. 12 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nuovo testo giusta l’appendice n. 8 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^15bis-2]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
+[^15bis-3]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Capitolo 1*a*: Interoperabilità
 
 [^chap1a-1]
 
-[^chap1a-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^chap1a-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 ### Sezione 1: Disposizioni generali
 
@@ -727,8 +736,8 @@ Le disposizioni del presente capitolo si applicano alla costruzione e all’eser
 
 <sup>3</sup> Se necessario per assicurare l’interoperabilità, l’UFT decide fino a quando e quali tratte e veicoli devono essere adeguati a determinati requisiti delle STI.
 
-[^15a-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^15a-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15a-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15a-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 15b
 
@@ -747,7 +756,7 @@ L’UFT, tenendo conto del diritto internazionale, emana:
 
 <sup>3</sup> Se non vi sono casi particolari o non sono state autorizzate deroghe alle STI, queste ultime hanno la preminenza sulle rimanenti disposizioni della presente ordinanza.
 
-[^15b-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15b-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15b-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 
 #### Art. 15c
@@ -758,9 +767,9 @@ L’UFT, tenendo conto del diritto internazionale, emana:
 
 I nuovi sottosistemi dei settori infrastrutture, energia, controllo-comando dei treni, segnalamento e materiale rotabile (sottosistemi di natura strutturale secondo l’allegato II della direttiva [UE] 2016/797[^15c-2]) possono essere messi in esercizio soltanto se l’UFT ha rilasciato un’autorizzazione d’esercizio per il veicolo o l’infrastruttura di cui fanno parte.[^15c-3]
 
-[^15c-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15c-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^15c-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
-[^15c-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15c-3]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15d
 
@@ -770,7 +779,7 @@ I nuovi sottosistemi dei settori infrastrutture, energia, controllo-comando dei 
 
 Un’autorizzazione per la messa in circolazione di un veicolo modificato è richiesta in caso di modifiche rilevanti ai sensi dell’articolo 21 paragrafo 12 della direttiva (UE) 2016/797[^15d-2] e dell’articolo 16 del regolamento di esecuzione (UE) 2018/545[^15d-3].
 
-[^15d-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15d-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15d-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^15d-3]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 
@@ -790,12 +799,12 @@ Un’autorizzazione per la messa in circolazione di un veicolo modificato è ric
 
 <sup>4</sup> Per i veicoli l’UFT può autorizzare deroghe alle STI se il rispetto di queste ultime non è necessario per l’impiego sulle tratte interoperabili e il richiedente fornisce la prova di cui all’articolo 5 capoverso 2.[^15e-6]
 
-[^15e-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15e-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15e-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
-[^15e-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^15e-4]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15e-5]: Abrogato dal n. I dell’O del 6 nov. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15e-6]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15e-3]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15e-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15e-5]: Abrogato dalla cifra I dell’O del 6 nov. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15e-6]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15e<sup>bis</sup>
 
@@ -810,7 +819,7 @@ La valutazione della conformità di componenti di interoperabilità è retta da:
 - c. gli articoli 4 e 5 e l’allegato I della decisione 2010/713/UE[^15ebis-3]; e
 - d. l’allegato V del regolamento di esecuzione (UE) 2019/250[^15ebis-4].
 
-[^15ebis-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15ebis-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15ebis-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^15ebis-3]: Decisione 2010/713/UE della Commissione, del 9 novembre 2010, concernente i moduli per le procedure di valutazione della conformità, dell’idoneità all’impiego e della verifica CE da utilizzare per le specifiche tecniche di interoperabilità adottate nell’ambito della direttiva 2008/57/CE del Parlamento europeo e del Consiglio, versione della GU L 319 del 4.12.2010, pag. 1.
 [^15ebis-4]: Cfr. nota a piè di pagina relativa all’art. 7 cpv. 4.
@@ -825,7 +834,7 @@ La valutazione della conformità di componenti di interoperabilità è retta da:
 
 <sup>2</sup> L’attestato di conformità attesta che il componente di interoperabilità e le relative interfacce sono conformi ai requisiti essenziali, sempre che questi siano concretizzati dalle STI.
 
-[^15eter-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15eter-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15f
 
@@ -840,8 +849,8 @@ La valutazione della conformità di componenti di interoperabilità è retta da:
 <sup>3</sup> L’UFT emana direttive sulla tenuta del registro, in particolare sulla delimitazione della rete. Il Servizio di assegnazione delle tracce, dopo aver consultato l’UFT e i gestori dell’infrastruttura, disciplina i dettagli della trasmissione delle informazioni. Assicura l’informazione dei proprietari e dei gestori di impianti di trasbordo per il traffico combinato e di binari di raccordo.[^15f-3]
 
 [^15f-1]: Regolamento di esecuzione (UE) 2019/777 della Commissione, del 16 maggio 2019, relativo alle specifiche comuni per il registro dell’infrastruttura ferroviaria e che abroga la decisione di esecuzione 2014/880/UE, GU L 139 del 27.5.2019, pag. 312; modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694, GU L 222 dell’8.9.2023, pag. 88.
-[^15f-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^15f-3]: Nuovo testo giusta il n. I 5 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^15f-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^15f-3]: Nuovo testo giusta la cifra I n. 5 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 15g
 
@@ -854,14 +863,14 @@ La valutazione della conformità di componenti di interoperabilità è retta da:
 <sup>2</sup> Il registro è accessibile alle autorità nazionali di sicurezza e all’ERA. È reso accessibile al pubblico non appena l’ERA ha convalidato i dati.[^15g-3]
 
 [^15g-1]: Decisione di esecuzione 2011/655/UE della Commissione, del 4 ottobre 2011, relativa al registro europeo dei tipi di veicoli ferroviari autorizzati, GU L 264 dell’8.10.2011, pag. 32; modificata da ultimo dalla decisione di esecuzione (UE) 2023/1696, GU L 222 dell’8.9.2023, pag. 561.
-[^15g-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^15g-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15g-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^15g-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 
 ### Sezione 2: Apparecchiature ERTMS di terra
 
 [^chap1a-sec2-1]
 
-[^chap1a-sec2-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^chap1a-sec2-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 ### (art. 23*g* Lferr)
 
@@ -875,7 +884,7 @@ Chi intende svolgere gare d’appalto per apparecchiature di terra del sistema e
 
 [^chap1a-sec3-1]
 
-[^chap1a-sec3-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^chap1a-sec3-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15i
 
@@ -885,7 +894,7 @@ Chi intende svolgere gare d’appalto per apparecchiature di terra del sistema e
 
 Per comprovare la sicurezza del progetto e la sua conformità alle prescrizioni, l’impresa ferroviaria deve disporre dei documenti di cui all’articolo 21 paragrafo 3 della direttiva (UE) 2016/797[^15i-2] nonché di cui agli articoli 28–30 e all’allegato 1 del regolamento di esecuzione (UE) 2018/545[^15i-3].
 
-[^15i-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15i-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15i-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^15i-3]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 
@@ -903,7 +912,7 @@ Se, nel caso di progetti con elevata rilevanza per la sicurezza, i requisiti ele
 
 <sup>2</sup> L’UFT può stabilire in una direttiva quali rapporti di perizia occorre fornire regolarmente.
 
-[^15ibis-1]: Introdotto dal n. I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15ibis-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15i<sup>ter</sup>
 
@@ -911,7 +920,7 @@ Se, nel caso di progetti con elevata rilevanza per la sicurezza, i requisiti ele
 
 Per provare che la realizzazione è conforme alle prescrizioni, il gestore dell’infrastruttura o il detentore del veicolo deve disporre delle dichiarazioni «CE» secondo l’articolo 9 della direttiva (UE) 2016/797[^15iter-2] e secondo l’allegato I del regolamento di esecuzione (UE) 2019/250[^15iter-3].
 
-[^15iter-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15iter-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15iter-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^15iter-3]: Cfr. nota a piè di pagina relativa all’art. 7 cpv. 4.
 
@@ -919,7 +928,7 @@ Per provare che la realizzazione è conforme alle prescrizioni, il gestore dell�
 
 [^chap1a-sec4-1]
 
-[^chap1a-sec4-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^chap1a-sec4-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15j
 
@@ -941,7 +950,7 @@ Alla domanda di autorizzazione d’esercizio per un impianto ferroviario, deve i
 - a. i documenti di cui all’articolo 18 paragrafo 4 lettere a–c della direttiva (UE) 2016/797[^15j-2];
 - b. in caso di apparecchiature ERTMS di terra, il consenso dell’UFT di cui all’articolo 15*h*.
 
-[^15j-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15j-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15j-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 
 #### Art. 15k
@@ -957,7 +966,7 @@ La valutazione della conformità di sottosistemi è retta da:
 - c. l’articolo 6 e l’allegato I della decisione 2010/713/UE[^15k-3]; e
 - d. gli allegati IV e V del regolamento di esecuzione (UE) 2019/250[^15k-4].
 
-[^15k-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15k-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15k-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^15k-3]: Cfr. nota a piè di pagina relativa all’art. 15*e*<sup>bis</sup> lett. c.
 [^15k-4]: Cfr. nota a piè di pagina relativa all’art. 7 cpv. 4.
@@ -972,7 +981,7 @@ La valutazione della conformità di sottosistemi è retta da:
 
 <sup>2</sup> L’attestato di conformità attesta che il sottosistema e le relative interfacce sono conformi ai requisiti essenziali, sempre che questi siano concretizzati dalle STI.
 
-[^15kbis-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15kbis-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15l
 
@@ -986,7 +995,7 @@ La valutazione della conformità di sottosistemi è retta da:
 
 [^15m-1]
 
-[^15m-1]: Abrogato dal n. I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15m-1]: Abrogato dalla cifra I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15n
 
@@ -994,7 +1003,7 @@ La valutazione della conformità di sottosistemi è retta da:
 
 Per i sottosistemi di natura strutturale secondo l’allegato II numero 1 lettera a della direttiva (UE) 2016/797[^15n-2], per provare che la realizzazione è conforme alle prescrizioni il richiedente deve fornire all’UFT le dichiarazioni «CE» di verifica secondo l’articolo 15 paragrafo 2 della direttiva (UE) 2016/797 e secondo gli allegati II e III del regolamento di esecuzione (UE) 2019/250[^15n-3].
 
-[^15n-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15n-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15n-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^15n-3]: Cfr. nota a piè di pagina relativa all’art. 7 cpv. 4.
 
@@ -1010,7 +1019,7 @@ Per i sottosistemi di natura strutturale secondo l’allegato II numero 1 letter
 
 <sup>4</sup> Per i veicoli ai quali si applicano prescrizioni nazionali completive, il rispetto delle STI e dei requisiti nazionali conformi non viene verificato se può essere desunto dall’autorizzazione d’esercizio oppure dalla verifica dell’ERA o di un’autorità estera.
 
-[^15o-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15o-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15p
 
@@ -1032,8 +1041,8 @@ L’UFT verifica l’attestato di sicurezza per campionatura e in funzione dei r
 - a. i rapporti di perizia;
 - b. la compatibilità tecnica e l’integrazione sicura dell’oggetto dell’autorizzazione nel sistema globale.
 
-[^15p-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15p-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15p-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15p-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 
 #### Art. 15p<sup>bis</sup>
 
@@ -1046,9 +1055,9 @@ L’UFT verifica secondo l’articolo 21 paragrafo 8 della direttiva (UE) 2016/7
 - c. classifica le problematiche secondo l’articolo 41 del regolamento di esecuzione (UE) 2018/545 e, in caso di dubbio giustificato, procede secondo l’articolo 42 del regolamento di esecuzione (UE) 2018/545;
 - d. decide secondo gli articoli 43 paragrafi 1–6 e 45–49 del regolamento di esecuzione (UE) 2018/545.
 
-[^15pbis-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15pbis-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^15pbis-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
-[^15pbis-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15pbis-3]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15pbis-4]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 
 #### Art. 15q
@@ -1061,7 +1070,7 @@ L’UFT verifica secondo l’articolo 21 paragrafo 8 della direttiva (UE) 2016/7
 
 <sup>3</sup> Se l’UFT non decide su una domanda di autorizzazione d’esercizio per un veicolo, dichiarata completa dal richiedente, entro cinque mesi dalla sua ricezione, il richiedente è autorizzato a mettere in esercizio il veicolo in questione.
 
-[^15q-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15q-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15q<sup>bis</sup>
 
@@ -1071,19 +1080,19 @@ L’UFT verifica secondo l’articolo 21 paragrafo 8 della direttiva (UE) 2016/7
 
 <sup>2</sup> Se dispone di elementi dai quali risulta che al momento in cui è stata rilasciata l’autorizzazione per la messa in circolazione la non conformità era già presente, ne informa l’UFT e l’ERA.
 
-[^15qbis-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15qbis-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 ## Capitolo 1*b*: Organismi di controllo indipendenti
 
 [^chap1b-1]
 
-[^chap1b-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^chap1b-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 ### Sezione 1: Organismi notificati e organismi interni accreditati
 
 [^chap1b-sec1-1]
 
-[^chap1b-sec1-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^chap1b-sec1-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15r
 
@@ -1100,7 +1109,7 @@ Per i relativi settori di specializzazione gli organismi notificati devono:
 
 [^15r-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^15r-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
-[^15r-3]: Introdotto dal n. I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15r-3]: Introdotto dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15s
 
@@ -1122,8 +1131,8 @@ Gli organismi notificati sono soggetti ai diritti e doveri stabiliti:
 [^15s-1]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 [^15s-2]: Regolamento (UE) 2016/796 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, che istituisce un’Agenzia dell’Unione europea per le ferrovie e che abroga il regolamento (CE) n. 881/2004, versione della GU L 138 del 26.5.2016, pag. 1.
 [^15s-3]: Cfr. nota a piè di pagina relativa all’art. 15*e*<sup>bis</sup> lett. c.
-[^15s-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^15s-5]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15s-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15s-5]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15s<sup>bis</sup>
 
@@ -1131,7 +1140,7 @@ Gli organismi notificati sono soggetti ai diritti e doveri stabiliti:
 
 Gli organismi interni accreditati sono soggetti ai requisiti e doveri stabiliti all’articolo 35 della direttiva (UE) 2016/797[^15sbis-2].
 
-[^15sbis-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15sbis-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^15sbis-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
 
 ### Sezione 2: Organismi di valutazione del rischio, organismi designati e periti
@@ -1151,10 +1160,10 @@ Gli organismi interni accreditati sono soggetti ai requisiti e doveri stabiliti 
 <sup>5</sup> Agli organismi designati si applicano inoltre le esigenze di cui all’articolo 45 paragrafo 1 della direttiva (UE) 2016/797[^15t-4].[^15t-5]
 
 [^15t-1]: Cfr. nota a piè di pagina relativa all’art. 5*g*.
-[^15t-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^15t-3]: Introdotto dal n. I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^15t-2]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^15t-3]: Introdotto dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 [^15t-4]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
-[^15t-5]: Introdotto dal n. I dell’O del 12 giu. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15t-5]: Introdotto dalla cifra I dell’O del 12 giu. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15u
 
@@ -1167,7 +1176,7 @@ Gli organismi interni accreditati sono soggetti ai requisiti e doveri stabiliti 
 <sup>3</sup> Agli organismi di valutazione del rischio si applicano inoltre i criteri di cui al capitolo 4.1 della norma ISO/IEC 17020:2012[^15u-1].[^15u-2]
 
 [^15u-1]: ISO/IEC 17020:2012 Konformitätsbewertung - Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^15u-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^15u-2]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 15u<sup>bis</sup>
 
@@ -1175,9 +1184,9 @@ Gli organismi interni accreditati sono soggetti ai requisiti e doveri stabiliti 
 
 Gli organismi designati sono soggetti ai doveri stabiliti all’articolo 45 paragrafi 2 e 3 della direttiva (UE) 2016/797[^15ubis-2].[^15ubis-3]
 
-[^15ubis-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15ubis-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 [^15ubis-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 2.
-[^15ubis-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15ubis-3]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15v
 
@@ -1196,9 +1205,9 @@ Gli organismi designati sono soggetti ai doveri stabiliti all’articolo 45 para
 <sup>6</sup> L’UFT pubblica un elenco degli organismi e dei loro settori di esame.
 
 [^15v-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
-[^15v-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^15v-3]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
-[^15v-4]: Nuovo testo giusta il n. I 5 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^15v-2]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15v-3]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15v-4]: Nuovo testo giusta la cifra I n. 5 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 15w
 
@@ -1239,7 +1248,7 @@ L’UFT esamina in modo specifico per ogni singolo progetto:
 
 [^chap2-1]
 
-[^chap2-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^chap2-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 ### Sezione 1: Caratteristiche geometriche del tracciato
 
@@ -1283,7 +1292,7 @@ Gli spazi di sicurezza della sagoma di spazio libero comprendono:
 
 <sup>5</sup> Le imprese ferroviarie determinano la sagoma di spazio libero per le tratte contigue della rete ferroviaria conformemente al rispettivo utilizzo e la sottopongono all’UFT per approvazione.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 19
 
@@ -1308,13 +1317,13 @@ Se sono necessari spazi di sicurezza supplementari, le distanze minime devono es
 - a. per spazi di sicurezza per viaggiatori che devono salire e scendere tra i veicoli;
 - b. presso binari di carico e scarico, binari lungo rampe di carico e binari di raccordo.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 20
 
 [^20-1]
 
-[^20-1]: Abrogato dal n. I dell’O del 12 giu. 2020, con effetto dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^20-1]: Abrogato dalla cifra I dell’O del 12 giu. 2020, con effetto dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 21
 
@@ -1326,7 +1335,7 @@ Se sono necessari spazi di sicurezza supplementari, le distanze minime devono es
 
 <sup>3</sup> La distanza tra il bordo del marciapiede e la sagoma limite degli impianti fissi dev’essere ridotta al minimo.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
 
 #### Art. 22
 
@@ -1342,7 +1351,7 @@ I punti limite della lunghezza utile dei binari di stazione devono essere contra
 
 <sup>3</sup> Il tracciato ferroviario deve essere delimitato in modo chiaramente visibile rispetto ad una strada che corre parallelamente.
 
-[^23-1]: Abrogato dal n. I dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^23-1]: Abrogato dalla cifra I dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 24
 
@@ -1354,7 +1363,7 @@ A lato del tracciato ferroviario non devono trovarsi né alberi, né pali o cost
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 25
 
@@ -1386,7 +1395,7 @@ La piattaforma dev’essere dimensionata per sopportare il traffico presumibile 
 
 <sup>5</sup> Gli impianti di trasporto in condotta situati vicino, sopra e sotto la ferrovia devono essere costruiti in modo che gli effetti statici, dinamici, elettrici o elettrochimici non pregiudichino la sicurezza della ferrovia.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 28
 
@@ -1396,7 +1405,7 @@ La piattaforma dev’essere dimensionata per sopportare il traffico presumibile 
 
 <sup>2</sup> Nelle gallerie e gallerie di protezione si devono installare a distanze regolari delle nicchie di protezione per il personale, le quali vanno contrassegnate in modo ben visibile. Si può rinunciare alle nicchie qualora la sicurezza del personale sia garantita da altre misure.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 29
 
@@ -1408,7 +1417,7 @@ Adeguate misure di protezione devono essere adottate contro i pericoli e le infl
 
 [^30-1]
 
-[^30-1]: Abrogato dal n. I dell’O del 12 nov. 2003, con effetto dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^30-1]: Abrogato dalla cifra I dell’O del 12 nov. 2003, con effetto dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
 
 ### Sezione 4: Sovrastruttura
 
@@ -1418,8 +1427,8 @@ Adeguate misure di protezione devono essere adottate contro i pericoli e le infl
 
 Il DATEC[^31-2] designa i regolamenti, le norme e i capitolati d’oneri validi per il materiale della sovrastruttura e per la posa dello stesso.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
-[^31-2]: Nuova espr. giusta il n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^31-2]: Nuova espr. giusta la cifra I n. 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 32
 
@@ -1429,7 +1438,7 @@ Il DATEC[^31-2] designa i regolamenti, le norme e i capitolati d’oneri validi 
 
 <sup>2</sup> ...[^32-1]
 
-[^32-1]: Abrogato dal n. I dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^32-1]: Abrogato dalla cifra I dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 33
 
@@ -1455,8 +1464,8 @@ Il DATEC[^31-2] designa i regolamenti, le norme e i capitolati d’oneri validi 
 
 <sup>5</sup> I nomi delle stazioni devono essere esposti in modo ben visibile ai viaggiatori.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 35
 
@@ -1478,7 +1487,7 @@ Le estremità dei binari devono essere provviste di paraurti.
 
 [^chap2-sec6-1]
 
-[^chap2-sec6-1]: Nuovo testo giusta il n. I dell’O del 12 nov. 2003, in vigore dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^chap2-sec6-1]: Nuovo testo giusta la cifra I dell’O del 12 nov. 2003, in vigore dal 14 dic. 2003 ([RU 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
 
 #### Art. 37
 
@@ -1539,17 +1548,17 @@ Al posto di segnali a luci intermittenti possono essere installati segnali lumin
 
 <sup>6</sup> L’installazione dei segnali avanzati e della segnaletica necessari per garantire la sicurezza ai passaggi a livelli è disciplinata dall’OSStr.
 
-[^37c-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^37c-2]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^37c-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
-[^37c-4]: Introdotta dal n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
-[^37c-5]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
-[^37c-6]: Introdotta dal n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^37c-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^37c-2]: Nuovo testo giusta la cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^37c-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^37c-4]: Introdotta dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^37c-5]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^37c-6]: Introdotta dalla cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^37c-7]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
-[^37c-8]: Introdotta dal n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^37c-9]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
-[^37c-10]: Introdotta dal n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
-[^37c-11]: Abrogato dal n. I dell’O del 19 set. 2014, con effetto dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^37c-8]: Introdotta dalla cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^37c-9]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^37c-10]: Introdotta dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^37c-11]: Abrogato dalla cifra I dell’O del 19 set. 2014, con effetto dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 
 #### Art. 37d
 
@@ -1557,13 +1566,13 @@ Al posto di segnali a luci intermittenti possono essere installati segnali lumin
 
 Agli impianti di controllo e di sorveglianza dei passaggi a livello si applicano gli articoli 38 e 39. Fanno eccezione gli impianti di segnali luminosi complementari di cui all’articolo 37c capoverso 3 lettera d.
 
-[^37d-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^37d-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 
 #### Art. 37e
 
 [^37e-1]
 
-[^37e-1]: Abrogato dal n. I dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^37e-1]: Abrogato dalla cifra I dell’O del 4 nov. 2009, con effetto dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 37f
 
@@ -1571,14 +1580,14 @@ Agli impianti di controllo e di sorveglianza dei passaggi a livello si applicano
 
 Se l’eliminazione di un passaggio a livello rende impraticabile una parte della rete di percorsi pedonali e di sentieri indicata nei piani cantonali, la sostituzione è disciplinata dall’articolo 7 della legge federale del 4 ottobre 1985[^37f-2] sui percorsi pedonali e i sentieri (LPS).
 
-[^37f-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^37f-1]: Nuovo testo giusta la cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^37f-2]: [RS 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
 
 ### Sezione 7: Impianti di sicurezza e applicazioni telematiche
 
 [^chap2-sec7-1]
 
-[^chap2-sec7-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^chap2-sec7-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 38
 
@@ -1597,9 +1606,9 @@ Per garantire la sicurezza delle ferrovie o per raggiungere altri obiettivi di o
 - a. quali tratte e quali veicoli devono essere dotati di quale tipo di impianti di sicurezza e di applicazioni telematiche;
 - b. in che misura gli impianti di sicurezza e le applicazioni telematiche devono essere compatibili con altri impianti o applicazioni e con i veicoli.[^38-3]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^38-3]: Introdotto dal n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^38-3]: Introdotto dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 39
 
@@ -1627,7 +1636,7 @@ Gli impianti di sicurezza servono in particolare:
 - e. al controllo dello stato libero del binario e alla localizzazione dei treni;
 - f. al comando e al controllo dei passaggi a livello.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 40
 
@@ -1639,13 +1648,13 @@ Gli impianti di sicurezza servono in particolare:
 
 <sup>3</sup> I gestori dell’infrastruttura della rete a scartamento normale coordinano la pianificazione, la costruzione e l’esercizio delle loro installazioni per il monitoraggio dei treni. Formulano un piano per l’insieme della rete e lo sottopongono all’UFT per approvazione.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 ### Sezione 8: Sistemi di avvertimento per le persone nella zona dei binari
 
 [^chap2-sec8-1]
 
-[^chap2-sec8-1]: Originario avanti art. 44. Introdotta dal n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^chap2-sec8-1]: Originario avanti art. 44. Introdotta dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 41
 
@@ -1660,13 +1669,13 @@ I sistemi di avvertimento per le persone che effettuano lavori nella zona dei bi
 
 <sup>2</sup> Per sistemi di avvertimento mobili è necessaria un’autorizzazione d’esercizio dell’UFT.
 
-[^41-1]: Originario art. 44. Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^41-1]: Originario art. 44. Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° lug. 2010 ([RU 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 ### Sezione 9: Impianti elettrici
 
 [^chap2-sec9-1]
 
-[^chap2-sec9-1]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^chap2-sec9-1]: Introdotta dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 42
 
@@ -1678,8 +1687,8 @@ I sistemi di avvertimento per le persone che effettuano lavori nella zona dei bi
 
 <sup>3</sup> I requisiti in materia di sicurezza e di esercizio ferroviario sono prioritari rispetto ad altri, in particolare rispetto a quelli di natura estetica.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^42-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^42-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 43
 
@@ -1690,7 +1699,7 @@ Gli impianti elettrici e gli impianti o le parti d’impianto ad essi collegati 
 - a. l’esercizio di altri impianti e dispositivi elettrotecnici non sia perturbato in maniera inaccettabile;
 - b. il loro esercizio non sia perturbato in maniera inaccettabile da altri impianti e da altri dispositivi elettrotecnici.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 44
 
@@ -1706,9 +1715,9 @@ Le prescrizioni della presente ordinanza e le sue disposizioni d’esecuzione so
 - f. tecnica di protezione e impianti con strumentazione di controllo.
 - g.[^44-3] ...
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^44-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^44-3]: Abrogata dal n. I dell’O del 18 nov. 2015, con effetto dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^44-2]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^44-3]: Abrogata dalla cifra I dell’O del 18 nov. 2015, con effetto dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 45
 
@@ -1720,7 +1729,7 @@ Le prescrizioni della presente ordinanza e le sue disposizioni d’esecuzione so
 
 <sup>3</sup> Durante la pianificazione e l’esecuzione dei lavori devono essere rispettate le distanze di sicurezza e misure di sicurezza particolari.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 46
 
@@ -1734,14 +1743,14 @@ Le prescrizioni della presente ordinanza e le sue disposizioni d’esecuzione so
 
 <sup>4</sup> Stabilisce d’intesa con i terzi attivi nei suoi impianti elettrici o nelle loro vicinanze le misure di protezione per prevenire pericoli.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^46-2]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 ## Capitolo 3: Veicoli
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 ### Sezione 1: Requisiti essenziali
 
@@ -1751,7 +1760,7 @@ Le prescrizioni della presente ordinanza e le sue disposizioni d’esecuzione so
 
 <sup>2</sup> La sagoma limite dei veicoli e dei carichi si determina in base alla sagoma di riferimento prevista nell’allegato 1.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 ### Sezione 2: Veicoli interoperabili
 
@@ -1781,7 +1790,7 @@ Le prescrizioni della presente ordinanza e le sue disposizioni d’esecuzione so
 
 <sup>2</sup> I locomotori e le carrozze-pilota devono essere dotati di un dispositivo di sicurezza e di un sistema di controllo della marcia dei treni. Devono essere compatibili con gli impianti di sicurezza e le applicazioni telematiche. I requisiti che devono soddisfare gli impianti di sicurezza e le applicazioni telematiche installati sui veicoli sono retti dagli articoli 38 e 39.[^50-1]
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 51
 
@@ -1803,8 +1812,8 @@ Le prescrizioni della presente ordinanza e le sue disposizioni d’esecuzione so
 
 <sup>4</sup> Un freno di stazionamento deve impedire la messa in marcia involontaria dei veicoli.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 53
 
@@ -1852,7 +1861,7 @@ Il DATEC disciplina i requisiti particolari per:
 
 - c. i dispositivi di sicurezza dei convogli.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 55
 
@@ -1897,7 +1906,7 @@ Il DATEC disciplina i requisiti particolari per i veicoli tranviari nei seguenti
 
 <sup>4</sup> Per il rimanente si applicano gli articoli 50–55.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 59 a 70
 
@@ -1913,7 +1922,7 @@ Il DATEC disciplina i requisiti particolari per i veicoli tranviari nei seguenti
 
 Al fine di garantire la sicurezza, l’affidabilità e l’ulteriore sviluppo dell’esercizio ferroviario, nella pianificazione, nella costruzione ex novo e nella trasformazione di costruzioni e impianti devono essere previsti gli spazi di sicurezza per le attività d’esercizio secondo le prescrizioni relative al servizio ferroviario emanate dall’UFT in virtù dell’articolo 17 capoverso 3 Lferr.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 72
 
@@ -1921,7 +1930,7 @@ Al fine di garantire la sicurezza, l’affidabilità e l’ulteriore sviluppo de
 
 L’impiego di personale d’esercizio nelle stazioni dipende dalle esigenze in materia di regolazione e sicurezza del traffico ferroviario e dei movimenti di manovra. In particolare devono essere soddisfatti i requisiti relativi alla sicurezza, alla costruzione e all’equipaggiamento tecnico degli impianti nonché al tipo e al volume di traffico (soprattutto per quanto riguarda il numero di viaggiatori e il tipo e la quantità di merci).
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 73
 
@@ -1937,7 +1946,7 @@ L’impiego di personale d’esercizio nelle stazioni dipende dalle esigenze in 
 
 Unicamente il personale incaricato del servizio, dei controlli o dei lavori di manutenzione è autorizzato a sostare nei luoghi destinati ad attività importanti dal punto di vista della sicurezza, come i luoghi di lavoro del personale ferroviario, i locali tecnici e le cabine di guida. Ogni deroga richiede un’autorizzazione esplicita dell’impresa.
 
-[^74-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 ### Sezione 2: Formazione e guida dei treni
 
@@ -1949,7 +1958,7 @@ Unicamente il personale incaricato del servizio, dei controlli o dei lavori di m
 
 <sup>2</sup> Se vi sono dubbi in merito ai limiti fisici o alla sicurezza dell’esercizio dei treni da utilizzare, prima della messa in esercizio occorre effettuare corse di prova o di misurazione.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
 
 #### Art. 76
 
@@ -1970,10 +1979,10 @@ La velocità massima ammessa è determinata in funzione dei seguenti criteri:
 
 <sup>3</sup> Per fissare le velocità massime per treno o movimento di manovra durante l’esercizio operativo sono inoltre determinanti le prescrizioni relative al servizio ferroviario emanate dall’UFT in virtù dell’articolo 17 capoverso 3 Lferr e le prescrizioni d’esercizio del gestore dell’infrastruttura e dell’impresa di trasporto ferroviario.[^76-4]
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^76-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^76-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^76-4]: Introdotto dal n. I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^76-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^76-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^76-4]: Introdotto dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 77
 
@@ -1987,21 +1996,21 @@ La velocità massima ammessa è determinata in funzione dei seguenti criteri:
 
 <sup>4 a <sup>5</sup></sup> ...[^77-3]
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^77-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
-[^77-3]: Abrogati dal n. I dell’O del 16 nov. 2011, con effetto dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^77-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^77-3]: Abrogati dalla cifra I dell’O del 16 nov. 2011, con effetto dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 78
 
 [^78-1]
 
-[^78-1]: Abrogato dal n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), con effetto dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^78-1]: Abrogato dalla cifra I n. 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), con effetto dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
 
 #### Art. 78ae 78b
 
 [^78a78b-1]
 
-[^78a78b-1]: Introdotti dal n. I dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Abrogati dal n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), con effetto dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^78a78b-1]: Introdotti dalla cifra I dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Abrogati dalla cifra I n. 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), con effetto dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
 
 #### Art. 79
 
@@ -2009,7 +2018,7 @@ La velocità massima ammessa è determinata in funzione dei seguenti criteri:
 
 La scorta dei treni dipende dall’equipaggiamento tecnico dei veicoli, dalle caratteristiche della tratta e da eventuali bisogni supplementari del servizio. Essa è disciplinata dalle prescrizioni d’esercizio.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 1998, in vigore dal 1° gen. 1999 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
 
 #### Art. 80
 
@@ -2027,7 +2036,7 @@ La scorta dei treni dipende dall’equipaggiamento tecnico dei veicoli, dalle ca
 
 L’UFT emana le disposizioni d’esecuzione tecniche e d’esercizio. A tal fine, tiene conto dei requisiti specifici dei binari di raccordo.
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 82
 
@@ -2051,7 +2060,7 @@ Sono abrogate:
 
 [^83-1]
 
-[^83-1]: Abrogato dal n. I dell’O del 18 nov. 2015, con effetto dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^83-1]: Abrogato dalla cifra I dell’O del 18 nov. 2015, con effetto dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 83a
 
@@ -2066,7 +2075,7 @@ Necessitano di un’autorizzazione di sicurezza secondo l’articolo 5*a* i gest
 
 <sup>2</sup> La domanda deve essere presentata 12 mesi prima dell’esercizio pianificato.
 
-[^83a-1]: Introdotto dal n. I dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^83a-1]: Introdotto dalla cifra I dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 83b
 
@@ -2083,7 +2092,7 @@ Le imprese di trasporto ferroviario che circolano esclusivamente su proprie trat
 
 <sup>3</sup> La domanda deve essere presentata 12 mesi prima dell’esercizio pianificato.
 
-[^83b-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^83b-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 83c
 
@@ -2091,7 +2100,7 @@ Le imprese di trasporto ferroviario che circolano esclusivamente su proprie trat
 
 Il rapporto annuale dell’impresa di trasporto ferroviario secondo l’articolo 5*g* deve essere presentato la prima volta per il primo anno civile completo successivo alla concessione dell’autorizzazione di sicurezza o del certificato di sicurezza.
 
-[^83c-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^83c-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 83d
 
@@ -2101,7 +2110,7 @@ Il rapporto annuale dell’impresa di trasporto ferroviario secondo l’articolo
 
 <sup>2</sup> Il riconoscimento di persone non certificate responsabili della manutenzione dei carri merci è retto dall’articolo 12 del regolamento (UE) n. 445/2011[^83d-2].
 
-[^83d-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^83d-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 [^83d-2]: Vedi nota all’art. 5*j* cpv. 1.
 
 #### Art. 83e
@@ -2122,8 +2131,8 @@ Il rapporto annuale dell’impresa di trasporto ferroviario secondo l’articolo
 
 <sup>7</sup> Per la prima volta entro il 31 dicembre 2015, l’UFT notifica alla Commissione europea i requisiti nazionali che si auspica siano considerati alla stregua di casi speciali nelle STI o che necessitano di disposizioni nazionali derogatorie.
 
-[^83e-1]: Introdotto dal n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^83e-2]: Abrogato dal n. I dell’O del 18 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^83e-1]: Introdotto dalla cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^83e-2]: Abrogato dalla cifra I dell’O del 18 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 83f
 
@@ -2137,7 +2146,7 @@ Il rapporto annuale dell’impresa di trasporto ferroviario secondo l’articolo
 
 <sup>4</sup> Ai passaggi a livello con visibilità insufficiente devono essere adottate senza indugio misure proporzionate per ridurre i rischi. Per tali misure non è necessario presentare una domanda secondo l’articolo 5 capoverso 2.
 
-[^83f-1]: Introdotto dal n. I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
+[^83f-1]: Introdotto dalla cifra I dell’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^83f-2]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 #### Art. 83g
@@ -2150,9 +2159,9 @@ Il rapporto annuale dell’impresa di trasporto ferroviario secondo l’articolo
 
 <sup>3</sup> L’UFT costituisce il registro dell’infrastruttura secondo l’articolo 15*f* entro il 30 giugno 2017. I gestori dell’infrastruttura devono iscrivere i dati necessari entro il 15 marzo 2018.
 
-[^83g-1]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 per il cpv. 3 e dal 1° lug. 2016 per i cpv. 1 e 2 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^83g-1]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 per il cpv. 3 e dal 1° lug. 2016 per i cpv. 1 e 2 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 [^83g-2]: La mod. del 18 ott. 2016 concerne soltanto il testo francese ([RU 2016 3537](https://fedlex.data.admin.ch/eli/oc/2016/594)).
-[^83g-3]: Abrogato dal n. I dell’O del 1° mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^83g-3]: Abrogato dalla cifra I dell’O del 1° mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 83h
 
@@ -2164,8 +2173,8 @@ Il rapporto annuale dell’impresa di trasporto ferroviario secondo l’articolo
 
 <sup>3 e <sup>4</sup></sup> ...[^83h-2]
 
-[^83h-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^83h-2]: Abrogati dal n. I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^83h-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^83h-2]: Abrogati dalla cifra I dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 83i
 
@@ -2173,7 +2182,7 @@ Il rapporto annuale dell’impresa di trasporto ferroviario secondo l’articolo
 
 Il riconoscimento di organismi di valutazione del rischio riconosciuti prima del 1° novembre 2020 è valido fino al 31 luglio 2022.
 
-[^83i-1]: Introdotto dal n. I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^83i-1]: Introdotto dalla cifra I dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 83j
 
@@ -2183,7 +2192,7 @@ Il riconoscimento di organismi di valutazione del rischio riconosciuti prima del
 
 <sup>2</sup> Se possibile sotto il profilo tecnico, entro il 30 giugno 2026 i veicoli esistenti di ferrovie a cremagliera devono essere equipaggiati o riequipaggiati in modo che le funzioni rilevanti per la sicurezza risultino ridondanti.
 
-[^83j-1]: Introdotto dal n. I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^83j-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 84
 
@@ -2197,7 +2206,7 @@ Allegato 1[^t-1]
 
 ## Sagoma di spazio libero, sagoma di riferimento: nozioni e disposizione degli spazi di sicurezza
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 Legenda:
 
@@ -2206,12 +2215,12 @@ Legenda:
 </table>
 
 <table>
-<tr><td>Gli spazi supplementari di cui all’articolo 18 capoverso 4 non figurano nel presente schizzo.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/it/xml/image/image1.png)</td></tr>
+<tr><td>Gli spazi supplementari di cui all’articolo 18 capoverso 4 non figurano nel presente schizzo.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20260701/it/xml/image/image1.png)</td></tr>
 </table>
 
 Allegato 2[^t-2]
 
-[^t-2]: Introdotto dal n. II dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Abrogato dal n. II cpv. 1 dell’O del 18 nov. 2015, con effetto dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^t-2]: Introdotto dalla cifra II dell’O del 25 nov. 1998 ([RU 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Abrogato dalla cifra II cpv. 1 dell’O del 18 nov. 2015, con effetto dal 1° lug. 2016 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 Allegato 3[^t-3]
 
@@ -2219,7 +2228,7 @@ Allegato 3[^t-3]
 
 ## Dati relativi alle tratte
 
-[^t-3]: Introdotto dal n. I 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
+[^t-3]: Introdotto dalla cifra I n. 5 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2), in vigore dal 1° gen. 2010 ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
 
 Sono dati relativi alle tratte:
 
@@ -2236,7 +2245,7 @@ Allegato 4[^t-4]
 
 ## Impianti elettrici
 
-[^t-4]: Introdotto dal n. II dell’O del 16 nov. 2011 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Aggiornato dal n. II cpv. 1 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)), dal n. II cpv. 2 delle O del 18 nov. 2015 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)) e del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^t-4]: Introdotto dalla cifra II dell’O del 16 nov. 2011 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Aggiornato dalla cifra II cpv. 1 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)), dalla cifra II cpv. 2 delle O del 18 nov. 2015 ([RU 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)) e del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 Gli impianti elettrici sono impianti e parti d’impianto fissi o mobili appartenenti a impianti ferroviari o a impianti filoviari. Essi comprendono:
 
@@ -2300,7 +2309,7 @@ Allegato 5[^t-5]
 
 ## Tratte a scartamento normale non interoperabili:
 
-[^t-5]: Introdotto dal n. II cpv. 2 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. II cpv. 1 dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^t-5]: Introdotto dalla cifra II cpv. 2 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra II cpv. 1 dell’O del 12 giu. 2020, in vigore dal 1° nov. 2020 ([RU 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 Renens VD–Lausanne Flon
 
@@ -2336,7 +2345,7 @@ Allegato 6[^t-6]
 
 ## Rete principale interoperabile
 
-[^t-6]: Introdotto dal n. II cpv. 2 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta il n. II cpv. 1 dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^t-6]: Introdotto dalla cifra II cpv. 2 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 Lausanne–Vevey
 
@@ -2718,7 +2727,7 @@ Zürich Aussersihl (bif.)–galleria di base dello Zimmerberg–Litti
 
 Allegato 7[^t-7]
 
-[^t-7]: Introdotto dal n. II cpv. 2 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Abrogato dal n. II dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)). Abrogato dal n. II cpv. 2 dell’O del 1° mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^t-7]: Introdotto dalla cifra II cpv. 2 dell’O del 29 mag. 2013 ([RU 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Abrogato dalla cifra II dell’O del 10 apr. 2024, con effetto dal 1° lug. 2024 ([RU 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)). Abrogato dalla cifra II cpv. 2 dell’O del 1° mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 Allegato 8[^t-8]
 
@@ -2726,7 +2735,7 @@ Allegato 8[^t-8]
 
 ## Tronchi di confine
 
-[^t-8]: Introdotto dal n. II cpv. 3 dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^t-8]: Introdotto dalla cifra II cpv. 3 dell’O del 1° mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 - 1\. Basel Bad Bf–confine (–Weil am Rhein)
 - 2\. Basel Bad Bf–confine (–Basel Bad Rbf gruppo C–Basel Bad Rbf gruppo A)

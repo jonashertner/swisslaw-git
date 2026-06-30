@@ -4,11 +4,11 @@ title: "Verordnung vom 23. November 1983 über Bau und Betrieb der Eisenbahnen (
 short: EBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: de
-version: 2024-07-01
+version: 2026-07-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240701-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/de"
 
 (Eisenbahnverordnung, EBV)
 
-vom 23. November 1983 (Stand am 1. Juli 2024)
+vom 23. November 1983 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -695,13 +695,22 @@ Die Instandhaltung ist so zu organisieren, dass:
 
 #### Art. 15<sup>bis</sup>
 
-**Meldungen an die kantonale Vermessungsaufsicht**[^15bis-1]
+**Meldepflichten**[^15bis-1]
 
-<sup>1</sup> Das BAV informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahren.
+<sup>1</sup> Das BAV informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
 
-<sup>2</sup> Die Infrastrukturbetreiberinnen informieren diese Stelle innert 20 Tagen über Änderungen ihrer Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>2</sup>
 
-[^15bis-1]: Eingefügt durch Anhang Ziff. 12 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert die Infrastrukturbetreiberin das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt die Infrastrukturbetreiberin gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 3 Absatz 3<sup>bis</sup> VPVE[^15bis-2] in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^15bis-3] zuständig ist.
+
+[^15bis-1]: Eingefügt durch Anhang Ziff. 12 der V vom 23. Aug. 2023 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Fassung gemäss Anhang Ziff. 8 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^15bis-2]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
+[^15bis-3]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 1*a*. Kapitel: Interoperabilität
 
@@ -2212,7 +2221,7 @@ Legende:
 </table>
 
 <table>
-<tr><td>Zusätzliche Räume nach Artikel 18 Absatz 4 sind in dieser Zeichnung nicht berücksichtigt.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/de/xml/image/image1.png)</td></tr>
+<tr><td>Zusätzliche Räume nach Artikel 18 Absatz 4 sind in dieser Zeichnung nicht berücksichtigt.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20260701/de/xml/image/image1.png)</td></tr>
 </table>
 
 Anhang 2[^t-2]

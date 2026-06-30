@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1983 sur la construction et l'exploitation des
 short: OCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: fr
-version: 2024-07-01
+version: 2026-07-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240701-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/fr"
 
 (Ordonnance sur les chemins de fer, OCF)
 
-du 23 novembre 1983 (État le 1<sup>er</sup> juillet 2024)
+du 23 novembre 1983 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -694,13 +694,22 @@ L’entretien sera organisé de manière que:
 
 #### Art. 15<sup>bis</sup>
 
-**Annonces au service cantonal du cadastre**[^15bis-1]
+**Devoirs d’annonce**[^15bis-1]
 
-<sup>1</sup> L’OFT informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+<sup>1</sup> L’OFT informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
 
-<sup>2</sup> Les gestionnaires d’infrastructure informent ce service dans un délai de 20 jours de toute modification de leurs ouvrages et installations rendant nécessaire une mise à jour de la mensuration officielle.
+<sup>2</sup>
 
-[^15bis-1]: Introduit par l’annexe ch. 12 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, le gestionnaire d’infrastructure informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, le gestionnaire d’infrastructure transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 3, al. 3<sup>bis</sup>, OPAPIF[^15bis-2], sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^15bis-3].
+
+[^15bis-1]: Introduit par l’annexe ch. 12 de l’O du 23 août 2023 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nouvelle teneur selon l’annexe ch. 8 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^15bis-2]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
+[^15bis-3]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapitre 1*a* Interopérabilité
 
@@ -2211,7 +2220,7 @@ Légende:
 </table>
 
 <table>
-<tr><td>Ce dessin ne tient pas compte des espaces supplémentaires selon l’art. 18, al. 4.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/fr/xml/image/image1.png)</td></tr>
+<tr><td>Ce dessin ne tient pas compte des espaces supplémentaires selon l’art. 18, al. 4.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20260701/fr/xml/image/image1.png)</td></tr>
 </table>
 
 Annexe 2[^t-2]
