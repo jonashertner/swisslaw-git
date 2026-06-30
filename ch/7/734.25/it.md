@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2000 sulla procedura d'approvazione dei piani d
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/it"
 
 (OPIE)
 
-del 2 febbraio 2000 (Stato 1° gennaio 2026)
+del 2 febbraio 2000 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -229,6 +229,8 @@ I documenti da allegare alla domanda da presentare all’Ispettorato per l’app
 
 <sup>1ter</sup> Se sono necessarie espropriazioni, la domanda deve essere completata con i dati di cui all’articolo 28 della legge federale del 20 giugno 1930[^2-5] sull’espropriazione.[^2-6]
 
+<sup>1quater</sup> Nel caso di progetti fuori delle zone edificabili, la domanda deve contenere in particolare i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 OPT[^2-7] e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 OPT.[^2-8]
+
 <sup>2</sup> L’Ispettorato emana direttive concernenti il genere, la presentazione, il contenuto e la quantità dei documenti da presentargli.
 
 <sup>3</sup> Se necessario l’Ispettorato può esigere documenti supplementari, in particolare la prova che i prodotti utilizzati nell’impianto sono conformi alle norme tecniche riconosciute.
@@ -243,6 +245,8 @@ I documenti da allegare alla domanda da presentare all’Ispettorato per l’app
 [^2-4]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^2-5]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-6]: Introdotto dalla cifra I n. 5 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^2-7]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^2-8]: Introdotto dall’appendice n. 7 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 3
 
@@ -440,6 +444,14 @@ Se per un impianto esistente per il quale è stata rilasciata un’autorizzazion
 [^9d-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^9d-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
+#### Art. 9e
+
+**Obbligo di notifica**[^9e-1]
+
+L’autorità che ha rilasciato l’approvazione dei piani informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
+
+[^9e-1]: Introdotto dall’appendice n. 7 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
 ## Sezione 3: Inizio dei lavori e attivazione
 
 #### Art. 10
@@ -474,9 +486,13 @@ Se l’esecuzione di un piano di costruzione iniziato entro i termini previsti �
 
 <sup>1</sup> L’impresa deve notificare per scritto all’Ispettorato il completamento dell’impianto e allegare una conferma del costruttore dalla quale risulti che l’impianto soddisfa i requisiti legali e le norme tecniche riconosciute.
 
-<sup>2</sup> Deve informare il servizio cantonale di vigilanza sulle misurazioni in merito a modifiche di impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale. Conferma l’esecuzione di tale informazione con la notifica secondo il capoverso 1.[^12-1]
+<sup>2</sup> Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, l’impresa è tenuta a informare swisstopo entro 20 giorni dal completamento dei lavori, allegando i piani richiesti da swisstopo. Conferma l’esecuzione di tale informazione con la notifica secondo il capoverso 1.[^12-1]
 
-[^12-1]: Introdotto dall’all. n. 11 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, l’impresa trasmette possibilmente sotto forma di geodati i piani di cui all’articolo 2 capoverso 1<sup>quater</sup> approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^12-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori. L’impresa conferma l’esecuzione di tale informazione con la notifica secondo il capoverso 1.[^12-3]
+
+[^12-1]: Introdotto dall’all. n. 11 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nuovo testo giusta l’appendice n. 7 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^12-3]: Nuovo testo giusta l’appendice n. 7 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 13
 

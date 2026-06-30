@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: fr
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/fr"
 
 (OPIE)
 
-du 2 février 2000 (État le 1<sup>er</sup> janvier 2026)
+du 2 février 2000 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -229,6 +229,8 @@ Les dossiers de demande soumis à l’approbation de l’inspection doivent cont
 
 <sup>1ter</sup> Si des expropriations sont nécessaires, il faut compléter la demande par les documents visés à l’art. 28 de la loi fédérale du 20 juin 1930 sur l’expropriation[^2-5].[^2-6]
 
+<sup>1quater</sup> Pour les projets situés hors de la zone à bâtir, la demande doit notamment comprendre des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’OAT[^2-7], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, de l’ordonnance sur l’aménagement du territoire.[^2-8]
+
 <sup>2</sup> L’inspection édicte des directives précisant la nature, la présentation, la teneur et le nombre des documents qui doivent lui être soumis.
 
 <sup>3</sup> Au besoin, elle peut exiger des documents supplémentaires, notamment la preuve que les matériels utilisés dans la construction de l’installation sont conformes aux règles techniques reconnues.
@@ -243,6 +245,8 @@ Les dossiers de demande soumis à l’approbation de l’inspection doivent cont
 [^2-4]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^2-5]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-6]: Introduit par le ch. I 5 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^2-7]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^2-8]: Introduit par l’annexe ch. 7 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 3
 
@@ -440,6 +444,14 @@ Si des droits doivent être renouvelés ou acquis en plus pour une installation 
 [^9d-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^9d-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
+#### Art. 9e
+
+**Devoir d’annonce**[^9e-1]
+
+L’autorité qui a rendu la décision d’approbation des plans informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
+
+[^9e-1]: Introduit par l’annexe ch. 7 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
 ## Section 3 Début des travaux et mise en service
 
 #### Art. 10
@@ -470,13 +482,16 @@ Si l’exécution d’un plan entreprise à temps est interrompue durant plus d�
 
 #### Art. 12
 
-**Mise en service**
+**Mise en service**[^12-1]
 
-<sup>1</sup> L’entreprise doit notifier par écrit à l’inspection l’achèvement de l’installation et joindre une confirmation du constructeur mentionnant que l’installation correspond aux prescriptions de la législation et aux règles reconnues de la technique.
+<sup>1</sup> L’exploitante doit communiquer par écrit à l’Inspection l’achèvement de l’installation et joindre une attestation du constructeur certifiant que l’installation est conforme aux exigences légales et aux règles techniques reconnues.
 
-<sup>2</sup> Elle doit informer le service cantonal du cadastre de toute modification de l’installation rendant nécessaire une mise à jour de la mensuration officielle. Elle confirme l’avoir informé, au moyen de la notification visée à l’al.1.[^12-1]
+<sup>2</sup> Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, l’exploitante informe swisstopo dans un délai de 20 jours après l’achèvement des travaux, en lui remettant les plans dont il a besoin. Elle confirme l’exécution de cette communication par la notification visée à l’al. 1.
 
-[^12-1]: Introduit par l’annexe ch. 11 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, l’exploitante transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 2, al. 1<sup>quater</sup>, si possible sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^12-2]. L’exploitante confirme l’exécution de cette communication par la notification visée à l’al. 1.
+
+[^12-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 13
 

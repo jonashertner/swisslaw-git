@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für e
 short: VPeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/de"
 
 (VPeA)
 
-vom 2. Februar 2000 (Stand am 1. Januar 2026)
+vom 2. Februar 2000 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -229,6 +229,8 @@ Die Unterlagen, die dem Inspektorat zur Genehmigung einzureichen sind, müssen a
 
 <sup>1<sup>ter</sup></sup> Sind Enteignungen notwendig, ist das Gesuch mit den Angaben nach Artikel 28 des Bundesgesetzes über die Enteignung vom 20. Juni 1930[^2-4] zu ergänzen.[^2-5]
 
+<sup>1quater</sup> Bei Vorhaben ausserhalb der Bauzonen muss das Gesuch insbesondere Pläne enthalten, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 RPV[^2-6] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.[^2-7]
+
 <sup>2</sup> Das Inspektorat erlässt Richtlinien über Art, Darstellung, Inhalt und Anzahl der einzureichenden Unterlagen.
 
 <sup>3</sup> Es kann bei Bedarf zusätzliche Unterlagen verlangen, insbesondere den Nachweis, dass die Erzeugnisse, die in die Anlage eingebaut werden, den anerkannten Regeln der Technik entsprechen.
@@ -242,6 +244,8 @@ Die Unterlagen, die dem Inspektorat zur Genehmigung einzureichen sind, müssen a
 [^2-3]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^2-4]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-5]: Eingefügt durch Ziff. I 5 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^2-6]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^2-7]: Eingefügt durch Anhang Ziff. 7 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 3
 
@@ -439,6 +443,14 @@ Müssen für eine bestehende, rechtskräftig bewilligte Anlage Rechte erneuert o
 [^9d-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^9d-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
+#### Art. 9e
+
+**Meldepflicht**[^9e-1]
+
+Die Behörde, welche die Plangenehmigung erlässt, informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
+
+[^9e-1]: Eingefügt durch Anhang Ziff. 7 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
 ## 3. Abschnitt: Bau und Inbetriebnahme
 
 #### Art. 10
@@ -469,13 +481,16 @@ Wird die Ausführung eines rechtzeitig begonnenen Bauvorhabens für länger als 
 
 #### Art. 12
 
-**Inbetriebnahme**
+**Inbetriebnahme**[^12-1]
 
-<sup>1</sup> Die Unternehmung muss die Fertigstellung der Anlage dem Inspektorat schriftlich mitteilen und eine Bestätigung des Erstellers beilegen, aus welcher hervorgeht, dass die Anlage den Anforderungen der Gesetzgebung und den anerkannten Regeln der Technik entspricht.
+<sup>1</sup> Die Betriebsinhaberin muss die Fertigstellung der Anlage dem Inspektorat schriftlich mitteilen und eine Bestätigung des Erstellers beilegen, aus welcher hervorgeht, dass die Anlage den Anforderungen der Gesetzgebung und den anerkannten Regeln der Technik entspricht.
 
-<sup>2</sup> Sie muss die kantonale Vermessungsaufsicht über Änderungen von Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen. Sie bestätigt den Vollzug dieser Meldung mit der Mitteilung nach Absatz 1.[^12-1]
+<sup>2</sup> Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert die Betriebsinhaberin das swisstopo unter Beilage der vom swisstopo benötigten Pläne innert 20 Tagen nach der Bauvollendung. Sie bestätigt den Vollzug dieser Meldung mit der Mitteilung nach Absatz 1.
 
-[^12-1]: Eingefügt durch Anhang Ziff. 11 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt die Betriebsinhaberin gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 2 Absatz 1<sup>quater</sup> möglichst in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^12-2] zuständig ist. Die Betriebsinhaberin bestätigt den Vollzug dieser Meldung mit der Mittelung nach Absatz 1.
+
+[^12-1]: Fassung gemäss Anhang Ziff. 7 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 13
 
