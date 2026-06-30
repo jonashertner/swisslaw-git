@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente la vigilanza sull'assicurazio
 short: OVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: it
-version: 2025-07-15
+version: 2026-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20250715/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20250715-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/it"
 
 (Ordinanza sulla vigilanza sull’assicurazione malattie, OVAMal)
 
-del 18 novembre 2015 (Stato 15 luglio 2025)
+del 18 novembre 2015 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 2 capoverso 2, 14 capoverso 2, 17 capoverso 4, 19*b* capovers
 
 ordina:
 
-[^ingress-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^ingress-2]: Nuovo testo giusta la cifra I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^ingress-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^ingress-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 ## Capitolo 1: Definizioni
 
@@ -39,7 +39,7 @@ Per altri rami d’assicurazione ai sensi dell’articolo 2 capoverso 2 LVAMal s
 - a. un’indennità in caso di morte in seguito a malattia o infortunio di 6000 franchi al massimo;
 - b. la continuazione dell’assicurazione delle cure medico-sanitarie secondo l’articolo 7*a* dell’ordinanza del 27 giugno 1995[^1-1] sull’assicurazione malattie (OAMal).
 
-[^1-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^1-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 2
 
@@ -60,7 +60,15 @@ Due o più imprese formano un gruppo assicurativo se:
 
 <sup>2</sup> Nella domanda, le imprese di assicurazione private devono dimostrare di essere in possesso di un’autorizzazione a esercitare l’attività assicurativa conformemente alla legge del 17 dicembre 2004[^3-1] sulla sorveglianza degli assicuratori.
 
-[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+
+#### Art. 3a
+
+**Delega di compiti essenziali**[^3a-1]
+
+Per delega di compiti essenziali conformemente all’articolo 7 capoverso 2 lettera l LVAMal si intende segnatamente l’esame delle prestazioni, la riscossione, la contabilità e l’amministrazione delle polizze.
+
+[^3a-1]: Introdotto dalla cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 4
 
@@ -76,7 +84,7 @@ Un assicuratore può, in via eccezionale, essere esentato completamente o in par
 
 <sup>2</sup> La domanda di esenzione dall’obbligo in questione va presentata all’autorità di vigilanza entro il 30 giugno. L’esenzione ha effetto a partire dal 1°gennaio dell’anno seguente.
 
-[^4-1]: Nuovo testo giusta la cifra I 6 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^4-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 5
 
@@ -92,11 +100,13 @@ Se un assicuratore non ha alcun assicurato per un periodo di due anni, l’attiv
 
 #### Art. 7
 
-**Termini in caso di modifiche del piano d’esercizio**
+**Termini in caso di modifiche del piano d’esercizio**[^7-1]
 
-<sup>1</sup> Le domande di modifica del raggio d’attività territoriale, le nuove disposizioni sulle forme particolari dell’assicurazione obbligatoria delle cure medico-sanitarie e sull’assicurazione facoltativa d’indennità giornaliera, nonché le condizioni generali di assicurazione devono essere presentate all’autorità di vigilanza cinque mesi prima dell’inizio della loro validità. L’autorità di vigilanza può abbreviare tale termine.
+<sup>1</sup> Le domande di modifica degli elementi del piano d’esercizio di cui all’articolo 7 capoverso 2 lettere k e n LVAMal devono essere presentate all’autorità di vigilanza entro il 30 giugno. Le modifiche hanno effetto a partire dall’inizio dell’anno civile successivo. In via eccezionale, l’autorità di vigilanza può autorizzare un inizio di validità diverso. La domanda deve essere presentata cinque mesi prima dell’inizio di validità auspicato.
 
-<sup>2</sup> I contratti o altri accordi per delegare compiti essenziali, segnatamente l’esame delle prestazioni, la riscossione, la contabilità e l’amministrazione delle polizze, devono essere presentati all’autorità di vigilanza due mesi prima dell’inizio della loro validità.
+<sup>2</sup> Le domande di modifica degli elementi del piano d’esercizio di cui all’articolo 7 capoverso 2 lettera l LVAMal devono essere presentate all’autorità di vigilanza due mesi prima dell’inizio di validità auspicato.
+
+[^7-1]: Nuovo testo giusto la cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 8
 
@@ -137,7 +147,7 @@ Le riserve di un assicuratore che chiede l’autorizzazione devono ammontare ad 
 
 <sup>5</sup> Il Dipartimento federale dell’interno (DFI) può stabilire come devono essere valutati gli attivi e gli impegni.
 
-[^10-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^10-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 11
 
@@ -229,7 +239,7 @@ Entro il 31 marzo, l’assicuratore comunica all’autorità di vigilanza l’im
 
 <sup>5</sup> Gli assicuratori, che offrono sia l’assicurazione sociale malattie sia assicurazioni secondo la LCA[^18-1], devono definire come tale il patrimonio vincolato dell’assicurazione sociale malattie.
 
-[^18-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^18-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 19
 
@@ -289,7 +299,7 @@ A meno che siano effettivamente garantiti da strumenti finanziari derivati di cu
 
 <sup>3</sup> Il DFI può emanare direttive sul calcolo dei limiti.
 
-[^20-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^20-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 21
 
@@ -362,7 +372,7 @@ Il ricavato del patrimonio vincolato viene utilizzato innanzitutto per coprire l
 
 <sup>5</sup> Le riserve sono eccessive ai sensi dell’articolo 16 capoverso 4 lettera d LVAMal quando la copertura dell’ammontare minimo delle riserve dell’assicuratore è garantita a lungo termine anche con riserve più basse. Per la valutazione l’autorità di vigilanza si basa sul piano d’esercizio e sulle indicazioni di cui all’articolo 12 capoverso 3.
 
-[^25-1]: Nuovo testo giusta la cifra I 6 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^25-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 26
 
@@ -392,7 +402,7 @@ Il ricavato del patrimonio vincolato viene utilizzato innanzitutto per coprire l
 
 <sup>4</sup> L’autorità di vigilanza approva le tariffe dei premi per un anno civile. Se, sulla base dei documenti presentati, sussistono dubbi sul fatto che i premi soddisfino i requisiti di cui all’articolo 16 LVAMal, essa può approvare una tariffa dei premi per una durata inferiore a un anno. L’assicuratore comunica agli assicurati questa durata di validità dell’approvazione unitamente al nuovo premio.
 
-[^27-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 28
 
@@ -431,7 +441,7 @@ I costi cumulati di un assicuratore corrispondono al totale dei suoi costi in un
 L’assicuratore può compensare i premi incassati in eccesso in un Cantone se l’effettivo dei suoi assicurati in questo Cantone è superiore all’effettivo molto piccolo ai sensi dell’articolo 91 capoverso 1 OAMal[^30b-2].
 
 [^30b-1]: Introdotto dalla cifra I dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^30b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^30b-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 31
 
@@ -439,25 +449,37 @@ L’assicuratore può compensare i premi incassati in eccesso in un Cantone se l
 
 L’assicuratore si trova in una situazione economica che consente una compensazione dei premi incassati in eccesso se, dopo tale compensazione, dispone di riserve superiori al 150 per cento dell’ammontare minimo di cui all’articolo 11 capoverso 1.
 
+#### Art. 31a
+
+**Ripartizione della compensazione dei premi tra gli assicurati**[^31a-1]
+
+La compensazione dei premi è ripartita tra gli assicurati in base a una chiave di ripartizione adeguata, definita dall’assicuratore (rimborso).
+
+[^31a-1]: Introdotto dalla cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+
 #### Art. 32
 
 **Procedura**
 
 <sup>1</sup> L’autorità di vigilanza fissa in un’istruzione quali documenti e informazioni devono essere allegati alla domanda di approvazione di cui all’articolo 17 capoverso 1 LVAMal.
 
-<sup>2</sup> Essa comunica la propria decisione ai Cantoni interessati.
+<sup>2</sup> Comunica ai Cantoni interessati la decisione relativa alla domanda di approvazione dell’assicuratore. In caso di approvazione, comunica in particolare l’importo della compensazione dei premi e l’importo del rimborso per assicurato.[^32-1]
+
+[^32-1]: Nuovo testo giusto la cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 33
 
-**Modalità della restituzione**
+**Modalità della restituzione**[^33-1]
 
-<sup>1</sup> L’importo della compensazione approvato dall’autorità di vigilanza è ripartito tra gli assicurati in base a una chiave di ripartizione adeguata, definita dall’assicuratore.
+<sup>1</sup> Se la restituzione è concessa agli assicurati (art. 18 cpv. 1 LVAMal), l’assicuratore comunica a questi ultimi l’importo del rimborso di cui all’articolo 31*a*.
 
-<sup>2</sup> L’assicuratore comunica agli assicurati l’importo del rimborso di cui all’articolo 18 LVAMal.
+<sup>2</sup> L’assicuratore deduce l’importo del rimborso dal premio dovuto e lo segnala separatamente sulla relativa fattura. Può anche versarlo separatamente all’assicurato.
 
-<sup>3</sup> L’assicuratore deduce l’importo del rimborso dal premio dovuto e lo segnala separatamente sulla relativa fattura. Può anche versarlo separatamente all’assicurato.
+<sup>3</sup> L’assicuratore può compensare l’importo del rimborso con i premi o le partecipazioni ai costi a lui dovuti.
 
-<sup>4</sup> L’assicuratore può compensare l’importo del rimborso con i premi o le partecipazioni ai costi a lui dovuti.
+<sup>4</sup> Se la restituzione è concessa al Cantone (art. 18 cpv. 2 LVAMal), l’assicuratore comunica al Cantone l’importo totale al quale ha diritto in virtù dell’articolo 18 capoverso 2 LVAMal.
+
+[^33-1]: Nuovo testo giusto la cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 ### Sezione 7: Costi amministrativi
 
@@ -481,15 +503,15 @@ I costi amministrativi dell’assicurazione malattie sono ripartiti secondo gli 
 
 <sup>3</sup> ...[^35-3]
 
-[^35-1]: Nuovo testo giusta la cifra I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^35-2]: Abrogato dalla cifra I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^35-3]: Abrogato dalla cifra I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-2]: Abrogato dalla cifra I n. 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-3]: Abrogato dalla cifra I n. 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 ## Capitolo 3*a*: Attività degli intermediari assicurativi
 
 [^chap3a-1]
 
-[^chap3a-1]: Introdotto dalla cifra I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^chap3a-1]: Introdotto dalla cifra I n. 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 35a
 
@@ -620,7 +642,7 @@ La documentazione comprende in particolare i seguenti punti:
 
 <sup>7</sup> Egli provvede affinché gli investimenti siano facilmente valutabili e la solvibilità dei debitori sia buona e verificabile.
 
-[^43-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^43-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 44
 
@@ -699,7 +721,7 @@ Sono considerati non rischiosi:
 
 **Relazione sulla gestione**
 
-<sup>1</sup> La relazione sulla gestione è allestita conformemente alle disposizioni della Fondazione per le raccomandazioni concernenti la presentazione dei conti «Swiss GAAP FER»[^50-1]. Si compone del rapporto annuale e del conto annuale (bilancio, conto economico, conto dei flussi di tesoreria, documentazione del capitale proprio e allegato). L’UFSP definisce la versione applicabile delle norme Swiss GAAP FER.[^50-2]
+<sup>1</sup> La relazione sulla gestione è allestita conformemente alle disposizioni della Fondazione per le raccomandazioni concernenti la presentazione dei conti (Swiss GAAP FER)[^50-1]. Si compone del rapporto annuale e del conto annuale (bilancio, conto economico, conto dei flussi di tesoreria, documentazione del capitale proprio e allegato). L’UFSP definisce la versione applicabile delle norme Swiss GAAP FER.[^50-2]
 
 <sup>2</sup> L’UFSP può fissare ulteriori requisiti specifici. In tal caso, l’assicuratore può decidere se applicare le norme Swiss GAAP FER oppure le norme Swiss GAAP FER integrate con i requisiti specifici in questione.
 
@@ -707,10 +729,10 @@ Sono considerati non rischiosi:
 
 <sup>4</sup> L’assicuratore pubblica la relazione sulla gestione entro il 30 giugno dell’anno successivo all’esercizio cui si riferisce.
 
-[^50-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; [www.verlagskv.ch](https://verlagskv.ch/)
-[^50-2]: Nuovo testo giusta la cifra I dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^50-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^50-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^50-1]: Le raccomandazioni possono essere consultate gratuitamente o ottenute a pagamento presso: Verlag SKV, Reitergasse 9, casella postale, 8021 Zurigo; [www.verlagskv.ch](https://verlagskv.ch/).
+[^50-2]: Nuovo testo giusto la cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^50-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^50-4]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 51
 
@@ -718,11 +740,12 @@ Sono considerati non rischiosi:
 
 <sup>1</sup> L’UFSP fissa requisiti specifici per il conto annuale secondo il diritto in materia di vigilanza.
 
-<sup>2</sup> Il conto annuale secondo il diritto in materia di vigilanza è allestito secondo le norme Swiss GAAP FER[^51-1] integrate con i requisiti specifici di cui al capoverso 1.
+<sup>2</sup> Il conto annuale secondo il diritto in materia di vigilanza è allestito secondo le norme Swiss GAAP FER[^51-1] integrate con i requisiti specifici di cui al capoverso 1.[^51-2]
 
 <sup>3</sup> L’assicuratore trasmette il conto annuale secondo il diritto in materia di vigilanza all’autorità di vigilanza entro il 31 marzo dell’anno successivo all’esercizio cui si riferisce.
 
-[^51-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; [www.verlagskv.ch](https://verlagskv.ch/)
+[^51-1]: Le raccomandazioni possono essere consultate gratuitamente o ottenute a pagamento presso: Verlag SKV, Reitergasse 9, casella postale, 8021 Zurigo; www.verlagskv.ch .
+[^51-2]: Nuovo testo giusto la cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 52
 
@@ -736,7 +759,7 @@ Sono considerati non rischiosi:
 
 <sup>4</sup> Se l’assicuratore designa un nuovo ufficio di revisione esterno, deve informarne l’autorità di vigilanza.
 
-[^52-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 53
 
@@ -758,14 +781,15 @@ Sono considerati non rischiosi:
 
 L’ufficio di revisione esterno allestisce ogni anno:
 
-- a. un rapporto sul conto annuale secondo le norme Swiss GAAP FER[^54-1];
-- b. un rapporto dettagliato all’attenzione dell’organo d’amministrazione secondo le norme del CO[^54-2] e le istruzioni dell’autorità di vigilanza;
+- a.[^54-1] un rapporto sul conto annuale secondo le norme Swiss GAAP FER[^54-2];
+- b. un rapporto dettagliato all’attenzione dell’organo d’amministrazione secondo le norme del CO[^54-3] e le istruzioni dell’autorità di vigilanza;
 - c. un rapporto sul conto annuale secondo il diritto in materia di vigilanza secondo le istruzioni dell’autorità di vigilanza.
 
 <sup>2</sup> Esso trasmette i suoi rapporti all’autorità di vigilanza e all’ufficio di revisione interno.
 
-[^54-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; [www.verlagskv.ch](https://verlagskv.ch/)
-[^54-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^54-1]: Nuovo testo giusto la cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^54-2]: Le raccomandazioni possono essere consultate gratuitamente o ottenute a pagamento presso: Verlag SKV, Reitergasse 9, casella postale, 8021 Zurigo; www.verlagskv.ch
+[^54-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capitolo 5: Riassicurazione
 
@@ -823,7 +847,7 @@ L’autorizzazione a esercitare la riassicurazione ha effetto a partire dall’i
 
 **Parità di trattamento degli assicurati e protezione contro gli abusi**
 
-<sup>1</sup> L’assicuratore deve trattare tutti gli assicurati allo stesso modo, senza distinzione di stato di salute o di un indicatore di esso, in particolare per quanto riguarda l’ammissione nell’assicurazione, la scelta della forma di assicurazione, le comunicazioni agli assicurati, nonché il termine per il rimborso delle prestazioni.
+<sup>1</sup> L’assicuratore deve trattare tutti gli assicurati allo stesso modo, senza distinzione di stato di salute o di un indicatore di esso, in particolare per quanto riguarda l’ammissione nell’assicurazione, la scelta della forma di assicurazione, le comunicazioni agli assicurati ad eccezione dell’informazione mirata di cui all’articolo 56*a* LAMal[^61-1] nonché il termine per il rimborso delle prestazioni.[^61-2]
 
 <sup>2</sup>
 
@@ -832,6 +856,9 @@ L’autorizzazione a esercitare la riassicurazione ha effetto a partire dall’i
 - a. ripetutamente a un assicurato;
 - b. a un assicurato attraverso una notevole disparità di trattamento non giustificabile dal punto di vista giuridico o attuariale;
 - c. sistematicamente a un gruppo di assicurati.
+
+[^61-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^61-2]: Nuovo testo giusto la cifra I dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 62
 
@@ -907,9 +934,9 @@ Per adempiere i compiti di cui al capoverso 1, gli assicuratori comunicano regol
 <sup>8</sup> L’utilizzazione dei dati ai sensi dell’articolo 35 capoverso 2 LVAMal comprende qualsiasi forma di trattamento degli stessi in virtù del diritto in materia di protezione dei dati della Confederazione, compresa la loro comunicazione.
 
 [^62a-1]: Introdotto dall’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^62a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^62a-3]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^62a-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^62a-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^62a-3]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
+[^62a-4]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^62a-5]: Correzione del 15 lug. 2025 ([RU 2025 466](https://fedlex.data.admin.ch/eli/oc/2025/466)).
 
 #### Art. 63
@@ -1029,7 +1056,7 @@ Prima del termine di cui al capoverso 4, gli assicuratori le cui riserve non rag
 
 <sup>8</sup> Egli comunica all’autorità di vigilanza gli investimenti di cui all’articolo 46 capoverso 1 lettera b esistenti al momento dell’entrata in vigore della presente ordinanza entro due anni da tale data.
 
-[^73-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^73-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^73-2]: [RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
 #### Art. 73a
@@ -1038,8 +1065,8 @@ Prima del termine di cui al capoverso 4, gli assicuratori le cui riserve non rag
 
 Per i formulari d’affiliazione ricevuti dall’assicuratore entro il 31 dicembre 2024, l’attività degli intermediari assicurativi legati all’assicuratore mediante un contratto individuale di lavoro ai sensi dell’articolo 319 CO[^73a-2] può essere rimunerata secondo il diritto anteriore sino al 31 gennaio 2025.
 
-[^73a-1]: Introdotto dalla cifra I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^73a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^73a-1]: Introdotto dalla cifra I n. 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^73a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 74
 
@@ -1056,7 +1083,7 @@ Allegato 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Introdotto dalla cifra II dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^annex1-lvlu1-1]: La formula di calcolo della deviazione standard non è pubblicata nella RU conformemente all’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultata all’indirizzo [www.ufsp.admin.ch](http://www.ufsp.admin.ch) &gt; Assicurazioni &gt; Assicurazione malattie
+[^annex1-lvlu1-1]: La formula di calcolo della deviazione standard non è pubblicata nella RU conformemente all’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Può essere consultata all’indirizzo [www.ufsp.admin.ch](http://www.ufsp.admin.ch) &gt; Assicurazioni &gt; Assicurazione malattie
 
 Allegato 2[^t-2]
 
@@ -1064,7 +1091,7 @@ Allegato 2[^t-2]
 
 ## Disposizioni aventi carattere obbligatorio generale dell’accordo settoriale
 
-[^t-2]: Introdotto dalla cifra I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^t-2]: Introdotto dalla cifra I n. 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 Le disposizioni seguenti dell’accordo settoriale del 22 marzo 2024[^annex2-lvlu1-1] concluso tra santésuisse e curafutura concernente la qualità della consulenza e le indennità versate agli intermediari per l’acquisizione di clienti hanno carattere obbligatorio generale:
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 betreffend die Aufsicht über die sozia
 short: KVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: de
-version: 2025-07-15
+version: 2026-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20250715/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20250715-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/de"
 
 (Krankenversicherungsaufsichtsverordnung, KVAV)
 
-vom 18. November 2015 (Stand am 15. Juli 2025)
+vom 18. November 2015 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 2 Absatz 2, 14 Absatz 2, 17 Absatz 4, 19*b* Absätze 2
 
 verordnet:
 
-[^ingress-1]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^ingress-1]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^ingress-2]: Fassung gemäss Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 ## 1. Kapitel: Begriffe
@@ -39,7 +39,7 @@ Als weitere Versicherungsarten im Sinne von Artikel 2 Absatz 2 KVAG gelten:
 - a. ein Sterbegeld bei Tod infolge Krankheit oder Unfall von höchstens 6000 Franken;
 - b. die Weiterführung der Krankenpflegeversicherung nach Artikel 7*a* der Verordnung vom 27. Juni 1995[^1-1] über die Krankenversicherung (KVV).
 
-[^1-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^1-1]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 2
 
@@ -60,7 +60,15 @@ Als Versicherungsgruppe gilt eine Gruppe von zwei oder mehreren Unternehmen, die
 
 <sup>2</sup> Private Versicherungsunternehmen müssen im Gesuch belegen, dass sie über eine Bewilligung zur Aufnahme der Versicherungstätigkeit nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^3-1] verfügen.
 
-[^3-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+
+#### Art. 3a
+
+**Übertragung von wesentlichen Aufgaben**[^3a-1]
+
+Als Übertragung von wesentlichen Aufgaben im Sinne von Artikel 7 Absatz 2 Buchstabe l KVAG gelten namentlich die Leistungsüberprüfung, das Inkasso, das Rechnungswesen und die Policenverwaltung.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 4
 
@@ -92,11 +100,13 @@ Ist bei einem Versicherer während zwei Jahren niemand versichert, so gilt die V
 
 #### Art. 7
 
-**Fristen bei Änderungen des Geschäftsplans**
+**Fristen bei Änderungen des Geschäftsplans**[^7-1]
 
-<sup>1</sup> Gesuche um Änderung des örtlichen Tätigkeitsbereichs, neue Bestimmungen über die besonderen Versicherungsformen in der obligatorischen Krankenpflegeversicherung und über die freiwillige Taggeldversicherung sowie die allgemeinen Versicherungsbedingungen müssen fünf Monate vor Beginn ihrer Gültigkeit bei der Aufsichtsbehörde eingereicht werden. Die Aufsichtsbehörde kann diese Frist verkürzen.
+<sup>1</sup> Gesuche um Änderung der Elemente des Geschäftsplans nach Artikel 7 Absatz 2 Buchstaben k und n KVAG müssen bis zum 30. Juni bei der Aufsichtsbehörde eingereicht werden. Die Änderungen werden auf den Beginn des nächsten Kalenderjahres wirksam. Die Aufsichtsbehörde kann ausnahmsweise einen anderen Beginn der Wirksamkeit bewilligen. Das entsprechende Gesuch muss fünf Monate vor dem gewünschten Beginn der Wirksamkeit eingereicht werden.
 
-<sup>2</sup> Verträge oder sonstige Absprachen zur Übertragung von wesentlichen Aufgaben, namentlich der Leistungsprüfung, dem Inkasso, dem Rechnungswesen und der Policenverwaltung, müssen zwei Monate vor Beginn ihrer Gültigkeit bei der Aufsichtsbehörde eingereicht werden.
+<sup>2</sup> Gesuche um Änderung der Elemente des Geschäftsplans nach Artikel 7 Absatz 2 Buchstabe l KVAG müssen zwei Monate vor dem gewünschten Beginn der Wirksamkeit bei der Aufsichtsbehörde eingereicht werden.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 8
 
@@ -137,7 +147,7 @@ Die Reserven eines um Bewilligung ersuchenden Versicherers müssen mindestens ac
 
 <sup>5</sup> Das Eidgenössische Departement des Innern (EDI) kann festlegen, wie die Aktiven und die Verpflichtungen zu bewerten sind.
 
-[^10-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^10-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 11
 
@@ -229,7 +239,7 @@ Der Versicherer teilt der Aufsichtsbehörde bis zum 31. März den auf das Ende d
 
 <sup>5</sup> Versicherer, welche sowohl die soziale Krankenversicherung als auch Versicherungen nach dem VVG[^18-1] anbieten, haben das gebundene Vermögen der sozialen Krankenversicherung als solches zu kennzeichnen.
 
-[^18-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^18-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 19
 
@@ -289,7 +299,7 @@ Anlagen des gebundenen Vermögens, die eine der folgenden Begrenzungen überschr
 
 <sup>3</sup> Das EDI kann Weisungen zur Berechnung der Begrenzungen erlassen.
 
-[^20-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^20-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 21
 
@@ -392,7 +402,7 @@ Aus dem Erlös des gebundenen Vermögens werden vorweg die Ansprüche aus den Ve
 
 <sup>4</sup> Sie genehmigt die Prämientarife für ein Kalenderjahr. Bestehen aufgrund der eingereichten Unterlagen Zweifel, dass die Prämien die Anforderungen nach Artikel 16 KVAG erfüllen, so kann sie einen Prämientarif für eine unterjährige Dauer genehmigen. Der Versicherer teilt den Versicherten diese Genehmigungsdauer zusammen mit der neuen Prämie mit.
 
-[^27-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 28
 
@@ -431,7 +441,7 @@ Die kumulierten Kosten eines Versicherers entsprechen seinen gesamten Kosten in 
 Der Versicherer kann die zu hohen Prämieneinnahmen in einem Kanton ausgleichen, wenn sein Versichertenbestand in diesem Kanton über dem im Sinne von Artikel 91 Absatz 1 KVV[^30b-2] definierten sehr kleinen Bestand liegt.
 
 [^30b-1]: Eingefügt durch Ziff. I der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^30b-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^30b-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 31
 
@@ -439,25 +449,37 @@ Der Versicherer kann die zu hohen Prämieneinnahmen in einem Kanton ausgleichen,
 
 Der Versicherer ist in einer wirtschaftlichen Situation, die den Ausgleich von zu hohen Prämieneinnahmen ermöglicht, wenn er nach dem Ausgleich über Reserven von mehr als 150 Prozent der Mindesthöhe nach Artikel 11 Absatz 1 verfügt.
 
+#### Art. 31a
+
+**Aufschlüsselung des Prämienausgleichs auf die Versicherten**[^31a-1]
+
+Der Prämienausgleich wird nach einem angemessenen, vom Versicherer bestimmten Schlüssel auf die Versicherten verteilt (Rückvergütungsbetrag).
+
+[^31a-1]: Eingefügt durch Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+
 #### Art. 32
 
 **Verfahren**
 
 <sup>1</sup> Die Aufsichtsbehörde legt in einer Weisung fest, welche Unterlagen und Informationen dem Genehmigungsantrag nach Artikel 17 Absatz 1 KVAG beigelegt werden müssen.
 
-<sup>2</sup> Sie teilt den betreffenden Kantonen ihren Entscheid mit.
+<sup>2</sup> Sie teilt den betreffenden Kantonen den Entscheid zum Genehmigungsantrag des Versicherers mit. Im Falle der Genehmigung teilt sie insbesondere die Höhe des Prämienausgleichs und den Rückvergütungsbetrag pro versicherte Person mit.[^32-1]
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 33
 
-**Modalitäten der Rückerstattung**
+**Modalitäten der Rückerstattung**[^33-1]
 
-<sup>1</sup> Der von der Aufsichtsbehörde genehmigte Ausgleichsbetrag wird nach einem angemessenen, vom Versicherer bestimmten Schlüssel auf die Versicherten verteilt.
+<sup>1</sup> Erfolgt die Rückerstattung an die Versicherten (Art. 18 Abs. 1 KVAG), so teilt der Versicherer den Versicherten den Rückvergütungsbetrag nach Artikel 31*a* mit.
 
-<sup>2</sup> Der Versicherer teilt den Versicherten den Betrag der Rückvergütung nach Artikel 18 KVAG mit.
+<sup>2</sup> Er zieht den Rückvergütungsbetrag von den geschuldeten Prämien ab und weist ihn auf der entsprechenden Prämienrechnung gesondert aus. Er kann dem Versicherten den Betrag auch separat ausrichten.
 
-<sup>3</sup> Er zieht den Rückvergütungsbetrag von den geschuldeten Prämien ab und weist ihn auf der entsprechenden Prämienrechnung gesondert aus. Er kann dem Versicherten den Betrag auch separat ausrichten.
+<sup>3</sup> Er kann den Rückvergütungsbetrag mit ihm geschuldeten Prämien oder Kostenbeteiligungen verrechnen.
 
-<sup>4</sup> Der Versicherer kann den Rückvergütungsbetrag mit ihm geschuldeten Prämien oder Kostenbeteiligungen verrechnen.
+<sup>4</sup> Erfolgt die Rückerstattung an den Kanton (Art. 18 Abs. 2 KVAG), so teilt er dem Kanton den gesamten Betrag mit, auf den er nach Artikel 18 Absatz 2 KVAG Anspruch hat.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 ### 7. Abschnitt: Verwaltungskosten
 
@@ -505,7 +527,7 @@ Die Verwaltungskosten der Krankenversicherung werden entsprechend dem tatsächli
 
 Die im Anhang 2 aufgeführten Regelungen der Branchenvereinbarung zwischen Santésuisse und Curafutura vom 22. März 2024[^35b-1] betreffend die Qualität der Beratung und die Entschädigung an die Vermittler in der Kundenwerbung sind für sämtliche Versicherer allgemeinverbindlich.
 
-[^35b-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+[^35b-1]: Die Vereinbarung kann kostenlos eingesehen werden unter: [www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung](http://www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung) und [https://curafutura.ch/themen/krankenversicherung/vermittler/](https://curafutura.ch/themen/krankenversicherung/vermittler/).
 
 #### Art. 35c
 
@@ -620,7 +642,7 @@ Die Dokumentation umfasst insbesondere die folgenden Punkte:
 
 <sup>7</sup> Er stellt sicher, dass die Anlagen einfach zu bewerten sind und dass die Schuldnerbonität gut und überprüfbar ist.
 
-[^43-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^43-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 44
 
@@ -699,7 +721,7 @@ Folgende Anlagen gelten nicht als riskant:
 
 **Geschäftsbericht**
 
-<sup>1</sup> Der Geschäftsbericht richtet sich nach den Bestimmungen der Stiftung für Fachempfehlungen zur Rechnungslegung «Swiss GAAP FER»[^50-1]. Er setzt sich aus dem Jahresbericht und der Jahresrechnung (Bilanz, Erfolgsrechnung, Geldflussrechnung, Eigenkapitalnachweis und Anhang) zusammen. Das BAG legt die anwendbare Fassung der Swiss GAAP FER fest.[^50-2]
+<sup>1</sup> Der Geschäftsbericht richtet sich nach den Bestimmungen der Stiftung für Fachempfehlungen zur Rechnungslegung (Swiss GAAP FER)[^50-1]. Er setzt sich aus dem Jahresbericht und der Jahresrechnung (Bilanz, Erfolgsrechnung, Geldflussrechnung, Eigenkapitalnachweis und Anhang) zusammen. Das BAG legt die anwendbare Fassung der Swiss GAAP FER fest.[^50-2]
 
 <sup>2</sup> Das BAG kann zusätzliche besondere Anforderungen festlegen. Wenn es dies tut, kann der Versicherer entscheiden, ob er die Swiss GAAP FER oder die durch die besonderen Anforderungen ergänzten Swiss GAAP FER anwendet.
 
@@ -707,10 +729,10 @@ Folgende Anlagen gelten nicht als riskant:
 
 <sup>4</sup> Der Versicherer veröffentlicht den Geschäftsbericht spätestens am 30. Juni des auf das Geschäftsjahr folgenden Jahres.
 
-[^50-1]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](https://www.verlagskv.ch)).
-[^50-2]: Fassung gemäss Ziff. I der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^50-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^50-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^50-1]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Reitergasse 9, Postfach, 8021 Zürich ([www.verlagskv.ch](http://www.verlagskv.ch/)).
+[^50-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^50-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^50-4]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 51
 
@@ -718,11 +740,12 @@ Folgende Anlagen gelten nicht als riskant:
 
 <sup>1</sup> Das BAG legt besondere Anforderungen an den aufsichtsrechtlichen Jahresabschluss fest.
 
-<sup>2</sup> Der aufsichtsrechtliche Jahresabschluss richtet sich nach den nach Absatz 1 durch besondere Anforderungen ergänzten Swiss GAAP FER[^51-1].
+<sup>2</sup> Der aufsichtsrechtliche Jahresabschluss richtet sich nach den nach Absatz 1 durch besondere Anforderungen ergänzten Swiss GAAP FER[^51-1].[^51-2]
 
 <sup>3</sup> Der Versicherer stellt den aufsichtsrechtlichen Jahresabschluss der Aufsichtsbehörde bis zum 31. März des auf das Geschäftsjahr folgenden Jahres zu.
 
-[^51-1]: Die Empfehlungen können gegen Bezahlung bezogen werden bei: Verlag SKV, Hans‑Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](https://www.verlagskv.ch)).
+[^51-1]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Reitergasse 9, Postfach, 8021 Zürich ([www.verlagskv.ch](http://www.verlagskv.ch/)).
+[^51-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 52
 
@@ -736,7 +759,7 @@ Folgende Anlagen gelten nicht als riskant:
 
 <sup>4</sup> Bezeichnet der Versicherer eine neue externe Revisionsstelle, so muss er die Aufsichtsbehörde darüber informieren.
 
-[^52-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 53
 
@@ -758,14 +781,15 @@ Folgende Anlagen gelten nicht als riskant:
 
 Die externe Revisionsstelle erstellt jährlich:
 
-- a. einen Bericht über den Jahresabschluss nach den Bestimmungen von Swiss GAAP FER[^54-1];
-- b. einen umfassenden Bericht zuhanden des Verwaltungsorgans nach den Bestimmungen des OR[^54-2] und den Weisungen der Aufsichtsbehörde;
+- a.[^54-1] einen Bericht über den Jahresabschluss nach den Bestimmungen von Swiss GAAP FER[^54-2];
+- b. einen umfassenden Bericht zuhanden des Verwaltungsorgans nach den Bestimmungen des OR[^54-3] und den Weisungen der Aufsichtsbehörde;
 - c. einen Bericht über den aufsichtsrechtlichen Jahresabschluss nach den Weisungen der Aufsichtsbehörde.
 
 <sup>2</sup> Sie stellt ihre Berichte der Aufsichtsbehörde und der internen Revisionsstelle zu.
 
-[^54-1]: Die Empfehlungen können gegen Bezahlung bezogen werden bei: Verlag SKV, Hans‑Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](https://www.verlagskv.ch)).
-[^54-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^54-1]: Fassung gemäss Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^54-2]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Reitergasse 9, Postfach, 8021 Zürich ([www.verlagskv.ch](http://www.verlagskv.ch/)).
+[^54-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 5. Kapitel: Rückversicherung
 
@@ -823,7 +847,7 @@ Die Bewilligung zur Durchführung der Rückversicherung wird auf den Beginn eine
 
 **Gleichbehandlung der Versicherten und Schutz vorMissbrauch**
 
-<sup>1</sup> Der Versicherer hat alle Versicherten gleich zu behandeln, ohne Unterscheidung des Gesundheitszustandes oder eines Indikators dafür, insbesondere in Bezug auf die Aufnahme in die Versicherung, die Wahl der Versicherungsform, die Mitteilungen an die Versicherten sowie die Frist, innerhalb deren die Leistungen vergütet werden.
+<sup>1</sup> Der Versicherer hat alle Versicherten gleich zu behandeln, ohne Unterscheidung des Gesundheitszustandes oder eines Indikators dafür, insbesondere in Bezug auf die Aufnahme in die Versicherung, die Wahl der Versicherungsform, die Mitteilungen an die Versicherten mit Ausnahme der gezielten Informationen nach Artikel 56*a* KVG[^61-1], sowie die Frist, innerhalb deren die Leistungen vergütet werden.[^61-2]
 
 <sup>2</sup>
 
@@ -832,6 +856,9 @@ Als Missbrauch im Sinne von Artikel 34 Absatz 1 Buchstabe e KVAG gelten:
 - a. die wiederholte Benachteiligung einer versicherten Person;
 - b. die Benachteiligung einer versicherten Person durch eine juristisch oder versicherungstechnisch nicht begründbare, erhebliche Ungleichbehandlung;
 - c. die systematische Benachteiligung einer Gruppe von Versicherten.
+
+[^61-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^61-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 62
 
@@ -907,9 +934,9 @@ Die Versicherer müssen der Aufsichtsbehörde zur Erfüllung der Aufgaben nach A
 <sup>8</sup> Die Datenverwendung im Sinne von Artikel 35 Absatz 2 KVAG umfasst jede Form von Datenbearbeitung im Sinne des Datenschutzrechts des Bundes, einschliesslich der Datenbekanntgabe.
 
 [^62a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^62a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^62a-3]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^62a-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^62a-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^62a-3]: [SR 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
+[^62a-4]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^62a-5]: Die Berichtigung vom 15. Juli 2025 betrifft nur den italienischen Text ([AS 2025 466](https://fedlex.data.admin.ch/eli/oc/2025/466)).
 
 #### Art. 63
@@ -1029,7 +1056,7 @@ Vor dem Zeitpunkt nach Absatz 4 müssen Versicherer, deren Reserven die Mindesth
 
 <sup>8</sup> Er meldet der Aufsichtsbehörde Anlagen nach Artikel 46 Absatz 1 Buchstabe b, die bei Inkrafttreten dieser Verordnung bestehen, innerhalb von zwei Jahren nach Inkrafttreten dieser Verordnung.
 
-[^73-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^73-1]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^73-2]: [AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
 #### Art. 73a
@@ -1039,7 +1066,7 @@ Vor dem Zeitpunkt nach Absatz 4 müssen Versicherer, deren Reserven die Mindesth
 Für Beitrittsformulare, die bis zum 31. Dezember 2024 beim Versicherer eintreffen, darf die Tätigkeit der Versicherungsvermittlerinnen und -vermittler, die über einen Einzelarbeitsvertrag nach Artikel 319 OR[^73a-2] an den Versicherer gebunden sind, bis zum 31. Januar 2025 nach bisherigem Recht entschädigt werden.
 
 [^73a-1]: Eingefügt durch Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^73a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^73a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 74
 
@@ -1056,7 +1083,7 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Eingefügt durch Ziff. II der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie kann unter: [www.bag.admin.ch](https://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
+[^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) in der AS nicht veröffentlicht. Sie kann unter: [www.bag.admin.ch](https://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
 
 Anhang 2[^t-2]
 

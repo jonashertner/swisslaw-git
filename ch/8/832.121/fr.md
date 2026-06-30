@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladi
 short: OSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: fr
-version: 2025-07-15
+version: 2026-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20250715/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20250715-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20250715/fr"
 
 (Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
 
-du 18 novembre 2015 (État le 15 juillet 2025)
+du 18 novembre 2015 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 2, al. 2, 14, al. 2, 17, al. 4, 19*b*, al. 2 et 3, 20, al. 2 et 4, 2
 
 arrête:
 
-[^ingress-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^ingress-1]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
 [^ingress-2]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 ## Chapitre 1 Définitions
@@ -39,7 +39,7 @@ Sont considérés comme autres branches d’assurance au sens de l’art. 2, al.
 - a. une indemnité de décès pour cause de maladie ou d’accident de 6000 francs au plus;
 - b. le maintien de l’assurance obligatoire des soins au sens de l’art. 7*a* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^1-1].
 
-[^1-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^1-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 2
 
@@ -60,7 +60,15 @@ Deux entreprises ou plus forment un groupe d’assurance si les conditions suiva
 
 <sup>2</sup> Les entreprises d’assurance privées doivent joindre à leur demande la preuve qu’elles disposent d’un agrément pour exercer leur activité d’assurance conformément à la loi du 17 décembre 2004 sur la surveillance des assurances[^3-1].
 
-[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+
+#### Art. 3a
+
+**Délégation de tâches importantes**[^3a-1]
+
+Par déléguer des tâches importantes conformément à l’art. 7, al. 2, let. l, LSAMal, on entend notamment le contrôle des prestations, le recouvrement, la gestion comptable et la gestion des polices.
+
+[^3a-1]: Introduit par le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 4
 
@@ -92,11 +100,13 @@ Si un assureur ne compte aucun assuré pendant deux ans, l’activité d’assur
 
 #### Art. 7
 
-**Délais en cas de modification du plan d’exploitation**
+**Délais en cas de modification du plan d’exploitation**[^7-1]
 
-<sup>1</sup> Les demandes de modification du champ territorial d’activité, les nouvelles dispositions sur les formes particulières d’assurance dans l’assurance obligatoire des soins et sur l’assurance facultative d’indemnités journalières ainsi que les conditions générales d’assurance doivent être remises à l’autorité de surveillance cinq mois avant le début de leur validité. L’autorité de surveillance peut raccourcir ce délai.
+<sup>1</sup> Les demandes de modification des éléments du plan d’exploitation visés à l’art. 7, al. 2, let. k et n, LSAMal doivent être remises à l’autorité de surveillance le 30 juin au plus tard. Les modifications prennent effet au début de l’année civile suivante. À titre exceptionnel, l’autorité de surveillance peut autoriser un début de validité différent. La demande doit être déposée cinq mois avant le début de validité souhaité.
 
-<sup>2</sup> Les contrats ou autres ententes visant à déléguer des tâches importantes telles que le contrôle des prestations, le recouvrement, la gestion comptable et la gestion des polices doivent être remis à l’autorité de surveillance deux mois avant le début de leur validité.
+<sup>2</sup> Les demandes de modification des éléments du plan d’exploitation visés à l’art. 7, al. 2, let. l, LSAMal doivent être remises à l’autorité de surveillance deux mois avant le début de validité souhaité.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 8
 
@@ -137,7 +147,7 @@ L’assureur qui demande l’autorisation de pratiquer l’assurance-maladie soc
 
 <sup>5</sup> Le Département fédéral de l’intérieur (DFI) peut définir comment les actifs et les engagements sont évalués.
 
-[^10-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^10-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 11
 
@@ -229,7 +239,7 @@ L’assureur communique à l’autorité de surveillance au plus tard le 31 mars
 
 <sup>5</sup> Les assureurs qui proposent l’assurance-maladie sociale et des assurances au sens de la LCA[^18-1] doivent distinguer la fortune liée de l’assurance-maladie sociale comme telle.
 
-[^18-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^18-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 19
 
@@ -289,7 +299,7 @@ Les placements de la fortune liée sont réputés non conformes s’ils dépasse
 
 <sup>3</sup> Le DFI peut édicter des directives sur le calcul des limites.
 
-[^20-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^20-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 21
 
@@ -392,7 +402,7 @@ Le produit de la fortune liée sert en premier lieu à couvrir les créances dé
 
 <sup>4</sup> Elle approuve les tarifs de primes pour une année civile. Si, sur la base des documents qui lui ont été remis, elle doute de la conformité des primes avec les exigences de l’art. 16 LSAMal, elle peut approuver un tarif de primes pour une durée inférieure. L’assureur communique cette durée aux assurés en même temps que la nouvelle prime.
 
-[^27-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 28
 
@@ -431,7 +441,7 @@ Les coûts cumulés d’un assureur correspondent à l’ensemble de ses coûts 
 L’assureur peut compenser les primes encaissées en trop dans un canton dès lors que l’effectif de ses assurés dans ce canton est supérieur à l’effectif très peu important au sens de l’art. 91, al. 1, OAMal[^30b-2].
 
 [^30b-1]: Introduit par le ch. I de l’O du 14 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^30b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^30b-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 31
 
@@ -439,25 +449,37 @@ L’assureur peut compenser les primes encaissées en trop dans un canton dès l
 
 L’assureur se trouve dans une situation économique qui permet une compensation des primes encaissées en trop si, après l’avoir effectuée, il dispose de réserves supérieures à 150 % du niveau minimal visé à l’art. 11, al. 1.
 
+#### Art. 31a
+
+**Répartition de la compensation des primes entre les assurés**[^31a-1]
+
+La compensation des primes est répartie entre les assurés selon une clé de répartition équitable fixée par l’assureur (ristourne).
+
+[^31a-1]: Introduit par le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+
 #### Art. 32
 
 **Procédure**
 
 <sup>1</sup> L’autorité de surveillance fixe dans une directive les documents et les informations que l’assureur doit joindre à la demande d’approbation au sens de l’art. 17 LSAMal.
 
-<sup>2</sup> Elle communique sa décision aux cantons concernés.
+<sup>2</sup> Elle communique aux cantons concernés la décision relative à la demande d’approbation de l’assureur. En cas d’approbation, elle communique en particulier le montant de la compensation des primes et le montant de la ristourne par assuré.[^32-1]
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 33
 
-**Modalités du remboursement**
+**Modalités du remboursement**[^33-1]
 
-<sup>1</sup> Le montant de la compensation approuvé par l’autorité de surveillance doit être réparti entre les assurés selon une clé de répartition équitable fixée par l’assureur.
+<sup>1</sup> Si le remboursement est accordé aux assurés (art. 18, al. 1, LSAMal), l’assureur leur communique le montant de la ristourne visée à l’art. 31*a*.
 
-<sup>2</sup> L’assureur communique aux assurés le montant de la ristourne au sens de l’art. 18 LSAMal.
+<sup>2</sup> Il porte le montant de la ristourne en déduction des primes dues et le fait figurer séparément sur la facture. Il peut également le verser séparément aux assurés.
 
-<sup>3</sup> Il porte le montant de la ristourne en déduction des primes dues et le fait figurer séparément sur la facture. Il peut également le verser séparément aux assurés.
+<sup>3</sup> Il peut compenser le montant de la ristourne avec des primes ou des participations aux coûts qui lui sont dues.
 
-<sup>4</sup> Il peut le compenser avec des primes ou des participations aux coûts qui lui sont dues.
+<sup>4</sup> Si le remboursement est accordé au canton (art. 18, al. 2, LSAMal), l’assureur communique au canton le montant total auquel il a droit en vertu de l’art. 18, al. 2, LSAMal.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 ### Section 7 Frais d’administration
 
@@ -620,7 +642,7 @@ Cette documentation couvre notamment les points suivants:
 
 <sup>7</sup> Il veille à ce que les placements soient simples à évaluer et que la solvabilité des débiteurs soit bonne et contrôlable.
 
-[^43-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^43-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 44
 
@@ -699,7 +721,7 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 **Rapport de gestion**
 
-<sup>1</sup> Le rapport de gestion doit être établi conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes[^50-1] (dispositions RPC). Il se compose du rapport annuel et des comptes annuels (bilan, compte de résultats, tableau des flux de trésorerie, état du capital propre et annexe). L’OFSP définit la version applicable des dispositions RPC.[^50-2]
+<sup>1</sup> Le rapport de gestion doit être établi conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes (dispositions RPC)[^50-1]. Il se compose du rapport annuel et des comptes annuels (bilan, compte de résultats, tableau des flux de trésorerie, état du capital propre et annexe). L’OFSP définit la version applicable des dispositions RPC.[^50-2]
 
 <sup>2</sup> L’OFSP peut fixer des exigences particulières supplémentaires. S’il en fixe, l’assureur décide s’il applique les dispositions RPC ou les dispositions RPC complétées par les exigences particulières.
 
@@ -707,10 +729,10 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 <sup>4</sup> L’assureur doit publier le rapport de gestion au plus tard le 30 juin de l’année suivant la fin de l’exercice.
 
-[^50-1]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Hans-Huber-Strasse 4, 8002 Zurich; [www.verlagskv.ch](http://www.verlagskv.ch).
-[^50-2]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)):
-[^50-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^50-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^50-1]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Reitergasse 9, Case postale, 8021 Zurich; [www.verlagskv.ch](https://verlagskv.ch/).
+[^50-2]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^50-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^50-4]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 51
 
@@ -718,11 +740,12 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 <sup>1</sup> L’OFSP fixe des exigences particulières pour les comptes annuels relevant du droit de la surveillance.
 
-<sup>2</sup> Les comptes annuels relevant du droit de la surveillance sont établis conformément aux dispositions RPC[^51-1] complétées par les exigences particulières visées à l’al. 1.
+<sup>2</sup> Les comptes annuels relevant du droit de la surveillance sont établis conformément aux dispositions RPC[^51-1] complétées par les exigences particulières visées à l’al. 1.[^51-2]
 
 <sup>3</sup> L’assureur doit remettre les comptes annuels relevant du droit de la surveillance à l’autorité de surveillance au plus tard le 31 mars de l’année suivant la fin de l’exercice.
 
-[^51-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich ([www.verlagskv.ch](http://www.verlagskv.ch)).
+[^51-1]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Reitergasse 9, Case postale, 8021 Zurich; www.verlagskv.ch .
+[^51-2]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 52
 
@@ -736,7 +759,7 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 <sup>4</sup> Lorsqu’un assureur désigne un nouvel organe de révision externe, il en informe l’autorité de surveillance.
 
-[^52-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^52-2]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 53
@@ -759,15 +782,16 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 L’organe de révision externe établit chaque année les rapports suivants:
 
-- a. un rapport sur les comptes annuels conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes[^54-1];
-- b.[^54-2] un rapport détaillé adressé à l’organe d’administration, établi conformément aux dispositions du CO[^54-3] et aux exigences de l’autorité de surveillance;
+- a.[^54-1] un rapport sur les comptes annuels conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes[^54-2];
+- b.[^54-3] un rapport détaillé adressé à l’organe d’administration, établi conformément aux dispositions du CO[^54-4] et aux exigences de l’autorité de surveillance;
 - c. un rapport sur les comptes annuels relevant du droit de la surveillance, établi conformément aux instructions de l’autorité de surveillance.
 
 <sup>2</sup> Il remet ses rapports à l’autorité de surveillance et à l’organe de révision interne.
 
-[^54-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich ([www.verlagskv.ch](http://www.verlagskv.ch)).
-[^54-2]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^54-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^54-1]: Nouvelle teneur le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^54-2]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Reitergasse 9, Case postale, 8021 Zurich; www.verlagskv.ch .
+[^54-3]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^54-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 5 Réassurance
 
@@ -825,7 +849,7 @@ L’autorisation de pratiquer la réassurance prend effet au début d’une ann�
 
 **Égalité de traitement des assurés et protection contre les abus**
 
-<sup>1</sup> L’assureur traite tous les assurés de manière égale, sans distinction de l’état de santé ou d’une indication à ce sujet, notamment pour l’admission dans l’assurance, le choix de la forme d’assurance, les communications aux assurés et le délai de remboursement des prestations.
+<sup>1</sup> L’assureur traite tous les assurés de manière égale, sans distinction de l’état de santé ou d’une indication à ce sujet, notamment pour l’admission dans l’assurance, le choix de la forme d’assurance, les communications aux assurés à l’exception des informations ciblées visées à l’art. 56*a* LAMal[^61-1], et le délai de remboursement des prestations.[^61-2]
 
 <sup>2</sup>
 
@@ -834,6 +858,9 @@ Constituent des abus au sens de l’art. 34, al. 1, let. e, LSAMal:
 - a. le préjudice répété porté à un assuré;
 - b. le préjudice porté à un assuré par une inégalité de traitement importante et juridiquement ou actuariellement injustifiable;
 - c. le préjudice systématique porté à un groupe d’assurés.
+
+[^61-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^61-2]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
 
 #### Art. 62
 
@@ -909,9 +936,9 @@ Les assureurs transmettent régulièrement à l’autorité de surveillance, en 
 <sup>8</sup> L’exploitation des données au sens de l’art. 35, al. 2, LSAMal comprend toute forme de traitement au sens du droit fédéral de la protection des données, y compris la communication de données.
 
 [^62a-1]: Introduit par l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^62a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^62a-3]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^62a-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^62a-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^62a-3]: [RS 832.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10154)
+[^62a-4]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^62a-5]: Erratum du 15 juil. 2025, ne concerne que le texte italien ([RO 2025 466](https://fedlex.data.admin.ch/eli/oc/2025/466)).
 
 #### Art. 63
@@ -1031,7 +1058,7 @@ Avant la date visée à l’al. 4, les assureurs dont les réserves n’atteigne
 
 <sup>8</sup> Il communique à l’autorité de surveillance les placements visés à l’art. 46, al. 1, let. b, qui existent à l’entrée en vigueur de la présente ordonnance dans les deux ans qui suivent l’entrée en vigueur de la présente ordonnance.
 
-[^73-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^73-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^73-2]: [RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
 #### Art. 73a
@@ -1041,7 +1068,7 @@ Avant la date visée à l’al. 4, les assureurs dont les réserves n’atteigne
 Pour les formulaires d’affiliation reçus par l’assureur jusqu’au 31 décembre 2024, l’activité des intermédiaires d’assurance liés à l’assureur par un contrat individuel de travail au sens de l’art. 319 CO[^73a-2] peut être rémunérée conformément à l’ancien droit jusqu’au 31 janvier 2025.
 
 [^73a-1]: Introduit par le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
-[^73a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^73a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 74
 
@@ -1058,7 +1085,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Introduite par le ch. II de l’O du 14 avr.2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^annex1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la formule du calcul de l’écart-type n’est pas publiée dans le RO. Elle peut être consultée à l’adresse suivante: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie.
+[^annex1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), la formule du calcul de l’écart-type n’est pas publiée dans le RO. Elle peut être consultée à l’adresse suivante: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie.
 
 Annexe 2[^t-2]
 
