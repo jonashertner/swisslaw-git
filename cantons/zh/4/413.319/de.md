@@ -4,11 +4,10 @@ number: "413.319"
 title: "Verordnung über die Berufs-, Studien- und Laufbahnberatung (V BSLB)"
 short: V BSLB
 language: de
-version: "2025-01-01"
-nachtrag: "127"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2013-11-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_319-2013_11_27-2014_03_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_319-2013_11_27-2014_03_01-133.html"
 text: pdf
 ---
 
@@ -64,7 +63,7 @@ Die Leistungen der Berufs-, Studien- und Laufbahnberatung umfassen:
 
 **1**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 26 - 133
 
 - f. Unterstützung und Begleitung Erwachsener bei der Zusammenstellung ihrer informell erworbenen Bildungsleistungen sowie Mitwirkung in Validierungsverfahren,
 
@@ -114,19 +113,18 @@ Zu den Kosten der kantonalen Stellen der Berufs-, Studien- und Laufbahnberatung 
 
 <sup>2</sup> Die Gemeinde leistet Akontozahlungen im Umfang von je 50% des Beitrags gemäss Abs. 1 bis 31. Januar und bis 31. Juli.
 
-<sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindebeiträge ist der Einwohnerbestand massgebend, den das Statistische Amt per 31. Dezember des Vorjahres erhoben hat.
-
-[^6-1]: Fassung gemäss RRB vom 14. März 2018 (OS 73, 170; ABl 2018-03-23). In Kraft seit 1. Juni 2018.
-
-#### § 7
+<sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindebeiträge ist der Einwohnerbestand massgebend, den das Amt für Statistik und Daten per 31. Dezember des Vorjahres erhoben hat.[^6-1]
 
 **Kostenanteil**
 
-<sup>1</sup> Das Amt entscheidet im Rahmen der Ausgabenkompetenzen des Regierungsrates endgültig über den Kostenanteil an die Stadt Zürich gemäss § 34 b EG BBG. Für die Berechnung der Kosten gilt § 5 sinngemäss.[^6-1]
+§ 7. <sup>1</sup> Das Amt entscheidet im Rahmen der Ausgabenkompetenzen des Regierungsrates endgültig über den Kostenanteil an die Stadt Zürich gemäss § 34 b EG BBG. Für die Berechnung der Kosten gilt § 5 sinngemäss.[^6-2]
 
 <sup>2</sup> Das Amt teilt der Stadt Zürich den voraussichtlichen Kostenanteil für das Folgejahr bis 30. Juni mit.
 
 <sup>3</sup> Es leistet für das laufende Jahr eine Akontozahlung in der Höhe des im Vorjahr mitgeteilten Kostenanteils bis 30. Juni und erstellt die Abrechnung bis zum 30. Juni des Folgejahres.
+
+[^6-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 306; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 5
+[^6-2]: Fassung gemäss RRB vom 14. März 2018 (OS 73, 170; ABl 2018-03-23). In Kraft seit 1. Juni 2018.
 
 #### § 8
 
@@ -166,7 +164,7 @@ Zu den Kosten der kantonalen Stellen der Berufs-, Studien- und Laufbahnberatung 
 
 **3**
 
-- 1\. 1. 25 - 127 d.[^10-1] Personen, bei denen die Stipendienstelle des Kantons oder eines öffentlichen Organs zur Prüfung ihres Gesuchs um Ausbildungsbeiträge die Abklärung verlangt, e.[^10-2] Personen über 40 Jahre, die eine Standortbestimmung, Potenzialabklärung und Laufbahnberatung gemäss der vom Bundesrat beschlossenen Massnahme «viamia» in Anspruch nehmen,
+- 1\. 7. 26 - 133 d.[^10-1] Personen, bei denen die Stipendienstelle des Kantons oder eines öffentlichen Organs zur Prüfung ihres Gesuchs um Ausbildungsbeiträge die Abklärung verlangt, e.[^10-2] Personen über 40 Jahre, die eine Standortbestimmung, Potenzialabklärung und Laufbahnberatung gemäss der vom Bundesrat beschlossenen Massnahme «viamia» in Anspruch nehmen,
 
 <sup>2</sup> Abweichend von Abs. 1 werden Gebühren erhoben von:
 
@@ -177,7 +175,7 @@ Zu den Kosten der kantonalen Stellen der Berufs-, Studien- und Laufbahnberatung 
 <sup>3</sup> Beruft sich eine Person auf Abs. 1 lit. b–d, weist sie nach, dass die Voraussetzungen für eine Gebührenbefreiung erfüllt sind.
 
 [^10-1]: Fassung gemäss RRB vom 17. Juni 2020 (OS 75, 440; ABl 2020-07-03). In Kraft seit 1. Januar 2021.
-[^10-2]: Fassung gemäss RRB vom 10. April 2024 (OS 79, 226; ABl 2024-04-26). In Kraft seit 1. Januar 2025. Diese Änderung gilt bis zum 31. Dezember 2028. 1. 1. 25 - 127 5
+[^10-2]: Fassung gemäss RRB vom 10. April 2024 (OS 79, 226; ABl 2024-04-26). In Kraft seit 1. Januar 2025. Diese Änderung gilt bis zum 31. Dezember 2028.
 
 #### § 11
 
