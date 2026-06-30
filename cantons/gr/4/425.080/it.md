@@ -4,13 +4,12 @@ number: "425.080"
 title: Ordinanza concernente il pagamento di contributi e gli emolumenti nel settore delle scuole medie superiori del Cantone dei Grigioni
 short: OCESMS
 language: it
-version: 2024-08-01
-corrected: 2024-09-03
-version_adopted: 2024-09-03
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2019-07-02
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.080"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3429/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3642/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3429/pdf_file"
 
 (OCESMS)
 
-del 02.07.2019 (stato 01.08.2024)
+del 02.07.2019 (stato 01.07.2026)
 
 emanata dal Governo il 2 luglio 2019
 
@@ -79,13 +78,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 7
 
-**Garanzia della qualità**
+**Sviluppo della qualità e garanzia della qualità**
 
-<sup>1</sup> Le scuole medie superiori sono tenute a conseguire un certificato di qualità esterno stabilito dal Governo.
+<sup>1</sup> Le scuole medie superiori gestiscono un sistema di sviluppo della qualità e garanzia della qualità secondo le direttive del Governo e lo fanno valutare a cadenza regolare da un servizio specializzato esterno definito dal Governo.
 
-<sup>2</sup> Il Governo può concedere un contributo per i costi di certificazione delle scuole medie superiori.
+<sup>2</sup> Il Cantone può farsi carico dei costi per le valutazioni esterne.
 
-<sup>3</sup> Le scuole medie superiori permettono all'Ufficio di prendere visione dei rapporti dell'organo di valutazione e di quello di certificazione.
+<sup>3</sup> L'Ufficio emana direttive relative allo svolgimento delle valutazioni esterne.
 
 #### Art. 8
 
@@ -118,6 +117,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Agli allievi aventi diritto a contributi in congedo viene condonato il 50 per cento della tassa scolastica per ciascun semestre di congedo.
 
 <sup>2</sup> La direzione della scuola può condonare la tassa scolastica agli allievi che frequentano una scuola media superiore nel Cantone nel quadro di un programma di scambio tra allievi.
+
+<sup>3</sup> Per gli allievi che per prepararsi alla ripetizione degli esami finali della maturità professionale ripetono in parte le lezioni dell'ultimo anno di formazione scolastica presso una scuola media di commercio o una scuola media di informatica è possibile un condono parziale della tassa scolastica conformemente alle direttive del Dipartimento.
 
 #### Art. 12
 
@@ -171,7 +172,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - b) descrizione della strategia formativa e sulle lingue;
 - c) previsione relativa al valore aggiunto.
 
-<sup>3</sup> Il rapporto all'Ufficio deve essere presentato ogni anno entro il 31 ottobre conformemente alle direttive contenute nel mandato di prestazioni conferito per il corrispondente periodo di conteggio.
+<sup>3</sup> Il rapporto all'Ufficio deve essere presentato conformemente alle direttive contenute nel mandato di prestazioni conferito per il corrispondente periodo di conteggio.
 
 #### Art. 16
 
@@ -270,7 +271,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Situazione di difficoltà finanziaria 1. Definizione**
 
-<sup>1</sup> Per una società anonima è considerata situazione di difficoltà finanziaria la fattispecie della perdita di capitale conformemente all'articolo 725 capoverso 1 della legge federale di complemento del Codice civile svizzero (Libro quinto: Diritto delle obbligazioni).
+<sup>1</sup> Per una società anonima è considerata situazione di difficoltà finanziaria la fattispecie della perdita di capitale conformemente all'articolo 725a capoverso 1 della legge federale di complemento del Codice civile svizzero (Libro quinto: Diritto delle obbligazioni).
 
 <sup>2</sup> Per una fondazione è considerata situazione di difficoltà finanziaria la fattispecie della constatazione di un'eccedenza di debiti da parte dell'ufficio di revisione conformemente all'articolo 84a capoverso 2 del Codice civile svizzero.
 

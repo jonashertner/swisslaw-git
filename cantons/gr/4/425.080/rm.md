@@ -4,13 +4,12 @@ number: "425.080"
 title: Ordinaziun davart pajaments da contribuziuns e taxas en ils fatgs da scola media dal chantun Grischun
 short: OCTSM
 language: rm
-version: 2024-08-01
-corrected: 2024-09-03
-version_adopted: 2024-09-03
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2019-07-02
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.080"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3429/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3642/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3429/pdf_file"
 
 (OCTSM)
 
-dals 02-07-2019 (versiun dals 01-08-2024)
+dals 02-07-2019 (versiun dals 01-07-2026)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -85,13 +84,13 @@ relaschada da la regenza ils 2 da fanadur 2019
 
 #### Art. 7
 
-**Garanzia da la qualitad**
+**Svilup da la qualitad e garanzia da la qualitad**
 
-<sup>1</sup> Las scolas medias èn obligadas d'acquistar in certificat da qualitad extern determinà da la regenza.
+<sup>1</sup> Las scolas medias han in sistem per il svilup da la qualitad e per la garanzia da la qualitad tenor las prescripziuns da la Regenza e laschan evaluar quel en intervals regulars tras in post spezialisà extern designà da la Regenza.
 
-<sup>2</sup> La regenza po pajar ina contribuziun als custs per la certificaziun da las scolas medias.
+<sup>2</sup> Il chantun po surpigliar ils custs per l'evaluaziun externa.
 
-<sup>3</sup> Las scolas medias concedan a l'uffizi invista dals rapports dal post d'evaluaziun e da certificaziun.
+<sup>3</sup> L'uffizi relascha prescripziuns per realisar las evaluaziuns externas.
 
 #### Art. 8
 
@@ -126,6 +125,8 @@ relaschada da la regenza ils 2 da fanadur 2019
 <sup>1</sup> A scolaras e scolars cun dretg da survegnir contribuziuns, ch'èn en congedi, vegnan relaschads 50 pertschient dals daners da scola per semester da congedi.
 
 <sup>2</sup> A scolaras ed a scolars che frequentan ina scola media dal Grischun en il rom d'in program da barat da scolaras e scolars, po la direcziun da la scola relaschar ils daners da scola.
+
+<sup>3</sup> A scolaras e scolars che repetan per part l'instrucziun da l'ultim onn da la furmaziun scolastica en ina scola media commerziala u d'informatica per sa preparar per la repetiziun dals examens finals da la maturitad professiunala, èsi pussaivel da relaschar ina part dals daners da scola tenor las directivas dal departament.
 
 #### Art. 12
 
@@ -179,7 +180,7 @@ relaschada da la regenza ils 2 da fanadur 2019
 - b) descripziun dal concept da scolaziun e dal concept linguistic;
 - c) prognosa da la valurisaziun.
 
-<sup>3</sup> Il rapport sto vegnir tramess a l'uffizi mintga onn fin ils 31 d'october tenor las prescripziuns da l'incarica da prestaziun ch'è vegnida concedida per la perioda da rendaquint correspundenta.
+<sup>3</sup> Il rapport sto vegnir tramess a l'uffizi tenor las prescripziuns da l'incarica da prestaziun ch'è vegnida concedida per la perioda da rendaquint correspundenta.
 
 [^15-1]: DG [425.100](https://www.gr-lex.gr.ch/data/425.100/rm)
 
@@ -284,7 +285,7 @@ relaschada da la regenza ils 2 da fanadur 2019
 
 **Situaziun finanziala d'urgenza 1. definiziun**
 
-<sup>1</sup> Sco situaziun finanziala d'urgenza vala per ina societad anonima il causal da la perdita da chapital tenor l'artitgel 725 alinea 1 da la lescha federala davart la cumplettaziun dal cudesch civil svizzer (tschintgavla part: dretg d'obligaziuns)[^26-1].
+<sup>1</sup> Sco situaziun finanziala d'urgenza vala per ina societad anonima il causal da la perdita da chapital tenor l'artitgel 725a alinea 1 da la Lescha federala davart la cumplettaziun dal Cudesch civil svizzer (Tschintgavla part: Dretg d'obligaziuns)[^26-1].
 
 <sup>2</sup> Sco situaziun finanziala d'urgenza vala per ina fundaziun il causal da la constataziun d'ina surdebitaziun tras il post da revisiun tenor l'artitgel 84a alinea 2 dal cudesch civil svizzer[^26-2].
 
