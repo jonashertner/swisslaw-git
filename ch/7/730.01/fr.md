@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2026)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -201,9 +201,15 @@ Ne sont pas soumis aux obligations visées aux al. 1 et 2:
 
   - 1\. importent du carburant dans le réservoir du véhicule ou dans un jerrycan de réserve,
   - 2\. importent de l’hydrogène dans des véhicules à pile à combustible en tant que carburant dans le réservoir du véhicule,
-  - 3\. disposent de garanties d’origine étrangères pour les combustibles ou carburants importés.
+  - 3\.[^4b-1] disposent de garanties d’origine étrangères ou de certificats d’origine étrangers pour les combustibles ou carburants importés.
 
-<sup>5</sup> Les importateurs de garanties d’origine étrangères pour du gaz renouvelable ou d’autres certificats étrangers pour du gaz renouvelable doivent les faire enregistrer auprès de l’organe d’exécution.
+<sup>4bis</sup> Les importateurs de combustibles ou de carburants qui disposent de garanties d’origine étrangères ou de certificats d’origine étrangers doivent les faire enregistrer auprès de l’organe d’exécution.[^4b-2]
+
+<sup>5</sup> Les importateurs de garanties d’origine étrangères pour du gaz renouvelable, de certificats d’origine étrangers pour du gaz renouvelable ou d’autres certificats étrangers pour du gaz renouvelable doivent les faire enregistrer auprès de l’organe d’exécution.[^4b-3]
+
+[^4b-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4b-2]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4b-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 4c
 
@@ -214,7 +220,8 @@ Ne sont pas soumis aux obligations visées aux al. 1 et 2:
 Doit annuler une garantie d’origine ou la faire annuler par un tiers mandaté quiconque:
 
 - a. remet la plus-value écologique du combustible ou carburant concerné au consommateur final ou à une station-service;
-- b. remet la quantité du combustible gazeux ou du carburant gazeux concerné au consommateur final ou à une station-service et ne l’injecte pas dans le réseau suisse de gaz, ou
+- a<sup>bis</sup>.[^4c-1] remet l’hydrogène concerné au consommateur final ou à une station-service;
+- b.[^4c-2] remet la quantité du biogaz ou du méthane concerné produit à partir d’autres agents énergétiques renouvelables au consommateur final ou à une station-service et ne l’injecte pas dans le réseau suisse de gaz, ou
 - c.
 
   recourt à la quantité du combustible ou du carburant concerné pour:
@@ -227,15 +234,24 @@ Doit annuler une garantie d’origine ou la faire annuler par un tiers mandaté 
 
 Doit en outre annuler une garantie d’origine ou la faire annuler par un tiers mandaté quiconque l’emploie en tant que preuve de l’utilisation du combustible ou du carburant:
 
-- a. dans le cadre des facteurs de réduction des émissions de CO<sub>2</sub> du parc de véhicules neufs par la consommation de carburants synthétiques renouvelables en vertu de l’art. 11*a* de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^4c-1];
+- a. dans le cadre des facteurs de réduction des émissions de CO<sub>2</sub> du parc de véhicules neufs par la consommation de carburants synthétiques renouvelables en vertu de l’art. 11*a* de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^4c-3];
 - b. dans le cadre de l’obligation de compensation visée à l’art. 28*b* de la loi sur le CO<sub>2</sub>, ou
 - c. dans le cadre de l’obligation de mettre à disposition et de mélanger des carburants à faibles taux d’émission, renouvelables et synthétiques renouvelables visée à l’art. 28*f* de la loi sur le CO<sub>2</sub>.
 
-<sup>3</sup> L’annulation doit toujours être effectuée avant la fin d’un trimestre.
+<sup>3</sup>
 
-<sup>4</sup> Quiconque utilise, pour le marché volontaire de la chaleur, une garantie d’origine établie sur la base de certificats étrangers pour du gaz renouvelable doit l’annuler dans un délai d’une année.
+L’annulation doit toujours être effectuée:
 
-[^4c-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+- a. pour les garanties d’origine employées au cours du trimestre écoulé en tant que preuve pour la livraison de gaz renouvelable suisse à des stations-service: avant le 25<sup>e</sup> jour du mois qui suit le trimestre concerné;
+- b. pour les garanties d’origine employées à d’autres fins au cours de l’année écoulée pour des combustibles ou des carburants: avant la fin du mois de février de l’année suivante.[^4c-4]
+
+<sup>4</sup> …[^4c-5]
+
+[^4c-1]: Introduite par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-3]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^4c-4]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-5]: Abrogé par le ch. I de l’O du 27 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 ### Section 3 Exigences techniques, procédure et obligation d’annoncer
 
@@ -967,11 +983,18 @@ Après réception de la demande, l’autorité cantonale communique immédiateme
 
 #### Art. 31
 
-**Plan de versements**
+**Ordre de priorité**[^31-1]
 
-<sup>1</sup> Lorsque les demandes déposées dépassent les ressources disponibles, l’OFEV établit un plan de versements.
+<sup>1</sup> Lorsque les demandes déposées dépassent les ressources disponibles, l’OFEV établit un ordre de priorité.
 
-<sup>2</sup> L’ordre des versements est déterminé par la date du dépôt de la demande complète auprès de l’autorité cantonale.
+<sup>2</sup>
+
+L’ordre des versements est déterminé par la date du dépôt de la demande auprès de l’autorité cantonale. Sont traitées en priorité les demandes:
+
+- a. qui concernent une indemnisation de coûts de planification déjà engagés, ou
+- b. qui concernent des frais supplémentaires liés à des mesures déjà garanties.
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 32
 

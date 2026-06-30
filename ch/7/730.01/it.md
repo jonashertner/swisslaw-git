@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2026)
+del 1° novembre 2017 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -201,9 +201,15 @@ Sono esentati dagli obblighi di cui ai capoversi 1 e 2:
 
   - 1\. importano carburanti come mezzi d’esercizio nel serbatoio del veicolo o in un bidone di scorta,
   - 2\. importano idrogeno all’interno di veicoli alimentati a celle a combustibile come mezzi d’esercizio nel serbatoio del veicolo,
-  - 3\. dispongono di una garanzia di origine estera per i combustibili e i carburanti importati.
+  - 3\.[^4b-1] dispongono di una garanzia di origine estera o di un certificato di origine estero per i combustibili e i carburanti importati.
 
-<sup>5</sup> Gli importatori di garanzie di origine estere per gas rinnovabili e di altri certificati esteri per gas rinnovabili devono registrarli presso l’organo d’esecuzione.
+<sup>4bis</sup> Gli importatori di combustibili o carburanti che dispongono di garanzie di origine estere o di certificati di origine esteri devono farli registrare presso l’organo d’esecuzione.[^4b-2]
+
+<sup>5</sup> Gli importatori di garanzie di origine estere o di certificati di origine esteri per gas rinnovabili o di altri certificati esteri per gas rinnovabili devono farli registrare presso l’organo d’esecuzione.[^4b-3]
+
+[^4b-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4b-2]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4b-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 4c
 
@@ -214,7 +220,8 @@ Sono esentati dagli obblighi di cui ai capoversi 1 e 2:
 Deve annullare una garanzia di origine o farla annullare da un terzo incaricato chi:
 
 - a. cede il plusvalore ecologico di un combustibile o carburante cui la garanzia di origine fa riferimento a consumatori finali o a una stazione di servizio;
-- b. cede la quantità di combustibile o carburante gassoso cui la garanzia di origine fa riferimento a consumatori finali o a una stazione di servizio e non la immette nella rete del gas svizzera; o
+- a<sup>bis</sup>.[^4c-1] cede l’idrogeno cui la garanzia di origine fa riferimento a consumatori finali o a una stazione di servizio;
+- b.[^4c-2] cede la quantità di biogas o di metano da altri vettori energetici rinnovabili cui la garanzia di origine fa riferimento a consumatori finali o a una stazione di servizio e non la immette nella rete del gas svizzera; o
 - c.
 
   riguardo alla quantità di combustibile o carburante cui la garanzia di origine fa riferimento:
@@ -227,15 +234,24 @@ Deve annullare una garanzia di origine o farla annullare da un terzo incaricato 
 
 Deve inoltre annullare una garanzia di origine o farla annullare da un terzo incaricato chi la utilizza come prova per l’utilizzo di combustibili o carburanti:
 
-- a. nel quadro dei fattori di riduzione del CO<sub>2</sub> per i parchi veicoli nuovi mediante l’utilizzo di carburanti sintetici rinnovabili secondo l’articolo 11*a* della legge del 23 dicembre 2011[^4c-1] sul CO<sub>2</sub>;
+- a. nel quadro dei fattori di riduzione del CO<sub>2</sub> per i parchi veicoli nuovi mediante l’utilizzo di carburanti sintetici rinnovabili secondo l’articolo 11*a* della legge del 23 dicembre 2011[^4c-3] sul CO<sub>2</sub>;
 - b. nel quadro dell’obbligo di compensazione secondo l’articolo 28*b* della legge sul CO<sub>2</sub>; o
 - c. nel quadro dell’obbligo di fornitura e di miscelazione di carburanti a basso tenore di emissioni, rinnovabili e sintetici rinnovabili secondo l’articolo 28*f* della legge sul CO<sub>2</sub>.
 
-<sup>3</sup> L’annullamento deve essere effettuato entro la fine di ogni trimestre.
+<sup>3</sup>
 
-<sup>4</sup> Chi utilizza una garanzia di origine rilasciata sulla base di certificati esteri per gas rinnovabili nel mercato del calore volontario deve annullarla entro un anno.
+L’annullamento deve essere effettuato:
 
-[^4c-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+- a. per le garanzie di origine che nel trimestre precedente sono state utilizzate come prova della fornitura di gas rinnovabile svizzero alle stazioni di servizio, fino al 25° giorno del mese successivo al trimestre in questione;
+- b. per le garanzie di origine che nell’anno precedente sono state utilizzate per una finalità diversa dalla prova della fornitura di gas rinnovabile svizzero alle stazioni di servizio, entro la fine di febbraio dell’anno successivo.[^4c-4]
+
+<sup>4</sup> *...*[^4c-5]
+
+[^4c-1]: Introdotta dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-3]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^4c-4]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-5]: Abrogato dalla cifra I dell’O del 27 mag. 2026, con effetto dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 ### Sezione 3: Requisiti tecnici, procedura e obbligo di notifica
 
@@ -516,7 +532,7 @@ La notifica deve essere accompagnata dalle seguenti informazioni:
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Introdotta dalla cifra I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)) .
+[^chap3-sec5-1]: Introdotta dalla cifra I dell’O del 15 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 820](https://fedlex.data.admin.ch/eli/oc/2023/820)).
 
 #### Art. 9i
 
@@ -972,11 +988,18 @@ Dopo il ricevimento della domanda, l’autorità cantonale comunica immediatamen
 
 #### Art. 31
 
-**Piano di pagamento**
+**Ordine di priorità**[^31-1]
 
-<sup>1</sup> Se le domande pervenute eccedono i mezzi finanziari disponibili, l’UFAM elabora un piano di pagamento.
+<sup>1</sup> Se le domande pervenute eccedono i mezzi finanziari disponibili, l’UFAM stabilisce un ordine di priorità.
 
-<sup>2</sup> Per l’ordine dei pagamenti è determinante la data di presentazione delle domande all’autorità cantonale.
+<sup>2</sup>
+
+Per l’ordine dei pagamenti è determinante la data di presentazione delle domande all’autorità cantonale. La priorità è data alle domande che riguardano:
+
+- a. l’indennizzo dei costi di pianificazione già sostenuti; o
+- b. i costi supplementari per misure già garantite.
+
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 32
 
@@ -2577,5 +2600,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[RU 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28); [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32), [3005](https://fedlex.data.admin.ch/eli/oc/2002/435)II; [2004 4709](https://fedlex.data.admin.ch/eli/oc/2004/722); [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)cifra II n. 4889 all. 2 n. 2; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 19, [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)cifra II n. 4; [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)all. n. 2; [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428); [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)cifra II; [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)all. n. 2, [3477](https://fedlex.data.admin.ch/eli/oc/2011/471), [4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [4799](https://fedlex.data.admin.ch/eli/oc/2011/686); [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88), [4555](https://fedlex.data.admin.ch/eli/oc/2012/545); [2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [4479](https://fedlex.data.admin.ch/eli/oc/2013/792)all. n. 2, [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)art. 62 cpv. 2 n. 2; [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135), [2193](https://fedlex.data.admin.ch/eli/oc/2014/371)cifra II n. 2229, [3683](https://fedlex.data.admin.ch/eli/oc/2014/637); [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294), [4781](https://fedlex.data.admin.ch/eli/oc/2015/784); [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)cifra II n. 2729, [2871](https://fedlex.data.admin.ch/eli/oc/2016/475), [4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
+[^annex7-lvlu1-1]: [[RU 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28); [2002 181](https://fedlex.data.admin.ch/eli/oc/2002/32), [3005](https://fedlex.data.admin.ch/eli/oc/2002/435)cifra II; [2004 4709](https://fedlex.data.admin.ch/eli/oc/2004/722); [2006 2411](https://fedlex.data.admin.ch/eli/oc/2006/374)cifra II n. 4889, all. 2 n. 2; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 19, [4525](https://fedlex.data.admin.ch/eli/oc/2007/637)cifra II n. 4; [2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)all. n. 2; [2009 3473](https://fedlex.data.admin.ch/eli/oc/2009/428); [2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)cifra II; [2011 1955](https://fedlex.data.admin.ch/eli/oc/2011/290)all. n. 2, [3477](https://fedlex.data.admin.ch/eli/oc/2011/471), [4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [4799](https://fedlex.data.admin.ch/eli/oc/2011/686); [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88), [4555](https://fedlex.data.admin.ch/eli/oc/2012/545); [2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [4479](https://fedlex.data.admin.ch/eli/oc/2013/792)all. n. 2, [4593](https://fedlex.data.admin.ch/eli/oc/2013/814)art. 62 cpv. 2 n. 2; [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135), [2193](https://fedlex.data.admin.ch/eli/oc/2014/371)cifra II n. 2229, [3683](https://fedlex.data.admin.ch/eli/oc/2014/637); [2015 1415](https://fedlex.data.admin.ch/eli/oc/2015/294), [4781](https://fedlex.data.admin.ch/eli/oc/2015/784); [2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)cifra II n. 2729, [2871](https://fedlex.data.admin.ch/eli/oc/2016/475), [4617](https://fedlex.data.admin.ch/eli/oc/2016/746)]
 [^annex7-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763).

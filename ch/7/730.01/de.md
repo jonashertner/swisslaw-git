@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Januar 2026)
+vom 1. November 2017 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -201,9 +201,15 @@ Von den Pflichten nach den Absätzen 1 und 2 ausgenommen sind:
 
   - 1\. Treibstoffe als Betriebsmittel im Fahrzeugtank oder in einem Reservekanister importieren,
   - 2\. Wasserstoff in Brennstoffzellenfahrzeugen als Betriebsmittel im Fahrzeugtank importieren,
-  - 3\. für die importierten Brenn- und Treibstoffe über einen ausländischen Herkunftsnachweis verfügen.
+  - 3\.[^4b-1] für die importierten Brenn- und Treibstoffe über einen ausländischen Herkunftsnachweis oder ein ausländisches Herkunftszertifikat verfügen.
 
-<sup>5</sup> Importeure von ausländischen Herkunftsnachweisen für erneuerbare Gase und anderen ausländischen Zertifikaten für erneuerbare Gase müssen diese bei der Vollzugsstelle erfassen lassen.
+<sup>4bis</sup> Importeure von Brenn- oder Treibstoffen, die über ausländische Herkunftsnachweise oder ausländische Herkunftszertifikate verfügen, müssen diese bei der Vollzugsstelle erfassen lassen.[^4b-2]
+
+<sup>5</sup> Importeure von ausländischen Herkunftsnachweisen für erneuerbare Gase, ausländischen Herkunftszertifikaten für erneuerbare Gase und weiteren ausländischen Zertifikaten für erneuerbare Gase müssen diese bei der Vollzugsstelle erfassen lassen.[^4b-3]
+
+[^4b-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4b-2]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4b-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 4c
 
@@ -214,7 +220,8 @@ Von den Pflichten nach den Absätzen 1 und 2 ausgenommen sind:
 Einen Herkunftsnachweis hat zu entwerten oder von einem beauftragten Dritten entwerten zu lassen, wer:
 
 - a. den ökologischen Mehrwert eines zugrundeliegenden Brenn- oder Treibstoffs an Endverbraucherinnen oder Endverbraucher oder an eine Tankstelle abgibt;
-- b. die Menge des zugrundeliegenden gasförmige Brenn- oder Treibstoffs an Endverbraucherinnen oder Endverbraucher oder einer Tankstelle abgibt und nicht ins schweizerische Gasnetz einspeist; oder
+- a<sup>bis</sup>.[^4c-1] zugrundeliegenden Wasserstoff an Endverbraucherinnen oder Endverbraucher oder eine Tankstelle abgibt;
+- b.[^4c-2] die Menge des zugrundeliegenden Biogases oder des zugrundeliegenden Methans aus anderen erneuerbaren Energieträgern an Endverbraucherinnen oder Endverbraucher oder einer Tankstelle abgibt und nicht ins schweizerische Gasnetz einspeist; oder
 - c.
 
   die Menge des zugrundeliegenden Brenn- oder Treibstoffs:
@@ -227,15 +234,24 @@ Einen Herkunftsnachweis hat zu entwerten oder von einem beauftragten Dritten ent
 
 Einen Herkunftsnachweis hat zudem zu entwerten oder von einem beauftragten Dritten entwerten zu lassen, wer ihn als Nachweis für die Nutzung von Brenn- oder Treibstoffen einsetzt:
 
-- a. im Rahmen der CO<sub>2</sub>-vermindernden Faktoren bei Neuwagenflotten durch den Verbrauch von erneuerbaren synthetischen Treibstoffen nach Artikel 11*a* des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^4c-1];
+- a. im Rahmen der CO<sub>2</sub>-vermindernden Faktoren bei Neuwagenflotten durch den Verbrauch von erneuerbaren synthetischen Treibstoffen nach Artikel 11*a* des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^4c-3];
 - b. im Rahmen der Kompensationspflicht nach Artikel 28*b* des CO<sub>2</sub>-Gesetzes; oder
 - c. im Rahmen der Pflicht zur Bereitstellung und zur Beimischung von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Treibstoffen nach Artikel 28*f* des CO<sub>2</sub>-Gesetzes.
 
-<sup>3</sup> Die Entwertung muss jeweils bis Ende eines Quartals vorgenommen werden.
+<sup>3</sup>
 
-<sup>4</sup> Wer einen Herkunftsnachweis, der auf der Basis ausländischer Zertifikate für erneuerbarer Gase ausgestellt worden ist, im freiwilligen Wärmemarkt einsetzt, muss ihn innerhalb eines Jahres entwerten.
+Die Entwertung muss jeweils vorgenommen werden:
 
-[^4c-1]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+- a. für die Herkunftsnachweise, die im vergangenen Quartal als Nachweis für die Lieferung von schweizerischem erneuerbarem Gas an Tankstellen eingesetzt worden sind: bis am 25. des Monats, der auf das entsprechende Quartal folgt;
+- b. für die Herkunftsnachweise, die im vergangenen Jahr zu einem anderen Verwendungszweck als den Nachweis für die Lieferung von schweizerischem erneuerbarem Gas an Tankstellen eingesetzt worden sind: bis Ende Februar des Folgejahres.[^4c-4]
+
+<sup>4</sup> …[^4c-5]
+
+[^4c-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-3]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^4c-4]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
+[^4c-5]: Aufgehoben durch Ziff. I der V vom 27. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 ### 3. Abschnitt: Technische Anforderungen, Verfahren und Meldepflicht
 
@@ -968,11 +984,18 @@ Nach Eingang des Gesuchs meldet die kantonale Behörde dem Bundesamt für Umwelt
 
 #### Art. 31
 
-**Auszahlungsplan**
+**Prioritätenordnung**[^31-1]
 
-<sup>1</sup> Übersteigen die eingereichten Gesuche die verfügbaren Mittel, so erstellt das BAFU einen Auszahlungsplan.
+<sup>1</sup> Übersteigen die eingereichten Gesuche die verfügbaren Mittel, so erstellt das BAFU eine Prioritätenordnung.
 
-<sup>2</sup> Für die Reihenfolge der Auszahlungen ist der Zeitpunkt der Einreichung des Gesuchs bei der kantonalen Behörde massgebend.
+<sup>2</sup>
+
+Für die Reihenfolge der Auszahlungen ist der Zeitpunkt der Einreichung des Gesuchs bei der kantonalen Behörde massgebend. Prioritär behandelt werden Gesuche, die:
+
+- a. eine Entschädigung von bereits angefallenen Planungskosten betreffen; oder
+- b. Mehrkosten von bereits zugesicherten Massnahmen betreffen.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 298](https://fedlex.data.admin.ch/eli/oc/2026/298)).
 
 #### Art. 32
 
