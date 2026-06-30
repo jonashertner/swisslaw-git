@@ -3,20 +3,19 @@ canton: GL
 number: III F/2
 title: Verordnung über die Geschäftsführung und Organisation der Staats- und Jugendanwaltschaft
 language: de
-version: 2021-07-01
-valid_until: 2026-06-30
-version_adopted: 2021-05-11
+version: 2026-07-01
+version_adopted: 2026-02-17
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2237/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2626/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Geschäftsführung und Organisation der Staats- und Jugendanwaltschaft
 
-Vom 30.11.2010 (Stand 01.07.2021)
+Vom 30.11.2010 (Stand 01.07.2026)
 
 Der Regierungsrat,
 
@@ -131,15 +130,15 @@ verordnet:
 
 #### Art. 8
 
-**Wohnsitzpflicht**
-
-<sup>1</sup> Die Staatsanwälte und Jugendanwälte sowie das mit Untersuchungshandlungen betraute Sachbearbeitungspersonal haben im Kanton Glarus grundsätzlich Wohnsitz zu nehmen. Ausnahmen sind erlaubt, sofern dies mit der einwandfreien Aufgabenerfüllung vereinbar ist.
+**…**
 
 #### Art. 9
 
 **Pikett**
 
 <sup>1</sup> Soweit erforderlich, haben die Staatsanwälte und Jugendanwälte sowie das mit Untersuchungshandlungen betraute Sachbearbeitungspersonal Pikettdienst zu leisten.
+
+<sup>1a</sup> Während des Pikettdienstes sind sie jederzeit telefonisch erreichbar und einsatzbereit. Sie müssen nach der Alarmierung zeitnah am Ereignisort eintreffen können.
 
 <sup>2</sup> Der Erste Staatsanwalt regelt die Einzelheiten der Pikettstellung. Er achtet auf eine gleichmässige Verteilung.
 
