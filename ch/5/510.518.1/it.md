@@ -3,18 +3,18 @@ sr: "510.518.1"
 title: Ordinanza del 2 maggio 1990 concernente la protezione delle opere militari
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/854_854_854"
 language: it
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1990-05-02
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la protezione delle opere militari
 
-del 2 maggio 1990 (Stato 1° gennaio 2024)
+del 2 maggio 1990 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visti gli articoli 1, 6 e 10 della legge federale del 23 giugno 1950[^ingress-1]
 
 ordina:
 
-[^ingress-1]: [RS 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
+[^ingress-1]: [RS 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
 
 ## Sezione 1: Disposizioni generali
 
@@ -54,7 +54,7 @@ Sono considerate opere militari nel senso della legge:
 
 <sup>3</sup> Le opere in corso di pianificazione o in costruzione sono parificate alle opere esistenti.
 
-[^2-1]: Nuova espr. giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Di detta mod. é stato tenuto conto in tutto il presente testo.
+[^2-1]: Nuova espr. giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Di detta mod. é stato tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -113,8 +113,8 @@ Vengono distinte le seguenti zone protette con le relative misure di protezione:
 
 <sup>6</sup> Le autorizzazioni d’accesso alle opere che il Consiglio federale ha sottoposto alla legge secondo l’articolo 2 capoverso 2 sono rilasciate dal cancelliere della Confederazione.
 
-[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^4-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 #### Art. 5
 
@@ -145,8 +145,8 @@ La sorveglianza o la guardia delle opere può essere affidata agli organi seguen
 
 <sup>5</sup> Le persone sospette devono essere fermate e consegnate senza indugio alla polizia civile. Il servizio specialistico Protezione delle informazioni e delle opere, Stato maggiore del capo dell'esercito[^6-2], 3003 Berna, nonché il superiore devono esserne immediatamente informati.
 
-[^6-1]: Nuova espr. giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Di detta mod. é stato tenuto conto in tutto il presente testo.
-[^6-2]: Nuova espr. giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^6-1]: Nuova espr. giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Di detta mod. é stato tenuto conto in tutto il presente testo.
+[^6-2]: Nuova espr. giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 #### Art. 7
 
@@ -155,7 +155,7 @@ La sorveglianza o la guardia delle opere può essere affidata agli organi seguen
 L’uso delle armi si fonda sull’ordinanza del 26 ottobre 1994[^7-2] concernente i poteri di polizia dell’esercito.
 
 [^7-1]: Nuovo testo giusta l’art. 19 dell’O del 26 ott. 1994 concernente i poteri di polizia dell’esercito, in vigore dal 1<sup>o</sup> gen. 1995 ([RU 1995 40](https://fedlex.data.admin.ch/eli/oc/1995/40_40_40)).
-[^7-2]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^7-2]: [RS 510.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7291)
 
 ## Sezione 3: Protezione delle opere in occasione di misurazioni e di lavori di pianificazione
 
@@ -163,7 +163,7 @@ L’uso delle armi si fonda sull’ordinanza del 26 ottobre 1994[^7-2] concernen
 
 **Misurazione ufficiale delle opere**
 
-<sup>1</sup> La misurazione ufficiale comprende le opere militari o le parti d’opera generalmente visibili. La Confederazione Svizzera va indicata come proprietaria fondiaria o titolare del diritto di superficie. Le opere o le parti d’opera non visibili non possono né essere registrate né figurare nelle componenti della misurazione ufficiale.[^8-1]
+<sup>1</sup> La misurazione ufficiale comprende le opere militari o le parti d’opera generalmente visibili. La Confederazione Svizzera va indicata come proprietaria fondiaria o titolare del diritto di superficie. Le opere o le parti d’opera non visibili non possono né essere registrate né figurare nelle componenti della misurazione ufficiale né in altri set di geodati di base di diritto federale dei livelli di autorizzazione all’accesso A o B.[^8-1]
 
 <sup>2</sup> Informazioni sullo scopo militare delle opere non possono essere né registrate né trasmesse a terzi.
 
@@ -171,7 +171,7 @@ L’uso delle armi si fonda sull’ordinanza del 26 ottobre 1994[^7-2] concernen
 
 <sup>4</sup> Il DDPS emana le prescrizioni concernenti le misurazioni, il rilievo e l’allestimento di carte da parte dell’Ufficio federale di topografia.
 
-[^8-1]: Nuovo testo giusta il n. 5 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^8-1]: Nuovo testo giusta l’appendice n. 3 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 9
 
@@ -193,9 +193,9 @@ I Cantoni e i Comuni comunicano all’Aggruppamento armasuisse del DDPS[^9-3] tu
 - c. ferrovie;
 - d. aeroporti.
 
-[^9-1]: Nuova espr. giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
-[^9-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^9-3]: Nuova espr. giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^9-1]: Nuova espr. giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
+[^9-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^9-3]: Nuova espr. giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 ## Sezione 4: Misure in materia di circolazione
 
@@ -217,7 +217,7 @@ Il capo dell'esercito designa le singole opere secondo l’articolo 2 e le iscri
 
 Il capo dell'esercito emana istruzioni per la protezione delle opere militari e ne sorveglia l’osservanza. Egli designa un servizio specialistico[^12-1] per le questioni inerenti alla sicurezza.
 
-[^12-1]: Nuova espr. giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Di detta mod. é stato tenuto conto in tutto il presente testo.
+[^12-1]: Nuova espr. giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)). Di detta mod. é stato tenuto conto in tutto il presente testo.
 
 #### Art. 13
 
@@ -235,4 +235,4 @@ Il capo dell'esercito emana istruzioni per la protezione delle opere militari e 
 
 <sup>2</sup> La presente ordinanza entra in vigore il 1° gennaio 1991.
 
-[^14-1]: [[RU 1950 1488](https://fedlex.data.admin.ch/eli/oc/1950/1477_1523_1488), [1962 931](https://fedlex.data.admin.ch/eli/oc/1962/889_930_931)]
+[^14-1]: [[RU 1950 1488](https://fedlex.data.admin.ch/eli/oc/1950/1477_1523_1488); [1962 931](https://fedlex.data.admin.ch/eli/oc/1962/889_930_931)]

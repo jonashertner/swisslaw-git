@@ -3,11 +3,11 @@ sr: "510.518.1"
 title: Ordonnance du 2 mai 1990 concernant la protection des ouvrages militaires (Ordonnance sur la protection des ouvrages)
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/854_854_854"
 language: fr
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1990-05-02
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/fr"
 
 (Ordonnance sur la protection des ouvrages)
 
-du 2 mai 1990 (État le 1<sup>er</sup> janvier 2024)
+du 2 mai 1990 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu les art. 1, 6 et 10 de la loi fédérale du 23 juin 1950 concernant la protec
 
 arrête:
 
-[^ingress-1]: [RS 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
+[^ingress-1]: [RS 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
 
 ## Section 1 Dispositions générales
 
@@ -115,7 +115,7 @@ Il y a lieu de distinguer les zones protégées ci-après ainsi que les mesures 
 
 <sup>6</sup> Les autorisations d’accès aux ouvrages que le Conseil fédéral a soumis à la loi, selon l’art. 2, al. 2, sont délivrées par la chancelière ou le chancelier [^4-3] de la Confédération.
 
-[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil.2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 [^4-3]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
@@ -157,8 +157,8 @@ La surveillance ou la garde des ouvrages peuvent être assurées par les organes
 
 Le recours aux armes se fonde sur l’ordonnance du 26 octobre 1994 concernant les pouvoirs de police de l’armée[^7-2].
 
-[^7-1]: Nouvelle teneur selon le l’art. 19 de l’O du 26 oct. 1994 concernant les pouvoirs de police de l’armée, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)).
-[^7-2]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^7-1]: Nouvelle teneur selon le l’art. 19 de l’O du 26 oct. 1994 concernant les pouvoirs de police de l’armée, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RS 510.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7291)).
+[^7-2]: [RS 510.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7291)
 
 ## Section 3 Protection des ouvrages lors de mensurations et de travaux de planification
 
@@ -166,7 +166,7 @@ Le recours aux armes se fonde sur l’ordonnance du 26 octobre 1994 concernant l
 
 **Mensurations officielles des ouvrages**
 
-<sup>1</sup> La mensuration officielle saisit les ouvrages ou les parties d’ouvrages militaires normalement visibles. Il y a lieu de mentionner la Confédération suisse en sa qualité de propriétaire foncier ou de détenteur du droit de superficie. Les ouvrages ou les parties d’ouvrages qui ne sont pas visibles ne doivent ni être saisis ni être représentés dans les éléments de la mensuration officielle.[^8-1]
+<sup>1</sup> La mensuration officielle saisit les ouvrages ou les parties d’ouvrages militaires normalement visibles. Il y a lieu de mentionner la Confédération suisse en sa qualité de propriétaire foncier ou de détenteur du droit de superficie. Les ouvrages ou les parties d’ouvrages qui ne sont pas visibles ne doivent ni être saisis ni être représentés dans les éléments de la mensuration officielle et dans d’autres jeux de géodonnées de base relevant du droit fédéral et soumis aux niveaux d’accès A ou B.[^8-1]
 
 <sup>2</sup> Aucune indication sur l’affectation des ouvrages militaires ne doit être enregistrée ni transmise à des tiers.
 
@@ -174,7 +174,7 @@ Le recours aux armes se fonde sur l’ordonnance du 26 octobre 1994 concernant l
 
 <sup>4</sup> Le DDPS émet des directives concernant les mensurations, ainsi que les levés et l’établissement de cartes par l’Office fédéral de topographie.
 
-[^8-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 9
 
@@ -197,7 +197,7 @@ Les cantons et les communes annoncent à armasuisse du DDPS[^9-3] toutes les tra
 - d. les aéroports.
 
 [^9-1]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
-[^9-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^9-3]: Nouvelle expression selon le ch. I de l’O du 25 mai 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 ## Section 4 Mesures à prendre en matière de circulation

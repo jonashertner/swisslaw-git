@@ -3,11 +3,11 @@ sr: "510.518.1"
 title: Verordnung vom 2. Mai 1990 über den Schutz militärischer Anlagen (Anlageschutzverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/854_854_854"
 language: de
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1990-05-02
 in_force: 1991-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/854_854_854/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1990-854_854_854-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/854_854_854/20240101/de"
 
 (Anlageschutzverordnung)
 
-vom 2. Mai 1990 (Stand am 1. Januar 2024)
+vom 2. Mai 1990 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 1, 6 und 10 des Bundesgesetzes vom 23. Juni 1950[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
+[^ingress-1]: [SR 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -69,7 +69,7 @@ Militärische Anlagen im Sinne des Gesetzes sind:
 Es werden die folgenden Schutzzonen mit den dazugehörenden Schutzmassnahmen unterschieden:
 
 - a. *Schutzzone 1*
-- [tab]
+-
 
   Anlagen, Anlagenteile und Areale, die in der Regel von aussen her wahrnehmbar und teilweise frei zugänglich sind. Die verwaltende Stelle kann folgende Massnahmen anordnen:
 
@@ -78,7 +78,7 @@ Es werden die folgenden Schutzzonen mit den dazugehörenden Schutzmassnahmen unt
   - 3\. Schutz vor Sabotage.
 
 - b. *Schutzzone 2*
-- [tab]
+-
 
   Anlagen und Anlagenteile, die in der Regel von aussen her nicht wahrnehmbar sind, von Unbefugten nicht betreten werden können und deren Zerstörung oder Beschädigung den Betrieb und/oder den Zweck der Anlage selbst oder anderer Anlagen bzw. Teilen davon oder die Auftragserfüllung von Teilen der Armee gefährdet. Die verwaltende Stelle hat folgende Massnahmen anzuordnen:
 
@@ -88,7 +88,7 @@ Es werden die folgenden Schutzzonen mit den dazugehörenden Schutzmassnahmen unt
   - 4\. Überwachung oder Bewachung als Regelfall.
 
 - c. *Schutzzone 3*
-- [tab]
+-
 
   Anlagen und Anlagenteile, die von aussen her nicht wahrnehmbar sind und deren Zerstörung oder Beschädigung die Auftragserfüllung des Bundesrates, der Armee oder wesentlicher Teile davon nachhaltig gefährdet. Die verwaltende Stelle hat folgende Massnahmen anzuordnen:
 
@@ -115,7 +115,7 @@ Es werden die folgenden Schutzzonen mit den dazugehörenden Schutzmassnahmen unt
 
 <sup>6</sup> Bewilligungen zum Betreten von Anlagen, die vom Bundesrat gemäss Artikel 2 Absatz 2 dem Gesetz unterstellt wurden, erteilt die Bundeskanzlerin oder der Bundeskanzler[^4-3].
 
-[^4-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^4-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^4-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 [^4-3]: Ausdruck gemäss Ziff. I der V vom 25. Mai 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
@@ -158,7 +158,7 @@ Die Anlagen können von folgenden Organen überwacht oder bewacht werden:
 Der Waffengebrauch richtet sich nach der Verordnung vom 26. Oktober 1994[^7-2] über die Polizeibefugnisse der Armee.
 
 [^7-1]: Fassung gemäss Art. 19 der V vom 26. Okt. 1994 über die Polizeibefugnisse der Armee, in Kraft seit 1. Jan. 1995 ([AS 1995 40](https://fedlex.data.admin.ch/eli/oc/1995/40_40_40)).
-[^7-2]: [SR 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^7-2]: [SR 510.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7291)
 
 ## 3. Abschnitt: Schutz der Anlagen bei Vermessung und Planung
 
@@ -166,7 +166,7 @@ Der Waffengebrauch richtet sich nach der Verordnung vom 26. Oktober 1994[^7-2] �
 
 **Amtliche Vermessung von Anlagen**
 
-<sup>1</sup> Die amtliche Vermessung erfasst die allgemein wahrnehmbaren militärischen Anlagen oder Anlagenteile. Als Grundeigentümerin oder Baurechtsnehmerin ist die Schweizerische Eidgenossenschaft aufzuführen. Nicht wahrnehmbare Anlagen oder Anlagenteile dürfen in den Bestandteilen der amtlichen Vermessung weder erfasst noch dargestellt werden.[^8-1]
+<sup>1</sup> Die amtliche Vermessung erfasst die allgemein wahrnehmbaren militärischen Anlagen oder Anlagenteile. Als Grundeigentümerin oder Baurechtsnehmerin ist die Schweizerische Eidgenossenschaft aufzuführen. Nicht wahrnehmbare Anlagen oder Anlagenteile dürfen in den Bestandteilen der amtlichen Vermessung und in weiteren Geobasisdatensätzen des Bundesrechts der Zugangsberechtigungsstufen A oder B weder erfasst noch dargestellt werden.[^8-1]
 
 <sup>2</sup> Angaben über den Zweck militärischer Anlagen dürfen weder erfasst noch weitergegeben werden.
 
@@ -174,7 +174,7 @@ Der Waffengebrauch richtet sich nach der Verordnung vom 26. Oktober 1994[^7-2] �
 
 <sup>4</sup> Das VBS erlässt Vorschriften über Vermessen, sowie das Aufnehmen und Erstellen von Karten durch das Bundesamt für Landestopographie.
 
-[^8-1]: Fassung gemäss Anhang Ziff. 5 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+[^8-1]: Fassung gemäss Anhang Ziff. 3 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 9
 
@@ -197,7 +197,7 @@ Die Kantone und Gemeinden melden der armasuisse im VBS[^9-3] alle Um- und Neubau
 - d. Flughäfen.
 
 [^9-1]: Ausdruck gemäss Ziff. I der V vom 25. Mai 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
-[^9-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^9-3]: Ausdruck gemäss Ziff. I der V vom 25. Mai 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2347](https://fedlex.data.admin.ch/eli/oc/2005/404)).
 
 ## 4. Abschnitt: Verkehrsmassnahmen
@@ -238,4 +238,4 @@ Der Chef der Armee erlässt Weisungen zum Schutz der militärischen Anlagen und 
 
 <sup>2</sup> Diese Verordnung tritt am 1. Januar 1991 in Kraft.
 
-[^14-1]: [[AS 1950 1477](https://fedlex.data.admin.ch/eli/oc/1950/1477_1523_1488), [1962 889](https://fedlex.data.admin.ch/eli/oc/1962/889_930_931)]
+[^14-1]: [[AS 1950 1477](https://fedlex.data.admin.ch/eli/oc/1950/1477_1523_1488); [1962 889](https://fedlex.data.admin.ch/eli/oc/1962/889_930_931)]
