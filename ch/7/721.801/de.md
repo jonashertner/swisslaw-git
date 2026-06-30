@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Februar 2000 über die Nutzbarmachung der Wasserkräft
 short: WRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/122"
 language: de
-version: 2020-01-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/122/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2000-122-20200101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/122/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2000-122-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20200101/de"
 
 (Wasserrechtsverordnung, WRV)
 
-vom 2. Februar 2000 (Stand am 1. Januar 2020)
+vom 2. Februar 2000 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -58,6 +58,15 @@ Das Bundesamt für Energie (BFE) ist insbesondere für folgende Aufgaben zustän
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
 
+#### Art. 1a
+
+**Zusätzlich einzureichende Pläne bei Konzessions- und Plangenehmigungsverfahren des Bundes**[^1a-1]
+
+Bei Wasserkraftvorhaben ausserhalb der Bauzonen, die dem Konzessions- und Plangenehmigungsverfahren des Bundes unterstehen, muss das Konzessions- oder Plangenehmigungsgesuch insbesondere Pläne enthalten, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^1a-2] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.
+
+[^1a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^1a-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+
 #### Art. 2
 
 **Behandlungsfristen bei Konzessionsverfahren des Bundes**
@@ -83,6 +92,24 @@ Das Bundesamt für Energie (BFE) ist insbesondere für folgende Aufgaben zustän
 
 [^3-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^3-2]: Fassung gemäss Ziff. I der V vom 13. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
+
+#### Art. 3a
+
+**Meldepflichten bei Konzessions- und Plangenehmigungsverfahren des Bundes**[^3a-1]
+
+<sup>1</sup> Bei Wasserkraftvorhaben, die dem Konzessions- und Plangenehmigungsverfahren des Bundes unterstehen, informiert das UVEK das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Konzessionsverfahrens durch Zustellung der Konzessionsurkunde und der vom swisstopo benötigten Pläne. Bei untergeordneten Änderungen von bestehenden Anlagen und bei den durch das UVEK bewilligten Bau- und Umweltmassnahmen obliegt diese Meldepflicht dem BFE.
+
+<sup>2</sup>
+
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert der Konzessionär das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt der Konzessionär gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 1*a* in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^3a-2] zuständig ist.
+
+[^3a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^3a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 4
 

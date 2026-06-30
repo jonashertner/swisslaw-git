@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur l'utilisation des forces hydrauliques 
 short: OFH
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/122"
 language: fr
-version: 2020-01-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/122/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-122-20200101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/122/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-122-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20200101/fr"
 
 (OFH)
 
-du 2 février 2000 (État le 1<sup>er</sup> janvier 2020)
+du 2 février 2000 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -58,6 +58,15 @@ L’Office fédéral de l’énergie (OFEN) est notamment chargé:
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
 
+#### Art. 1a
+
+**Plans supplémentaires à fournir dans le cadre des procédures de concession et d’approbation des plans de la Confédération**[^1a-1]
+
+Pour les projets d’utilisation des forces hydrauliques situés hors de la zone à bâtir et soumis à la procédure de concession et d’approbation des plans de la Confédération, la demande de concession ou d’approbation des plans doit notamment contenir des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^1a-2], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, OAT.
+
+[^1a-1]: Introduit par l’annexe ch. 4 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^1a-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+
 #### Art. 2
 
 **Délais pour le traitement des procédures de concession de la Confédération**
@@ -83,6 +92,24 @@ L’Office fédéral de l’énergie (OFEN) est notamment chargé:
 
 [^3-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
+
+#### Art. 3a
+
+**Devoirs d’annonce dans le cadre des procédures de concession et d’approbation des plans de la Confédération**[^3a-1]
+
+<sup>1</sup> Pour les projets d’utilisation des forces hydrauliques soumis à la procédure de concession et d’approbation des plans de la Confédération, le DETEC informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure de concession en lui transmettant la décision de concession et les plans dont swisstopo a besoin. En cas de modifications mineures apportées à des installations existantes et aux mesures constructives et environnementales approuvées par le DETEC, cette obligation de notification incombe à l’OFEN.
+
+<sup>2</sup>
+
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, le bénéficiaire de la concession informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux; et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, le concessionnaire transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 1*a*, sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^3a-2].
+
+[^3a-1]: Introduit par l’annexe ch. 4 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^3a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 4
 

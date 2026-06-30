@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2000 sull'utilizzazione delle forze idriche (OU
 short: OUFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/122"
 language: it
-version: 2020-01-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/122/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2000-122-20200101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/122/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2000-122-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/122/20200101/it"
 
 (OUFI)
 
-del 2 febbraio 2000 (Stato 1° gennaio 2020)
+del 2 febbraio 2000 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -56,7 +56,16 @@ L’Ufficio federale dell’energia (UFE) è competente in particolare per i seg
 - k. autorizzare modifiche minori concernenti gli impianti esistenti e le misure edilizie e ambientali autorizzate dal DATEC;
 - l. autorizzare l’impiego a titolo sperimentale di apparecchi alternativi per l’utilizzazione delle forze idriche.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
+
+#### Art. 1a
+
+**Piani ulteriori da trasmettere nella procedura di concessione e di approvazione dei piani della Confederazione**[^1a-1]
+
+Nel caso di progetti di sfruttamento idroelettrico fuori delle zone edificabili che sottostanno alla procedura di concessione e di approvazione dei piani della Confederazione, la domanda di approvazione della concessione o dei piani deve contenere in particolare i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^1a-2] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.
+
+[^1a-1]: Introdotto dall’appendice n. 4 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^1a-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 2
 
@@ -70,8 +79,8 @@ L’Ufficio federale dell’energia (UFE) è competente in particolare per i seg
 
 <sup>4</sup> Questi termini possono essere prorogati dall’UFE per ragioni di coordinamento con la procedura di uno Stato vicino interessato o per altre ragioni importanti.
 
-[^2-1]: Nuova espr. giusta il n. I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-2]: Nuova espr. giusta il n. I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nuova espr. giusta la cifra I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Nuova espr. giusta la cifra I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -82,7 +91,25 @@ L’Ufficio federale dell’energia (UFE) è competente in particolare per i seg
 <sup>2</sup> I Cantoni possono dichiarare applicabile il diritto cantonale sull’espropriazione in caso di costruzione di centrali idroelettriche di una potenza inferiore a 300 kW; sono fatti salvi gli articoli 10 e 18 della legge federale del 20 giugno 1930[^3-1] sull’espropriazione.[^3-2]
 
 [^3-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
-[^3-2]: Nuovo testo giusta il n. I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 13 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3103](https://fedlex.data.admin.ch/eli/oc/2019/570)).
+
+#### Art. 3a
+
+**Obblighi di notifica nella procedura di concessione e di approvazione dei piani della Confederazione**[^3a-1]
+
+<sup>1</sup> Nel caso di progetti di sfruttamento idroelettrico che sottostanno alla procedura di concessione e di approvazione dei piani della Confederazione, il DATEC informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di concessione trasmettendo l’atto di concessione unitamente ai piani richiesti da swisstopo. In caso di modifiche secondarie a impianti esistenti o di misure edilizie e ambientali autorizzate dal DATEC, tale obbligo di notifica spetta all’UFE.
+
+<sup>2</sup>
+
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, il concessionario è tenuto a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, il concessionario trasmette sotto forma di geodati i piani di cui all’articolo 1*a* approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^3a-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^3a-1]: Introdotto dall’appendice n. 4 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^3a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 4
 
@@ -92,4 +119,4 @@ L’Ufficio federale dell’energia (UFE) è competente in particolare per i seg
 
 <sup>2</sup> La presente ordinanza entra in vigore il 1° marzo 2000.
 
-[^4-1]: [CS **4** 758; [RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 62]
+[^4-1]: [CS **4** 758; [RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 62]
