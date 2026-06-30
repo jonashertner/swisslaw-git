@@ -4,13 +4,13 @@ number: "301.215"
 title: Pflegeverordnung
 short: PflV
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-07-02
+version: 2026-07-01
+valid_until: 2026-12-31
+version_adopted: 2026-05-27
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3866/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4005/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3866/pdf_file"
 
 (PflV)
 
-Vom 21.11.2012 (Stand 01.01.2026)
+Vom 21.11.2012 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -417,6 +417,8 @@ beschliesst:
 - b) Unterstützung in der Behandlung und im Umgang mit Auswirkungen von Krankheiten und deren Therapien,
 - c) Beratung und Begleitung pflegender Angehöriger sowie Koordination der notwendigen Leistungen.
 
+<sup>2<sup>bis</sup></sup> Die Modalitäten einer allfälligen Anstellung pflegender Angehöriger gemäss Absatz 2 lit. c werden in den §§ 31a–c geregelt.
+
 <sup>3</sup> Das Mindestangebot im Bereich der spezialisierten Palliative Care zu Hause umfasst
 
 - a) palliativpflegerische und palliativärztliche Versorgung durch spezialisiertes Personal,
@@ -448,6 +450,42 @@ beschliesst:
 - a) Aufnahmepflicht,
 - b) Sicherstellung einer bedarfsgerechten Koordination, wie zum Beispiel fallbezogene Koordination mit anderen involvierten Leistungserbringern oder Vermittlung von Leistungen, die nicht selber erbracht werden können,
 - c) Sicherstellung der Kontinuität der Pflegeleistungen nach Entlassung aus einer stationären Einrichtung.
+
+#### § 31a
+
+**Pflegende Angehörige**
+
+<sup>1</sup> Als pflegende Angehörige gelten sowohl Personen, die direkt verwandt sind, Geschwister, Eheleute und Personen in eingetragenen Partner- und Lebensgemeinschaften als auch Personen aus dem engen Lebensumfeld. Massgeblich ist nicht der Verwandtschaftsgrad der pflegenden Angehörigen, sondern vielmehr die regelmässige und substanzielle Unterstützung sowie die Verantwortung und die Verbindlichkeit gegenüber der zu pflegenden Person vorbestehend zur Anstellung.
+
+<sup>2</sup> Sofern die pflegenden Angehörigen nicht nachweislich die Zulassungsbedingungen für Pflegefachpersonen gemäss Art. 49 der Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^31a-1] erfüllen oder eine andere pflegerische Berufsausbildung absolviert haben, dürfen sie ausschliesslich Massnahmen der Grundpflege gemäss Art. 7 Abs. 2 lit. c Ziff. 1 KLV zu Lasten der obligatorischen Krankenpflegeversicherung erbringen.
+
+<sup>3</sup> Anwendbare Vorschriften des eidgenössischen und kantonalen Arbeitsrechts sind einzuhalten. Es ist insbesondere sicherzustellen, dass die pflegenden Angehörigen physisch und psychisch in der Lage sind, die Pflegeleistungen in quantitativer und qualitativer Hinsicht sicherzustellen.
+
+[^31a-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de)
+
+#### § 31b
+
+**Instruktion und Überwachung der angestellten pflegenden Angehörigen**
+
+<sup>1</sup> Die Instruktion und die fachliche Begleitung von angestellten Angehörigen ohne pflegerische Berufsausbildung hat kontinuierlich zu erfolgen. Initial werden sie von der fallverantwortlichen diplomierten Pflegefachperson umfassend instruiert.
+
+<sup>2</sup> Die angestellten pflegenden Angehörigen werden angeleitet, wie die Pflegeleistungen zu erbringen und zu dokumentieren sind und in welchen Situationen die fallverantwortliche Pflegefachperson oder deren Vertretung umgehend Meldung erhalten soll.
+
+<sup>3</sup> Die angestellten pflegenden Angehörigen werden von einer diplomierten Pflegefachperson in regelmässigen Abständen überwacht und gegebenenfalls ergänzend angeleitet.
+
+<sup>4</sup> Die Kadenz der Überwachung gemäss Absatz 3 richtet sich nach der jeweiligen Pflegesituation. In jedem Fall muss alle zwei Wochen ein telefonischer Kontakt stattfinden und mindestens einmal monatlich ein Besuch einer diplomierten Pflegefachperson vor Ort erfolgen.
+
+#### § 31c
+
+**Ausbildung der angestellten pflegenden Angehörigen**
+
+<sup>1</sup> Die Spitexorganisation ist dafür verantwortlich, dass sich die angestellten pflegenden Angehörigen die erforderlichen Kenntnisse aneignen, die sie für die Erbringung der Pflegeleistungen benötigen.
+
+<sup>2</sup> Als Mindestanforderung ist ein Kurs in Pflegehilfe SRK oder eine andere gleichwertige anerkannte Ausbildung notwendig.
+
+<sup>3</sup> Eine entsprechende Ausbildung ist innerhalb eines Jahres ab Anstellung zu absolvieren.
+
+<sup>4</sup> Je nach Bedarf unterstützt die Spitexorganisation die angestellten pflegenden Angehörigen bei der Absolvierung weiterer fachspezifischer Aus- und Weiterbildungen.
 
 ### 5.2. Finanzierung und Controlling
 
@@ -502,7 +540,7 @@ beschliesst:
 <sup>1</sup> Leistungen der Akut- und Übergangspflege dürfen abgerechnet werden von
 
 - a) stationären Pflegeeinrichtungen gemäss Art. 39 Abs. 3 KVG,
-- b) Organisationen der Krankenpflege und Hilfe zu Hause gemäss Art. 51 der Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^35a-1],
+- b) Organisationen der Krankenpflege und Hilfe zu Hause gemäss Art. 51 KVV,
 - c) selbstständigen Pflegefachpersonen gemäss Art. 49 KVV.
 
 <sup>2</sup> Es muss ein Konzept bestehen, das namentlich Angaben macht
@@ -510,8 +548,6 @@ beschliesst:
 - a) zur Zusammenarbeit mit beteiligten Fachpersonen und zum Zugang zu Spezialhilfsmitteln,
 - b) zu den Stellenprozenten und zur beruflichen Qualifikation des Fachpersonals,
 - c) zum Notfall- und Verfügbarkeitsmanagement.
-
-[^35a-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de)
 
 #### § 35b
 
