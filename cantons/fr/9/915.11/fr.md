@@ -3,13 +3,12 @@ canton: FR
 number: "915.11"
 title: "Ordonnance pour le soutien des installations de récupération de chaleur dans l'agriculture"
 language: fr
-version: 2023-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-12-12
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/915.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7675/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8546/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7675/pdf_file"
 
 Agriculture, soutien des installations de récupération de chaleur – O
 
-du 12.12.2022 (version entrée en vigueur le 01.01.2023)
+du 12.12.2022 (version entrée en vigueur le 01.07.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -83,7 +82,7 @@ Arrête:
 
 **Demande**
 
-<sup>1</sup> Le requérant ou la requérante doit déposer sa demande de soutien jusqu'au 28 février 2026.
+<sup>1</sup> Le requérant ou la requérante doit déposer sa demande de soutien jusqu'au 1<sup>er</sup> décembre 2026.
 
 <sup>2</sup> Pour être valable, la demande est rédigée au moyen du formulaire ad hoc disponible sur le site Internet de Grangeneuve et être signée et accompagnée des annexes requises.
 

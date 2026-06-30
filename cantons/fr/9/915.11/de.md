@@ -3,13 +3,12 @@ canton: FR
 number: "915.11"
 title: Verordnung zur Unterstützung von Anlagen zur Abwärmenutzung in der Landwirtschaft
 language: de
-version: 2023-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-12-12
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/915.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7675/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8546/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7675/pdf_file"
 
 Landwirtschaft, Unterstützung von Anlagen zur Abwärmenutzung – V
 
-vom 12.12.2022 (Fassung in Kraft getreten am 01.01.2023)
+vom 12.12.2022 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -83,7 +82,7 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss das Unterstützungsgesuch bis zum 28. Februar 2026 einreichen.
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss das Unterstützungsgesuch bis zum 1. Dezember 2026 einreichen.
 
 <sup>2</sup> Das Gesuch ist nur gültig, wenn es mit dem entsprechenden Formular auf der Website von Grangeneuve gestellt wird. Es muss unterzeichnet und zusammen mit den erforderlichen Anhängen eingereicht werden.
 
