@@ -4,13 +4,12 @@ number: "611.1"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Planungs- und Baugesetz, PBG"
 language: de
-version: 2026-04-01
-valid_until: 2026-06-30
-version_adopted: 2025-12-17
+version: 2026-07-01
+version_adopted: 2025-11-26
 adopted: 2014-05-21
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1487/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1509/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1487/pdf_file"
 
 (Planungs- und Baugesetz, PBG)[^t-1]
 
-vom 21.05.2014 (Stand 01.04.2026)
+vom 21.05.2014 (Stand 01.07.2026)
 
 Der Landrat von Nidwalden,
 
@@ -1663,6 +1662,7 @@ beschliesst:
 <sup>1</sup> Die anderen Abstände bemessen sich aufgrund der jeweiligen Entfernung zwischen der projizierten Fassadenlinie des äussersten, für den Grenzabstand massgebenden Gebäude- beziehungsweise Anlageteils und:
 
 - 1\. dem Fahrbahnrand einschliesslich Radstreifen beim Strassenabstand;
+- 1a. dem Fahrbahnrand beim Velowegabstand;
 - 2\. der Stockgrenze beim Waldabstand;
 - 3\. …
 - 4\. der näher gelegenen Bahnschiene beim Bauabstand gegenüber Bahnlinien.
@@ -1671,19 +1671,30 @@ beschliesst:
 
 #### Art. 119
 
-**►Strassenabstand◄**
+**►Strassen- und Velowegabstand◄ 1. Grundsätze**
 
-<sup>1</sup> Der Strassenabstand beträgt:
+<sup>1</sup> Der Strassen- und Velowegabstand beträgt:
 
 - 1\. bei Kantonsstrassen: — 6 m
 - 2\. bei allen übrigen Strassen: — 4 m
+- 3\. bei Velowegen: — 3 m
 
-<sup>2</sup> Für unterirdische Bauten und unterirdische Gebäudeteile beträgt der Strassenabstand 3 m; die Strassenaufsichtsbehörde gemäss Art. 16 des Strassengesetzes[^119-1] kann in begründeten Fällen einen grösseren Abstand oder Auflagen verfügen.
+<sup>2</sup> Bei unterirdischen Bauten oder Gebäudeteilen beträgt der Abstand gegenüber Strassen 3 m, gegenüber Velowegen 1 m.
 
-<sup>3</sup> Die Herabsetzung oder Aufhebung von Strassenabständen richtet sich nach Art. 28 Abs. 3 des Strassengesetzes[^119-2].
+<sup>3</sup> …
 
-[^119-1]: NG 622.1
-[^119-2]: NG 622.1
+#### Art. 119a
+
+**2. Ausnahmen**
+
+<sup>1</sup> Strassen- und Velowegabstände können durch die Baubewilligungsbehörde ausnahmsweise herabgesetzt oder aufgehoben werden.
+
+<sup>2</sup> Ausnahmen können bewilligt werden, wenn:
+
+- 1\. dies besondere Verhältnisse erfordern oder rechtfertigen;
+- 2\. die Bestimmungen über die Sichtfelder eingehalten sind;
+- 3\. keine öffentlichen Interessen wie insbesondere die Verkehrssicherheit oder die Verkehrsentwicklung beeinträchtigt werden; und
+- 4\. keine wesentlichen nachbarlichen Interessen beeinträchtigt werden.
 
 #### Art. 120
 
