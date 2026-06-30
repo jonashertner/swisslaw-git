@@ -4,13 +4,12 @@ number: "922.100"
 title: Ausführungsreglement zum Jagdgesetz
 short: ReKJSG
 language: de
-version: 2025-07-01
-valid_until: 2026-06-30
-version_adopted: 2025-06-18
+version: 2026-07-01
+version_adopted: 2026-06-17
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/de/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/de/versions/3504/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3504/pdf_file"
 
 (ReKJSG)
 
-vom 16.06.2021 (Stand 01.07.2025)
+vom 16.06.2021 (Stand 01.07.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -175,7 +174,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Jeder Wildhüter ist einem Bereichsleiter unterstellt.
 
-<sup>2</sup> Jede Sprachregion verfügt über spezialisierte Wildhüter, welche den Bereichsleiter unterstützen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Arbeitsweise der Wildhut wird durch eine interne Weisung geregelt.
 
@@ -425,7 +424,7 @@ verordnet:[^ingress-1]
 
 <sup>7</sup> Während der Jagdausübung ist die Verwendung von Wildtierkameras (Fotofallen) verboten.
 
-<sup>8</sup> Unter Vorbehalt gegeteiliger Bestimmungen, ist das Erstellen und/oder Benutzen von festen Ansitzposten zu Jagdzwecken verboten. Der Jäger darf zur Errichtung eines vorübergehenden Postens nur das vor Ort vorhandene natürliche Material verwenden (ohne Einsatz von Nägeln und Schrauben). Eine Blache darf nur als Abdeckung zum Schutz vor Witterungseinflüssen verwendet werden. Die Errichtung eines solchen Postens gibt keinerlei Anrecht auf dessen exklusive Nutzung. Dagegen ist der Jäger, der diesen erstellt hat, zum Rückbau des Postens nach Abschluss der Jagd verpflichtet. Vorbehalten bleiben im Übrigen die baupolizeilichen Vorschriften.
+<sup>8</sup> Unter Vorbehalt gegenteiliger Bestimmungen, ist das Erstellen und/oder Benutzen von festen Ansitzposten zu Jagdzwecken verboten. Der Jäger darf zur Errichtung eines vorübergehenden Postens nur das vor Ort vorhandene natürliche Material verwenden (ohne Einsatz von Nägeln und Schrauben). Eine Blache darf nur als Abdeckung zum Schutz vor Witterungseinflüssen verwendet werden. Die Errichtung eines solchen Postens gibt keinerlei Anrecht auf dessen exklusive Nutzung. Dagegen ist der Jäger, der diesen erstellt hat, zum Rückbau des Postens nach Abschluss der Jagd verpflichtet. Vorbehalten bleiben im Übrigen die baupolizeilichen Vorschriften.
 
 <sup>9</sup> Das Mitführen und vorübergehende Aufstellen von Biwakzelten im freien Jagdgebiet ist gestattet. Vorbehalten bleiben andere diesbezügliche gesetzliche Bestimmungen (Forst, Raumplanung, Gemeindereglemente, usw.).
 
@@ -441,7 +440,7 @@ verordnet:[^ingress-1]
 - b) für die Jagd auf Raufusshühner und Waldschnepfen, einen Vorsteh- oder Apportierhund;
 - c) für die Baujagd auf Kleinraubwild einen Dackel oder Terrier;
 - d) für die Jagd auf Wasserwild, einen Hund, der aus dem Wasser apportiert;
-- e) für die Spezialjagd auf Wildschweine alle Hunderassen die in der Schweiz für die Jagd anerkannt sind.
+- e) für die Spezialjagd auf Wildschweine alle Hunderassen, die in der Schweiz für die Jagd anerkannt sind.
 
 <sup>2</sup> Der periodische Beschluss spezifiziert die besonderen Bestimmungen. Bestehen Zweifel über die Geeignetheit eines Hundes entscheidet die DJFW.
 
@@ -456,7 +455,7 @@ verordnet:[^ingress-1]
 <sup>1</sup> Mit Ausnahme von Sonderfällen, die eine Bewilligung der DJFW erfordern, ist das Trainieren von Jagdhunden den Jägern, die im vergangenen Jahr ein Patent gelöst haben, sowie Jungjägern, die ihre Jagdausbildung bestanden haben, gestattet:
 
 - a) in den auf der Jagdkarte eingezeichneten Gebieten für das Trainieren von Jagdhunden;
-- b) vom 1. bis 31. August: in allen Gebieten, die für die Jagd offen sind, am Dienstag, Donnerstag, Samstag und Sonntag. Der Jäger muss seinen Hund begleiten und hat alles zu unternehmen diesen wieder nach Hause zurückzubringen. Jagen Hunde unbeaufsichtigt herum, ist der Jäger strafbar;
+- b) vom 1. bis 31. August: in allen Gebieten, die für die Jagd offen sind, am Dienstag, Donnerstag, Samstag und Sonntag. Der Jäger muss seinen Hund begleiten und hat alles zu unternehmen, diesen wieder nach Hause zurückzubringen. Jagen Hunde unbeaufsichtigt herum, ist der Jäger strafbar;
 - c) das Trainieren von Vorstehhunden ist erst ab dem 15. August erlaubt.
 
 <sup>2</sup> Hat sich der Hund aus dem Trainingsgebiet entfernt, muss der Jäger dem Wildhüter oder der Polizei Meldung erstatten.
@@ -473,7 +472,7 @@ verordnet:[^ingress-1]
 
 **Schweisshunde, offizielle Liste und Verwendung zur Jagdausübung**
 
-<sup>1</sup> Zur Nachsuche berechtigt sind Nachsuchegespanne (bestehend aus einem geprüften und für den entsprechenden Einsatz geeigneten Schweisshund mit einem jagdberechtigten und waffentragenden Hundeführer) welche folgende Anforderungen erfüllen:
+<sup>1</sup> Zur Nachsuche berechtigt sind Nachsuchegespanne (bestehend aus einem geprüften und für den entsprechenden Einsatz geeigneten Schweisshund mit einem jagdberechtigten und waffentragenden Hundeführer), welche folgende Anforderungen erfüllen:
 
 - a) im laufenden Jahr eine von der DJFW anerkannte Schweisshundeprüfung bestanden hat, oder
 - b) den Nachweis über die Teilnahme an einem vom KWJV organisierten Wiederholungskurs erbringt, welcher innert 3 Jahren seit der Prüfung oder dem letzten Wiederholungskurs absolviert wurde, oder
@@ -485,7 +484,7 @@ verordnet:[^ingress-1]
 
 <sup>4</sup> Nur die auf der offiziellen Liste aufgeführten Schweisshundeführer dürfen für sich und andere Jäger Nachsuchen durchführen. Sie verpflichten sich damit, auf Anfrage einer jagdberechtigten Person die Nachsuche durchzuführen.
 
-<sup>5</sup> Der Jäger der einen Schweisshund besitzt, der eine der Voraussetzungen für den Einsatz des Hundes gemäss Absatz 1 dieses Artikels erfüllt, aber nicht auf der Liste aufgeführt sein will, darf nur für sich selber oder die Mitglieder seiner Jagdgruppe Nachsuchen durchführen.
+<sup>5</sup> Der Jäger, der einen Schweisshund besitzt, der eine der Voraussetzungen für den Einsatz des Hundes gemäss Absatz 1 dieses Artikels erfüllt, aber nicht auf der Liste aufgeführt sein will, darf nur für sich selber oder die Mitglieder seiner Jagdgruppe Nachsuchen durchführen.
 
 <sup>6</sup> Während der Hochjagd muss der Schweisshund an der kurzen Leine geführt werden.
 
@@ -580,9 +579,9 @@ verordnet:[^ingress-1]
 - c) …
 - d) während der Spezialjagd auf Wildschweine (Patent S):
   - 1\. Abschuss einer melken Bache: — Fr. 250.-
-- e) während der Steinwildregulation:
-  - 1\. Abschuss einer melken Geiss: — Fr. 350.-
-  - 2\. Abschuss eines Steinkitzes: — Fr. 200.-
+- e) während der Steinwildregulierung gelten die Pauschalen gemäss der zugehörigen Weisung über die Regulierungsjagd auf Steinwild (WRJS).
+  - 1\. …
+  - 2\. …
 
 <sup>4</sup> In allen anderen Fällen wird für den Abschuss eines geschützten oder nicht erlaubten Wildes eine Busse ausgesprochen und der Jäger bezahlt zusätzlich für das erlegte Wild den vom Staatsrat festgesetzten Fleischwert (ganzes Tier ausgeworfen im Fell).
 
@@ -616,7 +615,7 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Während der Niederjagd ist es gestattet, sich am Vorabend des Jagdtages ab 18.00 Uhr mit der Waffe in seine Jagdunterkunft zu begeben. Zu diesem Zweck ist die Benutzung von Motorfahrzeugen erlaubt, solange die Strasse für alle offen ist.
 
-<sup>4</sup> Waffen müssen während der Verschiebung mit einem Transportmittel entladen und in einer geschlossenen Schutzhülle aufbewahrt werden. Beim Fehlen einer Schutzhülle muss die Waffe ausser Funktion gesetzt werden.
+<sup>4</sup> Bei Verschiebungen mit einem Transportmittel müssen Waffen gemäss den im periodischen Beschluss enthaltenen Bestimmungen transportiert werden.
 
 <sup>5</sup> Die Tatsache, dass ein Jäger mehrere Patentarten gelöst hat, erlaubt es ihm nicht, gleichzeitig 2 unterschiedliche Waffentypen (Büchse und Flinte) mit sich zu führen.
 
@@ -847,5 +846,13 @@ verordnet:[^ingress-1]
 <sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Ab dem Jahr 2025 muss der Jäger jährlich einen Treffsicherheitsnachweis vorlegen, welcher vom entsprechenden Kalenderjahr datiert ist.
 
 <sup>2</sup> Die Übergangsfrist betreffend der Erlaubnis zur Verwendung von bleihaltiger Munition zur Ausübung der Jagd mit Büchsen gemäss Artikel 30 Abstand 1 Buchstabe d dieses Reglements wird basierend auf der revidierten eidg. Jagdverordnung verlängert. Das Verbot tritt auf den 1. Januar 2030 in Kraft.
+
+## T5 Übergangsbestimmung der Änderung vom 17. Juni 2026
+
+#### Art. T5-1
+
+**Anpassungen der Bestimmungen und Übergangsbestimmungen**
+
+<sup>1</sup> Die Übergangsfrist für die Validierung der Mindestanforderungen an die von der DJFW anerkannten Fähigkeiten von Hunden gemäss den Bestimmungen von Artikel 33 dieser Verordnung wird um ein Jahr verlängert. Die Umsetzung dieser Bestimmung tritt mit der Jagderöffnung 2027-2028 in Kraft.
 
 CSW RO/AGS 2021-075

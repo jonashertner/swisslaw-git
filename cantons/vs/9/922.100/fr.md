@@ -4,13 +4,12 @@ number: "922.100"
 title: "Règlement d'exécution de la loi sur la chasse"
 short: RexChP
 language: fr
-version: 2025-07-01
-valid_until: 2026-06-30
-version_adopted: 2025-06-18
+version: 2026-07-01
+version_adopted: 2026-06-17
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3504/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3620/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3504/pdf_file"
 
 (RexChP)
 
-du 16.06.2021 (état 01.07.2025)
+du 16.06.2021 (état 01.07.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -175,7 +174,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Chaque garde-faune est subordonné à un chef de secteur.
 
-<sup>2</sup> Chaque région linguistique dispose de gardes-faune spécialistes qui épaulent les chefs de secteurs.
+<sup>2</sup> …
 
 <sup>3</sup> Les modalités de fonctionnement du gardiennage sont réglées par une directive interne.
 
@@ -580,9 +579,9 @@ ordonne:[^ingress-1]
 - c) …
 - d) durant le permis S:
   - 1\. tir d'une laie allaitante: — Fr. 250.-
-- e) durant la régulation du bouquetin:
-  - 1\. tir d'une femelle allaitante: — Fr. 350.-
-  - 2\. tir d'un cabri de bouquetin: — Fr. 200.-
+- e) durant la régulation du bouquetin, les taxes forfaitaires s'appliquent conformément à la directive correspondante sur la chasse de régulation du bouquetin (DCRB).
+  - 1\. …
+  - 2\. …
 
 <sup>4</sup> Dans tous les autres cas, le tir d'un animal protégé ou non autorisé est sanctionné par une amende et par le paiement de la bête au tarif officiel fixé par le Conseil d'Etat, bête entière vidée dans la peau.
 
@@ -616,7 +615,7 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Lors de la chasse basse, le chasseur peut se rendre, la veille au soir à partir de 18h00, dans son logement de chasse avec son arme. A cet effet, l'utilisation des véhicules à moteur est libre pour autant que la route soit ouverte à tous.
 
-<sup>4</sup> Pour tous les déplacements avec un véhicule, l'arme doit être déchargée et rangée dans une housse de protection fermée. En l'absence d'une housse de protection, l'arme doit être mise hors service.
+<sup>4</sup> En cas de déplacement avec un moyen de transport, les armes doivent être transportées conformément aux dispositions contenues dans l'arrêté périodique.
 
 <sup>5</sup> Le fait d'être en possession de plusieurs permis n'autorise pas à chasser en étant porteur de 2 armes différentes, l'une à canon rayé et l'autre à canon lisse.
 
@@ -849,5 +848,13 @@ ordonne:[^ingress-1]
 <sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. A partir de l'année 2025, le chasseur devra présenter chaque année une attestation daté de l'année civile correspondante.
 
 <sup>2</sup> Le délai transitoire concernant l'autorisation d'utiliser des munitions contenant du plomb pour la pratique de la chasse avec des carabines, conformément à l'article 30 alinéa 1 lettre d du présent règlement, est prolongé sur la base de l'ordonnance fédérale révisée sur la chasse. L'interdiction entre en vigueur le 1<sup>er</sup> janvier 2030.
+
+## T5 Disposition transitoire de la modification du 17 juin 2026
+
+#### Art. T5-1
+
+**Adaptations de dispositions et dispositions transitoires**
+
+<sup>1</sup> Le délai transitoire pour la validation des exigences minimales en matière de compétences des chiens reconnues par le SCPF conformément aux dispositions de l'article 33 du présent règlement est repoussé d' une année. La mise en oeuvre de l'article 33 est effectif pour la saison de chasse 2027-2028.
 
 RCV RO/AGS 2021-075
