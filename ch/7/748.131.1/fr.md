@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1994 sur l'infrastructure aéronautique (OSIA)
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: fr
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/fr"
 
 (OSIA)
 
-du 23 novembre 1994 (État le 1<sup>er</sup> janvier 2024)
+du 23 novembre 1994 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 3, al. 3, 6*a*, 8, al. 2 et 6, 12, al. 1 et 2, 36, al. 1, 38, al.1, 
 
 arrête:
 
-[^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ## Titre 1 Dispositions générales
@@ -36,7 +36,7 @@ arrête:
 
 La présente ordonnance régit la construction des infrastructures aéronautiques (aérodromes et installations de navigation aérienne) et l’exploitation des aérodromes. Elle comprend en outre les dispositions applicables aux atterrissages en campagne[^1-1] et aux obstacles.
 
-[^1-1]: S’agissant des atterrissages en campagne voir aussi l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)).
+[^1-1]: S’agissant des atterrissages en campagne voir aussi l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RS 748.132.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9082)).
 
 #### Art. 2
 
@@ -45,7 +45,7 @@ La présente ordonnance régit la construction des infrastructures aéronautique
 Au sens de la présente ordonnance, on entend par:
 
 - a. *aérodrome:* une installation, définie dans un plan sectoriel, servant au décollage, à l’atterrissage, à l’entretien et au stationnement d’aéronefs, au trafic de passagers et au transbordement de marchandises;
-- [tab] b. à d.[^2-2] ...
+- [tab] b. à d.[^2-2] …
 - e. *installations d’aérodrome:* les constructions et les installations qui, du point de vue local et fonctionnel, font partie d’un aérodrome et qui lui permettent de remplir le rôle attribué par le Plan sectoriel de l’infrastructure aéronautique;
 - f. *installations annexes:* les constructions et les installations d’un aérodrome qui ne font pas partie des installations d’aérodrome;
 - g.[^2-3] *partie Infrastructure aviation du plan sectoriel des transports:* le plan sectoriel, au sens de l’art. 13 de la loi du 22 juin 1979 sur l’aménagement du territoire[^2-4], qui sert à planifier et à coordonner les activités de la Confédération relatives à l’aviation civile suisse ayant des effets sur l’organisation du territoire;
@@ -55,18 +55,18 @@ Au sens de la présente ordonnance, on entend par:
 - k.[^2-6] *obstacles:* les constructions, les installations et les plantes, y compris les objets temporaires, qui pourraient gêner, mettre en danger ou empêcher la circulation des aéronefs ou l’exploitation des installations de navigation aérienne;
 - l. *surfaces de limitation d’obstacles:* les surfaces qui délimitent, en direction du sol, l’espace aérien qui doit normalement être dépourvu d’obstacles pour que la sécurité de l’aviation soit assurée;
 - m. *cadastre des surfaces de limitation d’obstacles:* l’établissement officiel des surfaces de limitation d’obstacles valables pour un aérodrome, une installation de navigation aérienne ou une trajectoire de vol, conformément à l’annexe 14 de la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^2-7];
-- n.[^2-8] ...
+- n.[^2-8] …
 - o. *aérodrome IFR:* un aérodrome permettant le décollage et l’atterrissage selon les règles de vol aux instruments (Instrument Flight Rules);
-- [tab] p. et q.[^2-9] *...*
+- [tab] p. et q.[^2-9] *…*
 - r. *place d’atterrissage en montagne:* une place d’atterrissage spécialement désignée se situant à plus de 1100 m d’altitude.
 
 [^2-1]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 [^2-2]: Abrogées par le ch. I de l’O du 17 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^2-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^2-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^2-5]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^2-6]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^2-7]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^2-7]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^2-8]: Abrogée par le ch. I de l’O du 17 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^2-9]: Abrogées par l’annexe ch. 5 de l’O du 14 mai 2014 sur les atterrissages en campagne, avec effet au 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
@@ -83,7 +83,7 @@ Au sens de la présente ordonnance, on entend par:
 <sup>4</sup> Les normes et les recommandations de l’OACI, y compris les prescriptions techniques qui s’y rapportent, ne sont pas publiées au Recueil officiel. Elles peuvent être consultées auprès de l’OFAC, en français et en anglais; elles ne sont traduites ni en allemand ni en italien[^3-3].
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 (RO **2018** 3849).
-[^3-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^3-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^3-3]: Ces documents peuvent être commandés ou obtenus par abonnement auprès de l’OACI.
 
 #### Art. 3a
@@ -110,7 +110,7 @@ Au sens de la présente ordonnance, on entend par:
 
 [^3b-1]: Introduit par le ch. II 6 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^3b-2]: Introduit par le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 15 mars 2008 ([RO 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^3b-3]: [[RO 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 5. [RO 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)art. 52]. Voir actuellement l’O du 28 sept. 2007 sur les émoluments de l’OFAC ([RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)).
+[^3b-3]: [[RO 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 5. [RO 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)art. 52]. Voir actuellement l’O du 28 sept. 2007 sur les émoluments de l’OFAC ([RS 748.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9040)).
 
 ## Titre 2 Aérodromes
 
@@ -214,7 +214,7 @@ Les exploitants des aérodromes spécifiés ci-dessous mettent à disposition un
 
 <sup>1</sup>
 
-Quiconque sollicite une concession d’exploitation doit déposer une demande auprès du Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC[^11-1]) selon le nombre d’exemplaires requis. La demande doit :
+Quiconque sollicite une concession d’exploitation doit déposer une demande auprès du Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC[^11-1]) selon le nombre d’exemplaires requis. La demande doit:
 
 - a. indiquer qui assume la responsabilité de l’installation et de l’exploitation de l’aéroport;
 - b.[^11-2] démontrer que le requérant dispose des connaissances, aptitudes et moyens pour exploiter l’aéroport en respectant les obligations découlant de la loi, de la concession et du règlement d’exploitation;
@@ -383,7 +383,7 @@ Le règlement d’exploitation régit tous les aspects opérationnels de l’aé
 <sup>3</sup> Les domaines qui ne relèvent pas du règlement (UE) n<sup>o</sup> 139/2014 sont régis par les réglementations de l’OACI visées à l’art. 23*b*.
 
 [^23a-1]: Introduit par le ch. I de l’O du 13 fév. 2008 ([RO 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^23a-2]: Règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence européenne de la sécurité aérienne, et abrogeant la directive 91/670/CEE du Conseil, le règlement (CE) n<sup>o</sup> 1592/2002 et la directive 2004/36/CE, dans la version qui lie la Suisse en vertu de l’annexe ch. 3 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^23a-2]: Règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence européenne de la sécurité aérienne, et abrogeant la directive 91/670/CEE du Conseil, le règlement (CE) n<sup>o</sup> 1592/2002 et la directive 2004/36/CE, dans la version qui lie la Suisse en vertu de l’annexe ch. 3 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 [^23a-3]: Règlement (UE) n<sup>o</sup> 139/2014 de la Commission du 12 février 2014 établissant des exigences et des procédures administratives relatives aux aérodromes conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans la version qui lie la Suisse en vertu de l’annexe ch. 3 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien.
 
 #### Art. 23b
@@ -396,7 +396,7 @@ Le règlement d’exploitation régit tous les aspects opérationnels de l’aé
 
 [^23b-1]: Introduit par le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^23b-2]: Les documents pertinents peuvent être consultés auprès de l’OFAC en français et en anglais. Ils peuvent également être commandés ou obtenus par abonnement auprès de l’OACI.
-[^23b-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^23b-3]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 23c
 
@@ -409,7 +409,7 @@ Le règlement d’exploitation régit tous les aspects opérationnels de l’aé
 <sup>3</sup> Les domaines qui ne peuvent être réglementés par analogie au règlement (UE) n<sup>o</sup> 139/2014 sont régis par les réglementations de l’OACI visées à l’art. 23*b*.
 
 [^23c-1]: Introduit par le ch. I de l’O du 17 oct. 2018, en vigeur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^23c-2]: Règlement (UE) n<sup>o</sup> 139/2014 de la Commission du 12 février 2014 établissant des exigences et des procédures administratives relatives aux aérodromes conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans la version qui lie la Suisse en vertu de l’annexe ch. 3 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^23c-2]: Règlement (UE) n<sup>o</sup> 139/2014 de la Commission du 12 février 2014 établissant des exigences et des procédures administratives relatives aux aérodromes conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans la version qui lie la Suisse en vertu de l’annexe ch. 3 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 
 #### Art. 24
 
@@ -425,7 +425,7 @@ La demande d’approbation initiale du règlement d’exploitation ou de ses mod
 - f. les projets de documents devant être publiés dans l’AIP.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^24-2]: [RS 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
+[^24-2]: [RS 814.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9523)
 
 #### Art. 25
 
@@ -438,7 +438,7 @@ Le règlement d’exploitation ou ses modifications sont approuvés lorsque:[^25
 - a.[^25-2] les décisions du PSIA sont respectées;
 - b. les conditions mises à l’octroi de la concession ou de l’autorisation d’exploitation et de l’approbation des plans sont remplies;
 - c. les exigences spécifiques à l’aviation ainsi que les exigences de l’aménagement du territoire, de la protection de l’environnement, de la nature et du paysage sont respectées;
-- d.[^25-3] ...
+- d.[^25-3] …
 - e.[^25-4] pour les aéroports, les plans des zones de sécurité ont été mis à l’enquête publique et, pour les champs d’aviation, le cadastre des surfaces de limitation d’obstacles peut être établi.
 - f.[^25-5] les exigences des art. 23*a,* 23*b* ou 23*c* sont remplies.
 
@@ -455,7 +455,7 @@ Le règlement d’exploitation ou ses modifications sont approuvés lorsque:[^25
 
 **Publication**[^25a-1]
 
-<sup>1</sup> Les principales prescriptions d’utilisation de l’aérodrome sont publiées dans l’AIP. En font notamment partie les prescriptions visées à l’art. 23, let. b, c et d, pour autant qu’elles concernent les aéronefs.
+Les principales prescriptions d’utilisation de l’aérodrome sont publiées dans l’AIP. En font notamment partie les prescriptions visées à l’art. 23, let. b, c et d, pour autant qu’elles concernent les aéronefs.
 
 [^25a-1]: Introduit par le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 15 mars 2008 ([RO 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
@@ -510,17 +510,20 @@ La demande d’approbation des plans, accompagnée des documents nécessaires, d
 - h. la démonstration que les exigences de la sécurité de l’aviation sont remplies;
 - i. les modifications éventuelles du règlement d’exploitation qui sont en relation avec le projet, ainsi que les documents visés à l’art. 24;
 - j. le cas échéant, les motifs s’il est prévu de renoncer au marquage sur le terrain;
-- k. les données indiquant la façon dont les exigences découlant des autres dispositions fédérales et cantonales applicables sont remplies.[^27abis-3]
+- k. les données indiquant la façon dont les exigences découlant des autres dispositions fédérales et cantonales applicables sont remplies;
+- l.[^27abis-3] pour les projets situés hors de la zone à bâtir: des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^27abis-4], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art 25*a*, al. 2, OAT.[^27abis-5]
 
-<sup>2</sup> Si des expropriations sont nécessaires, il faut compléter la demande par les documents visés à l’art. 28 de la loi fédérale du 20 juin 1930 sur l’expropriation[^27abis-4].[^27abis-5]
+<sup>2</sup> Si des expropriations sont nécessaires, il faut compléter la demande par les documents visés à l’art. 28 de la loi fédérale du 20 juin 1930 sur l’expropriation[^27abis-6].[^27abis-7]
 
 <sup>3</sup> Les demandes doivent être déposées par l’exploitant de l’aérodrome ou par celui de l’installation de navigation aérienne concernée.
 
 [^27abis-1]: Anciennement art. 27*a*.
-[^27abis-2]: [RS 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
-[^27abis-3]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^27abis-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^27abis-5]: Nouvelle teneur selon le ch. I 6 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^27abis-2]: [RS 814.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9523)
+[^27abis-3]: Introduite par l’annexe ch. 12 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27abis-4]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^27abis-5]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^27abis-6]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^27abis-7]: Nouvelle teneur selon le ch. I 6 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 27a<sup>ter</sup>
 
@@ -555,13 +558,21 @@ L’autorité peut renoncer à faire marquer le projet sur le terrain de l’aé
 
 #### Art. 27b<sup>bis</sup>
 
-**Annonces au service cantonal du cadastre**[^27bbis-1]
+**Devoirs d’annonce**[^27bbis-1]
 
-<sup>1</sup> L’OFAC informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+<sup>1</sup> L’OFAC informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
 
-<sup>2</sup> L’exploitant de l’aérodrome doit informer ce service dans un délai de 20 jours de toute modification de ses constructions et installations rendant nécessaire une mise à jour de la mensuration officielle.
+<sup>2</sup>
 
-[^27bbis-1]: Introduit par l’annexe ch. 16 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, l’exploitant de l’aérodrome informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, l’exploitant de l’aérodrome transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 11, let. g, sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^27bbis-2].
+
+[^27bbis-1]: Introduit par l’annexe ch. 16 de l’O du 23 août 2023 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nouvelle teneur selon l’annexe ch. 12 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27bbis-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27c
 
@@ -703,7 +714,7 @@ L’al. 1 ne s’applique pas aux projets de construction:
 L’organisation et l’exploitation des services d’assistance en escale sont régies par la directive européenne 96/67/CE[^29a-2].
 
 [^29a-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^29a-2]: Directive européenne 96/67/CE du 15 octobre 1996 relative à l’accès au marché de l’assistance en escale dans les aéroports de la Communauté dans la version qui lie la Suisse en vertu de l’annexe ch. 1 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^29a-2]: Directive européenne 96/67/CE du 15 octobre 1996 relative à l’accès au marché de l’assistance en escale dans les aéroports de la Communauté dans la version qui lie la Suisse en vertu de l’annexe ch. 1 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 
 #### Art. 29b
 
@@ -780,7 +791,7 @@ L’organisation et l’exploitation des services d’assistance en escale sont 
 
 <sup>5</sup> Lorsque des indices donnent à penser qu’un membre d’équipage se trouve sous l’emprise d’alcool ou sous l’influence de narcotiques ou de substances psychotropes, le chef d’aérodrome ordonne les examens appropriés. Il fait immédiatement appel à la police. L’exécution des mesures est régie par les art. 38 ss de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^29g-1].[^29g-2]
 
-[^29g-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^29g-1]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 [^29g-2]: Nouvelle teneur selon le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
 #### Art. 29h
@@ -799,9 +810,9 @@ L’organisation et l’exploitation des services d’assistance en escale sont 
 
 <sup>1</sup> Le chef d’aérodrome examine les demandes de prorogation des licences du personnel navigant et du personnel au sol, et atteste de leur exactitude conformément aux directives de l’OFAC.
 
-<sup>2</sup> Il prélève les taxes y afférentes conformément à l’ordonnance du 28 septembre 2007 sur les émoluments de l’Office fédéral de l'aviation civile[^29i-1].
+<sup>2</sup> Il prélève les taxes y afférentes conformément à l’ordonnance du 28 septembre 2007 sur les émoluments de l’Office fédéral de l’aviation civile[^29i-1].
 
-[^29i-1]: [RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)
+[^29i-1]: [RS 748.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9040)
 
 ### Chapitre 2 Utilisation civile d’aérodromes militaires
 
@@ -872,7 +883,7 @@ L’organisation et l’exploitation des services d’assistance en escale sont 
 
 [^31-1]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
-### Chapitre 3 ...
+### Chapitre 3 …
 
 #### Art. 32 à 35
 
@@ -1003,7 +1014,7 @@ L’OFAC peut autoriser temporairement des décollages et des atterrissages d’
 [^39d-3]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 [^39d-4]: Introduit par le ch. I 2 de l’O du 4 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
-### Section 3 ...
+### Section 3 …
 
 #### Art. 40 à 47
 
@@ -1011,7 +1022,7 @@ L’OFAC peut autoriser temporairement des décollages et des atterrissages d’
 
 [^4047-1]: Abrogée par l’appendice ch. 2 de l’O du 12 avr. 2000, avec effet au 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
-## Titre 3 ...
+## Titre 3 …
 
 #### Art. 48 et 49
 
@@ -1028,7 +1039,7 @@ L’OFAC peut autoriser temporairement des décollages et des atterrissages d’
 Les atterrissages en campagne sont régis par l’ordonnance du 14 mai 2014 sur les atterrissages en campagne[^50-2].
 
 [^50-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^50-2]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
+[^50-2]: [RS 748.132.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9082)
 
 #### Art. 51 à 53
 
@@ -1098,7 +1109,7 @@ Les dispositions du présent titre s’appliquent à moins que la législation e
 
 <sup>3</sup> L’OFAC peut conclure avec des autorités étrangères des accords concernant le levé, la collecte et la saisie des données de terrain et des obstacles à la navigation aérienne, ainsi que leur actualisation et leur gestion. L’Office fédéral de la topographie doit être associé aux négociations portant sur les accords.
 
-[^58b-1]: Introduit par le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^58b-1]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 59
 
@@ -1412,7 +1423,7 @@ Est puni conformément à l’art. 91, al. 1, let. i, LA quiconque:
 
 **Modification du droit en vigueur**
 
-...[^74-1]
+…[^74-1]
 
 [^74-1]: La mod. peut être consultée au [RO 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050).
 
@@ -1439,7 +1450,7 @@ Est puni conformément à l’art. 91, al. 1, let. i, LA quiconque:
 <sup>4</sup> L’obligation de levé des obstacles à la navigation aérienne en cas de construction ou de modification d’obstacles aux abords des pistes ou des voies de circulation (zone 3 conformément à l’annexe 15 de l’OACI), à laquelle sont soumis les exploitants d’aérodromes conformément l’art. 66*b,* s’appliquera à partir du 1<sup>er</sup> novembre 2010. Les obstacles érigés avant cette date doivent également faire l’objet d’ici au 1<sup>er</sup> novembre 2010 d’un levé conformément aux nouvelles exigences.
 
 [^74b-1]: Introduit par le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 15 mars 2008 ([RO 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^74b-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^74b-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 74c
 

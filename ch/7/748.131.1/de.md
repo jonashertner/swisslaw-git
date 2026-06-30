@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 1994 über die Infrastruktur der Luftfahrt (V
 short: VIL
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: de
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/de"
 
 (VIL)
 
-vom 23. November 1994 (Stand am 1. Januar 2024)
+vom 23. November 1994 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 3 Absatz 3, 6*a*, 8 Absätze 2 und 6, 12 Absätze 1 un
 
 verordnet:
 
-[^ingress-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^ingress-1]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -36,7 +36,7 @@ verordnet:
 
 Diese Verordnung regelt den Bau von Infrastrukturanlagen der Luftfahrt (Flugplätze und Flugsicherungsanlagen) und den Betrieb von Flugplätzen. Sie enthält zudem die Bestimmungen über die Aussenlandungen[^1-1] und die Luftfahrthindernisse.
 
-[^1-1]: Zu den Aussenlandungen siehe auch die Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ([SR 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)).
+[^1-1]: Zu den Aussenlandungen siehe auch die Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ([SR 748.132.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9082)).
 
 #### Art. 2
 
@@ -63,10 +63,10 @@ In dieser Verordnung bedeuten:
 [^2-1]: Fassung gemäss Ziff. I 2 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 [^2-2]: Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^2-3]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^2-4]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^2-4]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^2-5]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^2-6]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^2-7]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^2-7]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^2-8]: Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^2-9]: Aufgehoben durch Anhang Ziff. 5 der Aussenlandeverordnung vom 14. Mai 2014, mit Wirkung seit 1. Sept. 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
@@ -83,7 +83,7 @@ In dieser Verordnung bedeuten:
 <sup>4</sup> Die Normen und Empfehlungen der ICAO sowie die zugehörigen technischen Vorschriften werden in der amtlichen Sammlung nicht publiziert. Sie können beim BAZL in französischer und englischer Sprache eingesehen werden; sie werden nicht ins Deutsche und Italienische übersetzt.[^3-3]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^3-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^3-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^3-3]: Diese Dokumente können bei der ICAO bestellt oder abonniert werden.
 
 #### Art. 3a
@@ -110,7 +110,7 @@ In dieser Verordnung bedeuten:
 
 [^3b-1]: Eingefügt durch Ziff. II 6 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^3b-2]: Eingefügt durch Ziff. I der V vom 13. Febr. 2008, in Kraft seit 15. März 2008 ([AS 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^3b-3]: [[AS 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 5. [AS 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)Art. 52]. Siehe heute: die V vom 28. Sept. 2007 ([SR 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)).
+[^3b-3]: [[AS 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 5. [AS 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)Art. 52]. Siehe heute: die V vom 28. Sept. 2007 ([SR 748.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9040)).
 
 ## 2. Titel: Flugplätze
 
@@ -185,7 +185,7 @@ Die Flugplatzhalter haben auf den folgenden Flugplätzen einen Internetzugang zu
 <sup>2</sup> Untersucht wird, ob die luftfahrtspezifischen Anforderungen im Sinne von Artikel 3 erfüllt werden und geordnete Betriebsabläufe sichergestellt sind. Es werden namentlich die geltenden Sicherheitsabstände zu Pisten, Rollwegen und Abstellflächen sowie die Hindernisfreiheit, die Auswirkungen bezüglich Sicherheitsmassnahmen im Luftverkehr und die Notwendigkeit zur Veröffentlichung im Luftfahrthandbuch (Aeronautical Information Publication; AIP)[^9-2] geprüft.[^9-3]
 
 [^9-1]: Fassung gemäss Ziff. I 2 der V vom 4. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
-[^9-2]: Diese Dokumente können bei Skyguide (aipversand@skyguide.ch) gegen Bezahlung bezogen und beim Bundesamt für Zivilluftfahrt (BAZL), 3003 Bern kostenlos eingesehen werden. AIP-Services, 8602 Wangen b. Dübendorf; www.skyguide.ch &gt; Dienstleistungen &gt; Luftfahrtinformationsdienste.
+[^9-2]: Diese Dokumente können bei Skyguide ( aipversand@skyguide.ch ) gegen Bezahlung bezogen und beim Bundesamt für Zivilluftfahrt (BAZL), 3003 Bern kostenlos eingesehen werden. AIP-Services, 8602 Wangen b. Dübendorf; [www.skyguide.ch](http://www.skyguide.ch) &gt; Dienstleistungen &gt; Luftfahrtinformationsdienste.
 [^9-3]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 9a
@@ -384,7 +384,7 @@ Das Betriebsreglement regelt den Flugplatzbetrieb in allen Belangen. Es enthält
 <sup>3</sup> Für von der Verordnung (EU) Nr. 139/2014 nicht geregelte Teilbereiche gelten die Regelungen der ICAO nach Artikel 23*b*.
 
 [^23a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2008 ([AS 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^23a-2]: Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG, in der für die Schweiz gemäss Anhang Ziff. 3 des Abkommens vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (Luftverkehrsabkommen) jeweils verbindlichen Fassung.
+[^23a-2]: Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG, in der für die Schweiz gemäss Anhang Ziff. 3 des Abkommens vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)) zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (Luftverkehrsabkommen) jeweils verbindlichen Fassung.
 [^23a-3]: Verordnung (EU) Nr. 139/2014 der Kommission vom 12. Februar 2014 zur Festlegung von Anforderungen und Verwaltungsverfahren in Bezug auf Flugplätze gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, , in der für die Schweiz gemäss Anhang Ziff. 3 des Luftverkehrsabkommens jeweils verbindlichen Fassung.
 
 #### Art. 23b
@@ -397,7 +397,7 @@ Das Betriebsreglement regelt den Flugplatzbetrieb in allen Belangen. Es enthält
 
 [^23b-1]: Eingefügt durch Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^23b-2]: Die massgebenden ICAO-Dokumente können beim Bundesamt in französischer und englischer Sprache eingesehen sowie bei der ICAO bestellt oder abonniert werden.
-[^23b-3]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^23b-3]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 23c
 
@@ -426,7 +426,7 @@ Das Gesuch für eine erstmalige Genehmigung oder die Änderung eines Betriebsreg
 - f. den Entwurf der im AIP zu veröffentlichenden Dokumente.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^24-2]: [SR 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
+[^24-2]: [SR 814.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9523)
 
 #### Art. 25
 
@@ -510,17 +510,20 @@ Die für ein Plangenehmigungsgesuch erforderlichen Unterlagen sind in der verlan
 - h. den Nachweis, dass die Anforderungen der Flugsicherheit erfüllt sind;
 - i. allfällige Änderungen des Betriebsreglements, die mit dem Bauvorhaben in Zusammenhang stehen, und die entsprechenden Unterlagen nach Artikel 24;
 - j. falls von einer Aussteckung abgesehen werden soll, eine Begründung;
-- k. Angaben, wie die Anforderungen nach den übrigen anwendbaren Bestimmungen von Bund und Kanton erfüllt werden.[^27abis-3]
+- k. Angaben, wie die Anforderungen nach den übrigen anwendbaren Bestimmungen von Bund und Kanton erfüllt werden;
+- l.[^27abis-3] bei Vorhaben ausserhalb der Bauzonen: Pläne, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^27abis-4] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.[^27abis-5]
 
-<sup>2</sup> Sind Enteignungen notwendig, ist das Gesuch mit den Angaben nach Artikel 28 des Bundesgesetzes über die Enteignung vom 20. Juni 1930[^27abis-4] zu ergänzen.[^27abis-5]
+<sup>2</sup> Sind Enteignungen notwendig, ist das Gesuch mit den Angaben nach Artikel 28 des Bundesgesetzes über die Enteignung vom 20. Juni 1930[^27abis-6] zu ergänzen.[^27abis-7]
 
 <sup>3</sup> Plangenehmigungsgesuche sind vom Flugplatzhalter oder vom Betreiber der entsprechenden Flugsicherungsanlage einzureichen.
 
 [^27abis-1]: Ursprünglich: Art. 27*a*.
-[^27abis-2]: [SR 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
-[^27abis-3]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^27abis-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^27abis-5]: Fassung gemäss Ziff. I 6 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^27abis-2]: [SR 814.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9523)
+[^27abis-3]: Eingefügt durch Anhang Ziff. 12 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27abis-4]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^27abis-5]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^27abis-6]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^27abis-7]: Fassung gemäss Ziff. I 6 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 27a<sup>ter</sup>
 
@@ -555,13 +558,21 @@ Von der Aussteckung von Bauvorhaben auf dem Flugplatz ist abzusehen, wenn durch 
 
 #### Art. 27b<sup>bis</sup>
 
-**Meldungen an die kantonale Vermessungsaufsicht**[^27bbis-1]
+**Meldepflichten**[^27bbis-1]
 
-<sup>1</sup> Das BAZL informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+<sup>1</sup> Das BAZL informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
 
-<sup>2</sup> Der Flugplatzhalter muss diese Stelle innert 20 Tagen über Änderungen seiner Bauten und Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>2</sup>
 
-[^27bbis-1]: Eingefügt durch Anhang Ziff. 16 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert der Flugplatzhalter das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt der Flugplatzhalter gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 27*a*<sup>bis</sup> Absatz 1 Buchstabe l in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^27bbis-2] zuständig ist.
+
+[^27bbis-1]: Eingefügt durch Anhang Ziff. 16 der V vom 23. Aug. 2023 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Fassung gemäss Anhang Ziff. 12 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27bbis-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27c
 
@@ -699,7 +710,7 @@ Absatz 1 findet keine Anwendung auf Bauvorhaben:
 Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flughäfen gilt die Richtlinie 96/67/EG[^29a-2].
 
 [^29a-1]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^29a-2]: Richtlinie 96/67/EG vom 15. Oktober 1996 über den Zugang zum Markt der Bodenabfertigungsdienste auf den Flughäfen der Gemeinschaft, in der für die Schweiz gemäss Ziff. 1 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^29a-2]: Richtlinie 96/67/EG vom 15. Oktober 1996 über den Zugang zum Markt der Bodenabfertigungsdienste auf den Flughäfen der Gemeinschaft, in der für die Schweiz gemäss Ziff. 1 des Anhangs zum Luftverkehrsabkommen ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)) jeweils verbindlichen Fassung.
 
 #### Art. 29b
 
@@ -776,7 +787,7 @@ Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flugh
 
 <sup>5</sup> Bestehen bei einem Besatzungsmitglied Anzeichen für eine Angetrunkenheit oder bestehen Anzeichen, dass es unter dem Einfluss von Betäubungsmitteln oder psychotropen Substanzen steht, so ordnet der Flugplatzleiter oder die Flugplatzleiterin geeignete Untersuchungen an. Er oder sie zieht unverzüglich die Polizei bei. Die Durchführung der Massnahmen richtet sich nach den Artikeln 38 ff. der Luftfahrtverordnung vom 14. November 1973[^29g-1].[^29g-2]
 
-[^29g-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^29g-1]: [SR 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 [^29g-2]: Fassung gemäss Ziff. II der vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
 #### Art. 29h
@@ -797,7 +808,7 @@ Für die Organisation und den Betrieb der Bodenabfertigungsdienste auf den Flugh
 
 <sup>2</sup> Er oder sie erhebt dabei die Gebühren gemäss der Verordnung vom 28. September 2007[^29i-1] über die Gebühren des Bundesamtes für Zivilluftfahrt.
 
-[^29i-1]: [SR 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)
+[^29i-1]: [SR 748.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9040)
 
 ### 2. Kapitel: Zivile Nutzung von Militärflugplätzen
 
@@ -1024,7 +1035,7 @@ Das BAZL kann vorübergehend Starts und Landungen von Luftfahrzeugen zwischen 22
 Für Aussenlandungen gilt die Aussenlandeverordnung vom 14. Mai 2014[^50-2].
 
 [^50-1]: Fassung gemäss Anhang Ziff. 5 der Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^50-2]: [SR 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
+[^50-2]: [SR 748.132.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9082)
 
 #### Art. 51–53
 
@@ -1435,7 +1446,7 @@ Nach Artikel 91 Absatz 1 Buchstabe i LFG wird bestraft, wer:
 <sup>4</sup> Die Vermessungspflicht der Flugplatzhalter nach Artikel 66*b* für die Errichtung und die Änderung von Luftfahrthindernissen in Pisten- und Rollwegnähe (Area 3 gemäss ICAO-Anhang 15) gilt ab 1. November 2010. Hindernisse, welche vor diesem Datum errichtet wurden, müssen bis zu diesem Zeitpunkt ebenfalls nach den neuen Anforderungen vermessen werden.
 
 [^74b-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2008, in Kraft seit 15. März 2008 ([AS 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^74b-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^74b-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 74c
 

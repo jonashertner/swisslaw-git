@@ -4,11 +4,11 @@ title: "Ordinanza del 23 novembre 1994 sull'infrastruttura aeronautica (OSIA)"
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: it
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20240101/it"
 
 (OSIA)
 
-del 23 novembre 1994 (Stato 1° gennaio 2024)
+del 23 novembre 1994 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 3 capoverso 3, 6*a*, 8 capoversi 2 e 6, 12 capoversi 1 e 2, 3
 
 ordina:
 
-[^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ## Titolo primo: Disposizioni generali
 
@@ -36,7 +36,7 @@ ordina:
 
 La presente ordinanza disciplina la costruzione di infrastrutture aeronautiche (aerodromi e impianti della navigazione aerea) e l’esercizio degli aerodromi. Contiene inoltre le disposizioni applicabili agli atterraggi esterni[^1-1] e agli ostacoli alla navigazione aerea.
 
-[^1-1]: Per gli atterraggi esterni vedi anche l’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)).
+[^1-1]: Per gli atterraggi esterni vedi anche l’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RS 748.132.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9082)).
 
 #### Art. 2
 
@@ -60,13 +60,13 @@ Nella presente ordinanza s’intendono per:
 - [tab] p. e q.[^2-8] *...*
 - r. *area d’atterraggio in montagna:* area d’atterraggio, appositamente designata, situata a un’altitudine superiore a 1100 m.
 
-[^2-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
-[^2-2]: Abrogate dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^2-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^2-5]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^2-6]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^2-7]: Abrogata dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^2-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^2-2]: Abrogate dalla cifra I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^2-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^2-5]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^2-6]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
+[^2-7]: Abrogata dalla cifra I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^2-8]: Abrogate dall’all. n. 5 dell’O del 14 mag. 2014 sugli atterraggi esterni, con effetto dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
 
 #### Art. 3
@@ -81,8 +81,8 @@ Nella presente ordinanza s’intendono per:
 
 <sup>4</sup> Le norme e le raccomandazioni dell’OACI nonché le relative prescrizioni tecniche non sono pubblicate nella Raccolta ufficiale. Possono essere consultate presso l’UFAC in francese ed inglese; non sono tradotte né in italiano né in tedesco[^3-3].
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^3-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^3-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^3-3]: È possibile ordinare oppure abbonarsi a questi documenti presso l’OACI.
 
 #### Art. 3a
@@ -93,7 +93,7 @@ Nella presente ordinanza s’intendono per:
 
 <sup>2</sup> Il PSIA definisce per ogni installazione aeronautica che serve all’esercizio civile di aeromobili in particolare l’obiettivo, l’area richiesta, le grandi linee di utilizzo, le infrastrutture e le condizioni d’esercizio generali. Descrive inoltre i suoi effetti sulla pianificazione del territorio e sull’ambiente.
 
-[^3a-1]: Introdotto dal n. II 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)). Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^3a-1]: Introdotto dalla cifra II n. 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)). Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 3b
 
@@ -107,9 +107,9 @@ Nella presente ordinanza s’intendono per:
 
 <sup>3</sup> Per le prestazioni e le decisioni relative alla sorveglianza, l’esercente dell’aerodromo paga le tasse fissate nell’ordinanza del 25 settembre 1989[^3b-3] sulle tasse dell’Ufficio federale dell’aviazione civile (OTA) .
 
-[^3b-1]: Introdotto dal n. II 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^3b-2]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^3b-3]: [[RU 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206)e [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 5. [RU 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)art. 52]. Vedi ora l’O del 28 set. 2007 sugli emolumenti dell’Ufficio federale dell’aviazione civile ([RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)**).**
+[^3b-1]: Introdotto dalla cifra II n. 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^3b-2]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^3b-3]: [[RU 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)cifra II n. 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206)e [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 5. [RU 2007 5101](https://fedlex.data.admin.ch/eli/oc/2007/720)art. 52]. Vedi ora l’O del 28 set. 2007 sugli emolumenti dell’Ufficio federale dell’aviazione civile ([RS 748.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9040)**).**
 
 ## Titolo secondo: Aerodromi
 
@@ -117,7 +117,7 @@ Nella presente ordinanza s’intendono per:
 
 [^tit2-chap1-1]
 
-[^tit2-chap1-1]: Nuovo testo giusta il n. II 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^tit2-chap1-1]: Nuovo testo giusta la cifra II n. 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ### Sezione 1: Disposizioni comuni
 
@@ -173,7 +173,7 @@ Nei seguenti aerodromi gli esercenti devono mettere a disposizione un accesso In
 
 <sup>4</sup> L’esercente dell’aerodromo indennizza il fornitore dell’applicazione per la preparazione del volo per i servizi di supporto.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 9
 
@@ -183,9 +183,9 @@ Nei seguenti aerodromi gli esercenti devono mettere a disposizione un accesso In
 
 <sup>2</sup> L’UFAC verifica se sono soddisfatte le esigenze specifiche della navigazione aerea ai sensi dell’articolo 3 e se sono garantite procedure d’esercizio razionali. Esso controlla segnatamente le distanze di sicurezza dalle piste, le vie di rullaggio e le aree di stazionamento nonché l’assenza di ostacoli, gli effetti relativi alle misure di sicurezza nella navigazione aerea e la necessità di inserire i dati nella Pubblicazione di informazioni aeronautiche (Aeronautical Information Publication, AIP)[^9-2].[^9-3]
 
-[^9-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^9-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 [^9-2]: Questi documenti possono essere richiesti, a pagamento, a Skyguide (aipversand@skyguide.ch) e consultati gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), 3003 Berna AIP-Services, 8602 Wangen b. Dübendorf; www.skyguide.ch &gt; Services &gt; Aeronautical information management.
-[^9-3]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 9a
 
@@ -195,7 +195,7 @@ Nei seguenti aerodromi gli esercenti devono mettere a disposizione un accesso In
 
 <sup>2</sup> L’UFAC disciplina, attraverso direttive, i dettagli, in particolare per quanto riguarda la qualità dei dati da fornire.
 
-[^9a-1]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 ### Sezione 2: Concessione per l’esercizio
 
@@ -223,9 +223,9 @@ Chiunque voglia ottenere una concessione per l’esercizio deve presentare una d
 
 <sup>2</sup> L’autorità che rilascia la concessione può chiedere dati dettagliati riguardanti la garanzia del finanziamento se sussistono dubbi fondati sulla capacità del richiedente di finanziare impianto ed esercizio dell’aeroporto.
 
-[^11-1]: Nuova espr. giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^11-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^11-1]: Nuova espr. giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 12
 
@@ -271,7 +271,7 @@ Il trasferimento di determinati compiti a terzi da parte dell’esercente dell�
 
 <sup>2</sup> Se non si pronuncia in merito al trasferimento entro 30 giorni, l’UFAC perde il diritto di sollevare obiezioni.[^15-1]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 #### Art. 16
 
@@ -311,7 +311,7 @@ Chiunque voglia ottenere un’autorizzazione d’esercizio o una sua modifica de
 - b. fornire la prova che il richiedente dispone delle conoscenze, delle capacità e dei mezzi necessari per esercitare un aeroporto nel rispetto degli obblighi derivanti dalla concessione, dal regolamento d’esercizio e dalla legge;
 - c. includere il regolamento d’esercizio e i documenti di cui all’articolo 24.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 19
 
@@ -353,7 +353,7 @@ La durata dell’autorizzazione d’esercizio è illimitata. Tuttavia l’UFAC l
 
 <sup>2</sup> Sono salve le misure secondo l’articolo 3*b* capoverso 2.
 
-[^22-1]: Introdotta dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^22-1]: Introdotta dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Sezione 4: Regolamento d’esercizio
 
@@ -369,7 +369,7 @@ Il regolamento d’esercizio disciplina l’esercizio dell’aerodromo in tutti 
 - d. l’utilizzazione degli impianti dell’aerodromo da parte dei passeggeri, degli aeromobili e dei veicoli terrestri nonché di altri utenti;
 - e.[^23-1] i servizi di assistenza a terra.
 
-[^23-1]: Introdotta dal n. I dell’O del 30 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1186](https://fedlex.data.admin.ch/eli/oc/2002/197)).
+[^23-1]: Introdotta dalla cifra I dell’O del 30 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1186](https://fedlex.data.admin.ch/eli/oc/2002/197)).
 
 #### Art. 23a
 
@@ -381,8 +381,8 @@ Il regolamento d’esercizio disciplina l’esercizio dell’aerodromo in tutti 
 
 <sup>3</sup> Per i sottosettori che non sono disciplinati dal regolamento (UE) n. 139/2014 si applicano le regolamentazioni dell’OACI di cui all’articolo 23*b*.
 
-[^23a-1]: Introdotto dal n. I dell’O del 13. feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^23a-2]: Regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio del 20 febbraio 2008 recante regole comuni nel settore dell’aviazione civile e che istituisce un’Agenzia europea per la sicurezza aerea, e che abroga la direttiva 91/670/CEE del Consiglio, il regolamento (CE) n. 1592/2002 e la direttiva 2004/36/CE, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato dell’Accordo del 21 giugno 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo (Accordo sul trasporto aereo).
+[^23a-1]: Introdotto dalla cifra I dell’O del 13. feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^23a-2]: Regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio del 20 febbraio 2008 recante regole comuni nel settore dell’aviazione civile e che istituisce un’Agenzia europea per la sicurezza aerea, e che abroga la direttiva 91/670/CEE del Consiglio, il regolamento (CE) n. 1592/2002 e la direttiva 2004/36/CE, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato dell’Accordo del 21 giugno 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)) tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo (Accordo sul trasporto aereo).
 [^23a-3]: Regolamento (UE) n. 139/2014 della Commissione, del 12 febbraio 2014, che stabilisce i requisiti tecnici e le procedure amministrative relativi agli aeroporti ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato dell’Accordo sul trasporto aereo.
 
 #### Art. 23b
@@ -393,9 +393,9 @@ Il regolamento d’esercizio disciplina l’esercizio dell’aerodromo in tutti 
 
 <sup>2</sup> Il certificato rilasciato ha una durata temporale illimitata. L’UFAC verifica periodicamente, conformemente al documento OACI 9981 «PANS-Aerodromes», il rispetto delle condizioni richieste per l’ottenimento del certificato secondo il principio della sorveglianza basata sul rischio e sulla prestazione. In caso di mancato adempimento il certificato può essere revocato.
 
-[^23b-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^23b-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 [^23b-2]: I corrispondenti documenti OACI possono essere consultati in lingua francese e inglese presso l’Ufficio federale; è inoltre possibile ordinarli oppure abbonarsi presso l’OACI.
-[^23b-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^23b-3]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 23c
 
@@ -407,8 +407,8 @@ Il regolamento d’esercizio disciplina l’esercizio dell’aerodromo in tutti 
 
 <sup>3</sup> Per i sottosettori che non possono essere disciplinati analogamente al regolamento (UE) n. 139/2014 si applicano le regolamentazioni dell’OACI di cui all’articolo 23*b*.
 
-[^23c-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^23c-2]: Regolamento (UE) n. 139/2014 della Commissione, del 12 febbraio 2014, che stabilisce i requisiti tecnici e le procedure amministrative relativi agli aeroporti ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato dell’Accordo sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^23c-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^23c-2]: Regolamento (UE) n. 139/2014 della Commissione, del 12 febbraio 2014, che stabilisce i requisiti tecnici e le procedure amministrative relativi agli aeroporti ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato dell’Accordo sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 
 #### Art. 24
 
@@ -423,8 +423,8 @@ La domanda per ottenere un’approvazione iniziale o la modifica di un regolamen
 - e. per gli aeroporti: progetto per le zone di sicurezza da modificare;
 - f. bozza dei documenti da pubblicare nell’AIP.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^24-2]: [RS 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^24-2]: [RS 814.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9523)
 
 #### Art. 25
 
@@ -443,11 +443,11 @@ Il regolamento d’esercizio e le sue modifiche sono approvati se:
 
 <sup>2</sup> Una volta approvato, il regolamento d’esercizio diventa vincolante.[^25-5]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^25-2]: Abrogata dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^25-3]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^25-4]: Introdotta dal n. I dell’O del 13 feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^25-5]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^25-2]: Abrogata dalla cifra I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^25-4]: Introdotta dalla cifra I dell’O del 13 feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^25-5]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 #### Art. 25a
 
@@ -455,7 +455,7 @@ Il regolamento d’esercizio e le sue modifiche sono approvati se:
 
 Le principali prescrizioni concernenti l’uso dell’aerodromo sono pubblicate nell’AIP. Fra esse figurano, in particolare, le prescrizioni di cui all’articolo 23 lettere b, c, d, nella misura in cui riguardano gli aeromobili.
 
-[^25a-1]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^25a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 #### Art. 26
 
@@ -469,7 +469,7 @@ Se i cambiamenti della situazione di diritto o di fatto lo esigono, l’UFAC dis
 
 Il servizio del controllo della circolazione aerea o il capo dell’aerodromo può prescrivere deroghe temporanee alle procedure operative pubblicate nell’AIP qualora circostanze particolari lo esigano, segnatamente la situazione del traffico o la sicurezza dell’aviazione.
 
-[^27-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^27-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 ### Sezione 5: Procedura d’approvazione dei piani
 
@@ -481,7 +481,7 @@ Il servizio del controllo della circolazione aerea o il capo dell’aerodromo pu
 
 <sup>2</sup> È fatto salvo l’articolo 28.
 
-[^27a-1]: Introdotto dal n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^27a-1]: Introdotto dalla cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 27a<sup>bis</sup>
 
@@ -508,17 +508,20 @@ I documenti da allegare alla domanda d’approvazione dei piani devono essere pr
 - h. la prova che le esigenze della sicurezza aerea sono adempite;
 - i. eventuali modifiche del regolamento d’esercizio che sono in relazione al progetto di costruzione e i documenti corrispondenti secondo l’articolo 24;
 - j. i motivi di una eventuale rinuncia a una modinatura;
-- k. dati indicanti il modo in cui le esigenze derivanti dalle restanti disposizioni federali e cantonali sono soddisfatte.[^27abis-3]
+- k. dati indicanti il modo in cui le esigenze derivanti dalle restanti disposizioni federali e cantonali sono soddisfatte;
+- l.[^27abis-3] per i progetti fuori delle zone edificabili: i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^27abis-4] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.[^27abis-5]
 
-<sup>2</sup> Se sono necessarie espropriazioni, la domanda deve essere completata con i dati di cui all’articolo 28 della legge federale del 20 giugno 1930[^27abis-4] sull’espropriazione.[^27abis-5]
+<sup>2</sup> Se sono necessarie espropriazioni, la domanda deve essere completata con i dati di cui all’articolo 28 della legge federale del 20 giugno 1930[^27abis-6] sull’espropriazione.[^27abis-7]
 
 <sup>3</sup> Le domande d’approvazione dei piani devono essere depositate dall’esercente dell’aerodromo o del relativo impianto della navigazione aerea.
 
-[^27abis-1]: Originario art. 27*a*
-[^27abis-2]: [RS 814.41](https://fedlex.data.admin.ch/eli/cc/1987/338_338_338)
-[^27abis-3]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^27abis-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^27abis-5]: Nuovo testo giusta il n. I 6 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^27abis-1]: Originario art. 27*a.*
+[^27abis-2]: [RS 814.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9523)
+[^27abis-3]: Introdotta dall’appendice n. 12 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27abis-4]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^27abis-5]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^27abis-6]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^27abis-7]: Nuovo testo giusta la cifra I n. 6 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 27a<sup>ter</sup>
 
@@ -543,7 +546,7 @@ Progetti di costruzione o modifiche edili previsti possono essere sottoposti all
 
 <sup>2</sup> L’UFAC comunica ai richiedenti il risultato dell’esame preliminare.
 
-[^27ater-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^27ater-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art 27b
 
@@ -553,13 +556,21 @@ Si deve rinunciare alla modinatura del progetto di costruzione sul terreno dell�
 
 #### Art. 27b<sup>bis</sup>
 
-**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^27bbis-1]
+**Obblighi di notifica**[^27bbis-1]
 
-<sup>1</sup> L’UFAC informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+<sup>1</sup> L’UFAC informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
 
-<sup>2</sup> L’esercente dell’aerodromo è tenuto a informare tale servizio entro un termine di 20 giorni in merito alle modifiche di sue costruzioni e suoi impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+<sup>2</sup>
 
-[^27bbis-1]: Introdotto dall’all. n. 16 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, l’esercente dell’aerodromo è tenuto a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, l’esercente dell’aerodromo trasmette sotto forma di geodati i piani di cui all’articolo 27*a*<sup>bis</sup> capoverso 1 lettera l approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^27bbis-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^27bbis-1]: Introdotto dall’all. n. 16 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nuovo testo giusta l’appendice n. 12 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27bbis-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 27c
 
@@ -582,7 +593,7 @@ I piani sono approvati se il progetto:
 
 <sup>2</sup> Le domande formulate in base al diritto cantonale si devono prendere in considerazione sempreché l’esercizio o la costruzione dell’aerodromo non ne siano limitati in modo sproporzionato.
 
-[^27d-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^27d-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 27e
 
@@ -635,7 +646,7 @@ Le domande intese a stabilire zone riservate devono:
 
 [^tit2-chap1-sec6-1]
 
-[^tit2-chap1-sec6-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^tit2-chap1-sec6-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 28
 
@@ -669,11 +680,11 @@ Il capoverso 1 non si applica ai progetti di costruzione:
 
 <sup>6</sup> Non sono necessarie autorizzazioni e piani cantonali. L’esercente dell’aerodromo tiene conto del diritto cantonale nella misura in cui esso non limita in maniera sproporzionata la costruzione e l’esercizio dell’aerodromo.[^28-5]
 
-[^28-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
-[^28-2]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^28-3]: Introdotto dal n. I dell’O del 13 feb. 2008 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
-[^28-4]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^28-5]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^28-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^28-2]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^28-3]: Introdotto dalla cifra I dell’O del 13 feb. 2008 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^28-4]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^28-5]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 #### Art. 29
 
@@ -685,14 +696,14 @@ Il capoverso 1 non si applica ai progetti di costruzione:
 
 <sup>3</sup> L’UFAC controlla se si tratta di un impianto d’aerodromo o di un impianto accessorio, e comunica all’autorità cantonale, entro dieci giorni lavorativi dopo aver ricevuto la documentazione completa, se intende sottoporre il progetto a un esame specifico della navigazione aerea. In questo caso, la licenza edilizia può essere rilasciata solo dopo la conclusione di tale esame da parte dell’UFAC.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^29-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Sezione 7: Servizi di assistenza a terra
 
 [^tit2-chap1-sec7-1]
 
-[^tit2-chap1-sec7-1]: Introdotta dal n. I dell’O del 30 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1186](https://fedlex.data.admin.ch/eli/oc/2002/197)).
+[^tit2-chap1-sec7-1]: Introdotta dalla cifra I dell’O del 30 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1186](https://fedlex.data.admin.ch/eli/oc/2002/197)).
 
 #### Art. 29a
 
@@ -700,8 +711,8 @@ Il capoverso 1 non si applica ai progetti di costruzione:
 
 Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la Direttiva 96/67/CE[^29a-2].
 
-[^29a-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^29a-2]: Direttiva 96/67/CE, del 15 ottobre 1996, relativa all’accesso al mercato dei servizi di assistenza a terra negli aeroporti della Comunità, nella versione vincolante per la Svizzera conformemente al numero 1 dell’allegato dell’Accordo sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^29a-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^29a-2]: Direttiva 96/67/CE, del 15 ottobre 1996, relativa all’accesso al mercato dei servizi di assistenza a terra negli aeroporti della Comunità, nella versione vincolante per la Svizzera conformemente al numero 1 dell’allegato dell’Accordo sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 
 #### Art. 29b
 
@@ -714,13 +725,13 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 <sup>3</sup> Il DATEC può sottoporre l’attività di un prestatore di servizio o di un utente che pratica l’autoassistenza all’obbligo di autorizzazione ai sensi dell’articolo 14 della Direttiva 96/67/CE del Consiglio del 15 ottobre 1996.
 
 [^29b-1]: Vedi nota a piè di pagina all’art. 29*a.*
-[^29b-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^29b-2]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Sezione 8: Capo d’aerodromo
 
 [^tit2-chap1-sec8-1]
 
-[^tit2-chap1-sec8-1]: Introdotta dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^tit2-chap1-sec8-1]: Introdotta dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 #### Art. 29c
 
@@ -734,7 +745,7 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>4</sup> Il DATEC può disciplinare i dettagli.
 
-[^29c-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^29c-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 29d
 
@@ -778,8 +789,8 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>5</sup> Se vi sono indizi che un membro dell’equipaggio si trova in stato di ebrietà o sotto l’influsso di narcotici o sostanze psicotrope, il capo d’aerodromo ordina analisi adeguate e chiede immediatamente l’intervento della polizia. Lo svolgimento delle misure si basa sugli articoli 38 segg. dell’ordinanza del 14 novembre 1973[^29g-1] sulla navigazione aerea (ONA).[^29g-2]
 
-[^29g-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^29g-2]: Nuovo testo giusta il n. II dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
+[^29g-1]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
+[^29g-2]: Nuovo testo giusta la cifra II dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
 #### Art. 29h
 
@@ -799,13 +810,13 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>2</sup> Riscuote le tasse conformemente all’ordinanza del 28 settembre 2007[^29i-1] sugli emolumenti dell’Ufficio federale dell’aviazione civile.
 
-[^29i-1]: [RS 748.112.11](https://fedlex.data.admin.ch/eli/cc/2007/720)
+[^29i-1]: [RS 748.112.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9040)
 
 ### Capitolo 2: Uso civile di aerodromi militari
 
 [^tit2-chap2-1]
 
-[^tit2-chap2-1]: Originariamente avanti l’art. 29. Nuovo testo giusta il n. II 6 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^tit2-chap2-1]: Originariamente avanti l’art. 29. Nuovo testo giusta la cifra II n. 6 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 30
 
@@ -815,8 +826,8 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>2</sup> I restanti casi sono da ritenersi coutenza occasionale a fini civili.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
-[^30-2]: Terzo per. introdotto dal n. I dell’O del 26 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 207](https://fedlex.data.admin.ch/eli/oc/2023/207)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^30-2]: Terzo per. introdotto dalla cifra I dell’O del 26 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 207](https://fedlex.data.admin.ch/eli/oc/2023/207)).
 
 #### Art. 30a
 
@@ -826,7 +837,7 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>2</sup> L’approvazione dei piani viene rilasciata d’intesa con il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS).
 
-[^30a-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^30a-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 30b
 
@@ -840,7 +851,7 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>4</sup> Nella domanda di autorizzazione del regolamento d’esercizio l’esercente civile dell’aerodromo illustra all’UFAC in che misura l’infrastruttura militare deroga alle prescrizioni sull’infrastruttura civile. In caso di deroghe l’esercente civile dell’aerodromo dimostra che la sicurezza dell’esercizio civile è comunque garantita.
 
-[^30b-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^30b-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 30c
 
@@ -854,7 +865,7 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>4</sup> Le Forze aeree comunicano ogni anno i movimenti di volo civili e militari dell’anno precedente.
 
-[^30c-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^30c-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 31
 
@@ -868,7 +879,7 @@ Per l’organizzazione e l’esercizio dei servizi di assistenza a terra vale la
 
 <sup>4</sup> Indipendentemente dalla portata e dalle conseguenze del cambiamento d’uso, l’UFAC esegue le procedure di cui agli articoli 36*d* e 37*d* LNA.
 
-[^31-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^31-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 ### Capitolo 3: ...
 
@@ -916,7 +927,7 @@ Il regolamento d’esercizio può prevedere restrizioni applicabili ai voli di c
 
 <sup>4</sup> Il numero dei decolli e degli atterraggi fra le ore 22 e le ore 6, nonché i tipi di aeromobili impiegati, devono figurare nella statistica degli aerodromi.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 #### Art. 39a
 
@@ -996,10 +1007,10 @@ L’UFAC può autorizzare temporaneamente decolli e atterraggi di aeromobili fra
 
 <sup>4</sup> L’UFAC informa il pubblico e l’Ufficio federale dell'ambiente in merito ai voli notturni autorizzati conformemente al capoverso 3.[^39d-4]
 
-[^39d-1]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^39d-2]: Introdotto dal n. I dell’O del 22 apr. 2020, in vigore dal 23 apr. al 22 ott. 2020 ([RU 2020 1331](https://fedlex.data.admin.ch/eli/oc/2020/251)).
-[^39d-3]: Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
-[^39d-4]: Introdotto dal n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^39d-1]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^39d-2]: Introdotto dalla cifra I dell’O del 22 apr. 2020, in vigore dal 23 apr. al 22 ott. 2020 ([RU 2020 1331](https://fedlex.data.admin.ch/eli/oc/2020/251)).
+[^39d-3]: Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^39d-4]: Introdotto dalla cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 ### Sezione 3: ...
 
@@ -1015,7 +1026,7 @@ L’UFAC può autorizzare temporaneamente decolli e atterraggi di aeromobili fra
 
 [^4849-1]
 
-[^4849-1]: Abrogati dal n. II 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^4849-1]: Abrogati dalla cifra II n. 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 ## Titolo quarto: Atterraggi esterni
 
@@ -1026,7 +1037,7 @@ L’UFAC può autorizzare temporaneamente decolli e atterraggi di aeromobili fra
 Agli atterraggi esterni si applica l’ordinanza del 14 maggio 2014[^50-2] sugli atterraggi esterni.
 
 [^50-1]: Nuovo testo giusta l’all. n. 5 dell’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^50-2]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
+[^50-2]: [RS 748.132.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9082)
 
 #### Art. 51 a 53
 
@@ -1045,8 +1056,8 @@ Agli atterraggi esterni si applica l’ordinanza del 14 maggio 2014[^50-2] sugli
 <sup>3</sup> Il numero massimo delle aree d’atterraggio in montagna è fissato a 40.[^54-3]
 
 [^54-1]: Nuovo testo giusta l’all. n. 5 dell’O del 14 mag. 2014 sugli atterraggi esterni, in vigore dal 1° set. 2014 ([RU 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^54-2]: Nuovo testo giusta il n. II 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^54-3]: Nuovo testo giusta il n. I dell’O del 21 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4423](https://fedlex.data.admin.ch/eli/oc/2015/733)).
+[^54-2]: Nuovo testo giusta la cifra II n. 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^54-3]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4423](https://fedlex.data.admin.ch/eli/oc/2015/733)).
 
 #### Art. 55
 
@@ -1072,13 +1083,13 @@ Le aree d’atterraggio in prossimità degli ospedali nonché le altre aree d’
 
 [^tit5-1]
 
-[^tit5-1]: Originario avanti l’art. 59. Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^tit5-1]: Originario avanti l’art. 59. Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Capitolo 1: Disposizioni generali
 
 [^tit5-chap1-1]
 
-[^tit5-chap1-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^tit5-chap1-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
 
 #### Art. 58a
 
@@ -1096,7 +1107,7 @@ Le disposizioni del presente titolo si applicano nella misura in cui la legislaz
 
 <sup>3</sup> L’UFAC può prendere accordi con autorità estere in merito al rilevamento e alla misurazione del terreno e degli ostacoli alla navigazione aerea, nonché all’aggiornamento e all’amministrazione dei relativi dati. L’Ufficio federale di topografia viene coinvolto nelle trattative sugli accordi.
 
-[^58b-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^58b-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 59
 
@@ -1104,7 +1115,7 @@ Le disposizioni del presente titolo si applicano nella misura in cui la legislaz
 
 I Cantoni designano servizi di contatto che forniscono supporto all’UFAC per il rilevamento e l’esame dei dati sugli ostacoli alla navigazione aerea.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 59a
 
@@ -1112,7 +1123,7 @@ I Cantoni designano servizi di contatto che forniscono supporto all’UFAC per i
 
 I proprietari di ostacoli alla navigazione aerea con un’altezza compresa tra 25 m e 100 m non devono eseguire nessuna misurazione. Sono fatti salvi i casi di cui all’articolo 65 capoverso 1 lettera b.
 
-[^59a-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^59a-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 60
 
@@ -1128,7 +1139,7 @@ Le autorità cantonali e comunali nonché i proprietari di ostacoli e gli eserce
 
 <sup>2</sup> Esso può incaricare terzi della pubblicazione; in tal caso sorveglia lo svolgimento di queste attività.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 62
 
@@ -1146,31 +1157,31 @@ Le autorità cantonali e comunali nonché i proprietari di ostacoli e gli eserce
 
 <sup>6</sup> Il DATEC può disciplinare i dettagli.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 62a
 
 [^62a-1]
 
-[^62a-1]: Abrogato dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^62a-1]: Abrogato dalla cifra I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Capitolo 2: Obblighi di autorizzazione e di registrazione
 
 [^tit5-chap2-1]
 
-[^tit5-chap2-1]: Originario avanti l’art. 63. Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^tit5-chap2-1]: Originario avanti l’art. 63. Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Sezione 1: Ostacoli alla navigazione aerea sottoposti all’obbligo di autorizzazione
 
 [^tit5-chap2-sec1-1]
 
-[^tit5-chap2-sec1-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^tit5-chap2-sec1-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 62b
 
 [^62b-1]
 
-[^62b-1]: Introdotto dal n. I dell’O del 13 feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Abrogato dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^62b-1]: Introdotto dalla cifra I dell’O del 13 feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Abrogato dalla cifra I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 63
 
@@ -1182,7 +1193,7 @@ Per la costruzione o la modifica delle seguenti categorie di oggetti il propriet
 - b. altre costruzioni e impianti nonché oggetti temporanei quali piloni di misurazione, gru a fune e gru mobili, se raggiungono o superano un’altezza di 100 m;
 - c. costruzioni e impianti nonché vegetazione che attraversano una superficie registrata in un catasto delle superfici di limitazione degli ostacoli o di un piano delle zone di sicurezza. Nel caso di oggetti temporanei, quali in particolare le gru mobili, che attraversano per un massimo di 15 metri una superficie orizzontale o conica registrata in un catasto delle superfici di limitazione degli ostacoli o di un piano delle zone di sicurezza vale solo l’obbligo di registrazione di cui agli articoli 65*a* e 65*b*.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 64
 
@@ -1207,8 +1218,8 @@ Il proprietario invia la sua domanda di autorizzazione all’UFAC. Alla domanda 
 
 <sup>3</sup> Può allestire una piattaforma elettronica per la presentazione delle domande.
 
-[^64-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
-[^64-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^64-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^64-2]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 65
 
@@ -1232,13 +1243,13 @@ L’UFAC, d’intesa con il DDPS, stabilisce, mediante una decisione:
 
 <sup>6</sup> Se nella sua decisione l’UFAC ordina l’adozione di misure di sicurezza, il proprietario deve inoltrare all’Ufficio entro quattro giorni feriali dopo la costruzione dell’ostacolo alla navigazione aerea le foto necessarie per dimostrare l’attuazione di tali misure.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Sezione 2: Ostacoli alla navigazione aerea sottoposti all’obbligo di registrazione
 
 [^tit5-chap2-sec2-1]
 
-[^tit5-chap2-sec2-1]: Introdotta dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^tit5-chap2-sec2-1]: Introdotta dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 65a
 
@@ -1278,7 +1289,7 @@ L’UFAC può esigere che il proprietario, in aggiunta all’articolo 65*a*, eff
 
 [^tit5-chap3-1]
 
-[^tit5-chap3-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^tit5-chap3-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 66
 
@@ -1286,13 +1297,13 @@ L’UFAC può esigere che il proprietario, in aggiunta all’articolo 65*a*, eff
 
 Il proprietario di un ostacolo è responsabile dello stato impeccabile della marcatura prescritta e del buon funzionamento dei segnali luminosi nonché delle ulteriori misure di sicurezza disposte.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 66a e 66b
 
 [^66a66b-1]
 
-[^66a66b-1]: Introdotti dal n. I dell’O del 13 feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Abrogati dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^66a66b-1]: Introdotti dalla cifra I dell’O del 13 feb. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)). Abrogati dalla cifra I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 67
 
@@ -1302,7 +1313,7 @@ Il proprietario di un ostacolo è responsabile dello stato impeccabile della mar
 
 <sup>2</sup> Se si rivela necessario sopprimere del tutto o in parte un impianto, il DATEC può far uso del diritto di espropriazione o trasferirlo a terzi.
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 68
 
@@ -1312,7 +1323,7 @@ Il proprietario di un ostacolo è responsabile dello stato impeccabile della mar
 
 <sup>2</sup> Gli ostacoli eretti per un periodo determinato vanno rimossi entro il termine prescritto e la rimozione va notificata all’UFAC.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 69
 
@@ -1320,7 +1331,7 @@ Il proprietario di un ostacolo è responsabile dello stato impeccabile della mar
 
 Il proprietario di un ostacolo alla navigazione aerea deve informare l’UFAC dell’alienazione o della soppressione di tale ostacolo.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 70
 
@@ -1328,7 +1339,7 @@ Il proprietario di un ostacolo alla navigazione aerea deve informare l’UFAC de
 
 Le spese di misurazione, marcatura, segnalazione luminosa e manutenzione nonché le spese per la rimozione degli impianti fuori servizio sono a carico del proprietario.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ### Capitolo 4: Zone di sicurezza
 
@@ -1347,7 +1358,7 @@ Il piano delle zone di sicurezza è stabilito:
 - c. per le traiettorie di volo, dai fornitori dei servizi della navigazione aerea;
 - d. per aeroporti o impianti della navigazione aerea situati all’estero in territorio svizzero, l’UFAC.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 72
 
@@ -1366,7 +1377,7 @@ Il piano delle zone di sicurezza mostra in particolare:
 - c. se e a che condizioni sono ammesse attività, costruzioni e impianti che possono provocare accecamento, in particolare attraverso raggi laser o costruzioni con grosse superfici riflettenti;
 - d. se e in quale forma i cambiamenti di utilizzo delle superfici che possono aumentare il rischio d’impatto con volatili richiedono l’approvazione dell’esercente dell’aeroporto; in singoli casi in cui l’approvazione è controversa, la decisione spetta all’UFAC dopo aver sentito l’Ufficio federale dell’ambiente e i servizi specializzati cantonali.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 73
 
@@ -1383,13 +1394,13 @@ Il piano delle zone di sicurezza deve essere pubblicato dal Cantone interessato 
 
 <sup>3</sup> I piani delle zone di sicurezza approvati entrano in vigore non appena pubblicati negli organi ufficiali cantonali.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ## Titolo quinto *a*: Disposizioni penali
 
 [^tit5a-1]
 
-[^tit5a-1]: Introdotto dal n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^tit5a-1]: Introdotto dalla cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 73a
 
@@ -1402,7 +1413,7 @@ In virtù dell’articolo 91 capoverso 1 lettera i LNA, è punito chiunque:
 - e. effettua o fa effettuare, in un aerodromo o su impianti della navigazione aerea, modifiche edili o cambiamenti d’uso senza disporre di un’approvazione dei piani (art. 27*a* e 31 cpv. 3);
 - f. trasgredisce le istruzioni del capo d’aerodromo intese a garantire la sicurezza di persone o cose.
 
-[^73a-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^73a-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 ## Titolo sesto: Disposizioni finali
 
@@ -1422,7 +1433,7 @@ In virtù dell’articolo 91 capoverso 1 lettera i LNA, è punito chiunque:
 
 <sup>2</sup> In occasione del primo rinnovo della concessione d’esercizio degli aeroporti nazionali (Ginevra e Zurigo) nel 2001 devono essere riesaminati tutti i disciplinamenti del regolamento d’esercizio. Dev’essere effettuato uno studio d’impatto sull’ambiente.
 
-[^74a-1]: Introdotto dal n. II 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^74a-1]: Introdotto dalla cifra II n. 6 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 74b
 
@@ -1436,8 +1447,8 @@ In virtù dell’articolo 91 capoverso 1 lettera i LNA, è punito chiunque:
 
 <sup>4</sup> L’obbligo di misurazione di cui all’articolo 66*b,* a cui è soggetto l’esercente dell’aerodromo per la costruzione e la modifica di ostacoli alla navigazione aerea nelle vicinanze delle piste di decollo/atterraggio e di rullaggio (Area 3 secondo l’allegato 15 OACI), vale dal 1° novembre 2010. Gli ostacoli eretti prima di tale data devono essere misurati secondo le nuove esigenze entro la data medesima.
 
-[^74b-1]: Introdotto dal n. I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
-[^74b-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^74b-1]: Introdotto dalla cifra I dell’O del 13 feb. 2008, in vigore dal 15 mar. 2008 ([RU 2008 595](https://fedlex.data.admin.ch/eli/oc/2008/135)).
+[^74b-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 74c
 
@@ -1447,7 +1458,7 @@ In virtù dell’articolo 91 capoverso 1 lettera i LNA, è punito chiunque:
 
 <sup>2</sup> Nell’ambito delle procedure di cambiamento d’uso degli ex aerodromi militari occorre in ogni caso chiedere i pareri del Cantone e dei servizi federali interessati, nonché effettuare il deposito pubblico.
 
-[^74c-1]: Introdotto dal n. I 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^74c-1]: Introdotto dalla cifra I n. 2 dell’O del 4 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 #### Art. 74d
 
@@ -1455,7 +1466,7 @@ In virtù dell’articolo 91 capoverso 1 lettera i LNA, è punito chiunque:
 
 Le autorità competenti emanano, entro due anni dall’entrata in vigore della modifica del 21 ottobre 2015, le decisioni necessarie affinché la limitazione del numero delle aree d’atterraggio in montagna (art. 54 cpv. 3) possa essere rispettata.
 
-[^74d-1]: Introdotto dal n. I dell’O del 21 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4423](https://fedlex.data.admin.ch/eli/oc/2015/733)).
+[^74d-1]: Introdotto dalla cifra I dell’O del 21 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4423](https://fedlex.data.admin.ch/eli/oc/2015/733)).
 
 #### Art. 74e
 
@@ -1465,7 +1476,7 @@ Le autorità competenti emanano, entro due anni dall’entrata in vigore della m
 
 <sup>2</sup> Se il termine di cui al capoverso 1 decorre infruttuosamente, l’UFAC fissa un termine supplementare. Se anche quest’ultimo decorre infruttuosamente, l’UFAC può vietare la coutenza regolare a fini civili.
 
-[^74e-1]: Introdotto dal n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^74e-1]: Introdotto dalla cifra I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 #### Art. 75
 
@@ -1477,7 +1488,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1995.
 
 [^u1-1]
 
-[^u1-1]: [RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218). Abrogata dal n. I 2 dell’O del 4 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+[^u1-1]: [RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218). Abrogata dalla cifra I n. 2 dell’O del 4 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
 
 Allegato 1[^t-1]
 
@@ -1485,9 +1496,9 @@ Allegato 1[^t-1]
 
 ## Servizi di assistenza a terra
 
-[^t-1]: Originario all. Introdotto dal n. II dell’O del 30 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1186](https://fedlex.data.admin.ch/eli/oc/2002/197)).
+[^t-1]: Originario all. Introdotto dalla cifra II dell’O del 30 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1186](https://fedlex.data.admin.ch/eli/oc/2002/197)).
 
-Nel presente allegato i rimandi a determinati articoli sono riferiti alla Direttiva 96/67/CE
+Nel presente allegato i rimandi a determinati articoli sono riferiti alla Direttiva 96/67/CE:
 
 - 1\. L’ente di gestione secondo l’articolo 2 lettera c è l’esercente dell’aeroporto.
 - 2\. L’esercente dell’aeroporto deve proporre un verificatore indipendente ai sensi dell’articolo 4 capoverso 2 all’UFAC; l’UFAC decide se il mandato può essergli affidato.
@@ -1507,7 +1518,7 @@ Allegato 2[^t-2]
 
 ## Marcature e segnalazioni luminose obbligatorie per gli ostacoli alla navigazione aerea che sottostanno all’obbligo di registrazione
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611)).
 
 <table>
 <tr><th>Categoria di oggetti</th><th>Requisiti</th><th>Marcature e segnalazioni luminose obbligatorie</th></tr>
