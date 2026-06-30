@@ -3,13 +3,12 @@ canton: FR
 number: "815.13"
 title: Ordonnance pour une subvention en faveur des actions énergétiques des communes
 language: fr
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-12-18
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 2023-12-18
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/815.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7910/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8544/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7910/pdf_file"
 
 Actions énergétiques des communes, subvention – O
 
-du 18.12.2023 (version entrée en vigueur le 01.01.2024)
+du 18.12.2023 (version entrée en vigueur le 01.07.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -91,7 +90,7 @@ Arrête:
 
 <sup>4</sup> Les subventions ne sont versées qu'après la réception et le contrôle par le SdE des documents nécessaires.
 
-<sup>5</sup> Les demandes peuvent être déposées au plus tard jusqu'au 31 décembre 2025, ou à épuisement des disponibilités financières qui lui sont dédiées.
+<sup>5</sup> Les demandes peuvent être déposées au plus tard jusqu'au 1<sup>er</sup> décembre 2026, ou à épuisement des disponibilités financières qui lui sont dédiées.
 
 #### Art. 7
 

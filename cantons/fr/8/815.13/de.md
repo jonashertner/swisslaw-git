@@ -3,13 +3,12 @@ canton: FR
 number: "815.13"
 title: Verordnung über die Unterstützung von Massnahmen der Gemeinden im Energiebereich
 language: de
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-12-18
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 2023-12-18
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/815.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7910/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7910/pdf_file"
 
 Unterstützung von Massnahmen der Gemeinden im Energiebereich – V
 
-vom 18.12.2023 (Fassung in Kraft getreten am 01.01.2024)
+vom 18.12.2023 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -91,7 +90,7 @@ beschliesst:
 
 <sup>4</sup> Die Beiträge werden erst ausgezahlt, nachdem das AfE die erforderlichen Unterlagen erhalten und geprüft hat.
 
-<sup>5</sup> Die Gesuche können bis spätestens am 31. Dezember 2025 eingereicht werden oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
+<sup>5</sup> Die Gesuche können bis am 1. Dezember 2026 eingereicht werden oder bis die dafür bereitgestellten Mittel aufgebraucht sind.
 
 #### Art. 7
 
