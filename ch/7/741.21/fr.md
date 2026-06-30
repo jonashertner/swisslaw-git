@@ -4,11 +4,11 @@ title: Ordonnance du 5 septembre 1979 sur la signalisation routière (OSR)
 short: OSR
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961"
 language: fr
-version: 2025-07-01
+version: 2026-07-01
 adopted: 1979-09-05
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1961_1961_1961-20250701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1961_1961_1961-20260701-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr"
 
 (OSR)
 
-du 5 septembre 1979 (État le 1<sup>er</sup> juillet 2025)
+du 5 septembre 1979 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -34,20 +34,20 @@ arrête:
 
 **Contenu, abréviations et définitions**
 
-<sup>1</sup> La présente ordonnance régit les signaux, marques et réclames sur les routes et à leurs abords, les signes et les instructions à donner par la police et détermine les mesures et restrictions nécessaires à la circulation.
+<sup>1</sup> La présente ordonnance régit les signaux, marques, dispositifs de balisage et réclames sur les routes et à leurs abords, les signes et les instructions de la police ainsi que les réglementations et restrictions du trafic.[^1-1]
 
-<sup>2</sup> Au sens de la présente ordonnance on entend par
+<sup>2</sup> On entend par:[^1-2]
 
 <table>
-<tr><td>a. DETEC[^1-1]</td><td>le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^1-2];</td></tr>
-<tr><td>b.[^1-3] OFROU</td><td>l’Office fédéral des routes;</td></tr>
+<tr><td>a. DETEC[^1-3]</td><td>le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^1-4];</td></tr>
+<tr><td>b.[^1-5] OFROU</td><td>l’Office fédéral des routes;</td></tr>
 <tr><td>c. autorité</td><td>celle qui est compétente selon le droit cantonal pour ordonner la mise en place ou la suppression des signaux et des marques;</td></tr>
-<tr><td>d. loi sur la procédure administrative</td><td>la loi fédérale du 20 décembre 1968 sur la procédure administrative[^1-4];</td></tr>
-<tr><td>e. LCR</td><td>la loi fédérale du 19 décembre 1958 sur la circulation routière[^1-5];</td></tr>
-<tr><td>f. OCR</td><td>l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière[^1-6];</td></tr>
-<tr><td>g.[^1-7] OETV</td><td>l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^1-8];</td></tr>
-<tr><td>h.[^1-9] SDR</td><td>l’ordonnance du 29 novembre 2002 relative au transport des marchandises dangereuses par route[^1-10];</td></tr>
-<tr><td>i.[^1-11] ORN</td><td>l’ordonnance du 7 novembre 2007 sur les routes nationales[^1-12].</td></tr>
+<tr><td>d.[^1-6] LCPR</td><td>la loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les chemins de randonnée pédestre[^1-7].</td></tr>
+<tr><td>e. LCR</td><td>la loi fédérale du 19 décembre 1958 sur la circulation routière[^1-8];</td></tr>
+<tr><td>f. OCR</td><td>l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière[^1-9];</td></tr>
+<tr><td>g.[^1-10] OETV</td><td>l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^1-11];</td></tr>
+<tr><td>h.[^1-12] SDR</td><td>l’ordonnance du 29 novembre 2002 relative au transport des marchandises dangereuses par route[^1-13];</td></tr>
+<tr><td>i.[^1-14] ORN</td><td>l’ordonnance du 7 novembre 2007 sur les routes nationales[^1-15].</td></tr>
 </table>
 
 <sup>3</sup> Les numéros placés entre parenthèses après la désignation d’un signal ou d’une marque se rapportent aux figures énumérées à l’annexe 2.
@@ -62,24 +62,27 @@ arrête:
 
 <sup>8</sup> Les routes secondaires sont toutes les routes dont le début n’est pas signalé d’une façon particulière et sur lesquelles sont applicables les règles générales de circulation (p. ex. la priorité de droite selon l’art. 36, al. 2, LCR).
 
-<sup>9</sup> Les routes affectées à la circulation générale sont toutes les routes situées à l’intérieur des localités, conçues en premier lieu en fonction des exigences du trafic motorisé et destinées à des transports sûrs, performants et économiques.[^1-13]
+<sup>9</sup> Les routes affectées à la circulation générale sont toutes les routes situées à l’intérieur des localités, conçues en premier lieu en fonction des exigences du trafic motorisé et destinées à des transports sûrs, performants et économiques.[^1-16]
 
-<sup>10</sup> …[^1-14]
+<sup>10</sup> …[^1-17]
 
-[^1-1]: Nouveau terme selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-2]: Nouveau terme selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
-[^1-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^1-5]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
-[^1-6]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
-[^1-7]: Nouvelle teneur selon l’annexe 1 ch. II 5 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^1-8]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
-[^1-9]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^1-10]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
-[^1-11]: Introduite par l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
-[^1-12]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
-[^1-13]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
-[^1-14]: Abrogé par le ch. I de l’O du 20 mai 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^1-3]: Nouveau terme selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+[^1-4]: Nouveau terme selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+[^1-6]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^1-7]: [RS 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
+[^1-8]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^1-9]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^1-10]: Nouvelle teneur selon l’annexe 1 ch. II 5 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^1-11]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^1-12]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^1-13]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^1-14]: Introduite par l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^1-15]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^1-16]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
+[^1-17]: Abrogé par le ch. I de l’O du 20 mai 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 
 #### Art. 2
 
@@ -107,15 +110,18 @@ arrête:
 
 <sup>3</sup> Les droits et obligations indiqués au moyen d’un signal de zone s’appliquent depuis le début de la signalisation par zones jusqu’au signal en marquant la fin. Le signal de fin de zone indique que les règles générales de circulation sont de nouveau valables.
 
+<sup>3bis</sup> Si une zone 30 est suivie d’une zone de rencontre ou inversement, le nouveau signal «Zone de rencontre» (2.59.5) ou «Zone 30» (2.59.1) indique en même temps la fin de la zone précédente.[^2a-2]
+
 <sup>4</sup> Un signal de zone peut indiquer tout au plus trois réglementations du trafic.
 
-<sup>5</sup> Les signaux «Zone 30» (2.59.1), «Zone de rencontre» (2.59.5) et «Zone piétonne» (2.59.3) ne sont admis que sur les routes secondaires non affectées à la circulation générale.[^2a-2]
+<sup>5</sup> Les signaux «Zone 30» (2.59.1), «Zone de rencontre» (2.59.5) et «Zone piétonne» (2.59.3) ne sont admis que sur les routes secondaires non affectées à la circulation générale.[^2a-3]
 
-<sup>6</sup> Lorsque la vitesse est limitée à 30 km/h sur un tronçon de route affectée à la circulation générale conformément aux exigences de l’art. 108, al. 1, 2 et 4, il est possible d’intégrer ce tronçon dans une zone 30.[^2a-3]
+<sup>6</sup> Lorsque la vitesse est limitée à 30 km/h sur un tronçon de route affectée à la circulation générale conformément aux exigences de l’art. 108, al. 1, 2 et 4, il est possible d’intégrer ce tronçon dans une zone 30.[^2a-4]
 
 [^2a-1]: Introduit par le ch. I de l’O du 25 janv. 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)). Nouvelle teneur selon le ch. I de l’O du 28 sept. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
-[^2a-2]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
+[^2a-2]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^2a-3]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
+[^2a-4]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 
 ## Chapitre 2 Signaux de danger
 
@@ -159,9 +165,11 @@ Sous réserve de dispositions dérogatoires applicables à certains d’entre eu
 
 **Chaussée glissante**
 
-<sup>1</sup> Le signal «Chaussée glissante» (1.05) annonce des chaussées présentant une surface spécialement glissante, des rainures ou des tronçons de routes particulièrement exposés au gel.
+<sup>1</sup> Le signal «Chaussée glissante» (1.05) annonce des chaussées présentant une surface spécialement glissante, des ornières ou des tronçons de routes particulièrement exposés au gel.[^5-1]
 
 <sup>2</sup> Lorsque le signal «Chaussée glissante» est utilisé pour annoncer du verglas ou de la neige glissante, il faut le munir de la plaque complémentaire «Chaussée verglacée» (5.13). Ce signal et sa plaque complémentaire seront enlevés ou recouverts dès qu’il n’y a plus lieu de craindre la formation de glace ou la présence de neige glissante.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 6
 
@@ -267,18 +275,21 @@ Le signal «Circulation en sens inverse» sera placé:
 
 #### Art. 14
 
-**Signaux lumineux, … bouchon[^14-1]**
+**Signaux lumineux, avions, hélicoptères, bouchon[^14-1]**
 
 <sup>1</sup> Le signal «Signaux lumineux» (1.27) annonce une installation de signaux lumineux devant laquelle le conducteur doit, le cas échéant, s’arrêter. Il sera placé avant les installations de signaux lumineux situées hors des localités et peut être utilisé comme signal avancé pour annoncer des signaux lumineux servant à fermer temporairement certaines voies de circulation (art. 69, al. 4); à l’intérieur des localités, il peut être placé sur les routes à trafic rapide ou sur d’autres routes lorsque l’installation de signaux lumineux ne peut pas être aperçue à temps.[^14-2]
 
-<sup>2 et <sup>3</sup></sup> …[^14-3]
+<sup>2</sup> Le signal «Avions» (1.28) met les conducteurs en garde contre les avions qui décollent et atterrissent ou roulent à proximité d’aérodromes.[^14-3]
 
-<sup>4</sup> Le signal «Bouchon» (1.31) met les conducteurs en garde contre la présence de files de véhicules à l’arrêt ou circulant lentement. Il n’est permis de le placer de manière durable qu’aux endroits où les bouchons risquent d’être fréquents.[^14-4]
+<sup>3</sup> Le signal «Hélicoptères» (1.29) met les conducteurs en garde contre les hélicoptères qui décollent ou atterrissent à proximité d’héliports ou d’autres sites de décollage et d’atterrissage destinés aux hélicoptères.[^14-4]
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+<sup>4</sup> Le signal «Bouchon» (1.31) met les conducteurs en garde contre la présence de files de véhicules à l’arrêt ou circulant lentement. Il n’est permis de le placer de manière durable qu’aux endroits où les bouchons risquent d’être fréquents.[^14-5]
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^14-3]: Abrogés par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
-[^14-4]: Introduit par le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+[^14-3]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^14-4]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^14-5]: Introduit par le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 
 #### Art. 15
 
@@ -893,17 +904,20 @@ Le signal a la signification suivante:
 
 **Principes**
 
-<sup>1</sup> Sur les panneaux de localité, les indicateurs de direction, les indicateurs de direction avancés et les panneaux de présélection (art. 50 à 53), les noms des localités seront inscrits dans la langue parlée dans les localités annoncées; en ce qui concerne les communes où l’on parle deux langues, il faut choisir la langue parlée par la majorité des habitants. Si le nom d’une localité est écrit différemment dans deux langues, l’avers du panneau de localité portera les deux orthographes, dans la mesure où la minorité linguistique représente au moins 30 % des habitants.
+<sup>1</sup> Sur les panneaux de localité, les indicateurs de direction, les indicateurs de direction avancés et les panneaux de présélection (art. 50 à 53), les noms des localités sont inscrits dans la langue nationale parlée dans les localités annoncées. En ce qui concerne les localités plurilingues, le nom retenu est celui employé dans la langue nationale parlée par la majorité des habitants. Si le nom d’une localité est écrit différemment dans deux langues nationales, l’avers du panneau de localité portera les deux orthographes, pour autant que la minorité linguistique représente au moins 30 % des habitants.[^49-1]
 
-<sup>2</sup> Les indicateurs de direction, les indicateurs de direction avancés et les panneaux de présélection mentionneront en premier lieu des localités; au besoin, ils peuvent annoncer des destinations locales importantes (p. ex. la gare, le centre, l’hôpital). L’art. 54, al. 4 s’applique aux indicateurs de direction «Entreprise» et l’al. 9 du même article à la signalisation touristique et aux indicateurs de direction pour hôtels. Les symboles utilisés sur les indicateurs de direction, ainsi que leur signification, figurent à l’annexe 2, ch. 5.[^49-1]
+<sup>2</sup> Les indicateurs de direction, les indicateurs de direction avancés et les panneaux de présélection mentionnent en premier lieu des localités; au besoin, ils peuvent annoncer des destinations locales importantes, telles que des gares, des centres ou des hôpitaux. Les indicateurs de direction «Entreprise» et «Hôtel» ainsi que la signalisation touristique ne doivent pas altérer l’efficacité des autres panneaux de signalisation.[^49-2]
+
+<sup>2bis</sup> Les symboles utilisables sur les indicateurs de direction ainsi que leur désignation figurent à l’annexe 2, ch. 5, let. b. L’utilisation des symboles «Vélo-cargo» (5.31.1) et «Tramway ou chemin de fer routier» (5.35) est interdite. L’orientation des symboles représentant des véhicules, des aéronefs ou des piétons est conforme à la direction annoncée sur l’indicateur de direction.[^49-3]
 
 <sup>3</sup> Les dispositions des art. 84 à 91 s’appliquent aux indicateurs de direction, aux indicateurs de direction avancés et aux panneaux de présélection placés sur les autoroutes et les semi-autoroutes.
 
-<sup>4</sup> Les indicateurs de direction, les indicateurs de direction avancés et les panneaux de présélection des autoroutes et semi-autoroutes ne peuvent mentionner que les localités désignées par le DETEC[^49-2].[^49-3]
+<sup>4</sup> …[^49-4]
 
-[^49-1]: Phrase introduite par le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^49-2]: Transfert de la compétence du DFJP au DETEC selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)). Il a été tenu compte de cette mod. dans tout le texte.
-[^49-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^49-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^49-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^49-4]: Abrogé par le ch. I de l’O du 19 déc. 2025, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 50
 
@@ -925,54 +939,73 @@ Le signal a la signification suivante:
 
 **Indicateurs de direction**
 
-<sup>1</sup> Les indicateurs de direction portant une inscription blanche sur fond vert montrent la direction à suivre pour parvenir aux autoroutes et aux semi-autoroutes («Indicateur de direction pour autoroutes et semi-autoroutes»; 4.31). Les indicateurs de direction portant une inscription blanche sur fond bleu indiquent que le lieu de destination annoncé peut être atteint surtout par des routes principales («Indicateur de direction pour routes principales»; 4.32). Les indicateurs de direction portant une inscription noire sur fond blanc indiquent que le lieu de destination annoncé peut être atteint surtout par des routes secondaires («Indicateur de direction pour routes secondaires»; 4.33).
+<sup>1</sup> Les indicateurs de direction portant une inscription blanche sur fond vert montrent la direction à suivre pour parvenir aux autoroutes et aux semi-autoroutes («Indicateur de direction pour autoroutes et semi-autoroutes»; 4.31). Les indicateurs de direction portant une inscription blanche sur fond bleu indiquent que la destination[^51-1] annoncé peut être atteint surtout par des routes principales («Indicateur de direction pour routes principales»; 4.32). Les indicateurs de direction portant une inscription noire sur fond blanc indiquent que la destination annoncé peut être atteint surtout par des routes secondaires («Indicateur de direction pour routes secondaires»; 4.33).
 
 <sup>2</sup> Plusieurs localités situées dans la même direction seront mentionnées sur le même bras de l’indicateur; un bras ne peut comprendre que trois lignes au plus.
 
-<sup>3</sup> Il est possible d’ajouter au nom des localités pourvues d’un aérodrome civil ou d’un quai de chargement des véhicules automobiles sur le rail ou sur un bac les symboles correspondants, selon l’annexe 2, ch. 5.[^51-1]
+<sup>3</sup> …[^51-2]
 
-<sup>4</sup> Lorsqu’une région n’est desservie que par une seule autoroute ou semi-autoroute, ou bien par une autoroute de contournement, les indicateurs de direction pour autoroutes et semi-autoroutes peuvent être remplacés, là où des routes de desserte forment une intersection avec des routes secondaires, par des indicateurs de direction à fond vert, qui portent le symbole blanc des signaux «Autoroute» (4.01) ou «Semi-autoroute» (4.03) mais n’annoncent pas de lieu de destination.
+<sup>4</sup> Lorsqu’une région n’est desservie que par une seule autoroute ou semi-autoroute, ou bien par une autoroute de contournement, les indicateurs de direction pour autoroutes et semi-autoroutes peuvent être remplacés, là où des routes de desserte forment une intersection avec des routes secondaires, par des indicateurs de direction à fond vert, qui portent le symbole blanc des signaux «Autoroute» (4.01) ou «Semi-autoroute» (4.03) mais n’annoncent pas de destination.
 
 <sup>5</sup> Lorsque les conditions locales l’exigent, un «Indicateur de direction en forme de tableau» (4.35) peut être mis en place. Aux intersections, il peut être fixé au-dessus de la chaussée et combiné notamment avec une installation de signaux lumineux. Le premier alinéa est applicable en ce qui concerne la couleur de chaque champ du tableau.
 
-<sup>6</sup> …[^51-2]
+<sup>6</sup> …[^51-3]
 
-[^51-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^51-2]: Abrogé par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
+[^51-1]: Nouvelle expression selon le ch. I al. 2 de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)). Il a été tenu compte de cette mod. dans tout le texte.
+[^51-2]: Abrogé par le ch. I de l’O du 19 déc. 2025, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^51-3]: Abrogé par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
 
 #### Art. 52
 
 **Indicateurs de direction avancés**
 
-<sup>1</sup> Les indicateurs de direction avancés qui portent une inscription blanche sur fond bleu seront placés sur les routes principales et sur les routes secondaires reliant des routes principales («Indicateur de direction avancé sur route principale»; 4.36). Les indicateurs de direction avancés qui portent une inscription noire sur fond blanc seront placés sur les routes secondaires importantes («Indicateur de direction avancé sur route secondaire»; 4.37). Sont indiqués sur un champ de couleur verte les lieux de destination accessibles par une autoroute ou une semi-autoroute, sur fond bleu ou sur un champ de couleur bleue les lieux de destination accessibles surtout par des routes principales, sur fond blanc ou sur un champ de couleur blanche les lieux de destination accessibles surtout par des routes secondaires.
+<sup>1</sup> Les indicateurs de direction avancés qui portent une inscription blanche sur fond bleu sont placés sur les routes principales et sur les routes secondaires reliant des routes principales («Indicateur de direction avancé sur route principale»; 4.36). Les indicateurs de direction avancés qui portent une inscription noire sur fond blanc sont placés sur les routes secondaires importantes («Indicateur de direction avancé sur route secondaire»; 4.37).[^52-1]
+
+<sup>1bis</sup>
+
+Figureront comme suit sur les indicateurs de direction avancés:
+
+- a. dans un champ de couleur verte, les destinations accessibles par une autoroute ou une semi-autoroute;
+- b. sur fond bleu ou dans un champ de couleur bleue, les destinations accessibles surtout par des routes principales;
+- c. sur fond blanc ou dans un champ de couleur blanche, les destinations accessibles surtout par des routes secondaires;
+- d. dans un champ de couleur rouge, les destinations accessibles essentiellement par des parcours qui se prêtent particulièrement à la circulation des cycles et des cyclomoteurs;
+- e. dans un champ de couleur brune, les destinations et les régions importantes du point de vue touristique.[^52-2]
+
+<sup>1ter</sup> Les destinations visées à l’al. 1<sup>bis</sup>, let. d et e, figurent sur des indicateurs de direction avancés seulement si la signalisation prévue par l’art. 54*a* ou 54*c* n’est pas opportune.[^52-3]
 
 <sup>2</sup> En dehors des localités, les indicateurs de direction avancés seront placés entre 150 et 250 m de l’intersection, à l’intérieur des localités entre 20 et 100 m, mais au plus tard au début du tronçon servant à la présélection.
 
 <sup>3</sup> Un seul indicateur de direction avancé peut suffire pour plusieurs intersections situées à moins de 300 m les unes des autres.
 
-<sup>4</sup> La direction de la route sera représentée par des traits correspondant au tracé des chaussées après l’intersection. Avant les carrefours à sens giratoire, on pourra utiliser le signal «Indicateur de direction avancé pour carrefour à sens giratoire» (4.54).[^52-1]
+<sup>4</sup> La direction de la route sera représentée par des traits correspondant au tracé des chaussées après l’intersection. Avant les carrefours à sens giratoire, on pourra utiliser le signal «Indicateur de direction avancé pour carrefour à sens giratoire» (4.54).[^52-4]
 
-<sup>5</sup> L’«Indicateur de direction avancé avec répartition des voies sur route principale» (4.38) ou l’«Indicateur de direction avancé avec répartition des voies sur route secondaire» (4.39) peut être placé au début d’un tronçon servant à la présélection. Chaque voie de circulation sera indiquée par une flèche séparée; le premier alinéa est applicable en ce qui concerne la couleur et la disposition des champs.[^52-2]
+<sup>5</sup> L’«Indicateur de direction avancé avec répartition des voies sur route principale» (4.38) ou l’«Indicateur de direction avancé avec répartition des voies sur route secondaire» (4.39) peut être placé au début d’un tronçon servant à la présélection. Chaque voie de circulation sera indiquée par une flèche séparée; le premier alinéa est applicable en ce qui concerne la couleur et la disposition des champs.[^52-5]
 
-<sup>6</sup> Sur les indicateurs de direction avancés, il est possible d’annoncer des restrictions à la circulation valables pour l’un des tronçons indiqués (p. ex. les restrictions de largeur ou de poids), en reproduisant le signal de prescription correspondant («Indicateur de direction avancé annonçant des restrictions»; 4.40).
+<sup>6</sup> Sur les indicateurs de direction avancés, il est possible d’annoncer les restrictions du trafic valables pour l’un des tronçons indiqués (p. ex. les restrictions de largeur ou de poids), en reproduisant le signal de prescription correspondant («Indicateur de direction avancé annonçant des restrictions»; 4.40).[^52-6]
 
-<sup>7</sup> La silhouette figurant sur le signal «Avions» (1.28) peut être ajoutée au nom des localités pourvues d’un aérodrome civil.
+<sup>7</sup> …[^52-7]
 
-<sup>8</sup> …[^52-3]
+<sup>8</sup> …[^52-8]
 
-[^52-1]: Phrase introduite par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
-[^52-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
-[^52-3]: Abrogé par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^52-2]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^52-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^52-4]: Phrase introduite par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
+[^52-5]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+[^52-6]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^52-7]: Abrogé par le ch. I de l’O du 19 déc. 2025, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^52-8]: Abrogé par le ch. I de l’O du 7 mars 1994, avec effet au 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
 
 #### Art. 53
 
 **Panneaux de présélection**
 
-<sup>1</sup> Les panneaux de présélection placés au-dessus de la chaussée, avant les intersections de routes à plusieurs voies, indiquent à quelle destination déterminée mène chacune des voies («Panneau de présélection au-dessus d’une voie de circulation sur route principale»; 4.41, et «Panneau de présélection au-dessus d’une voie de circulation sur route secondaire»; 4.42). La flèche dirigée vers le bas désigne le milieu de la voie. Les dispositions régissant les indicateurs de direction avancés (art. 52, al. 1) s’appliquent à la couleur des champs, celles de l’art. 56 à la manière de numéroter les routes principales et les routes européennes de grand transit.
+<sup>1</sup> Les panneaux de présélection placés au-dessus de la chaussée, avant les intersections de routes à plusieurs voies, indiquent à quelle destination déterminée mène chacune des voies («Panneau de présélection au-dessus d’une voie de circulation sur route principale»; 4.41 et «Panneau de présélection au-dessus d’une voie de circulation sur route secondaire»; 4.42). La flèche dirigée vers le bas désigne le milieu de la voie. Les dispositions régissant les indicateurs de direction avancés (art. 52, al. 1 et 1<sup>bis</sup>) s’appliquent à la couleur des champs, celles de l’art. 56 à la manière de numéroter les routes principales et les routes européennes de grand transit.[^53-1]
 
-<sup>2</sup> … [^53-1]
+<sup>2</sup> … [^53-2]
 
-[^53-1]: Abrogé par le ch. I de l’O du 17 août 2005, avec effet au 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^53-2]: Abrogé par le ch. I de l’O du 17 août 2005, avec effet au 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
 
 #### Art. 54
 
@@ -984,7 +1017,7 @@ Le signal a la signification suivante:
 
 <sup>2bis</sup> L’indicateur de direction «Parking avec accès aux transports publics» (4.46.1) indique la direction d’un tel emplacement de parcage. Le genre de transport public peut être signalé en toutes lettres ou sous forme de symboles.[^54-2]
 
-<sup>3</sup> Les indicateurs de direction «Place de camping» (4.47) et «Terrain pour caravanes» (4.48) montrent la direction des places réservées aux tentes ou aux caravanes[^54-3]; le cas échéant, les symboles de ces deux indicateurs peuvent être reproduits sur un panneau.
+<sup>3</sup> L’indicateur de direction «Place de camping» (4.47) montre la direction des places réservées aux tentes, aux caravanes et aux voitures automobiles servant d’habitation. L’indicateur de direction «Terrain pour caravanes» (4.48) montre la direction des places réservées aux caravanes et aux voitures automobiles servant d’habitation. Si des places sont réservées exclusivement à ces dernières, le symbole «Voiture automobile servant d’habitation» (5.28) peut être utilisé en lieu et place du symbole «Caravane» (5.27) sur l’indicateur de direction «Terrain pour caravanes».[^54-3]
 
 <sup>4</sup> L’indicateur de direction «Entreprise» (4.49) montre la direction à suivre pour se rendre à des entreprises industrielles, artisanales, commerciales, à des expositions, etc. Il indique l’itinéraire à prendre pour parvenir à des lieux souvent visités, difficiles à repérer sans indicateur de direction, et qui sont situés à l’écart des routes de grand transit (art. 110, al. 1) ou des routes secondaires importantes.
 
@@ -996,38 +1029,99 @@ Le signal a la signification suivante:
 
 <sup>8</sup> Le panneau «Route latérale comportant un danger ou une restriction» (4.55) sur lequel figure un signal de danger ou de prescription approprié aux circonstances peut être placé peu avant une intersection, lorsqu’immédiatement après celle-ci la route latérale comporte un endroit dangereux ou fait l’objet d’une restriction de la circulation.
 
-<sup>9</sup> Le DETEC édicte des instructions concernant la signalisation touristique et les indicateurs de direction pour hôtels.
+<sup>9</sup> L’indicateur de direction «Hôtel» (4.49.1) montre la direction des hôtels. Le nom de l’établissement y est inscrit en brun foncé sur fond brun clair et précédé du symbole «Hôtel» (5.67). En présence de plusieurs hôtels, il est possible d’utiliser des indicateurs de direction en forme de tableau ou des indicateurs de direction généraux portant l’inscription «Hôtels».[^54-6]
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
 [^54-2]: Introduit par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
-[^54-3]: Nouvelle expression selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+[^54-3]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^54-4]: Abrogé par le ch. I de l’O du 17 août 2005, avec effet au 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
 [^54-5]: Abrogé par le ch. I de l’O du 25 janv. 1989, avec effet au 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+[^54-6]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 54a
 
-**Indicateurs de direction pour cycles et engins assimilés à des véhicules**[^54a-1]
+**Indication de la direction pour les cycles, les cyclomoteurs et les engins assimilés à des véhicules**[^54a-1]
 
-<sup>1</sup> Les indicateurs de direction portant des inscriptions blanches sur fond rouge sont utilisés pour les cycles, les vélos tout terrain et les engins assimilés à des véhicules.
+<sup>1</sup> Les indicateurs de direction portant des inscriptions blanches sur fond rouge sont utilisés pour les cycles, les cyclomoteurs, les vélos tout-terrains et les engins assimilés à des véhicules.
 
-<sup>2</sup> Les indicateurs de direction «Itinéraire pour cyclistes» (4.50.1) et «Itinéraire pour engins assimilés à des véhicules» (4.50.4) désignent des parcours qui, en raison de leur situation et des conditions de trafic qui y règnent, se prêtent particulièrement à la circulation des cycles et des engins assimilés à des véhicules.
+<sup>2</sup> L’«Indicateur de direction pour cycles et cyclomoteurs» (4.50.1) et l’«Indicateur de direction pour engins assimilés à des véhicules» (4.50.4) désignent les parcours qui, en raison de leur situation et des conditions de trafic qui y règnent, se prêtent particulièrement à la circulation des cycles, des cyclomoteurs et des engins assimilés à des véhicules.
 
-<sup>3</sup> L’indicateur de direction «Itinéraire pour vélos tout terrain» (4.50.3) désigne des parcours qui se prêtent particulièrement à la circulation des vélos tout terrain et oblige leurs utilisateurs à faire preuve d’égards particuliers pour les piétons; lorsque la situation l’exige, les cyclistes sont tenus de les avertir et, au besoin, de s’arrêter.
+<sup>3</sup> L’«Indicateur de direction pour vélos tout-terrains» (4.50.3) désigne les parcours qui se prêtent particulièrement à la circulation des vélos tout-terrains. Ce signal oblige les utilisateurs à faire preuve d’égards particuliers pour les piétons; lorsque la sécurité l’exige, les cyclistes sont tenus d’avertir ces derniers et, au besoin, de s’arrêter. La fin du parcours peut être indiquée au moyen de la «Plaque indiquant la fin d’un parcours pour vélos tout-terrains» (4.51.4).
 
-<sup>4</sup> Lorsqu’il n’est pas nécessaire d’indiquer des destinations, les indicateurs de direction 4.50.1, 4.50.3 et 4.50.4 peuvent être remplacés par un «Indicateur de direction sans destination» (4.51.1), un «Indicateur de direction avancé sans destination» (4.51.2) ou une «Plaque de confirmation» (4.51.3).
+<sup>4</sup> Lorsqu’il n’est pas nécessaire d’indiquer des destinations, les indicateurs de direction 4.50.1, 4.50.3 et 4.50.4 peuvent être remplacés par un «Indicateur de direction sans mention de la destination» (4.51.1), un «Indicateur de direction avancé sans mention de la destination» (4.51.2) ou une «Plaque de confirmation» (4.51.3). L’«Indicateur de direction avancé pour cycles, cyclomoteurs et engins assimilés à des véhicules» (4.51.5) peut être placé aux endroits sans visibilité.
 
-<sup>5</sup> Lorsque les conditions locales l’exigent, il est possible d’utiliser des indicateurs de direction en forme de tableau. L’indicateur de direction 4.50.5 est mis en place lorsqu’il faut s’adresser à un seul cercle d’usagers et l’indicateur de direction 4.50.6 lorsqu’ils sont plusieurs.
+<sup>5</sup> Lorsque les conditions locales l’exigent, il est possible d’utiliser des indicateurs de direction en forme de tableau. L’indicateur de direction 4.50.5 est mis en place pour un seul cercle d’usagers et l’indicateur de direction 4.50.6 pour plusieurs cercles d’usagers.
 
 <sup>6</sup>
 
 Peuvent en outre figurer sur les indicateurs de direction:
 
 - a. la distance jusqu’à la destination indiquée;
-- b. des informations complémentaires, telles que le numéro et le nom de l’itinéraire, dans un champ du signal.
+- b. des informations complémentaires, telles que le nom, le numéro ou la lettre d’un itinéraire national, régional ou local, dans un champ du signal.
 
-<sup>7</sup> Le panneau de fin de parcours (4.51.4) correspondant peut être placé à l’endroit où se termine un parcours qui se prête à la circulation des cycles, des vélos tout terrain ou des engins assimilés à des véhicules.
+<sup>7</sup> Sur les parcours destinés aux vélos tout-terrains, des flèches de direction peuvent être peintes, à des fins d’orientation, sur des objets situés le long du chemin, tels que des blocs de pierre, des arbres ou des poteaux.
 
-[^54a-1]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+<sup>8</sup> Des panneaux d’information concernant le parcours peuvent être placés aux emplacements des indicateurs de direction le long des parcours balisés.
+
+[^54a-1]: Introduit par le ch. I de l’O du 17 août 2005 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)). Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+
+#### Art. 54b
+
+**Indication de la direction sur les chemins pour piétons et les chemins de randonnée pédestre**[^54b-1]
+
+<sup>1</sup> L’«Indicateur de direction pour réseaux de chemins pour piétons» (4.52.1) portant une inscription noire sur fond blanc est utilisé pour indiquer la direction sur les réseaux de chemins pour piétons visés à l’art. 2 LCPR[^54b-2].
+
+<sup>2</sup>
+
+Sont utilisés sur les réseaux de chemins de randonnée pédestre visés à l’art. 3 LCPR:
+
+- a. l’«Indicateur de direction pour chemins de randonnée pédestre» (4.52.2) portant une inscription noire sur fond jaune, pour indiquer la direction sur les chemins de randonnée pédestre et à leurs abords;
+- b. l’«Indicateur de direction pour chemins de randonnée de montagne» (4.52.3) portant une inscription noire sur fond jaune et une pointe de flèche de couleur blanche-rouge-blanche, pour indiquer la direction sur les chemins de randonnée de montagne et à leurs abords;
+- c. l’«Indicateur de direction pour chemins de randonnée alpine» (4.52.4) portant une inscription blanche sur fond bleu, pour indiquer la direction sur les chemins de randonnée alpine et à leurs abords.
+
+<sup>3</sup>
+
+Peuvent en outre figurer sur les indicateurs de direction visés aux al. 1 et 2:
+
+- a. le temps de marche jusqu’à la destination rapprochée, la destination intermédiaire ou la destination de l’itinéraire affichées;
+- b. des indications concernant le lieu et l’altitude au-dessus du niveau de la mer, dans un champ du signal (champ de l’emplacement);
+- c. des informations complémentaires, telles que le numéro et le nom d’un itinéraire national, régional ou local, dans un champ du signal.
+
+<sup>4</sup> La «Plaque de confirmation destinée aux chemins pour piétons et aux chemins de randonnée pédestre» (4.52.5) peut être placée, à des fins d’orientation, sur les réseaux de chemins pour piétons et de chemins de randonnée pédestre. La plaque est blanche, en forme de losange et pourvue d’une bordure noire sur les chemins pour piétons, jaune et en forme de losange sur les chemins de randonnée pédestre, et rectangulaire et de couleur respectivement blanche-rouge-blanche et blanche-bleue-blanche sur les chemins de randonnée de montagne et les chemins de randonnée alpine. Ces signaux et des flèches de direction peuvent en outre être peints sur des objets situés le long du chemin, tels que des blocs de pierre, des arbres ou des poteaux.
+
+<sup>5</sup> Des panneaux d’information concernant notamment le parcours et les exigences particulières liées à l’utilisation des chemins peuvent être placés aux emplacements des indicateurs de direction le long des réseaux de chemins pour piétons et de chemins de randonnée pédestre.
+
+[^54b-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^54b-2]: [RS 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
+
+#### Art. 54c
+
+**Signalisation touristique sur les routes principales et les routes secondaires**[^54c-1]
+
+<sup>1</sup> La signalisation touristique sur les routes principales et les routes secondaires comprend des informations relatives aux destinations touristiques majeures, aux destinations locales importantes et aux sites culturels d’importance suprarégionale.
+
+<sup>2</sup> L’«Indicateur de direction touristique» (4.52.6) contient, sur fond brun et dans un champ blanc, des pictogrammes ou des symboles bruns conformes à ceux reproduits à l’annexe 2, ch. 5, let. b, ainsi qu’une inscription en caractères blancs et en italique.
+
+<sup>3</sup> Le «Panneau des symboles touristiques» (4.52.7) contient, sur fond brun, le nom de la localité inscrit en caractères blancs et en italique, d’éventuels écussons ou pictogrammes ainsi qu’une sélection des objets touristiques majeurs de la localité, lesquels sont représentés avec des symboles correspondants dans un champ médian blanc.
+
+<sup>4</sup>
+
+Le «Panneau d’information touristique» (4.52.8) contient, sur fond brun:
+
+- a. le nom de la localité et tout au plus de deux sites culturels d’importance suprarégionale, en caractères blancs et en italique; le nom du site culturel peut être indiqué en lieu et place du nom de la localité;
+- b. un pictogramme blanc relatif aux sites culturels, et
+- c. l’indication de la distance jusqu’à la localité ou jusqu’aux sites culturels, en caractères blancs et en italique.
+
+<sup>5</sup>
+
+Afin de signaler l’itinéraire national «Grand Tour de Suisse» sur les routes principales et les routes secondaires, il est possible d’utiliser:
+
+- a. un pictogramme rouge avec l’inscription «Grand Tour» dans un champ rectangulaire blanc, sur les indicateurs de direction touristiques aux intersections de routes principales et secondaires;
+- b. un pictogramme rouge avec l’inscription «Grand Tour» dans un champ rectangulaire blanc, sur les panneaux des symboles touristiques et sur les panneaux d’information touristiques le long de routes principales et secondaires par lesquelles passe l’itinéraire.
+
+<sup>6</sup> La signalisation touristique sur les autoroutes et semi-autoroutes est régie par l’art. 89*b*.
+
+[^54c-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 55
 
@@ -1035,32 +1129,34 @@ Peuvent en outre figurer sur les indicateurs de direction:
 
 <sup>1</sup> Les déviations du trafic sont annoncées au moyen d’indicateurs de direction avancés représentant le tronçon fermé au trafic ainsi que l’itinéraire de déviation avec les principales localités qu’il traverse («Indicateur de direction avance annonçant une déviation»; 4.53).
 
-<sup>2</sup> Les «Indicateurs de direction pour déviation» (4.34), à fond orange, seront utilisés le long de l’itinéraire de déviation; lorsqu’il s’agit de déviations relativement courtes, on peut renoncer à indiquer le lieu de destination (4.34.1).
+<sup>2</sup> Les «Indicateurs de direction pour déviation» (4.34), à fond orange, seront utilisés le long de l’itinéraire de déviation; lorsqu’il s’agit de déviations relativement courtes, on peut renoncer à indiquer la destination (4.34.1).
 
-<sup>2bis</sup> Les itinéraires de déviation pour les cyclistes et les conducteurs de cyclomoteurs peuvent être annoncés au moyen des signaux visés à l’art. 54*a* et dotés d’un fond orange. Ces signaux peuvent également être employés pour annoncer des itinéraires de déviation pour piétons s’ils sont munis du symbole d’un piéton. Les symboles du cycle et du piéton peuvent être représentés ensemble sur un même signal.[^55-2]
+<sup>2bis</sup> Les itinéraires de déviation pour les cyclistes, les conducteurs de cyclomoteurs et les piétons peuvent être annoncés au moyen des signaux visés à l’art. 54*a* ou 54*b* et dotés d’un fond orange. Les symboles «Cycle» (5.31) et «Piéton» (5.34) peuvent être représentés ensemble sur les signaux visés à l’art. 54*a*.[^55-2]
 
 <sup>3</sup> Les lieux de destination accessibles par l’itinéraire de déviation peuvent être indiqués en lettres noires sur fond orange sur tous les panneaux servant à indiquer la direction.
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^55-2]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^55-2]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)). Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 56
 
-**Numérotage des routes, jonctions et ramifications[^56-2]**[^56-1]
+**Numérotation des routes, jonctions et échangeurs**[^56-1]
 
-<sup>1</sup> Les «Plaques numérotées pour routes européennes» (4.56) portent la lettre «E» de couleur blanche et un nombre de même couleur sur fond vert; elles désignent des tronçons du réseau des routes européennes de grand transit. Les numéros se fondent sur l’ordonnance du 18 décembre 1991 concernant les routes de grand transit[^56-3]; leur aspect et leur mise en place doivent être conformes aux instructions du DETEC.
+<sup>1</sup> Les plaques numérotées servent à l’orientation des usagers de la route. Elles sont placées sur les indicateurs de direction avancés, les indicateurs de direction, les panneaux de présélection, les panneaux de bifurcation et les panneaux des distances en kilomètres. Sur ces plaques figure le numéro de la route où elles se trouvent ou de celle qui est indiquée au niveau des échangeurs.
 
-<sup>2</sup> Les «Plaques numérotées pour autoroutes et semi-autoroutes» (4.58) portent un nombre blanc sur fond rouge; elles désignent le réseau des autoroutes et des semi-autoroutes. Le DETEC fixe le réseau de base et édicte des instructions concernant l’aspect et la mise en place des plaques numérotées.[^56-4]
+<sup>2</sup> Les «Plaques numérotées pour routes européennes» (4.56) portent un «E» blanc et un nombre de même couleur sur fond vert; elles désignent les tronçons du réseau des routes européennes de grand transit. Les numéros se fondent sur l’ordonnance du 18 décembre 1991 concernant les routes de grand transit[^56-2].
 
-<sup>3</sup> Les «Plaques numérotées pour routes principales» (4.57) portent un nombre blanc sur fond bleu; elles désignent les routes principales les plus importantes. Les numéros se fondent sur l’ordonnance du 18 décembre 1991 concernant les routes de grand transit; leur aspect et leur mise en place doivent être conformes aux instructions du DETEC.
+<sup>3</sup> Les «Plaques numérotées pour autoroutes et semi-autoroutes» (4.58) portent un nombre blanc sur fond rouge; elles désignent le réseau des autoroutes et des semi-autoroutes. Les autoroutes et semi-autoroutes nationales sont numérotées conformément à l’annexe de l’arrêté sur le réseau du 10 décembre 2012[^56-3].
 
-<sup>4</sup> La «Plaque numérotée pour jonctions» (4.59) et la «Plaque numérotée pour ramifications» (4.59.1) portent un symbole noir et un nombre noir sur fond blanc; elles désignent les jonctions ou les ramifications sur les autoroutes et semi-autoroutes. Le DETEC fixe les numéros en accord avec les cantons et édicte des instructions concernant l’aspect et la mise en place des plaques numérotées.[^56-5]
+<sup>4</sup> Les «Plaques numérotées pour routes principales» (4.57) portent un nombre blanc sur fond bleu; elles désignent les routes principales les plus importantes. Les numéros se fondent sur l’ordonnance du 18 décembre 1991 concernant les routes de grand transit. Les routes nationales de 3<sup>e</sup> classe peuvent également être signalées au moyen de «Plaques numérotées pour autoroutes et semi-autoroutes», dont la numérotation est régie par l’annexe de l’arrêté sur le réseau.
 
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
-[^56-2]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
-[^56-3]: [RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
-[^56-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^56-5]: Introduit par le ch. I de l’O du 28 sept. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+<sup>5</sup> La «Plaque numérotée pour jonctions» (4.59) et la «Plaque numérotée pour échangeurs» (4.59.1) portent un symbole noir et un nombre noir sur fond blanc; elles désignent les jonctions ou les échangeurs sur les autoroutes et semi-autoroutes.
+
+<sup>6</sup> L’OFROU détermine dans une ordonnance, en accord avec les cantons, les numéros des jonctions et des échangeurs sur les autoroutes et semi-autoroutes nationales. Par ailleurs, en accord avec les cantons, il peut déterminer les numéros des autoroutes et semi-autoroutes cantonales ainsi que ceux de leurs jonctions et échangeurs.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^56-2]: [RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
+[^56-3]: [FF 2017 7391](https://fedlex.data.admin.ch/eli/fga/2017/2274); [2023 2464](https://fedlex.data.admin.ch/eli/fga/2023/2464)
 
 ### Section 3 Informations
 
@@ -1074,11 +1170,13 @@ Peuvent en outre figurer sur les indicateurs de direction:
 
 <sup>3</sup>
 
-Si des signaux avancés sont nécessaires ou prescrits, ils seront placés, avec une «Plaque de distance» (5.01), avant le début du tronçon auquel se rapporte l’indication, de la manière suivante:
+Si des signaux avancés sont nécessaires ou prescrits, ils sont placés, avec une «Plaque de distance» (5.01) ou une «Plaque indiquant la distance et la direction» (5.02), avant le début du tronçon auquel se rapporte l’indication, de la manière suivante:
 
 - a. dans les localités, à 50 m au moins;
 - b. hors des localités, à 150 m au moins;
-- c. sur les autoroutes et semi-autoroutes, conformément à l’art. 89.
+- c. sur les autoroutes et semi-autoroutes, conformément à l’art. 89.[^57-1]
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 58
 
@@ -1088,7 +1186,7 @@ Si des signaux avancés sont nécessaires ou prescrits, ils seront placés, avec
 
 <sup>2</sup> Le signal «État de la route» sera placé au début du tronçon concerné; le signal «Préavis sur l’état de la route» est installé sur les routes d’accès conduisant à de tels tronçons, assez tôt pour permettre aux conducteurs d’emprunter une déviation.
 
-<sup>3</sup> Les signaux mentionnent le nom du col ou le lieu de destination; ils portent en regard ou en-dessous les indications concernant l’état de la route. Lorsque des destinations intermédiaires sont annoncées, les renseignements sur l’état de la route ne sont valables que jusqu’à la destination dont le nom figure immédiatement en regard ou au-dessus de cette indication.
+<sup>3</sup> Les signaux mentionnent le nom du col ou la destination; ils portent en regard ou en-dessous les indications concernant l’état de la route. Lorsque des destinations intermédiaires sont annoncées, les renseignements sur l’état de la route ne sont valables que jusqu’à la destination dont le nom figure immédiatement en regard ou au-dessus de cette indication.
 
 <sup>4</sup>
 
@@ -1109,11 +1207,18 @@ Sur les signaux, les couleurs ont la signification suivante:
 
 <sup>2</sup> Le signal «Ouverture de la bande d’arrêt d’urgence» (4.77.2) indique qu’il est permis d’emprunter la bande d’arrêt d’urgence.
 
+<sup>2bis</sup> Le signal «Disposition du tracé des voies de circulation aux abords d’un chantier» (4.77.3) indique les déplacements latéraux, les rétrécissements et les rabattements de voies de circulation aux abords de chantiers. L’emplacement du chantier est représenté par un rectangle rouge sur le signal.[^59-2]
+
+<sup>2ter</sup> Le signal «Déviation de voies de circulation» (4.77.4) indique qu’une voie de circulation est déviée sur la chaussée opposée.[^59-3]
+
 <sup>3</sup> Lorsqu’une prescription ou l’annonce d’un danger n’est valable que pour certaines voies, le signal y relatif sera reproduit au milieu de la flèche représentant la voie en question («Disposition des voies de circulation annonçant des restrictions»; 4.77.1).
 
-<sup>4</sup> L’art. 89, al. 2, s’applique au placement du signal «Disposition des voies de circulation» sur les autoroutes et les semi-autoroutes.
+<sup>4</sup> Le placement des signaux «Disposition des voies de circulation» et «Déviation de voies de circulation» sur les autoroutes et semi-autoroutes est régi par l’art. 89*a*, al. 1.[^59-4]
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+[^59-2]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^59-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^59-4]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 60
 
@@ -1131,28 +1236,47 @@ Les conducteurs étrangers sont informés des limitations générales de vitesse
 
 #### Art. 62
 
-**Indications diverses**
+**Indications diverses**[^62-1]
 
-<sup>1</sup> Les signaux «Place de camping» (4.79), «Terrain pour caravanes» (4.80), «Téléphone» (4.81), «Premiers secours» (4.82), «Poste d’essence» (4.84), «Hôtel-Motel» (4.85), «Restaurant» (4.86), «Rafraîchissements» (4.87), «Poste d’information» (4.88), «Auberge de jeunesse» (4.89), «Bulletin routier radiophonique» (4.90), «Service religieux» (4.91) et «Extincteur» (4.92) indiquent les prestations de services, installations ou bâtiments correspondants.[^62-1]
+<sup>1</sup>
 
-<sup>2</sup> Le cas échéant, les symboles des signaux «Place de camping» et «Terrain pour caravanes» peuvent figurer dans le champ médian blanc d’un panneau.
+Il est possible d’utiliser les symboles ci-après sur des signaux portant des informations pour indiquer les installations, prestations de services ou bâtiments correspondants:
 
-<sup>3</sup> En ce qui concerne le signal «Téléphone», il faut ajouter les lettres SOS sur le fond bleu, sous le symbole, lorsqu’il s’agit d’une installation d’appel au secours.
+- a. «Caravane» (5.27) pour des places réservées aux caravanes;
+- b. «Place de camping» (5.58);
+- c. «Extincteur» (5.59);
+- d. «Premiers secours» (5.60);
+- e. «Station-service» (5.61);
+- f. «Hôtel-motel» (5.62);
+- g. «Restaurant» (5.63);
+- h. «Rafraîchissements» (5.64);
+- i. «Poste d’information» (5.65);
+- j. «Auberge de jeunesse» (5.66).
 
-<sup>4</sup> Les signaux «Hôtel-Motel», «Restaurant» et «Rafraîchissements» ne seront placés que là où les usagers de la route ne pourraient pas apercevoir les installations ou bâtiments correspondants ou ne les trouveraient que difficilement; le nom des établissements ne doit pas figurer sur ces signaux.
+<sup>2</sup> Le cas échéant, les symboles «Place de camping» et «Caravane» peuvent figurer ensemble dans le champ médian blanc d’un panneau. Si des places sont réservées exclusivement aux voitures automobiles servant d’habitation, le symbole «Voiture automobile servant d’habitation» (5.28) peut être utilisé en lieu et place du symbole «Caravane» (5.27).
 
-<sup>5</sup> Le signal «Bulletin routier radiophonique» indique l’émetteur diffusant un programme national et la fréquence sur laquelle les conducteurs peuvent recevoir des informations concernant le trafic routier. Sur les routes autres que les autoroutes et les semi-autoroutes (art. 89, al. 3), il sera placé uniquement aux endroits où la gamme de fréquence change.[^62-2]
+<sup>3</sup> Le signal «Poste d’appel d’urgence» (4.80) indique la présence d’un téléphone accessible au public et directement relié aux services d’appel d’urgence. Il peut être complété par le symbole «Extincteur» s’il n’y a pas suffisamment de place dans les tunnels.
 
-<sup>6</sup> L’art. 89, al. 1 et 3, s’applique au placement des signaux sur les autoroutes et les semi-autoroutes.
+<sup>4</sup> Les signaux munis des symboles «Hôtel-motel», «Restaurant» et «Rafraîchissements» ne peuvent être placés que là où les usagers de la route peuvent difficilement apercevoir ou trouver les installations ou bâtiments correspondants; le nom des établissements ne doit pas figurer sur ces signaux.
 
-<sup>7</sup> Le signal «Direction et distance vers l’issue de secours la plus proche» (4.94) informe sur l’issue de secours la plus proche; dans les tunnels, il est posé sur la paroi au moins tous les 50 m à une hauteur de 1 à 1,5 m au-dessus de la chaussée. Le signal «Issue de secours» (4.95) indique l’emplacement d’une issue de secours et est posé à proximité immédiate de celle-ci.[^62-3]
+<sup>5</sup>
 
-<sup>8</sup> Le signal «Véhicules équipés d’un système d’automatisation» (4.91<sup>bis</sup>) est placé au niveau de tous les accès aux parkings permettant le parcage automatisé autorisés.[^62-4]
+Afin d’indiquer le type de carburant de remplacement proposé, le signal «Station-service proposant du carburant de remplacement» (4.81) peut être complété par les acronymes suivants:
 
-[^62-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
-[^62-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^62-3]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^62-4]: Introduit par l’annexe ch. 1 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+- a. «CNG» pour le gaz naturel;
+- b. «EV» pour les stations de recharge;
+- c. «H<sub>2</sub>» pour l’hydrogène;
+- d. «LPG» pour le gaz de pétrole liquéfié.
+
+<sup>6</sup> Le placement des signaux sur les autoroutes et semi-autoroutes est régi par l’art. 89.
+
+<sup>7</sup> Le signal «Direction et distance vers l’issue de secours la plus proche» (4.94) informe sur l’issue de secours la plus proche; dans les tunnels, il est placé sur la paroi au moins tous les 50 m à une hauteur de 1 à 1,5 m au-dessus de la chaussée. Le signal «Issue de secours» (4.95) indique l’emplacement d’une issue de secours et est placé à proximité immédiate de celle-ci.
+
+<sup>8</sup> Le signal «Véhicules équipés d’un système d’automatisation» (4.83) est placé au niveau de tous les accès aux parkings permettant le parcage automatisé autorisés.
+
+<sup>9</sup> Le signal «Service religieux» (4.84) informe sur les services religieux assurés régulièrement.
+
+[^62-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24))
 
 ## Chapitre 6 Renseignements additionnels concernant les signaux
 
@@ -1199,25 +1323,25 @@ Le champ d’application de signaux peut être matérialisé au moyen d’une pl
 
 <sup>6ter</sup> Le symbole «Vélo-cargo» (5.31.1) sur une plaque complémentaire vaut pour les cycles et les cyclomoteurs destinés au transport d’enfants, de passagers ou de choses ainsi que pour les cycles et les cyclomoteurs avec remorque.[^64-4]
 
-<sup>7</sup> Les symboles utilisés sur des plaques complémentaires ainsi que leur dénomination figurent à l’annexe 2, ch. 5.[^64-5]
+<sup>7</sup> Les symboles utilisables sur des plaques complémentaires ainsi que leur désignation figurent à l’annexe 2, ch. 5, let. b.[^64-5]
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
 [^64-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
 [^64-3]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
 [^64-4]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
-[^64-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)). Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
+[^64-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)). Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 64a
 
 **Plaques complémentaires pour les signaux des pistes cyclables et des chemins pour piétons**[^64a-1]
 
-<sup>1</sup> Ajoutée au signal «Chemin pour piétons» (2.61), la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image1.png) autorisés» permet aux cyclistes et aux conducteurs de cyclomoteurs d’emprunter le chemin pour piétons. Sur les trottoirs, cette signalisation est admise à titre exceptionnel, notamment pour garantir la sécurité sur le chemin de l’école, pour autant que le trottoir soit peu fréquenté et que la circulation soit relativement dense sur la route. Sont applicables les dispositions relatives à l’utilisation commune visées à l’art. 33, al. 4.
+<sup>1</sup> Ajoutée au signal «Chemin pour piétons» (2.61), la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image1.png) autorisés» permet aux cyclistes et aux conducteurs de cyclomoteurs d’emprunter le chemin pour piétons. Sur les trottoirs, cette signalisation est admise à titre exceptionnel, notamment pour garantir la sécurité sur le chemin de l’école, pour autant que le trottoir soit peu fréquenté et que la circulation soit relativement dense sur la route. Sont applicables les dispositions relatives à l’utilisation commune visées à l’art. 33, al. 4.
 
-<sup>2</sup> Ajoutée aux chemins pour piétons visés à l’al. 1, la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image2.png) interdits» interdit aux conducteurs de cyclomoteurs lourds et de cyclomoteurs rapides d’emprunter le chemin indiqué.
+<sup>2</sup> Ajoutée aux chemins pour piétons visés à l’al. 1, la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image2.png) interdits» interdit aux conducteurs de cyclomoteurs lourds et de cyclomoteurs rapides d’emprunter le chemin indiqué.
 
-<sup>3</sup> Ajoutée aux signaux «Piste cyclable» (2.60), «Piste cyclable et chemin pour piétons, avec partage de l’aire de circulation» (2.63) et «Piste cyclable et chemin pour piétons sans partage de l’aire de circulation» (2.63.1), la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image2.png) facultatif» exempte les conducteurs de cyclomoteurs lourds et de cyclomoteurs rapides de l’obligation d’emprunter le chemin indiqué.
+<sup>3</sup> Ajoutée aux signaux «Piste cyclable» (2.60), «Piste cyclable et chemin pour piétons, avec partage de l’aire de circulation» (2.63) et «Piste cyclable et chemin pour piétons sans partage de l’aire de circulation» (2.63.1), la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image2.png) facultatif» exempte les conducteurs de cyclomoteurs lourds et de cyclomoteurs rapides de l’obligation d’emprunter le chemin indiqué.
 
-<sup>4</sup> Ajoutée aux signaux «Piste cyclable» (2.60), «Piste cyclable et chemin pour piétons, avec partage de l’aire de circulation» (2.63) et «Piste cyclable et chemin pour piétons sans partage de l’aire de circulation» (2.63.1), la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image2.png) interdits» interdit aux conducteurs de cyclomoteurs lourds et de cyclomoteurs rapides d’emprunter le chemin indiqué. Cette plaque complémentaire ne peut être utilisée que dans des cas exceptionnels, notamment lorsque la fréquentation piétonne est élevée et que l’espace manque.
+<sup>4</sup> Ajoutée aux signaux «Piste cyclable» (2.60), «Piste cyclable et chemin pour piétons, avec partage de l’aire de circulation» (2.63) et «Piste cyclable et chemin pour piétons sans partage de l’aire de circulation» (2.63.1), la plaque complémentaire «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image2.png) interdits» interdit aux conducteurs de cyclomoteurs lourds et de cyclomoteurs rapides d’emprunter le chemin indiqué. Cette plaque complémentaire ne peut être utilisée que dans des cas exceptionnels, notamment lorsque la fréquentation piétonne est élevée et que l’espace manque.
 
 <sup>5</sup> Au besoin, la fin des autorisations visées aux al. 1 et 3 et de l’interdiction visée à l’al. 4 peut être signalée au moyen d’une plaque complémentaire sur laquelle les indications sont barrées par trois traits noirs en diagonale partant du bord inférieur gauche vers le bord supérieur droit.
 
@@ -1235,7 +1359,7 @@ Le champ d’application de signaux peut être matérialisé au moyen d’une pl
 
 <sup>4</sup> La plaque complémentaire «Chaussée verglacée» (5.13) avertit les conducteurs que la chaussée est verglacée ou recouverte de neige glissante. Elle sera notamment ajoutée au signal «Chaussée glissante» (1.05); elle doit être enlevée ou recouverte dès qu’il ne faut plus s’attendre à de la neige glissante ou à la formation de glace.
 
-<sup>5</sup> Pour réserver certaines cases de stationnement aux personnes à mobilité réduite, il faut ajouter, près des cases en question, la plaque complémentaire «Handicapés» (5.14) au signal «Parcage autorisé» (4.17); seul celui qui est handicapé ou qui accompagne une personne à mobilité réduite a le droit de parquer à ces endroits. La «Carte de stationnement pour personnes handicapées» (annexe 3, ch. 2) doit être placée de manière bien visible derrière le pare-brise.[^65-4]
+<sup>5</sup> Pour réserver certaines cases de stationnement aux personnes à mobilité réduite, il faut ajouter, près des cases en question, une plaque complémentaire avec le symbole «Handicapés» (5.34.4) au signal «Parcage autorisé» (4.17); seul celui qui est handicapé ou qui accompagne une personne à mobilité réduite a le droit de parquer à ces endroits. La «Carte de stationnement pour personnes handicapées» (annexe 3, ch. 2) doit être placée de manière bien visible derrière le pare-brise.[^65-4]
 
 <sup>6</sup> Ajoutée au signal «Chaussée rétrécie» (1.07), la plaque complémentaire «Largeur de la chaussée» (5.15) indique la largeur de la chaussée à son endroit le plus étroit.
 
@@ -1249,11 +1373,11 @@ Le champ d’application de signaux peut être matérialisé au moyen d’une pl
 
 <sup>11</sup> Le symbole «Hôpital avec service d’urgence» (5.56) indique un hôpital pour soins aigus doté d’une permanence d’urgence fonctionnant 24 heures sur 24.[^65-9]
 
-<sup>12</sup> La plaque complémentaire munie du symbole «Téléphone de secours» (5.57) ou du symbole «Extincteur» (5.58) et ajoutée au signal «Place d’arrêt pour véhicules en panne» (4.16) indique que la place d’arrêt est munie des équipements en question.[^65-10]
+<sup>12</sup> La plaque complémentaire munie du symbole «Téléphone de secours» (5.57) ou du symbole «Extincteur» (5.59) et ajoutée au signal «Place d’arrêt pour véhicules en panne» (4.16) indique que la place d’arrêt est munie des équipements en question.[^65-10]
 
 <sup>13</sup> La plaque complémentaire constituée du symbole «Station de recharge» (5.42) et ajoutée aux signaux «Parcage autorisé» (4.17), «Parcage avec disque de stationnement» (4.18) et «Parcage contre paiement» (4.20) indique que la surface concernée ne peut être utilisée que pour la recharge de véhicules à propulsion électrique.[^65-11]
 
-<sup>14</sup> La plaque complémentaire «<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image3.png)</sub> autorisée» ajoutée au signal «Interdiction de parquer» (2.50) indique que la surface concernée peut être utilisée pour la recharge de véhicules à propulsion électrique.[^65-12]
+<sup>14</sup> La plaque complémentaire «<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image3.png)</sub> autorisée» ajoutée au signal «Interdiction de parquer» (2.50) indique que la surface concernée peut être utilisée pour la recharge de véhicules à propulsion électrique.[^65-12]
 
 <sup>15</sup> La plaque complémentaire portant la mention «Excepté» et le symbole «Covoiturage» (5.43) ajoutée aux signaux «Interdiction générale de circuler dans les deux sens» (2.01), «Circulation interdite aux voitures automobiles» (2.03) et «Chaussée réservée aux bus» (2.64) indique que la chaussée ou la voie concernée peut être utilisée par des véhicules transportant un nombre de personnes au moins équivalent à celui inscrit sur le symbole.[^65-13]
 
@@ -1262,13 +1386,13 @@ Le champ d’application de signaux peut être matérialisé au moyen d’une pl
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
 [^65-2]: Nouvelle teneur selon l’annexe 1 ch. II 5 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^65-3]: Nouvelle teneur selon l’annexe ch. II 1 de l’O du 12 nov. 2003, en vigueur depuis le 14 déc. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
-[^65-4]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+[^65-4]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^65-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)). Abrogé par le ch. I de l’O du 13 déc. 2024, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
 [^65-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
 [^65-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^65-8]: Introduit par le ch. I de l’O du 20 sept. 2002, en vigueur depuis le 23 sept. 2002 ([RO 2002 3174](https://fedlex.data.admin.ch/eli/oc/2002/470)).
 [^65-9]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^65-10]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^65-10]: Introduit par le ch. I de l’O du 17 août 2005 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)). Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^65-11]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 [^65-12]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 [^65-13]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
@@ -1307,12 +1431,12 @@ L’arrêt peut être ordonné en outre:
 
 - a.[^66-2] par les patrouilleurs scolaires, le personnel des entreprises et les cadets chargés de régler la circulation, au moyen d’une palette réfléchissante ayant la forme et l’aspect du signal «Interdiction générale de circuler dans les deux sens» (2.01) et, de nuit ou lorsque les conditions atmosphériques l’exigent, au moyen d’un bâton lumineux rouge ou d’une palette lumineuse rouge;
 - b. par le personnel d’exploitation[^66-3] près des voies ferrées, au moyen d’un fanion rouge ou rouge et blanc de nuit ou lorsque les conditions atmosphériques l’exigent, au moyen d’une lumière rouge;
-- c. par le personnel des chantiers de construction des routes, au moyen d’une palette réfléchissante ayant la forme et l’aspect des signaux «Accès interdit» (2.02) et «Interdiction générale de circuler dans les deux sens» (2.01) ou encore[^66-4] au moyen d’un fanion rouge ou rouge et blanc. L’art. 80, al. 4, s’applique aux palettes à faces alternantes utilisées près des chantiers.
+- c.[^66-4] par le personnel des chantiers de construction des routes, au moyen d’une palette réfléchissante ayant la forme et l’aspect des signaux «Accès interdit» (2.02) ou «Interdiction générale de circuler dans les deux sens» (2.01) ou encore au moyen d’un fanion rouge ou rouge et blanc; l’art. 80, al. 5, s’applique aux palettes à faces alternantes utilisées près des chantiers.
 
 [^66-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 [^66-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 1992, en vigueur depuis le 15 mars 1992 ([RO 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)).
 [^66-3]: Nouvelle expression selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^66-4]: [RO 1980 449](https://fedlex.data.admin.ch/eli/oc/1980/449_449_447)
+[^66-4]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 67
 
@@ -1514,44 +1638,79 @@ La hauteur inférieure du bord des feux est de:
 
 <sup>1bis</sup> Les éléments de construction qui ressemblent à des marques, qui peuvent être confondus avec elles ou compromettre leurs effets ou qui peuvent donner l’impression d’avoir une signification du point de vue de la législation sur la circulation routière sont prohibés.[^72-2]
 
-<sup>2</sup> Lorsque des marques sur la chaussée doivent être provisoirement déplacées (p. ex. en cas de travaux de construction, de déviation), des disques bombés jaune-orange, munis de réflecteurs jaune-orange, des marques jaune-orange ou des éléments allongés de balisage jaune-orange seront utilisés pour indiquer que les marques blanches existantes ne sont plus valables. Pour mieux indiquer le tracé à suivre, il est possible de compléter les éléments allongés de balisage et les marques par des catadioptres.[^72-3]
+<sup>1ter</sup> Les dimensions des marques sont régies par l’annexe 1. Il est autorisé de déroger aux dimensions légales dans des cas particuliers justifiés, notamment lorsque la place ne suffit pas pour les dimensions prévues.[^72-3]
 
-<sup>3</sup> Des indications de direction ainsi que les inscriptions prévues par la présente ordonnance peuvent être portées sur la chaussée. Le DETEC peut en outre prévoir des marques particulières, notamment pour clarifier des signaux ou pour attirer l’attention sur des particularités locales.[^72-4]
+<sup>1quater</sup> Les marques doivent être disposées de telle sorte qu’elles soient bien visibles pour les usagers de la route, dans le sens de circulation, malgré l’angle de vue rasant. Il convient notamment d’élargir les flèches apposées perpendiculairement au sens de circulation et d’allonger les symboles et les inscriptions placés dans le sens de circulation.[^72-4]
+
+<sup>2</sup> Lorsque des marques sur la chaussée doivent être provisoirement déplacées (p. ex. en cas de travaux de construction, de déviation), des disques bombés jaune-orange, munis de réflecteurs jaune-orange, des marques jaune-orange ou des éléments allongés de balisage jaune-orange seront utilisés pour indiquer que les marques blanches existantes ne sont plus valables. Pour mieux indiquer le tracé à suivre, il est possible de compléter les éléments allongés de balisage et les marques par des catadioptres.[^72-5]
+
+<sup>3</sup> Des indications de direction, les inscriptions prévues par la présente ordonnance et le symbole «Autoroute» (5.72) peuvent être placés sur la chaussée. Le DETEC peut en outre prévoir des marques particulières, notamment pour clarifier des signaux ou pour attirer l’attention sur des particularités locales.[^72-6]
 
 <sup>4</sup> L’art. 90 s’applique en outre aux marques apposées sur les autoroutes et les semi-autoroutes.
 
-<sup>5</sup> Le DETEC édicte des instructions concernant les marques.
+<sup>5</sup> …[^72-7]
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
 [^72-2]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)). Voir aussi l’al. 1 des disp. fin. de cette modification, avant l’annexe 1.
-[^72-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
-[^72-4]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+[^72-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^72-4]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^72-5]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
+[^72-6]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^72-7]: Abrogé par le ch. I de l’O du 19 déc. 2025, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 72a
 
 **Marques tactilo-visuelles**[^72a-1]
 
-<sup>1</sup> Les marques tactilo-visuelles peuvent être utilisées sur des aires de circulation affectées aux piétons (y compris les passages pour piétons) dans le but d’accroître la sécurité des personnes aveugles et malvoyantes et d’améliorer leur orientation.
+<sup>1</sup> Les marques tactilo-visuelles sont apposées là où les éléments de construction ne garantissent ni la sécurité ni l’orientation des personnes aveugles et malvoyantes ou là où il existe un réel besoin de guider ces personnes. Elles peuvent être utilisées sur les aires de circulation affectées aux piétons, y compris sur les passages pour piétons.[^72a-2]
 
-<sup>2</sup> Sont admises les lignes de guidage, les lignes de sécurité indiquant la limite d’une zone dangereuse, les aires de bifurcation aux endroits où il est possible de changer de direction, les aires terminales à la fin d’une ligne de guidage ainsi que les zones d’attention, notamment aux endroits dangereux.
+<sup>2</sup>
+
+Les marques tactilo-visuelles ci-après sont utilisées aux fins suivantes:
+
+- a. pour assurer le guidage: des «lignes de guidage tactilo-visuelles» (6.30);
+- b. pour délimiter une zone dangereuse le long d’arrêts des transports publics en trafic de ligne: des «lignes de sécurité tactilo-visuelles» (6.31);
+- c. pour signaler des intersections du système de lignes de guidage: des «aires de bifurcation tactilo-visuelles» (6.32);
+- d. pour signaler la fin d’une ligne de guidage: des «aires terminales tactilo-visuelles» (6.33);
+- e. pour signaler le début et la fin de lignes de guidage tactilo-visuelles et d’étapes importantes ainsi que pour avertir de la présence d’endroits dangereux: des «zones d’attention tactilo-visuelles» (6.34);
+- f. pour signaler des rampes d’accès locales pour fauteuils roulants par exemple et le passage de la zone piétonne à la chaussée: des «bandes tactilo-visuelles» (6.35).[^72a-3]
 
 <sup>3</sup> Les marques sont blanches; sur la chaussée, elles sont jaunes.
 
 [^72a-1]: Introduit par le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^72a-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^72a-3]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+
+#### Art. 72b
+
+**Feux encastrés**[^72b-1]
+
+<sup>1</sup> Les feux encastrés sont des points lumineux incorporés dans la chaussée, qui diffusent une lumière jaune-orange lorsqu’ils sont allumés. Ils peuvent être utilisés pour diriger la circulation de l’autre côté de la berme centrale des autoroutes et semi-autoroutes, notamment avant et après un tunnel.
+
+<sup>2</sup> Lorsque les feux encastrés sont allumés, ils rendent caduques les marques blanches.
+
+[^72b-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 73
 
 **Lignes de sécurité, lignes de direction, lignes doubles et lignes d’avertissement**
 
-<sup>1</sup> Les lignes de sécurité (continues, de couleur blanche; 6.01) marquent le milieu de la chaussée ou délimitent les voies de circulation. Les lignes de sécurité servent aussi à délimiter la chaussée ou les voies de circulation par rapport aux voies ferrées. Elles ne doivent pas être plus longues qu’il n’est nécessaire, compte tenu de la visibilité et de la vitesse habituelle des véhicules.
+<sup>1</sup> Les lignes de sécurité (continues, de couleur blanche; 6.01) marquent le milieu de la chaussée ou délimitent les voies de circulation. Elles servent aussi à délimiter la chaussée ou les voies de circulation par rapport aux voies ferrées.[^73-1]
 
-<sup>2</sup> Les chaussées comprenant au moins trois voies de circulation et, si les besoins spécifiques en matière de sécurité l’exigent, les chaussées n’en comprenant que deux, peuvent être marquées d’une double ligne de sécurité (6.02) servant à séparer les deux sens de circulation.[^73-1]
+<sup>1bis</sup>
+
+Les lignes de sécurité ne doivent pas être plus longues que nécessaire, compte tenu de la visibilité et de la vitesse habituelle des véhicules. Elles doivent toutefois toujours présenter les longueurs minimales suivantes:
+
+- a. en localité: 20 m;
+- b. hors localité: 50 m.[^73-2]
+
+<sup>2</sup> Les chaussées comprenant au moins trois voies de circulation et, si les besoins spécifiques en matière de sécurité l’exigent, les chaussées n’en comprenant que deux, peuvent être marquées d’une double ligne de sécurité (6.02) servant à séparer les deux sens de circulation.[^73-3]
 
 <sup>3</sup> Les lignes de direction (discontinues, de couleur blanche; 6.03) marquent le milieu de la chaussée ou délimitent les voies de circulation.
 
 <sup>4</sup> Les lignes doubles (ligne de direction longeant une ligne de sécurité; 6.04) seront notamment marquées là où les conditions de visibilité n’exigent une restriction de la circulation que dans un sens.
 
-<sup>5</sup> Les lignes d’avertissement (blanches, discontinues; 6.05) servent à annoncer des lignes de sécurité et des lignes doubles.[^73-2] Leur marquage est obligatoire hors des localités et facultatif à l’intérieur de celles-ci.
+<sup>5</sup> Les lignes d’avertissement (blanches, discontinues; 6.05) servent à annoncer des lignes de sécurité et des lignes doubles.[^73-4] Leur marquage est obligatoire hors des localités et facultatif à l’intérieur de celles-ci.
 
 <sup>6</sup>
 
@@ -1561,17 +1720,21 @@ Les diverses lignes ont la signification suivante:
 - b. il est permis aux véhicules de franchir, avec la prudence qui s’impose, les lignes de direction et les lignes d’avertissement ou d’empiéter sur elles;
 - c. il est interdit aux véhicules se trouvant du côté de la ligne de sécurité de franchir les lignes doubles ou d’empiéter sur elles.
 
-<sup>7</sup> Lorsqu’une brève ligne (blanche) discontinue est marquée parallèlement à une ligne de sécurité, cette dernière peut être franchie à cet endroit par les véhicules se trouvant du côté de la ligne discontinue. Si la brève ligne discontinue est marquée en jaune, elle est destinée exclusivement aux bus publics en trafic de ligne ainsi qu’aux cyclistes et aux conducteurs de cyclomoteurs.[^73-3]
+<sup>7</sup> Lorsqu’une brève ligne (blanche) discontinue est marquée parallèlement à une ligne de sécurité, cette dernière peut être franchie à cet endroit par les véhicules se trouvant du côté de la ligne discontinue. Si la brève ligne discontinue est marquée en jaune, elle est destinée exclusivement aux bus publics en trafic de ligne ainsi qu’aux cyclistes et aux conducteurs de cyclomoteurs.[^73-5]
 
-[^73-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^73-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^73-3]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^73-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^73-2]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^73-3]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^73-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+[^73-5]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 
 #### Art. 74
 
 **Voies de circulation**[^74-1]
 
 <sup>1</sup> Les voies de circulation seront délimitées par des lignes de sécurité, des lignes de direction ou des lignes doubles (art. 73). Les art. 74*a* et 74*b* s’appliquent à la délimitation des bandes cyclables et des voies réservées aux bus.
+
+<sup>1bis</sup> La chaussée ne peut être séparée en plusieurs voies de circulation que si les véhicules peuvent se croiser et circuler de front sans empiéter sur une voie de circulation contiguë et sans danger. Dans les localités, la mise en place de bandes cyclables des deux côtés de la chaussée sans séparation des deux moitiés de la chaussée par une marque demeure réservée.[^74-2]
 
 <sup>2</sup> Les voies de circulation destinées aux véhicules obliquant à gauche, aux véhicules obliquant à droite ou à ceux qui continuent tout droit seront désignées par des flèches blanches de présélection (6.06) dirigées dans le sens correspondant. Le conducteur ne peut traverser les intersections que dans la direction des flèches de présélection marquées sur sa voie de circulation. Les flèches jaunes sont destinées exclusivement aux conducteurs des bus publics en trafic de ligne; elles les autorisent à circuler dans la direction indiquée.
 
@@ -1580,6 +1743,7 @@ Les diverses lignes ont la signification suivante:
 <sup>4</sup> Les flèches de direction blanches indiquent la direction que les conducteurs doivent prendre.
 
 [^74-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+[^74-2]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 74a
 
@@ -1644,7 +1808,7 @@ Les voies réservées aux bus, qui sont délimitées par des lignes jaunes conti
 
 <sup>5</sup> Le marquage des lignes d’arrêt et des lignes d’attente sur les routes principales qui changent de direction dans une intersection est régi par l’art. 76, al. 2, let. b.
 
-<sup>6</sup> Les lignes d’arrêt et les lignes d’attente qui concernent exclusivement les conducteurs de cycles et de cyclomoteurs (p. ex. sur des bandes cyclables, des pistes cyclables) peuvent être jaunes.[^75-4]
+<sup>6</sup> Les lignes d’arrêt et les lignes d’attente qui concernent exclusivement les conducteurs de cycles et de cyclomoteurs ou les conducteurs de bus publics en trafic de ligne peuvent être jaunes.[^75-4]
 
 <sup>7</sup>
 
@@ -1656,14 +1820,16 @@ Avant les signaux lumineux, des lignes d’arrêt jaunes peuvent être marquées
 [^75-1]: Nouvelle teneur selon l’annexe 1 ch. II 5 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^75-2]: Erratum du 8 avr. 2024, ne concerne que le texte italien ([RO 2024 144](https://fedlex.data.admin.ch/eli/oc/2024/144)).
 [^75-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
-[^75-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+[^75-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)). Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^75-5]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 
 #### Art. 76
 
-**Lignes de bordure et lignes de guidage**
+**Lignes de bordure, lignes de rabattement et lignes de guidage[^76-1]**
 
 <sup>1</sup> Les lignes de bordure (continues, de couleur blanche; 6.15) marquent le bord de la chaussée.
+
+<sup>1bis</sup> Les lignes de rabattement (continues, de couleur blanche; 6.16.4) contournent des îlots et d’autres éléments de construction sur la chaussée ou en bordure de cette dernière.[^76-2]
 
 <sup>2</sup>
 
@@ -1671,13 +1837,15 @@ Les lignes de guidage (discontinues, de couleur blanche; 6.16) servent au guidag
 
 - a. elles délimitent la chaussée en prolongement des lignes d’arrêt et des lignes d’attente (art. 75) dans les larges débouchés (6.16.1);
 - b. elles indiquent le tracé de la route principale qui change de direction dans une intersection (6.16.2). Les débouchés de routes seront marqués d’une ligne d’arrêt ou d’une ligne d’attente. Aux endroits où cela semble opportun, la partie correspondante de la ligne de guidage peut être remplacée par une ligne d’arrêt ou par une ligne d’attente (p. ex. 6.16.3);
-- c. elles constituent une délimitation entre la chaussée et les aires contiguës de circulation qui ne forment pas une intersection avec la chaussée (art. 1, al. 8 et art. 15, al. 3, OCR[^76-1]);
-- d.[^76-2] elles délimitent les aires situées au milieu de la chaussée et parallèlement à celle-ci, et qui ne constituent pas des voies de circulation.
+- c. elles constituent une délimitation entre la chaussée et les aires contiguës de circulation qui ne forment pas une intersection avec la chaussée (art. 1, al. 8 et art. 15, al. 3, OCR[^76-3]);
+- d.[^76-4] elles délimitent les aires situées au milieu de la chaussée et parallèlement à celle-ci, et qui ne constituent pas des voies de circulation.
 
 <sup>3</sup> Des lignes de guidage ne doivent pas être marquées aux intersections où s’applique la priorité de droite prévue par la loi (art. 36, al. 2, LCR).
 
-[^76-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
-[^76-2]: Introduite par le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+[^76-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^76-2]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^76-3]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^76-4]: Introduite par le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
 
 #### Art. 77
 
@@ -1707,7 +1875,7 @@ Les surfaces interdites au trafic (blanches, hachurées et encadrées; 6.20) ser
 
 <sup>2</sup> Les cases de stationnement sont délimitées par des lignes continues. À la place des lignes continues, on peut utiliser un marquage partiel. Les marques sont blanches; pour les cases situées dans la «zone bleue», elles sont bleues. Les cases de stationnement blanches ou bleues peuvent également être indiquées par un revêtement particulier qui se distingue nettement de la chaussée.
 
-<sup>3</sup> Le début et la fin d’une «zone bleue» peuvent être indiqués au moyen d’une double ligne transversale de couleur bleue et blanche; la ligne bleue se trouvera du côté intérieur de la zone.
+<sup>3</sup> Le début et la fin d’une zone bleue peuvent être indiqués au moyen de la marque «Double ligne transversale» (de couleur blanche et bleue; 6.24); la ligne bleue se trouve du côté intérieur de la zone.[^79-2]
 
 <sup>4</sup>
 
@@ -1715,31 +1883,33 @@ Il est possible de réserver des cases de stationnement aux catégories de véhi
 
 - a. le symbole «Cycle» (5.31), pour les cycles et les cyclomoteurs;
 - b. le symbole «Motocycle» (5.29), pour les motocycles;
-- c. le symbole «Handicapés» (5.14), pour les personnes qui disposent d’une «carte de stationnement pour personnes handicapées»;
+- c.[^79-3] le symbole «Handicapés» (5.34.4), pour les personnes qui disposent d’une «carte de stationnement pour personnes handicapées»;
 - d. le symbole «Station de recharge» (5.42), pour les véhicules électriques en cours de recharge;
-- e.[^79-2] le symbole «Covoiturage» (5.43), pour les véhicules transportant, à l’arrivée, un nombre de personnes au moins équivalent à celui inscrit sur le symbole;
-- f.[^79-3] le symbole «Vélo-cargo» (5.31.1), pour les cycles et les cyclomoteurs destinés au transport d’enfants, de passagers ou de choses ainsi que pour les cycles et les cyclomoteurs avec remorque.
+- e.[^79-4] le symbole «Covoiturage» (5.43), pour les véhicules transportant, à l’arrivée, un nombre de personnes au moins équivalent à celui inscrit sur le symbole;
+- f.[^79-5] le symbole «Vélo-cargo» (5.31.1), pour les cycles et les cyclomoteurs destinés au transport d’enfants, de passagers ou de choses ainsi que pour les cycles et les cyclomoteurs avec remorque.
 
 <sup>5</sup> Les cases de stationnement réservées à certains groupes d’utilisateurs sont marquées en jaune. Celles pour les cycles et les cyclomoteurs peuvent aussi être marquées en jaune.
 
 <sup>6</sup> Là où sont marquées des cases de stationnement, les véhicules doivent stationner uniquement dans les limites de ces cases. Les cases de stationnement ne doivent être utilisées que par les véhicules des catégories pour lesquelles elles ont été dimensionnées. Les cases de stationnement réservées à une catégorie de véhicules ou à un groupe d’utilisateurs ne peuvent être utilisées que par celle-ci ou celui-ci.
 
 [^79-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
-[^79-2]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
-[^79-3]: Introduite par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
+[^79-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^79-3]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^79-4]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
+[^79-5]: Introduite par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
 
 #### Art. 79a
 
 **Marquage des interdictions de parquer et de s’arrêter**[^79a-1]
 
-<sup>1</sup> Les lignes interdisant le parcage (jaunes, interrompues par des x; 6.22) et les cases interdites au parcage (jaunes avec deux diagonales qui se croisent; 6.23) qui se trouvent sur le bord de la chaussée interdisent de parquer à l’endroit marqué. Si la case interdite au parcage porte une inscription telle que «Taxi» ou un numéro de plaque de contrôle, ou les symboles «Handicapés» (5.14), «Station de recharge» (5.42) ou «Véhicules équipés d’un système d’automatisation» (5.44), les arrêts servant à laisser monter ou descendre des passagers ainsi qu’à charger ou décharger des marchandises ne sont autorisés que si les ayants droit n’en sont pas gênés.[^79a-2]
+<sup>1</sup> Les lignes interdisant le parcage (jaunes, interrompues par des x; 6.22) et les cases interdites au parcage (jaunes avec deux diagonales qui se croisent; 6.23) qui se trouvent sur le bord de la chaussée interdisent de parquer à l’endroit marqué. Si la case interdite au parcage porte une inscription telle que «Taxi» ou un numéro de plaque de contrôle, ou les symboles «Handicapés» (5.34.4), «Station de recharge» (5.42) ou «Véhicules équipés d’un système d’automatisation» (5.44), les arrêts servant à laisser monter ou descendre des passagers ainsi qu’à charger ou décharger des marchandises ne sont autorisés que si les ayants droit n’en sont pas gênés.[^79a-2]
 
 <sup>2</sup> Les lignes (jaunes, continues; 6.25) marquées au bord de la chaussée interdisent l’arrêt volontaire à l’endroit indiqué.
 
 <sup>3</sup> Les lignes en zigzag (jaunes; 6.21) désignent les emplacements réservés aux arrêts des transports publics en trafic de ligne. Sur ces emplacements, l’arrêt n’est autorisé que pour permettre à des passagers de monter dans le véhicule ou d’en descendre, dans la mesure où les véhicules des transports publics en trafic de ligne n’en sont pas gênés.
 
 [^79a-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
-[^79a-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^79a-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 ## Chapitre 10 Chantiers, dispositifs de balisage, barrages
 
@@ -1747,17 +1917,24 @@ Il est possible de réserver des cases de stationnement aux catégories de véhi
 
 **Signalisation des chantiers**[^80-1]
 
-<sup>1</sup> Les chantiers situés sur la chaussée ou à ses abords immédiats seront annoncés par le signal «Travaux» (1.14) qui sera répété près du chantier même.
+<sup>1</sup> Les chantiers situés sur la chaussée ou à ses abords immédiats sont annoncés par le signal «Travaux» (1.14), qui est répété près du chantier même.
 
-<sup>2</sup> Sur les chantiers sans obstacle sur la chaussée, il est permis d’utiliser, pour garantir une meilleure conduite optique de la circulation, des dispositifs rayés rouge et blanc (tels que des balises de délimitation, des tonneaux) ou des cônes de balisage peints en rouge et blanc ou en orange.
+<sup>2</sup>
 
-<sup>3</sup> Sur les chantiers avec des obstacles de plus de 0,5 m de largeur sur la chaussée, on utilisera des barrages rayés rouge et blanc (tels que des planches, des éléments tubulaires, des treillis en ciseaux ou d’autres éléments stables).
+Sur les chantiers sans obstacle sur la chaussée ou avec des obstacles d’une largeur maximale de 0,5 m ainsi que sur les chantiers de courte durée, il est permis d’utiliser, pour garantir un meilleur guidage optique de la circulation, les dispositifs de balisage temporaires suivants:
 
-<sup>4</sup> Les palettes à faces alternantes utilisées pour régler la circulation là où la chaussée se rétrécit présentent, sur la face indiquant l’arrêt obligatoire, le signal «Accès interdit» (2.02) et, sur l’autre face indiquant le libre passage, un disque vert ayant une bordure blanche.
+- a. «Balise de guidage» (7.01) avec des bandes rouges et blanches diagonales ou avec une flèche blanche sur fond rouge; les balises de guidage sont placées de telle sorte que les bandes, du haut vers le bas, ou la flèche soient dirigées vers la chaussée;
+- b. «Cône de balisage» (7.02) à bandes blanches et rouges ou orange.
 
-<sup>5</sup> Le DETEC édicte des instructions concernant la mise en place des signaux et des marquages, des barrages et autres dispositifs, leur aspect ainsi que l’éclairage des chantiers.
+<sup>3</sup> Sur les chantiers avec des obstacles de plus de 0,5 m de largeur sur la chaussée, on utilise des barrages rayés rouge et blanc, tels que des planches, des éléments tubulaires, des treillis en ciseaux ou d’autres éléments stables.
 
-[^80-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+<sup>4</sup> Le dispositif de balisage temporaire «Panneau d’avertissement mobile» (7.03) est constitué d’une bordure rouge et blanche, du signal «Travaux» (1.14) ainsi que d’autres signaux nécessaires au guidage du trafic aux abords des chantiers. Il est également permis d’utiliser des flèches de rabattement (6.07) jaunes ou blanches en version lumineuse. Le dispositif de balisage doit être utilisé notamment sur les autoroutes et semi-autoroutes pour signaler la fermeture temporaire de la bande d’arrêt d’urgence ou des voies de circulation, la séparation des voies de circulation ou le déplacement latéral de ces dernières.
+
+<sup>5</sup> Le dispositif de balisage temporaire «Palette à faces alternantes» (7.04) est utilisé pour régler la circulation lorsque la chaussée se rétrécit. Il présente, sur une face, le signal «Accès interdit» (2.02) pour ordonner l’arrêt obligatoire et, sur l’autre face, un disque vert avec une bordure blanche pour indiquer le libre passage.
+
+<sup>6</sup> Les dispositifs de balisage temporaires destinés aux chantiers peuvent également être utilisés en présence d’autres obstacles provisoires sur la chaussée, notamment en cas d’accidents, afin de faciliter le guidage du trafic.
+
+[^80-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 81
 
@@ -1777,36 +1954,32 @@ Il est possible de réserver des cases de stationnement aux catégories de véhi
 
 #### Art. 82
 
-**Dispositifs de balisage**
+**Dispositifs de balisage**[^82-1]
 
-<sup>1</sup> Les dispositifs de balisage font ressortir clairement le tracé de la route et signalent les obstacles permanents situés à moins de 1 m du bord de la chaussée. Lorsqu’il est facilement reconnaissable, le tracé d’une route n’a pas besoin d’être signalé latéralement.
+<sup>1</sup> Les dispositifs de balisage font ressortir clairement le tracé de la route ou signalent les obstacles permanents qui se trouvent à côté ou au-dessus de la chaussée et qui compromettent la sécurité routière, notamment lorsque la visibilité est mauvaise. Lorsqu’il est facilement reconnaissable, le tracé d’une route n’a pas besoin d’être signalé latéralement.
 
 <sup>2</sup>
 
-Les dispositifs de balisage se présentent comme suit:[^82-1]
+Les bandes de balisage se présentent comme suit:
 
-- a. les surfaces frontales des obstacles (p. ex. les angles en saillie des maisons, les pieds-droits de tunnels) seront marquées de bandes noires et blanches dirigées obliquement vers la chaussée;
-- b.[^82-2] les surfaces frontales des obstacles (p. ex. les murs latéraux, les bordures de trottoirs, les parois de tunnels) seront marquées de bandes verticales noires et blanches ou d’une bande horizontale à champs alternés; les pointes des flèches de guidage seront blanches sur fond noir;
-- c. les poteaux, les mâts, les arbres, etc. seront munis de bandes horizontales noires et blanches.
-- d. les obstacles se trouvant au-dessus de la chaussée seront marqués par des bandes verticales noires et blanches.
+- a. les surfaces frontales des obstacles, telles que les angles en saillie des maisons ou les pieds-droits de tunnels, sont marquées de bandes noires et blanches dirigées obliquement vers la chaussée;
+- b. les surfaces latérales des obstacles, telles que les murs latéraux, les bordures de trottoirs ou les parois de tunnels, sont marquées de bandes verticales noires et blanches ou d’une bande verticale à champs alternés;
+- c. les obstacles tels que les poteaux, les mâts ou les arbres sont munis de bandes horizontales noires et blanches;
+- d. les obstacles se trouvant au-dessus de la chaussée sont marqués par des bandes verticales noires et blanches.
 
-<sup>3</sup> Lorsque les bords de la chaussée sont signalés sur toute leur longueur par des catadioptres, la balise de droite portera un catadioptre blanc de forme rectangulaire, monté verticalement (6.30), la balise de gauche deux catadioptres ronds, de couleur blanche placés l’un au-dessus de l’autre (6.31). Sur les routes dont les deux sens de circulation sont séparés et sur les routes sans circulation en sens inverse, une éventuelle balise de gauche aura un catadioptre blanc vertical.[^82-3]
+<sup>3</sup> Les dispositifs de balisage permanents «Balise de droite» (7.05) et «Balise de gauche» (7.06) sont des poteaux blancs à section circulaire ou triangulaire. Les poteaux à section circulaire sont munis d’une bande noire horizontale et ceux à section triangulaire d’une bande noire dirigée vers la chaussée. Les balises sont placées le long de la chaussée. Seuls des poteaux à section triangulaire sont utilisés sur les autoroutes et semi-autoroutes.
 
-<sup>4</sup> Les bornes des îlots seront munies de bandes horizontales ou verticales blanches et noires ou jaunes et noires.[^82-4]
+<sup>4</sup> La balise de droite comporte un catadioptre blanc rectangulaire, monté verticalement, et la balise de gauche présente deux catadioptres blancs ronds, placés l’un au-dessus de l’autre. Sur les routes avec séparation des sens de circulation et sur les routes sans circulation en sens inverse, une éventuelle balise de gauche sera munie d’un catadioptre blanc vertical.
 
-<sup>5</sup> Des séparateurs de trafic peuvent être utilisés pour diviser la chaussée sur les autoroutes ou les semi-autoroutes.[^82-5]
+<sup>5</sup> Le dispositif de balisage permanent «Flèche de guidage» (7.07) est composé de pointes de flèches blanches sur fond noir. Il est mis en place lorsque le tracé de la route ne peut pas être suffisamment signalé au moyen de balises. Les flèches de guidage multiples sont utilisées en particulier au niveau des intersections, tandis que les flèches de guidage simples et de grandeur croissante sont utilisées dans les virages.
 
-<sup>5bis</sup> Des flèches de rabattement jaunes en version lumineuse peuvent être utilisées sur des véhicules en mouvement ou à l’arrêt sur la chaussée.[^82-6]
+<sup>6</sup> Le dispositif de balisage permanent «Borne d’îlot» (7.08) est munie de bandes horizontales blanches et noires ou jaunes et noires. Il est utilisé sur les routes principales et secondaires notamment pour signaler des îlots.
 
-<sup>6</sup> Le DETEC édicte des instructions sur le genre, l’exécution et la disposition de dispositifs de balisage.[^82-7]
+<sup>7</sup> Le dispositif de balisage permanent «Séparateur de trafic» (7.09) peut être utilisé pour diviser la chaussée sur les autoroutes et semi-autoroutes.
 
-[^82-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^82-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^82-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^82-4]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^82-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^82-6]: Introduit par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5131](https://fedlex.data.admin.ch/eli/oc/2016/818)).
-[^82-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+<sup>8</sup> Des flèches de rabattement jaunes en version lumineuse peuvent être utilisées sur des véhicules en mouvement ou à l’arrêt sur la chaussée.
+
+[^82-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24))
 
 #### Art. 83
 
@@ -1828,13 +2001,14 @@ Les dispositifs de balisage se présentent comme suit:[^82-1]
 
 <sup>1</sup> Sur les autoroutes et les semi-autoroutes, les panneaux qui indiquent la direction portent des inscriptions blanches sur fond vert; en revanche, les panneaux ou les champs figurant sur des panneaux, qui indiquent des destinations accessibles par d’autres routes, portent des inscriptions blanches sur fond bleu.
 
-<sup>2</sup> Sur les panneaux de direction ainsi que sur les signaux placés avant une installation annexe ou un endroit dangereux, les distances sont indiquées en mètres, sauf sur le «Panneau des distances en kilomètres» (4.65).
+<sup>2</sup> Sur les panneaux de direction ainsi que sur les signaux placés avant une installation annexe ou un endroit dangereux, les distances sont indiquées en mètres, sauf sur le «Panneau des distances en kilomètres» (4.65). L’indication de la distance en kilomètres correspond au trajet depuis ledit panneau jusqu’au centre de la destination.[^84-1]
 
 <sup>3</sup> Lorsqu’un court tronçon d’une route principale est construit comme une semi-autoroute, ce tronçon sera signalé, en règle générale, à la manière d’une route principale (art. 37).
 
-<sup>4</sup> Un court tronçon construit comme une semi-autoroute entre un tronçon d’autoroute et un tronçon de route principale est signalé, en règle générale, à la manière d’une semi-autoroute (art. 45, al. 1). La réunion d’une autoroute ou d’une semi-autoroute avec un court tronçon d’une autre autoroute ou semi-autoroute sera signalée comme une jonction (art. 86), et non pas comme une ramification[^84-1] (art. 87).
+<sup>4</sup> Un court tronçon construit comme une semi-autoroute entre un tronçon d’autoroute et un tronçon de route principale est signalé, en règle générale, à la manière d’une semi-autoroute (art. 45, al. 1). La réunion d’une autoroute ou d’une semi-autoroute avec un court tronçon d’une autre autoroute ou semi-autoroute sera signalée comme une jonction (art. 86), et non pas comme un échangeur[^84-2] (art. 87).
 
-[^84-1]: [RO 1980 449](https://fedlex.data.admin.ch/eli/oc/1980/449_449_447)
+[^84-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^84-2]: Nouvelle expression selon le ch. I al. 1 de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 85
 
@@ -1848,7 +2022,7 @@ Les dispositifs de balisage se présentent comme suit:[^82-1]
 
 **Indication de direction aux abords des jonctions**
 
-<sup>1</sup> sont réputées jonctions les endroits où les voies d’accès et de sortie rejoignent les voies d’une autoroute ou d’une semi-autoroute. Elles porteront le nom d’une localité proche et, s’il s’agit d’une ville, l’indication éventuelle du quartier. Une seule localité sera indiquée.
+<sup>1</sup> Sont réputés jonctions les endroits où les voies d’accès et de sortie rejoignent les voies d’une autoroute ou d’une semi-autoroute.[^86-1]
 
 <sup>2</sup>
 
@@ -1861,7 +2035,7 @@ Il faut placer aux abords des jonctions:
 
 <sup>3</sup> Le «Panneau annonçant la prochaine jonction» porte la dénomination de celle-ci.
 
-<sup>4</sup> L’«Indicateur de direction avancé, destiné aux jonctions» porte sur la partie supérieure du panneau le nom de la jonction succédant à la prochaine sortie et, sur la partie inférieure, les noms qui figurent sur l’«Indicateur de direction destiné aux jonctions». Dans les localités frontière, on indiquera un centre de destination à la place du nom de la jonction succédant à la prochaine sortie et située en territoire étranger. S’il y a une ramification (art. 87, al. 1) après la jonction, il y a lieu d’indiquer, dans la partie supérieure du panneau, uniquement le nom de la ramification.[^86-1]
+<sup>4</sup> L’«Indicateur de direction avancé, destiné aux jonctions» porte sur la partie supérieure du panneau le nom de la jonction succédant à la prochaine sortie et, sur la partie inférieure, les noms qui figurent sur l’«Indicateur de direction destiné aux jonctions». Dans les localités frontière, on indiquera un centre de destination à la place du nom de la jonction succédant à la prochaine sortie et située en territoire étranger. S’il y a un échangeur (art. 87, al. 1) après la jonction, il y a lieu d’indiquer, dans la partie supérieure du panneau, uniquement le nom de l’échangeur.[^86-2]
 
 <sup>5</sup> L’«Indicateur de direction destiné aux jonctions» porte le nom de la jonction et, au maximum, celui de deux localités importantes accessibles par cette jonction. En règle générale, une localité est mentionnée uniquement à la jonction qui est la plus rapprochée.
 
@@ -1869,33 +2043,78 @@ Il faut placer aux abords des jonctions:
 
 <sup>7</sup> Il faut placer aux jonctions un «Panneau des distances en kilomètres» (4.65) 500 m après la fin de la voie d’accélération (art. 90, al. 2); ce panneau n’est pas nécessaire là où les jonctions se répètent à intervalles rapprochés. Il mentionne au maximum cinq centres de destination qui sont indiqués de bas en haut, du plus proche au plus lointain. Le centre de destination le plus éloigné figure tout en haut, le centre de destination le plus proche tout en bas; quant aux centres de destination accessibles par différentes autoroutes ou semi-autoroutes, ils seront groupés en conséquence.
 
-[^86-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+<sup>8</sup> Les plaques numérotées pour routes européennes et celles pour autoroutes et semi-autoroutes (art. 56, al. 2 et 3) sont placées, aux abords de jonctions, sur des panneaux de bifurcation, de présélection ou des distances en kilomètres. Les plaques numérotées pour jonctions (art. 56, al. 5) sont placées sous les signaux «Panneau annonçant la prochaine jonction» et «Indicateur de direction destiné aux jonctions».[^86-3]
+
+[^86-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^86-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^86-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 87
 
-**Indication de la direction aux abords des ramifications**
+**Indication de la direction aux abords des échangeurs**
 
 <sup>1</sup>
 
-Il faut placer aux abords des ramifications d’autoroutes et de semi-autoroutes:
+Il faut placer aux abords des échangeurs d’autoroutes et de semi-autoroutes:
 
-- a. un «Panneau de ramification» (4.66), 1500 m avant l’endroit où le nombre des voies augmente;
-- b. un panneau «Premier indicateur de direction avancé, destiné aux ramifications» (4.67), 1000 m avant l’endroit où le nombre des voies augmente;
-- c. un panneau «Deuxième indicateur de direction avancé, destiné aux ramifications» (4.68), 500 m avant l’endroit où le nombre des voies augmente;
-- d.[^87-1] un panneau «Panneau de présélection au-dessus d’une voie de circulation sur autoroute ou semi-autoroute» (4.69) à l’endroit où le nombre des voies augmente; si la distance jusqu’au sommet de l’angle formé par la ramification est supérieure à 200 m, le panneau sera répété au sommet de cet angle, si la distance est inférieure à 200 m, il sera remplacé, au sommet de cet angle, par un «Panneau de bifurcation» (4.64); sur les tronçons munis d’un système de signaux lumineux destiné à fermer temporairement des voies de circulation (2.65), on renoncera, sur le signal 4.69, à la flèche dirigée vers le bas;
-- e. un «Panneau des distances en kilomètres» (4.65), 500 m après la ramification, sur chacune des deux branches.
+- a. un «Panneau indicateur d’échangeur[^87-1]» (4.66), 1500 m avant l’endroit où le nombre des voies augmente;
+- b. un panneau «Premier indicateur de direction avancé, destiné aux échangeurs» (4.67), 1000 m avant l’endroit où le nombre des voies augmente;
+- c. un panneau «Deuxième indicateur de direction avancé, destiné aux échangeurs» (4.68), 500 m avant l’endroit où le nombre des voies augmente;
+- d.[^87-2] un panneau «Panneau de présélection au-dessus d’une voie de circulation sur autoroute ou semi-autoroute» (4.69) à l’endroit où le nombre des voies augmente; si la distance jusqu’au sommet de l’angle formé par l’échangeur est supérieure à 200 m, le panneau sera répété au sommet de cet angle, si la distance est inférieure à 200 m, il sera remplacé, au sommet de cet angle, par un «Panneau de bifurcation» (4.64); sur les tronçons munis d’un système de signaux lumineux destiné à fermer temporairement des voies de circulation (2.65), on renoncera, sur le signal 4.69, à la flèche dirigée vers le bas;
+- e. un «Panneau des distances en kilomètres» (4.65), 500 m après l’échangeur, sur chacune des deux branches.
 
-<sup>2</sup> Le nom de la ramification est mentionné sur une plaque complémentaire sous le «Panneau de ramification».[^87-2]
+<sup>2</sup> Le nom de l’échangeur est mentionné sur une plaque complémentaire sous le «Panneau indicateur d’échangeur».[^87-3]
 
-<sup>3</sup> Le panneau «Premier indicateur de direction avancé, destiné aux ramifications» désigne les prochains centres de destination de première importance (art. 49, al. 4) qui peuvent être atteints par chacune des deux branches. Au besoin, il sera remplacé par le «Panneau de présélection au-dessus d’une voie de circulation sur autoroute ou semi-autoroute».
+<sup>3</sup> Le panneau «Premier indicateur de direction avancé, destiné aux échangeurs» désigne les prochains centres de destination de première importance qui peuvent être atteints par chacune des deux branches. Au besoin, il sera remplacé par le «Panneau de présélection au-dessus d’une voie de circulation sur autoroute ou semi-autoroute».[^87-4]
 
-<sup>4</sup> Le panneau «Deuxième indicateur de direction avancé, destiné aux ramifications» désigne les prochains centres de destination de première importance et, le cas échéant, d’autres centres de destination qui se trouvent sur les deux branches. Ce panneau peut être remplacé, au besoin, par le «Panneau de présélection au-dessus d’une voie de circulation sur autoroute ou semi-autoroute».[^87-3]
+<sup>4</sup> Le panneau «Deuxième indicateur de direction avancé, destiné aux échangeurs» désigne les prochains centres de destination de première importance et les éventuels autres centres de destination de première ou de seconde importance situés sur les deux branches. Au besoin, il sera remplacé par le «Panneau de présélection au-dessus d’une voie de circulation sur autoroute ou semi-autoroute».[^87-5]
 
-<sup>5</sup> Si le nombre des voies n’augmente pas avant une ramification, la distance à laquelle doivent être placés les panneaux sera mesurée à partir d’un endroit situé 200 m avant le point de rencontre formé par le prolongement des lignes de bordures délimitant le triangle de ramification («nez géométrique»).
+<sup>4bis</sup> L’art. 86, al. 7, s’applique par analogie à l’aspect du «Panneau des distances en kilomètres» aux abords des échangeurs.[^87-6]
 
-[^87-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
-[^87-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^87-3]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+<sup>5</sup> Si le nombre des voies n’augmente pas avant un échangeur, la distance à laquelle doivent être placés les panneaux sera mesurée à partir d’un endroit situé 200 m avant le point de rencontre formé par le prolongement des lignes de bordures délimitant le triangle d’échangeur («nez géométrique»).
+
+<sup>6</sup> Les plaques numérotées pour routes européennes et celles pour autoroutes et semi-autoroutes (art. 56, al. 2 et 3) sont placées, aux abords d’échangeurs, sur les panneaux «Premier indicateur de direction avancé, destiné aux échangeurs» et «Deuxième indicateur de direction avancé, destiné aux échangeurs» ainsi que sur les panneaux de présélection, de bifurcation ou des distances en kilomètres. Les plaques numérotées pour échangeurs (art. 56, al. 5) sont placées sous les panneaux indicateurs d’échangeur.[^87-7]
+
+[^87-1]: Nouvelle expression selon le ch. I al. 4 de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)). Il a été tenu compte de cette mod. dans tout le texte.
+[^87-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
+[^87-3]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^87-4]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^87-5]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^87-6]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^87-7]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+
+#### Art. 87a
+
+**Désignation des jonctions et des échangeurs ainsi que des centres de destination aux abords des autoroutes et semi-autoroutes**[^87a-1]
+
+<sup>1</sup> Les jonctions et les échangeurs portent le nom d’une localité proche, complété au besoin par l’indication du quartier s’il s’agit d’une ville. Une seule localité peut être indiquée.
+
+<sup>2</sup> Les centres de destination de première importance sont des centres suprarégionaux et postes de douane majeurs. Les centres de destination de seconde importance sont des centres régionaux majeurs.
+
+<sup>3</sup> Les localités plurilingues dans lesquelles la minorité linguistique représente au moins 30 % des habitants peuvent être mentionnées en deux langues sur les panneaux d’indication de la direction situés aux abords des jonctions et des échangeurs. Sur les autoroutes et semi-autoroutes nationales, la désignation bilingue s’opère à la demande du canton ou de la commune concernés. La demande doit être déposée auprès de l’OFROU. Le rejet de la demande est notifié sous la forme d’une décision sujette à recours.
+
+<sup>4</sup> Les panneaux de direction sur les autoroutes et semi-autoroutes (annexe 2, ch. 4, let. c) ne peuvent indiquer que les localités et centres de destination désignés par l’OFROU.
+
+[^87a-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+
+#### Art. 87b
+
+**Compétences**[^87b-1]
+
+<sup>1</sup>
+
+Le DETEC règle les modalités concernant:
+
+- a. la désignation des jonctions et des échangeurs sur les autoroutes et semi-autoroutes nationales ainsi que des centres de destination;
+- b. la désignation des autres localités importantes accessibles via une jonction sur les autoroutes et semi-autoroutes nationales;
+- c. la procédure de désignation bilingue de localités plurilingues;
+- d. les indications figurant sur les panneaux de direction installés sur les autoroutes et semi-autoroutes.
+
+<sup>2</sup> Le DETEC peut régler les modalités concernant la désignation des jonctions et des échangeurs sur les autoroutes et semi-autoroutes cantonales ainsi que des autres localités importantes accessibles via la jonction concernée.
+
+<sup>3</sup> L’OFROU désigne dans une ordonnance, en accord avec les cantons, les jonctions et les échangeurs sur les autoroutes et semi-autoroutes nationales ainsi que les centres de destination. Il peut également désigner, en accord avec les cantons, les autres localités importantes accessibles via une jonction, ainsi que les jonctions et les échangeurs sur les autoroutes et semi-autoroutes cantonales. Il en liste les noms dans des annexes de l’ordonnance correspondante du DETEC.
+
+[^87b-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 88
 
@@ -1909,65 +2128,89 @@ Il faut placer aux abords des ramifications d’autoroutes et de semi-autoroutes
 
 #### Art. 89
 
-**Indications diverses**
+**Aires de ravitaillement et aires de repos**[^89-1]
 
 <sup>1</sup>
 
-Sur les autoroutes et semi-autoroutes, il ne faut annoncer les places de stationnement, les postes d’essence et autres installations annexes (p. ex. les restaurants, les postes d’information) par les signaux correspondants que s’il est possible d’accéder à l’installation ou à l’établissement par l’autoroute ou la semi-autoroute. Le cas échéant, le signal approprié sera placé aux endroits suivants:
+Sur les autoroutes et semi-autoroutes, il ne faut annoncer les places de stationnement, les stations-service, les stations de recharge et les autres installations annexes, telles que les restaurants ou les postes d’information, par les signaux et symboles correspondants que s’il est possible d’accéder à l’installation ou à l’établissement par l’autoroute ou la semi-autoroute. Le signal approprié est placé aux endroits suivants:
 
 - a. entre 2000 et 1000 m avant le début de la voie de décélération (art. 90, al. 2), avec l’indication de la distance;
 - b. 500 m avant le début de la voie de décélération, avec l’indication de la distance;
-- c. au début de la voie de décélération;
-- d. au sommet de l’angle formé par la chaussée et la voie d’accès aux installations annexes.
+- c. au début de la voie de décélération, avec une flèche dirigée vers celle-ci;
+- d. au sommet de l’angle formé par la chaussée et la voie d’accès aux installations annexes, avec une flèche dirigée vers l’installation annexe concernée.
 
-<sup>2</sup>
+<sup>2</sup> Sur le signal «Aire de ravitaillement» (4.74) peuvent figurer, outre le nom de l’aire de ravitaillement, les symboles «Station de recharge» (5.42), «Station-service» (5.61), «Hôtel-motel» (5.62), «Restaurant» (5.63), «Rafraîchissements» (5.64) et «Poste d’information» (5.65) ainsi que le symbole du signal «Station-service proposant du carburant de remplacement» (4.81) et, le cas échéant, d’autres informations sur les offres de stationnement.
 
-Le signal «Disposition des voies de circulation» (4.77), assorti des flèches appropriées, sera placé:
+<sup>3</sup> Les aires de repos sont annoncées par le signal «Parcage autorisé» (4.17). Sur ce dernier peuvent figurer, outre le nom de l’aire, le symbole «Station de recharge» (5.42) et d’autres informations sur les offres de stationnement.
 
-- a. là où le nombre des voies de circulation augmente ou diminue;
-- b. là où la circulation est dirigée, par delà la berme centrale, sur la chaussée servant au trafic en sens inverse;
-- c. pour confirmer, au besoin, le nombre des voies de circulation.
+<sup>4</sup> Pour annoncer la station-service suivante, la plaque complémentaire «Station-service suivante» (5.17) peut être placée sous les panneaux d’indication visés à l’al. 1, let. a et b.
 
-<sup>3</sup>
+[^89-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24))
 
-Sur les autoroutes et semi-autoroutes, le signal «Bulletin routier radiophonique» (4.90) sera placé seulement:
+#### Art. 89a
 
-- a. aux endroits où la gamme de fréquence change;
-- b. après des voies d’accès importantes et avant des tunnels relativement longs;
-- c. à proximité de la frontière nationale.[^89-1]
+**Indications diverses**[^89a-1]
 
-<sup>4</sup> Pour annoncer le prochain téléphone de secours, la «Plaque indiquant un téléphone de secours» (4.70) sera placée à des intervalles de 50 m sur les dispositifs de balisage ou au-dessus.
+<sup>1</sup>
 
-<sup>5</sup> Pour annoncer des centres de police, le «Panneau indiquant un centre de police» (4.71) sera placé entre 700 et 800 m avant la voie d’accès ou avant la sortie correspondante avec mention de la distance. Le terme «Police» peut être répété sur les panneaux indiquant la direction, au-dessous des autres inscriptions, en caractères noirs sur champ blanc.
+Les signaux visés à l’art. 59, al. 1 et 2<sup>ter</sup>, assortis des flèches appropriées, sont placés comme suit:
 
-<sup>6</sup> Des plaques indiquant le nombre de kilomètres (4.72) et d’hectomètres (4.73) peuvent être placées sur les autoroutes et les semi-autoroutes.[^89-2]
+- a. là où le nombre de voies de circulation augmente ou diminue: le signal «Disposition des voies de circulation» (4.77);
+- b. là où la circulation est dirigée, via la berme centrale, sur la chaussée opposée: le signal «Déviation de voies de circulation» (4.77.4);
+- c. si nécessaire, pour confirmer le nombre de voies de circulation: le signal «Disposition des voies de circulation» (4.77).
 
-<sup>7</sup> Pour annoncer le poste d’essence suivant, la plaque complémentaire «Poste d’essence suivant» (5.17) peut être placée sous les panneaux d’indication visés au al. 1, let. a et b.[^89-3]
+<sup>2</sup> Le signal «Bulletin routier radiophonique» (4.82) est placé sur les autoroutes et semi-autoroutes, avant des tunnels relativement longs. Il indique qu’il est possible de recevoir, par radio, des informations spécifiques relatives à des évènements survenant dans le tunnel concerné et, le cas échéant, des consignes sur le comportement à adopter.
 
-<sup>8</sup> L’OFROU fixe dans des instructions les indications (p. ex. hôpital, centre ville, quai de chargement des voitures sur le rail ou le bac) pouvant être apposées, à quelles conditions et sous quelle forme.[^89-4]
+<sup>3</sup> Pour annoncer le prochain téléphone de secours, la «Plaque indiquant un téléphone de secours» (4.70) est placée à des intervalles de 50 m sur les dispositifs de balisage ou au-dessus de ces derniers.
 
-<sup>9</sup> Sur les autoroutes et semi-autoroutes, il est permis de placer des panneaux qui fournissent des informations sur la circulation, la régulation du trafic sur un large périmètre et l’état des routes, pour autant que cela s’impose pour des raisons de sécurité routière ou de protection de l’environnement.[^89-5]
+<sup>4</sup> Pour annoncer des centres de police, le «Panneau indiquant un centre de police» (4.71) est placé entre 700 et 800 m avant la voie d’accès ou avant la sortie correspondante, avec mention de la distance. L’indication «Police» peut être répétée sur les panneaux indiquant la direction, en dessous des autres inscriptions, en caractères noirs sur un champ de couleur blanche.
 
-[^89-1]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^89-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^89-3]: Introduit par le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^89-4]: Introduit par le ch. I de l’O du 25 janv. 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^89-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 1998, en vigueur depuis le 1<sup>er</sup> juin 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+<sup>5</sup> Les signaux «Plaque indiquant le nombre de kilomètres» (4.72) et «Plaque indiquant le nombre d’hectomètres» (4.73) peuvent être placés sur les autoroutes et les semi-autoroutes ainsi que sur les routes nationales de 3<sup>e</sup> classe à l’extérieur des localités.
+
+<sup>6</sup> Sur les autoroutes et semi-autoroutes, il est permis de placer des panneaux qui fournissent des informations sur la circulation, la régulation du trafic sur un large périmètre et l’état des routes, pour autant que cela s’impose pour des raisons de sécurité routière ou de protection de l’environnement.
+
+[^89a-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+
+#### Art. 89b
+
+**Signalisation touristique sur les autoroutes et semi-autoroutes**[^89b-1]
+
+<sup>1</sup> Le «Panneau annonçant une destination touristique» (4.74.1) indique jusqu’à trois destinations ou régions d’intérêt touristique majeur accessibles en empruntant la prochaine sortie.
+
+<sup>2</sup> Le «Panneau touristique de bienvenue» (4.74.2) signale le début d’une région touristique majeure. Il peut être complété par un message de bienvenue en trois langues tout au plus. Il n’est pas permis de signaler la fin de la région en question.
+
+<sup>3</sup> Seuls du texte ou des images suffisamment en rapport avec les destinations ou régions touristiques majeures signalées peuvent être utilisés sur les panneaux annonçant une destination touristique et sur les panneaux touristiques de bienvenue. Les informations telles que des indications de distance, des adresses de sites Internet ou des numéros de téléphone ne sont pas admises. Au moins un tiers de la surface du panneau doit être de couleur brune uniforme.
+
+<sup>4</sup>
+
+Afin de signaler l’itinéraire national «Grand Tour de Suisse» sur les autoroutes et semi-autoroutes, il est possible d’utiliser:
+
+- a. un pictogramme rouge avec l’inscription «Grand Tour» dans un champ rectangulaire blanc sur fond brun placé sous des panneaux annonçant une destination touristique;
+- b. un pictogramme rouge avec l’inscription «Grand Tour» dans un champ rectangulaire blanc et avec une flèche de rabattement blanche sur fond brun, au niveau des sorties dépourvues de panneaux annonçant une destination touristique.
+
+[^89b-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 90
 
-**Marquages**
+**Marques[^90-1]**
 
 <sup>1</sup> Les voies de circulation des autoroutes et semi-autoroutes seront marquées sans exception (art. 74, al. 1). Elles seront séparées de la bande d’arrêt d’urgence ou du bord de la chaussée par une ligne de bordure (art. 76 al. 1).
 
-<sup>2</sup> Aux abords des jonctions et en prolongement des voies d’accès et de sortie d’installations annexes, il y a lieu de marquer des voies d’accélération ou de décélération en les séparant notamment des voies de circulation par une ligne double.[^90-1]
+<sup>2</sup> Aux abords des jonctions et en prolongement des voies d’accès et de sortie d’installations annexes, il y a lieu de marquer des voies d’accélération ou de décélération en les séparant notamment des voies de circulation par une ligne double.[^90-2]
 
 <sup>3</sup> Sur les voies d’accès, la bande d’arrêt d’urgence peut être marquée de traits obliques.
 
-<sup>4</sup> Sur les voies d’accès et de sortie d’autoroutes, de semi-autoroutes et d’installations annexes, la direction à prendre sera précisée par des flèches blanches tracées sur la chaussée.[^90-2]
+<sup>4</sup> Sur les voies d’accès et de sortie d’autoroutes, de semi-autoroutes et d’installations annexes, la direction à prendre sera précisée par des flèches blanches tracées sur la chaussée.[^90-3]
 
-[^90-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
-[^90-2]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+<sup>5</sup> Les marques applicables aux routes principales et aux routes secondaires sont utilisées aux abords des installations annexes et sur les aires de repos.[^90-4]
+
+<sup>6</sup> La marque «Voie de détresse» (6.36) désigne un lit d’arrêt dans lequel les véhicules peuvent s’arrêter en cas de défaillance technique.[^90-5]
+
+[^90-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^90-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+[^90-3]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+[^90-4]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^90-5]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 91
 
@@ -2079,10 +2322,11 @@ Sont toujours interdites les réclames routières:
 Sont toutefois autorisées:
 
 - a. les réclames routières sur les panneaux d’information placés le long des itinéraires de locomotion douce signalés indiquant le tracé à suivre, si leur surface ne mesure pas plus d’un cinquième de celle du panneau;
-- b. les réclames routières au-dessous du panneau d’indication «Téléphone» (4.81), sur les routes de cols, si leur surface ne mesure pas plus d’un tiers de celle du signal;
+- b.[^97-2] les réclames routières au-dessous du panneau d’indication «Poste d’appel d’urgence» (4.80), sur les routes de cols, si leur surface ne mesure pas plus d’un tiers de celle du signal;
 - c. les annonces axées sur l’éducation ou la prévention routières.
 
 [^97-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^97-2]: Erratum du 25 juin 2026 ([RO 2026 343](https://fedlex.data.admin.ch/eli/oc/2026/343)).
 
 #### Art. 98
 
@@ -2133,7 +2377,7 @@ Sont réservées les prescriptions complémentaires sur les réclames routières
 
 **Principes**
 
-<sup>1</sup> Les signaux et les marques non prévus par la présente ordonnance ne sont pas admis; sont réservés les art 54, al. 9, et 115.[^101-1]
+<sup>1</sup> Les signaux et les marques qui ne sont pas prévus dans le droit fédéral ne sont pas admis.[^101-1]
 
 <sup>2</sup> Les signaux et les marques ne peuvent être mis en place ou enlevés que si l’autorité ou l’OFROU l’ordonne; il y a lieu de se conformer à la procédure fixée à l’art. 107.[^101-2]
 
@@ -2162,7 +2406,7 @@ Les signaux peuvent figurer sur un panneau rectangulaire blanc:
 
 <sup>9</sup> Les indicateurs de direction blancs et orange montrent la direction à suivre pour atteindre des centres de formation, des postes sanitaires de secours ainsi que des abris publics relativement grands de la protection civile, difficiles à repérer sans indicateur de direction. Les indicateurs de direction ont un fond blanc; la bordure est orange et l’inscription noire; le signe distinctif international de la protection civile peut figurer dans un champ complémentaire situé à leur base. Les dispositions relatives à la protection des signaux (art. 98 LCR) sont applicables.[^101-8]
 
-[^101-1]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^101-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^101-2]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^101-3]: Introduit par le ch. I de l’O du 17 août 2005 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)). Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
 [^101-4]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
@@ -2177,17 +2421,17 @@ Les signaux peuvent figurer sur un panneau rectangulaire blanc:
 
 <sup>1</sup> Les dimensions des signaux sont fixées à l’annexe 1.
 
-<sup>2</sup> Le grand format est réservé aux autoroutes; pour les semi-autoroutes et les routes de construction similaire, il y a lieu d’adopter le grand format ou le format intermédiaire, pour les routes principales et les routes secondaires le format normal. Le petit format peut être utilisé sur les chemins ruraux, les sorties, etc. ainsi qu’à l’intérieur des localités. Sur les aires de circulation réservées aux piétons ou aux cyclistes, il est possible, dans des cas particuliers, d’utiliser les signaux de danger ainsi que les signaux de priorité triangulaires de petit format, réduit d’un tiers.[^102-1]
+<sup>2</sup> Il y a lieu d’adopter le grand format ou le format intermédiaire sur les autoroutes, les semi-autoroutes et les routes de construction similaire, et le format normal sur les routes principales et les routes secondaires. Le petit format peut être utilisé sur les chemins ruraux, au niveau des sorties, etc. ainsi qu’à l’intérieur des localités. Sur les aires de circulation réservées aux piétons ou aux cyclistes, il est possible, dans des cas particuliers, d’utiliser les signaux de danger ainsi que les signaux de priorité triangulaires de petit format, réduit d’un tiers.[^102-1]
 
 <sup>3</sup> Des signaux de format réduit peuvent être fixés là où la place fait défaut pour les dimensions prévues (p. ex. dans les tunnels).
 
-<sup>4</sup> Les signaux doivent être rétroréfléchissants ou, de nuit, éclairés; sont exceptés les indicateurs de direction selon l’art. 54*a*.[^102-2]
+<sup>4</sup> Les signaux doivent être rétroréfléchissants ou, de nuit, éclairés. Les indicateurs de direction «Entreprise» et «Hôtel» ainsi que les signaux relevant de la signalisation touristique peuvent être légèrement rétroréfléchissants, mais ne doivent pas être éclairés de nuit. Les signaux d’indication de la direction pour les cycles et les engins assimilés à des véhicules peuvent être rétroréfléchissants, mais ne doivent pas être éclairés de nuit. Les signaux d’indication de la direction sur les chemins pour piétons et les chemins de randonnée pédestre ne peuvent être ni rétroréfléchissants, ni éclairés de nuit.[^102-2]
 
-<sup>5</sup> La police de caractères «ASTRA Frutiger» est appliquée aux inscriptions sur les signaux. Font exception les chiffres ainsi que les indicateurs de direction «Entreprise», la signalisation touristique et les indicateurs de direction pour hôtels.[^102-3]
+<sup>5</sup> La police de caractères «ASTRA Frutiger» est appliquée aux inscriptions sur les signaux. Font exception les chiffres et la signalisation touristique.[^102-3]
 
-[^102-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
-[^102-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^102-3]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^102-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^102-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^102-3]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)). Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 103
 
@@ -2201,11 +2445,24 @@ Les signaux peuvent figurer sur un panneau rectangulaire blanc:
 
 <sup>4</sup> Les signaux ne doivent pas faire saillie dans le gabarit d’espace libre de la chaussée. La distance entre le bord de la chaussée et le côté du signal le plus rapproché sera de 30 cm à 2 m dans les localités et de 50 cm à 2 m hors des localités, dans des cas spéciaux au maximum de 3 m 50; sur les autoroutes et semi-autoroutes, elle ne sera pas inférieure au dégagement latéral prévu par les plans de construction.[^103-2]
 
-<sup>5</sup> Pour mettre en garde contre des dangers particuliers, le signal «Autres dangers» (1.30) peut être placé également sur les panneaux à affichage variable de véhicules d’entretien ou de véhicules convoyeurs de véhicules spéciaux et de transports spéciaux en mouvement ou à l’arrêt sur la chaussée.[^103-3]
+<sup>5</sup> Pour mettre en garde contre des dangers particuliers, le signal «Autres dangers» (1.30) peut également être affiché sur les panneaux à affichage variable de véhicules convoyeurs de véhicules spéciaux ou de transports spéciaux. Pour attirer l’attention sur des travaux d’entretien ou de construction, le signal «Travaux» (1.14) peut être affiché sur des véhicules d’entretien en mouvement ou à l’arrêt sur la chaussée, ou le dispositif de balisage temporaire «Panneau d’avertissement mobile» (7.03) peut être mis en place. En outre, les signaux «Obstacle à contourner par la droite» (2.34), «Obstacle à contourner par la gauche» (2.35), «Interdiction de dépasser» (2.44), «Fin de l’interdiction de dépasser» (2.55), «Interdiction aux camions de dépasser» (2.45) et «Fin de l’interdiction aux camions de dépasser» (2.56) peuvent être affichés sur les panneaux à affichage variable de véhicules convoyeurs et de véhicules d’entretien.[^103-3]
 
 [^103-1]: Phrase introduite par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
 [^103-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
-[^103-3]: Introduit par le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5131](https://fedlex.data.admin.ch/eli/oc/2016/818)).
+[^103-3]: Introduit par le ch. I de l’O du 16 nov. 2016 ([RO 2016 5131](https://fedlex.data.admin.ch/eli/oc/2016/818)). Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+
+#### Art. 103a
+
+**Autres exigences relatives à la signalisation**[^103a-1]
+
+<sup>1</sup> Lorsque le droit de la circulation routière ne contient pas de prescriptions ad hoc, l’exécution, l’aspect et la mise en place des signaux, marques, dispositifs de balisage, réclames routières, etc. ainsi que leur entretien et leur contrôle doivent être conformes aux règles reconnues de la technique.
+
+<sup>2</sup> On entend par règles reconnues de la technique en particulier les normes de l’Association suisse des professionnels de la route et des transports (VSS), du Comité européen de normalisation et de l’Organisation internationale de normalisation.[^103a-2]
+
+<sup>3</sup> Les prescriptions de la législation sur les produits de construction demeurent réservées.
+
+[^103a-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^103a-2]: La liste des intitulés des normes ainsi que leurs textes peuvent être consultés gratuitement ou obtenus contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 104
 
@@ -2213,28 +2470,31 @@ Les signaux peuvent figurer sur un panneau rectangulaire blanc:
 
 <sup>1</sup> La mise en place et l’enlèvement des signaux et des marques sont du ressort de l’autorité. Demeurent réservées l’obligation des usagers de la route de signaler des obstacles sur la chaussée (art. 4, al. 1, LCR; art. 23 et 54, OCR[^104-1]), l’habilitation de la police à mettre en place les signaux nécessaires si elle peut prendre des mesures de son propre chef (art. 107, al. 4; art. 3, al. 6, LCR) ainsi que l’habilitation du personnel de véhicules convoyeurs à afficher le signal «Autres dangers» (1.30; art. 103, al. 5) sur des panneaux à affichage variable.[^104-2]
 
+<sup>1bis</sup> L’autorité cantonale de police peut, dans les limites de ses compétences, habiliter le personnel de véhicules convoyeurs à afficher les signaux «Obstacle à contourner par la droite» (2.34), «Obstacle à contourner par la gauche» (2.35), «Interdiction de dépasser» (2.44), «Fin de l’interdiction de dépasser» (2.55), «Interdiction aux camions de dépasser» (2.45) et «Fin de l’interdiction aux camions de dépasser» (2.56) sur les panneaux à affichage variable.[^104-3]
+
 <sup>2</sup> Les cantons peuvent déléguer aux communes les tâches concernant la signalisation mais ils sont tenus d’exercer une surveillance.
 
-<sup>3</sup> La mise en place et l’enlèvement des signaux et des marques sur les routes nationales, y compris aux jonctions avec trajets de liaison, installations annexes et aires de repos selon l’art. 2, let. c à e, ORN sont du ressort de l’OFROU. Les signaux et marques liés à l’achèvement du réseau des routes nationales tel qu’il a été décidé et qui ne sont pas valables plus d’une année peuvent être mis en place par l’autorité conformément aux directives édictées par le DETEC. Les réglementations du trafic sont édictées conformément à l’art. 110, al. 2.[^104-3]
+<sup>3</sup> La mise en place et l’enlèvement des signaux et des marques sur les routes nationales, y compris aux jonctions avec trajets de liaison, installations annexes et aires de repos selon l’art. 2, let. c à e, ORN sont du ressort de l’OFROU. Les signaux et marques liés à l’achèvement du réseau des routes nationales tel qu’il a été décidé et qui ne sont pas valables plus d’une année peuvent être mis en place par l’autorité conformément aux directives édictées par le DETEC. Les réglementations du trafic sont édictées conformément à l’art. 110, al. 2.[^104-4]
 
-<sup>4</sup> La Confédération est chargée de la signalisation sur les autres routes et biens-fonds qui lui appartiennent, de celle des postes de douane (art. 31, al. 1) et de celle qui se rapporte aux réglementations militaires du trafic.[^104-4]
+<sup>4</sup> La Confédération est chargée de la signalisation sur les autres routes et biens-fonds qui lui appartiennent, de celle des postes de douane (art. 31, al. 1) et de celle qui se rapporte aux réglementations militaires du trafic.[^104-5]
 
 <sup>5</sup>
 
 En outre, les personnes suivantes ont le droit de placer, conformément aux directives de l’autorité, les signaux indiqués ci-après:
 
-- a.[^104-5] les propriétaires d’une place de stationnement privée: le signal «Parcage autorisé» (4.17), qui peut porter le nom de l’entreprise;
+- a.[^104-6] les propriétaires d’une place de stationnement privée: le signal «Parcage autorisé» (4.17), qui peut porter le nom de l’entreprise;
 - b. les propriétaires de routes, chemins ou places privés: les signaux indiquant une interdiction ou une restriction de circuler destinée à protéger leurs biens-fonds (art. 113, al. 3);
 - c. les entrepreneurs: les signaux nécessaires aux abords des chantiers (art. 80 et 81).
 
-<sup>6</sup> Avant de faire placer ou enlever des marques routières près des passages à niveau ainsi que des signaux routiers annonçant des passages à niveau et des véhicules ferroviaires empruntant la route, l’autorité entendra l’autorité de surveillance des chemins de fer ainsi que l’administration des chemins de fer.[^104-6]
+<sup>6</sup> Avant de faire placer ou enlever des marques routières près des passages à niveau ainsi que des signaux routiers annonçant des passages à niveau et des véhicules ferroviaires empruntant la route, l’autorité entendra l’autorité de surveillance des chemins de fer ainsi que l’administration des chemins de fer.[^104-7]
 
 [^104-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^104-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5131](https://fedlex.data.admin.ch/eli/oc/2016/818)).
-[^104-3]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^104-3]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^104-4]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
-[^104-5]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^104-6]: Nouvelle teneur selon l’annexe ch. II 1 de l’O du 12 nov. 2003, en vigueur depuis le 14 déc. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^104-5]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^104-6]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
+[^104-7]: Nouvelle teneur selon l’annexe ch. II 1 de l’O du 12 nov. 2003, en vigueur depuis le 14 déc. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
 
 #### Art. 105
 
@@ -2242,11 +2502,12 @@ En outre, les personnes suivantes ont le droit de placer, conformément aux dire
 
 <sup>1</sup> L’autorité exerce la surveillance en matière de signalisation routière. Elle contrôle également les signaux placés par des communes, des organisations ou des particuliers en vertu de l’art. 104, al. 2 et 5 et de l’art. 115, al. 3.
 
-<sup>2</sup> L’autorité fait enlever les signaux inutiles, remplacer ceux qui sont endommagés et veille à faire renouveler à temps les marques. Les signaux placés sans autorisation sont enlevés aux frais de la personne responsable.
+<sup>2</sup> L’autorité fait enlever les signaux, marques et dispositifs de balisage inutiles, et fait remplacer ou renouveler ceux qui ne sont plus visibles ou qui sont endommagés. Les signaux et marques placés sans autorisation sont enlevés aux frais de la personne responsable.[^105-1]
 
-<sup>3</sup> L’OFROU exerce la surveillance en matière de signalisation routière sur les routes nationales et l’exerce aux abords de ces dernières pour ce qui est des réclames routières.[^105-1]
+<sup>3</sup> L’OFROU exerce la surveillance en matière de signalisation routière sur les routes nationales et l’exerce aux abords de ces dernières pour ce qui est des réclames routières.[^105-2]
 
-[^105-1]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^105-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+[^105-2]: Nouvelle teneur selon l’annexe 4 ch. II 6 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 
 #### Art. 106
 
@@ -2471,35 +2732,23 @@ Sera puni de l’amende[^114-2]:
 
 #### Art. 115
 
-**Application de l’ordonnance, exceptions**[^115-1]
+**Application de l’ordonnance, mise à jour des annexes, exceptions**[^115-1]
 
-<sup>1</sup> Le DETEC peut édicter des instructions concernant l’exécution, l’aspect et la mise en place des signaux, marques, dispositifs de balisage, réclames routières et autres installations similaires et conférer un caractère obligatoire aux normes techniques.
+<sup>1</sup> Le DETEC peut édicter des instructions concernant l’exécution, l’aspect, la mise en place, l’entretien et le contrôle des signaux, marques, dispositifs de balisage, réclames routières, etc.
 
-<sup>2</sup> L’OFROU peut édicter des instructions quant à l’application de la présente ordonnance. Dans certains cas, il peut autoriser des dérogations à certaines dispositions, des modifications de symboles ou, à titre d’essai, de nouveaux symboles, signaux et marques ainsi que des panneaux portant le nom de cours d’eau, indiquant des chemins réservés au tourisme pédestre, etc.
+<sup>2</sup> Il peut modifier les annexes 1 et 2, ch. 5, let. b, de la présente ordonnance.
 
-<sup>3</sup> L’OFROU peut confier à des associations d’usagers de la route ou à d’autres organisations le soin d’indiquer par des panneaux le nom des cours d’eau, des chemins réservés au tourisme pédestre, des places de camping, des stations téléphoniques, etc. Ces panneaux ne peuvent être placés que conformément aux directives de l’autorité.
+<sup>3</sup> L’OFROU peut édicter des instructions quant à l’application de la présente ordonnance. Dans certains cas, il peut autoriser des dérogations à certaines dispositions, des modifications de symboles ou, à titre d’essai, de nouveaux symboles, signaux et marques ainsi que des panneaux portant le nom de cours d’eau, indiquant des chemins réservés au tourisme pédestre, etc.
 
-[^115-1]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 6 déc. 1999 sur l’organisation du DETEC, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
+<sup>4</sup> Il peut confier à des associations d’usagers de la route ou à d’autres organisations le soin d’indiquer par des panneaux le nom des cours d’eau, des chemins réservés au tourisme pédestre, des places de camping, des stations téléphoniques, etc. Ces panneaux ne peuvent être placés que conformément aux instructions de l’autorité.
+
+[^115-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 115a
 
-**Normes applicables pour une durée déterminée**[^115a-1]
+[^115a-1]
 
-Les normes ci-après[^115a-2] sont applicables jusqu’au 31 décembre 2026:[^115a-3]
-
-- a. disposition des voies de circulation: norme suisse (SN) 640 814b, édition de mai 1998;
-- b. signalisation des autoroutes et semi-autoroutes, indicateurs de direction, présentation: SN 640 820a, édition de juin 2004;
-- c. plaques numérotées pour routes européennes ainsi que pour autoroutes et semi-autoroutes: SN 640 821a, édition de mars 2003;
-- d. signalisation touristique sur les routes principales et secondaires: SN 640 827c, édition de juin 1995;
-- e. indicateurs de direction pour les hôtels: SN 640 828, édition de novembre 1979;
-- f. signalisation du trafic lent: SN 640 829a, édition de décembre 2005; à l’exclusion du ch. 10;
-- g. marquages; aspect et domaines d’application: SN 640 850a, édition de novembre 2004;
-- h. marquages tactilo-visuels pour piétons aveugles et malvoyants: SN 640 852, édition de mai 2005;
-- i. feux encastrés: SN 640 853, édition de décembre 2006; à l’exclusion du chap. D «Entretien et exploitation».
-
-[^115a-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
-[^115a-2]: Les normes peuvent être obtenues contre paiement auprès de l’Association suisse des professionnels de la route et des transports (VSS), Sihlquai 255, 8005 Zurich, [www.vss.ch](http://www.vss.ch).
-[^115a-3]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 481](https://fedlex.data.admin.ch/eli/oc/2024/481)).
+[^115a-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)). Abrogé par le ch. I de l’O du 19 déc. 2025, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 #### Art. 116
 
@@ -2558,6 +2807,14 @@ Les signaux et marques qui ne répondent pas aux exigences de la présente modif
 
 [^117d-1]: Introduit par le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
 
+#### Art. 117e
+
+**Disposition transitoire relative à la modification du 19 décembre 2025**[^117e-1]
+
+Les signaux, marques et dispositifs de balisage qui ne sont pas conformes à la présente modification doivent être retirés ou remplacés par un signal, une marque ou un dispositif de balisage conformes au droit au plus tard à la date de leur renouvellement obligatoire.
+
+[^117e-1]: Introduit par le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
+
 #### Art. 118
 
 **Entrée en vigueur**
@@ -2615,7 +2872,7 @@ Les signaux limitant la vitesse à 120 km/h sur les autoroutes et à 80 km/h et 
 
 [^u5-1]: [RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)
 
-<sup>1</sup> La «Plaque numérotée pour jonctions» (4.59) et la «Plaque numérotée pour ramifications» (4.59.1) doivent être mises en place au plus tard jusqu’au 31 décembre 2003.
+<sup>1</sup> La «Plaque numérotée pour jonctions» (4.59) et la «Plaque numérotée pour échangeurs» (4.59.1) doivent être mises en place au plus tard jusqu’au 31 décembre 2003.
 
 <sup>2</sup> Les zones 40 selon le droit antérieur doivent être supprimées au plus tard jusqu’au 31 décembre 2003 ou remplacées par une autre réglementation du trafic.
 
@@ -2657,11 +2914,11 @@ Si, à la suite de la présente modification, la signification des signaux et de
 
 Annexe 1[^t-1]
 
-(art. 102, al. 1)
+(art. 72, al. 1<sup>ter</sup>, et 102, al. 1)
 
-## Dimensions des signaux et des marques
+## Dimensions des signaux, des marques et des dispositifs de balisage
 
-[^t-1]: Mise à jour par le ch. II des O du 19 oct. 1983 ([RO 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), du 25 janv. 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), du 12 fév. 1992 ([RO 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), le ch. I de l’O du 7 mars 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), le ch. II des O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), du 28 sept. 2001 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), le ch. II al. 1 de l’O du 17 août 2005 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), le ch. II des O du 2 mars 2012 ([RO 2012 1823](https://fedlex.data.admin.ch/eli/oc/2012/260)), du 24 juin 2015 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)) et du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^t-1]: Mise à jour par le ch. II des O du 19 oct. 1983 ([RO 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), du 25 janv. 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), du 12 fév. 1992 ([RO 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), le ch. I de l’O du 7 mars 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), le ch. II des O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), du 28 sept. 2001 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), le ch. II al. 1 de l’O du 17 août 2005 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), le ch. II des O du 2 mars 2012 ([RO 2012 1823](https://fedlex.data.admin.ch/eli/oc/2012/260)), du 24 juin 2015 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)), du 20 mai 2020 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)), du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24), [343](https://fedlex.data.admin.ch/eli/oc/2026/343)).
 
 Les normes suisses (SN) mentionnées dans la présente annexe peuvent être obtenues contre paiement auprès de l’Association suisse des professionnels de la route et des transports (VSS), Sihlquai 255, 8005 Zurich ([www.vss.ch](http://www.vss.ch)). Les directives de l’OFROU citées dans cette annexe peuvent être obtenues gratuitement sur son site Internet, [www.ofrou.admin.ch](http://www.ofrou.admin.ch)
 
@@ -2679,7 +2936,7 @@ Les normes suisses (SN) mentionnées dans la présente annexe peuvent être obte
 <tr><td>– Cas spéciaux: «Interdiction d’obliquer à droite» (2.42), «Interdiction d’obliquer à gauche» (2.43), «Interdiction de faire demi-tour» (2.46)</td><td>12 cm</td><td>9 cm</td><td>6 cm</td><td>4 cm</td></tr>
 <tr><td>3. Largeur de la bande figurant sur les signaux 2.13, 2.42, 2.43, 2.46, 2.49, 2.54, 2.57, 2.60.1</td><td>[tab] 10 cm</td><td>[tab] 7,5 cm</td><td>[tab] 5 cm</td><td>[tab] 3,3 cm</td></tr>
 <tr><td>4. Largeur de la bordure blanche des signaux 2.31 à 2.41.1, 2.48, 2.54, 2.57, 2.60 à 2.64</td><td>[tab] 1,8 cm</td><td>[tab] 1,4 cm</td><td>[tab] 0,9 cm</td><td>[tab] 0,6 cm</td></tr>
-<tr><td>5. Système de signaux lumineux pour la fermeture temporaire des voies de circulation (2.65)</td><td colspan="4">La norme SN 640 802 (édition de novembre 1999) s’applique en ce qui concerne l’aspect et les dimensions.</td></tr>
+<tr><td>5. Système de signaux lumineux pour la fermeture temporaire des voies de circulation (2.65)</td><td colspan="4">Les signaux sont de forme carrée; la longueur de leurs côtés est de 40 à 60 cm sur les tronçons à ciel ouvert et de 30 cm au minimum dans les tunnels.</td></tr>
 <tr><td>6. Signaux 2.30.1 et 2.53.1: Hauteur des caractères «Limite générale» 7 cm (format normal)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>7. Signaux de zone, notamment 2.59.1, 2.59.3 et 2.59.5</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Largeur</td><td></td><td></td><td>50 cm ou 70 cm[^annex1-lvlu1-1]</td><td></td></tr>
@@ -2705,11 +2962,11 @@ Les normes suisses (SN) mentionnées dans la présente annexe peuvent être obte
 <tr><td>1. Signaux carrés (4.05, 4.06, 4.08, 4.09, 4.09.1, 4.14, 4.17 à 4.21, 4.25)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Largeur du côté</td><td>90 cm</td><td>70 cm</td><td>50 cm</td><td>35 cm</td></tr>
 <tr><td>– Largeur de la bordure blanche</td><td>2 cm</td><td>1,5 cm</td><td>1 cm</td><td>0,7 cm</td></tr>
-<tr><td>2. Signaux rectangulaires (4.01 à 4.04, 4.07, 4.08.1, 4.10 à 4.13, 4.15 à 4.25, 4.79 à 4.90, 4.92)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2. Signaux rectangulaires (4.01 à 4.04, 4.07, 4.08.1, 4.10 à 4.13, 4.15 à 4.25, 4.79 à 4.83)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Largeur</td><td>90 cm</td><td>70 cm</td><td>50 cm</td><td>35 cm</td></tr>
 <tr><td>– Hauteur</td><td>125 cm</td><td>100 cm</td><td>70 cm</td><td>50 cm</td></tr>
 <tr><td>– Largeur de la bordure blanche</td><td>2 cm</td><td>1,5 cm</td><td>1 cm</td><td>0,7 cm</td></tr>
-<tr><td>– Longueur latérale du champ intérieur carré (signaux 4.07, 4.10, 4.79–4.90, 4.92)</td><td>62 cm</td><td>50 cm</td><td>35 cm</td><td>25 cm</td></tr>
+<tr><td>– Longueur latérale du champ intérieur carré (signaux 4.07, 4.10, 4.79–4.83)</td><td>62 cm</td><td>50 cm</td><td>35 cm</td><td>25 cm</td></tr>
 <tr><td>3. Cas spéciaux</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>a. Signal «État de la route» (4.75)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Largeur</td><td>170 cm</td><td>–</td><td>120 cm</td><td>–</td></tr>
@@ -2719,30 +2976,77 @@ Les normes suisses (SN) mentionnées dans la présente annexe peuvent être obte
 <tr><td>– Largeur</td><td>200 cm</td><td>–</td><td>150 cm</td><td></td></tr>
 <tr><td>– Hauteur (lorsqu’il y a 4 champs d’information)</td><td>190 cm</td><td>–</td><td>140 cm</td><td>–</td></tr>
 <tr><td>– Largeur de la bordure blanche</td><td>2 cm</td><td>–</td><td>1,5 cm</td><td>–</td></tr>
-<tr><td>c. Signaux «Disposition des voies de circulation» (4.77) et «Disposition des voies de circulation annonçant des restrictions» (4.77.1)</td><td colspan="4">La norme SN 640 814b (édition de mai 1998) s’applique en ce qui concerne l’aspect et les dimensions.</td></tr>
-<tr><td>d. Signal «Service religieux» (4.91)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>c. Signaux «Disposition des voies de circulation» (4.77), «Disposition des voies de circulation annonçant des restrictions» (4.77.1), «Ouverture de la bande d’arrêt d’urgence» (4.77.2), «Disposition du tracé des voies de circulation aux abords d’un chantier» (4.77.3) et «Déviation de voies de circulation» (4.77.4)</td><td colspan="4">L’aspect et les dimensions varient selon le nombre de voies de circulation.</td></tr>
+<tr><td>d. Signal «Service religieux» (4.84)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Largeur</td><td>–</td><td>–</td><td>66 cm</td><td>–</td></tr>
 <tr><td>– Hauteur</td><td>–</td><td>–</td><td>100 cm</td><td>–</td></tr>
-<tr><td>e. Signal «Voie de détresse» (4.24)</td><td colspan="4">La largeur, la hauteur et l’aspect sont fixés cas par cas par le DETEC.</td></tr>
+<tr><td>e. Signal «Voie de détresse» (4.24)</td><td colspan="4">La largeur, la hauteur et l’aspect sont fixés au cas par cas par l’OFROU.</td></tr>
 <tr><td>f. Signal «Information sur les limitations générales de vitesse» (4.93)</td><td colspan="4">175×275 cm</td></tr>
-<tr><td>g. Signaux «Direction et distance vers l’issue de secours la plus proche» (4.94) et «Issue de secours» (4.95)</td><td colspan="4">La directive ASTRA 13010 (édition 2011) doit être prise en considération en ce qui concerne l’aspect et les dimensions.</td></tr>
+<tr><td>g. Signal «Direction et distance vers l’issue de secours la plus proche» (4.94)</td><td colspan="4"></td></tr>
+<tr><td>– Largeur</td><td colspan="4">120 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">60 cm</td></tr>
+<tr><td>h. Signal «Issue de secours» (4.95)</td><td colspan="4"></td></tr>
+<tr><td>– Largeur</td><td>–</td><td>–</td><td>50 cm</td><td>35 cm</td></tr>
+<tr><td>– Hauteur</td><td>–</td><td>–</td><td>70 cm</td><td>50 cm</td></tr>
 <tr><td>[tab] *B. Indication de la direction sur les routes principales et les routes secondaires*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1. Panneaux de localité (4.27 à 4.30)</td><td>[tab] –</td><td colspan="3">La largeur du panneau est fonction de l’inscription; elle atteindra toutefois au minimum 70 cm et au maximum 150 cm; la hauteur est de 50 à 80 cm. Sur les routes secondaires empruntées essentiellement par des cyclistes, on pourra utiliser des panneaux de 50 cm de largeur et de 35 cm de hauteur</td></tr>
 <tr><td>2. Indicateur de direction (4.31 à 4.34, 4.45 à 4.48), «Indicateur de direction en forme de tableau» (4.35)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Longueur du bras ou du champ</td><td colspan="4">Selon l’inscription, mais au minimum 1 m. Si plusieurs indicateurs de direction en forme de flèche sont placés les uns au-dessus des autres sur le même support, tous ces indicateurs auront la même longueur; le nom de localité le plus long détermine la longueur des autres indicateurs du groupe. Cela vaut aussi par analogie pour les indicateurs de direction en forme de tableau.</td></tr>
 <tr><td>– Hauteur du champ ou du bras ayant une seule inscription</td><td>min. 45 cm</td><td>min. 45 cm</td><td>35 cm</td><td>25 cm</td></tr>
-<tr><td>3. Indicateur de direction avancé (4.36 à 4.40, 4.53,4.54)</td><td colspan="4">Le côté le plus long ne doit pas dépasser 160 cm pour le format normal et 120 cm pour le petit format; le côté le plus court correspond en général aux ¾ du côté le plus long. La hauteur des caractères sera de 21 cm pour le format normal et de 14 cm pour le petit format</td></tr>
+<tr><td>3. Indicateurs de direction avancés (4.36 à 4.40, 4.51.4, 4.53, 4.54)</td><td colspan="4">Le côté le plus long ne doit pas dépasser 160 cm pour le format normal et 120 cm pour le petit format; le côté le plus court correspond aux ¾ du côté le plus long. La hauteur des caractères doit être de 21 cm pour le format normal et de 14 cm pour le petit format.</td></tr>
 <tr><td>4. Panneaux de présélection placés au-dessus des voies de circulation (4.41, 4.42)</td><td>[tab] –</td><td>[tab] –</td><td colspan="2">La dimension varie suivant l’inscription; la hauteur des caractères est de 17,5 cm, 21 cm ou 28 cm[^annex1-lvlu1-3]</td></tr>
 <tr><td>5. Cas spéciaux</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>a. Indicateur de direction «Entreprise» (4.49)</td><td>–</td><td>–</td><td colspan="2">La hauteur sera de 25 cm sur les routes principales, de 20 cm sur les routes secondaires et les routes à l’intérieur des localités. La longueur varie suivant l’inscription</td></tr>
-<tr><td>b. Indicateurs de direction pour cycles, vélos tout terrain et engins assimilés à des véhicules (4.50.1, 4.50.3 à 4.50.6, 4.51.1 à 4.51.4)</td><td colspan="4">Les instructions du DETEC s’appliquent en ce qui concerne l’aspect et les dimensions.</td></tr>
-<tr><td>c. …</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>d. Guidage du trafic (4.52)</td><td colspan="4">Les instructions du DETEC s’appliquent en ce qui concerne l’aspect et les dimensions</td></tr>
-<tr><td>e. Indicateur de direction pour déviation sans mention du lieu de destination (4.34.1)</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Hauteur</td><td>45 cm</td><td>–</td><td>35 cm</td><td>25 cm</td></tr>
+<tr><td>b. Indicateur de direction «Hôtel» (4.49.1)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td>–</td><td>–</td><td>80, 100 ou 120 cm en fonction de l’inscription</td><td>50, 65 ou 80 cm en fonction de l’inscription</td></tr>
+<tr><td>– Hauteur</td><td>–</td><td>–</td><td>15 cm</td><td>10 cm</td></tr>
+<tr><td>c. Indication de la direction pour les cycles, les cyclomoteurs et les engins assimilés à des véhicules</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Signaux «Indicateur de direction pour cycles et cyclomoteurs» (4.50.1), «Indicateur de direction pour vélos tout-terrains» (4.50.3) et «Indicateur de direction pour engins assimilés à des véhicules» (4.50.4)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Longueur</td><td colspan="4">Entre 60 et 120 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">15, 20 ou 25 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Indicateur de direction en forme de tableau destiné à un seul cercle d’usagers (4.50.5)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">Entre 50 et 120 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">Entre 50 et 100 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Indicateur de direction en forme de tableau destiné à plusieurs cercles d’usagers (4.50.6)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">Entre 70 et 120 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">Entre 50 et 100 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Indicateur de direction sans mention de la destination (4.51.1)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">Entre 30 et 80 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">15 cm</td></tr>
+<tr><td>– Signaux «Indicateur de direction avancé sans mention de la destination» (4.51.2) et «Plaque de confirmation» (4.51.3)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">20 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">Entre 20 et 80 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Signal «Plaque indiquant la fin d’un parcours pour vélos tout-terrains» (4.51.4)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur des côtés</td><td colspan="4">20 cm</td></tr>
+<tr><td>d. Indication de la direction sur les chemins pour piétons et les chemins de randonnée pédestre</td><td colspan="4"></td></tr>
+<tr><td>– Signaux «Indicateur de direction pour réseaux de chemins pour piétons» (4.52.1), «Indicateur de direction pour chemins de randonnée pédestre» (4.52.2), «Indicateur de direction pour chemins de randonnée de montagne» (4.52.3) et «Indicateur de direction pour chemins de randonnée alpine» (4.52.4)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">En fonction du nombre d’informations, mais au max. 110 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">10, 12, 15 ou 20 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Plaque de confirmation destinée aux chemins pour piétons et aux chemins de randonnée pédestre (4.52.5)</td><td colspan="4"></td></tr>
+<tr><td>– De forme rhomboïdale</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">23 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">14,5 cm</td></tr>
+<tr><td>– De forme rectangulaire</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">20 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">15 cm</td></tr>
+<tr><td>e. Signalisation touristique</td><td colspan="4"></td></tr>
+<tr><td>– Indicateur de direction touristique (4.52.6)</td><td colspan="4"></td></tr>
+<tr><td>– 1 à 3 symboles et/ou inscription sur une seule ligne</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">100, 130 ou 160 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">25 cm</td></tr>
+<tr><td>– Inscription sur deux lignes</td><td colspan="4"></td></tr>
+<tr><td>– Longueur</td><td colspan="4">130, 160 ou 190 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">35 cm</td></tr>
+<tr><td>– Panneau des symboles touristiques (4.52.7)</td><td colspan="4"></td></tr>
+<tr><td>– Largeur</td><td colspan="4">150 ou 200 cm en fonction du nombre d’informations</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">150 cm</td></tr>
+<tr><td>– Panneau d’information touristique (4.52.8)</td><td colspan="4"></td></tr>
+<tr><td>– Hauteur</td><td colspan="4">125 cm</td></tr>
+<tr><td>f. Indicateur de direction pour déviation sans mention de la destination (4.34.1)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Longueur</td><td>130 cm</td><td>–</td><td>130 cm</td><td>100 cm</td></tr>
-<tr><td>f. Panneau «Route latérale comportant un danger ou une restriction» (4.55)</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Largeur</td><td>–</td><td>–</td><td>120 cm</td><td>80 cm</td></tr>
+<tr><td>– Hauteur</td><td>45 cm</td><td>–</td><td>35 cm</td><td>25 cm</td></tr>
+<tr><td>g. Panneau «Route latérale comportant un danger ou une restriction» (4.55)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Longueur</td><td>–</td><td>–</td><td>120 cm</td><td>80 cm</td></tr>
 <tr><td>– Hauteur</td><td>–</td><td>–</td><td>90 cm</td><td>60 cm</td></tr>
 <tr><td>6. Plaques numérotées</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>a. Plaques numérotées pour routes principales (4.57)[^annex1-lvlu1-4]</td><td></td><td></td><td></td><td></td></tr>
@@ -2751,35 +3055,271 @@ Les normes suisses (SN) mentionnées dans la présente annexe peuvent être obte
 <tr><td>– Largeur</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– à un chiffre et le numéro 11</td><td></td><td></td><td colspan="2">17 cm sur les signaux placés au-dessus de la chaussée 23 cm</td></tr>
 <tr><td>– à deux chiffres</td><td></td><td></td><td colspan="2">25 cm, sur les signaux placés au-dessus de la chaussée 35 cm</td></tr>
-<tr><td>b. Plaques numérotées pour routes européennes (4.56), plaques numérotées pour autoroutes et semi-autoroutes (4.58), plaques numérotées pour jonctions (4.59), plaques numérotées pour ramifications (4.59.1)</td><td colspan="4">La norme SN 640 821a (édition de mars 2003) s’applique en ce qui concerne l’aspect et les dimensions.</td></tr>
+<tr><td>b. Plaques numérotées pour routes européennes (4.56) ainsi que pour autoroutes et semi-autoroutes (4.58)</td><td colspan="4">La taille des caractères adoptée pour les destinations est déterminante pour fixer le format.</td></tr>
+<tr><td>c. Plaques numérotées pour jonctions (4.59) et pour échangeurs (4.59.1)</td><td colspan="4"></td></tr>
+<tr><td>– Largeur</td><td colspan="4">140 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="4">70 cm</td></tr>
 <tr><td>[tab] *C. Indication de la direction sur les autoroutes et les semi-autoroutes*</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1. En général</td><td colspan="4">La dimension varie suivant l’inscription; la hauteur des caractères est de 28, 35 ou 42 cm sur les autoroutes et les semi-autoroutes[^annex1-lvlu1-5]</td></tr>
 <tr><td>2. Cas spéciaux</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>a. Panneau indicateur de sortie (4.63)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Largeur</td><td>200 cm</td><td>200 cm</td><td>–</td><td>–</td></tr>
 <tr><td>– Hauteur</td><td>200 cm</td><td>200 cm</td><td>–</td><td>–</td></tr>
-<tr><td>b. Panneau de ramification (4.66)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>b. Panneau indicateur d’échangeur (4.66)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Largeur</td><td>250 cm</td><td>250 cm</td><td>–</td><td>–</td></tr>
 <tr><td>– Hauteur</td><td>275 cm</td><td>275 cm</td><td>–</td><td>–</td></tr>
-<tr><td>c. Plaque indiquant le nombre de kilomètres (4.72)</td><td colspan="4">La norme SN 640 820a (édition de juin 2004) s’applique en ce qui concerne l’aspect et les dimensions.</td></tr>
+<tr><td>c. Plaque indiquant le nombre de kilomètres (4.72)</td><td colspan="4"></td></tr>
+<tr><td>– Longueur du côté</td><td>50 cm</td><td>50 cm</td><td>–</td><td>–</td></tr>
 <tr><td>d. Plaque indiquant le nombre d’hectomètres (4.73)</td><td colspan="4"></td></tr>
+<tr><td>– Largeur</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– avec deux ou trois chiffres</td><td>40 cm</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– avec quatre chiffres</td><td>50 cm</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Hauteur</td><td>20 cm</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>e. Signaux «Panneau annonçant une destination touristique» (4.74.2) et «Panneau touristique de bienvenue» (4.74.3)</td><td colspan="4"></td></tr>
+<tr><td>– Largeur</td><td colspan="2">min. 275 cm et max. 450 cm</td><td>–</td><td>–</td></tr>
+<tr><td>– Hauteur</td><td colspan="2">min. 215 cm et max. 350 cm</td><td>–</td><td>–</td></tr>
+<tr><td></td><td colspan="4">Le rapport entre la largeur et la hauteur doit être de 9 à 7.</td></tr>
 <tr><td colspan="5">V. Plaques complémentaires</td></tr>
-<tr><td>5.01, 5.03, 5.07, 5.11, 5.12, 5.15, 5.17</td><td colspan="4">La largeur des plaques correspond à la largeur du signal auquel elles sont ajoutées; la hauteur à env. <sup>1</sup>/<sub>3</sub> de la largeur.</td></tr>
-<tr><td>5.02, 5.10</td><td colspan="4">La largeur des plaques correspond à la largeur du signal auquel elles sont ajoutées; la hauteur à env. <sup>2</sup>/<sub>3</sub> de la largeur.</td></tr>
-<tr><td>5.04 à 5.06</td><td colspan="4">La hauteur des plaques correspond à <sup>3</sup>/<sub>5</sub> de la largeur du signal auquel elles sont ajoutées; la largeur à <sup>1</sup>/<sub>3</sub> de la hauteur.</td></tr>
-<tr><td>5.09</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Longueur du côté</td><td>100 cm</td><td>80 cm</td><td>60 cm</td><td>50 cm</td></tr>
-<tr><td>5.13</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Longueur du côté</td><td>90 cm</td><td>70 cm</td><td>50 cm</td><td>35 cm</td></tr>
-<tr><td>[tab] 5.14</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Longueur du côté</td><td>–</td><td>–</td><td>50 cm</td><td>35 cm</td></tr>
-<tr><td></td><td colspan="4">Les plaques 5.13 et 5.14 peuvent aussi avoir la forme d’un rectangle; leur largeur correspond à la largeur du signal auquel elles sont ajoutées; leur hauteur à env. <sup>1</sup>/<sub>3</sub> de la largeur.</td></tr>
-<tr><td>5.16</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Longueur du côté</td><td>100 cm</td><td>80 cm</td><td>60 cm</td><td>40 cm</td></tr>
-<tr><td>[tab] 5.18</td><td colspan="4">La plaque est carrée. Sa longueur latérale correspond au diamètre de la plage éclairante du feu rouge de l’installation de signaux lumineux (10 cm, 20 cm ou 30 cm).</td></tr>
-<tr><td>VI. Balises (6.30, 6.31)</td><td colspan="4">La norme SN 640 822 (édition de juin 1997) s’applique en ce qui concerne l’aspect et les dimensions.</td></tr>
-<tr><td>VII. Marques (6.01 à 6.26)</td><td colspan="4">La norme SN 640 850a (édition de novembre 2004) s’applique en ce qui concerne l’aspect et les dimensions.</td></tr>
-<tr><td>VIII. Signaux pliables</td><td colspan="4">Le format normal peut toujours être utilisé pour les signaux pliables.</td></tr>
+<tr><td>[tab] Plaque complémentaire avec le symbole «Handicapés» (5.34.4)</td><td>–</td><td>–</td><td>50 cm</td><td>35 cm</td></tr>
+<tr><td></td><td colspan="4">La plaque 5.13 peut aussi être utilisée sous forme rectangulaire; largeur identique à celle du signal auquel elle est ajoutée, hauteur correspondant env. au tiers de la largeur.</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Autoroutes et semi-autoroutes</th><th>Autres routes et chemins</th></tr>
+<tr><td colspan="3">VI. Marques</td></tr>
+<tr><td>*A.* *Marques longitudinales*</td><td></td><td></td></tr>
+<tr><td>1. Ligne de sécurité (blanche, continue; 6.01)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td>min. 50 m</td><td>en localité: min. 20 m hors localité: min. 50 m</td></tr>
+<tr><td>2. Double ligne de sécurité (blanche, continue; 6.02)</td><td></td><td></td></tr>
+<tr><td>Largeur</td><td>0,20 m</td><td>0,15 m</td></tr>
+<tr><td>Longueur</td><td>min. 50 m</td><td>en localité: min. 20 m hors localité: min. 50 m</td></tr>
+<tr><td>Espace intermédiaire</td><td>0,10 à 0,15 m</td><td>0,10 à 0,15 m</td></tr>
+<tr><td>3. Ligne de direction (blanche, discontinue; 6.03)</td><td colspan="2"></td></tr>
+<tr><td>a. En général</td><td colspan="2"></td></tr>
+<tr><td>– Largeur</td><td>0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td>6 m</td><td>3 m</td></tr>
+<tr><td>– Espacement</td><td>12 m</td><td>3 m / 6 m</td></tr>
+<tr><td>b. Dans les zones de présélection</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>2 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>4 m</td></tr>
+<tr><td>c. Courte interruption de 6.01 et 6.12</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>1 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>1 m</td></tr>
+<tr><td>d. Au niveau des intersections</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>1 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>2 m</td></tr>
+<tr><td>4. Ligne double (blanche/jaune, ligne de direction longeant une ligne de sécurité; 6.04)</td><td></td><td></td></tr>
+<tr><td>a. En général[^annex1-lvlu1-6]</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur de la ligne de direction</td><td></td><td>3 m</td></tr>
+<tr><td>– Espacement entre les lignes de direction</td><td></td><td>3 m / 6 m</td></tr>
+<tr><td>– Espace intermédiaire</td><td></td><td>0,10 à 0,15 m</td></tr>
+<tr><td>b. Court franchissement (ligne blanche/jaune)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur de la ligne de direction</td><td></td><td>1 m</td></tr>
+<tr><td>– Espacement entre les lignes de direction</td><td></td><td>1 m</td></tr>
+<tr><td>– Espace intermédiaire</td><td></td><td>0,10 à 0,15 m</td></tr>
+<tr><td>c. Le long des voies d’accélération</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>0,20 m</td><td></td></tr>
+<tr><td>– Longueur de la ligne de direction</td><td>6 m</td><td></td></tr>
+<tr><td>– Espacement entre les lignes de direction</td><td>12 m</td><td></td></tr>
+<tr><td>– Espace intermédiaire</td><td>0,10 à 0,15 m</td><td></td></tr>
+<tr><td>d. Le long des voies de décélération</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>0,20 m</td><td></td></tr>
+<tr><td>– Longueur de la ligne de direction</td><td>3 m</td><td></td></tr>
+<tr><td>– Espacement entre les lignes de direction</td><td>3 m</td><td></td></tr>
+<tr><td>– Espace intermédiaire</td><td>0,10 à 0,15 m</td><td></td></tr>
+<tr><td>5. Ligne d’avertissement (blanche, discontinue; 6.05)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td>6 m</td><td>4 m</td></tr>
+<tr><td>– Espacement</td><td>3 m</td><td>2 m</td></tr>
+<tr><td>– Longueur totale</td><td>min. 100 m</td><td>en localité: min. 24 m hors localité: min. 48 m</td></tr>
+<tr><td>6. Ligne délimitant la voie réservée aux bus (jaune, discontinue/continue; 6.08)</td><td></td><td></td></tr>
+<tr><td>a. En général</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,20 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>4 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>2 m</td></tr>
+<tr><td>b. Au début et au niveau des intersections</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,20 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>1 m ou 0,50 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>1 m ou 0,50 m</td></tr>
+<tr><td>7. Ligne délimitant la bande cyclable (jaune, discontinue/continue; 6.09)</td><td></td><td></td></tr>
+<tr><td>a. En général</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>3 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>3 m</td></tr>
+<tr><td>b. Au niveau des intersections</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>1 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>1 m</td></tr>
+<tr><td>8. Ligne longitudinale au niveau des lignes d’arrêt et d’attente (blanche, continue; 6.12)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>max. 15 m</td></tr>
+<tr><td>9. Ligne de bordure et ligne de rabattement (blanche, continue; 6.15 et 6.16.4)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>0,25 m</td><td>0,15 m</td></tr>
+<tr><td>– Longueur d’une ligne de rabattement au milieu de la chaussée</td><td></td><td>max. 15 m</td></tr>
+<tr><td>10. Ligne de guidage (blanche, discontinue; 6.16; 6.16.1, 6.16.2 et 6.16.3)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td>3 m</td><td>0,50 m ou 1 m</td></tr>
+<tr><td>– Espacement</td><td>3 m</td><td>0,50 m ou 1 m</td></tr>
+<tr><td>11. Bande longitudinale pour piétons (jaune, continue; 6.19)</td><td></td><td></td></tr>
+<tr><td>– Largeur de la bande et des lignes obliques</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Largeur de la bande</td><td></td><td>min. 1,50 m</td></tr>
+<tr><td>– Espacement entre les lignes obliques</td><td></td><td>2,50 à 5 m</td></tr>
+<tr><td>– Inclinaison des lignes obliques</td><td></td><td>45°</td></tr>
+<tr><td>12. Sas pour cyclistes (6.26)</td><td></td><td></td></tr>
+<tr><td>– Longueur</td><td></td><td>min. 4 m</td></tr>
+<tr><td colspan="3">*B.* *Marques transversales*</td></tr>
+<tr><td>1. Ligne d’arrêt (continue; 6.10)</td><td></td><td></td></tr>
+<tr><td>a. En général</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,50 m</td></tr>
+<tr><td>b. Sur les bandes et pistes cyclables</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,30 m</td></tr>
+<tr><td>2. Ligne d’attente (série de triangles en travers de la chaussée; 6.13)</td><td></td><td></td></tr>
+<tr><td>a. En général (blanche)</td><td></td><td></td></tr>
+<tr><td>– Longueur de la base du triangle</td><td></td><td>0,50 m</td></tr>
+<tr><td>– Hauteur du triangle</td><td></td><td>0,60 m</td></tr>
+<tr><td>– Espacement entre les triangles</td><td></td><td>0,25 m</td></tr>
+<tr><td>b. sur les bandes et pistes cyclables (jaune)</td><td></td><td></td></tr>
+<tr><td>– Longueur de la base du triangle</td><td></td><td>0,50 m ou 0,25 m</td></tr>
+<tr><td>– Hauteur du triangle</td><td></td><td>0,60 m ou 0,30 m</td></tr>
+<tr><td>– Espacement entre les triangles</td><td></td><td>0,25 m ou 0,125 m</td></tr>
+<tr><td>c. Présignalisation de la ligne d’attente (blanche; 6.14)</td><td></td><td></td></tr>
+<tr><td>– Largeur de la base du triangle</td><td></td><td>0,60 m</td></tr>
+<tr><td>– Longueur de la base du triangle</td><td></td><td>1,20 m</td></tr>
+<tr><td>– Largeur de la ligne sur les côtés</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Hauteur du triangle</td><td></td><td>3,60 m</td></tr>
+<tr><td>3. Passage pour piétons (série de bandes jaunes parallèles au bord de la chaussée; 6.17)</td><td></td><td></td></tr>
+<tr><td>– Largeur des bandes</td><td></td><td>0,50 m</td></tr>
+<tr><td>– Longueur des bandes</td><td></td><td>min. 4 m</td></tr>
+<tr><td>– Espacement entre les bandes</td><td></td><td>0,50 m</td></tr>
+<tr><td>– Distance par rapport au bord de la chaussée</td><td></td><td>max. 0,50 m</td></tr>
+<tr><td>5. Double ligne transversale (blanche et bleue, continue; 6.24)</td><td></td><td></td></tr>
+<tr><td>– Largeur de chaque ligne</td><td></td><td>0,20 m</td></tr>
+<tr><td>– Espacement entre les lignes</td><td></td><td>max. 0,05 m</td></tr>
+<tr><td>6. Voie de détresse (rouge et blanche; 6.36)</td><td></td><td></td></tr>
+<tr><td>– Longueur des côtés de chaque carré</td><td>1 m</td><td>1 m</td></tr>
+<tr><td>– Longueur totale</td><td>min. 50 m</td><td></td></tr>
+<tr><td colspan="3">*C.* *Surfaces interdites au trafic* *(blanches, hachurées et encadrées; 6.20)*</td></tr>
+<tr><td>1. En général</td><td></td><td></td></tr>
+<tr><td>Largeur de la ligne de contour</td><td colspan="2">équivalente à celle de la ligne de sécurité ou de bordure en prolongement</td></tr>
+<tr><td>– Largeur des lignes obliques ou des chevrons</td><td>1 m</td><td>min. 0,50 m</td></tr>
+<tr><td>– Espacement entre les lignes obliques ou les chevrons</td><td>2 m</td><td>min. 1 m[^annex1-lvlu1-7]</td></tr>
+<tr><td>2. Lignes de guidage marquant une interruption des surfaces interdites au trafic</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>équivalente à celle des lignes de la surface interdite au trafic</td></tr>
+<tr><td>– Longueur</td><td></td><td>1 m</td></tr>
+<tr><td>– Espacement</td><td></td><td>1 m</td></tr>
+<tr><td>*D.* *Marques régissant le stationnement*</td><td></td><td></td></tr>
+<tr><td>1. Case de stationnement (blanche, bleue, jaune)</td><td></td><td></td></tr>
+<tr><td>– Largeur de la ligne</td><td></td><td>0,12 m ou 0,15 m</td></tr>
+<tr><td>2. Ligne interdisant le parcage (jaune, interrompue par des croix; 6.22)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>3 à 10 m</td></tr>
+<tr><td>– Distance par rapport au bord de la chaussée</td><td></td><td>0,50 à 1 m</td></tr>
+<tr><td>– Largeur de la croix</td><td></td><td>1 m</td></tr>
+<tr><td>– Hauteur de la croix</td><td></td><td>env. 0,80 m</td></tr>
+<tr><td>– Espacement entre la ligne et la croix</td><td></td><td>0,50 à 1 m</td></tr>
+<tr><td>3. Case interdite au parcage (jaune avec deux diagonales qui se croisent; 6.23)</td><td></td><td></td></tr>
+<tr><td>– Largeur de la ligne</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Hauteur d’écriture des inscriptions</td><td></td><td>1,20 m</td></tr>
+<tr><td>4. Ligne interdisant l’arrêt</td><td></td><td></td></tr>
+<tr><td>a. En général (jaune, continue; 6.25)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur des extrémités de la ligne interdisant l’arrêt</td><td></td><td>0,80 m</td></tr>
+<tr><td>– Distance par rapport au bord de la chaussée</td><td></td><td>0,50 à 1 m</td></tr>
+<tr><td>b. Avant des passages pour piétons (jaune, continue; 6.18)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Longueur</td><td></td><td>min. 10 m</td></tr>
+<tr><td>– Distance par rapport au bord de la chaussée</td><td></td><td>0,50 à 1 m</td></tr>
+<tr><td>5. Ligne en zigzag (jaune; 6.21)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,15 m</td></tr>
+<tr><td>– Largeur de la surface délimitée</td><td></td><td>2,50 m ou 2 m</td></tr>
+<tr><td>*E.* *Flèches*</td><td></td><td></td></tr>
+<tr><td>1. Flèches de présélection et flèches de direction (blanches/jaunes; 6.06)</td><td></td><td></td></tr>
+<tr><td>En général</td><td></td><td></td></tr>
+<tr><td>– Longueur totale</td><td>8 m</td><td>6 m</td></tr>
+<tr><td>b. Sur les bandes et pistes cyclables</td><td></td><td></td></tr>
+<tr><td>– Longueur totale</td><td></td><td>1 m</td></tr>
+<tr><td>2. Flèches de rabattement (6.07)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>2 m</td><td>2 m</td></tr>
+<tr><td>– Longueur</td><td>5 m</td><td>5 m</td></tr>
+<tr><td>*F.* *Symboles*</td><td></td><td></td></tr>
+<tr><td>1. Symbole «Autoroute» (5.72)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>1,15 m</td></tr>
+<tr><td>– Hauteur</td><td></td><td>2 m</td></tr>
+<tr><td>2. Symbole «Cycle» (5.31)</td><td></td><td></td></tr>
+<tr><td>a. En général</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>1 m</td></tr>
+<tr><td>– Hauteur</td><td></td><td>1 m</td></tr>
+<tr><td>Sur la chaussée des zones 30</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>2 m</td></tr>
+<tr><td>– Hauteur</td><td></td><td>2 m</td></tr>
+<tr><td>3. Symbole «Vélo-cargo» (5.31.1)</td><td></td><td></td></tr>
+<tr><td>Largeur</td><td></td><td>1,10 m</td></tr>
+<tr><td>Hauteur</td><td></td><td>0,50 m</td></tr>
+<tr><td>4. Symbole «Motocycle» (5.29)</td><td></td><td></td></tr>
+<tr><td>Largeur</td><td></td><td>1,50 m</td></tr>
+<tr><td>Hauteur</td><td></td><td>0,90 m</td></tr>
+<tr><td>5. Symbole «Piéton» (5.34)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>0,50 m</td></tr>
+<tr><td>– Hauteur</td><td></td><td>1 m</td></tr>
+<tr><td>6. Symbole «Handicapés» (5.34.4)</td><td></td><td></td></tr>
+<tr><td>Largeur</td><td></td><td>0,90 m</td></tr>
+<tr><td>Hauteur</td><td></td><td>1 m</td></tr>
+<tr><td>7. Symbole «Station de recharge» (5.42)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>1,60 m</td></tr>
+<tr><td>– Hauteur</td><td></td><td>0,65 m</td></tr>
+<tr><td>8. Symbole «Covoiturage» (5.43)</td><td></td><td></td></tr>
+<tr><td>Largeur</td><td></td><td>2,20 m</td></tr>
+<tr><td>Hauteur</td><td></td><td>3 m</td></tr>
+<tr><td>9. Symbole «Véhicules équipés d’un système d’automatisation» (5.44)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td></td><td>1,50 m</td></tr>
+<tr><td>– Hauteur</td><td></td><td>0,90 m</td></tr>
+<tr><td>*G.* *Inscriptions*</td><td></td><td></td></tr>
+<tr><td>1. «STOP» (blanche; 6.11)</td><td></td><td></td></tr>
+<tr><td>– Hauteur d’écriture</td><td></td><td>1,20 m à 2 m</td></tr>
+<tr><td>2. «BUS» (jaune; 6.08)</td><td></td><td></td></tr>
+<tr><td>– Hauteur d’écriture</td><td></td><td>2 m</td></tr>
+<tr><td colspan="3">VII. Dispositifs de balisage</td></tr>
+<tr><td>*A.* *Dispositifs de balisage temporaires*</td><td></td><td></td></tr>
+<tr><td>1. Balise de guidage (7.01)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>15 à 20 cm</td><td>15 à 20 cm[^annex1-lvlu1-8]</td></tr>
+<tr><td>– Hauteur</td><td>70 à 100 cm</td><td>35 à 50 cm[^annex1-lvlu1-9]</td></tr>
+<tr><td>2. Cône de balisage (7.02)</td><td></td><td></td></tr>
+<tr><td>– Hauteur</td><td>75 cm</td><td></td></tr>
+<tr><td>– Espacement</td><td>max. 10 m</td><td></td></tr>
+<tr><td>3. Palette à faces alternantes (7.04)</td><td></td><td></td></tr>
+<tr><td>– Diamètre</td><td></td><td>60 à 90 cm</td></tr>
+<tr><td>– Hauteur</td><td></td><td>100 cm</td></tr>
+<tr><td colspan="3">*B.* *Dispositifs de balisage* *permanents*</td></tr>
+<tr><td>1. Balise de gauche (7.06) et balise de droite (7.05)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>12 à 14 cm</td><td></td></tr>
+<tr><td>– Hauteur</td><td>env. 100 cm</td><td></td></tr>
+<tr><td>– Hauteur des bandes noires</td><td>31 cm</td><td>25 cm</td></tr>
+<tr><td>2. Flèche de guidage (7.07)</td><td></td><td></td></tr>
+<tr><td>– Multiple</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>200 cm</td><td></td></tr>
+<tr><td>– Hauteur</td><td>50 cm</td><td></td></tr>
+<tr><td>– Simple</td><td></td><td></td></tr>
+<tr><td>– De forme carrée</td><td></td><td></td></tr>
+<tr><td>– Longueur du côté</td><td>90 cm</td><td>70 cm</td></tr>
+<tr><td>– De forme rectangulaire</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>90 cm</td><td>70 cm</td></tr>
+<tr><td>– Hauteur</td><td>130 cm</td><td>100 cm</td></tr>
+<tr><td>– De grandeur croissante</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td colspan="2">50 cm, avec une évolution croissante par paliers de 20 cm</td></tr>
+<tr><td>– Hauteur</td><td colspan="2">70 cm, avec une évolution croissante par paliers de 30 cm</td></tr>
+<tr><td>3. Borne d’îlot (7.08)</td><td></td><td></td></tr>
+<tr><td>– Diamètre</td><td></td><td>15 à 20 cm</td></tr>
+<tr><td>– Hauteur</td><td></td><td>50 à 80 cm</td></tr>
+<tr><td>4. Séparateur de trafic (7.09)</td><td></td><td></td></tr>
+<tr><td>– Largeur</td><td>200 cm</td><td>100 cm</td></tr>
+<tr><td>– Hauteur</td><td>170 cm</td><td>125 cm</td></tr>
+<tr><td>VIII. Signaux pliables</td><td colspan="2">Le format normal peut toujours être utilisé pour les signaux pliables.</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: Dans des cas particuliers, il est possible de placer le signal de format 70/100 cm ou 100/70.
@@ -2787,40 +3327,44 @@ Les normes suisses (SN) mentionnées dans la présente annexe peuvent être obte
 [^annex1-lvlu1-3]: Par hauteur des caractères, il faut entendre la hauteur des lettres majuscules.
 [^annex1-lvlu1-4]: Pour les indicateurs de direction et les indicateurs de direction avancés, on n’utilisera pas pour le numérotage des routes des caractères plus grands que ceux en usage sur les autres indicateurs; le cas échéant, l’encadrement du numéro sera réduit en conséquence.
 [^annex1-lvlu1-5]: Par hauteur des caractères, il faut entendre la hauteur des lettres majuscules.
+[^annex1-lvlu1-6]: Les dimensions prévues pour les routes principales et secondaires sont également applicables aux semi-autoroutes.
+[^annex1-lvlu1-7]: L’espacement peut être augmenté dans le cas de vastes surfaces interdites au trafic.
+[^annex1-lvlu1-8]: Des balises au format de 10 à 16 cm peuvent être utilisées dans des cas particuliers.
+[^annex1-lvlu1-9]: Des balises au format de 30 cm au maximum peuvent être utilisées dans des cas particuliers.
 
 Annexe 2[^t-2]
 
-(art. 1, al. 3, 2, al. 1<sup>bis</sup>, 49, al. 2, 51, al. 3, et 64, al. 7)
+(art. 1, al. 3, 2, al. 1<sup>bis</sup>, 49, al. 2<sup>bis</sup>, et 64, al. 7)
 
-## Représentation des signaux et des marques
+## Représentation des signaux, des marques et des dispositifs de balisage (art. 1, al. 3)
 
-[^t-2]: Mise à jour par le ch. II des O du 19 oct. 1983 ([RO 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), du 25 janv. 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), du 12 fév. 1992 ([RO 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), le ch. II 2 de l’O du 7 mars 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)), le ch. I de l’O du 7 mars 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), l’annexe 1 ch. II 5 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), le ch. II des O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), du 28 sept. 2001 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), du 15 mai 2002 ([RO 2002 1935](https://fedlex.data.admin.ch/eli/oc/2002/289)), du 20 sept. 2002 ([RO 2002 3174](https://fedlex.data.admin.ch/eli/oc/2002/470)), l’annexe ch. II 1 de l’O du 12 nov. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)), le ch. II al. 1 de l’O du 17 août 2005 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), le ch. II des O du 28 mars 2007 ([RO 2007 2105](https://fedlex.data.admin.ch/eli/oc/2007/298)), du 19 août 2009 ([RO 2009 4241](https://fedlex.data.admin.ch/eli/oc/2009/518)), du 24 juin 2015 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)), du 20 mai 2020 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)), du 24 août 2022 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)), l’annexe ch. 1 de l’O du 13 déc. 2024 sur la conduite automatisée ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)) et le ch. III de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
+[^t-2]: Mise à jour par le ch. II des O du 19 oct. 1983 ([RO 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), du 25 janv. 1989 ([RO 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), du 12 fév. 1992 ([RO 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), le ch. II 2 de l’O du 7 mars 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)), le ch. I de l’O du 7 mars 1994 ([RO 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), l’annexe 1 ch. II 5 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), le ch. II des O du 1<sup>er</sup> avr. 1998 ([RO 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), du 28 sept. 2001 ([RO 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), du 15 mai 2002 ([RO 2002 1935](https://fedlex.data.admin.ch/eli/oc/2002/289)), du 20 sept. 2002 ([RO 2002 3174](https://fedlex.data.admin.ch/eli/oc/2002/470)), l’annexe ch. II 1 de l’O du 12 nov. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)), le ch. II al. 1 de l’O du 17 août 2005 ([RO 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), le ch. II des O du 28 mars 2007 ([RO 2007 2105](https://fedlex.data.admin.ch/eli/oc/2007/298)), du 19 août 2009 ([RO 2009 4241](https://fedlex.data.admin.ch/eli/oc/2009/518)), du 24 juin 2015 ([RO 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)), du 20 mai 2020 ([RO 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)), du 24 août 2022 ([RO 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)), l’annexe ch. 1 de l’O du 13 déc. 2024 sur la conduite automatisée ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)), le ch. III de l’O du 13 déc. 2024 ([RO 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)) et le ch. I al. 3 et II de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 
 ### 1. Signaux de danger (art. 3 à 15)
 
 ### a. Dangers inhérents à la route (art. 4 à 10)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image4.png) **1.01** Virage à droite (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image5.png) **1.02** Virage à gauche (art. 4)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image6.png) **1.03** Double virage, le premier à droite (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image7.png) **1.04** Double virage, le premier à gauche (art. 4)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image8.png) **1.05** Chaussée glissante (art. 5)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image9.png) **1.06** Cassis (art. 6)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image10.png) **1.07** Chaussée rétrécie (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image11.png) **1.08** Chaussée rétrécie à droite (art. 7)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image12.png) **1.09** Chaussée rétrécie à gauche (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image13.png) **1.10** Descente dangereuse (art. 8)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image14.png) **1.11** Forte montée (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image15.png) **1.12** Gravillon (art. 8)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image16.png) **1.13** Chute de pierres (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image17.png) **1.14** Travaux (art. 9)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image18.png) **1.15** Barrières (art. 10)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image19.png) **1.16** Passage à niveau sans barrières (art. 10)</td></tr>
-<tr><td>**1.17** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image20.png) **1.18** Tramway ou chemin de fer routier (art. 10)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image4.png) **1.01** Virage à droite (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image5.png) **1.02** Virage à gauche (art. 4)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image6.png) **1.03** Double virage, le premier à droite (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image7.png) **1.04** Double virage, le premier à gauche (art. 4)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image8.png) **1.05** Chaussée glissante (art. 5)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image9.png) **1.06** Cassis (art. 6)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image10.png) **1.07** Chaussée rétrécie (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image11.png) **1.08** Chaussée rétrécie à droite (art. 7)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image12.png) **1.09** Chaussée rétrécie à gauche (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image13.png) **1.10** Descente dangereuse (art. 8)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image14.png) **1.11** Forte montée (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image15.png) **1.12** Gravillon (art. 8)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image16.png) **1.13** Chute de pierres (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image17.png) **1.14** Travaux (art. 9)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image18.png) **1.15** Barrières (art. 10)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image19.png) **1.16** Passage à niveau sans barrières (art. 10)</td></tr>
+<tr><td>**1.17** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image20.png) **1.18** Tramway ou chemin de fer routier (art. 10)</td></tr>
 </table>
 
 ### b. Autres dangers (art. 11 à 15)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image21.png) **1.22** Passage pour piétons (art. 11)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image22.png) **1.23** Enfants (art. 11)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image23.png) **1.24** Passage de gibier (art. 12)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image24.png) **1.25** Animaux (art. 12)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image25.png) **1.26** Circulation en sens inverse (art. 13)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image26.png) **1.27** Signaux lumineux (art. 14)</td></tr>
-<tr><td>**1.28** …</td><td>**1.29** …</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image27.png) **1.30** Autres dangers (art. 15)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image28.png) **1.31** Bouchon (art. 14)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image29.png) **1.32** Cyclistes (art. 11)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image21.png) **1.22** Passage pour piétons (art. 11)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image22.png) **1.23** Enfants (art. 11)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image23.png) **1.24** Passage de gibier (art. 12)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image24.png) **1.25** Animaux (art. 12)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image25.png) **1.26** Circulation en sens inverse (art. 13)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image26.png) **1.27** Signaux lumineux (art. 14)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image27.png) **1.28** Avions (art. 14)</td><td>**1.29** Hélicoptères (art. 14)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image30.png) **1.30** Autres dangers (art. 15)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image31.png) **1.31** Bouchon (art. 14)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image32.png) **1.32** Cyclistes (art. 11)</td><td></td></tr>
 </table>
 
 ### 2. Signaux de prescription (art. 2*a*, 16 à 34 et 69)
@@ -2828,59 +3372,57 @@ Annexe 2[^t-2]
 ### a. Interdictions de circuler, limitations du poids et des dimensions (art. 18 à 21)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image30.png) **2.01** Interdiction générale de circuler dans les deux sens (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image31.png) **2.02** Accès interdit (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image32.png) **2.03** Circulation interdite aux voitures automobiles (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image33.png) **2.04** Circulation interdite aux motocycles (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image34.png) **2.05** Circulation interdite aux cycles et cyclomoteurs (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image35.png) **2.06** Circulation interdite aux cyclomoteurs (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image36.png) **2.07** Circulation interdite aux camions (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image37.png) **2.08** Circulation interdite aux autocars (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image38.png) **2.09** Circulation interdite aux remorques (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image39.png) **2.09.1** Circulation interdite aux remorques autres que les semi-remorques et les remorques à essieu central (art. 19)</td><td>**2.10** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image40.png) **2.10.1** Circulation interdite aux véhicules transportant des marchandises dangereuses (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image41.png) **2.11** Circulation interdite aux véhicules dont le chargement peut altérer les eaux (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image42.png) **2.12** Circulation interdite aux animaux (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image43.png) **2.13** Circulation interdite aux voitures automobiles et aux motocycles (exemple) (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image44.png) **2.14** Circulation interdite aux voitures automobiles, aux motocycles et cyclomoteurs (exemple) (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image45.png) **2.15** Accès interdit aux piétons (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image46.png) **2.15.1** Interdiction de skier (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image47.png) **2.15.2** Interdiction de luger (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image48.png) **2.15.3** Circulation interdite aux engins assimilés à des véhicules (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image49.png) **2.16** Poids maximal (art. 20)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image50.png) **2.17** Charge par essieu (art. 20)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image51.png) **2.18** Largeur maximale (art. 21)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image52.png) **2.19** Hauteur maximale (art. 21)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image53.png) **2.20** Longueur maximale (art. 21)</td><td></td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image33.png) **2.01** Interdiction générale de circuler dans les deux sens (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image34.png) **2.02** Accès interdit (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image35.png) **2.03** Circulation interdite aux voitures automobiles (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image36.png) **2.04** Circulation interdite aux motocycles (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image37.png) **2.05** Circulation interdite aux cycles et cyclomoteurs (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image38.png) **2.06** Circulation interdite aux cyclomoteurs (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image39.png) **2.07** Circulation interdite aux camions (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image40.png) **2.08** Circulation interdite aux autocars (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image41.png) **2.09** Circulation interdite aux remorques (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image42.png) **2.09.1** Circulation interdite aux remorques autres que les semi-remorques et les remorques à essieu central (art. 19)</td><td>**2.10** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image43.png) **2.10.1** Circulation interdite aux véhicules transportant des marchandises dangereuses (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image44.png) **2.11** Circulation interdite aux véhicules dont le chargement peut altérer les eaux (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image45.png) **2.12** Circulation interdite aux animaux (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image46.png) **2.13** Circulation interdite aux voitures automobiles et aux motocycles (exemple) (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image47.png) **2.14** Circulation interdite aux voitures automobiles, aux motocycles et cyclomoteurs (exemple) (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image48.png) **2.15** Accès interdit aux piétons (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image49.png) **2.15.1** Interdiction de skier (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image50.png) **2.15.2** Interdiction de luger (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image51.png) **2.15.3** Circulation interdite aux engins assimilés à des véhicules (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image52.png) **2.16** Poids maximal (art. 20)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image53.png) **2.17** Charge par essieu (art. 20)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image54.png) **2.18** Largeur maximale (art. 21)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image55.png) **2.19** Hauteur maximale (art. 21)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image56.png) **2.20** Longueur maximale (art. 21)</td><td></td><td></td></tr>
 </table>
 
 ### b. Prescriptions de circulation, restrictions de stationnement (art. 2*a* et 22 à 32)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image54.png) **2.30** Vitesse maximale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image55.png) **2.30.1** Vitesse maximale 50, Limite générale (art. 22)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image56.png) **2.31** Vitesse minimale (art. 23)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image57.png) **2.32** Sens obligatoire à droite (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image58.png) **2.33** Sens obligatoire à gauche (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image59.png) **2.34** Obstacle à contourner par la droite (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image60.png) **2.35** Obstacle à contourner par la gauche (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image61.png) **2.36** Circuler tout droit (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image62.png) **2.37** Obliquer à droite (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image63.png) **2.38** Obliquer à gauche (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image64.png) **2.39** Obliquer à droite ou à gauche (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image65.png) **2.40** Circuler tout droit ou obliquer à droite (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image66.png) **2.41** Circuler tout droit ou obliquer à gauche (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image67.png) **2.41.1** Carrefour à sens giratoire (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image68.png) **2.41.2** Sens obligatoire pour les véhicules transportant des marchandises dangereuses (exemple) (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image69.png) **2.42** Interdiction d’obliquer à droite (art. 25)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image70.png) **2.43** Interdiction d’obliquer à gauche (art. 25)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image71.png) **2.44** Interdiction de dépasser (art. 26)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image72.png) **2.45** Interdiction aux camions de dépasser (art. 26)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image73.png) **2.46** Interdiction de faire demi-tour (art. 27)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image74.png) **2.47** Distance minimale (art. 28)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image75.png) **2.48** Chaînes à neige obligatoires (art. 29)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image76.png) **2.49** Interdiction de s’arrêter (art. 30)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image77.png) **2.50** Interdiction de parquer (art. 30)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image78.png) **2.51** Arrêt à proximité d’un poste de douane (art. 31)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image79.png) **2.52** Police (art. 31)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image80.png) **2.53** Fin de la vitesse maximale (art. 32)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image81.png) **2.53.1** Fin de la vitesse maximale 50, Limite générale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image82.png) **2.54** Fin de la vitesse minimale (art. 32)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image83.png) **2.55** Fin de l’interdiction de dépasser (art. 32)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image84.png) **2.56** Fin de l’interdiction aux camions de dépasser (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image85.png) **2.56.**1 Fin de l’interdiction partielle de circuler (exemple) (art. 32)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image86.png) **2.57** Fin de l’obligation d’utiliser des chaînes à neige (art. 32)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image87.png) **2.58** Libre circulation (art. 32)</td><td colspan="2"></td><td></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image88.png) **2.59.1** Signal de zone (p. ex. zone 30) (art. 2*a* et 22*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image89.png) **2.59.2** Signal de fin de zone (art. 2*a*)</td><td></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image90.png) **2.59.3** Zone piétonne (art. 2*a* et 22*c*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image91.png) **2.59.4** Fin de la zone piétonne (art. 2*a*)</td><td></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image92.png) **2.59.5** Zone de rencontre (art. 2*a* et 22*b*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image93.png) **2.59.6** Fin de la zone de rencontre (art. 2*a*)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image57.png) **2.30** Vitesse maximale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image58.png) **2.30.1** Vitesse maximale 50, Limite générale (art. 22)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image59.png) **2.31** Vitesse minimale (art. 23)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image60.png) **2.32** Sens obligatoire à droite (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image61.png) **2.33** Sens obligatoire à gauche (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image62.png) **2.34** Obstacle à contourner par la droite (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image63.png) **2.35** Obstacle à contourner par la gauche (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image64.png) **2.36** Circuler tout droit (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image65.png) **2.37** Obliquer à droite (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image66.png) **2.38** Obliquer à gauche (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image67.png) **2.39** Obliquer à droite ou à gauche (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image68.png) **2.40** Circuler tout droit ou obliquer à droite (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image69.png) **2.41** Circuler tout droit ou obliquer à gauche (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image70.png) **2.41.1** Carrefour à sens giratoire (art. 24)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image71.png) **2.41.2** Sens obligatoire pour les véhicules transportant des marchandises dangereuses (exemple) (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image72.png) **2.42** Interdiction d’obliquer à droite (art. 25)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image73.png) **2.43** Interdiction d’obliquer à gauche (art. 25)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image74.png) **2.44** Interdiction de dépasser (art. 26)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image75.png) **2.45** Interdiction aux camions de dépasser (art. 26)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image76.png) **2.46** Interdiction de faire demi-tour (art. 27)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image77.png) **2.47** Distance minimale (art. 28)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image78.png) **2.48** Chaînes à neige obligatoires (art. 29)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image79.png) **2.49** Interdiction de s’arrêter (art. 30)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image80.png) **2.50** Interdiction de parquer (art. 30)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image81.png) **2.51** Arrêt à proximité d’un poste de douane (art. 31)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image82.png) **2.52** Police (art. 31)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image83.png) **2.53** Fin de la vitesse maximale (art. 32)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image84.png) **2.53.1** Fin de la vitesse maximale 50, Limite générale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image85.png) **2.54** Fin de la vitesse minimale (art. 32)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image86.png) **2.55** Fin de l’interdiction de dépasser (art. 32)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image87.png) **2.56** Fin de l’interdiction aux camions de dépasser (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image88.png) **2.56.**1 Fin de l’interdiction partielle de circuler (exemple) (art. 32)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image89.png) **2.57** Fin de l’obligation d’utiliser des chaînes à neige (art. 32)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image90.png) **2.58** Libre circulation (art. 32)</td><td colspan="2"></td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image91.png) **2.59.1** Signal de zone (p. ex. zone 30) (art. 2*a* et 22*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image92.png) **2.59.2** Signal de fin de zone (art. 2*a*)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image93.png) **2.59.3** Zone piétonne (art. 2*a* et 22*c*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image94.png) **2.59.4** Fin de la zone piétonne (art. 2*a*)</td><td></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image95.png) **2.59.5** Zone de rencontre (art. 2*a* et 22*b*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image96.png) **2.59.6** Fin de la zone de rencontre (art. 2*a*)</td></tr>
 </table>
 
 ### c. Pistes et chemins particuliers, chaussées réservées aux bus (art. 33 à 34), système de signaux lumineux pour la régulation temporaire de voies de circulation (art. 69)
 
-Système de signaux pour la fermeture temporaire des voies de circulation (art. 69)
-
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image94.png) **2.60** Piste cyclable (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image95.png) **2.60.1** Fin de la piste cyclable (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image96.png) **2.61** Chemin pour piétons (art. 33)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image97.png) **2.62** Allée d’équitation (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image98.png) **2.63** Piste cyclable et chemin pour piétons, avec partage de l’aire de circulation (exemple) (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image99.png) **2.63.1** Piste cyclable et chemin pour piétons sans partage de l’aire de circulation (exemple) (art. 33)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image100.png) **2.64** Chaussée réservée aux bus (art. 34)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image101.png) **2.65** Système de signaux lumineux pour la régulation temporaire de voies de circulation</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image97.png) **2.60** Piste cyclable (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image98.png) **2.60.1** Fin de la piste cyclable (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image99.png) **2.61** Chemin pour piétons (art. 33)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image100.png) **2.62** Allée d’équitation (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image101.png) **2.63** Piste cyclable et chemin pour piétons, avec partage de l’aire de circulation (exemple) (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image102.png) **2.63.1** Piste cyclable et chemin pour piétons sans partage de l’aire de circulation (exemple) (art. 33)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image103.png) **2.64** Chaussée réservée aux bus (art. 34)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image104.png) **2.65** Système de signaux lumineux pour la régulation temporaire de voies de circulation</td></tr>
 </table>
 
 ### 3. Signaux de priorité (art. 35 à 43, art. 93)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image102.png) **3.01** Stop (art. 36)</td><td colspan="2">**3.011** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image103.png) **3.02** Cédez le passage (art. 36)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image104.png) **3.03** Route principale (art. 37)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image105.png) **3.04** Fin de la route principale (art. 38)</td><td></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image106.png) **3.05** Intersection avec une route sans priorité (art. 39)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image107.png) **3.06** Intersection comportant la priorité de droite (art. 40)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image105.png) **3.01** Stop (art. 36)</td><td colspan="2">**3.011** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image106.png) **3.02** Cédez le passage (art. 36)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image107.png) **3.03** Route principale (art. 37)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image108.png) **3.04** Fin de la route principale (art. 38)</td><td></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image109.png) **3.05** Intersection avec une route sans priorité (art. 39)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image110.png) **3.06** Intersection comportant la priorité de droite (art. 40)</td></tr>
 <tr><td colspan="2">**3.07** …</td><td colspan="2">**3.08** …</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image108.png) **3.09** Laissez passer les véhicules en sens inverse (art. 42)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image109.png) **3.10** Priorité par rapport aux véhicules venant en sens inverse (art. 42)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image111.png) **3.09** Laissez passer les véhicules en sens inverse (art. 42)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image112.png) **3.10** Priorité par rapport aux véhicules venant en sens inverse (art. 42)</td></tr>
 <tr><td colspan="2">**3.11** …</td><td colspan="2">**3.12** …</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image110.png) **3.20** Signal à feux clignotant alternativement (art. 93)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image111.png) **3.21** Signal à feu clignotant simple (art. 93)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image112.png) **3.22** Croix de St-André simple (art. 93)</td><td colspan="2">**3.23** …</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image113.png) **3.24** Croix de St-André simple (art. 93)</td><td colspan="2">**3.25** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image113.png) **3.20** Signal à feux clignotant alternativement (art. 93)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image114.png) **3.21** Signal à feu clignotant simple (art. 93)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image115.png) **3.22** Croix de St-André simple (art. 93)</td><td colspan="2">**3.23** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image116.png) **3.24** Croix de St-André simple (art. 93)</td><td colspan="2">**3.25** …</td></tr>
 </table>
 
 ### 4. Signaux d’indication (art. 44 à 62 et art. 84 à 91)
@@ -2888,119 +3430,162 @@ Système de signaux pour la fermeture temporaire des voies de circulation (art. 
 ### a. Signaux impliquant des règles de comportement (art. 44 à 48 et art. 54)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image114.png) **4.01** Autoroute (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image115.png) **4.02** Fin de l’autoroute (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image116.png) **4.03** Semi-autoroute (art. 45)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image117.png) **4.04** Fin de la semi- autoroute (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image118.png) **4.05** Route postale de montagne (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image119.png) **4.06** Fin de la route postale de montagne (art. 45)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image120.png) **4.07** Tunnel (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image121.png) **4.08** Sens unique (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image122.png) **4.08.1** Sens unique avec circulation de cyclistes en sens inverse (exemple) (art. 46)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image123.png) **4.09** Impasse (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image124.png) **4.09.1** Impasse avec exceptions (exemple) (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image125.png) **4.10** Zone de protection des eaux (art. 46)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image126.png) **4.11** Emplacement d’un passage pour piétons (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image127.png) **4.12** Passage souterrain pour piétons (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image128.png) **4.13** Passerelle pour piétons (art. 47)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image129.png) **4.14** Hôpital (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image130.png) **4.15** Place d’évitement (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image131.png) **4.16** Place d’arrêt pour véhicules en panne (art. 47)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image132.png) **4.17** Parcage autorisé (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image133.png) **4.18** Parcage avec disque de stationnement (art. 48)</td><td>**4.19** …</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image134.png) **4.20** Parcage contre paiement (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image135.png) **4.21** Parking couvert (art. 48)</td><td>**4.22** …</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image136.png) **4.23** Indicateur de direction avancé pour des genres de véhicules déterminés (exemple camions) (art. 54)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image137.png) **4.24** Voie de détresse (exemple) (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image138.png) **4.25** Parking avec accès aux transports publics (exemple) (art. 48)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image117.png) **4.01** Autoroute (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image118.png) **4.02** Fin de l’autoroute (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image119.png) **4.03** Semi-autoroute (art. 45)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image120.png) **4.04** Fin de la semi- autoroute (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image121.png) **4.05** Route postale de montagne (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image122.png) **4.06** Fin de la route postale de montagne (art. 45)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image123.png) **4.07** Tunnel (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image124.png) **4.08** Sens unique (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image125.png) **4.08.1** Sens unique avec circulation de cyclistes en sens inverse (exemple) (art. 46)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image126.png) **4.09** Impasse (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image127.png) **4.09.1** Impasse avec exceptions (exemple) (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image128.png) **4.10** Zone de protection des eaux (art. 46)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image129.png) **4.11** Emplacement d’un passage pour piétons (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image130.png) **4.12** Passage souterrain pour piétons (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image131.png) **4.13** Passerelle pour piétons (art. 47)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image132.png) **4.14** Hôpital (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image133.png) **4.15** Place d’évitement (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image134.png) **4.16** Place d’arrêt pour véhicules en panne (art. 47)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image135.png) **4.17** Parcage autorisé (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image136.png) **4.18** Parcage avec disque de stationnement (art. 48)</td><td>**4.19** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image137.png) **4.20** Parcage contre paiement (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image138.png) **4.21** Parking couvert (art. 48)</td><td>**4.22** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image139.png) **4.23** Indicateur de direction avancé pour des genres de véhicules déterminés (exemple camions) (art. 54)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image140.png) **4.24** Voie de détresse (exemple) (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image141.png) **4.25** Parking avec accès aux transports publics (exemple) (art. 48)</td></tr>
 </table>
 
 ### b. Indication de la direction sur les routes principales et les routes secondaires (art. 49 à 56)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image139.png) **4.27** Début de localité sur route principale (art. 50)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image140.png) **4.28** Fin de localité sur route principale (art. 50)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image141.png) **4.29** Début de localité sur route secondaire (art. 50)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image142.png) **4.30** Fin de localité sur route secondaire (art. 50)</td><td colspan="5"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image143.png) **4.31** Indicateur de direction pour autoroutes et semi-autoroutes (art. 57)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image144.png) **4.32** Indicateur de direction pour routes principales (art. 51)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image145.png) **4.33** Indicateur de direction pour routes secondaires (art. 51)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image146.png) **4.34** Indicateur de direction pour déviation (art. 55)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image147.png) **4.34.1** Indicateur de direction pour déviation sans mention du lieu de destination (art. 55)</td><td colspan="5"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image148.png) **4.35** Indicateur de direction en forme de tableau (art. 51)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image149.png) **4.36** Indicateur de direction avancé sur route principale (art. 52)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image150.png) **4.37** Indicateur de direction avancé sur route secondaire (art. 52)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image151.png) **4.38** Indicateur de direction avancé avec répartition des voies sur route principale (art. 52)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image152.png) **4.39** Indicateur de direction avancé avec répartition des voies sur route secondaire (art. 52)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image153.png) **4.40** Indicateur de direction avancé annonçant des restrictions (art. 52)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image154.png) **4.41** Panneau de présélection au-dessus d’une voie de circulation sur route principale (art. 53)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image155.png) **4.42** Panneau de présélection au-dessus d’une voie de circulation sur route secondaire (art. 53)</td></tr>
-<tr><td colspan="4">**4.43** …</td><td colspan="4"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image156.png) **4.45** Indicateur de direction pour des genres de véhicules déterminés (exemple camions) (art. 54)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image157.png) **4.46** Indicateur de direction «Place de stationnement» (art. 54)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image158.png) **4.46.1** Indicateur de direction «Parking avec accès aux transports publics» (exemple) (art. 54)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image159.png) **4.47** Indicateur de direction «Place de camping» (art. 54)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image160.png) **4.48** Indicateur de direction «Terrain pour caravanes» (art. 54)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image161.png) **4.49** Indicateur de direction «Entreprise» (art. 54)</td></tr>
-<tr><td colspan="4">**4.50** …</td><td colspan="4"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image162.png) **4.50.1** Indicateur de direction «Itinéraire recommandé aux cyclistes» (art. 54)</td><td colspan="5">**4.50.2** …</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image163.png) **4.50.3** Indicateur de direction «Itinéraire pour vélos tout terrain» (exemple) (art. 54)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image164.png) **4.50.4** Indicateur de direction «Itinéraire pour engins assimilés à des véhicules» (exemple) (Art. 54*a*)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image165.png) **4.50.5** Indicateur de direction en forme de tableau destiné à un seul cercle d’usagers (exemple) (art. 54*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image166.png) **4.50.6** Indicateur de direction en forme de tableau destiné à plusieurs cercles d’usagers (exemple) (art. 54*a*)</td></tr>
-<tr><td colspan="5">**4.51** …</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image167.png) **4.51.1** Indicateur de direction sans destination (exemple) (art. 54*a*)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image168.png) **4.51.2** Indicateur de direction avancé sans destination (exemple) (art. 54*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image169.png) **4.51.3** Plaque de confirmation (exemple) (art. 54*a*)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image170.png) **4.51.4** Plaque indiquant la fin d’un itinéraire (exemple) art. 54*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image171.png) **4.52** Guidage du trafic art. 54)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image172.png) **4.53** Indicateur de direction avancé annonçant une déviation (art. 55)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image173.png) **4.54** Indicateur de direction avancé pour carrefour à sens giratoire (exemple) (art. 52)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image174.png) **4.55** Route latérale comportant un danger ou une restriction (art. 54)</td><td colspan="3"></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image175.png) **4.56** Plaque numérotée pour routes européennes (art. 56)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image176.png) **4.57** Plaque numérotée pour routes principales (art. 56)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image177.png) **4.58** Plaque numérotée pour autoroutes et semi- autoroutes (art. 56)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image178.png) **4.59** Plaque numérotée pour jonctions (art. 56)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image179.png) **4.59.1** Plaque numérotée pour ramifications (art. 56)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image142.png) **4.27** Début de localité sur route principale (art. 50)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image143.png) **4.28** Fin de localité sur route principale (art. 50)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image144.png) **4.29** Début de localité sur route secondaire (art. 50)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image145.png) **4.30** Fin de localité sur route secondaire (art. 50)</td><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image146.png) **4.31** Indicateur de direction pour autoroutes et semi-autoroutes (art. 57)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image147.png) **4.32** Indicateur de direction pour routes principales (art. 51)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image148.png) **4.33** Indicateur de direction pour routes secondaires (art. 51)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image149.png) **4.34** Indicateur de direction pour déviation (art. 55)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image150.png) **4.34.1** Indicateur de direction pour déviation sans mention de la destination (art. 55)</td><td colspan="3"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image151.png) **4.35** Indicateur de direction en forme de tableau (art. 51)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image152.png) **4.36** Indicateur de direction avancé sur route principale (art. 52)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image153.png)**4.37** Indicateur de direction avancé sur route secondaire (art. 52)</td><td colspan="3"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image154.png)</td><td colspan="3"></td></tr>
+<tr><td colspan="6">**4.38** Indicateur de direction avancé avec répartition des voies sur route principale (exemples) (art. 52)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image157.png) **4.39** Indicateur de direction avancé avec répartition des voies sur route secondaire (art. 52)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image158.png) **4.40** Indicateur de direction avancé annonçant des restrictions (art. 52)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image159.png) **4.41** Panneau de présélection au-dessus d’une voie de circulation sur route principale (art. 53)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image160.png) **4.42** Panneau de présélection au-dessus d’une voie de circulation sur route secondaire (art. 53)</td></tr>
+<tr><td colspan="3">**4.43** …</td><td colspan="3"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image161.png) **4.45** Indicateur de direction pour des genres de véhicules déterminés (exemple camions) (art. 54)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image162.png) **4.46** Indicateur de direction «Place de stationnement» (art. 54)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image163.png) **4.46.1** Indicateur de direction «Parking avec accès aux transports publics» (exemple) (art. 54)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image164.png) **4.47** Indicateur de direction «Place de camping» (art. 54)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image165.png) **4.48** Indicateur de direction «Terrain pour caravanes» (art. 54)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image166.png) **4.49** Indicateur de direction «Entreprise» (art. 54)</td></tr>
+<tr><td colspan="3">**4.49.1** Indicateur de direction «Hôtel» (exemple) (art. 54)</td><td colspan="3">**4.50**…</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image169.png) **4.50.1** Indicateur de direction pour cycles et cyclomoteurs (exemple) (art. 54*a*)</td><td colspan="3">**4.50.2** …</td></tr>
+<tr><td colspan="3">**4.50.3** Indicateur de direction pour vélos tout-terrains (exemple) (art. 54*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image172.png) **4.50.4** Indicateur de direction pour engins assimilés à des véhicules (exemple) (art. 54*a*)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image173.png) **4.50.5** Indicateur de direction en forme de tableau destiné à un seul cercle d’usagers (exemple) (art. 54*a*)</td><td colspan="3">**4.50.6** Indicateur de direction en forme de tableau destiné à plusieurs cercles d’usagers (exemple) (art. 54*a*)</td></tr>
+<tr><td colspan="3">**4.51** …</td><td colspan="3">**4.51.1** Indicateur de direction sans mention de la destination (exemple) (art. 54*a*)</td></tr>
+<tr><td colspan="3">**4.51.2** Indicateur de direction avancé sans mention de la destination (exemple) (art. 54*a*)</td><td colspan="3">**4.51.3** Plaque de confirmation (exemple) (art. 54*a*)</td></tr>
+<tr><td colspan="3">**4.51.4** Plaque indiquant la fin d’un parcours pour vélos tout-terrains (art. 54*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image184.png) **4.51.5** Indicateur de direction avancé pour cycles, cyclomoteurs et engins assimilés à des véhicules (exemple) (art. 54*a*)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image185.png) **4.52** Guidage du trafic (art. 54)</td><td colspan="3">**4.52.1** Indicateur de direction pour réseaux de chemins pour piétons (exemple) (art. 54*b*)</td></tr>
+<tr><td colspan="3">**4.52.2** Indicateur de direction pour chemins de randonnée pédestre (exemple) (art. 54*b*)</td><td colspan="3">**4.52.3** Indicateur de direction pour chemins de randonnée de montagne (exemple) (art. 54*b*)</td></tr>
+<tr><td colspan="3">**4.52.4** Indicateur de direction pour chemins de randonnée alpine (exemple) (art. 54*b*)</td><td colspan="3">**4.52.5** Plaque de confirmation destinée aux chemins pour piétons et aux chemins de randonnée pédestre (exemple) (art. 54*b*)</td></tr>
+<tr><td colspan="3">**4.52.6** Indicateur de direction touristique (exemple) (art. 54*c*)</td><td colspan="3">**4.52.7** Panneau des symboles touristiques (exemple) (art. 54*c*)</td></tr>
+<tr><td colspan="3">**4.52.8** Panneau d’information touristique (exemple) (art. 54*c*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image202.png) **4.53** Indicateur de direction avancé annonçant une déviation (art. 55)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image203.png) **4.54** Indicateur de direction avancé pour carrefour à sens giratoire (exemple) (art. 52)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image204.png) **4.55** Route latérale comportant un danger ou une restriction (art. 54)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image205.png) **4.56** Plaque numérotée pour routes européennes (art. 56)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image206.png) **4.57** Plaque numérotée pour routes principales (art. 56)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image207.png) **4.58** Plaque numérotée pour autoroutes et semi- autoroutes (art. 56)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image208.png) **4.59** Plaque numérotée pour jonctions (art. 56)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image209.png) **4.59.1** Plaque numérotée pour échangeurs (art. 56)</td></tr>
 </table>
 
-### c. Indication de la direction sur les autoroutes et les semi-autoroutes (art. 84 à 91)
+### c. Indication de la direction sur les autoroutes et les semi-autoroutes (art. 84 à 89*b*)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image180.png) **4.60** Panneau annonçant la prochaine jonction (art. 86)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image181.png) **4.61** Indicateur de direction avancé, destiné aux jonctions (art. 86)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image182.png) **4.62** Indicateur de direction destiné aux jonctions (art. 86)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image183.png) **4.63** Panneau indicateur de sortie (art. 86)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image184.png) **4.64** Panneau de bifurcation (art. 86 et 87)</td><td colspan="2"></td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image185.png) **4.65** Panneau des distances en kilomètres (art. 86 et 87)</td><td colspan="2"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image186.png) **4.66** Panneau de ramification (art. 87)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image187.png) **4.67** Premier indicateur de direction avancé, destiné aux ramifications (art. 87)</td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image188.png) **4.68** Deuxième indicateur de direction avancé, destiné aux ramifications (art. 87)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image189.png) **4.69** Panneau de présélection au- dessus d’une voie de circulation sur autoroute et semi-autoroute (art. 86 et 87)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image190.png) **4.70** Plaque indiquant un téléphone de secours (art. 89)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image191.png) **4.71** Panneau indiquant un centre de police (art. 89 al. 5)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image192.png) **4.72** Plaque indiquant le nombre de kilomètres (art. 89)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image193.png) **4.73** Plaque indiquant le nombre d’hectomètres (art. 89)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image210.png) **4.60** Panneau annonçant la prochaine jonction (art. 86)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image211.png) **4.61** Indicateur de direction avancé, destiné aux jonctions (art. 86)</td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image212.png) **4.62** Indicateur de direction destiné aux jonctions (art. 86)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image213.png) **4.63** Panneau indicateur de sortie (art. 86)</td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image214.png) **4.64** Panneau de bifurcation (art. 86 et 87)</td><td colspan="2"></td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image215.png) **4.65** Panneau des distances en kilomètres (art. 86 et 87)</td><td colspan="2"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image216.png) **4.66** Panneau indicateur d’échangeur (art. 87)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image217.png) **4.67** Premier indicateur de direction avancé, destiné aux échangeurs (art. 87)</td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image218.png) **4.68** Deuxième indicateur de direction avancé, destiné aux échangeurs (art. 87)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image219.png) **4.69** Panneau de présélection au- dessus d’une voie de circulation sur autoroute et semi-autoroute (art. 86 et 87)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image220.png) **4.70** Plaque indiquant un téléphone de secours (art. 89a)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image221.png) **4.71** Panneau indiquant un centre de police (art. 89*a*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image222.png) **4.72** Plaque indiquant le nombre de kilomètres (art. 89*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image223.png) **4.73** Plaque indiquant le nombre d’hectomètres (art. 89*a*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image224.png) **4.74** Aire de ravitaillement (exemple) (art. 89)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image225.png) **4.74.1** Panneau annonçant une destination touristique (exemple) (art. 89*b*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image226.png) **4.74.2** Panneau touristique de bienvenue (exemple) (art. 89*b*)</td><td colspan="3"></td></tr>
 </table>
 
-### d. Informations (art. 57 à 62)
+### d. Informations (art. 57 à 62 et 89*a*)
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image194.png) **4.75** État de la route (art. 58)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image195.png) **4.76** Préavis sur l’état de la route (art. 58)</td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image196.png) **4.77** Disposition des voies de circulation (exemples) (art. 59)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image197.png) **4.77.1** Disposition des voies de circulation annonçant des restrictions (exemple) (art. 59)[^annex2-lvlu1-lvl4-lvld-1]</td><td colspan="3"></td><td></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image198.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image199.png)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image200.png)</td></tr>
-<tr><td>**4.77.2** Ouverture de la bande d’arrêt d’urgence (exemples) (art 59)</td><td colspan="3"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">**4.78** …</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image201.png) **4.79** Place de camping (art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image202.png) **4.80** Terrain pour caravanes (art. 62)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image203.png) **4.81** Téléphone (art. 62)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image204.png) **4.82** Premiers secours (art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image205.png) **4.83** Poste de dépannage (art. 62)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image206.png) **4.84** Poste d’essence (art. 62)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image207.png) **4.85** Hôtel-Môtel (art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image208.png) **4.86** Restaurant (art. 62)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image209.png) **4.87** Rafraîchissement (art. 62)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image210.png) **4.88** Poste d’information (art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image211.png) **4.89** Auberge de jeunesse (art. 62)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image212.png) **4.90** Bulletin routier radiophonique (art. 62 et 89)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image213.png) **4.91** Service religieux (art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image214.png) **4.91****<sup>bis</sup>** Véhicules équipés d’un système d’automatisation (art. 62)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image215.png) **4.92** Extincteur (art. 62)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image216.png) **4.93** Information sur les limitations générales de vitesse (art. 61)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image217.png) **4.94** Direction et distance vers l’issue de secours la plus proche (art. 62)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image218.png) **4.95** Issue de secours (art. 62)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image227.png) **4.75** État de la route (art. 58)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image228.png) **4.76** Préavis sur l’état de la route (art. 58)</td></tr>
+<tr><td colspan="6">**4.77** Disposition des voies de circulation (exemples) (art. 59)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image235.png) **4.77.1** Disposition des voies de circulation annonçant des restrictions (exemple) (art. 59)[^annex2-lvlu1-lvl4-lvld-1]</td><td colspan="4"></td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image236.png)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image237.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image238.png)</td></tr>
+<tr><td colspan="6">**4.77.2** Ouverture de la bande d’arrêt d’urgence (exemples) (art 59)</td></tr>
+<tr><td colspan="2"></td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image241.png)</td></tr>
+<tr><td colspan="6">**4.77.3** Disposition du tracé des voies de circulation aux abords d’un chantier (exemples) (art. 59)</td></tr>
+<tr><td colspan="2">**4.77.4** Déviation de voies de circulation (art. 59)</td><td colspan="4">**4.78** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image244.png) **4.79** Signal portant des informations (exemple) (art. 62)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image245.png)</td><td></td></tr>
+<tr><td></td><td colspan="5">**4.80** Poste d’appel d’urgence (exemples) (art. 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image248.png) **4.81** Station-service proposant du carburant de remplacement (exemple) (art. 62)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image249.png) **4.82** Bulletin routier radiophonique (art. 89*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image250.png) **4.83** Véhicules équipés d’un système d’automatisation (art. 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image251.png) **4.84** Service religieux (art. 62)</td><td colspan="4">**4.85** à **4.92** …</td><td></td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image252.png) **4.93** Information sur les limitations générales de vitesse (art. 61)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image253.png) **4.94** Direction et distance vers l’issue de secours la plus proche (art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image254.png) **4.95** Issue de secours (art. 62)</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl4-lvld-1]: [RO 1980 449](https://fedlex.data.admin.ch/eli/oc/1980/449_449_447)
 
-### 5. Indications complétant les signaux (art. 63 à 65 et 69*a*)
+### 5. Indications complémentaires concernant les signaux et symboles (art. 49, 54*a* à 54*c*, 63 à 65 et 69*a*)
+
+### a. Indications complémentaires concernant les signaux
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image219.png) **5.01** Plaque de distance (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image220.png) **5.02** Plaque indiquant ladistance et la direction (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image221.png) **5.03** Longueur du tronçon (art. 64)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image222.png) **5.04** Plaque de rappel (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image223.png) **5.05** Plaque indiquant le début d’une prescription (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image224.png) **5.06** Plaque indiquant la fin d’une prescription (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image225.png) **5.07** Plaque de direction (art. 64)</td></tr>
-<tr><td colspan="2">**5.08** …</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image226.png) **5.09** Direction de la route principale (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image227.png) **5.10** Dérogation à l’interdiction de s’arrêter (art. 65)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image228.png) **5.11** Dérogation à l’inter- diction de parquer (art. 65) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image229.png) **5.12** Feux clignotants (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image230.png) **5.13** Chaussée verglacée (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image231.png) **5.14** Handicapés (art. 65)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image232.png) **5.15** Largeur de la chaussée (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image233.png) **5.16** Bruit de tirs (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image234.png) **5.17** Poste d’essence suivant (art. 89)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image235.png) **5.18** Autorisation d’obliquer à droite pour les cyclistes (art. 69*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image236.png) **5.20** Voiture automobile légère (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image237.png) **5.21** Voitures automobiles lourdes (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image238.png) **5.22** Camion (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image239.png) **5.23** Camion avec remorque (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image240.png) **5.24** Véhicule articulé (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image241.png) **5.25** Autocar (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image242.png) **5.26** Remorque (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image243.png) **5.27** Caravane (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image244.png) **5.28** Voiture d’habitation (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image245.png) **5.29** Motocycle (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image246.png) **5.30** Cyclomoteur (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image1.png) **5.31** Cycle (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image247.png) **5.31.1** Vélo-cargo</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image248.png) **5.32** Vélo tout-terrain (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image249.png) **5.33** Pousser le cycle (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image250.png) **5.34** Piéton (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image251.png) **5.35** Tramway ou chemin de fer routier (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image252.png) **5.36** Tracteur (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image253.png) **5.37** Char (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image254.png) **5.38** Dameuse de pistes (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image255.png) **5.39** Ski de fond (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image256.png) **5.40** Skier (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image257.png) **5.41** Luger (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image258.png) **5.42** Station de recharge (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image259.png) **5.43** Covoiturage (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image260.png) **5.44** Véhicules équipés d’un système d’automatisation (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image261.png) **5.50** Avion/Aérodrome (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image262.png) **5.51** Quai de chargement pour le transport sur rail (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image263.png) **5.52** Quai de chargement pour le transport sur un bac (art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image264.png) **5.53** Zone industrielle et artisanale (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image265.png) **5.54** Passage en douane avec dédouanement à vue (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image266.png) **5.55** Trafic S (art. 65)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image267.png) **5.56** Hôpital avec service d’urgence (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image268.png) **5.57** Téléphone de secours (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image269.png) **5.58** Extincteur (art. 65)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image255.png) **5.01** Plaque de distance (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image256.png) **5.02** Plaque indiquant ladistance et la direction (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image257.png) **5.03** Longueur du tronçon (art. 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image258.png) **5.04** Plaque de rappel (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image259.png) **5.05** Plaque indiquant le début d’une prescription (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image260.png) **5.06** Plaque indiquant la fin d’une prescription (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image261.png) **5.07** Plaque de direction (art. 64)</td></tr>
+<tr><td colspan="2">**5.08** …</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image262.png) **5.09** Direction de la route principale (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image263.png) **5.10** Dérogation à l’interdiction de s’arrêter (art. 65)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image264.png) **5.11** Dérogation à l’inter- diction de parquer (art. 65) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image265.png) **5.12** Feux clignotants (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image266.png) **5.13** Chaussée verglacée (art. 65)</td><td colspan="2">**5.14** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image267.png) **5.15** Largeur de la chaussée (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image268.png) **5.16** Bruit de tirs (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image269.png) **5.17** Station-service suivante (art. 89)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image270.png) **5.18** Autorisation d’obliquer à droite pour les cyclistes (art. 69*a*)</td><td colspan="2"></td><td colspan="2"></td></tr>
 </table>
 
-### 6. Marques et dispositifs de balisage (art. 72 à 79 et art. 82)
+### b. Symboles
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image270.png) **6.01** Lignes de sécurité (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image271.png) **6.02** Double ligne de sécurité **6.03** Ligne de direction (art. 73)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image272.png) **6.04** Ligne double (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image273.png) **6.05** Ligne d’avertissement (art. 73)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image274.png) **6.06** Flèches de présélection (art. 74)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image275.png) **6.07** Flèches de rabattement (art. 74)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image276.png) **6.08** Voie réservée aux bus (art. 74*b*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image277.png) **6.09** Bande cyclable (art. 74*a*)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image278.png) **6.10** Ligne d’arrêt **6.11** Stop **6.12** Ligne longitudinale continue (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image279.png) **6.12** Ligne longitudinale continue **6.13** Ligne d’attente **6.14** Présignalisation de la ligne d’attente (art. 75)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image280.png) **6.15** Ligne de bordure **6.16** Ligne de guidage (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image281.png) [tab] **6.16.1** Ligne de guidage prolongeant une ligne d’attente (art. 76)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image282.png) [tab] **6.16.2** Ligne de guidage sur route principale changeant de direction (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image283.png) **6.16.3**[^annex2-lvlu1-lvl6-1] Ligne de guidage sur route principale changeant de direction (art. 76)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image284.png) **6.17** Passage pour piétons **6.18** Ligne interdisant l’arrêt (art. 77)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image285.png) **6.19** Bande longitudinale pour piétons (art. 77)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image286.png) **6.20** Surfaces interdites au trafic (art. 78)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image287.png) **6.21** Ligne en zigzag (art. 79)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image288.png) **6.22** Ligne interdisant le parcage (art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image289.png) **6.23** Case interdite au parcage (art. 79)</td></tr>
-<tr><td>**6.24** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image290.png) **6.25** Ligne interdisant l’arrêt (art. 79)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image291.png) **6.26** Sas pour cyclistes (exemples) (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image291.png)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image292.png) **6.30** Balise de droite (art. 82)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image293.png) **6.31** Balise de gauche (art. 82)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image271.png) **5.20** Voiture automobile légère (art. 49 et 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image272.png) **5.21** Voitures automobiles lourdes (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image273.png) **5.22** Camion (art. 49 et 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image274.png) **5.23** Camion avec remorque (art. 49 et 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image275.png) **5.24** Véhicule articulé (art. 49 et 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image276.png) **5.25** Autocar (art. 49 et 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image277.png) **5.26** Remorque (art. 49 et 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image278.png) **5.27** Caravane (art. 49 et 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image279.png) **5.28** Voiture automobile servant d’habitation (art. 49 et 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image280.png) **5.29** Motocycle (art. 49, 64 et 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image281.png) **5.30** Cyclomoteur (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image1.png) **5.31** Cycle (art. 49, 64 et 79)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image282.png) **5.31.1** Vélo-cargo (art. 64 et 79)</td><td>**5.32** Vélo tout-terrain (art. 49)</td><td>**5.33** Pousser le cycle (art. 64)</td></tr>
+<tr><td>**5.33.1** Engin assimilé à un véhicule (art. 49)</td><td>**5.34** Piéton (art. 49, 64 et 79)</td><td>**5.34.1** Randonnée (art. 49)</td></tr>
+<tr><td>**5.34.2** Randonnée de montagne (art. 49)</td><td>**5.34.3** Randonnée alpine (art. 49)</td><td>**5.34.4** Handicapés (art. 49, 64 et 79)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image299.png) **5.35** Tramway ou chemin de fer routier (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image300.png) **5.36** Tracteur (art. 49 et 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image301.png) **5.37** Char (art. 49 et 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image302.png) **5.38** Dameuse de pistes (art. 49 et 64)</td><td>**5.39** Ski de fond (art. 49)</td><td>**5.40** Skier (art. 49)</td></tr>
+<tr><td>**5.41** Luger (art. 49)</td><td>**5.41.1** Patinoire (art. 49)</td><td>**5.41.2** Curling (art. 49)</td></tr>
+<tr><td>**5.41.3** Randonnée en raquettes (art. 49)</td><td>**5.41.4** Terrain de football (art. 49)</td><td>**5.41.5** Terrain de tennis (art. 49)</td></tr>
+<tr><td>**5.41.6** Golf (art. 49)</td><td>**5.41.7** Équitation (art. 49)</td><td>**5.41.8** Piscine (art. 49)</td></tr>
+<tr><td>**5.41.9** Ski nautique (art. 49)</td><td>[tab] **5.41.10** Centre sportif (art. 49)</td><td>[tab] **5.41.11** Halles (art. 49)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image331.png) **5.42** Station de recharge (art. 49, 65 et 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image332.png) **5.43** Covoiturage (art. 49, 65 et 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image333.png) **5.44** Véhicules équipés d’un système d’automatisation (art. 49 et 64)</td></tr>
+<tr><td>**5.45** Gare (art. 49)</td><td>**5.46** Arrêt de bus (art. 49)</td><td>**5.47** Arrêt de tram (art. 49)</td></tr>
+<tr><td>**5.48** Embarcadère (art. 49)</td><td>**5.49** Chemin de fer à crémaillère ou funiculaire (art. 49)</td><td>**5.49.1** Téléphérique (art. 49)</td></tr>
+<tr><td>**5.49.2** Télécabine (art. 49)</td><td>**5.49.3** Télésiège (art. 49)</td><td>**5.49.4** Téléski (art. 49)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image352.png) **5.50** Avion/Aérodrome (art. 49)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image353.png) **5.51** Quai de chargement pour le transport sur rail (art. 49)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image354.png) **5.52** Quai de chargement pour le transport sur un bac (art. 49)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image355.png) **5.53** Zone industrielle et artisanale (art. 49)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image356.png) **5.54** Passage en douane et dédouanement à vue (art. 65)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image357.png) **5.55** Trafic S (art. 65)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image358.png) **5.56** Hôpital avec service d’urgence (art. 65)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image359.png) **5.57** Téléphone de secours (art. 65)</td><td>**5.58** Place de camping (art. 49 et 62)</td></tr>
+<tr><td>**5.59** Extincteur (art. 49 et 62)</td><td>**5.60** Premiers secours (art. 49 et 62)</td><td>**5.61** Station-service (art. 49 et 62)</td></tr>
+<tr><td>**5.62** Hôtel-motel (art. 49 et 62)</td><td>**5.63** Restaurant (art. 49 et 62)</td><td>**5.64** Rafraîchissements (art. 49 et 62)</td></tr>
+<tr><td>**5.65** Poste d’information (art. 49 et 62)</td><td>**5.66** Auberge de jeunesse (art. 49 et 62)</td><td>**5.67** Hôtel (art. 49 et 62)</td></tr>
+<tr><td>**5.68** Centre (art. 49)</td><td>**5.69** Monument (art. 49)</td><td>**5.70** Panorama (art. 49)</td></tr>
+<tr><td>**5.71** WC / WC adaptés aux personnes en fauteuil roulant (art. 49)</td><td>**5.72** Autoroute (art. 49 et 72)</td><td>**5.73** Signe distinctif de nationalité (exemple) (art. 49)</td></tr>
+</table>
+
+### 6. Marques (art. 72 à 79 et art. 90)
+
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image394.png) **6.01** Lignes de sécurité (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image395.png) **6.02** Double ligne de sécurité **6.03** Ligne de direction (art. 73)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image396.png) **6.04** Ligne double (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image397.png) **6.05** Ligne d’avertissement (art. 73)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image398.png) **6.06** Flèches de présélection (art. 74)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image399.png) **6.07** Flèches de rabattement (art. 74)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image400.png) **6.08** Voie réservée aux bus (art. 74*b*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image401.png) **6.09** Bande cyclable (art. 74*a*)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image402.png) **6.10** Ligne d’arrêt **6.11** Stop **6.12** Ligne longitudinale continue (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image403.png) **6.12** Ligne longitudinale continue **6.13** Ligne d’attente **6.14** Présignalisation de la ligne d’attente (art. 75)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image404.png) **6.15** Ligne de bordure **6.16** Ligne de guidage (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image405.png) [tab] **6.16.1** Ligne de guidage prolongeant une ligne d’attente (art. 76)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image406.png) [tab] **6.16.2** Ligne de guidage sur route principale changeant de direction (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image407.png) **6.16.3**[^annex2-lvlu1-lvl6-1] Ligne de guidage sur route principale changeant de direction (art. 76)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image408.png) [tab] **6.16.4** Ligne de rabattement (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image409.png) **6.17** Passage pour piétons **6.18** Ligne interdisant l’arrêt (art. 77)</td></tr>
+<tr><td>**6.19** Bande longitudinale pour piétons (art. 77)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image412.png) **6.20** Surfaces interdites au trafic (art. 78)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image413.png) **6.21** Ligne en zigzag (art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image414.png) **6.22** Ligne interdisant le parcage (art. 79)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image415.png) **6.23** Case interdite au parcage (art. 79)</td><td>**6.24** Double ligne transversale (art. 79)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image418.png) **6.25** Ligne interdisant l’arrêt (art. 79)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image419.png) **6.26** Sas pour cyclistes (exemples) (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image420.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image421.png) **6.30** Lignes de guidage tactilo-visuelles (exemple) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image422.png) **6.31** Lignes de sécurité tactilo-visuelles (exemple) (art. 72*a*)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image423.png) **6.32** Aires de bifurcation tactilo-visuelles (exemple) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image424.png) **6.33** Aires terminales tactilo-visuelles (exemple) (art. 72*a*)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image425.png) **6.34** Zones d’attention tactilo-visuelles (exemple) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image426.png) **6.35** Bandes tactilo-visuelles (exemple) (art. 72*a*)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image427.png) **6.36** Voie de détresse (art. 90)</td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-lvl6-1]: [RO 1980 449](https://fedlex.data.admin.ch/eli/oc/1980/449_449_447)
+
+### 7. Dispositifs de balisage temporaires et permanents (art. 80 et 82)
+
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image428.png) **7.01** Balise de guidage (exemples) (art. 80)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image429.png) **7.02** Cône de balisage (exemple) (art. 80)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image430.png) **7.03** Panneau d’avertissement mobile (exemple) (art. 80)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image431.png) **7.04** Palette à faces alternantes (art. 80)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image432.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image433.png) **7.05** Balise de droite (exemples) (art. 82)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image434.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image435.png) **7.06** Balise de gauche (exemples) (art. 82)</td></tr>
+<tr><td>**7.07** Flèche de guidage (exemples) (art. 82)</td><td>**7.08** Borne d’îlot (exemples) (art. 82)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image440.png) **7.09** Séparateur de trafic (art. 82)</td></tr>
+</table>
 
 Annexe 3[^t-3]
 
@@ -3019,7 +3604,7 @@ Recto: fond bleu; caractère graphique, flèche et encadrement du «P» de coule
 Verso: sur la surface restante à côté du texte mentionné ci-dessous, il est possible de fournir des données additionnelles, également à des fins publicitaires.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image294.png)</td><td colspan="7">Réglage du disque de stationnement sur toutes les aires de circulation indiquées par le signal «Parcage avec disque de stationnement» La flèche doit être placée sur le trait qui suit celui de l’heure d’arrivée effective. Durée de stationnement autorisée dans la zone bleue Les jours ouvrables – ainsi que les dimanches et jours fériés, pour autant que cela soit expressément indiqué – les véhicules ne peuvent être parqués que comme suit:</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image441.png)</td><td colspan="7">Réglage du disque de stationnement sur toutes les aires de circulation indiquées par le signal «Parcage avec disque de stationnement» La flèche doit être placée sur le trait qui suit celui de l’heure d’arrivée effective. Durée de stationnement autorisée dans la zone bleue Les jours ouvrables – ainsi que les dimanches et jours fériés, pour autant que cela soit expressément indiqué – les véhicules ne peuvent être parqués que comme suit:</td><td></td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>Heure d’arrivée effective A</td><td>Heure d’arrivée à indiquer</td><td>Heure de départ</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>08.00 – 08.29</td><td>08.30</td><td>09.30</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>08.30 – 08.59</td><td>09.00</td><td>10.00</td><td colspan="2"></td></tr>
@@ -3041,6 +3626,6 @@ Verso: sur la surface restante à côté du texte mentionné ci-dessous, il est 
 La carte de stationnement mesure 14,8 cm de large et 10,6 cm de haut. Le fond de la carte est bleu clair, le signe «Personne handicapée» est blanc sur fond bleu foncé. Pour les autres questions relatives à l’aspect de la carte, on se référera à l’illustration ci-dessous.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image295.png)</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20250701/fr/xml/image/image296.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image442.png)</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/fr/xml/image/image443.png)</td></tr>
 <tr><td>(Recto)</td><td></td><td>(Verso)</td></tr>
 </table>
