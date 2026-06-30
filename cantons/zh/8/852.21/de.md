@@ -4,11 +4,10 @@ number: "852.21"
 title: Kinder- und Jugendheimverordnung (KJV)
 short: KJV
 language: de
-version: "2026-01-01"
-nachtrag: "131"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2021-10-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_21-2021_10_06-2022_01_01-131.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_21-2021_10_06-2022_01_01-133.html"
 text: pdf
 ---
 
@@ -54,7 +53,7 @@ Leistungserbringende Anbietende von ergänzenden Hilfen ohne LV: zur Erziehung, 
 
 **1**
 
-- 1\. 1. 26 - 131 § 4. <sup>1</sup> Die Gesamtplanung gemäss § 6 KJG erfolgt in einem vierjährigen Prozess in den Phasen Grundlagenerarbeitung, Bedarfseinschätzung und Festlegung des Bedarfs.
+- 1\. 7. 26 - 133 § 4. <sup>1</sup> Die Gesamtplanung gemäss § 6 KJG erfolgt in einem vierjährigen Prozess in den Phasen Grundlagenerarbeitung, Bedarfseinschätzung und Festlegung des Bedarfs.
 
 **Gesamtplanung**
 
@@ -154,7 +153,7 @@ pädagogische Familienhilfe
 
 **3**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 ### B. Familienpflege
 
@@ -250,7 +249,7 @@ Die Anbietenden bestätigen dem Amt die Anstellung des gemäss § 18 erforderlic
 
 **5**
 
-- 1\. 1. 26 - 131 § 20. Drei Viertel des Personalbestands gemäss § 19 müssen ausgebildete Betreuungspersonen sein. Die Anbietenden bestätigen dem Amt, dass diese Anforderung erfüllt ist.
+- 1\. 7. 26 - 133 § 20. Drei Viertel des Personalbestands gemäss § 19 müssen ausgebildete Betreuungspersonen sein. Die Anbietenden bestätigen dem Amt, dass diese Anforderung erfüllt ist.
 
 #### § 21
 
@@ -342,7 +341,7 @@ Ausländische Ausbildungen müssen von der zuständigen eidgenössischen oder ka
 
 **7**
 
-- 1\. 1. 26 - 131 § 25. Mit dem Bewilligungsgesuch bestätigen die Anbietenden, dass sie für alle im Heimpflegeangebot tätigen Personen vor Tätigkeitsaufnahme und später mindestens alle vier Jahre die folgenden Auszüge aus dem Strafregister überprüfen:
+- 1\. 7. 26 - 133 § 25. Mit dem Bewilligungsgesuch bestätigen die Anbietenden, dass sie für alle im Heimpflegeangebot tätigen Personen vor Tätigkeitsaufnahme und später mindestens alle vier Jahre die folgenden Auszüge aus dem Strafregister überprüfen:
 
 **Persönliche Eignung**
 
@@ -428,7 +427,7 @@ Die Gebühren betragen:
 
 **9**
 
-- 1\. 1. 26 - 131 § 32. Als beitragsberechtigt gelten Leistungserbringende mit LV. Das Amt schliesst mit Anbietenden ergänzender Hilfen zur Erziehung eine LV ab aufgrund
+- 1\. 7. 26 - 133 § 32. Als beitragsberechtigt gelten Leistungserbringende mit LV. Das Amt schliesst mit Anbietenden ergänzender Hilfen zur Erziehung eine LV ab aufgrund
 
 **Beitragsberechtigung und LV**
 
@@ -506,7 +505,7 @@ Die Tarife gemäss §§ 33 Abs. 1 lit. a–c und 35 Abs. 1 beruhen auf dem Lande
 
 **11**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 ### C. Anrechnung von Kosten und Erlösen im Bereich der Heimpflege
 
@@ -593,11 +592,11 @@ Zu den Kosten gemäss § 17 KJG gehören a. die den Anbietenden von ergänzenden
 
 **13**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Gemeinde leistet im Rechnungsjahr Akontozahlungen im Umfang von je 50% dieses Anteils bis 31. März und bis 30. September.
 
-<sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindeanteile ist der Einwohnerbestand massgebend, den das Statistische Amt per 31. Dezember des Vorjahres erhoben hat.
+<sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindeanteile ist der Einwohnerbestand massgebend, den das Amt für Statistik und Daten per 31. Dezember des Vorjahres erhoben hat.<sup>13</sup>
 
 ### F. Beiträge der Unterhaltspflichtigen
 
@@ -677,7 +676,7 @@ Zu den Kosten gemäss § 17 KJG gehören a. die den Anbietenden von ergänzenden
 
 **15**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Für Projektänderungen während der Ausführung ist ein Gesuch vor Beginn der entsprechenden Arbeiten zu stellen. Mit diesen darf erst nach Vorliegen der Genehmigung begonnen werden.
 
@@ -763,7 +762,7 @@ Werden Bauten und Anschaffungen nicht ausschliesslich von Leistungsbeziehenden g
 
 **17**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 <sup>2</sup> In Abweichung von der Frist gemäss Abs. 1 kann ein Antrag um Kostenübernahme eingereicht werden a. beim Bezug von Familien- und Heimpflege bei besonderer Dringlichkeit bis 20 Tage nach Beginn des Leistungsbezugs,
 
@@ -843,7 +842,7 @@ Das Amt stellt den Entscheid über die Kostenübernahme zu:
 
 **19**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 - c. den minderjährigen Leistungsbeziehenden ab vollendetem 14. Altersjahr,
 
@@ -859,7 +858,7 @@ Das Amt stellt den Entscheid über die Kostenübernahme zu:
 
 <sup>2</sup> Sie wahren Stillschweigen über Feststellungen, die sie in Ausübung ihrer Tätigkeit machen.
 
-[^h4AbschnittDatens-1]: Aufgehoben durch RRB vom 26. Juni 2024 (OS 79, 377; ABl 2024-07-12). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 21
+[^h4AbschnittDatens-1]: Aufgehoben durch RRB vom 26. Juni 2024 (OS 79, 377; ABl 2024-07-12). In Kraft seit 1. Januar 2026.
 [^h4AbschnittDatens-2]: Fassung gemäss RRB vom 26. Juni 2024 (OS 79, 377; ABl 2024-07-12). In Kraft seit 1. Januar 2026.
 
 #### § 68
@@ -966,7 +965,7 @@ Ziffer Raumbezeichnung
 
 **23**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 - 4\. Allgemeine Räume
 
@@ -1012,7 +1011,7 @@ Ziffer Raumbezeichnung
 
 **25**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 ### Anhang 2
 
@@ -1092,7 +1091,7 @@ Aufwand anrechenbar.
 
 **27**
 
-- 1\. 1. 26 - 131
+- 1\. 7. 26 - 133
 
 ## Weitere Fussnoten
 
@@ -1106,3 +1105,4 @@ Aufwand anrechenbar.
 - [8] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 11. Oktober 2022 (OS 77, 554; ABl 2022-10-14). In Kraft seit 1. Januar 2023.
 - [9] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 16. Oktober 2023 (OS 78, 509; ABl 2023-10-20). In Kraft seit 1. Januar 2024.
 - [10] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 22. Oktober 2024 (OS 79, 473; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
+- [13] Fassung gemäss RRB vom 25. März 2026 (OS 81, 311; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 21
