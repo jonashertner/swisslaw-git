@@ -4,11 +4,12 @@ number: "425.040"
 title: Ordinanza sulla Commissione di vigilanza per le scuole medie superiori
 language: it
 version: 2026-07-01
+corrected: 2026-07-03
 version_adopted: 2026-06-23
 adopted: 2005-03-01
 in_force: 2005-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.040"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3650/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3641/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -31,7 +32,7 @@ visti l'art. 2 cpv. 1 n. 1 e l'art. 19 della legge concernente le scuole medie d
 
 <sup>2</sup> Per dibattere affari la Commissione può far capo a direttori delle scuole medie superiori o ad altri specialisti.
 
-<sup>3</sup> Per il resto trovano applicazione le disposizioni dell'ordinanza per i collaboratori a titolo accessorio del Cantone dei Grigioni.
+<sup>3</sup> Per il resto trovano applicazione le disposizioni dell'ordinanza per i dipendenti in servizio parziale del Cantone dei Grigioni.
 
 #### Art. 2
 

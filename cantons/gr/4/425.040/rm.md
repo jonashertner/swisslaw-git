@@ -4,11 +4,12 @@ number: "425.040"
 title: Ordinaziun davart la cumissiun da surveglianza dals fatgs da scola media
 language: rm
 version: 2026-07-01
+corrected: 2026-07-03
 version_adopted: 2026-06-23
 adopted: 2005-03-01
 in_force: 2005-03-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.040"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3650/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3641/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
