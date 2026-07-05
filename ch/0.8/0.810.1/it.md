@@ -3,11 +3,11 @@ sr: "0.810.1"
 title: "Costituzione dell'Organizzazione mondiale della sanità del 22 luglio 1946"
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976"
 language: it
-version: 2020-07-06
+version: 2026-07-06
 adopted: 1946-07-22
 in_force: 1948-04-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1015_1002_976/20200706/it/xml/fedlex-data-admin-ch-eli-cc-1948-1015_1002_976-20200706-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/1015_1002_976/20200706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1015_1002_976/20260706/it/xml/fedlex-data-admin-ch-eli-cc-1948-1015_1002_976-20260706-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/1015_1002_976/20260706/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Firmata a Nuova York il 22 luglio 1946 Approvata dall’Assemblea federale il 19 dicembre 1946[^t-1] Strumenti di ratificazione depositati dalla Svizzera il 29 marzo 1947 Entrata in vigore il 7 aprile 1948
 
-(Stato 6 luglio 2020)
+(Stato 6 luglio 2026)
 
 [^t-1]: Art. 1 del DF del 19 dic. 1946 ([RU 1948 975](https://fedlex.data.admin.ch/eli/oc/1948/1013_1001_975)).
 
@@ -50,7 +50,7 @@ I governi sono responsabili della sanità dei loro popoli; essi possono fare fro
 
 accettano la presente costituzione ed istituiscono con ciò l’Organizzazione mondiale della sanità, come organizzazione speciale delle Nazioni Unite.
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Capo I Del Fine
 
@@ -491,7 +491,7 @@ I testi inglese, cinese, spagnuolo, francese e russo della presente costituzione
 
 Qualsiasi questione o controversia concernente l’interpretazione o l’applicazione della presente costituzione, non regolata mediante trattative o dall’Assemblea della sanità, dev’essere sottoposta dalle Parti alla Corte Internazionale di Giustizia, conformemente allo statuto di detta Corte[^75-1], a meno che le Parti non s’accordino circa un’altra soluzione.
 
-[^75-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^75-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 76
 
@@ -533,7 +533,7 @@ Il Segretario generale delle Nazioni Unite informerà gli Stati partecipanti all
 
 *In fede di che* i Rappresentanti sottoscritti, a ciò debitamente autorizzati, hanno firmato la presente costituzione. Fatto nella città di Nuova York, il ventidue luglio 1946, in un unico esemplare steso in inglese, cinese, spagnuolo, francese e russo; ogni testo è considerato come egualmente autentico. I testi originali saranno depositati negli archivi delle Nazioni Unite. Il Segretario generale delle Nazioni Unite consegnerà copie certificate conformi ad ogni governo rappresentato alla Conferenza. (Seguono le firme)
 
-Campo d’applicazione il 6 luglio 2020[^t-2]
+Campo d’applicazione il 6 luglio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -732,4 +732,4 @@ Campo d’applicazione il 6 luglio 2020[^t-2]
 <tr><td>Zimbabwe</td><td>16 maggio</td><td>1980</td><td>16 maggio</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RU 1970 1079](https://fedlex.data.admin.ch/eli/oc/1970/1083_1079_1079), [1972 2456](https://fedlex.data.admin.ch/eli/oc/1972/2622_2677_2456), [1975 1499](https://fedlex.data.admin.ch/eli/oc/1975/1499_1499_1499), **1977** 622, [1981 88](https://fedlex.data.admin.ch/eli/oc/1981/88_88_88), [1983 1340](https://fedlex.data.admin.ch/eli/oc/1983/1340_1340_1340), [1984 613](https://fedlex.data.admin.ch/eli/oc/1984/613_613_613), [1985 1646](https://fedlex.data.admin.ch/eli/oc/1985/1646_1646_1646), **1996** 733, [2006 829](https://fedlex.data.admin.ch/eli/oc/2006/136), [2009 3719](https://fedlex.data.admin.ch/eli/oc/2009/470), [2014 1197](https://fedlex.data.admin.ch/eli/oc/2014/252), [2020 3489](https://fedlex.data.admin.ch/eli/oc/2020/608). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1970 1079](https://fedlex.data.admin.ch/eli/oc/1970/1083_1079_1079); [1972 2456](https://fedlex.data.admin.ch/eli/oc/1972/2622_2677_2456); [1975 1499](https://fedlex.data.admin.ch/eli/oc/1975/1499_1499_1499); [1977 621](https://fedlex.data.admin.ch/eli/oc/1977/621_621_621); [1981 88](https://fedlex.data.admin.ch/eli/oc/1981/88_88_88); [1983 1340](https://fedlex.data.admin.ch/eli/oc/1983/1340_1340_1340); [1984 613](https://fedlex.data.admin.ch/eli/oc/1984/613_613_613); [1985 1646](https://fedlex.data.admin.ch/eli/oc/1985/1646_1646_1646); [1996 732](https://fedlex.data.admin.ch/eli/oc/1996/732_732_732); [2006 829](https://fedlex.data.admin.ch/eli/oc/2006/136); [2009 3719](https://fedlex.data.admin.ch/eli/oc/2009/470); [2014 1197](https://fedlex.data.admin.ch/eli/oc/2014/252); [2020 3489](https://fedlex.data.admin.ch/eli/oc/2020/608); [2026 376](https://fedlex.data.admin.ch/eli/oc/2026/376). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty).

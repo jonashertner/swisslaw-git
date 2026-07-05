@@ -3,11 +3,11 @@ sr: "0.810.1"
 title: Verfassung der Weltgesundheitsorganisation vom 22. Juli 1946
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976"
 language: de
-version: 2020-07-06
+version: 2026-07-06
 adopted: 1946-07-22
 in_force: 1948-04-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1015_1002_976/20200706/de/xml/fedlex-data-admin-ch-eli-cc-1948-1015_1002_976-20200706-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/1015_1002_976/20200706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1015_1002_976/20260706/de/xml/fedlex-data-admin-ch-eli-cc-1948-1015_1002_976-20260706-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/1015_1002_976/20260706/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1948** 1015; BBl **1946** III 703
 
 Unterzeichnet in New York am 22. Juli 1946 Ratifikationsurkunde von der Schweiz hinterlegt am 29. März 1947 Von der Bundesversammlung genehmigt am 19. Dezember 1946[^t-1] Für die Schweiz in Kraft getreten am 7. April 1948
 
-(Stand am 6. Juli 2020)
+(Stand am 6. Juli 2026)
 
 [^t-1]: Art. 1 erster Gegenstand des BB vom 19. Dez. 1946 ([AS 1948 1013](https://fedlex.data.admin.ch/eli/oc/1948/1013_1001_975))
 
@@ -46,7 +46,7 @@ Die Regierungen tragen die Verantwortung für die Gesundheit ihrer Völker; sie 
 
 In Anerkennung dieser Grundsätze und in der Absicht, untereinander und mit andern für den Schutz und die Verbesserung der Gesundheit aller Völker zusammenzuarbeiten, nehmen die Hohen Vertragschliessenden Parteien die vorliegende Verfassung an und errichten hiermit die Weltgesundheitsorganisation als eine Spezialorganisation der Vereinten Nationen.
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Kapitel I Zweck
 
@@ -479,7 +479,7 @@ Der chinesische, englische, französische, spanische und russische Wortlaut dies
 
 Jede Frage oder jeder Streitfall betreffend die Auslegung oder die Anwendung dieser Verfassung, der nicht auf dem Verhandlungsweg oder durch die Gesundheitskonferenz geregelt werden kann, ist von den Parteien dem Internationalen Gerichtshof gemäss dem Statut dieses Gerichtshofes[^75-1] zu unterbreiten, es sei denn, dass die beteiligten Parteien sich auf eine andere Regelung einigen.
 
-[^75-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^75-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 76
 
@@ -519,7 +519,7 @@ Der Generalsekretär der Vereinten Nationen wird die an dieser Verfassung beteil
 
 *Zu Urkund dessen* unterzeichnen die dazu ordnungsgemäss bevollmächtigten Vertreter die vorliegende Verfassung. Gegeben in der Stadt New York am zweiundzwanzigsten Juli 1946 in einer einzigen Urkunde, in chinesischer, englischer, französischer, russischer und spanischer Sprache; jeder Text ist in gleicher Weise massgebend. Die Urtexte sollen in den Archiven der Vereinten Nationen hinterlegt werden. Der Generalsekretär der Vereinten Nationen wird jeder an der Konferenz vertretenen Regierung beglaubigte Abschriften zustellen. (Es folgen die Unterschriften)
 
-Geltungsbereich am 6. Juli 2020[^t-2]
+Geltungsbereich am 6. Juli 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -718,4 +718,4 @@ Geltungsbereich am 6. Juli 2020[^t-2]
 <tr><td>Zypern</td><td>16. Januar</td><td>1961</td><td>16. Januar</td><td>1961</td></tr>
 </table>
 
-[^t-2]: [AS 1970 1083](https://fedlex.data.admin.ch/eli/oc/1970/1083_1079_1079), [1972 2622](https://fedlex.data.admin.ch/eli/oc/1972/2622_2677_2456), [1975 1499](https://fedlex.data.admin.ch/eli/oc/1975/1499_1499_1499), **1977** 622, [1981 88](https://fedlex.data.admin.ch/eli/oc/1981/88_88_88), [1983 1340](https://fedlex.data.admin.ch/eli/oc/1983/1340_1340_1340), [1984 613](https://fedlex.data.admin.ch/eli/oc/1984/613_613_613), [1985 1646](https://fedlex.data.admin.ch/eli/oc/1985/1646_1646_1646), **1996** 733, [2006 829](https://fedlex.data.admin.ch/eli/oc/2006/136), [2009 3719](https://fedlex.data.admin.ch/eli/oc/2009/470), [2014 1197](https://fedlex.data.admin.ch/eli/oc/2014/252), [2020 3489](https://fedlex.data.admin.ch/eli/oc/2020/608). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1970 1083](https://fedlex.data.admin.ch/eli/oc/1970/1083_1079_1079); [1972 2622](https://fedlex.data.admin.ch/eli/oc/1972/2622_2677_2456); [1975 1499](https://fedlex.data.admin.ch/eli/oc/1975/1499_1499_1499); [1977 621](https://fedlex.data.admin.ch/eli/oc/1977/621_621_621); [1981 88](https://fedlex.data.admin.ch/eli/oc/1981/88_88_88); [1983 1340](https://fedlex.data.admin.ch/eli/oc/1983/1340_1340_1340); [1984 613](https://fedlex.data.admin.ch/eli/oc/1984/613_613_613); [1985 1646](https://fedlex.data.admin.ch/eli/oc/1985/1646_1646_1646); [1996 732](https://fedlex.data.admin.ch/eli/oc/1996/732_732_732); [2006 829](https://fedlex.data.admin.ch/eli/oc/2006/136); [2009 3719](https://fedlex.data.admin.ch/eli/oc/2009/470); [2014 1197](https://fedlex.data.admin.ch/eli/oc/2014/252); [2020 3489](https://fedlex.data.admin.ch/eli/oc/2020/608); [2026 376](https://fedlex.data.admin.ch/eli/oc/2026/376). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

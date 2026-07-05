@@ -3,11 +3,11 @@ sr: "0.810.1"
 title: "Constitution de l'Organisation mondiale de la santé du 22 juillet 1946"
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976"
 language: fr
-version: 2020-07-06
+version: 2026-07-06
 adopted: 1946-07-22
 in_force: 1948-04-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1015_1002_976/20200706/fr/xml/fedlex-data-admin-ch-eli-cc-1948-1015_1002_976-20200706-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/1015_1002_976/20200706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/1015_1002_976/20260706/fr/xml/fedlex-data-admin-ch-eli-cc-1948-1015_1002_976-20260706-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/1015_1002_976/20260706/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Signée à New York le 22 juillet 1946 Approuvée par l’Assemblée fédérale le 19 décembre 1946[^t-1] Instrument de ratification déposé par la Suisse le 29 mars 1947 Entrée en vigueur pour la Suisse le 7 avril 1948
 
-(État le 6 juillet 2020)
+(État le 6 juillet 2026)
 
 [^t-1]: Art. 1<sup>er</sup> de l’AF du 19 déc. 1946 ([RO 1948 1001](https://fedlex.data.admin.ch/eli/oc/1948/1013_1001_975))
 
@@ -46,8 +46,8 @@ Les gouvernements ont la responsabilité de la santé de leurs peuples; ils ne p
 
 *Acceptant ces principes,* dans le but de coopérer entre elles et avec tous autres pour améliorer et protéger la santé de tous les peuples, les Parties contractantes acquiescent à ladite Constitution et établissent par les présentes l’Organisation mondiale de la santé comme une institution spécialisée aux termes de l’art. 57 de la Charte des Nations Unies[^ingress-2].
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Chapitre I But
 
@@ -486,7 +486,7 @@ Les textes anglais, chinois, espagnol, français et russe de cette constitution 
 
 Tout question ou différend concernant l’interprétation ou l’application de cette Constitution, qui n’aura pas été réglé par voie de négociation ou par l’Assemblée de la santé, sera déféré par les parties à la Cour Internationale de Justice conformément au statut de ladite Cour[^75-1], à moins que les parties intéressées ne conviennent d’un autre mode de règlement.
 
-[^75-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^75-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 76
 
@@ -526,7 +526,7 @@ Le Secrétaire général des Nations Unies informera les États parties à cette
 
 *En foi de quoi,* les Représentants soussignés, dûment autorisés à cet effet, signent la présente Constitution. Fait en la Ville de New‑York, ce vingt‑deux juillet 1946, en un seul original établi en langues anglaise, chinoise, espagnole, française et russe, chaque texte étant également authentique. Les textes originaux seront déposés dans les archives des Nations Unies. Le Secrétaire général des Nations Unies délivrera des copies certifiées conformes à chacun des gouvernements représentés à la Conférence. (Suivent les signatures)
 
-Champ d’application le 6 juillet 2020[^t-2]
+Champ d’application le 6 juillet 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -575,7 +575,7 @@ Champ d’application le 6 juillet 2020[^t-2]
 <tr><td>Corée (Nord)</td><td>19 mai</td><td>1973</td><td>19 mai</td><td>1973</td></tr>
 <tr><td>Corée (Sud)</td><td>17 août</td><td>1949</td><td>17 août</td><td>1949</td></tr>
 <tr><td>Costa Rica</td><td>17 mars</td><td>1949</td><td>17 mars</td><td>1949</td></tr>
-<tr><td>Côte d'Ivoire</td><td>28 octobre</td><td>1960</td><td>28 octobre</td><td>1960</td></tr>
+<tr><td>Côte d’Ivoire</td><td>28 octobre</td><td>1960</td><td>28 octobre</td><td>1960</td></tr>
 <tr><td>Croatie</td><td>11 juin</td><td>1992</td><td>11 juin</td><td>1992</td></tr>
 <tr><td>Cuba</td><td>9 mai</td><td>1950</td><td>9 mai</td><td>1950</td></tr>
 <tr><td>Danemark</td><td>19 avril</td><td>1948</td><td>19 avril</td><td>1948</td></tr>
@@ -725,4 +725,4 @@ Champ d’application le 6 juillet 2020[^t-2]
 <tr><td>Zimbabwe</td><td>16 mai</td><td>1980</td><td>16 mai</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RO 1970 1079](https://fedlex.data.admin.ch/eli/oc/1970/1083_1079_1079), [1972 2677](https://fedlex.data.admin.ch/eli/oc/1972/2622_2677_2456), [1975 1499](https://fedlex.data.admin.ch/eli/oc/1975/1499_1499_1499), **1977** 622, [1981 88](https://fedlex.data.admin.ch/eli/oc/1981/88_88_88), [1983 1340](https://fedlex.data.admin.ch/eli/oc/1983/1340_1340_1340), [1984 613](https://fedlex.data.admin.ch/eli/oc/1984/613_613_613), [1985 1646](https://fedlex.data.admin.ch/eli/oc/1985/1646_1646_1646), **1996** 733, [2006 829](https://fedlex.data.admin.ch/eli/oc/2006/136), [2009 3719](https://fedlex.data.admin.ch/eli/oc/2009/470), [2014 1197](https://fedlex.data.admin.ch/eli/oc/2014/252), [2020 3489](https://fedlex.data.admin.ch/eli/oc/2020/608). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1970 1079](https://fedlex.data.admin.ch/eli/oc/1970/1083_1079_1079), [1972 2677](https://fedlex.data.admin.ch/eli/oc/1972/2622_2677_2456), [1975 1499](https://fedlex.data.admin.ch/eli/oc/1975/1499_1499_1499), **1977** 622, [1981 88](https://fedlex.data.admin.ch/eli/oc/1981/88_88_88), [1983 1340](https://fedlex.data.admin.ch/eli/oc/1983/1340_1340_1340), [1984 613](https://fedlex.data.admin.ch/eli/oc/1984/613_613_613), [1985 1646](https://fedlex.data.admin.ch/eli/oc/1985/1646_1646_1646), **1996** 733, [2006 829](https://fedlex.data.admin.ch/eli/oc/2006/136), [2009 3719](https://fedlex.data.admin.ch/eli/oc/2009/470), [2014 1197](https://fedlex.data.admin.ch/eli/oc/2014/252), [2020 3489](https://fedlex.data.admin.ch/eli/oc/2020/608), [2026 376](https://fedlex.data.admin.ch/eli/oc/2026/376). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
