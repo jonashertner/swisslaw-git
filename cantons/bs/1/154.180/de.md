@@ -3,22 +3,21 @@ canton: BS
 number: "154.180"
 title: Organisationsreglement des Strafgerichts
 language: de
-version: 2025-01-16
-valid_until: 2026-07-05
-version_adopted: 2024-11-08
+version: 2026-07-06
+version_adopted: 2026-02-13
 adopted: 2016-12-16
 in_force: 2017-06-05
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.180"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6514/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6977/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Organisationsreglement des Strafgerichts
 
-Strafgericht: Organisationsreglement | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
+Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
 
-Vom 16. Dezember 2016 (Stand 16. Januar 2025)
+Vom 16. Dezember 2016 (Stand 6. Juli 2026)
 
 Das Gesamtgericht des Strafgerichts Basel-Stadt,
 
@@ -135,17 +134,17 @@ beschliesst:
 
 #### § 11
 
-<sup>1</sup> Die Geschäfte des Strafgerichts gliedern sich in neun Abteilungen:
+<sup>1</sup> Die Geschäfte des Strafgerichts gliedern sich in zehn Abteilungen:
 
-- a) Abteilungen Strafgericht A - E
-- b) Abteilungen Zwangsmassnahmengericht F und G
-- c) Abteilungen Einsprachen H und J
+- a) Abteilungen Strafgericht A – F
+- b) Abteilungen Zwangsmassnahmengericht G und H
+- c) Abteilungen Einsprachen I und J
 
 <sup>2</sup> Die Abteilungen werden von den Präsidien im jährlichen Turnus geführt. Die Präsidienkonferenz kann Abweichungen vom jährlichen Turnus beschliessen.
 
-<sup>3</sup> Die Fallzuteilung in den Abteilungen Strafgericht A - E wird jeweils vom Präsidium der Abteilung Strafgericht A vorgenommen. Die Fallzuteilung in den Abteilungen Einsprachen H und J wird vom Präsidium der Abteilung Einsprachen H vorgenommen. Die Fallzuteilung bei den Abteilungen Zwangsmassnahmengericht F und G wird vom Präsidium der Abteilung Zwangsmassnahmengericht F vorgenommen.
+<sup>3</sup> Die Fallzuteilung in den Abteilungen Strafgericht A – F wird jeweils vom Präsidium der Abteilung Strafgericht A vorgenommen. Die Fallzuteilung in den Abteilungen Einsprachen I und J wird vom Präsidium der Abteilung Einsprachen I vorgenommen. Die Fallzuteilung bei den Abteilungen Zwangsmassnahmengericht G und H wird vom Präsidium der Abteilung Zwangsmassnahmengericht G vorgenommen.
 
-<sup>4</sup> Den Abteilungen des Zwangsmassnahmengerichts können Fälle der Abteilungen Strafgericht A - E und der Abteilungen Einsprachen H und I zugewiesen werden. Den Abteilungen Einsprachen H und I können Fälle der Abteilungen A - E zugewiesen werden.
+<sup>4</sup> Den Abteilungen des Zwangsmassnahmengerichts können Fälle der Abteilungen Strafgericht A – F und der Abteilungen Einsprachen I und J zugewiesen werden. Den Abteilungen Einsprachen I und J können Fälle der Abteilungen A – F zugewiesen werden.
 
 #### § 12
 
