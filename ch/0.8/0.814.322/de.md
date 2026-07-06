@@ -3,11 +3,11 @@ sr: "0.814.322"
 title: Protokoll vom 28. September 1984 zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend die langfristige Finanzierung des Programms über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von luftverunreinigenden Stoffen in Europa (EMEP) (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/867_867_867"
 language: de
-version: 2019-02-19
+version: 2026-07-07
 adopted: 1984-09-28
 in_force: 1988-01-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/867_867_867/20190219/de/xml/fedlex-data-admin-ch-eli-cc-1988-867_867_867-20190219-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/867_867_867/20190219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/867_867_867/20260707/de/xml/fedlex-data-admin-ch-eli-cc-1988-867_867_867-20260707-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/867_867_867/20260707/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 867
 
 Abgeschlossen in Genf am 28. September 1984 Schweizerische Ratifikationsurkunde hinterlegt am 26. Juli 1985 In Kraft getreten für die Schweiz am 28. Januar 1988
 
-(Stand am 19. Februar 2019)
+(Stand am 7. Juli 2026)
 
 Die Vertragsparteien
 
@@ -42,7 +42,7 @@ im Hinblick auf die bei der Ausarbeitung einer förmlichen Übereinkunft zur Erg
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-1]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 #### Art. 1
 
@@ -212,7 +212,7 @@ Die Pflichtbeiträge im Rahmen der Aufteilung der Ausgaben zur Finanzierung des 
 
 Die Reihenfolge, in der die Vertragsparteien in diesem Anhang aufgeführt werden, wird eigens für das vom Exekutivorgan für das Übereinkommen vereinbarte System der Aufteilung der Ausgaben aufgestellt. Diese Aufzählung ist somit ein spezifischer Bestandteil des Protokolls über die Finanzierung des EMEP.
 
-Geltungsbereich am 19. Februar 2019**[^t-1]**
+Geltungsbereich am 7. Juli 2026[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -239,17 +239,16 @@ Geltungsbereich am 19. Februar 2019**[^t-1]**
 <tr><td>Litauen</td><td>7. November</td><td>2003 B</td><td>5. Februar</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td>24. August</td><td>1987</td><td>28. Januar</td><td>1988</td></tr>
 <tr><td>Malta</td><td>14. März</td><td>1997 B</td><td>12. Juni</td><td>1997</td></tr>
-<tr><td>Mazedonien</td><td>10. März</td><td>2010 B</td><td>8. Juni</td><td>2010</td></tr>
 <tr><td>Moldau</td><td>26. Juli</td><td>2016 B</td><td>24. Oktober</td><td>2016</td></tr>
 <tr><td>Monaco</td><td>27. August</td><td>1999 B</td><td>25. November</td><td>1999</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande <sup>a</sup></td><td>22. Oktober</td><td>1985</td><td>28. Januar</td><td>1988</td></tr>
+<tr><td>Nordmazedonien</td><td>10. März</td><td>2010 B</td><td>8. Juni</td><td>2010</td></tr>
 <tr><td>Norwegen</td><td>12. März</td><td>1985</td><td>28. Januar</td><td>1988</td></tr>
 <tr><td>Österreich</td><td>4. Juni</td><td>1987 B</td><td>28. Januar</td><td>1988</td></tr>
 <tr><td>Polen</td><td>14. September</td><td>1988 B</td><td>13. Dezember</td><td>1988</td></tr>
 <tr><td>Portugal</td><td>19. Januar</td><td>1989 B</td><td>19. April</td><td>1989</td></tr>
 <tr><td>Rumänien</td><td>28. April</td><td>2003 B</td><td>27. Juli</td><td>2003</td></tr>
-<tr><td>Russland</td><td>21. August</td><td>1985</td><td>28. Januar</td><td>1988</td></tr>
 <tr><td>Schweden</td><td>12. August</td><td>1985</td><td>28. Januar</td><td>1988</td></tr>
 <tr><td>Schweiz</td><td>26. Juli</td><td>1985</td><td>28. Januar</td><td>1988</td></tr>
 <tr><td>Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
@@ -266,4 +265,4 @@ Geltungsbereich am 19. Februar 2019**[^t-1]**
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-1]: [AS 1988 867](https://fedlex.data.admin.ch/eli/oc/1988/867_867_867), [1989 1117](https://fedlex.data.admin.ch/eli/oc/1989/1117_1117_1117), [2004 119](https://fedlex.data.admin.ch/eli/oc/2004/10), [2006 851](https://fedlex.data.admin.ch/eli/oc/2006/147), [2010 247](https://fedlex.data.admin.ch/eli/oc/2010/31), [2013 761](https://fedlex.data.admin.ch/eli/oc/2013/151), [2016 2625](https://fedlex.data.admin.ch/eli/oc/2016/415), [2019 757](https://fedlex.data.admin.ch/eli/oc/2019/132). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1988 867](https://fedlex.data.admin.ch/eli/oc/1988/867_867_867); [1989 1117](https://fedlex.data.admin.ch/eli/oc/1989/1117_1117_1117); [2004 119](https://fedlex.data.admin.ch/eli/oc/2004/10); [2006 851](https://fedlex.data.admin.ch/eli/oc/2006/147); [2010 247](https://fedlex.data.admin.ch/eli/oc/2010/31); [2013 761](https://fedlex.data.admin.ch/eli/oc/2013/151); [2016 2625](https://fedlex.data.admin.ch/eli/oc/2016/415); [2019 757](https://fedlex.data.admin.ch/eli/oc/2019/132); [2026 385](https://fedlex.data.admin.ch/eli/oc/2026/385). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

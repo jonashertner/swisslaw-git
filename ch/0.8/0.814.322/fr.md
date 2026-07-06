@@ -3,11 +3,11 @@ sr: "0.814.322"
 title: "Protocole du 28 septembre 1984 à la convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif au financement à long terme du programme concerté de surveillance continue et d'évaluation du transport à longue distance des polluants atmosphériques en Europe (EMEP) (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/867_867_867"
 language: fr
-version: 2019-02-19
+version: 2026-07-07
 adopted: 1984-09-28
 in_force: 1988-01-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/867_867_867/20190219/fr/xml/fedlex-data-admin-ch-eli-cc-1988-867_867_867-20190219-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/867_867_867/20190219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/867_867_867/20260707/fr/xml/fedlex-data-admin-ch-eli-cc-1988-867_867_867-20260707-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/867_867_867/20260707/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 26 juillet 1985
 
 Entré en vigueur pour la Suisse le 28 janvier 1988
 
-(Etat le 19 février 2019)
+(État le 7 juillet 2026)
 
 *Les Parties contractantes,*
 
@@ -46,7 +46,7 @@ tenant compte des éléments à prendre en considération pour l’élaboration 
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 #### Art. 1
 
@@ -126,9 +126,9 @@ Si un différend vient à surgir entre deux ou plusieurs Parties contractantes a
 
 **Signature**
 
-<sup>1.</sup> Le présent Protocole sera ouvert à la signature des Etats membres de la Commission économique pour l’Europe, des Etats dotés du statut consultatif auprès de la Commission économique pour l’Europe en vertu du par. 8 de la résolution 36 (IV) adoptée par le Conseil économique et social le 28 mars 1947 et des organisations d’intégration économique régionale constituées par des Etats souverains membres de la Commission économique pour l’Europe et ayant compétence pour négocier, conclure et appliquer des accords internationaux dans les matières couvertes par le présent Protocole, à condition que les Etats et organisations concernés soient Parties à la Convention, à l’Office des Nations Unies à Genève, du 28 septembre au 5 octobre 1984 inclus, puis au Siège de l’Organisation des Nations Unies à New York jusqu’au 4 avril 1985.
+<sup>1.</sup> Le présent Protocole sera ouvert à la signature des États membres de la Commission économique pour l’Europe, des États dotés du statut consultatif auprès de la Commission économique pour l’Europe en vertu du par. 8 de la résolution 36 (IV) adoptée par le Conseil économique et social le 28 mars 1947 et des organisations d’intégration économique régionale constituées par des États souverains membres de la Commission économique pour l’Europe et ayant compétence pour négocier, conclure et appliquer des accords internationaux dans les matières couvertes par le présent Protocole, à condition que les États et organisations concernés soient Parties à la Convention, à l’Office des Nations Unies à Genève, du 28 septembre au 5 octobre 1984 inclus, puis au Siège de l’Organisation des Nations Unies à New York jusqu’au 4 avril 1985.
 
-<sup>2.</sup> S’agissant de questions qui relèvent de leur compétence, les organisations d’intégration économique régionale mentionnées ci‑dessus peuvent, en leur nom propre, exercer les droits et s’acquitter des responsabilités que le présent Protocole confère à leurs Etats membres. En pareil cas, les Etats membres de ces organisations ne sont pas habilités à exercer ces droits individuellement.
+<sup>2.</sup> S’agissant de questions qui relèvent de leur compétence, les organisations d’intégration économique régionale mentionnées ci‑dessus peuvent, en leur nom propre, exercer les droits et s’acquitter des responsabilités que le présent Protocole confère à leurs États membres. En pareil cas, les États membres de ces organisations ne sont pas habilités à exercer ces droits individuellement.
 
 #### Art. 9
 
@@ -136,7 +136,7 @@ Si un différend vient à surgir entre deux ou plusieurs Parties contractantes a
 
 <sup>1.</sup> Le présent Protocole est soumis à ratification, acceptation ou approbation par les Signataires.
 
-<sup>2.</sup> Le présent Protocole sera ouvert à l’adhésion des Etats et organisations visés au par. 1 de l’art. 8 à compter du 5 octobre 1984.
+<sup>2.</sup> Le présent Protocole sera ouvert à l’adhésion des États et organisations visés au par. 1 de l’art. 8 à compter du 5 octobre 1984.
 
 <sup>3.</sup> Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies qui remplira les fonctions de dépositaire.
 
@@ -148,10 +148,10 @@ Si un différend vient à surgir entre deux ou plusieurs Parties contractantes a
 
 Le présent Protocole entrera en vigueur le quatre‑vingt‑dixième jour à compter de la date à laquelle:
 
-- a) les instruments de ratification, d’acceptation, d’approbation ou d’adhésion auront été déposés par au moins dix‑neuf Etats et organisations visés au par. 1 de l’art. 8, qui se trouvent dans la zone géographique des activités de l’EMEP, et
-- b) le total des quotes‑parts ONU de ces Etats et organisations dépassera quarante pour cent.
+- a) les instruments de ratification, d’acceptation, d’approbation ou d’adhésion auront été déposés par au moins dix‑neuf États et organisations visés au par. 1 de l’art. 8, qui se trouvent dans la zone géographique des activités de l’EMEP, et
+- b) le total des quotes‑parts ONU de ces États et organisations dépassera quarante pour cent.
 
-<sup>2.</sup> A l’égard de chaque Etat et organisation visés au par. 1 de l’art. 8 qui ratifie, accepte ou approuve le présent Protocole ou y adhère lorsque les conditions d’entrée en vigueur énoncées au par. 1 a) ci‑dessus ont été remplies, le Protocole entrera en vigueur le quatre‑vingt‑dixième jour à compter de la date du dépôt, par ledit Etat ou ladite organisation, de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>2.</sup> A l’égard de chaque État et organisation visés au par. 1 de l’art. 8 qui ratifie, accepte ou approuve le présent Protocole ou y adhère lorsque les conditions d’entrée en vigueur énoncées au par. 1 a) ci‑dessus ont été remplies, le Protocole entrera en vigueur le quatre‑vingt‑dixième jour à compter de la date du dépôt, par ledit État ou ladite organisation, de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 #### Art. 11
 
@@ -201,7 +201,7 @@ Les contributions obligatoires pour la répartition des dépenses du Programme c
 <tr><td>Yougoslavie</td><td>0,60</td></tr>
 </table>
 
-Etats membres de la Communauté économique européenne:
+États membres de la Communauté économique européenne:
 
 <table>
 <tr><td>Allemagne, République fédérale d’</td><td>15,73</td></tr>
@@ -220,10 +220,10 @@ Etats membres de la Communauté économique européenne:
 
 L’ordre dans lequel les Parties contractantes figurent dans l’Annexe se rapporte spécifiquement au système de répartition des dépenses tel que convenu par l’Organe Exécutif de la Convention. En conséquence cet ordre est un élément spécifique du Protocole sur le financement de l’EMEP.
 
-Champ d’application le 19 février 2019**[^t-1]**
+Champ d’application le 7 juillet 2026[^t-1]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>6 septembre</td><td>2011 A</td><td>5 décembre</td><td>2011</td></tr>
 <tr><td>Allemagne</td><td>7 octobre</td><td>1986</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>Arménie</td><td>21 janvier</td><td>2014 A</td><td>21 avril</td><td>2014</td></tr>
@@ -239,7 +239,7 @@ Champ d’application le 19 février 2019**[^t-1]**
 <tr><td>Danemark</td><td>29 avril</td><td>1986</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>Espagne</td><td>11 août</td><td>1987 A</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>Estonie</td><td>7 décembre</td><td>2001 A</td><td>7 mars</td><td>2002</td></tr>
-<tr><td>Etats-Unis</td><td>29 octobre</td><td>1984</td><td>28 janvier</td><td>1988</td></tr>
+<tr><td>États-Unis</td><td>29 octobre</td><td>1984</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>Finlande</td><td>24 juin</td><td>1986</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>France</td><td>30 octobre</td><td>1987</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>Géorgie</td><td>7 février</td><td>2013</td><td>8 mai</td><td>2013</td></tr>
@@ -251,7 +251,7 @@ Champ d’application le 19 février 2019**[^t-1]**
 <tr><td>Liechtenstein</td><td>1<sup>er</sup> mai</td><td>1985 A</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>Lituanie</td><td>7 novembre</td><td>2003 A</td><td>5 février</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>24 août</td><td>1987</td><td>28 janvier</td><td>1988</td></tr>
-<tr><td>Macédoine</td><td>10 mars</td><td>2010 A</td><td>8 juin</td><td>2010</td></tr>
+<tr><td>Macédoine du Nord</td><td>10 mars</td><td>2010 A</td><td>8 juin</td><td>2010</td></tr>
 <tr><td>Malte</td><td>14 mars</td><td>1997 A</td><td>12 juin</td><td>1997</td></tr>
 <tr><td>Moldova</td><td>26 juillet</td><td>2016 A</td><td>24 octobre</td><td>2016</td></tr>
 <tr><td>Monaco</td><td>27 août</td><td>1999 A</td><td>25 novembre</td><td>1999</td></tr>
@@ -263,7 +263,6 @@ Champ d’application le 19 février 2019**[^t-1]**
 <tr><td>République tchèque</td><td>30 septembre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>28 avril</td><td>2003 A</td><td>27 juillet</td><td>2003</td></tr>
 <tr><td>Royaume-Uni</td><td>12 août</td><td>1985</td><td>28 janvier</td><td>1988</td></tr>
-<tr><td>Russie</td><td>21 août</td><td>1985</td><td>28 janvier</td><td>1988</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Slovaquie</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
@@ -274,4 +273,4 @@ Champ d’application le 19 février 2019**[^t-1]**
 <tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-1]: [RO 1988 867](https://fedlex.data.admin.ch/eli/oc/1988/867_867_867), [1989 1117](https://fedlex.data.admin.ch/eli/oc/1989/1117_1117_1117), [2004 119](https://fedlex.data.admin.ch/eli/oc/2004/10), [2006 851](https://fedlex.data.admin.ch/eli/oc/2006/147), [2010 247](https://fedlex.data.admin.ch/eli/oc/2010/31), [2013 761](https://fedlex.data.admin.ch/eli/oc/2013/151), [2016 2625](https://fedlex.data.admin.ch/eli/oc/2016/415), [2019 757](https://fedlex.data.admin.ch/eli/oc/2019/132). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 1988 867](https://fedlex.data.admin.ch/eli/oc/1988/867_867_867); [1989 1117](https://fedlex.data.admin.ch/eli/oc/1989/1117_1117_1117); [2004 119](https://fedlex.data.admin.ch/eli/oc/2004/10); [2006 851](https://fedlex.data.admin.ch/eli/oc/2006/147); [2010 247](https://fedlex.data.admin.ch/eli/oc/2010/31); [2013 761](https://fedlex.data.admin.ch/eli/oc/2013/151); [2016 2625](https://fedlex.data.admin.ch/eli/oc/2016/415); [2019 757](https://fedlex.data.admin.ch/eli/oc/2019/132); [2026 385](https://fedlex.data.admin.ch/eli/oc/2026/385). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.814.322"
 title: "Protocollo del 28 settembre 1984 alla Convenzione del 1979 sull'inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo al finanziamento a lungo termine del Programma concertato di sorveglianza continua e valutazione del trasporto a lunga distanza di inquinanti atmosferici in Europa (EMEP) (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/867_867_867"
 language: it
-version: 2019-02-19
+version: 2026-07-07
 adopted: 1984-09-28
 in_force: 1988-01-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/867_867_867/20190219/it/xml/fedlex-data-admin-ch-eli-cc-1988-867_867_867-20190219-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/867_867_867/20190219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/867_867_867/20260707/it/xml/fedlex-data-admin-ch-eli-cc-1988-867_867_867-20260707-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/867_867_867/20260707/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Ratificato dalla Svizzera con strumento depositato il 26 luglio 1985
 
 Entrato in vigore per la Svizzera il 28 gennaio 1988
 
-(Stato 19 febbraio 2019)
+(Stato 7 luglio 2026)
 
 Le Parti contraenti,
 
@@ -46,7 +46,7 @@ tenuto conto degli elementi che occorre prendere in considerazione per l’elabo
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 #### Art. 1
 
@@ -220,7 +220,7 @@ Stati membri della Comunità economica europea:
 
 L’ordine in cui le Parti contraenti figurano nell’Allegato si riferisce specificamente al sistema di ripartizione delle spese quale convenuto dall’Organo esecutivo della Convenzione. Conseguentemente, esso è un elemento specifico del Protocollo sul finanziamento dell’EMEP.
 
-Campo d’applicazione il 19 febbraio 2019**[^t-1]**
+Campo d’applicazione il 7 luglio 2026[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -248,7 +248,7 @@ Campo d’applicazione il 19 febbraio 2019**[^t-1]**
 <tr><td>Liechtenstein</td><td>1° maggio</td><td>1985 A</td><td>28 gennaio</td><td>1988</td></tr>
 <tr><td>Lituania</td><td>7 novembre</td><td>2003 A</td><td>5 febbraio</td><td>2004</td></tr>
 <tr><td>Lussemburgo</td><td>24 agosto</td><td>1987</td><td>28 gennaio</td><td>1988</td></tr>
-<tr><td>Macedonia</td><td>10 marzo</td><td>2010 A</td><td>8 giugno</td><td>2010</td></tr>
+<tr><td>Macedonia del Nord</td><td>10 marzo</td><td>2010 A</td><td>8 giugno</td><td>2010</td></tr>
 <tr><td>Moldova</td><td>26 luglio</td><td>2016 A</td><td>24 ottobre</td><td>2016</td></tr>
 <tr><td>Malta</td><td>14 marzo</td><td>1997 A</td><td>12 giugno</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>27 agosto</td><td>1999 A</td><td>25 novembre</td><td>1999</td></tr>
@@ -259,7 +259,6 @@ Campo d’applicazione il 19 febbraio 2019**[^t-1]**
 <tr><td>Portogallo</td><td>19 gennaio</td><td>1989 A</td><td>19 aprile</td><td>1989</td></tr>
 <tr><td>Regno Unito</td><td>12 agosto</td><td>1985</td><td>28 gennaio</td><td>1988</td></tr>
 <tr><td>Romania</td><td>28 aprile</td><td>2003 A</td><td>27 luglio</td><td>2003</td></tr>
-<tr><td>Russia</td><td>21 agosto</td><td>1985</td><td>28 gennaio</td><td>1988</td></tr>
 <tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
 <tr><td>Slovacchia</td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
@@ -274,4 +273,4 @@ Campo d’applicazione il 19 febbraio 2019**[^t-1]**
 <tr><td colspan="5"><sup>a</sup> Per il Regno in Europa</td></tr>
 </table>
 
-[^t-1]: [RU 1988 867](https://fedlex.data.admin.ch/eli/oc/1988/867_867_867), [1989 1117](https://fedlex.data.admin.ch/eli/oc/1989/1117_1117_1117), [2004 119](https://fedlex.data.admin.ch/eli/oc/2004/10), [2006 851](https://fedlex.data.admin.ch/eli/oc/2006/147), [2010 247](https://fedlex.data.admin.ch/eli/oc/2010/31), [2013 761](https://fedlex.data.admin.ch/eli/oc/2013/151), [2016 2625](https://fedlex.data.admin.ch/eli/oc/2016/415)e [2019 757](https://fedlex.data.admin.ch/eli/oc/2019/132). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 1988 867](https://fedlex.data.admin.ch/eli/oc/1988/867_867_867); [1989 1117](https://fedlex.data.admin.ch/eli/oc/1989/1117_1117_1117); [2004 119](https://fedlex.data.admin.ch/eli/oc/2004/10); [2006 851](https://fedlex.data.admin.ch/eli/oc/2006/147); [2010 247](https://fedlex.data.admin.ch/eli/oc/2010/31); [2013 761](https://fedlex.data.admin.ch/eli/oc/2013/151); [2016 2625](https://fedlex.data.admin.ch/eli/oc/2016/415); [2019 757](https://fedlex.data.admin.ch/eli/oc/2019/132); [2026 385](https://fedlex.data.admin.ch/eli/oc/2026/385). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
