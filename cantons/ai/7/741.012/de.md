@@ -4,13 +4,12 @@ number: "741.012"
 title: Standeskommissionsbeschluss über das gebührenpflichtige Parkieren
 short: StKB Parkgebühren
 language: de
-version: 2026-05-01
-valid_until: 2026-07-06
-version_adopted: 2026-04-14
+version: 2026-07-07
+version_adopted: 2026-07-07
 adopted: 2019-07-02
 in_force: 2019-07-09
 url: "https://ai.clex.ch/app/de/texts_of_law/741.012"
-pdf: "https://ai.clex.ch/api/de/versions/2451/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2451/pdf_file"
 
 (StKB Parkgebühren)
 
-vom 02.07.2019 (Stand 01.05.2026)
+vom 02.07.2019 (Stand 07.07.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
