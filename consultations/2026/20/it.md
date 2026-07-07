@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sull’assicurazione contro gli infortuni (LAINF)
 document: Progetto posto in consultazione
 language: it
