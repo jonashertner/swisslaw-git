@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal) et révision totale de l’ordonnance sur le calcul des coûts et le classement des prestations par les hôpitaux, les maisons de naissance et les établissements médico sociaux dans l’assurance-maladie (OCP) – Mise en œuvre de la modification de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal) relative au financement uniforme des prestations"
 document: Projet mis en consultation-3
 language: fr

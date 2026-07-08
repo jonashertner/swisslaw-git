@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV) und Totalrevision der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung (VKL) – Umsetzung der Änderung des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) zur einheitlichen Finanzierung der Leistungen"
 document: Vernehmlassungsvorlage-3
 language: de

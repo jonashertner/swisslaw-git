@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell'ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal) e modifica totale dell’ordinanza sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell’assicurazione malattie (OCPre) – Attuazione della modifica della legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal) relativa al finanziamento uniforme delle prestazioni"
 document: Progetto posto in consultazione-2
 language: it
