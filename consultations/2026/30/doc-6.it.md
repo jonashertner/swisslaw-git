@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Accordo sul cambiamento climatico, il commercio e la sostenibilità"
 document: Progetto posto in consultazione - Accordo
 language: it

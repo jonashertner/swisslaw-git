@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Accord sur le changement climatique, le commerce et la durabilité"
 document: Projet mis en consultation - Accord
 language: fr

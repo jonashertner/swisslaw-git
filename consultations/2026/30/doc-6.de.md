@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Abkommen über Klimawandel, Handel und Nachhaltigkeit"
 document: Vernehmlassungsvorlage - Abkommen
 language: de
