@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordonnance sur la réquisition, ouverture de la procédure de consultation"
 document: Projet mis en consultation
 language: fr

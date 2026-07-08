@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordinanza sulla requisizione, avvio della procedura di consultazione"
 document: Progetto posto in consultazione
 language: it

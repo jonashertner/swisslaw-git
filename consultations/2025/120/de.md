@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Requisitionsverordnung, Eröffnung des Vernehmlassungsverfahrens"
 document: Vernehmlassungsvorlage
 language: de
