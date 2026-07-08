@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: fr
-version: 2026-07-01
+version: 2026-07-09
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260709/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260709-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260709/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260701/fr"
 
 (OPIE)
 
-du 2 février 2000 (État le 1<sup>er</sup> juillet 2026)
+du 2 février 2000 (État le 9 juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -44,7 +44,7 @@ La présente ordonnance régit:
 
   - 1\. des installations à haute tension,
   - 2\.[^1-1] …
-  - 3\. des installations électriques à courant faible, pour autant qu’elles soient soumises à l’approbation obligatoire en vertu de l’art. 8*a*, al. 1, de l’ordonnance du 30 mars 1994 sur les installations électriques à courant faible[^1-2].[^1-3]
+  - 3\.[^1-2] des installations électriques à courant faible, pour autant qu’elles soient soumises à l’approbation obligatoire en vertu de l’art. 8*a*, al. 1, de l’ordonnance du 30 mars 1994 sur les installations électriques à courant faible[^1-3].[^1-4]
 
 <sup>2</sup> Elle est applicable dans son intégralité à l’établissement et à la modification des réseaux de distribution à basse tension situés dans des aires de protection au sens du droit fédéral ou cantonal. Les autres installations à basse tension sont approuvées par l’Inspection fédérale des installations à courant fort (inspection) lors des contrôles réguliers. À cet effet, les propriétaires mettent à jour continuellement les plans et les dossiers.
 
@@ -52,20 +52,21 @@ La présente ordonnance régit:
 
 Elle n’est pas applicable à l’établissement ou à la modification:
 
-- a.[^1-4] des installations définies à l’art. 2 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^1-5];
-- b. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension[^1-6];
-- c. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 2 mars 1998 sur les appareils et les systèmes de protection destinés à être utilisés en atmosphères explosibles[^1-7].
+- a.[^1-5] des installations définies à l’art. 2 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^1-6];
+- b. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension[^1-7];
+- c. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 2 mars 1998 sur les appareils et les systèmes de protection destinés à être utilisés en atmosphères explosibles[^1-8].
 
-<sup>4</sup> Les installations électriques destinées exclusivement ou principalement à l’exploitation de lignes de chemins de fer ou de trolleybus sont régies par l’ordonnance du 2 février 2000 sur la procédure d’approbation des plans des installations ferroviaires[^1-8].
+<sup>4</sup> Les installations électriques destinées exclusivement ou principalement à l’exploitation de lignes de chemins de fer ou de trolleybus sont régies par l’ordonnance du 2 février 2000 sur la procédure d’approbation des plans des installations ferroviaires[^1-9].
 
 [^1-1]: Abrogé par le ch. I de l’O du 4 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-2]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1-4]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-5]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^1-6]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
-[^1-7]: [[RO 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 4. [RO 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8591)).
-[^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
+[^1-2]: Erratum du 9 juil. 2026, ne concerne que le texte italien ([RO 2026 375](https://fedlex.data.admin.ch/eli/oc/2026/375)).
+[^1-3]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-6]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^1-7]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
+[^1-8]: [[RO 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 4. [RO 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8591)).
+[^1-9]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## Section 1*a* Procédure de plan sectoriel
 

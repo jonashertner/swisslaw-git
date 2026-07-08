@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für e
 short: VPeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: de
-version: 2026-07-01
+version: 2026-07-09
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260709/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260709-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260709/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260701/de"
 
 (VPeA)
 
-vom 2. Februar 2000 (Stand am 1. Juli 2026)
+vom 2. Februar 2000 (Stand am 9. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -44,7 +44,7 @@ Diese Verordnung regelt:
 
   - 1\. Hochspannungsanlagen,
   - 2\.[^1-1] …
-  - 3\. Schwachstromanlagen, soweit diese nach Artikel 8*a* Absatz 1 der Schwachstromverordnung vom 30. März 1994[^1-2] der Genehmigungspflicht unterstellt sind.[^1-3]
+  - 3\.[^1-2] Schwachstromanlagen, soweit diese nach Artikel 8*a* Absatz 1 der Schwachstromverordnung vom 30. März 1994[^1-3] der Genehmigungspflicht unterstellt sind.[^1-4]
 
 <sup>2</sup> Sie gilt in vollem Umfang für die Erstellung und die Änderung von Niederspannungsverteilnetzen, soweit es sich um Anlagen in Schutzgebieten nach eidgenössischem oder kantonalem Recht handelt. Die übrigen Niederspannungsanlagen werden vom Eidgenössischen Starkstrominspektorat (Inspektorat) anlässlich der regelmässigen Inspektionen genehmigt. Die Betriebsinhaber führen zu diesem Zweck Pläne und Unterlagen dauernd nach.
 
@@ -52,20 +52,21 @@ Diese Verordnung regelt:
 
 Sie gilt nicht für die Erstellung und die Änderung von:
 
-- a.[^1-4] Installationen nach Artikel 2 der Niederspannungs-Installationsverordnung vom 7. November 2001[^1-5];
-- b. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 9. April 1997[^1-6] über elektrische Niederspannungserzeugnisse;
-- c. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 2. März 1998[^1-7] über Geräte und Schutzsysteme zur Verwendung in explosionsgefährdeten Bereichen.
+- a.[^1-5] Installationen nach Artikel 2 der Niederspannungs-Installationsverordnung vom 7. November 2001[^1-6];
+- b. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 9. April 1997[^1-7] über elektrische Niederspannungserzeugnisse;
+- c. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 2. März 1998[^1-8] über Geräte und Schutzsysteme zur Verwendung in explosionsgefährdeten Bereichen.
 
-<sup>4</sup> Für elektrische Anlagen, die ganz oder überwiegend dem Eisenbahn- oder Trolleybusverkehr dienen, gilt die Verordnung vom 2. Februar 2000[^1-8] über das Plangenehmigungsverfahren für Eisenbahnanlagen.
+<sup>4</sup> Für elektrische Anlagen, die ganz oder überwiegend dem Eisenbahn- oder Trolleybusverkehr dienen, gilt die Verordnung vom 2. Februar 2000[^1-9] über das Plangenehmigungsverfahren für Eisenbahnanlagen.
 
 [^1-1]: Aufgehoben durch Ziff. I der V vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-2]: [SR 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
-[^1-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-5]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^1-6]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 4 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
-[^1-7]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8591)).
-[^1-8]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
+[^1-2]: Die Berichtigung vom 9. Juli 2026 betrifft nur den italienischen Text ([AS 2026 375](https://fedlex.data.admin.ch/eli/oc/2026/375)).
+[^1-3]: [SR 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
+[^1-4]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+[^1-5]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-6]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^1-7]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 4 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
+[^1-8]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8591)).
+[^1-9]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## 1*a*. Abschnitt: Sachplanverfahren
 
