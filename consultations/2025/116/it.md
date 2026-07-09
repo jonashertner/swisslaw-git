@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Controprogetto indiretto (Legge federale sulla gestione sostenibile delle imprese) all'iniziativa popolare «Per grandi imprese responsabili – a tutela dell’essere umano e dell'ambiente»"
 document: Progetto posto in consultazione
 language: it

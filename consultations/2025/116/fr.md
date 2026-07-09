@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Contre-projet indirect (Loi fédérale sur la gestion durable des entreprises) à l’initiative populaire « Pour des grandes entreprises responsables – pour la protection de l’être humain et de l’environnement »
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Indirekter Gegenvorschlag (Bundesgesetz über die nachhaltige Unternehmensführung) zur Volksinitiative «Für verantwortungsvolle Grossunternehmen – zum Schutz von Mensch und Umwelt»
 document: Vernehmlassungsvorlage
 language: de
