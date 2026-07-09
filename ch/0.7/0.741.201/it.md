@@ -3,11 +3,11 @@ sr: "0.741.201"
 title: "Accordo europeo del 1<sup>o</sup> maggio 1971 completante la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/604_604_604"
 language: it
-version: 2023-06-21
+version: 2026-07-10
 adopted: 1971-05-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20230621-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20230621/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20260710-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20260710/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 1° maggio 1971 Approvato dall’Assemblea federale il 15 dicembre 1978[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 dicembre 1991 Entrato in vigore per la Svizzera l’11 dicembre 1992
 
-(Stato 21 giugno 2023)
+(Stato 10 luglio 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. d del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -32,7 +32,7 @@ Parti alla Convenzione sulla segnaletica stradale aperta alla firma a Vienna l�
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
 
 #### Art. 1
 
@@ -142,9 +142,7 @@ Oltre alle dichiarazioni, notifiche e comunicazioni previste agli articoli 6 e 1
 
 Dopo il 31 dicembre 1972, l’originale del presente Accordo sarà depositato presso il Segretario generale dell’Organizzazione delle Nazioni Unite, che ne trasmetterà copie certificate conformi a tutti gli Stati di cui all’articolo 2 del presente Accordo.
 
-*In fede di che*, i sottoscritti a tal fine debitamente autorizzati hanno firmato il presente Accordo. Fatto a Ginevra il 1° maggio 1971 in un solo esemplare in lingua francese, inglese e russa, i tre testi facenti ugualmente fede.
-
-(Seguono le firme)
+*In fede di che*, i sottoscritti a tal fine debitamente autorizzati hanno firmato il presente Accordo. Fatto a Ginevra il 1° maggio 1971 in un solo esemplare in lingua francese, inglese e russa, i tre testi facenti ugualmente fede. (Seguono le firme)
 
 Annesso[^t-2]
 
@@ -489,32 +487,32 @@ Annesso – Appendice[^t-3]
 
 C, 3<sup>m</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image1.png)
 
 Divieto di transito ai veicoli che trasportano più di una certa quantità di prodotti esplosivi o facilmente infiammabili
 
 C, 3<sup>n</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image2.png)
 
 Divieto di transito ai veicoli che trasportano più di una certa quantità di prodotti di natura tale da inquinare le acque
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image7.png) F16</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image7.png) F16</td></tr>
 </table>
 
 Legenda dei colori
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image8.png) = rosso
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image8.png) = rosso
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image9.png) = blu
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image9.png) = blu
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/it/xml/image/image10.png) = arancione
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/it/xml/image/image10.png) = arancione
 
 [^t-3]: Aggiornato giusta gli emendamenti entrati in vigore il 27 nov. 1995 ([RU 1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368)).
 
-Campo d’applicazione il 21 giugno 2023[^t-4]
+Campo d’applicazione il 10 luglio 2026[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -526,14 +524,14 @@ Campo d’applicazione il 21 giugno 2023[^t-4]
 <tr><td>Bosnia e Erzegovina</td><td>12 gennaio</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
 <tr><td>Bulgaria</td><td>28 dicembre</td><td>1978 A</td><td>28 dicembre</td><td>1979</td></tr>
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td>Cipro<sup>\*</sup></td><td>16 agosto</td><td>2016 A</td><td>16 agosto</td><td>2017</td></tr>
+<tr><td>Cipro<sup>\* \*\*</sup></td><td>16 agosto</td><td>2016 A</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Danimarca<sup>\*</sup></td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>30 novembre</td><td>1993 A</td><td>30 novembre</td><td>1994</td></tr>
 <tr><td>Finlandia<sup>\*</sup></td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>16 gennaio</td><td>1974</td><td>3 agosto</td><td>1979</td></tr>
 <tr><td>Georgia</td><td>15 maggio</td><td>2001 A</td><td>15 maggio</td><td>2002</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>3 agosto</td><td>1978</td><td>3 agosto</td><td>1979</td></tr>
-<tr><td>Grecia</td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
+<tr><td>Grecia<sup>\*\*</sup></td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
 <tr><td>Italia</td><td>7 febbraio</td><td>1997 A</td><td>7 febbraio</td><td>1998</td></tr>
 <tr><td>Kazakistan</td><td>7 giugno</td><td>2011 A</td><td>7 giugno</td><td>2012</td></tr>
 <tr><td>Lettonia</td><td>20 novembre</td><td>2001 A</td><td>20 novembre</td><td>2002</td></tr>
@@ -555,11 +553,10 @@ Campo d’applicazione il 21 giugno 2023[^t-4]
 <tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>31 agosto</td><td>2021</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>30 dicembre</td><td>1974 A</td><td>3 agosto</td><td>1979</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>16 marzo</td><td>1976</td><td>3 agosto</td><td>1979</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-4]: [RU 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
+[^t-4]: [RU 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317); [2026 388](https://fedlex.data.admin.ch/eli/oc/2026/388). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
 
 Riserve e dichiarazioni
 

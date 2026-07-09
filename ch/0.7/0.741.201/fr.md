@@ -3,11 +3,11 @@ sr: "0.741.201"
 title: "Accord européen du 1<sup>er</sup> mai 1971 complétant la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/604_604_604"
 language: fr
-version: 2023-06-21
+version: 2026-07-10
 adopted: 1971-05-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20230621-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20230621/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20260710-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20260710/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 décembre 1991
 
 Entré en vigueur pour la Suisse le 11 décembre 1992
 
-(État le 21 juin 2023)
+(État le 10 juillet 2026)
 
 [^t-1]: Art. 1 al. 1 let. d. de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -38,7 +38,7 @@ désireuses d’établir une plus grande uniformité en Europe des règles relat
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
 
 #### Art. 1
 
@@ -108,7 +108,7 @@ Le présent Accord cessera d’être en vigueur si le nombre des Parties contrac
 
 Aucune disposition du présent Accord ne sera interprétée comme interdisant à une Partie contractante de prendre les mesures compatibles avec les dispositions de la Charte des Nations Unies[^10-1] et limitées aux exigences de la situation qu’elle estime nécessaires pour sa sécurité extérieure ou intérieure.
 
-[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 11
 
@@ -487,30 +487,30 @@ Annexe – Appendice
 
 C, 3<sup>m</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image1.png)
 
 Accès interdit aux véhicules transportant plus d’une certaine quantité de produits explosifs ou facilement inflammables.
 
 C, 3<sup>n</sup>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image2.png)
 
 Accès interdit aux véhicules transportant plus d’une certaine quantité de produits de nature à polluer les eaux.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image7.png) F 16</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image7.png) F 16</td></tr>
 </table>
 
 Légende des couleurs
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image8.png) =rouge
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image8.png) =rouge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image9.png) =bleu
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image9.png) =bleu
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/fr/xml/image/image10.png) =orange
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/fr/xml/image/image10.png) =orange
 
-Champ d’application le 21 juin 2023[^t-3]
+Champ d’application le 10 juillet 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -522,13 +522,13 @@ Champ d’application le 21 juin 2023[^t-3]
 <tr><td>Belgique</td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>12 janvier</td><td>1994 S</td><td>6 mars</td><td>1992</td></tr>
 <tr><td>Bulgarie\*</td><td>28 décembre</td><td>1978 A</td><td>28 décembre</td><td>1979</td></tr>
-<tr><td>Chypre\*</td><td>16 août</td><td>2016 A</td><td>16 août</td><td>2017</td></tr>
+<tr><td>Chypre\* \*\*</td><td>16 août</td><td>2016 A</td><td>16 août</td><td>2017</td></tr>
 <tr><td>Danemark\*</td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
 <tr><td>Estonie\*</td><td>30 novembre</td><td>1993 A</td><td>30 novembre</td><td>1994</td></tr>
 <tr><td>Finlande\*</td><td>1<sup>er</sup> avril</td><td>1985</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
 <tr><td>France\*</td><td>16 janvier</td><td>1974</td><td>3 août</td><td>1979</td></tr>
 <tr><td>Géorgie</td><td>15 mai</td><td>2001 A</td><td>15 mai</td><td>2002</td></tr>
-<tr><td>Grèce</td><td>18 décembre</td><td>1986 A</td><td>18 décembre</td><td>1987</td></tr>
+<tr><td>Grèce\*\*</td><td>18 décembre</td><td>1986 A</td><td>18 décembre</td><td>1987</td></tr>
 <tr><td>Hongrie\*</td><td>16 mars</td><td>1976</td><td>3 août</td><td>1979</td></tr>
 <tr><td>Italie</td><td>7 février</td><td>1997 A</td><td>7 février</td><td>1998</td></tr>
 <tr><td>Kazakhstan</td><td>7 juin</td><td>2011 A</td><td>7 juin</td><td>2012</td></tr>
@@ -551,24 +551,23 @@ Champ d’application le 21 juin 2023[^t-3]
 <tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>31 août</td><td>2021</td></tr>
 <tr><td>Turquie\*</td><td>17 mai</td><td>2023 A</td><td>17 mai</td><td>2024</td></tr>
 <tr><td>Ukraine\*</td><td>30 décembre</td><td>1974 A</td><td>3 août</td><td>1979</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-3]: [RO 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317); [2026 388](https://fedlex.data.admin.ch/eli/oc/2026/388). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
 **Suisse**
 
-## Ad ch. 9 de l’annexe (art.10, par.6, de la convention)
+Ad ch. 9 de l’annexe (art. 10, par. 6, de la convention)
 
 La Suisse se réserve de prévoir dans sa législation nationale, pour présignaler le signal B, 2<sup>a</sup>, un signal identique complété par un panneau additionnel du modèle H, 1, conformément à l’annexe 1 section H.
 
-## Ad ch.9<sup>bis</sup> et 22 de l’annexe (art.13<sup>bis</sup> et annexe 1, section E, sous-section II, par.7, de la Convention)
+Ad ch. 9<sup>bis</sup> et 22 de l’annexe (art. 13<sup>bis</sup> et annexe 1, section E, sous-section II, par. 7, de la Convention)
 
 La Suisse ne se considère pas liée par les ch. 9<sup>bis</sup> et 22 de l’annexe.
 
-## Ad ch.12 de l’annexe (art.24, par.2, de la convention)
+Ad ch. 12 de l’annexe (art. 24, par. 2, de la convention)
 
 La Suisse se réserve de prévoir, dans sa législation nationale, le système tricolore pour les signaux lumineux destinés aux piétons, conformément à l’art.24, par. 2, de la convention.

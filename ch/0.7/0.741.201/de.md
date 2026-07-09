@@ -3,11 +3,11 @@ sr: "0.741.201"
 title: "Europäisches Zusatzübereinkommen vom 1. Mai 1971 zum Übereinkommen über Strassenverkehrszeichen, das in Wien am 8. November 1968 zur Unterzeichnung aufgelegt wurde (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/604_604_604"
 language: de
-version: 2023-06-21
+version: 2026-07-10
 adopted: 1971-05-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20230621-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20230621/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/fedlex-data-admin-ch-eli-cc-1993-604_604_604-20260710-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/604_604_604/20260710/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991
 
 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 21. Juni 2023)
+(Stand am 10. Juli 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. d des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -38,7 +38,7 @@ in dem Wunsch, eine grössere Einheitlichkeit der Vorschriften über Strassenver
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^ingress-1]: [SR 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
 
 #### Art. 1
 
@@ -113,7 +113,7 @@ Dieses Zusatzübereinkommen tritt ausser Kraft, wenn zu irgendeinem Zeitpunkt di
 
 Dieses Zusatzübereinkommen ist nicht so auszulegen, als hindere es eine Vertragspartei, Massnahmen zu ergreifen, die sie für ihre innere oder äussere Sicherheit als notwendig erachtet und die mit der Charta der Vereinten Nationen[^10-1] vereinbar und auf die Erfordernisse der Lage beschränkt sind.
 
-[^10-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^10-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 11
 
@@ -147,9 +147,7 @@ Ausser den nach den Artikeln 6 und 11 vorgesehenen Erklärungen, Notifikationen 
 
 Nach dem 31. Dezember 1972 wird die Urschrift dieses Zusatzübereinkommens beim Generalsekretär der Vereinten Nationen hinterlegt, der allen in Artikel 2 bezeichneten Staaten beglaubigte Abschriften übersendet.
 
-*Zu Urkund dessen* haben die von ihren Regierungen gehörig befugten Unterzeichneten dieses Zusatzübereinkommen unterschrieben. Geschehen zu Genf am ersten Mai neunzehnhunderteinundsiebzig in einer einzigen Urschrift in englischer, französischer und russischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
-
-(Es folgen die Unterschriften)
+*Zu Urkund dessen* haben die von ihren Regierungen gehörig befugten Unterzeichneten dieses Zusatzübereinkommen unterschrieben. Geschehen zu Genf am ersten Mai neunzehnhunderteinundsiebzig in einer einzigen Urschrift in englischer, französischer und russischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. (Es folgen die Unterschriften)
 
 Anhang[^t-2]
 
@@ -496,31 +494,31 @@ Zusätzliches Zeichen C 3<sup>m</sup>
 
 Einfahrt verboten für Fahrzeuge, die mehr als eine bestimmte Menge von Sprengstoffen oder leicht entzündbaren Stoffen befördern.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image1.png)
 
 Zusätzliches Zeichen C 3<sup>n</sup>
 
 Einfahrt verboten für Fahrzeuge, die mehr als eine bestimmte Menge von wasserverunreinigenden Stoffen befördern.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image2.png)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image7.png) F 16</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image3.png) E, 17<sup>a</sup></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image4.png) E, 17<sup>b</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image5.png) F 14</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image6.png) F 15</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image7.png) F 16</td></tr>
 </table>
 
 Farblegende
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image8.png) = rot
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image8.png) = rot
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image9.png)= blau
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image9.png)= blau
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20230621/de/xml/image/image10.png)= orange
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/604_604_604/20260710/de/xml/image/image10.png)= orange
 
-Geltungsbereich am 21. Juni 2023[^t-3]
+Geltungsbereich am 10. Juli 2026[^t-3]
 
 <table>
-<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td colspan="2">6. Juni</td><td>2005 B</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td colspan="2">Aserbaidschan\*</td><td>11. Juli</td><td>2011 B</td><td>11. Juli</td><td>2012</td></tr>
 <tr><td>Belarus\*</td><td colspan="2">17. Dezember</td><td>1974 B</td><td>3. August</td><td>1979</td></tr>
@@ -533,7 +531,7 @@ Geltungsbereich am 21. Juni 2023[^t-3]
 <tr><td>Finnland\*</td><td colspan="2">1. April</td><td>1985</td><td>1. April</td><td>1986</td></tr>
 <tr><td>Frankreich\*</td><td colspan="2">16. Januar</td><td>1974</td><td>3. August</td><td>1979</td></tr>
 <tr><td>Georgien</td><td colspan="2">15. Mai</td><td>2001 B</td><td>15. Mai</td><td>2002</td></tr>
-<tr><td>Griechenland</td><td colspan="2">18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
+<tr><td>Griechenland\*\*</td><td colspan="2">18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
 <tr><td>Italien</td><td colspan="2">7. Februar</td><td>1997 B</td><td>7. Februar</td><td>1998</td></tr>
 <tr><td>Kasachstan</td><td colspan="2">7. Juni</td><td>2011 B</td><td>7. Juni</td><td>2012</td></tr>
 <tr><td>Lettland</td><td colspan="2">20. November</td><td>2001 B</td><td>20. November</td><td>2002</td></tr>
@@ -557,17 +555,15 @@ Geltungsbereich am 21. Juni 2023[^t-3]
 <tr><td>Turkmenistan</td><td colspan="2">31. August</td><td>2020 B</td><td>31. August</td><td>2021</td></tr>
 <tr><td>Ukraine\*</td><td colspan="2">30. Dezember</td><td>1974 B</td><td>3. August</td><td>1979</td></tr>
 <tr><td>Ungarn\*</td><td colspan="2">16. März</td><td>1976</td><td>3. August</td><td>1979</td></tr>
-<tr><td>Zypern\*</td><td colspan="2">16. August</td><td>2016 B</td><td>16. August</td><td>2017</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen</td></tr>
-<tr><td colspan="6">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="6"><sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td>Zypern\* \*\*</td><td colspan="2">16. August</td><td>2016 B</td><td>16. August</td><td>2017</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-## Vorbehalte und Erklärungen
+[^t-3]: Diese Veröffentlichung ergänzt die früheren in [AS 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317); [2026 388](https://fedlex.data.admin.ch/eli/oc/2026/388). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-[^t-3]: [AS 1993 604](https://fedlex.data.admin.ch/eli/oc/1993/604_604_604); [1997 1368](https://fedlex.data.admin.ch/eli/oc/1997/1368_1368_1368); [2004 3989](https://fedlex.data.admin.ch/eli/oc/2004/575); [2009 613](https://fedlex.data.admin.ch/eli/oc/2009/109); [2014 3401](https://fedlex.data.admin.ch/eli/oc/2014/591); [2017 127](https://fedlex.data.admin.ch/eli/oc/2017/37); [2023 317](https://fedlex.data.admin.ch/eli/oc/2023/317). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+Vorbehalte und Erklärungen
 
-Schweiz
+**Schweiz**
 
 Zu Ziffer 9 des Anhangs (Artikel 10 Absatz 6 des Übereinkommens)
 
