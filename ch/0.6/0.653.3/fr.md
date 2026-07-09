@@ -3,11 +3,11 @@ sr: "0.653.3"
 title: Accord multilatéral du 28 août 2025 entre autorités compétentes portant sur l’échange de la Déclaration d’information Global Anti-Base Erosion
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/872"
 language: fr
-version: 2026-01-01
+version: 2026-07-10
 adopted: 2025-08-28
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/872/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-872-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/872/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/872/20260710/fr/xml/fedlex-data-admin-ch-eli-cc-2025-872-20260710-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/872/20260710/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,11 @@ RO **2025** 872
 
 Texte original
 
-Conclu le 28 août 2025 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2026
+Conclu le 28 août 2025 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2026 Entré en vigueur pour la Suisse le 10 juillet 2026[^t-1]
 
-(État le 1<sup>er</sup> janvier 2026)
+(État le 10 juillet 2026)
+
+[^t-1]: [RO 2026 396](https://fedlex.data.admin.ch/eli/oc/2026/396)
 
 Considérant que les Juridictions des signataires de l’Accord multilatéral entre autorités compétentes portant sur l’échange de la Déclaration d’information GloBE (l’«Accord») sont des Parties à la Convention concernant l’assistance administrative mutuelle en matière fiscale ou à la Convention concernant l’assistance administrative mutuelle en matière fiscale telle que modifiée par le Protocole portant modification de la Convention concernant l’assistance administrative mutuelle en matière fiscale (conjointement la «Convention»; individuellement la «Convention originale» ou la «Convention modifiée» respectivement) ou des territoires couverts par cette Convention,
 
@@ -164,3 +166,36 @@ Sauf disposition contraire contenue dans le présent Accord, le Secrétariat de 
 Fait en français et en anglais, les deux textes faisant également foi.
 
 (Suivent les signatures)
+
+Champ d’application le 10 juillet 2026[^t-2]
+
+La Suisse est liée par les dispositions de l’Accord multilatéral entre autorités compétentes concernant l’échange de la Déclaration d’information *Global Anti-Base* *Erosion* à l’égard des États et territoires suivants en vertu de la section 8, par. 2 de cet accord:
+
+<table>
+<tr><th></th><th>Effectif dès le</th></tr>
+<tr><td>Afrique du Sud</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Australie</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Autriche</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Canada</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Corée (Sud)</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Croatie</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Danemark</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Espagne</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Finlande</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Gibraltar</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Hong Kong (Chine)</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Hongrie</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Irlande</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Italie</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Japon</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Liechtenstein</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Luxembourg</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Norvège</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Pays-Bas</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Slovaquie</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Royaume-Uni</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Slovénie</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Suède</td><td>1<sup>er</sup> janvier 2024</td></tr>
+</table>
+
+[^t-2]: [RO 2026 395](https://fedlex.data.admin.ch/eli/oc/2026/395). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

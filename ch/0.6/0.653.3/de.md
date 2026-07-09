@@ -3,11 +3,11 @@ sr: "0.653.3"
 title: Multilaterale Vereinbarung vom 28. August 2025 der zuständigen Behörden über den Austausch von Global-Anti-Base-Erosion-Erklärungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/872"
 language: de
-version: 2026-01-01
+version: 2026-07-10
 adopted: 2025-08-28
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/872/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2025-872-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/872/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/872/20260710/de/xml/fedlex-data-admin-ch-eli-cc-2025-872-20260710-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/872/20260710/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,11 @@ AS **2025** 872
 
 Übersetzung
 
-Abgeschlossen am 28. August 2025 Vorläufig angewandt ab dem 1. Januar 2026
+Abgeschlossen am 28. August 2025 Vorläufig angewandt ab dem 1. Januar 2026 In Kraft getreten für die Schweiz am 10. Juli 2026[^t-1]
 
-(Stand am 1. Januar 2026)
+(Stand am 10. Juli 2026)
+
+[^t-1]: [AS 2026 396](https://fedlex.data.admin.ch/eli/oc/2026/396)
 
 In der Erwägung, dass die Staaten der Unterzeichner der Multilateralen Vereinbarung der zuständigen Behörden über den Austausch von *Global-Anti-Base-Erosion*-Erklärungen («Vereinbarung») Vertragsparteien des Übereinkommens über die gegenseitige Amtshilfe in Steuersachen oder des Übereinkommens über die gegenseitige Amtshilfe in Steuersachen in der durch das Protokoll geänderten Fassung (zusammen «Amtshilfeübereinkommen», einzeln «ursprüngliches Amtshilfeübereinkommen» beziehungsweise «geändertes Amtshilfeübereinkommen») oder darunterfallende Hoheitsgebiete sind;
 
@@ -66,7 +68,7 @@ sind die zuständigen Behörden wie folgt übereingekommen:
 
 - a) Der Ausdruck «Staat» bedeutet ein Land oder Hoheitsgebiet, für welches das Amtshilfeübereinkommen nach dem ursprünglichen oder dem geänderten Amtshilfeübereinkommen in Kraft oder wirksam ist, entweder durch Unterzeichnung und Ratifikation nach Artikel 28 oder durch räumliche Erstreckung nach Artikel 29, und das ein Unterzeichner dieser Vereinbarung ist.
 - b) Der Ausdruck «zuständige Behörde» bedeutet für den jeweiligen Staat die in Anlage B des Amtshilfeübereinkommens aufgeführten Personen und Behörden.
-- c) Der Ausdruck «GloBE-Erklärung» bedeutet die Erklärung, die von einer obersten Muttergesellschaft, einer beauftragten einreichenden Einheit, einer beauftragten inländischen Einheit oder einer Geschäftseinheit nach dem innerstaatlichen Recht, den innerstaatlichen Vorschriften und/oder den innerstaatlichen Verfahren des Staates eingereicht wird, in dem die betreffende Einheit belegen ist, und die formal und inhaltlich der vom *Inclusive Frame**work on Base Erosion and Profit Shifting* der OECD und der G20 genehmigten standardisierten GloBE‑Erklärung entspricht.
+- c) Der Ausdruck «GloBE-Erklärung» bedeutet die Erklärung, die von einer obersten Muttergesellschaft, einer beauftragten einreichenden Einheit, einer beauftragten inländischen Einheit oder einer Geschäftseinheit nach dem innerstaatlichen Recht, den innerstaatlichen Vorschriften und/oder den innerstaatlichen Verfahren des Staates eingereicht wird, in dem die betreffende Einheit belegen ist, und die formal und inhaltlich der vom *Inclusive Framework on Base Erosion and Profit Shifting* der OECD und der G20 genehmigten standardisierten GloBE‑Erklärung entspricht.
 - d) Der Ausdruck «allgemeiner Abschnitt» bedeutet den Abschnitt der GloBE-Erklärung, der allgemeine Informationen zur multinationalen Unternehmensgruppe als Ganzes einschliesslich ihrer Unternehmensstruktur und einer kurzen Zusammenfassung der GloBE‑Informationen enthält und der mit Abschnitt 1 der vom *Inclusive Framework on Base Erosion and Profit Shifting* der OECD und der G20 genehmigten GloBE-Erklärung übereinstimmt.
 - e) Der Ausdruck «staatsbezogene Abschnitte» bedeutet die Abschnitte der GloBE-Erklärung, die in Bezug auf jeden Staat, in dem die multinationale Unternehmensgruppe tätig ist, Informationen zur genauen Anwendung der GloBE-Vorschriften und der QDMTT enthalten und die mit den Abschnitten 2 und 3 der vom *Inclusive Framework on Base Erosion and Profit Shifting* der OECD und der G20 genehmigten GloBE-Erklärung übereinstimmen.
 - f)
@@ -166,3 +168,36 @@ Sofern in dieser Vereinbarung nichts anderes vorgesehen ist, benachrichtigt das 
 Geschehen in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
 (Es folgen die Unterschriften)
+
+Geltungsbereich am 10. Juli 2026[^t-2]
+
+Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den Austausch von *Global-Anti-Base-Erosion*-Erklärungen in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 8 Absatz 2 dieser Vereinbarung:
+
+<table>
+<tr><th></th><th>Wirksam ab</th></tr>
+<tr><td>Australien</td><td>1. Januar 2024</td></tr>
+<tr><td>Dänemark</td><td>1. Januar 2024</td></tr>
+<tr><td>Finnland</td><td>1. Januar 2024</td></tr>
+<tr><td>Gibraltar</td><td>1. Januar 2024</td></tr>
+<tr><td>Hongkong (China)</td><td>1. Januar 2024</td></tr>
+<tr><td>Irland</td><td>1. Januar 2024</td></tr>
+<tr><td>Italien</td><td>1. Januar 2024</td></tr>
+<tr><td>Japan</td><td>1. Januar 2024</td></tr>
+<tr><td>Kanada</td><td>1. Januar 2024</td></tr>
+<tr><td>Korea (Süd-)</td><td>1. Januar 2024</td></tr>
+<tr><td>Kroatien</td><td>1. Januar 2024</td></tr>
+<tr><td>Liechtenstein</td><td>1. Januar 2024</td></tr>
+<tr><td>Luxemburg</td><td>1. Januar 2024</td></tr>
+<tr><td>Niederlande</td><td>1. Januar 2024</td></tr>
+<tr><td>Norwegen</td><td>1. Januar 2024</td></tr>
+<tr><td>Österreich</td><td>1. Januar 2024</td></tr>
+<tr><td>Schweden</td><td>1. Januar 2024</td></tr>
+<tr><td>Slowakei</td><td>1. Januar 2024</td></tr>
+<tr><td>Slowenien</td><td>1. Januar 2024</td></tr>
+<tr><td>Spanien</td><td>1. Januar 2024</td></tr>
+<tr><td>Südafrika</td><td>1. Januar 2024</td></tr>
+<tr><td>Ungarn</td><td>1. Januar 2024</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>1. Januar 2024</td></tr>
+</table>
+
+[^t-2]: [AS 2026 395](https://fedlex.data.admin.ch/eli/oc/2026/395). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

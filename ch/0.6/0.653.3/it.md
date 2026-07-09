@@ -3,11 +3,11 @@ sr: "0.653.3"
 title: Accordo multilaterale del 28 agosto 2025 tra Autorità competenti concernente lo scambio di Dichiarazioni di informazioni Global Anti-Base Erosion
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/872"
 language: it
-version: 2026-01-01
+version: 2026-07-10
 adopted: 2025-08-28
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/872/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2025-872-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/872/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/872/20260710/it/xml/fedlex-data-admin-ch-eli-cc-2025-872-20260710-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/872/20260710/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,11 @@ RO **2025** 872
 
 Traduzione
 
-Concluso il 28 agosto 2025 Applicato provvisoriamente dal 1° gennaio 2026
+Concluso il 28 agosto 2025 Applicato provvisoriamente dal 1° gennaio 2026 Entrato in vigore per la Svizzera il 10 luglio 2026[^t-1]
 
-(Stato 1° gennaio 2026)
+(Stato 10 luglio 2026)
+
+[^t-1]: [RU 2026 396](https://fedlex.data.admin.ch/eli/oc/2026/396)
 
 Considerato che le Giurisdizioni dei firmatari dell’Accordo multilaterale tra Autorità competenti concernente lo scambio di Dichiarazioni di informazioni *Global Anti-Base Erosion* («Accordo») sono le Parti della Convenzione sulla reciproca assistenza amministrativa in materia fiscale o della stessa Convenzione sulla reciproca assistenza amministrativa in materia fiscale così come emendata dal Protocollo (insieme «Convenzione», singolarmente «Convenzione originaria» o «Convenzione modificata»), o i territori compresi da questa Convenzione;
 
@@ -164,3 +166,36 @@ Salvo se stabilito diversamente nel presente Accordo, il Segretariato dell’Org
 Fatto in francese e in inglese, entrambi i testi facenti ugualmente fede.
 
 (Seguono le firme)
+
+Campo d’applicazione il 10 luglio 2026[^t-2]
+
+La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra Autorità competenti concernente lo scambio di Dichiarazioni di informazioni *Global Anti-Base Erosion* verso gli Stati e i territori seguenti conformemente al paragrafo 2 della sezione 8 del presente Accordo:
+
+<table>
+<tr><th></th><th>Con effetto dal</th></tr>
+<tr><td>Australia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Austria</td><td>1° gennaio 2024</td></tr>
+<tr><td>Canada</td><td>1° gennaio 2024</td></tr>
+<tr><td>Corea (Sud)</td><td>1° gennaio 2024</td></tr>
+<tr><td>Croazia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Danimarca</td><td>1° gennaio 2024</td></tr>
+<tr><td>Finlandia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Giappone</td><td>1° gennaio 2024</td></tr>
+<tr><td>Gibilterra</td><td>1° gennaio 2024</td></tr>
+<tr><td>Hong Kong (Cina)</td><td>1° gennaio 2024</td></tr>
+<tr><td>Irlanda</td><td>1° gennaio 2024</td></tr>
+<tr><td>Italia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Liechtenstein</td><td>1° gennaio 2024</td></tr>
+<tr><td>Lussemburgo</td><td>1° gennaio 2024</td></tr>
+<tr><td>Norvegia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Paesi Bassi</td><td>1° gennaio 2024</td></tr>
+<tr><td>Regno Unito</td><td>1° gennaio 2024</td></tr>
+<tr><td>Slovacchia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Slovenia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Spagna</td><td>1° gennaio 2024</td></tr>
+<tr><td>Sudafrica</td><td>1° gennaio 2024</td></tr>
+<tr><td>Svezia</td><td>1° gennaio 2024</td></tr>
+<tr><td>Ungheria</td><td>1° gennaio 2024</td></tr>
+</table>
+
+[^t-2]: [RU 2026 395](https://fedlex.data.admin.ch/eli/oc/2026/395). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
