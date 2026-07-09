@@ -4,11 +4,12 @@ number: "922.110"
 title: "Arrêté sur l'exercice de la chasse en Valais 2026-2027"
 language: fr
 version: 2026-07-01
+corrected: 2026-07-10
 version_adopted: 2026-07-08
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3642/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3621/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -393,7 +394,7 @@ arrête:[^ingress-1]
 
 **c) Chasse au lièvre brun et variable et lapin de garenne**
 
-<sup>1</sup> La chasse est autorisée à partir du 6 octobre 2026 jusqu'au 28 novembre 2026.
+<sup>1</sup> La chasse est autorisée à partir du 27 octobre 2026 jusqu'au 28 novembre 2026.
 
 <sup>2</sup> Les dispositions relatives à l'utilisation des chiens selon l'article 29 du présent arrêté sont applicables.
 

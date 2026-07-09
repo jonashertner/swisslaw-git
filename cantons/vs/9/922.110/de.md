@@ -4,11 +4,12 @@ number: "922.110"
 title: Beschluss über die Ausübung der Jagd im Wallis 2026-2027
 language: de
 version: 2026-07-01
+corrected: 2026-07-10
 version_adopted: 2026-07-08
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/de/versions/3642/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3621/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -393,7 +394,7 @@ beschliesst:[^ingress-1]
 
 **c) Feldhasen-, Schneehasen- und Wildkaninchenjagd**
 
-<sup>1</sup> Die Jagd ist gestattet vom 6. Oktober 2026 bis 28. November 2026.
+<sup>1</sup> Die Jagd ist gestattet vom 27. Oktober 2026 bis 28. November 2026.
 
 <sup>2</sup> Zum Einsatz von Hunden gelten die Bestimmungen gemäss Artikel 29 des vorliegenden Beschlusses.
 
