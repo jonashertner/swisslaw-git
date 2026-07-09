@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protocole du 1<sup>er</sup> mars 1973 sur les marques routières, additionnel à l'Accord européen complétant la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: fr
-version: 2025-10-23
+version: 2026-07-10
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20251023/fr/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20251023-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20251023/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20260710/fr/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20260710-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20260710/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 1<sup>er</sup> mars 1973 Approuvé par l’Assemblée fédérale le 15 décembre 1978[^t-1] Instrument de ratification déposé par la Suisse le 11 décembre 1991 Entré en vigueur pour la Suisse le 11 décembre 1992
 
-(État le 23 octobre 2025)
+(État le 10 juillet 2026)
 
 [^t-1]: Art. 1 al. 1 let. e de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -435,14 +435,14 @@ Ce paragraphe se lira comme suit:
 
 «Le diagramme A‑57 donne un exemple de marques sur un obstacle. Pour effectuer ce marquage, il devrait être employé des bandes alternées noires et blanches ou noires et jaunes.»
 
-**Diagrammes**
+## Diagrammes
+
+[^t-2]: Mise à jour par les Am. entrés en vigueur le 27 nov. 1995 ([RO 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) et l’Am. entré en vigueur le 28 mars 2006 ([RO 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
+[^t-3]: Compte tenu des caractéristiques actuelles de la construction automobile, il est conseillé de considérer 1 m (3 pieds, 4 pouces) comme la hauteur de l’œil, et 1 m 20 (4 pieds) comme la hauteur de l’objet.
 
 Diagramme A-1
 
 **Marques longitudinales\***
-
-[^t-2]: Mise à jour par les Am. entrés en vigueur le 27 nov. 1995 ([RO 1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502)) et l’Am. entré en vigueur le 28 mars 2006 ([RO 2007 3713](https://fedlex.data.admin.ch/eli/oc/2007/468)).
-[^t-3]: Compte tenu des caractéristiques actuelles de la construction automobile, il est conseillé de considérer 1 m (3 pieds, 4 pouces) comme la hauteur de l’œil, et 1 m 20 (4 pieds) comme la hauteur de l’objet.
 
 Diagramme A-2
 
@@ -630,7 +630,7 @@ Diagramme A-56
 
 Marquage signalant l’interdiction du stationnement
 
-Champ d’application le 23 octobre 2025[^t-4]
+Champ d’application le 10 juillet 2026[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -644,7 +644,7 @@ Champ d’application le 23 octobre 2025[^t-4]
 <tr><td>Bulgarie\*</td><td>28 décembre</td><td>1978 A</td><td>25 avril</td><td>1985</td></tr>
 <tr><td>Chypre\* \*\*</td><td>16 août</td><td>2016 A</td><td>16 août</td><td>2017</td></tr>
 <tr><td>Danemark\*</td><td>3 novembre</td><td>1986 A</td><td>3 novembre</td><td>1987</td></tr>
-<tr><td>Finlande\*</td><td>1<sup>er</sup> avril</td><td>1985 A</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
+<tr><td>Finlande</td><td>1<sup>er</sup> avril</td><td>1985 A</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
 <tr><td>Géorgie</td><td>15 mai</td><td>2001 A</td><td>15 mai</td><td>2002</td></tr>
 <tr><td>Grèce\*\*</td><td>18 décembre</td><td>1986 A</td><td>18 décembre</td><td>1987</td></tr>
 <tr><td>Hongrie\*</td><td>16 mars</td><td>1976</td><td>25 avril</td><td>1985</td></tr>
@@ -656,7 +656,7 @@ Champ d’application le 23 octobre 2025[^t-4]
 <tr><td>Moldova</td><td>27 octobre</td><td>2015 A</td><td>27 octobre</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Pays-Bas\* <sup>a</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
-<tr><td>Pologne<sup>\*</sup></td><td>23 août</td><td>1984 A</td><td>23 août</td><td>1985</td></tr>
+<tr><td>Pologne\*</td><td>23 août</td><td>1984 A</td><td>23 août</td><td>1985</td></tr>
 <tr><td>République tchèque\*</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Russie\*</td><td>6 avril</td><td>1984 A</td><td>25 avril</td><td>1985</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
@@ -669,7 +669,7 @@ Champ d’application le 23 octobre 2025[^t-4]
 <tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-4]: [RO 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38);[2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329); [2025 656](https://fedlex.data.admin.ch/eli/oc/2025/656). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38);[2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329); [2025 656](https://fedlex.data.admin.ch/eli/oc/2025/656); [2026 389](https://fedlex.data.admin.ch/eli/oc/2026/389). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

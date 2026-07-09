@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protocollo del 1<sup>o</sup> marzo 1973 sulla segnaletica sul piano stradale aggiuntivo all'Accordo europeo completante la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: it
-version: 2025-10-23
+version: 2026-07-10
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20251023/it/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20251023-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20251023/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20260710/it/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20260710-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20260710/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 1° marzo 1973 Approvato dall’Assemblea federale il 15 dicembre 1978[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 dicembre 1991 Entrato in vigore per la Svizzera l’11 dicembre 1992
 
-(Stato 23 ottobre 2025)
+(Stato 10 luglio 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. e del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -630,7 +630,7 @@ Figura A-57
 
 Segnalamento di un ostacolo
 
-Campo d’applicazione il 23 giugno 2023[^t-4]
+Campo d’applicazione il 10 luglio 2026[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -642,12 +642,12 @@ Campo d’applicazione il 23 giugno 2023[^t-4]
 <tr><td>Bosnia e Erzegovina</td><td>12 gennaio</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>28 dicembre</td><td>1978 A</td><td>25 aprile</td><td>1985</td></tr>
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td>Cipro<sup>\*</sup></td><td>16 agosto</td><td>2016 A</td><td>16 agosto</td><td>2017</td></tr>
+<tr><td>Cipro<sup>\*</sup> <sup>\*\*</sup></td><td>16 agosto</td><td>2016 A</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Danimarca<sup>\*</sup></td><td>3 novembre</td><td>1986 A</td><td>3 novembre</td><td>1987</td></tr>
-<tr><td>Finlandia<sup>\*</sup></td><td>1° aprile</td><td>1985 A</td><td>1° aprile</td><td>1986</td></tr>
+<tr><td>Finlandia</td><td>1° aprile</td><td>1985 A</td><td>1° aprile</td><td>1986</td></tr>
 <tr><td>Georgia</td><td>15 maggio</td><td>2001 A</td><td>15 maggio</td><td>2002</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>3 agosto</td><td>1978</td><td>25 aprile</td><td>1985</td></tr>
-<tr><td>Grecia</td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
+<tr><td>Grecia<sup>\*\*</sup></td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
 <tr><td>Italia</td><td>7 febbraio</td><td>1997 A</td><td>7 febbraio</td><td>1998</td></tr>
 <tr><td>Kazakistan</td><td>7 giugno</td><td>2011 A</td><td>7 giugno</td><td>2012</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>2 marzo</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
@@ -666,10 +666,10 @@ Campo d’applicazione il 23 giugno 2023[^t-4]
 <tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>31 agosto</td><td>2021</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>9 maggio</td><td>1984 A</td><td>9 maggio</td><td>1985</td></tr>
 <tr><td>Ungheria</td><td>16 marzo</td><td>1976</td><td>25 aprile</td><td>1985</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://treaties.un.org](https://treaties.un.org) / &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-4]: [RU 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38); [2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
+[^t-4]: [RU 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38); [2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329); [2025 656](https://fedlex.data.admin.ch/eli/oc/2025/656); [2026 389](https://fedlex.data.admin.ch/eli/oc/2026/389). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)).
 
 Riserve e dichiarazioni
 
