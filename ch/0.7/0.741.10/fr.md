@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Convention du 8 novembre 1968 sur la circulation routière (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: fr
-version: 2025-02-09
+version: 2026-07-10
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20250209-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20250209/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20260710-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20260710/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Vienne le 8 novembre 1968 Approuvée par l’Assemblée fédérale le 15 décembre 1978[^t-1] Instrument de ratification déposé par la Suisse le 11 décembre 1991 Entrée en vigueur pour la Suisse le 11 décembre 1992
 
-(État le 9 février 2025)
+(État le 10 juillet 2026)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -97,13 +97,13 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 
 [^1-1]: Introduite par les Am. du 14 déc. 2020, en vigueur pour la Suisse depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 [^1-2]: Introduite par les Am. du 14 déc. 2020, en vigueur pour la Suisse depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
-[^1-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
-[^1-4]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
+[^1-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 3).
+[^1-4]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 3).
 [^1-5]: Introduite par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^1-6]: Introduite par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^1-7]: Nouveau terme selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-8]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
-[^1-9]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
+[^1-8]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 3).
+[^1-9]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 3).
 
 #### Art. 2
 
@@ -150,7 +150,7 @@ Les annexes de la présente Convention, savoir:
 
 <sup>8.</sup> Les dispositions des paragraphes 3, 5 et 7 du présent article ne font pas obstacle au droit de chaque Partie contractante de subordonner l’admission sur son territoire, en circulation internationale, des automobiles, des remorques, des cycles et des cyclomoteurs, ainsi que de leurs conducteurs et de leurs occupants, à sa réglementation des transports commerciaux de voyageurs et de marchandises, à sa réglementation en matière d’assurance de la responsabilité civile des conducteurs et à sa réglementation en matière de douane, ainsi que, d’une façon générale, à ses réglementations dans les domaines autres que la circulation routière.
 
-[^3-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 4).
+[^3-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 4).
 [^3-2]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^3-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^3-4]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
@@ -172,7 +172,7 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
   - ii) de mettre en place des panneaux, affiches, marques ou installations qui risquent soit d’être confondus avec des signaux ou d’autres installations servant à régler la circulation, soit d’en réduire la visibilité ou l’efficacité, soit d’éblouir les usagers de la route ou de distraire leur attention de façon dangereuse pour la sécurité de la circulation,
   - iii)[^4-3] d’installer sur les trottoirs et accotements des dispositifs ou équipements susceptibles de gêner inutilement la circulation des piétons, notamment des personnes âgées et des handicapés.
 
-[^4-1]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^4-1]: [RS 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
 [^4-2]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^4-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
@@ -204,7 +204,7 @@ Il est recommandé que les législations nationales prévoient que sont notammen
 
 <sup>4.</sup> Les injonctions des agents réglant la circulation prévalent sur les prescriptions indiquées par les signaux routiers, les signaux lumineux de circulation ou les marques routières, ainsi que sur les règles de circulation.
 
-[^6-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 5).
+[^6-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 5).
 
 #### Art. 7
 
@@ -222,11 +222,11 @@ Il est recommandé que les législations nationales prévoient que sont notammen
 
 …[^7-5]
 
-[^7-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 6).
+[^7-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 6).
 [^7-2]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^7-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^7-4]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^7-5]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 6).
+[^7-5]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 6).
 
 #### Art. 8
 
@@ -250,10 +250,10 @@ Les systèmes embarqués ayant une incidence sur la conduite d’un véhicule qu
 
 <sup>6.</sup> Le conducteur d’un véhicule doit éviter toute activité autre que la conduite. La législation nationale devrait prescrire des règles sur l’utilisation des téléphones par les conducteurs de véhicules. En tout cas, la législation doit interdire l’utilisation par le conducteur d’un véhicule à moteur ou d’un cyclomoteur d’un téléphone tenu à la main lorsque le véhicule est en mouvement.[^8-6]
 
-[^8-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 7).
-[^8-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 7).
-[^8-3]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 7).
-[^8-4]: Les Règlements de l’ONU annexés à l’Accord concernant l’adoption de prescriptions techniques uniformes applicables aux véhicules à roues, aux équipements et aux pièces susceptibles d’être montés et/ou utilisés sur un véhicule à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces prescriptions, fait à Genève, le 20 mars 1958 ([RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)). Les Règlements techniques mondiaux de l’ONU élaborés dans le cadre de l’Accord concernant l’établissement de règlements techniques mondiaux applicables aux véhicules à roues, ainsi qu’aux équipements et pièces qui peuvent être montés et/ou utilisés sur les véhicules à roues, fait à Genève, le 25 juin 1998.
+[^8-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 7).
+[^8-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 7).
+[^8-3]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 7).
+[^8-4]: Les Règlements de l’ONU annexés à l’Accord concernant l’adoption de prescriptions techniques uniformes applicables aux véhicules à roues, aux équipements et aux pièces susceptibles d’être montés et/ou utilisés sur un véhicule à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces prescriptions, fait à Genève, le 20 mars 1958 ([RS 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)). Les Règlements techniques mondiaux de l’ONU élaborés dans le cadre de l’Accord concernant l’établissement de règlements techniques mondiaux applicables aux véhicules à roues, ainsi qu’aux équipements et pièces qui peuvent être montés et/ou utilisés sur les véhicules à roues, fait à Genève, le 25 juin 1998.
 [^8-5]: Al. introduit par les Am. du 26 mars 2014, en vigueur depuis le 23 mars 2016 ([RO 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
 [^8-6]: Introduit par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
@@ -263,7 +263,7 @@ Les systèmes embarqués ayant une incidence sur la conduite d’un véhicule qu
 
 Il est recommandé que les législations nationales prévoient que, sauf dérogation accordée pour faciliter les migrations, les troupeaux soient fractionnés en tronçons de longueur modérée et séparés les uns des autres par des intervalles suffisamment grands pour la commodité de la circulation.
 
-[^9-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 8).
+[^9-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 8).
 
 #### Art. 10
 
@@ -284,8 +284,8 @@ Il est recommandé que les législations nationales prévoient que, sauf déroga
 
 <sup>6.</sup> Sans préjudice des dispositions de l’article 11, si une voie additionnelle est indiquée par des signaux, tout conducteur de véhicule qui se déplace lentement doit utiliser cette voie.[^10-3]
 
-[^10-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 9).
-[^10-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 9).
+[^10-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 9).
+[^10-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 9).
 [^10-3]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
 #### Art. 11
@@ -351,11 +351,11 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
 
 [^11-1]: Introduit par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^11-2]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^11-3]: Non applicable selon la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 10).
-[^11-4]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 10).
-[^11-5]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 10).
+[^11-3]: Non applicable selon la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 10).
+[^11-4]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 10).
+[^11-5]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 10).
 [^11-6]: Nouveau terme selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^11-7]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 10).
+[^11-7]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 10).
 
 #### Art. 12
 
@@ -365,7 +365,7 @@ Sans préjudice des dispositions du paragraphe 2 du présent article et d’autr
 
 <sup>2.</sup> Sur les routes de montagne et sur les routes à forte pente qui ont des caractéristiques similaires, où le croisement est impossible ou difficile, il incombe au conducteur du véhicule descendant de ranger son véhicule pour laisser passer tout véhicule montant, sauf dans le cas où la façon dont sont disposés le long de la chaussée des refuges pour permettre aux véhicules de se ranger est telle que, compte tenu de la vitesse et de la position des véhicules, le véhicule montant dispose d’un refuge devant lui et qu’une marche arrière d’un des véhicules serait nécessaire si le véhicule montant ne se rangeait pas sur ce refuge. Dans le cas où l’un des deux véhicules qui vont se croiser doit faire marche arrière pour permettre le croisement, c’est le conducteur du véhicule descendant qui doit faire cette manoeuvre, sauf si celle-ci est manifestement plus facile pour le conducteur du véhicule montant. Les Parties contractantes ou leurs subdivisions peuvent, toutefois, pour certains véhicules ou certaines routes ou sections de routes, prescrire des règles spéciales différentes de celles du présent paragraphe.[^12-1]
 
-[^12-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 11).
+[^12-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 11).
 
 #### Art. 13
 
@@ -389,8 +389,8 @@ En dehors des agglomérations, en vue de faciliter les dépassements, les conduc
 - b) les Parties contractantes ou leurs subdivisions peuvent fixer des chiffres différents de ceux qui sont mentionnés au présent paragraphe pour les caractéristiques des véhicules en cause.[^13-3]
 
 [^13-1]: Mis à jour selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^13-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 12).
-[^13-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 12).
+[^13-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 12).
+[^13-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 12).
 
 #### Art. 14
 
@@ -402,7 +402,7 @@ En dehors des agglomérations, en vue de faciliter les dépassements, les conduc
 
 <sup>3.</sup> Avant de tourner ou d’accomplir une manœuvre impliquant un déplacement latéral, tout conducteur doit annoncer son intention clairement et suffisamment à l’avance au moyen de l’indicateur ou des indicateurs de direction de son véhicule, ou, à défaut, en faisant si possible un signe approprié avec le bras. L’indication donnée par le ou les indicateurs de direction doit continuer à être donnée pendant toute la durée de la manoeuvre. L’indication doit cesser dès que la manoeuvre est accomplie.
 
-[^14-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 13).
+[^14-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 13).
 
 #### Art. 15
 
@@ -410,7 +410,7 @@ En dehors des agglomérations, en vue de faciliter les dépassements, les conduc
 
 Il est recommandé que les législations nationales prévoient que, dans les agglomérations, afin de faciliter la circulation des véhicules des services réguliers de transport en commun, les conducteurs des autres véhicules, sous réserve des dispositions du paragraphe 1 de l’article 17 de la présente Convention, ralentissent et, au besoin, s’arrêtent pour laisser ces véhicules de transport en commun effectuer la manoeuvre nécessaire pour se remettre en mouvement au départ des arrêts signalés comme tels. Les dispositions ainsi édictées par les Parties contractantes ou leurs subdivisions ne modifient en rien l’obligation pour les conducteurs de véhicules de transport en commun de prendre, après avoir annoncé au moyen de leurs indicateurs de direction leur intention de se remettre en mouvement, les précautions nécessaires pour éviter tout risque d’accident.
 
-[^15-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 14).
+[^15-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 14).
 
 #### Art. 16
 
@@ -461,10 +461,10 @@ Sous réserve des dispositions du paragraphe 7 du présent article:
 
 …[^18-4]
 
-[^18-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 15).
-[^18-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 15).
+[^18-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 15).
+[^18-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 15).
 [^18-3]: Mots abrogés par les Am. entrés en vigueur le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^18-4]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 15).
+[^18-4]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 15).
 
 #### Art. 19
 
@@ -514,11 +514,11 @@ S’il existe, en bordure de la chaussée, des trottoirs ou des accotements prat
 
 <sup>7.</sup> Toutefois, les Parties contractantes ou leurs subdivisions peuvent édicter des dispositions plus strictes pour les piétons traversant la chaussée.
 
-[^20-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 16).
-[^20-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 16).
-[^20-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 16).
-[^20-4]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 16).
-[^20-5]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 16).
+[^20-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 16).
+[^20-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 16).
+[^20-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 16).
+[^20-4]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 16).
+[^20-5]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 16).
 
 #### Art. 21
 
@@ -545,8 +545,8 @@ Aucune disposition du présent article ne sera interprétée comme empêchant le
 …[^21-3]
 
 [^21-1]: Mis à jour selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^21-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 17).
-[^21-3]: Pour les par. introduits, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 17).
+[^21-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 17).
+[^21-3]: Pour les par. introduits, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 17).
 
 #### Art. 22
 
@@ -615,16 +615,16 @@ Il est recommandé que les législations nationales prévoient que tout véhicul
 
 [^23-1]: Nouvelle teneur de la phrase selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^23-2]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
-[^23-4]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
-[^23-5]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
+[^23-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 18).
+[^23-4]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 18).
+[^23-5]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 18).
 [^23-6]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-7]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-8]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
+[^23-8]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 18).
 [^23-9]: Abrogé par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-10]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
+[^23-10]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 18).
 [^23-11]: Nouvelle teneur selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^23-12]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 18).
+[^23-12]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 18).
 
 #### Art. 24
 
@@ -657,11 +657,11 @@ Sur les autoroutes et, si la législation nationale en dispose ainsi, sur les ro
 
 <sup>4.</sup> Pour l’application des paragraphes 1, 2 et 3 du présent article, sont assimilées aux autoroutes les autres routes réservées à la circulation automobile dûment signalées comme telles et ne desservant pas les propriétés riveraines.[^25-5]
 
-[^25-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 19).
-[^25-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 19).
+[^25-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 19).
+[^25-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 19).
 [^25-3]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^25-4]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 19).
-[^25-5]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 19).
+[^25-4]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 19).
+[^25-5]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 19).
 
 #### Art. 25<sup>bis</sup>
 
@@ -711,15 +711,15 @@ Il est interdit à tout conducteur:
 
 …[^27-3]
 
-[^27-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
+[^27-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 20).
 [^27-2]: Nouvelle teneur selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^27-3]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
+[^27-3]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 20).
 
 #### Art. 27<sup>bis</sup> à 27<sup>quater</sup>
 
 [^27bis27quater-1]
 
-[^27bis27quater-1]: Pour les art. 27 <sup>bis</sup> à 27 <sup>quater</sup> introduits, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20<sup>bis</sup>).
+[^27bis27quater-1]: Pour les art. 27 <sup>bis</sup> à 27 <sup>quater</sup> introduits, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 20<sup>bis</sup>).
 
 #### Art. 28
 
@@ -748,8 +748,8 @@ Il peut seulement être fait usage des avertisseurs sonores:
 
 …[^29-2]
 
-[^29-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 21).
-[^29-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 21).
+[^29-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 21).
+[^29-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 21).
 
 #### Art. 30
 
@@ -777,7 +777,7 @@ Les chargements dépassant du véhicule vers l’avant, vers l’arrière ou sur
 
 <sup>5.</sup> Rien dans le paragraphe 4 du présent article ne saurait être interprété comme empêchant les Parties contractantes ou leurs subdivisions d’interdire, de limiter ou de soumettre à autorisation spéciale les dépassements du chargement visés audit paragraphe 4.
 
-[^30-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 22).
+[^30-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 22).
 
 #### Art. 30<sup>bis</sup>
 
@@ -803,7 +803,7 @@ Sans préjudice des dispositions des législations nationales en ce qui concerne
 
 <sup>2.</sup> Les Parties contractantes ou leurs subdivisions peuvent, dans leur législation nationale, s’abstenir d’imposer la prescription prévue à l’alinéa d du paragraphe 1 du présent article, lorsqu’aucune blessure grave n’a été causée et qu’aucune des personnes impliquées dans l’accident n’exige que la police soit avertie.
 
-[^31-1]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 24).
+[^31-1]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 24).
 
 #### Art. 32
 
@@ -908,7 +908,7 @@ Les feux spéciaux d’avertissement:
 
 <sup>4.</sup> Pour dépasser ou croiser les engins visés au paragraphe 3 du présent article pendant qu’ils participent aux travaux sur la route, les conducteurs des autres véhicules peuvent, dans la mesure nécessaire et à condition de prendre toutes précautions utiles, ne pas observer les dispositions des articles 11 et 12 de la présente Convention.
 
-[^34-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 26).
+[^34-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 26).
 
 #### Art. 34<sup>bis</sup>
 
@@ -1132,9 +1132,9 @@ Sur le territoire des Parties contractantes qui n’ont pas, conformément au pa
 
 <sup>3.</sup> Sur le territoire des Parties contractantes qui ont, conformément au paragraphe 2 de l’article 54 de la présente Convention, fait une déclaration assimilant les cyclomoteurs aux motocycles, les conditions à remplir par les cyclomoteurs pour être admis en circulation internationale sont celles qui sont définies pour les motocycles à l’annexe 5 de la présente Convention.
 
-[^44-1]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 27).
-[^44-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 27).
-[^44-3]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 27).
+[^44-1]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 27).
+[^44-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 27).
+[^44-3]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 27).
 
 ## Chapitre VI Dispositions finales
 
@@ -1148,7 +1148,7 @@ Sur le territoire des Parties contractantes qui n’ont pas, conformément au pa
 
 <sup>4.</sup> Au moment où il signera la présente Convention ou déposera son instrument de ratification ou d’adhésion, tout État notifiera au Secrétaire général le signe distinctif qu’il choisit pour être apposé en circulation internationale sur les véhicules qu’il a immatriculés, conformément aux dispositions de l’annexe 3 de la présente Convention. Par une autre notification adressée au Secrétaire général, tout État peut changer un signe distinctif qu’il avait précédemment choisi.
 
-[^45-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^45-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 46
 
@@ -1168,7 +1168,7 @@ Sur le territoire des Parties contractantes qui n’ont pas, conformément au pa
 
 À son entrée en vigueur, la présente Convention abrogera et remplacera, dans les relations entre les Parties contractantes, la Convention internationale relative à la circulation automobile[^48-1] et la Convention internationale relative à la circulation routière signées l’une et l’autre à Paris le 24 avril 1926, la Convention sur la réglementation de la circulation automobile interaméricaine ouverte à la signature à Washington le 15 décembre 1943 et la Convention sur la circulation routière ouverte à la signature à Genève le 19 septembre 1949.
 
-[^48-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
+[^48-1]: [RS 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824)
 
 #### Art. 49
 
@@ -1207,7 +1207,7 @@ Tout différend entre deux ou plusieurs Parties contractantes touchant l’inter
 
 Aucune disposition de la présente Convention ne sera interprétée comme interdisant à une Partie contractante de prendre les mesures compatibles avec les dispositions de la Charte des Nations Unies[^53-1] et limitées aux exigences de la situation qu’elle estime nécessaires pour sa sécurité extérieure ou intérieure.
 
-[^53-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^53-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 54
 
@@ -1279,13 +1279,13 @@ Annexe 1[^t-2]
 
 \7. Les Parties contractantes peuvent subordonner l’admission en circulation internationale, sur certaines routes difficiles ou dans certaines régions à relief difficile de leur territoire, des automobiles dont la masse maximale autorisée dépasse 3500 kg (7700 livres) au respect des prescriptions spéciales imposées par leur législation nationale pour l’admission sur ces routes ou dans ces régions des véhicules de même masse maximale autorisée qu’elles immatriculent.
 
-7<sup>bis</sup> …[^annex1-lvlu1-1]
+7<sup>bis</sup>. …[^annex1-lvlu1-1]
 
 \8. Les Parties contractantes peuvent ne pas admettre en circulation internationale sur leur territoire toute automobile munie de feux de croisement à faisceau asymétrique lorsque le réglage des faisceaux n’est pas adapté au sens de la circulation sur leur territoire.
 
 \9. Les Parties contractantes peuvent ne pas admettre en circulation internationale sur leur territoire toute automobile ou toute remorque attelée à une automobile qui porterait un signe distinctif autre que l’un de ceux prévus à l’art. 37 de la présente Convention. Toutefois, elles ne peuvent refuser l’admission du véhicule lorsqu’il est apposé séparément de la plaque d’immatriculation un signe distinctif conforme aux dispositions de la présente Convention et qui viendrait suppléer un signe distinctif incorporé à la plaque d’immatriculation et non conforme aux dispositions de la présente Convention.
 
-[^annex1-lvlu1-1]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 28).
+[^annex1-lvlu1-1]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)annexe ch. 28).
 
 Annexe 2[^t-3]
 
@@ -1780,13 +1780,13 @@ Annexe 6[^t-6]
 
 <table>
 <tr><td colspan="2">Code de la catégorie / Pictogramme</td><td colspan="2">Code de la sous-catégorie / Pictogramme</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Le lieu de naissance peut être remplacé par d’autres précisions définies par la législation nationale.
@@ -1805,7 +1805,7 @@ Annexe 7[^t-7]
 
 \4. Les Parties contractantes délivrant ou autorisant la délivrance des permis de conduire internationaux dont le feuillet de couverture est imprimé dans une langue qui n’est ni l’anglais, ni l’espagnol, ni le français, ni le russe communiqueront au Secrétaire général de l’Organisation des Nations Unies la traduction dans cette langue du texte du modèle n<sup>o</sup> 3 ci-après.
 
-**Page** **modèle** **n****<sup>o</sup>** **1**
+**Page modèle n****<sup>o</sup>** **1**
 
 (Recto du premier feuillet de la couverture)
 
@@ -1831,17 +1831,17 @@ Annexe 7[^t-7]
 
 (Verso du premier feuillet de la couverture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image14.png)
 
 **Modèle 3** (page de gauche)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image15.png)
 
 Modèle 3 (page de droite)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/fr/xml/image/image16.png)
 
-Champ d’application le 2 octobre 2024[^t-8]
+Champ d’application le 10 juillet 2026[^t-8]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
@@ -1872,7 +1872,7 @@ Champ d’application le 2 octobre 2024[^t-8]
 <tr><td>émirats arabes unis</td><td>10 janvier</td><td>2007 A</td><td>10 janvier</td><td colspan="2">2008</td></tr>
 <tr><td>Estonie\*</td><td>24 août</td><td>1992 A</td><td>24 août</td><td colspan="2">1993</td></tr>
 <tr><td>Éthiopie</td><td>25 août</td><td>2021 A</td><td>25 août</td><td colspan="2">2022</td></tr>
-<tr><td>Finlande\*</td><td>1<sup>er</sup> avril</td><td>1985</td><td colspan="2">1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
+<tr><td>Finlande\*</td><td>1<sup>er</sup> avril</td><td>1985</td><td>1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
 <tr><td>France</td><td>9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Territoires d’outre-mer</td><td>9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Géorgie</td><td>23 juillet</td><td>1993 A</td><td>23 juillet</td><td colspan="2">1994</td></tr>
@@ -1943,7 +1943,7 @@ Champ d’application le 2 octobre 2024[^t-8]
 <tr><td colspan="6">\* Réserves et déclarations. (les \* de tous les États parties concernant le signe distinctif des véhicules en circulation internationale, selon l’art. 45, par. 4, ne figurent pas dans le champ d’application ci-dessus). Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/) ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544); [2026 387](https://fedlex.data.admin.ch/eli/oc/2026/387). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
@@ -1968,7 +1968,7 @@ Ad annexe 1, paragraphe 1
 Selon le texte du paragraphe 1 de l’annexe 1, une Partie contractante peut ne pas admettre en circulation internationale sur son territoire uniquement les automobiles, remorques et ensembles de véhicules étrangers dont les poids, totaux ou par essieu, ou dont les dimensions excèdent les limites fixées par sa propre législation nationale. C’est pourquoi la Suisse considère comme n’étant pas conforme aux principes de la territorialité et de la non-discrimination visés par le texte du paragraphe 1 de l’annexe 1 toute application de ce paragraphe par une Partie contractante n’admettant pas en circulation internationale les automobiles, remorques et ensembles de véhicules dont les poids, totaux ou par essieu, ou dont les dimensions n’excèdent pas les limites fixées par sa propre législation nationale; dans ce cas, la Suisse se réserve le droit de prendre toute mesure utile pour défendre ses intérêts.
 
 [^t-9]: Le 12 déc. 2005, la Suisse a notifié au Secrétaire général de l’Organisation des Nations Unies sa décision de retirer la réserve formulée lors de sa ratification à l’égard de l’art. 11, par. 1, let. a, avec effet au 28 mars 2006 ([RO 2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293)).
-[^t-10]: [RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
+[^t-10]: [RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)
 
 Signe distinctif des véhicules en circulation internationale[^t-11]
 
@@ -1996,23 +1996,24 @@ Signe distinctif des véhicules en circulation internationale[^t-11]
 <tr><td>Égypte</td><td>EG</td><td>Gibraltar</td><td>GBZ</td></tr>
 <tr><td>Estonie</td><td>EST</td><td>Guernesey</td><td>GBG</td></tr>
 <tr><td>Finlande</td><td>FIN</td><td>Jersey</td><td>GBJ</td></tr>
-<tr><td>France (également applicable aux territoires d’outre-mer)</td><td>F</td><td>Russie</td><td>RUS</td></tr>
-<tr><td>Géorgie</td><td>GE</td><td>Saint-Marin</td><td>RSM</td></tr>
-<tr><td>Grèce</td><td>GR</td><td>Sénégal</td><td>SN</td></tr>
-<tr><td>Guyana</td><td>GUY</td><td>Serbie</td><td>SRB</td></tr>
-<tr><td>Hongrie</td><td>H</td><td>Seychelles</td><td>SY</td></tr>
-<tr><td>Iran</td><td>IR</td><td>Slovaquie</td><td>SK</td></tr>
-<tr><td>Israël</td><td>IL</td><td>Slovénie</td><td>SLO</td></tr>
-<tr><td>Italie</td><td>I</td><td>Suède</td><td>S</td></tr>
-<tr><td>Kazakhstan</td><td>KZ</td><td>Suisse</td><td>CH</td></tr>
-<tr><td>Kenya</td><td>E.A.K.</td><td>Tadjikistan</td><td>TJ</td></tr>
-<tr><td>Kirghizistan</td><td>KG</td><td>Thaïlande</td><td>T</td></tr>
-<tr><td>Koweït</td><td>KWT</td><td>Tunisie</td><td>TN</td></tr>
-<tr><td>Lettonie</td><td>LV</td><td>Turkménistan</td><td>TM</td></tr>
-<tr><td>Liechtenstein</td><td>FL</td><td>Ukraine</td><td>UA</td></tr>
-<tr><td>Lituanie</td><td>LT</td><td>Uruguay</td><td>ROU</td></tr>
-<tr><td>Luxembourg</td><td>L</td><td>Vietnam</td><td>VN</td></tr>
-<tr><td>Macédoine du Nord</td><td>MK</td><td>Zimbabwe</td><td>ZW</td></tr>
+<tr><td>Région autonome des îles Åland</td><td>AX</td><td>Russie</td><td>RUS</td></tr>
+<tr><td>France (également applicable aux territoires d’outre-mer)</td><td>F</td><td>Saint-Marin</td><td>RSM</td></tr>
+<tr><td>Géorgie</td><td>GE</td><td>Sénégal</td><td>SN</td></tr>
+<tr><td>Grèce</td><td>GR</td><td>Serbie</td><td>SRB</td></tr>
+<tr><td>Guyana</td><td>GUY</td><td>Seychelles</td><td>SY</td></tr>
+<tr><td>Hongrie</td><td>H</td><td>Slovaquie</td><td>SK</td></tr>
+<tr><td>Iran</td><td>IR</td><td>Slovénie</td><td>SLO</td></tr>
+<tr><td>Israël</td><td>IL</td><td>Suède</td><td>S</td></tr>
+<tr><td>Italie</td><td>I</td><td>Suisse</td><td>CH</td></tr>
+<tr><td>Kazakhstan</td><td>KZ</td><td>Tadjikistan</td><td>TJ</td></tr>
+<tr><td>Kenya</td><td>E.A.K.</td><td>Thaïlande</td><td>T</td></tr>
+<tr><td>Kirghizistan</td><td>KG</td><td>Tunisie</td><td>TN</td></tr>
+<tr><td>Koweït</td><td>KWT</td><td>Turkménistan</td><td>TM</td></tr>
+<tr><td>Lettonie</td><td>LV</td><td>Ukraine</td><td>UA</td></tr>
+<tr><td>Liechtenstein</td><td>FL</td><td>Uruguay</td><td>ROU</td></tr>
+<tr><td>Lituanie</td><td>LT</td><td>Vietnam</td><td>VN</td></tr>
+<tr><td>Luxembourg</td><td>L</td><td>Zimbabwe</td><td>ZW</td></tr>
+<tr><td>Macédoine du Nord</td><td>MK</td><td></td><td></td></tr>
 </table>
 
-[^t-11]: RO **2007** 3615; [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544).
+[^t-11]: RO **2007** 3615; [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544); [2026 387](https://fedlex.data.admin.ch/eli/oc/2026/387).

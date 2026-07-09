@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Übereinkommen vom 8. November 1968 über den Strassenverkehr (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: de
-version: 2025-02-09
+version: 2026-07-10
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20250209-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20250209/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20260710-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20260710/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 402; BBl **1978** I 1440
 
 Abgeschlossen in Wien am 8. November 1968 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 9. Februar 2025)
+(Stand am 10. Juli 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -151,15 +151,15 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
 
 [^1-1]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 [^1-2]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
-[^1-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
-[^1-4]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
+[^1-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 3).
+[^1-4]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 3).
 [^1-5]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^1-6]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^1-7]: Wort gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Diese Änd. ist im ganzen Übereink. berücksichtigt.
-[^1-8]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
+[^1-8]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 3).
 [^1-9]: Der Begriff «Kraftfahrzeug» wird in zwei verschiedenen Bedeutungen gebraucht. Wird er ohne Zusatz gebraucht, so hat er die ihm unter Bst. o zugeordnete Bedeutung. Wird er mit dem Zusatz «(Art. 1 Bst. p)» gebraucht, so hat er die ihm unter Bst. p zugeordnete Bedeutung.
 [^1-10]: Wort gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Diese Änd. ist im ganzen Übereink. berücksichtigt.
-[^1-11]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
+[^1-11]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 3).
 
 #### Art. 2
 
@@ -193,9 +193,9 @@ Die Anhänge zu diesem Übereinkommen, nämlich:
 
 <sup>5.</sup> Die Vertragsparteien sind gehalten, zum internationalen Verkehr in ihrem Hoheitsgebiet die Fahrräder und die Motorfahrräder zuzulassen, welche den in Kapitel V festgelegten technischen Bedingungen entsprechen und deren Führer ihren ordentlichen Wohnsitz im Hoheitsgebiet einer anderen Vertragspartei haben. Eine Vertragspartei kann nicht verlangen, dass die Führer von Fahrrädern oder Motorfahrrädern im internationalen Verkehr Besitzer eines Führerscheins sind; jedoch können die Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, welche die Motorfahrräder den Krafträdern gleichstellt, von den Führern von Motorfahrrädern im internationalen Verkehr einen Führerschein verlangen.
 
-5.<sup>bis</sup> Die Vertragsparteien ergreifen die erforderlichen Massnahmen, damit insbesondere in den Schulen in allen Stufen ein systematischer und fortlaufender Verkehrssicherheitsunterricht erteilt wird.[^3-2]
+5<sup>bis</sup>. Die Vertragsparteien ergreifen die erforderlichen Massnahmen, damit insbesondere in den Schulen in allen Stufen ein systematischer und fortlaufender Verkehrssicherheitsunterricht erteilt wird.[^3-2]
 
-5.<sup>ter</sup> In allen Fällen, in denen der Fahrunterricht für Fahrschüler durch professionelle Fahrschulen erteilt wird, müssen die innerstaatlichen Rechtsvorschriften Mindestanforderungen in Bezug auf die bisherige Tätigkeit und die berufliche Qualifikation der mit der Erteilung des Fahrunterrichts beauftragten Personen festlegen.[^3-3]
+5<sup>ter</sup>. In allen Fällen, in denen der Fahrunterricht für Fahrschüler durch professionelle Fahrschulen erteilt wird, müssen die innerstaatlichen Rechtsvorschriften Mindestanforderungen in Bezug auf die bisherige Tätigkeit und die berufliche Qualifikation der mit der Erteilung des Fahrunterrichts beauftragten Personen festlegen.[^3-3]
 
 <sup>6.</sup> Die Vertragsparteien sind verpflichtet, jeder darum ersuchenden Vertragspartei die notwendigen Auskünfte zur Ermittlung der Person zu geben, auf deren Namen ein Kraftfahrzeug (Art. 1 Bst. p) oder ein mit einem solchen Fahrzeug verbundener Anhänger in ihrem Hoheitsgebiet zugelassen ist, wenn aus dem vorgelegten Ersuchen hervorgeht, dass dieses Fahrzeug im Hoheitsgebiet der ersuchenden Vertragspartei in einen schweren Unfall verwickelt war oder der Fahrer dieses Fahrzeugs einen schwerwiegenden Verstoss gegen die Strassenverkehrsordnung begangen hat, der schwere Strafen oder einen Entzug der Fahrerlaubnis nach sich ziehen kann.[^3-4]
 
@@ -203,7 +203,7 @@ Die Anhänge zu diesem Übereinkommen, nämlich:
 
 <sup>8.</sup> Die Absätze 3, 5 und 7 stehen dem Recht jeder Vertragspartei nicht entgegen, die Zulassung von Kraftfahrzeugen (Art. 1 Bst. p) und Anhängern, von Fahrrädern und Motorfahrrädern sowie deren Führern und Mitfahrern zum internationalen Verkehr in ihrem Hoheitsgebiet ihrer Regelung über den gewerblichen Personen‑ und Güterverkehr, ihrer Regelung über die Haftpflichtversicherung der Führer, ihrer Regelung bezüglich der Verzollung sowie ganz allgemein ihren Vorschriften ausserhalb des Bereiches des Strassenverkehrs zu unterwerfen.
 
-[^3-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 4).
+[^3-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 4).
 [^3-2]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^3-3]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^3-4]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
@@ -222,7 +222,7 @@ Die Vertragsparteien dieses Übereinkommens, die nicht Vertragsparteien des Übe
   - ii) Tafeln, Schilder, Kennzeichen oder Einrichtungen angebracht werden, die zu Verwechslungen mit Verkehrszeichen oder anderen Einrichtungen zur Verkehrsregelung führen, deren Sichtbarkeit oder Wirksamkeit verringern oder die Verkehrsteilnehmer blenden oder ihre Aufmerksamkeit in für die Sicherheit des Verkehrs gefährlicher Weise ablenken könnten;
   - iii)[^4-3] auf Gehwegen und begehbaren Seitenstreifen keine Vorrichtungen oder Geräte angebracht werden, die den Fussgängerverkehr, insbesondere ältere und behinderte Personen, unnötig beeinträchtigen könnten.
 
-[^4-1]: [SR 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^4-1]: [SR 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
 [^4-2]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^4-3]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
@@ -254,7 +254,7 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften insbesondere als Z
 
 <sup>4.</sup> Die Zeichen und Weisungen der den Verkehr regelnden Polizisten gehen den durch Strassenverkehrszeichen, Verkehrslichtzeichen oder Strassenmarkierungen angezeigten Vorschriften sowie den Verkehrsregeln vor.
 
-[^6-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 5).
+[^6-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 5).
 
 #### Art. 7
 
@@ -272,11 +272,11 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften insbesondere als Z
 
 …[^7-5]
 
-[^7-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 6).
+[^7-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 6).
 [^7-2]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^7-3]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^7-4]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^7-5]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 6).
+[^7-5]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 6).
 
 #### Art. 8
 
@@ -300,9 +300,9 @@ Fahrzeugsysteme, die einen Einfluss auf das Führen eines Fahrzeugs haben und di
 
 <sup>6.</sup> Der Führer eines Fahrzeugs muss alle anderen Tätigkeiten als das Führen seines Fahrzeugs vermeiden. Die innerstaatlichen Rechtsvorschriften sollten Bestimmungen zur Benutzung von Telefonen durch die Fahrzeugführer vorsehen. In jedem Fall müssen sie die Benutzung von Telefonen ohne Freisprecheinrichtung durch Führer eines sich in Bewegung befindlichen Motorfahrzeugs oder Motorfahrrads verbieten.[^8-6]
 
-[^8-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 7).
-[^8-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 7).
-[^8-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 7).
+[^8-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 7).
+[^8-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 7).
+[^8-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 7).
 [^8-4]: Die Regelungen der Vereinten Nationen im Anhang des in Genf am 20. März 1958 beschlossenen «Übereinkommens über die Annahme einheitlicher technischer Vorschriften für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge(n) eingebaut und/oder verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Vorschriften erteilt wurden» (SR **0.741.411**). Die im Rahmen des in Genf am 25. Juni 1998 beschlossenen «Übereinkommens über die Festlegung globaler technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge(n) eingebaut und/oder verwendet werden können» ausgearbeiteten globalen technischen Regelungen der Vereinten Nationen.
 [^8-5]: Absatz eingefügt durch die Änd. vom 26. März 2014, in Kraft seit 23. März 2016 ([AS 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
 [^8-6]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
@@ -313,7 +313,7 @@ Fahrzeugsysteme, die einen Einfluss auf das Führen eines Fahrzeugs haben und di
 
 Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass Viehherden zur Erleichterung des Verkehrs in kleinere Gruppen mit genügend grossen Abständen unterteilt werden müssen, sofern nicht Abweichungen zugelassen werden, um die Herdenwanderungen zu erleichtern.
 
-[^9-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 8).
+[^9-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 8).
 
 #### Art. 10
 
@@ -334,8 +334,8 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass V
 
 <sup>6.</sup> Unbeschadet der Bestimmungen in Artikel 11 muss jeder Führer eines langsam fahrenden Fahrzeugs in Fällen, in denen ein zusätzlicher Fahrstreifen durch Verkehrszeichen angezeigt wird, diesen Fahrstreifen benutzen.[^10-3]
 
-[^10-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 9).
-[^10-2]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 9).
+[^10-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 9).
+[^10-2]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 9).
 [^10-3]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
 #### Art. 11
@@ -398,10 +398,10 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 [^11-1]: Eingefügt durch Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^11-2]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^11-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 10).
-[^11-4]: Gemäss Europäischem Zusatzübereinkommen vom 1. Mai 1971 nicht anwendbar ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 10).
-[^11-5]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 10).
-[^11-6]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 10).
+[^11-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 10).
+[^11-4]: Gemäss Europäischem Zusatzübereinkommen vom 1. Mai 1971 nicht anwendbar ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 10).
+[^11-5]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 10).
+[^11-6]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 10).
 
 #### Art. 12
 
@@ -411,7 +411,7 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 <sup>2.</sup> Auf Gebirgsstrassen und auf steilen Strassen mit gleichartigen Merkmalen, wo das Ausweichen unmöglich oder schwierig ist, obliegt es dem Führer des bergabfahrenden Fahrzeugs, sein Fahrzeug zur Seite zu fahren, um jedes bergauffahrende Fahrzeug vorbeifahren zu lassen ausser da, wo längs der Fahrbahn Ausweichstellen, die es den Fahrzeugen ermöglichen, zur Seite zu fahren, so angeordnet sind, dass unter Berücksichtigung der Geschwindigkeit und des Standorts der Fahrzeuge dem bergauffahrenden Fahrzeug eine vor ihm liegende Ausweichstelle zur Verfügung steht und eines der Fahrzeuge rückwärts fahren müsste, wenn das bergauffahrende Fahrzeug jene Ausweichstelle nicht benutzte. Wenn eines der beiden Fahrzeuge, die einander ausweichen wollen, zu diesem Zweck rückwärts fahren muss, muss dies der Führer des bergabfahrenden Fahrzeugs tun, es sei denn, dass dies für den bergauffahrenden Führer einfacher ist. Die Vertragsparteien oder ihre Teilgebiete können jedoch für bestimmte Fahrzeuge oder bestimmte Strassen oder Strassenabschnitte Sonderregeln vorschreiben, die von denen dieses Absatzes abweichen.[^12-1]
 
-[^12-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 11).
+[^12-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 11).
 
 #### Art. 13
 
@@ -435,8 +435,8 @@ Um das Überholen zu erleichtern, müssen ausserhalb von Ortschaften die Führer
 - b) können die Vertragsparteien oder ihre Teilgebiete andere Werte als die in diesem Absatz genannten für die betroffenen Fahrzeuge bestimmen.[^13-3]
 
 [^13-1]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^13-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 12).
-[^13-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 12).
+[^13-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 12).
+[^13-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 12).
 
 #### Art. 14
 
@@ -448,7 +448,7 @@ Um das Überholen zu erleichtern, müssen ausserhalb von Ortschaften die Führer
 
 <sup>3.</sup> Vor dem Abbiegen oder vor einer Fahrbewegung, die mit einer seitlichen Verschiebung verbunden ist, muss der Führer seine Absicht deutlich und rechtzeitig mit dem oder den Fahrtrichtungsanzeigern seines Fahrzeugs oder, falls solche nicht vorhanden sind, wenn möglich durch ein mit dem Arm gegebenes geeignetes Zeichen anzeigen. Das durch den oder die Fahrtrichtungsanzeiger gegebene Zeichen muss während der ganzen Dauer der Fahrbewegung fortgesetzt werden und aufhören, sobald diese beendet ist.
 
-[^14-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 13).
+[^14-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 13).
 
 #### Art. 15
 
@@ -456,7 +456,7 @@ Um das Überholen zu erleichtern, müssen ausserhalb von Ortschaften die Führer
 
 Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass in Ortschaften, um den Verkehr der Fahrzeuge des öffentlichen Linienverkehrs zu erleichtern, die Führer der anderen Fahrzeuge, vorbehaltlich des Artikels 17 Absatz 1, ihre Fahrt verlangsamen und, wenn nötig, anhalten, um diese Fahrzeuge des öffentlichen Verkehrs die erforderliche Fahrbewegung ausführen zu lassen, damit sie sich bei der Abfahrt von den als solche gekennzeichneten Haltestellen wieder in Bewegung setzen können. Die von den Vertragsparteien oder ihren Teilgebieten zu diesem Zweck erlassenen Bestimmungen ändern in keiner Weise die für die Führer der Fahrzeuge des öffentlichen Linienverkehrs bestehende Verpflichtung, die zur Vermeidung irgendeiner Gefährdung nötigen Vorsichtsmassnahmen zu treffen, nachdem sie ihre Absicht des Wiederanfahrens mit ihren Fahrtrichtungsanzeigern angezeigt haben.
 
-[^15-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 14).
+[^15-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 14).
 
 #### Art. 16
 
@@ -507,10 +507,10 @@ Vorbehaltlich des Absatzes 7:
 
 …[^18-4]
 
-[^18-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 15).
-[^18-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 15).
+[^18-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 15).
+[^18-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 15).
 [^18-3]: Worte gestrichen durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^18-4]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 15).
+[^18-4]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 15).
 
 #### Art. 19
 
@@ -557,11 +557,11 @@ Gibt es an der Seite der Fahrbahn Gehwege oder von Fussgängern begehbare Seiten
 
 <sup>7.</sup> Jedoch können die Vertragsparteien oder ihre Teilgebiete strengere Bestimmungen für das Überschreiten der Fahrbahn durch Fussgänger erlassen.
 
-[^20-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 16).
-[^20-2]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 16).
-[^20-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 16).
-[^20-4]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 16).
-[^20-5]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 16).
+[^20-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 16).
+[^20-2]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 16).
+[^20-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 16).
+[^20-4]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 16).
+[^20-5]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 16).
 
 #### Art. 21
 
@@ -588,8 +588,8 @@ Dieser Artikel ist nicht so auszulegen, als hindere er die Vertragsparteien oder
 …[^21-3]
 
 [^21-1]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^21-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 17).
-[^21-3]: Siehe für die eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 17).
+[^21-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 17).
+[^21-3]: Siehe für die eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 17).
 
 #### Art. 22
 
@@ -652,16 +652,16 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass j
 
 [^23-1]: Fassung des Satzes gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^23-2]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
-[^23-4]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
-[^23-5]: Siehe für die eingefügte Ziff. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
+[^23-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 18).
+[^23-4]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 18).
+[^23-5]: Siehe für die eingefügte Ziff. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 18).
 [^23-6]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-7]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-8]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
+[^23-8]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 18).
 [^23-9]: Aufgehoben durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-10]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
+[^23-10]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 18).
 [^23-11]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^23-12]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 18).
+[^23-12]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 18).
 
 #### Art. 24
 
@@ -693,11 +693,11 @@ Auf den Autobahnen und, wenn die innerstaatlichen Rechtsvorschriften dies bestim
 
 <sup>4.</sup> Hinsichtlich der Anwendung der Absätze 1, 2 und 3 sind den Autobahnen die anderen dem Verkehr mit Kraftfahrzeugen vorbehaltenen Strassen gleichgestellt, die als solche ordnungsmässig gekennzeichnet sind und zu denen von den angrenzenden Grundstücken aus keine Zufahrt besteht.[^25-5]
 
-[^25-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
-[^25-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
+[^25-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 19).
+[^25-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 19).
 [^25-3]: Fassung gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^25-4]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
-[^25-5]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 19).
+[^25-4]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 19).
+[^25-5]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 19).
 
 #### Art. 25<sup>bis</sup>
 
@@ -747,15 +747,15 @@ Den Fahrzeugführern ist verboten:
 
 …[^27-3]
 
-[^27-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20).
+[^27-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 20).
 [^27-2]: Fassung gemäss Änd. vom 28. Sept. 2004, in Kraft seit 28. März 2006 ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^27-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20).
+[^27-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 20).
 
 #### Art. 27<sup>bis</sup>–27<sup>quater</sup>
 
 [^27bis27quater-1]
 
-[^27bis27quater-1]: Siehe für die eingefügten Art. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20<sup>bis</sup>).
+[^27bis27quater-1]: Siehe für die eingefügten Art. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 20<sup>bis</sup>).
 
 #### Art. 28
 
@@ -784,8 +784,8 @@ Vorrichtungen zum Abgeben akustischer Warnzeichen dürfen nur benutzt werden:
 
 …[^29-2]
 
-[^29-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 21).
-[^29-2]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 21).
+[^29-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 21).
+[^29-2]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 21).
 
 #### Art. 30
 
@@ -813,7 +813,7 @@ Die nach vorn, nach hinten oder seitlich über das Fahrzeug hinausragenden Ladun
 
 <sup>5.</sup> Nichts in Absatz 4 ist so auszulegen, als hindere es die Vertragsparteien oder ihre Teilgebiete, das in diesem Absatz erwähnte Hinausragen der Ladung zu verbieten, zu beschränken oder einer Sondergenehmigung zu unterwerfen.
 
-[^30-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 22).
+[^30-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 22).
 
 #### Art. 30<sup>bis</sup>
 
@@ -839,7 +839,7 @@ Unbeschadet der innerstaatlichen Rechtsvorschriften über die Verpflichtung zur 
 
 <sup>2.</sup> Die Vertragsparteien oder ihre Teilgebiete können in ihren innerstaatlichen Rechtsvorschriften davon absehen, Absatz 1 Buchstabe d anzuwenden, wenn keine schwere Verletzung verursacht wurde und keiner der am Unfall Beteiligten die Benachrichtigung der Polizei verlangt.
 
-[^31-1]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 24).
+[^31-1]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 24).
 
 #### Art. 32
 
@@ -941,7 +941,7 @@ Besondere Warnleuchten:
 
 <sup>4.</sup> Um die in Absatz 3 genannten Maschinen zu überholen oder um ihnen auszuweichen, während diese für Arbeiten auf der Strasse verwendet werden, brauchen die Führer der anderen Fahrzeuge, soweit nötig und unter der Bedingung, dass sie alle erforderlichen Vorsichtsmassnahmen ergreifen, die Artikel 11 und 12 nicht zu beachten.
 
-[^34-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 26).
+[^34-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 26).
 
 #### Art. 34<sup>bis</sup>
 
@@ -1011,11 +1011,11 @@ Die Pflicht, dass jedes Fahrzeug und miteinander verbundene Fahrzeuge einen Füh
 
 **Unterscheidungszeichen des Zulassungsstaates**
 
-\2. Jeder Anhänger, der mit einem Kraftfahrzeug verbunden ist und nach Artikel 36 dieses Übereinkommens an der Rückseite ein Kennzeichen führen muss, hat hinten auch das Unterscheidungszeichen des Staates, wo dieses Kennzeichen ausgegeben worden ist, zu führen, entweder unabhängig vom Kennzeichen oder als Bestandteil desselben.[^37-1] Dieser Absatz gilt auch, wenn der Anhänger in einem anderen Staat als dem Zulassungsstaat des Kraftfahrzeuges (Art. 1 Bst. p), mit dem er verbunden ist, zugelassen ist; ist der Anhänger nicht zugelassen, so muss er hinten das Unterscheidungszeichen des Staates führen, in dem das Zugfahrzeug zugelassen ist, ausser wenn er in diesem Staat verkehrt.
-
 - 1\. a) Ausser dem Kennzeichen muss jedes Kraftfahrzeug im internationalen Verkehr hinten, ein Unterscheidungszeichen des Staates führen, in dem es zugelassen ist.
 - b) Dieses Zeichen kann entweder unabhängig vom Kennzeichen angebracht oder ein Bestandteil desselben sein.
-- c) Wenn das Unterscheidungszeichen Bestandteil des Kennzeichens ist, muss es auch auf dem vorderen Kennzeichen angebracht sein, sofern ein solches vorgeschrieben ist.[^37-2]
+- c) Wenn das Unterscheidungszeichen Bestandteil des Kennzeichens ist, muss es auch auf dem vorderen Kennzeichen angebracht sein, sofern ein solches vorgeschrieben ist.[^37-1]
+
+<sup>2.</sup> Jeder Anhänger, der mit einem Kraftfahrzeug verbunden ist und nach Artikel 36 dieses Übereinkommens an der Rückseite ein Kennzeichen führen muss, hat hinten auch das Unterscheidungszeichen des Staates, wo dieses Kennzeichen ausgegeben worden ist, zu führen, entweder unabhängig vom Kennzeichen oder als Bestandteil desselben.[^37-2] Dieser Absatz gilt auch, wenn der Anhänger in einem anderen Staat als dem Zulassungsstaat des Kraftfahrzeuges (Art. 1 Bst. p), mit dem er verbunden ist, zugelassen ist; ist der Anhänger nicht zugelassen, so muss er hinten das Unterscheidungszeichen des Staates führen, in dem das Zugfahrzeug zugelassen ist, ausser wenn er in diesem Staat verkehrt.
 
 <sup>3.</sup> Ausgestaltung und Anbringung des Unterscheidungszeichens bzw. seine Einbeziehung in das Kennzeichen müssen den in Anhang 2 und 3 festgelegten Anforderungen genügen.[^37-3]
 
@@ -1165,9 +1165,9 @@ Im Hoheitsgebiet der Vertragsparteien, die nicht nach Artikel 54 Absatz 2 eine E
 
 <sup>3.</sup> Im Hoheitsgebiet der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, müssen die Motorfahrräder für die Zulassung zum internationalen Verkehr den Bestimmungen genügen, die in Anhang 5 für die Krafträder festgelegt sind.
 
-[^44-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 27).
-[^44-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 27).
-[^44-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 27).
+[^44-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 27).
+[^44-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 27).
+[^44-3]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 27).
 
 ## Kapitel Vl Schlussbestimmungen
 
@@ -1181,7 +1181,7 @@ Im Hoheitsgebiet der Vertragsparteien, die nicht nach Artikel 54 Absatz 2 eine E
 
 <sup>4.</sup> Bei der Unterzeichnung dieses Übereinkommens oder der Hinterlegung seiner Ratifikations‑ oder Beitrittsurkunde notifiziert jeder Staat dem Generalsekretär der Vereinten Nationen das entsprechend Anhang 3 gewählte Unterscheidungszeichen, das die von ihm zugelassenen Fahrzeuge im internationalen Verkehr zu führen haben. Durch eine weitere an den Generalsekretär gerichtete Notifikation kann jeder Staat ein von ihm vorher gewähltes Unterscheidungszeichen ändern.
 
-[^45-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^45-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 46
 
@@ -1201,7 +1201,7 @@ Im Hoheitsgebiet der Vertragsparteien, die nicht nach Artikel 54 Absatz 2 eine E
 
 Im Verhältnis unter den Vertragsparteien hebt dieses Übereinkommen bei seinem Inkrafttreten das Internationale Abkommen über Kraftfahrzeugverkehr[^48-1] und das Internationale Abkommen über Strassenverkehr, beide unterzeichnet am 24. April 1926 in Paris, das am 15. Dezember 1943 in Washington zur Unterzeichnung aufgelegte Abkommen über die Regelung des interamerikanischen Kraftfahrzeugverkehrs sowie das am 19. September 1949 in Genf zur Unterzeichnung aufgelegte Abkommen über den Strassenverkehr auf und ersetzt sie.
 
-[^48-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
+[^48-1]: [SR 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824)
 
 #### Art. 49
 
@@ -1316,7 +1316,7 @@ Anhang 1[^t-2]
 
 \9. Die Vertragsparteien brauchen in ihrem Hoheitsgebiet keine Kraftfahrzeuge (Art. 1 Bst. p) oder damit verbundene Anhänger zum internationalen Verkehr zuzulassen, die ein anderes als die nach Artikel 37 vorgeschriebenen Unterscheidungszeichen führen. Hingegen dürfen sie einem Fahrzeug die Zulassung nicht verweigern, das in Übereinstimmung mit diesem Übereinkommen ein vom Kennzeichen unabhängiges Unterscheidungszeichen trägt, welches ein in das Kennzeichen einbezogenes Unterscheidungszeichen ersetzt, das nicht im Einklang mit diesem Übereinkommen ist.
 
-[^annex1-lvlu1-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 28).
+[^annex1-lvlu1-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)Anhang Ziff. 28).
 
 Anhang 2[^t-3]
 
@@ -1509,11 +1509,11 @@ Beleuchtungs‑ und lichttechnische Einrichtungen für Fahrzeuge
 
 20.2 Eine bestimmte Beleuchtungsfunktion kann durch mehr als eine Beleuchtungseinrichtung sichergestellt werden.
 
-20.3. Bei einem Fahrzeug muss das Licht der Beleuchtungseinrichtungen, die dieselbe Aufgabe haben und in dieselbe Richtung wirken, dieselbe Farbe haben.
+20.3 Bei einem Fahrzeug muss das Licht der Beleuchtungseinrichtungen, die dieselbe Aufgabe haben und in dieselbe Richtung wirken, dieselbe Farbe haben.
 
 Ausser bei Fahrzeugen, deren äussere Form asymmetrisch ist, müssen in gerader Zahl vorhandene Scheinwerfer, Leuchten und Rückstrahler symmetrisch zur Längsmittelebene des Fahrzeugs angeordnet sein. Paarweise zusammengehörende Beleuchtungseinrichtungen müssen nahezu die gleiche Lichtstärke haben. Diese Bestimmungen gelten nicht für adaptive Frontbeleuchtungssysteme.
 
-20.4. Beleuchtungseinrichtungen verschiedener Art und, vorbehaltlich der anderen Absätze dieses Kapitels, Beleuchtungseinrichtungen zusammen mit Rückstrahlern dürfen in einer Einrichtung zusammen‑ oder ineinandergebaut werden, wenn jede Beleuchtungseinrichtung und jeder Rückstrahler den anwendbaren Bestimmungen dieses Anhangs entspricht.
+20.4 Beleuchtungseinrichtungen verschiedener Art und, vorbehaltlich der anderen Absätze dieses Kapitels, Beleuchtungseinrichtungen zusammen mit Rückstrahlern dürfen in einer Einrichtung zusammen‑ oder ineinandergebaut werden, wenn jede Beleuchtungseinrichtung und jeder Rückstrahler den anwendbaren Bestimmungen dieses Anhangs entspricht.
 
 \21. Fernlicht, Abblendlicht, adaptives Frontbeleuchtungssystem und leuchtende Fläche
 
@@ -1521,7 +1521,7 @@ Ausser bei Fahrzeugen, deren äussere Form asymmetrisch ist, müssen in gerader 
 
 21.2 Jedes Kraftfahrzeug, dessen bauartbedingte Höchstgeschwindigkeit 10 km (6 Meilen) in der Stunde überschreitet, ausgenommen Krafträder, muss vorn zwei Scheinwerfer für weisses Abblendlicht oder Elemente eines adaptiven Frontbeleuchtungssystems haben.
 
-21.3. Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die Motorfahrräder von allen oder einem Teile dieser Vorschrift zu befreien:
+21.3 Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die Motorfahrräder von allen oder einem Teile dieser Vorschrift zu befreien:
 
 - a) muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen einen oder zwei Scheinwerfer für weisses Abblendlicht haben;
 - b) kann jedes zweirädrige Kraftrad mit oder ohne Beiwagen, dessen bauartbedingte Höchstgeschwindigkeit 40 km (25 Meilen) in der Stunde überschreitet, zusätzlich zu den Scheinwerfern für Abblendlicht mindestens einen Scheinwerfer für weisses Fernlicht haben;
@@ -1582,7 +1582,7 @@ Jedes Kraftfahrzeug, ausgenommen Krafträder, und jeder Anhänger kann seitlich 
 
 28.1 Jedes Kraftfahrzeug, ausgenommen zweirädrige Krafträder mit oder ohne Beiwagen, dessen bauartbedingte Höchstgeschwindigkeit 25 km (15 Meilen) in der Stunde überschreitet, und jeder Anhänger muss hinten mindestens zwei rote Bremsleuchten haben. An solchen Fahrzeugen kann oben mittig eine zusätzliche Bremsleuchte angebracht werden.
 
-28.2. Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die zweirädrigen Motorfahrräder mit oder ohne Beiwagen von dieser Vorschrift zu befreien, muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen eine oder zwei rote Bremsleuchten haben. An solchen Fahrzeugen kann oben mittig eine zusätzliche Bremsleuchte angebracht werden.
+28.2 Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die zweirädrigen Motorfahrräder mit oder ohne Beiwagen von dieser Vorschrift zu befreien, muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen eine oder zwei rote Bremsleuchten haben. An solchen Fahrzeugen kann oben mittig eine zusätzliche Bremsleuchte angebracht werden.
 
 \29. Scheinwerfer für Tagesfahrlicht
 
@@ -1636,7 +1636,7 @@ Jedes Kraftfahrzeug kann Ein- und Ausstiegsleuchten haben, die weisses Licht aus
 
 \39. Vorrichtungen, bei denen Leuchten, Lichter und Einrichtungen mehrerer Kategorien zum Einsatz kommen
 
-39.1. Keine Beleuchtungseinrichtung, ausgenommen Fahrtrichtungsanzeiger, Warnblinkanlagen, als Notbremslicht fungierende Bremsleuchten und besondere Warnleuchten, darf ein Blink‑, Rundum- oder Blitzlichtlicht ausstrahlen. Die Seitenmarkierungsleuchten können zusammen mit den Fahrtrichtungsanzeigern aufblinken.
+39.1 Keine Beleuchtungseinrichtung, ausgenommen Fahrtrichtungsanzeiger, Warnblinkanlagen, als Notbremslicht fungierende Bremsleuchten und besondere Warnleuchten, darf ein Blink‑, Rundum- oder Blitzlichtlicht ausstrahlen. Die Seitenmarkierungsleuchten können zusammen mit den Fahrtrichtungsanzeigern aufblinken.
 
 39.2 Kraftfahrzeuge mit drei symmetrisch zur Längsmittelebene des Fahrzeugs angeordneten Rädern, die nach Artikel 1 Buchstabe n den Krafträdern gleichgestellt sind, müssen die in den Absätzen 21.1, 21.2, 22.1, 22.4 Buchstabe a, 25.1 und 28.1 vorgeschriebenen Einrichtungen haben. Jedoch genügt bei einem Elektrofahrzeug, dessen Breite 1,30 m nicht übersteigt und dessen bauartbedingte Höchstgeschwindigkeit 40 km (25 Meilen) in der Stunde nicht überschreitet, ein einziger Scheinwerfer für Fernlicht und ein einziger Scheinwerfer für Abblendlicht.
 
@@ -1749,7 +1749,7 @@ Allgemeine Bestimmungen
 
 \62. Kraftfahrzeuge (Art. 1 Abs. p), die vor oder binnen zwei Jahren nach dem Inkrafttreten dieses Übereinkommens im Hoheitsgebiet einer Vertragspartei erstmals zugelassen und Anhänger, die zu einem solchen Zeitpunkt im Hoheitsgebiet einer Vertragspartei erstmals im Verkehr verwendet worden sind, unterliegen nicht diesem Anhang, vorausgesetzt, dass sie den Kapiteln I, II und III des Anhangs 6 des Abkommens über den Strassenverkehr von 1949 entsprechen.
 
-62.<sup>bis</sup> Kraftfahrzeuge, die vor oder binnen zwei Jahren nach Inkrafttreten dieses Übereinkommens im Hoheitsgebiet einer Vertragspartei erstmals zugelassen und Anhänger, die zu diesen Zeitpunkten im Hoheitsgebiet einer Vertragspartei erstmals im Verkehr verwendet worden sind, unterliegen nicht diesem Anhang, vorausgesetzt, dass sie Anhang 5 des Übereinkommens über den Strassenverkehr von 1968 oder anderen in Kapitel V dieses Anhangs genannten Bestimmungen entsprechen.
+62<sup>bis</sup>. Kraftfahrzeuge, die vor oder binnen zwei Jahren nach Inkrafttreten dieses Übereinkommens im Hoheitsgebiet einer Vertragspartei erstmals zugelassen und Anhänger, die zu diesen Zeitpunkten im Hoheitsgebiet einer Vertragspartei erstmals im Verkehr verwendet worden sind, unterliegen nicht diesem Anhang, vorausgesetzt, dass sie Anhang 5 des Übereinkommens über den Strassenverkehr von 1968 oder anderen in Kapitel V dieses Anhangs genannten Bestimmungen entsprechen.
 
 Anhang 6[^t-6]
 
@@ -1815,13 +1815,13 @@ Anhang 6[^t-6]
 
 <table>
 <tr><td colspan="2">Code der Fahrzeugklasse / Piktogramm</td><td colspan="2">Code der Unterklasse / Piktogramm</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Der Geburtsort kann durch andere, nach nationaler Gesetzgebung bestimmte Eintragungen ersetzt werden.
@@ -1891,13 +1891,13 @@ Anhang 7[^t-7]
 <tr><td></td><td colspan="2">Ordentlicher Wohnsitz<sup>2)</sup></td><td colspan="3"></td><td>5.</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="6">FAHRZEUGKLASSEN UND UNTERKLASSEN, FÜR DIE DER FÜHRERSCHEIN GILT, MIT DEN ENTSPRECHENDEN BEZEICHNUNGEN</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="3">**Bezeichnung der Fahrzeug-** **klasse / Piktogramm**</td><td colspan="3">**Bezeichnung der Unterklasse / Piktogramm**</td><td colspan="2"></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/de/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/de/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">EINSCHRÄNKENDE AUFLAGEN<sup>3)</sup></td><td colspan="2"></td></tr>
 </table>
 
@@ -1931,7 +1931,7 @@ Muster 3
 - <sup>5)</sup> Name des Staates.
 - <sup>6)</sup> Siegel oder Stempel der Behörde, welche den Führerschein für ihr Hoheitsgebiet als ungültig erklärt hat. Falls die auf dieser Seite für die Ungültigkeitserklärungen vorgesehenen Felder nicht ausreichen, können weitere Ungültigkeitserklärungen auf der Rückseite eingetragen werden.
 
-Geltungsbereich am 2. Oktober 2024[^t-8]
+Geltungsbereich am 10. Juli 2026[^t-8]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2033,7 +2033,7 @@ Geltungsbereich am 2. Oktober 2024[^t-8]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen aller Vertragsstaaten über das gewählte Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr, gemäss Artikel 45 Absatz 4 sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. findet keine Anwendung auf die Föröer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544); [2026 387](https://fedlex.data.admin.ch/eli/oc/2026/387). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
@@ -2058,7 +2058,7 @@ Zu Anhang 1 Absatz 1
 Nach dem Wortlaut von Anhang 1 Absatz 1 kann eine Vertragspartei in ihrem Hoheitsgebiet nur ausländische Motorfahrzeuge, Anhänger und miteinander verbundene Fahrzeuge, deren Gesamtmasse, Achslasten oder Abmessungen die in ihren eigenen nationalen Rechtsvorschriften festgesetzten Grenzen übersteigen, zum internationalen Verkehr nicht zulassen. Daher erachtet es die Schweiz als nicht vereinbar mit dem im Wortlaut von Anhang 1 Absatz 1 verankerten Territorialitäts‑ und Nichtdiskriminierungs‑Grundsatz, wenn eine Vertragspartei Motorfahrzeuge, Anhänger und miteinander verbundene Fahrzeuge, deren Gesamtmasse, Achslasten oder Abmessungen die in ihren eigenen nationalen Rechtsvorschriften festgesetzten Grenzen nicht übersteigen, zum internationalen Verkehr nicht zulässt; die Schweiz behält sich in einem solchen Fall das Recht vor, die zur Wahrung ihrer Interessen notwendigen Massnahmen zu treffen.
 
 [^t-9]: Die Schweiz hat am 12. Dez. 2005 dem Generalsekretär der Vereinten Nationen notifiziert, dass sie den bei der Hinterlegung der Ratifikationsurkunde des Übereink. abgegebenen Vorbehalt hinsichtlich Art. 11 Abs. 1 Bst. a zurückziehe, mit Wirkung seit 28. März 2006 ([AS 2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293)).
-[^t-10]: [SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
+[^t-10]: [SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)
 
 Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr[^t-11]
 
@@ -2095,6 +2095,8 @@ Deutschland D
 Estland EST
 
 Finnland FIN
+
+autonome Region der Ålandinseln AX
 
 Frankreich (gilt auch für die Überseegebiete) F
 
@@ -2216,4 +2218,4 @@ Vietnam VN
 
 Zentralafrikanische Republik RCA
 
-[^t-11]: [AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544)
+[^t-11]: [AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544); [2026 387](https://fedlex.data.admin.ch/eli/oc/2026/387)

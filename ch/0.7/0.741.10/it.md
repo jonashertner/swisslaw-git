@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: "Convenzione dell'8 novembre 1968 sulla circolazione stradale (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: it
-version: 2025-02-09
+version: 2026-07-10
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20250209-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20250209/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20260710-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20260710/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Vienna l’8 novembre 1968 Approvata dall’Assemblea federale il 15 dicembre 1978[^t-1] Istrumento di ratificazione depositato dalla Svizzera l’11 dicembre 1991 Entrata in vigore per la Svizzera l’11 dicembre 1992
 
-(Stato 9 febbraio 2025)
+(Stato 10 luglio 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -97,13 +97,13 @@ Ai fini dell’applicazione delle disposizioni della presente Convenzione, i ter
 
 [^1-1]: Introdotta dagli emendamenti del 14 dic. 2020, in vigore dal 14 lug. 2022 ([RU 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 [^1-2]: Introdotta dagli emendamenti del 14 dic. 2020, in vigore dal 14 lug. 2022 ([RU 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
-[^1-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 3).
-[^1-4]: Per il comma supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 3).
+[^1-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 3).
+[^1-4]: Per il comma supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 3).
 [^1-5]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^1-6]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^1-7]: Nuovo termine giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Di tale mod. è tenuto conto in tutto il presente testo.
-[^1-8]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 3).
-[^1-9]: Per l’alinea addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 3).
+[^1-8]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 3).
+[^1-9]: Per l’alinea addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 3).
 
 #### Art. 2
 
@@ -150,7 +150,7 @@ Gli allegati alla presente Convenzione, cioè:
 
 <sup>8.</sup> Le disposizioni dei paragrafi 3, 5 e 7 del presente articolo non costituiscono un ostacolo al diritto di ogni Parte contraente di subordinare l’ammissione sul proprio territorio, in circolazione internazionale, degli autoveicoli, dei rimorchi, dei velocipedi e dei ciclomotori, nonché dei loro conducenti e dei loro occupanti, alla propria regolamentazione dei trasporti commerciali di viaggiatori e di cose, alla propria regolamentazione in materia di assicurazione della responsabilità civile dei conducenti ed alla propria regolamentazione in materia doganale, nonché, in generale, alle proprie regolamentazioni in campi diversi dalla circolazione stradale.
 
-[^3-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 4).
+[^3-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 4).
 [^3-2]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^3-3]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^3-4]: Nuovo testo giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
@@ -172,7 +172,7 @@ Le Parti contraenti alla presente Convenzione che non siano Parti contraenti all
   - ii) installare pannelli, cartelli, segni o installazioni che rischino sia di essere confusi con dei segnali o con altre installazioni che servono a regolare la circolazione, sia di ridurne la visibilità o l’efficacia, sia di abbagliare gli utenti della strada o di distrarre la loro attenzione in maniera pericolosa per la sicurezza della circolazione;
   - iii)[^4-3] installare su marciapiedi e banchine dispositivi o apparecchiature che possano disturbare inutilmente la circolazione dei pedoni, in particolare anziani e invalidi.
 
-[^4-1]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
+[^4-1]: [RS 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
 [^4-2]: Nuovo testo giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^4-3]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
@@ -204,7 +204,7 @@ Si raccomanda che le legislazioni nazionali prevedano che siano in particolare c
 
 <sup>4.</sup> I segnali degli agenti preposti alla circolazione prevalgono sulle prescrizioni indicate dai segnali luminosi della circolazione o dai segni sulla carreggiata, nonché sulle norme di circolazione.
 
-[^6-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 5).
+[^6-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 5).
 
 #### Art. 7
 
@@ -222,11 +222,11 @@ Si raccomanda che le legislazioni nazionali prevedano che siano in particolare c
 
 ...[^7-5]
 
-[^7-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 6).
+[^7-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 6).
 [^7-2]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^7-3]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^7-4]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^7-5]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 6).
+[^7-5]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 6).
 
 #### Art. 8
 
@@ -250,10 +250,10 @@ I sistemi di bordo che influiscono sulla guida del veicolo e non conformi alle d
 
 <sup>6.</sup> Il conducente di un veicolo deve astenersi da qualsiasi attività diversa dalla guida. La legislazione nazionale dovrebbe prescrivere delle norme sull’utilizzo dei telefoni da parte dei conducenti di veicoli. La legislazione deve in ogni caso vietare al conducente di un veicolo a motore o di un ciclomotore di utilizzare, mentre il veicolo è in movimento, un telefono senza auricolare o viva voce.[^8-6]
 
-[^8-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 7).
-[^8-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 7).
-[^8-3]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 7).
-[^8-4]: I regolamenti dell’ONU all. all’Acc. conchiuso a Ginevra il 20 mar. 1958 concernente l’accettazione di prescrizioni tecniche uniformi per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni, rilasciate sulla base di tali prescrizioni ([RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)). I regolamenti tecnici dell’ONU elaborati nel quadro dell’Acc. concluso a Ginevra il 25 giu. 1998 sull’approvazione di regolamenti tecnici applicabili a livello mondiale ai veicoli a motore, agli accessori e alle parti che possono essere installati e/o utilizzati sui veicoli a motore.
+[^8-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 7).
+[^8-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 7).
+[^8-3]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 7).
+[^8-4]: I regolamenti dell’ONU all. all’Acc. conchiuso a Ginevra il 20 mar. 1958 concernente l’accettazione di prescrizioni tecniche uniformi per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni, rilasciate sulla base di tali prescrizioni ([RS 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)). I regolamenti tecnici dell’ONU elaborati nel quadro dell’Acc. concluso a Ginevra il 25 giu. 1998 sull’approvazione di regolamenti tecnici applicabili a livello mondiale ai veicoli a motore, agli accessori e alle parti che possono essere installati e/o utilizzati sui veicoli a motore.
 [^8-5]: Par. introdotto dagli emendamenti del 26 mar. 2014, in vigore dal 23 mar. 2016 ([RU 2016 1019](https://fedlex.data.admin.ch/eli/oc/2016/186)).
 [^8-6]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
@@ -263,7 +263,7 @@ I sistemi di bordo che influiscono sulla guida del veicolo e non conformi alle d
 
 Si raccomanda che le legislazioni nazionali prevedano che, salvo deroghe accordate per facilitare le migrazioni, i greggi siano suddivisi in gruppi di lunghezza moderata e separati gli uni dagli altri da intervalli sufficientemente distanziati per la convenienza della circolazione.
 
-[^9-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 8).
+[^9-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 8).
 
 #### Art. 10
 
@@ -284,8 +284,8 @@ Si raccomanda che le legislazioni nazionali prevedano che, salvo deroghe accorda
 
 <sup>6.</sup> Senza pregiudizio delle disposizioni dell’articolo 11, se un’apposita corsia supplementare è segnalata, ogni conducente di un veicolo che procede lentamente deve utilizzare tale corsia.[^10-3]
 
-[^10-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 9).
-[^10-2]: Per il par. integrativo vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 9).
+[^10-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 9).
+[^10-2]: Per il par. integrativo vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 9).
 [^10-3]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
 #### Art. 11
@@ -348,10 +348,10 @@ Senza pregiudizio delle disposizioni del paragrafo 2 del presente articolo e di 
 
 [^11-1]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 [^11-2]: Nuovo testo giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^11-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 10).
-[^11-4]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 10).
-[^11-5]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 10).
-[^11-6]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 10).
+[^11-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 10).
+[^11-4]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 10).
+[^11-5]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 10).
+[^11-6]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 10).
 
 #### Art. 12
 
@@ -361,7 +361,7 @@ Senza pregiudizio delle disposizioni del paragrafo 2 del presente articolo e di 
 
 <sup>2.</sup> Sulle strade di montagna e sulle strade a forte pendenza aventi analoghe caratteristiche, in cui l’incrocio è impossibile o difficile, il conducente del veicolo che scende deve accostare il proprio veicolo per lasciar passare ogni veicolo che sale, salvo il caso in cui le piazzole che permettono ai veicoli di accostare siano disposte lungo la carreggiata in modo tale che, tenuto conto della velocità e della posizione dei veicoli, il veicolo che sale disponga dinanzi a sé di una piazzola e che una retromarcia di uno dei veicoli sia necessaria se il veicolo che sale non si accosti su tale piazzola. Nel caso in cui uno dei due veicoli che stanno per incrociare debba fare retromarcia per consentire l’incrocio, è il conducente del veicolo che scende che deve fare tale manovra, salvo se questa si presenta chiaramente più facile per il conducente del veicolo che sale. Le Parti contraenti o le loro parti costitutive possono, tuttavia, per determinati veicoli o determinate strade o sezioni di strade, prescrivere delle regole speciali differenti da quelle del presente paragrafo.[^12-1]
 
-[^12-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 11).
+[^12-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 11).
 
 #### Art. 13
 
@@ -385,8 +385,8 @@ Fuori dei centri abitati, allo scopo di facilitare i sorpassi, i conducenti di v
 - b) le Parti contraenti o le loro parti costitutive possono fissare delle cifre diverse da quelle che sono indicate nel presente paragrafo per le caratteristiche dei veicoli in questione.[^13-3]
 
 [^13-1]: Aggiornato giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^13-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 12).
-[^13-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 12).
+[^13-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 12).
+[^13-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 12).
 
 #### Art. 14
 
@@ -398,7 +398,7 @@ Fuori dei centri abitati, allo scopo di facilitare i sorpassi, i conducenti di v
 
 <sup>3.</sup> Prima di svoltare o di compiere una manovra che comporti uno spostamento laterale, ogni conducente deve annunziare la sua intenzione chiaramente e con sufficiente anticipo a mezzo dell’indicatore o degli indicatori di direzione del proprio veicolo, o in mancanza, facendo se possibile un segno appropriato con il braccio. L’indicazione data dal o dagli indicatori di direzione deve continuare ad essere data durante tutto il tempo della manovra. L’indicazione deve cessare appena la manovra è compiuta.
 
-[^14-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 13).
+[^14-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 13).
 
 #### Art. 15
 
@@ -406,7 +406,7 @@ Fuori dei centri abitati, allo scopo di facilitare i sorpassi, i conducenti di v
 
 Si raccomanda che le legislazioni nazionali prevedano che, nei centri abitati, allo scopo di facilitare la circolazione dei veicoli dei servizi regolari di trasporto pubblico, i conducenti degli altri veicoli, con riserva delle disposizioni del paragrafo 1 dell’articolo 17 della presente Convenzione, rallentino e se necessario, si fermino per consentire che i veicoli di trasporto pubblico effettuino la manovra necessaria per rimettersi in moto alla partenza dalle fermate segnalate come tali. Le disposizioni così emanate dalle Parti contraenti o dalle loro parti costitutive non modificano in alcun modo l’obbligo per i conducenti dei veicoli di trasporto pubblico di adottare, dopo avere annunciato a mezzo degli indicatori di direzione la loro intenzione di rimettersi in moto, le precauzioni necessarie per evitare ogni rischio di incidente.
 
-[^15-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 14).
+[^15-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 14).
 
 #### Art. 16
 
@@ -457,10 +457,10 @@ Con riserva delle disposizioni del paragrafo 7 del presente articolo:
 
 ... [^18-4]
 
-[^18-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 15).
-[^18-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), anness,o n. 15).
+[^18-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 15).
+[^18-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), anness,o n. 15).
 [^18-3]: Parole stralciate giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^18-4]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 15).
+[^18-4]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 15).
 
 #### Art. 19
 
@@ -510,11 +510,11 @@ Se, di lato alla carreggiata, esistono dei marciapiedi o delle banchine praticab
 
 <sup>7.</sup> Tuttavia, le Parti contraenti o le loro parti costitutive possono emanare delle disposizioni più severe per i pedoni che attraversano le carreggiate.
 
-[^20-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 16).
-[^20-2]: Per il par. addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 16).
-[^20-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 16).
-[^20-4]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 16).
-[^20-5]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 16).
+[^20-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 16).
+[^20-2]: Per il par. addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 16).
+[^20-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 16).
+[^20-4]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 16).
+[^20-5]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 16).
 
 #### Art. 21
 
@@ -541,8 +541,8 @@ Nessuna disposizione del presente articolo sarà interpretata come un impediment
 ... [^21-3]
 
 [^21-1]: Aggiornato giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^21-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 17).
-[^21-3]: Per i par. supplementari vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 17).
+[^21-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 17).
+[^21-3]: Per i par. supplementari vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 17).
 
 #### Art. 22
 
@@ -611,16 +611,16 @@ Si raccomanda che le legislazioni nazionali prevedano che ogni veicolo a motore 
 
 [^23-1]: Nuovo testo giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-2]: Nuovo testo del per. giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^23-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
-[^23-4]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
-[^23-5]: Per il testo addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
+[^23-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 18).
+[^23-4]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 18).
+[^23-5]: Per il testo addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 18).
 [^23-6]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-7]: Introdotto giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-8]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
+[^23-8]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 18).
 [^23-9]: Abrogato dagli emendamenti con effetto per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^23-10]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
+[^23-10]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 18).
 [^23-11]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^23-12]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 18).
+[^23-12]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 18).
 
 #### Art. 24
 
@@ -652,11 +652,11 @@ Sulle autostrade e, se la legislazione nazionale così dispone, sulle strade spe
 
 <sup>4.</sup> Per l’applicazione dei paragrafi 1, 2 e 3 del presente articolo, sono assimilate alle autostrade le altre strade riservate alla circolazione automobilistica debitamente segnalate come tali e nelle quali le proprietà laterali non hanno accesso.[^25-5]
 
-[^25-1]: Per il par. addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 19).
-[^25-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 19).
+[^25-1]: Per il par. addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 19).
+[^25-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 19).
 [^25-3]: Nuovo testo giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
-[^25-4]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 19).
-[^25-5]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 19).
+[^25-4]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 19).
+[^25-5]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 19).
 
 #### Art. 25<sup>bis</sup>
 
@@ -706,15 +706,15 @@ Nei tunnel dotati di una segnalazione speciale, vigono le seguenti prescrizioni:
 
 ... [^27-3]
 
-[^27-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 20).
+[^27-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 20).
 [^27-2]: Nuovo testo giusta gli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^27-3]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 20).
+[^27-3]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 20).
 
 #### Art. 27<sup>bis</sup> a 27<sup>quater</sup>
 
 [^27bis27quater-1]
 
-[^27bis27quater-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 20<sup>bis</sup>).
+[^27bis27quater-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 20<sup>bis</sup>).
 
 #### Art. 28
 
@@ -743,8 +743,8 @@ Si può fare uso degli avvisatori acustici soltanto:
 
 ...[^29-2]
 
-[^29-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 21).
-[^29-2]: Per il par. addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 21).
+[^29-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 21).
+[^29-2]: Per il par. addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 21).
 
 #### Art. 30
 
@@ -772,7 +772,7 @@ I carichi sporgenti dal veicolo verso l’avanti, verso il dietro o sui lati deb
 
 <sup>5.</sup> Nulla del paragrafo 4 del presente articolo potrà essere interpretato come impedimento per le Parti contraenti o per le loro parti costitutive a vietare, a limitare o a sottoporre ad una autorizzazione speciale le sporgenze di carico previste a detto paragrafo 4.
 
-[^30-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 22).
+[^30-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 22).
 
 #### Art. 30<sup>bis</sup>
 
@@ -798,7 +798,7 @@ Senza pregiudizio delle disposizioni delle legislazioni nazionali per quanto rig
 
 <sup>2.</sup> Le parti contraenti o le loro parti costitutive possono, nella loro legislazione nazionale, astenersi dall’imporre la prescrizione prevista al comma d) del paragrafo 1 del presente articolo quando nessuna ferita grave è stata provocata e nessuna delle persone implicate nell’incidente esige che sia avvisata la polizia.
 
-[^31-1]: Per l’alinea addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 24).
+[^31-1]: Per l’alinea addizionale vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 24).
 
 #### Art. 32
 
@@ -903,7 +903,7 @@ Le luci di segnalazione speciali:
 
 <sup>4.</sup> Per sorpassare o incrociare i mezzi previsti al paragrafo 3 del presente articolo mentre sono al lavoro sulla strada, i conducenti degli altri veicoli possono, nella misura necessaria ed a condizione di adottare ogni utile precauzione, non osservare le disposizioni degli articoli 11 e 12 della presente Convenzione.
 
-[^34-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 26).
+[^34-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 26).
 
 #### Art. 34<sup>bis</sup>
 
@@ -1127,9 +1127,9 @@ Sul territorio delle Parti contraenti che non hanno, conformemente al paragrafo 
 
 <sup>3.</sup> Sul territorio delle Parti contraenti che hanno, conformemente al paragrafo 2 dell’articolo 54 della presente Convenzione, fatto una dichiarazione assimilante i ciclomotori ai motocicli, le condizioni cui debbono soddisfare i ciclomotori per essere ammessi in circolazione internazionale sono quelle definite per i motocicli all’allegato 5 della presente Convenzione.
 
-[^44-1]: Per il comma supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 27).
-[^44-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 27).
-[^44-3]: Per il comma supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 27).
+[^44-1]: Per il comma supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 27).
+[^44-2]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 27).
+[^44-3]: Per il comma supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 27).
 
 ## Capitolo VI: Disposizioni finali
 
@@ -1143,7 +1143,7 @@ Sul territorio delle Parti contraenti che non hanno, conformemente al paragrafo 
 
 <sup>4.</sup> Al momento in cui firmerà la presente Convenzione o depositerà il proprio strumento di ratifica o di adesione, ogni Stato notificherà al Segretario generale il segno distintivo che ha scelto perché sia apposto in circolazione internazionale sui veicoli che ha immatricolato conformemente alle disposizioni dell’allegato 3 della presente Convenzione. Con un’altra notifica diretta al Segretario generale, ogni Stato può cambiare il segno distintivo che aveva scelto in precedenza.
 
-[^45-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^45-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 46
 
@@ -1163,7 +1163,7 @@ Sul territorio delle Parti contraenti che non hanno, conformemente al paragrafo 
 
 Alla sua entrata in vigore, la presente Convenzione abrogherà e sostituirà, nelle relazioni tra le Parti contraenti, la Convenzione internazionale relativa alla circolazione automobilistica[^48-1] e la Convenzione internazionale relativa alla circolazione stradale firmate ambedue a Parigi il 24 aprile 1926, la Convenzione sulla regolazione della circolazione automobilistica interamericana aperta alla firma a Washington il 15 dicembre 1943 e la Convenzione sulla circolazione stradale aperta alla firma a Ginevra il 19 settembre 1949.
 
-[^48-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
+[^48-1]: [RS 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824)
 
 #### Art. 49
 
@@ -1278,7 +1278,7 @@ Allegato 1[^t-2]
 
 \9. Le Parti contraenti possono rifiutare di ammettere in circolazione internazionale sul loro territorio ogni autoveicolo o ogni rimorchio trainato da un autoveicolo che porti un segno distintivo diverso da uno di quelli previsti all’articolo 37 della presente Convenzione. Non possono tuttavia rifiutare l’ammissione di un veicolo quando su di esso è apposto, separatamente dalla targa di immatricolazione, un segno distintivo conforme alle disposizioni della presente Convenzione che sostituisce un segno distintivo, incorporato nella targa di immatricolazione, non conforme alle disposizioni della presente Convenzione.
 
-[^annex1-lvlu1-1]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 27).
+[^annex1-lvlu1-1]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823), annesso, n. 27).
 
 Allegato 2[^t-3]
 
@@ -1771,13 +1771,13 @@ Allegato 6[^t-6]
 
 <table>
 <tr><td colspan="2">Codice della categoria/ Pittogramma</td><td colspan="2">Codice della sottocategoria/ Pittogramma</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Il luogo di nascita può essere sostituito da altre precisazioni stabilite dalla legislazione nazionale.
@@ -1843,13 +1843,13 @@ Allegato 7[^t-7]
 <tr><td></td><td colspan="2">Luogo di residenza abituale <sup>2)</sup></td><td colspan="3"></td><td>5.</td><td></td></tr>
 <tr><td colspan="8">CATEGORIE E SOTTOCATEGORIE DI VEICOLI, CON I CORRISPONDENTI CODICI, PER LE QUALI È VALIDA LA PATENTE</td></tr>
 <tr><td></td><td colspan="3">**Codice della categoria/** **Pittogramma**</td><td colspan="3">**Codice della sottocategoria/ Pittogramma**</td><td></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20250209/it/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20260710/it/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">RESTRIZIONI DI UTILIZZAZIONE <sup>3</sup><sup>)</sup></td><td></td></tr>
 </table>
 
@@ -1881,109 +1881,109 @@ Modello 3 (pagina di destra)
 - <sup>5)</sup> Nome dello Stato.
 - <sup>6)</sup> Firma e sigillo o timbro dell’autorità che ha annullato la validità della patente sul proprio territorio. Se tutti gli spazi previsti per le esclusioni su questa pagina sono già utilizzati, ogni altra esclusione dovrebbe essere scritta sul retro.
 
-Campo d’applicazione il 2 ottobre 2024[^t-8]
+Campo d’applicazione il 10 luglio 2026[^t-8]
 
 <table>
-<tr><th>Stati partecipanti</th><th colspan="3">Ratifica Adesione (A) Dichiarazione di successione (S)</th><th colspan="3"></th><th colspan="3">Entrata in vigore</th><th colspan="3"></th></tr>
-<tr><td>Albania</td><td colspan="3">29 giugno</td><td colspan="3">2000 A</td><td colspan="3">29 giugno</td><td colspan="3">2001</td></tr>
-<tr><td>Andorra</td><td colspan="3">25 settembre</td><td colspan="3">2024 A</td><td colspan="3">25 settembre</td><td colspan="3">2025</td></tr>
-<tr><td>Arabia Saudita<sup>\*</sup></td><td colspan="3">12 maggio</td><td colspan="3">2016 A</td><td colspan="3">12 maggio</td><td colspan="3">2017</td></tr>
-<tr><td>Armenia</td><td colspan="3">8 febbraio</td><td colspan="3">2005 A</td><td colspan="3">8 febbraio</td><td colspan="3">2006</td></tr>
-<tr><td>Austria</td><td colspan="3">11 agosto</td><td colspan="3">1981</td><td colspan="3">11 agosto</td><td colspan="3">1982</td></tr>
-<tr><td>Azerbaigian</td><td colspan="3">3 luglio</td><td colspan="3">2002 A</td><td colspan="3">3 luglio</td><td colspan="3">2003</td></tr>
-<tr><td>Bahamas</td><td colspan="3">14 maggio</td><td colspan="3">1991 A</td><td colspan="3">14 maggio</td><td colspan="3">1992</td></tr>
-<tr><td>Bahrein</td><td colspan="3">4 maggio</td><td colspan="3">1973 A</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Belarus<sup>\*</sup></td><td colspan="3">18 giugno</td><td colspan="3">1974</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Belgio<sup>\*</sup></td><td colspan="3">16 novembre</td><td colspan="3">1988</td><td colspan="3">16 novembre</td><td colspan="3">1989</td></tr>
-<tr><td colspan="3">Benin</td><td colspan="3">7 luglio</td><td colspan="3">2022 A</td><td colspan="3">7 luglio</td><td colspan="3">2023</td></tr>
-<tr><td>Bosnia e Erzegovina</td><td colspan="3">1° settembre</td><td colspan="3">1993 S</td><td colspan="3">6 marzo</td><td colspan="3">1992</td></tr>
-<tr><td>Brasile<sup>\*</sup></td><td colspan="3">29 ottobre</td><td colspan="3">1980</td><td colspan="3">29 ottobre</td><td colspan="3">1981</td></tr>
-<tr><td>Bulgaria<sup>\*</sup></td><td colspan="3">28 dicembre</td><td colspan="3">1978</td><td colspan="3">28 dicembre</td><td colspan="3">1979</td></tr>
-<tr><td>Capo Verde</td><td colspan="3">12 giugno</td><td colspan="3">2018 A</td><td colspan="3">12 giugno</td><td colspan="3">2019</td></tr>
-<tr><td>Ceca, Repubblica</td><td colspan="3">2 giugno</td><td colspan="3">1993 S</td><td colspan="3">1° gennaio</td><td colspan="3">1993</td></tr>
-<tr><td>Centrafricana, Repubblica</td><td colspan="3">3 febbraio</td><td colspan="3">1988 A</td><td colspan="3">3 febbraio</td><td colspan="3">1989</td></tr>
-<tr><td>Congo (Kinshasa)<sup>\*</sup></td><td colspan="3">25 luglio</td><td colspan="3">1977 A</td><td colspan="3">25 luglio</td><td colspan="3">1978</td></tr>
-<tr><td>Côte d’Ivoire<sup>\*</sup></td><td colspan="3">24 luglio</td><td colspan="3">1985 A</td><td colspan="3">24 luglio</td><td colspan="3">1986</td></tr>
-<tr><td>Croazia</td><td colspan="3">23 novembre</td><td colspan="3">1992 S</td><td colspan="3">8 ottobre</td><td colspan="3">1991</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td colspan="3">30 settembre</td><td colspan="3">1977 A</td><td colspan="3">30 settembre</td><td colspan="3">1978</td></tr>
-<tr><td>Danimarca<sup>\*</sup> <sup>a</sup></td><td colspan="3">3 novembre</td><td colspan="3">1986</td><td colspan="3">3 novembre</td><td colspan="3">1987</td></tr>
-<tr><td>Egitto</td><td colspan="3">15 dicembre</td><td colspan="3">2023 A</td><td colspan="3">15 dicembre</td><td colspan="3">2024</td></tr>
-<tr><td>El Salvador<sup>\*</sup></td><td colspan="3">27 agosto</td><td colspan="3">2024 A</td><td colspan="3">27 agosto</td><td colspan="3">2025</td></tr>
-<tr><td>Emirati Arabi Uniti</td><td colspan="3">10 gennaio</td><td colspan="3">2007 A</td><td colspan="3">10 gennaio</td><td colspan="3">2008</td></tr>
-<tr><td>Estonia<sup>\*</sup></td><td colspan="3">24 agosto</td><td colspan="3">1992 A</td><td colspan="3">24 agosto</td><td colspan="3">1993</td></tr>
-<tr><td colspan="2">Etiopia</td><td colspan="4">25 agosto</td><td colspan="3">2021 A</td><td colspan="3">25 agosto</td><td colspan="2">2022</td></tr>
-<tr><td>Filippine</td><td colspan="3">27 dicembre</td><td colspan="3">1973</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Finlandia<sup>\*</sup></td><td colspan="3">1 aprile</td><td colspan="3">1985</td><td colspan="3">1 aprile</td><td colspan="3">1986</td></tr>
-<tr><td>Francia</td><td colspan="3">9 dicembre</td><td colspan="3">1971</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Territori d’oltre mare</td><td colspan="3">9 dicembre</td><td colspan="3">1971</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Georgia</td><td colspan="3">23 luglio</td><td colspan="3">1993 A</td><td colspan="3">23 luglio</td><td colspan="3">1994</td></tr>
-<tr><td>Germania<sup>\*</sup></td><td colspan="3">3 agosto</td><td colspan="3">1978</td><td colspan="3">3 agosto</td><td colspan="3">1979</td></tr>
-<tr><td>Grecia</td><td colspan="3">18 dicembre</td><td colspan="3">1986 A</td><td colspan="3">18 dicembre</td><td colspan="3">1987</td></tr>
-<tr><td>Guyana</td><td colspan="3">31 gennaio</td><td colspan="3">1973 A</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Honduras<sup>\*</sup></td><td colspan="3">3 febbraio</td><td colspan="3">2020 A</td><td colspan="3">3 febbraio</td><td colspan="3">2021</td></tr>
-<tr><td>Iran</td><td colspan="3">21 maggio</td><td colspan="3">1976</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Iraq</td><td colspan="3">1° febbraio</td><td colspan="3">2017 A</td><td colspan="3">1° febbraio</td><td colspan="3">2018</td></tr>
-<tr><td>Israele<sup>\*</sup></td><td colspan="3">11 maggio</td><td colspan="3">1971</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Italia</td><td colspan="3">2 ottobre</td><td colspan="3">1996</td><td colspan="3">2 ottobre</td><td colspan="3">1997</td></tr>
-<tr><td>Kazakstan</td><td colspan="3">4 aprile</td><td colspan="3">1994 A</td><td colspan="3">4 aprile</td><td colspan="3">1995</td></tr>
-<tr><td>Kenya</td><td colspan="3">9 settembre</td><td colspan="3">2009 A</td><td colspan="3">9 settembre</td><td colspan="3">2010</td></tr>
-<tr><td>Kirghizistan</td><td colspan="3">30 agosto</td><td colspan="3">2006 A</td><td colspan="3">30 agosto</td><td colspan="3">2007</td></tr>
-<tr><td>Kuwait<sup>\*</sup></td><td colspan="3">14 marzo</td><td colspan="3">1980 A</td><td colspan="3">14 marzo</td><td colspan="3">1981</td></tr>
-<tr><td>Lettonia</td><td colspan="3">19 ottobre</td><td colspan="3">1992 A</td><td colspan="3">19 ottobre</td><td colspan="3">1993</td></tr>
-<tr><td>Liberia</td><td colspan="3">16 settembre</td><td colspan="3">2005 A</td><td colspan="3">16 settembre</td><td colspan="3">2006</td></tr>
-<tr><td>Liechtenstein<sup>\*</sup></td><td colspan="3">2 marzo</td><td colspan="3">2020 A</td><td colspan="3">2 marzo</td><td colspan="3">2021</td></tr>
-<tr><td>Lituania<sup>\*</sup></td><td colspan="3">20 novembre</td><td colspan="3">1991 A</td><td colspan="3">20 novembre</td><td colspan="3">1992</td></tr>
-<tr><td>Lussemburgo</td><td colspan="3">25 novembre</td><td colspan="3">1975</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Macedonia del Nord</td><td colspan="3">18 agosto</td><td colspan="3">1993 S</td><td colspan="3">17 novembre</td><td colspan="3">1991</td></tr>
-<tr><td>Maldive</td><td colspan="3">9 gennaio</td><td colspan="3">2023 A</td><td colspan="3">9 gennaio</td><td colspan="3">2023</td></tr>
-<tr><td>Marocco<sup>\*</sup></td><td colspan="3">29 dicembre</td><td colspan="3">1982 A</td><td colspan="3">29 dicembre</td><td colspan="3">1983</td></tr>
-<tr><td>Moldova</td><td colspan="3">26 maggio</td><td colspan="3">1993 A</td><td colspan="3">26 maggio</td><td colspan="3">1994</td></tr>
-<tr><td>Monaco<sup>\*</sup></td><td colspan="3">6 giugno</td><td colspan="3">1978 A</td><td colspan="3">6 giugno</td><td colspan="3">1979</td></tr>
-<tr><td>Mongolia</td><td colspan="3">19 dicembre</td><td colspan="3">1997 A</td><td colspan="3">19 dicembre</td><td colspan="3">1998</td></tr>
-<tr><td>Montenegro</td><td colspan="3">23 ottobre</td><td colspan="3">2006 S</td><td colspan="3">3 giugno</td><td colspan="3">2006</td></tr>
-<tr><td>Myanmar<sup>\*</sup></td><td colspan="3">26 giugno</td><td colspan="3">2019 A</td><td colspan="3">26 giugno</td><td colspan="3">2010</td></tr>
-<tr><td>Niger</td><td colspan="3">11 luglio</td><td colspan="3">1975 A</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Nigeria</td><td colspan="3">18 ottobre</td><td colspan="3">2018 A</td><td colspan="3">18 ottobre</td><td colspan="3">2019</td></tr>
-<tr><td>Norvegia<sup>\*</sup></td><td colspan="3">1° aprile</td><td colspan="3">1985</td><td colspan="3">1° aprile</td><td colspan="3">1986</td></tr>
-<tr><td colspan="2">Oman<sup>\*</sup></td><td colspan="3">9 giugno</td><td colspan="3">2020 A</td><td colspan="3">9 giugno</td><td colspan="3">2021</td></tr>
-<tr><td>Paesi Bassi<sup>\*</sup> <sup>b</sup></td><td colspan="3">8 novembre</td><td colspan="3">2007 A</td><td colspan="3">8 novembre</td><td colspan="3">2008</td></tr>
-<tr><td>Pakistan</td><td colspan="3">19 marzo</td><td colspan="3">1986 A</td><td colspan="3">19 marzo</td><td colspan="3">1987</td></tr>
-<tr><td>Palestina</td><td colspan="3">11 novembre</td><td colspan="3">2019 A</td><td colspan="3">11 novembre</td><td colspan="3">2020</td></tr>
-<tr><td>Perù</td><td colspan="3">6 ottobre</td><td colspan="3">2006 A</td><td colspan="3">6 ottobre</td><td colspan="3">2007</td></tr>
-<tr><td>Polonia</td><td colspan="3">23 agosto</td><td colspan="3">1984</td><td colspan="3">23 agosto</td><td colspan="3">1985</td></tr>
-<tr><td>Portogallo</td><td colspan="3">30 settembre</td><td colspan="3">2010</td><td colspan="3">30 ottobre</td><td colspan="3">2011</td></tr>
-<tr><td>Qatar<sup>\*</sup></td><td colspan="3">6 marzo</td><td colspan="3">2013 A</td><td colspan="3">6 marzo</td><td colspan="3">2014</td></tr>
-<tr><td>Regno Unito<sup>\*</sup></td><td colspan="3">28 marzo</td><td colspan="3">2018</td><td colspan="3">28 marzo</td><td colspan="3">2019</td></tr>
-<tr><td>Gibilterra<sup>\*</sup></td><td colspan="3">26 febbraio</td><td colspan="3">2019</td><td colspan="3">31 marzo</td><td colspan="3">2019</td></tr>
-<tr><td>Guernesey<sup>\*</sup></td><td colspan="3">26 febbraio</td><td colspan="3">2019</td><td colspan="3">31 marzo</td><td colspan="3">2019</td></tr>
-<tr><td>Jersey<sup>\*</sup></td><td colspan="3">26 febbraio</td><td colspan="3">2019</td><td colspan="3">31 marzo</td><td colspan="3">2019</td></tr>
-<tr><td>Romania<sup>\*</sup></td><td colspan="3">9 dicembre</td><td colspan="3">1980</td><td colspan="3">9 dicembre</td><td colspan="3">1981</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td colspan="3">7 giugno</td><td colspan="3">1974</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>San Marino</td><td colspan="3">20 luglio</td><td colspan="3">1970</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Seicelle</td><td colspan="3">11 aprile</td><td colspan="3">1977 A</td><td colspan="3">11 aprile</td><td colspan="3">1978</td></tr>
-<tr><td>Senegal</td><td colspan="3">16 agosto</td><td colspan="3">1972 A</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Serbia</td><td colspan="3">12 marzo</td><td colspan="3">2001 S</td><td colspan="3">27 aprile</td><td colspan="3">1992</td></tr>
-<tr><td>Slovacchia</td><td colspan="3">1° febbraio</td><td colspan="3">1993 S</td><td colspan="3">1° gennaio</td><td colspan="3">1993</td></tr>
-<tr><td>Slovenia</td><td colspan="3">6 luglio</td><td colspan="3">1992 S</td><td colspan="3">25 giugno</td><td colspan="3">1991</td></tr>
-<tr><td>Sudafrica<sup>\*</sup></td><td colspan="3">1° novembre</td><td colspan="3">1977 A</td><td colspan="3">1° novembre</td><td colspan="3">1978</td></tr>
-<tr><td>Svezia<sup>\*</sup></td><td colspan="3">25 luglio</td><td colspan="3">1985</td><td colspan="3">25 luglio</td><td colspan="3">1986</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td colspan="3">11 dicembre</td><td colspan="3">1991</td><td colspan="3">11 dicembre</td><td colspan="3">1992</td></tr>
-<tr><td>Tagikistan</td><td colspan="3">9 marzo</td><td colspan="3">1994 A</td><td colspan="3">9 marzo</td><td colspan="3">1995</td></tr>
-<tr><td>Thailandia\*</td><td colspan="3">1<sup>o</sup> maggio</td><td colspan="3">2020</td><td colspan="3">1<sup>o</sup> maggio</td><td colspan="3">2021</td></tr>
-<tr><td>Tunisia<sup>\*</sup></td><td colspan="3">5 gennaio</td><td colspan="3">2004 A</td><td colspan="3">5 gennaio</td><td colspan="3">2005</td></tr>
-<tr><td>Turchia<sup>\*</sup></td><td colspan="3">22 gennaio</td><td colspan="3">2013 A</td><td colspan="3">22 gennaio</td><td colspan="3">2014</td></tr>
-<tr><td>Turkmenistan</td><td colspan="3">14 giugno</td><td colspan="3">1993 A</td><td colspan="3">14 giugno</td><td colspan="3">1994</td></tr>
-<tr><td>Ucraina<sup>\*</sup></td><td colspan="3">12 luglio</td><td colspan="3">1974</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Uganda</td><td colspan="3">23 agosto</td><td colspan="3">2022 A</td><td colspan="3">23 agosto</td><td colspan="3">2023</td></tr>
-<tr><td>Ungheria<sup>\*</sup></td><td colspan="3">16 marzo</td><td colspan="3">1976</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
-<tr><td>Uruguay<sup>\*</sup></td><td colspan="3">8 aprile</td><td colspan="3">1981 A</td><td colspan="3">8 aprile</td><td colspan="3">1982</td></tr>
-<tr><td>Uzbekistan</td><td colspan="3">17 gennaio</td><td colspan="3">1995 A</td><td colspan="3">17 gennaio</td><td colspan="3">1996</td></tr>
-<tr><td>Vietnam<sup>\*</sup></td><td colspan="3">20 agosto</td><td colspan="3">2014 A</td><td colspan="3">20 agosto</td><td colspan="3">2015</td></tr>
-<tr><td>Zimbabwe<sup>\*</sup></td><td colspan="3">31 luglio</td><td colspan="3">1981 A</td><td colspan="3">31 luglio</td><td colspan="3">1982</td></tr>
-<tr><td colspan="13">\* Riserve e dichiarazioni. (gli \* del campo d’applicazione non comprendono le dichiarazioni di tutti gli Stati parte relative al segno distintivo dei veicoli in circolazione internazionale, conformemente all’art. 45 par. 4). Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer, né alla Groenlandia <sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>29 giugno</td><td>2000 A</td><td>29 giugno</td><td>2001</td></tr>
+<tr><td>Andorra</td><td>25 settembre</td><td>2024 A</td><td>25 settembre</td><td>2025</td></tr>
+<tr><td>Arabia Saudita<sup>\*</sup></td><td>12 maggio</td><td>2016 A</td><td>12 maggio</td><td>2017</td></tr>
+<tr><td>Armenia</td><td>8 febbraio</td><td>2005 A</td><td>8 febbraio</td><td>2006</td></tr>
+<tr><td>Austria</td><td>11 agosto</td><td>1981</td><td>11 agosto</td><td>1982</td></tr>
+<tr><td>Azerbaigian</td><td>3 luglio</td><td>2002 A</td><td>3 luglio</td><td>2003</td></tr>
+<tr><td>Bahamas</td><td>14 maggio</td><td>1991 A</td><td>14 maggio</td><td>1992</td></tr>
+<tr><td>Bahrein</td><td>4 maggio</td><td>1973 A</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Belarus<sup>\*</sup></td><td>18 giugno</td><td>1974</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Belgio<sup>\*</sup></td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
+<tr><td>Benin</td><td>7 luglio</td><td>2022 A</td><td>7 luglio</td><td>2023</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Brasile<sup>\*</sup></td><td>29 ottobre</td><td>1980</td><td>29 ottobre</td><td>1981</td></tr>
+<tr><td>Bulgaria<sup>\*</sup></td><td>28 dicembre</td><td>1978</td><td>28 dicembre</td><td>1979</td></tr>
+<tr><td>Capo Verde</td><td>12 giugno</td><td>2018 A</td><td>12 giugno</td><td>2019</td></tr>
+<tr><td>Ceca, Repubblica</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Centrafricana, Repubblica</td><td>3 febbraio</td><td>1988 A</td><td>3 febbraio</td><td>1989</td></tr>
+<tr><td>Congo (Kinshasa)<sup>\*</sup></td><td>25 luglio</td><td>1977 A</td><td>25 luglio</td><td>1978</td></tr>
+<tr><td>Côte d’Ivoire<sup>\*</sup></td><td>24 luglio</td><td>1985 A</td><td>24 luglio</td><td>1986</td></tr>
+<tr><td>Croazia</td><td>23 novembre</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Cuba<sup>\*</sup></td><td>30 settembre</td><td>1977 A</td><td>30 settembre</td><td>1978</td></tr>
+<tr><td>Danimarca<sup>\*</sup> <sup>a</sup></td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td>1987</td></tr>
+<tr><td>Egitto</td><td>15 dicembre</td><td>2023 A</td><td>15 dicembre</td><td>2024</td></tr>
+<tr><td>El Salvador<sup>\*</sup></td><td>27 agosto</td><td>2024 A</td><td>27 agosto</td><td>2025</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>10 gennaio</td><td>2007 A</td><td>10 gennaio</td><td>2008</td></tr>
+<tr><td>Estonia<sup>\*</sup></td><td>24 agosto</td><td>1992 A</td><td>24 agosto</td><td>1993</td></tr>
+<tr><td>Etiopia</td><td>25 agosto</td><td>2021 A</td><td>25 agosto</td><td>2022</td></tr>
+<tr><td>Filippine</td><td>27 dicembre</td><td>1973</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Finlandia<sup>\*</sup></td><td>1 aprile</td><td>1985</td><td>1 aprile</td><td>1986</td></tr>
+<tr><td>Francia</td><td>9 dicembre</td><td>1971</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Territori d’oltre mare</td><td>9 dicembre</td><td>1971</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Georgia</td><td>23 luglio</td><td>1993 A</td><td>23 luglio</td><td>1994</td></tr>
+<tr><td>Germania<sup>\*</sup></td><td>3 agosto</td><td>1978</td><td>3 agosto</td><td>1979</td></tr>
+<tr><td>Grecia</td><td>18 dicembre</td><td>1986 A</td><td>18 dicembre</td><td>1987</td></tr>
+<tr><td>Guyana</td><td>31 gennaio</td><td>1973 A</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Honduras<sup>\*</sup></td><td>3 febbraio</td><td>2020 A</td><td>3 febbraio</td><td>2021</td></tr>
+<tr><td>Iran</td><td>21 maggio</td><td>1976</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Iraq</td><td>1° febbraio</td><td>2017 A</td><td>1° febbraio</td><td>2018</td></tr>
+<tr><td>Israele<sup>\*</sup></td><td>11 maggio</td><td>1971</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Italia</td><td>2 ottobre</td><td>1996</td><td>2 ottobre</td><td>1997</td></tr>
+<tr><td>Kazakstan</td><td>4 aprile</td><td>1994 A</td><td>4 aprile</td><td>1995</td></tr>
+<tr><td>Kenya</td><td>9 settembre</td><td>2009 A</td><td>9 settembre</td><td>2010</td></tr>
+<tr><td>Kirghizistan</td><td>30 agosto</td><td>2006 A</td><td>30 agosto</td><td>2007</td></tr>
+<tr><td>Kuwait<sup>\*</sup></td><td>14 marzo</td><td>1980 A</td><td>14 marzo</td><td>1981</td></tr>
+<tr><td>Lettonia</td><td>19 ottobre</td><td>1992 A</td><td>19 ottobre</td><td>1993</td></tr>
+<tr><td>Liberia</td><td>16 settembre</td><td>2005 A</td><td>16 settembre</td><td>2006</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>2 marzo</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
+<tr><td>Lituania<sup>\*</sup></td><td>20 novembre</td><td>1991 A</td><td>20 novembre</td><td>1992</td></tr>
+<tr><td>Lussemburgo</td><td>25 novembre</td><td>1975</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Macedonia del Nord</td><td>18 agosto</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Maldive</td><td>9 gennaio</td><td>2023 A</td><td>9 gennaio</td><td>2023</td></tr>
+<tr><td>Marocco<sup>\*</sup></td><td>29 dicembre</td><td>1982 A</td><td>29 dicembre</td><td>1983</td></tr>
+<tr><td>Moldova</td><td>26 maggio</td><td>1993 A</td><td>26 maggio</td><td>1994</td></tr>
+<tr><td>Monaco<sup>\*</sup></td><td>6 giugno</td><td>1978 A</td><td>6 giugno</td><td>1979</td></tr>
+<tr><td>Mongolia</td><td>19 dicembre</td><td>1997 A</td><td>19 dicembre</td><td>1998</td></tr>
+<tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Myanmar<sup>\*</sup></td><td>26 giugno</td><td>2019 A</td><td>26 giugno</td><td>2010</td></tr>
+<tr><td>Niger</td><td>11 luglio</td><td>1975 A</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Nigeria</td><td>18 ottobre</td><td>2018 A</td><td>18 ottobre</td><td>2019</td></tr>
+<tr><td>Norvegia<sup>\*</sup></td><td>1° aprile</td><td>1985</td><td>1° aprile</td><td>1986</td></tr>
+<tr><td>Oman<sup>\*</sup></td><td>9 giugno</td><td>2020 A</td><td>9 giugno</td><td>2021</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup> <sup>b</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td>2008</td></tr>
+<tr><td>Pakistan</td><td>19 marzo</td><td>1986 A</td><td>19 marzo</td><td>1987</td></tr>
+<tr><td>Palestina</td><td>11 novembre</td><td>2019 A</td><td>11 novembre</td><td>2020</td></tr>
+<tr><td>Perù</td><td>6 ottobre</td><td>2006 A</td><td>6 ottobre</td><td>2007</td></tr>
+<tr><td>Polonia</td><td>23 agosto</td><td>1984</td><td>23 agosto</td><td>1985</td></tr>
+<tr><td>Portogallo</td><td>30 settembre</td><td>2010</td><td>30 ottobre</td><td>2011</td></tr>
+<tr><td>Qatar<sup>\*</sup></td><td>6 marzo</td><td>2013 A</td><td>6 marzo</td><td>2014</td></tr>
+<tr><td>Regno Unito<sup>\*</sup></td><td>28 marzo</td><td>2018</td><td>28 marzo</td><td>2019</td></tr>
+<tr><td>Gibilterra<sup>\*</sup></td><td>26 febbraio</td><td>2019</td><td>31 marzo</td><td>2019</td></tr>
+<tr><td>Guernesey<sup>\*</sup></td><td>26 febbraio</td><td>2019</td><td>31 marzo</td><td>2019</td></tr>
+<tr><td>Jersey<sup>\*</sup></td><td>26 febbraio</td><td>2019</td><td>31 marzo</td><td>2019</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>9 dicembre</td><td>1980</td><td>9 dicembre</td><td>1981</td></tr>
+<tr><td>Russia<sup>\*</sup></td><td>7 giugno</td><td>1974</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>San Marino</td><td>20 luglio</td><td>1970</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Seicelle</td><td>11 aprile</td><td>1977 A</td><td>11 aprile</td><td>1978</td></tr>
+<tr><td>Senegal</td><td>16 agosto</td><td>1972 A</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Slovacchia</td><td>1° febbraio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Sudafrica<sup>\*</sup></td><td>1° novembre</td><td>1977 A</td><td>1° novembre</td><td>1978</td></tr>
+<tr><td>Svezia<sup>\*</sup></td><td>25 luglio</td><td>1985</td><td>25 luglio</td><td>1986</td></tr>
+<tr><td>Svizzera<sup>\*</sup></td><td>11 dicembre</td><td>1991</td><td>11 dicembre</td><td>1992</td></tr>
+<tr><td>Tagikistan</td><td>9 marzo</td><td>1994 A</td><td>9 marzo</td><td>1995</td></tr>
+<tr><td>Thailandia\*</td><td>1<sup>o</sup> maggio</td><td>2020</td><td>1<sup>o</sup> maggio</td><td>2021</td></tr>
+<tr><td>Tunisia<sup>\*</sup></td><td>5 gennaio</td><td>2004 A</td><td>5 gennaio</td><td>2005</td></tr>
+<tr><td>Turchia<sup>\*</sup></td><td>22 gennaio</td><td>2013 A</td><td>22 gennaio</td><td>2014</td></tr>
+<tr><td>Turkmenistan</td><td>14 giugno</td><td>1993 A</td><td>14 giugno</td><td>1994</td></tr>
+<tr><td>Ucraina<sup>\*</sup></td><td>12 luglio</td><td>1974</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Uganda</td><td>23 agosto</td><td>2022 A</td><td>23 agosto</td><td>2023</td></tr>
+<tr><td>Ungheria<sup>\*</sup></td><td>16 marzo</td><td>1976</td><td>21 maggio</td><td>1977</td></tr>
+<tr><td>Uruguay<sup>\*</sup></td><td>8 aprile</td><td>1981 A</td><td>8 aprile</td><td>1982</td></tr>
+<tr><td>Uzbekistan</td><td>17 gennaio</td><td>1995 A</td><td>17 gennaio</td><td>1996</td></tr>
+<tr><td>Vietnam<sup>\*</sup></td><td>20 agosto</td><td>2014 A</td><td>20 agosto</td><td>2015</td></tr>
+<tr><td>Zimbabwe<sup>\*</sup></td><td>31 luglio</td><td>1981 A</td><td>31 luglio</td><td>1982</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. (gli \* del campo d’applicazione non comprendono le dichiarazioni di tutti gli Stati parte relative al segno distintivo dei veicoli in circolazione internazionale, conformemente all’art. 45 par. 4). Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer, né alla Groenlandia <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-8]: [RU 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104);[2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-8]: [RU 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104);[2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544); [2026 387](https://fedlex.data.admin.ch/eli/oc/2026/387). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 
@@ -2014,27 +2014,28 @@ Segni distintivi dei veicoli in circolazione internazionale[^t-10]
 (art. 45 par. 4)
 
 <table>
-<tr><td>Albania</td><td>AL</td><td>Monaco</td><td>MC</td></tr>
-<tr><td>Andorra</td><td>AND</td><td>Moldova</td><td>MD</td></tr>
-<tr><td>Armenia</td><td>AM</td><td>Mongolia</td><td>MGL</td></tr>
-<tr><td>Austria</td><td>A</td><td>Montenegro</td><td>MNE</td></tr>
-<tr><td>Azerbaigian</td><td>AZ</td><td>Myanmar</td><td>MYA</td></tr>
-<tr><td>Bahrein</td><td>BRN</td><td>Niger</td><td>RN</td></tr>
-<tr><td>Bielorussia</td><td>BY</td><td>Norvegia</td><td>N</td></tr>
-<tr><td>Belgio</td><td>B</td><td>Paesi Bassi</td><td>NL</td></tr>
-<tr><td>Bosnia ed Erzegovina</td><td>BIH</td><td>Pakistan</td><td>PK</td></tr>
-<tr><td>Brasile</td><td>BR</td><td>Palestina</td><td>PS</td></tr>
-<tr><td>Bulgaria</td><td>BG</td><td>Polonia</td><td>PL</td></tr>
-<tr><td>Capo Verde</td><td>CV</td><td>Regno Unito</td><td>UK</td></tr>
-<tr><td>Ceca, Repubblica</td><td>CZ</td><td>Gibilterra</td><td>GBZ</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>ZRE</td><td>Guernesey</td><td>GBG</td></tr>
-<tr><td>Croazia</td><td>HR</td><td>Jersey</td><td>GBJ</td></tr>
-<tr><td>Costa d’Avorio</td><td>CI</td><td>Rep. Centrafricana</td><td>RCA</td></tr>
-<tr><td>Danimarca</td><td>DK</td><td>Romania</td><td>RO</td></tr>
-<tr><td>Egitto</td><td>EG</td><td>Russia</td><td>RUS</td></tr>
-<tr><td>Estonia</td><td>EST</td><td>San Marino</td><td>RSM</td></tr>
-<tr><td>Filippine</td><td>RP</td><td>Seicelle</td><td>SY</td></tr>
-<tr><td>Finlandia</td><td>FIN</td><td>Senegal</td><td>SN</td></tr>
+<tr><td>Albania</td><td>AL</td><td>Marocco</td><td>MA</td></tr>
+<tr><td>Andorra</td><td>AND</td><td>Monaco</td><td>MC</td></tr>
+<tr><td>Armenia</td><td>AM</td><td>Moldova</td><td>MD</td></tr>
+<tr><td>Austria</td><td>A</td><td>Mongolia</td><td>MGL</td></tr>
+<tr><td>Azerbaigian</td><td>AZ</td><td>Montenegro</td><td>MNE</td></tr>
+<tr><td>Bahrein</td><td>BRN</td><td>Myanmar</td><td>MYA</td></tr>
+<tr><td>Bielorussia</td><td>BY</td><td>Niger</td><td>RN</td></tr>
+<tr><td>Belgio</td><td>B</td><td>Norvegia</td><td>N</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>BIH</td><td>Paesi Bassi</td><td>NL</td></tr>
+<tr><td>Brasile</td><td>BR</td><td>Pakistan</td><td>PK</td></tr>
+<tr><td>Bulgaria</td><td>BG</td><td>Palestina</td><td>PS</td></tr>
+<tr><td>Capo Verde</td><td>CV</td><td>Polonia</td><td>PL</td></tr>
+<tr><td>Ceca, Repubblica</td><td>CZ</td><td>Regno Unito</td><td>UK</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>ZRE</td><td>Gibilterra</td><td>GBZ</td></tr>
+<tr><td>Croazia</td><td>HR</td><td>Guernesey</td><td>GBG</td></tr>
+<tr><td>Costa d’Avorio</td><td>CI</td><td>Jersey</td><td>GBJ</td></tr>
+<tr><td>Danimarca</td><td>DK</td><td>Rep. Centrafricana</td><td>RCA</td></tr>
+<tr><td>Egitto</td><td>EG</td><td>Romania</td><td>RO</td></tr>
+<tr><td>Estonia</td><td>EST</td><td>Russia</td><td>RUS</td></tr>
+<tr><td>Filippine</td><td>RP</td><td>San Marino</td><td>RSM</td></tr>
+<tr><td>Finlandia</td><td>FIN</td><td>Seicelle</td><td>SY</td></tr>
+<tr><td>Regione autonoma delle Isole Åland</td><td>AX</td><td>Senegal</td><td>SN</td></tr>
 <tr><td>Francia (Francia-Territori d’oltre mare)</td><td>F</td><td>Serbia</td><td>SRB</td></tr>
 <tr><td>Georgia</td><td>GE</td><td>Slovacchia</td><td>SK</td></tr>
 <tr><td>Germania</td><td>D</td><td>Slovenia</td><td>SLO</td></tr>
@@ -2052,7 +2053,6 @@ Segni distintivi dei veicoli in circolazione internazionale[^t-10]
 <tr><td>Lituania</td><td>LT</td><td>Vietnam</td><td>VN</td></tr>
 <tr><td>Lussemburgo</td><td>L</td><td>Zimbabwe</td><td>ZW</td></tr>
 <tr><td>Macedonia del Nord</td><td>MK</td><td></td><td></td></tr>
-<tr><td>Marocco</td><td>MA</td><td></td><td></td></tr>
 </table>
 
-[^t-10]: [RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544).
+[^t-10]: [RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544); [2026 387](https://fedlex.data.admin.ch/eli/oc/2026/387).
