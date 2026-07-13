@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 11 août 1999 sur l'asile relative au financement (Ordon
 short: OA 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: fr
-version: 2026-06-12
+version: 2026-07-14
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260612-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260714/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260714-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260714/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260612/fr"
 
 (Ordonnance 2 sur l’asile, OA 2)
 
-du 11 août 1999 (État le 12 juin 2026)
+du 11 août 1999 (État le 14 juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -485,36 +485,38 @@ Le nombre consolidé est obtenu par la formule suivante:
 La Confédération verse aux cantons des forfaits globaux pour les réfugiés et les apatrides. Elle verse ces forfaits à compter du début du mois qui suit la décision relative à l’octroi de l’asile, à l’admission provisoire pour réfugié ou à la reconnaissance de l’apatridie jusqu’à la fin du mois où:
 
 - a. le réfugié obtient une autorisation d’établissement ou un droit à l’octroi d’une telle autorisation naît pour l’intéressé conformément à l’art. 42, al. 3 et 4, ou 43, al. 5 et 6, LEI[^24-2], mais au plus pendant cinq ans à compter du dépôt de la demande d’asile qui a mené à l’octroi de l’asile;
-- b. le réfugié admis à titre provisoire obtient une autorisation de séjour ou d’établissement en vertu du droit des étrangers ou un droit à l’octroi d’une telle autorisation naît pour l’intéressé conformément à l’art. 42 ou 43, al. 1, 5 et 6, LEI ou à l’art. 3 de l’annexe I de l’ALCP[^24-3] ou à l’art. 3 de l’appendice 1 de l’annexe K de la Convention instituant l’AELE[^24-4], mais au plus pendant sept ans à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois;
-- b<sup>bis</sup>.[^24-5] le réfugié frappé d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^24-6] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^24-7], ou d’une décision exécutoire d’expulsion au sens de l’art. 68 LEI a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus pendant cinq ans à compter du dépôt de sa demande d’asile;
+- b.[^24-3] le réfugié admis à titre provisoire obtient une autorisation de séjour ou d’établissement en vertu du droit des étrangers ou un droit à l’octroi d’une telle autorisation naît pour l’intéressé conformément à l’art. 42 ou 43, al. 1, 5 et 6, LEI, à l’art. 3 de l’annexe I de l’ALCP[^24-4] ou à l’art. 3 de l’appendice 1 de l’annexe K de la Convention instituant l’AELE[^24-5], mais au plus pendant sept ans à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois;
+- b<sup>bis</sup>.[^24-6] le réfugié frappé d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal (CP)[^24-7] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927 (CPM)[^24-8], ou d’une décision exécutoire d’expulsion au sens de l’art. 68 LEI a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus pendant cinq ans à compter du dépôt de sa demande d’asile;
 - c. l’apatride obtient une autorisation d’établissement ou un tel droit naît pour l’intéressé conformément à l’art. 42, al. 3 et 4, ou 43, al. 5 et 6, LEI, mais au plus pendant cinq ans à compter de la reconnaissance de l’apatridie;
-- d. l’apatride admis à titre provisoire obtient une autorisation de séjour ou d’établissement en vertu du droit des étrangers ou un droit à l’octroi d’une telle autorisation naît pour l’intéressé conformément à l’art. 42 ou 43, al. 1, 5 et 6, LEI ou à l’art. 3 de l’appendice 1 de l’annexe K de la Convention instituant l’AELE, mais au plus pendant sept ans à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois;
-- d<sup>bis</sup>.[^24-8] l’apatride frappé d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> CP ou 49*a* ou 49*a*<sup>bis</sup> CPM, ou d’une décision exécutoire d’expulsion au sens de l’art. 68 LEI a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus pendant cinq ans à compter de la reconnaissance de l’apatridie;
+- d.[^24-9] l’apatride admis à titre provisoire obtient une autorisation de séjour ou d’établissement en vertu du droit des étrangers ou un droit à l’octroi d’une telle autorisation naît pour l’intéressé conformément à l’art. 42 ou 43, al. 1, 5 et 6, LEI, à l’art. 3 de l’annexe I de l’ALCP ou à l’art. 3 de l’appendice 1 de l’annexe K de la Convention instituant l’AELE, mais au plus pendant sept ans à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois;
+- d<sup>bis</sup>.[^24-10] l’apatride frappé d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> CP ou 49*a* ou 49*a*<sup>bis</sup> CPM, ou d’une décision exécutoire d’expulsion au sens de l’art. 68 LEI a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes, mais au plus pendant cinq ans à compter de la reconnaissance de l’apatridie;
 - e. l’asile est révoqué et la qualité de réfugié est retirée;
-- f. le réfugié ou l’apatride a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes.[^24-9]
+- f. le réfugié ou l’apatride a définitivement quitté la Suisse ou est parti sans annoncer son départ aux autorités compétentes.[^24-11]
 
 <sup>2</sup> Lorsque l’intéressé a droit à une autorisation de séjour ou d’établissement, le forfait global n’est pas remboursé pendant la durée de la procédure d’octroi de l’autorisation. Si l’autorisation de séjour ou d’établissement est refusée dans le cadre d’une décision cantonale exécutoire, la Confédération rembourse rétroactivement au canton, sur demande, le forfait global au plus jusqu’à ce que le motif du refus soit devenu caduc.
 
 <sup>3</sup> La Confédération verse aux cantons, conformément à l’art. 26, la moitié du forfait global en faveur des personnes à protéger titulaires d’une autorisation de séjour du jour où elles ont droit à une telle autorisation en vertu de l’art. 74, al. 2, LAsi au jour où elles obtiennent pour la première fois une autorisation d’établissement ou qu’elles ont droit à une telle autorisation, mais au plus tard jusqu’au moment où une telle autorisation pourrait être délivrée conformément à l’art. 74, al. 3, LAsi.
 
-<sup>4</sup> Lorsqu’une personne ayant fait l’objet d’une décision d’admission provisoire exécutoire est par la suite reconnue comme réfugié ou comme apatride, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale du séjour déjà effectuée à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois.[^24-10]
+<sup>4</sup> Lorsqu’une personne ayant fait l’objet d’une décision d’admission provisoire exécutoire est par la suite reconnue comme réfugié ou comme apatride, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale du séjour déjà effectuée à compter de l’entrée de l’intéressé en Suisse à la suite de laquelle l’admission provisoire a été ordonnée pour la première fois.[^24-12]
 
-<sup>5</sup> Lorsqu’une personne ayant obtenu une protection provisoire est par la suite reconnue comme réfugié ou comme apatride, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale de la protection provisoire.[^24-11]
+<sup>5</sup> Lorsqu’une personne ayant obtenu une protection provisoire est par la suite reconnue comme réfugié ou comme apatride, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale de la protection provisoire.[^24-13]
 
-<sup>6</sup> Lorsqu’un réfugié reconnu est par la suite reconnu comme apatride ou qu’un apatride reconnu est par la suite reconnu comme réfugié, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale du séjour déjà effectuée à compter de la date du dépôt de sa demande d’asile ou de la reconnaissance de son apatridie.[^24-12]
+<sup>6</sup> Lorsqu’un réfugié reconnu est par la suite reconnu comme apatride ou qu’un apatride reconnu est par la suite reconnu comme réfugié, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale du séjour déjà effectuée à compter de la date du dépôt de sa demande d’asile ou de la reconnaissance de son apatridie.[^24-14]
 
 [^24-1]: Voir aussi les disp. trans. de la mod. du 7 déc. 2012 et du 30 mars 2022 à la fin du texte.
 [^24-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^24-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^24-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
-[^24-5]: Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^24-7]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^24-8]: Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-9]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^24-10]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
-[^24-11]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
-[^24-12]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-3]: Erratum du 14 juil. 2026 ([RO 2026 382](https://fedlex.data.admin.ch/eli/oc/2026/382)).
+[^24-4]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^24-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^24-6]: Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-7]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-8]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^24-9]: Erratum du 14 juil. 2026 ([RO 2026 382](https://fedlex.data.admin.ch/eli/oc/2026/382)).
+[^24-10]: Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-11]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^24-12]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-13]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-14]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 24a
 

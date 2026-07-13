@@ -4,11 +4,11 @@ title: "Asylverordnung 2 vom 11. August 1999 über Finanzierungsfragen (Asylvero
 short: AsylV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: de
-version: 2026-06-12
+version: 2026-07-14
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260612/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260612-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260714/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260714-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260714/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260612/de"
 
 (Asylverordnung 2, AsylV 2)
 
-vom 11. August 1999 (Stand am 12. Juni 2026)
+vom 11. August 1999 (Stand am 14. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -487,36 +487,37 @@ In der Formel bedeuten:
 Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlose. Er vergütet diese Pauschalen ab Beginn des Monats, welcher dem Entscheid über die Asylgewährung, über die Aufnahme als vorläufig aufgenommener Flüchtling oder über die Anerkennung als staatenlose Person folgt, bis und mit dem Ende des Monats, in dem:
 
 - a. ein Flüchtling eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absätze 3 und 4 oder 43 Absätze 5 und 6 AIG[^24-2] ein Anspruch darauf besteht, längstens aber 5 Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches, welches zur Asylgewährung geführt hat;
-- b. ein vorläufig aufgenommener Flüchtling eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erhält oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG oder nach Artikel 3 Anhang I FZA[^24-3] oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA)[^24-4] ein Anspruch darauf besteht, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist;
-- b<sup>bis</sup>.[^24-5] ein Flüchtling mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^24-6] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^24-7] (MStG) oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches;
+- b.[^24-3] ein vorläufig aufgenommener Flüchtling eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erhält oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG oder nach Artikel 3 Anhang I FZA[^24-4] oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA)[^24-5] ein Anspruch darauf besteht, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist;
+- b<sup>bis</sup>.[^24-6] ein Flüchtling mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^24-7] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^24-8] (MStG) oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches;
 - c. eine staatenlose Person eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absätze 3 und 4 oder 43 Absätze 5 und 6 AIG ein Anspruch darauf besteht, längstens aber 5 Jahre seit der Anerkennung der Staatenlosigkeit;
 - d. eine vorläufig aufgenommene staatenlose Person eine ausländerrechtliche Aufenthalts‑ oder Niederlassungsbewilligung erhält oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG oder nach Artikel 3 Anhang I FZA oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ein Anspruch darauf besteht, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist*;*
-- d<sup>bis</sup>.[^24-8] ein Staatenloser mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit der Anerkennung der Staatenlosigkeit;
+- d<sup>bis</sup>.[^24-9] ein Staatenloser mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit der Anerkennung der Staatenlosigkeit;
 - e. das Asyl widerrufen und die Flüchtlingseigenschaft aberkannt wird;
-- f. ein Flüchtling oder eine staatenlose Person die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist.[^24-9]
+- f. ein Flüchtling oder eine staatenlose Person die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist.[^24-10]
 
 <sup>2</sup> Entsteht ein Anspruch auf Erteilung einer Aufenthalts- oder Niederlassungsbewilligung, wird während der Dauer des Bewilligungsverfahrens die Globalpauschale nicht vergütet. Liegt ein rechtskräftiger kantonaler Entscheid bezüglich der Verweigerung der Aufenthalts- oder Niederlassungsbewilligung vor, vergütet der Bund dem Kanton auf Gesuch hin die Globalpauschale rückwirkend bis längstens zum Wegfall des Verweigerungsgrundes.
 
 <sup>3</sup> Der Bund zahlt den Kantonen für Schutzbedürftige mit einer Aufenthaltsbewilligung die Hälfte der Globalpauschale nach Artikel 26 vom Tag an, an dem diese nach Artikel 74 Absatz 2 des AsylG einen Anspruch auf die Erteilung einer Aufenthaltsbewilligung haben, bis und mit dem Tag, an dem sie erstmals eine Niederlassungsbewilligung erhalten oder ein Anspruch darauf besteht, längstens aber bis zum Zeitpunkt, in dem eine solche nach Artikel 74 Absatz 3 des AsylG erteilt werden könnte.
 
-<sup>4</sup> Wird eine rechtskräftig vorläufig aufgenommene Person zu einem späteren Zeitpunkt als Flüchtling oder staatenlose Person anerkannt, so wird die Dauer ihres bisherigen Aufenthalts ab dem Zeitpunkt derjenigen Einreise in die Schweiz, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist, vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-10]
+<sup>4</sup> Wird eine rechtskräftig vorläufig aufgenommene Person zu einem späteren Zeitpunkt als Flüchtling oder staatenlose Person anerkannt, so wird die Dauer ihres bisherigen Aufenthalts ab dem Zeitpunkt derjenigen Einreise in die Schweiz, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist, vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-11]
 
-<sup>5</sup> Wird eine Person, der vorübergehender Schutz gewährt worden ist, zu einem späteren Zeitpunkt als Flüchtling oder staatenlose Person anerkannt, so wird die Dauer der Schutzgewährung vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-11]
+<sup>5</sup> Wird eine Person, der vorübergehender Schutz gewährt worden ist, zu einem späteren Zeitpunkt als Flüchtling oder staatenlose Person anerkannt, so wird die Dauer der Schutzgewährung vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-12]
 
-<sup>6</sup> Wird ein anerkannter Flüchtling zu einem späteren Zeitpunkt als staatenlose Person anerkannt oder wird eine anerkannte staatenlose Person zu einem späteren Zeitpunkt als Flüchtling anerkannt, so wird die Dauer des bisherigen Aufenthalts ab Einreichung des Asylgesuchs oder ab Anerkennung der Staatenlosigkeit vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-12]
+<sup>6</sup> Wird ein anerkannter Flüchtling zu einem späteren Zeitpunkt als staatenlose Person anerkannt oder wird eine anerkannte staatenlose Person zu einem späteren Zeitpunkt als Flüchtling anerkannt, so wird die Dauer des bisherigen Aufenthalts ab Einreichung des Asylgesuchs oder ab Anerkennung der Staatenlosigkeit vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-13]
 
 [^24-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
 [^24-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^24-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^24-4]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
-[^24-5]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-6]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^24-7]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^24-8]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-9]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^24-10]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-3]: Die Berichtigung vom 14. Juli 2026 betrifft nur den französischen Text.
+[^24-4]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^24-5]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^24-6]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-7]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-8]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^24-9]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-10]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^24-11]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
-[^24-12]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-12]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-13]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 24a
 

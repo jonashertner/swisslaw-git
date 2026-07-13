@@ -4,18 +4,20 @@ title: "Ordinanza 2 dell' 11 agosto 1999 sull'asilo relativa alle questioni fina
 short: OAsi 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: it
-version: 2026-06-12
+version: 2026-07-14
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260612/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260612-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260714/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260714-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260714/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza 2 sull’asilo relativa alle questioni finanziarie (Ordinanza 2 sull’asilo, OAsi 2)
+# Ordinanza 2 sull’asilo relativa alle questioni finanziarie
 
-dell’11 agosto 1999 (Stato 12 giugno 2026)
+(Ordinanza 2 sull’asilo, OAsi 2)
+
+dell’11 agosto 1999 (Stato 14 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -483,36 +485,37 @@ Nella formula s’intende per:
 La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apolidi. Versa tali somme forfettarie a contare dall’inizio del mese seguente la decisione concernente il riconoscimento della qualità di rifugiato, l’ammissione provvisoria del rifugiato o il riconoscimento dello statuto di apolide, fino alla fine del mese in cui:
 
 - a. il rifugiato ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui all’articolo 42 capoversi 3 e 4 oppure 43 capoversi 5 e 6 LStrI[^24-2] per la pretesa al rilascio di un permesso di domicilio, ma al massimo per cinque anni a contare dalla presentazione della domanda d’asilo in seguito alla quale è stato concesso l’asilo;
-- b. il rifugiato ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI o di cui all’articolo 3 allegato I ALC[^24-3] o di cui all’articolo 3 allegato K appendice 1 della Convenzione istitutiva dell’AELS[^24-4] per la pretesa al rilascio di un permesso di dimora, ma al massimo per sette anni dopo l’entrata dalla quale è stata disposta per la prima volta l’ammissione provvisoria;
-- b<sup>bis</sup>.[^24-5] il rifugiato contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^24-6] o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^24-7] (CPM) o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al più tardi cinque anni dopo la presentazione della domanda d’asilo;
+- b.[^24-3] il rifugiato ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI o di cui all’articolo 3 allegato I ALC[^24-4] o di cui all’articolo 3 allegato K appendice 1 della Convenzione istitutiva dell’AELS[^24-5] per la pretesa al rilascio di un permesso di dimora, ma al massimo per sette anni dopo l’entrata dalla quale è stata disposta per la prima volta l’ammissione provvisoria;
+- b<sup>bis</sup>.[^24-6] il rifugiato contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^24-7] o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^24-8] (CPM) o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al più tardi cinque anni dopo la presentazione della domanda d’asilo;
 - c. l’apolide ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui all’articolo 42 capoversi 3 e 4 oppure 43 capoversi 5 e 6 LStrI per la pretesa al rilascio di un permesso di domicilio, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
 - d. l’apolide ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI o di cui all’articolo 3 allegato I ALC o di cui all’articolo 3 appendice 1 allegato K della Convenzione istitutiva dell’AELS, ma al massimo per sette anni dopo l’entrata dalla quale è stata disposta per la prima volta l’ammissione provvisoria;
-- d<sup>bis</sup>.[^24-8] l’apolide contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
+- d<sup>bis</sup>.[^24-9] l’apolide contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
 - e. l’asilo è revocato e la qualità di rifugiato è disconosciuta;
-- f. un rifugiato o un apolide ha lasciato definitivamente la Svizzera o è partito senza essere controllato.[^24-9]
+- f. un rifugiato o un apolide ha lasciato definitivamente la Svizzera o è partito senza essere controllato.[^24-10]
 
 <sup>2</sup> Se sussiste il diritto al rilascio di un permesso di dimora o di domicilio, la somma forfettaria non è versata per la durata della procedura di rilascio del permesso. In presenza di una decisione cantonale passata in giudicato di rifiuto a rilasciare un permesso di dimora o di domicilio, la Confederazione versa al Cantone su richiesta la somma forfettaria globale retroattivamente al massimo fino al venir meno del motivo di rifiuto.
 
 <sup>3</sup> Per le persone bisognose di protezione titolari di un permesso di dimora, la Confederazione versa ai Cantoni la metà della somma forfettaria globale giusta l’articolo 26 a contare dalla data in cui tali persone hanno diritto, in virtù dell’articolo 74 capoverso 2 LAsi, al rilascio di un permesso di dimora, fino al giorno in cui ottengono un permesso iniziale di domicilio o vi hanno diritto, ma al più tardi fino alla data in cui un tale permesso potrebbe essere rilasciato in virtù dell’articolo 74 capoverso 3 LAsi.
 
-<sup>4</sup> Se una persona ammessa provvisoriamente con decisione passata in giudicato viene riconosciuta in un secondo momento come rifugiato o apolide, la durata del suo soggiorno a contare dall’entrata in Svizzera dopo la quale è stata ordinata per la prima volta l’ammissione provvisoria viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-10]
+<sup>4</sup> Se una persona ammessa provvisoriamente con decisione passata in giudicato viene riconosciuta in un secondo momento come rifugiato o apolide, la durata del suo soggiorno a contare dall’entrata in Svizzera dopo la quale è stata ordinata per la prima volta l’ammissione provvisoria viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-11]
 
-<sup>5</sup> Se una persona a cui è stata concessa la protezione provvisoria viene riconosciuta in un secondo momento come rifugiato o apolide, la durata della concessione della protezione provvisoria viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-11]
+<sup>5</sup> Se una persona a cui è stata concessa la protezione provvisoria viene riconosciuta in un secondo momento come rifugiato o apolide, la durata della concessione della protezione provvisoria viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-12]
 
-<sup>6</sup> Se un rifugiato riconosciuto viene riconosciuto in un secondo momento come apolide o se un apolide riconosciuto viene riconosciuto in un secondo momento come rifugiato, la durata del suo soggiorno a contare dalla presentazione della domanda d’asilo o dal riconoscimento della qualità di apolide viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-12]
+<sup>6</sup> Se un rifugiato riconosciuto viene riconosciuto in un secondo momento come apolide o se un apolide riconosciuto viene riconosciuto in un secondo momento come rifugiato, la durata del suo soggiorno a contare dalla presentazione della domanda d’asilo o dal riconoscimento della qualità di apolide viene interamente computata sulla durata massima dell’obbligo di rimborsare le spese ai sensi del capoverso 1 lettere a–d<sup>bis</sup>.[^24-13]
 
 [^24-1]: Vedi anche le disp. fin. delle mod. del 7 dic. 2012 e del 30 mar. 2022 alla fine del presente testo.
 [^24-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^24-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^24-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
-[^24-5]: Nuovo testo giusta la cifra I n. 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^24-7]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^24-8]: Nuovo testo giusta la cifra I n. 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-9]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^24-10]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-3]: Correzione del 14 lug. 2026, concerne soltanto il testo francese ([RU 2026 382](https://fedlex.data.admin.ch/eli/oc/2026/382)).
+[^24-4]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^24-5]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^24-6]: Nuovo testo giusta la cifra I n. 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-7]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-8]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^24-9]: Nuovo testo giusta la cifra I n. 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-10]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^24-11]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
-[^24-12]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-12]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
+[^24-13]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
 #### Art. 24
 
