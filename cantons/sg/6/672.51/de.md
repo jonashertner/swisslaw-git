@@ -4,11 +4,12 @@ number: "672.51"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Chemikaliengesetzgebung
 language: de
 version: 2017-07-01
+corrected: 2026-07-14
 version_adopted: 2017-05-16
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/672.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3923/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2242/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -46,9 +47,9 @@ als Verordnung:[^ingress-2]
 - b) vollzieht die eidg Vorschriften über Verbote bei schadstoffhaltigen Kondensatoren und Transformatoren;[^2-2]
 - c) vollzieht die eidg Vorschriften über den Umgang mit Abfällen halogenierter Lösungsmittel.[^2-3]
 
-[^2-1]: Anhang 2.6 der eidgenössischen Chemikalien-Risikoreduktions-Verordnung, SR [814.81](https://db.clex.ch/link/Bund/814.81/de).
-[^2-2]: Anhang 2.14 der eidgenössischen Chemikalien-Risikoreduktions-Verordnung, SR [814.81](https://db.clex.ch/link/Bund/814.81/de).
-[^2-3]: Anhang 2.3 der eidgenössischen Chemikalien-Risikoreduktions-Verordnung, SR [814.81](https://db.clex.ch/link/Bund/814.81/de).
+[^2-1]: Anhang 2.6 der eidgenössischen Chemikalien-Risikoreduktions Verordnung, SR [814.81](https://db.clex.ch/link/Bund/814.81/de).
+[^2-2]: Anhang 2.14 der eidgenössischen Chemikalien-Risikoreduktions Verordnung, SR [814.81](https://db.clex.ch/link/Bund/814.81/de).
+[^2-3]: Anhang 2.3 der eidgenössischen Chemikalien-Risikoreduktions Verordnung, SR [814.81](https://db.clex.ch/link/Bund/814.81/de).
 
 #### Art. 3
 
