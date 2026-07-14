@@ -4,11 +4,11 @@ title: Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister
 short: BURV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: de
-version: 2025-06-01
+version: 2026-07-15
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20250601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20260715/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20260715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/de"
 
 (BURV)[^t-1]
 
-vom 30. Juni 1993 (Stand am 1. Juni 2025)
+vom 30. Juni 1993 (Stand am 15. Juli 2026)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -321,15 +321,9 @@ Aus dem BUR dürfen keine Daten veröffentlicht werden, die Rückschlüsse auf d
 
 #### Art. 13
 
-**Gebühren**
+[^13-1]
 
-<sup>1</sup> Für die Weitergabe von Daten aus dem BUR erhebt das BFS grundsätzlich eine Gebühr.
-
-<sup>2</sup> Die Weitergabe von Daten aus dem BUR an Bundesstellen und Statistikstellen der Kantone und Gemeinden sowie an übrige Stellen, die Bundesaufgaben durchführen, ist kostenlos.
-
-<sup>3</sup> Die Berechnung der Gebühr erfolgt nach der Verordnung vom 30. Juni 1993[^13-1] über die Gebühren für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
-
-[^13-1]: [[AS 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)Anhang 1 Ziff. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114), [1555](https://fedlex.data.admin.ch/eli/oc/2000/239)Art. 18. [AS 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)Art. 23]. Siehe heute die V vom 25. Juni 2003 über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes ([SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)).
+[^13-1]: Aufgehoben durch Anhang 2 Ziff. 4 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, mit Wirkung seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 ## 4. Abschnitt: Datenschutz und -sicherheit, Strafbestimmungen
 

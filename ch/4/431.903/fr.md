@@ -4,11 +4,11 @@ title: Ordonnance du 30 juin 1993 sur le Registre des entreprises et des établi
 short: OREE
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: fr
-version: 2025-06-01
+version: 2026-07-15
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20250601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20260715/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20260715-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20260715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/fr"
 
 (OREE[^t-1])
 
-du 30 juin 1993 (État le 1<sup>er</sup> juin 2025)
+du 30 juin 1993 (État le 15 juillet 2026)
 
 [^t-1]: Introduite par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -322,15 +322,9 @@ Les données contenues dans le REE qui permettent de déduire des faits relatifs
 
 #### Art. 13
 
-**Émoluments**
+[^13-1]
 
-<sup>1</sup> En règle générale, l’OFS communique les données du REE contre émolument.
-
-<sup>2</sup> La communication de données du REE à des services de la Confédération et à des services cantonaux ou communaux de statistique, ainsi qu’à d’autres services exécutant des tâches de la Confédération, est gratuite.
-
-<sup>3</sup> Le calcul des émoluments se fonde sur les dispositions de l’ordonnance du 30 juin 1993 sur les émoluments pour les prestations de services statistiques des unités administratives fédérales[^13-1].
-
-[^13-1]: [[RO 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)annexe 1 ch. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114)[1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18. [RO 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)art. 23]. Voir actuellement l’O du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération ([RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)).
+[^13-1]: Abrogé par l’annexe 2 ch. 4 de l’O du 5 juin 2026 sur les émoluments dans le domaine statistique, avec effet au 15 juil. 2026 ([RO 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 ## Section 4 Protection et sécurité des données, dispositions pénales
 

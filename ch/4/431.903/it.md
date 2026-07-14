@@ -4,11 +4,11 @@ title: Ordinanza del 30 giugno 1993 sul Registro delle imprese e degli stabilime
 short: ORIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: it
-version: 2025-06-01
+version: 2026-07-15
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20250601/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20250601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20260715/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20260715-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20260715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20250601/it"
 
 (ORIS)[^t-1]
 
-del 30 giugno 1993 (Stato 1° giugno 2025)
+del 30 giugno 1993 (Stato 15 luglio 2026)
 
 [^t-1]: Introdotta dalla cifra I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -97,7 +97,7 @@ Il RIS contiene i dati seguenti:[^3-3]
 - i. la data in cui è stata resa nota la chiusura dell’impresa o dello stabilimento;
 - j. il capitale sociale delle società anonime;
 - k.[^3-5] per gli stabilimenti sottoposti alla legge del 29 aprile 1998[^3-6] sull’agricoltura, alla legge del 1° luglio 1966[^3-7] sulle epizoozie, alla legge del 16 dicembre 2005[^3-8] sulla protezione degli animali o alla legge del 9 ottobre 1992[^3-9] sulle derrate alimentari: il nome e l’indirizzo dello stabilimento e del gestore o detentore di animali nonché il nome, la professione e l’anno di nascita della persona responsabile;
-- [tab] k<sup>bis</sup>.[^3-10] per le aziende agricole, oltre ai dati di cui alla lettera k: la struttura dello stabilimento;
+- k<sup>bis</sup>.[^3-10] per le aziende agricole, oltre ai dati di cui alla lettera k: la struttura dello stabilimento;
 - l.[^3-11] ...
 - m. un numero di identificazione che non fornisce altre indicazioni (numero ENTID) dell’impresa;
 - n. il numero di identificazione di riferimento che non fornisce altre indicazioni (numero REF-ENT);
@@ -327,15 +327,9 @@ I dati del RIS che consentono di trarre conclusioni sulla situazione di determin
 
 #### Art. 13
 
-**Emolumenti**
+[^13-1]
 
-<sup>1</sup> Per la comunicazione di dati contenuti nel RIS l’UST riscuote di norma un emolumento.
-
-<sup>2</sup> La comunicazione di dati contenuti nel RIS ai servizi della Confederazione e ai servizi statistici dei Cantoni e dei Comuni, nonché agli altri servizi che svolgono compiti della Confederazione è gratuita.
-
-<sup>3</sup> Il calcolo degli emolumenti è effettuato conformemente all’ordinanza del 30 giugno 1993[^13-1] sugli emolumenti per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
-
-[^13-1]: [[RU 1993 2243](https://fedlex.data.admin.ch/eli/oc/1993/2243_2243_2243); [1995 153](https://fedlex.data.admin.ch/eli/oc/1995/153_153_153)all. 1 n. 3; [2000 667](https://fedlex.data.admin.ch/eli/oc/2000/114), [1555](https://fedlex.data.admin.ch/eli/oc/2000/239)art. 18. [RU 2003 2197](https://fedlex.data.admin.ch/eli/oc/2003/326)art. 23]. Ora: O del 25 giu. 2003 sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione ([RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)).
+[^13-1]: Abrogato dall’all. 2 n. 4 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, con effetto dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 ## Sezione 4: Protezione e sicurezza dei dati, disposizioni penali
 
