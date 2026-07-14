@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sull’imposizione minima (OImM) in adempimento delle mozioni 25.4392 e 25.4399
 document: Progetto posto in consultazione
 language: it

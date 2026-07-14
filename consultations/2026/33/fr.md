@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur l’imposition minimale (OIMin ; mise en œuvre des motions 25.4392 et 25.4399)
 document: Projet mis en consultation
 language: fr

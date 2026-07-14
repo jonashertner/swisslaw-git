@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Mindestbesteuerungsverordnung (MindStV; Umsetzung der Motionen 25.4392 und 25. 4399)
 document: Vernehmlassungsvorlage
 language: de
