@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: "Ordinanza del Consiglio delle scuole universitarie del 28 maggio 2015 per l'accreditamento nel settore universitario svizzero (Ordinanza per l'accreditamento LPSU)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: it
-version: 2022-08-01
+version: 2026-07-15
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20260715/it/xml/fedlex-data-admin-ch-eli-cc-2015-362-20260715-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20260715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/it"
 
 (Ordinanza per l’accreditamento LPSU)[^t-1]
 
-del 28 maggio 2015 (Stato 1° agosto 2022)
+del 28 maggio 2015 (Stato 15 luglio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 Il Consiglio delle scuole universitarie,
 
@@ -26,9 +26,9 @@ visto l’articolo 30 capoverso 2 della legge del 30 settembre 2011[^ingress-1] 
 
 ordina:[^ingress-3]
 
-[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -36,15 +36,15 @@ ordina:[^ingress-3]
 
 **Oggetto**
 
-La presente ordinanza[^1-1] specifica le condizioni per l’accreditamento istituzionale secondo l’articolo 30 LPSU e per l’accreditamento di programmi secondo l’articolo 31 LPSU. Esse stabiliscono:
+La presente ordinanza[^1-1]: specifica le condizioni per l’accreditamento istituzionale secondo l’articolo 30 LPSU e per l’accreditamento di programmi secondo l’articolo 31 LPSU. Essa stabilisce:
 
 - a. le condizioni di ammissione alla procedura di accreditamento;
 - b. le condizioni per l’accreditamento istituzionale e l’accreditamento di programmi, nonché gli effetti dell’accreditamento istituzionale;
-- c.[^1-2] la procedura dell’accreditamento iniziale e del primo rinnovo dell’accreditamento;
+- c.[^1-2] la procedura dell’accreditamento iniziale e del rinnovo dell’accreditamento;
 - d. gli standard di qualità da applicare nelle procedure.
 
-[^1-1]: Nuova espr. giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^1-2]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 19 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^1-1]: Nuova espr. giusta la cifra I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-2]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 2
 
@@ -53,11 +53,12 @@ La presente ordinanza[^1-1] specifica le condizioni per l’accreditamento istit
 Sono considerati programmi di studio ai sensi della presente ordinanza:
 
 - a. programmi di studio bachelor di 180 ECTS[^2-1];
-- b. programmi di studio master di 90–120 ECTS;
+- b.[^2-2] programmi di studio master di 90 o 120 ECTS; sono fatti salvi altri requisiti concernenti il numero di crediti risultanti da disposizioni speciali sancite in leggi federali o nel diritto intercantonale sul riconoscimento dei diplomi;
 - c. programmi di studio di formazione continua di almeno 60 ECTS;
 - d. programmi di studio il cui accreditamento secondo la LPSU è previsto in una legge speciale.
 
 [^2-1]: ECTS = European Credit Transfer System
+[^2-2]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 3
 
@@ -104,11 +105,11 @@ Una scuola universitaria o un altro istituto accademico può accedere alla proce
 - c. è stata riconosciuta come avente diritto ai sussidi secondo la legge dell’8 ottobre 1999[^4-4] sull’aiuto alle università (LAU) o la legge federale del 6 ottobre 1995[^4-5] sulle scuole universitarie professionali (LSUP) (art. 75 cpv. 2 LPSU);
 - d. aveva ottenuto il riconoscimento di alta scuola pedagogica di diritto pubblico secondo il diritto cantonale prima dell’entrata in vigore della LPSU.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
-[^4-3]: Abrogata dal n. I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^4-4]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 10. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 1]
-[^4-5]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 2]
+[^4-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^4-3]: Abrogata dalla cifra I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^4-4]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. cifra II n. 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II n. 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II n. 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 10. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I n. 1]
+[^4-5]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I n. 2]
 
 #### Art. 5
 
@@ -130,7 +131,7 @@ Per i programmi di studio congiunti si applicano le stesse regole e gli stessi s
 
 <sup>3</sup> I programmi di studio sono ammessi alla procedura di accreditamento di programmi senza verifica delle condizioni di cui al capoverso 1 lettera b se il loro accreditamento è un presupposto per il riconoscimento professionale secondo una legge speciale.[^5-1]
 
-[^5-1]: Introdotto dal n. I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^5-1]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 
 ## Sezione 3: Condizioni per l’accreditamento istituzionale e l’accreditamento di programmi
 
@@ -159,25 +160,23 @@ I programmi di studio di scuole universitarie o di altri istituti accademici acc
 
 <sup>3</sup> Se un’alta scuola pedagogica è integrata in una scuola universitaria professionale, quest’ultima acquisisce il diritto alla denominazione per l’alta scuola pedagogica nell’ambito dell’accreditamento istituzionale della scuola universitaria professionale.
 
-## Sezione 5: Procedura dell’accreditamento iniziale e del primo rinnovo dell’accreditamento
+## Sezione 5: Procedura dell’accreditamento iniziale e del rinnovo dell’accreditamento
 
 [^sec5-1]
 
-[^sec5-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 19 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^sec5-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 8a
 
 [^8a-1]
 
-Le disposizioni di questa sezione disciplinano la procedura dell’accreditamento iniziale e del primo rinnovo dell’accreditamento.
-
-[^8a-1]: Introdotto dal n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 19 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^8a-1]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Abrogato dalla cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, con effetto dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 9
 
 **Disposizioni generali**
 
-<sup>1</sup> La procedura di accreditamento ha per oggetto il sistema di garanzia della qualità della scuola universitaria o dell’altro istituto accademico.
+<sup>1</sup> La procedura di accreditamento verifica se il sistema di garanzia della qualità della scuola universitaria o dell’altro istituto accademico consente di assicurare il rispetto degli standard di qualità previsti dalla presente ordinanza.[^9-1]
 
 <sup>2</sup> La scuola universitaria o l’altro istituto accademico coinvolge nella procedura di accreditamento tutti i suoi gruppi rappresentativi, in particolare gli studenti, il corpo intermedio, il corpo insegnante e il personale amministrativo nel rispetto delle loro particolarità organizzative.
 
@@ -189,9 +188,10 @@ Le disposizioni di questa sezione disciplinano la procedura dell’accreditament
 
 <sup>6</sup> La scuola universitaria o l’altro istituto accademico sceglie l’agenzia che effettuerà l’accreditamento istituzionale o l’accreditamento dei programmi tra le agenzie riconosciute dal Consiglio di accreditamento.
 
-<sup>7</sup> La scuola universitaria o l’altro istituto accademico sceglie come lingua della procedura una lingua ufficiale della Confederazione. Ai fini della procedura può inviare i documenti nella lingua della procedura oppure in inglese.[^9-1]
+<sup>7</sup> La scuola universitaria o l’altro istituto accademico sceglie come lingua della procedura una lingua ufficiale della Confederazione. Ai fini della procedura può inviare i documenti nella lingua della procedura oppure in inglese.[^9-2]
 
-[^9-1]: Introdotto dal n. I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^9-2]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 
 #### Art. 10
 
@@ -250,8 +250,8 @@ Per la composizione del gruppo di esperti si applicano inoltre i seguenti criter
 
 <sup>6</sup> Ai membri del gruppo di esperti si applicano le disposizioni relative alla ricusazione di cui all’articolo 10 della legge federale del 20 dicembre 1968[^13-2] sulla procedura amministrativa.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^13-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^13-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 14
 
@@ -279,13 +279,14 @@ Il Consiglio di accreditamento può:
 - b. concedere l’accreditamento vincolato a oneri;
 - c. respingere l’accreditamento.
 
-<sup>3</sup> Nel quadro della decisione relativa all’accreditamento stabilisce il termine e le modalità di verifica dell’adempimento degli oneri.
+<sup>3</sup> Qualora vengano fissati degli oneri, il termine per il loro adempimento è compreso tra 6 e 18 mesi per l’accreditamento iniziale e tra 12 e 24 mesi per il rinnovo dell’accreditamento. Nel quadro della decisione relativa all’accreditamento il Consiglio di accreditamento stabilisce il termine e le modalità di verifica dell’adempimento degli oneri.[^15-1]
 
 <sup>4</sup> Informa la scuola universitaria o l’altro istituto accademico e l’agenzia di accreditamento in merito alla sua decisione.
 
-<sup>5</sup> ...[^15-1]
+<sup>5</sup> ...[^15-2]
 
-[^15-1]: Abrogato dal n. I dell’O del Consiglio delle scuole universitarie del 25 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^15-2]: Abrogato dalla cifra I dell’O del Consiglio delle scuole universitarie del 25 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 
@@ -303,7 +304,7 @@ Il Consiglio di accreditamento può:
 
 <sup>6</sup> Se il Consiglio di accreditamento constata che gli oneri non sono stati adempiuti o sono stati adempiuti solo in parte, adotta i provvedimenti conformemente all’articolo 64 capoversi 1 e 2 LPSU.
 
-[^15a-1]: Introdotto dal n. I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^15a-1]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 
 #### Art. 16
 
@@ -325,13 +326,17 @@ La scuola universitaria o l’altro istituto accademico deve notificare immediat
 
 Se le condizioni dell’accreditamento non sono più soddisfatte, il Consiglio di accreditamento adotta i provvedimenti necessari conformemente all’articolo 64 capoversi 1 e 2 LPSU.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 26 nov. 2020, in vigore il 1° gen. 2021 ([RU 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 
 #### Art. 19
 
-**Durata dell’accreditamento**
+**Durata dell’accreditamento**[^19-1]
 
-L’accreditamento dura sette anni a decorrere dalla decisione di accreditamento.
+<sup>1</sup> L’accreditamento iniziale dura cinque anni a decorrere dalla decisione di accreditamento.
+
+<sup>2</sup> Il rinnovo dell’accreditamento dura otto anni a decorrere dalla decisione di accreditamento.
+
+[^19-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 20
 
@@ -355,27 +360,31 @@ Il Consiglio di accreditamento pubblica un elenco delle scuole universitarie e d
 
 **Standard di qualità per l’accreditamento istituzionale**
 
-<sup>1</sup> Gli standard di qualità applicabili all’accreditamento istituzionale comprendono gli standard, raggruppati in cinque ambiti, di cui all’allegato 1. Gli standard attuano le prescrizioni secondo l’articolo 30 LPSU.
+<sup>1</sup> Gli standard di qualità per l’accreditamento istituzionale comprendono gli standard di cui all’allegato 1. Gli standard attuano le prescrizioni secondo l’articolo 30 LPSU.[^22-1]
 
 <sup>2</sup> La verifica degli standard di qualità deve tener conto delle prescrizioni del Consiglio delle scuole universitarie sulle caratteristiche dei diversi tipi di scuola universitaria.
 
+[^22-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+
 #### Art. 23
 
-**Standard di qualità per l’accreditamento di programmi**
+**Standard di qualità per l’accreditamento di programmi**[^23-1]
 
-Gli standard di qualità per l’accreditamento di programmi di studio comprendono gli standard, raggruppati in quattro ambiti, di cui all’allegato 2.
+Gli standard di qualità per l’accreditamento di programmi di studio comprendono gli standard di cui all’allegato 2.
+
+[^23-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 ## Sezione 7: Disposizioni finali
 
 #### Art. 24
 
-**Disposizione transitoria**
+**Disposizioni transitorie della modifica del 22 maggio 2026**[^24-1]
 
-Le scuole universitarie e gli altri istituti accademici riconosciuti come aventi diritto ai sussidi secondo la LAU[^24-1] o la LSUP[^24-2] possono fare accreditare i programmi di studio, di cui la legge del 23 giugno 2006[^24-3] sulle professioni mediche prevede l’accreditamento secondo la LPSU, o i cicli di studio delle scuole universitarie professionali nel settore sanitario al più tardi entro il 31 dicembre 2022 senza dover soddisfare le condizioni previste nell’articolo 5 capoverso 1 lettera a.
+<sup>1</sup> Le domande presentate prima della modifica del 22 maggio 2026, per le quali l’agenzia di accreditamento ha avviato la procedura al momento dell’entrata in vigore della modifica del 22 maggio 2026, sono valutate secondo il diritto anteriore.
 
-[^24-1]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II; **2004** 201; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 1; **2011** 587; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 10. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 1]
-[^24-2]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 2]
-[^24-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+<sup>2</sup> Alle domande di rinnovo dell’accreditamento per le quali l’agenzia di accreditamento ha già avviato la procedura al momento dell’entrata in vigore della modifica del 22 maggio 2026, si applica la durata di otto anni del rinnovo dell’accreditamento.
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 25
 
@@ -383,45 +392,69 @@ Le scuole universitarie e gli altri istituti accademici riconosciuti come aventi
 
 La presente ordinanza entra in vigore il 1° luglio 2015.
 
-Allegato 1
+Allegato 1[^t-2]
 
 (art. 22 cpv. 1)
 
 ## Standard di qualità per l’accreditamento istituzionale
 
-### Ambito 1. Strategia di garanzia della qualità
+[^t-2]: Nuovo testo giusta la cifra II dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 15 lug. 2026 ([RU 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
-- 1\.1 La scuola universitaria o l’altro istituto accademico definisce la sua strategia di garanzia della qualità. Tale strategia contiene le linee direttrici relative a un sistema interno di garanzia della qualità che mira a garantire la qualità delle attività della scuola universitaria o dell’altro istituto accademico e il loro sviluppo a lungo termine, nonché a promuovere lo sviluppo di una cultura della qualità.
-- 1\.2 Il sistema di garanzia della qualità è integrato nella strategia della scuola universitaria o dell’altro istituto accademico e ne sostiene efficacemente lo sviluppo. Comprende processi volti a verificare se la scuola universitaria o l’altro istituto accademico adempie il suo mandato. A tal fine la verifica tiene conto del tipo e delle caratteristiche specifiche della scuola universitaria o dell’altro istituto accademico.
-- 1\.3 Per sviluppare e applicare il sistema di garanzia della qualità sono coinvolti a tutti i livelli tutti i gruppi rappresentativi della scuola universitaria o dell’altro istituto accademico, in particolare gli studenti, il corpo intermedio, il corpo insegnante e il personale amministrativo. I compiti nell’ambito della garanzia della qualità sono attribuiti in maniera trasparente e chiara.
-- 1\.4 La scuola universitaria o l’altro istituto accademico verifica periodicamente l’efficacia del sistema di garanzia della qualità e procede agli adeguamenti necessari.
+### Ambito I: Organizzazione e direzione della scuola universitaria, governance e gestione della qualità
 
-### Ambito 2. Governance
+### 1. Organizzazione e direzione della scuola universitaria
 
-- 2\.1 Il sistema di garanzia della qualità permette di assicurare che la struttura organizzativa e i processi decisionali consentano alla scuola universitaria o all’altro istituto accademico di adempiere il suo mandato e di raggiungere i suoi obiettivi strategici.
-- 2\.2 Il sistema di garanzia della qualità contribuisce in maniera sistematica alla messa a disposizione di informazioni quantitative e qualitative rilevanti e aggiornate sulle quali la scuola universitaria o l’altro istituto accademico si basa per prendere decisioni correnti e strategiche.
-- 2\.3 Il sistema di garanzia della qualità permette di assicurare che ai gruppi rappresentativi della scuola universitaria o dell’altro istituto accademico siano garantiti un adeguato diritto di partecipazione e condizioni quadro che consentano loro di funzionare in modo indipendente.
-- 2\.4 La scuola universitaria o l’altro istituto accademico fa in modo che i compiti siano adempiuti in armonia con uno sviluppo sostenibile dal punto di vista economico, sociale ed ecologico. Il sistema di garanzia della qualità permette di assicurare che la scuola universitaria o l’altro istituto accademico fissi obiettivi in questo ambito e li attui.
-- 2\.5 La scuola universitaria o l’altro istituto accademico, al fine di adempiere il suo mandato, promuove per il personale e gli studenti le pari opportunità e l’effettiva parità tra donna e uomo. Il sistema di garanzia della qualità permette di assicurare che la scuola universitaria o l’altro istituto accademico fissi obiettivi in questo ambito e li attui.
+La scuola universitaria o l’altro istituto accademico (di seguito la scuola universitaria) dispone di un’organizzazione e di una direzione che le permettono di adempiere il suo mandato.
 
-### Ambito 3. Insegnamento, ricerca e servizi
+### 2. Governance
 
-- 3\.1 Le attività della scuola universitaria o dell’altro istituto accademico corrispondono al suo tipo, alle sue caratteristiche specifiche e ai suoi obiettivi strategici. Si riferiscono principalmente all’insegnamento, alla ricerca e ai servizi e sono svolte secondo il principio della libertà e dell’indipendenza nel rispetto del mandato della scuola universitaria o dell’altro istituto accademico.
-- 3\.2 Il sistema di garanzia della qualità prevede la valutazione periodica delle attività di insegnamento e di ricerca, dei servizi e dei risultati.
-- 3\.3 Il sistema di garanzia della qualità permette di assicurare il rispetto dei principi e degli obiettivi legati allo spazio europeo dell’istruzione superiore.
-- 3\.4 Il sistema di garanzia della qualità permette di assicurare il rispetto dei criteri di ammissione, di valutazione delle prestazioni degli studenti e di rilascio di titoli di studio in base al mandato della scuola universitaria o dell’altro istituto accademico. Questi criteri sono definiti, comunicati e applicati in maniera sistematica, trasparente e costante.
+- 2\.1 La scuola universitaria garantisce la libertà e l’indipendenza dell’insegnamento e della ricerca.
+- 2\.2 La scuola universitaria garantisce i diritti di partecipazione di tutti i suoi gruppi rappresentativi a tutti i livelli e consente loro di funzionare in modo indipendente.
+- 2\.3 La scuola universitaria pubblica informazioni sulla sua organizzazione, sulla sua governance, sul suo finanziamento e sulle sue attività.
+- 2\.4 La scuola universitaria adempie i suoi compiti tenendo conto della sostenibilità sociale. Promuove le pari opportunità, in particolare la parità tra donna e uomo, la diversità e l’inclusione. In questo ambito si pone degli obiettivi e ne verifica il raggiungimento.
+- 2\.5 La scuola universitaria adempie i suoi compiti tenendo conto della sostenibilità economica ed ecologica. In questo ambito si pone degli obiettivi e ne verifica il raggiungimento.
 
-### Ambito 4. Risorse
+### 3. Gestione della qualità
 
-- 4\.1 La scuola universitaria o l’altro istituto accademico, con il suo ente responsabile, garantisce le risorse di personale, le infrastrutture e i mezzi finanziari necessari ad assicurare la continuazione delle sue attività e il raggiungimento dei suoi obiettivi strategici. La provenienza, l’impiego dei mezzi finanziari e le condizioni di finanziamento sono trasparenti.
-- 4\.2 Il sistema di garanzia della qualità permette di assicurare che tutto il personale sia qualificato in base al tipo e alle caratteristiche specifiche della scuola universitaria o dell’altro istituto accademico. A questo scopo prevede una valutazione periodica del personale.
-- 4\.3 Il sistema di garanzia della qualità permette di assicurare che la scuola universitaria o l’altro istituto accademico sostenga lo sviluppo professionale di tutto il personale e in particolare delle nuove leve scientifiche.
+- 3\.1 La scuola universitaria dispone di un sistema di gestione della qualità che supporta il raggiungimento dei suoi obiettivi strategici e operativi. Definisce il proprio sistema di gestione della qualità attraverso un processo partecipativo e promuove una cultura della qualità.
+- 3\.2 La scuola universitaria ha assegnato in modo trasparente e chiaro i compiti e le responsabilità nell’ambito della gestione della qualità.
+- 3\.3 La scuola universitaria verifica regolarmente il sistema di gestione della qualità e, se necessario, apporta modifiche.
 
-### Ambito 5. Comunicazione interna ed esterna
+### Ambito II: Insegnamento, ricerca e servizi
 
-- 5\.1 La scuola universitaria o l’altro istituto accademico rende pubblica la sua strategia di garanzia della qualità e provvede a rendere note al personale, agli studenti ed eventualmente alle persone esterne coinvolte le disposizioni riguardanti i processi di garanzia della qualità e i risultati ottenuti con tali processi.
-- 5\.2 La scuola universitaria o l’altro istituto accademico pubblica regolarmente informazioni oggettive sulle sue attività, sui suoi programmi di studio e sui titoli offerti.
-- [tab]
+### 4. Insegnamento
+
+- 4\.1 La scuola universitaria svolge l’attività di insegnamento conformemente alla sua tipologia. Si pone obiettivi per l’insegnamento e ne verifica il raggiungimento.
+- 4\.2 La scuola universitaria imposta l’offerta formativa e i diplomi conformemente alla sua tipologia. Definisce le qualifiche che possono essere acquisite nell’ambito dei cicli di studio e le rende pubbliche.
+- 4\.3 La scuola universitaria disciplina tutte le fasi degli studi, in particolare l’ammissione, l’avanzamento, la mobilità, il riconoscimento delle prestazioni e il conseguimento del diploma, conformemente alla sua tipologia e agli Standard e Linee guida per l’Assicurazione della Qualità nello Spazio europeo dell’Istruzione Superiore. Dispone di una procedura adeguata per la gestione dei ricorsi degli studenti. Definisce le relative norme e le pubblica.
+- 4\.4 La scuola universitaria valuta regolarmente l’insegnamento. Informa i principali gruppi d’interesse sui risultati ottenuti e sulle misure che ne derivano.
+
+### 5. Ricerca
+
+- 5\.1 La scuola universitaria svolge l’attività di ricerca conformemente alla sua tipologia. Si pone obiettivi per la ricerca e ne verifica il raggiungimento.
+- 5\.2 La scuola universitaria valuta regolarmente la ricerca. Informa i principali gruppi d’interesse sui risultati ottenuti e sulle misure che ne derivano.
+
+### 6. Servizi
+
+- 6\.1 La scuola universitaria fornisce servizi conformemente alla sua tipologia. Si pone obiettivi per i servizi e ne verifica il raggiungimento.
+- 6\.2 La scuola universitaria valuta regolarmente i servizi. Informa i principali gruppi d’interesse sui risultati ottenuti e sulle misure che ne derivano.
+
+### Ambito III: Personale, finanze e infrastrutture
+
+### 7. Personale
+
+- 7\.1 La scuola universitaria dispone di una pianificazione del personale conforme alla sua tipologia e impiega personale accademico e tecnico-amministrativo proprio.
+- 7\.2 La scuola universitaria dispone di procedure di selezione, di nomina e di promozione del personale trasparenti e non discriminatorie. Le qualifiche accademiche sono conformi alla sua tipologia. La scuola universitaria informa i principali gruppi d’interesse in merito alle procedure.
+- 7\.3 La scuola universitaria valuta regolarmente il personale accademico e quello tecnico-amministrativo.
+- 7\.4 La scuola universitaria sostiene lo sviluppo professionale di tutto il personale e in particolare delle nuove leve scientifiche.
+
+### 8. Finanze
+
+La scuola universitaria dispone di una pianificazione finanziaria coerente con la sua tipologia e dei mezzi finanziari necessari ad adempiere il suo mandato e assicurare la continuazione delle sue attività sul lungo periodo.
+
+### 9. Infrastrutture
+
+La scuola universitaria dispone di una pianificazione delle infrastrutture conforme alla sua tipologia. Dispone delle infrastrutture, in particolare locali in Svizzera, accesso alle biblioteche e infrastrutture di ricerca, nonché delle risorse necessarie ad adempiere il suo mandato.
 
 Allegato 2
 

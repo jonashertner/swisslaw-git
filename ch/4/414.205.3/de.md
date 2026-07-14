@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: Verordnung des Hochschulrates vom 28. Mai 2015 für die Akkreditierung im Hochschulbereich (Akkreditierungsverordnung HFKG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: de
-version: 2022-08-01
+version: 2026-07-15
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20260715/de/xml/fedlex-data-admin-ch-eli-cc-2015-362-20260715-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/de"
 
 (Akkreditierungsverordnung HFKG)[^t-1]
 
-vom 28. Mai 2015 (Stand am 1. August 2022)
+vom 28. Mai 2015 (Stand am 15. Juli 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -26,8 +26,8 @@ gestützt auf Artikel 30 Absatz 2 des Hochschulförderungs- und -koordinationsge
 
 verordnet:[^ingress-3]
 
-[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
 [^ingress-3]: Fassung gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -40,11 +40,11 @@ Diese Verordnung[^1-1] konkretisiert die Voraussetzungen für die institutionell
 
 - a. die Voraussetzungen für die Zulassung zum Akkreditierungsverfahren;
 - b. die Voraussetzungen für die institutionelle Akkreditierung und die Programmakkreditierung und die Wirkungen der institutionellen Akkreditierung;
-- c.[^1-2] das Verfahren der erstmaligen Akkreditierung und der ersten Erneuerung der Akkreditierung;
+- c.[^1-2] das Verfahren der erstmaligen Akkreditierung und der Erneuerung der Akkreditierung;
 - d. die in den Verfahren anzuwendenden Qualitätsstandards.
 
 [^1-1]: Ausdruck gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-2]: Fassung gemäss Ziff. I der V des Hochschulrats vom 19. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^1-2]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 2
 
@@ -53,11 +53,12 @@ Diese Verordnung[^1-1] konkretisiert die Voraussetzungen für die institutionell
 Als Studienprogramme im Sinne dieser Verordnung gelten:
 
 - a. Bachelor-Studienprogramme im Umfang von 180 ECTS[^2-1]-Punkten;
-- b. Master-Studienprogramme im Umfang von 90–120 ECTS-Punkten;
+- b.[^2-2] Master-Studienprogramme im Umfang von 90 oder 120 ECTS-Punkten; vorbehalten bleiben abweichende Definitionen des Studienumfangs basierend auf spezial-gesetzlichen Vorgaben in Bundesgesetzen oder im interkantonalen Diplomanerkennungsrecht;
 - c. Weiterbildungs-Studienprogramme im Umfang von mindestens 60 ECTS-Punkten;
 - d. Studienprogramme, deren Akkreditierung nach HFKG in einem Spezialgesetz vorgesehen ist.
 
 [^2-1]: ECTS = European Credit Transfer System
+[^2-2]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 3
 
@@ -158,25 +159,23 @@ Studienprogramme akkreditierter Hochschulen oder anderer Institutionen des Hochs
 
 <sup>3</sup> Ist eine pädagogische Hochschule in eine Fachhochschule integriert, so erhält die Fachhochschule das Bezeichnungsrecht für die pädagogische Hochschule im Rahmen der institutionellen Akkreditierung der Fachhochschule.
 
-## 5. Abschnitt: Verfahren der erstmaligen Akkreditierung und der ersten Erneuerung der Akkreditierung
+## 5. Abschnitt: Verfahren der erstmaligen Akkreditierung und der Erneuerung der Akkreditierung
 
 [^sec5-1]
 
-[^sec5-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 19. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^sec5-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 8a
 
 [^8a-1]
 
-Die Bestimmungen dieses Abschnitts regeln das Verfahren der erstmaligen Akkreditierung und der ersten Erneuerung der Akkreditierung.
-
-[^8a-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 23. Nov. 2017 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Fassung gemäss Ziff. I der V des Hochschulrats vom 19. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^8a-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 23. Nov. 2017 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Aufgehoben durch Ziff. I der V des Hochschulrats vom 22. Mai 2026, mit Wirkung seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 9
 
 **Allgemeine Bestimmungen**
 
-<sup>1</sup> Gegenstand des Akkreditierungsverfahrens ist das Qualitätssicherungssystem der Hochschule oder der anderen Institution des Hochschulbereichs.
+<sup>1</sup> Im Akkreditierungsverfahren wird das Qualitätssicherungssystem der Hochschule oder der anderen Institution des Hochschulbereichs daraufhin überprüft, ob es geeignet ist, die Einhaltung der Qualitätsstandards dieser Verordnung sicherzustellen.[^9-1]
 
 <sup>2</sup> Die Hochschule oder die andere Institution des Hochschulbereichs bezieht unter Berücksichtigung ihrer organisatorischen Eigenheiten alle ihre repräsentativen Gruppen, insbesondere die Studierenden, den Mittelbau, den Lehrkörper und das Verwaltungspersonal, in das Akkreditierungsverfahren ein.
 
@@ -188,9 +187,10 @@ Die Bestimmungen dieses Abschnitts regeln das Verfahren der erstmaligen Akkredit
 
 <sup>6</sup> Die Hochschule oder die andere Institution des Hochschulbereichs wählt zur Durchführung der institutionellen Akkreditierung oder der Programmakkreditierung die Akkreditierungsagentur aus den vom Akkreditierungsrat anerkannten Akkreditierungsagenturen aus.
 
-<sup>7</sup> Sie wählt als Sprache des Verfahrens eine Amtssprache des Bundes. Sie kann für das Verfahren Dokumente in dieser Verfahrenssprache oder in Englisch einreichen.[^9-1]
+<sup>7</sup> Sie wählt als Sprache des Verfahrens eine Amtssprache des Bundes. Sie kann für das Verfahren Dokumente in dieser Verfahrenssprache oder in Englisch einreichen.[^9-2]
 
-[^9-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 26. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^9-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^9-2]: Eingefügt durch Ziff. I der V des Hochschulrats vom 26. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 
 #### Art. 10
 
@@ -250,7 +250,7 @@ Für die Zusammensetzung der Gutachtergruppe gilt überdies Folgendes:
 <sup>6</sup> Für die Mitglieder der Gutachtergruppe gilt Artikel 10 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^13-2] über den Ausstand.
 
 [^13-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 26. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^13-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 14
 
@@ -278,13 +278,14 @@ Der Akkreditierungsrat hat die Möglichkeit:
 - b. die Akkreditierung mit Auflagen auszusprechen;
 - c. die Akkreditierung abzulehnen.
 
-<sup>3</sup> Er bestimmt im Rahmen des Akkreditierungsentscheids Frist und Modalität der Überprüfung der Erfüllung der Auflagen.
+<sup>3</sup> Werden Auflagen gesprochen, so gilt für deren Erfüllung eine Frist von 6 bis 18 Monaten für die erstmalige Akkreditierung und eine Frist von 12 bis 24 Monaten für die Erneuerung der Akkreditierung. Der Akkreditierungsrat bestimmt im Rahmen des Akkreditierungsentscheids Frist und Modalität der Überprüfung der Erfüllung der Auflagen.[^15-1]
 
 <sup>4</sup> Er informiert die Hochschule oder die andere Institution des Hochschulbereichs sowie die Akkreditierungsagentur über seinen Entscheid.
 
-<sup>5</sup> …[^15-1]
+<sup>5</sup> …[^15-2]
 
-[^15-1]: Aufgehoben durch Ziff. I der V des Hochschulrats vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
+[^15-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^15-2]: Aufgehoben durch Ziff. I der V des Hochschulrats vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 
@@ -328,9 +329,13 @@ Sind die Voraussetzungen für die Akkreditierung nicht mehr erfüllt, so trifft 
 
 #### Art. 19
 
-**Geltungsdauer der Akkreditierung**
+**Geltungsdauer der Akkreditierung**[^19-1]
 
-Die Akkreditierung gilt sieben Jahre ab Akkreditierungsentscheid.
+<sup>1</sup> Die erstmalige Akkreditierung gilt fünf Jahre ab dem Akkreditierungsentscheid.
+
+<sup>2</sup> Die Erneuerung der Akkreditierung gilt acht Jahre ab dem Akkreditierungsentscheid.
+
+[^19-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 20
 
@@ -354,27 +359,31 @@ Der Akkreditierungsrat veröffentlicht eine Liste der akkreditierten Hochschulen
 
 **Qualitätsstandards für die institutionelle Akkreditierung**
 
-<sup>1</sup> Die Qualitätsstandards für die institutionelle Akkreditierung umfassen die Standards, gruppiert in fünf Bereiche, nach Anhang 1. Die Standards konkretisieren die Vorgaben nach Artikel 30 HFKG.
+<sup>1</sup> Die Qualitätsstandards für die institutionelle Akkreditierung umfassen die Standards nach Anhang 1. Die Standards konkretisieren die Vorgaben nach Artikel 30 HFKG.[^22-1]
 
 <sup>2</sup> Bei der Prüfung der Qualitätsstandards müssen die Vorgaben des Hochschulrates zu den Merkmalen der Hochschultypen berücksichtigt werden.
 
+[^22-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+
 #### Art. 23
 
-**Qualitätsstandards für die Programmakkreditierung**
+**Qualitätsstandards für die Programmakkreditierung**[^23-1]
 
-Die Qualitätsstandards für die Programmakkreditierung umfassen die Standards, gruppiert in vier Bereiche, nach Anhang 2.
+Die Qualitätsstandards für die Programmakkreditierung umfassen die Standards nach Anhang 2.
+
+[^23-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
 #### Art. 24
 
-**Übergangsbestimmung**
+**Übergangsbestimmungen zur Änderung vom 22. Mai 2026**[^24-1]
 
-Die Hochschulen und die anderen Institutionen des Hochschulbereichs, die nach UFG[^24-1] oder FHSG[^24-2] als beitragsberechtigt anerkannt waren, können die Studienprogramme, deren Akkreditierung nach HFKG im Medizinalberufegesetz vom 23. Juni 2006[^24-3] vorgesehen ist, oder die Fachhochschulstudiengänge im Fachbereich Gesundheit längstens bis zum 31. Dezember 2022 akkreditieren lassen, auch wenn sie die Voraussetzungen nach Artikel 5 Absatz 1 Buchstabe a nicht erfüllen.
+<sup>1</sup> Gesuche, die vor dem Inkrafttreten der Änderung vom 22. Mai 2026 eingereicht wurden und für welche die Akkreditierungsagentur zum Zeitpunkt des Inkrafttretens der Änderung vom 22. Mai 2026 das Verfahren eröffnet hat, werden nach bisherigem Recht beurteilt.
 
-[^24-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
-[^24-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
-[^24-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+<sup>2</sup> Für Gesuche um Erneuerung der Akkreditierung, für welche die Akkreditierungsagentur zum Zeitpunkt des Inkrafttretens der Änderung vom 22. Mai 2026 das Verfahren eröffnet hat, gilt eine Geltungsdauer der Akkreditierung von acht Jahren ab dem Akkreditierungsentscheid.
+
+[^24-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 25
 
@@ -382,44 +391,69 @@ Die Hochschulen und die anderen Institutionen des Hochschulbereichs, die nach UF
 
 Diese Verordnung tritt am 1. Juli 2015 in Kraft.
 
-Anhang 1
+Anhang 1[^t-2]
 
 (Art. 22 Abs. 1)
 
 ## Qualitätsstandards für die institutionelle Akkreditierung
 
-### 1. Bereich: Qualitätssicherungsstrategie
+[^t-2]: Fassung gemäss Ziff. II der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 15. Juli 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
-- 1\.1 Die Hochschule oder die andere Institution des Hochschulbereichs legt ihre Qualitätssicherungsstrategie fest. Diese Strategie enthält die Leitlinien eines internen Qualitätssicherungssystems, das darauf abzielt, die Qualität der Tätigkeiten der Hochschule oder der anderen Institution des Hochschulbereichs und deren langfristige Qualitätsentwicklung zu sichern sowie die Entwicklung einer Qualitätskultur zu fördern.
-- 1\.2 Das Qualitätssicherungssystem ist in die Strategie der Hochschule oder der anderen Institution des Hochschulbereichs integriert und unterstützt auf wirksame Weise deren Entwicklung. Es umfasst Prozesse, mit denen überprüft wird, ob die Hochschule oder die andere Institution des Hochschulbereichs ihren Auftrag erfüllt. Dies erfolgt unter Berücksichtigung ihres Typs und ihrer spezifischen Merkmale.
-- 1\.3 Für die Entwicklung des Qualitätssicherungssystems und dessen Umsetzung werden auf allen Ebenen alle repräsentativen Gruppen der Hochschule oder der anderen Institution des Hochschulbereichs einbezogen, insbesondere die Studierenden, der Mittelbau, der Lehrkörper und das Verwaltungspersonal. Die Aufgaben im Bereich der Qualitätssicherung sind transparent und klar zugewiesen.
-- 1\.4 Die Hochschule oder die andere Institution des Hochschulbereichs überprüft periodisch die Zweckmässigkeit ihres Qualitätssicherungssystems und nimmt die erforderlichen Anpassungen vor.
+### Bereich I: Hochschulorganisation und Leitung, Governance und Qualitätsmanagement
 
-### 2. Bereich: Governance
+### 1. Hochschulorganisation und Leitung
 
-- 2\.1 Das Qualitätssicherungssystem erlaubt sicherzustellen, dass die Organisationsstruktur und die Entscheidungsprozesse es der Hochschule oder der anderen Institution des Hochschulbereichs ermöglichen, dass diese ihren Auftrag erfüllen und ihre strategischen Ziele erreichen kann.
-- 2\.2 Das Qualitätssicherungssystem trägt systematisch zur Bereitstellung von relevanten und aktuellen quantitativen und qualitativen Informationen bei, auf die sich die Hochschule oder die andere Institution des Hochschulbereichs stützt, um laufende und strategische Entscheidungen zu treffen.
-- 2\.3 Das Qualitätssicherungssystem erlaubt sicherzustellen, dass die repräsentativen Gruppen der Hochschule oder der anderen Institution des Hochschulbereichs ein angemessenes Mitwirkungsrecht haben und über Rahmenbedingungen verfügen, die ihnen ein unabhängiges Funktionieren ermöglichen.
-- 2\.4 Die Hochschule oder die andere Institution des Hochschulbereichs berücksichtigt, dass die Aufgaben im Einklang mit einer wirtschaftlich, sozial und ökologisch nachhaltigen Entwicklung erfüllt werden. Das Qualitätssicherungssystem erlaubt sicherzustellen, dass sich die Hochschule oder die andere Institution des Hochschulbereichs in diesem Bereich Ziele setzt und diese auch umsetzt.
-- 2\.5 Zur Erfüllung ihrer Aufgaben fördert die Hochschule oder die andere Institution des Hochschulbereichs für das Personal und die Studierenden die Chancengleichheit und die tatsächliche Gleichstellung von Mann und Frau. Das Qualitätssicherungssystem erlaubt sicherzustellen, dass sich die Hochschule oder die andere Institution des Hochschulbereichs in diesem Bereich Ziele setzt und diese auch umsetzt.
+Die Hochschule oder die andere Institution des Hochschulbereichs (nachfolgend die Hochschule) verfügt über eine Organisation und Leitung, die es ihr erlaubt, ihren Auftrag zu erfüllen.
 
-### 3. Bereich: Lehre, Forschung und Dienstleistungen
+### 2. Governance
 
-- 3\.1 Die Aktivitäten der Hochschule oder der anderen Institution des Hochschulbereichs entsprechen ihrem Typ, ihren spezifischen Merkmalen und ihren strategischen Zielen. Sie beziehen sich hauptsächlich auf die Lehre, die Forschung und die Dienstleistungen und werden gemäss dem Prinzip der Freiheit und Unabhängigkeit unter Einhaltung des Mandats der Hochschule oder der anderen Institution des Hochschulbereichs ausgeübt.
-- 3\.2 Das Qualitätssicherungssystem sieht eine regelmässige Evaluation der Lehr- und Forschungstätigkeit, der Dienstleistungen sowie der Ergebnisse vor.
-- 3\.3 Das Qualitätssicherungssystem erlaubt sicherzustellen, dass Grundsätze und Ziele im Zusammenhang des europäischen Hochschulraums berücksichtigt werden.
-- 3\.4 Das Qualitätssicherungssystem erlaubt sicherzustellen, dass die Kriterien für die Zulassung und Beurteilung der Leistungen der Studierenden und für die Abgabe von Ausbildungsabschlüssen entsprechend dem Auftrag der Hochschule oder der anderen Institution des Hochschulbereichs berücksichtigt werden. Diese Kriterien werden definiert, kommuniziert und systematisch, transparent und konstant angewandt.
+- 2\.1 Die Hochschule sichert die Freiheit und Unabhängigkeit von Lehre und Forschung.
+- 2\.2 Die Hochschule sichert die Mitwirkungsrechte aller repräsentativen Gruppen auf allen Stufen und ermöglicht deren unabhängiges Funktionieren.
+- 2\.3 Die Hochschule veröffentlicht Informationen über ihre Organisation, ihre Governance, ihre Finanzierung und ihre Aktivitäten.
+- 2\.4 Die Hochschule erfüllt ihre Aufgaben unter Berücksichtigung der sozialen Nachhaltigkeit. Sie fördert die Chancengerechtigkeit, insbesondere die Chancengleichheit zwischen den Geschlechtern, Diversität und Inklusion. Sie setzt sich in diesem Bereich Ziele und überprüft deren Erreichung.
+- 2\.5 Die Hochschule erfüllt ihre Aufgaben unter Berücksichtigung der wirtschaftlichen und ökologischen Nachhaltigkeit. Sie setzt sich in diesem Bereich Ziele und überprüft deren Erreichung.
 
-### 4. Bereich: Ressourcen
+### 3. Qualitätsmanagement
 
-- 4\.1 Mit ihrem Träger gewährleistet die Hochschule oder die andere Institution des Hochschulbereichs die personellen Ressourcen, die Infrastrukturen und die finanziellen Mittel, um ihren Fortbestand zu sichern und ihre strategischen Ziele zu erreichen. Die Herkunft und die Verwendung der finanziellen Mittel und die Finanzierungsbedingungen sind transparent.
-- 4\.2 Das Qualitätssicherungssystem erlaubt sicherzustellen, dass das gesamte Personal entsprechend dem Typ und den spezifischen Merkmalen der Hochschule oder der anderen Institution des Hochschulbereichs qualifiziert ist. Es sieht zu diesem Zweck eine regelmässige Evaluation des Personals vor.
-- 4\.3 Das Qualitätssicherungssystem erlaubt sicherzustellen, dass die Hochschule oder die andere Institution des Hochschulbereichs die Laufbahnentwicklung des gesamten Personals und insbesondere des wissenschaftlichen Nachwuchses unterstützt.
+- 3\.1 Die Hochschule verfügt über ein Qualitätsmanagementsystem, welches die Erreichung der strategischen und operativen Ziele unterstützt. Sie legt ihr Qualitätsmanagementsystem in einem partizipativen Prozess fest und pflegt die Qualitätskultur.
+- 3\.2 Die Hochschule hat die Aufgaben und Verantwortlichkeiten im Qualitätsmanagement transparent und klar zugewiesen.
+- 3\.3 Die Hochschule überprüft das Qualitätsmanagementsystem regelmässig und nimmt gegebenenfalls Anpassungen vor.
 
-### 5. Bereich: Interne und externe Kommunikation
+### Bereich II: Lehre, Forschung und Dienstleistungen
 
-- 5\.1 Die Hochschule oder die andere Institution des Hochschulbereichs macht ihre Qualitätssicherungsstrategie öffentlich und sorgt dafür, dass die Bestimmungen zu den Qualitätssicherungsprozessen und deren Ergebnisse den Mitarbeitenden, den Studierenden sowie gegebenenfalls den externen Beteiligten bekannt sind.
-- 5\.2 Die Hochschule oder die andere Institution des Hochschulbereichs veröffentlicht regelmässig objektive Informationen zu ihren Tätigkeiten und zu den von ihr angebotenen Studienprogrammen und Abschlüssen.
+### 4. Lehre
+
+- 4\.1 Die Hochschule betreibt ihrem Hochschultyp entsprechend Lehre. Sie setzt sich Ziele für die Lehre und überprüft die Erreichung dieser Ziele.
+- 4\.2 Die Hochschule strukturiert ihr Studienangebot und ihre Abschlüsse gemäss ihrem Hochschultyp. Sie legt die Qualifikationen fest, die im Rahmen der Studiengänge erworben werden, und veröffentlicht sie.
+- 4\.3 Die Hochschule regelt alle Phasen des Studiums, insbesondere die Zulassung zum Studium, den Studienfortschritt, die Mobilität, die Anerkennung von Leistungen und den Abschluss, gemäss ihrem Hochschultyp und den Standards und Leitlinien für die Qualitätssicherung im Europäischen Hochschulraum. Sie verfügt über ein angemessenes Verfahren für den Umgang mit studentischen Beschwerden. Sie legt die Regelungen fest und veröffentlicht sie.
+- 4\.4 Die Hochschule evaluiert die Lehre regelmässig. Sie informiert die relevanten Anspruchsgruppen sowohl über die Resultate als auch über die daraus abgeleiteten Massnahmen.
+
+### 5. Forschung
+
+- 5\.1 Die Hochschule betreibt ihrem Hochschultyp entsprechend Forschung. Sie setzt sich Ziele für die Forschung und überprüft die Erreichung dieser Ziele.
+- 5\.2 Die Hochschule evaluiert die Forschung regelmässig. Sie informiert die relevanten Anspruchsgruppen sowohl über die Resultate als auch über die daraus abgeleiteten Massnahmen.
+
+### 6. Dienstleistungen
+
+- 6\.1 Die Hochschule erbringt ihrem Hochschultyp entsprechend Dienstleistungen. Sie setzt sich Ziele für die Dienstleistungen und überprüft die Erreichung dieser Ziele.
+- 6\.2 Die Hochschule evaluiert die Dienstleistungen regelmässig. Sie informiert die relevanten Anspruchsgruppen sowohl über die Resultate als auch über die daraus abgeleiteten Massnahmen.
+
+### Bereich III: Personal, Finanzen und Infrastruktur
+
+### 7. Personal
+
+- 7\.1 Die Hochschule hat eine ihrem Hochschultyp entsprechende Personalplanung und beschäftigt eigenes akademisches sowie technisch-administratives Personal.
+- 7\.2 Die Hochschule verfügt über transparente, nichtdiskriminierende Verfahren der Auswahl, Ernennung und Beförderung. Die akademischen Qualifikationen entsprechen ihrem Hochschultyp. Die Hochschule informiert die relevanten Anspruchsgruppen über diese Verfahren.
+- 7\.3 Die Hochschule evaluiert das akademische und das technisch-administrative Personal regelmässig.
+- 7\.4 Die Hochschule unterstützt die Laufbahnentwicklung des gesamten Personals im Allgemeinen und des wissenschaftlichen Nachwuchses im Speziellen.
+
+### 8. Finanzen
+
+Die Hochschule verfügt über eine Finanzplanung im Einklang mit ihrem Hochschultyp und über die finanziellen Mittel, um ihren Auftrag zu erfüllen und ihren Fortbestand langfristig sicherzustellen.
+
+### 9. Infrastruktur
+
+Die Hochschule verfügt über eine ihrem Hochschultyp entsprechende Infrastrukturplanung. Sie verfügt über eine Infrastruktur – insbesondere Räumlichkeiten in der Schweiz, Zugang zu Bibliotheken, Forschungsinfrastruktur – und alle anderen Ressourcen, die zur Erfüllung des Auftrags nötig sind.
 
 Anhang 2
 

@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: "Ordonnance du Conseil des hautes écoles du 28 mai 2015 pour l'accréditation dans le domaine des hautes écoles (Ordonnance d'accréditation LEHE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: fr
-version: 2022-08-01
+version: 2026-07-15
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20260715/fr/xml/fedlex-data-admin-ch-eli-cc-2015-362-20260715-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20260715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/fr"
 
 (Ordonnance d’accréditation LEHE)[^t-1]
 
-du 28 mai 2015 (État le 1<sup>er</sup> août 2022)
+du 28 mai 2015 (État le 15 juillet 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -26,8 +26,8 @@ vu l’art. 30, al. 2, de la loi du 30 septembre 2011 sur l’encouragement et l
 
 arrête:[^ingress-3]
 
-[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 ## Section 1 Dispositions générales
@@ -40,11 +40,11 @@ La présente ordonnance[^1-1] précise les conditions de l’accréditation inst
 
 - a. les conditions de l’admission à la procédure d’accréditation;
 - b. les conditions pour l’accréditation institutionnelle et l’accréditation de programmes et les effets de l’accréditation institutionnelle;
-- c.[^1-2] la procédure de l’accréditation initiale et du premier renouvellement de l’accréditation;
+- c.[^1-2] la procédure de l’accréditation initiale et du renouvellement de l’accréditation;
 - d. les standards de qualité devant être appliqués dans les procédures.
 
 [^1-1]: Nouvelle expression selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 2
 
@@ -53,11 +53,12 @@ La présente ordonnance[^1-1] précise les conditions de l’accréditation inst
 Sont considérés comme programmes d’études aux termes de cette ordonnance:
 
 - a. les programmes d’études de bachelor comprenant 180 crédits ECTS[^2-1];
-- b. les programmes d’études de master comprenant 90 à 120 crédits ECTS;
+- b.[^2-2] les programmes d’études de master comprenant 90 ou 120 crédits ECTS; sont réservées d’autres exigences quant au nombre de crédits qui découlent des dispositions spéciales fixées dans des lois fédérales ou dans le droit intercantonal sur la reconnaissance des diplômes;
 - c. les programmes d’études de formation continue comprenant au moins 60 crédits ECTS;
 - d. les programmes d’études dont l’accréditation selon la LEHE est prévue dans une loi spéciale.
 
 [^2-1]: ECTS = European Credit Transfer System
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 3
 
@@ -158,25 +159,23 @@ Les programmes d’études de hautes écoles ou d’autres institutions du domai
 
 <sup>3</sup> Dans le cas d’une haute école pédagogique intégrée dans une haute école spécialisée, la haute école spécialisée reçoit le droit à l’appellation pour la haute école pédagogique dans le cadre de l’accréditation institutionnelle de la haute école spécialisée.
 
-## Section 5 Procédure de l’accréditation initiale et du premier renouvellement de l’accréditation
+## Section 5 Procédure de l’accréditation initiale et du renouvellement de l’accréditation
 
 [^sec5-1]
 
-[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 8a
 
 [^8a-1]
 
-Les dispositions de la présente section règlent la procédure de l’accréditation initiale et du premier renouvellement de l’accréditation.
-
-[^8a-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^8a-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Abrogé par le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, avec effet au 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 9
 
 **Dispositions générales**
 
-<sup>1</sup> La procédure d’accréditation porte sur le système d’assurance de la qualité de la haute école ou de l’autre institution du domaine des hautes écoles.
+<sup>1</sup> La procédure d’accréditation a pour but de vérifier si le système d’assurance de la qualité de la haute école ou de l’autre institution du domaine des hautes écoles permet de garantir le respect des standards de qualité définis dans la présente ordonnance.[^9-1]
 
 <sup>2</sup> Les hautes écoles ou les autres institutions du domaine des hautes écoles intègrent, en tenant compte de leurs particularités organisationnelles, dans la procédure d’accréditation tous les groupes représentatifs, en particulier les corps étudiant, intermédiaire et professoral et le personnel administratif et technique.
 
@@ -188,9 +187,10 @@ Les dispositions de la présente section règlent la procédure de l’accrédit
 
 <sup>6</sup> La haute école ou l’autre institution du domaine des hautes écoles choisit l’agence d’accréditation qui conduira la procédure d’accréditation institutionnelle ou d’accréditation de programme parmi les agences d’accréditation reconnues par le conseil d’accréditation.
 
-<sup>7</sup> Elle choisit une langue officielle de la Confédération comme langue de la procédure. Elle peut produire les documents nécessaires à la procédure dans cette langue officielle ou en anglais.[^9-1]
+<sup>7</sup> Elle choisit une langue officielle de la Confédération comme langue de la procédure. Elle peut produire les documents nécessaires à la procédure dans cette langue officielle ou en anglais.[^9-2]
 
-[^9-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 26 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^9-2]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 26 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 
 #### Art. 10
 
@@ -250,7 +250,7 @@ Pour la composition du groupe d’experts, les règles suivantes s’appliquent 
 <sup>6</sup> Les règles prévues à l’art. 10 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^13-2] concernant les motifs de récusation s’appliquent aux membres du groupe d’experts.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 26 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^13-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 14
 
@@ -278,13 +278,14 @@ Le conseil d’accréditation peut:
 - b. prononcer l’accréditation avec conditions;
 - c. refuser l’accréditation.
 
-<sup>3</sup> Il détermine, dans le cadre de la décision d’accréditation, le délai et les modalités de contrôle de la réalisation des conditions.
+<sup>3</sup> Si des conditions sont posées, elles doivent être réalisées dans un délai de 6 à 18 mois en cas d’accréditation initiale, et de 12 à 24 mois en cas de renouvellement de l’accréditation. Le conseil d’accréditation détermine, dans le cadre de la décision d’accréditation, le délai et les modalités de contrôle de la réalisation des conditions.[^15-1]
 
 <sup>4</sup> Il informe la haute école ou l’autre institution du domaine des hautes écoles et l’agence d’accréditation de sa décision.
 
-<sup>5</sup> …[^15-1]
+<sup>5</sup> …[^15-2]
 
-[^15-1]: Abrogé par le ch. I de l’O du Conseil des hautes écoles du 25 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^15-2]: Abrogé par le ch. I de l’O du Conseil des hautes écoles du 25 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 
@@ -328,9 +329,13 @@ Si les conditions pour l’accréditation ne sont plus remplies, le Conseil d’
 
 #### Art. 19
 
-**Durée de validité de l’accréditation**
+**Durée de validité de l’accréditation**[^19-1]
 
-L’accréditation est valable sept ans à partir de la décision d’accréditation.
+<sup>1</sup> L’accréditation initiale est valable cinq ans à partir de la décision d’accréditation.
+
+<sup>2</sup> Le renouvellement de l’accréditation est valable huit ans à partir de la décision d’accréditation.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 20
 
@@ -354,27 +359,31 @@ Le conseil d’accréditation publie une liste des hautes écoles et des autres 
 
 **Standards de qualité pour l’accréditation institutionnelle**
 
-<sup>1</sup> Les standards de qualité s’appliquant à l’accréditation institutionnelle comprennent les standards, regroupés en cinq domaines, qui sont visés à l’annexe 1. Les standards précisent les conditions fixées à l’art. 30 LEHE.
+<sup>1</sup> Les standards de qualité pour l’accréditation institutionnelle comprennent les standards figurant à l’annexe 1. Les standards précisent les conditions fixées à l’art. 30 LEHE.[^22-1]
 
 <sup>2</sup> L’examen des standards de qualité prend en compte les instructions du conseil des hautes écoles sur les caractéristiques typologiques des hautes écoles.
 
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+
 #### Art. 23
 
-**Standards de qualité pour l’accréditation de programmes**
+**Standards de qualité pour l’accréditation de programmes**[^23-1]
 
-Les standards pour l’accréditation de programmes d’études comprennent les standards, regroupés en quatre domaines, qui sont visés à l’annexe 2.
+Les standards de qualité pour l’accréditation de programmes comprennent les standards figurant à l’annexe 2.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 ## Section 7 Dispositions finales
 
 #### Art. 24
 
-**Disposition transitoire**
+**Dispositions transitoires relatives à la modification du 22 mai 2026**[^24-1]
 
-Les hautes écoles ou les autres institutions du domaine des hautes écoles qui étaient reconnues comme ayant droit aux subventions en vertu de la LAU[^24-1] ou de la LHES[^24-2] peuvent faire accréditer jusqu’au 31 décembre 2022 les programmes d’études dont l’accréditation selon la LEHE est prévue dans la loi du 23 juin 2006 sur les professions médicales[^24-3], et les filières des hautes écoles spécialisées dans le domaine d’études Santé, sans remplir les exigences visées à l’art. 5, al. 1, let. a.
+<sup>1</sup> Les demandes déposées avant la modification du 22 mai 2026 et pour lesquelles l’agence d’accréditation a ouvert la procédure à la date d’entrée en vigueur de ladite modification sont examinées selon l’ancien droit.
 
-[^24-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 10. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1]
-[^24-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11. [RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2]
-[^24-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+<sup>2</sup> Pour les demandes de renouvellement d’accréditation pour lesquelles l’agence d’accréditation a ouvert la procédure à la date d’entrée en vigueur de la modification du 22 mai 2026 la durée de l’accréditation renouvelée est de huit ans à compter de la décision d’accréditation.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 25
 
@@ -382,44 +391,69 @@ Les hautes écoles ou les autres institutions du domaine des hautes écoles qui 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2015.
 
-Annexe 1
+Annexe 1[^t-2]
 
 (art. 22, al. 1)
 
 ## Standards de qualité s’appliquant à l’accréditation institutionnelle
 
-### Domaine 1Stratégie d’assurance de la qualité
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 15 juil. 2026 ([RO 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
-- 1\.1 La haute école ou l’autre institution du domaine des hautes écoles définit sa stratégie en matière d’assurance de la qualité. Cette stratégie contient les éléments essentiels d’un système d’assurance de la qualité interne qui vise à assurer la qualité des activités de la haute école ou de l’autre institution du domaine des hautes écoles et leur développement à long terme ainsi qu’à promouvoir le développement d’une culture de la qualité.
-- 1\.2 Le système d’assurance de la qualité est intégré à la stratégie de la haute école ou de l’autre institution du domaine des hautes écoles dont il soutient de manière efficace le développement. Il comprend des modalités de contrôle de la réalisation du mandat de la haute école ou de l’autre institution du domaine des hautes écoles en tenant compte de son type et de ses caractéristiques spécifiques.
-- 1\.3 Le développement du système d’assurance de la qualité et sa mise en œuvre impliquent à tous les niveaux tous les groupes représentatifs de la haute école ou de l’autre institution du domaine des hautes écoles, en particulier les corps étudiant, intermédiaire et professoral et le personnel administratif et technique. Les responsabilités en matière d’assurance de la qualité sont transparentes et assignées clairement.
-- 1\.4 La haute école ou l’autre institution du domaine des hautes écoles analyse périodiquement la pertinence de son système d’assurance de la qualité et procède aux adaptations nécessaires.
+### Domaine I Organisation et direction de la haute école, gouvernance et gestion de la qualité
 
-### Domaine 2Gouvernance
+### 1. Organisation de la haute école
 
-- 2\.1 Le système d’assurance de la qualité permet de s’assurer que l’organisation et les processus décisionnels permettent à la haute école ou à l’autre institution du domaine des hautes écoles de réaliser sa mission et d’atteindre ses objectifs stratégiques.
-- 2\.2 Le système d’assurance de la qualité contribue à fournir, de manière systématique, une information quantitative et qualitative pertinente et récente sur laquelle la haute école ou l’autre institution du domaine des hautes écoles s’appuie pour prendre ses décisions courantes et stratégiques.
-- 2\.3 Le système d’assurance de la qualité permet de s’assurer que les groupes représentatifs de la haute école ou de l’autre institution du domaine des hautes écoles ont un droit de participation approprié et disposent des conditions-cadres leur permettant un fonctionnement indépendant.
-- 2\.4 La haute école ou l’autre institution du domaine des hautes écoles prend en compte un développement économiquement, socialement et écologiquement durable dans l’accomplissement de ses tâches. Le système d’assurance de la qualité permet de s’assurer qu’elle se fixe des objectifs en la matière et les met en œuvre.
-- 2\.5 La haute école ou l’autre institution du domaine des hautes écoles promeut dans l’accomplissement de ses tâches, pour le personnel et les étudiants, l’égalité des chances et l’égalité dans les faits entre les hommes et les femmes. Le système d’assurance de la qualité permet de s’assurer qu’elle se fixe des objectifs en la matière et les met en œuvre.
+La haute école ou l’autre institution du domaine des hautes écoles (ci-après haute école) dispose d’une organisation et d’une direction qui lui permettent de remplir sa mission.
 
-### Domaine 3Enseignement, recherche et prestations de services
+### 2. Gouvernance
 
-- 3\.1 Les activités de la haute école ou de l’autre institution du domaine des hautes écoles sont conformes à son type, à ses caractéristiques spécifiques et à ses objectifs stratégiques. Elles concernent principalement l’enseignement, la recherche et les prestations de services et s’exercent selon le principe de liberté et d’indépendance dans les limites du mandat de la haute école ou de l’autre institution du domaine des hautes écoles.
-- 3\.2 Le système d’assurance de la qualité prévoit l’évaluation périodique des activités d’enseignement et de recherche, des prestations de services et des résultats obtenus dans ces domaines.
-- 3\.3 Le système d’assurance de la qualité permet de s’assurer du respect des principes et des objectifs liés à l’Espace Européen de l’Enseignement Supérieur.
-- 3\.4 Le système d’assurance de la qualité permet de s’assurer du respect des critères d’admission, d’évaluation des prestations des étudiants et de délivrance des diplômes en fonction de la mission de la haute école ou de l’autre institution du domaine des hautes écoles. Les critères sont fixés, communiqués et appliqués de manière systématique, transparente et constante.
+- 2\.1 La haute école garantit la liberté et l’indépendance de l’enseignement et de la recherche.
+- 2\.2 La haute école garantit les droits de participation de tous les groupes représentatifs à tous les niveaux et leur permet de fonctionner de manière indépendante.
+- 2\.3 La haute école publie des informations sur son organisation, sa gouvernance, son financement et ses activités.
+- 2\.4 La haute école accomplit ses tâches en tenant compte de la durabilité sociale. Elle promeut l’équité, notamment l’égalité des chances entre les hommes et les femmes, la diversité et l’inclusion. Elle se fixe des objectifs dans ce domaine et contrôle leur réalisation.
+- 2\.5 La haute école accomplit ses tâches en tenant compte de la durabilité économique et écologique. Elle se fixe des objectifs dans ce domaine et contrôle leur réalisation.
 
-### Domaine 4Ressources
+### 3. Gestion de la qualité
 
-- 4\.1 La haute école ou l’autre institution du domaine des hautes écoles, avec sa collectivité responsable, présente les garanties suffisantes, en termes de personnel, d’infrastructures et de ressources financières pour réaliser ses objectifs stratégiques et assurer sa pérennité. La provenance, l’affectation et les conditions du financement sont transparentes.
-- 4\.2 Le système d’assurance de la qualité permet de s’assurer de la qualification de l’ensemble du personnel de la haute école ou de l’autre institution du domaine des hautes écoles conformément à son type et à ses caractéristiques spécifiques et prévoit à cette fin son évaluation périodique.
-- 4\.3 Le système d’assurance de la qualité permet de s’assurer que la haute école ou l’autre institution du domaine des hautes écoles soutient le développement de carrière de l’ensemble du personnel, en particulier de la relève scientifique.
+- 3\.1 La haute école dispose d’un système de gestion de la qualité qui lui permet d’atteindre ses objectifs stratégiques et opérationnels. Elle définit son système de gestion de la qualité dans le cadre d’un processus participatif et entretient une culture de la qualité.
+- 3\.2 La haute école a attribué de manière transparente et claire les tâches et les responsabilités en matière de gestion de la qualité.
+- 3\.3 La haute école analyse régulièrement le système de gestion de la qualité et procède aux adaptations nécessaires.
 
-### Domaine 5Communication interne et externe
+### Domaine II Enseignement, recherche et prestations de services
 
-- 5\.1 La haute école ou l’autre institution du domaine des hautes écoles rend publique sa stratégie d’assurance de la qualité et s’assure que les dispositions correspondant aux processus d’assurance de la qualité ainsi que leurs résultats sont connus du personnel, des étudiants et, le cas échéant, des parties prenantes externes.
-- 5\.2 La haute école ou l’autre institution du domaine des hautes écoles publie régulièrement une information objective sur les activités, les programmes d’études et les diplômes qu’elle offre.
+### 4. Enseignement
+
+- 4\.1 La haute école dispense un enseignement conformément à son type de haute école. Elle se fixe des objectifs en matière d’enseignement et contrôle la réalisation de ces objectifs.
+- 4\.2 La haute école structure son offre d’études et ses diplômes en fonction de son type de haute école. Elle définit et publie les qualifications acquises dans le cadre des programmes d’études.
+- 4\.3 La haute école réglemente toutes les phases des études, notamment l’admission aux études, la progression des études, la mobilité, la reconnaissance des acquis et l’obtention du diplôme, conformément à son type de haute école et aux standards et lignes directrices pour l’assurance qualité dans l’espace européen de l’enseignement supérieur. Elle dispose d’une procédure appropriée pour le traitement des plaintes des étudiants. Elle définit les règles et les publie.
+- 4\.4 La haute école évalue régulièrement l’enseignement. Elle informe les parties prenantes concernées des résultats et des mesures qui en découlent.
+
+### 5. Recherche
+
+- 5\.1 La haute école fait de la recherche conformément à son type de haute école. Elle se fixe des objectifs en matière de recherche et contrôle la réalisation de ces objectifs.
+- 5\.2 La haute école évalue régulièrement la recherche. Elle informe les parties prenantes concernées des résultats et des mesures qui en découlent.
+
+### 6. Prestations de services
+
+- 6\.1 La haute école fournit des prestations de services conformément à son type de haute école. Elle se fixe des objectifs en matière de prestations de services et contrôle la réalisation de ces objectifs.
+- 6\.2 La haute école évalue régulièrement ses prestations de services. Elle informe les parties prenantes concernées des résultats et des mesures qui en découlent.
+
+### Domaine III Personnel, finances et infrastructures
+
+### 7. Personnel
+
+- 7\.1 La haute école dispose d’une planification du personnel conforme à son type de haute école et emploie son propre personnel académique, technique et administratif.
+- 7\.2 La haute école dispose de procédures de sélection, de nomination et de promotion transparentes et non discriminatoires. Les qualifications académiques correspondent à son type de haute école. Elle informe les parties prenantes concernées de ces procédures.
+- 7\.3 La haute école évalue régulièrement son personnel académique, technique et administratif.
+- 7\.4 La haute école soutient le développement de carrière de son personnel en général et de ses jeunes chercheurs en particulier.
+
+### 8. Finances
+
+La haute école dispose d’une planification financière conforme à son type de haute école et de moyens financiers lui permettant de remplir sa mission et d’assurer sa pérennité à long terme.
+
+### 9. Infrastructures
+
+La haute école dispose d’une planification des infrastructures conforme à son type de haute école. Elle dispose d’infrastructures – notamment de locaux en Suisse, d’un accès aux bibliothèques et d’infrastructures de recherche – et de toutes les autres ressources nécessaires à l’accomplissement de sa mission.
 
 Annexe 2
 

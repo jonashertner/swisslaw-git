@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: Guidelines of the Higher Education Council of 28 May 2015 for accreditation within the higher education sector (HEdA Accreditation Guidelines)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: en
-version: 2022-08-01
+version: 2026-07-15
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/en/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20260715/en/xml/fedlex-data-admin-ch-eli-cc-2015-362-20260715-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20260715/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (HEdA Accreditation Ordinance)[^t-1]
 
-of 28 May 2015 (Status as of 1 August 2022)
+of 28 May 2015 (Last amended on 15 July 2026)
 
 [^t-1]: Amended by No I of the O of the Higher Education Council of 23 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -28,8 +28,8 @@ on the basis of Article 30 paragraph 2 of the Higher Education Act of 30 Septemb
 
 ordains:[^ingress-3]
 
-[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
 [^ingress-3]: Amended by No I of the O of the Higher Education Council of 23 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 ## Section 1 General Provisions
@@ -42,11 +42,11 @@ This Ordinance[^1-1] specifies the conditions for institutional accreditation un
 
 - a. the admission requirements for accreditation procedures;
 - b. the conditions for institutional accreditation and programme accreditation;
-- c.[^1-2] the procedure for first-time accreditation, and the first renewal of accreditation;
+- c.[^1-2] the procedure for first-time accreditation, and the renewal of accreditation;
 - d. the quality standards to be applied in the procedures.
 
 [^1-1]: Term in accordance with No I of the O of the Higher Education Council of 23 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). The term is used throughout the entire act.
-[^1-2]: Amended by No I of the O of the Higher Education Council of 19 May 2022, in force since 1 Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^1-2]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 2
 
@@ -54,12 +54,13 @@ This Ordinance[^1-1] specifies the conditions for institutional accreditation un
 
 The following are considered study programmes under this Ordinance:
 
-- a. Bachelor’s study programmes ranging up to 180 ECTS[^2-1] points;
-- b. Master’s study programmes ranging from 90 to 120 ECTS points;
-- c. continuing education study programmes ranging up to at least 60 ECTS points;
+- a. Bachelor’s study programmes comprising 180 ECTS[^2-1] points;
+- b.[^2-2] Master’s study programmes comprising 90 or 120 ECTS points; this shall be without prejudice to any differing definitions of study volume based on specific statutory provisions in federal acts or in intercantonal law on recognition of qualifications;
+- c. continuing education study programmes comprising at least 60 ECTS points;
 - d. study programmes whose accreditation under HEdA is provided for in a special act.
 
 [^2-1]: ECTS = European Credit Transfer System
+[^2-2]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 3
 
@@ -160,25 +161,23 @@ The study programme of an accredited higher education institution or other insti
 
 <sup>3</sup> If a university of teacher education is part of a university of applied sciences, the university of applied sciences is entitled to use the reserved designation for the university of teacher education in the context of institutional accreditation of the university of applied sciences.
 
-## Section 5 Procedure for First-time Accreditation and the First Renewal of Accreditation
+## Section 5 Procedure for First-time Accreditation and Renewal of Accreditation
 
 [^sec5-1]
 
-[^sec5-1]: Amended by No I of the O of the Higher Education Council of 19 May 2022, in force since 1 Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^sec5-1]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 8a
 
 [^8a-1]
 
-The provisions of this Section set out the procedure for first-time accreditation and the first renewal of accreditation.
-
-[^8a-1]: Inserted by No I of the O of the Higher Education Council of 23 Nov. 2017 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Amended by No I of the O of the Higher Education Council of 19 May 2022, in force since 1 Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
+[^8a-1]: Inserted by No I of the O of the Higher Education Council of 23 Nov. 2017 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Repealed by No I of the O of the Higher Education Council of 22 May 2026, with effect from 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 9
 
 **General provisions**
 
-<sup>1</sup> The object of the accreditation procedure is the quality assurance system of the higher education institution or other institution within the higher education sector.
+<sup>1</sup> During the accreditation procedure, the quality assurance system of the higher education institution or other institution within the higher education sector is assessed to determine whether it is suitable for ensuring compliance with the quality standards set out in this Ordinance.[^9-1]
 
 <sup>2</sup> Taking into account their organisational characteristics, higher education institutions or other institutions within the higher education sector shall include in the accreditation procedure all representative groups of the institution, particularly students, mid-level faculty staff, professors and administrative and technical staff.
 
@@ -190,9 +189,10 @@ The provisions of this Section set out the procedure for first-time accreditatio
 
 <sup>6</sup> The higher education institution or other institution within the higher education sector selects an agency from agencies recognised by the Accreditation Council to implement institutional or programme accreditation.
 
-<sup>7</sup> It chooses one of the official languages of the Swiss Confederation as the language to be used in the procedure. It may submit documents drafted in the language chosen for the procedure or documents drafted in English.[^9-1]
+<sup>7</sup> It chooses one of the official languages of the Swiss Confederation as the language to be used in the procedure. It may submit documents drafted in the language chosen for the procedure or documents drafted in English.[^9-2]
 
-[^9-1]: Inserted by No I of the O of the Higher Education Council of 26 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
+[^9-1]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^9-2]: Inserted by No I of the O of the Higher Education Council of 26 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 
 #### Art. 10
 
@@ -252,7 +252,7 @@ The following apply to the composition of the group of experts:
 <sup>6</sup> The rules in Article 10 of the Administrative Procedure Act of 20 December 1968[^13-2] on recusal apply to members of the group of experts.
 
 [^13-1]: Amended by No I of the O of the Higher Education Council of 26 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^13-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^13-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 14
 
@@ -280,13 +280,14 @@ The Accreditation Council may:
 - b. grant accreditation subject to conditions;
 - c. refuse accreditation.
 
-<sup>3</sup> It shall, in the context of the accreditation decision, determine the deadline and means of verifying whether the conditions have been met.
+<sup>3</sup> Where conditions are imposed, they must be met within six to 18 months in the case of first-time accreditation, and within 12 to 24 months in the case of renewal of accreditation. As part of the accreditation decision, the Accreditation Council shall determine the deadline and method for verifying whether the conditions have been met.[^15-1]
 
 <sup>4</sup> It shall notify the higher education institution or other institution within the higher education sector and accreditation agency about it.
 
-<sup>5</sup> …[^15-1]
+<sup>5</sup> …[^15-2]
 
-[^15-1]: Repealed by No I of the O of the Higher Education Council of 25 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
+[^15-1]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+[^15-2]: Repealed by No I of the O of the Higher Education Council of 25 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 
@@ -330,9 +331,13 @@ If the accreditation requirements are no longer met, the Accreditation Council s
 
 #### Art. 19
 
-**Period of validity of the accreditation**
+**Validity period of accreditation**[^19-1]
 
-The accreditation applies for seven years from the accreditation decision.
+<sup>1</sup> First-time accreditation is valid for five years from the accreditation decision.
+
+<sup>2</sup> Renewal of accreditation is valid for eight years from the accreditation decision.
+
+[^19-1]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 20
 
@@ -356,27 +361,31 @@ The Accreditation Council shall publish a list of accredited higher education in
 
 **Quality standards for institutional accreditation**
 
-<sup>1</sup> The quality standards for institutional accreditation include standards grouped into five areas, in accordance with Annex 1. The standards specify the requirements of Article 30 HEdA.
+<sup>1</sup> The quality standards for institutional accreditation comprise the standards set out in Annex 1. The standards provide further detail on the requirements laid down in Article 30 HEdA.[^22-1]
 
 <sup>2</sup> When checking the quality standards, the guidelines of the Higher Education Council regarding the characteristics of different types of higher education institution must be taken into account.
 
+[^22-1]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
+
 #### Art. 23
 
-**Quality standards for programme accreditation**
+**Quality standards for programme accreditation**[^23-1]
 
-The quality standards for accreditation of study programmes include standards grouped into four areas in accordance with Annex 2.
+The quality standards for programme accreditation comprise the standards set out in Annex 2.
+
+[^23-1]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 ## Section 7 Final Provisions
 
 #### Art. 24
 
-**Transitional provision**
+**Transitional provisions to the Amendment of 22 May 2026**[^24-1]
 
-Higher education institutions or other institutions within the higher education sector that were recognised under the UFundA[^24-1] or UASA[^24-2] as being entitled to contributions before HEdA came into force, may have the study programmes whose accreditation under HEdA is provided for in the Medical Professions Act of 23 June 2006[^24-3] or courses of universities of applied sciences in health accredited at the latest by 31 December 2022, even if they do not fulfil the requirements of Article 5 paragraph 1 letter a.
+<sup>1</sup> Applications that were submitted before the Amendment of 22 May 2026 came into force, and for which the accreditation agency had initiated the procedure before the Amendment of 22 May 2026 came into force, shall be assessed in accordance with the previous legislation.
 
-[^24-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Annex No II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)No II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 10; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 1]
-[^24-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 11; [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 2]
-[^24-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+<sup>2</sup> For applications to renew accreditation for which the accreditation agency had initiated the procedure before the Amendment of 22 May 2026 came into force, the accreditation shall be valid for eight years from the accreditation decision.
+
+[^24-1]: Amended by No I of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
 #### Art. 25
 
@@ -384,44 +393,69 @@ Higher education institutions or other institutions within the higher education 
 
 This Ordinance comes into force on 1 July 2015.
 
-Annex 1
+Annex 1[^t-2]
 
 (Art. 22 para. 1)
 
 ## Quality standards for institutional accreditation
 
-### Area 1Quality assurance strategy
+[^t-2]: Amended by No II of the O of the Higher Education Council of 22 May 2026, in force since 15 July 2026 ([AS 2026 345](https://fedlex.data.admin.ch/eli/oc/2026/345)).
 
-- 1\.1 The higher education institution or other institution within the higher education sector shall define its quality assurance strategy. This strategy shall contain the essential elements of an internal quality assurance system aimed at ensuring the quality of the activities of the higher education institution or other institution within the higher education sector and their long-term quality development as well as promoting the development of a quality culture.
-- 1\.2 The quality assurance system shall be incorporated into the strategy of the higher education institution or other institution within the higher education sector and efficiently support its development. It includes processes verifying whether the higher education institution or other institution within the higher education sector fulfils its mandate while taking account of its type and specific characteristics.
-- 1\.3 At all levels, all representative groups of the higher education institution or other institution within the higher education sector shall be involved in developing the quality assurance system and in its implementation, in particular students, mid-level faculty staff, professors and administrative and technical staff. Quality assurance responsibilities must be transparently and clearly assigned.
-- 1\.4 The higher education institution or other institution within the higher education sector shall periodically analyse the relevance of its quality assurance system and make the necessary adjustments.
+### Area IOrganisation, management, governance and quality management of higher education institutions
 
-### Area 2Governance
+### 1. Organisation and management of higher education institutions
 
-- 2\.1 The quality assurance system shall ensure that the organisational structure and decision-making processes enable the higher education institution or other institution within the higher education sector to fulfil its mission and to achieve its strategic objectives.
-- 2\.2 The quality assurance system shall systematically contribute to providing relevant and current quantitative and qualitative information on which the higher education institution or other institution within the higher education sector relies to make current and strategic decisions.
-- 2\.3 The quality assurance system shall ensure that the representative groups of the higher education institution or other institution within the higher education sector have an appropriate participatory right and that basic conditions are in place allowing them to independently operate.
-- 2\.4 The higher education institution or other institution within the higher education sector shall give consideration to an economically, socially and environmentally sustainable development in the completion of its tasks. The quality assurance system shall ensure that the higher education institution or other institution within the higher education sector sets objectives in this area and also implements them.
-- 2\.5 To carry out its tasks, the higher education institution or other institution within the higher education sector shall promote equal opportunities and actual gender equality for its staff and students. The quality assurance system shall ensure that the higher education institution or other institution within the higher education sector sets objectives in this area and also implements them.
+The higher education institution or other institution within the higher education sector (hereafter referred to as ‘higher education institution’) shall have an organisational structure and management system that enables it to fulfil its mission.
 
-### Area 3Teaching, research and services
+### 2. Governance
 
-- 3\.1 The activities of the higher education institution or other institution within the higher education sector shall correspond to its type, specific features and strategic objectives. They shall mainly relate to teaching, research and services and be carried out in accordance with the principle of freedom and independence within the limits of the mandate of the higher education institution or other institution within the higher education sector.
-- 3\.2 The quality assurance system shall provide for a periodic evaluation of teaching and research activities, of services and of results achieved in these areas.
-- 3\.3 The quality assurance system shall ensure that principles and objectives linked to the European Higher Education Area are taken into consideration.
-- 3\.4 The quality assurance system shall ensure compliance with the criteria for admission, for the assessment of the student performance and for issuing final diplomas according to the mission of the higher education institution or other institution within the higher education sector. These criteria shall be defined, communicated and applied systematically, transparently and consistently.
+- 2\.1 The higher education institution shall safeguard the freedom and independence of teaching and research.
+- 2\.2 The higher education institution shall safeguard the participatory rights of all representative groups at all levels and enable them to function independently.
+- 2\.3 The higher education institution shall publish information on its organisation, governance, funding and activities.
+- 2\.4 The higher education institution shall perform its functions with due regard for social sustainability. It shall promote equal opportunities, particularly in relation to gender equality, diversity and inclusion. It shall set objectives in this area and monitor their attainment.
+- 2\.5 The higher education institution shall perform its functions with due regard for economic and environmental sustainability. It shall set objectives in this area and monitor their attainment.
 
-### Area 4Resources
+### 3. Quality management
 
-- 4\.1 With its competent authorities, the higher education institution or other institution within the higher education sector shall assure that its personnel resources, infrastructure and financial means allow for operating on a going concern basis and for achieving its strategic objectives. The origin and allocation of financial resources and financing conditions shall be transparent.
-- 4\.2 The quality assurance system shall ensure that the entire staff is qualified according to the type and specific characteristics of the higher education institution or other institution within the higher education sector. To this end, it shall also provide for its periodic assessment.
-- 4\.3 The quality assurance system shall ensure that the higher education institution or other institution within the higher education sector supports the career development of its entire staff, particularly the new generation of scientists.
+- 3\.1 The higher education institution shall have a quality management system that supports it in attaining its strategic and operational objectives. It shall establish its quality management system through a participatory process and foster a culture of quality.
+- 3\.2 The higher education institution’s quality management system shall have transparently and clearly assigned tasks and responsibilities.
+- 3\.3 The higher education institution shall review its quality management system regularly and make adjustments where necessary.
 
-### Area 5Internal and external communication
+### Area II Teaching, research and services
 
-- 5\.1 The higher education institution or other institution within the higher education sector shall make public its quality assurance strategy and ensure that the provisions corresponding to quality assurance processes and their results are known to employees, students and if necessary external stakeholders.
-- 5\.2 The higher education institution or other institution within the higher education sector shall regularly publish objective information about its activities, its study programmes and the qualifications awarded.
+### 4. Teaching
+
+- 4\.1 The higher education institution shall deliver teaching in accordance with its institutional type. It shall set teaching objectives and monitor their attainment.
+- 4\.2 The higher education institution shall structure its range of study programmes and its qualifications in accordance with its institutional type. It shall determine the qualifications to be acquired through the study programmes and publish these qualifications.
+- 4\.3 The higher education institution shall regulate all phases of study (particularly admission criteria, academic progress, mobility, recognition of academic performance, and graduation) in accordance with its institutional type and the quality assurance standards and guidelines in the European Higher Education Area. It shall have an appropriate procedure for handling student complaints. It shall set out these regulations and publish them.
+- 4\.4 The higher education institution shall evaluate its teaching regularly. It shall inform the relevant stakeholders of both the results and the measures taken in response.
+
+### 5. Research
+
+- 5\.1 The higher education institution shall conduct research in accordance with its institutional type. It shall set research objectives and monitor their attainment.
+- 5\.2 The higher education institution shall evaluate its research regularly. It shall inform the relevant stakeholders of both the results and the measures taken in response.
+
+### 6. Services
+
+- 6\.1 The higher education institution shall provide services in accordance with its institutional type. It shall set objectives for its services and monitor their attainment.
+- 6\.2 The higher education institution shall evaluate its services regularly. It shall inform the relevant stakeholders of both the results and the measures taken in response.
+
+### Area III Staff, finances and infrastructure
+
+### 7. Staff
+
+- 7\.1 The higher education institution shall have a staff planning strategy appropriate to its institutional type and shall employ its own academic, technical and administrative staff.
+- 7\.2 The higher education institution shall have transparent, non-discriminatory procedures for selecting, appointing and promoting staff. Their academic qualifications shall be appropriate to the institutional type. The higher education institution shall inform the relevant stakeholders of this procedure.
+- 7\.3 The higher education institution shall evaluate its academic, technical and administrative staff regularly.
+- 7\.4 The higher education institution shall support the career development of all staff in general and of early-career researchers in particular.
+
+### 8. Finances
+
+The higher education institution shall have a financial planning strategy appropriate to its institutional type and shall possess the financial resources necessary to fulfil its mission and ensure its long-term existence.
+
+### 9. Infrastructure
+
+The higher education institution shall have an infrastructure planning strategy appropriate to its institutional type. It shall possess the infrastructure (including premises in Switzerland, access to libraries, and research infrastructure) and all other resources necessary to fulfil its mission.
 
 Annex 2
 
