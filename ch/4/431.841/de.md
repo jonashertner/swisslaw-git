@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnu
 short: VGWR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: de
-version: 2025-06-01
+version: 2026-07-15
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20260715/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20260715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/de"
 
 (VGWR)
 
-vom 9. Juni 2017 (Stand am 1. Juni 2025)
+vom 9. Juni 2017 (Stand am 15. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -366,17 +366,9 @@ Das BFS veröffentlicht die Daten des GWR der Stufe A, einschliesslich allfälli
 
 #### Art. 17
 
-**Gebühren**
+[^17-1]
 
-<sup>1</sup> Die Nutzung der im Internet zur Verfügung gestellten Daten ist kostenlos.
-
-<sup>2</sup> Der Zugriff auf die Daten des GWR ist für Stellen, die über einen Zugriff nach Artikel 15 Absatz 1 verfügen, kostenlos.
-
-<sup>3</sup> Der Bezug von individuell aufbereiteten Daten des GWR ist gebührenpflichtig.
-
-<sup>4</sup> Die Gebührenerhebung durch das BFS richtet sich nach der Verordnung vom 25. Juni 2003[^17-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
-
-[^17-1]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^17-1]: Aufgehoben durch Anhang 2 Ziff. 3 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, mit Wirkung seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 ## 4. Abschnitt: Datensicherheit
 

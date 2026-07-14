@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2025-06-01
+version: 2026-07-15
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20260715/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20260715-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20260715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 1° giugno 2025)
+del 9 giugno 2017 (Stato 15 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -366,17 +366,9 @@ L’UST pubblica in Internet e attraverso interfacce standardizzate i dati del R
 
 #### Art. 17
 
-**Emolumenti**
+[^17-1]
 
-<sup>1</sup> L’impiego dei dati messi a disposizione in Internet è gratuito.
-
-<sup>2</sup> L’accesso ai dati del REA per i servizi che beneficiano di un’autorizzazione secondo l’articolo 15 capoverso 1 è gratuito.
-
-<sup>3</sup> È riscosso un emolumento per il ricevimento di dati del REA risultanti da un’elaborazione individuale.
-
-<sup>4</sup> La riscossione degli emolumenti da parte dell’UST è disciplinata nell’ordinanza del 25 giugno 2003[^17-1] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
-
-[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^17-1]: Abrogato dall’all. 2 n. 3 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, con effetto dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 ## Sezione 4: Sicurezza dei dati
 

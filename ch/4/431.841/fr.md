@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des
 short: ORegBL
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: fr
-version: 2025-06-01
+version: 2026-07-15
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20250601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20260715/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20260715-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20260715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20250601/fr"
 
 (ORegBL)
 
-du 9 juin 2017 (État le 1<sup>er</sup> juin 2025)
+du 9 juin 2017 (État le 15 juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -365,17 +365,9 @@ L’OFS publie, sur Internet et via l’interface standardisée, les données du
 
 #### Art. 17
 
-**Émoluments**
+[^17-1]
 
-<sup>1</sup> L’utilisation des données mises à disposition sur Internet est gratuite.
-
-<sup>2</sup> L’accès aux données du RegBL pour les services au bénéfice d’une autorisation selon l’art. 15, al. 1, est gratuit.
-
-<sup>3</sup> Un émolument est dû pour la remise de données du RegBL résultant d’un traitement individualisé.
-
-<sup>4</sup> La perception d’émoluments par l’OFS est réglée par l’ordonnance du 25 juin 2003 sur les émoluments et les indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération[^17-1].
-
-[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^17-1]: Abrogé par l’annexe 2 ch. 3 de l’O du 5 juin 2026 sur les émoluments dans le domaine statistique, avec effet au 15 juil. 2026 ([RO 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 ## Section 4 Sécurité des données
 
