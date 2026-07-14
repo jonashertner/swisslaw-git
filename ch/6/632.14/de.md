@@ -3,18 +3,18 @@ sr: "632.14"
 title: Verordnung vom 12. Oktober 2011 über die Statistik des Aussenhandels
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/669"
 language: de
-version: 2023-09-01
+version: 2026-07-15
 adopted: 2011-10-12
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-669-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20260715/de/xml/fedlex-data-admin-ch-eli-cc-2011-669-20260715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Statistik des Aussenhandels
 
-vom 12. Oktober 2011 (Stand am 1. September 2023)
+vom 12. Oktober 2011 (Stand am 15. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -181,11 +181,9 @@ Die OZD wendet die nationalen und internationalen Qualitätskriterien an und eva
 
 #### Art. 17
 
-**Gebühren**
+[^17-1]
 
-Die OZD erhebt für die Veröffentlichung der Ergebnisse und für die statistischen Dienstleistungen Gebühren. Die Höhe der Gebühren richtet sich nach der Verordnung vom 25. Juni 2003[^17-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
-
-[^17-1]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^17-1]: Aufgehoben durch Anhang 2 Ziff. 5 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, mit Wirkung seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 18
 

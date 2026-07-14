@@ -3,18 +3,18 @@ sr: "632.14"
 title: Ordinanza del 12 ottobre 2011 sulla statistica del commercio esterno
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/669"
 language: it
-version: 2023-09-01
+version: 2026-07-15
 adopted: 2011-10-12
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-669-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/669/20260715/it/xml/fedlex-data-admin-ch-eli-cc-2011-669-20260715-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/669/20260715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla statistica del commercio esterno
 
-del 12 ottobre 2011 (Stato 1° settembre 2023)
+del 12 ottobre 2011 (Stato 15 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -181,11 +181,9 @@ La DGD applica i criteri nazionali e internazionali in materia di qualità e val
 
 #### Art. 17
 
-**Emolumenti**
+[^17-1]
 
-La DGD riscuote emolumenti per la pubblicazione dei risultati e le prestazioni di servizi statistici. Il loro importo è fissato nell’ordinanza del 25 giugno 2003[^17-1] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
-
-[^17-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^17-1]: Abrogato dall’all. 2 n. 5 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, con effetto dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 18
 
@@ -199,7 +197,7 @@ La DGD è incaricata dell’esecuzione della presente ordinanza.
 
 L’ordinanza del 5 dicembre 1988[^19-1] sulla statistica del commercio esterno è abrogata.
 
-[^19-1]: [[RU 1988 2047](https://fedlex.data.admin.ch/eli/oc/1988/2047_2047_2047), [2000](https://fedlex.data.admin.ch/eli/oc/1988/2000_2000_2000)611, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 19, [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)all. n. 1]
+[^19-1]: [[RU 1988 2047](https://fedlex.data.admin.ch/eli/oc/1988/2047_2047_2047); [2000](https://fedlex.data.admin.ch/eli/oc/1988/2000_2000_2000)611; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 19; [2008 1833](https://fedlex.data.admin.ch/eli/oc/2008/271)all. n. 1]
 
 #### Art. 20
 
