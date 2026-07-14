@@ -4,11 +4,11 @@ title: "Ordinanza del 21 novembre 2007 sull'armonizzazione dei registri (OArRa)"
 short: OArRa
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: it
-version: 2025-06-01
+version: 2026-07-15
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-868-20250601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20260715/it/xml/fedlex-data-admin-ch-eli-cc-2007-868-20260715-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20260715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/it"
 
 (OArRa)
 
-del 21 novembre 2007 (Stato 1° giugno 2025)
+del 21 novembre 2007 (Stato 15 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -222,9 +222,9 @@ Il servizio di convalida controlla:
 
 <sup>1</sup> Se attraverso Sedex sono trasmessi dati per altri scopi delle autorità, la trasmissione dei dati avviene secondo le direttive dell’UST.
 
-<sup>2</sup> La riscossione di emolumenti da parte dell’UST è disciplinata dall’ordinanza del 25 giugno 2003[^15-1] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
+<sup>2</sup> ...[^15-1]
 
-[^15-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^15-1]: Abrogato dall’all. 2 n. 1 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, con effetto dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 16
 

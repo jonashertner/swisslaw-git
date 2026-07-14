@@ -4,11 +4,11 @@ title: Registerharmonisierungsverordnung vom 21. November 2007 (RHV)
 short: RHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: de
-version: 2025-06-01
+version: 2026-07-15
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-868-20250601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20260715/de/xml/fedlex-data-admin-ch-eli-cc-2007-868-20260715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/de"
 
 (RHV)
 
-vom 21. November 2007 (Stand am 1. Juni 2025)
+vom 21. November 2007 (Stand am 15. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -222,9 +222,9 @@ Der Validierungsservice kontrolliert:
 
 <sup>1</sup> Werden Daten zu weiteren behördlichen Zwecken über Sedex übermittelt, so erfolgt die Datenübermittlung nach den Richtlinien des BFS.
 
-<sup>2</sup> Die Gebührenerhebung durch das BFS richtet sich nach der Verordnung vom 25. Juni 2003[^15-1] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
+<sup>2</sup> …[^15-1]
 
-[^15-1]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^15-1]: Aufgehoben durch Anhang 2 Ziff. 1 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, mit Wirkung seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 16
 

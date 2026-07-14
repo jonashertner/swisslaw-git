@@ -4,11 +4,11 @@ title: "Ordonnance du 21 novembre 2007 sur l'harmonisation de registres (OHR)"
 short: OHR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/868"
 language: fr
-version: 2025-06-01
+version: 2026-07-15
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-868-20250601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/868/20260715/fr/xml/fedlex-data-admin-ch-eli-cc-2007-868-20260715-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20260715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/868/20250601/fr"
 
 (OHR)
 
-du 21 novembre 2007 (État le 1<sup>er</sup> juin 2025)
+du 21 novembre 2007 (État le 15 juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -222,9 +222,9 @@ Ce service de validation contrôle que:
 
 <sup>1</sup> Toute transmission de données via sedex effectuée à d’autres fins officielles doit se faire conformément aux directives de l’OFS.
 
-<sup>2</sup> La perception d’émoluments par l’OFS est réglée par l’ordonnance du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération[^15-1].
+<sup>2</sup> …[^15-1]
 
-[^15-1]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^15-1]: Abrogé par l’annexe 2 ch. 1 de l’O du 5 juin 2026 sur les émoluments dans le domaine statistique, avec effet au 15 juil. 2026 ([RO 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 16
 
