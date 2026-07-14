@@ -3,11 +3,11 @@ sr: "0.748.710.11"
 title: Protokoll vom 4. April 2014 zur Änderung des Abkommens über strafbare und bestimmte andere an Bord von Luftfahrzeugen begangene Handlungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/469"
 language: de
-version: 2026-01-20
+version: 2026-07-15
 adopted: 2014-04-04
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20260120/de/xml/fedlex-data-admin-ch-eli-cc-2021-469-20260120-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20260120/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/469/20260715/de/xml/fedlex-data-admin-ch-eli-cc-2021-469-20260715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/469/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2021** 469; BBl **2020** 5123
 
 Abgeschlossen in Montreal am 4. April 2014 Von der Bundesversammlung genehmigt am 18. Dezember 2020[^t-1] Beitrittsurkunde von der Schweiz hinterlegt am 10. Juni 2021 In Kraft getreten für die Schweiz am 1. August 2021
 
-(Stand am 20. Januar 2026)
+(Stand am 15. Juli 2026)
 
 [^t-1]: [AS 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468)
 
@@ -224,7 +224,7 @@ Der Verwahrer unterrichtet umgehend alle Unterzeichner- und Vertragsstaaten dies
 
 *Zu Urkund dessen* haben die unterzeichneten, gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. Geschehen zu Montreal am vierten April zweitausendvierzehn in englischer, arabischer, chinesischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist; diese Verbindlichkeit tritt ein, sobald das Sekretariat der Konferenz im Auftrag des Präsidenten der Konferenz binnen neunzig Tagen ab diesem Datum bestätigt hat, dass die Wortlaute übereinstimmen. Dieses Protokoll wird bei der Internationalen Zivilluftfahrt-Organisation hinterlegt und beglaubigte Abschriften werden vom Verwahrer allen Vertragsstaaten dieses Protokolls übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 20. Januar 2026[^t-2]
+Geltungsbereich am 15. Juli 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -235,6 +235,7 @@ Geltungsbereich am 20. Januar 2026[^t-2]
 <tr><td>Aserbaidschan</td><td>26. April</td><td>2024 B</td><td>1. Juni</td><td>2024</td></tr>
 <tr><td>Bahrain</td><td>26. Februar</td><td>2016 B</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Botsuana</td><td>30. April</td><td>2021 B</td><td>1. Juni</td><td>2021</td></tr>
+<tr><td>Bulgarien</td><td>19. Januar</td><td>2026 B</td><td>1. März</td><td>2026</td></tr>
 <tr><td>Côte d’Ivoire</td><td>31. Juli</td><td>2017</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Dominikanische Republik</td><td>21. Juni</td><td>2016</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Estland</td><td>28. Oktober</td><td>2025 B</td><td>1. Dezember</td><td>2025</td></tr>
@@ -243,9 +244,11 @@ Geltungsbereich am 20. Januar 2026[^t-2]
 <tr><td>Gabun</td><td>1. Dezember</td><td>2015 B</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Gambia</td><td>15. Februar</td><td>2021 B</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>4. Juni</td><td>2018 B</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Grenada</td><td>8. Juni</td><td>2026 B</td><td>1. August</td><td>2026</td></tr>
 <tr><td>Guyana</td><td>10. Juni</td><td>2016 B</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Honduras</td><td>23. August</td><td>2021 B</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Irak</td><td>23. Juli</td><td>2024 B</td><td>1. September</td><td>2024</td></tr>
+<tr><td>Italien</td><td>2. Juli</td><td>2026 B</td><td>1. September</td><td>2026</td></tr>
 <tr><td>Jordanien</td><td>10. Juni</td><td>2016</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Kasachstan</td><td>14. Februar</td><td>2019 B</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Katar</td><td>12. Juni</td><td>2020</td><td>1. August</td><td>2020</td></tr>
@@ -264,6 +267,7 @@ Geltungsbereich am 20. Januar 2026[^t-2]
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>4. März</td><td>2021</td><td>1. Mai</td><td>2021</td></tr>
 <tr><td>Niger</td><td>7. März</td><td>2022</td><td>1. Mai</td><td>2022</td></tr>
 <tr><td>Nigeria</td><td>26. November</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Nordmazedonien</td><td>15. Mai</td><td>2026 B</td><td>1. Juli</td><td>2026</td></tr>
 <tr><td>Oman</td><td>9. Februar</td><td>2023 B</td><td>1. April</td><td>2023</td></tr>
 <tr><td>Paraguay</td><td>7. August</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Peru</td><td>28. September</td><td>2022 B</td><td>1. November</td><td>2022</td></tr>
@@ -271,8 +275,10 @@ Geltungsbereich am 20. Januar 2026[^t-2]
 <tr><td>Ruanda</td><td>9. Dezember</td><td>2021 B</td><td>1. Februar</td><td>2022</td></tr>
 <tr><td>Rumänien</td><td>17. Mai</td><td>2022</td><td>1. Juli</td><td>2022</td></tr>
 <tr><td>Russland</td><td>17. August</td><td>2021 B</td><td>1. Oktober</td><td>2021</td></tr>
+<tr><td>Sambia</td><td>28. Mai</td><td>2026 B</td><td>1. Juli</td><td>2026</td></tr>
 <tr><td>Schweiz</td><td>10. Juni</td><td>2021 B</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Senegal</td><td>4. Juli</td><td>2018</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Seychellen</td><td>9. Juni</td><td>2026 B</td><td>1. August</td><td>2026</td></tr>
 <tr><td>Sierra Leone</td><td>7. Oktober</td><td>2022</td><td>1. Dezember</td><td>2022</td></tr>
 <tr><td>Singapur</td><td>25. September</td><td>2018 B</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Somalia</td><td>1. April</td><td>2025 B</td><td>1. Juni</td><td>2025</td></tr>
@@ -289,4 +295,4 @@ Geltungsbereich am 20. Januar 2026[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](http://www.icao.int) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Listes actualisées des parties aux traités de droit aérien oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [2023 443](https://fedlex.data.admin.ch/eli/oc/2023/443); [2024 401](https://fedlex.data.admin.ch/eli/oc/2024/401); [2026 36](https://fedlex.data.admin.ch/eli/oc/2026/36). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [2023 443](https://fedlex.data.admin.ch/eli/oc/2023/443); [2024 401](https://fedlex.data.admin.ch/eli/oc/2024/401); [2026 36](https://fedlex.data.admin.ch/eli/oc/2026/36), [398](https://fedlex.data.admin.ch/eli/oc/2026/398). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
