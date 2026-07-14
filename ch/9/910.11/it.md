@@ -3,11 +3,11 @@ sr: "910.11"
 title: "Ordinanza del 16 giugno 2006 concernente le tasse dell'Ufficio federale dell'agricoltura (Ordinanza sulle tasse UFAG)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: it
-version: 2025-01-01
+version: 2026-07-15
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20250101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20260715/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20260715-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20260715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/it"
 
 (Ordinanza sulle tasse UFAG)
 
-del 16 giugno 2006 (Stato 1° gennaio 2025)
+del 16 giugno 2006 (Stato 15 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -32,13 +32,12 @@ ordina:
 
 **Campo d’applicazione**[^1-1]
 
-<sup>1</sup> La presente ordinanza disciplina la riscossione delle tasse da parte dell’Ufficio federale dell’agricoltura (UFAG), compresi la sua stazione federale di ricerca Agroscope e il suo Istituto di allevamento equino, per prestazioni e decisioni nell’ambito della legge del 29 aprile 1998 sull’agricoltura e delle relative disposizioni d’esecuzione, nonché per prestazioni di carattere statistico fornite dall’UFAG conformemente alla legge del 9 ottobre 1992[^1-2] sulla statistica federale.[^1-3]
+<sup>1</sup> La presente ordinanza disciplina la riscossione delle tasse da parte dell’Ufficio federale dell’agricoltura (UFAG), compresi la sua stazione federale di ricerca Agroscope e il suo Istituto di allevamento equino, per prestazioni e decisioni nell’ambito della legge del 29 aprile 1998 sull’agricoltura e delle relative disposizioni d’esecuzione.[^1-2]
 
 <sup>2</sup> Essa disciplina altresì la riscossione di tasse da parte di organi d’esecuzione, a cui l’UFAG ha affidato compiti d’esecuzione.
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^1-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
-[^1-3]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
+[^1-2]: Nuovo testo giusta l’all. 2 n. 6 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, in vigore dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 2
 
@@ -63,12 +62,13 @@ ordina:
 
 Non sono riscosse tasse per:
 
-- a. l’acquisizione di prestazioni di carattere statistico dell’UFAG da parte dell’Ufficio federale di statistica;
+- a.[^3a-2] …
 - b. le decisioni concernenti aiuti finanziari e indennità;
-- c.[^3a-2] l’uso di servizi elettronici dell’UFAG da parte di terzi che agiscono unicamente nell’ambito di un mandato di diritto pubblico o che sostengono l’attuazione del diritto europeo.
+- c.[^3a-3] l’uso di servizi elettronici dell’UFAG da parte di terzi che agiscono unicamente nell’ambito di un mandato di diritto pubblico o che sostengono l’attuazione del diritto europeo.
 
 [^3a-1]: Introdotto dalla cifra I dell’O del 12 mag. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
-[^3a-2]: Introdotta dall’all. dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
+[^3a-2]: Abrogata dall’all. 2 n. 6 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, con effetto dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
+[^3a-3]: Introdotta dall’all. dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 
 #### Art. 4
 
@@ -159,7 +159,7 @@ Allegato 1[^t-1]
 <tr><td>5.2</td><td colspan="2">Ispezione ufficiale delle colture, all’ora (art. 23 cpv. 4)</td><td colspan="2">30</td></tr>
 <tr><td>5.3</td><td colspan="2">Controllo colturale su campi di sementi di pre-base e base, per campione (art. 24 cpv. 3)</td><td colspan="2">40</td></tr>
 <tr><td>5.4</td><td colspan="2">Esame e approvazione di una designazione della varietà (art. 16*a*)</td><td colspan="2">100</td></tr>
-<tr><td>6</td><td colspan="2">...</td><td colspan="2"></td></tr>
+<tr><td>6</td><td colspan="2">…</td><td colspan="2"></td></tr>
 <tr><td>7</td><td colspan="2">Ordinanza del 1° novembre 2023[^annex1-lvlu1-6] sui concimi</td><td colspan="2"></td></tr>
 <tr><td>7.1</td><td colspan="2">Trattamento di una domanda d’iscrizione di un tipo di concime (art. 20)</td><td colspan="2">200</td></tr>
 <tr><td>8</td><td colspan="2">Ordinanza del 26 ottobre 2011[^annex1-lvlu1-7] sugli alimenti per animali</td><td colspan="2"></td></tr>
@@ -170,7 +170,7 @@ Allegato 1[^t-1]
 <tr><td>8.5</td><td colspan="2">Trattamento del rinnovo (art. 31) o dell’estensione di un’autorizzazione esistente (art. 22) per un additivo utilizzato negli alimenti per animali</td><td colspan="2">400</td></tr>
 <tr><td>8.6</td><td colspan="2">Maggiori controlli degli alimenti per animali provenienti da Paesi terzi, anche se non danno luogo a contestazioni (art. 58 in combinato disposto con l’art. 3 dell’ordinanza del 26 ottobre 2011[^annex1-lvlu1-8] sul libro dei prodotti destinati all’alimentazione animale, OLAIA), tassa per lotto</td><td colspan="2">50</td></tr>
 <tr><td>8.7</td><td colspan="2">Analisi nel quadro dei maggiori controlli di alimenti per animali provenienti da Paesi terzi (art. 58 in combinato disposto con l’art. 3 OLAIA)</td><td colspan="2">costi effettivi</td></tr>
-<tr><td>9</td><td colspan="2">...</td><td colspan="2"></td></tr>
+<tr><td>9</td><td colspan="2">…</td><td colspan="2"></td></tr>
 <tr><td>10</td><td colspan="2">Ordinanza del 23 ottobre 2013[^annex1-lvlu1-9] sui sistemi d’informazione nel campo dell’agricoltura</td><td colspan="2"></td></tr>
 <tr><td>10.1</td><td colspan="2">Allacciamento di un sistema d’informazione esterno al sistema IAM del portale Internet Agate (art. 20*a* cpv. 4):</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">a. importo forfetario unico per i lavori di allacciamento</td><td colspan="2">1300–3300</td></tr>
@@ -200,14 +200,14 @@ Allegato 2[^t-2]
 
 ## Tasse per l’acquisizione di dati sul latte e valutazioni:
 
-[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del 12 mag. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Aggiornato dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
+[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del 12 mag. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Aggiornato dalla cifra I dell’O del 27 ott. 2010 ([RU 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)) e dall’all. 2 n. 6 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, con effetto dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 <table>
 <tr><th></th><th></th><th>Franchi incl. IVA</th></tr>
 <tr><td>1</td><td>Dati sul latte di singole aziende</td><td></td></tr>
 <tr><td>1.1</td><td>Dati di singole aziende sulla produzione lattiera</td><td></td></tr>
 <tr><td></td><td>a. Forniture mensili e indirizzo (cognome, nome, via, n., NPA, luogo)</td><td>0.20 per produttore di latte</td></tr>
-<tr><td></td><td>b. Dati disponibili oltre a quelli di cui alla lett. a: – cantone d’appartenenza; – azienda annuale / d’estivazione; – classificazione nel catasto della produzione; – per regione (montagna / pianura); – numero di vacche da latte; – indirizzo di produzione (bio / conv.)</td><td>Dati sul latte di singole aziende (lett. a, b) 0.25 per produttore di latte</td></tr>
+<tr><td></td><td>b. Dati disponibili oltre a quelli di cui alla lett. a: – cantone d’appartenenza; – azienda annuale / d’estivazione; – classificazione nel catasto della produzione per regione (montagna / pianura); – numero di vacche da latte; – indirizzo di produzione (bio / conv.)</td><td>Dati sul latte di singole aziende (lett. a, b) 0.25 per produttore di latte</td></tr>
 <tr><td></td><td>c. Dati disponibili oltre a quelli di cui alla lett. a o alle lett. a–b: – comune d’appartenenza; – classificazione nel catasto della produzione per zone; – numero di UBG; – superficie agricola utile (SAU)</td><td>Dati sul latte di singole aziende (lett. a, c) 0.25; (lett. a, b, c) 0.30 per produttore di latte</td></tr>
 <tr><td></td><td>d. Ev. altri dati di singole aziende disponibili su richiesta</td><td>Al massimo 0.30 per produttore di latte</td></tr>
 <tr><td>1.2</td><td>Dati di singole aziende sulla valorizzazione del latte</td><td></td></tr>
@@ -215,11 +215,6 @@ Allegato 2[^t-2]
 <tr><td>1.3</td><td>Non sono riscosse tasse</td><td></td></tr>
 <tr><td></td><td>a. da aziende soggette all’obbligo di comunicare i dati che esse stesse acquisiscono dati sul latte;</td><td></td></tr>
 <tr><td></td><td>b. per l’acquisizione di dati sul latte di cui agli allegati 1 e 2 dell’ordinanza del 30 ottobre 2002[^annex2-lvlu1-1] sulle organizzazioni di categoria e sulle organizzazioni di produttori.</td><td></td></tr>
-<tr><td>2</td><td>Valutazioni standard</td><td></td></tr>
-<tr><td></td><td>Abbonamento annuale per l’accesso alla piattaforma di valutazione dell’UFAG per poter accedere a valutazioni standard dei seguenti ambiti: – Strutture delle aziende lattiere svizzere – Valorizzazione – Mercato – Uscite della Confederazione</td><td>Abbonamento per 1 persona fisica 300 all’anno; abbonamento aziendale (2–5 persone fisiche) 600 all’anno</td></tr>
-<tr><td>3</td><td>Valutazioni individuali su richiesta e acquisizione di singole valutazioni standard</td><td></td></tr>
-<tr><td></td><td>– Valutazione individuale (nessun dato di singola azienda) sulla scorta dei dati sul latte disponibili</td><td>In base al dispendio: a una tariffa oraria di 100</td></tr>
-<tr><td></td><td>– Acquisizione di singole valutazioni standard per le quali la persona interessata non ha sottoscritto un abbonamento.</td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [RS 919.117.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10954)

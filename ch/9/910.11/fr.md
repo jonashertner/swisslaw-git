@@ -4,11 +4,11 @@ title: "Ordonnance du 16 juin 2006 relative aux émoluments perçus par l'Office
 short: OEmol-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: fr
-version: 2025-01-01
+version: 2026-07-15
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-415-20250101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20260715/fr/xml/fedlex-data-admin-ch-eli-cc-2006-415-20260715-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20260715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/fr"
 
 (OEmol-OFAG)
 
-du 16 juin 2006 (État le 1<sup>er</sup> janvier 2025)
+du 16 juin 2006 (État le 15 juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -33,13 +33,12 @@ arrête:
 
 **Champ d’application**[^1-1]
 
-<sup>1</sup> La présente ordonnance régit les émoluments perçus par l’Office fédéral de l’agriculture (OFAG), y compris sa station fédérale de recherches agronomiques Agroscope et son Haras, pour les prestations fournies et les décisions rendues en vertu de la loi du 29 avril 1998 sur l’agriculture et de ses dispositions d’exécution, et pour les prestations statistiques visées par la loi du 9 octobre 1992 sur la statistique fédérale[^1-2].[^1-3]
+<sup>1</sup> La présente ordonnance régit les émoluments perçus par l’Office fédéral de l’agriculture (OFAG), y compris sa station fédérale de recherches agronomiques Agroscope et son Haras, pour les prestations fournies et les décisions rendues en vertu de la loi du 29 avril 1998 sur l’agriculture et de ses dispositions d’exécution.[^1-2]
 
 <sup>2</sup> Au surplus, elle régit les émoluments perçus par les organes d’exécution auxquels l’OFAG a confié des tâches d’exécution.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^1-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
+[^1-2]: Nouvelle teneur selon l’annexe 2 ch. 6 de l’O du 5 juin 2026 sur les émoluments dans le domaine statistique, en vigueur depuis le 15 juil. 2026 ([RO 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 2
 
@@ -64,12 +63,13 @@ arrête:
 
 Aucun émolument n’est perçu pour:
 
-- a. l’acquisition de prestations statistiques de l’OFAG par l’Office fédéral de la statistique;
+- a.[^3a-2] …
 - b. les décisions rendues en matière d’aides financière et de rémunération;
-- c.[^3a-2] l’utilisation des services électroniques de l’OFAG par des tiers qui agissent uniquement en vertu d’un mandat de droit public ou qui soutiennent la mise en œuvre du droit de l’UE.
+- c.[^3a-3] l’utilisation des services électroniques de l’OFAG par des tiers qui agissent uniquement en vertu d’un mandat de droit public ou qui soutiennent la mise en œuvre du droit de l’UE.
 
 [^3a-1]: Introduit par le ch. I de l’O du 12 mai 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
-[^3a-2]: Introduite par l’annexe à l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
+[^3a-2]: Abrogée par l’annexe 2 ch. 6 de l’O du 5 juin 2026 sur les émoluments dans le domaine statistique, avec effet au 15 juil. 2026 ([RO 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
+[^3a-3]: Introduite par l’annexe à l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 
 #### Art. 4
 
@@ -199,7 +199,7 @@ Annexe 2[^t-2]
 
 ## Émoluments pour l’acquisition de données laitières et d’évaluations
 
-[^t-2]: Introduite par le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Mise à jour par le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
+[^t-2]: Introduite par le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Mise à jour par le ch. I de l’O du 27 oct. 2010 ([RO 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)) et l’annexe 2 ch. 6 de l’O du 5 juin 2026 sur les émoluments dans le domaine statistique, en vigueur depuis le 15 juil. 2026 ([RO 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 <table>
 <tr><th></th><th colspan="2">Francs y compris la TVA</th></tr>
@@ -214,10 +214,6 @@ Annexe 2[^t-2]
 <tr><td>1.3 Aucun émolument n’est prélevé</td><td colspan="2"></td></tr>
 <tr><td>a. de personnes soumises à annonce qui acquièrent les données annoncées par elles;</td><td colspan="2"></td></tr>
 <tr><td>b. pour l’acquisition de données laitières selon les annexes 1 et 2 de l’ordonnance du 30 octobre 2002 sur les interprofessions et les organisations de producteurs[^annex2-lvlu1-1].</td><td colspan="2"></td></tr>
-<tr><td>2 Évaluations standard</td><td colspan="2"></td></tr>
-<tr><td>Abonnement annuel pour l’accès à la plateforme d’évaluation de l’OFAG, pour pouvoir télécharger les évaluations standard des domaines suivants: – Structures des exploitations laitières en Suisse – Mise en valeur – Marché – Dépenses de la Confédération</td><td colspan="2">Abonnement pour 1 personne physique: 300 par année; abonnement pour 1 entreprise (2–5 personnes physiques): 600 par année</td></tr>
-<tr><td>3 Évaluations individuelles sur demande et acquisitions d’évaluations standard individuelles</td><td colspan="2"></td></tr>
-<tr><td>– Évaluation individuelle sur la base des données laitières disponibles (pas de données d’exploitation) – Acquisition d’évaluations standard pour lesquelles la personne intéressée n’a pas souscrit d’abonnement</td><td colspan="2">Selon le temps consacré tarif horaire de 100</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [RS 919.117.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10954)

@@ -4,11 +4,11 @@ title: Verordnung vom 16. Juni 2006 über Gebühren des Bundesamtes für Landwir
 short: GebV-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: de
-version: 2025-01-01
+version: 2026-07-15
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20250101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20260715/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20260715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/de"
 
 (GebV-BLW)
 
-vom 16. Juni 2006 (Stand am 1. Januar 2025)
+vom 16. Juni 2006 (Stand am 15. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -33,13 +33,12 @@ verordnet:
 
 **Geltungsbereich**[^1-1]
 
-<sup>1</sup> Diese Verordnung regelt die Erhebung von Gebühren durch das Bundesamt für Landwirtschaft (BLW), einschliesslich seiner Forschungsanstalt Agroscope und seines Gestüts, für Dienstleistungen und Verfügungen im Bereich des Landwirtschaftsgesetzes vom 29. April 1998 und dessen Ausführungserlassen sowie für statistische Dienstleistungen nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^1-2], die das BLW erbringt.[^1-3]
+<sup>1</sup> Diese Verordnung regelt die Erhebung von Gebühren durch das Bundesamt für Landwirtschaft (BLW), einschliesslich seiner Forschungsanstalt Agroscope und seines Gestüts, für Dienstleistungen und Verfügungen im Bereich des Landwirtschaftsgesetzes vom 29. April 1998 und dessen Ausführungserlassen.[^1-2]
 
 <sup>2</sup> Sie regelt zudem die Erhebung von Gebühren durch Vollzugsorgane, denen vom BLW Vollzugsaufgaben übertragen wurden.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^1-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
-[^1-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
+[^1-2]: Fassung gemäss Anhang 2 Ziff. 6 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, in Kraft seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 2
 
@@ -64,12 +63,13 @@ verordnet:
 
 Keine Gebühren werden erhoben für:
 
-- a. den Bezug von statistischen Dienstleistungen des BLW durch das Bundesamt für Statistik;
+- a.[^3a-2] …
 - b. Verfügungen betreffend Finanzhilfen und Abgeltungen;
-- c.[^3a-2] die Nutzung von elektronischen Diensten des BLW durch Dritte, die ausschliesslich im öffentlich-rechtlichen Auftrag handeln oder die EU-Rechtsumsetzung unterstützen.
+- c.[^3a-3] die Nutzung von elektronischen Diensten des BLW durch Dritte, die ausschliesslich im öffentlich-rechtlichen Auftrag handeln oder die EU-Rechtsumsetzung unterstützen.
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
-[^3a-2]: Eingefügt durch Anhang der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
+[^3a-2]: Aufgehoben durch Anhang 2 Ziff. 6 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, mit Wirkung seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
+[^3a-3]: Eingefügt durch Anhang der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 
 #### Art. 4
 
@@ -199,7 +199,7 @@ Anhang 2[^t-2]
 
 ## Gebühren für den Bezug von Milchdaten und Auswertungen
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 12. Mai 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Bereinigt gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
+[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 12. Mai 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Bereinigt gemäss Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)) und Anhang 2 Ziff. 6 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, in Kraft seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 <table>
 <tr><th></th><th></th><th>Franken inkl. MWST</th></tr>
@@ -214,11 +214,6 @@ Anhang 2[^t-2]
 <tr><td>1.3</td><td>Keine Gebühren werden erhoben</td><td></td></tr>
 <tr><td></td><td>a. von Meldepflichtigen, die selber gemeldete Milchdaten beziehen</td><td></td></tr>
 <tr><td></td><td>b. beim Bezug von Milchdaten nach den Anhängen 1 und 2 der Verordnung vom 30. Oktober 2002[^annex2-lvlu1-1] über die Branchen- und Produzentenorganisationen</td><td></td></tr>
-<tr><td>2</td><td>Standardauswertungen</td><td></td></tr>
-<tr><td></td><td>Jahresabonnement für den Zugang zur Auswertungsplattform des BLW, um Standardauswertungen der folgenden Bereiche abrufen zu können: – Strukturen Milchwirtschaftsbetriebe Schweiz – Verwertung – Markt – Ausgaben des Bundes</td><td>Abonnement für 1 natürliche Person 300 pro Jahr; Firmenabonnement (2–5 natürliche Personen) 600 pro Jahr</td></tr>
-<tr><td>3</td><td>Individuelle Auswertungen auf Anfrage und Bezug von einzelnen Standardauswertungen</td><td></td></tr>
-<tr><td></td><td>– Individuelle Auswertung (keine einzelbetrieblichen Daten) auf der Basis der vorhandenen Milchdaten</td><td>Nach Aufwand: zu einem Stundensatz von 100</td></tr>
-<tr><td></td><td>– Bezug von einzelnen Standardauswertungen, für welche die interessierte Person kein Abonnement gelöst hat</td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [SR 919.117.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10954)
