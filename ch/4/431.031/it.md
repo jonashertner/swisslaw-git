@@ -4,11 +4,11 @@ title: "Ordinanza del 26 gennaio 2011 sul numero d'identificazione delle imprese
 short: OIDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: it
-version: 2023-09-01
+version: 2026-07-15
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2011-81-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20260715/it/xml/fedlex-data-admin-ch-eli-cc-2011-81-20260715-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20260715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/it"
 
 (OIDI)
 
-del 26 gennaio 2011 (Stato 1° settembre 2023)
+del 26 gennaio 2011 (Stato 15 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -384,10 +384,10 @@ L’UST iscrive, modifica o cancella dati delle unità amministrative unicamente
 
 <sup>4</sup> In caso di interrogazioni collettive di IDI da parte di privati sono comunicati unicamente gli IDI accessibili pubblicamente.
 
-<sup>5</sup> Per le interrogazioni collettive da parte di privati sono riscossi emolumenti. Questi ultimi sono stabiliti conformemente all’articolo 1 lettera h dell’ordinanza del 25 giugno 2003[^20-2] sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.
+<sup>5</sup> ...[^20-2]
 
 [^20-1]: Nuovo testo giusta l’all. 2 cifra II n. 53 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^20-2]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^20-2]: Abrogato dall’all. 2 n. 2 dell’O del 5 giu. 2026 sugli emolumenti in ambito statistico, con effetto dal 15 lug. 2026 ([RU 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 21
 

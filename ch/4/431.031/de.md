@@ -4,11 +4,11 @@ title: Verordnung vom 26. Januar 2011 über die Unternehmens-Identifikationsnumm
 short: UIDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: de
-version: 2023-09-01
+version: 2026-07-15
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2011-81-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20260715/de/xml/fedlex-data-admin-ch-eli-cc-2011-81-20260715-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20260715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/de"
 
 (UIDV)
 
-vom 26. Januar 2011 (Stand am 1. September 2023)
+vom 26. Januar 2011 (Stand am 15. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -384,10 +384,10 @@ Das BFS erfasst, ändert oder löscht Daten von Administrativeinheiten nur auf G
 
 <sup>4</sup> Bei Sammelabfragen von UID durch Private werden nur UID bekannt gegeben, die öffentlich zugänglich sind.
 
-<sup>5</sup> Von Privaten wird für Sammelabfragen eine Gebühr erhoben. Diese richtet sich nach Artikel 1 Buchstabe h der Verordnung vom 25. Juni 2003[^20-2] über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.
+<sup>5</sup> …[^20-2]
 
 [^20-1]: Fassung gemäss Anhang 2 Ziff. II 53 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^20-2]: [SR 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^20-2]: Aufgehoben durch Anhang 2 Ziff. 2 der V vom 5. Juni 2026 über die Gebühren im Statistikbereich, mit Wirkung seit 15. Juli 2026 ([AS 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 21
 

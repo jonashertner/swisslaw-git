@@ -4,11 +4,11 @@ title: "Ordonnance du 26 janvier 2011 sur le numéro d'identification des entrep
 short: OIDE
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: fr
-version: 2023-09-01
+version: 2026-07-15
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-81-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20260715/fr/xml/fedlex-data-admin-ch-eli-cc-2011-81-20260715-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20260715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20230901/fr"
 
 (OIDE)
 
-du 26 janvier 2011 (État le 1<sup>er</sup> septembre 2023)
+du 26 janvier 2011 (État le 15 juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -384,10 +384,10 @@ L’OFS saisit, modifie ou radie les données d’entités administratives à la
 
 <sup>4</sup> Seuls les IDE accessibles au public peuvent être communiqués à des particuliers dans le cadre de requêtes par lots.
 
-<sup>5</sup> Un émolument est perçu auprès des particuliers qui font une requête par lots. Il est fixé conformément à l’art. 1, let. h, de l’ordonnance du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération[^20-2].
+<sup>5</sup> …[^20-2]
 
 [^20-1]: Nouvelle teneur selon l’annexe 2 ch. II 53 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^20-2]: [RS 431.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6955)
+[^20-2]: Abrogé par l’annexe 2 ch. 2 de l’O du 5 juin 2026 sur les émoluments dans le domaine statistique, avec effet au 15 juil. 2026 ([RO 2026 326](https://fedlex.data.admin.ch/eli/oc/2026/326)).
 
 #### Art. 21
 
