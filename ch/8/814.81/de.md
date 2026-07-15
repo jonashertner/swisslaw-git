@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2026-01-01
+version: 2026-07-16
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260101-de-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260716-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Januar 2026)
+vom 18. Mai 2005 (Stand am 16. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -532,7 +532,7 @@ Anhang 1.1[^t-2]
 
 ## Persistente organische Schadstoffe
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Ziff. I Abs. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Ziff. I Abs. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)) und der Berichtigung vom 16. Juli 2026 ([AS 2026 394](https://fedlex.data.admin.ch/eli/oc/2026/394)).
 
 ### 1 Verbote
 
@@ -1475,7 +1475,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>

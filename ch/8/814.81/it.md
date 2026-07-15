@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2026-01-01
+version: 2026-07-16
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260101-it-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260716-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° gennaio 2026)
+del 18 maggio 2005 (Stato 16 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -531,7 +531,7 @@ Allegato 1.1[^t-2]
 
 ## Inquinanti organici persistenti
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dalla cifra I delle O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dalla cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dalla cifra I delle O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dalla cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)) e dalla correzione del 16 lug. 2026 (**2026** 394).
 
 ### 1 Divieti
 
@@ -564,7 +564,7 @@ Allegato 1.1[^t-2]
 - a. il loro contenuto in massa di alcani C<sub>10</sub>–C<sub>13</sub>, cloro- non supera l’1 per cento;
 - b. il loro contenuto in massa di difenileteri bromati secondo il numero 3 lettera d non supera per ciascuno lo 0,001 per cento (10 mg/kg).
 
-<sup>2</sup> I divieti di cui al numero 1 capoversi 1 lettera c e 2 non si applicano alle sostanze, ai preparati, agli oggetti e ai loro componenti se:
+<sup>2</sup> Il divieto di cui al numero 1 capoverso 2 non si applica agli oggetti e ai loro componenti se:
 
 - a. il loro contenuto in massa di alcani C<sub>10</sub>–C<sub>13</sub>, cloro- non supera lo 0,15 per cento;
 - b. il loro contenuto in massa di tetra-, penta-, esa- e eptabromodifeniletere secondo il numero 3 lettera d non supera per ciascuno lo 0,001 per cento (10 mg/kg).
@@ -1474,7 +1474,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>

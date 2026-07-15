@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2026-01-01
+version: 2026-07-16
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260101-en-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260716-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Last amended on 1 January 2026)
+of 18 May 2005 (Last amended on 16 July 2026)
 
 The Swiss Federal Council,
 
@@ -534,7 +534,7 @@ Annex 1.1[^t-2]
 
 ## Persistent organic pollutants
 
-[^t-2]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-2]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), No I para. 3 of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)) and the correction of 16 July 2026 ([AS 2026 394](https://fedlex.data.admin.ch/eli/oc/2026/394)).
 
 ### 1 Prohibitions
 
@@ -567,7 +567,7 @@ Annex 1.1[^t-2]
 - a. their content of alkanes C<sub>10</sub>–C<sub>13</sub>, chloro- does not exceed 1 % by mass;
 - b. their content of brominated diphenyl ethers as specified in Number 3 letter d does not exceed 0.001 % by mass (10 mg/kg).
 
-<sup>2</sup> The prohibitions specified in Number 1 paragraph 1 letter b and paragraph 2 do not apply to articles and their components, provided that:
+<sup>2</sup> The prohibition specified in Number 1 paragraph 2 do not apply to articles and their components, provided that:
 
 - a. their content of alkanes C<sub>10</sub>–C<sub>13</sub>, chloro does not exceed 0.15 % by mass;
 - b. their content of tetra-, penta-, hexa- and heptabromodiphenyl ether as specified in Number 3 letter d does not exceed 0.001% by mass (10mg/kg).
@@ -1477,7 +1477,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>

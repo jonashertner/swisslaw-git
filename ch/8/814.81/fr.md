@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2026-01-01
+version: 2026-07-16
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260101-fr-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20260716-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20260101/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> janvier 2026)
+du 18 mai 2005 (État le 16 juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -527,7 +527,7 @@ Annexe 1.1[^t-2]
 
 ## Polluants organiques persistants
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Mise à jour par le ch. I des O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) et le ch. I al. 3 du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Mise à jour par le ch. I des O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), le ch. I al. 3 du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)) et par l’erratum du 16 juil. 2026 ([RO 2026 394](https://fedlex.data.admin.ch/eli/oc/2026/394)).
 
 ### 1 Interdictions
 
@@ -560,7 +560,7 @@ Annexe 1.1[^t-2]
 - a. leur teneur en alcanes en C<sub>10</sub>–C<sub>13</sub>, chloro- n’excède pas 1 % masse;
 - b. leur teneur en chacune des substances de diphényléthers bromés au sens du ch. 3, let. d, n’excède pas 0,001 % masse (10 mg/kg).
 
-<sup>2</sup> Les interdictions au sens du ch. 1, al. 1, let. b, et 2, ne s’appliquent pas aux substances, aux préparations, aux objets et à leurs composants si:
+<sup>2</sup> L’interdiction au sens du ch. 1, al. 2, ne s’applique pas aux objets et à leurs composants si:
 
 - a. leur teneur en alcanes en C<sub>10</sub>–C<sub>13</sub>, chloro- n’excède pas 0,15 % masse;
 - b. leurs teneurs en chacune des substances tétrabromodiphényléther, pentabromodiphényléther, hexabromodiphényléther et heptabromodiphényléther au sens du ch. 3, let. d, ne dépassent pas 0,001 % masse (10 mg/kg).
@@ -1470,7 +1470,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260101/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20260716/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
