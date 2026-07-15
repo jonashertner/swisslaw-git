@@ -3,11 +3,11 @@ sr: "0.653.11"
 title: "Addendum dell'8 giugno 2023 all’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari"
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/863"
 language: it
-version: 2026-01-26
+version: 2026-07-16
 adopted: 2023-06-08
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260126/it/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260126-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260126/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260716/it/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260716-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Concluso l’8 giugno 2023 Approvato dall’Assemblea federale il 26 settembre 2
 
 Entrato in vigore il 26 gennaio 2026[^t-2]
 
-(Stato 26 gennaio 2026)
+(Stato 16 luglio 2026)
 
 [^t-1]: [FF 2025 2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)
 [^t-2]: [RU 2026 57](https://fedlex.data.admin.ch/eli/oc/2026/57)
@@ -275,3 +275,38 @@ E. Varie
 A. Le modifiche apportate allo Standard comune di comunicazione di informazioni hanno effetto il [data di entrata in vigore dello Standard comune di comunicazione di informazioni modificato].
 
 B. Nonostante la parte A, ai sensi della sezione I parte A punti 1 lettera b) e 6<sup>bis</sup>, in relazione a ciascun Conto oggetto di comunicazione detenuto presso un’Istituzione finanziaria tenuta alla comunicazione al [data di entrata in vigore dello Standard comune di comunicazione di informazioni modificato – 1 giorno] e per i periodi di rendicontazione che terminano il secondo anno civile successivo a tale data, le informazioni relative al ruolo o ai ruoli in virtù dei quali ciascuna Persona oggetto di comunicazione è una Persona che esercita il controllo o un titolare di una Quota nel capitale di rischio dell’Entità devono essere comunicate solo se tali informazioni sono disponibili nei dati consultabili elettronicamente conservati dall’Istituzione finanziaria tenuta alla comunicazione.
+
+Campo d’applicazione il 16 luglio 2026[^t-3]
+
+La Svizzera è vincolata dalle disposizioni dell’Addendum all’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari verso gli Stati e i territori seguenti conformemente alla sezione 7 paragrafo 2.1 dell’Accordo multilaterale:
+
+<table>
+<tr><th></th><th>Con effetto dal</th></tr>
+<tr><td>Albania</td><td>1°gennaio 2026</td></tr>
+<tr><td>Argentina</td><td>1°gennaio 2026</td></tr>
+<tr><td>Bahamas\*</td><td>1°gennaio 2026</td></tr>
+<tr><td>Canada</td><td>1°gennaio 2026</td></tr>
+<tr><td>Giappone</td><td>1°gennaio 2026</td></tr>
+<tr><td>Gibilterra</td><td>1°gennaio 2026</td></tr>
+<tr><td>Guernsey</td><td>1°gennaio 2026</td></tr>
+<tr><td>Indonesia</td><td>1°gennaio 2026</td></tr>
+<tr><td>Islanda</td><td>1°gennaio 2026</td></tr>
+<tr><td>Isole Cayman\*</td><td>1°gennaio 2026</td></tr>
+<tr><td>Jersey</td><td>1°gennaio 2026</td></tr>
+<tr><td>Liechtenstein</td><td>1°gennaio 2026</td></tr>
+<tr><td>Macao (Cina)</td><td>1°gennaio 2026</td></tr>
+<tr><td>Moldova</td><td>1°gennaio 2026</td></tr>
+<tr><td>Monaco</td><td>1°gennaio 2026</td></tr>
+<tr><td>Montserrat</td><td>1°gennaio 2026</td></tr>
+<tr><td>Norvegia</td><td>1°gennaio 2026</td></tr>
+<tr><td>Nuova Zelanda</td><td>1°gennaio 2026</td></tr>
+<tr><td>Regno Unito</td><td>1°gennaio 2026</td></tr>
+<tr><td>San Marino</td><td>1°gennaio 2026</td></tr>
+<tr><td>Singapore</td><td>1°gennaio 2026</td></tr>
+<tr><td>Sudafrica</td><td>1°gennaio 2026</td></tr>
+<tr><td>Trinidad e Tobago</td><td>1°gennaio 2026</td></tr>
+<tr><td>Uruguay</td><td>1°gennaio 2026</td></tr>
+<tr><td colspan="2">\* Questo Stato partner applica sistematicamente lo scambio automatico di informazioni in modo non reciproco sulla base di una notifica secondo la sezione 7 paragrafo 1 lettera b dell’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari. Ciò significa che non riceve alcun dato relativo a conti finanziari da parte della Svizzera, ma che trasmette tali informazioni alla Svizzera.</td></tr>
+</table>
+
+[^t-3]: [RU 2026 403](https://fedlex.data.admin.ch/eli/oc/2026/403). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

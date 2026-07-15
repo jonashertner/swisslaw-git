@@ -3,11 +3,11 @@ sr: "0.653.11"
 title: Addendum du 8 juin 2023 à l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/863"
 language: fr
-version: 2026-01-26
+version: 2026-07-16
 adopted: 2023-06-08
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260126/fr/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260126-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260126/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260716/fr/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260716-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Conclu le 8 juin 2023 Approuvé par l’Assemblée fédérale le 26 septembre 20
 
 Entré en vigueur le 26 janvier 2026[^t-2]
 
-(État le 26 janvier 2026)
+(État le 16 juillet 2026)
 
 [^t-1]: [FF 2025 2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)
 [^t-2]: [RO 2026 57](https://fedlex.data.admin.ch/eli/oc/2026/57)
@@ -275,3 +275,38 @@ E. Divers
 A. Les modifications apportées à la Norme commune de déclaration prennent effet le [date d’entrée en vigueur de la Norme commune de déclaration révisée].
 
 B. Nonobstant le par. A, en vertu de la section I, par. A, al. 1, let. b, et 6<sup>bis</sup>, pour chaque Compte déclarable géré par une Institution financière déclarante au [date d’entrée en vigueur de la Norme commune de déclaration révisée – 1 jour] et pour les périodes de déclaration se terminant la deuxième année civile suivant cette date, les renseignements relatifs à la ou aux fonctions en vertu de laquelle ou desquelles chaque Personne devant faire l’objet d’une déclaration est une Personne détenant le contrôle de l’Entité ou un détenteur de Titres de participation de l’Entité ne doivent être déclarés que s’ils figurent dans les données conservées par l’Institution financière déclarante et pouvant faire l’objet de recherches par voie électronique.
+
+Champ d’application le 16 juillet 2026[^t-3]
+
+La Suisse est liée par les dispositions de l’Addendum à l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers à l’égard des États et territoires suivants en vertu de la section 7, par. 2.1, de l’Accord multilatéral:
+
+<table>
+<tr><th></th><th>Effectif dès le</th></tr>
+<tr><td>Afrique du Sud</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Albanie</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Argentine</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Bahamas\*</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Canada</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Gibraltar</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Guernesey</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Îles Caïmans\*</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Indonésie</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Islande</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Japon</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Jersey</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Liechtenstein</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Macao (Chine)</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Moldavie</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Monaco</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Montserrat</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Nouvelle Zélande</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Norvège</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Royaume Uni</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Saint-Marin</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Singapour</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Trinité-et-Tobago</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Uruguay</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td colspan="2">\* Cet État partenaire applique en permanence l’échange automatique de renseignements de manière non réciproque, sur la base de la notification prévue à la section 7, paragraphe 1, lettre b, de l’accord multilatéral entre les autorités compétentes relatif à l’échange automatique de renseignements relatifs aux comptes financiers. Cela signifie qu’il ne reçoit aucune donnée de la Suisse concernant des comptes financiers, mais qu’il transmet de telles informations à la Suisse.</td></tr>
+</table>
+
+[^t-3]: [RO 2026 403](https://fedlex.data.admin.ch/eli/oc/2026/403). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

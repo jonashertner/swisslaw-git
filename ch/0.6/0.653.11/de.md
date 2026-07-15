@@ -3,11 +3,11 @@ sr: "0.653.11"
 title: Addendum vom 8. Juni 2023 zur multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/863"
 language: de
-version: 2026-01-26
+version: 2026-07-16
 adopted: 2023-06-08
 in_force: 2026-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260126/de/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260126-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260126/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/863/20260716/de/xml/fedlex-data-admin-ch-eli-cc-2025-863-20260716-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/863/20260716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2025** 863; BBl **2025** 883
 
 Abgeschlossen am 8. Juni 2023 Von der Bundesversammlung genehmigt am 26. September 2025[^t-1] Vorläufig angewendet ab 1. Januar 2026 In Kraft getreten am 26. Januar 2026[^t-2]
 
-(Stand am 26. Januar 2026)
+(Stand am 16. Juli 2026)
 
 [^t-1]: [BBl 2025 2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)
 [^t-2]: [AS 2026 57](https://fedlex.data.admin.ch/eli/oc/2026/57)
@@ -273,3 +273,38 @@ E. Sonstige Begriffsbestimmungen
 A. Die Änderungen am gemeinsamen Meldestandard werden am [Datum des Wirksamwerdens des geänderten gemeinsamen Meldestandards] wirksam.
 
 B. Ungeachtet des Unterabschnitts A sind die nach Abschnitt I Unterabschnitt A Nummer 1 Buchstabe b und Nummer 6<sup>bis</sup> zu meldenden Informationen über die Rolle(n), aufgrund derer meldepflichtige Personen beherrschende Personen beziehungsweise Inhaber von Eigenkapitalbeteiligungen am Rechtsträger sind, für jedes meldepflichtige Konto, das zum [Datum des Wirksamwerdens des überarbeiteten gemeinsamen Meldestandards – 1 Tag] von einem meldenden Finanzinstitut geführt wurde, und für Meldezeiträume, die spätestens im zweiten Kalenderjahr nach diesem Tag enden, nur dann zu melden, wenn diese Informationen in den elektronisch durchsuchbaren Daten des meldenden Finanzinstituts verfügbar sind.
+
+Geltungsbereich am 16. Juli 2026[^t-3]
+
+Die Schweiz ist durch die Bestimmungen des Addendums zur Multilateralen Vereinbarung über den automatischen Informationsaustausch über Finanzkonten in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 7 Absatz 2.1 der Multilateralen Vereinbarung:
+
+<table>
+<tr><th></th><th>Wirksam ab</th></tr>
+<tr><td>Albanien</td><td>1. Januar 2026</td></tr>
+<tr><td>Argentinien</td><td>1. Januar 2026</td></tr>
+<tr><td>Bahamas\*</td><td>1. Januar 2026</td></tr>
+<tr><td>Gibraltar</td><td>1. Januar 2026</td></tr>
+<tr><td>Guernsey</td><td>1. Januar 2026</td></tr>
+<tr><td>Indonesien</td><td>1. Januar 2026</td></tr>
+<tr><td>Island</td><td>1. Januar 2026</td></tr>
+<tr><td>Japan</td><td>1. Januar 2026</td></tr>
+<tr><td>Jersey</td><td>1. Januar 2026</td></tr>
+<tr><td>Kaimaninseln\*</td><td>1. Januar 2026</td></tr>
+<tr><td>Kanada</td><td>1. Januar 2026</td></tr>
+<tr><td>Liechtenstein</td><td>1. Januar 2026</td></tr>
+<tr><td>Macao (China)</td><td>1. Januar 2026</td></tr>
+<tr><td>Moldau</td><td>1. Januar 2026</td></tr>
+<tr><td>Monaco</td><td>1. Januar 2026</td></tr>
+<tr><td>Montserrat</td><td>1. Januar 2026</td></tr>
+<tr><td>Neuseeland</td><td>1. Januar 2026</td></tr>
+<tr><td>Norwegen</td><td>1. Januar 2026</td></tr>
+<tr><td>San Marino</td><td>1. Januar 2026</td></tr>
+<tr><td>Singapur</td><td>1. Januar 2026</td></tr>
+<tr><td>Südafrika</td><td>1. Januar 2026</td></tr>
+<tr><td>Trinidad und Tobago</td><td>1. Januar 2026</td></tr>
+<tr><td>Uruguay</td><td>1. Januar 2026</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>1. Januar 2026</td></tr>
+<tr><td colspan="2">\* Dieser Partnerstaat wendet den automatischen Informationsaustausch gestützt auf die Notifikation gemäss Abschnitt 7 Absatz 1 Buchstabe b der Multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten ständig in nichtreziproker Weise an. Dies bedeutet, dass er keine Daten über Finanzkonten von der Schweiz erhält, der Schweiz aber solche Informationen übermittelt.</td></tr>
+</table>
+
+[^t-3]: [AS 2026 403](https://fedlex.data.admin.ch/eli/oc/2026/403). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
