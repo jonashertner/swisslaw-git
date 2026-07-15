@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderungen im Bereich des Bundesamtes für Energie (BFE) mit Inkrafttreten am 1. Januar 2027
 document: Vernehmlassungsvorlage - KHV
 language: de

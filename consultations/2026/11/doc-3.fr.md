@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifications d'ordonnances relevant de la compétence de l'Office fédéral de l'énergie (OFEN) qui entreront en vigueur le 1er janvier 2027"
 document: Projet mis en consultation - O CO2
 language: fr
