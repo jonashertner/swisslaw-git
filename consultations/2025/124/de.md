@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über die Sammlungen des Bundesrechts und das Bundesblatt (Publikationsgesetz, PublG)"
 document: Vernehmlassungsvorlage
 language: de

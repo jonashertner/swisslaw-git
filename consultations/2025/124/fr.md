@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur les recueils du droit fédéral et la Feuille fédérale (Loi sur les publications officielles, LPubl)"
 document: Projet mis en consultation
 language: fr
