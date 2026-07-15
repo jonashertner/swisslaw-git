@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sull’acquisto di fondi da parte di persone all’estero
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über den Erwerb von Grundstücken durch Personen im Ausland
 document: Vernehmlassungsvorlage
 language: de

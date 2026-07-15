@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur l’acquisition d’immeubles par des personnes à l’étranger
 document: Projet mis en consultation
 language: fr
