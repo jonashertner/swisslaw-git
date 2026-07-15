@@ -3,11 +3,11 @@ sr: "0.192.110.942.7"
 title: "Protocollo del 12 luglio 1974 su i privilegi e le immunità dell'Organizzazione europea per le ricerche astronomiche nell'emisfero australe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/632_632_632"
 language: it
-version: 2020-04-21
+version: 2026-07-16
 adopted: 1974-07-12
 in_force: 1982-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/632_632_632/20200421/it/xml/fedlex-data-admin-ch-eli-cc-1982-632_632_632-20200421-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/632_632_632/20200421/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/632_632_632/20260716/it/xml/fedlex-data-admin-ch-eli-cc-1982-632_632_632-20260716-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/632_632_632/20260716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Parigi il 12 luglio 1974 Approvato dall’Assemblea federale il 21 settembre 1981[^t-1] Istrumento d’adesione depositato dalla Svizzera il 1° marzo 1982 Entrato in vigore per la Svizzera il 1° marzo 1982
 
-(Stato 21 gennaio 2020)
+(Stato 16 luglio 2026)
 
 [^t-1]: [RU 1982 631](https://fedlex.data.admin.ch/eli/oc/1982/631_631_631)
 
@@ -34,7 +34,7 @@ considerando che l’Organizzazione è stabilita in Cile, dove il suo statuto è
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^ingress-1]: [RS 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 1
 
@@ -138,7 +138,7 @@ Ai fini del presente Protocollo, per «attività ufficiali dell’Organizzazione
 Oltre ai privilegi ed immunità previsti agli articoli 16 e 17 che seguono[^15-1], il Direttore generale dell’Organizzazione, o la persona chiamata a sostituirlo, gode, per la durata delle sue funzioni, dei privilegi e delle immunità riconosciuti, dalla Convenzione di Vienna del 18 aprile 1961[^15-2] sulle relazioni diplomatiche, agli agenti diplomatici di rango equivalente.
 
 [^15-1]: [RU 1982 2304](https://fedlex.data.admin.ch/eli/oc/1982/__2304)
-[^15-2]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^15-2]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. 16
 
@@ -237,7 +237,7 @@ L’Organizzazione può, per decisione del Consiglio, conchiudere degli accordi 
 
 <sup>2.</sup> Il presente Protocollo soggiace alla ratificazione o all’approvazione. Gli strumenti di ratificazione o d’approvazione saranno depositati negli archivi del Governo della Repubblica francese.
 
-[^28-1]: [RS 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^28-1]: [RS 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 29
 
@@ -249,7 +249,7 @@ Il presente Protocollo entrerà in vigore il giorno di deposito del terzo strume
 
 <sup>2.</sup> Gli strumenti d’adesione saranno depositati negli archivi del Governo della Repubblica francese.
 
-[^30-1]: [RS 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^30-1]: [RS 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 31
 
@@ -265,7 +265,7 @@ Il Governo della Repubblica francese notificherà a tutti gli Stati che avranno 
 
 <sup>2.</sup> Ogni Stato che recede dall’Organizzazione, o cessa di farne parte in virtù dell’articolo XI della precitata Convenzione, cessa d’essere partecipe del presente Protocollo.
 
-[^33-1]: [RS 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^33-1]: [RS 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 34
 
@@ -279,17 +279,21 @@ Fatto a Parigi il 12 luglio 1974 in un solo esemplare, nelle lingue tedesca, dan
 
 *(Seguono le firme)*
 
-Campo d’applicazione il 21 aprile 2020[^t-2]
+Campo d’applicazione il 16 luglio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratificazione Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Austria</td><td>1° luglio</td><td>2009 A</td><td>1° luglio</td><td>2009</td></tr>
+<tr><td>Belgio</td><td>5 dicembre</td><td>1991</td><td>5 dicembre</td><td>1991</td></tr>
 <tr><td>Ceca, Repubblica</td><td>13 ottobre</td><td>2010 A</td><td>13 ottobre</td><td>2010</td></tr>
 <tr><td>Danimarca</td><td>1° marzo</td><td>1976</td><td>1° marzo</td><td>1976</td></tr>
+<tr><td>Finlandia</td><td>7 luglio</td><td>2004 A</td><td>7 luglio</td><td>2004</td></tr>
 <tr><td>Francia</td><td>25 luglio</td><td>1975</td><td>25 luglio</td><td>1975</td></tr>
 <tr><td>Germania\*\*</td><td>2 luglio</td><td>1975</td><td>25 luglio</td><td>1975</td></tr>
+<tr><td>Irlanda</td><td>10 gennaio</td><td>2020 A</td><td>10 gennaio</td><td>2020</td></tr>
 <tr><td>Italia</td><td>24 maggio</td><td>1982 A</td><td>24 maggio</td><td>1982</td></tr>
 <tr><td>Paesi Bassi</td><td>16 settembre</td><td>1975</td><td>16 settembre</td><td>1975</td></tr>
+<tr><td>Polonia</td><td>8 luglio</td><td>2015 A</td><td>8 luglio</td><td>2015</td></tr>
 <tr><td>Regno Unito\*</td><td>25 settembre</td><td>2012 A</td><td>25 settembre</td><td>2012</td></tr>
 <tr><td>Spagna</td><td>20 settembre</td><td>2017 A</td><td>20 settembre</td><td>2017</td></tr>
 <tr><td>Svezia</td><td>9 luglio</td><td>1975</td><td>25 luglio</td><td>1975</td></tr>
@@ -297,4 +301,4 @@ Campo d’applicazione il 21 aprile 2020[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. I testi originali si possono ottenere presso il DDIP/DFAE, Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1982 632](https://fedlex.data.admin.ch/eli/oc/1982/632_632_632), [1985 1348](https://fedlex.data.admin.ch/eli/oc/1985/1348_1348_1348), [2013 1239](https://fedlex.data.admin.ch/eli/oc/2013/273)e [2020 1469](https://fedlex.data.admin.ch/eli/oc/2020/284). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1982 632](https://fedlex.data.admin.ch/eli/oc/1982/632_632_632), [1985 1348](https://fedlex.data.admin.ch/eli/oc/1985/1348_1348_1348), [2013 1239](https://fedlex.data.admin.ch/eli/oc/2013/273)e [2020 1469](https://fedlex.data.admin.ch/eli/oc/2020/284); [2026 401](https://fedlex.data.admin.ch/eli/oc/2026/401). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

@@ -3,11 +3,11 @@ sr: "0.192.110.942.7"
 title: Protokoll vom 12. Juli 1974 über die Vorrechte und Immunitäten der Europäischen Organisation für Astronomische Forschung in der Südlichen Hemisphäre
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/632_632_632"
 language: de
-version: 2020-04-21
+version: 2026-07-16
 adopted: 1974-07-12
 in_force: 1982-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/632_632_632/20200421/de/xml/fedlex-data-admin-ch-eli-cc-1982-632_632_632-20200421-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/632_632_632/20200421/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/632_632_632/20260716/de/xml/fedlex-data-admin-ch-eli-cc-1982-632_632_632-20260716-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/632_632_632/20260716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Paris am 12. Juli 1974 Von der Bundesversammlung genehmigt am 21. September 1981[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 1. März 1982 In Kraft getreten für die Schweiz am 1. März 1982
 
-(Stand am 21. April 2020)
+(Stand am 16. Juli 2026)
 
 [^t-1]: [AS 1982 631](https://fedlex.data.admin.ch/eli/oc/1982/631_631_631)
 
@@ -34,7 +34,7 @@ in der Erwägung, dass die Organisation in Chile niedergelassen ist, wo ihre Ste
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^ingress-1]: [SR 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 1
 
@@ -128,7 +128,7 @@ Im Sinne dieses Protokolls ist unter «amtliche Tätigkeit der Organisation» di
 
 Ausser den in den Artikeln 16 und 17 vorgesehenen Vorrechten und Immunitäten geniesst der Generaldirektor der Organisation oder die zu seiner Vertretung berufene Person während seiner bzw. ihrer Amtszeit die Vorrechte und Immunitäten, die das Wiener Übereinkommen vom 18. April 1961[^15-1] über diplomatische Beziehungen den Diplomaten vergleichbaren Ranges einräumt.
 
-[^15-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^15-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. 16
 
@@ -221,7 +221,7 @@ Die Organisation kann auf Beschluss des Rates mit einem oder mehreren Vertragsst
 
 <sup>2.</sup> Dieses Protokoll bedarf der Ratifizierung oder Genehmigung. Die Ratifikations‑ oder Genehmigungsurkunden sind im Archiv der Regierung der Französischen Republik zu hinterlegen.
 
-[^28-1]: [SR 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^28-1]: [SR 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 29
 
@@ -233,7 +233,7 @@ Dieses Protokoll tritt mit Hinterlegung der dritten Ratifikations‑ oder Genehm
 
 <sup>2.</sup> Die Beitrittsurkunden sind im Archiv der Regierung der Französischen Republik zu hinterlegen.
 
-[^30-1]: [SR 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^30-1]: [SR 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 31
 
@@ -249,7 +249,7 @@ Die Regierung der Französischen Republik notifiziert allen Staaten, die dieses 
 
 <sup>2.</sup> Jeder Staat, der aus der Organisation austritt oder aufgrund des Artikels XI des in Absatz 1 genannten Übereinkommens aufhört, Mitglied zu sein, hört auf, Vertragspartei dieses Protokolls zu sein.
 
-[^33-1]: [SR 0.427.1](https://fedlex.data.admin.ch/eli/cc/1982/619_619_619)
+[^33-1]: [SR 0.427.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1779)
 
 #### Art. 34
 
@@ -257,22 +257,28 @@ Dieses Protokoll ist im Hinblick auf seinen Hauptzweck auszulegen, der darin bes
 
 #### Art. 35
 
-Die Regierung der Französischen Republik lässt dieses Protokoll unmittelbar nach seinem Inkrafttreten gemäss Artikel 102 der Charta der Vereinten Nationen beim Sekretariat der Vereinten Nationen registrieren.
+Die Regierung der Französischen Republik lässt dieses Protokoll unmittelbar nach seinem Inkrafttreten gemäss Artikel 102 der Charta der Vereinten Nationen[^35-1] beim Sekretariat der Vereinten Nationen registrieren.
 
 Geschehen zu Paris am 12. Juli 1974 in einer Urschrift in deutscher, dänischer, französischer, niederländischer und schwedischer Sprache; bei Unstimmigkeiten ist der französische Wortlaut massgebend. Die Urschrift wird im Archiv des Ministeriums für Auswärtige Angelegenheiten der Französischen Republik hinterlegt, das den Staaten, die dieses Protokoll unterzeichnet haben oder ihm beigetreten sind, eine beglaubigte Abschrift übermittelt.
 
+[^35-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 21. April 2020[^t-2]
+Geltungsbereich am 16. Juli 2026[^t-2]
 
 <table>
 <tr><td>Vertragsstaaten</td><td colspan="2">Ratifikation Beitritt (B)</td><td colspan="2">Inkrafttreten</td></tr>
+<tr><td>Belgien</td><td>5. Dezember</td><td>1991</td><td>5. Dezember</td><td>1991</td></tr>
 <tr><td>Dänemark</td><td>1. März</td><td>1976</td><td>1. März</td><td>1976</td></tr>
 <tr><td>Deutschland\*\*</td><td>2. Juli</td><td>1975</td><td>25. Juli</td><td>1975</td></tr>
+<tr><td>Finnland</td><td>7. Juli</td><td>2004 B</td><td>7. Juli</td><td>2004</td></tr>
 <tr><td>Frankreich</td><td>25. Juli</td><td>1975</td><td>25. Juli</td><td>1975</td></tr>
+<tr><td>Irland</td><td>10. Januar</td><td>2020 B</td><td>10. Januar</td><td>2020</td></tr>
 <tr><td>Italien</td><td>24. Mai</td><td>1982 B</td><td>24. Mai</td><td>1982</td></tr>
 <tr><td>Niederlande</td><td>16. September</td><td>1975</td><td>16. September</td><td>1975</td></tr>
 <tr><td>Österreich</td><td>1. Juli</td><td>2009 B</td><td>1. Juli</td><td>2009</td></tr>
+<tr><td>Polen</td><td>8. Juli</td><td>2015 B</td><td>8. Juli</td><td>2015</td></tr>
 <tr><td>Schweden</td><td>9. Juli</td><td>1975</td><td>25. Juli</td><td>1975</td></tr>
 <tr><td>Schweiz</td><td>1. März</td><td>1982 B</td><td>1. März</td><td>1982</td></tr>
 <tr><td>Spanien</td><td>20. September</td><td>2017 B</td><td>20. September</td><td>2017</td></tr>
@@ -281,4 +287,4 @@ Geltungsbereich am 21. April 2020[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die Originaltexte können bei der DV/EDA, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: AS**1982** 632, **1985** 1348, **2013** 1239, **2020** 1469. Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1982 632](https://fedlex.data.admin.ch/eli/oc/1982/632_632_632); [1985 1348](https://fedlex.data.admin.ch/eli/oc/1985/1348_1348_1348); [2013 1239](https://fedlex.data.admin.ch/eli/oc/2013/273); [2020 1469](https://fedlex.data.admin.ch/eli/oc/2020/284); [2026 401](https://fedlex.data.admin.ch/eli/oc/2026/401). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
