@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 concernente le esigenze per l'efficienza
 short: OEEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: it
-version: 2026-07-01
+version: 2026-07-24
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260724/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260724-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260724/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260701/it"
 
 (Ordinanza sull’efficienza energetica, OEEne)
 
-del 1° novembre 2017 (Stato 1° luglio 2026)
+del 1° novembre 2017 (Stato 24 luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -398,7 +398,7 @@ Allegato 1.3[^t-3]
 
 ## [Esigenze per l’efficienza energetica, la commercializzazione e la cessione delle asciugabiancheria domestiche con raccordo alla rete](https://www.fedlex.admin.ch/eli/cc/2017/765/it)
 
-[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Aggiornato dalla cifra II cpv. 1 dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 21 mag. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Aggiornato dalla cifra II cpv. 1 dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Campo d’applicazione
 
@@ -513,7 +513,7 @@ Allegato 1.7[^t-7]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di cappe da cucina per uso domestico con raccordo alla rete
 
-[^t-7]: Aggiornato dalle cifre II cpv. 1 delle O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) e del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^t-7]: Aggiornato dalla cifra II cpv. 1 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) e del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Campo d’applicazione
 
@@ -1089,7 +1089,7 @@ Allegato 2.1[^t-22]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione delle apparecchiature elettriche ed elettroniche domestiche e da ufficio con raccordo alla rete nei modi spento, stand‑by e stand‑by in rete
 
-[^t-22]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 21 mag. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Aggiornato dalla cifra II cpv. 1 dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^t-22]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Aggiornato dalla cifra II cpv. 1 dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Campo d’applicazione
 
@@ -1223,7 +1223,7 @@ Allegato 2.6[^t-27]
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di ventilatori
 
-[^t-27]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
+[^t-27]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 21 mag. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Aggiornato dalla cifra II cpv. 1 dell’O del 27 mag. 2026, in vigore dal 24 lug. 2026 ([RU 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Campo d’applicazione
 
@@ -1231,7 +1231,7 @@ Allegato 2.6[^t-27]
 - 1\.2 Sono esclusi i ventilatori di cui all’articolo 1 numeri 2 e 3 del regolamento (UE) 2024/1834.
 - 1\.3 Si applicano le definizioni di cui all’articolo 2 e all’allegato I del regolamento (UE) 2024/1834.
 
-[^annex26-lvlu1-lvl1-1]: Regolamento (UE) 2024/1834 della Commissione, del 3 luglio 2024, recante modalità di applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio in merito alle specifiche per la progettazione ecocompatibile di ventilatori a motore la cui potenza elettrica di ingresso è compresa tra 125 W e 500 kW e che abroga il regolamento (UE) 327/2011 della Commissione, versione secondo GU L 2024/1834 del 4.7.2024.
+[^annex26-lvlu1-lvl1-1]: Regolamento (UE) 2024/1834 della Commissione, del 3 luglio 2024, recante modalità di applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio in merito alle specifiche per la progettazione ecocompatibile di ventilatori a motore la cui potenza elettrica di ingresso è compresa tra 125 W e 500 kW e che abroga il regolamento (UE) n. 327/2011 della Commissione, GU L 2024/1834 del 4.7.2024; modificato dal regolamento (UE) 2025/2481, GU L, 2025/2481, 8.12.2025.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -1699,11 +1699,11 @@ Per l’anno 2020 si considerano tipi di veicolo attuali ai sensi del numero 3.3
 
 ### 10 Esempio della rappresentazione grafica dell’etichettaEnergia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260724/it/xml/image/image1.png)
 
 ### 11 Esempio della rappresentazione grafica della scala relativa alle categorie di efficienza energetica
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260724/it/xml/image/image2.png)
 
 Allegato 4.2[^t-39]
 

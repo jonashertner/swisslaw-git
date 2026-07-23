@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2026-07-01
+version: 2026-07-24
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260724/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260724-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260724/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260701/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. Juli 2026)
+vom 1. November 2017 (Stand am 24. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1208,46 +1208,47 @@ Anhang 2.5[^t-26]
 
 [^annex25-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.6
+Anhang 2.6[^t-27]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Ventilatoren
 
+[^t-27]: Fassung gemäss Ziff. II Abs. 2 der V vom 21. Mai 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Mai 2026, in Kraft seit 24. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+
 ### 1 Geltungsbereich
 
-- 1\.1 Dieser Anhang gilt für Ventilatoren mit einer Eingangsleistung der Antriebmotoren zwischen 0,125 und 500 kW.
-- 1\.2 Ausgenommen sind die Ventilatoren nach Artikel 1 Ziffern 2 und 3 der Verordnung (EU) Nr. 327/2011[^annex26-lvlu1-lvl1-1].
-- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) Nr. 327/2011.
+- 1\.1 Dieser Anhang gilt für Ventilatoren nach Artikel 1 der Verordnung (EU) 2024/1834[^annex26-lvlu1-lvl1-1].
+- 1\.2 Ausgenommen sind die Ventilatoren nach Artikel 1 Ziffern 2 und 3 der Verordnung (EU) 2024/1834.
+- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang I der Verordnung (EU) 2024/1834.
 
-[^annex26-lvlu1-lvl1-1]: Verordnung (EU) Nr. 327/2011 der Kommission vom 30. März 2011 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Ventilatoren, die durch Motoren mit einer elektrischen Eingangsleistung zwischen 125 W und 500 kW angetrieben werden, ABl. L 90 vom 6.4.2011, S. 8; zuletzt geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
+[^annex26-lvlu1-lvl1-1]: Verordnung (EU) 2024/1834 der Kommission vom 3. Juli 2024 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf Ökodesign-Anforderungen an Ventilatoren, die von Motoren mit einer elektrischen Eingangsleistung zwischen 125 W und 500 kW angetrieben werden, und zur Aufhebung der Verordnung (EU) Nr. 327/2011 der Kommission, ABl. L, 2024/1834, 4.7.2024; geändert durch Verordnung (EU) 2025/2481, ABl. L, 2025/2481, 8.12.2025.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- Ventilatoren nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang I der Verordnung (EU) Nr. 327/2011[^annex26-lvlu1-lvl2-1] erfüllen.
-
-[^annex26-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.2.
+- Ventilatoren nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach den Artikeln 3 und 6 und Anhang II der Verordnung (EU) 2024/1834 erfüllen.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Ventilatoren nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I und II der Verordnung (EU) Nr. 327/2011[^annex26-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Ventilator anhand der Vorgaben und Methoden unter Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EU) Nr. 327/2011 erfüllen.
-
-[^annex26-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Ventilatoren nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II, ausgenommen Nummer 4.3, und III der Verordnung (EU) 2024/1834 gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Ventilator anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Nummer 3 Buchstabe b und der Nummern 12–15 der Verordnung (EU) 2024/1834 erfüllen.
 
 ### 4 Angabe des Energieverbrauchs
 
-- Die Angabe der energieverbrauchsrelevanten Eigenschaften ist nach Anhang I Ziffer 3 der Verordnung (EU) Nr. 327/2011[^annex26-lvlu1-lvl4-1] vorzunehmen.
+- Die Angabe der energieverbrauchsrelevanten Eigenschaften und weitere Produktinformationen sind nach Anhang II Nummern 2, 3 und 4, ausgenommen Nummer 4.3, und Nummern 5 und 6 der Verordnung (EU) 2024/1834 vorzunehmen.
 
-[^annex26-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.2.
+### 5 Übergangsbestimmungen
 
-Anhang 2.7[^t-27]
+- 5\.1 Ventilatoren, welche die geltenden Anforderungen nicht erfüllen, dürfen ab dem 24. Juli 2026 nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 24. Juli 2027 abgegeben werden.
+- 5\.2 Ventilatoren, welche die Kriterien gemäss Anhang II erster Unterabsatz Buchstaben a–d der Verordnung (EU) 2024/1834 erfüllen, dürfen längstens bis zum 24. Juli 2028 abgegeben werden.
+
+Anhang 2.7[^t-28]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Motoren und Frequenzumrichtern
 
-[^t-27]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) und Ziff. II Abs. 1 der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-28]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)) und Ziff. II Abs. 1 der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Geltungsbereich
 
@@ -1277,13 +1278,13 @@ Anhang 2.7[^t-27]
 - 5\.1 Motoren und Frequenzumrichter, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 30. Juni 2022 abgegeben werden.
 - 5\.2 Motoren, welche die ab 1. Juli 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 30. Juni 2024 abgegeben werden.
 
-Anhang 2.8[^t-28]
+Anhang 2.8[^t-29]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Nassläufer-Umwälzpumpen
 
-[^t-28]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-29]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1345,13 +1346,13 @@ Anhang 2.9
 
 [^annex29-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.10[^t-29]
+Anhang 2.10[^t-30]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Leistungstransformatoren
 
-[^t-29]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-30]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1389,13 +1390,13 @@ Anhang 2.10[^t-29]
 
 [^annex210-lvlu1-lvl5-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.11[^t-30]
+Anhang 2.11[^t-31]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Luftheizungsprodukten, Kühlungsprodukten, Prozesskühlern mit hoher Betriebstemperatur und Gebläsekonvektoren
 
-[^t-30]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-31]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1422,13 +1423,13 @@ Anhang 2.11[^t-30]
 
 - 5\.1 Luftheizungsprodukte, Kühlungsprodukte, Prozesskühler mit hoher Betriebstemperatur und Gebläsekonvektoren, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 
-Anhang 2.12[^t-31]
+Anhang 2.12[^t-32]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Servern und Datenspeicherprodukten
 
-[^t-31]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
+[^t-32]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Geltungsbereich
 
@@ -1459,13 +1460,13 @@ Anhang 2.12[^t-31]
 - 5\.2 Server und Online-Datenspeicherprodukte, welche die ab 1. März 2021 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 - 5\.3 Server und Online-Datenspeicherprodukte, welche die ab 1. Januar 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2023 abgegeben werden.
 
-Anhang 2.13[^t-32]
+Anhang 2.13[^t-33]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Schweissgeräten
 
-[^t-32]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-33]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1494,13 +1495,13 @@ Anhang 2.13[^t-32]
 - 5\.1 Schweissgeräte, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 - 5\.2 Schweissgeräte, welche die ab 1. Januar 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2023 abgegeben werden.
 
-Anhang 2.14[^t-33]
+Anhang 2.14[^t-34]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener gewerblicher Kochfelder, offener Gratinier- oder Warmhalte-Öfen mit starker Oberhitze (Salamander) und Fritteusen
 
-[^t-33]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^t-34]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 
 ### 1 Geltungsbereich
 
@@ -1527,13 +1528,13 @@ Anhang 2.14[^t-33]
 
 - Netzbetriebene gewerbliche Küchengeräte, welche die ab 1. Januar 2024 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2024 abgegeben werden.
 
-Anhang 2.15[^t-34]
+Anhang 2.15[^t-35]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von netzbetriebenen gewerblichen Geschirrspülern
 
-[^t-34]: Eingefügt durch Ziff. II Abs. 2 der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^t-35]: Eingefügt durch Ziff. II Abs. 2 der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 
 ### 1 Geltungsbereich
 
@@ -1578,21 +1579,21 @@ Anhang 2.15[^t-34]
 
 - Netzbetriebene gewerbliche Geschirrspüler, welche die ab 1. Januar 2024 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2024 abgegeben werden.
 
-Anhang 3.1[^t-35]
+Anhang 3.1[^t-36]
 
-[^t-35]: Aufgehoben durch Ziff. II Abs. 4 der V vom 22. April 2020, mit Wirkung seit 1. Sept. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-36]: Aufgehoben durch Ziff. II Abs. 4 der V vom 22. April 2020, mit Wirkung seit 1. Sept. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
-Anhang 3.2[^t-36]
+Anhang 3.2[^t-37]
 
-[^t-36]: Aufgehoben durch Ziff. II Abs. 2 der V vom 27. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^t-37]: Aufgehoben durch Ziff. II Abs. 2 der V vom 27. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
-Anhang 4.1[^t-37]
+Anhang 4.1[^t-38]
 
 (Art. 10, 11 und 12)
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern
 
-[^t-37]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)), Ziff. I der V vom 20. Nov. 2024 ([AS 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)) und Ziff. II Abs. 1 der V vom 21. Mai 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
+[^t-38]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), Ziff. II der V vom 3. Juni 2022 ([AS 2022 356](https://fedlex.data.admin.ch/eli/oc/2022/356)), Ziff. II Abs. 1 der V vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)), Ziff. I der V vom 20. Nov. 2024 ([AS 2024 703](https://fedlex.data.admin.ch/eli/oc/2024/703)) und Ziff. II Abs. 1 der V vom 21. Mai 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 ### 1 Bestimmungen zum Energieverbrauch
 
@@ -1689,19 +1690,19 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260724/de/xml/image/image1.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260724/de/xml/image/image2.png)
 
-Anhang 4.2[^t-38]
+Anhang 4.2[^t-39]
 
 (Art. 13)
 
 ## Angabe der Treibstoffeffizienzklasse und weiterer Eigenschaften von Reifen
 
-[^t-38]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-39]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Geltungsbereich
 
