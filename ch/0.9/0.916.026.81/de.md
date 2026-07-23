@@ -3,11 +3,11 @@ sr: "0.916.026.81"
 title: Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen (mit Anhängen und Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/323"
 language: de
-version: 2023-01-01
+version: 2026-07-24
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-323-20230101-de-xml-28.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20260724/de/xml/fedlex-data-admin-ch-eli-cc-2002-323-20260724-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20260724/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 16. Oktober 2000
 
 In Kraft getreten am 1. Juni 2002
 
-(Stand am 1. Januar 2023)
+(Stand am 24. Juli 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. d des BB vom 8. Okt. 1999 ([AS 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242))
 
@@ -327,13 +327,13 @@ Anlage Schweizerische Kontrollstellen, die zur Ausstellung der in Anhang 10 Arti
 
 Anlage 1 Seuchenbekämpfung/Seuchenmeldung
 
-Anlage 2 Tiergesundheit: Handel und Vermarktung
+Anlage 2 Tiergesundheit: Handel zwischen der Schweiz und der Europäischen Union und Vermarktung
 
-Anlage 3 Einfuhr lebender Tiere und deren Sperma, Eier und Embryonen
+Anlage 3 Einfuhr lebender Tiere und ihres Zuchtmaterials aus Drittländern
 
 Anlage 4 Tierzucht, einschliesslich Einfuhr von Zuchtmaterial aus Drittländern
 
-Anlage 5 Lebende Tiere und deren Sperma und Embryonen: Grenzkontrollen und Kontrollgebühren
+Anlage 5 Lebende Tiere und Zuchtmaterial: Grenzkontrollen und Kontrollgebühren
 
 Anlage 6 Tierische Erzeugnisse
 
@@ -824,7 +824,7 @@ Anlage 1[^t-6]
   - – abgeschnittenen Ästen von *Fraxinus* L., *Juglans ailantifolia* Carr., *Juglans mandshurica* Maxim., *Ulmus davidiana* Planch. und *Pterocarya rhoifolia* Siebold & Zucc., mit oder ohne Blattwerk, mit Ursprung in Kanada, China, der Demokratischen Volksrepublik Korea, Japan, der Mongolei, der Republik Korea, Russland, Taiwan und den USA;
   - – Amiris P. Browne, *Casimiroa* La Llave, Citropsis Swingle & Kellerman, Eremocitrus Swingle, *Esenbeckia* Kunth., Glycosmis Corrêa, *Merrillia* Swingle, *Naringi* Adans., *Tetradium* Lour., *Toddalia* Juss. und *Zanthoxylum* L.
 
-- 2\.1 Pflanzenteile, ausser Früchten, aber einschliesslich Samen, von Aegle Corrêa, Aeglopsis Swingle, *Afraegle* Engl., *Atalantia* Corrêa, *Balsamocitrus* Stapf, *Burkillanthus* Swingle, *Calodendrum* Thunb., *Choisya* Kunth, *Clausena* Burm. f., *Limonia* L., *Microcitrus* Swingle, *Murraya J.* Koenig ex L., *Pam**burus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Triphasia* Lour und *Vepris* Comm.
+- 2\.1 Pflanzenteile, ausser Früchten, aber einschliesslich Samen, von Aegle Corrêa, Aeglopsis Swingle, *Afraegle* Engl., *Atalantia* Corrêa, *Balsamocitrus* Stapf, *Burkillanthus* Swingle, *Calodendrum* Thunb., *Choisya* Kunth, *Clausena* Burm. f., *Limonia* L., *Microcitrus* Swingle, *Murraya J.* Koenig ex L., *Pamburus* Swingle, *Severinia* Ten., *Swinglea* Merr., *Triphasia* Lour und *Vepris* Comm.
 - 3\.
 
   Früchte von:
@@ -3944,7 +3944,7 @@ Toπικός Οίνος Μαγνησίας
 
 <table>
 <tr><td>Ονομασία Προέλευσης Ανωτέρας Ποιότητας (ΟΠΑΠ) *(appellation d’origine de qualité supérieure)*</td><td>g.U.</td><td>Griechisch</td></tr>
-<tr><td>Ονομασία Προέλευσης Ελεγχόμενη (ΟΠΕ) *(**appellation d**’**origine contrôlée**)*</td><td>g.U.</td><td>Griechisch</td></tr>
+<tr><td>Ονομασία Προέλευσης Ελεγχόμενη (ΟΠΕ) *(appellation d**’**origine contrôlée)*</td><td>g.U.</td><td>Griechisch</td></tr>
 <tr><td>Οίνος γλυκός φυσικός *(vin doux naturel)*</td><td>g.U.</td><td>Griechisch</td></tr>
 <tr><td>Οίνος φυσικώς γλυκύς *(vin naturellement doux)*</td><td>g.U.</td><td>Griechisch</td></tr>
 <tr><td>ονομασία κατά παράδοση *(appellation traditionnelle)*</td><td>g.g.A</td><td>Griechisch</td></tr>
@@ -9118,7 +9118,7 @@ Unbeschadet ihrer Verpflichtungen in Bezug auf Erzeugnisse, die nicht aus den L�
 
 <sup>1.</sup> Die Bestimmungen dieses Anhangs gelten für landwirtschaftliche[^annex9-lvlu1-2-1] Erzeugnisse und Lebensmittel, die nach ökologischen Landbaumethoden erzeugt worden sind und die den Rechts- und Verwaltungsvorschriften gemäss Anlage 1 entsprechen.
 
-<sup>2.</sup> ...[^annex9-lvlu1-2-2]
+<sup>2.</sup> …[^annex9-lvlu1-2-2]
 
 [^annex9-lvlu1-2-1]: Wort gemäss Art. 1 des Beschlusses Nr. 2/2011 des Gemischten Ausschusses für Landwirtschaft vom 25. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
 [^annex9-lvlu1-2-2]: Aufgehoben gemäss Art. 1 des Beschlusses Nr. 2/2011 des Gemischten Ausschusses für Landwirtschaft vom 25. Nov. 2011, mit Wirkung seit 1. Dez. 2011 ([AS 2011 6535](https://fedlex.data.admin.ch/eli/oc/2011/908)).
@@ -9327,7 +9327,7 @@ Schweiz
 
 Anlage 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20260724/de/xml/image/image1.png)
 
 Anhang 11
 
@@ -9566,175 +9566,80 @@ Anlage 1[^t-24]
 
 ## Seuchenbekämpfung/Seuchenmeldung
 
-[^t-24]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Veterinärausschusses vom 17. Dez. 2015, in Kraft seit 17. Dez. 2015, mit Wirkung seit 1. Jan. 2015 ([AS 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-24]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2026 des Gemischten Veterinärausschusses vom 24. Juli 2026, in Kraft seit 24. Juli 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### I. Maul- und Klauenseuche
+### I. Seuchen bei Landtieren
 
-### A. Rechtsvorschriften\*
+### A. Rechtsvorschriften
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex1-lvlu1-lvlI-lvlA-1]
+
+[^annex1-lvlu1-lvlI-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2003/85/EG des Rates vom 29. September 2003 über Massnahmen der Gemeinschaft zur Bekämpfung der Maul- und Klauenseuche, zur Aufhebung der Richtlinien 85/511/EWG sowie der Entscheidungen 89/531/EWG und 91/665/EWG und zur Änderung der Richtlinie 92/46/EWG (ABl. L 306 vom 22.11.2003 S. 1)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10*b* (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 49 (Umgang mit tierpathogenen Mikroorganismen), 73 und 74 (Reinigung, Desinfektion und Entwesung), 77 bis 98 (gemeinsame Bestimmungen betreffend hochansteckende Seuchen), 99 bis 103 (besondere Bestimmungen betreffend die Maul- und Klauenseuche) 3. Organisationsverordnung vom 28. Juni 2000 für das Eidgenössische Departement des Innern (OV‑EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium, Registrierung, Kontrolle und Bereitstellung von Impfstoff gegen die Maul- und Klauenseuche)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend die Tiergesundheit durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 4. Verordnung vom 25. Mai 2011 über tierische Nebenprodukte (VTNP; SR *916.441.22*)</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
 \1. Die Kommission und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen teilen einander mit, wenn sie eine Notimpfung durchzuführen beabsichtigen. In äussersten Dringlichkeitsfällen werden der Beschluss über die Durchführung der Notimpfung und die einschlägigen Durchführungsvorschriften mitgeteilt. In jedem Falle finden im Rahmen des Gemischten Veterinärausschusses umgehend Beratungen statt.
 
-\2. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Notfallplan, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
+\2. Das Verzeichnis der EU-Referenzlaboratorien wird gemäss Artikel 99 der Verordnung (EU) 2017/625 auf der Website der Europäischen Kommission veröffentlicht.
 
-\3. Das Pirbright Institute, Pirbright Laboratory, Ash Road, Pirbright, Surrey, GU24 0NF, Vereinigtes Königreich, wird zum gemeinsamem Referenzlaboratorium zur Identifizierung des Maul- und Klauenseuchevirus benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang XVI der Richtlinie 2003/85/EG festgelegt.
+Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge angelastet werden können. Zuständigkeiten und Aufgaben dieser Laboratorien sind in Artikel 94 der Verordnung (EU) 2017/625 festgelegt.
 
-### II. Klassische Schweinepest
+Das Verzeichnis der nationalen Referenzlaboratorien für die Schweiz wird auf der Website des Bundesamts für Lebensmittelsicherheit und Veterinärwesen veröffentlicht.
 
-### A. Rechtsvorschriften\*
+\3. Die Kontrollen fallen gemäss Artikel 116 der Verordnung (EU) 2017/625 und Artikel 57 des Tierseuchengesetzes in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+### II. Fisch- und Weichtierkrankheiten
 
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2001/89/EG des Rates vom 23. Oktober 2001 über Massnahmen der Gemeinschaft zur Bekämpfung der klassischen Schweinepest (ABl. L 316 vom 1.12.2001, S. 5).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10*b* (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995, (TSV; SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 40 und 47 (Entsorgung und Verwertung von Nebenprodukten), 49 (Umgang mit tierpathogenen Mikroorganismen), 73 und 74 (Reinigung, Desinfektion und Entwesung), 77 bis 98 (gemeinsame Bestimmungen betreffend hochansteckende Seuchen), 116 bis 121 (Feststellung der Schweinepest bei der Schlachtung, besondere Massnahmen zur Bekämpfung der Schweinepest) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium) 4. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</td></tr>
-</table>
+### A. Rechtsvorschriften
 
-### B. Durchführungsbestimmungen
+[^annex1-lvlu1-lvlII-lvlA-1]
 
-\1. Die Kommission und das Bundesamt für Lebensmittelsicherheit und Veterinärwesen teilen einander mit, wenn sie eine Notimpfung durchzuführen beabsichtigen. Im Rahmen des Gemischten Veterinärausschusses finden umgehend entsprechende Beratungen statt.
-
-\2. Gemäss Artikel 117 Absatz 5 der Tierseuchenverordnung erlässt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen erforderlichenfalls technische Vorschriften für die Kennzeichnung und Behandlung von Fleisch aus den Schutz- und Überwachungszonen.
-
-\3. Gemäss Artikel 121 der Tierseuchenverordnung verfügt die Schweiz über einen Plan zur Tilgung der Klassischen Schweinepest bei freilebenden Wildschweinen gemäss den Artikeln 15 und 16 der Richtlinie 2001/89/EG.
-
-\4. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Notfallplan, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
-
-\5. Insbesondere auf der Grundlage des Artikels 21 der Richtlinie 2001/89/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-\6. Gemäss Artikel 89 Absatz 2 der Tierseuchenverordnung erlässt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen erforderlichenfalls technische Vorschriften für die serologische Kontrolle von Schweinebeständen in den Schutz- und Überwachungszonen gemäss Kapitel IV des Anhangs der Entscheidung 2002/106/EG der Kommission[^annex1-lvlu1-lvlII-lvlB-1].
-
-\7. Das Institut für Virologie der Tierärztlichen Hochschule Hannover, Bünteweg 17, 30559 Hannover, Deutschland, wird zum gemeinsamen Referenzlaboratorium für Klassische Schweinepest benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang IV der Richtlinie 2001/89/EG festgelegt.
-
-[^annex1-lvlu1-lvlII-lvlB-1]: Entscheidung 2002/106/EG der Kommission vom 1. Februar 2002 zur Genehmigung eines Diagnosehandbuchs mit Diagnosemethoden, Probenahmeverfahren und Kriterien für die Auswertung von Laboruntersuchungen zur Bestätigung der Klassischen Schweinepest (ABl. L 39 vom 9.2.2002, S. 71).
-
-### III. Afrikanische Schweinepest
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex1-lvlu1-lvlII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2002/60/EG des Rates vom 27. Juni 2002 zur Festlegung von besonderen Vorschriften für die Bekämpfung der Afrikanischen Schweinepest sowie zur Änderung der Richtlinie 92/119/EWG hinsichtlich der Teschener Krankheit und der Afrikanischen Schweinepest (ABl. L 192 vom 20.7.2002, S. 27)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10*b* (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995, (TSV; SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 40 und 47 (Entsorgung und Verwertung von Nebenprodukten), 49 (Umgang mit tierpathogenen Mikroorganismen), 73 und 74 (Reinigung und Desinfektion), 77 bis 98 (gemeinsame Bestimmungen betreffend hochanstekkende Seuchen), 116 bis 121 (Feststellung der Schweinepest bei der Schlachtung, besondere Massnahmen zur Bekämpfung der Schweinepest) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium) 4. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Das Centro de Investigación en Sanidad Animal, 28130 Valdeolmos, Madrid, Spanien, wird zum Referenzlaboratorium der Europäischen Union für Afrikanische Schweinepest benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang V der Richtlinie 2002/60/EG festgelegt.
-
-\2. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Notfallplan, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
-
-\3. Gemäss Artikel 89 Absatz 2 der Tierseuchenverordnung erlässt das Bundesamt für Lebensmittelsicherheit und Veterinärwesen erforderlichenfalls technische Vorschriften für die Methoden zur Diagnose der Afrikanischen Schweinepest im Einklang mit der Entscheidung 2003/422/EG der Kommission[^annex1-lvlu1-lvlIII-lvlB-1].
-
-\4. Insbesondere auf der Grundlage des Artikels 20 der Richtlinie 2002/60/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-[^annex1-lvlu1-lvlIII-lvlB-1]: Entscheidung 2003/422/EG der Kommission vom 26. Mai 2003 zur Genehmigung eines Diagnosehandbuchs für die Afrikanische Schweinepest (ABl. L 143 vom 11.6.2003, S. 35).
-
-### IV. Pferdepest
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 92/35/EWG des Rates vom 29. April 1992 zur Festlegung von Kontrollregeln und Massnahmen zur Bekämpfung der Pferdepest (ABl. L 157 vom 10.6.1992, S. 19)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10*b* (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 49 (Umgang mit tierpathogenen Mikroorganismen), 73 und 74 (Reinigung, Desinfektion und Entwesung), 77 bis 98 (gemeinsame Bestimmungen betreffend hochansteckende Seuchen), 112 bis 112*f* (besondere Massnahmen zur Bekämpfung der Pferdepest) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium) 4. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Im Falle eines aussergewöhnlich schwerwiegenden Seuchenausbruchs in der Schweiz tritt der Gemischte Veterinärausschuss zusammen, um die Lage zu prüfen. Die zuständigen Behörden der Schweiz verpflichten sich, die auf der Grundlage der Ergebnisse dieser Prüfung erforderlichen Massnahmen zu treffen.
-
-\2. Das Laboratorio de Sanidad y Producción Animal, Ministerio de Agricultura, Pesca y Alimentación, 28110 Algete, Madrid, Spanien, wird zum gemeinsamem Referenzlaboratorium für Pferdepest ernannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang III der Richtlinie 92/35/EWG festgelegt.
-
-\3. Insbesondere auf der Grundlage des Artikels 16 der Richtlinie 92/35/EWG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-\4. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Interventionsplan zur Bekämpfung der einzelnen Seuchen, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
-
-### V. Geflügelpest
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2005/94/EG des Rates vom 20. Dezember 2005 mit Gemeinschaftsmassnahmen zur Bekämpfung der Aviären Influenza und zur Aufhebung der Richtlinie 92/40/EWG (ABl. L 10 vom 14.1.2006, S. 16)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10*b* (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 49 (Umgang mit tierpathogenen Mikroorganismen), 73 und 74 (Reinigung, Desinfektion und Entwesung), 77 bis 98 (gemeinsame Bestimmungen betreffend hochansteckende Seuchen), 122 bis 122*f* (besondere Massnahmen zur Bekämpfung der Geflügelpest) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Das Animal Health and Veterinary Laboratory Agency (AHVLA) Corporate Headquarter (Weybridge), Woodham Lane, New Haw, Addlestone, Surrey KT15 3NB, Vereinigtes Königreich, wird zum Referenzlaboratorium der Europäischen Union für Aviäre Influenza benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang VII Absatz 2 der Richtlinie 2005/94/EG festgelegt.
-
-\2. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Notfallplan, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
-
-\3. Insbesondere auf der Grundlage des Artikels 60 der Richtlinie 2005/94/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-### VI. Newcastle-Krankheit
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 92/66/EWG des Rates vom 14. Juli 1992 über Gemeinschaftsmassnahmen zur Bekämpfung der Newcastle-Krankheit (ABl. L 260 vom 5.9.1992, S. 1)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10*b* (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 40 und 47 (Entsorgung und Verwertung von Nebenprodukten), 49 (Umgang mit tierpathogenen Mikroorganismen), 73 und 74 (Reinigung, Desinfektion und Entwesung), 77 bis 98 (gemeinsame Bestimmungen betreffend hochansteckende Seuchen), 123 bis 125 (besondere Massnahmen zur Bekämpfung der Newcastle-Krankheit) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium); 4. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Das Animal Health and Veterinary Laboratory Agency (AHVLA) Corporate Headquarter (Weybridge), Woodham Lane, New Haw, Addlestone, Surrey KT15 3NB, Vereinigtes Königreich, wird zum Referenzlaboratorium der Europäischen Union für die Newcastle-Krankheit benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang V der Richtlinie 92/66/EG festgelegt.
-
-\2. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Notfallplan, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
-
-\3. Die Informationen gemäss Artikel 17 und 19 der Richtlinie 92/66/EWG fallen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-\4. Insbesondere auf der Grundlage des Artikels 22 der Richtlinie 92/66/EWG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-### VII. Fisch- und Weichtierkrankheiten
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten (ABl. L 328 vom 24.11.2006, S. 14)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10 (Massnahmen zur Bekämpfung von Tierseuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 3 bis 5 (aufgelistete Seuchen), 21 bis 23 (Registrierung von Aquakulturbetrieben, Bestandskontrolle und weitere Pflichten, Gesundheitsüberwachung), 61 (Verpflichtungen der Pächter von Fischereirechten und der Organe der Fischereiaufsicht), 62 bis 76 (allgemeine Bekämpfungsmassnahmen), 277 bis 290 (gemeinsame und besondere Massnahmen zur Bekämpfung von Seuchen der Wassertiere, Untersuchungsstelle)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend die Tiergesundheit durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*). 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
 \1. In der Schweiz werden zurzeit keine Plattaustern gezüchtet. Für den Fall des Auftretens der Bonamiose oder der Marteilliose verpflichtet sich das Bundesamt für Lebensmittelsicherheit und Veterinärwesen, auf der Grundlage des Artikels 57 des Tierseuchengesetzes und nach Massgabe der einschlägigen Rechtsvorschriften der Europäischen Union die erforderlichen Dringlichkeitsmassnahmen zu treffen.
 
-\2. Bei der Bekämpfung von Fisch- und Weichtierseuchen wendet die Schweiz die Tierseuchenverordnung an, insbesondere die Artikel 61 (Verpflichtungen der privaten Eigentümer, der Pächter von Fischereirechten und der Organe der Fischereiaufsicht), 62 bis 76 (allgemeine Bekämpfungsmassnahmen), 277 bis 290 (besondere Massnahmen zur Bekämpfung von Seuchen der Wassertiere, Untersuchungslaboratorium) sowie 291 (zu überwachende Seuchen).
+\2. Bei der Bekämpfung von Fisch- und Weichtierkrankheiten wendet die Schweiz die Tierseuchenverordnung an, insbesondere die Artikel 61 (Verpflichtungen der privaten Eigentümer, der Pächter von Fischereirechten und der Organe der Fischereiaufsicht), 62 bis 76 (Allgemeine Bekämpfungsmassnahmen), 277 bis 290 (Besondere Massnahmen zur Bekämpfung von Seuchen der Wassertiere, Untersuchungslaboratorium) sowie 291 (Zu überwachende Seuchen).
 
-\3. Das Centre for Environment, Fisheries & Aquaculture Science (CEFAS), Weymouth Laboratory, Vereinigtes Königreich, wird zum Referenzlaboratorium der Europäischen Union für Krustentierseuchen benannt. Das National Veterinary Institute, Technical University of Denmark, Hangövej 2, 8200 Århus, Dänemark, wird zum Referenzlaboratorium der Europäischen Union für Fischseuchen benannt. Das Laboratoire IFREMER, BP 133, 17390 La Tremblade, Frankreich, wird zum Referenzlaboratorium der Union für Muschelseuchen benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieser Laboratorien sind in Anhang VI Teil I der Richtlinie 2006/88/EG festgelegt.
+\3. Das Verzeichnis der EU-Referenzlaboratorien wird gemäss Artikel 99 der Verordnung (EU) 2017/625 auf der Website der Europäischen Kommission veröffentlicht
 
-\4. Insbesondere auf der Grundlage des Artikels 58 der Richtlinie 2006/88/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge angelastet werden können. Zuständigkeiten und Aufgaben dieser Laboratorien sind in Artikel 94 der Verordnung (EU) 2017/625 festgelegt.
 
-### VIII. Transmissible spongiforme Enzephalopathien
+Das Verzeichnis der nationalen Referenzlaboratorien für die Schweiz wird auf der Website des Bundesamts für Lebensmittelsicherheit und Veterinärwesen veröffentlicht.
 
-### A. Rechtsvorschriften\*
+\4. Die Kontrollen fallen gemäss Artikel 116 der Verordnung (EU) 2017/625 und Artikel 57 des Tierseuchengesetzes in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+### III. Transmissible spongiforme Enzephalopathien
+
+### A. Rechtsvorschriften
+
+[^annex1-lvlu1-lvlIII-lvlA-1]
+
+[^annex1-lvlu1-lvlIII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1)</td><td>1. Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*), insbesondere Artikel 184 (Betäubungsverfahren) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten SR *916.443.10*) 3. Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 9. Oktober 1992 (LMG; SR *817.0*), insbesondere Artikel 24 (Inspektion und Probenerhebung) und 40 (Lebensmittelkontrolle) 4. Verordnung des EDI vom 23. November 2005 über Lebensmittel tierischer Herkunft (SR *817.022.108*), insbesondere Artikel 4 und 7 (Tierkörperteile, deren Verwendung verboten ist) 5. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere Artikel 6 (Begriffe und Abkürzungen), 34 (Patent), 61 (Meldepflicht), 130 (Überwachung des schweizerischen Tierbestandes), 175 bis 181 (transmissible spongiforme Enzephalopathien), 297 (Vollzug im Inland), 301 (Aufgaben des Kantonstierarztes), 302 (Amtlicher Tierarzt) und 312 (diagnostische Laboratorien) 6. Futtermittelbuch-Verordnung des WBF vom 26. Oktober 2011 (FMBV; SR *916.307.1*), insbesondere Artikel 21 (Toleranzen, Probenahmen, Analysemethoden und Transport), Anhang 1.2 Nummer 15 (Erzeugnisse von Landtieren), Nummer 16 (Fische, andere Meerestiere, deren Erzeugnisse und Nebenprodukte) und Anhang 4.1 (Liste der Stoffe, deren Inverkehrbringen oder Verwendung in der Tierernährung eingeschränkt oder verboten ist) 7. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</td></tr>
+<tr><td>1. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1). 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend die Tiergesundheit durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1).</td><td>1. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS; SR *916.443.10*). 2. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI; SR *916.443.106*). 3. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU; SR *916.443.11*). 4. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU-EDI; SR *916.443.111*). 5. Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstände (LMG; SR *817.0*), insbesondere Artikel 30 (Kontrolle und Probenerhebung) und 31 (Schlachttier- und Fleischuntersuchung). 6. Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel tierischer Herkunft (SR *817.022.108*), insbesondere Artikel 5 (Nicht zulässige Tierkörperteile). 7. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere Artikel 3 (Einstufung der bovinen spongiformen Enzephalopathie und der Traberkrankheit als auszurottende Seuchen), Artikel 6 (Begriffe und Abkürzungen), 34 (Viehhandelspatent), 61 (Meldepflicht), 76*a* (Gegenstand und Anforderungen), 175 bis 181 (Transmissible spongiforme Enzephalopathien), 297 (Vollzug im Inland), 301 (Aufgaben des Kantonstierarztes), 302 (Amtlicher Tierarzt) und 312 (Diagnostische Laboratorien). 8. Verordnung des WBF vom 26. Oktober 2011 über die Produktion und das Inverkehrbringen von Futtermitteln, Zusatzstoffen für die Tierernährung und Diätfuttermitteln (FMBV; SR *916.307.1*), insbesondere Artikel 21 (Toleranzen, Probenahmen, Analysemethoden und Transport), Anhang 1.2 Nummer 15 (Erzeugnisse von Landtieren), Nummer 16 (Fische, andere Meerestiere, deren Erzeugnisse und Nebenerzeugnisse) und Anhang 4.1 (Liste der Stoffe, deren Inverkehrbringen oder Verwendung in der Tierernährung eingeschränkt oder verboten ist). 9. Verordnung vom 25. Mai 2011 über tierische Nebenprodukte (VTNP; SR *916.441.22*). 10. Verordnung des EDI vom 26. November 2025 über die Verwertung von tierischen Nebenprodukten als Futtermittel und als Dünger (VVTNP; SR *916.441.224.1*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. Das Animal Health and Veterinary Laboratories Agency (AHVLA) Corporate Headquarters (Weybridge), Woodham Lane, New Haw, Addlestone, Surrey KT15 3NB, Vereinigtes Königreich, wird zum Referenzlaboratorium der Europäischen Union für transmissible spongiforme Enzephalopathien (TSE) benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang X Kapitel B der Verordnung (EG) Nr. 999/2001 festgelegt.
+\1. Das Referenzlaboratorium der Europäischen Union für transmissible spongiforme Enzephalopathien (TSE) wird auf der Website der Europäischen Kommission veröffentlicht.
+
+Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge angelastet werden können. Zuständigkeiten und Aufgaben dieses Laboratoriums sind in Artikel 94 der Verordnung (EU) 2017/625 festgelegt.
+
+Das nationale Referenzlaboratorium für die Schweiz wird auf der Website des Bundesamts für Lebensmittelsicherheit und Veterinärwesen veröffentlicht.
 
 \2. Gemäss Artikel 57 des Tierseuchengesetzes verfügt die Schweiz über eine Notfalldokumentation zur Durchführung von TSE-Bekämpfungsmassnahmen.
 
@@ -9742,14 +9647,14 @@ Anlage 1[^t-24]
 
 Gemäss den Artikeln 179*b* und 180*a* der Tierseuchenverordnung untersagt die Schweiz die Schlachtung von Tieren, bei denen Verdacht auf TSE besteht. Die verdächtigen Tiere müssen unblutig getötet und direkt verbrannt werden; das Gehirn muss im schweizerischen TSE-Referenzlaboratorium untersucht werden.
 
-Gemäss Artikel 10 der Tierseuchenverordnung werden Rinder in der Schweiz einheitlich, eindeutig und dauerhaft gekennzeichnet, so dass die Zurückverfolgung zum Muttertier und zum Herkunftsbestand möglich ist und festgestellt werden kann, dass sie nicht von BSE-verdächtigen oder an BSE erkrankten Kühen abstammen.
+Gemäss Artikel 10 der Tierseuchenverordnung werden Rinder in der Schweiz einheitlich, eindeutig und dauerhaft gekennzeichnet, sodass die Zurückverfolgung zum Muttertier und zum Herkunftsbestand möglich ist und festgestellt werden kann, dass sie nicht von BSE-verdächtigen oder an BSE erkrankten Kühen abstammen.
 
 Gemäss Artikel 179*c* der Tierseuchenverordnung werden in der Schweiz bei Feststellung von BSE spätestens am Ende der Produktionsphase alle Tiere der Rindergattung, die im Zeitraum von einem Jahr vor bis einem Jahr nach der Geburt des verseuchten Tieres geboren wurden und sich in diesem Zeitraum in dem Bestand befunden haben, sowie alle direkten Nachkommen verseuchter Kühe, die in den zwei Jahren vor der Diagnose geboren wurden, getötet.
 
 \4. Gemäss Artikel 180*b* der Tierseuchenverordnung werden in der Schweiz alle an der Traberkrankheit erkrankten Tiere, die Muttertiere, die von erkrankten Tieren direkt abstammenden Tiere sowie alle übrigen Schafe und Ziegen des Bestandes getötet, mit Ausnahme von:
 
 - – Schafen mit mindestens einem ARR-Allel und keinem VRQ-Allel; und
-- – Tieren unter zwei Monaten, die ausschliesslich zur Schlachtung bestimmt sind. Der Kopf und die Organe des Bauchraums dieser Tiere werden gemäss der Verordnung über die Entsorgung von tierischen Nebenprodukten vernichtet.
+- – Tieren unter zwei Monaten, die ausschliesslich zur Schlachtung bestimmt sind. Der Kopf und die Organe des Bauchraums dieser Tiere werden gemäss der Verordnung über tierische Nebenprodukte vernichtet.
 
 Bei seltenen Rassen kann ausnahmsweise davon abgewichen werden, den ganzen Bestand zu töten. Der Bestand wird in diesem Fall zwei Jahre lang unter amtstierärztliche Überwachung gestellt; während dieser Zeit werden die Tiere des Bestands zweimal jährlich klinisch untersucht. Werden während dieses Zeitraums Tiere zur Tötung abgegeben, so wird ihr Kopf einschliesslich der Tonsillen im schweizerischen Referenzlaboratorium auf TSE untersucht.
 
@@ -9759,492 +9664,211 @@ Bei Bestätigung der BSE bei einem Schaf oder einer Ziege verpflichtet sich die 
 
 \5. Gemäss Artikel 7 der Verordnung (EG) Nr. 999/2001 untersagen die Mitgliedstaaten der Europäischen Union die Verfütterung verarbeiteter tierischer Proteine an Nutztiere, die zur Nahrungsmittelproduktion gehalten, gemästet oder gezüchtet werden. In den Mitgliedstaaten der Europäischen Union gilt ein absolutes Verbot der Verfütterung tierischer Proteine an Wiederkäuer.
 
-Gemäss Artikel 27 der Verordnung über die Entsorgung von tierischen Nebenprodukten (VTNP) gilt in der Schweiz ein absolutes Verbot der Verwendung tierischer Proteine in der Ernährung von Zuchttieren.
+Gemäss Artikel 27 der Verordnung über tierische Nebenprodukte (VTNP) gilt in der Schweiz ein absolutes Verbot der Verwendung tierischer Proteine in der Ernährung von Zuchttieren.
+
+Ausnahmen sind gemäss der Verordnung (EG) Nr. 999/2001 sowie der Verordnung über tierische Nebenprodukte (VTNP) und der Verordnung über die Verwertung von tierischen Nebenprodukten als Futtermittel und als Dünger (VVTNP) möglich für verarbeitetes tierisches Fisch-, Schweine-, Geflügel- und Nutzinsektenprotein.
 
 \6. Gemäss Artikel 6 und Anhang III Kapitel A der Verordnung (EG) Nr. 999/2001 führen die Mitgliedstaaten der Europäischen Union jährlich ein BSE-Überwachungsprogramm durch. Zu diesem Programm gehört ein BSE-Schnelltest bei allen mehr als 24 Monate alten Rindern, die notgeschlachtet wurden, im Betrieb verendet sind oder bei der Schlachttieruntersuchung für krank befunden wurden, und bei allen mehr als 30 Monate alten Rindern, die zum Verzehr geschlachtet werden.
 
 Die von der Schweiz verwendeten BSE-Tests sind in Anhang X Kapitel C der Verordnung (EG) Nr. 999/2001 aufgeführt.
 
-Gemäss Artikel 176 der Tierseuchenverordnung führt die Schweiz obligatorisch bei allen mehr als 48 Monate alten Rindern, die verendet sind, oder für andere Zwecke als zur Schlachtung getötet wurden, krank oder nach Unfall in einen Schlachthof verbracht wurden, obligatorisch BSE-Schnelltests durch.
+Gemäss Artikel 179 der Tierseuchenverordnung führt die Schweiz bei allen mehr als 48 Monate alten Rindern, die verendet sind oder für andere Zwecke als zur Schlachtung getötet wurden, krank oder nach Unfall in einen Schlachthof verbracht wurden, obligatorisch BSE-Schnelltests durch.
 
-\7. Gemäss Artikel 6 und Anhang III Kapitel A der Verordnung (EG) Nr. 999/2001 führen die Mitgliedstaaten der Europäischen Union ein jährliches Programm zur Überwachung der Traberkrankheit ein.
+\7. Gemäss Artikel 6 und Anhang III Kapitel A der Verordnung (EG) Nr. 999/2001 führen die Mitgliedstaaten der Europäischen Union jährlich ein Programm zur Überwachung der Traberkrankheit durch.
 
-Gemäss Artikel 177 der Tierseuchenverordnung hat die Schweiz ein Programm zur Überwachung der TSE bei mehr als 12 Monate alten Schafen und Ziegen eingeführt. Alle Tiere, die notgeschlachtet wurden, im Betrieb verendet sind oder bei der Schlachttieruntersuchung für krank befunden wurden, sowie alle zum Verzehr geschlachteten Tiere wurden im Zeitraum Juni 2004 bis Juli 2005 untersucht. Da sämtliche Proben BSE-negativ getestet wurden, werden von klinisch verdächtigen Tiere sowie von allen Tieren, die notgeschlachtet wurden oder im Betrieb verendet sind, Stichproben zur Überwachung genommen.
+Gemäss Artikel 177 der Tierseuchenverordnung hat die Schweiz ein Programm zur Überwachung der TSE bei mehr als 12 Monate alten Schafen und Ziegen durchgeführt. Alle Tiere, die notgeschlachtet wurden, im Betrieb verendet sind oder bei der Schlachttieruntersuchung für krank befunden wurden, sowie alle zum Verzehr geschlachteten Tiere wurden im Zeitraum Juni 2004 bis Juli 2005 untersucht. Da sämtliche Proben BSE-negativ getestet wurden, werden die klinisch verdächtigen Tiere sowie alle Tiere, die notgeschlachtet wurden oder im Betrieb verendet sind, fortgesetzt durch die Entnahme von Stichproben überwacht.
 
-Die Anerkennung der Übereinstimmung der Rechtsvorschriften im Bereich der TSE-Überwachung bei Schafen und Ziegen wird vom Gemeinsamen Veterinärausschuss erneut geprüft.
+Die Anerkennung der Übereinstimmung der Rechtsvorschriften im Bereich der TSE‑Überwachung bei Schafen und Ziegen wird vom Gemeinsamen Veterinärausschuss erneut geprüft.
 
-\8. Die Informationen gemäss Artikel 6 und Anhang III Kapitel B sowie Anhang IV (3.III) der Verordnung (EG) Nr. 999/2001 fallen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+\8. Die Informationen gemäss Artikel 6 und Anhang III Kapitel B sowie Anhang IV (3.III) der Verordnung (EG) Nr. 999/2001 werden dem Gemischten Veterinärausschuss mitgeteilt.
 
-\9. Insbesondere auf der Grundlage des Artikels 21 der Verordnung (EG) Nr. 999/2001 und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+\9. Die Kontrollen fallen gemäss Artikel 116 der Verordnung (EU) 2017/625 und Artikel 57 des Tierseuchengesetzes in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-### C. Zusätzliche Informationen
+### IV. Zoonosen
 
-\1. Seit dem 1. Januar 2003 und gemäss der Verordnung vom 10. November 2004 über die Ausrichtung von Beiträgen an die Kosten der Entsorgung von tierischen Nebenprodukten (SR *916.407*) zahlt die Schweiz den Betrieben und Schlachthöfen, in denen die Rinder geboren bzw. geschlachtet wurden, einen finanziellen Zuschuss, wenn sie die in den geltenden Rechtsvorschriften vorgesehenen Verfahren für die Meldung von Tierverbringungen einhalten.
+### A. Rechtsvorschriften
 
-\2. Gemäss Artikel 8 und Anhang XI Nummer 1 der Verordnung (EG) Nr. 999/2001 entfernen und beseitigen die Mitgliedstaaten der Europäischen Union spezifiziertes Risikomaterial.
+[^annex1-lvlu1-lvlIV-lvlA-1]
 
-Zu bei Rindern entferntem spezifizierten Risikomaterial gehören der Schädel ohne Unterkiefer, jedoch einschliesslich Gehirn und Augen, und das Rückenmark von Rindern, die über 12 Monate alt sind, die Wirbelsäule ohne Schwanzwirbel, Dorn- und Querfortsätze der Hals-, Brust- und Lendenwirbel und *Crista sacralis mediana* sowie Kreuzbeinflügel, aber einschliesslich der Spinalganglien und des Rückenmarks von über 24 Monate alten Rindern, die Tonsillen sowie die Därme von Duodenum bis Rektum und das Mesenterium von Rindern aller Altersklassen.
-
-Zu bei Schafen und Ziegen entferntem spezifizierten Risikomaterial gehören der Schädel, einschliesslich Gehirn und Augen, Tonsillen und Rückenmark von Schafen und Ziegen, die über 12 Monate alt sind oder bei denen ein bleibender Schneidezahn das Zahnfleisch durchbrochen hat, sowie die Milz und das Ileum von Schafen und Ziegen aller Altersklassen.
-
-Gemäss Artikel 179*d* der Tierseuchenverordnung und Artikel 4 der Verordnung über Lebensmittel tierischer Herkunft darf spezifiziertes Risikomaterial in der Schweiz nicht in die Lebens- oder Futtermittelkette gelangen. Zu bei Rindern entferntem spezifizierten Risikomaterial gehören insbesondere die Wirbelsäule von über 30 Monate alten Tieren, die Tonsillen sowie die Därme von Duodenum bis Rektum und das Mesenterium von Tieren aller Altersklassen.
-
-Gemäss Artikel 180*c* der Tierseuchenverordnung und Artikel 4 der Verordnung über Lebensmittel tierischer Herkunft darf spezifiziertes Risikomaterial in der Schweiz nicht in die Lebens- oder Futtermittelkette gelangen. Zu bei Schafen und Ziegen entferntem spezifizierten Risikomaterial gehören insbesondere das Gehirn in der Gehirnschale, das Rückenmark mit der harten Rückenmarkhaut (*Dura mater*) sowie die Tonsillen von Tieren, die über 12 Monate alt sind oder bei denen ein bleibender Schneidezahn das Zahnfleisch durchbrochen hat, sowie die Milz und der Krummdarm (Ileum) von Tieren aller Altersklassen.
-
-\3. Mit der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates[^annex1-lvlu1-lvlVIII-lvlC-1] und der Verordnung (EU) Nr. 142/2011 der Kommission[^annex1-lvlu1-lvlVIII-lvlC-2] wurden die in den Mitgliedstaaten der Europäischen Union geltenden Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte festgelegt.
-
-Gemäss Artikel 22 der Verordnung über die Entsorgung von tierischen Nebenprodukten werden in der Schweiz tierische Nebenprodukte der Kategorie 1, einschliesslich spezifizierten Risikomaterials und im Betrieb verendeter Tiere, verbrannt.
-
-[^annex1-lvlu1-lvlVIII-lvlC-1]: Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1).
-[^annex1-lvlu1-lvlVIII-lvlC-2]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1).
-
-### IX. Blauzungenkrankheit
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex1-lvlu1-lvlIV-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2000/75/EG des Rates vom 20. November 2000 mit besonderen Bestimmungen für Massnahmen zur Bekämpfung und Tilgung der Blauzungenkrankheit (ABl. L 327 vom 22.12.2000, S. 74).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10 (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 73 und 74 (Reinigung, Desinfektion und Entwesung), 77 bis 98 (gemeinsame Bestimmungen betreffend hochansteckende Seuchen), 239*a* bis 239*h* (besondere Massnahmen zur Bekämpfung der Blauzungenkrankheit) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium)</td></tr>
+<tr><td>1. Verordnung (EG) Nr. 2160/2003 des Europäischen Parlaments und des Rates vom 17. November 2003 zur Bekämpfung von Salmonellen und bestimmten anderen durch Lebensmittel übertragbaren Zoonoseerregern (ABl. L 325 vom 12.12.2003, S. 1). 2. Richtlinie 2003/99/EG des Europäischen Parlaments und des Rates vom 17. November 2003 zur Überwachung von Zoonosen und Zoonoseerregern und zur Änderung der Entscheidung 90/424/EWG des Rates sowie zur Aufhebung der Richtlinie 92/117/EWG des Rates (ABl. L 325 vom 12.12.2003, S. 31). 3. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend Zoonosen durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*). 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere Artikel 291*a* bis 291*e* (Spezielle Vorschriften für Zoonosen). 3. Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstände (LMG; SR *817.0*). 4. Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (LGV; SR *817.02*). 5. Verordnung des EDI vom 16. Dezember 2016 über die Hygiene beim Umgang mit Lebensmitteln (Hygieneverordnung EDI, HyV; SR *817.024.1*). 6. Bundesgesetz vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG; SR *818.101*). 7. Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemienverordnung, EpV; SR *818.101.1*). 8. Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*). 9. Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. Das Pirbright Institute, Pirbright Laboratory, Ash Road, Pirbright, Surrey, GU24 0NF, Vereinigtes Königreich, wird zum Referenzlaboratorium der Europäischen Union für die Blauzungenkrankheit benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang II, Kapitel B der Richtlinie 2000/75/EG festgelegt.
+\1. Das in Artikel 10 der Richtlinie 2003/99/EG vorgesehene Verzeichnis der EU-Referenzlaboratorien wird gemäss Artikel 99 der Verordnung (EU) 2017/625 auf der Website der Europäischen Kommission veröffentlicht.
 
-\2. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über einen Notfallplan, der auf der Website des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen veröffentlicht wird.
+Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge angelastet werden können. Zuständigkeiten und Aufgaben dieser Laboratorien sind in Artikel 94 der Verordnung (EU) 2017/625 festgelegt.
 
-\3. Insbesondere auf der Grundlage des Artikels 17 der Richtlinie 2000/75/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+Das Verzeichnis der nationalen Referenzlaboratorien für die Schweiz wird auf der Website des Bundesamts für Lebensmittelsicherheit und Veterinärwesen veröffentlicht.
 
-### X. Zoonosen
+\2. Die Schweiz übermittelt der Europäischen Behörde für Lebensmittelsicherheit jährlich Ende Mai einen Bericht über die Entwicklung und die Quellen von Zoonosen und Zoonoseerregern sowie die Resistenz gegen antimikrobielle Mittel, zusammen mit den Daten, die gemäss den Artikeln 4, 7 und 8 der Richtlinie 2003/99/EG im zurückliegenden Jahr erhoben wurden. Dieser Bericht enthält auch die Angaben gemäss Artikel 3 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 2160/2003.
 
-### A. Rechtsvorschriften\*
+### V. Seuchenmeldung
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+### A. Rechtsvorschriften
+
+[^annex1-lvlu1-lvlV-lvlA-1]
+
+[^annex1-lvlu1-lvlV-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Verordnung (EG) Nr. 2160/2003 des Europäischen Parlaments und des Rates vom 17. November 2003 zur Bekämpfung von Salmonellen und bestimmten anderen durch Lebensmittel übertragbaren Zoonoseerregern (ABl. L 325 vom 12.12.2003, S. 1) 2. Richtlinie 2003/99/EG des Europäischen Parlaments und des Rates vom 17. November 2003 zur Überwachung von Zoonosen und Zoonoseerregern und zur Änderung der Entscheidung 90/424/EWG des Rates sowie zur Aufhebung der Richtlinie 92/117/EWG des Rates (ABl. L 325 vom 12.12.2003, S. 31)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 291*a* bis 291*e* (spezielle Vorschriften für Zoonosen) 3. Bundesgesetz vom 9. Oktober 1992 über Lebensmittel und Gebrauchsgegenstände (LMG; SR *817.0*) 4. Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005 (LGV; SR *817.02*) 5. Hygieneverordnung des EDI vom 23. November 2005 (HyV; SR *817.024.1*) 6. Bundesgesetz vom 18. Dezember 1970 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz; SR *818.101*) 7. Verordnung vom 13. Januar 1999 über die Meldung übertragbarer Krankheiten des Menschen (Melde-Verordnung; SR *818.141.1*)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. Durchführungsverordnung (EU) 2019/1715 der Kommission vom 30. September 2019 mit Vorschriften zur Funktionsweise des Informationsmanagementsystems für amtliche Kontrollen und seiner Systemkomponenten («IMSOC‑Verordnung») (ABl. L 261 vom 14.10.2019, S. 37).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 11 (Sorgfalts- und Meldepflicht) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit). 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere Artikel 2 bis 5 (aufgelistete Seuchen), 59 bis 65 und 291 (Meldepflicht, Berichterstattung), 292 bis 299 (Aufsicht, Vollzug, Amtshilfe).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. EU-Referenzlaboratorien:
+Die Schweiz wird in das Informationsmanagementsystem für amtliche Kontrollen und alle seine Systemkomponenten gemäss der Durchführungsverordnung (EU) 2019/1715 integriert. Die Schweiz benennt zu diesem Zweck eine Kontaktstelle.
 
-- – EU-Referenzlabor für Nachweise und Untersuchungen der Zoonosen (Salmonellen):
-- Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
-- 3720 BA Bilthoven
-- Niederlande
-- – EU-Referenzlabor für die Überwachung mariner Biotoxine:
-- Agencia Española de Seguridad Alimentaria (AESA)
-- 36200 Vigo
-- Spanien
-- – EU-Referenzlaboratorium für die Überwachung viraler und bakterieller Muschelkontamination:
-- The laboratory of the Centre for Environment, Fisheries and Aquaculture Science (CEFAS) Weymouth
-- Dorset DT4 8UB
-- Vereinigtes Königreich
-- – EU-Referenzlaboratorium für *Listeria monocytogenes*:
-- AFSSA – Laboratoire d’études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP)
-- 94700 Maisons-Alfort
-- Frankreich
-- – EU-Referenzlaboratorium für coagulasepositive Staphylokokken, einschliesslich *Staphylococcus aureus*:
-- AFSSA –Laboratoire d’études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP)
-- 94700 Maisons-Alfort
-- Frankreich
-- – EU-Referenzlaboratorium für *Escherichia coli* einschliesslich Verotoxin bildendes E. Coli (VTEC):
-- Istituto Superiore di Sanità (ISS)
-- 00161 Roma
-- Italien
-- – EU-Referenzlaboratorium für *Campylobacter*:
-- Statens Veterinärmedicinska Anstalt (SVA)
-- S-751 89 Uppsala
-- Schweden
-- – EU-Referenzlaboratorium für Parasiten (insbesondere *Trichinen*, *Echinococcus* und *Anisakis*):
-- Istituto Superiore di Sanità (ISS)
-- 00161 Roma
-- Italien
-- – EU-Referenzlaboratorium für Antibiotikaresistenz:
-- Danmarks Fødevareforskning (DFVF)
-- 1790 Kopenhagen V
-- Dänemark
+Die Meldung gelisteter Seuchen und die Berichterstattung über gelistete Seuchen sowie die Formate und Verfahren für die Vorlage von Überwachungsprogrammen und von Tilgungsprogrammen und die Berichterstattung darüber sowie für Anträge auf Anerkennung des Status «seuchenfrei» entsprechen der Durchführungsverordnung (EU) 2020/2002 der Kommission[^annex1-lvlu1-lvlV-lvlB-1].
 
-\2. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge zuzurechnen sind. Für die Zuständigkeiten und Aufgaben dieser Laboratorien gilt die Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates[^annex1-lvlu1-lvlX-lvlB-1].
+Der Gemischte Veterinärausschuss legt erforderlichenfalls ergänzende Bestimmungen fest.
 
-\3. Die Schweiz übermittelt der Kommission jährlich Ende Mai einen Bericht über die Entwicklung und die Quellen von Zoonosen und Zoonoseerregern sowie die Resistenz gegen antimikrobielle Mittel, zusammen mit den Daten, die gemäss den Artikeln 4, 7 und 8 der Richtlinie 2003/99/EG im zurückliegenden Jahr erhoben wurden. Dieser Bericht enthält auch die Angaben gemäss Artikel 3 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 2160/2003. Der Bericht wird von der Kommission an die Europäische Behörde für Lebensmittelsicherheit zur Veröffentlichung eines zusammenfassenden Berichts über die Entwicklung und die Ursachen von Zoonosen, die Zoonoseerreger und die Antibiotikaresistenz in der Europäischen Union übermittelt.
-
-[^annex1-lvlu1-lvlX-lvlB-1]: Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1)
-
-### XI. Andere Tierseuchen
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 92/119/EWG des Rates vom 17. Dezember 1992 mit allgemeinen Gemeinschaftsmassnahmen zur Bekämpfung bestimmter Tierseuchen sowie besonderen Massnahmen bezüglich der vesikulären Schweinekrankheit (ABl. L 62 vom 15.3.1993, S. 69)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 1 bis 10 (Ziele der Tierseuchenbekämpfung, Massnahmen zur Bekämpfung hochansteckender Seuchen) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung (TSV) vom 27. Juni 1995 (SR *916.401*), insbesondere die Artikel 2 (hochansteckende Seuchen), 49 (Umgang mit tierpathogenen Mikroorganismen), 73 und 74 (Reinigung, Desinfektion und Entwesung), 77 bis 98 (gemeinsame Bestimmungen betreffend hochansteckende Seuchen), 104 bis 105 (besondere Massnahmen zur Bekämpfung der Vesikulärkrankheit der Schweine) 3. Organisationsverordnung für das Eidgenössische Departement des Innern vom 28. Juni 2000 (OV-EDI; SR *172.212.1*), insbesondere Artikel 12 (Referenzlaboratorium)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Die Informationen gemäss Artikel 6 der Richtlinie 92/119/EWG werden dem Gemischten Veterinärausschuss mitgeteilt.
-
-\2. Das Pirbright Institute, Pirbright Laboratory, Ash Road, Pirbright, Surrey, GU24 0NF, Vereinigtes Königreich, wird zum gemeinsamen Referenzlaboratorium für die vesikuläre Schweinekrankheit benannt. Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus dieser Benennung ergebenden Vorgänge zuzurechnen sind. Funktionen und Aufgaben dieses Laboratoriums sind in Anhang III der Richtlinie 92/119/EWG festgelegt.
-
-\3. Gemäss Artikel 97 der Tierseuchenverordnung verfügt die Schweiz über eine Notfalldokumentation. Diese Dokumentation ist Gegenstand der technischen Ausführungsvorschrift Nr. 95/65 des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen.
-
-\4. Insbesondere auf der Grundlage des Artikels 22 der Richtlinie 92/119/EWG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-### XII. Seuchenmeldung
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 82/894/EWG des Rates vom 21. Dezember 1982 über die Mitteilung von Viehseuchen in der Gemeinschaft (ABl. L 378 vom 31.12.1982, S. 58)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere die Artikel 11 (Sorgfalts- und Meldepflicht) und 57 (Ausführungsvorschriften technischer Art, internationale Zusammenarbeit) 2. Tierseuchenverordnung (TSV) vom 27. Juni 1995 (SR *916.401*), insbesondere die Artikel 2 bis 5 (aufgelistete Seuchen), 59 bis 65 und 291 (Meldepflicht, Berichterstattung), 292 bis 299 (Aufsicht, Vollzug, Amtshilfe)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-In Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen beteiligt die Kommission die Schweiz nach Massgabe der Richtlinie 82/894/EWG am Tierseuchenmeldesystem.
+[^annex1-lvlu1-lvlV-lvlB-1]: Durchführungsverordnung (EU) 2020/2002 der Kommission vom 7. Dezember 2020 mit Durchführungsbestimmungen zur Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates in Bezug auf die Meldung gelisteter Seuchen innerhalb der Union und die Berichterstattung über gelistete Seuchen innerhalb der Union, in Bezug auf Formate und Verfahren für die Vorlage von Überwachungsprogrammen in der Union und von Tilgungsprogrammen und die Berichterstattung darüber sowie für Anträge auf Anerkennung des Status «seuchenfrei» sowie in Bezug auf das elektronische Informationssystem (ABl. L 412 vom 8.12.2020, S. 1).
 
 Anlage 2[^t-25]
 
-## Tiergesundheit: Handel und Vermarktung
+## Tiergesundheit: Handel zwischen der Schweiz und der Europäischen Union und Vermarktung
 
-[^t-25]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Veterinärausschusses vom 17. Dez. 2015, in Kraft seit 17. Dez. 2015, mit Wirkung seit 1. Jan. 2015 ([AS 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-25]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2026 des Gemischten Veterinärausschusses vom 24. Juli 2026, in Kraft seit 24. Juli 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### I. Rinder und Schweine
+### I. Landtiere
 
-### A. Rechtsvorschriften\*
+### A. Rechtsvorschriften
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex2-lvlu1-lvlI-lvlA-1]
+
+[^annex2-lvlu1-lvlI-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 64/432/EWG des Rates vom 26. Juni 1964 zur Regelung viehseuchenrechtlicher Fragen beim innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen (ABl. L 121 vom 29.7.1964, S. 1977)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 27 bis 31 (Viehmärkte, Viehausstellungen), 34 bis 37 (Viehhandel), 73 und 74 (Reinigung, Desinfektion und Entwesung), 116 bis 121 (Klassische und Afrikanische Schweinepest), 135 bis 141 (Aujeszkysche Krankheit), 150 bis 157 (Rinderbrucellose), 158 bis 165 (Tuberkulose), 166 bis 169 (Enzootische Rinderleukose), 170 bis 174 (IBR/IPV), 175 bis 181 (Spongiforme Enzephalopathien), 186 bis 189 (Deckinfektionen der Rinder), 207 bis 211 (Schweinebrucellose), 301 (Bewilligung von Tierhaltungen, Besamungsstationen, Samenlagern, Embryotransfereinheiten, Viehmärkten und ähnlichen Einrichtungen) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend den Handel mit Landtieren zwischen der Schweiz und der Europäischen Union durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 3. Durchführungsverordnung (EU) 2021/403 der Kommission vom 18. März 2021 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Landtieren und ihres Zuchtmaterials und für deren Verbringungen zwischen Mitgliedstaaten, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung des Beschlusses 2010/470/EU (ABl. L 113 vom 31.3.2021, S. 1). 4. Artikel 107 (ausgenommen Absatz 6) der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43) in Verbindung mit Artikel 37 Absatz 5.</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*). 2. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU; SR *916.443.11*). 3. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU-EDI; SR *916.443.111*). 4. Bundesgesetz vom 29. April 1998 über die Landwirtschaft (LwG; SR *910.1*), insbesondere Artikel 160 (Zulassungspflicht). 5. Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (HMG; SR *812.21*). 6. Verordnung vom 18. August 2004 über die Tierarzneimittel (TAMV; SR *812.212.27*). 7. Technische Weisungen über die prophylaktische und metaphylaktische Anwendung von Arzneimitteln mit antimikrobiellen Wirkstoffen bei Nutztieren, veröffentlicht am 1.5.2026.</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. Nach Artikel 301 Absatz 1 Buchstabe i der Tierseuchenverordnung bewilligt der Kantonstierarzt Tierhaltungsbetriebe, Märkte und ähnliche Einrichtungen im Sinne des Artikels 2 der Richtlinie 64/432/EWG. Für die Zwecke dieses Anhangs erstellt die Schweiz gemäss den Bestimmungen der Artikel 11, 12 und 13 der Richtlinie 64/432/EWG ein Verzeichnis ihrer zugelassenen Sammelstellen, Transporteure und Händler.
+\1. Insbesondere auf der Grundlage des Artikels 116 der Verordnung (EU) 2017/625 und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-\2. Die Informationen gemäss Artikel 11 Absatz 3 der Richtlinie 64/432/EWG werden dem Gemischten Veterinärausschuss übermittelt.
+\2. Tiere, die zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gehandelt werden, verkehren ausschliesslich unter denselben Bedingungen wie Tiere, die zwischen den Mitgliedstaaten der Europäischen Union gehandelt werden. Diesen Tieren müssen gegebenenfalls die Gesundheitsbescheinigungen beigefügt sein, die für den Handel zwischen den Mitgliedstaaten der Europäischen Union vorgeschrieben oder in diesem Anhang festgelegt und im System TRACES verfügbar sind.
 
-\3. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen des Anhangs A Teil II Nummer 7 der Richtlinie 64/432/EWG hinsichtlich der Rinderbrucellose erfüllt. Zur Aufrechterhaltung des Status der amtlich anerkannten Brucellosefreiheit des nationalen Rinderbestands verpflichtet sich die Schweiz, folgende Anforderungen zu erfüllen:
+\3. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen gemäss Teil II Kapitel 4 der Verordnung (EU) 2016/429, der Delegierten Verordnung (EU) 2020/689 der Kommission[^annex2-lvlu1-lvlI-lvlB-1] und der Durchführungsverordnung (EU) 2021/620 der Kommission[^annex2-lvlu1-lvlI-lvlB-2] in Bezug auf die Seuchen erfüllt, die auf der Website «Food Safety – Surveillance, eradication programmes and disease-free status» der Kommission und derjenigen des Bundesamts für Lebensmittelsicherheit und Veterinärwesen «Nationales Überwachungsprogramm», aufgeführt sind.
+
+Für Seuchen, für die die Schweiz noch nicht den Status «seuchenfrei» erhalten hat, legt die Schweiz dem Gemischten Veterinärausschuss die Informationen vor, die für die Erlangung dieses Status gemäss der Verordnung (EU) 2016/429 erforderlich sind. Auf der Grundlage dieser Informationen vereinbart der Gemischte Veterinärausschuss die auf den oben genannten Websites verfügbaren Informationen zu aktualisieren.
+
+Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status für eine der in diesem Absatz genannten gelisteten Seuchen geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Sachlage.
+
+\4. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen des Anhangs IV Teil I Kapitel 3 Abschnitt 2 Nummer 1 der Delegierten Verordnung (EU) 2020/689 hinsichtlich der Rinderbrucellose erfüllt. Zur Aufrechterhaltung ihres Status der amtlich anerkannten Rinderbrucellosefreiheit verpflichtet sich die Schweiz, folgende Anforderungen zu erfüllen:
 
 - a) Jedes brucelloseverdächtige Rind wird den zuständigen Behörden gemeldet und einer amtlichen Untersuchung auf Brucellose unterzogen, die zumindest zwei serologische Blutproben, einschliesslich Komplementbindungstests, sowie eine mikrobiologische Untersuchung geeigneter Proben in Abortfällen umfasst.
-- b) Während der Verdachtsperiode, die erst erlischt, wenn die Untersuchungen gemäss Buchstabe a negative Befunde ergeben, wird der Status der amtlich anerkannten Brucellosefreiheit bei Beständen mit einem oder mehreren seuchenverdächtigen Rindern ausgesetzt.
+- b) Während des Verdachtszeitraums, der fortbesteht, bis die Tests gemäss Buchstabe a negative Befunde ergeben, wird der Status der amtlich anerkannten Brucellosefreiheit bei Beständen mit einem oder mehreren seuchenverdächtigen Rindern ausgesetzt.
 
-Dem Gemischten Veterinärausschuss werden genaue Informationen über die positiven Bestände und ein Bericht über die epidemiologische Entwicklung übermittelt. Wird eine der Anforderungen gemäss Anhang A Teil II Nummer 7 der Richtlinie 64/432/EWG von der Schweiz nicht mehr erfüllt, so unterrichtet das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unverzüglich die Kommission. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
+\5. Die Schweiz wendet im Einklang mit ihren in Abschnitt A genannten Rechtsvorschriften dieselben Bestimmungen wie diejenigen in Artikel 107 (ausgenommen Absatz 6) der Verordnung (EU) 2019/6 in Verbindung mit Artikel 37 Absatz 5 über die Verwendung antimikrobieller Arzneimittel bei Nutztieren an.
 
-\4. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen des Anhangs A Teil I Nummer 4 der Richtlinie 64/432/EWG hinsichtlich der Rindertuberkulose erfüllt. Zur Aufrechterhaltung des Status der amtlich anerkannten Tuberkulosefreiheit des nationalen Rinderbestands verpflichtet sich die Schweiz, folgende Anforderungen zu erfüllen:
+Die Schweiz erlaubt weder das Inverkehrbringen von Arzneimitteln für Nutztiere, die einen oder eine der unter den Nummern 2 oder 3 des Anhangs der Durchführungsverordnung (EU) 2022/1255 der Kommission[^annex2-lvlu1-lvlI-lvlB-3] aufgeführten antimikrobiellen Wirkstoffe oder Gruppen antimikrobieller Wirkstoffe enthalten, noch die Verwendung von Humanarzneimitteln, die solche im Anhang aufgeführte antimikrobielle Mittel oder Gruppen von antimikrobiellen Mitteln enthalten, bei Nutztieren.
 
-- a) Zur Nachweisführung über die Herkunft jedes Rinds wird ein Kennzeichnungssystems eingeführt.
-- b) Alle Schlachtkörper werden von einem amtlichen Tierarzt einer Fleischuntersuchung unterzogen.
-- c) Jeder Tuberkuloseverdacht bei einem lebenden, verendeten oder geschlachteten Tier wird den zuständigen Behörden gemeldet.
-- d) In jedem Falle veranlassen die zuständigen Behörden die erforderlichen Untersuchungen zur Abklärung des Verdachts und ermitteln die Herkunfts- und Transitbestände. Werden bei der Autopsie oder bei der Schlachtung tuberkuloseverdächtige Läsionen festgestellt, so senden die zuständigen Behörden geeignetes Probematerial zur Laboruntersuchung ein.
-- e) Der Status der amtlich anerkannten Tuberkulosefreiheit der Herkunfts- und Transitbestände tuberkuloseverdächtiger Rinder wird so lange ausgesetzt, bis durch die klinischen Untersuchungen oder Laboruntersuchungen oder Tuberkulinproben nachgewiesen wird, dass keine Rindertuberkulose vorliegt.
-- f) Wird ein Tuberkuloseverdacht durch Tuberkulinproben, klinische Untersuchungen oder Laboruntersuchungen bestätigt, so wird der Status der amtlich anerkannten Tuberkulosefreiheit der Herkunfts- und Transitbestände entzogen.
-- g) Der Status der amtlich anerkannten Tuberkulosefreiheit kann nur erlangt werden, sofern alle als infiziert geltenden Tiere des Bestands eliminiert und die Räumlichkeiten und Ausrüstungen des betreffenden Betriebs desinfiziert wurden und alle über sechs Wochen alten verbleibenden Tiere auf mindestens zwei amtliche intrakutane Tuberkulinproben im Sinne des Anhangs B der Richtlinie 64/432/EWG negativ reagiert haben, wobei die erste Tuberkulinprobe frühestens sechs Monate, nachdem das infizierte Tier den Bestand verlassen hat, und die zweite Probe frühestens sechs Monate nach der ersten Probe durchgeführt wurde.
+Im Gemischten Veterinärausschuss werden die Änderungen der oben genannten Rechtsvorschriften der Europäischen Union erörtert, die eine Anpassung der schweizerischen Bestimmungen erforderlich machen.
 
-Dem Gemischten Veterinärausschuss werden genaue Informationen über die infizierten Bestände und ein Bericht über die epidemiologische Entwicklung übermittelt. Wird eine der Anforderungen gemäss Anhang A Teil II Nummer 4 Unterabsatz 1 der Richtlinie 64/432/EWG von der Schweiz nicht mehr erfüllt, so unterrichtet das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unverzüglich die Kommission. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
+Daher gilt die Schweiz bis zum 1. Juli 2028 für die Zwecke der Anwendung des Artikels 118 der Verordnung (EU) 2019/6 nicht als Drittland.
 
-\5. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen gemäss Anhang D Kapitel I Abschnitt F der Richtlinie 64/432/EWG hinsichtlich der enzootischen Rinderleukose erfüllt. Zur Aufrechterhaltung des Status der amtlich anerkannten Leukosefreiheit des nationalen Rinderbestands verpflichtet sich die Schweiz, folgende Anforderungen zu erfüllen:
+Sie unterrichtet den Gemischten Veterinärausschuss unverzüglich über jede weitere Änderung ihrer Rechtsvorschriften für antimikrobielle Arzneimittel für Nutztiere.
 
-- a) Der nationale Bestand wird im Rahmen von Stichprobenuntersuchungen überwacht. Der Umfang der Stichprobe wird so festgelegt, dass mit einer Nachweissicherheit von 99 % festgestellt werden kann, dass weniger als 0,2 % der Bestände mit enzootischer Rinderleukose infiziert sind.
-- b) Alle Schlachtkörper werden von einem amtlichen Tierarzt einer Fleischuntersuchung unterzogen.
-- c) Jeder bei einer klinischen Untersuchung, einer Autopsie oder einer Fleischuntersuchung aufkommende Leukoseverdacht wird den zuständigen Behörden gemeldet.
-- d) Bei Verdacht oder Bestätigung der enzootischen Rinderleukose wird der Status der amtlich anerkannten Leukosefreiheit des betreffenden Bestands ausgesetzt, bis die Bestandssperre aufgehoben ist.
-- e) Die Bestandssperre wird aufgehoben, wenn die verbleibenden Tiere nach Eliminierung der infizierten Tiere und ggf. ihrer Kälber im Abstand von mindestens 90 Tagen mit Negativbefund zwei serologischen Untersuchungen unterzogen wurden.
+Dieser Absatz wird vom Gemischten Veterinärausschuss bis zum 1. Juli 2028 überprüft.
 
-Wird bei 0,2 % des nationalen Bestands enzootische Rinderleukose festgestellt, so unterrichtet das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unverzüglich die Kommission. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
+\6. Für den Versand von Bruteiern in die Europäische Union verpflichten sich die schweizerischen Behörden, die Kennzeichnungsvorschriften der Verordnung (EG) Nr. 617/2008 der Kommission[^annex2-lvlu1-lvlI-lvlB-4] einzuhalten.
 
-\6. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz amtlich anerkannt frei ist von Infektiöser Boviner Rhinotracheitis. Zur Aufrechterhaltung dieses Status verpflichtet sich die Schweiz, folgende Anforderungen zu erfüllen:
+\7. Für Sendungen aus der Schweiz nach Finnland, Schweden oder Dänemark verpflichten sich die schweizerischen Behörden, die in den Rechtsvorschriften der Europäischen Union vorgesehenen Garantien in Bezug auf Salmonellosen beizubringen.
 
-- a) Der nationale Bestand wird im Rahmen von Stichprobenuntersuchungen überwacht. Der Umfang der Stichprobe wird so festgelegt, dass mit einer Nachweissicherheit von 99 % festgestellt werden kann, dass weniger als 0,2 % der Bestände mit Infektiöser Boviner Rhinotracheitis infiziert sind.
-- b) Über 24 Monate alte Zuchtbullen werden jährlich einer serologischen Untersuchung unterzogen.
-- c) Jeder Verdacht auf Infektiöse Bovine Rhinotracheitis wird den zuständigen Behörden gemeldet, und seuchenverdächtige Tiere werden amtlich virologisch oder serologisch auf Rhinotracheitis untersucht.
-- d) Bei Verdacht oder Bestätigung der Infektiösen Bovinen Rhinotracheitis wird der Status der amtlich anerkannten Seuchenfreiheit des betreffenden Bestands ausgesetzt, bis die Bestandssperre aufgehoben ist.
-- e) Die Bestandssperre wird aufgehoben, wenn die verbleibenden Tiere frühestens 30 Tage nach Eliminierung der infizierten Tiere mit Negativbefund serologisch untersucht wurden.
+[^annex2-lvlu1-lvlI-lvlB-1]: Delegierte Verordnung (EU) 2020/689 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften betreffend Überwachung, Tilgungsprogramme und den Status «seuchenfrei» für bestimmte gelistete und neu auftretende Seuchen (ABl. L 174 vom 3.6.2020, S. 211).
+[^annex2-lvlu1-lvlI-lvlB-2]: Durchführungsverordnung (EU) 2021/620 der Kommission vom 15. April 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich der Genehmigung des Status «seuchenfrei» und des Status der Nichtimpfung für bestimmte Mitgliedstaaten oder Zonen oder Kompartimente dieser Mitgliedstaaten in Bezug auf bestimmte gelistete Seuchen und der Genehmigung von Tilgungsprogrammen für diese gelisteten Seuchen (ABl. L 131 vom 16.4.2021, S. 78).
+[^annex2-lvlu1-lvlI-lvlB-3]: Durchführungsverordnung (EU) 2022/1255 der Kommission vom 19. Juli 2022 zur Bestimmung von antimikrobiellen Wirkstoffen oder von Gruppen antimikrobieller Wirkstoffe, die gemäss der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates der <sup>Behandlung</sup> bestimmter Infektionen beim Menschen vorbehalten bleiben müssen (ABl. L 191 vom 20.7.2022, S. 58).
+[^annex2-lvlu1-lvlI-lvlB-4]: Verordnung (EG) Nr. 617/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168 vom 28.6.2008, S. 5).
 
-Aufgrund der Anerkennung des Seuchenfreiheitsstatus der Schweiz gelten die Bestimmungen der Entscheidung 2004/558/EG[^annex2-lvlu1-lvlI-lvlB-1] entsprechend.
+### II. Tiere und Erzeugnisse der Aquakultur
 
-Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
+### A. Rechtsvorschriften
 
-\7. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz amtlich anerkannt frei ist von der Aujeszky-Krankheit. Zur Aufrechterhaltung dieses Status verpflichtet sich die Schweiz, folgende Anforderungen zu erfüllen:
+[^annex2-lvlu1-lvlII-lvlA-1]
 
-- a) Der nationale Bestand wird im Rahmen von Stichprobenuntersuchungen überwacht. Der Umfang der Stichprobe wird so festgelegt, dass mit einer Nachweissicherheit von 99 % festgestellt werden kann, dass weniger als 0,2 % der Bestände mit der Aujeszky-Krankheit infiziert sind.
-- b) Jeder Verdacht auf die Aujeszky-Krankheit wird den zuständigen Behörden gemeldet, und seuchenverdächtige Tiere werden amtlich virologisch oder serologisch auf die Aujeszky-Krankheit untersucht.
-- c) Bei Verdacht oder Bestätigung der Aujeszky-Krankheit wird der Status der amtlich anerkannten Seuchenfreiheit des betreffenden Bestands ausgesetzt, bis die Bestandssperre aufgehoben ist.
-- d) Die Bestandssperre wird aufgehoben, wenn alle Zuchttiere und eine repräsentative Anzahl Masttiere nach Eliminierung der infizierten Tiere zweimal im Abstand von mindestens 21 Tagen mit Negativbefund serologisch untersucht wurden.
-
-Aufgrund der Anerkennung des Seuchenfreiheitsstatus der Schweiz gelten die Bestimmungen der Entscheidung 2008/185/EG der Kommission[^annex2-lvlu1-lvlI-lvlB-2] entsprechend.
-
-Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
-
-\8. Die Frage etwaiger zusätzlicher Garantien hinsichtlich der Transmissiblen Gastroenteritis der Schweine (TGE) und des Porcinen Respiratorischen und Reproduktiven Syndroms (PRRS) wird vom Gemischten Veterinärausschuss umgehend geprüft. Die Kommission unterrichtet das Bundesamt für Lebensmittelsicherheit und Veterinärwesen über die Ergebnisse dieser Prüfung.
-
-\9. Zuständig für die amtliche Tuberkulinkontrolle im Sinne des Anhangs B Nummer 4 der Richtlinie 64/432/EWG in der Schweiz ist das Institut für Veterinärbakteriologie der Universität Zürich.
-
-\10. Zuständig für die amtliche Antigenkontrolle (Brucellose) im Sinne des Anhangs C Nummer 4 der Richtlinie 64/432/EWG in der Schweiz ist das Zentrum für Zoonosen, bakterielle Tierkrankheiten und Antibiotikaresistenz (ZOBA).
-
-\11. Rinder- und Schweinesendungen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen nach den Mustern in Anhang F der Richtlinie 64/432/EWG mit. Dabei sind folgende Anpassungen vorzunehmen:
-
-- –
-
-  In Muster 1 wird Abschnitt C der Bescheinigung wie folgt angepasst:
-
-  - –
-
-    unter Nummer 4 über die zusätzlichen Garantien werden die Gedankenstriche wie folgt ergänzt:
-
-    - ‹– in Bezug auf (Seuche): Infektiöse Bovine Rhinotracheitis,
-    - – gemäss der Entscheidung 2004/558/EG der Kommission, welche entsprechend anzuwenden ist;›
-
-- –
-
-  in Muster 2 wird Abschnitt C der Bescheinigung wie folgt angepasst:
-
-  - –
-
-    unter Nummer 4 über die zusätzlichen Garantien werden die Gedankenstriche wie folgt ergänzt:
-
-    - ‹– in Bezug auf (Seuche): Aujeszky-Krankheit
-    - – gemäss der Entscheidung 2008/185/EG der Kommission, welche entsprechend anzuwenden ist.›
-
-\12. Für die Zwecke des vorliegenden Anhangs führen Rindersendungen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz eine zusätzliche Veterinärbescheinigung mit, die folgende Erklärung enthält:
-
-- ‹–
-
-  Es handelt sich um Rinder, die:
-
-  - – mit Hilfe eines dauerhaften Kennzeichnungssystems identifiziert werden, mit dem das Muttertier oder der Herkunftsbestand ermittelt und festgestellt werden kann, dass die Tiere nicht von BSE-verdächtigen oder an BSE erkrankten Kühen abstammen, die in den zwei Jahren vor der Diagnose geboren wurden;
-  - – nicht aus Beständen stammen, die wegen eines BSE-Verdachtfalls untersucht werden;
-  - – nach dem 1. Juni 2001 geboren wurden.›
-
-[^annex2-lvlu1-lvlI-lvlB-1]: Entscheidung 2004/558/EG der Kommission vom 15. Juli 2004 zur Umsetzung der Richtlinie 64/432/EWG des Rates hinsichtlich ergänzender Garantien im innergemeinschaftlichen Handel mit Rindern in Bezug auf die infektiöse bovine Rhinotracheitis und der Genehmigung der von einigen Mitgliedstaaten vorgelegten Tilgungsprogramme (Bekannt gegeben unter Aktenzeichen K(2004) 2104)(Text von Bedeutung für den EWR) (ABl. L 249 vom 23.7.2004, S. 20).
-[^annex2-lvlu1-lvlI-lvlB-2]: Entscheidung 2008/185/EG der Kommission vom 21. Februar 2008 zur Festlegung zusätzlicher Garantien für den innergemeinschaftlichen Handel mit Schweinen hinsichtlich der Aujeszky-Krankheit und der Kriterien für die Informationsübermittlung (Bekannt gegeben unter Aktenzeichen K(2008) 669) (kodifizierte Fassung) (Text von Bedeutung für den EWR) (ABl. L 59 vom 4.3.2008, S. 19).
-
-### II. Schafe und Ziegen
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex2-lvlu1-lvlII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 91/68/EWG des Rates vom 28. Januar 1991 zur Regelung tierseuchenrechtlicher Fragen beim innergemeinschaftlichen Handelsverkehr mit Schafen und Ziegen (ABl. L 46 vom 19.2.1991, S. 19)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995, (TSV; SR *916.401*), insbesondere die Artikel 27 bis 31 (Viehmärkte, Viehausstellungen), 34 bis 37*b* (Viehhandel), 73 und 74 (Reinigung, Desinfektion und Entwesung), 142 bis 149 (Tollwut), 158 bis 165 (Tuberkulose), 180 bis 180*c* (Traberkrankheit), 190 bis 195 (Brucellose der Schafe und Ziegen), 196 bis 199 (Infektiöse Agalaktie), 217 bis 221 (Caprine Arthritis-Enzephalitis), 233 bis 236 (Widderbrucellose), 301 (Bewilligung von Tierhaltungen, Besamungsstationen, Samenlagern, Embryotransfereinheiten, Viehmärkten und ähnlichen Einrichtungen) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend den Handel mit Tieren und Erzeugnissen aus Aquakultur zwischen der Schweiz und der Europäischen Union durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 3. Durchführungsverordnung (EU) 2020/2236 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen für den Eingang in die Union von Sendungen von Wassertieren und von bestimmten Erzeugnissen tierischen Ursprungs aus Wassertieren und für deren Verbringungen innerhalb der Union sowie hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen und zur Aufhebung der Verordnung (EG) Nr. 1251/2008 (ABl. L 442 vom 30.12.2020, S. 410). 4. Artikel 107 (ausgenommen Absatz 6) der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43) in Verbindung mit Artikel 37 Absatz 5.</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*). 2. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU; SR *916.443.11*). 3. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU-EDI; SR *916.443.111*). 4. Bundesgesetz vom 29. April 1998 über die Landwirtschaft (LwG; SR *910.1*), insbesondere Artikel 160 (Zulassungspflicht). 5. Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (HMG; SR *812.21*). 6. Verordnung vom 18. August 2004 über die Tierarzneimittel (TAMV; SR *812.212.27*). 7. Technische Weisungen für die prophylaktische und metaphylaktische Anwendung von Arzneimitteln, die antimikrobielle Wirkstoffe enthalten, bei Nutztieren, veröffentlicht am 1.5.2026.</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. Insbesondere auf der Grundlage des Artikels 11 der Richtlinie 91/68/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+\1. Insbesondere auf der Grundlage des Artikels 116 der Verordnung (EU) 2017/625 und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-Die Schweiz unterrichtet den Gemischten Veterinärausschuss über jeden Ausbruch oder Wiederausbruch der Schaf- und Ziegenbrucellose, damit je nach Seuchenlage geeignete Massnahmen getroffen werden können.
+\2. Tiere, die zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gehandelt werden, verkehren ausschliesslich unter denselben Bedingungen wie Tiere, die zwischen den Mitgliedstaaten der Europäischen Union gehandelt werden. Diesen Tieren müssen gegebenenfalls die Gesundheitsbescheinigungen beigefügt sein, die für den Handel zwischen den Mitgliedstaaten der Europäischen Union vorgeschrieben und im System TRACES verfügbar sind.
 
-\2. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz amtlich anerkannt frei ist von Schaf- und Ziegenbrucellose. Zur Aufrechterhaltung dieses Status verpflichtet sich die Schweiz, die in Anhang A Kapitel 1 Ziffer II Nummer 2 der Richtlinie 91/68/EWG vorgesehenen Massnahmen zu treffen.
+\3. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen gemäss Teil II Kapitel 4 der Verordnung (EU) 2016/429, der Delegierten Verordnung (EU) 2020/689 der Kommission[^annex2-lvlu1-lvlII-lvlB-1] und der Durchführungsverordnung (EU) 2021/620 der Kommission[^annex2-lvlu1-lvlII-lvlB-2] in Bezug auf die Seuchen erfüllt, die auf der Website «Food Safety – Surveillance, eradication programmes and disease-free status» der Kommission und derjenigen des Bundesamts für Lebensmittelsicherheit und Veterinärwesen «Nationales Überwachungsprogramm», aufgeführt sind.
 
-\3. Schaf- und Ziegensendungen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen nach den Mustern in Anhang E der Richtlinie 91/68/EWG mit.
+Für Seuchen, für die die Schweiz noch nicht den Status «seuchenfrei» erhalten hat, legt die Schweiz dem Gemischten Veterinärausschuss die Informationen vor, die für die Erlangung dieses Status gemäss der Verordnung (EU) 2016/429 erforderlich sind. Auf der Grundlage dieser Informationen vereinbart der Gemischte Veterinärausschuss die auf den oben genannten Websites verfügbaren Informationen zu aktualisieren.
 
-### III. Equiden
+Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status für eine der in diesem Absatz genannten gelisteten Seuchen geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Sachlage.
 
-### A. Rechtsvorschriften\*
+\4. Die Schweiz wendet im Einklang mit ihren in Abschnitt A genannten Rechtsvorschriften dieselben Bestimmungen wie diejenigen in Artikel 107 (ausgenommen Absatz 6) der Verordnung (EU) 2019/6 in Verbindung mit Artikel 37 Absatz 5 über die Verwendung antimikrobieller Arzneimittel bei Nutztieren an.
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+Die Schweiz erlaubt weder das Inverkehrbringen von Arzneimitteln für Nutztiere, die einen oder eine der unter den Nummern 2 oder 3 des Anhangs der Durchführungsverordnung (EU) 2022/1255 der Kommission[^annex2-lvlu1-lvlII-lvlB-3] aufgeführten antimikrobiellen Wirkstoffe oder Gruppen antimikrobieller Wirkstoffe enthalten, noch die Verwendung von Humanarzneimitteln, die solche im Anhang aufgeführte antimikrobielle Mittel oder Gruppen von antimikrobiellen Mitteln enthalten, bei Nutztieren.
+
+Im Gemischten Veterinärausschuss werden die Änderungen der oben genannten Rechtsvorschriften der Europäischen Union erörtert, die eine Anpassung der schweizerischen Bestimmungen erforderlich machen.
+
+Daher gilt die Schweiz bis zum 1. Juli 2028 für die Zwecke der Anwendung des Artikels 118 der Verordnung (EU) 2019/6 nicht als Drittland.
+
+Sie unterrichtet den Gemischten Veterinärausschuss unverzüglich über jede weitere Änderung ihrer Rechtsvorschriften für antimikrobielle Arzneimittel für Nutztiere.
+
+Dieser Absatz wird vom Gemischten Veterinärausschuss bis zum 1. Juli 2028 überprüft.
+
+[^annex2-lvlu1-lvlII-lvlB-1]: Delegierte Verordnung (EU) 2020/689 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften betreffend Überwachung, Tilgungsprogramme und den Status «seuchenfrei» für bestimmte gelistete und neu auftretende Seuchen (ABl. L 174 vom 3.6.2020, S. 211).
+[^annex2-lvlu1-lvlII-lvlB-2]: Durchführungsverordnung (EU) 2021/620 der Kommission vom 15. April 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich der Genehmigung des Status «seuchenfrei» und des Status der Nichtimpfung für bestimmte Mitgliedstaaten oder Zonen oder Kompartimente dieser Mitgliedstaaten in Bezug auf bestimmte gelistete Seuchen und der Genehmigung von Tilgungsprogrammen für diese gelisteten Seuchen (ABl. L 131 vom 16.4.2021, S. 78).
+[^annex2-lvlu1-lvlII-lvlB-3]: Durchführungsverordnung (EU) 2022/1255 der Kommission vom 19. Juli 2022 zur Bestimmung von antimikrobiellen Wirkstoffen oder von Gruppen antimikrobieller Wirkstoffe, die gemäss der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates der Behandlung bestimmter Infektionen beim Menschen vorbehalten bleiben müssen (ABl. L 191 vom 20.7.2022, S. 58).
+
+### III. Zuchtmaterial
+
+### A. Rechtsvorschriften
+
+[^annex2-lvlu1-lvlIII-lvlA-1]
+
+[^annex2-lvlu1-lvlIII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2009/156/EG des Rates vom 30. November 2009 zur Festlegung der tierseuchenrechtlichen Vorschriften für das Verbringen von Equiden – und für ihre Einfuhr aus Drittländern (ABl. L 192 vom 23.7.2010, S. 1)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 112 bis 112*f* (Pferdepest), 204 bis 206 (Beschälseuche, Enzephalomyelitis, Infektiöse Anämie, Rotz), 240 bis 244 (Ansteckende Pferdemetritis) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend den Handel mit Zuchtmaterial zwischen der Schweiz und der Europäischen Union durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 3. Durchführungsverordnung (EU) 2021/403 der Kommission vom 18. März 2021 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Landtieren und ihres Zuchtmaterials und für deren Verbringungen zwischen Mitgliedstaaten, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung des Beschlusses 2010/470/EU (ABl. L 113 vom 31.3.2021, S. 1).</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere Artikel 51 bis 55*a* (Künstliche Besamung) und 56 bis 58*a* (Übertragung von Eizellen und Embryonen). 2. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU; SR *916.443.11*). 3. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU-EDI; SR *916.443.111*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. Die Informationen gemäss Artikel 3 der Richtlinie 2009/156/EG werden dem Gemischten Veterinärausschuss übermittelt.
+\1. Insbesondere auf der Grundlage des Artikels 116 der Verordnung (EU) 2017/625 und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-\2. Die Informationen gemäss Artikel 6 der Richtlinie 2009/156/EG werden dem Gemischten Veterinärausschuss übermittelt.
+\2. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen gemäss Teil II Kapitel 4 der Verordnung (EU) 2016/429, der Delegierten Verordnung (EU) 2020/689 der Kommission[^annex2-lvlu1-lvlIII-lvlB-1] und der Durchführungsverordnung (EU) 2021/620 der Kommission[^annex2-lvlu1-lvlIII-lvlB-2] in Bezug auf die Seuchen erfüllt, die auf der Website «Food Safety – Surveillance, eradication programmes and disease-free status» der Kommission und derjenigen des Bundesamts für Lebensmittelsicherheit und Veterinärwesen «Nationales Überwachungsprogramm», aufgeführt sind.
 
-\3. Insbesondere auf der Grundlage des Artikels 10 der Richtlinie 2009/156/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+Für Seuchen, für die die Schweiz noch nicht den Status «seuchenfrei» erhalten hat, legt die Schweiz dem Gemischten Veterinärausschuss die Informationen vor, die für die Erlangung dieses Status gemäss der Verordnung (EU) 2016/429 erforderlich sind. Auf der Grundlage dieser Informationen vereinbart der Gemischte Veterinärausschuss die auf den oben genannten Websites verfügbaren Informationen zu aktualisieren.
 
-\4. Die Bestimmungen der Anhänge II und III der Richtlinie 2009/156/EG gelten entsprechend für die Schweiz.
+Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status für eine der in diesem Absatz genannten gelisteten Seuchen geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Sachlage.
 
-### IV. Geflügel und Bruteier
+\3. In Bezug auf Rindersperma wird zur Kenntnis genommen, dass sich in allen schweizerischen Besamungsstationen ausschliesslich Tiere befinden, die mit Negativbefund einem Serum-Neutralisationstest oder ELISA-Test auf infektiöse bovine Rhinotracheitis oder infektiöse pustulöse Vulvovaginitis unterzogen wurden.
 
-### A. Rechtsvorschriften\*
+\4. Zuchtmaterial, das zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gehandelt wird, verkehrt ausschliesslich unter denselben Bedingungen wie Zuchtmaterial, das zwischen den Mitgliedstaaten der Europäischen Union gehandelt wird. Diesen Erzeugnissen müssen gegebenenfalls die Gesundheitsbescheinigungen beigefügt sein, die für den Handel zwischen den Mitgliedstaaten der Europäischen Union vorgeschrieben und im System TRACES verfügbar sind.
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex2-lvlu1-lvlIII-lvlB-1]: Delegierte Verordnung (EU) 2020/689 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften betreffend Überwachung, Tilgungsprogramme und den Status «seuchenfrei» für bestimmte gelistete und neu auftretende Seuchen (ABl. L 174 vom 3.6.2020, S. 211).
+[^annex2-lvlu1-lvlIII-lvlB-2]: Durchführungsverordnung (EU) 2021/620 der Kommission vom 15. April 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich der Genehmigung des Status «seuchenfrei» und des Status der Nichtimpfung für bestimmte Mitgliedstaaten oder Zonen oder Kompartimente dieser Mitgliedstaaten in Bezug auf bestimmte gelistete Seuchen und der Genehmigung von Tilgungsprogrammen für diese gelisteten Seuchen (ABl. L 131 vom 16.4.2021, S. 78).
 
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2009/158/EG des Rates vom 30. November 2009 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern sowie für ihre Einfuhr aus Drittländern (ABl. L 343 vom 22.12.2009, S. 74)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 25 (Transportmittel), 122 bis 125 (Klassische Geflügelpest und Newcastle-Krankheit), 255 bis 261 (*Salmonella Enteritidis*), 262 bis 265 (Infektiöse Laryngotracheitis der Hühner) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*)</td></tr>
-</table>
+### IV. Verbringung von Heimtieren zu anderen als Handelszwecken
 
-### B. Durchführungsbestimmungen
+### A. Rechtsvorschriften
 
-\1. Gemäss Artikel 3 der Richtlinie 2009/158/EG wird anerkannt, dass die Schweiz einen Plan hat, in dem die Massnahmen für die Zulassung von Betrieben festgelegt sind.
+[^annex2-lvlu1-lvlIV-lvlA-1]
 
-\2. Im Sinne des Artikels 4 der Richtlinie 2009/158/EG ist das nationale Referenzlabor für die Schweiz das Institut für Veterinärbakteriologie der Universität Bern.
-
-\3. Die Haltungsbedingung gemäss Artikel 8 Absatz 1 Buchstabe a Ziffer i der Richtlinie 2009/158/EG gilt entsprechend für die Schweiz.
-
-\4. Für den Versand von Bruteiern in die Europäische Union verpflichten sich die schweizerischen Behörden, die Kennzeichnungsvorschriften der Verordnung (EG) Nr. 617/2008 der Kommission[^annex2-lvlu1-lvlIV-lvlB-1] einzuhalten.
-
-\5. Die Haltungsbedingung gemäss Artikel 10 Buchstabe a der Richtlinie 2009/158/EG gilt entsprechend für die Schweiz.
-
-\6. Die Haltungsbedingung gemäss Artikel 11 Buchstabe a der Richtlinie 2009/158/EG gilt entsprechend für die Schweiz.
-
-\7. Die Haltungsbedingung gemäss Artikel 14 Absatz 2 Buchstabe a der Richtlinie 2009/158/EG gilt entsprechend für die Schweiz.
-
-\8. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz die Anforderungen des Artikels 15 Absatz 2 der Richtlinie 2009/158/EG hinsichtlich der Newcastle-Krankheit erfüllt und dementsprechend den Status der ‹Nichtimpfung› besitzt. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen unterrichtet die Kommission unverzüglich über jede Änderung der Bedingungen, die zur Anerkennung des Status geführt haben. Der Gemischte Veterinärausschuss überprüft alsdann die Bestimmungen dieses Absatzes.
-
-\9. In Artikel 18 der Richtlinie 2009/158/EG gilt jeder Bezug auf den Namen des Mitgliedstaats der Europäischen Union entsprechend für die Schweiz.
-
-\10. Sendungen von Geflügel und Bruteiern im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen nach den Mustern in Anhang IV der Richtlinie 2009/158/EG mit.
-
-\11. Für Sendungen aus der Schweiz nach Finnland oder Schweden verpflichten sich die schweizerischen Behörden, die in den Rechtsvorschriften der Europäischen Union vorgesehenen Garantien in Bezug auf Salmonellosen beizubringen.
-
-[^annex2-lvlu1-lvlIV-lvlB-1]: Verordnung (EG) Nr. 617/2008 der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168 vom 28.6.2008, S. 5).
-
-### V. Tiere und Erzeugnisse der Aquakultur
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex2-lvlu1-lvlIV-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten (ABl. L 328 vom 24.11.2006, S. 14)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 3 bis 5 (aufgelistete Seuchen), 21 bis 23 (Registrierung von Aquakulturbetrieben, Bestandskontrolle und weitere Pflichten, Gesundheitsüberwachung), 61 (Verpflichtungen der Pächter von Fischereirechten und der Organe der Fischereiaufsicht), 62 bis 76 (allgemeine Bekämpfungsmassnahmen), 277 bis 290 (besondere Massnahmen zur Bekämpfung von Seuchen der Wassertiere, Untersuchungslaboratorium) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 3. Verordnung vom 18. April 2007 über die Ein- und Durchfuhr von Tieren aus Drittstaaten im Luftverkehr (EDTV; SR *916.443.12*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Für die Zwecke dieses Anhangs wird anerkannt, dass die Schweiz amtlich anerkannt frei von infektiöser Anämie der Lachse und Infektionen mit *Marteilia refringens* und mit *Bonamia ostreae* ist.
-
-\2. Über die etwaige Anwendung der Artikel 29, 40, 41, 43, 44 und 50 der Richtlinie 2006/88/EG entscheidet der Gemischte Veterinärausschuss.
-
-\3. Die Tiergesundheitsbedingungen für das Inverkehrbringen von Wassertieren zu Zierzwecken, von Tieren in Aquakultur, die für Zuchtbetriebe, einschliesslich Umsetzungsgebiete, Angelgewässer und offene Einrichtungen für Ziertiere sowie zur Wiederaufstockung bestimmt sind, sowie von Tieren in Aquakultur und Aquakulturerzeugnissen für den menschlichen Verzehr sind in den Artikeln 4 bis 9 der Verordnung (EG) Nr. 1251/2008 der Kommission[^annex2-lvlu1-lvlV-lvlB-1] niedergelegt.
-
-\4. Insbesondere auf der Grundlage des Artikels 58 der Richtlinie 2006/88/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-[^annex2-lvlu1-lvlV-lvlB-1]: Verordnung (EG) Nr. 1251/2008 der Kommission vom 12. Dezember 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Bedingungen und Bescheinigungsvorschriften für das Inverkehrbringen und die Einfuhr in die Gemeinschaft von Tieren in Aquakultur und Aquakulturerzeugnissen sowie zur Festlegung einer Liste von Überträgerarten (Text von Bedeutung für den EWR) (ABl. L 337 vom 16.12.2008, S. 41).
-
-### VI. Rinderembryonen
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 89/556/EWG des Rates vom 25. September 1989 über viehseuchenrechtliche Fragen beim innergemeinschaftlichen Handel mit Embryonen von Hausrindern und ihrer Einfuhr aus Drittländern (ABl. L 302 vom 19.10.1989, S. 1)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 56 bis 58*a* (Embryotransfer) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Insbesondere auf der Grundlage des Artikels 15 der Richtlinie 89/556/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-\2. Sendungen von Rinderembryonen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Gesundheitsbescheinigungen nach dem Muster in Anhang C der Richtlinie 89/556/EWG mit.
-
-### VII. Rindersperma
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 88/407/EWG des Rates vom 14. Juni 1988 zur Festlegung der tierseuchenrechtlichen Anforderungen an den innergemeinschaftlichen Handelsverkehr mit Samen von Rindern und an dessen Einfuhr (ABl. L 194 vom 22.7.1988, S. 10)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 51 bis 55*a* (Künstliche Besamung) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Für die Zwecke der Anwendung des Artikels 4 Absatz 2 der Richtlinie 88/407/EWG wird zur Kenntnis genommen, dass sich in allen schweizerischen Besamungsstationen ausschliesslich Tiere befinden, die mit Negativbefund einem Serum-Neutralisationstest oder ELISA-Test unterzogen wurden.
-
-\2. Die Informationen gemäss Artikel 5 Absatz 2 der Richtlinie 88/407/EWG werden dem Gemischten Veterinärausschuss mitgeteilt.
-
-\3. Insbesondere auf der Grundlage des Artikels 16 der Richtlinie 88/407/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-\4. Sendungen von Rindersperma im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen nach dem Muster in Anhang D der Richtlinie 88/407/EWG mit.
-
-### VIII. Schweinesperma
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Richtlinie 90/429/EWG des Rates vom 26. Juni 1990 zur Festlegung der tierseuchenrechtlichen Anforderungen an den innergemeinschaftlichen Handelsverkehr mit Samen von Schweinen und an dessen Einfuhr (ABl. L 224 vom 18.8.1990, S. 62)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 51 bis 55*a* (Künstliche Besamung) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Die Informationen gemäss Artikel 5 Absatz 2 der Richtlinie 90/429/EWG werden dem Gemischten Veterinärausschuss übermittelt.
-
-\2. Insbesondere auf der Grundlage des Artikels 16 der Richtlinie 90/429/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-
-\3. Sendungen von Schweinesperma im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen nach dem Muster in Anhang D der Richtlinie 90/429/EWG mit.
-
-### IX. Andere Tierarten
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Richtlinie 92/65/EWG des Rates vom 13. Juli 1992 über die tierseuchenrechtlichen Bedingungen für den Handel mit Tieren, Samen, Eizellen und Embryonen in der Gemeinschaft sowie für ihre Einfuhr in die Gemeinschaft, soweit sie diesbezüglich nicht den spezifischen Gemeinschaftsregelungen nach Anhang A Ziffer I der Richtlinie 90/425/EWG unterliegen (ABl. L 268 vom 14.9.1992, S. 54) 2. Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom 28.6.2013, S. 1)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 51 bis 55*a* (Künstliche Besamung) sowie 56 bis 58 (Embryotransfer) 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 3. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*)</td></tr>
-</table>
-
-### B. Durchführungsbestimmungen
-
-\1. Für die Zwecke dieses Anhangs regelt dieser Abschnitt den Handel mit lebenden Tieren, die nicht unter die Ziffern I bis V dieser Anlage fallen, sowie den Handel mit Sperma, Eizellen und Embryonen dieser Tiere, soweit diese Erzeugnisse nicht unter die Ziffern VI bis VIII dieser Anlage fallen.
-
-\2. Die Europäische Union und die Schweiz verpflichten sich, dass der Handel mit den unter Nummer 1 genannten lebenden Tieren, ihrem Sperma, ihren Eizellen und Embryonen nicht aus anderen tierseuchenrechtlichen Gründen als denen, die sich aus der Anwendung dieses Anhangs und insbesondere im Zuge der etwaigen Schutzmassnahmen gemäss Artikel 20 ergeben, verboten oder beschränkt wird.
-
-\3. Sendungen von Huftieren im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz – ausser den Tieren gemäss den Ziffern I, II und III dieser Anlage – führen Veterinärbescheinigungen gemäss Anhang E Teil 1 der Richtlinie 92/65/EWG, ergänzt durch den Bestätigungsvermerk gemäss Artikel 6 Absatz A Unterabsatz 1 Buchstabe e der Richtlinie 92/65/EWG, mit.
-
-\4. Sendungen von Hasentieren im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss Anhang E Teil 1 der Richtlinie 92/65/EWG, gegebenenfalls ergänzt durch den Bestätigungsvermerk gemäss Artikel 9 Absatz 2 Unterabsatz 2 der Richtlinie 92/65/EWG, mit.
-
-Dieser Vermerk kann von den schweizerischen Behörden geändert werden, um den Anforderungen des Artikels 9 der Richtlinie 92/65/EWG insgesamt nachzukommen.
-
-\5. Die Informationen gemäss Artikel 9 Absatz 2 Unterabsatz 3 der Richtlinie 92/65/EWG werden dem Gemischten Veterinärausschuss mitgeteilt.
-
-\6. Sendungen von Hunden und Katzen aus der Europäischen Union in die Schweiz unterliegen den Bestimmungen des Artikels 10 Absatz 2 der Richtlinie 92/65/EWG.
-
-Für die Kennzeichnung gilt die Verordnung (EU) Nr. 576/2013. Es ist der Ausweis gemäss Anhang II Teil 3 der Durchführungsverordnung (EU) Nr. 577/2013[^annex2-lvlu1-lvlIX-lvlB-1] zu verwenden.
-
-Die Gültigkeit der Tollwutimpfung bzw. der Auffrischungsimpfung ist in Anhang III der Verordnung (EU) Nr. 576/2013 festgelegt.
-
-\7. Sendungen von Sperma, Eizellen und Embryonen von Schafen und Ziegen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss der Entscheidung 2010/470/EU[^annex2-lvlu1-lvlIX-lvlB-2] mit.
-
-\8. Sendungen von Equidensperma im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss der Entscheidung 2010/470/EU mit.
-
-\9. Sendungen von Eizellen und Embryonen von Equiden im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss der Entscheidung 2010/470/EU mit.
-
-\10. Sendungen von Eizellen und Embryonen von Schweinen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss der Entscheidung 2010/470/EU mit.
-
-\11. Sendungen von Bienenvölkern (Bienenstöcke oder Königinnen mit Arbeiterinnen) im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss Anhang E Teil 2 der Richtlinie 92/65/EWG mit.
-
-\12. Sendungen von Tieren, Sperma, Embryonen und Eizellen, die aus gemäss Anhang C der Richtlinie 92/65/EWG zugelassenen Einrichtungen, Instituten oder Zentren stammen, im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz führen Veterinärbescheinigungen gemäss Anhang E Teil 3 der Richtlinie 92/65/EWG mit.
-
-\13. Die Informationen gemäss Artikel 24 Absatz 2 der Richtlinie 92/65/EWG werden dem Gemischten Veterinärausschuss übermittelt.
-
-[^annex2-lvlu1-lvlIX-lvlB-1]: Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates Text von Bedeutung für den EWR (ABl. L 178 vom 28.6.2013, S. 109).
-[^annex2-lvlu1-lvlIX-lvlB-2]: 2010/470/EU: Beschluss der Kommission vom 26. August 2010 mit Muster-Veterinärbescheinigungen für den Handel innerhalb der Union mit Samen, Eizellen und Embryonen von Pferden, Schafen und Ziegen sowie mit Eizellen und Embryonen von Schweinen (ABl. L 228 vom 31.8.2010, S. 15).
-
-### X. Verbringung von Heimtieren zu anderen als Handelszwecken
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-<table>
-<tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom 28.6.2013, S. 1)</td><td>Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*)</td></tr>
+<tr><td>1. Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom 28.6.2013, S. 1). 2. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte auf der Grundlage von Teil VI dieser Verordnung. 3. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Verbringung von Heimtieren zu anderen als Handelszwecken zwischen der Schweiz und der Europäischen Union durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1).</td><td>1. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*). 2. Artikel 76*b* der Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
@@ -10253,91 +9877,67 @@ Die Gültigkeit der Tollwutimpfung bzw. der Auffrischungsimpfung ist in Anhang I
 
 \2. Die Gültigkeit der Tollwutimpfung bzw. der Auffrischungsimpfung ist in Anhang III der Verordnung (EU) Nr. 576/2013 festgelegt.
 
-\3. Es ist der Ausweis gemäss Anhang III Teil 3 der Durchführungsverordnung (EU) Nr. 577/2013 zu verwenden. Die zusätzlichen Anforderungen an den Ausweis sind in Anhang III Teil 4 der Verordnung (EU) Nr. 577/2013 festgelegt.
+\3. Es ist der Ausweis gemäss Anhang III Teil 3 der Durchführungsverordnung (EU) Nr. 577/2013 der Kommission[^annex2-lvlu1-lvlIV-lvlB-1] zu verwenden. Die zusätzlichen Anforderungen an den Ausweis sind in Anhang III Teil 4 der Verordnung (EU) Nr. 577/2013 festgelegt.
 
 \4. Für die Verbringung von Heimtieren zu anderen als Handelszwecken zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz im Sinne dieser Anlage gilt Kapitel II der Verordnung (EU) Nr. 576/2013 entsprechend. Für die Dokumenten- und Nämlichkeitskontrollen bei Verbringungen von Heimtieren zu anderen als Handelszwecken aus einem Mitgliedstaat der Europäischen Union in die Schweiz gelten die Bestimmungen des Artikels 33 der Verordnung (EU) Nr. 576/2013.
 
+[^annex2-lvlu1-lvlIV-lvlB-1]: Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates (ABl. L 178 vom 28.6.2013, S. 109).
+
 Anlage 3[^t-26]
 
-## Einfuhr lebender Tiere und deren Sperma, Eizellen und Embryonen aus Drittländern
+## Einfuhr lebender Tiere und ihres Zuchtmaterials aus Drittländern
 
-[^t-26]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Veterinärausschusses vom 17. Dez. 2015, in Kraft seit 17. Dez. 2015, mit Wirkung seit 1. Jan. 2015 ([AS 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-26]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2026 des Gemischten Veterinärausschusses vom 24. Juli 2026, in Kraft seit 24. Juli 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### I. Europäische Union – Rechtsvorschriften\*
+### I. Europäische Union – Rechtsvorschriften
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex3-lvlu1-lvlI-1]
 
-### A. Huftiere ohne Equiden
+[^annex3-lvlu1-lvlI-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
-Richtlinie 2004/68/EG des Rates vom 26. April 2004 zur Festlegung der Veterinärbedingungen für die Einfuhr und die Durchfuhr bestimmter lebender Huftiere in bzw. durch die Gemeinschaft, zur Änderung der Richtlinien 90/426/EWG und 92/65/EWG und zur Aufhebung der Richtlinie 72/462/EWG (ABl. L 139 vom 30.4.2004, S. 321).
+\1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden.
 
-### B. Equiden
+\2. Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom 28.6.2013, S. 1).
 
-Richtlinie 2009/156/EG des Rates vom 30. November 2009 zur Festlegung der tierseuchenrechtlichen Vorschriften für das Verbringen von Equiden und für ihre Einfuhr aus Drittländern (ABl. L 192 vom 23.7.2010, S. 1)
+\3. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β‑Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3).
 
-### C. Geflügel und Bruteier
+\4. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Teil vorgesehenen Vorschriften durchgeführt werden:
 
-Richtlinie 2009/158/EG des Rates vom 30. November 2009 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern sowie für ihre Einfuhr aus Drittländern (ABl. L 343 vom 22.12.2009, S. 74)
+- – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (ABl. L 95 vom 7.4.2017, S. 1).
 
-### D. Tiere der Aquakultur
+\5. Artikel 118 der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43).
 
-Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten (ABl. L 328 vom 24.11.2006, S. 14)
+### II. Schweiz – Rechtsvorschriften
 
-### E. Rinderembryonen
+[^annex3-lvlu1-lvlII-1]
 
-Richtlinie 89/556/EWG des Rates vom 25. September 1989 über viehseuchenrechtliche Fragen beim innergemeinschaftlichen Handel mit Embryonen von Hausrindern und ihrer Einfuhr aus Drittländern (ABl. L 302 vom 19.10.1989, S. 1)
+[^annex3-lvlu1-lvlII-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
-### F. Rindersperma
+\1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*).
 
-Richtlinie 88/407/EWG des Rates vom 14. Juni 1988 zur Festlegung der tierseuchenrechtlichen Anforderungen an den innergemeinschaftlichen Handelsverkehr mit gefrorenem Samen von Rindern und an dessen Einfuhr (ABl. L 194 vom 22.7.1988, S. 10)
+\2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*).
 
-### G. Schweinesperma
+\3. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS; SR *916.443.10*).
 
-Richtlinie 90/429/EWG des Rates vom 26. Juni 1990 zur Festlegung der tierseuchenrechtlichen Anforderungen an den innergemeinschaftlichen Handelsverkehr mit Samen von Schweinen und an dessen Einfuhr (ABl. L 224 vom 18.8.1990, S. 62)
+\4. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI; SR *916.443.106*).
 
-### H. Andere Tiere, lebend
+\5. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*).
 
-\1. Richtlinie 92/65/EWG des Rates vom 13. Juli 1992 über die tierseuchenrechtlichen Bedingungen für den Handel mit Tieren, Samen, Eizellen und Embryonen in der Gemeinschaft sowie für ihre Einfuhr in die Gemeinschaft, soweit sie diesbezüglich nicht den spezifischen Gemeinschaftsregelungen nach Anhang A Abschnitt 1 der Richtlinie 90/425/EWG unterliegen (ABl. L 268 vom 14.9.1992, S. 54)
+\6. Verordnung vom 18. August 2004 über die Tierarzneimittel (TAMV; SR *812.212.27*).
 
-\2. Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom 28.6.2013, S. 1)
+\7. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*).
 
-### I. Andere besondere Bestimmungen
+### B. Durchführungsbestimmungen
 
-\1. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β‑Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3)
-
-\2. Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10)
-
-### II. Schweiz – Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-
-\1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*)
-
-\2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)
-
-\3. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (VTNP; SR *916.443.10*)
-
-\4. Verordnung vom 18. April 2007 über die Ein- und Durchfuhr von Tieren aus Drittstaaten im Luftverkehr (EDTV; SR *916.443.12*)
-
-\5. Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*)
-
-\6. Verordnung des EDI vom 16. Mai 2007 über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten (EDAV-Kontrollverordnung; SR *916.443.106*)
-
-\7. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*)
-
-\8. Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimittelverordnung, TAMV; SR *812.212.27*)
-
-\9. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*)
-
-### III. Durchführungsbestimmungen
-
-Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen wendet gleichzeitig mit den Mitgliedstaaten der Europäischen Union die in den unter Ziffer I dieser Anlage aufgelisteten Rechtsakten genannten Einfuhrvorschriften, Durchführungsmassnahmen und Listen von Betrieben an, aus denen entsprechende Einfuhren zugelassen sind. Diese Verpflichtung gilt für alle einschlägigen Rechtsakte unabhängig vom Datum ihres Erlasses.
+\1. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen wendet gleichzeitig mit den Mitgliedstaaten der Europäischen Union die in den unter Ziffer I dieser Anlage aufgelisteten Rechtsakten genannten Einfuhrvorschriften, Durchführungsmassnahmen und Listen von Betrieben an, aus denen entsprechende Einfuhren zugelassen sind. Diese Verpflichtung gilt für alle einschlägigen Rechtsakte unabhängig vom Datum ihres Erlasses.
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen kann strengere Massnahmen festlegen und zusätzliche Garantien verlangen. Der Gemischte Veterinärausschuss tritt zusammen, um über geeignete Massnahmen zur Klärung der Lage zu beraten.
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen und die Mitgliedstaaten der Europäischen Union teilen sich gegenseitig die spezifischen auf bilateraler Ebene festgelegten Einfuhrbedingungen, die nicht Gegenstand einer Harmonisierung auf Ebene der Union sind, mit.
 
-Für die Zwecke dieses Anhangs werden die Namen der Einrichtungen, die für die Schweiz als zugelassene Zentren gemäss den Bestimmungen des Anhangs C der Richtlinie 92/65/EWG anerkannt sind, auf der Website des Bundesamts für Lebensmittelsicherheit und Veterinärwesen veröffentlicht.
+\2. Die Schweiz gilt bis zum 1. Juli 2028 für die Zwecke der Anwendung des Artikels 118 der Verordnung (EU) 2019/6 nicht als Drittland.
+
+Dieser Absatz wird vom Gemischten Veterinärausschuss bis zum 1. Juli 2028 überprüft.
 
 Anlage 4[^t-27]
 
@@ -10364,272 +9964,187 @@ Bei Schwierigkeiten wird auf Antrag einer der beiden Parteien der Gemischte Vete
 
 Anlage 5[^t-28]
 
-## Lebende Tiere, Sperma, Eizellen und Embryonen: Grenzkontrollen und Kontrollgebühren
+## Lebende Tiere und Zuchtmaterial: Grenzkontrollen und Kontrollgebühren
 
-[^t-28]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Veterinärausschusses vom 17. Dez. 2015, in Kraft seit 17. Dez. 2015, mit Wirkung seit 1. Jan. 2015 ([AS 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-28]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2026 des Gemischten Veterinärausschusses vom 24. Juli 2026, in Kraft seit 24. Juli 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### Kapitel I: Allgemeine Bestimmungen – TRACES
+### Kapitel I Allgemeine Bestimmungen – Informationsmanagementsystem für amtliche Kontrollen
 
-### A. Rechtsvorschriften\*
+### A. Rechtsvorschriften
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex5-lvlu1-chapI-lvlA-1]
+
+[^annex5-lvlu1-chapI-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>Entscheidung 2004/292/EG der Kommission vom 30. März 2004 zur Einführung des TRACES-Systems und zur Änderung der Entscheidung 92/486/EWG (ABl. L 94 vom 31.3.2004, S. 63)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*) 3. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 4. Verordnung vom 18. April 2007 über die Ein- und Durchfuhr von Tieren aus Drittstaaten im Luftverkehr (EDTV; SR *916.443.12*) 5. Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*) 6. Verordnung des EVD vom 16. Mai 2007 über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten (EDAV-Kontrollverordnung; SR *916.443.106*) 7. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*)</td></tr>
+<tr><td>1. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Kapitel vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 2. Durchführungsverordnung (EU) 2019/1715 der Kommission vom 30. September 2019 mit Vorschriften zur Funktionsweise des Informationsmanagementsystems für amtliche Kontrollen und seiner Systemkomponenten («IMSOC-Verordnung») (ABl. L 261 vom 14.10.2019, S. 37).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*). 2. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*). 3. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS; SR *916.443.10*). 4. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI; SR *916.443.106*). 5. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-In Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen bezieht die Kommission die Schweiz gemäss der Entscheidung 2004/292/EG der Kommission in das System TRACES ein.
+\1. Die Schweiz wird in das Informationsmanagementsystem für amtliche Kontrollen und alle seine Systemkomponenten gemäss der Durchführungsverordnung (EU) 2019/1715 der Kommission integriert. Die Schweiz benennt zu diesem Zweck eine Kontaktstelle.
 
-Der Gemischte Veterinärausschuss legt erforderlichenfalls ergänzende bzw. Übergangsbestimmungen fest.
+Der Gemischte Veterinärausschuss legt erforderlichenfalls ergänzende Bestimmungen fest.
 
-### Kapitel II Veterinärrechtliche und tierzüchterische Kontrollen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz
+\2. Die Vertragsparteien leisten einander gemäss den Artikeln 104 bis 107 der Verordnung (EU) 2017/625 Amtshilfe, um die ordnungsgemässe Anwendung dieser Anlage zu gewährleisten. Die Anwendung des Artikels 108 der Verordnung (EU) 2017/625 fällt in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-### A. Rechtsvorschriften\*
+### Kapitel II Veterinärrechtliche und tierzüchterische Kontrollen und Bedingungen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+### A. Rechtsvorschriften
+
+[^annex5-lvlu1-chapII-lvlA-1]
+
+[^annex5-lvlu1-chapII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 Die veterinärrechtlichen und tierzüchterischen Kontrollen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz werden gemäss den Bestimmungen der folgenden Rechtsakte durchgeführt:
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Richtlinie 89/608/EWG des Rates vom 21. November 1989 betreffend die gegenseitige Unterstützung der Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission, um die ordnungsgemässe Anwendung der tierärztlichen und tierzuchtrechtlichen Vorschriften zu gewährleisten (ABl. L 351 vom 2.12.1989, S. 34) 2. Richtlinie 90/425/EWG des Rates vom 26. Juni 1990 zur Regelung der veterinärrechtlichen und tierzüchterischen Kontrollen im innergemeinschaftlichen Handel mit lebenden Tieren und Erzeugnissen im Hinblick auf den Binnenmarkt (ABl. L 224 vom 18.8.1990, S. 29)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 3. Verordnung des EVD vom 16. Mai 2007 über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten (EDAV-Kontrollverordnung; SR *916.443.106*) 4. Verordnung vom 28. November 2014 über die Ein-, Durch und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*) 5. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. Betreffend die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Kapitel vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 3. Durchführungsverordnung (EU) 2020/2235 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Tieren und Waren und für deren Verbringungen innerhalb der Union, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung der Verordnung (EG) Nr. 599/2004, der Durchführungsverordnungen (EU) Nr. 636/2014 und (EU) 2019/628, der Richtlinie 98/68/EG und der Entscheidungen 2000/572/EG, 2003/779/EG und 2007/240/EG (ABl. L 442 vom 30.12.2020, S. 1). 4. Durchführungsverordnung (EU) 2020/2236 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen für den Eingang in die Union von Sendungen von Wassertieren und von bestimmten Erzeugnissen tierischen Ursprungs aus Wassertieren und für deren Verbringungen innerhalb der Union sowie hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen und zur Aufhebung der Verordnung (EG) Nr. 1251/2008 (ABl. L 442 vom 30.12.2020, S. 410). 5. Durchführungsverordnung (EU) 2021/403 der Kommission vom 18. März 2021 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Landtieren und ihres Zuchtmaterials und für deren Verbringungen zwischen Mitgliedstaaten, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung des Beschlusses 2010/470/EU (ABl. L 113 vom 31.3.2021, S. 1).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57. 2. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU; SR *916.443.11*). 3. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU-EDI; SR *916.443.111*). 4. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*). 5. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-In den in Artikel 8 der Richtlinie 90/425/EWG vorgesehenen Fällen setzen sich die zuständigen Behörden eines Bestimmungsmitgliedstaats unverzüglich mit den zuständigen Behörden des Versandmitgliedstaats in Verbindung. Diese ergreifen die erforderlichen Massnahmen und teilen der zuständigen Behörde am Versandort sowie der Kommission die Art der vorgenommenen Kontrollen, ihre Entscheidungen und die Gründe für diese Entscheidungen mit.
+Für den Handel mit lebenden Tieren und Zuchtmaterial sowie für den Grenzweidegang von Tieren zwischen der Europäischen Union und der Schweiz werden die in dieser Anlage vorgesehenen Gesundheitsbescheinigungen verwendet.
 
-Die Anwendung der Artikel 10, 11 und 16 der Richtlinie 89/608/EWG sowie der Artikel 9 und 22 der Richtlinie 90/425/EWG fällt in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+In den in den Artikeln 102 und 104 bis 107 der Verordnung (EU) 2017/625 vorgesehenen Fällen setzen sich die zuständigen Behörden eines Bestimmungsmitgliedstaats unverzüglich mit den zuständigen Behörden des Versandmitgliedstaats in Verbindung. Diese ergreifen die erforderlichen Massnahmen und teilen der zuständigen Behörde am Versandort sowie der Kommission die Art der vorgenommenen Kontrollen, ihre Entscheidungen und die Gründe für diese Entscheidungen mit.
 
 ### C. Besondere Durchführungsbestimmungen für Tiere, die zum Grenzweidegang bestimmt sind
 
 \1. Definitionen
 
-Weidegang: das Treiben von Tieren auf einen Gebietsstreifen von 10 km diesseits und jenseits der Grenze zwischen einem Mitgliedstaat der Europäischen Union und der Schweiz. In gerechtfertigten Sonderfällen können die jeweils zuständigen Behörden einen breiteren Gebietsstreifen diesseits und jenseits der Grenze zwischen der Schweiz und der Europäischen Union festlegen.
+Grenzweidegang: das Treiben von Tieren auf einen Gebietsstreifen von 10 km diesseits und jenseits der Grenze zwischen einem Mitgliedstaat der Europäischen Union und der Schweiz. In gerechtfertigten Sonderfällen können die jeweils zuständigen Behörden einen breiteren Gebietsstreifen diesseits und jenseits der Grenze zwischen der Schweiz und der Europäischen Union festlegen.
 
 Tagesweidegang: Weidegang, bei dem die Tiere bei Tagesende wieder in ihren Herkunftsbetrieb im Mitgliedstaat der Europäischen Union oder in der Schweiz zurückgetrieben werden.
 
-\2. Für den Grenzweidegang zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gelten die Bestimmungen der Entscheidung 2001/672/EG der Kommission[^annex5-lvlu1-chapII-lvlC-1] entsprechend. Im Rahmen dieses Anhangs gilt Artikel 1 der Entscheidung 2001/672/EG jedoch vorbehaltlich folgender Anpassungen:
+\2. Für den Grenzweidegang zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gelten die Bedingungen für die grenzüberschreitende Verbringung von Tieren gemäss der Verordnung (EU) 2016/429, der Delegierten Verordnung (EU) 2020/688 und der Delegierten Verordnung (EU) 2019/2035. Die Bestimmungen von Artikel 139 der Verordnung (EU) 2016/429 gelten entsprechend.
 
-- – Der Zeitraum 1. Mai bis 15. Oktober wird durch «Kalenderjahr» ersetzt.
-- – Für die Schweiz sind die in Artikel 1 der Entscheidung 2001/672/EG genannten und in dem entsprechenden Anhang festgelegten Teilgebiete Folgende:
-- **Schweiz**
-  - [tab] Kanton Zürich
-  - [tab] Kanton Bern
-  - [tab] Kanton Luzern
-  - [tab] Kanton Uri
-  - [tab] Kanton Schwyz
-  - [tab] Kanton Obwalden
-  - [tab] Kanton Nidwalden
-  - [tab] Kanton Glarus
-  - [tab] Kanton Zug
-  - [tab] Kanton Freiburg
-  - [tab] Kanton Solothurn
-  - [tab] Kanton Basel-Stadt
-  - [tab] Kanton Basel-Landschaft
-  - [tab] Kanton Schaffhausen
-  - [tab] Kanton Appenzell Ausserrhoden
-  - [tab] Kanton Appenzell Innerrhoden
-  - [tab] Kanton St. Gallen
-  - [tab] Kanton Graubünden
-  - [tab] Kanton Aargau
-  - [tab] Kanton Thurgau
-  - [tab] Kanton Tessin
-  - [tab] Kanton Waadt
-  - [tab] Kanton Wallis
-  - [tab] Kanton Neuenburg
-  - [tab] Kanton Genf
-  - [tab] Kanton Jura
+\3. In Anwendung der Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere ihres Artikels 7 (Registrierung) sowie der Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V; SR *916.404.1*), insbesondere ihres 3. Kapitels, Abschnitt 1 (Inhalt der TVD), weist die Schweiz jedem Weideland eine spezifische Registriernummer zu, die in der nationalen Datenbank für Rinder erfasst wird.
 
-In Anwendung der Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere ihres Artikels 7 (Registrierung), sowie der Verordnung vom 26. November 2011 über die Tierverkehr-Datenbank (TVD-Verordnung; SR *916.404.1*), insbesondere ihres Abschnitts 2 (Inhalt der Datenbank), teilt die Schweiz jedem Weideplatz eine spezifische Registriernummer zu, die in der nationalen Datenbank für Rinder erfasst wird.
+\4. Beim Grenzweidegang zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz trifft der amtliche Tierarzt des Versandlandes folgende Massnahmen:
 
-\3. Beim Grenzweidegang zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz trifft der amtliche Tierarzt des Versandlandes folgende Massnahmen:
+- a) Er informiert die zuständige Behörde des Bestimmungsortes (örtliches Veterinäramt) am Tag der Ausstellung der Bescheinigung, spätestens jedoch innerhalb von 24 Stunden vor der geplanten Ankunft der Tiere, über das informatisierte System zum Verbund der Veterinärbehörden gemäss der Durchführungsverordnung (EU) 2019/1715 über die Versendung der Tiere;
+- b) er stellt eine Bescheinigung gemäss der Durchführungsverordnung (EU) 2021/403 aus.
 
-- a) Er informiert die zuständige Behörde des Bestimmungsortes (örtliches Veterinäramt) am Tag der Ausstellung der Bescheinigung, spätestens jedoch innerhalb von 24 Stunden vor der geplanten Ankunft der Tiere, über das informatisierte System zum Verbund der Veterinärbehörden gemäss Artikel 20 der Richtlinie 90/425/EWG über die Versendung der Tiere;
-- b) er untersucht die Tiere innerhalb von 48 Stunden vor ihrer Verbringung auf das Grenzweideland; die Tiere müssen vorschriftsmässig gekennzeichnet sein;
-- c) er stellt nach dem Muster gemäss Nummer 9 eine Bescheinigung aus.
+\5. Die Tiere stehen während der gesamten Weidezeit unter zollamtlicher Kontrolle.
 
-\4. Die Tiere stehen während der gesamten Weidezeit unter zollamtlicher Kontrolle.
-
-\5. Der Tierhalter muss:
+\6. Der Tierhalter muss:
 
 - a) schriftlich erklären, dass er ebenso wie jeder andere Tierhalter in einem Mitgliedstaat der Europäischen Union oder der Schweiz allen Massnahmen, die in Anwendung der Vorschriften dieses Anhangs getroffen werden, sowie allen anderen auf lokaler Ebene eingeführten Massnahmen nachkommt;
 - b) die in Anwendung dieses Anhangs anfallenden Kontrollkosten übernehmen;
 - c) die von den amtlichen Stellen des Versandlandes oder des Bestimmungslandes vorgeschriebenen zollamtlichen oder tierärztlichen Kontrollen in jeder erdenklichen Weise unterstützen.
 
-\6. Bei der Rückkehr der Tiere am Ende oder vor Ablauf der Weidesaison trifft der für den Weideplatz zuständige amtliche Tierarzt folgende Massnahmen:
+\7. Bei der Rückkehr der Tiere am Ende oder vor Ablauf der Weidesaison trifft der für den Weideplatz zuständige amtliche Tierarzt folgende Massnahmen:
 
-- a) Er informiert die zuständige Behörde des Bestimmungsortes (örtliches Veterinäramt) am Tag der Ausstellung der Bescheinigung, spätestens jedoch innerhalb von 24 Stunden vor der geplanten Ankunft der Tiere, über das informatisierte System zum Verbund der Veterinärbehörden gemäss Artikel 20 der Richtlinie 90/425/EWG über die Versendung der Tiere;
-- b) er untersucht die Tiere innerhalb von 48 Stunden vor ihrer Verbringung auf das Grenzweideland; die Tiere müssen vorschriftsmässig gekennzeichnet sein;
-- c) er stellt nach dem Muster gemäss Nummer 9 eine Bescheinigung aus.
+- a) Er informiert die zuständige Behörde des Bestimmungsortes (örtliches Veterinäramt) am Tag der Ausstellung der Bescheinigung, spätestens jedoch innerhalb von 24 Stunden vor der geplanten Ankunft der Tiere, über das informatisierte System zum Verbund der Veterinärbehörden gemäss der Durchführungsverordnung (EU) 2019/1715 über die Versendung der Tiere;
+- b) er stellt eine Bescheinigung gemäss der Durchführungsverordnung (EU) 2021/403 aus.
 
-\7. Bei Auftreten von Tierseuchen sind im Einvernehmen zwischen den zuständigen Veterinärbehörden geeignete Massnahmen zu treffen. Die Frage etwaiger Kosten wird von den genannten Behörden geprüft. Erforderlichenfalls wird der Gemischte Veterinärausschuss damit befasst.
+\8. Bei Auftreten von Tierseuchen sind in Einvernehmen zwischen den zuständigen Veterinärbehörden geeignete Massnahmen zu treffen. Die Frage etwaiger Kosten wird von den genannten Behörden geprüft. Erforderlichenfalls wird der Gemischte Veterinärausschuss damit befasst.
 
-\8. Abweichend von den Bestimmungen gemäss den Nummern 1 bis 7 gilt im Falle des Tagesweidegangs zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz Folgendes:
+\9. Abweichend von den Bestimmungen gemäss den Nummern 1 bis 8 gilt im Falle des Tagesweidegangs zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz Folgendes:
 
-- a) Die Tiere kommen nicht mit Tieren eines anderen Betriebes in Berührung.
-- b) Der Halter der Tiere verpflichtet sich, die zuständige Veterinärbehörde über jeglichen Kontakt zu Tieren anderer Betriebe zu unterrichten.
-- c) Die unter Nummer 9 festgelegte Gesundheitsbescheinigung ist den zuständigen Veterinärbehörden jedes Kalenderjahr bei der ersten Verbringung der betreffenden Tiere in einen Mitgliedstaat der Europäischen Union oder in die Schweiz vorzulegen. Sie ist den zuständigen Veterinärbehörden jederzeit auf Verlangen vorzulegen.
-- d) Die Bestimmungen gemäss den Nummern 2 und 3 gelten nur für die erste Versendung der Tiere in einen Mitgliedstaat der Europäischen Union oder in die Schweiz in dem betreffenden Kalenderjahr.
-- e) Die Bestimmungen gemäss Nummer 6 finden keine Anwendung.
-- f) Der Halter der Tiere verpflichtet sich, die zuständige Veterinärbehörde über das Ende der Weidezeit zu unterrichten.
+- a) Die Tiere kommen nicht mit Tieren eines anderen Betriebes in Berührung;
+- b) der Halter der Tiere verpflichtet sich, die zuständige Veterinärbehörde über jeglichen Kontakt zu Tieren anderer Betriebe zu unterrichten;
+- c) die Gesundheitsbescheinigung ist den zuständigen Veterinärbehörden jedes Kalenderjahr bei der ersten Verbringung der betreffenden Tiere in einen Mitgliedstaat der Europäischen Union oder in die Schweiz vorzulegen. Sie ist den zuständigen Veterinärbehörden jederzeit auf Verlangen vorzulegen;
+- d) die Bestimmungen gemäss den Nummern 2 und 4 gelten nur für die erste Versendung der Tiere in einen Mitgliedstaat der Europäischen Union oder in die Schweiz in dem betreffenden Kalenderjahr;
+- e) die Bestimmungen gemäss Nummer 7 finden keine Anwendung;
+- f) der Halter der Tiere verpflichtet sich, die zuständige Veterinärbehörde über das Ende der Weidezeit zu unterrichten.
 
-\9. Muster der Gesundheitsbescheinigung für den Grenzweidegang oder den Tagesweidegang von Rindern und für ihre Rückkehr vom Grenzweidegang:
-
-Muster der Gesundheitsbescheinigung für den Grenzweidegang oder den Tagesweidegang von Rindern und für ihre Rückkehr vom Grenzweidegang
-
-<table>
-<tr><th></th><th colspan="4">**Europäische Union**</th><th colspan="4">Bescheinigung für den innergemeinschaftlichen Handel</th></tr>
-<tr><td>**Teil I: Angaben zur Sendung**</td><td colspan="4">I.1. Absender Name Anschrift Land</td><td colspan="2">I.2. Bezugsnr. der Bescheinigung</td><td colspan="2">I.2.a. Lokale Bezugsnummer</td></tr>
-<tr><td></td><td colspan="4"></td><td colspan="4">I.3. Zuständige oberste Behörde</td></tr>
-<tr><td></td><td colspan="4"></td><td colspan="4">I.4. Zuständige örtliche Behörde</td></tr>
-<tr><td></td><td colspan="4">I.5. Empfänger Name Anschrift Land</td><td colspan="2">I.6. Nr. der relevanten Originalbescheinigungen</td><td colspan="2">Nr. der Begleitdokumente</td></tr>
-<tr><td></td><td colspan="4"></td><td colspan="4">I.7. Händler Name Zulassungsnummer</td></tr>
-<tr><td></td><td>I.8. Herkunftsland</td><td>ISO- Code</td><td>I.9. Herkunftsregion</td><td>Code</td><td>I.10. Bestimmungs-land</td><td>ISO-Code</td><td>I.11. Bestimmungsregion</td><td>Code</td></tr>
-<tr><td></td><td colspan="4">I.12. Herkunftsort/Fangort Haltungsbetrieb [F035] Sammelstelle [F035] Händlerbetrieb [F035] Zugelassene Einrichtung [F035] Besamungsstation [F035] zugelassener Aquakulturbetrieb [F035] Embryonenentnahmeeinheit [F035] Haltungsbetrieb [F035] Andere [F035] Name Zulassungsnummer Anschrift Postleitzahl</td><td colspan="4">I.13. Bestimmungsort Haltungsbetrieb [F035] Sammelstelle[F035] Händlerbetrieb [F035] Zugelassene Einrichtung [F035] Besamungsstation [F035] zugelassener Aquakulturbetrieb [F035] Embryonenentnahmeeinheit [F035] Haltungsbetrieb [F035] Andere [F035] Name Zulassungsnummer Anschrift Postleitzahl</td></tr>
-<tr><td></td><td colspan="4">I.14. Verladeort Postleitzahl</td><td colspan="4">[tab] I.15. Datum und Uhrzeit des Abtransports</td></tr>
-<tr><td></td><td colspan="4">I.16. Transportmittel Flugzeug [F035] Schiff [F035] Eisenbahnwaggon [F035] Strassenfahrzeug [F035] Andere [F035] Kennzeichnung Nummer(n)</td><td colspan="4">I.17. Transportunternehmen Name Zulassungsnummer Anschrift Postleitzahl Mitgliedstaat</td></tr>
-<tr><td></td><td colspan="4">I.21.</td><td colspan="2">I.20. Anzahl/Menge</td><td colspan="2">I.22. Anzahl Packstücke</td></tr>
-<tr><td></td><td colspan="8">I.23. Plomben- und Containernummer</td></tr>
-<tr><td></td><td colspan="8">I.25. Tiere/Erzeugnisse zertifiziert für folgenden Zweck: Wandertierhaltung [F035]</td></tr>
-<tr><td></td><td colspan="4">I.26. Durchfuhr durch ein Drittland [F035] Drittland ISO-Code Drittland ISO-Code Drittland ISO-Code Ausgangsstelle Code Eingangsstelle Nr. der Grenzkontrollstelle</td><td colspan="4">I.27. Durchfuhr durch Mitgliedstaaten [F035] Mitgliedstaat ISO-Code Mitgliedstaat ISO-Code Mitgliedstaat ISO-Code</td></tr>
-<tr><td></td><td colspan="4">I.28. Ausfuhr [F035] Drittland ISO-Code Ausgangsstelle Code</td><td colspan="4">I.29. Geschätzte Transportdauer</td></tr>
-<tr><td></td><td colspan="8">[tab] I.30. Transportplan Ja [F035] Nein [F035]</td></tr>
-<tr><td></td><td colspan="8">I.31. Identifizierung der Tiere Warencode (HS-Code) Ausweis-Nr.</td></tr>
-</table>
-
-<table>
-<tr><th></th><th colspan="2">Europäische Union</th><th colspan="2">2005/22/EG Weidegang</th></tr>
-<tr><th></th><th>II. Gesundheitsinformation</th><th colspan="2">II.a. Bezugsnr. der Bescheinigung</th><th>II.b. Lokale Bezugsnummer</th></tr>
-<tr><td>Teil II: Bescheinigung</td><td colspan="4">A. Gesundheitsbescheinigung für den Grenzweidegang bzw. den Tagesweidegang von Rindern Der unterzeichnete amtliche Tierarzt bestätigt, dass jedes einzelne Tier der nachstehend bezeichneten Sendung folgende Anforderungen erfüllt: A.1. Es stammt aus einem Herkunftsbetrieb und einem Herkunftsgebiet, der (das) weder nach Gemeinschaftsrecht noch nach einzelstaatlichem Recht aufgrund von Rinderseuchen gesperrt oder beschränkt ist. A.2. Sein Herkunftsbestand liegt in einem Mitgliedstaat oder einem Teil seines Hoheitsgebiets, a) in dem ein mit dem Beschluss .../.../EG der Kommission und – im Falle der Schweiz – ein mit dem Abkommen zwischen der Europäischen Gemeinschaft und der Schweiz vom 21. Juni 1999 (Anhang 11 Anlage 2 Ziffer I) genehmigtes Überwachungsnetz eingerichtet wurde; b) der amtlich anerkannt leukose-, tuberkulose- und brucellosefrei ist.</td></tr>
-<tr><td></td><td colspan="4">A.3. Es handelt sich um ein Zuchttier<sup>(3)</sup> bzw. Nutztier<sup>(1)</sup>, das: a) soweit feststellbar – in den letzten 30 Tagen oder, falls es sich um weniger als 30 Tage alte Tiere handelt, von Geburt an im Herkunftsbetrieb gehalten wurden, wobei während dieser Zeit keine aus einem Drittland eingeführten Tiere in diesen Betrieb eingestellt worden sind, es sei denn, sie wurden von allen anderen Tieren des Bestands getrennt gehalten; b) in den letzten 30 Tagen nicht mit Tieren in Berührung gekommen ist, deren Herden die Anforderungen unter Nummer 2 nicht erfüllen.</td></tr>
-<tr><td></td><td colspan="4">A.4. Die vorstehend bezeichneten Tiere wurden in den 48 Stunden vor ihrer geplanten Versendung, namentlich am ... (Datum), untersucht und für frei von Anzeichen einer Infektionskrankheit befunden.</td></tr>
-<tr><td></td><td colspan="4">A.5. Der Herkunftsbetrieb und ggf. die zugelassene Sammelstelle sowie das Gebiet, in dem sie liegen, unterliegen weder nach geltendem Gemeinschaftsrecht noch nach nationalem Recht Verboten oder Beschränkungen aufgrund von Rinderseuchen.</td></tr>
-<tr><td></td><td colspan="4">A.6. Alle Anforderungen der Richtlinie 64/432/EWG des Rates sind erfüllt.</td></tr>
-<tr><td></td><td colspan="4">A.7. Die Tiere erfüllen die zusätzlichen Garantien in Bezug auf infektiöse Rhinotracheitis/infektiöse pustulöse Vulvovaginitis gemäss der Entscheidung 2004/558/EG der Kommission, deren Bestimmungen gemäss dem Abkommen zwischen der Europäischen Gemeinschaft und der Schweiz vom 21. Juni 1999 entsprechend gelten.</td></tr>
-<tr><td></td><td colspan="4">A.8. Zum Zeitpunkt der Untersuchung waren die vorstehend bezeichneten Tiere transportfähig im Sinne der Verordnung (EG) Nr. 1/2005 des Rates.</td></tr>
-<tr><td></td><td colspan="4">A.9. Datum des Auftriebs<sup>(6)</sup>:</td></tr>
-<tr><td></td><td colspan="4">A.10. Voraussichtliches Datum des Abtriebs: ...</td></tr>
-<tr><td></td><td colspan="4">B. Gesundheitsbescheinigung für vom Grenzweidegang zurückkehrende Rinder (normale oder verfrühte Rückkehr)</td></tr>
-<tr><td></td><td colspan="4">B.1. Die vorstehend bezeichneten Tiere [Liste der Tiere bei verfrühter Rückkehr<sup>(3)</sup> oder Liste der in der entsprechenden Originalbescheinigung angegebenen Tiere<sup>(3)</sup>, <sup>(7)</sup>, <sup>(8)</sup>] wurden am ... (Tag des Verladens der Tiere bzw. 48 Stunden vor ihrem Abtransport) untersucht und für frei von Anzeichen einer Infektionskrankheit befunden.</td></tr>
-<tr><td></td><td colspan="4">B.2. Das Weideland, auf dem sich die Tiere aufgehalten haben, ist nicht nach geltendem Gemeinschafts- bzw. nationalem Recht wegen Vorliegens einer Rinderkrankheit gesperrt oder anderweitig beschränkt, und während der Weidezeit ist kein Fall von Tuberkulose, Brucellose oder Leukose festgestellt worden.</td></tr>
-<tr><td></td><td colspan="4">\* Abschnitt A betrifft den Hinweg zum Grenzweidegang oder Tagesweidegang, Abschnitt B die Rückkehr vom Grenzweidegang.</td></tr>
-<tr><td></td><td colspan="4">(1) Die obligatorischen Angaben in dieser Bescheinigung sind am Tag der Ausstellung der Bescheinigung, spätestens jedoch innerhalb von 24 Stunden vor dem Tag der voraussichtlichen Ankunft der Tiere im informatisierten System zum Verbund der Veterinärbehörden gemäss Artikel 20 der Richtlinie 90/425/EWG zu erfassen.</td></tr>
-<tr><td></td><td colspan="4">(2) Diese Bescheinigung gilt ab dem Tag der in der Schweiz bzw. im Herkunftsmitgliedstaat durchgeführten Gesundheitskontrolle für die Dauer von zehn Tagen. Im Falle des Tagesweidegangs gilt sie für die gesamte Weidezeit.</td></tr>
-<tr><td></td><td colspan="4">(3) Nichtzutreffendes streichen.</td></tr>
-<tr><td></td><td colspan="4">(4) Im Falle des Tagesweidegangs gilt sie für die gesamte Weidezeit.</td></tr>
-<tr><td></td><td colspan="4">(5) Diese Erklärung entbindet die Transportunternehmer nicht von ihren gemeinschaftsrechtlichen Verpflichtungen, insbesondere hinsichtlich der Transportfähigkeit der Tiere.</td></tr>
-<tr><td></td><td colspan="4">(6) Die Registriernummer des Weideplatzes ist unter Nummer I.13 (Zulassungsnummer) dieser Bescheinigung angegeben.</td></tr>
-<tr><td></td><td colspan="4">(7) Falls Tiere noch während der Weidezeit aus gesundheitlichen Gründen in ihren Herkunftsbetrieb zurückbefördert werden und eine Gesundheitsbescheinigung mitführen, sind sie aus der ursprünglichen Liste zu streichen; die Liste ist in diesem Falle vom amtlichen Tierarzt abzuzeichnen.</td></tr>
-<tr><td></td><td colspan="4">(8) Die Nummer der für den Auftrieb erforderlichen Gesundheitsbescheinigung ist unter Nummer I.6 dieser Bescheinigung angegeben.</td></tr>
-<tr><td></td><td colspan="4">Amtlicher Tierarzt/Amtliche Tierärztin oder amtlicher Inspektor/amtliche Inspektorin Name (in Grossbuchstaben): Qualifikation und Amtsbezeichnung: Örtliches Veterinäramt: Nr. des örtlichen Veterinäramts: Datum: Unterschrift: Stempel:</td></tr>
-</table>
-
-[^annex5-lvlu1-chapII-lvlC-1]: Entscheidung 2001/672/EG der Kommission vom 20. August 2001 mit besonderen Regeln für die Bewegungen von Rindern im Fall des Auftriebs auf die Sommerweide in Berggebieten (ABl. L 235 vom 4.9.2001, S. 23).
-
-### Kapitel III Bedingungen für den Handel zwischen der Europäischen Union und der Schweizerischen Eidgenossenschaft
+### Kapitel III Veterinärkontrollen bei Einfuhren aus Drittländern
 
 ### A. Rechtsvorschriften
 
-Für den Handel mit lebenden Tieren, ihrem Sperma, ihren Eizellen und Embryonen sowie für den Grenzweidegang von Rindern zwischen der Gemeinschaft und der Schweiz werden die im vorliegenden Anhang vorgesehenen und in TRACES verfügbaren Bescheinigungen gemäss den Bestimmungen der Verordnung (EG) Nr. 599/2004 der Kommission[^annex5-lvlu1-chapIII-lvlA-1] verwendet.
+[^annex5-lvlu1-chapIII-lvlA-1]
 
-[^annex5-lvlu1-chapIII-lvlA-1]: Verordnung (EG) Nr. 599/2004 der Kommission vom 30. März 2004 zur Festlegung einheitlicher Musterbescheinigungen und Kontrollberichte für den innergemeinschaftlichen Handel mit Tieren und Erzeugnissen tierischen Ursprungs (ABl. L 94 vom 31.3.2004, S. 44).
-
-### Kapitel IV: Veterinärkontrollen bei Einfuhren aus Drittländern
-
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex5-lvlu1-chapIII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 Die Kontrollen bei Einfuhren aus Drittländern werden nach den Bestimmungen der folgenden Rechtsakte durchgeführt:
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Verordnung (EG) Nr. 282/2004 der Kommission vom 18. Februar 2004 zur Festlegung eines Dokuments für die Zollanmeldung und Veterinärkontrolle von aus Drittländern in die Gemeinschaft eingeführten Tieren (ABl. L 49 vom 19.2.2004, S. 11) 2. Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1) 3. Richtlinie 91/496/EWG des Rates vom 15. Juli 1991 zur Festlegung von Grundregeln für die Veterinärkontrollen von aus Drittländern in die Gemeinschaft eingeführten Tieren und zur Änderung der Richtlinien 89/662/EWG, 90/425/EWG und 90/675/EWG (ABl. L 268 vom 24.9.1991, S. 56) 4. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3) 5. Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10) 6. Entscheidung 97/794/EG der Kommission vom 12. November 1997 mit Durchführungsbestimmungen zur Richtlinie 91/496/EWG des Rates hinsichtlich der Veterinärkontrollen für aus Drittländern einzuführende lebende Tiere (ABl. L 323 vom 26.11.1997, S. 31) 7. Entscheidung 2007/275/EG der Kommission vom 17. April 2007 mit Verzeichnissen von Tieren und Erzeugnissen, die gemäss den Richtlinien 91/496/EWG und 97/78/EG des Rates an Grenzkontrollstellen zu kontrollieren sind (ABl. L 116 vom 4.5.2007, S. 9)</td><td>1. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 2. Verordnung vom 18. April 2007 über die Ein- und Durchfuhr von Tieren aus Drittstaaten im Luftverkehr (EDTV; SR *916.443.12*) 3. Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*) 4. Verordnung des EDI vom 16. Mai 2007 über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten (EDAV-Kontrollverordnung; SR *916.443.106*) 5. Verordnung vom 28. November 2014 über die Ein-, Durch und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*) 6. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*) 7. Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimittelverordnung, TAMV; SR *812.212.27*)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. Betreffend die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Kapitel vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 3. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3). 4. Artikel 118 der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43).</td><td>1. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS; SR *916.443.10*). 2. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI; SR *916.443.106*). 3. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*). 4. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*). 5. Verordnung vom 18. August 2004 über die Tierarzneimittel (TAMV; SR *812.212.27*).</td></tr>
 </table>
 
-### B. Durchführungsbestimmungen
+**B.** **Durchführungsbestimmungen**
 
-\1. Für die Zwecke der Anwendung des Artikels 6 der Richtlinie 91/496/EWG sind die für Veterinärkontrollen lebender Tiere zugelassenen Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union im Anhang I der Entscheidung 2009/821/EG aufgeführt[^annex5-lvlu1-chapIV-lvlB-1].
+\1. Für die Zwecke der Anwendung der Artikel 59 und 60 der Verordnung (EU) 2017/625 werden die Listen der für Veterinärkontrollen lebender Tiere zugelassenen Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union auf der Website der Europäischen Kommission veröffentlicht.
 
-\2. Für die Zwecke der Anwendung des Artikels 6 der Richtlinie 91/496/EWG sind für die Schweiz folgende Grenzkontrollstellen zuständig:
+\2. Für die Zwecke der Anwendung der Artikel 59 und 60 der Verordnung (EU) 2017/625 sind für die Schweiz folgende Grenzkontrollstellen zuständig:
 
 <table>
-<tr><td>Bezeichnung</td><td>TRACES-Code</td><td>Typ</td><td>Kontrollzentrum</td><td>Zulassungsart</td></tr>
-<tr><td>Flughafen Zürich</td><td>CHZRH4</td><td>A</td><td>Zentrum 3</td><td>O – Andere Tiere (einschliesslich Zootiere)\*</td></tr>
-<tr><td>Flughafen Genf</td><td>CHGVA4</td><td>A</td><td>Zentrum 2</td><td>O – Andere Tiere (einschliesslich Zootiere)\*</td></tr>
-<tr><td colspan="5">\* Zulassungsarten gemäss der Entscheidung 2009/821/EG der Kommission.</td></tr>
+<tr><th>Name</th><th>TRACES-Code</th><th>Art der Lizenz</th></tr>
+<tr><td>Flughafen Zürich</td><td>CHZRH4</td><td>LA-O**<sup>\*</sup>**</td></tr>
+<tr><td>Flughafen Genf</td><td>CHGVA4</td><td>LA-O**<sup>\*</sup>**</td></tr>
 </table>
+
+**<sup>\*</sup>** Zulassungsarten gemäss der Durchführungsverordnung (EU) 2019/1014 der Kommission vom 12. Juni 2019 mit detaillierten Bestimmungen betreffend die Mindestanforderungen an Grenzkontrollstellen, einschliesslich Kontrollzentren, und das Format, die Kategorien und die Abkürzungen, die bei der Auflistung der Grenzkontrollstellen und der Kontrollstellen zu verwenden sind (ABl. L 165 vom 21.6.2019, S. 10).
 
 Spätere Änderungen der Liste der Grenzkontrollstellen, ihrer Kontrollzentren und der Zulassungsart fallen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-Insbesondere auf der Grundlage des Artikels 19 der Richtlinie 91/496/EG und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+\3. Insbesondere auf der Grundlage des Artikels 116 der Verordnung (EU) 2017/625 und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-\3. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen wendet gleichzeitig mit den Mitgliedstaaten der Europäischen Union die in der Anlage 3 dieses Anhangs aufgelisteten Einfuhrvorschriften und die Durchführungsmassnahmen an.
+\4. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen wendet gleichzeitig mit den Mitgliedstaaten der Europäischen Union die in der Anlage 3 zu diesem Anhang aufgelisteten Einfuhrvorschriften und die Durchführungsmassnahmen an.
 
-Es kann strengere Massnahmen festlegen und zusätzliche Garantien verlangen. Der Gemischte Veterinärausschuss tritt zusammen, um über geeignete Massnahmen zur Klärung der Lage zu beraten.
+Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen kann strengere Massnahmen festlegen und zusätzliche Garantien verlangen. Der Gemischte Veterinärausschuss tritt zusammen, um über geeignete Massnahmen zur Klärung der Lage zu beraten.
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen und die Mitgliedstaaten der Europäischen Union teilen sich gegenseitig die spezifischen auf bilateraler Ebene festgelegten Einfuhrbedingungen, die nicht Gegenstand einer Harmonisierung auf Ebene der Union sind, mit.
 
-\4. Die unter Nummer 1 genannten Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union führen Kontrollen der für die Schweiz bestimmten Einfuhren aus Drittländern nach den Bestimmungen in Kapitel IV Abschnitt A der vorliegenden Anlage durch.
+\5. Die unter Nummer 1 genannten Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union führen Kontrollen der für die Schweiz bestimmten Einfuhren aus Drittländern nach den Bestimmungen in Abschnitt A dieses Kapitels durch.
 
-\5. Die unter Nummer 2 genannten Grenzkontrollstellen der Schweiz führen Kontrollen der für die Mitgliedstaaten der Europäischen Union bestimmten Einfuhren aus Drittländern nach den Bestimmungen in Abschnitt A dieses Kapitels durch.
+\6. Die unter Nummer 2 genannten Grenzkontrollstellen der Schweiz führen Kontrollen der für die Mitgliedstaaten der Europäischen Union bestimmten Einfuhren aus Drittländern nach den Bestimmungen in Abschnitt A dieses Kapitels durch.
 
-[^annex5-lvlu1-chapIV-lvlB-1]: Entscheidung 2009/821/EG der Kommission vom 28. September 2009 zur Aufstellung eines Verzeichnisses zugelassener Grenzkontrollstellen, zur Festlegung bestimmter Vorschriften für die von Veterinärsachverständigen der Kommission durchgeführten Inspektionen und zur Definition der Veterinäreinheiten in TRACES (ABl. L 296 vom 12.11.2009, S. 1).
+\7. Die Schweiz gilt bis zum 1. Juli 2028 für die Zwecke der Anwendung des Artikels 118 der Verordnung (EU) 2019/6 nicht als Drittland.
 
-### Kapitel V: Besondere Vorschriften
+Dieser Absatz wird vom Gemischten Veterinärausschuss bis zum 1. Juli 2028 überprüft.
 
-### 1. Kennzeichnung von Tieren
+### Kapitel IV Sonderbestimmungen
 
-### A. Rechtsvorschriften\*
+### I. Kennzeichnung von Tieren
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+### A. Rechtsvorschriften
+
+[^annex5-lvlu1-chapIV-lvlI-lvlA-1]
+
+[^annex5-lvlu1-chapIV-lvlI-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 Die Kontrollen bei Einfuhren aus Drittländern werden nach den Bestimmungen der folgenden Rechtsakte durchgeführt:
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Richtlinie 2008/71/EG des Rates vom 15. Juli 2008 über die Kennzeichnung und Registrierung von Schweinen (ABl. L 213 vom 8.8.2008, S. 31) 2. Verordnung (EG) Nr. 1760/2000 des Europäischen Parlaments und des Rates vom 17. Juli 2000 zur Einführung eines Systems zur Kennzeichnung und Registrierung von Rindern und über die Etikettierung von Rindfleisch und Rindfleischerzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 820/97 des Rates (ABl. L 204 vom 11.8.2000, S. 1)</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere die Artikel 7 bis 15*f* (Registrierung und Kennzeichnung) 2. Verordnung vom 26. Oktober 2011 über die Tierverkehr-Datenbank (SR *916.404.1*)</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Abschnitt vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1).</td><td>1. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*), insbesondere Artikel 7 bis 15*f* (Registrierung und Kennzeichnung). 2. Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V; SR *916.404.1*).</td></tr>
 </table>
 
-### B. Durchführungsbestimmungen
+### II. Tierschutz
 
-- a) Die Anwendung des Artikels 4 Absatz 2 der Richtlinie 2008/71/EG fällt in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-- b) Insbesondere auf der Grundlage des Artikels 22 der Verordnung (EG) Nr. 1760/2000 und des Artikels 57 des Tierseuchengesetzes sowie des Artikels 1 der Verordnung vom 23. Oktober 2013 über die Koordination der Inspektionen auf Landwirtschaftsbetrieben (VKKL; SR *910.15*) fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+### A. Rechtsvorschriften
 
-### 2. Tierschutz
+[^annex5-lvlu1-chapIV-lvlII-lvlA-1]
 
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex5-lvlu1-chapIV-lvlII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Verordnung (EG) Nr. 1/2005 des Rates vom 22. Dezember 2004 über den Schutz von Tieren beim Transport und damit zusammenhängenden Vorgängen sowie zur Änderung der Richtlinien 64/432/EWG und 93/119/EG und der Verordnung (EG) Nr. 1255/97 (ABl. L 3 vom 5.1.2005, S. 1) 2. Verordnung (EG) Nr. 1255/97 des Rates vom 25. Juni 1997 zur Festlegung gemeinschaftlicher Kriterien für Aufenthaltsorte und zur Anpassung des im Anhang der Richtlinie 91/628/EWG vorgesehenen Transportplans (ABl. L 174 vom 2.7.1997, S. 1)</td><td>1. Tierschutzgesetz vom 16. Dezember 2005 (TSchG; SR *455*), insbesondere die Artikel 15 und 15*a* (Grundsätze, internationale Tiertransporte) 2. Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*), insbesondere die Artikel 169 bis 176 (Internationale Tiertransporte).</td></tr>
+<tr><td>1. Verordnung (EG) Nr. 1/2005 des Rates vom 22. Dezember 2004 über den Schutz von Tieren beim Transport und damit zusammenhängenden Vorgängen sowie zur Änderung der Richtlinien 64/432/EWG und 93/119/EG und der Verordnung (EG) Nr. 1255/97 (ABl. L 3 vom 5.1.2005, S. 1). 2. Verordnung (EG) Nr. 1255/97 des Rates vom 25. Juni 1997 zur Festlegung gemeinschaftlicher Kriterien für Aufenthaltsorte und zur Anpassung des im Anhang der Richtlinie 91/628/EWG vorgesehenen Transportplans (ABl. L 174 vom 2.7.1997, S. 1). 3. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Abschnitt vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1).</td><td>1. Tierschutzgesetz vom 16. Dezember 2005 (TSchG; SR *455*), insbesondere die Artikel 15 und 15*a* (Grundsätze, Internationale Tiertransporte). 2. Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*), insbesondere die Artikel 169 bis 176 (Internationale Tiertransporte).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
 - a) Die schweizerischen Behörden verpflichten sich, die Vorschriften der Verordnung (EG) Nr. 1/2005 auf den Handel zwischen der Schweiz und der Europäischen Union und auf die Einfuhr aus Drittländern anzuwenden.
-- b) In den in Artikel 26 der Verordnung (EG) Nr. 1/2005 vorgesehenen Fällen setzen sich die zuständigen Behörden eines Bestimmungsmitgliedstaats unverzüglich mit den zuständigen Behörden des Versandmitgliedstaats in Verbindung.
-- c) Die Anwendung der Artikel 10, 11 und 16 der Richtlinie 89/608/EWG des Rates fällt in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-- d) Insbesondere auf der Grundlage des Artikels 28 der Verordnung (EG) Nr. 1/2005 und des Artikels 208 der Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*) fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
-- e) Gemäss Artikel 15*a* Absatz 3 des Tierschutzgesetzes vom 16. Dezember 2005 (TSchG; SR *455*) dürfen Rinder, Schafe, Ziegen, Schweine, Schlachtpferde und Schlachtgeflügel nur im Bahn- oder Luftverkehr durch die Schweiz durchgeführt werden. Diese Frage wird vom Gemischten Veterinärausschuss geprüft.
+- b) Insbesondere auf der Grundlage des Artikels 116 der Verordnung (EU) 2017/625 und des Artikels 208 der Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*) fallen die Kontrollen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+- c) Gemäss Artikel 15*a* Absatz 3 des Tierschutzgesetzes vom 16. Dezember 2005 (TSchG; SR *455*) dürfen Rinder, Schafe, Ziegen, Schweine, Schlachtpferde und Schlachtgeflügel nur im Bahn- oder Luftverkehr durch die Schweiz durchgeführt werden. Diese Frage wird vom Gemischten Veterinärausschuss geprüft.
 
-### 3. Kontrollgebühren
+### III. Gebühren
 
 \1. Für veterinärrechtliche und tierzüchterische Kontrollen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz werden keine Gebühren erhoben.
 
-\2. Die schweizerischen Behörden verpflichten sich, bei Veterinärkontrollen von Einfuhren aus Drittländern die in der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vorgesehenen Gebühren zu erheben.
+\2. Die schweizerischen Behörden verpflichten sich, bei Veterinärkontrollen von Einfuhren aus Drittländern die in der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vorgesehenen Gebühren zu erheben.
 
 Anlage 6[^t-29]
 
 ## Tierische Erzeugnisse
 
-[^t-29]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Veterinärausschusses vom 17. Dez. 2015 ([AS 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)). Bereinigt gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Veterinärausschusses vom 12. Juni 2018, in Kraft seit 12. Juni 2018, mit Wirkung seit 1. Jan. 2017 ([AS 2018 3013](https://fedlex.data.admin.ch/eli/oc/2018/468)).
+[^t-29]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2026 des Gemischten Veterinärausschusses vom 24. Juli 2026, in Kraft seit 24. Juli 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
 ### Kapitel I Sektoren, in denen die Gleichwertigkeit der Rechtsvorschriften beiderseitig anerkannt wird
 
@@ -10637,7 +10152,7 @@ Anlage 6[^t-29]
 
 Die Bestimmungen der Verordnung (EG) Nr. 853/2004 finden entsprechend Anwendung.
 
-Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th></th><th colspan="3">Ausfuhren der Europäischen Union in die Schweiz und Schweizer Ausfuhren in die Europäische Union</th></tr>
@@ -10645,149 +10160,131 @@ Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist �
 <tr><th></th><th>Europäische Union</th><th>Schweiz</th><th></th></tr>
 <tr><td colspan="4">Tiergesundheit</td></tr>
 <tr><td colspan="4">1. Frischfleisch, auch Hackfleisch/Faschiertes, Fleischzubereitungen, Fleischerzeugnisse, nicht verarbeitete und ausgelassene Fette</td></tr>
-<tr><td>Haus-Huftiere Haus-Einhufer</td><td>Richtlinie 64/432/EWG Richtlinie 2002/99/EG\* Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
+<tr><td>Haus-Huftiere Haus-Einhufer</td><td>Verordnung (EU) 2016/429 Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
 <tr><td colspan="4">2. Zuchtwildfleisch, Fleischzubereitungen, Fleischerzeugnisse</td></tr>
-<tr><td>Andere als die vorstehend genannten zur Zucht gehaltenen Landsäugetiere</td><td>Richtlinie 64/432/EWG Richtlinie 92/118/EWG\*\* Richtlinie 2002/99/EG Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
-<tr><td>Zuchtlaufvögel Hasentiere</td><td>Richtlinie 92/118/EWG Richtlinie 2002/99/EG</td><td></td><td>Ja</td></tr>
+<tr><td>Andere als die vorstehend genannten zur Zucht gehaltenen Landsäugetiere</td><td>Verordnung (EU) 2016/429 Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40)* Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td>Zuchtlaufvögel Hasentiere</td><td>Verordnung (EU) 2016/429</td><td></td><td>Ja</td></tr>
 <tr><td colspan="4">3. Wildfleisch, Fleischzubereitungen, Fleischerzeugnisse</td></tr>
-<tr><td>Wild lebende Huftiere Hasentiere Andere Landsäugetiere Jagdfederwild</td><td>Richtlinie 2002/99/EG Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td>Wild lebende Huftiere Hasentiere Andere Landsäugetiere Jagdfederwild</td><td>Verordnung (EU) 2016/429 Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
 <tr><td colspan="4">4. Geflügelfrischfleisch, Fleischzubereitungen, Fleischerzeugnisse, Fette und ausgelassene Fette</td></tr>
-<tr><td>Geflügel</td><td>Richtlinie 92/118/EWG Richtlinie 2002/99/EG</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td>Geflügel</td><td>Verordnung (EU) 2016/429</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
 <tr><td colspan="4">5. Mägen, Blasen und Därme</td></tr>
-<tr><td>Rinder Schafe und Ziegen Schweine</td><td>Richtlinie 64/432/EWG Richtlinie 92/118/EWG Richtlinie 2002/99/EG Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
+<tr><td>Rinder Schafe und Ziegen Schweine</td><td>Verordnung (EU) 2016/429 Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
 <tr><td colspan="4">6. Knochen und Knochenerzeugnisse</td></tr>
-<tr><td>Haus-Huftiere Haus-Einhufer Andere zur Zucht gehaltene oder wild lebende Landsäugetiere Geflügel, Laufvögel und Wildgeflügel</td><td>Richtlinie 64/432/EWG Richtlinie 92/118/EWG Richtlinie 2002/99/EG Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
+<tr><td>Haus-Huftiere Haus-Einhufer Andere zur Zucht gehaltenen oder wild lebende Landsäugetiere Geflügel, Laufvögel und Wildgeflügel</td><td>Verordnung (EU) 2016/429 Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
 <tr><td colspan="4">7. Verarbeitete tierische Proteine, Blut und Blutprodukte</td></tr>
-<tr><td>Haus-Huftiere Haus-Einhufer Andere zur Zucht gehaltenen oder wild lebende Landsäugetiere Geflügel, Laufvögel und Wildgeflügel</td><td>Richtlinie 64/432/EWG Richtlinie 92/118/EWG Richtlinie 2002/99/EG Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
+<tr><td>Haus-Huftiere Haus-Einhufer Andere zur Zucht gehaltenen oder wild lebende Landsäugetiere Geflügel, Laufvögel und Wildgeflügel</td><td>Verordnung (EU) 2016/429 Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
 <tr><td colspan="4">8. Gelatine und Kollagen</td></tr>
-<tr><td></td><td>Richtlinie 2002/99/EG Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
+<tr><td></td><td>Verordnung (EU) 2016/429 Verordnung (EG) Nr. 999/2001</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja<sup>1</sup></td></tr>
 <tr><td colspan="4">9. Milch und Milcherzeugnisse</td></tr>
-<tr><td></td><td>Richtlinie 64/432/EWG Richtlinie 2002/99/EG</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td></td><td>Verordnung (EU) 2016/429</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
 <tr><td colspan="4">10. Eier und Eierzeugnisse</td></tr>
-<tr><td></td><td>Richtlinie 2002/99/EG</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td></td><td>Verordnung (EU) 2016/429</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
 <tr><td colspan="4">11. Fischereierzeugnisse, Muscheln, Stachelhäuter, Manteltiere und Meeresschnecken</td></tr>
-<tr><td></td><td>Richtlinie 2006/88/EG Richtlinie 2002/99/EG</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td></td><td>Verordnung (EU) 2016/429</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
 <tr><td colspan="4">12. Honig</td></tr>
-<tr><td></td><td>Richtlinie 92/118/EWG Richtlinie 2002/99/EG</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td></td><td>Verordnung (EU) 2016/429</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
 <tr><td colspan="4">13. Schnecken und Froschschenkel</td></tr>
-<tr><td></td><td>Richtlinie 92/118/EWG Richtlinie 2002/99/EG</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
-<tr><td colspan="4"><sup>1</sup> Die Anerkennung der Übereinstimmung der Rechtsvorschriften im Bereich der TSE-Überwachung bei Schafen und Ziegen wird vom Gemeinsamen Veterinärausschuss erneut geprüft.</td></tr>
+<tr><td></td><td>Verordnung (EU) 2016/429</td><td>Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*)</td><td>Ja</td></tr>
+<tr><td colspan="4"><sup>1</sup> Die Anerkennung der Übereinstimmung der Rechtsvorschriften im Bereich der TSE-Überwachung bei Schafen und Ziegen kann vom Gemeinsamen Veterinärausschuss erneut geprüft werden.</td></tr>
 </table>
 
-Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th colspan="4">Ausfuhren der Europäischen Union in die Schweiz und Schweizer Ausfuhren in die Europäische Union</th></tr>
 <tr><th colspan="3">Handelsbedingungen</th><th>Äquivalenz</th></tr>
-<tr><th>Europäische Union</th><th></th><th>Schweiz</th><th></th></tr>
-<tr><td>Öffentliche Gesundheit</td><td></td><td></td><td></td></tr>
-<tr><td>Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1) Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene (ABl. L 139 vom 30.4.2004, S. 1) Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55) Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206) Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1) Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005 über mikrobiologische Kriterien für Lebensmittel (ABl. L 338 vom 22.12.2005, S. 1) Verordnung (EG) Nr. 2074/2005 der Kommission vom 5. Dezember 2005 zur Festlegung von Durchführungsvorschriften für bestimmte unter die Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates fallende Erzeugnisse und für die in den Verordnungen (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vorgesehenen amtlichen Kontrollen, zur Abweichung von der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates und zur Änderung der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 (ABl. L 338 vom 22.12.2005, S. 27) Verordnung (EG) Nr. 2075/2005 der Kommission vom 5. Dezember 2005 mit spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf Trichinen (ABl. L 338 vom 22.12.2005, S. 60)</td><td></td><td>Bundesgesetz vom 9. Oktober 1992 über Lebensmittel und Gebrauchsgegenstände (LMG; SR *817.0*) Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*) Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen (SR *916.402*) Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*) Verordnung vom 23. November 2005 über die Primärproduktion (VPrP; SR *916.020*) Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*) Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005 (LGV; SR *817.02*) Verordnung des EDI vom 23. November 2005 über den Vollzug der Lebensmittelgesetzgebung (SR *817.025.21*) Verordnung des EVD vom 23. November 2005 über die Hygiene bei der Primärproduktion (VHyPrP; SR *916.020.1*) Hygieneverordnung des EDI vom 23. November 2005 (HyV; SR *817.024.1*) Verordnung des EVD vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*) Verordnung des EDI vom 23. November 2005 über Lebensmittel tierischer Herkunft (SR *817.022.108*)</td><td>Ja, mit Sonderbedingungen</td></tr>
-<tr><td>Tierschutz</td><td></td><td></td><td></td></tr>
-<tr><td>Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1)</td><td></td><td>Tierschutzgesetz vom 16. Dezember 2005 (TSchG; SR *455*) Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*) Verordnung des BVET vom 12. August 2010 über den Tierschutz beim Schlachten (VTSchS; SR *455.110.2*) Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*)</td><td>Ja, mit Sonderbe-dingungen</td></tr>
-<tr><td colspan="4">\* Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs (ABl. L 18 vom 23.1.2003, S. 11). \*\* Richtlinie 92/118/EWG des Rates vom 17. Dezember 1992 über die tierseuchenrechtlichen und gesundheitlichen Bedingungen für den Handel mit Erzeugnissen tierischen Ursprungs in der Gemeinschaft sowie für ihre Einfuhr in die Gemeinschaft, soweit sie diesbezüglich nicht den spezifischen Gemeinschaftsregelungen nach Anhang A Kapitel I der Richtlinie 89/662/EWG und – in Bezug auf Krankheitserreger – der Richtlinie 90/425/EWG unterliegen (ABl. L 62 vom 15.3.1993, S. 49).</td></tr>
+<tr><th colspan="2">Europäische Union</th><th>Schweiz</th><th></th></tr>
+<tr><td colspan="4">Öffentliche Gesundheit</td></tr>
+<tr><td colspan="2">Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1). Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene (ABl. L 139 vom 30.4.2004, S. 1). Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55). In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der Vorschriften für die Lebensmittelkette betreffend tierische Erzeugnisse durchgeführt werden: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005 über mikrobiologische Kriterien für Lebensmittel (ABl. L 338 vom 22.12.2005, S. 1). Verordnung (EG) Nr. 2074/2005 der Kommission vom 5. Dezember 2005 zur Festlegung von Durchführungsvorschriften für bestimmte unter die Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates fallende Erzeugnisse und für die in den Verordnungen (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vorgesehenen amtlichen Kontrollen, zur Abweichung von der Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates und zur Änderung der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 (ABl. L 338 vom 22.12.2005, S. 27). Durchführungsverordnung (EU) 2015/1375 der Kommission vom 10. August 2015 mit spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf Trichinen (ABl. L 212 vom 11.8.2015, S. 7).</td><td>Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*) Verordnung vom 23. November 2005 über die Primärproduktion (VPrP; SR *916.020*). Verordnung des EVD vom 23. November 2005 über die Hygiene bei der Primärproduktion (VHyPrP; SR *916.020.1*). Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*). Verordnung des EVD vom 23. November 2005 über die Hygiene bei der Milchproduktion (VHyMP; SR *916.351.021.1*). Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*). Milchprüfungsverordnung vom 20. Oktober 2010 (MiPV; SR *916.351.0*). Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen (SR *916.402*). Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz, LMG; SR *817.0*). Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*). Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (LGV; SR *817.02*). Verordnung des EDI vom 16. Dezember 2016 über die Hygiene beim Umgang mit Lebensmitteln (Hygieneverordnung, HyV; SR *817.024.1*). Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel tierischer Herkunft (VLtH; SR *817.022.108*). Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung (LMVV; SR *817.042*).</td><td>Ja, mit Sonderbedingungen.</td></tr>
+<tr><td colspan="4">Tierschutz</td></tr>
+<tr><td colspan="2">Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1).</td><td>Tierschutzgesetz vom 16. Dezember 2005 (TSchG; SR *455*). Tierschutzverordnung vom 23. April 2008 (TSchV; SR *455.1*). Verordnung des BLV vom 8. November 2021 über den Tierschutz beim Schlachten (VTSchS; SR *455.110.2*). Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*).</td><td>Ja, mit Sonderbedingungen.</td></tr>
 </table>
 
-Sonderbedingungen
+Durchführungsbestimmungen und besondere Bestimmungen
 
-(1) Für den menschlichen Verzehr bestimmte tierische Erzeugnisse, die zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gehandelt werden, verkehren ausschliesslich unter denselben Bedingungen wie tierische Erzeugnisse für den menschlichen Verzehr, die zwischen den Mitgliedstaaten der Europäischen Union gehandelt werden; dies gilt auch für den Schutz von Tieren zum Zeitpunkt der Tötung. Diesen Erzeugnissen müssen gegebenenfalls die Gesundheitsbescheinigungen beigefügt sein, die für den Handel zwischen den Mitgliedstaaten der Europäischen Union vorgeschrieben oder in diesem Anhang festgelegt und im System TRACES verfügbar sind.
+\1) Die Schweiz wird in das Informationsmanagementsystem für amtliche Kontrollen und alle seine Systemkomponenten gemäss der Durchführungsverordnung (EU) 2019/1715 der Kommission integriert. Die Schweiz benennt zu diesem Zweck eine Kontaktstelle.
 
-(2) Die Schweiz erstellt ein Verzeichnis zugelassener Betriebe im Sinne des Artikels 31 (Eintragung/Zulassung von Betrieben) der Verordnung (EG) Nr. 882/2004.
+\2) Für den menschlichen Verzehr bestimmte tierische Erzeugnisse, die zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gehandelt werden, verkehren ausschliesslich unter denselben Bedingungen wie tierische Erzeugnisse für den menschlichen Verzehr, die zwischen den Mitgliedstaaten der Europäischen Union gehandelt werden; dies gilt auch für den Schutz von Tieren zum Zeitpunkt der Tötung. Diesen Erzeugnissen müssen gegebenenfalls die Gesundheitsbescheinigungen beigefügt sein, die für den Handel zwischen den Mitgliedstaaten der Europäischen Union vorgeschrieben oder in diesem Anhang festgelegt und im System TRACES verfügbar sind.
 
-(3) Die Schweiz wendet bei Einfuhren die gleichen Bestimmungen an wie diejenigen, die in der Union gelten.
+\3) Die Schweiz erstellt ein Verzeichnis zugelassener Betriebe im Sinne von Artikel 45 (Eintragung/Zulassung von Betrieben) der Durchführungsverordnung (EU) 2019/1715.
 
-(4) Die zuständigen schweizerischen Behörden sichern zu, dass die Schlachtkörper und das Fleisch von Hausschweinen, die in der Europäischen Union in Verkehr gebracht werden, zuvor einer Untersuchung zur Feststellung von Trichinella unterzogen worden sind.
+\4) Die Schweiz wendet bei Einfuhren die gleichen Bestimmungen an wie diejenigen, die in der Union gelten.
 
-(5) Bei der Trichinenuntersuchung verwendet die Schweiz die in Anhang I Kapitel I und II der Durchführungsverordnung (EU) Nr. 2015/1375 der Kommission[^annex6-lvlu1-chapI-lvlu1-1] beschriebenen Nachweismethoden.
+\5) Die zuständigen schweizerischen Behörden sichern zu, dass die Schlachtkörper und das Fleisch von Hausschweinen, die in der Europäischen Union in Verkehr gebracht werden, zuvor einer Untersuchung zur Feststellung von Trichinella unterzogen worden sind.
 
-(6) Gemäss Artikel 8 Absatz 1 Buchstabe a und Absatz 3 der Verordnung des EDI über die Hygiene beim Schlachten (VHyS) vom 23. November 2005 (SR *817.190.1*) und Artikel 10 Absatz 8 der Verordnung des EDI über Lebensmittel tierischer Herkunft vom 16. Dezember 2016 (SR *817.022.108*) sind nicht für den Markt der Europäischen Union bestimmte(s) Schlachtkörper und Fleisch von Hausschweinen, die zur Mast und Schlachtung gehalten werden, sowie nicht für den Markt der Europäischen Union bestimmte Fleischzubereitungen, Fleischerzeugnisse und verarbeitete Fleischerzeugnisse, mit dem besonderen Genusstauglichkeitskennzeichen zu versehen, das dem Muster in Anhang 9 letzter Absatz der Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten entspricht.
+\6) Bei der Trichinenuntersuchung verwendet die Schweiz die in Anhang I Kapitel I und II der Durchführungsverordnung (EU) 2015/1375 der Kommission beschriebenen Nachweismethoden.
 
-Gemäss Artikel 10 der Verordnung des EDI vom 16. Dezember 2016 dürfen diese Erzeugnisse nicht in den Handel mit den Mitgliedstaaten der Europäischen Union gelangen.
+\7) Gemäss Artikel 8 Absatz 1 Buchstabe a und Absatz 3 der Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*) und Artikel 10 Absatz 8 der Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel tierischer Herkunft (VLtH; SR *817.022.108*) sind nicht für den Markt der Europäischen Union bestimmte(s) Schlachtkörper und Fleisch von Hausschweinen, die zur Mast und Schlachtung gehalten werden, sowie nicht für den Markt der Europäischen Union bestimmte Fleischzubereitungen, Fleischerzeugnisse und verarbeitete Fleischerzeugnisse, mit dem besonderen Genusstauglichkeitskennzeichen zu versehen, das dem Muster in Anhang 9 letzter Absatz der Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*) entspricht.
 
-(7) ...
+Gemäss Artikel 10 der Verordnung des EDI vom 16. Dezember 2016 über Lebens-mittel tierischer Herkunft (VLtH; SR *817.022.108*) dürfen diese Erzeugnisse nicht in den Handel mit den Mitgliedstaaten der Europäischen Union gelangen.
 
-(8) Nach Artikel 2 der Hygieneverordnung (SR *817.024.1*) können die zuständigen schweizerischen Behörden im Einzelfall Ausnahmen von den Artikeln 8, 10 und 14 zulassen:
+\8) Nach Artikel 2 der Verordnung des EDI vom 16. Dezember 2016 über die Hygiene beim Umgang mit Lebensmitteln (Hygieneverordnung EDI, HyV; SR *817.024.1*) können die zuständigen schweizerischen Behörden im Einzelfall Ausnahmen von den Artikeln 8, 10 und 14 zulassen:
 
-- a) um den Bedürfnissen von Betrieben in Bergregionen zu entsprechen, die im Anhang des Bundesgesetzes vom 6. Oktober 2006 über Regionalpolitik (SR *901.0*) und der Verordnung vom 28 November über Regionalpolitik (SR *901.021*) verzeichnet sind.
+- a) um den Bedürfnissen von Betrieben in Bergregionen zu entsprechen, gemäss Bundesgesetz vom 6. Oktober 2006 über Regionalpolitik (SR *901.0*) und Verordnung vom 28. November 2007 über Regionalpolitik (VRP; SR *901.021*).
 -
 
-  Die zuständigen schweizerischen Behörden verpflichten sich, der Kommission diese Änderungen schriftlich zu melden. Diese Meldung umfasst:
+  Die zuständigen Schweizer Behörden verpflichten sich, der Kommission diese Änderungen schriftlich zu melden. Diese Meldung umfasst:
 
   - – eine ausführliche Darstellung der Bestimmungen, die nach Auffassung der zuständigen schweizerischen Behörden geändert werden müssen, und eine Beschreibung der Art der geplanten Änderung;
   - – eine Beschreibung der betreffenden Lebensmittel und Unternehmen;
-  - – eine Erläuterung der Gründe für die Anpassung (gegebenenfalls mit einer Zusammenfassung der durchgeführten Risikoanalyse und der Angabe aller Massnahmen, mit denen sichergestellt wird, dass die Anpassung nicht die Ziele der Hygieneverordnung (HyV; SR *817.024.1*) gefährdet;
+  - – eine Erläuterung der Gründe für die Anpassung (gegebenenfalls mit einer Zusammenfassung der durchgeführten Risikoanalyse und der Angabe aller Massnahmen, mit denen sichergestellt wird, dass die Anpassung nicht die Ziele der Verordnung des EDI vom 16. Dezember 2016 über die Hygiene beim Umgang mit Lebensmitteln (Hygieneverordnung EDI, HyV; SR *817.024.1*) gefährdet;
   - – etwaige andere massgebliche Informationen.
 
 - Die Kommission und die Mitgliedstaaten der Europäischen Union verfügen über eine Frist von drei Monaten ab dem Empfang der Meldung, um schriftliche Bemerkungen zu übermitteln. Erforderlichenfalls tritt der Gemischte Veterinärausschuss zusammen;
 - b) um der Herstellung von Lebensmitteln gerecht zu werden, die traditionelle Merkmale aufweisen.
 -
 
-  Die zuständigen schweizerischen Behörden verpflichten sich, der Kommission diese Änderungen spätestens zwölf Monate nach der Gewährung der Ausnahmen einzeln oder gesammelt schriftlich zu melden. Jede Mitteilung umfasst:
+  Die zuständigen Schweizer Behörden verpflichten sich, der Kommission diese Änderungen spätestens zwölf Monate nach der Gewährung der Ausnahmen einzeln oder gesammelt schriftlich zu melden. Jede Mitteilung umfasst:
 
   - – eine Kurzbeschreibung der geänderten Vorschriften;
   - – eine Beschreibung der betreffenden Lebensmittel und Unternehmen; und
   - – etwaige andere massgebliche Informationen.
 
-(9) Die Kommission unterrichtet die Schweiz über die Ausnahmen und Änderungen, die in den Mitgliedstaaten der Union gemäss Artikel 13 der Verordnung (EG) Nr. 852/2004, Artikel 10 der Verordnung (EG) Nr. 853/2004, Artikel 13 der Verordnung (EG) Nr. 854/2003 und Artikel 7 der Verordnung (EG) Nr. 2074/2005 angewandt werden.
+\9) Die Kommission unterrichtet die Schweiz über die Ausnahmen und Änderungen, die in den Mitgliedstaaten der Union gemäss Artikel 13 der Verordnung (EG) Nr. 852/2004, Artikel 10 der Verordnung (EG) Nr. 853/2004 und Artikel 7 der Verordnung (EG) Nr. 2074/2005 angewandt werden.
 
-(10) Gemäss Artikel 179*d* der Tierseuchenverordnung und Artikel 4 der Verordnung über Lebensmittel tierischer Herkunft darf spezifiziertes Risikomaterial in der Schweiz nicht in die Lebens- oder Futtermittelkette gelangen. Als spezifiziertes Risikomaterial gelten bei Rindern insbesondere die Wirbelsäule von über 30 Monate alten Tieren, die Tonsillen sowie die Därme von Duodenum bis Rektum und das Mesenterium von Tieren aller Altersklassen.
+\10) Das Verzeichnis der Referenzlaboratorien der Europäischen Union für Rückstände von Tierarzneimitteln und Kontaminanten in Lebensmitteln tierischen Ursprungs gemäss Artikel 99 der Verordnung (EU) 2017/625 wird auf der Website der Europäischen Kommission veröffentlicht.
 
-(11) Die Referenzlaboratorien der Europäischen Union für Rückstände von Tierarzneimitteln und Kontaminanten in Lebensmitteln tierischen Ursprungs sind folgende:
+Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge angelastet werden können. Zuständigkeiten und Aufgaben dieser Laboratorien sind in Artikel 94 der Verordnung (EU) 2017/625 festgelegt.
 
-- a) Für die in Anhang I Gruppe A Nummern 1, 2, 3 und 4, Gruppe B Nummer 2 Buchstabe d und Gruppe B Nummer 3 Buchstabe d der Richtlinie 96/23/EG[^annex6-lvlu1-chapI-lvlu1-2] genannten Rückstände:
-- RIKILT – Institute of Food Safety, im Wageningen UR
-- P.O.Box 230
-- 6700 AE Wageningen
-- Niederlande
-- b) Für die in Anhang I Gruppe B Nummer 1 und Nummer 3 Buchstabe e der Richtlinie 96/23/EG genannten Rückstände sowie Carbadox und Olaquindox:
-- Laboratoire d’étude et de recherches sur les médicaments vétérinaires et les désinfectants
-- ANSES – Laboratoire de Fougères
-- 35306 Fougères
-- Frankreich
-- c) Für die in Anhang I Gruppe A Nummer 5 und Gruppe B Nummer 2 Buchstaben a, b und e der Richtlinie 96/23/EG genannten Rückstände:
-- Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
-- Diedersdorfer Weg 1
-- 12277 Berlin
-- Deutschland
-- d) Für die in Anhang I Gruppe B Nummer 3 Buchstabe c der Richtlinie 96/23/EG genannten Rückstände:
-- Istituto Superiore di Sanità – ISS
-- Viale Regina Elena, 299
-- 00161 Rom
-- Italien
+Das Verzeichnis der nationalen Referenzlaboratorien für die Schweiz wird auf der Website des Bundesamts für Lebensmittelsicherheit und Veterinärwesen veröffentlicht.
 
-Die Schweiz trägt die Kosten, die ihr im Rahmen der sich aus diesen Benennungen ergebenden Vorgänge zuzurechnen sind. Für die Zuständigkeiten und Aufgaben dieser Laboratorien gilt Titel III und Anhang VII der Verordnung (EG) Nr. 882/2004.
+\11) Bis die Rechtsvorschriften der Europäischen Union und der Schweiz im Hinblick auf Ausfuhren in die Europäische Union angeglichen sind, verpflichtet sich die Schweiz, die nachstehenden Rechtsakte und ihre Durchführungsvorschriften anzuwenden:
 
-(12) Bis die Rechtsvorschriften der Europäischen Union und der Schweiz im Hinblick auf Ausfuhren in die Europäische Union angeglichen sind, verpflichtet sich die Schweiz, die nachstehenden Rechtsakte und ihre Durchführungsvorschriften anzuwenden:
+- 1\. Verordnung (EWG) Nr. 315/93 des Rates vom 8. Februar 1993 zur Festlegung von gemeinschaftlichen Verfahren zur Kontrolle von Kontaminanten in Lebensmitteln (ABl. L 37 vom 13.2.1993, S. 1).
+- 2\. Durchführungsverordnung (EU) Nr. 872/2012 der Kommission vom 1. Oktober 2012 zur Festlegung der Liste der Aromastoffe gemäss der Verordnung (EG) Nr. 2232/96 des Europäischen Parlaments und des Rates, zur Aufnahme dieser Liste in Anhang I der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EG) Nr. 1565/2000 der Kommission und der Entscheidung 1999/217/EG der Kommission (ABl. L 267 vom 2.10.2012, S. 1).
+- 3\. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3).
+- 4\. Richtlinie 1999/2/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über mit ionisierenden Strahlen behandelte Lebensmittel und Lebensmittelbestandteile (ABl. L 66 vom 13.3.1999, S. 16).
+- 5\. Richtlinie 1999/3/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 über die Festlegung einer Gemeinschaftsliste von mit ionisierenden Strahlen behandelten Lebensmitteln und Lebensmittelbestandteilen (ABl. L 66 vom 13.3.1999, S. 24).
+- 6\. Entscheidung 2002/840/EG der Kommission vom 23. Oktober 2002 zur Festlegung der Liste der in Drittländern für die Bestrahlung von Lebensmitteln zugelassenen Anlagen (ABl. L 287 vom 25.10.2002, S. 40).
+- 7\. Verordnung (EG) Nr. 2065/2003 des Europäischen Parlaments und des Rates vom 10. November 2003 über Raucharomen zur tatsächlichen oder beabsichtigten Verwendung in oder auf Lebensmitteln (ABl. L 309 vom 26.11.2003, S. 1).
+- 8\. Verordnung (EU) 2023/915 der Kommission vom 25. April 2023 über Höchstgehalte für bestimmte Kontaminanten in Lebensmitteln und zur Aufhebung der Verordnung (EG) Nr. 1881/2006 (ABl. L 119 vom 5.5.2023, S. 103).
+- 9\. Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG, der Richtlinie 2001/112/EG des Rates sowie der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7).
+- 10\. Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16).
+- 11\. Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34).
+- 12\. Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1).
+- 13\. Richtlinie 2009/32/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Extraktionslösungsmittel, die bei der Herstellung von Lebensmitteln und Lebensmittelzutaten verwendet werden (ABl. L 141 vom 6.6.2009, S. 3).
+- 14\. Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11).
 
-- 1\. Verordnung (EWG) Nr. 315/93 des Rates vom 8. Februar 1993 zur Festlegung von gemeinschaftlichen Verfahren zur Kontrolle von Kontaminanten in Lebensmitteln (ABl. L 37 vom 13.2.1993, S. 1);
-- 2\. Durchführungsverordnung (EU) Nr. 872/2012 der Kommission vom 1. Oktober 2012 zur Festlegung der Liste der Aromastoffe gemäss der Verordnung (EG) Nr. 2232/96 des Europäischen Parlaments und des Rates, zur Aufnahme dieser Liste in Anhang I der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EG) Nr. 1565/2000 der Kommission und der Entscheidung 1999/217/EG der Kommission (ABl. L 267 vom 2.10.2012, S. 1);
-- 3\. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3);
-- 4\. Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10);
-- 5\. Richtlinie 1999/2/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über mit ionisierenden Strahlen behandelte Lebensmittel und Lebensmittelbestandteile (ABl. L 66 vom 13.3.1999, S. 16);
-- 6\. Richtlinie 1999/3/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 über die Festlegung einer Gemeinschaftsliste von mit ionisierenden Strahlen behandelten Lebensmitteln und Lebensmittelbestandteilen (ABl. L 66 vom 13.3.1999, S. 24);
-- 7\. Entscheidung 2002/840/EG der Kommission vom 23. Oktober 2002 zur Festlegung der Liste der in Drittländern für die Bestrahlung von Lebensmitteln zugelassenen Anlagen (ABl. L 287 vom 25.10.2002, S. 40);
-- 8\. Verordnung (EG) Nr. 2065/2003 des Europäischen Parlaments und des Rates vom 10. November 2003 über Raucharomen zur tatsächlichen oder beabsichtigten Verwendung in oder auf Lebensmitteln (ABl. L 309 vom 26.11.2003, S. 1);
-- 9\. Verordnung (EG) Nr. 1881/2006 der Kommission vom 19. Dezember 2006 zur Festsetzung der Höchstgehalte für bestimmte Kontaminanten in Lebensmitteln (ABl. L 364 vom 20.12.2006, S. 5);
-- 10\. Verordnung (EG) Nr. 1332/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelenzyme und zur Änderung der Richtlinie 83/417/EWG des Rates, der Verordnung (EG) Nr. 1493/1999 des Rates, der Richtlinie 2000/13/EG, der Richtlinie 2001/112/EG des Rates sowie der Verordnung (EG) Nr. 258/97 (ABl. L 354 vom 31.12.2008, S. 7);
-- 11\. Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16);
-- 12\. Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34);
-- 13\. Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1);
-- 14\. Richtlinie 2009/32/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Extraktionslösungsmittel, die bei der Herstellung von Lebensmitteln und Lebensmittelzutaten verwendet werden (ABl. L 141 vom 6.6.2009, S. 3);
-- 15\. Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11).
+\12) Die Schweiz wendet im Einklang mit ihren in Abschnitt I (Landtiere) und Abschnitt II (Tiere und Erzeugnisse der Aquakultur) genannten Rechtsvorschriften (Anlage 2 zu diesem Anhang) dieselben Bestimmungen wie diejenigen in Artikel 107 (ausgenommen Absatz 6) der Verordnung (EU) 2019/6 in Verbindung mit Artikel 37 Absatz 5 über die Verwendung antimikrobieller Arzneimittel bei Nutztieren an.
 
-[^annex6-lvlu1-chapI-lvlu1-1]: Durchführungsverordnung (EU) 2015/1375 der Kommission vom 10. August 2015 mit spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf Trichinen (ABl. L 212 vom 11.8.2015, S. 7).
-[^annex6-lvlu1-chapI-lvlu1-2]: Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10).
+Gemäss den Bestimmungen der beiden vorstehend angeführten Abschnitten gilt die Schweiz bis zum 1. Juli 2028 für die Zwecke der Anwendung des Artikels 118 der Verordnung (EU) 2019/6 nicht als Drittland.
+
+Sie unterrichtet den Gemischten Veterinärausschuss unverzüglich über jede weitere Änderung ihrer Rechtsvorschriften für antimikrobielle Arzneimittel für Nutztiere.
+
+Dieser Absatz wird vom Gemischten Veterinärausschuss bis zum 1. Juli 2028 überprüft.
 
 ### «Nicht zum Verzehr bestimmte tierische Nebenprodukte»
 
 <table>
-<tr><td colspan="5">Ausfuhren der Europäischen Union in die Schweiz und Schweizer Ausfuhren in die Europäische Union</td></tr>
-<tr><td colspan="3">Handelsbedingungen</td><td colspan="2">Äquivalenz</td></tr>
-<tr><td>Europäische Union\*</td><td></td><td>Schweiz\*</td><td colspan="2"></td></tr>
-<tr><td colspan="4">\* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.</td></tr>
-<tr><td>1. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1) 2. Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte; ABl. L 300 vom 14.11.2009, S. 1) 3. Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1)</td><td></td><td>1. Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*) 2. Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*) 3. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*) 4. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 5. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*)</td><td colspan="2">Ja, mit Sonderbedingungen</td></tr>
+<tr><th colspan="4">Ausfuhren der Europäischen Union in die Schweiz und Schweizer Ausfuhren in die Europäische Union</th></tr>
+<tr><th colspan="2">Handelsbedingungen</th><th colspan="2">Äquivalenz</th></tr>
+<tr><th>Europäische Union\*</th><th>Schweiz\*</th><th colspan="2"></th></tr>
+<tr><td colspan="3">\* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.</td></tr>
+<tr><th>1. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1). 2. Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte; ABl. L 300 vom 14.11.2009, S. 1). 3. Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1).</th><th>1. Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK; SR *817.190*). 2. Verordnung des EDI vom 23. November 2005 über die Hygiene beim Schlachten (VHyS; SR *817.190.1*). 3. Tierseuchenverordnung vom 27. Juni 1995 (TSV; SR *916.401*). 4. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*). 5. Verordnung vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten (VTNP; SR *916.441.22*).</th><th colspan="2">Ja, mit Sonderbedingungen</th></tr>
 </table>
 
-Sonderbedingungen
+Besondere Bestimmungen
 
 Die Schweiz wendet bei ihren Einfuhren gemäss Artikel 41 und 42 der Verordnung (EG) Nr. 1069/2009 die gleichen Bestimmungen an wie die in den Artikeln 25 bis 28 sowie 30 bis 31 und in den Anhängen XIV und XV (Bescheinigungen) der Verordnung (EU) Nr. 142/2011 festgelegten.
 
@@ -10797,7 +10294,7 @@ Material der Kategorie 3 im Handel zwischen den Mitgliedstaaten der Europäische
 
 Die Schweiz erstellt gemäss Titel II Kapitel I Abschnitt 2 der Verordnung (EG) Nr. 1069/2009 sowie gemäss Kapitel IV und Anhang IX der Verordnung (EU) Nr. 142/2011 ein Verzeichnis der entsprechenden Betriebe.
 
-### Kapitel II: Nicht unter Kapitel I fallende Sektoren
+### Kapitel II – Nicht unter Kapitel I fallende Sektoren
 
 ### Ausfuhren der Europäischen Union in die Schweiz und Schweizer Ausfuhren in die Europäische Union
 
@@ -10917,204 +10414,209 @@ Anlage 10[^t-31]
 
 ## Tierische Erzeugnisse: Grenzkontrollen und Kontrollgebühren
 
-[^t-31]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2015 des Gemischten Veterinärausschusses vom 17. Dez. 2015, in Kraft seit 17. Dez. 2015, mit Wirkung seit 1. Jan. 2015 ([AS 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-31]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2026 des Gemischten Veterinärausschusses vom 24. Juli 2026, in Kraft seit 24. Juli 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### Kapitel I: Allgemeine Bestimmungen
+### Kapitel I Allgemeine Bestimmungen
 
-### A. Rechtsvorschriften\*
+### A. Rechtsvorschriften
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex10-lvlu1-chapI-lvlA-1]
+
+[^annex10-lvlu1-chapI-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Entscheidung 2004/292/EG der Kommission vom 30. März 2004 zur Einführung des TRACES-Systems und zur Änderung der Entscheidung 92/486/EWG (ABl. L 94 vom 31.3.2004, S. 63) 2. Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 3. Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*) 4. Verordnung des EVD vom 16. Mai 2007 über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten (EDAV-Kontrollverordnung; SR *916.443.106*) 5. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*).</td></tr>
+<tr><td>1. Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1). 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Kapitel vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 3. Durchführungsverordnung (EU) 2019/1715 der Kommission vom 30. September 2019 mit Vorschriften zur Funktionsweise des Informationsmanagementsystems für amtliche Kontrollen und seiner Systemkomponenten («IMSOC‑Verordnung») (ABl. L 261 vom 14.10.2019, S. 37).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57. 2. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV‑DS; SR *916.443.10).* 3. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI; SR *916.443.106*). 4. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. In Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen bezieht die Kommission die Schweiz gemäss der Entscheidung 2004/292/EG der Kommission in das System TRACES ein.
+\1. Die Schweiz wird in das Informationsmanagementsystem für amtliche Kontrollen und alle seine Systemkomponenten gemäss der Durchführungsverordnung (EU) 2019/1715 der Kommission integriert. Die Schweiz benennt zu diesem Zweck eine Kontaktstelle.
 
-\2. In Zusammenarbeit mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen bezieht die Kommission die Schweiz in Bezug auf die Bestimmungen im Zusammenhang mit der Zurückweisung von tierischen Erzeugnissen an den Grenzen in das in Artikel 50 der Verordnung (EG) Nr. 178/2002 vorgesehene Schnellwarnsystem ein.
+Der Gemischte Veterinärausschuss legt erforderlichenfalls ergänzende Bestimmungen fest.
 
-Weist eine zuständige Behörde an einer Grenzkontrollstelle innerhalb der Europäischen Union einen Posten, einen Behälter oder eine Fracht zurück, so setzt die Kommission die Schweiz unverzüglich hiervon in Kenntnis.
+\2. Die Vertragsparteien leisten einander gemäss den Artikeln 104 bis 107 der Verordnung (EU) 2017/625 Amtshilfe, um die ordnungsgemässe Anwendung dieser Anlage zu gewährleisten. Die Anwendung des Artikels 108 der Verordnung (EU) 2017/625 fällt in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-Die Schweiz setzt die Kommission unverzüglich über jede mit einem unmittelbaren oder mittelbaren Risiko für die menschliche Gesundheit zusammenhängende Zurückweisung eines Postens, eines Behälters oder einer Fracht Lebensmittel oder Futtermittel durch eine zuständige Behörde an einer schweizerischen Grenzkontrollstelle in Kenntnis und hält die Vertraulichkeitsbestimmungen gemäss Artikel 52 der Verordnung (EG) Nr. 178/2002 ein.
+### Kapitel II Veterinärrechtliche und tierzüchterische Kontrollen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz
 
-Die spezifischen Massnahmen im Zusammenhang mit dieser Teilnahme werden im Gemischten Veterinärausschuss festgelegt.
+### A. Rechtsvorschriften
 
-### Kapitel II: Veterinärrechtliche und tierzüchterische Kontrollen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz
+[^annex10-lvlu1-chapII-lvlA-1]
 
-### A. Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex10-lvlu1-chapII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 Die veterinärrechtlichen und tierzüchterischen Kontrollen im Handel zwischen den Mitgliedstaaten und der Schweiz werden gemäss den Bestimmungen der folgenden Rechtsakte durchgeführt:
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Richtlinie 89/608/EWG des Rates vom 21. November 1989 betreffend die gegenseitige Unterstützung der Verwaltungsbehörden der Mitglied-staaten und die Zusammenarbeit dieser Behörden mit der Kommission, um die ordnungsgemässe Anwendung der tierärztlichen und tierzuchtrechtlichen Vorschriften zu gewährleisten (ABl. L 351 vom 2.12.1989, S. 34) 2. Richtlinie 89/662/EWG des Rates vom 11. Dezember 1989 zur Regelung der veterinärrechtlichen Kontrollen im innergemeinschaftlichen Handel im Hinblick auf den gemeinsamen Binnenmarkt (ABl. L 395 vom 30.12.1989, S. 13) 3. Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs (ABl. L 18 vom 23.1.2003, S. 11)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 3. Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*) 4. Verordnung des EVD vom 16. Mai 2007 über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten (EDAV-Kontrollverordnung; SR *916.443.106*) 5. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*) 6. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*).</td></tr>
+<tr><td>1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 2. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Kapitel vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (ABl. L 95 vom 7.4.2017, S. 1). 3. Durchführungsverordnung (EU) 2019/1715 der Kommission vom 30. September 2019 mit Vorschriften zur Funktionsweise des Informationsmanagementsystems für amtliche Kontrollen und seiner Systemkomponenten («IMSOC‑Verordnung») (ABl. L 261 vom 14.10.2019, S. 37).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57. 2. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU; SR *916.443.11*). 3. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU-EDI; SR *916.443.111).* 4. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*). 5. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-In den in Artikel 8 der Richtlinie 89/662/EWG vorgesehenen Fällen setzen sich die zuständigen Behörden eines Bestimmungsmitgliedstaats unverzüglich mit den zuständigen Behörden des Versandmitgliedstaats in Verbindung. Diese ergreifen die erforderlichen Massnahmen und teilen der zuständigen Behörde am Versandort sowie der Kommission die Art der vorgenommenen Kontrollen, ihre Entscheidungen und die Gründe für diese Entscheidungen mit.
+In den in den Artikeln 102 und 104 bis 107 der Verordnung (EU) 2017/625 vorgesehenen Fällen setzen sich die zuständigen Behörden eines Bestimmungsmitgliedstaats unverzüglich mit den zuständigen Behörden des Versandmitgliedstaats in Verbindung. Diese ergreifen die erforderlichen Massnahmen und teilen der zuständigen Behörde am Versandort sowie der Kommission die Art der vorgenommenen Kontrollen, ihre Entscheidungen und die Gründe für diese Entscheidungen mit.
 
-Die Anwendung der Artikel 10, 11 und 16 der Richtlinie 89/608/EWG sowie der Artikel 9 und 16 der Richtlinie 89/662/EWG fällt in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+### Kapitel III Veterinärkontrollen bei Einfuhren aus Drittländern
 
-### Kapitel III: Veterinärkontrollen bei Einfuhren aus Drittländern
+### A. Rechtsvorschriften
 
-### A. Rechtsvorschriften\*
+[^annex10-lvlu1-chapIII-lvlA-1]
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex10-lvlu1-chapIII-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
 Die Kontrollen bei Einfuhren aus Drittländern werden nach den Bestimmungen der folgenden Rechtsakte durchgeführt:
 
 <table>
 <tr><th>Europäische Union</th><th>Schweiz</th></tr>
-<tr><td>1. Verordnung (EG) Nr. 136/2004 der Kommission vom 22. Januar 2004 mit Verfahren für die Veterinärkontrollen von aus Drittländern eingeführten Erzeugnissen an den Grenzkontrollstellen der Gemeinschaft (ABl. L 21 vom 28.1.2004, S. 11) 2. Verordnung (EG) Nr. 206/2009 der Kommission vom 5. März 2009 über die Einfuhr für den persönlichen Verbrauch bestimmter Mengen von Erzeugnissen tierischen Ursprungs in die Gemeinschaft und zur Änderung der Verordnung (EG) Nr. 136/2004 (ABl. L 77 vom 24.3.2009, S. 1) 3. Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206) 4. Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1) 5. Richtlinie 89/608/EWG des Rates vom 21. November 1989 betreffend die gegenseitige Unterstützung der Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission, um die ordnungsgemässe Anwendung der tierärztlichen und tierzuchtrechtlichen Vorschriften zu gewährleisten (ABl. L 351 vom 2.12.1989, S. 34) 6. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3) 7. Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10) 8. Richtlinie 97/78/EG des Rates vom 18. Dezember 1997 zur Festlegung von Grundregeln für die Veterinärkontrollen von aus Drittländern in die Gemeinschaft eingeführten Erzeugnissen (ABl. L 24 vom 30.1.1998, S. 9) 9. Entscheidung 2002/657/EG der Kommission vom 14. August 2002 zur Umsetzung der Richtlinie 96/23/EG des Rates betreffend die Durchführung von Analysemethoden und die Auswertung von Ergebnissen (ABl. L 221 vom 17.8.2002, S. 8) 10. Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs (ABl. L 18 vom 23.1.2003, S. 11) 11. Entscheidung 2005/34/EG der Kommission vom 11. Januar 2005 zur Festlegung einheitlicher Normen für die Untersuchung von aus Drittländern eingeführten Erzeugnissen tierischen Ursprungs auf bestimmte Rückstände (ABl. L 16 vom 20.1.2005, S. 61) 12. Entscheidung 2007/275/EG der Kommission vom 17. April 2007 mit Verzeichnissen von Tieren und Erzeugnissen, die gemäss den Richtlinien 91/496/EWG und 97/78/EG des Rates an Grenzkontrollstellen zu kontrollieren sind (ABl. L 116 vom 4.5.2007, S. 9)</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57 2. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10*) 3. Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*) 4. Verordnung des EVD vom 16. Mai 2007 über die Kontrolle der Ein- und Durchfuhr von Tieren und Tierprodukten (EDAV-Kontrollverordnung; SR *916.443.106*) 5. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*) 6. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*) 7. Bundesgesetz vom 9. Oktober 1992 über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz – LMG; SR *817.0*) 8. Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005 (LGV; SR *817.02*) 9. Verordnung vom 23. November 2005 über den Vollzug der Lebensmittelgesetzgebung (SR *817.025.21*) 10. Verordnung des EDI vom 26. Juni 1995 über Fremd- und Inhaltsstoffe in Lebensmitteln (Fremd- und Inhaltsstoffverordnung – FIV; SR *817.021.23*)</td></tr>
+<tr><td>1. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Kapitel vorgesehenen Vorschriften durchgeführt werden: – Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1). 2. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3). 3. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden. 4. Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11). 5. Durchführungsverordnung (EU) 2020/2235 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Tieren und Waren und für deren Verbringungen innerhalb der Union, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung der Verordnung (EG) Nr. 599/2004, der Durchführungsverordnungen (EU) Nr. 636/2014 und (EU) 2019/628, der Richtlinie 98/68/EG und der Entscheidungen 2000/572/EG, 2003/779/EG und 2007/240/EG (ABl. L 442 vom 30.12.2020, S. 1). 6. Durchführungsverordnung (EU) 2020/2236 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen für den Eingang in die Union von Sendungen von Wassertieren und von bestimmten Erzeugnissen tierischen Ursprungs aus Wassertieren und für deren Verbringungen innerhalb der Union sowie hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen und zur Aufhebung der Verordnung (EG) Nr. 1251/2008 (ABl. L 442 vom 30.12.2020, S. 410). 7. Durchführungsverordnung (EU) 2021/403 der Kommission vom 18. März 2021 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Landtieren und ihres Zuchtmaterials und für deren Verbringungen zwischen Mitgliedstaaten, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung des Beschlusses 2010/470/EU (ABl. L 113 vom 31.3.2021, S. 1).</td><td>1. Tierseuchengesetz vom 1. Juli 1966 (TSG; SR *916.40*), insbesondere Artikel 57. 2. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV‑DS; SR *916.443.10*). 3. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI; SR *916.443.106*). 4. Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht; SR *916.443.14*). 5. Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV; SR *916.472*). 6. Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstände (Lebensmittelgesetz, LMG; SR *817.0*). 7. Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (LGV; SR *817.02*). 8. Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung (LMVV; SR *817.042*). 9. Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlicher und tierischer Herkunft (VPRH; SR *817.021.23*).</td></tr>
 </table>
 
 ### B. Durchführungsbestimmungen
 
-\1. Für die Zwecke der Anwendung des Artikels 6 der Richtlinie 97/78/EG sind folgende Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union zuständig: die für Veterinärkontrollen von aus Drittländern eingeführten Tieren und tierischen Erzeugnissen zugelassenen und im Anhang I der Entscheidung 2009/821/EG aufgeführten Grenzkontrollstellen.
+\1. Für die Zwecke der Anwendung der Artikel 59 und 60 der Verordnung (EU) 2017/625 werden die Verzeichnisse der Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union auf der Website der Europäischen Kommission veröffentlicht.
 
-\2. Für die Zwecke der Anwendung des Artikels 6 der Richtlinie 97/78/EWG sind für die Schweiz folgende Grenzkontrollstellen zuständig:
+\2. Für die Zwecke der Anwendung der Artikel 59 und 60 der Verordnung (EU) 2017/625 sind für die Schweiz folgende Grenzkontrollstellen zuständig:
 
 <table>
-<tr><td>Bezeichnung</td><td>TRACES-Code</td><td>Typ</td><td>Kontrollzentrum</td><td>Zulassungsart</td></tr>
-<tr><td>Flughafen Zürich</td><td>CHZRH4</td><td>A</td><td>Zentrum 1 Zentrum 2</td><td>NHC\* HC(2)\*</td></tr>
-<tr><td>Flughafen Genf</td><td>CHGVA4</td><td>A</td><td>Zentrum 2</td><td>HC(2), NHC\*</td></tr>
-<tr><td colspan="5">\* Zulassungsarten gemäss der Entscheidung 2009/821/EG der Kommission.</td></tr>
+<tr><th>Name</th><th>TRACES-Code</th><th>Art der Lizenz</th></tr>
+<tr><td>Flughafen Zürich</td><td>CHZRH4</td><td>POA-NHC(2)**<sup>\*</sup>** POA-HC(2)**<sup>\*</sup>**</td></tr>
+<tr><td>Flughafen Genf</td><td>CHGVA4</td><td>POA-NHC(2)**<sup>\*</sup>** POA-HC(2)**<sup>\*</sup>**</td></tr>
 </table>
+
+**<sup>\*</sup>** Zulassungsarten gemäss Anhang II der Durchführungsverordnung (EU) 2019/1014.
 
 Spätere Änderungen der Liste der Grenzkontrollstellen, ihrer Kontrollzentren und der Zulassungsart fallen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-Insbesondere auf der Grundlage des Artikels 45 der Verordnung (EG) Nr. 882/2004 und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen vor Ort in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
+\3. Insbesondere auf der Grundlage des Artikels 116 der Verordnung (EU) 2017/625 und des Artikels 57 des Tierseuchengesetzes fallen die Kontrollen in den Zuständigkeitsbereich des Gemischten Veterinärausschusses.
 
-### Kapitel IV: Gesundheitliche Bedingungen und Bedingungen für Kontrollen im Handel zwischen der Europäischen Gemeinschaft und der Schweiz
+### Kapitel IV Gesundheitliche Bedingungen und Bedingungen für Kontrollen im Handel zwischen der Europäischen Union und der Schweiz
 
 Tierische Erzeugnisse in von beiden Seiten als gleichwertig anerkannten Sektoren, die zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz gehandelt werden, verkehren ausschliesslich unter denselben Bedingungen wie Erzeugnisse, die zwischen den Mitgliedstaaten der Europäischen Union gehandelt werden. Diesen Erzeugnissen müssen gegebenenfalls die Gesundheitsbescheinigungen beigefügt sein, die für den Handel zwischen den Mitgliedstaaten der Europäischen Union vorgeschrieben oder in diesem Anhang festgelegt und im System TRACES verfügbar sind.
 
 Für die übrigen Sektoren gelten weiterhin die in Anlage 6 Kapitel II festgelegten gesundheitlichen Bedingungen.
 
-### Kapitel V: Gesundheitliche Bedingungen und Bedingungen für Kontrollen bei Einfuhren aus Drittländern
+### Kapitel V Gesundheitliche Bedingungen und Bedingungen für Kontrollen bei Einfuhren aus Drittländern
 
-### 1. Europäische Union – Rechtsvorschriften\*
-
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+### 1. Europäische Union – Rechtsvorschriften
 
 ### A. Vorschriften im Bereich der öffentlichen Gesundheit
 
-\1. Richtlinie 2009/32/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Extraktionslösungsmittel, die bei der Herstellung von Lebensmitteln und Lebensmittelzutaten verwendet werden (ABl. L 141 vom 6.6.2009, S. 3)
+[^annex10-lvlu1-chapV-lvl1-lvlA-1]
 
-\2. Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34)
+[^annex10-lvlu1-chapV-lvl1-lvlA-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
-\3. Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11)
+\1. Richtlinie 2009/32/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Extraktionslösungsmittel, die bei der Herstellung von Lebensmitteln und Lebensmittelzutaten verwendet werden (ABl. L 141 vom 6.6.2009, S. 3).
 
-\4. Verordnung (EWG) Nr. 315/93 des Rates vom 8. Februar 1993 zur Festlegung von gemeinschaftlichen Verfahren zur Kontrolle von Kontaminanten in Lebensmitteln (ABl. L 37 vom 13.2.1993, S. 1)
+\2. Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34).
 
-\5. Richtlinie 95/45/EG der Kommission vom 26. Juli 1995 zur Festlegung spezifischer Reinheitskriterien für Lebensmittelfarbstoffe (ABl. L 226 vom 22.9.1995, S. 1)
+\3. Verordnung (EG) Nr. 470/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über die Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von Höchstmengen für Rückstände pharmakologisch wirksamer Stoffe in Lebensmitteln tierischen Ursprungs, zur Aufhebung der Verordnung (EWG) Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S. 11).
 
-\6. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β‑Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3)
+\4. Verordnung (EWG) Nr. 315/93 des Rates vom 8. Februar 1993 zur Festlegung von gemeinschaftlichen Verfahren zur Kontrolle von Kontaminanten in Lebensmitteln (ABl. L 37 vom 13.2.1993, S. 1).
 
-\7. Richtlinie 96/23/EG des Rates vom 29. April 1996 über Kontrollmassnahmen hinsichtlich bestimmter Stoffe und ihrer Rückstände in lebenden Tieren und tierischen Erzeugnissen und zur Aufhebung der Richtlinien 85/358/EWG und 86/469/EWG und der Entscheidungen 89/187/EWG und 91/664/EWG (ABl. L 125 vom 23.5.1996, S. 10)
+\5. Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16).
 
-\8. Durchführungsverordnung (EU) Nr. 872/2012 der Kommission vom 1. Oktober 2012 zur Festlegung der Liste der Aromastoffe gemäss der Verordnung (EG) Nr. 2232/96 des Europäischen Parlaments und des Rates, zur Aufnahme dieser Liste in Anhang I der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EG) Nr. 1565/2000 der Kommission und der Entscheidung 1999/217/EG der Kommission (ABl. L 267 vom 2.10.2012, S. 1)
+\6. Richtlinie 96/22/EG des Rates vom 29. April 1996 über das Verbot der Verwendung bestimmter Stoffe mit hormonaler bzw. thyreostatischer Wirkung und von β-Agonisten in der tierischen Erzeugung und zur Aufhebung der Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. L 125 vom 23.5.1996, S. 3).
 
-\9. Richtlinie 1999/2/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über mit ionisierenden Strahlen behandelte Lebensmittel und Lebensmittelbestandteile (ABl. L 66 vom 13.3.1999, S. 16)
+\7. In Bezug auf die Bestimmungen über amtliche Kontrollen, die von den zuständigen Behörden zur Überprüfung der Einhaltung der in diesem Kapitel vorgesehenen Vorschriften durchgeführt werden:
 
-\10. Richtlinie 1999/3/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 über die Festlegung einer Gemeinschaftsliste von mit ionisierenden Strahlen behandelten Lebensmitteln und Lebensmittelbestandteilen (ABl. L 66 vom 13.3.1999, S. 24)
+Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (ABl. L 95 vom 7.4.2017, S. 1).
 
-\11. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABI. L 147 vom 31.5.2001, S. 1)
+\8. Richtlinie 1999/2/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über mit ionisierenden Strahlen behandelte Lebensmittel und Lebensmittelbestandteile (ABl. L 66 vom 13.3.1999, S. 16).
 
-\12. Entscheidung 2002/840/EG der Kommission vom 23. Oktober 2002 zur Festlegung der Liste der in Drittländern für die Bestrahlung von Lebensmitteln zugelassenen Anlagen (ABl. L 287 vom 25.10.2002, S. 40)
+\9. Richtlinie 1999/3/EG des Europäischen Parlaments und des Rates vom 22. Februar 1999 über die Festlegung einer Gemeinschaftsliste von mit ionisierenden Strahlen behandelten Lebensmitteln und Lebensmittelbestandteilen (ABl. L 66 vom 13.3.1999, S. 24).
 
-\13. Verordnung (EG) Nr. 2160/2003 des Europäischen Parlaments und des Rates vom 17. November 2003 zur Bekämpfung von Salmonellen und bestimmten anderen durch Lebensmittel übertragbaren Zoonoseerregern (ABl. L 325 vom 12.12.2003, S. 1)
+\10. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABI. 147 vom 31.5.2001, S. 1).
 
-\14. Verordnung (EG) Nr. 2065/2003 des Europäischen Parlaments und des Rates vom 10. November 2003 über Raucharomen zur tatsächlichen oder beabsichtigten Verwendung in oder auf Lebensmitteln (ABl. L 309 vom 26.11.2003, S. 1)
+\11. Verordnung (EG) Nr. 2160/2003 des Europäischen Parlaments und des Rates vom 17. November 2003 zur Bekämpfung von Salmonellen und bestimmten anderen durch Lebensmittel übertragbaren Zoonoseerregern (ABl. L 325 vom 12.12.2003, S. 1).
 
-\15. Richtlinie 2004/41/EG des Europäischen Parlaments und des Rates vom 21. April 2004 zur Aufhebung bestimmter Richtlinien über Lebensmittelhygiene und Hygienevorschriften für die Herstellung und das Inverkehrbringen von bestimmten, zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs sowie zur Änderung der Richtlinien 89/662/EWG und 92/118/EWG des Rates und der Entscheidung 95/408/EG des Rates (ABl. L 157 vom 30.4.2004, S. 33)
+\12. Verordnung (EG) Nr. 2065/2003 des Europäischen Parlaments und des Rates vom 10. November 2003 über Raucharomen zur tatsächlichen oder beabsichtigten Verwendung in oder auf Lebensmitteln (ABl. L 309 vom 26.11.2003, S. 1).
 
-\16. Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55)
+\13. Richtlinie 2004/41/EG des Europäischen Parlaments und des Rates vom 21. April 2004 zur Aufhebung bestimmter Richtlinien über Lebensmittelhygiene und Hygienevorschriften für die Herstellung und das Inverkehrbringen von bestimmten, zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs sowie zur Änderung der Richtlinien 89/662/EWG und 92/118/EWG des Rates und der Entscheidung 95/408/EG des Rates (ABl. L 157 vom 30.4.2004, S. 33).
 
-\17. Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit besonderen Verfahrensvorschriften für die amtliche Überwachung von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206)
+\14. Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55).
 
-\18. Entscheidung 2005/34/EG der Kommission vom 11. Januar 2005 zur Festlegung einheitlicher Normen für die Untersuchung von aus Drittländern eingeführten Erzeugnissen tierischen Ursprungs auf bestimmte Rückstände (ABl. L 16 vom 20.1.2005, S. 61)
+\15. Verordnung (EG) Nr. 401/2006 der Kommission vom 23. Februar 2006 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Kontrolle des Mykotoxingehalts von Lebensmitteln (ABl. L 70 vom 9.3.2006, S. 12).
 
-\19. Verordnung (EG) Nr. 401/2006 der Kommission vom 23. Februar 2006 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Kontrolle des Mykotoxingehalts von Lebensmitteln (ABl. L 70 vom 9.3.2006, S. 12)
+\16. Verordnung (EU) 2017/644 der Kommission vom 5. April 2017 zur Festlegung der Probenahmeverfahren und Analysemethoden für die Kontrolle der Gehalte an Dioxinen, dioxinähnlichen PCB und nicht dioxinähnlichen PCB in bestimmten Lebensmitteln sowie zur Aufhebung der Verordnung (EU) Nr. 589/2014 (ABl. L 92 vom 6.4.2017, S. 9).
 
-\20. Verordnung (EG) Nr. 1881/2006 der Kommission vom 19. Dezember 2006 zur Festsetzung der Höchstgehalte für bestimmte Kontaminanten in Lebensmitteln (ABl. L 364 vom 20.12.2006, S. 5)
+\17. Verordnung (EG) Nr. 333/2007 der Kommission vom 28. März 2007 zur Festlegung der Probenahme- und Analysemethoden für die Kontrolle des Gehalts an Spurenelementen und Prozesskontaminanten in Lebensmitteln (ABl. L 88 vom 29.3.2007, S. 29).
 
-\21. Verordnung (EU) Nr. 252/2012 der Kommission vom 21. März 2012 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Kontrolle der Gehalte an Dioxinen, dioxinähnlichen PCB und nicht dioxinähnlichen PCB in bestimmten Lebensmitteln sowie zur Aufhebung der Verordnung (EG) Nr. 1883/2006 (ABl. L 84 vom 23.3.2012, S. 1)
-
-\22. Verordnung (EG) Nr. 333/2007 der Kommission vom 28. März 2007 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Kontrolle des Gehalts an Blei, Cadmium, Quecksilber, anorganischem Zinn, 3-MCPD und polyzyklischen aromatischen Kohlenwasserstoffen in Lebensmitteln (ABl. L 88 vom 29.3.2007, S. 29)
+\18. Artikel 118 der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43).
 
 ### B. Vorschriften im Bereich der Tiergesundheit
 
-\1. Richtlinie 92/118/EWG des Rates vom 17. Dezember 1992 über die tierseuchenrechtlichen und gesundheitlichen Bedingungen für den Handel mit Erzeugnissen tierischen Ursprungs in der Gemeinschaft sowie für ihre Einfuhr in die Gemeinschaft, soweit sie diesbezüglich nicht den spezifischen Gemeinschaftsregelungen nach Anhang A Kapitel I der Richtlinie 89/662/EWG und – in Bezug auf Krankheitserreger – der Richtlinie 90/425/EWG unterliegen (ABl. L 62 vom 15.3.1993, S. 49)
+[^annex10-lvlu1-chapV-lvl1-lvlB-1]
 
-\2. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1)
+[^annex10-lvlu1-chapV-lvl1-lvlB-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
-\3. Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1)
+\1. Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht») (ABl. L 84 vom 31.3.2016, S. 1) sowie die delegierten Rechtsakte und Durchführungsrechtsakte, die auf der Grundlage dieser Verordnung bis zum 31. Dezember 2025 erlassen wurden.
 
-\4. Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1)
+\2. Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABI. 147 vom 31.5.2001, S. 1).
 
-\5. Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs (ABl. L 18 vom 23.1.2003, S. 11)
+\3. Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1).
 
-\6. Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten (ABl. L 328 vom 24.11.2006, S. 14)
+\4. Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1).
 
-### C. Andere spezifische Massnahmen\*
+### C. Andere spezifische Massnahmen
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+[^annex10-lvlu1-chapV-lvl1-lvlC-1]
 
-\1. Interimsabkommen über den Handel und eine Zollunion zwischen der Europäischen Wirtschaftsgemeinschaft und der Republik San Marino – Gemeinsame Erklärung der Vertragsparteien – Erklärung der Gemeinschaft (ABl. L 359 vom 9.12.1992, S. 14)
+[^annex10-lvlu1-chapV-lvl1-lvlC-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
 
-\2. Beschluss 94/1/EG, EGKS des Rates und der Kommission vom 13. Dezember 1993 über den Abschluss des Abkommens über den Europäischen Wirtschaftsraum zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten sowie der Republik Österreich, der Republik Finnland, der Republik Island, dem Fürstentum Liechtenstein, dem Königreich Norwegen, dem Königreich Schweden und der Schweizerischen Eidgenossenschaft (ABl. L 1 vom 3.1.1994, S. 1)
+\1. Interimsabkommen über den Handel und eine Zollunion zwischen der Europäischen Wirtschaftsgemeinschaft und der Republik San Marino – Gemeinsame Erklärung der Vertragsparteien – Erklärung der Gemeinschaft (ABl. L 359 vom 9.12.1992, S. 14).
 
-\3. Beschluss 97/132/EG des Rates vom 17. Dezember 1996 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und Neuseeland über veterinärhygienische Massnahmen im Handel mit lebenden Tieren und tierischen Erzeugnissen (ABl. L 57 vom 26.2.1997, S. 4)
+\2. Beschluss 94/1/EG, EGKS des Rates und der Kommission vom 13. Dezember 1993 über den Abschluss des Abkommens über den Europäischen Wirtschaftsraum zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten sowie der Republik Österreich, der Republik Finnland, der Republik Island, dem Fürstentum Liechtenstein, dem Königreich Norwegen, dem Königreich Schweden und der Schweizerischen Eidgenossenschaft (ABl. L 1 vom 3.1.1994, S. 1).
 
-\4. Beschluss 97/345/EG des Rates vom 17. Februar 1997 über den Abschluss des Protokolls über Fragen des Veterinärwesens zur Ergänzung des Abkommens in Form eines Briefwechsels zwischen der Europäischen Wirtschaftsgemeinschaft und dem Fürstentum Andorra (ABl. L 148 vom 6.6.1997, S. 15)
+\3. Beschluss 97/132/EG des Rates vom 17. Dezember 1996 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und Neuseeland über veterinärhygienische Massnahmen im Handel mit lebenden Tieren und tierischen Erzeugnissen (ABl. L 57 vom 26.2.1997, S. 4).
 
-\5. Beschluss 98/258/EG des Rates vom 16. März 1998 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und den Vereinigten Staaten von Amerika über gesundheitspolizeiliche Massnahmen zum Schutz der Gesundheit von Mensch und Tier im Handel mit lebenden Tieren und Tierprodukten (ABl. L 118 vom 21.4.1998, S. 1)
+\4. Beschluss 97/345/EG des Rates vom 17. Februar 1997 über den Abschluss des Protokolls über Fragen des Veterinärwesens zur Ergänzung des Abkommens in Form eines Briefwechsels zwischen der Europäischen Wirtschaftsgemeinschaft und dem Fürstentum Andorra (ABl. L 148 vom 6.6.1997, S. 15).
 
-\6. Beschluss 98/504/EG des Rates vom 29. Juni 1998 über den Abschluss des Interimsabkommens über Handel und handelsbezogene Fragen zwischen der Europäischen Gemeinschaft einerseits und den Vereinigten Mexikanischen Staaten andererseits (ABl. L 226 vom 13.8.1998, S. 24)
+\5. Beschluss 98/258/EG des Rates vom 16. März 1998 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und den Vereinigten Staaten von Amerika über gesundheitspolizeiliche Massnahmen zum Schutz der Gesundheit von Mensch und Tier im Handel mit lebenden Tieren und Tierprodukten (ABl. L 118 vom 21.4.1998, S. 1).
 
-\7. Beschluss 1999/201/EG des Rates vom 14. Dezember 1998 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und der Regierung Kanadas über gesundheitspolizeiliche Massnahmen zum Schutz der Gesundheit von Mensch und Tier im Handel mit lebenden Tieren und Tierprodukten (ABl. L 71 vom 18.3.1999, S. 1)
+\6. Beschluss 98/504/EG des Rates vom 29. Juni 1998 über den Abschluss des Interimsabkommens über Handel und handelsbezogene Fragen zwischen der Europäischen Gemeinschaft einerseits und den Vereinigten Mexikanischen Staaten andererseits (ABl. L 226 vom 13.8.1998, S. 24).
 
-\8. Beschluss 1999/778/EG des Rates vom 15. November 1999 über den Abschluss eines Protokolls über Fragen des Veterinärwesens zur Ergänzung des Abkommens zwischen der Europäischen Gemeinschaft einerseits und der Regierung von Dänemark und der Landesregierung der Färöer-Inseln andererseits (ABl. L 305 vom 30.11.1999, S. 25)
+\7. Beschluss 1999/201/EG des Rates vom 14. Dezember 1998 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und der Regierung Kanadas über gesundheitspolizeiliche Massnahmen zum Schutz der Gesundheit von Mensch und Tier im Handel mit lebenden Tieren und Tierprodukten (ABl. L 71 vom 18.3.1999, S. 1).
 
-\9. Protokoll 1999/1130/EG über Fragen des Veterinärwesens zur Ergänzung des Abkommens zwischen der Europäischen Gemeinschaft einerseits und der Regierung von Dänemark und der Landesregierung der Färöer-Inseln andererseits (ABl. L 305 vom 30.11.1999, S. 26)
+\8. Beschluss 1999/778/EG des Rates vom 15. November 1999 über den Abschluss eines Protokolls über Fragen des Veterinärwesens zur Ergänzung des Abkommens zwischen der Europäischen Gemeinschaft einerseits und der Regierung von Dänemark und der Landesregierung der Färöer-Inseln andererseits (ABl. L 305 vom 30.11.1999, S. 25).
 
-\10. Beschluss 2002/979/EG des Rates vom 18. November 2002 über die Unterzeichnung und die vorläufige Anwendung einiger Bestimmungen des Abkommens zur Gründung einer Assoziation zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Republik Chile andererseits (ABl. L 352 vom 30.12.2002, S. 1)
+\9. Protokoll 1999/1130/EG über Fragen des Veterinärwesens zur Ergänzung des Abkommens zwischen der Europäischen Gemeinschaft einerseits und der Regierung von Dänemark und der Landesregierung der Färöer-Inseln andererseits (ABl. L 305 vom 30.11.1999, S. 26).
 
-### 2. Schweiz – Rechtsvorschriften\*
+\10. Beschluss 2002/979/EG des Rates vom 18. November 2002 über die Unterzeichnung und die vorläufige Anwendung einiger Bestimmungen des Abkommens zur Gründung einer Assoziation zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Republik Chile andererseits (ABl. L 352 vom 30.12.2002, S. 1).
 
-- \* Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2014 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
-- A. Verordnung vom 18. April 2007 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten (EDAV; SR *916.443.10)*
-- B. Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*)
+### 2. Schweiz – Rechtsvorschriften
+
+[^annex10-lvlu1-chapV-lvl2-1]
+
+[^annex10-lvlu1-chapV-lvl2-1]: Jeder Verweis auf einen Rechtsakt ist – sofern nichts anderes angegeben ist – als Verweis auf die vor dem 31. Dezember 2025 zuletzt geänderte Fassung des betreffenden Rechtsakts zu verstehen.
+
+- A. Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS; SR *916.443.10*).
+- B. Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS-EDI; SR *916.443.106*).
 
 ### 3. Durchführungsbestimmungen
 
-- A. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen wendet gleichzeitig mit den Mitgliedstaaten der Europäischen Union die in den unter Kapitel I dieser Anlage aufgelisteten Rechtsakten genannten Einfuhrvorschriften, Durchführungsmassnahmen und Listen von Betrieben an, aus denen entsprechende Einfuhren zugelassen sind. Diese Verpflichtung gilt für alle einschlägigen Rechtsakte unabhängig vom Datum ihres Erlasses.
+- A. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen wendet gleichzeitig mit den Mitgliedstaaten der Europäischen Union die in den in Kapitel V Abschnitt I dieser Anlage aufgelisteten Rechtsakten genannten Einfuhrvorschriften, Durchführungsmassnahmen und Listen von Betrieben an, aus denen entsprechende Einfuhren zugelassen sind. Diese Verpflichtung gilt für alle einschlägigen Rechtsakte unabhängig vom Datum ihres Erlasses.
 - Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen kann strengere Massnahmen festlegen und zusätzliche Garantien verlangen. Der Gemischte Veterinärausschuss tritt zusammen, um über geeignete Massnahmen zur Klärung der Lage zu beraten.
 - Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen und die Mitgliedstaaten der Europäischen Union teilen sich gegenseitig die spezifischen auf bilateraler Ebene festgelegten Einfuhrbedingungen, die nicht Gegenstand einer Harmonisierung auf Ebene der Union sind, mit.
-- B. Die in Kapitel III Nummer B der vorliegenden Anlage genannten Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union führen Kontrollen von für die Schweiz bestimmten Einfuhren aus Drittländern nach Kapitel III Abschnitt A der vorliegenden Anlage durch.
-- C. Die in Kapitel III Nummer B der vorliegenden Anlage genannten Grenzkontrollstellen der Schweiz führen Kontrollen von für die Mitgliedstaaten der Europäischen Union bestimmten Einfuhren aus Drittländern nach Kapitel III Abschnitt A der vorliegenden Anlage durch.
+- B. Die in Kapitel III Teil B Nummer 1 der vorliegenden Anlage genannten Grenzkontrollstellen der Mitgliedstaaten der Europäischen Union führen Kontrollen von für die Schweiz bestimmten Einfuhren aus Drittländern nach Kapitel III Teil A der vorliegenden Anlage durch.
+- C. Die in Kapitel III Teil B Nummer 2 der vorliegenden Anlage genannten Grenzkontrollstellen der Schweiz führen Kontrollen von für die Mitgliedstaaten der Europäischen Union bestimmten Einfuhren aus Drittländern nach Kapitel III Teil A der vorliegenden Anlage durch.
 - D.
 
-  Gemäss der Verordnung vom 27. August 2008 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr (EDTpV; SR *916.443.13*) behält die Schweizerische Eidgenossenschaft sich die Möglichkeit vor, Rindfleisch einzuführen, das von Rindern stammt, die möglicherweise mit Wachstumshormonen behandelt wurden. Die Ausfuhr dieses Fleischs in die Europäische Union ist untersagt. Darüber hinaus handelt die Schweizerische Eidgenossenschaft wie folgt:
+  Gemäss der Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV‑DS; SR *916.443.10*) behält die Schweizerische Eidgenossenschaft sich die Möglichkeit vor, Rindfleisch einzuführen, das von Rindern stammt, die möglicherweise mit Wachstumshormonen behandelt wurden. Die Ausfuhr dieses Fleischs in die Europäische Union ist untersagt. Darüber hinaus handelt die Schweizerische Eidgenossenschaft wie folgt:
 
-  - – sie begrenzt die Verwendung solchen Fleischs auf den alleinigen Direktverkauf an den Verbraucher in Einzelhandelsbetrieben unter Vorbehalt einer angemessenen Kennzeichnung;
-  - – sie begrenzt die Einfuhr auf die schweizerischen Grenzkontrollstellen; und
+  - – Sie begrenzt die Verwendung solchen Fleischs auf den alleinigen Direktverkauf an den Verbraucher in Einzelhandelsbetrieben unter Vorbehalt einer angemessenen Kennzeichnung;
+  - – sie begrenzt die Einfuhr auf die Schweizer Grenzkontrollstellen;
   - – sie betreibt ein geeignetes Rückverfolgungs- und Steuerungssystem, um jede Möglichkeit einer anschliessenden Einfuhr in das Gebiet der Mitgliedstaaten der Europäischen Union auszuschliessen;
   - – sie übermittelt der Kommission einmal im Jahr einen Bericht über Herkunft und Bestimmung der Einfuhren sowie eine Übersicht über durchgeführte Kontrollen als Nachweis für die Einhaltung der vorstehend genannten Bedingungen;
   - – im Zweifelsfall werden diese Bestimmungen vom Gemischten Veterinärausschuss geprüft.
 
-### Kapitel VI: Kontrollgebühren
+- E. Die Schweiz gilt bis zum 1. Juli 2028 für die Zwecke der Anwendung des Artikels 118 der Verordnung (EU) 2019/6 nicht als Drittland.
+- Dieser Absatz wird vom Gemischten Veterinärausschuss bis zum 1. Juli 2028 überprüft.
+
+### Kapitel VI Gebühren
 
 \1. Für veterinärrechtliche und tierzüchterische Kontrollen im Handel zwischen den Mitgliedstaaten der Europäischen Union und der Schweiz werden keine Gebühren erhoben.
 
-\2. Die schweizerischen Behörden verpflichten sich, bei Veterinärkontrollen von Einfuhren aus Drittländern die in der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1) vorgesehenen Gebühren zu erheben.
+\2. Die schweizerischen Behörden verpflichten sich, bei Veterinärkontrollen von Einfuhren aus Drittländern die in der Verordnung (EU) 2017/625 vorgesehenen Gebühren zu erheben.
 
 Anlage 11[^t-32]
 

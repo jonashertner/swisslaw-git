@@ -3,11 +3,11 @@ sr: "0.916.026.81"
 title: Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles (avec annexes et acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/323"
 language: fr
-version: 2023-01-01
+version: 2026-07-24
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-323-20230101-fr-xml-28.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20260724/fr/xml/fedlex-data-admin-ch-eli-cc-2002-323-20260724-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/323/20260724/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 16 octobre 2000
 
 Entré en vigueur le 1<sup>er</sup> juin 2002
 
-(État le 1<sup>er</sup> janvier 2023)
+(État le 24 juillet 2026)
 
 [^t-1]: Art. 1 al. 1 let. d de l’AF du 8 oct. 1999 ([RO 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
 
@@ -323,13 +323,13 @@ Appendice Organismes de contrôle suisses autorisés à délivrer le certificat 
 
 Appendice 1 Mesures de lutte / notification des maladies
 
-Appendice 2 Santé animale: échanges et mise sur le marché
+Appendice 2 Santé animale: échanges entre la Suisse et l'Union européenne et mise sur le marché
 
-Appendice 3 Importation d’animaux vivants, de leur sperme, ovules et embryons des pays tiers
+Appendice 3 Importation d’animaux vivants et de leurs produits germinaux des pays tiers
 
 Appendice 4 Zootechnie, y compris importation des pays tiers
 
-Appendice 5 Animaux vivants, sperme, ovules et embryons: contrôlés aux frontières et redevances
+Appendice 5 Animaux vivants et produits germinaux: Contrôles aux frontières et redevances
 
 Appendice 6 Produits animaux
 
@@ -9321,7 +9321,7 @@ Suisse
 
 Appendice 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20230101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/323/20260724/fr/xml/image/image1.png)
 
 Annexe 11
 
@@ -9566,163 +9566,44 @@ Appendice 1[^t-24]
 
 ## Mesures de lutte/notification des maladies
 
-[^t-24]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015, en vigueur depuis le 17 déc. 2015, avec effet depuis le 1<sup>er</sup> janv. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-24]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2026 du Comité mixte vétérinaire du 24 juil. 2026, en vigueur depuis le 24 juil. 2026, applicable à partir du 1<sup>er</sup> sept. 2026 ([RO 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### I. Fièvre aphteuse
+### I. Maladies des animaux terrestres
 
-### A. Législations<sup>∗</sup>
+### A. Législations
 
 [^annex1-lvlu1-lvlI-lvlA-1]
 
-[^annex1-lvlu1-lvlI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlI-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2003/85/CE du Conseil du 29 septembre 2003 établissant des mesures communautaires de lutte contre la fièvre aphteuse, abrogeant la directive 85/511/CEE et les décisions 89/531/CEE et 91/665/CEE et modifiant la directive 92/46/CEE (JO L 306 du 22.11.2003, p. 1).</td><td>1. Loi sur les épizooties (LFE; RS *916.40*) du 1<sup>er</sup> juillet 1966, et en particulier ses art. 1 à 10*b* (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance sur les épizooties (OFE; RS *916.401*) du 27 juin 1995, et en particulier ses art. 2 (épizooties hautement contagieuses), 49 (manipulation de microorganismes pathogènes pour l’animal), 73 et 74 (nettoyage, désinfection, désinfestation), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 99 à 103 (mesures spécifiques concernant la lutte contre la fièvre aphteuse); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence, enregistrement, contrôle et mise à disposition de vaccin contre la fièvre aphteuse).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant la santé des animaux: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*). 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*). 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12. 4. Ordonnance du 25 mai 2011 concernant les sous-produits animaux (OSPA; RS *916.441.22*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
 \1. La Commission et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires se notifient l’intention de mettre en œuvre une vaccination d’urgence. Dans les cas d’extrême urgence, la notification peut porter sur la décision prise et sur ses modalités de mise en œuvre. En tout cas, des consultations se tiennent dans les délais les plus brefs au sein du Comité mixte vétérinaire.
 
-\2. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
+\2. La liste des laboratoires de référence de l’Union européenne est publiée sur le site de la Commission européenne, conformément à l’art. 99 du règlement (UE) 2017/625.
 
-\3. Le laboratoire commun de référence pour l’identification du virus de fièvre aphteuse est: The Pirbright Institute, Pirbright Laboratory, Ash Road, Pirbright, Surrey, GU24 0NF, Royaume-Uni. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les fonctions et les tâches de ce laboratoire sont celles prévues par l’annexe XVI de la directive 2003/85/CE.
+La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les responsabilités et les tâches de ces laboratoires sont celles prévues par l’art. 94 du règlement (UE) 2017/625.
 
-### II. Peste porcine classique
+La liste des laboratoires nationaux de référence pour la Suisse est publiée sur le site de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
 
-### A. Législations<sup>∗</sup>
+\3. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
+
+### II. Maladies des poissons et des mollusques
+
+### A. Législations
 
 [^annex1-lvlu1-lvlII-lvlA-1]
 
-[^annex1-lvlu1-lvlII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2001/89/CE du Conseil du 23 octobre 2001 relative à des mesures communautaires de lutte contre la peste porcine classique (JO L 316 du 1.12.2001, p. 5).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier ses art. 1 à 10*b* (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 2 (épizooties hautement contagieuses), 40 et 47 (élimination des sous-produits animaux), 49 (manipulation de microorganismes pathogènes pour l’animal), 73 et 74 (nettoyage, désinfection et désinfestation), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 116 à 121 (constatation de la peste porcine lors de l’abattage, mesures spécifiques concernant la lutte contre la peste porcine); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence). 4. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. La Commission et l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires se notifient l’intention de mettre en œuvre une vaccination d’urgence. Des consultations se tiennent dans les délais les plus brefs au sein du Comité mixte vétérinaire.
-
-\2. Si nécessaire et en vertu de l’art. 117, par. 5, de l’ordonnance sur les épizooties, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires édicte des dispositions d’exécution de caractère technique en ce qui concerne l’estampillage et le traitement des viandes provenant des zones de protection et de surveillance.
-
-\3. En vertu de l’art. 121 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’éradication de la peste porcine classique chez les porcs sauvages conformément aux art. 15 et 16 de la directive 2001/89/CE.
-
-\4. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
-
-\5. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 21 de la directive 2001/89/CEE et à l’art. 57 de la loi sur les épizooties.
-
-\6. Si nécessaire, en application de l’art. 89, par. 2, de l’ordonnance sur les épizooties, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires édicte des dispositions d’exécution de caractère technique en ce qui concerne le contrôle sérologique des porcs dans les zones de protection et de surveillance conformément au chapitre IV de l’annexe de la décision 2002/106/CE de la Commission[^annex1-lvlu1-lvlII-lvlB-1].
-
-\7. Le laboratoire commun de référence pour la peste porcine classique est: Institut für Virologie der Tierärztlichen Hochschule Hannover, 15 Bünteweg 17, 30559 Hanovre, Allemagne. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les compétences et les tâches de ce laboratoire sont celles prévues par l’annexe IV de la directive 2001/89/CE.
-
-[^annex1-lvlu1-lvlII-lvlB-1]: Décision 2002/106/CE de la Commission du 1<sup>er</sup> février 2002 portant approbation d’un manuel diagnostique établissant des procédures de diagnostic, des méthodes d’échantillonnage et des critères pour l’évaluation des tests de laboratoire de confirmation de la peste porcine classique (JO L 39 du 9.2.2002, p. 71).
-
-### III. Peste porcine africaine
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlIII-lvlA-1]
-
-[^annex1-lvlu1-lvlIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2002/60/CE du Conseil du 27 juin 2002 établissant des dispositions spécifiques pour la lutte contre la peste porcine africaine et modifiant la directive 92/119/CEE, en ce qui concerne la maladie de Teschen et la peste porcine africaine (JO L 192 du 20.7.2002, p. 27).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier ses art. 1 à 10*b* (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 2 (épizooties hautement contagieuses), 40 et 47 (élimination des sous-produits animaux), 49 (manipulation de microorganismes pathogènes pour l’animal); 73 et 74 (nettoyage et désinfection), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 116 à 121 (constatation de la peste porcine lors de l’abattage, mesures spécifiques concernant la lutte contre la peste porcine); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence); 4. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Le laboratoire de référence de l’Union européenne pour la peste porcine africaine est: Centro de Investigación en Sanidad Animal, 28130 Valdeolmos, Madrid, Espagne. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les compétences et les tâches de ce laboratoire sont celles prévues par l’annexe V de la directive 2002/60/CE.
-
-\2. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
-
-\3. Si nécessaire, en vertu de l’art. 89, par. 2, de l’ordonnance sur les épizooties, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires édicte des dispositions d’exécution de caractère technique conformément aux dispositions de la décision 2003/422/CE de la Commission[^annex1-lvlu1-lvlIII-lvlB-1] en ce qui concerne les modalités de diagnostic de la peste porcine africaine.
-
-\4. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 20 de la directive 2002/60/CEE et à l’art. 57 de la loi sur les épizooties.
-
-[^annex1-lvlu1-lvlIII-lvlB-1]: Décision 2003/422/CE de la Commission du 26 mai 2003 portant approbation du manuel de diagnostic de la peste porcine africaine (JO L 143 du 11.6.2003, p. 35).
-
-### IV. Peste équine
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlIV-lvlA-1]
-
-[^annex1-lvlu1-lvlIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 92/35/CEE du Conseil du 29 avril 1992 établissant les règles de contrôle et les mesures de lutte contre la peste équine (JO L 157 du 10.6.1992, p. 19).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier ses art. 1 à 10*b* (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 2 (épizooties hautement contagieuses), 49 (manipulation de micro-organismes pathogènes pour l’animal), 73 et 74 (nettoyage, désinfection et désinfestation), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 112 à 112*f* (mesures spécifiques concernant la lutte contre la peste équine); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence); 4. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Dans le cas où se développe en Suisse une épizootie présentant un caractère d’exceptionnelle gravité, le Comité mixte vétérinaire se réunit afin de procéder à un examen de la situation. Les autorités compétentes suisses s’engagent à prendre les mesures nécessaires à la lumière des résultats de cet examen.
-
-\2. Le laboratoire commun de référence pour la peste équine est: Laboratorio de Sanidad y Producción Animal, Ministerio de Agricultura, Pesca y Alimentación, 28110 Algete, Madrid, Espagne. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les fonctions et les tâches de ce laboratoire sont celles prévues par l’annexe III de la directive 92/35/CEE.
-
-\3. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 16 de la directive 92/35/CEE et à l’art. 57 de la loi sur les épizooties.
-
-\4. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
-
-### V. Influenza aviaire
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlV-lvlA-1]
-
-[^annex1-lvlu1-lvlV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2005/94/CE du Conseil du 20 décembre 2005 concernant des mesures communautaires de lutte contre l’influenza aviaire et abrogeant la directive 92/40/CEE (JO L 10 du 14.1.2006, p. 16).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier ses art. 1 à 10*b* (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 2 (épizooties hautement contagieuses), 49 (manipulation de micro-organismes pathogènes pour l’animal), 73 et 74 (nettoyage, désinfection et désinfestation), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 122 à 122*f* (mesures spécifiques concernant l’influenza aviaire); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Le laboratoire de référence de l’Union européenne pour l’influenza aviaire est: Animal Health and Veterinary Laboratory Agency AHVLA Corporate Headquarters (Weybridge), Woodham Lane, New Haw, Addlestone, Surrey, KT15 3NB, Royaume-Uni. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les fonctions et les tâches de ce laboratoire sont celles prévues par l’annexe VII, point 2, de la directive 2005/94/CE.
-
-\2. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
-
-\3. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 60 de la directive 2005/94/CE et à l’art. 57 de la loi sur les épizooties.
-
-### VI. Maladie de Newcastle
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlVI-lvlA-1]
-
-[^annex1-lvlu1-lvlVI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 92/66/CEE du Conseil du 14 juillet 1992 établissant les mesures communautaires de lutte contre la maladie de Newcastle (JO L 260 du 5.9.1992, p. 1).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier ses art. 1 à 10*b* (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance du 27 juin 1995 sur les épizooties (LFE; RS *916.401*), et en particulier ses art. 2 (épizooties hautement contagieuses), 40 et 47 (élimination des sous-produits animaux), 49 (manipulation de micro-organismes pathogènes pour l’animal), 73 et 74 (nettoyage, désinfection et désinfestation), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 123 à 125 (mesures spécifiques concernant la maladie de Newcastle); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence); 4. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Le laboratoire de référence de l’Union européenne pour la maladie de Newcastle est: Animal Health and Veterinary Laboratory Agency AHVLA Corporate Headquarters (Weybridge), Woodham Lane, New Haw, Addlestone, Surrey, KT15 3NB, Royaume-Uni. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les fonctions et les tâches de ce laboratoire sont celles prévues par l’annexe V de la directive 92/66/CEE.
-
-\2. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
-
-\3. Les informations prévues aux art. 17 et 19 de la directive 92/66/CEE relèvent du Comité mixte vétérinaire.
-
-\4. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 22 de la directive 92/66/CEE et à l’art. 57 de la loi sur les épizooties.
-
-### VII. Maladies des poissons et des mollusques
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlVII-lvlA-1]
-
-[^annex1-lvlu1-lvlVII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2006/88/CE du Conseil du 24 octobre 2006 relative aux conditions de police sanitaire applicables aux animaux et aux produits d’aquaculture, et relative à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies (JO L 328 du 24.11.2006, p. 14).</td><td>1. Loi sur les épizooties du 1<sup>er</sup> juillet 1966 (LFE; RS *916.40*), et en particulier ses art. 1 à 10 (mesures contre les épizooties) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 3 à 5 (épizooties visées), 21 à 23 (enregistrement des exploitations aquacoles, contrôle des effectifs et autres obligations, surveillance sanitaire), 61 (obligations des propriétaires et affermataires d’un droit de pêche et des organes chargés de surveiller la pêche), 62 à 76 (mesures de lutte en général), 277 à 290 (mesures communes et spécifiques concernant les maladies des poissons, laboratoire de diagnostic).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant la santé des animaux: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*). 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*).</td></tr>
 </table>
 
 ### B. Modalités d’application
@@ -9731,26 +9612,34 @@ Appendice 1[^t-24]
 
 \2. En vue de la lutte contre les maladies des poissons et des mollusques, la Suisse applique l’ordonnance sur les épizooties, notamment les art. 61 (obligation des propriétaires et affermataires d’un droit de pêche et des organes chargés de surveiller la pêche), 62 à 76 (mesures de lutte en général), 277 à 290 (mesures spécifiques concernant les maladies des animaux aquatiques, laboratoire de diagnostic) ainsi que 291 (épizooties à surveiller).
 
-\3. Le laboratoire de référence de l’Union européenne pour les maladies des crustacés est: Centre for Environment, Fisheries & Aquaculture Science (CEFAS), Weymouth Laboratory, Royaume-Uni. Le laboratoire de référence de l’Union européenne pour les maladies des poissons est: National Veterinary Institute, Technical University of Denmarkiet, Hangövej 2, 8200 Aarhus, Danemark. Le laboratoire de référence de l’Union européenne pour les maladies des mollusques est: Laboratoire IFREMER, BP 133, 17390 La Tremblade, France. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les fonctions et les tâches de ces laboratoires sont celles prévues par l’annexe VI, partie I, de la directive 2006/88/CE.
+\3. La liste des laboratoires de référence de l’Union européenne est publiée sur le site de la Commission européenne, conformément à l’art. 99 du règlement (UE) 2017/625.
 
-\4. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 58 de la directive 2006/88/CEE et à l’art. 57 de la loi sur les épizooties.
+La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les responsabilités et les tâches de ces laboratoires sont celles prévues par l’art. 94 du règlement (UE) 2017/625.
 
-### VIII. Encéphalopathies spongiformes transmissibles
+La liste des laboratoires nationaux de référence pour la Suisse est publiée sur le site de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
 
-### A. Législations<sup>∗</sup>
+\4. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
 
-[^annex1-lvlu1-lvlVIII-lvlA-1]
+### III. Encéphalopathies spongiformes transmissibles
 
-[^annex1-lvlu1-lvlVIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+### A. Législations
+
+[^annex1-lvlu1-lvlIII-lvlA-1]
+
+[^annex1-lvlu1-lvlIII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1).</td><td>1. Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*), et en particulier son art. 184 (procédés d’étourdissement); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 3. Loi du 9 octobre 1992 sur les denrées alimentaires et les objets usuels (LDAl; RS *817.0*), et en particulier ses art. 24 (inspection et prélèvement d’échantillons) et 40 (contrôle des denrées alimentaires); 4. Ordonnance du 23 novembre 2005 du DFI sur les denrées alimentaires d’origine animale (RS *817.022.108*), et en particulier ses art. 4 et 7 (parties de la carcasse dont l’utilisation est interdite); 5. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 6 (définitions et abréviations), 34 (patente), 61 (obligation d’annoncer), 130 (surveillance du cheptel suisse), 175 à 181 (encéphalopathies spongiformes transmissibles), 297 (exécution à l’intérieur du pays), 301 (tâches du vétérinaire cantonal), 302 (vétérinaire officiel) et 312 (laboratoires de diagnostic); 6. Ordonnance du DEFR du 26 octobre 2011 sur le Livre des aliments pour animaux (OLALA; RS *916.307.1*), et en particulier son art. 21 (tolérance, prise d’échantillons, méthodes d’ana-lyses et transport), l’annexe 1.2 , chi. 15 (produits d’animaux terrestres), chi. 16 (poissons, autres animaux marins, leurs produits et sous-produits), et l’annexe 4.1 (substances dont la mise en circulation et l’utilisation sont limitées ou interdites); 7. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</td></tr>
+<tr><td>1. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1). 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant la santé des animaux: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1).</td><td>1. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*). 2. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE‑PT-DFI; RS *916.443.106*). 3. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE; RS *916.443.11*). 4. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE-DFI; RS *916.443.111*). 5. Loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels (Loi sur les denrées alimentaires, LDAl; RS *817.0*), et en particulier ses art. 30 (contrôle et prélèvement d’échantillons) et 31 (inspection des animaux avant l’abattage et inspection de la viande). 6. Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine animale (RS *817.022.108*), en particulier son art. 5 (parties impropres à la consommation). 7. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 3 (classification de l’encéphalopathie spongiforme bovine et tremblante comme épizooties à éradiquer), 6 (définitions et abréviations), 34 (patente), 61 (obligation d’annoncer), 76*a* (objets et exigences), 175 à 181 (encéphalopathies spongiformes transmissibles), 297 (exécution à l’intérieur du pays), 301 (tâches du vétérinaire cantonal), 302 (vétérinaire officiel) et 312 (laboratoires de diagnostic). 8. Ordonnance du DEFR du 26 octobre 2011 sur la production et la mise en circulation des aliments pour animaux, des additifs destinés à l’alimentation animale et des aliments diététiques pour animaux (OLALA; RS *916.307.1*), et en particulier son art. 21 (tolérance, prise d’échantillons, méthodes d’analyses et transport), l’annexe 1.2, ch. 15 (produits d’animaux terrestres), ch. 16 (poissons, autres animaux marins, leurs produits et sous-produits), et l’annexe 4.1 (substances dont la mise en circulation et l’utilisation sont limitées ou interdites). 9. Ordonnance du 25 mai 2011 concernant les sous-produits animaux (OSPA; RS *916.441.22*). 10. Ordonnance du DFI du 26 novembre 2025 concernant la valorisation des sous-produits animaux comme aliments pour animaux ou comme engrais (OUSPA, RS *916.441.224.1*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. Le laboratoire de référence de l’Union européenne pour les encéphalopathies spongiformes transmissibles (EST) est: Animal Health and Veterinary Laboratory Agency AHVLA Corporate Headquarters (Weybridge), Woodham Lane, New Haw, Addlestone, Surrey, KT15 3NB, Royaume-Uni. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les compétences et les tâches de ce laboratoire sont celles prévues par l’annexe X, chapitre B, du règlement (CE) n<sup>o</sup> 999/2001.
+\1. Le laboratoire de référence de l’Union européenne pour les encéphalopathies spongiformes transmissibles (EST) est publié sur le site de la Commission européenne.
+
+La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les responsabilités et les tâches de ce laboratoire sont celles prévues l’art. 94 du règlement (UE) 2017/625.
+
+Le laboratoire national de référence pour la Suisse est publié sur le site de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
 
 \2. En vertu de l’art. 57 de la loi sur les épizooties, la Suisse dispose d’un plan d’urgence pour l’exécution des mesures de lutte contre les EST.
 
@@ -9765,7 +9654,7 @@ En vertu de l’art. 179*c* de l’ordonnance sur les épizooties, la Suisse aba
 \4. En vertu de l’art. 180*b* de l’ordonnance sur les épizooties, la Suisse met à mort les animaux atteints de tremblante, leurs mères, les descendants directs de mères contaminées ainsi que tous les autres moutons et toutes les autres chèvres du troupeau, à l’exception:
 
 - – des moutons porteurs d’au moins un allèle ARR et d’aucun allèle VRQ, et
-- – des animaux âgés de moins de deux mois, destinés à l’abattage exclusivement. La tête et les organes de la cavité abdominale de ces animaux sont éliminés conformément aux dispositions de l’ordonnance concernant l’élimination des sous-produits animaux.
+- – des animaux âgés de moins de deux mois, destinés à l’abattage exclusivement. La tête et les organes de la cavité abdominale de ces animaux sont éliminés conformément aux dispositions de l’ordonnance concernant les sous-produits animaux.
 
 À titre exceptionnel, dans le cas de races à faibles effectifs, il peut être renoncé à la mise à mort du troupeau. Dans ce cas, le troupeau est placé sous surveillance vétérinaire officielle pendant une durée de deux ans au cours de laquelle un examen clinique des animaux du troupeau est réalisé deux fois par an. Si durant cette période des animaux sont cédés pour la mise à mort, leurs têtes y compris leurs amygdales font l’objet d’une analyse au laboratoire suisse de référence pour les EST.
 
@@ -9775,520 +9664,211 @@ En cas de confirmation de l’ESB chez un ovin ou un caprin, la Suisse s’engag
 
 \5. Au titre de l’art. 7 du règlement (CE) n<sup>o</sup> 999/2001, les États membres de l’Union européenne interdisent l’utilisation de protéines animales transformées dans l’alimentation des animaux d’élevage détenus, engraissés ou élevés pour la production de denrées alimentaires. Une interdiction totale d’utiliser les protéines dérivées d’animaux dans l’alimentation des ruminants est appliquée par les États membres de l’Union européenne.
 
-Au titre de l’art. 27 de l’ordonnance concernant l’élimination des sous-produits animaux (OESPA), la Suisse a mis en place une interdiction totale d’utiliser des protéines animales dans l’alimentation des animaux d’élevage.
+Au titre de l’art. 27 de l’ordonnance concernant les sous-produits animaux (OSPA), la Suisse a mis en place une interdiction totale d’utiliser des protéines animales dans l’alimentation des animaux d’élevage.
 
-\6. Au titre de l’art. 6 du règlement (CE) n<sup>o</sup> 999/2001 et conformément à l’annexe III, chapitre A, dudit règlement, les États membres de l’Union européenne doivent mettre en place un programme annuel de surveillance de l’ESB. Ce plan inclut un test rapide ESB sur tous les bovins âgés de plus de vingt-quatre mois abattus d’urgence, morts à la ferme ou trouvés malades lors de l’inspection ante mortem et sur tous les animaux de plus de trente mois abattus pour la consommation humaine.
+Des dérogations sont possibles pour les protéines animales transformées dérivées de poissons, de porc, de volaille et d’insectes d’élevage, conformément au règlement (CE) n<sup>o</sup> 999/2001, ainsi qu’à l’ordonnance concernant les sous-produits animaux (OSPA) et l’ordonnance concernant la valorisation des sous-produits animaux comme aliments pour animaux ou comme engrais (OUSPA).
 
-Les tests rapides ESB utilisés par la Suisse sont énumérés à l’annexe X, chapitre C, du règlement (CE) n<sup>o</sup> 999/2001.
+\6. Au titre de l’art. 6 du règlement (CE) n<sup>o</sup> 999/2001 et conformément à l’annexe III, chap. A, dudit règlement, les États membres de l’Union européenne doivent mettre en place un programme annuel de surveillance de l’ESB. Ce plan inclut un test rapide ESB sur tous les bovins âgés de plus de vingt-quatre mois abattus d’urgence, morts à la ferme ou trouvés malades lors de l’inspection ante mortem et sur tous les animaux de plus de trente mois abattus pour la consommation humaine.
 
-Au titre de l’art. 176 de l’ordonnance sur les épizooties, la Suisse effectue de manière obligatoire un test rapide ESB sur tous les bovins âgés de plus de quarante-huit mois qui sont morts ou ont été tués dans d’autres buts que l’abattage, emmenés à l’abattoir malades ou accidentés.
+Les tests rapides ESB utilisés par la Suisse sont énumérés à l’annexe X, chap. C, du règlement (CE) n<sup>o</sup> 999/2001.
 
-\7. Au titre de l’art. 6 du règlement (CE) n<sup>o</sup> 999/2001 et conformément à l’annexe III, chapitre A, dudit règlement, les États membres de l’Union européenne doivent mettre en place un programme annuel de surveillance de la tremblante.
+Au titre de l’art. 179 de l’ordonnance sur les épizooties, la Suisse effectue de manière obligatoire un test rapide ESB sur tous les bovins âgés de plus de quarante-huit mois qui sont morts ou ont été tués dans d’autres buts que l’abattage, emmenés à l’abattoir malades ou accidentés.
 
-En application des dispositions de l’art. 177 de l’ordonnance sur les épizooties, la Suisse a mis en place un programme de surveillance des EST chez les ovins et les caprins âgés de plus de douze mois. Les animaux abattus d’urgence, morts à la ferme ou trouvés malades lors de l’inspection *ante mortem* ainsi que tous les animaux abattus pour la consommation humaine ont été examinés sur la période courant du mois de juin 2004 au mois de juillet 2005. L’ensemble des échantillons s’étant révélé négatif au regard de l’ESB, une surveillance par échantillonnage des animaux suspects cliniques, des animaux abattus d’urgence et des animaux morts à la ferme est poursuivie.
+\7. Au titre de l’art. 6 du règlement (CE) n<sup>o</sup> 999/2001 et conformément à l’annexe III, chap. A, dudit règlement, les États membres de l’Union européenne doivent mettre en place un programme annuel de surveillance de la tremblante.
+
+En application des dispositions de l’art. 177 de l’ordonnance sur les épizooties, la Suisse a mis en place un programme de surveillance des EST chez les ovins et les caprins âgés de plus de douze mois. Les animaux abattus d’urgence, morts à la ferme ou trouvés malades lors de l’inspection ante mortem ainsi que tous les animaux abattus pour la consommation humaine ont été examinés sur la période courant du mois de juin 2004 au mois de juillet 2005. L’ensemble des échantillons s’étant révélé négatif au regard de l’ESB, une surveillance par échantillonnage des animaux suspects cliniques, des animaux abattus d’urgence et des animaux morts à la ferme est poursuivie.
 
 La reconnaissance de la similarité des législations en matière de surveillance des EST chez les ovins et les caprins sera reconsidérée au sein du Comité mixte vétérinaire.
 
-\8. Les informations prévues à l’art. 6 et à l’annexe III, chapitre B, et à l’annexe IV (3.III) du règlement (CE) n<sup>o</sup> 999/2001 relèvent du Comité mixte vétérinaire.
+\8. Les informations prévues à l’art. 6 et à l’annexe III, chap. B, et à l’annexe IV (3.III) du règlement (CE) n<sup>o</sup> 999/2001 relèvent du Comité mixte vétérinaire.
 
-\9. La mise en œuvre des contrôles sur place relève du comité mixte vétérinaire, conformément notamment à l’art. 21 du règlement (CE) n<sup>o</sup> 999/2001 et à l’art. 57 de la loi sur les épizooties.
+\9. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
 
-### C. Informations complémentaires
+### IV. Zoonoses
 
-\1. Depuis le 1<sup>er</sup> janvier 2003 et en vertu de l’ordonnance du 10 novembre 2004 concernant l’allocation de contributions pour payer les frais d’élimination des sous-produits animaux (RS *916.407*), la Suisse a mis en place une incitation financière au profit des fermes où les bovins sont nés et des abattoirs où les bovins sont abattus, lorsqu’ils respectent les procédures de déclaration des mouvements d’animaux prévus par la législation en vigueur.
+### A. Législations
 
-\2. Au titre de l’art. 8 du règlement (CE) n<sup>o</sup> 999/2001 et conformément à l’annexe XI, point 1, dudit règlement, les États membres de l’Union européenne doivent enlever et détruire les matériels à risque spécifiés (MRS).
+[^annex1-lvlu1-lvlIV-lvlA-1]
 
-La liste des MRS retirés chez les bovins comprend le crâne, à l’exclusion de la mandibule, y compris l’encéphale et les yeux, ainsi que la moelle épinière des bovins âgés de plus de douze mois; la colonne vertébrale, à l’exclusion des vertèbres caudales, des apophyses épineuses et transverses des vertèbres cervicales, thoraciques et lombaires et de la crête sacrée médiane et des ailes du sacrum, mais y compris les ganglions rachidiens et la moelle épinière des bovins âgés de plus de vingt-quatre mois; les amygdales, les intestins, du duodénum au rectum et le mésentère des bovins de tous âges.
-
-La liste des MRS retirés chez les ovins et les caprins comprend le crâne, y compris l’encéphale et les yeux, les amygdales et la moelle épinière des ovins et des caprins âgés de plus de douze mois ou qui présentent une incisive permanente ayant percé la gencive, ainsi que la rate et l’iléon des ovins et des caprins de tous âges.
-
-Conformément à l’art. 179*d* de l’ordonnance sur les épizooties et à l’art. 4 de l’ordonnance sur les denrées alimentaires d’origine animale, la Suisse a mis en place une politique de retrait des chaînes alimentaires animale et humaine des MRS. La liste des MRS retirés chez les bovins comprend notamment la colonne vertébrale des animaux âgés de plus de trente mois, les amygdales, les intestins du duodénum au rectum et le mésentère des animaux de tous âges.
-
-Conformément à l’art. 180*c* de l’ordonnance sur les épizooties et à l’art. 4 de l’ordonnance sur les denrées alimentaires d’origine animale, la Suisse a mis en place une politique de retrait des chaînes alimentaires animale et humaine des MRS. La liste des MRS retirés chez les ovins et les caprins comprend notamment le cerveau non extrait de la boîte crânienne, la moelle épinière avec la dure-mère (*Dura mater*) et les amygdales des animaux âgés de plus de douze mois ou chez lesquels une incisive permanente a percé la gencive, la rate et l’iléon des animaux de tous âges.
-
-\3. Le règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil[^annex1-lvlu1-lvlVIII-lvlC-1] et le règlement (UE) n<sup>o</sup> 142/2011 de la Commission[^annex1-lvlu1-lvlVIII-lvlC-2] établissent les règles sanitaires applicables aux sous‑produits animaux non destinés à la consommation humaine dans les États membres de l’Union européenne.
-
-Au titre de l’art. 22 de l’ordonnance concernant l’élimination des sous-produits animaux, la Suisse incinère les sous-produits animaux de catégorie 1, y compris les matériels à risques spécifiés et les animaux morts à la ferme.
-
-[^annex1-lvlu1-lvlVIII-lvlC-1]: Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (JO L 300 du 14.11.2009, p. 1).
-[^annex1-lvlu1-lvlVIII-lvlC-2]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette Directive (JO L 54 du 26.2.2011, p. 1).
-
-### IX. Fièvre catarrhale du mouton
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlIX-lvlA-1]
-
-[^annex1-lvlu1-lvlIX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlIV-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2000/75/CE du Conseil du 20 novembre 2000 arrêtant des dispositions spécifiques relatives aux mesures de lutte et d’éradication de la fièvre catarrhale du mouton ou bluetongue (JO L 327 du 22.12.2000, p. 74).</td><td>1. Loi sur les épizooties du 1<sup>er</sup> juillet 1966 (LFE; RS *916.40*), et en particulier ses art. 1 à 10 (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 2 (épizooties hautement contagieuses), 73 et 74 (nettoyage, désinfection et désinfestation), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 239*a* à 239*h* (mesures spécifiques concernant la lutte de la fièvre catarrhale du mouton); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence).</td></tr>
+<tr><td>1. Règlement (CE) n<sup>o</sup> 2160/2003 du Parlement européen et du Conseil du 17 novembre 2003 sur le contrôle des salmonelles et d’autres agents zoonotiques spécifiques présents dans la chaîne alimentaire (JO L 325 du 12.12.2003, p. 1). 2. Directive 2003/99/CE du Parlement européen et du Conseil du 17 novembre 2003 sur la surveillance des zoonoses et des agents zoonotiques, modifiant la décision 90/424/CEE du Conseil et abrogeant la directive 92/117/CEE du Conseil (JO L 325 du 12.12.2003, p. 31). 3. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant les zoonoses: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*). 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 291*a* à 291*e* (dispositions spéciales concernant les zoonoses). 3. Loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels (Loi sur les denrées alimentaires, LDAl; RS *817.0*). 4. Ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs; RS *817.02*). 5. Ordonnance du DFI du 16 décembre 2016 sur l’hygiène dans les activités liées aux denrées alimentaires (Ordonnance du DFI sur l’hygiène, OHyg; RS *817.024.1*). 6. Loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (Loi sur les épidémies, LEp; RS *818.101*). 7. Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissibles de l’homme (Ordonnance sur les épidémies, OEp; RS *818.101.1*). 8. Ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*). 9. Ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. Le laboratoire de référence de l’Union européenne pour la fièvre catarrhale du mouton est: The Pirbright Institute, Pirbright Laboratory, Ash Road, Pirbright, Surrey, GU24 0NF, Royaume-Uni. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les fonctions et les tâches de ce laboratoire sont celles prévues par l’annexe II, chapitre B, de la directive 2000/75/CE.
+\1. La liste des laboratoires de référence de l’Union européenne prévus à l’art. 10 de la directive 2003/99/CE est publiée sur le site de la Commission européenne, conformément à l’art. 99 du règlement (UE) 2017/625.
 
-\2. En vertu de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence publié sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
+La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les responsabilités et les tâches de ces laboratoires sont celles prévues par l’art. 94 du règlement (UE) 2017/625.
 
-\3. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 17 de la directive 2000/75/CE et à l’art. 57 de la loi sur les épizooties.
+La liste des laboratoires nationaux de référence pour la Suisse est publiée sur le site de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
 
-### X. Zoonoses
+\2. La Suisse transmet à l’Autorité européenne de sécurité des aliments, chaque année pour la fin du mois de mai, un rapport sur les tendances et les sources des zoonoses, des agents zoonotiques et de la résistance antimicrobienne, comprenant les données recueillies conformément aux art. 4, 7 et 8 de la directive 2003/99/CE au cours de l’année précédente. Ce rapport comprend également les informations visées à l’art. 3, par. 2, pt. b), du règlement (CE) n<sup>o</sup> 2160/2003.
 
-### A. Législations<sup>∗</sup>
+### V. Notification des maladies
 
-[^annex1-lvlu1-lvlX-lvlA-1]
+### A. Législations
 
-[^annex1-lvlu1-lvlX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex1-lvlu1-lvlV-lvlA-1]
+
+[^annex1-lvlu1-lvlV-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Règlement (CE) n<sup>o</sup> 2160/2003 du Parlement européen et du Conseil du 17 novembre 2003 sur le contrôle des salmonelles et d’autres agents zoonotiques spécifiques présents dans la chaîne alimentaire (JO L 325 du 12.12.2003, p. 1). 2. Directive 2003/99/CE du Parlement européen et du Conseil du 17 novembre 2003 sur la surveillance des zoonoses et des agents zoonotiques, modifiant la décision 90/424/CEE du Conseil et abrogeant la directive 92/117/CEE du Conseil (JO L 325 du 12.12.2003, p. 31).</td><td>1. Loi sur les épizooties du 1<sup>er</sup> juillet 1966 (LFE; RS *916.40*); 2. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 291*a* à 291*e* (disposition spéciales concernant les zoonoses); 3. Loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels (LDAl; RS *817.0*); 4. Ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels (ODAlOUs; RS *817.02*); 5. Ordonnance du DFI du 23 novembre 2005 sur l’hygiène (OHyg; RS *817.024.1*); 6. Loi fédérale du 18 décembre 1970 sur la lutte contre les maladies transmissibles de l’homme (Loi sur les épidémies; RS *818.101*); 7. Ordonnance du 13 janvier 1999 sur la déclaration des maladies transmissibles de l’homme (Ordonnance sur la déclaration; RS *818.141.1*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Règlement d’exécution (UE) 2019/1715 de la Commission du 30 septembre 2019 établissant les règles de fonctionnement du système de gestion de l’information sur les contrôles officiels et de ses composantes (règlement IMSOC) (JO L 261 du 14.10.2019, p. 37</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier ses art. 11 (devoir de diligence et obligation d’annoncer) et 57 (dispositions d’exécution de caractère technique, collaboration internationale). 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 2 à 5 (maladies visées), 59 à 65 et 291 (obligation d’annoncer, notification), 292 à 299 (surveillance, exécution, aide administrative).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. Les laboratoires de référence de l’Union européenne sont les suivants:
+La Suisse est intégrée au système de gestion de l’information sur les contrôles officiels et à toutes ses composantes, tels que définis dans le règlement d’exécution (UE) 2019/1715. La Suisse désigne un point de contact à cet effet.
 
-- – Laboratoire de référence de l’Union européenne pour l’analyse et les essais sur les zoonoses (Salmonella):
-- Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
-- 3720 BA Bilthoven
-- Pays-Bas
-- – Laboratoire de référence de l’Union européenne pour le contrôle des biotoxines marines:
-- Agencia Española de Seguridad Alimentaria (AESA)
-- 36200 Vigo
-- Espagne
-- – Laboratoire de référence de l’Union européenne pour le contrôle des contaminations bactériologiques et virales des mollusques bivalves:
-- The laboratory of the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), Weymouth
-- Dorset DT4 8UB
-- Royaume-Uni
-- – Laboratoire de référence de l’Union européenne pour Listeria monocytogenes:
-- AFSSA –Laboratoire d’études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP)
-- 94700 Maisons-Alfort
-- France
-- – Laboratoire de référence de l’Union européenne pour les staphylocoques à coagulase positive, y compris le Staphylococcus aureus:
-- AFSSA –Laboratoire d’études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP)
-- 94700 Maisons-Alfort
-- France
-- – Laboratoire de référence de l’Union européenne pour Escherichia coli, y compris E. coli vérotoxinogène (VTEC):
-- Istituto Superiore di Sanità (ISS)
-- 00161 Rome
-- Italie
-- – Laboratoire de référence de l’Union européenne pour Campylobacter:
-- Statens Veterinärmedicinska Anstalt (SVA)
-- 751 89 Uppsala
-- Suède
-- – Laboratoire de référence de l’Union européenne pour les parasites (en particulier les Trichinella, Echinococcus et Anisakis):
-- Istituto Superiore di Sanità (ISS)
-- 00161 Rome
-- Italie
-- – Laboratoire de référence de l’Union européenne pour la résistance antimicrobienne:
-- Danmarks Fødevareforskning (DFVF)
-- 1790 Copenhague V
-- Danemark
+La notification des maladies répertoriées et les rapports relatifs à ces maladies, les formats et procédures pour la présentation des programmes de surveillance, des programmes d’éradication et des rapports y afférents ainsi que pour la demande de reconnaissance du statut «indemne de maladie» se font selon les modalités prévues par le règlement d’exécution (UE) 2020/2002 de la Commission[^annex1-lvlu1-lvlV-lvlB-1].
 
-\2. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les fonctions et les tâches de ces laboratoires sont celles prévues par le règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil[^annex1-lvlu1-lvlX-lvlB-1].
+Si nécessaire, des mesures complémentaires sont définies au sein du Comité mixte vétérinaire.
 
-\3. La Suisse transmet à la Commission, chaque année pour la fin du mois de mai, un rapport sur les tendances et les sources des zoonoses, des agents zoonotiques et de la résistance antimicrobienne, comprenant les données recueillies conformément aux art. 4, 7 et 8 de la directive 2003/99/CE au cours de l’année précédente. Ce rapport comprend également les informations visées à l’art. 3, par. 2, point b), du règlement (CE) n<sup>o</sup> 2160/2003. Ce rapport est transmis par la Commission à l’Autorité européenne de sécurité des aliments en vue de la publication du rapport de synthèse concernant les tendances et les sources des zoonoses, des agents zoonotiques et de la résistance antimicrobienne dans l’Union européenne.
-
-[^annex1-lvlu1-lvlX-lvlB-1]: Règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avr. 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1).
-
-### XI. Autres maladies
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlXI-lvlA-1]
-
-[^annex1-lvlu1-lvlXI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 92/119/CEE du Conseil du 17 décembre 1992 établissant des mesures communautaires générales de lutte contre certaines maladies animales ainsi que des mesures spécifiques à l’égard de la maladie vésiculeuse du porc (JO L 62 du 15.3.1993, p. 69).</td><td>1. Loi sur les épizooties du 1<sup>er</sup> juillet 1966 (LFE; RS *916.40*), et en particulier ses art. 1 à 10 (buts de la lutte, mesures contre les épizooties hautement contagieuses) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 2 (épizooties hautement contagieuses), 49 (manipulation de micro-organismes pathogènes pour l’animal), 73 et 74 (nettoyage, désinfection et désinfestation), 77 à 98 (dispositions communes concernant les épizooties hautement contagieuses), 104 à 105 (mesures spécifiques concernant la lutte contre la maladie vésiculeuse du porc); 3. Ordonnance du 28 juin 2000 sur l’organisation du Département fédéral de l’intérieur (Org DFI; RS *172.212.1*), et en particulier son art. 12 (laboratoire de référence).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Dans les cas visés à l’art. 6 de la directive 92/119/CEE, l’information s’effectuera au sein du Comité mixte vétérinaire.
-
-\2. Le laboratoire commun de référence pour la maladie vésiculeuse du porc est: The Pirbright Institute, Pirbright Laboratory, Ash Road, Pirbright, Surrey, GU24 0NF, Royaume-Uni. La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de cette désignation. Les fonctions et les tâches de ce laboratoire sont celles prévues par l’annexe III de la directive 92/119/CEE.
-
-\3. En application de l’art. 97 de l’ordonnance sur les épizooties, la Suisse dispose d’un plan d’urgence. Ce plan d’urgence fait l’objet d’une disposition d’exécution de caractère technique n<sup>o</sup> 95/65, émise par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
-
-\4. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 22 de la directive 92/119/CEE et à l’art. 57 de la loi sur les épizooties.
-
-### XII. Notification des maladies
-
-### A. Législations<sup>∗</sup>
-
-[^annex1-lvlu1-lvlXII-lvlA-1]
-
-[^annex1-lvlu1-lvlXII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 82/894/CEE du Conseil du 21 décembre 1982 concernant la notification des maladies des animaux dans la Communauté (JO L 378 du 31.12.1982, p. 58).</td><td>1. Loi sur les épizooties du 1<sup>er</sup> juillet 1966 (LFE; RS *916.40*), et en particulier ses art. 11 (devoir de diligence et obligation d’annoncer) et 57 (dispositions d’exécution de caractère technique, collaboration internationale); 2. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 2 à 5 (maladies visées), 59 à 65 et 291 (obligation d’annoncer, notification), 292 à 299 (surveillance, exécution, aide administrative).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-La Commission, en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires intègre la Suisse au système de notification de maladies des animaux, tel que prévu par la directive 82/894/CEE.
+[^annex1-lvlu1-lvlV-lvlB-1]: Règlement d’exécution (UE) 2020/2002 de la Commission du 7 décembre 2020 portant modalités d’application du règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne la notification des maladies répertoriées et les rapports relatifs à ces maladies au sein de l’Union, les formats et procédures pour la présentation des programmes de surveillance au sein de l’Union, des programmes d’éradication et des rapports y afférents ainsi que pour la demande de reconnaissance du statut «indemne de maladie», et le système informatisé de gestion de l’information (JO L 412 du 8.12.2020, p. 1).
 
 Appendice 2[^t-25]
 
-## Santé animale: Échanges et mise sur le marché
+## Santé animale: Échanges entre la Suisse et l’Union européenne et mise sur le marché
 
-[^t-25]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015, en vigueur depuis le 17 déc. 2015, avec effet depuis le 1<sup>er</sup> janv. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-25]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2026 du Comité mixte vétérinaire du 24 juil. 2026, en vigueur depuis le 24 juil. 2026, applicable à partir du 1<sup>er</sup> sept. 2026 ([RO 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### I. Bovins et porcins
+### I. Animaux terrestres
 
-### A. Législations<sup>∗</sup>
+### A. Législations
 
 [^annex2-lvlu1-lvlI-lvlA-1]
 
-[^annex2-lvlu1-lvlI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlI-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 64/432/CEE du Conseil du 26 juin 1964 relative à des problèmes de police sanitaire en matière d’échanges intracommunautaires d’animaux des espèces bovine et porcine (JO 121 du 29.7.1964, p. 1977).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 27 à 31 (marchés, expositions), 34 à 37*b* (commerce), 73 et 74 (nettoyage, désinfection et désinfestation), 116 à 121 (peste porcine classique et africaine), 135 à 141 (maladie d’Aujeszky), 150 à 157 (brucellose bovine), 158 à 165 (tuberculose), 166 à 169 (leucose bovine enzootique), 170 à 174 (IBR/IPV), 175 à 181 (encéphalopathies spongiformes), 186 à 189 (infections génitales bovines), 207 à 211 (brucellose porcine), 301 (autorisation des unités d’élevage, des centres d’insémination et de stockage de semence, des unités de transfert d’embryons, les marchés et autres établissement ou manifestations semblables); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant les échanges d’animaux terrestres entre la Suisse et l’Union européenne: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 3. Règlement d’exécution (UE) 2021/403 de la Commission du 18 mars 2021 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements entre les États membres d’envois de certaines catégories d’animaux terrestres et de leurs produits germinaux, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant la décision 2010/470/UE (JO L 113 du 31.3.2021, p. 1). 4. Art. 107 (à l’exception du par. 6) du règlement (UE) 2019/6 du Parlement européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE (JO L 4 du 7.1.2019, p. 43), en liaison avec son art. 37, par. 5.</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*). 2. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE; RS *916.443.11*). 3. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE UE-DFI; RS *916.443.111*). 4. Loi fédérale du 29 avril 1998 sur l’agriculture (LAgr; RS *910.1*), et notamment l’art. 160 (Homologation obligatoire). 5. Loi fédérale du 15 décembre 2000 sur les médicaments et les dispositifs médicaux (LPTh; RS *812.21*). 6. Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV; RS *812.212.27*). 7. Directives techniques relatives à l’utilisation prophylactique et métaphylactique de médicaments contenant des agents antimicrobiens chez les animaux de rente, telles que publiées le 1.5.2026.</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. En vertu de l’art. 301, al. 1, let. i., de l’ordonnance sur les épizooties, le vétérinaire cantonal procède à l’autorisation des unités d’élevage, des marchés et autres établissement ou manifestations semblables tels qu’ils sont définis à l’art. 2 de la directive 64/432/CEE. Aux fins de l’application de la présente annexe, conformément aux art. 11, 12 et 13 de la directive 64/432/CEE, la Suisse dresse la liste de ses centres de rassemblement agréés, des transporteurs et des négociants.
+\1. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément notamment à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
 
-\2. L’information prévue à l’art. 11, par. 3, de la directive 64/432/CEE est effectuée au sein du Comité mixte vétérinaire.
+\2. Les animaux faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse circulent aux seules et mêmes conditions que les animaux faisant l’objet d’échanges entre les États membres de l’Union européenne. Si nécessaire, ces animaux sont accompagnés des certificats sanitaires prévus pour les échanges entre les États membres de l’Union européenne ou définis par la présente annexe et disponibles dans le système TRACES.
 
-\3. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions prévues à l’annexe A, partie II, point 7, de la directive 64/432/CEE en ce qui concerne la brucellose bovine. Afin de maintenir le statut du cheptel bovin officiellement indemne de brucellose, la Suisse s’engage à remplir les conditions suivantes:
+\3. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions prévues au chap. 4 de la partie II du règlement (UE) 2016/429, dans le règlement délégué (UE) 2020/689 de la Commission[^annex2-lvlu1-lvlI-lvlB-1] et dans le règlement d’exécution (UE) 2021/620 de la Commission[^annex2-lvlu1-lvlI-lvlB-2] en ce qui concerne les maladies listées sur les sites de la Commission «Surveillance, eradication programmes and disease-free status – Food Safety» et de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires «Programme national de surveillance».
+
+Pour les maladies pour laquelle la Suisse ne dispose pas encore de l’approbation du statut «indemne de maladie», la Suisse présente au Comité mixte vétérinaire les informations nécessaires à l’obtention de ce statut en vertu du règlement (UE) 2016/429. Sur la base de ces informations, le Comité mixte vétérinaire convient de mettre à jour les informations disponibles sur les sites web mentionnés ci-dessus.
+
+L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut pour une des maladies répertoriées citées dans ce paragraphe. La situation est examinée au sein du Comité mixte vétérinaire.
+
+\4. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions prévues par l’annexe IV, partie I, chap. 3, section 2, pt. 1, du règlement délégué (UE) 2020/689 en ce qui concerne la brucellose bovine. Afin de maintenir son statut officiellement indemne de brucellose bovine, la Suisse s’engage à remplir les conditions suivantes:
 
 - a) tout animal de l’espèce bovine suspect d’être infecté de brucellose doit être notifié aux autorités compétentes et soumis aux tests officiels de recherche de la brucellose comprenant au moins deux examens sérologiques avec fixation du complément ainsi qu’un examen microbiologique d’échantillons appropriés prélevés en cas d’avortements;
-- b) au cours de la période de suspicion qui sera maintenue jusqu’à ce que les examens prévus au point a) donnent des résultats négatifs, le statut officiellement indemne de brucellose est suspendu dans le cas du cheptel comprenant l’animal ou plusieurs animaux suspects de l’espèce bovine.
+- b) au cours de la période de suspicion qui sera maintenue jusqu’à ce que les examens prévus au pt. a) donnent des résultats négatifs, le statut officiellement indemne de brucellose est suspendu dans le cas du cheptel comprenant l’animal ou plusieurs animaux suspects de l’espèce bovine.
 
-Des informations détaillées concernant les cheptels positifs ainsi qu’un rapport épidémiologique sont communiqués au Comité mixte vétérinaire. Si l’une des conditions prévues à l’annexe A, partie II, point 7, de la directive 64/432/CEE n’est plus remplie par la Suisse, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires en informe immédiatement la Commission. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
+\5. La Suisse applique les mêmes dispositions que celles de l’art. 107 (à l’exception du par. 6) du règlement (UE) 2019/6, en liaison avec son art. 37, par. 5 concernant l’utilisation de médicaments antimicrobiens chez les animaux de rente, conformément à sa législation énumérée à la section A ci-dessus.
 
-\4. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions prévues à l’annexe A, partie I, point 4, de la directive 64/432/CEE en ce qui concerne la tuberculose bovine. Aux fins du maintien du statut du cheptel bovin officiellement indemne de tuberculose, la Suisse s’engage à remplir les conditions suivantes:
+La Suisse n’autorise ni la mise sur le marché de médicaments destinés aux animaux de rente contenant l’un des antimicrobiens ou groupes d’antimicrobiens énumérées au pt. 2) ou 3) de l’annexe du règlement d’exécution (UE) 2022/1255 de la Commission[^annex2-lvlu1-lvlI-lvlB-3] ni l’utilisation chez les animaux de rente de médicaments à usage humain contenant ces antimicrobiens ou groupes d’antimicrobiens.
 
-- a) un système d’identification permettant pour chaque bovin de remonter aux cheptels d’origine est instauré;
-- b) tout animal abattu est soumis à une inspection *post mortem* effectuée par un vétérinaire officiel;
-- c) toute suspicion de tuberculose sur un animal vivant, mort ou abattu fait l’objet d’une notification aux autorités compétentes;
-- d) dans chaque cas, les autorités compétentes procèdent aux investigations nécessaires pour infirmer ou confirmer la suspicion, y compris aux recherches en aval pour les cheptels d’origine et de transit; lorsque des lésions suspectes de tuberculose sont découvertes à l’autopsie ou à l’abattage, les autorités compétentes soumettent ces lésions à un examen de laboratoire;
-- e) le statut officiellement indemne de tuberculose des cheptels d’origine et de transit des bovins suspects est suspendu et cette suspension est maintenue jusqu’à ce que les examens cliniques ou de laboratoire ou les tests à la tuberculine aient infirmé l’existence de la tuberculose bovine;
-- f) lorsque la suspicion de tuberculose est confirmée par les tests à la tuberculine, les examens cliniques ou de laboratoire, le statut de cheptel officiellement indemne de tuberculose des cheptels d’origine et de transit est retiré;
-- g) le statut officiellement indemne de tuberculose n’est pas établi tant que tous les animaux réputés infectés n’ont pas été éliminés du troupeau; les locaux et les équipements n’ont pas été désinfectés; tous les animaux restants, âgés de plus de six semaines, n’ont pas réagi négativement à au moins deux intradermotuberculinisations officielles conformément à l’annexe B de la directive 64/432/CEE, la première étant effectuée au moins six mois après que l’animal infecté aura quitté le troupeau et la seconde au moins six mois après la première.
+Des discussions se tiendront au sein du Comité mixte vétérinaire à propos des modifications de la législation de l’Union européenne susmentionnée nécessitant une adaptation des dispositions suisses.
 
-Des informations détaillées concernant les troupeaux contaminés ainsi qu’un rapport épidémiologique sont communiqués au Comité mixte vétérinaire. Si l’une des conditions prévues à l’annexe A, partie II, point 4, premier alinéa, de la directive 64/432/CEE n’est plus remplie par la Suisse, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires en informe immédiatement la Commission. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
+Par conséquent, la Suisse n’est pas considérée comme un pays tiers aux fins de l’application de l’art. 118 du règlement (UE) 2019/6 et ce, jusqu’au 1<sup>er</sup> juillet 2028.
 
-\5. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions prévues à l’annexe D, chapitre I, section F, de la directive 64/432/CEE en ce qui concerne la leucose bovine enzootique. Afin de maintenir le statut du cheptel bovin officiellement indemne de leucose bovine enzootique, la Suisse s’engage à remplir les conditions suivantes:
+Elle informe immédiatement le Comité mixte vétérinaire de tout nouveau changement de sa législation relative aux médicaments antimicrobiens destinés aux animaux de rente.
 
-- a) le cheptel suisse est surveillé au moyen d’un contrôle par sondage. Le volume de l’échantillonnage est déterminé de manière à affirmer, avec une fiabilité de 99 %, que moins de 0,2 % des troupeaux sont contaminés par la leucose bovine enzootique;
-- b) tout animal abattu est soumis à une inspection post mortem effectuée par un vétérinaire officiel;
-- c) toute suspicion lors d’un examen clinique, d’une autopsie ou du contrôle de viande doit faire l’objet d’une notification aux autorités compétentes;
-- d) en cas de suspicion ou lors du constat de leucose bovine enzootique, le statut officiellement indemne est suspendu dans le cheptel concerné jusqu’à la levée du séquestre;
-- e) le séquestre est levé si, après l’élimination des animaux contaminés et, le cas échéant, de leurs veaux, deux examens sérologiques effectués à 90 jours d’intervalle au moins ont donné un résultat négatif.
+Ce paragraphe sera revu par le Comité mixte vétérinaire avant le 1<sup>er</sup> juillet 2028.
 
-Si la leucose bovine enzootique a été constatée sur 0,2 % des cheptels, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires en informe immédiatement la Commission. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
+\6. En cas d’expéditions d’œufs à couver vers l’Union européenne, les autorités suisses s’engagent à respecter les règles de marquage prévues par le règlement (CE) n<sup>o</sup> 617/2008 de la Commission[^annex2-lvlu1-lvlI-lvlB-4].
 
-\6. Aux fins de l’application de la présente annexe, il est reconnu que la Suisse est officiellement indemne de rhinotrachéite infectieuse bovine. Aux fins du maintien de ce statut, la Suisse s’engage à remplir les conditions suivantes:
+\7. En cas d’expéditions de la Suisse vers la Finlande, la Suède ou le Danemark, les autorités suisses s’engagent à fournir, en matière de salmonelles, les garanties prévues par la législation de l’Union européenne.
 
-- a) le cheptel suisse est surveillé au moyen d’un contrôle par sondage. Le volume de l’échantillonnage est déterminé de manière à affirmer, avec une fiabilité de 99 %, que moins de 0,2 % des troupeaux sont contaminés par la rhinotrachéite infectieuse bovine;
-- b) les taureaux d’élevage âgés de plus de vingt-quatre mois sont soumis annuellement à un examen sérologique;
-- c) toute suspicion fait l’objet d’une notification aux autorités compétentes et est soumise aux tests officiels de recherche de la rhinotrachéite infectieuse bovine comprenant des examens virologiques ou sérologiques;
-- d) en cas de suspicion ou lors du constat de rhinotrachéite infectieuse bovine, le statut officiellement indemne est suspendu dans le cheptel concerné jusqu’à la levée du séquestre;
-- e) le séquestre est levé, si un examen sérologique effectué au plus tôt trente jours après l’élimination des animaux contaminés, a donné un résultat négatif.
+[^annex2-lvlu1-lvlI-lvlB-1]: Règlement délégué (UE) 2020/689 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles applicables à la surveillance, aux programmes d’éradication et au statut «indemne» de certaines maladies répertoriées et émergentes (JO L 174 du 3.6.2020, p. 211).
+[^annex2-lvlu1-lvlI-lvlB-2]: Règlement d’exécution (UE) 2021/620 de la Commission du 15 avril 2021 établissant les modalités d’application du règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne l’approbation du statut «indemne de maladie» et du statut de non‑vaccination de certains États membres ou de zones ou compartiments de ceux-ci au regard de certaines maladies répertoriées et l’approbation des programmes d’éradication de ces maladies répertoriées (JO L 131 du 16.4.2021, p. 78).
+[^annex2-lvlu1-lvlI-lvlB-3]: Règlement d’exécution (UE) 2022/1255 de la Commission du 19 juillet 2022 désignant des antimicrobiens ou groupes d’antimicrobiens réservés au traitement de certaines infections chez l’homme, conformément au règlement (UE) 2019/6 du Parlement européen et du Conseil (JO L 191 du 20.7.2022, p. 58).
+[^annex2-lvlu1-lvlI-lvlB-4]: Règlement (CE) n<sup>o</sup> 617/2008 de la Commission du 27 juin 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil en ce qui concerne les normes de commercialisation pour les œufs à couver et les poussins de volailles de basse-cour (JO L 168 du 28.6.2008, p. 5).
 
-En raison de la reconnaissance du statut de la Suisse, la décision 2004/558/CE de la Commission[^annex2-lvlu1-lvlI-lvlB-1] est applicable *mutatis mutandis*.
+### II. Animaux et produits d’aquaculture
 
-L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
-
-\7. Aux fins de l’application de la présente annexe, il est reconnu que la Suisse est officiellement indemne de la maladie d’Aujeszky. Aux fins du maintien de ce statut, la Suisse s’engage à remplir les conditions suivantes:
-
-- a) le cheptel suisse est surveillé au moyen d’un contrôle par sondage. Le volume de l’échantillonnage est déterminé de manière à affirmer, avec une fiabilité de 99 %, que moins de 0,2 % des troupeaux sont contaminés par la maladie d’Aujeszky;
-- b) toute suspicion fait l’objet d’une notification aux autorités compétentes et est soumise aux tests officiels de recherche de la maladie d’Aujeszky comprenant des examens virologiques ou sérologiques;
-- c) en cas de suspicion ou lors du constat de maladie d’Aujeszky, le statut officiellement indemne est suspendu dans le cheptel concerné jusqu’à la levée du séquestre;
-- d) le séquestre est levé si, après l’élimination des animaux contaminés, deux examens sérologiques de tous les animaux reproducteurs et d’un nombre représentatif d’animaux d’engrais effectués à vingt-un jours d’intervalle au moins ont donné un résultat négatif.
-
-En raison de la reconnaissance du statut de la Suisse, la décision 2008/185/CE de la Commission[^annex2-lvlu1-lvlI-lvlB-2] est applicable *mutatis mutandis*.
-
-L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
-
-\8. En ce qui concerne la gastroentérite transmissible du porc (GET) et le syndrome dysgénésique et respiratoire du porc (SDRP), la question d’éventuelles garanties additionnelles est examinée le plus rapidement possible par le Comité mixte vétérinaire. La Commission informe l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires du développement de cette question.
-
-\9. En Suisse, l’Institut de bactériologie vétérinaire de l’Université de Zurich est chargé du contrôle officiel des tuberculines au sens de l’annexe B, point 4, de la directive 64/432/CEE.
-
-\10. En Suisse, le Centre pour les zoonoses, les maladies bactériennes chez l’animal et la résistance aux antibiotiques (ZOBA) est chargé du contrôle officiel des antigènes (brucellose) au sens de l’annexe C, point 4, de la directive 64/432/CEE.
-
-\11. Les bovins et les porcins faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes aux modèles figurant à l’annexe F de la directive 64/432/CEE. Les adaptations suivantes sont applicables:
-
-- –
-
-  pour le modèle 1, sous la section C, les certifications sont adaptées comme suit:
-
-  - –
-
-    au point 4, relatif aux garanties additionnelles, les tirets sont complétés comme suit:
-
-    - ‹– maladie: rhinotrachéite infectieuse bovine,
-    - – conformément à la décision 2004/558/CE de la Commission, qui est applicable *mutatis mutandis*;›,
-
-- –
-
-  pour le modèle 2, sous la section C, les certifications sont adaptées comme suit:
-
-  - –
-
-    au point 4, relatif aux garanties additionnelles, les tirets sont complétés comme suit:
-
-    - ‹– maladie d’Aujeszky,
-    - – conformément à la décision 2008/185/CE de la Commission, qui est applicable *mutatis mutandis*;›.
-
-\12. Aux fins de l’application de la présente annexe, les bovins faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires complémentaires portant les déclarations sanitaires suivantes:
-
-- ‹–
-
-  Les bovins:
-
-  - – sont identifiés à l’aide d’un système d’identification permanente permettant de retrouver leur mère et leur troupeau d’origine et de constater qu’ils ne sont pas descendants directs de femelles suspectes ou atteintes d’encéphalopathie spongiforme bovine (ESB) nées dans les deux années qui ont précédé le diagnostic;
-  - – ne proviennent pas de cheptels où un cas suspect d’ESB est en cours d’investigation;
-  - – sont nés après le 1<sup>er</sup> juin 2001.›
-
-[^annex2-lvlu1-lvlI-lvlB-1]: Décision 2004/558/CE de la Commission du 15 juillet 2004 mettant en œuvre la directive 64/432/CEE du Conseil en ce qui concerne des garanties additionnelles pour les échanges intracommunautaires de bovins en rapport avec la rhinotrachéite infectieuse bovine et l’approbation des programmes d’éradication présentés par certains États membres (JO L 249 du 23.7.2004, p. 20).
-[^annex2-lvlu1-lvlI-lvlB-2]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie (JO L 59 du 4.3.2008, p. 19).
-
-### II. Ovins et caprins
-
-### A. Législations<sup>∗</sup>
+### A. Législations
 
 [^annex2-lvlu1-lvlII-lvlA-1]
 
-[^annex2-lvlu1-lvlII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 91/68/CEE du Conseil du 28 janvier 1991 relative aux conditions de police sanitaire régissant les échanges intracommunautaires d’ovins et de caprins (JO L 46 du 19.2.1991, p. 19).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 27 à 31 (marchés, expositions), 34 à 37*b* (commerce), 73 et 74 (nettoyage, désinfection et désinfestation), 142 à 149 (rage), 158 à 165 (tuberculose), 180 à 180*c* (tremblante), 190 à 195 (brucellose ovine et caprine), 196 à 199 (agalaxie infectieuse), 217 à 221 (arthrite / encéphalite caprine), 233 à 236 (brucellose du bélier), 301 (autorisation des unités d’élevage, des centres d’insémination et de stockage de semence, des unités de transfert d’embryons, les marchés et autres établissement ou manifestations semblables); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant les échanges d’animaux et produits d’aquaculture entre la Suisse et l’Union européenne: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 3. Règlement d’exécution (UE) 2020/2236 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois d’animaux aquatiques et de certains produits d’origine animale issus d’animaux aquatiques, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 1251/2008 (JO L 442 du 30.12.2020, p. 410). 4. Art. 107 (à l’exception du par. 6) du règlement (UE) 2019/6 du Parlement européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE (JO L 4 du 7.1.2019, p. 43), en liaison avec son art. 37, par. 5.</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*). 2. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE; RS *916.443.11*). 3. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE-DFI; RS *916.443.111*). 4. Loi fédérale du 29 avril 1998 sur l’agriculture (LAgr; RS *910.1*), et notamment l’art. 160 (Homologation obligatoire). 5. Loi fédérale du 15 décembre 2000 sur les médicaments et les dispositifs médicaux (LPTh; RS *812.21*). 6. Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV; RS *812.212.27*). 7. Directives techniques relatives à l’utilisation prophylactique et métaphylactique de médicaments contenant des agents antimicrobiens chez les animaux de rente, telles que publiées le 1.5.2026.</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 11 de la directive 91/68/CEE et à l’art. 57 de la loi sur les épizooties.
+\1. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément notamment à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
 
-En cas d’apparition ou de recrudescence de la brucellose ovine et caprine, la Suisse informe le Comité mixte vétérinaire, afin que les mesures nécessaires soient arrêtées en fonction de l’évolution de la situation.
+\2. Les animaux faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse circulent aux seules et mêmes conditions que les animaux faisant l’objet d’échanges entre les États membres de l’Union européenne. Si nécessaire, ces animaux sont accompagnés des certificats sanitaires prévus pour les échanges entre les États membres de l’Union européenne et disponibles dans le système TRACES.
 
-\2. Aux fins de l’application de la présente annexe, il est reconnu que la Suisse est officiellement indemne de brucellose ovine et caprine. Aux fins du maintien de ce statut, la Suisse s’engage à mettre en œuvre les mesures prévues à l’annexe A, chapitre I, section II, point 2), de la directive 91/68/CEE.
+\3. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions prévues au chap. 4 de la partie II du règlement (UE) 2016/429, dans le règlement délégué (UE) 2020/689 de la Commission[^annex2-lvlu1-lvlII-lvlB-1] et dans le règlement d’exécution (UE) 2021/620 de la Commission[^annex2-lvlu1-lvlII-lvlB-2] en ce qui concerne les maladies listées sur les sites de la Commission «Surveillance, eradication programmes and disease-free status – Food Safety» et de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires «Programme national de surveillance».
 
-\3. Les ovins et les caprins faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes aux modèles figurant à l’annexe E de la directive 91/68/CEE.
+Pour les maladies pour laquelle la Suisse ne dispose pas encore de l’approbation du statut «indemne de maladie», la Suisse présente au Comité mixte vétérinaire les informations nécessaires à l’obtention de ce statut en vertu du règlement (UE) 2016/429. Sur la base de ces informations, le Comité mixte vétérinaire convient de mettre à jour les informations disponibles sur les sites web mentionnés ci-dessus.
 
-### III. Équidés
+L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut pour une des maladies répertoriées citées dans ce paragraphe. La situation est examinée au sein du Comité mixte vétérinaire.
 
-### A. Législations<sup>∗</sup>
+\4. La Suisse applique les mêmes dispositions que celles de l’art. 107 (à l’exception du par. 6) du règlement (UE) 2019/6, en liaison avec son art. 37, par. 5 concernant l’utilisation de médicaments antimicrobiens chez les animaux de rente, conformément à sa législation énumérée à la section A ci-dessus.
+
+La Suisse n’autorise ni la mise sur le marché de médicaments destinés aux animaux de rente contenant l’un des antimicrobiens ou groupes d’antimicrobiens énumérées au pt. 2) ou 3) de l’annexe du règlement d’exécution (UE) 2022/1255 de la Commission[^annex2-lvlu1-lvlII-lvlB-3] ni l’utilisation chez les animaux de rente de médicaments à usage humain contenant ces antimicrobiens ou groupes d’antimicrobiens.
+
+Des discussions se tiendront au sein du Comité mixte vétérinaire à propos des modifications de la législation de l’Union européenne susmentionnée nécessitant une adaptation des dispositions suisses.
+
+Par conséquent, la Suisse n’est pas considérée comme un pays tiers aux fins de l’application de l’art. 118 du règlement (UE) 2019/6 et ce, jusqu’au 1<sup>er</sup> juillet 2028.
+
+Elle informe immédiatement le Comité mixte vétérinaire de tout nouveau changement de sa législation relative aux médicaments antimicrobiens destinés aux animaux de rente.
+
+Ce paragraphe sera revu par le Comité mixte vétérinaire avant le 1<sup>er</sup> juillet 2028.
+
+[^annex2-lvlu1-lvlII-lvlB-1]: Règlement délégué (UE) 2020/689 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles applicables à la surveillance, aux programmes d’éradication et au statut «indemne» de certaines maladies répertoriées et émergentes (JO L 174 du 3.6.2020, p. 211).
+[^annex2-lvlu1-lvlII-lvlB-2]: Règlement d’exécution (UE) 2021/620 de la Commission du 15 avril 2021 établissant les modalités d’application du règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne l’approbation du statut «indemne de maladie» et du statut de non‑vaccination de certains États membres ou de zones ou compartiments de ceux-ci au regard de certaines maladies répertoriées et l’approbation des programmes d’éradication de ces maladies répertoriées (JO L 131 du 16.4.2021, p. 78).
+[^annex2-lvlu1-lvlII-lvlB-3]: Règlement d’exécution (UE) 2022/1255 de la Commission du 19 juillet 2022 désignant des antimicrobiens ou groupes d’antimicrobiens réservés au traitement de certaines infections chez l’homme, conformément au règlement (UE) 2019/6 du Parlement européen et du Conseil (JO L 191 du 20.7.2022, p. 58).
+
+### III. Produits germinaux
+
+### A. Législations
 
 [^annex2-lvlu1-lvlIII-lvlA-1]
 
-[^annex2-lvlu1-lvlIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlIII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2009/156/CE du Conseil du 30 novembre 2009 relative aux conditions de police sanitaire régissant les mouvements d’équidés et les importations d’équidés en provenance des pays tiers (JO L 192 du 23.7.2010, p. 1).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 112 à 112*f* (peste équine), 204 à 206 (dourine, encéphalomyélite, anémie infectieuse, morve), 240 à 244 (métrite contagieuse équine); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant les échanges de produits germinaux entre la Suisse et l’Union européenne: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 3. Règlement d’exécution (UE) 2021/403 de la Commission du 18 mars 2021 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements entre les États membres d’envois de certaines catégories d’animaux terrestres et de leurs produits germinaux, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant la décision 2010/470/UE (JO L 113 du 31.3.2021, p. 1).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 51 à 55*a* (insémination artificielle) et 56 à 58*a* (transfert d’ovules et d’embryons). 2. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE; RS *916.443.11*). 3. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE-DFI; RS *916.443.111*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. Aux fins de l’art. 3 de la directive 2009/156/CE, l’information est effectuée au sein du Comité mixte vétérinaire.
+\1. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément notamment à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
 
-\2. Aux fins de l’art. 6 de la directive 2009/156/CE, l’information est effectuée au sein du Comité mixte vétérinaire.
+\2. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions prévues au chap. 4 de la partie II du règlement (UE) 2016/429, dans le règlement délégué (UE) 2020/689 de la Commission[^annex2-lvlu1-lvlIII-lvlB-1] et dans le règlement d’exécution (UE) 2021/620 de la Commission[^annex2-lvlu1-lvlIII-lvlB-2] en ce qui concerne les maladies listées sur les sites de la Commission «Surveillance, eradication programmes and disease-free status – Food Safety et de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires «Programme national de surveillance».
 
-\3. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 10 de la directive 2009/156/CE et à l’art. 57 de la loi sur les épizooties.
+Pour les maladies pour laquelle la Suisse ne dispose pas encore de l’approbation du statut «indemne de maladie», la Suisse présente au Comité mixte vétérinaire les informations nécessaires à l’obtention de ce statut en vertu du règlement (UE) 2016/429. Sur la base de ces informations, le Comité mixte vétérinaire convient de mettre à jour les informations disponibles sur les sites web mentionnés ci-dessus.
 
-\4. Les dispositions des annexes II et III de la directive 2009/156/CE sont applicables *mutatis mutandis* à la Suisse.
+L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut pour une des maladies répertoriées citées dans ce paragraphe. La situation est examinée au sein du Comité mixte vétérinaire.
 
-### IV. Volailles et œufs à couver
+\3. S’agissant du sperme bovin, il est pris note qu’en Suisse tous les centres ne comprennent que des animaux présentant un résultat négatif au test de séroneutralisation ou au test ELISA pour le dépistage de la rhinotrachéite bovine infectieuse ou de la vulvo-vaginite pustuleuse infectieuse.
 
-### A. Législations<sup>∗</sup>
+\4. Les produits germinaux faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse circulent aux seules et mêmes conditions que les produits germinaux faisant l’objet d’échanges entre les États membres de l’Union européenne. Si nécessaire, ces produits sont accompagnés des certificats sanitaires prévus pour les échanges entre les États membres de l’Union européenne et disponibles dans le système TRACES.
+
+[^annex2-lvlu1-lvlIII-lvlB-1]: Règlement délégué (UE) 2020/689 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles applicables à la surveillance, aux programmes d’éradication et au statut «indemne» de certaines maladies répertoriées et émergentes (JO L 174 du 3.6.2020, p. 211).
+[^annex2-lvlu1-lvlIII-lvlB-2]: Règlement d’exécution (UE) 2021/620 de la Commission du 15 avril 2021 établissant les modalités d’application du règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne l’approbation du statut «indemne de maladie» et du statut de non‑vaccination de certains États membres ou de zones ou compartiments de ceux-ci au regard de certaines maladies répertoriées et l’approbation des programmes d’éradication de ces maladies répertoriées (JO L 131 du 16.4.2021, p. 78).
+
+### IV. Mouvements non commerciaux des animaux de compagnie
+
+### A. Législations
 
 [^annex2-lvlu1-lvlIV-lvlA-1]
 
-[^annex2-lvlu1-lvlIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex2-lvlu1-lvlIV-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2009/158/CE du Conseil du 30 novembre 2009 relative aux conditions de police sanitaire régissant les échanges intracommunautaires et les importations en provenance des pays tiers de volailles et d’œufs à couver (JO L 343 du 22.12.2009, p. 74).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 25 (transport), 122 à 125 (peste aviaire et maladie de Newcastle), 255 à 261 (Salmonella spp.), 262 à 265 (laryngotrachéite infectieuse aviaire); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. En application de l’art. 3 de la directive 2009/158/CE, il est reconnu que la Suisse dispose d’un plan précisant les mesures qu’elle entend mettre en œuvre pour l’agrément de ses établissements.
-
-\2. Aux fins de l’art. 4 de la directive 2009/158/CE, le laboratoire national de référence pour la Suisse est l’Institut de bactériologie vétérinaire de l’Université de Berne.
-
-\3. À l’art. 8, par. 1, point a) i), de la directive 2009/158/CE, la condition de séjour pour les œufs avant expédition est applicable *mutatis mutandis* à la Suisse.
-
-\4. En cas d’expéditions d’œufs à couver vers l’Union européenne, les autorités suisses s’engagent à respecter les règles de marquage prévues par le règlement (CE) n<sup>o</sup> 617/2008 de la Commission[^annex2-lvlu1-lvlIV-lvlB-1].
-
-\5. À l’art. 10, point a), de la directive 2009/158/CE, la condition de séjour est applicable *mutatis mutandis* à la Suisse.
-
-\6. À l’art. 11, point a), de la directive 2009/158/CE, la condition de séjour est applicable *mutatis mutandis* à la Suisse.
-
-\7. À l’art. 14, par. 2, point a), de la directive 2009/158/CE, la condition de séjour est applicable *mutatis mutandis* à la Suisse.
-
-\8. Aux fins de la présente annexe, il est reconnu que la Suisse remplit les conditions de l’art. 15, par. 2, de la directive 2009/158/CE en ce qui concerne la maladie de Newcastle, et dès lors dispose du statut de ‹ne vaccinant pas contre la maladie de Newcastle›. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires informe immédiatement la Commission de toute modification des conditions ayant prévalu pour la reconnaissance du statut. La situation est examinée au sein du Comité mixte vétérinaire afin de revoir le présent paragraphe.
-
-\9. À l’art. 18 de la directive 2009/158/CE, les références au nom de l’État membre de l’Union européenne sont applicables *mutatis mutandis* à la Suisse.
-
-\10. Les volailles et les œufs à couver faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes aux modèles figurant à l’annexe IV de la directive 2009/158/CE.
-
-\11. En cas d’expéditions de la Suisse vers la Finlande ou la Suède, les autorités suisses s’engagent à fournir, en matière de salmonelles, les garanties prévues par la législation de l’Union européenne.
-
-[^annex2-lvlu1-lvlIV-lvlB-1]: Règlement (CE) n<sup>o</sup> 617/2008 de la Commission du 27 juin 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil en ce qui concerne les normes de commercialisation pour les œufs à couver et les poussins de volailles de basse-cour (JO L 168 du 28.6.2008, p. 5).
-
-### V. Animaux et produits d’aquaculture
-
-### A. Législations<sup>∗</sup>
-
-[^annex2-lvlu1-lvlV-lvlA-1]
-
-[^annex2-lvlu1-lvlV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 2006/88/CE du Conseil du 24 octobre 2006 relative aux conditions de police sanitaire applicables aux animaux et aux produits d’aquaculture, et relative à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies (JO L 328 du 24.11.2006, p. 14).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 3 à 5 (épizooties visées), 21 à 23 (enregistrement des exploitations aquacoles, contrôle des effectifs et autres obligations, surveillance sanitaire), 61 (obligations des propriétaires et affermataires d’un droit de pêche et des organes chargés de surveiller la pêche), 62 à 76 (mesures de lutte en général), 277 à 290 (mesures communes et spécifiques concernant les maladies des animaux aquatiques, laboratoire de diagnostic); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 3. Ordonnance du 18 avril 2007 concernant l’importation et le transit d’animaux par voie aérienne en provenance de pays tiers (OITA; RS *916.443.12*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Aux fins de la présente annexe, il est reconnu que la Suisse est officiellement indemne de l’anémie infectieuse du saumon et des infections à *Marteilia refringens* et à *Bonamia ostreae*.
-
-\2. L’application éventuelle des art. 29, 40, 41, 43, 44 et 50 de la directive 2006/88/CE relève du Comité mixte vétérinaire.
-
-\3. Les conditions de police sanitaire régissant la mise sur le marché d’animaux aquatiques ornementaux, d’animaux d’aquaculture destinés à l’élevage, y compris dans les zones de reparcage, des pêcheries récréatives avec repeuplement et des installations ouvertes détenant des espèces d’ornement, ainsi qu’au repeuplement et d’animaux d’aquaculture et de produits animaux destinés à la consommation humaine sont fixées aux art. 4 à 9 du règlement (CE) n<sup>o</sup> 1251/2008 de la Commission[^annex2-lvlu1-lvlV-lvlB-1].
-
-\4. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 58 de la directive 2006/88/CE et à l’art. 57 de la loi sur les épizooties.
-
-[^annex2-lvlu1-lvlV-lvlB-1]: Règlement (CE) n<sup>o</sup> 1251/2008 de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les conditions et les exigences de certification applicables à la mise sur le marché et à l’importation dans la Communauté d’animaux d’aquaculture et de produits issus de ces animaux et établissant une liste des espèces vectrices (JO L 337 du 16.12.2008, p. 41).
-
-### VI. Embryons bovins
-
-### A. Législations<sup>∗</sup>
-
-[^annex2-lvlu1-lvlVI-lvlA-1]
-
-[^annex2-lvlu1-lvlVI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 89/556/CEE du Conseil du 25 septembre 1989 fixant les conditions de police sanitaire régissant les échanges intracommunautaires et les importations en provenance de pays tiers d’embryons d’animaux domestiques de l’espèce bovine (JO L 302 du 19.10.1989, p. 1).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 56 à 58*a* (transfert d’embryons); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 15 de la directive 89/556/CEE et à l’art. 57 de la loi sur les épizooties.
-
-\2. Les embryons bovins faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes au modèle figurant à l’annexe C de la directive 89/556/CEE.
-
-### VII. Sperme bovin
-
-### A. Législations<sup>∗</sup>
-
-[^annex2-lvlu1-lvlVII-lvlA-1]
-
-[^annex2-lvlu1-lvlVII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 88/407/CEE du Conseil du 14 juin 1988 fixant les exigences de police sanitaire applicables aux échanges intracommunautaires et aux importations de sperme d’animaux de l’espèce bovine (JO L 194 du 22.7.1988, p. 10).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 51 à 55*a* (insémination artificielle); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Aux fins de l’application de l’art. 4, par. 2, de la directive 88/407/CEE, il est pris note qu’en Suisse tous les centres ne comprennent que des animaux présentant un résultat négatif au test de séroneutralisation ou au test ELISA.
-
-\2. L’information prévue à l’art. 5, par. 2, de la directive 88/407/CEE est effectuée au sein du Comité mixte vétérinaire.
-
-\3. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 16 de la directive 88/407/CEE et à l’art. 57 de la loi sur les épizooties.
-
-\4. Le sperme bovin faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse est accompagné de certificats sanitaires conformes au modèle figurant à l’annexe D de la directive 88/407/CEE.
-
-### VIII. Sperme porcin
-
-### A. Législations<sup>∗</sup>
-
-[^annex2-lvlu1-lvlVIII-lvlA-1]
-
-[^annex2-lvlu1-lvlVIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Directive 90/429/CEE du Conseil du 26 juin 1990 fixant les exigences de police sanitaire applicables aux échanges intracommunautaires et aux importations de sperme d’animaux de l’espèce porcine (JO L 224 du 18.8.1990, p. 62).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 51 à 55*a* (insémination artificielle); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. L’information prévue à l’art. 5, par. 2, de la directive 90/429/CEE est effectuée au sein du Comité mixte vétérinaire.
-
-\2. La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 16 de la directive 90/429/CEE et à l’art. 57 de la loi sur les épizooties.
-
-\3. Le sperme porcin faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse est accompagné de certificats sanitaires conformes au modèle figurant à l’annexe D de la directive 90/429/CEE.
-
-### IX. Autres espèces
-
-### A. Législations<sup>∗</sup>
-
-[^annex2-lvlu1-lvlIX-lvlA-1]
-
-[^annex2-lvlu1-lvlIX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Directive 92/65/CEE du Conseil du 13 juillet 1992 définissant les conditions de police sanitaire régissant les échanges et les importations dans la Communauté d’animaux, de spermes, d’ovules et d’embryons non soumis, en ce qui concerne les conditions de police sanitaire, aux réglementations communautaires spécifiques visées à l’annexe A section I de la directive 90/425/CEE (JO L 268 du 14.9.1992, p. 54); 2. Règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif aux mouvements non commerciaux d’animaux de compagnie et abrogeant le règlement (CE) n<sup>o</sup> 998/2003 (JO L 178 du 28.6.2013, p. 1).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 51 à 55*a* (insémination artificielle) et 56 à 58*a* (transfert d’embryons); 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE: RS *916.443.10*); 3. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑C; RS *916.443.14*);</td></tr>
-</table>
-
-### B. Modalités d’application
-
-\1. Aux fins de la présente annexe, ce point couvre les échanges d’animaux vivants non soumis aux parties I à V du présent appendice, et de sperme, d’ovules et d’embryons non soumis aux parties VI à VIII du présent appendice.
-
-\2. L’Union européenne et la Suisse s’engagent à ce que les échanges des animaux vivants, du sperme, des ovules et des embryons visés au point 1 ne soient pas interdits ou restreints pour des raisons de police sanitaire autres que celles résultant de l’application de la présente annexe, et notamment des mesures de sauvegarde éventuellement prises au titre de son art. 20.
-
-\3. Les ongulés des espèces autres que celles visés aux parties I, II et III du présent appendice faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes au modèle figurant à la première partie de l’annexe E, partie I, de la directive 92/65/CEE complétés par l’attestation figurant à l’art. 6, par. A, point 1 e), de la directive 92/65/CEE.
-
-\4. Les lagomorphes faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes au modèle figurant à la première partie de l’annexe E de la directive 92/65/CEE, éventuellement complétés par l’attestation figurant à l’art. 9, par. 2, deuxième alinéa, de la directive 92/65/CEE.
-
-Cette attestation peut être adaptée par les autorités suisses afin de reprendre *in extenso* les exigences de l’art. 9 de la directive 92/65/CEE.
-
-\5. L’information prévue à l’art. 9, par. 2, troisième alinéa, de la directive 92/65/CEE est effectuée au sein du Comité mixte vétérinaire.
-
-\6. Les expéditions de l’Union européenne vers la Suisse de chiens et de chats sont soumises aux exigences prévues à l’art. 10, par. 2, de la directive 92/65/CEE.
-
-Le système d’identification est celui prévu par le règlement (UE) n<sup>o</sup> 576/2013. Le passeport à utiliser est celui prévu par l’annexe II, partie 3, du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annex2-lvlu1-lvlIX-lvlB-1].
-
-La validité de la vaccination antirabique, et, le cas échéant, de la revaccination, est définie à l’annexe III du règlement (UE) n<sup>o</sup> 576/2013.
-
-\7. Le sperme, les ovules et les embryons des espèces ovine et caprine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés des certificats sanitaires prévus par la décision 2010/470/UE de la Commission[^annex2-lvlu1-lvlIX-lvlB-2].
-
-\8. Le sperme de l’espèce équine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse est accompagné du certificat sanitaire prévu par la décision 2010/470/UE.
-
-\9. Les ovules et les embryons de l’espèce équine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés des certificats sanitaires prévus par la décision 2010/470/UE.
-
-\10. Les ovules et les embryons de l’espèce porcine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés des certificats sanitaires conformément à la décision 2010/470/UE.
-
-\11. Les colonies d’abeilles (ruches ou reines avec accompagnatrices) faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes au modèle figurant à la deuxième partie de l’annexe E de la directive 92/65/CEE.
-
-\12. Les animaux, spermes, embryons et ovules provenant d’organismes, d’instituts ou de centres agréés conformément à l’annexe C de la directive 92/65/CEE faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnés de certificats sanitaires conformes au modèle figurant à l’annexe E, partie III, de la directive 92/65/CEE.
-
-\13. Aux fins de l’application de l’art. 24 de la directive 92/65/CEE, l’information prévue au par. 2 dudit article est effectuée au sein du Comité mixte vétérinaire.
-
-[^annex2-lvlu1-lvlIX-lvlB-1]: Règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission du 28 juin 2013 concernant les modèles de documents d’identification relatifs aux mouvements non commerciaux de chiens, de chats et de furets, l’établissement de listes de territoires et de pays tiers ainsi que les exigences en matière de format, de présentation et de langues applicables aux déclarations attestant la conformité à certaines conditions prévues par le règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil (JO L 178 du 28.6.2013, p. 109).
-[^annex2-lvlu1-lvlIX-lvlB-2]: Décision 2010/470/UE de la Commission du 26 août 2010 établissant les modèles de certificats sanitaires applicables aux échanges dans l’Union de sperme, d’ovules et d’embryons d’équidés, d’ovins et de caprins ainsi que d’ovules et d’embryons de porcins (JO L 228 du 31.8.2010, p. 15).
-
-### X. Mouvements non commerciaux des animaux de compagnie
-
-### A. Législations<sup>∗</sup>
-
-[^annex2-lvlu1-lvlX-lvlA-1]
-
-[^annex2-lvlu1-lvlX-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
-
-<table>
-<tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif aux mouvements non commerciaux d’animaux de compagnie et abrogeant le règlement (CE) n<sup>o</sup> 998/2003 (JO L 178 du 28.6.2013, p. 1).</td><td>Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑AC; RS *916.443.14*).</td></tr>
+<tr><td>1. Règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif aux mouvements non commerciaux d’animaux de compagnie et abrogeant le règlement (CE) n<sup>o</sup> 998/2003 (JO L 178 du 28.6.2013, p. 1). 2. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur la partie VI de ce règlement. 3. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables aux mouvements non commerciaux d’animaux de compagnie entre la Suisse et l’Union européenne: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1).</td><td>1. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE AC; RS *916.443.14*). 2. Art. 76*b* de l’Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*).</td></tr>
 </table>
 
 ### B. Modalités d’application
@@ -10297,95 +9877,67 @@ La validité de la vaccination antirabique, et, le cas échéant, de la revaccin
 
 \2. La validité de la vaccination antirabique, et, le cas échéant, de la revaccination, est définie à l’annexe III du règlement (UE) n<sup>o</sup> 576/2013.
 
-\3. Le modèle de passeport à utiliser est celui prévu par l’annexe III, partie 3, du règlement (UE) n<sup>o</sup> 577/2013. Les exigences supplémentaires concernant le passeport sont définies à l’annexe III, partie 4, du règlement (UE) n<sup>o</sup> 577/2013.
+\3. Le modèle de passeport à utiliser est celui prévu par l’annexe III, partie 3, du règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission[^annex2-lvlu1-lvlIV-lvlB-1]. Les exigences supplémentaires concernant le passeport sont définies à l’annexe III, partie 4, du règlement (UE) n<sup>o</sup> 577/2013.
 
-\4. Aux fins du présent appendice, pour les mouvements non commerciaux d’animaux de compagnie entre les États membres de l’Union européenne et la Suisse, les dispositions du chapitre II du règlement (UE) n<sup>o</sup> 576/2013, s’appliquent *mutatis mutandis*. Les contrôles documentaires et d’identité devant être effectués à l’égard des mouvements non commerciaux d’animaux de compagnie à destination de la Suisse, depuis un État membre de l’Union européenne s’effectuent selon les modalités de l’art. 33 du règlement (UE) n<sup>o</sup> 576/2013.
+\4. Aux fins du présent appendice, pour les mouvements non commerciaux d’animaux de compagnie entre les États membres de l’Union européenne et la Suisse, les dispositions du chap. II du règlement (UE) n<sup>o</sup> 576/2013, s’appliquent *mutatis mutandis*. Les contrôles documentaires et d’identité devant être effectués à l’égard des mouvements non commerciaux d’animaux de compagnie à destination de la Suisse, depuis un État membre de l’Union européenne s’effectuent selon les modalités de l’art. 33 du règlement (UE) n<sup>o</sup> 576/2013.
+
+[^annex2-lvlu1-lvlIV-lvlB-1]: Règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission du 28 juin 2013 concernant les modèles de documents d’identification relatifs aux mouvements non commerciaux de chiens, de chats et de furets, l’établissement de listes de territoires et de pays tiers ainsi que les exigences en matière de format, de présentation et de langues applicables aux déclarations attestant la conformité à certaines conditions prévues par le règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil (JO L 178 du 28.6.2013, p. 109).
 
 Appendice 3[^t-26]
 
-## Importation d’animaux vivants, de leur sperme, ovules etembryons des pays tiers
+## Importation d’animaux vivants et de leurs produits germinaux des pays tiers
 
-[^t-26]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015, en vigueur depuis le 17 déc. 2015, avec effet depuis le 1<sup>er</sup> janv. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-26]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2026 du Comité mixte vétérinaire du 24 juil. 2026, en vigueur depuis le 24 juil. 2026, applicable à partir du 1<sup>er</sup> sept. 2026 ([RO 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### I. Union européenne – Législation<sup>∗</sup>
+### I. Union européenne – Législation
 
 [^annex3-lvlu1-lvlI-1]
 
-[^annex3-lvlu1-lvlI-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex3-lvlu1-lvlI-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
-### A. Ongulés, à l’exception des équidés
-
-Directive 2004/68/CE du Conseil du 26 avril 2004 établissant les règles de police sanitaire relatives à l’importation et au transit, dans la Communauté, de certains ongulés vivants, modifiant les Directives 90/426/CEE et 92/65/CEE et abrogeant la directive 72/462/CEE (JO L 139 du 30.4.2004, p. 320).
-
-### B. Équidés
-
-Directive 2009/156/CE du Conseil du 30 novembre 2009 relative aux conditions de police sanitaire régissant les mouvements d’équidés et les importations d’équidés en provenance des pays tiers (JO L 192 du 23.7.2010, p. 1).
-
-### C. Volailles et œufs à couver
-
-Directive 2009/158/CE du Conseil du 30 novembre 2009 relative aux conditions de police sanitaire régissant les échanges intracommunautaires et les importations en provenance des pays tiers de volailles et d’œufs à couver (JO L 343 du 22.12.2009, p. 74).
-
-### D. Animaux d’aquaculture
-
-Directive 2006/88/CE du Conseil du 24 octobre 2006 relative aux conditions de police sanitaire applicables aux animaux et aux produits d’aquaculture, et relative à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies (JO L 328 du 24.11.2006, p. 14).
-
-### E. Embryons bovins
-
-Directive 89/556/CEE du Conseil du 25 septembre 1989 fixant les conditions de police sanitaire régissant les échanges intracommunautaires et les importations en provenance des pays tiers d’embryons d’animaux domestiques de l’espèce bovine (JO L 302 du 19.10.1989, p. 1).
-
-### F. Sperme bovin
-
-Directive 88/407/CEE du Conseil du 14 juin 1988 fixant les exigences de police sanitaire applicables aux échanges intracommunautaires et aux importations de sperme d’animaux de l’espèce bovine (JO L 194 du 22.7.1988, p. 10).
-
-### G. Sperme porcin
-
-Directive 90/429/CEE du Conseil du 26 juin 1990 fixant les exigences de police sanitaire applicables aux échanges intracommunautaires et aux importations de sperme d’animaux de l’espèce porcine (JO L 224 du 18.8.1990, p. 62).
-
-### H. Autres animaux vivants
-
-\1. Directive 92/65/CEE du Conseil du 13 juillet 1992 définissant les conditions de police sanitaire régissant les échanges et les importations dans la Communauté d’animaux, de spermes, d’ovules et d’embryons non soumis, en ce qui concerne les conditions de police sanitaire, aux réglementations communautaires spécifiques visées à l’annexe A section I de la directive 90/425/CEE (JO L 268 du 14.9.1992, p. 54).
+\1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025.
 
 \2. Règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif aux mouvements non commerciaux d’animaux de compagnie et abrogeant le règlement (CE) n<sup>o</sup> 998/2003 (JO L 178 du 28.6.2013, p. 1).
 
-### I. Autres dispositions spécifiques
+\3. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β‑agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3).
 
-\1. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les Directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3).
+\4. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées par la présente section:
 
-\2. Directive 96/23/CE du Conseil du 29 avril 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les Directives 85/358/CEE et 86/469/CEE et les Décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10).
+- – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (JO L 95 du 7.4.2017, p. 1).
 
-### II. Suisse – Législation<sup>∗</sup>
+\5. Art. 118 du règlement (UE) 2019/6 du Parlement européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE (JO L 4 du 7.1.2019, p. 43).
+
+### II. Suisse – Législation
 
 [^annex3-lvlu1-lvlII-1]
 
-[^annex3-lvlu1-lvlII-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex3-lvlu1-lvlII-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 \1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*).
 
 \2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*).
 
-\3. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).
+\3. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*).
 
-\4. Ordonnance du 18 avril 2007 concernant l’importation et le transit d’animaux par voie aérienne en provenance de pays tiers (OITA; RS *916.443.12*).
+\4. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT-DFI; RS *916.443.106*).
 
-\5. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*).
+\5. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑AC; RS *916.443.14*).
 
-\6. Ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux (Ordonnance sur les contrôles OITE; RS *916.443.106*).
+\6. Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV; RS *812.212.27*).
 
-\7. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie ( OITE‑AC; RS *916.443.14*).
+\7. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).
 
-\8. Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV; RS *812.212.27*).
+### B. Modalités d’application
 
-\9. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).
-
-### III. Modalités d’application
-
-L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires applique, simultanément avec les États membres de l’Union européenne, les conditions d’importation établies dans les actes visés à la partie I du présent appendice, les mesures d’application et les listes d’établissements en provenance desquels les importations correspondantes sont autorisées. Cet engagement s’applique à tous les actes appropriés quelle que soit leur date d’adoption.
+\1. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires applique, simultanément avec les États membres de l’Union européenne, les conditions d’entrée établies dans les actes visés à la partie I du présent appendice, les mesures d’application et les listes d’établissements en provenance desquels les importations correspondantes sont autorisées. Cet engagement s’applique à tous les actes appropriés quelle que soit leur date d’adoption.
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires peut adopter des mesures plus restrictives et exiger des garanties supplémentaires. Des consultations se tiendront au sein du Comité mixte vétérinaire en vue de rechercher des solutions appropriées.
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires et les États membres de l’Union européenne se notifient mutuellement les conditions spécifiques d’importation établies à titre bilatéral ne faisant pas l’objet d’une harmonisation au niveau de l’Union.
 
-Aux fins de la présente annexe, pour la Suisse, les institutions approuvées comme centre agréé conformément à l’annexe C de la directive 92/65/CEE sont publiées sur le site internet de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
+\2. La Suisse n’est pas considérée comme un pays tiers aux fins de l’application de l’art. 118 du règlement (UE) 2019/6 et ce, jusqu’au 1<sup>er</sup> juillet 2028.
+
+Ce paragraphe sera revu par le Comité mixte vétérinaire avant le 1<sup>er</sup> juillet 2028.
 
 Appendice 4[^t-27]
 
@@ -10414,282 +9966,187 @@ En cas de difficulté, le comité mixte vétérinaire est saisi à la demande de
 
 Appendice 5[^t-28]
 
-## Animaux vivants, sperme, ovules et embryons: Contrôles aux frontières et redevances
+## Animaux vivants et produits germinaux: Contrôles aux frontières et redevances
 
-[^t-28]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015, en vigueur depuis le 17 déc. 2015, avec effet depuis le 1<sup>er</sup> janv. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-28]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2026 du Comité mixte vétérinaire du 24 juil. 2026, en vigueur depuis le 24 juil. 2026, applicable à partir du 1<sup>er</sup> sept. 2026 ([RO 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
-### Chapitre I Dispositions générales – Système TRACES
+### Chapitre I Dispositions générales – Système de gestion de l’information sur les contrôles officiels
 
-### A. Législations<sup>∗</sup>
+### A. Législations
 
 [^annex5-lvlu1-chapI-lvlA-1]
 
-[^annex5-lvlu1-chapI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapI-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>Décision 2004/292/CE de la Commission du 30 mars 2004 relative à la mise en application du système TRACES et modifiant la décision 92/486/CEE (JO L 94 du 31.3.2004, p. 63).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*); 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*); 3. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 4. Ordonnance du 18 avril 2007 concernant l’importation et le transit d’animaux par voie aérienne en provenance de pays tiers (OITA; RS *916.443.12*); 5. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*); 6. Ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux (Ordonnance sur les contrôles OITE; RS *916.443.106*); 7. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑AC; RS *916.443.14*).</td></tr>
+<tr><td>1. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans le présent chapitre: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 2. Règlement d’exécution (UE) 2019/1715 de la Commission du 30 septembre 2019 établissant les règles de fonctionnement du système de gestion de l’information sur les contrôles officiels et de ses composantes (règlement IMSOC) (JO L 261 du 14.10.2019, p. 37).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*). 2. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*). 3. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*). 4. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE PT DFI; RS *916.443.106*). 5. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE AC; RS *916.443.14*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-La Commission en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires intègre la Suisse au système informatique TRACES, conformément à la décision 2004/292/CE de la Commission.
+\1. La Suisse est intégrée au système de gestion de l’information sur les contrôles officiels et à toutes ses composantes, tels que définis dans le règlement d’exécution (UE) 2019/1715 de la Commission. La Suisse désigne un point de contact à cet effet.
 
-Si nécessaire, des mesures transitoires et complémentaires sont définies au sein du comité mixte vétérinaire.
+Si nécessaire, des mesures complémentaires sont définies au sein du Comité mixte vétérinaire.
 
-### Chapitre II Contrôles vétérinaires et zootechniques applicables dans les échanges entre les États membres de l’Union européenne et la Suisse
+\2. Les parties s’accordent une assistance administrative mutuelle conformément aux art. 104 à 107 du règlement (UE) 2017/625 pour garantir la bonne application du présent appendice. L’application de l’art. 108 du règlement (UE) 2017/625 relève du Comité mixte vétérinaire.
 
-### A. Législations<sup>∗</sup>
+### Chapitre II Contrôles vétérinaires et zootechniques et conditions applicables dans les échanges entre les États membres de l’Union européenne et la Suisse
+
+### A. Législations
 
 [^annex5-lvlu1-chapII-lvlA-1]
 
-[^annex5-lvlu1-chapII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 Les contrôles vétérinaires et zootechniques applicables dans les échanges entre les États membres de l’Union européenne et la Suisse sont effectués conformément aux actes suivants:
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Directive 89/608/CEE du Conseil du 21 novembre 1989 relative à l’assistance mutuelle entre les autorités administratives des États membres et à la collaboration entre celles-ci et la Commission en vue d’assurer la bonne application des législations vétérinaire et zootechnique (JO L 351 du 2.12.1989, p. 34); 2. Directive 90/425/CEE du Conseil du 26 juin 1990 relative aux contrôles vétérinaires et zootechniques applicables dans les échanges intracommunautaires de certains animaux vivants et produits dans la perspective de la réalisation du marché intérieur (JO L 224 du 18.8.1990, p. 29).</td><td>1. Loi sur les épizooties du 1<sup>er</sup> juillet 1966 (LFE; RS *916.40*), et en particulier son art. 57; 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 3. Ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux (Ordonnance sur les contrôles OITE; RS *916.443.106*); 4. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑AC; RS *916.443.14*); 5. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans le présent chapitre: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 3. Règlement d’exécution (UE) 2020/2235 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire, les modèles de certificat officiel et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois de certaines catégories d’animaux et de biens, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 599/2004, les règlements d’exécution (UE) n<sup>o</sup> 636/2014 et (UE) 2019/628, la directive 98/68/CE et les décisions 2000/572/CE, 2003/779/CE et 2007/240/CE (JO L 442 du 30.12.2020, p.1). 4. Règlement d’exécution (UE) 2020/2236 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois d’animaux aquatiques et de certains produits d’origine animale issus d’animaux aquatiques, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 1251/2008 (JO L 442 du 30.12.2020, p. 410). 5. Règlement d’exécution (UE) 2021/403 de la Commission du 18 mars 2021 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements entre les États membres d’envois de certaines catégories d’animaux terrestres et de leurs produits germinaux, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant la décision 2010/470/UE (JO L 113 du 31.3.2021, p. 1).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier son art. 57. 2. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE; RS *916.443.11*). 3. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE-DFI; RS *916.443.111*). 4. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑AC; RS *916.443.14*). 5. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-Dans les cas prévus à l’art. 8 de la directive 90/425/CEE, les autorités compétentes du lieu de destination entrent sans tarder en contact avec les autorités compétentes du lieu d’expédition. Elles prennent toutes les mesures nécessaires et communiquent à l’autorité compétente du lieu d’expédition et à la Commission la nature des contrôles effectués, les décisions prises et les motifs de ces décisions.
+Pour les échanges d’animaux vivants et de produits germinaux, et le pacage frontalier des animaux entre l’Union européenne et la Suisse, les certificats sanitaires sont ceux prévus par le présent appendice.
 
-La mise en œuvre des dispositions prévues aux art. 10, 11 et 16 de la directive 89/608/CEE et aux art. 9 et 22 de la directive 90/425/CEE relève du comité mixte vétérinaire.
+Dans les cas prévus aux art. 102 et 104 à 107 du règlement (UE) 2017/625, les autorités compétentes du lieu de destination entrent sans tarder en contact avec les autorités compétentes du lieu d’expédition. Elles prennent toutes les mesures nécessaires et communiquent à l’autorité compétente du lieu d’expédition et à la Commission la nature des contrôles effectués, les décisions prises et les motifs de ces décisions.
 
-### C. Modalités particulières d’applicationpour les animaux destinés au pacage frontalier
+### C. Modalités particulières d’application pour les animaux destinés au pacage frontalier
 
 \1. Définitions
 
-Pacage: action de transhumer vers une zone frontalière limitée à 10 km lors de l’expédition d’animaux vers un État membre de l’Union européenne ou vers la Suisse. En cas de conditions spéciales dûment justifiées, une profondeur plus grande de part et d’autre de la frontière entre la Suisse et l’Union européenne peut être autorisée par les autorités compétentes concernées.
+Pacage frontalier: action de transhumer vers une zone frontalière limitée à 10 km lors de l’expédition d’animaux vers un État membre de l’Union européenne ou vers la Suisse. En cas de conditions spéciales dûment justifiées, une profondeur plus grande de part et d’autre de la frontière entre la Suisse et l’Union européenne peut être autorisée par les autorités compétentes concernées.
 
 Pacage journalier: pacage pour lequel, à la fin de chaque journée, les animaux regagnent leur exploitation d’origine dans un État membre de l’Union européenne ou en Suisse.
 
-\2. Pour le pacage entre les États membres de l’Union européenne et la Suisse, les dispositions de la décision 2001/672/CE de la Commission[^annex5-lvlu1-chapII-lvlC-1], sont applicables *mutatis mutandis*. Toutefois, dans le cadre de la présente annexe, pour l’art. 1<sup>er</sup> de la décision 2001/672/CE, les adaptations suivantes s’appliquent:
+\2. Les conditions pour les mouvements transfrontaliers d’animaux prévues par le règlement (UE) 2016/429, le règlement délégué (UE) 2020/688 et le règlement délégué (UE) 2019/2035 sont applicables pour le pacage frontalier entre les États membres de l’Union européenne et la Suisse. Les dispositions de l’art. 139 du règlement (UE) 2016/429 sont applicables *mutatis mutandis*.
 
-- – la référence à la période du 1<sup>er</sup> mai au 15 octobre est remplacée par «l’année calendaire»;
-- – pour la Suisse, les parties visées à l’ art. 1<sup>er</sup> de la décision 2001/672/CE et mentionnées à l’annexe correspondante sont:
-- **Suisse**
-- Canton de Zurich
-  - [tab] Canton de Berne
-  - [tab] Canton de Lucerne
-  - [tab] Canton d’Uri
-  - [tab] Canton de Schwyz
-  - [tab] Canton d’Obwald
-  - [tab] Canton de Nidwald
-  - [tab] Canton de Glarus
-  - [tab] Canton de Zoug
-  - [tab] Canton de Fribourg
-  - [tab] Canton de Soleure
-  - [tab] Canton de Bâle-Ville
-  - [tab] Canton de Bâle-Campagne
-  - [tab] Canton de Schaffhouse
-  - [tab] Canton d’Appenzell Rhodes-Extérieures
-  - [tab] Canton d’Appenzell Rhodes-Intérieures
-  - [tab] Canton de St. Gall
-  - [tab] Canton des Grisons
-  - [tab] Canton d’Argovie
-  - [tab] Canton de Thurgovie
-  - [tab] Canton du Tessin
-  - [tab] Canton de Vaud
-  - [tab] Canton du Valais
-  - [tab] Canton de Neuchâtel
-  - [tab] Canton de Genève
-  - [tab] Canton du Jura.
+\3. En application de l’ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401),* et notamment son art. 7 (enregistrement) et de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA; RS *916.404.1*), et en particulier sa section 1 du chap. 3 (contenu de la BDTA), la Suisse attribue à chaque pâturage un code d’enregistrement spécifique qui doit être enregistré dans la base de données nationale relative aux bovins.
 
-En application de l’ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et notamment son art. 7 (enregistrement) et de l’ordonnance du 26 novembre 2011 relative à la banque de données sur le trafic des animaux (Ordonnance sur la BDTA; RS *916.404.1*), et en particulier sa section 2 (contenu de la banque de données), la Suisse attribue à chaque pâturage un code d’enregistrement spécifique qui doit être enregistré dans la base de données nationale relative aux bovins.
+\4. Pour le pacage entre les États membres de l’Union européenne et la Suisse, le vétérinaire officiel du pays d’expédition:
 
-\3. Pour le pacage entre les États membres de l’Union européenne et la Suisse, le vétérinaire officiel du pays d’expédition:
+- a) informe, à la date d’émission du certificat et au plus tard dans les vingt-quatre heures avant la date prévue d’arrivée des animaux, par le système informatisé de liaison entre autorités vétérinaires prévu par le règlement d’exécution (UE) 2019/1715, l’autorité compétente du lieu de destination (unité vétérinaire locale) de l’envoi des animaux;
+- b) délivre un certificat conformément au règlement d’exécution (UE) 2021/403.
 
-- a) informe, à la date d’émission du certificat et au plus tard dans les vingt-quatre heures avant la date prévue d’arrivée des animaux, par le système informatisé de liaison entre autorités vétérinaires prévu par l’art. 20 de la directive 90/425/CEE, l’autorité compétente du lieu de destination (unité vétérinaire locale) de l’envoi des animaux;
-- b) procède à l’examen des animaux dans les 48 heures avant leur départ pour le pacage; ces animaux doivent être dûment identifiés;
-- c) délivre un certificat selon le modèle figurant au point 9.
+\5. Pendant toute la durée du pacage, les animaux doivent rester sous contrôle douanier.
 
-\4. Pendant toute la durée du pacage, les animaux doivent rester sous contrôle douanier.
-
-\5. Le détenteur des animaux doit:
+\6. Le détenteur des animaux doit:
 
 - a) accepter, dans une déclaration écrite, de se conformer à toutes les mesures prises en application des dispositions prévues par la présente annexe et à toute autre mesure mise en place au niveau local au même titre que tout détenteur originaire d’un État membre de l’Union européenne ou de la Suisse;
 - b) acquitter les coûts des contrôles résultant de l’application de la présente annexe;
 - c) prêter son entière collaboration pour la réalisation des contrôles douaniers ou vétérinaires requis par les autorités officielles du pays d’expédition ou du pays de destination.
 
-\6. Lors du retour des animaux à la fin de la saison de pacage ou de façon anticipée, le vétérinaire officiel du pays du lieu de pacage:
+\7. Lors du retour des animaux à la fin de la saison de pacage ou de façon anticipée, le vétérinaire officiel du pays du lieu de pacage:
 
-- a) informe, à la date d’émission du certificat et au plus tard dans les vingt-quatre heures avant la date prévue d’arrivée des animaux, par le système informatisé de liaison entre autorités vétérinaires prévu par l’art. 20 de la directive 90/425/CEE, l’autorité compétente du lieu de destination (unité vétérinaire locale) de l’envoi des animaux;
-- b) procède à l’examen des animaux dans les 48 heures avant leur départ pour le pacage; ces animaux doivent être dûment identifiés;
-- c) délivre un certificat selon le modèle figurant au point 9.
+- a) informe, à la date d’émission du certificat et au plus tard dans les vingt-quatre heures avant la date prévue d’arrivée des animaux, par le système informatisé de liaison entre autorités vétérinaires prévu par le règlement d’exécution (UE) 2019/1715, l’autorité compétente du lieu de destination (unité vétérinaire locale) de l’envoi des animaux;
+- b) délivre un certificat conformément au règlement d’exécution (UE) 2021/403.
 
-\7. En cas d’apparition de maladie, les mesures appropriées sont prises d’un commun accord entre les autorités vétérinaires compétentes. La question des frais éventuels sera examinée par ces autorités. Si nécessaire, le Comité mixte vétérinaire sera saisi.
+\8. En cas d’apparition de maladie, les mesures appropriées sont prises d’un commun accord entre les autorités vétérinaires compétentes. La question des frais éventuels sera examinée par ces autorités. Si nécessaire, le Comité mixte vétérinaire sera saisi.
 
-\8. En dérogation aux dispositions prévues pour le pacage aux points 1 à 7, dans le cas du pacage journalier entre les États membres de l’Union européenne et la Suisse:
+\9. En dérogation aux dispositions prévues pour le pacage aux pt. 1 à 8, dans le cas du pacage journalier entre les États membres de l’Union européenne et la Suisse:
 
 - a) les animaux n’entrent pas en contact avec des animaux d’une autre exploitation;
 - b) le détenteur des animaux s’engage à informer l’autorité vétérinaire compétente de tout contact des animaux avec des animaux d’une autre exploitation;
-- c) le certificat sanitaire défini au point 9 doit être présenté chaque année calendaire, aux autorités vétérinaires compétentes, lors de la première introduction des animaux dans un État membre de l’Union européenne ou en Suisse. Ce certificat sanitaire doit pouvoir être présenté aux autorités vétérinaires compétentes sur demande de celles-ci;
-- d) les points 2 et 3 s’appliquent seulement lors de la première expédition de l’année calendaire des animaux vers un État membre de l’Union européenne ou vers la Suisse;
-- e) le point 6 ne s’applique pas;
+- c) le certificat sanitaire doit être présenté chaque année calendaire, aux autorités vétérinaires compétentes, lors de la première introduction des animaux dans un État membre de l’Union européenne ou en Suisse. Ce certificat sanitaire doit pouvoir être présenté aux autorités vétérinaires compétentes sur demande de celles-ci;
+- d) les pt. 2 et 4 s’appliquent seulement lors de la première expédition de l’année calendaire des animaux vers un État membre de l’Union européenne ou vers la Suisse;
+- e) le pt. 7 ne s’applique pas;
 - f) le détenteur des animaux s’engage à informer l’autorité vétérinaire compétente de la fin de la période de pacage.
 
-\9. Modèle de certificat sanitaire pour le pacage frontalier, ou le pacage journalier et le retour du pacage frontalier des animaux des espèces bovines:
-
-Modèle de certificat sanitaire pour le pacage frontalier ou le pacage journalier et le retour du pacage frontalier des animaux des espèces bovines
-
-<table>
-<tr><th></th><th colspan="4">**Union européenne**</th><th colspan="4">Certificat intracommunautaire</th></tr>
-<tr><td>**Partie I: Details concernant le lot présenté**</td><td colspan="4">I.1. Expéditeur Nom Adresse Pays</td><td colspan="2">I.2. N<sup>o</sup> de référence du certificat</td><td colspan="2">I.2.a. N<sup>o</sup> de référence locale:</td></tr>
-<tr><td></td><td colspan="4"></td><td colspan="4">I.3. Autorité centrale compétente</td></tr>
-<tr><td></td><td colspan="4"></td><td colspan="4">I.4. Autorité locale compétente</td></tr>
-<tr><td></td><td colspan="4">I.5. Destinataire Nom Adresse Pays</td><td colspan="2">I.6. N<sup>o</sup> des certificats originaux associés</td><td colspan="2">N<sup>o</sup> des documents d’accompagnement</td></tr>
-<tr><td></td><td colspan="4"></td><td colspan="4">I.7. Négociant Nom Numéro d’agrément</td></tr>
-<tr><td></td><td>I.8. Pays d’origine</td><td>Code ISO</td><td>I.9. Région d’origine</td><td>Code</td><td>I.10. Pays de destination</td><td>Code ISO</td><td>I.11. Région de destination</td><td>Code</td></tr>
-<tr><td></td><td colspan="4">I.12. Lieu d’origine/Lieu de pêche Exploitation [F035] Centre de rassemblement [F035] Installation du négociant [F035] Organisme agréé [F035] Centre semence [F035] Exploitation aquaculture agréée [F035] Équipe embryons [F035] Établissement [F035] Autres [F035] Nom Numéro d’agrément Adresse Code postal</td><td colspan="4">I.13. Lieu de destination Exploitation [F035] Centre de rassemblement [F035] Installation du négociant [F035] Organisme agréé [F035] Centre semence [F035] Exploitation aquaculture agréée [F035] Équipe embryons [F035] Établissement [F035] Autres [F035] Nom Numéro d’agrément Adresse Code postal</td></tr>
-<tr><td></td><td colspan="4">I.14. Lieu de chargement Code postal</td><td colspan="4">I.15. Date et heure du départ</td></tr>
-<tr><td></td><td colspan="4">I.16. Moyens de transport Avion [F035] Navire [F035] Wagon [F035] Véhicule routier [F035] Autres [F035] Identification: Numéro(s):</td><td colspan="4">I.17. Transporteur Nom Numéro d’agrément Adresse Code postal État membre</td></tr>
-<tr><td></td><td colspan="4">I.21.</td><td colspan="2">I.20. Nombre/ Quantité</td><td colspan="2">I.22. Nombre de conditionnements</td></tr>
-<tr><td></td><td colspan="8">I.23. N<sup>o</sup> du scellé et n<sup>o</sup> du conteneur</td></tr>
-<tr><td></td><td colspan="8">I.25. Animaux certifiés aux fins de / Produits certifiés pour: Transhumance [F035]</td></tr>
-<tr><td></td><td colspan="4">I.26. Transit par un pays tiers [F035] Pays tiers Code ISO Pays tiers Code ISO Pays tiers Code ISO Point de sortie Code Point d’entrée N<sup>o</sup> du PIF</td><td colspan="4">I.27. Transit par les États membres [F035] État membre Code ISO État membre Code ISO État membre Code ISO</td></tr>
-<tr><td></td><td colspan="4">I.28. Exportation [F035] Pays tiers Code ISO Point de sortie Code</td><td colspan="4">I.29. Temps estimé du transport</td></tr>
-<tr><td></td><td colspan="8">[tab] I.30. Plan de marche Oui [F035] Non [F035]</td></tr>
-<tr><td></td><td colspan="8">I.31. Identification des animaux Code de marchandise (Code SH) N<sup>o</sup> du passeport</td></tr>
-</table>
-
-<table>
-<tr><th></th><th colspan="2">Union européenne</th><th colspan="2">2005/22/CE Pacage</th></tr>
-<tr><th></th><th>II. Informations sanitaires</th><th colspan="2">II.a. N<sup>o</sup> de référence du certificat</th><th>II.b. N<sup>o</sup> de référence locale</th></tr>
-<tr><td>Part II: Certification</td><td colspan="4">A. Certificat sanitaire relatif au pacage frontalier ou au pacage journalier des animaux de l’espèce bovine Je soussigné, vétérinaire officiel, certifie ce qui suit: A.1. chaque animal du lot décrit ci-dessus provient d’une exploitation d’origine et d’une zone qui, au regard de la législation communautaire ou nationale, ne font l’objet d’aucune interdiction ou restriction motivée par une maladie des bovins; A.2. chaque animal du lot décrit ci-dessus provient d’un troupeau d’origine situé dans un État membre ou dans une partie de son territoire: a) ayant mis en place un réseau de surveillance approuvé par la décision …/…/ CE de la Commission ou, pour la Suisse, par l’accord entre la Communauté européenne et la Suisse du 21 juin 1999 (annexe 11, appendice 2, point I); b) qui est reconnu officiellement indemne de leucose, de tuberculose et de brucellose;</td></tr>
-<tr><td></td><td colspan="4">A.3. chaque animal du lot décrit ci-dessus est un animal d’élevage<sup>(3)</sup> ou de rente<sup>(1)</sup> qui: a) a, d’après les informations disponibles, séjourné dans l’exploitation d’origine au cours des trente derniers jours ou depuis sa naissance s’il est âgé de moins de trente jours, et qu’aucun animal importé d’un pays tiers n’a été introduit dans cette exploitation au cours de cette période, à moins qu’il n’ait été isolé de tous les autres animaux de l’exploitation; b) n’a pas été en contact, au cours des trente derniers jours, avec des animaux dont les troupeaux ne remplissent pas les conditions visées au point 2;</td></tr>
-<tr><td></td><td colspan="4">A.4. les animaux décrits ci-dessus ont été inspectés le [insérer la date], dans les 48 heures précédant le départ prévu, et n’ont présenté aucun signe clinique de maladie infectieuse ou contagieuse;</td></tr>
-<tr><td></td><td colspan="4">A.5. l’exploitation d’origine et, le cas échéant, le centre de rassemblement agréé et la zone dans laquelle ils sont situés ne font l’objet d’aucune interdiction ou restriction motivée par une maladie des bovins au regard de la législation communautaire ou nationale;</td></tr>
-<tr><td></td><td colspan="4">A.6. toutes les dispositions applicables de la directive 64/432/CEE du Conseil sont respectées;</td></tr>
-<tr><td></td><td colspan="4">A.7. les animaux présentent les garanties complémentaires concernant la rhinotrachéite infectieuse bovine/vulvovaginite pustuleuse infectieuse, conformément à la décision 2004/558/CE de la Commission, dont les dispositions sont applicables *mutatis mutandis*, conformément à l’accord entre la Communauté européenne et la Suisse du 21 juin 1999;</td></tr>
-<tr><td></td><td colspan="4">A.8. au moment de l’inspection, les animaux susvisés étaient aptes à effectuer le transport prévu, conformément aux dispositions du règlement (CE) n<sup>o</sup> 1/2005 du Conseil;</td></tr>
-<tr><td></td><td colspan="4">A.9. Date d’arrivée au pâturage<sup>(6)</sup> …</td></tr>
-<tr><td></td><td colspan="4">[tab] A.10. Date de départ prévue du pâturage: …</td></tr>
-<tr><td></td><td colspan="4">B. Certificat sanitaire relatif au retour du pacage frontalier des animaux de l’espèce bovine (retour normal ou anticipé)</td></tr>
-<tr><td></td><td colspan="4">B.1. les animaux décrits ci-dessus [liste des animaux lors du retour anticipé<sup>(3)</sup> ou liste des animaux figurant sur le certificat original associé<sup>(3) (7) (8)</sup>] ont été inspectés le … (date de chargement des animaux ou 48 heures avant leur départ) et n’ont présenté aucun signe clinique de maladie infectieuse ou contagieuse;</td></tr>
-<tr><td></td><td colspan="4">B.2. la zone de pacage dans laquelle les animaux ont séjourné ne fait l’objet d’aucune interdiction ou restriction motivée par une maladie des bovins au regard de la législation communautaire ou nationale, et notamment qu’aucun cas de tuberculose, de brucellose et de leucose n’a été constaté au cours de la période de pacage.</td></tr>
-<tr><td></td><td colspan="4">\* Partie A à remplir pour l’aller du pacage frontalier ou pour le pacage journalier, partie B à remplir pour le retour du pacage frontalier.</td></tr>
-<tr><td></td><td colspan="4">(1) Les renseignements qui doivent figurer le présent certificat sont à introduire dans le système informatisé de liaison entre autorités vétérinaires prévu par l’art. 20 de la directive 90/425/CEE à la date d’émission du certificat et au plus tard dans les 24 heures précédant la date prévue d’arrivée des animaux.</td></tr>
-<tr><td></td><td colspan="4">(2) Ce certificat est valable dix jours à compter de la date de l’inspection sanitaire effectuée en Suisse ou dans l’État membre d’origine. Dans le cas du pacage journalier, ce certificat est valable pendant toute la période de pacage.</td></tr>
-<tr><td></td><td colspan="4">(3) Biffer les mentions sans objet.</td></tr>
-<tr><td></td><td colspan="4">(4) Dans le cas du pacage journalier, ce certificat est valable pendant toute la période de pacage.</td></tr>
-<tr><td></td><td colspan="4">(5) Cette déclaration ne dispense pas les transporteurs des obligations qui leur incombent en vertu des dispositions communautaires en vigueur, notamment pour ce qui est de l’aptitude des animaux à être transportés.</td></tr>
-<tr><td></td><td colspan="4">(6) Le code d’enregistrement du pâturage est indiqué dans la partie I.13 (numéro d’agrément) du présent certificat.</td></tr>
-<tr><td></td><td colspan="4">(7) Dans le cas où, pour des raisons sanitaires, des animaux reviennent dans leur exploitation d’origine pendant la période de pacage, accompagnés d’un certificat sanitaire, les marques d’identification doivent être rayées de la liste initiale, et cette dernière doit être validée par le vétérinaire officiel.</td></tr>
-<tr><td></td><td colspan="4">(8) Le numéro du certificat sanitaire utilisé pour le mouvement d’entrée dans la zone de pacage est indiqué dans la partie I.6 du présent certificat.</td></tr>
-<tr><td></td><td colspan="4">Vétérinaire officiel ou inspecteur officiel Nom (en lettres capitales): Qualification et titre: Unité Vétérinaire Locale: N<sup>o</sup> de l’UVL: Date: Signature: Sceau:</td></tr>
-</table>
-
-[^annex5-lvlu1-chapII-lvlC-1]: Décision 2001/672/CE de la Commission du 20 août 2001 portant modalités particulières d’application aux mouvements de bovins destinés à pâturer durant l’été dans différents lieux situés en montagne (JO L 235 du 4.9.2001, p. 23).
-
-### Chapitre III Conditions pour les échanges entre l’Union européenne et la Suisse
+### Chapitre III Contrôles vétérinaires applicables pour les importations en provenance des pays tiers
 
 ### A. Législations
 
-Pour les échanges d’animaux vivants, de leurs sperme, ovules, embryons et le pacage frontalier des animaux des espèces bovines entre l’Union européenne et la Suisse, les certificats sanitaires sont ceux prévus par la présente annexe et disponibles dans le systèmes TRACES, conformément aux dispositions du règlement (CE) n<sup>o</sup> 599/2004 de la Commission[^annex5-lvlu1-chapIII-lvlA-1].
+[^annex5-lvlu1-chapIII-lvlA-1]
 
-[^annex5-lvlu1-chapIII-lvlA-1]: Règlement (CE) n<sup>o</sup> 599/2004 de la Commission du 30 mars 2004 relatif à l’adoption d’un modèle harmonisé de certificat et de compte rendu d’inspection liés aux échanges intracommunautaires d’animaux et de produits d’origine animale (JO L 94 du 31.3.2004, p. 44).
-
-### Chapitre IV Contrôles vétérinaires applicables pour les importations en provenance des pays tiers
-
-### A. Législations<sup>∗</sup>
-
-[^annex5-lvlu1-chapIV-lvlA-1]
-
-[^annex5-lvlu1-chapIV-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapIII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 Les contrôles relatifs aux importations des pays tiers sont effectués conformément aux actes suivants:
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Règlement (CE) n<sup>o</sup> 282/2004 de la Commission du 18 février 2004 relatif à l’établissement d’un document pour la déclaration et le contrôle vétérinaire des animaux en provenance des pays tiers et introduits dans la Communauté (JO L 49 du 19.2.2004, p. 11); 2. Règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1). 3. Directive 91/496/CEE du Conseil du 15 juillet 1991 fixant les principes relatifs à l’organisation des contrôles vétérinaires pour les animaux en provenance des pays tiers introduits dans la Communauté et modifiant les directives 89/662/CEE, 90/425/CEE et 90/675/CEE (JO L 268 du 24.9.1991, p. 56); 4. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3); 5. Directive 96/23/CE du Conseil du 29 avril 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les directives 85/358/CEE et 86/469/CEE et les décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10); 6. Décision 97/794/CE de la Commission du 12 novembre 1997 fixant certaines modalités d’application de la directive 91/496/CEE du Conseil en ce qui concerne les contrôles vétérinaires des animaux sur pied en provenance des pays tiers (JO L 323 du 26.11.1997, p. 31); 7. Décision 2007/275/CE de la Commission du 17 avril 2007 relative aux listes des animaux et des produits devant faire l’objet de contrôles aux postes d’inspection frontaliers conformément aux directives du Conseil 91/496/CEE et 97/78/CE (JO L 116 du 4.5.2007, p. 9).</td><td>1. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 2. Ordonnance du 18 avril 2007 concernant l’importation et le transit d’animaux par voie aérienne en provenance de pays tiers (OITA; RS *916.443.12*); 3. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*); 4. Ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux (Ordonnance sur les contrôles OITE; RS *916.443.106*); 5. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑AC; RS *916.443.14*); 6. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*); 7. Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV; RS *812.212.27*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans le présent chapitre: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 3. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3). 4. Art. 118 du Règlement (UE) 2019/6 du Parlement européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE (JO L 4 du 7.1.2019, p. 43).</td><td>1. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*). 2. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT-DFI; RS *916.443.106*). 3. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE AC; RS *916.443.14*). 4. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*). 5. Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV; RS *812.212.27*).</td></tr>
 </table>
 
-### B. Modalités d’application
+**B.** **Modalités d’application**
 
-\1. Aux fins de l’application de l’art. 6 de la directive 91/496/CEE, les postes d’inspections frontaliers des États membres de l’Union européenne pour les contrôles vétérinaires sur les animaux vivants figurent à l’annexe I de la décision 2009/821/CE de la Commission[^annex5-lvlu1-chapIV-lvlB-1].
+\1. Aux fins de l’application des art. 59 et 60 du règlement (UE) 2017/625, les listes des postes de contrôle frontaliers des États membres de l’Union européenne pour les contrôles vétérinaires sur les animaux vivants sont publiées sur le site de la Commission européenne.
 
-\2. Aux fins de l’application de l’art. 6 de la directive 91/496/CEE, les postes d’inspections frontaliers pour la Suisse sont les suivants:
+\2. Aux fins de l’application des art. 59 et 60 du règlement (UE) 2017/625, les postes de contrôle frontaliers pour la Suisse sont les suivants:
 
 <table>
-<tr><td>Nom</td><td>Code TRACES</td><td>Type</td><td>Centre d’inspection</td><td>Type d’agrément</td></tr>
-<tr><td>Aéroport de Zurich</td><td>CHZRH4</td><td>A</td><td>Centre 3</td><td>O – Autres animaux (y compris animaux de zoos)\*</td></tr>
-<tr><td>Aéroport de Genève</td><td>CHGVA4</td><td>A</td><td>Centre 2</td><td>O – Autres animaux (y compris animaux de zoos)\*</td></tr>
-<tr><td colspan="5">\* Par référence aux catégories d’agrément définies par la décision 2009/821/CE.</td></tr>
+<tr><th>Nom</th><th>Code TRACES</th><th>Type d’agrément</th></tr>
+<tr><td>Aéroport de Zurich</td><td>CHZRH4</td><td>LA-O**<sup>\*</sup>**</td></tr>
+<tr><td>Aéroport de Genève</td><td>CHGVA4</td><td>LA-O**<sup>\*</sup>**</td></tr>
 </table>
 
-Les modifications ultérieures de la liste des postes d’inspection frontaliers, de leurs centres d’inspection et de leur type d’agrément relèvent du Comité mixte vétérinaire.
+**<sup>\*</sup>** Par référence aux catégories d’agrément définies par le règlement d’exécution (UE) 2019/1014 de la Commission du 12 juin 2019 fixant les règles détaillées concernant les exigences minimales relatives aux postes de contrôle frontaliers, y compris les centres d’inspection, et au modèle, aux catégories et aux abréviations à utiliser pour dresser les listes des postes de contrôle frontaliers et des points de contrôle (JO L 165 du 21.6.2019, p. 10).
 
-La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 19 de la directive 91/496/CEE et à l’art. 57 de la loi sur les épizooties.
+Les modifications ultérieures de la liste des postes de contrôle frontaliers, de leurs centres d’inspection et de leur type d’agrément relèvent du Comité mixte vétérinaire.
 
-\3. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires applique, simultanément avec les États membres de l’Union européenne, les conditions d’importation visées à l’appendice 3 de la présente annexe ainsi que les mesures d’application.
+\3. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément notamment à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
+
+\4. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires applique, simultanément avec les États membres de l’Union européenne, les conditions d’entrée visées à l’appendice 3 de la présente annexe ainsi que les mesures d’application.
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires peut adopter des mesures plus restrictives et exiger des garanties supplémentaires. Des consultations se tiendront au sein du Comité mixte vétérinaire en vue de rechercher des solutions appropriées.
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires et les États membres de l’Union européenne se notifient mutuellement les conditions spécifiques d’importation établies à titre bilatéral ne faisant pas l’objet d’une harmonisation au niveau de l’Union.
 
-\4. Les postes d’inspection frontaliers des États membres de l’Union européenne visés au point 1 de la présente section effectuent les contrôles relatifs aux importations des pays tiers et destinés à la Suisse conformément à la section A du présent chapitre.
+\5. Les postes de contrôle frontaliers des États membres de l’Union européenne visés au pt. 1 de la présente section effectuent les contrôles relatifs aux importations des pays tiers destinées à la Suisse conformément à la section A du présent chapitre.
 
-\5. Les postes d’inspection frontaliers de la Suisse visés au point 2 effectuent les contrôles relatifs aux importations des pays tiers destinées aux États membres de l’Union européenne conformément à la section A du présent chapitre.
+\6. Les postes de contrôle frontaliers de la Suisse visés au pt. 2 effectuent les contrôles relatifs aux importations des pays tiers destinées aux États membres de l’Union européenne conformément à la section A du présent chapitre.
 
-[^annex5-lvlu1-chapIV-lvlB-1]: Décision 2009/821/CE de la Commission du 28 septembre 2009 établissant une liste de postes d’inspection frontaliers agréés, fixant certaines règles concernant les inspections réalisées par les experts vétérinaires de la Commission et définissant les unités vétérinaires du système TRACES (JO L 296 du 12.11.2009, p. 1).
+\7. La Suisse n’est pas considérée comme un pays tiers aux fins de l’application de l’art. 118 du règlement (UE) 2019/6 et ce, jusqu’au 1<sup>er</sup> juillet 2028.
 
-### Chapitre V Dispositions spécifiques
+Ce paragraphe sera revu par le Comité mixte vétérinaire avant le 1<sup>er</sup> juillet 2028.
 
-### 1. Identification du bétail
+### Chapitre IV Dispositions spécifiques
 
-### A. Législations<sup>∗</sup>
+### I. Identification du bétail
 
-[^annex5-lvlu1-chapV-lvl1-lvlA-1]
+### A. Législations
 
-[^annex5-lvlu1-chapV-lvl1-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapIV-lvlI-lvlA-1]
+
+[^annex5-lvlu1-chapIV-lvlI-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 Les contrôles relatifs aux importations des pays tiers sont effectués conformément aux actes suivants:
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Directive 2008/71/CE du Conseil du 15 juillet 2008 concernant l’identification et l’enregistrement des animaux de l’espèce porcine (JO L 213 du 8.8.2008, p. 31); 2. Règlement (CE) n<sup>o</sup> 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d’identification et d’enregistrement des bovins et concernant l’étiquetage de la viande bovine et des produits à base de viande bovine, et abrogeant le règlement (CE) n<sup>o</sup> 820/97 du Conseil (JO L 204 du 11.8.2000, p. 1).</td><td>1. Ordonnance sur les épizooties du 27 juin 1995 (OFE; RS *916.401*), et en particulier ses art. 7 à 15*f* (enregistrement et identification); 2. Ordonnance du 26 octobre 2011 relative à la banque de données sur le trafic des animaux (Ordonnance sur la BDTA; RS *916.404.1*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans la présente section: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1).</td><td>1. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*), et en particulier ses art. 7 à 15*f* (enregistrement et identification). 2. Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (Oid BDTA; RS *916.404.1*).</td></tr>
 </table>
 
-### B. Modalités d’application
+### II. Protection des animaux
 
-- a) L’application de l’art. 4, point 2, de la directive 2008/71/CE relève du comité mixte vétérinaire.
-- b) La mise en œuvre des contrôles sur place relève du Comité mixte vétérinaire, conformément notamment à l’art. 22 du règlement (CE) n<sup>o</sup> 1760/2000 et à l’art. 57 de la loi sur les épizooties ainsi que de l’art. 1 de l’ordonnance du 23 octobre 2013sur la coordination des contrôles dans les exploitations agricoles (OCCEA, RS *910.15*).
+### A. Législations
 
-### 2. Protection des animaux
+[^annex5-lvlu1-chapIV-lvlII-lvlA-1]
 
-### A. Législations<sup>∗</sup>
-
-[^annex5-lvlu1-chapV-lvl2-lvlA-1]
-
-[^annex5-lvlu1-chapV-lvl2-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex5-lvlu1-chapIV-lvlII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Règlement (CE) n<sup>o</sup> 1/2005 du Conseil du 22 décembre 2004 relatif à la protection des animaux pendant le transport et les opérations annexes et modifiant les directives 64/432/CEE et 93/119/CE et le règlement (CE) n<sup>o</sup> 1255/97 (JO L 3 du 5.1.2005, p. 1); 2. Règlement (CE) n<sup>o</sup> 1255/97 du Conseil du 25 juin 1997 concernant les critères communautaires requis aux postes de contrôle et adaptant le plan de marche visé à l’annexe de la directive 91/628/CEE (JO L 174 du 2.7.1997 p. 1).</td><td>1. Loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA; RS *455*), et notamment les art. 15 et 15*a* (principes, transports internationaux d’animaux); 2. Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*), et notamment les art. 169 à 176 (transports internationaux d’animaux).</td></tr>
+<tr><td>1. Règlement (CE) n<sup>o</sup> 1/2005 du Conseil du 22 décembre 2004 relatif à la protection des animaux pendant le transport et les opérations annexes et modifiant les directives 64/432/CEE et 93/119/CE et le règlement (CE) n<sup>o</sup> 1255/97 (JO L 3 du 5.1.2005, p. 1). 2. Règlement (CE) n<sup>o</sup> 1255/97 du Conseil du 25 juin 1997 concernant les critères communautaires requis aux postes de contrôle et adaptant le plan de marche visé à l’annexe de la directive 91/628/CEE (JO L 174 du 2.7.1997 p. 1). 3. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans la présente section: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1).</td><td>1. Loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA; RS *455*), et notamment les art. 15 et 15*a* (principes, transports internationaux d’animaux). 2. Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*), et notamment les art. 169 à 176 (transports internationaux d’animaux).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
 - a) Les autorités suisses s’engagent à respecter les dispositions du règlement (CE) n<sup>o</sup> 1/2005 pour les échanges entre la Suisse et l’Union européenne et pour les importations des pays tiers.
-- b) Dans les cas prévus à l’art. 26 du règlement (CE) n<sup>o</sup> 1/2005, les autorités compétentes du lieu de destination entrent sans tarder en contact avec les autorités compétentes du lieu de départ.
-- c) La mise en œuvre des art. 10, 11 et 16 de la directive 89/608/CEE du Conseil relève du Comité mixte vétérinaire.
-- d) La mise en œuvre des contrôles sur place relève du comité mixte vétérinaire, conformément notamment à l’art. 28 du règlement (CE) n<sup>o</sup> 1/2005 et à l’art. 208 de l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*).
-- e) En application des dispositions de l’art. 15*a*, al. 3, de la loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA; RS *455*), le transit par la Suisse de bovins, de moutons, de chèvres et de porcs, de chevaux d’abattage et de volailles d’abattage n’est admis que par le rail ou par avion. Cette question sera examinée par le Comité mixte vétérinaire.
+- b) La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément notamment à l’art. 116 du règlement (UE) 2017/625 et à l’art. 208 de l’ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*).
+- c) En application des dispositions de l’art. 15*a*, al. 3, de la loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA; RS *455*), le transit par la Suisse de bovins, de moutons, de chèvres et de porcs, de chevaux d’abattage et de volailles d’abattage n’est admis que par le rail ou par avion. Cette question sera examinée par le Comité mixte vétérinaire.
 
-### 3. Redevances
+### III. Redevances
 
 \1. Aucune redevance n’est perçue pour les contrôles vétérinaires des échanges entre les États membres de l’Union européenne et la Suisse.
 
-\2. Pour les contrôles vétérinaires des importations des pays tiers, les autorités suisses s’engagent à percevoir les redevances liées aux contrôles officiels prévues par le règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil.
+\2. Pour les contrôles vétérinaires des importations des pays tiers, les autorités suisses s’engagent à percevoir les redevances liées aux contrôles officiels prévues par le règlement (UE) 2017/625 du Parlement européen et du Conseil.
 
 Appendice 6[^t-29]
 
 ## Produits animaux
 
-[^t-29]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)). Mis à jour selon l’art. 1 de la D n<sup>o</sup> 1/2018 du Comité mixte vétérinaire du 12 juin 2018, en vigueur depuis le 12 juin 2018, avec effet depuis le 1<sup>er</sup> janv. 2017 ([RO 2018 3013](https://fedlex.data.admin.ch/eli/oc/2018/468)).
+[^t-29]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2026 du Comité mixte vétérinaire du 24 juil. 2026, en vigueur depuis le 24 juil. 2026, applicable à partir du 1<sup>er</sup> sept. 2026 ([RO 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
 ### Chapitre I Secteurs où l’équivalence est reconnue de manière réciproque
 
@@ -10697,7 +10154,7 @@ Appendice 6[^t-29]
 
 Les définitions du règlement (CE) n<sup>o</sup> 853/2004 s’appliquent *mutatis mutandis*.
 
-Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th></th><th colspan="3">Exportations de l’Union européenne vers la Suisse et exportations de la Suisse vers l’Union européenne</th></tr>
@@ -10705,76 +10162,75 @@ Toute référence à un acte s’entend, sauf indication contraire, comme une r�
 <tr><th></th><th>Union européenne</th><th>Suisse</th><th></th></tr>
 <tr><td colspan="4">Santé animale</td></tr>
 <tr><td colspan="4">1. Viandes fraîches y compris les viandes hachées, préparations de viandes, produits à base de viandes, graisses non transformées et graisses fondues</td></tr>
-<tr><td>Ongulés domestiques Solipèdes domestiques</td><td>Directive 64/432/CEE Directive 2002/99/CE\* Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
+<tr><td>Ongulés domestiques Solipèdes domestiques</td><td>Règlement (UE) 2016/429 Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
 <tr><td colspan="4">2. Viandes de gibier d’élevage, préparations de viandes, produits à base de viandes</td></tr>
-<tr><td>Mammifères terrestres d’élevage autres que ceux cités ci-dessus</td><td>Directive 64/432/CEE Directive 92/118/CEE\*\* Directive 2002/99/CE Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
-<tr><td>Ratites d’élevage Lagomorphes</td><td>Directive 92/118/CEE Directive 2002/99/CE</td><td></td><td>Oui</td></tr>
+<tr><td>Mammifères terrestres d’élevage autres que ceux cités ci-dessus</td><td>Règlement (UE) 2016/429 Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td>Ratites d’élevage Lagomorphes</td><td>Règlement (UE) 2016/429</td><td></td><td>Oui</td></tr>
 <tr><td colspan="4">3. Viandes de gibier sauvage, préparations de viandes, produits à base de viandes</td></tr>
-<tr><td>Ongulés sauvages Lagomorphes Autres mammifères terrestres Gibier sauvage à plumes</td><td>Directive 2002/99/CE Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td>Ongulés sauvages Lagomorphes Autres mammifères terrestres Gibier sauvage à plumes</td><td>Règlement (UE) 2016/429 Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
 <tr><td colspan="4">4. Viandes fraîches de volaille, préparations de viandes, produits à base de viandes, graisses et graisses fondues</td></tr>
-<tr><td>Volailles</td><td>Directive 92/118/CEE Directive 2002/99/CE</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td>Volailles</td><td>Règlement (UE) 2016/429</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
 <tr><td colspan="4">5. Estomacs, vessies et boyaux</td></tr>
-<tr><td>Bovins Ovins et caprins Porcins</td><td>Directive 64/432/CEE Directive 92/118/CEE Directive 2002/99/CE Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
+<tr><td>Bovins Ovins et caprins Porcins</td><td>Règlement (UE) 2016/429 Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
 <tr><td colspan="4">6. Os et produits à base d’os</td></tr>
-<tr><td>Ongulés domestiques Solipèdes domestiques Autres mammifères terrestres d’élevage ou sauvages Volailles, ratites et gibier sauvage à plumes</td><td>Directive 64/432/CEE Directive 92/118/CEE Directive 2002/99/CE Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
+<tr><td>Ongulés domestiques Solipèdes domestiques Autres mammifères terrestres d’élevage ou sauvages Volailles, ratites et gibier sauvage à plumes</td><td>Règlement (UE) 2016/429 Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
 <tr><td colspan="4">7. Protéines animales transformées, sang et produits sanguins</td></tr>
-<tr><td>Ongulés domestiques Solipèdes domestiques Autres mammifères terrestres d’élevage ou sauvages Volailles, ratites et gibier sauvage à plumes</td><td>Directive 64/432/CEE Directive 92/118/CEE Directive 2002/99/CE Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
+<tr><td>Ongulés domestiques Solipèdes domestiques Autres mammifères terrestres d’élevage ou sauvages Volailles, ratites et gibier sauvage à plumes</td><td>Règlement (UE) 2016/429 Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
 <tr><td colspan="4">8. Gélatine et collagène</td></tr>
-<tr><td></td><td>Directive 2002/99/CE Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui<sup>1</sup></td></tr>
+<tr><td></td><td>Règlement (UE) 2016/429 Règlement (CE) n<sup>o</sup> 999/2001</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS 916.401)</td><td>Oui<sup>1</sup></td></tr>
 <tr><td colspan="4">9. Lait et produits laitiers</td></tr>
-<tr><td></td><td>Directive 64/432/CEE Directive 2002/99/CE</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td></td><td>Règlement (UE) 2016/429</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
 <tr><td colspan="4">10. Œufs et ovoproduits</td></tr>
-<tr><td></td><td>Directive 2002/99/CE</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td></td><td>Règlement (UE) 2016/429</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
 <tr><td colspan="4">11. Produits de la pêche, mollusques bivalves, échinodermes tuniciers et gastéropodes marins</td></tr>
-<tr><td></td><td>Directive 2006/88/CE Directive 2002/99/CE</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td></td><td>Règlement (UE) 2016/429</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
 <tr><td colspan="4">12. Miel</td></tr>
-<tr><td></td><td>Directive 92/118/CEE Directive 2002/99/CE</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td></td><td>Règlement (UE) 2016/429</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
 <tr><td colspan="4">13. Escargots et cuisses de grenouilles</td></tr>
-<tr><td></td><td>Directive 92/118/CEE Directive 2002/99/CE</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
+<tr><td></td><td>Règlement (UE) 2016/429</td><td>Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*) Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*)</td><td>Oui</td></tr>
 <tr><td colspan="4"><sup>1</sup> La reconnaissance de la similarité des législations en matière de surveillance des EST chez les ovins et les caprins sera reconsidérée au sein du Comité mixte vétérinaire.</td></tr>
 </table>
 
-Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+*Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.*
 
 <table>
 <tr><th colspan="4">Exportations de l’Union européenne vers la Suisse et exportations de la Suisse vers l’Union européenne</th></tr>
 <tr><th colspan="3">Conditions commerciales</th><th>Équivalence</th></tr>
-<tr><th>Union européenne</th><th></th><th>Suisse</th><th></th></tr>
-<tr><td>Santé publique</td><td></td><td></td><td></td></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1). Règlement (CE) n<sup>o</sup> 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l’hygiène des denrées alimentaires (JO L 139 du 30.4.2004, p. 1). Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale (JO L 139 du 30.4.2004, p. 55). Règlement (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine (JO L 139 du 30.4.2004, p. 206). Règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1). Règlement (CE) n<sup>o</sup> 2073/2005 de la Commission du 15 novembre 2005 concernant les critères microbiologiques applicables aux denrées alimentaires (JO L 338 du 22.12.2005, p. 1). Règlement (CE) n<sup>o</sup> 2074/2005 de la Commission du 5 décembre 2005 établissant les mesures d’application relatives à certains produits régis par le règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil et à l’organisation des contrôles officiels prévus par les règlements (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil et (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil, portant dérogation au Règlement (CE) n<sup>o</sup> 852/2004 du Parlement européen et du Conseil et modifiant les règlements (CE) n<sup>o</sup> 853/2004 et (CE) n<sup>o</sup> 854/2004 5 (JO L 338 du 22.12.2005, p. 27). Règlement (CE) n<sup>o</sup> 2075/2005 de la Commission du 5 décembre 2005 fixant les règles spécifiques applicables aux contrôles officiels concernant la présence de Trichinella dans les viandes (JO L 338 du 22.12.2005, p. 60).</td><td></td><td>Loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels (LDAl; RS *817.0*). Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*). Ordonnance du 16 novembre 2011 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public (RS *916.402*). Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*). Ordonnance du 23 novembre 2005 sur la production primaire (OPPr; RS *916.020*). Ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*). Ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels (ODAlOUs; RS *817.02*). Ordonnance du 23 novembre 2005 du DFI sur l’exécution de la législation sur les denrées alimentaires (RS *817.025.21*). Ordonnance du 23 novembre 2005 du DEFR concernant l’hygiène dans la production primaire (OHyPPr; RS *916.020.1*). Ordonnance du 23 novembre 2005 du DFI sur l’hygiène (OHyG; RS *817.024.1*). Ordonnance du 23 novembre 2005 du DFI concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*). Ordonnance du 23 novembre 2005 du DFI sur les denrées alimentaires d’origine animale (RS *817.022.108*).</td><td>Oui avec conditions spéciales</td></tr>
-<tr><td>Protection des animaux</td><td></td><td></td><td></td></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 1099/2009 du Conseil du 24 septembre 2009 sur la protection des animaux au moment de leur mise à mort (JO L 303 du 18.11.2009, p. 1).</td><td></td><td>Loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA; RS *455*). Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*). Ordonnance de l’OVF du 12 août 2010 sur la protection des animaux lors de leur abattage (OPAnAb; RS *455.110.2*). Ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*).</td><td>Oui avec conditions spéciales</td></tr>
-<tr><td colspan="4">\* Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l’introduction des produits d’origine animale destinés à la consommation humaine (JO L 18 du 23.1.2003, p. 11). \*\* Directive 92/118/CEE du Conseil du 17 décembre 1992 définissant les conditions de police sanitaire ainsi que les conditions sanitaires régissant les échanges et les importations dans la Communauté de produits non soumis, en ce qui concerne lesdites conditions, aux réglementations communautaires spécifiques visées à l’annexe A chapitre Ier de la directive 89/662/CEE et, en ce qui concerne les pathogènes, de la directive 90/425/CEE (JO L 62 du 15.3.1993, p. 49).</td></tr>
+<tr><th colspan="2">Union européenne</th><th>Suisse</th><th></th></tr>
+<tr><td colspan="4">Santé publique</td></tr>
+<tr><td colspan="2">Règlement (CE) n<sup>o</sup><sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1). Règlement (CE) n<sup>o</sup><sup>o</sup> 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l’hygiène des denrées alimentaires (JO L 139 du 30.4.2004, p. 1). Règlement (CE) n<sup>o</sup><sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale (JO L 139 du 30.4.2004, p. 55). Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles applicables à la chaîne agroalimentaire concernant les produits animaux: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). Règlement (CE) n<sup>o</sup> 2073/2005 de la Commission du 15 novembre 2005 concernant les critères microbiologiques applicables aux denrées alimentaires (JO L 338 du 22.12.2005, p. 1). Règlement (CE) n<sup>o</sup> 2074/2005 de la Commission du 5 décembre 2005 établissant les mesures d’application relatives à certains produits régis par le règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil et à l’organisation des contrôles officiels prévus par les règlements (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil et (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil, portant dérogation au règlement (CE) n<sup>o</sup> 852/2004 du Parlement européen et du Conseil et modifiant les règlements (CE) n<sup>o</sup> 853/2004 et (CE) n<sup>o</sup> 854/2004 (JO L 338 du 22.12.2005, p. 27). Règlement d’exécution (UE) 2015/1375 de la Commission du 10 août 2015 fixant les règles spécifiques applicables aux contrôles officiels concernant la présence de Trichinella dans les viandes (JO L 212 du 11.8.2015, p. 7).</td><td>Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*). Ordonnance du 23 novembre 2005 sur la production primaire (OPPr; RS *916.020*). Ordonnance du DEFR du 23 novembre 2005 concernant l’hygiène dans la production primaire (OHyPPr; RS *916.020.1*). Ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*). Ordonnance du 23 novembre 2005 du DFI réglant l’hygiène dans la production laitière (OHyPL; RS *916.351.021.1*). Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*). Ordonnance du 20 octobre 2010 sur le contrôle du lait (OCL; RS *916.351.0*). Ordonnance du 16 novembre 2011 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public (RS *916.402*). Loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels (Loi sur les denrées alimentaires, LDAl; RS *817.0*). Ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*). Ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs; RS *817.02*). Ordonnance du DFI du 16 décembre 2016 sur l’hygiène dans les activités liées aux denrées alimentaires (Ordonnance du DFI sur l’hygiène, OHyG; RS *817.024.1*). Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine animale (ODAlAn; RS *817.022.108*). Ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires (OELDAl; RS *817.042*).</td><td>Oui avec conditions spéciales</td></tr>
+<tr><td colspan="4">Protection des animaux</td></tr>
+<tr><td colspan="2">Règlement (CE) n<sup>o</sup> 1099/2009 du Conseil du 24 septembre 2009 sur la protection des animaux au moment de leur mise à mort (JO L 303 du 18.11.2009, p. 1).</td><td>Loi fédérale du 16 décembre 2005 sur la protection des animaux (LPA; RS *455*). Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn; RS *455.1*). Ordonnance de l’OSAV du 8 novembre 2021 sur la protection des animaux lors de leur abattage (OPAnAb; RS *455.110.2*). Ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*).</td><td>Oui avec conditions spéciales</td></tr>
 </table>
 
-Conditions spéciales
+Modalités d’application et conditions spéciales
 
-\1) Les produits animaux destinés à la consommation humaine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse circulent aux seules et mêmes conditions que les produits animaux destinés à la consommation humaine faisant l’objet d’échanges entre les États membres de l’Union européenne, aussi en ce qui concerne la protection des animaux au moment de leur mise à mort. Si nécessaire, ces produits sont accompagnés des certificats sanitaires prévus pour les échanges entre les États membres de l’Union européenne ou définis par la présente annexe et disponibles dans le système TRACES.
+\1) La Suisse est intégrée au système de gestion de l’information sur les contrôles officiels et à toutes ses composantes, tels que définis dans le règlement d’exécution (UE) 2019/1715 de la Commission. La Suisse désigne un point de contact à cet effet.
 
-\2) La Suisse dresse la liste de ses établissements agréés, conformément aux dispositions de l’art. 31 (enregistrement/agrément d’établissements) du règlement (CE) n<sup>o</sup> 882/2004.
+\2) Les produits animaux destinés à la consommation humaine faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse circulent aux seules et mêmes conditions que les produits animaux destinés à la consommation humaine faisant l’objet d’échanges entre les États membres de l’Union européenne, aussi en ce qui concerne la protection des animaux au moment de leur mise à mort. Si nécessaire, ces produits sont accompagnés des certificats sanitaires prévus pour les échanges entre les États membres de l’Union européenne ou définis par la présente annexe et disponibles dans le système TRACES.
 
-\3) Pour ses importations, la Suisse applique les mêmes dispositions que celles applicables en la matière au niveau de l’Union.
+\3) La Suisse dresse la liste de ses établissements agréés, conformément aux dispositions de l’art. 45 (enregistrement/agrément d’établissements) du règlement d’exécution (UE) 2019/1715.
 
-\4) Les autorités Suisse s’engagent à ce que les carcasses et la viande de porcins domestiques mises sur le marché de l’Union européenne aient été soumises à l’examen visant à détecter la présence de Trichinella.
+\4) Pour ses importations, la Suisse applique les mêmes dispositions que celles applicables en la matière au niveau de l’Union.
 
-\5) Les méthodes de détection décrites à l’annexe I, chapitres I et II, du règlement d’exécution (UE) n<sup>o</sup> 2015/1375 de la Commission[^annex6-lvlu1-chapI-lvlu1-1] sont utilisées en Suisse dans le cadre des examens visant à détecter la présence de Trichinella.
+\5) Les autorités Suisse s’engagent à ce que les carcasses et la viande de porcins domestiques mises sur le marché de l’Union européenne aient été soumises à l’examen visant à détecter la présence de Trichinella.
 
-\6) En application de l’art. 8 (par. 1, let. a, et par. 3) de l’ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*) et de l’art. 10 (par. 8) de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine animale (RS *817.022.108*), les carcasses et viandes de porcins domestiques destinés à l’engraissement et à la boucherie ainsi que les préparations de viande, les produits à base de viande et les produits transformés à base de viande qui ne sont pas destinés au marché de l’Union européenne portent une estampille de salubrité spéciale conforme au modèle défini à l’annexe 9, dernier alinéa, de l’ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux.
+\6) Les méthodes de détection décrites à l’annexe I, chapitres I et II, du règlement d’exécution (UE) n<sup>o</sup> 2015/1375 de la Commission sont utilisées en Suisse dans le cadre des examens visant à détecter la présence de Trichinella.
 
-Ces produits ne peuvent faire l’objet d’échanges avec les États membres de l’Union européenne, conformément aux dispositions de l’art. 10 de l’ordonnance du DFI du 16 décembre 2016.
+\7) En application de l’art. 8 (par. 1, let. a, et par. 3) de l’ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*) et de l’art. 10 (par. 8) de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine animale (ODAlAn; RS *817.022.108*), les carcasses et viandes de porcins domestiques destinés à l’engraissement et à la boucherie ainsi que les préparations de viande, les produits à base de viande et les produits transformés à base de viande qui ne sont pas destinés au marché de l’Union européenne portent une estampille de salubrité spéciale conforme au modèle défini à l’annexe 9, dernier al., de l’ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*).
 
-\7) …
+Ces produits ne peuvent faire l’objet d’échanges avec les États membres de l’Union européenne, conformément aux dispositions de l’art. 10 de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine animale (ODAlAn; RS *817.022.108*).
 
-\8) En application des dispositions de l’art. 2 de l’ordonnance sur l’hygiène (OHyg; RS *817.024.1*), les autorités compétentes de Suisse peuvent prévoir dans des cas particuliers des exceptions aux art. 8, 10 et 14 de cette ordonnance:
+\8) En application des dispositions de l’art. 2 de l’Ordonnance du DFI du 16 décembre 2016 sur l’hygiène dans les activités liées aux denrées alimentaires (Ordonnance du DFI sur l’hygiène, OHyg; RS *817.024.1*), les autorités compétentes de Suisse peuvent prévoir dans des cas particuliers des exceptions aux art. 8, 10 et 14 de cette ordonnance:
 
-- a) pour répondre aux besoins des établissements situés dans des régions de montagne selon la loi fédérale du 6 octobre 2006 sur la politique régionale (RS *901.0*) et l’ordonnance du 28 novembre sur la politique régionale (RS *901.021*).
+- a) pour répondre aux besoins des établissements situés dans des régions de montagne selon la loi fédérale du 6 octobre 2006 sur la politique régionale (RS *901.0*) et l’ordonnance du 28 novembre 2007 sur la politique régionale (OPR; RS *901.021*).
 -
 
   Les autorités compétentes de la Suisse s’engagent à notifier ces adaptations par procédure écrite à la Commission. Cette notification:
 
   - – fournit une description détaillée des dispositions pour lesquelles les autorités compétentes de la Suisse estiment qu’une adaptation est nécessaire et indique la nature de l’adaptation visée;
-  - – décrit les denrées alimentaires et les établissements concernés;
-  - – explique les motifs de l’adaptation (y compris, le cas échéant, en fournissant une synthèse de l’analyse des risques réalisée et en indiquant toute mesure devant être prise pour faire en sorte que l’adaptation ne compromette pas les objectifs de l’ordonnance sur l’hygiène (OHyg; RS *817.024.1*);
+  - – décrit – les denrées alimentaires et les établissements concernés;
+  - – explique les motifs de l’adaptation (y compris, le cas échéant, en fournissant une synthèse de l’analyse des risques réalisée et en indiquant toute mesure devant être prise pour faire en sorte que l’adaptation ne compromette pas les objectifs de l’Ordonnance du DFI du 16 décembre 2016 sur l’hygiène dans les activités liées aux denrées alimentaires (Ordonnance du DFI sur l’hygiène, OHyg; RS *817.024.1*);
   - – fournit toute autre information pertinente.
 
 - La Commission et les États membres de l’Union européenne disposent d’un délai de trois mois à compter de la réception de la notification pour transmettre leurs observations écrites. Si nécessaire, le Comité mixte vétérinaire est réuni;
@@ -10787,83 +10243,47 @@ Ces produits ne peuvent faire l’objet d’échanges avec les États membres de
   - – décrit les denrées alimentaires et les établissements concernés, et
   - – fournit toute autre information pertinente.
 
-\9) La Commission informe la Suisse des dérogations et des adaptations appliquées dans les États membres de l’Union européenne au titre de l’art. 13 du règlement (CE) n<sup>o</sup> 852/2004, de l’art. 10 du règlement (CE) n<sup>o</sup> 853/2004, de l’art. 13 du règlement (CE) n<sup>o</sup> 854/2003 et de l’art. 7 du règlement (CE) n<sup>o</sup> 2074/2005.
+\9) La Commission informe la Suisse des dérogations et des adaptations appliquées dans les États membres de l’Union européenne au titre de l’art. 13 du règlement (CE) n<sup>o</sup> 852/2004, de l’art. 10 du règlement (CE) n<sup>o</sup> 853/2004, et de l’art. 7 du règlement (CE) n<sup>o</sup> 2074/2005.
 
-\10) Conformément à l’art. 179*d* de l’ordonnance sur les épizooties et à l’art. 4 de l’ordonnance sur les denrées alimentaires d’origine animale, la Suisse a mis en place une politique de retrait des chaînes alimentaires animale et humaine des MRS. La liste des MRS retirés chez les bovins comprend notamment la colonne vertébrale des animaux âgés de plus de trente mois, les amygdales, les intestins du duodénum au rectum et le mésentère des animaux de tous âges.
+\10) La liste des laboratoires de référence de l’Union européenne pour les résidus de médicaments vétérinaires et de contaminants dans les denrées alimentaires d’origine animale est publiée sur le site de la Commission européenne, conformément à l’art. 99 du règlement (UE) 2017/625.
 
-\11) Les laboratoires de référence de l’Union européenne pour les résidus de médicaments vétérinaires et de contaminants dans les denrées alimentaires d’origine animale sont les suivants:
+La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les responsabilités et les tâches de ces laboratoires sont celles prévues par l’art. 94 du règlement (UE) 2017/625.
 
-- a) Pour les résidus énumérés à l’annexe I, groupe A, 1), 2), 3) et 4), groupe B, 2) d) et groupe B, 3) d), de la directive 96/23/CE[^annex6-lvlu1-chapI-lvlu1-2]:
+La liste des laboratoires nationaux de référence pour la Suisse est publiée sur le site de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
 
-RIKILT – Institute of Food Safety, part of Wageningen UR
+\11) Dans l’attente de la reconnaissance de l’alignement de la législation de l’Union européenne et de la législation suisse, pour les exportations vers l’Union européenne, la Suisse s’assure du respect des actes énoncés ci-après et de leurs textes d’application:
 
-P.O. Box 230
+- 1\. Règlement (CEE) n<sup>o</sup> 315/93 du Conseil du 8 février 1993 portant établissement des procédures communautaires relatives aux contaminants dans les denrées alimentaires (JO L 37 du 13.2.1993, p. 1).
+- 2\. Règlement d’exécution (UE) n<sup>o</sup> 872/2012 de la Commission du 1er octobre 2012 portant adoption de la liste de substances aromatisantes prévue par le règlement (CE) n<sup>o</sup> 2232/96 du Parlement européen et du Conseil, introduction de ladite liste dans l’annexe I du règlement (CE) n<sup>o</sup> 1334/2008 du Parlement européen et du Conseil et abrogation du règlement (CE) n<sup>o</sup> 1565/2000 de la Commission et de la décision 1999/217/CE de la Commission (JO L 267 du 2.10.2012, p. 1).
+- 3\. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β‑agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3).
+- 4\. Directive 1999/2/CE du Parlement européen et du Conseil du 22 février 1999 relative au rapprochement des législations des États membres sur les denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 16).
+- 5\. Directive 1999/3/CE du Parlement européen et du Conseil du 22 février 1999 établissant une liste communautaire de denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 24).
+- 6\. Décision 2002/840/CE de la Commission du 23 octobre 2002 portant adoption de la liste des unités agréées dans les pays tiers pour l’irradiation des denrées alimentaires (JO L 287 du 25.10.2002, p. 40).
+- 7\. Règlement (CE) n<sup>o</sup> 2065/2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires (JO L 309 du 26.11.2003, p. 1).
+- 8\. Règlement (UE) 2023/915 de la Commission du 25 avril 2023 concernant les teneurs maximales pour certains contaminants dans les denrées alimentaires et abrogeant le règlement (CE) n<sup>o</sup> 1881/2006 (JO L 119 du 5.5.2023, p. 103).
+- 9\. Règlement (CE) n<sup>o</sup> 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n<sup>o</sup> 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n<sup>o</sup> 258/97 (JO L 354 du 31.12.2008, p. 7).
+- 10\. Règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur les additifs alimentaires (JO L 354 du 31.12.2008, p. 16).
+- 11\. Règlement (CE) n<sup>o</sup> 1334/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif aux arômes et à certains ingrédients alimentaires possédant des propriétés aromatisantes qui sont destinés à être utilisés dans et sur les denrées alimentaires et modifiant le règlement (CEE) n<sup>o</sup> 1601/91 du Conseil, les règlements (CE) n<sup>o</sup> 2232/96 et (CE) n<sup>o</sup> 110/2008 et la directive 2000/13/CE (JO L 354 du 31.12.2008, p. 34).
+- 12\. Règlement (UE) n<sup>o</sup> 231/2012 de la Commission du 9 mars 2012 établissant les spécifications des additifs alimentaires énumérés aux annexes II et III du règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil (JO L 83 du 22.3.2012, p. 1).
+- 13\. Directive 2009/32/CE du Parlement européen et du Conseil du 23 avril 2009 relative au rapprochement des législations des États membres concernant les solvants d’extraction utilisés dans la fabrication des denrées alimentaires et de leurs ingrédients (JO L 141 du 6.6.2009, p. 3).
+- 14\. Règlement (CE) n<sup>o</sup> 470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n<sup>o</sup> 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil (JO L 152 du 16.6.2009, p. 11).
 
-6700 AE Wageningen
+\12) La Suisse applique les mêmes dispositions que celles de l’art. 107 (à l’exception du par. 6) du règlement (UE) 2019/6, en liaison avec son art. 37, par. 5, concernant l’utilisation de médicaments antimicrobiens chez les animaux de rente, conformément à sa législation énumérée aux sections I. Animaux terrestres et II. Animaux et produits d’aquaculture de l’appendice 2 de la présente annexe.
 
-Pays-Bas
+Au vu des dispositions prévues dans les deux sections susmentionnées, la Suisse n’est pas considérée comme un pays tiers aux fins de l’application de l’art. 118 du règlement (UE) 2019/6 et ce, jusqu’au 1<sup>er</sup> juillet 2028.
 
-- b) Pour les résidus énumérés à l’annexe I, groupe B, 1) et groupe B, 3) e), de la directive 96/23/CE, ainsi que pour le carbadox et l’olaquindox:
+Elle informe immédiatement le Comité mixte vétérinaire de tout nouveau changement de sa législation relative aux antimicrobiens destinés aux animaux de rente.
 
-Laboratoire d’étude et de recherches sur les médicaments vétérinaires et les désinfectants
-
-ANSES – Laboratoire de Fougères
-
-35306 Fougères cedex
-
-France
-
-- c) Pour les résidus énumérés à l’annexe I, groupe A, 5) et groupe B, 2) a), b) et e), de la directive 96/23/CE:
-
-Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)
-
-Diedersdorfer Weg 1
-
-12277 Berlin
-
-Allemagne
-
-- d) Pour les résidus énumérés à l’annexe I, groupe B, 3) c), de la directive 96/23/CE:
-
-Istituto Superiore di Sanità (ISS)
-
-Viale Regina Elena, 299
-
-00161 Rome
-
-Italie
-
-La Suisse prend en charge les frais qui lui sont imputables au titre des opérations découlant de ces désignations. Les compétences et les tâches de ces laboratoires sont celles prévues au titre III et à l’annexe VII du règlement (CE) n<sup>o</sup> 882/2004.
-
-\12) Dans l’attente de la reconnaissance de l’alignement de la législation de l’Union européenne et de la législation suisse, pour les exportations vers l’Union européenne, la Suisse s’assure du respect des actes énoncés ci-après et de leurs textes d’application:
-
-- 1\. Règlement (CEE) n<sup>o</sup> 315/93 du Conseil du 8 février 1993 portant établissement des procédures communautaires relatives aux contaminants dans les denrées alimentaires (JO L 37 du 13.2.1993, p. 1);
-- 2\. Règlement d’exécution (UE) n<sup>o</sup> 872/2012 de la Commission du 1<sup>er</sup> octobre 2012 portant adoption de la liste de substances aromatisantes prévue par le règlement (CE) n<sup>o</sup> 2232/96 du Parlement européen et du Conseil, introduction de ladite liste dans l’annexe I du règlement (CE) n<sup>o</sup> 1334/2008 du Parlement européen et du Conseil et abrogation du règlement (CE) n<sup>o</sup> 1565/2000 de la Commission et de la décision 1999/217/CE de la Commission (JO L 267 du 2.10.2012, p. 1);
-- 3\. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les Directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3);
-- 4\. Directive 96/23/CE du Conseil du 29 avril 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les directives 85/358/CEE et 86/469/CEE et les décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10);
-- 5\. Directive 1999/2/CE du Parlement européen et du Conseil du 22 février 1999 relative au rapprochement des législations des États membres sur les denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 16);
-- 6\. Directive 1999/3/CE du Parlement européen et du Conseil du 22 février 1999 établissant une liste communautaire de denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 24);
-- 7\. Décision 2002/840/CE de la Commission du 23 octobre 2002 portant adoption de la liste des unités agréées dans les pays tiers pour l’irradiation des denrées alimentaires (JO L 287 du 25.10.2002, p. 40);
-- 8\. Règlement (CE) n<sup>o</sup> 2065/2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires (JO L 309 du 26.11.2003, p. 1);
-- 9\. Règlement (CE) n<sup>o</sup> 1881/2006 de la Commission du 19 décembre 2006 portant fixation de teneurs maximales pour certains contaminants dans les denrées alimentaires (JO L 364 du 20.12.2006, p. 5);
-- 10\. Règlement (CE) n<sup>o</sup> 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n<sup>o</sup> 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n<sup>o</sup> 258/97 (JO L 354 du 31.12.2008, p. 7);
-- 11\. Règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur les additifs alimentaires (JO L 354 du 31.12.2008, p. 16);
-- 12\. Règlement (CE) n<sup>o</sup> 1334/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif aux arômes et à certains ingrédients alimentaires possédant des propriétés aromatisantes qui sont destinés à être utilisés dans et sur les denrées alimentaires et modifiant le règlement (CEE) n<sup>o</sup> 1601/91 du Conseil, les règlements (CE) n<sup>o</sup> 2232/96 et (CE) n<sup>o</sup> 110/2008 et la directive 2000/13/CE (JO L 354 du 31.12.2008, p. 34);
-- 13\. Règlement (UE) n<sup>o</sup> 231/2012 de la Commission du 9 mars 2012 établissant les spécifications des additifs alimentaires énumérés aux annexes II et III du règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil (JO L 83 du 22.3.2012, p. 1);
-- 14\. Directive 2009/32/CE du Parlement européen et du Conseil du 23 avril 2009 relative au rapprochement des législations des États membres concernant les solvants d’extraction utilisés dans la fabrication des denrées alimentaires et de leurs ingrédients (JO L 141 du 6.6.2009, p. 3);
-- 15\. Règlement (CE) n<sup>o</sup> 470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n<sup>o</sup> 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil (JO L 152 du 16.6.2009, p. 11).
-
-[^annex6-lvlu1-chapI-lvlu1-1]: Règlement d’exécution (UE) 2015/1375 de la Commission du 10 août 2015 fixant les règles spécifiques applicables aux contrôles officiels concernant la présence de Trichinella dans les viandes (JO L 212 du 11.8.2015, p. 7).
-[^annex6-lvlu1-chapI-lvlu1-2]: Directive 96/23/CE du Conseil du 29 avr. 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les directives 85/358/CEE et 86/469/CEE et les décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10).
+Ce paragraphe sera revu par le Comité mixte vétérinaire avant le 1<sup>er</sup> juillet 2028.
 
 ### «Sous-produits animaux non destinés à la consommation humaine»
 
 <table>
-<tr><td colspan="4">Exportations de l’Union européenne vers la Suisse et exportations de la Suisse vers l’Union européenne</td></tr>
-<tr><td colspan="2">Conditions commerciales</td><td colspan="2">Équivalence</td></tr>
-<tr><td>Union européenne\*</td><td>Suisse\*</td><td colspan="2"></td></tr>
-<tr><td colspan="3">\* Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.</td></tr>
-<tr><td>1. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1); 2. Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (règlement relatif aux sous-produits animaux) (JO L 300 du 14.11.2009, p. 1); 3. Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive (JO L 54 du 26.2.2011, p. 1).</td><td>1. Ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*); 2. Ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*); 3. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*); 4. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 5. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</td><td colspan="2">Oui avec conditions spéciales</td></tr>
+<tr><th colspan="5">Exportations de l’Union européenne vers la Suisse et exportations de la Suisse vers l’Union européenne</th></tr>
+<tr><th colspan="3">Conditions commerciales</th><th colspan="2">Équivalence</th></tr>
+<tr><th>Union européenne\*</th><th></th><th>Suisse\*</th><th colspan="2"></th></tr>
+<tr><td colspan="4">\* Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.</td></tr>
+<tr><th colspan="2">1. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1); 2. Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (règlement relatif aux sous-produits animaux) (JO L 300 du 14.11.2009, p. 1); 3. Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et article exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive (JO L 54 du 26.2.2011, p. 1).</th><th>1. Ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV; RS *817.190*); 2. Ordonnance du DFI du 23 novembre 2005 concernant l’hygiène lors de l’abattage d’animaux (OHyAb; RS *817.190.1*); 3. Ordonnance du 27 juin 1995 sur les épizooties (OFE; RS *916.401*); 4. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 5. Ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux (OESPA; RS *916.441.22*).</th><th colspan="2">Oui avec conditions spéciales</th></tr>
 </table>
 
 Conditions spéciales
@@ -10872,9 +10292,9 @@ Pour ses importations, la Suisse applique les mêmes dispositions que celles rel
 
 Les échanges de matières des catégories 1 et 2 relèvent de l’art. 48 du règlement (CE) n<sup>o</sup> 1069/2009.
 
-Les matières de catégorie 3 faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnées des documents commerciaux et certificats sanitaires prévus par l’annexe VIII, chapitre III, du règlement (UE) n<sup>o</sup> 142/2011, conformément à l’art. 17 du règlement (UE) n<sup>o</sup> 142/2011 et aux art. 21 et 48 du règlement (CE) n<sup>o</sup> 1069/2009.
+Les matières de catégorie 3 faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse sont accompagnées des documents commerciaux et certificats sanitaires prévus par l’annexe VIII, chap. III, du règlement (UE) n<sup>o</sup> 142/2011, conformément à l’art. 17 du règlement (UE) n<sup>o</sup> 142/2011 et aux art. 21 et 48 du règlement (CE) n<sup>o</sup> 1069/2009.
 
-En vertu du titre II, chapitre I, section 2, du règlement (CE) n<sup>o</sup> 1069/2009 et du chapitre IV et de l’annexe IX du règlement (UE) n<sup>o</sup> 142/2011, la Suisse dresse la liste de ses établissements correspondants.
+En vertu du titre II, chap. I, section 2, du règlement (CE) n<sup>o</sup> 1069/2009 et du chap. IV et de l’annexe IX du règlement (UE) n<sup>o</sup> 142/2011, la Suisse dresse la liste de ses établissements correspondants.
 
 ### Chapitre II Autres secteurs que ceux relevant du chapitre I
 
@@ -10996,169 +10416,158 @@ Appendice 10[^t-31]
 
 ## Produits animaux: contrôles aux frontières et redevances
 
-[^t-31]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2015 du Comité mixte vétérinaire du 17 déc. 2015, en vigueur depuis le 17 déc. 2015, avec effet depuis le 1<sup>er</sup> janv. 2015 ([RO 2016 819](https://fedlex.data.admin.ch/eli/oc/2016/154)).
+[^t-31]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2026 du Comité mixte vétérinaire du 24 juil. 2026, en vigueur depuis le 24 juil. 2026, applicable à partir du 1<sup>er</sup> sept. 2026 ([RO 2026 540](https://fedlex.data.admin.ch/eli/oc/2026/540)).
 
 ### Chapitre I Dispositions générales
 
-### A. Législations<sup>∗</sup>
+### A. Législations
 
 [^annex10-lvlu1-chapI-lvlA-1]
 
-[^annex10-lvlu1-chapI-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapI-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Décision 2004/292/CE de la Commission du 30 mars 2004 relative à la mise en application du système TRACES et modifiant la décision 92/486/CEE (JO L 94 du 31.3.2004, p. 63); 2. Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires (JO L 31 du 1.2.2002, p. 1).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier son art. 57; 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 3. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*); 4. Ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux (Ordonnance sur les contrôles OITE; RS *916.443.106*); 5. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).</td></tr>
+<tr><td>1. Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l’Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires (JO L 31 du 1.2.2002, p. 1). 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans le présent chapitre: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 3. Règlement d’exécution (UE) 2019/1715 de la Commission du 30 septembre 2019 établissant les règles de fonctionnement du système de gestion de l’information sur les contrôles officiels et de ses composantes (règlement IMSOC) (JO L 261 du 14.10.2019, p. 37).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier son art. 57. 2. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*). 3. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT-DFI; RS *916.443.106*). 4. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. La Commission, en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires, intègre la Suisse au système informatique TRACES, conformément à la décision 2004/292/CE de la Commission.
+\1. La Suisse est intégrée au système de gestion de l’information sur les contrôles officiels et à toutes ses composantes, tels que définis dans le règlement d’exécution (UE) 2019/1715 de la Commission. La Suisse désigne un point de contact à cet effet.
 
-\2. La Commission, en collaboration avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires, intègre la Suisse au système d’alerte rapide prévu à l’art. 50 du règlement (CE) n<sup>o</sup> 178/2002 pour ce qui concerne les dispositions liées aux refoulements aux frontières des produits animaux.
+Si nécessaire, des mesures complémentaires sont définies au sein du Comité mixte vétérinaire.
 
-En cas de rejet d’un lot, d’un conteneur ou d’une cargaison par une autorité compétente à un poste frontalier suisse de l’Union européenne, la Commission avise immédiatement la Suisse.
-
-La Suisse notifie immédiatement à la Commission tout cas de rejet, lié à un risque direct ou indirect pour la santé humaine, d’un lot, d’un conteneur ou d’une cargaison de denrées alimentaires ou d’aliments pour animaux, par une autorité compétente d’un poste frontalier et respecte les règles de confidentialité prévues à l’art. 52 du règlement (CE) n<sup>o</sup> 178/2002.
-
-Les mesures particulières liées à cette participation sont définies au sein du comité mixte vétérinaire.
+\2. Les parties s’accordent une assistance administrative mutuelle conformément aux art. 104 à 107 du règlement (UE) 2017/625 pour garantir la bonne application du présent appendice. L’application de l’art. 108 du règlement (UE) 2017/625 relève du Comité mixte vétérinaire.
 
 ### Chapitre II Contrôles vétérinaires applicables dans les échanges entre les États membres de l’Union européenne et la Suisse
 
-### A. Législations<sup>∗</sup>
+### A. Législations
 
 [^annex10-lvlu1-chapII-lvlA-1]
 
-[^annex10-lvlu1-chapII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 Les contrôles vétérinaires applicables dans les échanges entre les États membres de l’Union européenne et la Suisse sont effectués conformément aux dispositions visées ci-après:
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Directive 89/608/CEE du Conseil du 21 novembre 1989 relative à l’assistance mutuelle entre les autorités administratives des États membres et à la collaboration entre celles-ci et la Commission en vue d’assurer la bonne application des législations vétérinaire et zootechnique (JO L 351 du 2.12.1989, p. 34); 2. Directive 89/662/CEE du Conseil du 11 décembre 1989 relative aux contrôles vétérinaires applicables dans les échanges intracommunautaires dans la perspective de la réalisation du marché intérieur (JO L 395 du 30.12.1989, p. 13); 3. Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l’introduction des produits d’origine animale destinés à la consommation humaine (JO L 18 du 23.1.2003, p. 11);</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier son art. 57; 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*); 3. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*); 4. Ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux (Ordonnance sur les contrôles OITE; RS *916.443.106*); 5. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE-AC; RS *916.443.14*); 6. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).</td></tr>
+<tr><td>1. Règlement (UE) 2016/429 du Parlement Européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 2. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans le présent chapitre: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (JO L 95 du 7.4.2017, p. 1). 3. Règlement d’exécution (UE) 2019/1715 de la Commission du 30 septembre 2019 établissant les règles de fonctionnement du système de gestion de l’information sur les contrôles officiels et de ses composantes (règlement IMSOC) (JO L 261 du 14.10.2019, p. 37).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier son art. 57. 2. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE; RS *916.443.11*). 3. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du nord (OITE-UE-DFI; RS *916.443.111*). 4. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE-AC; RS *916.443.14*). 5. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-Dans les cas prévus à l’art. 8 de la directive 89/662/CEE, les autorités compétentes du lieu de destination entrent sans tarder en contact avec les autorités compétentes du lieu d’expédition. Elles prennent toutes les mesures nécessaires et communiquent à l’autorité compétente du lieu d’expédition et à la Commission la nature des contrôles effectués, les décisions prises et les motifs de ces décisions.
-
-La mise en œuvre des dispositions prévues aux art. 10, 11 et 16 de la directive 89/608/CEE et aux art. 9 et 16 de la directive 89/662/CEE relève du comité mixte vétérinaire.
+Dans les cas prévus aux art. 102 et 104 à 107 du règlement (UE) 2017/625, les autorités compétentes du lieu de destination entrent sans tarder en contact avec les autorités compétentes du lieu d’expédition. Elles prennent toutes les mesures nécessaires et communiquent à l’autorité compétente du lieu d’expédition et à la Commission la nature des contrôles effectués, les décisions prises et les motifs de ces décisions.
 
 ### Chapitre III Contrôles vétérinaires applicables pour les importations en provenance des pays tiers
 
-### A. Législations<sup>∗</sup>
+### A. Législations
 
 [^annex10-lvlu1-chapIII-lvlA-1]
 
-[^annex10-lvlu1-chapIII-lvlA-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié en dernier lieu.
+[^annex10-lvlu1-chapIII-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié en dernier lieu.
 
 Les contrôles relatifs aux importations des pays tiers sont effectués conformément aux dispositions ci-après:
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>1. Règlement (CE) n<sup>o</sup> 136/2004 de la Commission du 22 janvier 2004 fixant les procédures des contrôles vétérinaires aux postes d’inspection frontaliers de la Communauté lors de l’importation des produits en provenance des pays tiers (JO L 21 du 28.1.2004, p. 11); 2. Règlement (CE) n<sup>o</sup> 206/2009 de la Commission du 5 mars 2009 concernant l’introduction dans la Communauté de colis personnels de produits d’origine animale et modifiant le règlement (CE) n<sup>o</sup> 136/2004 (JO L 77 du 24.3.2009, p. 1); 3. Règlement (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine (JO L 139 du 30.4.2004, p. 206); 4. Règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1); 5. Directive 89/608/CEE du Conseil du 21 novembre 1989 relative à l’assistance mutuelle entre les autorités administratives des États membres et à la collaboration entre celles-ci et la Commission en vue d’assurer la bonne application des législations vétérinaire et zootechnique (JO L 351 du 2.12.1989, p. 34); 6. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les directives 81/602/ CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3); 7. Directive 96/23/CE du Conseil du 29 avril 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les directives 85/358/CEE et 86/469/CEE et les décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10). 8. Directive 97/78/CE du Conseil du 18 décembre 1997 fixant les principes relatifs à l’organisation des contrôles vétérinaires pour les produits en provenance des pays tiers introduits dans la Communauté (JO L 24 du 30.1.1998, p. 9); 9. Décision 2002/657/CE de la Commission du 12 août 2002 portant modalités d’application de la directive 96/23/CE du Conseil en ce qui concerne les performances des méthodes d’analyse et l’interprétation des résultats (JO L 221 du 17.8.2002, p. 8); 10. Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l’introduction des produits d’origine animale destinés à la consommation humaine (JO L 18 du 23.1.2003, p. 11); 11. Décision 2005/34/CE de la Commission du 11 janvier 2005 établissant des normes harmonisées pour les tests de détection de certains résidus dans les produits d’origine animale importés des pays tiers (JO L 16 du 20.1.2005, p. 61); 12. Décision 2007/275/CE de la Commission du 17 avril 2007 relative aux listes des animaux et des produits devant faire l’objet de contrôles aux postes d’inspection frontaliers conformément aux directives du Conseil 91/496/CEE et 97/78/CE (JO L 116 du 4.5.2007, p. 9).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier son art. 57; 2. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*). 3. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*); 4. Ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du transit d’animaux et de produits animaux (Ordonnance sur les contrôles OITE; RS *916.443.106*); 5. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE‑AC; RS *916.443.14*); 6. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*); 7. Loi du 9 octobre 1992 sur les denrées alimentaires (LDAl; RS *817.0*); 8. Ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels (ODAlOUs, RS *817.02*); 9. Ordonnance du 23 novembre 2005 sur l’exécution de la législation sur les denrées alimentaires (RS *817.025.21*); 10. Ordonnance du DFI du 26 juin 1995 sur les substances étrangères et les composants dans les denrées alimentaires (OSEC; RS *817.021.23*).</td></tr>
+<tr><td>1. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans le présent chapitre: – Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels) (JO L 95 du 7.4.2017, p. 1). 2. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3). 3. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025. 4. Règlement (CE) n<sup>o</sup> 470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n<sup>o</sup> 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil (JO L 152 du 16.6.2009, p. 11). 5. Règlement d’exécution (UE) 2020/2235 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire, les modèles de certificat officiel et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois de certaines catégories d’animaux et de biens, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 599/2004, les règlements d’exécution (UE) n<sup>o</sup> 636/2014 et (UE) 2019/628, la directive 98/68/CE et les décisions 2000/572/CE, 2003/779/CE et 2007/240/CE (JO L 442 du 30.12.2020, p. 1). 6. Règlement d’exécution (UE) 2020/2236 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois d’animaux aquatiques et de certains produits d’origine animale issus d’animaux aquatiques, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 1251/2008 (JO L 442 du 30.12.2020, p. 410). 7. Règlement d’exécution (UE) 2021/403 de la Commission du 18 mars 2021 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements entre les États membres d’envois de certaines catégories d’animaux terrestres et de leurs produits germinaux, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant la décision 2010/470/UE (JO L 113 du 31.3.2021, p. 1).</td><td>1. Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE; RS *916.40*), et en particulier son art. 57. 2. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*). 3. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT-DFI; RS *916.443.106*). 4. Ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE AC; RS *916.443.14*). 5. Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l’OSAV; RS *916.472*). 6. Loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels (Loi sur les denrées alimentaires, LDAl; RS *817.0*). 7. Ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs, RS *817.02*). 8. Ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires (OELDAl; RS *817.042*). 9. Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale (OPOVA; RS *817.021.23*).</td></tr>
 </table>
 
 ### B. Modalités d’application
 
-\1. Aux fins de l’application de l’art. 6 de la directive 97/78/CE, les postes d’inspections frontaliers des États membres de Union européenne sont les suivants: les postes d’inspection frontaliers agréés pour les contrôles vétérinaires sur les produits animaux et figurant à l’annexe I de la décision 2009/821/CE modifiée.
+\1. Aux fins de l’application des art. 59 et 60 du règlement (UE) 2017/625, les listes de postes de contrôle frontaliers des États membres de l’Union européenne sont publiées sur le site de la Commission européenne.
 
-\2. Aux fins de l’application de l’art. 6 de la directive 97/78/CEE, les postes d’inspections frontaliers pour la Suisse sont les suivants:
+\2. Aux fins de l’application des art. 59 et 60 du règlement (UE) 2017/625, les postes de contrôle frontaliers pour la Suisse sont les suivants:
 
 <table>
-<tr><td>Nom</td><td>Code TRACES</td><td>Type</td><td>Centre d’inspection</td><td>Type d’agrément</td></tr>
-<tr><td>Aéroport de Zurich</td><td>CHZRH4</td><td>A</td><td>Centre 1 Centre 2</td><td>NHC\* HC(2)\*</td></tr>
-<tr><td>Aéroport de Genève</td><td>CHGVA4</td><td>A</td><td>Centre 2</td><td>HC(2), NHC\*</td></tr>
-<tr><td colspan="5">\* Par référence aux catégories d’agrément définies par la décision 2009/821/CE</td></tr>
+<tr><th>Nom</th><th>Code TRACES</th><th>Type d’agrément</th></tr>
+<tr><td>Aéroport de Zurich</td><td>CHZRH4</td><td>POA-NHC(2)**<sup>\*</sup>** POA-HC(2)**<sup>\*</sup>**</td></tr>
+<tr><td>Aéroport de Genève</td><td>CHGVA4</td><td>POA-NHC(2)**<sup>\*</sup>** POA-HC(2)**<sup>\*</sup>**</td></tr>
 </table>
 
-Les modifications ultérieures de la liste des postes d’inspection frontaliers, de leurs centres d’inspection et de leur type d’agrément relèvent du Comité mixte vétérinaire.
+**<sup>\*</sup>** Par référence aux catégories d’agrément définies par l’annexe II du règlement d’exécution (UE) 2019/1014.
 
-La mise en œuvre des contrôles sur place relève du comité mixte vétérinaire, conformément notamment à l’art. 45 du règlement (CE) n<sup>o</sup> 882/2004 et à l’art. 57 de la loi sur les épizooties.
+Les modifications ultérieures de la liste des postes de contrôle frontaliers, de leurs centres d’inspection et de leur type d’agrément relèvent du Comité mixte vétérinaire.
+
+\3. La mise en œuvre des contrôles relève du Comité mixte vétérinaire, conformément notamment à l’art. 116 du règlement (UE) 2017/625 et à l’art. 57 de la loi sur les épizooties.
 
 ### Chapitre IV Conditions sanitaires et conditions de contrôle des échanges entre l’Union européenne et la Suisse
 
 Pour les secteurs où l’équivalence est reconnue de manière réciproque, les produits animaux faisant l’objet d’échanges entre les États membres de l’Union européenne et la Suisse circulent aux mêmes conditions que les produits faisant l’objet d’échanges entre les États membres de l’Union européenne. Si nécessaire, ces produits sont accompagnés des certificats sanitaires prévus pour les échanges entre les États membres de l’Union européenne ou définis par la présente annexe et disponibles dans le système TRACES.
 
-Pour les autres secteurs, les conditions sanitaires fixées au chapitre II de l’appendice 6 demeurent applicables.
+Pour les autres secteurs, les conditions sanitaires fixées au chap. II de l’appendice 6 demeurent applicables.
 
 ### Chapitre V Conditions sanitaires et conditions de contrôle des importations des pays tiers
 
-### 1. Union européenne – Législation<sup>∗</sup>
-
-[^annex10-lvlu1-chapV-lvl1-1]
-
-[^annex10-lvlu1-chapV-lvl1-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+### 1. Union européenne – Législation
 
 ### A. Règles de santé publique
+
+[^annex10-lvlu1-chapV-lvl1-lvlA-1]
+
+[^annex10-lvlu1-chapV-lvl1-lvlA-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
 \1. Directive 2009/32/CE du Parlement européen et du Conseil du 23 avril 2009 relative au rapprochement des législations des États membres concernant les solvants d’extraction utilisés dans la fabrication des denrées alimentaires et de leurs ingrédients (JO L 141 du 6.6.2009, p. 3).
 
 \2. Règlement (CE) n<sup>o</sup> 1334/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif aux arômes et à certains ingrédients alimentaires possédant des propriétés aromatisantes qui sont destinés à être utilisés dans et sur les denrées alimentaires et modifiant le règlement (CEE) n<sup>o</sup> 1601/91 du Conseil, les règlements (CE) n<sup>o</sup> 2232/96 et (CE) n<sup>o</sup> 110/2008 et la directive 2000/13/CE (JO L 354 du 31.12.2008, p. 34).
 
-\3. Règlement (CE) n<sup>o</sup> 470/2009 du Parlement Européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n<sup>o</sup> 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil (JO L 152 du 16.6.2009, p. 11).
+\3. Règlement (CE) n<sup>o</sup> 470/2009 du Parlement européen et du Conseil du 6 mai 2009 établissant des procédures communautaires pour la fixation des limites de résidus des substances pharmacologiquement actives dans les aliments d’origine animale, abrogeant le règlement (CEE) n<sup>o</sup> 2377/90 du Conseil et modifiant la directive 2001/82/CE du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil (JO L 152 du 16.6.2009, p. 11).
 
 \4. Règlement (CEE) n<sup>o</sup> 315/93 du Conseil du 8 février 1993 portant établissement des procédures communautaires relatives aux contaminants dans les denrées alimentaires (JO L 37 du 13.2.1993, p. 1).
 
-\5. Directive 95/45/CE de la Commission du 26 juillet 1995 établissant des critères de pureté spécifiques pour les colorants pouvant être utilisés dans les denrées alimentaires (JO L 226 du 22.9.1995, p. 1).
+\5. Règlement (CE) n<sup>o</sup> 1333/2008 du Parlement européen et du Conseil du 16 décembre 2008 sur les additifs alimentaires (JO L 354 du 31.12.2008, p. 16).
 
-\6. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β-agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3).
+\6. Directive 96/22/CE du Conseil du 29 avril 1996 concernant l’interdiction d’utilisation de certaines substances à effet hormonal ou thyréostatique et des substances β‑agonistes dans les spéculations animales et abrogeant les directives 81/602/CEE, 88/146/CEE et 88/299/CEE (JO L 125 du 23.5.1996, p. 3).
 
-\7. Directive 96/23/CE du Conseil du 29 avril 1996 relative aux mesures de contrôle à mettre en œuvre à l’égard de certaines substances et de leurs résidus dans les animaux vivants et leurs produits et abrogeant les directives 85/358/CEE et 86/469/CEE et les décisions 89/187/CEE et 91/664/CEE (JO L 125 du 23.5.1996, p. 10).
+\7. Pour les dispositions relatives aux contrôles officiels effectués par les autorités compétentes pour vérifier le respect des règles visées dans le présent chapitre:
 
-\8. Règlement d’exécution (UE) n<sup>o</sup> 872/2012 de la Commission du 1er octobre 2012 portant adoption de la liste de substances aromatisantes prévue par le règlement (CE) n<sup>o</sup> 2232/96 du Parlement européen et du Conseil, introduction de ladite liste dans l’annexe I du règlement (CE) n<sup>o</sup> 1334/2008 du Parlement européen et du Conseil et abrogation du règlement (CE) n<sup>o</sup> 1565/2000 de la Commission et de la décision 1999/217/CE de la Commission (JO L 267 du 2.10.2012, p. 1).
+Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (JO L 95 du 7.4.2017, p. 1).
 
-\9. Directive 1999/2/CE du Parlement européen et du Conseil du 22 février 1999 relative au rapprochement des législations des États membres sur les denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 16).
+\8. Directive 1999/2/CE du Parlement européen et du Conseil du 22 février 1999 relative au rapprochement des législations des États membres sur les denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 16).
 
-\10. Directive 1999/3/CE du Parlement européen et du Conseil du 22 février 1999 établissant une liste communautaire de denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 24).
+\9. Directive 1999/3/CE du Parlement européen et du Conseil du 22 février 1999 établissant une liste communautaire de denrées et ingrédients alimentaires traités par ionisation (JO L 66 du 13.3.1999, p. 24).
 
-\11. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1).
+\10. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1).
 
-\12. Décision 2002/840/CE de la Commission du 23 octobre 2002 portant adoption de la liste des unités agréées dans les pays tiers pour l’irradiation des denrées alimentaires (JO L 287 du 25.10.2002, p. 40).
+\11. Règlement (CE) n<sup>o</sup> 2160/2003 du Parlement européen et du Conseil du 17 novembre 2003 sur le contrôle des salmonelles et d’autres agents zoonotiques spécifiques présents dans la chaîne alimentaire (JO L 325 du 12.12.2003, p. 1).
 
-\13. Règlement (CE) n<sup>o</sup> 2160/2003 du Parlement européen et du Conseil du 17 novembre 2003 sur le contrôle des salmonelles et d’autres agents zoonotiques spécifiques présents dans la chaîne alimentaire (JO L 325 du 12.12.2003, p. 1).
+\12. Règlement (CE) n<sup>o</sup> 2065/2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires (JO L 309 du 26.11.2003, p. 1).
 
-\14. Règlement (CE) n<sup>o</sup> 2065/2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires (JO L 309 du 26.11.2003, p. 1).
+\13. Directive 2004/41/CE du Parlement européen et du Conseil du 21 avril 2004 abrogeant certaines directives relatives à l’hygiène des denrées alimentaires et aux règles sanitaires régissant la production et la mise sur le marché de certains produits d’origine animale destinés à la consommation humaine, et modifiant les directives 89/662/CEE et 92/118/CEE du Conseil ainsi que la décision 95/408/CE du Conseil (JO L 157 du 30.4.2004, p. 33).
 
-\15. Directive 2004/41/CE du Parlement européen et du Conseil du 21 avril 2004 abrogeant certaines directives relatives à l’hygiène des denrées alimentaires et aux règles sanitaires régissant la production et la mise sur le marché de certains produits d’origine animale destinés à la consommation humaine, et modifiant les directives 89/662/CEE et 92/118/CEE du Conseil ainsi que la décision 95/408/CE du Conseil (JO L 157 du 30.4.2004, p. 33).
+\14. Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale (JO L 139 du 30.4.2004, p. 55).
 
-\16. Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale (JO L 139 du 30.4.2004, p. 55).
+\15. Règlement (CE) n<sup>o</sup> 401/2006 de la Commission du 23 février 2006 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires (JO L 70 du 9.3.2006, p. 12).
 
-\17. Règlement (CE) n<sup>o</sup> 854/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant les règles spécifiques d’organisation des contrôles officiels concernant les produits d’origine animale destinés à la consommation humaine (JO L 139 du 30.4.2004, p. 206).
+\16. Règlement (UE) 2017/644 de la Commission du 5 avril 2017 portant fixation des méthodes de prélèvement et d’analyse d’échantillons à utiliser pour le contrôle des teneurs en dioxines, en PCB de type dioxine et en PCB autres que ceux de type dioxine de certaines denrées alimentaires et abrogeant le règlement (UE) n<sup>o</sup> 589/2014 (JO L 92 du 6.4.2017, p. 9).
 
-\18. Décision 2005/34/CE de la Commission du 11 janvier 2005 établissant des normes harmonisées pour les tests de détection de certains résidus dans les produits d’origine animale importés des pays tiers (JO L 16 du 20.1.2005, p. 61).
+\17. Règlement (CE) n<sup>o</sup> 333/2007 de la Commission du 28 mars 2007 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle des teneurs en éléments traces et en contaminants issus de procédés de transformation dans les denrées alimentaires (JO L 88 du 29.3.2007, p. 29).
 
-\19. Règlement (CE) n<sup>o</sup> 401/2006 de la Commission du 23 février 2006 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires (JO L 70 du 9.3.2006, p. 12).
-
-\20. Règlement (CE) n<sup>o</sup> 1881/2006 de la Commission du 19 décembre 2006 portant fixation de teneurs maximales pour certains contaminants dans les denrées alimentaires (JO L 364 du 20.12.2006, p. 5).
-
-\21. Règlement (UE) n<sup>o</sup> 252/2012 de la Commission du 21 mars 2012 portant fixation des méthodes de prélèvement et d’analyse d’échantillons à utiliser pour le contrôle officiel des teneurs en dioxines, en PCB de type dioxine et en PCB autres que ceux de type dioxine de certaines denrées alimentaires et abrogeant le règlement (CE) n<sup>o</sup> 1883/2006 (JO L 84, 23.3.2012, p. 1).
-
-\22. Règlement (CE) n<sup>o</sup> 333/2007 de la Commission du 28 mars 2007 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en plomb, en cadmium, en mercure, en étain inorganique, en 3-MCPD et en hydrocarbures aromatiques polycycliques dans les denrées alimentaires (JO L 88 du 29.3.2007, p. 29).
+\18. Art. 118 du règlement (UE) 2019/6 du Parlement européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE (JO L 4 du 7.1.2019, p. 43).
 
 ### B. Règles de santé animale
 
-\1. Directive 92/118/CEE du Conseil du 17 décembre 1992 définissant les conditions de police sanitaire ainsi que les conditions sanitaires régissant les échanges et les importations dans la Communauté de produits non soumis, en ce qui concerne lesdites conditions, aux réglementations communautaires spécifiques visées à l’annexe A chapitre Ier de la directive 89/662/CEE et, en ce qui concerne les pathogènes, de la directive 90/425/CEE (JO L 62 du 15.3.1993, p. 49).
+[^annex10-lvlu1-chapV-lvl1-lvlB-1]
+
+[^annex10-lvlu1-chapV-lvl1-lvlB-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
+
+\1. Règlement (UE) 2016/429 du Parlement européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale») (JO L 84 du 31.3.2016, p. 1) et les actes délégués et d’exécutions basés sur ce règlement adoptés jusqu’au 31 décembre 2025.
 
 \2. Règlement (CE) n<sup>o</sup> 999/2001 du Parlement européen et du Conseil du 22 mai 2001 fixant les règles pour la prévention, le contrôle et l’éradication de certaines encéphalopathies spongiformes transmissibles (JO L 147 du 31.5.2001, p. 1).
 
 \3. Règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n<sup>o</sup> 1774/2002 (JO L 300 du 14.11.2009, p. 1).
 
-\4. Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive (JO L 54 du 26.2.2011, p. 1).
+\4. Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et article exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive (JO L 54 du 26.2.2011, p. 1).
 
-\5. Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l’introduction des produits d’origine animale destinés à la consommation humaine (JO L 18 du 23.1.2003, p. 11).
-
-\6. Directive 2006/88/CE du Conseil du 24 octobre 2006 relative aux conditions de police sanitaire applicables aux animaux et aux produits d’aquaculture, et relative à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies (JO L 328 du 24.11.2006, p. 14).
-
-### C. Autres mesures spécifiques<sup>∗</sup>
+### C. Autres mesures spécifiques
 
 [^annex10-lvlu1-chapV-lvl1-lvlC-1]
 
-[^annex10-lvlu1-chapV-lvl1-lvlC-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapV-lvl1-lvlC-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
 
 \1. Accord intérimaire de commerce et d’union douanière entre la Communauté économique européenne et la République de Saint-Marin – Déclaration commune – Déclaration de la Communauté (JO L 359 du 9.12.1992, p. 14).
 
-\2. Décision 94/1/CE, CECA du Conseil et de la Commission du 13 décembre 1993 relative à la conclusion de l’accord sur l’Espace économique européen entre les Communautés européennes, leurs États membres et la République d’Autriche, la République de Finlande, la République d’Islande, la principauté de Liechtenstein, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse (JO L 1 du 3.1.1994, p. 1).
+\2. Décision 94/1/CE, CECA du Conseil et de la Commission du 13 décembre 1993 relative à la conclusion de l’accord sur l’Espace économique européen entre les Communautés européennes, leurs États membres et la République d’Autriche, la République de Finlande, la République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse (JO L 1 du 3.1.1994, p. 1).
 
 \3. Décision 97/132/CE du Conseil du 17 décembre 1996 concernant la conclusion de l’accord entre la Communauté européenne et la Nouvelle-Zélande relatif aux mesures sanitaires applicables au commerce d’animaux vivants et de produits animaux (JO L 57 du 26.2.1997, p. 4).
 
@@ -11176,37 +10585,40 @@ Pour les autres secteurs, les conditions sanitaires fixées au chapitre II de l�
 
 \10. Décision 2002/979/CE du Conseil du 18 novembre 2002 relative à la signature et à l’application provisoire de certaines dispositions d’un accord établissant une association entre la Communauté européenne et ses États membres, d’une part, et la République du Chili, d’autre part (JO L 352 du 30.12.2002, p. 1).
 
-### 2. Suisse – Législation<sup>∗</sup>
+### 2. Suisse – Législation
 
 [^annex10-lvlu1-chapV-lvl2-1]
 
-[^annex10-lvlu1-chapV-lvl2-1]: <sup>∗</sup> Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2014.
+[^annex10-lvlu1-chapV-lvl2-1]: Toute référence à un acte s’entend, sauf indication contraire, comme une référence audit acte tel que modifié avant le 31 décembre 2025.
 
-- A. Ordonnance du 18 avril 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux (OITE; RS *916.443.10*).
-- B. Ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*).
+- A. Ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*).
+- B. Ordonnance du DFI du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT-DFI; RS *916.443.106*).
 
 ### 3. Modalités d’application
 
-- A. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires applique, simultanément avec les États membres de l’Union européenne, les conditions d’importation établies dans les actes visés au chapitre I du présent appendice, les mesures d’application et les listes d’établissements en provenance desquels les importations correspondantes sont autorisées. Cet engagement s’applique à tous les actes appropriés quelle que soit leur date d’adoption.
+- A. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires applique, simultanément avec les États membres de l’Union européenne, les conditions d’entrée établies dans les actes visés au pt. I du chap. V du présent appendice, les mesures d’application et les listes d’établissements en provenance desquels les importations correspondantes sont autorisées. Cet engagement s’applique à tous les actes appropriés quelle que soit leur date d’adoption.
 - L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires peut adopter des mesures plus restrictives et exiger des garanties supplémentaires. Des consultations se tiendront au sein du Comité mixte vétérinaire en vue de rechercher des solutions appropriées.
 - L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires et les États membres de l’Union européenne se notifient les conditions spécifiques d’importation établies à titre bilatéral ne faisant pas l’objet d’une harmonisation au niveau de l’Union.
-- B. Les postes d’inspection frontaliers des États membres de l’Union européenne visés au chapitre III, partie B, point 1), du présent appendice effectuent les contrôles relatifs aux importations des pays tiers et destinés à la Suisse conformément aux dispositions prévues au chapitre III, partie A, du présent appendice.
-- C. Les postes d’inspection frontaliers de la Suisse mentionnés au chapitre III, partie B, point 2), du présent appendice effectuent les contrôles relatifs aux importations des pays tiers et destinés aux États membres de l’Union européenne conformément au chapitre III, partie A, du présent appendice.
+- B. Les postes de contrôle frontaliers des États membres de l’Union européenne visés au chap. III, partie B, pt. 1), du présent appendice effectuent les contrôles relatifs aux importations des pays tiers destinées à la Suisse conformément aux dispositions prévues au chap. III, partie A, du présent appendice.
+- C. Les postes de contrôle frontaliers de la Suisse mentionnés au chap. III, partie B, pt. 2), du présent appendice effectuent les contrôles relatifs aux importations des pays tiers destinées aux États membres de l’Union européenne conformément au chap. III, partie A, du présent appendice.
 - D.
 
-  En vertu des dispositions de l’ordonnance du 27 août 2008 concernant l’importation et le transit de produits animaux par voie aérienne en provenance de pays tiers (OITPA; RS *916.443.13*), la Confédération suisse maintient la possibilité d’importer des viandes bovines issues de bovins potentiellement traités avec des promoteurs de croissance. L’exportation de cette viande vers l’Union européenne est interdite. En outre, la Confédération suisse:
+  En vertu des dispositions de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE-PT; RS *916.443.10*), la Confédération suisse maintient la possibilité d’importer des viandes bovines issues de bovins potentiellement traités avec des promoteurs de croissance. L’exportation de cette viande vers l’Union européenne est interdite. En outre, la Confédération suisse:
 
   - – limite l’utilisation de telles viandes aux seules fins de remise directe au consommateur par des établissements de commerce de détail sous des conditions d’étiquetage appropriées;
-  - – limite leur introduction aux seuls postes d’inspection frontaliers suisses;
-  - – maintient un système de traçabilité et de canalisation adéquat visant à prévenir toute possibilité d’introduction ultérieure sur le territoire des État membres de l’Union européenne;
+  - – limite leur introduction aux seuls postes de contrôle frontaliers suisses;
+  - – maintient un système de traçabilité et de canalisation adéquat visant à prévenir toute possibilité d’introduction ultérieure sur le territoire des États membres de l’Union européenne;
   - – présente une fois par an un rapport à la Commission sur l’origine et la destination des importations ainsi qu’un état des contrôles effectués afin de s’assurer du respect des conditions susmentionnées;
-  - – en cas de préoccupation, ces dispositions seront examinées par le comité mixte vétérinaire.
+  - – en cas de préoccupation, ces dispositions seront examinées par le Comité mixte vétérinaire.
+
+- E. La Suisse n’est pas considérée comme un pays tiers aux fins de l’application de l’art. 118 du règlement (UE) 2019/6 et ce, jusqu’au 1<sup>er</sup> juillet 2028.
+- Ce paragraphe sera revu par le Comité mixte vétérinaire avant le 1<sup>er</sup> juillet 2028.
 
 ### Chapitre VI Redevances
 
 \1. Aucune redevance n’est perçue pour les contrôles vétérinaires applicables aux échanges entre les États membres de l’Union européenne et la Suisse.
 
-\2. Pour les contrôles vétérinaires des importations des pays tiers, les autorités suisses s’engagent à percevoir les redevances liées aux contrôles officiels prévues par le règlement (CE) n<sup>o</sup> 882/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif aux contrôles officiels effectués pour s’assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux (JO L 165 du 30.4.2004, p. 1).
+\2. Pour les contrôles vétérinaires des importations des pays tiers, les autorités suisses s’engagent à percevoir les redevances liées aux contrôles officiels prévues par le règlement (UE) 2017/625.
 
 Appendice 11[^t-32]
 
