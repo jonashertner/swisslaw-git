@@ -4,24 +4,23 @@ number: "424.100"
 title: Verordnung über die Berufsmaturität
 short: Berufsmaturitätsverordnung
 language: de
-version: 2018-08-13
-valid_until: 2026-07-30
-version_adopted: 2018-06-26
+version: 2026-07-31
+version_adopted: 2026-05-05
 adopted: 2018-06-26
 in_force: 2018-08-13
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/424.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4459/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6821/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Berufsmaturität
 
-Berufsmaturitätsverordnung | Berufsmaturitäten
+Berufsbildung
 
 (Berufsmaturitätsverordnung)
 
-Vom 26. Juni 2018 (Stand 13. August 2018)
+Vom 26. Juni 2018 (Stand 31. Juli 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -50,9 +49,11 @@ beschliesst:
 - b) Gesundheit und Soziales;
 - c) Technik, Architektur, Life Sciences;
 - d) Wirtschaft und Dienstleistungen (Typ Wirtschaft und Typ Dienstleistungen);
-- e) Natur, Landschaft, Lebensmittel.
+- e) Natur, Landschaft und Lebensmittel.
 
-<sup>2</sup> Das Erziehungsdepartement legt fest, welche Ausrichtung an welchem Standort angeboten wird.
+<sup>2</sup> Die Leitung Mittelschulen und Berufsbildung legt fest, welche Ausrichtung an welchem Standort angeboten wird.
+
+<sup>3</sup> Die Leitung Mittelschulen und Berufsbildung legt fest, an welchen Standorten mehrsprachiger Berufsunterricht und eine mehrsprachige Berufsmaturität, Blended Learning sowie flexibilisierter Unterricht angeboten wird.
 
 ## II. Berufsmaturitätsprüfung und Berufsmaturitätszeugnis
 
@@ -62,7 +63,7 @@ beschliesst:
 
 <sup>1</sup> Zur Berufsmaturitätsprüfung sind die Kandidatinnen und Kandidaten zugelassen, welche den Unterricht bei der Anbieterin oder dem Anbieter des BM-Lehrgangs besucht haben.
 
-<sup>2</sup> Lernende der BM 2 werden zur Berufsmaturitätsprüfung zugelassen, wenn sie bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80% der Unterrichtslektionen des Prüfungssemesters besucht haben.
+<sup>2</sup> Lernende der BM 2 werden zur Berufsmaturitätsprüfung zugelassen, wenn sie bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80 % des Schulunterrichts des Prüfungssemesters besucht haben. In Blended-Learning-Lehrgängen gilt diese Regelung sinngemäss.
 
 <sup>3</sup> Die Prüfungsleitung entscheidet über die Zulassung zur Berufsmaturitätsprüfung.
 
@@ -70,17 +71,17 @@ beschliesst:
 
 #### § 4
 
-**Zeitpunkt der Abschlussprüfungen**
-
-<sup>1</sup> Die Abschlussprüfungen finden in der Regel am Ende des Semesters statt, in welchem das zu prüfende Fach zum letzten Mal unterrichtet wird.
-
-<sup>2</sup> Es dürfen jedoch höchstens drei Prüfungsfächer vor dem Ende der Ausbildung abgeschlossen werden.
+**…**
 
 #### § 5
 
 **Form, Inhalt und Dauer der Abschlussprüfungen sowie Hilfsmittel**
 
 <sup>1</sup> Soweit nicht durch bundesrechtliche Vorschriften bestimmt, werden Form, Inhalt, Prüfungsdauer und Hilfsmittel in von der Prüfungsleitung erlassenen Prüfungsrichtlinien geregelt.
+
+<sup>1<sup>bis</sup></sup> Die schriftlichen Abschlussprüfungen werden in allen Fächern für alle Berufsmaturitätsausrichtungen einheitlich durch eine von den Kantonen Basel-Landschaft und Basel-Stadt eingesetzte Leitungsgruppe vorbereitet.
+
+<sup>2</sup> Die Leitung Mittelschulen und Berufsbildung legt fest, welche Fremdsprachendiplome die Abschlussprüfung in den entsprechenden Fächern ersetzen können und wie das Ergebnis der Fremdsprachendiplomprüfung in die Prüfungsnote umgerechnet wird.
 
 #### § 6
 
@@ -126,7 +127,7 @@ beschliesst:
 
 **Validierung der Prüfungsnoten**
 
-<sup>1</sup> Die Prüfungsnoten werden, vorbehältlich der Bestimmungen in § 12 dieser Verordnung, durch die Unterschrift der Examinatorin oder des Examinators sowie der Expertin oder des Experten validiert.
+<sup>1</sup> Die Prüfungsnoten werden, vorbehältlich der Bestimmungen in § 12, durch die Examinierenden sowie der Expertin oder des Experten validiert.
 
 #### § 12
 
@@ -152,26 +153,17 @@ beschliesst:
 
 #### § 14
 
-**Notenberechnung**
-
-<sup>1</sup> Die Noten im Berufsmaturitätszeugnis werden auf ganze und halbe Noten gerundet.
-
-<sup>2</sup> Sie sind der Mittelwert:
-
-- a) in nicht geprüften Fächern aus den Noten aller Zeugnisse (Erfahrungsnoten);
-- b) in nur schriftlich oder nur mündlich geprüften Fächern aus dem auf ganze und halbe Noten gerundeten Durchschnitt der Erfahrungsnoten und der Prüfungsnote;
-- c) in sowohl schriftlich und mündlich geprüften Fächern aus dem auf ganze und halbe Noten gerundeten Durchschnitt der Erfahrungsnoten sowie der auf ganze und halbe Noten gerundeten Prüfungsnote;
-- d) im Bereich interdisziplinäres Arbeiten aus dem auf ganze und halbe Noten gerundeten Durchschnitt der Erfahrungsnoten Interdisziplinäres Arbeiten (IDAF) sowie der auf ganze und halbe Noten gerundeten Note für die Interdisziplinäre Projektarbeit (IDPA).
+**…**
 
 #### § 15
 
 **Bestehen der Berufsmaturitätsprüfung**
 
-<sup>1</sup> Der Notendurchschnitt des Berufsmaturitätszeugnisses ist das arithmetische Mittel aller Fachnoten im Berufsmaturitätszeugnis, auf eine Dezimalstelle gerundet.
+<sup>1</sup> Die Gesamtnote ist das arithmetische Mittel aller Fachnoten im Berufsmaturitätszeugnis, auf eine Dezimalstelle gerundet.
 
 <sup>2</sup> Die Berufsmaturitätsprüfung ist bestanden, wenn die folgenden Voraussetzungen erfüllt sind:
 
-- a) der Durchschnitt sämtlicher Noten mindestens 4 beträgt;
+- a) Die Gesamtnote beträgt mindestens 4;
 - b) die Differenz der ungenügenden Noten zur Note 4 gesamthaft den Wert 2 nicht übersteigt;
 - c) nicht mehr als zwei Noten unter 4 erteilt wurden.
 
@@ -191,19 +183,15 @@ beschliesst:
 
 <sup>1</sup> Die Wiederholung der Berufsmaturitätsprüfung findet in der Regel frühestens nach einem und spätestens nach zwei Jahren bei der gleichen Anbieterin oder dem gleichen Anbieter des BM-Lehrgangs statt, an welcher die erste Berufsmaturitätsprüfung absolviert wurde. Wer die Berufsmaturitätsprüfung wiederholen möchte, muss sich bis zum Ende des Kalenderjahres vor der Berufsmaturitätsprüfung bei der Schule zur Wiederholungsprüfung anmelden.
 
-<sup>2</sup> Die Berufsmaturitätsprüfung ist in mindestens den Fächern mit ungenügenden Noten zu wiederholen. Eine Wiederholung in allen Fächern ist möglich.
+<sup>2</sup> …
 
-<sup>3</sup> In Fächern, die nicht wiederholt werden, werden die bestehenden Berufsmaturitätsnoten übernommen.
+<sup>3</sup> …
 
-<sup>4</sup> Wird zur Vorbereitung der Wiederholungsprüfung der Berufsmaturitätsunterricht während mindestens zweier Semester besucht, werden die neuen Zeugnisnoten als Erfahrungsnoten für die Berechnung der Gesamtnote berücksichtigt.
+<sup>4</sup> …
 
-<sup>5</sup> In allen zu wiederholenden Fächern ist eine Abschlussprüfung abzulegen.
+<sup>5</sup> …
 
-<sup>6</sup> Bei ungenügender Note im interdisziplinären Arbeiten gilt für die Wiederholung:
-
-- a) eine ungenügende interdisziplinäre Projektarbeit (IDPA) ist zu überarbeiten;
-- b) bei einer ungenügenden Erfahrungsnote interdisziplinäres Arbeiten (IDAF) ist eine mündliche Abschlussprüfung zu interdisziplinärem Arbeiten abzulegen;
-- c) eine genügende bisherige Erfahrungsnote ist zu berücksichtigen.
+<sup>6</sup> …
 
 #### § 18
 
@@ -211,7 +199,7 @@ beschliesst:
 
 <sup>1</sup> Kandidatinnen oder Kandidaten, die wegen Krankheit, Unfall oder aus anderen wichtigen Gründen nicht zur Berufsmaturitätsprüfung antreten können oder von dieser zurücktreten, haben dies unverzüglich der Prüfungsleitung zu melden. Bei gesundheitlichen Gründen ist die Prüfungsunfähigkeit innert 24 Stunden durch ein ärztliches Zeugnis zu belegen.
 
-<sup>2</sup> Kandidatinnen und Kandidaten, die ohne wichtigen Grund der Berufsmaturitätsprüfung fernbleiben oder während der Berufsmaturitätsprüfung zurücktreten, haben die Prüfung nicht bestanden.
+<sup>2</sup> Bleiben Kandidierende ohne wichtigen Verhinderungsgrund einer Prüfung fern, so gilt die ganze Berufsmaturitätsprüfung als nicht bestanden.
 
 <sup>3</sup> Unregelmässigkeiten im Ablauf der Berufsmaturitätsprüfung sowie Unredlichkeiten einer Kandidatin oder eines Kandidaten, insbesondere die Benützung, Bereitstellung oder Vermittlung unerlaubter Hilfen oder Hilfsmittel, sind der Prüfungsleitung unverzüglich zu melden.
 
@@ -241,6 +229,8 @@ beschliesst:
 #### § 21
 
 <sup>1</sup> Für Lernende mit den Schullaufbahnen nach § 1 lit. a und b der Übergangsverordnung Schulharmonisierung vom 31. Januar 2012 gelten weiterhin die bisherigen Erlasse.
+
+<sup>2</sup> Die Lernenden, die ihren BM-Lehrgang vor dem 31. Juli 2026 begonnen haben, schliessen diesen nach bisherigem Recht ab.
 
 *Schlussbestimmung*
 
