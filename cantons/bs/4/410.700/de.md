@@ -4,13 +4,12 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2025-08-11
-valid_until: 2026-07-30
-version_adopted: 2025-01-07
+version: 2026-07-31
+version_adopted: 2026-05-05
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6796/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6820/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 11. August 2025)
+Vom 11. September 2012 (Stand 31. Juli 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -198,7 +197,7 @@ beschliesst:
 
 <sup>1</sup> In eine 1. Klasse der lehrbegleitenden Ausbildung (BM 1) werden Schülerinnen und Schüler der Sekundarschule aufgenommen, die eine Berechtigung nach den §§ 69 und 70 haben und über einen gültigen Lehrvertrag für eine drei- oder vierjährige berufliche Grundbildung verfügen.
 
-<sup>2</sup> In eine 1. Klasse der Ausbildung nach der beruflichen Grundbildung (BM 2) werden Schülerinnen und Schüler aufgenommen, die über ein eidgenössisches Fähigkeitszeugnis EFZ verfügen und eine der folgenden Zusatzqualifikationen erfüllen:
+<sup>2</sup> In eine 1. Klasse der Ausbildung nach der beruflichen Grundbildung (BM 2) werden Schülerinnen und Schüler aufgenommen, die über ein eidgenössisches Fähigkeitszeugnis EFZ oder einen gleichwertigen Abschluss verfügen und eine der folgenden Zusatzqualifikationen erfüllen:
 
 - a) der Notenausweis belegt eine Gesamtnote von mindestens 5,0, für Absolventinnen und Absolventen des EFZ Kauffrau/Kaufmann E-Profil von mindestens 4,7;
 - b) es liegt eine Berechtigung nach den §§ 69 und 70 vor;
@@ -352,7 +351,7 @@ beschliesst:
 
 <sup>1</sup> Für die Pflicht- und Wahlpflichtfächer legt der Erziehungsrat, für die Freifächer die Volksschulleitung oder die Leitung Mittelschulen und Berufsbildung fest, ob die Sachkompetenz im Zeugnis beurteilt wird.
 
-<sup>2</sup> In der BM wird die Sachkompetenz für alle unterrichteten Fächer im Zeugnis beurteilt.
+<sup>2</sup> In der BM wird die Sachkompetenz in allen unterrichteten Fächern und im interdisziplinären Arbeiten in den Fächern (IDAF) im Zeugnis beurteilt.
 
 <sup>3</sup> Im 3. – 6. Schuljahr werden die Leistungen in den Fachbereichen oder Fächern mit einem Prädikat beurteilt.
 
@@ -388,7 +387,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Lehrperson beurteilt die Sachkompetenz in den Fachbereichen oder Fächern auf der Grundlage der während der massgeblichen Beurteilungsperiode erstellten Beurteilungsbelege (§ 21).
 
-<sup>2</sup> Das Gewicht eines einzelnen Beurteilungsbelegs muss kleiner sein als 50 %. In Fächern mit nur einer Jahreslektion kann das Gewicht eines Beurteilungsbelegs auch 50 % betragen.
+<sup>2</sup> Das Gewicht eines einzelnen Beurteilungsbelegs muss kleiner sein als 50 %. In Fächern mit nur einer Jahreslektion und in der BM kann das Gewicht eines Beurteilungsbelegs auch 50 % betragen.
 
 <sup>3</sup> Erfolgt die Beurteilung der Sachkompetenz durch eine Kombination von verschiedenen Beurteilungsformen, hat die zuständige Lehrperson eine Gesamtbeurteilung vorzunehmen.
 
@@ -617,11 +616,11 @@ beschliesst:
   - ac) es sind nicht mehr als drei Noten unter 4,0, davon nicht mehr als zwei Noten in den unterrichteten Berufsmaturitätsfächern.
 - b) …
 
-<sup>1<sup>ter</sup></sup> Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung absolvieren (BM 2), müssen zusätzlich bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80 % der Unterrichtslektionen des Semesters besucht haben.
+<sup>1<sup>ter</sup></sup> Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung absolvieren (BM 2), müssen zusätzlich bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80 % des Schulunterrichts des Semesters besucht haben. In Blended-Learning-Lehrgängen gilt diese Regelung sinngemäss.
 
 <sup>1<sup>quater</sup></sup> …
 
-<sup>2</sup> Schülerinnen und Schüler, welche die Voraussetzungen nach den Abs. 1 – 1<sup>bis</sup> nicht erfüllen, werden provisorisch in das nächste Semester befördert. Davon ausgenommen sind Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung in einem Jahr absolvieren (BM 2 Vollzeit) (§ 50).
+<sup>2</sup> Schülerinnen und Schüler, welche die Voraussetzungen nach den Abs. 1 – 1<sup>bis</sup> nicht erfüllen, werden provisorisch in das nächste Semester befördert.
 
 <sup>3</sup> Im Zeugnis wird «befördert» oder «provisorisch befördert» eingetragen.
 
@@ -675,7 +674,7 @@ beschliesst:
 
 **Nichtbeförderung in der BM (BM 2)**
 
-<sup>1</sup> Schülerinnen und Schüler, welche die Ausbildung nach der beruflichen Grundbildung in einem Jahr absolvieren (BM 2 Vollzeit) und welche im ersten Semester die Voraussetzungen nach § 46 Abs. 1 nicht erfüllen, werden nicht befördert und müssen aus der Schule austreten. In das Zeugnis wird «Austritt nach § 50 Abs. 1 SLV» eingetragen. Vorbehalten bleibt eine ausserordentliche Wiederholung eines Schuljahres oder eine ausserordentliche Beförderung nach § 52.
+<sup>1</sup> …
 
 <sup>2</sup> Schülerinnen und Schüler, welche die Ausbildung nach der beruflichen Grundbildung in zwei Jahren absolvieren (BM 2 Teilzeit) und die nach einer provisorischen Beförderung in der BM im zweiten oder dritten Semester die Voraussetzungen nach § 46 Abs. 1 nicht erfüllen, werden nicht befördert und müssen aus der Schule austreten. In das Zeugnis wird «Austritt nach § 50 Abs. 2 SLV» eingetragen. Vorbehalten bleibt eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52.
 
@@ -1243,6 +1242,12 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ausgenom
 <sup>4</sup> Schülerinnen und Schüler der 3. Klasse, die im Schuljahr 2025/26 am Ende des ersten Semesters nicht befördert werden und das Unterrichtsjahr gemäss § 51 wiederholen, treten in das zweite Semester der 2. Klasse ein. Am Ende der 2. Klasse erhalten sie einen Lernbericht. Mit Beginn des Schuljahres 2026/27 treten sie in die 3. Klasse über und wiederholen das Unterrichtsjahr nach den neuen Bestimmungen mit Jahrespromotion.
 
 <sup>5</sup> Schülerinnen und Schüler der 3. Klasse, die im Schuljahr 2025/26 die Voraussetzungen zum Erhalt des Fachmittelschulausweises nicht erfüllen und das Unterrichtsjahr wiederholen, treten auf Beginn des Schuljahres 2026/27 in die 3. Klasse ein und wiederholen das Unterrichtsjahr nach den neuen Bestimmungen mit Jahrespromotion.
+
+#### § 101
+
+**Übergangsregelung zu den Änderungen der §§ 13 Abs. 2, 27 Abs. 2, 30 Abs. 2, 46 Abs. 1<sup>ter</sup>, Abs. 2 und 50 Abs. 1 per 31. Juli 2026 betreffend die Berufsmaturität**
+
+<sup>1</sup> Die Lernenden, die ihre Berufsmaturitätsausbildung vor dem 31. Juli 2026 begonnen haben, schliessen sie nach dem bisherigen Recht ab.
 
 *Schlussbestimmung*
 
