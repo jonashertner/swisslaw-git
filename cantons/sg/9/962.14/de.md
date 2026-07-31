@@ -3,20 +3,19 @@ canton: SG
 number: "962.14"
 title: Verordnung über die Gefängnisse und Vollzugsanstalten
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-06-17
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 2000-06-13
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3787/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3922/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gefängnisse und Vollzugsanstalten
 
-vom 13.06.2000 (Stand 01.08.2025)
+vom 13.06.2000 (Stand 01.08.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -39,7 +38,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Diese Verordnung gilt für:
 
-- a) das Regionalgefängnis Altstätten, das Kantonale Gefängnis sowie die Gefängnisse in St.Gallen, Flums und Gossau;
+- a) das Regionalgefängnis Altstätten, das Kantonale Gefängnis sowie die Gefängnisse in St.Gallen, Flums, Uznach, Bazenheid und Gossau;
 - b) die Strafanstalt Saxerriet und das Massnahmenzentrum Bitzi;
 - c) das Jugendheim Platanenhof.
 
@@ -47,7 +46,7 @@ als Verordnung:[^ingress-2]
 
 **Aufgaben a) Gefängnisse**
 
-<sup>1</sup> Das Regionalgefängnis Altstätten, das Kantonale Gefängnis sowie die Gefängnisse in St.Gallen, Flums und Gossau dienen der Unterbringung von Personen:
+<sup>1</sup> Das Regionalgefängnis Altstätten, das Kantonale Gefängnis sowie die Gefängnisse in St.Gallen, Flums, Uznach, Bazenheid und Gossau dienen der Unterbringung von Personen:
 
 - a) in Untersuchungs-, Sicherheits- und Auslieferungshaft;
 - b) in ausländerrechtlicher Haft;
