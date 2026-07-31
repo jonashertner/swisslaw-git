@@ -3,20 +3,19 @@ canton: BL
 number: "640.43"
 title: Verordnung über die Privatschulen und die private Schulung
 language: de
-version: 2025-03-01
-valid_until: 2026-07-31
-version_adopted: 2025-02-04
+version: 2026-08-01
+version_adopted: 2026-06-16
 adopted: 2018-06-26
 in_force: 2018-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.43"
-pdf: "https://bl.clex.ch/api/de/versions/4170/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Privatschulen und die private Schulung
 
-Vom 26.06.2018 (Stand 01.03.2025)
+Vom 26.06.2018 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -91,6 +90,8 @@ beschliesst:
 <sup>1</sup> Die Schule verpflichtet sich, zur Mehrheit Lehrpersonen anzustellen, die über eine fachliche und pädagogische Ausbildung für die entsprechende Schulstufe oder ein von der Eidgenössischen Erziehungsdirektorenkonferenz anerkanntes und gleichwertiges Diplom verfügen.
 
 <sup>2</sup> Die Schule verpflichtet sich weiter, von allen Personen, die regelmässig in Kontakt mit Schülerinnen und Schülern kommen, bei ihrer Anstellung einen Sonderprivatauszug gemäss Art. 371a Strafgesetzbuch[^6-1] einzuholen.
+
+<sup>2<sup>bis</sup></sup> Die Schule ist verpflichtet, mindestens jährlich zu überprüfen, ob die von ihr eingesetzten Lehrpersonen auf der von der Konferenz der kantonalen Erziehungsdirektoren (EDK) geführten Liste über Lehrpersonen ohne Unterrichtsberechtigung aufgeführt sind.
 
 <sup>3</sup> Bei der privaten Schulung müssen die Erziehungsberechtigten selber oder die von ihnen angestellten Lehrpersonen über die Ausbildung gemäss Abs. 1 verfügen. Abs. 2 gilt sinngemäss.
 
