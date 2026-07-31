@@ -4,13 +4,12 @@ number: "662.111"
 title: Gebührenverordnung
 short: GebührV
 language: de
-version: 2025-09-01
-valid_until: 2026-07-31
-version_adopted: 2025-06-25
+version: 2026-08-01
+version_adopted: 2026-05-27
 adopted: 2024-03-13
 in_force: 2024-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/662.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3849/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4011/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +18,20 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3849/pdf_file"
 
 (GebührV)
 
-Vom 13.03.2024 (Stand 01.09.2025)
+Vom 13.03.2024 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 27 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1], die §§ 33a Abs. 2–5, 60a Abs. 4, 61 Abs. 5 und 89 Abs. 4 des Schulgesetzes vom 17. März 1981[^ingress-2], § 46 Abs. 2 und 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-3], die §§ 10 Abs. 2, 13 Abs. 1 und 14 Abs. 1 des Allgemeinen Gebührengesetzes (GebührG) vom 19. September 2023[^ingress-4] sowie die §§ 2 Abs. 5, 22 Abs. 2 und 25 Abs. 3 des Gebührendekrets (GebührD) vom 19. September 2023[^ingress-5],
+gestützt auf § 27 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1], § 120 Abs. 1 des Volksschulgesetzes (VSG) vom 23. September 2025[^ingress-2], die §§ 42a Abs. 2 und 46 Abs. 2 und 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-3], die §§ 29 Abs. 3 und 4 sowie 30 Abs. 3 und 4 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-4], die §§ 10 Abs. 2, 13 Abs. 1 und 14 Abs. 1 des Allgemeinen Gebührengesetzes (GebührG) vom 19. September 2023[^ingress-5] sowie die §§ 2 Abs. 5, 22 Abs. 2 und 25 Abs. 3 des Gebührendekrets (GebührD) vom 19. September 2023[^ingress-6],
 
 beschliesst:
 
 [^ingress-1]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
-[^ingress-2]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^ingress-2]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 [^ingress-3]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
-[^ingress-4]: SAR [662.100](https://gesetzessammlungen.ag.ch/data/662.100/de)
-[^ingress-5]: SAR [662.110](https://gesetzessammlungen.ag.ch/data/662.110/de)
+[^ingress-4]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
+[^ingress-5]: SAR [662.100](https://gesetzessammlungen.ag.ch/data/662.100/de)
+[^ingress-6]: SAR [662.110](https://gesetzessammlungen.ag.ch/data/662.110/de)
 
 ## 1. Allgemeines
 
@@ -544,7 +544,7 @@ beschliesst:
 - a) Aufnahme in einen Lehrgang zur eidgenössischen Berufsmaturität nach der Lehre (BM II) — Fr. 300.–
 - b) Prüfungswiederholung — Fr. 200.–
 - c) Prüfungswiederholung nach unbegründetem Fernbleiben von Qualifikationsverfahren — Fr. 400.–
-- d) Gebrauchsüberlassung von Lernmaterialien an der Kantonalen Schule für Berufsbildung Aargau (KSB); pro Semester — Fr. 200.–
+- d) Schulgeld der Kantonalen Schule für Berufsbildung (ksb); pro Semester — Fr. 200.–
 
 <sup>2</sup> Die öffentlichen Berufsfachschulen können für die fachkundige individuelle Begleitung (FIB) von Lernenden der drei- oder vierjährigen beruflichen Grundbildung eine Gebühr von Fr. 40.– pro Stunde erheben.
 
@@ -552,10 +552,16 @@ beschliesst:
 
 - a) Berufs-, Studien- und Laufbahnberatung für Personen mit abgeschlossener Ausbildung auf Sekundarstufe II, die das 25. Altersjahr vollendet haben; nach Kosten,
 - b) Lehrpersonenberatung, die über das unentgeltliche Grundangebot gemäss § 10 Abs. 5 der Verordnung über die Schuldienste (V Schuldienste) vom 3. Mai 2017[^21-1] hinausgeht; nach Mehrkosten,
-- c) Unterstützung bei der Erstellung von individuellen Qualifikationsnachweisen, nach Kosten,
+- c) …
 - d) Angebote und Leistungen, die nicht zum unentgeltlichen Grundangebot gemäss § 10 V Schuldienste zählen; nach Kosten.
 
+<sup>4</sup> Lernende in Brückenangeboten der ksb, die ihren Wohnsitz ausserhalb des Kantons Aargau haben und für die kein anderer Kanton auf Grund einer Vereinbarung zahlungspflichtig ist, entrichten ein Schulgeld gemäss dem jeweils geltenden Tarif des Regionalen Schulabkommens über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA 2009) vom 23. November 2007[^21-2] beziehungsweise gemäss der Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (Berufsfachschulvereinbarung, BFSV) vom 22. Juni 2006[^21-3]. Es gilt die Wohnsitzdefinition gemäss Art. 4 RSA 2009 beziehungsweise gemäss Art. 4 BFSV.
+
+<sup>5</sup> Sie kann für Leistungen der Berufs-, Studien- und Laufbahnberatung sowie der jugendpsychologischen Beratung im unentgeltlichen Grundangebot gemäss § 10 V Schuldienste eine Umtriebsentschädigung von Fr. 50.– erheben, wenn ein Beratungstermin weniger als 24 Stunden im Voraus abgesagt wird oder die Person nicht zum Beratungstermin erscheint.
+
 [^21-1]: SAR [405.112](https://gesetzessammlungen.ag.ch/data/405.112/de)
+[^21-2]: SAR [400.300](https://gesetzessammlungen.ag.ch/data/400.300/de)
+[^21-3]: SAR [400.562](https://gesetzessammlungen.ag.ch/data/400.562/de)
 
 #### § 22
 
@@ -573,13 +579,13 @@ beschliesst:
 
 #### § 23
 
-**Mittelschulen**
+**Mittelschulen und Aargauische Maturitätsschule für Erwachsene**
 
-<sup>1</sup> Die Mittelschulen beziehungsweise die Schule für Gestaltung Aargau erheben folgende, vorgängig zu bezahlende Gebühren:
+<sup>1</sup> Die Mittelschulen beziehungsweise die Schule für Gestaltung Aargau und die Aargauische Maturitätsschule für Erwachsene (AME) erheben folgende, vorgängig zu bezahlende Gebühren:
 
 - a) Freifach Instrumentalunterricht
   - 1\. halbe Lektion; pro Schuljahr — Fr. 1'000.–
-  - 2\. halbe Lektion im ersten Semester der Abschlussklasse des Gymnasiums und der Fachmittelschule sowie in der letzten Klasse der schulischen Ausbildung an der Handels- und der Informatikmittelschule — Fr. 500.–
+  - 2\. halbe Lektion im ersten Semester der Abschlussklasse des Gymnasiums und der Fachmittelschule sowie in der letzten Klasse der schulischen Ausbildung an der Wirtschafts- und der Informatikmittelschule — Fr. 500.–
   - 3\. Die Schulleitung kann auf Gesuch hin die Gebühren gemäss den Ziffern 1 und 2 teilweise zurückerstatten bei länger dauernder, unverschuldeter Absenz der Schülerin oder des Schülers beziehungsweise beim Austritt aus der Schule während des Schuljahrs.
   - 4\. Fällt eine Unterrichtslektion wegen eines Schulanlasses oder infolge Krankheit oder Unfall der Schülerin oder des Schülers beziehungsweise der Lehrperson aus, erfolgt keine teilweise Rückerstattung der Gebühren gemäss den Ziffern 1 und 2.
   - 5\. Wer die Gebühren gemäss den Ziffern 1 und 2 nicht fristgerecht bezahlt, ist ab Beginn des jeweiligen Schuljahrs vom Besuch des Freifachs Instrumentalunterricht ausgeschlossen.
@@ -587,24 +593,21 @@ beschliesst:
   - 1\. Teilnahme am Aufnahmeverfahren — Fr. 100.–
   - 2\. Einschreibegebühr nach erfolgreichem Aufnahmeverfahren (ohne Rückerstattungsmöglichkeit bei Rückzug der Einschreibung) — Fr. 300.–
   - 3\. Kostenvorschuss für selber zu bezahlende Auslagen, namentlich für Unterrichtsmaterial — Fr. 800.–
-- c) Studiengeld für den Maturitätslehrgang der Aargauischen Maturitätsschule für Erwachsene (AME); pro angetretenes Semester — Fr. 1'000.–
+- c) Studiengeld für den Maturitätslehrgang an der AME; pro angetretenes Semester — Fr. 1'000.–
 - d) Studiengeld für den Passerellenlehrgang an der AME
   - 1\. Anmeldegebühr (wird an das Studiengeld für das erste Semester angerechnet) — Fr. 200.–
   - 2\. Studiengeld; pro Semester — Fr. 1'000.–
 - e) Studiengeld für den Vorkurs Pädagogik; für den ganzen Lehrgang — Fr. 1'000.–
 
-<sup>2</sup> Schülerinnen und Schüler der Mittelschulen, die ihren Wohnsitz ausserhalb des Kantons Aargau haben und für die kein anderer Kanton oder Staat auf Basis eines Schulgeldabkommens eine Kostengutsprache geleistet hat, entrichten ein Schulgeld gemäss dem jeweils geltenden Tarif des Regionalen Schulabkommens über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA 2009) vom 23. November 2007[^23-1] beziehungsweise gemäss der Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (Berufsfachschulvereinbarung, BFSV) vom 22. Juni 2006[^23-2].
+<sup>2</sup> …
 
 <sup>3</sup> Die Anmeldegebühr gemäss Absatz 1 lit. d Ziff. 1 wird zurückerstattet, wenn eine Anmeldung mehr als zwei Monate vor Kursbeginn zurückgezogen oder die Berufsmaturitätsprüfung nach der Kursanmeldung nicht bestanden wird.
 
 <sup>4</sup> Beim Austritt während eines Semesters oder Kurses wird das Studien- beziehungsweise Schulgeld nicht zurückerstattet.
 
-<sup>5</sup> Schülerinnen und Schüler beziehungsweise Studierende haben die Auslagen, namentlich für Unterrichtsmaterial, Lehrmittel, Drucksachen, Exkursionen, Spezialwochen, Projekte und Ausstellungsbesuche selber zu tragen.
+<sup>5</sup> …
 
 <sup>6</sup> Das BKS kann auf Gesuch hin in Härtefällen die Studien- beziehungsweise Schulgelder und die Gebühren ganz oder teilweise erlassen.
-
-[^23-1]: SAR [400.300](https://gesetzessammlungen.ag.ch/data/400.300/de)
-[^23-2]: SAR [400.562](https://gesetzessammlungen.ag.ch/data/400.562/de)
 
 ### 2.5. Aufgabenbereiche des Departements Finanzen und Ressourcen (DFR)
 
