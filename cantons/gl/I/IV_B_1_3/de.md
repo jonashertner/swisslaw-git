@@ -2,24 +2,23 @@
 canton: GL
 number: IV B/1/3
 title: Gesetz über Schule und Bildung
-short: Bildungsgesetz
+short: "Bildungsgesetz, BiG"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
+version: 2026-08-01
 version_adopted: 2025-05-04
 adopted: 2001-05-06
 in_force: 2002-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2586/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über Schule und Bildung
 
-(Bildungsgesetz)
+(Bildungsgesetz, BiG)
 
-Vom 06.05.2001 (Stand 01.01.2026)
+Vom 06.05.2001 (Stand 01.08.2026)
 
 Erlassen von der Landsgemeinde am 6. Mai 2001
 
@@ -127,9 +126,9 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>1</sup> Der Besuch der öffentlichen Schulen, die Abgabe von Lehr- und Unterrichtsmitteln sowie des allgemeinen Schulmaterials ist für Kantonseinwohner unentgeltlich, soweit das Gesetz nichts anderes bestimmt.
 
-<sup>2</sup> Während der obligatorischen Schulzeit können die Schulträger für Arbeiten, welche mit hohen Materialkosten verbunden sind sowie für Exkursionen, Schulverlegungen, Schulreisen und Projekte von den Erziehungsberechtigten einen Beitrag verlangen.
+<sup>2</sup> Während der obligatorischen Schulzeit können die Schulträger für Exkursionen, Schulverlegungen, Schulreisen und Projekte von den Erziehungsberechtigten einen Beitrag verlangen.
 
-<sup>3</sup> Im Freiwilligen Schulischen Zusatzangebot sowie in der Sekundarstufe II haben die Lernenden bzw. die Erziehungsberechtigten für die Lehr- und Unterrichtsmittel, für das allgemeine Schulmaterial und für spezielles Material selber aufzukommen. An Fachexkursionen, Schulverlegungen und Projekten haben sich die Lernenden bzw. die Erziehungsberechtigten angemessen zu beteiligen; die zuständige Behörde legt die Einzelheiten fest.
+<sup>3</sup> Im Brückenangebot sowie in der Sekundarstufe II haben die Lernenden bzw. die Erziehungsberechtigten für die Lehr- und Unterrichtsmittel, für das allgemeine Schulmaterial und für spezielles Material selber aufzukommen. An Fachexkursionen, Schulverlegungen und Projekten haben sich die Lernenden bzw. die Erziehungsberechtigten angemessen zu beteiligen; die zuständige Behörde legt die Einzelheiten fest.
 
 <sup>4</sup> In Härtefällen kann die zuständige Behörde die Kosten gemäss den Absätzen 2 und 3 reduzieren oder erlassen.
 
@@ -146,8 +145,8 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
   - 2\. Primarstufe
   - 3\. Sekundarstufe I: Oberschule, Realschule, Sekundarschule, Unterstufe und erster Teil Mittelstufe Gymnasium
   - 4\. Sonderschulen
-- b. Freiwilliges Schulisches Zusatzangebot (Brückenangebot)
-- c. Sekundarstufe II: Fachmittelschule, Zweiter Teil Mittel- und Oberstufe Gymnasium, Berufsfachschulen
+- b. Brückenangebot
+- c. Sekundarstufe II: Fachmittelschule, zweiter Teil Mittel- und Oberstufe Gymnasium, Berufsfachschulen
 
 <sup>2</sup> Jeder Schultyp kann in ein- oder mehrklassigen Abteilungen geführt werden. Ober-, Real- und Sekundarschule können mit Bewilligung des Departements organisatorisch eng verknüpft oder zu einem Schultyp im Sinne der kooperativen oder integrativen Schulstruktur verbunden werden.
 
@@ -254,17 +253,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 [^25-1]: GS [IV B/31/1](https://gesetze.gl.ch/data/IV-B.31.1/de)
 
-#### Art. 26
-
-**Freiwilliges Schulisches Zusatzangebot**
-
-<sup>1</sup> Der Kanton führt zur Ergänzung der in der obligatorischen Schulzeit erworbenen Kenntnisse und Fähigkeiten ein Brückenangebot. Es richtet sich an Jugendliche mit individuellen Bildungsdefiziten, dient der Festigung der Berufsreife sowie der Integration und erleichtert damit den Einstieg in Erwerbsleben oder in eine Berufsausbildung. Der Kanton kann die Führung von Teilbereichen Dritten übertragen.
-
-<sup>2</sup> Der Landrat regelt das Weitere auf Stufe Verordnung[^26-1].
-
-[^26-1]: GS [IV B/50/1](https://gesetze.gl.ch/data/IV-B.50.1/de)
-
-#### Art. 27–31
+#### Art. 26–31
 
 **…**
 
@@ -274,9 +263,11 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>1</sup> Zur Vermittlung einer umfassenden Allgemeinbildung und als Vorbereitung auf das Studium an einer Hochschule, Universität oder einer Fachhochschule führt der Kanton eine Kantonsschule. Die Kantonsschule ist unterteilt in eine Fachmittelschule und in ein Gymnasium.
 
-<sup>2</sup> Die Kantonsschule wird von der Schulleitung geführt und steht unter der Aufsicht des Kantonsschulrats. Der Landrat regelt die Grundzüge der Organisation sowie der Aufsicht.
+<sup>2</sup> Der Landrat regelt die Grundzüge der Organisation sowie der Aufsicht[^32-1].
 
 <sup>3</sup> …
+
+[^32-1]: GS [IV B/1/4](https://gesetze.gl.ch/data/IV-B.1.4/de)
 
 #### Art. 33–35
 
@@ -332,7 +323,9 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>1</sup> Kinder, die bis zum 31. Juli das vierte Altersjahr erfüllt haben, werden auf Beginn des folgenden Schuljahres schulpflichtig.
 
-<sup>2</sup> Die Schulkommission kann auf Gesuch der Erziehungsberechtigten im Einzelfall über den Beginn der Schulpflicht abweichend entscheiden. Das Weitere bestimmt die landrätliche Schulverordnung.
+<sup>2</sup> Die Hauptschulleitung kann auf Gesuch der Erziehungsberechtigten im Einzelfall über den Beginn der Schulpflicht abweichend entscheiden. Das Weitere bestimmt die Volksschulverordnung[^43-1].
+
+[^43-1]: GS [IV B/31/1](https://gesetze.gl.ch/data/IV-B.31.1/de)
 
 #### Art. 44
 
@@ -340,7 +333,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>1</sup> Die obligatorische Schulpflicht dauert elf Jahre. Das Schulbesuchsrecht dauert bis zum ordentlichen Abschluss der Sekundarstufe I, auch wenn die Lernenden damit mehr als elf Schuljahre absolvieren.
 
-<sup>2</sup> In begründeten Ausnahmefällen kann die Schulkommission auf schriftliches Gesuch der Erziehungsberechtigten Lernende nach dem Absolvieren von zehn Schuljahren aus der Schulpflicht entlassen.
+<sup>2</sup> In begründeten Ausnahmefällen kann die Hauptschulleitung auf schriftliches Gesuch der Erziehungsberechtigten Lernende nach dem Absolvieren von zehn Schuljahren aus der Schulpflicht entlassen.
 
 #### Art. 45
 
@@ -350,9 +343,11 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>2</sup> Disziplinarische Anordnungen im Rahmen des Unterrichtsbetriebes treffen die Lehrpersonen nach pflichtgemässem Ermessen. Weitergehende Massnahmen dürfen nur aufgrund eines kantonalen oder kommunalen Erlasses angeordnet werden und fallen unter Vorbehalt von Absatz 3 in die Zuständigkeit der Schulleitung.
 
-<sup>3</sup> Nach erfolgloser schriftlicher Verwarnung kann die Schulkommission Lernende vom Schulbesuch ausschliessen. Bei schweren Verfehlungen ist ein sofortiger Ausschluss möglich.
+<sup>3</sup> Nach erfolgloser schriftlicher Verwarnung durch die Schulleitung kann die Hauptschulleitung, bei kantonalen Schulen die Schulleitung, Lernende vom Schulbesuch definitiv ausschliessen. Bei schweren Verfehlungen ist ein sofortiger Ausschluss ohne vorgängige Verwarnung möglich.
 
-<sup>4</sup> Sind die ausgeschlossenen Lernenden noch schulpflichtig, sorgt die Schulkommission dafür, dass die Schulpflicht an einem geeigneten Ort erfüllt werden kann. Im letzten Jahr der Schulpflicht kann die Schulkommission statt dessen für die Vermittlung einer Arbeitsstelle besorgt sein, wenn dies den Interessen des oder der Lernenden besser entspricht. Die Schulkommission teilt ihre Entscheide dem Departement in jedem Fall mit; den zuständigen Stellen im Sozial-, Kindes- und Erwachsenenschutzwesen jeweils dann, wenn dies angezeigt erscheint.
+<sup>4</sup> Sind die ausgeschlossenen Lernenden noch schulpflichtig, sorgt die Hauptschulleitung dafür, dass die Schulpflicht an einem geeigneten Ort erfüllt werden kann. Im letzten Jahr der Schulpflicht kann die Hauptschulleitung statt dessen für die Vermittlung einer Arbeitsstelle besorgt sein, wenn dies den Interessen des oder der Lernenden besser entspricht. Die Hauptschulleitung teilt ihre Entscheide dem Departement in jedem Fall mit; den zuständigen Stellen im Sozial-, Kindes- und Erwachsenenschutzwesen jeweils dann, wenn dies angezeigt erscheint. Die Schulleitung einer kantonalen Schule meldet den Ausschluss aus ihrer Schule der zuständigen Hauptschulleitung.
+
+<sup>5</sup> Der Landrat kann die Disziplinarmassnahmen gegenüber Lernenden an kantonalen Schulen nach Abschluss der obligatorischen Schulpflicht, die schuldhaft zu Beanstandungen Anlass geben, abweichend regeln.
 
 #### Art. 46
 
@@ -360,7 +355,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>1</sup> Jedes Kind hat grundsätzlich die Schule der Gemeinde zu besuchen, in der es sich dauernd aufhält. Die Schulleitung bestimmt die Zuteilung zu den einzelnen Standorten.
 
-<sup>2</sup> Falls der Schulbetrieb dies zulässt, kann auf Gesuch der Erziehungsberechtigten die Schule an einem anderen Standort besucht werden. Umteilungen, welche für den Schulbesuch oder die Kinderbetreuung wesentliche Erleichterungen ergeben, gehen dabei vor. Für die Bewilligung des Schulbesuchs ausserhalb der Gemeinde ist die Schulkommission der Wohngemeinde zuständig, über die Aufnahme entscheidet die Schulkommission am Standort der Schule. Die Schulkommissionen einigen sich über die Entschädigung der aufnehmenden durch die abgebende Gemeinde.
+<sup>2</sup> Falls der Schulbetrieb dies zulässt, kann auf Gesuch der Erziehungsberechtigten die Schule an einem anderen Standort besucht werden. Umteilungen, welche für den Schulbesuch oder die Kinderbetreuung wesentliche Erleichterungen ergeben, gehen dabei vor. Für die Bewilligung des Schulbesuchs ausserhalb der Gemeinde ist die Hauptschulleitung der Wohngemeinde zuständig, über die Aufnahme entscheidet die Hauptschulleitung am Standort der Schule. Die Hauptschulleitungen einigen sich über die Entschädigung der aufnehmenden durch die abgebende Gemeinde.
 
 <sup>3</sup> Für Kinder, die infolge geografischer Wohnlage die Volksschule einer ausserkantonalen Gemeinde besuchen, trifft das Departement die notwendigen Vereinbarungen; die betroffenen Gemeinden sind anzuhören.
 
@@ -426,7 +421,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>1</sup> Erscheint ein Kind in seinem leiblichen oder geistig-seelischen Wohl gefährdet oder ist es verwahrlost, so sind die Schulorgane verpflichtet, die zu seinem Schutz notwendigen sozialen Vorkehrungen einzuleiten. Die Schulorgane arbeiten dabei mit den gemäss Sozialhilfegesetz[^53-1] zuständigen Stellen zusammen.
 
-<sup>2</sup> Falls dies im Interesse des Kindes angezeigt erscheint, muss die Schulkommission der KESB Meldung erstatten.
+<sup>2</sup> Falls dies im Interesse des Kindes angezeigt erscheint, muss die Hauptschulleitung der KESB Meldung erstatten.
 
 [^53-1]: GS [VIII E/21/3](https://gesetze.gl.ch/data/VIII-E.21.3/de)
 
@@ -484,7 +479,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 **Lehrpersonen**
 
-<sup>1</sup> Sofern das Gesetz nicht ausdrücklich etwas anderes bestimmt, sind unter dem Begriff Lehrpersonen alle Lehrkräfte der Volks- und Sonderschule zu verstehen. Für die Lehrpersonen des Freiwilligen Schulischen Zusatzangebotes, der Kantonsschule und der Berufsfachschulen gelten die Bestimmungen dieses Gesetzes, soweit nicht spezielle Vorschriften anwendbar sind.
+<sup>1</sup> Sofern das Gesetz nicht ausdrücklich etwas anderes bestimmt, sind unter dem Begriff Lehrpersonen alle Lehrpersonen der Volks- und Sonderschule zu verstehen. Für die Lehrpersonen des Brückenangebotes, der Kantonsschule und der Berufsfachschulen gelten die Bestimmungen dieses Gesetzes, soweit nicht spezielle Vorschriften anwendbar sind.
 
 <sup>2</sup> Personen, die an kantonalen Schulen Funktionen der Schulleitung ausüben, unterstehen bezüglich der Unvereinbarkeiten den Bestimmungen für die Kantonsangestellten.
 
@@ -492,7 +487,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 **Anwendbares Recht**
 
-<sup>1</sup> Soweit die Bildungsgesetzgebung keine eigene Regelung enthält, gelten für die Rechtsstellung der Lehrpersonen die Bestimmungen der kantonalen Personalgesetzgebung sinngemäss.
+<sup>1</sup> Soweit die Bildungsgesetzgebung keine eigene Regelung enthält, gelten für die Rechtsstellung der Lehrpersonen die Bestimmungen der jeweiligen Anstellungsinstanz.
 
 #### Art. 59
 
@@ -518,7 +513,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 **Berufsauftrag**
 
-<sup>1</sup> Lehrpersonen leisten ihre Arbeit im Rahmen eines durch das Departement nach Anhörung der Gemeinden festgelegten und vom Regierungsrat genehmigten Berufsauftrages. Darin sind ihre Aufgaben, Rechte und Pflichten umschrieben, insbesondere Planung, Vorbereitung und Durchführung des Unterrichts, Beratung, Weiterbildung, Gesamtarbeitszeit sowie Mitwirkung an gemeinschaftlichen Aufgaben und an der Beurteilung gemäss Artikel 73.
+<sup>1</sup> Lehrpersonen leisten ihre Arbeit im Rahmen eines durch das Departement nach Anhörung der Gemeinden festgelegten und vom Regierungsrat genehmigten Berufsauftrages. Darin sind ihre Aufgaben, Rechte und Pflichten umschrieben, insbesondere Planung, Vorbereitung und Durchführung des Unterrichts, Beratung, Weiterbildung, Jahresarbeitszeit sowie Mitwirkung an gemeinschaftlichen Aufgaben und an der Beurteilung gemäss Artikel 73.
 
 #### Art. 62
 
@@ -528,43 +523,37 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>2</sup> Die Besetzung von Lehrstellen mit nicht stufengemäss ausgebildeten Lehrpersonen bedarf der Bewilligung des Departements. Diese Anstellungen sind in der Regel zu befristen.
 
-<sup>3</sup> Vorbehalten bleiben allfällige Spezialbestimmungen in den Erlassen über das Freiwillige Schulische Zusatzangebot und über die Berufsschulen.
+<sup>3</sup> …
 
 #### Art. 63
 
-**Anstellung; Teilzeitpensen**
+**Anstellung der Lehrpersonen an kantonalen Schulen; Teilzeitpensen**
 
 <sup>1</sup> Die Anstellung der Lehrpersonen ist öffentlich-rechtlich und grundsätzlich unbefristet. Befristete Anstellungen erfolgen, wo es Gesetz oder Verordnungen vorschreiben. Im Übrigen können befristete Anstellungen vorgenommen werden, wenn dafür ein besonderer Bedarf besteht.
 
-<sup>2</sup> …
-
-<sup>3</sup> Das Anstellungsverhältnis wird durch einen schriftlichen Vertrag begründet.
+<sup>2–3</sup> …
 
 #### Art. 64
 
 **Anstellungsinstanzen**
 
-<sup>1</sup> Die Lehrpersonen der Volksschule werden durch die Schulkommission auf Antrag der Schulleitung angestellt.
+<sup>1</sup> Die Lehrpersonen der Volksschule werden durch die Hauptschulleitung auf Antrag der Schulleitung angestellt.
 
 <sup>2</sup> Die Zuständigkeiten bei der Anstellung der Lehrpersonen kantonaler Schulen richten sich nach den betreffenden Spezialvorschriften.
 
 #### Art. 65
 
-**Ausschreibung**
-
-<sup>1</sup> Zu besetzende Stellen sind öffentlich auszuschreiben.
-
-<sup>2</sup> Die Schulträgerschaften regeln die Ausnahmen von der Ausschreibungspflicht.
+**…**
 
 #### Art. 66
 
-**Kündigung**
+**Kündigung der Lehrpersonen an kantonalen Schulen**
 
 <sup>1</sup> Das unbefristete Anstellungsverhältnis kann beidseitig gekündigt werden.
 
-<sup>2</sup> Kündigungen können nur auf Ende eines Semesters erfolgen. Sie sind schriftlich bis 31. März bzw. 31. Oktober mitzuteilen. Kündigungen seitens der Ausstellungsinstanz sind zu begründen.
+<sup>2</sup> Kündigungen können nur auf Ende eines Semesters erfolgen. Sie sind schriftlich bis 31. März bzw. 31. Oktober mitzuteilen. Kündigungen seitens der Anstellungsinstanz sind zu begründen.
 
-<sup>3</sup> Teilen Lehrpersonen ein Vollpensum, hat die Kündigung auf Ende eines Semesters bis 28. Februar bzw. bis 30. September zu erfolgen. Kündigt eine der beiden Lehrkräfte, so kann die Anstellungsinstanz das Dienstverhältnis der anderen Lehrkraft ebenfalls auflösen. Für diese Kündigungen gelten die Fristen gemäss Absatz 2.
+<sup>3</sup> Teilen Lehrpersonen ein Vollpensum, hat die Kündigung auf Ende eines Semesters bis 28. Februar bzw. bis 30. September zu erfolgen. Kündigt eine der beiden Lehrpersonen, so kann die Anstellungsinstanz das Dienstverhältnis der anderen Lehrperson ebenfalls auflösen. Für diese Kündigungen gelten die Fristen gemäss Absatz 2.
 
 #### Art. 67–70
 
@@ -572,7 +561,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 #### Art. 71
 
-**Mutterschaftsurlaub**
+**Mutterschaftsurlaub der Lehrerinnen an kantonalen Schulen**
 
 <sup>1</sup> Fallen bei einer Lehrerin die ganzen Sommerferien in die Zeit des Mutterschaftsurlaubs, sind damit nicht sechs, sondern vier Wochen des Urlaubs abgegolten.
 
@@ -581,6 +570,8 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 **Weiterbildung**
 
 <sup>1</sup> Der Kanton sorgt für ein Grundangebot im Bereich der Weiterbildung der Volksschullehrpersonen.
+
+<sup>1a</sup> Lehrpersonen kantonaler Schulen haben nach langjähriger Berufstätigkeit Anspruch auf eine Intensivweiterbildung. Der Regierungsrat regelt das Weitere.
 
 <sup>2</sup> Das Departement regelt Art, Umfang und Finanzierung des Grundangebots.
 
@@ -606,29 +597,21 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 [^74-1]: GS [II C/1/1](https://gesetze.gl.ch/data/II-C.1.1/de)
 
-#### Art. 75
-
-**Lohnfortzahlung**
-
-<sup>1–3</sup> …
-
-<sup>4</sup> Die Gemeinden können bezüglich der Lohnfortzahlung für ihre Lehrpersonen abweichende Bestimmungen erlassen.
-
-#### Art. 76
+#### Art. 75–76
 
 **…**
 
 #### Art. 77
 
-**Mitspracherecht in der Schulkommission**
+**Mitspracherecht in der Bildungskommission**
 
-<sup>1</sup> Eine von den Lehrpersonen gewählte Vertretung sowie eine Vertretung der Schulleitung wohnen den Sitzungen der Schulkommission mit beratender Stimme bei.
+<sup>1</sup> Eine von den Lehrpersonen gewählte Vertretung, die Hauptschulleitung sowie im Bedarfsfall eine oder mehrere Schulleitungen wohnen den Sitzungen der Bildungskommission mit beratender Stimme bei.
 
-<sup>2</sup> Die Lehrpersonenvertretung hat bei der Beratung und Abstimmung über Fragen, die das persönliche Interesse aller oder einzelner Lehrpersonen betreffen, in den Ausstand zu treten, nachdem ihr vorher Gelegenheit geboten wurde, sich zu äussern. Für die Schulleitungsvertretung gilt die Ausstandspflicht bei Fragen, die ihr persönliches Interesse betreffen.
+<sup>2</sup> Die Lehrpersonenvertretung hat bei der Beratung und Abstimmung über Fragen, die das persönliche Interesse aller oder einzelner Lehrpersonen betreffen, in den Ausstand zu treten, nachdem ihr vorher Gelegenheit geboten wurde, sich zu äussern. Für die Haupt- und Schulleitungsvertretung gilt die Ausstandspflicht bei Fragen, die ihr persönliches Interesse betreffen.
 
-<sup>3</sup> Die Vertretung der Lehrpersonen und der Schulleitung sind im Sinne des Gemeindegesetzes bzw. des Personalgesetzes[^77-1] zur Verschwiegenheit verpflichtet.
+<sup>3</sup> Die Vertretung der Lehrpersonen, der Haupt- und Schulleitung sind im Sinne des Gemeindegesetzes[^77-1] bzw. des kommunalen Personalrechts zur Verschwiegenheit verpflichtet.
 
-[^77-1]: GS [II E/2](https://gesetze.gl.ch/data/II-E.2/de) bzw. [II A/6/1](https://gesetze.gl.ch/data/II-A.6.1/de)
+[^77-1]: GS [II E/2](https://gesetze.gl.ch/data/II-E.2/de)
 
 #### Art. 78
 
@@ -656,23 +639,41 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 <sup>4</sup> Es führt eine Abklärungsstelle zur Ermittlung des individuellen Bedarfs bei verstärkten sonderpädagogischen Massnahmen.
 
+#### Art. 80a
+
+**Gemeinderat**
+
+<sup>1</sup> Der Gemeinderat trägt die Verantwortung für die Qualität der Schule, beschliesst auf Antrag der Hauptschulleitung das Schulbudget und wählt die Mitglieder der Bildungskommission. Er ist Anstellungsinstanz der Hauptschulleitung.
+
+<sup>2</sup> Ein zuständiges Mitglied wird als Bildungskommissionspräsidentin oder Bildungskommissionspräsident bestimmt, welche oder welcher sich regelmässig mit dem Departement austauscht.
+
 #### Art. 81
 
-**Schulkommission**
+**Bildungskommission**
 
-<sup>1</sup> Die Schulkommission ist zuständig für die strategische Führung und die Aufsicht über die Schule in der Gemeinde. Sie erfüllt die ihr durch dieses Gesetz und seine kantonalen und kommunalen Ausführungsbestimmungen übertragenen Aufgaben.
+<sup>1</sup> Die Bildungskommission ist dem Gemeinderat zugeordnet und zuständig für die strategische Führung der Schule in der Gemeinde. Sie berät den Gemeinderat und die Hauptschulleitung und erfüllt die ihr durch dieses Gesetz und seine kantonalen und kommunalen Ausführungsbestimmungen übertragenen Aufgaben.
 
 <sup>2</sup> Sie kann bestimmte Aufgaben anderen Kommissionen oder einer Verwaltungseinheit zuweisen. Entscheidbefugnisse können nur dann delegiert werden, wenn dies vom kantonalen Recht ausdrücklich vorgesehen ist und von der Gemeindeordnung nicht ausgeschlossen wird.
 
-<sup>3</sup> Bei kantonalen Schulen sowie Privatschulen mit öffentlicher Aufgabenerfüllung (Art. 8) tritt die in den entsprechenden Spezialvorschriften bestimmte Behörde an die Stelle der Schulkommission.
+<sup>3</sup> Bei kantonalen Schulen sowie Privatschulen mit öffentlicher Aufgabenerfüllung (Art. 8) tritt die in den entsprechenden Spezialvorschriften bestimmte Behörde an die Stelle der Bildungskommission.
+
+#### Art. 81a
+
+**Hauptschulleitung**
+
+<sup>1</sup> Jede Gemeinde setzt eine Hauptschulleitung ein. Sie erfüllt die ihr durch dieses Gesetz und seine kantonalen und kommunalen Ausführungsbestimmungen übertragenen Aufgaben.
+
+<sup>2</sup> Die Hauptschulleitung ist zuständig für die Entwicklung und Sicherung der Schul- und Unterrichtsqualität in der Gemeinde. Sie nimmt die personelle Führung der Schulleitungen wahr und ist die Anstellungsinstanz für die Lehrpersonen.
+
+<sup>3</sup> Die individuelle Lohneinreihung sowie die weiteren Anstellungsbedingungen richten sich nach dem Personalrecht für die Gemeindeangestellten.
 
 #### Art. 82
 
 **Schulleitung**
 
-<sup>1</sup> Jede Gemeinde setzt eine Schulleitung ein und bestimmt die hauptverantwortliche Schulleitungsperson.
+<sup>1</sup> Jede Gemeinde setzt Schulleitungen ein.
 
-<sup>2</sup> Die Schulleitung ist zuständig für die pädagogische und unmittelbare personelle Führung sowie die Organisation des Schulbetriebs.
+<sup>2</sup> Die Schulleitung ist zuständig für die pädagogische und unmittelbare personelle Führung der Lehrpersonen, das Qualitätsmanagement, die interne Evaluation, die schulinterne Weiterbildung sowie die Organisation des Schulbetriebs.
 
 <sup>3</sup> Die Funktion einer Schulleiterin oder eines Schulleiters wird im Hauptamt ausgeübt. Der Regierungsrat regelt das Weitere, namentlich die Mindestanforderungen an die Ausbildung auf Stufe Verordnung.
 
@@ -700,11 +701,7 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 #### Art. 90
 
-**Didaktisches Zentrum**
-
-<sup>1</sup> Die Gemeinden gewährleisten den Betrieb eines gemeinsamen didaktischen Zentrums.
-
-<sup>2</sup> Es steht insbesondere den Lehrpersonen zur Information in pädagogischen und didaktischen Belangen zur Verfügung.
+**…**
 
 ## 8. Organisation
 
@@ -734,15 +731,13 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 #### Art. 94
 
-**Gesamtarbeitszeit der Lehrpersonen**
+**Jahresarbeitszeit der Lehrpersonen**
 
-<sup>1</sup> Die Gesamtarbeitszeit der Lehrpersonen setzt sich aus der jährlichen (Art. 91 Abs. 3) und der wöchentlichen Unterrichtszeit, der angeordneten Weiterbildung (Art. 72) sowie der unterrichtsfreien Arbeitszeit zusammen. Die Gesamtarbeitszeit wird im Berufsauftrag gemäss Artikel 61 geregelt.
+<sup>1</sup> Die Jahresarbeitszeit der Lehrpersonen setzt sich aus der jährlichen (Art. 91 Abs. 3) und der wöchentlichen Unterrichtszeit, der angeordneten Weiterbildung (Art. 72) sowie der unterrichtsfreien Arbeitszeit zusammen. Die Jahresarbeitszeit wird im Berufsauftrag gemäss Artikel 61 geregelt.
 
-<sup>2</sup> Lehrpersonen mit einem Vollpensum haben bei gleicher Besoldung nach erfülltem 60. Altersjahr Anspruch auf zwei Lektionen Entlastung je Woche.
+<sup>2</sup> Lehrpersonen haben bei gleicher Besoldung Anspruch auf eine Altersentlastung. Der Landrat regelt das Weitere.
 
-<sup>3</sup> Die Entlastung für Lehrpersonen mit einem Teilpensum wird durch den Regierungsrat festgelegt.
-
-<sup>4</sup> Lehrpersonen, die im Genusse der Altersentlastung stehen, sollen keine Überstunden erteilen.
+<sup>3–4</sup> …
 
 #### Art. 95
 
@@ -847,11 +842,13 @@ Erlassen von der Landsgemeinde am 6. Mai 2001
 
 **Beschwerdeinstanzen und Beschwerdefristen**
 
-<sup>1</sup> Gegen Verfügungen von untergeordneten Schulorganen kann bei der Schulkommission Beschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen von untergeordneten Schulorganen kann bei der Hauptschulleitung Beschwerde erhoben werden.
 
-<sup>2</sup> Gegen Verfügungen und Entscheide der kommunalen Schulkommission oder der Gemeindevorsteherschaft kann beim Departement Beschwerde erhoben werden. Die Beschwerdeentscheide des Departements unterliegen der Beschwerde an das Verwaltungsgericht.
+<sup>1a</sup> Gegen Verfügungen der Hauptschulleitung kann beim Gemeinderat Beschwerde erhoben werden.
 
-<sup>3</sup> Gegen Verfügungen des Departements sowie gegen Verfügungen und Entscheide des Kantonsschulrates und von Schulbehörden anderer kantonaler Schulen kann beim Regierungsrat und gegen dessen Beschwerdeentscheide beim Verwaltungsgericht Beschwerde erhoben werden.
+<sup>2</sup> Gegen Verfügungen der Schulleitungen kantonaler Schulen und Beschwerdeentscheide der Hauptschulleitung oder des Gemeinderates kann beim Departement Beschwerde erhoben werden. Die Beschwerdeentscheide des Departements unterliegen der Beschwerde an das Verwaltungsgericht.
+
+<sup>3</sup> Gegen Verfügungen des Departements kann beim Regierungsrat und gegen dessen Beschwerdeentscheide beim Verwaltungsgericht Beschwerde erhoben werden.
 
 <sup>4</sup> …
 
