@@ -3,20 +3,19 @@ canton: SG
 number: "231.12"
 title: Gebührentarif für die Berufsbildung
 language: de
-version: 2024-01-01
-valid_until: 2026-07-31
-version_adopted: 2023-11-21
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 2010-03-09
 in_force: 2010-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/231.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3560/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3921/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif für die Berufsbildung
 
-vom 09.03.2010 (Stand 01.01.2024)
+vom 09.03.2010 (Stand 01.08.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -43,7 +42,7 @@ als Gebührentarif:[^ingress-2]
 
 - a) ergänzend zu den Gebühren nach den Nrn. 1 bis 19, 21 und 22 des Anhangs zu diesem Erlass die tatsächlichen Kosten für:
   - 1\. Lehrmittel;
-  - 1<sup>bis</sup>. Schulmaterial;
+  - 1<sup>bis</sup>. …
   - 2\. Exkursionen;
   - 3\. externe Prüfungen, wie Sprachdiplome;
   - 4\. Sonderveranstaltungen;
