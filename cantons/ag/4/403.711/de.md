@@ -4,13 +4,12 @@ number: "403.711"
 title: Verordnung über die Unfallversicherung von Schülerinnen und Schülern
 short: V Schulunfallversicherung
 language: de
-version: 2022-01-01
-valid_until: 2026-07-31
-version_adopted: 2021-11-24
+version: 2026-08-01
+version_adopted: 2026-02-18
 adopted: 1997-10-22
 in_force: 1998-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/403.711"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3135/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3957/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3135/pdf_file"
 
 (V Schulunfallversicherung)
 
-Vom 22.10.1997 (Stand 01.01.2022)
+Vom 22.10.1997 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 8 des Schulgesetzes vom 17. März 1981[^ingress-1],
+gestützt auf § 39 Abs. 3 des Volksschulgesetzes (VSG) vom 23. September 2025[^ingress-1] sowie § 11 Abs. 3 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^ingress-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
+[^ingress-2]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 #### § 1
 
@@ -53,7 +53,7 @@ beschliesst:
 - c) bei Schulveranstaltungen und -tätigkeiten ausserhalb der Schulgrundstücke auf dem direkten Weg zum Besammlungsort oder zum Ort der Tätigkeit und zurück, während der Zeit, die hierfür normalerweise benötigt wird,
 - d) bei Freistunden (Zwischenstunden) auf dem Schulareal sowie bei Einnahme der Mittagsverpflegung auf demselben oder in einem von der Schule zugewiesenen Lokal,
 - e) während von der Schule organisierten Veranstaltungen (Schulreisen, Klassenlager, Exkursionen, Diplom- und Abschlussreisen, Umzügen, Aufführungen und anderen Betätigungen), die sich im Rahmen von Schulgesetzgebung beziehungsweise Lehrplan halten oder durch die Schulleitung bewilligt werden können und unter Leitung von Lehr- oder anderen von der Schule beauftragten Aufsichtspersonen stattfinden. Bei Umzügen und Aufführungen (inklusive Proben) im Rahmen von Festen gilt die Versicherung nur, wenn die Schule daran offiziell beteiligt ist,
-- f) anlässlich der Konsultation der Schuldienste (Jugendpsychologischer und -psychiatrischer Dienst, Schul-, Berufs- und Laufbahnberatung, Schulärztin beziehungsweise -arzt, Schulzahnpflege)
+- f) anlässlich der Konsultation der Schuldienste (Kinder- und jugendpsychiatrische Dienstleistungen, Schulpsychologischer und Jugendpsychologischer Dienst, Beratungsangebote für Ausbildung und Beruf, Schulsozialarbeit, Schulärztlicher Dienst, Schulzahnpflege).
 
 <sup>2</sup> Zusätzlich in Heimen zu versichern sind Unfälle
 
