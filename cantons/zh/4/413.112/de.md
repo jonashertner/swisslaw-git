@@ -4,23 +4,22 @@ number: "413.112"
 title: Mittel- und Berufsschullehrpersonenvollzugsverordnung (MBVVO)
 short: MBVVO
 language: de
-version: "2024-01-01"
-nachtrag: "124"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "133"
 adopted: 1999-05-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-124.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Mittel- und Berufsschullehrervollzugsverordnung (MBVVO)
+# Mittel- und Berufsschullehrpersonenvollzugsverordnung (MBVVO)
 
 (vom 26. Mai 1999)[^t-2][^t-1]
 
 Der Regierungsrat beschliesst:
 
-[^t-1]: Fassung gemäss RRB vom 5. Mai 2010 (OS 65, 890; ABl 2010, 2623). In Kraft seit 1. Januar 2011.
+[^t-1]: Fassung gemäss RRB vom 25. August 2021 (OS 77, 102; ABl 2021-09-03). In Kraft seit 1. August 2026.
 [^t-2]: OS 55, 327.
 
 ### I. Allgemeine Bestimmungen
@@ -35,7 +34,7 @@ Der Regierungsrat beschliesst:
 
 § 3.[^hIAllgemeineBestim-5]
 
-[^hIAllgemeineBestim-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^hIAllgemeineBestim-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 [^hIAllgemeineBestim-2]: LS 177.10.
 [^hIAllgemeineBestim-3]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 [^hIAllgemeineBestim-4]: LS 177.111.
@@ -55,7 +54,7 @@ Die Bildungsdirektion setzt für jede Schule einen Stellenplan für die Schullei
 
 - b. Gewährung der Zulagen gemäss §§ 13 und 14 MBVO[^4-2].
 
-[^4-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^4-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 [^4-2]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 
 #### § 6
@@ -85,7 +84,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 **1**
 
-- 1\. 4. 24 - 124
+- 1\. 7. 26 - 133
 
 ### III. Lohn
 
@@ -127,7 +126,7 @@ Praktika an den Schulen zur Erlangung des Diploms für das Höhere Lehramt werde
 
 § 13 a.[^11-4] Das Mittelschul- und Berufsbildungsamt ist zuständig für die Bewilligung der Lohnfortzahlung gemäss § 99 Abs. 4 VVO[^11-5].
 
-[^11-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^11-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 [^11-2]: Aufgehoben durch RRB vom 5. Mai 2010 (OS 65, 890; ABl 2010, 2623). In Kraft seit 1. Januar 2011.
 [^11-3]: Fassung gemäss RRB vom 16. März 2022 (OS 77, 402; ABl 2022-03-25). In Kraft seit 1. Oktober 2022.
 [^11-4]: Eingefügt durch RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
@@ -135,27 +134,27 @@ Praktika an den Schulen zur Erlangung des Diploms für das Höhere Lehramt werde
 
 ### IV. Arbeitszeit
 
-#### § 14
-
 **Lektionenverpflichtung**
 
-<sup>1</sup> Im Rahmen ihres Berufsauftrags sind die vollbeschäftigten Lehrpersonen verpflichtet, folgende Lektionen zu erteilen:
+§ 14.[^hIVArbeitszeit-1] <sup>1</sup> Im Rahmen ihres Berufsauftrags sind die vollbeschäftigten Lehrpersonen verpflichtet, folgende Lektionen zu erteilen:
 
-Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
+Anzahl a. an Mittelschulen:
 
-**23 25**
+**23**
 
 - Deutsch, Moderne Fremdsprachen, Alte Sprachen, Mathematik/Angewandte Mathematik, Informatik, Naturwissenschaften, Geschichte/Staatskunde, Geografie, Wirtschaft und Recht sowie alle nicht in einer anderen Kategorie aufgeführten Fächer;
 
-**28 29**
+**25 26**
 
-- Musik (Klassenunterricht), Chor, Orchester; 25
+- Musik (Klassenunterricht), Chor, Orchester;
 
-- Sport (Rhythmik, Ausdruck und Gestaltung), 26 Musik (Individualunterricht), Bildnerisches Gestalten, Handarbeit/Werken, Tastaturschreiben, Textverarbeitung/Bürokommunikation.
+- Sport (Rhythmik, Ausdruck und Gestaltung) Musik (Individualunterricht), Bildnerisches Gestalten, Handarbeit/Werken, Tastaturschreiben, Textverarbeitung/Bürokommunikation.
 
 - b. an Berufsmittelschulen und Kaufmännischen Berufsschulen:
 
-- Deutsch, Moderne Fremdsprachen, Mathe- 25 matik, Informatik, Naturwissenschaften, Geschichte/Staatskunde, Geografie/Wirtschaftsgeografie, Wirtschaft und Recht sowie alle nicht in einer andern Kategorie aufgeführten Fächer.
+**25**
+
+- Deutsch, Moderne Fremdsprachen, Mathematik, Informatik, Naturwissenschaften, Geschichte/Staatskunde, Geografie/Wirtschaftsgeografie, Wirtschaft und Recht sowie alle nicht in einer andern Kategorie aufgeführten Fächer.
 
 - c. an Gewerblich-Industriellen und Kaufmännischen Berufsschulen:
 
@@ -163,24 +162,24 @@ Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
 
 - Berufskundliche Fächer, Technisches Englisch, Allgemeinbildung, Textverarbeitung und Bürokommunikation, Korrespondenz, Turnen und Sport.
 
-<sup>2</sup> Die §§ 116–134 der VVO[^14-2],[^14-3] betreffend die Arbeitszeit sind nicht anwendbar.
+<sup>2</sup> §§ 116–134 VVO[^hIVArbeitszeit-2] betreffend die Arbeitszeit sind nicht anwendbar.
 
 **Pensenreduktion**
 
-§ 15.[^14-4] Vollbeschäftigte Lehrpersonen haben auf Beginn des Schuljahres, in dem sie das 57. Altersjahr vollenden, einen Anspruch auf Reduktion der Pflichtlektionenzahl um zwei Lektionen pro Woche ohne Besoldungskürzung. Bei einem Teilpensum erfolgt die Reduktion anteilmässig.
+§ 15.[^hIVArbeitszeit-3] Vollbeschäftigte Lehrpersonen haben auf Beginn des Schuljahres, in dem sie das 57. Altersjahr vollenden, einen Anspruch auf Reduktion der Pflichtlektionenzahl um zwei Lektionen pro Woche ohne Besoldungskürzung. Bei einem Teilpensum erfolgt die Reduktion anteilmässig.
 
 **3**
 
-- 1\. 4. 24 - 124 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
+- 1\. 7. 26 - 133 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^hIVArbeitszeit-4],[^hIVArbeitszeit-2] sind nicht anwendbar.
 
 **Unterricht und Ferien**
 
 <sup>2</sup> Den Lehrpersonen der Lehrwerkstätten steht im Kalenderjahr ein Ferienanspruch von sieben Wochen zu.
 
-[^14-1]: Fassung gemäss RRB vom 7. Juni 2016 (OS 72, 386; ABl 2016-06-24). In Kraft seit 1. August 2018.
-[^14-2]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
-[^14-3]: LS 177.111.
-[^14-4]: Fassung gemäss RRB vom 29. Januar 2003 (OS 58, 19). In Kraft seit Beginn des Schuljahres 2003/2004.
+[^hIVArbeitszeit-1]: Fassung gemäss RRB vom 25. August 2021 (OS 77, 102; ABl 2021-09-03). In Kraft seit 1. August 2026.
+[^hIVArbeitszeit-2]: LS 177.111.
+[^hIVArbeitszeit-3]: Fassung gemäss RRB vom 29. Januar 2003 (OS 58, 19). In Kraft seit Beginn des Schuljahres 2003/2004.
+[^hIVArbeitszeit-4]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 
 #### § 17
 
@@ -199,7 +198,7 @@ Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
 § 18. Die Schulleitung kann einer unbefristet angestellten Lehrperson mit einem Teilpensum mit deren Einwilligung jeweils auf Semesterbeginn Zusatzlektionen bis zum vollen Pensum des betreffenden Faches zuteilen.
 
 [^17-1]: Eingefügt durch RRB vom 7. Juni 2016 (OS 72, 386; ABl 2016-06-24). In Kraft seit 1. August 2017.
-[^17-2]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^17-2]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 
 #### § 19
 
@@ -223,7 +222,7 @@ Für Stellvertretung kann jede unbefristet angestellte Lehrperson in Anspruch ge
 
 <sup>5</sup> Urlaube gemäss Abs. 3 und 4 werden längstens bis zum Erreichen des 58. Altersjahres gewährt.
 
-[^20-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^20-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 
 #### § 21
 
@@ -233,7 +232,7 @@ Für Stellvertretung kann jede unbefristet angestellte Lehrperson in Anspruch ge
 
 <sup>2</sup> Die Lohnkürzung erfolgt nach Massgabe der tatsächlichen Ausfallwochen gemäss § 9 Abs. 1 der MBVO[^21-1],[^21-2]. Diese entfällt bei entsprechender Belastung der Stundenbuchhaltung.
 
-[^21-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^21-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 [^21-2]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 [^21-3]: LS 177.111.
 
@@ -253,7 +252,7 @@ Die gemäss §§ 85–90 der VVO[^21-1],[^21-3] vorgesehenen Urlaube können nic
 
 [^22-1]: Fassung gemäss RRB vom 10. Januar 2024 (OS 79, 14; ABl 2024-01-19). In Kraft seit 1. Januar 2024.
 [^22-2]: LS 177.111.
-[^22-3]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^22-3]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 
 #### § 24
 
@@ -275,18 +274,18 @@ Zur Erteilung einer Bewilligung sind zuständig:
 
 **5**
 
-- 1\. 4. 24 - 124 § 26. Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausland.
+- 1\. 7. 26 - 133 § 26. Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausland.
 
 **Auslandreisen**
 
-[^24-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^24-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 [^24-2]: Eingefügt durch RRB vom 7. Dezember 2011 (OS 66, 1015; ABl 2011, 3626). In Kraft seit 1. Januar 2012.
 
 ### VI. Schulleitungen
 
 **Lektionenverpflichtung**
 
-§ 27.[^hVISchulleitungen-1] <sup>1</sup> Die Mitglieder der Schulleitungen, die Abteilungsleiterinnen und Abteilungsleiter sowie deren Stellvertretungen erteilen durchschnittlich mindestens folgende Anzahl Normallektionen pro Woche:
+§ 27.[^hVISchulleitungen-1] <sup>1</sup> Die Mitglieder der Schulleitungen, die Abteilungsleiterinnen und Abteilungsleiter sowie deren Stellvertretungen erteilen durchschnittlich mindestens folgende Anzahl Lektionen pro Woche:
 
 **6 10**
 
@@ -306,17 +305,19 @@ Zur Erteilung einer Bewilligung sind zuständig:
 
 - b. bei Funktionen ohne Amtszeit ein Zeitraum von vier Jahren ab Funktionsantritt.
 
-<sup>3</sup> Pro Woche muss mindestens eine Normallektion Unterricht erteilt werden.
+<sup>3</sup> Pro Woche muss mindestens eine Lektion Unterricht erteilt werden.
+
+[^hVISchulleitungen-1]: Fassung gemäss RRB vom 25. August 2021 (OS 77, 102; ABl 2021-09-03). In Kraft seit 1. August 2026.
+
+#### § 28
 
 **Entlastungen**
 
-§ 28.[^hVISchulleitungen-1] <sup>1</sup> Das Mittelschul- und Berufsbildungsamt bewilligt Entlastungen für a. Präsidien der Schulleiterkonferenzen und der Lehrpersonenkonferenz bis zu je vier Normallektionen pro Woche,
+<sup>1</sup> Das Mittelschul- und Berufsbildungsamt bewilligt Entlastungen für[^hVISchulleitungen-1] a. Präsidien der Schulleiterkonferenzen und der Lehrpersonenkonferenz bis zu je vier Lektionen pro Woche,
 
-- b. Vizepräsidien und Aktuariate der Schulleiterkonferenzen und der Lehrpersonenkonferenz bis zu einer Normallektion pro Woche.
+- b. Vizepräsidien und Aktuariate der Schulleiterkonferenzen und der Lehrpersonenkonferenz bis zu einer Lektion pro Woche.
 
 <sup>2</sup> Die Schulkommission bewilligt für besondere Aufgaben in begründeten Fällen Entlastungen nach Bedarf. Verursacht die Entlastung Mehrkosten, entscheidet das Mittelschul- und Berufsbildungsamt.
-
-[^hVISchulleitungen-1]: Fassung gemäss RRB vom 17. Januar 2018 (OS 73, 126; ABl 2018-01-26). In Kraft seit 1. August 2018.
 
 ### VII. Übergangs- und Schlussbestimmungen
 
@@ -338,7 +339,7 @@ Zur Erteilung einer Bewilligung sind zuständig:
 
 Die Bildungsdirektion regelt für die Schuljahre 1999/2000 bis 2001/2002 das Verfahren für die Mitarbeiterbeurteilung.
 
-[^31-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 4. 24 - 124 7
+[^31-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012. 1. 7. 26 - 133 7
 [^31-2]: LS 413.111; heute: Mittelschul- und Berufsschullehrerverordnung (MBVO).
 [^31-3]: Genehmigt am 7. Juni 1999.
 
@@ -357,5 +358,8 @@ Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, blei
 ## Weitere Fussnoten
 
 - [3] LS 177.11.
+- [9] Fassung gemäss RRB vom 5. Mai 2010 (OS 65, 890; ABl 2010, 2623). In Kraft seit 1. Januar 2011.
+- [17] Fassung gemäss RRB vom 7. Juni 2016 (OS 72, 386; ABl 2016-06-24). In Kraft seit 1. August 2018.
+- [18] Fassung gemäss RRB vom 17. Januar 2018 (OS 73, 126; ABl 2018-01-26). In Kraft seit 1. August 2018.
 - [19] Eingefügt durch RRB vom 31. März 2021 (OS 76, 168; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
 - [21] Fassung gemäss RRB vom 31. August 2022 (OS 77, 467; ABl 2022-09-09). In Kraft seit 1. Juli 2022.
