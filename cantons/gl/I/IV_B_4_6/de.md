@@ -4,13 +4,12 @@ number: IV B/4/6
 title: Reglement über den Bildungsgang Sportschule der Kantonsschule Glarus
 short: "Sportschulreglement, RSpSch"
 language: de
-version: 2020-08-01
-valid_until: 2026-07-31
-version_adopted: 2020-06-12
+version: 2026-08-01
+version_adopted: 2026-06-11
 adopted: 2020-06-12
 in_force: 2020-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.4.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/2180/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2666/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2180/pdf_file"
 
 (Sportschulreglement, RSpSch)
 
-Vom 12.06.2020 (Stand 01.08.2020)
+Vom 12.06.2020 (Stand 01.08.2026)
 
 Der Kantonsschulrat,
 
@@ -80,32 +79,11 @@ erlässt:
 
 <sup>2</sup> Der Übertritt aus der Sportschule an eine Regelschule kann auf Quartalsbeginn erfolgen.
 
-## 3. Disziplinarrecht
+## 3.
 
-#### Art. 7
+#### Art. 7–9
 
-**Disziplinarmassnahmen**
-
-<sup>1</sup> Verstösse gegen Vorschriften der Schule können insbesondere durch folgende Massnahmen geahndet werden:
-
-- a. Arbeit im Dienste der Schule;
-- b. Nachsitzen;
-- c. Ermahnung oder Verweis durch die Schulleitung;
-- d. vorübergehender Ausschluss vom Unterricht.
-
-#### Art. 8
-
-**Ausschluss**
-
-<sup>1</sup> Nach erfolgter schriftlicher Verwarnung kann die Schulleitung Lernende aus disziplinarischen Gründen, aufgrund mangelnder Leistungsbereitschaft, bei Nachweis der unerlaubten Einnahme von Suchtmitteln oder bei ausstehendem Elternbeitrag von der Schule weisen.
-
-<sup>2</sup> Bei schweren Verfehlungen können Lernende ohne vorgängige Verwarnung ausgeschlossen werden.
-
-#### Art. 9
-
-**Absenzenwesen**
-
-<sup>1</sup> Das Absenzenwesen richtet sich nach der Weisung der Schulleitung.
+**…**
 
 ## 4. Promotion
 
