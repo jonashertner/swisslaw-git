@@ -4,13 +4,12 @@ number: "415.11"
 title: Sportförderungs- und Sportfondsverordnung
 short: SSV
 language: de
-version: 2025-06-01
-valid_until: 2026-07-31
-version_adopted: 2025-04-08
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 2012-05-15
 in_force: 2012-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/415.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2896/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3032/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ SSV
 
 (SSV)
 
-vom 15.05.2012 (Stand 01.06.2025)
+vom 15.05.2012 (Stand 01.08.2026)
 
 ## 1. Grundsätze
 
@@ -43,42 +42,63 @@ vom 15.05.2012 (Stand 01.06.2025)
 
 ## 2. Sportfonds
 
-#### § 3
+#### § 3–4
 
 **…**
 
-#### § 4
+#### § 4a
 
-**Förderbeiträge**
+**Förderbereiche**
 
-<sup>1</sup> Beiträge aus dem Sportfonds an sport- und bewegungsfördernde Vorhaben werden insbesondere ausgerichtet als:
+<sup>1</sup> Der Kanton richtet Beiträge aus dem Sportfonds in folgenden Förderbereichen aus:
 
-- 1\. Erfolgsbeiträge für die Teilnahme an einer internationalen Meisterschaft und im Elitemannschaftssport für Meistertitel, Cupsiege sowie Aufstiege in die beiden höchsten Ligen
-- 2\. Projektbeiträge zur Förderung von Leistungssportlerinnen und Leistungssportlern nach Massgabe der Bedeutung des Projekts, der Qualifikation der Trainerinnen und Trainer sowie der Anzahl Swiss Olympic Cards
-- 3\. Beiträge für Grossanlässe nach Massgabe ihrer Bedeutung, Grösse und Dauer sowie ihres Aufwandes
-- 4\. Beiträge an grössere Materialanschaffungen
-- 5\. Beiträge an Bauten und Anlagen nach Massgabe ihrer überregionalen Bedeutung gemäss kantonalem Richtplan und kantonalem Sportanlagenkonzept (KASAK)
-- 6\. zusätzliche Förderung von Vereinen mit nationalen Kaderathletinnen und Kaderathleten sowie mit Mannschaften aus den beiden höchsten Ligen
-- 7\. …
+- 1\. Breitensport
+- 2\. Schulsport
+- 3\. Nachwuchsförderung
+- 4\. Leistungssport
 
-<sup>2</sup> …
+#### § 4b
+
+**Breitensport**
+
+<sup>1</sup> Der Förderbereich Breitensport umfasst Massnahmen zur Förderung von Bewegung und Sport in der breiten Bevölkerung. Er beinhaltet insbesondere Beiträge an:
+
+- 1\. Kantonale Sportverbände und deren Grundtätigkeit
+- 2\. Struktur- und Vereinsentwicklungsprojekte
+- 3\. Sportveranstaltungen und Jubiläen
+- 4\. Schnupperangebote und niederschwellige Sportangebote
+- 5\. Materialanschaffungen sowie Sportbauten und frei zugängliche Sportanlagen
+- 6\. Innovative Projekte mit breiter Bewegungswirkung
+
+#### § 4c
+
+**Schulsport**
+
+<sup>1</sup> Der Förderbereich Schulsport umfasst Massnahmen zur Stärkung von Bewegung und Sport im schulischen Umfeld. Er beinhaltet insbesondere Beiträge an den freiwilligen Schulsport.
+
+#### § 4d
+
+**Nachwuchsförderung**
+
+<sup>1</sup> Der Förderbereich Nachwuchsförderung umfasst Massnahmen zur sportlichen Entwicklung von Kindern, Jugendlichen und jungen Erwachsenen. Er beinhaltet insbesondere Beiträge an:
+
+- 1\. Nachwuchs- und Talentförderung
+- 2\. Leistungsorientierte Projekte
+- 3\. Sportschulen
+
+#### § 4e
+
+**Leistungssport**
+
+<sup>1</sup> Der Förderbereich Leistungssport umfasst Massnahmen zur Förderung des leistungsorientierten Sports. Er beinhaltet insbesondere Beiträge an:
+
+- 1\. Athletinnen und Athleten mit bestimmter Leistungsanerkennung
+- 2\. Mannschaften in den obersten nationalen Ligen
+- 3\. Erfolgsbeiträge für besondere sportliche Leistungen
 
 #### § 5
 
-**Verbandsbeiträge**
-
-<sup>1</sup> Den kantonalen Sportverbänden werden jährlich Beiträge ausgerichtet. Sie betragen gesamthaft in der Regel einen Drittel des Jahresanteils des Sportfonds.
-
-<sup>2</sup> In Ausnahmefällen können Beiträge an Regionalverbände gewährt werden.
-
-<sup>3</sup> Die Verbandsbeiträge sind für den Trainings- und Wettkampfbetrieb, für Aus- und Weiterbildungen und Materialanschaffungen zu verwenden.
-
-<sup>4</sup> Sie werden jährlich festgesetzt. Massgebend sind folgende Kriterien:
-
-- 1\. Bedeutung der Sportart für den Kanton
-- 2\. Einstufung der Sportart bei Swiss Olympic
-- 3\. Anzahl der zugehörigen Vereine
-- 4\. Höhe der Auszahlungen von Jugend und Sport (J+S)
+**…**
 
 #### § 5a
 
@@ -106,7 +126,7 @@ vom 15.05.2012 (Stand 01.06.2025)
 
 <sup>2</sup> Das Departement für Erziehung und Kultur entscheidet über Beiträge bis zu einer Höhe von Fr. 40'000.
 
-<sup>3</sup> Das Sportamt entscheidet über Beiträge bis zu einer Höhe von Fr. 20'000 und spricht die jährlichen Verbandsbeiträge gemäss § 5 zu.
+<sup>3</sup> Das Sportamt entscheidet über Beiträge bis zu einer Höhe von Fr. 20'000 und spricht die jährlichen Verbandsbeiträge zu.
 
 [^6-1]: RB [935.1](https://www.rechtsbuch.tg.ch/data/935.1/de)
 
@@ -138,7 +158,15 @@ vom 15.05.2012 (Stand 01.06.2025)
 
 **Sportkommission**
 
-<sup>1</sup> Die Sportkommission besteht aus höchstens 13 Mitgliedern. Ihr gehören namentlich an: die Chefin oder der Chef des Departementes für Erziehung und Kultur, je eine Vertretung des Verbandes Thurgauer Gemeinden, des Verbandes Thurgauer Schulgemeinden, der Vereinigung Thurgauer Sportverbände, des Vereins sportunterrichtender Lehrpersonen und der Sportstiftung Thurgau sowie die Vertreterinnen oder Vertreter der Sportverbände.
+<sup>1</sup> Die Sportkommission besteht aus höchstens 13 Mitgliedern. Ihr gehören namentlich an:
+
+- 1\. die Chefin oder der Chef des Departementes für Erziehung und Kultur
+- 2\. eine Vertretung des Verbandes Thurgauer Gemeinden
+- 3\. eine Vertretung des Verbandes Thurgauer Schulgemeinden
+- 4\. eine Vertretung von Sport Thurgau
+- 5\. eine Vertretung des Vereins sportunterrichtender Lehrpersonen
+- 6\. eine Vertretung der Sportstiftung Thurgau
+- 7\. Vertreterinnen oder Vertreter der Sportverbände
 
 <sup>2</sup> Den Vorsitz hat die Chefin oder der Chef des Departementes für Erziehung und Kultur.
 
