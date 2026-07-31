@@ -3,22 +3,21 @@ canton: SO
 number: "414.472"
 title: Reglement über die gymnasialen Maturitätsprüfungen
 language: de
-version: 2022-04-01
-valid_until: 2026-07-31
-version_adopted: 2022-03-15
+version: 2026-08-01
+version_adopted: 2026-04-03
 adopted: 2013-07-01
 in_force: 2013-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.472"
-pdf: "https://bgs.so.ch/api/de/versions/5181/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5626/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die gymnasialen Maturitätsprüfungen
 
-Vom 01.07.2013 (Stand 01.04.2022)
+Vom 01.07.2013 (Stand 01.08.2026)
 
-Das Departement für Bildung und Kultur des Kantons Solothurn
+Das Departement für Bildung, Kultur und Sport des Kantons Solothurn
 
 gestützt auf § 10 des Mittelschulgesetzes vom 29. Juni 2005[^ingress-1]
 
@@ -42,11 +41,29 @@ erlässt:
 
 <sup>2</sup> …
 
+#### § 2bis
+
+**Anmeldepflicht**
+
+<sup>1</sup> Der Schüler oder die Schülerin meldet sich bis spätestens Ende des ersten Semesters des Maturitätsjahres für die Maturitätsprüfung an.
+
+#### § 2ter
+
+**Erhebung der Prüfungsgebühr**
+
+<sup>1</sup> Der Schüler oder die Schülerin entrichtet nach der Anmeldung zur Maturitätsprüfung die Prüfungsgebühr. Die Gebühr richtet sich nach dem Gebührentarif vom 8. März 2016[^2ter-1].
+
+<sup>2</sup> Bei Fernbleiben oder Prüfungsabbruch ohne wichtigen Grund besteht kein Anspruch auf Rückerstattung der Prüfungsgebühr; eine Anrechnung für eine spätere Prüfung ist ausgeschlossen.
+
+<sup>3</sup> Für die Wiederholung der Maturitätsprüfung ist die Prüfungsgebühr erneut zu entrichten.
+
+[^2ter-1]: BGS [615.11](https://bgs.so.ch/data/615.11/de).
+
 #### § 3
 
 **Zulassung**
 
-<sup>1</sup> Zur Maturitätsprüfung wird zugelassen, wer die Schule mindestens während des letzten Jahres besucht und eine Maturaarbeit verfasst hat.
+<sup>1</sup> Zur Maturitätsprüfung werden Schüler und Schülerinnen zugelassen, welche die Schule mindestens während des letzten Jahres besucht, eine Maturitätsarbeit verfasst und die Prüfungsgebühr entrichtet haben.
 
 <sup>2</sup> Wer zweimal eine Maturitätsprüfung nicht bestanden hat, wird zu keiner weiteren Maturitätsprüfung zugelassen.
 
