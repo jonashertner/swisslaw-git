@@ -4,13 +4,12 @@ number: "411.200"
 title: Gesetz über die Anstellung von Lehrpersonen
 short: GAL
 language: de
-version: 2024-07-01
-valid_until: 2026-07-31
-version_adopted: 2023-09-19
+version: 2026-08-01
+version_adopted: 2025-09-23
 adopted: 2002-12-17
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3674/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3946/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3674/pdf_file"
 
 (GAL)
 
-Vom 17.12.2002 (Stand 01.07.2024)
+Vom 17.12.2002 (Stand 01.08.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -33,11 +32,11 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt in Bezug auf das Personalrecht die Grundzüge der Rechtsverhältnisse zwischen dem Kanton, den Gemeinden, den Gemeindeverbänden und den Lehrpersonen an Volksschulen und kantonalen Schulen gemäss Schulgesetz vom 17. März 1981[^1-1] und Gesetz über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^1-2].
+<sup>1</sup> Dieses Gesetz regelt in Bezug auf das Personalrecht die Grundzüge der Rechtsverhältnisse zwischen dem Kanton, den Gemeinden, den Gemeindeverbänden und den Lehrpersonen an Volksschulen und kantonalen Schulen gemäss dem Volksschulgesetz (VSG) vom 23. September 2025[^1-1] und dem Gesetz über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^1-2].
 
 <sup>2</sup> Der Grosse Rat kann den Geltungsbereich dieses Gesetzes auf weitere an Volksschulen und kantonalen Schulen tätige Personen erweitern sowie auf Lehrpersonen an Bildungseinrichtungen ausdehnen, die anderen kantonalen Erlassen unterstehen.
 
-[^1-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^1-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 [^1-2]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
 
 #### § 2
@@ -105,6 +104,24 @@ beschliesst:
 
 <sup>1</sup> Die erstinstanzlichen Entscheide der Anstellungsbehörden und des für das Lohnwesen zuständigen Departements erfolgen unentgeltlich.
 
+#### § 6b
+
+**Datenbearbeitungs- und Informationssysteme**
+
+<sup>1</sup> Das zuständige Departement und die Gemeinden können Datenbearbeitungs- und Informationssysteme mit gemeinsamer Datenhaltung für Anstellungsverhältnisse von Personen im Geltungsbereich dieses Gesetzes sowie für die Ressourcen der Volksschulen betreiben, insbesondere für folgende Zwecke:
+
+- a) Bewirtschaftung der Anstellungen, insbesondere von Anstellungsverträgen, Lohneinstufungen, Abwesenheiten und Stellvertretungen,
+- b) Auszahlung von Löhnen, Lohnnebenleistungen und Weiterbildungsbeiträgen,
+- c) Erhebung beziehungsweise Auszahlung von Beiträgen und Leistungen von Sozialversicherungen sowie der Kranken- und Unfalltaggeldversicherung,
+- d) Wahrnehmung von Meldepflichten und Erhebung von Quellensteuern,
+- e) Planung, Bewirtschaftung und Controlling der Ressourcen der Volksschulen.
+
+<sup>2</sup> Die beteiligten Behörden bearbeiten und geben einander Daten von Personen im Geltungsbereich dieses Gesetzes bekannt, einschliesslich besonders schützenswerter Personendaten, wenn dies zur Aufgabenerfüllung notwendig ist.
+
+<sup>3</sup> Das zuständige Departement trägt die Hauptverantwortung für den Datenschutz.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung, namentlich die Zugriffsrechte der beteiligten Behörden und Mitarbeitenden.
+
 ## 2. Begründung, Entstehung und Beendigung des Anstellungsverhältnisses
 
 #### § 7
@@ -119,9 +136,24 @@ beschliesst:
 
 <sup>1</sup> Voraussetzung für die Anstellung als Lehrperson ist neben der persönlichen Eignung die für die entsprechende Lehrtätigkeit erforderliche fachliche, pädagogische und methodisch-didaktische Qualifikation. Das zuständige Departement kann entsprechende Vorgaben machen.
 
-<sup>2</sup> Lehrpersonen, die auf der Liste über Lehrpersonen ohne Unterrichtsberechtigung gemäss Art. 12<sup>bis</sup> der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993[^8-1] eingetragen sind, dürfen nicht angestellt werden.
+<sup>1<sup>bis</sup></sup> Die Anstellungsbehörden haben bei den Betroffenen vor jeder Anstellung sowohl einen Privatauszug als auch einen Sonderprivatauszug aus dem Strafregister einzufordern. Der Regierungsrat regelt die Einzelheiten sowie die Ausnahmen durch Verordnung.
+
+<sup>2</sup> Lehrpersonen, die wegen eines Sexualdelikts im Zusammenhang mit Minderjährigen oder Abhängigen rechtskräftig verurteilt wurden, dürfen nicht angestellt werden. Dasselbe gilt für Lehrpersonen, die auf der Liste über Lehrpersonen ohne Unterrichtsberechtigung gemäss Art. 12<sup>bis</sup> der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993[^8-1] eingetragen sind.
 
 [^8-1]: SAR [400.700](https://gesetzessammlungen.ag.ch/data/400.700/de)
+
+#### § 8a
+
+**Meldung an die EDK**
+
+<sup>1</sup> Die Anstellungsbehörde meldet dem zuständigen Departement Lehrpersonen, deren persönliche oder fachliche Eignung für das Erteilen eines genügenden Unterrichts in Frage gestellt ist, insbesondere wenn sie
+
+- a) ihre Handlungsfähigkeit verloren haben,
+- b) wegen eines Delikts verurteilt worden sind, das sie nach Art und Schwere der Tat sowie des Verschuldens als nicht mehr vertrauenswürdig erscheinen lässt,
+- c) wiederholt durch ihr Verhalten die Sicherstellung des ordentlichen Schulbetriebs ernsthaft gefährdet haben,
+- d) sonst offensichtlich unfähig sind, genügenden Unterricht zu erteilen.
+
+<sup>2</sup> Das zuständige Departement erlässt eine beschwerdefähige Verfügung, wenn eine Weitermeldung an die Konferenz der kantonalen Erziehungsdirektoren (EDK) gemäss § 8 Abs. 2 notwendig erscheint.
 
 #### § 9
 
@@ -263,6 +295,26 @@ beschliesst:
 
 <sup>2</sup> Die Personalentwicklung fördert nebst den funktionsbezogenen Fähigkeiten und der langfristig flexiblen Einsatzbereitschaft auch die allgemeine Fach-, Selbst- und Sozialkompetenz.
 
+#### § 21a
+
+**Lehrpersonenberatung**
+
+<sup>1</sup> Der Kanton sorgt für ein Beratungsangebot für Lehrpersonen.
+
+<sup>2</sup> Die Lehrpersonenberatung unterstützt Lehrpersonen bei der Prävention und der Bewältigung von Schwierigkeiten, die im Berufsfeld auftreten oder sich darauf auswirken, durch
+
+- a) fach- und unterrichtsbezogene Beratung,
+- b) personenbezogene Beratung und Begleitung,
+- c) Beratung in Konflikt- und Krisensituationen.
+
+<sup>3</sup> Der Regierungsrat
+
+- a) kann die Führung der Lehrpersonenberatung durch Leistungsvertrag einem öffentlichen oder privaten Anbieter übertragen,
+- b) regelt die Einzelheiten durch Verordnung und bestimmt diejenigen Leistungen, die im Sinne eines Grundangebots unentgeltlich sind und
+- c) kann den Bezug von Leistungen begrenzen und für darüberhinausgehende Bezüge eine Kostenpflicht einführen.
+
+<sup>4</sup> Leistungen, die nicht zum Grundangebot gehören, sind zu Vollkosten deckenden Preisen anzubieten.
+
 #### § 22
 
 **Einschränkung von verfassungsmässigen Rechten**
@@ -296,7 +348,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann entsprechend dem Leistungsauftrag eines Schultyps den Berufsauftrag der dort unterrichtenden Lehrpersonen erweitern oder abändern und individuelle Änderungen, Ergänzungen oder spezielle Gewichtungen der vertraglichen Vereinbarung überlassen.
 
-<sup>3</sup> Schulleitungen der Volksschule haben einen besonderen Berufsauftrag. Dieser ergibt sich aus der im Schulgesetz festgelegten Kompetenzordnung und wird durch den Regierungsrat geregelt.
+<sup>3</sup> Schulleitungen der Volksschule haben einen besonderen Berufsauftrag. Dieser ergibt sich aus der im Volksschulgesetz festgelegten Kompetenzordnung und wird durch den Regierungsrat durch Verordnung geregelt.
 
 #### § 25
 
@@ -489,7 +541,7 @@ beschliesst:
 
 <sup>3</sup> Die Verbände sind zur Vertretung ihrer Mitglieder im Rechtsmittelverfahren berechtigt.
 
-## 7. Besondere Bestimmungen zu den Rechtsverhältnissen im Volksschul- und Kindergartenbereich
+## 7. Besondere Bestimmungen zu den Rechtsverhältnissen im Volksschulbereich
 
 #### § 41
 
@@ -543,9 +595,7 @@ beschliesst:
 
 #### § 46
 
-**Lehrpersonen an Kindergärten**
-
-<sup>1</sup> Trifft der Grosse Rat Regelungen über den vorzeitigen Ruhestand im Sinne von § 14 Abs. 2 und 3 dieses Gesetzes auch für die Lehrpersonen an den Kindergärten, beteiligt sich der Kanton angemessen an den entstehenden Kosten. Der Grosse Rat regelt den Umfang.
+**…**
 
 ## 8. Schluss- und Übergangsbestimmungen
 
@@ -557,9 +607,7 @@ beschliesst:
 
 #### § 47a
 
-**Mundartkompetenzen der Kindergartenlehrpersonen**
-
-<sup>1</sup> Laufende Anstellungsverhältnisse von Kindergartenlehrpersonen, die Ende 2018 noch nicht über die erforderlichen Fachkompetenzen für das Unterrichten in Mundart verfügen, sind frist- und termingerecht auf Ende Schuljahr 2018/19 aufzulösen.
+**…**
 
 #### § 48
 
@@ -569,54 +617,11 @@ beschliesst:
 
 #### § 49
 
-**Aufhebung und Anpassung geltenden Rechts**
-
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird das Gesetz über die Festsetzung des Schuljahresbeginns auf den Spätsommer vom 23. Juni 1987[^49-1] aufgehoben.
-
-<sup>2</sup> Das Gesetz über den Finanzhaushalt des Kantons Aargau (Finanzhaushaltsgesetz, FHG) vom 3. Juli 1990[^49-2] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>3</sup> Das Schulgesetz vom 17. März 1981[^49-3] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>4</sup> Das Einführungsgesetz zum Bundesgesetz über die Berufsbildung (EG BBG) vom 8. November 1983[^49-4] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>5</sup> Das Aargauische Fachhochschulgesetz (AFHG) vom 27. Mai 1997[^49-5] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>6</sup> Das Gesetz über die Gewährung von Staatsbeiträgen an die anerkannten gemeinnützigen und öffentlichen aargauischen Erziehungsheime (Erziehungsheimgesetz) vom 6. Oktober 1964[^49-6] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>7</sup> Das Gesetz über die Grundzüge des Personalrechts (Personalgesetz, PersG) vom 16. Mai 2000[^49-7] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-[^49-1]: AGS Bd. 12 S. 523
-[^49-2]: AGS Bd. 14 S. 397; 1997 S. 348; 2002 S. 340; 2003 S. 249 (SAR [611.100](https://gesetzessammlungen.ag.ch/data/611.100/de))
-[^49-3]: AGS Bd. 10 S. 529; Bd. 11 S. 335; Bd. 12 S. 524; Bd. 14 S. 189; 1995 S. 142; 1997 S. 283; 1998 S. 175, 191; 1999 S. 119; 2000 S. 89, 111, 155, 242; 2002 S. 329, 390; 2003 S. 250 (SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de))
-[^49-4]: AGS Bd. 11 S. 357; Bd. 12 S. 525; 1995 S. 140, 146; 1997 S. 106 (SAR [422.100](https://gesetzessammlungen.ag.ch/data/422.100/de))
-[^49-5]: AGS Bd. 1997 S. 273 (SAR [426.100](https://gesetzessammlungen.ag.ch/data/426.100/de))
-[^49-6]: AGS Bd. 6 S. 177; Bd. 11 S. 547; 1995 S. 143 (SAR [428.300](https://gesetzessammlungen.ag.ch/data/428.300/de))
-[^49-7]: AGS 2000 S. 228 (SAR [165.100](https://gesetzessammlungen.ag.ch/data/165.100/de))
+**…**
 
 #### § 50
 
-**Übergangsrecht**
-
-<sup>1</sup> Die bestehenden auf Amtsdauer eingegangenen Dienstverhältnisse werden im Zeitpunkt des Inkrafttretens dieses Gesetzes in Anstellungsverhältnisse nach diesem Gesetz überführt, soweit die zuständige Anstellungsbehörde der betreffenden Lehrperson nicht mindestens 3 Monate vorher schriftlich mitgeteilt hat, dass sie das Anstellungsverhältnis nicht mehr weiterzuführen gedenkt.[^50-1]
-
-<sup>2</sup> Ohne fristgerechte Mitteilung besteht ein Anspruch auf Ausstellung eines unbefristeten Vertrags nach diesem Gesetz, und es gelten die entsprechenden Kündigungsbestimmungen.[^50-2]
-
-<sup>3</sup> Für die im Zeitpunkt des Inkrafttretens der neuen Verfahrenskostenregelung (§ 38a) gerichtlich hängigen Verfahren gelten die bisherigen Bestimmungen.
-
-[^50-1]: Rückwirkende Inkraftsetzung auf den 1. August 2004 durch Regierungsratsbeschluss vom 13. Oktober 2004 (AGS 2004 S. 161).
-[^50-2]: Rückwirkende Inkraftsetzung auf den 1. August 2004 durch Regierungsratsbeschluss vom 13. Oktober 2004 (AGS 2004 S. 161).
+**…**
 
 Aarau, 17. Dezember 2002
 
