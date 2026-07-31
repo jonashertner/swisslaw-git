@@ -4,13 +4,12 @@ number: "422.211"
 title: Verordnung über die Berufs- und Weiterbildung
 short: VBW
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-05-21
+version: 2026-08-01
+version_adopted: 2026-05-13
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3856/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3999/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3856/pdf_file"
 
 (VBW)
 
-Vom 07.11.2007 (Stand 01.01.2026)
+Vom 07.11.2007 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 4 Abs. 3, 5 Abs. 3, 5a Abs. 2, 5b Abs. 2, 9 Abs. 3, 10 Abs. 1, 11 Abs. 3, 16 Abs. 2 und 4, 17b Abs. 2, 18 Abs. 2, 18a Abs. 2, 22 Abs. 3, 23 Abs. 3, 35 Abs. 1, 36 Abs. 3, 37, 40 Abs. 3, 46 Abs. 2, 47 Abs. 2, 48 Abs. 1 und 2, 49 Abs. 5 und 6, 50 Abs. 3, 51 Abs. 2, 52 Abs. 2, 54 Abs. 5, 57 Abs. 3, 58, 60 Abs. 3, 62 Abs. 2 und 63 Abs. 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], § 9 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] sowie die §§ 4 Abs. 3 und 6 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3],
+gestützt auf die §§ 4 Abs. 3, 5 Abs. 3, 5a Abs. 2, 5b Abs. 2, 9 Abs. 3, 10 Abs. 1, 10a Abs. 2, 11 Abs. 3, 16 Abs. 2 und 4, 22 Abs. 3, 23 Abs. 3, 35 Abs. 1, 36 Abs. 3, 37, 40 Abs. 3, 45 Abs. 2, 46 Abs. 2, 47 Abs. 2, 48 Abs. 1 und 2, 49 Abs. 5 und 6, 50 Abs. 3, 51 Abs. 2, 52 Abs. 2, 54 Abs. 5, 57 Abs. 3, 58, 60 Abs. 3, 62 Abs. 2 und 63 Abs. 3 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], § 9 Abs. 1 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] sowie die §§ 4 Abs. 3 und 6 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3],
 
 beschliesst:
 
@@ -157,11 +156,11 @@ beschliesst:
 
 #### § 11
 
-**Anerkennung von Kursen für Berufsbildnerinnen und Berufsbildnern von Anbietenden der Bildung in beruflicher Praxis**
+**Anerkennung von Kursen für Berufsbildnerinnen und Berufsbildner von Anbietenden der Bildung in beruflicher Praxis**
 
-<sup>1</sup> Der Kanton anerkennt Kurse von Institutionen, welche die bundesrechtlichen Vorschriften und den Lehrplan, Ausgabe 2019, der Schweizerischen Berufsbildungsämter-Konferenz (SBBK)[^11-1] erfüllen. Dem Gesuch an die Abteilung Berufsbildung und Mittelschule sind Kursprogramm, Kursinhalte, Kurskalkulation und Qualitätskonzept beizulegen.
+<sup>1</sup> Der Kanton anerkennt Kurse von Institutionen, welche die bundesrechtlichen Vorschriften und den Lehrplan, Ausgabe 2025, der Schweizerischen Berufsbildungsämter-Konferenz (SBBK)[^11-1] erfüllen. Dem Gesuch an die Abteilung Berufsbildung und Mittelschule sind Kursprogramm, Kursinhalte, Kurskalkulation und Qualitätskonzept beizulegen.
 
-[^11-1]: Der Lehrplan ist veröffentlicht unter [www.klbb.berufsbildung.ch](http://www.klbb.berufsbildung.ch). Er kann bei der Abteilung Berufsbildung und Mittelschule des Departements Bildung, Kultur und Sport bezogen werden.
+[^11-1]: Der Lehrplan ist veröffentlicht unter [www.berufsbildung.ch/lehrplan-kurs-40h](https://www.berufsbildung.ch/lehrplan-kurs-40h).
 
 ### 2.2. Schulische Bildung
 
@@ -281,6 +280,8 @@ beschliesst:
 - b) Todesfall in der Familie,
 - c) Erfüllung gesetzlicher Pflichten,
 - d) auswärtige Arbeit, wenn zufolge der Entfernung des Arbeitsorts der Schulbesuch nicht zugemutet werden kann, jedoch höchstens während zwei Schultagen pro Semester.
+
+<sup>1<sup>bis</sup></sup> Lernende haben auf Verlangen der Lehrperson oder der Schulleitung ein Arztzeugnis oder eine andere Bestätigung vorzulegen, wenn begründete Zweifel am Entschuldigungsgrund bestehen oder bei einer längeren Absenz. Die Schulordnung regelt die Einzelheiten.
 
 <sup>2</sup> Arbeitsbelastung im Betrieb ist kein Grund für eine Schulabsenz.
 
@@ -413,17 +414,38 @@ beschliesst:
 
 #### § 26b
 
-**Case Management Berufsbildung**
+**Case Management Berufsbildung und Coaching Berufsbildung**
 
-<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule führt eine Fachstelle Case Management Berufsbildung.
+<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule bietet das Case Management Berufsbildung und das Coaching Berufsbildung an. Sie kann dazu Dritte beiziehen.
 
-<sup>2</sup> Die Fachstelle unterstützt Jugendliche und junge Erwachsene, deren berufliche Integration nach der Volksschule, einer Zwischenlösung oder einem Lehrabbruch gefährdet ist. Zur Erreichung eines Abschlusses auf der Sekundarstufe II bietet sie insbesondere folgende Dienstleistungen an:
+<sup>1<sup>bis</sup></sup> Sie unterstützt Jugendliche und junge Erwachsene, deren Einstieg in eine berufliche Grundbildung gefährdet ist. Zudem unterstützt sie Lernende einer beruflichen Grundbildung und Lehrbetriebe in herausfordernden persönlichen Situationen der Lernenden.
+
+<sup>2</sup> Zur Erreichung eines Abschlusses auf der Sekundarstufe II bietet die Abteilung Berufsbildung und Mittelschule insbesondere folgende Dienstleistungen an:
 
 - a) Beratung und Begleitung,
 - b) Massnahmen- und Förderplanung,
 - c) Vernetzung mit allen beteiligten Akteuren.
 
-<sup>3</sup> Soweit notwendig und möglich sorgt die Fachstelle über institutionelle Grenzen hinweg für ein planmässiges und koordiniertes Vorgehen.
+<sup>3</sup> Soweit notwendig und möglich sorgt die Abteilung Berufsbildung und Mittelschule über institutionelle Grenzen hinweg für ein planmässiges und koordiniertes Vorgehen.
+
+#### § 26c
+
+**Zentrale Anlaufstelle Wegweiser**
+
+<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule teilt Jugendliche und junge Erwachsene ohne Anschlusslösung nach der Volksschule auf Gesuch hin dem Brückenangebot an der Kantonalen Schule für Berufsbildung (ksb) oder dem Motivationssemester (SEMO) zu.
+
+<sup>2</sup> Die Einteilung erfolgt nach den individuellen Lern- und Betreuungsbedürfnissen sowie der persönlichen Eignung.
+
+<sup>3</sup> Die Aufnahmevoraussetzungen für die ksb richten sich nach § 10 der Verordnung über die Kantonale Schule für Berufsbildung und das Brückenangebot (V Brückenangebot) vom 13. Mai 2026[^26c-1].
+
+<sup>4</sup> In das SEMO aufgenommen werden können Personen, die folgende Voraussetzungen erfüllen:
+
+- a) Erfüllung der Schulpflicht,
+- b) bis vollendetes 21. Altersjahr,
+- c) in der Regel mindestens abgeschlossenes Sprachniveau A2 in Deutsch nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER),
+- d) Lern- und Leistungsbereitschaft im Hinblick auf eine Anschlusslösung der Sekundarstufe II.
+
+[^26c-1]: SAR [422.222](https://gesetzessammlungen.ag.ch/data/422.222/de)
 
 #### § 27
 
@@ -549,6 +571,16 @@ beschliesst:
 <sup>2</sup> Bei nicht kantonalen Berufsfachschulen kann der Schulvorstand, bei kantonalen Berufsfachschulen und bei der Kantonalen Schule für Berufsbildung die Abteilung Berufsbildung und Mittelschule eine oder mehrere Schulärztinnen beziehungsweise einen oder mehrere Schulärzte beauftragen.
 
 [^33-1]: SAR [405.112](https://gesetzessammlungen.ag.ch/data/405.112/de)
+
+#### § 33a
+
+**Spitalschulung**
+
+<sup>1</sup> Hospitalisierte Lernende werden unterrichtet, falls dies pädagogisch und medizinisch angezeigt ist und ein geeignetes Spitalschulangebot besteht.
+
+<sup>2</sup> Die Karenzfrist für die Aufnahme der Beschulung beträgt sieben Tage nach Spitaleintritt. Die Frist entfällt, wenn der Aufenthalt im Spital mindestens zwei Wochen dauert. Bei einem Wechsel des Spitals sowie bei wiederholten Hospitalisierungen aufgrund der gleichen Krankheit wird die Karenzfrist nicht neu berechnet.
+
+<sup>3</sup> Bei ausserkantonalen Lernenden, welche die Spitalschulung besuchen, erfolgt bei Aufnahme der Beschulung Meldung an die Herkunftsschule und den zahlungspflichtigen Kanton, in dem die Schülerin oder der Schüler den stipendienrechtlichen Wohnsitz hat.
 
 ## 3. Qualifikationsverfahren und Ausweise
 
