@@ -4,13 +4,12 @@ number: "412.312"
 title: Verordnung betreffend Pauschalbeiträge an die Besoldungen des gemeindlichen Lehrpersonals
 short: Schulsubventions-Verordnung
 language: de
-version: 2024-01-01
-valid_until: 2026-07-31
-version_adopted: 2024-01-15
+version: 2026-08-01
+version_adopted: 2026-01-13
 adopted: 2008-11-25
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.312"
-pdf: "https://bgs.zg.ch/api/de/versions/2523/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2973/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2523/pdf_file"
 
 (Schulsubventions-Verordnung)
 
-Vom 25. November 2008 (Stand 1. Januar 2024)
+Vom 25. November 2008 (Stand 1. August 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -100,7 +99,12 @@ beschliesst:
 <sup>1</sup> Die Direktion für Bildung und Kultur zahlt den Gemeinden die Pauschalen nach folgenden Kriterien aus:
 
 - a) Vergütung der Normpauschalen in Berücksichtigung der kantonalen Schülerinnen- und Schülerstatistik (Stichtag 15. November des Vorjahres) zu gleichen Teilen per 1. April, 1. August und 1. Dezember des Kalenderjahres; nicht berücksichtigt werden die ausserkantonalen Schülerinnen und Schüler, für die gemäss § 9 Abs. 3 des Schulgesetzes eine separate vertragliche Regelung besteht.
-- b) Vergütung der Jahreswochenstunden-Pauschale aufgrund der von den Gemeinden auf amtlichem Formular eingereichten Anzahl Jahreswochenstunden, die von der Gemeinde für das betreffende Schuljahr bewilligt worden sind. Die Auszahlung erfolgt an den in Bst. a) erwähnten Terminen.
+- b) Vergütung der Jahreswochenstunden-Pauschale aufgrund der von den Gemeinden gemeldeten Anzahl Jahreswochenstunden, die im abgelaufenen Kalenderjahr geleistet worden sind. Die Meldung erfolgt bis zum 31. Januar des neuen Kalenderjahrs und umfasst folgende entschädigungsberechtigten Leistungen in Jahreswochenstunden:
+  - 1\. das Gesamtpensum Unterricht gemäss Meldung an die gemeindliche Lohnbuchhaltung;
+  - 2\. das Gesamtpensum Musikschulleitung (ohne Administration);
+  - 3\. das Pensum aus Stellvertretungen und Projekten. Davon werden das Pensum für Erwachsenenunterricht (Unterricht von Schülerinnen und Schülern, welche das zwanzigste Altersjahr erreicht haben) und das Pensum für Unterricht von Schülerinnen und Schülern mit Wohnsitz ausserhalb des Kantons Zug abgezogen.
+
+<sup>1a</sup> Die Auszahlung erfolgt an den in Abs. 1 Bst. a erwähnten Terminen.
 
 <sup>2</sup> …
 
@@ -108,16 +112,14 @@ beschliesst:
 
 **Kontrolle**
 
-<sup>1</sup> Die Finanzkontrolle prüft periodisch die Abrechnungen und Auszahlungen der Pauschalen insbesondere bezüglich Richtigkeit der massgeblichen Anzahl Schülerinnen und Schüler und der Anzahl Jahreswochenstunden.
+<sup>1</sup> Die Direktion für Bildung und Kultur prüft periodisch die massgebliche Anzahl Schülerinnen und Schüler sowie die Anzahl der deklarierten Jahreswochenstunden.
 
-<sup>2</sup> Im Übrigen richten sich der Kontrollbereich sowie die der Finanzkontrolle zustehenden Einsichtsrechte bezüglich Zweckverwendung der Kantonsbeiträge nach den Bestimmungen des Gesetzes über den Finanzhaushalt des Kantons und der Gemeinden (Finanzhaushaltsgesetz) vom 31. August 2006[^6-1].
+<sup>2</sup> Im Übrigen richten sich der Kontrollbereich sowie die der Finanzkontrolle zustehenden Einsichtsrechte bezüglich Zweckverwendung der Kantonsbeiträge nach den Bestimmungen des Gesetzes über den Finanzhaushalt des Kantons und der Gemeinden (Finanzhaushaltgesetz) vom 31. August 2006[^6-1].
 
 [^6-1]: BGS [611.1](https://bgs.zg.ch/data/611.1/de)
 
 #### § 7
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt rückwirkend am 1. Januar 2008 in Kraft.
+**…**
 
 GS 29, 979
