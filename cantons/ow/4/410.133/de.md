@@ -3,20 +3,19 @@ canton: OW
 number: "410.133"
 title: "Ausführungsbestimmungen zur Verordnung über Leistungsangebote in den Bereichen Sozialpädagogik, Sonderschulung und Förderung von Menschen mit einer Behinderung"
 language: de
-version: 2018-01-01
-valid_until: 2026-07-31
-version_adopted: 2017-06-12
+version: 2026-08-01
+version_adopted: 2026-03-23
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.133"
-pdf: "http://gdb.ow.ch/api/de/versions/1620/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2005/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zur Verordnung über Leistungsangebote in den Bereichen Sozialpädagogik, Sonderschulung und Förderung von Menschen mit einer Behinderung
 
-vom 30.11.2010 (Stand 01.01.2018)
+vom 30.11.2010 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -115,7 +114,7 @@ beschliesst:
 
 <sup>4</sup> Fällt ein regulärer Ein- oder Austritt nicht auf den Monatsanfang bzw. das Monatsende, wird der Selbstbehalt gemäss Absatz 1 und Absatz 3 anteilmässig abgerechnet.
 
-<sup>5</sup> Die beherbergende Institution ist beim Aufnahmeverfahren sowie mindestens einmal jährlich verpflichtet abzuklären, ob eine Anspruchsberechtigung für Hilflosenentschädigung und weitere Beiträge gemäss Art. 42ter Abs. 2 des Bundesgesetzes über die Invalidenversicherung[^6-1] besteht und falls ja, sind diese Beiträge bei den Erziehungsberechtigten zusätzlich zu erheben.
+<sup>5</sup> Die beherbergende Institution ist beim Aufnahmeverfahren sowie mindestens einmal jährlich verpflichtet abzuklären, ob eine Anspruchsberechtigung für Hilflosenentschädigung und weitere Beiträge gemäss Art. 42ter Abs. 2 des Bundesgesetzes über die Invalidenversicherung[^6-1] besteht und falls ja, sind diese Beiträge bei den Eltern bzw. Erziehungsberechtigten zusätzlich zu erheben.
 
 [^6-1]: SR [831.20](https://db.clex.ch/link/Bund/831.20/de)
 
@@ -158,5 +157,7 @@ geändert durch:
 \- Nachtrag vom 31. Mai 2016, in Kraft seit 1. August 2016 (OGS 2016, 39),
 
 \- Nachtrag vom 12. Juni 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 41)
+
+\- Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
 
 OGS 2010, 82
