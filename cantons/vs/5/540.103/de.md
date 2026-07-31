@@ -3,20 +3,19 @@ canton: VS
 number: "540.103"
 title: "Beschluss über das Verbot der Verwendung von Feuerwerkskörpern in Einrichtungen, die der Öffentlichkeit zugänglich sind oder diese beherbergen"
 language: de
-version: 2026-04-01
-valid_until: 2026-07-31
-version_adopted: 2026-04-29
+version: 2026-08-01
+version_adopted: 2026-08-19
 adopted: 2026-04-29
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/de/texts_of_law/540.103"
-pdf: "https://lex.vs.ch/api/de/versions/3601/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über das Verbot der Verwendung von Feuerwerkskörpern in Einrichtungen, die der Öffentlichkeit zugänglich sind oder diese beherbergen
 
-vom 29.04.2026 (Stand 01.04.2026)
+vom 29.04.2026 (Stand 01.08.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -52,15 +51,7 @@ beschliesst:
 
 #### Art. 3
 
-**Ausnahme**
-
-<sup>1</sup> Eine Ausnahme von Artikel 2 kann ausnahmsweise auf begründeten Antrag gewährt werden, sofern die Sicherheit von Personen und Sachen gewährleistet ist.
-
-<sup>2</sup> Der Antrag auf eine Ausnahmegenehmigung ist spätestens 2 Monate vor dem geplanten Termin an den Gemeinderat der Gemeinde zu richten, in der die Verwendung von Feuerwerkskörpern stattfinden soll. Dem Antrag ist ein vom kantonalen Amt für Feuerwesen begutachtetes Sicherheitskonzept beizufügen.
-
-<sup>3</sup> Der Gemeinderat leitet das Gesuch zusammen mit seiner Stellungnahme an das für die Sicherheit zuständige Departement (nachfolgend: das Departement) weiter.
-
-<sup>4</sup> Das Departement erlässt einen Entscheid, für den eine Gebühr von 90 bis 1'650 Franken erhoben wird; dieser wird dem Gesuchsteller mitgeteilt und dem Gemeinderat sowie allfälligen weiteren betroffenen kantonalen Departementen übermittelt.
+**…**
 
 #### Art. 4
 

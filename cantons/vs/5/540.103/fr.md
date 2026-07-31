@@ -3,20 +3,19 @@ canton: VS
 number: "540.103"
 title: "Arrêté concernant l'interdiction de l’utilisation d’engins pyrotechniques de divertissement dans les établissements recevant ou hébergeant du public"
 language: fr
-version: 2026-04-01
-valid_until: 2026-07-31
-version_adopted: 2026-04-29
+version: 2026-08-01
+version_adopted: 2026-08-19
 adopted: 2026-04-29
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/540.103"
-pdf: "https://lex.vs.ch/api/fr/versions/3601/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3650/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté concernant l'interdiction de l’utilisation d’engins pyrotechniques de divertissement dans les établissements recevant ou hébergeant du public
 
-du 29.04.2026 (état 01.04.2026)
+du 29.04.2026 (état 01.08.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -52,15 +51,7 @@ arrête:
 
 #### Art. 3
 
-**Dérogation**
-
-<sup>1</sup> Une dérogation à l’article 2 peut être exceptionnellement accordée sur demande motivée pour autant que la sécurité des personnes et des biens soit garantie.
-
-<sup>2</sup> La demande de dérogation est adressée au conseil municipal de la commune où aura lieu l’utilisation des engins pyrotechniques de divertissement au plus tard 2 mois avant la date prévue. Elle est accompagnée d’un concept de sécurité évalué par l’Office cantonal du feu.
-
-<sup>3</sup> Le conseil municipal transmet la demande au département en charge de la sécurité (ci-après: le département), accompagnée de son préavis.
-
-<sup>4</sup> Le département rend une décision soumise à un émolument de 90 à 1'650 francs laquelle est notifiée au requérant et communiquée au conseil municipal, ainsi qu’aux éventuels autres départements cantonaux concernés.
+**…**
 
 #### Art. 4
 
