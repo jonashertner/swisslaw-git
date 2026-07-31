@@ -4,13 +4,13 @@ number: "502"
 title: Verordnung zum Gesetz über die Gymnasialbildung
 short: GymBV
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-04-04
+version: 2026-08-01
+valid_until: 2027-07-31
+version_adopted: 2026-03-31
 adopted: 2001-06-19
 in_force: 2001-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/502"
-pdf: "https://srl.lu.ch/api/de/versions/4112/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4818/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4112/pdf_file"
 
 (GymBV)
 
-vom 19.06.2001 (Stand 01.08.2023)
+vom 19.06.2001 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -110,7 +110,7 @@ beschliesst:
 
 <sup>3</sup> Bei der Festlegung des Angebots werden die finanziellen und die räumlichen Möglichkeiten der Schule und die Bedürfnisse der Lernenden berücksichtigt.
 
-<sup>4</sup> Die Lernenden dürfen mit Ausnahme des Instrumentalunterrichts in der Regel nur dann Freifächer belegen, wenn sie im letzten Zeugnis einen Durchschnitt von mindestens 4,2 gemäss § 34 erreicht haben. Über Ausnahmen entscheidet die Schulleitung.
+<sup>4</sup> …
 
 <sup>5</sup> Die Leistungsbeurteilung in Freifächern kann im Zeugnis aufgeführt werden.
 
@@ -118,13 +118,15 @@ beschliesst:
 
 **Instrumentalunterricht**
 
-<sup>1</sup> Für Studierende mit Musik als Maturafach (Grundlagenfach, Schwerpunktfach oder Ergänzungsfach) ist der Unterricht in einem Instrument oder in Sologesang obligatorisch. Zudem sind diese Studierenden verpflichtet, in einem ihrem Ausbildungsstand entsprechenden Ensemble, Chor oder Orchester der Gymnasien mitzuwirken. Die Schulleitung kann das Mitwirken in einem Ensemble einer Musikschule als Erfüllung des Ensemble-Obligatoriums anerkennen.
+<sup>1</sup> Für Lernende mit Musik als Maturafach (Grundlagenfach, Schwerpunktfach oder Ergänzungsfach) ist der Unterricht in einem Instrument oder in Sologesang obligatorisch. Zudem sind diese Lernenden verpflichtet, in einem ihrem Ausbildungsstand entsprechenden Ensemble, Chor oder Orchester der Gymnasien mitzuwirken. Die Schulleitung kann das Mitwirken in einem Ensemble einer Musikschule als Erfüllung des Ensemble-Obligatoriums anerkennen.
 
-<sup>2</sup> Die Schulleitung kann Studierende auf begründetes Gesuch hin vom Instrumental- oder vom Gesangsunterricht dispensieren.
+<sup>2</sup> Die Schulleitung kann Lernende auf begründetes Gesuch hin vom Instrumental- oder vom Gesangsunterricht dispensieren.
 
 <sup>3</sup> Der Instrumental- oder der Sologesangsunterricht wird in der Regel an der kommunalen Musikschule am Standort des Gymnasiums belegt.
 
-<sup>4</sup> Die Lektionen im Einzelunterricht dauern in der Regel 40 Minuten. Das Schulgeld beträgt nach Erfüllen der obligatorischen Schulzeit 1030 Franken pro Schuljahr.
+<sup>4</sup> Die Lektionen im Einzelunterricht dauern in der Regel 40 Minuten. Das Schulgeld richtet sich nach der Schulgeldverordnung des Kantons Luzern[^8-1].
+
+[^8-1]: SRL Nr. [544](https://srl.lu.ch/data/544/de)
 
 #### § 9
 
@@ -393,11 +395,13 @@ beschliesst:
 
 **Festlegung der Noten**
 
-<sup>1</sup> Die Zeugnisnoten werden von den Fachlehrpersonen gestützt auf die Lernkontrollen erteilt.
+<sup>1</sup> Die Zeugnisnoten werden von den Fachlehrpersonen gestützt auf schriftliche oder gleichwertig dokumentierte Leistungsnachweise erteilt.
 
-<sup>2</sup> Die Zeugnisnoten an Langzeit- und Kurzzeitgymnasien setzen sich aus der Bewertung von mindestens zwei schriftlichen oder gleichwertig dokumentierten Arbeiten je Semester zusammen. Die Schulleitung kann Ausnahmen vorsehen.
+<sup>2</sup> Die Zeugnisnoten an Langzeit- und Kurzzeitgymnasien setzen sich aus der Bewertung von mindestens vier, im Jahr der Maturitätsprüfungen von mindestens drei, Leistungsnachweisen zusammen. Diese sind angemessen auf das Schuljahr zu verteilen. Die Schulleitung kann Ausnahmen vorsehen.
 
-<sup>3</sup> Die Zeugnisnoten an der Maturitätsschule für Erwachsene setzen sich aus mindestens vier Einzelnoten, im Vorkurs aus mindestens zwei Einzelnoten, zusammen.
+<sup>2<sup>bis</sup></sup> Wird ein Fach nur während eines Semesters unterrichtet, setzt sich die Zeugnisnote aus der Bewertung von mindestens zwei Leistungsnachweisen zusammen.
+
+<sup>3</sup> Die Zeugnisnoten an der Maturitätsschule für Erwachsene setzen sich aus der Bewertung von mindestens zwei Leistungsnachweisen zusammen.
 
 <sup>4</sup> Liegen wichtige Gründe wie Krankheit, Unfall oder begründete Ortsabwesenheit über längere Zeit vor, kann die Schulleitung auf die Notengebung ganz oder teilweise verzichten.
 
@@ -431,7 +435,7 @@ beschliesst:
 - a. einen Durchschnitt gemäss § 34 Absatz 1 von mindestens 4,00 und in den Promotionsfächern gemäss § 34 Absatz 2 höchstens eineinhalb Mangelpunkte oder
 - b. einen Durchschnitt von mindestens 4,30 und höchstens zwei Mangelpunkte aufweist.
 
-<sup>4</sup> Von den Bestimmungen über die Wirkung der Einzelnoten können Ausnahmen gemacht werden, wenn schwere gesundheitliche Störungen oder andere triftige Gründe ungenügende Leistungen in einzelnen Fächern milder beurteilen lassen.
+<sup>4</sup> Von den Bestimmungen über die Wirkung der einzelnen Zeugnisnoten können Ausnahmen gemacht werden, wenn schwere gesundheitliche Störungen oder andere triftige Gründe ungenügende Leistungen in einzelnen Fächern milder beurteilen lassen.
 
 #### § 33a
 
@@ -441,7 +445,7 @@ beschliesst:
 
 <sup>2</sup> Lernende werden promoviert, wenn in ihrem Jahreszeugnis die doppelte Summe ihrer Mangelpunkte nicht grösser ist als die einfache Summe ihrer Pluspunkte.
 
-<sup>3</sup> Von den Bestimmungen über die Wirkung der Einzelnoten können Ausnahmen gemacht werden, wenn schwere gesundheitliche Störungen oder andere triftige Gründe ungenügende Leistungen in einzelnen Fächern milder beurteilen lassen.
+<sup>3</sup> Von den Bestimmungen über die Wirkung der einzelnen Zeugnisnoten können Ausnahmen gemacht werden, wenn schwere gesundheitliche Störungen oder andere triftige Gründe ungenügende Leistungen in einzelnen Fächern milder beurteilen lassen.
 
 <sup>4</sup> Die Promotion und die Zulassung zu den Abschlussprüfungen kann Lernenden verweigert werden, wenn sie nicht mindestens 85 Prozent des Präsenzunterrichts und 85 Prozent der Unterrichtstunden in den einzelnen Fächer besucht haben.
 
@@ -477,6 +481,8 @@ beschliesst:
 
 <sup>4</sup> Das gleiche Schuljahr kann nur einmal wiederholt werden.
 
+<sup>4<sup>bis</sup></sup> Während des letzten Schuljahres kann die Schulleitung auf begründetes Gesuch hin in der Regel bis spätestens am 30. November einen Abbruch des Schuljahres mit anschliessender Wiederholung bewilligen. Vorbehalten bleiben die Absätze 2 und 4. Erfolgt ein Abbruch nach dem 30. November, so gilt dieser als nicht bestandener Versuch, die Maturität zu erlangen.
+
 <sup>5</sup> Für Lernende, welche die Maturitätsprüfung nicht bestanden haben, gelten die Absätze 2 und 4 nicht.
 
 <sup>6</sup> An der Maturitätsschule für Erwachsene können der Vorkurs sowie ein weiteres Schuljahr wiederholt werden.
@@ -495,9 +501,9 @@ beschliesst:
 
 #### § 40
 
-**Prüfungen**
+**Leistungsnachweise**
 
-<sup>1</sup> Die Lernenden haben die von den Lehrpersonen angeordneten Prüfungen abzulegen.
+<sup>1</sup> Die Lernenden haben die von den Lehrpersonen angeordneten Leistungsnachweise abzulegen.
 
 <sup>2</sup> Lernende, die Unregelmässigkeiten begehen, können disziplinarisch bestraft werden.
 
@@ -507,7 +513,7 @@ beschliesst:
 
 <sup>1</sup> Die Lernenden einer Schule oder einer Abteilung können eine Organisation bilden.
 
-<sup>2</sup> Die Beziehung zwischen der Organisation und der Schulleitung ist in Statuten zu regeln. Die Statuten sind von der Schulkommission zu genehmigen.
+<sup>2</sup> Die Beziehung zwischen der Organisation und der Schulleitung ist in Statuten zu regeln. Die Statuten sind von der Schulleitung zu genehmigen.
 
 #### § 42
 
@@ -704,9 +710,11 @@ beschliesst:
 
 **Angebote**
 
-<sup>1</sup> Die Schule sorgt dafür, dass Lernende mit schulischen Defiziten aufgrund unterschiedlicher Vorbildung oder fremdsprachige Lernende im Verlauf der 1. Klasse des Lang- und Kurzzeitgymnasiums in einzelnen Fächern über eine bestimmte Zeit gefördert werden können.
+<sup>1</sup> Die Schule sorgt dafür, dass Lernende mit schulischen Defiziten aufgrund unterschiedlicher Vorbildung im Verlauf der 1. Klasse des Lang- und Kurzzeitgymnasiums in einzelnen Fächern über eine bestimmte Zeit gefördert werden können.
 
-<sup>2</sup> Bei fremdsprachigen Lernenden, die in eine höhere Klasse des Langzeit- oder Kurzzeitgymnasiums eintreten, entscheidet die Schulleitung über die notwendigen Fördermassnahmen.
+<sup>2</sup> Lernende, deren Erstsprache nicht Deutsch ist und die über ungenügende Kenntnisse der deutschen Sprache verfügen, werden mit Angeboten zur Sprachförderung in der Form von «Deutsch als Zweitsprache» (DaZ) unterstützt.
+
+<sup>3</sup> Die Schulleitung entscheidet nach den Vorgaben der Dienststelle Gymnasialbildung über die notwendigen Fördermassnahmen.
 
 ### 10.3 Schuldienste
 
