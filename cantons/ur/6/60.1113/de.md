@@ -1,69 +1,58 @@
 ---
 canton: UR
 number: "60.1113"
-title: KANTONALES LANDWIRTSCHAFTSREGLEMENT
+title: Kantonales Landwirtschaftsreglement
 short: KLWR
 language: de
-version: 2023-01-01
-corrected: 2025-08-21
-version_adopted: 2022-09-06
+version: 2026-08-01
+version_adopted: 2026-06-30
 adopted: 2002-10-22
 in_force: 2002-11-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.1113"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/193/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/1150/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# KANTONALES LANDWIRTSCHAFTSREGLEMENT
+# Kantonales Landwirtschaftsreglement
 
-KANTONALES LANDWIRTSCHAFTSREGLEMENT (KLWR)
+(KLWR)
 
-(vom 22. Oktober 2002[^t-1]; Stand am 1. Januar 2023)
+Vom 22.10.2002 (Stand 01.08.2026)
 
-Der Regierungsrat des Kantons Uri, gestützt auf Artikel 34 der Kantonalen Landwirtschaftsverordnung[^t-2],
+Der Regierungsrat des Kantons Uri,
+
+gestützt auf Artikel 34 der Kantonalen Landwirtschaftsverordnung (RB [60.1111](https://rechtsbuch.ur.ch/data/60.1111/de)),
 
 beschliesst:
 
-[^t-1]: AB vom 1. November 2002
-[^t-2]: RB 60.1111
-
-### 1. Kapitel: GEGENSTAND
+## 1 Gegenstand
 
 #### Artikel 1
 
-Dieses Reglement vollzieht die Kantonale Landwirtschaftsverordnung und das Bundesrecht im Bereich der Landwirtschaft.
+<sup>1</sup> Dieses Reglement vollzieht die Kantonale Landwirtschaftsverordnung und das Bundesrecht im Bereich der Landwirtschaft.
 
-### 2. Kapitel: PRODUKTION, QUALITÄT UND ABSATZ
+## 2 Produktion, Qualität und Absatz
 
-### 1. Abschnitt: Beiträge an innovative Projekte
+### 2.1 Beiträge an Projekte
 
 #### Artikel 2
 
 **Voraussetzungen**
 
-<sup>1</sup> Der Kanton kann Beiträge an innovative Projekte leisten, wenn eine angemessene Selbsthilfe gewährleistet ist und das Vorhaben:
+<sup>1</sup> Der Kanton kann Beiträge an Projekte leisten, wenn eine angemessene Selbsthilfe gewährleistet ist und das Vorhaben:
 
-- a) die Wettbewerbsfähigkeit fördert;
+- a) die Wettbewerbsfähigkeit fördert
+- b) zur Steigerung der Wertschöpfung beiträgt
+- c) einen beispielhaften Beitrag zur Verbesserung des Umweltschutzes, des Klimaschutzes, des Tierschutzes oder des Natur- und Landschaftsschutzes leistet
+- d) auf Innovation oder Diversifikation ausgerichtet ist, die Impulse mit Vorbildcharakter für andere Betriebe geben können
+- e) den regionalwirtschaftlichen Interessen nicht zuwiderläuft
 
-- b) zur Steigerung der Wertschöpfung beiträgt oder einen beispielhaften Beitrag zur Verbesserung der Umwelt, des Tierschutzes oder des Natur- und Landschaftsschutzes leistet;
+<sup>2</sup> Die fachliche Begleitung (Coaching) bei der Erarbeitung von gemeinschaftlichen, wertschöpfungsorientierten Projekten mit einem klaren Bezug zur Landwirtschaft können mit einer kantonalen Starthilfe (Coachingbeitrag) unterstützt werden. Die Begleitung kann die Planung bis zur Umsetzung umfassen.
 
-- c) auf Innovation oder Diversifikation ausgerichtet ist, die Impulse mit Vorbildcharakter für andere Betriebe geben können;
+<sup>3</sup> (Überbetriebliche) Projektierungskosten zur Entwicklung von Angeboten im landwirtschaftlichen Bereich zur Diversifikation, von der Planung bis zur Umsetzung, mit einem klaren Bezug zur Landwirtschaft, können finanziell unterstützt werden.
 
-- d) den regionalwirtschaftlichen Interessen nicht zuwiderläuft.
-
-<sup>2</sup> Die fachliche Begleitung (Coaching) bei der Erarbeitung von gemeinschaftlichen, wertschöpfungsorientierten Projekten mit einem klaren Bezug zur Landwirtschaft können mit einer kantonalen Starthilfe (Coachingbeitrag) unterstützt werden. Die Begleitung kann die Planung bis zur Umsetzung umfassen.[^2-1]
-
-<sup>3</sup> (Überbetriebliche) Projektierungskosten zur Entwicklung von Angeboten im landwirtschaftlichen Bereich zur Diversifikation, von der Planung bis zur Umsetzung, mit einem klaren Bezug zur Landwirtschaft, können finanziell unterstützt werden.[^2-2]
-
-<sup>4</sup> Beiträge an innovative Projekte werden erst geleistet, wenn die Möglichkeiten zur Unterstützung des Vorhabens durch Investitionskredite nach dem Bundesgesetz über die Landwirtschaft[^2-3] und durch Finanzhilfen nach dem Bundesgesetz über Regionalpolitik[^2-4] ausgeschöpft sind.[^2-5]
-
-[^2-1]: Fassung gemäss RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
-[^2-2]: Eingefügt durch RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
-[^2-3]: SR 910.1
-[^2-4]: SR 901.0
-[^2-5]: Eingefügt durch RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
+<sup>4</sup> Beiträge an Projekte werden erst geleistet, wenn die Möglichkeiten zur Unterstützung des Vorhabens durch Investitionskredite nach dem Bundesgesetz über die Landwirtschaft (SR [910.1](https://db.clex.ch/link/Bund/910.1/de)) und durch Finanzhilfen nach dem Bundesgesetz über Regionalpolitik (SR [901.0](https://db.clex.ch/link/Bund/901.0/de)) ausgeschöpft sind.
 
 #### Artikel 3
 
@@ -73,25 +62,19 @@ Dieses Reglement vollzieht die Kantonale Landwirtschaftsverordnung und das Bunde
 
 <sup>2</sup> Für gemeinschaftliche Projekte werden höhere Beiträge ausgerichtet als für einzelbetriebliche Vorhaben.
 
-<sup>3</sup> Die Bedingungen und die Höhe des Coachingbeitrags und des Beitrags an die Projektierungskosten zur Diversifikation werden durch die Volkswirtschaftsdirektion festgelegt.[^3-1]
-
-[^3-1]: Eingefügt durch RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
+<sup>3</sup> Die Bedingungen und die Höhe des Coachingbeitrags und des Beitrags an die Projektierungskosten zur Diversifikation werden durch die Volkswirtschaftsdirektion festgelegt.
 
 #### Artikel 4
 
 **Beitragsgesuch**
 
-Das Beitragsgesuch hat Auskunft zu geben über:
+<sup>1</sup> Das Beitragsgesuch hat Auskunft zu geben über:
 
-- a) die Trägerschaft;
-
-- b) die Art und Zielsetzung des Vorhabens;
-
-- c) den geplanten Kostenaufwand (Investitions- und Betriebskosten);
-
-- d) die Finanzierung;
-
-- e) den Zeitplan.
+- a) die Trägerschaft
+- b) die Art und Zielsetzung des Vorhabens
+- c) den geplanten Kostenaufwand (Investitions- und Betriebskosten)
+- d) die Finanzierung
+- e) den Zeitplan
 
 #### Artikel 5
 
@@ -101,38 +84,42 @@ Das Beitragsgesuch hat Auskunft zu geben über:
 
 <sup>2</sup> Vor dem Entscheid darf das Vorhaben weder ausgeführt noch dürfen darauf ausgerichtete Investitionen getätigt werden.
 
-### 2. Abschnitt: Beiträge an besonders umwelt- und tiergerechte Bewirtschaftungsmethoden
-
-[^h2AbschnittBeiträ-1]: Fassung gemäss RRB vom 19. Oktober 2021, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 24. Dezember 2021).
+### 2.2 Beiträge an besonders umwelt- und tiergerechte Bewirtschaftungsmethoden
 
 #### Artikel 6
 
-**Flächenbezogene Umstellungsbeiträge**[^h2AbschnittBeiträ-1]
+**Flächenbezogene Umstellungsbeiträge**
 
 <sup>1</sup> Der Kanton kann Bewirtschafterinnen und Bewirtschaftern, die bereit sind, ihren Betrieb ganz oder teilweise auf Biolandbau umzustellen, flächenbezogene Umstellungsbeiträge gewähren.
 
-<sup>2</sup> Für Umstellungsbeiträge wird vorausgesetzt, dass die Bewirtschafterinnen und Bewirtschafter Beiträge für die biologische Landwirtschaft nach der Direktzahlungsverordnung[^6-1] erhalten.
+<sup>2</sup> Für Umstellungsbeiträge wird vorausgesetzt, dass die Bewirtschafterinnen und Bewirtschafter Beiträge für die biologische Landwirtschaft nach der Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)) erhalten.
 
 <sup>3</sup> Die Umstellungsbeiträge betragen 300 Franken pro Jahr und pro Hektare landwirtschaftliche Nutzfläche. Sie werden für zwei aufeinanderfolgende Umstellungsjahre gewährt.
 
-Artikel 7[^6-2] Beiträge für emissionsmindernde Ausbringung
+#### Artikel 7
+
+**Beiträge für emissionsmindernde und klimaschonende Produktionsverfahren**
 
 <sup>1</sup> Der Kanton kann Bewirtschafterinnen und Bewirtschaftern, die auf ihrem Betrieb emissionsmindernde und klimaschonende Produktionsverfahren einsetzen, Beiträge gewähren.
 
-<sup>2</sup> Die Beiträge werden ausgerichtet, wenn die Anforderungen des ökologischen Leistungs-nachweises (ÖLN) gemäss der Direktzahlungsverordnung<sup>12</sup> eingehalten werden.
+<sup>2</sup> Die Beiträge werden nur an direktzahlungsberechtigte Betriebe ausgerichtet.
 
-<sup>3</sup> Beitragsberechtigt sind Güllegaben in einem geeigneten Verfahren gemäss Ziffer 552 des Anhangs 2 zur Luftreinhalte-Verordnung<sup>13</sup>.
+<sup>3–6</sup> …
 
-<sup>4</sup> Pro Fläche berechtigen maximal vier Güllegaben pro Jahr zu Beiträgen. Berücksichtigt wird der Zeitraum vom 1. September des Vorjahrs bis zum 31. August des Beitragsjahrs.
+#### Artikel 7a
 
-5 Für Güllegaben zwischen dem 15. November und dem 15. Februar werden keine Beiträge gewährt.
+**Kantonale Beiträge für die längere Nutzungsdauer von Kühen**
 
-<sup>6</sup> Der Beitrag beträgt 25 Franken pro Hektare und Güllegabe.
+<sup>1</sup> Der Kanton gewährt zusätzlich zu den Beiträgen des Bundes eigene Beiträge für die längere Nutzungsdauer von Kühen.
 
-[^6-1]: SR 910.13
-[^6-2]: Fassung gemäss RRB vom 19. Oktober 2021, in Kraft gesetzt auf den 1. Januar 2022 (AB vom 24. Dezember 2021).
+<sup>2</sup> Der kantonale Beitrag beträgt:
 
-### 3. Abschnitt: Tierzucht
+- a) zwischen 5 Franken pro Milchkuh bei durchschnittlich drei Abkalbungen und 50 Franken pro Milchkuh bei durchschnittlich sieben Abkalbungen und mehr
+- b) zwischen 5 Franken pro andere Kuh bei durchschnittlich vier Abkalbungen und 50 Franken pro andere Kuh bei durchschnittlich acht Abkalbungen und mehr
+
+<sup>3</sup> Im Übrigen sind die Vorschriften der Direktzahlungsverordnung sinngemäss anwendbar.
+
+### 2.3 Tierzucht
 
 #### Artikel 8
 
@@ -140,177 +127,152 @@ Artikel 7[^6-2] Beiträge für emissionsmindernde Ausbringung
 
 <sup>1</sup> Der Kanton kann Zuchtverbänden, die kantonale Viehausstellungen organisieren, einen Beitrag gewähren. Hiefür schliesst die Volkswirtschaftsdirektion mit den Zuchtverbänden eine Leistungsvereinbarung ab.
 
-<sup>2</sup> Das Amt für Landwirtschaft kann Teilaufgaben im Zusammenhang mit den kantonalen Viehausstellungen übernehmen.
+<sup>2</sup> …
 
 #### Artikel 9
 
 **Andere Viehschauen**
 
-Der Kanton kann weitere Viehschauen, Leistungsschauen, Tierausstellungen, Ausstellungsmärkte und ähnliche Veranstaltungen mit einem Beitrag unterstützen.
-
-[^9-1]: Aufgehoben durch RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
+<sup>1</sup> Der Kanton kann weitere Viehschauen, Leistungsschauen, Tierausstellungen, Ausstellungsmärkte und ähnliche Veranstaltungen mit einem Beitrag unterstützen.
 
 #### Artikel 10
 
-[^9-1]
+**…**
 
 #### Artikel 11
 
 **Andere Förderungsmassnahmen**
 
-Der Kanton kann Projekte, die im Dienste der Zuchtförderung stehen, sowie Veranstaltungen und weitere Massnahmen, die der Belehrung und Orientierung über die Tierzucht dienen, mit einem Beitrag unterstützen, soweit diese nicht selbsttragend durchgeführt werden können.
+<sup>1</sup> Der Kanton kann Projekte, die im Dienste der Zuchtförderung stehen, sowie Veranstaltungen und weitere Massnahmen, die der Information über die Tierzucht dienen, mit einem Beitrag unterstützen, soweit diese nicht selbsttragend durchgeführt werden können.
 
-### 4. Abschnitt: Qualitätsförderung
+### 2.4 Qualitätsförderung
 
-Artikel 12[^h4AbschnittQualit-1] Milchwirtschaftliche Beratung
+#### Artikel 12
+
+**Milchwirtschaftliche Beratung**
 
 <sup>1</sup> Der Kanton kann zur Förderung und Sicherung der Qualität der Verkehrsmilch und Milchprodukte die Beratungstätigkeit von Berufsverbänden finanziell unterstützen.
 
-2 Der Kanton kann weitere Qualitätssicherungsdienste finanziell unterstützen, wenn das sachlich begründet ist.
-
-[^h4AbschnittQualit-1]: Fassung gemäss RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
+<sup>2</sup> Der Kanton kann weitere Qualitätssicherungsdienste finanziell unterstützen, wenn das sachlich begründet ist.
 
 #### Artikel 13
 
 **Weitere Massnahmen**
 
-Der Kanton kann Bestrebungen zum Schutz der Bezeichnungen von Urner Qualitätsprodukten, insbesondere Ursprungsbezeichnungen und regionale Herkunftsbezeichnungen, unterstützen.
+<sup>1</sup> Der Kanton kann Bestrebungen zum Schutz der Bezeichnungen von Urner Qualitätsprodukten, insbesondere Ursprungsbezeichnungen und regionale Herkunftsbezeichnungen, unterstützen.
 
-[^13-1]: Fassung gemäss RRB vom 16. Dezember 2014, in Kraft gesetzt auf den 1. Januar 2015 (AB vom 9. Januar 2015).
-
-### 4a. Abschnitt: Biodiversität- und Landschaftsqualität
-
-[^13-1]
+### 2.4a Beiträge für regionale Biodiversität und Landschaftsqualität
 
 #### Artikel 13a
 
-**Biodiversitätsbeiträge**
+**Grundsatz**
 
-- a) Grundsatz
+<sup>1</sup> Die Voraussetzungen zur Ausrichtung von Beiträgen für regionale Biodiversität und Landschaftsqualität richten sich nach den Bestimmungen der Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)), soweit dieses Reglement nichts anderes bestimmt.
 
-<sup>1</sup> Die Voraussetzungen zur Ausrichtung von Biodiversitätsbeiträgen richten sich nach den Bestimmungen der Direktzahlungsverordnung[^13a-1], soweit dieses Reglement nichts anderes bestimmt.
+<sup>2</sup> Grundlage für die Unterstützung von Massnahmen zur Förderung der regionalen Biodiversität und der Landschaftsqualität ist ein gemäss den Vorgaben der Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)) vom Bundesamt für Landwirtschaft bewilligtes Projekt.
 
-<sup>2</sup> Das Amt für Landwirtschaft kann im Einvernehmen mit der Fachstelle für Natur- und Landschaftsschutz unter der Voraussetzung von Artikel 59 Absatz 3 der Direktzahlungsverordnung[^13a-2] andere Grundlagen für die Bewertung der botanischen Qualität und der für die Biodiversität förderlichen Strukturen festlegen.
+<sup>3</sup> Das Amt für Landwirtschaft kann im Einvernehmen mit der Abteilung für Natur und Landschaft unter der Voraussetzung von Artikel 59 Absatz 3 der Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)) andere Grundlagen für die Bewertung der floristischen Qualität und der für die Biodiversität förderlichen Strukturen festlegen.
 
-<sup>3</sup> Das Amt für Landwirtschaft erlässt nach Anhörung der kantonalen Fachstelle für Natur- und Landschaftsschutz entsprechende Richtlinien.
-
-<sup>4</sup> Anforderungen an die Qualität, die über die Direktzahlungsverordnung[^13a-3] hinausgehen, werden im Rahmen der Verordnung über Beiträge für den landwirtschaftlichen Naturschutz[^13a-4] abgegolten.
-
-[^13a-1]: SR 910.13
-[^13a-2]: SR 910.13
-[^13a-3]: SR 910.13
-[^13a-4]: RB 10.5105
+<sup>4</sup> Anforderungen an die Qualität, die über die Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)) hinausgehen, werden im Rahmen der Verordnung über Beiträge für den landwirtschaftlichen Naturschutz (RB [10.5105](https://rechtsbuch.ur.ch/data/10.5105/de)) abgegolten.
 
 #### Artikel 13b
 
-**b) Vernetzungsbeiträge**
+**Beitragsvoraussetzungen**
 
-<sup>1</sup> Vernetzungsbeiträge werden ausgerichtet, wenn die Voraussetzungen von Artikel 61und 62 der Direktzahlungsverordnung<sup>21</sup> erfüllt sind.
+<sup>1</sup> Beiträge werden ausgerichtet, wenn die Voraussetzungen gemäss Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)) erfüllt sind.
 
-<sup>2</sup> Die Höhe der Beiträge bemisst sich nach den Ansätzen gemäss Anhang 7 Ziffer 3.2.1 der Direktzahlungsverordnung<sup>22</sup>.
+<sup>2</sup> Der Kanton legt die Beitragsansätze pro Massnahme fest. Der Bund übernimmt gemäss Artikel 78 der Direktzahlungsverordnung höchstens 90 Prozent des vom Kanton festgelegten Beitrags, höchstens jedoch die Beträge nach Anhang 7 Ziffer 5a der Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)).
 
 #### Artikel 13c
 
-**Landschaftsqualitätsbeiträge**
+**Verfahren**
 
-<sup>1</sup> Die Voraussetzungen zur Ausrichtung von Landschaftsqualitätsbeiträgen richten sich nach Artikel 63 und 64 der Direktzahlungsverordnung[^13c-1] sowie der Richtlinie für Landschaftsqualitätsbeiträge des Bundesamts für Landwirtschaft.
+<sup>1</sup> Das Verfahren richten sich nach Artikel 80 der Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)).
 
-<sup>2</sup> Die Fachstelle für Natur- und Landschaftsschutz unterstützt das Amt für Landwirtschaft bei der Entwicklung und Umsetzung von kantonalen Landschaftsqualitätsprojekten.
+<sup>2</sup> Die Abteilung für Natur und Landschaft unterstützt das Amt für Landwirtschaft bei der Entwicklung und Umsetzung von regionalen Biodiversitäts- und Landschaftsqualitätsprojekten.
 
-<sup>3</sup> Die Höhe der Beiträge bemisst sich nach den Ansätzen gemäss Anhang 7 Ziffer 4.1 der Direktzahlungsverordnung[^13c-2].
-
-[^13c-1]: SR 910.13
-[^13c-2]: SR 910.13
-
-### Übergangsbestimmung
-
-Während der Dauer der Übergangsbestimmung von Artikel 115 Absatz 10 der Direktzahlungsverordnung<sup>25</sup> gelten deren Ansätze.
+<sup>3–4</sup> …
 
 #### Artikel 13d
 
-**Verfahren**
+**Gesuche**
 
 <sup>1</sup> Die Gesuche sind beim Amt für Landwirtschaft einzureichen.
 
-<sup>2</sup> Das Amt für Landwirtschaft bezeichnet die Unterlagen, die mit dem Gesuch um Biodiversitäts- und Landschaftsqualitätsbeiträge einzureichen sind.
+<sup>2</sup> Das Amt für Landwirtschaft bezeichnet die Unterlagen, die mit dem Gesuch um regionale Biodiversitäts- und Landschaftsqualitätsbeiträge einzureichen sind.
 
-<sup>3</sup> Das Amt für Landwirtschaft prüft und beurteilt nach Anhörung der kantonalen Fachstelle für Natur- und Landschaftsschutz die eingereichten Projekte.
+<sup>3</sup> Das Amt für Landwirtschaft regelt die Einzelheiten in einer Vereinbarung mit der Gesuchstellerin oder dem Gesuchsteller.
 
-<sup>4</sup> Das Amt für Landwirtschaft regelt die Einzelheiten in einer Vereinbarung mit der Gesuchstellerin oder dem Gesuchsteller .
+<sup>4</sup> …
 
 #### Artikel 13e
 
-Kontrollen und Verwaltungssanktionen Die Kontrolle der Anforderungen der Biodiversitäts- und der Landschaftsqualitätsbeiträge sowie allfällige Sanktionen richten sich nach Artikel 101 bis 107 der Direktzahlungsverordnung<sup>26</sup> und nach den Vorgaben in den vom Bundesamt für Landwirtschaft bzw. vom Kanton genehmigten Vernetzungsprojekten und Landschaftsqualitätsprojekten.
+**Kontrollen und Verwaltungssanktionen**
 
-### 5. Abschnitt: Absatzförderung
+<sup>1</sup> Die Kontrolle der Anforderungen der regionalen Biodiversitäts- und der Landschaftsqualitätsbeiträge sowie allfällige Sanktionen richten sich nach Artikel 101 bis 107a der Direktzahlungsverordnung (SR [910.13](https://db.clex.ch/link/Bund/910.13/de)) und nach den Vorgaben in den vom Bundesamt für Landwirtschaft bzw. vom Kanton genehmigten Projekten zur Förderung der regionalen Biodiversität- und Landschaftsqualität.
+
+### 2.5 Absatzförderung
 
 #### Artikel 14
 
-**Absatzveranstaltungen**
-
-<sup>1</sup> Die Volkswirtschaftsdirektion kann im Rahmen der Schlachtviehverordnung[^14-1] für Schlachtvieh periodisch Schlachtviehmärkte durchführen.
-
-<sup>2</sup> Der Kanton kann weitere Absatzveranstaltungen, die der Förderung der Viehwirtschaft dienen, personell oder finanziell unterstützen.
-
-[^14-1]: SR 916.341
+**…**
 
 #### Artikel 15
 
-**Weitere Massnahmen**
+**Absatzförderung**
 
-Der Kanton kann:
+<sup>1</sup> Der Kanton kann:
 
-- a) Beiträge nach der Verordnung über die Unterstützung der Absatzförderung für Landwirtschaftsprodukte[^15-1] gewähren;
+- a) Beiträge nach der Verordnung über die Unterstützung der Absatzförderung für Landwirtschaftsprodukte (SR [916.010](https://db.clex.ch/link/Bund/916.010/de)) gewähren
+- b) weitere Projekte und Massnahmen für den Absatz regionaler Produkte und die Steigerung der Wertschöpfung der Landwirtschaft unterstützen
 
-- b) weitere Projekte und Massnahmen für den Absatz regionaler Produkte unterstützen.
-
-[^15-1]: SR 916.010
-
-### 6. Abschnitt: Tiergesundheitsdienste
+### 2.6 Tiergesundheitsdienste
 
 #### Artikel 16
 
-<sup>1</sup> Der Kanton kann Beiträge gewähren an die vom Bund anerkannten Tiergesundheitsdienste<sup>29</sup>.
+<sup>1</sup> Der Kanton kann Beiträge gewähren an die vom Bund anerkannten Tiergesundheitsdienste (SR [916.314.1](https://db.clex.ch/link/Bund/916.314.1/de), SR [916.405.4](https://db.clex.ch/link/Bund/916.405.4/de)).
 
-2 Er kann Projekte von Organisationen unterstützen mit dem Ziel, die Tierbestände gesundheitlich zu sanieren bzw. zu verbessern.
+<sup>2</sup> Er kann Projekte von Organisationen unterstützen mit dem Ziel, die Tierbestände gesundheitlich zu sanieren bzw. zu verbessern.
 
-### 7. Abschnitt: Pflanzenbau und -schutz
+### 2.7 Pflanzenschutz und ‑gesundheit, Herdenschutz
 
 #### Artikel 17
 
-**Fachstelle**
+**Fachstelle für Pflanzenschutz**
 
-<sup>1</sup> Der landwirtschaftliche Beratungsdienst ist die Fachstelle für Pflanzenschutz[^17-1].
+<sup>1</sup> Der landwirtschaftliche Beratungsdienst ist die Fachstelle für Pflanzenschutz (Pflanzenschutzdienst) (SR [910.1](https://db.clex.ch/link/Bund/910.1/de), Art. 150).
 
-<sup>2</sup> Die Fachstelle erfüllt alle Aufgaben, die das Bundesrecht dem Pflanzenschutzdienst überträgt. Sie hat insbesondere:
+<sup>2</sup> Die Fachstelle erfüllt alle Aufgaben, die das Bundesrecht dem Pflanzenschutzdienst überträgt, insbesondere die Aufgaben gemäss der Pflanzengesundheitsverordnung (SR [916.20](https://db.clex.ch/link/Bund/916.20/de)) und der Verordnung des BLW über phytosanitäre Massnahmen für die Landwirtschaft und den produzierenden Gartenbau (SR [916.202.1](https://db.clex.ch/link/Bund/916.202.1/de)).
 
-- a) das Auftreten und die Verbreitung von gemeingefährlichen Krankheiten und Schädlinge zu überwachen und den zuständigen Bundesstellen zu melden;
+<sup>3</sup> Soweit die Massnahmen nicht dem Bund obliegen, hat die Fachstelle insbesondere:
 
-- b) die notwendigen Massnahmen anzuordnen und zu vollziehen;
+- a) das Auftreten und die Verbreitung von gemeingefährlichen Krankheiten und Schädlingen zu überwachen und den zuständigen Bundesstellen zu melden
+- b) die notwendigen Vorsorge-, Bekämpfungs- und Tilgungsmassnahmen anzuordnen und zu vollziehen
+- c) die Anwendung von Erkenntnissen des umweltfreundlichen und biologischen Pflanzenschutzes zu fördern
 
-- c) die Anwendung von Erkenntnissen des umweltfreundlichen und biologischen Pflanzenschutzes zu fördern.
+#### Artikel 17a
 
-[^17-1]: SR 910.1 Art. 150
+**Zuständigkeit für Herdenschutz**
 
-### 8. Abschnitt: Bewirtschaftung und Pflege von Brachland
+<sup>1</sup> Das Amt für Landwirtschaft ist zuständig für alle Aufgaben im Bereich Herdenschutz, die dem Kanton obliegen, insbesondere gestützt auf die Jagdgesetzgebung des Bundes, soweit dieses Reglement nicht den landwirtschaftlichen Beratungsdienst als zuständig bezeichnet.
+
+### 2.8 Bewirtschaftung und Pflege von Brachland
 
 #### Artikel 18
 
 **Duldungspflicht**
 
-<sup>1</sup> Wer Brachland im Sinne von Artikel 71 des Bundesgesetzes über die Landwirtschaft[^18-1] bewirtschaften oder pflegen will, hat das dem Amt für Landwirtschaft zu beantragen.
+<sup>1</sup> Wer Brachland im Sinne von Artikel 165b des Bundesgesetzes über die Landwirtschaft (SR [910.1](https://db.clex.ch/link/Bund/910.1/de)) bewirtschaften oder pflegen will, hat das dem Amt für Landwirtschaft zu beantragen.
 
 <sup>2</sup> Das Amt für Landwirtschaft hört den Gemeinderat am Ort der gelegenen Sache und die Eigentümerin oder den Eigentümer der betroffenen Fläche an und entscheidet alsdann über das Gesuch.
 
-[^18-1]: SR 910.1
-
-### 9. Abschnitt: Beratung und Weiterbildung
+### 2.9 Beratung und Weiterbildung
 
 #### Artikel 19
 
 **Landwirtschaftlicher Beratungsdienst**
 
-Der Kanton unterhält einen landwirtschaftlichen Beratungsdienst (LBD). Er ist dem Amt für Landwirtschaft angegliedert.
+<sup>1</sup> Der Kanton unterhält einen landwirtschaftlichen Beratungsdienst (LBD). Er ist dem Amt für Landwirtschaft angegliedert.
 
 #### Artikel 20
 
@@ -318,34 +280,16 @@ Der Kanton unterhält einen landwirtschaftlichen Beratungsdienst (LBD). Er ist d
 
 <sup>1</sup> Der landwirtschaftliche Beratungsdienst unterstützt die in der Landwirtschaft und der bäuerlichen Hauswirtschaft Beschäftigten, damit sie ihre berufsbezogenen Probleme lösen und sich den ändernden Verhältnissen anpassen können.
 
-<sup>2</sup> Er ist in folgenden Bereichen tätig[^20-1]:
+<sup>2</sup> Die Tätigkeiten richten sich nach der Landwirtschaftsberatungsverordnung (SR 915.1) und der Jagdverordnung (SR [922.01](https://db.clex.ch/link/Bund/922.01/de)).
 
-- a) Erhaltung der natürlichen Lebensgrundlagen;
+<sup>3</sup> Er arbeitet in folgenden Leistungskategorien:
 
-- b) Entwicklung des ländlichen Raums;
-
-- c) Begleitung des Strukturwandels;
-
-- d) Nachhaltige Produktion;
-
-- e) Betriebswirtschaft, Hauswirtschaft und Ausrichtung auf den Markt;
-
-- f) Berufsbezogene Persönlichkeitsentwicklung und Unternehmensschulung.
-
-3 Er arbeitet in folgenden Leistungskategorien[^20-2]:
-
-- a) Beschaffung von Grundlagen und Daten;
-
-- b) Information und Dokumentation;
-
-- c) Weiterbildungs- und Informationsveranstaltungen;
-
-- d) Einzelberatung und Kleingruppenmoderation;
-
-- e) Unterstützung bei der Durchführung von Projekten und Prozessen.
-
-[^20-1]: Fassung gemäss RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
-[^20-2]: Eingefügt durch RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
+- a) Beschaffung von Grundlagen und Daten
+- b) Information und Dokumentation
+- c) Weiterbildungs- und Informationsveranstaltungen
+- d) Einzelberatung und Kleingruppenmoderation
+- e) Unterstützung bei der Durchführung von Projekten und Prozessen
+- f) Vernetzung von Forschung, Bildung und Beratung mit der land- und ernährungswirtschaftlichen Praxis
 
 #### Artikel 21
 
@@ -357,39 +301,35 @@ Der Kanton unterhält einen landwirtschaftlichen Beratungsdienst (LBD). Er ist d
 
 #### Artikel 22
 
-**Kantonsbeiträge an Buchstellen**
+**Unterstützung durch Fachexpertinnen und ‑experten**
 
-<sup>1</sup> Der Kanton kann landwirtschaftliche Buchstellen unterstützen.
+<sup>1</sup> Im Rahmen des Voranschlags kann das Amt für Landwirtschaft Fachexpertinnen und Fachexperten Aufträge im Zusammenhang mit der kantonalen Landwirtschaftspolitik und der Beurteilung der kantonalen Fördermassnahmen zugunsten der Landwirtschaft erteilen.
 
-<sup>2</sup> Der Kantonsbeitrag setzt voraus, dass die Buchstellen für Landwirtschaftsbetriebe Buchhaltungsabschlüsse vornimmt und ihnen weitere buchhalterische Dienstleistungen anbietet.
-
-<sup>3</sup> Landwirtschaftliche Buchstellen, die Kantonsbeiträge erhalten, sind verpflichtet, jährlich einen Bericht über die Einkommenssituation in der Urner Landwirtschaft zu erstellen und diese Daten dem Kanton zur Verfügung zu stellen.
-
-<sup>4</sup> Die Volkswirtschaftsdirektion regelt die Einzelheiten in einer Vereinbarung.
+<sup>2–4</sup> …
 
 #### Artikel 23
 
-Kantonsbeiträge an weitere Beratungsinstitutionen Der Kanton kann weitere Beratungsinstitutionen unterstützen.
+**Kantonsbeiträge an weitere Beratungsinstitutionen**
 
-### 3. Kapitel: STRUKTURVERBESSERUNGSMASSNAHMEN
+<sup>1</sup> Der Kanton kann weitere Beratungsinstitutionen unterstützen.
 
-### 1. Abschnitt: Investitionshilfen
+## 3 Strukturverbesserungsmassnahmen
 
-### 1. Unterabschnitt: Strukturleitbild
+### 3.1 Investitionshilfen
+
+### 3.1.1 Strukturleitbild
 
 #### Artikel 24
 
 <sup>1</sup> Das Strukturleitbild ist die Grundlage, um Investitionshilfen zur Verbesserung der landwirtschaftlichen Strukturen zu gewähren.
 
-<sup>2</sup> Der Einsatz der kantonalen Fördermittel erfolgt im Rahmen der bewilligten Kredite nach folgenden Prioritäten:[^24-1] a) In erster Priorität werden Projekte im Hoch- und Tiefbau gemäss Strukturverbesserungsverordnung des Bundes unterstützt;
+<sup>2</sup> Der Einsatz der kantonalen Fördermittel erfolgt im Rahmen der bewilligten Kredite nach folgenden Prioritäten:
 
-- b) In zweiter Priorität werden kantonale Baubeiträge für Hochbauprojekte ohne Bundesbeteiligung ausgerichtet;
+- a) In erster Priorität werden Projekte im Hoch- und Tiefbau gemäss Strukturverbesserungsverordnung des Bundes unterstützt
+- b) In zweiter Priorität werden kantonale Baubeiträge für Hochbauprojekte ohne Bundesbeteiligung ausgerichtet
+- c) In dritter Priorität werden, soweit Mittel verfügbar sind, übrige Massnahmen ohne Bundesbeteiligung gemäss Artikel 18 der kantonalen Landwirtschaftsverordnung unterstützt
 
-- c) In dritter Priorität werden, soweit Mittel verfügbar sind, übrige Massnahmen ohne Bundesbeteiligung gemäss Artikel 18 der kantonalen Landwirtschaftsverordnung unterstützt.
-
-[^24-1]: Eingefügt durch RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-
-### 2. Unterabschnitt: Allgemeine Bestimmungen
+### 3.1.2 Allgemeine Bestimmungen
 
 #### Artikel 25
 
@@ -399,95 +339,103 @@ Kantonsbeiträge an weitere Beratungsinstitutionen Der Kanton kann weitere Berat
 
 <sup>2</sup> Einzelbetriebliche Projekte und gemeinschaftliche Massnahmen mit Vorbildcharakter und zukunftsweisenden Neuerungen können mit einem Zuschlag von höchstens zehn Prozent zu den ordentlichen Ansätzen unterstützt werden.
 
-Artikel 26[^25-1] Kantonale Investitionshilfen ohne Bundesbeteiligung a) Form
+<sup>3</sup> Zur Vorfinanzierung der Bundesbeteiligung können kantonale Darlehen gewährt werden.
+
+#### Artikel 26
+
+**Kantonale Investitionshilfen ohne Bundesbeteiligung**
 
 <sup>1</sup> Kantonale Investitionshilfen ohne Bundesbeteiligung werden im Hochbau als Baubeiträge oder als Darlehen gewährt.
 
-2 Kantonale Investitionshilfen ohne Bundesbeteiligung werden im Tiefbau als Baubeiträge gewährt.
+<sup>2</sup> Kantonale Investitionshilfen ohne Bundesbeteiligung werden im Tiefbau als Baubeiträge gewährt.
 
 <sup>3</sup> Für die Zusicherung von kantonalen Darlehen an Hochbauprojekte sind die Bestimmungen, die für Darlehen des Bundes gelten, sinngemäss anwendbar.
 
-Artikel 27[^25-2] b) Baubeiträge im Hochbau Die Höhe der Baubeiträge des Kantons bemisst sich nach den Pauschalen gemäss Bundesrecht, höchstens aber 60 000 Franken im Einzelfall.
+#### Artikel 27
 
-Artikel 28[^25-3] b) Baubeiträge im Tiefbau
+**Kantonale Investitionshilfen ohne Bundesbeteiligung: Baubeiträge im Hochbau**
 
-<sup>1</sup> Der Kanton leistet Baubeiträge bis 25 Prozent der beitragsberechtigten Kosten, höchstens aber 50 000 Franken im Einzelfall.
+<sup>1</sup> Die Höhe der Baubeiträge des Kantons bemisst sich nach den Pauschalen gemäss Bundesrecht, höchstens aber 60'000 Franken im Einzelfall.
+
+#### Artikel 27a
+
+**Baubeiträge für die klimaschonende Heutrocknung**
+
+<sup>1</sup> Der Kanton leistet Baubeiträge bis 25 Prozent der beitragsberechtigten Kosten, höchstens aber 20'000 Franken im Einzelfall.
+
+<sup>2</sup> Als beitragsberechtigte Kosten werden anerkannt:
+
+- a) die notwendigen Geräte, Baumaterialien und Installationen
+- b) die Löhne für notwendige Fremdarbeiten
+- c) Eigenleistungen
+
+#### Artikel 28
+
+**Baubeiträge im Tiefbau**
+
+<sup>1</sup> Der Kanton leistet Baubeiträge bis 25 Prozent der beitragsberechtigten Kosten, höchstens aber 50'000 Franken im Einzelfall.
 
 <sup>2</sup> Wegbauten wie Viehtrieb- und Bewirtschaftungswege können nur im Sömmerungsgebiet unterstützt werden.
 
 <sup>3</sup> Als beitragsberechtigte Kosten werden anerkannt:
 
-- a) die notwendigen Baumaterialien;
-
-- b) die Transportkosten bei erschwerten Zufahrtsverhältnissen;
-
-- c) die Löhne für notwendige Fremdarbeiten;
-
-- d) weitere Kosten, die in der Regel beim Bauen in Selbsthilfe unvermeidbar sind.
+- a) die notwendigen Baumaterialien
+- b) die Transportkosten bei erschwerten Zufahrtsverhältnissen
+- c) die Löhne für notwendige Fremdarbeiten
+- d) weitere Kosten, die in der Regel beim Bauen in Selbsthilfe unvermeidbar sind
 
 <sup>4</sup> Massgeblich für den Finanzierungsanteil sind die finanziellen Verhältnisse der Bauherrschaft.
 
-<sup>5</sup> An Projekte mit beitragsberechtigten Kosten über 200 000 Franken werden keine Baubeiträge gewährt.
+<sup>5</sup> An Projekte mit beitragsberechtigten Kosten über 200'000 Franken werden keine Baubeiträge gewährt.
 
-Artikel 29[^25-4] Eigenmittel und Mindesthöhe einer Investition
+#### Artikel 29
+
+**Eigenmittel und Mindesthöhe einer Investition**
 
 <sup>1</sup> Investitionshilfen werden gewährt, wenn die Gesuchstellerin oder der Gesuchsteller mindestens 15 Prozent der Investitionskosten aus eigenen Mitteln finanziert.
 
-2 Es werden keine Investitionshilfen für Investitionen mit Kosten unter 30 000 Franken gewährt.
+<sup>2</sup> Es werden keine Investitionshilfen für Investitionen mit Kosten unter 40'000 Franken gewährt.
 
-Artikel 30[^25-5] Konzepte und Planungsgrundlagen
+<sup>3</sup> Umwelt- und Klimamassnahmen sowie die periodische Wiederinstandstellung (PWI) sind von Absatz 2 ausgenommen.
+
+#### Artikel 30
+
+**Konzepte und Planungsgrundlagen**
 
 <sup>1</sup> Der Kanton kann zur Verbesserung der Land- und Alpwirtschaft ein Land- oder Alpwirtschaftskonzept einfordern und er kann sich an dessen Kosten beteiligen.
 
 <sup>2</sup> Er kann zur Schliessung von Lücken in der Haupterschliessung der Heimbetriebe projektbezogene oder regionale Landwirtschaftsplanungen einfordern und sich an deren Kosten beteiligen.
 
-<sup>3</sup> Er kann zur Schliessung von Lücken in der innerbetrieblichen Erschliessung von Alpbetrieben projektbezogene oder regionale Alpkonzepte einfordern und sich an deren Kosten beteiligen.[^25-6]
+<sup>3</sup> Er kann zur Schliessung von Lücken in der Erschliessung von Alpbetrieben projektbezogene oder regionale Alpkonzepte einfordern und sich an deren Kosten beteiligen.
 
-<sup>4</sup> Eine mehrmalige Unterstützung von Viehtrieb- und Bewirtschaftungswegen desselben Betriebs setzt ein Gesamtkonzept der innerbetrieblichen Erschliessung voraus.[^25-7]
+<sup>4</sup> Eine mehrmalige Unterstützung von Viehtrieb- und Bewirtschaftungswegen desselben Betriebs setzt ein Gesamtkonzept der innerbetrieblichen Erschliessung voraus.
 
-[^25-1]: Fassung gemäss RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-[^25-2]: Fassung gemäss RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-[^25-3]: Fassung gemäss RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-[^25-4]: Fassung gemäss RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-[^25-5]: Fassung gemäss RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
-[^25-6]: Eingefügt durch RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-[^25-7]: Eingefügt durch RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-
-### 3. Unterabschnitt: Verfahren
+### 3.1.3 Verfahren
 
 #### Artikel 31
 
 **Gesuch**
 
-<sup>1</sup> Wer Investitionshilfe nach diesem Kapitel beansprucht, hat dem Amt für Landwirtschaft ein Gesuch einzureichen.[^31-1]
+<sup>1</sup> Wer Investitionshilfe nach diesem Kapitel beansprucht, hat dem Amt für Landwirtschaft ein Gesuch einzureichen.
 
-<sup>2</sup> Das Gesuch hat folgende Unterlagen zu enthalten[^31-2]:
+<sup>2</sup> Das Gesuch hat folgende Unterlagen zu enthalten:
 
-- a) vollständige Angaben auf dem offiziellen Gesuchsformular;
+- a) vollständige Angaben auf dem offiziellen Gesuchsformular
+- b) Planstudien, Skizzen oder Vorprojekt
+- c) Projektbeschrieb
+- d) Kostenschätzung
+- e) Betriebsvoranschlag bei einer Investition ab 200'000 Franken sowie bei angespannten finanziellen Verhältnissen
+- f) weitere Unterlagen, die für die Beurteilung des Gesuchs von besonderer Bedeutung sind
 
-- b) Planstudien, Skizzen oder Vorprojekt;
+<sup>3</sup> Der Betriebsvoranschlag gemäss Absatz 2 Buchstabe e muss mit einer betriebswirtschaftlich aussagekräftigen Buchhaltung der letzten drei Jahre berechnet sein.
 
-- c) Projektbeschrieb;
-
-- d) Kostenschätzung;
-
-- e) Betriebsvoranschlag bei einer Investition ab 200 000 Franken sowie bei angespannten finanziellen Verhältnissen;
-
-- f) weitere Unterlagen, die für die Beurteilung des Gesuchs von besonderer Bedeutung sind.
-
-<sup>3</sup> Der Betriebsvoranschlag gemäss Absatz 2 Buchstabe e muss mit einer betriebswirtschaftlich aussagekräftigen Buchhaltung der letzten drei Jahre berechnet sein.[^31-3]
-
-<sup>4</sup> Das Amt für Landwirtschaft leitet das Gesuch dem Bund, den Korporationen, den Gemeinden und Dritten weiter, sofern diese das Vorhaben ebenfalls finanziell unterstützen können. Es erstrebt dabei eine Koordination der Gesuchsbehandlung.
-
-[^31-1]: Fassung gemäss gemäss RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-[^31-2]: Fassung gemäss gemäss RRB vom 6. September 2022, in Kraft gesetzt auf den 1. Januar 2023 (AB vom 16. September 2022).
-[^31-3]: Eingefügt durch RRB vom 28. Februar 2012, in Kraft gesetzt auf den 1. Juni 2012 (AB vom 9. März 2012).
+<sup>4</sup> Das Amt für Landwirtschaft leitet das Gesuch dem Bund, den Korporationen, den Gemeinden und Dritten weiter, sofern diese das Vorhaben ebenfalls finanziell unterstützen können. Es strebt dabei eine Koordination der Gesuchsbehandlung an.
 
 #### Artikel 32
 
 **Grundsatz- und Zusicherungsentscheid**
 
-<sup>1</sup> Die Landwirtschaftskommission erlässt in der Regel vor der Projektierung einen Grundsatzentscheid über die Anerkennung des Gesuches, bevor sie die Investitionshilfe frankenmässig und mit den einzelnen Bedingungen und Auflagen in einem Zusicherungsentscheid festlegt.
+<sup>1</sup> Die Landwirtschaftskommission kann vor der Projektierung einen Grundsatzentscheid über die Anerkennung des Gesuches erlassen, bevor sie die Investitionshilfe frankenmässig und mit den einzelnen Bedingungen und Auflagen in einem Zusicherungsentscheid festlegt.
 
 <sup>2</sup> Mit dem Grundsatzentscheid kann die Landwirtschaftskommission projektspezifische Rahmenbedingungen festlegen, die bei der weiteren Projektierung zu berücksichtigen sind.
 
@@ -499,13 +447,12 @@ Artikel 30[^25-5] Konzepte und Planungsgrundlagen
 
 **Baubeginn**
 
-<sup>1</sup> Die Bauherrschaft darf mit den Bauarbeiten erst beginnen, wenn a) das Projekt genehmigt ist;
+<sup>1</sup> Die Bauherrschaft darf mit den Bauarbeiten erst beginnen, wenn:
 
-- b) die Investitionshilfen rechtskräftig zugesichert sind;
-
+- a) das Projekt genehmigt ist
+- b) die Investitionshilfen rechtskräftig zugesichert sind
 - c) die Finanzierung und Tragbarkeit der Massnahme sichergestellt und
-
-- d) die Baubewilligung rechtskräftig ist.
+- d) die Baubewilligung rechtskräftig ist
 
 <sup>2</sup> Das Amt für Landwirtschaft kann ausnahmsweise den vorzeitigen Baubeginn bewilligen, wenn besondere Gründe vorliegen.
 
@@ -513,7 +460,7 @@ Artikel 30[^25-5] Konzepte und Planungsgrundlagen
 
 **Projektänderungen**
 
-Projektänderungen müssen vor der Ausführung vom Amt für Landwirtschaft bewilligt sein. Nicht bewilligte Projektänderungen führen zu einer Kürzung der Investitionshilfe, wenn nicht besondere Gründe vorliegen, die das Vorgehen der Bauherrschaft rechtfertigen.
+<sup>1</sup> Projektänderungen müssen vor der Ausführung vom Amt für Landwirtschaft bewilligt sein. Nicht bewilligte Projektänderungen führen zu einer Kürzung der Investitionshilfe, wenn nicht besondere Gründe vorliegen, die das Vorgehen der Bauherrschaft rechtfertigen.
 
 #### Artikel 35
 
@@ -539,7 +486,7 @@ Projektänderungen müssen vor der Ausführung vom Amt für Landwirtschaft bewil
 
 <sup>2</sup> Es übt die Aufsicht aus über die zweckgebundene Verwendung des Werks sowie über die Unterhalts- und die Bewirtschaftungspflicht.
 
-### 2. Abschnitt: Betriebshilfe
+### 3.2 Betriebshilfe
 
 #### Artikel 38
 
@@ -547,89 +494,76 @@ Projektänderungen müssen vor der Ausführung vom Amt für Landwirtschaft bewil
 
 <sup>2</sup> Die Gewährung der Betriebshilfe setzt eine betriebswirtschaftliche Buchhaltung voraus.
 
-### 3. Abschnitt: Landwirtschaftliche Kreditkasse
+### 3.3 Landwirtschaftliche Kreditkasse
 
 #### Artikel 39
 
-Unter dem Namen «Landwirtschaftliche Kreditkasse Uri (LKU)» führt der Kanton eine eigene Rechnung. Deren Zweck ist es, die gewährten Darlehen und ihre Rückzahlung buchhalterisch auszuweisen. Der Geldfluss von Investitionskrediten und Betriebshilfedarlehen des Bundes und von solchen des Kantons ist getrennt auszuweisen.
+<sup>1</sup> Unter dem Namen «Landwirtschaftliche Kreditkasse Uri (LKU)» führt der Kanton eine eigene Rechnung. Deren Zweck ist es, die gewährten Darlehen und ihre Rückzahlung buchhalterisch auszuweisen. Der Geldfluss von Investitionskrediten und Betriebshilfedarlehen des Bundes und von solchen des Kantons ist getrennt auszuweisen.
 
-### 4. Kapitel: BODENRECHT
+## 4 Bodenrecht
 
 #### Artikel 40
 
 **Rechtsgrundlage**
 
-Die Bestimmungen dieses Kapitels vollziehen das Bundesgesetz über das bäuerliche Bodenrecht (BGBB)[^40-1].
-
-[^40-1]: SR 211.412.11
+<sup>1</sup> Die Bestimmungen dieses Kapitels vollziehen das Bundesgesetz über das bäuerliche Bodenrecht (BGBB, SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)).
 
 #### Artikel 41
 
 **Zuständigkeiten**
 
-<sup>1</sup> Das Amt für Landwirtschaft ist die kantonale Fachstelle für das bäuerliche Bodenrecht. Gesuche nach dem BGBB[^41-1] sind dieser Amtsstelle zu unterbreiten.
+<sup>1</sup> Das Amt für Landwirtschaft ist die kantonale Fachstelle für das bäuerliche Bodenrecht. Gesuche nach dem BGBB (SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)) sind dieser Amtsstelle zu unterbreiten.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion ist die Bewilligungsbehörde im Sinne des BGBB<sup>47</sup>. Sie hat insbesondere:
+<sup>2</sup> Die Volkswirtschaftsdirektion ist die Bewilligungsbehörde im Sinne des BGBB (SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)). Sie hat insbesondere:
 
-- a) Ausnahmen vom Realteilungs- und Zerstückelungsverbot zu erteilen (Art. 60 BGBB);
-
-- b) Erwerbsbewilligungen zu erteilen (Art. 61 bis 65 BGBB);
-
-- c) Überschreitung der Belastungsgrenze zu bewilligen (Art. 76 BGBB);
-
-- d) Anmerkungen im Grundbuch anzuordnen und anzumelden (Art. 86 BGBB).
+- a) Ausnahmen vom Realteilungs- und Zerstückelungsverbot zu erteilen (Art. 60 BGBB)
+- b) Erwerbsbewilligungen zu erteilen (Art. 61 bis 65 BGBB)
+- c) Überschreitung der Belastungsgrenze zu bewilligen (Art. 76 BGBB)
+- d) Anmerkungen im Grundbuch anzuordnen und anzumelden (Art. 86 BGBB)
 
 <sup>3</sup> Die Justizdirektion ist die Aufsichtsbehörde, die Entscheide der Bewilligungsbehörde anfechten kann (Art. 83 Abs. 3 BGBB).
 
-<sup>4</sup> Die Zivilschätzungskommission im Sinne von Artikel 104 EG/ZGB[^41-2] führt die Schätzungen des Ertragswertes durch und genehmigt sie (Art. 87 BGBB).
+<sup>4</sup> Die Zivilschätzungskommission im Sinne von Artikel 104 EG/ZGB (RB [9.2111](https://rechtsbuch.ur.ch/data/9.2111/de)) führt die Schätzungen des Ertragswertes durch und genehmigt sie (Art. 87 BGBB).
 
-5 Die Abteilung Liegenschaftsschätzungen nimmt im Auftrag des Amtes für Landwirtschaft vorläufige Schätzungen im Sinne von Artikel 87 Absatz 2 BGBB<sup>49</sup> vor.
+<sup>5</sup> Die Abteilung Liegenschaftsschätzungen nimmt im Auftrag des Amtes für Landwirtschaft vorläufige Schätzungen im Sinne von Artikel 87 Absatz 2 BGBB (SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)) vor.
 
-<sup>6</sup> Das Obergericht ist die kantonale Beschwerdebehörde (Art. 88 Abs. 1 BGBB<sup>50</sup>).
+<sup>6</sup> Das Obergericht ist die kantonale Beschwerdebehörde (Art. 88 Abs. 1 BGBB, SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)).
 
-[^41-1]: SR 211.412.11
-[^41-2]: RB 9.2111
-
-### 5. Kapitel: FINANZIELLE BESTIMMUNGEN, GEBÜHREN UND VERFAHREN
+## 5 Finanzielle Bestimmungen, Gebühren und Verfahren
 
 #### Artikel 42
 
 **Verfassungsmässige Finanzkompetenz**
 
-Sämtliche Beiträge und Darlehen nach diesem Reglement unterliegen den verfassungsmässigen Finanzkompetenzen. Sie werden nur im Rahmen der bewilligten Kredite zugesichert und ausbezahlt.
+<sup>1</sup> Sämtliche Beiträge und Darlehen nach diesem Reglement unterliegen den verfassungsmässigen Finanzkompetenzen. Sie werden nur im Rahmen der bewilligten Kredite zugesichert und ausbezahlt.
 
 #### Artikel 43
 
 **Beitragshöhe**
 
-Soweit das übergeordnete Recht oder dieses Reglement die Beitragshöhe nicht näher bestimmt, richtet sie sich nach der Bedeutung, die die einzelne Massnahme für die urnerische Landwirtschaft hat.
+<sup>1</sup> Soweit das übergeordnete Recht oder dieses Reglement die Beitragshöhe nicht näher bestimmt, richtet sie sich nach der Bedeutung, die die einzelne Massnahme für die urnerische Landwirtschaft hat.
 
 #### Artikel 44
 
 **Zuständigkeit**
 
-Im Rahmen der Kantonalen Landwirtschaftsverordnung und soweit dieses Reglement nichts anderes bestimmt, sind zuständig, Beiträge zuzusichern und auszuzahlen:
+<sup>1</sup> Im Rahmen der Kantonalen Landwirtschaftsverordnung und soweit dieses Reglement nichts anderes bestimmt, sind zuständig, Beiträge zuzusichern:
 
-- a) das Amt für Landwirtschaft: für Beiträge, die nach dem Bundesrecht zwingend vorgesehen sind oder die 5 000 Franken nicht übersteigen;
-
-- b) die Volkswirtschaftsdirektion: für wiederkehrende Beiträge bis 10 000 Franken im Jahr oder für Beiträge im Einzelfall bis 20 000 Franken;
-
-- c) der Regierungsrat: für alle übrigen Beiträge.
+- a) das Amt für Landwirtschaft: für Beiträge, die nach dem Bundesrecht zwingend vorgesehen sind oder die 5'000 Franken nicht übersteigen
+- b) die Volkswirtschaftsdirektion: für wiederkehrende Beiträge bis 10'000 Franken im Jahr oder für Beiträge im Einzelfall bis 20'000 Franken
+- c) der Regierungsrat: für alle übrigen Beiträge
 
 #### Artikel 45
 
 **Rechtsanspruch**
 
-Soweit das übergeordnete Recht nichts anderes bestimmt, hat niemand einen Rechtsanspruch auf Beiträge oder Darlehen nach diesem Reglement.
+<sup>1</sup> Soweit das übergeordnete Recht nichts anderes bestimmt, hat niemand einen Rechtsanspruch auf Beiträge oder Darlehen nach diesem Reglement.
 
 #### Artikel 46
 
 **Gebühren**
 
-Die Gebühren für Amtshandlungen nach diesem Reglement richten sich nach der Gebührenverordnung[^46-1] und dem Gebührenreglement[^46-2].
-
-[^46-1]: RB 3.2512
-[^46-2]: RB 3.2521
+<sup>1</sup> Die Gebühren für Amtshandlungen nach diesem Reglement richten sich nach der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und dem Gebührenreglement (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
 
 #### Artikel 47
 
@@ -637,44 +571,32 @@ Die Gebühren für Amtshandlungen nach diesem Reglement richten sich nach der Ge
 
 <sup>1</sup> Gesuche um Beiträge oder Darlehen nach diesem Reglement sind dem Amt für Landwirtschaft einzureichen, bevor wesentliche Entscheide zur Verwirklichung der Massnahme getroffen werden.
 
-<sup>2</sup> Im Übrigen und soweit das übergeordnete Recht oder dieses Reglement nichts anderes bestimmt, richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege[^47-1].
+<sup>2</sup> Im Übrigen und soweit das übergeordnete Recht oder dieses Reglement nichts anderes bestimmt, richtet sich das Verfahren nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
 
-[^47-1]: RB 2.2345
-
-### 6. Kapitel: SCHLUSSBESTIMMUNGEN
+## 6 Schlussbestimmungen
 
 #### Artikel 48
 
 **Aufhebung bisherigen Rechts**
 
-Es werden aufgehoben:
+<sup>1</sup> Es werden aufgehoben:
 
-- a) das Reglement vom 23. Dezember 1991 über das landwirtschaftliche Beitragswesen[^48-1];
-
-- b) das Reglement vom 18. August 1969 über die landwirtschaftliche Betriebsberatung[^48-2];
-
-- c) das Reglement vom 24. Oktober 1983 über die Förderung der Viehwirtschaft[^48-3];
-
-- d) das Reglement vom 31. Januar 1983 über die Beitragsleistungen des Kantons an Alp- und Bodenverbesserungen[^48-4];
-
-- e) das Reglement vom 30. August 1993 zum Bundesgesetz über das bäuerliche Bodenrecht[^48-5].
-
-[^48-1]: RB 60.1321
-[^48-2]: RB 60.1231
-[^48-3]: RB 60.2315
-[^48-4]: RB 40.1315
-[^48-5]: RB 9.5101
+- a) das Reglement vom 23. Dezember 1991 über das landwirtschaftliche Beitragswesen
+- b) das Reglement vom 18. August 1969 über die landwirtschaftliche Betriebsberatung
+- c) das Reglement vom 24. Oktober 1983 über die Förderung der Viehwirtschaft
+- d) das Reglement vom 31. Januar 1983 über die Beitragsleistungen des Kantons an Alp- und Bodenverbesserungen
+- e) das Reglement vom 30. August 1993 zum Bundesgesetz über das bäuerliche Bodenrecht
 
 #### Artikel 49
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^Artikel49-1]**
 
-**Artikel 50 Inkrafttreten**
+[^Artikel49-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
 
-**Im Namen des Regierungsrates**
+#### Artikel 50
 
-**Frau Landammann: Dr. Gabi Huber Der Kanzleidirektor: Dr. Peter Huber**
+**Inkrafttreten**
 
-...[^49-1] Dieses Reglement tritt am 1. November 2002 in Kraft.
+<sup>1</sup> Dieses Reglement tritt am 1. November 2002 in Kraft.
 
-[^49-1]: Die Änderung wurde in den entsprechenden Erlass eingefügt.
+AB 01.11.2002
