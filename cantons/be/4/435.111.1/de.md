@@ -4,13 +4,12 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2026-02-01
-valid_until: 2026-07-31
-version_adopted: 2026-02-12
+version: 2026-08-01
+version_adopted: 2026-05-26
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3348/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3348/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.02.2026)
+vom 06.04.2006 (Stand 01.08.2026)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -155,9 +154,9 @@ beschliesst:
 
 **Abschlussbeurteilung**
 
-<sup>1</sup> In der Abschlussbeurteilung des BPI und des BPA werden die Sachkompetenz in den einzelnen Fächern und die überfachlichen Kompetenzen beurteilt.
+<sup>1</sup> In der Abschlussbeurteilung des BPI und des BPA werden die Kompetenzen in den einzelnen Lernbereichen und die überfachlichen Kompetenzen beurteilt.
 
-<sup>2</sup> In der Abschlussbeurteilung des BVS Plus werden die Kompetenzen in den Fächern erste Landessprache, Mathematik sowie die überfachlichen Kompetenzen beurteilt.
+<sup>2</sup> In der Abschlussbeurteilung des BVS Plus werden die Kompetenzen in den allgemeinbildenden Lernbereichen und die überfachlichen Kompetenzen beurteilt.
 
 #### Art. 4b
 
@@ -1046,11 +1045,11 @@ beschliesst:
 
 #### Art. 49
 
-**Aufnahme**
+**Aufnahmeverfahren**
 
-<sup>1</sup> Die Aufnahme in eine BM erfolgt immer provisorisch für ein Semester.
+<sup>1</sup> …
 
-<sup>2</sup> Im Übrigen richtet sich das Verfahren nach den Bestimmungen für die Aufnahme in die BM 1.
+<sup>2</sup> Das Aufnahmeverfahren richtet sich nach den Bestimmungen für die Aufnahme in die BM 1.
 
 #### Art. 49a
 
@@ -1064,22 +1063,24 @@ beschliesst:
 
 #### Art. 50
 
-**1. BM 1**
+**1. BM 1 und BM 2**
 
-<sup>1</sup> Für die Promotion an der BM 1 gelten die Bestimmungen von Artikel 17 Absatz 4 und 5 Buchstabe a der Verordnung des Bundesrates vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^50-1].
+<sup>1</sup> Für die Promotion an der BM 1 und BM 2 gelten die Bestimmungen von Artikel 16 der Verordnung des Bundesrates vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^50-1].
 
-<sup>2</sup> Die Promotionsfächer sind im Rahmenlehrplan des SBFI vom 18. Dezember 2012 für die Berufsmaturität (RLP-BM)[^50-2] festgelegt.
+<sup>2</sup> Die Promotionsfächer sind im Rahmenlehrplan des SBFI vom 13. Juni 2025 für die Berufsmaturität (RLP-BM)[^50-2] festgelegt.
 
 <sup>3–4</sup> …
 
+<sup>5</sup> Die Präsenz im BM 2-Unterricht muss in jedem Semester je Fach mindestens 80 Prozent betragen. Das Nichterfüllen dieser Bedingung ist gleichbedeutend wie das Nichterfüllen der Promotionsbestimmungen. Die Schulleitung entscheidet mit Verfügung über Ausnahmen.
+
 [^50-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
-[^50-2]: [https://www.sbfi.admin.ch/sbfi/de/home/bildung/maturitaet/berufsmaturitaet.html](https://www.sbfi.admin.ch/sbfi/de/home/bildung/maturitaet/berufsmaturitaet.html)
+[^50-2]: [https://www.sbfi.admin.ch/de/berufsmaturitaet](https://www.sbfi.admin.ch/de/berufsmaturitaet)
 
 #### Art. 50a
 
 **2. HMS mit BM**
 
-<sup>1</sup> Die Promotion an HMS mit BM richtet sich nach Artikel 17 BMV. Für die Promotion zählen zusätzlich die Fächer «Handlungskompetenzbereich E (HKB-E)» und «Berufskenntnisse» (Summe der in einem Semester erzielten Beurteilungen in den HKB B-D). Im Fach Sport und in den Freifächern werden Zeugnisnoten erteilt, die jedoch für die Promotion nicht zählen.
+<sup>1</sup> Die Promotion an HMS mit BM richtet sich nach Artikel 16 BMV. Für die Promotion zählen zusätzlich die Fächer «Handlungskompetenzbereich E (HKB-E)» und «Berufskenntnisse» (Summe der in einem Semester erzielten Beurteilungen in den HKB B-D). Im Fach Sport und in den Freifächern werden Zeugnisnoten erteilt, die jedoch für die Promotion nicht zählen.
 
 <sup>2</sup> Wer die Promotionsbedingungen nicht erfüllt, wird provisorisch promoviert. Dies ist letztmals am Ende des fünften Semesters möglich.
 
@@ -1093,9 +1094,7 @@ beschliesst:
 
 #### Art. 51
 
-**3. BM 2**
-
-<sup>1</sup> Die Präsenz im BM-Unterricht muss in jedem Semester je Fach mindestens 80 Prozent betragen. Das Nichterfüllen dieser Bedingung ist gleichbedeutend wie das Nichterfüllen der Promotionsbestimmungen. Die Schulleitung entscheidet mit Verfügung über Ausnahmen.
+**…**
 
 ### 2.6.4 Berufsmaturitätsprüfung (BMP)
 
@@ -1120,9 +1119,11 @@ beschliesst:
 
 #### Art. 53
 
-**Prüfungsfächer und – dauer, Öffentlichkeit**
+**Prüfungsfächer, -dauer und -form, Öffentlichkeit**
 
 <sup>1</sup> Die Bestimmungen über die Prüfungsfächer und die Prüfungsdauer der einzelnen Berufsmaturitätsrichtungen sowie über die mehrsprachige Berufsmaturität finden sich im RLP-BM.
+
+<sup>1a</sup> In der zweiten Landessprache und Englisch wird sowohl schriftlich als auch mündlich geprüft.
 
 <sup>2</sup> Die Prüfungen sind nicht öffentlich. Für die IDPA kann die Schulleitung eine abweichende Regelung festlegen.
 
@@ -1136,13 +1137,13 @@ beschliesst:
 
 **Vorgezogene Prüfungen**
 
-<sup>1</sup> Die KBMK legt auf Antrag der Schulleitungen fest, welche Fächer gemäss Artikel 22 Absatz 2 BMV vorzeitig abgeschlossen werden.
+<sup>1</sup> Die KBMK legt auf Antrag der Schulleitungen fest, welche Fächer gemäss Artikel 21 Absatz 2 BMV vorzeitig abgeschlossen werden.
 
 #### Art. 55
 
 **Leistungsbewertung und Notenberechnung**
 
-<sup>1</sup> Für die Leistungsbewertung und Notenberechnung gelten die Bestimmungen von Artikel 16 BMV.
+<sup>1</sup> Für die Leistungsbewertung und die Notenberechnung gelten die Bestimmungen von Artikel 23 BMV.
 
 #### Art. 56
 
@@ -1150,9 +1151,11 @@ beschliesst:
 
 #### Art. 57
 
-**Internationale Sprachdiplome**
+**Umrechnung von Sprachdiplom- und Prüfungsresultaten**
 
 <sup>1</sup> Ersetzt der Erwerb eines internationalen Sprachdiploms die entsprechende Berufsmaturitätsprüfung, so wird das Ergebnis gemäss den interkantonalen Vorgaben in Noten umgerechnet und berücksichtigt.
+
+<sup>2</sup> Wird die zweite Landessprache und Englisch auf einem höheren Niveau als B1 unterrichtet und auf dem Niveau B2 geprüft, so wird das Resultat der Abschlussprüfung gemäss den interkantonalen Vorgaben in Noten des Niveaus B1 umgerechnet.
 
 #### Art. 58
 
@@ -1162,7 +1165,7 @@ beschliesst:
 
 **Aufbewahrungsfristen**
 
-<sup>1</sup> Die schriftlichen Arbeiten und die Protokolle der mündlichen Prüfungen, die Semester- und Jahreszeugnisse sowie die IDPA werden bis zum Ablauf der Beschwerdefrist bzw. bis zur rechtskräftigen Erledigung allfälliger Beschwerden von der Schule aufbewahrt, mindestens aber ein Jahr.
+<sup>1</sup> Die schriftlichen Arbeiten, die Semester- und Jahreszeugnisse sowie die IDPA werden bis zum Ablauf der Beschwerdefrist bzw. bis zur rechtskräftigen Erledigung allfälliger Beschwerden von der Schule aufbewahrt, mindestens aber ein Jahr.
 
 <sup>2</sup> Die Berufsmaturitätszeugnisse und Notenausweise werden unbefristet aufbewahrt.
 
@@ -1190,7 +1193,7 @@ beschliesst:
 
 **Prüfungswiederholung**
 
-<sup>1</sup> Die Wiederholung der Berufsmaturitätsprüfung richtet sich nach Artikel 26 BMV.
+<sup>1</sup> Die Wiederholung der Berufsmaturitätsprüfung richtet sich nach Artikel 25 BMV.
 
 <sup>2</sup> Die Prüfung kann in der Regel nach einem Jahr wiederholt werden. Die KBMK entscheidet mit Verfügung über Ausnahmen.
 
@@ -1594,7 +1597,7 @@ beschliesst:
 
 <sup>1</sup> Die Entschädigung der BM-Expertinnen und -Experten beträgt bei schriftlichen Prüfungen pro Kandidatin oder Kandidaten pro halbe Prüfungsstunde drei Franken zuzüglich eines Sockelbeitrags von zwei Franken. Die massgebende Prüfungsdauer richtet sich nach dem RLP-BM. Pro Schule wird mindestens die Entschädigung für acht Prüfungen ausgerichtet.
 
-<sup>2</sup> Die Entschädigung der Expertinnen und Experten beträgt für alle mündlich geprüften Fächer pro Kandidatin oder Kandidaten 18 Franken, wobei pro Prüfungshalbtag mindestens der Betrag für sechs Prüfungen ausgerichtet wird. Pro Schule wird mindestens die Entschädigung für acht Prüfungen ausgerichtet.
+<sup>2</sup> Die Entschädigung der Expertinnen und Experten beträgt für alle mündlichen Prüfungen pro Kandidatin oder Kandidaten 18 Franken, wobei pro Prüfungshalbtag mindestens der Betrag für sechs Prüfungen ausgerichtet wird. Pro Schule wird mindestens die Entschädigung für acht Prüfungen ausgerichtet.
 
 <sup>3</sup> Für deutlich über die normale Beanspruchung hinausgehende Experten- oder Hauptexpertentätigkeiten, insbesondere im Zusammenhang mit Beschwerdeverfahren, kann durch die Präsidentin oder den Präsidenten der Prüfungskommission bzw. durch die Hauptexpertin oder den Hauptexperten eine Entschädigung von 30 Franken pro Stunde ausgereichtet werden.
 
@@ -1658,6 +1661,12 @@ beschliesst:
 
 - a für die berufseinsteigende oder wiedereinsteigende Lehrkraft drei Beschäftigungsgradprozente,
 - b für die unterstützende Lehrkraft drei Beschäftigungsgradprozente pro unterstützte Lehrkraft.
+
+### 6.6 Berechnung der Ressourcen des Pools für Spezialaufgaben
+
+#### Art. 95d
+
+<sup>1</sup> Die Erhöhung gemäss Artikel 47b Absatz 3 Buchstabe a BerV beträgt fünf Beschäftigungsgradprozente pro 24 Lernende.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
@@ -1806,7 +1815,7 @@ beschliesst:
 
 <sup>4</sup> Die Wiederholung des Qualifikationsverfahrens mit Abschlussprüfung für Kauffrau oder Kaufmann EFZ findet für Lernende an einer HMS ohne BM letztmals 2027 bzw. für Lernende an einer HMS mit BM letztmals 2028 nach bisherigem Recht statt.
 
-## T9 Übergangsbestimmung der Änderung vom 12. Februar 2026
+## T9 Übergangsbestimmung der Änderung vom 12.02.2026
 
 #### Art. T9-1
 
@@ -1816,6 +1825,14 @@ beschliesst:
 
 [^T91-1]: https://www.fedlex.admin.ch/eli/cc/2011/811/de
 [^T91-2]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
+
+## T10 Übergangsbestimmung der Änderung vom 26.05.2026
+
+#### Art. T10-1
+
+<sup>1</sup> Für Berufsmaturandinnen und Berufsmaturanden, die Berufsmaturitätsausbildung vor dem 1. August 2026 begonnen haben, gilt das bisherige Recht.
+
+<sup>2</sup> Für Berufsmaturandinnen und Berufsmaturanden ist die Wiederholung der Berufsmaturitätsprüfung nach bisherigem Recht letztmals im Jahre 2030 möglich.
 
 Bern, 6. April 2006
 

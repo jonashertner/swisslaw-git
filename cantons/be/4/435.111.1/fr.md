@@ -4,13 +4,12 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2026-02-01
-valid_until: 2026-07-31
-version_adopted: 2026-02-12
+version: 2026-08-01
+version_adopted: 2026-05-26
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3348/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3405/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3348/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.02.2026)
+du 06.04.2006 (état au 01.08.2026)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -155,9 +154,9 @@ arrête:
 
 **Evaluation finale**
 
-<sup>1</sup> L'évaluation finale de l'API et de l'APF porte sur les compétences des élèves dans les différentes disciplines et sur leurs compétences transversales.
+<sup>1</sup> L'évaluation finale de l'API et de l'APF porte sur les compétences des élèves dans les différents domaines de formation et sur leurs compétences transversales.
 
-<sup>2</sup> L'évaluation finale de l'APP plus porte sur les compétences des élèves dans la première langue nationale et en mathématiques ainsi que sur leurs compétences transversales.
+<sup>2</sup> L'évaluation finale de l'APP plus porte sur les compétences des élèves dans les domaines de formation générale et sur leurs compétences transversales.
 
 #### Art. 4b
 
@@ -1048,9 +1047,9 @@ arrête:
 
 **Admission**
 
-<sup>1</sup> L'admission en MP est toujours provisoire pour un semestre.
+<sup>1</sup> …
 
-<sup>2</sup> Au surplus, la procédure est régie par les dispositions relatives à l'admission en MP 1.
+<sup>2</sup> La procédure d’admission est régie par les dispositions relatives à l'admission en MP 1.
 
 #### Art. 49a
 
@@ -1064,22 +1063,24 @@ arrête:
 
 #### Art. 50
 
-**1. MP 1**
+**1. MP 1 et MP 2**
 
-<sup>1</sup> En MP 1, la promotion est régie par l'article 17, alinéas 4 et 5, lettre a de l'ordonnance fédérale du 24 juin 2009 sur la maturité professionnelle fédérale (OMPr)[^50-1].
+<sup>1</sup> En MP 1 et en MP 2, la promotion est régie par l'article 16 de l'ordonnance fédérale du 13 juin 2025 sur la maturité professionnelle fédérale (OMPr)[^50-1].
 
-<sup>2</sup> Les branches comptant pour la promotion sont définies dans le plan d'études cadre pour la maturité professionnelle (PEC MP) du SEFRI, édicté le 18 décembre 2012[^50-2].
+<sup>2</sup> Les branches comptant pour la promotion sont définies dans le plan d'études cadre pour la maturité professionnelle (PEC MP) du SEFRI, édicté le 13 juin 2025[^50-2].
 
 <sup>3–4</sup> …
 
+<sup>5</sup> En MP 2, les élèves doivent, chaque semestre, assister à au moins 80 pour cent des cours dans chacune des branches. Le fait de ne pas remplir cette condition revient à ne pas remplir les conditions de promotion. La direction d'école statue par voie de décision sur les exceptions.
+
 [^50-1]: RS [412.103.1](https://db.clex.ch/link/Bund/412.103.1/fr)
-[^50-2]: [https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-professionnelle.html](https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-professionnelle.html)
+[^50-2]: [https://www.sbfi.admin.ch/fr/maturite-professionnelle](https://www.sbfi.admin.ch/fr/maturite-professionnelle)
 
 #### Art. 50a
 
 **2. EC avec MP**
 
-<sup>1</sup> La promotion dans les EC avec MP est régie par l'article 17 OMPr. Comptent également pour la promotion la branche «domaine de compétences opérationnelles e» et la branche «connaissances professionnelles» (somme des évaluations obtenues lors d'un semestre dans les domaines de compétences opérationnelles b à d). Les notes de bulletin délivrées dans la branche «sport» ainsi que dans les branches facultatives ne comptent pas pour la promotion.
+<sup>1</sup> La promotion dans les EC avec MP est régie par l'article 16 OMPr. Comptent également pour la promotion la branche «domaine de compétences opérationnelles e» et la branche «connaissances professionnelles» (somme des évaluations obtenues lors d'un semestre dans les domaines de compétences opérationnelles b à d). Les notes de bulletin délivrées dans la branche «sport» ainsi que dans les branches facultatives ne comptent pas pour la promotion.
 
 <sup>2</sup> Quiconque ne remplit pas les conditions de promotion est promu provisoirement. Cela est possible pour la dernière fois à la fin du cinquième semestre de formation.
 
@@ -1093,9 +1094,7 @@ arrête:
 
 #### Art. 51
 
-**3. MP 2**
-
-<sup>1</sup> Les élèves doivent, chaque semestre, assister à au moins 80 pour cent des cours dans chacune des branches. Le fait de ne pas remplir cette condition revient à ne pas remplir les conditions de promotion. La direction d'école statue par voie de décision sur les exceptions.
+**…**
 
 ### 2.6.4 Examen de maturité professionnelle (EMP)
 
@@ -1120,9 +1119,11 @@ arrête:
 
 #### Art. 53
 
-**Branches, durée des examens et publicité des examens**
+**Branches, durée et forme des examens et publicité des examens**
 
 <sup>1</sup> Les dispositions relatives aux branches d'examen et à la durée des examens pour les différentes orientations de MP ainsi qu’à la maturité professionnelle multilingue figurent dans le PEC MP.
+
+<sup>1a</sup> La deuxième langue nationale et l'anglais font l'objet d'un examen écrit et d'un examen oral.
 
 <sup>2</sup> Les examens ne sont pas publics. La direction d'école peut édicter une réglementation dérogatoire pour le TIP.
 
@@ -1136,13 +1137,13 @@ arrête:
 
 **Examens anticipés**
 
-<sup>1</sup> La CCMP détermine sur proposition des directions d’école les branches qui peuvent faire l’objet d’un examen anticipé en vertu de l’article 22, alinéa 2 OMPr.
+<sup>1</sup> La CCMP détermine sur proposition des directions d’école les branches qui peuvent faire l’objet d’un examen anticipé en vertu de l’article 21, alinéa 2 OMPr.
 
 #### Art. 55
 
 **Evaluation des prestations et établissement des notes**
 
-<sup>1</sup> L'évaluation des prestations et l'établissement des notes sont régis par l'article 16 OMPr.
+<sup>1</sup> L'évaluation des prestations et l'établissement des notes sont régis par l'article 23 OMPr.
 
 #### Art. 56
 
@@ -1150,9 +1151,11 @@ arrête:
 
 #### Art. 57
 
-**Diplômes de langues internationaux**
+**Conversion des résultats des diplômes de langue et des examens**
 
 <sup>1</sup> Lorsqu'un diplôme de langue international remplace l'examen de MP correspondant, le résultat figurant sur le diplôme est converti en une note et pris en compte, conformément aux directives intercantonales.
+
+<sup>2</sup> Si la deuxième langue nationale et l'anglais sont enseignés à un niveau plus élevé que B1 et sont évalués selon le niveau B2, le résultat de l'examen final est converti en note de niveau B1 selon les directives intercantonales.
 
 #### Art. 58
 
@@ -1162,7 +1165,7 @@ arrête:
 
 **Délais de conservation des documents**
 
-<sup>1</sup> Les travaux écrits et les procès-verbaux des examens oraux, les bulletins semestriels et annuels ainsi que le TIP sont conservés par l’école jusqu’à l’expiration du délai de recours ou jusqu’à l’entrée en force de la décision s’il y a eu recours, mais au moins pendant une année.
+<sup>1</sup> Les travaux écrits, les bulletins semestriels et annuels ainsi que le TIP sont conservés par l’école jusqu’à l’expiration du délai de recours ou jusqu’à l’entrée en force de la décision s’il y a eu recours, mais au moins pendant une année.
 
 <sup>2</sup> Les certificats de maturité professionnelle et les bulletins de notes sont conservés pour une durée indéterminée.
 
@@ -1190,7 +1193,7 @@ arrête:
 
 **Répétition des examens**
 
-<sup>1</sup> La répétition de l'examen de maturité professionnelle est régie par l'article 26 OMPr.
+<sup>1</sup> La répétition de l'examen de maturité professionnelle est régie par l'article 25 OMPr.
 
 <sup>2</sup> L’examen peut en règle générale être répété après une année. La CCMP statue par voie de décision sur les exceptions.
 
@@ -1594,7 +1597,7 @@ arrête:
 
 <sup>1</sup> L’indemnité versée aux experts et expertes de MP se monte à trois francs par candidat ou candidate et par demi-heure d’examen écrit, à laquelle s’ajoute une contribution de base de deux francs. La durée d’examen déterminante est régie par le PEC MP. Le montant versé par école équivaut à huit examens au moins.
 
-<sup>2</sup> L’indemnité versée aux experts et expertes de MP se monte à 18 francs par candidat ou candidate pour les examens oraux de toutes les branches, le montant versé par demi-journée d’examen équivalant à six examens au moins. Le montant versé par école équivaut à huit examens au moins.
+<sup>2</sup> L’indemnité versée aux experts et expertes de MP se monte à 18 francs par candidat ou candidate pour tous les examens oraux, le montant versé par demi-journée d’examen équivalant à six examens au moins. Le montant versé par école équivaut à huit examens au moins.
 
 <sup>3</sup> Le président ou la présidente de la commission d’examen ou l’expert principal ou l’experte principale peut octroyer une indemnité de 30 francs par heure pour les activités des experts et des expertes ou des experts principaux et des expertes principales qui dépassent largement les exigences normales, en particulier pour celles liées à une procédure de recours.
 
@@ -1658,6 +1661,12 @@ arrête:
 
 - a de trois pour cent de degré d'occupation pour les membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement,
 - b de trois pour cent de degré d'occupation par personne soutenue pour les personnes apportant leur soutien.
+
+### 6.6 Calcul des ressources du pool destiné aux tâches spéciales
+
+#### Art. 95d
+
+<sup>1</sup> L'augmentation prévue à l'article 47b, alinéa 3, lettre a OFOP est de cinq pour cent de degré d’occupation pour 24 personnes en formation.
 
 ## 7 Dispositions transitoires et dispositions finales
 
@@ -1806,7 +1815,7 @@ arrête:
 
 <sup>4</sup> La procédure de qualification avec examen final pour la formation d'employée ou d'employé de commerce CFC est répétée selon l'ancien droit pour la dernière fois en 2027 s'agissant des personnes qui suivent une formation dans une EC sans MP et en 2028 s'agissant des personnes qui suivent une formation dans une EC avec MP.
 
-## T9 Dispositions transitoires de la modification du 12 février 2026
+## T9 Dispositions transitoires de la modification du 12.02.2026
 
 #### Art. T9-1
 
@@ -1817,8 +1826,16 @@ arrête:
 [^T91-1]: https://www.fedlex.admin.ch/eli/cc/2011/811/fr
 [^T91-2]: RS [412.103.1](https://db.clex.ch/link/Bund/412.103.1/fr)
 
-Berne, le 20 octobre 2016
+## T10 Dispositions transitoires de la modification du 26.05.2026
 
-Le Directeur de l'instruction publique: Pulver
+#### Art. T10-1
+
+<sup>1</sup> Les personnes qui ont commencé la formation menant à la maturité professionnelle avant le 1<sup>er</sup> août 2026 sont soumises à l'ancien droit.
+
+<sup>2</sup> Pour les personnes qui suivent la formation menant à la maturité professionnelle, la répétition de l'examen de maturité professionnelle selon l'ancien droit est possible pour la dernière fois en 2030.
+
+Berne, le 6 avril 2006
+
+Le Directeur de l'instruction publique: Annoni
 
 06-45
