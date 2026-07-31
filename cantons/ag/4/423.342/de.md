@@ -1,35 +1,33 @@
 ---
 canton: AG
 number: "423.342"
-title: Verordnung über die Informatikmittelschule
+title: "Verordnung über die Promotion, das eidgenössische Fähigkeitszeugnis und die Berufsmaturität an der Informatikmittelschule"
 short: V IMS
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-05-17
+version: 2026-08-01
+version_adopted: 2026-05-13
 adopted: 2010-05-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.342"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3725/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Informatikmittelschule
+# Verordnung über die Promotion, das eidgenössische Fähigkeitszeugnis und die Berufsmaturität an der Informatikmittelschule
 
 (V IMS)
 
-Vom 19.05.2010 (Stand 01.08.2023)
+Vom 19.05.2010 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 24 Abs. 2 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], § 12 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-2] und Art. 8 Abs. 2, 14 Abs. 1, 20 Abs. 1, 27 Abs. 2 und 34 der Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung; BMV) vom 24. Juni 2009[^ingress-3],
+gestützt auf § 24 Abs. 2 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1], die §§ 10 Abs. 2 und 21 Abs. 1 lit. b, d, g, h, i, j und k des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
-[^ingress-2]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
-[^ingress-3]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
+[^ingress-2]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1. Allgemeines
 
@@ -37,7 +35,13 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses (EFZ) Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) sowie die Berufsmaturität Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, an Informatikmittelschulen.
+<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, den Übertritt vom Gymnasium an die Informatikmittelschule, das Qualifikationsverfahren zur Erlangung des eidgenössischen Fähigkeitszeugnisses (EFZ) Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) sowie die Berufsmaturität Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, an Informatikmittelschulen.
+
+#### § 1a
+
+**Stundentafeln und Lehrpläne**
+
+<sup>1</sup> Die Stundentafeln und die dazugehörigen Bestimmungen zum betrieblichen Praxisaufenthalt (Langzeitpraktikum) sowie die Lehrpläne sind in den Anhängen geregelt.
 
 #### § 2
 
@@ -53,13 +57,13 @@ beschliesst:
 
 **Nachteilsausgleich**
 
-<sup>1</sup> Schülerinnen und Schüler mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich.
+<sup>1</sup> Schülerinnen und Schüler mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich. Hierbei müssen die allgemeinen Bildungsziele und Kompetenzen gemäss Lehrplan ohne Reduktion der Leistungsanforderungen erreicht werden.
 
 <sup>2</sup> Die betreffenden Nachweise sind rechtzeitig vor Inanspruchnahme des Nachteilsausgleichs im Hinblick auf Promotionsentscheide und Prüfungen zu erbringen.
 
-<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet im Rahmen von § 2 die Schulleitung.
+<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet die Schulleitung nach Vorgaben des Departements Bildung, Kultur und Sport (BKS).
 
-## 2. Promotion
+## 2. Promotion und Übertritt
 
 #### § 3
 
@@ -105,13 +109,17 @@ beschliesst:
 
 **Anrechnung bereits erbrachter Lernleistungen**
 
-<sup>1</sup> Die Schulleitung entscheidet über Dispensationen vom Unterricht. Sofern sich die Dispensation auf das Qualifikationsverfahren auswirkt, entscheidet das Departement Bildung, Kultur und Sport (BKS).
+<sup>1</sup> Die Schulleitung entscheidet über Dispensationen vom Unterricht. Für Dispensationen von den entsprechenden Abschlussprüfungen gilt § 15a.
+
+<sup>2</sup> Für Schülerinnen und Schüler mit einem anerkannten Fremdsprachendiplom gemäss § 16 gilt die Dispensationsregelung gemäss Art. 22 Abs. 5 der Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV) vom 13. Juni 2025[^4a-1].
+
+[^4a-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
 #### § 5
 
 **Definitive Aufnahme, Beförderung**
 
-<sup>1</sup> Schülerinnen und Schüler werden nach der allfälligen Probezeit, die bis zum Ende des 1. Semesters dauert, definitiv aufgenommen beziehungsweise am Ende des Semesters definitiv befördert, wenn kumulativ die Promotionsvoraussetzungen gemäss Art. 17 BMV erfüllt sind sowie in den Promotionsfächern gemäss § 4
+<sup>1</sup> Schülerinnen und Schüler werden nach der allfälligen Probezeit, die bis zum Ende des 1. Semesters dauert, definitiv aufgenommen beziehungsweise am Ende des Semesters definitiv befördert, wenn kumulativ die Promotionsvoraussetzungen gemäss Art. 16 BMV erfüllt sind sowie in den Promotionsfächern gemäss § 4
 
 - a) der Durchschnitt der Fachnoten mindestens 4,0 beträgt,
 - b) höchstens drei Fachnoten ungenügend sind,
@@ -150,6 +158,14 @@ beschliesst:
 
 **…**
 
+#### § 10a
+
+**Übertritt vom Gymnasium an die Informatikmittelschule**
+
+<sup>1</sup> Schülerinnen und Schüler, die in der 1. Klasse des Gymnasiums die Probezeit nicht bestehen, sind berechtigt, auf Beginn des nachfolgenden Schuljahrs in die 1. Klasse der Informatikmittelschule überzutreten.
+
+<sup>2</sup> Die Zulassung erfolgt provisorisch für eine Probezeit von einem Semester.
+
 ## 3. EFZ Informatikerin beziehungsweise Informatiker
 
 #### § 11
@@ -168,9 +184,9 @@ beschliesst:
 
 **Nichteintritt in das Langzeitpraktikum**
 
-<sup>1</sup> Wer den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) nicht besteht, kann nicht in das Langzeitpraktikum eintreten, auch wenn selbst mit einer hypothetischen Note 6,0 in der IDPA die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt sind.
+<sup>1</sup> Wer den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) nicht besteht, kann nicht in das Langzeitpraktikum eintreten, selbst wenn die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt sind.
 
-<sup>2</sup> Wer weder den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) noch selbst mit einer hypothetischen Note 6,0 in der interdisziplinären Projektarbeit (IDPA) die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, muss das letzte Schuljahr vor einem zweiten Versuch wiederholen. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen.
+<sup>2</sup> Wer weder den schulischen Teil des Qualifikationsverfahrens für den Erwerb des EFZ Informatikerin beziehungsweise Informatiker (Fachrichtung Applikationsentwicklung) noch die Bedingungen für das Bestehen des Berufsmaturitätsabschlusses erfüllt, muss das letzte Schuljahr vor einem zweiten Versuch wiederholen. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen.
 
 <sup>3</sup> Wer nach Wiederholung des letzten Schuljahrs die Bedingungen gemäss Absatz 2 ein weiteres Mal nicht erfüllt, wird aus der Schule entlassen.
 
@@ -190,7 +206,7 @@ beschliesst:
 
 <sup>1</sup> Die Abschlussprüfung findet am Ende der schulischen Ausbildung statt.
 
-<sup>2</sup> Die Zulassung zur Abschlussprüfung setzt den Besuch des letzten Schuljahrs in der Regel an derjenigen Lehranstalt voraus, an welcher die Prüfung abgelegt wird.
+<sup>2</sup> Die Zulassung zur Abschlussprüfung setzt den Besuch des letzten Schuljahrs in der Regel an derjenigen Informatikmittelschule voraus, an der die Prüfung abgelegt wird.
 
 #### § 12a
 
@@ -198,13 +214,21 @@ beschliesst:
 
 <sup>1</sup> Für die Organisation und Durchführung der Abschlussprüfung ist die von der jeweiligen Schule beauftragte Prüfungsleitung zuständig.
 
-<sup>2</sup> Die Informatikmittelschulen erstellen eine einheitliche Prüfungswegleitung und unterbreiten diese dem BKS zur Genehmigung.
+<sup>2</sup> Das BKS erstellt eine einheitliche Prüfungswegleitung zuhanden der Wirtschaftsmittel-, Informatikmittel- und Berufsfachschulen.
 
 #### § 12b
 
-**Validierung**
+**Prüfungsaufgaben und Validierung**
 
-<sup>1</sup> Die Validierung der Prüfungsaufgaben obliegt den Informatikmittelschulen in Zusammenarbeit mit den Fachhochschulen.
+<sup>1</sup> …
+
+<sup>1<sup>bis</sup></sup> An den Informatikmittelschulen werden dieselben schriftlichen Abschlussprüfungen wie an den Wirtschaftsmittel- und Berufsfachschulen mit der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, absolviert. Sie sind mit denselben Hilfsmitteln zu lösen und finden zum gleichen Zeitpunkt statt.
+
+<sup>2</sup> Die Validierung der Prüfungsaufgaben obliegt den Informatik- und Wirtschaftsmittelschulen gemeinsam mit den Berufsfachschulen in Zusammenarbeit mit den Fachhochschulen.
+
+<sup>3</sup> Die mündlichen Prüfungen werden von den Informatikmittelschulen individuell erarbeitet und organisiert.
+
+<sup>4</sup> Nachprüfungen werden von den Informatikmittelschulen individuell organisiert und müssen validiert sein.
 
 #### § 13
 
@@ -222,7 +246,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Hinsichtlich Art und Dauer der Abschlussprüfung ist der Rahmenlehrplan des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) im Zusammenhang mit der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, massgebend.
 
-<sup>2</sup> Die Grundlagenfächer Französisch beziehungsweise Italienisch und Englisch werden schriftlich geprüft.
+<sup>2</sup> Das Grundlagenfach Englisch wird schriftlich geprüft.
 
 <sup>3</sup> Die mündlichen Abschlussprüfungen in den Grundlagenfächern Deutsch, Französisch beziehungsweise Italienisch und Englisch dauern je Fach 15 Minuten.
 
@@ -230,13 +254,13 @@ beschliesst:
 
 **Anrechnung bereits erbrachter Lernleistungen**
 
-<sup>1</sup> Wer in einem Fach die erforderlichen Kenntnisse und Fähigkeiten nachweist, kann auf Gesuch hin durch das BKS von der Abschlussprüfung dispensiert werden. Im Berufsmaturitätszeugnis wird der Vermerk "erfüllt" eingetragen.
+<sup>1</sup> Wer in einem Fach die erforderlichen Kenntnisse und Fähigkeiten nachweist, kann auf Gesuch hin durch das BKS von der entsprechenden Abschlussprüfung dispensiert werden. Im Notenausweis zum Berufsmaturitätszeugnis wird der Vermerk "erfüllt" eingetragen. Vorbehalten bleibt § 16.
 
 #### § 16
 
 **Fremdsprachen**
 
-<sup>1</sup> Bei Fremdsprachen kann das Ergebnis einer Diplomprüfung eines vom SBFI anerkannten Fremdsprachendiploms die ganze Abschlussprüfung ersetzen.
+<sup>1</sup> Anerkannte Fremdsprachendiplomprüfungen können die Abschlussprüfung in der betreffenden Fremdsprache ersetzen und werden in eine Prüfungsnote umgerechnet. Es gilt die Empfehlung der Schweizerischen Berufsbildungsämter-Konferenz (SBBK) betreffend Berücksichtigung und Umrechnung der Fremdsprachendiplome im Rahmen der Berufsmaturität.
 
 <sup>2</sup> Die Schulleitung setzt den Zeitpunkt fest, bis zu welchem die Schülerinnen und Schüler entscheiden müssen, ob das Ergebnis der Diplomprüfung oder dasjenige der Abschlussprüfung als Prüfungsnote angerechnet werden soll.
 
@@ -246,13 +270,15 @@ beschliesst:
 
 #### § 18
 
-**Verstösse gegen die Prüfungsordnung**
+**…**
 
-<sup>1</sup> Das BKS erklärt die ganze Abschlussprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Abschlussprüfung von der Schulleitung darauf aufmerksam zu machen.
+#### § 18a
 
-<sup>2</sup> Die Abschlussprüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
+**Prüfungsordnung**
 
-<sup>3</sup> Das letzte Schuljahr muss wiederholt werden. Erst danach darf ein Eintritt in das Langzeitpraktikum erfolgen. Es zählen die Zeugnisnoten des Wiederholungsjahrs als Erfahrungsnoten des 3. Schuljahrs für den Berufsmaturitätsabschluss.
+<sup>1</sup> Hinsichtlich der Prüfungsordnung und der Information der Schülerinnen und Schüler gelten die §§ 34 Abs. 4 und 38 VBW.
+
+<sup>2</sup> Hinsichtlich der Verstösse gegen die Prüfungsordnung und bei Nichterscheinen zur Prüfung gilt § 36a VBW.
 
 #### § 19
 
@@ -272,7 +298,13 @@ beschliesst:
 
 **Notengebung und Antrag**
 
-<sup>1</sup> Die Notenkonferenz der jeweiligen Schule setzt die Fachnoten fest und die Schulleitung erarbeitet die Grundlagen für die Entscheide betreffend Berufsmaturitätsabschluss zuhanden des BKS.
+<sup>1</sup> …
+
+<sup>1<sup>bis</sup></sup> Die Notenkonferenz der jeweiligen Schule setzt sich aus den Lehrpersonen sämtlicher für den Berufsmaturitätsabschluss relevanten Fächer sowie einem Mitglied der Schulleitung zusammen. Bei Bedarf können weitere Lehrpersonen zugezogen werden.
+
+<sup>2</sup> Das Mitglied der Schulleitung leitet die Notenkonferenz.
+
+<sup>3</sup> Die an der Notenkonferenz beteiligten Lehrpersonen erarbeiten die Grundlagen für die Entscheide betreffend Berufsmaturitätsabschluss zuhanden des BKS.
 
 #### § 23
 
@@ -290,16 +322,15 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Wer den Berufsmaturitätsabschluss nicht bestanden hat, kann wahlweise
-
-- a) die Abschlussprüfung in denjenigen Fächern wiederholen, in denen eine ungenügende Note erzielt wurde,
-- b) vor einem zweiten Versuch das letzte Schuljahr wiederholen. Die Abschlussprüfung ist in diesem Fall in allen Fächern zu wiederholen.
+<sup>2</sup> …
 
 <sup>3</sup> …
 
 <sup>4</sup> …
 
 <sup>5</sup> …
+
+<sup>6</sup> Wird der Unterricht zur Vorbereitung der Wiederholung der Berufsmaturitätsprüfung nicht besucht, ist in den Fächern Geschichte und Politik sowie Technik und Umwelt eine mündliche Prüfung von je 15 Minuten zu absolvieren.
 
 #### § 26
 
@@ -315,35 +346,23 @@ beschliesst:
 
 #### § 28
 
-**Übergangsbestimmung zur Änderung vom 20. Mai 2015**
-
-<sup>1</sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> …
-
-<sup>5</sup> …
-
-<sup>6</sup> …
+**…**
 
 #### § 28a
 
-**Übergangsbestimmung zur Änderung vom 29. August 2018**
-
-<sup>1</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2019/20 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
-
-<sup>2</sup> Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2018/19 begonnen haben, die Bestimmungen des neuen Rechts.
+**…**
 
 #### § 28b
 
-**Übergangsbestimmung zur Änderung vom 17. Mai 2023**
+**…**
 
-<sup>1</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2023/24 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+#### § 28c
 
-<sup>2</sup> Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2022/23 begonnen haben, die Bestimmungen des neuen Rechts.
+**Übergangsbestimmung zur Änderung vom 13. Mai 2026**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die den Lehrgang vor dem Schuljahr 2026/27 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+
+<sup>2</sup> Im Falle der Repetition eines Schuljahrs gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2025/26 begonnen haben, die Bestimmungen des neuen Rechts.
 
 #### § 29
 
