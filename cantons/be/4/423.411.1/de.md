@@ -4,13 +4,12 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-09-17
+version: 2026-08-01
+version_adopted: 2026-05-20
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3234/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3234/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.01.2026)
+vom 13.11.2013 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -65,7 +64,7 @@ beschliesst:
 - a Zentrum Paul Klee,
 - b Kunstmuseum Bern,
 - c Ballenberg - Freilichtmuseum der Schweiz,
-- d Alpines Museum der Schweiz,
+- d alps - Alpines Museum der Schweiz,
 - e Schweizer Künstlerbörse.
 
 #### Art. 4
@@ -260,10 +259,10 @@ beschliesst:
 
 - a Stiftung Bernisches Historisches Museum,
 - b Stiftung Kunstmuseum Bern,
-- c Stiftung Zentrum Paul Klee,
-- d Stiftung Konzert Theater Bern,
-- e Stiftung Ballenberg – Schweizerisches Freilichtmuseum für ländliche Kultur,
-- f Stiftung Schweizerisches Alpines Museum.
+- c Zentrum Paul Klee – Maurice E. and Martha Müller Foundation,
+- d Stiftung Bühnen Bern,
+- e Stiftung Ballenberg,
+- f Stiftung alps - Alpines Museum der Schweiz.
 
 <sup>2</sup> Die Bildungs- und Kulturdirektion ernennt die Vertreterinnen und Vertreter in Organen der Trägerschaften weiterer Kulturinstitutionen und von kulturellen Organisationen und berücksichtigt dabei ein ausgewogenes Geschlechterverhältnis.
 
@@ -318,7 +317,7 @@ beschliesst:
 <sup>2</sup> Fachkommissionen sind
 
 - a die deutschsprachige Literaturkommission,
-- b die deutschsprachige Kommission für Theater und Tanz,
+- b die Kommission für Theater und Tanz,
 - c die Kunstkommission,
 - d die Musikkommission,
 - e die Filmkommission.
@@ -412,7 +411,7 @@ beschliesst:
 
 <sup>1</sup> In der deutschsprachigen Kommission für allgemeine kulturelle Fragen sind die Fachkommissionen und die Organisationen, denen der Kanton im Sinn von Artikel 31 und 32 KKFG Aufgaben übertragen hat, mit je einer Person, in der Regel mit der Präsidentin oder dem Präsidenten, vertreten.
 
-<sup>2</sup> In der französischsprachigen Kommission für allgemeine kulturelle Fragen sind die Kunstkommission, die Musikkommission und die Filmkommission sowie die interkantonalen Kommissionen für besondere Kultursparten mit je einer französischsprachigen Person vertreten.
+<sup>2</sup> In der französischsprachigen Kommission für allgemeine kulturelle Fragen sind die Kommission für Theater und Tanz, die Kunstkommission, die Musikkommission und die Filmkommission sowie die interkantonalen Kommissionen für besondere Kultursparten mit je einer französischsprachigen Person vertreten.
 
 <sup>3</sup> Der Bernjurassische Rat schlägt für die französischsprachige Kommission höchstens vier weitere Personen aus dem Berner Jura bindend vor.
 
@@ -434,7 +433,7 @@ beschliesst:
 
 <sup>3</sup> Die Kulturschaffenden, die künstlerischen Ausdrucksformen der Sparte, die Regionen und die Geschlechter müssen angemessen vertreten sein.
 
-<sup>4</sup> In der Kunstkommission, der Musikkommission und der Filmkommission müssen die französische Sprache und die frankofone Kultur angemessen vertreten sein.
+<sup>4</sup> In der Kommission für Theater und Tanz, der Kunstkommission, der Musikkommission und der Filmkommission müssen die französische Sprache und die frankofone Kultur angemessen vertreten sein.
 
 #### Art. 36
 
@@ -631,6 +630,14 @@ beschliesst:
 
 <sup>2</sup> Lastenverschiebungen zwischen Kanton und Gemeinden aufgrund der zusätzlichen Kulturinstitutionen nach Absatz 1 werden ab dem Zeitpunkt ihres Eintretens dem Lastenausgleich nach Artikel 29b FILAG angerechnet.
 
+## T5 Übergangsbestimmung der Änderung vom 20.05.2026
+
+#### Art. T5-1
+
+<sup>1</sup> Die Betriebsbeiträge an die Kulturinstitutionen nach Artikel A1-1 Absatz 6 Buchstabe e sowie Artikel A1-4 Absatz 2 Buchstabe u bis w werden ab dem 1. Januar 2028 nach den Bestimmungen dieser Änderung ausgerichtet.
+
+<sup>2</sup> Lastenverschiebungen zwischen Kanton und Gemeinden aufgrund der zusätzlichen Kulturinstitutionen nach Absatz 1 werden ab dem Zeitpunkt ihres Eintretens dem Lastenausgleich nach Artikel 29b FILAG angerechnet.
+
 ## A1 Anhang 1: zu Artikel 10
 
 #### Art. A1-1
@@ -653,7 +660,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - b Nebia - Bienne spectaculaire (Standortgemeinde Biel/Bienne),
 - c Stadtbibliothek Biel (Standortgemeinde Biel/Bienne),
 - d Neues Museum Biel (Standortgemeinde Biel/Bienne),
-- e Centre d'art Pasquart (Standortgemeinde Biel/Bienne),
+- e Kunsthaus Biel (Standortgemeinde Biel/Bienne),
 - f Photoforum Pasquart (Standortgemeinde Biel/Bienne),
 - g La Grenouille - Theaterzentrum junges Publikum Biel / Centre théâtre jeune public Bienne (Standortgemeinde Biel/Bienne),
 - h Bieler Fototage (Standortgemeinde Biel/Bienne),
@@ -672,7 +679,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - b …
 - c Café-Théâtre de la Tour de Rive (Standortgemeinde La Neuveville),
 - d Centre culturel Le Royal (Standortgemeinde Tavannes),
-- e Zeitschrift «Intervalles» (Standortgemeinde Plateau de Diesse),
+- e Zeitschrift «Intervalles» (Standortgemeinde Sonceboz),
 - f Musée de St-Imier (Standortgemeinde Saint-Imier),
 - g Musée d'Art et d'Histoire de la Neuveville (Standortgemeinde La Neuveville),
 - h …
@@ -740,6 +747,9 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - r Heitere Fahne (Standortgemeinde Bern, Köniz),
 - s Berner Puppen Theater (Standortgemeinde Bern),
 - t …
+- u Sensorium Rüttihubelbad (Standortgemeinde Walkringen),
+- v Theater Szene (Standortgemeinde Bern),
+- w Schweizerisches Blindenmuseum - anders sehen (Standortgemeinde Zollikofen).
 
 #### Art. A1-5
 

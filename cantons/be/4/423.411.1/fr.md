@@ -4,13 +4,12 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-09-17
+version: 2026-08-01
+version_adopted: 2026-05-20
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3234/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3382/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3234/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.01.2026)
+du 13.11.2013 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -65,7 +64,7 @@ arrête:
 - a Zentrum Paul Klee,
 - b Musée des Beaux-Arts de Berne,
 - c Ballenberg - Musée suisse en plein air,
-- d Musée alpin suisse,
+- d alps - Musée alpin suisse,
 - e Bourse suisse aux spectacles.
 
 #### Art. 4
@@ -256,14 +255,14 @@ arrête:
 
 **Nomination**
 
-<sup>1</sup> Le Conseil-exécutif nomme, en veillant à une répartition équilibrée des sexes, les représentants et les représentantes du canton dans les organes de direction des organes responsables d’institutions culturelles suivantes:
+<sup>1</sup> Le Conseil-exécutif nomme, en veillant à une répartition équilibrée des sexes, les représentants et les représentantes du canton dans les organes de direction des organes responsables des institutions culturelles suivantes:
 
-- a la fondation du Musée historique de Berne,
+- a la fondation du Musée d'Histoire de Berne,
 - b la fondation du Musée des Beaux-Arts de Berne,
-- c la fondation du Zentrum Paul Klee,
-- d la fondation du Konzert Theater Bern,
-- e la fondation Ballenberg – Musée suisse de l’habitat rural,
-- f la Fondation du Musée alpin suisse.
+- c la Zentrum Paul Klee - Maurice E. and Martha Müller Foundation,
+- d la fondation Bühnen Bern,
+- e la fondation Ballenberg,
+- f la fondation de l'alps - Musée Alpin Suisse.
 
 <sup>2</sup> La Direction de l’instruction publique et de la culture nomme, en veillant à une répartition équilibrée des sexes, les représentants et les représentantes du canton dans les structures des organes responsables d’autres institutions culturelles ou d’organisations culturelles.
 
@@ -318,7 +317,7 @@ arrête:
 <sup>2</sup> Les commissions d’experts sont
 
 - a la commission de littérature de langue allemande,
-- b la commission pour le théâtre et la danse de langue allemande,
+- b la commission pour le théâtre et la danse,
 - c la commission des arts visuels,
 - d la commission de musique,
 - e la commission de cinéma.
@@ -412,7 +411,7 @@ arrête:
 
 <sup>1</sup> Les commissions d’experts et les organisations auxquelles le canton a délégué des tâches conformément aux articles 31 et 32 LEAC sont chacune représentées dans la commission germanophone chargée des affaires culturelles générales par une personne, en règle générale le président ou la présidente.
 
-<sup>2</sup> La commission des arts visuels, la commission de musique et la commission de cinéma ainsi que les commissions intercantonales de différents domaines culturels sont chacune représentées dans la commission francophone chargée des affaires culturelles générales par une personne de langue française.
+<sup>2</sup> La commission pour le théâtre et la danse, la commission des arts visuels, la commission de musique et la commission de cinéma ainsi que les commissions intercantonales de différents domaines culturels sont chacune représentées dans la commission francophone chargée des affaires culturelles générales par une personne de langue française.
 
 <sup>3</sup> Le Conseil du Jura bernois est compétent pour désigner en plus au maximum quatre personnes issues du Jura bernois pour siéger à la commission francophone chargée des affaires culturelles générales.
 
@@ -434,7 +433,7 @@ arrête:
 
 <sup>3</sup> Les acteurs et actrices culturels, les formes d’expression culturelle des différents domaines, les régions et les deux sexes y sont représentés de manière appropriée.
 
-<sup>4</sup> La langue française et la culture francophone doivent être représentées de manière appropriée dans la commission des arts visuels, la commission de musique et la commission de cinéma.
+<sup>4</sup> La langue française et la culture francophone doivent être représentées de manière appropriée dans la commission pour le théâtre et la danse, la commission des arts visuels, la commission de musique et la commission de cinéma.
 
 #### Art. 36
 
@@ -631,6 +630,14 @@ arrête:
 
 <sup>2</sup> Les transferts de charges entre le canton et les communes qui sont dus aux institutions culturelles supplémentaires mentionnées à l'alinéa 1 sont imputés à la compensation des charges conformément à l'article 29b LPFC à partir du moment où ils interviennent.
 
+## T5 Disposition transitoire de la modification du 20.05.2026
+
+#### Art. T5-1
+
+<sup>1</sup> Les subventions d'exploitation allouées aux institutions culturelles visées à l'article A1-1, alinéa 6, lettre e et à l'article A1-4, alinéa 2, lettres u à w, sont versées conformément aux dispositions de la présente modification à partir du 1<sup>er</sup> janvier 2028.
+
+<sup>2</sup> Les transferts de charges entre le canton et les communes qui sont dus aux institutions culturelles supplémentaires mentionnées à l'alinéa 1 sont imputés à la compensation des charges conformément à l'article 29b LPFC à partir du moment où ils interviennent.
+
 ## A1 Annexe 1: à l'article 10
 
 #### Art. A1-1
@@ -653,7 +660,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - b Nebia - Bienne spectaculaire (commune-siège Biel/Bienne),
 - c Bibliothèque de la Ville de Bienne (commune-siège Biel/Bienne),
 - d Nouveau Musée Bienne (commune-siège Biel/Bienne),
-- e Centre d'art Pasquart (commune-siège Biel/Bienne),
+- e Centre d'art Bienne (commune-siège Biel/Bienne),
 - f Photoforum Pasquart (commune-siège Biel/Bienne),
 - g La Grenouille - Theaterzentrum junges Publikum Biel / Centre théâtre jeune public Bienne (commune-siège Biel/Bienne),
 - h Journées photographiques de Bienne (commune-siège Biel/Bienne),
@@ -672,7 +679,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - b …
 - c Café-Théâtre de la Tour de Rive (commune-siège La Neuveville),
 - d Centre culturel Le Royal (commune-siège Tavannes),
-- e Revue Intervalles (commune-siège Plateau de Diesse),
+- e Revue Intervalles (commune-siège Sonceboz),
 - f Musée de St-Imier (commune-siège Saint-Imier),
 - g Musée d'Art et d'Histoire de la Neuveville (commune-siège La Neuveville),
 - h …
@@ -724,7 +731,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 - a BeJazz (commune-siège Köniz),
 - b …
-- c Musée historique de Berne (commune-siège Berne),
+- c Musée d'Histoire de Berne (commune-siège Berne),
 - d Buskers Bern (commune-siège Berne),
 - e Camerata Bern (commune-siège Berne),
 - f Das Theater an der Effingerstrasse (commune-siège Berne),
@@ -740,6 +747,9 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - r Heitere Fahne (commune-siège Berne, Köniz),
 - s Berner Puppen Theater (commune-siège Berne),
 - t …
+- u Sensorium Rüttihubelbad (commune-siège Walkringen),
+- v Theater Szene (commune-siège Berne),
+- w Schweizerisches Blindenmuseum - anders sehen (commune-siège Zollikofen).
 
 #### Art. A1-5
 
