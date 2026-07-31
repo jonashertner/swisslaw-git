@@ -3,11 +3,11 @@ sr: "817.022.41"
 title: Ordonnance du DFI du 16 décembre 2016 sur les arômes et les additifs alimentaires ayant des propriétés aromatisantes utilisés dans ou sur les denrées alimentaires (Ordonnance sur les arômes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/182"
 language: fr
-version: 2025-07-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-182-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-182-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/fr"
 
 (Ordonnance sur les arômes)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> août 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -24,7 +24,7 @@ vu les art. 23 et 36, al. 3 et 4, de l’ordonnance du 16 décembre 2016 sur les
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Section 1 Dispositions générales
 
@@ -177,7 +177,7 @@ Par dérogation à l’al. 2, let. a, les substances aromatisantes sont autoris�
 <sup>9</sup> Les arômes de fumée peuvent être utilisés uniquement si les conditions de production définies à l’art. 5, par. 1 et 2, du règlement (CE) n<sup>o</sup> 2065/2003[^4-3] sont remplies.[^4-4]
 
 [^4-1]: Abrogée par le ch. I de l’O du DFI du 27 mai 2020, avec effe au 1<sup>er</sup> juil. 2020 ([RO 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
-[^4-2]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^4-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^4-3]: Règlement (CE) n<sup>o</sup> 2065/2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires, JO L 309 du 26.11.2003, p. 1
 [^4-4]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 
@@ -193,7 +193,7 @@ Par dérogation à l’al. 2, let. a, les substances aromatisantes sont autoris�
 
 <sup>4</sup> Lorsqu’il s’agit de denrées alimentaires concentrées ou déshydratées qui doivent être reconstituées, les quantités maximales déterminantes sont celles de la denrée alimentaire reconstituée. La reconstitution doit intervenir selon les instructions figurant sur l’étiquette, sachant que le facteur de dilution minimal doit être pris en compte.
 
-[^5-1]: [RS 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
+[^5-1]: [RS 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
 
 ## Section 3 Nouveaux arômes et matériaux de base admis
 
@@ -219,7 +219,7 @@ La demande doit démontrer que les conditions suivantes sont remplies:
 
 La dénomination spécifique selon l’art. 3, al. 1, let. a, de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires (OIDAl)[^7-1] est «arôme» pour les arômes. Elle peut contenir en plus des informations plus détaillées ou une description de l’arôme utilisé. Si le terme «naturel» est utilisé, l’art. 10 s’applique.
 
-[^7-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^7-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 8
 
@@ -227,7 +227,7 @@ La dénomination spécifique selon l’art. 3, al. 1, let. a, de l’ordonnance 
 
 Pour les arômes remis aux consommateurs en l’état, l’emballage ou l’étiquette doit porter, en plus des informations mentionnées à l’art. 3 OIDAl[^8-1], la mention «pour denrées alimentaires», la mention «pour denrées alimentaires, utilisation limitée» ou une indication plus précise de l’usage alimentaire auquel l’arôme est destiné.
 
-[^8-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^8-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 9
 
@@ -251,7 +251,7 @@ Pour les arômes non destinés à la remise aux consommateurs en l’état et d�
 
 <sup>3</sup> Pour la fourniture d’arômes en camions-citernes, il suffit de faire figurer les informations selon l’al. 1 sur les documents commerciaux relatifs au lot, à fournir lors de la livraison.
 
-[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 10
 
@@ -311,6 +311,14 @@ Les denrées alimentaires non conformes à la modification du 2 juin 2025 peuven
 
 [^11d-1]: Introduit par le ch. I de l’O de l'OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
 
+#### Art. 11e
+
+**Disposition transitoire relative à la modification du 19 juin 2026**[^11e-1]
+
+Les denrées alimentaires non conformes à la modification du 19 juin 2026 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2027 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^11e-1]: Introduit par le ch. I de l’O de l’OSAV du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 372](https://fedlex.data.admin.ch/eli/oc/2026/372)).
+
 #### Art. 12
 
 **Entrée en vigueur**
@@ -348,7 +356,7 @@ Annexe 1
 - 23\. Pressage
 - 24\. Trempage
 
-[^annex1-lvlu1-1]: [RS 817.022.42](https://fedlex.data.admin.ch/eli/cc/2017/162)
+[^annex1-lvlu1-1]: [RS 817.022.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9687)
 
 Annexe 2
 
@@ -380,8 +388,8 @@ Annexe 3[^t-1]
 
 [^annex3-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l'OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/393](https://fedlex.data.admin.ch/eli/oc/2025/393) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 372](https://fedlex.data.admin.ch/eli/oc/2026/372)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/372](https://fedlex.data.admin.ch/eli/oc/2026/372) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4[^t-2]
 
@@ -464,8 +472,8 @@ Annexe 4[^t-2]
 [^annex4-lvlu1-lvl2-1]: Les quantités maximales ne s’appliquent pas lorsqu’une denrée alimentaire composée ne contient aucun arôme ajouté et lorsque les seuls ingrédients possédant des propriétés aromatisantes qui lui ont été ajoutés sont des herbes fraîches, séchées ou surgelées, ou des épices.
 [^annex4-lvlu1-lvl2-2]: Les quantités maximales ne s’appliquent pas lorsqu’une denrée alimentaire composée ne contient aucun arôme ajouté et lorsque les seuls ingrédients possédant des propriétés aromatisantes qui lui ont été ajoutés sont des herbes fraîches, séchées ou surgelées, ou des épices.
 [^annex4-lvlu1-lvl2-3]: Les quantités maximales ne s’appliquent pas lorsqu’une denrée alimentaire composée ne contient aucun arôme ajouté et lorsque les seuls ingrédients possédant des propriétés aromatisantes qui lui ont été ajoutés sont des herbes fraîches, séchées ou surgelées, ou des épices.
-[^annex4-lvlu1-lvl2-4]: Tels que définis à l’art. 148 de l’ordonnance du DFI du ... sur les boissons (RS *…*)
-[^annex4-lvlu1-lvl2-5]: Telles que définies à l’art. 149 de l’ordonnance du DFI du ... sur les boissons (RS *…*)
+[^annex4-lvlu1-lvl2-4]: Tels que définis à l’art. 149 de l’ordonnance du DFI du 16 déc. 2016 sur les boissons ([RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673))
+[^annex4-lvlu1-lvl2-5]: Telles que définies à l’art. 149 de l’ordonnance du DFI du 16 déc. 2016 sur les boissons ([RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673))
 
 Annexe 5[^t-3]
 

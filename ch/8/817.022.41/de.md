@@ -3,11 +3,11 @@ sr: "817.022.41"
 title: Verordnung des EDI vom 16. Dezember 2016 über Aromen und Lebensmittelzutaten mit Aromaeigenschaften in und auf Lebensmitteln (Aromenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/182"
 language: de
-version: 2025-07-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-182-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2017-182-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/de"
 
 (Aromenverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2025)
+vom 16. Dezember 2016 (Stand am 1. August 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 23 und 36 Absätze 3 und 4 der Lebensmittel- und Gebra
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -177,7 +177,7 @@ Abweichend von Absatz 2 Buchstabe a sind Aromastoffe zulässig:
 <sup>9</sup> Raucharomen dürfen nur verwendet werden, wenn die Bedingungen für die Herstellung nach Artikel 5 Absätze 1 und 2 der Verordnung (EG) Nr. 2065/2003[^4-3] eingehalten werden.[^4-4]
 
 [^4-1]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
-[^4-2]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^4-2]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^4-3]: Verordnung (EG) Nr. 2065/2003 des Europäischen Parlamentes und des Rates vom 10. November 2003 über Raucharomen zur tatsächlichen oder beabsichtigten Verwendung in oder auf Lebensmitteln, ABl. L 309 vom 26.11.2003, S. 1.
 [^4-4]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 
@@ -193,7 +193,7 @@ Abweichend von Absatz 2 Buchstabe a sind Aromastoffe zulässig:
 
 <sup>4</sup> Bei getrockneten oder konzentrierten Lebensmitteln, die rekonstituiert werden müssen, sind die Höchstmengen massgebend, die für die rekonstituierten Lebensmittel gelten. Die Rekonstituierung hat nach den Anweisungen auf dem Etikett zu erfolgen, wobei der Mindestverdünnungsfaktor zu berücksichtigen ist.
 
-[^5-1]: [SR 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
+[^5-1]: [SR 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
 
 ## 3. Abschnitt: Neue zulässige Aromen und Ausgangsstoffe
 
@@ -219,7 +219,7 @@ Im Antrag muss nachgewiesen werden, dass die folgenden Voraussetzungen erfüllt 
 
 Die Sachbezeichnung nach Artikel 3 Absatz 1 Buchstabe a der Verordnung des EDI vom 16. Dezember 2016[^7-1] betreffend die Information über Lebensmittel (LIV) für Aromen lautet «Aroma». Sie kann zusätzlich eine genauere Angabe oder eine Beschreibung des verwendeten Aromas enthalten. Wird der Begriff «natürlich» verwendet, so gilt Artikel 10.
 
-[^7-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^7-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 8
 
@@ -227,7 +227,7 @@ Die Sachbezeichnung nach Artikel 3 Absatz 1 Buchstabe a der Verordnung des EDI v
 
 Werden Aromen als solche an Konsumentinnen und Konsumenten abgegeben, so muss auf der Verpackung oder dem Etikett zusätzlich zu den Angaben nach Artikel 3 LIV[^8-1] die Angabe «für Lebensmittel» oder «für Lebensmittel, begrenzte Verwendung» oder ein genauerer Hinweis auf die vorgesehene Verwendung des Aromas in Lebensmitteln gemacht werden.
 
-[^8-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^8-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 9
 
@@ -251,7 +251,7 @@ Werden Aromen, die nicht als solche für die Abgabe an Konsumentinnen und Konsum
 
 <sup>3</sup> Bei der Lieferung von Aromen in Tankwagen genügt es, wenn die Angaben nach Absatz 1 in den bei der Lieferung vorzulegenden Warenbegleitpapieren aufgeführt sind.
 
-[^9-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 10
 
@@ -311,6 +311,14 @@ Lebensmittel, die der Änderung vom 2. Juni 2025 nicht entsprechen, dürfen noch
 
 [^11d-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
 
+#### Art. 11e
+
+**Übergangsbestimmung zur Änderung vom 19. Juni 2026**[^11e-1]
+
+Lebensmittel, die der Änderung vom 19. Juni 2026 nicht entsprechen, dürfen noch bis zum 31. Januar 2027 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^11e-1]: Eingefügt durch Ziff. I der V des BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 372](https://fedlex.data.admin.ch/eli/oc/2026/372)).
+
 #### Art. 12
 
 **Inkrafttreten**
@@ -348,7 +356,7 @@ Anhang 1
 - 23\. Ausdrücken
 - 24\. Einweichen
 
-[^annex1-lvlu1-1]: [SR 817.022.42](https://fedlex.data.admin.ch/eli/cc/2017/162)
+[^annex1-lvlu1-1]: [SR 817.022.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9687)
 
 Anhang 2
 
@@ -374,14 +382,14 @@ Der pH-Wert darf bei der Verarbeitung 8,0 nicht überschreiten.
 
 Anhang 3[^t-1]
 
-(Art. 4 Abs. 2 und 3 Bst. b, 5 Abs. 2 und 6 Abs. 1)
+(Art. 4 Abs. 2 und 3 Bst. b, 5 Abs. 2 sowie 6 Abs. 1)
 
 ## Liste der zulässigen Aromastoffe
 
 [^annex3-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
-[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/393](https://fedlex.data.admin.ch/eli/oc/2025/393) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 372](https://fedlex.data.admin.ch/eli/oc/2026/372)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/372](https://fedlex.data.admin.ch/eli/oc/2026/372) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-2]
 
@@ -464,8 +472,8 @@ Anhang 4[^t-2]
 [^annex4-lvlu1-lvl2-1]: Die Höchstwerte gelten nicht, wenn ein zusammengesetztes Lebensmittel keine hinzugefügten Aromen enthält und die einzigen Zutaten mit Aromaeigenschaften, die hinzugefügt wurden, frische, getrocknete oder tiefgekühlte Kräuter oder Gewürze sind.
 [^annex4-lvlu1-lvl2-2]: Die Höchstwerte gelten nicht, wenn ein zusammengesetztes Lebensmittel keine hinzugefügten Aromen enthält und die einzigen Zutaten mit Aromaeigenschaften, die hinzugefügt wurden, frische, getrocknete oder tiefgekühlte Kräuter oder Gewürze sind.
 [^annex4-lvlu1-lvl2-3]: Die Höchstwerte gelten nicht, wenn ein zusammengesetztes Lebensmittel keine hinzugefügten Aromen enthält und die einzigen Zutaten mit Aromaeigenschaften, die hinzugefügt wurden, frische, getrocknete oder tiefgekühlte Kräuter oder Gewürze sind.
-[^annex4-lvlu1-lvl2-4]: Im Sinne von Artikel 148 der Verordnung des EDI vom 16. Dez. 2016 über Getränke ([SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)).
-[^annex4-lvlu1-lvl2-5]: Im Sinne von Artikel 149 der Verordnung des EDI vom 16. Dez. 2016 über Getränke ([SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)).
+[^annex4-lvlu1-lvl2-4]: Im Sinne von Artikel 148 der Verordnung des EDI vom 16. Dez. 2016 über Getränke ([SR 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)).
+[^annex4-lvlu1-lvl2-5]: Im Sinne von Artikel 149 der Verordnung des EDI vom 16. Dez. 2016 über Getränke ([SR 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)).
 
 Anhang 5[^t-3]
 

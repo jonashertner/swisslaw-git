@@ -3,11 +3,11 @@ sr: "817.022.41"
 title: Ordinanza del DFI del 16 dicembre 2016 sugli aromi e gli ingredienti alimentari con proprietà aromatizzanti nelle e sulle derrate alimentari (Ordinanza sugli aromi)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/182"
 language: it
-version: 2025-07-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-182-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/182/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2017-182-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/182/20250701/it"
 
 (Ordinanza sugli aromi)
 
-del 16 dicembre 2016 (Stato 1° luglio 2025)
+del 16 dicembre 2016 (Stato 1° agosto 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -24,7 +24,7 @@ visti gli articoli 23 e 36 capoversi 3 e 4 dell’ordinanza del 16 dicembre 2016
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Sezione 1: Disposizioni generali
 
@@ -177,7 +177,7 @@ In deroga al capoverso 2 lettera a, è ammesso l’uso di sostanze aromatizzanti
 <sup>9</sup> Gli aromatizzanti di affumicatura possono essere utilizzati soltanto se sono rispettate le condizioni di fabbricazione ai sensi dell’articolo 5 capoversi 1 e 2 del regolamento (CE) n. 2065/2003[^4-3].[^4-4]
 
 [^4-1]: Abrogata dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
-[^4-2]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^4-2]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 [^4-3]: Regolamento (CE) n. 2065/2003 del Parlamento europeo e del Consiglio, del 10 novembre 2003, relativo agli aromatizzanti di affumicatura utilizzati o destinati ad essere utilizzati nei o sui prodotti alimentari, GU L 309 del 26.11.2003, pag. 1.
 [^4-4]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2403](https://fedlex.data.admin.ch/eli/oc/2020/455)).
 
@@ -193,7 +193,7 @@ In deroga al capoverso 2 lettera a, è ammesso l’uso di sostanze aromatizzanti
 
 <sup>4</sup> Alle derrate alimentari essiccate o concentrate che devono essere ricostituite si applicano le quantità massime previste per le derrate ricostituite. La ricostituzione deve essere effettuata secondo le istruzioni riportate sull’etichetta, tenuto conto del fattore minimo di diluizione.
 
-[^5-1]: [RS 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
+[^5-1]: [RS 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
 
 ## Sezione 3: Ammissione di nuovi aromi e materie prime
 
@@ -219,7 +219,7 @@ Nella richiesta occorre dimostrare che le seguenti condizioni sono soddisfate:
 
 La denominazione specifica secondo l’articolo 3 capoverso 1 lettera a dell’ordinanza del DFI del 16 dicembre 2016[^7-1] relativa alle informazioni sulle derrate alimentari (OID) per gli aromi è «aroma». La denominazione può altresì comprendere informazioni più dettagliate o una descrizione dell’aroma usato. Se è usato il termine «naturale», si applica l’articolo 10.
 
-[^7-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^7-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 8
 
@@ -227,7 +227,7 @@ La denominazione specifica secondo l’articolo 3 capoverso 1 lettera a dell’o
 
 Per gli aromi immessi al consumo nella forma originale l’imballaggio o l’etichetta deve riportare, in aggiunta alle indicazioni secondo l’articolo 3 OID[^8-1], l’indicazione «per derrate alimentari» o «per derrate alimentari (uso limitato)», o un’indicazione più precisa in merito all’uso alimentare cui gli aromi sono destinati.
 
-[^8-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^8-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 9
 
@@ -251,7 +251,7 @@ Per gli aromi non immessi al consumo nella forma originale e venduti singolarmen
 
 <sup>3</sup> Se gli aromi sono forniti in cisterne, è sufficiente riportare le indicazioni secondo il capoverso 1 sui documenti relativi alla partita che devono essere forniti all’atto della consegna.
 
-[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 10
 
@@ -307,6 +307,14 @@ Le derrate alimentari non conformi alla modifica del 2 giugno 2025 possono ancor
 
 [^11d-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
 
+#### Art. 11e
+
+**Disposizione transitoria della modifica del 19 giugno 2026**[^11e-1]
+
+Le derrate alimentari non conformi alla modifica del 19 giugno 2026 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2027 e consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^11e-1]: Introdotto dalla cifra I dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 372](https://fedlex.data.admin.ch/eli/oc/2026/372)).
+
 #### Art. 12
 
 **Entrata in vigore**
@@ -344,7 +352,7 @@ Allegato 1
 - 23\. Spremitura
 - 24\. Ammollamento
 
-[^annex1-lvlu1-1]: [RS 817.022.42](https://fedlex.data.admin.ch/eli/cc/2017/162)
+[^annex1-lvlu1-1]: [RS 817.022.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9687)
 
 Allegato 2
 
@@ -376,8 +384,8 @@ Allegato 3[^t-1]
 
 [^annex3-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 393](https://fedlex.data.admin.ch/eli/oc/2025/393)).
-[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/393](https://fedlex.data.admin.ch/eli/oc/2025/393) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra II dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 372](https://fedlex.data.admin.ch/eli/oc/2026/372)).
+[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/372](https://fedlex.data.admin.ch/eli/oc/2026/372) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-2]
 
@@ -460,8 +468,8 @@ Allegato 4[^t-2]
 [^annex4-lvlu1-lvl2-1]: Le quantità massime non si applicano alle derrate alimentari composte che non presentano aggiunta di aromi ma solamente di ingredienti con proprietà aromatizzanti che costituiscono spezie o erbe aromatiche fresche, essiccate o surgelate.
 [^annex4-lvlu1-lvl2-2]: Le quantità massime non si applicano alle derrate alimentari composte che non presentano aggiunta di aromi ma solamente di ingredienti con proprietà aromatizzanti che costituiscono spezie o erbe aromatiche fresche, essiccate o surgelate.
 [^annex4-lvlu1-lvl2-3]: Le quantità massime non si applicano alle derrate alimentari composte che non presentano aggiunta di aromi ma solamente di ingredienti con proprietà aromatizzanti che costituiscono spezie o erbe aromatiche fresche, essiccate o surgelate.
-[^annex4-lvlu1-lvl2-4]: Secondo l’art. 148 dell’O del DFI del 16 dic. 2016 sulle bevande ([RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)).
-[^annex4-lvlu1-lvl2-5]: Secondo l’art. 148 dell’O del DFI del 16 dic. 2016 sulle bevande ([RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)).
+[^annex4-lvlu1-lvl2-4]: Secondo l’art. 148 dell’O del DFI del 16 dic. 2016 sulle bevande ([RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)).
+[^annex4-lvlu1-lvl2-5]: Secondo l’art. 148 dell’O del DFI del 16 dic. 2016 sulle bevande ([RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)).
 
 Allegato 5[^t-3]
 
