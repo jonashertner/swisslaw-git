@@ -4,13 +4,12 @@ number: "649.2"
 title: Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen
 short: RSA 2009
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-03-17
+version: 2026-08-01
+version_adopted: 2026-03-13
 adopted: 2008-08-19
 in_force: 2009-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/649.2"
-pdf: "https://bl.clex.ch/api/de/versions/4406/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4500/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4406/pdf_file"
 
 (RSA 2009)
 
-Vom 19.08.2008 (Stand 01.08.2025)
+Vom 19.08.2008 (Stand 01.08.2026)
 
 Zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Freiburg, Luzern, Solothurn, Wallis und Zürich, nachfolgend Abkommenskantone genannt, wird folgendes Abkommen getroffen:
 
