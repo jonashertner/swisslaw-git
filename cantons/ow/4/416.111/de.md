@@ -3,20 +3,19 @@ canton: OW
 number: "416.111"
 title: Ausführungsbestimmungen über die Berufsbildung und die Weiterbildung
 language: de
-version: 2018-01-01
-valid_until: 2026-07-31
-version_adopted: 2017-09-12
+version: 2026-08-01
+version_adopted: 2026-03-23
 adopted: 2007-03-27
 in_force: 2007-04-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/416.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1238/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Berufsbildung und die Weiterbildung
 
-vom 27.03.2007 (Stand 01.01.2018)
+vom 27.03.2007 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -251,7 +250,7 @@ beschliesst:
 
 **Disziplin und Massnahmen**
 
-<sup>1</sup> Das Rektorat und die Lehrpersonen benachrichtigen spätestens bei wiederholten disziplinarischen Verstössen den Lehrbetrieb sowie die Erziehungsberechtigten minderjähriger Lernender.
+<sup>1</sup> Das Rektorat und die Lehrpersonen benachrichtigen spätestens bei wiederholten disziplinarischen Verstössen den Lehrbetrieb sowie die Eltern bzw. Erziehungsberechtigten minderjähriger Lernender.
 
 #### Art. 22
 
@@ -498,7 +497,7 @@ beschliesst:
 - e. die Weiterbildung gemäss Art. 34 dieser Ausführungsbestimmungen bis zu 50 Prozent;
 - f. obligatorische Kurse für Berufsbildnerinnen und Berufsbildner bis zu 80 Prozent (Art. 45 BBG);
 - g. Projekte gemäss Art. 3 dieser Ausführungsbestimmungen. Die Beiträge an Dritte decken höchstens 60 Prozent der Kosten;
-- h. private Bildungsinstitutionen in der Grundbildung, für die der Bund eine Pauschale pro Studierende entrichtet, mit höchstens Fr. 4 000.– pro Studierenden. Die kantonalen Aufwendungen müssen abgegolten sein.
+- h. private Bildungsinstitutionen in der Grundbildung, für die der Bund eine Pauschale pro Lernende entrichtet, mit höchstens Fr. 4 000.– pro Lernenden. Die kantonalen Aufwendungen müssen abgegolten sein.
 
 <sup>2</sup> Die Kantonsbeiträge können in Form von Pauschalen ausgerichtet werden.
 
@@ -585,6 +584,8 @@ geändert durch
 
 \- Nachtrag vom 26. März 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 22),
 
-\- Nachtrag vom 12. September 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 46)
+\- Nachtrag vom 12. September 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 46),
+
+\- Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
 
 OGS 2007, 15
