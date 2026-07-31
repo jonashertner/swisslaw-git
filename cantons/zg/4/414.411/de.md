@@ -2,24 +2,23 @@
 canton: ZG
 number: "414.411"
 title: Verordnung zum Gesetz über die Pädagogische Hochschule Zug
-short: PHV
+short: "PH-Verordnung, PHV"
 language: de
-version: 2024-01-01
-valid_until: 2026-07-31
-version_adopted: 2024-05-07
+version: 2026-08-01
+version_adopted: 2026-07-07
 adopted: 2013-07-09
 in_force: 2013-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.411"
-pdf: "https://bgs.zg.ch/api/de/versions/2569/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3043/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Pädagogische Hochschule Zug
 
-(PHV)
+(PH-Verordnung, PHV)
 
-Vom 9. Juli 2013 (Stand 1. Januar 2024)
+Vom 9. Juli 2013 (Stand 1. August 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -50,13 +49,14 @@ beschliesst:
 
 <sup>1</sup> Der Leistungsbereich Ausbildung vermittelt die für den Lehrberuf notwendigen pädagogischen, fachlichen, überfachlichen, didaktischen und fachdidaktischen Kompetenzen.
 
-<sup>2</sup> Er bietet den Bachelorstudiengang Kindergarten/Unterstufe für die Schuljahre 1–5 der Primarstufe und den Bachelorstudiengang Primarstufe für die Schuljahre 3–8 der Primarstufe sowie den Masterstudiengang Sonderpädagogik (Vertiefungsrichtung Schulische Heilpädagogik) an.
+<sup>2</sup> Er bietet den Bachelorstudiengang Kindergarten/Unterstufe für die Schuljahre 1–5 der Primarstufe und den Bachelorstudiengang Primarstufe für die Schuljahre 3–8 und/oder 1–8 der Primarstufe sowie den Masterstudiengang Sonderpädagogik (Vertiefungsrichtung Schulische Heilpädagogik) an. Einzelheiten werden im Reglement über die Studiengänge der Pädagogischen Hochschule Zug[^2-1] festgelegt.
 
-<sup>3</sup> Die Studiengänge weisen stufen- respektive bereichsspezifische Schwerpunkte auf und umfassen die Bildungsinhalte, welche für die Lehr- und Erziehungstätigkeit erforderlich sind. Sie richten sich nach den Bestimmungen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK)[^2-1]
+<sup>3</sup> Die Studiengänge weisen stufen- respektive bereichsspezifische Schwerpunkte auf und umfassen die Bildungsinhalte, welche für die Lehr- und Erziehungstätigkeit erforderlich sind. Sie richten sich nach den Bestimmungen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK)[^2-2].
 
 <sup>4</sup> Der Leistungsbereich Ausbildung kann Studienprogramme zur Stufen- und Facherweiterung, Programme für die Zusatzleistungen für den Zugang zum Masterstudium Sonderpädagogik sowie Kurse für Quereinsteigende zur Vorbereitung auf die Aufnahmeprüfung für die Bachelorstudiengänge anbieten.
 
-[^2-1]: [Erlasse und Beschlüsse der EDK-Plenarversammlung](http://www.cdpe.ch/de/dokumentation/rechtstexte-beschluesse/rechtssammlung)
+[^2-1]: BGS [414.413](https://bgs.zg.ch/data/414.413/de)
+[^2-2]: [Erlasse und Beschlüsse der EDK-Plenarversammlung](http://www.cdpe.ch/de/dokumentation/rechtstexte-beschluesse/rechtssammlung)
 
 #### § 3
 
@@ -186,14 +186,16 @@ beschliesst:
 - a) wissenschaftliche Assistierende mit Bachelor-Abschluss, die vorrangig Qualifikationsstellen (Masterabschluss) innehaben und in Projekten mitarbeiten;
 - b) wissenschaftliche Mitarbeitende 1 mit Master-Abschluss, die vorrangig Qualifikationsstellen (Doktorat) innehaben und Teilprojekte selbständig leiten;
 - c) wissenschaftliche Mitarbeitende 2 bei erweiterten Anforderungen an wissenschaftliche Tätigkeiten oder als Anlauffunktion für Dozierende 1;
-- d) Lehrbeauftragte, die als Fachpersonen in spezifischen Aufgabengebieten eingesetzt werden oder Praxisdozierende in der Lehre;
+- d) Lehrbeauftragte, die als Fachpersonen oder Praxisdozierende in spezifischen Aufgabengebieten eingesetzt werden;
 - e) Dozierende 1 mit Beschäftigung in vorrangig einem Leistungsbereich und einzelnen Einsätzen in weiteren Leistungsbereichen;
 - f) Dozierende 2 mit Beschäftigung in mehreren Leistungsbereichen und einem gegenüber Dozierenden 1 anspruchsvolleren Aufgabengebiet;
 - g) Dozierende 3 als Leitungspersonen mit umfassender Führungsverantwortung oder für Inhaberinnen und Inhaber einer Professur.
 
 <sup>2</sup> Die Angehörigen des Lehr- und Forschungspersonals gemäss Abs. 1 Bst. a, b und d sind in befristeten Arbeitsverhältnissen angestellt.
 
-<sup>3</sup> Die Angehörigen des Lehr- und Forschungspersonals gemäss Abs. 1 Bst. c und e–g sind in unbefristeten Arbeitsverhältnissen angestellt.
+<sup>2a</sup> Die Angehörigen des Lehr- und Forschungspersonals gemäss Abs. 1 Bst. c sind in befristeten oder unbefristeten Arbeitsverhältnissen angestellt.
+
+<sup>3</sup> Die Angehörigen des Lehr- und Forschungspersonals gemäss Abs. 1 Bst. e–g sind in unbefristeten Arbeitsverhältnissen angestellt.
 
 <sup>4</sup> Die Zusammensetzung der Hochschulleitung regelt § 12 Abs. 1 des Gesetzes über die Pädagogische Hochschule Zug[^16a-1].
 
@@ -268,11 +270,14 @@ beschliesst:
 
 - a) Der Aufstieg innerhalb des Lohnbandes erfolgt in einjährigen Stufen jeweils auf Beginn eines Kalenderjahres.
 - b) …
-- c Bei ungenügender Leistung, Fähigkeit oder Eignung kann der Stufenaufstieg jederzeit hinausgeschoben oder verweigert werden. Vor dieser Massnahme ist das rechtliche Gehör zu gewähren. Die Massnahme ist zu begründen.
+- c …
+- c) Bei ungenügender Leistung, Fähigkeit oder Eignung kann der Stufenaufstieg jederzeit hinausgeschoben oder verweigert werden. Vor dieser Massnahme ist das rechtliche Gehör zu gewähren. Die Massnahme ist zu begründen.
 
-<sup>2</sup> Jede Lohnklasse besteht aus zehn Lohnstufen. Die erste Stufe entspricht dem Minimum der Lohnklasse. Die weiteren Stufen erhöhen sich jeweils um den neunten Teil der Differenz zwischen dem Klassenmaximum und dem Klassenminimum. Die zehnte Stufe entspricht dem Maximum der Lohnklasse.
+<sup>2</sup> …
 
-<sup>2(1)</sup> Herausragende Leistungen von Angehörigen des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. a–c und e–g dieser Verordnung können mit einer Einmalzulage honoriert werden.
+<sup>2(1)</sup> …
+
+<sup>2a</sup> Herausragende Leistungen von Angehörigen des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. a–c und e–g dieser Verordnung können mit einer Einmalzulage honoriert werden.
 
 <sup>3</sup> Für das übrige Hochschulpersonal gilt § 48 des Personalgesetzes[^18-1].
 
@@ -342,7 +347,9 @@ beschliesst:
 
 **Forschungs-, Studien- und Bildungsurlaub**
 
-<sup>1</sup> Die Mitglieder der Hochschulleitung und die Angehörigen des Lehr- und Forschungspersonals mit unbefristeter Anstellung können frühestens nach Erfüllung von zehn Dienstjahren an der Pädagogischen Hochschule Zug und einem durchschnittlichen Beschäftigungsgrad von 50 % einen ganz oder teilweise bezahlten Forschungs- und Studienurlaub für einen Zeitraum von höchstens drei Monaten beantragen.
+<sup>1</sup> Die Mitglieder der Hochschulleitung und die Angehörigen des Lehr- und Forschungspersonals mit unbefristeter Anstellung können frühestens nach Erfüllung von zehn Dienstjahren an der Pädagogischen Hochschule Zug und einem durchschnittlichen Beschäftigungsgrad von 50 % einen ganz oder teilweise bezahlten Forschungs- oder Studienurlaub für einen Zeitraum von höchstens drei Monaten beantragen.
+
+<sup>1a</sup> Der Bezug des maximal dreimonatigen Forschungs- oder Studienurlaubs kann nach vorgängiger Genehmigung in zwei Zeitabschnitte aufgeteilt werden.
 
 <sup>2</sup> Der Antrag erfolgt für:
 
@@ -356,7 +363,7 @@ beschliesst:
 - b) die Verträglichkeit mit dem Hochschulbetrieb;
 - c) der Nutzen für die Hochschule.
 
-<sup>4</sup> An der Pädagogischen Hochschule Zug kann pro Studienjahr für die Mitglieder der Hochschulleitung sowie für die Angehörigen des Lehr- und Forschungspersonals mit unbefristeter Anstellung Studienurlaub im Umfang von insgesamt einer Personaleinheit gewährt werden. Der Hochschulrat kann aus wichtigen Gründen und im Rahmen des jährlichen Budgetprozesses davon abweichen. Nicht beanspruchte Studienurlaube werden in andere Personalentwicklungsmassnahmen, insbesondere gemäss § 19c Abs. 3, umgewandelt.
+<sup>4</sup> An der Pädagogischen Hochschule Zug kann pro Studienjahr für die Mitglieder der Hochschulleitung sowie für die Angehörigen des Lehr- und Forschungspersonals mit unbefristeter Anstellung Forschungs- oder Studienurlaub im Umfang von insgesamt einer Personaleinheit gewährt werden. Der Hochschulrat kann aus wichtigen Gründen und im Rahmen des jährlichen Budgetprozesses davon abweichen. Nicht beanspruchte Studienurlaube werden in andere Personalentwicklungsmassnahmen, insbesondere gemäss § 19c Abs. 3, umgewandelt.
 
 <sup>5</sup> Ein Forschungs- oder Studienurlaub wird während der Tätigkeit an der Hochschule höchstens einmal gewährt. Er ist in der Regel spätestens drei Jahre vor dem Altersrücktritt anzutreten. Über Ausnahmen entscheidet der Hochschulrat auf Antrag der Hochschulleitung.
 
@@ -385,7 +392,7 @@ beschliesst:
 
 <sup>3a</sup> Die Arbeitszeit richtet sich für das gesamte Hochschulpersonal grundsätzlich nach den Bestimmungen der Verordnung über die Arbeitszeit (Arbeitszeitverordnung)[^21-1].
 
-<sup>3b</sup> In Abweichung von Abs. 3a gelten besondere Bestimmungen zur Arbeitszeit für Angehörige des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. e–g dieser Verordnung. Es kommen die Bestimmungen gemäss §§ 22 ff. dieser Verordnung zur Anwendung.
+<sup>3b</sup> In Abweichung von Abs. 3a gelten besondere Bestimmungen zur Arbeitszeit für Angehörige des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. a–c und e–g dieser Verordnung. Es kommen die Bestimmungen gemäss §§ 22 ff. dieser Verordnung zur Anwendung.
 
 <sup>4</sup> Die Hochschulleitung ist befugt, für die das Hochschulpersonal Präsenzzeiten festzulegen.
 
@@ -395,16 +402,22 @@ beschliesst:
 
 **Stundenkontingente**
 
-<sup>1</sup> Die Hochschulleitung erlässt Bestimmungen über die Festlegung der Stundenkontingente für Angehörige des Lehr- und Forschungspersonals gemäss § 16a Abs.1 Bst. e–g dieser Verordnung.
+<sup>1</sup> Die Hochschulleitung erlässt Bestimmungen über die Festlegung der Stundenkontingente für Angehörige des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. a–c und e–g dieser Verordnung.
 
-<sup>2</sup> Die Bestimmungen legen die Stundenkontingente für Leistungen folgender Leistungskategorien fest:
+<sup>2</sup> Die Bestimmungen legen die Stundenkontingente für Leistungen insbesondere folgender Kategorien fest:
 
-- a Lehre in Aus- und Weiterbildung, in Dienstleistungen sowie Forschung und Entwicklung;
-- b Leitungsaufgaben;
-- c Hochschul-/Organisationsentwicklung;
-- d Institutionelle und individuelle Weiterbildung;
-- e Teilnahme an Veranstaltungen;
-- f weitere Aufgaben an der Hochschule.
+- a …
+- b …
+- c …
+- d …
+- e …
+- f …
+- a) Lehre in Aus- und Weiterbildung, Dienstleistungen, Forschung und Entwicklung;
+- b) Leitungsaufgaben;
+- c) Hochschul-/Organisationsentwicklung;
+- d) institutionelle und individuelle Weiterbildung;
+- e) Teilnahme an Veranstaltungen;
+- f) weitere Aufgaben an der Hochschule.
 
 <sup>3</sup> Die Summe der Stundenkontingente bildet die massgebende Arbeitszeit.
 
@@ -414,7 +427,7 @@ beschliesst:
 
 **Leistungsvereinbarung**
 
-<sup>1</sup> Die Hochschulleitung schliesst mit den Angehörigen des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. e–g dieser Verordnung eine Leistungsvereinbarung über die Aufgaben und die Stundenkontingente gemäss § 22 dieser Verordnung ab.
+<sup>1</sup> Die Hochschulleitung schliesst mit den Angehörigen des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. a–c und e–g dieser Verordnung eine Leistungsvereinbarung über die Aufgaben und die Stundenkontingente gemäss § 22 dieser Verordnung ab.
 
 <sup>2</sup> Die Leistungsvereinbarung bezieht sich in der Regel jeweils auf ein Studienjahr. Das Studienjahr richtet sich nach dem akademischen Kalender der Hochschulen.
 
@@ -426,7 +439,7 @@ beschliesst:
 
 <sup>6</sup> Die Entschädigung für krankheits- oder unfallbedingte Ausfalltage in der unterrichtsfreien Zeit ist durch die Anstellungsbedingungen in Lehre und Forschung vollumfänglich abgegolten. Über Ausnahmen entscheidet die Hochschulleitung.
 
-<sup>7</sup> Die Angehörigen des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. e–g dieser Verordnung erfassen keine Arbeitszeit, zeichnen jedoch Besonderheiten wie Überstundenarbeit, bezahlte Absenzen (Ferien, Krankheit, Unfall, Aus- und Weitebildung usw.) und dergleichen auf.
+<sup>7</sup> Die Angehörigen des Lehr- und Forschungspersonals gemäss § 16a Abs. 1 Bst. a–c und e–g dieser Verordnung erfassen keine Arbeitszeit, zeichnen jedoch Besonderheiten wie Überstundenarbeit, bezahlte Absenzen (Ferien, Krankheit, Unfall, Aus- und Weiterbildung usw.) und dergleichen auf.
 
 <sup>8</sup> Sie beziehen Ferien ausserhalb von Lehr- und Forschungs- sowie weiteren institutionellen Verpflichtungen. Allfällige nicht bezogene Ferientage können nicht auf ein neues Studienjahr übertragen werden.
 
