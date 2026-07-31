@@ -4,13 +4,12 @@ number: "916.51"
 title: Ordonnance cantonale sur les épizooties
 short: OCE
 language: fr
-version: 2021-08-01
-valid_until: 2026-07-31
-version_adopted: 2021-06-30
+version: 2026-08-01
+version_adopted: 2026-05-20
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2332/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3383/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2332/pdf_file"
 
 (OCE)
 
-du 03.11.1999 (état au 01.08.2021)
+du 03.11.1999 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -50,61 +49,63 @@ arrête:
 
 <sup>1</sup> L'Office des affaires vétérinaires exécute les dispositions régissant la lutte contre les épizooties, dans la mesure où les législations fédérale et cantonale n'en attribuent pas la compétence à d'autres organes.
 
-<sup>2</sup> Il coordonne son activité d'exécution en matière de zoonoses (art. 1<sup>er</sup>, 1<sup>er</sup> al., lit. a LFE[^2-1]) avec l'Office de la santé et le Laboratoire cantonal, et en cas d'épizooties du gibier ou des poissons, avec les Inspections de la chasse et de la pêche.
+<sup>2</sup> Il coordonne son activité d'exécution avec l'Office de la santé ainsi qu'avec l'Office de l'agriculture et de la nature (OAN), l'Office des forêts et des dangers naturels et le Laboratoire cantonal.
 
-<sup>3</sup> Il coordonne l'activité des organes de la police des épizooties au sens des articles 3 à 8 et définit leurs tâches dans le cadre de la LFE et de l'OFE.
-
-[^2-1]: RS 916.40
+<sup>3</sup> Il coordonne l'activité des organes de police des épizooties au sens des articles 3, 3a, 7 et 8, et définit leurs tâches dans le cadre de la LFE et de l'OFE.
 
 #### Art. 3
 
 **Vétérinaires officiels**
 
-<sup>1</sup> Afin d’assurer une exécution efficace, l'Office des affaires vétérinaires nomme le nombre requis de vétérinaires officiels, ainsi que leurs suppléants ou suppléantes.
+<sup>1</sup> Afin d’assurer une exécution efficace, l'Office des affaires vétérinaires emploie les vétérinaires officiels requis.
 
-#### Art. 4–5
+#### Art. 3a
+
+**Vétérinaires non officiels**
+
+<sup>1</sup> L'Office des affaires vétérinaires conclut des conventions de prestations avec les vétérinaires non officiels requis afin d'assurer une exécution efficace (tâches de police des épizooties).
+
+<sup>2</sup> Les vétérinaires non officiels accomplissent les tâches qui leur ont été confiées par l'Office des affaires vétérinaires comme les prélèvements d'échantillons, les vaccinations et les clarifications nécessaires à la surveillance des épizooties et à la lutte contre celles-ci.
+
+<sup>3</sup> L'Office des affaires vétérinaires assigne une zone de compétence territoriale aux vétérinaires non officiels.
+
+#### Art. 4–6
 
 **…**
-
-#### Art. 6
-
-**Commissaires des ruchers**
-
-<sup>1</sup> L'Office des affaires vétérinaires nomme, d’entente avec les fédérations cantonales d’apiculture, le nombre requis de commissaires des ruchers régionaux. La partie francophone du canton constitue une région.
-
-<sup>2</sup> Les commissaires des ruchers conseillent et soutiennent, dans leur région, le ou la vétérinaire cantonal(e), ainsi que les inspecteurs et inspectrices des ruchers, dans la lutte contre les épizooties des abeilles.
 
 #### Art. 7
 
 **Inspecteurs et inspectrices des ruchers**
 
-<sup>1</sup> L'Office des affaires vétérinaires nomme le nombre d’inspecteurs ou d’inspectrices des ruchers nécessaire à une exécution efficace.
+<sup>1</sup> L'Office des affaires vétérinaires conclut des conventions de prestations avec les inspecteurs et inspectrices des ruchers requis afin d'assurer une exécution efficace (tâches de police des épizooties).
 
-<sup>2</sup> Il fixe le territoire attribué aux inspecteurs ou inspectrices des ruchers par communes et par régions.
+<sup>1a</sup> Les inspecteurs et inspectrices des ruchers accomplissent les tâches qui leur ont été confiées par l'Office des affaires vétérinaires comme les prélèvements d'échantillons, les clarifications et les assainissements nécessaires à la surveillance des épizooties et à la lutte contre celles-ci.
+
+<sup>2</sup> L'Office des affaires vétérinaires assigne une zone de compétence territoriale aux inspecteurs et inspectrices des ruchers.
 
 #### Art. 8
 
 **Organes de police**
 
-<sup>1</sup> Les organes de police cantonaux et communaux assistent les autres organes de la police des épizooties dans leur fonction et leur apportent l'appui nécessaire à l'exécution des mesures.
+<sup>1</sup> Les organes de police cantonaux et communaux assistent les autres organes de police des épizooties dans leur fonction et leur apportent l'appui nécessaire à l'exécution des mesures.
 
 #### Art. 9
 
-**Personnes, autorités et services chargés de tâches spéciales de la police des épizooties**
+**Personnes, autorités et services chargés de tâches spéciales de police des épizooties**
 
-<sup>1</sup> Si besoin est, l'Office des affaires vétérinaires peut faire appel à la collaboration de personnes, d'autorités et de services qui, en vertu de conditions particulières, peuvent accomplir des tâches spéciales pour la police des épizooties.
+<sup>1</sup> Si besoin est, l'Office des affaires vétérinaires peut faire appel à la collaboration de personnes, d'autorités et de services qui, en vertu de conditions particulières, peuvent accomplir des tâches spéciales de police des épizooties.
 
 <sup>2</sup> Les organes de surveillance de la chasse et de la pêche, qui remplissent des tâches de police des épizooties, ont la qualité d'agents ou d'agentes fonctionnaires de la police judiciaire.
 
 #### Art. 10
 
-**Indemnités des organes de la police des épizooties**
+**Indemnités des organes de police des épizooties**
 
-<sup>1</sup> Les vétérinaires officiels, ainsi que les vétérinaires non officiels chargés de tâches de la police des épizooties touchent des indemnités au sens de l'ordonnance du 19 décembre 2012 sur les barèmes des indemnités perçues pour les actes accomplis dans le cadre de la lutte contre les épizooties (OHE)[^10-1]
+<sup>1</sup> Les vétérinaires non officiels ainsi que les inspecteurs et inspectrices des ruchers touchent des indemnités au sens de l'ordonnance du 19 décembre 2012 sur les barèmes des indemnités perçues pour les actes accomplis dans le cadre de la lutte contre les épizooties (OHE)[^10-1].
 
-<sup>2</sup> Les indemnités destinées aux autres organes de la police des épizooties sont fixées dans des contrats de travail de droit public ou dans des conventions de prestations, sur la base des directives de l'Office des affaires vétérinaires.
+<sup>2</sup> Les indemnités destinées aux autres organes de police des épizooties sont fixées dans des contrats de travail de droit public ou dans des conventions de prestations, sur la base des directives de l'Office des affaires vétérinaires.
 
-[^10-1]: RSB 811.941
+[^10-1]: RSB [811.941](https://www.belex.sites.be.ch/data/811.941/fr)
 
 ## 3 Trafic d'animaux
 
@@ -205,15 +206,13 @@ arrête:
 
 **Epizooties nouvelles**
 
-<sup>1</sup> Si une maladie dangereuse et contagieuse, non mentionnée dans l'OFE[^18-1], se déclare, le Conseil-exécutif peut, sur proposition de l'Office des affaires vétérinaires ou de l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires, ordonner les mesures nécessaires et fixer l'indemnité à verser par la Caisse des épizooties.
-
-[^18-1]: RS [916.401](https://db.clex.ch/link/Bund/916.401/fr)
+<sup>1</sup> Si une maladie dangereuse et contagieuse, non mentionnée dans l'OFE, se déclare, le Conseil-exécutif peut ordonner les mesures nécessaires et fixer l'indemnité à verser par la Caisse des épizooties.
 
 #### Art. 19
 
 **Nettoyage et désinfection**
 
-<sup>1</sup> Le nettoyage et la désinfection selon les prescriptions de la police des épizooties doivent être effectués conformément aux ordres et sous la surveillance du ou de la vétérinaire cantonale, des vétérinaires officiels ou des inspecteurs et des inspectrices des ruchers.
+<sup>1</sup> Le nettoyage et la désinfection selon les prescriptions de police des épizooties doivent être effectués conformément aux ordres et sous la surveillance de l'Office des affaires vétérinaires ou des inspecteurs et des inspectrices des ruchers.
 
 <sup>2</sup> Les exploitants et les exploitantes de domaines contaminés et leur personnel sont tenus de participer aux travaux de nettoyage et de désinfection, sans avoir droit à une indemnité de la Caisse des épizooties.
 
@@ -231,9 +230,9 @@ arrête:
 
 **Cotisations des détenteurs et détentrices d'animaux à la Caisse des épizooties**
 
-<sup>1</sup> Tous les exploitants et exploitantes d’une unité d’élevage dans le canton de Berne, qui remplissent les conditions de l’article 6, lettre o OFE[^21-1], doivent verser des cotisations annuelles à la Caisse des épizooties, conformément à l’article 12 LCAB[^21-2]; les montants de ces cotisations sont les suivants:
+<sup>1</sup> Tous les exploitants et exploitantes d’une unité d’élevage dans le canton de Berne, qui remplissent les conditions de l’article 6, lettre o OFE, doivent verser des cotisations annuelles à la Caisse des épizooties, en vertu de l’article 12 LCAB; les montants de ces cotisations sont les suivants:
 
-- a pour les animaux de rente consommant des fourrages grossiers au sens de l'article 27, alinéa 2 de l'ordonnance fédérale du 7 décembre 1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation (ordonnance sur la terminologie agricole, OTerm)[^21-3]: CHF 8 par unité de gros bétail consommant des fourrages grossiers (UGBFG),
+- a pour les animaux de rente consommant des fourrages grossiers au sens de l'article 27, alinéa 2 de l'ordonnance fédérale du 7 décembre 1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation (ordonnance sur la terminologie agricole, OTerm)[^21-1]: CHF 8 par unité de gros bétail consommant des fourrages grossiers (UGBFG),
 - b pour les porcs: CHF 6 par unité de gros bétail (UGB),
 - c pour les volailles: CHF 6 par UGB,
 - d pour les lapins: CHF 6 par UGB,
@@ -242,21 +241,21 @@ arrête:
 - g pour les poissons de repeuplement: CHF 19 par 100 kg,
 - h pour les œufs couvés d'exploitations avicoles d'accouvage: forfait de CHF 50 jusqu'à un nombre total de 100'000 œufs par an ou forfait de CHF 200 pour un nombre total de plus de 100'000 œufs par an.
 
-<sup>2</sup> La conversion du bétail de catégorie a en UGBFG et des catégories b à d en UGB s’effectue selon l’annexe de l’OTerm.
+<sup>1a</sup> Les cliniques vétérinaires, les abattoirs ainsi que les marchés de bétail, les ventes aux enchères de bétail, les expositions de bétail et les autres manifestations semblables ne sont pas soumis à l'obligation de payer les cotisations visées à l'alinéa 1.
 
-<sup>3</sup> Les effectifs pour les cotisations des détenteurs et détentrices d’animaux conformément à l’alinéa 1, lettres a à g sont définis selon l'ordonnance fédérale du 23 octobre 2013 sur les paiements directs versés dans l'agriculture (ordonnance sur les paiements directs, OPD)[^21-4] et l'ordonnance fédérale du 23 octobre 2013 sur les systèmes d'information dans le domaine de l'agriculture (OSIAgr)[^21-5].
+<sup>2</sup> La conversion du bétail relevant de la catégorie visée à l'alinéa 1, lettre a en UGBFG et de celui relevant des catégories visées à l'alinéa 1, lettres b à d en UGB s’effectue selon l’annexe de l’OTerm.
+
+<sup>3</sup> Les effectifs pour les cotisations des détenteurs et détentrices d’animaux conformément à l’alinéa 1, lettres a à g sont définis selon l'ordonnance fédérale du 23 octobre 2013 sur les paiements directs versés dans l'agriculture (ordonnance sur les paiements directs, OPD)[^21-2] et l'ordonnance fédérale du 23 octobre 2013 sur les systèmes d'information dans le domaine de l'agriculture (OSIAgr)[^21-3].
 
 <sup>4</sup> La cotisation minimale par unité d’élevage est de 18 francs.
 
 <sup>5</sup> Les cotisations des détenteurs et détentrices d’animaux sont calculées au moyen du système d’information agricole de l'OAN et leur sont facturées par l’OAN. Pour les détenteurs et détentrices d’animaux qui touchent des paiements directs selon l’OPD, les cotisations peuvent être déduites des paiements directs versés.
 
-<sup>6</sup> Lorsque les cotisations conformément au premier alinéa n'ont pas été payées, la Caisse des épizooties ne verse aucune contribution.
+<sup>6</sup> Lorsque les cotisations visées au premier alinéa n'ont pas été payées, la Caisse des épizooties ne verse aucune contribution.
 
-[^21-1]: RS 916.401
-[^21-2]: RSB 910.1
-[^21-3]: RS 910.91
-[^21-4]: RS 910.13
-[^21-5]: RS 919.117.71
+[^21-1]: RS 910.91
+[^21-2]: RS 910.13
+[^21-3]: RS 919.117.71
 
 #### Art. 21a
 
@@ -297,17 +296,9 @@ arrête:
 
 <sup>1</sup> Les intérêts servis sur la fortune de la Caisse des épizooties sont reversés à la Caisse des épizooties.
 
-#### Art. 24
+#### Art. 24–25
 
-**Prestations aux frais de lutte**
-
-<sup>1</sup> Les frais d'examens de laboratoire pour les diagnostics et les contrôles de traitement effectués lors de la surveillance de troupeaux contaminés ou suspects sont à la charge de la Caisse des épizooties, mais en règle générale seulement si ces mesures ont été ordonnées par l'Office des affaires vétérinaires.
-
-#### Art. 25
-
-**Contributions aux services d'hygiène des animaux**
-
-<sup>1</sup> Il est possible de soutenir les services sanitaires des animaux, placés sous la surveillance de l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires et au bénéfice d’une subvention fédérale, par une contribution de la Caisse des épizooties aux frais imputables; cette contribution ne peut pas dépasser la subvention fédérale maximale.
+**…**
 
 #### Art. 26
 
@@ -320,6 +311,52 @@ arrête:
 **Omission de vaccination**
 
 <sup>1</sup> Toute indemnisation pour pertes d'animaux est refusée lorsque le détenteur ou la détentrice des animaux a omis de les soumettre aux vaccinations ordonnées par l'Office des affaires vétérinaires.
+
+#### Art. 27a
+
+**Prise en charge des frais pour les mesures de lutte**
+
+<sup>1</sup> Si les mesures ont été ordonnées par l'Office des affaires vétérinaires, la Caisse des épizooties prend en charge les frais pour
+
+- a la mise à mort et l'élimination des animaux donnant droit au paiement d'une indemnité,
+- b le nettoyage et la désinfection en cas d'épizooties hautement contagieuses selon l'article 2 OFE,
+- c les désinfectants en cas d'épizooties visées aux articles 3 et 4 OFE.
+
+<sup>2</sup> Les dispositions contraires de la législation fédérale restent réservées.
+
+#### Art. 27b
+
+**Prise en charge des frais de la surveillance officielle des troupeaux**
+
+<sup>1</sup> Les frais liés aux contrôles officiels, aux prélèvements d'échantillons et aux analyses de laboratoire effectués dans le cadre de la surveillance des épizooties ainsi qu'en cas d'épizootie sont à la charge de la Caisse des épizooties.
+
+<sup>2</sup> Les dispositions contraires de la législation fédérale restent réservées.
+
+#### Art. 27c
+
+**Prise en charge d'autres frais**
+
+<sup>1</sup> Les frais liés aux vaccins et aux vaccinations administrés pour lutter contre les épizooties sont à la charge de la Caisse des épizooties, mais en règle générale uniquement si ces mesures ont été ordonnées par l'Office des affaires vétérinaires.
+
+<sup>2</sup> Les dispositions contraires de la législation fédérale restent réservées.
+
+#### Art. 27d
+
+**Versement de contributions aux services de santé animale**
+
+<sup>1</sup> Conformément à l'ordonnance fédérale du 7 octobre 2020 sur l'aide aux services de santé animale (OSSAn)[^27d-1], il est possible de soutenir les services de santé animale par une contribution de la Caisse des épizooties aux frais imputables; cette contribution ne peut pas dépasser la subvention fédérale maximale.
+
+[^27d-1]: RS [916.403](https://db.clex.ch/link/Bund/916.403/fr)
+
+#### Art. 27e
+
+**Indemnité pour cas de rigueur**
+
+<sup>1</sup> Si aucune indemnité n'est versée en vertu de l'article 26, les pertes d'animaux dues à des maladies à caractère épizootique peuvent faire l'objet d'une demande d'indemnisation à hauteur de 60 % de la valeur estimée au maximum, à condition que plusieurs animaux soient touchés en très peu de temps et que ces pertes représentent un cas de rigueur menaçant l'existence de l'exploitation.
+
+<sup>2</sup> L'indemnité prévue à l'alinéa 1 est subsidiaire à d'éventuelles autres prestations d'indemnisation.
+
+<sup>3</sup> Elle est réduite ou refusée si des dispositions appropriées n'ont pas été mises en œuvre pour prévenir les pertes d'animaux ou qu'un autre comportement a favorisé ces dernières.
 
 #### Art. 28
 
@@ -337,15 +374,13 @@ arrête:
 
 #### Art. 30
 
-**3. Concernant du matériel**
-
-<sup>1</sup> Lorsqu'il s'impose de détruire ou d'endommager des biens pour empêcher la propagation d'une épizootie, il y a lieu d'établir au préalable un procès-verbal.
+**…**
 
 #### Art. 31
 
 **Versement de l'indemnité**
 
-<sup>1</sup> Après réception du procès-verbal d'estimation, des notes de frais et des autres pièces justificatives éventuelles, l'Office des affaires vétérinaires ordonne le versement de l'indemnité par la Caisse des épizooties.
+<sup>1</sup> Après réception du procès-verbal d'estimation et des pièces justificatives liées à un éventuel produit de la vente des parties utilisables, l'Office des affaires vétérinaires ordonne le versement de l'indemnité par la Caisse des épizooties.
 
 <sup>2</sup> Lorsque l'indemnité dépasse le seuil de compétence financière de l'Office des affaires vétérinaires, ce dernier adresse une proposition appropriée à l'autorité compétente à ce niveau financier.
 
@@ -355,6 +390,12 @@ arrête:
 
 <sup>1</sup> L'Office des affaires vétérinaires établit chaque année un rapport sur l’alimentation, l’état de la fortune et l’affectation des ressources de la Caisse des épizooties.
 
+#### Art. 31b
+
+**Financement spécial de la Caisse des épizooties**
+
+<sup>1</sup> La Caisse des épizooties doit apparaître en tant que financement spécial dans le budget, le plan intégré mission-financement et le rapport de gestion sous la rubrique «Financements spéciaux du capital propre». La responsabilité en incombe à l'Office des affaires vétérinaires.
+
 ## 7 Voies de droit
 
 #### Art. 32
@@ -363,7 +404,7 @@ arrête:
 
 <sup>1</sup> Les décisions concernant le prélèvement de cotisations de détenteurs et détentrices d'animaux par la Caisse des épizooties peuvent faire l'objet d'une opposition.
 
-<sup>2</sup> Les décisions et les décisions sur opposition de l'Office des affaires vétérinaires et des organes de la police des épizooties qui lui sont subordonnés peuvent être attaquées dans un délai de 30 jours par voie de recours à la Direction de l’économie, de l’énergie et de l’environnement.
+<sup>2</sup> Les décisions et décisions sur opposition rendues par l'Office des affaires vétérinaires peuvent faire l'objet d'un recours, dans un délai de 30 jours, auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^32-1].
 

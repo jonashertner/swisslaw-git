@@ -4,13 +4,12 @@ number: "916.51"
 title: Kantonale Tierseuchenverordnung
 short: KTSV
 language: de
-version: 2021-08-01
-valid_until: 2026-07-31
-version_adopted: 2021-06-30
+version: 2026-08-01
+version_adopted: 2026-05-20
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2332/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2332/pdf_file"
 
 (KTSV)
 
-vom 03.11.1999 (Stand 01.08.2021)
+vom 03.11.1999 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -50,37 +49,39 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Veterinärwesen vollzieht die Bestimmungen über die Tierseuchenbekämpfung, sofern nach der eidgenössischen oder der kantonalen Gesetzgebung nicht andere Organe als zuständig erklärt werden.
 
-<sup>2</sup> Es koordiniert seine Vollzugstätigkeit im Bereich der Zoonosen (Art. 1 Abs. 1 Bst. a TSG[^2-1]) mit dem Gesundheitsamt und dem Kantonalen Laboratorium, bei Wild- und Fischseuchen mit dem Jagd- und dem Fischereiinspektorat.
+<sup>2</sup> Es koordiniert seine Vollzugstätigkeit mit dem Gesundheitsamt sowie dem Amt für Landwirtschaft und Natur (LANAT), dem Amt für Wald und Naturgefahren und dem Kantonalen Laboratorium.
 
-<sup>3</sup> Es koordiniert die Tätigkeit der tierseuchenpolizeilichen Organe nach den Artikeln 3 bis 8 und legt ihre Aufgabenbereiche im Rahmen des TSG und der TSV fest.
-
-[^2-1]: SR 916.40
+<sup>3</sup> Es koordiniert die Tätigkeit der tierseuchenpolizeilichen Organe nach den Artikeln 3, 3a, 7 und 8 und legt ihre Aufgabenbereiche im Rahmen des TSG und der TSV fest.
 
 #### Art. 3
 
 **Amtliche Tierärztinnen und Tierärzte**
 
-<sup>1</sup> Das Amt für Veterinärwesen ernennt die für einen wirksamen Vollzug erforderliche Anzahl amtlicher Tierärztinnen und Tierärzte sowie deren Stellvertreterinnen und Stellvertreter.
+<sup>1</sup> Das Amt für Veterinärwesen beschäftigt die für einen wirksamen Vollzug erforderlichen amtlichen Tierärztinnen und Tierärzte.
 
-#### Art. 4–5
+#### Art. 3a
+
+**Nichtamtliche Tierärztinnen und Tierärzte**
+
+<sup>1</sup> Das Amt für Veterinärwesen schliesst Leistungsvereinbarungen mit den für einen wirksamen Vollzug erforderlichen nichtamtlichen Tierärztinnen und Tierärzten ab (tierseuchenpolizeilicher Auftrag).
+
+<sup>2</sup> Die nichtamtlichen Tierärztinnen und Tierärzte erfüllen die ihnen vom Amt für Veterinärwesen übertragenen Aufgaben wie Probenahmen, Impfungen und Abklärungen im Rahmen der Tierseuchenüberwachung und -bekämpfung.
+
+<sup>3</sup> Das Amt für Veterinärwesen weist den nichtamtlichen Tierärztinnen und Tierärzten den örtlichen Zuständigkeitsbereich zu.
+
+#### Art. 4–6
 
 **…**
-
-#### Art. 6
-
-**Bienenkommissärinnen und Bienenkommissäre**
-
-<sup>1</sup> Das Amt für Veterinärwesen ernennt im Einvernehmen mit den kantonalen Bienenzüchterverbänden die nötige Anzahl regionaler Bienenkommissärinnen und Bienenkommissäre. Der französischsprachige Kantonsteil bildet eine Region.
-
-<sup>2</sup> Die Bienenkommissärinnen und Bienenkommissäre stehen der Kantonstierärztin oder dem Kantonstierarzt sowie den Bieneninspektorinnen und Bieneninspektoren in ihrer Region bei der Bekämpfung der Bienenseuchen beratend und unterstützend zur Seite.
 
 #### Art. 7
 
 **Bieneninspektorinnen und Bieneninspektoren**
 
-<sup>1</sup> Das Amt für Veterinärwesen ernennt die für einen wirksamen Vollzug erforderliche Anzahl Bieneninspektorinnen und Bieneninspektoren.
+<sup>1</sup> Das Amt für Veterinärwesen schliesst Leistungsvereinbarungen mit den für einen wirksamen Vollzug erforderlichen Bieneninspektorinnen und Bieneninspektoren ab (tierseuchenpolizeilicher Auftrag).
 
-<sup>2</sup> Es bestimmt die gebietsmässige Zuordnung der Gemeinden und Regionen zu den Bieneninspektorinnen und Bieneninspektoren.
+<sup>1a</sup> Die Bieneninspektorinnen und Bieneninspektoren erfüllen die ihnen vom Amt für Veterinärwesen übertragenen Aufgaben wie Probenahmen, Abklärungen und Sanierungen im Rahmen der Tierseuchenüberwachung und -bekämpfung.
+
+<sup>2</sup> Das Amt für Veterinärwesen weist den Bieneninspektorinnen und Bieneninspektoren den örtlichen Zuständigkeitsbereich zu.
 
 #### Art. 8
 
@@ -100,11 +101,11 @@ beschliesst:
 
 **Entschädigung der tierseuchenpolizeilichen Organe**
 
-<sup>1</sup> Die amtlichen Tierärztinnen und Tierärzte sowie nichtamtliche Tierärztinnen und Tierärzte mit tierseuchenpolizeilichem Auftrag werden gemäss der Verordnung vom 19. Dezember 2012 über die Entschädigungsansätze für amtliche Verrichtungen im Rahmen der Tierseuchenbekämpfung (ETV)[^10-1] entschädigt.
+<sup>1</sup> Die nichtamtlichen Tierärztinnen und Tierärzte sowie die Bieneninspektorinnen und Bieneninspektoren werden gemäss der Verordnung vom 19. Dezember 2012 über die Entschädigungsansätze für amtliche Verrichtungen im Rahmen der Tierseuchenbekämpfung (ETV)[^10-1] entschädigt.
 
 <sup>2</sup> Die Entschädigungen der übrigen tierseuchenpolizeilichen Organe sind aufgrund von Weisungen des Amtes für Veterinärwesen in öffentlich-rechtlichen Arbeitsverträgen oder in Leistungsvereinbarungen festzusetzen.
 
-[^10-1]: BSG 811.941
+[^10-1]: BSG [811.941](https://www.belex.sites.be.ch/data/811.941/de)
 
 ## 3 Verkehr mit Tieren
 
@@ -205,19 +206,17 @@ beschliesst:
 
 **Neu auftretende Tierseuchen**
 
-<sup>1</sup> Tritt eine übertragbare, bösartige Krankheit auf, die nicht in der TSV[^18-1]aufgeführt ist, so kann der Regierungsrat auf Antrag des Amtes für Veterinärwesen oder des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen die notwendigen Massnahmen anordnen und die Entschädigungen zulasten der Tierseuchenkasse festsetzen.
-
-[^18-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de)
+<sup>1</sup> Tritt eine übertragbare, bösartige Krankheit auf, die nicht in der TSV aufgeführt ist, so kann der Regierungsrat die notwendigen Massnahmen anordnen und die Entschädigungen zulasten der Tierseuchenkasse festsetzen.
 
 #### Art. 19
 
 **Reinigung und Desinfektion**
 
-<sup>1</sup> Die seuchenpolizeiliche Reinigung und Desinfektion muss nach Anordnung und unter Aufsicht der Kantonstierärztin oder des Kantonstierarztes, der amtlichen Tierärztinnen und Tierärzte oder der Bieneninspektorinnen und -inspektoren vorgenommen werden.
+<sup>1</sup> Die tierseuchenpolizeiliche Reinigung und Desinfektion muss nach Anordnung und unter Aufsicht des Amtes für Veterinärwesen oder der Bieneninspektorinnen und -inspektoren vorgenommen werden.
 
 <sup>2</sup> Bewirtschafterinnen und Bewirtschafter verseuchter Betriebe und ihr Personal haben bei der Durchführung der Reinigung und der Desinfektion ohne Anspruch auf Entschädigung durch die Tierseuchenkasse mitzuarbeiten.
 
-<sup>3</sup> Flüssige und feste Abgänge aus verseuchten Betrieben sind im Einvernehmen mit dem Amt für Wasser und Abfall (AWA) zu beseitigen.
+<sup>3</sup> Flüssige und feste Abgänge aus verseuchten Betrieben sind im Einvernehmen mit dem Amt für Wasser und Abfall zu beseitigen.
 
 #### Art. 20
 
@@ -231,9 +230,9 @@ beschliesst:
 
 **Tierhalterbeiträge an die Tierseuchenkasse**
 
-<sup>1</sup> Alle Betreiberinnen und Betreiber einer Tierhaltung im Kanton Bern, welche die Voraussetzungen von Artikel 6 Buchstabe o TSV[^21-1] erfüllen, haben gemäss Artikel 12 KLwG jährlich Beiträge in folgender Höhe an die Tierseuchenkasse zu leisten:
+<sup>1</sup> Alle Betreiberinnen und Betreiber einer Tierhaltung im Kanton Bern, welche die Voraussetzungen von Artikel 6 Buchstabe o TSV erfüllen, haben nach Artikel 12 KLwG jährlich Beiträge in folgender Höhe an die Tierseuchenkasse zu leisten:
 
-- a für raufutterverzehrende Nutztiere im Sinne von Artikel 27 Absatz 2 der eidgenössischen Verordnung vom 7. Dezember 1998 über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen (Landwirtschaftliche Begriffsverordnung, LBV)[^21-2]: CHF 8 je raufutterverzehrende Grossvieheinheit (RGVE),
+- a für raufutterverzehrende Nutztiere im Sinne von Artikel 27 Absatz 2 der eidgenössischen Verordnung vom 7. Dezember 1998 über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen (Landwirtschaftliche Begriffsverordnung, LBV)[^21-1]: CHF 8 je raufutterverzehrende Grossvieheinheit (RGVE),
 - b für Schweine: CHF 6 je Grossvieheinheit (GVE),
 - c für Geflügel: CHF 6 je GVE,
 - d für Kaninchen: CHF 6 je GVE,
@@ -242,20 +241,21 @@ beschliesst:
 - g für Besatzfische: CHF 19 je 100 kg,
 - h für bebrütete Eier von Geflügelbrütereien: pauschal CHF 50 bis zu einer Gesamtzahl von 100'000 Eiern pro Jahr bzw. pauschal CHF 200 bei einer Gesamtzahl von mehr als 100'000 Eiern pro Jahr.
 
-<sup>2</sup> Die Umrechnung der Tierbestände in den Kategorien nach Buchstabe a in RGVE und nach Buchstaben b bis d in GVE erfolgt nach dem Anhang zur LBV.
+<sup>1a</sup> Ausgenommen von der Beitragspflicht nach Absatz 1 sind Tierkliniken, Schlachtbetriebe sowie Viehmärkte, Viehauktionen, Viehausstellungen und ähnliche Veranstaltungen.
 
-<sup>3</sup> Die Tierbestände für die Tierhalterbeiträge nach Absatz 1 Buchstaben a bis g werden gemäss der eidgenössischen Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV)[^21-3] und der eidgenössischen Verordnung vom 23. Oktober 2013 über Informationssysteme im Bereich der Landwirtschaft (ISLV)[^21-4] bestimmt.
+<sup>2</sup> Die Umrechnung der Tierbestände in den Kategorien nach Absatz 1 Buchstabe a in RGVE und nach Absatz 1 Buchstaben b bis d in GVE erfolgt nach dem Anhang zur LBV.
+
+<sup>3</sup> Die Tierbestände für die Tierhalterbeiträge nach Absatz 1 Buchstaben a bis g werden gemäss der eidgenössischen Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV)[^21-2] und der eidgenössischen Verordnung vom 23. Oktober 2013 über Informationssysteme im Bereich der Landwirtschaft (ISLV)[^21-3] bestimmt.
 
 <sup>4</sup> Der Mindestbeitrag, der pro Tierhaltung zu leisten ist, beträgt 18 Franken.
 
 <sup>5</sup> Die Tierhalterbeiträge werden mit dem Agrarinformationssystem des LANAT berechnet und den Tierhalterinnen und Tierhaltern vom LANAT in Rechnung gestellt. Bei den Tierhalterinnen und Tierhaltern, die Direktzahlungen gemäss DZV beziehen, können die Tierhalterbeiträge von den Direktzahlungen abgezogen werden.
 
-<sup>6</sup> Soweit die Beiträge gemäss Absatz 1 nicht entrichtet wurden, werden keine Entschädigungen aus der Tierseuchenkasse geleistet.
+<sup>6</sup> Soweit die Beiträge nach Absatz 1 nicht entrichtet worden sind, werden keine Entschädigungen aus der Tierseuchenkasse geleistet.
 
-[^21-1]: SR 916.401
-[^21-2]: SR 910.91
-[^21-3]: SR 910.13
-[^21-4]: SR 919.117.71
+[^21-1]: SR 910.91
+[^21-2]: SR 910.13
+[^21-3]: SR 919.117.71
 
 #### Art. 21a
 
@@ -296,17 +296,9 @@ beschliesst:
 
 <sup>1</sup> Die Zinserträge aus dem Vermögen der Tierseuchenkasse fliessen in die Tierseuchenkasse.
 
-#### Art. 24
+#### Art. 24–25
 
-**Leistungen an die Bekämpfungskosten**
-
-<sup>1</sup> Die Kosten der Laboruntersuchungen für Diagnose und Behandlungskontrollen zur Überwachung verseuchter oder verdächtiger Bestände gehen zulasten der Tierseuchenkasse, in der Regel jedoch nur soweit diese Massnahmen vom Amt für Veterinärwesen verfügt wurden.
-
-#### Art. 25
-
-**Beiträge an die Tiergesundheitsdienste**
-
-<sup>1</sup> Aus der Tierseuchenkasse können Tiergesundheitsdienste, die unter der Aufsicht des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen stehen und einen Bundesbeitrag erhalten, mit einem Beitrag an die anrechenbaren Kosten unterstützt werden, der den höchstmöglichen Bundesbeitrag nicht übersteigen darf.
+**…**
 
 #### Art. 26
 
@@ -319,6 +311,52 @@ beschliesst:
 **Unterlassene Impfung**
 
 <sup>1</sup> Die Entschädigung für Tierverluste wird verweigert, wenn die Tierhalterin oder der Tierhalter die vom Amt für Veterinärwesen angeordneten Impfungen unterlassen hat.
+
+#### Art. 27a
+
+**Leistungen an die Bekämpfungskosten**
+
+<sup>1</sup> Soweit die Massnahmen vom Amt für Veterinärwesen angeordnet worden sind, gehen zulasten der Tierseuchenkasse die Kosten für
+
+- a die Tötung und Entsorgung von entschädigungspflichtigen Tieren,
+- b die Reinigung und Desinfektion bei hochansteckenden Tierseuchen nach Artikel 2 TSV,
+- c die Desinfektionsmittel bei Tierseuchen nach den Artikeln 3 und 4 TSV.
+
+<sup>2</sup> Vorbehalten bleiben anderslautende Bestimmungen der Bundesgesetzgebung.
+
+#### Art. 27b
+
+**Leistungen an die Kosten der amtlichen Bestandesüberwachung**
+
+<sup>1</sup> Die Kosten für amtliche Kontrollen, Probenahmen und Laboruntersuchungen im Rahmen der Tierseuchenüberwachung sowie im Seuchenfall gehen zulasten der Tierseuchenkasse.
+
+<sup>2</sup> Vorbehalten bleiben anderslautende Bestimmungen der Bundesgesetzgebung.
+
+#### Art. 27c
+
+**Leistungen an weitere Kosten**
+
+<sup>1</sup> Die Kosten für Impfstoffe und Schutzimpfungen, die zur Bekämpfung von Tierseuchen verabreicht werden, gehen zulasten der Tierseuchenkasse, in der Regel jedoch nur soweit diese Massnahmen vom Amt für Veterinärwesen angeordnet wurden.
+
+<sup>2</sup> Vorbehalten bleiben anderslautende Bestimmungen der Bundesgesetzgebung.
+
+#### Art. 27d
+
+**Beiträge an die Tiergesundheitsdienste**
+
+<sup>1</sup> Aus der Tierseuchenkasse können Tiergesundheitsdienste gemäss der eidgenössischen Verordnung vom 7. Oktober 2020 über die Unterstützung der Tiergesundheitsdienste (TGDV)[^27d-1] mit einem Beitrag an die anrechenbaren Kosten unterstützt werden, der den höchstmöglichen Bundesbeitrag nicht übersteigen darf.
+
+[^27d-1]: SR [916.403](https://db.clex.ch/link/Bund/916.403/de)
+
+#### Art. 27e
+
+**Härtefallentschädigung**
+
+<sup>1</sup> Wird keine Entschädigung nach Artikel 26 geleistet, können Tierverluste wegen seuchenhaft auftretender Krankheiten auf Gesuch hin bis zu höchstens 60 Prozent des Schätzungswertes entschädigt werden, sofern innert kurzer Zeit mehrere Tiere betroffen sind und dadurch ein existenzbedrohender Härtefall vorliegt.
+
+<sup>2</sup> Die Entschädigung nach Absatz 1 ist subsidiär zu allfälligen anderen Entschädigungsleistungen.
+
+<sup>3</sup> Sie wird herabgesetzt oder verweigert, wenn angemessene Vorkehrungen für die Verhinderung der Tierverluste nicht umgesetzt worden sind oder ein anderweitiges Verhalten die Tierverluste begünstigt hat.
 
 #### Art. 28
 
@@ -336,15 +374,13 @@ beschliesst:
 
 #### Art. 30
 
-**3. Bei Material**
-
-<sup>1</sup> Vor der Vernichtung oder Beschädigung von Gegenständen, die zur Verhinderung der Verschleppung einer Seuche vernichtet oder beschädigt werden müssen, ist ein Protokoll aufzunehmen.
+**…**
 
 #### Art. 31
 
 **Ausrichtung der Entschädigung**
 
-<sup>1</sup> Nach Eingang des Schätzungsprotokolls, der Rechnungen für die Kosten und allfälliger sonstiger Belege verfügt das Amt für Veterinärwesen die Auszahlung der Entschädigung durch die Tierseuchenkasse.
+<sup>1</sup> Nach Eingang des Schätzungsprotokolls und der Belege über einen allfälligen Verwertungserlös verfügt das Amt für Veterinärwesen die Auszahlung der Entschädigung durch die Tierseuchenkasse.
 
 <sup>2</sup> Übersteigt die Entschädigung die Finanzkompetenz des Amtes für Veterinärwesen, so stellt dieses der finanzkompetenten Behörde Antrag.
 
@@ -354,6 +390,12 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Veterinärwesen erstellt jährlich einen Bericht über die Äufnung, den Vermögensstand und die Verwendung der Mittel der Tierseuchenkasse.
 
+#### Art. 31b
+
+**Spezialfinanzierung Tierseuchenkasse**
+
+<sup>1</sup> Die Tierseuchenkasse ist als Spezialfinanzierung im Budget, im Aufgaben- und Finanzplan sowie im Geschäftsbericht unter «Spezialfinanzierungen im Eigenkapital» zu führen. Zuständig ist das Amt für Veterinärwesen.
+
 ## 7 Rechtspflege
 
 #### Art. 32
@@ -362,7 +404,7 @@ beschliesst:
 
 <sup>1</sup> Gegen Verfügungen über Tierhalterbeiträge an die Tierseuchenkasse kann Einsprache erhoben werden.
 
-<sup>2</sup> Verfügungen und Einspracheentscheide des Amtes für Veterinärwesen und der ihm nachgeordneten tierseuchenpolizeilichen Organe können innert 30 Tagen mit Beschwerde bei der Wirtschafts-, Energie- und Umweltdirektion angefochten werden.
+<sup>2</sup> Verfügungen und Einspracheentscheide des Amtes für Veterinärwesen können innert 30 Tagen mit Beschwerde bei der Wirtschafts-, Energie- und Umweltdirektion angefochten werden.
 
 <sup>3</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^32-1].
 
