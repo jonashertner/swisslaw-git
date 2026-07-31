@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 25 novembre 2013 sugli additivi ammessi nelle derr
 short: OAdd
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: it
-version: 2025-07-01
+version: 2026-08-01
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20250701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20250701/it"
 
 (Ordinanza sugli additivi, OAdd)
 
-del 25 novembre 2013 (Stato 1° luglio 2025)
+del 25 novembre 2013 (Stato 1° agosto 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 23 e 36 capoversi 3 e 4 dell’ordinanza del 16 dicembre 2016
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
 ## Sezione 1: Definizioni
@@ -57,7 +57,7 @@ A complemento delle definizioni secondo l’articolo 2 ODerr, nella presente ord
   - 2\. vengono impiegati come sostitutivi di sorte di zuccheri secondo l’articolo 80 dell’ordinanza del DFI del 16 dicembre 2016[^1-2] sulle derrate alimentari di origine vegetale, i funghi e il sale commestibile.
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^1-2]: [RS 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
+[^1-2]: [RS 817.022.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9679)
 
 ## Sezione 2: Requisiti degli additivi e loro utilizzazione
 
@@ -106,7 +106,7 @@ Non sono considerati additivi:
 - p. le sostanze secondo l’articolo 2 lettere a e d dell’ordinanza del DFI del 16 dicembre 2016[^1a-2] sui procedimenti tecnologici e sugli ausiliari tecnologici atti al trattamento di derrate alimentari.
 
 [^1a-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^1a-2]: [RS 817.022.42](https://fedlex.data.admin.ch/eli/cc/2017/162)
+[^1a-2]: [RS 817.022.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9687)
 
 #### Art. 2
 
@@ -143,7 +143,7 @@ In caso di richiesta per l’ammissione di un nuovo additivo destinato all’uso
 <sup>5</sup> Una richiesta non è necessaria per gli additivi che possono essere immessi legalmente sul mercato nella quantità utilizzata secondo le prescrizioni dell’Unione Europea determinanti per l’immissione in commercio.
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^2-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^2-2]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 3
 
@@ -228,7 +228,7 @@ Se additivi o preparati di additivi sono consegnati come tali ai consumatori, su
 - d. lo scopo di utilizzazione, le istruzioni per l’uso e le prescrizioni per il dosaggio.
 
 [^9-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^9-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 9a
 
@@ -245,7 +245,7 @@ Oltre alle indicazioni secondo gli articoli 9 e 3 OID, sull’imballaggio o sull
 - c. la menzione «un consumo eccessivo può avere effetti lassativi» sui preparati edulcoranti che contengono polioli.
 
 [^9a-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^9a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9a-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 9b
 
@@ -262,7 +262,7 @@ Se additivi o preparati di additivi non sono consegnati come tali ai consumatori
 <sup>2</sup> È sufficiente che le indicazioni secondo il capoverso 1 lettera c e quelle secondo l’articolo 3 capoverso 1 lettere g e k OID figurino sui documenti relativi alla merce che devono essere forniti prima o all’atto della consegna, a condizione che l’indicazione «destinato alla fabbricazione di alimenti, non destinato alla vendita al dettaglio» sia ben visibile sull’imballaggio o sul recipiente del prodotto interessato.
 
 [^9b-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
-[^9b-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^9b-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^9b-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
 
 ## Sezione 4: Obbligo d’informazione
@@ -325,37 +325,37 @@ L’ordinanza del 22 giugno 2007[^12-1] sugli additivi è abrogata.
 
 #### Art. 13a
 
-**Disposizioni transitorie della modifica del 14 settembre 2015**[^13a-1]
+[^13a-1]
 
-<sup>1</sup> Le derrate alimentari che non corrispondono alla modifica del 14 settembre 2015 della presente ordinanza possono essere importate, fabbricate, caratterizzate e pubblicizzate secondo il diritto anteriore fino al 30 settembre 2016.
-
-<sup>2</sup> Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino ad esaurimento delle scorte.
-
-[^13a-1]: Introdotto dalla cifra I dell’O dell’USAV del 14 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)).
+[^13a-1]: Introdotto dalla cifra I dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)). Abrogato dalla cifra I dell’O dell’USAV del 19 giu. 2026, con effetto dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
 
 #### Art. 13b
 
-**Disposizione transitoria della modifica del 27 maggio 2020**[^13b-1]
+[^13b-1]
 
-Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2021 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^13b-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^13b-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)). Abrogato dalla cifra I dell’O dell’USAV del 19 giu. 2026, con effetto dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
 
 #### Art. 13c
 
-**Disposizione transitoria della modifica del 14 febbraio 2022**[^13c-1]
+[^13c-1]
 
-Le derrate alimentari non conformi alla modifica del 14 febbraio 2022 possono essere importate e fabbricate secondo il diritto anteriore sino al 14 settembre 2022 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^13c-1]: Introdotto dalla cifra I dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
+[^13c-1]: Introdotto dalla cifra I dell’O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)). Abrogato dalla cifra I dell’O dell’USAV del 19 giu. 2026, con effetto dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
 
 #### Art. 13d
 
-**Disposizione transitoria della modifica dell’8 dicembre 2023**[^13d-1]
+[^13d-1]
 
-Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
+[^13d-1]: Introdotto dalla cifra I dell’O dell’USAV dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)). Abrogato dalla cifra I dell’O dell’USAV del 19 giu. 2026, con effetto dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
 
-[^13d-1]: Introdotto dalla cifra I dell’O dell’USAV dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)).
+#### Art. 13e
+
+**Disposizione transitoria della modifica del 19 giugno 2026**[^13e-1]
+
+<sup>1</sup> Le derrate alimentari non conformi alla modifica del 19 giugno 2026 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 luglio 2027 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+<sup>2</sup> Le derrate alimentari contenenti ottenilsuccinato di amido e sodio E 1450 delle categorie 13.1.5.1 (alimenti destinati a fini medici speciali per lattanti) e 13.1.5.2 (alimenti destinati a fini medici speciali per lattanti a partire da quattro mesi e bambini nella prima infanzia) possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 18 febbraio 2028 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^13e-1]: Introdotto dalla cifra I dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
 
 #### Art. 14
 
@@ -415,8 +415,8 @@ Allegato 1a[^t-2]
 
 [^annex1a-lvlu1-1]
 
-[^t-2]: Originario all. 1. Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), delle O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)) e del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)).
-[^annex1a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/392](https://fedlex.data.admin.ch/eli/oc/2025/392) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Originario all. 1. Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), delle O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)), del 2 giu. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)) e dalla cifra II cpv. 1 dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
+[^annex1a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/371](https://fedlex.data.admin.ch/eli/oc/2026/371) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-3]
 
@@ -426,8 +426,8 @@ Allegato 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)) e del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/392](https://fedlex.data.admin.ch/eli/oc/2025/392) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)), del 2 giu. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)) e dalla cifra II cpv. 1 dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/371](https://fedlex.data.admin.ch/eli/oc/2026/371) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-4]
 
@@ -437,8 +437,8 @@ Allegato 3[^t-4]
 
 [^annex3-lvlu1-1]
 
-[^t-4]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)) e del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)).
-[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/392](https://fedlex.data.admin.ch/eli/oc/2025/392) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)), dalle cifre II delle O dell’USAV del 14 feb. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)), dell’8 dic. 2023 ([RU 2023 827](https://fedlex.data.admin.ch/eli/oc/2023/827)), dalle cifre I delle O dell’USAV del 29 mag. 2024 ([RU 2024 248](https://fedlex.data.admin.ch/eli/oc/2024/248)), del 2 giu. 2025 ([RU 2025 392](https://fedlex.data.admin.ch/eli/oc/2025/392)) e dalla cifra II cpv. 1 dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
+[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/371](https://fedlex.data.admin.ch/eli/oc/2026/371) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-5]
 
@@ -446,11 +446,11 @@ Allegato 4[^t-5]
 
 ## Criteri di purezza specifici per gli additivi
 
-[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
 
 Gli additivi devono soddisfare i criteri di purezza specifici stabiliti nel regolamento (UE) n. 231/2012[^annex4-lvlu1-1].
 
-[^annex4-lvlu1-1]: Regolamento (UE) n. 231/2012 della Commissione, del 9 marzo 2012 , che stabilisce le specifiche degli additivi alimentari elencati negli allegati II e III del regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, GU L 83 del 22.3.2012, pag. 1; modificato da ultimo dal regolamento (UE) 2018/1481, GU L 251 del 5.10.2018, pag. 13.
+[^annex4-lvlu1-1]: Regolamento (UE) n. 231/2012 della Commissione, del 9 marzo 2012, che stabilisce le specifiche degli additivi alimentari elencati negli allegati II e III del regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, GU L 83 del 22.3.2012, pag. 1; modificato da ultimo dal regolamento (UE) 2025/666, GU L, 2025/666, 7.4.2025.
 
 Allegato 5[^t-6]
 
@@ -458,20 +458,26 @@ Allegato 5[^t-6]
 
 ## Liste degli additivi, comprese le sostanze di supporto per l’utilizzazione in additivi, enzimi, aromi e vitamine, sali minerali e altre determinate sostanze con effetto nutrizionale o fisiologico
 
-[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dalla cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) e dalla cifra II dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
+
+Definizioni:
+
+- – *Nutrienti*: vitamine, sali minerali e altre sostanze aggiunte a scopo nutrizionale nonché sostanze aggiunte a scopo fisiologico.
+- – *Preparazione*: formulazione di uno o più additivi alimentari, enzimi o nutrienti a cui vengono aggiunte sostanze quali additivi alimentari o altri ingredienti alimentari per facilitarne la conservazione, la vendita, la standardizzazione, la diluizione o la dissoluzione.
 
 ### 1. Sostanze di supporto negli additivi
 
 <table>
-<tr><th>N° E dell’additivo</th><th>Designazione dellasostanza di supporto</th><th>Livello massimo</th><th>Additivi alimentari cui può venire aggiunta la sostanza di supporto</th></tr>
+<tr><th>N° E dell’additivo</th><th>Designazione della sostanza di supporto</th><th>Livello massimo</th><th>Additivi alimentari cui può venire aggiunta la sostanza di supporto</th></tr>
 <tr><td>170</td><td>Carbonato di calcio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>263</td><td>Acetato di calcio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>322</td><td>Lecitine</td><td>BPF</td><td>Coloranti e antiossidanti liposolubili</td></tr>
-<tr><td>322</td><td>Lecitine</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
+<tr><td>322</td><td>Lecitine</td><td>BPF</td><td>Agente di rivestimento per cassava</td></tr>
+<tr><td>322</td><td>Lecitine</td><td>BPF</td><td>Agente di rivestimento per frutta</td></tr>
 <tr><td>331</td><td>Citrati di sodio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>332</td><td>Citrati di potassio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>341</td><td>Fosfati di calcio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
-<tr><td>400 – 404</td><td>Acido alginico – alginati</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
+<tr><td>400–404</td><td>Acido alginico – alginati</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>405</td><td>Alginato di propan-1,2-diolo</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>406</td><td>Agar-agar</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>407</td><td>Carragenina</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
@@ -484,12 +490,12 @@ Allegato 5[^t-6]
 <tr><td>421</td><td>Mannitolo</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>422</td><td>Glicerolo</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>425</td><td>Konjac</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
-<tr><td>432 - 436</td><td>Polisorbati</td><td>BPF</td><td>Coloranti e antiossidanti liposolubili</td></tr>
-<tr><td>432 - 436</td><td>Polisorbati</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
-<tr><td>432 – 436</td><td>Polisorbati</td><td>BPF</td><td>Agenti antischiumogeni</td></tr>
+<tr><td>432–436</td><td>Polisorbati</td><td>BPF</td><td>Agenti antischiumogeni</td></tr>
+<tr><td>432–436</td><td>Polisorbati</td><td>BPF</td><td>Coloranti e antiossidanti liposolubili</td></tr>
+<tr><td>432–436</td><td>Polisorbati</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
 <tr><td>440</td><td>Pectine</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>442</td><td>Fosfatidi di ammonio</td><td>BPF</td><td>Antiossidanti</td></tr>
-<tr><td>459</td><td>Beta-ciclodestrina</td><td>1 000 mg/kg nell’alimento finale</td><td>Tutti gli additivi alimentari</td></tr>
+<tr><td>459</td><td>Beta-ciclodestrina</td><td>1000 mg/kg nell’alimento finale</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>460</td><td>Cellulosa</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>461</td><td>Metilcellulosa</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>462</td><td>Etilcellulosa</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
@@ -508,8 +514,8 @@ Allegato 5[^t-6]
 <tr><td>472e</td><td>Esteri mono- e diacetiltartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Coloranti e antiossidanti liposolubili</td></tr>
 <tr><td>473</td><td>Esteri di saccarosio degli acidi grassi</td><td>BPF</td><td>Coloranti e antiossidanti liposolubili</td></tr>
 <tr><td>475</td><td>Esteri poliglicerici degli acidi grassi</td><td>BPF</td><td>Coloranti e antiossidanti liposolubili</td></tr>
-<tr><td>491 – 495</td><td>Esteri di sorbitano</td><td>BPF</td><td>Coloranti e agenti antischiumogeni</td></tr>
-<tr><td>491 – 495</td><td>Esteri di sorbitano</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
+<tr><td>491–495</td><td>Esteri di sorbitano</td><td>BPF</td><td>Coloranti e agenti antischiumogeni</td></tr>
+<tr><td>491–495</td><td>Esteri di sorbitano</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
 <tr><td>501</td><td>Carbonati di potassio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>504</td><td>Carbonati di magnesio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>508</td><td>Cloruro di potassio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
@@ -524,6 +530,7 @@ Allegato 5[^t-6]
 <tr><td>553b</td><td>Talco</td><td>50 mg/kg nella preparazione di coloranti</td><td>Coloranti</td></tr>
 <tr><td>555</td><td>Silicato di potassio e alluminio</td><td>90 % in rap porto al pigmento</td><td>In E 172, Ossidi e idrossidi di ferro</td></tr>
 <tr><td>570</td><td>Acidi grassi</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
+<tr><td>570</td><td>Acidi grassi</td><td>BPF</td><td>Agente di rivestimento per cassava</td></tr>
 <tr><td>577</td><td>Gluconato di potassio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>640</td><td>Glicina e il suo sale di sodio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>900</td><td>Dimetilpolisilossano</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
@@ -536,6 +543,7 @@ Allegato 5[^t-6]
 <tr><td>1200</td><td>Polidestrosio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>1201</td><td>Polivinilpirrolidone</td><td>BPF</td><td>Edulcoranti</td></tr>
 <tr><td>1202</td><td>Polivinilpolipirrolidone</td><td>BPF</td><td>Edulcoranti</td></tr>
+<tr><td>1202</td><td>Polivinilpolipirrolidone</td><td>BPF</td><td>Compresse di colorante per la colorazione decorativa dei gusci delle uova di pollame</td></tr>
 <tr><td>1404</td><td>Amido ossidato</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>1410</td><td>Fosfato di monoamido</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>1412</td><td>Fosfato di diamido</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
@@ -549,13 +557,12 @@ Allegato 5[^t-6]
 <tr><td>1451</td><td>Amido acetilato ossidato</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>1505\*</td><td>Citrato di trietile</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>1518\*</td><td>Triacetato di glicerile (triacetina)</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
-<tr><td>1520</td><td>1,2-propandiolo (propilenglicole)</td><td>1 000 mg/kg nell’alimento finale (come trasferimento)\*</td><td>Coloranti, emulsionanti e antiossidanti</td></tr>
+<tr><td>1520</td><td>1,2-propandiolo (propilenglicole)</td><td>1000 mg/kg nell’alimento finale (come trasferimento)\*</td><td>Coloranti, emulsionanti e antiossidanti</td></tr>
 <tr><td>1521</td><td>Polietilenglicole</td><td>BPF</td><td>Edulcoranti</td></tr>
+<tr><td colspan="4">\* Quantità massima da tutte le fonti negli alimenti: 3000 mg/kg (singolarmente o in combinazione con E 1505, E 1517 e E 1518). Per le bevande, ad eccezione dei liquori cremosi, la quantità massima di E 1520 è pari a 1000 mg/l da tutte le fonti.</td></tr>
 </table>
 
-\* Quantità massima da tutte le fonti negli alimenti: 3000 mg/kg (singolarmente o in combinazione con E 1505, E 1517 e E 1518). Per le bevande, ad eccezione dei liquori cremosi, la quantità massima di E 1520 è pari a 1000 mg/l da tutte le fonti.
-
-### 2. Additivi tranne le sostanze di supporto negli additivi
+### 2. Additivi tranne le sostanze di supporto negli additivi\*
 
 Regole generali per le condizioni d’utilizzazione degli additivi alimentari:
 
@@ -567,48 +574,52 @@ Regole generali per le condizioni d’utilizzazione degli additivi alimentari:
 <table>
 <tr><th>N° E dell’additivo utilizzato</th><th>Designazione dell’additivo utilizzato</th><th>Livello massimo</th><th>Preparati di additivi cui può venire aggiunto l’additivo</th></tr>
 <tr><td>Gruppo I dell’alle-gato 2</td><td></td><td>BPF</td><td>Tutte le preparazioni di additivi alimentari</td></tr>
-<tr><td>200 – 202</td><td>Acido sorbico – sorbato di potassio</td><td>1 500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
-<tr><td>210</td><td>Acido benzoico</td><td>1 500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
-<tr><td>211</td><td>Benzoato di sodio</td><td>1 500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
-<tr><td>212</td><td>Benzoato di potassio</td><td>1 500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
-<tr><td>220 – 228</td><td>Anidride solforosa – solfiti</td><td>100 mg/kg nella preparazione e 2 mg/kg espressi come SO<sub>2</sub> nel prodotto finale (quantità calcolata)</td><td>Preparazioni di coloranti [tranne E163 (antociani), E 150 b (caramello solfito-caustico) ed E 150 d (caramello solfito-ammoniacale)]\*\*</td></tr>
+<tr><td>200–202</td><td>Acido sorbico – sorbato di potassio</td><td>1500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
+<tr><td>210</td><td>Acido benzoico</td><td>1500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
+<tr><td>211</td><td>Benzoato di sodio</td><td>1500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
+<tr><td>212</td><td>Benzoato di potassio</td><td>1500 mg/kg singolarmente o in combinazione nella preparazione 15 mg/kg nel prodotto finale espressi come acido libero</td><td>Preparazioni di coloranti</td></tr>
+<tr><td>200</td><td>Acido sorbico</td><td>2500 mg/kg nella preparazione</td><td>Preparazioni liquide di coloranti destinate alla vendita al consumatore finale per la colorazione decorativa dei gusci d’uovo</td></tr>
+<tr><td>220–228</td><td>Anidride solforosa – solfiti</td><td>100 mg/kg nella preparazione e 2 mg/kg espressi come SO<sub>2</sub> nel prodotto finale (quantità calcolata)</td><td>Preparazioni di coloranti [tranne E 163 (antociani), E 150 b (caramello solfito-caustico) ed E 150 d (caramello solfito-ammoniacale)]\*\*</td></tr>
 <tr><td>320</td><td>Butilidrossianisolo (BHA)</td><td>20 mg/kg singolarmente o in combinazione (espressi sul grasso) nella preparazione, 0,4 mg/kg nel prodotto finale (singolarmente o in combinazione)</td><td>Emulsionanti contenenti acidi grassi</td></tr>
 <tr><td>321</td><td>Butilidrossitoluene (BHT)</td><td>20 mg/kg singolarmente o in combinazione (espressi sul grasso) nella preparazione, 0,4 mg/kg nel prodotto finale (singolarmente o in combinazione)</td><td>Emulsionanti contenenti acidi grassi</td></tr>
-<tr><td>338</td><td>Acido fosforico</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E163 (antociani)</td></tr>
-<tr><td>339</td><td>Fosfati di sodio</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E163 (antociani)</td></tr>
-<tr><td>340</td><td>Fosfati di potassio</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E163 (antociani)</td></tr>
-<tr><td>343</td><td>Fosfati di magnesio</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E163 (antociani)</td></tr>
-<tr><td>450</td><td>Difosfati</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E163 (antociani)</td></tr>
-<tr><td>451</td><td>Trifosfati</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E163 (antociani)</td></tr>
+<tr><td>334–337 e 354</td><td>Acido tartarico – tartrati</td><td>220 000 mg/kg singolarmente o in combinazione nella preparazione, 11 000 mg/kg nel prodotto finale espressi come acido libero</td><td>E 440 Pectine nella categoria di derrata alimentare 05.2 (Altri prodotti di confetteria, compresi i microconfetti per rinfrescare l’alito) e nella categoria di derrata alimentare 05.4 (Decorazioni, ricoperture e ripieni, tranne i ripieni a base di frutta di cui alla categoria 4.2.4);</td></tr>
+<tr><td>338</td><td>Acido fosforico</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E 163 (antociani)</td></tr>
+<tr><td>339</td><td>Fosfati di sodio</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E 163 (antociani)</td></tr>
+<tr><td>340</td><td>Fosfati di potassio</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E 163 (antociani)</td></tr>
+<tr><td>343</td><td>Fosfati di magnesio</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E 163 (antociani)</td></tr>
+<tr><td>450</td><td>Difosfati</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E 163 (antociani)</td></tr>
+<tr><td>451</td><td>Trifosfati</td><td>40 000 mg/kg singolarmente o in combinazione nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni del colorante E 163 (antociani)</td></tr>
 <tr><td>341</td><td>Fosfati di calcio</td><td>40 000 mg/kg nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni di coloranti e emulsionanti</td></tr>
 <tr><td></td><td></td><td>10 000 mg/kg nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni di polioli</td></tr>
 <tr><td></td><td></td><td>10 000 mg/kg nella preparazione (espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>Preparazioni di E 412 (gomma di guar)</td></tr>
-<tr><td>392</td><td>Estratti di rosmarino</td><td>1 000 mg/kg nella preparazione, 5 mg/kg nel prodotto finale espressi come la somma di carnosolo e acido carnosico</td><td>Preparazioni di coloranti</td></tr>
+<tr><td>392</td><td>Estratti di rosmarino</td><td>1000 mg/kg nella preparazione, 5 mg/kg nel prodotto finale espressi come la somma di carnosolo e acido carnosico</td><td>Preparazioni di coloranti</td></tr>
 <tr><td>416</td><td>Gomma di karaya</td><td>50 000 mg/kg nella preparazione, 1 mg/kg nel prodotto finale</td><td>Preparazioni di coloranti</td></tr>
 <tr><td>432–436</td><td>Polisorbato</td><td>BPF</td><td>Preparati di coloranti, intensificatori del contrasto, antiossidanti liposolubili e agenti di rivestimento per frutta</td></tr>
-<tr><td>473</td><td>Esteri di saccarosio degli acidi grassi</td><td>Quantum satis</td><td>Preparazioni di coloranti e antiossidanti liposolubili</td></tr>
-<tr><td>475</td><td>Esteri poliglicerici degli acidi grassi</td><td>Quantum satis</td><td>Preparazioni di coloranti e antiossidanti liposolubili</td></tr>
-<tr><td>476</td><td>Poliricinoleato di poliglicerolo</td><td>50 000 mg/kg nella preparazione, 500 mg/kg nell’alimento finale</td><td>Come emulsionante nelle preparazioni di coloranti utilizzate nei seguenti prodotti:surimi e prodotti ittici di tipo giapponese (Kamaboko) (E 120 cocciniglia, acido carminico, vari tipi di carminio)Prodotti a base di carne, paste di pesce e preparazioni di frutta utilizzati nei prodotti aromatizzati a base di latte e nei dessert (E163 antociani, E100 curcumina e E120 cocciniglia, acido carminico, vari tipi di carminio)</td></tr>
-<tr><td>491 – 495</td><td>Esteri di sorbitano</td><td>Quantum satis</td><td>Preparazioni di coloranti, agenti antischiumogeni e agenti di rivestimento per frutta</td></tr>
+<tr><td>473</td><td>Esteri di saccarosio degli acidi grassi</td><td>BPF</td><td>Preparazioni di coloranti e antiossidanti liposolubili</td></tr>
+<tr><td>475</td><td>Esteri poliglicerici degli acidi grassi</td><td>BPF</td><td>Preparazioni di coloranti e antiossidanti liposolubili</td></tr>
+<tr><td>476</td><td>Poliricinoleato di poliglicerolo</td><td>50 000 mg/kg nella preparazione, 500 mg/kg nell’alimento finale</td><td>Come emulsionante nelle preparazioni di coloranti utilizzate nei seguenti prodotti: surimi e prodotti ittici di tipo giapponese (Kamaboko) (E 120 cocciniglia, acido carminico, vari tipi di carminio) Prodotti a base di carne, paste di pesce e preparazioni di frutta utilizzati nei prodotti aromatizzati a base di latte e nei dessert (E 163 antociani, E 100 curcumina e E 120 cocciniglia, acido carminico, vari tipi di carminio)</td></tr>
+<tr><td>491–495</td><td>Esteri di sorbitano</td><td>BPF</td><td>Preparazioni di coloranti, agenti antischiumogeni e agenti di rivestimento per frutta</td></tr>
 <tr><td>551</td><td>Biossido di silicio</td><td>50 000 mg/kg nella preparazione</td><td>Preparazioni di coloranti essiccate in polvere</td></tr>
-<tr><td></td><td></td><td>10 000 mg/kg nella preparazione</td><td>E 508 (cloruro di potassio) e Preparazioni di E 412 (gomma di guar)</td></tr>
-<tr><td></td><td></td><td>50 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di emulsionanti</td></tr>
-<tr><td></td><td></td><td>10 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di polioli</td></tr>
-<tr><td>551</td><td>Diossido di silicio</td><td>30000 mg/kg nella preparazione</td><td>Estratti in polvere essiccati di rosmarino (E 392)</td></tr>
-<tr><td>551</td><td>Diossido di silicio</td><td>5000 mg/kg nella preparazione</td><td>E 1209 copolimero a innesto di alcole polivinilico-polietilenglicole»</td></tr>
-<tr><td>551</td><td>Diossido di silicio</td><td>10 000 mg/kg nella preparazione</td><td>E 252 Nitrato di potassio</td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>10 000 mg/kg nella preparazione</td><td>E 508 (cloruro di potassio) e preparazioni di E 412 (gomma di guar)</td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>50 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di emulsionanti</td></tr>
 <tr><td>552</td><td>Silicato di calcio</td><td>50 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di emulsionanti</td></tr>
-<tr><td></td><td></td><td>10 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di polioli</td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>10 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di polioli</td></tr>
+<tr><td>552</td><td>Silicato di calcio</td><td>10 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di polioli</td></tr>
 <tr><td>553a</td><td>Silicato di magnesio</td><td>10 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di polioli</td></tr>
 <tr><td>553b</td><td>Talco</td><td>10 000 mg/kg nella preparazione</td><td>Preparazioni essiccate in polvere di polioli</td></tr>
-<tr><td>900</td><td>Dimetilpolisilossano</td><td>200 mg/kg nella preparazione, 0,2 mg/l nell’alimento finale</td><td>Preparazioni dei coloranti E 160 a (caroteni), E 160 b (annatto, bissina, norbissina), E 160 c (estratto di paprica, capsantina, capsorubina), E 160 d (licopene) e E 160 e (beta-apo-8’-carotenale)</td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>30 000 mg/kg nella preparazione</td><td>Estratti in polvere essiccati di rosmarino (E 392)</td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>5000 mg/kg nella preparazione</td><td>E 1209 copolimero a innesto di alcole polivinilico-polietilenglicole</td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>10 000 mg/kg nella preparazione</td><td>E 252 Nitrato di potassio</td></tr>
+<tr><td>900</td><td>Dimetilpolisilossano</td><td>200 mg/kg nella preparazione 0,2 mg/l nella derrata alimentare finale</td><td>Preparazioni di coloranti di E 160a, caroteni, E 160b(i), bissina di annatto, E 160b(ii), norbissina di annatto, E 160c, estratto di paprica (capsantina, capsorubina), E 160d, licopene, e E 160e, beta-apo-8’-carotenale</td></tr>
 <tr><td>903</td><td>Cera di carnauba</td><td>130 000 mg/kg nella preparazione, 1200 mg/kg nel prodotto finale da tutte le fonti</td><td>Come stabilizzante nelle preparazioni di edulcoranti e/o di acidi destinate a essere utilizzate nelle gomme da masticare</td></tr>
-<tr><td>943a</td><td>Butano</td><td>1 mg/kg nell'alimento finale</td><td>Preparazioni di coloranti dei gruppi II e III, quali definiti nell'allegato (esclusivamente per uso professionale)</td></tr>
-<tr><td>943b</td><td>Isobutano</td><td>1 mg/kg nell'alimento finale</td><td>Preparazioni di coloranti dei gruppi II e III, quali definiti nell'allegato (esclusivamente per uso professionale)</td></tr>
-<tr><td>944</td><td>Propano</td><td>1 mg/kg nell'alimento finale</td><td>Preparazioni di coloranti dei gruppi II e III, quali definiti nell'allegato (esclusivamente per uso professionale)</td></tr>
+<tr><td>943a</td><td>Butano</td><td>1 mg/kg nell’alimento finale</td><td>Preparazioni di coloranti dei gruppi II e III, quali definiti nell’allegato 2 (esclusivamente per uso professionale)</td></tr>
+<tr><td>943b</td><td>Isobutano</td><td>1 mg/kg nell’alimento finale</td><td>Preparazioni di coloranti dei gruppi II e III, quali definiti nell’allegato 2 (esclusivamente per uso professionale)</td></tr>
+<tr><td>944</td><td>Propano</td><td>1 mg/kg nell’alimento finale</td><td>Preparazioni di coloranti dei gruppi II e III, quali definiti nell’allegato 2 (esclusivamente per uso professionale)</td></tr>
+<tr><td colspan="4">[tab] \* eccetto gli enzimi autorizzati come additivi alimentari.</td></tr>
+<tr><td colspan="4">[tab] \*\* L’E 163 (antociani) può contenere fino a 100 000 mg/kg di solfiti. L’E 150b (caramello sofito-caustico) e l’E 150d (caramello solfito-ammoniacale) possono contenerne 200 mg/kg in base ai requisiti di purezza di cui all’allegato 4.</td></tr>
 </table>
 
-### 3. Additivi comprese le sostanze di supporto negli enzimi \*
+### 3. Additivi comprese le sostanze di supporto negli enzimi\*
 
 Regole generali per le condizioni d’utilizzazione degli additivi alimentari:
 
@@ -619,155 +630,148 @@ Regole generali per le condizioni d’utilizzazione degli additivi alimentari:
 
 <table>
 <tr><th>N° E dell’additivo utilizzato</th><th>Designazione dell’additivo utilizzato</th><th>Livello massimo nel preparato di enzimi</th><th>Livello massimo nel prodotto finale della derrata alimentare, tranne bevande</th><th>Livello massimo nelle bevande</th><th>Utilizzazione possibile come sostanza di supporto?</th></tr>
-<tr><td>E 170</td><td>Carbonato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 200</td><td>Acido sorbico</td><td>20 000 mg/kg (singolarmente o in combinazione, espresso come acido libero)</td><td>20 mg/kg</td><td>10 mg/l</td><td></td></tr>
-<tr><td>E 202</td><td>Sorbato di potassio</td><td>20 000 mg/kg (singolarmente o in combinazione, espresso come acido libero)</td><td>20 mg/kg</td><td>10 mg/l</td><td></td></tr>
-<tr><td>E 210</td><td>Acido benzoico</td><td>5000 mg/kg (singolarmente o in combinazione, espressi come acido libero) 12 000 mg/kg nel caglio</td><td>1,7 mg/kg 5 mg/kg nei formaggi per i quali si è utilizzato il caglio</td><td>0,85 mg/l 2,5 mg/l nelle bevande a base di siero per le quali si è utilizzato il caglio</td><td></td></tr>
-<tr><td>E 211</td><td>Benzoato di sodio</td><td>5000 mg/kg (singolarmente o in combinazione, espressi come acido libero) 12 000 mg/kg nel caglio</td><td>1,7 mg/kg 5 mg/kg nei formaggi per i quali si è utilizzato il caglio</td><td>0,85 mg/l 2,5 mg/l nelle bevande a base di siero per le quali si è utilizzato il caglio</td><td></td></tr>
-<tr><td>E 214</td><td>p-idrossibenzoato d’etile</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
-<tr><td>E 215</td><td>Etil-p-idrossibenzoato di sodio</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
-<tr><td>E 218</td><td>p-idrossibenzoato di metile</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
-<tr><td>E 219</td><td>Metil-p-idrossibenzoato di sodio</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
-<tr><td>E 220</td><td>Anidride solforosa</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
-<tr><td>E 221</td><td>Solfito di sodio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
-<tr><td>E 222</td><td>Bisolfito di sodio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
-<tr><td>E 223</td><td>Metabisolfito di sodio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
-<tr><td>E 224</td><td>Metabisolfito di potassio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
-<tr><td>E 250</td><td>Nitrito di sodio</td><td>500 mg/kg</td><td>0,01 mg/kg</td><td>Nessun impiego</td><td></td></tr>
-<tr><td>E 260</td><td>Acido acetico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 261</td><td>Acetati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 262</td><td>Acetati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 263</td><td>Acetato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 270</td><td>Acido lattico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 281</td><td>Propionato di sodio</td><td>100 000 mg/kg</td><td>100 mg/kg</td><td>50 mg/l</td><td></td></tr>
-<tr><td>E 290</td><td>Anidride carbonica</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 296</td><td>Acido malico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 300</td><td>Acido ascorbico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 301</td><td>Ascorbato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 302</td><td>Ascorbato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 304</td><td>Esteri dell’acido ascorbico con acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 306</td><td>Estratto ricco in tocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 307</td><td>Alfatocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 308</td><td>Gammatocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 309</td><td>Deltatocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 322</td><td>Lecitine</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 325</td><td>Lattato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 326</td><td>Lattato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 327</td><td>Lattato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 330</td><td>Acido citrico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 331</td><td>Citrati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 332</td><td>Citrati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 333</td><td>Citrati di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 334</td><td>Acido tartarico [L(+)-]</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 335</td><td>Tartrati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 336</td><td>Tartrati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 337</td><td>Tartrato di sodio e di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 350</td><td>Malati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 338</td><td>Acido fosforico</td><td>10 000 mg/kg (espresso come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 339</td><td>Fosfati di sodio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 340</td><td>Fosfati di potassio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 341</td><td>Fosfati di calcio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 343</td><td>Fosfati di magnesio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 351</td><td>Malato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 352</td><td>Malati di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 354</td><td>Tartrato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 380</td><td>Citrato triammonico</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 400</td><td>Acido alginico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 401</td><td>Alginato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 402</td><td>Alginato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 403</td><td>Alginato d’ammonio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 404</td><td>Alginato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 406</td><td>Agar-agar</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 407</td><td>Carragenina</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 407a</td><td>Alghe Euchema trasformate</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 410</td><td>Farina di semi di carrube</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 412</td><td>Gomma di guar</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 413</td><td>Gomma adragante</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 414</td><td>Gomma d’acacia (gomma arabica)</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 415</td><td>Gomma di xanthan</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 417</td><td>Gomma di tara</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 418</td><td>Gomma di gellano</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 420</td><td>Sorbitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 421</td><td>Mannitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 422</td><td>Glicerolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 440</td><td>Pectine</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 450</td><td>Difosfati</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 451</td><td>Trifosfati</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 452</td><td>Polifosfati</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 460</td><td>Cellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 461</td><td>Metilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 462</td><td>Etilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 463</td><td>Idrossi-propil-cellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 464</td><td>Idrossi-propil-metilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 465</td><td>Etilmetilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 466</td><td>Carbossimetilcellulosa sodica, gomma di cellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 469</td><td>Carbossimetilcellulosa idrolizzata enzimaticamente</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 470a</td><td>Sali di sodio, di potassio e di calcio degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 470b</td><td>Sali di magnesio degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 471</td><td>Mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 472a</td><td>Esteri acetici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 472b</td><td>Esteri lattici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 472c</td><td>Esteri citrici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 472d</td><td>Esteri tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 472e</td><td>Esteri mono- e diaceltiltartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 472f</td><td>Esteri misti acetici-tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 473</td><td>Esteri di saccarosio degli acidi grassi</td><td>50 000 mg/kg</td><td>50 mg/kg</td><td>25 mg/L</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 500</td><td>Carbonati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 501</td><td>Carbonati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì, solo E 501 (i) (carbonato di potassio)</td></tr>
-<tr><td>E 503</td><td>Carbonati di ammonio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 504</td><td>Carbonati di magnesio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 507</td><td>Acido cloridrico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 508</td><td>Cloruro di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 509</td><td>Cloruro di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 511</td><td>Cloruro di magnesio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 513</td><td>Acido solforico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 514</td><td>Solfati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì, solo E 514 (i) (solfato di sodio)</td></tr>
-<tr><td>E 515</td><td>Solfati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 516</td><td>Solfato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 517</td><td>Solfato di ammonio</td><td>100 000 mg/kg</td><td>100 mg/kg</td><td>50 mg/l</td><td>Sì</td></tr>
-<tr><td>E 524</td><td>Idrossido di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 525</td><td>Idrossido di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 526</td><td>Idrossido di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 527</td><td>Idrossido d’ammonio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 528</td><td>Idrossido di magnesio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 529</td><td>Ossido di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 530</td><td>Ossido di magnesio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 551</td><td>Biossido di silicio</td><td>50 000 mg/kg nella preparazione essiccata in polvere</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 570</td><td>Acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 574</td><td>Acido gluconico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 575</td><td>Gluconodeltalattone</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 576</td><td>Gluconato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 577</td><td>Gluconato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 578</td><td>Gluconato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 640</td><td>Glicina e il suo sale di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 920</td><td>L-cisteina</td><td>10 000 mg/kg</td><td>10 mg/kg</td><td>5 mg/l</td><td></td></tr>
-<tr><td>E 938</td><td>Argon</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 939</td><td>Elio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 941</td><td>Azoto</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 942</td><td>Protossido di azoto</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 948</td><td>Ossigeno</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 949</td><td>Idrogeno</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
-<tr><td>E 965</td><td>Maltitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 966</td><td>Lactitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì (solo come coadiuvante)</td></tr>
-<tr><td>E 967</td><td>Xilitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì (solo come coadiuvante)</td></tr>
-<tr><td>E 1200</td><td>Polidestrosio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1404</td><td>Amido ossidato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1410</td><td>Fosfato di monoamido</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1412</td><td>Fosfato di diamido</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1413</td><td>Fosfato di diamido fosfatato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1414</td><td>Fosfato di diamido acetilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1420</td><td>Amido acetilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1422</td><td>Adipato di diamido acetilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1440</td><td>Amido idrossipropilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1442</td><td>Fosfato di diamido idrossipropilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1450</td><td>Ottenilsuccinato di amido e sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1451</td><td>Amido acetilato ossidato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
-<tr><td>E 1520</td><td>1,2-propandiolo (propilenglicole)</td><td>500 g/kg</td><td>(vedi nota)\*\*</td><td>(vedi nota)\*\*</td><td>Sì, solo come coadiuvante</td></tr>
+<tr><td>170</td><td>Carbonato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>200</td><td>Acido sorbico</td><td>20 000 mg/kg (singolarmente o in combinazione, espresso come acido libero)</td><td>20 mg/kg</td><td>10 mg/l</td><td></td></tr>
+<tr><td>202</td><td>Sorbato di potassio</td><td>20 000 mg/kg (singolarmente o in combinazione, espresso come acido libero)</td><td>20 mg/kg</td><td>10 mg/l</td><td></td></tr>
+<tr><td>210</td><td>Acido benzoico</td><td>5000 mg/kg (singolarmente o in combinazione, espressi come acido libero) 12 000 mg/kg nel caglio</td><td>1,7 mg/kg 5 mg/kg nei formaggi per i quali si è utilizzato il caglio</td><td>0,85 mg/l 2,5 mg/l nelle bevande a base di siero per le quali si è utilizzato il caglio</td><td></td></tr>
+<tr><td>211</td><td>Benzoato di sodio</td><td>5000 mg/kg (singolarmente o in combinazione, espressi come acido libero) 12 000 mg/kg nel caglio</td><td>1,7 mg/kg 5 mg/kg nei formaggi per i quali si è utilizzato il caglio</td><td>0,85 mg/l 2,5 mg/l nelle bevande a base di siero per le quali si è utilizzato il caglio</td><td></td></tr>
+<tr><td>214</td><td>p-idrossibenzoato d’etile</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
+<tr><td>215</td><td>Etil-p-idrossibenzoato di sodio</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
+<tr><td>218</td><td>p-idrossibenzoato di metile</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
+<tr><td>219</td><td>Metil-p-idrossibenzoato di sodio</td><td>2000 mg/kg (singolarmente o in combinazione, espressi come acido libero)</td><td>2 mg/kg</td><td>1 mg/l</td><td></td></tr>
+<tr><td>220</td><td>Anidride solforosa</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
+<tr><td>221</td><td>Solfito di sodio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
+<tr><td>222</td><td>Bisolfito di sodio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
+<tr><td>223</td><td>Metabisolfito di sodio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come S SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
+<tr><td>224</td><td>Metabisolfito di potassio</td><td>2000 mg/kg (singolarmente o in combinazione espressi come SO<sub>2</sub>) 5000 mg/kg solo negli enzimi alimentari per la fabbricazione della birra 6000 mg/kg solo per la beta-amilasi d’orzo 10 000 mg/kg solo per la papaina in forma solida</td><td>2 mg/kg</td><td>2 mg/l</td><td></td></tr>
+<tr><td>250</td><td>Nitrito di sodio</td><td>500 mg/kg</td><td>0,01 mg/kg</td><td>Nessun impiego</td><td></td></tr>
+<tr><td>260</td><td>Acido acetico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>261</td><td>Acetati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>262</td><td>Acetati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>263</td><td>Acetato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>270</td><td>Acido lattico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>281</td><td>Propionato di sodio</td><td>BPF</td><td>BPF</td><td>50 mg/l</td><td></td></tr>
+<tr><td>290</td><td>Anidride carbonica</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>296</td><td>Acido malico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>300</td><td>Acido ascorbico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>301</td><td>Ascorbato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>302</td><td>Ascorbato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>304</td><td>Esteri dell’acido ascorbico con acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>306</td><td>Estratto ricco in tocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>307</td><td>Alfatocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>308</td><td>Gammatocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>309</td><td>Deltatocoferolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>322</td><td>Lecitine</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>325</td><td>Lattato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>326</td><td>Lattato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>327</td><td>Lattato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>330</td><td>Acido citrico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>331</td><td>Citrati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>332</td><td>Citrati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>333</td><td>Citrati di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>338</td><td>Acido fosforico</td><td>10 000 mg/kg (espresso come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>339</td><td>Fosfati di sodio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>340</td><td>Fosfati di potassio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>341</td><td>Fosfati di calcio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>343</td><td>Fosfati di magnesio</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>350</td><td>Malati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>351</td><td>Malato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>352</td><td>Malati di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>380</td><td>Citrato triammonico</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>400</td><td>Acido alginico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>401</td><td>Alginato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>402</td><td>Alginato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>403</td><td>Alginato d’ammonio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>404</td><td>Alginato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>406</td><td>Agar-agar</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>407</td><td>Carragenina</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>407a</td><td>Alghe Euchema trasformate</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>410</td><td>Farina di semi di carrube</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>412</td><td>Gomma di guar</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>413</td><td>Gomma adragante</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>414</td><td>Gomma d’acacia (gomma arabica)</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>415</td><td>Gomma di xanthan</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>417</td><td>Gomma di tara</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>418</td><td>Gomma di gellano</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>420</td><td>Sorbitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>421</td><td>Mannitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>422</td><td>Glicerolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>440</td><td>Pectine</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>450</td><td>Difosfati</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>451</td><td>Trifosfati</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>452</td><td>Polifosfati</td><td>50 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>)</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>460</td><td>Cellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>461</td><td>Metilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>462</td><td>Etilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>463</td><td>Idrossi-propil-cellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>464</td><td>Idrossi-propil-metilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>465</td><td>Etilmetilcellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>466</td><td>Carbossimetilcellulosa sodica, gomma di cellulosa</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>469</td><td>Carbossimetilcellulosa idrolizzata enzimaticamente</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>470a</td><td>Sali di sodio, di potassio e di calcio degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>470b</td><td>Sali di magnesio degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>471</td><td>Mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>472a</td><td>Esteri acetici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>472b</td><td>Esteri lattici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>472c</td><td>Esteri citrici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>472d</td><td>Esteri tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>472e</td><td>Esteri mono- e diaceltiltartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>472f</td><td>Esteri misti acetici-tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>473</td><td>Esteri di saccarosio degli acidi grassi</td><td>50 000 mg/kg</td><td>50 mg/kg</td><td>25 mg/l</td><td>Sì, solo come supporto</td></tr>
+<tr><td>500</td><td>Carbonati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>501</td><td>Carbonati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì, solo E 501 (i) (carbonato di potassio)</td></tr>
+<tr><td>503</td><td>Carbonati di ammonio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>504</td><td>Carbonati di magnesio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>507</td><td>Acido cloridrico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>508</td><td>Cloruro di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>509</td><td>Cloruro di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>511</td><td>Cloruro di</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>513</td><td>Acido solforico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>514</td><td>Solfati di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì, solo E 514 (i) (solfato di sodio)</td></tr>
+<tr><td>515</td><td>Solfati di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>516</td><td>Solfato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>517</td><td>Solfato di ammonio</td><td>100 000 mg/kg</td><td>100 mg/kg</td><td>50 mg/l</td><td>Sì</td></tr>
+<tr><td>524</td><td>Idrossido di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>525</td><td>Idrossido di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>526</td><td>Idrossido di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>527</td><td>Idrossido d’ammonio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>528</td><td>Idrossido di magnesio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>529</td><td>Ossido di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>530</td><td>Ossido di magnesio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>50 000 mg/kg nella preparazione essiccata in polvere</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>570</td><td>Acidi grassi</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>574</td><td>Acido gluconico</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>575</td><td>Gluconodeltalattone</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>576</td><td>Gluconato di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>577</td><td>Gluconato di potassio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>578</td><td>Gluconato di calcio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>640</td><td>Glicina e il suo sale di sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>920</td><td>L-cisteina</td><td>10 000 mg/kg</td><td>10 mg/kg</td><td>5 mg/l</td><td></td></tr>
+<tr><td>938</td><td>Argon</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>939</td><td>Elio</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>941</td><td>Azoto</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>942</td><td>Protossido di azoto</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>948</td><td>Ossigeno</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>949</td><td>Idrogeno</td><td>BPF</td><td>BPF</td><td>BPF</td><td></td></tr>
+<tr><td>965</td><td>Maltitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>966</td><td>Lactitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì (solo come supporto)</td></tr>
+<tr><td>967</td><td>Xilitolo</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì (solo come supporto)</td></tr>
+<tr><td>1200</td><td>Polidestrosio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1404</td><td>Amido ossidato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1410</td><td>Fosfato di monoamido</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1412</td><td>Fosfato di diamido</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1413</td><td>Fosfato di diamido fosfatato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1414</td><td>Fosfato di diamido acetilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1420</td><td>Amido acetilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1422</td><td>Adipato di diamido acetilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1440</td><td>Amido idrossipropilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1442</td><td>Fosfato di diamido idrossipropilato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1450</td><td>Ottenilsuccinato di amido e sodio</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1451</td><td>Amido acetilato ossidato</td><td>BPF</td><td>BPF</td><td>BPF</td><td>Sì</td></tr>
+<tr><td>1520</td><td>1,2-propandiolo (propilenglicole)</td><td>500 g/kg</td><td>(vedi nota)\*\*</td><td>(vedi nota)\*\*</td><td>Sì, solo come supporto</td></tr>
+<tr><td colspan="6">[tab] \* compresi gli enzimi autorizzati come additivi alimentari.</td></tr>
+<tr><td colspan="6">[tab] \*\* Quantità massima da tutte le fonti negli alimenti: 3000 mg/kg (singolarmente o in combinazione con E 1505, E 1517 e E 1518). Per le bevande, ad eccezione dei liquori cremosi, la quantità massima di E 1520 è pari a 1000 mg/l da tutte le fonti.</td></tr>
 </table>
-
-\* = compresi gli enzimi autorizzati come additivi alimentari.
-
-\*\* = Quantità massima da tutte le fonti negli alimenti: 3000 mg/kg (singolarmente o in combinazione con E 1505, E 1517 e E 1518). Per le bevande, ad eccezione dei liquori cremosi, la quantità massima di E 1520 è pari a 1000 mg/l da tutte le fonti.
 
 ### 4. Additivi comprese le sostanze di supporto negli aromi
 
@@ -775,10 +779,11 @@ Regole generali per le condizioni d’utilizzazione degli additivi alimentari:
 <tr><th>N° E dell’additivo</th><th>Designazione dell’additivo</th><th>Categorie di aromi cui può venire aggiunto l’additivo</th><th>Livello massimo</th></tr>
 <tr><td>Gruppo I dell’alle-gato 2</td><td></td><td>Tutti gli aromi</td><td>BPF</td></tr>
 <tr><td>420 421 953 965 966 967 968</td><td>Sorbitolo Mannitolo Isomalto Maltitolo Lactitolo Xilitolo Eritritolo</td><td>Tutti gli aromi</td><td>BPF per scopi diversi dall’edulcorazione, ma non come esaltatori di sapidità</td></tr>
-<tr><td>200 – 202 210 211 212 213</td><td>Acido sorbico e sorbato di potassio Acido benzoico Benzoato di sodio Benzoato di potassio Benzoato di calcio</td><td>Tutti gli aromi</td><td>1500 mg/kg (singolarmente o in combinazione, espressi come acido libero) negli aromi</td></tr>
+<tr><td>200–202 210 211 212 213</td><td>Acido sorbico e sorbato di potassio Acido benzoico Benzoato di sodio Benzoato di potassio Benzoato di calcio</td><td>Tutti gli aromi</td><td>1500 mg/kg (singolarmente o in combinazione, espressi come acido libero) negli aromi</td></tr>
 <tr><td>310 319 320</td><td>Gallato di propile Butilidrochinone terziario (TBHQ) Butilidrossianisolo (BHA)</td><td>Oli essenziali</td><td>1000 mg/kg (gallato di propile, TBHQ e BHA, singolarmente o in combinazione) negli oli essenziali</td></tr>
-<tr><td></td><td></td><td>Aromi diversi dagli oli essenziali</td><td>100 mg/kg\* (gallatto di propile) 200 mg/kg\* (TBHQ e BHA,singolarmente o in combinazione) negli aromi</td></tr>
-<tr><td>338 – 452</td><td>Acido fosforico – fosfati – di- tri- e polifosfati</td><td>Tutti gli aromi</td><td>40 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>) negli aromi</td></tr>
+<tr><td></td><td></td><td>Aromi diversi dagli oli essenziali</td><td>100 mg/kg\* (gallato di propile, singolarmente o in combinazione) 200 mg/kg\* (TBHQ e BHA, singolarmente o in combinazione) negli aromi</td></tr>
+<tr><td>334–337 e 354</td><td>Acido tartarico – tartrati</td><td>Tutti gli aromi</td><td>20 000 mg/kg singolarmente o in combinazione nella preparazione, 400 mg/kg nel prodotto finale espressi come acido libero</td></tr>
+<tr><td>338–452</td><td>Acido fosforico – fosfati – di- tri- e polifosfati</td><td>Tutti gli aromi</td><td>40 000 mg/kg (singolarmente o in combinazione, espressi come P<sub>2</sub>O<sub>5</sub>) negli aromi</td></tr>
 <tr><td>392</td><td>Estratti di rosmarino</td><td>Tutti gli aromi</td><td>1000 mg/kg (espressi come la somma di carnosolo e acido carnosico) negli aromi</td></tr>
 <tr><td>416</td><td>Gomma di karaya</td><td>Tutti gli aromi</td><td>50 000 mg/kg negli aromi</td></tr>
 <tr><td>423</td><td>Gomma arabica modificata con acido ottenilsuccinico</td><td>Emulsioni a base di oli essenziali usate nelle categorie 03: Gelati; 07.2: Prodotti da forno fini; 08.3: Carni trasformate, solo carni di pollame trasformate; 09.2: Pesce e prodotti della pesca trasformati, compresi molluschi e crostacei, e nella categoria 16: Dessert, tranne i prodotti compresi nelle categorie 1, 3 e 4.</td><td>500 mg/kg nella derrata alimentare finale</td></tr>
@@ -790,28 +795,32 @@ Regole generali per le condizioni d’utilizzazione degli additivi alimentari:
 <tr><td>423</td><td>Gomma arabica modificata con acido ottenilsuccinico</td><td>Emulsioni a base di oli essenziali usate nella categoria 10.2: Uova e ovoprodotti trasformati.</td><td>140 mg/kg nella derrata alimentare finale</td></tr>
 <tr><td>423</td><td>Gomma arabica modificata con acido ottenilsuccinico</td><td>Emulsioni a base di oli essenziali usate nella categoria 14.1.4: Bevande aromatizzate, solo bevande aromatizzate non gassate contenenti succhi di frutta; 14.1.2: Succhi di frutta e di ortaggi o legumi, solo succhi di ortaggi o legumi, e nella categoria 12.6: Salse, solo sughi e salse dolci.</td><td>400 mg/kg nella derrata alimentare finale</td></tr>
 <tr><td>423</td><td>Gomma arabica modificata con acido ottenilsuccinico</td><td>Emulsioni aromatizzate usate nella categoria 15: Salatini e snack pronti al consumo.</td><td>440 mg/kg nella derrata alimentare finale</td></tr>
-<tr><td>425</td><td>Konjac</td><td>Tutti gli aromi</td><td>GHP</td></tr>
-<tr><td>432 – 436</td><td>Polisorbati</td><td>Tutti gli aromi, tranne gli aromatizzanti di affumicatura liquidi e gli aromatizzanti a base di oleoresine di spezie\*\*</td><td>10 000 mg/kg negli aromi</td></tr>
+<tr><td>425</td><td>Konjac</td><td>Tutti gli aromi</td><td>BPF</td></tr>
+<tr><td>432–436</td><td>Polisorbati</td><td>Tutti gli aromi, tranne gli aromatizzanti di affumicatura liquidi e gli aromatizzanti a base di oleoresine di spezie\*\*</td><td>10 000 mg/kg negli aromi</td></tr>
 <tr><td></td><td></td><td>Alimenti contenenti aromatizzanti di affumicatura liquidi e aromatizzanti a base di oleoresine di spezie</td><td>1000 mg/kg nell’alimento finale</td></tr>
 <tr><td>459</td><td>Beta-ciclodestrina</td><td colspan="2">Aromi incapsulati in:</td></tr>
-<tr><td></td><td></td><td>- tè aromatizzati e bevande aromatizzate istantanee in polvere</td><td>500 mg/l nell’alimento finale</td></tr>
-<tr><td></td><td></td><td>- spuntini aromatizzati</td><td>1000 mg/kg in alimenti destinati al consumo diretto o da ricostituire secondo le istruzioni del produttore</td></tr>
-<tr><td>473</td><td>Esteri di saccarosio degli acidi grassi</td><td>Aromi per bevande limpide aromatizzate a base d’acqua appartenenti alla categoria 14.1.4</td><td>15000 mg/kg nelle sostanze aromatizzanti, 30 mg/l nel prodotto finale</td></tr>
+<tr><td></td><td></td><td>– tè aromatizzati e bevande aromatizzate istantanee in polvere</td><td>500 mg/l nell’alimento finale</td></tr>
+<tr><td></td><td></td><td>– spuntini aromatizzati</td><td>1000 mg/kg in alimenti destinati al consumo diretto o da ricostituire secondo le istruzioni del produttore</td></tr>
+<tr><td>473</td><td>Esteri di saccarosio degli acidi grassi</td><td>Aromi per bevande limpide aromatizzate a base d’acqua appartenenti alla categoria 14.1.4</td><td>15 000 mg/kg nelle sostanze aromatizzanti, 30 mg/l nel prodotto finale</td></tr>
 <tr><td>551</td><td>Biossido di silicio</td><td>Tutti gli aromi</td><td>50 000 mg/kg negli aromi</td></tr>
 <tr><td>900</td><td>Dimetilpolisilossano</td><td>Tutti gli aromi</td><td>10 mg/kg negli aromi</td></tr>
 <tr><td>901</td><td>Cera d’api</td><td>Aromi nelle bevande analcoliche aromatizzate</td><td>200 mg/l nelle bevande aromatizzate</td></tr>
+<tr><td>999</td><td>Estratto di quillaia</td><td>Tutti gli aromi utilizzati nelle seguenti categorie:</td><td></td></tr>
+<tr><td></td><td></td><td>05.2: Altri prodotti di confetteria, compresi i microconfetti per rinfrescare l’alito</td><td>4 mg/kg nella derrata alimentare finale (espresso come saponine)</td></tr>
+<tr><td></td><td></td><td>05.3: Gomme da masticare</td><td>2 mg/kg nella derrata alimentare finale (espresso come saponine)</td></tr>
+<tr><td></td><td></td><td>12.5: Zuppe, minestre e brodi</td><td>2 mg/l nella derrata alimentare finale (espresso come saponine)</td></tr>
+<tr><td></td><td></td><td>14.1.5: Caffè, tè, infusioni a base di frutta ed erbe, cicoria; estratti di tè, infusioni a base di frutta ed erbe e di cicoria; preparati di tè, frutta ed erbe e cereali per infusioni, comprese le miscele e le miscele solubili di tali prodotti</td><td>1,2 mg/l nella derrata alimentare finale (espresso come saponine)</td></tr>
+<tr><td></td><td></td><td>15.1: Snack a base di patate, cereali, farina o amido</td><td>0,2 mg/kg nella derrata alimentare finale (espresso come saponine)</td></tr>
 <tr><td>1505</td><td>Citrato di trietile</td><td>Tutti gli aromi</td><td>3000 mg/kg da tutte le fonti, in alimenti destinati al consumo diretto o da ricostituire secondo le istruzioni del produttore – singolarmente o in combinazione. Per le bevande, ad eccezione dei liquori cremosi, la quantità massima di E 1520 è pari a 1000 mg/l da tutte le fonti.</td></tr>
 <tr><td>1517</td><td>Diacetato di glicerile (diacetina)</td><td></td><td></td></tr>
 <tr><td>1518</td><td>Triacetato di glicerile (triacetina)</td><td></td><td></td></tr>
 <tr><td>1520</td><td>1,2-propandiolo (propilenglicole)</td><td></td><td></td></tr>
 <tr><td>1519</td><td>Alcol benzilico</td><td colspan="2">Aromi per:</td></tr>
-<tr><td></td><td></td><td>- liquori, vini aromatizzati, bevande aromatizzate a base di vino e cocktail aromatizzati a base di vino</td><td>100 mg/l nell’alimento finale</td></tr>
-<tr><td></td><td></td><td>- dolciumi tra cui cioccolato e prodotti da forno fini</td><td>250 mg/kg da tutte le fonti, in alimenti destinati al consumo diretto o da ricostituire secondo le istruzioni del produttore</td></tr>
+<tr><td></td><td></td><td>– liquori, vini aromatizzati, bevande aromatizzate a base di vino e cocktail aromatizzati a base di vino</td><td>100 mg/l nell’alimento finale</td></tr>
+<tr><td></td><td></td><td>– dolciumi tra cui cioccolato e prodotti da forno fini</td><td>250 mg/kg da tutte le fonti, in alimenti destinati al consumo diretto o da ricostituire secondo le istruzioni del produttore</td></tr>
+<tr><td colspan="4">\* regola di proporzionalità: quando si usano combinazioni di gallati di propile, TBHQ e BHA, le singole quantità devono essere ridotte proporzionalmente.</td></tr>
+<tr><td colspan="4">\*\* Le oleoresine di spezie sono estratti di spezie da cui il solvente d’estrazione è evaporato, lasciando una miscela di olio volatile e sostanza resinosa di spezie.</td></tr>
 </table>
-
-L’asterisco (\*) nella tabella si riferisce alla regola di proporzionalità: quando si usano combinazioni di gallati, TBHQ, BHA e BHT, le singole quantità devono essere ridotte proporzionalmente.
-
-\*\* Le oleoresine di spezie sono estratti di spezie da cui il solvente d’estrazione è evaporato, lasciando una miscela di olio volatile e sostanza resinosa di spezie.
 
 ### 5. Additivi in vitamine, sali minerali e altre determinate sostanze con effetto nutrizionale o fisiologico
 
@@ -826,167 +835,169 @@ Regole generali per le condizioni d’utilizzazione degli additivi alimentari:
 
 <table>
 <tr><th>N° E dell’additivo</th><th>Nome dell’additivo aggiunto</th><th>Designazione dell’additivo</th><th>Sostanza nutritiva cui può venire aggiunto l’additivo alimentare</th><th>Utilizzazione possibile come sostanza di supporto?</th></tr>
-<tr><td>E 170</td><td>Carbonato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 260</td><td>Acido acetico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 261</td><td>Acetati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 262</td><td>Acetati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 263</td><td>Acetato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 270</td><td>Acido lattico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 290</td><td>Anidride carbonica</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 296</td><td>Acido malico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 300</td><td>Acido ascorbico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 301</td><td>Ascorbato di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 302</td><td>Ascorbato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 304</td><td>Esteri dell’acido ascorbico con acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 306</td><td>Estratto ricco in tocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 307</td><td>Alfatocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 308</td><td>Gammatocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 309</td><td>Deltatocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 322</td><td>Lecitine</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 325</td><td>Lattato di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 326</td><td>Lattato di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 327</td><td>Lattato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 330</td><td>Acido citrico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 331</td><td>Citrati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 332</td><td>Citrati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 333</td><td>Citrati di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 334</td><td>Acido tartarico [L(+)-]</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 335</td><td>Tartrati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 336</td><td>Tartrati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 337</td><td>Tartrato di sodio e di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 338 – 452</td><td>Acido fosforico – fosfati – di- tri- e polifosfati</td><td>40 000 mg/kg espressi come P<sub>2</sub>O<sub>5</sub> nella preparazione nutritiva</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 350</td><td>Malati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 351</td><td>Malato di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 352</td><td>Malati di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 354</td><td>Tartrato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 380</td><td>Citrato triammonico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 392</td><td>Estratti di rosmarino</td><td>1 000 mg/kg nella preparazione di beta-carotene e licopene, 5 mg/kg nel prodotto finale espressi come la somma di carnosolo e acido carnosico</td><td>Nelle preparazioni di beta-carotene e licopene</td><td></td></tr>
-<tr><td>E 400 – 404</td><td>Acido alginico – alginati</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 406</td><td>Agar-agar</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 407</td><td>Carragenina</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 407a</td><td>Alghe Euchema trasformate</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 410</td><td>Farina di semi di carrube</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 412</td><td>Gomma di guar</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 413</td><td>Gomma adragante</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 414</td><td>Gomma d’acacia (gomma arabica)</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 415</td><td>Gomma di xanthan</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 417</td><td>Gomma di tara</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 418</td><td>Gomma di gellano</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 420</td><td>Sorbitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 421</td><td>Mannitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 422</td><td>Glicerolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 432 – 436</td><td>Polisorbati</td><td>BPF solo nelle preparazioni di beta-carotene, luteina, licopene e vitamina E. Nelle preparazioni di vitamina A e D, la quantità massima nell’alimento finale è di 2mg/kg.</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamine A, D ed E</td><td>Sì</td></tr>
-<tr><td>E 440</td><td>Pectine</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 459</td><td>Beta-ciclodestrina</td><td>100 000 mg/kg nella preparazione e 1000 mg/kg nell’alimento finale</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 460</td><td>Cellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 461</td><td>Metilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 462</td><td>Etilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 463</td><td>Idrossi-propil-cellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 464</td><td>Idrossi-propil-metilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 465</td><td>Etilmetilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 466</td><td>Carbossime-tilcellulosa sodica, gomma di cellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 469</td><td>Carbossimetilcellulosa idrolizzata enzimaticamente</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 470a</td><td>Sali di sodio, di potassio e di calcio degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 470b</td><td>Sali di magnesio degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 471</td><td>Mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 472a</td><td>Esteri acetici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 472b</td><td>Esteri lattici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 472c</td><td>Esteri citrici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 472d</td><td>Esteri tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 472e</td><td>Esteri mono- e diaceltiltartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 472f</td><td>Esteri misti acetici-tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 473</td><td>Esteri di saccarosio degli acidi grassi</td><td>BPF 2 mg/kg nell’alimento finale</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamina E Nelle preparazioni di vitamina A e D</td><td>Sì</td></tr>
-<tr><td>E 475</td><td>Esteri poliglicerici degli acidi grassi</td><td>BPF 2 mg/kg nell’alimento finale</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamina E Nelle preparazioni di vitamina A e D</td><td>Sì</td></tr>
-<tr><td>E 491 – 495</td><td>Esteri di sorbitano</td><td>BPF 2 mg/kg nell’alimento finale</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamina E Nelle preparazioni di vitamina A e D</td><td>Sì</td></tr>
-<tr><td>E 500</td><td>Carbonati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 501</td><td>Carbonati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 503</td><td>Carbonati di ammonio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 504</td><td>Carbonati di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 507</td><td>Acido cloridrico</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 508</td><td>Cloruro di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 509</td><td>Cloruro di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 511</td><td>Cloruro di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 513</td><td>Acido solforico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 514</td><td>Solfati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 515</td><td>Solfati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 516</td><td>Solfato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 524</td><td>Idrossido di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 525</td><td>Idrossido di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 526</td><td>Idrossido di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 527</td><td>Idrossido d’ammonio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 528</td><td>Idrossido di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 529</td><td>Ossido di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 530</td><td>Ossido di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 551, E 552</td><td>Biossido di silicio Silicato di calcio</td><td>50 000 mg/kg nella preparazione essiccata in polvere (singolarmente o in combinazione) 10 000 mg/kg nella preparazione (solo E 551)</td><td>Nelle preparazioni essiccate in polvere di tutti i nutrienti Nelle preparazioni di cloruro di potassio utilizzate nei succedanei del sale</td><td></td></tr>
-<tr><td>E 554</td><td>Silicato di sodio e alluminio</td><td>15 000 mg/kg nella preparazione</td><td>Nelle preparazioni vitaminiche liposolubili</td><td></td></tr>
-<tr><td>E 570</td><td>Acidi grassi</td><td>BPF</td><td>Tutti i nutrienti tranne quelli contenenti acidi grassi insaturi</td><td></td></tr>
-<tr><td>E 574</td><td>Acido gluconico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 575</td><td>Gluconodeltalattone</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 576</td><td>Gluconato di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 577</td><td>Gluconato di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 578</td><td>Gluconato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 640</td><td>Glicina e il suo sale di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 900</td><td>Dimetilpolisilossano</td><td>200 mg/kg nella preparazione, 0,2 mg/l nell’alimento finale</td><td>Nelle preparazioni di beta-carotene e licopene</td><td></td></tr>
-<tr><td>E 901</td><td>Cera d’api, bianca e gialla</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 938</td><td>Argon</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 939</td><td>Elio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 941</td><td>Azoto</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 942</td><td>Protossido di azoto</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 948</td><td>Ossigeno</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 949</td><td>Idrogeno</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 953</td><td>Isomalto</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 965</td><td>Maltitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 966</td><td>Lactitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 967</td><td>Xilitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 968</td><td>Eritritolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 1103</td><td>Invertasi</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
-<tr><td>E 1200</td><td>Polidestrosio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1404</td><td>Amido ossidato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1410</td><td>Fosfato di monoamido</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1412</td><td>Fosfato di diamido</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1413</td><td>Fosfato di diamido fosfatato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1414</td><td>Fosfato di diamido acetilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1420</td><td>Amido acetilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1422</td><td>Adipato di diamido acetilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1440</td><td>Amido idrossipropilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1442</td><td>Fosfato di diamido idrossipropilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1450</td><td>Ottenilsuccinato di amido e sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1451</td><td>Amido acetilato ossidato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
-<tr><td>E 1452</td><td>Ottenilsuccinato di amido e alluminio</td><td>35 000 mg/kg nell’alimento finale</td><td>Negli integratori alimentari quali definiti nella direttiva 2002/46/CE, data la sua utilizzazione nelle preparazioni vitaminiche unicamente a scopi di incapsulamento</td><td>Sì</td></tr>
-<tr><td>E 1518</td><td>Triacetato di glicerile (triacetina)</td><td>(vedi nota)\*</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
-<tr><td>E 1520\*</td><td>1,2-propandiolo (propilenglicole)</td><td>1000 mg/kg nell’alimento finale (come trasferimento)</td><td>Tutti i nutrienti</td><td>Sì, solo come coadiuvante</td></tr>
+<tr><td>170</td><td>Carbonato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>260</td><td>Acido acetico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>261</td><td>Acetati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>262</td><td>Acetati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>263</td><td>Acetato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>270</td><td>Acido lattico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>290</td><td>Anidride carbonica</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>296</td><td>Acido malico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>300</td><td>Acido ascorbico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>301</td><td>Ascorbato di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>302</td><td>Ascorbato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>304</td><td>Esteri dell’acido ascorbico con acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>306</td><td>Estratto ricco in tocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>307</td><td>Alfatocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>308</td><td>Gammatocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>309</td><td>Deltatocoferolo</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>322</td><td>Lecitine</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>325</td><td>Lattato di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>326</td><td>Lattato di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>327</td><td>Lattato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>330</td><td>Acido citrico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>331</td><td>Citrati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>332</td><td>Citrati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>333</td><td>Citrati di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>334–337 e 354</td><td>Acido tartarico – tartrati</td><td>1000 mg/kg singolarmente o in combinazione nella preparazione nutritiva</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>338–452</td><td>Acido fosforico – fosfati – di- tri- e polifosfati</td><td>40 000 mg/kg espressi come P<sub>2</sub>O<sub>5</sub> nella preparazione nutritiva</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>350</td><td>Malati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>351</td><td>Malato di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>352</td><td>Malati di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>380</td><td>Citrato triammonico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>392</td><td>Estratti di rosmarino</td><td>1000 mg/kg nella preparazione di beta-carotene e licopene, 5 mg/kg nel prodotto finale espressi come la somma di carnosolo e acido carnosico</td><td>Nelle preparazioni di beta-carotene e licopene</td><td></td></tr>
+<tr><td>400–404</td><td>Acido alginico – alginati</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>406</td><td>Agar-agar</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>407</td><td>Carragenina</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>407a</td><td>Alghe Euchema trasformate</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>410</td><td>Farina di semi di carrube</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>412</td><td>Gomma di guar</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>413</td><td>Gomma adragante</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>414</td><td>Gomma d’acacia (gomma arabica)</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>415</td><td>Gomma di xanthan</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>417</td><td>Gomma di tara</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>418</td><td>Gomma di gellano</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>420</td><td>Sorbitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>421</td><td>Mannitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>422</td><td>Glicerolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>432–436</td><td>Polisorbati</td><td>BPF solo nelle preparazioni di beta-carotene, luteina, licopene e vitamina E. Nelle preparazioni di vitamina A e D, la quantità massima nell’alimento finale è di 2 mg/kg.</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamine A, D ed E</td><td>Sì</td></tr>
+<tr><td>440</td><td>Pectine</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>459</td><td>Beta-ciclodestrina</td><td>100 000 mg/kg nella preparazione e 1000 mg/kg nell’alimento finale</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>460</td><td>Cellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>461</td><td>Metilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>462</td><td>Etilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>463</td><td>Idrossi-propil-cellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>464</td><td>Idrossi-propil-metilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>465</td><td>Etilmetilcellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>466</td><td>Carbossime-tilcellulosa sodica, gomma di cellulosa</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>469</td><td>Carbossimetilcellulosa idrolizzata enzimaticamente</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>470a</td><td>Sali di sodio, di potassio e di calcio degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>470b</td><td>Sali di magnesio degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>471</td><td>Mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>472a</td><td>Esteri acetici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>472b</td><td>Esteri lattici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>472c</td><td>Esteri citrici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>472d</td><td>Esteri tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>472e</td><td>Esteri mono- e diaceltiltartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>472f</td><td>Esteri misti acetici-tartarici di mono- e digliceridi degli acidi grassi</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>473</td><td>Esteri di saccarosio degli acidi grassi</td><td>BPF 2 mg/kg nell’alimento finale</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamina E Nelle preparazioni di vitamina A e D</td><td>Sì</td></tr>
+<tr><td>475</td><td>Esteri poliglicerici degli acidi grassi</td><td>BPF 2 mg/kg nell’alimento finale</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamina E Nelle preparazioni di vitamina A e D</td><td>Sì</td></tr>
+<tr><td>491 – 495</td><td>Esteri di sorbitano</td><td>BPF 2 mg/kg nell’alimento finale</td><td>Nelle preparazioni di beta-carotene, luteina, licopene e vitamina E Nelle preparazioni di vitamina A e D</td><td>Sì</td></tr>
+<tr><td>500</td><td>Carbonati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>501</td><td>Carbonati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>503</td><td>Carbonati di ammonio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>504</td><td>Carbonati di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>507</td><td>Acido cloridrico</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>508</td><td>Cloruro di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>509</td><td>Cloruro di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>511</td><td>Cloruro di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>513</td><td>Acido solforico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>514</td><td>Solfati di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>515</td><td>Solfati di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>516</td><td>Solfato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>524</td><td>Idrossido di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>525</td><td>Idrossido di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>526</td><td>Idrossido di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>527</td><td>Idrossido d’ammonio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>528</td><td>Idrossido di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>529</td><td>Ossido di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>530</td><td>Ossido di magnesio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>551, 552</td><td>Biossido di silicio Silicato di calcio</td><td>50 000 mg/kg nella preparazione essiccata in polvere (singolarmente o in combinazione) 10 000 mg/kg nella preparazione (solo E 551)</td><td>Nelle preparazioni essiccate in polvere di tutti i nutrienti Nelle preparazioni di cloruro di potassio utilizzate nei succedanei del sale</td><td></td></tr>
+<tr><td>554</td><td>Silicato di sodio e alluminio</td><td>15 000 mg/kg nella preparazione</td><td>Nelle preparazioni vitaminiche liposolubili</td><td></td></tr>
+<tr><td>570</td><td>Acidi grassi</td><td>BPF</td><td>Tutti i nutrienti tranne quelli contenenti acidi grassi insaturi</td><td></td></tr>
+<tr><td>574</td><td>Acido gluconico</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>575</td><td>Gluconodeltalattone</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>576</td><td>Gluconato di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>577</td><td>Gluconato di potassio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>578</td><td>Gluconato di calcio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>640</td><td>Glicina e il suo sale di sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>900</td><td>Dimetilpolisilossano</td><td>200 mg/kg nella preparazione, 0,2 mg/l nell’alimento finale</td><td>Nelle preparazioni di beta-carotene e licopene</td><td></td></tr>
+<tr><td>901</td><td>Cera d’api, bianca e gialla</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>938</td><td>Argon</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>939</td><td>Elio</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>941</td><td>Azoto</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>942</td><td>Protossido di azoto</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>948</td><td>Ossigeno</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>949</td><td>Idrogeno</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>953</td><td>Isomalto</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>965</td><td>Maltitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>966</td><td>Lactitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>967</td><td>Xilitolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>968</td><td>Eritritolo</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>1103</td><td>Invertasi</td><td>BPF</td><td>Tutti i nutrienti</td><td></td></tr>
+<tr><td>1200</td><td>Polidestrosio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1404</td><td>Amido ossidato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1410</td><td>Fosfato di monoamido</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1412</td><td>Fosfato di diamido</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1413</td><td>Fosfato di diamido fosfatato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1414</td><td>Fosfato di diamido acetilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1420</td><td>Amido acetilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1422</td><td>Adipato di diamido acetilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1440</td><td>Amido idrossipropilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1442</td><td>Fosfato di diamido idrossipropilato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1450</td><td>Ottenilsuccinato di amido e sodio</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1451</td><td>Amido acetilato ossidato</td><td>BPF</td><td>Tutti i nutrienti</td><td>Sì</td></tr>
+<tr><td>1452</td><td>Ottenilsuccinato di amido e alluminio</td><td>35 000 mg/kg nell’alimento finale</td><td>Negli integratori alimentari quali definiti nella direttiva 2002/46/CE[^annex5-lvlu1-lvl5-partA-1], data la sua utilizzazione nelle preparazioni vitaminiche unicamente a scopi di incapsulamento</td><td>Sì</td></tr>
+<tr><td>1518</td><td>Triacetato di glicerile (triacetina)</td><td>(vedi nota)\*</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td>1520\*</td><td>1,2-propandiolo (propilenglicole)</td><td>1000 mg/kg nell’alimento finale (come trasferimento)</td><td>Tutti i nutrienti</td><td>Sì, solo come supporto</td></tr>
+<tr><td colspan="5">\* Quantità massima di E 1518 e E 1520 da tutte le fonti negli alimenti: 3000 mg/kg (singolarmente o in combinazione con E 1505 e E 1517). Per le bevande, ad eccezione dei liquori cremosi, la quantità massima di E 1520 è pari a 1000 mg/l da tutte le fonti.</td></tr>
 </table>
 
-\* Quantità massima di E 1518 e E 1520 da tutte le fonti negli alimenti: 3000 mg/kg (singolarmente o in combinazione con E 1505 e E 1517). Per le bevande, ad eccezione dei liquori cremosi, la quantità massima di E 1520 è pari a 1000 mg/l da tutte le fonti.
+[^annex5-lvlu1-lvl5-partA-1]: GU L 183 del 12.7.2002, pag. 51.
 
-### Parte B: Additivi in vitamine, Sali minerali e altre determinate sostanze con effetto nutrizionale o fisiologico nelle derrate alimentari per i lattanti e i bambini nella prima infanzia (secondo la lista figurante nell’allegato 3, n. 13.1)
+### Parte B: Additivi in vitamine, sali minerali e altre determinate sostanze con effetto nutrizionale o fisiologico nelle derrate alimentari per i lattanti e i bambini nella prima infanzia (secondo la lista figurante nell’allegato 3, n. 13.1)
 
 <table>
 <tr><th>N° E dell’additivo</th><th>Designazione dell’additivo</th><th>Livello massimo</th><th>Sostanza nutritiva cui può venire aggiunto l’additivo alimentare</th><th>Categoria di derrata alimentare</th></tr>
-<tr><td>E 301</td><td>Ascorbato di sodio</td><td>100 000 mg/kg in preparazioni di vitamina D e 1 mg/l di tenore restante massimo nel prodotto preparato Tenore restante totale: 75 mg/l nel prodotto preparato</td><td>Preparazioni di vitamina D Rivestimenti di preparazioni nutritive contenenti acidi grassi polinsaturi</td><td>Alimenti per lattanti e alimenti di proseguimento Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 304 (i)</td><td>Palmitato di ascorbile</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 306 E 307 E 308 E 309</td><td>Estratto ricco in tocoferolo Alfatocoferolo Gammatocoferolo Deltatocoferolo</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 322</td><td>Lecitine</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 330</td><td>Acido citrico</td><td>Quantum satis</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 331</td><td>Citrati di sodio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3 e che vengano rispettate le condizioni d’uso ivi precisate</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 332</td><td>Citrati di potassio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3 e che vengano rispettate le condizioni d’uso ivi precisate</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 333</td><td>Citrati di calcio</td><td>Trasferimento totale: 0,1 mg/kg, espresso come calcio e nei limiti del livello di calcio e del rapporto calcio/fosforo stabiliti per la categoria di alimenti interessata</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 341 (iii)</td><td>Fosfato tricalcico</td><td>Tenore restante massimo di 150 mg/kg P<sub>2</sub>O<sub>5</sub> ed entro i limiti di calcio e di fosforo e nel rapporto tra i due elementi stabiliti nell’ordinanza sugli alimenti speciali È rispettata la quantità massima di 1000 mg/kg come P<sub>2</sub>O<sub>5</sub> per tutti gli impieghi negli alimenti di cui all’allegato 3 numero 13.1.3</td><td>Tutti i nutrienti Tutti i nutrienti</td><td>Alimenti per lattanti e alimenti di proseguimento Alimenti per lo svezzamento a base di cereali e altre pappe di complemento per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 401</td><td>Alginato di sodio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1.3, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td></tr>
-<tr><td>E 402</td><td>Alginato di potassio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td></tr>
-<tr><td>E 404</td><td>Alginato di calcio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1.3, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td></tr>
-<tr><td>E 414</td><td>Gomma d’acacia (gomma arabica)</td><td>150 000 mg/kg nelle preparazioni nutritive e 10 mg/kg di trasferimento nel prodotto finale</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 415</td><td>Gomma di xanthan</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1.3, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td></tr>
-<tr><td>E 421</td><td>Mannitolo</td><td>1000 volte superiore alla vitamina B12; trasferimento totale: 3 mg/kg</td><td>Come coadiuvante per la vitamina B 12</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 440</td><td>Pectine</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti di proseguimento e alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td></tr>
-<tr><td>E 466</td><td>Carbossime-tilcellulosa sodica, gomma di cellulosa</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti dietetici destinati a fini medici speciali per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 471</td><td>Mono- e digliceridi degli acidi grassi</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3 e che vengano rispettate le condizioni d’uso ivi precisate</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 472c</td><td>Esteri citrici di mono- e digliceridi degli acidi grassi</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e alimenti di proseguimento per lattanti e bambini nella prima infanzia in buona salute</td></tr>
-<tr><td>E 551</td><td>Biossido di silicio</td><td>10 000 mg/kg nelle preparazioni nutritive</td><td>Preparazioni nutritive essiccate in polvere</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 1420</td><td>Amido acetilato</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1.3, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td></tr>
-<tr><td>E 1450</td><td>Ottenilsuccinato di amido e sodio</td><td>Trasferimento: 100 mg/kg Trasferimento: 1000 mg/kg</td><td>Preparazioni vitaminiche Preparazioni di acidi grassi polinsaturi</td><td>Alimenti per lattanti e bambini nella prima infanzia</td></tr>
-<tr><td>E 1451</td><td>Amido acetilato ossidato</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima negli alimenti di cui alla parte E, punto 13.1.3, dell’allegato 3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini</td></tr>
+<tr><td>301</td><td>Ascorbato di sodio</td><td>100 000 mg/kg in preparazioni di vitamina D e 1 mg/l di trasferimento massimo nel prodotto preparato</td><td>Preparazioni di vitamina D</td><td>Alimenti per lattanti e alimenti di proseguimento</td></tr>
+<tr><td></td><td></td><td>50 000 mg/kg in preparazioni di vitamina A microincapsulata e 1 mg/l di trasferimento massimo nel prodotto preparato</td><td>Preparazioni di vitamina A microincapsulata</td><td></td></tr>
+<tr><td></td><td></td><td>Tenore restante totale: 75 mg/l</td><td>Rivestimenti di preparazioni nutritive contenenti acidi grassi polinsaturi</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>304 (i)</td><td>Palmitato di ascorbile</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numeri 01.10 e 13.1</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>306 307 308 309</td><td>Estratto ricco in tocoferolo Alfatocoferolo Gammatocoferolo Deltatocoferolo</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numeri 01.10 e 13.1</td><td>Tutti i nutrient</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari menzionate di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>322</td><td>Lecitine</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numeri 01.10 e13.1</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>330</td><td>Acido citrico</td><td>Quantum satis</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>331</td><td>Citrati di sodio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numeri 01.10 e 13.1 e che vengano rispettate le condizioni d’uso ivi precisate</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>332</td><td>Citrati di potassio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numeri 01.10 e 13.1 e che vengano rispettate le condizioni d’uso ivi precisate</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>333</td><td>Citrati di calcio</td><td>Trasferimento totale: 0,1 mg/kg, espresso come calcio e nei limiti del livello di calcio e del rapporto calcio/fosforo stabiliti per la categoria di alimenti interessata</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>341 (iii)</td><td>Fosfato tricalcico</td><td>Trasferimento massimo di 150 mg/kg, espresso come P<sub>2</sub>O<sub>5</sub> ed entro i limiti di calcio e di fosforo e nel rapporto tra i due elementi stabiliti nel regolamento delegato (UE) 2016/127[^annex5-lvlu1-lvl5-partB-1]</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e alimenti di proseguimento</td></tr>
+<tr><td></td><td></td><td>Quantità massima di 1000 mg/kg, espressa come P<sub>2</sub>O<sub>5</sub> da tutte le fonti negli alimenti di cui all’allegato 3 numero 13.1.3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
+<tr><td>401</td><td>Alginato di sodio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1.3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
+<tr><td>402</td><td>Alginato di potassio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
+<tr><td>404</td><td>Alginato di calcio</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1.3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
+<tr><td>414</td><td>Gomma d’acacia (gomma arabica)</td><td>150 000 mg/kg nelle preparazioni nutritive e 10 mg/kg di trasferimento nel prodotto finale</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>415</td><td>Gomma di xanthan</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1.3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima nfanzia</td></tr>
+<tr><td>421</td><td>Mannitolo</td><td>1000 volte superiore alla vitamina B12, trasferimento totale: 3 mg/kg</td><td>Come supporto per la vitamina B12</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>440</td><td>Pectine</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1</td><td>Tutti i nutrienti</td><td>Alimenti di proseguimento e alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
+<tr><td>466</td><td>Carbossime-tilcellulosa sodica, gomma di cellulosa</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1 Solo fino al 26 aprile 2027</td><td>Tutti i nutrienti</td><td>Alimenti a fini medici speciali, destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
+<tr><td>471</td><td>Mono- e digliceridi degli acidi grassi</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numeri 01.10 e 13.1 e che vengano rispettate le condizioni d’uso ivi precisate</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>472c</td><td>Esteri citrici di mono- e digliceridi degli acidi grassi</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numeri 01.10 e 13.1</td><td>Tutti i nutrienti</td><td>Alimenti per lattanti e alimenti di proseguimento per lattanti e bambini nella prima infanzia in buona salute</td></tr>
+<tr><td>551</td><td>Biossido di silicio</td><td>10 000 mg/kg nelle preparazioni nutritive</td><td>Preparazioni nutritive essiccate in polvere</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>1420</td><td>Amido acetilato</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1.3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
+<tr><td>1450</td><td>Ottenilsuccinato di amido e sodio</td><td>Trasferimento: 100 mg/kg Trasferimento: 1000 mg/kg</td><td>Preparazioni vitaminiche Preparazioni di acidi grassi polinsaturi</td><td>Alimenti per lattanti e bambini nella prima infanzia nonché le derrate alimentari di cui all’allegato 3 numero 01.10</td></tr>
+<tr><td>1451</td><td>Amido acetilato ossidato</td><td>Per impieghi nelle preparazioni nutritive a condizione che non venga superata la quantità massima nelle derrate alimentari di cui all’allegato 3 numero 13.1.3</td><td>Tutti i nutrienti</td><td>Alimenti a base di cereali e altri alimenti destinati ai lattanti e ai bambini nella prima infanzia</td></tr>
 </table>
+
+[^annex5-lvlu1-lvl5-partB-1]: Regolamento delegato (UE) 2016/127 della Commissione, del 25 settembre 2015, che integra il regolamento (UE) n. 609/2013 del Parlamento europeo e del Consiglio per quanto riguarda le prescrizioni specifiche di composizione e di informazione per le formule per lattanti e le formule di proseguimento e per quanto riguarda le prescrizioni relative alle informazioni sull’alimentazione del lattante e del bambino nella prima infanzia, GU L 25 del 2.2.2016 pag. 1, modificato da ultimo dal regolamento delegato (UE) 2025/2017, GU L, 2025/2017, 12.12.2025
 
 Allegato 6[^t-7]
 
@@ -994,7 +1005,7 @@ Allegato 6[^t-7]
 
 ## Liste delle derrate alimentari nelle quali non è ammesso il trasferimento di un additivo
 
-[^t-7]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 2 dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 371](https://fedlex.data.admin.ch/eli/oc/2026/371)).
 
 ### 1. Lista delle derrate alimentari nelle quali non è ammesso il trasferimento di un additivo
 
@@ -1009,10 +1020,10 @@ Allegato 6[^t-7]
 - – Caffè (tranne il caffè istantaneo aromatizzato) ed estratti di caffè
 - – Tè in foglie non aromatizzato
 - – Tipi di zucchero
-- – Pasta essiccata (esclusa la pasta esente da glutine e/o la pasta per diete ipoproteiche) Nella pasta essiccata devono essere trasferiti gli additivi ammessi nel sale
+- – Pasta essiccata esclusa la pasta esente da glutine (quale derrata alimentare specificamente prodotta per ridurre il tenore di glutine degli ingredienti contenenti glutine o per sostituirli) e la pasta destinata a diete ipoproteiche; nella pasta essiccata possono essere trasferiti gli additivi ammessi nel sale
 - – Alimenti per lattanti e bambini nella prima infanzia, alimenti dietetici destinati a fini medici speciali per lattanti e bambini nella prima infanzia
 
-[^annex6-lvlu1-lvl1-1]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^annex6-lvlu1-lvl1-1]: [RS 817.022.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9666)
 
 ### 2. Lista delle derrate alimentari nelle quali non sono ammessi coloranti trasferiti
 
@@ -1035,7 +1046,7 @@ Allegato 6[^t-7]
 - – Concentrati di pomodoro e pomodori in scatola o in bottiglia
 - – Salse a base di pomodoro
 - – Succhi e nettare di frutta e succhi e nettare di ortaggi
-- – Frutta, ortaggi (comprese le patate) e funghi in scatola, in bottiglia o secchi; frutta trasformata, ortaggi (comprese le patate) e funghi
+- – Frutta, ortaggi (comprese le patate) e funghi in scatola, in bottiglia o secchi; frutta, ortaggi (comprese le patate) e funghi, trasformati
 - – Confettura extra, gelatina extra, crema di marroni, *crème de pruneaux*
 - – Pesce, crostacei e molluschi, carni, pollame e selvaggina nonché le loro preparazioni, tranne i pasti preparati contenenti tali ingredienti
 - – Prodotti di cacao e pezzi di cioccolato nei prodotti di cioccolato
@@ -1043,11 +1054,13 @@ Allegato 6[^t-7]
 - – Sale, succedanei del sale, spezie e miscugli di spezie
 - – Vino e bevande contenenti vino
 - – Rum, *whisky* o *whiskey*, acquavite di cereali, acquavite di vino, *brandy* o *Weinbrand*, acquavite di vinaccia o *marc*, acquavite di residui di frutta, acquavite di uve secche o *raisinbrandy*, acquavite di frutta, acquavite di sidro di mele e acquavite di sidro di pere, acquavite di miele, *Hefebrand* o acquavite di fecce, Bierbrand o eau-de-vie de bière, *Topinambur* o acquavite di elianto e acquaviti di (con il nome del frutto) ottenute dalla macerazione e dalla distillazione, *london gin*, sambuca, maraschino, *marrasquino* o *maraskino* e *mistrà*
-- – *Sangria*, *clarea* e *zurra*
+- – *Sangria, clarea e zurra*
 - – Aceti di vino
-- – Alimenti destinati ai lattanti e ai bambini, compresi alimenti destinati a fini medici speciali per lattanti e bambini nella prima infanzia
+- – Bevande a base di latte e prodotti analoghi destinati a bambini nella prima infanzia[[^annex6-lvlu1-lvl2-1]](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202502058) e alimenti per lattanti e bambini nella prima infanzia, nonché alimenti destinati a fini medici speciali per lattanti e bambini nella prima infanzia
 - – Miele
 - – Malto e prodotti del malto
+
+[^annex6-lvlu1-lvl2-1]: La presente categoria di prodotti è stata introdotta esclusivamente per disciplinare l’uso degli additivi nelle derrate alimentari in questione.
 
 Allegato 7[^t-8]
 
