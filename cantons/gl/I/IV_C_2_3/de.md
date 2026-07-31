@@ -3,20 +3,19 @@ canton: GL
 number: IV C/2/3
 title: Berufsauftrag für die Lehrpersonen der Volksschule
 language: de
-version: 2011-08-01
-valid_until: 2026-07-31
-version_adopted: 2011-06-30
+version: 2026-08-01
+version_adopted: 2026-03-05
 adopted: 2011-06-30
 in_force: 2011-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-C.2.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/808/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Berufsauftrag für die Lehrpersonen der Volksschule
 
-Vom 30.06.2011 (Stand 01.08.2011)
+Vom 30.06.2011 (Stand 01.08.2026)
 
 Das Departement,
 
@@ -30,7 +29,9 @@ erlässt:[^ingress-1]
 
 **Geltungsbereich**
 
-<sup>1</sup> Der Berufsauftrag umschreibt die Tätigkeitsbereiche für Lehrpersonen des Kindergartens, der Primarstufe und der Sekundarstufe I der Volksschule, der Sonderschulen sowie der Sportschule.
+<sup>1</sup> Der Berufsauftrag umschreibt die Tätigkeitsbereiche für Lehrpersonen des Kindergartens, der Primarstufe und der Sekundarstufe I sowie der Sonderschulen. Für die Lehrpersonen der Unterstufe und des ersten Teils der Mittelstufe des Gymnasiums sowie der Sportschule gilt der Berufsauftrag für die Lehrpersonen ab der Sekundarstufe II und des Brückenangebotes[^1-1].
+
+[^1-1]: GS [IV C/2/5](https://gesetze.gl.ch/data/IV-C.2.5/de)
 
 #### Art. 2
 
@@ -40,13 +41,13 @@ erlässt:[^ingress-1]
 
 <sup>2</sup> Der Berufsauftrag unterstützt die Lehrpersonen in der Strukturierung ihres Arbeitsalltages und ihrer Jahresarbeitszeit.
 
-<sup>3</sup> Er ist ein wichtiges Führungsinstrument für die Schulleitungen und die Schulkommission.
+<sup>3</sup> Der Berufsauftrag ist ein wichtiges Führungsinstrument für die Hauptschulleitungen und die Schulleitungen.
 
 #### Art. 3
 
 **Auftrag**
 
-<sup>1</sup> Der Berufsauftrag basiert auf den im Bildungsgesetz aufgeführten Bildungszielen, Rechten und Pflichten der Lehrpersonen, der Weiterbildung und der Gesamtarbeitszeit.
+<sup>1</sup> Der Berufsauftrag basiert auf den im Bildungsgesetz aufgeführten Bildungszielen, Rechten und Pflichten der Lehrpersonen, der Weiterbildung und der Jahresarbeitszeit.
 
 <sup>2</sup> Bei der Erfüllung des Berufsauftrages sind alle Lehrpersonen verpflichtet:
 
@@ -69,7 +70,7 @@ erlässt:[^ingress-1]
 
 #### Art. 5
 
-**Gesamtarbeitszeit**
+**Jahresarbeitszeit**
 
 <sup>1</sup> Die Jahresarbeitszeit der Lehrpersonen richtet sich nach den personalrechtlichen Vorgaben der Anstellungsinstanz.
 
@@ -87,9 +88,11 @@ erlässt:[^ingress-1]
 
 **Unterrichtszeit**
 
-<sup>1</sup> Die Unterrichtszeit beträgt gemäss Artikel 5 der Volksschulverordnung 30 Lektionen und teilt sich grundsätzlich in 28 Unterrichts- und zwei Präsenzlektionen auf.
+<sup>1</sup> Die Unterrichtszeit beträgt vorbehältlich Abweichungen gemäss Absatz 2 28 Lektionen.
 
-<sup>2</sup> Die Gemeinde legt allfällige Abweichungen insbesondere für Lehrpersonengruppen fest (z.B. Schulische Heilpädagogik, Kindergarten, Klassenlehrer) und regelt den Umgang mit den Präsenzlektionen.
+<sup>2</sup> Die Gemeinde legt Abweichungen für Klassenlehrpersonen und allfällige weitere Funktionen fest.
+
+<sup>3</sup> Bei Klassenlehrpersonen beträgt die Abweichung mindestens zwei Lektionen.
 
 #### Art. 7
 
