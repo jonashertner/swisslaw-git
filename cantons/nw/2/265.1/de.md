@@ -4,13 +4,12 @@ number: "265.1"
 title: Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege
 short: "Verwaltungsrechtspflegegesetz, VRG"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2024-10-23
+version: 2026-08-01
+version_adopted: 2025-11-26
 adopted: 1985-02-08
 in_force: 1985-02-08
 url: "https://gesetze.nw.ch/app/de/texts_of_law/265.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1438/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1519/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1438/pdf_file"
 
 (Verwaltungsrechtspflegegesetz, VRG)
 
-vom 08.02.1985 (Stand 01.01.2026)
+vom 08.02.1985 (Stand 01.08.2026)
 
 Der Landrat von Nidwalden,
 
@@ -313,6 +312,8 @@ beschliesst:
 **Öffentlichkeit**
 
 <sup>1</sup> Die Parteiverhandlungen und Beratungen vor den Verwaltungsbehörden sind nicht öffentlich.
+
+<sup>2</sup> Die Öffentlichkeit kann über die Rechtsprechung informiert werden. Die Veröffentlichung der Beschwerdeentscheide im Verwaltungsrechtspflegeverfahren hat grundsätzlich in anonymisierter Form zu erfolgen.
 
 ### 3.5 Formvorschriften
 
