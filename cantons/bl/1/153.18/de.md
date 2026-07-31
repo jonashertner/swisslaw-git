@@ -3,20 +3,19 @@ canton: BL
 number: "153.18"
 title: Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 language: de
-version: 2025-04-01
-valid_until: 2026-07-31
-version_adopted: 2025-02-18
+version: 2026-08-01
+version_adopted: 2025-09-16
 adopted: 2013-03-12
 in_force: 2013-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.18"
-pdf: "https://bl.clex.ch/api/de/versions/4246/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Mandaten an unselbständig Erwerbende
 
-Vom 12.03.2013 (Stand 01.04.2025)
+Vom 12.03.2013 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -211,7 +210,9 @@ beschliesst:
 
 **Spezielle Tätigkeiten Sekundarstufe II**
 
-<sup>1</sup> Die organisatorische Leitung der Orientierungsarbeiten (11. Schuljahr) an den Gymnasien des Kantons Basel-Landschaft wird gemäss Lohnband 13, Erfahrungswert 8, vergütet.
+<sup>1</sup> …
+
+<sup>2</sup> Die Betreuung des Praxiseinsatzes von Schülerinnen und Schülern des Fachmaturitätskurses Pädagogik an einer Schule der Primarstufe wird mit einer Pauschale von CHF 600.– entschädigt.
 
 #### § 23
 
