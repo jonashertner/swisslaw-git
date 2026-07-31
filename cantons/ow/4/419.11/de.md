@@ -4,13 +4,12 @@ number: "419.11"
 title: Verordnung über die Ausrichtung von Ausbildungsbeiträgen
 short: Stipendienverordnung
 language: de
-version: 2017-01-01
-valid_until: 2026-07-31
-version_adopted: 2016-05-19
+version: 2026-08-01
+version_adopted: 2025-05-22
 adopted: 2014-04-16
 in_force: 2014-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/419.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1111/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2017/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1111/pdf_file"
 
 (Stipendienverordnung)
 
-vom 16.04.2014 (Stand 01.01.2017)
+vom 16.04.2014 (Stand 01.08.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -49,7 +48,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton leistet im Rahmen dieser Verordnung Ausbildungsbeiträge in Form von Stipendien und/oder Darlehen an die Ausbildungs- und Lebenshaltungskosten während der Erstausbildung auf der Sekundarstufe II (eingeschlossen Brückenangebote und Passerellen) sowie auf der Tertiärstufe und während der Zweitausbildung.
 
-<sup>2</sup> Die Ausbildungsfinanzierung ist in erster Linie Sache der Erziehungsberechtigten und weiterer Personen, soweit die Gesetzgebung sie hierzu verpflichtet, sowie der Bewerberin bzw. des Bewerbers. Der Kanton leistet nur Ausbildungsbeiträge, soweit die finanzielle Leistungsfähigkeit der genannten Personen nicht ausreicht.
+<sup>2</sup> Die Ausbildungsfinanzierung ist in erster Linie Sache der Eltern bzw. Erziehungsberechtigten und weiterer Personen, soweit die Gesetzgebung sie hierzu verpflichtet, sowie der Bewerberin bzw. des Bewerbers. Der Kanton leistet nur Ausbildungsbeiträge, soweit die finanzielle Leistungsfähigkeit der genannten Personen nicht ausreicht.
 
 #### Art. 3
 
@@ -103,7 +102,7 @@ beschliesst:
 <sup>1</sup> Beitragsberechtigt sind:
 
 - a. Personen mit Schweizer Bürgerrecht und Wohnsitz in der Schweiz, unter Vorbehalt von Buchstabe b;
-- b. Schweizer Bürgerinnen und Bürger, deren Erziehungsberechtigte im Ausland leben oder die elternlos im Ausland leben, für Ausbildungen in der Schweiz, sofern sie an ihrem ausländischen Wohnsitz wegen fehlender Zuständigkeit nicht beitragsberechtigt sind;
+- b. Schweizer Bürgerinnen und Bürger, deren Eltern bzw. Erziehungsberechtigte im Ausland leben oder die elternlos im Ausland leben, für Ausbildungen in der Schweiz, sofern sie an ihrem ausländischen Wohnsitz wegen fehlender Zuständigkeit nicht beitragsberechtigt sind;
 - c. Personen mit ausländischem Bürgerrecht, die über eine Niederlassungsbewilligung (Bewilligung C) verfügen oder seit fünf Jahren in der Schweiz aufenthaltsberechtigt sind und über eine Aufenthaltsbewilligung (Bewilligung B) verfügen;
 - d. in der Schweiz wohnhafte und von der Schweiz anerkannte Flüchtlinge und Staatenlose;
 - e. Bürgerinnen und Bürger von EU-/EFTA-Mitgliedstaaten, soweit sie gemäss dem Freizügigkeitsabkommen[^7-1] bzw. dem EFTA-Übereinkommen[^7-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und EU-/EFTA-Mitgliedsstaaten andererseits in der Frage der Stipendien und Studiendarlehen den Schweizer Bürgerinnen und Bürgern gleichgestellt sind sowie Bürgerinnen und Bürger aus Staaten, mit denen entsprechende internationale Abkommen geschlossen wurden.
@@ -131,7 +130,7 @@ beschliesst:
 
 - a. die jetzigen oder zuletzt zuständigen Inhaber der elterlichen Sorge ihren zivilrechtlichen Wohnsitz im Kanton haben oder der Sitz der zuletzt zuständigen Kindes- und Erwachsenenschutzbehörde im Kanton liegt;
 - b. sie nach Abschluss der einen und vor Beginn der neuen Ausbildung während mindestens zwei Jahren ununterbrochen zivilrechtlichen Wohnsitz im Kanton hatte und gleichzeitig durch eigene Erwerbstätigkeit finanziell unabhängig war. Der abgeschlossenen Ausbildung wird eine mindestens vierjährige vollzeitliche Erwerbstätigkeit gleichgestellt. Die Führung des eigenen Familienhaushalts gilt als Erwerbstätigkeit;
-- c. deren Erziehungsberechtigte im Ausland wohnen oder wenn sie elternlos im Ausland wohnt, aber das Obwaldner Bürgerrecht besitzt. Bei mehreren Kantonsbürgerrechten hat sie stipendienrechtlichen Wohnsitz im Kanton nur dann, wenn sie das Obwaldner Bürgerrecht zuletzt erworben hat.
+- c. deren Eltern bzw. Erziehungsberechtigte im Ausland wohnen oder wenn sie elternlos im Ausland wohnt, aber das Obwaldner Bürgerrecht besitzt. Bei mehreren Kantonsbürgerrechten hat sie stipendienrechtlichen Wohnsitz im Kanton nur dann, wenn sie das Obwaldner Bürgerrecht zuletzt erworben hat.
 
 <sup>2</sup> Für Flüchtlinge und Staatenlose gelten die bundesrechtlichen Vorschriften.
 
@@ -157,11 +156,11 @@ beschliesst:
 
 **3. zumutbare Eigen- und Fremdleistung**
 
-<sup>1</sup> Die zumutbare Eigen- und Fremdleistung bestimmt sich nach dem anrechenbaren Einkommen der gesuchstellenden Person, der Erziehungsberechtigten oder anderer gesetzlich zu Unterhalt verpflichteter Personen gemäss Absatz 2.
+<sup>1</sup> Die zumutbare Eigen- und Fremdleistung bestimmt sich nach dem anrechenbaren Einkommen der gesuchstellenden Person, der Eltern bzw. Erziehungsberechtigten oder anderer gesetzlich zu Unterhalt verpflichteter Personen gemäss Absatz 2.
 
 <sup>2</sup> Das anrechenbare Einkommen wird gemäss Art. 7a der Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz[^11-1] (Anspruch auf Prämienverbilligung) ermittelt. Bei steuerlichen Ermessensveranlagungen und bei fehlenden, nicht aktuellen oder nicht rechtskräftigen Steuerveranlagungen muss die gesuchstellende Person das anrechenbare Einkommen nachweisen.
 
-<sup>3</sup> Hat die gesuchstellende Person die Erstausbildung abgeschlossen und das 25. Altersjahr vollendet oder war sie vor Beginn der neuen Ausbildung während mindestens vier Jahren durch eigene Erwerbstätigkeit finanziell unabhängig oder führte sie den Haushalt der eigenen Familie, werden die zumutbaren Leistungen der Erziehungsberechtigten nur noch teilweise berücksichtigt.
+<sup>3</sup> Hat die gesuchstellende Person die Erstausbildung abgeschlossen und das 25. Altersjahr vollendet oder war sie vor Beginn der neuen Ausbildung während mindestens vier Jahren durch eigene Erwerbstätigkeit finanziell unabhängig oder führte sie den Haushalt der eigenen Familie, werden die zumutbaren Leistungen der Eltern bzw. Erziehungsberechtigten nur noch teilweise berücksichtigt.
 
 <sup>4</sup> Der Regierungsrat regelt weitere Einzelheiten zum anrechenbaren Einkommen, insbesondere zu Vollzeitausbildungen und zum Einbezug des Lernendenlohns, in Ausführungsbestimmungen.
 
@@ -270,6 +269,8 @@ Verordnung über Ausbildungsbeiträge vom 23. April 1992 (OGS 1993, 22, OGS 1997
 
 Geändert durch:
 
-\- das Gesetz über das Konsolidierungs- und Aufgabenüberprüfungspaket vom 19. Mai 2016 (OGS 2016, 35), Botschaft und Vorlage des Regierungsrats vom 15. Dezember 2015, Kantonsratssitzungen vom 14. April und 19. Mai 2016 (22.15.07), in Kraft seit 1. Januar 2017 (OGS 2016, 35 und 44)
+\- das Gesetz über das Konsolidierungs- und Aufgabenüberprüfungspaket vom 19. Mai 2016 (OGS 2016, 35), Botschaft und Vorlage des Regierungsrats vom 15. Dezember 2015, Kantonsratssitzungen vom 14. April und 19. Mai 2016 (22.15.07), in Kraft seit 1. Januar 2017 (OGS 2016, 35 und 44),
+
+\- Nachtrag zum Bildungsgesetz vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, in Kraft seit 1. August 2026 (ABl vom 2. April 2026).
 
 OGS 2014, 18
