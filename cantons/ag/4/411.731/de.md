@@ -3,29 +3,27 @@ canton: AG
 number: "411.731"
 title: Verordnung über die Mittel der Schulräte der Bezirke und die Entschädigung deren Mitglieder
 language: de
-version: 2024-03-01
-valid_until: 2026-07-31
-version_adopted: 2023-12-20
+version: 2026-08-01
+version_adopted: 2026-02-18
 adopted: 2003-11-26
 in_force: 2004-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.731"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3396/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3961/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Mittel der Schulräte der Bezirke und die Entschädigung deren Mitglieder
 
-Vom 26.11.2003 (Stand 01.03.2024)
+Vom 26.11.2003 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 91 Abs. 1 des Schulgesetzes vom 17. März 1981[^ingress-1] sowie § 4 Abs. 3 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-2],
+gestützt auf § 4 Abs. 3 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
-[^ingress-2]: SAR [165.170](https://gesetzessammlungen.ag.ch/data/165.170/de)
+[^ingress-1]: SAR [165.170](https://gesetzessammlungen.ag.ch/data/165.170/de)
 
 #### § 1
 
