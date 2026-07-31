@@ -4,13 +4,12 @@ number: "323.1"
 title: Gesetz über die Aktenführung und die Archivierung
 short: "Archivierungsgesetz, ArchG"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2024-10-23
+version: 2026-08-01
+version_adopted: 2025-11-26
 adopted: 2008-12-17
 in_force: 2009-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/323.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1442/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1442/pdf_file"
 
 (Archivierungsgesetz, ArchG)
 
-vom 17.12.2008 (Stand 01.01.2026)
+vom 17.12.2008 (Stand 01.08.2026)
 
 Der Landrat von Nidwalden,
 
@@ -263,6 +262,10 @@ beschliesst:
 
 - 1\. überwiegende öffentliche oder private Interessen es gebieten;
 - 2\. Archivgut für nicht personenbezogene Forschung, Planung oder Statistik benötigt wird.
+
+<sup>2</sup> Die Archive geben Einsicht in Archivgut gemäss dem Kantonalen Öffentlichkeitsgesetz[^25-1]. Sie berücksichtigen dabei die Anliegen nicht personenbezogener Forschung, Planung und Statistik angemessen.
+
+[^25-1]: NG 232.3
 
 #### Art. 26
 
