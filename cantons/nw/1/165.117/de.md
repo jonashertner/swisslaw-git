@@ -4,13 +4,12 @@ number: "165.117"
 title: Verordnung betreffend die Lehrpersonen
 short: "Lehrpersonalverordnung, LPV"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-09-23
+version: 2026-08-01
+version_adopted: 2026-04-28
 adopted: 2008-06-24
 in_force: 2008-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/1417/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1503/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1417/pdf_file"
 
 (Lehrpersonalverordnung, LPV)
 
-vom 24.06.2008 (Stand 01.01.2026)
+vom 24.06.2008 (Stand 01.08.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -668,7 +667,7 @@ beschliesst:
 <sup>1</sup> Unterricht und Betreuung einer Klasse
 
 - 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
+- 1a. Entlastung für Klassenlehrpersonen: — 2 Lektionen
 - 2\. Lohnband:
   - a) mit Kindergartendiplom: — L11
   - b) mit Lehrdiplom Kindergarten/Unterstufe: — L12
@@ -743,7 +742,7 @@ beschliesst:
 <sup>1</sup> Unterricht als Lehrperson und Betreuung einer Klasse
 
 - 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 1a. Entlastung für Klassenlehrpersonen: — 1 Lektion
+- 1a. Entlastung für Klassenlehrpersonen: — 2 Lektionen
 - 2\. Lohnband: — L12
 
 #### § A1-15–A1-17
@@ -794,6 +793,11 @@ beschliesst:
 <tr><td>Weiterbildungskurse mit Zertifikatsabschluss</td><td>25 Lektionen</td><td></td></tr>
 </table>
 
+<sup>3a</sup> Entlastung für Klassenlehrpersonen:
+
+- 1\. 1. bis 3. Klasse — 1 Lektion
+- 2\. 4. bis 6. Klasse — 0.5 Lektionen
+
 <sup>4</sup> Lohnband: L16
 
 <sup>5</sup> Für Lehrpersonen, die Wirtschaft/Arbeit/Haushalt, Technisches Gestalten oder Medien und Informatik im Untergymnasium unterrichten und über eine Ausbildung an einer pädagogischen Hochschule verfügen, gelten die entsprechenden Bestimmungen für Fachlehrpersonen für die Sekundarstufe I gemäss § A1-18.
@@ -822,6 +826,8 @@ beschliesst:
 <tr><td>Weiterbildungskurse mit Zertifikatsabschluss</td><td>25 Lektionen</td></tr>
 <tr><td>alle übrigen Fächer</td><td>25 Lektionen</td></tr>
 </table>
+
+<sup>3a</sup> Entlastung für Klassenlehrpersonen: 0.25 Lektionen
 
 <sup>4</sup> Lehrperson I:
 
