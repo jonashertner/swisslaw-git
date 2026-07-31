@@ -4,13 +4,12 @@ number: 516b
 title: Studienreglement über die Weiterbildung der Pädagogischen Hochschule Luzern
 short: PH-Weiterbildungsreglement
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-02-28
+version: 2026-08-01
+version_adopted: 2026-07-01
 adopted: 2013-09-20
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516b"
-pdf: "https://srl.lu.ch/api/de/versions/4219/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4842/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,17 @@ pdf: "https://srl.lu.ch/api/de/versions/4219/pdf_file"
 
 (PH-Weiterbildungsreglement)
 
-vom 20.09.2013 (Stand 01.08.2024)
+vom 20.09.2013 (Stand 01.08.2026)
 
 Der Rektor der Pädagogischen Hochschule Luzern,
 
-gestützt auf § 14 Absatz 1j des Gesetzes über die Lehrerinnen- und Lehrerbildung und die Pädagogische Hochschule Luzern (PH-Gesetz) vom 10. Dezember 2012[^ingress-1] sowie auf Artikel 9 Absatz 2h des Statuts der Pädagogischen Hochschule Luzern (PH-Statut) vom 20. September 2013[^ingress-2],
+gestützt auf § 14 Absatz 1j des Gesetzes über die Lehrerinnen- und Lehrerbildung und die Pädagogische Hochschule Luzern (PH-Gesetz) vom 10. Dezember 2012[^ingress-1], auf die §§ 2 Absatz 5 und 13 der Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern (Schulgeldverordnung) vom 3. März 2015[^ingress-2] sowie auf Artikel 9 Absatz 2h des Statuts der Pädagogischen Hochschule Luzern (PH-Statut) vom 20. September 2013[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: SRL Nr. [515](https://srl.lu.ch/data/515/de)
-[^ingress-2]: SRL Nr. [516](https://srl.lu.ch/data/516/de)
+[^ingress-2]: SRL Nr. [544](https://srl.lu.ch/data/544/de)
+[^ingress-3]: SRL Nr. [516](https://srl.lu.ch/data/516/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -41,13 +41,14 @@ beschliesst:
 - a. das Verfahren für die Aufnahme von Bewerberinnen und Bewerbern in einen Weiterbildungsstudiengang an der Pädagogischen Hochschule Luzern (im Folgenden: PH Luzern) sowie die Voraussetzungen für das Bestehen von Studienleistungen und für den Abschluss eines Studiengangs,
 - b. die Aufnahme in einen Weiterbildungskurs und dessen Abschluss,
 - c. die Aufgaben der für die Weiterbildung zuständigen Organe,
-- d. das Disziplinarwesen.
+- d. das Disziplinarwesen,
+- e. die Erhebung von Gebühren und Kosten für Weiterbildungsangebote.
 
 #### Art. 2
 
 **Weiterbildungsangebot**
 
-<sup>1</sup> Als Weiterbildung im Sinne dieses Reglements gelten Weiterbildungsstudiengänge und Weiterbildungskurse.
+<sup>1</sup> Als Weiterbildungsangebot im Sinne dieses Reglements gelten Weiterbildungsstudiengänge und übrige Weiterbildungsangebote (z. B. Weiterbildungskurse).
 
 <sup>2</sup> Die PH Luzern bietet folgende Arten von Weiterbildungsstudiengängen an:
 
@@ -142,9 +143,9 @@ beschliesst:
 
 **Wiederholung**
 
-<sup>1</sup> Ein nicht bestandener Leistungsnachweis kann einmal wiederholt werden. Studierende, welche den Leistungsnachweis im Rahmen der Wiederholung nicht bestehen, müssen das ganze Modul wiederholen.
+<sup>1</sup> Ein nicht bestandener Leistungsnachweis kann zweimal wiederholt werden. Module, die aufgrund verletzter Präsenzpflicht nicht bestanden werden, können einmal wiederholt werden.
 
-<sup>2</sup> Ein Modul kann einmal wiederholt werden. Für die Wiederholung sind die gesamten Kosten des Moduls zu entrichten. Studierende, welche ein Modul auch im Rahmen der Wiederholung nicht bestehen, können das Studium nicht weiterführen.
+<sup>2</sup> Studierende, welche einen Leistungsnachweis oder ein Modul auch im Rahmen der letzten Wiederholungsmöglichkeit nicht bestehen, können das Studium nicht weiterführen.
 
 ### 2.4 Abschluss eines Weiterbildungsstudiengangs
 
@@ -192,12 +193,12 @@ beschliesst:
 
 <sup>1</sup> Das Diplom gilt als Ausweis über den bestandenen Studienabschluss und enthält den mit dem Studiengang verbundenen Titel.
 
-<sup>2</sup> Das Diplom wird von der Rektorin oder vom Rektor und von der Studiengangsleiterin oder dem Studiengangsleiter unterzeichnet. Sind andere anerkannte Hochschulen oder Bildungsinstitutionen an der Organisation und Durchführung eines Weiterbildungsstudiengangs beteiligt, kann ein gemeinsames Diplom ausgestellt werden. Es wird von der Rektorin oder vom Rektor und der Studiengangsleiterin oder dem Studiengangsleiter der PH Luzern sowie von den zuständigen Organen der beteiligten Hochschulen unterzeichnet.
+<sup>2</sup> Das Diplom wird von der Prorektorin oder vom Prorektor Weiterbildung und Dienstleistungen und von der Studiengangsleiterin oder dem Studiengangsleiter unterzeichnet. Sind andere anerkannte Hochschulen oder Bildungsinstitutionen an der Organisation und Durchführung eines Weiterbildungsstudiengangs beteiligt, kann ein gemeinsames Diplom ausgestellt werden. Es wird von der Prorektorin oder vom Prorektor Weiterbildung und Dienstleistungen und der Studiengangsleiterin oder dem Studiengangsleiter der PH Luzern sowie von den zuständigen Organen der beteiligten Hochschulen unterzeichnet.
 
-<sup>3</sup> Zusätzlich zum Diplom werden folgende Dokumente ausgestellt:
+<sup>3</sup> Zusätzlich zum Diplom wird folgendes Dokument ausgestellt:
 
-- a. ein Diplomzusatz, welcher den absolvierten Weiterbildungsstudiengang und die Ausbildungsziele näher beschreibt sowie
-- b. eine Notenabschrift, welche die Lern- und Leistungsdokumentation enthält.
+- a. …
+- b. eine Zusammenstellung der Studienleistungen, welche die Lern- und Leistungsdokumentation enthält.
 
 #### Art. 17
 
@@ -213,7 +214,7 @@ beschliesst:
 
 <sup>3</sup> Sind an einem Weiterbildungsstudiengang, der nicht von der EDK anerkannt werden muss, andere anerkannte Hochschulen beteiligt und soll ein gemeinsamer Titel verliehen werden, können diese im Titel gemäss Absatz 2 zusätzlich zur PH Luzern genannt werden.
 
-[^17-1]: Reglement über die Benennung der Diplome und der Weiterbildungsmaster im Bereich der Lehrerinnen- und Lehrerbildung im Rahmen der Bologna-Reform (Titelreglement) vom 28. Oktober 2005 ([Erlasssammlung der EDK](http://www.edk.ch) Ziff. 4.2.2.6. Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.).
+[^17-1]: Reglement über die Benennung der Diplome der schulischen Berufe der Sonderpädagogik im Rahmen der Bologna-Reform und der Weiterbildungsabschlüsse im Bereich der Lehrerinnen- und Lehrerbildung (Titelreglement) vom 28. Oktober 2005 ([Ziff. 4.2.2.6 Erlasssammlung der EDK](http://www.edk.ch)). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
 
 ## 3 Weiterbildungskurse
 
@@ -239,11 +240,16 @@ beschliesst:
 
 #### Art. 21
 
-**Prorektorin oder Prorektor Weiterbildung**
+**Prorektorin oder Prorektor Weiterbildung und Dienstleistungen**
 
-<sup>1</sup> Die Prorektorin oder der Prorektor Weiterbildung ist für sämtliche Belange zuständig, welche die Weiterbildung als Ganzes betreffen.
+<sup>1</sup> Die Prorektorin oder der Prorektor Weiterbildung und Dienstleistungen ist für sämtliche Belange zuständig, welche die Weiterbildung als Ganzes betreffen.
 
-<sup>2</sup> Sie oder er erlässt die Ausführungsbestimmungen zu diesem Reglement.
+<sup>2</sup> Sie oder er hat insbesondere folgende Aufgaben. Sie oder er
+
+- a. legt die Gebühren und Kosten für Weiterbildungsangebote nach Massgabe der Schulgeldverordnung[^21-1] fest,
+- b. erlässt die Ausführungsbestimmungen zu diesem Reglement.
+
+[^21-1]: SRL Nr. [544](https://srl.lu.ch/data/544/de). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
 
 #### Art. 22
 
@@ -314,19 +320,67 @@ beschliesst:
 
 <sup>1</sup> Die Programmleitung und die Studiengangsleiterin oder der Studiengangsleiter sind befugt, die Disziplinarmassnahmen gemäss Artikel 27 Absatz 1a bis d zu erteilen.
 
-<sup>2</sup> Der Prorektorin oder dem Prorektor Weiterbildung stehen alle Disziplinarkompetenzen zu.
+<sup>2</sup> Der Prorektorin oder dem Prorektor Weiterbildung und Dienstleistungen stehen alle Disziplinarkompetenzen zu.
+
+## 5a Gebühren und Kosten
+
+#### Art. 28a
+
+**Grundsatz**
+
+<sup>1</sup> Auf Gebühren und Kosten für Weiterbildungsangebote ist die Schulgeldverordnung anwendbar, sofern diese im Folgenden nicht ergänzt wird.
+
+#### Art. 28b
+
+**Anmeldung zu einem Weiterbildungsangebot**
+
+<sup>1</sup> Für die Teilnahme an einem Weiterbildungsangebot ist eine Anmeldung erforderlich. Das Nähere kann in Ausführungsbestimmungen festgelegt werden.
+
+<sup>2</sup> Die Anmeldung ist verbindlich.
+
+#### Art. 28c
+
+**Rechnungstellung**
+
+<sup>1</sup> Die Gebühren und Kosten für ein Weiterbildungsangebot werden in der Ausschreibung ausgewiesen. Sie werden mit der Rechnungstellung fällig.
+
+<sup>2</sup> Für Weiterbildungsstudiengänge werden die Gebühren und Kosten in der Regel zu Beginn und nach Ablauf der halben Studiendauer je hälftig in Rechnung gestellt.
+
+<sup>3</sup> Bei Holkursen und massgeschneiderten Angeboten werden die Kursgebühren für die gesamte Kursgruppe der Antragstellerin oder dem Antragsteller in Rechnung gestellt.
+
+<sup>4</sup> Die Gebühr für ein Aufnahmeverfahren ist separat in Rechnung zu stellen.
+
+#### Art. 28d
+
+**Kostenfolgen bei Beendigung eines Weiterbildungsstudiengangs**
+
+<sup>1</sup> Die Abmeldung von einem Weiterbildungsstudiengang oder dessen Abbruch sind der Studiengangsleiterin oder dem Studiengangsleiter schriftlich mitzuteilen.
+
+<sup>2</sup> Die Abmeldung von einem Weiterbildungsstudiengang ist bis spätestens 60 Tage vor Studienbeginn ohne Kostenfolge möglich. Wer die Anmeldung weniger als 60 Tage vor Studienbeginn zurückzieht oder das Studium bis 30 Tage nach Studienbeginn abbricht, hat 50 Prozent der Studiengebühren zu entrichten.
+
+<sup>3</sup> Wer einen Weiterbildungsstudiengang später als 30 Tage nach Studienbeginn abbricht, hat die gesamten Gebühren und Kosten zu entrichten.
+
+<sup>4</sup> Über Ausnahmen aus wichtigen Gründen hinsichtlich der Kostenfolge entscheidet die Prorektorin oder der Prorektor Weiterbildung und Dienstleistungen.
+
+<sup>5</sup> Im Falle einer Abmeldung von einer Studienleistung (z. B. Abschlussarbeit) nach Ablauf der Anmeldefrist wird die Gebühr nicht rückerstattet.
+
+<sup>6</sup> Gebühren für Aufnahmeverfahren werden nicht rückerstattet.
+
+#### Art. 28e
+
+**Kostenfolgen bei Beendigung von übrigen Weiterbildungsangeboten**
+
+<sup>1</sup> Die Abmeldung ist der PH Luzern schriftlich mitzuteilen. Sie ist bis spätestens 30 Tage vor Beginn des Weiterbildungsangebots ohne Kostenfolge möglich.
+
+<sup>2</sup> Wer sich innerhalb von 30 Tagen vor Beginn abmeldet oder ein Weiterbildungsangebot nach Beginn abbricht, hat die gesamten Gebühren und Kosten gemäss Kursausschreibung zu entrichten. Über Ausnahmen aus wichtigen Gründen entscheidet die Prorektorin oder der Prorektor Weiterbildung und Dienstleistungen.
+
+<sup>3</sup> Gebühren für Aufnahmeverfahren werden nicht rückerstattet.
 
 ## 6 Schlussbestimmungen
 
 #### Art. 29
 
-**Rückzug der Anmeldung und Abbruch der Weiterbildung**
-
-<sup>1</sup> Der Rückzug der Anmeldung zu einem Weiterbildungsangebot und dessen vorzeitige Beendigung sind der Studiengangsleiterin oder dem Studiengangsleiter schriftlich mitzuteilen.
-
-<sup>2</sup> Wer die Anmeldung für einen Studiengang innerhalb von 30 Tagen vor Studienbeginn zurückzieht, hat 50 Prozent der Studiengebühren zu entrichten, wenn keine Ersatzteilnehmerin oder kein Ersatzteilnehmer gefunden wird. Wer die Anmeldung zu einem anderen Weiterbildungsangebot innerhalb von 30 Tagen vor Beginn zurückzieht, hat die gesamten Kosten zu zahlen.
-
-<sup>3</sup> Wer eine Weiterbildung vorzeitig abbricht, hat die gesamten Kosten der Weiterbildung zu entrichten. Vorbehalten bleibt ein teilweiser Erlass bei Vorliegen triftiger Gründe.
+**…**
 
 #### Art. 30
 
