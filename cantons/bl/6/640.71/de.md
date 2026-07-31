@@ -4,13 +4,12 @@ number: "640.71"
 title: "Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung"
 short: "Verordnung Sonderpädagogik, Vo SoPä"
 language: de
-version: 2025-01-01
-valid_until: 2026-07-31
-version_adopted: 2024-11-19
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 2021-06-22
 in_force: 2021-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.71"
-pdf: "https://bl.clex.ch/api/de/versions/4004/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4004/pdf_file"
 
 (Verordnung Sonderpädagogik, Vo SoPä)
 
-Vom 22.06.2021 (Stand 01.01.2025)
+Vom 22.06.2021 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -74,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Folgende Fachstellen führen Abklärungen durch:
 
-- a. der Schulpsychologische Dienst (SPD) und die Kinder- und Jugendpsychiatrie (KJP) für Angebote der Speziellen Förderung (ausser den pädagogisch-therapeutischen Massnahmen) und Sonderschulung;
+- a. der Schulpsychologische Dienst (SPD) für Angebote der Speziellen Förderung (ausser den pädagogisch-therapeutischen Massnahmen) und Sonderschulung;
 - b. die Logopädischen Dienste und das Fachzentrum für Psychomotorik für pädagogisch-therapeutische Massnahmen;
 - c. die Fachzentren für heilpädagogische Früherziehung für Massnahmen der heilpädagogischen Früherziehung.
 
@@ -82,7 +81,7 @@ beschliesst:
 
 <sup>3</sup> Fallführend ist:
 
-- a. für schulische Abklärungen der SPD, für kinder- und jugendpsychiatrische Abklärungen oder für Schülerinnen und Schüler, die bereits bei ihr in Behandlung sind, die KJP;
+- a. für schulische Abklärungen der SPD;
 - b. für pädagogisch-therapeutische Massnahmen der kommunale Logopädische Dienst oder das Fachzentrum für Psychomotorik.
 
 <sup>4</sup> Grundsätzlich ist die fallführende Fachstelle zuständig für die Empfehlungen an die zuweisende Schulleitung oder Dienststelle.
@@ -169,6 +168,8 @@ beschliesst:
 **Logopädie**
 
 <sup>1</sup> Schülerinnen und Schüler bis Ende der Sekundarstufe II sowie Kinder vor der Einschulung mit einer diagnostizierten Störung in der Sprach- und Kommunikationsentwicklung können mit der pädagogisch-therapeutischen Massnahme Logopädie unterstützt werden.
+
+<sup>1<sup>bis</sup></sup> Eine Lektion Logopädie-Therapie dauert 45 Minuten.
 
 <sup>2</sup> Logopädie dauert je nach diagnostizierter Störung maximal 3 Jahre. Über Ausnahmen entscheidet die Schulleitung.
 
@@ -297,7 +298,7 @@ beschliesst:
 
 <sup>1</sup> Für die Logopädie steht der Schulleitung am Ort des zuständigen Logopädischen Dienstes ein Lektionen-Pool zur Verfügung.
 
-<sup>2</sup> Der Lektionen-Pool richtet sich nach der Anzahl Schülerinnen und Schüler. Für je 570 Schülerinnen und Schüler der Primarstufe und der Sekundarstufe I stehen dem zuständigen logopädischen Dienst 27 Lektionen zur Verfügung (Datenbasis Lektionen Schuljahr 2021/22).
+<sup>2</sup> Der Lektionen-Pool richtet sich nach der Anzahl Schülerinnen und Schüler. Für je 570 Schülerinnen und Schüler der Primarstufe und der Sekundarstufe I stehen dem zuständigen logopädischen Dienst 28 Lektionen zur Verfügung (Datenbasis: Lektionen Schuljahr 2021/22).
 
 <sup>3</sup> Die Schulleitungen melden dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die budgetierten Lektionen anhand der Vorgaben gemäss Abs. 2.
 
@@ -305,7 +306,7 @@ beschliesst:
 
 <sup>5</sup> Logopädische Massnahmen für Kinder vor der Einschulung und auf der Sekundarstufe II werden vom zuständigen Logopädischen Dienst durchgeführt. Sie sind im Lektionen-Pool mitberücksichtigt.
 
-<sup>6</sup> Für die logopädischen Massnahmen für Schülerinnen und Schüler auf den Sekundarstufen I und II sowie der Integrativen Sonderschulung werden den Gemeinden vom Kanton semesterweise die Lohnkosten zuzüglich einer Infrastrukturpauschale von CHF 250.– abgegolten.
+<sup>6</sup> Für die logopädischen Massnahmen für Schülerinnen und Schüler auf den Sekundarstufen I und II sowie Schülerinnen und Schüler der Integrativen Sonderschulung mit Förderschwerpunkt Kommunikation und Sprache werden den Gemeinden vom Kanton semesterweise die Lohnkosten zuzüglich einer Infrastrukturpauschale von CHF 250.– abgegolten.
 
 #### § 17
 
@@ -363,17 +364,17 @@ beschliesst:
 
 #### § 21
 
-**Angeordnete Abklärung durch SPD und KJP**
+**Angeordnete Abklärung durch SPD**
 
 <sup>1</sup> Wird die Abklärung auf Antrag der Schulleitung vom Amt für Volksschulen, Hauptabteilung Sonderpädagogik, angeordnet, erfolgt die Anmeldung durch dieses.
 
-<sup>2</sup> Bei angeordneter Abklärung können die Erziehungsberechtigten dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, eine Abklärung bei der von ihnen gewünschten kantonalen Fachstelle beantragen.
+<sup>2</sup> …
 
-<sup>3</sup> Mit der Anordnung der Abklärung verfügt das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, den Zeitrahmen, in welchem sich die Erziehungsberechtigten bei der abklärenden Fachstelle melden müssen.
+<sup>3</sup> Sobald die Anordnung in Rechtskraft erwachsen ist, lädt der SPD die Schülerin oder den Schüler, in der Regel zusammen mit den Erziehungsberechtigten, zur Abklärung ein.
 
-<sup>4</sup> Zur Prüfung einer allfällig notwendigen Beschulung an einer Privatschule oder einem Spezialangebot wird über das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, ein Fachkonvent einberufen. An ihm beteiligt sind das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die abklärende Fachstelle, die zuständige Schulleitung und bereits involvierte Fachpersonen. Die Erziehungsberechtigten haben die Möglichkeit, ihre Anliegen vorgängig schriftlich oder telefonisch einzubringen.
+<sup>4</sup> Zur Prüfung einer allfällig notwendigen Beschulung an einer Privatschule oder einem Spezialangebot wird über das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, ein Fachkonvent einberufen. An ihm beteiligt sind das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, der SPD, die zuständige Schulleitung und bereits involvierte Fachpersonen. Die Erziehungsberechtigten haben die Möglichkeit, ihre Anliegen vorgängig schriftlich oder telefonisch einzubringen.
 
-<sup>5</sup> Die abklärende Fachstelle überweist die Empfehlungen zur Umsetzung von schulischen Massnahmen den Erziehungsberechtigten, der zuständigen Schulleitung und bei Empfehlungen für eine Privatschule oder ein Spezialangebot dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik. Für Massnahmen im Zuständigkeitsbereich der Schulleitungen informiert sie das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, über die Auftragserledigung.
+<sup>5</sup> Der SPD überweist die Empfehlungen zur Umsetzung von schulischen Massnahmen den Erziehungsberechtigten, der zuständigen Schulleitung und bei Empfehlungen für eine Privatschule oder ein Spezialangebot dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik. Für Massnahmen im Zuständigkeitsbereich der Schulleitungen informiert sie das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, über die Auftragserledigung.
 
 #### § 22
 
@@ -381,7 +382,7 @@ beschliesst:
 
 <sup>1</sup> Bei indiziertem Förderbedarf von Integrativer Spezieller Förderung mit individuellen Lernzielen, Logopädie, der Beschulung in einer Kleinklasse legt die Schulleitung, gestützt auf die Empfehlungen der Abklärungsstelle, angemessene Massnahmen fest und weist sie zu.
 
-<sup>2</sup> Bei Logopädie auf den Sekundarstufen I und II und der Integrativen Sonderschulung nimmt die Schulleitung vorgängig zum Entscheid Rücksprache mit der zuständigen Dienststelle bezüglich der Kostengutsprache.
+<sup>2</sup> Bei Logopädie auf den Sekundarstufen I und II und der Integrativen Sonderschulung mit Förderschwerpunkt Kommunikation und Sprache nimmt die Schulleitung vorgängig zum Entscheid Rücksprache mit der zuständigen Dienststelle bezüglich der Kostengutsprache.
 
 <sup>3</sup> Bei indiziertem Förderbedarf an einer Privatschule oder in einem Spezialangebot kann das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, auf Antrag der Erziehungsberechtigten, der Empfehlung der abklärenden Fachstelle und unter Berücksichtigung der Ergebnisse des Fachkonvents eine Spezielle Förderung an einer Privatschule oder in einem Spezialangebot bewilligen. Eine Bewilligung kann dann erteilt werden, wenn alle Möglichkeiten der Speziellen Förderung an der öffentlichen Schule ausgeschöpft sind. Auf der Primarstufe bedarf es zudem der vorgängigen Rücksprache mit dem Schulrat und der Kostengutsprache der Gemeinde. Sofern die Gemeinde sich für ein Führungsmodell mit Gemeinderat entscheidet, ist mit diesem Rücksprache zu nehmen.
 
@@ -393,7 +394,7 @@ beschliesst:
 
 <sup>7</sup> Die zugewiesenen Massnahmen werden von der zuweisenden Stelle jährlich überprüft.
 
-<sup>8</sup> Massnahmen für Logopädie werden für höchstens 2 Jahre verfügt. Sie können auf Antrag des Logopädischen Dienstes, im Einverständnis mit den Erziehungsberechtigten um maximal 1 Jahr verlängert werden. Bei Schülerinnen und Schülern der Sekundarstufen I und II und der Integrativen Sonderschulung meldet die zuweisende Schulleitung dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die Zuweisungsentscheide.
+<sup>8</sup> Massnahmen für Logopädie werden mit Ausnahme der Integrativen Sonderschulung mit Förderschwerpunkt Kommunikation und Sprache für höchstens 2 Jahre verfügt. Sie können auf Antrag des Logopädischen Diensts, im Einverständnis mit den Erziehungsberechtigten um maximal 1 Jahr verlängert werden. Bei Schülerinnen und Schülern der Sekundarstufen I und II und der Integrativen Sonderschulung mit Förderschwerpunkt Kommunikation und Sprache meldet die zuweisende Schulleitung dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die Zuweisungsentscheide.
 
 <sup>9</sup> Die Zuweisung zu individuellen Unterstützungsmassnahmen auf der Sekundarstufe II erfolgt entsprechend dem Zuständigkeitsbereich durch die Dienststelle Berufs-, Mittel- und Hochschulen bzw. bei stationären Unterbringungen durch das Amt für Kind, Jugend und Behindertenangebote. Im Übrigen richtet sich die Zuweisung sinngemäss nach den §§ 39 und 40.
 
@@ -557,15 +558,15 @@ beschliesst:
 
 **Abklärung für die Sonderschulung**
 
-<sup>1</sup> In der Regel melden die Erziehungsberechtigten ihr Kind bei der abklärenden Fachstelle gemäss § 4 Abs. 1 Bst. a zur Abklärung an.
+<sup>1</sup> In der Regel melden die Erziehungsberechtigten ihr Kind beim SPD zur Abklärung an.
 
-<sup>2</sup> Die abklärende Fachstelle erhebt den Sonderschulbedarf über das Standardisierte Abklärungsverfahren (SAV). Sie kann Dritte für fachspezifische Untersuchungen beiziehen.
+<sup>2</sup> Der SPD erhebt den Sonderschulbedarf über das Standardisierte Abklärungsverfahren (SAV). Er kann Dritte für fachspezifische Untersuchungen beiziehen.
 
-<sup>3</sup> Zur Prüfung der Möglichkeiten der Integrativen Schulung wird in der Regel in Absprache mit dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, durch die Schulleitung ein Fachkonvent einberufen. An ihm beteiligt sind das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die abklärende Fachstelle, die zuständige Schulleitung, das heilpädagogische Fachzentrum und bereits involvierte Fachpersonen. Die Erziehungsberechtigten haben die Möglichkeit, ihre Anliegen vorgängig schriftlich oder telefonisch einzubringen.
+<sup>3</sup> Zur Prüfung der Möglichkeiten der Integrativen Schulung wird in der Regel in Absprache mit dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, durch die Schulleitung ein Fachkonvent einberufen. An ihm beteiligt sind das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, der SPD, das heilpädagogische Fachzentrum und bereits involvierte Fachpersonen. Die Erziehungsberechtigten haben die Möglichkeit, ihre Anliegen vorgängig schriftlich oder telefonisch einzubringen.
 
-<sup>4</sup> Die abklärende Fachstelle überweist den Abklärungsbericht mit Empfehlungen zur Umsetzung von schulischen Massnahmen entsprechend dem besonderen Bildungsbedarf nach dem Fachkonvent an die Erziehungsberechtigten und unter Vorbehalt von § 38 Abs. 1 an das Amt für Volksschulen, Hauptabteilung Sonderpädagogik,.
+<sup>4</sup> Der SPD überweist den Abklärungsbericht mit Empfehlungen zur Umsetzung von schulischen Massnahmen entsprechend dem besonderen Bildungsbedarf nach dem Fachkonvent an die Erziehungsberechtigten und unter Vorbehalt von § 38 Abs. 1 an das Amt für Volksschulen, Hauptabteilung Sonderpädagogik.
 
-<sup>5</sup> Die abklärende Fachstelle begleitet die schulischen Massnahmen.
+<sup>5</sup> Der SPD begleitet die schulischen Massnahmen.
 
 #### § 37
 
@@ -573,27 +574,27 @@ beschliesst:
 
 <sup>1</sup> Wird die Abklärung auf Antrag der Schulleitung vom Amt für Volksschulen, Hauptabteilung Sonderpädagogik, angeordnet, erfolgt die Anmeldung durch dieses.
 
-<sup>2</sup> Bei angeordneter Abklärung können die Erziehungsberechtigten dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, eine Abklärung bei der von ihnen gewünschten kantonalen Fachstelle beantragen.
+<sup>2</sup> …
 
-<sup>3</sup> Mit der Anordnung der Abklärung verfügt das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, den Zeitrahmen, in welchem sich die Erziehungsberechtigten bei der abklärenden Fachstelle melden müssen.
+<sup>3</sup> Sobald die Anordnung in Rechtskraft erwachsen ist, lädt der SPD die Schülerin oder den Schüler, in der Regel zusammen mit den Erziehungsberechtigten, zur Abklärung ein.
 
-<sup>4</sup> Die abklärende Fachstelle erhebt den Sonderschulbedarf über das Standardisierte Abklärungsverfahren (SAV). Sie kann Dritte für fachspezifische Untersuchungen beiziehen.
+<sup>4</sup> Der SPD erhebt den Sonderschulbedarf über das Standardisierte Abklärungsverfahren (SAV). Er kann Dritte für fachspezifische Untersuchungen beiziehen.
 
-<sup>5</sup> Zur Prüfung der Möglichkeiten der Integrativen Schulung wird in der Regel über das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, ein Fachkonvent einberufen. An ihm beteiligt sind das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die abklärende Fachstelle, die zuständige Schulleitung, das heilpädagogische Fachzentrum und bereits involvierte Fachpersonen.
+<sup>5</sup> Zur Prüfung der Möglichkeiten der Integrativen Schulung wird in der Regel über das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, ein Fachkonvent einberufen. An ihm beteiligt sind das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, der SPD, die zuständige Schulleitung, das heilpädagogische Fachzentrum und bereits involvierte Fachpersonen.
 
-<sup>6</sup> Die abklärende Fachstelle überweist den Abklärungsbericht mit Empfehlungen zur Umsetzung von schulischen Massnahmen den Erziehungsberechtigten, dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, und gegebenenfalls gemäss § 38 Abs. 1 dem Amt für Kind, Jugend und Behindertenangebote.
+<sup>6</sup> Der SPD überweist den Abklärungsbericht mit Empfehlungen zur Umsetzung von schulischen Massnahmen den Erziehungsberechtigten, dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, und gegebenenfalls gemäss § 38 Abs. 1 dem Amt für Kind, Jugend und Behindertenangebote.
 
 #### § 38
 
 **Abklärung für schulische Massnahmen bei Unterbringung in stationären Einrichtungen**
 
-<sup>1</sup> Ist eine stationäre Unterbringung mit stationärer Beschulung notwendig, überweist die abklärende Fachstelle den Abklärungsbericht mit der Empfehlung zur Umsetzung von schulischen Massnahmen entsprechend dem besonderen Bildungsbedarf, mit Angaben zur Dauer der schulischen Massnahme, den Erziehungsberechtigten und dem Amt für Kind, Jugend und Behindertenangebote.
+<sup>1</sup> Ist eine stationäre Unterbringung mit stationärer Beschulung notwendig, überweist der SPD den Abklärungsbericht mit der Empfehlung zur Umsetzung von schulischen Massnahmen entsprechend dem besonderen Bildungsbedarf, mit Angaben zur Dauer der schulischen Massnahme, den Erziehungsberechtigten und dem Amt für Kind, Jugend und Behindertenangebote.
 
 <sup>2</sup> Die Überweisung von Abklärungsbericht und Empfehlung erfolgt nach Rücksprache betreffend die Unterbringung der Schülerin oder des Schülers mit der Kindesschutzbehörde oder der indizierenden Stelle gemäss § 25 der Verordnung über die Kinder- und Jugendhilfe vom 3. Dezember 2013[^38-1]. Sie muss vor Beginn der Massnahme erfolgen.
 
 <sup>3</sup> Erlaubt es die soziale Situation und ist eine Beschulung in der Regelschule mit ihrer Speziellen Förderung oder in der Integrativen Sonderschulung nicht ausgeschlossen, wird ein Fachkonvent analog zu § 36 Abs. 3 unter Beizug der Kindesschutzbehörde oder der betreffend die Unterbringung der Schülerin oder des Schülers indizierenden Stelle und der Schulleitung der vorgesehenen Regelschule durchgeführt. Die Erziehungsberechtigten haben die Möglichkeit, ihre Anliegen vorgängig schriftlich oder telefonisch einzubringen.
 
-<sup>4</sup> Die abklärende Fachstelle begleitet die schulischen bzw. sonderschulischen Massnahmen.
+<sup>4</sup> Der SPD begleitet die schulischen bzw. sonderschulischen Massnahmen.
 
 [^38-1]: [SGS 850.15](https://bl.clex.ch/data/850.15/de/art25)
 
@@ -615,7 +616,7 @@ beschliesst:
 
 **Zuweisung zu stationärer Sonderschulung**
 
-<sup>1</sup> Das Amt für Kind, Jugend und Behindertenangebote prüft in seinem Zuständigkeitsbereich die Empfehlung der abklärenden Fachstelle und weist entsprechend dem Bedarf die Beschulung in stationären Einrichtungen zu.
+<sup>1</sup> Das Amt für Kind, Jugend und Behindertenangebote prüft in seinem Zuständigkeitsbereich die Empfehlung des SPD und weist entsprechend dem Bedarf die Beschulung in stationären Einrichtungen zu.
 
 <sup>2</sup> Eine Zuweisung wird nur vorgenommen, wenn gleichzeitig die Voraussetzungen für die Unterbringung gemäss den Bestimmungen der Kinder- und Jugendhilfe der Sozialhilfegesetzgebung erfüllt sind.
 
@@ -631,7 +632,7 @@ beschliesst:
 
 **Überprüfung des Bedarfs**
 
-<sup>1</sup> Die Verlängerung oder Änderung der Zuweisung erfolgt gestützt auf eine Empfehlung der abklärenden Fachstelle und auf einen Lernbericht der Institution bzw. der Schule, die mit der Durchführung der Massnahme beauftragt ist.
+<sup>1</sup> Die Verlängerung oder Änderung der Zuweisung erfolgt gestützt auf eine Empfehlung des SPD und auf einen Lernbericht der Institution bzw. der Schule, die mit der Durchführung der Massnahme beauftragt ist.
 
 <sup>2</sup> Die zuweisende Dienststelle überprüft den Bedarf, gibt den Erziehungsberechtigten die Möglichkeit einer Stellungnahme und entscheidet mittels Verfügung.
 
@@ -639,7 +640,7 @@ beschliesst:
 
 **Spezielle Bestimmungen zur Abklärung und Zuweisung der Psychomotorik**
 
-<sup>1</sup> Für die Inanspruchnahmen von Psychomotorik melden die Erziehungsberechtigten ihr Kind gestützt auf eine fachärztliche bzw. eine SPD oder KJP Indikation beim Fachzentrum für Psychomotorik gemäss § 4 zur Abklärung an.
+<sup>1</sup> Für die Inanspruchnahmen von Psychomotorik melden die Erziehungsberechtigten ihr Kind gestützt auf eine fachärztliche Zuweisung bzw. eine SPD Indikation beim Fachzentrum für Psychomotorik gemäss § 4 zur Abklärung an.
 
 <sup>2</sup> Bei abgeklärtem Förderbedarf reichen die Erziehungsberechtigten ein Gesuch für Psychomotorik mit einer Empfehlung des Fachzentrums für Psychomotorik an das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, ein.
 
@@ -671,7 +672,7 @@ beschliesst:
 
 <sup>3</sup> Beratungsleistungen bis maximal 30 Stunden pro Semester und Schülerin oder Schüler sind bewilligungsfrei.
 
-<sup>4</sup> Sie können auf Antrag der Erziehungsberechtigten, der Lehrpersonen oder der Schulleitung an das Heilpädagogische Fachzentrum und ohne Abklärung durch den SPD bzw. die KJP durchgeführt werden.
+<sup>4</sup> Sie können auf Antrag der Erziehungsberechtigten, der Lehrpersonen oder der Schulleitung an das Heilpädagogische Fachzentrum und ohne Abklärung durch den SPD durchgeführt werden.
 
 <sup>5</sup> Alle Massnahmen mit einem höheren Zeitbedarf gelten als Unterstützungsleistung und werden gemäss §§ 36 bzw. 37 und 39 zugewiesen.
 
