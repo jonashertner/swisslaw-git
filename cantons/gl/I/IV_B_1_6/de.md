@@ -4,13 +4,12 @@ number: IV B/1/6
 title: Verordnung über den privaten Einzelunterricht und die Privatschulen
 short: "Privatbeschulungsverordnung, PSchuV"
 language: de
-version: 2023-01-01
-valid_until: 2026-07-31
-version_adopted: 2022-11-22
+version: 2026-08-01
+version_adopted: 2026-03-10
 adopted: 2022-11-22
 in_force: 2023-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/2369/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2369/pdf_file"
 
 (Privatbeschulungsverordnung, PSchuV)
 
-Vom 22.11.2022 (Stand 01.01.2023)
+Vom 22.11.2022 (Stand 01.08.2026)
 
 Der Regierungsrat,
 
@@ -92,7 +91,7 @@ erlässt:
 
 <sup>1</sup> Schülerinnen und Schüler, die eine Privatschule besuchen oder privat unterrichtet werden, können an ihrem Wohnort Logopädie und Psychomotorik einschliesslich der dafür notwendigen Abklärungen besuchen.
 
-<sup>2</sup> Die Schulkommission entscheidet über Art und Umfang dieser Leistungen.
+<sup>2</sup> Die Hauptschulleitung entscheidet über Art und Umfang dieser Leistungen.
 
 <sup>3</sup> Im Übrigen besteht kein Anspruch auf die ausserhalb des ordentlichen Unterrichts von der öffentlichen Volksschule oder im Rahmen der Sonderschulung im Unterricht zur Verfügung gestellten Leistungen.
 
