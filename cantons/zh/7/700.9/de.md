@@ -4,10 +4,10 @@ number: "700.9"
 title: Mehrwertausgleichsgesetz (MAG)
 short: MAG
 language: de
-nachtrag: "111"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "134"
 adopted: 2019-10-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_9-2019_10_28-2021_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_9-2019_10_28-2021_01_01-134.html"
 text: pdf
 ---
 
@@ -64,7 +64,7 @@ In diesem Gesetz bedeuten:
 
 **1**
 
-- 1\. 1. 21 - 111 § 3. <sup>1</sup> Der Mehrwert entspricht der Differenz zwischen den Verkehrswerten eines Grundstücks ohne und mit Planungsmassnahme.
+1.10. 26 - 134 § 3. <sup>1</sup> Der Mehrwert entspricht der Differenz zwischen den Verkehrswerten eines Grundstücks ohne und mit Planungsmassnahme.
 
 **Bemessung des Mehrwerts**
 
@@ -160,7 +160,7 @@ Für die Mehrwertabgabe steht dem Kanton an den von der Planungsmassnahme betrof
 
 **3**
 
-- 1\. 1. 21 - 111
+1.10. 26 - 134
 
 <sup>4</sup> Liegen besondere Verhältnisse vor, können fällige Beträge gestundet oder Ratenzahlungen bewilligt werden.
 
@@ -182,13 +182,19 @@ Die Mehrwertabgabeforderung verjährt 15 Jahre nach Ablauf des Jahres, in dem di
 
 Die Erträge aus dem kantonalen Mehrwertausgleich fliessen in den kantonalen Mehrwertausgleichsfonds.
 
-#### § 15
+**Verwaltung, Verschuldung**
 
-**Verwaltung**
+§ 15.[^14-1] <sup>1</sup> Der Fonds wird von der Direktion verwaltet.
 
-<sup>1</sup> Der Fonds wird von der Direktion verwaltet.
+<sup>2</sup> Die Kosten der Äufnung der Fondserträge und der Fondsverwaltung werden dem Fonds belastet.
 
-<sup>2</sup> Die Kosten für die Äufnung der Fondserträge und der Fondsverwaltung werden dem Fonds belastet. Dafür ist eine vorübergehende Verschuldung zulässig.
+<sup>3</sup> Der Fonds kann sich vorübergehend verschulden für:
+
+- a. die Kosten gemäss Abs. 2,
+
+- b. Beiträge an Entschädigungen gemäss § 16 Abs. 1 lit. a im Umfang von höchstens 50 Mio. Franken.
+
+[^14-1]: Fassung gemäss G vom 26. Januar 2026 (OS 81, 353: ABl 2024-07-05). In Kraft seit 1. August 2026.
 
 #### § 16
 
@@ -254,15 +260,15 @@ Das Verhältnis zwischen Fonds und regionalen Planungsverbänden sowie Gemeinden
 
 <sup>1</sup> Städtebauliche Verträge regeln Rechte und Pflichten von Bauherrschaft und Gemeinwesen im Zusammenhang mit der Verwirklichung eines Bauvorhabens.
 
+**5**
+
+1.10. 26 - 134
+
 <sup>2</sup> Gegenstand der Verträge können insbesondere sein:
 
 - a. die Beteiligung der Bauherrschaft an der Infrastruktur, insbesondere an der Förderung des öffentlichen Verkehrs und der Zugänglichkeit der Haltestellen,
 
 - b. die Beteiligung der Bauherrschaft an der Gestaltung des öffentlichen Raums, insbesondere an der Erstellung und Gestaltung von Parks, Plätzen, Grünanlagen und Erholungseinrichtungen und anderen öffentlich zugänglichen Freiräumen,
-
-**5**
-
-- 1\. 1. 21 - 111
 
 - c. die Beteiligung der Bauherrschaft an öffentlichen Einrichtungen von kommunaler Bedeutung für Soziales, Gesundheit und Bildung,
 
@@ -348,10 +354,11 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 
 **7**
 
-- 1\. 1. 21 - 111
+1.10. 26 - 134
 
 <sup>3</sup> Vor dem Inkrafttreten vereinbarte oder geleistete Ausgleichsleistungen, die Planungsmassnahmen betreffen, die nach dem Inkrafttreten festgesetzt werden und eine Mehrwertabgabe zur Folge haben, werden vollständig angerechnet.
 
-<sup>4</sup> Die Gemeinden ändern ihre Bau- und Zonenordnungen gemäss § 19 bis 1. März 2025.
+<sup>4</sup> Die Gemeinden ändern ihre Bau- und Zonenordnungen gemäss § 19 bis 1. März 2028.[^28-2]
 
 [^28-1]: Text siehe OS 75, 626.
+[^28-2]: Fassung gemäss G vom 26. Januar 2026 (OS 81, 353: ABl 2024-07-05). In Kraft seit 1. August 2026.
