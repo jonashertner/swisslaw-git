@@ -4,11 +4,11 @@ title: "Loi fédérale du 7 octobre 1983 sur la protection de l'environnement (L
 short: LPE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: fr
-version: 2026-04-01
+version: 2026-08-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/fr"
 
 (Loi sur la protection de l’environnement, LPE)
 
-du 7 octobre 1983 (État le 1<sup>er</sup> avril 2026)
+du 7 octobre 1983 (État le 1<sup>er</sup> août 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -803,7 +803,13 @@ S’ils ne parviennent pas à se mettre d’accord, ils proposent des solutions 
 
 <sup>3</sup> Le détenteur doit disposer ses déchets de telle façon qu’ils puissent être collectés par les services mandatés à cet effet par les cantons ou les remettre aux points de collecte définis par ces derniers.
 
+<sup>4 à <sup>6</sup></sup> …[^31b-2]
+
+<sup>7</sup> Le détenteur ne doit pas jeter ou abandonner des déchets même en petites quantités tels que des emballages ou des mégots ailleurs que dans des collectes prévues à cet effet. Les cantons peuvent prévoir des dérogations à cette interdiction lors d’événements soumis à autorisation.[^31b-3]
+
 [^31b-1]: Nouvelle teneur selon le ch. II de la LF du 20 juin 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [FF 1996 IV 1213](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^31b-2]: Entrent en vigueur ultérieurement.
+[^31b-3]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31c
 
@@ -2157,6 +2163,8 @@ Sera puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 
 <sup>3</sup> La tentative et la complicité sont punissables.
 
+<sup>4</sup> Sera puni d’une amende de 300 francs au plus quiconque, intentionnellement ou par négligence, aura jeté ou abandonné de manière illicite des déchets même en petites quantités (art. 31*b*, al. 7).[^61-8]
+
 [^61-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^61-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^61-3]: Nouvelle teneur selon le ch. III de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
@@ -2164,6 +2172,7 @@ Sera puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 [^61-5]: Introduite par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 [^61-6]: Anciennement: expertises des types et marques d’épreuve.
 [^61-7]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-8]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61a
 

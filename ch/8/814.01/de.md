@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzges
 short: USG
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: de
-version: 2026-04-01
+version: 2026-08-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/de"
 
 (Umweltschutzgesetz, USG)
 
-vom 7. Oktober 1983 (Stand am 1. April 2026)
+vom 7. Oktober 1983 (Stand am 1. August 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -800,7 +800,13 @@ Können sie sich nicht einigen, so unterbreiten sie dem Bund Lösungsvorschläge
 
 <sup>3</sup> Der Inhaber muss die Abfälle den von den Kantonen vorgesehenen Sammlungen oder Sammelstellen übergeben.
 
+<sup>4-6</sup> …[^31b-2]
+
+<sup>7</sup> Selbst kleine Mengen von Abfällen, wie Verpackungen oder Zigarettenstummel, dürfen nicht ausserhalb der vorgesehenen Sammlungen weggeworfen oder liegengelassen werden. Die Kantone können bei bewilligungspflichtigen Veranstaltungen Ausnahmen von diesem Verbot vorsehen.[^31b-3]
+
 [^31b-1]: Fassung gemäss Ziff. II des BG vom 20. Juni 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^31b-2]: Treten zu einem späteren Zeitpunkt in Kraft
+[^31b-3]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2026 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31c
 
@@ -2153,6 +2159,8 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 
 <sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
+<sup>4</sup> Mit Busse bis zu 300 Franken wird bestraft, wer widerrechtlich vorsätzlich oder fahrlässig Abfälle, selbst kleine Mengen, wegwirft oder liegenlässt (Art. 31*b* Abs. 7).[^61-8]
+
 [^61-1]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^61-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^61-3]: Fassung gemäss Ziff. III des BG vom 27. Sept. 2024, in Kraft seit 1. April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
@@ -2160,6 +2168,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:[^61-1]
 [^61-5]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
 [^61-6]: Früher: Typenprüfungen und Kennzeichnungen
 [^61-7]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-8]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Aug. 2026 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61a
 

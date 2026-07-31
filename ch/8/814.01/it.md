@@ -4,11 +4,11 @@ title: "Legge federale del 7 ottobre 1983 sulla protezione dell'ambiente (Legge 
 short: LPAmb
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: it
-version: 2026-04-01
+version: 2026-08-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/it"
 
 (Legge sulla protezione dell’ambiente, LPAmb[^t-1])
 
-del 7 ottobre 1983 (Stato 1° aprile 2026)
+del 7 ottobre 1983 (Stato 1° agosto 2026)
 
 [^t-1]: Nuova abbreviazione giusta l’art. 1 lett. e dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi, in vigore dal 1° feb. 1996 ([RU 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
@@ -803,7 +803,13 @@ Se non riescono a trovare un accordo, i Cantoni propongono soluzioni alla Confed
 
 <sup>3</sup> Il detentore deve consegnare i rifiuti nell’ambito delle azioni di raccolta previste dai Cantoni oppure nei posti di raccolta stabiliti dai Cantoni.
 
+<sup>4–6</sup> …[^31b-2]
+
+<sup>7</sup> È vietato gettare o abbandonare rifiuti, anche in piccole quantità, come imballaggi o mozziconi di sigaretta, al di fuori dei posti di raccolta. I Cantoni possono prevedere eccezioni per le manifestazioni soggette ad autorizzazione.[^31b-3]
+
 [^31b-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^31b-2]: Entrano in vigore in un secondo tempo.
+[^31b-3]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2026 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31c
 
@@ -2160,6 +2166,8 @@ In caso di circostanze aggravanti la pena è una pena detentiva sino a cinque an
 
 <sup>3</sup> Il tentativo e la complicità sono punibili.
 
+<sup>4</sup> È punito con la multa sino a 300 franchi chiunque, intenzionalmente o per negligenza, getta o abbandona in modo illecito rifiuti, anche in piccole quantità (art. 31*b* cpv. 7).[^61-9]
+
 [^61-1]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^61-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 [^61-3]: Nuovo testo giusta la cifra III della LF del 27 set. 2024, in vigore dal 1° apr. 2025 ([RU 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [FF 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
@@ -2168,6 +2176,7 @@ In caso di circostanze aggravanti la pena è una pena detentiva sino a cinque an
 [^61-6]: In precedenza: omologazione e contrassegni.
 [^61-7]: Nuovo testo giusta la cifra I della LF del 21 dic. 1995, in vigore dal 1° lug. 1997 ([RU 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1213](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^61-8]: Nuovo testo giusta la cifra II n. 1 della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-9]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° ago. 2026 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61a
 

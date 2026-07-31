@@ -4,11 +4,11 @@ title: "Federal Act of 7 October 1983 on the Protection of the Environment (Envi
 short: EPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: en
-version: 2026-04-01
+version: 2026-08-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260401/en/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20260801/en/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20260801-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20260801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Environmental Protection Act, EPA)
 
-of 7 October 1983 (Last amended on 1 April 2026)
+of 7 October 1983 (Last amended on 1 August 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -802,7 +802,13 @@ If they cannot agree, they must submit proposed solutions to the Confederation. 
 
 <sup>3</sup> The holder must hand over the waste for collection by the services organised by the cantons or deliver it to the collection points determined by the cantons.
 
+<sup>4–6</sup> …[^31b-2]
+
+<sup>7</sup> Even small amounts of waste, such as packaging or cigarette ends, must not be discarded or left lying around outside the designated collection points. The cantons may grant exemptions from this ban for events requiring a licence.[^31b-3]
+
 [^31b-1]: Amended by No II of the FA of 20 June 1997, in force since 1 Nov. 1997 ([AS 1997 2243](https://fedlex.data.admin.ch/eli/oc/1997/2243_2243_2243); [BBl 1996 IV 1217](https://fedlex.data.admin.ch/eli/fga/1996/4_1217_1213_1041)).
+[^31b-2]: Will come into force at a later date.
+[^31b-3]: Inserted by No I of the FA of 15 March 2024, in force since 1 Aug. 2026 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31c
 
@@ -1918,11 +1924,11 @@ The cost of measures taken by the authorities to prevent imminent pollution of t
 
 [^58a-1]: Originally Art. 59. Amended by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
-## Section 5 Information and Documentation Systems
+### **Section** **5** **Information and Documentation Systems**
 
-[^tit4-1]
+[^tit3-chap3-sec5-1]
 
-[^tit4-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^tit3-chap3-sec5-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 59
 
@@ -1943,15 +1949,15 @@ The Federal Office may grant the following bodies and persons access to the info
 
 ## Title 4 Liability
 
-[^tit5-1]
+[^tit4-1]
 
-[^tit5-1]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^tit4-1]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
 #### Art. 59a
 
-**General provisions[^60-1]**
+**General provisions[^59a-1]**
 
-<sup>1</sup> The operator of an establishment or an installation that represents a special threat to the environment is liable for the loss or damage arising from effects that occur when this threat becomes reality. In the case of loss or damage that arises from the handling of pathogenic organisms, Article 59*a*<sup>bis</sup> applies.[^60-2]
+<sup>1</sup> The operator of an establishment or an installation that represents a special threat to the environment is liable for the loss or damage arising from effects that occur when this threat becomes reality. In the case of loss or damage that arises from the handling of pathogenic organisms, Article 59*a*<sup>bis</sup> applies.[^59a-2]
 
 <sup>2</sup>
 
@@ -1960,25 +1966,25 @@ As a rule, the following establishments and installations are regarded as repres
 - a. those that the Federal Council makes subject to the implementing provisions in terms of Article 10 on the basis of the substances or organisms used or the waste produced;
 - b. those that are used for waste disposal;
 - c. those in which liquids which may pollute water are handled;
-- d.[^60-3] those in which substances are present for which the Federal Council has introduced an authorisation requirement or other special regulations to protect the environment.
+- d.[^59a-3] those in which substances are present for which the Federal Council has introduced an authorisation requirement or other special regulations to protect the environment.
 
 <sup>3</sup> Any person who proves that the loss or damage was caused by force majeure or by gross negligence on the part of the injured party or of a third party is relieved of liability.
 
-<sup>4</sup> Articles 42–47 and 49–53 of the Code of Obligations[^60-4] apply.[^60-5]
+<sup>4</sup> Articles 42–47 and 49–53 of the Code of Obligations[^59a-4] apply.[^59a-5]
 
 <sup>5</sup> The reservation in Article 3 applies to liability provisions in other federal acts.
 
 <sup>6</sup> The Confederation, cantons and communes may also be held liable in accordance with paragraphs 1–5.
 
-[^60-1]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-2]: Wording of the second sentence according to Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-3]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^60-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^60-5]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59a-1]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59a-2]: Wording of the second sentence according to Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59a-3]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59a-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^59a-5]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 59a<sup>bis</sup>
 
-**Pathogenic organisms**[^61-1]
+**Pathogenic organisms**[^59abis-1]
 
 <sup>1</sup> Persons subject to an authorisation or notification requirement who handle pathogenic organisms in a contained system, release such organisms for experimental purposes or put them into circulation without authorisation shall be liable for any loss or damage that arises from such conduct.
 
@@ -1986,7 +1992,7 @@ As a rule, the following establishments and installations are regarded as repres
 
 The person required to obtain authorisation is exclusively liable for any loss or damage occasioned to an agricultural or forestry establishment or customers of products from such establishments by pathogenic organisms that are authorised to be put into circulation if the organisms:
 
-- a. are contained in auxiliary agents used in agriculture or forestry[^61-2]; or
+- a. are contained in auxiliary agents used in agriculture or forestry[^59abis-2]; or
 - b. originate from such auxiliary agents.
 
 <sup>3</sup> In the case of liability under paragraph 2, recourse is reserved against persons who have handled such organisms improperly or have otherwise contributed to causing or aggravating the loss or damage.
@@ -2011,13 +2017,13 @@ Pathogenic organisms are defective if they do not offer the level of safety that
 
 <sup>10</sup> Any person who proves that the loss or damage was caused by force majeure or by gross negligence on the part of the injured party or of a third party is relieved of liability.
 
-<sup>11</sup> Articles 42–47 and 49–53 of the Code of Obligations[^61-3] apply.
+<sup>11</sup> Articles 42–47 and 49–53 of the Code of Obligations[^59abis-3] apply.
 
 <sup>12</sup> The Confederation, cantons and communes may also be held liable in accordance with paragraphs 1–11.
 
-[^61-1]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^61-2]: Expression in German version in accordance with No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). This amendment has been made throughout the Act.
-[^61-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^59abis-1]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59abis-2]: Expression in German version in accordance with No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). This amendment has been made throughout the Act.
+[^59abis-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59b
 
@@ -2025,19 +2031,19 @@ Pathogenic organisms are defective if they do not offer the level of safety that
 
 For the protection of injured parties, the Federal Council may:
 
-- a.[^61a-1] require that the operators of certain establishments or installations as well as the persons subject to an authorisation or notification requirement that handle pathogenic organisms to provide a guarantee for their potential liability through insurance or in another manner;
+- a.[^59b-1] require that the operators of certain establishments or installations as well as the persons subject to an authorisation or notification requirement that handle pathogenic organisms to provide a guarantee for their potential liability through insurance or in another manner;
 - b. determine the extent and the duration of this guarantee or leave this to the authority to decide on a case-by-case basis;
 - c. require those providing a guarantee for liability to notify the enforcement authority of the existence, suspension and termination of the guarantee;
 - d. provide that the guarantee must not be suspended or terminated until 60 days after receipt of the notification;
 - e. provide that land on which a waste disposal site is situated becomes the property of the canton when the site is closed, and enact regulations concerning any compensation.
 
-[^61a-1]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59b-1]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 59c
 
-**Prescription**[^61b-1]
+**Prescription**[^59c-1]
 
-<sup>1</sup> The right to damages prescribes in accordance with Article 60 of the Code of Obligations[^61b-2].
+<sup>1</sup> The right to damages prescribes in accordance with Article 60 of the Code of Obligations[^59c-2].
 
 <sup>2</sup>
 
@@ -2046,52 +2052,52 @@ If the loss or damage occurs due to the handling of pathogenic organisms, the ri
 - a. the event that caused the loss or damage occurred in the establishment or in the installation or came to an end; or
 - b. the pathogenic organisms were put into circulation.
 
-[^61b-1]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^61b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^59c-1]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59c-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 59d
 
-**Prescription of the right of recourse**[^62-1]
+**Prescription of the right of recourse**[^59d-1]
 
 The right of recourse prescribes in accordance with Article 59*c*. The three-year period begins to run as soon as payment of the damages has been made in full and the identity of the person jointly liable is known.
 
-[^62-1]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^59d-1]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 ## Title 5 Criminal Provisions
 
-[^tit6-1]
+[^tit5-1]
 
-[^tit6-1]: Originally Title 4.
+[^tit5-1]: Originally Title 4.
 
 #### Art. 60
 
-**Felonies and misdemeanours[^63-1]**
+**Felonies and misdemeanours[^60-1]**
 
 <sup>1</sup>
 
-A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who wilfully:[^63-2]
+A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who wilfully:[^60-2]
 
 - a. fails to take the safety measures prescribed for the prevention of disasters or fails to comply with the prohibition of certain production methods or the keeping of certain stocks (Art. 10);
 - b. puts substances into circulation which he knows or must assume may present a danger to the environment or indirectly endanger people when used in a certain manner (Art. 26);
 - c. puts substances into circulation without informing recipients about their environment-related properties (Art. 27 para. 1 let. a) or providing instructions on their required handling (Art. 27 para. 1 let. b);
 - d. handles substances contrary to instructions in such a manner that they, their derivatives or waste may present a danger to the environment or indirectly endanger people (Art. 28);
-- e.[^63-3] infringes regulations on substances or organisms (Art. 29, 29*b* para. 2, 29*f*, 30*a* let. b and 34 para. 1);
-- f.[^63-4] handles organisms in such a manner that the principles contained in Article 29*a* paragraph 1 are infringed;
-- g.[^63-5] fails to take all the containment measures required when handling pathogenic organisms (Art. 29*b* para. 1);
-- h.[^63-6] without authorisation, releases pathogenic organisms for experimental purposes or puts them into circulation for uses in the environment (Art. 29*c* para. 1 and 29*d* paras. 3 and 4);
-- i.[^63-7] puts organisms into circulation that he knows or must assume will infringe the principles contained in Article 29*a* paragraph 1 when used in a certain manner (Art. 29*d* para. 1);
-- j.[^63-8] puts organisms into circulation without providing recipients with the required information and instructions (Art. 29*e* para. 1);
-- k.[^63-9] handles organisms contrary to the instructions (Art. 29*e* para. 2);
-- l.[^63-10] ...
+- e.[^60-3] infringes regulations on substances or organisms (Art. 29, 29*b* para. 2, 29*f*, 30*a* let. b and 34 para. 1);
+- f.[^60-4] handles organisms in such a manner that the principles contained in Article 29*a* paragraph 1 are infringed;
+- g.[^60-5] fails to take all the containment measures required when handling pathogenic organisms (Art. 29*b* para. 1);
+- h.[^60-6] without authorisation, releases pathogenic organisms for experimental purposes or puts them into circulation for uses in the environment (Art. 29*c* para. 1 and 29*d* paras. 3 and 4);
+- i.[^60-7] puts organisms into circulation that he knows or must assume will infringe the principles contained in Article 29*a* paragraph 1 when used in a certain manner (Art. 29*d* para. 1);
+- j.[^60-8] puts organisms into circulation without providing recipients with the required information and instructions (Art. 29*e* para. 1);
+- k.[^60-9] handles organisms contrary to the instructions (Art. 29*e* para. 2);
+- l.[^60-10] ...
 - m. constructs or operates a landfill without authorisation (Art. 30*e* para. 2);
 - n. fails to mark special waste as such for transfer (Art. 30*f* para. 2 let. a) or hands it over to an undertaking that does not hold the relevant authorisation (Art. 30*f* para. 2 let. b);
-- o.[^63-11] accepts or arranges for the import or export of special waste without authorisation (Art. 30*f* para. 2 let. c and d);
+- o.[^60-11] accepts or arranges for the import or export of special waste without authorisation (Art. 30*f* para. 2 let. c and d);
 - p. infringes regulations on the movement of special waste (Art. 30*f* para. 1);
-- q.[^63-12] infringes regulations on waste (Art. 30*a* let. b);
-- r.[^63-13] infringes regulations on the putting into circulation for the first time of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 (Art. 35*e* and 35*f* para. 1 and 2 let. a);
-- s.[^63-14] infringes regulations on the resource-conserving design of products and packaging (Art. 35*i* para. 1);
-- t.[^63-15] puts renewable thermal or motor fuels into circulation that do not fulfil the ecological requirements set out in Article 35*d* paragraph 1 or 4, or provides false or incomplete information in this regard;
-- u.[^63-16] violates the prohibition set out in Article 35*d* paragraph 2.
+- q.[^60-12] infringes regulations on waste (Art. 30*a* let. b);
+- r.[^60-13] infringes regulations on the putting into circulation for the first time of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 (Art. 35*e* and 35*f* para. 1 and 2 let. a);
+- s.[^60-14] infringes regulations on the resource-conserving design of products and packaging (Art. 35*i* para. 1);
+- t.[^60-15] puts renewable thermal or motor fuels into circulation that do not fulfil the ecological requirements set out in Article 35*d* paragraph 1 or 4, or provides false or incomplete information in this regard;
+- u.[^60-16] violates the prohibition set out in Article 35*d* paragraph 2.
 
 <sup>1bis</sup>
 
@@ -2099,31 +2105,31 @@ In aggravating circumstances, the penalty is a custodial sentence not exceeding 
 
 - a. the danger to people or the environment caused by the offence is serious;
 - b. the offence is committed on a commercial basis; or
-- c. the offence is committed by the offender as a member of a gang that has been formed for the purpose of repeatedly committing offences against this Act. [^63-17]
+- c. the offence is committed by the offender as a member of a gang that has been formed for the purpose of repeatedly committing offences against this Act. [^60-17]
 
-<sup>2</sup> If the offender acts through negligence, he or she shall be liable to a monetary penalty not exceeding 180 daily penalty units.[^63-18]
+<sup>2</sup> If the offender acts through negligence, he or she shall be liable to a monetary penalty not exceeding 180 daily penalty units.[^60-18]
 
-<sup>3</sup> The FOCBS shall prosecute and adjudicate offences under paragraph 1 letters t and u.[^63-19]
+<sup>3</sup> The FOCBS shall prosecute and adjudicate offences under paragraph 1 letters t and u.[^60-19]
 
-[^63-1]: Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^63-2]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^63-3]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-4]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-5]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-6]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-7]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-8]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-9]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-10]: Repealed by Annex No 4 of the Gene Technology Act of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^63-11]: Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^63-12]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^63-13]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^63-14]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^63-15]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^63-16]: Inserted by Annex No of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^63-17]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^63-18]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^63-19]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-1]: Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-2]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-3]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-4]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-5]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-6]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-7]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-8]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-9]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-10]: Repealed by Annex No 4 of the Gene Technology Act of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^60-11]: Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-12]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-13]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^60-14]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-15]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-16]: Inserted by Annex No of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-17]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^60-18]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-19]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61
 
@@ -2131,7 +2137,7 @@ In aggravating circumstances, the penalty is a custodial sentence not exceeding 
 
 <sup>1</sup>
 
-A fine not exceeding CHF 20,000 shall be imposed on any person who wilfully:[^64-1]
+A fine not exceeding CHF 20,000 shall be imposed on any person who wilfully:[^61-1]
 
 - a. fails to comply with the limitations of emissions stipulated in this Act (Art. 12 and 34 para. 1);
 - b. fails to comply with remediation orders (Art. 16 and 32*c* para. 1);
@@ -2140,32 +2146,35 @@ A fine not exceeding CHF 20,000 shall be imposed on any person who wilfully:[^64
 - e. handles substances with no accompanying information or instructions in such a manner that they, their derivatives or waste may present a danger to the environment or indirectly endanger people (Art. 28);
 - f. burns waste illegally outside installations (Art. 30*c* para. 2);
 - g. deposits waste outside authorised landfills (Art. 30*e* para. 1);
-- h.[^64-2] infringes the notification requirements in connection with waste (Art. 32*b* para. 2 and 3);
-- i.[^64-3] infringes the regulations on waste (Art. 30*a* let. a and c, 30*b*, 30*c* para. 3, 30*d*, 30*h* para. 1, 31*b* para. 3, 32*a*<sup>bis</sup>, 32*b* para. 4 and 32*e* para. 1–2<sup>bis</sup>);
-- j.[^64-4] infringes the regulations on resource-conserving construction (Art. 35*j* para. 1);
+- h.[^61-2] infringes the notification requirements in connection with waste (Art. 32*b* para. 2 and 3);
+- i.[^61-3] infringes the regulations on waste (Art. 30*a* let. a and c, 30*b*, 30*c* para. 3, 30*d*, 30*h* para. 1, 31*b* para. 3, 32*a*<sup>bis</sup>, 32*b* para. 4 and 32*e* para. 1–2<sup>bis</sup>);
+- j.[^61-4] infringes the regulations on resource-conserving construction (Art. 35*j* para. 1);
 - k. infringes the regulations on the movement of other forms of waste (Art. 30*g* para. 1);
 - l. fails to guarantee coverage of the costs of closure, after-care and remediation of a landfill (Art. 32*b* para. 1);
 - m. infringes the regulations on physical impacts on and the use of the soil (Art. 33 para. 2 and 34 para. 1 and 2) or on measures to reduce the soil pollution (Art. 34 para. 3);
-- m<sup>bis</sup>.[^64-5] infringes regulations on the traceability of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 and for which a documentation requirement has been imposed (Art. 35*g* para. 1);
-- n. infringes the regulations on placing series-produced installations[^64-6] on the market (Art. 40);
+- m<sup>bis</sup>.[^61-5] infringes regulations on the traceability of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 and for which a documentation requirement has been imposed (Art. 35*g* para. 1);
+- n. infringes the regulations on placing series-produced installations[^61-6] on the market (Art. 40);
 - o. refuses to provide information to the competent authority or provides incorrect information (Art. 46);
-- p.[^64-7] infringes the regulations on providing a guarantee for liability (Art. 59*b*).
+- p.[^61-7] infringes the regulations on providing a guarantee for liability (Art. 59*b*).
 
 <sup>2</sup> If the offender acts through negligence, the penalty is a fine.
 
 <sup>3</sup> Attempts and complicity are also offences.
 
-[^64-1]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^64-2]: Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^64-3]: Amended by No III of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^64-4]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
-[^64-5]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^64-6]: Previously: type approval testing and labelling
-[^64-7]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+<sup>4</sup> A fine not exceeding CHF 300 shall be imposed on any person who unlawfully discards or leaves behind waste, whether wilfully or through negligence. This applies even to small amounts of waste (Art. 31*b* para. 7).[^61-8]
+
+[^61-1]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-2]: Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-3]: Amended by No III of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61-4]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-5]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-6]: Previously: type approval testing and labelling
+[^61-7]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-8]: Inserted by No I of the FA of 15 March 2024, in force since 1 Aug. 2026 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648), [2026 356](https://fedlex.data.admin.ch/eli/oc/2026/356); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61a
 
-**Evasion of incentive taxes**[^65-1]
+**Evasion of incentive taxes**[^61a-1]
 
 <sup>1</sup> Any person who wilfully obtains an unlawful tax advantage for him- or herself or for another person in relation to the tax laid down in Article 35*a*, in particular by evading the tax or unlawfully obtaining an exemption from, refund or reimbursement of the tax, shall be liable to a fine of up to five times the amount of the unlawful tax advantage.
 
@@ -2177,11 +2186,11 @@ A fine not exceeding CHF 20,000 shall be imposed on any person who wilfully:[^64
 
 <sup>5</sup> The prosecuting and adjudicating authority is the FOCBS.
 
-[^65-1]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61a-1]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 61b
 
-**Obstructing the collection of incentive taxes**[^65a-1]
+**Obstructing the collection of incentive taxes**[^61b-1]
 
 <sup>1</sup>
 
@@ -2200,22 +2209,22 @@ A fine not exceeding CHF 30,000 shall be imposed on any person who wilfully:
 
 <sup>4</sup> The prosecuting and adjudicating authority is the FOCBS.
 
-[^65a-1]: Inserted by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^61b-1]: Inserted by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 #### Art. 62
 
 **Application of administrative criminal law**
 
-<sup>1</sup> Articles 6 and 7 of the Federal Act of 22 March 1974[^66-1] on Administrative Criminal Law apply to offences under this Act.
+<sup>1</sup> Articles 6 and 7 of the Federal Act of 22 March 1974[^62-1] on Administrative Criminal Law apply to offences under this Act.
 
-<sup>2</sup> For offences under Articles 61*a* and 61*b*, the other provisions of the Federal Act on Administrative Criminal Law also apply.[^66-2]
+<sup>2</sup> For offences under Articles 61*a* and 61*b*, the other provisions of the Federal Act on Administrative Criminal Law also apply.[^62-2]
 
-[^66-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
-[^66-2]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^62-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^62-2]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 62a
 
-**Administrative assistance**[^67-1]
+**Administrative assistance**[^62a-1]
 
 <sup>1</sup>
 
@@ -2233,19 +2242,19 @@ The following authorities shall support each other and provide each other with t
 
 <sup>3</sup> Further-reaching federal and cantonal provisions remain reserved.
 
-[^67-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^62a-1]: Inserted by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
 
 ## Title 6 Final Provisions
 
-[^tit6-2]
+[^tit6-1]
 
-[^tit6-2]: Originally Title 5.
+[^tit6-1]: Originally Title 5.
 
 #### Art. 63
 
-[^63-20]
+[^63-1]
 
-[^63-20]: Repealed by No II 32 of the FA of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^63-1]: Repealed by No II 32 of the FA of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 64
 
@@ -2259,26 +2268,26 @@ If regulations relating to environmental protection enacted under other federal 
 
 <sup>1</sup> Unless and until the Federal Council expressly exercises its power to enact ordinances, the cantons may enact their own regulations in terms of this Act, after consulting the Federal Department of the Environment, Transport, Energy and Communications.
 
-<sup>2</sup> The cantons may not stipulate any new ambient limit values, alarm levels or planning values nor enact any new regulations governing conformity assessments for series-produced installations or for the handling of substances or organisms.[^65-2] Existing cantonal regulations apply until related Federal Council regulations come into force.
+<sup>2</sup> The cantons may not stipulate any new ambient limit values, alarm levels or planning values nor enact any new regulations governing conformity assessments for series-produced installations or for the handling of substances or organisms.[^65-1] Existing cantonal regulations apply until related Federal Council regulations come into force.
 
-[^65-2]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^65-1]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 
 #### Art. 65a
 
-**Transitional provision to the Amendment of 27 September 2024**[^65a-2]
+**Transitional provision to the Amendment of 27 September 2024**[^65a-1]
 
-Applications for payments towards the costs of measures under Article 32*e*<sup>bis</sup> paragraphs 3, 4 letter a, 5 and 12 shall in derogation from Article 36 of the Subsidies Act of 5 October 1990[^65a-3] be assessed in accordance with the law applicable after the date on which the application is filed if work on the measures began or was already completed before the Amendment of 27 September 2024 comes into force. They must be filed with the Federal Office two years at the latest after the Amendment comes into force.
+Applications for payments towards the costs of measures under Article 32*e*<sup>bis</sup> paragraphs 3, 4 letter a, 5 and 12 shall in derogation from Article 36 of the Subsidies Act of 5 October 1990[^65a-2] be assessed in accordance with the law applicable after the date on which the application is filed if work on the measures began or was already completed before the Amendment of 27 September 2024 comes into force. They must be filed with the Federal Office two years at the latest after the Amendment comes into force.
 
-[^65a-2]: Inserted by No I of the FA of 26 Sept. 2014 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)). Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
-[^65a-3]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^65a-1]: Inserted by No I of the FA of 26 Sept. 2014 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)). Amended by No I of the FA of 27 Sept. 2024, in force since 1 April 2025 ([AS 2025 178](https://fedlex.data.admin.ch/eli/oc/2025/178); [BBl 2023 239](https://fedlex.data.admin.ch/eli/fga/2023/239)).
+[^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66
 
 **Amendment of federal legislation**
 
-…[^66-3]
+…[^66-1]
 
-[^66-3]: The amendments may be consulted under [AS 1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122).
+[^66-1]: The amendments may be consulted under [AS 1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122).
 
 #### Art. 67
 
@@ -2288,6 +2297,6 @@ Applications for payments towards the costs of measures under Article 32*e*<sup>
 
 <sup>2</sup> The Federal Council determines the commencement date.
 
-Commencement date: 1 January 1985[^67-2]
+Commencement date: 1 January 1985[^67-1]
 
-[^67-2]: FCD of 12 Sept. 1984
+[^67-1]: FCD of 12 Sept. 1984.
