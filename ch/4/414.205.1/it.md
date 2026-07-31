@@ -3,18 +3,18 @@ sr: "414.205.1"
 title: "Ordinanza del Consiglio delle scuole universitarie del 29 novembre 2019 sul coordinamento dell'insegnamento nelle scuole universitarie svizzere"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/722"
 language: it
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2019-722-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2019-722-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del Consiglio delle scuole universitarie sul coordinamento dell’insegnamento nelle scuole universitarie svizzere
 
-del 29 novembre 2019 (Stato 1° gennaio 2024)
+del 29 novembre 2019 (Stato 1° agosto 2026)
 
 Il Consiglio delle scuole universitarie,
 
@@ -22,8 +22,8 @@ visto l’articolo 12 capoverso 3 lettera a numeri 1 e 4 della legge federale de
 
 ordina:
 
-[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
 
 ## Sezione 1: Disposizioni generali
 
@@ -85,7 +85,7 @@ Le scuole universitarie e gli altri istituti accademici suddividono la loro offe
 
 <sup>2</sup> Le formazioni continue che portano al conseguimento di un diploma di cui al capoverso 1 lettera a non sono proposte come corsi di preparazione agli esami federali di professione e agli esami professionali federali superiori ai sensi della legge del 13 dicembre 2002[^5-1] sulla formazione professionale.
 
-[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 ## Sezione 3: Ammissione ai livelli di studio
 
@@ -106,8 +106,8 @@ Per l’ammissione ai livelli di studio bachelor di competenza della Conferenza 
 <sup>3</sup> Sono fatte salve le restrizioni all’ammissione valide per tutti i candidati agli studi.
 
 [^6-1]: [www.cdpe.ch](http://www.cdpe.ch) &gt; Documentazione &gt; Atti normativi &gt; Raccolta delle basi giuridiche &gt; 4.2.2
-[^6-2]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
-[^6-3]: Introdotta dal n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del Consiglio delle scuole universitarie del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
+[^6-3]: Introdotta dalla cifra I dell’O del Consiglio delle scuole universitarie del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 684](https://fedlex.data.admin.ch/eli/oc/2023/684)).
 
 #### Art. 7
 
@@ -158,6 +158,14 @@ Per l’ammissione ai livelli di studio bachelor di competenza della Conferenza 
 <sup>2</sup> I diplomi di formazione continua di cui all’articolo 5 non danno il diritto di accedere al dottorato.
 
 <sup>3</sup> Le università cantonali, i politecnici federali e gli altri istituti universitari definiscono, per l’ammissione agli studi di dottorato, quali ulteriori conoscenze e capacità devono essere acquisite e comprovate prima dell’inizio o nel corso di tali studi.
+
+#### Art. 10a
+
+**Rifiuto dell’ammissione**[^10a-1]
+
+Le scuole universitarie e agli altri istituti accademici possono rifiutare l’ammissione al fine di tutelare la sicurezza delle conoscenze o altri interessi in materia di sicurezza, purché dispongano di una base legale sufficiente a tale scopo.
+
+[^10a-1]: Introdotto dalla cifra I dell’O del Consiglio delle scuole universitarie del 22 mag. 2026, in vigore dal 1° ago. 2026 ([RU 2026 361](https://fedlex.data.admin.ch/eli/oc/2026/361)).
 
 ## Sezione 4: Titoli
 

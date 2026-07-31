@@ -3,18 +3,18 @@ sr: "414.205.1"
 title: Verordnung des Hochschulrates vom 29. November 2019 über die Koordination der Lehre an den Schweizer Hochschulen
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/722"
 language: de
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2019-722-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2019-722-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen
 
-vom 29. November 2019 (Stand am 1. Januar 2024)
+vom 29. November 2019 (Stand am 1. August 2026)
 
 Der Hochschulrat,
 
@@ -22,8 +22,8 @@ gestützt auf Artikel 12 Absatz 3 Buchstabe a Ziffer 1 und 4 des Hochschulförde
 
 verordnet:
 
-[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -85,7 +85,7 @@ Die Hochschulen und die anderen Institutionen des Hochschulbereichs gliedern ihr
 
 <sup>2</sup> Weiterbildungen, die zu einem Abschluss gemäss Absatz 1 Buchstabe a führen, werden nicht als Kurse angeboten, die auf eidgenössische Berufsprüfungen oder auf eidgenössische höhere Fachprüfungen gemäss dem Berufsbildungsgesetz vom 13. Dezember 2002[^5-1] vorbereiten.
 
-[^5-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^5-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 ## 3. Abschnitt: Zulassung zu den Studienstufen
 
@@ -133,7 +133,7 @@ Für die Zulassung zu den Bachelorstudiengängen im Regelungsbereich der Schweiz
 
 <sup>4</sup> Die Hochschulen und die anderen Institutionen des Hochschulbereichs können den Abschluss eines Masterstudiums davon abhängig machen, dass während des Studiums in einer bestimmten Frist zusätzliche Kenntnisse und Fähigkeiten erworben und nachgewiesen werden.
 
-[^8-1]: [www.swissuniversities.ch](https/www.swissuniversities.ch%20)&gt; Themen &gt; Lehre &gt; Verordnung Koordination Lehre &gt; Studienrichtungen
+[^8-1]: [www.swissuniversities.ch](http://www.swissuniversities.ch) &gt; Themen &gt; Lehre &gt; Verordnung Koordination Lehre &gt; Studienrichtungen
 
 #### Art. 9
 
@@ -158,6 +158,14 @@ Für die Zulassung zu den Bachelorstudiengängen im Regelungsbereich der Schweiz
 <sup>2</sup> Die Weiterbildungsabschlüsse nach Artikel 5 berechtigen nicht zur Zulassung zum Doktorat.
 
 <sup>3</sup> Die universitären Hochschulen und die anderen universitären Institutionen des Hochschulbereichs legen für die Zulassung zum Doktoratsstudium fest, welche zusätzlichen Kenntnisse und Fähigkeiten vor Aufnahme oder während dieses Studiums erworben und nachgewiesen werden müssen.
+
+#### Art. 10a
+
+**Ablehnung der Zulassung**[^10a-1]
+
+Die Hochschulen und die anderen Institutionen des Hochschulbereichs können zur Wahrung der Wissenssicherheit oder anderer Sicherheitsinteressen die Zulassung ablehnen, sofern sie dafür über eine ausreichende Rechtsgrundlage verfügen.
+
+[^10a-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 22. Mai 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 361](https://fedlex.data.admin.ch/eli/oc/2026/361)).
 
 ## 4. Abschnitt: Titel
 

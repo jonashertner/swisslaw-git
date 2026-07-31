@@ -3,18 +3,18 @@ sr: "414.205.1"
 title: "Ordonnance du Conseil des hautes écoles du 29 novembre 2019 sur la coordination de l'enseignement dans les hautes écoles suisses"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/722"
 language: fr
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-722-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/722/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-722-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/722/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du Conseil des hautes écoles sur la coordination de l’enseignement dans les hautes écoles suisses
 
-du 29 novembre 2019 (État le 1<sup>er</sup> janvier 2024)
+du 29 novembre 2019 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil des hautes écoles,
 
@@ -22,8 +22,8 @@ vu l’art. 12, al. 3, let. a, ch. 1 et 4, de la loi du 30 septembre 2011 sur l�
 
 arrête:
 
-[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6778)
 
 ## Section 1 Dispositions générales
 
@@ -85,7 +85,7 @@ Les hautes écoles et les autres institutions du domaine des hautes écoles stru
 
 <sup>2</sup> Les formations continues sanctionnées par un titre visé à l’al. 1, let. a, ne sont pas proposées comme cours préparatoires aux examens professionnels fédéraux ou aux examens professionnels fédéraux supérieurs au sens de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^5-1].
 
-[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^5-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 ## Section 3 Admission aux cycles d’études
 
@@ -158,6 +158,14 @@ L’admission aux filières d’études de bachelor du ressort de la Conférence
 <sup>2</sup> Les titres de formation continue au sens de l’art. 5 ne donnent pas accès au doctorat.
 
 <sup>3</sup> Les hautes écoles universitaires et les autres institutions universitaires du domaine des hautes écoles définissent, pour l’admission aux études doctorales, les connaissances et les compétences supplémentaires qui doivent être acquises et attestées avant le début ou en cours de ces études.
+
+#### Art. 10a
+
+**Refus de l’admission**[^10a-1]
+
+Les hautes écoles et les autres institutions du domaine des hautes écoles peuvent refuser l’admission afin de préserver la sécurité des connaissances ou d’autres intérêts en matière de sécurité, pour autant qu’elles disposent d’une base légale suffisante à cet effet.
+
+[^10a-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 22 mai 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 361](https://fedlex.data.admin.ch/eli/oc/2026/361)).
 
 ## Section 4 Titres
 
