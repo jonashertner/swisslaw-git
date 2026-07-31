@@ -3,20 +3,19 @@ canton: BL
 number: "642.11"
 title: Verordnung für die Sekundarschule
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-06-17
+version: 2026-08-01
+version_adopted: 2026-01-13
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/642.11"
-pdf: "https://bl.clex.ch/api/de/versions/4292/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4497/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Sekundarschule
 
-Vom 13.05.2003 (Stand 01.08.2025)
+Vom 13.05.2003 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -171,10 +170,11 @@ beschliesst:
 
 **Lektionendeputat**
 
-<sup>1</sup> Der Schule steht pro Klasse ein Deputat an Lehrpersonenlektionen für den Unterricht einschliesslich des Wahlpflichtfachunterrichtes, des Ergänzenden Angebots sowie der Spezialfunktion für Klassenlehrpersonen zur Verfügung:
+<sup>1</sup> Der Schule steht pro Klasse ein Deputat an Lehrpersonenlektionen für den Unterricht einschliesslich des Wahlpflichtfachunterrichts, des ergänzenden Angebots sowie der Spezialfunktion für Klassenlehrpersonen zur Verfügung:
 
-- a. 1. bis 3. Klasse — 43 1/3 Lektionen;
-- b. 1. bis 3. Kleinklasse oder Mehrjahrgangskleinklasse — 39 Lektionen;
+- a. 1.–3. Klasse — 42 1/6 Lektionen;
+- b. 1.–3. Kleinklasse oder Mehrjahrgangskleinklasse — 37 Lektionen;
+- b<sup>bis</sup>. Fremdsprachenintegrationsklassen — 31 Lektionen;
 - c. 3. Klasse für den Leistungszug A — zusätzlich 1 Lektion für das Wahlpflichtfach.
 
 <sup>2</sup> Das Amt für Volksschulen kann auf Antrag der Schulleitung für jeden Leistungszug A, E und P eines Jahrgangs ohne Parallelklasse 2 bis 4 Zusatzlektionen bewilligen.
