@@ -3,20 +3,19 @@ canton: LU
 number: "432"
 title: Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-06-13
+version: 2026-08-01
+version_adopted: 2026-04-02
 adopted: 2006-06-06
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/432"
-pdf: "https://srl.lu.ch/api/de/versions/4130/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4836/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 
-vom 06.06.2006 (Stand 01.08.2023)
+vom 06.06.2006 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -332,11 +331,11 @@ beschliesst:
 
 #### § 26a
 
-**Wirtschaftsmittelschulen**
+**Wirtschaftsmittelschule**
 
-<sup>1</sup> Die Ausbildung an den Wirtschaftsmittelschulen führt zum eidgenössischen Fähigkeitszeugnis Kaufmann / Kauffrau mit integrierter Berufsmaturität. Die Dienststelle Berufs- und Weiterbildung kann in Ausnahmefällen den Abschluss ohne Berufsmaturität bewilligen.
+<sup>1</sup> Die Ausbildung an der Wirtschaftsmittelschule führt zum eidgenössischen Fähigkeitszeugnis Kaufmann / Kauffrau mit integrierter Berufsmaturität. Die Dienststelle Berufs- und Weiterbildung kann in Ausnahmefällen den Abschluss ohne Berufsmaturität bewilligen.
 
-<sup>2</sup> Die Ausbildung an Wirtschaftsmittelschulen dauert vier Jahre. Während des vierten Ausbildungsjahres wird als Voraussetzung für die Zulassung zum Qualifikationsverfahren ein zwölfmonatiges Praktikum absolviert.
+<sup>2</sup> Die Ausbildung an der Wirtschaftsmittelschule dauert vier Jahre. Während des vierten Ausbildungsjahres wird als Voraussetzung für die Zulassung zum Qualifikationsverfahren ein zwölfmonatiges Praktikum absolviert.
 
 #### § 26b
 
@@ -366,7 +365,7 @@ beschliesst:
 
 **Lehrpläne und Wochenstundentafeln**
 
-<sup>1</sup> An Wirtschaftsmittelschulen, an der Gesundheitsmittelschule, an der Informatikmittelschule sowie in der Fachklasse Grafik richten sich die Lehrpläne und Wochenstundentafeln nach den Vorgaben des Bundes. Über zusätzliche Fächerangebote entscheidet auf Antrag der Schule die Dienststelle Berufs- und Weiterbildung.
+<sup>1</sup> An der Wirtschaftsmittelschule, an der Gesundheitsmittelschule, an der Informatikmittelschule sowie in der Fachklasse Grafik richten sich die Lehrpläne und Wochenstundentafeln nach den Vorgaben des Bundes. Über zusätzliche Fächerangebote entscheidet auf Antrag der Schule die Dienststelle Berufs- und Weiterbildung.
 
 #### § 27
 
@@ -406,7 +405,7 @@ beschliesst:
 
 <sup>2</sup> Lernende mit Lehrvertrag haben den Unterricht an jener Berufsfachschule zu besuchen, welcher der Beruf zugewiesen ist. Über Ausnahmen entscheidet im Einzelfall die Dienststelle Berufs- und Weiterbildung nach Rücksprache mit den betroffenen Schulleitungen und den Anbietern der Bildung in beruflicher Praxis.
 
-<sup>3</sup> Lernende der Wirtschaftsmittelschulen und der Fachmittelschulen können von der zuständigen Dienststelle einem Schulstandort mit einem entsprechenden Schulangebot zugeteilt werden.
+<sup>3</sup> Lernende der Fachmittelschulen können von der zuständigen Dienststelle einem Schulstandort mit einem entsprechenden Schulangebot zugeteilt werden.
 
 #### § 31
 
