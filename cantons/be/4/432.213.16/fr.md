@@ -4,13 +4,12 @@ number: "432.213.16"
 title: Direktionsverordnung über den Lehrplan 21 des Kantons Bern
 short: DVLP 21
 language: fr
-version: 2022-08-01
-valid_until: 2026-07-31
-version_adopted: 2022-06-22
+version: 2026-08-01
+version_adopted: 2026-03-18
 adopted: 2016-06-23
 in_force: 2018-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.213.16"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2629/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3406/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Cet acte législatif n'est disponible qu'en allemand.
 
 (DVLP 21)
 
-du 23.06.2016 (état au 01.08.2022)
+du 23.06.2016 (état au 01.08.2026)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -91,6 +90,16 @@ Er ist auch auf Internet verfügbar unter:
 **Änderung vom 30. Juni 2022**
 
 <sup>1</sup> Die Änderung vom 30. Juni 2022 des Anhangs 1 Lehrplan 21 des Kantons Bern wird nur in Form eines Verweises veröffentlicht.
+
+Sie ist auf Internet verfügbar unter:
+
+[http://be.lehrplan.ch](http://be.lehrplan.ch)
+
+#### Art. A1-3
+
+**Änderung vom 18. März 2026**
+
+<sup>1</sup> Die Änderung vom 18. März 2026 des Anhangs 1 Lehrplan 21 des Kantons Bern wird nur in Form eines Verweises veröffentlicht.
 
 Sie ist auf Internet verfügbar unter:
 
