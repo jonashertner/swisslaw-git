@@ -4,11 +4,11 @@ title: Ordonnance du 23 février 2022 sur la coopération et la mobilité intern
 short: OCMIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/165"
 language: fr
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2022-02-23
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-165-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2022-165-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/fr"
 
 (OCMIF)
 
-du 23 février 2022 (État le 1<sup>er</sup> janvier 2024)
+du 23 février 2022 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 4, al. 4, et 11 de la loi fédérale du 25 septembre 2020 sur la coopération et la mobilité internationales en matière de formation (LCMIF)[^ingress-1],
+vu les art. 4, al. 4, 6, al. 1 et 6, et l’art. 11 de la loi fédérale du 25 septembre 2020 sur la coopération et la mobilité internationales en matière de formation (LCMIF)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 414.51](https://fedlex.data.admin.ch/eli/cc/2022/164)
+[^ingress-1]: [RS 414.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6799)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 ## Chapitre 1 Objet
 
@@ -34,7 +35,48 @@ arrête:
 La présente ordonnance règle:
 
 - a. les types de soutien visés à l’art. 4, al. 1, let. b à f, et 2, LCMIF;
-- b. la compétence de conclure des traités internationaux de portée mineure dans le domaine de la coopération internationale en matière de formation.
+- b. la compétence de conclure des traités internationaux de portée mineure dans le domaine de la coopération internationale en matière de formation;
+- c.[^1-1] l’agence nationale (art. 6 LCMIF).
+
+[^1-1]: Introduite par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
+
+## Chapitre 1*a* Agence nationale
+
+[^chap1a-1]
+
+[^chap1a-1]: Introduit par le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
+
+#### Art. 1a
+
+**Désignation de l’agence nationale**
+
+L’agence nationale est «Movetia – Fondation suisse pour la promotion des échanges et de la mobilité».
+
+#### Art. 1b
+
+**Approbation des statuts et de règlements de l’agence nationale**
+
+<sup>1</sup> Si l’agence nationale soumet une demande d’approbation de ses statuts à l’Autorité fédérale de surveillance des fondations (ASF), le Département fédéral de l’économie, de la formation et de la recherche (DEFR) et le Département fédéral de l’intérieur (DFI) demandent l’accord du Conseil fédéral concernant l’approbation des statuts avant que l’ASF ne rende sa décision.
+
+<sup>2</sup> Si l’agence nationale soumet à l’ASF une demande d’approbation de règlements qui portent sur des tâches pour lesquelles des contributions fédérales sont utilisées, le DEFR et le DFI demandent l’accord du Conseil fédéral concernant l’approbation de ces règlements avant que l’ASF ne rende sa décision.
+
+#### Art. 1c
+
+**Convention de prestations**
+
+<sup>1</sup> Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) conclut une convention de prestations avec l’agence nationale.
+
+<sup>2</sup>
+
+La convention de prestations définit en particulier:
+
+- a. les prestations à fournir;
+- b. les objectifs;
+- c. les priorités;
+- d. les directives financières et les indicateurs axés sur les prestations;
+- e. le montant maximal des indemnisations au sens de l’art. 6, al. 4, LCMIF et les modalités de versement;
+- f. l’établissement de rapports et l’obligation de rendre des comptes sur l’utilisation des contributions fédérales;
+- g. les conséquences en cas de réalisation insuffisante des objectifs.
 
 ## Chapitre 2 C Contributions dans le cadre de programmes de la Confédération
 
@@ -121,16 +163,18 @@ L’agence nationale prend en compte les coûts forfaitaires ci-après lors de l
 
 <sup>4</sup>
 
-Le Département fédéral de l’économie, de la formation et de la recherche (DEFR) peut adapter l’annexe en fonction des critères suivants:
+Le DEFR peut adapter l’annexe en fonction des critères suivants:[^6-1]
 
 - a. l’évolution du coût de la vie sur les lieux de destination prévus pour les activités de mobilité;
 - b. l’évolution des forfaits de programmes internationaux comparables en matière de formation.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 #### Art. 7
 
 **Examen et décision**
 
-<sup>1</sup> L’agence nationale examine les demandes et les soumet au Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI). Celui-ci statue par voie de décision.
+<sup>1</sup> L’agence nationale examine les demandes et les soumet SEFRI. Celui-ci statue par voie de décision.[^7-1]
 
 <sup>2</sup>
 
@@ -138,6 +182,8 @@ Si les contributions demandées dépassent les moyens disponibles, elles sont r�
 
 - a. la moyenne des pourcentages des moyens versés annuellement au cours des quatre années d’encouragement précédentes;
 - b. le taux de croissance moyen des contributions annuelles versées au cours des quatre années d’encouragement précédentes.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 ### Section 3 Coopérations internationales
 
@@ -554,7 +600,7 @@ Elle est composée des membres suivants:
 
 <sup>2</sup> Il peut déléguer cette compétence au SEFRI.
 
-[^34-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Chapitre 8 Dispositions finales
 

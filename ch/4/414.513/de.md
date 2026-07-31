@@ -4,11 +4,11 @@ title: Verordnung vom 23. Februar 2022 über die internationale Zusammenarbeit u
 short: VIZMB
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/165"
 language: de
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2022-02-23
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-165-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2022-165-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/de"
 
 (VIZMB)
 
-vom 23. Februar 2022 (Stand am 1. Januar 2024)
+vom 23. Februar 2022 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 4 Absatz 4 und 11 des Bundesgesetzes vom 25. September 2020[^ingress-1] über die internationale Zusammenarbeit und Mobilität in der Bildung (BIZMB),
+gestützt auf die Artikel 4 Absatz 4, 6 Absätze 1 und 6 sowie Artikel 11 des Bundesgesetzes vom 25. September 2020[^ingress-1] über die internationale Zusammenarbeit und Mobilität in der Bildung (BIZMB),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 414.51](https://fedlex.data.admin.ch/eli/cc/2022/164)
+[^ingress-1]: [SR 414.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6799)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 ## 1. Kapitel: Gegenstand
 
@@ -34,7 +35,48 @@ verordnet:
 Diese Verordnung regelt:
 
 - a. die Beitragsarten nach Artikel 4 Absätze 1 Buchstaben b–f und 2 BIZMB;
-- b. die Kompetenz zum Abschluss völkerrechtlicher Verträge von beschränkter Tragweite im Bereich der internationalen Zusammenarbeit in der Bildung.
+- b. die Kompetenz zum Abschluss völkerrechtlicher Verträge von beschränkter Tragweite im Bereich der internationalen Zusammenarbeit in der Bildung;
+- c.[^1-1] die nationale Agentur (Art. 6 BIZMB).
+
+[^1-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
+
+## 1*a*. Kapitel: Nationale Agentur
+
+[^chap1a-1]
+
+[^chap1a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
+
+#### Art. 1a
+
+**Bezeichnung der nationalen Agentur**
+
+Die nationale Agentur ist die Stiftung «Movetia – Schweizerische Stiftung für die Förderung von Austausch und Mobilität».
+
+#### Art. 1b
+
+**Genehmigung von Statuten und Reglementen der nationalen Agentur**
+
+<sup>1</sup> Stellt die nationale Agentur bei der Eidgenössischen Stiftungsaufsicht (ESA) Antrag auf Genehmigung ihrer Statuten, holen das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) und das Eidgenössische Departement des Innern (EDI) vor dem Entscheid der ESA beim Bundesrat das Einverständnis zur Genehmigung der Statuten ein.
+
+<sup>2</sup> Stellt die nationale Agentur bei der ESA Antrag auf Genehmigung von Reglementen, die Aufgaben regeln, für die Bundesmittel verwendet werden, holen das WBF und das EDI vor dem Entscheid der ESA beim Bundesrat das Einverständnis zur Genehmigung dieser Reglemente ein.
+
+#### Art. 1c
+
+**Leistungsvereinbarung**
+
+<sup>1</sup> Das Staatsekretariat für Bildung, Forschung und Innovation (SBFI) schliesst mit der nationalen Agentur eine Leistungsvereinbarung ab.
+
+<sup>2</sup>
+
+In der Leistungsvereinbarung wird insbesondere Folgendes festgelegt:
+
+- a. zu erbringende Leistungen;
+- b. Ziele;
+- c. Prioritäten;
+- d. finanzielle Vorgaben und leistungsbezogene Indikatoren;
+- e. Höchstbetrag der Abgeltung nach Artikel 6 Absatz 4 BIZMB und Auszahlungsmodalitäten;
+- f. Berichterstattung und Rechenschaftslegung über die Verwendung der Bundesmittel;
+- g. Folgen bei mangelhafter Zielerreichung.
 
 ## 2. Kapitel: Beiträge für Bundesprogramme
 
@@ -121,16 +163,18 @@ Die nationale Agentur rechnet bei der Festlegung der Beiträge folgende Kostenpa
 
 <sup>4</sup>
 
-Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) kann den Anhang anpassen aufgrund:
+Das WBF kann den Anhang anpassen aufgrund:[^6-1]
 
 - a. der Entwicklung der Lebenshaltungskosten an Destinationen der vorgesehenen Mobilitätsaktivitäten;
 - b. der Entwicklung der Pauschalen vergleichbarer internationaler Bildungsprogramme.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 #### Art. 7
 
 **Prüfung undEntscheid**
 
-<sup>1</sup> Die nationale Agentur prüft die Gesuche und legt sie dem Staatsekretariat für Bildung, Forschung und Innovation (SBFI) zum Entscheid vor. Dieses entscheidet in Form einer Verfügung.
+<sup>1</sup> Die nationale Agentur prüft die Gesuche und legt sie dem SBFI zum Entscheid vor. Dieses entscheidet in Form einer Verfügung.[^7-1]
 
 <sup>2</sup>
 
@@ -138,6 +182,8 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) kan
 
 - a. Durchschnitt der prozentualen Anteile an den jährlich ausbezahlten Mitteln während den vier vorangehenden Förderjahren;
 - b. durchschnittliche Zuwachsrate der jährlich ausbezahlten Mittel während den vier vorangehenden Förderjahren.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 ### 3. Abschnitt: Internationale Kooperationen
 
@@ -554,7 +600,7 @@ Sie besteht aus den folgenden Mitgliedern:
 
 <sup>2</sup> Es kann diese Kompetenz dem SBFI übertragen.
 
-[^34-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 8. Kapitel: Schlussbestimmungen
 

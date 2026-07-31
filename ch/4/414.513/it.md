@@ -4,11 +4,11 @@ title: Ordinanza del 23 febbraio 2022 sulla cooperazione e la mobilità internaz
 short: OCMIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/165"
 language: it
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2022-02-23
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-165-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/165/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2022-165-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/165/20240101/it"
 
 (OCMIF)
 
-del 23 febbraio 2022 (Stato 1° gennaio 2024)
+del 23 febbraio 2022 (Stato 1° agosto 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 4 capoverso 4 e 11 della legge federale del 25 settembre 2020[^ingress-1] sulla cooperazione e la mobilità internazionali in materia di formazione (LCMIF),
+visti gli articoli 4 capoverso 4, 6 capoversi 1 e 6 nonché l’articolo 11 della legge federale del 25 settembre 2020[^ingress-1] sulla cooperazione e la mobilità internazionali in materia di formazione (LCMIF),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 414.51](https://fedlex.data.admin.ch/eli/cc/2022/164)
+[^ingress-1]: [RS 414.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6799)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 ## Capitolo 1: Oggetto
 
@@ -34,7 +35,48 @@ ordina:
 La presente ordinanza disciplina:
 
 - a. i tipi di sussidi di cui all’articolo 4 capoversi 1 lettere b–f e 2 LCMIF;
-- b. la competenza di concludere trattati internazionali di portata limitata concernenti la cooperazione internazionale in materia di formazione.
+- b. la competenza di concludere trattati internazionali di portata limitata concernenti la cooperazione internazionale in materia di formazione;
+- c.[^1-1] l’agenzia nazionale (art. 6 LCMIF).
+
+[^1-1]: Introdotta dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
+
+## Capitolo 1*a*: Agenzia nazionale
+
+[^chap1a-1]
+
+[^chap1a-1]: Introdotto dalla cifra I dell’O del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
+
+#### Art. 1a
+
+**Designazione dell’agenzia nazionale**
+
+L’agenzia nazionale è la fondazione «Movetia – Fondazione svizzera per la promozione degli scambi e della mobilità».
+
+#### Art. 1b
+
+**Approvazione degli statuti e dei regolamenti dell’agenzia nazionale**
+
+<sup>1</sup> Quando l’agenzia nazionale sottopone all’Autorità federale di vigilanza sulle fondazioni (AVF) una domanda di approvazione dei propri statuti, prima che l’AVF decida, il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e il Dipartimento federale dell’interno (DFI) chiedono al Consiglio federale il suo consenso all’approvazione degli statuti.
+
+<sup>2</sup> Quando l’agenzia nazionale sottopone all’AVF una domanda di approvazione di regolamenti che disciplinano compiti per i quali sono impiegati fondi federali, prima che l’AVF decida, il DEFR e il DFI chiedono al Consiglio federale il suo consenso all’approvazione di tali regolamenti.
+
+#### Art. 1c
+
+**Convenzione sulle prestazioni**
+
+<sup>1</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) conclude con l’agenzia nazionale una convenzione sulle prestazioni.
+
+<sup>2</sup>
+
+La convenzione sulle prestazioni definisce in particolare:
+
+- a. le prestazioni da fornire;
+- b. gli obiettivi;
+- c. le priorità;
+- d. le prescrizioni finanziarie e gli indicatori basati sulle prestazioni;
+- e. l’importo massimo dell’indennità di cui all’articolo 6 capoverso 4 LCMIF e le modalità di versamento;
+- f. la presentazione di rapporti e la rendicontazione sull’utilizzo dei fondi federali;
+- g. le conseguenze in caso di mancato raggiungimento degli obiettivi.
 
 ## Capitolo 2: Sussidi per programmi della Confederazione
 
@@ -121,16 +163,18 @@ Nel determinare i sussidi, l’agenzia nazionale computa i costi forfettari segu
 
 <sup>4</sup>
 
-Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) può adeguare l’allegato in base ai criteri seguenti:
+Il DEFR può adeguare l’allegato in base ai criteri seguenti:[^6-1]
 
 - a. l’evoluzione del costo della vita nelle destinazioni delle attività di mobilità previste;
 - b. l’evoluzione degli importi forfettari di programmi internazionali paragonabili in materia di formazione.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 #### Art. 7
 
 **Esame e decisione**
 
-<sup>1</sup> L’agenzia nazionale esamina le domande e le sottopone alla Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) per decisione. Quest’ultima si pronuncia mediante decisione.
+<sup>1</sup> L’agenzia nazionale esamina le domande e le sottopone alla SEFRI per decisione. Quest’ultima si pronuncia mediante decisione.[^7-1]
 
 <sup>2</sup>
 
@@ -138,6 +182,8 @@ Se i sussidi chiesti superano i fondi disponibili, la loro ripartizione tra gli 
 
 - a. media delle quote percentuali dei fondi versati annualmente nei quattro anni di promozione precedenti;
 - b. tasso di crescita medio dei fondi versati annualmente nei quattro anni di promozione precedenti.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 362](https://fedlex.data.admin.ch/eli/oc/2026/362)).
 
 ### Sezione 3: Cooperazioni internazionali
 
@@ -351,7 +397,7 @@ Per quanto riguarda le lettere di raccomandazione, tratta i seguenti dati person
 - d. datore di lavoro;
 - e. rapporto della persona indicata come referenza con il candidato.
 
-[^19a-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
 
 #### Art. 19b
 
@@ -361,7 +407,7 @@ Per quanto riguarda le lettere di raccomandazione, tratta i seguenti dati person
 
 <sup>2</sup> Ai fini della valutazione dell’efficacia della misura, il cognome, il nome, la lingua di corrispondenza, l’indirizzo e-mail nonché l’istituto universitario con l’indirizzo di studio e l’anno accademico possono essere conservati fino a un massimo di 20 anni.
 
-[^19b-1]: Introdotto dal n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+[^19b-1]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
 
 #### Art. 20
 
@@ -406,8 +452,8 @@ La SEFRI stabilisce l’ammontare delle borse di studio sulla base dei costi for
 
 <sup>4</sup> Il sussidio destinato all’IUE è calcolato sulla base del numero di borse di studio approvate per coorte e per anno. Il calcolo si fonda su una tassa universitaria forfettaria di 12 000 euro per ogni borsista. L’importo delle tasse universitarie può essere adeguato annualmente al rincaro in Italia.[^22-2]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 712](https://fedlex.data.admin.ch/eli/oc/2023/712)).
 
 #### Art. 23
 
@@ -554,7 +600,7 @@ Sono impiegati per:
 
 <sup>2</sup> Il DEFR può delegare tale competenza alla SEFRI.
 
-[^34-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Capitolo 8: Disposizioni finali
 
