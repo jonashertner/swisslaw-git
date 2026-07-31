@@ -3,20 +3,19 @@ canton: SG
 number: "215.110"
 title: Aufnahmereglement der Mittelschule
 language: de
-version: 2025-10-01
-valid_until: 2026-07-31
-version_adopted: 2025-08-13
+version: 2026-08-01
+version_adopted: 2026-05-20
 adopted: 2025-08-13
 in_force: 2025-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.110"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3800/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3919/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Aufnahmereglement der Mittelschule
 
-vom 13.08.2025 (Stand 01.10.2025)
+vom 13.08.2025 (Stand 01.08.2026)
 
 Der Bildungsrat des Kantons St.Gallen
 
@@ -65,10 +64,10 @@ als Reglement:[^ingress-2]
 - a) aufgenommen, wer die Aufnahmeprüfung im dritten Quartal des der Aufnahme vorangehenden Schuljahres bestanden hat;
 - b) prüfungsfrei aufgenommen, wer das Untergymnasium an der Kantonsschule am Burggraben St.Gallen besucht und am Ende des vierten Semesters die Voraussetzungen des Promotionsreglements des Untergymnasiums für die definitive Promotion erfüllt.
 
-<sup>3</sup> In die Wirtschaftsmittelschule, die Informatikmittelschule oder die Fachmittelschule wird aufgenommen, wer:
+<sup>3</sup> In die Wirtschaftsmittelschule, die Informatikmittelschule oder die Fachmittelschule wird aufgenommen, wer die Einheitsaufnahmeprüfung im der Aufnahme vorangehenden Schuljahr bestanden hat.
 
-- a) die Einheitsaufnahmeprüfung im ersten Quartal des der Aufnahme vorangehenden Schuljahres bestanden hat;
-- b) nach nicht bestandenem ersten Semester an der Wirtschaftsmittelschule, der Informatikmittelschule, der Fachmittelschule oder dem Gymnasium die Einheitsaufnahmeprüfung im dritten Quartal des der Aufnahme vorangehenden Schuljahres bestanden hat. Die Rektorin oder der Rektor kann in begründeten Fällen Ausnahmen bestimmen.
+- a) …
+- b) …
 
 #### Art. 4
 
@@ -76,7 +75,7 @@ als Reglement:[^ingress-2]
 
 <sup>1</sup> Die Aufnahmeprüfung für das Gymnasium findet im dritten Quartal des Schuljahres statt.
 
-<sup>2</sup> Die Einheitsaufnahmeprüfung für die Wirtschaftsmittelschule, die Informatikmittelschule und die Fachmittelschule findet im ersten Quartal des Schuljahres und in Fällen nach [Art. 3](https://www.gesetzessammlung.sg.ch/data/215.110/de/art3) Abs. 3 Bst. b dieses Erlasses im dritten Quartal des Schuljahres statt.
+<sup>2</sup> Die Einheitsaufnahmeprüfung für die Wirtschaftsmittelschule, die Informatikmittelschule und die Fachmittelschule findet im ersten und im dritten Quartal des Schuljahres statt.
 
 ### 2. Zulassung zur Prüfung
 
@@ -126,7 +125,7 @@ als Reglement:[^ingress-2]
 
 <sup>1</sup> Prüfungsfächer sind Deutsch, Französisch und Mathematik. Geprüft wird schriftlich. In Mathematik finden zwei schriftliche Prüfungen (Mathematik I und Mathematik II) statt.
 
-<sup>2</sup> Für die Aufnahme in das Gymnasium sind zudem die Noten der Oberstufe in den Fächern Deutsch, Französisch, Englisch, Mathematik und Natur, Mensch, Gesellschaft (NMG) massgebend.
+<sup>2</sup> Für die Aufnahme in das Gymnasium sind zudem die Noten des laufenden Schuljahres der öffentlichen st.gallischen oder diesen gleichgestellten Oberstufenschulen in den Fächern Deutsch, Französisch, Englisch, Mathematik und Natur, Mensch, Gesellschaft (NMG) massgebend.
 
 #### Art. 10
 
@@ -233,7 +232,7 @@ als Reglement:[^ingress-2]
 
 <sup>1</sup> Die Prüfungspunktzahl ist die Summe der Noten in den Fächern Deutsch, Französisch, Mathematik I und Mathematik II.
 
-<sup>2</sup> Für die Aufnahmeprüfung des Gymnasiums zählen zudem die Noten des letzten Zeugnisses der Oberstufe in den Fächern:
+<sup>2</sup> Für die Aufnahmeprüfung des Gymnasiums zählen zudem die Noten des letzten Zeugnisses der öffentlichen st.gallischen oder dieser gleichgestellten Oberstufe in den Fächern:
 
 - a) Deutsch;
 - b) Fremdsprachen (Mittel aus Französisch und Englisch);
@@ -311,7 +310,10 @@ als Reglement:[^ingress-2]
 
 **Prüfungswiederholung**
 
-<sup>1</sup> Wer aufgrund der Prüfung oder am Ende des ersten Semesters abgewiesen wird, kann die Aufnahmeprüfung für denselben Ausbildungsgang (Gymnasium oder Wirtschaftsmittelschule, Informatikmittelschule bzw. Fachmittelschule) frühestens beim nächsten ordentlichen Termin wiederholen.
+<sup>1</sup> Wer aufgrund der Prüfung oder am Ende des ersten Semesters abgewiesen wird, kann:
+
+- a) die Aufnahmeprüfung für das Gymnasium frühestens beim nächsten ordentlichen Termin wiederholen;
+- b) die Einheitsaufnahmeprüfung frühestens im ersten Quartal des der Aufnahme vorangehenden Schuljahres wiederholen.
 
 <sup>2</sup> Eine zweite Wiederholung ist ausgeschlossen.
 
