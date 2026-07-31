@@ -4,13 +4,12 @@ number: IV B/51/4
 title: Schulordnung der Gewerblich-industriellen Berufsfachschule in Ziegelbrücke
 short: "Schulordnung GIBGL, SoGIBGL"
 language: de
-version: 2021-02-01
-valid_until: 2026-07-31
-version_adopted: 2021-02-17
+version: 2026-08-01
+version_adopted: 2026-06-08
 adopted: 2021-02-17
 in_force: 2021-02-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.51.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/2226/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2659/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,16 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2226/pdf_file"
 
 (Schulordnung GIBGL, SoGIBGL)
 
-Vom 17.02.2021 (Stand 01.02.2021)
+Vom 17.02.2021 (Stand 01.08.2026)
 
 Die Aufsichtskommission,
 
-gestützt auf Artikel 8 der Schulorganisationsverordnung (SOV)[^ingress-1],
+gestützt auf Artikel 8 und 12 der Schulorganisationsverordnung[^ingress-1] sowie Artikel 2 der Bildungsangebotsverordnung (BAV)[^ingress-2],
 
 erlässt:
 
 [^ingress-1]: GS [IV B/1/4](https://gesetze.gl.ch/data/IV-B.1.4/de)
+[^ingress-2]: GS [IV B/1/5](https://gesetze.gl.ch/data/IV-B.1.5/de)
 
 ## 1. Allgemeines
 
@@ -35,11 +35,9 @@ erlässt:
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Schulordnung regelt in Ergänzung zur Bildungsangebotsverordnung (BAV)[^1-1] Organisation und Schulbetrieb sowie Rechte und Pflichten der Lernenden an der Gewerblich-industriellen Berufsfachschule.
+<sup>1</sup> Diese Schulordnung regelt in Ergänzung zur Bildungsangebotsverordnung Organisation und Schulbetrieb sowie Rechte und Pflichten der Lernenden an der Gewerblich-industriellen Berufsfachschule.
 
 <sup>2</sup> Es gilt für alle Angebote gemäss Artikel 23 Absatz 2 BAV.
-
-[^1-1]: GS [IV B/1/5](https://gesetze.gl.ch/data/IV-B.1.5/de)
 
 ## 2. Organisation und Schulbetrieb
 
@@ -47,7 +45,7 @@ erlässt:
 
 **Konvent der Lehrpersonen**
 
-<sup>1</sup> Mindestens einmal im Jahr findet ein Konvent aller Lehrpersonen statt.
+<sup>1</sup> Mindestens einmal im Jahr findet auf Einladung der Schulleitung hin ein Konvent aller Lehrpersonen statt.
 
 <sup>2</sup> Die Schulleitung kann die weiteren Mitarbeitenden oder eine Vertretung der Lernenden zum Konvent einladen. Ihnen kommt beratende Stimme zu.
 
@@ -63,11 +61,13 @@ erlässt:
 
 **Disziplinarrecht**
 
-<sup>1</sup> Die Schulleitung erlässt Verhaltensregeln für die Lernenden bezüglich Absenzen, Disziplin und dem in betrieblichen Belangen geforderten Verhalten.
+<sup>1</sup> Die Schulleitung erlässt für Lernende, die schuldhaft zu Beanstandungen Anlass geben, eine Disziplinarordnung, worin unter anderem das Absenzenwesen sowie die weitergehenden Massnahmen nach Artikel 45 Absatz 2 des Bildungsgesetzes[^4-1], wie Arbeit im Dienst der Schule, vorübergehender Ausschluss vom Unterricht und ähnliche Massnahmen, geregelt sind.
 
-<sup>2</sup> Für Lernende in Bildungsgängen der dualen Berufsbildung kann die Schulleitung für disziplinarische Verstösse, namentlich für unentschuldigte Absenzen, Bussen vorsehen. Die Bussen betragen maximal 100 Franken pro Fall.
+<sup>2</sup> Für Lernende in Bildungsgängen der dualen Berufsbildung kann die Schulleitung für disziplinarische Verstösse, namentlich für unentschuldigte Absenzen, Bussen gemäss Artikel 12 der Schulorganisationsverordnung vorsehen. Die Bussen betragen maximal 100 Franken pro Fall. Die weiteren Details regelt die Schulleitung in der Disziplinarordnung.
 
-<sup>3</sup> Die Verhaltensregeln unterstehen der Genehmigung durch die Aufsichtskommission.
+<sup>3</sup> Die Disziplinarordnung untersteht der Genehmigung durch die Aufsichtskommission.
+
+[^4-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
 
 #### Art. 5
 
@@ -81,15 +81,13 @@ erlässt:
 
 #### Art. 6
 
-**Erstattung der Kosten für Material und Lehrmittel**
+**Erstattung der Kosten gemäss Artikel 11 des Bildungsgesetzes**
 
-<sup>1</sup> Für Fotokopien und Schulmaterial wird den Lernenden jährlich eine von der Schulleitung festgelegte kostendeckende Pauschale in Rechnung gestellt.
+<sup>1</sup> Die Schulleitung ist die zuständige Behörde im Sinne von Artikel 11 Absätze 3 und 4 des Bildungsgesetzes.
 
-<sup>2</sup> Die Kosten für die Lehrmittel werden den Lernenden nach Aufwand in Rechnung gestellt. In Brückenangeboten kann die Abgeltung über eine kostendeckende Pauschale erfolgen.
+<sup>2</sup> Die Erstattung der Kosten nach Artikel 11 Absatz 3 des Bildungsgesetzes kann nach Aufwand oder über eine durch die Schulleitung festgelegte Pauschale erfolgen.
 
-<sup>3</sup> Die Schulleitung entscheidet über Härtefälle gemäss Artikel 11 Absatz 4 des Bildungsgesetzes[^6-1].
-
-[^6-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
+<sup>3</sup> …
 
 ## 3. Zugang zu Brücken- und Integrationsangeboten für Jugendliche
 
@@ -105,7 +103,7 @@ erlässt:
 
 <sup>1</sup> Über die Aufnahme, Zu- und Umteilung in ein Angebot wird in einem Triageverfahren befunden.
 
-<sup>2</sup> Bei der Aufnahme wird das Case Management Berufsbildung oder die Fachstelle Integration in das Verfahren eingebunden.
+<sup>2</sup> Bei der Aufnahme wird das Case Management Berufsbildung oder die Fachstelle Gesellschaft in das Verfahren eingebunden.
 
 <sup>3</sup> Die Erziehungsberechtigten werden, soweit möglich, in das Verfahren mit eingebunden.
 
