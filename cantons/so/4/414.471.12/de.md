@@ -3,26 +3,25 @@ canton: SO
 number: "414.471.12"
 title: Reglement über die Fachmaturitäten
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-07-17
+version: 2026-08-01
+version_adopted: 2026-04-03
 adopted: 2007-06-26
 in_force: 2007-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.471.12"
-pdf: "https://bgs.so.ch/api/de/versions/5388/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5625/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Fachmaturitäten
 
-Vom 26.06.2007 (Stand 01.08.2023)
+Vom 26.06.2007 (Stand 01.08.2026)
 
-Das Departement für Bildung und Kultur des Kantons Solothurn
+Das Departement für Bildung, Kultur und Sport des Kantons Solothurn
 
 gestützt auf § 10 des Mittelschulgesetzes vom 25. Juni 2005[^ingress-1]
 
-verfügt:
+erlässt:
 
 [^ingress-1]: BGS [414.11](https://bgs.so.ch/data/414.11/de).
 
@@ -194,11 +193,17 @@ verfügt:
 
 **…**
 
+#### § 15bis
+
+**Anmeldepflicht**
+
+<sup>1</sup> Der Schüler oder die Schülerin meldet sich bis spätestens Ende des ersten Semesters des Abschlussjahres zur Abschlussprüfung an.
+
 #### § 16
 
 **Prüfungen**
 
-<sup>1</sup> Zu den Abschlussprüfungen wird zugelassen, wer eine mindestens mit der Gesamtnote 4 bewertete Fachmaturitätsarbeit verfasst hat.
+<sup>1</sup> Zur Abschlussprüfung werden Schüler und Schülerinnen zugelassen, welche eine mindestens mit der Gesamtnote 4 bewertete Fachmaturitätsarbeit verfasst und die Prüfungsgebühr entrichtet haben.
 
 <sup>2</sup> Es werden geprüft:
 
@@ -247,11 +252,23 @@ verfügt:
 
 #### § 20
 
-**Gebühr**
+**Erhebung der Einschreibegebühr**
 
-<sup>1</sup> Mit der Anmeldung zur Fachmaturität ist eine Gebühr von 500 Franken zu entrichten.
+<sup>1</sup> Mit der Anmeldung zur Fachmaturität ist eine Einschreibegebühr von 300 Franken zu entrichten.
 
-<sup>2</sup> Bei Abbruch des Lehrganges oder des Praktikums und bei Nichtantreten zu den Prüfungen besteht kein Anspruch auf Rückerstattung.
+<sup>2</sup> Bei Nichtantreten und Abbruch des Lehrganges, des Praktikums oder des Praxiseinsatzes besteht kein Anspruch auf Rückerstattung.
+
+#### § 20bis
+
+**Erhebung der Prüfungsgebühr**
+
+<sup>1</sup> Der Schüler oder die Schülerin entrichtet nach der Anmeldung zur Abschlussprüfung die Prüfungsgebühr. Die Gebühr richtet sich nach dem Gebührentarif vom 8. März 2016[^20bis-1].
+
+<sup>2</sup> Bei Fernbleiben oder Prüfungsabbruch ohne wichtigen Grund besteht kein Anspruch auf Rückerstattung der Prüfungsgebühr; eine Anrechnung für eine spätere Prüfung ist ausgeschlossen.
+
+<sup>3</sup> Für die Wiederholung der Abschlussprüfung ist die Prüfungsgebühr erneut zu entrichten.
+
+[^20bis-1]: BGS [615.11](https://bgs.so.ch/data/615.11/de).
 
 #### § 21
 
@@ -267,7 +284,7 @@ verfügt:
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Verfügungen aufgrund dieses Reglementes kann innerhalb von zehn Tagen beim Departement für Bildung und Kultur Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen aufgrund dieses Reglementes kann innerhalb von zehn Tagen beim Departement Beschwerde geführt werden.
 
 <sup>2</sup> Die Bewertung der mündlichen Präsentation der Fachmaturitätsarbeit ist nur im Rahmen der Gesamtnote anfechtbar.
 
