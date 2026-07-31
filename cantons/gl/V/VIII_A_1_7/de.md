@@ -4,13 +4,12 @@ number: VIII A/1/7
 title: Verordnung über die Ausbildungspflicht im Bereich der Pflege
 short: "Ausbildungspflichtverordnung, APV"
 language: de
-version: 2024-07-01
-valid_until: 2026-07-31
-version_adopted: 2024-02-20
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 2024-02-20
 in_force: 2024-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.1.7"
-pdf: "https://gesetze.gl.ch/api/de/versions/2486/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2651/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2486/pdf_file"
 
 (Ausbildungspflichtverordnung, APV)
 
-Vom 20.02.2024 (Stand 01.07.2024)
+Vom 20.02.2024 (Stand 01.08.2026)
 
 Der Regierungsrat,
 
@@ -102,6 +101,8 @@ erlässt:
 
 <sup>6</sup> Für die Berechnung wird auf den Durchschnittswert aus zwölf Monatswerten des Vorjahres (Juli bis Juni) abgestellt.
 
+<sup>7</sup> Bei einer wesentlichen Reduktion der relevanten Vollzeitäquivalente kann auf Antrag der Einrichtung auf die aktuellen Werte abgestellt werden.
+
 #### Art. 7
 
 **Standardwerte**
@@ -167,7 +168,7 @@ erlässt:
 
 <sup>3</sup> Bei einem Ausbildungsabbruch innerhalb eines Schuljahres werden die Ausbildungsplätze ganz angerechnet, sofern der Abbruch erst nach sieben ganzen Monaten Ausbildung während des Schuljahres erfolgte. Bei Abbrüchen innerhalb der ersten sechs Monate wird der Platz hälftig angerechnet.
 
-<sup>4</sup> Bildet eine Einrichtung in einer Qualifikationsstufe mehr aus, als sie verpflichtet wäre, werden ihr Ausbildungsplätze vollumfänglich angerechnet, sofern sie die verpflichteten Ausbildungsplätze auf der jeweiligen Qualifikationsstufe nicht um mehr als 30 Prozent überschreitet. Zusätzliche Ausbildungsplätze werden nur hälftig angerechnet.
+<sup>4</sup> Bildet eine Einrichtung in einer Qualifikationsstufe mehr aus, als sie verpflichtet wäre, werden ihr Ausbildungsplätze vollumfänglich angerechnet, sofern sie die verpflichteten Ausbildungsplätze auf der jeweiligen Qualifikationsstufe nicht um mehr als 40 Prozent überschreitet. Zusätzliche Ausbildungsplätze werden nur hälftig angerechnet.
 
 #### Art. 13
 
