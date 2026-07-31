@@ -4,13 +4,12 @@ number: "215.11"
 title: Mittelschulverordnung
 short: MSV
 language: de
-version: 2024-05-01
-corrected: 2024-04-26
-version_adopted: 2024-04-02
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 1981-03-17
 in_force: 1981-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3626/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3920/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3626/pdf_file"
 
 (MSV)
 
-vom 17.03.1981 (Stand 01.05.2024)
+vom 17.03.1981 (Stand 01.08.2026)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -105,7 +104,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Beschlüsse werden durch einfaches Mehr gefasst. Stimmenthaltung ist unzulässig. Bei Stimmengleichheit ist der Antrag angenommen, für den die oder der Vorsitzende gestimmt hat.
 
-### Schulbetrieb
+### 2. Schulbetrieb
 
 #### Art. 8
 
@@ -405,9 +404,9 @@ als Verordnung:[^ingress-2]
 
 #### Art. 39
 
-**Fortbildungssemester**
+**Intensivweiterbildung**
 
-<sup>1</sup> Das Bildungsdepartement kann Hauptlehrpersonen nach dem 15. Laufbahnjahr[^39-1] und nach wenigstens fünfjährigem Schuldienst an einer staatlichen Mittelschule im Kanton ein bezahltes Fortbildungssemester gewähren.
+<sup>1</sup> Das Bildungsdepartement kann Hauptlehrpersonen nach dem 15. und nach dem 25. Laufbahnjahr[^39-1] sowie nach wenigstens fünfjährigem Unterricht an einer staatlichen Mittelschule im Kanton je eine bezahlte Intensivweiterbildung von 12 Wochen, wovon 10 Wochen in die Unterrichtszeit fallen, gewähren.
 
 <sup>2</sup> …
 
@@ -514,6 +513,14 @@ als Verordnung:[^ingress-2]
 **Vollzugsbeginn**
 
 <sup>1</sup> Diese Verordnung wird ab Beginn des Schuljahres 1981/82 angewendet.
+
+#### Art. 50
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Das Bildungsdepartement kann Hauptlehrpersonen, die bis zum 31. Juli 2026 das 15. Laufbahnjahr erfüllt und wenigstens fünf Jahre an einer staatlichen Mittelschule im Kanton unterrichtet haben, ein bezahltes Fortbildungssemester gewähren.
+
+<sup>2</sup> Lehrpersonen, die ein Fortbildungssemester bezogen haben, kann keine Intensivweiterbildung gewährt werden.
 
 **Übergangsbestimmung des IV. Nachtrags vom 27. März 2012**[^footer-1]
 
