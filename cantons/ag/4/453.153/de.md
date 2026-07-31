@@ -4,13 +4,12 @@ number: "453.153"
 title: Verordnung über die Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen
 short: Passerellenverordnung
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-12-06
+version: 2026-08-01
+version_adopted: 2026-05-13
 adopted: 2007-05-02
 in_force: 2007-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.153"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3500/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4003/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3500/pdf_file"
 
 (Passerellenverordnung)
 
-Vom 02.05.2007 (Stand 01.08.2024)
+Vom 02.05.2007 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 33a Abs. 3 des Schulgesetzes vom 17. März 1981[^ingress-1] und die §§ 34 Abs. 1 und 40 Abs. 2 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-2],
+gestützt auf § 23 Abs. 2 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
-[^ingress-2]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
+[^ingress-1]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1. Allgemeines
 
@@ -36,7 +34,7 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt den Vorbereitungskurs und die Passerellenprüfung an der Aargauischen Maturitätsschule für Erwachsene.
+<sup>1</sup> Diese Verordnung regelt den Vorbereitungskurs und die Passerellenprüfung an der Aargauischen Maturitätsschule für Erwachsene (AME).
 
 #### § 2
 
@@ -66,13 +64,13 @@ beschliesst:
 
 #### § 5
 
-**Aufnahme und Absolvierung**
+**Zulassung in den Vorbereitungskurs und Absolvierung**
 
-<sup>1</sup> In den Vorbereitungskurs wird aufgenommen, wer im Besitz eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses ist.
+<sup>1</sup> In den Vorbereitungskurs wird zugelassen, wer im Besitz eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses ist.
 
-<sup>1<sup>bis</sup></sup> Vor dem Eintritt kann ein Aufnahmegespräch durch die Schulleitung stattfinden. Das Aufnahmegespräch hat beratenden Charakter.
+<sup>1<sup>bis</sup></sup> Vor der Zulassung kann ein Zulassungsgespräch durch die Schulleitung stattfinden. Dieses hat beratenden Charakter.
 
-<sup>2</sup> Die Schulleitung entscheidet im Rahmen der verfügbaren Plätze in der Reihenfolge der Anmeldungen über die Aufnahme in den Vorbereitungskurs.
+<sup>2</sup> Die Schulleitung entscheidet im Rahmen der verfügbaren Plätze in der Reihenfolge der Anmeldungen über die Zulassung in den Vorbereitungskurs und eröffnet den Entscheid.
 
 <sup>3</sup> Der Vorbereitungskurs gilt als absolviert, wenn pro Fach mindestens 80 % der erteilten Lektionen besucht sowie mindestens zwei Lernkontrollen abgelegt worden sind.
 
@@ -80,9 +78,9 @@ beschliesst:
 
 #### § 6
 
-**Zulassung**
+**Zulassung zur Passerellenprüfung**
 
-<sup>1</sup> Zur Prüfung wird zugelassen, wer den Vorbereitungskurs an der Aargauischen Maturitätsschule absolviert und die Studiengelder bezahlt hat.
+<sup>1</sup> Zur Prüfung wird zugelassen, wer den Vorbereitungskurs an der AME absolviert und die Studiengelder bezahlt hat.
 
 #### § 7
 
@@ -90,7 +88,7 @@ beschliesst:
 
 <sup>1</sup> Bezüglich Prüfungsfächer, Ziele und Inhalte der Prüfungen, Art und Dauer der Prüfungen, erlaubte Hilfsmittel, Beurteilungskriterien, Notengebung, Punktzahl und Notengewichtung, Bestehensnormen sowie Wiederholung der Prüfung gelten die Bestimmungen des Reglements über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen vom 17. März 2011 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK)[^7-1] und die darauf gestützten Richtlinien der Schweizerischen Maturitätskommission.
 
-<sup>1<sup>bis</sup></sup> Bezüglich Sanktionen, Prüfungsentscheid, Zeugnis sowie Ausnahmeregelung, namentlich zugunsten von Menschen mit Behinderungen, gelten sinngemäss die Bestimmungen der Verordnung über die Promotion und die Maturität an den Mittelschulen (Maturitätsverordnung) vom 23. Juni 1999[^7-2].
+<sup>1<sup>bis</sup></sup> Bezüglich Sanktionen, Prüfungsentscheid, Zeugnis sowie Ausnahmeregelung, namentlich zugunsten von Menschen mit Behinderungen, gelten sinngemäss die Bestimmungen der Verordnung über die Promotion und die Maturität am Gymnasium (V Gymnasium) vom 23. Juni 1999[^7-2].
 
 <sup>2</sup> Die Prüfung findet am Ende des Kurses als Gesamtprüfung statt.
 
@@ -110,7 +108,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Die Ressortleiterinnen und Ressortleiter der Maturitätsprüfungskommission gemäss § 18 der Maturitätsverordnung sind in ihrem Ressort insbesondere zuständig für die
+<sup>2<sup>bis</sup></sup> Die Ressortleiterinnen und Ressortleiter der Maturitätsprüfungskommission gemäss § 18 der V Gymnasium sind in ihrem Ressort insbesondere zuständig für die
 
 - a) Sicherstellung der Einhaltung der Bestimmungen gemäss § 7 Abs. 1 im Zusammenhang mit den schriftlichen Prüfungen,
 - b) Genehmigung der Aufgaben für die schriftlichen Prüfungen,
@@ -162,9 +160,7 @@ beschliesst:
 
 #### § 15a
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Für Studierende, die den Lehrgang vor dem Schuljahr 2024/25 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+**…**
 
 #### § 16
 
