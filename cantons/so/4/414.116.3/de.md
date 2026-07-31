@@ -3,20 +3,19 @@ canton: SO
 number: "414.116.3"
 title: Reglement über die Übertrittsbedingungen von Schülerinnen und Schülern der Sekundarstufe I aus den Bezirken Dorneck und Thierstein in die allgemeinbildenden Schulen der Sekundarstufe II des Kantons Basel-Landschaft
 language: de
-version: 2017-08-01
-valid_until: 2026-07-31
-version_adopted: 2017-08-01
+version: 2026-08-01
+version_adopted: 2026-03-01
 adopted: 2017-06-30
 in_force: 2017-06-30
 url: "https://bgs.so.ch/app/de/texts_of_law/414.116.3"
-pdf: "https://bgs.so.ch/api/de/versions/4659/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5611/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Übertrittsbedingungen von Schülerinnen und Schülern der Sekundarstufe I aus den Bezirken Dorneck und Thierstein in die allgemeinbildenden Schulen der Sekundarstufe II des Kantons Basel-Landschaft
 
-Vom 30.06.2017 (Stand 01.08.2017)
+Vom 30.06.2017 (Stand 01.08.2026)
 
 Das Departement für Bildung und Kultur
 
@@ -58,16 +57,16 @@ erlässt:
 
 #### § 4
 
-**Aufnahmeprüfung und Globalurteil**
+**Aufnahmeprüfung**
 
-<sup>1</sup> Das Verfahren mit Aufnahmeprüfung und Globalurteil haben zu bestehen:
+<sup>1</sup> Das Verfahren mit Aufnahmeprüfung haben zu bestehen:
 
 - a) Schüler und Schülerinnen der Sekundarschule E, welche die Voraussetzungen für eine prüfungsfreie Aufnahme nicht erfüllen;
 - b) Schüler und Schülerinnen, für welche keine prüfungsfreie Aufnahme vorgesehen ist.
 
 <sup>2</sup> Die Prüfungsanforderungen richten sich nach den Lernzielen der dritten Klasse der solothurnischen Sekundarschule E.
 
-<sup>3</sup> Das Aufnahmeverfahren hat bestanden, wer in der Prüfung und im Globalurteil zusammen mindestens 18 Punkte erreicht oder, sofern ein Globalurteil nicht beigebracht werden kann, wer in der Prüfung allein mindestens 18 Punkte erreicht.
+<sup>3</sup> Das Aufnahmeverfahren hat bestanden, wer in der Prüfung mindestens 18 Punkte erreicht.
 
 <sup>4</sup> Die Aufnahme erfolgt definitiv.
 
@@ -110,7 +109,7 @@ erlässt:
 
 <sup>2</sup> Die Prüfungsanforderungen richten sich nach den Lernzielen der dritten Klasse der solothurnischen Sekundarschule E.
 
-<sup>3</sup> Die Aufnahmeprüfung hat bestanden, wer in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) zusammen mit der Empfehlung der bisherigen Schule 16 Punkte erreicht.
+<sup>3</sup> Die Aufnahmeprüfung hat bestanden, wer in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) mindestens 16 Punkte erreicht.
 
 <sup>4</sup> Die Aufnahme erfolgt definitiv.
 
