@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Ordonnance du DFI du 16 décembre 2016 sur les boissons
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: fr
-version: 2025-07-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-220-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-220-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les boissons
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> août 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -22,7 +22,7 @@ vu les art. 10, al. 4, 12, al. 3, 14 et 36, al. 3 et 4, de l’ordonnance du 16 
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Titre 1 Dispositions générales
 
@@ -56,7 +56,7 @@ La présente ordonnance définit les denrées alimentaires suivantes et fixe les
 
 <sup>2</sup> Elle ne s’applique pas à l’eau potable, qui est régie par l’ordonnance du DFI du 16 décembre 2016 sur l’eau potable, et l’eau des installations de baignade et de douche accessibles par le public (OPBD)[^1-1].
 
-[^1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 #### Art. 2
 
@@ -220,7 +220,7 @@ Selon la composition, la dénomination spécifique peut être complétée par le
 
 <sup>7</sup> L’étiquette de l’eau qui a fait l’objet d’un traitement d’élimination partielle des fluorures, conformément à l’art. 8, al. 2, let. d, comporte, à proximité de l’indication de la composition analytique, la mention «eau soumise à une technique d’adsorption autorisée» ou «eau partiellement défluorisée» ou «défluorisée».
 
-[^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
@@ -250,7 +250,7 @@ L’eau de source est une eau d’origine souterraine commercialisée en respect
 
 <sup>2</sup> Les exigences des art. 7 et 8, valables pour l’eau minérale naturelle, s’appliquent au captage, au conditionnement et aux traitements admis.
 
-[^13-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^13-1]: [RS 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 #### Art. 14
 
@@ -362,7 +362,7 @@ Les jus de fruits concentrés, déshydratés et dilués, destinés à être remi
 
 Les indications requises à l’art. 3 OIDAl[^20-1] doivent être complétées pour le jus de fruits dilué avec la teneur minimale en jus de fruits, en purée de fruits ou en mélange de ses composants, à proximité de la dénomination spécifique.
 
-[^20-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^20-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### Chapitre 2 Jus de légumes
 
@@ -453,7 +453,7 @@ Les indications requises à l’art. 3 OIDAl[^24-1] doivent être complétées p
 
 <sup>2</sup> La purée de tomates partiellement déshydratée peut être dénommée «purée de tomates» ou «concentré de tomates».
 
-[^24-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^24-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### Chapitre 3 Nectar de fruits
 
@@ -545,7 +545,7 @@ L’adjonction de cultures de bactéries vivantes doit figurer dans la liste des
 - a. sous la nomenclature scientifique spécifique conforme aux prescriptions de l’ICSP (*International Committee on Systematics of Prokaryotes*), ou
 - b. avec la mention «avec des ferments lactiques».
 
-[^33-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^33-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^33-2]: Abrogée par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### Chapitre 2 Sirops
@@ -597,7 +597,7 @@ La teneur en caféine ne doit pas excéder 160 mg/ration journalière, cette der
 
 <sup>2</sup> Les boissons contenant de la caféine présentant une teneur en caféine supérieure à 150 mg/l peuvent contenir, en dérogation à l’annexe 1 OASM, au plus les quantités maximales indiquées à l’annexe 7. À cet égard, la teneur maximale est déterminante au moment de la remise au consommateur.
 
-[^38-1]: [RS 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
+[^38-1]: [RS 817.022.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9684)
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 39
@@ -619,7 +619,7 @@ Les indications requises à l’art. 3 OIDAl[^39-1] doivent être complétées p
 
 <sup>2</sup> La dénomination spécifique pour les boissons contenant de la caféine présentant une teneur en caféine supérieure à 150 mg/l peut être «boisson rafraîchissante contenant de la caféine», «boisson dite énergisante» ou «Energy Drink» ou «shot dit énergisant» ou «Energy Shot» pour les produits en portions inférieures à 100 ml.
 
-[^39-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^39-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^39-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^39-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
@@ -814,7 +814,7 @@ Dans le cas des extraits de café et de chicorée, les indications requises à l
 
 <sup>2</sup> Dans le cas des mélanges de café et de succédanés du café, de même que dans le cas des mélanges d’extraits de café et d’extraits de succédanés du café, la teneur en café du mélange de départ doit être indiquée en pour-cent masse sur l’emballage et dans les textes publicitaires.
 
-[^57-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^57-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### Chapitre 2 Thé, thé décaféiné, maté, infusion de plantes et de fruits
 
@@ -852,7 +852,7 @@ La teneur en eau ne doit pas dépasser:
 
 <sup>5</sup> Seuls les fruits mentionnés à l’art. 21 de l’ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d’origine végétale, les champignons et le sel comestible[^59-1] sont admis pour la préparation d’infusions aux fruits. Au lieu du fruit entier, on peut utiliser des parties de celui-ci (par ex. sa peau).
 
-[^59-1]: [RS 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
+[^59-1]: [RS 817.022.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9679)
 
 #### Art. 60
 
@@ -881,7 +881,7 @@ La dénomination spécifique des produits aromatisés à base de thé noir, de p
 [^61-1]: Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2024/1143, JO L 2024/1143, 23.4.2024.
 [^61-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 [^61-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
-[^61-4]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^61-4]: [RS 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 [^61-5]: Introduit par le ch. I de l’O du DFI du 3 janv. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 
 #### Art. 62
@@ -897,7 +897,7 @@ La dénomination spécifique des produits aromatisés à base de thé noir, de p
 Dans les entreprises soumises au contrôle du commerce des vins (art. 33, al. 1, de l’ordonnance du 14 novembre 2007 sur le vin[^62a-2]), les autorités d’exécution visées dans la législation sur les denrées alimentaires exécutent les art. 69 à 76 et 84 à 86 conformément à la législation sur les denrées alimentaires.
 
 [^62a-1]: Introduit par le ch. I de l’O du DFI du 3 janv. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
-[^62a-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^62a-2]: [RS 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 
 ### Chapitre 2 Bière, bière sans alcool
 
@@ -1095,7 +1095,7 @@ Pour les autres vins, une des indications suivantes peut figurer sur l’étique
 
 <sup>8</sup> Si la liste des ingrédients ou la déclaration nutritionnelle est indiquée à titre facultatif, elle peut, en dérogation à l’art. 4, al. 1, OIDAl, être fournie sous forme électronique, pour autant que les prescriptions de l’art. 119, par. 4 et 5, du règlement (UE) n<sup>o</sup> 1308/2013[^75-2] sont respectées.[^75-3]
 
-[^75-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^75-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^75-2]: Cf. note de bas de page relative à l’art. 61, al. 3.
 [^75-3]: Introduit par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
@@ -1129,7 +1129,7 @@ Lorsque les vins visés à l’al. 1 sont soumis à l’un des processus de dés
 - b. «partiellement désalcoolisé» lorsque le produit a un titre alcoométrique acquis supérieur à 0,5 % vol. et inférieur au titre alcoométrique acquis minimal fixé pour la catégorie avant désalcoolisation.[^76-4]
 
 [^76-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 janv. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
-[^76-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^76-2]: [RS 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 [^76-3]: Cf. note de bas de page relative à l’art. 61, al. 3.
 [^76-4]: Introduit par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
@@ -2012,8 +2012,8 @@ Pour les eaux-de-vie suivantes, la dénomination «eau-de-vie de …» peut êtr
 
 <sup>4</sup> Le *gin*, le *gin* distillé et le *London gin* peuvent porter la dénomination «dry» si leur teneur en produits édulcorants ne dépasse pas 0,1 g par litre de produit final exprimée en sucre inverti.[^159-3]
 
-[^159-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^159-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^159-1]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^159-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^159-3]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ## Titre 7 Mise à jour des annexes
@@ -2042,11 +2042,9 @@ Sont abrogées:
 
 #### Art. 161a
 
-**Disposition transitoire de la modification du 8 décembre 2023**[^161a-1]
+[^161a-1]
 
-Les denrées alimentaires non conformes à la modification du 8 décembre 2023 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 31 janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
-
-[^161a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^161a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020 ([RO 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Abrogé par le ch. I de l’O de l’OSAV du 19 juin 2026, avec effet au 1<sup>er</sup> août 2026 ([RO 2026 370](https://fedlex.data.admin.ch/eli/oc/2026/370)).
 
 #### Art. 161b
 
@@ -2055,6 +2053,14 @@ Les denrées alimentaires non conformes à la modification du 8 décembre 2023 p
 Les denrées alimentaires non conformes à la modification du 28 mai 2025 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 30 juin 2027 et remises au consommateur jusqu’à épuisement des stocks.
 
 [^161b-1]: Introduit par le ch. I de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+
+#### Art. 161c
+
+**Disposition transitoire relative à la modification du 19 juin 2026**[^161c-1]
+
+Les denrées alimentaires non conformes à la modification du 19 juin 2026 peuvent encore être importées, fabriquées et étiquetées selon l’ancien droit jusqu’au 1<sup>er</sup> août 2027 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^161c-1]: Introduit par ch. I de l’O de l’OSAV du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 370](https://fedlex.data.admin.ch/eli/oc/2026/370)).
 
 #### Art. 162
 
@@ -2347,19 +2353,19 @@ Annexe 9[^t-3]
 
 ## Pratiques et traitements œnologiques admis, avec limites et conditions
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du DFI du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^t-3]: Nouvelle teneur selon ch. II de l’O de l’OSAV du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 370](https://fedlex.data.admin.ch/eli/oc/2026/370)).
 
-Les pratiques et traitements œnologiques admis correspondent à ceux décrits dans les annexes I, II A et III A du règlement délégué (UE) 2019/934[^annex9-lvlu1-1]. Sauf mention explicite, la pratique ou le traitement décrits peuvent être utilisés pour le vin (1), le vin nouveau encore en fermentation (2), le vin de liqueur (3), le vin mousseux (4), le vin mousseux de qualité (5), le vin mousseux de qualité type aromatique (6), le vin mousseux gazéifié (7), le vin pétillant (8), le vin pétillant gazéifié (9) le moût de raisins (10), le moût de raisins partiellement fermenté (11), le moût de raisins partiellement fermenté issu de raisins passerillés (12), le moût de raisins concentré (13), le moût de raisins concentré rectifié (14), le vin de raisins passerillés (15), le vin de raisins surmûris (16), ainsi que le raisin frais et le moût partiellement fermenté destiné à la consommation humaine directe en l’état.
+Les pratiques et traitements œnologiques admis correspondent à ceux décrits dans les annexes I, II A et III A du règlement délégué (UE) 2019/934[^annex9-lvlu1-1]. Sauf mention explicite, la pratique ou le traitement décrits peuvent être utilisés pour le vin (1), le vin nouveau encore en fermentation (2), les vins de liqueur (3), le vin mousseux (4), le vin mousseux de qualité (5), le vin mousseux de qualité type aromatique (6), le vin mousseux gazéifié (7), le vin pétillant (8), le vin pétillant gazéifié (9) le moût de raisins (10), le moût de raisins partiellement fermenté (11), le moût de raisins partiellement fermenté issu de raisins passerillés (12), le moût de raisins concentré (13), le moût de raisins concentré rectifié (14), le vin de raisins passerillés (15), le vin de raisins surmûris (16), ainsi que le raisin frais et le moût partiellement fermenté destiné à la consommation humaine directe en l’état.
 
 La Suisse est considérée comme faisant partie de la zone B, telle que définie à l’appendice I du règlement (UE) n<sup>o</sup> 1308/2013[^annex9-lvlu1-2].
 
 Les pratiques et traitements œnologiques admis selon l’annexe VIII du règlement (UE) n<sup>o</sup> 1308/2013 sont aussi reconnus. En dérogation à:
 
 - a. l’annexe VIII, partie I, section A, point 2, point b, l’augmentation du titre alcoométrique volumique naturel ne peut dépasser 2,5 % vol.;
-- b. l’annexe VIII, partie I, section B, point 6, point b, en ce qui concerne le vin rouge, la limite maximale du titre alcoométrique total des raisins frais, du moût de raisins, du moût de raisins partiellement fermenté, du vin nouveau ou du vin peut être portée à 12,5 % vol.
-- c. l’annexe VIII, partie I, section B, point 6, point b, la limite maximale du titre alcoométrique total des raisins frais, du moût de raisins, du moût de raisins partiellement fermenté, du vin nouveau ou du vin utilisé pour la production de vins bénéficiant d’une appellation d’origine peut atteindre 15 % vol., pour autant que la législation cantonale le prévoit.
+- b. l’annexe VIII, partie I, section B, point 6, point b, en ce qui concerne le vin rouge, la limite maximale du titre alcoométrique total des raisins frais, du moût de raisins, du moût de raisins partiellement fermenté, du vin nouveau ou du vin peut être portée à 12,5 % vol.;
+- c. l’annexe VIII, partie I, section B, point 6, point b, la limite maximale du titre alcoométrique total des raisins frais, du moût de raisins, du moût de raisins partiellement fermenté, du vin nouveau ou du vin utilisé pour la production de vins bénéficiant d’une appellation d’origine contrôlée peut atteindre 15 % vol., pour autant que la législation cantonale le prévoit.
 
-[^annex9-lvlu1-1]: Règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, JO L 149 du 7.6.2019, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2022/68, JO L 12 du 19.1.2022, p. 1.
+[^annex9-lvlu1-1]: Règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, JO L 149 du 7.6.2019, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2024/3085, JO L, 2024/3085, 9.12.2024.
 [^annex9-lvlu1-2]: Cf. note de bas de page relative à l’art. 61, al. 3.
 
 Annexe 10
@@ -2368,7 +2374,7 @@ Annexe 10
 
 ## Pictogrammes autorisés selon l’art. 75, al. 1, let. e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/fr/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/fr/xml/image/image4.png)
 
 Des pictogrammes conformes aux modèles ci-dessus reprenant exclusivement le lait ou l’œuf sont également autorisés.
 

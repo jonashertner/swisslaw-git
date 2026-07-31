@@ -3,18 +3,18 @@ sr: "817.022.12"
 title: Verordnung des EDI vom 16. Dezember 2016 über Getränke
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/220"
 language: de
-version: 2025-07-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-220-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2017-220-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/220/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über Getränke
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2025)
+vom 16. Dezember 2016 (Stand am 1. August 2026)
 
 Das Eidgenössische Departement des Innern (EDI)
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 10 Absatz 4, 12 Absatz 3, 14 und 36 Absätze 3 und 4 d
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -57,7 +57,7 @@ Diese Verordnung umschreibt folgende Lebensmittel, legt die Anforderungen an sie
 <sup>2</sup> Sie gilt nicht für Trinkwasser, das in der Verordnung des EDI vom 16. Dezember 2016[^1-2] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen (TBDV) geregelt ist.
 
 [^1-1]: Ausdruck gemäss durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-2]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^1-2]: [SR 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 #### Art. 2
 
@@ -219,7 +219,7 @@ Je nach Zusammensetzung kann die Sachbezeichnung durch folgende Angaben ergänzt
 
 <sup>7</sup> Die Kennzeichnung von Wasser, das einer Behandlung zur teilweisen Fluoridentfernung gemäss Artikel 8 Absatz 2 Buchstabe d unterzogen wurde, umfasst in der Nähe der Analyseangaben den Hinweis: «dieses Wasser wurde einem zugelassenen Adsorptionsverfahren unterzogen» oder «teilweise entfluoridiert» oder «entfluoridiert».
 
-[^10-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^10-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^10-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^10-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^10-4]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
@@ -249,7 +249,7 @@ Quellwasser ist Wasser unterirdischer Herkunft, das unter Wahrung seines ursprü
 
 <sup>2</sup> Für die Fassung, die Abfüllung und die zulässigen Behandlungen gelten die Anforderungen nach den Artikeln 7 und 8 für natürliches Mineralwasser.
 
-[^13-1]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^13-1]: [SR 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 #### Art. 14
 
@@ -361,7 +361,7 @@ Für konzentrierten, getrockneten und verdünnten Fruchtsaft, der für die unmit
 
 Bei verdünntem Fruchtsaft ist zusätzlich zu den Angaben nach Artikel 3 LIV[^20-1] der Mindestgehalt an Fruchtsaft, Fruchtmark oder einem Gemisch dieser Bestandteile in der Nähe der Sachbezeichnung anzugeben.
 
-[^20-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^20-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### 2. Kapitel: Gemüsesaft
 
@@ -452,7 +452,7 @@ Zusätzlich zu den Angaben nach Artikel 3 LIV[^24-1] ist anzugeben:
 
 <sup>2</sup> Eingedicktes Tomatenmark kann als «Tomatenpüree» oder «Tomatenkonzentrat» bezeichnet werden.
 
-[^24-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^24-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### 3. Kapitel: Fruchtnektar
 
@@ -546,7 +546,7 @@ Auf den Zusatz von lebenden Bakterienkulturen muss im Verzeichnis der Zutaten un
 - a. unter der spezifischen wissenschaftlichen Nomenklatur nach den Vorgaben des ICSP (*International Committee on Systematics of Prokaryotes*); oder
 - b. mit dem Hinweis «mit Milchsäurebakterien».
 
-[^33-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^33-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^33-2]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 
 ### 2. Kapitel: Sirup
@@ -598,7 +598,7 @@ Der Coffeingehalt darf 160 mg/Tagesration nicht überschreiten, wobei unter Tage
 
 <sup>2</sup> Coffeinhaltige Getränke mit einem Coffeingehalt von mehr als 150 mg/l dürfen in Abweichung von Anhang 1 VZVM die Höchstmengen nach Anhang 7 nicht überschreiten. Massgebend für die Höchstmengen ist der Gehalt zum Zeitpunkt der Abgabe an die Konsumentinnen und Konsumenten.
 
-[^38-1]: [SR 817.022.32](https://fedlex.data.admin.ch/eli/cc/2017/161)
+[^38-1]: [SR 817.022.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9684)
 [^38-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 #### Art. 39
@@ -620,7 +620,7 @@ Zusätzlich zu den Angaben nach Artikel 3 LIV[^39-1] sind anzugeben:
 
 <sup>2</sup> Die Sachbezeichnung von Getränken mit einem Coffeingehalt von über 150 mg/l kann «coffeinhaltiges Erfrischungsgetränk», «Energydrink» oder «Energy Drink» oder bei Getränken in Portionen von weniger als 100 ml «Energyshot» oder «Energy-Shot» lauten.[^39-5]
 
-[^39-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^39-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^39-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^39-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)).
 [^39-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
@@ -817,7 +817,7 @@ Bei Extrakten aus Kaffee und Zichorien sind zusätzlich zu den Angaben nach Arti
 
 <sup>2</sup> Bei Mischungen von Kaffee mit Kaffee-Ersatzmitteln sowie bei Mischungen von Extrakten aus Kaffee und Kaffee-Ersatzmitteln muss der Gehalt an Kaffee in der Ausgangsmischung auf der Packung und in Werbetexten in Massenprozent angegeben werden.
 
-[^57-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^57-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### 2. Kapitel: Tee, entcoffeinierter Tee, Mate, Kräuter- und Früchtetee
 
@@ -855,7 +855,7 @@ Der Wassergehalt darf nicht höher sein als:
 
 <sup>5</sup> Zur Herstellung von Früchtetee sind nur die Früchte zulässig, die in Artikel 21 der Verordnung des EDI vom 16. Dezember 2016[^59-1] über Lebensmittel pflanzlicher Herkunft, Pilze und Speisesalz aufgeführt sind. Anstelle der Vollfrucht dürfen auch Fruchtbestandteile (z. B. die Fruchtschale) verwendet werden.
 
-[^59-1]: [SR 817.022.17](https://fedlex.data.admin.ch/eli/cc/2017/181)
+[^59-1]: [SR 817.022.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9679)
 
 #### Art. 60
 
@@ -884,7 +884,7 @@ Bei aromatisiertem Schwarz-, Kräuter- oder Früchtetee lautet die Sachbezeichnu
 [^61-1]: Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2024/1143, ABl. L 2024/1143, 23.4.2024.
 [^61-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 [^61-3]: Fassung gemäss Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
-[^61-4]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^61-4]: [SR 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 [^61-5]: Eingefügt durch Ziff. I der V des EDI vom 3. Jan. 2019, in Kraft seit 1. Febr. 2019 ([AS 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
 
 #### Art. 62
@@ -900,7 +900,7 @@ Bei aromatisiertem Schwarz-, Kräuter- oder Früchtetee lautet die Sachbezeichnu
 In Betrieben, die der Weinhandelskontrolle (Art. 33 Abs. 1 der Weinverordnung vom 14. November 2007[^62a-2]) unterliegen, vollziehen die Vollzugsbehörden nach der Lebensmittelgesetzgebung die Artikel 69–76 und 84–86 nach der Lebensmittelgesetzgebung.
 
 [^62a-1]: Eingefügt durch Ziff. I der V des EDI vom 3. Jan. 2019, in Kraft seit 1. Febr. 2019 ([AS 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
-[^62a-2]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^62a-2]: [SR 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 
 ### 2. Kapitel: Bier, alkoholfreies Bier
 
@@ -1098,7 +1098,7 @@ Bei den übrigen Weinen darf entsprechend dem Restzuckergehalt pro Liter einer d
 
 <sup>8</sup> Erfolgt die Angabe des Verzeichnisses der Zutaten oder der Nährwertdeklaration freiwillig, so darf diese in Abweichung von Artikel 4 Absatz 1 LIV auch in elektronischer Form zur Verfügung gestellt werden, sofern sie den Vorgaben nach Artikel 119 Absätze 4 und 5 der Verordnung (EU) Nr. 1308/2013[^75-2] entspricht.[^75-3]
 
-[^75-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^75-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^75-2]: Siehe Fussnote zu Art. 61 Abs. 3.
 [^75-3]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
@@ -1132,7 +1132,7 @@ Bei Wein nach Absatz 1, der einer Entalkoholisierung nach Anhang VIII Teil I Abs
 - b. «teilweise entalkoholisierter», wenn der vorhandene Alkoholgehalt des Erzeugnisses mehr als 0,5 Volumenprozent beträgt und unter dem vorhandenen Mindestalkoholgehalt der Kategorie vor der Entalkoholisierung liegt.[^76-4]
 
 [^76-1]: Fassung gemäss Ziff. I der V des EDI vom 3. Jan. 2019, in Kraft seit 1. Febr. 2019 ([AS 2019 331](https://fedlex.data.admin.ch/eli/oc/2019/50)).
-[^76-2]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^76-2]: [SR 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 [^76-3]: Siehe Fussnote zu Art. 61 Abs. 3.
 [^76-4]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
 
@@ -2015,8 +2015,8 @@ Bei folgenden Obstbränden darf die Bezeichnung «…brand» durch die Angabe de
 
 <sup>4</sup> Gin, destillierter Gin und London Gin dürfen den Hinweis «dry» enthalten, wenn der Gehalt der Spirituose an zugesetzten süssenden Erzeugnissen nicht mehr als 0,1 g pro Liter des Fertigerzeugnisses, ausgedrückt als Invertzucker, beträgt.[^159-3]
 
-[^159-1]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^159-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^159-1]: [SR 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^159-2]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^159-3]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
 
 ## 7. Titel: Aktualisierung der Anhänge
@@ -2045,11 +2045,9 @@ Die folgenden Erlasse werden aufgehoben:
 
 #### Art. 161a
 
-**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^161a-1]
+[^161a-1]
 
-Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^161a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 6](https://fedlex.data.admin.ch/eli/oc/2024/6)).
+[^161a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2299](https://fedlex.data.admin.ch/eli/oc/2020/447)). Aufgehoben durch Ziff. I der V des BLV vom 19. Juni 2026, mit Wirkung seit 1. Aug. 2026 ([AS 2026 370](https://fedlex.data.admin.ch/eli/oc/2026/370)).
 
 #### Art. 161b
 
@@ -2058,6 +2056,14 @@ Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen 
 Lebensmittel, die der Änderung vom 28. Mai 2025 nicht entsprechen, dürfen noch bis zum 30. Juni 2027 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^161b-1]: Eingefügt durch Ziff. I der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+
+#### Art. 161c
+
+**Übergangsbestimmungen zur Änderung vom 19. Juni 2026**[^161c-1]
+
+Lebensmittel, die der Änderung vom 19. Juni 2026 nicht entsprechen, dürfen noch bis zum 1. August 2027 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^161c-1]: Eingefügt durch Ziff. I der V des BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 370](https://fedlex.data.admin.ch/eli/oc/2026/370)).
 
 #### Art. 162
 
@@ -2350,9 +2356,9 @@ Anhang 9[^t-3]
 
 ## Zulässige önologische Verfahren und Behandlungen sowie ihre Grenzen und Bedingungen
 
-[^t-3]: Fassung gemäss Ziff. II der V des EDI vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 370](https://fedlex.data.admin.ch/eli/oc/2025/370)).
+[^t-3]: Fassung gemäss Ziff. II der V des BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 370](https://fedlex.data.admin.ch/eli/oc/2026/370)).
 
-Die zulässigen önologischen Verfahren und Behandlungen entsprechen jenen nach den Anhängen I, II A und III A der delegierten Verordnung (EU) 2019/934[^annex9-lvlu1-1]. Sofern nicht ausdrücklich anders angegeben, kann das beschriebene Verfahren oder die beschriebene Behandlung zur Anwendung kommen bei Wein (1), Jungwein (2), Likörwein (3) Schaumwein (4), Qualitätsschaumwein (5), aromatischem Qualitätsschaumwein (6), Schaumwein mit zugesetzter Kohlensäure (7), Perlwein (8), Perlwein mit zugesetzter Kohlensäure (9), Traubenmost (10), teilweise gegorenem Traubenmost (11), teilweise gegorenem Traubenmost aus eingetrockneten Trauben (12), konzentriertem Traubenmost (13), rektifiziertem Traubenmostkonzentrat (14), Wein aus eingetrockneten Trauben (15), Wein aus überreifen Trauben (16) sowie bei frischen Weintrauben und in unverarbeiteter Form zum unmittelbaren menschlichen Verbrauch bestimmtem teilweise vergorenem Traubenmost.
+Die zulässigen önologischen Verfahren und Behandlungen entsprechen jenen nach den Anhängen I, II A und III A der delegierten Verordnung (EU) 2019/934[^annex9-lvlu1-1]. Sofern nicht ausdrücklich anders angegeben, kann das beschriebene Verfahren oder die beschriebene Behandlung zur Anwendung kommen bei Wein (1), Jungwein (2), Likörwein (3), Schaumwein (4), Qualitätsschaumwein (5), aromatischem Qualitätsschaumwein (6), Schaumwein mit zugesetzter Kohlensäure (7), Perlwein (8), Perlwein mit zugesetzter Kohlensäure (9), Traubenmost (10), teilweise gegorenem Traubenmost (11), teilweise gegorenem Traubenmost aus eingetrockneten Trauben (12), konzentriertem Traubenmost (13), rektifiziertem Traubenmostkonzentrat (14), Wein aus eingetrockneten Trauben (15), Wein aus überreifen Trauben (16) sowie bei frischen Weintrauben und in unverarbeiteter Form zum unmittelbaren menschlichen Verbrauch bestimmtem teilweise vergorenem Traubenmost.
 
 Die Schweiz zählt zur Zone B gemäss Anlage I der Verordnung (EU) Nr. 1308/2013[^annex9-lvlu1-2].
 
@@ -2362,7 +2368,7 @@ Die gemäss Anhang VIII der Verordnung (EU) Nr. 1308/2013 zulässigen önologisc
 - b. Anhang VIII Teil I Abschnitt B Ziffer 6 Buchstabe b darf bei Rotwein der maximale Gesamtalkoholgehalt der frischen Trauben, des Traubenmostes, des teilweise gegorenen Traubenmostes, des Jungweins oder des Weins auf 12,5 Volumenprozent angehoben werden;
 - c. Anhang VIII Teil I Abschnitt B Ziffer 6 Buchstabe b darf der Gesamtalkoholgehalt der frischen Trauben, des Traubenmostes, des teilweise gegorenen Traubenmostes, des Jungweins oder des Weins für die Erzeugung von Weinen mit einer kontrollierten Ursprungsbezeichnung einen Gehalt bis zu 15 Volumenprozent aufweisen, sofern dies von der kantonalen Gesetzgebung vorgesehen ist.
 
-[^annex9-lvlu1-1]: Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers, ABl. L 149 vom 7.6.2019, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2022/68, ABl. L 12 vom 19.1.2022, S. 1.
+[^annex9-lvlu1-1]: Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers, ABl. L 149 vom 7.6.2019, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2024/3085, ABl. L, 2024/3085, 9.12.2024.
 [^annex9-lvlu1-2]: Siehe Fussnote zu Art. 61 Abs. 3.
 
 Anhang 10
@@ -2371,7 +2377,7 @@ Anhang 10
 
 ## Zulässige Piktogramme nach Artikel 75 Absatz 1 Buchstabe e
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20250701/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/de/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/de/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/de/xml/image/image3.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/220/20260801/de/xml/image/image4.png)
 
 Zulässig sind auch Piktogramme, die den obigen Vorlagen entsprechen und sich nur auf Milch oder Eier beziehen.
 
