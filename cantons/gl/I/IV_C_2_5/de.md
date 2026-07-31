@@ -3,20 +3,19 @@ canton: GL
 number: IV C/2/5
 title: Berufsauftrag für die Lehrpersonen ab der Sekundarstufe II und des Brückenangebotes
 language: de
-version: 2013-08-01
-valid_until: 2026-07-31
-version_adopted: 2013-06-04
+version: 2026-08-01
+version_adopted: 2026-03-05
 adopted: 2013-06-04
 in_force: 2013-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-C.2.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/1342/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2638/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Berufsauftrag für die Lehrpersonen ab der Sekundarstufe II und des Brückenangebotes
 
-Vom 04.06.2013 (Stand 01.08.2013)
+Vom 04.06.2013 (Stand 01.08.2026)
 
 Das Departement,
 
@@ -30,7 +29,7 @@ legt fest:
 
 **Geltungsbereich**
 
-<sup>1</sup> Der Berufsauftrag umschreibt die Tätigkeitsbereiche für Lehrpersonen der kantonalen Schulen der Sekundarstufe II, der Tertiärstufe, sowie alle Bildungsgänge des schulischen Zusatzangebots und der Kantonsschule.
+<sup>1</sup> Der Berufsauftrag umschreibt die Tätigkeitsbereiche für Lehrpersonen der kantonalen Schulen der Sekundarstufe II, der Tertiärstufe sowie aller Bildungsgänge der Brücken- und Integrationsangebote, der Unterstufe und des ersten Teils der Mittelstufe des Gymnasiums sowie der Sportschule.
 
 #### Art. 2
 
@@ -46,7 +45,7 @@ legt fest:
 
 **Auftrag**
 
-<sup>1</sup> Der Berufsauftrag basiert auf den im Bildungsgesetz aufgeführten Bildungszielen, Rechten und Pflichten der Lehrpersonen, der Weiterbildung und der Gesamtarbeitszeit.
+<sup>1</sup> Der Berufsauftrag basiert auf den im Bildungsgesetz aufgeführten Bildungszielen, Rechten und Pflichten der Lehrpersonen, der Weiterbildung und der Jahresarbeitszeit.
 
 <sup>2</sup> Bei der Erfüllung des Berufsauftrages sind alle Lehrpersonen verpflichtet:
 
@@ -66,15 +65,25 @@ legt fest:
 
 #### Art. 5
 
-**Gesamtarbeitszeit**
+**Jahresarbeitszeit**
 
 <sup>1</sup> Die Jahresarbeitszeit der Lehrpersonen richtet sich nach den personalrechtlichen Vorgaben der Anstellungsinstanz.
 
 <sup>2</sup> Für das Arbeitsfeld gemäss Artikel 4 Absatz 1 Buchstabe a stehen rund 88 Prozent und für das Arbeitsfeld gemäss Artikel 4 Absatz 1 Buchstabe b rund 12 Prozent der Arbeitszeit zur Verfügung.
 
-<sup>3</sup> Zeitlich definierte Verschiebungen der Arbeitszeiten zwischen den Arbeitsfeldern für einzelne Lehrpersonen bleiben vorbehalten.
+<sup>3</sup> Zeitlich definierte Verschiebungen der Arbeitszeiten zwischen den Arbeitsfeldern für einzelne Lehrpersonen können von der Schulleitung bewilligt oder angeordnet werden.
 
 <sup>4</sup> Für spezifische ausserunterrichtliche Tätigkeiten gemäss Artikel 4 Absatz 1 Buchstabe c ist eine angemessene zeitliche Entlastung zu gewähren.
+
+<sup>5</sup> Lehrpersonen können von der Schulleitung ausserhalb der Unterrichtszeit zu zusätzlicher Präsenzzeit verpflichtet werden. Zeitgefässe in den Schulferien sind rechtzeitig anzukündigen.
+
+#### Art. 5a
+
+**Unterrichtszeit**
+
+<sup>1</sup> Für die Unterrichtszeit gilt Artikel 11 der Bildungsangebotsverordnung[^5a-1].
+
+[^5a-1]: GS [IV B/1/5](https://gesetze.gl.ch/data/IV-B.1.5/de)
 
 #### Art. 6
 
