@@ -4,11 +4,11 @@ title: "Ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieilless
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: fr
-version: 2025-01-01
+version: 2026-08-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20250101/fr"
 
 (OPP 2)
 
-du 18 avril 1984 (État le 1<sup>er</sup> janvier 2025)
+du 18 avril 1984 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu l’art. 97, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance p
 
 arrête:
 
-[^ingress-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^ingress-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^ingress-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^ingress-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^ingress-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^ingress-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## Chapitre 1 Principes de la prévoyance professionnelle
@@ -53,7 +53,7 @@ Conformément au modèle de calcul:
 - a. les prestations réglementaires ne dépassent pas 70 % du dernier salaire ou revenu AVS assurables perçus avant la retraite, ou
 - b. le montant total des cotisations réglementaires de l’employeur et des salariés destinées au financement des prestations de vieillesse ne dépasse pas annuellement 25 % de la somme des salaires AVS assurables pour les salariés, ou les cotisations de l’indépendant destinées au financement des prestations de vieillesse ne dépassent pas annuellement 25 % du revenu AVS assurable.
 
-<sup>3</sup> Pour les salaires dépassant le montant-limite supérieur selon l’art. 8, al. 1, LPP, les prestations de vieillesse de la prévoyance professionnelle, ajoutées à celles de l’AVS, ne doivent pas, selon le modèle de calcul, dépasser 85 % du dernier salaire ou revenu AVS assurables perçus avant la retraite.
+<sup>3</sup> Pour les salaires dépassant le montant-limite supérieur selon l’art. 8, al. 1, LPP, les prestations de vieillesse de la prévoyance professionnelle, ajoutées à celles de l’AVS, ne doivent pas, selon le modèle de calcul, dépasser 85 % du dernier salaire ou revenu AVS assurables perçus avant la retraite. La 13<sup>e</sup> rente de vieillesse visée à l’art. 34<sup>ter</sup> de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^1-1] n’est pas prise en compte dans l’évaluation de l’adéquation d’un plan de prévoyance.[^1-2]
 
 <sup>4</sup> Si le plan de prévoyance prévoit le versement des prestations en capital, l’adéquation est déterminée sur la base des prestations correspondantes versées sous forme de rente au taux de conversion réglementaire ou, en l’absence de taux de conversion réglementaire, au taux de conversion minimal fixé à l’art. 14, al. 2, LPP.
 
@@ -62,9 +62,11 @@ Conformément au modèle de calcul:
 Un plan de prévoyance avec le choix de la stratégie de placement d’après l’art. 1*e* est considéré comme adéquat lorsque:
 
 - a. les conditions prévues à l’al. 2, let. b, sont remplies, et que
-- b. pour le calcul du montant maximal de rachats, des cotisations supérieures à 25 % en moyenne du salaire assuré par année de cotisations possible, intérêts non compris, ne peuvent pas être prises en compte.[^1-1]
+- b. pour le calcul du montant maximal de rachats, des cotisations supérieures à 25 % en moyenne du salaire assuré par année de cotisations possible, intérêts non compris, ne peuvent pas être prises en compte.[^1-3]
 
-[^1-1]: Introduit par le ch. I de l’O du 30 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^1-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^1-2]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^1-3]: Introduit par le ch. I de l’O du 30 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
 
 #### Art. 1a
 
@@ -241,7 +243,7 @@ Les salariés dont la durée d’engagement ou de mission est limitée sont soum
 Les travailleurs occupés auprès d’une entreprise tierce dans le cadre d’une location de service au sens de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services[^2-2] sont réputés être des travailleurs salariés de l’entreprise bailleuse de service.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^2-2]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^2-2]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 3
 
@@ -281,7 +283,7 @@ L’institution de prévoyance peut, dans son règlement, s’écarter comme il 
 Pour les personnes partiellement invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^4-2], les montants-limites fixés aux art. 2, 7, 8, al. 1, et 46 LPP sont réduits proportionnellement au pourcentage de rente auquel elles ont droit.
 
 [^4-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^4-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 5
 
@@ -312,7 +314,7 @@ Les montants-limites fixés aux art. 2, 7, 8 et 46 LPP sont adaptés comme suit:
 <sup>2</sup> Pour les personnes au chômage, l’assurance débute le jour où les conditions du droit à l’indemnité selon l’art. 8 de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^6-2] sont remplies pour la première fois ou celui où les indemnités selon l’art. 29 LACI sont perçues pour la première fois.
 
 [^6-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^6-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^6-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ### Section 2 Affiliation obligatoire de l’employeur
 
@@ -426,7 +428,7 @@ L’avoir de vieillesse sera crédité d’un intérêt:
 [^12-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> sept. 2004 ([RO 2004 4249](https://fedlex.data.admin.ch/eli/oc/2004/633)). Nouvelle teneur selon le ch. I de l’O du 5 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4441](https://fedlex.data.admin.ch/eli/oc/2007/617)).
 [^12-5]: Introduite par le ch. I de l’O du 5 sept. 2007 ([RO 2007 4441](https://fedlex.data.admin.ch/eli/oc/2007/617)). Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5189](https://fedlex.data.admin.ch/eli/oc/2008/728)).
 [^12-6]: Introduite par le ch. I de l’O du 22 oct. 2008 ([RO 2008 5189](https://fedlex.data.admin.ch/eli/oc/2008/728)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5035](https://fedlex.data.admin.ch/eli/oc/2011/737)).
-[^12-7]: Introduite par le ch. I de l’O du 2 nov. 2011 ([[RO 2011 5035](http://intranet.admin.ch/ch/d/as/2011/5035.pdf)](https://fedlex.data.admin.ch/eli/oc/2011/737)). Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)).
+[^12-7]: Introduite par le ch. I de l’O du 2 nov. 2011 ( [[RO 2011 5035](http://intranet.admin.ch/ch/d/as/2011/5035.pdf)](https://fedlex.data.admin.ch/eli/oc/2011/737)). Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)).
 [^12-8]: Introduite par le ch. I de l’O du 30 oct. 2013 ([RO 2013 4141](https://fedlex.data.admin.ch/eli/oc/2013/763)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)).
 [^12-9]: Introduite par le ch. I de l’O du 28 oct. 2015 ([RO 2015 4435](https://fedlex.data.admin.ch/eli/oc/2015/737)). Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)).
 [^12-10]: Introduite par le ch. I de l’O du 26 oct. 2016 ([RO 2016 4179](https://fedlex.data.admin.ch/eli/oc/2016/698)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 652](https://fedlex.data.admin.ch/eli/oc/2023/652)).
@@ -520,7 +522,7 @@ L’institution de prévoyance ou de libre passage doit consigner la part de l�
 <sup>2</sup> Pour la rémunération par une institution de libre passage, les intérêts sont répartis entre l’avoir de vieillesse et les autres avoirs de prévoyance proportionnellement à leur part respective. Les rendements et pertes liés à l’épargne-titres au sens de l’art. 13, al. 5, de l’ordonnance du 3 octobre 1994 sur le libre passage (OLP)[^16-2] sont aussi répartis entre l’avoir de vieillesse et les autres avoirs de prévoyance proportionnellement à leur part respective.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^16-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^16-2]: [RS 831.425](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10102)
 
 ### Section 3*a* Résiliation des contrats
 
@@ -540,7 +542,7 @@ L’institution de prévoyance ou de libre passage doit consigner la part de l�
 
 <sup>3</sup> L’institution de prévoyance qui transfère des rentiers à une autre institution de prévoyance doit communiquer à celle-ci les informations nécessaires au calcul et au versement des prestations.
 
-[^16a-1]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^16a-1]: [RS 831.425](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10102)
 [^16a-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 16b
@@ -659,7 +661,7 @@ L’ex-partenaire enregistré est assimilé au veuf ou à la veuve en cas de dé
 <sup>4</sup> L’institution de prévoyance peut réduire ses prestations de survivants si, ajoutées à celles de l’AVS, elles dépassent le montant des prétentions découlant du jugement de divorce ou du jugement prononçant la dissolution du partenariat enregistré; la réduction est limitée au montant du dépassement. Les rentes de survivants de l’AVS interviennent dans le calcul uniquement si elles dépassent un droit propre à une rente d’invalidité de l’AI ou à une rente de vieillesse de l’AVS.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^20-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^20-2]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 20a
 
@@ -720,7 +722,7 @@ Elle ne peut pas prendre en compte les prestations et revenus suivants:
 [^24-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^24-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^24-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^24-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 24a
 
@@ -751,8 +753,8 @@ Si l’assuré a atteint l’âge de référence, l’institution de prévoyance
 [^24a-1]: Introduit par l’annexe ch. 1 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^24a-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^24a-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^24a-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^24a-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^24a-5]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^24a-6]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^24a-7]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -771,9 +773,9 @@ Si l’assuré a atteint l’âge de référence, l’institution de prévoyance
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 1992, en vigueur depuis le 1<sup>er</sup> janv. 1993 ([RO 1992 2234](https://fedlex.data.admin.ch/eli/oc/1992/2234_2234_2234)).
 [^25-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^25-3]: Abrogé par l’annexe ch. 1 de l’O du 9 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^25-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^25-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^25-6]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^25-4]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^25-5]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^25-6]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^25-7]: Nouvelle teneur selon le ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^25-8]: Abrogé par le ch. I de l’O du 18 août 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
@@ -905,7 +907,7 @@ Sont notamment des prestations de même nature:
 
 L’institution de prévoyance qui dispose du droit de recours au sens de l’art. 34*b* LPP peut conclure avec des assureurs sociaux disposant du droit de recours au sens des art. 72 à 75 LPGA[^27d-1] ou avec d’autres intéressés des conventions destinées à simplifier le règlement des cas de recours.
 
-[^27d-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27d-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 27e
 
@@ -916,7 +918,7 @@ L’institution de prévoyance qui dispose du droit de recours au sens de l’ar
 Lorsque l’institution de prévoyance participe au même recours que d’autres assureurs sociaux conformément aux art. 72 à 75 LPGA[^27e-2] en relation avec l’art. 34*b* LPP, la répartition des montants récupérés se fait proportionnellement aux prestations concordantes déjà versées ou dues par chacun des assureurs.
 
 [^27e-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
-[^27e-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27e-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 27f
 
@@ -953,7 +955,7 @@ Les assureurs participant au recours désignent parmi eux celui qui les représe
 
 <sup>3</sup> Les découverts de techniques d’assurance sont calculés conformément à l’art. 44. Une éventuelle réduction s’opère à titre individuel sur la prestation de sortie. Si cette dernière a déjà été transférée sans diminution, l’assuré est tenu de restituer le montant de la déduction.
 
-[^27g-1]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^27g-1]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^27g-2]: Nouvelle teneur selon le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^27g-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^27g-4]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)). Nouvelle teneur selon le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
@@ -1192,7 +1194,7 @@ L’organe de révision informe immédiatement l’autorité de surveillance:
 - c. si son agrément selon la loi du 16 décembre 2005 sur la surveillance de la révision[^36-2] lui est retiré.
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^36-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^36-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### Section 3 Expert en matière de prévoyance professionnelle
 
@@ -1414,7 +1416,7 @@ Les institutions collectives ou communes soumises à la LFLP peuvent accorder un
 [^47-3]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 [^47-4]: Commande: Editions SKV, Hans Huber-Strasse 4, case postale 687, 8027 Zurich; [www.verlagskv.ch](http://www.verlagskv.ch).
 [^47-5]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4143](https://fedlex.data.admin.ch/eli/oc/2013/764)).
-[^47-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^47-7]: Nouvelle teneur selon le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 #### Art. 48
@@ -1544,14 +1546,14 @@ Seuls peuvent être chargés de la gestion de la fortune, en tant que personnes 
 - i.[^48f-7] les employeurs qui gèrent la fortune de leurs propres institutions de prévoyance;
 - j.[^48f-8] les associations d’employeurs et de travailleurs qui gèrent la fortune des institutions de prévoyance de leur association.
 
-<sup>5</sup> à <sup>7</sup> …[^48f-9]
+<sup>5 à <sup>7</sup></sup> …[^48f-9]
 
 [^48f-1]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
-[^48f-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^48f-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^48f-3]: Nouvelle teneur selon l’annexe 1 ch. II 7 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^48f-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^48f-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^48f-5]: Nouvelle teneur selon l’annexe 1 ch. II 7 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^48f-6]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^48f-6]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^48f-7]: Introduite par l’annexe 1 ch. II 7 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^48f-8]: Introduite par l’annexe 1 ch. II 7 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^48f-9]: Abrogés par l’annexe 1 ch. II 7 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
@@ -1566,7 +1568,7 @@ Seuls peuvent être chargés de la gestion de la fortune, en tant que personnes 
 
 <sup>2</sup> Les mutations de personnel au sein de l’organe suprême, au sein de l’organe de gestion, au sein de l’administration, ou dans la gestion de fortune doivent être annoncés immédiatement à l’autorité de surveillance compétente. Celle-ci peut examiner l’intégrité et la loyauté des personnes concernées.
 
-[^48g-1]: [RS 831.435.1](https://fedlex.data.admin.ch/eli/cc/2011/460)
+[^48g-1]: [RS 831.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10111)
 
 #### Art. 48h
 
@@ -1763,7 +1765,14 @@ Un effet de levier n’est admissible que pour les cas suivants:
 - d. les placements dans des instruments financiers dérivés, à condition qu’aucun effet de levier ne s’exerce sur la fortune globale de l’institution de prévoyance;
 - e.[^53-8] les placements visés à l’al. 1, let. d<sup>bis</sup> et d<sup>ter</sup>, en cas de prêts relais à court terme couverts par des engagements de capital des investisseurs ou d’emprunts à court terme répondant à des impératifs techniques.
 
-<sup>6</sup> La loi du 23 juin 2006 sur les placements collectifs et ses dispositions d’exécution[^53-9] s’appliquent par analogie aux prêt de valeurs mobilières et aux opérations de prise ou de mise en pension. Les opérations de mise en pension dans lesquelles l’institution de prévoyance agit comme cédante sont interdites.
+<sup>6</sup>
+
+La loi du 23 juin 2006 sur les placements collectifs[^53-9] et ses dispositions d’exécution, en particulier l’ordonnance de la FINMA du 27 août 2014 sur les placements collectifs[^53-10], s’appliquent par analogie aux prêts de valeurs mobilières et aux opérations de prise ou de mise en pension. Les pourcentages suivants de la fortune globale de l’institution de prévoyance peuvent être affectés aux opérations de mise en pension dans lesquelles l’institution de prévoyance agit comme cédante:
+
+- a. jusqu’à 1 % au plus pour la gestion des liquidités, en particulier pour couvrir les engagements résultant d’opérations de couverture;
+- b. jusqu’à 3 % au plus pendant 30 jours civils au maximum pour couvrir les besoins de liquidités résultant des couvertures du risque de change.[^53-11]
+
+<sup>7</sup> Les opérations de mise en pension dans lesquelles l’institution de prévoyance agit comme cédante ne doivent pas exercer un effet de levier systématique sur la fortune globale.[^53-12]
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^53-2]: Introduite par le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
@@ -1773,7 +1782,10 @@ Un effet de levier n’est admissible que pour les cas suivants:
 [^53-6]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 [^53-7]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 [^53-8]: Introduite par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
-[^53-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^53-9]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^53-10]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
+[^53-11]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^53-12]: Introduit par le ch. I 1 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 53a
 
@@ -1950,7 +1962,7 @@ Sont réputées garantie:
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juin 1993, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1881](https://fedlex.data.admin.ch/eli/oc/1993/1881_1881_1881)).
 [^58-2]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^58-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^58-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^58-4]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^58-5]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 
@@ -1981,7 +1993,7 @@ Les dispositions de la présente section s’appliquent par analogie:
 - b. au fonds de garantie.
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 975](https://fedlex.data.admin.ch/eli/oc/2016/171)).
-[^59-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^59-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 60
 
@@ -2009,7 +2021,7 @@ Les dispositions de la présente section s’appliquent par analogie:
 
 <sup>4</sup> Pour la personne assurée qui perçoit déjà ou a perçu des prestations de vieillesse et reprend par la suite une activité lucrative ou augmente à nouveau son taux d’activité, le montant maximal de la somme de rachat est diminué du montant des prestations de vieillesse déjà perçues.[^60a-3]
 
-[^60a-1]: [RS 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
+[^60a-1]: [RS 831.461.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10116)
 [^60a-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^60a-3]: Introduit par l’annexe ch. 7 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -2069,7 +2081,7 @@ Dans les cas où le remboursement d’un versement anticipé pour l’encouragem
 
 [^60e-1]: Anciennement art. 60*b* ([RO 2005 5257](https://fedlex.data.admin.ch/eli/oc/2005/729)).
 [^60e-2]: Introduit par le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^60e-3]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^60e-3]: [RS 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 60e<sup>bis</sup>
 
@@ -2112,7 +2124,7 @@ Le règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^61-
 
 …[^61-2]
 
-[^61-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^61-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^61-2]: La mod. peut être consultée au [RO 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543).
 
 #### Art. 62
@@ -2129,7 +2141,7 @@ Le règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^61-
 
 #### Art. 62a
 
-<sup>1</sup> L’âge ordinaire de la retraite des femmes dans la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^62a-1] vaut aussi comme âge ordinaire de la retraite des femmes dans la LPP (art. 13, al. 1, LPP).
+<sup>1</sup> L’âge ordinaire de la retraite des femmes dans la LAVS[^62a-1] vaut aussi comme âge ordinaire de la retraite des femmes dans la LPP (art. 13, al. 1, LPP).[^62a-2]
 
 <sup>2</sup>
 
@@ -2139,7 +2151,8 @@ Cet âge de la retraite est également déterminant:
 - b. pour le calcul des bonifications de vieillesse à hauteur de 18 % selon l’art. 16 LPP et la let. c des dispositions transitoires de la 1<sup>re</sup> révision LPP du 3 octobre 2003;
 - c. pour le taux de conversion applicable lors du calcul de la rente d’invalidité selon l’art. 24, al. 2, LPP.
 
-[^62a-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^62a-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^62a-2]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 ### Section 1*b* Disposition transitoire concernant les dispositions en application de la let. e des dispositions transitoires de la 1<sup>re</sup> révision de la LPP
 
@@ -2185,10 +2198,13 @@ Pour les classes d’âge et les âges ordinaires de la retraite mentionnés ci-
 
 #### Art. 62d
 
-L’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^62d-1] de la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivant[^62d-2] vaut comme âge de référence pour les femmes dans la LPP.
+[^62d-1]
 
-[^62d-1]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^62d-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+L’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021[^62d-2] de la LAVS[^62d-3] vaut comme âge de référence pour les femmes dans la LPP.
+
+[^62d-1]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^62d-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^62d-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### Section 2 Entrée en vigueur
 
@@ -2335,7 +2351,7 @@ Annexe[^t-1]
 
 <sup>1</sup> Le taux de couverture de l’institution de prévoyance est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/fr/xml/image/image1.png)
 
 où Fp: est égal à l’ensemble des actifs à la date du bilan et à la valeur du marché, diminués des engagements, des passifs de régularisation et des réserves de cotisations de l’employeur, pour autant qu’aucun accord sur une renonciation à leur utilisation par l’employeur n’ait été conclu, la fortune de prévoyance effective, telle qu’elle ressort de la situation financière réelle au sens de l’art. 47, al. 2, étant déterminante; une réserve de cotisations de l’employeur incluant une déclaration de renonciation à leur utilisation, les réserves de fluctuation de valeur et les réserves de fluctuation dans la répartition ne sont pas déduites de la fortune de prévoyance disponible, et
 

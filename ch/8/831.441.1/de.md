@@ -4,11 +4,11 @@ title: "Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassen
 short: BVV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: de
-version: 2025-01-01
+version: 2026-08-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20250101/de"
 
 (BVV 2)
 
-vom 18. April 1984 (Stand am 1. Januar 2025)
+vom 18. April 1984 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf Artikel 97 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^ingress-
 
 verordnet:
 
-[^ingress-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^ingress-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^ingress-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^ingress-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^ingress-2]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^ingress-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
 ## 1. Kapitel: Grundsätze der beruflichen Vorsorge
@@ -53,7 +53,7 @@ Gemäss Berechnungsmodell:
 - a. überschreiten die reglementarischen Leistungen nicht 70 Prozent des letzten versicherbaren AHV-pflichtigen Lohns oder Einkommens vor der Pensionierung; oder
 - b. betragen die gesamten reglementarischen Beiträge von Arbeitgeber und Arbeitnehmern, die der Finanzierung der Altersleistungen dienen, nicht mehr als 25 Prozent aller versicherbaren AHV-pflichtigen Löhne beziehungsweise die Beiträge der Selbständigerwerbenden nicht mehr als 25 Prozent des versicherbaren AHV-pflichtigen Einkommens pro Jahr.
 
-<sup>3</sup> Bei Löhnen, die über dem oberen Grenzbetrag nach Artikel 8 Absatz 1 BVG liegen, betragen gemäss Berechnungsmodell die Altersleistungen aus der beruflichen Vorsorge und der AHV zusammen nicht mehr als 85 Prozent des letzten versicherbaren AHV-pflichtigen Lohns oder Einkommens vor der Pensionierung.
+<sup>3</sup> Bei Löhnen, die über dem oberen Grenzbetrag nach Artikel 8 Absatz 1 BVG liegen, betragen gemäss Berechnungsmodell die Altersleistungen aus der beruflichen Vorsorge und der AHV zusammen nicht mehr als 85 Prozent des letzten versicherbaren AHV-pflichtigen Lohns oder Einkommens vor der Pensionierung. Die 13. Altersrente nach Artikel 34<sup>ter</sup> des Bundesgesetzes vom 20. Dezember 1946[^1-1] über die Alters- und Hinterlassenenversicherung (AHVG) wird bei der Bewertung der Angemessenheit eines Vorsorgeplans nicht berücksichtigt.[^1-2]
 
 <sup>4</sup> Sieht der Vorsorgeplan Kapitalleistungen vor, so sind für die Bewertung der Angemessenheit die entsprechenden Rentenleistungen zugrunde zu legen, wie sie sich bei Anwendung des reglementarischen Umwandlungssatzes und, falls kein reglementarischer Umwandlungssatz vorgesehen ist, des Mindestumwandlungssatzes nach Artikel 14 Absatz 2 BVG ergeben.
 
@@ -62,9 +62,11 @@ Gemäss Berechnungsmodell:
 Ein Vorsorgeplan mit Wahl der Anlagestrategie nach Artikel 1*e* gilt als angemessen, wenn:
 
 - a. die Bedingungen nach Absatz 2 Buchstabe b erfüllt sind; und
-- b. bei der Berechnung des Höchstbetrages der Einkaufssumme keine höheren Beiträge als durchschnittlich 25 Prozent des versicherten Lohns pro mögliches Beitragsjahr ohne Aufzinsung berücksichtigt werden.[^1-1]
+- b. bei der Berechnung des Höchstbetrages der Einkaufssumme keine höheren Beiträge als durchschnittlich 25 Prozent des versicherten Lohns pro mögliches Beitragsjahr ohne Aufzinsung berücksichtigt werden.[^1-3]
 
-[^1-1]: Eingefügt durch Ziff. I der V vom 30. Aug. 2017, in Kraft seit 1. Okt. 2017 ([AS 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
+[^1-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^1-2]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 30. Aug. 2017, in Kraft seit 1. Okt. 2017 ([AS 2017 5021](https://fedlex.data.admin.ch/eli/oc/2017/543)).
 
 #### Art. 1a
 
@@ -241,7 +243,7 @@ Arbeitnehmer mit befristeten Anstellungen oder Einsätzen sind der obligatorisch
 Arbeitnehmer, welche im Rahmen eines Personalverleihs gemäss dem Bundesgesetz vom 6. Oktober 1989[^2-2] über die Arbeitsvermittlung und den Personalverleih in einem Einsatzbetrieb beschäftigt sind, gelten als Angestellte des verleihenden Unternehmens.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^2-2]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^2-2]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 3
 
@@ -281,7 +283,7 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement vom massgebenden Lohn der AHV ab
 Für Personen, die im Sinne des Bundesgesetzes vom 19. Juni 1959[^4-2] über die Invalidenversicherung (IVG) teilweise invalid sind, werden die Grenzbeträge nach den Artikeln 2, 7, 8 Absatz 1 und 46 BVG entsprechend dem prozentualen Anteil ihres Teilrentenanspruchs gekürzt.
 
 [^4-1]: Fassung gemäss Anhang Ziff. 3 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^4-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^4-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 5
 
@@ -312,7 +314,7 @@ Die Grenzbeträge nach den Artikeln 2, 7, 8 und 46 BVG werden wie folgt erhöht:
 <sup>2</sup> Für arbeitslose Personen beginnt die Versicherung mit dem Tag, an dem erstmals die Anspruchsvoraussetzungen nach Artikel 8 des Bundesgesetzes vom 25. Juni 1982[^6-2] über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) erfüllt sind oder Entschädigungen nach Artikel 29 AVIG bezogen werden.
 
 [^6-1]: Fassung gemäss Anhang Ziff. 1 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^6-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^6-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ### 2. Abschnitt: Anschlusspflicht des Arbeitgebers
 
@@ -520,7 +522,7 @@ Die Vorsorge- oder Freizügigkeitseinrichtung muss festhalten, wie hoch der Ante
 <sup>2</sup> Bei der Verzinsung durch eine Freizügigkeitseinrichtung werden die Zinsen anteilsmässig dem Altersguthaben und dem übrigen Vorsorgeguthaben gutgeschrieben. Erträge und Verluste aus dem Wertschriftensparen nach Artikel 13 Absatz 5 der Freizügigkeitsverordnung vom 3. Oktober 1994[^16-2] (FZV) werden ebenfalls anteilsmässig auf das Altersguthaben und das übrige Vorsorgeguthaben aufgeteilt.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^16-2]: [SR 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^16-2]: [SR 831.425](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10102)
 
 ### 3*a*. Abschnitt: Auflösung von Verträgen
 
@@ -540,7 +542,7 @@ Die Vorsorge- oder Freizügigkeitseinrichtung muss festhalten, wie hoch der Ante
 
 <sup>3</sup> Die Vorsorgeeinrichtung, welche Rentner an eine andere Vorsorgeeinrichtung abgibt, muss dieser sämtliche Auskünfte erteilen, welche diese zur Berechnung und Ausrichtung der Leistungen benötigt.
 
-[^16a-1]: [SR 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^16a-1]: [SR 831.425](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10102)
 [^16a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 16b
@@ -659,7 +661,7 @@ Die ehemalige eingetragene Partnerin oder der ehemalige eingetragene Partner ist
 <sup>4</sup> Die Hinterlassenenleistungen der Vorsorgeeinrichtung können um den Betrag gekürzt werden, um den sie zusammen mit den Hinterlassenenleistungen der AHV den Anspruch aus dem Scheidungsurteil oder dem Urteil über die Auflösung der eingetragenen Partnerschaft übersteigen. Hinterlassenenrenten der AHV werden dabei nur so weit angerechnet, als sie höher sind als ein eigener Anspruch auf eine Invalidenrente der IV oder eine Altersrente der AHV.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
-[^20-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^20-2]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 20a
 
@@ -720,7 +722,7 @@ Sie darf folgende Leistungen und Einkünfte nicht anrechnen:
 [^24-1]: Fassung gemäss Anhang Ziff. 1 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^24-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^24-3]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^24-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 24a
 
@@ -751,8 +753,8 @@ Hat die versicherte Person das Referenzalter erreicht, so darf die Vorsorgeeinri
 [^24a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^24a-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^24a-3]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^24a-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^24a-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^24a-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^24a-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^24a-6]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^24a-7]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -774,9 +776,9 @@ Hat die versicherte Person das Referenzalter erreicht, so darf die Vorsorgeeinri
 [^25-2]: Fassung gemäss Anhang Ziff. 1 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^25-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3729](https://fedlex.data.admin.ch/eli/oc/2002/579)).
 [^25-4]: Aufgehoben durch Anhang Ziff. 1 der V vom 9. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^25-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^25-6]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^25-7]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^25-5]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^25-6]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^25-7]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^25-8]: Fassung gemäss Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^25-9]: Aufgehoben durch Ziff. I der V vom 18. Aug. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
@@ -908,7 +910,7 @@ Leistungen gleicher Art sind namentlich:
 
 Die Vorsorgeeinrichtung, der das Rückgriffsrecht nach Artikel 34*b* BVG zusteht, kann mit Sozialversicherungen, denen das Rückgriffsrecht nach Artikeln 72–75 ATSG[^27d-1] zusteht und mit anderen Beteiligten Vereinbarungen treffen, um die Erledigung der Regressfälle zu vereinfachen.
 
-[^27d-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27d-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 27e
 
@@ -919,7 +921,7 @@ Die Vorsorgeeinrichtung, der das Rückgriffsrecht nach Artikel 34*b* BVG zusteht
 Ist die Vorsorgeeinrichtung nebst anderen Sozialversicherungen am Rückgriff gemäss den Artikeln 72–75 ATSG[^27e-2] in Verbindung mit Artikel 34*b* BVG beteiligt, so sind die Versicherungen einander im Verhältnis der von ihnen erbrachten sowie zu erbringenden kongruenten Leistungen ausgleichspflichtig.
 
 [^27e-1]: Fassung gemäss Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
-[^27e-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27e-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 27f
 
@@ -956,7 +958,7 @@ Gegenüber dem nicht haftpflichtversicherten Haftpflichtigen einigen sich mehrer
 
 <sup>3</sup> Die versicherungstechnischen Fehlbeträge werden nach Artikel 44 ermittelt. Ein allfälliger Abzug eines versicherungstechnischen Fehlbetrages erfolgt individuell bei der Austrittsleistung. Wurde die ungekürzte Austrittsleistung bereits überwiesen, muss die versicherte Person den zuviel überwiesenen Betrag zurückerstatten.
 
-[^27g-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^27g-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
 [^27g-2]: Fassung gemäss Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^27g-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
 [^27g-4]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)). Fassung gemäss Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
@@ -1196,7 +1198,7 @@ Die Revisionsstelle muss die Aufsichtsbehörde unverzüglich benachrichtigen, we
 - c. ihr die Zulassung nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^36-2] entzogen wurde.
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^36-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^36-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### 3. Abschnitt: Experte für berufliche Vorsorge
 
@@ -1418,7 +1420,7 @@ Sammel- und Gemeinschaftseinrichtungen, die dem FZG unterstellt sind, dürfen be
 [^47-3]: Fassung gemäss Ziff. I der V vom 24. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 [^47-4]: Siehe www.fer.ch/inhalt/home/home/news.html; Bezugsquelle der Publikation: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich (www.verlagskv.ch).
 [^47-5]: Fassung gemäss Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4143](https://fedlex.data.admin.ch/eli/oc/2013/764)).
-[^47-6]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^47-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^47-7]: Fassung gemäss Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
 
 #### Art. 48
@@ -1551,11 +1553,11 @@ Mit der Vermögensverwaltung dürfen als externe Personen und Institutionen nur 
 <sup>5–7</sup> …[^48f-9]
 
 [^48f-1]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
-[^48f-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^48f-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^48f-3]: Fassung gemäss Anhang 1 Ziff. II 7 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^48f-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^48f-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^48f-5]: Fassung gemäss Anhang 1 Ziff. II 7 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^48f-6]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^48f-6]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^48f-7]: Eingefügt durch Anhang 1 Ziff. II 7 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^48f-8]: Eingefügt durch Anhang 1 Ziff. II 7 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^48f-9]: Aufgehoben durch Anhang 1 Ziff. II 7 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
@@ -1570,7 +1572,7 @@ Mit der Vermögensverwaltung dürfen als externe Personen und Institutionen nur 
 
 <sup>2</sup> Personelle Wechsel im obersten Organ, in der Geschäftsführung, Verwaltung oder Vermögensverwaltung sind der zuständigen Aufsichtsbehörde umgehend zu melden. Diese kann eine Prüfung der Integrität und Loyalität durchführen.
 
-[^48g-1]: [SR 831.435.1](https://fedlex.data.admin.ch/eli/cc/2011/460)
+[^48g-1]: [SR 831.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10111)
 
 #### Art. 48h
 
@@ -1766,7 +1768,14 @@ Ein Hebel ist nur zulässig in:
 - d. Anlagen in derivativen Finanzinstrumenten, wenn keine Hebelwirkung auf das Gesamtvermögen der Vorsorgeeinrichtung ausgeübt wird;
 - e.[^53-8] Anlagen nach Absatz 1 Buchstaben d<sup>bis</sup> und d<sup>ter</sup>, wenn es sich dabei um kurzfristige durch Kapitalzusagen der Anleger gedeckte Brückenfinanzierungen oder um kurzfristige, technisch bedingte Kreditaufnahmen handelt.
 
-<sup>6</sup> Im Falle von Effektenleihe und Pensionsgeschäften gelten das Kollektivanlagegesetz vom 23. Juni 2006[^53-9] und seine Ausführungsbestimmungen sinngemäss. Pensionsgeschäfte, bei denen die Vorsorgeeinrichtung als Pensionsgeberin handelt, sind unzulässig.
+<sup>6</sup>
+
+Im Falle von Effektenleihe und Pensionsgeschäften gelten das Kollektivanlagegesetz vom 23. Juni 2006[^53-9] und seine Ausführungsbestimmungen sinngemäss, insbesondere die Verordnung der Eidgenössischen Finanzmarktaufsicht vom 27. August 2014[^53-10] über die kollektiven Kapitalanlagen. Für Pensionsgeschäfte, bei denen die Vorsorgeeinrichtung als Pensionsgeberin handelt, dürfen die folgenden Anteile des Gesamtvermögens der Vorsorgeeinrichtung eingesetzt werden:
+
+- a. bis maximal 1 Prozent für das Liquiditätsmanagement, insbesondere zur Deckung von entstehenden Verpflichtungen aus Absicherungsgeschäften;
+- b. bis maximal 3 Prozent für längstens 30 Kalendertage zur Deckung eines Liquiditätsbedarfs aus Währungsabsicherungen.[^53-11]
+
+<sup>7</sup> Pensionsgeschäfte, bei denen die Vorsorgeeinrichtung als Pensionsgeberin handelt, dürfen keine systematische Hebelwirkung auf das Gesamtvermögen ausüben.[^53-12]
 
 [^53-1]: Fassung gemäss Ziff. I der V vom 6. Juni 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^53-2]: Eingefügt durch Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
@@ -1776,7 +1785,10 @@ Ein Hebel ist nur zulässig in:
 [^53-6]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 [^53-7]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 [^53-8]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
-[^53-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^53-9]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^53-10]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
+[^53-11]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^53-12]: Eingefügt durch Ziff. I 1 der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 #### Art. 53a
 
@@ -1854,14 +1866,15 @@ Für die einzelnen Anlagekategorien gelten bezogen auf das Gesamtvermögen folge
 - b. 50 Prozent: für Anlagen in Aktien;
 - c. 30 Prozent: für Anlagen in Immobilien, wovon maximal ein Drittel im Ausland;
 - d. 15 Prozent: für alternative Anlagen;
-- e. 30 Prozent: für Fremdwährungen ohne Währungssicherung;
-- f.[^55-3] 10 Prozent: für Anlagen in Infrastruktur;
-- g.[^55-4] 5 Prozent: für Anlagen nach Artikel 53 Absatz 1 Buchstabe d<sup>ter</sup>.
+- e.[^55-3] 30 Prozent: für Fremdwährungen ohne Währungsabsicherung;
+- f.[^55-4] 10 Prozent: für Anlagen in Infrastruktur;
+- g.[^55-5] 5 Prozent: für Anlagen nach Artikel 53 Absatz 1 Buchstabe d<sup>ter</sup>.
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^55-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
-[^55-3]: Eingefügt durch Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^55-4]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^55-3]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^55-4]: Eingefügt durch Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^55-5]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 
 #### Art. 56
 
@@ -1953,7 +1966,7 @@ Als Sicherstellung gelten:
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 1. Juni 1993, in Kraft seit 1. Juli 1993 ([AS 1993 1881](https://fedlex.data.admin.ch/eli/oc/1993/1881_1881_1881)).
 [^58-2]: Fassung gemäss Ziff. I der V vom 24. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
-[^58-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^58-3]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^58-4]: Fassung gemäss Ziff. I der V vom 19. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^58-5]: Fassung gemäss Ziff. I der V vom 24. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1709](https://fedlex.data.admin.ch/eli/oc/2004/208)).
 
@@ -1984,7 +1997,7 @@ Die Bestimmungen dieses Abschnitts gelten sinngemäss auch für:
 - b. den Sicherheitsfonds.
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 24. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 975](https://fedlex.data.admin.ch/eli/oc/2016/171)).
-[^59-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^59-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 60
 
@@ -2012,7 +2025,7 @@ Die Bestimmungen dieses Abschnitts gelten sinngemäss auch für:
 
 <sup>4</sup> Für eine versicherte Person, die bereits Altersleistungen bezieht oder bezogen hat und die in der Folge die Erwerbstätigkeit wieder aufnimmt oder ihren Beschäftigungsgrad wieder erhöht, reduziert sich der Höchstbetrag der Einkaufssumme im Umfang der bereits bezogenen Altersleistungen.[^60a-3]
 
-[^60a-1]: [SR 831.461.3](https://fedlex.data.admin.ch/eli/cc/1985/1778_1778_1778)
+[^60a-1]: [SR 831.461.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10116)
 [^60a-2]: Fassung gemäss Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^60a-3]: Eingefügt durch Anhang Ziff. 7 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -2072,7 +2085,7 @@ In den Fällen, in denen eine Rückzahlung des Vorbezugs für die Wohneigentumsf
 
 [^60e-1]: Ursprünglich Art. 60b ([AS 2005 5257](https://fedlex.data.admin.ch/eli/oc/2005/729)).
 [^60e-2]: Eingefügt durch Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^60e-3]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^60e-3]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 
 #### Art. 60e<sup>bis</sup>
 
@@ -2115,7 +2128,7 @@ Die Verordnung vom 31. Oktober 1947[^61-1] über die Alters- und Hinterlassenenv
 
 …[^61-2]
 
-[^61-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185). Die hiernach aufgeführten Änd. sind eingefügt in der genannten V.
+[^61-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007). Die hiernach aufgeführten Änd. sind eingefügt in der genannten V.
 [^61-2]: Die Änd. können unter [AS 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543)konsultiert werden.
 
 #### Art. 62
@@ -2132,7 +2145,7 @@ Die Verordnung vom 31. Oktober 1947[^61-1] über die Alters- und Hinterlassenenv
 
 #### Art. 62a
 
-<sup>1</sup> Das ordentliche Rentenalter der Frauen im AHVG gilt auch als ordentliches BVG-Rentenalter der Frauen (Art. 13 BVG).
+<sup>1</sup> Das ordentliche Rentenalter der Frauen im AHVG[^62a-1] gilt auch als ordentliches BVG-Rentenalter der Frauen (Art. 13 Abs. 1 BVG).[^62a-2]
 
 <sup>2</sup>
 
@@ -2141,6 +2154,9 @@ Dieses Rentenalter ist ebenfalls massgebend für:
 - a. den Zeitpunkt, für den der Mindestumwandlungssatz nach Artikel 14 Absatz 2 BVG und Buchstabe b der Übergangsbestimmungen zur Änderung vom 3. Oktober 2003 der 1. BVG-Revision angewandt wird;
 - b. die Berechnung der Altersgutschriften in der Höhe von 18 Prozent (Artikel 16 BVG und Buchstabe c der Übergangsbestimmungen zur Änderung vom 3. Okt. 2003 der 1. BVG-Revision);
 - c. den anwendbaren Umwandlungssatz bei der Berechnung der Invalidenrente nach Artikel 24 Absatz 2 BVG.
+
+[^62a-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^62a-2]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 
 ### 1*b*. Abschnitt: Übergangsbestimmungen der Ausführungsbestimmungen von Buchstabe e der Übergangsbestimmungen der 1. BVG-Revision
 
@@ -2186,10 +2202,13 @@ Für die nachfolgend aufgeführten Jahrgänge und deren ordentliches Rentenalter
 
 #### Art. 62d
 
-Das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021[^62d-1] des Bundesgesetzes vom 20. Dezember 1946[^62d-2] über die Alters- und Hinterlassenenversicherung festgelegte Referenzalter gilt auch als BVG-Referenzalter der Frauen.
+[^62d-1]
 
-[^62d-1]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^62d-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+Das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen zur Änderung vom 17. Dezember 2021[^62d-2] des AHVG[^62d-3] festgelegte Referenzalter gilt auch als BVG-Referenzalter der Frauen.
+
+[^62d-1]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
+[^62d-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
+[^62d-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### 2. Abschnitt: Inkrafttreten
 
@@ -2336,7 +2355,7 @@ Anhang[^t-1]
 
 <sup>1</sup> Der Deckungsgrad der Vorsorgeeinrichtung wird wie folgt ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20250101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20260801/de/xml/image/image1.png)
 
 Wobei für Vv gilt: Die gesamten Aktiven per Bilanzstichtag zu Marktwerten bilanziert, vermindert um Verbindlichkeiten, passive Rechnungsabgrenzung und Arbeitgeberbeitragsreserven, soweit keine Vereinbarung über einen Verwendungsverzicht des Arbeitgebers vorliegt. Es ist das effektive Vorsorgevermögen massgebend, wie es aus der tatsächlichen finanziellen Lage nach Artikel 47 Absatz 2 hervorgeht. Eine Arbeitgeberbeitragsreserve mit Verwendungsverzicht (AGBR mit Verwendungsverzicht), die Wertschwankungsreserven und die Umlageschwankungsreserven sind dem verfügbaren Vorsorgevermögen zuzurechnen.
 
