@@ -4,13 +4,12 @@ number: RiE 411.610
 title: Reglement für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulreglement
 language: de
-version: 2025-04-17
-valid_until: 2026-07-31
-version_adopted: 2025-04-08
+version: 2026-08-01
+version_adopted: 2025-12-09
 adopted: 2009-06-16
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.610"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6581/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6746/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Schulreglement | Riehen: Einwohnergemeinde
 
 (Schulreglement)
 
-Vom 16. Juni 2009 (Stand 17. April 2025)
+Vom 16. Juni 2009 (Stand 1. August 2026)
 
 Der Gemeinderat Riehen
 
@@ -215,6 +214,8 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 ## II. Betrieb der Gemeindeschulen
 
+### (II)1. Unterricht
+
 #### § 13
 
 **Schulgeld für auswärtige Schülerinnen und Schüler**
@@ -255,13 +256,26 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 <sup>2</sup> Die Gesuche sind bei der Klassenlehrperson einzureichen, welche das Gesuch an die Schulleitung weiterleitet.
 
+### (II)2. Tagesstrukturen
+
+#### § 17a
+
+**Elternbeiträge**
+
+<sup>1</sup> Die Erziehungsberechtigten beteiligen sich mit Elternbeiträgen gemäss § 77j des Schulgesetzes vom 4. April 1929[^17a-1] und §§ 9, 10 und 12 der Verordnung über die Tagesstrukturen und die Ferienangebote (TFV) vom 18. Juni 2024[^17a-2] an den Kosten des Tagesstrukturangebots, welches ihr Kind besucht.
+
+<sup>2</sup> Die Höhe der Elternbeiträge legt der Gemeinderat im Anhang 1 fest.
+
+[^17a-1]: [SG 410.100](https://www.gesetzessammlung.bs.ch/data/SG%20410.100/de)
+[^17a-2]: [SG 412.600](https://www.gesetzessammlung.bs.ch/data/SG%20412.600/de)
+
 ## III. Besondere Bestimmungen zum Arbeitsverhältnis im Schulbereich
 
 ### (III.)1. Personalrechtliche Regelungen
 
-[^17-1]
+[^17a-3]
 
-[^17-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsbuchstaben oder -ziffern.
+[^17a-3]: Softwarebedingte, redaktionelle Einfügung von Gliederungsbuchstaben oder -ziffern.
 
 #### § 18
 
