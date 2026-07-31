@@ -4,13 +4,12 @@ number: "154.234"
 title: "Verordnung über die Referenzfunktionen, den Einreihungsplan und die Lohneinreihung"
 short: "Lohneinreihungsverordnung, LEVO"
 language: de
-version: 2024-01-01
-valid_until: 2026-07-31
-version_adopted: 2022-11-22
+version: 2026-08-01
+version_adopted: 2026-07-07
 adopted: 2022-11-22
 in_force: 2024-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.234"
-pdf: "https://bgs.zg.ch/api/de/versions/2624/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3044/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2624/pdf_file"
 
 (Lohneinreihungsverordnung, LEVO)
 
-Vom 22. November 2022 (Stand 1. Januar 2024)
+Vom 22. November 2022 (Stand 1. August 2026)
 
 Der Regierungsrat des Kantons Zug
 
@@ -35,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung gilt für alle Mitarbeiterinnen und Mitarbeiter des Kantons und der Justiz.
 
-<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen für Lehrpersonen, Teile des Hochschulpersonals (Mitglieder der Hochschulleitung, Dozierende, besondere wissenschaftliche Mitarbeitende und wissenschaftliche Assistierende), Mitarbeiterinnen bzw. Mitarbeiter der Polizei mit hoheitlicher polizeilicher Gewalt sowie für die gewählten Behörden gemäss § 45 Personalgesetz.[^1-1]
+<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen für Lehrpersonen, Teile des Hochschulpersonals (Mitglieder der Hochschulleitung, Dozierende, wissenschaftliche Mitarbeitende und wissenschaftliche Assistierende), Mitarbeiterinnen bzw. Mitarbeiter der Polizei mit hoheitlicher polizeilicher Gewalt sowie für die gewählten Behörden gemäss § 45 Personalgesetz.[^1-1]
 
 [^1-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
 
