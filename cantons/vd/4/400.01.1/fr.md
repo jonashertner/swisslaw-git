@@ -4,7 +4,7 @@ number: "400.01.1"
 title: "RÈGLEMENT du 25.06.1997 d'application de la loi scolaire du 12 juin 1984 (RLS)"
 short: RLS
 language: fr
-version: 2019-08-01
+version: 2026-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.01.1?id=74f79da0-fc04-482b-a296-a2eaf99c3734"
 ---
 
@@ -1411,17 +1411,31 @@ arrête
 
 **Maîtres remplaçants [^114-1]**
 
-<sup>1</sup> Les titres requis pour les maîtres remplaçants sont, en principe, les mêmes que ceux qui sont exigés pour être titulaire du poste. Leur statut horaire et les conditions de rémunération sont alors ceux correspondant à leur titre d'enseignement.
+<sup>1</sup> Les maîtres remplaçants au sens de l'article 88 de la loi doivent en principe disposer des mêmes titres que le titulaire du poste.
 
-<sup>2</sup> Si le service doit engager un maître remplaçant non pourvu des titres requis, les conditions relatives à son statut horaire et à sa rémunération sont les mêmes que les conditions initiales prévues pour la fonction correspondante de maître auxiliaire, au sens de l'article 117a du présent règlement.
+<sup>2</sup> Pour les remplacements visés à l'article 88, alinéa 3, de la loi qui sont effectués par des personnes titulaires d'un titre pédagogique ou en formation pour l'obtenir, les conditions de rémunération sont fixées à l'annexe 1.
 
-[^114-1]: Modif. 6 du 17.11.2004: Modification Art. 115; entrée en vigueur au 01.08.2004 · Modif. 10 du 01.07.2026: Modification Al. 1-2; entrée en vigueur au 01.08.2026; Introduction Al. 3; entrée en vigueur au 01.08.2026; Introduction Art. 115a; entrée en vigueur au 01.08.2026; Introduction Annexes, Ann. 1; entrée en vigueur au 01.08.2026
+<sup>3</sup> En l'absence de tout titre d'enseignement, les rapports de travail d'un maître qui remplace un maître titulaire sont régis par l'article 115a.
+
+[^114-1]: Modif. 6 du 17.11.2004: Modification Art. 115; entrée en vigueur au 01.08.2004 · Modif. 10 du 01.07.2026: Modification Al. 1-2; entrée en vigueur au 01.08.2026; Introduction Al. 3; entrée en vigueur au 01.08.2026
+
+#### Art. 115a
+
+**Maîtres auxiliaires [^115-1]**
+
+<sup>1</sup> Les maîtres auxiliaires sont ceux qui ne disposent d'aucun titre d'enseignement, qu'ils soient ou non au bénéfice d'une formation de base et qui ne suivent pas une formation pour obtenir le titre d'enseignement requis.
+
+<sup>2</sup> Les conditions de rémunération des maîtres auxiliaires effectuant des remplacements visés à l'article 88, alinéa 3, de la loi sont fixées à l'annexe 1. Pour le secteur de la scolarité obligatoire, l'annexe 1 régit également les conditions de rémunération des maîtres auxiliaires effectuant des remplacements visés à l'article 88, alinéa 2, de la loi.
+
+<sup>3</sup> Le contrat de durée déterminée des maîtres auxiliaires n'est renouvelé que si le poste ne peut pas être occupé par un maître porteur des titres requis. Le contrat ne peut pas être renouvelé plus de deux fois.
+
+[^115-1]: Modif. 10 du 01.07.2026: Introduction tArt; entrée en vigueur au 01.08.2026; Introduction Al. 1-3; entrée en vigueur au 01.08.2026; Introduction Art. 115a; entrée en vigueur au 01.08.2026
 
 #### Art. 116
 
-**… [^115-1]**
+**… [^115a-1]**
 
-[^115-1]: Modif. 6 du 17.11.2004: Abrogation Art. 116; entrée en vigueur au 01.08.2004
+[^115a-1]: Modif. 6 du 17.11.2004: Abrogation Art. 116; entrée en vigueur au 01.08.2004
 
 #### Art. 117
 
@@ -2401,4 +2415,11 @@ jusqu'à 26% non compris, mais au moins 5 périodes : 2 périodes de 26% à 51% 
 
 <sup>1</sup> ...
 
+Annexes [^199-1]
+
+1
+
+[Annexe 1](https://prestations.vd.ch/pub/blv-publication/api/actes/74f79da0-fc04-482b-a296-a2eaf99c3734/annexes/1?dmev=01.08.2026)
+
 [^198-1]: Modif. 9 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013
+[^199-1]: Modif. 10 du 01.07.2026: Introduction Annexes, Ann. 1; entrée en vigueur au 01.08.2026
