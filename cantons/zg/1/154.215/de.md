@@ -4,13 +4,12 @@ number: "154.215"
 title: "Verordnung über die Aus-, Fort- und Weiterbildung sowie den Bildungsurlaub"
 short: Weiterbildungsverordnung; WBVO
 language: de
-version: 2024-01-01
-valid_until: 2026-07-31
-version_adopted: 2023-12-05
+version: 2026-08-01
+version_adopted: 2026-07-07
 adopted: 2023-12-05
 in_force: 2024-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.215"
-pdf: "https://bgs.zg.ch/api/de/versions/2516/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3045/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2516/pdf_file"
 
 (Weiterbildungsverordnung; WBVO)
 
-Vom 5. Dezember 2023 (Stand 1. Januar 2024)
+Vom 5. Dezember 2023 (Stand 1. August 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -46,7 +45,7 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung gilt für alle in einem öffentlich-rechtlichen Arbeitsverhältnis stehenden Mitarbeiterinnen und Mitarbeiter des Kantons.
 
-<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen, namentlich für Lehrpersonen sowie für Mitarbeiterinnen und Mitarbeiter der Polizei.
+<sup>2</sup> Vorbehalten bleiben besondere Bestimmungen, namentlich für Lehrpersonen, Teile des Hochschulpersonals sowie für Mitarbeiterinnen und Mitarbeiter der Polizei.
 
 <sup>3</sup> Die Justizverwaltung, die Datenschutzstelle sowie die Ombudsstelle sind von der Pflicht ausgenommen:
 
