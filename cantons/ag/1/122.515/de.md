@@ -4,13 +4,12 @@ number: "122.515"
 title: Verordnung über die Integration der ausländischen Bevölkerung
 short: IntegrationsV
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-03-12
+version: 2026-08-01
+version_adopted: 2026-02-18
 adopted: 2009-01-14
 in_force: 2009-03-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.515"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3873/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3954/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3873/pdf_file"
 
 (IntegrationsV)
 
-Vom 14.01.2009 (Stand 01.01.2026)
+Vom 14.01.2009 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -98,51 +97,19 @@ beschliesst:
 
 **…**
 
-## 2b. Kantonale Beiträge an die Deutschförderung vor dem Kindergarten
+## 2b.
 
 #### § 6e
 
-**Beiträge an die Gemeinden**
-
-<sup>1</sup> Für die jährliche Erhebung der Deutschkenntnisse (Sprachstandserhebung) von Kindern, die im übernächsten Schuljahr in den Kindergarten eintreten, erhalten die Gemeinden Pauschalbeiträge des Kantons.
-
-<sup>2</sup> Die Sprachstandserhebungen müssen gemäss Vorgaben des BKS durchgeführt werden. Die Pauschalbeiträge richten sich nach der Einwohnerzahl der Gemeinde:
-
-- a) bis 2'000 Einwohner — Fr. 5'000.–
-- b) 2'001–5'000 Einwohner — Fr. 6'000.–
-- c) 5'001–9'000 Einwohner — Fr. 8'000.–
-- d) ab 9'001 Einwohner — Fr. 9'000.–
-
-<sup>3</sup> Die Pauschalbeiträge können auch verwendet werden für den Aufbau, die Qualitätssicherung und die Weiterentwicklung von Angeboten der alltagsintegrierten frühen Sprachförderung, insbesondere in Kindertagesstätten und Spielgruppen.
-
-<sup>4</sup> Das Beitragsgesuch ist nach erfolgter Auswertung der Sprachstandserhebungen bis spätestens 30. April beim BKS einzureichen.
+**…**
 
 #### § 6f
 
-**Datenbearbeitungen**
-
-<sup>1</sup> Die zuständigen Stellen der Gemeinden oder beauftragte Dritte erhalten auf Anfrage von der Einwohnerkontrolle folgende Daten von Kindern, die im übernächsten Schuljahr in den Kindergarten eintreten:
-
-- a) Vor- und Nachnamen, Geburtsdatum, Wohnadresse und Nationalität,
-- b) AHV-Nummer gemäss Art. 50c des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^6f-1],
-- c) Vor- und Nachnamen sowie Wohnadressen und Nationalitäten der gesetzlichen Vertretung, soweit diese Daten bei der Einwohnerkontrolle vorhanden sind.
-
-<sup>2</sup> Sie bearbeiten und geben einander diejenigen Personendaten der Kinder bekannt, die für die Durchführung und die Auswertung der Sprachstandserhebungen sowie die Vorbereitung und Durchführung der frühen Sprachförderung notwendig sind.
-
-<sup>3</sup> Die Personendaten werden vor der Weitergabe anonymisiert, soweit es der Bearbeitungszweck erlaubt.
-
-[^6f-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
+**…**
 
 #### § 6g
 
-**Leistungen des BKS**
-
-<sup>1</sup> Das BKS erbringt insbesondere folgende Leistungen für die Gemeinden:
-
-- a) Auswertung der Sprachstandserhebungen,
-- b) Bereitstellung von Kommunikationsmitteln für die Gemeinden.
-
-<sup>2</sup> Es kann Dritte durch einen Leistungsvertrag beauftragen.
+**…**
 
 ## 3. Migrationskommission
 
@@ -211,7 +178,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren. Sie tritt am 1. März 2009 in Kraft.
 
-<sup>2</sup> Die §§ 6a und 6b sowie 6e–6g gelten bis 31. Dezember 2028.
+<sup>2</sup> Titel 2a sowie die §§ 6a und 6b betreffend die Finanzierung von Pilotprojekten der Deutschförderung vor dem Kindergarten gelten bis 31. Juli 2027.
 
 Aarau, 14. Januar 2009
 
