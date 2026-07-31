@@ -3,20 +3,19 @@ canton: SH
 number: "832.111"
 title: Verordnung über den Vollzug des Krankenversicherungsgesetzes
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-11-18
+version: 2026-08-01
+version_adopted: 2026-04-28
 adopted: 1996-07-09
 in_force: 1996-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/832.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2035/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2086/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug des Krankenversicherungsgesetzes
 
-Vom 09.07.1996 (Stand 01.01.2026)
+Vom 09.07.1996 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -36,11 +35,12 @@ beschliesst:
 
 <sup>2</sup> Aufgabe des Regierungsrates ist:
 
-- a) der Abschluss der Vereinbarung mit der AHV-Ausgleichskasse betreffend die Verwaltungskostenentschädigung
+- a) …
 - b) die Behandlung von Aufsichtsbeschwerden
 
 <sup>3</sup> Aufgabe des Departements des Innern ist:
 
+- d) der Abschluss der Vereinbarung mit der Sozialversicherungsanstalt Schaffhausen betreffend die Verwaltungskostenentschädigung
 - a) die Abrechnung mit dem Bund
 - b) die Genehmigung von Jahresrechnung und Jahresbericht der AHV-Ausgleichskasse betreffend die Durchführung des Dekrets
 - c) der Abschluss von allfälligen Vereinbarungen mit den Versicherern betreffend die Auszahlung an die Versicherer gemäss § 18 Abs. 1 des Dekrets
