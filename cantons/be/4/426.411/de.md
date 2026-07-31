@@ -4,13 +4,12 @@ number: "426.411"
 title: Verordnung über die Denkmalpflege
 short: "Denkmalpflegeverordnung, DPV"
 language: de
-version: 2025-02-01
-valid_until: 2026-07-31
-version_adopted: 2024-12-18
+version: 2026-08-01
+version_adopted: 2026-05-06
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.411"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3119/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3373/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3119/pdf_file"
 
 (Denkmalpflegeverordnung, DPV)
 
-vom 25.10.2000 (Stand 01.02.2025)
+vom 25.10.2000 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -74,11 +73,11 @@ beschliesst:
 
 **Forschung**
 
-<sup>1</sup> Im Sinne der denkmalpflegerischen Grundlagenforschung beteiligt sich der Kanton namentlich an den gesamtschweizerischen Werken "Die Kunstdenkmäler der Schweiz", herausgegeben von der Gesellschaft für Schweizerische Kunstgeschichte, und "Die schweizerische Bauernhausforschung", herausgegeben von der Schweizerischen Gesellschaft für Volkskunde.
+<sup>1</sup> Im Sinne der denkmalpflegerischen Grundlagenforschung beteiligt sich der Kanton namentlich am gesamtschweizerischen Werk «Die Kunstdenkmäler der Schweiz», herausgegeben von der Gesellschaft für Schweizerische Kunstgeschichte (GSK).
 
-<sup>2</sup> Die Einzelheiten der Zusammenarbeit zwischen dem Kanton und den Herausgeberinnen sind vertraglich zu regeln.
+<sup>2</sup> Die Einzelheiten der Zusammenarbeit zwischen dem Kanton und der GSK sind vertraglich zu regeln.
 
-<sup>3</sup> Die Bildungs- und Kulturdirektion setzt für die fachliche Begleitung der vom Kanton gemäss Vertrag zu erbringenden Leistungen Fachkommissionen ein.
+<sup>3</sup> …
 
 ## 2 Verzeichnis der beweglichen Denkmäler
 
@@ -321,9 +320,16 @@ beschliesst:
 
 <sup>1</sup> Finanzhilfen werden in der Regel als prozentualer Anteil an den beitragsberechtigten Kosten gemäss Artikel 28 gestützt auf den detaillierten Kostenvoranschlag ermittelt und unter Vorbehalt der Abrechnung zugesichert.
 
-<sup>2</sup> Die Prozentanteile richten sich im Einzelfall nach einer vom Regierungsrat periodisch festgelegten Beitragstabelle.
+<sup>2</sup> Der prozentuale Anteil beträgt 15 bis 25 Prozent der beitragsberechtigten Kosten. Er richtet sich im Einzelfall nach der Bedeutung des Objekts.
+
+<sup>2a</sup> Die Bedeutung des Objekts wird beurteilt aufgrund von Einträgen
+
+- a in den Inventaren des Bundes gemäss Artikel 5 Absatz 1 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz (NHG)[^30-1],
+- b im Bauinventar.
 
 <sup>3</sup> Ergeben sich aus der detaillierten Abrechnung erhebliche Mehr- oder Minderkosten, können die zugesicherten Beiträge erhöht oder gekürzt werden.
+
+[^30-1]: SR [451](https://db.clex.ch/link/Bund/451/de)
 
 #### Art. 31
 
@@ -351,7 +357,7 @@ beschliesst:
 
 <sup>1</sup> Auf das mit der Gewährung von Finanzhilfen verbundene Erfordernis der freiwilligen oder behördlichen Unterschutzstellung kann verzichtet werden,
 
-- a wenn die Finanzhilfen gemäss Artikel 30 bis 32 insgesamt den Betrag von Fr. 5000.- nicht übersteigen,
+- a wenn die Finanzhilfen gemäss Artikel 30 bis 32 insgesamt den Betrag von 10'000 Franken nicht übersteigen,
 - b wenn es sich um ortsbildgestaltende Massnahmen wie Pflästerungen u. dgl. handelt.
 
 #### Art. 34
@@ -410,17 +416,15 @@ beschliesst:
 
 #### Art. 39
 
-**Fachkommissionen für Denkmalpflege und Archäologie 1. Zusammensetzung**
+**Fachkommissionen für Denkmalpflege und Archäologie 1. Ernennung und Zusammensetzung**
 
-<sup>1</sup> Der Regierungsrat setzt auf Antrag der Bildungs- und Kulturdirektion für eine Amtsdauer von jeweils vier Jahren je eine beratende Fachkommission für Denkmalpflege und für Archäologie mit je sieben bis neun Mitgliedern ein.
+<sup>1</sup> Die beratenden Fachkommissionen für Denkmalpflege und Archäologie bestehen aus je sieben bis neun Mitgliedern.
 
-<sup>2</sup> Die Bildungs- und Kulturdirektion bestimmt die an den Kommissionssitzungen mit beratender Stimme und Antragsrecht teilnehmenden Vertreterinnen und Vertreter des Amtes für Kultur und seiner Fachstellen.
+<sup>2</sup> Die Bildungs- und Kulturdirektion ernennt die Mitglieder für eine Amtsdauer von jeweils vier Jahren. Sie bestimmt die an den Kommissionssitzungen mit beratender Stimme und Antragsrecht teilnehmenden Vertreterinnen und Vertreter des Amtes für Kultur und seiner Fachstellen.
 
 <sup>3</sup> Die Fachkommissionen können im Einzelfall zusätzliche Expertinnen und Experten beiziehen.
 
-<sup>4</sup> Die Entschädigung der Kommissionsmitglieder richtet sich nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^39-1].
-
-[^39-1]: BSG 152.256
+<sup>4</sup> …
 
 #### Art. 40
 
@@ -436,9 +440,21 @@ beschliesst:
 
 <sup>3</sup> Die Fachkommissionen können zur Stellungnahme zu direktionsübergreifenden Fragen der Denkmalpflege und der Archäologie beigezogen werden.
 
-## 6a Vertreterinnen und Vertreter des Kantons in Organisationen
+## 6a
 
 #### Art. 40a
+
+**3. Entschädigung**
+
+<sup>1</sup> Die Entschädigung der Mitglieder der Fachkommissionen richtet sich nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^40a-1].
+
+<sup>2</sup> Der Kanton kann den Mitgliedern der Fachkommissionen für aufwendige Aufgaben zusätzlich zum Taggeld eine Entschädigung ausrichten.
+
+[^40a-1]: BSG [152.256](https://www.belex.sites.be.ch/data/152.256/de)
+
+## 6b Vertreterinnen und Vertreter des Kantons in Organisationen
+
+#### Art. 40b
 
 **Ernennung**
 
@@ -446,15 +462,15 @@ beschliesst:
 
 <sup>2</sup> Sie berücksichtigt dabei ein ausgewogenes Geschlechterverhältnis.
 
-#### Art. 40b
+#### Art. 40c
 
 **Rechtliche Stellung**
 
-<sup>1</sup> Die Amtsdauer, die Altersgrenze und die Aufgaben der Vertreterinnen und Vertreter des Kantons richten sich unter Vorbehalt von Absatz 2 nach der Verordnung vom 24. August 1994 über die Kantonsvertreterinnen und Kantonsvertreter [^40b-1], soweit für die Organisationen keine anderslautenden besonderen Regelungen gelten.
+<sup>1</sup> Die Amtsdauer, die Altersgrenze und die Aufgaben der Vertreterinnen und Vertreter des Kantons richten sich unter Vorbehalt von Absatz 2 nach der Verordnung vom 24. August 1994 über die Kantonsvertreterinnen und Kantonsvertreter[^40c-1] soweit für die Organisationen keine anderslautenden besonderen Regelungen gelten.
 
 <sup>2</sup> Personen können den Kanton auch nach Erreichen der Altersgrenze nach dieser Verordnung vertreten, wenn eine laufende Amtszeit beendet werden soll oder wenn dies aus anderen Gründen angezeigt erscheint.
 
-[^40b-1]: BSG 153.15
+[^40c-1]: BSG [153.15](https://www.belex.sites.be.ch/data/153.15/de)
 
 ## 7 Übergangs- und Schlussbestimmungen
 
@@ -503,6 +519,14 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2001 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 06.05.2026
+
+#### Art. T1-1
+
+<sup>1</sup> Artikel 5 Absatz 3 ist bis am 31. Dezember 2026 anwendbar.
+
+<sup>2</sup> Sind zum Zeitpunkt des Inkrafttretens dieser Änderung Verfahren betreffend Finanzhilfen für die Erhaltung und Restaurierung von Baudenkmälern hängig, werden diese in Bezug auf den Verzicht auf Unterschutzstellung nach neuem Recht geführt und abgeschlossen.
 
 Bern, 25. Oktober 2000
 

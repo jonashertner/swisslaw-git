@@ -4,13 +4,12 @@ number: "426.411"
 title: Ordonnance sur la protection du patrimoine
 short: OPat
 language: fr
-version: 2025-02-01
-valid_until: 2026-07-31
-version_adopted: 2024-12-18
+version: 2026-08-01
+version_adopted: 2026-05-06
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.411"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3119/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3373/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3119/pdf_file"
 
 (OPat)
 
-du 25.10.2000 (état au 01.02.2025)
+du 25.10.2000 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,11 +73,11 @@ arrête:
 
 **Recherche**
 
-<sup>1</sup> Le canton participe aux travaux de recherche fondamentale en matière de protection du patrimoine, notamment aux ouvrages «Monuments d'art et d'histoire de la Suisse», publié par la Société d'Histoire de l'Art en Suisse, et «Etudes des maisons rurales de Suisse», publié par la Société suisse des traditions populaires.
+<sup>1</sup> Le canton participe aux travaux de recherche fondamentale en matière de protection du patrimoine, notamment à l'ouvrage «Monuments d'art et d'histoire de la Suisse», publié par la Société d'Histoire de l'Art en Suisse (SHAS).
 
-<sup>2</sup> Les détails de la collaboration entre le canton et ces sociétés éditrices sont fixés par contrat.
+<sup>2</sup> Les détails de la collaboration entre le canton et la SHAS sont fixés par contrat.
 
-<sup>3</sup> La Direction de l'instruction publique et de la culture constitue des commissions spécialisées chargées d'encadrer le canton sur le plan technique pour les prestations qu'il doit fournir conformément au contrat.
+<sup>3</sup> …
 
 ## 2 Liste du patrimoine mobilier
 
@@ -327,9 +326,16 @@ arrête:
 
 <sup>1</sup> Les aides financières correspondent en général à un pourcentage des frais donnant droit à des subventions conformément à l'article 28 et sont calculées sur la base d'un devis détaillé. Elles sont promises sous réserve du décompte.
 
-<sup>2</sup> Les pourcentages correspondent toujours à un tableau des subventions établi périodiquement par le Conseil-exécutif.
+<sup>2</sup> Le pourcentage représente entre 15 et 25 pour cent des frais donnant droit à des subventions. Il est déterminé au cas par cas en fonction de l'importance de l'objet.
+
+<sup>2a</sup> L'importance de l'objet est évaluée en vertu de son inscription
+
+- a dans les inventaires de la Confédération définis à l'article 5, alinéa 1 de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^30-1],
+- b au recensement architectural.
 
 <sup>3</sup> Si le décompte détaillé fait état d'une augmentation ou d'une diminution des frais considérable, les subventions promises peuvent être augmentées ou diminuées.
+
+[^30-1]: RS [451](https://db.clex.ch/link/Bund/451/fr)
 
 #### Art. 31
 
@@ -357,7 +363,7 @@ arrête:
 
 <sup>1</sup> Il est possible de renoncer à l'exigence du classement facultatif ou d'office d'un objet pour l'octroi d'une aide financière,
 
-- a si les aides financières visées aux articles 30 à 32 ne dépassent pas 5000 francs au total,
+- a si les aides financières visées aux articles 30 à 32 ne dépassent pas 10'000 francs au total,
 - b s'il s'agit de mesures d'aménagement du site telles que des pavages ou des travaux similaires.
 
 #### Art. 34
@@ -416,17 +422,15 @@ arrête:
 
 #### Art. 39
 
-**Commissions d'experts pour la protection du patrimoine et pour l'archéologie 1. Composition**
+**Commissions d'experts pour la protection du patrimoine et pour l'archéologie 1. Nomination et composition**
 
-<sup>1</sup> Sur proposition de la Direction de l'instruction publique et de la culture, le Conseil-exécutif constitue pour quatre ans une commission d'experts consultative pour la protection du patrimoine et une commission d'experts consultative pour l'archéologie, composées chacune de sept à neuf membres.
+<sup>1</sup> Les commissions d'experts consultatives pour la protection du patrimoine et pour l'archéologie se composent chacune de sept à neuf membres.
 
-<sup>2</sup> La Direction de l'instruction publique et de la culture désigne les représentants et les représentantes de l'Office de la culture et de ses services spécialisés qui participent aux séances des commissions avec voix consultative et droit de proposition.
+<sup>2</sup> La Direction de l'instruction publique et de la culture nomme les membres de ces commissions pour une durée de quatre ans. Elle désigne les représentants et les représentantes de l'Office de la culture et de ses services spécialisés qui participent aux séances des commissions avec voix consultative et droit de proposition.
 
 <sup>3</sup> Exceptionnellement, les commissions d'experts peuvent faire appel à des experts et des expertes supplémentaires.
 
-<sup>4</sup> L'indemnité versée aux membres des commissions est régie par l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^39-1].
-
-[^39-1]: RSB 152.256
+<sup>4</sup> …
 
 #### Art. 40
 
@@ -442,9 +446,21 @@ arrête:
 
 <sup>3</sup> Les commissions d'experts peuvent être appelées à rendre un avis sur des questions interdirectionnelles relevant de la protection du patrimoine et de l'archéologie.
 
-## 6a Représentants et représentantes du canton dans les organisations
+## 6a
 
 #### Art. 40a
+
+**3. Indemnité**
+
+<sup>1</sup> L'indemnité versée aux membres des commissions d'experts est régie par l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^40a-1].
+
+<sup>2</sup> Le canton peut verser une indemnité en plus de l’indemnité journalière aux membres des commissions d'experts lorsque le travail effectué est considérable.
+
+[^40a-1]: RSB [152.256](https://www.belex.sites.be.ch/data/152.256/fr)
+
+## 6b Représentants et représentantes du canton dans les organisations
+
+#### Art. 40b
 
 **Nomination**
 
@@ -452,15 +468,15 @@ arrête:
 
 <sup>2</sup> Elle veille à une répartition équilibrée des sexes.
 
-#### Art. 40b
+#### Art. 40c
 
 **Statut juridique**
 
-<sup>1</sup> Sauf dispositions contraires particulières applicables aux organisations, le mandat, la limite d’âge et les tâches des représentants et des représentantes du canton sont régies, sous réserve de l’alinéa 2, par l’ordonnance du 24 août 1994 sur les représentants et les représentantes du canton[^40b-1].
+<sup>1</sup> Sauf dispositions contraires particulières applicables aux organisations, le mandat, la limite d’âge et les tâches des représentants et des représentantes du canton sont régis, sous réserve de l’alinéa 2, par l’ordonnance du 24 août 1994 sur les représentants et les représentantes du canton[^40c-1].
 
 <sup>2</sup> Des personnes peuvent représenter le canton même si elles ont dépassé la limite d’âge fixée par la présente ordonnance lorsqu’un mandat en cours doit être mené à son terme ou lorsque cela paraît indiqué pour d’autres raisons.
 
-[^40b-1]: RSB 153.15
+[^40c-1]: RSB [153.15](https://www.belex.sites.be.ch/data/153.15/fr)
 
 ## 7 Dispositions transitoires et dispositions finales
 
@@ -509,6 +525,14 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2001.
+
+## T1 Disposition transitoire de la modification du 06.05.2026
+
+#### Art. T1-1
+
+<sup>1</sup> L'article 5, alinéa 3 est applicable jusqu'au 31 décembre 2026.
+
+<sup>2</sup> Si des procédures concernant des aides financières pour la conservation et la restauration de monuments historiques sont en cours à l'entrée en vigueur de la présente modification, celles-ci sont menées et closes selon le nouveau droit en ce qui concerne la renonciation au classement.
 
 Berne, le 25 octobre 2000
 
