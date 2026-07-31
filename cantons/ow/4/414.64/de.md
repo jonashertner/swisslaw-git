@@ -3,20 +3,19 @@ canton: OW
 number: "414.64"
 title: Leistungsvereinbarung mit der Schweizerischen Sportmittelschule Engelberg AG
 language: de
-version: 2018-08-01
-valid_until: 2026-07-31
-version_adopted: 2017-09-26
+version: 2026-08-01
+version_adopted: 2025-06-10
 adopted: 2017-09-26
 in_force: 2018-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/414.64"
-pdf: "http://gdb.ow.ch/api/de/versions/1936/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1958/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Leistungsvereinbarung mit der Schweizerischen Sportmittelschule Engelberg AG
 
-vom 26.09.2017 (Stand 01.08.2018)
+vom 26.09.2017 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -78,7 +77,7 @@ und die Schweizerische Sportmittelschule Engelberg AG (SSE AG), vereinbaren:
 
 - a. der Anzahl der Obwaldner Schülerinnen/Schüler in der Orientierungsschule. Die Höhe des Kantonsbeitrags 2 für Orientierungsschüler beträgt Fr. 1 000.– pro Jahr;
 - b. der Anzahl der Obwaldner Studierenden im Kurzzeitgymnasium. Die Höhe des Kantonsbeitrags 2 ist die Differenz zwischen dem Kantonsbeitrag an die Schülerinnen und Schüler der Stiftsschule[^5-2] und dem Jahrestarif der Hochbegabtenvereinbarung sowie dem Schulgeld gemäss dem für die Kantonsschule Sarnen geltenden Ansatz;
-- c. der Anzahl Lernenden in der Berufsbildung für die der Bund einen Beitrag entrichtet. Die Höhe des Kantonsbeitrags 2 beträgt Fr. 1 900.–.
+- c. der Anzahl Lernenden in der Berufsbildung für die der Bund einen Beitrag entrichtet. Die Höhe des Kantonsbeitrags 2 beträgt Fr. 4 000.–.
 
 <sup>3</sup> Die Kantonsbeiträge werden unter dem Vorbehalt der jeweiligen Budgetgenehmigung durch den Kantonsrat ausbezahlt.
 
