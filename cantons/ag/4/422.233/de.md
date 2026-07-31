@@ -4,13 +4,12 @@ number: "422.233"
 title: Verordnung über die Berufsfachschule Gesundheit und Soziales und die Höhere Fachschule Gesundheit und Soziales
 short: V BFGS und HFGS
 language: de
-version: 2025-09-01
-valid_until: 2026-07-31
-version_adopted: 2025-06-25
+version: 2026-08-01
+version_adopted: 2026-05-13
 adopted: 2024-06-05
 in_force: 2024-09-15
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.233"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3845/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3980/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3845/pdf_file"
 
 (V BFGS und HFGS)
 
-Vom 05.06.2024 (Stand 01.09.2025)
+Vom 05.06.2024 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 16 Abs. 4, 29 Abs. 3, 30 Abs. 3 und 46 Abs. 2 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1] sowie die §§ 4 Abs. 3, 6 und 7 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-2],
+gestützt auf die §§ 5 Abs. 1, 27, 32 Abs. 1 und 34 Abs. 3 und 4 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-1], die §§ 16 Abs. 4, 29 Abs. 3, 30 Abs. 3 und 46 Abs. 2 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-2] sowie die §§ 4 Abs. 3, 6 und 7 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
-[^ingress-2]: SAR [165.170](https://gesetzessammlungen.ag.ch/data/165.170/de)
+[^ingress-1]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
+[^ingress-2]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
+[^ingress-3]: SAR [165.170](https://gesetzessammlungen.ag.ch/data/165.170/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -56,9 +56,9 @@ beschliesst:
 
 **Schulleitung**
 
-<sup>1</sup> Die Schulleitung der BFGS und diejenige der HFGS bestehen aus einer Rektorin beziehungsweise einem Rektor, einer Stellvertreterin beziehungsweise einem Stellvertreter und mindestens einem weiteren Mitglied. Die Rektorin beziehungsweise der Rektor steht der Schulleitung vor.
+<sup>1</sup> Die Schulleitung der BFGS und diejenige der HFGS bestehen aus einer Rektorin oder einem Rektor, einer Stellvertreterin oder einem Stellvertreter und mindestens einem weiteren Mitglied. Die Rektorin oder der Rektor steht der Schulleitung vor.
 
-<sup>2</sup> Die Aufgaben und Kompetenzen der Mitglieder der Schulleitung ergeben sich aus dem Berufsauftrag der Schulleitung und den Pflichtenheften gemäss § 33 der Verordnung über die Anstellung und Löhne der Lehrpersonen (VALL) vom 13. Oktober 2004[^3-1].
+<sup>2</sup> Die Aufgaben und Kompetenzen der Mitglieder der Schulleitung ergeben sich aus dem Berufsauftrag der Schulleitung und den Pflichtenheften gemäss den §§ 5 und 33 der Verordnung über die Anstellung und Löhne der Lehrpersonen (VALL) vom 13. Oktober 2004[^3-1].
 
 <sup>3</sup> Den einzelnen Mitgliedern der Schulleitung können durch die Pflichtenhefte insbesondere die Verantwortung für bestimmte Bildungsgänge oder weitere schulische Angebote zugewiesen werden.
 
@@ -70,7 +70,7 @@ beschliesst:
 
 <sup>1</sup> Das Departement Bildung, Kultur und Sport (BKS) wählt für die BFGS und die HFGS eine Schulkommission von fünf bis sieben Mitgliedern für eine Amtsdauer von vier Jahren.
 
-<sup>2</sup> Der Schulkommission gehören Persönlichkeiten, insbesondere aus den Bereichen Organisation der Arbeitswelt, Fachdisziplinen, Bildung und Politik an. Die Rektorin beziehungsweise der Rektor nimmt an den Sitzungen der Schulkommission teil.
+<sup>2</sup> Der Schulkommission gehören Persönlichkeiten, insbesondere aus den Bereichen Organisation der Arbeitswelt, Fachdisziplinen, Bildung und Politik an. Die Rektorin oder der Rektor nimmt an den Sitzungen der Schulkommission beratend teil.
 
 <sup>3</sup> Die Amtszeit ist auf 12 Jahre beschränkt.
 
@@ -78,9 +78,9 @@ beschliesst:
 
 **b) Organisation**
 
-<sup>1</sup> Die Präsidentin beziehungsweise der Präsident beruft die Schulkommission ein, wenn es die Geschäfte erfordern oder auf Begehren von mindestens einem Drittel der Mitglieder. Die Sitzungen sind durch eine Vertretung der Schule zu protokollieren.
+<sup>1</sup> Die Präsidentin oder der Präsident beruft die Schulkommission ein, wenn es die Geschäfte erfordern oder auf Begehren von mindestens einem Drittel der Mitglieder. Die Sitzungen sind durch eine Vertretung der Schule zu protokollieren.
 
-<sup>2</sup> Die Schulkommission ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Bei Stimmengleichheit hat die Präsidentin beziehungsweise der Präsident den Stichentscheid.
+<sup>2</sup> Die Schulkommission ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Bei Stimmengleichheit hat die Präsidentin oder der Präsident den Stichentscheid.
 
 <sup>3</sup> Beschlüsse können auch auf dem Zirkulationsweg gefasst werden.
 
@@ -100,9 +100,9 @@ beschliesst:
 
 **Qualitätsmanagement**
 
-<sup>1</sup> Die BFGS und HFGS gewährleisten ein angemessenes Qualitätsmanagement.
+<sup>1</sup> Die Schulleitungen der BFGS und HFGS gewährleisten ein angemessenes Qualitätsmanagement mit Qualitätssicherung und -entwicklung.
 
-<sup>2</sup> Die Verantwortung für die Qualitätssicherung und Qualitätsentwicklung obliegt der Schulleitung.
+<sup>2</sup> …
 
 #### § 8
 
@@ -134,9 +134,9 @@ beschliesst:
 
 #### § 10a
 
-**Urlaubswesen**
+**Schulordnung**
 
-<sup>1</sup> Die Schulleitung regelt das Urlaubswesen.
+<sup>1</sup> Die Schulleitung regelt das Verhalten auf dem Schulareal und im Schulbetrieb sowie das Absenzen- und Urlaubswesen in einer Schulordnung.
 
 ## 3. Höhere Fachschule Gesundheit und Soziales (HFGS)
 
