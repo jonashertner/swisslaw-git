@@ -3,20 +3,19 @@ canton: GL
 number: IV C/1/3
 title: Reglement über die Weiterbildung der Lehrpersonen
 language: de
-version: 2011-08-01
-valid_until: 2026-07-31
-version_adopted: 2011-01-26
+version: 2026-08-01
+version_adopted: 2026-06-24
 adopted: 2011-01-26
 in_force: 2011-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-C.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/775/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Weiterbildung der Lehrpersonen
 
-Vom 26.01.2011 (Stand 01.08.2011)
+Vom 26.01.2011 (Stand 01.08.2026)
 
 Das Departement,
 
@@ -56,7 +55,7 @@ regelt:
 
 <sup>1</sup> Für die Weiterbildung ausserhalb des kantonalen Grundangebots sind gemäss Artikel 72 Absatz 3 des Bildungsgesetzes die Gemeinden zuständig.
 
-<sup>2</sup> Für die Lehrpersonen der Sonderschulen und der Sportschule sind die entsprechenden Aufsichtsinstanzen zuständig.
+<sup>2</sup> Für die Lehrpersonen der Sonderschulen und der Sportschule sind die entsprechenden Schulleitungen zuständig.
 
 #### Art. 5
 
