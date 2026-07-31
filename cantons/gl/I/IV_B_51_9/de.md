@@ -4,13 +4,12 @@ number: IV B/51/9
 title: Schulordnung Bildungszentrum Gesundheit und Soziales
 short: "Schulordnung BZGS, SOBZGS"
 language: de
-version: 2022-08-01
-valid_until: 2026-07-31
-version_adopted: 2022-05-30
+version: 2026-08-01
+version_adopted: 2026-05-18
 adopted: 2022-05-30
 in_force: 2022-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.51.9"
-pdf: "https://gesetze.gl.ch/api/de/versions/2646/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2647/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2646/pdf_file"
 
 (Schulordnung BZGS, SOBZGS)
 
-Vom 30.05.2022 (Stand 01.08.2022)
+Vom 30.05.2022 (Stand 01.08.2026)
 
 Die Aufsichtskommission,
 
-gestützt auf Artikel 8 der Schulorganisationsverordnung[^ingress-1] und Artikel 3 Absatz 1 der Bildungsangebotsverordnung (BAV)[^ingress-2],
+gestützt auf Artikel 8 und 12 der Schulorganisationsverordnung[^ingress-1] sowie Artikel 2 der Bildungsangebotsverordnung (BAV)[^ingress-2],
 
 erlässt:
 
@@ -46,7 +45,7 @@ erlässt:
 
 **Konvent der Lehrpersonen**
 
-<sup>1</sup> Mindestens einmal im Jahr findet ein Konvent aller Lehrpersonen statt.
+<sup>1</sup> Mindestens einmal im Jahr findet auf Einladung der Schulleitung hin ein Konvent aller Lehrpersonen statt.
 
 <sup>2</sup> Die Schulleitung kann die weiteren Mitarbeitenden oder eine Vertretung der Lernenden zum Konvent einladen. Ihnen kommt beratende Stimme zu.
 
@@ -62,11 +61,13 @@ erlässt:
 
 **Disziplinarrecht**
 
-<sup>1</sup> Die Schulleitung erlässt Verhaltensregeln für die Lernenden bezüglich Absenzen, Disziplin und dem in betrieblichen Belangen geforderten Verhalten.
+<sup>1</sup> Die Schulleitung erlässt für Studierende und Lernende, die schuldhaft zu Beanstandungen Anlass geben, eine Disziplinarordnung, worin unter anderem das Absenzenwesen sowie die weitergehenden Massnahmen nach Artikel 45 Absatz 2 des Bildungsgesetzes[^4-1], wie Arbeit im Dienst der Schule, vorübergehender Ausschluss vom Unterricht und ähnliche Massnahmen, geregelt sind.
 
-<sup>2</sup> Für Lernende in Bildungsgängen der dualen Berufsbildung kann die Schulleitung für disziplinarische Verstösse, namentlich für unentschuldigte Absenzen, Bussen vorsehen. Die Bussen betragen maximal 100 Franken pro Fall.
+<sup>2</sup> Für Lernende in Bildungsgängen der dualen Berufsbildung kann die Schulleitung für disziplinarische Verstösse, namentlich für unentschuldigte Absenzen, Bussen gemäss Artikel 12 der Schulorganisationsverordnung vorsehen. Die Bussen betragen maximal 100 Franken pro Fall. Die weiteren Details regelt die Schulleitung in der Disziplinarordnung.
 
 <sup>3</sup> Die Disziplinarordnung untersteht der Genehmigung durch die Aufsichtskommission.
+
+[^4-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
 
 #### Art. 5
 
@@ -80,15 +81,13 @@ erlässt:
 
 #### Art. 6
 
-**Erstattung der Kosten für Material und Lehrmittel**
+**Kostenbeteiligung gemäss Artikel 11 des Bildungsgesetzes**
 
-<sup>1</sup> Für Fotokopien, Schulmaterial und digitalen Support wird den Lernenden jährlich eine von der Schulleitung festgelegte kostendeckende Pauschale in Rechnung gestellt.
+<sup>1</sup> Die Schulleitung ist die zuständige Behörde im Sinne von Artikel 11 Absätze 3 und 4 des Bildungsgesetzes.
 
-<sup>2</sup> Die Kosten für die Lehrmittel werden den Lernenden nach Aufwand in Rechnung gestellt.
+<sup>2</sup> Die Erstattung der Kosten nach Artikel 11 Absatz 3 des Bildungsgesetzes für die Studierenden und Lernenden kann nach Aufwand oder durch eine Pauschale erfolgen, welche die Schulleitung festlegt.
 
-<sup>3</sup> Die Schulleitung entscheidet über Härtefälle gemäss Artikel 11 Absatz 4 des Bildungsgesetzes[^6-1].
-
-[^6-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
+<sup>3</sup> …
 
 ## 3. Bildungsgänge der beruflichen Grundbildung
 
