@@ -4,13 +4,13 @@ number: "411.211"
 title: Verordnung über die Anstellung und Löhne der Lehrpersonen
 short: VALL
 language: de
-version: 2024-12-01
-valid_until: 2026-07-31
-version_adopted: 2024-11-13
+version: 2026-08-01
+valid_until: 2027-02-28
+version_adopted: 2026-02-18
 adopted: 2004-10-13
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3679/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3959/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3679/pdf_file"
 
 (VALL)
 
-Vom 13.10.2004 (Stand 01.12.2024)
+Vom 13.10.2004 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 3 Abs. 3, 4 Abs. 1, 6, 17 Abs. 2, 24 Abs. 2, 26 Abs. 3, 28 Abs. 2, 30 Abs. 3, 33 Abs. 3, 39 Abs. 3 und 44 Abs. 2 des Gesetzes über die Anstellung von Lehrpersonen (GAL) vom 17. Dezember 2002[^ingress-1], die §§ 6 Abs. 6, 9 Abs. 2, 10, 15 Abs. 2, 16 Abs. 3, 23 Abs. 1 und 2, 31, 43 sowie Anhang IV Ziffer 1 Abs. 2 des Dekrets über die Löhne der Lehrpersonen (Lohndekret Lehrpersonen, LDLP) vom 24. August 2004[^ingress-2] und auf § 5 Abs. 1 des Organisationsgesetzes (Gesetz über die Organisation des Regierungsrates und der kantonalen Verwaltung) vom 26. März 1985[^ingress-3],
+gestützt auf die §§ 3 Abs. 3, 4 Abs. 1, 6, 6b Abs. 4, 8 Abs. 1<sup>bis</sup>, 17 Abs. 2, 24 Abs. 2, 26 Abs. 3, 28 Abs. 2, 30 Abs. 3, 33 Abs. 3, 39 Abs. 3 und 44 Abs. 2 des Gesetzes über die Anstellung von Lehrpersonen (GAL) vom 17. Dezember 2002[^ingress-1], die §§ 6 Abs. 6, 9 Abs. 2, 10, 15 Abs. 2, 16 Abs. 3, 23 Abs. 1 und 2, 31, 43 sowie Anhang IV Ziffer 1 Abs. 2 des Dekrets über die Löhne der Lehrpersonen (Lohndekret Lehrpersonen, LDLP) vom 24. August 2004[^ingress-2] und auf § 5 Abs. 1 des Organisationsgesetzes (Gesetz über die Organisation des Regierungsrates und der kantonalen Verwaltung) vom 26. März 1985[^ingress-3],
 
 beschliesst:
 
@@ -47,41 +47,21 @@ beschliesst:
 
 #### § 1a
 
-**Datenschutz**
+**…**
 
-<sup>1</sup> Der Kanton führt eine elektronische Datenbank
+#### § 1b
 
-- a) zur Administration der Anstellung und der Löhne der Personen im Geltungsbereich dieser Verordnung;
-- b) zur Erfassung von Abwesenheiten und Stellvertretungen;
-- c) zur Bewirtschaftung und zum Controlling der personellen Ressourcen der Schulen.
+**Datenbearbeitungs- und Informationssysteme**
 
-<sup>2</sup> Das Departement Bildung, Kultur und Sport macht den Schulleitungen und Schulsekretariaten der öffentlichen Schulen die dafür erforderlichen Personendaten und Ressourcendaten in einem Abrufverfahren zugänglich.
+<sup>1</sup> Zugriff auf die Datenbearbeitungs- und Informationssysteme gemäss § 6a GAL haben
 
-<sup>3</sup> Das Abrufverfahren ermöglicht den berechtigten Stellen und Personen Zugang zu folgenden Personendaten:
+- a) die Schulleitungen,
+- b) die Schulverwaltungen,
+- c) die für die Bewirtschaftung der Anstellungen und Löhne verantwortlichen Stellen im BKS und im Departement Finanzen und Ressourcen (DFR),
+- d) die für die Ressourcierung der Volksschule verantwortlichen Stellen im BKS,
+- e) die für das Controlling verantwortlichen Stellen im BKS.
 
-- 1\. Personalnummer;
-- 2\. Name und Vorname;
-- 3\. Geschlecht;
-- 4\. Geburtsdatum;
-- 5\. Telefonnummern und Mailadresse;
-- 6\. Steuerrechtlicher Wohnsitz;
-- 7\. Sozialversicherungsnummer;
-- 8\. Nationalität;
-- 9\. Ausländerstatus;
-- 10\. Konfession;
-- 11\. Zivilstand und Datum der Änderung;
-- 12\. Vorname, Name, Geburtsdatum, Nationalität und Berufstätigkeit des Ehepartners beziehungsweise des eingetragenen Partners;
-- 13\. Vornamen, Namen, Geschlecht und Nationalität der Kinder;
-- 14\. Funktion, Schulstufe und Schultyp;
-- 15\. Beschäftigungsgrad und Unterrichtspensum;
-- 16\. Lohn, Lohnzuschläge und Lohnabzüge;
-- 17\. Postkonto oder Bankverbindung;
-- 18\. Rentenbezüge Pensionskasse und/oder Invalidenversicherung;
-- 19\. Abwesenheiten, Abwesenheitsgrund (Krankheit, Unfall oder Urlaub) und Stellvertretung;
-- 20\. Belege zur Abwesenheit (Dauer und Grad einer allfälligen Arbeitsunfähigkeit);
-- 21\. Anstellungsbehörde und Arbeitsort;
-- 22\. Lehrdiplome;
-- 23\. übrige berufliche Tätigkeit, die vom Kanton Aargau besoldet wurde.
+<sup>2</sup> Das BKS legt die Zugriffsberechtigungen in einem Rollenkonzept fest und trifft die für die Gewährleistung der Datensicherheit notwendigen technischen und organisatorischen Massnahmen.
 
 #### § 2
 
@@ -126,7 +106,7 @@ beschliesst:
 
 #### § 6
 
-**Anstellungsbehörden a) Departement Bildung, Kultur und Sport; Schulleitungen kantonaler Schulen**
+**Kantonale Anstellungsbehörden**
 
 <sup>1</sup> Das Departement Bildung, Kultur und Sport stellt die Mitglieder der Schulleitung der kantonalen Schulen an.
 
@@ -655,77 +635,11 @@ beschliesst:
 
 #### § 52
 
-**Aufhebung geltenden Rechts**
-
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden die Vollziehungsverordnung zum Dekret über das Dienstverhältnis und die Besoldung der Lehrer an öffentlichen Schulen (Vollziehungsverordnung zum Lehrerbesoldungsdekret) vom 17. Dezember 1971[^52-1] und die Verordnung über das Verfahren zur Besetzung der Lehrstellen und zur Wahl der Lehrer an der Volksschule (Lehrerwahlverordnung) vom 14. September 1987[^52-2] aufgehoben.
-
-[^52-1]: AGS Bd. 7 S. 769; Bd. 11 S. 63; Bd. 12 S. 171; Bd. 13 S. 43, 169
-[^52-2]: AGS Bd. 12 S. 257; Bd. 13 S. 571; Bd. 14 S. 43; 1997 S. 142, 241
+**…**
 
 #### § 53
 
-**Änderung geltenden Rechts**
-
-<sup>1</sup> Die Verordnung zum Einreihungsplan vom 25. Oktober 2000[^53-1] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>2</sup> Die Verordnung über die Staatsbeiträge an das Volksschulwesen vom 6. November 1978[^53-2] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>3</sup> Die Verordnung über die psychologischen und ärztlichen Schuldienste vom 25. April 1988[^53-3] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>4</sup> Die Verordnung über den Urlaub von Lehrkräften an öffentlichen Schulen (Urlaubsverordnung) vom 12. Mai 1975[^53-4] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>5</sup> Die Verordnung über die Volksschule vom 29. April 1985[^53-5] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>6</sup> Die Verordnung über den Vollzug der Berufsbildungsgesetzgebung (Berufsbildungsverordnung) vom 23. Dezember 1985[^53-6] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>7</sup> Die Verordnung über die Organisation der Kantonalen Schule für Berufsbildung in Aarau vom 28. September 1981[^53-7] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt*.
-
-<sup>8</sup> Die Verordnung über die Schweizerischen Bauschule Aarau (SBA) vom 12. September 2000[^53-8] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>9</sup> Die Verordnung über die Mittelschulen (Mittelschulverordnung) vom 28. Juni 1995[^53-9] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>10</sup> Die Verordnung über die Sonderschulung vom 2. Mai 1988[^53-10] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>11</sup> Die Verordnung über die Verteilung der Kosten von Sonderschulung und Heimaufenthalt vom 2. Dezember 1985[^53-11] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-<sup>12</sup> Die Verordnung über die Aargauische Maturitätsschule für Erwachsene vom 9. September 1991[^53-12] wird wie folgt geändert:
-
-*Text im betreffenden Erlass eingefügt.*
-
-[^53-1]: AGS 2000 S. 282; 2001 S. 39, 242; 2002 S. 185; 2003 S. 33, 127, 311; 2004 S. 42 (SAR [165.131](https://gesetzessammlungen.ag.ch/data/165.131/de))
-[^53-2]: AGS Bd. 9 S. 627; aufgehoben (AGS 2006 S. 215)
-[^53-3]: AGS Bd. 12 S. 587; Bd. 13 S. 53, 281; Bd. 14 S. 125, 657 1995 S. 51; 1997 S. 387; 2003 S. 247, 325 (SAR [405.111](https://gesetzessammlungen.ag.ch/data/405.111/de))
-[^53-4]: AGS Bd. 9 S. 105; aufgehoben (AGS 2006 S. 268)
-[^53-5]: AGS Bd. 11 S. 489, 577; Bd. 12 S. 101; Bd. 13 S. 9, 135, 529; Bd. 14 S. 101; 1996 S. 119; 1998 S. 181; 2000 S. 81; 2002 S. 188, 422; 2003 S. 251; 2004 S. 68 (SAR [421.311](https://gesetzessammlungen.ag.ch/data/421.311/de))
-[^53-6]: AGS Bd. 11 S. 625; aufgehoben (AGS 2007 S. 420)
-[^53-7]: AGS Bd. 10 S. 436; aufgehoben (AGS 2004 S. 317)
-[^53-8]: AGS 2000 S. 123; aufgehoben (AGS 2007 S. 420)
-[^53-9]: AGS 1995 S. 77; 1996 S. 46; 1999 S. 132; 2000 S. 98; 2001 S. 26; 2002 S. 99, 151, 171; 2003 S. 25, 77; 253; 2004 S. 73, 91 (SAR [423.111](https://gesetzessammlungen.ag.ch/data/423.111/de))
-[^53-10]: AGS Bd. 12 S. 605; aufgehoben (AGS 2006 S. 231)
-[^53-11]: AGS Bd. 11 S. 609; aufgehoben (AGS 2006 S. 216)
-[^53-12]: AGS Bd. 13 S. 600; Bd. 14 S. 696; 1996 S. 385; 1998 S. 47; 2001 S. 109; 2003 S. 78 (SAR [453.111](https://gesetzessammlungen.ag.ch/data/453.111/de))
+**…**
 
 #### § 54
 
