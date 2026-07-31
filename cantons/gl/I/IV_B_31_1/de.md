@@ -4,13 +4,12 @@ number: IV B/31/1
 title: Verordnung über die Volksschule
 short: "Volksschulverordnung, VSV"
 language: de
-version: 2023-01-01
-valid_until: 2026-07-31
-version_adopted: 2022-12-07
+version: 2026-08-01
+version_adopted: 2026-02-25
 adopted: 2009-12-23
 in_force: 2011-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.31.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2392/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2631/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,13 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2392/pdf_file"
 
 (Volksschulverordnung, VSV)
 
-Vom 23.12.2009 (Stand 01.01.2023)
+Vom 23.12.2009 (Stand 01.08.2026)
 
 Der Landrat,
 
-gestützt auf die Artikel 25, 43, 104, 105, 105a und 115 des Gesetzes vom 6. Mai 2001 über Schule und Bildung (Bildungsgesetz)[^ingress-1],
+gestützt auf das Bildungsgesetz[^ingress-1],
 
-verordnet:
+erlässt:
 
 [^ingress-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
 
@@ -61,13 +60,17 @@ verordnet:
 
 #### Art. 5
 
-**Wöchentliche Unterrichtszeit der Lehrpersonen**
+**…**
 
-<sup>1</sup> Die wöchentliche Unterrichtszeit der Lehrpersonen beträgt 30 Lektionen und setzt sich aus Unterrichts- und Präsenzlektionen zusammen. Sie teilt sich grundsätzlich in 28 Unterrichts- und zwei Präsenzlektionen auf. Das weitere regelt die Gemeinde im Rahmen des Berufsauftrages sowie ihrer Schulorganisation.
+#### Art. 5a
 
-<sup>2</sup> Die Präsenzlektionen, welche im Stundenplan einzutragen sind, dienen insbesondere der Teamarbeit und Gesprächen mit den Erziehungsberechtigten.
+**Altersentlastung**
 
-<sup>3</sup> Lehrpersonen mit einem Vollpensum können auf Anordnung der Schulleitung vorübergehend maximal vier weitere Unterrichtslektionen übernehmen. Die Mehrbelastung ist später zu kompensieren und nur im Ausnahmefall abzugelten.
+<sup>1</sup> Lehrpersonen haben bei gleicher Besoldung nach erfülltem 55. Altersjahr Anspruch auf zwei Lektionen Entlastung je Woche und nach erfülltem 60. Altersjahr auf drei Lektionen je Woche, wenn ihr Pensum mindestens zwei Drittel eines Vollzeitpensums umfasst.
+
+<sup>2</sup> Bei einem Pensum von mindestens einem Drittel des Vollzeitpensums wird nach erfülltem 60. Altersjahr mit einer Lektion entlastet.
+
+<sup>3</sup> Lehrpersonen, die im Genusse der Altersentlastung stehen, sollen keine Überstunden leisten. Die Entlastungslektionen sollen bezogen und nicht ausbezahlt werden.
 
 #### Art. 6
 
@@ -75,23 +78,14 @@ verordnet:
 
 <sup>1</sup> Die Klassengrösse beträgt auf den folgenden Stufen
 
-- a. im Kindergarten: minimal 16, maximal 24
-- a1. Basisstufe: minimal 20, maximal 26
-- b. auf der Primarstufe
-  - 1\. 1-klassige Abteilungen: minimal 16, maximal 24
-  - 2\. 2-klassige Abteilungen: minimal 16, maximal 22
-  - 3\. mehr als 2-klassige Abteilungen: Beurteilung im Einzelfall
-  - 4\. Einführungsklassen: minimal 8, maximal 14
-  - 5\. Kleinklassen: minimal 8, maximal 14
-- c. auf der Sekundarstufe I
-  - 1\. Kleinklassen: minimal 8, maximal 14
-  - 2\. Oberschule: minimal 12, maximal 16
-  - 3\. Realschule: minimal 16, maximal 22
-  - 4\. Sekundarschule: minimal 16, maximal 24
+- a. im Kindergarten: maximal 22
+- a1. Basisstufe: maximal 26
+- b. auf der Primarstufe: maximal 22; bei Einführungs- und Kleinklassen maximal 14
+- c. auf der Sekundarstufe I: maximal 22; bei Klein- und Oberschulklassen maximal 14
 
 <sup>2</sup> Wird eine Klasse durch integrativen Unterricht besonders belastet, ist die maximale Klassengrösse angemessen zu reduzieren.
 
-<sup>3</sup> Müssen die minimalen oder maximalen Klassengrössen aus unausweichlichen, betrieblichen Gründen unter- oder überschritten werden, so sind die für eine Klasse eingesetzten Pensen angemessen anzupassen.
+<sup>3</sup> Müssen die maximalen Klassengrössen aus unausweichlichen, betrieblichen Gründen überschritten werden, so sind die für eine Klasse eingesetzten Pensen angemessen anzupassen.
 
 <sup>4</sup> Für den Unterricht in Halbklassen ist die Klassengrösse dem Fach und den betrieblichen Bedingungen angemessen anzupassen.
 
@@ -101,11 +95,11 @@ verordnet:
 
 <sup>1</sup> Werden Kinder schulpflichtig, so treten sie grundsätzlich in den Kindergarten ein.
 
-<sup>2</sup> Die Schulkommission kann über den Zeitpunkt des Eintritts abweichend entscheiden, wenn der Entwicklungsstand des Kindes dies erfordert.
+<sup>2</sup> Die Hauptschulleitung kann über den Zeitpunkt des Eintritts abweichend entscheiden, wenn der Entwicklungsstand des Kindes dies erfordert.
 
-<sup>3</sup> Ein Gesuch der Erziehungsberechtigten im Sinne von Artikel 43 Absatz 2 Bildungsgesetz ist bei der Schulleitung einzureichen. Diese veranlasst allenfalls nötige Abklärungen und stellt der Schulkommission sodann Antrag.
+<sup>3</sup> Ein Gesuch der Erziehungsberechtigten im Sinne von Artikel 43 Absatz 2 Bildungsgesetz ist bei der Hauptschulleitung einzureichen. Diese veranlasst allenfalls nötige Abklärungen.
 
-<sup>4</sup> Falls die geografischen Verhältnisse dies erfordern, kann die Schulkommission Kinder auf Gesuch der Erziehungsberechtigten vom ersten Jahr der Schulpflicht ganz oder teilweise dispensieren.
+<sup>4</sup> Falls die geografischen Verhältnisse dies erfordern, kann die Hauptschulleitung Kinder auf Gesuch der Erziehungsberechtigten vom ersten Jahr der Schulpflicht ganz oder teilweise dispensieren.
 
 #### Art. 7a
 
@@ -278,11 +272,11 @@ verordnet:
 
 **Rechtsschutz**
 
-<sup>1</sup> Bei Streitigkeiten aus dem Schulverhältnis, an denen private Schulen mit öffentlichem Auftrag beteiligt sind, kann das Departement angerufen werden, welches darüber einen Entscheid trifft.
+<sup>1</sup> Bei Streitigkeiten aus dem Schulverhältnis und aus dem Anstellungsverhältnis der Lehrpersonen, an denen Privatschulen mit öffentlicher Aufgabenerfüllung beteiligt sind, kann nach Ausschöpfung des internen Instanzenzugs beim Departement Beschwerde erhoben werden.
 
-<sup>2</sup> Bei Streitigkeiten aus dem Schulverhältnis und aus dem Anstellungsverhältnis von Lehrpersonen, an denen als öffentliche Schulen anerkannte Einrichtungen mit privater Trägerschaft beteiligt sind, entscheidet die oberste Schulinstanz als kantonale Schulbehörde im Sinne von Artikel 114 Absatz 3 des Bildungsgesetzes.
+<sup>2</sup> …
 
-<sup>3</sup> Um Übrigen richtet sich der Rechtsschutz gegen Entscheide gestützt auf diese Verordnung nach Artikel 114 des Bildungsgesetzes.
+<sup>3</sup> Im Übrigen richtet sich der Rechtsschutz gegen Entscheide gestützt auf diese Verordnung nach Artikel 114 des Bildungsgesetzes.
 
 #### Art. 26
 
