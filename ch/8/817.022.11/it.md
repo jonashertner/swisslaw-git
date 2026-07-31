@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sull'acqua potabile e sull'acqua 
 short: OPPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/153"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-153-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2017-153-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20260101/it"
 
 (OPPD)
 
-del 16 dicembre 2016 (Stato 1° gennaio 2026)
+del 16 dicembre 2016 (Stato 1° agosto 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -211,6 +211,18 @@ Gli impianti di trattamento delle acque e gli impianti per docce devono essere a
 
 <sup>2</sup> Se i requisiti microbiologici per l’acqua di impianti per balneazione e per docce possono essere rispettati solo con un risanamento edile, questo deve essere realizzato entro il 30 aprile 2027. In tal caso i presenti requisiti non si applicano in questo periodo; tutte le altre misure previste dalla presente ordinanza devono invece essere prese al fine di garantire la protezione della salute.
 
+#### Art. 16a
+
+**Disposizione transitoria della modifica del 19 giugno 2026**[^16a-1]
+
+<sup>1</sup> L’acqua potabile che supera i valori massimi per i parametri acidi aloacetici (HAA5) o microcistina-LR può essere fornita al consumatore fino al 31 luglio 2027 secondo il diritto anteriore.
+
+<sup>2</sup> L’acqua potabile che ha un contenuto di piombo da 5 a 10 µg/l può essere fornita al consumatore fino al 31 gennaio 2036 secondo il diritto anteriore.
+
+<sup>3</sup> L’acqua potabile che supera il valore massimo di melamina può essere fornita al consumatore fino al 31 luglio 2029 secondo il diritto anteriore.
+
+[^16a-1]: Introdotto dalla cifra I dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 369](https://fedlex.data.admin.ch/eli/oc/2026/369)).
+
 #### Art. 17
 
 **Entrata in vigore**
@@ -254,75 +266,136 @@ Allegato 2[^t-2]
 
 ## Requisiti chimici concernenti l’acqua potabile
 
-[^t-2]: Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214), [1755](https://fedlex.data.admin.ch/eli/oc/2018/259)), dalla cifra II dell’O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-2]: Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214), [1755](https://fedlex.data.admin.ch/eli/oc/2018/259)), dalla cifra II dell’O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)), dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)) e dalla cifra II dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 369](https://fedlex.data.admin.ch/eli/oc/2026/369)).
+
+### 1 Elenco dei valori massimi per l’acqua potabile
 
 <table>
-<tr><th>Parametri</th><th colspan="2">Valori massimi</th><th colspan="2">Unità</th><th>Note</th></tr>
-<tr><td>Acido etilendiamminotetraacetico (EDTA)</td><td colspan="2">0,2</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Acido nitrilotriacetico (NTA)</td><td colspan="2">0,2</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Acrilammide</td><td colspan="2">0,1</td><td colspan="2">µg/l</td><td>Il valore parametrico si riferisce alla concentrazione residua di monomeri nell’acqua, calcolata in base alle specifiche della migrazione massima del polimero corrispondente a contatto con l’acqua.</td></tr>
-<tr><td>Alluminio</td><td colspan="2">0,2</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Ammonio</td><td colspan="2">0,5</td><td colspan="2">mg/l</td><td>Per acqua potabile di tipo ridotto; calcolato in NH<sub>4</sub><sup>+</sup>.</td></tr>
-<tr><td>Ammonio</td><td colspan="2">0,1</td><td colspan="2">mg/l</td><td>Per acqua potabile di tipo ossidato; calcolato in NH<sub>4</sub><sup>+</sup>.</td></tr>
-<tr><td>Antimonio</td><td colspan="2">5</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Argento</td><td colspan="2">0,1</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Arsenico</td><td colspan="2">10</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Benzene</td><td colspan="2">1</td><td colspan="2">µg/l</td><td>V. anche BTEX</td></tr>
-<tr><td>Benzo(a)pirene</td><td colspan="2">0,01</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Bisfenolo A</td><td colspan="2">2,5</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Boro</td><td colspan="2">1</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Bromato</td><td colspan="2">10</td><td colspan="2">µg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
-<tr><td>BTEX</td><td colspan="2">3</td><td colspan="2">µg/l</td><td>Somma di benzene, metilbenzene, etilbenzene e dimetilbenzene.</td></tr>
-<tr><td>Cadmio</td><td colspan="2">3</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Cianuri<sup>-</sup></td><td colspan="2">50</td><td colspan="2">µg/l</td><td>Cianuro totale in tutte le sue forme, calcolato in cianuro.</td></tr>
-<tr><td>Cianuro</td><td colspan="2">50</td><td colspan="2">µg/l</td><td>Cianuro totale in tutte le sue forme, calcolato in cianuro.</td></tr>
-<tr><td>Clorato</td><td colspan="2">0,2</td><td colspan="2">mg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
-<tr><td>Clorite</td><td colspan="2">0,2</td><td colspan="2">mg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
-<tr><td>Clorito</td><td colspan="2">0,2</td><td colspan="2">mg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
-<tr><td>Cloro (libero)</td><td colspan="2">0,1</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Cloroetene (cloruro di vinile)</td><td colspan="2">0,5</td><td colspan="2">µg/l</td><td>Il valore parametrico si riferisce alla concentrazione residua di monomeri nell’acqua, calcolata in base alle specifiche della migrazione massima del polimero corrispondente a contatto con l’acqua.</td></tr>
-<tr><td>Clorometilossirano (epicloridrina)</td><td colspan="2">0,1</td><td colspan="2">µg/l</td><td>Il valore parametrico si riferisce alla concentrazione residua di monomeri nell’acqua, calcolata in base alle specifiche della migrazione massima del polimero corrispondente a contatto con l’acqua.</td></tr>
-<tr><td>Composto chimico organico di tossicità ignota ma dalla struttura chimica nota, senza caratteristiche strutturali tali da suggerire una potenziale genotossicità</td><td colspan="2">10</td><td colspan="2">µg/l</td><td>Applicabile a tutti i composti organici per i quali non sono disponibili dati sulla tossicità sufficienti e che sono classificati in una delle seguenti quattro categorie: sostanze senza potenziale genotossicità ad alta, media o bassa tossicità (classi strutturali Cramer I, II e III) e organofosfati. Sono esclusi i metalli non essenziali e i composti contenenti metalli, le diossine e i composti analoghi, gli steroidi e le proteine.</td></tr>
-<tr><td>Composto chimico organico di tossicità ignota ma dalla struttura chimica nota, con caratteristiche strutturali tali da suggerire una potenziale genotossicità</td><td colspan="2">0,1</td><td colspan="2">µg/l</td><td>Applicabile a tutti i composti organici per i quali non sono disponibili dati sulla tossicità sufficienti e che sono classificati nella categoria «sostanze con potenziale genotossicità». Sono esclusi i composti analoghi alle aflatossine, gli azossicomposti e i composti N-nitrosi. Sono esclusi anche i metalli non essenziali e i composti contenenti metalli, le diossine e i composti analoghi, gli steroidi e le proteine.</td></tr>
-<tr><td>Cromo</td><td colspan="2">50</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Cromo (VI)</td><td colspan="2">20</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Dicloroetano, 1,2-</td><td colspan="2">3</td><td colspan="2">µg/l</td><td>V. anche «Idrocarburi alogenati volatili»</td></tr>
-<tr><td>Diclorometano</td><td colspan="2">20</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Diossano, 1,4-</td><td colspan="2">6</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Diossido di cloro</td><td colspan="2">0,05</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>ETBE + MTBE</td><td colspan="2">5</td><td colspan="2">µg/l</td><td>Somma di 2-metossi-2-metilpropano e 2-etossi-2-metilpropano. Applicabile alla rete di distribuzione (salvo gli impianti domestici).</td></tr>
-<tr><td>Ferro</td><td colspan="2">0,2</td><td colspan="2">mg/l</td><td>Totale</td></tr>
-<tr><td>Fluoruro</td><td colspan="2">1,5</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Fosfato</td><td colspan="2">1</td><td colspan="2">mg/l</td><td>Unicamente per l’acqua calda, calcolato in fosforo.</td></tr>
-<tr><td>Idrocarburi alogenati volatili: quantità totale di tutte le sostanze alogenate la cui struttura fondamentale è composta da un minimo di 1–3 atomi di carbonio e nessun altro gruppo funzionale</td><td colspan="2">10</td><td colspan="2">µg/l</td><td>Provenienti dalla contaminazione dell’ambiente, senza diclorometano e trialometani.</td></tr>
-<tr><td>Idrocarburi aromatici policiclici</td><td colspan="2">0,1</td><td colspan="2">µg/l</td><td>Somma di benzo[b]fluorantene, benzo[k]fluorantene, benzo[ghi]perilene, indeno[1,2,3-cd]pirene</td></tr>
-<tr><td>Indice di idrocarburi C<sub>10</sub>–C<sub>40</sub></td><td colspan="2">20</td><td colspan="2">µg/l</td><td>Determinazione con un metodo analogo al metodo ISO 9377-2, ma con un limite di quantificazione più basso.</td></tr>
-<tr><td>Manganese</td><td colspan="2">50</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Mercurio</td><td colspan="2">1</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Nichel</td><td colspan="2">20</td><td colspan="2">µg/l</td><td>Per le analisi dagli impianti domestici vengono prelevati campioni da un litro senza aver fatto scorrere l’acqua.</td></tr>
-<tr><td>Nitrato</td><td colspan="2">40</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Nitrito</td><td colspan="2">0,1</td><td colspan="2">mg/l</td><td></td></tr>
-<tr><td>Ozono</td><td colspan="2">50</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Perclorato</td><td colspan="2">4</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Perfluoroesano sulfonato (PFHxS)</td><td colspan="2">0,3</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Perfluoroottanoato (PFOA)</td><td colspan="2">0,5</td><td colspan="2">µg/l</td><td></td></tr>
-<tr><td>Perfluorottano sulfonato (PFOS)</td><td colspan="3">0,3</td><td>µg/l</td><td></td></tr>
-<tr><td>Pesticidi</td><td colspan="3">0,1</td><td>µg/l</td><td>Per «pesticidi» si intendono le sostanze attive definite all’articolo 2 capoverso 1 lettera a dell’ordinanza del DFI del 16 dicembre 2016[^annex2-lvlu1-1] concernente i livelli massimi di residui di antiparassitari nei o sui prodotti di origine vegetale e animale (OAOVA), nonché i metaboliti rilevanti per l’acqua potabile. Il valore massimo si applica a ogni singolo pesticida. Per quanto riguarda l’aldrina, la dieldrina, l’eptacloro e l’eptacloreposside, il valore massimo è di 0,030 µg/l.</td></tr>
-<tr><td>Pesticidi (totale)</td><td colspan="3">0,5</td><td>µg/l</td><td>Per «pesticidi» si intendono le sostanze attive definite all’articolo 2 capoverso 1 OAOVA, nonché i metaboliti rilevanti per l’acqua potabile. Per «Pesticidi (totale)» si intende l’insieme di tutti i pesticidi rilevati e quantificati nel quadro della procedura di controllo.</td></tr>
-<tr><td>Piombo</td><td colspan="3">10</td><td>µg/l</td><td>Per le analisi dagli impianti domestici vengono prelevati campioni da un litro senza aver fatto scorrere l’acqua.</td></tr>
-<tr><td colspan="2">Rame</td><td>1</td><td colspan="2">mg/l</td><td>Per le analisi dagli impianti domestici vengono prelevati campioni da un litro senza aver fatto scorrere l’acqua.</td></tr>
-<tr><td>Selenio</td><td colspan="3">10</td><td>µg/l</td><td></td></tr>
-<tr><td>Sodio</td><td colspan="3">200</td><td>mg/l</td><td></td></tr>
-<tr><td>Sostanze di cui agli allegati 2, 9 e 13 dell’ordinanza del 16 dicembre 2016[^annex2-lvlu1-2] sui materiali e gli oggetti</td><td colspan="3">LMS/20</td><td>mg/l</td><td>Le concentrazioni delle sostanze per la fabbricazione di materiali e oggetti in plastica e silicone nonché delle sostanze provenienti da vernici e rivestimenti non devono superare i valori limite di migrazione specifica (LMS) indicati negli allegati 2, 9 e 13 dell’ordinanza del DFI sui materiali e gli oggetti divisi per 20 (LMS<sub>acqua</sub>=LMS/20), e in ogni caso non devono superare i 0,5 mg/l espressi come carbonio organico totale (v. all. 3, carbonio organico totale). Tale valore (0,5 mg/l) si applica anche alle sostanze per le quali gli allegati 2, 9 e 13 dell’ordinanza sui materiali e gli oggetti non prevedono valori limite di migrazione specifica.</td></tr>
-<tr><td>Tetra- e tricloroetilene</td><td colspan="3">10</td><td>µg/l</td><td>Totale delle concentrazioni dei parametri specificati.</td></tr>
-<tr><td>Tetraclorometano</td><td colspan="3">2</td><td>µg/l</td><td></td></tr>
-<tr><td>Trialometani (totale) THM</td><td colspan="3">50</td><td>µg/l</td><td>Somma di cloroformio, bromoformio, dibromoclorometano e bromodiclorometano. Se al termine del trattamento la concentrazione di THM non è superiore a 10 μg/l, non è necessaria un’analisi dell’acqua potabile nella rete di distribuzione.</td></tr>
-<tr><td>Uranio</td><td colspan="3">30</td><td>µg/l</td><td></td></tr>
-<tr><td>Zinco</td><td colspan="3">5</td><td>mg/l</td><td></td></tr>
+<tr><th>Parametri</th><th>Valori massimi</th><th colspan="2">Unità</th><th>Note</th></tr>
+<tr><td>Acidi aloacetici (HAA5)</td><td>60</td><td colspan="2">µg/l</td><td>Proveniente dal trattamento dell’acqua potabile. Questo parametro è la somma delle seguenti cinque sostanze: acido monocloro-, dicloro-, e tricloro-acetico, acido mono- e dibromo-acetico.</td></tr>
+<tr><td>Acido etilendiamminotetraacetico (EDTA)</td><td>0,2</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Acido nitrilotriacetico (NTA)</td><td>0,2</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Acrilammide</td><td>0,1</td><td colspan="2">µg/l</td><td>Il valore parametrico si riferisce alla concentrazione residua di monomeri nell’acqua, calcolata in base alle specifiche della migrazione massima del polimero corrispondente a contatto con l’acqua.</td></tr>
+<tr><td>Alluminio</td><td>0,2</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Ammonio</td><td>0,5</td><td colspan="2">mg/l</td><td>Per acqua potabile di tipo ridotto; calcolato in NH<sub>4</sub><sup>+</sup>.</td></tr>
+<tr><td>Ammonio</td><td>0,1</td><td colspan="2">mg/l</td><td>Per acqua potabile di tipo ossidato; calcolato in NH<sub>4</sub><sup>+</sup>.</td></tr>
+<tr><td>Antimonio</td><td>5</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Argento</td><td>0,1</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Arsenico</td><td>10</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Benzene</td><td>1</td><td colspan="2">µg/l</td><td>V. anche BTEX</td></tr>
+<tr><td>Benzo(a)pirene</td><td>0,01</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Bisfenolo A</td><td>2,5</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Boro</td><td>1</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Bromato</td><td>10</td><td colspan="2">µg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
+<tr><td>BTEX</td><td>3</td><td colspan="2">µg/l</td><td>Somma di benzene, metilbenzene, etilbenzene e dimetilbenzene.</td></tr>
+<tr><td>Cadmio</td><td>3</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Cianuri<sup>-</sup></td><td>50</td><td colspan="2">µg/l</td><td>Cianuro totale in tutte le sue forme, calcolato in cianuro.</td></tr>
+<tr><td>Cianuro</td><td>50</td><td colspan="2">µg/l</td><td>Cianuro totale in tutte le sue forme, calcolato in cianuro.</td></tr>
+<tr><td>Clorato</td><td>0,2</td><td colspan="2">mg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
+<tr><td>Clorite</td><td>0,2</td><td colspan="2">mg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
+<tr><td>Clorito</td><td>0,2</td><td colspan="2">mg/l</td><td>Proveniente dal trattamento dell’acqua potabile, senza compromettere la disinfezione.</td></tr>
+<tr><td>Cloro (libero)</td><td>0,1</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Cloroetene (cloruro di vinile)</td><td>0,5</td><td colspan="2">µg/l</td><td>Il valore parametrico si riferisce alla concentrazione residua di monomeri nell’acqua, calcolata in base alle specifiche della migrazione massima del polimero corrispondente a contatto con l’acqua.</td></tr>
+<tr><td>Clorometilossirano (epicloridrina)</td><td>0,1</td><td colspan="2">µg/l</td><td>Il valore parametrico si riferisce alla concentrazione residua di monomeri nell’acqua, calcolata in base alle specifiche della migrazione massima del polimero corrispondente a contatto con l’acqua.</td></tr>
+<tr><td>Composto chimico organico di tossicità ignota ma dalla struttura chimica nota, senza caratteristiche strutturali tali da suggerire una potenziale genotossicità</td><td>10</td><td colspan="2">µg/l</td><td>Applicabile a tutti i composti organici per i quali non sono disponibili dati sulla tossicità sufficienti e che sono classificati in una delle seguenti quattro categorie: sostanze senza potenziale genotossicità ad alta, media o bassa tossicità (classi strutturali Cramer I, II e III) e organofosfati. Sono esclusi i metalli non essenziali e i composti contenenti metalli, le diossine e i composti analoghi, gli steroidi e le proteine.</td></tr>
+<tr><td>Composto chimico organico di tossicità ignota ma dalla struttura chimica nota, con caratteristiche strutturali tali da suggerire una potenziale genotossicità</td><td>0,1</td><td colspan="2">µg/l</td><td>Applicabile a tutti i composti organici per i quali non sono disponibili dati sulla tossicità sufficienti e che sono classificati nella categoria «sostanze con potenziale genotossicità». Sono esclusi i composti analoghi alle aflatossine, gli azossicomposti e i composti N-nitrosi. Sono esclusi anche i metalli non essenziali e i composti contenenti metalli, le diossine e i composti analoghi, gli steroidi e le proteine.</td></tr>
+<tr><td>Cromo</td><td>20</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Dicloroetano, 1,2-</td><td>3</td><td colspan="2">µg/l</td><td>V. anche «Idrocarburi alogenati volatili»</td></tr>
+<tr><td>Diclorometano</td><td>20</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Diossano, 1,4-</td><td>6</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Diossido di cloro</td><td>0,05</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>ETBE + MTBE</td><td>5</td><td colspan="2">µg/l</td><td>Somma di 2-metossi-2-metilpropano e 2-etossi-2-metilpropano. Applicabile alla rete di distribuzione (salvo gli impianti domestici).</td></tr>
+<tr><td>Ferro</td><td>0,2</td><td colspan="2">mg/l</td><td>Totale</td></tr>
+<tr><td>Fluoruro</td><td>1,5</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Fosfato</td><td>1</td><td colspan="2">mg/l</td><td>Unicamente per l’acqua calda, calcolato in fosforo.</td></tr>
+<tr><td>Idrocarburi alogenati volatili: quantità totale di tutte le sostanze alogenate la cui struttura fondamentale è composta da un minimo di 1–3 atomi di carbonio e nessun altro gruppo funzionale</td><td>10</td><td colspan="2">µg/l</td><td>Provenienti dalla contaminazione dell’ambiente, senza diclorometano e trialometani.</td></tr>
+<tr><td>Idrocarburi aromatici policiclici</td><td>0,1</td><td colspan="2">µg/l</td><td>Somma di benzo[b]fluorantene, benzo[k]fluorantene, benzo[ghi]perilene, indeno[1,2,3-cd]pirene</td></tr>
+<tr><td>Indice di idrocarburi C<sub>10</sub>–C<sub>40</sub></td><td>20</td><td colspan="2">µg/l</td><td>Determinazione con un metodo analogo al metodo ISO 9377-2, ma con un limite di quantificazione più basso.</td></tr>
+<tr><td>Manganese</td><td>50</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Mercurio</td><td>1</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Microcistina-LR</td><td>1</td><td colspan="2">µg/l</td><td>Provengono dall’ambiente (fioriture di cianobatteri nelle acque superficiali). Questo parametro deve essere determinato in presenza di fiori o di potenziali fiori nella risorsa.</td></tr>
+<tr><td>Nichel</td><td>20</td><td colspan="2">µg/l</td><td>Per le analisi dagli impianti domestici vengono prelevati campioni da un litro senza aver fatto scorrere l’acqua.</td></tr>
+<tr><td>Nitrato</td><td>40</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Nitrito</td><td>0,1</td><td colspan="2">mg/l</td><td></td></tr>
+<tr><td>Ozono</td><td>50</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Perclorato</td><td>4</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Perfluoroesano sulfonato (PFHxS)</td><td>0,3</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Perfluoroottanoato (PFOA)</td><td>0,5</td><td colspan="2">µg/l</td><td></td></tr>
+<tr><td>Perfluorottano sulfonato (PFOS)</td><td colspan="2">0,3</td><td>µg/l</td><td></td></tr>
+<tr><td>Pesticidi</td><td colspan="2">0,1</td><td>µg/l</td><td>Per «pesticidi» si intendono le sostanze attive definite all’articolo 2 capoverso 1 lettera a dell’ordinanza del DFI del 16 dicembre 2016[^annex2-lvlu1-lvl1-1] concernente i livelli massimi di residui di antiparassitari nei o sui prodotti di origine vegetale e animale (OAOVA), nonché i metaboliti rilevanti per l’acqua potabile secondo il numero 2. Il valore massimo si applica a ogni singolo pesticida. Per quanto riguarda l’aldrina, la dieldrina, l’eptacloro e l’eptacloreposside, il valore massimo è di 0,030 μg/l.</td></tr>
+<tr><td>Pesticidi (totale)</td><td colspan="2">0,5</td><td>µg/l</td><td>Per «pesticidi» si intendono le sostanze attive definite all’articolo 2 capoverso 1 lettera a OAOVA, nonché i metaboliti rilevanti per l’acqua potabile secondo il numero 2. Per «pesticidi (totale)» si intende l’insieme di tutti i pesticidi rilevati e quantificati nel quadro della procedura di controllo.</td></tr>
+<tr><td>Piombo</td><td colspan="2">5</td><td>µg/l</td><td>Per le analisi dagli impianti domestici vengono prelevati campioni da un litro senza aver fatto scorrere l’acqua.</td></tr>
+<tr><td>Rame</td><td colspan="2">1</td><td>mg/l</td><td>Per le analisi dagli impianti domestici vengono prelevati campioni da un litro senza aver fatto scorrere l’acqua.</td></tr>
+<tr><td>Selenio</td><td colspan="2">10</td><td>µg/l</td><td></td></tr>
+<tr><td>Sodio</td><td colspan="2">200</td><td>mg/l</td><td></td></tr>
+<tr><td>Sostanze di cui agli allegati 2, 9 e 13 dell’ordinanza del 16 dicembre 2016[^annex2-lvlu1-lvl1-2] sui materiali e gli oggetti</td><td colspan="2">LMS/20</td><td>mg/l</td><td>Le concentrazioni delle sostanze per la fabbricazione di materiali e oggetti in plastica e silicone nonché delle sostanze provenienti da vernici e rivestimenti non devono superare i valori limite di migrazione specifica (LMS) indicati negli allegati 2, 9 e 13 dell’ordinanza del DFI sui materiali e gli oggetti divisi per 20 (LMS<sub>acqua</sub>=LMS/20), e in ogni caso non devono superare i 0,5 mg/l espressi come carbonio organico totale (v. all. 3, carbonio organico totale). Tale valore (0,5 mg/l) si applica anche alle sostanze per le quali gli allegati 2, 9 e 13 dell’ordinanza sui materiali e gli oggetti non prevedono valori limite di migrazione specifica.</td></tr>
+<tr><td>Tetra- e tricloroetilene</td><td colspan="2">10</td><td>µg/l</td><td>Totale delle concentrazioni dei parametri specificati.</td></tr>
+<tr><td>Tetraclorometano</td><td colspan="2">2</td><td>µg/l</td><td></td></tr>
+<tr><td>Trialometani (totale) THM</td><td colspan="2">50</td><td>µg/l</td><td>Somma di cloroformio, bromoformio, dibromoclorometano e bromodiclorometano. Se al termine del trattamento la concentrazione di THM non è superiore a 10 μg/l, non è necessaria un’analisi dell’acqua potabile nella rete di distribuzione.</td></tr>
+<tr><td>Uranio</td><td colspan="2">30</td><td>µg/l</td><td></td></tr>
+<tr><td>Zinco</td><td colspan="2">5</td><td>mg/l</td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 817.023.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9691)
-[^annex2-lvlu1-2]: [RS 817.023.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9691)
+[^annex2-lvlu1-lvl1-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
+[^annex2-lvlu1-lvl1-2]: [RS 817.023.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9691)
+
+### 2 Elenco dei metaboliti dei pesticidi rilevanti per l’acqua potabile
+
+<table>
+<tr><th>Metabolita</th><th>Nome chimico del metabolita</th><th>Sostanza attiva</th><th>Note</th></tr>
+<tr><td>IT-14</td><td>3-bromo-6-fluoro-2-methyl-1-[(1-methyl-1H-1,2,4-triazol-3-yl)sulfonyl]-1H-indole</td><td>Amisulbrom</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>IT-4</td><td>3-bromo-6-fluoro-2-methyl-1-(1H-1,2,4-triazol-3-ylsulfonyl)-1H-indole</td><td>Amisulbrom</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Desetilatrazina</td><td>2-amino-4-chloro-6-isopropylamino-1,3,5-triazine</td><td>Atrazina</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Desisopropilatrazina</td><td>2-amino-4-chloro-6-ethylamino-1,3,5-triazine</td><td>Atrazina</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Etirimol</td><td>5-butyl-2-ethylamino-6-methyl pyrimidin-4-ol</td><td>Bupirimate</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>R471811 (M4)</td><td>2,4-dicarbamoyl-3,5,6-trichlorobenzene-1-sulfonic acid</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>R417888 (M12)</td><td>2-carbamoyl-3,5,6-trichloro-4-cyanobenzene-1-sulfonic acid</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>R611965 (M5)</td><td>3-carbamoyl-2,4,5-trichlorobenzoic acid</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN548581 (M11)</td><td>4-carbamoyl-2,3,5-trichloro-6-cyanobenzene-1-sulfonic acid</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN507900 (SDS-66882)</td><td>2,3,6-trichloro-5-cyano-4-hydroxybenzamide</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>R611968 (M9)</td><td>2,4,5-trichloro-3-cyano-6-hydroxybenzamide</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>R418503 (M13)</td><td>2,5-dichloro-4,6-dicyanobenzene-1,3-disulfonic acid</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>R419492 (M8)</td><td>4-carbamoyl-2,5-dichloro-6-cyanobenzene-1,3-disulfonic acid</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN548008 (M3)</td><td>4,6-dicarbamoyl-2,5-dichlorobenzene-1,3-disulfonic acid</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>M10</td><td></td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>M7</td><td></td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN548580 (M2)</td><td>2,4,5-trichloro-6-hydroxy-benzene-1,3-dicarboxamide</td><td>Clorotalonil</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Melamina</td><td>1,3,5-triazine-2,4,6-triamine</td><td>Ciromazina</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei biocidi.</td></tr>
+<tr><td>Metil isotiocianato (MITC)</td><td>Methyl isothiocyanate</td><td>Dazomet</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>1,2,4-triazolo</td><td>1H-1,2,4-triazole</td><td>Difenoconazolo, mefentrifluconazolo</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>AE F075736</td><td>methyl 2-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulfamoyl)benzoate</td><td>Iodosulfuron-metile-sodio</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari. Il metabolita corrisponde alla sostanza attiva metsulfuron metile.</td></tr>
+<tr><td>PMPA (p‑metilfenetilammina)</td><td>(1RS)-1-(4-methylphenyl)ethanamine</td><td>Iprovalicarb</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Desmetil‑Isoproturon (M1)</td><td>1-(4-isopropylphenyl)-3-methylurea</td><td>Isoproturon</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>RPA 202248</td><td>(2RS)-3-cyclopropyl-2-[2-(methylsulfonyl)-4-(trifluoromethyl)benzoyl]-3-oxopropanenitrile</td><td>Isoxaflutole</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>MNBA</td><td>4-(methylsulfonyl)-2-nitrobenzoic acid</td><td>Mesotrione</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>AMBA</td><td>2-amino-4-(methylsulfonyl)benzoic acid</td><td>Mesotrione</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>BH 479-11</td><td>methyl N-(2,6-dimethylphenyl)-N-(1H-pyrazol-1-ylmethyl) aminocarbonylmethyl sulfoxide</td><td>Metazaclor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>BH 479-09</td><td>N-(2,6-dimethylphenyl)-N-(1H-pyrazol-1-ylmethyl)aminocarbonylmethylsulfinyl acetic acid</td><td>Metazaclor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>OR-15</td><td>2-ethyl-7-nitro-1H-benzimidazole-5-sulfonamide</td><td>Orizalin</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>OR-20</td><td>4-hydroxy-3,5-dinitro-benzenesulfonamide</td><td>Orizalin</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>NOA 407854 (M2)</td><td>8-(2,6-diethyl-4-methyl-phenyl)-tetra-hydro-pyrazolo[1,2-d][1,4,5]oxadiazepine-7,9-dione</td><td>Pinoxaden</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Propaclor-ESA</td><td>2-[(1-methylethyl)-phenylamino]-2-oxo-ethanesulfonic acid</td><td>Propaclor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>M09</td><td>4-methyl-5-oxo-3-propoxy-4,5-dihydro-1H-1,2,4-triazole-1-carboxamide</td><td>Propoxicarbazona-sodio</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 545026</td><td>N-(2-acetyl-6-methylphenyl)-N-(carboxycarbonyl)alanine</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 545027</td><td>N-[2-(1-hydroxyethyl)-6-methylphenyl]alanine</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>CGA 50720</td><td>N-(2-ethyl-6-methyl-phenyl)-oxalamic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>CGA 368208</td><td>(2-ethyl-6-methyl-phenylcarbamoyl)-methanesulfonic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>CGA 357704</td><td>2-[(2-ethyl-6-methyl-phenyl)-oxalyl-amino]-propionic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 542491</td><td>2-[2-(1-hydroxyethyl)-6-methyl-Noxalo-anilino]propanoic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>NOA 413173</td><td>2-[(2-ethyl-6-methyl-phenyl)-sulfoacetyl-amino]-propionic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 542489</td><td>2-[2-(1-hydroxyethyl)-N-(2-methoxy-1-methyl-ethyl)-6-methyl-anilino]-2-oxoacetic-acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 542488</td><td>N-(2-carboxymethyl-6-methyl-phenyl)-N-(2-methoxy-1-methyl-ethyl)-oxalamic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 542490</td><td>2-(2-acetyl-N-(2-methoxy-1-methylethyl)-6-methyl-anilino)-2-oxoethanesulfonic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>NOA 436611 (SYN546829)</td><td>{[(2-ethyl-6-methyl-phenyl)-(2-methoxy-1-methyl-ethyl)-carbamoyl]-methanesulfinyl}-acetic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Metolachlor-OXA (CGA 51202)</td><td>2-(2-ethyl-N-(2-methoxy-1-methyl-ethyl)-6-methyl-anilino)-2-keto-acetic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>Metolachlor‑ESA (CGA 354743)</td><td>2-[(2-ethyl-6-methylphenyl)(2-methoxy-1-methylethyl)-amino]-2-oxo-ethanesulfonic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 547969</td><td>3-ethyl-2-[(2-methoxy-1-methyl-ethyl)oxalo-amino]benzoic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 547977</td><td></td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 542492</td><td>3-ethyl-2-[(2-hydroxyacetyl)-(2-methoxy-1-methyl-ethyl)amino]benzoic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>SYN 542607</td><td>2-[2-(1-hydroxyethyl)-N-(2-methoxy-1methyl-ethyl)-6-methyl-anilino]-2-oxoethanesulfonic acid</td><td>S-metolachlor</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>MT1 (Desetil‑terbutilazina)</td><td>N-tert-butyl-6-chloro-1,3,5-triazine-2,4-diamine</td><td>Terbutilazina</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+<tr><td>M30 (acido solfonico del tiacloprid)</td><td>2-(3-carbamoyl-1-((6-chloropyridin-3-yl)methyl)ureido)ethane-1-sulfonic acid</td><td>Tiacloprid</td><td>Metabolita designato come rilevante nell’ambito della procedura di omologazione dei prodotti fitosanitari.</td></tr>
+</table>
 
 Allegato 3[^t-3]
 
@@ -607,7 +680,7 @@ Allegato 6[^t-7]
 
 ## Valori massimi e minimi concernenti l’acqua per piscine e docce accessibili al pubblico
 
-[^t-7]: Aggiornato dalla cifra I dell’O dell’USAV del 30 giu. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-7]: Aggiornato dalla cifra I dell’O dell’USAV del 30 giu. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)), dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)) e dalla cifra II dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 369](https://fedlex.data.admin.ch/eli/oc/2026/369)).
 
 <table>
 <tr><td>Posizione</td><td>Categoria</td><td>Criteri di analisi</td><td>Valori minimi</td><td colspan="2">Valori massimi</td></tr>
@@ -617,10 +690,7 @@ Allegato 6[^t-7]
 <tr><td></td><td>Tutte le vasche</td><td>pH (in situ)</td><td>6,8</td><td colspan="2">7,6</td></tr>
 <tr><td></td><td>Vasche per nuoto e non</td><td>Cloro libero</td><td>0,2 mg/l</td><td colspan="2">0,8 mg/l</td></tr>
 <tr><td></td><td>Vasche idromassaggio</td><td>Cloro libero</td><td>0,7 mg/l</td><td colspan="2">1,5 mg/l</td></tr>
-<tr><td>3</td><td colspan="5">Disinfezione a base di bromo</td></tr>
-<tr><td></td><td>Tutte le vasche</td><td>pH (in situ)</td><td>6,8</td><td colspan="2">7,2</td></tr>
-<tr><td></td><td>Vasche per nuoto e non</td><td>Bromo libero</td><td>0,5 mg/l</td><td colspan="2">1,4 mg/l</td></tr>
-<tr><td></td><td>Vasche idromassaggio</td><td>Bromo libero</td><td>1,2 mg/l</td><td colspan="2">2,2 mg/l</td></tr>
+<tr><td>3</td><td colspan="5">...</td></tr>
 <tr><td>4</td><td colspan="5">Vasche con rigenerazione biologica dell’acqua</td></tr>
 <tr><td></td><td></td><td>pH (in situ)</td><td>6,0</td><td colspan="2">9,0</td></tr>
 <tr><td></td><td></td><td>Visibilità/ limpidità</td><td colspan="2">&gt; 2,0 m, su tutto il fondo</td><td></td></tr>
@@ -634,7 +704,7 @@ Allegato 7[^t-8]
 
 ## Concentrazioni massime di sostanze inquinanti o derivanti dalla disinfezione nell’acqua per piscine
 
-[^t-8]: Aggiornato dalla cifra II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-8]: Aggiornato dalle cifre II delle O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 369](https://fedlex.data.admin.ch/eli/oc/2026/369)).
 
 <table>
 <tr><td>Posizione</td><td>Categoria</td><td>Criteri di analisi</td><td>Valori massimi</td></tr>
@@ -648,9 +718,7 @@ Allegato 7[^t-8]
 <tr><td></td><td>Tutti gli stabilimenti</td><td>Cloro combinato</td><td>0,2 mg/l</td></tr>
 <tr><td></td><td>Piscine all’aperto</td><td>Trialometani (THM, in equivalenti cloroformi)</td><td>50 µg/l</td></tr>
 <tr><td></td><td>Piscine coperte</td><td>Trialometani (THM, in equivalenti cloroformi)</td><td>20 µg/l</td></tr>
-<tr><td>3</td><td colspan="3">Disinfezione a base di bromo</td></tr>
-<tr><td></td><td>Tutti gli stabilimenti</td><td>Bromo combinato</td><td>0,5 mg/l</td></tr>
-<tr><td></td><td>Tutti gli stabilimenti</td><td>Bromuro</td><td>50 mg/l</td></tr>
+<tr><td>3</td><td colspan="3">...</td></tr>
 <tr><td>4</td><td colspan="3">Acqua delle vasche con rigenerazione biologica</td></tr>
 <tr><td></td><td></td><td>Fosforo totale</td><td>10 µg/l</td></tr>
 </table>
