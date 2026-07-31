@@ -4,13 +4,13 @@ number: II C/1/1
 title: Verordnung über die Entlöhnung der Behördenmitglieder sowie des Staats- und Lehrpersonals
 short: "Lohnverordnung, LohnV"
 language: de
-version: 2026-06-01
-valid_until: 2026-07-31
-version_adopted: 2025-04-23
+version: 2026-08-01
+valid_until: 2026-12-31
+version_adopted: 2026-02-25
 adopted: 2017-06-28
 in_force: 2018-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2648/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2649/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2648/pdf_file"
 
 (Lohnverordnung, LohnV)
 
-Vom 28.06.2017 (Stand 01.06.2026)
+Vom 28.06.2017 (Stand 01.08.2026)
 
 Der Landrat,
 
@@ -58,7 +58,7 @@ erlässt:
 
 <sup>2</sup> Als Angestellte des Kantons gemäss Absatz 1 Buchstabe a gelten die nach Personalgesetz angestellten Personen der Verwaltung, der Gerichte sowie der öffentlich-rechtlichen kantonalen Anstalten und Körperschaften, soweit nicht besondere Bestimmungen etwas anderes vorsehen.
 
-<sup>3</sup> Die Gemeinden sind berechtigt, die Ansprüche ihrer Lehrpersonen auf Prämien, Zulagen, Inkonvenienzentschädigungen sowie Leistungen im Todesfall abweichend festzusetzen. Die entsprechenden Bestimmungen dieser Verordnung sind soweit anwendbar, als die Gemeinden keine eigenen Bestimmungen erlassen.
+<sup>3</sup> Für die Lehrpersonen der Gemeinden gelten die Artikel 5, 10 und 11 dieser Verordnung. Im Übrigen gilt das Arbeitsrecht der Anstellungsinstanz.
 
 ### 1.2. Lohnpolitik
 
