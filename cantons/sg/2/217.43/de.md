@@ -4,13 +4,12 @@ number: "217.43"
 title: Gebührenordnung der Universität St.Gallen
 short: GebR
 language: de
-version: 2019-08-01
-valid_until: 2026-07-31
-version_adopted: 2019-04-29
+version: 2026-08-01
+version_adopted: 2025-02-21
 adopted: 2006-02-27
 in_force: 2006-05-03
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.43"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2776/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3825/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2776/pdf_file"
 
 (GebR)
 
-vom 27.02.2006 (Stand 01.08.2019)
+vom 27.02.2006 (Stand 01.08.2026)
 
 Der Universitätsrat der Universität St.Gallen
 
@@ -40,10 +39,10 @@ als Gebührenordnung:[^ingress-2]
 
 <sup>1</sup> Dieser Erlass regelt die Erhebung:
 
-- a) von Gebühren bei immatrikulierten Studierenden und Studienbewerbern sowie übrigen Teilnehmern an Lehrveranstaltungen[^1-1] für die Inanspruchnahme von Leistungen im universitären Studien- und Prüfungsbetrieb;
+- a) von Gebühren bei immatrikulierten Studierenden und Studienbewerberinnen und Studienbewerbern sowie übrigen Teilnehmenden an Lehrveranstaltungen[^1-1] für die Inanspruchnahme von Leistungen im universitären Studien- und Prüfungsbetrieb;
 - b) von Administrativ-, Benützungs- und übrigen Gebühren.
 
-[^1-1]: Im Sinn von Art. 78 des Universitätsstatuts, sGS [217.15](https://www.gesetzessammlung.sg.ch/data/217.15/de).
+[^1-1]: Im Sinn von [Art. 15](https://www.gesetzessammlung.sg.ch/data/217.15/de/art15) des Universitätsstatuts vom 30. August 2024, sGS [217.15](https://www.gesetzessammlung.sg.ch/data/217.15/de).
 
 #### Art. 2
 
@@ -72,9 +71,12 @@ als Gebührenordnung:[^ingress-2]
 - a) regulär immatrikulierte Studierende;
 - b) immatrikulierte Studierende im Urlaub;
 - c) Doktorierende;
-- d) regulär immatrikulierte Langzeitstudierende.
+- d) regulär immatrikulierte Langzeitstudierende;
+- e) immatrikulierte Studierende in einem Semester mit reduzierter Studiengebühr.
 
 <sup>2</sup> Studierende nach Abs. 1 Bst. b dieser Bestimmung erbringen den Nachweis, dass sie ordnungsgemäss vom Belegen von Lehrveranstaltungen dispensiert sind. Als Dispensationsgründe gelten insbesondere Militärdienst, Krankheit, Unfall, Mutterschaft sowie das Absolvieren von nicht curricularen Praktika. Einzelheiten werden in einem speziellen Merkblatt, erlassen von der Verwaltungsdirektion, geregelt.
+
+<sup>2<sup>bis</sup></sup> Studierende nach Abs. 1 Bst. e dieser Bestimmung erbringen den Nachweis, dass sie sich ordnungsgemäss für ein Semester mit reduzierter Studiengebühr qualifizieren. Die Gründe können von der erweiterten Universitätsleitung in den Studienvorschriften festgelegt werden.
 
 <sup>3</sup> Doktorierende vor der Promotion werden wie immatrikulierte Studierende nach Abs. 1 Bst. b dieser Bestimmung behandelt.
 
@@ -114,6 +116,8 @@ als Gebührenordnung:[^ingress-2]
 
 <sup>2</sup> Immatrikulierte Studierende im Urlaub sind von der Entrichtung eines Kolleggeldes befreit.
 
+<sup>3</sup> Immatrikulierte Studierende in einem Semester mit reduzierter Studiengebühr bezahlen ein reduziertes Kolleggeld.
+
 ### 3. Prüfungsgebühren
 
 #### Art. 8
@@ -124,27 +128,29 @@ als Gebührenordnung:[^ingress-2]
 
 <sup>2</sup> Immatrikulierte Studierende im Urlaub sind von der Entrichtung einer Prüfungsgebühr befreit.
 
+<sup>3</sup> Immatrikulierte Studierende in einem Semester mit reduzierter Studiengebühr bezahlen eine reduzierte Prüfungsgebühr.
+
 ### 4. Semestergebühren
 
 #### Art. 9
 
 **Immatrikulierte Studierende**
 
-<sup>1</sup> Regulär immatrikulierte Studierende entrichten je Semester für die Teilnahme am Lehrbetrieb eine Gebühr.
+<sup>1</sup> Die immatrikulierten Studierenden entrichten je Semester für die Teilnahme am Lehrbetrieb eine Gebühr.
 
-<sup>2</sup> Für immatrikulierte Studierende im Urlaub wird eine reduzierte Gebühr erhoben. Höhe und Verteilschlüssel werden im Gebührenreglement festgelegt.
+<sup>2</sup> …
 
 <sup>3</sup> Als Semestergebühren im Sinne dieses Artikels gelten einerseits die Abgaben für Leistungen der HSG und andererseits die Beiträge an die Studentenschaft und an studentische Selbsthilfeorganisationen. Der Universitätsrat legt den Verteilschlüssel im Gebührenreglement fest.
 
 #### Art. 10
 
-**Andere Teilnehmer an Lehrveranstaltungen**
+**Andere Teilnehmende an Lehrveranstaltungen**
 
-<sup>1</sup> Für Hospitanten wird die Gebühr je belegte Wochenstunde festgesetzt.
+<sup>1</sup> Für Hospitierende wird die Gebühr je belegte Wochenstunde festgesetzt.
 
-<sup>2</sup> Die Teilnehmer an Lehrveranstaltungen der Weiterbildung bezahlen die vom Veranstalter festgelegte Abgeltung.
+<sup>2</sup> Die Teilnehmenden an Lehrveranstaltungen der Weiterbildung bezahlen die vom Veranstalter festgelegte Abgeltung.
 
-<sup>3</sup> Die Besucher öffentlicher Lehrveranstaltungen entrichten je Semester eine Pauschalgebühr; im Rahmen der Rechtsanwaltsausbildung an der HSG wird je belegte Lehrveranstaltung eine Gebühr erhoben.
+<sup>3</sup> Die Besucherinnen und Besucher öffentlicher Lehrveranstaltungen entrichten je Semester eine Pauschalgebühr; im Rahmen der Rechtsanwaltsausbildung an der HSG wird je belegte Lehrveranstaltung eine Gebühr erhoben.
 
 ## IV. Weitere Gebühren
 
@@ -160,7 +166,7 @@ als Gebührenordnung:[^ingress-2]
 
 <sup>1</sup> Die Benützung der Infrastruktur und die Inanspruchnahme von Dienstleistungen der HSG sind gebührenpflichtig.
 
-<sup>2</sup> Art und Höhe der Benützungsgebühren sind in besonderen Tarifen geregelt. Der Verwaltungsdirektor legt gestützt darauf die Benützungsgebühren im Einzelfall fest.
+<sup>2</sup> Art und Höhe der Benützungsgebühren sind in besonderen Tarifen geregelt. Die Verwaltungsdirektorin oder der Verwaltungsdirektor legt gestützt darauf die Benützungsgebühren im Einzelfall fest.
 
 #### Art. 13
 
@@ -182,7 +188,7 @@ als Gebührenordnung:[^ingress-2]
 
 <sup>3</sup> Der Erlass für Studierende in Double-Degree-Programmen wird im jeweiligen Vertrag mit der Partneruniversität geregelt.
 
-<sup>4</sup> Der Studiensekretär kann in besonderen Fällen die Gebühren auf Gesuch hin stunden oder ganz oder teilweise erlassen.
+<sup>4</sup> Die Studiensekretärin oder der Studiensekretär kann in besonderen Fällen die Gebühren auf Gesuch hin stunden oder ganz oder teilweise erlassen.
 
 ## VI. Schlussbestimmungen
 
