@@ -4,13 +4,12 @@ number: 887a
 title: Verordnung zum Gesetz über die familienergänzende Kinderbetreuung
 short: "Kinderbetreuungsverordnung, KiBeV"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
+version: 2026-08-01
 version_adopted: 2025-12-09
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/887a"
-pdf: "https://srl.lu.ch/api/de/versions/4721/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4828/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4721/pdf_file"
 
 (Kinderbetreuungsverordnung, KiBeV)
 
-vom 09.12.2025 (Stand 01.01.2026)
+vom 09.12.2025 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -159,6 +158,80 @@ beschliesst:
 <sup>3</sup> Die Dienststelle Soziales und Gesellschaft kann auf Hinweis der Gemeinde weitere Angaben von einer Spielgruppe einfordern, um zu prüfen, ob eine Bewilligung als Kindertagesstätte erforderlich ist.
 
 ## 5 Betreuungsgutscheine
+
+#### § 11
+
+**Anspruchsberechtigung im Allgemeinen**
+
+<sup>1</sup> Anspruch auf Betreuungsgutscheine haben Erziehungsberechtigte, die ein Angebot der vorschulischen ausserfamiliären Kinderbetreuung infolge zeitlicher Inanspruchnahme durch Erwerbstätigkeit, Aus- und Weiterbildung oder Stellensuche nutzen. Die zeitliche Inanspruchnahme (Beschäftigungsgrad) hat mindestens zu umfassen:
+
+- a. 120 Prozent bei verheirateten, in eingetragener Partnerschaft oder in einem stabilen Konkubinat lebenden Erziehungsberechtigten (Paarhaushalte),
+- b. 20 Prozent bei alleinstehenden Erziehungsberechtigten (Alleinerziehende).
+
+<sup>2</sup> Als Aus- und Weiterbildungen gelten Bildungsangebote, die im Hinblick auf eine Erwerbstätigkeit verwertbar sind.
+
+<sup>3</sup> Die Stellensuche wird im Umfang der von der Arbeitslosenversicherung anerkannten Vermittlungsfähigkeit berücksichtigt.
+
+#### § 12
+
+**Anspruchsberechtigung aus anderen Gründen**
+
+<sup>1</sup> Erziehungsberechtigten, die die Voraussetzung nach § 11 nicht erfüllen, können zum Wohl des Kindes aus folgenden Gründen Betreuungsgutscheine gewährt werden:
+
+- a. bei Bedarf an früher Sprach-, Entwicklungs- und Integrationsförderung des Kindes,
+- b. zur Entlastung der Erziehungsberechtigen, wenn dies zum Schutz und zur Unterstützung des Kindes angezeigt ist, oder
+- c. zur Verhinderung einer wirtschaftlichen Notlage.
+
+<sup>2</sup> Der Anspruch gemäss Absatz 1 ist ausgeschlossen, wenn der oder die Erziehungsberechtigte mit wirtschaftlicher Sozialhilfe unterstützt wird.
+
+#### § 13
+
+**Minimaler Eigenbeitrag und Einkommensgrenzen**
+
+<sup>1</sup> Der minimale Eigenbeitrag beträgt 10 Franken pro Betreuungstag in einer Kindertagesstätte und 1 Franken pro Betreuungsstunde in einer Tagesfamilie.
+
+<sup>2</sup> Bis zu einem massgebenden Einkommen von 37'500 Franken bei Alleinerziehenden beziehungsweise von 47'000 Franken bei Paarhaushalten (Mindesteinkommen) besteht ein Anspruch auf Betreuungsgutscheine mit dem Maximalwert.
+
+<sup>3</sup> Ab einem massgebenden Einkommen von mehr als 120’000 Franken (Maximaleinkommen) besteht kein Anspruch auf Betreuungsgutscheine.
+
+#### § 14
+
+**Wert der Betreuungsgutscheine pro Betreuungstag oder Betreuungsstunde**
+
+<sup>1</sup> Der Wert des Betreuungsgutscheins für einen Betreuungstag oder eine Betreuungsstunde entspricht den Standardkosten abzüglich der Eigenbeteiligung, die sich bei steigendem Einkommen progressiv erhöht. Der Wert berechnet sich im Einzelfall gemäss den Vorgaben in Anhang 1.
+
+<sup>2</sup> Übersteigt der Wert des Betreuungsgutscheins die effektiven Kosten abzüglich der Eigenbeteiligung, wird er entsprechend gekürzt.
+
+#### § 15
+
+**Umfang des Anspruchs auf Betreuungsgutscheine**
+
+<sup>1</sup> Die Anzahl Betreuungsgutscheine pro Jahr richtet sich nach Anhang 1.
+
+<sup>2</sup> Die Anzahl gewährter Betreuungsgutscheine darf die effektiv beanspruchten Betreuungstage oder Betreuungsstunden nicht übersteigen.
+
+<sup>3</sup> In Kindertagesstätten entspricht die Ganztagesbetreuung 100 Prozent eines Betreuungstages, die Vormittags- oder Nachmittagsbetreuung ohne Mittagszeit je 50 Prozent und die Mittagsbetreuung 25 Prozent eines Betreuungstages.
+
+#### § 16
+
+**Datenbearbeitung**
+
+<sup>1</sup> Zur Prüfung des Anspruchs auf Betreuungsgutscheine dürfen folgende Daten erhoben und bearbeitet werden:
+
+- a. Vorname, Name, Geburtsdatum, Zivilstand, Wohnort und AHV-Versichertennummer der erziehungsberechtigten Person und der mit ihr besteuerten Person sowie des im gleichen Haushalt lebenden Elternteils eines gemeinsamen Kindes,
+- b. Vorname, Name, Geburtsdatum und AHV-Versichertennummer des betreuten Kindes,
+- c. Beschäftigungsart und -grad der Personen gemäss Buchstabe a,
+- d. Bezeichnung und UID-Nummer des Betreuungsangebotes, vereinbartes Betreuungspensum und Betreuungskosten,
+- e. Steuerdaten gemäss § 7 Absatz 2 des Gesetzes über die Verbilligung von Prämien der Krankenversicherung (Prämienverbilligungsgesetz) vom 24. Januar 1995[^16-1] sowie
+- f. weitere notwendige Angaben zur Begründung eines Anspruchs nach § 12 Absatz 1.
+
+[^16-1]: SRL Nr. [866](https://srl.lu.ch/data/866/de)
+
+#### § 17
+
+**Kostengutsprachen**
+
+<sup>1</sup> Kostengutsprachen für Betreuungsgutscheine sind in der Regel für ein Jahr oder längstens bis zum Eintritt des betreuten Kindes in das obligatorische Kindergartenjahr zu erteilen. Vorbehalten bleiben Anpassungen an veränderte Verhältnisse gemäss § 14 Absatz 3 des Gesetzes.
 
 ## 6 Beiträge für erhöhten Betreuungsaufwand
 
