@@ -3,20 +3,19 @@ canton: OW
 number: "416.211"
 title: Ausführungsbestimmungen über die Brückenangebote
 language: de
-version: 2020-05-01
-valid_until: 2026-07-31
-version_adopted: 2020-03-30
+version: 2026-08-01
+version_adopted: 2026-03-23
 adopted: 2006-08-22
 in_force: 2006-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/416.211"
-pdf: "http://gdb.ow.ch/api/de/versions/1421/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2010/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Brückenangebote
 
-vom 22.08.2006 (Stand 01.05.2020)
+vom 22.08.2006 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -36,7 +35,7 @@ beschliesst:
 
 **Ziel, Inhalte**
 
-<sup>1</sup> Ziel der Brückenangebote ist es, Lernende mit individuellen Bildungsdefiziten, die nach der obligatorischen Schulzeit keinen Ausbildungsplatz gefunden haben, auf die Berufsbildung vorzubereiten. Gefördert werden Fach-, Methoden-, Selbst- und Sozialkompetenzen. Zudem werden die Lernenden bei der Berufswahl begleitet und bei der Lehrstellensuche unterstützt.
+<sup>1</sup> Ziel der Brückenangebote ist es, Schülerinnen und Schüler mit individuellen Bildungsdefiziten, die nach der obligatorischen Schulzeit keinen Ausbildungsplatz gefunden haben, auf die Berufsbildung vorzubereiten. Gefördert werden Fach-, Methoden-, Selbst- und Sozialkompetenzen. Zudem werden die Schülerinnen und Schüler bei der Berufswahl begleitet und bei der Lehrstellensuche unterstützt.
 
 <sup>2</sup> Der Unterricht richtet sich nach dem Zentralschweizer Rahmenlehrplan „Brückenangebote“.
 
@@ -72,39 +71,35 @@ beschliesst:
 
 #### Art. 5
 
-**Begriffe**
-
-<sup>1</sup> Lernende im Sinne dieser Ausführungsbestimmungen entsprechen der Bezeichnung Studierende gemäss Art. 17 des Bildungsgesetzes[^5-1].
-
-[^5-1]: GDB [410.1](http://gdb.ow.ch/data/410.1/de)
+**…**
 
 #### Art. 6
 
 **Leistungsbeurteilung**
 
-<sup>1</sup> Die Leistungen der Lernenden sind einmal je Semester in Form eines Zeugnisses mit Noten zu bewerten. Es können auch Aussagen über das Arbeitsverhalten der Lernenden gemacht werden.
+<sup>1</sup> Die Leistungen der Schülerinnen und Schüler sind einmal je Semester in Form eines Zeugnisses mit Noten zu bewerten. Es können auch Aussagen über das Arbeitsverhalten der Schülerinnen und Schüler gemacht werden.
 
 #### Art. 7
 
 **Ausbildungsvereinbarung und Ausschluss**
 
-<sup>1</sup> Mit den Lernenden wird eine Ausbildungsvereinbarung abgeschlossen.
+<sup>1</sup> Mit den Schülerinnen und Schülern wird eine Ausbildungsvereinbarung abgeschlossen.
 
-<sup>2</sup> Die Ausbildungsvereinbarung wird von der Schulleitung, der oder dem Lernenden und den Erziehungsberechtigten unterschrieben.
+<sup>2</sup> Die Ausbildungsvereinbarung wird von der Schulleitung, der Schülerin oder dem Schüler und den Eltern bzw. Erziehungsberechtigten unterschrieben.
 
 <sup>3</sup> Werden Vereinbarungen trotz schriftlicher Ermahnung nicht eingehalten, so entscheidet die Schulleitung nach Anhörung der Beteiligten über den Ausschluss aus dem Brückenangebot.
 
 #### Art. 8
 
-**Schulgeld und Kostentragung durch die Lernenden**
+**Schulgeld und Kostentragung durch die Schülerinnen und Schüler**
 
 <sup>1</sup> Für den Besuch des schulischen Brückenangebots ist ein Schulgeld zu entrichten. Dieses entspricht demjenigen an der Kantonsschule.
 
 <sup>2</sup> Der Besuch des kombinierten und des integrativen Brückenangebots ist unentgeltlich.
 
-<sup>3</sup> Für ausserkantonale Lernende ist ein Schulgeld zu entrichten, das den Ansätzen der interkantonalen Vereinbarungen entspricht.
+<sup>3</sup> Für ausserkantonale Schülerinnen und Schüler ist ein Schulgeld zu entrichten, das den Ansätzen der interkantonalen Vereinbarungen entspricht.
 
-<sup>4</sup> Die Lernenden tragen die Kosten für Lehrmittel, Schulmaterial, Exkursionen sowie die Reisespesen für den Schulbesuch.
+<sup>4</sup> Die Schülerinnen und Schüler tragen die Kosten für Lehrmittel, Schulmaterial, Exkursionen sowie die Reisespesen für den Schulbesuch.
 
 ## 2. Aufnahmekriterien
 
@@ -212,7 +207,7 @@ beschliesst:
 
 <sup>1</sup> Die Aufnahmekommission prüft die Unterlagen.
 
-<sup>2</sup> Sie kann die Lernenden, die Erziehungsberechtigten und Fachpersonen zu einem Aufnahmegespräch einladen.
+<sup>2</sup> Sie kann die Schülerinnen und Schüler, die Eltern bzw. Erziehungsberechtigten und Fachpersonen zu einem Aufnahmegespräch einladen.
 
 #### Art. 18
 
@@ -272,6 +267,8 @@ Geändert durch:
 
 \- Nachtrag vom 1. Mai 2018, in Kraft seit 1. August 2018 (OGS 2018, 11),
 
-\- Nachtrag vom 30. März 2020, in Kraft seit 1. Mai 2020 (OGS 2020, 10)
+\- Nachtrag vom 30. März 2020, in Kraft seit 1. Mai 2020 (OGS 2020, 10),
+
+\- Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
 
 OGS 2006, 63
