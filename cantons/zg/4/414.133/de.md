@@ -4,13 +4,12 @@ number: "414.133"
 title: Promotionsordnung für das Kurzzeitgymnasium der Kantonsschule Menzingen
 short: PO KZG KSM
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-05-22
+version: 2026-08-01
+version_adopted: 2026-05-18
 adopted: 2015-03-26
 in_force: 2015-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.133"
-pdf: "https://bgs.zg.ch/api/de/versions/2461/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3038/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2461/pdf_file"
 
 (PO KZG KSM)
 
-Vom 26. März 2015 (Stand 1. August 2023)
+Vom 26. März 2015 (Stand 1. August 2026)
 
 Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
 
@@ -152,7 +151,7 @@ beschliesst:
 
 - a) 1. Klasse: Deutsch, zweite Landessprache (Französisch oder Italienisch), dritte Sprache (Englisch, Basissprache Latein oder Italienisch), Geschichte, Geografie, Mathematik, Informatik, Physik, Chemie, Biologie, Bildnerisches Gestalten oder Musik, Schwerpunktfach;
 - b) 2. Klasse: Deutsch, zweite Landessprache (Französisch oder Italienisch), dritte Sprache (Englisch, Italienisch oder Latein), Geschichte, Geografie, Wirtschaft und Recht, Mathematik, Informatik, Physik, Chemie, Biologie, Bildnerisches Gestalten oder Musik, Schwerpunktfach;
-- c) 3. Klasse: Deutsch, zweite Landessprache (Französisch oder Italienisch), dritte Sprache (Englisch, Italienisch oder Latein), Geschichte, Geografie, Mathematik, Physik, Chemie, Biologie, Bildnerisches Gestalten oder Musik, Schwerpunktfach, Ergänzungsfach;
+- c) 3. Klasse: Deutsch, zweite Landessprache (Französisch oder Italienisch), dritte Sprache (Englisch oder Italienisch), Basissprache Latein, Geschichte, Geografie, Mathematik, Physik, Chemie, Biologie, Bildnerisches Gestalten oder Musik, Schwerpunktfach, Ergänzungsfach;
 - d) 4. Klasse: Deutsch, zweite Landessprache (Französisch oder Italienisch), dritte Sprache (Englisch, Italienisch oder Latein), Integrationsfach Geistes- und Sozialwissenschaften, Mathematik, Integrationsfach Naturwissenschaften, Bildnerisches Gestalten oder Musik, Schwerpunktfach, Ergänzungsfach.
 
 ### 3.3. Promotionsbedingungen
