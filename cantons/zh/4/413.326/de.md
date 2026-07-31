@@ -4,11 +4,10 @@ number: "413.326"
 title: Berufsmaturitätsreglement (BMR)
 short: BMR
 language: de
-version: "2022-08-01"
-nachtrag: "117"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "133"
 adopted: 2014-09-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_326-2014_09_08-2015_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_326-2014_09_08-2015_01_01-133.html"
 text: pdf
 ---
 
@@ -64,13 +63,13 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>4</sup> Die Aufbewahrung der notwendigen Unterlagen obliegt der für die Ausstellung der Duplikate zuständigen Stelle.
 
 §§ 4–19.[^3-1]
 
-[^3-1]: Aufgehoben durch Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 284; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 5
+[^3-1]: Aufgehoben durch Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 284; ABl 2022-03-25). In Kraft seit 1. August 2022.
 
 ### D. Berufsmaturitätsunterricht
 
@@ -80,13 +79,12 @@ beschliesst:
 
 Bei Gruppenarbeiten kann der gemeinschaftliche Teil der Leistung mit einer einheitlichen Note bewertet werden.
 
-[^20-1]: SR 412.103.1.
-
-#### § 21
-
 **Projektwochen**
 
-Die Anbieter führen im Bildungsgang während der beruflichen Grundbildung (BM 1) mindestens eine Projektwoche zur Förderung des interdisziplinären Arbeitens oder der Fremdsprachenkompetenzen durch. Diese gilt als schulische Präsenzzeit im Sinne von Art. 5 Abs. 3 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^20-1].
+§ 21.[^20-1] Die Anbieter führen im Bildungsgang während der beruflichen Grundbildung (BM 1) mindestens eine Projektwoche zur Förderung des interdisziplinären Arbeitens oder der Fremdsprachenkompetenzen durch. Diese gilt als Schulunterricht im Sinne von Art. 5 Abs. 3 der Verordnung vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV[^20-2].
+
+[^20-1]: Fassung gemäss RRB vom 2. März 2026 (OS 81, 277; ABl 2026-03-13). In Kraft seit 1. August 2026. 1. 7. 26 - 133 5
+[^20-2]: SR 412.103.1.
 
 #### § 22
 
@@ -110,11 +108,20 @@ Die Anbieter führen im Bildungsgang während der beruflichen Grundbildung (BM 1
 
 #### § 24
 
-**b. Prüfungsstoff und Prüfungsfächer**
+**Abschlussprüfungen b. Prüfungsstoff und Prüfungsfächer c. Fremdsprachendiplome**
 
 <sup>1</sup> Der Prüfungsstoff orientiert sich am Rahmenlehrplan des Bundes für die Berufsmaturität und am kantonalen Lehrplan.
 
-<sup>2</sup> Die Anbieter melden der kantonalen Berufsmaturitätskommission, welche Fächer vorzeitig abgeschlossen werden (Art. 22 Abs. 2 BMV).
+<sup>2</sup> Die Anbieter melden der kantonalen Berufsmaturitätskommission, welche Fächer vorzeitig abgeschlossen werden (Art. 21 Abs. 2 BMV).[^24-1]
+
+§ 24 a.[^24-2] <sup>1</sup> Die Kantonale Berufsmaturitätskommission bezeichnet die Fremdsprachendiplomprüfungen, die zum Ersatz der Abschlussprüfungen führen, und macht Vorgaben für die Umrechnung von deren Ergebnissen in Prüfungsnoten (Art. 22 Abs. 2 und 3 BMV).
+
+<sup>2</sup> Sie richtet sich dabei nach den Empfehlungen der Schweizerischen Berufsbildungsämter-Konferenz (SBBK).
+
+<sup>3</sup> Diplome, die zu Beginn des Berufsmaturitätsunterrichts anrechenbar waren, ersetzen die Abschlussprüfungen, auch wenn sie die Anrechenbarkeit im Verlauf des Unterrichts verlieren.
+
+[^24-1]: Fassung gemäss RRB vom 2. März 2026 (OS 81, 277; ABl 2026-03-13). In Kraft seit 1. August 2026. 1. 7. 26 - 133 5
+[^24-2]: Eingefügt durch RRB vom 2. März 2026 (OS 81, 277; ABl 2026-03-13). In Kraft seit 1. August 2026.
 
 #### § 25
 
@@ -144,31 +151,33 @@ Die kantonale Berufsmaturitätskommission entscheidet über Dispensationsgesuche
 
 <sup>3</sup> Stört eine Kandidatin oder ein Kandidat trotz Ermahnung durch die mit der Prüfungsaufsicht betraute Person andere Teilnehmende, kann sie oder er von der Prüfung ausgeschlossen werden. Die bis zum Ausschluss erstellte Arbeit wird bewertet.
 
+**3**
+
+- 1\. 7. 26 - 133 § 28.[^27-1] <sup>1</sup> Wird die interdisziplinäre Projektarbeit nicht fristgemäss abgegeben oder nicht selbstständig und entsprechend den Rahmenbedingungen verfasst oder erfolgt die Präsentation nicht termingemäss, entscheidet nach Anhörung der Kandidatin oder des Kandidaten
+
 **c. Unregelmässigkeiten und Plagiat bei der interdisziplinären Projektarbeit**
 
-§ 28.[^27-1] <sup>1</sup> Wird die interdisziplinäre Projektarbeit nicht fristgemäss abgegeben oder nicht selbstständig und entsprechend den Rahmenbedingungen verfasst oder erfolgt die Präsentation nicht termingemäss, entscheidet nach Anhörung der Kandidatin oder des Kandidaten a. die zuständige Lehrperson über einen angemessenen Notenabzug,
+- a. die zuständige Lehrperson über einen angemessenen Notenabzug,
 
 - b. die Schulleitung über das Nichtbestehen der Berufsmaturitätsprüfung.
 
 <sup>2</sup> Plagiate führen zum Nichtbestehen der Berufsmaturitätsprüfung gemäss Abs. 1 lit. b.
 
-**3**
-
-- 1\. 7. 22 - 117 § 29. Die Schulleitung erklärt die Berufsmaturitätsprüfung als nicht bestanden, wenn eine Kandidatin oder ein Kandidat unerlaubte Hilfsmittel verwendet oder zu verwenden versucht, während einer Prüfung unerlaubterweise mit Dritten kommuniziert oder die Zulassung mit unrichtigen oder unvollständigen Angaben erwirkt hat.
-
 [^27-1]: Fassung gemäss Beschluss des Bildungsrates vom 12. März 2018 (OS 73, 172; ABl 2018-03-23). In Kraft seit 1. August 2018.
 
-#### § 30
+#### § 29
 
 **d. Andere Unregelmässigkeiten**
 
+Die Schulleitung erklärt die Berufsmaturitätsprüfung als nicht bestanden, wenn eine Kandidatin oder ein Kandidat unerlaubte Hilfsmittel verwendet oder zu verwenden versucht, während einer Prüfung unerlaubterweise mit Dritten kommuniziert oder die Zulassung mit unrichtigen oder unvollständigen Angaben erwirkt hat.
+
 **Entscheid**
 
-<sup>1</sup> Die kantonale Berufsmaturitätskommission erwahrt die Prüfungsergebnisse. Die Schulleitung eröffnet den Entscheid.
+§ 30.[^29-1] <sup>1</sup> Die kantonale Berufsmaturitätskommission erwahrt die Prüfungsergebnisse. Die Schulleitung eröffnet den Entscheid.
 
-<sup>2</sup> Zählen die Prüfungsergebnisse sowohl für das EFZ als auch für die Berufsmaturität während der beruflichen Grundbildung (BM 1), so kann die kantonale Berufsmaturitätskommission die für das EFZ zuständige Prüfungskommission ermächtigen, diese zu erwahren und zu eröffnen.
+<sup>2</sup> Die kantonale Berufsmaturitätskommission kann bei ihren Entscheiden über das Bestehen der Berufsmaturität besonderen Umständen angemessen Rechnung tragen.
 
-<sup>3</sup> Die kantonale Berufsmaturitätskommission oder die zuständige Prüfungskommission kann bei ihren Entscheiden über das Bestehen der Berufsmaturität besonderen Umständen angemessen Rechnung tragen.
+[^29-1]: Fassung gemäss RRB vom 2. März 2026 (OS 81, 277; ABl 2026-03-13). In Kraft seit 1. August 2026. 1. 7. 26 - 133 5
 
 #### § 31
 
@@ -195,6 +204,10 @@ Der Einsprache unterstehen a.[^hFRechtsmittel-1] Entscheide der Schulleitung üb
 <sup>1</sup> Kandidatinnen und Kandidaten, welche die Aufnahmeprüfung 2014 bestanden haben, werden zum Berufsmaturitätsunterricht des Kalenderjahrs 2015 zugelassen.
 
 <sup>2</sup> Für Kandidatinnen und Kandidaten, die ihre Berufsmaturitätsausbildung vor dem 1. Januar 2015 begonnen haben, gilt das bisherige Recht.
+
+### Übergangsbestimmung zur Änderung vom 2. März 2026 (OS 81, 277)
+
+Für Kandidatinnen und Kandidaten gemäss Art. 31 Abs. 1–3 der Verordnung des SBFI vom 16. August 2021 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ) gilt § 30 Abs. 2 in der Fassung vom 8. September 2014.
 
 ## Weitere Fussnoten
 
