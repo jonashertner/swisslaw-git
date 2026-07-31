@@ -4,7 +4,7 @@ number: "413.01.1"
 title: "RÈGLEMENT du 30.06.2010 d'application de la loi du 9 juin 2009 sur la formation professionnelle (RLVLFPr)"
 short: RLVLFPr
 language: fr
-version: 2016-08-01
+version: 2026-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.1?id=abca1d40-c011-46fe-8d74-0256215b72f1"
 ---
 
@@ -57,8 +57,10 @@ arrête
 - e. un représentant des Ecoles supérieures ;
 - f. deux directeurs d'établissements d'enseignement postobligatoire ;
 - g. deux enseignants, membres de la Conférence cantonale des présidents au sens de l'article 40 du présent règlement.
+- h. un représentant du service en charge de l'enseignement obligatoire.
+- i. un représentant du conseil de la fondation pour la formation professionnelle.
 
-[^1-1]: Modif. 3 du 30.09.2026: Introduction Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^1-1]: Modif. 3 du 30.09.2026: Introduction Al. 2, h-i; entrée en vigueur au 01.08.2026
 
 #### Art. 3
 
@@ -140,9 +142,9 @@ arrête
 
 **Matériel de travail [^10-1]**
 
-<sup>1</sup> L'entreprise formatrice met à la disposition de l'apprenti le matériel nécessaire à l'exercice de la profession.
+<sup>1</sup> L'entreprise formatrice met gratuitement à la disposition de l'apprenti le matériel nécessaire à l'exercice de la profession.
 
-[^10-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Modification Al. 1; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^10-1]: Modif. 3 du 30.09.2026: Modification Al. 1; entrée en vigueur au 01.08.2026
 
 #### Art. 12
 
@@ -172,9 +174,11 @@ arrête
 
 <sup>1</sup> En cas de rupture du contrat d'apprentissage, l'apprenti dispose d'un délai de trois mois pour retrouver une nouvelle place d'apprentissage. Durant cette période, il est autorisé à suivre les cours à l'école professionnelle.
 
+<sup>1bis</sup> En principe, cette mesure ne peut être appliquée qu'une seule fois au cours de la formation.
+
 <sup>2</sup> Le département statue sur les cas particuliers.
 
-[^14-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^14-1]: Modif. 3 du 30.09.2026: Introduction Al. 1bis; entrée en vigueur au 01.08.2026
 
 ### Section III Enseignement professionnel
 
@@ -565,31 +569,31 @@ arrête
 
 #### Art. 55
 
-**Mesure prise durant la formation en cas de problème de santé ou de handicap (art. 62 al. 5 LVLFPr) [^54-1]**
+**Mesure prise durant la formation et lors des procédures de qualification en cas de problème de santé ou de handicap (art. 62 al. 5 LVLFPr) [^54-1]**
 
-<sup>1</sup> L'apprenti qui désire bénéficier de mesures particulières en raison d'un problème de santé ou d'un handicap pendant les travaux écrits ou oraux, et lors des procédures de qualification dont l'organisation incombe aux établissements, en informe le directeur qui statue sur la demande.
+<sup>1</sup> L'apprenti qui désire bénéficier de mesures particulières en raison d'un problème de santé ou d'un handicap pendant sa formation et lors des procédures de qualification dépose une demande selon la procédure prévue par le département, lequel statue sur sa demande.
 
-<sup>2</sup> Le directeur peut, le cas échéant, demander l'avis de l'infirmier scolaire ou du médecin-conseil.
+<sup>2</sup> ...
 
 <sup>3</sup> Selon le type de demande, l'apprenti peut être astreint à des tests ou bilans spécifiques effectués par un spécialiste.
 
 <sup>4</sup> Les mesures particulières peuvent consister en moyens auxiliaires ou supplément de temps.
 
-[^54-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Modification tArt; entrée en vigueur au 01.08.2026; Modification Al. 1; entrée en vigueur au 01.08.2026; Abrogation Al. 2; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^54-1]: Modif. 3 du 30.09.2026: Modification tArt; entrée en vigueur au 01.08.2026; Modification Al. 1; entrée en vigueur au 01.08.2026; Abrogation Al. 2; entrée en vigueur au 01.08.2026
 
 #### Art. 56
 
-**Mesure prise lors des procédures de qualification en cas de problème de santé ou de handicap (art. 62 al. 5 LVLFPr) [^55-1]**
+**... [^55-1]**
 
-<sup>1</sup> Pour les procédures de qualification organisées par le département, ce dernier se prononce sur les demandes de moyens auxiliaires spécifiques ou de supplément de temps d'un candidat.
+<sup>1</sup> ...
 
-<sup>2</sup> L'établissement informe les candidats aux procédures de qualification de l'obligation d'annoncer l'existence d'un handicap pouvant affecter le déroulement de celles-ci.
+<sup>2</sup> ...
 
-<sup>3</sup> Les demandes motivées, accompagnées d'un certificat médical, sont remises au directeur qui les transmet au département.
+<sup>3</sup> ...
 
-<sup>4</sup> Le département consulte le cas échéant le médecin-conseil.
+<sup>4</sup> ...
 
-[^55-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1-4; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^55-1]: Modif. 3 du 30.09.2026: Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1-4; entrée en vigueur au 01.08.2026
 
 ### Sous-section IV Fréquentation des cours
 
@@ -703,7 +707,7 @@ arrête
 
 **Inscription [^subsectionSoussectionI-1]**
 
-<sup>1</sup> Les délais et les modalités d'inscription sont annoncés dans la "Feuille des avis officiels du Canton de Vaud" et sur le site internet du département.
+<sup>1</sup> Les délais et les modalités d'inscription sont annoncés sur le site internet du département.
 
 <sup>2</sup> Le département fixe le montant d'une éventuelle taxe d'inscription.
 
@@ -711,7 +715,7 @@ arrête
 
 <sup>4</sup> Lorsque des filières sont ouvertes dans plusieurs établissements, le département attribue à l'un d'entre eux la mise en œuvre de la procédure d'inscription.
 
-[^subsectionSoussectionI-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Modification Al. 1; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^subsectionSoussectionI-1]: Modif. 3 du 30.09.2026: Modification Al. 1; entrée en vigueur au 01.08.2026
 
 #### Art. 70
 
@@ -777,13 +781,13 @@ arrête
 
 **Promotion provisoire [^76-1]**
 
-<sup>1</sup> L'apprenti qui ne remplit pas les conditions de promotion peut, s'il s'agit d'un cas limite ou qu'il fait valoir des circonstances particulières, être promu à titre provisoire par le directeur, sur préavis de la Conférence du corps enseignant, dans le cadre fixé par le département. Il ne peut être promu à titre provisoire qu'une seule fois au cours de sa formation.
+<sup>1</sup> L'apprenti qui ne remplit pas les conditions de promotion peut être promu à titre provisoire par le directeur, sur préavis de la Conférence du corps enseignant, dans le cadre fixé par le département. Il ne peut être promu à titre provisoire qu'une seule fois au cours de sa formation.
 
-<sup>2</sup> Un apprenti promu provisoirement doit obtenir un bulletin suffisant au semestre suivant, faute de quoi il n'est pas autorisé à continuer sa classe. Les cas limites et les circonstances particulières sont appréciés par le directeur, sur préavis de la Conférence du corps enseignant, dans le cadre fixé par le département.
+<sup>2</sup> Un apprenti promu provisoirement doit obtenir un bulletin suffisant au semestre suivant, faute de quoi il n'est pas autorisé à continuer sa classe.
 
 <sup>3</sup> …
 
-[^76-1]: Modif. 1 du 16.02.2011: Modification Al. 1,2; entrée en vigueur au 01.03.2011; Abrogation Al. 3; entrée en vigueur au 01.03.2011 · Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Modification Al. 1-2; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^76-1]: Modif. 1 du 16.02.2011: Modification Al. 1,2; entrée en vigueur au 01.03.2011; Abrogation Al. 3; entrée en vigueur au 01.03.2011 · Modif. 3 du 30.09.2026: Modification Al. 1-2; entrée en vigueur au 01.08.2026
 
 #### Art. 78
 
@@ -791,9 +795,9 @@ arrête
 
 <sup>1</sup> L'apprenti a droit à un seul redoublement durant sa formation.
 
-<sup>2</sup> Un apprenti qui redouble doit obtenir un bulletin suffisant au premier semestre de l'année répétée, faute de quoi il n'est pas autorisé à continuer sa classe. Les cas limites et les circonstances particulières sont appréciés par le directeur, sur préavis de la Conférence du corps enseignant, dans le cadre fixé par le département.
+<sup>2</sup> Un apprenti qui redouble doit obtenir un bulletin suffisant au premier semestre de l'année répétée, faute de quoi il n'est pas autorisé à continuer sa classe.
 
-[^77-1]: Modif. 1 du 16.02.2011: Modification Al. 2; entrée en vigueur au 01.03.2011 · Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Modification Al. 2; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^77-1]: Modif. 1 du 16.02.2011: Modification Al. 2; entrée en vigueur au 01.03.2011 · Modif. 3 du 30.09.2026: Modification Al. 2; entrée en vigueur au 01.08.2026
 
 ### Chapitre IV Cours interentreprises
 
@@ -889,24 +893,24 @@ arrête
 
 #### Art. 91
 
-**Cas limites et circonstances particulières [^90-1]**
+**... [^90-1]**
 
-<sup>1</sup> Le Conseil de direction apprécie, pour ce qui concerne la partie scolaire, les cas limites et les circonstances particulières, dans le cadre fixé par le département.
+<sup>1</sup> ...
 
-[^90-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^90-1]: Modif. 3 du 30.09.2026: Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026
 
 #### Art. 92
 
 **Session supplémentaire d'examens [^91-1]**
 
-<sup>1</sup> Une session supplémentaire a lieu dans un délai fixé par le département. Elle est réservée :
+<sup>1</sup> Une session supplémentaire peut avoir lieu dans un délai fixé par le département. Elle est réservée
 
 - a. aux apprentis qui, pour de justes motifs, n'ont pas pu se présenter à la session ordinaire ;
-- b. aux apprentis qui sont en échec à la seule partie scolaire des examens finals d'apprentissage.
+- b. ...
 
 <sup>2</sup> Le département se détermine sur les justes motifs invoqués.
 
-[^91-1]: Modif. 1 du 16.02.2011: Modification Al. 2; entrée en vigueur au 01.03.2011 · Modif. 2 du 06.07.2016: Modification Al. 1; entrée en vigueur au 01.08.2016 · Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Modification Al. 1; entrée en vigueur au 01.08.2026; Abrogation Al. 1, b; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^91-1]: Modif. 1 du 16.02.2011: Modification Al. 2; entrée en vigueur au 01.03.2011 · Modif. 2 du 06.07.2016: Modification Al. 1; entrée en vigueur au 01.08.2016 · Modif. 3 du 30.09.2026: Modification Al. 1; entrée en vigueur au 01.08.2026; Abrogation Al. 1, b; entrée en vigueur au 01.08.2026
 
 #### Art. 93
 
@@ -922,9 +926,9 @@ arrête
 
 **Candidats des écoles privées accréditées [^93-2]**
 
-<sup>1</sup> Les notes d'école attribuées par les écoles privées accréditées non subventionnées ne sont pas prises en considération lors des procédures de qualification standard.
+<sup>1</sup> Les notes d'école attribuées par les écoles privées accréditées non subventionnées sont prises en considération lors des procédures de qualification standard à condition que les exigences des art. 61 à 63 du présent règlement soient appliquées par l'école.
 
-[^93-2]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Modification Al. 1; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^93-2]: Modif. 3 du 30.09.2026: Modification Al. 1; entrée en vigueur au 01.08.2026
 
 #### Art. 95
 
@@ -940,11 +944,11 @@ arrête
 
 #### Art. 97
 
-**Examens avancés [^96-1]**
+**... [^96-1]**
 
-<sup>1</sup> L'examen relatif à un domaine de qualification ou un examen partiel peut être organisé de manière anticipée durant la formation.
+<sup>1</sup> ...
 
-[^96-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^96-1]: Modif. 3 du 30.09.2026: Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026
 
 #### Art. 98
 
@@ -1072,10 +1076,9 @@ arrête
 
 <sup>1</sup> La présente section précise les règles relatives aux formations menant à la maturité professionnelle dans les écoles professionnelles ou de métiers.
 
-<sup>2</sup> Les formations menant à la maturité professionnelle dispensées en Ecole de culture générale et de commerce sont précisées par le règlement des gymnases[^110-1].
+<sup>2</sup> ...
 
-[^sectionSectionI-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Abrogation Al. 2; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
-[^110-1]: Règlement du 06.07.2022 des gymnases ([BLV 412.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.1?id=39748c2b-ab54-481e-9058-5389cd0e6d7e))
+[^sectionSectionI-1]: Modif. 3 du 30.09.2026: Abrogation Al. 2; entrée en vigueur au 01.08.2026
 
 #### Art. 111
 
@@ -1091,38 +1094,38 @@ arrête
 
 **a) Admission modèle "intégré" [^111-1]**
 
-<sup>1</sup> Sont admissibles en écoles de maturité professionnelle du modèle "intégré" les candidats qui remplissent, à la fin de la scolarité obligatoire, les conditions requises pour l'admission à l'école de maturité ou de culture générale et de commerce, en application du règlement des gymnases[^112-1].
+<sup>1</sup> Sont admissibles en écoles de maturité professionnelle du modèle "intégré" les candidats qui remplissent, à la fin de la scolarité obligatoire, les conditions requises pour l'admission à l'école de maturité ou de culture générale, en application du règlement des gymnases.
 
 <sup>2</sup> Sont également admissibles :
 
-- a. les candidats qui ont réussi l'examen d'admission en école de maturité ou en école de culture générale et de commerce ;
+- a. les candidats qui ont réussi l'examen d'admission en école de maturité ou en école de culture générale.
 - b. les candidats qui remplissent les conditions d'admission et dont la candidature a été retenue à l'issue de la procédure d'admission dans leur canton de domicile.
 
-<sup>3</sup> Le département peut exceptionnellement admettre des candidats ne remplissant pas les conditions d'admission si des circonstances particulières le justifient.
+<sup>3</sup> Le département peut exceptionnellement admettre des candidats ne remplissant pas les conditions d'admission lorsque les circonstances du cas le justifient.
 
-[^111-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Modification Al. 1; entrée en vigueur au 01.08.2026; Modification Al. 2, a; entrée en vigueur au 01.08.2026; Modification Al. 3; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
-[^112-1]: Règlement du 06.07.2022 des gymnases ([BLV 412.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.1?id=39748c2b-ab54-481e-9058-5389cd0e6d7e))
+[^111-1]: Modif. 3 du 30.09.2026: Modification Al. 1; entrée en vigueur au 01.08.2026; Modification Al. 2, a; entrée en vigueur au 01.08.2026; Modification Al. 3; entrée en vigueur au 01.08.2026
 
 #### Art. 113
 
-**b) Admission en modèle "post-CFC" [^112-2]**
+**b) Admission en modèle "post-CFC" [^112-1]**
 
 <sup>1</sup> Sont admissibles dans les classes de maturité professionnelle du modèle post-CFC, les titulaires d'un CFC qui :
 
 - a. répondent aux exigences de l'article précédent ou
 - b. ont satisfait aux exigences d'un examen spécifique organisé par le département.
+- c. ont satisfait aux exigences des cours préparatoires à la maturité professionnelle organisés par le département.
 
-<sup>2</sup> Le département peut exceptionnellement admettre des candidats ne remplissant pas les conditions si des circonstances particulières le justifient.
+<sup>2</sup> Le département peut exceptionnellement admettre des candidats ne remplissant pas les conditions d'admission lorsque les circonstances du cas le justifient.
 
-[^112-2]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Al. 1, c; entrée en vigueur au 01.08.2026; Modification Al. 2; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^112-1]: Modif. 3 du 30.09.2026: Introduction Al. 1, c; entrée en vigueur au 01.08.2026; Modification Al. 2; entrée en vigueur au 01.08.2026
 
 #### Art. 114
 
-**Branches mixtes [^113-1]**
+**... [^113-1]**
 
-<sup>1</sup> Sous réserve d'une disposition fédérale contraire, si une branche figure à la fois aux programmes de maturité professionnelle et de CFC (modèle intégré), les moyennes semestrielles et les notes d'examen sont reprises dans les deux bulletins de notes.
+<sup>1</sup> ...
 
-[^113-1]: Modif. 2 du 06.07.2016: Modification Al. 1; entrée en vigueur au 01.08.2016 · Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^113-1]: Modif. 2 du 06.07.2016: Modification Al. 1; entrée en vigueur au 01.08.2016 · Modif. 3 du 30.09.2026: Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026
 
 #### Art. 115
 
@@ -1150,26 +1153,25 @@ arrête
 
 #### Art. 118
 
-**Appréciation des cas limites en cas d'échec à l'examen final [^117-1]**
+**... [^117-1]**
 
-<sup>1</sup> La Conférence du corps enseignant apprécie les cas limites et les circonstances particulières dans le cadre fixé par le département.
+<sup>1</sup> ...
 
-[^117-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^117-1]: Modif. 3 du 30.09.2026: Abrogation tArt; entrée en vigueur au 01.08.2026; Abrogation Al. 1; entrée en vigueur au 01.08.2026
 
 #### Art. 119
 
-**Examens avancés [^118-1]**
+**Examens anticipés [^118-1]**
 
-<sup>1</sup> Le nombre de branches faisant l'objet d'un examen avancé au sens de l'article 25 de l'ordonnance du 24 juin 2009 sur la maturité professionnelle fédérale (ci-après : OMPr) [^119-1] est limité à deux.
+<sup>1</sup> Le nombre de branches faisant l'objet d'un examen anticipé au sens de l'article 21 de l'ordonnance du 13 juin 2025 sur la maturité professionnelle fédérale (ci-après : OMPr) est limité à trois.
 
-<sup>2</sup> Les examens avancés ont lieu à la fin d'un semestre et sont coordonnés par le département comme l'examen final.
+<sup>2</sup> Les examens anticipés ont lieu à la fin d'un semestre et sont coordonnés par le département comme l'examen final.
 
-<sup>3</sup> Les notes des examens avancés sont communiquées aux candidats à l'issue de la session d'examens considérée.
+<sup>3</sup> Les notes des examens anticipés sont communiquées aux candidats à l'issue de la session d'examens considérée.
 
-<sup>4</sup> La répétition d'un ou deux examens avancés insuffisants ne peut avoir lieu qu'à la session suivant le terme de la procédure complète de l'examen final.
+<sup>4</sup> La répétition des examens anticipés insuffisants ne peut avoir lieu qu'à la session suivant le terme de la procédure complète de l'examen final.
 
-[^118-1]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Modification tArt; entrée en vigueur au 01.08.2026; Modification Al. 1-4; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
-[^119-1]: Ordonnance du 24.06.2009 sur la maturité professionnelle fédérale (RS 412.103.1)
+[^118-1]: Modif. 3 du 30.09.2026: Modification tArt; entrée en vigueur au 01.08.2026; Modification Al. 1-4; entrée en vigueur au 01.08.2026
 
 #### Art. 120
 
@@ -1708,16 +1710,14 @@ arrête
 
 <sup>2</sup> Avant de mettre un poste au concours, le département vérifie que l'article 83 LS [^162-1] a été appliqué.
 
-<sup>3</sup> Le département annonce le concours dans la "Feuille des avis officiels du Canton de Vaud", en précisant la nature du poste, les titres exigés, le niveau salarial, les conditions requises (au sens des articles 46 OFPr [^162-2] et 21 OMPr [^162-3] ) et le délai de postulation.
+<sup>3</sup> Le département publie le concours en précisant la nature du poste, les titres exigés, le niveau salarial, les conditions requises (au sens des articles 46 OFPr et 29 OMPr ) et le délai de postulation.
 
 <sup>4</sup> Le département reçoit les dossiers de candidature, les étudie du point de vue de la recevabilité et les transmet au directeur.
 
 <sup>5</sup> Le directeur examine les candidatures et propose ou non au département l'engagement d'un candidat après consultation du Conseil de direction.
 
-[^161-3]: Modif. 3 du 30.09.2026: Introduction Art. 2, Al. 2, h-i; entrée en vigueur au 01.08.2026; Introduction Art. 15, Al. 1bis; entrée en vigueur au 01.08.2026; Introduction Art. 113, Al. 1, c; entrée en vigueur au 01.08.2026; Modification Al. 3; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
+[^161-3]: Modif. 3 du 30.09.2026: Modification Al. 3; entrée en vigueur au 01.08.2026
 [^162-1]: Loi scolaire du 12.06.1984 ([BLV 400.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.01?id=b1e327ed-fc12-4915-b973-282bcee73dab))
-[^162-2]: Ordonnance du 19.11.2003 sur la formation professionnelle (RS 412.101)
-[^162-3]: Ordonnance du 24.06.2009 sur la maturité professionnelle fédérale (RS 412.103.1)
 
 #### Art. 163
 
@@ -2048,3 +2048,13 @@ arrête
 **Entrée en vigueur**
 
 <sup>1</sup> Le département est chargé de l'exécution du présent règlement qui entre en vigueur le 1er août 2010.
+
+#### Art. 197
+
+**Dispositions transitoires de la modification du 30 septembre 2026 [^196-1]**
+
+<sup>1</sup> Les élèves qui ont débuté leur formation dans les écoles de culture générale et de commerce avant le 1er août 2026 l'achèvent selon l'ancien droit.
+
+<sup>2</sup> Les candidats des écoles privées accréditées non-subventionnées ayant commencé leur formation avant le 1er août 2026 l'achèvent selon l'ancien droit.
+
+[^196-1]: Modif. 3 du 30.09.2026: Introduction tArt; entrée en vigueur au 01.08.2026; Introduction Al. 1-2; entrée en vigueur au 01.08.2026; Introduction Art. 197; entrée en vigueur au 01.08.2026
