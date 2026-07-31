@@ -4,22 +4,23 @@ number: "413.228"
 title: Verordnung über die Informatikmittelschule der Kantonsschule Frauenfeld
 short: IMS-Verordnung
 language: de
-version: 2022-04-01
-valid_until: 2026-07-31
-version_adopted: 2022-03-29
+version: 2026-08-01
+version_adopted: 2026-09-15
 adopted: 2020-01-14
 in_force: 2020-02-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.228"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2516/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3046/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Informatikmittelschule der Kantonsschule Frauenfeld
 
-RRV Informatikmittelschule der Kantonsschule Frauenfeld
+IMS-Verordnung
 
-vom 14.01.2020 (Stand 01.04.2022)
+(IMS-Verordnung)
+
+vom 14.01.2020 (Stand 01.08.2026)
 
 ## 1. Allgemeines
 
@@ -27,7 +28,7 @@ vom 14.01.2020 (Stand 01.04.2022)
 
 **Abschluss**
 
-<sup>1</sup> An der Informatikmittelschule (IMS) der Kantonsschule Frauenfeld können das eidgenössische Fähigkeitszeugnis (EFZ) Informatiker oder Informatikerin Fachrichtung Applikationsentwicklung und die eidgenössische Berufsmaturität (BM) Wirtschaft und Dienstleistung, Typ Wirtschaft, erworben werden.
+<sup>1</sup> An der Informatikmittelschule (IMS) der Kantonsschule Frauenfeld können das eidgenössische Fähigkeitszeugnis (EFZ) Informatikerin/Informatiker Fachrichtung Applikationsentwicklung und die eidgenössische Berufsmaturität (BM) Wirtschaft und Dienstleistung, Typ Wirtschaft, erworben werden.
 
 #### § 2
 
@@ -43,7 +44,7 @@ vom 14.01.2020 (Stand 01.04.2022)
 
 **Anwendbares Recht**
 
-<sup>1</sup> Die Ausbildung richtet sich nach den Vorschriften des Bundes, namentlich der Verordnung des SBFI über die berufliche Grundbildung Informatikerin/Informatiker mit eidgenössischem Fähigkeitszeugnis EFZ[^3-1] und die Verordnung über die eidgenössische Berufsmaturität (BMV)[^3-2].
+<sup>1</sup> Die Ausbildung richtet sich nach den Vorschriften des Bundes, namentlich der Verordnung des SBFI über die berufliche Grundbildung Informatikerin/Informatiker mit eidgenössischem Fähigkeitszeugnis EFZ[^3-1] und der Verordnung über die eidgenössische Berufsmaturität (BMV)[^3-2].
 
 <sup>2</sup> Die Bestimmungen der vorliegenden Verordnung sind ergänzend anwendbar.
 
@@ -102,7 +103,7 @@ vom 14.01.2020 (Stand 01.04.2022)
 
 <sup>1</sup> Der Unterricht richtet sich nach der Stundentafel im Anhang.
 
-<sup>2</sup> Zusätzlich ist im Laufe der Ausbildung eine selbständige Arbeit zu verfassen.
+<sup>2</sup> …
 
 #### § 9
 
@@ -110,7 +111,7 @@ vom 14.01.2020 (Stand 01.04.2022)
 
 <sup>1</sup> Am Ende eines Semesters erhalten die Schülerinnen und Schüler ein Zeugnis.
 
-<sup>2</sup> Die EFZ- und die BM-Fächer gemäss Stundentafel und die selbständige Arbeit werden wie folgt mit Noten bewertet:
+<sup>2</sup> Die EFZ- und die BM-Fächer gemäss Stundentafel werden wie folgt mit Noten bewertet:
 
 - 1\. Note 6: sehr gut
 - 2\. Note 5: gut
@@ -191,7 +192,7 @@ vom 14.01.2020 (Stand 01.04.2022)
 
 **Interdisziplinäre Projektarbeit (IDPA)**
 
-<sup>1</sup> Zur Erlangung der Berufsmaturität ist im 4. Ausbildungsjahr die IDPA zu absolvieren. Themenwahl, Betreuung, Durchführung, Bewertung und Bestehensnorm richten sich nach dem Rahmenlehrplan des Bundes für die Berufsmaturität Wirtschaft und Dienstleistung, Typ Wirtschaft (Rahmenlehrplan), und den darauf aufbauenden Allgemeinen Bestimmungen der IMS zur IDPA.
+<sup>1</sup> Zur Erlangung der Berufsmaturität ist im 3. Ausbildungsjahr die IDPA zu absolvieren. Themenwahl, Betreuung, Durchführung, Bewertung und Bestehensnorm richten sich nach dem eidgenössischen Rahmenlehrplan für die Berufsmaturität und den allgemeinen Bestimmungen der IMS zur IDPA.
 
 <sup>2</sup> Die Bewertung erfolgt mit Noten gemäss § 9 Abs. 2 und Abs. 3.
 
@@ -218,6 +219,8 @@ vom 14.01.2020 (Stand 01.04.2022)
 **Ausweise**
 
 <sup>1</sup> Die Resultate der Informatik-Grundbildung, der Module der überbetrieblichen Kurse und der IPA werden dem ABB mitgeteilt.
+
+<sup>1<sup>bis</sup></sup> Die schriftlichen Prüfungen werden gemeinsam mit dem Bildungszentrum für Wirtschaft Weinfelden erstellt.
 
 <sup>2</sup> Das Eidgenössische Fähigkeitszeugnis wird vom ABB, der Notenausweis von der Schule ausgestellt.
 
@@ -253,7 +256,7 @@ vom 14.01.2020 (Stand 01.04.2022)
 
 **Hilfsmittel**
 
-<sup>1</sup> Die Schulleitung bezeichnet auf Antrag der Fachlehrpersonen die erlaubten Hilfsmittel.
+<sup>1</sup> Die erlaubten Hilfsmittel werden entsprechend § 22 Abs. 1<sup>bis</sup> gemeinsam festgelegt und von der Schulleitung bestätigt.
 
 #### § 27
 
@@ -273,9 +276,9 @@ vom 14.01.2020 (Stand 01.04.2022)
 
 <sup>2</sup> Die Prüfung ist bestanden, wenn
 
-- 1\. ein Notendurchschnitt von mindestens 4 erreicht wird,
-- 2\. nicht mehr als zwei Berufsmaturanoten unter 4 erteilt wurden und
-- 3\. die Differenz der ungenügenden Berufsmaturanoten zur Note 4 gesamthaft den Wert 2 nicht übersteigt.
+- 1\. die Gesamtnote mindestens 4 beträgt,
+- 2\. nicht mehr als zwei Abschlussnoten unter 4 erteilt wurden und
+- 3\. die Differenz der ungenügenden Abschlussnoten zur Note 4 gesamthaft den Wert 2 nicht übersteigt.
 
 <sup>3</sup> Wer unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat die Prüfung nicht bestanden.
 
