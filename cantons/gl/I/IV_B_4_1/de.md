@@ -4,13 +4,12 @@ number: IV B/4/1
 title: Reglement über die Organisation der Kantonsschule
 short: "Organisationsreglement Kantonsschule, KOR"
 language: de
-version: 2020-06-01
-valid_until: 2026-07-31
-version_adopted: 2020-04-30
+version: 2026-08-01
+version_adopted: 2026-06-11
 adopted: 2020-04-30
 in_force: 2020-06-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.4.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2163/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2163/pdf_file"
 
 (Organisationsreglement Kantonsschule, KOR)
 
-Vom 30.04.2020 (Stand 01.06.2020)
+Vom 30.04.2020 (Stand 01.08.2026)
 
 Der Kantonsschulrat,
 
@@ -35,15 +34,11 @@ erlässt:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement bestimmt die Organisation der Kantonsschule, soweit dafür der Kantonsschulrat zuständig ist.
+<sup>1</sup> Dieses Reglement bestimmt die Organisation inklusive Regelungen zur Kostentragung und zum Disziplinarrecht der Kantonsschule samt der zugehörigen Sportschule, soweit dafür der Kantonsschulrat zuständig ist.
 
 #### Art. 2
 
-**Führungsgrundsatz**
-
-<sup>1</sup> Die Schulleitung führt die Schule kooperativ und bezieht die Lehrerschaft bei der Gestaltung der Schule in ihre Entscheidungsprozesse ein.
-
-<sup>2</sup> Sie hat dabei die Bedürfnisse aller Beteiligten (Lehrpersonen, Schülerschaft, Eltern) zu berücksichtigen.
+**…**
 
 ## 2. Konvente
 
@@ -79,15 +74,16 @@ erlässt:
 
 - a. Beratung der Schulorganisation;
 - b. Beratung pädagogischer und methodischer Fragen;
-- c. Ernennung von Kommissionen und Erteilung der Aufträge;
-- d. Entscheidung über Schulanlässe und Konventionen;
+- c. …
+- d. Beratung über Schulanlässe und Entscheidung über Konventionen;
 - e. Wahl einer Lehrperson als Vertretung im Kantonsschulrat für vier Jahre sowie Wahl einer Stellvertretung;
 - f. Genehmigung des Protokolls;
 - g. Verfassen von Stellungnahmen zu Anfragen;
-- h. vorgängige Stellungnahme zu Weisungen der Schulleitung, welche die Lehrerschaft betreffen;
+- h. Stellungnahme zu Weisungen der Schulleitung, welche die Lehrerschaft betreffen;
 - i. Mitarbeit bei Weisungen, welche den Unterricht betreffen;
-- j. Anhörungsrecht vor der Wahl eines neuen Schulleitungsmitglieds gemäss Artikel 8 der Bildungsangebotsverordnung (BAV)[^5-1];
-- k. Antragsrecht an den Kantonsschulrat.
+- j. Anhörungsrecht vor der Wahl einer neuen Schulleitung gemäss Artikel 8 der Bildungsangebotsverordnung (BAV)[^5-1];
+- k. Antragsrecht an den Kantonsschulrat;
+- l. Antragsrecht an die Schulleitung.
 
 [^5-1]: GS [IV B/1/5](https://gesetze.gl.ch/data/IV-B.1.5/de)
 
@@ -95,7 +91,7 @@ erlässt:
 
 **Einberufung und Leitung**
 
-<sup>1</sup> Der Rektor bzw. die Rektorin beruft den Gesamtkonvent ein und leitet die Verhandlungen.
+<sup>1</sup> Die Schulleitung beruft den Gesamtkonvent ein und leitet die Verhandlungen.
 
 <sup>2</sup> Auf Verlangen von fünf Konventsmitgliedern muss ein Gesamtkonvent einberufen werden.
 
@@ -107,7 +103,7 @@ erlässt:
 
 **Zusammensetzung**
 
-<sup>1</sup> Alle Lehrpersonen, die in einer bestimmten Klasse unterrichten, sowie ein Mitglied der Schulleitung bilden den Klassenkonvent.
+<sup>1</sup> Alle Lehrpersonen, die in einer bestimmten Klasse unterrichten, sowie die Schulleitung oder ein Prorektor bzw. eine Prorektorin bilden den Klassenkonvent.
 
 <sup>2</sup> Die Schulleitung kann Experten beiziehen.
 
@@ -193,7 +189,7 @@ erlässt:
 
 <sup>2</sup> Die Beschlüsse werden in einem Protokoll festgehalten und an die Schulleitung weitergeleitet.
 
-<sup>3</sup> Die vorsitzende Lehrperson wirkt bei der Anstellung neuer Lehrpersonen mit.
+<sup>3</sup> Die vorsitzende Lehrperson wirkt auf Anfrage der Schulleitung hin bei der Anstellung neuer Lehrpersonen mit.
 
 ## 5. Mentorate
 
@@ -213,10 +209,56 @@ erlässt:
 
 #### Art. 17
 
-**Vertretung im Kantonsschulrat und Mitwirkung in der Schulleitung**
+**Vertretung im Kantonsschulrat und Beratung der Schulleitung**
 
 <sup>1</sup> Die Lehrervertretung orientiert die Lehrerschaft über Beschlüsse des Kantonsschulrates mittels separatem Protokoll.
 
-<sup>2</sup> Die Vertretung kann bei Bedarf zu den Sitzungen der Schulleitung eingeladen werden.
+<sup>2</sup> Die Schulleitung kann die Vertretung bei Bedarf zur Beratung einladen.
+
+## 7. Kostentragung
+
+#### Art. 18
+
+**Kostenbeteiligung gemäss Artikel 11 des Bildungsgesetzes[^18-1]**
+
+<sup>1</sup> Die Schulleitung definiert die Höhe der Beiträge nach Artikel 11 Absatz 2 des Bildungsgesetzes.
+
+<sup>2</sup> Die Schulleitung ist die zuständige Behörde im Sinne von Artikel 11 Absätze 3 und 4 des Bildungsgesetzes.
+
+<sup>3</sup> Die Verrechnung der Kosten nach Artikel 11 Absatz 3 des Bildungsgesetzes kann nach Aufwand oder durch eine Pauschale, welche die Schulleitung festlegt, erfolgen.
+
+[^18-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
+
+## 8. Disziplinarrecht
+
+#### Art. 19
+
+**Disziplinarmassnahmen**
+
+<sup>1</sup> Im Rahmen des Unterrichtes können die Lehrpersonen unter anderem die folgenden disziplinarischen Massnahmen treffen:
+
+- a. Wegweisung von Prüfung und Unterrichtslektion;
+- b. Ausschluss während ein- bis maximal zweitägigen Ausflügen;
+- c. Nachsitzen;
+- d. Ermahnung mit Meldung an die Schulleitung.
+
+<sup>2</sup> Die Schulleitung kann im Sinne der weitergehenden Massnahmen nach Artikel 45 Absatz 2 des Bildungsgesetzes unter anderem die folgenden Massnahmen treffen:
+
+- a. Arbeit im Dienste der Schule;
+- b. vorübergehender Ausschluss vom Unterricht bis maximal 21 Tage.
+
+#### Art. 20
+
+**Ausschluss**
+
+<sup>1</sup> Für einen definitiven Ausschluss durch die Schulleitung im Wiederholungsfalle gelten als schuldhafte Beanstandungen im Sinne des Bildungsgesetzes nebst Verstössen gegen die Schulordnung unter anderem Prüfungsbetrug, Stören des Unterrichtes, unerlaubte Einnahme von Suchtmitteln, ausstehende Elternbeiträge und Schulgelder sowie generell unsittliches und widerrechtliches Verhalten.
+
+<sup>2</sup> Als schwere Verfehlung für einen sofortigen Ausschluss durch die Schulleitung wird insbesondere der Handel mit Suchtmitteln auf dem Schulareal, Diebstahl, absichtliche Körperverletzungen und generell Widerhandlungen mit strafrechtlichem Charakter behandelt. Eine strafrechtliche Verurteilung wird nicht benötigt.
+
+#### Art. 21
+
+**Absenzenwesen**
+
+<sup>1</sup> Das Absenzenwesen richtet sich nach den Weisungen der Schulleitung.
 
 SBE 2020 18
