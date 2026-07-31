@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260801-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. Januar 2026)
+vom 4. Dezember 2015 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -55,29 +55,30 @@ In dieser Verordnung bedeuten:
 
 - a.[^3-1]
 
-  *Siedlungsabfälle:*
+  *Siedlungsabfälle**:*
 
   - 1\. aus Haushalten stammende Abfälle,
   - 2\. aus Unternehmen mit weniger als 250 Vollzeitstellen stammende Abfälle, deren Zusammensetzung betreffend Inhaltsstoffe und Mengenverhältnisse mit Abfällen aus Haushalten vergleichbar ist,
-  - 3\. aus öffentlichen Verwaltungen stammende Abfälle, deren Zusammensetzung betreffend Inhaltsstoffe und Mengenverhältnisse mit Abfällen aus Haushalten vergleichbar ist;
+  - 3\. aus öffentlichen Verwaltungen stammende Abfälle, deren Zusammensetzung betreffend Inhaltsstoffe und Mengenverhältnisse mit Abfällen aus Haushalten vergleichbar ist,
+  - 4\.[^3-2] alle Rückstände, die in Anlagen zur thermischen Behandlung von Abfällen nach den Ziffern 1–3 anfallen, bis sie verwertet oder abgelagert worden sind;
 
 - b. *Unternehmen*: rechtliche Einheit mit einer eigenen Unternehmens-Identifikationsnummer oder solche in einem Konzern zusammengeschlossene Einheiten mit einem gemeinsam organisierten Abfallentsorgungssystem;
-- c. *Sonderabfälle:* Abfälle, die im Abfallverzeichnis, das nach Artikel 2 der Verordnung vom 22. Juni 2005[^3-2] über den Verkehr mit Abfällen (VeVA) erlassen wurde, als Sonderabfälle bezeichnet sind;
+- c. *Sonderabfälle:* Abfälle, die im Abfallverzeichnis, das nach Artikel 2 der Verordnung vom 22. Juni 2005[^3-3] über den Verkehr mit Abfällen (VeVA) erlassen wurde, als Sonderabfälle bezeichnet sind;
 - d. *Biogene Abfälle:* Abfälle pflanzlicher, tierischer oder mikrobieller Herkunft;
 - e. *Bauabfälle:* Abfälle, die bei Neubau-, Umbau- oder Rückbauarbeiten von ortsfesten Anlagen anfallen;
 - f. *Aushub- und Ausbruchmaterial:* Material, das bei Bauarbeiten ausgehoben oder ausgebrochen wird, ausgenommen ist abgetragener Ober- und Unterboden;
-- f<sup>bis</sup>.[^3-3]
+- f<sup>bis</sup>.[^3-4]
 
   *Quecksilberabfälle*:
 
   - 1\. Abfälle, die Quecksilber oder Quecksilberverbindungen enthalten,
-  - 2\. aus der Behandlung von Quecksilberabfällen nach Ziffer 1 stammendes Quecksilber oder stammende Quecksilberverbindungen; davon ausgenommen ist Quecksilber, dessen Ausfuhr nach Anhang 1.7 Ziffer 2.2.4 oder 4.2 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^3-4] (ChemRRV) bewilligt worden ist,
+  - 2\. aus der Behandlung von Quecksilberabfällen nach Ziffer 1 stammendes Quecksilber oder stammende Quecksilberverbindungen; davon ausgenommen ist Quecksilber, dessen Ausfuhr nach Anhang 1.7 Ziffer 2.2.4 oder 4.2 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^3-5] (ChemRRV) bewilligt worden ist,
   - 3\. Quecksilber oder Quecksilberverbindungen, das oder die bei industriellen Prozessen nicht mehr benötigt wird oder werden;
 
 - g. *Abfallanlagen:* Anlagen, in denen Abfälle behandelt, verwertet, abgelagert oder zwischengelagert werden, ausgenommen sind Materialentnahmestellen, in denen Aushub- und Ausbruchmaterial verwertet wird;
-- h.[^3-5] …
+- h.[^3-6] …
 - i. *Kompostierungsanlagen:* Abfallanlagen, in denen biogene Abfälle unter Luftzufuhr verrottet werden;
-- j.[^3-6] *Vergärungsanlagen:* Abfallanlagen, in denen biogene Abfälle unter Luftabschluss vergärt werden;
+- j.[^3-7] *Vergärungsanlagen:* Abfallanlagen, in denen biogene Abfälle unter Luftabschluss vergärt werden;
 - k. *Deponien:* Abfallanlagen, in denen Abfälle kontrolliert abgelagert werden;
 - l. *Thermische Behandlung*: die Behandlung von Abfällen mit so hoher Temperatur, dass umweltgefährdende Stoffe zerstört oder durch Mineralisierung physikalisch oder chemisch gebunden werden;
 - m.
@@ -85,14 +86,26 @@ In dieser Verordnung bedeuten:
   *Stand der Technik:* der aktuelle Entwicklungsstand von Verfahren, Einrichtungen und Betriebsweisen, der:
 
   - 1\. bei vergleichbaren Anlagen oder Tätigkeiten im In- oder Ausland erfolgreich erprobt ist oder bei Versuchen erfolgreich eingesetzt wurde und nach den Regeln der Technik auf andere Anlagen oder Tätigkeiten übertragen werden kann, und
-  - 2\. für einen mittleren und wirtschaftlich gesunden Betrieb der betreffenden Branche wirtschaftlich tragbar ist.
+  - 2\. für einen mittleren und wirtschaftlich gesunden Betrieb der betreffenden Branche wirtschaftlich tragbar ist;
+
+- n.[^3-8] *Wiederverwendung**:* Verfahren, bei dem Gegenstände und deren Bestandteile, die keine Abfälle sind oder ihre Abfalleigenschaft nach dem Durchlaufen eines Verwertungsverfahrens verloren haben, wieder für denselben Zweck, für den sie ursprünglich bestimmt waren, oder einen vergleichbaren Zweck eingesetzt werden;
+- o.[^3-9] *Vorbereitung zur* *Wiederverwendung**:* Verwertungsverfahren, bei dem Abfälle durch Behandlungsschritte wie Prüfung, Reinigung, Reparatur so aufbereitet werden, dass sie wiederverwendet werden können;
+- p.[^3-10] *stoffliche Verwertung**:* Verwertungsverfahren, bei dem die stofflichen Eigenschaften von Abfällen genutzt werden, indem die Abfälle so behandelt werden, dass sie als Sekundärrohstoffe wieder eingesetzt werden können;
+- q.[^3-11] *stofflich-energetische Verwertun*g*:* Verwertungsverfahren, bei dem Abfälle gleichzeitig sowohl stofflich als auch energetisch verwertet werden;
+- r.[^3-12] *energetische Verwertung**:* Verwertungsverfahren, bei dem Abfälle im Rahmen ihrer Entsorgung als Energiequelle genutzt werden.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-2]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
-[^3-3]: Eingefügt durch Ziff. II 1 der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^3-4]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
-[^3-5]: Aufgehoben durch Ziff. I der V vom 12. Febr. 2020, mit Wirkung seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-6]: Die Berichtigung vom 19. Juli 2016 betrifft nur den italienischen Text ([AS 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
+[^3-2]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-3]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^3-4]: Eingefügt durch Ziff. II 1 der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^3-5]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^3-6]: Aufgehoben durch Ziff. I der V vom 12. Febr. 2020, mit Wirkung seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^3-7]: Die Berichtigung vom 19. Juli 2016 betrifft nur den italienischen Text ([AS 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
+[^3-8]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-9]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-10]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-11]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-12]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ## 2. Kapitel: Planung und Berichterstattung
 
@@ -184,9 +197,11 @@ Abfälle dürfen nicht mit anderen Abfällen oder mit Zuschlagstoffen vermischt 
 
 #### Art. 10
 
-**Pflicht zur thermischen Behandlung**
+**Pflicht zur thermischen Behandlung**[^10-1]
 
-Siedlungsabfälle und Abfälle vergleichbarer Zusammensetzung, Klärschlamm, brennbare Anteile von Bauabfällen und andere brennbare Abfälle müssen in geeigneten Anlagen thermisch behandelt werden, soweit sie nicht stofflich verwertet werden können.
+Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 und Abfälle vergleichbarer Zusammensetzung, Klärschlamm, brennbare Anteile von Bauabfällen und andere brennbare Abfälle müssen in geeigneten Anlagen thermisch behandelt werden, soweit sie nicht der Wiederverwendung zugeführt oder stofflich oder zumindest stofflich-energetisch verwertet werden können.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 2. Abschnitt: Vermeidung von Abfällen
 
@@ -200,49 +215,49 @@ Siedlungsabfälle und Abfälle vergleichbarer Zusammensetzung, Klärschlamm, bre
 
 #### Art. 12
 
-**Allgemeine Verwertungspflicht nach dem Stand der Technik**
+**Allgemeine Verwertungspflicht nach dem Stand der Technik**[^12-1]
 
-<sup>1</sup>
+Jede Verwertung nach Artikel 30*d* Absätze 1–3 USG muss nach dem Stand der Technik erfolgen.
 
-Abfälle sind stofflich oder energetisch zu verwerten, wenn eine Verwertung die Umwelt weniger belastet als:
-
-- a. eine andere Entsorgung; und
-- b. die Herstellung neuer Produkte oder die Beschaffung anderer Brennstoffe.
-
-<sup>2</sup> Die Verwertung muss nach dem Stand der Technik erfolgen.
+[^12-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 13
 
 **Siedlungsabfälle und Abfälle vergleichbarer Zusammensetzung**
 
-<sup>1</sup> Die Kantone sorgen dafür, dass verwertbare Anteile von Siedlungsabfällen wie Glas, Papier, Karton, Metalle, Grünabfälle und Textilien so weit wie möglich getrennt gesammelt und stofflich verwertet werden.
+<sup>1</sup> Die Kantone sorgen dafür, dass verwertbare Anteile von Siedlungsabfällen nach Artikel 3 Buchstabe a Ziffern 1–3 wie Glas, Papier, Karton, Metalle, biogene Abfälle und Textilien so weit wie möglich getrennt gesammelt und für die Wiederverwendung vorbereitet oder stofflich verwertet werden.[^13-1]
 
 <sup>2</sup>
 
 Sie sorgen dafür, dass getrennt gesammelt und entsorgt werden:
 
 - a. Sonderabfälle aus Haushalten;
-- b.[^13-1] nicht betriebsspezifische Sonderabfälle bis zu 20 kg pro Anlieferung aus Unternehmen und öffentlichen Verwaltungen mit weniger als 10 Vollzeitstellen.
+- b.[^13-2] nicht betriebsspezifische Sonderabfälle bis zu 20 kg pro Anlieferung aus Unternehmen und öffentlichen Verwaltungen mit weniger als 10 Vollzeitstellen.
 
 <sup>3</sup> Sie sorgen für die Bereitstellung der zur Erfüllung der Absätze 1 und 2 notwendigen Infrastruktur, insbesondere für die Einrichtung von Sammelstellen. Wenn nötig sorgen sie ausserdem für die Durchführung regelmässiger Sammlungen.
 
-<sup>4</sup> Die Inhaberinnen und Inhaber von Abfällen aus Unternehmen mit 250 oder mehr Vollzeitstellen müssen verwertbare Anteile ihrer Abfälle, die von der Zusammensetzung her mit Siedlungsabfällen vergleichbar sind, so weit wie möglich und sinnvoll getrennt sammeln und stofflich verwerten.
+<sup>4</sup> Die Inhaberinnen und Inhaber von Abfällen aus Unternehmen mit 250 oder mehr Vollzeitstellen müssen verwertbare Anteile ihrer Abfälle, die von der Zusammensetzung her mit Siedlungsabfällen nach Artikel 3 Buchstabe a Ziffern 1–3 vergleichbar sind, so weit wie möglich und sinnvoll getrennt sammeln und für die Wiederverwendung vorbereiten oder stofflich verwerten.[^13-3]
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14
 
-**Biogene Abfälle**
+**Biogene Abfälle**[^14-1]
 
-<sup>1</sup>
+<sup>1</sup> Biogene Abfälle, die sich für eine Verwertung nach Absatz 2 eignen, sind separat zu sammeln und Fremdstoffe sind so früh wie möglich zu entfernen.
+
+<sup>2</sup>
 
 Biogene Abfälle sind rein stofflich oder durch Vergären zu verwerten, sofern:
 
-- a. sie sich aufgrund ihrer Eigenschaften, insbesondere ihrer Nährstoff- und Schadstoffgehalte, dafür eignen;
-- b. sie separat gesammelt wurden; und
-- c. die Verwertung nicht durch andere Vorschriften des Bundesrechts untersagt ist.
+- a. sie sich aufgrund ihrer Eigenschaften, insbesondere ihrer Nährstoff- und Schadstoffgehalte, dafür eignen; und
+- b. die Verwertung nicht durch andere Vorschriften des Bundesrechts untersagt ist.
 
-<sup>2</sup> Biogene Abfälle, die nicht nach Absatz 1 verwertet werden müssen, sind so weit wie möglich und sinnvoll rein energetisch zu verwerten oder in geeigneten Anlagen thermisch zu behandeln. Dabei ist deren Energiegehalt zu nutzen.
+<sup>3</sup> Biogene Abfälle, die nicht nach Absatz 2 verwertet werden müssen, sind so weit wie möglich und sinnvoll rein energetisch zu verwerten oder in geeigneten Anlagen thermisch zu behandeln. Dabei ist deren Energiegehalt zu nutzen.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14a
 
@@ -250,9 +265,10 @@ Biogene Abfälle sind rein stofflich oder durch Vergären zu verwerten, sofern:
 
 <sup>1</sup> Holzabfälle, welche die Anforderungen nach Anhang 7 Ziffer 1 erfüllen, dürfen für die stoffliche Verwertung in Holzwerkstoffen eingesetzt werden.
 
-<sup>2</sup> Holzabfälle, welche die Anforderungen nach Anhang 7 Ziffer 2 erfüllen, dürfen in Altholzfeuerungen thermisch verwertet werden.
+<sup>2</sup> Holzabfälle, welche die Anforderungen nach Anhang 7 Ziffer 2 erfüllen, dürfen in Altholzfeuerungen energetisch verwertet werden.[^14a-2]
 
 [^14a-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^14a-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 15
 
@@ -417,7 +433,9 @@ Aus der leichtesten Fraktion, die bei der Zerkleinerung von metallhaltigen Abfä
 
 <sup>1</sup> Aus Strassensammlerschlämmen und aus Strassenwischgut mit überwiegend mineralischer Zusammensetzung sind verwertbare Anteile wie Splitt, Sand und Kies abzutrennen und stofflich zu verwerten.
 
-<sup>2</sup> Die restlichen Anteile von Strassenwischgut nach Absatz 1 sowie anderes Strassenwischgut, das Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung oder einen hohen biogenen Anteil enthält, müssen in geeigneten Anlagen thermisch behandelt werden.
+<sup>2</sup> Die restlichen Anteile von Strassenwischgut nach Absatz 1 sowie anderes Strassenwischgut, das Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 oder Abfälle vergleichbarer Zusammensetzung oder einen hohen biogenen Anteil enthält, müssen in geeigneten Anlagen thermisch behandelt werden.[^22-1]
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 23
 
@@ -435,11 +453,11 @@ Elektroofenschlacke darf mit Zustimmung der kantonalen Behörde nur verwertet we
 
 **Verwertung von Abfällen bei der Herstellung von Zement und Beton**
 
-<sup>1</sup> Abfälle dürfen als Rohmaterial, als Rohmehlkorrekturstoffe, als Brennstoffe oder als Zumahl- oder Zuschlagstoffe bei der Herstellung von Zement und Beton verwendet werden, wenn sie die Anforderungen nach Anhang 4 erfüllen. Als Rohmaterial oder als Brennstoffe dürfen jedoch keine gemischten Siedlungsabfälle und keine gemischt gesammelten und nachträglich sortierten Siedlungsabfälle verwendet werden. Sortierreste, die sich aus der Behandlung von getrennt gesammelten Siedlungsabfällen ergeben und die nicht stofflich verwertet werden können, dürfen bei der Herstellung von Zement und Beton als Brennstoff verwendet werden.[^24-1]
+<sup>1</sup> Abfälle dürfen als Rohmaterial, als Rohmehlkorrekturstoffe, als Brennstoffe oder als Zumahl- oder Zuschlagstoffe bei der Herstellung von Zement und Beton verwendet werden, wenn sie die Anforderungen nach Anhang 4 erfüllen. Als Rohmaterial oder als Brennstoffe dürfen jedoch keine gemischten und keine gemischt gesammelten und nachträglich sortierten Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 verwendet werden. Sortierreste, die sich aus der Behandlung von getrennt gesammelten Siedlungsabfällen ergeben und die nicht stofflich verwertet werden können, dürfen bei der Herstellung von Zement und Beton als Brennstoff verwendet werden.[^24-1]
 
 <sup>2</sup> Stäube aus der Abluftfilterung von Anlagen zur Herstellung von Zementklinker müssen als Zumahlstoffe beim Mahlen von Zementklinker oder als Zuschlagstoffe bei der Herstellung von Zement verwertet werden. Dabei darf der Schwermetallgehalt des hergestellten Zements die Grenzwerte nach Anhang 4 Ziffer 3.2 nicht überschreiten.
 
-[^24-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^24-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 4. Abschnitt: Ablagerung von Abfällen
 
@@ -548,11 +566,11 @@ Anlagen zur thermischen Behandlung von Abfällen dürfen errichtet oder in ihrer
 
 - a. keine diffusen Abgase austreten;
 - b.[^31-2] bei Anlagen, in denen flüssige Abfälle mit einem Flammpunkt unter 60 °C und infektiöse Sonderabfälle behandelt werden, solche Abfälle getrennt von den anderen Abfällen und möglichst direkt in den Raum, in dem die thermische Behandlung stattfindet, eingebracht werden können;
-- c.[^31-3] bei Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, mindestens 80 Prozent des Energiegehalts ausserhalb der Anlagen genutzt wird; die Nutzung von Energie zur Abscheidung von CO<sub>2</sub> aus dem Rauchgas gilt als Nutzung ausserhalb der Anlagen.
+- c.[^31-3] bei Anlagen, in denen Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, mindestens 80 Prozent des Energiegehalts ausserhalb der Anlagen genutzt wird; die Nutzung von Energie zur Abscheidung von CO<sub>2</sub> aus dem Rauchgas gilt als Nutzung ausserhalb der Anlagen.
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^31-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^31-3]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^31-3]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 32
 
@@ -564,19 +582,20 @@ Anlagen zur thermischen Behandlung von Abfällen dürfen errichtet oder in ihrer
 
 Inhaberinnen und Inhaber von Anlagen müssen diese so betreiben, dass:
 
-- a.[^32-1] von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung mindestens 55 Prozent des Energiegehalts ausserhalb der Anlagen genutzt wird; die Nutzung von Energie zur Abscheidung von CO<sub>2</sub> aus dem Rauchgas gilt als Nutzung ausserhalb der Anlagen;
+- a.[^32-1] von Siedlungsabfällen nach Artikel 3 Buchstabe a Ziffern 1–3 und Abfällen vergleichbarer Zusammensetzung mindestens 55 Prozent des Energiegehalts ausserhalb der Anlagen genutzt wird; die Nutzung von Energie zur Abscheidung von CO<sub>2</sub> aus dem Rauchgas gilt als Nutzung ausserhalb der Anlagen;
 - b. halogenierte organische Verbindungen bei der Behandlung möglichst vollständig zersetzt und nur minimal neu gebildet werden;
 - c.[^32-2] Sonderabfälle, die mehr als ein Gewichtsprozent organisch gebundene Halogene enthalten, bei einer Mindesttemperatur von 1100 °C während mindestens 2 Sekunden behandelt werden; die Behörde kann andere Mindesttemperaturen und Verweilzeiten zulassen, wenn nachgewiesen wird, dass dadurch nicht mehr Verbrennungsrückstände entstehen und diese keine höheren Gehalte an organischen Schadstoffen wie PAK, PCDD, PCDF, PCB enthalten;
 - d.[^32-3] flüssige Abfälle mit einem Flammpunkt unter 60 °C und infektiöse Sonderabfälle getrennt von den anderen Abfällen und möglichst direkt in den Raum, in dem die thermische Behandlung stattfindet, eingebracht werden;
 - e. die Schlacke höchstens zwei Gewichtsprozent unverbrannte Anteile, gemessen als gesamter organischer Kohlenstoff (TOC), enthält;
 - f. im Falle einer Betriebsstörung alle Abfälle, die sich im Raum der thermischen Behandlung befinden, fertig behandelt werden;
-- g. bei Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, Metalle aus der Filterasche zurückgewonnen werden;
-- h.[^32-4] bei einem Unterbruch der Versorgung mit notwendigen Betriebsmitteln eine Reserve zur Verfügung steht, mit welcher der Regelbetrieb für mindestens zwei Monate sichergestellt ist.
+- g.[^32-4] bei Anlagen, in denen Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, Metalle aus der Filterasche zurückgewonnen werden;
+- h.[^32-5] bei einem Unterbruch der Versorgung mit notwendigen Betriebsmitteln eine Reserve zur Verfügung steht, mit welcher der Regelbetrieb für mindestens zwei Monate sichergestellt ist.
 
-[^32-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^32-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 [^32-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^32-3]: Fassung gemäss Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^32-4]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^32-4]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^32-5]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 4. Abschnitt: Kompostierungs- und Vergärungsanlagen
 
@@ -598,21 +617,24 @@ Die baulichen Einrichtungen müssen gewährleisten, dass:
 
 #### Art. 34
 
-**Betrieb**
+**Betrieb**[^34-1]
 
-<sup>1</sup> In Kompostierungs- und Vergärungsanlagen, die jährlich mehr als 100 t Abfälle annehmen, dürfen nur biogene Abfälle verrottet oder vergärt werden, die sich aufgrund ihrer Eigenschaften, insbesondere ihrer Nähr- und Schadstoffgehalte, für das entsprechende Verfahren und für die Verwertung als Dünger im Sinne von Artikel 5 der Dünger-Verordnung vom 10. Januar 2001[^34-1] (DüV) eignen. Ausgenommen vom Erfordernis der Eignung als Dünger sind Abfälle, die in Anlagen zur Co-Vergärung in Abwasserreinigungsanlagen vergärt werden.
+<sup>1</sup> In Kompostierungs- und Vergärungsanlagen müssen biogene Abfälle kompostiert oder vergärt werden, die sich aufgrund ihrer Eigenschaften, insbesondere ihrer Nährstoff-, Schadstoff- und Fremdstoffgehalte, für das entsprechende Verfahren und für die Verwertung als Dünger im Sinne von Artikel 2 Absatz 1 Buchstabe a der Dünger-Verordnung vom 1. November 2023[^34-2] (DüV) eignen. Ausgenommen vom Erfordernis der Eignung als Dünger sind Abfälle, die in Anlagen zur Co-Vergärung in Abwasserreinigungsanlagen vergärt werden.
 
-<sup>2</sup>
+<sup>2</sup> Sortenreine sowie nährstoffreiche biogene Abfälle müssen vorrangig in Kompostierungs- und Vergärungsanlagen ausserhalb von Abwasserreinigungsanlagen verwertet werden.
 
-Verpackte biogene Abfälle dürfen in Kompostierungs- und Vergärungsanlagen nach Absatz 1 ausserhalb von Abwasserreinigungsanlagen nur verrottet oder vergärt werden, wenn:
+<sup>3</sup>
 
-- a. die Verpackung biologisch abbaubar ist und sich für das entsprechende Verfahren eignet; oder
-- b. die Verpackung vor oder während der Verrottung oder Vergärung möglichst vollständig entfernt wird.
+Verpackte biogene Abfälle dürfen in Kompostierungs- und Vergärungsanlagen nach Absatz 1 ausserhalb von Abwasserreinigungsanlagen nur kompostiert oder vergärt werden, wenn:
 
-<sup>3</sup> Im Übrigen gelten die Vorschriften der DüV und der ChemRRV[^34-2] betreffend Kompost und Gärgut.
+- a. die Verpackung sowie die Kennzeichnung biologisch abbaubar sind und sich für das entsprechende Verfahren eignen; oder
+- b. die Verpackung sowie die Kennzeichnung vorrangig vor oder spätestens während der Kompostierung oder Vergärung möglichst vollständig entfernt werden.
 
-[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)Anhang 5 Ziff. I]. siehe V vom 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
-[^34-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+<sup>4</sup> Im Übrigen gelten die Vorschriften der DüV und der ChemRRV[^34-3] betreffend Kompost und Gärgut.
+
+[^34-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^34-2]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^34-3]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 5. Abschnitt: Deponien
 
@@ -646,7 +668,7 @@ Deponien des Typs E dürfen nicht unterirdisch errichtet werden. Andere Deponien
 
 - a. die Abfälle in einem bis zum Ende der Nachsorgephase stabilen Hohlraum abgelagert werden;
 - b. nachgewiesen wird, dass die Deponien bis zum Ende der Nachsorgephase die Umwelt nicht gefährden können, davon ausgenommen sind Deponien des Typs A;
-- c. auf Deponien des Typs D ausschliesslich Schlacke abgelagert wird, die aus Anlagen stammt, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden und die Entwicklung von Gasen mit geeigneten Massnahmen verhindert wird.
+- c.[^36-1] auf Deponien des Typs D ausschliesslich Schlacke abgelagert wird, die aus Anlagen stammt, in denen Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 oder Abfälle vergleichbarer Zusammensetzung verbrannt werden und die Entwicklung von Gasen mit geeigneten Massnahmen verhindert wird.
 
 <sup>3</sup>
 
@@ -654,6 +676,8 @@ Sofern eine Umlegung eines Fliessgewässers für die Errichtung einer Deponie na
 
 - a. das Gewässer um die Deponie herum geleitet werden;
 - b. sichergestellt werden, dass kein Wasser in die Deponie eindringen kann.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 37
 
@@ -1240,7 +1264,7 @@ Anhang 4[^t-4]
 
 ## Anforderungen an Abfälle für die Herstellung von Zement und Beton
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), Ziff. III der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), Ziff. II vom 25. Juni 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) und vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745))
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), Ziff. III der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), Ziff. II vom 25. Juni 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)), vom 29. Okt. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)) und vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Verwendung von Abfällen als Rohmaterial und Rohmehlkorrekturstoffe
 
@@ -1381,6 +1405,8 @@ Anhang 4[^t-4]
 <tr><td>Zinn</td><td>25</td></tr>
 </table>
 
+- 2\.4 Werden Abfälle bei ihrer Verwendung als Brennstoffe zu mindestens 20 Gewichtsprozent stofflich verwertet, so gilt dies als stofflich-energetische Verwertung.
+
 ### 3 Verwendung von Abfällen als Zumahl- und Zuschlagstoffe
 
 - 3\.1
@@ -1416,7 +1442,7 @@ Anhang 5[^t-5]
 
 ## Anforderungen an Abfälle zur Ablagerung
 
-[^t-5]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) und vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-5]: Bereinigt gemäss Ziff. II der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), vom 23. Febr. 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)), vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) und vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Auf Typ A zugelassene Abfälle
 
@@ -1522,8 +1548,8 @@ Anhang 5[^t-5]
 
   Auf Deponien und Kompartimenten des Typs C dürfen folgende Abfälle abgelagert werden, soweit sie die Anforderungen nach den Ziffern 3.2–3.5 erfüllen:
 
-  - a. Rauchgasreinigungsrückstände aus Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, sofern Metalle gemäss Artikel 32 Absatz 2 Buchstabe g vorgängig zurückgewonnen wurden;
-  - b. Rauchgasreinigungsrückstände aus der thermischen Behandlung von Abfällen aus Industrie und Gewerbe, die nicht mit Siedlungsabfällen vergleichbar sind;
+  - a. Rauchgasreinigungsrückstände aus Anlagen, in denen Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, sofern Metalle gemäss Artikel 32 Absatz 2 Buchstabe g vorgängig zurückgewonnen wurden;
+  - b. Rauchgasreinigungsrückstände aus der thermischen Behandlung von Abfällen aus Industrie und Gewerbe, die nicht mit Siedlungsabfällen nach Artikel 3 Buchstabe a Ziffern 1–3 vergleichbar sind;
   - c. Rückstände aus der Behandlung von Abwasser, das in Anlagen zur thermischen Behandlung von Abfällen anfällt;
   - d. Ofenauskleidungen;
   - e. andere metallhaltige, anorganische und schwerlösliche Abfälle, sofern die Metalle vorgängig zurückgewonnen wurden.
@@ -1596,7 +1622,7 @@ Test 2
 
   Auf Deponien und Kompartimenten des Typs D dürfen folgende Abfälle abgelagert werden:
 
-  - a. Filterasche aus Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, sofern Metalle gemäss Artikel 32 Absatz 2 Buchstabe g vorgängig zurückgewonnen wurden;
+  - a. Filterasche aus Anlagen, in denen Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, sofern Metalle gemäss Artikel 32 Absatz 2 Buchstabe g vorgängig zurückgewonnen wurden;
   - b. Bildschirmglas nach vollständiger Entfernung der Beschichtung;
   - c. verglaste Rückstände nach Ziffer 2.2;
   - d. Schlacke mit einem Gehalt von höchstens 20 000 mg TOC pro kg aus Anlagen, in denen Sonderabfälle thermisch behandelt werden;
@@ -1608,7 +1634,7 @@ Test 2
 - 4\.2 Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dioxinen (PCDD) und Furanen (PCDF) enthalten, als nach dem Stand der Technik möglich ist, höchstens aber 1µg Toxizitätsäquivalente (TEQ) pro kg. Die Berechnung des Gehalts erfolgt aufgrund von Toxizitätsäquivalenzfaktoren (TEF) nach dem Stand der Technik.
 - 4\.3
 
-  Schlacke aus Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, darf auf Deponien oder Kompartimenten des Typs D abgelagert werden, wenn:
+  Schlacke aus Anlagen, in denen Siedlungsabfälle nach Artikel 3 Buchstabe a Ziffern 1–3 oder Abfälle vergleichbarer Zusammensetzung verbrannt werden, darf auf Deponien oder Kompartimenten des Typs D abgelagert werden, wenn:
 
   - a. in der Schlacke enthaltene partikuläre Nicht-Eisenmetalle vorgängig zurückgewonnen wurden, mindestens aber so weit, dass ihr Anteil in der Schlacke 1 Gewichtsprozent nicht überschreitet; für die Bestimmung des Gehalts an partikulären Nicht-Eisenmetallen wird die Schlacke auf eine Korngrösse von 2 mm gemahlen;
   - b. sie höchstens 20 000 mg TOC pro kg enthält.
@@ -1720,9 +1746,9 @@ Anhang 7[^t-6]
 
 (Art. 14*a*)
 
-## Anforderungen an Holzabfälle zur stofflichen und thermischen Verwertung
+## Anforderungen an Holzabfälle zur stofflichen und energetischen Verwertung
 
-[^t-6]: Eingefügt durch Ziff. II der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Eingefügt durch Ziff. II der V vom 16. Nov. 2022 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)). Bereinigt gemäss Ziff. II der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Stoffliche Verwertung von Holzabfällen
 
@@ -1746,9 +1772,9 @@ Holzabfälle dürfen zur stofflichen Verwertung in Holzwerkstoffen eingesetzt we
 <tr><td colspan="2">\*\* ∑16 EPA-PAK: Naphthalin, Acenaphthylen, 1,2-Dihydroacenaphthylen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[*a*]anthracen, Chrysen, Benzo[*a*]pyren, Benzo[*b*]fluoranthen, Benzo[*k*]fluoranthen, Dibenz[*a,h*]anthracen, Benzo[*g,h,i*]perylen, Indeno[1,2,3-*c,d*]pyren</td></tr>
 </table>
 
-### 2 Thermische Verwertung von Holzabfällen
+### 2 Energetische Verwertung von Holzabfällen
 
-Holzabfälle dürfen in Altholzfeuerungen thermisch verwertet werden, wenn sie die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten:
+Holzabfälle dürfen in Altholzfeuerungen energetisch verwertet werden, wenn sie die nachfolgenden Grenzwerte (Gesamtgehalte) nicht überschreiten:
 
 <table>
 <tr><th>Stoff</th><th>Grenzwert in mg/kg Trockensubstanz</th></tr>

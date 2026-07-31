@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260801-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° gennaio 2026)
+del 4 dicembre 2015 (Stato 1° agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -59,25 +59,26 @@ Nella presente ordinanza s’intende per:
 
   - 1\. i rifiuti che provengono dalle economie domestiche,
   - 2\. i rifiuti che provengono da imprese con meno di 250 posti di lavoro a tempo pieno aventi una composizione analoga a quelli delle economie domestiche in termini di sostanze contenute e di proporzioni quantitative,
-  - 3\. i rifiuti che provengono dalle amministrazioni pubbliche aventi una composizione analoga a quelli delle economie domestiche in termini di sostanze contenute e di proporzioni quantitative;
+  - 3\. i rifiuti che provengono dalle amministrazioni pubbliche aventi una composizione analoga a quelli delle economie domestiche in termini di sostanze contenute e di proporzioni quantitative,
+  - 4\.[^3-2] tutti i residui provenienti da impianti per il trattamento termico dei rifiuti di cui ai numeri 1–3 fino al momento in cui sono riciclati o depositati;
 
 - b. *impresa:* un’entità giuridica dotata di un proprio numero d’identificazione d’impresa oppure un gruppo di tali entità aventi un sistema di smaltimento dei rifiuti organizzato in comune;
-- c. *rifiuti speciali:* i rifiuti designati come tali nell’elenco dei rifiuti emanato secondo l’articolo 2 dell’ordinanza del 22 giugno 2005[^3-2] sul traffico di rifiuti (OTRif);
+- c. *rifiuti speciali:* i rifiuti designati come tali nell’elenco dei rifiuti emanato secondo l’articolo 2 dell’ordinanza del 22 giugno 2005[^3-3] sul traffico di rifiuti (OTRif);
 - d. *rifiuti biogeni:* i rifiuti di origine vegetale, animale o microbica;
 - e. *rifiuti edili:* i rifiuti risultanti da lavori di costruzione, ristrutturazione o demolizione di impianti fissi;
 - f. *materiale di scavo e di sgombero:* il materiale scavato o sgomberato durante lavori di costruzione, fatta eccezione per quello asportato dallo strato superiore e da quello inferiore del suolo;
-- f<sup>bis</sup>.[^3-3]
+- f<sup>bis</sup>.[^3-4]
 
   *rifiuti di mercurio*:
 
   - 1\. rifiuti che contengono mercurio o composti di mercurio,
-  - 2\. il mercurio o i composti di mercurio provenienti dal trattamento dei rifiuti di cui al numero 1, eccettuato il mercurio la cui esportazione è stata autorizzata secondo l’allegato 1.7 numeri 2.2.4 o 4.2 dell’ordinanza del 18 maggio 2005[^3-4] sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim),
+  - 2\. il mercurio o i composti di mercurio provenienti dal trattamento dei rifiuti di cui al numero 1, eccettuato il mercurio la cui esportazione è stata autorizzata secondo l’allegato 1.7 numeri 2.2.4 o 4.2 dell’ordinanza del 18 maggio 2005[^3-5] sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim),
   - 3\. mercurio o composti di mercurio non più richiesti in processi industriali;
 
 - g. *impianti per i rifiuti:* gli impianti nei quali i rifiuti vengono trattati, riciclati e depositati in modo definitivo o temporaneo, fatta eccezione per i siti di estrazione di materiali nei quali viene riciclato materiale di scavo e di sgombero;
-- h.[^3-5] *...*
+- h.[^3-6] *...*
 - i. *impianti di compostaggio:* gli impianti nei quali i rifiuti biogeni vengono decomposti mediante insufflazione d’aria;
-- j.[^3-6] *impianti di fermentazione:* gli impianti nei quali i rifiuti biogeni sono sottoposti a un procedimento di decomposizione anaerobica;
+- j.[^3-7] *impianti di fermentazione:* gli impianti nei quali i rifiuti biogeni sono sottoposti a un procedimento di decomposizione anaerobica;
 - k. *discariche:* gli impianti per i rifiuti nei quali questi ultimi vengono depositati in modo controllato;
 - l. *trattamento termico:* il trattamento di rifiuti a una temperatura così elevata che le sostanze dannose per l’ambiente vengono distrutte o legate chimicamente o fisicamente attraverso la mineralizzazione;
 - m.
@@ -85,14 +86,26 @@ Nella presente ordinanza s’intende per:
   *stato della tecnica:* l’attuale stato d’avanzamento di procedure, installazioni e modalità d’esercizio che:
 
   - 1\. è stato sperimentato con successo su attività o impianti comparabili in Svizzera o all’estero oppure è stato impiegato con successo in via sperimentale e può, secondo le regole della tecnica, essere applicato ad altri impianti o attività, e
-  - 2\. un’azienda media ed economicamente sana del ramo in questione può sostenere sotto il profilo economico.
+  - 2\. un’azienda media ed economicamente sana del ramo in questione può sostenere sotto il profilo economico;
+
+- n.[^3-8] *riutilizzo:* processo in cui oggetti e relativi componenti, che non sono rifiuti o che hanno perso la propria qualifica di rifiuti in seguito a un processo di riciclaggio, vengono impiegati nuovamente per uno scopo uguale a quello originario o per uno scopo analogo;
+- o.[^3-9] *preparazione per il riutilizzo:* processo di riciclaggio in cui i rifiuti vengono preparati con trattamenti quali il controllo, la pulizia e la riparazione in modo da poter essere riutilizzati;
+- p.[^3-10] *valorizzazione materiale:* processo di riciclaggio in cui le caratteristiche materiali dei rifiuti vengono utilizzate ai fini di un trattamento che permetta di impiegare nuovamente i rifiuti come materie prime secondarie;
+- q.[^3-11] *valorizzazione materiale ed energetica:* processo di riciclaggio in cui i rifiuti sono sottoposti al contempo a valorizzazione materiale ed energetica;
+- r.[^3-12] *valorizzazione energetica:* processo di riciclaggio in cui i rifiuti, nel quadro del loro smaltimento, vengono utilizzati come fonte di energia.
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-2]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
-[^3-3]: Introdotta aalla cifra II n. 1 dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^3-4]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
-[^3-5]: Abrogata dalla cifra I dell’O del 12 feb. 2020, con effetto dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-6]: Correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
+[^3-2]: Introdotto dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-3]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^3-4]: Introdotta alla cifra II n. 1 dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^3-5]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^3-6]: Abrogata dalla cifra I dell’O del 12 feb. 2020, con effetto dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^3-7]: Correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
+[^3-8]: Introdotto dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-9]: Introdotta dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-10]: Introdotta dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-11]: Introdotta dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-12]: Introdotta dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ## Capitolo 2: Pianificazione e resoconto
 
@@ -184,9 +197,11 @@ I rifiuti non possono essere mischiati con altri rifiuti o con sostanze additive
 
 #### Art. 10
 
-**Obbligo di trattamento termico**
+**Obbligo di trattamento termico**[^10-1]
 
-I rifiuti urbani e i rifiuti di composizione analoga, i fanghi di depurazione, le parti combustibili dei rifiuti edili, nonché gli altri rifiuti combustibili devono essere sottoposti a trattamento termico in impianti idonei, a condizione che non sia possibile riciclarli.
+I rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 e i rifiuti di composizione analoga, i fanghi di depurazione, le parti combustibili dei rifiuti edili nonché gli altri rifiuti combustibili devono essere sottoposti a trattamento termico in impianti idonei, a condizione che non sia possibile riutilizzarli, sottoporli a valorizzazione materiale o quantomeno a valorizzazione materiale ed energetica.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Sezione 2: Prevenire la formazione di rifiuti
 
@@ -200,49 +215,49 @@ I rifiuti urbani e i rifiuti di composizione analoga, i fanghi di depurazione, l
 
 #### Art. 12
 
-**Obbligo generale di riciclare secondo metodi conformi allo stato della tecnica**
+**Obbligo generale di riciclare secondo metodi conformi allo stato della tecnica**[^12-1]
 
-<sup>1</sup>
+Ogni valorizzazione di cui all’articolo 30*d* capoversi 1–3 LPAmb deve essere effettuata secondo metodi conformi allo stato della tecnica.
 
-Il contenuto energetico o materiale dei rifiuti dev’essere riciclato se il riciclaggio garantisce un minor inquinamento dell’ambiente rispetto:
-
-- a. ad altri metodi di smaltimento; e
-- b. alla fabbricazione di nuovi prodotti o al reperimento di altri combustibili.
-
-<sup>2</sup> Il riciclaggio dev’essere effettuato secondo metodi conformi allo stato della tecnica.
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 13
 
 **Rifiuti urbani e rifiuti di composizione analoga**
 
-<sup>1</sup> I Cantoni provvedono affinché le frazioni riciclabili contenute nei rifiuti urbani, come vetro, carta, cartone, metallo, rifiuti vegetali e tessili, siano per quanto possibile raccolte separatamente e riciclate.
+<sup>1</sup> I Cantoni provvedono affinché le frazioni riciclabili contenute nei rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3, come vetro, carta, cartone, metallo, rifiuti biogeni e tessili, siano per quanto possibile raccolte separatamente e preparate per il riutilizzo o sottoposte a valorizzazione materiale.[^13-1]
 
 <sup>2</sup>
 
 I Cantoni provvedono affinché siano raccolti e smaltiti separatamente:
 
 - a. i rifiuti speciali provenienti delle economie domestiche;
-- b.[^13-1] i rifiuti speciali non legati al particolare tipo di attività dell’impresa fino a 20 kg per fornitura da imprese o amministrazioni pubbliche con meno di 10 posti di lavoro a tempo pieno.
+- b.[^13-2] i rifiuti speciali non legati al particolare tipo di attività dell’impresa fino a 20 kg per fornitura da imprese o amministrazioni pubbliche con meno di 10 posti di lavoro a tempo pieno.
 
 <sup>3</sup> I Cantoni provvedono a predisporre l’infrastruttura necessaria per adempiere quanto prescritto ai capoversi 1 e 2, istituendo in particolare centri di raccolta. Ove necessario, provvedono inoltre a eseguire raccolte a intervalli regolari.
 
-<sup>4</sup> Ove possibile e opportuno, i detentori di rifiuti provenienti da imprese con 250 o più posti di lavoro a tempo pieno devono raccogliere in modo separato e riciclare le frazioni riciclabili dei propri rifiuti che, in termini di composizione, sono comparabili ai rifiuti urbani.
+<sup>4</sup> Ove possibile e opportuno, i detentori di rifiuti provenienti da imprese con 250 o più posti di lavoro a tempo pieno devono raccogliere in modo separato e preparare per il riutilizzo o sottoporre a valorizzazione materiale le frazioni riciclabili dei propri rifiuti che, in termini di composizione, sono comparabili ai rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3.[^13-3]
 
-[^13-1]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14
 
-**Rifiuti biogeni**
+**Rifiuti biogeni**[^14-1]
 
-<sup>1</sup>
+<sup>1</sup> I rifiuti biogeni che si prestano alla valorizzazione di cui al capoverso 2 devono essere raccolti in modo separato e le sostanze estranee devono essere eliminate il prima possibile.
 
-I rifiuti biogeni devono essere riciclati esclusivamente come materiale oppure mediante fermentazione, a condizione che:
+<sup>2</sup>
 
-- a. vi si prestino in ragione delle loro caratteristiche e soprattutto del loro contenuto di sostanze nutritive e sostanze nocive;
-- b. siano stati raccolti separatamente; e
-- c. il loro riciclaggio non sia vietato da altre prescrizioni del diritto federale.
+I rifiuti biogeni devono essere sottoposti alla sola valorizzazione materiale oppure a fermentazione, a condizione che:
 
-<sup>2</sup> I rifiuti biogeni che non devono essere riciclati secondo quanto disposto nel capoverso 1 devono essere avviati, ove possibile e opportuno, al recupero energetico o sottoposti a trattamento termico in impianti idonei. In tale contesto, ne deve essere sfruttato il contenuto energetico.
+- a. vi si prestino in ragione delle loro caratteristiche e soprattutto del loro tenore di sostanze nutritive e sostanze nocive; e
+- b. il loro riciclaggio non sia vietato da altre prescrizioni del diritto federale.
+
+<sup>3</sup> I rifiuti biogeni che non devono essere riciclati secondo quanto disposto nel capoverso 2 devono essere avviati, ove possibile e opportuno, al recupero energetico o sottoposti a trattamento termico in impianti idonei. In tale contesto, ne deve essere sfruttato il contenuto energetico.
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14a
 
@@ -250,9 +265,10 @@ I rifiuti biogeni devono essere riciclati esclusivamente come materiale oppure m
 
 <sup>1</sup> I rifiuti di legno che soddisfano i requisiti di cui all’allegato 7 numero 1 possono essere impiegati per essere riciclati nei materiali legnosi.
 
-<sup>2</sup> I rifiuti di legno che soddisfano i requisiti di cui all’allegato 7 numero 2 possono essere valorizzati termicamente negli impianti a combustione alimentati con legname di scarto.
+<sup>2</sup> I rifiuti di legno che soddisfano i requisiti di cui all’allegato 7 numero 2 possono essere sottoposti a valorizzazione energetica negli impianti a combustione alimentati con legname di scarto.[^14a-2]
 
 [^14a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^14a-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 15
 
@@ -417,7 +433,9 @@ Dalla frazione più leggera ricavata dalla frantumazione di rottami metallici (f
 
 <sup>1</sup> Dai fanghi dei pozzetti stradali e dai residui della pulizia stradale aventi una composizione prevalentemente minerale devono essere separate e riciclate le frazioni riciclabili come pietrisco, sabbia e ghiaia.
 
-<sup>2</sup> Le parti restanti dei residui della pulizia stradale di cui al capoverso 1 e altri residui della pulizia stradale che contengono rifiuti urbani, altri rifiuti di composizione analoga o una frazione consistente di materiale biogeno devono essere sottoposti a un trattamento termico in impianti idonei.
+<sup>2</sup> Le parti restanti dei residui della pulizia stradale di cui al capoverso 1 e altri residui della pulizia stradale che contengono rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3, altri rifiuti di composizione analoga o una frazione biogena consistente devono essere sottoposti a un trattamento termico in impianti idonei.[^22-1]
+
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 23
 
@@ -435,11 +453,11 @@ Previa autorizzazione delle autorità cantonali, le scorie di forni elettrici po
 
 **Riciclaggio di rifiuti nella fabbricazione di cemento e calcestruzzo**
 
-<sup>1</sup> I rifiuti possono essere impiegati come materie prime, come sostanze di correzione della farina cruda, come combustibili oppure come costituenti secondari o aggiunte minerali nella fabbricazione di cemento e calcestruzzo, se soddisfano i requisiti di cui all’allegato 4. Non è tuttavia ammesso impiegare come materie prime o combustibili rifiuti urbani misti o rifiuti urbani misti raccolti e separati a posteriori. I residui della separazione risultanti dal trattamento dei rifiuti urbani raccolti separatamente e che non possono essere riciclati come materiale, possono essere utilizzati come combustibile per la produzione di cemento e di calcestruzzo.[^24-1]
+<sup>1</sup> I rifiuti possono essere impiegati come materie prime, come sostanze di correzione della farina cruda, come combustibili oppure come costituenti secondari o aggiunte minerali nella fabbricazione di cemento e calcestruzzo, se soddisfano i requisiti di cui all’allegato 4. Non è tuttavia ammesso impiegare come materie prime o combustibili i rifiuti urbani misti o rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 misti raccolti e separati a posteriori. I residui della separazione risultanti dal trattamento dei rifiuti urbani raccolti separatamente e che non possono essere riciclati come materiale, possono essere utilizzati come combustibile per la produzione di cemento e di calcestruzzo.[^24-1]
 
 <sup>2</sup> Le polveri provenienti dai filtri per la ventilazione di impianti per la fabbricazione di clinker di cemento devono essere riciclate come costituenti secondari nella macinazione di clinker di cemento o come aggiunte minerali nella fabbricazione di cemento. In tale contesto, il tenore di metalli pesanti del cemento prodotto non può superare i valori limite riportati nell’allegato 4 numero 3. 2.
 
-[^24-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Sezione 4: Deposito di rifiuti
 
@@ -547,11 +565,11 @@ Gli impianti per il trattamento termico dei rifiuti possono essere costruiti o l
 
 - a. non fuoriescano gas di scarico diffusi;
 - b.[^31-2] negli impianti in cui sono trattati rifiuti liquidi aventi un punto d’infiammabilità inferiore a 60 °C e rifiuti speciali infettivi, tali rifiuti possano essere separati dagli altri rifiuti e, per quanto possibile, immessi il più direttamente possibile nell’area in cui avviene il trattamento termico;
-- c.[^31-3] negli impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga, almeno l’80 per cento del contenuto energetico venga impiegato al di fuori degli impianti; l’utilizzo di energia per la cattura di CO<sub>2</sub> dai fumi è considerato impiego al di fuori degli impianti.
+- c.[^31-3] negli impianti in cui vengono inceneriti rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 o altri rifiuti di composizione analoga, almeno l’80 per cento del contenuto energetico venga impiegato al di fuori degli impianti; l’utilizzo di energia per la cattura di CO<sub>2</sub> dai fumi è considerato impiego al di fuori degli impianti.
 
 [^31-1]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^31-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^31-3]: Introdotta dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^31-3]: Introdotta dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 32
 
@@ -563,19 +581,20 @@ Gli impianti per il trattamento termico dei rifiuti possono essere costruiti o l
 
 I detentori degli impianti devono fare in modo che:
 
-- a.[^32-1] almeno il 55 per cento del contenuto energetico dei rifiuti urbani e dei rifiuti di composizione analoga venga impiegato al di fuori degli impianti; l’utilizzo di energia per la cattura di CO<sub>2</sub> dai fumi è considerato impiego al di fuori degli impianti;
+- a.[^32-1] almeno il 55 per cento del contenuto energetico dei rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 e dei rifiuti di composizione analoga venga impiegato al di fuori degli impianti; l’utilizzo di energia per la cattura di CO<sub>2</sub> dai fumi è considerato impiego al di fuori degli impianti;
 - b. in sede di trattamento, i composti organici alogenati si scompongano per quanto possibile completamente e se ne formi nuovamente una quantità minima;
 - c.[^32-2] i rifiuti speciali che contengono più dell'uno per cento in peso di composti organici alogenati siano trattati per almeno due secondi a una temperatura minima di 1100 °C; l’autorità può autorizzare altre temperature minime e tempi di permanenza se si fornisce la prova che così non risultano maggiori residui di incenerimento e questi non contengono tenori più elevati di sostanze nocive organiche quali PAH, PCDD, PCDF o PCB;
 - d.[^32-3] i rifiuti liquidi aventi un punto d'infiammabilità inferiore a 60 °C e i rifiuti speciali infettivi siano separati dagli altri rifiuti e immessi il più direttamente possibile nell'area in cui avviene il trattamento termico;
 - e. le scorie contengano al massimo una frazione non incenerita pari al due per cento del peso misurata come carbonio organico totale (COT);
 - f. nel caso di un difetto di funzionamento, venga portato a termine il trattamento termico dei rifiuti che si trovano nell’area in cui avviene tale trattamento;
-- g. negli impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga, dalle ceneri dei filtri vengano recuperati i metalli;
-- h.[^32-4] in caso d’interruzione dell’approvvigionamento con mezzi d’esercizio necessari, sia disponibile una riserva per garantire l’esercizio ordinario per almeno due mesi.
+- g.[^32-4] negli impianti in cui vengono inceneriti rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 o altri rifiuti di composizione analoga, dalle ceneri dei filtri vengano recuperati i metalli;
+- h.[^32-5] in caso d’interruzione dell’approvvigionamento con mezzi d’esercizio necessari, sia disponibile una riserva per garantire l’esercizio ordinario per almeno due mesi.
 
-[^32-1]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 [^32-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^32-3]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^32-4]: Introdotta dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^32-4]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^32-5]: Introdotta dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### Sezione 4: Impianti di compostaggio e di fermentazione
 
@@ -597,21 +616,24 @@ Le installazioni devono garantire che:
 
 #### Art. 34
 
-**Esercizio**
+**Esercizio**[^34-1]
 
-<sup>1</sup> Negli impianti di compostaggio e di fermentazione che prendono in consegna ogni anno più di 100 t di rifiuti possono essere decomposti o fatti fermentare soltanto i rifiuti biogeni che, in ragione delle loro caratteristiche e soprattutto del loro tenore di sostanze nutritive e sostanze nocive, possono essere sottoposti al trattamento in questione e si prestano a essere riciclati come concime ai sensi dell’articolo 5 dell’ordinanza del 10 gennaio 2001[^34-1] sui concimi (OCon). Non devono soddisfare il requisito dell’idoneità al riciclaggio come concime i rifiuti destinati alla cofermentazione in impianti di depurazione delle acque di scarico.
+<sup>1</sup> Negli impianti di compostaggio e di fermentazione devono essere compostati o fatti fermentare i rifiuti biogeni che, in ragione delle loro caratteristiche e soprattutto del loro tenore di sostanze nutritive, nocive o estranee, possono essere sottoposti al trattamento in questione e si prestano a essere riciclati come concime ai sensi dell’articolo 2 capoverso 1 lettera a dell’ordinanza del 1° novembre 2023[^34-2] sui concimi (OCon). Non devono soddisfare il requisito dell’idoneità al riciclaggio come concime i rifiuti destinati alla cofermentazione in impianti di depurazione delle acque di scarico.
 
-<sup>2</sup>
+<sup>2</sup> Per i rifiuti biogeni selezionati secondo la tipologia e ricchi di sostanze nutritive è prioritaria la valorizzazione in impianti di compostaggio e di fermentazione al di fuori di impianti di depurazione delle acque di scarico.
 
-I rifiuti biogeni imballati possono essere decomposti o fatti fermentare negli impianti di compostaggio e di fermentazione di cui al capoverso 1, al di fuori di impianti di depurazione delle acque di scarico, se l’imballaggio:
+<sup>3</sup>
 
-- a. è biodegradabile e può essere sottoposto al trattamento in questione; oppure
-- b. può essere rimosso il più completamente possibile prima o durante la decomposizione o la fermentazione.
+I rifiuti biogeni imballati possono essere compostati o fatti fermentare negli impianti di compostaggio e di fermentazione di cui al capoverso 1, al di fuori di impianti di depurazione delle acque di scarico, se l’imballaggio e l’etichettatura:
 
-<sup>3</sup> Per il resto si applicano le prescrizioni dell’OCon e della ORRPChim[^34-2] concernenti il compost e il digestato.
+- a. sono biodegradabili e possono essere sottoposti al trattamento in questione; oppure
+- b. possono essere rimossi il più completamente possibile in via prioritaria prima o, al più tardi, durante il compostaggio o la fermentazione.
 
-[^34-1]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all.n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all.n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Vedi ora l’O 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
-[^34-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+<sup>4</sup> Per il resto si applicano le prescrizioni dell’OCon e dell’ORRPChim[^34-3] concernenti il compost e il digestato.
+
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^34-2]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^34-3]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### Sezione 5: Discariche
 
@@ -645,7 +667,7 @@ Le discariche di tipo E non possono essere sotterranee. Altre discariche possono
 
 - a. i rifiuti sono depositati in cavità stabili fino alla fine della fase di manutenzione postoperativa;
 - b. si fornisce la prova che le discariche, con eccezione di quelle di tipo A, non possono essere nocive per l’ambiente fino al termine della fase di manutenzione postoperativa;
-- c. trattandosi di discariche di tipo D, vi sono depositate esclusivamente scorie provenienti da impianti nei quali vengono inceneriti rifiuti urbani o rifiuti di composizione analoga e viene impedita la formazione di gas mediante misure idonee.
+- c.[^36-1] trattandosi di discariche di tipo D, vi sono depositate esclusivamente scorie provenienti da impianti nei quali vengono inceneriti rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 o rifiuti di composizione analoga e viene impedita la formazione di gas mediante misure idonee.
 
 <sup>3</sup>
 
@@ -653,6 +675,8 @@ Se secondo le prescrizioni della legislazione sulla protezione delle acque è am
 
 - a. il corso d’acqua dev’essere fatto defluire intorno alla discarica;
 - b. dev’essere garantito che non vi siano infiltrazioni all’interno della discarica.
+
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 37
 
@@ -1235,7 +1259,7 @@ Allegato 4[^t-4]
 
 ## Requisiti applicabili ai rifiuti impiegati per la fabbricazione di cemento e calcestruzzo
 
-[^t-4]: Aggiornato dalla cifra II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), dalla cifra III dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalle cifre I, II dell’O del 25 giu. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) e dalla cifra II dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^t-4]: Aggiornato dalla cifra II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), dalla cifra III dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalle cifre I, II dell’O del 25 giu. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)), dalla cifra II dell’O del 29 ott. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)) e dalla cifra II dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Utilizzo dei rifiuti come materia prima e come sostanza di correzione della farina cruda
 
@@ -1377,6 +1401,8 @@ Allegato 4[^t-4]
 <tr><td>Stagno</td><td>25</td></tr>
 </table>
 
+- 2\.4 Se almeno il 20 per cento in peso di rifiuti impiegati come combustibili viene sottoposto a valorizzazione materiale, il processo è considerato una valorizzazione materiale ed energetica.
+
 ### 3 Utilizzo dei rifiuti come costituenti secondari e aggiunte minerali
 
 - 3\.1
@@ -1412,7 +1438,7 @@ Allegato 5[^t-5]
 
 ## Requisiti applicabili ai rifiuti in vista del deposito definitivo
 
-[^t-5]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai cifra II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) e del 23 feb. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)) e dalla cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^t-5]: Aggiornato dalla correzione del 19 lug. 2016 ([RU 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)), dai cifra II delle O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), del 23 feb. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)), dalla cifra II dell’O del 25 giu. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) e dalla cifra II dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Rifiuti depositabili in discariche e compartimenti di tipo A
 
@@ -1518,8 +1544,8 @@ Allegato 5[^t-5]
 
   Nelle discariche e nei compartimenti di tipo C è ammesso depositare i rifiuti seguenti, a condizione che soddisfino i requisiti di cui ai numeri 3.2−3.5:
 
-  - a. residui prodotti dalla depurazione dei fumi in impianti nei quali vengono inceneriti i rifiuti urbani o i rifiuti di composizione analoga, sempre che siano stati precedentemente recuperati i metalli di cui all’articolo 32 capoverso 2 lettera g;
-  - b. residui prodotti dalla depurazione dei fumi in seguito al trattamento termico di rifiuti dell’industria e dell’artigianato non comparabili a rifiuti urbani;
+  - a. residui prodotti dalla depurazione dei fumi in impianti nei quali vengono inceneriti i rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 o i rifiuti di composizione analoga, sempre che siano stati precedentemente recuperati i metalli di cui all’articolo 32 capoverso 2 lettera g;
+  - b. residui prodotti dalla depurazione dei fumi in seguito al trattamento termico di rifiuti dell’industria e dell’artigianato non comparabili ai rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3;
   - c. residui derivanti dal trattamento delle acque di scarico prodotte in impianti per il trattamento termico dei rifiuti;
   - d. rivestimenti di forni;
   - e. altri rifiuti contenenti metalli, anorganici e difficilmente solubili, se i metalli sono stati precedentemente recuperati;
@@ -1592,7 +1618,7 @@ Test 2
 
   Nelle discariche e nei compartimenti di tipo D è ammesso depositare i rifiuti seguenti:
 
-  - a. le ceneri dei filtri provenienti da impianti nei quali vengono inceneriti i rifiuti urbani o i rifiuti di composizione analoga, a condizione che siano stati precedentemente recuperati i metalli di cui all’articolo 32 capoverso 2 lettera g;
+  - a. le ceneri dei filtri provenienti da impianti nei quali vengono inceneriti i rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 o i rifiuti di composizione analoga, a condizione che siano stati precedentemente recuperati i metalli di cui all’articolo 32 capoverso 2 lettera g;
   - b. il vetro da schermo, una volta rimosso completamente il rivestimento;
   - c. i residui vetrificati secondo il numero 2.2;
   - d. le scorie con un tenore massimo di 20 000 mg COT al kg provenienti da impianti nei quali sono sottoposti a trattamento termico i rifiuti speciali;
@@ -1604,7 +1630,7 @@ Test 2
 - 4\.2 Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattamento *termico* dei rifiuti deve essere il minimo possibile secondo lo stato della tecnica e in ogni caso non può superare 1 μg di equivalenti di tossicità (TEQ) al kg. Il tenore è calcolato, secondo metodi conformi allo stato della tecnica, sulla base di fattori di tossicità equivalente (FTE).
 - 4\.3
 
-  Le scorie provenienti da impianti nei quali sono inceneriti i rifiuti urbani o i rifiuti di composizione analoga possono essere depositate in discariche o compartimenti di tipo D se:
+  Le scorie provenienti da impianti nei quali sono inceneriti i rifiuti urbani di cui all’articolo 3 lettera a numeri 1–3 o i rifiuti di composizione analoga possono essere depositate in discariche o compartimenti di tipo D se:
 
   - a. i metalli non ferrosi particolati contenuti nelle scorie sono stati precedentemente recuperati, ma almeno a condizione che la loro quota nelle scorie non superi l’uno per cento in peso; per determinare il tenore di metalli non ferrosi particolati, le scorie sono macinate in granuli di 2 mm;
   - b. contengono al massimo 20 000 mg COT al kg.
@@ -1716,9 +1742,9 @@ Allegato 7[^t-6]
 
 (art. 14*a*)
 
-## Requisiti dei rifiuti di legno destinati al riciclaggio e alla valorizzazione termica
+## Requisiti dei rifiuti di legno destinati al riciclaggio e alla valorizzazione energetica
 
-[^t-6]: Introdotto dalla cifra II dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Introdotto dalla cifra II dell’O del 16 nov. 2022 ([RU 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)). Aggiornato dalla cifra II dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Riciclaggio dei rifiuti di legno
 
@@ -1742,9 +1768,9 @@ I rifiuti di legno possono essere impiegati per la valorizzazione materiale in m
 <tr><td colspan="2">\*\* ∑16 PAH EPA: naftalina, acenaftene, 1,2-diidroacenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo[*a*]antracene, crisene, benzo[*a*]pirene, benzo[*b*]fluorantene, benzo[*k*]fluorantene, dibenzo[*a,h*]antracene, benzo[*g,h,i*]perilene, indeno[1,2,3-*c,d*]pirene</td></tr>
 </table>
 
-### 2 Valorizzazione termica dei rifiuti di legno
+### 2 Valorizzazione energetica dei rifiuti di legno
 
-I rifiuti di legno possono essere valorizzati termicamente negli impianti a combustione alimentati con legname di scarto se non sono superati i valori limite seguenti (tenori totali):
+I rifiuti di legno possono essere sottoposti a valorizzazione energetica negli impianti a combustione alimentati con legname di scarto se non sono superati i valori limite seguenti (tenori totali):
 
 <table>
 <tr><th>Sostanza</th><th>Valore limite in mg/kg di sostanza secca</th></tr>

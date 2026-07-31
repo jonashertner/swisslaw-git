@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260801-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2026)
+du 4 décembre 2015 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -51,31 +51,32 @@ La présente ordonnance s’applique à la limitation et à l’élimination des
 
 **Définitions**
 
-Au sens de la présente ordonnance, on entend par:
+On entend par:[^3-1]
 
-- a.[^3-1]
+- a.[^3-2]
 
   *déchets urbains:*
 
   - 1\. déchets produits par les ménages,
   - 2\. déchets provenant d’entreprises comptant moins de 250 postes à plein temps et dont la composition est comparable à celle des déchets ménagers en termes de matières contenues et de proportions,
-  - 3\. déchets provenant d’administrations publiques et dont la composition est comparable à celle des déchets ménagers en termes de matières contenues et de proportions;
+  - 3\. déchets provenant d’administrations publiques et dont la composition est comparable à celle des déchets ménagers en termes de matières contenues et de proportions,
+  - 4\.[^3-3] résidus produits dans des installations de traitement thermique des déchets visés aux ch. 1 à 3, jusqu’à ce qu’ils aient été valorisés ou stockés définitivement;
 
 - b. *entreprise:* toute entité juridique disposant de son propre numéro d’identification ou les entités réunies au sein d’un groupe et disposant d’un système commun pour l’élimination des déchets;
-- c. *déchets spéciaux:* les déchets désignés comme tels dans la liste des déchets établie en vertu de l’art. 2 de l’ordonnance du 22 juin 2005 sur les mouvements de déchets (OMoD)[^3-2];
+- c. *déchets spéciaux:* les déchets désignés comme tels dans la liste des déchets établie en vertu de l’art. 2 de l’ordonnance du 22 juin 2005 sur les mouvements de déchets (OMoD)[^3-4];
 - d. *biodéchets:* les déchets d’origine végétale, animale ou microbienne;
 - e. *déchets de chantier:* les déchets produits lors de la construction, de la transformation ou de la déconstruction d’installations fixes;
 - f. *matériaux d’excavation et de percement**:* les matériaux résultant de l’excavation ou du percement, sans les matériaux terreux issus du décapage de la couche supérieure et de la couche sous-jacente du sol;
-- f<sup>bis</sup>.[^3-3]
+- f<sup>bis</sup>.[^3-5]
 
   *déchets de mercure*:
 
   - 1\. déchets contenant du mercure ou des composés du mercure,
-  - 2\. mercure ou composés du mercure issus du traitement de déchets de mercure au sens du ch. 1, à l’exception du mercure dont l’exportation a été autorisée conformément à l’annexe 1.7, ch. 2.2.4 ou 4.2, de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques (ORRChim)[^3-4],
+  - 2\. mercure ou composés du mercure issus du traitement de déchets de mercure au sens du ch. 1, à l’exception du mercure dont l’exportation a été autorisée conformément à l’annexe 1.7, ch. 2.2.4 ou 4.2, de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques (ORRChim)[^3-6],
   - 3\. mercure ou composés du mercure qui ne sont plus requis dans le cadre de processus industriels;
 
 - g. *installations d’élimination des déchets**:* les installations où des déchets sont traités, valorisés ou stockés définitivement ou provisoirement; sont exceptés les sites de prélèvement de matériaux où les matériaux d’excavation et de percement sont valorisés;
-- h.[^3-5] …
+- h.[^3-7] …
 - i. *installations de compostage:* les installations d’élimination des déchets où des biodéchets sont décomposés en milieu aérobie;
 - j. *installations de méthanisation:* les installations d’élimination des déchets où des biodéchets sont fermentés en milieu anaérobie;
 - k. *décharges:* les installations d’élimination des déchets où des déchets sont stockés définitivement et sous surveillance;
@@ -85,13 +86,26 @@ Au sens de la présente ordonnance, on entend par:
   *état de la technique:* l’état de développement des procédés, des équipements ou des méthodes d’exploitation*:*
 
   - 1\. qui ont fait leurs preuves dans des installations ou des activités comparables en Suisse ou à l’étranger, ou qui ont été appliqués avec succès lors d’essais et que la technique permet de transposer à d’autres installations ou activités, et
-  - 2\. qui sont économiquement supportables pour une entreprise moyenne et économiquement saine de la branche considérée.
+  - 2\. qui sont économiquement supportables pour une entreprise moyenne et économiquement saine de la branche considérée;
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-2]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
-[^3-3]: Introduite par le ch. II 1 de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^3-4]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
-[^3-5]: Abrogée par le ch. I de l’O du 12 fév. 2020, avec effet au 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+- n.[^3-8] *réutilisation:* toute opération par laquelle les objets et leurs composants qui ne sont pas des déchets ou qui ont perdu leur statut de déchet après avoir subi une opération de valorisation sont utilisés de nouveau pour un usage identique ou comparable à celui pour lequel ils avaient été conçus;
+- o.[^3-9] *préparation en vue de la réutilisation:* toute opération de valorisation consistant à préparer les déchets par des étapes de traitement telles que le contrôle, le nettoyage et la réparation de telle sorte qu’ils puissent être réutilisés;
+- p.[^3-10] *valorisation matière:* toute opération de valorisation consistant à tirer parti des caractéristiques matière des déchets en traitant ceux-ci de telle sorte qu’ils puissent être réemployés sous la forme de matières premières secondaires;
+- q.[^3-11] *valorisation matière et énergie:* toute opération consistant à valoriser les déchets simultanément sur les plans de la matière et de l’énergie;
+- r.[^3-12] *valorisation énergie:* toute opération de valorisation des déchets consistant à utiliser ceux-ci comme source d’énergie au cours de leur élimination.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^3-3]: Introduit par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-4]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^3-5]: Introduite par le ch. II 1 de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^3-6]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^3-7]: Abrogée par le ch. I de l’O du 12 fév. 2020, avec effet au 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^3-8]: Introduite par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-9]: Introduite par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-10]: Introduite par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-11]: Introduite par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-12]: Introduite par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ## Chapitre 2 Planification et rapports
 
@@ -183,9 +197,11 @@ Il est interdit de mélanger des déchets avec d’autres déchets ou quelque au
 
 #### Art. 10
 
-**Obligation de traiter thermiquement**
+**Obligation de traiter thermiquement**[^10-1]
 
-Les déchets urbains, les déchets de composition analogue, les boues d’épuration, les fractions combustibles des déchets de chantier et les autres déchets combustibles doivent être traités thermiquement dans des installations appropriées s’ils ne peuvent pas faire l’objet d’une valorisation matière.
+Les déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, les déchets de composition analogue, les boues d’épuration, les fractions combustibles des déchets de chantier et les autres déchets combustibles doivent être traités thermiquement dans des installations appropriées dans la mesure où ils ne peuvent pas faire l’objet d’une réutilisation, d’une valorisation matière ou au moins d’une valorisation matière et énergie.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Section 2 Limitation des déchets
 
@@ -199,49 +215,49 @@ Les déchets urbains, les déchets de composition analogue, les boues d’épura
 
 #### Art. 12
 
-**Obligation générale de valoriser selon l’état de la technique**
+**Obligation générale de valoriser selon l’état de la technique**[^12-1]
 
-<sup>1</sup>
+Toute valorisation au sens de l’art. 30*d*, al. 1 à 3, LPE doit se faire conformément à l’état de la technique.
 
-Les déchets doivent faire l’objet d’une valorisation matière ou énergétique, si une valorisation est plus respectueuse de l’environnement:
-
-- a. qu’un autre mode d’élimination, et
-- b. que la fabrication de produits nouveaux ou l’acquisition d’autres combustibles.
-
-<sup>2</sup> La valorisation doit se faire conformément à l’état de la technique.
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 13
 
 **Déchets urbains et déchets de composition analogue**
 
-<sup>1</sup> Les cantons veillent à ce que les fractions valorisables des déchets urbains, tels le verre, le papier, le carton, les métaux, les déchets verts et les textiles, soient autant que possible collectés séparément et fassent l’objet d’une valorisation matière.
+<sup>1</sup> Les cantons veillent à ce que les fractions valorisables des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, tels que le verre, le papier, le carton, les métaux, les biodéchets et les textiles, fassent autant que possible l’objet d’une collecte séparée puis d’une préparation en vue de la réutilisation ou d’une valorisation matière.[^13-1]
 
 <sup>2</sup>
 
 Ils veillent à ce que soient collectés et éliminés séparément:
 
 - a. les déchets spéciaux provenant des ménages;
-- b.[^13-1] les déchets spéciaux non liés au type d’exploitation provenant d’entreprises et d’administrations publiques comptant moins de 10 postes à plein temps, en des quantités inférieures à 20 kg par livraison.
+- b.[^13-2] les déchets spéciaux non liés au type d’exploitation provenant d’entreprises et d’administrations publiques comptant moins de 10 postes à plein temps, en des quantités inférieures à 20 kg par livraison.
 
 <sup>3</sup> Ils veillent à mettre à disposition les infrastructures nécessaires à la mise en œuvre des al. 1 et 2, en particulier l’aménagement de postes de collecte. Au besoin, ils assurent en outre l’organisation de ramassages réguliers.
 
-<sup>4</sup> Les détenteurs de déchets provenant d’entreprises comptant 250 postes à plein temps ou plus doivent, dans la mesure de ce qui est possible et judicieux, collecter séparément les fractions valorisables des déchets dont la composition est analogue à celle des déchets urbains et en assurer la valorisation matière.
+<sup>4</sup> Les détenteurs de déchets provenant d’entreprises comptant 250 postes à plein temps ou plus doivent, dans la mesure de ce qui est possible et judicieux, collecter séparément les fractions valorisables des déchets dont la composition est analogue à celle des déchets urbains visés à l’art. 3, let. a, ch. 1 à 3, et les préparer en vue de la réutilisation ou en assurer la valorisation matière.[^13-3]
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14
 
-**Biodéchets**
+**Biodéchets**[^14-1]
 
-<sup>1</sup>
+<sup>1</sup> Les biodéchets qui se prêtent à une valorisation en vertu de l’al. 2 doivent être collectés séparément et les substances étrangères doivent en être retirées dès que possible.
+
+<sup>2</sup>
 
 Les biodéchets doivent faire l’objet d’une valorisation matière ou d’une méthanisation, pour autant:
 
-- a. qu’ils s’y prêtent compte tenu de leurs caractéristiques et en particulier de leur teneur en nutriments et en polluants;
-- b. qu’ils aient été collectés séparément, et
-- c. que leur valorisation ne soit pas interdite par d’autres dispositions du droit fédéral.
+- a. qu’ils s’y prêtent compte tenu de leurs caractéristiques et en particulier de leur teneur en nutriments et en polluants, et
+- b. que leur valorisation ne soit pas interdite par d’autres dispositions du droit fédéral.
 
-<sup>2</sup> Les biodéchets qui ne doivent pas être valorisés selon l’al. 1 doivent, dans la mesure de ce qui est possible et judicieux, faire l’objet d’une valorisation purement énergétique ou d’un traitement thermique dans des installations appropriées. Il convient ce faisant d’exploiter leur potentiel énergétique.
+<sup>3</sup> Les biodéchets qui ne se prêtent pas à une valorisation en vertu de l’al. 2 doivent, dans la mesure de ce qui est possible et judicieux, faire l’objet d’une valorisation énergie ou d’un traitement thermique dans des installations appropriées. Il convient ce faisant d’exploiter leur potentiel énergétique.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14a
 
@@ -249,9 +265,10 @@ Les biodéchets doivent faire l’objet d’une valorisation matière ou d’une
 
 <sup>1</sup> Les déchets de bois qui satisfont aux exigences de l’annexe 7, ch. 1, peuvent faire l’objet d’une valorisation matière sous forme de matériaux en bois.
 
-<sup>2</sup> Les déchets de bois qui satisfont aux exigences de l’annexe 7, ch. 2, peuvent faire l’objet d’une valorisation thermique dans une installation de combustion à bois usagé.
+<sup>2</sup> Les déchets de bois qui satisfont aux exigences de l’annexe 7, ch. 2, peuvent faire l’objet d’une valorisation énergie dans une installation de combustion à bois usagé.[^14a-2]
 
 [^14a-1]: Introduit par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 15
 
@@ -413,7 +430,9 @@ La fraction la plus légère (fraction de broyage légère) issue du broyage de 
 
 <sup>1</sup> Les fractions valorisables des boues des dépotoirs de routes et des balayures de routes dont la composition est en majeure partie minérale, telles que gravillon, sable et gravier, doivent être récupérées et faire l’objet d’une valorisation matière.
 
-<sup>2</sup> Le reste des balayures de routes selon l’al. 1 ainsi que les autres balayures de routes qui contiennent des déchets urbains ou des déchets de composition analogue ou une forte teneur en matières biogènes doivent être traités dans des installations thermiques adéquates.
+<sup>2</sup> Le reste des balayures de routes visées à l’al. 1 ainsi que les autres balayures de routes qui contiennent des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, ou des déchets de composition analogue ou qui présentent une forte teneur en matières biogènes doivent être traités dans des installations thermiques adéquates.[^22-1]
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 23
 
@@ -431,11 +450,11 @@ Les laitiers d’aciérie électrique ne peuvent être valorisés qu’avec l’
 
 **Valorisation de déchets dans la fabrication de ciment et de béton**
 
-<sup>1</sup> Les déchets peuvent être utilisés comme matières premières, agents de correction du cru, combustibles, ajouts ou adjuvants lors de la fabrication de ciment et de béton, à condition qu’ils satisfassent aux exigences de l’annexe 4. Les déchets urbains mélangés et les déchets urbains mélangés puis triés ultérieurement ne peuvent pas être utilisés comme matières premières ou comme combustibles. Les résidus de tri qui sont issus du traitement de déchets urbains collectés séparément et qui ne peuvent pas faire l’objet d’une valorisation matière peuvent être utilisés comme combustibles dans la fabrication de ciment et de béton.[^24-1]
+<sup>1</sup> Les déchets peuvent être utilisés comme matières premières, agents de correction du cru, combustibles, ajouts ou adjuvants lors de la fabrication de ciment et de béton, à condition qu’ils satisfassent aux exigences de l’annexe 4. Il est interdit d’utiliser comme matières premières ou comme combustibles les déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, qui ont été mélangés ou qui ont été mélangés puis triés ultérieurement. Les résidus de tri qui sont issus du traitement de déchets urbains collectés séparément et qui ne peuvent pas faire l’objet d’une valorisation matière peuvent être utilisés comme combustibles dans la fabrication de ciment et de béton.[^24-1]
 
 <sup>2</sup> Les poussières issues de la filtration des effluents gazeux provenant d’installations de fabrication de clinker de ciment doivent être valorisées sous forme d’ajouts dans le broyage du clinker de ciment ou d’adjuvants dans la fabrication de ciment. La teneur en métaux lourds du ciment ainsi fabriqué ne doit pas dépasser les valeurs limites fixées dans l’annexe 4, ch. 3.2.
 
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Section 4 Stockage définitif de déchets
 
@@ -544,11 +563,11 @@ Il est permis d’aménager une installation destinée au traitement thermique d
 
 - a. qu’il n’est libéré aucun effluent gazeux diffus;
 - b.[^31-2] que, dans les installations traitant des déchets liquides dont le point d’éclair est inférieur à 60 °C et des déchets spéciaux infectieux, ces déchets sont séparés des autres et amenés le plus directement possible dans la chambre où a lieu le traitement thermique;
-- c.[^31-3] que, dans les installations où sont incinérés des déchets urbains ou des déchets de composition analogue, au moins 80 % du potentiel énergétique soient utilisés en dehors de l’installation; l’utilisation d’énergie à des fins de captage du CO<sub>2</sub> dans les fumées équivaut à une utilisation en dehors de l’installation.
+- c.[^31-3] que, dans les installations où sont incinérés des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, ou des déchets de composition analogue, au moins 80 % du potentiel énergétique soient utilisés en dehors de l’installation; l’utilisation d’énergie à des fins de captage du CO<sub>2</sub> dans les fumées équivaut à une utilisation en dehors de l’installation.
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^31-3]: Introduite par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^31-3]: Introduite par le ch. I de l’O du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 32
 
@@ -560,19 +579,20 @@ Il est permis d’aménager une installation destinée au traitement thermique d
 
 Les détenteurs d’installations doivent les exploiter:
 
-- a.[^32-1] de sorte qu’au moins 55 % du potentiel énergétique des déchets urbains et des déchets de composition analogue soient utilisés en dehors de l’installation; l’utilisation d’énergie à des fins de captage du CO<sub>2</sub> dans les fumées équivaut à une utilisation en dehors de l’installation;
+- a.[^32-1] de sorte qu’au moins 55 % du potentiel énergétique des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, et des déchets de composition analogue soient utilisés en dehors de l’installation; l’utilisation d’énergie à des fins de captage du CO<sub>2</sub> dans les fumées équivaut à une utilisation en dehors de l’installation;
 - b. de sorte que les composés organiques halogénés soient détruits au maximum et qu’un minimum de ces substances se forme lors du processus;
 - c.[^32-2] de sorte que les déchets spéciaux dont la teneur en composés organiques halogénés liés dépasse 1 % en poids soient traités à une température minimale de 1100 °C pendant au moins deux secondes; l’autorité peut autoriser d’autres températures minimales ainsi que d’autres temps de séjour s’il est prouvé qu’il n’en résulte pas davantage de résidus de combustion et que ces résidus ne contiennent pas davantage de polluants organiques tels que HAP, PCDD, PCDF ou PCB;
 - d.[^32-3] de sorte que les déchets liquides dont le point d’éclair est inférieur à 60 °C et les déchets spéciaux infectieux soient séparés des autres déchets et amenés le plus directement possible dans la chambre où a lieu le traitement thermique;
 - e. de sorte que la teneur des mâchefers en imbrûlés, exprimée en carbone organique total (COT), n’excède pas 2 % en poids;
 - f. de sorte que, en cas de dérangement, le traitement de tous les déchets qui se trouvent dans la chambre de traitement thermique puisse être achevé;
-- g. de sorte que, s’il s’agit d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue, les métaux contenus dans les cendres volantes soient récupérés;
-- h.[^32-4] de sorte que, si l’approvisionnement en moyens nécessaires à l’exploitation est interrompu, ils disposent d’une réserve qui garantisse la poursuite de l’exploitation courante pour une durée de deux mois au moins.
+- g.[^32-4] de sorte que, s’il s’agit d’installations où sont incinérés des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, ou des déchets de composition analogue, les métaux contenus dans les cendres volantes soient récupérés;
+- h.[^32-5] de sorte que, si l’approvisionnement en moyens nécessaires à l’exploitation est interrompu, ils disposent d’une réserve qui garantisse la poursuite de l’exploitation courante pour une durée de deux mois au moins.
 
-[^32-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 [^32-2]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^32-3]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^32-4]: Introduite par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^32-4]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^32-5]: Introduite par le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### Section 4 Installations de compostage et de méthanisation
 
@@ -594,21 +614,24 @@ Les aménagements doivent garantir:
 
 #### Art. 34
 
-**Exploitation**
+**Exploitation**[^34-1]
 
-<sup>1</sup> Dans les installations de compostage et de méthanisation qui acceptent plus de 100 t de déchets par an, il n’est permis de laisser décomposer ou de méthaniser que des biodéchets se prêtant au procédé concerné de par leurs caractéristiques, en particulier leur teneur en nutriments et en polluants, et à la valorisation comme engrais au sens de l’art. 5 de l’ordonnance du 10 janvier 2001 sur les engrais (OEng)[^34-1]. Ne doivent pas nécessairement se prêter à l’utilisation comme engrais les déchets qui sont destinés à la co-digestion dans des stations d’épuration des eaux usées.
+<sup>1</sup> Dans les installations de compostage et de méthanisation, il n’est permis de composter ou de méthaniser que des biodéchets se prêtant au procédé concerné de par leurs caractéristiques, en particulier leur teneur en nutriments, en polluants et en substances étrangères, et à la valorisation comme engrais au sens de l’art. 2, al. 1, let. a, de l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais (OEng)[^34-2]. Ne doivent pas nécessairement se prêter à l’utilisation comme engrais les déchets qui sont destinés à la co-digestion dans des stations d’épuration des eaux usées.
 
-<sup>2</sup>
+<sup>2</sup> Les biodéchets non mélangés et riches en nutriments doivent être valorisés prioritairement dans des installations de compostage et de méthanisation hors des stations d’épuration des eaux usées.
 
-Les biodéchets emballés ne peuvent être décomposés ou méthanisés dans des installations de compostage et de méthanisation selon l’al. 1 autres que des stations d’épuration des eaux que:
+<sup>3</sup>
 
-- a. si les emballages sont biodégradables et se prêtent au procédé utilisé, ou
-- b. si les emballages sont éliminés au maximum avant ou pendant la décomposition ou la méthanisation.
+Les biodéchets emballés ne peuvent être compostés ou méthanisés dans des installations de compostage et de méthanisation visées l’al. 1 hors des stations d’épuration des eaux usées que:
 
-<sup>3</sup> Au surplus, les dispositions de l’OEng et de l’ORRChim[^34-2] concernant le compost et le digestat s’appliquent.
+- a. si les emballages et les étiquettes sont biodégradables et se prêtent au procédé utilisé, ou
+- b. si les emballages et les étiquettes sont éliminés au maximum, prioritairement avant ou au plus tard pendant le compostage ou la méthanisation.
 
-[^34-1]: [[RO 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annexe ch. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annexe ch. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annexe ch. 2. [RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annexe 5 ch. I]. Voir actuellement l’O du 1<sup>er</sup> nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
-[^34-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+<sup>4</sup> Au surplus, les dispositions de l’OEng et de l’ORRChim[^34-3] concernant le compost et le digestat s’appliquent.
+
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^34-2]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^34-3]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### Section 5 Décharges
 
@@ -642,7 +665,7 @@ Il est interdit d’aménager les décharges du type E sous terre. D’autres d�
 
 - a. si les déchets sont stockés dans une cavité stable jusqu’à la fin de la phase de gestion après fermeture;
 - b. s’il est prouvé que les décharges ne peuvent pas porter atteinte à l’environnement jusqu’à la fin de la phase de gestion après fermeture; sont exceptées les décharges du type A;
-- c. si les décharges du type D stockent uniquement des mâchefers provenant d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue et si la formation de gaz est empêchée par des mesures appropriées.
+- c.[^36-1] si les décharges du type D stockent uniquement des mâchefers provenant d’installations où sont incinérés des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, ou des déchets de composition analogue et si la formation de gaz est empêchée par des mesures appropriées.
 
 <sup>3</sup>
 
@@ -650,6 +673,8 @@ Si les prescriptions de la législation sur la protection des eaux permettent la
 
 - a. détourner le cours d’eau pour qu’il contourne la décharge;
 - b. s’assurer que l’eau ne peut pas pénétrer dans la décharge.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 37
 
@@ -1236,7 +1261,7 @@ Annexe 4[^t-4]
 
 ## Exigences relatives aux déchets utilisés pour la fabrication de ciment et de béton
 
-[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), le ch. III de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), le ch. II des O du 25 juin 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) et du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), le ch. III de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), le ch. II des O du 25 juin 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)), du 29 oct. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)) et du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Utilisation de déchets comme matières premières ou agents de correction du cru
 
@@ -1377,6 +1402,8 @@ Annexe 4[^t-4]
 <tr><td>Étain</td><td>25</td></tr>
 </table>
 
+- 2\.4 La valorisation matière de déchets utilisés comme combustibles à hauteur d’au moins 20 % de leur poids est considérée comme valorisation matière et énergie.
+
 ### 3 Utilisation de déchets comme ajouts et adjuvants
 
 - 3\.1
@@ -1412,7 +1439,7 @@ Annexe 5[^t-5]
 
 ## Exigences relatives aux déchets mis en décharge
 
-[^t-5]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)), l’erratum du 26 sept. 2023 ([RO 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)) et le ch. II de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^t-5]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II des O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), du 23 fév. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)), l’erratum du 26 sept. 2023 ([RO 2023 543](https://fedlex.data.admin.ch/eli/oc/2023/543)), le ch. II des O du 25 juin 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) et du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Déchets admis dans les décharges de type A
 
@@ -1518,8 +1545,8 @@ Annexe 5[^t-5]
 
   Dans les décharges et les compartiments de type C, il est permis de stocker définitivement les déchets suivants, à condition qu’ils satisfassent aux exigences des ch. 3.2 à 3.5:
 
-  - a. les résidus de l’épuration des fumées provenant d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue, à condition que les métaux aient été récupérés au préalable conformément à l’art. 32, al. 2, let. g;
-  - b. les résidus de l’épuration des fumées provenant du traitement thermique de déchets de l’industrie et de l’artisanat qui ne sont pas comparables aux déchets urbains;
+  - a. les résidus de l’épuration des fumées provenant d’installations où sont incinérés des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, ou des déchets de composition analogue, à condition que les métaux aient été récupérés au préalable conformément à l’art. 32, al. 2, let. g;
+  - b. les résidus de l’épuration des fumées provenant du traitement thermique de déchets de l’industrie et de l’artisanat qui ne sont pas comparables aux déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3;
   - c. les résidus provenant du traitement des eaux usées issues d’installations pour le traitement thermique de déchets;
   - d. les revêtements de fours;
   - e. d’autres déchets métallifères, inorganiques et difficilement solubles, pour autant que les métaux aient été récupérés au préalable.
@@ -1592,7 +1619,7 @@ Test 2
 
   Dans les décharges et les compartiments de type D, il est permis de stocker définitivement les déchets suivants:
 
-  - a. les cendres volantes provenant d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue, à condition que les métaux aient été récupérés au préalable conformément à l’art. 32, al. 2, let. g;
+  - a. les cendres volantes provenant d’installations où sont incinérés des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, ou des déchets de composition analogue, à condition que les métaux aient été récupérés au préalable conformément à l’art. 32, al. 2, let. g;
   - b. le verre des écrans après enlèvement intégral du revêtement;
   - c. les résidus vitrifiés au sens du ch. 2.2;
   - d. les mâchefers dont la teneur en COT ne dépasse pas 20 000 mg par kg et provenant d’installations servant au traitement thermique de déchets spéciaux;
@@ -1604,7 +1631,7 @@ Test 2
 - 4\.2 Les résidus du traitement thermique des déchets doivent contenir aussi peu de dioxines (PCDD) et de furanes (PCDF) que l’état de la technique le permet, mais au maximum 1 µg TEQ par kg. La teneur est calculée à partir de facteurs d’équivalence toxique (FET), conformément à l’état de la technique.
 - 4\.3
 
-  Les mâchefers provenant d’installations d’incinération des déchets urbains ou des déchets de composition analogue peuvent être stockés définitivement dans des décharges ou des compartiments de type D:
+  Les mâchefers provenant d’installations d’incinération des déchets urbains au sens de l’art. 3, let. a, ch. 1 à 3, ou des déchets de composition analogue peuvent être stockés définitivement dans des décharges ou des compartiments de type D:
 
   - a. si les particules de métaux non ferreux contenues dans les mâchefers ont été récupérées au préalable, du moins de manière qu’elles ne dépassent pas 1 % (en poids) des mâchefers; pour déterminer la teneur en métaux non ferreux sous forme particulaire, les mâchefers sont moulus jusqu’à une granulométrie de 2 mm;
   - b. si les mâchefers ont une teneur en COT ne dépassant pas 20 000 mg par kg.
@@ -1716,9 +1743,9 @@ Annexe 7[^t-6]
 
 (art. 14*a*)
 
-## Exigences relatives aux déchets de bois destinés à une valorisation matière ou thermique
+## Exigences relatives aux déchets de bois destinés à une valorisation matière ou énergie
 
-[^t-6]: Introduite par le ch. II de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Introduite par le ch. II de l’O du 16 nov. 2022 ([RO 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)). Mise à jour par le ch. II de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Valorisation matière des déchets de bois
 
@@ -1742,9 +1769,9 @@ Les déchets de bois peuvent faire l’objet d’une valorisation matière sous 
 <tr><td colspan="2">\*\* ∑16 HAP selon EPA: naphtalène, acénaphthylène, 1,2-dihydroacénaphtylène, fluorène, phénanthrène, anthracène, fluoranthène, pyrène, benzo[a]anthracène, chrysène, benzo[a]pyrène, benzo[b]fluoranthène, benzo[k]fluoranthène, dibenzo[a,h]anthracène, benzo[g,h,i]pérylène, indéno[1,2,3-c,d]pyrène</td></tr>
 </table>
 
-### 2 Valorisation thermique des déchets de bois
+### 2 Valorisation énergie des déchets de bois
 
-Les déchets de bois peuvent faire l’objet d’une valorisation thermique dans des installations de combustion alimentées avec du bois usagé s’ils ne dépassent pas les valeurs limites suivantes (teneurs totales):
+Les déchets de bois peuvent faire l’objet d’une valorisation énergie dans des installations de combustion alimentées avec du bois usagé s’ils ne dépassent pas les valeurs limites suivantes (teneurs totales):
 
 <table>
 <tr><th>Substance</th><th>Valeur limite en mg/kg de matière sèche</th></tr>

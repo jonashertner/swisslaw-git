@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260801/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260801-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Last amended on 1 January 2026)
+of 4 December 2015 (Last amended on 1 August 2026)
 
 The Swiss Federal Council,
 
@@ -61,25 +61,26 @@ In this Ordinance:
 
   - 1\. waste from households,
   - 2\. waste from businesses with fewer than 250 full-time employees the composition of which in ingredients and proportions is similar to waste from households,
-  - 3\. waste from public authorities the composition of which in ingredients and proportions is similar to waste from households;
+  - 3\. waste from public authorities the composition of which in ingredients and proportions is similar to waste from households,
+  - 4\.[^3-2] all residues produced by facilities for the incineration of the waste specified in points 1–3, until they have been recovered or deposited;
 
 - b. *undertaking* means a legal entity with its own identification number or such entities combined in a group with a jointly organised waste disposal system;
-- c. *special waste* means waste designated as special waste in the list of wastes issued in Article 2 of the Ordinance of 22 June 2005[^3-2] on Movements of Waste (OMW);
+- c. *special waste* means waste designated as special waste in the list of wastes issued in Article 2 of the Ordinance of 22 June 2005[^3-3] on Movements of Waste (OMW);
 - d. *biogenic waste* means waste of vegetable, animal or microbial origin;
 - e. *construction waste* means waste produced in the construction, conversion or dismantling of fixed installations;
 - f. *excavated material* means material that is excavated or extracted in the course of construction work, with the exception of any topsoil and subsoil removed;
-- f<sup>bis</sup>.[^3-3]
+- f<sup>bis</sup>.[^3-4]
 
   mercury waste:
 
   - 1\. waste that contains mercury or mercury compounds,
-  - 2\. mercury or mercury compounds originating from the treatment of mercury waste in terms of number 1; the foregoing does not apply to mercury that has been authorised for export under Annex 1.7 Numbers 2.2.4 or 4.2 of the Chemical Risk Reduction Ordinance of 18 May 2005[^3-4] (ORRChem),
+  - 2\. mercury or mercury compounds originating from the treatment of mercury waste in terms of number 1; the foregoing does not apply to mercury that has been authorised for export under Annex 1.7 Numbers 2.2.4 or 4.2 of the Chemical Risk Reduction Ordinance of 18 May 2005[^3-5] (ORRChem),
   - 3\. mercury or mercury compounds that is or are no longer required in industrial processes;
 
 - g. *waste disposal facility* means an installation in which waste is treated, recovered, deposited or temporarily stored, with the exception of material extraction sites in which excavated material is recovered;
-- h.[^3-5] ...
+- h.[^3-6] ...
 - i. *composting facility* means a waste disposal facility in which biogenic waste decomposes while exposed to the air;
-- j.[^3-6] *fermentation facility* means a waste disposal facility in which biogenic waste is allowed to ferment in the absence of air;
+- j.[^3-7] *fermentation facility* means a waste disposal facility in which biogenic waste is allowed to ferment in the absence of air;
 - k. *landfill* means a waste disposal facility in which waste is deposited;
 - l. *incineration* means the treatment of waste at a temperature that is sufficiently high that substances hazardous to the environment are destroyed or physically or chemically bonded by mineralisation;
 - m.
@@ -87,14 +88,26 @@ In this Ordinance:
   *state of the art* means the latest stage of development of procedures, installations and operating methods which:
 
   - 1\. have been successfully tested in comparable facilities or activities in Switzerland or abroad or have been used successfully in trials and may be used in other facilities or activities in accordance with the rules of the technology, and
-  - 2\. is economically viable in a medium-sized and economically sound enterprise in the relevant industry.
+  - 2\. is economically viable in a medium-sized and economically sound enterprise in the relevant industry;
+
+- n.[^3-8] *re-use* means a process whereby objects and their components, which are not waste or which have ceased to be waste following a recovery process, are reused for the same purpose for which they were originally intended, or for a comparable purpose;
+- o.[^3-9] *preparation for re-use* means a recovery process in which waste is prepared in stages such as inspection, cleaning and repair so that it can be reused;
+- p.[^3-10] *recycling* means a recovery process in which the material properties of waste are used by treating the waste in such a way that it can be reused as secondary raw materials;
+- q.[^3-11] *material and energy recovery* means a recovery process in which waste is recovered both as a material and for energy;
+- r.[^3-12] *energy recovery* means a recovery process in which waste is used as a source of energy as part of its disposal.
 
 [^3-1]: Amended by No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-2]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
-[^3-3]: Inserted by No II 1 of the O of 25 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^3-4]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
-[^3-5]: Repealed by No I of the O of 12 Feb. 2020, with effect from 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^3-6]: The correction of 19 July 2016 relates to the Italian text only ([AS 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
+[^3-2]: Inserted by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-3]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^3-4]: Inserted by No II 1 of the O of 25 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^3-5]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^3-6]: Repealed by No I of the O of 12 Feb. 2020, with effect from 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^3-7]: The correction of 19 July 2016 relates to the Italian text only ([AS 2016 2629](https://fedlex.data.admin.ch/eli/oc/2016/417)).
+[^3-8]: Inserted by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-9]: Inserted by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-10]: Inserted by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-11]: Inserted by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^3-12]: Inserted by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ## Chapter 2 Planning and Reporting
 
@@ -186,9 +199,11 @@ Waste of one types may not be mixed with other waste or with aggregates if this 
 
 #### Art. 10
 
-**Obligation to incinerate**
+**Obligation to incinerate**[^10-1]
 
-Municipal waste and waste of similar composition, sewage sludge, combustible fractions of construction waste and other combustible waste must be incinerated in appropriate facilities, unless their constituents may be recovered.
+Municipal waste in accordance with Article 3 letter a numbers 1–3 and waste of similar composition, sewage sludge, combustible fractions of construction waste and other combustible waste must be incinerated in appropriate facilities, unless their constituents may be re-used or recovered either as a material or as a minimum for energy.
+
+[^10-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Section 2 Avoidance of Waste
 
@@ -202,49 +217,49 @@ Municipal waste and waste of similar composition, sewage sludge, combustible fra
 
 #### Art. 12
 
-**General recovery obligation according to the state of the art**
+**General obligation to recover waste according to the state of the art**[^12-1]
 
-<sup>1</sup>
+Any recovery in accordance with Article 30*d* paragraphs 1–3 EPA must be carried out according to the state of the art.
 
-Waste must be recycled or recovered for energy provided recovery does less harm to the environment than:
-
-- a. any other form of disposal; and
-- b. the manufacture of new products or the acquisition of other heating fuels.
-
-<sup>2</sup> Recovery must be carried out according to the state of the art.
+[^12-1]: Amended by No I o the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 13
 
 **Municipal waste and waste of similar composition**
 
-<sup>1</sup> The cantons shall ensure that that the recoverable parts of municipal waste such as glass, paper, cardboard, metals, garden waste and textiles are if possible collected separately and recycled.
+<sup>1</sup> The cantons shall ensure that the recoverable parts of municipal waste in accordance with Article 3 letter a numbers 1–3 such as glass, paper, cardboard, metals, biogenic waste and textiles are if possible collected separately and prepared for re-use or recycled as a material.[^13-1]
 
 <sup>2</sup>
 
 They shall ensure that the following are collected and disposed of separately:
 
 - a. special waste from households;
-- b.[^13-1] non-business-specific special waste of up to 20 kg per collection from businesses and public authorities with fewer than 10 full-time employment positions.
+- b.[^13-2] non-business-specific special waste of up to 20 kg per collection from businesses and public authorities with fewer than 10 full-time employment positions.
 
 <sup>3</sup> They shall ensure that the infrastructure required to comply with paragraphs 1 and 2 is provided, and in particular that collection points are set up. If necessary they shall also ensure that regular collections are made.
 
-<sup>4</sup> The proprietors of waste from businesses with 250 or more full-time employment positions must as far as possible and reasonable collect and recycle the recoverable parts of their waste that are similar in their composition to municipal waste.
+<sup>4</sup> The proprietors of waste from businesses with 250 or more full-time employment positions must as far as possible and reasonable collect and prepare for re-use or recycle as material their waste that are similar in their composition to municipal waste in accordance with Article 3 letter a numbers 1–3.[^13-3]
 
-[^13-1]: Amended by No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^13-2]: Amended by No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
+[^13-3]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14
 
-**Biogenic waste**
+**Biogenic waste**[^14-1]
 
-<sup>1</sup>
+<sup>1</sup> Biogenic waste suitable for recovery in accordance with paragraph 2 must be collected separately and any foreign substances must be removed as early as possible.
+
+<sup>2</sup>
 
 Biogenic waste must be recovered solely by recycling or by fermentation, provided:
 
 - a. it is suitable for this purpose as a result of its properties, in particular its nutrient and pollutant content;
-- b. it has been collected separately; and
-- c. recovery is not prohibited by other provisions of federal law.
+- b. recovery is not prohibited by other provisions of federal law.
 
-<sup>2</sup> Biogenic waste that need not be recovered in accordance with paragraph 1 must as far as possible and reasonable simply be recovered for energy or incinerated in appropriate facilities. In doing so, its energy content must be used.
+<sup>3</sup> Biogenic waste that need not be recovered in accordance with paragraph 2 must as far as possible and reasonable be recovered purely for energy or incinerated in appropriate facilities. In doing so, its energy content must be used.
+
+[^14-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 14a
 
@@ -252,9 +267,10 @@ Biogenic waste must be recovered solely by recycling or by fermentation, provide
 
 <sup>1</sup> Wood waste that meets the requirements of Annex 7 number 1 may be used for recycling as composite wood.
 
-<sup>2</sup> Wood waste, that meets the requirements of Annex 7 number 2 may be thermally recycled in waste wood furnaces.
+<sup>2</sup> Wood waste that meets the requirements set out in Annex 7 number 2 may be used for energy recovery in waste wood combustion plants.[^14a-2]
 
 [^14a-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^14a-2]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 15
 
@@ -419,7 +435,9 @@ Metal fragments must be removed from the lightest fraction obtained by shredding
 
 <sup>1</sup> Recoverable parts such as chippings, sand and gravel must be separated from sludge and sweepings from street gullies that are primarily of mineral composition and recycled.
 
-<sup>2</sup> The remaining parts of street sweepings in accordance with paragraph 1 and other street sweepings, municipal waste or waste of similar composition or with high biogenic content must be incinerated in appropriate facilities.
+<sup>2</sup> The remaining parts of street sweepings in accordance with paragraph 1 and other street sweepings, municipal waste in accordance with Article 3 letter a numbers 1–3 or waste of similar composition or with high biogenic content must be incinerated in appropriate facilities.[^22-1]
+
+[^22-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 23
 
@@ -437,11 +455,11 @@ Electric arc furnace slag may only be recovered with the consent of the cantonal
 
 **Recovery of waste in the production of cement and concrete**
 
-<sup>1</sup> Waste may be used as a raw material, as raw meal corrective substances, as heating fuels or as additives or aggregates in the production of cement and concrete provided it satisfies the requirements under Annex 4. However, mixed municipal waste may not be used as a raw material or as a heating fuel even if collected and subsequently sorted. Sorting residues resulting from the treatment of separately collected municipal waste that cannot be recovered may be used as fuel in the manufacture of cement and concrete.[^24-1]
+<sup>1</sup> Waste may be used as a raw material, as raw meal corrective substances, as heating fuels or as additives or aggregates in the production of cement and concrete provided it satisfies the requirements under Annex 4. However, municipal waste in accordance with Article 3 letter a numbers 1–3 that is mixed or collected mixed may not be used as a raw material or as a heating fuel even if subsequently sorted. Sorting residues resulting from the treatment of separately collected municipal waste that cannot be recovered may be used as fuel in the manufacture of cement and concrete.[^24-1]
 
 <sup>2</sup> Dusts from the exhaust filtering at facilities producing cement clinker must be recovered as aggregates for grinding cement clinker or as additives in the production of cement. The heavy metal content of the cement produced must not exceed the limit values in Annex 4 number 3.2.
 
-[^24-1]: Amended by No I of the O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^24-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Section 4 Landfilling of Waste
 
@@ -531,7 +549,7 @@ Proprietors of waste disposal facilities must:
 
 <sup>2</sup> Waste suitable for fermentation and decomposition that is compressed into bales may be temporarily stored in landfills of types C-E and at facilities for the incineration of waste.[^30-2]
 
-- [tab] <sup>3</sup> The cantonal authority may require the proprietors of temporary storage sites to provide security in the form of a bank guarantee or insurance to cover the costs of a damaging event.[^30-3]
+<sup>3</sup> The cantonal authority may require the proprietors of temporary storage sites to provide security in the form of a bank guarantee or insurance to cover the costs of a damaging event.[^30-3]
 
 <sup>4</sup> ...[^30-4]
 
@@ -550,11 +568,11 @@ Facilities may be constructed or their capacity increased for the incineration o
 
 - a. no diffuse waste gases are emitted;
 - b.[^31-2] at facilities that treat liquid waste with a flashpoint below 60 °C and infectious special waste, such waste can be placed in the incineration chamber separately from the other waste and as directly as possible;
-- c.[^31-3] at facilities that incinerate municipal waste or waste of similar composition, at least 80 per cent of the energy content is used outside the facilities; the use of energy to capture CO<sub>2</sub> from flue gas is regarded as use outside the facilities.
+- c.[^31-3] at facilities that incinerate municipal waste in accordance with Article 3 letter a numbers 1–3 or waste of similar composition, at least 80 per cent of the energy content is used outside the facilities; the use of energy to capture CO<sub>2</sub> from flue gas is regarded as use outside the facilities.
 
 [^31-1]: Amended by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
 [^31-2]: Amended by No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^31-3]: Inserted by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^31-3]: Inserted by No I of the O of 23 Feb. 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)). Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 32
 
@@ -566,19 +584,20 @@ Facilities may be constructed or their capacity increased for the incineration o
 
 Proprietors of facilities must operate them so that:
 
-- a.[^32-1] at least 55 per cent of the energy content of municipal waste and waste of similar composition is used outside the facilities; the use of energy to capture CO<sub>2</sub> from flue gas is regarded as use outside the facilities;
+- a.[^32-1] at least 55 per cent of the energy content of municipal waste in accordance with Article 3 letter a numbers 1–3 and waste of similar composition is used outside the facilities; the use of energy to capture CO<sub>2</sub> from flue gas is regarded as use outside the facilities;
 - b. on treatment, halogenated organic compounds are broken down as completely as possible and only reform to a minimal extent;
 - c.[^32-2] special waste that contains more than one per cent by weight of organically bonded halogens is treated at a minimum temperature of 1100 °C for at least 2 seconds; the authority may permit other minimum temperatures and treatment times if it is proven that this does not result in more residues from incineration and that the residues do not contain higher levels of organic pollutants such as PAKs, PCDDs, PCDFs or PCBs;
 - d.[^32-3] liquid waste with a flashpoint below 60 °C and infectious special waste are placed in the incineration chamber separately from the other waste and as directly as possible;
 - e. the slag contains no more than two per cent by weight unburned parts, measured as total organic carbon (TOC);
 - f. in the event of disruption to operations, the treatment of any waste in the incineration chamber is completed;
-- g. at facilities that incinerate municipal waste or waste of similar composition, metals are recovered from the filter ash;
-- h.[^32-4] in the event of any interruption in the supply of necessary operating resources, a reserve is available to ensure normal operation for at least two months.
+- g.[^32-4] at facilities that incinerate municipal waste in accordance with Article 3 letter a numbers 1–3 or waste of similar composition, metals are recovered from the filter ash;
+- h.[^32-5] in the event of any interruption in the supply of necessary operating resources, a reserve is available to ensure normal operation for at least two months.
 
-[^32-1]: Amended by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^32-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 [^32-2]: Amended by No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
 [^32-3]: Amended by No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)).
-[^32-4]: Inserted by No I of the O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^32-4]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^32-5]: Inserted by No I of the O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### Section 4 Composting and Fermentation Facilities
 
@@ -600,21 +619,24 @@ The structural elements must guarantee that:
 
 #### Art. 34
 
-**Operation**
+**Operation**[^34-1]
 
-<sup>1</sup> In composting and fermentation facilities that accept more than 100 t of waste each year, biogenic waste may only be allowed to decompose or ferment if it is suitable for the relevant procedure due to its properties, and in particular its nutrient and pollutant content, and for recovery as fertiliser as defined in Article 5 of the Fertiliser Ordinance of 10 January 2001[^34-1] (FertO). Waste that is fermented in facilities for co-fermentation in waste water treatment plants is exempt from the requirement of suitability as fertiliser.
+<sup>1</sup> In composting and fermentation facilities, biogenic waste may only be allowed to be composted or to ferment if it is suitable for the relevant procedure due to its properties, in particular its nutrient, pollutant and foreign substance content, and for recovery as fertiliser as defined in Article 2 paragraph 1 letter a of the Fertilisers Ordinance of 1 November 2023[^34-2] (FertO). Waste that is fermented in facilities for co-fermentation in waste water treatment plants is exempt from the requirement of suitability as fertiliser.
 
-<sup>2</sup>
+<sup>2</sup> Unmixed, nutrient-rich biogenic waste must, as a priority, be processed in composting and fermentation facilities outside of wastewater treatment works.
 
-Packaged biogenic waste may only be allowed to decompose or ferment in composting and fermentation facilities in accordance with paragraph 1 other than waste water treatment plants if:
+<sup>3</sup>
 
-- a. the packaging is bio-degradable and suitable for the procedure concerned; or
-- b. the packaging is as far as possible removed before or during decomposition or fermentation.
+Packaged biogenic waste may only be allowed to be composted or to ferment in composting and fermentation facilities in accordance with paragraph 1 other than waste water treatment plants if:
 
-<sup>3</sup> The regulations in the FertO and the ORRChem[^34-2] relating to compost and digestates also apply.
+- a. the packaging and labelling are bio-degradable and suitable for the procedure concerned;
+- b. the packaging and labelling must be removed to the extent possible, preferably before or at the latest during composting or fermentation.
 
-[^34-1]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Annex 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)Annex 5 No I]. See the O of 1 Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
-[^34-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+<sup>4</sup> The regulations in the FertO and the ORRChem[^34-3] relating to compost and digestates also apply.
+
+[^34-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
+[^34-2]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^34-3]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### Section 5 Landfills
 
@@ -648,7 +670,7 @@ Type E landfills may not be constructed underground. Other landfills may be cons
 
 - a. the waste is deposited in a stable cavity until the end of the after-care phase;
 - b. it is demonstrated that the landfills, with the exception of Type A landfills, cannot harm the environment until the end of the after-care phase;
-- c. in the case of Type D landfills, only slag is deposited that originates from facilities in which municipal waste or waste of similar composition is incinerated and appropriate measures are taken to prevent the build-up of gases.
+- c.[^36-1] in the case of Type D landfills, only slag is deposited that originates from facilities in which municipal waste in accordance with Article 3 letter a numbers 1–3 or waste of similar composition is incinerated and appropriate measures are taken to prevent the build-up of gases.
 
 <sup>3</sup>
 
@@ -656,6 +678,8 @@ In cases where it is permitted under the waters protection legislation to divert
 
 - a. the bodies of water must be diverted around the landfill;
 - b. it must be ensured that no water can intrude into the landfill.
+
+[^36-1]: Amended by No I of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 #### Art. 37
 
@@ -1175,7 +1199,7 @@ Annex 3[^t-3]
   - c. the substances that it contains do not exceed the following limit values (total content) or any excess is not due to human activities:
 
 <table>
-<tr><td>Substance</td><td>Limit value in mg/kg of dry matter</td></tr>
+<tr><th>Substance</th><th>Limit value in mg/kg of dry matter</th></tr>
 <tr><td>Antimony</td><td>3</td></tr>
 <tr><td>Arsenic</td><td>15</td></tr>
 <tr><td>Lead</td><td>50</td></tr>
@@ -1242,14 +1266,14 @@ Annex 4[^t-4]
 
 ## Requirements applicable to waste from the production of cement and concrete
 
-[^t-4]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), No III of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) and No II of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^t-4]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), No III of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), No II of 25 June 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)), of 29 Oct. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)) and of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Using waste as a raw material and as a corrective substance to raw meal
 
 - 1\.1 Waste may be used as a raw material in the production of cement clinker if the following limit values (total content) are not exceeded and the cement clinker produced satisfies the requirements of number 1.6:
 
 <table>
-<tr><td>Substance</td><td>Limit value in mg/kg of dry matter</td></tr>
+<tr><th>Substance</th><th>Limit value in mg/kg of dry matter</th></tr>
 <tr><td>Antimony</td><td>30</td></tr>
 <tr><td>Arsenic</td><td>30</td></tr>
 <tr><td>Lead</td><td>500</td></tr>
@@ -1339,7 +1363,7 @@ Annex 4[^t-4]
   - a. does not exceed not exceed the following limit values (total content):
 
 <table>
-<tr><td>Substance</td><td>Limit value in mg/kg</td></tr>
+<tr><th>Substance</th><th>Limit value in mg/kg</th></tr>
 <tr><td>Antimony</td><td>300</td></tr>
 <tr><td>Arsenic</td><td>30</td></tr>
 <tr><td>Lead</td><td>500</td></tr>
@@ -1383,6 +1407,8 @@ Annex 4[^t-4]
 <tr><td>Tin</td><td>25</td></tr>
 </table>
 
+- 2\.4 If, when used as heating fuel, at least 20 per cent by weight of the waste is recovered as material, this is regarded as material and energy recovery.
+
 ### 3 Using waste as additives and aggregates
 
 - 3\.1
@@ -1418,7 +1444,7 @@ Annex 5[^t-5]
 
 ## Requirements for landfill waste
 
-[^t-5]: Revised by No II of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)) and of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^t-5]: Revised by No II of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)), of 23 Feb. 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)), of 25 June 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) and of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Type A acceptable waste
 
@@ -1527,8 +1553,8 @@ Annex 5[^t-5]
 
   The following waste may be deposited in Type C landfills and compartments, provided it satisfies the requirements of the numbers 3.2–3.5:
 
-  - a. residues from flue gas cleaning from facilities in which municipal waste or waste of similar composition is incinerated, provided metals are recovered beforehand in accordance with Article 32 paragraph 2 letter g;
-  - b. residues from flue gas cleaning in the incineration of waste in industry and commerce that are not similar to municipal waste;
+  - a. residues from flue gas cleaning from facilities in which municipal waste in accordance with Article 3 letter a numbers 1–3 or waste of similar composition is incinerated, provided metals are recovered beforehand in accordance with Article 32 paragraph 2 letter g;
+  - b. residues from flue gas cleaning in the incineration of waste in industry and commerce that are not similar to municipal waste in accordance with Article 3 letter a numbers 1–3;
   - c. residues from the treatment of waste water produced in facilities for the incineration of waste;
   - d. furnace linings;
   - e. other metal-containing, inorganic and poorly soluble waste, provided the metals are recovered beforehand.
@@ -1593,7 +1619,7 @@ Test 2
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* See the explanatory notes for number 2.3 letter b</td><td></td></tr>
 </table>
 
-- 3\.5 The total mercury content of waste containing metal, and inorganic or poorly soluble waste in accordance with number 3.1 letter e may not exceed 5 mg per kg in relation to the dry matter,.
+- 3\.5 The total mercury content of waste containing metal, and inorganic or poorly soluble waste in accordance with number 3.1 letter e may not exceed 5 mg per kg in relation to the dry matter.
 
 ### 4 Type D acceptable waste
 
@@ -1601,7 +1627,7 @@ Test 2
 
   The following waste may be deposited on landfills and compartments of Type D:
 
-  - a. filter ash from facilities in which municipal waste or waste of similar composition is incinerated, provided metals in accordance with Article 32 paragraph 2 letter g are recovered beforehand;
+  - a. filter ash from facilities in which municipal waste in accordance with Article 3 letter a numbers 1–3 or waste of similar composition is incinerated, provided metals in accordance with Article 32 paragraph 2 letter g are recovered beforehand;
   - b. screen glass, after its coating has been completely removed;
   - c. vitrified residues in accordance with number 2.2;
   - d. slag containing no more than 20 000 mg TOC per kg from facilities in which special waste is incinerated;
@@ -1613,7 +1639,7 @@ Test 2
 - 4\.2 Residues from the incineration of waste shall have as low a content of dioxins (PCDD) and furans (PCDF) as the state of the art permits, and no more than 1 μg toxic equivalents (TEQ) per kg. The calculation of the content is carried out on the basis of the toxic equivalence factors (TEF) according to the state of the art.
 - 4\.3
 
-  Slag from facilities in which municipal waste or waste of similar composition is incinerated may be deposited in Type D landfills or compartments if:
+  Slag from facilities in which municipal waste in accordance with Article 3 letter a numbers 1–3 or waste of similar composition is incinerated may be deposited in Type D landfills or compartments if:
 
   - a. the non-ferrous particulate metals contained in the slag have been recovered beforehand at least to the extent that their proportion in the slag does not exceed 1.5 per cent by weight. In order to determine the content in non-ferrous metals, the slag is ground to a particle size of 2 mm;
   - b. it contains no more than 20 000 mg TOC per kg.
@@ -1725,9 +1751,9 @@ Annex 7[^t-6]
 
 (Art. 14*a*)
 
-## Requirements for the recycling and thermal recycling of wood waste
+## Requirements for wood waste intended for material and energy recovery
 
-[^t-6]: Inserted by No II of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)).
+[^t-6]: Inserted by No II of the O of 16 Nov. 2022 ([AS 2022 778](https://fedlex.data.admin.ch/eli/oc/2022/778)). Revised by No II of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### 1 Recycling of wood waste
 
@@ -1751,9 +1777,9 @@ Wood waste may be recycled as composite wood provided the following limit values
 <tr><td colspan="2">\*\* ∑16 EPA-PAH: naphthalene, acenaphthylene, 1,2-dihydroacenaphthylene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benz[*a*]anthracene, chrysene, benzo[*a*]pyrene, benzo[*b*]fluoranthene, benzo[*k]*fluoranthene, dibenz[*a,h*]anthracene, benzo[*g,h,i*]perylene, and indeno[1,2,3-*c,d*]pyrene</td></tr>
 </table>
 
-### 2 Thermal recycling of wood waste
+### 2 Energy recovery of wood waste
 
-Wood waste may be thermally recycled in waste wood furnaces provided the following limit values (total content) are not exceeded:
+Wood waste may be recovered as energy in waste wood furnaces provided the following limit values (total content) are not exceeded:
 
 <table>
 <tr><th>Substance</th><th>Limit value in mg/kg of dry matter</th></tr>
