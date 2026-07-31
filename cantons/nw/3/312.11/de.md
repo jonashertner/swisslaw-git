@@ -1,25 +1,24 @@
 ---
 canton: NW
 number: "312.11"
-title: Vollzugsverordnung zum Gesetz über die Volksschule
+title: Verordnung zum Gesetz über die Volksschule
 short: "Volksschulverordnung, VSV"
 language: de
-version: 2025-08-01
-corrected: 2025-06-23
+version: 2026-08-01
 version_adopted: 2025-06-10
 adopted: 2003-07-01
 in_force: 2003-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/312.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1372/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesetz über die Volksschule
+# Verordnung zum Gesetz über die Volksschule
 
 (Volksschulverordnung, VSV)
 
-vom 01.07.2003 (Stand 01.08.2025)
+vom 01.07.2003 (Stand 01.08.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -45,10 +44,12 @@ beschliesst:
 <sup>1</sup> Elternbeiträge je Schülerin beziehungsweise je Schüler können einverlangt werden:
 
 - 1\. für die Verpflegung im Rahmen des Fachs Wirtschaft, Arbeit, Haushalt höchstens Fr. 160.– je Schuljahr;
-- 2\. für die Verpflegung anlässlich von Exkursionen, Schulreisen und Schulverlegungen höchstens Fr. 10.– pro Tag;
-- 3\. für übrige Kosten je Schuljahr insgesamt höchstens Fr. 100.– auf der Kindergarten- beziehungsweise Primarschulstufe und Fr. 200.– an der Orientierungsschule.
+- 2\. für die Verpflegung anlässlich von Exkursionen, Schulreisen und Schulverlegungen höchstens Fr. 16.– pro Tag;
+- 3\. …
 
-<sup>2</sup> Höhere Beiträge können nur im Einvernehmen mit den Eltern erhoben werden.
+<sup>2</sup> Höhere Beiträge können nur für freiwillige Schulanlässe und im Einvernehmen mit den Eltern erhoben werden.
+
+<sup>3</sup> Die Elternbeiträge für die Verpflegung und die ausserschulische Betreuung im Rahmen der separativen Sonderschulung richten sich nach § 35n.
 
 #### § 3
 
@@ -383,30 +384,27 @@ beschliesst:
 <tr><td>Sprachen: Italienisch</td><td></td><td></td><td></td><td>3</td></tr>
 <tr><td>Mathematik</td><td>6</td><td>5</td><td>5</td><td></td></tr>
 <tr><td>Mathematik: Technisches Zeichnen</td><td></td><td></td><td></td><td>2</td></tr>
-<tr><td>Natur, Mensch, Gesellschaft: Natur und Technik</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>Natur, Mensch, Gesellschaft: Natur und Technik</td><td>3</td><td>3</td><td>2</td><td>3</td></tr>
 <tr><td>Natur, Mensch, Gesellschaft: Geografie und Geschichte</td><td>3</td><td>3</td><td>4</td><td></td></tr>
 <tr><td>Natur, Mensch, Gesellschaft: Wirtschaft, Arbeit, Haushalt</td><td></td><td>4</td><td>1</td><td>3</td></tr>
-<tr><td>Natur, Mensch, Gesellschaft: Lebenskunde (einschliesslich Ethik, Religionen, Gemeinschaft und Berufliche Orientierung)</td><td>2</td><td>2</td><td>1</td><td></td></tr>
-<tr><td>Natur, Mensch, Gesellschaft: Medien und Informatik</td><td>1</td><td>1</td><td></td><td>1</td></tr>
-<tr><td>Gestalten, Musik, Sport: Musik</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
-<tr><td>Gestalten, Musik, Sport: Bildnerisches Gestalten</td><td>2</td><td>2</td><td>2[^32-1]</td><td></td></tr>
-<tr><td>Gestalten, Musik, Sport: Textiles und Technisches Gestalten</td><td>3</td><td>2</td><td>3[^32-2]</td><td></td></tr>
+<tr><td>Natur, Mensch, Gesellschaft: Lebenskunde (einschliesslich Ethik, Religionen, Gemeinschaft und Berufliche Orientierung)</td><td>2</td><td>2</td><td></td><td></td></tr>
+<tr><td>Natur, Mensch, Gesellschaft: Medien und Informatik</td><td>1</td><td>1</td><td>1</td><td></td></tr>
+<tr><td>Gestalten, Musik, Sport: Musik</td><td>1</td><td>1</td><td></td><td>2</td></tr>
+<tr><td>Gestalten, Musik, Sport: Bildnerisches Gestalten</td><td>2</td><td>2</td><td></td><td>2</td></tr>
+<tr><td>Gestalten, Musik, Sport: Textiles und Technisches Gestalten</td><td>3</td><td>2</td><td></td><td>3</td></tr>
 <tr><td>Gestalten, Musik, Sport: Bewegung und Sport</td><td>3</td><td>3</td><td>3</td><td></td></tr>
-<tr><td>Projektunterricht</td><td></td><td></td><td>2</td><td></td></tr>
-<tr><td>minimale Lektionen je Woche</td><td>35</td><td>35</td><td>26–27 (Total: 35)</td><td>8–9 (Total: 35)</td></tr>
+<tr><td>Projektunterricht / Lebenskunde</td><td></td><td></td><td>4</td><td></td></tr>
+<tr><td>minimale Lektionen je Woche</td><td>35</td><td>35</td><td>24 (Total: 35)</td><td>11 (Total: 35)</td></tr>
 <tr><td>zusätzlich konfessioneller Religionsunterricht gemäss § 10, höchstens</td><td>1</td><td>1</td><td>1</td><td></td></tr>
 </table>
 
 <sup>2</sup> In der 2. Klasse können Lernende des Niveaus B eine Fremdsprache abwählen. Diese Lernenden besuchen stattdessen im gleichen Umfang die Fächer Deutsch oder Mathematik.
 
-[^32-1]: Wahlpflichtfach gemäss § 34
-[^32-2]: Wahlpflichtfach gemäss § 34
-
 #### § 33
 
 **Projektunterricht**
 
-<sup>1</sup> Die Begleitung und Betreuung der Lernenden im Projektunterricht wird durch die Lehrperson im Rahmen der vorgegebenen zwei Projektlektionen geleistet.
+<sup>1</sup> Die Begleitung und Betreuung der Lernenden im Projektunterricht wird durch die Lehrperson im Rahmen der Projektlektionen geleistet.
 
 <sup>2</sup> Im 2. Semester der 3. Klasse der Orientierungsschule haben die Lernenden eine Abschlussarbeit zu verfassen.
 
@@ -416,17 +414,13 @@ beschliesst:
 
 #### § 34
 
-**Wahlpflichtfächer**
-
-<sup>1</sup> In der 3. Klasse ist entweder Bildnerisches Gestalten mit zwei Lektionen oder Textiles und Technisches Gestalten mit drei Lektionen zu belegen. Es steht den Lernenden frei, beide Fächer zu belegen.
-
-<sup>2</sup> Die Schulgemeinden sind verpflichtet, diese Wahlpflichtfächer anzubieten.
+**…**
 
 #### § 35
 
 **Wahlfächer**
 
-<sup>1</sup> In der 3. Klasse sind zusätzlich zu den Wahlpflichtfächern gemäss § 34 mindestens Wahlfächer im Umfang von acht beziehungsweise neun Lektionen zu besuchen.
+<sup>1</sup> In der 3. Klasse sind Wahlfächer im Umfang von mindestens elf Lektionen zu besuchen.
 
 <sup>2</sup> Das Wahlfach wird in der Regel nur durchgeführt, wenn sich mindestens sechs Schülerinnen und Schüler einschreiben.
 
@@ -478,7 +472,7 @@ beschliesst:
 
 #### § 35f
 
-**Schulkommission**
+**Organisation 1. Schulkommission**
 
 <sup>1</sup> Die Schulkommission für die Heilpädagogische Schule begleitet und berät die Schulleitung.
 
@@ -492,7 +486,7 @@ beschliesst:
 
 #### § 35g
 
-**Schulleitung**
+**2. Schulleitung**
 
 <sup>1</sup> Die Schulleitung ist für die pädagogische, betriebliche und personelle Leitung und Entwicklung der Schule verantwortlich. Sie vertritt die Schule im Rahmen ihrer Zuständigkeit und in Abstimmung mit der Schulkommission nach aussen.
 
@@ -516,7 +510,7 @@ beschliesst:
 
 #### § 35h
 
-**Schulkonferenz**
+**3. Schulkonferenz**
 
 <sup>1</sup> Alle an der Heilpädagogischen Schule unterrichtenden Lehrpersonen sowie Therapeutinnen und Therapeuten bilden die Schulkonferenz.
 
@@ -549,6 +543,61 @@ beschliesst:
 
 [^35k-1]: NG 312.1
 
+#### § 35l
+
+**Ausserschulische Betreuung und Verpflegung 1. Angebot**
+
+<sup>1</sup> Das Angebot der ausserschulischen Betreuung umfasst:
+
+- 1\. Morgenbetreuung: 07.00-08.00 Uhr;
+- 2\. Mittagsbetreuung einschliesslich Mittagessen: 12.00-13.30 Uhr;
+- 3\. Nachmittagsbetreuung: 15.00-18.00 Uhr.
+
+<sup>2</sup> Die Nutzung des Angebots ist freiwillig.
+
+<sup>3</sup> Die ausserschulische Betreuung steht von Montag bis Freitag zur Verfügung. Sie wird nicht angeboten:
+
+- 1\. mittwochs am Mittag und am Nachmittag;
+- 2\. an kantonalen Feiertagen;
+- 3\. während den Ferien gemäss dem Ferienplan des Kantons Nidwalden.
+
+<sup>4</sup> Die Schulleitung kann die ausserschulische Betreuung auch Schülerinnen und Schülern der Gemeindeschulen anbieten, wenn genügend Kapazitäten vorhanden sind.
+
+#### § 35m
+
+**2. Anmeldung**
+
+<sup>1</sup> Die Eltern haben die Anmeldung für das kommende Schuljahr bis spätestens am 16. Juni einzureichen.
+
+<sup>2</sup> Die Anmeldung ist für ein Schuljahr verbindlich. In begründeten Fällen können die Eltern ihr Kind dauerhaft vom Angebot abmelden.
+
+<sup>3</sup> Eine Anmeldung während des Schuljahrs ist möglich, sofern genügend Kapazitäten vorhanden sind.
+
+#### § 35n
+
+**3. Elternbeiträge**
+
+<sup>1</sup> Die Beiträge der Eltern betragen:
+
+- 1\. Fr. 10.- je Tag und Kind für die Morgenbetreuung;
+- 2\. Fr. 7.- je Tag und Kind für das Mittagessen;
+- 3\. Fr. 20.- je Tag und Kind für die Nachmittagsbetreuung.
+
+<sup>2</sup> Die Schulleitung kann auf begründetes Gesuch die Beiträge reduzieren, wenn die Bezahlung für die Eltern eine finanzielle Härte bedeuten würde.
+
+<sup>3</sup> Die Elternbeiträge werden am Ende eines Semesters in Rechnung gestellt.
+
+#### § 35o
+
+**4. Absenzen**
+
+<sup>1</sup> Absenzen sind dem Schulsekretariat zu melden:
+
+- 1\. aufgrund schulischer Ereignisse: durch die Lehrpersonen;
+- 2\. bei kurzfristigen Absenzen: durch die Eltern.
+
+<sup>2</sup> Bei unentschuldigten Absenzen gemäss Abs. 1 Ziff. 2 werden die Beiträge in Rechnung gestellt.
+
 ## 3 Sonderpädagogische Massnahmen und schulische Fördermassnahmen
 
 ### 3.1 Allgemeine Bestimmungen
@@ -557,11 +606,12 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Das Zentrum für Sonderpädagogik untersteht dem Amt für Volksschulen und Sport.
+<sup>1</sup> Der Bereich Sonderpädagogik untersteht dem Amt für Volksschule und Sport und umfasst zwei Abteilungen:
 
-<sup>2</sup> Das Zentrum für Sonderpädagogik umfasst die Heilpädagogische Schule einschliesslich dem Heilpädagogischen Kindergarten, die Heilpädagogische Früherziehung sowie die Logopädie und die Psychomotorik.
+- 1\. das Zentrum für Sonderpädagogik mit der Heilpädagogischen Schule, der Heilpädagogischen Früherziehung und der integrierten Sonderschulung;
+- 2\. die Abteilung Schuldienste mit dem Schulpsychologischen Dienst, der Psychomotorik und der Logopädie.
 
-<sup>3</sup> Der Heilpädagogische Kindergarten ist der Heilpädagogischen Schule angegliedert.
+<sup>2–3</sup> …
 
 #### § 36a
 
