@@ -3,20 +3,20 @@ canton: LU
 number: 506a
 title: "Reglement über die Maturitätsprüfungen am Gymnasium der RIS Swiss Section, Deutschsprachige Schule Bangkok"
 language: de
-version: 2008-08-01
-valid_until: 2026-07-31
-version_adopted: 2008-04-15
+version: 2026-08-01
+valid_until: 2031-07-31
+version_adopted: 2026-03-31
 adopted: 2008-04-15
 in_force: 2008-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506a"
-pdf: "https://srl.lu.ch/api/de/versions/2524/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4823/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Maturitätsprüfungen am Gymnasium der RIS Swiss Section, Deutschsprachige Schule Bangkok
 
-vom 15.04.2008 (Stand 01.08.2008)
+vom 15.04.2008 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -32,7 +32,7 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Für die Maturitätsprüfungen am Gymnasium der RIS Swiss Section, Deutschsprachige Schule Bangkok, gelten sinngemäss die §§ 1, 2, 4–17, 19–24 und 26 des Reglementes für die Maturitätsprüfungen im Kanton Luzern vom 15. April 2008[^1-1] (Maturitätsreglement).
+<sup>1</sup> Für die Maturitätsprüfungen am Gymnasium der RIS Swiss Section, Deutschsprachige Schule Bangkok, gelten sinngemäss die §§ 1, 2, 4–17, 19–24a und 26 des Reglementes für die Maturitätsprüfungen im Kanton Luzern vom 15. April 2008[^1-1] (Maturitätsreglement).
 
 <sup>2</sup> In Abweichung von den §§ 7 und 8 des Maturitätsreglementes[^1-2] kann als moderne Zweitsprache Französisch, Englisch, Thai oder Mandarin gewählt werden.
 
@@ -81,11 +81,7 @@ beschliesst:
 
 #### § 6
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Für Studierende, die im Schuljahr 2008/09 eine fünfte oder eine höhere Klasse besuchen, gelten die Bestimmungen des Reglementes über die Maturitätsprüfungen am Gymnasium der RIS Swiss Section, Deutschsprachige Schule Bangkok, vom 22. Februar 2000[^6-1].
-
-[^6-1]: G 2000 124 (SRL Nr. 506a)
+**…**
 
 #### § 7
 
