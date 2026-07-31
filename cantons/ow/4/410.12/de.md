@@ -4,13 +4,12 @@ number: "410.12"
 title: Verordnung über das Anstellungsverhältnis der Lehrpersonen
 short: "Lehrpersonenverordnung, LPV"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-09-16
+version: 2026-08-01
+version_adopted: 2025-05-22
 adopted: 2008-04-25
 in_force: 2008-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.12"
-pdf: "http://gdb.ow.ch/api/de/versions/1968/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2039/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1968/pdf_file"
 
 (Lehrpersonenverordnung, LPV)
 
-vom 25.04.2008 (Stand 01.01.2026)
+vom 25.04.2008 (Stand 01.08.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -41,7 +40,7 @@ beschliesst:
 
 **Anwendbare Vorschriften**
 
-<sup>1</sup> Soweit diese Verordnung keine abweichenden Bestimmungen enthält, richtet sich das Anstellungsverhältnis nach Artikel 32 ff. des Staatsverwaltungsgesetzes[^2-1], nach Artikel 26 bis 35 sowie 92 des Bildungsgesetzes[^2-2] und nach der Personalverordnung[^2-3].
+<sup>1</sup> Soweit diese Verordnung keine abweichenden Bestimmungen enthält, richtet sich das Anstellungsverhältnis nach Artikel 32 ff. des Staatsverwaltungsgesetzes[^2-1], nach Artikel 26 bis 35 des Bildungsgesetzes[^2-2] und nach der Personalverordnung[^2-3].
 
 [^2-1]: GDB [130.1](http://gdb.ow.ch/data/130.1/de)
 [^2-2]: GDB [410.1](http://gdb.ow.ch/data/410.1/de)
@@ -55,7 +54,9 @@ beschliesst:
 
 <sup>1</sup> Die Lehrbewilligung wird vom Bildungs- und Kulturdepartement zuhanden der Anstellungsinstanz in allgemeiner Form für jene Fälle erteilt, in welchen die Anforderungen gemäss Art. 27 Abs. 1 und 2 des Bildungsgesetzes[^3-1] erfüllt sind.
 
-<sup>2</sup> Werden die Anforderungen gemäss Art. 27 Abs. 1 und 2 des Bildungsgesetzes nicht erfüllt, so hat die Lehrperson unter Mitwirkung der Anstellungsinstanz an das Bildungs- und Kulturdepartement unaufgefordert ein Gesuch um Erteilung der befristeten Lehrbewilligung zu stellen.
+<sup>2</sup> Werden die Anforderungen gemäss Art. 27 Abs. 1 und 2 des Bildungsgesetzes an den Schulen der Einwohnergemeinde nicht erfüllt, so hat die Lehrperson unter Mitwirkung der Anstellungsinstanz an das Bildungs- und Kulturdepartement unaufgefordert ein Gesuch um Erteilung der befristeten Lehrbewilligung zu stellen.
+
+<sup>2a</sup> Werden die Anforderungen gemäss Art. 27 Abs. 1 und 2 des Bildungsgesetzes an den kantonalen Schulen nicht erfüllt, so wird mit dem Anstellungsvertrag eine befristete Lehrbewilligung erteilt.
 
 <sup>3</sup> Mit der Erteilung der befristeten Lehrbewilligung ist die Auflage zu verbinden, innert angemessener Frist die Anforderungen gemäss Art. 27 Abs. 1 und 2 des Bildungsgesetzes zu erfüllen.
 
@@ -71,18 +72,18 @@ beschliesst:
 
 - a. den beruflichen Auftrag;
 - b. die Ressourcen für Klassenlehrpersonen;
-- c. die Ressourcen für besondere Aufgaben (Schulbetriebs- und Schulentwicklungspool);
+- c. die Ressourcen für besondere Aufgaben (z.B. Schulbetriebs- und Schulentwicklungspool);
 - d. die Altersentlastung, Kompensation.
 
 #### Art. 4
 
 **Beruflicher Auftrag der Lehrpersonen**
 
-<sup>1</sup> Der berufliche Auftrag der Lehrpersonen umfasst die Auftragsfelder Unterricht, Schülerinnen und Schüler bzw. Studierende, Schule und Lehrperson.
+<sup>1</sup> Der berufliche Auftrag der Lehrpersonen umfasst die Auftragsfelder Unterricht, Schülerinnen und Schüler, Studierende bzw. Lernende, Schule und Lehrperson.
 
-<sup>2</sup> Die Lehrpersonen arbeiten mit den Erziehungsberechtigten und weiteren an der Schule Beteiligten zusammen.
+<sup>2</sup> Die Lehrpersonen arbeiten mit den Eltern bzw. Erziehungsberechtigten und weiteren an der Schule Beteiligten zusammen.
 
-<sup>3</sup> Die prozentuale Verteilung der Jahresarbeitszeit gemäss Art. 10 dieser Verordnung auf die Auftragsfelder der Volksschullehrpersonen gilt wie folgt: Unterricht ca. 87,5% (ca. 1632 Stunden), Schülerinnen und Schüler bzw. Studierende ca. 5% (ca. 93 Stunden), Schule ca. 5% (ca. 93 Stunden), Lehrperson ca. 2,5% (ca. 47 Stunden).
+<sup>3</sup> Die prozentuale Verteilung der Jahresarbeitszeit gemäss Art. 10 dieser Verordnung auf die Auftragsfelder der Volksschullehrpersonen gilt wie folgt: Unterricht ca. 87,5% (ca. 1632 Stunden), Schülerinnen und Schüler, Studierende bzw. Lernende ca. 5% (ca. 93 Stunden), Schule ca. 5% (ca. 93 Stunden), Lehrperson ca. 2,5% (ca. 47 Stunden).
 
 <sup>4</sup> Der berufliche Auftrag gilt im Grundsatz für Vollzeit und Teilzeit arbeitende Lehrpersonen. Teilzeit arbeitende Lehrpersonen erfüllen die einzelnen Auftragsfelder anteilmässig und/oder im Rahmen von Sonderregelungen, die mit der Anstellungsinstanz getroffen werden.
 
@@ -94,7 +95,7 @@ beschliesst:
 
 <sup>8</sup> Aufgaben, insbesondere im Rahmen des Schulbetriebs- und Schulentwicklungspools gemäss Art. 31 dieser Verordnung, die über den beruflichen Auftrag mit den vier Auftragsfeldern im Sinne von Art. 5 bis 8 dieser Verordnung hinausgehen, vereinbart das Rektorat bzw. die Schulleitung mit der Lehrperson im gegenseitigen Einverständnis.
 
-<sup>9</sup> Lehrpersonen sind verpflichtet, den Unterricht nach anerkannten methodischen und didaktischen Grundsätzen durchzuführen und die ihnen anvertrauten Schülerinnen und Schüler bzw. Studierenden ihren Fähigkeiten entsprechend zu fördern und zu fordern und ihnen mit Wertschätzung zu begegnen.
+<sup>9</sup> Lehrpersonen sind verpflichtet, den Unterricht nach anerkannten methodischen und didaktischen Grundsätzen durchzuführen und die ihnen anvertrauten Schülerinnen und Schüler, Studierenden bzw. Lernenden ihren Fähigkeiten entsprechend zu fördern und zu fordern und ihnen mit Wertschätzung zu begegnen.
 
 #### Art. 5
 
@@ -103,21 +104,21 @@ beschliesst:
 <sup>1</sup> Das Auftragsfeld Unterricht umfasst:
 
 - a. den Unterricht planen, vorbereiten, organisieren, durchführen, auswerten und dokumentieren;
-- b. ausgerichtet auf die Selbst-, Sozial- und Sachkompetenz der Schülerinnen und Schüler bzw. Studierenden lehren und erziehen;
-- c. Schülerinnen und Schüler bzw. Studierende regelmässig lernziel- und förderorientiert beurteilen;
+- b. ausgerichtet auf die fachlichen und überfachlichen Kompetenzen der Schülerinnen und Schüler, Studierenden bzw. Lernenden lehren und erziehen;
+- c. Schülerinnen und Schüler, Studierende bzw. Lernende regelmässig lernziel- und förderorientiert beurteilen;
 - d. unterrichtsbezogen mit andern Lehrpersonen zusammenarbeiten;
 - e. vor und nach dem Unterricht sowie in den Unterrichtspausen präsent sein.
 
 #### Art. 6
 
-**Auftragsfeld Schülerinnen und Schüler bzw. Studierende**
+**Auftragsfeld Schülerinnen und Schüler, Studierende bzw. Lernende**
 
-<sup>1</sup> Das Auftragsfeld Schülerinnen und Schüler bzw. Studierende umfasst:
+<sup>1</sup> Das Auftragsfeld Schülerinnen und Schüler, Studierende bzw. Lernende umfasst:
 
 - a. ausserhalb des Auftragsfeldes Unterricht lehren und beraten (Lernbegleitung);
-- b. regelmässig und bei Bedarf (je nach Stufe) mit den Erziehungsberechtigten und den Schülerinnen und Schülern bzw. Studierenden den Entwicklungsverlauf, den Lernerfolg und die Beurteilungsdokumentation besprechen;
+- b. regelmässig und bei Bedarf (je nach Stufe) mit den Eltern bzw. Erziehungsberechtigten und den Schülerinnen und Schülern, Studierenden bzw. Lernenden den Entwicklungsverlauf, den Lernerfolg und die Beurteilungsdokumentation besprechen;
 - c. mit Schuldiensten, andern Amtsstellen, abnehmenden Schulen und Institutionen zusammenarbeiten;
-- d. das Umfeld der Schülerinnen und Schüler bzw. Studierenden über Elternabende bzw. Elternanlässe fördern;
+- d. das Umfeld der Schülerinnen und Schüler, Studierenden bzw. Lernenden über Elternabende bzw. Elternanlässe fördern;
 - e. für die nötige Information und Kommunikation sorgen.
 
 #### Art. 7
@@ -179,11 +180,11 @@ beschliesst:
 
 **Umlagerungen der Arbeitszeit zwischen den Auftragsfeldern**
 
-<sup>1</sup> Lehrpersonen, die innerhalb des beruflichen Auftrags Aufgaben im Sinne von Art. 30 und 31 dieser Verordnung übernehmen, erhalten hierfür von der Anstellungsinstanz eine Pensenreduktion im Auftragsfeld Unterricht.
+<sup>1</sup> Lehrpersonen, die innerhalb des beruflichen Auftrags Aufgaben im Sinne von Art. 30, 31 oder 31a dieser Verordnung übernehmen, erhalten hierfür von der Anstellungsinstanz eine Pensenreduktion im Auftragsfeld Unterricht.
 
-<sup>2</sup> In Ausnahmefällen können Aufgaben im Sinne von Art. 30 und 31 dieser Verordnung ganz oder teilweise zu Lasten eines unterrichtsfreien Auftragsfeldes geleistet werden.
+<sup>2</sup> In Ausnahmefällen können Aufgaben im Sinne von Art. 30, 31 oder 31a dieser Verordnung ganz oder teilweise zu Lasten eines unterrichtsfreien Auftragsfeldes geleistet werden.
 
-<sup>3</sup> Grundsätzlich sollen beruflicher Auftrag und Aufgaben im Sinne von Art. 30 und 31 dieser Verordnung zusammen ein 100 Prozent-Pensum nicht übersteigen.
+<sup>3</sup> Grundsätzlich sollen beruflicher Auftrag und Aufgaben im Sinne von Art. 30, 31 und 31a dieser Verordnung zusammen ein 100 Prozent-Pensum nicht übersteigen.
 
 #### Art. 13
 
@@ -237,13 +238,13 @@ beschliesst:
 
 <sup>2</sup> Wenn folgende private Ereignisse und Verpflichtungen in die Unterrichtszeit fallen, haben Lehrpersonen Anspruch auf bezahlten Urlaub:
 
-- a. einen freien Tag für die eigene Trauung, die Geburt eines eigenen Kindes, die Trauung eines eigenen Kindes oder für den Umzug des eigenen Haushalts;
+- a. einen freien Tag für die eigene Trauung, die Trauung eines eigenen Kindes oder für den Umzug des eigenen Haushalts;
 - b. bis drei Tage bei Todesfällen in der eigenen Familie (Ehe- oder Lebenspartner, Kinder, Eltern oder Schwiegereltern).
 
 <sup>3</sup> Für die Bewilligung von zusätzlichem bezahltem Urlaub sind zuständig:
 
-- a. die Schulleitung für einen Arbeitstag pro Jahr;
-- b. die Departementsvorsteherin oder der Departementsvorsteher bis zu zehn Arbeitstagen pro Jahr;
+- a. das Rektorat bzw. die Schulleitung für einen Arbeitstag pro Jahr;
+- b. die Departementsvorsteherin oder der Departementsvorsteher bzw. das Schulratspräsidium bis zu zehn Arbeitstagen pro Jahr;
 - c. der Regierungsrat bzw. der Einwohnergemeinderat bei mehr als zehn Arbeitstagen.
 
 #### Art. 19
@@ -256,9 +257,9 @@ beschliesst:
 
 #### Art. 20
 
-**Mutterschaftsurlaub**
+**Mutterschafts- und Vaterschaftsurlaub**
 
-<sup>1</sup> Mutterschaftsurlaub, welcher in die Schulferien fällt, kann nicht nachbezogen werden.
+<sup>1</sup> Mutterschafts- und Vaterschaftsurlaub, welcher in die Schulferien fällt, kann nicht nachbezogen werden.
 
 ## 4. Beurteilung
 
@@ -284,7 +285,7 @@ beschliesst:
   - 1\. jährliches Personalgespräch,
   - 2\. periodische, umfassende Beurteilung im Sinne von Buchstabe b und c;
 - b. die umfassende Beurteilung erfolgt ganzheitlich und berücksichtigt die didaktischen und methodischen Fähigkeiten sowie das Lehr- und Teamverhalten;
-- c. die umfassende Beurteilung durch das Rektorat bzw. die Schulleitung stützt sich insbesondere auf deren eigene Beobachtungen, auf die Selbstevaluation durch die Lehrperson sowie auf die Rückmeldung der Schülerinnen und Schüler bzw. der Studierenden, der Erziehungsberechtigten und allfälliger weiterer Partner der Schule;
+- c. die umfassende Beurteilung durch das Rektorat bzw. die Schulleitung stützt sich insbesondere auf deren eigene Beobachtungen, auf die Selbstevaluation durch die Lehrperson sowie auf die Rückmeldung der Schülerinnen und Schüler, Studierenden bzw. Lernenden, der Eltern bzw. Erziehungsberechtigten und allfälliger weiterer Partner der Schule;
 - d. die Lehrpersonen werden anhand von mindestens drei Beurteilungsstufen beurteilt.
 
 ## 5. Entlöhnung, Sozialleistungen, Versicherungen
@@ -303,7 +304,7 @@ beschliesst:
 
 **b. Ausnahmen**
 
-<sup>1</sup> Lehrpersonen mit einer Lehrbewilligung, welche nicht für die unterrichtete Stufe gilt, werden ein Lohnband tiefer eingereiht.
+<sup>1</sup> Lehrpersonen mit einer Lehrbewilligung, welche nicht für die unterrichtete Stufe gilt, werden in der Regel ein Lohnband tiefer eingereiht.
 
 <sup>2</sup> Personen ohne Lehrdiplom werden unter Berücksichtigung von Vorbildung und beruflicher Erfahrung mindestens zwei Lohnbänder tiefer eingestuft.
 
@@ -339,7 +340,7 @@ Jahreslohn einschliesslich 13. Monatslohn / Schulwochen x volle Unterrichtsverpf
 
 <sup>5</sup> Stellvertretungen, deren Einsatz mehr als drei Monate dauert, werden mit einem öffentlich-rechtlichen Anstellungsvertrag ordentlich angestellt.
 
-<sup>6</sup> Festangestellte Lehrpersonen, die eine Stellvertretung übernehmen, erhalten für die Zeitdauer der Stellvertretung eine Pensenerweiterung zu den Anstellungsbedingungen der festen Anstellung.
+<sup>6</sup> Festangestellte Lehrpersonen, die eine Stellvertretung übernehmen, erhalten für die Zeitdauer der Stellvertretung in der Regel eine Pensenerweiterung zu den Anstellungsbedingungen der festen Anstellung.
 
 #### Art. 29
 
@@ -373,9 +374,9 @@ Jahreslohn einschliesslich 13. Monatslohn / Schulwochen x volle Unterrichtsverpf
 
 **Klassenpool**
 
-<sup>1</sup> Die Einwohnergemeinde stellt für anspruchsvolle Klassensituationen einen Klassenpool zur Verfügung, der mindestens 3/4 Lektionen bzw. 2.59 Stellenprozente pro Klasse beträgt.
+<sup>1</sup> Die Einwohnergemeinde stellt für anspruchsvolle Klassensituationen einen Klassenpool zur Verfügung, der mindestens eine halbe Lektion bzw. 1.72 Stellenprozente pro Klasse beträgt.
 
-<sup>2</sup> Der Klassenpool wird nur für die Schulen der Volksschulstufen geschaffen.
+<sup>2</sup> Der Klassenpool wird nur für die Schulen der Einwohnergemeinde geschaffen.
 
 <sup>3</sup> Der Klassenpool stellt den Lehrpersonen Ressourcen für die Bewältigung anspruchsvoller Aufgaben bei der Klassenführung zur Verfügung. Die Schulleitung weist die Ressourcen des Pools bedarfsgerecht einzelnen Lehrpersonen zu.
 
@@ -403,14 +404,14 @@ Jahreslohn einschliesslich 13. Monatslohn / Schulwochen x volle Unterrichtsverpf
 
 - a. schulinterne Weiterbildungen;
 - b. kantonale Bildungstage;
-- c. thematisch verpflichtende Weiterbildungskurse;
-- d. thematisch frei wählbare Weiterbildungskurse;
+- c. verpflichtende berufliche Weiterbildungskurse;
+- d. frei wählbare berufliche Weiterbildungskurse;
 - e. Zusatzausbildungen zur Ausübung einer Kaderfunktion;
 - f. Zusatzausbildungen zur Ausübung einer Spezialfunktion;
 - g. Berufseinführungen;
 - h. Intensivweiterbildungen.
 
-<sup>2</sup> Nachqualifikationen für die Erlangung der Lehrbewilligung in einzelnen Unterrichtsfächern gelten als Ausbildungen und sind nicht Gegenstand dieser Verordnung.
+<sup>2</sup> Nachqualifikationen für die Erlangung der Lehrbewilligung für eine Stufe oder in einzelnen Unterrichtsfächern gelten in der Regel als Ausbildungen und sind nicht Gegenstand dieser Verordnung.
 
 <sup>3</sup> Die Weiterbildungsangebote sind regelmässig zu evaluieren.
 
@@ -420,7 +421,7 @@ Jahreslohn einschliesslich 13. Monatslohn / Schulwochen x volle Unterrichtsverpf
 
 <sup>1</sup> Intensivweiterbildungen dauern in der Regel drei Monate. Während dieser Zeit sind die Lehrpersonen von der Unterrichtstätigkeit befreit und beziehen den ordentlichen Lohn.
 
-<sup>2</sup> Intensivweiterbildungen können die Rektorate bzw. Schulleitungen in Absprache mit dem Bildungs- und Kulturdepartement im Rahmen der zur Verfügung stehenden Voranschlagskredite jenen Lehrpersonen gewähren, die mindestens zehn Jahre unterrichtet haben. Eine wiederholte Gewährung von Intensivweiterbildung ist möglich.
+<sup>2</sup> Intensivweiterbildungen können die Rektorate bzw. Schulleitungen im Rahmen der zur Verfügung stehenden Budgetkredite jenen Lehrpersonen gewähren, die mindestens zehn Jahre unterrichtet haben. Eine wiederholte Gewährung von Intensivweiterbildung ist möglich.
 
 <sup>3</sup> Es besteht kein Anrecht auf Intensivweiterbildung.
 
@@ -432,29 +433,27 @@ Jahreslohn einschliesslich 13. Monatslohn / Schulwochen x volle Unterrichtsverpf
 
 - a. die Rektorate bzw. Schulleitungen für schulinterne Weiterbildungen;
 - b. das zuständige Amt für die kantonalen Bildungstage;
-- c. das zuständige Amt bzw. die Rektorate und Schulleitungen für die thematisch verpflichtenden Weiterbildungen.
-
-<sup>2</sup> Die thematisch frei wählbaren Weiterbildungskurse, die Berufseinführungen und die Intensivweiterbildungen werden in der Regel von den anerkannten Aus- und Weiterbildungsinstitutionen, allenfalls auf Bestellung des zuständigen Amts, angeboten.
-
-#### Art. 37
-
-**Kostentragung, Teilnehmendenbeiträge, Weiterbildungsvertrag**
-
-<sup>1</sup> Die Kurskosten werden, nach Abzug der Teilnehmendenbeiträge im Volksschulbereich von der Einwohnergemeinde, in welcher die betreffende Lehrperson unterrichtet, im Gymnasial- und Berufsbildungsbereich vom Kanton getragen.
+- c. das zuständige Amt oder die Rektorate für die frei wählbaren und verpflichtenden beruflichen Weiterbildungen;
+- d. das zuständige Amt oder die Rektorate für die Berufseinführung;
+- e. das zuständige Amt oder die Rektorate für die Intensivweiterbildungen.
 
 <sup>2</sup> …
 
-<sup>3</sup> Für die thematisch frei wählbaren Weiterbildungskurse werden Teilnehmendenbeiträge erhoben, die vom Bildungs- und Kulturdepartement festgelegt werden.
+#### Art. 37
 
-<sup>4</sup> …
+**Kostentragung**
 
-<sup>5</sup> Bei Zusatzausbildungen und Intensivweiterbildungen ist ein Weiterbildungsvertrag abzuschliessen.
+<sup>1</sup> Unter Vorbehalt von Absatz 5 werden die Weiterbildungskosten (Kurskosten, Spesen und allfällige Stellvertretungskosten) im Volksschulbereich von der Einwohnergemeinde, in welcher die betreffende Lehrperson unterrichtet, im Gymnasial- und Berufsbildungsbereich vom Kanton getragen.
+
+<sup>2–4</sup> …
+
+<sup>5</sup> Insbesondere bei Zusatzausbildungen und Intensivweiterbildungen ist ein Weiterbildungsvertrag abzuschliessen.
 
 #### Art. 38
 
 **Verfahren**
 
-<sup>1</sup> Die Rektorate bzw. Schulleitungen ermitteln im Rahmen der Personalführung zusammen mit den Lehrpersonen den Weiterbildungsbedarf. Sie bewilligen den Besuch von Weiterbildungsangeboten gemäss Art. 34 Abs. 1 Bst. c, d und g dieser Verordnung.
+<sup>1</sup> Die Rektorate bzw. Schulleitungen ermitteln im Rahmen der Personalführung zusammen mit den Lehrpersonen den Weiterbildungsbedarf. Sie bewilligen den Besuch von Weiterbildungsangeboten gemäss Art. 34 Abs. 1 Bst. d dieser Verordnung.
 
 ## 7. Stellenausschreibung und Anstellungsbefugnisse
 
@@ -472,7 +471,7 @@ Jahreslohn einschliesslich 13. Monatslohn / Schulwochen x volle Unterrichtsverpf
 
 <sup>1</sup> Der Rektor oder die Rektorin der kantonalen Schulen wird in Zusammenarbeit mit dem Personalamt vom Bildungs- und Kulturdepartement angestellt, die Schulleiterin bzw. der Schulleiter und die stellvertretende Schulleiterin bzw. der stellvertretende Schulleiter der Schulen der Einwohnergemeinden vom Einwohnergemeinderat.
 
-<sup>2</sup> Der Prorektor oder die Prorektorin der kantonalen Schulen werden vom zuständigen Amt angestellt.
+<sup>2</sup> Die Prorektoren und Prorektorinnen der kantonalen Schulen werden in Zusammenarbeit mit dem Personalamt vom zuständigen Amt angestellt.
 
 <sup>3</sup> Die Lehrpersonen der kantonalen Schulen werden in Zusammenarbeit mit dem Personalamt von der Rektorin oder vom Rektor, jene der Schulen der Einwohnergemeinden vom Einwohnergemeinderat angestellt, sofern diese Befugnis nach erfolgter Änderung von Art. 94 Ziff. 9 der Kantonsverfassung nicht einer andern Instanz übertragen ist.
 
@@ -553,6 +552,8 @@ geändert durch
 \- Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Janaur 2024 (OGS 2023, 32), \*
 
 \- Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39),
+
+\- Nachtrag zum Bildungsgesetz vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, in Kraft seit 1. August 2026 (ABl vom 2. April 2026),
 
 \- Nachtrag vom 16. September 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 26 und 34 [Korrigendum]) \*
 
