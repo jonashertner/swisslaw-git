@@ -4,13 +4,12 @@ number: "292.100"
 title: Notariatsgesetz des Kantons Basel-Stadt
 short: "Notariatsgesetz, NotG"
 language: de
-version: 2020-07-01
-valid_until: 2026-07-31
-version_adopted: 2019-02-13
+version: 2026-08-01
+version_adopted: 2026-04-15
 adopted: 2006-01-18
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/292.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6636/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6846/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,9 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6636/pdf_file"
 
 Notariatsgesetz | Notariat
 
-Vom 18. Januar 2006 (Stand 1. Juli 2020)
+(Notariatsgesetz, NotG)
+
+Vom 18. Januar 2006 (Stand 1. August 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -187,9 +188,7 @@ beschliesst:
 
 **2. Anzeigen durch Behörden und Dritte**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter des Kantons sind verpflichtet, und jede Person sonst ist berechtigt, bei Kenntnis von Ordnungswidrigkeiten in der Geschäftsführung einer Notarin oder eines Notars der Justizkommission[^15-1] Anzeige zu erstatten.
-
-[^15-1]: Heute: Notariatsaufsichtskommission
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter des Kantons sind verpflichtet, und jede Person sonst ist berechtigt, bei Kenntnis von Ordnungswidrigkeiten in der Geschäftsführung einer Notarin oder eines Notars der Notariatsaufsichtskommission Anzeige zu erstatten.
 
 ## III. Berufspflichten der Notarinnen und Notare
 
@@ -235,7 +234,7 @@ beschliesst:
 
 **6. Geheimhaltungspflicht**
 
-<sup>1</sup> Die Notarinnen und Notare sowie ihre Hilfspersonen, die ein Geheimnis offenbaren, das ihnen infolge ihres Berufes anvertraut worden ist, oder das sie in dessen Ausübung wahrgenommen haben, werden gemäss Art. 321 des Schweizerischen Strafgesetzbuches auf Antrag mit Gefängnis oder mit Busse bestraft.
+<sup>1</sup> Die Notarinnen und Notare sowie ihre Hilfspersonen, die ein Geheimnis offenbaren, das ihnen infolge ihres Berufes anvertraut worden ist, oder das sie in dessen Ausübung wahrgenommen haben, werden gemäss Art. 321 des Schweizerischen Strafgesetzbuches bestraft.
 
 <sup>2</sup> Das Berufsgeheimnis entfällt, wenn sämtliche Berechtigten oder die Aufsichtsbehörde die Notarin oder den Notar davon entbinden oder wenn die Bekanntgabe einer Tatsache an Dritte bei der Vorbereitung oder beim Vollzug eines Geschäfts erforderlich ist.
 
@@ -414,33 +413,51 @@ beschliesst:
 
 #### § 38
 
-<sup>1</sup> Die Notarin oder der Notar darf nur Vorgänge beurkunden, die im Gebiet des Kantons Basel-Stadt stattfinden. Wer den Vorgang beurkundet, darf ihn nicht leiten.
+<sup>1</sup> Bei der Beurkundung von Vorgängen muss sich die Notarin oder der Notar auf dem Gebiet des Kantons Basel-Stadt befinden.
 
-<sup>2</sup> Die besonderen Voraussetzungen für die Beurkundung von Versammlungen, die mittels audiovisueller Übermittlung gleichzeitig an verschiedenen Orten abgehalten werden, werden in der Verordnung geregelt.
+<sup>2</sup> Wer einen Vorgang beurkundet, darf daran nicht in anderer Weise beteiligt sein. Zulässig ist das Führen bundesrechtlich vorgeschriebener Versammlungsprotokolle.
 
-<sup>3</sup> Bestehende Tatsachen sollen nur beurkundet werden, wenn die Notarin oder der Notar sich die Wahrheitsüberzeugung im Wesentlichen durch Ermittlungen innerhalb des Kantons oder aufgrund amtlicher Register und Auskünfte bilden kann.
+<sup>3</sup> Ist nicht gewährleistet, dass die Notarin oder der Notar den Vorgang einwandfrei wahrnehmen kann, hat sie oder er die Beurkundung abzulehnen.
 
-<sup>4</sup> Das Ersuchen um die Beurkundung muss von einer Person ausgehen, die daran ein erkennbares schützenswertes Interesse hat.
+<sup>4</sup> Bestehende Tatsachen sollen nur beurkundet werden, wenn die Notarin oder der Notar sich die Wahrheitsüberzeugung im Wesentlichen durch Ermittlungen innerhalb des Kantons oder aufgrund amtlicher Register und Auskünfte bilden kann.
 
-<sup>5</sup> Beurkundungen zum Zwecke der Beweissicherung für ein streitiges Verfahren sind mit der notariellen Unparteilichkeit nicht vereinbar.
+<sup>5</sup> Das Ersuchen um die Beurkundung muss von einer Person ausgehen, die daran ein erkennbares schützenswertes Interesse hat.
 
-<sup>6</sup> Beurkundungen zur Schaffung von Beweismitteln, die Drittpersonen belasten, sind mit der notariellen Unparteilichkeit nicht vereinbar.
+<sup>6</sup> Beurkundungen zum Zwecke der Beweissicherung für ein streitiges Verfahren sind mit der notariellen Unparteilichkeit nicht vereinbar.
+
+<sup>7</sup> Beurkundungen zur Schaffung von Beweismitteln, die Drittpersonen belasten, sind mit der notariellen Unparteilichkeit nicht vereinbar.
 
 ### IV.C. 2. Beurkundung von Vorgängen
 
 #### § 39
 
-**Beurkundungsbedürftige Versammlungen**
+**Beschlussfassung an Versammlungen**
 
-<sup>1</sup> Die Personalien und die verfahrensrechtliche Zuständigkeit der versammlungsleitenden Person sind zu überprüfen und in der Urkunde anzugeben.
+<sup>1</sup> Notarinnen und Notare haben Versammlungen am Ort der versammlungsleitenden Person zu begleiten. Versammlungen, die gemäss Bundesrecht mit elektronischen Mitteln ohne Tagungsort durchgeführt werden, dürfen auch aus der Ferne begleitet werden. Es steht Notarinnen und Notaren frei, Ersuchen um Fernbeurkundung abzulehnen.
 
-<sup>2</sup> Die Notarin oder der Notar nimmt von der versammlungsleitenden Person die erforderlichen Erklärungen über die ordnungsgemässe Einberufung und Konstituierung der Versammlung sowie die Angaben über die Anzahl, Stimmenkraft und Gesellschaftereigenschaft der anwesenden und vertretenen Versammlungsteilnehmerinnen und Versammlungsteilnehmer entgegen und hält sie in der Urkunde fest. Die Notarin oder der Notar erteilt der versammlungsleitenden Person die nötigen Belehrungen bezüglich des rechtmässigen Versammlungsablaufs und überprüft diesen, soweit für sie oder ihn ersichtlich.
+<sup>1<sup>bis</sup></sup> Die Personalien und die verfahrensrechtliche Zuständigkeit der versammlungsleitenden Person sind zu überprüfen und in der Urkunde anzugeben.
+
+<sup>2</sup> Die Notarin oder der Notar nimmt von der versammlungsleitenden Person die erforderlichen Erklärungen über die ordnungsgemässe Einberufung, Konstituierung und Beschlussfähigkeit der Versammlung entgegen und hält sie in der Urkunde fest. Die Notarin oder der Notar erteilt der versammlungsleitenden Person die nötigen Belehrungen bezüglich des rechtmässigen Versammlungsablaufs und überprüft diesen, soweit für sie oder ihn ersichtlich.
 
 <sup>3</sup> Bestehen begründete Zweifel an der Wahrheit der von der versammlungsleitenden Person und ihren allfälligen Hilfspersonen abgegebenen Erklärungen zu rechtlich relevanten Belangen des Verfahrens, so ist weiterer Aufschluss zu verlangen oder die Beurkundung abzulehnen.
 
 <sup>4</sup> Steht der Ablauf im Voraus fest, so kann die Versammlung in gleichzeitiger Anwesenheit der Teilnehmerinnen und Teilnehmer wie eine Vertragsbeurkundung durchgeführt werden.
 
-<sup>5</sup> Andernfalls hält die Notarin oder der Notar den Ablauf in geeigneter Weise fest und erstellt gleichzeitig oder zu einem späteren Zeitpunkt das Protokoll in öffentlicher Urkunde. Verlangt das materielle Recht die Mitunterzeichnung durch bestimmte Personen, so holt die Notarin oder der Notar deren Unterschriften ein, bevor er oder sie selber unterschreibt.
+<sup>5</sup> Andernfalls hält die Notarin oder der Notar den Ablauf in geeigneter Weise fest und erstellt gleichzeitig oder zu einem späteren Zeitpunkt das Protokoll in öffentlicher Urkunde. Ersetzt dieses das vom Bundesrecht vorgeschriebene Versammlungsprotokoll, bleiben die bundesrechtlichen Protokollierungsvorschriften vorbehalten. Unterschriften Dritter holt die Notarin oder der Notar ein, bevor sie oder er selbst unterschreibt.
+
+#### § 39a
+
+**Beschlussfassung auf schriftlichem Weg**
+
+<sup>1</sup> Die Protokollierung von Beschlüssen, die auf schriftlichem Weg gefasst werden, muss in Anwesenheit der vorgangsleitenden Person erfolgen.
+
+<sup>2</sup> Die Personalien und die verfahrensrechtliche Zuständigkeit der vorgangsleitenden Person sind zu überprüfen und in der Urkunde anzugeben.
+
+<sup>3</sup> Die Notarin oder der Notar nimmt von der vorgangsleitenden Person die erforderlichen Erklärungen über den Ablauf der Beschlussfassung und das Abstimmungsresultat entgegen und hält diese in der Urkunde fest.
+
+<sup>4</sup> Bestehen begründete Zweifel an der Wahrheit der von der vorgangsleitenden Person und ihren Hilfspersonen abgegebenen Erklärungen zu rechtlich relevanten Belangen des Verfahrens, so ist weiterer Aufschluss zu verlangen oder die Beurkundung abzulehnen.
+
+<sup>5</sup> Die Notarin oder der Notar hält den Ablauf in geeigneter Weise fest und erstellt gleichzeitig oder zu einem späteren Zeitpunkt das Protokoll in öffentlicher Urkunde. Ersetzt dieses das vom Bundesrecht vorgeschriebene Versammlungsprotokoll, bleiben die bundesrechtlichen Protokollierungsvorschriften vorbehalten. Unterschriften Dritter holt die Notarin oder der Notar ein, bevor sie oder er selbst unterschreibt.
 
 #### § 40
 
@@ -516,11 +533,12 @@ beschliesst:
 
 - 1\. Die Bezeichnung «öffentliche Urkunde» oder eine gleichbedeutende Bezeichnung, sowie den Namen und Amtssitz der Notarin oder des Notars;
 - 2\. Ort und Datum des Beurkundungsvorgangs oder des beurkundeten Vorgangs, bei der Beurkundung bestehender Tatsachen Ort und Datum der Beisetzung der Notarunterschrift;
-- 3\. die genaue Bezeichnung der Parteien und allfälliger Vertreterinnen und Vertreter sowie bei Versammlungen und anderen Veranstaltungen der Versammlungsleiterin oder des Versammlungsleiters, und die Art, wie die Notarin oder der Notar die Überzeugung von der Richtigkeit dieser Angaben erlangt hat;
+- 2<sup>bis</sup>. bei Versammlungen: auf welche Art die Notarin oder der Notar diese begleitet hat;
+- 3\. die genaue Bezeichnung der Parteien und allfälliger Vertreterinnen und Vertreter sowie bei Versammlungen und anderen Vorgängen der versammlungs- oder vorgangsleitenden Person und die Art, wie die Notarin oder der Notar die Überzeugung von der Richtigkeit dieser Angaben erlangt hat;
 - 4\. die Nennung der verwendeten Vollmachten;
 - 5\. die kurze Darstellung des Beurkundungsvorgangs;
-- 6\. bei Willens- und Wissenserklärungen: die beurkundungsbedürftigen Erklärungen der Parteien; bei Versammlungen und anderen Vorgängen: die für das Verfahren rechtlich erheblichen Erklärungen der Versammlungsleiterin oder des Versammlungsleiters und die weiteren erheblichen Umstände;
-- 7\. bei Willens- und Wissenserklärungen: die Unterschriften der erklärenden Personen; bei beurkundungsbedürftigen Versammlungen: die erforderlichen Unterschriften nach Massgabe des materiellen Rechts, das die Beurkundung des Geschäftes verlangt;
+- 6\. bei Willens- und Wissenserklärungen: die beurkundungsbedürftigen Erklärungen der Parteien; bei Versammlungen und anderen Vorgängen: die für das Verfahren rechtlich erheblichen Erklärungen der versammlungs- oder vorgangsleitenden Person und die weiteren erheblichen Umstände;
+- 7\. bei Willens- und Wissenserklärungen: die Unterschriften der erklärenden Personen; bei Vorgängen: sofern erforderlich die Unterschriften Dritter;
 - 8\. die Unterschrift und das Siegel der Notarin oder des Notars.
 
 #### § 48
@@ -576,6 +594,12 @@ beschliesst:
 <sup>2</sup> Mehrere Originale können erstellt werden, jedoch höchstens für jede Partei und für das betreffende Registeramt je eines. In diesem Falle ist in der Beurkundungsklausel für jedes Original anzugeben, welches von wie vielen vorliegt. Mehrere Originale werden wie eine einzige Urkunde registriert und aufbewahrt.
 
 <sup>3</sup> Ersucht die Klientschaft darum, dass das Original dauerhaft bei der Notarin oder beim Notar verbleibt, so kann das Original statt einer Kopie in die Urkundensammlung eingefügt werden. Die Notarin oder der Notar erstellt in diesem Falle eine oder mehrere Ausfertigungen, die das Original im Rechtsverkehr vertreten.
+
+#### § 52a
+
+**Elektronische öffentliche Urkunden**
+
+<sup>1</sup> Sofern das Bundesrecht die Erstellung elektronischer öffentlicher Urkunden zulässt, erlässt der Regierungsrat die erforderlichen Einführungs- und Vollzugsbestimmungen auf dem Verordnungswege.
 
 #### § 53
 
@@ -647,7 +671,7 @@ beschliesst:
 
 **Disziplinarwesen**
 
-<sup>1</sup> Verletzt eine Notarin oder ein Notar die amtlichen Pflichten oder verstösst sie oder er gegen die Würde, die Ehre und das Vertrauen, welche für die Ausübung des Notariats unerlässlich sind, so schreitet die Justizkommission[^59-1] auf Anzeige oder von Amtes wegen disziplinarisch ein.
+<sup>1</sup> Verletzt eine Notarin oder ein Notar die amtlichen Pflichten oder verstösst sie oder er gegen die Würde, die Ehre und das Vertrauen, welche für die Ausübung des Notariats unerlässlich sind, so schreitet die Notariatsaufsichtskommission auf Anzeige oder von Amtes wegen disziplinarisch ein.
 
 <sup>2</sup> Die Disziplinarmittel sind:
 
@@ -656,16 +680,11 @@ beschliesst:
 - 3\. Suspendierung der Beurkundungsbefugnis bis auf die Dauer von zwei Jahren;
 - 4\. Entzug der Beurkundungsbefugnis.
 
-<sup>3</sup> Ein Verweis wird von der Justizkommission[^59-2] verfügt.
+<sup>3</sup> Ein Verweis wird von der Notariatsaufsichtskommission verfügt.
 
-<sup>4</sup> Geldbusse, Suspendierung und Entzug der Beurkundungsbefugnis werden auf Antrag der Justizkommission[^59-3] durch den Regierungsrat verfügt.
+<sup>4</sup> Geldbusse, Suspendierung und Entzug der Beurkundungsbefugnis werden auf Antrag der Notariatsaufsichtskommission durch den Regierungsrat verfügt.
 
-<sup>5</sup> Disziplinarentscheide der Justizkommission[^59-4] und des Regierungsrates unterliegen dem Rekurs an das Verwaltungsgericht.
-
-[^59-1]: Heute: Notariatsaufsichtskommission
-[^59-2]: Heute: Notariatsaufsichtskommission
-[^59-3]: Heute: Notariatsaufsichtskommission
-[^59-4]: Heute: Notariatsaufsichtskommission
+<sup>5</sup> Disziplinarentscheide der Notariatsaufsichtskommission und des Regierungsrates unterliegen dem Rekurs an das Verwaltungsgericht.
 
 ## IX<sup>bis</sup>. Strafbestimmungen
 
