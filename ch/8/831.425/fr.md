@@ -4,11 +4,11 @@ title: "Ordonnance du 3 octobre 1994 sur le libre passage dans la prévoyance pr
 short: OLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: fr
-version: 2024-03-01
+version: 2026-08-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240301-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr"
 
 (Ordonnance sur le libre passage, OLP)
 
-du 3 octobre 1994 (État le 1<sup>er</sup> mars 2024)
+du 3 octobre 1994 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -128,7 +128,7 @@ Le taux d’intérêt technique est fixé dans une fourchette comprise entre 1,0
 
 **Taux d’intérêt en cas de partage de la prestation de sortie à la suite d’un divorce ou de la dissolution judiciaire d’un partenariat enregistré[^8a-2]**[^8a-1]
 
-<sup>1</sup> Lors du partage de la prestation de sortie en cas de divorce, conformément à l’art. 22 LFLP, le taux d’intérêt applicable aux prestations de sortie et de libre passage acquises au moment de la conclusion du mariage et aux versements uniques effectués jusqu’au moment du divorce correspond au taux minimal fixé à l’art. 12 OPP 2[^8a-3]. L’art. 65*d*, al. 4, LPP[^8a-4] n’est pas applicable.[^8a-5]
+<sup>1</sup> Lors du partage de la prestation de sortie en cas de divorce, conformément à l’art. 22 LFLP, le taux d’intérêt applicable aux prestations de sortie et de libre passage acquises au moment de la conclusion du mariage et aux versements uniques effectués jusqu’au jour de l’introduction de la procédure de divorce correspond au taux minimal fixé à l’art. 12 OPP 2[^8a-3]. L’art. 65*d*, al. 4, LPP[^8a-4] n’est pas applicable.[^8a-5]
 
 <sup>1bis</sup> L’al. 1 s’applique par analogie lors du partage de la prestation de sortie en cas de dissolution judiciaire du partenariat enregistré, conformément à l’art. 22*d* LFLP.[^8a-6]
 
@@ -138,7 +138,7 @@ Le taux d’intérêt technique est fixé dans une fourchette comprise entre 1,0
 [^8a-2]: Nouvelle teneur selon le ch. I 2 de l’O du 29 sept. 2006 sur la mise en oeuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 [^8a-3]: [RS 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 [^8a-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^8a-5]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^8a-5]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 [^8a-6]: Introduit par le ch. I 2 de l’O du 29 sept. 2006 sur la mise en oeuvre de la loi du 18 juin 2004 sur le partenariat dans la prévoyance professionnelle vieillesse, survivants et invalidité, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 9
@@ -566,14 +566,14 @@ Annexe[^t-1]
 
 \1. La part de rente attribuée au conjoint créancier est convertie en rente viagère selon la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image1.png)
 
 \2. où:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image2.png) correspond à la valeur actuelle de la rente viagère due mensuellement au conjoint débiteur (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image3.png) correspond à la valeur effective de la rente viagère due mensuellement au conjoint créancier (en fonction de son sexe et de son âge);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image4.png) correspond aux expectatives de rente du conjoint débiteur (en fonction de son sexe et de son âge) calculées selon la méthode collective sur la base de la rente viagère de conjoint due mensuellement;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/fr/xml/image/image5.png) correspond au rapport entre le montant de la rente de conjoint réglementaire et celui de la rente de vieillesse en cours du conjoint débiteur.
 
 \3. Les valeurs actuelles et expectatives de rentes sont calculées d’après les bases techniques LPP pertinentes au moment déterminant pour le calcul. Les tables de génération sans renforcement pour l’année civile considérée et la moyenne pondérée des taux d’intérêt techniques moyens indiquées dans le dernier rapport sur la situation financière des institutions de prévoyance publié par la Commission de haute surveillance de la prévoyance professionnelle[^annexu1-lvlu1-1] sont appliquées.
 

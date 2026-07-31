@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflich
 short: FZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399"
 language: de
-version: 2024-03-01
+version: 2026-08-01
 adopted: 1994-10-03
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20240301-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1994-2399_2399_2399-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de"
 
 (Freizügigkeitsverordnung, FZV)
 
-vom 3. Oktober 1994 (Stand am 1. März 2024)
+vom 3. Oktober 1994 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -128,7 +128,7 @@ Der Zinsrahmen für den technischen Zinssatz beträgt 1,0–3,5 Prozent.
 
 **Zinssatz bei der Teilung der Austrittsleistung infolge Scheidung oder gerichtlicher Auflösung einer eingetragenen Partnerschaft[^8a-2]**[^8a-1]
 
-<sup>1</sup> Bei der Teilung der Austrittsleistung infolge Scheidung nach Artikel 22 FZG wird für die Aufzinsung der im Zeitpunkt der Eheschliessung erworbenen Austritts- und Freizügigkeitsleistungen und der Einmaleinlagen bis zum Zeitpunkt der Ehescheidung der im entsprechenden Zeitraum gültige BVG-Mindestzinssatz nach Artikel 12 BVV 2[^8a-3] angewandt. Artikel 65*d* Absatz 4 BVG[^8a-4] ist nicht anwendbar.[^8a-5]
+<sup>1</sup> Bei der Teilung der Austrittsleistung infolge Scheidung nach Artikel 22 FZG wird für die Aufzinsung der im Zeitpunkt der Eheschliessung erworbenen Austritts- und Freizügigkeitsleistungen und der Einmaleinlagen bis zum Zeitpunkt der Einleitung des Scheidungsverfahrens der im entsprechenden Zeitraum gültige BVG-Mindestzinssatz nach Artikel 12 BVV 2[^8a-3] angewandt. Artikel 65*d* Absatz 4 BVG[^8a-4] ist nicht anwendbar.[^8a-5]
 
 <sup>1bis</sup> Absatz 1 gilt sinngemäss bei der Teilung der Austrittsleistung infolge gerichtlicher Auflösung einer eingetragenen Partnerschaft, nach Artikel 22*d* FZG.[^8a-6]
 
@@ -138,7 +138,7 @@ Der Zinsrahmen für den technischen Zinssatz beträgt 1,0–3,5 Prozent.
 [^8a-2]: Fassung gemäss Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 [^8a-3]: [SR 831.441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10113)
 [^8a-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^8a-5]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Okt. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4643](https://fedlex.data.admin.ch/eli/oc/2004/712)).
+[^8a-5]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 325](https://fedlex.data.admin.ch/eli/oc/2026/325)).
 [^8a-6]: Eingefügt durch Ziff. I 2 der V vom 29. Sept. 2006 über die Umsetzung des Partnerschaftsgesetzes vom 18. Juni 2004 in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 2007 ([AS 2006 4155](https://fedlex.data.admin.ch/eli/oc/2006/615)).
 
 #### Art. 9
@@ -568,14 +568,14 @@ Anhang[^t-1]
 
 \1. Der dem berechtigten Ehegatten zugesprochene Rentenanteil wird wie folgt in eine lebenslange Rente umgerechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image1.png)
 
 \2. Dabei bezeichnet:
 
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20240301/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image2.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image3.png) den Barwert einer lebenslang in monatlichen Raten zahlbaren Rente des berechtigten Ehegatten (in Abhängigkeit seines Geschlechts und Alters);
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image4.png) die mit der kollektiven Methode berechnete Anwartschaft des verpflichteten Ehegatten (in Abhängigkeit seines Geschlechts und Alters) auf die lebenslang in monatlichen Raten zahlbare Ehegattenrente;
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399/20260801/de/xml/image/image5.png) das Verhältnis zwischen der Höhe der reglementarischen Ehegattenrente und der laufenden Rente des verpflichteten Ehegatten.
 
 \3. Die Barwerte und Anwartschaften werden auf der Basis der technischen Grundlagen BVG berechnet, die im für die Umrechnung massgebenden Zeitpunkt bestehen. Dabei werden die im Kalenderjahr der Berechnung geltenden unverstärkten Generationentafeln und der gewichtete Durchschnitt der technischen Durchschnittszinssätze gemäss dem zuletzt veröffentlichten Bericht der Oberaufsichtskommission Berufliche Vorsorge[^annexu1-lvlu1-1] zur finanziellen Lage der Vorsorgeeinrichtungen verwendet.
 
