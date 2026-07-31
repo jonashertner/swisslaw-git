@@ -3,20 +3,19 @@ canton: LU
 number: 506b
 title: Reglement über den Passerellen-Lehrgang und die Ergänzungsprüfungen für die Zulassung zu den universitären Hochschulen
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-04-04
+version: 2026-08-01
+version_adopted: 2026-03-31
 adopted: 2004-11-16
 in_force: 2004-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506b"
-pdf: "https://srl.lu.ch/api/de/versions/4113/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4825/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Passerellen-Lehrgang und die Ergänzungsprüfungen für die Zulassung zu den universitären Hochschulen
 
-vom 16.11.2004 (Stand 01.08.2023)
+vom 16.11.2004 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -125,7 +124,9 @@ beschliesst:
 
 #### § 11
 
-<sup>1</sup> Zu den Ergänzungsprüfungen an der Maturitätsschule für Erwachsene werden Studierende zugelassen, welche den ganzen Lehrgang an der Maturitätsschule für Erwachsene absolviert haben.
+<sup>1</sup> Zu den Ergänzungsprüfungen an der Maturitätsschule für Erwachsene werden Studierende zugelassen, die den Lehrgang an der Maturitätsschule für Erwachsene vollständig absolviert haben.
+
+<sup>2</sup> Als vollständig absolviert gilt der Lehrgang, wenn mindestens 80 Prozent des Präsenzunterrichts und 80 Prozent der Unterrichtstunden in den einzelnen Fächern besucht wurden. Die Schulleitung kann in begründeten Fällen Ausnahmen bewilligen.
 
 ## 5 Kosten und Rechtsmittel
 
