@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 réglant les échanges d'importation, de 
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: fr
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/fr"
 
 (OITE-PT)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> janvier 2026)
+du 18 novembre 2015 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -2189,11 +2189,11 @@ Les certificats sanitaires établis conformément aux art. 48 à 50 et pour lesq
 
 #### Art. 115
 
-**Disposition transitoire de la modification du 28 mai 2025**[^115-1]
+**Disposition transitoire relative à la modification du 28 mai 2025**[^115-1]
 
-Les fourrures et les produits de la pelleterie qui ne relèvent pas de l’art. 10*c* ou 10*d* peuvent encore être importés jusqu’au 30 juin 2027 et vendus jusqu’au 30 juin 2029.
+Les fourrures et les produits de la pelleterie qui ne relèvent pas de l’art. 10*c* ou 10*d* peuvent encore être importés jusqu’au 30 juin 2029 et vendus jusqu’au 30 juin 2030.
 
-[^115-1]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^115-1]: Introduit par le ch. I de l’O du 28 mai 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)). Nouvelle teneur selon le ch. I 1 de l’O du 5 juin 2026 sur la prolongation des délais transitoires relatifs à l’interdiction d’importer des fourrures et produits de la pelleterie obtenus par des méthodes cruelles pour les animaux, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 327](https://fedlex.data.admin.ch/eli/oc/2026/327)).
 
 Annexe
 

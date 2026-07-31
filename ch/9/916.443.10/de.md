@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. Januar 2026)
+vom 18. November 2015 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2187,9 +2187,9 @@ Gesundheitsbescheinigungen nach den Artikeln 48–50, für die im E-Cert eine Vo
 
 **Übergangsbestimmung zur Änderung vom 28. Mai 2025**[^115-1]
 
-Pelze und Pelzprodukte, die nicht unter Artikel 10*c* oder 10*d* fallen, dürfen noch bis zum 30. Juni 2027 eingeführt und bis zum 30. Juni 2029 verkauft werden.
+Pelze und Pelzprodukte, die nicht unter Artikel 10*c* oder 10*d* fallen, dürfen noch bis zum 30. Juni 2029 eingeführt und bis zum 30. Juni 2030 verkauft werden.
 
-[^115-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^115-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)). Fassung gemäss Ziff. I 1 der V vom 5. Juni 2026 über die Verlängerung der Übergangsfristen zum Einfuhrverbot für tierquälerisch erzeugte Pelze und Pelzprodukte, in Kraft seit 1. Aug. 2026 ([AS 2026 327](https://fedlex.data.admin.ch/eli/oc/2026/327)).
 
 Anhang
 

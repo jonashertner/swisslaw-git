@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260101/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° gennaio 2026)
+del 18 novembre 2015 (Stato 1° agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2191,9 +2191,9 @@ I certificati sanitari secondo gli articoli 48–50 per l’esportazione di anim
 
 **Disposizione transitoria della modifica del 28 maggio 2025**[^115-1]
 
-Le pellicce e i prodotti di pellicceria non contemplati dagli articoli 10*c* o 10*d* possono essere importati fino al 30 giugno 2027 e venduti fino al 30 giugno 2029.
+Le pellicce e i prodotti di pellicceria non contemplati dagli articoli 10*c* o 10*d* possono essere importati fino al 30 giugno 2029 e venduti fino al 30 giugno 2030.
 
-[^115-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^115-1]: Introdotto dalla cifra I dell’O del 28 mag. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)). Nuovo testo giusta la cifra I n. 1 dell’O del 5 giu. 2026 concernente la proroga dei termini transitori relativi al divieto di importazione di pellicce e prodotti di pellicceria ottenuti con metodi che infliggono sofferenze agli animali, in vigore dal 1° ago. 2026 ([RU 2026 327](https://fedlex.data.admin.ch/eli/oc/2026/327)).
 
 Allegato
 
