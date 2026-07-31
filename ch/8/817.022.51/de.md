@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 27. Mai 2020 über gentechnisch veränderte Lebens
 short: VGVL
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: de
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20260101/de"
 
 (VGVL)
 
-vom 27. Mai 2020 (Stand am 1. Januar 2026)
+vom 27. Mai 2020 (Stand am 1. August 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -346,7 +346,7 @@ Anhang 2[^t-1]
 
 ## Liste der tolerierten Materialien
 
-[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 8. Dez. 2023 ([AS 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)). Bereinigt gemäss Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)) und vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 811](https://fedlex.data.admin.ch/eli/oc/2025/811)).
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 8. Dez. 2023 ([AS 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)). Bereinigt gemäss Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)), vom 26. Nov. 2025 ([AS 2025 811](https://fedlex.data.admin.ch/eli/oc/2025/811)) und Ziff. I der V des BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 373](https://fedlex.data.admin.ch/eli/oc/2026/373)).
 
 <table>
 <tr><th>Bezeichnung</th><th>Erkennungsmarker</th><th>Einschränkungen/Auflagen</th></tr>
@@ -367,8 +367,11 @@ Anhang 2[^t-1]
 <tr><td>Mais Bt11 x MIR162 x 1507 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × DAS-Ø15Ø7-1 × MON‑ØØØ21-9</td><td>keine</td></tr>
 <tr><td>Mais Bt11 x MIR162 x MIR604 x 1507 x 5307 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × DAS‑Ø15Ø7‑1 × SYN‑Ø53Ø7‑1 × MON‑ØØØ21‑9</td><td>keine</td></tr>
 <tr><td>Mais Bt11 x MIR162 x MIR604 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × MON‑ØØØ21-9</td><td>keine</td></tr>
+<tr><td>Mais DAS1131</td><td>DAS-Ø1131-3</td><td>keine</td></tr>
 <tr><td>Mais DAS-40278-9</td><td>DAS-4Ø278-9</td><td>keine</td></tr>
 <tr><td>Mais DP202216</td><td>DP-2Ø2216-6</td><td>keine</td></tr>
+<tr><td>Mais DP51291</td><td>DP-Ø51291-2</td><td>keine</td></tr>
+<tr><td>Mais DP910521</td><td>DP-91Ø521-2</td><td>keine</td></tr>
 <tr><td>Mais DP915635</td><td>DP-915635-4</td><td>keine</td></tr>
 <tr><td>Mais GA21</td><td>MON-ØØØ21-9</td><td>keine</td></tr>
 <tr><td>Mais MIR 162</td><td>SYN-IR162-4</td><td>keine</td></tr>

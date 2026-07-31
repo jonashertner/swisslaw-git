@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiqu
 short: ODAlGM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: fr
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20260101/fr"
 
 (ODAlGM)
 
-du 27 mai 2020 (État le 1<sup>er</sup> janvier 2026)
+du 27 mai 2020 (État le 1<sup>er</sup> août 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -343,7 +343,7 @@ Annexe 2[^t-1]
 
 ## Liste des matériels tolérés
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 8 déc. 2023 ([RO 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)). Mise à jour par le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 811](https://fedlex.data.admin.ch/eli/oc/2025/811)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 8 déc. 2023 ([RO 2023 844](https://fedlex.data.admin.ch/eli/oc/2023/844)). Mise à jour par le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 394](https://fedlex.data.admin.ch/eli/oc/2025/394)) et du 26 nov. 2025 ([RO 2025 811](https://fedlex.data.admin.ch/eli/oc/2025/811)) et le ch. I de l’O de l’OSAV du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 373](https://fedlex.data.admin.ch/eli/oc/2026/373)).
 
 <table>
 <tr><th>Désignation</th><th>Identificateur unique</th><th>Restrictions/charges</th></tr>
@@ -370,8 +370,11 @@ Annexe 2[^t-1]
 <tr><td>Maïs Bt11 x MIR162 x 1507 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × DAS-Ø15Ø7-1 × MON‑ØØØ21-9</td><td>aucune</td></tr>
 <tr><td>Maïs Bt11 x MIR162 x MIR604 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × MON‑ØØØ21-9</td><td>aucune</td></tr>
 <tr><td>Maïs Bt11 x MIR162 x MIR604 x 1507 x 5307 x GA21</td><td>SYN-BTØ11-1 × SYN-IR162-4 × SYN-IR6Ø4-5 × DAS‑Ø15Ø7‑1 × SYN‑Ø53Ø7‑1 × MON‑ØØØ21‑9</td><td>aucune</td></tr>
+<tr><td>Maïs DAS1131</td><td>DAS-Ø1131-3</td><td>aucune</td></tr>
 <tr><td>Maïs DAS-40278-9</td><td>DAS-4Ø278-9</td><td>aucune</td></tr>
 <tr><td>Maïs DP202216</td><td>DP-2Ø2216-6</td><td>aucune</td></tr>
+<tr><td>Maïs DP51291</td><td>DP-Ø51291-2</td><td>aucune</td></tr>
+<tr><td>Maïs DP910521</td><td>DP-91Ø521-2</td><td>aucune</td></tr>
 <tr><td>Maïs DP915635</td><td>DP-915635-4</td><td>aucune</td></tr>
 <tr><td>Maïs GA21</td><td>MON-ØØØ21-9</td><td>aucune</td></tr>
 <tr><td>Maïs MIR 162</td><td>SYN-IR162-4</td><td>aucune</td></tr>
