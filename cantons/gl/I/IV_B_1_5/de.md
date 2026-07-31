@@ -4,13 +4,12 @@ number: IV B/1/5
 title: Verordnung über das kantonale Bildungsangebot
 short: "Bildungsangebotsverordnung, BAV"
 language: de
-version: 2019-08-01
-valid_until: 2026-07-31
-version_adopted: 2019-06-18
+version: 2026-08-01
+version_adopted: 2026-03-10
 adopted: 2019-06-18
 in_force: 2019-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2120/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2120/pdf_file"
 
 (Bildungsangebotsverordnung, BAV)
 
-Vom 18.06.2019 (Stand 01.08.2019)
+Vom 18.06.2019 (Stand 01.08.2026)
 
 Der Regierungsrat,
 
-gestützt auf Artikel 30 des Regierungs- und Verwaltungsorganisationsgesetzes[^ingress-1], Artikel 22a Absatz 4 des Bildungsgesetzes[^ingress-2], Artikel 6 Absatz 1 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung[^ingress-3] und Artikel 3 der Berufsbildungsverordnung[^ingress-4]
+gestützt auf Artikel 30 des Regierungs- und Verwaltungsorganisationsgesetzes[^ingress-1], Artikel 22a Absatz 4 des Bildungsgesetzes[^ingress-2], Artikel 6 Absatz 1 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung[^ingress-3] und Artikel 3 der Berufsbildungsverordnung[^ingress-4],
 
 erlässt:
 
@@ -50,21 +49,9 @@ erlässt:
 
 <sup>1</sup> Die Berufsbildungskommission und die Aufsichtsgremien der Schulen können zum ausserordentlichen Besuch von Bildungsgängen Regelungen erlassen, namentlich zum Zugang, zum Umfang der Teilnahme und zur allfälligen Tragung von Kosten.
 
-#### Art. 3
+#### Art. 3–4
 
-**Disziplinarrecht**
-
-<sup>1</sup> Für den Erlass der Disziplinarordnung sind die Aufsichtsgremien zuständig.
-
-<sup>2</sup> Als Mittel zur Ahndung von disziplinarischen Verstössen dienen in einfachen Fällen Ermahnung, Verweis, Geldbusse oder der vorübergehende Ausschluss vom Unterricht sowie die Wegweisung von einer Prüfung.
-
-<sup>3</sup> In schweren Fällen kann, je nach Typ des Bildungsgangs, auch die Auflösung des Ausbildungsverhältnisses als Sanktion vorgesehen werden.
-
-#### Art. 4
-
-**Kostenbeteiligung gemäss Artikel 11 Absatz 3 des Bildungsgesetzes**
-
-<sup>1</sup> Die Aufsichtsgremien bestimmen über die Einzelheiten der Kostentragung für ihre Schule.
+**…**
 
 #### Art. 5
 
@@ -106,11 +93,13 @@ erlässt:
 
 **Aufgaben der Schulleitung**
 
-<sup>1</sup> Die Schulleitung ist neben den Aufgaben gemäss Artikel 3 der Schulorganisationsverordnung (SOV)[^9-1] zuständig für:
+<sup>1</sup> Die Schulleitung ist neben den Aufgaben gemäss Artikel 3 der Schulorganisationsverordnung (SOV)[^9-1] insbesondere zuständig für:
 
 - a. Entscheide gegenüber Lernenden und Studierenden;
 - b. den Einsatz der Lehrpersonen;
-- c. die befristete Anstellung von Lehrpersonen.
+- c. die befristete Anstellung von Lehrpersonen;
+- d. die Zuweisung von Aufgaben an den Konvent der Lehrpersonen;
+- e. die Festlegung von internen Zuständigkeiten der Prorektorate.
 
 [^9-1]: GS [IV B/1/4](https://gesetze.gl.ch/data/IV-B.1.4/de)
 
@@ -124,7 +113,7 @@ erlässt:
 
 <sup>3</sup> Er wählt eine Vertretung der Lehrerschaft, die mit beratender Stimme an den Sitzungen des Aufsichtsgremiums teilnimmt.
 
-<sup>4</sup> Das zuständige Aufsichtsgremium kann dem Konvent weitere Aufgaben zuweisen.
+<sup>4</sup> …
 
 ### 2.4. Ergänzende personalrechtliche Bestimmungen für Lehrpersonen
 
@@ -135,19 +124,17 @@ erlässt:
 <sup>1</sup> Das Vollzeitpensum für Lehrpersonen beträgt in Lektionen zu 45 Minuten:
 
 - a. am Gymnasium und der Fachmittelschule: — 23 Lektionen;
-- b. an den Berufsfachschulen: — 26 Lektionen.
+- b. an den Berufsfachschulen: — 26 Lektionen;
+- c. an den Brücken- und Integrationsangeboten: — 28 Lektionen;
+- d. an der Sportschule: — 28 Lektionen.
 
-<sup>2</sup> An der Sportschule sowie bei Brücken- und Integrationsangeboten gelten die Bestimmungen für die Volksschule sinngemäss.
+<sup>2</sup> …
 
-<sup>3</sup> Die Schulleitung entscheidet über die Entlastung der Lehrpersonen mit Zusatzaufgaben.
+<sup>3</sup> Die Schulleitung legt allfällige Abweichungen der Lektionenzahl für Lehrpersonen mit Zusatzaufgaben fest.
 
 #### Art. 12
 
-**Altersentlastung**
-
-<sup>1</sup> Lehrpersonen werden ab dem 60. Altersjahr mit zwei Lektionen entlastet, wenn ihr Pensum mindestens zwei Drittel des Vollzeitpensums umfasst.
-
-<sup>2</sup> Bei einem Pensum von mindestens einem Drittel des Vollumfangs wird mit einer Lektion entlastet.
+**…**
 
 ### 2.5. Bestimmungen zur Aufsicht
 
@@ -169,9 +156,7 @@ erlässt:
 
 <sup>2</sup> Der Kantonsschulrat kann einen Beirat aus Vertretungen der involvierten Sportverbände einsetzen.
 
-<sup>3</sup> Für die Sportschule wird eine eigene Rechnung geführt.
-
-<sup>4</sup> Die Rechnung wird jährlich durch die Finanzkontrolle revidiert, welche jeweils zuhanden des Departements einen Revisionsbericht erstellt.
+<sup>3–4</sup> …
 
 #### Art. 15
 
