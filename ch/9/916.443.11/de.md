@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-EU
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/846"
 language: de
-version: 2025-07-01
+version: 2026-08-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2015-846-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2015-846-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20250701/de"
 
 (EDAV-EU)[^t-1]
 
-vom 18. November 2015 (Stand am 1. Juli 2025)
+vom 18. November 2015 (Stand am 1. August 2026)
 
 [^t-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
@@ -27,10 +27,10 @@ gestützt auf die Artikel 6 Absatz 3, 7 Absatz 1, 9, 14 Absatz 1, 15*a* Absatz 2
 
 verordnet:
 
-[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-4]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-4]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -52,9 +52,9 @@ Diese Verordnung gilt für:
 
 [^1-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^1-3]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^1-3]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 [^1-4]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^1-5]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^1-5]: [SR 916.443.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10905)
 
 #### Art. 2
 
@@ -77,12 +77,12 @@ Vorbehalten bleiben insbesondere die folgenden Erlasse:
 - a. Tierschutzverordnung vom 23. April 2008[^3-5] (TSchV);
 - b. Verordnung vom 4. September 2013[^3-6] über den Verkehr mit Tieren und Pflanzen geschützter Arten.
 
-[^3-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^3-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^3-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^3-3]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^3-5]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^3-6]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^3-5]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+[^3-6]: [SR 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 
 #### Art. 4
 
@@ -123,14 +123,14 @@ In dieser Verordnung bedeuten:
 [^4-2]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-5]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-5]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^4-6]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 [^4-7]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1756, ABl. L 357 vom 8.10.2021, S. 27.
 [^4-8]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^4-9]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^4-10]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-9]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-10]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-11]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-12]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-12]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## 2. Abschnitt: Einfuhr
 
@@ -161,7 +161,7 @@ Für die Einfuhr von Tieren und Tierprodukten gelten die harmonisierten Bedingun
 Die Artikel 5*b*–5*i* gelten für Pelze und Pelzprodukte nach Artikel 2 der Pelzdeklarationsverordnung vom 7. Dezember 2012[^5a-2].
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 374](https://fedlex.data.admin.ch/eli/oc/2025/374)).
-[^5a-2]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^5a-2]: [SR 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
 
 #### Art. 5b
 
@@ -221,7 +221,7 @@ Es muss Folgendes enthalten:
 <sup>4</sup> Das BLV veröffentlicht das Zertifizierungsprogramm auf seiner Internetseite.
 
 [^5e-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 374](https://fedlex.data.admin.ch/eli/oc/2025/374)).
-[^5e-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^5e-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 5f
 
@@ -241,7 +241,7 @@ Es anerkennt eine ausländische Zertifizierungsstelle, wenn sie über eine Akkre
 <sup>4</sup> Eine Zertifizierungsstelle muss dem BLV unverzüglich melden, wenn sie die Voraussetzungen für die Anerkennung nicht mehr erfüllt.
 
 [^5f-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 374](https://fedlex.data.admin.ch/eli/oc/2025/374)).
-[^5f-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^5f-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 #### Art. 5g
 
@@ -321,7 +321,7 @@ Zulässig ist:
 [^6-3]: Delegierte Verordnung (EU) 2020/689 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften betreffend Überwachung, Tilgungsprogramme und den Status «seuchenfrei» für bestimmte gelistete und neu auftretende Seuchen, ABl. L 174 vom 3.6.2020, S. 211; zuletzt geändert durch Delegierte Verordnung (EU) 2023/1798, ABl. L 233 vom 21.9.2023, S. 24.
 [^6-4]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 [^6-5]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^6-6]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-6]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^6-7]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 7
@@ -351,7 +351,7 @@ Das BLV kann die Bewilligung nach Absatz 1 Buchstabe b verweigern oder entziehen
 - b. die gesamte Kapazität der betreffenden Entsorgungsbetriebe für die Entsorgung von entsprechenden inländischen tierischen Nebenprodukten benötigt wird.
 
 [^7-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
-[^7-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^7-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^7-3]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2023/2613, ABl. L, 2023/2613, 24.11.2023.
 
 #### Art. 8
@@ -462,7 +462,7 @@ Für Lebensmittel tierischer Herkunft und solche mit einem Anteil von Lebensmitt
 Schlachtvieh darf nur in einen Grossbetrieb nach Artikel 3 Buchstabe l der Verordnung vom 16. Dezember 2016[^18-2] über das Schlachten und die Fleischkontrolle verbracht werden.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^18-2]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^18-2]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 #### Art. 19
 
@@ -514,7 +514,7 @@ Bestimmungsbetriebe müssen die Gesundheitsbescheinigungen für Tiere und Tierpr
 
 <sup>3</sup> Für Abfertigungsunternehmen, die lebende Tiere abfertigen, gelten die in der Tierschutzgesetzgebung festgelegten Anforderungen an Tierheime, insbesondere die Artikel 101–102 TSchV[^22-1], sinngemäss.
 
-[^22-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^22-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 23
 
@@ -601,7 +601,7 @@ Das BLV erteilt die Bewilligung, wenn:
 
 <sup>3</sup> Vor der Erteilung der Bewilligung legt das BLV das Ausfuhrgesuch der Kantonstierärztin oder dem Kantonstierarzt vor, die oder der für den Entsorgungsbetrieb zuständig ist, der die Entsorgung nach Absatz 2 Buchstabe c übernehmen würde.
 
-[^27-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^27-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^27-2]: Siehe Fussnote zu Art. 7 Abs. 1 Bst. b.
 
 #### Art. 28
@@ -615,7 +615,7 @@ Folgende tierische Nebenprodukte dürfen nur ausgeführt werden, wenn mit der Se
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^28-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^28-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^28-3]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 29
 
@@ -623,7 +623,7 @@ Folgende tierische Nebenprodukte dürfen nur ausgeführt werden, wenn mit der Se
 
 Für tierische Nebenprodukte nach den Artikeln 27 und 28, die zur Entsorgung im Ausland bestimmt sind, gelten in Bezug auf die Sammlung, die Kennzeichnung und die Begleitdokumente ergänzend zu den Artikeln 19 und 20 VTNP[^29-1] die Bestimmungen nach Anhang VIII Kapitel I–III der Verordnung (EU) Nr. 142/2011[^29-2].
 
-[^29-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^29-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^29-2]: Siehe Fussnote zu Art. 7 Abs. 1 Bst. b.
 
 #### Art. 30
@@ -801,7 +801,7 @@ Die TRACES-Verantwortlichen der kantonalen Amtsstellen führen die Schulungen du
 Die Verknüpfung von TRACES mit dem System «e-dec» richtet sich nach Artikel 101*a* EDAV-DS[^41a-2].
 
 [^41a-1]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^41a-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^41a-2]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 #### Art. 42
 
@@ -823,7 +823,7 @@ Die Verknüpfung von TRACES mit dem System «e-dec» richtet sich nach Artikel 1
 
 <sup>2</sup> Im Übrigen gelten die Artikel 102*a* und 102*c*–102*i* EDAV-DS.
 
-[^42a-1]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^42a-1]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 ## 8. Abschnitt: Gebühren und Kosten
 
@@ -839,7 +839,7 @@ Sämtliche Gebühren und Kosten im Zusammenhang mit der Ein-, Durch- und Ausfuhr
 
 Die Höhe der Gebühren für Dienstleistungen und Verfügungen des BLV richtet sich nach der Gebührenverordnung BLV vom 30. Oktober 1985[^44-1].
 
-[^44-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^44-1]: [SR 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 #### Art. 45
 
@@ -859,7 +859,7 @@ Die Kantone können für Dienstleistungen, Kontrollen und Massnahmen zum Vollzug
 
 <sup>3</sup> Das Verfahren der kantonalen Vollzugsbehörden richtet sich nach dem Verfahrensrecht des Kantons.
 
-[^46-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^46-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^46-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 
 #### Art. 47
@@ -886,8 +886,8 @@ Die Kantonstierärztin, der Kantonstierarzt, die Kantonschemikerin oder der Kant
 
 <sup>4</sup> Vorbehalten bleibt Artikel 37 LMG.[^48-3]
 
-[^48-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^48-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^48-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^48-2]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^48-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 
 ## 10. Abschnitt: Schlussbestimmungen
@@ -922,6 +922,6 @@ Die Kantonstierärztin, der Kantonstierarzt, die Kantonschemikerin oder der Kant
 
 **Übergangsbestimmung zur Änderung vom 28. Mai 2025**[^52-1]
 
-Pelze und Pelzprodukte, die nicht unter Artikel 5*c* oder 5*d* fallen, dürfen noch bis zum 30. Juni 2027 eingeführt und bis zum 30. Juni 2029 verkauft werden.
+Pelze und Pelzprodukte, die nicht unter Artikel 5*c* oder 5*d* fallen, dürfen noch bis zum 30. Juni 2029 eingeführt und bis zum 30. Juni 2030 verkauft werden.
 
-[^52-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 374](https://fedlex.data.admin.ch/eli/oc/2025/374)).
+[^52-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025 ([AS 2025 374](https://fedlex.data.admin.ch/eli/oc/2025/374)). Fassung gemäss Ziff. I 2 der V vom 5. Juni 2026 über die Verlängerung der Übergangsfristen zum Einfuhrverbot für tierquälerisch erzeugte Pelze und Pelzprodukte, in Kraft seit 1. Aug. 2026 ([AS 2026 327](https://fedlex.data.admin.ch/eli/oc/2026/327)).
