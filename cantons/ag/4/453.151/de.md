@@ -4,13 +4,13 @@ number: "453.151"
 title: "Verordnung über die Promotion, die Maturitätsprüfung und die Erlangung der Maturität an der Aargauischen Maturitätsschule für Erwachsene"
 short: VPAME
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-05-17
+version: 2026-08-01
+valid_until: 2027-07-31
+version_adopted: 2026-05-13
 adopted: 1998-01-07
 in_force: 1998-02-16
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.151"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3316/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4002/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3316/pdf_file"
 
 (VPAME)
 
-Vom 07.01.1998 (Stand 01.08.2023)
+Vom 07.01.1998 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 38 und 39 Abs. 2 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-1],
+gestützt auf die §§ 10 Abs. 2 und 22 Abs. 3 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
+[^ingress-1]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1. Allgemeines und Promotion
 
@@ -39,9 +39,11 @@ beschliesst:
 
 #### § 1a
 
-**Geltungsbereich**
+**Geltungsbereich, Stundentafel und Lehrplan**
 
 <sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, die Maturitätsprüfung und die Erlangung der Maturität an der Aargauischen Maturitätsschule für Erwachsene (AME).
+
+<sup>2</sup> Die Stundentafel und der Lehrplan sind in den Anhängen geregelt.
 
 #### § 1b
 
@@ -57,11 +59,11 @@ beschliesst:
 
 **Nachteilsausgleich**
 
-<sup>1</sup> Studierende mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich.
+<sup>1</sup> Studierende mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich. Hierbei müssen die allgemeinen Bildungsziele und Kompetenzen gemäss Lehrplan ohne Reduktion der Leistungsanforderungen erreicht werden.
 
 <sup>2</sup> Die betreffenden Nachweise sind rechtzeitig vor Inanspruchnahme des Nachteilsausgleichs im Hinblick auf Promotionsentscheide und Prüfungen zu erbringen.
 
-<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet im Rahmen von § 1b die Schulleitung.
+<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet die Schulleitung nach Vorgaben des Departements Bildung, Kultur und Sport (BKS).
 
 #### § 2
 
@@ -136,7 +138,7 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Die Organisation der Maturitätsprüfungen richtet sich nach den einschlägigen Bestimmungen der Verordnung über die Promotion und die Maturität an den Mittelschulen (Maturitätsverordnung) vom 23. Juni 1999[^8-1].
+<sup>1</sup> Die Organisation der Maturitätsprüfungen richtet sich nach den einschlägigen Bestimmungen der Verordnung über die Promotion und die Maturität am Gymnasium (V Gymnasium) vom 23. Juni 1999[^8-1].
 
 [^8-1]: SAR [423.152](https://gesetzessammlungen.ag.ch/data/423.152/de)
 
@@ -170,7 +172,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Das BKS erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> …
 
@@ -178,7 +180,7 @@ beschliesst:
 
 **Wiederholung bei Ungültigerklärung**
 
-<sup>1</sup> Kandidatinnen beziehungsweise Kandidaten, deren Maturitätsprüfung vom Departement Bildung, Kultur und Sport für ungültig erklärt worden ist, können diese einmal am nächsten ordentlichen Prüfungstermin wiederholen.
+<sup>1</sup> Kandidatinnen beziehungsweise Kandidaten, deren Maturitätsprüfung vom BKS für ungültig erklärt worden ist, können diese einmal am nächsten ordentlichen Prüfungstermin wiederholen.
 
 <sup>2</sup> Die Betroffenen können das dritte Jahr des Aufbaukurses repetieren. In diesen Fällen sind die Zeugnisnoten am Ende des Wiederholungsjahres die Vorschlagsnoten für die Wiederholungsprüfung.
 
@@ -235,7 +237,7 @@ beschliesst:
 
 **Maturitätsentscheid**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport entscheidet über das Bestehen der Maturität.
+<sup>1</sup> Das BKS entscheidet über das Bestehen der Maturität.
 
 #### § 21
 
@@ -251,7 +253,7 @@ beschliesst:
 
 **Maturitätsausweis**
 
-<sup>1</sup> Der Maturitätsausweis wird vom Departement Bildung, Kultur und Sport ausgestellt, wenn die Maturität bestanden ist.
+<sup>1</sup> Der Maturitätsausweis wird vom BKS ausgestellt, wenn die Maturität bestanden ist.
 
 <sup>2</sup> Der Maturitätsausweis enthält:
 
@@ -263,7 +265,7 @@ beschliesst:
 - f) die Maturitätsnoten der 13 Maturitätsfächer nach § 14;
 - g) das Thema der Maturaarbeit;
 - h) die Zeugnisnote des letzten Ausbildungsjahres im Fach Philosophie/Pädagogik/Psychologie;
-- i) die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des Departements und der Rektorin beziehungsweise des Rektors der Schule.
+- i) die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des BKS und der Rektorin beziehungsweise des Rektors der Schule.
 
 ## 4. Übergangs- und Schlussbestimmungen
 
@@ -279,17 +281,7 @@ beschliesst:
 
 #### § 24
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> …
-
-<sup>5</sup> Für Studierende, die den Lehrgang vor Februar 2020 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+**…**
 
 Aarau, 7. Januar 1998
 
