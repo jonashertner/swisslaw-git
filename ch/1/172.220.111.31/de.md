@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. Januar 2026)
+vom 6. Dezember 2001 (Stand am 1. August 2026)
 
 Das Eidgenössische Finanzdepartement (EFD),[^ingress-1]
 
@@ -180,13 +180,29 @@ Die Mitarbeitenden und die direkten Vorgesetzten bestätigen über eine digitale
 
 #### Art. 9a
 
-**Auswertung der Lohnentwicklung**[^9a-1]
+**Vorschlag für die Lohnentwicklung**[^9a-1]
+
+### (Art. 39 Abs. 2 BPV)
+
+<sup>1</sup> Liegt der Lohn der Angestellten unterhalb der Lohnentwicklungskurve, so berechnet sich der Vorschlag nach Anhang 1, bis der Lohn die Lohnentwicklungskurve erreicht.
+
+<sup>2</sup> Liegt der Lohn auf der Lohnentwicklungskurve, so entspricht der Vorschlag dem Anstieg der Lohnentwicklungskurve nach Artikel 39 Absatz 1 Buchstaben a–d BPV.
+
+<sup>3</sup> Liegt der Lohn der Angestellten über der Lohnentwicklungskurve, so erhalten die Vorgesetzten den Vorschlag, keine Lohnentwicklung zu beantragen.
+
+<sup>4</sup> Die Angestellten werden über die Anzahl Erfahrungsjahre informiert, die dem Vorschlag für ihre Lohnentwicklung zugrunde liegen.
+
+[^9a-1]: Eingefügt durch Ziff. I der V des EFD vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 377](https://fedlex.data.admin.ch/eli/oc/2026/377)).
+
+#### Art. 9b
+
+**Auswertung der Lohnentwicklung**[^9b-1]
 
 ### (Art. 39*a* BPV)
 
 Die Personalverantwortlichen werten die Abweichungen von der vorgeschlagenen Lohnentwicklung nach Artikel 39*a* Absätze 1–3 BPV aus, namentlich nach Geschlecht, Alter und Sprache der Angestellten.
 
-[^9a-1]: Eingefügt durch Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^9b-1]: Ursprünglich: Art. 9*a*. Eingefügt durch Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 10
 
@@ -1256,11 +1272,47 @@ Der Begleitausschuss begleitet die Praxis bei der Entlöhnung sowie bei Arbeitsz
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
+
+(Art. 9*a*)
+
+## Vorschlag für die Lohnentwicklung bei Lohnposition unter der Lohnentwicklungskurve
+
+[^t-1]: Eingefügt durch Ziff. II Abs. 1 der V des EFD vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 377](https://fedlex.data.admin.ch/eli/oc/2026/377)).
+
+<table>
+<tr><th>Erfahrungsjahre</th><th>Vorschlag für die Lohnentwicklung basierend auf dem Mindestbetrag der Lohnklasse</th></tr>
+<tr><td>0</td><td>0,00 %</td></tr>
+<tr><td>1</td><td>4,75 %</td></tr>
+<tr><td>2</td><td>4,75 %</td></tr>
+<tr><td>3</td><td>4,75 %</td></tr>
+<tr><td>4</td><td>4,75 %</td></tr>
+<tr><td>5</td><td>4,75 %</td></tr>
+<tr><td>6</td><td>4,05 %</td></tr>
+<tr><td>7</td><td>4,05 %</td></tr>
+<tr><td>8</td><td>4,05 %</td></tr>
+<tr><td>9</td><td>4,05 %</td></tr>
+<tr><td>10</td><td>4,05 %</td></tr>
+<tr><td>11</td><td>3,35 %</td></tr>
+<tr><td>12</td><td>3,35 %</td></tr>
+<tr><td>13</td><td>3,35 %</td></tr>
+<tr><td>14</td><td>3,35 %</td></tr>
+<tr><td>15</td><td>3,35 %</td></tr>
+<tr><td>16</td><td>2,65 %</td></tr>
+<tr><td>17</td><td>2,65 %</td></tr>
+<tr><td>18</td><td>2,65 %</td></tr>
+<tr><td>19</td><td>2,65 %</td></tr>
+<tr><td>20</td><td>2,65 %</td></tr>
+<tr><td>&gt; 20</td><td>1,20 %</td></tr>
+</table>
+
+Anhang 2[^t-2]
 
 (Art. 11)
 
 ## Ortszuschlag
+
+[^t-2]: Ursprünglich: Anh. 1.
 
 ### 1. Grundsatz
 
@@ -3744,13 +3796,13 @@ Zuschlag nach Ziffer 4 Absatz 1 Buchstabe c
 
 Der Zuschlag beträgt pro Jahr für Kinder bis zu 12 Jahren 1099 Franken. Für Kinder über 12 Jahre beträgt er 1275 Franken (Indexstand 2001).
 
-Anhang 2[^t-1]
+Anhang 3[^t-3]
 
 (Art. 51*b* Abs. 1)
 
 ## Tariflisten für die Vergütung von Kosten für die familienergänzende Kinderbetreuung
 
-[^t-1]: Eingefügt durch Ziff. II der V des EFD vom 8. Dez. 2010 ([AS 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Fassung gemäss Ziff. II der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^t-3]: Ursprünglich: Anh. 2. Eingefügt durch Ziff. II der V des EFD vom 8. Dez. 2010 ([AS 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Fassung gemäss Ziff. II der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 \1. Tarifliste für die Betreuung in Betreuungsstätten
 

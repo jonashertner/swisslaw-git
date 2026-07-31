@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° gennaio 2026)
+del 6 dicembre 2001 (Stato 1° agosto 2026)
 
 Il Dipartimento federale delle finanze (DFF),[^ingress-1]
 
@@ -178,13 +178,29 @@ I collaboratori e i loro diretti superiori attestano, attraverso una piattaforma
 
 #### Art. 9a
 
-**Valutazione dell’evoluzione dello stipendio**[^9a-1]
+**Proposta di evoluzione dello stipendio**[^9a-1]
+
+### (art. 39 cpv. 2 OPers)
+
+<sup>1</sup> Se lo stipendio dell’impiegato è inferiore al valore della curva di evoluzione dello stipendio, la proposta è calcolata secondo l’allegato 1 fino a quando lo stipendio raggiunge il valore della curva di evoluzione dello stipendio.
+
+<sup>2</sup> Se lo stipendio dell’impiegato è pari al valore della curva di evoluzione dello stipendio, la proposta corrisponde all’aumento del valore della curva di evoluzione secondo l’articolo 39 capoverso 1 lettere a–d OPers.
+
+<sup>3</sup> Se lo stipendio dell’impiegato è superiore al valore della curva di evoluzione dello stipendio, il superiore riceve la proposta di non richiedere alcuna evoluzione dello stipendio.
+
+<sup>4</sup> Gli impiegati sono informati sul numero di anni di esperienza su cui si basa la proposta di evoluzione del loro stipendio.
+
+[^9a-1]: Introdotto dalla cifra I dell’O del DFF del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 377](https://fedlex.data.admin.ch/eli/oc/2026/377)).
+
+#### Art. 9b
+
+**Valutazione dell’evoluzione dello stipendio**[^9b-1]
 
 ### (art. 39*a* OPers)
 
 I responsabili del personale valutano gli scostamenti dalla proposta di evoluzione dello stipendio secondo l’articolo 39*a* capoversi 1–3 OPers, segnatamente in base a sesso, età e lingua dell’impiegato.
 
-[^9a-1]: Introdotto dalla cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^9b-1]: Originario art. 9*a*. Introdotto dalla cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 10
 
@@ -633,17 +649,20 @@ Lo stipendio annuo che funge da base per il calcolo dell’indennità in contant
 
 <sup>2</sup> I giorni festivi di cui all’articolo 66 capoverso 2 OPers che cadono in un periodo di vacanza non contano come giorni di vacanza.[^36-1]
 
-**Art. 37**[^36-2] Interruzione delle vacanze
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
-(art. 67 OPers)
+#### Art. 37
+
+**Interruzione delle vacanze**[^37-1]
+
+### (art. 67 OPers)
 
 Le vacanze si ritengono interrotte:
 
 - a. se l’impiegato è richiamato per motivi aziendali;
 - b. in caso di infortuno o malattia se l’impiegato è inabile al lavoro per almeno tre giorni di vacanza consecutivi.
 
-[^36-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^36-2]: Nuovo testo giusta la cifra I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 38
 
@@ -1244,11 +1263,47 @@ Il comitato di seguito osserva la prassi delle remunerazioni, come pure le quest
 
 La presente ordinanza entra in vigore il 1° gennaio 2002.
 
-Allegato 1
+Allegato 1[^t-1]
+
+(art. 9*a*)
+
+## Proposta di evoluzione dello stipendio in caso di stipendio inferiore al valore della curva di evoluzione dello stipendio
+
+[^t-1]: Introdotto dalla cifra II cpv. 1 dell’O del DFF del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 377](https://fedlex.data.admin.ch/eli/oc/2026/377)).
+
+<table>
+<tr><th>Anni di esperienza</th><th>Proposta di evoluzione dello stipendio sulla base dell’importo minimo della classe di stipendio</th></tr>
+<tr><td>0</td><td>0,00 %</td></tr>
+<tr><td>1</td><td>4,75 %</td></tr>
+<tr><td>2</td><td>4,75 %</td></tr>
+<tr><td>3</td><td>4,75 %</td></tr>
+<tr><td>4</td><td>4,75 %</td></tr>
+<tr><td>5</td><td>4,75 %</td></tr>
+<tr><td>6</td><td>4,05 %</td></tr>
+<tr><td>7</td><td>4,05 %</td></tr>
+<tr><td>8</td><td>4,05 %</td></tr>
+<tr><td>9</td><td>4,05 %</td></tr>
+<tr><td>10</td><td>4,05 %</td></tr>
+<tr><td>11</td><td>3,35 %</td></tr>
+<tr><td>12</td><td>3,35 %</td></tr>
+<tr><td>13</td><td>3,35 %</td></tr>
+<tr><td>14</td><td>3,35 %</td></tr>
+<tr><td>15</td><td>3,35 %</td></tr>
+<tr><td>16</td><td>2,65 %</td></tr>
+<tr><td>17</td><td>2,65 %</td></tr>
+<tr><td>18</td><td>2,65 %</td></tr>
+<tr><td>19</td><td>2,65 %</td></tr>
+<tr><td>20</td><td>2,65 %</td></tr>
+<tr><td>&gt; 20</td><td>1,20 %</td></tr>
+</table>
+
+Allegato 2[^t-2]
 
 (art. 11)
 
 ## Indennità di residenza
+
+[^t-2]: Originario all. 1.
 
 ### 1. Principio
 
@@ -3732,13 +3787,13 @@ Supplemento ai sensi del numero 4 capoverso 1 lettera c
 
 Il supplemento ammonta a 1099 franchi all’anno per i figli fino ai 12 anni. Per quelli oltre i 12 anni esso ammonta a 1275 franchi (stato dell’indice del 2001).
 
-Allegato 2[^t-1]
+Allegato 3[^t-3]
 
 (art. 51*b* cpv. 1)
 
 ## Tariffe per il rimborso dei costi per la custodia di bambini complementare alla famiglia
 
-[^t-1]: Introdotto dalla cifra II dell’O del DFF dell’8 dic. 2010 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Nuovo testo giusta la cifra II dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^t-3]: Originario all. 2. Introdotto dalla cifra II dell’O del DFF dell’8 dic. 2010 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Nuovo testo giusta la cifra II dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 \1. Tariffe per la custodia in strutture d’accoglienza
 

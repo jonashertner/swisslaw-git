@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (État le 1<sup>er</sup> janvier 2026)
+du 6 décembre 2001 (État le 1<sup>er</sup> août 2026)
 
 Le Département fédéral des finances (DFF),[^ingress-1]
 
@@ -178,13 +178,29 @@ Les collaborateurs et leurs supérieurs directs confirment sur une plateforme nu
 
 #### Art. 9a
 
-**Analyse de l’évolution du salaire**[^9a-1]
+**Proposition d’évolution du salaire**[^9a-1]
+
+### (art. 39, al. 2, OPers)
+
+<sup>1</sup> Si le salaire des employés se situe au-dessous de la courbe d’évolution salariale, la proposition d’évolution du salaire est calculée selon l’annexe 1, jusqu’à ce que le salaire atteigne la courbe d’évolution salariale.
+
+<sup>2</sup> Si le salaire des employés se situe sur la courbe d’évolution salariale, la proposition d’évolution du salaire suit l’augmentation de la courbe visée à l’art. 39, al. 1, let. a à d, OPers.
+
+<sup>3</sup> Si le salaire des employés se situe au-dessus de la courbe d’évolution salariale, les supérieurs hiérarchiques reçoivent la proposition de ne pas solliciter d’évolution du salaire.
+
+<sup>4</sup> Les employés sont informés du nombre d’années d’expérience prises en compte pour la proposition d’évolution du salaire.
+
+[^9a-1]: Introduit par le ch. I de l’O du DFF du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 377](https://fedlex.data.admin.ch/eli/oc/2026/377)).
+
+#### Art. 9b
+
+**Analyse de l’évolution du salaire**[^9b-1]
 
 ### (art. 39*a* OPers)
 
 Les responsables du personnel analysent les écarts par rapport à l’évolution du salaire proposée visés à l’art. 39*a*, al. 1 à 3, OPers, en tenant compte notamment du sexe, de l’âge et de la langue de l’employé.
 
-[^9a-1]: Introduit par le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^9b-1]: Anciennnement art. 9*a*. Introduit par le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 10
 
@@ -1250,11 +1266,47 @@ Le comité de suivi des partenaires sociaux assure l’accompagnement de la rém
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002.
 
-Annexe 1
+Annexe 1[^t-1]
+
+(art. 9*a*)
+
+## Proposition d’évolution pour un salaire se situant au-dessous de la courbe d’évolution salariale
+
+[^t-1]: Introduite par le ch. II al. 1 de l’O du DFF du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 377](https://fedlex.data.admin.ch/eli/oc/2026/377)).
+
+<table>
+<tr><th>Années d’expérience</th><th>Proposition d’évolution du salaire basée sur le montant minimal de la classe de salaire</th></tr>
+<tr><td>0</td><td>0,00 %</td></tr>
+<tr><td>1</td><td>4,75 %</td></tr>
+<tr><td>2</td><td>4,75 %</td></tr>
+<tr><td>3</td><td>4,75 %</td></tr>
+<tr><td>4</td><td>4,75 %</td></tr>
+<tr><td>5</td><td>4,75 %</td></tr>
+<tr><td>6</td><td>4,05 %</td></tr>
+<tr><td>7</td><td>4,05 %</td></tr>
+<tr><td>8</td><td>4,05 %</td></tr>
+<tr><td>9</td><td>4,05 %</td></tr>
+<tr><td>10</td><td>4,05 %</td></tr>
+<tr><td>11</td><td>3,35 %</td></tr>
+<tr><td>12</td><td>3,35 %</td></tr>
+<tr><td>13</td><td>3,35 %</td></tr>
+<tr><td>14</td><td>3,35 %</td></tr>
+<tr><td>15</td><td>3,35 %</td></tr>
+<tr><td>16</td><td>2,65 %</td></tr>
+<tr><td>17</td><td>2,65 %</td></tr>
+<tr><td>18</td><td>2,65 %</td></tr>
+<tr><td>19</td><td>2,65 %</td></tr>
+<tr><td>20</td><td>2,65 %</td></tr>
+<tr><td>&gt; 20</td><td>1,20 %</td></tr>
+</table>
+
+Annexe 2[^t-2]
 
 (art. 11)
 
 ## Indemnité de résidence
+
+[^t-2]: Anciennement annexe 1.
 
 ### 1. Principe
 
@@ -3738,13 +3790,13 @@ Supplément en vertu du ch. 4, al. 1, let. c
 
 Le supplément s’élève à 1099 francs par année pour les enfants jusqu’à 12 ans. Pour les enfants de plus de 12 ans, ce montant s’élève à 1275 francs (état 2001)
 
-Annexe 2[^t-1]
+Annexe 3[^t-3]
 
 (art. 51*b*, al. 1)
 
 ## Tarifs applicables au calcul du remboursement des coûts de l’accueil extrafamilial d’enfants
 
-[^t-1]: Introduite par le ch. II de l’O du DFF du 8 déc. 2010 ([RO 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Nouvelle teneur selon le ch. II de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^t-3]: Anciennement annexe 2. Introduite par le ch. II de l’O du DFF du 8 déc. 2010 ([RO 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Nouvelle teneur selon le ch. II de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 \1. Tarif applicable au calcul du remboursement des coûts de la prise en charge d’enfants dans des structures d’accueil extrafamilial
 
