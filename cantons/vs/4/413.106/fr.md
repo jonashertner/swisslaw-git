@@ -4,13 +4,12 @@ number: "413.106"
 title: Règlement des écoles des métiers du commerce
 short: REC
 language: fr
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-04-19
+version: 2026-08-01
+version_adopted: 2026-04-01
 adopted: 2023-04-19
 in_force: 2023-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/413.106"
-pdf: "https://lex.vs.ch/api/fr/versions/3210/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3595/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3210/pdf_file"
 
 (REC)
 
-du 19.04.2023 (état 01.08.2023)
+du 19.04.2023 (état 01.08.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -31,19 +30,17 @@ vu la loi d'application de la loi fédérale sur la formation professionnelle du
 
 vu l'ordonnance concernant la loi d'application de la loi fédérale sur la formation professionnelle du 9 février 2011 (OLALFPr);
 
-vu l'ordonnance sur la maturité professionnelle fédérale du 24 juin 2009 (OMPr);
+vu l'ordonnance sur la maturité professionnelle fédérale du 13 juin 2025 (OMPr);
 
-vu le plan d'études cadre du Secrétariat d'Etat à la formation, à la recherche et à l'innovation (ci-après: SEFRI) pour la maturité professionnelle du 18 décembre 2012 (PEC-MP);
+vu le plan d'études cadre du Secrétariat d'Etat à la formation, à la recherche et à l'innovation (ci-après: SEFRI) pour la maturité professionnelle du 13 juin 2025 (PEC-MP);
 
-vu l'ordonnance cantonale sur l'organisation de la maturité professionnelle du 10 septembre 2014;
-
-vu le plan d'études romand pour la maturité professionnelle du 18 septembre 2014 (PER-MP);
+vu le plan d'études romand pour la maturité professionnelle du 5 décembre 2025 (PER-MP);
 
 vu l'ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce/employé de commerce avec certificat de capacité (CFC) du 16 août 2021;
 
-vu le plan de formation relatif à l’ordonnance du SEFRI du 16 août 2021 sur la formation professionnelle initiale d'employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC) de la Conférence suisse des branches de formation et d'examens commerciales (ci-après: CSBFC) du 24 juin 2021;
+vu le règlement général concernant les établissements de l'enseignement secondaire du deuxième degré du 17 décembre 2003;
 
-vu le plan d'études national pour l'enseignement à l'école professionnelle Employée / Employé de commerce CFC, Focus FIEc CFC avec MP de la CSBFC du 6 mai 2022;
+vu l'ordonnance cantonale sur l'organisation de la maturité professionnelle du 25 février 2026 (OOMP);
 
 sur la proposition du département en charge de la formation,
 
@@ -65,7 +62,7 @@ ordonne:[^ingress-1]
 
 **Définition**
 
-<sup>1</sup> Les écoles de commerce sont des écoles des métiers de l'enseignement secondaire du deuxième degré professionnel qui:
+<sup>1</sup> Les écoles de commerce sont des écoles des métiers de l'enseignement secondaire du deuxième degré professionnel placées sous l'autorité du Service de l'enseignement (ci-après: SE) qui:
 
 - a) dispensent une formation professionnelle initiale en école (FIEc) selon l'ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce/employé de commerce avec certificat fédéral de capacité (CFC), avec l'option "finances" mentionnée à son article 6 alinéa 5 lettre a;
 - b) dispensent la formation de la maturité professionnelle (MP) Economie et services, type économie, dans le cadre de la variante FIEc CFC en 4 ans avec MP et stage de longue durée, soit 3 années d'école à plein temps et une année de pratique professionnelle en entreprise. Dans les filières pour sportifs et artistes (SAF), la partie scolaire de la formation est répartie sur 4 années;
@@ -101,13 +98,15 @@ ordonne:[^ingress-1]
 
 #### Art. 6
 
-**Durée de la formation**
+**Durée de la formation et fréquentation des cours**
 
 <sup>1</sup> La durée de la formation pour l'obtention simultanée du CFC et de la MP Economie et services, type économie, est de 4 ans.
 
-<sup>2</sup> Pour les sportifs et artistes admis dans une structure SAF, la durée de la formation pour l'obtention simultanée du CFC et de la MP Economie et services, type économie, est de 5 ans, voire de 6 ans lorsque le stage est réparti sur 2 années.
+<sup>2</sup> Pour les sportifs et artistes admis dans une structure qui leur est spécifiquement dédiée au sein des écoles des métiers du commerce (ci-après: EC-SAF), la durée de la formation pour l'obtention simultanée du CFC et de la MP Economie et services, type économie, est de 5 ans, voire de 6 ans lorsque le stage est réparti sur 2 années. Dans cette filière particulière, chaque année scolaire correspond à un semestre de la maturité professionnelle.
 
-<sup>3</sup> Les années de formation doivent se dérouler consécutivement, sans interruption, sous réserve de motifs médicaux ou d'une dérogation accordée par le service en charge de l'enseignement (ci-après: SE).
+<sup>3</sup> Les années de formation doivent se dérouler consécutivement, sans interruption, sous réserve de motifs médicaux ou d'une dérogation accordée par le SE.
+
+<sup>4</sup> Les règles relatives à la fréquentation des cours, fixées à l'article 19 de l'ordonnance cantonale sur l'organisation de la maturité professionnelle (OOMP), sont applicables.
 
 #### Art. 7
 
@@ -115,7 +114,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Un contrat d'apprentissage, soumis pour approbation au service en charge de la formation professionnelle (ci-après: SFOP), doit être conclu entre l'école et l'apprenti.
 
-<sup>2</sup> Il engage les parties pour la durée de la formation.
+<sup>2</sup> Il engage les parties pour la durée de la formation, sous réserve d'une exclusion de la filière prévue aux articles 16 et 16a du présent règlement ou à l'article 25 alinéa 1 lettre c du règlement général concernant les établissements de l'enseignement secondaire du deuxième degré.
 
 #### Art. 8
 
@@ -127,8 +126,8 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Il se fonde également sur:
 
-- a) le plan de formation relatif à l’ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC) de la CSBFC;
-- b) le plan d'études national pour l'enseignement à l'école professionnelle Employée / Employé de commerce CFC, Focus FIEc CFC avec MP de la CSBFC.
+- a) le plan de formation relatif à l’ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC) de l’organe responsable, au niveau national, de la formation d’employé de commerce CFC (Formation Commerciale Suisse – FOCOS);
+- b) le plan d'études national pour l'enseignement à l'école professionnelle Employée / Employé de commerce CFC, Focus FIEc CFC avec MP de la FOCOS.
 
 <sup>4</sup> Le tableau des périodes d'enseignement permettant la mise en œuvre du plan d'études est validé par le département, sur proposition du SE.
 
@@ -148,7 +147,7 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Dans les écoles de commerce, l'enseignement des connaissances professionnelles dans les DCO B à D se fait dans le cadre des unités d’exercice pratique correspondant à ces DCO et des mandats pratiques scolaires.
 
-<sup>4</sup> L'enseignement du DCO E se fonde sur les objectifs évaluateurs du plan de formation relatif à l’ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC) établi par la CSBFC.
+<sup>4</sup> L'enseignement du DCO E se fonde sur les objectifs évaluateurs du plan de formation relatif à l’ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC) établi par la FOCOS.
 
 <sup>5</sup> S'agissant d'une filière avec MP en cours d'apprentissage, les objectifs du DCO A sont considérés comme couverts par le programme de la MP et les personnes en formation sont dispensées de la partie correspondante dans l'examen final CFC.
 
@@ -168,13 +167,19 @@ ordonne:[^ingress-1]
 
 **Stage de longue durée**
 
-<sup>1</sup> Un stage de longue durée de 12 mois à plein temps, incluant 5 semaines de vacances, est effectué en 4<sup>e</sup> année de formation dans une entreprise formatrice. Pour les personnes qui suivent la formation dans le cadre de la filière dédiée aux sportifs et artistes (SAF), ce stage est effectué en 5<sup>e</sup> année de formation et peut être réparti sur 2 années.
+<sup>1</sup> Un stage de longue durée de 12 mois à plein temps, incluant 5 semaines de vacances, est effectué en 4<sup>e</sup> année de formation dans une entreprise formatrice.
 
-<sup>2</sup> Seuls peuvent entrer en stage de longue durée les apprentis qui sont en situation de réussite de la procédure de qualification de la partie MP, sans tenir compte, à ce stade, du travail interdisciplinaire centré sur un projet (TIP). Si la répétition des examens finaux MP aboutit à un second échec, l'apprenti a la possibilité d'effectuer un stage pour obtenir le CFC.
+<sup>1<sup>bis</sup></sup> Pour les personnes qui suivent la formation dans le cadre de la structure EC-SAF, ce stage est effectué en 5<sup>e</sup> année de formation. Il peut être réparti sur deux années moyennant une autorisation délivrée par le SE, qui statue sur la base d’une demande écrite dûment motivée et validée par la direction de l’école concernée.
 
-<sup>3</sup> Un contrat de stage, soumis pour approbation au SFOP, doit être conclu entre l'école, l'apprenti ou son représentant légal et l'entreprise formatrice.
+<sup>2</sup> …
 
-<sup>4</sup> Les établissements scolaires veillent à proposer un nombre de places de stage suffisant; la responsabilité d'obtenir une place de stage auprès d'une entreprise formatrice, reconnue comme telle par le SFOP, incombe toutefois à l'apprenti.
+<sup>2<sup>bis</sup></sup> Les apprentis qui échouent à l’examen de maturité professionnelle et qui décident de ne pas suivre l’enseignement pendant deux semestres en vue de se représenter à cet examen peuvent effectuer leur stage pour essayer d'obtenir le CFC.
+
+<sup>3</sup> Un contrat de stage, soumis pour approbation au SFOP, doit être conclu entre l'apprenti ou son représentant légal et l'entreprise formatrice.
+
+<sup>4</sup> Les établissements scolaires veillent à ce que le nombre de places de stage soit suffisant. Ils sont attentifs, dans ce sens, à l’évolution de l’offre dans leur région et en informent le SE.
+
+<sup>4<sup>bis</sup></sup> La responsabilité d'obtenir une place de stage auprès d'une entreprise formatrice, reconnue comme telle par le SFOP, incombe à l'apprenti.
 
 <sup>5</sup> Les entreprises de stage sont soumises aux dispositions et aux exigences posées aux entreprises formatrices conformément à l'ordonnance du SEFRI sur la formation professionnelle d'employée de commerce/employé de commerce avec certificat fédéral de capacité (CFC).
 
@@ -186,9 +191,9 @@ ordonne:[^ingress-1]
 
 **Admissions**
 
-<sup>1</sup> L'apprenti peut accéder à l'école des métiers du commerce aux conditions fixées à l'article 6 de l'ordonnance cantonale sur l'organisation de la maturité professionnelle.
+<sup>1</sup> L'apprenti peut accéder à l'école des métiers du commerce aux conditions fixées à l'article 10 OOMP.
 
-<sup>2</sup> Dans les filières pour sportifs et artistes (SAF), des conditions complémentaires, décrites dans les directives y relatives du département, réglementent l'admission.
+<sup>2</sup> Dans les filières EC-SAF, des conditions complémentaires, décrites dans les directives y relatives du département, réglementent l'admission.
 
 #### Art. 13
 
@@ -204,18 +209,18 @@ ordonne:[^ingress-1]
 
 **Barème**
 
-<sup>1</sup> La valeur de chaque épreuve écrite ou orale doit être exprimée au dixième par les notes suivantes:
+<sup>1</sup> La valeur de chaque épreuve écrite ou orale prise en compte pour établir le bulletin semestriel doit être exprimée au dixième par les notes suivantes:
 
 - a) de 4,0 à 6,0 pour les prestations suffisantes;
 - b) de 1,0 à 3,9 pour les prestations insuffisantes.
 
-<sup>2</sup> La note 1 est donnée en l'absence de toute réponse ou en cas de fraude.
+<sup>2</sup> La note 1 est donnée en l'absence de toute réponse, en cas de fraude ainsi qu'en cas d'absence injustifiée à une prestation notée.
 
 #### Art. 15
 
-**Appréciation des prestations et établissement des notes**
+**Appréciation des prestations et bulletin de notes semestriel**
 
-<sup>1</sup> Le calcul des notes et des résultats obtenus par les apprentis est fixé par l'article 16 de l'ordonnance fédérale sur la maturité professionnelle (OMPr) et l'ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce/employé de commerce avec certificat fédéral de capacité (CFC).
+<sup>1</sup> Au terme de chaque semestre, l'école documente sous forme d'un bulletin de notes les prestations fournies par les apprentis, conformément à l'article 16 de l'ordonnance sur la maturité professionnelle fédérale (OMPr) et à l'article 19 de l'ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce/employé de commerce avec certificat fédéral de capacité (CFC).
 
 <sup>2</sup> L'enseignement dans le cadre des unités d’exercice pratique correspondant aux DCO B à D ainsi que dans le DCO E fait l'objet de notes. Une note figure au bulletin semestriel pour chaque DCO enseigné; cette note est indicative et n'est prise en compte ni pour la promotion, ni pour les procédures de qualification.
 
@@ -226,40 +231,56 @@ ordonne:[^ingress-1]
 <sup>1</sup> Est promu l'apprenti qui, par semestre de programme, et selon les branches de maturité professionnelle prévues à la grille horaire, remplit les conditions cumulatives suivantes:
 
 - a) la note globale est de 4,0 au minimum;
-- b) pas plus de deux notes de branche sont insuffisantes;
+- b) pas plus de deux notes de branche sont inférieures à 4,0;
 - c) la somme des écarts entre les notes de branche insuffisantes et la note 4,0 est inférieure ou égale à 2,0.
 
-<sup>2</sup> L'apprenti qui ne remplit pas les conditions de promotion semestrielle est promu provisoirement. S'il ne remplit pas une seconde fois, durant le cursus scolaire, les conditions de promotion, il est exclu de la formation en école des métiers du commerce, sous réserve de l'alinéa 3 du présent article.
+<sup>2</sup> L'apprenti qui ne remplit pas les conditions de promotion semestrielle est promu provisoirement. S'il ne remplit pas une seconde fois, durant le cursus scolaire, les conditions de promotion, il est exclu de la formation en école des métiers du commerce, sous réserve de l'article 16a du présent règlement. L'exclusion de la formation entraine la rupture du contrat d'apprentissage.
 
-<sup>3</sup> En cas de double échec semestriel en fin de première année, l'apprenti doit répéter l'année, s'il souhaite poursuivre la formation, à la condition qu'il n'ait pas plus de 3 branches de maturité inférieures à 4,0. Si l'apprenti a plus de 3 branches de maturité inférieures à 4,0, il est exclu de la formation en école des métiers du commerce.
+<sup>3</sup> …
 
-<sup>4</sup> L'apprenti qui répète la 1<sup>re</sup> année dans les conditions prévues à l'alinéa 3 est considéré en promotion provisoire. Un nouvel échec semestriel provoque l'exclusion de la formation.
+<sup>4</sup> …
 
-<sup>5</sup> Tous les semestres de la formation font l'objet d'un bulletin de notes. S'il n'est pas possible d'établir valablement un bulletin de notes semestriel, la formation ne peut être poursuivie. Sont réservés les cas particuliers, notamment pour des raisons médicales attestées, qui sont traités par le SE.
+<sup>5</sup> Lorsqu'un bulletin de notes semestriel ne peut pas être établi, la promotion au semestre suivant de la formation est impossible, ce qui entraine la rupture du contrat d'apprentissage. Une éventuelle répétition de l'enseignement est soumise aux conditions décrites à l'article 16a du présent règlement.
+
+<sup>6</sup> Les cas particuliers relèvent du SE.
+
+#### Art. 16a
+
+**Répétition de l'enseignement**
+
+<sup>1</sup> Il est possible de répéter au plus une année d’enseignement. Cette répétition n'est possible qu'une seule fois.
+
+<sup>2</sup> En cas de répétition d'une année d'enseignement, le contrat d'apprentissage doit être prolongé.
+
+<sup>3</sup> La répétition porte sur le semestre au terme duquel les conditions de promotion ne sont pas remplies pour la deuxième fois ainsi que celui qui le précède; dans le cas particulier des filières EC-SAF, c’est l’année scolaire au terme de laquelle le second échec est constaté qui peut être répétée.
+
+<sup>4</sup> En cas de répétition d’une année d’enseignement, celle-ci doit être répétée dans son intégralité, indépendamment des notes obtenues. L’apprenti reçoit ainsi de nouvelles notes d’école dans toutes les branches pour chacun des semestres répétés.
+
+<sup>5</sup> Si un apprenti ne remplit pas les conditions de promotion une troisième fois au cours de l’année d’enseignement répétée ou à une date ultérieure, il est exclu définitivement de l’enseignement menant à la MP pendant une formation professionnelle initiale. Il doit donc quitter la filière en école des métiers du commerce, ce qui entraine la rupture du contrat d'apprentissage.
 
 #### Art. 17
 
-**Promotion annuelle pour les sportifs et artistes (SAF)**
+**Promotion annuelle pour les apprentis EC-SAF**
 
-<sup>1</sup> Est promu l'apprenti qui, par année de programme, et selon les branches de maturité prévues à la grille horaire, remplit les conditions cumulatives suivantes:
+<sup>1</sup> …
 
-- a) la note globale est de 4,0 au minimum;
-- b) pas plus de deux notes de branche sont insuffisantes;
-- c) la somme des écarts entre les notes de branche insuffisantes et la note 4,0 est inférieure ou égale à 2,0.
+<sup>1<sup>bis</sup></sup> Dans le cadre de la structure EC-SAF, l'enseignement dispensé durant l'année scolaire correspond à un semestre de la maturité professionnelle.
 
-<sup>2</sup> En cas d'échec en fin de 1<sup>re</sup> année, l'apprenti doit répéter l'année, s'il souhaite poursuivre la formation, à la condition qu'il n'ait pas plus de 3 branches de maturité inférieures à 4,0. Si l'apprenti a plus de 3 branches de maturité inférieures à 4,0, il est exclu de la formation en école des métiers du commerce.
+<sup>1<sup>ter</sup></sup> Les règles fixées à l'article 16 du présent règlement sont appliquées par analogie.
 
-<sup>3</sup> L'apprenti qui répète l'année dans les conditions prévues à l'alinéa 2 est considéré en promotion provisoire. Un nouvel échec annuel provoque l'exclusion de la formation.
+<sup>2</sup> …
 
-<sup>4</sup> S'il ne remplit pas une seconde fois, durant le cursus scolaire, les conditions de promotion, il est exclu de la formation en école des métiers du commerce.
+<sup>3</sup> …
 
-<sup>5</sup> Toutes les années de la formation font l'objet d'un bulletin de notes. S'il n'est pas possible d'établir valablement un bulletin de notes annuel, la formation ne peut être poursuivie. Sont réservés les cas particuliers, notamment pour des raisons médicales attestées, qui sont traités par le SE.
+<sup>4</sup> …
+
+<sup>5</sup> …
 
 #### Art. 18
 
-**Branches comptant pour la promotion semestrielle, respectivement annuelle pour les sportifs et artistes (SAF)**
+**Branches comptant pour la promotion**
 
-<sup>1</sup> Seules les branches suivantes sont prises en compte lors de la promotion semestrielle, respectivement annuelle pour les sportifs et artistes (SAF), conformément à la grille-horaire en vigueur:
+<sup>1</sup> Seules les branches suivantes sont prises en compte lors de la promotion semestrielle, respectivement annuelle pour la structure EC-SAF, conformément à la grille-horaire en vigueur:
 
 - a) domaine fondamental:
   - 1\. première langue nationale (français/allemand),
@@ -277,9 +298,13 @@ ordonne:[^ingress-1]
 
 #### Art. 19
 
-**Sessions d'examens**
+**Moment des examens finaux**
 
-<sup>1</sup> Les examens finaux de maturité professionnelle ont lieu à l'issue de la dernière année de formation en école, avant le stage. Le TIP est rédigé durant l'année de stage. Les examens sont préparés à l'échelle cantonale et sont validés par le SE; ils doivent être identiques au sein d'une même région linguistique.
+<sup>1</sup> Les examens finaux de maturité professionnelle ont lieu à la fin de l’enseignement menant à la MP, avant le stage.
+
+<sup>1<sup>bis</sup></sup> Les examens écrits de l’orientation Economie et services, type "économie" de la MP sont préparés à l'échelle cantonale; ils doivent être identiques et ont lieu au même moment, au sein d'une même région linguistique.
+
+<sup>1<sup>ter</sup></sup> Le travail interdisciplinaire centré sur un projet (TIP) est realisé au cours des deux derniers semestres de l'enseignement menant à la MP.
 
 <sup>2</sup> La procédure de qualification avec examen final relative à la formation professionnelle initiale a lieu vers la fin de l'année scolaire durant laquelle se termine le stage. Les examens sont rédigés et organisés au niveau national.
 
@@ -305,9 +330,9 @@ ordonne:[^ingress-1]
 
 **Organisation des examens**
 
-<sup>1</sup> Les examens se déroulent selon les modalités prévues par la réglementation fédérale relative à la formation professionnelle initiale d'employé de commerce et à la maturité professionnelle.
+<sup>1</sup> Les examens se déroulent selon les modalités prévues par la réglementation fédérale relative à la formation professionnelle initiale d'employé de commerce et à la maturité professionnelle. Les dispositions figurant au chapitre 5 de l'OOMP sont applicables pour l’examen de maturité professionnelle.
 
-<sup>2</sup> L'organisation des examens de la partie scolaire incombe à la direction de chaque école sous le contrôle du SE.
+<sup>2</sup> L'organisation des examens de la partie scolaire incombe à la direction de chaque école, celle-ci endossant ou déléguant au responsable de la filière le rôle de chef-expert, sous le contrôle du SE.
 
 <sup>3</sup> L'organisation des parties de la procédure de qualification CFC liée à la pratique professionnelle en entreprise incombe aux associations professionnelles concernées, en collaboration avec la direction de chaque école et sous le contrôle du département.
 
@@ -317,11 +342,11 @@ ordonne:[^ingress-1]
 
 **Conditions de réussite de la partie MP de la formation**
 
-<sup>1</sup> Le calcul des notes finales des branches MP est fixé par l'article 24 de l'ordonnance sur la maturité professionnelle fédérale (OMPr).
+<sup>1</sup> Le calcul des notes finales des branches MP est fixé par l'article 23 OMPr.
 
 <sup>2</sup> La procédure de qualification de la partie MP est réussie lorsque les conditions cumulatives suivantes sont réunies par les notes finales:
 
-- a) la note globale, moyenne prenant en compte les notes finales des branches des trois domaines (fondamental, spécifique et complémentaire) prévus à l'article 18 du présent règlement ainsi que la note finale du travail interdisciplinaire, incluant le travail interdisciplinaire dans les branches de formation (TIB) et le TIP, est égale ou supérieure à 4,0;
+- a) la note globale, moyenne prenant en compte les notes finales des branches des trois domaines (fondamental, spécifique et complémentaire) mentionnés à l'article 18 du présent règlement ainsi que la note finale du travail interdisciplinaire, incluant le travail interdisciplinaire dans les branches de formation (TIB) et le TIP, est égale ou supérieure à 4,0;
 - b) deux notes finales au maximum sont inférieures à 4,0;
 - c) la somme des écarts entre les notes finales de branches insuffisantes et la note de 4,0 est inférieure ou égale à 2.
 
@@ -333,51 +358,63 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> Le calcul des notes et les conditions de réussite de la procédure de qualification avec examen final du CFC sont déterminés dans l'article 24 de l'ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce / employé de commerce.
 
+<sup>3</sup> Le choix de ne pas suivre l’enseignement pendant deux semestres en vue de se présenter une nouvelle fois à l'examen final de la MP ne correspond pas à un abandon de la MP. Les conditions de l'article 24 alinéa 4 de l'ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce / employé de commerce ainsi que celles de l'article 9 alinéa 5 du présent règlement demeurent donc applicables dans une telle situation.
+
 #### Art. 25
 
-**Abandon avant ou pendant la session d'examens**
+**Absences à la session d'examen**
 
-<sup>1</sup> Le candidat qui se retire avant ou en cours de session a échoué, sont réservés les cas de force majeure admis par le département.
+<sup>1</sup> Le candidat qui se retire en cours de session, ou qui ne s’y présente pas, a échoué.
 
-<sup>2</sup> Seuls les certificats médicaux déposés au plus tard avant la session ou l'examen peuvent être pris en considération, sous réserve des conditions restrictives admises par la jurisprudence fédérale en la matière.
+<sup>2</sup> Seuls les certificats médicaux déposés avant la session ou, au plus tard, le lendemain de l'examen peuvent être pris en considération.
+
+<sup>3</sup> Sont réservés les cas particuliers et de force majeure admis par le département.
 
 #### Art. 26
 
-**Communication des résultats**
-
-<sup>1</sup> En raison des conditions énoncées à l'article 11 alinéa 2 les directions des écoles des métiers du commerce sont autorisées à communiquer les résultats des examens finaux de la MP aux apprentis ou à leur représentant légal au terme de la partie scolaire de la formation.
-
-<sup>2</sup> En cas d'échec aux examens finaux, la direction de l'école communique au candidat concerné les conditions exactes dans lesquelles la répétition peut avoir lieu.
+**…**
 
 #### Art. 27
 
-**Répétition au terme des examens finaux de la maturité professionnelle**
+**Répétition au terme de l'examen de maturité professionnelle**
 
-<sup>1</sup> L'apprenti qui, au terme de la partie scolaire, est en situation d'échec aux examens finaux de la maturité professionnelle, sans tenir compte, à ce stade, du TIP, ne peut se représenter qu'une seule fois selon l'une des alternatives suivantes:
+<sup>1</sup> L'apprenti qui a échoué à l'examen de maturité professionnelle ne peut se représenter qu'une seule fois selon l'une des alternatives suivantes:
 
-- a) l'apprenti refait la dernière année de formation scolaire en suivant tous les cours et en refaisant tous les examens. Dans ce cas, seules les nouvelles notes d'école et d'examen sont prises en compte;
-- b) l'apprenti refait la dernière année de formation scolaire en ne suivant que les branches dans lesquelles il était en échec. Dans ce cas, les notes de branches réussies sont conservées et, dans les branches refaites, seules les nouvelles notes d'école et d'examen sont prises en compte, ou
-- c) l'apprenti choisit de ne pas suivre les cours et de ne se présenter qu'aux examens finaux lors de la prochaine session.
+- a) l'apprenti suit l'enseignement pendant deux semestres dans les branches de maturité professionnelle dont la note finale était insuffisante et ses nouvelles notes sont prises en compte conformément à l'article 25 alinéas 3 et 5 OMPr, ou
+- b) l'apprenti choisit de ne pas suivre les cours et de ne se présenter, lors de la prochaine session, qu'aux examens finaux des branches de maturité professionnelle dont la note finale était insuffisante.
+- c) …
 
-<sup>2</sup> Dans la situation où l'apprenti choisit de ne pas suivre les cours et de ne se présenter qu'aux examens finaux, les modalités de répétition figurant dans l'ordonnance sur la maturité professionnelle fédérale s'appliquent.
+<sup>1<sup>bis</sup></sup> La répétition de l'examen de maturité professionnelle a lieu au terme de l'année scolaire suivante; un report éventuel à une autre session peut, dans le cas de situations particulières, être autorisé par le SE.
 
-<sup>3</sup> Le choix de l'une ou l'autre des possibilités mentionnées à l'alinéa 1 lettres a, b et c du présent article fait l'objet d'une demande formelle écrite de l'apprenti et de ses représentants légaux auprès de la direction de l'école.
+<sup>1<sup>ter</sup></sup> Les notes de branche suffisantes obtenues lors de la première session restent acquises.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+<sup>4</sup> Le choix décrit à l'alinéa 1 lettre a du présent article nécessite, le cas échéant, l'annulation du contrat de stage évoqué à l'article 11 alinéa 3 du présent règlement; l'accord de l'entreprise formatrice est nécessaire.
+
+<sup>5</sup> En principe, le choix décrit à l'alinéa 1 lettre b du présent article est réservé aux apprentis qui sont au bénéfice d'un contrat de stage au sens de l'article 11 alinéa 3 du présent règlement.
+
+<sup>6</sup> Dans la situation où l'apprenti choisit de ne pas suivre les cours et de ne se présenter qu'aux examens finaux, les modalités de répétition figurant à l'article 25 alinéas 4 et 5 OMPr s'appliquent.
+
+<sup>7</sup> Le choix de l'une des possibilités mentionnées à l'alinéa 1 lettres a et b du présent article fait l'objet d'une demande formelle écrite de l'apprenti et de ses représentants légaux auprès de la direction de l'école
 
 #### Art. 28
 
-**Répétition à l'issue des procédures de qualification**
+**Répétition à l'issue de la procédure de qualification relative au CFC**
 
 <sup>1</sup> La répétition de la procédure de qualification relative au CFC est réglée par l'article 25 de l’ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce / employé de commerce. La répétition de la procédure de qualification relative au CFC ne peut être effectuée plus de deux fois.
 
-<sup>2</sup> Si la note attribuée au TIP conduit l'apprenti à un échec pour la maturité professionnelle, les modalités de répétition figurant dans l'ordonnance sur la maturité professionnelle fédérale s'appliquent.
+<sup>2</sup> …
 
 #### Art. 29
 
 **Fraude**
 
-<sup>1</sup> L'utilisation de moyens auxiliaires non autorisés ou toute fraude entraînant l'intervention du surveillant ou de l'expert est passible de sanctions. Tant que la sanction n'est pas prononcée par le département, le candidat poursuit l'examen.
+<sup>1</sup> L'utilisation de moyens auxiliaires non autorisés ou toute fraude entraînant l'intervention du surveillant ou de l'expert est passible de sanctions. Tant que la sanction n'est pas prononcée par le SE, le candidat poursuit l'examen.
 
-<sup>2</sup> Dans tous les cas de fraude, le surveillant ou l'expert adresse un rapport écrit à la direction de l'établissement. Celle-ci transmet immédiatement le rapport accompagné de son préavis de sanction au département. Ce dernier fixe la sanction qui peut aller jusqu'à l'exclusion de la session d'examens.
+<sup>2</sup> Dans tous les cas de fraude, le surveillant ou l'expert adresse un rapport écrit à la direction de l'établissement. Celle-ci transmet immédiatement le rapport accompagné de son préavis de sanction au SE. Ce dernier fixe la sanction qui peut notamment être l’attribution de la note 1 à l’examen concerné ou l'exclusion de la session d'examens.
 
 <sup>3</sup> Les dispositions du présent article et la liste des moyens auxiliaires autorisés sont expressément communiquées aux candidats avant la session.
 
@@ -395,21 +432,21 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Le CFC d'employé de commerce est accordé au candidat qui répond aux conditions prévues par l'ordonnance du SEFRI sur la formation professionnelle initiale d'employée de commerce/employé de commerce avec certificat fédéral de capacité (CFC).
 
-<sup>2</sup> Le certificat fédéral de maturité professionnelle Economie et services, type économie, est accordé au candidat qui a obtenu son CFC d'employé de commerce et qui, de plus, répond aux conditions prévues par l'ordonnance sur la maturité professionnelle fédérale (OMPr).
+<sup>2</sup> Le certificat fédéral de maturité professionnelle Economie et services, type économie, est accordé au candidat qui a obtenu son CFC d'employé de commerce et qui, de plus, répond aux conditions prévues par l'OMPr.
 
-## 6 Procédure de recours
+## 6 Voies de droit
 
 #### Art. 32
 
-**Recours**
+**Réclamations et recours**
 
-<sup>1</sup> Conformément à l'article 17 de l'ordonnance cantonale sur l'organisation de la maturité professionnelle, les décisions de l'école concernant les notes semestrielles, reprises pour l'examen de maturité professionnelle, sont susceptibles de recours auprès du département dans les 30 jours dès la remise du bulletin.
+<sup>1</sup> Les décisions de l'école concernant les notes semestrielles, reprises pour l'examen de maturité professionnelle, sont susceptibles de réclamation auprès de la direction d'école dans les 30 jours dès la remise du bulletin.
 
-<sup>2</sup> La décision du Chef de département est définitive au sens de l'article 74 LALFPr. En cas de seule violation des droits constitutionnels au sens de l'article 116 de la loi sur le Tribunal fédéral (LTF), le recours devant le Tribunal cantonal est toutefois ouvert.
+<sup>2</sup> La décision sur réclamation peut faire l’objet d’un recours dans un délai de 30 jours suivant sa notification auprès du département.
 
-<sup>3</sup> Les décisions du département concernant l'obtention de la maturité professionnelle peuvent faire l'objet d'un recours auprès du Conseil d'Etat dans les 30 jours dès leur notification.
+<sup>3</sup> Les autres décisions découlant de l’application du présent règlement sont susceptibles de recours auprès du département dans un délai de 30 jours dès leur notification.
 
-<sup>4</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administrative (LPJA).
+<sup>4</sup> La loi sur la procédure et la juridiction administratives (LPJA) règle la procédure.
 
 ## 7 Disposition transitoire
 
@@ -418,5 +455,15 @@ ordonne:[^ingress-1]
 **Disposition transitoire**
 
 <sup>1</sup> Les apprentis ayant débuté la formation jusqu'en août 2022 l'achèvent conformément au règlement de l'école des métiers du commerce du 19 août 2015, mais au plus tard le 31 décembre 2028.
+
+## T1-1 Disposition transitoire de la modification du 1<sup>er</sup> avril 2026
+
+#### Art. T1-1
+
+<sup>1</sup> Les apprentis des classes ayant débuté la formation dès août 2023 et jusqu'en août 2025 l'achèvent conformément au règlement de l'école des métiers du commerce du 19 avril 2023, mais au plus tard le 31 décembre 2031.
+
+<sup>2</sup> Ils peuvent toutefois demander que les dispositions figurant aux articles 11 alinéa 2<sup>bis</sup> et 27 du présent règlement leur soient appliquées par analogie.
+
+<sup>3</sup> En cas d’interruption de la formation, l’élève est soumis au droit en vigueur au moment de la reprise.
 
 RCV RO/AGS 2023-047
