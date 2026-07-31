@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2026-07-01
+version: 2026-08-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° luglio 2026)
+del 27 giugno 1995 (Stato 1° agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -816,12 +816,14 @@ Sentita la commissione competente, il Dipartimento federale dell’interno (DFI)
 - f. il contributo alle spese di cura balneare di cui all’articolo 25 capoverso 2 lettera c LAMal; questo contributo serve a coprire le spese non coperte da altre prestazioni dell’assicurazione obbligatoria delle cure medico-sanitarie; può essere accordato al massimo durante 21 giorni per anno civile;
 - g. il contributo alle spese di trasporto e di salvataggio di cui all’articolo 25 capoverso 2 lettera g LAMal; i trasporti da un ospedale a un altro, necessari dal profilo medico, fanno parte del trattamento ospedaliero;
 - h.[^33-3] la procedura di valutazione dei bisogni di cure;
-- i.[^33-4] il contributo alle cure previsto dall’articolo 25*a* capoversi 1 e 4 LAMal, differenziato in funzione del bisogno di cure.
+- i.[^33-4] il contributo alle cure previsto dall’articolo 25*a* capoversi 1 e 4 LAMal, differenziato in funzione del bisogno di cure;
+- j.[^33-5] i contributi alle cure massimi di cui all’articolo 25*a* capoverso 5 LAMal determinanti per il calcolo della partecipazione massima degli assicurati ai costi delle cure.
 
 [^33-1]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^33-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
 [^33-3]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
 [^33-4]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra II n. 2).
+[^33-5]: Introdotta dalla cifra I dell’O del 12 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 347](https://fedlex.data.admin.ch/eli/oc/2026/347)).
 
 #### Art. 34
 
@@ -4495,7 +4497,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 [^u6-1]
 
-[^u6-1]: [RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Abrogata dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 $ ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u6-1]: [RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Abrogata dalla cifra IV n. 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizioni finali della modifica del 26 maggio 2004
 

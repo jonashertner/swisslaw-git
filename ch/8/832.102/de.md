@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2026-07-01
+version: 2026-08-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Juli 2026)
+vom 27. Juni 1995 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -817,12 +817,14 @@ Das Eidgenössische Departement des Innern (EDI) bezeichnet nach Anhören der zu
 - f. den in Artikel 25 Absatz 2 Buchstabe c KVG vorgesehenen Beitrag an die Kosten von Badekuren; dieser Beitrag dient der Deckung von Kosten bei Badekuren, die nicht durch andere Leistungen aus der obligatorischen Krankenpflegeversicherung gedeckt sind; er kann während höchstens 21 Tagen pro Kalenderjahr ausgerichtet werden;
 - g. den in Artikel 25 Absatz 2 Buchstabe g KVG vorgesehenen Beitrag an die Transport- und Rettungskosten; die medizinisch notwendigen Transporte von einem Spital in ein anderes sind Teil der stationären Behandlung;
 - h.[^33-3] das Verfahren der Bedarfsermittlung;
-- i.[^33-4] den in Artikel 25*a* Absätze 1 und 4 KVG vorgesehenen und nach Pflegebedarf differenzierten Beitrag an die Pflegeleistungen.
+- i.[^33-4] den in Artikel 25*a* Absätze 1 und 4 KVG vorgesehenen und nach Pflegebedarf differenzierten Beitrag an die Pflegeleistungen;
+- j.[^33-5] die nach Artikel 25*a* Absatz 5 KVG jeweils massgebenden höchsten Beiträge an die Pflegeleistungen für die Berechnung der maximalen Beteiligung der Versicherten an den Pflegekosten.
 
 [^33-1]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 2).
 [^33-3]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 2).
 [^33-4]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 2).
+[^33-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 (AS **20****26** 347).
 
 #### Art. 34
 

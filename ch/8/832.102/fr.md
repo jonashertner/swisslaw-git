@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2026-07-01
+version: 2026-08-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> juillet 2026)
+du 27 juin 1995 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -816,13 +816,15 @@ Le Département fédéral de l’intérieur (DFI) désigne, après avoir consult
 - f. la participation aux frais de cures balnéaires prévue à l’art. 25, al. 2, let. c, LAMal; cette participation sert à couvrir les frais de cure qui ne le sont pas par d’autres prestations de l’assurance obligatoire des soins; elle peut être versée 21 jours au plus par année civile;
 - g. la contribution aux frais de transport et de sauvetage prévue à l’art. 25, al. 2, let. g, LAMal; les transports médicalement nécessaires d’un hôpital à l’autre font partie du traitement hospitalier;
 - h.[^33-4] la procédure d’évaluation des soins requis;
-- i.[^33-5] le montant des contributions en fonction du besoin en soins prévues à l’art. 25*a*, al. 1 et 4, LAMal.
+- i.[^33-5] le montant des contributions en fonction du besoin en soins prévues à l’art. 25*a*, al. 1 et 4, LAMal;
+- j.[^33-6] les montants des contributions maximales aux prestations de soins qui sont déterminants pour le calcul de la participation maximale de l’assuré aux coûts des soins selon l’art. 25*a*, al. 5, LAMal.
 
 [^33-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 2).
 [^33-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 [^33-4]: Introduite par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 2).
 [^33-5]: Introduite par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)ch. II 2).
+[^33-6]: Introduite par le ch. I de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 347](https://fedlex.data.admin.ch/eli/oc/2026/347)).
 
 #### Art. 34
 
