@@ -3,20 +3,19 @@ canton: BL
 number: "643.31"
 title: Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-12-19
+version: 2026-08-01
+version_adopted: 2026-05-12
 adopted: 2007-12-18
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.31"
-pdf: "https://bl.clex.ch/api/de/versions/3870/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4499/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 
-Vom 18.12.2007 (Stand 01.08.2024)
+Vom 18.12.2007 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -27,7 +26,7 @@ beschliesst:
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
 [^ingress-2]: [SGS 640](https://bl.clex.ch/data/640/de/art88)
 
-## 1 Fachmittelschul-Ausweis
+## 1 Fachmittelschulausweis
 
 #### § 1
 
@@ -39,15 +38,28 @@ beschliesst:
 
 **Zeitpunkt der Prüfungen**
 
-<sup>1</sup> Die Abschlussprüfungen finden am Ende der Schulzeit statt.
+<sup>1</sup> Die Abschlussprüfungen finden in der Regel am Ende der Schulzeit statt.
 
 <sup>2</sup> Die Erstellung und die Präsentation der Selbständigen Arbeiten finden in den letzten beiden Ausbildungsjahren statt.
+
+#### § 2a
+
+**Formen der Prüfungen**
+
+<sup>1</sup> Für die Abschlussprüfungen bestehen folgende Durchführungsformen:
+
+- a. analog;
+- b. digital.
+
+<sup>2</sup> Für die Modalitäten gelten die Bestimmungen der Verordnung über die schulische Laufbahn (Laufbahnverordnung) vom 11. Juni 2012[^2a-1] und die gestützt darauf ergangenen weiteren Regelungen sinngemäss.
+
+[^2a-1]: [SGS 640.21](https://bl.clex.ch/data/640.21/de)
 
 #### § 3
 
 **Zulassung zu den Prüfungen**
 
-<sup>1</sup> Zu den Prüfungen zugelassen werden Schüler und Schülerinnen, welche die Schule wenigstens während der letzten 3 Semester regelmässig besucht haben. Die Schulleitung kann in besonderen Fällen Ausnahmen bewilligen.
+<sup>1</sup> Zu den Prüfungen zugelassen werden Schülerinnen und Schüler, welche die Schule wenigstens während der letzten 3 Semester regelmässig besucht und das obligatorische Kurzpraktikum bis Ende des 2. Schuljahrs absolviert haben. Die Schulleitung kann in besonderen Fällen Ausnahmen bewilligen.
 
 <sup>2</sup> Schüler und Schülerinnen, die aus gesundheitlichen Gründen nicht zu allen Prüfungen erscheinen können, haben dies umgehend mit einem Arztzeugnis zu belegen. Die Schulleitung legt die Termine der Nachholprüfungen fest.
 
@@ -192,7 +204,7 @@ beschliesst:
   - 2\. …
 - c. im Berufsfeld Gestaltung und Kunst:
   - 1\. Bildnerisches Gestalten — 4 Std. praktisch;
-  - 2\. Kunstbetrachtung — 15 Min. mündlich (Prüfung findet am Ende des 2. Schuljahres statt);
+  - 2\. Kunstbetrachtung — 15 Min. mündlich;[^8-1]
   - 3\. …
   - 4\. …
 - d. im Berufsfeld Soziale Arbeit
@@ -205,6 +217,8 @@ beschliesst:
 <sup>6</sup> …
 
 <sup>7</sup> Falls das Freifach Instrument besucht wurde, kann das Instrument in die Prüfung im Fach Musik gemäss Abs. 5 Bst. a Ziff. 1 integriert werden. Über die Integration entscheidet die Kandidatin oder der Kandidat.
+
+[^8-1]: Die Prüfung findet nach Abschluss des Unterrichts im Fach Kunstbetrachtung am Ende des 2. Schuljahrs statt.
 
 #### § 8a
 
@@ -335,9 +349,9 @@ beschliesst:
 
 <sup>1</sup> Nach Abschluss der mündlichen Prüfungen kontrolliert die Prüfungsleitung die Berechnung aller Prüfungsnoten zur Feststellung und Erwahrung der Prüfungsergebnisse.
 
-<sup>2</sup> Die Summe aller Abweichungen der Fachmittelschul-Ausweisnoten von der Note 4 nach oben und nach unten sowie die Anzahl ungenügender Noten werden festgestellt.
+<sup>2</sup> Die Summe aller Abweichungen der Fachmittelschulausweisnoten von der Note 4 nach oben und nach unten sowie die Anzahl ungenügender Noten werden festgestellt.
 
-<sup>3</sup> Es wird in jedem einzelnen Fall festgestellt, ob gemäss § 20 der Fachmittelschul-Ausweis erteilt werden darf oder ob er verweigert werden muss.
+<sup>3</sup> Es wird in jedem einzelnen Fall festgestellt, ob gemäss § 20 der Fachmittelschulausweis erteilt werden darf oder ob er verweigert werden muss.
 
 #### § 18
 
@@ -353,9 +367,9 @@ beschliesst:
 
 #### § 20
 
-**Erteilung des Fachmittelschul-Ausweises**
+**Erteilung des Fachmittelschulausweises**
 
-<sup>1</sup> Der Fachmittelschul-Ausweis wird erteilt, wenn die 3 nachfolgenden Bedingungen erfüllt sind :
+<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn die 3 nachfolgenden Bedingungen erfüllt sind:
 
 - a. höchstens 3 Noten unter 4;
 - b. der Durchschnitt aus allen Noten beträgt mindestens 4.0;
@@ -387,11 +401,11 @@ beschliesst:
 
 #### § 24
 
-**Fachmittelschul-Ausweis**
+**Fachmittelschulausweis**
 
-<sup>1</sup> Der Fachmittelschul-Ausweis enthält:
+<sup>1</sup> Der Fachmittelschulausweis enthält:
 
-- a. die Hauptaufschrift: Kanton Basel-Landschaft; als Untertitel «Fachmittelschul-Ausweis», mit dem Vermerk «gesamtschweizerisch anerkannter Fachmittelschul-Ausweis»;
+- a. die Hauptaufschrift: «Kanton Basel-Landschaft»; als Untertitel «Fachmittelschulausweis», mit dem Vermerk «gesamtschweizerisch anerkannter Fachmittelschulausweis»;
 - b. die Bezeichnung der Schule, die ihn ausstellt;
 - c. den Namen, Vornamen, Bürgerort (für Ausländer und Ausländerinnen: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
 - d. die Angabe der Zeit, während welcher die Fachmittelschule regelmässig besucht wurde, mit Datum des Ein- und Austritts;
@@ -416,15 +430,15 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Durch die nach dem Erwerb des Fachmittelschul-Ausweises zusätzlich erbrachten Leistungen weisen sich die Schülerinnen und Schüler der Berufsfelder Gesundheit/Naturwissenschaften, Soziale Arbeit, Gestaltung und Kunst sowie Musik über die Reife aus, die der Besuch einer dem Berufsfeld entsprechenden Fachhochschule erfordert. Die Schülerinnen und Schüler des Berufsfelds Pädagogik erbringen mit dem erfolgreichen Abschluss des Fachmaturitätskurses Pädagogik den Nachweis über die geforderte Reife und weisen sich über die zusätzlich zum Fachmittelschul-Ausweis geforderte erweiterte Allgemeinbildung aus.
+<sup>1</sup> Durch die nach dem Erwerb des Fachmittelschulausweises zusätzlich erbrachten Leistungen sowie durch das Verfassen einer Fachmaturitätsarbeit weisen sich die Schülerinnen und Schüler der Berufsfelder Gesundheit/Naturwissenschaften, Soziale Arbeit, Pädagogik, Gestaltung und Kunst sowie Musik über die Reife aus, die der Besuch einer dem Berufsfeld entsprechenden Fachhochschule erfordert.
 
 #### § 26
 
-**Zeitpunkt der Prüfungen**
+**Termine**
 
-<sup>1</sup> Die zusätzlichen praktischen Leistungen für die Fachmaturitäten in den Berufsfeldern Gesundheit/Naturwissenschaften, Soziale Arbeit, Musik, Gestaltung und Kunst sowie die zusätzliche Allgemeinbildung für Pädagogik und das Verfassen der Fachmaturitätsarbeit werden in der Regel nach dem Erwerb des Fachmittelschul-Ausweises erbracht.
+<sup>1</sup> Die zusätzlichen Leistungen für die Fachmaturität sowie das Verfassen der Fachmaturitätsarbeit werden in der Regel nach dem Erwerb des Fachmittelschulausweises erbracht.
 
-<sup>1<sup>bis</sup></sup> In begründeten Fällen kann ein zeitlicher Unterbruch von höchstens 3 Jahren nach Erhalt des Fachmittelschulausweise akzeptiert werden.
+<sup>1<sup>bis</sup></sup> In begründeten Fällen kann ein zeitlicher Unterbruch von höchstens 3 Jahren nach Erhalt des Fachmittelschulausweises akzeptiert werden.
 
 <sup>2</sup> ...
 
@@ -436,7 +450,7 @@ beschliesst:
 
 <sup>1</sup> Das Fachmaturitätszeugnis enthält:
 
-- a. die Hauptaufschrift: Kanton Basel Landschaft; als Untertitel «Fachmaturitätszeugnis», mit dem Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
+- a. die Hauptaufschrift: «Kanton Basel-Landschaft»; als Untertitel «Fachmaturitätszeugnis», mit dem Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
 - b. die Bezeichnung der Schule, die ihn ausstellt;
 - c. den Namen, Vornamen, Bürgerort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
 - c<sup>bis</sup>. das gewählte Berufsfeld;
@@ -447,6 +461,8 @@ beschliesst:
 - h. das Thema und die Beurteilung der Fachmaturitätsarbeit;
 - i. die Unterschrift der Schulleitung und der Vorsteherin oder des Vorstehers der Bildungs-, Kultur- und Sportdirektion sowie
 - k. den Ort der Fachmittelschule und das Datum.
+
+<sup>2</sup> Zuständig für die Erteilung des Fachmaturitätszeugnisses ist die ausbildende Fachmittelschule.
 
 #### § 27a
 
@@ -471,7 +487,7 @@ beschliesst:
 
 <sup>3</sup> Für die zusätzlichen Leistungen kann die SLK Kooperationsvereinbarungen eingehen.
 
-<sup>4</sup> Die Leiterkonferenz der Fachmittelschule überwacht in Zusammenarbeit mit Praktikums- und Ausbildungsinstitutionen die zusätzlichen Leistungen der Schülerinnen und Schüler.
+<sup>4</sup> Die Leitungskonferenz der Fachmittelschule überwacht in Zusammenarbeit mit Praktikums- und Ausbildungsinstitutionen die zusätzlichen Leistungen der Schülerinnen und Schüler.
 
 #### § 29
 
@@ -508,11 +524,11 @@ beschliesst:
 
 **Erteilung des Fachmaturitätszeugnisses**
 
-<sup>1</sup> Das Fachmaturitätszeugnis wird erteilt, wenn die Schülerinnen und Schüler
+<sup>1</sup> Das Fachmaturitätszeugnis wird erteilt, wenn die Schülerinnen und Schüler folgende Kriterien erfüllt haben:
 
-- a. den Fachmittelschul-Ausweis im entsprechenden Berufsfeld erworben haben,
-- b. die Fachmaturitätsarbeit mit genügendem Resultat verfasst und präsentiert haben sowie
-- c. die ihrem Berufsfeld entsprechenden praktischen Leistungen erbracht haben.
+- a. Sie haben den Fachmittelschulausweis im entsprechenden Berufsfeld erworben.
+- b. Sie haben die Fachmaturitätsarbeit mit mindestens genügendem Resultat verfasst und präsentiert.
+- c. Sie haben die ihrem Berufsfeld entsprechenden praktischen Leistungen erfüllt.
 
 <sup>2</sup> Für Schülerinnen und Schüler mit einer Behinderung kann die SLK in Absprache mit der Anerkennungskommission der EDK besondere Regelungen erlassen.
 
@@ -526,9 +542,9 @@ beschliesst:
 
 #### § 33
 
-**Zusätzliche Leistung**
+**Zusätzliche Leistungen**
 
-<sup>1</sup> Als zusätzliche Leistung gilt im Berufsfeld Pädagogik ein 1-semestriger Unterricht in allgemeinbildenden Fächern.
+<sup>1</sup> Als zusätzliche Leistungen gelten im Berufsfeld Pädagogik ein 1-semestriger Unterricht in allgemeinbildenden Fächern sowie das Absolvieren eines Praxiseinsatzes von 150 Arbeitsstunden an einer Schule der Primarstufe.
 
 #### § 34
 
@@ -537,6 +553,8 @@ beschliesst:
 <sup>1</sup> Jede Schülerin und jeder Schüler erstellt allein unter Betreuung einer Lehrerin oder eines Lehrers eine eigenständige, schriftliche Fachmaturitätsarbeit und präsentiert diese mündlich.
 
 <sup>2</sup> Ziel der Fachmaturitätsarbeit ist, dass sich die Schülerinnen und Schüler darüber ausweisen, die für ein Studium an einer Fachhochschule geforderte Methodenkompetenz zu besitzen, um eine Arbeit zu einem studien- oder ausbildungsbezogenen Thema zu verfassen und zu präsentieren.
+
+<sup>2<sup>bis</sup></sup> Die Fachmaturitätsarbeit wird im Zusammenhang mit dem Praxiseinsatz an einer Schule der Primarstufe erstellt und hat einen direkten Bezug zum Berufsfeld Pädagogik.
 
 <sup>3</sup> Die Fachmaturitätsarbeit und ihre Präsentation werden mit ganzen oder halben Noten bewertet.
 
@@ -604,7 +622,7 @@ beschliesst:
 - d. Naturwissenschaften, bestehend aus den Fächern Biologie, Chemie und Physik;
 - e. Geistes- und Sozialwissenschaften, bestehend aus den Fächern Geschichte und Geographie.
 
-<sup>3</sup> Schülerinnen und Schüler, welche in Französisch ein internationales Sprachzertifikat auf der Stufe B2 nach GER (Gemeinsamer Europäischer Referenzrahmen) erworben haben, können sich dieses anrechnen lassen. Die Umrechnung basiert auf dem Schlüssel des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) für die Berufsmatur.
+<sup>3</sup> Schülerinnen und Schüler, welche in Französisch ein internationales Sprachzertifikat auf der Stufe B2 nach GER (Gemeinsamer Europäischer Referenzrahmen) erworben haben, können sich dieses anrechnen lassen. Die zum Zeitpunkt der Prüfung gültige Liste der Schweizerischen Berufsbildungsämter-Konferenz (SBBK) zur Berücksichtigung und Umrechnung der Fremdsprachendiplome im Rahmen der Berufsmaturität findet Anwendung.
 
 #### § 39
 
@@ -669,6 +687,8 @@ beschliesst:
 
 <sup>1</sup> Die Leistungen in den schriftlichen und mündlichen Prüfungen werden in ganzen und halben Noten ausgedrückt.
 
+<sup>1<sup>bis</sup></sup> Die Noten der Prüfungsfächer setzen sich aus den Teilnoten der einzelnen Prüfungen zusammen. Sie werden auf ganze oder halbe Noten gerundet.
+
 <sup>2</sup> Liegt der Mittelwert genau in der Mitte zwischen einer ganzen und einer halben Note, ist er aufzurunden.
 
 #### § 46
@@ -705,7 +725,7 @@ beschliesst:
 
 **Wiederholung der Prüfung**
 
-<sup>1</sup> Schüler und Schülerinnen, welche die Prüfung nicht bestanden haben oder ausgeschlossen worden sind, können diese einmal wiederholen. Der Fachmaturitätskurs ist dabei vorgängig zu wiederholen.
+<sup>1</sup> Schülerinnen und Schüler, welche die Prüfung nicht bestanden haben oder ausgeschlossen worden sind, können diese einmal an der nächsten Prüfungssession wiederholen. Der Fachmaturitätskurs ist dabei vorgängig zu wiederholen.
 
 <sup>2</sup> Auf Antrag der Schülerin oder des Schülers werden Fächer mit Note 5 oder höher bei der Wiederholung angerechnet. Der Unterricht in diesen abgeschlossenen Fächern entfällt. Die SLK erlässt die entsprechenden Weisungen.
 
