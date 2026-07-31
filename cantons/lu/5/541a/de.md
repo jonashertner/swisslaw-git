@@ -3,20 +3,19 @@ canton: LU
 number: 541a
 title: "Studien- und Prüfungsordnung für die Diplom-, Bachelor- und Masterstudiengänge der Theologischen Fakultät der Universität Luzern"
 language: de
-version: 2022-08-01
-valid_until: 2026-07-31
-version_adopted: 2022-03-30
+version: 2026-08-01
+version_adopted: 2026-06-25
 adopted: 2022-03-30
 in_force: 2022-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/541a"
-pdf: "https://srl.lu.ch/api/de/versions/3938/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4840/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung für die Diplom-, Bachelor- und Masterstudiengänge der Theologischen Fakultät der Universität Luzern
 
-vom 30.03.2022 (Stand 01.08.2022)
+vom 30.03.2022 (Stand 01.08.2026)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -346,6 +345,53 @@ beschliesst:
 <sup>1</sup> Die Gesamtnote des Bachelorabschlusses berechnet sich als Durchschnitt aus allen Modulnoten (einfach gewichtet) und der Note der Bachelorarbeit (gewichtet nach Anzahl der Credits).
 
 <sup>2</sup> Die Gesamtnote des Masterabschlusses berechnet sich als Durchschnitt aus allen Fächernoten, den doppelt gewichteten Noten der Hauptseminararbeiten und der fünffach gewichteten Note der Masterarbeit.
+
+## 8a Jüdisch-Christliche Beziehungen (Bachelor, Master)
+
+#### § 28a
+
+**Immatrikulation**
+
+<sup>1</sup> Voraussetzung für die Zulassung zum Masterstudium Jüdisch-Christliche Beziehungen ist mindestens ein Bachelorabschluss einer anerkannten Universität oder ein äquivalenter Hochschulabschluss.
+
+<sup>2</sup> Die Zulassung zum Masterstudium Jüdisch-Christliche Beziehungen ist aufgrund des interdisziplinären Charakters des Studiengangs aus unterschiedlichen Studienrichtungen möglich. Ohne Bedingungen wird zugelassen, wer über ein anerkanntes Bachelordiplom in den Studienrichtungen «Jüdisch-Christliche Beziehungen», «Judaistik/Jewish Studies», «Religionswissenschaft» oder «Theologie» verfügt, wobei sich die Zuordnung zu einer Studienrichtung daran bemisst, dass der entsprechende Anteil der Studienleistungen mindestens 60 Credits beträgt.
+
+<sup>3</sup> Die Zulassung erfolgt anhand einer fachwissenschaftlichen Überprüfung des Bewerbungsdossiers (Äquivalenzprüfung) durch die Studienleitung in Absprache mit der Studiengangleitung, welche über die fachliche Eignung anhand einer objektiven und dokumentierten Analyse der akademischen Äquivalenzen entscheidet. Die Zulassung kann mit Bedingungen und/oder Auflagen verbunden werden.
+
+<sup>4</sup> Studienbewerberinnen und Studienbewerber mit einem Bachelordiplom einer Fachhochschule oder einer pädagogischen Hochschule können nach Massgabe der Zulassungsrichtlinien zugelassen werden. Die Zulassung ist stets mit Auflagen verbunden.
+
+#### § 28b
+
+**Prüfungszulassung**
+
+<sup>1</sup> Die Bachelorprüfung wird im letzten Semester des Bachelorstudiengangs abgelegt. Details sind in der Wegleitung geregelt.
+
+<sup>2</sup> Die Masterprüfung wird im letzten Semester des Masterstudiengangs abgelegt. Details sind in der Wegleitung geregelt.
+
+#### § 28c
+
+**Bachelor- und Masterarbeit**
+
+<sup>1</sup> Die Bachelorarbeit befasst sich mit einer Fragestellung aus dem Bereich des jüdisch-christlichen Dialogs oder der Verhältnisbestimmung von Judentum und Christentum. Details sind in der Wegleitung geregelt.
+
+<sup>2</sup> Die Masterarbeit befasst sich mit einer Fragestellung aus dem Bereich des jüdisch-christlichen Dialogs oder der Verhältnisbestimmung von Judentum und Christentum, unter Ausweitung auf neue Gebiete oder Anwendung in Praxisfeldern. Details sind in der Wegleitung geregelt.
+
+#### § 28d
+
+**Gesamtnote**
+
+<sup>1</sup> Die Gesamtnote des Bachelorabschlusses berechnet sich wie folgt:
+
+- a. alle benoteten Prüfungen (einfach gewichtet),
+- b. alle Methodenseminar- und Proseminararbeiten (einfach gewichtet),
+- c. alle Hauptseminararbeiten (doppelt gewichtet),
+- d. Bachelorarbeit (dreifach gewichtet).
+
+<sup>2</sup> Die Gesamtnote des Masterabschlusses berechnet sich wie folgt:
+
+- a. alle benoteten Prüfungen (einfach gewichtet),
+- b. alle Hauptseminararbeiten (doppelt gewichtet),
+- c. Masterarbeit (fünffach gewichtet).
 
 ## 9 Religionspädagogik (Diplom, Bachelor)
 
