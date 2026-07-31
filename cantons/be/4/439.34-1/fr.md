@@ -3,26 +3,25 @@ canton: BE
 number: 439.34-1
 title: "Accord conclu entre le canton de Berne et l'«Interkantonale Hochschule für Heilpädagogik» de Zurich (HfH)"
 language: fr
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-02-15
+version: 2026-08-01
+version_adopted: 2025-01-29
 adopted: 2003-11-03
 in_force: 2004-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.34-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2822/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3319/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Accord conclu entre le canton de Berne et l'«Interkantonale Hochschule für Heilpädagogik» de Zurich (HfH)
 
-du 03.11.2003 (état au 01.08.2023)
+du 03.11.2003 (état au 01.08.2026)
 
 #### Art. 1
 
 **Objet**
 
-<sup>1</sup> A partir de l'année académique 2023–2024, la «Hochschule für Heilpädagogik» de Zurich (HfH) met à la disposition du canton de Berne un nombre annuel maximum de 30 places pour les étudiants et les étudiantes qui sont domiciliés dans le canton de Berne au sens de l'Accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées à partir de 2005 (AHES)[^1-1] (formations à plein temps ou à temps partiel) ou qui travaillent dans le canton de Berne (formations en cours d'emploi). Sont concernées les filières de formation suivantes:
+<sup>1</sup> À partir de l'année académique 2026–2027, la «Hochschule für Heilpädagogik» de Zurich (HfH) met à la disposition du canton de Berne une offre de formation comprenant un nombre annuel maximum de 27 places pour les étudiants et les étudiantes qui sont domiciliés dans le canton de Berne au sens de l'Accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées à partir de 2005 (AHES)[^1-1] (formations à plein temps ou à temps partiel) ou qui travaillent dans le canton de Berne (formations en cours d'emploi). Sont concernées les filières de formation suivantes:
 
 - a Master (MA) en enseignement spécialisé:
   - 1\. option déficience auditive (90 crédits ECTS; durée cinq semestres),
@@ -30,9 +29,9 @@ du 03.11.2003 (état au 01.08.2023)
   - 3\. …
 - b MA en éducation précoce spécialisée (90 crédits ECTS; durée cinq semestres),
 - c Bachelor (BA) en interprétation en langue des signes (180 crédits ECTS; durée huit semestres),
-- d MA en logopédie (90 crédits ECTS; durée quatre semestres),
+- d …
 - e BA en thérapie psychomotrice (180 crédits ECTS; durée six semestres),
-- f MA en thérapie psychomotrice (90 crédits ECTS; durée quatre semestres).
+- f …
 
 [^1-1]: RSB [439.21-1](https://www.belex.sites.be.ch/data/439.21-1/fr)
 
@@ -56,9 +55,9 @@ du 03.11.2003 (état au 01.08.2023)
   - 3\. …
 - b MA en éducation précoce spécialisée: 6 places correspondant à une intensité d'études moyenne de 60 pour cent (soit 3,6 EPT en tout),
 - c BA en interprétation en langue des signes: 3 places correspondant à une intensité d'études de 75 pour cent (soit 2,25 EPT en tout),
-- d MA en logopédie: 3 places correspondant à une intensité d'études de 75 pour cent (soit 2,25 EPT en tout),
-- e BA en thérapie psychomotrice: 11 places correspondant à une intensité d'études de 100 pour cent (soit 11 EPT en tout),
-- f MA en thérapie psychomotrice: 3 places correspondant à une intensité d'études de 75 pour cent (soit 2,25 EPT en tout).
+- d …
+- e BA en thérapie psychomotrice: 14 places correspondant à une intensité d'études de 100 pour cent (soit 14 EPT en tout),
+- f …
 
 <sup>2</sup> Si le nombre d'inscriptions dans une filière de formation est insuffisant, la HfH peut attribuer les places non utilisées à une autre filière, à condition que le nombre d'inscriptions provenant des cantons signataires de l'accord intercantonal le lui permette. Elle en informe le service compétent du canton de Berne.
 
@@ -94,9 +93,9 @@ du 03.11.2003 (état au 01.08.2023)
   - 3\. …
 - b MA en éducation précoce spécialisée: coûts par crédit ECTS: CHF 550,
 - c BA en interprétation en langue des signes: coûts par crédit ECTS: CHF 1100,
-- d MA en logopédie: coûts par crédit ECTS: CHF 550,
+- d …
 - e BA en thérapie psychomotrice: coûts par crédit ECTS: CHF 550,
-- f MA en thérapie psychomotrice: coûts par crédit ECTS: CHF 550.
+- f …
 
 <sup>3</sup> Conformément au § 18, chiffre 20 AI HfH, le Conseil de la HfH adapte tous les ans les frais de formation au renchérissement et les renégocie tous les trois ans.
 

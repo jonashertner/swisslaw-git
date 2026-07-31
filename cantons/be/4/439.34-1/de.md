@@ -3,26 +3,25 @@ canton: BE
 number: 439.34-1
 title: Vereinbarung zwischen dem Kanton Bern und der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH)
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-02-15
+version: 2026-08-01
+version_adopted: 2025-01-29
 adopted: 2003-11-03
 in_force: 2004-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.34-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2822/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3319/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung zwischen dem Kanton Bern und der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH)
 
-vom 03.11.2003 (Stand 01.08.2023)
+vom 03.11.2003 (Stand 01.08.2026)
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Die Hochschule für Heilpädagogik Zürich (HfH) stellt dem Kanton Bern ab Studienjahr 2023/2024 jährlich maximal 30 Studienplätze für Studierende mit Wohnsitz gemäss Interkantonaler Fachhochschulvereinbarung ab 2005 (FHV) vom 12. Juni 2003[^1-1] (Vollzeit- und Teilzeitausbildungen) oder Arbeitsort (berufsbegleitende Ausbildungen) im Kanton Bern in den folgenden Studiengängen zur Verfügung:
+<sup>1</sup> Die Hochschule für Heilpädagogik Zürich (HfH) stellt dem Kanton Bern ein Studienangebot zur Verfügung, das ab Studienjahr 2026/2027 jährlich maximal 27 Studienplätze für Studierende mit Wohnsitz gemäss Interkantonaler Fachhochschulvereinbarung ab 2005 (FHV) vom 12. Juni 2003[^1-1] (Vollzeit- und Teilzeitausbildungen) oder Arbeitsort (berufsbegleitende Ausbildungen) im Kanton Bern in den folgenden Studiengängen umfasst:
 
 - a Master (MA) Schulische Heilpädagogik:
   - 1\. Studienschwerpunkt Hören (90 ECTS-Punkte; Dauer fünf Semester),
@@ -30,9 +29,9 @@ vom 03.11.2003 (Stand 01.08.2023)
   - 3\. …
 - b MA Heilpädagogische Früherziehung (90 ECTS-Punkte; Dauer fünf Semester),
 - c Bachelor (BA) Gebärdensprachdolmetschen (180 ECTS-Punkte; Dauer acht Semester),
-- d MA Logopädie (90 ECTS-Punkte; Dauer vier Semester),
+- d …
 - e BA Psychomotoriktherapie (180 ECTS-Punkte; Dauer sechs Semester),
-- f MA Psychomotoriktherapie (90 ECTS-Punkte; Dauer vier Semester).
+- f …
 
 [^1-1]: BSG [439.21-1](https://www.belex.sites.be.ch/data/439.21-1/de)
 
@@ -54,9 +53,9 @@ vom 03.11.2003 (Stand 01.08.2023)
   - 3\. …
 - b MA Heilpädagogische Früherziehung: 6 Plätze mit durchschnittlich 60 Prozent Studienintensität (entspricht insgesamt 3,6 VZÄ),
 - c BA Gebärdensprachdolmetschen: 3 Plätze zu 75 Prozent Studienintensität (entspricht insgesamt 2,25 VZÄ),
-- d MA Logopädie: 3 Plätze zu 75 Prozent Studienintensität (entspricht insgesamt 2,25 VZÄ),
-- e BA Psychomotoriktherapie: 11 Plätze zu 100 Prozent Studienintensität (entspricht insgesamt 11 VZÄ),
-- f MA Psychomotoriktherapie: 3 Plätze zu 75 Prozent Studienintensität (entspricht insgesamt 2,25 VZÄ).
+- d …
+- e BA Psychomotoriktherapie: 14 Plätze zu 100 Prozent Studienintensität (entspricht insgesamt 14 VZÄ),
+- f …
 
 <sup>2</sup> Die HfH kann die in einem Studiengang infolge von fehlenden Anmeldungen nicht benötigten Studienplätze einem anderen Studiengang zuordnen, falls es die Anmeldungen aus den Trägerkantonen der HfH zulassen. Sie teilt dies der zuständigen Stelle des Kantons Bern mit.
 
@@ -94,9 +93,9 @@ vom 03.11.2003 (Stand 01.08.2023)
   - 3\. …
 - b MA Heilpädagogische Früherziehung: Kosten pro ECTS-Punkt: CHF 550,
 - c BA Gebärdensprachdolmetschen: Kosten pro ECTS-Punkt: CHF 1100,
-- d MA Logopädie: Kosten pro ECTS-Punkt: CHF 550,
+- d …
 - e BA Psychomotoriktherapie: Kosten pro ECTS-Punkt: CHF 550,
-- f MA Psychomotoriktherapie: Kosten pro ECTS-Punkt: CHF 550.
+- f …
 
 <sup>3</sup> Die Ausbildungskosten werden durch den Hochschulrat gemäss § 18 Ziffer 20 IV HfH jährlich der Teuerung angepasst und alle drei Jahre neu verhandelt.
 
