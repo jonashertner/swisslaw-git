@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2026-01-01
-corrected: 2025-11-29
+version: 2026-08-01
+valid_until: 2026-12-31
 version_adopted: 2025-11-11
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3785/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3828/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.01.2026)
+vom 12.12.1995 (Stand 01.08.2026)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -162,7 +162,10 @@ als Verordnung:[^ingress-2]
 
 **Ermittlung der Anspruchsberechtigten**
 
-<sup>1</sup> Die Sozialversicherungsanstalt ermittelt im Januar des Bezugsjahres zusammen mit den Steuerbehörden die voraussichtlich anspruchsberechtigten Personen.
+<sup>1</sup> Die Sozialversicherungsanstalt ermittelt zusammen mit den Steuerbehörden:
+
+- a) bis spätestens 10. September des Jahres vor dem Bezugsjahr die voraussichtlich anspruchsberechtigten, ordentlich besteuerten Personen mit einem Anspruch auf Prämienverbilligung im Jahr vor dem Bezugsjahr. Als Basis gelten die Eckwerte nach [Art. 19](https://www.gesetzessammlung.sg.ch/data/331.111/de/art19) dieses Erlasses für das Jahr vor dem Bezugsjahr;
+- b) bis spätestens 10. Januar des Bezugsjahres die weiteren, voraussichtlich anspruchsberechtigten Personen. Als Basis gelten die Eckwerte nach [Art. 19](https://www.gesetzessammlung.sg.ch/data/331.111/de/art19) dieses Erlasses für das Bezugsjahr.
 
 <sup>2</sup> Ausgenommen sind Personen nach Art. 22 Abs. 2 dieser Verordnung.
 
@@ -363,7 +366,12 @@ als Verordnung:[^ingress-2]
 
 **Anmeldeformular**
 
-<sup>1</sup> Die Sozialversicherungsanstalt stellt der voraussichtlich anspruchsberechtigten Person, die am 1. Januar des Jahres der Prämienverbilligung ihren zivilrechtlichen Wohnsitz oder eine fremdenpolizeiliche Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton hat, bis spätestens 10. Januar einen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular zu.
+<sup>1</sup> Die Sozialversicherungsanstalt stellt einen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular zu:
+
+- a) Personen nach [Art. 11](https://www.gesetzessammlung.sg.ch/data/331.111/de/art11) Abs. 1 Bst. a dieses Erlasses bis spätestens 10. September des Jahres vor dem Bezugsjahr;
+- b) Personen nach [Art. 11](https://www.gesetzessammlung.sg.ch/data/331.111/de/art11) Abs. 1 Bst. b dieses Erlasses bis spätestens 10. Januar des Bezugsjahres.
+
+<sup>1<sup>bis</sup></sup> Der Zugang zu einem vorausgefüllten Anmeldeformular begründet keinen Anspruch der voraussichtlich anspruchsberechtigten Person auf Prämienverbilligung.
 
 <sup>2</sup> Keinen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular erhalten versicherungspflichtige Personen mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich, erwerbstätige vorläufig aufgenommene Ausländerinnen und Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S), Kurzaufenthalterinnen und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens drei Monaten und Personen, die nach Art. 177 des Steuergesetzes vom 9. April 1998[^22-1] nach Ermessen veranlagt werden sowie Personen mit Einkommen und Vermögen Null.
 
@@ -569,9 +577,9 @@ als Verordnung:[^ingress-2]
 
 <sup>4</sup> Der Versicherer tritt die Forderungen an die Sozialversicherungsanstalt ab. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
 
-<sup>5</sup> Die Sozialversicherungsanstalt tritt die vom Versicherer an sie abgetretenen Forderungen innerhalb von 30 Tagen nach deren Abtretung an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab. Diese ist zur Übernahme verpflichtet. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
+<sup>5</sup> Die Sozialversicherungsanstalt tritt die vom Versicherer an sie abgetretenen Forderungen innerhalb von 30 Tagen nach deren Abtretung an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab. Diese ist zur Übernahme verpflichtet. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt des Fortsetzungsbegehrens, das zum Verlustschein führte. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
 
-<sup>6</sup> Die Übermittlung der Verlustscheine durch die Versicherer in schriftlicher oder elektronischer Form erfolgt an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins.
+<sup>6</sup> Die Übermittlung der Verlustscheine durch die Versicherer in schriftlicher oder elektronischer Form erfolgt an die Sozialversicherungsanstalt. Die Sozialversicherungsanstalt übermittelt die Verlustscheine in schriftlicher oder elektronischer Form an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt des Fortsetzungsbegehrens, das zum Verlustschein führte.
 
 <sup>7</sup> Die politische Gemeinde informiert die betroffenen Versicherten über die Gläubigerwechsel.
 
@@ -585,7 +593,7 @@ als Verordnung:[^ingress-2]
 
 **Meldung über Verlustscheine und andere Forderungen**
 
-<sup>1</sup> Der Versicherer übermittelt der zuständigen politischen Gemeinde oder der von dieser bezeichneten Stelle die zur Geltendmachung der an sie abgetretenen Forderungen erforderlichen Informationen und Dokumente nach [Art. 105f](https://db.clex.ch/link/Bund/832.102/de) Abs. 5 Bst. b der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38septies-1] kostenlos.
+<sup>1</sup> Der Versicherer übermittelt der Sozialversicherungsanstalt die zur Geltendmachung der an sie abgetretenen Forderungen erforderlichen Informationen und Dokumente nach [Art. 105f](https://db.clex.ch/link/Bund/832.102/de) Abs. 5 Bst. b der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38septies-1] kostenlos. Die Sozialversicherungsanstalt übermittelt die Informationen und Dokumente der zuständigen politischen Gemeinde oder der von dieser bezeichneten Stelle.
 
 [^38septies-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
 
