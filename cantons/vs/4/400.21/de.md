@@ -4,13 +4,12 @@ number: "400.21"
 title: Reglement über die Subventionierung der individuellen Weiterbildung des Lehrpersonals der obligatorischen Schulzeit und der allgemeinbildenden Sekundarstufe II
 short: RSubIWL
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-05-22
+version: 2026-08-01
+version_adopted: 2026-06-24
 adopted: 2024-05-22
 in_force: 2024-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.21"
-pdf: "https://lex.vs.ch/api/de/versions/3316/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3316/pdf_file"
 
 (RSubIWL)
 
-vom 22.05.2024 (Stand 01.08.2024)
+vom 22.05.2024 (Stand 01.08.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -99,6 +98,8 @@ verordnet [^ingress-1]:
 <sup>3</sup> Die Koordination und Überwachung der Umsetzung der individuellen Weiterbildung ist Teil des Führungsprozesses, bei dem die Schuldirektionen und die für das Unterrichtswesen zuständige Dienststelle eine Vormeinung abgeben.
 
 <sup>4</sup> Die für das Hochschulwesen zuständige Dienststelle entscheidet über die Kostenübernahme.
+
+<sup>5</sup> Im Rahmen ihrer Tätigkeiten ist die für Hochschulen zuständige Dienststelle berechtigt, Personendaten zu verarbeiten.
 
 #### Art. 5
 

@@ -4,13 +4,12 @@ number: "400.21"
 title: Règlement concernant le subventionnement de la formation continue individuelle pour le personnel enseignant de la scolarité obligatoire et du secondaire II général
 short: RSubFCE
 language: fr
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-05-22
+version: 2026-08-01
+version_adopted: 2026-06-24
 adopted: 2024-05-22
 in_force: 2024-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.21"
-pdf: "https://lex.vs.ch/api/fr/versions/3316/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3630/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3316/pdf_file"
 
 (RSubFCE)
 
-du 22.05.2024 (état 01.08.2024)
+du 22.05.2024 (état 01.08.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -99,6 +98,8 @@ ordonne [^ingress-1]:
 <sup>3</sup> La coordination et le suivi de la mise en pratique de la formation continue individuelle font partie intégrante du processus de conduite dans lequel les directions d’école et le service en charge de l’enseignement donnent un préavis.
 
 <sup>4</sup> Le service en charge des hautes écoles décide de la prise en charge financière.
+
+<sup>5</sup> Dans le cadre de ses activités, le service en charge des hautes écoles est autorisé à traiter des données personnelles.
 
 #### Art. 5
 
