@@ -4,13 +4,12 @@ number: II C/4/3
 title: Verordnung über die Einreihung der Lehrpersonen in die Lohnbänder
 short: "Lehrpersoneneinreihungsverordnung, LPEV"
 language: de
-version: 2018-07-01
-valid_until: 2026-07-31
-version_adopted: 2018-06-05
+version: 2026-08-01
+version_adopted: 2026-03-10
 adopted: 2018-06-05
 in_force: 2018-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-C.4.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2022/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2022/pdf_file"
 
 (Lehrpersoneneinreihungsverordnung, LPEV)
 
-Vom 05.06.2018 (Stand 01.07.2018)
+Vom 05.06.2018 (Stand 01.08.2026)
 
 Der Regierungsrat,
 
@@ -124,17 +123,13 @@ erlässt:
 
 #### Art. 13
 
-**Monofachlehrpersonen der Volksschule**
-
-<sup>1</sup> Lehrpersonen mit einer Lehrbefähigung für weniger als drei Fächer werden im Bereich der Volksschule der Funktion ihrer Schulstufe zugeordnet.
-
-<sup>2</sup> Ihre Einreihung ins Lohnband wird mit einem Abschlag verknüpft.
+**…**
 
 #### Art. 14
 
 **Schulleitungsfunktionen**
 
-<sup>1</sup> Eine hauptverantwortliche Schulleitung sowie die weiteren Mitglieder der Schulleitung werden nicht als Lehrpersonen, sondern als Führungsfunktion in die Lohnbänder der Staatsangestellten eingereiht.
+<sup>1</sup> Die Schulleitung und die Prorektorate werden nicht als Lehrpersonen, sondern als Angestellte mit Leitungsfunktionen in die Lohnbänder der Staatsangestellten eingereiht.
 
 ## 3. Übergangsbestimmungen
 
