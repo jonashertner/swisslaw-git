@@ -4,11 +4,11 @@ title: "Verordnung vom 17. Juni 2016 über das Schweizer Bürgerrecht (Bürgerre
 short: BüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/405"
 language: de
-version: 2019-07-09
+version: 2026-08-01
 adopted: 2016-06-17
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/405/20190709/de/xml/fedlex-data-admin-ch-eli-cc-2016-405-20190709-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20190709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/405/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2016-405-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20190709/de"
 
 (Bürgerrechtsverordnung, BüV)
 
-vom 17. Juni 2016 (Stand am 9. Juli 2019)
+vom 17. Juni 2016 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Bürgerrechtsgesetz vom 20. Juni 2014[^ingress-1] (BüG),
 
 verordnet:
 
-[^ingress-1]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^ingress-1]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 
 ## 1. Kapitel: Gegenstand
 
@@ -71,7 +71,7 @@ Die zuständige kantonale Behörde kann die Bewerberin oder den Bewerber zu eine
 Eine konkrete Bedrohung der inneren oder äusseren Sicherheit der Schweiz ist gegeben, wenn ein bedeutendes Rechtsgut wie Leib und Leben oder die Freiheit von Personen oder der Bestand und das Funktionieren des Staates betroffen ist, indem die betroffene Person an Aktivitäten in den Bereichen nach Artikel 6 Absatz 1 Buchstabe a Ziffern 1–5 des Nachrichtendienstgesetzes vom 25. September 2015[^3-2] oder an Aktivitäten der organisierten Kriminalität teilnimmt, solche Aktivitäten unterstützt, fördert oder dazu anwirbt.
 
 [^3-1]: Fassung gemäss Ziff. II der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^3-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^3-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 4
 
@@ -332,21 +332,34 @@ Der Aufenthalt im Ausland für höchstens ein Jahr im Auftrag des Arbeitgebers o
 
 <sup>1</sup>
 
-Die im Kanton zuständige Behörde erstellt den Erhebungsbericht. Dieser enthält die Personalien (Name, Vorname, Geburtsdatum, Zivilstand, Staatsangehörigkeit) der Bewerberin oder des Bewerbers sowie aktuelle Angaben über die Einbürgerungsvoraussetzungen, namentlich die:
+Die im Kanton zuständige Behörde erstellt den Erhebungsbericht. Dieser enthält:
 
-- a. Art der ausländerrechtlichen Bewilligung (Art. 9 Abs. 1 Bst. a BüG);
-- b. Aufenthaltsdauer in der Schweiz (Art. 9 Abs. 1 Bst. b und Abs. 2 BüG);
-- c. Beachtung der öffentlichen Sicherheit und Ordnung (Art. 4);
-- d. Respektierung der Werte der Bundesverfassung (Art. 5);
-- e. Sprachkompetenzen (Art. 6);
-- f. Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung (Art. 7);
-- g. Förderung und Unterstützung der Integration der Familienmitglieder (Art. 8).
+- a.
+
+  folgende Angaben zur Identität der Bewerberin oder des Bewerbers:
+
+  - 1\. Name, Vornamen, Adresse, Geburtsdatum, Zivilstand, Staatsangehörigkeit, Telefonnummer, E-Mail-Adresse, und
+  - 2\. die AHV-Nummer, oder ersatzweise die Personennummer im ZEMIS;
+
+- b.
+
+  aktuelle Angaben über die Einbürgerungsvoraussetzungen, namentlich die:
+
+  - 1\. Art der ausländerrechtlichen Bewilligung (Art. 9 Abs. 1 Bst. a BüG),
+  - 2\. Aufenthaltsdauer in der Schweiz (Art. 9 Abs. 1 Bst. b und Abs. 2 BüG),
+  - 3\. Beachtung der öffentlichen Sicherheit und Ordnung (Art. 4),
+  - 4\. Respektierung der Werte der Bundesverfassung (Art. 5),
+  - 5\. Sprachkompetenzen (Art. 6),
+  - 6\. Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung (Art. 7),
+  - 7\. Förderung und Unterstützung der Integration der Familienmitglieder (Art. 8).[^17-1]
 
 <sup>2</sup> Der Erhebungsbericht gibt zudem Auskunft über das Vertrautsein mit den schweizerischen Lebensverhältnissen (Art. 2).
 
 <sup>3</sup> Kann die Bewerberin oder der Bewerber die Kriterien nach den Artikeln 6 und 7 wegen Krankheit, Behinderung oder anderen gewichtigen persönlichen Umständen nicht oder kaum erfüllen (Art. 9), so wird im Erhebungsbericht darauf hingewiesen.
 
 <sup>4</sup> Stellen Ehegatten gemeinsam ein Einbürgerungsgesuch oder werden minderjährige Kinder in das Einbürgerungsgesuch einbezogen, so gibt der Erhebungsbericht Auskunft über jede Bewerberin und jeden Bewerber.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 344](https://fedlex.data.admin.ch/eli/oc/2026/344)).
 
 #### Art. 18
 
@@ -429,7 +442,7 @@ Werden die kantonale Einbürgerungsbehörde oder die Schweizer Vertretung im Aus
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^24-1].
 
-[^24-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^24-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 25
 
@@ -472,7 +485,7 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 Für ihre Dienstleistungen im Zusammenhang mit Einbürgerungen erheben die Auslandvertretungen Gebühren nach der Verordnung vom 7. Oktober 2015[^26-1] über die Gebühren des Eidgenössischen Departements für auswärtige Angelegenheiten.
 
-[^26-1]: [SR 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)
+[^26-1]: [SR 191.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5669)
 
 #### Art. 27
 
@@ -533,7 +546,7 @@ Die Interessen oder das Ansehen der Schweiz beeinträchtigt in erheblicher Weise
 
 <sup>2</sup> Der Entzug setzt eine rechtskräftige Verurteilung voraus. Davon ausgenommen sind Fälle, in denen eine strafrechtliche Verfolgung aussichtslos wäre, da der Staat, in dem die Taten begangen wurden, nicht willens oder nicht in der Lage ist, ein Strafverfahren zum Abschluss zu bringen oder einem ausländischen Rechtshilfeersuchen zu entsprechen, namentlich weil das unabhängige Justizsystem in seiner Gesamtheit oder zu einem erheblichen Teil nicht funktionsfähig ist.
 
-[^30-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^30-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 5. Kapitel: Schlussbestimmungen
 

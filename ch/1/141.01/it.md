@@ -4,11 +4,11 @@ title: "Ordinanza del 17 giugno 2016 sulla cittadinanza svizzera (Ordinanza sull
 short: OCit
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/405"
 language: it
-version: 2019-07-09
+version: 2026-08-01
 adopted: 2016-06-17
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/405/20190709/it/xml/fedlex-data-admin-ch-eli-cc-2016-405-20190709-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20190709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/405/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2016-405-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20190709/it"
 
 (Ordinanza sulla cittadinanza, OCit)
 
-del 17 giugno 2016 (Stato 9 luglio 2019)
+del 17 giugno 2016 (Stato 1° agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 20 giugno 2014[^ingress-1] sulla cittadinanza (LCit),
 
 ordina:
 
-[^ingress-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^ingress-1]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 
 ## Capitolo 1: Oggetto
 
@@ -70,8 +70,8 @@ L’autorità cantonale competente può sottoporre il richiedente a un test obbl
 
 Una minaccia concreta per la sicurezza interna o esterna della Svizzera sussiste quando è a repentaglio un bene giuridico importante, quale la vita, l’integrità fisica o la libertà delle persone oppure l’esistenza e il funzionamento dello Stato, poiché l’interessato partecipa, sostiene, incoraggia o istiga ad attività nei settori di cui all’articolo 6 capoverso 1 lettera a numeri 1–5 della legge federale del 25 settembre 2015[^3-2] sulle attività informative o ad attività di criminalità organizzata.
 
-[^3-1]: Nuovo testo giusta il n. II dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^3-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^3-1]: Nuovo testo giusta la cifra II dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^3-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 4
 
@@ -134,7 +134,7 @@ Le competenze linguistiche di cui al capoverso 1 sono considerate dimostrate se 
 
 <sup>3</sup> La SEM supporta i Cantoni nel verificare la dimostrazione delle competenze linguistiche secondo il capoverso 2 lettera d e nel mettere in campo test linguistici cantonali. Può demandare questi compiti a terzi.
 
-[^6-1]: Nuovo testo giusta il n. II dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^6-1]: Nuovo testo giusta la cifra II dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 7
 
@@ -283,7 +283,7 @@ Il diritto di dimora è considerato acquisito ai sensi dell’articolo 24*a* cap
 - b. ammissione provvisoria; oppure
 - c. carta di legittimazione rilasciata dal Dipartimento federale degli affari esteri (DFAE) o permesso di dimora con attività lucrativa.
 
-[^15a-1]: Introdotto dal n. I dell’O del 17 gen. 2018, in vigore dal 15 feb. 2018 ([RU 2018 533](https://fedlex.data.admin.ch/eli/oc/2018/62)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 17 gen. 2018, in vigore dal 15 feb. 2018 ([RU 2018 533](https://fedlex.data.admin.ch/eli/oc/2018/62)).
 
 #### Art. 15b
 
@@ -308,7 +308,7 @@ Se il titolo di soggiorno richiesto non è comprovato chiaramente da un estratto
 - b. estratti o attestazioni del registro svizzero dello stato civile;
 - c. attestazioni di autorità fiscali che uno dei nonni è stato assoggettato all’imposta in seguito a un soggiorno in Svizzera.
 
-[^15b-1]: Introdotto dal n. I dell’O del 17 gen. 2018, in vigore dal 15 feb. 2018 ([RU 2018 533](https://fedlex.data.admin.ch/eli/oc/2018/62)).
+[^15b-1]: Introdotto dalla cifra I dell’O del 17 gen. 2018, in vigore dal 15 feb. 2018 ([RU 2018 533](https://fedlex.data.admin.ch/eli/oc/2018/62)).
 
 ## Capitolo 4: Disposizioni comuni
 
@@ -332,21 +332,34 @@ Il soggiorno all’estero su mandato del datore di lavoro o a scopo di formazion
 
 <sup>1</sup>
 
-Il rapporto d’indagine è steso dall’autorità competente nel Cantone. Contiene le generalità (cognome, nome, data di nascita, stato civile, cittadinanza) del richiedente nonché dati aggiornati riguardanti le condizioni di naturalizzazione, segnatamente:
+Il rapporto d’indagine è steso dall’autorità competente nel Cantone. Esso contiene:
 
-- a. il tipo di permesso conformemente al diritto in materia di stranieri (art. 9 cpv. 1 lett. a LCit);
-- b. la durata del soggiorno in Svizzera (art. 9 cpv. 1 lett. b e 2 LCit);
-- c. l’osservanza della sicurezza e dell’ordine pubblici (art. 4);
-- d. il rispetto dei valori della Costituzione federale (art. 5);
-- e. le competenze linguistiche (art. 6);
-- f. la partecipazione alla vita economica o l’acquisizione di una formazione (art. 7);
-- g. l’incoraggiamento e il sostegno all’integrazione dei membri della famiglia (art. 8).
+- a.
+
+  i seguenti dati riguardanti l’identità del richiedente:
+
+  - 1\. cognome, nome, indirizzo, data di nascita, stato civile, cittadinanza, numero telefonico, indirizzo e-mail, e
+  - 2\. numero AVS o, in via sostitutiva, numero personale SIMIC;
+
+- b.
+
+  dati aggiornati riguardanti le condizioni di naturalizzazione, segnatamente:
+
+  - 1\. il tipo di permesso conformemente al diritto in materia di stranieri (art. 9 cpv. 1 lett. a LCit),
+  - 2\. la durata del soggiorno in Svizzera (art. 9 cpv. 1 lett. b e 2 LCit),
+  - 3\. l’osservanza della sicurezza e dell’ordine pubblici (art. 4),
+  - 4\. il rispetto dei valori della Costituzione federale (art. 5),
+  - 5\. le competenze linguistiche (art. 6),
+  - 6\. la partecipazione alla vita economica o l’acquisizione di una formazione (art. 7),
+  - 7\. l’incoraggiamento e il sostegno all’integrazione dei membri della famiglia (art. 8).[^17-1]
 
 <sup>2</sup> Il rapporto d’indagine contiene altresì informazioni sulla familiarità con le condizioni di vita svizzere (art. 2).
 
 <sup>3</sup> Qualora il richiedente non possa soddisfare o soddisfi a malapena i criteri di cui agli articoli 6 e 7 in quanto malato, disabile o per altre gravi circostanze personali (art. 9), occorre farne menzione nel rapporto d’indagine.
 
 <sup>4</sup> Se due coniugi presentano una domanda di naturalizzazione comune o i figli minorenni sono inclusi nella domanda di naturalizzazione, il rapporto d’indagine riferisce in merito a ciascun richiedente.
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 344](https://fedlex.data.admin.ch/eli/oc/2026/344)).
 
 #### Art. 18
 
@@ -429,7 +442,7 @@ Se è incaricata di effettuare indagini per valutare se sono adempiute le condiz
 
 Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^24-1] sugli emolumenti.
 
-[^24-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^24-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 25
 
@@ -472,7 +485,7 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 Per le loro prestazioni nel contesto delle naturalizzazioni le rappresentanze all’estero riscuotono emolumenti secondo l’ordinanza del 7 ottobre 2015[^26-1] sugli emolumenti del DFAE.
 
-[^26-1]: [RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)
+[^26-1]: [RS 191.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5669)
 
 #### Art. 27
 
@@ -496,7 +509,7 @@ La SEM riscuote in anticipo i seguenti emolumenti:
 
 <sup>5</sup> Il tasso di cambio delle valute di cui al capoverso 4 è fissato dalle rappresentanze diplomatiche e consolari svizzere secondo le istruzioni del DFAE.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 17 gen. 2018, in vigore dal 15 feb. 2018 ([RU 2018 533](https://fedlex.data.admin.ch/eli/oc/2018/62)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 17 gen. 2018, in vigore dal 15 feb. 2018 ([RU 2018 533](https://fedlex.data.admin.ch/eli/oc/2018/62)).
 
 #### Art. 28
 
@@ -533,7 +546,7 @@ Arreca grave pregiudizio agli interessi o alla buona reputazione della Svizzera 
 
 <sup>2</sup> La revoca presuppone una condanna passata in giudicato. Sono eccettuati i casi in cui un procedimento penale sarebbe impossibile poiché lo Stato in cui sono stati commessi i reati non ha la volontà o la capacità di portare a termine un procedimento penale o ossequiare una domanda estera di assistenza giudiziaria segnatamente in quanto il sistema giudiziario indipendente nel suo insieme o parte rilevante di esso è incapace di funzionare.
 
-[^30-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^30-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Capitolo 5: Disposizioni finali
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 17 juin 2016 sur la nationalité suisse (Ordonnance sur la
 short: OLN
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/405"
 language: fr
-version: 2019-07-09
+version: 2026-08-01
 adopted: 2016-06-17
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/405/20190709/fr/xml/fedlex-data-admin-ch-eli-cc-2016-405-20190709-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20190709/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/405/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2016-405-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/405/20190709/fr"
 
 (Ordonnance sur la nationalité, OLN)
 
-du 17 juin 2016 (Etat le 9 juillet 2019)
+du 17 juin 2016 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 20 juin 2014 sur la nationalité suisse (LN)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^ingress-1]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 
 ## Chapitre 1 Objet
 
@@ -35,7 +35,7 @@ La présente ordonnance:
 
 - a. fixe les conditions d’octroi de l’autorisation fédérale de naturalisation, ainsi que celles de la naturalisation facilitée et de la réintégration par la Confédération;
 - b. réglemente les procédures qui relèvent de la compétence de la Confédération;
-- c. régit les émoluments perçus pour les décisions du Secrétariat d’Etat aux migrations (SEM) prises en première instance et ressortissant à la LN.
+- c. régit les émoluments perçus pour les décisions du Secrétariat d’État aux migrations (SEM) prises en première instance et ressortissant à la LN.
 
 ## Chapitre 2 Critères d’intégration et autres conditions
 
@@ -71,7 +71,7 @@ L’autorité cantonale compétente peut soumettre le requérant à un test de c
 Par menace concrète pour la sûreté intérieure ou extérieure de la Suisse, on entend toute menace contre des biens juridiques importants, tels que l’intégrité corporelle, la vie ou la liberté de personnes ou l’existence et le fonctionnement de l’État, que représente la personne concernée en participant à des activités dans les domaines mentionnés à l’art. 6, al. 1, let. a, ch. 1 à 5, de la loi du 25 septembre 2015 sur le renseignement[^3-2] ou à des activités du crime organisé, en les soutenant, en les encourageant ou en y assumant un rôle de recruteur.
 
 [^3-1]: Nouvelle teneur selon le ch. II de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^3-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^3-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 4
 
@@ -111,7 +111,7 @@ L’intégration du requérant n’est pas non plus considérée comme réussie 
 
 Comptent notamment parmi les valeurs de la Constitution les principes de base, les droits fondamentaux et les obligations qui suivent:
 
-- a. les principes de l’Etat de droit, de même que l’ordre démocratico-libéral de la Suisse;
+- a. les principes de l’État de droit, de même que l’ordre démocratico-libéral de la Suisse;
 - b. les droits fondamentaux, tels que l’égalité entre les femmes et les hommes, le droit à la vie et à la liberté personnelle, la liberté de conscience et de croyance, ainsi que la liberté d’opinion;
 - c. les obligations liées au service militaire ou civil et la scolarité obligatoire.
 
@@ -332,21 +332,34 @@ Lorsque le requérant séjourne à l’étranger pour une durée maximale d’un
 
 <sup>1</sup>
 
-L’autorité cantonale compétente rédige le rapport d’enquête. Celui-ci comprend l’identité (nom, prénom, date de naissance, état civil, nationalité) du requérant et des informations actuelles sur le respect des conditions de naturalisation, notamment:
+L’autorité cantonale compétente rédige le rapport d’enquête. Celui-ci contient:
 
-- a. le type d’autorisation relevant du droit des étrangers (art. 9, al. 1, let. a, LN);
-- b. la durée du séjour en Suisse (art. 9, al. 1, let. b, et 2, LN);
-- c. le respect de la sécurité et de l’ordre publics (art. 4);
-- d. le respect des valeurs de la Constitution (art. 5);
-- e. les compétences linguistiques (art. 6);
-- f. la participation à la vie économique ou l’acquisition d’une formation (art. 7);
-- g. l’encouragement et le soutien de l’intégration des membres de la famille (art. 8).
+- a.
+
+  les informations suivantes relatives à l’identité du requérant:
+
+  - 1\. le nom, les prénoms, l’adresse, la date de naissance, l’état civil, la nationalité, le numéro de téléphone, l’adresse électronique, et
+  - 2\. le numéro AVS ou, à défaut, le numéro personnel dans le SYMIC;
+
+- b.
+
+  des informations actuelles sur le respect des conditions de naturalisation, notamment:
+
+  - 1\. le type d’autorisation relevant du droit des étrangers (art. 9, al. 1, let. a, LN),
+  - 2\. la durée du séjour en Suisse (art. 9, al. 1, let. b, et 2, LN),
+  - 3\. le respect de la sécurité et de l’ordre publics (art. 4),
+  - 4\. le respect des valeurs de la Constitution (art. 5),
+  - 5\. les compétences linguistiques (art. 6),
+  - 6\. la participation à la vie économique ou l’acquisition d’une formation (art. 7),
+  - 7\. l’encouragement et le soutien de l’intégration des membres de la famille (art. 8).[^17-1]
 
 <sup>2</sup> Le rapport d’enquête renseigne sur le degré de familiarisation avec les conditions de vie en Suisse (art. 2).
 
 <sup>3</sup> Lorsque le requérant ne peut pas remplir les critères visés aux art. 6 et 7 ou qu’il les remplit difficilement, du fait d’une maladie, d’un handicap ou pour d’autres raisons personnelles majeures (art. 9), il en est fait mention dans le rapport d’enquête.
 
 <sup>4</sup> Lorsque des conjoints déposent une demande de naturalisation ensemble ou que la demande de naturalisation comprend des enfants mineurs, le rapport d’enquête fournit des renseignements sur chacun des requérants.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 344](https://fedlex.data.admin.ch/eli/oc/2026/344)).
 
 #### Art. 18
 
@@ -421,7 +434,7 @@ Si l’autorité cantonale de naturalisation ou la représentation suisse à l�
 
 <sup>2</sup> Il statue sur une naturalisation facilitée ou une réintégration, en règle générale, dans un délai de douze mois à compter de la réception du rapport d’enquête de l’autorité cantonale compétente ou de la représentation suisse à l’étranger.
 
-### Section 5 Emoluments
+### Section 5 Émoluments
 
 #### Art. 24
 
@@ -429,11 +442,11 @@ Si l’autorité cantonale de naturalisation ou la représentation suisse à l�
 
 Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^24-1] sont applicables, pour autant que la présente ordonnance ne prévoie pas de réglementation particulière.
 
-[^24-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^24-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 25
 
-**Emoluments perçus**
+**Émoluments perçus**
 
 ### (art. 35, al. 1 et 2, LN)
 
@@ -469,11 +482,11 @@ Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émolu
 
 #### Art. 26
 
-**Emoluments des représentations suisses à l’étranger**
+**Émoluments des représentations suisses à l’étranger**
 
 Pour leurs prestations en lien avec les naturalisations, les représentations suisses à l’étranger perçoivent les émoluments selon l’ordonnance du 7 octobre 2015 sur les émoluments du Département fédéral des affaires étrangères[^26-1].
 
-[^26-1]: [RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)
+[^26-1]: [RS 191.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5669)
 
 #### Art. 27
 
@@ -493,7 +506,7 @@ Le SEM perçoit à l’avance:
 
 <sup>3</sup> Il fixe un délai approprié en vue du paiement anticipé des émoluments prévu à l’al. 2. Il n’entre pas en matière sur une demande de naturalisation si le paiement n’est pas effectué dans les délais prescrits.
 
-<sup>4</sup> A l’étranger, les émoluments sont payables dans la monnaie locale. Dans les pays dont la devise n’est pas convertible, la représentation suisse peut percevoir les émoluments dans une autre monnaie après consultation du DFAE.[^27-1]
+<sup>4</sup> À l’étranger, les émoluments sont payables dans la monnaie locale. Dans les pays dont la devise n’est pas convertible, la représentation suisse peut percevoir les émoluments dans une autre monnaie après consultation du DFAE.[^27-1]
 
 <sup>5</sup> Les cours de change au titre de l’al. 4 sont fixés par les représentations diplomatiques ou consulaires de la Suisse selon les instructions du DFAE.
 
@@ -530,11 +543,11 @@ Porte gravement atteinte aux intérêts ou au renom de la Suisse quiconque:
 - a. commet un crime ou un délit visés aux art. 266, 266<sup>bis</sup>, 272 à 274, 275, 275<sup>bis</sup> et 275<sup>ter</sup> du code pénal (CP)[^30-1];
 - b. commet un crime grave dans le cadre d’activités terroristes, d’extrémisme violent ou de criminalité organisée;
 - c. commet un génocide (art. 264 CP), un crime contre l’humanité (art. 264*a* CP), une infraction grave aux conventions de Genève du 12 août 1949 (art. 264*c* CP) ou un autre crime de guerre (art. 264*d* à 264*h* CP);
-- d. menace durablement les bonnes relations de la Suisse avec un Etat étranger par la commission d’un outrage à cet Etat (art. 296 CP).
+- d. menace durablement les bonnes relations de la Suisse avec un État étranger par la commission d’un outrage à cet État (art. 296 CP).
 
-<sup>2</sup> Le retrait présuppose une condamnation entrée en force. Sont exceptés les cas où la poursuite pénale ne pourrait pas aboutir, l’Etat dans lequel les actes ont été commis n’ayant pas la volonté ou n’étant pas en mesure de mener à son terme une procédure pénale ou de répondre aux exigences d’une demande d’entraide judiciaire étrangère, du fait notamment du dysfonctionnement de la totalité ou d’une partie substantielle de l’appareil juridique indépendant.
+<sup>2</sup> Le retrait présuppose une condamnation entrée en force. Sont exceptés les cas où la poursuite pénale ne pourrait pas aboutir, l’État dans lequel les actes ont été commis n’ayant pas la volonté ou n’étant pas en mesure de mener à son terme une procédure pénale ou de répondre aux exigences d’une demande d’entraide judiciaire étrangère, du fait notamment du dysfonctionnement de la totalité ou d’une partie substantielle de l’appareil juridique indépendant.
 
-[^30-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^30-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Chapitre 5 Dispositions finales
 
