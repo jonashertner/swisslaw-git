@@ -4,13 +4,12 @@ number: IV E/1/1
 title: Gesetz über die Ausbildungs- und Schulgeldbeiträge
 short: Stipendiengesetz
 language: de
-version: 2012-08-01
-valid_until: 2026-07-31
-version_adopted: 2012-05-06
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 2012-05-06
 in_force: 2012-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-E.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/655/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/655/pdf_file"
 
 (Stipendiengesetz)
 
-Vom 06.05.2012 (Stand 01.08.2012)
+Vom 06.05.2012 (Stand 01.08.2026)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2012)
 
@@ -136,10 +135,13 @@ Vom 06.05.2012 (Stand 01.08.2012)
 
 <sup>1</sup> Der Maximalbetrag für ein Jahresstipendium beträgt:
 
-- a. für eine in Ausbildung stehende Person 16 000 Franken;
-- b. für Personen, die für den Unterhalt von Kindern aufkommen müssen, erhöht sich der Maximalbetrag um 5000 Franken pro Kind.
+- a. für eine in Ausbildung stehende Person 17 000 Franken[^12-1];
+- b. für Personen, die für den Unterhalt von Kindern aufkommen müssen, erhöht sich der Maximalbetrag um 5300 Franken pro Kind[^12-2].
 
 <sup>2</sup> Für Schul- und Studiengelder werden bei der Berechnung der Stipendien maximal 1500 Franken pro Jahr angerechnet. Der Regierungsrat kann höhere Schul- und Studiengelder berücksichtigen und bestimmen, dass sich der Maximalbetrag für ein Jahresstipendium im Umfang der entsprechenden Differenz erhöht.
+
+[^12-1]: Betrag geändert gemäss Artikel 38a Absatz 2 Buchstabe a der Stipendienverordnung (SBE 2026 24)
+[^12-2]: Betrag geändert gemäss Artikel 38a Absatz 2 Buchstabe b der Stipendienverordnung (SBE 2026 24)
 
 #### Art. 13
 
