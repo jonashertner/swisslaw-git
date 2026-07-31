@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordinanza del DFI del 16 dicembre 2016 sui materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari (Ordinanza sui materiali e gli oggetti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260101/it"
 
 (Ordinanza sui materiali e gli oggetti)
 
-del 16 dicembre 2016 (Stato 1° gennaio 2026)
+del 16 dicembre 2016 (Stato 1° agosto 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -704,13 +704,9 @@ Le autorizzazioni di cui all’articolo 10 dell’ordinanza del DFI del 23 novem
 
 #### Art. 43b
 
-**Disposizione transitoria della modifica dell’8 dicembre 2023**[^43b-1]
+[^43b-1]
 
-<sup>1</sup> I materiali e gli oggetti non conformi ai requisiti degli articoli 35–35*b* e dell’allegato 15 della modifica dell’8 dicembre 2023 possono essere importati, fabbricati, caratterizzati e consegnati ai consumatori secondo il diritto anteriore fino al 31 gennaio 2026.
-
-<sup>2</sup> I materiali e gli oggetti non conformi agli altri requisiti della modifica del 8 dicembre 2023 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 31 gennaio 2025. Essi possono essere consegnati ai consumatori fino a esaurimento delle scorte.
-
-[^43b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^43b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)). Abrogato dalla cifra I dell’O dell’USAV del 19 giu. 2026, con effetto dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
 
 #### Art. 43c
 
@@ -726,7 +722,7 @@ Le autorizzazioni di cui all’articolo 10 dell’ordinanza del DFI del 23 novem
 
 <sup>5</sup> In deroga al capoverso 4, i materiali e gli oggetti finiti a uso ripetuto utilizzati come apparecchiature professionali di produzione alimentare e non conformi ai requisiti del numero 136 nella tabella 1 dell’allegato 2, degli allegati 13 numero 2 o 14 secondo la modifica del 2 giugno 2025 possono ancora essere importati, fabbricati, caratterizzati e immessi sul mercato secondo il diritto anteriore fino al 20 gennaio 2028. I predetti materiali e oggetti possono essere immessi sul mercato fino al 20 gennaio 2029.
 
-[^43c-1]: Introdotto dalla cifra I dell’O dell’UFAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^43c-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 [^43c-2]: [RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
 [^43c-3]: [RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
 [^43c-4]: [RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
@@ -738,6 +734,18 @@ Le autorizzazioni di cui all’articolo 10 dell’ordinanza del DFI del 23 novem
 I materiali e gli oggetti non conformi alla modifica del 26 novembre 2025 possono ancora essere importati, fabbricati, caratterizzati e consegnati ai consumatori secondo il diritto anteriore fino al 1° gennaio 2027.
 
 [^43d-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+
+#### Art. 43e
+
+**Disposizioni transitorie della modifica del 19 giugno 2026**[^43e-1]
+
+<sup>1</sup> I materiali e gli oggetti non conformi ai requisiti della modifica del 19 giugno 2026 possono essere importati, fabbricati, caratterizzati e consegnati ai consumatori secondo il diritto anteriore fino al 1° agosto 2027.
+
+<sup>2</sup> I materiali e gli oggetti finiti a uso ripetuto contenenti sostanze di cui al numero 136 nella tabella 1 dell’allegato 2 o al numero 136 nella tabella 1 dell’allegato 10 della presente ordinanza nella versione del 13 novembre 2024[^43e-2] nonché i materiali e gli oggetti finiti a uso ripetuto non conformi all’allegato 13 numero 2 o all’allegato 14 della modifica del 2 giugno 2025[^43e-3] possono essere importati, fabbricati, caratterizzati e immessi sul mercato secondo il diritto anteriore fino al 20 luglio 2026. I predetti materiali e oggetti possono essere consegnati ai consumatori fino al 20 luglio 2027.
+
+[^43e-1]: Introdotto dalla cifra I dell’O dell’USAV del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
+[^43e-2]: [RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
+[^43e-3]: [RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)
 
 #### Art. 44
 
@@ -751,7 +759,7 @@ Allegato 1
 
 ## Simbolo riportato sui materiali e sugli oggetti, indicante l’uso al quale sono destinati
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image1.png)
 
 Allegato 2[^t-1]
 
@@ -761,8 +769,8 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), dalle cifre II cpv. 1 delle O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
-[^annex2-lvlu1-1]: Il contenuto dei presenti all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), dalle cifre II cpv. 1 delle O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), del 26 nov. 2025 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) e del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/374](https://fedlex.data.admin.ch/eli/oc/2026/374) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -806,7 +814,7 @@ Allegato 4[^t-3]
 
 ## Regole per la valutazione della conformità ai limiti di migrazione dei materiali e degli oggetti in plastica
 
-[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 2 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dalle cifre II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) e dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 2 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dalle cifre II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dell’USAV del 26 nov. 2025 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) e del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
 
 ### 1 Simulanti alimentari
 
@@ -949,10 +957,11 @@ Tabella 2 Assegnazione di simulanti per le derrate alimentari
 <tr><td>07.03</td><td>Panna e panna acida</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
 <tr><td>07.04</td><td>Formaggi:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
 <tr><td></td><td>A. interi, con crosta non commestibile</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td>X</td></tr>
-<tr><td></td><td>B. formaggi naturali senza crosta o con crosta commestibile (gouda, camembert e simili) e formaggi a pasta filante</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X/3(\*\*)</td><td></td></tr>
-<tr><td></td><td>C. formaggi trasformati (formaggi molli, cottage cheese e simili)</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>D. formaggi conservati:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>I. in mezzo oleoso</td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="4">X</td><td></td></tr>
+<tr><td></td><td>B. formaggi a pasta molle non stagionati (formaggi freschi), ad esempio cottage cheese, quark, ricotta, formaggi spalmabili, fromage frais e formaggi simili</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>C. formaggi stagionati a pasta molle, compatta o dura, affettati o interi con crosta commestibile, ad esempio gouda, cheddar, gruyère, parmigiano, stilton, taleggio, beaufort, tomino, brie, camembert e formaggi simili</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X/3</td><td></td></tr>
+<tr><td></td><td>D. formaggi trasformati, ad esempio spicchi, creme spalmabili e fette</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X/3</td><td></td></tr>
+<tr><td></td><td>E. formaggi in salamoia o freschi in un mezzo liquido, ad esempio feta e mozzarella:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>I. in mezzo oleoso</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X</td><td></td></tr>
 <tr><td></td><td>II. in mezzo acquoso (feta, mozzarella e simili)</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
 <tr><td>08</td><td>Prodotti vari</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
 <tr><td>08.01</td><td>Aceto</td><td></td><td>X</td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
@@ -1010,30 +1019,57 @@ In deroga alle assegnazioni dei simulanti alimentari di cui ai numeri 1.2–1.4 
 
 ### 2 Prove di conformità
 
-Per le prove di conformità della migrazione da materiali e oggetti di plastica si applicano le seguenti regole generali.
+Per le prove di conformità della migrazione da materiali e oggetti di materia plastica a contatto con i prodotti alimentari deve essere selezionato un metodo analitico conformemente alle prescrizioni di cui all’articolo 34 del regolamento (UE) 2017/625[^annex4-lvlu1-lvl2-1], applicando i seguenti criteri di efficienza specifici:
+
+- i)
+
+  il campo di misura del metodo analitico deve essere compreso almeno tra R<sub>L</sub> × LMS e R<sub>U</sub> × LMS, come descritto nei pertinenti documenti di orientamento, dove:
+
+  - – RL corrisponde alla soglia relativa inferiore per il campo di misura del metodo;
+  - – RU corrisponde alla soglia relativa superiore per il campo di misura del metodo;
+  - – RU deve essere pari a 2. RL deve essere pari a 0,2 a meno che 0,2 × LMS sia inferiore al limite analitico di quantificazione (LOQ) della sostanza, nel qual caso RL × LMS è fissato al LOQ della sostanza.
+
+- ii) Prima della verifica della conformità a un LMS, il risultato della prova di migrazione specifica *m*, deve essere corretto, se del caso, tenendo conto:
+- (1) dell’effettivo rapporto superficie/volume [(S/V)<sub>real</sub>] e del rapporto superficie/volume (S/V)<sub>test</sub> conformemente al numero 2.1 del presente allegato; o
+- (2) del coefficiente di correzione (C<sub>T2</sub>), utilizzato nelle sotto-colonne per i simulanti alimentari D2 ed E di cui nella tabella 2 del presente allegato; o
+- (3) del coefficiente di riduzione per i grassi (Fat Reduction Factor – FRF) conformemente al numero 2.5.1 del presente allegato.
+- Quando i risultati sono corretti in applicazione del C<sub>T2</sub> in combinazione con il FRF, conformemente al numero 2.5.1, il coefficiente di correzione combinato non deve essere superiore a 5, a meno che il coefficiente di correzione di cui alla tabella 2 sia superiore a 5.
+- iii) Il coefficiente di variazione della riproducibilità CV<sub>R</sub>, che può essere espresso in percentuale se moltiplicato per 100, è utilizzato per calcolare l’incertezza di misura standard relativa al fine di valutare la conformità. Le formule per il calcolo del CV<sub>R</sub> sono le seguenti:
+- CV<sub>R</sub> = 0,22 per *m**<sub>c</sub>* &lt; 0,12 × 10<sup>–6</sup> kg/kg; e
+- CV<sub>R</sub> = 2<sup>(1–½log(mc))</sup>/100 per 0,12 × 10<sup>–6</sup> kg/kg ≤ *m**<sub>c</sub>* ≤ 0,138 kg/kg;
+- se *m*<sub>c</sub> è il risultato della prova di migrazione specifica di una sostanza o, se del caso, il risultato corretto della migrazione specifica da valutare rispetto all’LMS di cui alla presente ordinanza, l’incertezza di misura standard di *m*<sub>c</sub> di una sostanza, u(*m*<sub>c</sub>), deve essere determinata come segue: u(*m**<sub>c</sub>*) = CV<sub>R</sub> × *m**<sub>c</sub>*.
+- iv) La conformità all’LMS deve essere quindi valutata applicando il seguente criterio di efficienza, dove *m**<sub>c</sub>* deve essere valutato rispetto all’LMS:
+- Se (*m**<sub>c</sub>* – LMS)/[u(*m**<sub>c</sub>*)] &gt; 1,64, allora *m**<sub>c</sub>* è superiore all’LMS.
+- Se *m**<sub>c</sub>* è superiore all’LMS, *m**<sub>c</sub>* di una sostanza deve essere considerato non conforme. Si applicano inoltre le prescrizioni di cui ai numeri 2.3–2.5 del presente allegato.
 
 ### 2.1 Espressione dei risultati delle prove di migrazione
 
-Ai fini della verifica della conformità, i valori della migrazione specifica sono espressi in mg/kg sulla base dell’effettivo rapporto superficie/volume per l’uso previsto o prevedibile.
+[^annex4-lvlu1-lvl2-1]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2024/3115, GU L, 2024/3115, 16.12.2024.
 
-In deroga al paragrafo 1, il valore della migrazione è espresso in mg/kg sulla base di un rapporto superficie/volume pari a 6 dm<sup>2</sup> per kg di derrata alimentare per quanto concerne:
+- 1\. Ai fini della verifica della conformità, i valori della migrazione specifica sono espressi in mg/kg sulla base dell’effettivo rapporto superficie/volume per l’uso previsto o prevedibile.
+- 2\.
 
-- a. contenitori e altri oggetti contenenti o destinati a contenere una quantità inferiore a 500 ml o g o superiore a 10 l;
-- b. materiali e oggetti per i quali, a causa della loro forma, non sia possibile valutare il rapporto tra la superficie di tali materiali od oggetti e la quantità di derrate alimentari a contatto con essi;
-- c. fogli e pellicole non ancora a contatto con derrate alimentari;
-- d. fogli e pellicole contenenti quantità inferiori a 500 ml o g o superiori a 10 l.
+  In deroga al capoverso 1, per i materiali e gli oggetti seguenti può essere applicato un rapporto superficie/volume pari o superiore a 6 dm<sup>2</sup> per kg di derrata alimentare:
 
-Il paragrafo 2 non si applica ai materiali e agli oggetti di materia plastica destinati a entrare in contatto o già a contatto con derrate alimentari per lattanti e bambini nella prima infanzia ai sensi dell’ordinanza del DFI del 16 dicembre 2016[^annex4-lvlu1-lvl2-lvl21-1] sulle derrate alimentari destinate alle persone con particolari esigenze nutrizionali.
+  - a. contenitori e altri oggetti contenenti o destinati a contenere una quantità inferiore a 500 ml o superiore a 10 l;
+  - b. materiali e oggetti per i quali, a causa della loro forma, non sia possibile valutare il rapporto tra la loro superficie e la quantità di derrate alimentari a contatto con essi;
+  - c. fogli e pellicole non ancora a contatto con derrate alimentari;
+  - d. fogli e pellicole contenenti una quantità inferiore a 500 ml o superiore a 10 l.
 
-In deroga al paragrafo 1, per coperchi, guarnizioni, tappi e altri dispositivi di chiusura il valore di migrazione specifica è espresso in:
+- Il presente capoverso non si applica ai materiali e agli oggetti di materia plastica destinati a entrare in contatto o già a contatto con derrate alimentari per lattanti e bambini nella prima infanzia ai sensi dell’ordinanza del DFI del 16 dicembre 2016[^annex4-lvlu1-lvl2-lvl21-1] sulle derrate alimentari destinate alle persone con particolari esigenze nutrizionali.
+- 3\.
 
-- a. mg/kg, sulla base del contenuto effettivo del contenitore al quale è destinata la chiusura, applicando la superficie di contatto totale del dispositivo di chiusura e del contenitore chiuso, se la destinazione dell’oggetto è nota, tenendo conto delle disposizioni di cui al numero 2;
-- b. mg/oggetto se la destinazione dell’oggetto non è nota.
+  In deroga al capoverso 1, per coperchi, guarnizioni, tappi e altri dispositivi di chiusura il valore di migrazione specifica è espresso in:
 
-Per coperchi, guarnizioni, tappi e altri dispositivi di chiusura il valore di migrazione globale è espresso in:
+  - a. mg/kg, sulla base del contenuto effettivo del contenitore al quale è destinata la chiusura, applicando la superficie di contatto totale del dispositivo di chiusura e del contenitore chiuso, se la destinazione dell’oggetto è nota, tenendo conto delle disposizioni di cui al capoverso 2;
+  - b. mg/oggetto se la destinazione dell’oggetto non è nota.
 
-- a. mg/dm<sup>2</sup>, sulla base della superficie di contatto totale del dispositivo di chiusura e del contenitore chiuso, se la destinazione dell’oggetto è nota;
-- b. mg/oggetto se la destinazione dell’oggetto non è nota.
+- 4\.
+
+  Per coperchi, guarnizioni, tappi e altri dispositivi di chiusura il valore di migrazione globale è espresso in:
+
+  - a. mg/dm<sup>2</sup>, sulla base della superficie di contatto totale del dispositivo di chiusura e del contenitore chiuso, se la destinazione dell’oggetto è nota;
+  - b. mg/oggetto se la destinazione dell’oggetto non è nota.
 
 [^annex4-lvlu1-lvl2-lvl21-1]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
@@ -1111,13 +1147,11 @@ Al termine del tempo di contatto prescritto, per verificare la conformità è an
 
 ### 2.3.3.2 Materiali e oggetti a uso ripetuto
 
-La prova di migrazione globale applicabile è effettuata tre volte su un unico campione, utilizzando ogni volta un’altra porzione del simulante alimentare. La migrazione va determinata secondo un metodo analitico conforme alle prescrizioni di cui all’articolo 34 del regolamento (CE) 2017/625[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1]. La migrazione globale nella seconda prova deve essere inferiore rispetto alla prima prova e la migrazione globale nella terza prova deve essere inferiore rispetto alla seconda prova. La conformità al limite di migrazione globale viene verificata in base al livello della migrazione globale riscontrato nella terza prova.
+La prova di migrazione globale applicabile è effettuata tre volte su un unico campione, utilizzando ogni volta un’altra porzione del simulante alimentare. La migrazione va determinata secondo un metodo analitico conforme alle prescrizioni di cui all’articolo 34 del regolamento (UE) n. 2017/625. La conformità al limite di migrazione globale deve essere verificata sulla base del livello della migrazione globale riscontrato durante la terza prova e sulla base della stabilità del materiale o dell’oggetto, ossia la migrazione globale durante la seconda prova non deve superare il livello osservato nella prima prova e la migrazione globale nel corso della terza prova non deve superare il livello osservato durante la seconda prova. La conformità deve essere valutata conformemente ai criteri di efficienza specifici descritti al numero 2.4.2.1.6. Tuttavia, per determinare u(*m*) deve essere utilizzata l’incertezza di misura standard del metodo analitico quale determinata dal laboratorio anziché l’incertezza di misura standard ricavata in base all’approccio specificato al numero 2.
 
-Se è tecnicamente impossibile sottoporre a prova lo stesso campione per tre volte, ad esempio in caso di prove in olio vegetale, la prova di migrazione globale può essere effettuata utilizzando campioni diversi per tre diversi periodi di durata corrispondenti a uno, due e tre volte il tempo di contatto applicabile. La differenza tra i risultati della terza e della seconda prova sono considerati rappresentativi della migrazione globale. La conformità è verificata in base a tale differenza, che non deve superare il limite di migrazione globale. Inoltre la differenza tra i risultati della seconda e della terza prova deve essere inferiore al primo risultato e la differenza tra i risultati della terza e della seconda prova deve essere inferiore alla differenza tra i risultati della seconda e della prima prova.
+Se è tecnicamente impossibile sottoporre a prova lo stesso campione per tre volte, ad esempio in caso di prove in olio vegetale, la prova di migrazione globale può essere effettuata utilizzando campioni diversi per tre diversi periodi di tempo corrispondenti a una volta, due volte e tre volte il tempo di contatto applicabile. Si considera che la prima migrazione, la differenza tra la seconda e la prima migrazione e la differenza tra la terza e la seconda migrazione rappresentino le tre migrazioni globali successive.
 
-In deroga al capoverso 1, se è stabilito, in base a dati scientifici, che per il materiale o l’oggetto sottoposto a prova la migrazione globale diminuisce nella seconda e nella terza prova, e se il limite di migrazione globale non è superato nella prima prova, quest’ultima è sufficiente.
-
-[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1]: Vedi nota a piè di pagina all’allegato 4 numero 2.3.3.1.
+Tuttavia, se vi sono prove scientifiche che il livello di migrazione quale descritto al numero 2.4.2.1.6 non aumenta durante la seconda e la terza prova di migrazione e se il limite di migrazione non è superato nel corso della prima prova di migrazione, il materiale o l’oggetto è considerato conforme al limite di migrazione globale.
 
 ### 2.3.4 Metodi di screening
 
@@ -1257,17 +1291,29 @@ Se il materiale o l’oggetto è destinato a un’applicazione a contatto con un
 
 ### 2.4.2.1.6Oggetti ad uso ripetuto
 
-Se il materiale o l’oggetto è destinato a entrare ripetutamente in contatto con le derrate alimentari, le prove di migrazione sono effettuate tre volte sullo stesso campione singolo utilizzando ogni volta una nuova porzione di simulante alimentare. La migrazione specifica nella seconda prova non deve superare il livello osservato nella prima. La migrazione specifica nella terza prova non deve superare il livello osservato nella seconda.
+- 1\. Se il materiale o l’oggetto è destinato a entrare ripetutamente in contatto con le derrate alimentari, la prova di migrazione deve essere effettuata tre volte su un unico campione utilizzando ogni volta una nuova porzione di simulante alimentare. La conformità del materiale o dell’oggetto deve essere quindi verificata in base al livello della migrazione specifica osservato nella terza prova di migrazione e alla stabilità del materiale o dell’oggetto. La migrazione specifica osservata nella seconda prova di migrazione non deve superare il livello osservato nella prima e la migrazione specifica nella terza prova non deve superare il livello osservato nella seconda.
+- 2\. Ai fini del capoverso 1, il campione deve essere considerato non conforme se:
+- *m**<sub>c</sub>*<sub>, 3</sub> &gt; LMS; oppure
+- *m**<sub>c</sub>*<sub>, 1</sub> &lt; *m**<sub>c</sub>*<sub>, 2</sub>; oppure
+- *m**<sub>c</sub>*<sub>, 2</sub> &lt; *m**<sub>c</sub>*<sub>, 3</sub>; oppure
+- *m**<sub>c</sub>*<sub>, 1</sub> &lt; *m**<sub>c</sub>*<sub>, 3</sub>,
+- dove *m**<sub>c</sub>*<sub>, 1</sub>, *m**<sub>c</sub>*<sub>, 2</sub> e *m**<sub>c</sub>*<sub>, 3</sub> sono rispettivamente *m**<sub>c</sub>* durante la prima, la seconda e la terza prova di migrazione effettuate conformemente al capoverso 1.
+- 3\.
 
-La conformità del materiale o dell’oggetto deve essere verificata in base al livello di migrazione riscontrato nella terza prova e alla stabilità del materiale o dell’oggetto tra la prima prova di migrazione e la terza. La stabilità del materiale deve essere considerata insufficiente se in una qualsiasi delle tre prove di migrazione viene osservata una migrazione superiore al livello di rilevamento e se tale migrazione aumenta tra la prima prova di migrazione e la terza. In caso di stabilità insufficiente, la conformità del materiale non può essere stabilita, nemmeno qualora il limite di migrazione specifica non sia superato in nessuna delle tre prove.
+  La conformità all’LMS e alla regola relativa alla stabilità deve essere valutata applicando i seguenti criteri:
 
-Tuttavia, in presenza di una prova scientifica irrefutabile che il livello di migrazione diminuisce nella seconda e nella terza prova e se nella prima prova non vengono superati i limiti di migrazione, non sono necessarie altre prove.
+  - – se (*m**<sub>c</sub>*<sub>, 3</sub> – LMS)/[u(*m**<sub>c</sub>*<sub>, 3</sub>)] &gt; 1,64, allora il livello della terza migrazione è superiore all’LMS;
+  - – se (*m**<sub>c</sub>*<sub>, 2</sub> – *m**<sub>c</sub>*<sub>, 1</sub>)/[u(*m**<sub>c</sub>*<sub>, 2</sub>) + u(*m**<sub>c</sub>*<sub>, 1</sub>)] &gt; 1,64, allora il livello della prima migrazione è inferiore a quello della seconda;
+  - – se (*m**<sub>c</sub>*<sub>, 3</sub> – *m**<sub>c</sub>*<sub>, 2</sub>)/[u(*m**<sub>c</sub>*<sub>, 3</sub>) + u(*m**<sub>c</sub>*<sub>, 2</sub>)] &gt; 1,64, allora il livello della seconda migrazione è inferiore a quello della terza;
+  - – se (*m**<sub>c</sub>*<sub>, 3</sub> – *m**<sub>c</sub>*<sub>, 1</sub>)/[u(*m**<sub>c</sub>*<sub>, 3</sub>) + u(*m**<sub>c</sub>*<sub>, 1</sub>)] &gt; 1,64, allora il livello della prima migrazione è inferiore a quello della terza.
 
-In deroga alle disposizioni di cui sopra, un materiale o un oggetto non può in nessun caso essere considerato conforme alla presente ordinanza se nella prima prova viene rilevata una sostanza per la quale il limite di migrazione specifica è fissato come non riscontrabile.
+- 4\. Nel caso in cui *m**<sub>c</sub>* sia inferiore a R<sub>L</sub> × LMS, *m**<sub>c</sub>* deve essere considerato uguale a R<sub>L</sub> × LMS. Tale *m**<sub>c</sub>* deve essere utilizzato per determinare la corrispondente incertezza di misura standard di *m**<sub>c</sub>* e per valutare la conformità ai criteri di efficienza di cui al presente numero.
+- 5\. Tuttavia, se vi sono prove scientifiche che il livello di migrazione specifica non aumenta come descritto nel capoverso 2 nel corso della seconda e della terza prova di migrazione e se l’LMS non viene superato durante la prima prova di migrazione, il materiale o l’oggetto è considerato conforme all’LMS di cui alla presente ordinanza.
+- 6\. In deroga alle disposizioni di cui sopra, un materiale o un oggetto non può in nessun caso essere considerato conforme alla presente ordinanza se in una qualsiasi delle prove di migrazione viene rilevata una sostanza per la quale il limite di migrazione specifica è fissato come non riscontrabile.
 
 ### 2.4.2.1.7Analisi delle sostanze che migrano
 
-Al termine del tempo di contatto prescritto, la migrazione specifica è analizzata nella derrata o nel simulante alimentare impiegando un metodo analitico conformemente all’articolo 46 OELDerr.
+Al termine del tempo di contatto prescritto, la migrazione specifica è analizzata nella derrata alimentare o nel simulante alimentare secondo un metodo analitico conforme ai criteri di efficienza applicabili di cui al presente allegato.
 
 ### 2.4.2.1.8Verifica della conformità sulla base del contenuto residuo per superficie a contatto con la derrata alimentare (QMA)
 
@@ -1316,26 +1362,37 @@ La migrazione specifica nella derrata alimentare o nel simulante alimentare non 
 
 Quando si effettua una prova nel simulante alimentare D2 o E e quando i risultati della prova sono corretti in applicazione del coefficiente di correzione di cui al numero 1 tabella 2, tale correzione può essere applicata in combinazione con l’FRF moltiplicando entrambi i coefficienti. Il coefficiente di correzione combinato non deve essere superiore a 5, a meno che il coefficiente di correzione di cui al numero 1 tabella 2 sia superiore a 5.
 
-Allegato 5
+Allegato 5[^t-4]
 
 (art. 20 lett. a n. 3)
 
-## Sistema di garanzia della qualità per i processi di riciclo di plastica destinata al contatto con le derrate alimentari
+## Requisiti minimi relativi a un sistema di garanzia della qualità da utilizzare negli stabilimenti di riciclo di plastica destinata al contatto con le derrate alimentari
 
-Il sistema di garanzia della qualità applicato dal riciclatore deve essere sufficientemente affidabile per garantire la capacità del processo di riciclo di ottenere plastica riciclata conforme alle prescrizioni legali.
+[^t-4]: Nuovo testo giusta la cifra cifra II cpv. 3 dell’O del DFI del 19 giu. 2026, in igore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374))
 
-Tutti gli elementi, prescrizioni e disposizioni adottati dal riciclatore per il suo sistema di garanzia della qualità devono essere documentati in modo sistematico e ordinato sotto forma di politiche e procedure scritte.
+- 1\. Il sistema di garanzia della qualità applicato dal riciclatore deve essere sufficientemente affidabile per far sì che tutte le operazioni di riciclaggio effettuate presso lo stabilimento siano in grado di garantire che la plastica riciclata sia conforme alle prescrizioni legali.
+- 2\. Tutti gli elementi, prescrizioni e disposizioni adottati dal riciclatore per il suo sistema di garanzia della qualità devono essere documentati in modo sistematico e ordinati sotto forma di politiche e procedure scritte.
+- Questa documentazione relativa al sistema di qualità deve permettere un’interpretazione uniforme delle politiche e delle procedure seguite in materia di qualità, ad esempio programmi di qualità, piani, manuali, registri e misure prese per garantire la rintracciabilità.
+-
 
-Questa documentazione relativa al sistema di qualità deve permettere un’interpretazione uniforme delle politiche e delle procedure seguite in materia di qualità, ad esempio programmi di qualità, piani, manuali, registri e misure prese per garantire la rintracciabilità.
+  La documentazione comprende in particolare quanto segue:
 
-La documentazione comprende in particolare quanto segue:
+  - a. un manuale delle politiche di qualità, contenente una chiara definizione degli obiettivi di qualità del riciclatore, l’organizzazione dell’impresa e in particolare le strutture organizzative, le responsabilità del personale dirigente e la loro autorità organizzativa nell’ambito della produzione di plastica riciclata;
+  - b. i piani di controllo della qualità, inclusi quelli per la caratterizzazione dell’input di materia plastica e della plastica riciclata, la qualifica dei fornitori, i processi di selezione, i processi di lavaggio, i processi di pulizia profonda, i processi di riscaldamento o qualsiasi altra parte del processo che influisca sulla qualità della plastica riciclata, inclusa la scelta di punti critici per il controllo della qualità della plastica riciclata;
+  - c. le procedure di gestione e operative applicate per controllare e regolare l’intero processo di riciclo, incluse le tecniche di ispezione e di garanzia della qualità in tutte le fasi di produzione, in particolare l’istituzione di limiti ai punti critici per la qualità della plastica riciclata;
+  - d. i metodi di controllo del funzionamento efficace del sistema di qualità, in particolare la capacità di ottenere plastica riciclata della qualità prevista, compreso il controllo dei prodotti non conformi;
+  - e. i test e i protocolli analitici o qualsiasi altro metodo scientifico applicato prima, durante e dopo la produzione della plastica riciclata, la frequenza dei test e gli strumenti di prova impiegati; la calibrazione degli strumenti di prova deve essere effettuata in modo da consentire una rintracciabilità adeguata;
+  - f. gli strumenti di registrazione adottati.
 
-- a. un manuale delle politiche di qualità, contenente una chiara definizione degli obiettivi di qualità del riciclatore, l’organizzazione dell’impresa e in particolare le strutture organizzative, le responsabilità del personale dirigente e la loro autorità organizzativa nell’ambito della produzione di plastica riciclata;
-- b. i piani di controllo della qualità, inclusi quelli per la caratterizzazione dell’input di materia plastica e della plastica riciclata, la qualifica dei fornitori, i processi di selezione, i processi di lavaggio, i processi di pulizia profonda, i processi di riscaldamento o qualsiasi altra parte del processo che influisca sulla qualità della plastica riciclata, inclusa la scelta di punti critici per il controllo della qualità della plastica riciclata;
-- c. le procedure di gestione e operative applicate per controllare e regolare l’intero processo di riciclo, incluse le tecniche di ispezione e di garanzia della qualità in tutte le fasi di produzione, in particolare l’istituzione di limiti ai punti critici per la qualità della plastica riciclata;
-- d. i metodi di controllo del funzionamento efficace del sistema di qualità, in particolare la capacità di ottenere plastica riciclata della qualità prevista, compreso il controllo dei prodotti non conformi;
-- e. i test e i protocolli analitici o qualsiasi altro metodo scientifico applicato prima, durante e dopo la produzione della plastica riciclata, la frequenza dei test e gli strumenti di prova impiegati; la calibrazione degli strumenti di prova deve essere effettuata in modo da consentire una rintracciabilità adeguata;
-- f. gli strumenti di registrazione adottati.
+- 3\. Il sistema di garanzia della qualità applicato dal riciclatore deve comprendere operazioni specifiche nel processo di riciclo, le fasi di valutazione della qualità, nelle quali il riciclatore deve valutare la qualità di ciascun lotto di materiale proveniente direttamente da una fase di produzione.
+-
+
+  Tale valutazione deve accertare la qualità di tale materiale verificando:
+
+  - – se i limiti critici applicabili di cui al numero 2 lettera c sono stati soddisfatti in ciascuna operazione unitaria che fa parte della fase di produzione; e
+  - – se la qualità del materiale risultante soddisfa criteri predefiniti, utilizzando i test, i protocolli e le prove di cui al numero 2 lettera e, applicabili alla fase di produzione.
+
+- La valutazione deve portare a una decisione che stabilisca se il lotto possa essere considerato conforme alle prescrizioni legali e idoneo a un’ulteriore trasformazione, se la sua qualità richieda una correzione prima di un’ulteriore trasformazione o se il lotto debba essere scartato o utilizzato per applicazioni non alimentari.
 
 Allegato 6
 
@@ -1492,13 +1549,13 @@ Spiegazioni relative agli elenchi
 <tr><td>– Toluene</td><td></td><td>Inferiore o uguale a 0,06 mg per dm<sup>2</sup> di vernice sul lato a contatto con le derrate alimentari.</td></tr>
 </table>
 
-Allegato 8[^t-4]
+Allegato 8[^t-5]
 
 (art. 26 cpv. 1 e 2<sup>bis</sup>)
 
 ## Valori limite di rilascio di piombo e di cadmio per i materiali e gli oggetti di ceramica, vetro, smalto e simili
 
-[^t-4]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-5]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 - 1\. Le parti di materiali e oggetti di ceramica, vetro, smalto e simili che vengono a contatto con derrate alimentari possono rilasciare ad acido acetico al quattro per cento del volume, a una temperatura di 22 °C per una durata di 24 ore, al massimo i seguenti quantitativi (valori limite):
 
@@ -1514,13 +1571,13 @@ Allegato 8[^t-4]
 
 [^annex8-lvlu1-1]: Direttiva 84/500CEE del Consiglio, del 15 ottobre 1984, relativa al ravvicinamento delle legislazioni degli Stati membri per quanto riguarda gli oggetti di ceramica destinati ad entrare in contatto con i prodotti alimentari, GU. L 277 del 20.10.1984, pag. 12; modificata da ultimo dalla direttiva 2005/31/CE, GU L 110 del 30.4.2005, pag. 36.
 
-Allegato 8a[^t-5]
+Allegato 8a[^t-6]
 
 (art. 26 cpv. 2<sup>bis</sup>)
 
 ## Dichiarazione di conformità dei materiali e degli oggetti di ceramica
 
-[^t-5]: Introdotto dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-6]: Introdotto dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 La dichiarazione di conformità di cui all’articolo 26 capoverso 2<sup>bis</sup> deve contenere le seguenti informazioni:
 
@@ -1531,7 +1588,7 @@ La dichiarazione di conformità di cui all’articolo 26 capoverso 2<sup>bis</su
 
 La dichiarazione di conformità deve consentire di identificare facilmente i prodotti ai quali si riferisce. Dovrà essere rinnovata ove modifiche significative nella produzione comportino variazioni nella cessione di piombo e di cadmio.
 
-Allegato 9[^t-6]
+Allegato 9[^t-7]
 
 (art. 32 cpv. 1 e 2)
 
@@ -1539,10 +1596,10 @@ Allegato 9[^t-6]
 
 [^annex9-lvlu1-1]
 
-[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 [^annex9-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 10[^t-7]
+Allegato 10[^t-8]
 
 (art. 35 lett. a e b)
 
@@ -1550,8 +1607,8 @@ Allegato 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Nuovo testo giusta la cifra I cpv. 3 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), dalle cifre II cpv. 1 delle O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
-[^annex10-lvlu1-1]: Il contenuto dei presenti all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-8]: Nuovo testo giusta la cifra I cpv. 3 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), dalle cifre II cpv. 1 delle O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), del 26 nov. 2025 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) e del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/374](https://fedlex.data.admin.ch/eli/oc/2026/374) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11
 
@@ -1559,7 +1616,7 @@ Allegato 11
 
 ## Simbolo «Non mangiare»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image2.png)
 
 Allegato 12
 
@@ -1595,13 +1652,13 @@ La dichiarazione di conformità di cui all’articolo 39 capoverso 2 deve conten
 
 La dichiarazione di conformità deve consentire di individuare facilmente i materiali e oggetti attivi e intelligenti, i componenti usati per fabbricarli o le sostanze usate per la fabbricazione dei componenti e deve essere rinnovata quando modifiche significative della produzione comportano cambiamenti della migrazione o quando sono disponibili nuovi dati scientifici.
 
-Allegato 13[^t-8]
+Allegato 13[^t-9]
 
 (art. 40*b* cpv. 1)
 
 ## Requisiti particolari per le vernici e i rivestimenti
 
-[^t-8]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalle cifre II cpv. 2 dell’O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^t-9]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalle cifre II cpv. 2 dell’O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), del 26 nov. 2025, ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) e del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
 
 ### 1. BADGE, BFDGE e NOGE
 
@@ -1643,36 +1700,34 @@ Allegato 13[^t-8]
 ### 2 Bisfenolo A
 
 - 2\.1 Il 2,2-bis(4-idrossifenil)propano (BPA, CAS-Nr. 80‑05‑7) e i suoi sali possono essere utilizzati soltanto conformemente alle disposizioni dell’articolo 3 paragrafo 2 e dell’allegato II del regolamento (UE) 2024/3190[^annex13-lvlu1-lvl2-1].
-- 2\.2 In deroga al numero 2.1, il BPA può essere utilizzato come monomero o sostanza di partenza nella fabbricazione di resine epossidiche liquide da applicare su materiali o su oggetti autoportanti di capacità superiore a 1000 litri. La migrazione nelle derrate alimentari non deve essere rilevabile. Il limite di rilevazione è fissato a 1 μg/kg di derrate alimentari. Gli oggetti finiti destinati a venire a contatto con le derrate alimentari devono essere puliti e lavati prima di venire a contatto per la prima volta con le derrate alimentari.
-- 2\.3 Per verificare che un materiale o un oggetto non contenga BPA, occorre utilizzare un metodo di estrazione. Il limite di rilevazione del metodo deve essere pari a 1 μg/kg.
+- 2\.2 Per verificare che un materiale o un oggetto non contenga BPA, occorre utilizzare un metodo di estrazione. Il limite di rilevazione del metodo deve essere pari a 1 μg/kg.
 
-[^annex13-lvlu1-lvl2-1]: Regolamento (UE) 2024/3190 della Commissione, del 19 dicembre 2024 relativo all’utilizzo del bisfenolo A (BPA) e di altri bisfenoli e derivati di bisfenoli con classificazione armonizzata per specifiche proprietà pericolose in determinati materiali e oggetti destinati a venire a contatto con i prodotti alimentari, che modifica il regolamento (UE) n. 10/2011 e che abroga il regolamento (UE) 2018/213, GU L 2024/3190, 31.12.2024.
+[^annex13-lvlu1-lvl2-1]: Regolamento (UE) 2024/3190 della Commissione, del 19 dicembre 2024, relativo all’utilizzo del bisfenolo A (BPA) e di altri bisfenoli e derivati di bisfenoli con classificazione armonizzata per specifiche proprietà pericolose in determinati materiali e oggetti destinati a venire a contatto con i prodotti alimentari, che modifica il regolamento (UE) n. 10/2011 e che abroga il regolamento (UE) 2018/213, GU L, 2024/3190, 31.12.2024, modificato da ultimo dal regolamento (EU) 2026/250, GU L, 2026/250, 3.2.2026.
 
 ### 3 Bisfenoli e derivati di bisfenoli
 
 - 3\.1 Valgono le strutture chimiche seguenti:
 
 <table>
-<tr><td>Bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/it/xml/image/image3.png)</td></tr>
-<tr><td>Derivato di un bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/it/xml/image/image4.png)</td></tr>
+<tr><td>Bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image3.png)</td></tr>
+<tr><td>Derivato di un bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image4.png)</td></tr>
 <tr><td colspan="2">X si riferisce a qualsiasi gruppo ponte che separa i due anelli fenili mediante un unico atomo, ma l’atomo può avere uno o più sostituenti. Le sostanze da R<sub>1</sub> a R<sub>10</sub> si riferiscono a qualsiasi sostituente. Almeno uno dei sostituenti non è un atomo di idrogeno.</td></tr>
 </table>
 
 - 3\.2 I rivestimenti e le vernici di materiali e oggetti fabbricati utilizzando un altro bisfenolo o un derivato di un bisfenolo non possono contenere residui di 2,2-bis(4-idrossifenil)propano (BPA, n. CAS 80-05-7).
-- 3\.3 Un bisfenolo pericoloso o un derivato pericoloso di un bisfenolo è un bisfenolo o un derivato di un bisfenolo classificato in modo armonizzato come «mutageno» , «cancerogeno» o «tossico per la riproduzione» di categoria 1A o 1B ai sensi dell’allegato 2 numero 1 OPChim[^annex13-lvlu1-lvl3-1] oppure come «interferente endocrino per la salute umana» di categoria 1 (sostanza CMRED).
-- 3\.4 I bisfenoli pericolosi diversi dal BPA o di derivati pericolosi di bisfenoli possono essere utilizzati soltanto conformemente alle disposizioni dell’articolo 5 paragrafi 2 e 3 e dell’allegato II del regolamento (UE) 2024/3190[^annex13-lvlu1-lvl3-2].
+- 3\.3 Un bisfenolo pericoloso o un derivato pericoloso di un bisfenolo è un bisfenolo o un derivato di un bisfenolo classificato in modo armonizzato secondo l’allegato 2 numero 1 OPChim[^annex13-lvlu1-lvl3-1] come «mutageno» di categoria 1A o 1B, «cancerogeno», «tossico per la riproduzione» oppure come «interferente endocrino per la salute umana» di categoria 1.
+- 3\.4 I bisfenoli pericolosi diversi dal BPA o di derivati pericolosi di bisfenoli possono essere utilizzati soltanto conformemente alle disposizioni dell’articolo 5 paragrafi 2 e 3 e dell’allegato II del regolamento (UE) 2024/3190.
 - 3\.5 Per verificare che un materiale o un oggetto non contenga un bisfenolo pericoloso o un derivato pericoloso di un bisfenolo, occorre utilizzare un metodo di estrazione. Il limite di rilevazione del metodo deve essere pari a 1 μg/kg.
 
 [^annex13-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
-[^annex13-lvlu1-lvl3-2]: Regolamento (UE) 2024/3190 della Commissione, del 19 dicembre 2024 relativo all’utilizzo del bisfenolo A (BPA) e di altri bisfenoli e derivati di bisfenoli con classificazione armonizzata per specifiche proprietà pericolose in determinati materiali e oggetti destinati a venire a contatto con i prodotti alimentari, che modifica il regolamento (UE) n. 10/2011 e che abroga il regolamento (UE) 2018/213, GU L 2024/3190, 31.12.2024.
 
-Allegato 14[^t-9]
+Allegato 14[^t-10]
 
 (art. 40*b* cpv. 2)
 
 ## Dichiarazione di conformità per le vernici e i rivestimenti
 
-[^t-9]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra II cpv. 2 dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^t-10]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra II cpv. 2 dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 La dichiarazione di conformità di cui all’articolo 40*b* capoverso 2 deve contenere le seguenti informazioni:
 
@@ -1683,13 +1738,13 @@ La dichiarazione di conformità di cui all’articolo 40*b* capoverso 2 deve con
 - e. la conferma che la vernice o il rivestimento è conforme alle prescrizioni legali applicabili;
 - f. un elenco dei bisfenoli o dei derivati di bisfenoli utilizzati nella fabbricazione del materiale o dell’oggetto.
 
-Allegato 15[^t-10]
+Allegato 15[^t-11]
 
 (art. 35*a* cpv. 2)
 
 ## Dichiarazione di conformità per inchiostri per imballaggi
 
-[^t-10]: Introdotto dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-11]: Introdotto dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 La dichiarazione di conformità secondo l’articolo 35*a* capoverso 2 deve contenere le informazioni rilevanti per ogni fase di fabbricazione contenute nel seguente elenco:
 
@@ -1701,8 +1756,8 @@ La dichiarazione di conformità secondo l’articolo 35*a* capoverso 2 deve cont
 - 6\. informazioni adeguate circa le sostanze impiegate o i prodotti di degradazione e di reazione e le impurità, così da consentire alle persone responsabili a valle di rispettare l’ordinanza; queste informazioni includono in particolare la denominazione e la quantità delle sostanze nel materiale della relativa fase intermedia di fabbricazione che possono essere presenti in quantità tali da provocare una migrazione dal materiale finito alla derrata alimentare o al simulante alimentare;
 - 7\. informazioni adeguate circa le sostanze il cui uso nelle derrate alimentari è soggetto a restrizioni specifiche, ottenute da dati sperimentali o da calcoli teorici sui rispettivi livelli di migrazione specifica e, all’occorrenza, speciali criteri di purezza secondo l’OAdd[^annex15-lvlu1-1], così da consentire alle persone che utilizzano l’oggetto d’uso di rispettare le prescrizioni pertinenti per le derrate alimentari;
 - 8\. le specifiche relative all’utilizzazione degli inchiostri per imballaggi, quali:
-- 8\.1. i gruppi di materiali e oggetti sui quali l’inchiostro per imballaggi può essere utilizzato,
-- 8\.2. le derrate alimentari che entrano a contatto con il materiale o l’oggetto stampato:
+- 8\.1 i gruppi di materiali e oggetti sui quali l’inchiostro per imballaggi può essere utilizzato,
+- 8\.2 le derrate alimentari che entrano a contatto con il materiale o l’oggetto stampato:
 - 8\.2.1 i tipi di derrate alimentari con cui può entrare in contatto
 - 8\.2.2 la durata e la temperatura di trattamento e immagazzinamento a contatto con la derrata alimentare
 - 8\.2.3 il rapporto massimo tra il volume e la superficie a contatto con la derrata alimentare, in base al quale è stata verificata la conformità, oppure informazioni equivalenti,

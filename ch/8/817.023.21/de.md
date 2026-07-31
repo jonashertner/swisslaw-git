@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: "Verordnung des EDI vom 16. Dezember 2016 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenständeverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: de
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260101/de"
 
 (Bedarfsgegenständeverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. Januar 2026)
+vom 16. Dezember 2016 (Stand am 1. August 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -705,13 +705,9 @@ Folgende Bewilligungen gemäss Artikel 10 der Verordnung des EDI vom 23. Novembe
 
 #### Art. 43b
 
-**Übergangsbestimmung zur Änderung vom 8. Dezember 2023**[^43b-1]
+[^43b-1]
 
-<sup>1</sup> Bedarfsgegenstände, die den Anforderungen von Artikel 35–35*b* und Anhang 15 der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2026 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und an die Konsumentinnen und Konsumenten abgegeben werden.
-
-<sup>2</sup> Bedarfsgegenstände, die den übrigen Anforderungen der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen nach bisherigem Recht noch bis zum zum 31. Januar 2025 eingeführt, hergestellt und gekennzeichnet werden. Sie dürfen noch bis zum Abbau der Bestände an die Konsumentinnen und Konsumenten abgegeben werden.
-
-[^43b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^43b-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)). Aufgehoben durch Ziff. I der V des BLV vom 19. Juni 2026, mit Wirkung seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
 
 #### Art. 43c
 
@@ -738,6 +734,18 @@ Bedarfsgegenstände, die den Anforderungen der Änderung vom 26. November 2025 n
 
 [^43d-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
+#### Art. 43e
+
+**Übergangsbestimmungen zur Änderung vom 19. Juni 2026**[^43e-1]
+
+<sup>1</sup> Bedarfsgegenstände, die den Anforderungen der Änderung vom 19. Juni 2026 nicht entsprechen, dürfen noch bis zum 1. August 2027 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und an die Konsumentinnen und Konsumenten abgegeben werden.
+
+<sup>2</sup> Fertige Mehrwegbedarfsgegenstände, die Stoffe nach Eintrag 136 in Tabelle 1 von Anhang 2 oder nach Eintrag 136 in Tabelle 1 von Anhang 10 dieser Verordnung in der Fassung vom 13. November 2024[^43e-2] enthalten, sowie fertige Mehrwegbedarfsgegenstände, die Anhang 13 Ziffer 2 oder Anhang 14 der Änderung vom 2. Juni 2025[^43e-3] nicht entsprechen, dürfen noch bis zum 20. Juli 2026 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und in Verkehr gebracht werden. Die erwähnten Bedarfsgegenstände dürfen noch bis zum 20. Juli 2027 an die Konsumentinnen und Konsumenten abgegeben werden.
+
+[^43e-1]: Eingefügt durch Ziff. I der V des BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
+[^43e-2]: [AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
+[^43e-3]: [AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)
+
 #### Art. 44
 
 **Inkrafttreten**
@@ -750,7 +758,7 @@ Anhang 1
 
 ## Symbol zur Bezeichnung des Verwendungszwecks entsprechend gekennzeichneter Bedarfsgegenstände
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image1.png)
 
 Anhang 2[^t-1]
 
@@ -760,8 +768,8 @@ Anhang 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) und Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) und vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/374](https://fedlex.data.admin.ch/eli/oc/2026/374) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
@@ -805,7 +813,7 @@ Anhang 4[^t-3]
 
 ## Bestimmungen über die Bewertung der Einhaltung der Migrationsgrenzwerte bei Bedarfsgegenständen aus Kunststoff
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) und Ziff. II Abs. 2 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. II Abs. 2 der V des BLV vom 26. Nov. 2025 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) und vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
 
 ### 1 Lebensmittelsimulanzien
 
@@ -947,12 +955,13 @@ Tabelle 2 Zuordnung von Lebensmittelsimulanzien zu Lebensmitteln
 <tr><td>07.02</td><td>Fermentierte Milch wie Joghurt, Buttermilch und ähnliche Erzeugnisse</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
 <tr><td>07.03</td><td>Rahm und Sauerrahm</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
 <tr><td>07.04</td><td>Käse:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>A. Ganz, mit nicht essbarer Rinde</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td>X</td></tr>
-<tr><td></td><td>B. Natürlicher Käse ohne Rinde oder mit essbarer Rinde (Gouda, Camembert und dergleichen) sowie Schmelzkäse</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X/3(\*\*)</td><td></td></tr>
-<tr><td></td><td>C. Verarbeiteter Käse (Weichkäse, Hüttenkäse und dergleichen)</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>D. Haltbar gemachter Käse:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>I. In ölhaltigem Medium</td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="4">X</td><td></td></tr>
-<tr><td></td><td>II. In wässrigem Medium (Feta, Mozzarella und dergleichen)</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>A. Ganzer Käse mit nicht essbarer Rinde</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td>X</td></tr>
+<tr><td></td><td>B. Ungereifter Weichkäse (Frischkäse), z. B. Hüttenkäse, Quark, Ricotta, Rahmkäse, Fromage Frais und ähnliche Käsesorten</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>C. In Scheiben geschnittener gereifter weicher, fester oder harter Käse, oder ganzer Käse mit essbarer Rinde, z. B. Gouda, Cheddar, Gruyère, Parmesan, Stilton, Tallegio, Beaufort, Tomino, Brie, Camembert und ähnliche Käsesorten</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X/3</td><td></td></tr>
+<tr><td></td><td>D. Verarbeiteter Käse, z. B. Stücke, Aufstriche und Scheiben</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X/3</td><td></td></tr>
+<tr><td></td><td>E. Salzlakenkäse oder Frischkäse in flüssigem Medium, z. B. Feta und Mozzarella:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>I. in ölhaltigem Medium</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">X</td><td></td></tr>
+<tr><td></td><td>II. in wässrigem Medium (Feta, Mozzarella und dergleichen)</td><td></td><td>X(\*)</td><td></td><td colspan="2">X</td><td colspan="4"></td><td></td></tr>
 <tr><td>08</td><td>Verschiedene Erzeugnisse</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
 <tr><td>08.01</td><td>Essig</td><td></td><td>X</td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
 <tr><td>08.02</td><td>Gebratene oder geröstete Lebensmittel:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td></td></tr>
@@ -1009,30 +1018,57 @@ Abweichend von der Zuordnung von Lebensmittelsimulanzien gemäss den Ziffern 1.2
 
 ### 2 Konformitätsprüfung
 
-Für die Prüfung der Konformität der Migration aus Bedarfsgegenständen aus Kunststoff gelten folgende Regelungen.
+Für die Prüfung der Konformität der Migration aus Bedarfsgegenständen aus Kunststoff wird eine Analysemethode gemäss den Anforderungen von Artikel 34 der Verordnung (EU) 2017/625[^annex4-lvlu1-lvl2-1] ausgewählt, bei der die folgenden spezifischen Leistungskriterien angewandt werden:
+
+- i)
+
+  Der Arbeitsbereich der Analysemethode muss mindestens R<sub>L</sub> × SML bis R<sub>U</sub> × SML sein, wie in den einschlägigen Leitlinien beschrieben, wobei:
+
+  - – RL der relative untere Schwellenwert für den Arbeitsbereich der Methode ist;
+  - – RU der relative obere Schwellenwert für den Arbeitsbereich der Methode ist.
+  - – RU muss 2 betragen. RL muss 0,2 betragen, es sei denn, 0,2 × SML liegt unterhalb der analytischen Bestimmungsgrenze (LOQ) des Stoffes, dann wird RL × SML auf die LOQ des Stoffes festgesetzt.
+
+- ii) Vor der Überprüfung der Konformität mit einem SML muss das spezifische Migrationsprüfergebnis *m*, falls relevant:
+- (1) um das tatsächliche Verhältnis Oberfläche zu Volumen ((S/V)<sub>real</sub>) und das Verhältnis Oberfläche zu Volumen (S/V)<sub>test</sub> gemäss Ziffer 2.1 dieses Anhangs; oder
+- (2) um den Korrekturfaktor (C<sub>T2</sub>), der in den Unterspalten für die Lebensmittelsimulanzien D2 und E in Tabelle 2 dieses Anhangs verwendet wird; oder
+- (3) um den Fettreduktionsfaktor (FRF) gemäss Ziffer 2.5.1 dieses Anhangs korrigiert werden.
+- Werden die Ergebnisse unter Anwendung von C<sub>T2</sub> in Kombination mit dem FRF gemäss Ziffer 2.5.1 korrigiert, so darf der kombinierte Korrekturfaktor 5 nicht überschreiten, es sei denn, der in Tabelle 2 festgelegte Korrekturfaktor überschreitet 5.
+- iii) Der Variationskoeffizient der Reproduzierbarkeit CV<sub>R</sub>, der bei Multiplikation mit 100 in Prozent ausgedrückt werden kann, wird zur Berechnung der relativen Standardmessunsicherheit verwendet, um die Konformität zu bewerten. Für die Berechnung des CV<sub>R</sub> gelten folgende Formeln:
+- CV<sub>R</sub> = 0,22 für *m**<sub>c</sub>* &lt; 0,12 × 10<sup>–6</sup> kg/kg; und
+- CV<sub>R</sub> = 2<sup>(1–½log(m</sup>c<sup>))</sup>/100 für 0,12 × 10<sup>–6</sup> kg/kg ≤ *m**<sub>c</sub>* ≤ 0,138 kg/kg;
+- wobei *m**<sub>c</sub>* das spezifische Migrationstestergebnis eines Stoffes oder gegebenenfalls das korrigierte spezifische Migrationsergebnis ist, das anhand des in dieser Verordnung festgelegten SML zu bewerten ist, und die Standardmessunsicherheit von *m**<sub>c</sub>* eines Stoffes, u(*m**<sub>c</sub>*), wie folgt bestimmt wird: u(*m**<sub>c</sub>*) = CV<sub>R</sub> × *m**<sub>c</sub>*.
+- iv) Die Konformität mit dem SML wird dann anhand des folgenden spezifischen Leistungskriteriums bewertet, wobei *m**<sub>c</sub>* anhand des SML zu bewerten ist:
+- Wenn (*m**<sub>c</sub>* – SML)/[u(*m**<sub>c</sub>*)] &gt; 1,64, dann überschreitet *m**<sub>c</sub>* den SML.
+- Ist *m**<sub>c</sub>* höher als der SML, gilt das *m**<sub>c</sub>* eines Stoffes als nicht konform. Darüber hinaus gelten die Vorschriften der Ziffern 2.3 bis 2.5.1 dieses Anhangs.
 
 ### 2.1 Berechnung der Ergebnisse von Migrationsprüfungen
 
-Zur Überprüfung der Konformität werden die spezifischen Migrationswerte ausgedrückt in mg/kg unter Anwendung des tatsächlichen Verhältnisses Oberfläche zu Volumen bei der tatsächlichen oder geplanten Verwendung.
+[^annex4-lvlu1-lvl2-1]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2024/3115, ABl. L, 2024/3115, 16.12.2024.
 
-Abweichend von Paragraf 1 wird für folgende Bedarfsgegenstände der Migrationswert in mg/kg ausgedrückt unter Anwendung eines Verhältnisses Oberfläche zu Volumen von 6 dm<sup>2</sup> je kg Lebensmittel:
+- 1\. Zur Überprüfung der Konformität werden die spezifischen Migrationswerte ausgedrückt in mg/kg unter Anwendung des tatsächlichen Verhältnisses Oberfläche zu Volumen bei der tatsächlichen oder geplanten Verwendung.
+- 2\.
 
-- a. Behältnisse und sonstige Gegenstände, die weniger als 500 ml oder g oder aber mehr als 10 l fassen oder dazu bestimmt sind;
-- b. Bedarfsgegenstände, bei denen aufgrund ihrer Form das Verhältnis zwischen Oberfläche des Bedarfsgegenstands und der mit ihnen in Berührung kommenden Lebensmittelmenge nicht ermittelt werden kann;
-- c. Platten und Folien, die noch nicht mit Lebensmitteln in Berührung sind;
-- d. Platten und Folien, die weniger als 500 ml oder g oder aber mehr als 10 l fassen.
+  Abweichend von Absatz 1 kann für folgende Bedarfsgegenstände ein Verhältnis Oberfläche zu Volumen von mindestens 6 dm<sup>2</sup> je kg Lebensmittel angewendet werden:
 
-Paragraf 2 gilt nicht für Bedarfsgegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln für Säuglinge und Kleinkinder gemäss der Verordnung des EDI vom 16. Dezember 2016[^annex4-lvlu1-lvl2-lvl21-1] über Lebensmittel für Personen mit besonderem Ernährungsbedarf in Berührung gebracht zu werden, oder die bereits damit in Berührung sind.
+  - a. Behältnisse und sonstige Gegenstände, die ein Volumen von weniger als 500 ml oder mehr als 10 l fassen oder dazu bestimmt sind;
+  - b. Bedarfsgegenstände, bei denen aufgrund ihrer Form das Verhältnis zwischen ihrer Oberfläche und der mit ihnen in Berührung kommenden Lebensmittelmenge nicht ermittelt werden kann;
+  - c. Platten und Folien, die noch nicht mit Lebensmitteln in Berührung sind;
+  - d. Platten und Folien, die ein Volumen von weniger als 500 ml oder mehr als 10 l fassen.
 
-Abweichend von Paragraf 1 wird der spezifische Migrationswert für Kappen, Dichtungen, Stöpsel und ähnliche Dichtgegenstände ausgedrückt in:
+- Dieser Absatz gilt nicht für Bedarfsgegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln für Säuglinge und Kleinkinder gemäss der Verordnung des EDI vom 16. Dezember 2016[^annex4-lvlu1-lvl2-lvl21-1] über Lebensmittel für Personen mit besonderem Ernährungsbedarf in Berührung gebracht zu werden, oder die bereits damit in Berührung sind.
+- 3\.
 
-- a. mg/kg unter Verwendung des tatsächlichen Inhalts des Behältnisses, für das der Verschluss bestimmt ist, unter Anwendung der gesamten Kontaktfläche zwischen Dichtgegenstand und abgedichtetem Behältnis, sofern die vorgesehene Verwendung des Gegenstands bekannt ist, wobei die Bestimmungen von Paragraf 2 zu berücksichtigen sind;
-- b. mg/Gegenstand, sofern die vorgesehene Verwendung des Gegenstands nicht bekannt ist.
+  Abweichend von Absatz 1 wird der spezifische Migrationswert für Kappen, Dichtungen, Stöpsel und ähnliche Dichtgegenstände ausgedrückt in:
 
-Für Kappen, Dichtungen, Stöpsel und ähnliche Dichtgegenstände wird der Gesamtmigrationswert ausgedrückt in:
+  - a. mg/kg unter Verwendung des tatsächlichen Inhalts des Behältnisses, für das der Verschluss bestimmt ist, unter Anwendung der gesamten Kontaktfläche zwischen Dichtgegenstand und abgedichtetem Behältnis, sofern die vorgesehene Verwendung des Gegenstands bekannt ist, wobei die Bestimmungen von Absatz 2 zu berücksichtigen sind;
+  - b. mg/Gegenstand, sofern die vorgesehene Verwendung des Gegenstands nicht bekannt ist.
 
-- a. mg/dm<sup>2</sup> unter Anwendung der gesamten Kontaktfläche zwischen Dichtgegenstand und abgedichtetem Behältnis, sofern die vorgesehene Verwendung des Gegenstands bekannt ist;
-- b. mg/Gegenstand, sofern die vorgesehene Verwendung des Gegenstands nicht bekannt ist.
+- 4\.
+
+  Für Kappen, Dichtungen, Stöpsel und ähnliche Dichtgegenstände wird der Gesamt-migrationswert ausgedrückt in:
+
+  - a. mg/dm<sup>2</sup> unter Anwendung der gesamten Kontaktfläche zwischen Dichtgegenstand und abgedichtetem Behältnis, sofern die vorgesehene Verwendung des Gegenstands bekannt ist;
+  - b. mg/Gegenstand, sofern die vorgesehene Verwendung des Gegenstands nicht bekannt ist.
 
 [^annex4-lvlu1-lvl2-lvl21-1]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
@@ -1110,13 +1146,11 @@ Am Ende der vorgeschriebenen Kontaktdauer wird zur Prüfung der Konformität die
 
 ### 2.3.3.2 Mehrwegbedarfsgegenstände
 
-Die betreffende Prüfung der Gesamtmigration wird dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulanz durchgeführt. Die Migration wird unter Verwendung einer Analysemethode gemäss den Anforderungen in Artikel 34 der Verordnung (EU) 2017/625[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1] bestimmt. Die Gesamtmigration muss bei der zweiten Prüfung niedriger sein als bei der ersten Prüfung, und bei der dritten Prüfung muss die Gesamtmigration niedriger sein als bei der zweiten Prüfung. Die Konformität mit dem Gesamtmigrationsgrenzwert wird auf der Grundlage der bei der dritten Prüfung ermittelten Gesamtmigration festgestellt.
+Die betreffende Prüfung der Gesamtmigration wird dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulanz durchgeführt. Die Migration wird unter Verwendung einer Analysemethode gemäss den Anforderungen von Artikel 34 der Verordnung (EU) 2017/625 bestimmt. Die Konformität mit dem Gesamtmigrationsgrenzwert wird auf der Grundlage der bei der dritten Prüfung ermittelten Gesamtmigration sowie anhand der Stabilität des Materials oder des Gegenstands festgestellt, d. h. die Gesamtmigration darf bei der zweiten Prüfung nicht den Wert überschreiten, der bei der ersten Prüfung ermittelt wurde, und bei der dritten Prüfung darf die Gesamtmigration nicht den Wert überschreiten, der bei der zweiten Prüfung ermittelt wurde. Die Konformität wird anhand der in Ziffer 2.4.2.1.6 beschriebenen spezifischen Leistungskriterien bewertet. Zur Bestimmung von u(*m*) ist jedoch die vom Labor ermittelte Standardmessunsicherheit der Analysemethode zu verwenden und nicht die Standardmessunsicherheit, die auf der Grundlage des in Ziffer 2 beschriebenen Ansatzes abgeleitet wird.
 
-Ist es technisch nicht möglich, dieselbe Probe dreimal zu prüfen, etwa wenn die Prüfung in Pflanzenöl erfolgt, können zur Prüfung der Gesamtmigration unterschiedliche Proben während drei verschiedener Zeiträume, die dem Ein-, Zwei- und Dreifachen der für die Prüfung vorgesehenen Kontaktdauer entsprechen, geprüft werden. Als Gesamtmigration gilt die Differenz zwischen dem dritten und dem zweiten Prüfungsergebnis. Die Konformität wird anhand dieser Differenz festgestellt, die den Gesamtmigrationsgrenzwert nicht überschreiten darf. Ausserdem muss die Differenz zwischen dem zweiten und dem dritten Prüfungsergebnis niedriger sein als das Ergebnis der ersten Prüfung, und die Differenz zwischen dem dritten und dem zweiten Prüfungsergebnis muss niedriger sein als die Differenz zwischen dem zweiten und dem ersten Prüfungsergebnis.
+Wenn es technisch nicht möglich ist, dieselbe Probe dreimal zu prüfen, etwa wenn die Prüfung in Pflanzenöl erfolgt, können zur Prüfung der Gesamtmigration unterschiedliche Proben während drei verschiedener Zeiträume, die dem Ein-, Zwei- und Dreifachen der für die Prüfung vorgesehenen Kontaktdauer entsprechen, geprüft werden. Die erste Migration, die Differenz zwischen der zweiten und der ersten Migration und die Differenz zwischen der dritten und der zweiten Migration sind als die drei aufeinanderfolgenden Gesamtmigrationen zu betrachten.
 
-Belegen wissenschaftliche Erkenntnisse, dass beim zu prüfenden Bedarfsgegenstand die Gesamtmigration bei der zweiten und der dritten Prüfung sinkt, und wird der Gesamtmigrationsgrenzwert bei der ersten Prüfung nicht überschritten, so ist abweichend von den Bestimmungen in Absatz 1 die erste Prüfung allein ausreichend.
-
-[^annex4-lvlu1-lvl2-lvl23-lvl233-lvl2332-1]: Siehe Fussnote zu Anhang 4 Ziffer 2.3.3.1.
+Liegen jedoch wissenschaftliche Nachweise dafür vor, dass der Migrationswert gemäss Ziffer 2.4.2.1.6 während der zweiten und dritten Migrationsprüfung nicht steigt, und wird der Migrationsgrenzwert im Laufe der ersten Migrationsprüfung nicht überschritten, so gilt das Material oder der Gegenstand als konform mit dem Gesamtmigrationsgrenzwert.
 
 ### 2.3.4 Screeningverfahren
 
@@ -1254,19 +1288,31 @@ Ist ein Bedarfsgegenstand für verschiedene Anwendungen unter verschiedenen Komb
 
 Ist der Bedarfsgegenstand für eine Lebensmittelkontaktanwendung bestimmt, bei der er nacheinander einer Kombination von mindestens zwei Kontaktdauern und ‑temperaturen ausgesetzt ist, so wird das Probeexemplar bei der Migrationsprüfung nacheinander allen für die Probe geltenden ungünstigsten vorhersehbaren Bedingungen unter Verwendung derselben Portion des Lebensmittelsimulans unterworfen.
 
-### 2.4.2.1.6Mehrweggegenstände
+### 2.4.2.1.6Mehrwegbedarfsgegenstände
 
-Ist der Bedarfsgegenstand dazu bestimmt, wiederholt mit Lebensmitteln in Berührung zu kommen, so werden die Migrationsprüfungen dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulanz durchgeführt. Die spezifische Migration darf bei der zweiten Prüfung den Wert nicht überschreiten, der bei der ersten Prüfung ermittelt wurde. Bei der dritten Prüfung darf die spezifische Migration den Wert nicht überschreiten, der bei der zweiten Prüfung ermittelt wurde.
+- 1\. Ist der Bedarfsgegenstand dazu bestimmt, wiederholt mit Lebensmitteln in Berührung zu kommen, so wird die Migrationsprüfung dreimal an ein und derselben Probe unter Verwendung einer jeweils anderen Portion des Lebensmittelsimulanz durchgeführt. Die Konformität des Bedarfsgegenstands wird anhand der spezifischen Migration geprüft, die bei der dritten Migrationsprüfung ermittelt wurde, sowie anhand der Stabilität des Bedarfsgegenstands. Die bei der zweiten Migrationsprüfung ermittelte spezifische Migration darf nicht den Wert überschreiten, der bei der ersten Prüfung ermittelt wurde, und bei der dritten Prüfung darf die spezifische Migration nicht den Wert überschreiten, der bei der zweiten Prüfung ermittelt wurde.
+- 2\. Für die Zwecke von Absatz 1 gilt die Probe als nicht konform, wenn:
+- *m**<sub>c</sub>*<sub>, 3</sub> &gt; SML; oder
+- *m**<sub>c</sub>*<sub>, 1</sub> &lt; *m**<sub>c</sub>*<sub>, 2</sub>; oder
+- *m**<sub>c</sub>*<sub>, 2</sub> &lt; *m**<sub>c</sub>*<sub>, 3</sub>; oder
+- *m**<sub>c</sub>*<sub>, 1</sub> &lt; *m**<sub>c</sub>*<sub>, 3</sub>;
+- wobei *m**<sub>c</sub>*<sub>, 1</sub>, *m**<sub>c</sub>*<sub>, 2</sub> und *m**<sub>c</sub>*<sub>, 3</sub> der *m**<sub>c</sub>* bei der ersten, der zweiten oder der dritten Migrationsprüfung gemäss Absatz 1 sind.
+- 3\.
 
-Die Konformität des Bedarfsgegenstands wird anhand der Migration geprüft, die bei der dritten Prüfung ermittelt wurde, sowie anhand der Stabilität des Bedarfsgegenstands von der ersten bis zur dritten Migrationsprüfung. Die Stabilität des Materials gilt als unzureichend, wenn bei einer der drei Migrationsprüfungen eine Migration oberhalb der Nachweisgrenze festgestellt wird und wenn sie von der ersten bis zur dritten Migrationsprüfung ansteigt. Im Fall der unzureichenden Stabilität wird die Konformität des Materials selbst dann nicht festgestellt, wenn der spezifische Migrationsgrenzwert bei keiner der drei Prüfungen überschritten wird.
+  Die Konformität mit dem SML und der Stabilitätsregel ist anhand folgender Kriterien zu bewerten:
 
-Liegt ein schlüssiger wissenschaftlicher Nachweis dafür vor, dass der Migrationswert bei der zweiten und der dritten Prüfung sinkt, und werden die Migrationsgrenzwerte bei der ersten Prüfung nicht überschritten, so ist keine weitere Prüfung erforderlich.
+  - – wenn (*m**<sub>c</sub>*<sub>, 3</sub> – SML)/[u(*m**<sub>c</sub>*<sub>, 3</sub>)] &gt; 1,64, dann ist die dritte Migration höher als der SML;
+  - – wenn (*m**<sub>c</sub>*<sub>, 2</sub> – *m**<sub>c</sub>*<sub>, 1</sub>)/[u(*m**<sub>c</sub>*<sub>, 2</sub>) + u(*m**<sub>c</sub>*<sub>, 1</sub>)] &gt; 1,64, dann ist die erste Migration kleiner als die zweite Migration;
+  - – wenn (*m**<sub>c</sub>*<sub>, 3</sub> – *m**<sub>c</sub>*<sub>, 2</sub>)/[u(*m**<sub>c</sub>*<sub>, 3</sub>) + u(*m**<sub>c</sub>*<sub>, 2</sub>)] &gt; 1,64, dann ist die zweite Migration kleiner als die dritte Migration;
+  - – wenn (*m**<sub>c</sub>*<sub>, 3</sub> – *m**<sub>c</sub>*<sub>, 1</sub>)/[u(*m**<sub>c</sub>*<sub>, 3</sub>) + u(*m**<sub>c</sub>*<sub>, 1</sub>)] &gt; 1,64, dann ist die erste Migration kleiner als die dritte Migration.
 
-In Abweichung von den obigen Bestimmungen ist ein Bedarfsgegenstand in keinem Fall als konform einzustufen, wenn bei der ersten Prüfung ein Stoff nachgewiesen wird, für den der spezifische Migrationsgrenzwert als nicht nachweisbar festgelegt ist.
+- 4\. Ist *m**<sub>c</sub>* kleiner als R<sub>L</sub> × SML, so gilt: *m**<sub>c</sub>* ist gleich R<sub>L</sub> × SML. Dieser *m**<sub>c</sub>* ist zur Bestimmung der entsprechenden Standardmessunsicherheit des *m**<sub>c</sub>* und zur Bewertung der Konformität mit den unter dieser Nummer festgelegten Leistungskriterien zu verwenden.
+- 5\. Liegen jedoch wissenschaftliche Nachweise dafür vor, dass der Wert der spezifischen Migration nicht wie in Absatz 2 beschrieben im Laufe der zweiten und dritten Migrationsprüfung steigt, und wird der SML bei der ersten Migrationsprüfung nicht überschritten, so gilt der Bedarfsgegenstand als konform mit dem in dieser Verordnung festgelegten SML.
+- 6\. In Abweichung von den obigen Bestimmungen ist ein Bedarfsgegenstand in keinem Fall als mit dieser Verordnung konform einzustufen, wenn bei einer der Migrationsprüfungen ein Stoff nachgewiesen wird, für den der spezifische Migrationsgrenzwert als nicht nachweisbar festgelegt ist.
 
 ### 2.4.2.1.7Analyse der migrierenden Stoffe
 
-Am Ende der vorgeschriebenen Berührungsdauer wird die spezifische Migration im Lebensmittel oder Lebensmittelsimulans unter Verwendung einer Analysemethode gemäss Artikel 46 LMVV untersucht.
+Am Ende der vorgeschriebenen Kontaktdauer wird die spezifische Migration im Lebensmittel oder Lebensmittelsimulanz unter Verwendung einer Analysemethode gemäss den in diesem Anhang festgelegten Leistungskriterien untersucht.
 
 ### 2.4.2.1.8Konformitätsprüfung durch den Restgehalt je mit Lebensmitteln in Kontakt stehender Fläche (QMA)
 
@@ -1315,26 +1361,37 @@ Die spezifische Migration in Lebensmitteln oder Lebensmittelsimulanzien darf hö
 
 Erfolgt die Prüfung in Lebensmittelsimulans D2 oder E und werden die Prüfungsergebnisse durch Anwendung des in Ziffer 1 Tabelle 2 festgelegten Korrekturfaktors korrigiert, so kann diese Korrektur mit dem FRF kombiniert werden, indem beide Faktoren miteinander multipliziert werden. Der kombinierte Korrekturfaktor darf 5 nicht übersteigen, es sei denn, der in Ziffer 1 Tabelle 2 festgelegte Korrekturfaktor beträgt mehr als 5.
 
-Anhang 5
+Anhang 5[^t-4]
 
 (Art. 20 Bst. a Ziff. 3)
 
-## Qualitätssicherungssystem für die Recyclingverfahren für Kunststoffe, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen
+## Mindestanforderungen an ein Qualitätssicherungssystem in Recyclinganlagen für Kunststoff, der dazu bestimmt ist mit Lebensmitteln in Berührung zu kommen
 
-Aufgrund des vom Recycler angewandten Qualitätssicherungssystems muss darauf vertraut werden können, dass das Recyclingverfahren gewährleistet, dass der recycelte Kunststoff die gesetzlichen Anforderungen erfüllt.
+[^t-4]: Fassung gemäss Ziff. II Abs. 3 der V des BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
 
-Alle Aspekte, Anforderungen und Vorschriften, die der Recycler in seinem Qualitätssicherungssystem berücksichtigt, sind systematisch und geordnet in Form schriftlicher Regeln und Verfahrensanweisungen zusammenzustellen.
+- 1\. Aufgrund des vom Recycler angewandten Qualitätssicherungssystems muss darauf vertraut werden können, dass alle in der Anlage stattfindenden Recyclingvorgänge gewährleisten, dass der recycelte Kunststoff die gesetzlichen Anforderungen erfüllt.
+- 2\. Alle Aspekte, Anforderungen und Vorschriften, die der Recycler in seinem Qualitätssicherungssystem berücksichtigt, sind systematisch und geordnet in Form schriftlicher Regeln und Verfahrensanweisungen zusammenzustellen.
+- Diese Dokumentation des Qualitätssicherungssystems muss eine einheitliche Auslegung der Qualitätsstrategie und der zugehörigen Verfahren – beispielsweise in Form von Qualitätsprogrammen, Plänen, Handbüchern, Aufzeichnungen und Massnahmen zur Gewährleistung der Rückverfolgbarkeit – ermöglichen.
+-
 
-Diese Dokumentation des Qualitätssicherungssystems muss eine einheitliche Auslegung der Qualitätsstrategie und der zugehörigen Verfahren – beispielsweise in Form von Qualitätsprogrammen, Plänen, Handbüchern, Aufzeichnungen und Massnahmen zur Gewährleistung der Rückverfolgbarkeit – ermöglichen.
+  Sie umfasst insbesondere:
 
-Sie umfasst insbesondere:
+  - a. ein Handbuch zur Qualitätsstrategie mit einer klaren Definition der Qualitätsziele des Recyclers und Angaben zur Organisation des Unternehmens, insbesondere zu den Organisationsstrukturen, den Zuständigkeiten der Führungskräfte und ihren organisatorischen Befugnissen in Bezug auf die Herstellung des recycelten Kunststoffs;
+  - b. Qualitätskontrollpläne, u. a. in Bezug auf folgende Aspekte: Beschreibung der Eigenschaften des Ausgangsmaterials und des recycelten Kunststoffs, Qualifikationen der Lieferanten, Sortierungsverfahren, Waschverfahren, Tiefenreinigungsverfahren, Erhitzungsverfahren und alle anderen Elemente des Recyclingverfahrens, die für die Qualität des recycelten Kunststoffs relevant sind, sowie kritische Punkte für die Kontrolle der Qualität des recycelten Kunststoffs;
+  - c. Angaben zu den angewandten Management- und operativen Verfahren zur Überwachung und Steuerung des gesamten Recyclingverfahrens, einschliesslich der Kontroll- und Qualitätssicherungsmechanismen in allen Herstellungsphasen, insbesondere zur Einrichtung kritischer Grenzwerte an den für die Qualität des recycelten Kunststoffs massgeblichen Punkten;
+  - d. Angaben zu den Methoden zur Überwachung der Wirksamkeit des Qualitätssicherungssystems, insbesondere der Eignung des Systems zur Sicherstellung der angestrebten Qualität des recycelten Kunststoffs, einschliesslich der Kontrolle nichtkonformer Produkte;
+  - e. Angaben zu den vor, während und nach der Herstellung des recycelten Kunststoffs angewandten Prüfungen und Analyseprotokollen, zur Häufigkeit ihrer Anwendung und zu den eingesetzten Prüfgeräten; es muss mit vertretbarem Aufwand möglich sein, die Kalibrierung dieser Prüfgeräte zurückzuverfolgen;
+  - f. Angaben zu den verwendeten Dokumentationsinstrumenten.
 
-- a. ein Handbuch zur Qualitätsstrategie mit einer klaren Definition der Qualitätsziele des Recyclers und Angaben zur Organisation des Unternehmens, insbesondere zu den Organisationsstrukturen, den Zuständigkeiten der Führungskräfte und ihren organisatorischen Befugnissen in Bezug auf die Herstellung des recycelten Kunststoffs;
-- b. Qualitätskontrollpläne, u. a. in Bezug auf folgende Aspekte: Beschreibung der Eigenschaften des Ausgangsmaterials und des recycelten Kunststoffs, Qualifikationen der Lieferanten, Sortierungsverfahren, Waschverfahren, Tiefenreinigungsverfahren, Erhitzungsverfahren und alle anderen Elemente des Recyclingverfahrens, die für die Qualität des recycelten Kunststoffs relevant sind, sowie kritische Punkte für die Kontrolle der Qualität des recycelten Kunststoffs;
-- c. Angaben zu den angewandten Management- und operativen Verfahren zur Überwachung und Steuerung des gesamten Recyclingverfahrens, einschliesslich der Kontroll- und Qualitätssicherungsmechanismen in allen Herstellungsphasen, insbesondere zur Einrichtung kritischer Grenzwerte an den für die Qualität des recycelten Kunststoffs massgeblichen Punkten;
-- d. Angaben zu den Methoden zur Überwachung der Wirksamkeit des Qualitätssicherungssystems, insbesondere der Eignung des Systems zur Sicherstellung der angestrebten Qualität des recycelten Kunststoffs, einschliesslich der Kontrolle nichtkonformer Produkte;
-- e. Angaben zu den vor, während und nach der Herstellung des recycelten Kunststoffs angewandten Prüfungen und Analyseprotokollen, zur Häufigkeit ihrer Anwendung und zu den eingesetzten Prüfgeräten; es muss mit vertretbarem Aufwand möglich sein, die Kalibrierung dieser Prüfgeräte zurückzuverfolgen;
-- f. Angaben zu den verwendeten Dokumentationsinstrumenten.
+- 3\. Das vom Recycler angewandte Qualitätssicherungssystem muss spezifische Vorgänge im Recyclingverfahren umfassen, und zwar sogenannte Qualitätsbewertungsstufen, bei denen der Recycler die Qualität jeder Materialcharge, die direkt aus einer Herstellungsstufe stammt, bewertet.
+-
+
+  Im Zuge dieser Bewertung ist die Qualität dieses Materials zu kontrollieren, indem Folgendes überprüft wird:
+
+  - – ob die geltenden kritischen Grenzwerte gemäss Ziffer 2 Buchstabe c bei jedem Einzelvorgang, der Teil der Herstellungsstufe ist, eingehalten wurden; und
+  - – ob die Qualität des entstehenden Materials vordefinierte Kriterien erfüllt, wozu die unter Ziffer 2 Buchstabe e genannten Prüfungen, Protokolle und Nachweise, die für die Herstellungsstufe gelten, herangezogen werden.
+
+- Die Bewertung muss zu einer Entscheidung darüber führen, ob die Qualität der Charge als konform mit den gesetzlichen Anforderungen gilt und für die Weiterverarbeitung geeignet ist, ob ihre Qualität vor der Weiterverarbeitung eine Korrektur erfordert oder ob die Charge zu entsorgen oder für Non-Food-Anwendungen zu verwenden ist.
 
 Anhang 6
 
@@ -1491,13 +1548,13 @@ Erläuterungen zu den Listen
 <tr><td>– Toluol</td><td>Nicht mehr als 0,06 mg/dm<sup>2</sup> des Lacks auf der Berührungsfläche mit den Lebensmitteln</td></tr>
 </table>
 
-Anhang 8[^t-4]
+Anhang 8[^t-5]
 
 (Art. 26 Abs. 1 und 2<sup>bis</sup>)
 
 ## Grenzwerte für die Abgabe von Blei und Cadmium aus Bedarfsgegenständen aus Keramik, Glas, Email und ähnlichen Materialien
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 - 1\. Die Teile von Bedarfsgegenständen aus Keramik, Glas, Email und ähnlichen Materialien, die mit Lebensmitteln in Kontakt kommen, dürfen während 24 Stunden bei 22 °C an 4-volumenprozentige Essigsäure höchstens folgende Mengen (Grenzwert) abgeben:
 
@@ -1513,13 +1570,13 @@ Anhang 8[^t-4]
 
 [^annex8-lvlu1-1]: Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, ABl. L 277 vom 20.10.1984, S. 12; zuletzt geändert durch Richtlinie 2005/31/EG, ABl. L 110 vom 30.4.2005, S. 36.
 
-Anhang 8a[^t-5]
+Anhang 8a[^t-6]
 
 (Art. 26 Abs. 2<sup>bis</sup>)
 
 ## Konformitätserklärung für Bedarfsgegenstände aus Keramik
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 Die in Artikel 26 Absatz 2<sup>bis</sup> genannte Konformitätserklärung muss folgende Angaben enthalten:
 
@@ -1530,7 +1587,7 @@ Die in Artikel 26 Absatz 2<sup>bis</sup> genannte Konformitätserklärung muss f
 
 Die Konformitätserklärung muss eine leichte Identifizierung der Waren ermöglichen, für die sie ausgestellt ist. Sie wird erneuert, wenn wesentliche Veränderungen bei der Herstellung zu Veränderungen der Blei- und Kadmiumlässigkeit führen.
 
-Anhang 9[^t-6]
+Anhang 9[^t-7]
 
 (Art. 32 Abs. 1 und 2)
 
@@ -1538,10 +1595,10 @@ Anhang 9[^t-6]
 
 [^annex9-lvlu1-1]
 
-[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 [^annex9-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 10[^t-7]
+Anhang 10[^t-8]
 
 (Art. 35 Bst. a und b)
 
@@ -1549,8 +1606,8 @@ Anhang 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) und Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
-[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-8]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) und BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
+[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/374](https://fedlex.data.admin.ch/eli/oc/2026/374) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11
 
@@ -1558,7 +1615,7 @@ Anhang 11
 
 ## Symbol «NICHT ESSBAR»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image2.png)
 
 Anhang 12
 
@@ -1594,13 +1651,13 @@ Die in Artikel 39 Absatz 2 genannte Konformitätserklärung enthält folgende An
 
 Die Konformitätserklärung muss eine einfache Identifizierung der aktiven oder intelligenten Bedarfsgegenstände, der für deren Herstellung bestimmten Bestandteile oder der für die Herstellung der Bestandteile bestimmten Stoffe ermöglichen, auf die sie sich bezieht, und ist erneut abzugeben, wenn wesentliche Änderungen in der Produktion Veränderungen bei der Migration bewirken oder wenn neue wissenschaftliche Erkenntnisse vorliegen.
 
-Anhang 13[^t-8]
+Anhang 13[^t-9]
 
 (Art. 40*b* Abs. 1)
 
 ## Besondere Anforderungen für Lacke und Beschichtungen
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) und Ziff. II Abs. 2 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), Ziff. II Abs. 2 der V des BLV vom 26. Nov. 2025 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) und BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
 
 ### 1. BADGE, BFDGE und NOGE
 
@@ -1642,35 +1699,34 @@ Anhang 13[^t-8]
 ### 2 Bisphenol A
 
 - 2\.1 2,2-Bis(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80‑05‑7) und seine Salze dürfen nur gemäss den Bestimmungen von Artikel 3 Absatz 2 und Anhang II der Verordnung (EU) 2024/3190[^annex13-lvlu1-lvl2-1] verwendet werden.
-- 2\.2 Abweichend von Ziffer 2.1 darf BPA als Monomer oder Ausgangsstoff bei der Herstellung flüssiger Epoxidharze, die auf selbsttragende Bedarfsgegenstände mit einem Fassungsvermögen von mehr als 1000 Litern aufgebracht werden, eingesetzt werden. Eine Migration in Lebensmittel darf nicht nachweisbar sein. Es gilt eine Nachweisgrenze von 1 μg/kg Lebensmittel. Fertige Lebensmittelkontaktgegenstände sind vor dem ersten Kontakt mit Lebensmitteln zu reinigen und zu spülen.
-- 2\.3 Um zu überprüfen, ob ein Bedarfsgegenstand kein BPA enthält, ist eine Extraktionsmethode anzuwenden. Die Nachweisgrenze der Methode muss 1 μg/kg betragen.
+- 2\.2 Um zu überprüfen, ob ein Bedarfsgegenstand kein BPA enthält, ist eine Extraktionsmethode anzuwenden. Die Nachweisgrenze der Methode muss 1 μg/kg betragen.
 
-[^annex13-lvlu1-lvl2-1]: Verordnung (EU) 2024/3190 der Kommission vom 19. Dezember 2024 über die Verwendung von Bisphenol A (BPA) und anderen Bisphenolen und Bisphenolderivaten, die aufgrund spezifischer gefährlicher Eigenschaften eine harmonisierte Einstufung erhalten haben, in bestimmten Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, zur Änderung der Verordnung (EU) Nr. 10/2011 und zur Aufhebung der Verordnung (EU) 2018/213, Fassung gemäss ABl. L, 2024/3190, 31.12.2024.
+[^annex13-lvlu1-lvl2-1]: Verordnung (EU) 2024/3190 der Kommission vom 19. Dezember 2024 über die Verwendung von Bisphenol A (BPA) und anderen Bisphenolen und Bisphenolderivaten, die aufgrund spezifischer gefährlicher Eigenschaften eine harmonisierte Einstufung erhalten haben, in bestimmten Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, zur Änderung der Verordnung (EU) Nr. 10/2011 und zur Aufhebung der Verordnung (EU) 2018/213, ABl. L, 2024/3190, 31.12.2024, zuletzt geändert durch Verordnung (EU) 2026/250, ABl. L, 2026/250, 3.2.2026.
 
 ### 3 Bisphenole und Bisphenolderivate
 
 - 3\.1 Es gelten folgende chemische Strukturen:
 
 <table>
-<tr><td>Bisphenol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image3.png)</td></tr>
-<tr><td>Bisphenolderivat:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image4.png)</td></tr>
+<tr><td>Bisphenol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image3.png)</td></tr>
+<tr><td>Bisphenolderivat:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image4.png)</td></tr>
 <tr><td colspan="2">X bezeichnet jede Brückengruppe, die die beiden Phenylringe durch ein einziges Atom trennt. Das Atom kann jedoch jegliche Substituenten aufweisen. R<sub>1</sub> bis R<sub>10</sub> bezeichnen jeglichen Substituenten. Mindestens einer der Substituenten ist kein Wasserstoffatom.</td></tr>
 </table>
 
 - 3\.2 Beschichtungen und Lackierungen von Bedarfsgegenständen, die unter Verwendung eines anderen Bisphenols oder Bisphenolderivats hergestellt wurden, dürfen keine Rückstände von 2,2-Bis-(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80‑05‑7) enthalten.
-- 3\.3 Ein gefährliches Bisphenol oder gefährliches Bisphenolderivat ist ein Bisphenol oder ein Bisphenolderivat, das gemäss Anhang 2 Ziffer 1 ChemV[^annex13-lvlu1-lvl3-1] harmonisiert als «erbgutverändernd» der Kategorien 1A oder 1B, «krebserregend», «fortpflanzungsgefährdend» oder «endokriner Disruptor mit Wirkung auf die menschliche Gesundheit» der Kategorie 1 (CMRED-Stoff) eingestuft ist.
-- 3\.4 Andere gefährliche Bisphenole als BPA oder gefährliche Bisphenolderivate dürfen nur gemäss den Bestimmungen von Artikel 5 Absatz 2 und 3, sowie Anhang II der Verordnung (EU) 2024/3190 verwendet werden.
+- 3\.3 Ein gefährliches Bisphenol oder gefährliches Bisphenolderivat ist ein Bisphenol oder ein Bisphenolderivat, das gemäss Anhang 2 Ziffer 1 ChemV[^annex13-lvlu1-lvl3-1] harmonisiert als «erbgutverändernd» der Kategorien 1A oder 1B, «krebserregend», «fortpflanzungsgefährdend» oder «endokriner Disruptor mit Wirkung auf die menschliche Gesundheit» der Kategorie 1 eingestuft ist.
+- 3\.4 Andere gefährliche Bisphenole als BPA oder gefährliche Bisphenolderivate dürfen nur gemäss den Bestimmungen von Artikel 5 Absätze 2 und 3 sowie Anhang II der Verordnung (EU) 2024/3190 verwendet werden.
 - 3\.5 Um zu überprüfen, ob ein Bedarfsgegenstand kein gefährliches Bisphenol und kein gefährliches Bisphenolderivat enthält, ist eine Extraktionsmethode anzuwenden. Die Nachweisgrenze der Methode muss 1 μg/kg betragen.
 
 [^annex13-lvlu1-lvl3-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
-Anhang 14[^t-9]
+Anhang 14[^t-10]
 
 (Art. 40*b* Abs. 2)
 
 ## Konformitätserklärung für Lacke und Beschichtungen
 
-[^t-9]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^t-10]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 
 Die in Artikel 40*b* Absatz 2 genannte Konformitätserklärung enthält folgende Angaben:
 
@@ -1681,13 +1737,13 @@ Die in Artikel 40*b* Absatz 2 genannte Konformitätserklärung enthält folgende
 - e. Bestätigung, dass die Lackierung oder die Beschichtung den einschlägigen Gesetzesvorschriften entspricht;
 - f. eine Liste aller Bisphenole oder Bisphenolderivate, die bei der Herstellung des Bedarfsgegenstands verwendet wurden.
 
-Anhang 15[^t-10]
+Anhang 15[^t-11]
 
 (Art. 35*a* Abs. 2)
 
 ## Konformitätserklärung für Druckfarben
 
-[^t-10]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-11]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 Die Konformitätserklärung gemäss Artikel 35*a* Absatz 2 muss die für jede Herstellungsstufe relevanten Angaben aus der folgenden Auflistung enthalten:
 
