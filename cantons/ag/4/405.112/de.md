@@ -4,13 +4,12 @@ number: "405.112"
 title: Verordnung über die Schuldienste
 short: V Schuldienste
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-06-18
+version: 2026-08-01
+version_adopted: 2026-02-18
 adopted: 2017-05-03
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/405.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3864/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3958/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,18 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3864/pdf_file"
 
 (V Schuldienste)
 
-Vom 03.05.2017 (Stand 01.01.2026)
+Vom 03.05.2017 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 60 Abs. 3, 60a Abs. 4, 5 und 8, 61 Abs. 5 und 6, 61a Abs. 2, 62 Abs. 1–4 sowie 63 Abs. 2 und 5 des Schulgesetzes vom 17. März 1981[^ingress-1],
+gestützt auf die §§ 113 Abs. 3 und 120 Abs. 1 und 2 des Volksschulgesetzes (VSG) vom 23. September 2025[^ingress-1], § 21a Abs. 3 lit. b und c des Gesetzes über die Anstellung von Lehrpersonen (GAL) vom 17. Dezember 2002[^ingress-2], die §§ 42 Abs. 4, 42a Abs. 1 und 2, 42b Abs. 2 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-3] sowie § 42 Abs. 3 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-4],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^ingress-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
+[^ingress-2]: SAR [411.200](https://gesetzessammlungen.ag.ch/data/411.200/de)
+[^ingress-3]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
+[^ingress-4]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -95,7 +97,7 @@ beschliesst:
 
 **Standorte**
 
-<sup>1</sup> Der Schulpsychologische Dienst führt Regionalstellen in Aarau, Baden, Bad Zurzach[^8-1], Rheinfelden, Wohlen und Zofingen.
+<sup>1</sup> Der Schulpsychologische Dienst führt Regionalstellen in Aarau, Baden, Bad Zurzach[^8-1], Lenzburg, Rheinfelden, Wohlen und Zofingen.
 
 <sup>2</sup> Das BKS legt das Einzugsgebiet der Regionalstellen fest. Dabei berücksichtigt es die Erreichbarkeit mit öffentlichen Verkehrsmitteln.
 
@@ -111,7 +113,7 @@ beschliesst:
 
 <sup>1</sup> Die Berufs-, Studien- und Laufbahnberatung steht Jugendlichen und Erwachsenen offen, die im Kanton Aargau Aufenthalt beziehungsweise zivilrechtlichen Wohnsitz haben oder eine Ausbildung absolvieren.
 
-<sup>2</sup> Die schul- und jugendpsychologische Beratung an der Sekundarstufe II steht Jugendlichen dieser Stufe offen, die im Kanton Aargau zivilrechtlichen Wohnsitz haben oder eine Ausbildung absolvieren.
+<sup>2</sup> Die jugendpsychologische Beratung an der Sekundarstufe II steht Jugendlichen dieser Stufe offen, die im Kanton Aargau zivilrechtlichen Wohnsitz haben oder eine Ausbildung absolvieren.
 
 <sup>3</sup> Die Lehrpersonenberatung steht Lehrpersonen und Schulleitenden offen, die im Kanton Aargau arbeiten oder zivilrechtlichen Wohnsitz haben.
 
@@ -128,7 +130,7 @@ beschliesst:
 - c) Gruppenberatungen,
 - d) Informationsveranstaltungen.
 
-<sup>2</sup> Das unentgeltliche Grundangebot der schul- und jugendpsychologischen Beratung umfasst:
+<sup>2</sup> Das unentgeltliche Grundangebot der jugendpsychologischen Beratung umfasst:
 
 - a) Auskunftserteilung und Informationsvermittlung,
 - b) Beurteilung von Leistungs- und Verhaltensbesonderheiten sowie von psychischen und psychosozialen Schwierigkeiten, die sich auf den Ausbildungserfolg auswirken,
@@ -228,8 +230,8 @@ beschliesst:
 <sup>1</sup> Die Schulärztin oder der Schularzt
 
 - a) berät auf Anfrage Schulbehörden, Schulleitungen, Lehrpersonen und Eltern zu schulrelevanten Gesundheitsthemen,
-- b) steht den Schülerinnen und Schülern in besonderen Situationen als Anlaufstelle zur Verfügung,
-- c) nimmt auf Anfrage von Schulleitungen und Anstellungsbehörden Stellung zu ärztlichen Zeugnissen von Schülerinnen und Schülern beziehungsweise von an der Schule beschäftigten Personen,
+- b) steht den Schülerinnen, Schülern und Studierenden in besonderen Situationen als Anlaufstelle zur Verfügung,
+- c) nimmt auf Anfrage von Schulleitungen und Anstellungsbehörden Stellung zu ärztlichen Zeugnissen von Schülerinnen, Schülern und Studierenden beziehungsweise von an der Schule beschäftigten Personen,
 - d) arbeitet mit anderen Ärztinnen und Ärzten, den zuständigen Beratungs- und Fachstellen sowie den übrigen Schuldiensten zusammen.
 
 #### § 20
