@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Ordonnance du DETEC du 30 avril 2018 sur les installations électriques à basse tension
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: fr
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-288-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-288-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur les installations électriques à basse tension
 
-du 30 avril 2018 (État le 1<sup>er</sup> janvier 2024)
+du 30 avril 2018 (État le 1<sup>er</sup> août 2026)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -22,7 +22,7 @@ vu les art. 8, al. 3, 21, al. 2, et 37, al. 3, de l’ordonnance du 7 novembre 2
 
 arrête:
 
-[^ingress-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^ingress-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 ## Section 1 Objet
 
@@ -41,7 +41,7 @@ La présente ordonnance règle:
 
 <sup>3</sup> La présente ordonnance s’applique par analogie aux épreuves d’aptitude visées à l’art. 69*a*, al. 2, de l’ordonnance du 19 novembre 2003 sur la formation professionnelle[^1-1].
 
-[^1-1]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^1-1]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 2 Examen pratique
 
@@ -71,25 +71,33 @@ Il doit joindre à son inscription à l’examen:
   - 2\. module 2: contrôle des installations et de la sécurité,
   - 3\. module 3: expertise des installations et de la sécurité;
 
-- d. le descriptif du travail pratique.
+- d.[^3-1] le descriptif du projet pratique.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 303](https://fedlex.data.admin.ch/eli/oc/2026/303)).
 
 #### Art. 4
 
-**Contenu**
+**Contenu**[^4-1]
 
-<sup>1</sup> Avant l’examen, le candidat doit remettre un travail pratique sous forme écrite. Ce travail fait partie intégrante de l’examen.
-
-<sup>2</sup>
+<sup>1</sup>
 
 L’examen pratique comprend:
 
-- a. la présentation du travail pratique, suivie d’un entretien technique: 80 min;
-- b. une étude de cas dans le domaine des normes et de la sécurité: préparation de 60 min., épreuve écrite/pratique/orale de 80 min.;
-- c. un examen dans le domaine de la sécurité, des travaux d’installation et de l’électrotechnique pratique: épreuve écrite/pratique/orale de 80 min.;
-- d. une étude de cas dans le domaine des travaux d’installation et de la sécurité: préparation de 60 min., épreuve écrite/orale de 80 min.;
-- e. une analyse technique de projet: préparation de 60 min., épreuve écrite/orale de 80 min.
+- a. un examen dans le domaine de la sécurité, des travaux d’installation et de l’électrotechnique pratique;
+- b. la présentation du projet pratique, suivie d’un entretien technique;
+- c. une étude de cas dans le domaine des normes et de la sécurité;
+- d. une étude de cas dans le domaine des travaux d’installation et de la sécurité;
+- e. une analyse technique de projet.
 
-<sup>3</sup> La commission chargée de l’assurance qualité (commission AQ) rattachée à l’Union suisse des installateurs-électriciens (USIE) détermine les sujets d’examen ainsi que le déroulement de l’examen et désigne les experts pour les différentes épreuves.
+<sup>2</sup> Chaque partie de l’examen dure 60 minutes.
+
+<sup>3</sup> Les parties de l’examen se déroulent par oral. Les parties visées à l’al. 1, let. a et c à e, peuvent comprendre des éléments écrits et pratiques.
+
+<sup>4</sup> Les documents nécessaires à la préparation des parties de l’examen visés à l’al. 1, let. c à e, sont mis à disposition sous forme électronique sur la plateforme d’examen de l’association EIT.swiss au moins sept jours ouvrables avant la date de l’examen.
+
+<sup>5</sup> La commission de l’association EIT.swiss chargée de l’assurance qualité détermine les sujets d’examen ainsi que le déroulement de l’examen et désigne les experts pour les différentes épreuves.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 303](https://fedlex.data.admin.ch/eli/oc/2026/303)).
 
 ## Section 3 Examens permettant d’obtenir des autorisations d’installer limitées
 
@@ -266,7 +274,7 @@ Il est établi pour les contrôles suivants:
 <sup>2</sup> L’émolument est réduit si des motifs valables survenus après l’inscription empêchent le candidat de se présenter à l’examen. Dans ce cas, la partie du paiement anticipé correspondant aux frais d’examen est remboursée.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
-[^15-2]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+[^15-2]: [RS 734.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8579)
 
 ## Section 6 Dispositions finales
 

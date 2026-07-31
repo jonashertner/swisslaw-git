@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Verordnung des UVEK vom 30. April 2018 über elektrische Niederspannungsinstallationen
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: de
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-288-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2018-288-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über elektrische Niederspannungsinstallationen
 
-vom 30. April 2018 (Stand am 1. Januar 2024)
+vom 30. April 2018 (Stand am 1. August 2026)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 8 Absatz 3, 21 Absatz 2 und 37 Absatz 3 der Niederspan
 
 verordnet:
 
-[^ingress-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^ingress-1]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -41,7 +41,7 @@ Diese Verordnung regelt:
 
 <sup>3</sup> Diese Verordnung ist auf Eignungsprüfungen nach Artikel 69*a* Absatz 2 der Berufsbildungsverordnung vom 19. November 2003[^1-1] sinngemäss anwendbar.
 
-[^1-1]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^1-1]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## 2. Abschnitt: Praxisprüfung
 
@@ -71,25 +71,33 @@ Der Anmeldung zur Praxisprüfung sind beizulegen:
   - 2\. Modul 2: Installations- und Sicherheitskontrolle,
   - 3\. Modul 3: Installations- und Sicherheitsexpertise;
 
-- d. die Disposition für die Praxisarbeit.
+- d.[^3-1] die Beschreibung des Praxisprojekts.
+
+[^3-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Mai 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 303](https://fedlex.data.admin.ch/eli/oc/2026/303)).
 
 #### Art. 4
 
-**Umfang**
+**Umfang**[^4-1]
 
-<sup>1</sup> Vor der Prüfung ist eine schriftliche Praxisarbeit einzureichen. Sie ist Bestandteil der Prüfung.
-
-<sup>2</sup>
+<sup>1</sup>
 
 Die Praxisprüfung umfasst:
 
-- a. die Präsentation der Praxisarbeit mit anschliessendem Fachgespräch: 80 Minuten;
-- b. eine Fallarbeit im Bereich Normen und Sicherheit: Arbeitsvorbereitung: 60 Minuten; schriftlich/praktisch/mündlich: 80 Minuten;
-- c. eine Prüfung im Bereich Sicherheit, Installation und praktische Elektrotechnik: schriftlich/praktisch/mündlich, 80 Minuten;
-- d. eine Fallstudie im Bereich Installation und Sicherheit: Arbeitsvorbereitung: 60 Minuten; schriftlich/mündlich: 80 Minuten;
-- e. eine technische Projektanalyse: Arbeitsvorbereitung: 60 Minuten; schriftlich/mündlich, 80 Minuten.
+- a. eine Prüfung im Bereich Sicherheit, Installation und praktische Elektrotechnik;
+- b. die Präsentation des Praxisprojekts mit anschliessendem Fachgespräch;
+- c. eine Fallarbeit im Bereich Normen und Sicherheit;
+- d. eine Fallstudie im Bereich Installation und Sicherheit;
+- e. eine technische Projektanalyse.
 
-<sup>3</sup> Die Kommission für Qualitätssicherung (QSK) des Verbands Schweizerischer Elektro-Installationsfirmen (VSEI) bestimmt die Prüfungsaufgaben sowie den Prüfungsablauf und bezeichnet die Experten und Expertinnen für die einzelnen Prüfungen.
+<sup>2</sup> Jeder Prüfungsteil dauert 60 Minuten.
+
+<sup>3</sup> Die Prüfungteile erfolgen mündlich. Die Prüfungsteile nach Absatz 1 Buchstaben a und c–e können schriftliche und praktische Prüfungselemente enthalten.
+
+<sup>4</sup> Die Unterlagen für die Arbeitsvorbereitung der Prüfungsteile nach Absatz 1 Buchstaben c–e werden mindestens sieben Arbeitstage vor dem Prüfungstermin auf der Prüfungsplattform des Verbands EIT.swiss elektronisch zur Verfügung gestellt.
+
+<sup>5</sup> Die Kommission für Qualitätssicherung des Verbands EIT.swiss bestimmt die Prüfungsaufgaben sowie den Prüfungsablauf und bezeichnet die Experten und Expertinnen für die einzelnen Prüfungen.
+
+[^4-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Mai 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 303](https://fedlex.data.admin.ch/eli/oc/2026/303)).
 
 ## 3. Abschnitt: Prüfungen zur Erlangung der eingeschränkten Installationsbewilligungen
 
@@ -111,7 +119,7 @@ Die Prüfungskommission setzt sich zusammen aus:
 
 <sup>4</sup> Das Sekretariat der Prüfungskommission wird vom Inspektorat geführt.
 
-[^5-1]: Fassung gemäss Ziff. I der V des UVEK vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **202****3** 767).
+[^5-1]: Fassung gemäss Ziff. I der V des UVEK vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 767](https://fedlex.data.admin.ch/eli/oc/2023/767)).
 
 #### Art. 6
 
@@ -266,7 +274,7 @@ Es ist für folgende Kontrollen zu erstellen:
 <sup>2</sup> Die Gebühr wird ermässigt, wenn der Kandidat oder die Kandidatin aus triftigen Gründen, die nach der Anmeldung eingetreten sind, nicht an der Prüfung teilnehmen kann. In diesem Fall wird der entsprechende Teil der Vorauszahlung zurückerstattet.
 
 [^15-1]: Fassung gemäss Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
-[^15-2]: [SR 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+[^15-2]: [SR 734.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8579)
 
 ## 6. Abschnitt: Schlussbestimmungen
 

@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Ordinanza del DATEC del 30 aprile 2018 sugli impianti elettrici a bassa tensione
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: it
-version: 2024-01-01
+version: 2026-08-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-288-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2018-288-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC sugli impianti elettrici a bassa tensione
 
-del 30 aprile 2018 (Stato 1° gennaio 2024)
+del 30 aprile 2018 (Stato 1° agosto 2026)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -22,7 +22,7 @@ visti gli articoli 8 capoverso 3, 21 capoverso 2 e 37 capoverso 3 dell’ordinan
 
 ordina:
 
-[^ingress-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^ingress-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 ## Sezione 1: Oggetto
 
@@ -41,7 +41,7 @@ La presente ordinanza disciplina:
 
 <sup>3</sup> La presente ordinanza si applica per analogia agli esami di idoneità di cui all’articolo 69*a* capoverso 2 dell’ordinanza del 19 novembre 2003[^1-1] sulla formazione professionale.
 
-[^1-1]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^1-1]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 2: Esame pratico
 
@@ -71,25 +71,33 @@ Devono essere allegati all’iscrizione all’esame pratico:
   - 2\. modulo 2: controllo degli impianti e della sicurezza,
   - 3\. modulo 3: perizia sugli impianti e sulla sicurezza;
 
-- d. la descrizione del lavoro pratico.
+- d.[^3-1] la descrizione del progetto pratico.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 mag. 2026, in vigore dal 1° ago. 2026 ([RU 2026 303](https://fedlex.data.admin.ch/eli/oc/2026/303)).
 
 #### Art. 4
 
-**Contenuto**
+**Contenuto**[^4-1]
 
-<sup>1</sup> Prima dell’esame deve essere presentato un lavoro pratico scritto. Esso è parte integrante dell’esame.
+<sup>1</sup>
 
-<sup>2</sup>
+L’esame pratico comprende le parti seguenti:
 
-L’esame pratico comprende:
+- a. una prova nei settori sicurezza, installazione di impianti ed elettrotecnica pratica;
+- b. la presentazione del progetto pratico con relativa discussione tecnica;
+- c. un lavoro su un caso nel settore norme e sicurezza;
+- d. uno studio di un caso nel settore installazione di impianti e sicurezza;
+- e. un’analisi tecnica di progetto.
 
-- a. la presentazione del lavoro pratico con relativa discussione tecnica, 80 minuti;
-- b. un caso di studio nel settore norme e sicurezza: preparazione, 60 minuti; prova scritta/pratica/orale, 80 minuti;
-- c. una prova inerente alla sicurezza, installazione di impianti ed elettrotecnica pratica: prova scritta/pratica/orale, 80 minuti;
-- d. un caso di studio nel settore installazione di impianti e sicurezza: preparazione, 60 minuti; prova scritta/orale, 80 minuti;
-- e. un’analisi tecnica di progetto: preparazione, 60 minuti; prova scritta/orale, 80 minuti.
+<sup>2</sup> Ciascuna parte d’esame dura 60 minuti.
 
-<sup>3</sup> La Commissione per la garanzia della qualità (CGQ) dell’Unione svizzera degli installatori elettricisti (USIE) stabilisce le prove d’esame, ne determina lo svolgimento e designa gli esperti per le singole prove.
+<sup>3</sup> Le parti d’esame sono orali. Le parti d’esame di cui al capoverso 1 lettere a e c–e possono comprendere elementi scritti e pratici.
+
+<sup>4</sup> I documenti per la preparazione delle parti d’esame di cui al capoverso 1 lettere c–e sono messi a disposizione in formato elettronico sulla piattaforma esami dell’associazione EIT.swiss almeno sette giorni prima del giorno dell’esame.
+
+<sup>5</sup> La Commissione per la garanzia della qualità dell’associazione EIT.swiss stabilisce le prove d’esame, ne determina lo svolgimento e designa gli esperti per le singole prove.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 27 mag. 2026, in vigore dal 1° ago. 2026 ([RU 2026 303](https://fedlex.data.admin.ch/eli/oc/2026/303)).
 
 ## Sezione 3: Esami per il conseguimento delle autorizzazioni d’installazione limitate
 
@@ -111,7 +119,7 @@ La Commissione d’esame è composta:
 
 <sup>4</sup> L’Ispettorato svolge la funzione di segreteria della Commissione d’esame.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DATEC del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 767](https://fedlex.data.admin.ch/eli/oc/2023/767)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 767](https://fedlex.data.admin.ch/eli/oc/2023/767)).
 
 #### Art. 6
 
@@ -144,8 +152,8 @@ L’esame comprende le materie seguenti:
 
 <sup>3</sup> La Commissione d’esame stabilisce la durata dell’esame di ogni singola materia.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
-[^7-2]: Introdotto dal n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^7-2]: Introdotto dalla cifra I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 8
 
@@ -157,7 +165,7 @@ L’esame comprende le materie seguenti:
 
 <sup>3</sup> I requisiti e le materie d’esame sono definiti di volta in volta dalla Commissione d’esame in funzione del tipo d’impianto per il quale deve essere sostenuto l’esame.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 9
 
@@ -173,8 +181,8 @@ L’esame comprende le materie seguenti:
 
 <sup>5</sup> Gli esami non sono pubblici.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 10
 
@@ -265,8 +273,8 @@ Esso deve essere redatto per i seguenti controlli:
 
 <sup>2</sup> La tassa è ridotta se il candidato non può partecipare all’esame per motivi validi subentrati dopo l’iscrizione. In questo caso la quota corrispondente del pagamento anticipato è rimborsata.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
-[^15-2]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^15-2]: [RS 734.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8579)
 
 ## Sezione 6: Disposizioni finali
 
