@@ -1,33 +1,33 @@
 ---
 canton: AG
 number: "423.332"
-title: Verordnung über die Fachmittelschule
+title: "Verordnung über die Promotion, den Fachmittelschulabschluss und die Fachmaturität an der Fachmittelschule"
 short: V FMS
 language: de
-version: 2024-09-15
-valid_until: 2026-07-31
-version_adopted: 2024-06-05
+version: 2026-08-01
+valid_until: 2027-07-31
+version_adopted: 2026-05-13
 adopted: 2010-05-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.332"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3596/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Fachmittelschule
+# Verordnung über die Promotion, den Fachmittelschulabschluss und die Fachmaturität an der Fachmittelschule
 
 (V FMS)
 
-Vom 19.05.2010 (Stand 15.09.2024)
+Vom 19.05.2010 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 12 und 17 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-1],
+gestützt auf die §§ 10 Abs. 2 und 21 Abs. 1 lit. b, d, f, i, j und k sowie 38 Abs. 3 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
+[^ingress-1]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1. Allgemeines
 
@@ -35,7 +35,13 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, die Abschlussprüfung, die Erlangung des Fachmittelschulausweises und die Fachmaturität an den Fachmittelschulen sowie den Übertritt ans Gymnasium.
+<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, den Übertritt vom Gymnasium an die Fachmittelschule, die Abschlussprüfung, die Erlangung des Fachmittelschulausweises, die Zulassung zu den Fachmaturitätslehrgängen sowie die Fachmaturität an der Fachmittelschule.
+
+#### § 1a
+
+**Stundentafeln, zusätzliche Leistungen und Lehrpläne**
+
+<sup>1</sup> Die Stundentafeln und die für die Fachmaturität zu erbringenden zusätzlichen Leistungen sowie die Lehrpläne sind in den Anhängen geregelt.
 
 #### § 2
 
@@ -51,13 +57,13 @@ beschliesst:
 
 **Nachteilsausgleich**
 
-<sup>1</sup> Schülerinnen und Schüler mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich.
+<sup>1</sup> Schülerinnen und Schüler mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich. Hierbei müssen die allgemeinen Bildungsziele und Kompetenzen gemäss Lehrplan ohne Reduktion der Leistungsanforderungen erreicht werden.
 
 <sup>2</sup> Die betreffenden Nachweise sind rechtzeitig vor Inanspruchnahme des Nachteilsausgleichs im Hinblick auf Promotionsentscheide und Prüfungen zu erbringen.
 
-<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet im Rahmen von § 2 die Schulleitung.
+<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet die Schulleitung nach Vorgaben des Departements Bildung, Kultur und Sport (BKS).
 
-## 2. Promotionsentscheide und Zwischenbeurteilung
+## 2. Promotionsentscheide, Zwischenbeurteilung und Übertritt
 
 #### § 3
 
@@ -148,6 +154,12 @@ beschliesst:
 
 <sup>1</sup> Ergibt die Zwischenbeurteilung eine für den weiteren Ausbildungsverlauf ungünstige Prognose, führt die zuständige Abteilungslehrperson mit der Schülerin oder dem Schüler ein Gespräch zur Klärung der Gründe und über die allenfalls zu treffenden Massnahmen.
 
+#### § 10a
+
+**Übertritt vom Gymnasium an die Fachmittelschule**
+
+<sup>1</sup> Schülerinnen und Schüler, die in der 1. Klasse des Gymnasiums die Probezeit nicht bestehen, sind berechtigt, auf Beginn des 2. Semesters des laufenden Schuljahrs in die 1. Klasse der Fachmittelschule überzutreten.
+
 ## 3. Abschlussprüfung
 
 ### 3.1. Prüfung
@@ -236,7 +248,7 @@ beschliesst:
 
 - a) ein Mitglied des Erziehungsrats, welches den Vorsitz innehat,
 - b) sechs Vertreterinnen beziehungsweise Vertreter der Höheren Fachschulen und von Fachhochschulen,
-- c) je ein Mitglied der Schulleitungen der Neuen Kantonsschule Aarau und der Kantonsschulen Wettingen, Wohlen und Zofingen, welches für die administrative Geschäftsführung der Fachmittelschule zuständig ist, mit beratender Stimme.
+- c) je ein Mitglied der Schulleitungen der Neuen Kantonsschule Aarau und der Kantonsschulen Stein, Wettingen, Wohlen und Zofingen, das für die administrative Geschäftsführung der Fachmittelschule zuständig ist, mit beratender Stimme.
 
 <sup>2</sup> Die Prüfungskommission ist insbesondere zuständig für
 
@@ -245,8 +257,8 @@ beschliesst:
 - c) das Festlegen der Anlage der Prüfungen,
 - d) die Genehmigung der Themen und Aufgaben der Fachprüfungen,
 - e) das Festlegen der zulässigen Hilfsmittel für die schriftlichen und praktischen Prüfungen,
-- f) die Erarbeitung der Grundlagen für die Prüfungsentscheide des Departements Bildung, Kultur und Sport,
-- g) die Berichterstattung über die Prüfungen im Allgemeinen zuhanden der Schulkommission und des Departements Bildung, Kultur und Sport.
+- f) die Erarbeitung der Grundlagen für die Prüfungsentscheide des BKS,
+- g) die Berichterstattung über die Prüfungen im Allgemeinen zuhanden des Erziehungsrats, des BKS und der Schulleitungen.
 
 ## 4. Abschluss mit Fachmittelschulausweis
 
@@ -299,13 +311,11 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport entscheidet über das Bestehen des Abschlusses und stellt den Fachmittelschulausweis aus.
+<sup>1</sup> Das BKS entscheidet über das Bestehen des Abschlusses und stellt den Fachmittelschulausweis aus.
 
 #### § 24
 
-**Übertritt ans Gymnasium**
-
-<sup>1</sup> Schülerinnen und Schüler, die in den Abschlussfächern einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 5 erreichen, können in die 3. Klasse des Gymnasiums übertreten.
+**…**
 
 #### § 25
 
@@ -323,7 +333,7 @@ beschliesst:
 
 **Fachmittelschulausweis**
 
-<sup>1</sup> Der Fachmittelschulausweis wird vom Departement Bildung, Kultur und Sport ausgestellt, wenn der Abschluss bestanden ist.
+<sup>1</sup> Der Fachmittelschulausweis wird vom BKS ausgestellt, wenn der Abschluss bestanden ist.
 
 <sup>2</sup> Der Fachmittelschulausweis enthält:
 
@@ -334,9 +344,51 @@ beschliesst:
 - e) das Berufsfeld,
 - f) die Abschlussnoten der Abschlussfächer gemäss § 19,
 - g) das Thema der selbstständigen Arbeit gemäss § 18,
-- h) den Ort, das Datum und die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des Departements und der Rektorin beziehungsweise des Rektors der Schule.
+- h) den Ort, das Datum und die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des BKS und der Rektorin beziehungsweise des Rektors der Schule.
 
 <sup>3</sup> Zusätzlich werden im Fachmittelschulausweis die Noten der in der 3. Klasse besuchten Freifächer aufgeführt.
+
+## 4<sup>bis</sup>. Zulassung zu den Fachmaturitätslehrgängen
+
+#### § 26a
+
+**Allgemeines**
+
+<sup>1</sup> Die Zulassung zu einem Fachmaturitätslehrgang erfolgt in der Regel unmittelbar nach Erwerb des Fachmittelschulausweises. In begründeten Fällen kann die Schulleitung die Zulassung nach einem Unterbruch von höchstens zwei Jahren seit dem Erwerb des Fachmittelschulausweises gestatten.
+
+#### § 26b
+
+**Zulassung zum Fachmaturitätslehrgang Pädagogik**
+
+<sup>1</sup> Zum Fachmaturitätslehrgang Pädagogik wird zugelassen, wer den Fachmittelschulausweis im Berufsfeld Pädagogik oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Pädagogik angesiedelt ist.
+
+#### § 26c
+
+**Zulassung zum Fachmaturitätslehrgang Gesundheit/Naturwissenschaften**
+
+<sup>1</sup> Zum Fachmaturitätslehrgang Gesundheit/Naturwissenschaften wird zugelassen, wer den Fachmittelschulausweis im Berufsfeld Gesundheit/Naturwissenschaften oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Gesundheit/Naturwissenschaften angesiedelt ist.
+
+<sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Pflege HF oder Operationstechnik HF an der Höheren Fachschule Gesundheit und Soziales absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zu einem der vorerwähnten Bildungsgänge erfolgreich durchlaufen haben, um zum Fachmaturitätslehrgang zugelassen zu werden.
+
+#### § 26d
+
+**Zulassung zum Fachmaturitätslehrgang Soziale Arbeit**
+
+<sup>1</sup> Zum Fachmaturitätslehrgang Soziale Arbeit wird zugelassen, wer den Fachmittelschulausweis im Berufsfeld Soziale Arbeit oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Soziale Arbeit angesiedelt ist.
+
+<sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Sozialpädagogik HF an der Höheren Fachschule Gesundheit und Soziales absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zum vorerwähnten Bildungsgang erfolgreich durchlaufen haben, um zum Fachmaturitätslehrgang zugelassen zu werden.
+
+#### § 26e
+
+**Zulassung zum Fachmaturitätslehrgang Kommunikation und Information**
+
+<sup>1</sup> Zum Fachmaturitätslehrgang Kommunikation und Information wird zugelassen, wer den Fachmittelschulausweis im Berufsfeld Kommunikation und Information oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Medienkunde als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Kommunikation und Information angesiedelt ist.
+
+#### § 26f
+
+**Zulassung zum Fachmaturitätslehrgang Gestaltung und Kunst**
+
+<sup>1</sup> In den Fachmaturitätslehrgang Gestaltung und Kunst wird aufgenommen, wer einen Fachmittelschulausweis erworben und das Aufnahmeverfahren in das gestalterische Propädeutikum an der Schule für Gestaltung Aargau erfolgreich durchlaufen hat oder einen Fachmittelschulausweis im Berufsfeld Gestaltung und Kunst erworben hat und über eine Praktikumsstelle im Bereich Gestaltung und Kunst verfügt.
 
 ## 5. Fachmaturität
 
@@ -346,7 +398,7 @@ beschliesst:
 
 **Prüfungstermine, Zulassung**
 
-<sup>1</sup> Die Fachmaturitätsprüfung findet am Ende des Lehrgangs statt. Die Prüfungskommission FMS legt jeweils die Prüfungstermine fest.
+<sup>1</sup> Die Fachmaturitätsprüfung findet am Ende des Lehrgangs statt. Die Schulleitung legt jeweils die Prüfungstermine fest.
 
 <sup>2</sup> Zur Prüfung wird zugelassen, wer
 
@@ -359,13 +411,15 @@ beschliesst:
 
 <sup>1</sup> Die Schülerinnen und Schüler müssen während des Lehrgangs alleine oder in einer Gruppe eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren.
 
+<sup>1<sup>bis</sup></sup> Erfahrungen und Beobachtungen aus dem Praxiseinsatz müssen in die Fachmaturitätsarbeit einfliessen.
+
 <sup>2</sup> Bezüglich Ziel und Bewertung gelten die jeweils aktuellen Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK).
 
 #### § 29
 
 **Prüfungsziel, Inhalte und Anforderungen**
 
-<sup>1</sup> Die Schülerinnen und Schüler haben sich durch die Fachmaturitätsprüfung Pädagogik über die von der Schule vermittelten Kenntnisse und von den Pädagogischen Hochschulen geforderte allgemeine Bildung und Reife sowie geforderten Fähigkeiten für die Studiengänge Vorschul- und Unterstufe sowie Primarstufe auszuweisen.
+<sup>1</sup> Die Schülerinnen und Schüler haben sich durch die Fachmaturitätsprüfung Pädagogik über die von der Schule vermittelten Kenntnisse und von den Pädagogischen Hochschulen geforderte allgemeine Bildung und Reife sowie die geforderten Fähigkeiten für die Studiengänge Vorschul- und Unterstufe sowie Primarstufe auszuweisen.
 
 <sup>2</sup> …
 
@@ -414,9 +468,13 @@ beschliesst:
 
 #### § 32
 
-**Notengebung**
+**Notengebung, Nachbesserung und Wiederholung**
 
 <sup>1</sup> Die Fachmaturitätsarbeit sowie die Ergebnisse in den einzelnen schriftlichen und mündlichen Prüfungen sind in ganzen und halben Noten auszudrücken. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+
+<sup>2</sup> Wird die Fachmaturitätsarbeit mit einer ungenügenden Note bewertet, muss diese nachgebessert werden und wird höchstens mit der Note 4 bewertet.
+
+<sup>3</sup> Wird die Fachmaturitätsarbeit nach der Nachbesserung erneut mit einer ungenügenden Note bewertet, kann im darauffolgenden Schuljahr eine neue Fachmaturitätsarbeit verfasst werden. Das Verfassen einer dritten Fachmaturitätsarbeit ist nicht gestattet.
 
 #### § 33
 
@@ -444,6 +502,14 @@ beschliesst:
 
 **…**
 
+#### § 35a
+
+**Praxiseinsatz**
+
+<sup>1</sup> Nach Absolvierung des Praxiseinsatzes, der die Leistung von mindestens 80 % Präsenzstunden bedingt, erhalten die Schülerinnen und Schüler von der Schule des Praxiseinsatzorts eine schriftliche Bestätigung.
+
+<sup>2</sup> Der Praxiseinsatz kann einmal wiederholt werden, wenn seitens der Schule des Praxiseinsatzorts mangels genügender Präsenzstunden keine schriftliche Bestätigung ausgestellt wird. Der Praxiseinsatz muss wiederholt werden, wenn die Fachmaturitätsarbeit nicht bestanden wird.
+
 #### § 36
 
 **Bestehensnorm**
@@ -451,18 +517,21 @@ beschliesst:
 <sup>1</sup> Die Fachmaturität ist bestanden, wenn
 
 - a) das arithmetische Mittel der fünf Fachmaturitätsnoten sowie der Fachmaturitätsarbeit mindestens 4 beträgt,
-- b) nicht mehr als zwei Fachmaturitätsnoten unter 4 erzielt wurden und
-- c) die Summe der Notenabweichung von 4 nach unten nicht mehr als einen Punkt beträgt.
+- b) nicht mehr als zwei Fachmaturitätsnoten unter 4 erzielt wurden,
+- c) die Summe der Notenabweichung von 4 nach unten nicht mehr als einen Punkt beträgt und
+- d) der Praxiseinsatz absolviert wurde.
 
 #### § 37
 
-**Wiederholung bei Nichtbestehen, Dispensation**
+**Wiederholung bei Nichtbestehen der Fachmaturität, Dispensation**
 
 <sup>1</sup> Schülerinnen und Schüler, welche die Fachmaturität im ersten Versuch nicht bestehen, können die Prüfungen einmal am nächsten Prüfungstermin wiederholen.
 
 <sup>2</sup> Sie können sich vom Unterrichtsbesuch und der Prüfung in denjenigen Fächern dispensieren lassen, in welchen sie beim ersten Versuch mindestens die Note 5 erzielt haben. Diese Noten zählen auch beim zweiten Versuch.
 
 <sup>3</sup> Die Note der Fachmaturitätsarbeit des ersten Versuchs wird übernommen.
+
+<sup>3<sup>bis</sup></sup> Der absolvierte Praxiseinsatz muss nicht wiederholt werden.
 
 <sup>4</sup> Eine dritte Fachmaturitätsprüfung ist nicht gestattet.
 
@@ -494,9 +563,9 @@ beschliesst:
 
 **Thema, unredliche Handlungen und Wiederholung**
 
-<sup>1</sup> Die Fachmaturitätsarbeit umfasst ein Thema, das in konkretem Bezug zum absolvierten Praktikum oder Bildungsgang respektive gestalterischen Propädeutikum steht und zwischen der Fachmittelschule, dem Praktikumsbetrieb oder der Höheren Fachschule Gesundheit und Soziales respektive der Schule für Gestaltung Aargau und der Schülerin beziehungsweise dem Schüler vereinbart wurde.
+<sup>1</sup> Die Fachmaturitätsarbeit umfasst ein Thema, das in konkretem Bezug zum absolvierten Praktikum oder Fachmaturitätslehrgang respektive zum gestalterischen Propädeutikum steht und zwischen der Fachmittelschule, dem Praktikumsbetrieb oder der Höheren Fachschule Gesundheit und Soziales respektive der Schule für Gestaltung Aargau und der Schülerin beziehungsweise dem Schüler vereinbart wurde.
 
-<sup>2</sup> Die Fachmaturitätsarbeit ist persönlich zu verfassen. Ist dies nachgewiesenermassen nicht der Fall, wird die Fachmaturitätsarbeit auf Antrag der Prüfungskommission FMS durch das Departement Bildung, Kultur und Sport als ungültig und die Fachmaturität als nicht bestanden erklärt.
+<sup>2</sup> Die Fachmaturitätsarbeit ist persönlich zu verfassen. Ist dies nachgewiesenermassen nicht der Fall, wird die Fachmaturitätsarbeit auf Antrag der Prüfungskommission FMS durch das BKS als ungültig und die Fachmaturität als nicht bestanden erklärt.
 
 <sup>3</sup> Die Fachmaturitätsarbeit kann im darauffolgenden Schuljahr einmal wiederholt werden.
 
@@ -534,13 +603,13 @@ beschliesst:
 
 **Fachmaturitätsentscheid**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport entscheidet über das Bestehen der Fachmaturität und stellt das Fachmaturitätszeugnis aus.
+<sup>1</sup> Das BKS entscheidet über das Bestehen der Fachmaturität und stellt das Fachmaturitätszeugnis aus.
 
 #### § 45
 
 **Fachmaturitätszeugnis**
 
-<sup>1</sup> Das Fachmaturitätszeugnis wird vom Departement Bildung, Kultur und Sport ausgestellt, wenn die Fachmaturität bestanden ist.
+<sup>1</sup> Das Fachmaturitätszeugnis wird vom BKS ausgestellt, wenn die Fachmaturität bestanden ist.
 
 <sup>2</sup> Das Fachmaturitätszeugnis enthält
 
@@ -548,11 +617,12 @@ beschliesst:
 - b) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»,
 - c) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Absolventin oder des Absolventen,
 - c<sup>bis</sup>) die Bezeichnung des Berufsfelds,
-- d) die Angabe der Zeit, während der die Absolventin beziehungsweise der Absolvent das Praktikum, den Sprachaufenthalt oder die Sprachaufenthalte, den Fachmaturitätslehrgang Pädagogik beziehungsweise das gestalterische Propädeutikum absolviert hat,
+- d) die Angabe der Zeit (mit jeweiliger Ortsangabe), während der die Absolventin beziehungsweise der Absolvent das Praktikum, den Sprachaufenthalt oder die Sprachaufenthalte, den Fachmaturitätslehrgang Pädagogik und den Praxiseinsatz beziehungsweise das gestalterische Propädeutikum absolviert hat,
 - e) die Bewertung des Praktikums, sofern es absolviert wurde,
 - f) das Thema und die Bewertung der Fachmaturitätsarbeit,
 - g) die Abschlussnoten der Abschlussfächer gemäss § 19 sowie das Thema und die Bewertung der selbstständigen Arbeit gemäss § 18,
-- h) den Ort, das Datum und die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des Departements und der Rektorin beziehungsweise des Rektors der Schule.
+- g<sup>bis</sup>) den Hinweis, dass das Vertiefungsmodul absolviert wurde, sofern dieses vorgesehen ist,
+- h) den Ort, das Datum und die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des BKS und der Rektorin beziehungsweise des Rektors der Schule.
 
 <sup>3</sup> Das Fachmaturitätszeugnis einer Absolventin beziehungsweise eines Absolventen des Fachmaturitätslehrgangs Pädagogik enthält zusätzlich zu den vorerwähnten Angaben die
 
@@ -563,26 +633,17 @@ beschliesst:
 
 #### § 45a
 
-**Übergangsbestimmung zur Änderung vom 9. Mai 2018**
-
-<sup>1</sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> Für Schülerinnen und Schüler des Bereichs Erziehung und Gestaltung, die ihre Ausbildung im Schuljahr 2017/18 begonnen haben, gelten die Bestimmungen des bisherigen Rechts, sofern sie dies wünschen.
-
-<sup>4</sup> Für Schülerinnen und Schüler, die ihre Ausbildung vor dem Schuljahr 2018/19 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+**…**
 
 #### § 45b
 
-**Übergangsbestimmung zur Änderung vom 27. Oktober 2021**
+**…**
 
-<sup>1</sup> Für Schülerinnen und Schüler, die den Bildungsgang vor dem Schuljahr 2022/23 begonnen haben, gelten im Zusammenhang mit dem Erwerb des Fachmittelschulausweises die Bestimmungen des bisherigen Rechts.
+#### § 45c
 
-<sup>2</sup> Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Bildungsgang im Schuljahr 2021/22 begonnen haben, die Bestimmungen des neuen Rechts, wobei die Schülerinnen und Schüler, die den Fachmittelschulabschluss im ersten Versuch nicht bestehen, sich in den folgenden Fächern nicht vom Unterrichtsbesuch und der Prüfung dispensieren lassen können:
+**Übergangsbestimmung zur Änderung vom 25. Juni 2025**
 
-- 1\. Den Grundlagenfächern Informatik und Naturwissenschaften sowie Bildnerisches und Technisches Gestalten,
-- 2\. im Berufsfeld Gesundheit/Naturwissenschaften dem Fach Informatik und Naturwissenschaften mit Praktikum.
+<sup>1</sup> Für Schülerinnen und Schüler, die den Fachmaturitätslehrgang Pädagogik vor dem Schuljahr 2026/27 begonnen haben, gelten bis längstens 31. Juli 2028 auf entsprechendes Gesuch einer Schülerin oder eines Schülers hin die Bestimmungen des bisherigen Rechts.
 
 #### § 46
 
