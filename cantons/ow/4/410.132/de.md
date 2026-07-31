@@ -3,20 +3,19 @@ canton: OW
 number: "410.132"
 title: "Ausführungsbestimmungen über die Sonderpädagogik in den Bereichen Sonderschulung, Förderangebote und Nachteilsausgleich"
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-01-23
+version: 2026-08-01
+version_adopted: 2026-03-23
 adopted: 2024-01-23
 in_force: 2024-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.132"
-pdf: "http://gdb.ow.ch/api/de/versions/1848/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2004/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Sonderpädagogik in den Bereichen Sonderschulung, Förderangebote und Nachteilsausgleich
 
-vom 23.01.2024 (Stand 01.08.2024)
+vom 23.01.2024 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -98,7 +97,7 @@ beschliesst:
 <sup>2</sup> Separative Sonderschulung in einer Sonderschule wird bedarfsgerecht durchgeführt als:
 
 - a. interne Sonderschulung (einschliesslich sozialpädagogische Betreuung mit Übernachtung);
-- b. externe Sonderschulung (einschliesslich sozialpädagogische Tagesbetreuung, jedoch mit Übernachtung bei den Erziehungsberechtigten).
+- b. externe Sonderschulung (einschliesslich sozialpädagogische Tagesbetreuung, jedoch mit Übernachtung bei den Eltern bzw. Erziehungsberechtigten).
 
 #### Art. 7
 
@@ -160,7 +159,7 @@ beschliesst:
 
 **Sonderschulbedingter Transport**
 
-<sup>1</sup> Bei Kindern im Vorschulalter und bei integrativer Sonderschulung organisieren in der Regel die Eltern den Schulweg sowie den Weg zu einer Therapie.
+<sup>1</sup> Bei Kindern im Vorschulalter und bei integrativer Sonderschulung organisieren in der Regel die Eltern bzw. Erziehungsberechtigten den Schulweg sowie den Weg zu einer Therapie.
 
 <sup>2</sup> Bei separativer Sonderschulung organisiert die Schule oder das Amt für Volks- und Mittelschulen den Schulweg sowie den Weg zu einer Therapie.
 
@@ -351,5 +350,9 @@ beschliesst:
 Ursprüngliche Fundstelle: OGS 2024, 1
 
 Ursprüngliches Inkrafttreten: 1. August 2024
+
+Geändert durch:
+
+Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
 
 OGS 2024, 1
