@@ -3,20 +3,19 @@ canton: LU
 number: "438"
 title: "Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-11-18
+version: 2026-08-01
+version_adopted: 2026-04-02
 adopted: 2004-12-14
 in_force: 2004-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/438"
-pdf: "https://srl.lu.ch/api/de/versions/4581/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4837/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern
 
-vom 14.12.2004 (Stand 01.01.2026)
+vom 14.12.2004 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -95,9 +94,11 @@ beschliesst:
 
 <sup>2</sup> Die berufsfeldbezogenen Fächer richten sich nach dem Lehrplan im gewählten Berufsfeld.
 
-<sup>3</sup> Für Lernende mit Berufsfeld Pädagogik oder Musik ist Instrumental- oder Sologesangsunterricht obligatorisch. Die Lernenden können von der Schulleitung verpflichtet werden, in einem Ensemble der Schule mitzuwirken. Der Unterricht wird in der Regel an der kommunalen Musikschule am Standort der Schule belegt. Die Lektionen im Einzelunterricht dauern in der Regel 40 Minuten. Das Schulgeld beträgt 1030 Franken pro Schuljahr.
+<sup>3</sup> Für Lernende mit Berufsfeld Pädagogik oder Musik ist Instrumental- oder Sologesangsunterricht obligatorisch. Die Lernenden können von der Schulleitung verpflichtet werden, in einem Ensemble der Schule mitzuwirken. Der Unterricht wird in der Regel an der kommunalen Musikschule am Standort der Schule belegt. Die Lektionen im Einzelunterricht dauern in der Regel 40 Minuten. Das Schulgeld richtet sich nach der Schulgeldverordnung des Kantons Luzern[^6-1].
 
 <sup>4</sup> …
+
+[^6-1]: SRL Nr. [544](https://srl.lu.ch/data/544/de)
 
 #### § 7
 
@@ -158,9 +159,7 @@ beschliesst:
 
 #### § 10a
 
-**Koordinationsgruppe Aufnahmeprüfungen**
-
-<sup>1</sup> …
+**…**
 
 #### § 11
 
@@ -232,9 +231,9 @@ beschliesst:
 <sup>1<sup>quater</sup></sup> Für die Aufnahme gelten die folgenden Zeugnisnoten:
 
 - a. Im getrennt geführten Sekundarschulmodell sind für die Aufnahme mindestens drei Zeugnisnoten von mindestens 4,5 und maximal eine Zeugnisnote von mindestens 4 in den Niveaufächern im Niveau A Voraussetzung.
-- b. Im kooperativen und im integriert geführten Sekundarschulmodell sind für die Aufnahme eine Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A und eine Zeugnisnote von mindestens 4,5 in einem Niveaufach im Niveau B Voraussetzung.
+- b. Im kooperativen und im integriert geführten Sekundarschulmodell sind für die Aufnahme eine Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A und in einem Niveaufach entweder eine Zeugnisnote von mindestens 4,5 im Niveau B oder von mindestens 4 im Niveau A Voraussetzung.
 - c. In allen Sekundarschulmodellen ist für die Aufnahme die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B im Fach Natur und Technik Voraussetzung.
-- d. Im Langzeit- und im Kurzzeitgymnasium ist in den Fächern Deutsch, Französisch, Englisch und Mathematik eine Zeugnisnote von mindestens 4,5 Voraussetzung.
+- d. Im Langzeit- und im Kurzzeitgymnasium sind für die Aufnahme in den Fächern Deutsch, Französisch, Englisch und Mathematik bei mindestens dreien eine Zeugnisnote von mindestens 4,5 und bei einem eine Zeugnisnote von mindestens 4 Voraussetzung.
 
 <sup>2</sup> ...
 
@@ -246,10 +245,14 @@ beschliesst:
 
 **Beschränkte Platzzahl**
 
-<sup>1</sup> Bei beschränkter Platzzahl sind für die Aufnahme folgende Kriterien massgebend:
+<sup>1</sup> Bei beschränkter Platzzahl sind für die Aufnahme, neben dem Wohnort im Kanton Luzern oder in einem Vereinbarungskanton, folgende Kriterien zulässig:
 
-- a. Wohnort im Kanton Luzern oder in einem Vereinbarungskanton,
-- b. Rangierung in der Aufnahmeprüfung.
+- a. …
+- b. Rangierung in der Aufnahmeprüfung,
+- c. Rangierung in einem zusätzlich durchgeführten Eignungsverfahren,
+- d. Auswahl per Losentscheid.
+
+<sup>1<sup>bis</sup></sup> Die zuständige Dienststelle legt für das jeweilige Angebot die massgeblichen Kriterien gemäss Absatz 1 sowie deren Rangfolge fest. Eine Auswahl per Losentscheid ist nur zulässig, wenn anhand der übrigen Kriterien keine geeignete Auswahl erreicht werden kann. Die Dienststelle kann die Aufnahme zudem auf jene Lernenden beschränken, die sich bis zu einem bestimmten Zeitpunkt für das Angebot angemeldet haben.
 
 <sup>2</sup> …
 
@@ -523,9 +526,7 @@ beschliesst:
 
 #### § 35a
 
-**Übergangsbestimmung der Änderung vom 12. November 2019**
-
-<sup>1</sup> Für Lernende, welche die Fachmittelschule vor dem 1. August 2020 begonnen haben, gilt das Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern vom 14. Dezember 2004 in der Fassung vom 1. August 2018.
+**…**
 
 #### § 36
 
