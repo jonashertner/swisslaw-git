@@ -4,13 +4,13 @@ number: "410.1"
 title: Bildungsgesetz
 short: BiG
 language: de
-version: 2020-01-01
-valid_until: 2026-07-31
-version_adopted: 2019-06-28
+version: 2026-08-01
+valid_until: 2026-12-31
+version_adopted: 2025-05-22
 adopted: 2006-03-16
 in_force: 2006-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1712/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2012/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1712/pdf_file"
 
 (BiG)
 
-vom 16.03.2006 (Stand 01.01.2020)
+vom 16.03.2006 (Stand 01.08.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -37,7 +37,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt die Aus- und Weiterbildung auf allen Stufen. Es enthält zudem Bestimmungen über die Schuldienste, die schulergänzenden Angebote sowie die Ausbildungsbeiträge.
+<sup>1</sup> Dieses Gesetz regelt die Aus- und Weiterbildung auf allen Stufen sowie weitere Bildungsbereiche. Es enthält zudem Bestimmungen über die Schuldienste, die schulergänzenden Angebote sowie die Ausbildungsbeiträge.
 
 #### Art. 2
 
@@ -45,7 +45,7 @@ beschliesst:
 
 <sup>1</sup> Das Bildungswesen ermöglicht im Rahmen dieses Gesetzes Kindern, Jugendlichen und Erwachsenen eine Bildung nach Massgabe ihrer Anlagen, Eignungen und Interessen und fördert das Bewusstsein für die Bedeutung des lebenslangen Lernens.
 
-<sup>2</sup> Die öffentlichen Schulen:
+<sup>2</sup> Die öffentlichen Schulen bilden nach Lehrplänen aus und:
 
 - a. erziehen zu einem Verhalten, das sich an christlichen, humanistischen und demokratischen Wertvorstellungen orientiert;
 - b. fördern die Entwicklung zur selbstständigen, verantwortungsbewussten, toleranten und reflexionsfähigen Persönlichkeit;
@@ -61,7 +61,7 @@ beschliesst:
 
 **Gliederung**
 
-<sup>1</sup> Das Bildungswesen gliedert sich in die Volksschulstufe, die Sekundarstufe II, die Tertiärstufe und die Quartärstufe gemäss Grafik im Anhang dieses Gesetzes.
+<sup>1</sup> Das Bildungswesen gliedert sich in die Volksschulstufe, die Sekundarstufe II, die Tertiärstufe und die Quartärstufe.
 
 <sup>2</sup> Die Sonderschule erstreckt sich über die Volksschulstufe und die Sekundarstufe II, die Musikschule über alle Stufen.
 
@@ -81,7 +81,7 @@ beschliesst:
 
 **Bildungsangebot**
 
-<sup>1</sup> Der Kanton sorgt für ein angemessenes Angebot in der Aus- und Weiterbildung.
+<sup>1</sup> Der Kanton sorgt für ein angemessenes Angebot in der Aus- und Weiterbildung und kann Forschung, Wissens- und Technologietransfer und damit zusammenhängende Dienstleistungen ermöglichen.
 
 <sup>2</sup> Wo sich die Schaffung eines eigenen Angebots nicht rechtfertigt, kann der Kanton den Zugang zu ausserkantonalen Aus- und Weiterbildungsinstitutionen sicherstellen.
 
@@ -103,7 +103,9 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Der Kanton beaufsichtigt die Schulen des Kantons und der Einwohnergemeinden gemäss Art. 9 Abs. 1 Bst. a bis d dieses Gesetzes.
+<sup>1</sup> Der Kanton beaufsichtigt die Schulen des Kantons und der Einwohnergemeinden.
+
+<sup>2</sup> Der Kantonsrat erlässt ergänzende Vorschriften durch Verordnung.
 
 #### Art. 8
 
@@ -125,7 +127,7 @@ beschliesst:
 - b. die Primarschule;
 - c. die Orientierungsschule;
 - d. Förderangebote;
-- e. eine Schulbibliothek;
+- e. …
 - f. eine Musikschule.
 
 <sup>2</sup> Erweist sich die selbstständige Führung einer Schule, einzelner Klassen oder weiterer Angebote als unzweckmässig, so hat die Einwohnergemeinde das Angebot durch vertragliche Abmachung mit einer anderen Gemeinde oder Institution sicherzustellen. Können sich die Gemeinden nicht einigen, so entscheidet der Kanton.
@@ -138,27 +140,19 @@ beschliesst:
 
 **Diskriminierungsverbot**
 
-<sup>1</sup> Die öffentlichen Schulen sind politisch neutral. Sie wahren die Glaubens- und Gewissensfreiheit, nehmen auf Minderheiten Rücksicht und fördern alle Schülerinnen und Schüler sowie Studierenden gleichermassen.
+<sup>1</sup> Die öffentlichen Schulen sind politisch neutral. Sie wahren die Glaubens- und Gewissensfreiheit, nehmen auf Minderheiten Rücksicht und fördern alle Schülerinnen und Schüler, Studierenden und Lernenden gleichermassen.
 
-<sup>2</sup> Schülerinnen und Schüler sowie Studierende dürfen auf Grund ihres Geschlechts, ihrer Herkunft oder ihrer Religionszugehörigkeit nicht benachteiligt werden.
+<sup>2</sup> Schülerinnen und Schüler, Studierende und Lernende dürfen auf Grund ihres Geschlechts, ihrer Herkunft oder ihrer Religionszugehörigkeit nicht benachteiligt werden.
 
 #### Art. 11
 
 **Integrations- und Förderangebote für Fremdsprachige**
 
-<sup>1</sup> Für fremdsprachige Schülerinnen und Schüler sowie Studierende und Erwachsene, die über keine oder ungenügende Deutschkenntnisse verfügen, werden Integrations- und Förderangebote zur Verfügung gestellt. Von den Teilnehmenden können Beiträge erhoben werden.
+<sup>1</sup> Für fremdsprachige Schülerinnen und Schüler, Studierende, Lernende und Erwachsene, die über keine oder ungenügende Deutschkenntnisse verfügen, werden Integrations- und Förderangebote zur Verfügung gestellt. Von den Teilnehmenden können Beiträge erhoben werden.
 
 #### Art. 12
 
-**Schulergänzende Tagesstrukturen und Angebote**
-
-<sup>1</sup> Kanton und Einwohnergemeinde fördern schulergänzende Tagesstrukturen und entsprechende Angebote.
-
-<sup>2</sup> Zu den schulergänzenden Tagesstrukturen zählen die Betreuung vor der Schule, ein betreuter Mittagstisch und betreutes Lernen nach der Schule.
-
-<sup>3</sup> Die Einwohnergemeinde kann schulergänzende Tagesstrukturen einrichten oder private Institutionen mit der Führung beauftragen.
-
-<sup>4</sup> Von den Erziehungsberechtigten werden Beiträge für Verpflegung und Betreuung erhoben. Die Einkommensverhältnisse sowie der Schulweg sind bei der Tarifgestaltung zu berücksichtigen.
+**…**
 
 #### Art. 13
 
@@ -170,9 +164,9 @@ beschliesst:
 
 **Schulweg**
 
-<sup>1</sup> Die minderjährigen Schülerinnen und Schüler sowie Studierenden unterstehen ausserhalb des Schulareals der Verantwortung der Erziehungsberechtigten.
+<sup>1</sup> Die minderjährigen Schülerinnen und Schüler, Studierenden und Lernenden unterstehen ausserhalb des Schulareals der Verantwortung der Eltern bzw. Erziehungsberechtigten.
 
-<sup>2</sup> Bei unzumutbarem Schulweg hat die Einwohnergemeinde die unentgeltliche Benützung eines Schulbusses oder öffentlichen Verkehrsmittels zu ermöglichen.
+<sup>2</sup> Wo den Schülerinnen und Schülern der Schulweg an eine öffentliche Schule der Einwohnergemeinde oder des Kantons nicht zugemutet werden kann, sorgt die Einwohnergemeinde während der obligatorischen Schulzeit (zuzüglich freiwilliger Kindergarten) für eine angemessene Fahrgelegenheit.
 
 #### Art. 15
 
@@ -184,39 +178,41 @@ beschliesst:
 
 **Ergänzende Bestimmungen**
 
-<sup>1</sup> Der Kantonsrat regelt die Einzelheiten über die Integrations- und Förderangebote für Fremdsprachige, die schulergänzenden Tagesstrukturen und Angebote, das Schuljahr und die Schulferien sowie den Leistungsauftrag und das Globalbudget durch Verordnung.
+<sup>1</sup> Der Kantonsrat regelt die Einzelheiten über die Integrations- und Förderangebote für Fremdsprachige, das Schuljahr und die Schulferien sowie den Leistungsauftrag und das Globalbudget durch Verordnung.
 
-### 2.2. Schülerinnen und Schüler sowie Studierende
+### 2.2. Schülerinnen und Schüler, Studierende sowie Lernende
 
 #### Art. 17
 
 **Begriffe**
 
-<sup>1</sup> Schülerinnen und Schüler sind Kinder oder Jugendliche, die:
+<sup>1</sup> Schülerinnen und Schüler sind Kinder und Jugendliche, die:
 
 - a. den Kindergarten,
-- b. die Primarschule und die Orientierungsschule,
+- b. die Primarschule, die Sekundarstufe I oder ein Brückenangebot,
 - c. die Sonderschule, die Musikschule, ein sonderpädagogisches Angebot oder ein weiteres schulisches Angebot besuchen.
 
 <sup>2</sup> Studierende sind Jugendliche und Erwachsene, die:
 
-- a. eine Ausbildung auf der Sekundarstufe II,
+- a. eine Gymnasialbildung oder eine andere Vollzeitausbildung nach der Schulpflicht,
 - b. eine Ausbildung auf der Tertiärstufe,
 - c. eine Weiterbildung auf der Quartärstufe besuchen.
+
+<sup>3</sup> Lernende sind Jugendliche und Erwachsene, die eine berufliche Grundbildung besuchen.
 
 #### Art. 18
 
 **Schulbetrieb, Mitarbeit und Mitsprache**
 
-<sup>1</sup> Der Schulbetrieb berücksichtigt die Voraussetzungen und Fähigkeiten der Schülerinnen und Schüler sowie Studierenden.
+<sup>1</sup> Der Schulbetrieb berücksichtigt die Voraussetzungen und Fähigkeiten der Schülerinnen und Schüler, Studierenden und Lernenden.
 
-<sup>2</sup> Das Schulprogramm und das Organisationsstatut sehen eine dem Alter und dem Entwicklungsstand entsprechende Mitarbeit und Mitsprache der Schülerinnen und Schüler sowie Studierenden vor.
+<sup>2</sup> Das Schulprogramm und das Organisationsstatut sehen eine dem Alter und dem Entwicklungsstand entsprechende Mitarbeit und Mitsprache der Schülerinnen und Schüler, Studierenden und Lernenden vor.
 
 #### Art. 19
 
 **Pflichten**
 
-<sup>1</sup> Die Schülerinnen und Schüler sowie Studierenden haben den Unterricht und die als obligatorisch erklärten Schulveranstaltungen zu besuchen. Sie haben in angemessener Weise Verantwortung für den eigenen sowie Mitverantwortung für den Lernprozess der anderen zu tragen.
+<sup>1</sup> Die Schülerinnen und Schüler, Studierenden und Lernenden haben den Unterricht sowie die als obligatorisch erklärten Schulveranstaltungen und Sprachaufenthalte zu besuchen. Sie haben in angemessener Weise Verantwortung für den eigenen sowie Mitverantwortung für den Lernprozess der anderen zu tragen.
 
 #### Art. 20
 
@@ -228,15 +224,15 @@ beschliesst:
 
 <sup>3</sup> Können disziplinarische Schwierigkeiten nicht in der Klasse gelöst werden, so können weitergehende Massnahmen ergriffen werden. Während der Schulpflicht gemäss Art. 56 dieses Gesetzes ist in der Regel lediglich ein befristeter Ausschluss von der Schule zulässig.
 
-<sup>4</sup> In Ausnahmefällen, insbesondere bei Gewalttätigkeit, Drohung, Erpressung, Mobbing, Verstössen gegen das Betäubungsmittelgesetz oder Alkoholmissbrauch, können Schülerinnen und Schüler sowie Studierende ganz von der Schule ausgeschlossen werden.
+<sup>4</sup> In Ausnahmefällen, insbesondere bei Gewalttätigkeit, Drohung, Erpressung, Mobbing, Verstössen gegen das Betäubungsmittelgesetz oder Alkoholmissbrauch, können Schülerinnen und Schüler, Studierende und Lernende ganz von der Schule ausgeschlossen werden.
 
 <sup>5</sup> Der Kantonsrat regelt die einzelnen Disziplinarmassnahmen und die Zuständigkeiten durch Verordnung. Der Regierungsrat kann in den Ausführungsbestimmungen zur Berufsbildung abweichende Vorschriften erlassen.
 
-### 2.3. Erziehungsberechtigte
+### 2.3. Eltern bzw. Erziehungsberechtigte
 
 #### Art. 21
 
-**Begriff**
+**Begriff Erziehungsberechtigte**
 
 <sup>1</sup> Erziehungsberechtigte sind Eltern und andere Personen, die nach Massgabe des Schweizerischen Zivilgesetzbuchs[^21-1] die Verantwortung für die Erziehung des Kindes tragen und berechtigt sind, dieses bei Entscheiden in schulischen Belangen zu vertreten.
 
@@ -246,39 +242,47 @@ beschliesst:
 
 **Zusammenarbeit und Information**
 
-<sup>1</sup> Der Schulrat, die Schulleitung bzw. das Rektorat, die Lehrpersonen und die Erziehungsberechtigten arbeiten im Rahmen ihrer Verantwortlichkeiten zusammen. Die Zusammenarbeit dient der gemeinsam zu verantwortenden Bildung und Erziehung des Kindes.
+<sup>1</sup> Der Schulrat bzw. das Bildungs- und Kulturdepartement, die Schulleitung bzw. das Rektorat, die Lehrpersonen und die Eltern bzw. Erziehungsberechtigten arbeiten im Rahmen ihrer Verantwortlichkeiten zusammen. Die Zusammenarbeit dient der gemeinsam zu verantwortenden Bildung und Erziehung des Kindes.
 
-<sup>2</sup> Die Erziehungsberechtigten Minderjähriger werden regelmässig informiert über:
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten Minderjähriger werden regelmässig informiert über:
 
-- a. deren Entwicklungs-, Lern- und Erziehungsprozesse;
-- b. deren Leistungen und Verhalten;
+- a. deren Entwicklungs- und Lernprozesse;
+- b. deren fachliche und überfachliche Kompetenzen;
 - c. wichtige Vorhaben im Zusammenhang mit dem Unterricht und dem Schulbetrieb.
 
-<sup>3</sup> Das Recht auf Information und Anhörung haben auf Verlangen auch Mütter und Väter, denen die elterliche Sorge nicht zusteht.
+<sup>2a</sup> Eine angemessene Information über wichtige schulische Angelegenheiten das Kind betreffend hat auch nach der Volljährigkeit des Kindes zu erfolgen, wenn die Eltern für den Unterhalt aufkommen.
+
+<sup>3</sup> Das Recht auf Information und Anhörung haben im Rahmen der Bundesgesetzgebung (Art. 275a ZGB) auf Verlangen auch Mütter und Väter, denen die elterliche Sorge nicht zusteht.
+
+<sup>4</sup> Die Eltern bzw. Erziehungsberechtigten informieren ihrerseits die Lehrpersonen oder die Schulleitung über das Verhalten ihres Kindes und über Ereignisse in dessen Umfeld, soweit dies für die Schule von Bedeutung ist.
 
 #### Art. 23
 
 **Schulbesuch**
 
-<sup>1</sup> Die Erziehungsberechtigten sind für den regelmässigen Schulbesuch des Kindes und die Erfüllung der Schulpflicht verantwortlich.
+<sup>1</sup> Die Eltern bzw. Erziehungsberechtigten sind für den regelmässigen Schulbesuch des Kindes, für die Erfüllung der Schulpflicht und für geeignete Bedingungen zu Hause verantwortlich.
 
-<sup>2</sup> Ergänzende Vorschriften regelt der Kantonsrat durch Verordnung.
+<sup>2</sup> Der Kantonsrat erlässt ergänzende Vorschriften durch Verordnung.
 
 #### Art. 24
 
 **Mitwirkung im Allgemeinen**
 
-<sup>1</sup> Die Erziehungsberechtigten unterstützen die Schule bei der Erfüllung ihres Bildungsauftrags. Sie können sich an der Gestaltung der Schule der Volksschulstufe beteiligen. Art und Umfang der Mitwirkung sind im Organisationsstatut zu regeln.
+<sup>1</sup> Die Eltern bzw. Erziehungsberechtigten unterstützen die Schule bei der Erfüllung ihres Bildungs- und Erziehungsauftrags. Art und Umfang der Mitwirkung sind im Organisationsstatut zu regeln.
 
-<sup>2</sup> Die Schulen haben die Mitwirkung der Erziehungsberechtigten von Studierenden der Sekundarstufe II angemessen zu berücksichtigen.
+<sup>2</sup> Die Schulen haben die Mitwirkung der Eltern bzw. Erziehungsberechtigten von Studierenden und Lernenden der Sekundarstufe II angemessen zu berücksichtigen.
+
+<sup>3</sup> Bei Personalentscheidungen und methodisch-didaktischen Entscheidungen ist die Mitwirkung ausgeschlossen.
 
 #### Art. 25
 
 **Mitwirkung im Einzelnen**
 
-<sup>1</sup> Die Erziehungsberechtigten beteiligen sich im Rahmen ihrer Rechte und Pflichten an Entscheidungen, die das Kind betreffen.
+<sup>1</sup> Die Eltern bzw. Erziehungsberechtigten beteiligen sich im Rahmen ihrer Rechte und Pflichten an wichtigen Entscheidungen, die das Kind individuell betreffen. Sie nehmen an vorbereitenden Gesprächen teil.
 
-<sup>2</sup> Die Erziehungsberechtigten sowie Mütter und Väter, denen die elterliche Sorge nicht zusteht, sind berechtigt, nach Absprache mit der zuständigen Lehrperson den Unterricht des Kindes zu besuchen.
+<sup>2</sup> Die Eltern bzw. Erziehungsberechtigten sowie Mütter und Väter, denen die elterliche Sorge nicht zusteht, sind berechtigt, nach Absprache mit der zuständigen Lehrperson den Unterricht des Kindes zu besuchen, soweit der Schulbetrieb dadurch nicht beeinträchtigt wird.
+
+<sup>3</sup> Die Schulleitung bzw. das Rektorat kann in besonderen Fällen den Besuch einzelner Veranstaltungen für Eltern bzw. Erziehungsberechtigte obligatorisch erklären.
 
 ### 2.4. Lehrpersonen
 
@@ -296,7 +300,7 @@ beschliesst:
 
 <sup>1</sup> Zur Erfüllung des Bildungs- und Erziehungsauftrags verfügen die Lehrpersonen über die dafür notwendigen fachlichen, methodischen und sozialen Kompetenzen.
 
-<sup>2</sup> Sie besitzen einen Ausbildungsabschluss, der gestützt auf die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^27-1] gültig ist. Es können auch Ausbildungsabschlüsse weiterer Ausbildungseinrichtungen anerkannt werden.
+<sup>2</sup> Sie besitzen einen Ausbildungsabschluss, der gestützt auf die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^27-1] gültig ist oder den Bundesvorgaben entspricht. Es können auch Ausbildungsabschlüsse weiterer Ausbildungseinrichtungen anerkannt werden.
 
 <sup>3</sup> Der Kanton erteilt eine Lehrbewilligung, wenn die Anforderungen erfüllt sind. Ausnahmen regelt der Kantonsrat durch Verordnung.
 
@@ -308,7 +312,9 @@ beschliesst:
 
 **Beruflicher Auftrag**
 
-<sup>1</sup> Die Lehrpersonen leiten die Schülerinnen und Schüler sowie Studierenden zu verantwortungsbewusstem und selbstständigem, nach ethischen Grundsätzen ausgerichtetem Verhalten gegenüber der sozialen und natürlichen Umwelt an. Sie tragen im Rahmen des Auftrags der Schule die Verantwortung für die ihnen anvertrauten Schülerinnen und Schüler sowie Studierenden und ergänzen die elterliche Erziehung.
+<sup>1</sup> Die Lehrpersonen leiten die Schülerinnen und Schüler, Studierenden und Lernenden zu verantwortungsbewusstem und selbstständigem, nach ethischen Grundsätzen ausgerichtetem Verhalten gegenüber der sozialen und natürlichen Umwelt an. Sie tragen im Rahmen des Auftrags der Schule die Verantwortung für die ihnen anvertrauten Schülerinnen und Schüler, Studierenden und Lernenden und ergänzen die elterliche Erziehung.
+
+<sup>2</sup> Die Lehrpersonen gestalten im Rahmen des Lehrplans, des Schulleitbilds und des Schulprogramms sowie unter Berücksichtigung anerkannter Methoden und der obligatorischen Lehrmittel den Unterricht frei.
 
 #### Art. 29
 
@@ -322,7 +328,7 @@ beschliesst:
 
 <sup>1</sup> Die Lehrpersonen werden vom Schulträger entlöhnt.
 
-<sup>2</sup> Die Entlöhnung der Lehrpersonen richtet sich nach dem kantonalen Personalrecht.
+<sup>2</sup> …
 
 <sup>3</sup> Die Lehrpersonen sind ab Beginn der Anstellung bei der Vorsorgeeinrichtung zu versichern, die für die kantonale Verwaltung bestimmt ist.
 
@@ -380,9 +386,9 @@ beschliesst:
 
 **Privatschulen a. Bewilligung und Anerkennung**
 
-<sup>1</sup> Privatschulen der Volksschul- und der Sekundarstufe II benötigen eine Bewilligung des Kantons. Diese wird erteilt, wenn die Schülerinnen und Schüler sowie Studierenden eine verglichen mit der öffentlichen Schule gleichwertige Bildung erhalten. Sie haben die Qualitätsvorgaben des Kantons gemäss Art. 6 dieses Gesetzes zu erfüllen.
+<sup>1</sup> Privatschulen der Volksschul- und der Sekundarstufe II benötigen eine Bewilligung des Kantons. Diese wird erteilt, wenn die Schülerinnen und Schüler, Studierenden und Lernenden eine verglichen mit der öffentlichen Schule gleichwertige Bildung erhalten. Sie haben die Qualitätsvorgaben des Kantons gemäss Art. 6 dieses Gesetzes zu erfüllen.
 
-<sup>2</sup> Die Trägerschaft der Privatschulen muss Gewähr bieten, dass die Schülerinnen und Schüler sowie Studierenden nicht pädagogischen oder weltanschaulichen Einflüssen ausgesetzt werden, die den Zielen der öffentlichen Schule zuwiderlaufen.
+<sup>2</sup> Die Trägerschaft der Privatschulen muss Gewähr bieten, dass die Schülerinnen und Schüler, Studierenden und Lernenden nicht pädagogischen oder weltanschaulichen Einflüssen ausgesetzt werden, die den Zielen der öffentlichen Schule zuwiderlaufen.
 
 <sup>3</sup> Der Kanton kann private Bildungseinrichtungen auf der Tertiärstufe anerkennen und sie der staatlichen Aufsicht unterstellen. Er kann auch Beiträge entrichten.
 
@@ -390,7 +396,7 @@ beschliesst:
 
 **b. Aufsicht**
 
-<sup>1</sup> Die Privatschulen werden durch den Kanton beaufsichtigt. Bestehen begründete Zweifel, ob die Lernziele erreicht oder die Bewilligungsvoraussetzungen weiterhin erfüllt werden, so kann die Bewilligungsinstanz Anordnungen treffen oder die Bewilligung entziehen.
+<sup>1</sup> Die Privatschulen werden durch den Kanton beaufsichtigt. Bestehen begründete Zweifel, ob die Bewilligungsvoraussetzungen weiterhin erfüllt werden, so kann die Bewilligungsinstanz Anordnungen treffen oder die Bewilligung entziehen.
 
 <sup>2</sup> In begründeten Fällen kann für Lehrpersonen an Privatschulen eine Fachaufsicht angeordnet oder ihnen bei schweren Pflichtverletzungen das Unterrichten untersagt werden.
 
@@ -400,7 +406,7 @@ beschliesst:
 
 <sup>1</sup> Privatschulen können die in der öffentlichen Schule während der Schulpflicht abgegebenen obligatorischen Lehrmittel unentgeltlich beziehen, sofern diese für Schülerinnen und Schüler aus dem Kanton Obwalden eingesetzt werden.
 
-<sup>2</sup> Schülerinnen und Schüler, deren Erziehungsberechtigte zivilrechtlichen Wohnsitz im Kanton Obwalden haben, können die kantonalen Schuldienste unentgeltlich in Anspruch nehmen.
+<sup>2</sup> Schülerinnen und Schüler, deren Eltern bzw. Erziehungsberechtigte zivilrechtlichen Wohnsitz im Kanton Obwalden haben, können die kantonalen Schuldienste unentgeltlich in Anspruch nehmen.
 
 <sup>3</sup> Im Übrigen bestehen keine weiteren Ansprüche.
 
@@ -408,7 +414,9 @@ beschliesst:
 
 **Privatunterricht**
 
-<sup>1</sup> Der Besuch von Privatunterricht zur Erfüllung der Volksschulpflicht ausserhalb von Privatschulen bedarf der Bewilligung des Kantons. An die Bewilligung können Bedingungen geknüpft werden.
+<sup>1</sup> Der Besuch von Privatunterricht zur Erfüllung der Schulpflicht ausserhalb von Privatschulen ist nicht erlaubt.
+
+<sup>2</sup> Ist die Erfüllung der Schulpflicht weder an einer öffentlichen Schule noch an einer Privatschule möglich, kann Privatunterricht ausnahmsweise zugelassen werden. Dies bedarf der Bewilligung des Kantons. An die Bewilligung können Auflagen und Bedingungen geknüpft werden.
 
 ### 2.6. Schuldienste und weitere Angebote
 
@@ -421,7 +429,7 @@ beschliesst:
 - a. einen schulpsychologischen Dienst;
 - b. eine psychomotorische Therapiestelle;
 - c. einen logopädischen Dienst;
-- d. eine Berufs- und Weiterbildungsberatungsstelle.
+- d. eine Berufs- und Weiterbildungsberatung.
 
 <sup>2</sup> Die Zusammenarbeit mit weiteren kantonalen Beratungsdiensten ist sicherzustellen.
 
@@ -431,7 +439,7 @@ beschliesst:
 
 **Weitere Angebote**
 
-<sup>1</sup> Zur Ergänzung und Unterstützung der Bildungs- und Erziehungsarbeit kann die Einwohnergemeinde Fachpersonen für schulische Sozialarbeit einsetzen. Der Kanton und die Einwohnergemeinde koordinieren gemeinsam die Aufgabenbereiche zwischen den kantonalen Schul- und Beratungsdiensten und der schulischen Sozialarbeit.
+<sup>1</sup> Zur Ergänzung und Unterstützung der Bildungs- und Erziehungsarbeit können der Kanton und die Einwohnergemeinde Fachpersonen für Schulsozialarbeit einsetzen.
 
 <sup>2</sup> Den Lehrpersonen, Schulleitungen und Mitgliedern von Schulbehörden steht eine interkantonal oder kantonal organisierte Stelle für pädagogische und psychologische Beratung zur Verfügung.
 
@@ -483,7 +491,7 @@ beschliesst:
 
 <sup>2</sup> Die Kosten für den konfessionellen Religionsunterricht tragen die Kirchgemeinden. Wo keine selbstständige Kirchgemeinde besteht, trägt die Einwohnergemeinde die Kosten zu Lasten der Kirchenrechnung.
 
-<sup>3</sup> Der Kanton und die Einwohnergemeinde stellen die für den konfessionellen Religionsunterricht erforderlichen Räumlichkeiten unentgeltlich zur Verfügung. Die zeitliche Ansetzung des konfessionellen Religionsunterrichts erfolgt in Absprache zwischen den Schulleitungen und den Beauftragten der Kirchen. Die Blockzeiten sind zu berücksichtigen.
+<sup>3</sup> Der Kanton und die Einwohnergemeinde stellen die für den konfessionellen Religionsunterricht erforderlichen Räumlichkeiten unentgeltlich zur Verfügung. Die zeitliche Ansetzung des konfessionellen Religionsunterrichts erfolgt ausserhalb der Blockzeiten in Absprache zwischen der Schulleitung und den Beauftragten der Kirchen.
 
 ### 2.10. Kostentragung und Beiträge
 
@@ -493,9 +501,10 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinde trägt, soweit nicht der Kanton oder Dritte Beiträge entrichten, die Kosten:
 
-- a. der öffentlichen Schulen der Volksschulstufe;
-- b. allfälliger Fachpersonen für schulische Sozialarbeit gemäss Art. 42 Abs. 1 dieses Gesetzes;
-- b1. Weiterbildungskosten der Lehrpersonen der Volksschulstufe;
+- a. der öffentlichen Schulen der Einwohnergemeinde (eingeschlossen schulergänzende Tagesstrukturen und frühe Sprachförderung);
+- a1. des Transports bei unzumutbarem Schulweg während der obligatorischen Schulzeit gemäss Art. 14 Abs. 2 dieses Gesetzes;
+- b. allfälliger Fachpersonen für Schulsozialarbeit gemäss Art. 42 Abs. 1 dieses Gesetzes;
+- b1. der Weiterbildung der Lehrpersonen der Volksschule, soweit die Verordnung dies vorsieht;
 - c. …
 - d. der Musikschulen.
 
@@ -505,26 +514,30 @@ beschliesst:
 
 <sup>1</sup> Der Kanton trägt, soweit nicht Dritte Beiträge entrichten, die Kosten:
 
-- a. der öffentlichen Schulen der Sekundarstufe II (eingeschlossen Brückenangebote);
+- a. der öffentlichen Schulen des Kantons;
+- a1. der Angebote des Kantons im Tertiär- und Quartärbereich;
 - b. des schulpsychologischen Dienstes;
 - c. der psychomotorischen Therapiestelle;
 - d. des logopädischen Dienstes;
+- d1. allfälliger Fachpersonen für Schulsozialarbeit gemäss Art. 42 Abs. 1 dieses Gesetzes;
 - e. der pädagogischen und psychologischen Beratung für Lehrpersonen, Schulleitungen und Mitglieder von Schulbehörden;
 - f. der Berufs- und Weiterbildungsberatung;
 - g. …
 - h. für die Aufwendungen der Stipendien und Darlehen;
 - i. der Lehrmittel während der Schulpflicht;
 - k. für Kurse und Stellvertretungen im Zusammenhang mit der Kaderbildung, soweit diese im Auftrag des Kantons stattfindet;
-- l. für Kurse und Stellvertretungen im Zusammenhang mit der Weiterbildung von Lehrpersonen der öffentlichen Schulen der Sekundarstufe II, soweit die Verordnung dies vorsieht;
+- l. der Weiterbildung der Lehrpersonen der kantonalen Schulen, soweit die Verordnung dies vorsieht;
 - m. für weitere Dienstleistungen, die der Weiterentwicklung des Bildungswesens dienen.
 
 #### Art. 51
 
-**Kostentragung durch Lehrpersonen**
+**Kostentragung durch Kanton und Einwohnergemeinde**
 
-<sup>1</sup> …
+<sup>1–2</sup> …
 
-<sup>2</sup> Der Kantonsrat regelt die Mitbeteiligung der Lehrpersonen an den Weiterbildungskosten durch Verordnung.
+<sup>4</sup> Der Kanton und die Einwohnergemeinde tragen nach Massgabe der Verordnung über Leistungsangebote in den Bereichen Sozialpädagogik, Sonderschulung und Förderung von Menschen mit einer Behinderung die Kosten der Sonderschulung[^51-1].
+
+[^51-1]: GDB [410.13](http://gdb.ow.ch/data/410.13/de)
 
 #### Art. 52
 
@@ -532,13 +545,13 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann der Einwohnergemeinde Beiträge zur Förderung und Koordination der Schulentwicklung leisten.
 
-<sup>2</sup> Der Kanton kann Beiträge an die schulergänzenden Tagesstrukturen und Angebote leisten. Der Kantonsrat regelt die Einzelheiten durch Verordnung.
+<sup>2</sup> Der Kanton leistet Beiträge an die schulergänzenden Tagesstrukturen gemäss Art. 66a dieses Gesetzes.
 
 #### Art. 53
 
 **Drittmittel**
 
-<sup>1</sup> Die Unterstützung der öffentlichen Schulen durch Dritte ist zulässig, soweit diese den Bildungszielen nicht widerspricht und sie keinen negativen Einfluss auf den Schulbetrieb ausüben.
+<sup>1</sup> Die Unterstützung der öffentlichen Schulen durch Dritte ist zulässig, soweit diese keinen negativen Einfluss auf den Schulbetrieb ausüben und es den Bildungszielen nicht widerspricht.
 
 ## 3. Volksschulstufe
 
@@ -548,7 +561,7 @@ beschliesst:
 
 **Gliederung**
 
-<sup>1</sup> Die Volksschulstufe besteht aus der Kindergartenstufe, der Primarstufe und der Sekundarstufe I. Die Kindergartenstufe und die ersten Jahre der Primarstufe können gemäss Art. 69 dieses Gesetzes in der Basisstufe oder Grundstufe vereinigt werden. Die Sekundarstufe I umfasst die letzten drei Jahre der Schulpflicht, die in der Orientierungsschule oder im Gymnasium erfüllt werden.
+<sup>1</sup> Die Volksschulstufe besteht aus der Kindergartenstufe, der Primarstufe und der Sekundarstufe I. Die Kindergartenstufe und die ersten zwei Jahre der Primarstufe können in einer Basisstufe vereinigt werden. Die Sekundarstufe I umfasst die letzten drei Jahre der Schulpflicht, die in der Orientierungsschule oder im Gymnasium erfüllt werden.
 
 #### Art. 55
 
@@ -561,15 +574,17 @@ beschliesst:
 - c. fördern die Achtung vor den Mitmenschen und der Umwelt;
 - d. sind bestrebt, die Freude am Lernen und an der Leistung zu wecken und zu erhalten sowie das Urteilsvermögen zu fördern.
 
-<sup>2</sup> Der Unterricht berücksichtigt die unterschiedliche Leistungsfähigkeit und die individuellen Begabungen und Neigungen der Kinder.
+<sup>2</sup> Der Unterricht berücksichtigt die unterschiedliche Leistungsfähigkeit und die individuellen Begabungen und Neigungen der Kinder und Jugendlichen.
 
 #### Art. 56
 
 **Recht auf Schulbesuch, Schulpflicht**
 
-<sup>1</sup> Alle Kinder mit Aufenthalt im Kanton haben das Recht, die öffentlichen Schulen der Volksschulstufe zu besuchen.
+<sup>1</sup> Alle Kinder und Jugendlichen mit Aufenthalt im Kanton haben das Recht, die öffentlichen Schulen der Volksschulstufe zu besuchen.
 
-<sup>2</sup> Die Schulpflicht beginnt gemäss Art. 68 dieses Gesetzes mit dem obligatorischen Kindergartenjahr und dauert zehn Jahre, längstens jedoch bis zum Abschluss der Orientierungsschule.
+<sup>2</sup> Die Schulpflicht beginnt gemäss Art. 68 dieses Gesetzes mit dem obligatorischen Kindergarten und dauert zehn Jahre, längstens jedoch bis zum Abschluss der Orientierungsschule.
+
+<sup>2a</sup> Die Anmeldung zum freiwilligen Kindergarten führt zu einer entsprechenden Besuchspflicht.
 
 <sup>3</sup> Die Einwohnergemeinde überprüft die Einhaltung der Schulpflicht.
 
@@ -583,7 +598,7 @@ beschliesst:
 
 <sup>2</sup> Lehr- und Gebrauchsmittel werden im Kindergarten und während der obligatorischen Schulzeit unter dem Vorbehalt von Absatz 3 unentgeltlich zur Verfügung gestellt.
 
-<sup>3</sup> Die Beteiligung der Erziehungsberechtigten an den Kosten für Gebrauchsmittel sowie für Exkursionen, Schulreisen und Klassenlager regelt der Regierungsrat durch Ausführungsbestimmungen.
+<sup>3</sup> Die Beteiligung der Eltern bzw. Erziehungsberechtigten an den Kosten für Gebrauchsmittel sowie für Exkursionen, Schulreisen und Klassenlager regelt der Regierungsrat durch Ausführungsbestimmungen.
 
 #### Art. 58
 
@@ -597,7 +612,7 @@ beschliesst:
 
 <sup>1</sup> Die Qualitätssicherung und -entwicklung auf der Volksschulstufe ist eine Verbundaufgabe zwischen der Einwohnergemeinde und dem Kanton.
 
-<sup>2</sup> Der Kantonsrat regelt die Einzelheiten durch Verordnung.
+<sup>2</sup> …
 
 ### 3.2. Schulen der Einwohnergemeinde
 
@@ -607,7 +622,7 @@ beschliesst:
 
 **Schule als pädagogische Organisation**
 
-<sup>1</sup> Die Schule ist eine pädagogische Organisation. Sie wird als betrieblich-organisatorische Einheit geleitet. Sie umfasst die Schulleitung, die Lehrpersonen, die Schülerinnen und Schüler sowie das Betriebspersonal.
+<sup>1</sup> Die Schule ist eine pädagogische Organisation. Sie wird als betrieblich-organisatorische Einheit geleitet. Sie umfasst insbesondere die Schulleitung, die Lehrpersonen, die Schülerinnen und Schüler sowie das Betriebspersonal.
 
 <sup>2</sup> Die Schule wird aus einem oder mehreren Schulhäusern einer Gemeinde unter Einbezug der Kindergärten gebildet.
 
@@ -621,9 +636,9 @@ beschliesst:
 
 **Lehrplan und Stundentafel**
 
-<sup>1</sup> Der Lehrplan enthält die Unterrichtsziele und -inhalte.
+<sup>1</sup> Der Lehrplan enthält die fachlichen und überfachlichen Kompetenzen.
 
-<sup>2</sup> Die Stundentafel bestimmt die Aufteilung der Unterrichtszeit auf die Fächer bzw. Fächergruppen. Sie legt fest, welches Mindestangebot an fakultativem Unterricht die Schulen bereitzustellen haben.
+<sup>2</sup> Die Stundentafel bestimmt die Aufteilung der Unterrichtszeit auf die Fächer bzw. Fächergruppen.
 
 <sup>3</sup> Der Lehrplan und die Stundentafel werden vom Kanton erlassen.
 
@@ -637,9 +652,7 @@ beschliesst:
 
 #### Art. 63
 
-**Gestaltung des Unterrichts**
-
-<sup>1</sup> Die Lehrpersonen haben das Recht, im Rahmen des Lehrplans und des Schulleitbilds sowie unter Berücksichtigung anerkannter Methoden und der obligatorischen Lehrmittel, den Unterricht frei zu gestalten.
+**…**
 
 #### Art. 64
 
@@ -667,37 +680,63 @@ beschliesst:
 
 <sup>2</sup> Über Schulbesuch, Leistung und Verhalten wird ein Zeugnis ausgestellt. Form, Inhalt und Termine sowie die Bedingungen zur Promotion werden vom Kanton festgelegt.
 
-### 3.2.2. Kindergarten
+#### Art. 66a
+
+**Schulergänzende Tagesstrukturen**
+
+<sup>1</sup> Die Einwohnergemeinde kann schulergänzende Tagesstrukturen anbieten. Sie führt diese selber oder beauftragt durch Abschluss einer Leistungsvereinbarung eine private Institution mit der Führung.
+
+<sup>2</sup> Von den Eltern bzw. Erziehungsberechtigten werden Beiträge für Verpflegung und Betreuung erhoben. Der Einwohnergemeinderat legt die Höhe dieser Beiträge in einem Reglement fest. Die Einkommensverhältnisse sind bei der Tarifgestaltung zu berücksichtigen.
+
+<sup>3</sup> Der Kanton unterstützt die Einwohnergemeinde mit Beiträgen, sofern sie die kantonalen Vorgaben erfüllt.
+
+<sup>4</sup> Die Kantonsbeiträge betragen 40 Prozent der Nettokosten der Einwohnergemeinde.
+
+<sup>5</sup> Der Regierungsrat definiert die kantonalen Vorgaben in Ausführungsbestimmungen.
+
+### 3.2.2. Frühe Sprachförderung
+
+[^66a-1]
+
+[^66a-1]: Der mit dem Nachtrag vom 22. Mai 2025 eingefügte Art. 66b über die frühe Sprachförderung tritt am 1. Januar 2027 in Kraft
+
+### 3.2.2a. Kindergarten und Primarschule
 
 #### Art. 67
 
-**Ziel**
+**Ziel des Kindergartens**
 
 <sup>1</sup> Der Kindergarten fördert die ganzheitliche Entwicklung der Kinder und bereitet sie auf die Primarschule vor.
 
 #### Art. 68
 
-**Eintritt, Dauer**
+**Eintritt und Dauer des Kindergartens**
 
-<sup>1</sup> Kinder, die bis zu einem bestimmten Stichtag das fünfte Altersjahr vollenden, treten auf Beginn des nächsten Schuljahrs in den Kindergarten ein.
+<sup>1</sup> Kinder, die bis zu einem bestimmten Stichtag das vierte Altersjahr vollenden, können auf Beginn des nächsten Schuljahrs in den freiwilligen Kindergarten eintreten. Mit dem Eintritt in den freiwilligen Kindergarten entfallen weitere Stichtage.
 
-<sup>2</sup> Der obligatorische Kindergarten dauert ein Jahr. Die Einwohnergemeinde kann ein freiwilliges zweites Kindergartenjahr anbieten.
+<sup>1a</sup> Kinder, die bis zu einem bestimmten Stichtag das fünfte Altersjahr vollenden, treten auf Beginn des nächsten Schuljahrs in den obligatorischen Kindergarten ein.
+
+<sup>2</sup> Die Einwohnergemeinde bietet zwei Kindergartenjahre an. Der obligatorische Kindergarten dauert ein Jahr.
 
 #### Art. 69
 
-**Basisstufe, Grundstufe**
+**Basisstufe**
 
-<sup>1</sup> Wird regional oder gesamtschweizerisch das Modell der Basisstufe oder Grundstufe zur Einführung empfohlen, so kann der Kantonsrat dies in Abweichung zu diesem Gesetz durch Verordnung beschliessen.
+<sup>1</sup> Die Einwohnergemeinde kann eine Basisstufe anbieten.
 
-### 3.2.3. Primarschule
+<sup>2</sup> Die Basisstufe umfasst den freiwilligen und den obligatorischen Kindergarten sowie die erste und zweite Klasse der Primarschule.
+
+<sup>3</sup> Der Regierungsrat kann weitere Einzelheiten, insbesondere zur Organisation und zur Ausbildung der Lehrpersonen, in Ausführungsbestimmungen regeln.
+
+### 3.2.3.
 
 #### Art. 70
 
-**Ziel, Dauer**
+**Ziel und Dauer der Primarschule**
 
 <sup>1</sup> In der Primarschule werden die Kinder zum strukturierten Lernen geführt, in ihrer Selbstständigkeit und Gemeinschaftsfähigkeit gefördert sowie auf den Übertritt in die Sekundarstufe I vorbereitet.
 
-<sup>2</sup> Die Primarschule dauert von der 1. bis zur 6. Klasse.
+<sup>2</sup> Die Primarschule dauert sechs Jahre.
 
 ### 3.2.4. Orientierungsschule
 
@@ -705,9 +744,9 @@ beschliesst:
 
 **Ziel, Dauer**
 
-<sup>1</sup> In der Orientierungsschule werden die in der Primarschule erworbenen Kenntnisse vertieft und erweitert. Die Schülerinnen und Schüler werden im Berufsfindungsprozess und bei der Wahl der weiterführenden Schulen unterstützt sowie auf den Übertritt an weiterführende Schulen und auf das Berufsleben vorbereitet.
+<sup>1</sup> In der Orientierungsschule werden die in der Primarschule erworbenen Kenntnisse vertieft und erweitert. Die Schülerinnen und Schüler werden im Prozess zur Berufs- und Ausbildungswahl unterstützt sowie auf den Übertritt an weiterführende Schulen und auf das Berufsleben vorbereitet.
 
-<sup>2</sup> Die Orientierungsschule dauert von der 7. bis zur 9. Klasse.
+<sup>2</sup> Die Orientierungsschule dauert drei Jahre.
 
 #### Art. 72
 
@@ -723,13 +762,13 @@ beschliesst:
 
 <sup>1</sup> Förderangebote dienen der bestmöglichen Schulung von Schülerinnen und Schülern mit besonderen pädagogischen Bedürfnissen.
 
-<sup>2</sup> Besondere pädagogische Bedürfnisse entstehen bei Kindern mit Lernschwierigkeiten in einzelnen Fächern oder bei Kindern, die zu weitergehenden Leistungen fähig sind. Ebenso können Massnahmen zur Integration besondere pädagogische Betreuung erfordern.
+<sup>2</sup> Besondere pädagogische Bedürfnisse entstehen bei Schülerinnen und Schülern, die Schwierigkeiten im Verhalten oder beim Lernen haben, die zu weitergehenden Leistungen fähig sind oder die Deutsch als Zweitsprache lernen. Ebenso können Massnahmen zur Integration besondere pädagogische Betreuung erfordern.
 
 #### Art. 74
 
 **Formen der Förderung**
 
-<sup>1</sup> Die Einwohnergemeinde bietet in der Regel eine integrative Förderung an, die gemeinsam durch Förder- und Regel-Lehrpersonen vermittelt wird.
+<sup>1</sup> Die Einwohnergemeinde bietet in der Regel eine integrative Förderung an, die gemeinsam durch Lehr- und Fachpersonen vermittelt wird.
 
 <sup>2</sup> Sie kann in Ausnahmefällen auch Spezialklassen führen.
 
@@ -754,23 +793,15 @@ beschliesst:
 
 <sup>2</sup> Integrative Lösungen sind separierenden Lösungen vorzuziehen, unter Beachtung des Wohles und der Entwicklungsmöglichkeiten des Kindes oder des Jugendlichen sowie unter Berücksichtigung des schulischen Umfeldes und der Schulorganisation.
 
-#### Art. 77
+#### Art. 77–78
 
-**Verfahren**
-
-<sup>1</sup> Der Regierungsrat regelt das Verfahren in Ausführungsbestimmungen. In den Prozess betreffend die Anordnung sonderpädagogischer Massnahmen im Bereich der Sonderschulung sind alle Beteiligten, einschliesslich die Erziehungsberechtigten, mit einzubeziehen.
-
-#### Art. 78
-
-**Heilpädagogische Früherziehung**
-
-<sup>1</sup> Im Sinne der heilpädagogischen Früherziehung können auch noch nicht schulpflichtige Kinder in die Sonderschule aufgenommen oder ambulant heilpädagogisch gefördert werden.
+**…**
 
 #### Art. 79
 
-**Kostentragung**
+**Ergänzende Bestimmungen**
 
-<sup>1</sup> Die Kostentragung der sonderpädagogischen Massnahmen im Bereich der Sonderschulung regelt der Kantonsrat durch Verordnung.
+<sup>1</sup> Der Kantonsrat regelt weitere Einzelheiten, insbesondere über die Leistungsangebote und die Kostentragung der sonderpädagogischen Massnahmen im Bereich der Sonderschulung, durch Verordnung.
 
 ## 4. Sekundarstufe II
 
@@ -802,19 +833,20 @@ beschliesst:
 
 **Ziel**
 
-<sup>1</sup> Die Kantonsschule vermittelt eine umfassende Allgemeinbildung und führt die Schülerinnen und Schüler sowie Studierenden zur Hochschulreife.
+<sup>1</sup> Die Kantonsschule vermittelt eine umfassende Allgemeinbildung und führt die Schülerinnen und Schüler sowie Studierenden zur allgemeinen Studierfähigkeit und zur vertieften Gesellschaftsreife.
 
-<sup>2</sup> Sie gewährleistet den Anschluss an weiterführende Schulen wie Universitäten oder berufsbildende Schulen und verfolgt die Zielsetzungen der Maturitäts-Anerkennungsbestimmungen des Bundes[^83-1] und der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren sowie der schweizerischen Rahmenlehrpläne.
+<sup>2</sup> Sie gewährleistet den Anschluss an weiterführende Schulen, insbesondere Universitäten, Eidgenössische Technische Hochschulen sowie Pädagogische Hochschulen und verfolgt die Zielsetzungen der Maturitätsanerkennungsverordnung (MAV) des Bundes[^83-1] und des Maturitätsanerkennungsreglements (MAR) der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren[^83-2] sowie der schweizerischen Rahmenlehrpläne.
 
 [^83-1]: SR [413.11](https://db.clex.ch/link/Bund/413.11/de)
+[^83-2]: [www.edk.ch](https://www.edk.ch)
 
 #### Art. 84
 
 **Ausbildung**
 
-<sup>1</sup> Die Kantonsschule bietet die Möglichkeit, einen vom Bund und von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren anerkannten Maturitätsausweis zu erlangen.
+<sup>1</sup> Die Kantonsschule bietet die Möglichkeit, ein vom Bund und von der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren anerkanntes Maturitätszeugnis zu erlangen.
 
-<sup>2</sup> Die Ausbildung nach der Primarschule dauert sechs Jahre.
+<sup>2</sup> Die Ausbildung nach der Primarschule dauert sechs Jahre, wovon die ersten drei Jahre zur Sekundarstufe I und die restlichen Jahre zur Sekundarstufe II zählen.
 
 <sup>3</sup> Es ist der gebrochene und der ungebrochene Bildungsweg gemäss Art. 86 Abs. 2 dieses Gesetzes möglich.
 
@@ -824,7 +856,7 @@ beschliesst:
 
 **Pädagogische Organisation**
 
-<sup>1</sup> Die Kantonsschule ist eine pädagogische Organisation. Sie wird als betrieblich-organisatorische Einheit geleitet. Sie umfasst das Rektorat, die Lehrpersonen, die Schülerinnen und Schüler, die Studierenden sowie das Betriebspersonal.
+<sup>1</sup> Die Kantonsschule ist eine pädagogische Organisation. Sie wird als betrieblich-organisatorische Einheit geleitet. Sie umfasst insbesondere das Rektorat, die Lehrpersonen, die Schülerinnen und Schüler und Studierenden sowie das Betriebspersonal.
 
 <sup>2</sup> Der Kanton ist zuständig für den Erlass:
 
@@ -851,7 +883,7 @@ beschliesst:
 
 <sup>1</sup> Für den Besuch der Kantonsschule ist ein Schulgeld zu entrichten.
 
-<sup>2</sup> Während der Dauer der Schulpflicht werden das Schulgeld und die Kosten für Lehr- und Gebrauchsmittel vom Kanton getragen, sofern die Erziehungsberechtigten zivilrechtlichen Wohnsitz im Kanton haben.
+<sup>2</sup> Während der Dauer der Schulpflicht werden das Schulgeld und die Kosten für Lehr- und Gebrauchsmittel vom Kanton getragen, sofern die Eltern bzw. Erziehungsberechtigten zivilrechtlichen Wohnsitz im Kanton haben.
 
 #### Art. 88
 
@@ -885,15 +917,13 @@ beschliesst:
 
 **Ergänzende Bestimmungen**
 
-<sup>1</sup> Der Regierungsrat regelt weitere Einzelheiten, insbesondere über die Zulassung, die Höhe und Fälligkeit des Schulgeldes, die Kostentragung für freiwilligen Musikunterricht, die Studienwochen und besondere Verbrauchsmaterialien, die Klassengrössen, den Lehrplan und die Stundentafel, die Lehrmittel, die Beurteilung und Promotion, die Qualitätssicherung, die Aufgaben und Zuständigkeiten des Rektors oder der Rektorin, die Mensa mit Mittagsverpflegung sowie die Maturitätsprüfungen, in Ausführungsbestimmungen.
+<sup>1</sup> Der Regierungsrat regelt weitere Einzelheiten, insbesondere über die Zulassung, die Höhe und Fälligkeit des Schulgeldes, die Kostentragung für freiwilligen Musikunterricht, die Studienwochen und besondere Verbrauchsmaterialien, die Klassengrössen, den Lehrplan und die Stundentafel, die Lehrmittel, die Beurteilung und Promotion, die Aufgaben und Zuständigkeiten des Rektors oder der Rektorin, die Mensa mit Mittagsverpflegung sowie die Maturitätsprüfungen, in Ausführungsbestimmungen.
 
 ### 4.2.2. Vereinbarungen
 
 #### Art. 92
 
-**Vereinbarung mit dem Kloster Muri-Gries**
-
-<sup>1</sup> Die Zusammenarbeit bezüglich Kantonsschule zwischen dem Kanton und dem Kloster Muri-Gries wird, soweit notwendig, durch Vertrag geregelt.
+**…**
 
 #### Art. 93
 
@@ -924,11 +954,11 @@ beschliesst:
 
 #### Art. 96
 
-**Kostentragung durch die Erziehungsberechtigten**
+**Kostentragung durch die Eltern bzw. Erziehungsberechtigten**
 
-<sup>1</sup> Die Erziehungsberechtigten tragen das Schulgeld sowie die Kosten für die Lehr- und Gebrauchsmittel nach der obligatorischen Schulzeit.
+<sup>1</sup> Die Eltern bzw. Erziehungsberechtigten tragen das Schulgeld sowie die Kosten für die Lehr- und Gebrauchsmittel nach der obligatorischen Schulzeit.
 
-<sup>2</sup> Allfällige Transportkosten für den Schulweg sowie die auswärtige Verpflegung gehen während der gesamten gymnasialen Ausbildung zu Lasten der Erziehungsberechtigten.
+<sup>2</sup> Allfällige Transportkosten für den Schulweg sowie die auswärtige Verpflegung gehen während der gesamten gymnasialen Ausbildung zu Lasten der Eltern bzw. Erziehungsberechtigten. Vorbehalten bleibt Art. 14 Abs. 2 dieses Gesetzes bei unzumutbarem Schulweg während der obligatorischen Schulzeit.
 
 ### 4.3. Berufsbildung
 
@@ -940,7 +970,7 @@ beschliesst:
 
 <sup>1</sup> Die Berufsbildung auf der Sekundarstufe II vermittelt eine vertiefte Allgemeinbildung und eine berufsspezifische Ausbildung mit dem Ziel, einen eidgenössisch anerkannten beruflichen Abschluss zu erlangen. Sie bereitet auf Ausbildungsgänge der Tertiärstufe vor.
 
-<sup>2</sup> Der Kanton kann ein bedarfsgerechtes Angebot an Brückenangeboten führen um Studierende am Ende der obligatorischen Schulzeit auf die Berufsbildung vorzubereiten.
+<sup>2</sup> Der Kanton kann ein bedarfsgerechtes Angebot an Brückenangeboten führen, um Schülerinnen und Schüler am Ende der obligatorischen Schulzeit auf die Berufsbildung vorzubereiten.
 
 <sup>3</sup> Zeichnet sich ein Ungleichgewicht auf dem Markt für berufliche Grundbildung ab oder ist ein solches Ungleichgewicht bereits eingetreten, so kann der Kanton im Rahmen der verfügbaren Mittel ausgleichende Massnahmen treffen.
 
@@ -970,7 +1000,7 @@ beschliesst:
 
 **Pädagogische Organisation**
 
-<sup>1</sup> Das Berufs- und Weiterbildungszentrum ist eine pädagogische Organisation. Sie wird als betrieblich-organisatorische Einheit geleitet. Sie umfasst das Rektorat, die Lehrpersonen, die Studierenden sowie das Betriebspersonal.
+<sup>1</sup> Das Berufs- und Weiterbildungszentrum ist eine pädagogische Organisation. Sie wird als betrieblich-organisatorische Einheit geleitet. Sie umfasst insbesondere das Rektorat, die Lehrpersonen, die Schülerinnen und Schüler, Studierenden und Lernenden sowie das Betriebspersonal.
 
 <sup>2</sup> Der Kanton ist zuständig für den Erlass:
 
@@ -994,7 +1024,7 @@ beschliesst:
 
 **Ergänzende Bestimmungen**
 
-<sup>1</sup> Der Regierungsrat regelt die Ausbildungsangebote und die Höhe allfälliger Kursgelder sowie weitere Einzelheiten, insbesondere über die Kostenbeteiligung, die Qualitätssicherung, die Aufgaben und Zuständigkeiten des Rektors oder der Rektorin sowie die Berufsmaturität, in Ausführungsbestimmungen.
+<sup>1</sup> Der Regierungsrat regelt die Ausbildungsangebote und die Höhe allfälliger Kursgelder sowie weitere Einzelheiten, insbesondere über die Kostenbeteiligung, die Aufgaben und Zuständigkeiten des Rektors oder der Rektorin sowie die Berufsmaturität, in Ausführungsbestimmungen.
 
 ### 4.3.3. Vereinbarungen
 
@@ -1008,7 +1038,7 @@ beschliesst:
 
 **Ausserkantonaler Schulbesuch**
 
-<sup>1</sup> Soweit der berufliche Unterricht innerhalb des Kantons nicht gewährleistet werden kann, vermittelt das zuständige Amt den Besuch von ausserkantonalen Berufsfachschulen, Berufsmaturitätsschulen und Fachkursen.
+<sup>1</sup> Soweit der berufliche Unterricht innerhalb des Kantons nicht gewährleistet werden kann, vermittelt das Amt für Berufsbildung den Besuch von ausserkantonalen Berufsfachschulen, Berufsmaturitätsschulen und Fachkursen.
 
 <sup>2</sup> Der Kanton ermöglicht die Ausbildung an ausserkantonalen Ausbildungseinrichtungen der Berufsbildung durch Vereinbarungen und Beiträge.
 
@@ -1033,11 +1063,11 @@ beschliesst:
 
 #### Art. 108
 
-**Kostentragung durch die Studierenden**
+**Kostentragung durch die Lernenden**
 
-<sup>1</sup> Der berufliche Unterricht an öffentlichen Berufsfachschulen ist für Studierende unentgeltlich.
+<sup>1</sup> Der berufliche Unterricht an öffentlichen Berufsfachschulen ist für Lernende unentgeltlich.
 
-<sup>2</sup> Die Anschaffung der Lehrmittel geht zu Lasten der Studierenden. Für Gebrauchsmittel kann von den Studierenden ein Beitrag erhoben werden.
+<sup>2</sup> Die Anschaffung der Lehrmittel geht zu Lasten der Lernenden. Für Gebrauchsmittel kann von den Lernenden ein Beitrag erhoben werden.
 
 ## 5. Tertiärstufe
 
@@ -1045,13 +1075,13 @@ beschliesst:
 
 **Gliederung**
 
-<sup>1</sup> Die Tertiärstufe umfasst die höhere Berufs- und Fachschulbildung, die Fachhochschulbildung sowie die universitäre Hochschulbildung.
+<sup>1</sup> Die Tertiärstufe umfasst die höhere Berufsbildung sowie die Hochschulbildung. Die Bildungsangebote schliessen an die Ausbildungsgänge der Sekundarstufe II an.
 
 #### Art. 110
 
 **Auftrag**
 
-<sup>1</sup> Auf der Tertiärstufe wird wissenschaftliches Denken und professionelles Arbeiten in einem ausgewählten Fachbereich gefördert.
+<sup>1</sup> Auf der Tertiärstufe werden wissenschaftliches Denken und professionelles Arbeiten in einem ausgewählten Fachbereich sowie Forschung und Wissens- und Technologietransfer gefördert.
 
 #### Art. 111
 
@@ -1059,11 +1089,27 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann den Besuch von Ausbildungseinrichtungen und -angeboten auf der Tertiärstufe durch Vereinbarungen und Beiträge ermöglichen.
 
+#### Art. 111a
+
+**Eigene Institute, Beteiligungen und Zusammenarbeit**
+
+<sup>1</sup> Der Kanton kann Hochschulen und Höhere Fachschulen führen.
+
+<sup>2</sup> Er kann Hochschulinstitute sowie Zweigstellen von Hochschulen und Höheren Fachschulen anderer Träger einrichten oder sich daran beteiligen.
+
+<sup>3</sup> Er kann Organisationen im Bereich der Forschung sowie des Wissens- und Technologietransfers und andere Formen der Zusammenarbeit im tertiären Bildungsbereich mit Beiträgen unterstützen.
+
 #### Art. 112
 
-**Kostentragung**
+**Kostentragung durch den Kanton**
 
-<sup>1</sup> Die Kosten für die Aus- und Weiterbildung auf der Tertiärstufe im Rahmen der Vereinbarungen trägt der Kanton.
+<sup>1</sup> Die Kosten für die Aus- und Weiterbildung auf der Tertiärstufe im Rahmen der Vereinbarungen, für eigene Institute, Beteiligungen und andere Formen der Zusammenarbeit trägt der Kanton.
+
+#### Art. 112a
+
+**Kostentragung durch die Studierenden**
+
+<sup>1</sup> Die Studiengebühren, Lehrmittel und Gebrauchsmittel gehen zu Lasten der Studierenden.
 
 ## 6. Quartärstufe
 
@@ -1079,7 +1125,7 @@ beschliesst:
 
 **Auftrag**
 
-<sup>1</sup> In der Weiterbildung erwerben, erhalten und erweitern Erwachsene im Sinne des lebenslangen Lernens ihre Kompetenzen und Qualifikationen um ihre beruflichen Chancen zu erhöhen und um ihr soziales oder privates Leben selbstverantwortlich gestalten und darin bestehen zu können.
+<sup>1</sup> In der Weiterbildung erwerben, erhalten und erweitern Studierende im Sinne des lebenslangen Lernens ihre Kompetenzen und Qualifikationen, um ihre beruflichen Chancen zu erhöhen und um ihr soziales oder privates Leben selbstverantwortlich gestalten und darin bestehen zu können.
 
 <sup>2</sup> Die Weiterbildung fördert insbesondere die Persönlichkeitsentfaltung, die Lernfähigkeit, die Urteilsbildung, die soziale Mitverantwortung, die beruflichen Qualifikationen, die berufliche Flexibilität sowie die Verantwortung gegenüber der natürlichen Umwelt.
 
@@ -1141,12 +1187,12 @@ beschliesst:
 
 <sup>2</sup> Er ist in stufenübergreifenden Belangen insbesondere zuständig für:
 
-- a. die Bewilligung oder Anordnung von Projekten gemäss Art. 6 Abs. 2 dieses Gesetzes; er kann diese Befugnis dem zuständigen Departement oder Schulträger übertragen;
+- a. die Bewilligung oder Anordnung von Projekten gemäss Art. 6 Abs. 2 dieses Gesetzes; er kann diese Befugnis dem Bildungs- und Kulturdepartement oder dem Schulträger übertragen;
 - b. den Entscheid über die Beteiligung an interkantonalen Fachstellen und Projekten gemäss Art. 8 Abs. 2 dieses Gesetzes;
 - c. die Bewilligung von Privatschulen gemäss Art. 37 dieses Gesetzes;
-- d. den Abschluss einer vertraglichen Regelung mit der Einwohnergemeinde Sarnen betreffend Beteiligung an den Betriebskosten der Kantonsbibliothek gemäss Art. 43 Abs. 3 dieses Gesetzes.
+- d. …
 
-<sup>3</sup> Er ist in Belangen der Volksschulstufe insbesondere zuständig für:
+<sup>3</sup> Er ist in Belangen der Volksschule insbesondere zuständig für:
 
 - a. den Entscheid bei Uneinigkeit betreffend Sicherstellung der Ausbildungsangebote der Einwohnergemeinde gemäss Art. 9 dieses Gesetzes;
 - b. den Entscheid über die Kostentragung für auswärtigen Schulbesuch gemäss Art. 58 dieses Gesetzes;
@@ -1154,11 +1200,11 @@ beschliesst:
 
 <sup>4</sup> Er ist in Belangen der Mittelschulen und weiterer Vollzeitausbildungen der Sekundarstufe II insbesondere zuständig für:
 
-- a. die Festlegung der Schwerpunkts- und Ergänzungsfächer sowie der Mindestschülerzahl zur Führung derselben auf Antrag des zuständigen Departements gemäss Art. 84 Abs. 4 dieses Gesetzes;
+- a. die Festlegung der Schwerpunkts- und Ergänzungsfächer sowie der Mindestschülerzahl zur Führung derselben auf Antrag des Bildungs- und Kulturdepartements gemäss Art. 84 Abs. 4 dieses Gesetzes;
 - b. den Erlass eines Leitbilds, eines Organisationsstatuts und eines Schulprogramms gemäss Art. 85 Abs. 2 dieses Gesetzes;
 - c. den Erlass von Bestimmungen über Beurteilung und Promotion gemäss Art. 88 Abs. 2 dieses Gesetzes;
-- d. Vertragsabschlüsse zur Zusammenarbeit zwischen der Kantonsschule und dem Kloster Muri-Gries gemäss Art. 92 dieses Gesetzes unter dem abschliessenden Genehmigungsvorbehalt des Kantonsrats;
-- e. den Abschluss von Vereinbarungen über Ausbildungsbeiträge im Zusammenhang mit privaten Mittelschulen innerhalb und ausserhalb des Kantons gemäss Art. 93 und 94 dieses Gesetzes, unter Vorbehalt der Genehmigung durch den Kantonsrat beim erstmaligen Vereinbarungsabschluss.
+- d. …
+- e. den Abschluss von Vereinbarungen über Ausbildungsbeiträge im Zusammenhang mit Mittelschulen innerhalb und ausserhalb des Kantons gemäss Art. 93 und 94 dieses Gesetzes, unter dem Vorbehalt der Genehmigung durch den Kantonsrat beim erstmaligen Vereinbarungsabschluss.
 
 <sup>5</sup> Der Regierungsrat ist in Belangen der Berufsbildung insbesondere zuständig für:
 
@@ -1169,12 +1215,15 @@ beschliesst:
 <sup>6</sup> Der Regierungsrat ist in Belangen der Tertiär- und der Quartärstufe insbesondere zuständig für:
 
 - a. die Anerkennung privater Bildungseinrichtungen auf der Tertiärstufe gemäss Art. 37 Abs. 3 dieses Gesetzes;
-- b. die Ermöglichung des Besuchs von Ausbildungseinrichtungen durch Vereinbarungen und Beiträge gemäss Art. 111 dieses Gesetzes.
+- b. die Ermöglichung des Besuchs von Ausbildungseinrichtungen und -angeboten durch Beiträge und den Abschluss von Vereinbarungen gemäss Art. 111 dieses Gesetzes, unter dem Vorbehalt der Genehmigung durch den Kantonsrat beim erstmaligen Vereinbarungsabschluss;
+- c. die Führung, Beteiligung und Unterstützung durch Beiträge und den Abschluss von Vereinbarungen gemäss Art. 111a dieses Gesetzes, unter dem Vorbehalt der Genehmigung durch den Kantonsrat beim erstmaligen Vereinbarungsabschluss.
 
 <sup>7</sup> Der Regierungsrat erlässt die für den Vollzug erforderlichen Ausführungsbestimmungen. Er regelt insbesondere:
 
 - a. die Schuldienste (Art. 41);
-- b. die Aufgaben, die Organisation und Zuständigkeit der Kantonsbibliothek (Art. 46);
+- a1. die kantonalen Vorgaben zu den schulergänzenden Tagesstrukturen (Art. 66a);
+- b. …
+- b1. Einzelheiten zur Basisstufe (Art. 69);
 - c. Einzelheiten zur Kantonsschule (Art. 91);
 - d. die Berufsbildung in Ausführung zur Bundesgesetzgebung (Art. 98);
 - e. Einzelheiten zum Berufs- und Weiterbildungszentrum (Art. 104);
@@ -1183,24 +1232,24 @@ beschliesst:
 
 #### Art. 122
 
-**Zuständiges Departement**
+**Bildungs- und Kulturdepartement**
 
-<sup>1</sup> Das zuständige Departement leitet das gesamte Bildungswesen des Kantons. Es vollzieht die Bildungsgesetzgebung, soweit der Vollzug nicht einer andern Behörde oder Instanz zugewiesen ist.
+<sup>1</sup> Das Bildungs- und Kulturdepartement leitet das gesamte Bildungswesen des Kantons. Es vollzieht die Bildungsgesetzgebung, soweit der Vollzug nicht einer anderen Behörde oder Instanz zugewiesen ist.
 
-<sup>2</sup> Das zuständige Departement ist in stufenübergreifenden Belangen insbesondere zuständig für:
+<sup>2</sup> Das Bildungs- und Kulturdepartement ist in stufenübergreifenden Belangen insbesondere zuständig für:
 
 - a. die Beaufsichtigung der Schulen des Kantons und der Einwohnergemeinde gemäss Art. 7 dieses Gesetzes sowie der Privatschulen gemäss Art. 38 Abs. 1 dieses Gesetzes;
 - b. die Erteilung und den Entzug der Lehrbewilligung gemäss Art. 27 Abs. 3 und 4 dieses Gesetzes;
 - c. die Bereitstellung eines ausreichenden Weiterbildungsangebots für Lehrpersonen gemäss Art. 31 Abs. 2 dieses Gesetzes;
 - d. die Anordnung von Massnahmen zur Aufsicht von Privatschulen und deren Lehrpersonen gemäss Art. 38 Abs. 2 dieses Gesetzes;
-- e. die Bewilligung zum Besuch von Privatunterricht zur Erfüllung der Volksschulpflicht ausserhalb von Privatschulen gemäss Art. 40 dieses Gesetzes.
+- e. die Bewilligung gemäss Art. 40 Abs. 2 dieses Gesetzes.
 
-<sup>3</sup> Das zuständige Departement ist in Belangen der Volksschule insbesondere zuständig für:
+<sup>3</sup> Das Bildungs- und Kulturdepartement ist in Belangen der Volksschule insbesondere zuständig für:
 
 - a. die Bestimmung der Lehrmittel und allfälliger Empfehlungen für Gebrauchsmittel gemäss Art. 62 dieses Gesetzes;
 - b.–c. …
 
-<sup>4</sup> Das zuständige Departement zieht Betroffene bei der Planung von Projekten frühzeitig mit ein, insbesondere bei Projekten auf der Volksschulstufe.
+<sup>4</sup> Das Bildungs- und Kulturdepartement zieht Betroffene bei der Planung von Projekten frühzeitig mit ein, insbesondere bei Projekten in der Volksschule.
 
 #### Art. 123
 
@@ -1212,7 +1261,7 @@ beschliesst:
 
 **Einwohnergemeinderat**
 
-<sup>1</sup> Dem Einwohnergemeinderat obliegt die mittelbare Aufsicht über das Volksschulangebot der Einwohnergemeinde.
+<sup>1</sup> Dem Einwohnergemeinderat obliegt die mittelbare Aufsicht über die Schulen und Angebote der Einwohnergemeinde.
 
 <sup>2</sup> Er hat insbesondere folgende Aufgaben:
 
@@ -1228,7 +1277,7 @@ beschliesst:
 
 <sup>2</sup> Der Schulrat hat die unmittelbare Aufsicht über das Volksschulangebot der Einwohnergemeinde. Er ist für die strategischen Belange der Schule und für alle Massnahmen zuständig, deren Anordnung nicht andern Organen übertragen ist.
 
-<sup>3</sup> Dem Schulrat obliegt:
+<sup>3</sup> Dem Schulrat obliegt, soweit seine Zuständigkeit nicht mittels Verordnung oder Reglement einer anderen Behörde oder Amtsstelle übertragen wurde, insbesondere:
 
 - a. der Erlass des Organisationsstatuts, des Schulleitbilds und des Schulprogramms gemäss Art. 60 Abs. 3 dieses Gesetzes;
 - b. die Antragsstellung in jenen Personalgeschäften, die in die Zuständigkeit des Einwohnergemeinderats fallen;
@@ -1276,15 +1325,15 @@ beschliesst:
 <sup>1</sup> Beschwerden gegen Verfügungen sind zu richten:
 
 - a. an die Schulleitung bzw. das Rektorat, falls sich die Beschwerde gegen eine Lehrperson richtet;
-- b. an den Schulrat bzw. an das zuständige Departement, falls sich die Beschwerde gegen die Schulleitung auf Volksschulstufe bzw. das Rektorat einer kantonalen Schule richtet;
-- c. an das zuständige Departement, falls sich die Beschwerde gegen den Schulrat bzw. das zuständige Amt richtet;
-- d. an den Regierungsrat, falls sich die Beschwerde gegen den Einwohnergemeinderat bzw. das zuständige Departement richtet.
+- b. an den Schulrat bzw. an das Bildungs- und Kulturdepartement, falls sich die Beschwerde gegen die Schulleitung einer Schule der Einwohnergemeinde bzw. das Rektorat einer kantonalen Schule richtet;
+- c. an das Bildungs- und Kulturdepartement, falls sich die Beschwerde gegen den Schulrat bzw. das zuständige Amt richtet;
+- d. an den Regierungsrat, falls sich die Beschwerde gegen den Einwohnergemeinderat bzw. das Bildungs- und Kulturdepartement richtet.
 
-<sup>2</sup> Beschwerden gegen Verfügungen in Disziplinarfällen und betreffend die Zuteilung der Schülerinnen und Schüler sowie Studierenden in die Klassen werden vom zuständigen Departement entschieden.
+<sup>2</sup> Beschwerden gegen Verfügungen in Disziplinarfällen und betreffend die Zuteilung der Schülerinnen und Schüler, Studierenden und Lernenden in die Klassen werden vom Bildungs- und Kulturdepartement entschieden.
 
 <sup>2a</sup> Der Regierungsrat ist einzige verwaltungsinterne Rechtsmittelinstanz bei Beschwerden aus öffentlich-rechtlichen Arbeitsverhältnissen von Lehrpersonen.
 
-<sup>3</sup> Die von einer Verfügung betroffenen Studierenden haben neben den Erziehungsberechtigten, ungeachtet ihrer Handlungsfähigkeit, ein selbstständiges Beschwerderecht.
+<sup>3</sup> Die von einer Verfügung betroffenen Studierenden und Lernenden haben neben den Eltern bzw. Erziehungsberechtigten, ungeachtet ihrer Handlungsfähigkeit, ein selbstständiges Beschwerderecht.
 
 <sup>3a</sup> Bei Beschwerden gegen Promotions- und Übertrittsentscheide gelten die Vorschriften über den Fristenstillstand nicht.
 
@@ -1299,11 +1348,11 @@ beschliesst:
 
 <sup>1</sup> Vorsätzliche Widerhandlungen gegen dieses Gesetz sowie darauf gestützte Erlasse und Verfügungen werden mit Busse bestraft. Strafbar ist insbesondere das unerlaubte Fernbleiben vom obligatorischen Schulunterricht.
 
-<sup>2</sup> Strafbar sind die Erziehungsberechtigten, die selber gegen das Gesetz verstossen oder das Kind zu einer Widerhandlung veranlasst haben.
+<sup>2</sup> Strafbar sind die Eltern bzw. Erziehungsberechtigten, die selber gegen das Gesetz verstossen oder das Kind zu einer Widerhandlung veranlasst haben.
 
 <sup>3</sup> Zuständigkeit und Verfahren richten sich nach der Strafprozessordnung[^129-1].
 
-<sup>4</sup> Von jedem rechtskräftigen Strafurteil gestützt auf Art. 62 oder 63 des Berufsbildungsgesetzes[^129-2] ist dem zuständigen Departement eine Kopie zuzustellen.
+<sup>4</sup> Von jedem rechtskräftigen Strafurteil gestützt auf Art. 62 oder 63 des Berufsbildungsgesetzes[^129-2] ist dem Bildungs- und Kulturdepartement eine Kopie zuzustellen.
 
 [^129-1]: Heute: Gesetz über die Gerichtsorganisation (GDB [134.1](http://gdb.ow.ch/data/134.1/de)) und Schweizerische Strafprozessordnung (SR [312.0](https://db.clex.ch/link/Bund/312.0/de))
 [^129-2]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
@@ -1388,6 +1437,8 @@ geändert durch
 
 \- Nachtrag vom 29. Juni 2018 (OGS 2018, 26), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratssitzungen vom 25. Mai und 29. Juni 2018 (22.18.04), in Kraft seit 1. September 2018, 1. August 2019 und 1. Januar 2020 (OGS 2018, 28),
 
-\- Nachtrag vom 28. Juni 2019 (OGS 2019, 32), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 40)
+\- Nachtrag vom 28. Juni 2019 (OGS 2019, 32), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
+
+\- Nachtrag vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, mit Ausnahme von Art. 66b und Art. 121 Abs. 7 Bst. a2 sowie Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 in Kraft seit 1. August 2026. Art. 66b und Art. 121 Abs. 7 Bst. a2 treten am 1. Januar 2027 in Kraft, Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 am 1. Januar 2028 (ABl vom 2. April 2026).
 
 OGS 2006, 95
