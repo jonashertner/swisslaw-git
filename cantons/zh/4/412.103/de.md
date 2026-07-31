@@ -4,11 +4,10 @@ number: "412.103"
 title: Verordnung über die sonderpädagogischen Massnahmen (VSM)
 short: VSM
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "133"
 adopted: 2007-07-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_103-2007_07_11-2008_08_18-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_103-2007_07_11-2008_08_18-133.html"
 text: pdf
 ---
 
@@ -60,7 +59,7 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 26 - 133
 
 ### 2. Abschnitt: Die einzelnen Massnahmen
 
@@ -122,7 +121,7 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 - b. in Fragen der Prävention im Regelklassenunterricht.
 
-[^9-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 13
+[^9-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
 #### § 11
 
@@ -163,7 +162,7 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 **3**
 
-- 1\. 1. 22 - 115 § 14.[^13-1] <sup>1</sup> Für eine Schülerin oder einen Schüler mit Anspruch auf DaZ-Unterricht beträgt die Unterrichtszeit in DaZ mindestens
+- 1\. 7. 26 - 133 § 14.[^13-1] <sup>1</sup> Für eine Schülerin oder einen Schüler mit Anspruch auf DaZ-Unterricht beträgt die Unterrichtszeit in DaZ mindestens
 
 **c. Umfang**
 
@@ -236,7 +235,7 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 **5**
 
-- 1\. 1. 22 - 115 § 19. <sup>1</sup> Der Unterricht in den Kleinklassen hat den Übertritt in die Regelklasse zum Ziel. Dieser erfolgt, sobald abzusehen ist, dass die Schülerin oder der Schüler im Rahmen des Regelklassenunterrichts angemessen gefördert werden kann.
+- 1\. 7. 26 - 133 § 19. <sup>1</sup> Der Unterricht in den Kleinklassen hat den Übertritt in die Regelklasse zum Ziel. Dieser erfolgt, sobald abzusehen ist, dass die Schülerin oder der Schüler im Rahmen des Regelklassenunterrichts angemessen gefördert werden kann.
 
 **Übertritt in die Regelklasse**
 
@@ -302,9 +301,9 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 **7**
 
-- 1\. 1. 22 - 115 § 22 a.[^hESonderschulung-7] Sonderschulung kann auch teilintegriert angeboten werden. Die Verantwortung trägt die Sonderschule.
+- 1\. 7. 26 - 133 § 22 a.[^hESonderschulung-7] Sonderschulung kann auch teilintegriert angeboten werden. Die Verantwortung trägt die Sonderschule.
 
-[^hESonderschulung-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 13
+[^hESonderschulung-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 [^hESonderschulung-2]: LS 412.100.
 [^hESonderschulung-3]: LS 412.106.
 [^hESonderschulung-4]: LS 412.101.
@@ -345,17 +344,18 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 <sup>2</sup> Die Abklärung wird in der Regel beim zuständigen schulpsychologischen Dienst durchgeführt. Dieser kann weitere Unterlagen beiziehen.
 
-<sup>3</sup> Er veranlasst eine Abklärung durch Fachleute, wenn besondere, vor allem medizinische, logopädische oder psychomotorische Kenntnisse notwendig sind.
+<sup>3</sup> Er empfiehlt eine Abklärung durch Fachleute, wenn besondere, vor allem medizinische, logopädische oder psychomotorische Kenntnisse notwendig sind.[^24-3]
 
 <sup>4</sup> Er verfasst einen Bericht und gibt bei Bedarf eine Empfehlung für eine sonderpädagogische Massnahme ab. Separative Massnahmen müssen besonders begründet werden.
 
-<sup>5</sup> Abklärungen zur Prüfung der Zuweisung zu einer Sonderschulung erfolgen mit dem standardisierten Abklärungsverfahren (SAV) nach Art. 6 Abs. 3 der Interkantonalen Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik vom 25. Oktober 2007[^24-3].
+<sup>5</sup> Abklärungen zur Prüfung der Zuweisung zu einer Sonderschulung erfolgen mit dem standardisierten Abklärungsverfahren (SAV) nach Art. 6 Abs. 3 der Interkantonalen Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik vom 25. Oktober 2007[^24-4].
 
 <sup>6</sup> Das Volksschulamt kann Fachleute für die Abklärungen gemäss Abs. 3 bezeichnen.
 
 [^24-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 211; ABl 2012, 1053). In Kraft seit 1. August 2012.
-[^24-2]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 13
-[^24-3]: LS 410.32.
+[^24-2]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
+[^24-3]: Fassung gemäss RRB vom 4. März 2026 (OS 81, 276; ABl 2026-03-20). In Kraft seit 1. August 2026. 1. 7. 26 - 133 13
+[^24-4]: LS 410.32.
 
 #### § 26
 
@@ -391,7 +391,7 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 **9**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 26 - 133
 
 ### 4. Abschnitt: Ausbildungsanforderungen
 
@@ -423,7 +423,9 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 **DaZ-Lehrpersonen**
 
-§ 29 a.[^h4AbschnittAusbil-2] Lehrpersonen, die Aufnahmeunterricht erteilen oder an Aufnahmeklassen oder an Aufnahmeklassen Asyl unterrichten, benötigen a. ein von der EDK anerkanntes Lehrdiplom als Regelklassenlehrperson und b. den Abschluss eines zertifizierten Lehrganges in DaZ für die Volksschule.
+§ 29 a.[^h4AbschnittAusbil-2] <sup>1</sup> Lehrpersonen, die Aufnahmeunterricht erteilen oder an Aufnahmeklassen oder an Aufnahmeklassen Asyl unterrichten, benötigen a. ein von der EDK anerkanntes Lehrdiplom als Regelklassenlehrperson und b. den Abschluss eines zertifizierten Lehrganges in DaZ für die Volksschule.
+
+<sup>2</sup> Das Volksschulamt kann im Einzelfall anstelle des Abschlusses eines zertifizierten Lehrganges in DaZ für die Volksschule gleichwertige Ausbildungen oder berufsspezifische Aus- und Weiterbildungen in Verbindung mit Berufserfahrung als genügende Zusatzausbildung anerkennen.[^h4AbschnittAusbil-3]
 
 **Übrige Lehr- und Fachpersonen**
 
@@ -447,13 +449,15 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 <sup>2</sup> Die Schulleitungen verfügen über ausreichendes Fachwissen in Personal- und Betriebsführung, das mindestens im Rahmen einer abgeschlossenen Führungsausbildung oder Weiterbildung im Umfang eines Certificate of Advanced Studies (CAS) erworben wurde. Fehlt eine solche, muss sie während des ersten Anstellungsjahres begonnen und spätestens drei Jahre nach Anstellungsbeginn abgeschlossen werden.
 
-<sup>3</sup> Die Trägerschaft der Sonderschule ist dafür verantwortlich, dass die Schulleiterinnen und Schulleiter die Ausbildungsanforderungen erfüllen.
-
 **11**
 
-- 1\. 1. 22 - 115 § 29 d.[^h4AbschnittAusbil-2] <sup>1</sup> Die Sonderschulen überprüfen vor der Anstellung aller Mitarbeitenden folgende Auszüge aus dem Strafregister:
+- 1\. 7. 26 - 133
+
+<sup>3</sup> Die Trägerschaft der Sonderschule ist dafür verantwortlich, dass die Schulleiterinnen und Schulleiter die Ausbildungsanforderungen erfüllen.
 
 **Prüf- und Meldepflichten**
+
+§ 29 d.[^h4AbschnittAusbil-2] <sup>1</sup> Die Sonderschulen überprüfen vor der Anstellung aller Mitarbeitenden folgende Auszüge aus dem Strafregister:
 
 - a. aktueller Strafregisterauszug und Sonderprivatauszug bei volljährigen Mitarbeitenden,
 
@@ -461,8 +465,9 @@ Die Gemeinden können für Schülerinnen und Schüler mit ausgeprägter Begabung
 
 <sup>2</sup> Die Sonderschulen überprüfen neue Lehr- und Leitungspersonen auf Einträge in der von der EDK geführten Liste über Lehrpersonen, denen im Rahmen eines kantonalen Entscheides die Unterrichtsberechtigung oder die Berufsausübungsbewilligung entzogen wurde.
 
-[^h4AbschnittAusbil-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 13
+[^h4AbschnittAusbil-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 [^h4AbschnittAusbil-2]: Eingefügt durch RRB vom 6. Oktober 2021 (OS 76, 567; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
+[^h4AbschnittAusbil-3]: Eingefügt durch RRB vom 4. März 2026 (OS 81, 276; ABl 2026-03-20). In Kraft seit 1. August 2026.
 
 ### 5. Abschnitt: Schlussbestimmung
 
