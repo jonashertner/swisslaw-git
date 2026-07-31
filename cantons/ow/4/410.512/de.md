@@ -3,20 +3,19 @@ canton: OW
 number: "410.512"
 title: Ausführungsbestimmungen über die Schulgesundheit
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-06-04
+version: 2026-08-01
+version_adopted: 2026-03-23
 adopted: 2016-01-19
 in_force: 2016-02-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.512"
-pdf: "http://gdb.ow.ch/api/de/versions/1865/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2006/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Schulgesundheit
 
-vom 19.01.2016 (Stand 01.08.2024)
+vom 19.01.2016 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -53,7 +52,7 @@ beschliesst:
 
 **Gesundheitskontrollen, Gesundheitsberatung und zahnprophylaktische Massnahmen**
 
-<sup>1</sup> Die zahnprophylaktischen Massnahmen und die folgenden Gesundheitskontrollen und die Gesundheitsberatung werden für Schüler und Schülerinnen, deren Erziehungsberechtigte im Kanton zivilrechtlichen Wohnsitz haben, kostenlos durchgeführt:
+<sup>1</sup> Die zahnprophylaktischen Massnahmen und die folgenden Gesundheitskontrollen und die Gesundheitsberatung werden für Schüler und Schülerinnen, deren Eltern bzw. Erziehungsberechtigte im Kanton zivilrechtlichen Wohnsitz haben, kostenlos durchgeführt:
 
 - a. …
 - b. eine standardisierte Hörkontrolle im Kindergarten und in der Primarschule (Reihenuntersuch);
@@ -92,7 +91,7 @@ beschliesst:
 
 - a. die fachliche Aufsicht der ärztlichen Gesundheitskontrollen und der Gesundheitsberatung in Schulklassen;
 - b. die allgemeine Anordnung des ärztlich bedingten Schulausschlusses und anderer Massnahmen;
-- c. die Orientierung der Erziehungsberechtigten und nötigenfalls anderer Instanzen, in Absprache mit dem Bildungs- und Kulturdepartement bzw. Einwohnergemeinderat;
+- c. die Orientierung der Eltern bzw. Erziehungsberechtigten und nötigenfalls anderer Instanzen, in Absprache mit dem Bildungs- und Kulturdepartement bzw. Einwohnergemeinderat;
 - d. die Beratung des schulpsychologischen und logopädischen Diensts;
 - e. das Schliessen von Klassen oder Schulen bei Massenerkrankungen in Absprache mit dem Bildungs- und Kulturdepartement bzw. Einwohnergemeinderat.
 
@@ -124,7 +123,7 @@ beschliesst:
 
 **Schulrat**
 
-<sup>1</sup> Schüler und Schülerinnen mit psychischen Störungen, Anzeichen von Milieuschäden oder Verwahrlosung überweist der Schulrat nach Absprache mit dem Gemeindearzt bzw. der Gemeindeärztin und den Erziehungsberechtigten dem schulpsychologischen Dienst oder nötigenfalls nach Rücksprache mit dem schulpsychologischen Dienst einem Facharzt bzw. einer Fachärztin oder anderen Fachpersonen oder -stellen.
+<sup>1</sup> Schüler und Schülerinnen mit psychischen Störungen, Anzeichen von Milieuschäden oder Verwahrlosung überweist der Schulrat nach Absprache mit dem Gemeindearzt bzw. der Gemeindeärztin und den Eltern bzw. Erziehungsberechtigten dem schulpsychologischen Dienst oder nötigenfalls nach Rücksprache mit dem schulpsychologischen Dienst einem Facharzt bzw. einer Fachärztin oder anderen Fachpersonen oder -stellen.
 
 #### Art. 10
 
@@ -136,11 +135,11 @@ beschliesst:
 
 #### Art. 11
 
-**Erziehungsberechtigte**
+**Eltern bzw. Erziehungsberechtigte**
 
-<sup>1</sup> Bei auffälligen Befunden ist es Sache der Erziehungsberechtigten, für weitere ärztliche und zahnärztliche Abklärungen und Behandlungen zu sorgen.
+<sup>1</sup> Bei auffälligen Befunden ist es Sache der Eltern bzw. Erziehungsberechtigten, für weitere ärztliche und zahnärztliche Abklärungen und Behandlungen zu sorgen.
 
-<sup>2</sup> Es ist Sache der Erziehungsberechtigten, die Lehrerschaft über ärztliche Befunde zu orientieren, welche im Unterricht von Bedeutung sein können.
+<sup>2</sup> Es ist Sache der Eltern bzw. Erziehungsberechtigten, die Lehrerschaft über ärztliche Befunde zu orientieren, welche im Unterricht von Bedeutung sein können.
 
 ## 3. Finanzielle Bestimmungen
 
@@ -169,9 +168,9 @@ beschliesst:
 
 #### Art. 14
 
-**Kosten der Erziehungsberechtigten**
+**Kosten der Eltern bzw. Erziehungsberechtigten**
 
-<sup>1</sup> Sämtliche medizinischen und zahnmedizinischen Behandlungskosten, eingeschlossen Kiefer- und Zahnregulierungen sowie Impfungen, gehen zulasten der Erziehungsberechtigten.
+<sup>1</sup> Sämtliche medizinischen und zahnmedizinischen Behandlungskosten, eingeschlossen Kiefer- und Zahnregulierungen sowie Impfungen, gehen zulasten der Eltern bzw. Erziehungsberechtigten.
 
 ### 3.2. Tarife und Taxen
 
@@ -203,6 +202,8 @@ geändert durch:
 
 \- Nachtrag vom 7. Juni 2022, in Kraft seit 1. August 2022 (OGS 2022, 17),
 
-\- Nachtrag vom 4. Juni 2024, in Kraft seit 1. August 2024 (OGS 2024, 9)
+\- Nachtrag vom 4. Juni 2024, in Kraft seit 1. August 2024 (OGS 2024, 9),
+
+\- Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
 
 OGS 2016, 4
