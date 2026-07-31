@@ -4,13 +4,12 @@ number: "153.741"
 title: "Verfügung über die Delegation von Zuständigkeiten der Baudirektion in den nachfolgend definierten Bereichen: Natur- und Heimatschutz an das Amt für Raum und Verkehr; Baurecht an das Amt für Raum und Verkehr bzw. an alle Ämter der Baudirektion; Wasserrecht, Gewässerschutz, Kehrichtbeseitigung, Schutz des ökologischen Gleichgewichts, Energiebeiträge an das Amt für Umwelt; Bewilligungen zur Personenbeförderung und zur Abgabe von Stellungnahmen zu Konzessionsgesuchen des Bundesamts für Verkehr an das Amt für Raum und Verkehr"
 short: Delegationsverfügung der Baudirektion
 language: de
-version: 2024-04-01
-valid_until: 2026-07-31
-version_adopted: 2024-03-26
+version: 2026-08-01
+version_adopted: 2026-07-06
 adopted: 2003-05-12
 in_force: 2003-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.741"
-pdf: "https://bgs.zg.ch/api/de/versions/2546/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3035/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2546/pdf_file"
 
 (Delegationsverfügung der Baudirektion)
 
-Vom 12. Mai 2003 (Stand 1. April 2024)
+Vom 12. Mai 2003 (Stand 1. August 2026)
 
 Die Baudirektion des Kantons Zug,
 
@@ -49,9 +48,14 @@ verfügt:
 - b) Entscheide des Kantons gemäss § 10 PBG;
 - c) Entscheide über Ausnahmen von kantonalen Plänen und Bauvorschriften im Rahmen des PBG gemäss § 14 PBG;
 - d) Vorprüfung von gemeindlichen Bauvorschriften, Zonen- oder Bebauungsplänen gemäss § 39 Abs. 1 PBG, falls das einfache Verfahren gemäss § 40 PBG zulässig ist. Die Vorprüfung aller gemeindlichen Erschliessungs-, Baulinien- und Strassenpläne erfolgt jedoch durch das Tiefbauamt;
-- e) Genehmigung der gemeindlichen Richtpläne gemäss §§ 5 Abs. 2 Bst. c und 43 PBG.
+- e) …
+- f) Prüfung und Entscheid über Abbruchprämiengesuche sowie Kontrolle und Auszahlung der Abbruchprämie nach § 3 der Einführungsverordnung zum Bundesgesetz über die Raumplanung vom 23. Juni 2026 (EV RPG)[^Ziff2-2];
+- g) Prüfung und Entscheid über Ausnahmebewilligungen nach § 7 Abs. 6 EV RPG;
+- h) Prüfung und Entscheid über den ausnahmsweisen Verzicht auf die Wiederherstellung des rechtmässigen Zustands nach § 8 Abs. 1 EV RPG;
+- i) Prüfung und Entscheid über umweltschutzrechtliche Erleichterungen nach § 12 EV RPG.
 
 [^Ziff2-1]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de)
+[^Ziff2-2]: BGS [711.11](https://bgs.zg.ch/data/711.11/de)
 
 #### Ziff. 3
 
@@ -88,12 +92,13 @@ verfügt:
 
 <sup>1</sup> Folgende der Baudirektion (§ 2 Abs. 1 Einführungsgesetz zum Bundesgesetz über den Umweltschutz vom 29. Januar 1998, EG USG[^Ziff6a-1]; § 7 Abs. 1 Ziff. 6 Delegationsverordnung vom 28. November 2017, DelV[^Ziff6a-2]) zustehenden Befugnisse werden dem Amt für Umwelt übertragen:
 
-- a) Verfügung betreffend Untersuchung, Überwachung und Sanierung belasteter Standorte gemäss Art. 32c Abs. 3 des Bundesgesetzes über den Umweltschutz vom 7. Oktober 1983 (USG)[^Ziff6a-3];
+- a) Verfügung betreffend Untersuchung, Überwachung und Sanierung gemäss Art. 32c Abs. 1 und 3 des Bundesgesetzes über den Umweltschutz vom 7. Oktober 1983 (USG)[^Ziff6a-3];
 - b) Verfügung betreffend Rückerstattung von Kosten für die notwendigen Untersuchungsmassnahmen gemäss Art. 32d Abs. 5 USG;
 - c) Verfügung betreffend Sicherstellung der Kostendeckung nach Art. 32d<sup>bis</sup> Abs. 1 und 2 USG;
 - d) Bewilligung zur Veräusserung oder Teilung eines im Kataster der belasteten Standorte (KbS) eingetragenen Grundstücks gemäss Art. 32d<sup>bis</sup> Abs. 3 USG;
 - e) Verfügung betreffend Auszahlung von Förderbeiträgen im Rahmen des Gebäudeprogramms bis zu 1500 Franken;
-- f) Verfügungen betreffend Ausfallkosten nach Art. 32d Abs. 3 USG.
+- f) Verfügungen betreffend Ausfallkosten nach Art. 32d Abs. 3 USG;
+- g) Genehmigung von einzelnen oder mehreren Teilprojekten der generellen Entwässerungsplanung (GEP), mit Ausnahme des Massnahmenplans.
 
 [^Ziff6a-1]: BGS [811.1](https://bgs.zg.ch/data/811.1/de)
 [^Ziff6a-2]: BGS [153.3](https://bgs.zg.ch/data/153.3/de)
