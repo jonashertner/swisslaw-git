@@ -4,13 +4,12 @@ number: "311.311"
 title: Regionales Schulabkommen Zentralschweiz
 short: RSZ
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-02-20
+version: 2026-08-01
+version_adopted: 2026-03-06
 adopted: 2011-05-19
 in_force: 2012-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/311.311"
-pdf: "https://gesetze.nw.ch/api/de/versions/1367/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1367/pdf_file"
 
 (RSZ)
 
-vom 19.05.2011 (Stand 01.08.2025)
+vom 19.05.2011 (Stand 01.08.2026)
 
 Die Vereinbarungskantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug treffen folgendes Abkommen:
 
@@ -231,40 +230,31 @@ Die Vereinbarungskantone Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug treffe
 
 #### Art. A1-1
 
-<sup>1</sup> Sekundarstufe I (inkl. Untergymnasium)
+<sup>1a</sup>
 
 <table>
-<tr><th>Ausbildungstyp</th><th>Beitrag pro Schuljahr[^A11-1]</th><th>Anwendbare Wohnsitzregelung</th></tr>
-<tr><td>Sekundarstufe I (inkl. Untergymnasium)</td><td>16'700.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><th></th><th>Ausbildungstyp</th><th>Beitrag pro Schuljahr[^A11-1]</th><th>Anwendbare Wohnsitzregelung</th></tr>
+<tr><td>1</td><td>Sekundarstufe I (inkl. Untergymnasium)</td><td>16'700.-</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><td>2</td><td>Sekundarstufe II</td><td></td><td></td></tr>
+<tr><td>2.1</td><td>Gymnasien (nach MAR)</td><td>19'800.-</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><td>2.2</td><td>Fachmittelschulen, Vollzeitausbildung</td><td>18'000.-</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><td>2.3</td><td>Maturitätskurse für Erwachsene</td><td>8'400.-</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><td>2.4</td><td>Fachmaturitätsjahr und Vorbereitungskurse auf Hochschulstudiengänge, Teilzeitausbildungen je Jahreswochenlektion</td><td>670.-</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><td>3</td><td>Tertiärstufe</td><td></td><td></td></tr>
+<tr><td>3.1</td><td>Höhere Fachschulen, Vollzeitausbildungen</td><td>11'330.-</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><td>3.2</td><td>Höhere Fachschulen, Teilzeitausbildungen je Jahreswochenlektion</td><td>380.-</td><td>Art. 4 dieser Vereinbarung</td></tr>
+<tr><td>3.3</td><td>aufgehoben per 1.8.2015</td><td></td><td></td></tr>
+<tr><td>3.4</td><td>Pädagogische Hochschulen Luzern und Zug: Diplomerweiterungsstudien (Erwerb einer Lehrbefähigung für ein zusätzliches Fach) je ECTS-Punkt</td><td>Je ECTS-Punkt 1/60 des jeweils geltenden FHV-Tarifs für die Lehrerbildung</td><td>Interkantonale Fachhochschulvereinbarung</td></tr>
 </table>
 
-<sup>2</sup> Sekundarstufe II:
-
-<table>
-<tr><th>Ausbildungstyp</th><th>Beitrag pro Schuljahr[^A11-2]</th><th>Anwendbare Wohnsitzregelung</th></tr>
-<tr><td>Gymnasien (nach MAR)</td><td>19'800.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
-<tr><td>Fachmittelschulen, Vollzeitausbildung</td><td>18'000.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
-<tr><td>Maturitätskurse für Erwachsene</td><td>8'400.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
-<tr><td>Fachmaturitätsjahr und Vorbereitungskurse auf Hochschulstudiengänge, Teilzeitausbildungen je Jahreswochenlektion</td><td>670.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
-</table>
-
-<sup>3</sup> Tertiärstufe:
-
-<table>
-<tr><th>Ausbildungstyp</th><th>Beitrag pro Schuljahr[^A11-3]</th><th>Anwendbare Wohnsitzregelung</th></tr>
-<tr><td>Fachschulen und Höhere Fachschulen, Vollzeitausbildungen</td><td>11'330.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
-<tr><td>Fachschulen und Höhere Fachschulen, Teilzeitausbildungen je Jahreswochenlektion</td><td>380.–</td><td>Art. 4 dieser Vereinbarung</td></tr>
-<tr><td>Pädagogische Hochschulen Luzern und Zug: Diplomerweiterungsstudien (Erwerb einer Lehrbefähigung für ein zusätzliches Fach) je ECTS-Punkt</td><td>Je ECTS-Punkt 1/60 von 25'800.–</td><td>Interkantonale Fachhochschulvereinbarung</td></tr>
-</table>
+<sup>1–3</sup> …
 
 [^A11-1]: Bei einer Abrechnung nach Semestern wird 50 Prozent des Beitrags pro Schuljahr in Rechnung gestellt
-[^A11-2]: Bei einer Abrechnung nach Semestern wird 50 Prozent des Beitrags pro Schuljahr in Rechnung gestellt
-[^A11-3]: Bei einer Abrechnung nach Semestern wird 50 Prozent des Beitrags pro Schuljahr in Rechnung gestellt
 
 ## A2 Anhang 2: Liste der Schulen
 
 #### Art. A2-1
 
-<sup>1</sup> Die Liste der Schulen und die jeweilige Übernahme des Kantonsbeitrags kann auf der Bildungsdirektion oder im Internet unter [bildung-z.ch/bkz/organisation/arbeiten/schulabkommen](http://bildung-z.ch/bkz/organisation/arbeiten/schulabkommen) eingesehen werden.
+<sup>1</sup> Die Liste der Schulen und die jeweilige Übernahme des Kantonsbeitrags kann auf der Bildungsdirektion oder im Internet unter [https://bildung-z.ch/bkz/arbeiten/schulabkommen](https://bildung-z.ch/bkz/arbeiten/schulabkommen) eingesehen werden.
 
 A 2011, 1585, 1587, A 2012, 558
