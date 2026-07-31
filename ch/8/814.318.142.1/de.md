@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2026-01-01
+version: 2026-08-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 1. Januar 2026)
+vom 16. Dezember 1985 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1298,7 +1298,7 @@ Anhang 2[^t-2]
 
 ## Ergänzende und abweichende Emissionsbegrenzungen für besondere Anlagen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. II der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), der Berichtigung vom 30. Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), Ziff. I der V vom 16. Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) und vom 12. Febr. 2020, in Kraft seit 1. Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)Ziff. III). Die Berichtigung vom 1. Sept. 2025 betrifft nur den französischen und italienischen Text ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Siehe auch die UeB Änd. 12.2.2020 hiervor.
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. II der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), der Berichtigung vom 30. Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), Ziff. I der V vom 16. Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)Ziff. III) und Anhang Ziff. 2 der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)). Siehe auch die UeB Änd. 12.2.2020 hiervor.
 
 ### Inhaltsübersicht
 
@@ -1807,7 +1807,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -2297,7 +2297,7 @@ Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Holzspan- und Holzf
 
 <sup>1</sup> Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
 
-<sup>2</sup> Abweichend von Absatz 1 darf Altholz nach Anhang 5 Ziffer 31 Absatz 2 Buchstabe a verwertet werden, wenn es nach Artikel 14*a* Absatz 2 der VVEA für die thermische Verwertung geeignet ist.
+<sup>2</sup> Abweichend von Absatz 1 darf Altholz nach Anhang 5 Ziffer 31 Absatz 2 Buchstabe a verwertet werden, wenn es nach Artikel 14*a* Absatz 2 der VVEA für die energetische Verwertung geeignet ist.
 
 ### 843 Bezugsgrösse
 
@@ -3159,15 +3159,15 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/de/xml/image/image2.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/de/xml/image/image3.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image4.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/de/xml/image/image4.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 

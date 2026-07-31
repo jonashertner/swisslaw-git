@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 1985 contro l'inquinamento atmosferico (OIAt)"
 short: OIAt
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/it"
 
 (OIAt)[^t-1]
 
-del 16 dicembre 1985 (Stato 1° gennaio 2026)
+del 16 dicembre 1985 (Stato 1° agosto 2026)
 
 [^t-1]: [RU 1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835)
 
@@ -1296,7 +1296,7 @@ Allegato 2[^t-3]
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti speciali
 
-[^t-3]: Aggiornato dalla cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dalla cifra II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dalla cifra II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 cifra II n. 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dalla cifra II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla cifra II dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalla cifra I delle O del 16 nov. 2022 ([RU 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)cifra III), dalle correzioni del 30 nov. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)) e del 1° set. 2025 ([RU 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Vedi anche la disp. trans. della mod. del 12 feb. 2020 qui avanti.
+[^t-3]: Aggiornato dalla cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dalla cifra II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dalla cifra II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 cifra II n. 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dalla cifra II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla cifra II dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalla correzione del 30 nov. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), dalla cifra I delle O del 16 nov. 2022 ([RU 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)cifra III), dalla correzione del 1° set. 2025 ([RU 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)) e dall’all. n. 2 dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)). Vedi anche la disp. trans. della mod. del 12 feb. 2020 qui avanti.
 
 ### Sommario
 
@@ -1803,7 +1803,7 @@ I valori limite d’emissione si riferiscono ad un tenore di ossigeno nei gas di
 
 Le emissioni di ossidi d’azoto, indicati come diossido d’azoto, non devono superare i valori secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/it/xml/image/image1.png)
 
 ### 474 Misurazioni
 
@@ -2293,7 +2293,7 @@ Le disposizioni della presente cifra valgono per gli impianti nei quali i pannel
 
 <sup>1</sup> Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in contatto con i gas di combustione valgono inoltre le disposizioni della cifra 81.
 
-<sup>2</sup> In deroga al capoverso 1, il legname di scarto di cui all’allegato 5 cifra 31 capoverso 2 lettera a può essere riciclato se è idoneo per la valorizzazione termica secondo l’articolo 14*a* capoverso 2 OPSR.
+<sup>2</sup> In deroga al capoverso 1, il legname di scarto di cui all’allegato 5 cifra 31 capoverso 2 lettera a può essere riciclato se è idoneo per la valorizzazione energetica secondo l’articolo 14*a* capoverso 2 OPSR.
 
 ### 843 Grandezze di riferimento
 
@@ -3157,13 +3157,13 @@ S (µg/m<sup>3</sup>) = valore S (cfr. cifre 3 e 9)
 
 Diagramma 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/it/xml/image/image2.png)
 
 ### Determinazione del fattore di correzione g in zone edificate e boschive
 
 Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/it/xml/image/image3.png)
 
 I = altezza del più alto fattore d’ostacolo determinante (cifra 5)
 

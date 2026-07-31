@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2026-01-01
+version: 2026-08-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Last amended on 1 January 2026)
+of 16 December 1985 (Last amended on 1 August 2026)
 
 The Swiss Federal Council,
 
@@ -885,10 +885,14 @@ Annex 1[^t-1]
 Emissions are expressed in the following terms:
 
 - a. Concentration: Mass of emitted substance in relation to the volume of flue gas (e.g. in milligrams per cubic metre [mg/m<sup>3</sup>]);
-- b. Mass flow: Mass of emitted substance per unit time (e.g. in grams per hour [g/h]);
-- c. Emission factor: Ratio of the mass of emitted substance to the mass of the products generated or processed (e.g. in kilograms per tonne [kg/t]);
-- d. Emission ratio: Ratio of the mass of an air polluting substance emitted to the mass of that substance supplied to the installation in fuels and feedstock (in % [m/m]);
-- e. Smoke number: The degree of filter blackening caused by flue gases. The grey scale used to determine the Bacharach smoke number ranges from 0 to 9 in unit steps.
+- b. Mass flow:
+- Mass of emitted substance per unit time (e.g. in grams per hour [g/h]);
+- c. Emission factor:
+- Ratio of the mass of emitted substance to the mass of the products generated or processed (e.g. in kilograms per tonne [kg/t]);
+- d. Emission ratio:
+- Ratio of the mass of an air polluting substance emitted to the mass of that substance supplied to the installation in fuels and feedstock (in % [m/m]);
+- e. Smoke number:
+- The degree of filter blackening caused by flue gases. The grey scale used to determine the Bacharach smoke number ranges from 0 to 9 in unit steps.
 
 ### 23 Reference value for emission concentrations
 
@@ -909,7 +913,9 @@ The rated thermal input is the maximum thermal energy that can be supplied to an
 <sup>1</sup> The following emission limitation requirements apply:
 
 - a. for dust: Number 4;
-- b. for inorganic substances, mainly in the form of dust: Number 5;
+
+<sup>2</sup> Substances not listed in Numbers 5–8 shall be assigned to the substance classes which have comparable effects on the environment. Account shall be taken in particular of degradability and bio-accumulability, toxicity, the effects of decomposition processes and transformation products, and odour intensity.
+
 - c. for inorganic substances in gaseous or vaporous form: Number 6;
 - d. for organic substances in gaseous, vaporous or particulate form: Number 7;
 - e. for carcinogens: Number 8.
@@ -923,14 +929,14 @@ The rated thermal input is the maximum thermal energy that can be supplied to an
 <sup>2</sup> Emission sources are generally to be considered as a single installation if they are situated in close proximity to each other and if their emissions:
 
 - a. essentially contain the same or similar pollutants; or
-- b. can be reduced using the same technology.
+- b. for inorganic substances, mainly in the form of dust: Number 5;
 
 <sup>3</sup> Parts of an installation which only serve as back-ups in the event of malfunctions are not taken into account when determining the size of the installation.
 
 <sup>4</sup> Emission limit values which depend on a certain mass flow shall only apply if:
 
 - a. this mass flow is reached or exceeded for more than five hours per week; or
-- b. double this mass flow is reached or exceeded for a shorter period.
+- b. can be reduced using the same technology.
 
 ### 4 Dust
 
@@ -960,7 +966,7 @@ The requirements specified in Numbers 5, 7 and 8 apply to the limitation of emis
 
 - a. Class 1 substances
 - at a mass flow of 1 g/h or more 0.2 mg/m<sup>3</sup>
-- b. Class 2 substances
+- b. double this mass flow is reached or exceeded for a shorter period.
 - at a mass flow of 5 g/h or more 1 mg/m<sup>3</sup>
 - c. Class 3 substances
 - at a mass flow of 25 g/h or more 5 mg/m<sup>3</sup>
@@ -1004,7 +1010,7 @@ The emission concentration of any of the substances listed in Number 62 must not
 
 - a. For a Class 1 substance
 - at a mass flow of 10 g/h or more 1 mg/m<sup>3</sup>
-- b. For a Class 2 substance
+- b. Class 2 substances
 - at a mass flow of 50 g/h or more 5 mg/m<sup>3</sup>
 - c. For a Class 3 substance
 - at a mass flow of 300 g/h or more 30 mg/m<sup>3</sup>
@@ -1038,7 +1044,7 @@ The emission concentration of any of the substances listed in Number 62 must not
 
 - a. Class 1 substances
 - at a mass flow of 0.1 kg/h or more 20 mg/m<sup>3</sup>
-- b. Class 2 substances
+- b. For a Class 2 substance
 - at a mass flow of 2.0 kg/h or more 100 mg/m<sup>3</sup>
 - c. Class 3 substances
 - at a mass flow of 3.0 kg/h or more 150 mg/m<sup>3</sup>
@@ -1283,7 +1289,7 @@ Annex 2[^t-2]
 
 ## Additional or different emission limitation requirements for particular installations
 
-[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), No I of the O of 16 Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) and of 12 Feb. 2020, in force since 1 Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)No III). The correction of 1 Sept. 2025 relates to the French and Italian texts only ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). See also the transitional provision to the Amendment of 12 Feb. 2020 above.
+[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), No I of the O of 16 Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)No III) and Annex No 2 of the O of 24 June 2026, in force since 1 Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)). See also the transitional provision to the Amendment of 12 Feb. 2020 above.
 
 ### Contents
 
@@ -1792,7 +1798,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -2282,7 +2288,7 @@ The provisions of this Number apply to installations in which wood particle boar
 
 <sup>1</sup> The provisions of Number 81 also apply in the case of installations in which products are treated by direct contact with furnace flue gases.
 
-<sup>2</sup> In derogation from paragraph 1, waste wood in accordance with Annex 5 Number 31 paragraph 2 letter a may be recycled if it is suitable for thermal recycling in accordance with Article 14*a* paragraph 2 der ADWO.
+<sup>2</sup> In derogation from paragraph 1, waste wood in accordance with Annex 5 Number 31 paragraph 2 letter a may be recycled if it is suitable for energy recovery in accordance with Article 14*a* paragraph 2 ADWO.
 
 ### 843 Reference value
 
@@ -2604,8 +2610,10 @@ Hand-stoked boilers with a rated heat output of up to 500 kW must be fitted with
 
 <sup>3</sup> In derogation from paragraphs 1, 2 and 2<sup>bis</sup>, the authority may specify a smaller accumulator volume if.
 
-- two or more individual installations as are operated as a single operating unit in order to cover a variable heat or steam requirement in changing situations;
-- this is appropriate for technical or operational reasons
+- a. they have been constructed according to a recognised calculation procedure, in particular the tiled stove calculation program of the feusuisse association; or
+- b. they are equipped with a dust removal system that corresponds to the best available technology, in particular the requirements of the VDI 3670 technical standard[^annex3-lvlu1-lvl5-lvl52-lvl523-1] (waste gas cleaning – downstream dust control devices for small-sized solid fuel combustion systems).
+
+[^annex3-lvlu1-lvl5-lvl52-lvl523-1]: This standard may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 524 Measurement and control
 
@@ -2613,8 +2621,8 @@ Hand-stoked boilers with a rated heat output of up to 500 kW must be fitted with
 
 <sup>2</sup> Local space heaters in accordance with Number 22 letter f that are produced by craftsmen are exempted from an acceptance measurement if:
 
-- a. they have been constructed according to a recognised calculation procedure, in particular the tiled stove calculation program of the feusuisse association; or
-- b. they are equipped with a dust removal system that corresponds to the best available technology, in particular the requirements of the VDI 3670 technical standard[^annex3-lvlu1-lvl5-lvl52-lvl524-2] (waste gas cleaning – downstream dust control devices for small-sized solid fuel combustion systems).
+- a. Dust
+- b. Sulphur oxides, expressed as sulphur dioxide
 
 <sup>3</sup> Historic stoves that are worthy of protection up to volume of 0.4 m<sup>3</sup> and cookers produced by craftsmen are also exempted from the acceptance measurement if they were built according to the recognised rules of combustion technology or are equipped with a dust removal system in accordance with paragraph 2 letter b.
 
@@ -2625,7 +2633,6 @@ Hand-stoked boilers with a rated heat output of up to 500 kW must be fitted with
 <sup>6</sup> In the case of local space heaters that under Number 22 letter f do not require regular measurements, the authority shall in particular check combustion residues and the condition of the installation. It shall on the first occasion provide information on how to use the installation properly and on how to use and store thermal fuels.
 
 [^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
-[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: This standard may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 525 Requirements for dust removal systems
 
@@ -2652,11 +2659,14 @@ Emissions from combustion installations operating on gaseous fuels must not exce
 
 <sup>2</sup> In derogation from paragraph 1, emissions from installations of over 50 MW must not exceed the following values:
 
-- a. Dust
+- a. For forced draught burners with single-stage operation and for gas burners 7 %
   - 1\. when operated using gaseous fuels as specified in Annex 5 Number 41 paragraph 1 letters b–e 10 mg/m<sup>3</sup>
   - 2\. when operated using gaseous fuels as specified in Annex 5 Number 41 paragraph 1 letter a 5 mg/m<sup>3</sup>
 
-- b. Sulphur oxides, expressed as sulphur dioxide
+- b.
+
+  For forced draught burners with two-stage operation:
+
   - 1\. when operated using gaseous fuels as specified in Annex 5 Number 41 paragraph 1 letters a and c–e 35 mg/m<sup>3</sup>
   - 2\. when operated using gaseous fuels as specified in Annex 5 Number 41 paragraph 1 letter b 5 mg/m<sup>3</sup>
 
@@ -2674,11 +2684,8 @@ Emissions from combustion installations operating on gaseous fuels must not exce
 
 <sup>1</sup> The flue gas losses from furnaces and boilers must not exceed the following limit values:
 
-- a. For forced draught burners with single-stage operation and for gas burners 7 %
-- b.
-
-  For forced draught burners with two-stage operation:
-
+- a. they meet the quality requirements of an official standard;
+- b. it is proven on the basis of an officially supervised measurement programme that the relevant requirements have been met for combustion in planned type of installation.
   - 1\. during first-stage operation 6 %
   - 2\. during second-stage operation 8 %
 
@@ -3060,8 +3067,7 @@ The correction factor f takes account of long-term effects due to wind channelli
 - f = 1.00 for sites with no prevailing wind direction;
 - f = 1.25 for sites with average conditions;
 - f = 1.50 for valleys with pronounced wind channelling.
-
-<sup>3</sup> Intermediate values are also possible for f, depending on the site conditions.
+- f = 1.00 for sites with no prevailing wind direction;
 
 ### 5 Height increase for buildings and vegetation
 
@@ -3139,15 +3145,15 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/en/xml/image/image2.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/en/xml/image/image3.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image4.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/en/xml/image/image4.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)

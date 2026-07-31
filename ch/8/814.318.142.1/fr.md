@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2026-01-01
+version: 2026-08-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/fr"
 
 (OPair)
 
-du 16 décembre 1985 (État le 1<sup>er</sup> janvier 2026)
+du 16 décembre 1985 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1286,7 +1286,7 @@ Annexe 2[^t-2]
 
 ## Limitation complémentaire et dérogatoire des émissions pour certaines installations spéciales
 
-[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), l’erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), le ch. I des O du 16 nov. 2022 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) , du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)ch. III) et de l’erratum du 1<sup>er</sup> sept. 2025 ([RO 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci‑devant.
+[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), l’erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), le ch. I des O du 16 nov. 2022 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) , du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)ch. III), l’erratum du 1<sup>er</sup> sept. 2025 ([RO 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)) et l’annexe ch. 2 de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci‑devant.
 
 ### Table des matières
 
@@ -1793,7 +1793,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -2283,7 +2283,7 @@ Le présent chiffre s’applique aux installations pour la fabrication à sec de
 
 <sup>1</sup> Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
 
-<sup>2</sup> En dérogation à l’al. 1, le bois usagé au sens de l’annexe 5, ch. 31, al. 2, let. a, peut être valorisé s’il se prête à la valorisation thermique visée à l’art. 14*a*, al. 2, OLED.
+<sup>2</sup> En dérogation à l’al. 1, le bois usagé au sens de l’annexe 5, ch. 31, al. 2, let. a, peut être valorisé s’il se prête à la valorisation énergie visée à l’art. 14*a*, al. 2, OLED.
 
 ### 843 Grandeur de référence
 
@@ -3144,13 +3144,13 @@ S (µg/m<sup>3</sup>) = valeur S (voir ch. 3 et 9)
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/fr/xml/image/image2.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260801/fr/xml/image/image3.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 
