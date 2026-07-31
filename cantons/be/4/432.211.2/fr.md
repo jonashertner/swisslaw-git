@@ -4,13 +4,12 @@ number: "432.211.2"
 title: Ordonnance sur les écoles à journée continue
 short: OEC
 language: fr
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-01-17
+version: 2026-08-01
+version_adopted: 2026-01-30
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3132/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3359/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3132/pdf_file"
 
 (OEC)
 
-du 28.05.2008 (état au 01.08.2025)
+du 28.05.2008 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -113,8 +112,8 @@ arrête:
 
 <sup>1</sup> Les coûts de traitements normatifs par heure et par enfant se montent à
 
-- a 11,14 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
-- b 5,57 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
+- a 11,22 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
+- b 5,61 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
 
 <sup>2</sup> Les coûts de traitements normatifs par heure de prise en charge d’enfants nécessitant des mesures pédagogiques particulières ou un encadrement particulier peuvent atteindre jusqu’à une fois et demi le tarif mentionné à l’alinéa 1, lettre a.
 
@@ -170,7 +169,7 @@ arrête:
 - b le revenu de remplacement imposable; dans le cas des indépendantes et indépendants, celui-ci est imputé au bénéfice commercial de l’exercice considéré, dans la mesure où il concerne l’activité indépendante;
 - c les contributions d’entretien reçues pour autant qu’elles soient imposables conformément à la législation cantonale sur les impôts;
 - d cinq pour cent de la fortune nette (fortune brute moins les dettes);
-- e le bénéfice commercial imposable figurant dans la déclaration d’impôt (moyenne des trois dernières années);
+- e le bénéfice commercial (moyenne des trois dernières années);
 - f les revenus bruts de la fortune mobilière et de la fortune immobilière;
 - g les autres revenus imposables.
 
@@ -185,7 +184,7 @@ arrête:
 
 - a les contributions d’entretien versées à des conjoints divorcés ou à des conjoints séparés judiciairement ou de fait,
 - b les contributions d’entretien versées à un des membres du couple vivant séparément pour les enfants placés sous sa garde,
-- c les intérêts de la dette et les frais d'obtention du revenu pris en compte fiscalement.
+- c les intérêts de la dette, les frais d’administration de titres et les frais immobiliers pour autant qu'ils soient déductibles en vertu de la législation cantonale sur les impôts.
 
 <sup>5</sup> Pour les couples vivant en concubinage et ayant des enfants en commun ainsi que pour les concubins sans enfants en commun vivant sous le même toit depuis deux ans, le tarif est fixé en prenant en compte les deux revenus.
 
@@ -218,14 +217,14 @@ arrête:
 
 **Tarif**
 
-<sup>1</sup> Le tarif minimal pouvant être facturé se monte à 0,83 franc par heure de prise en charge.
+<sup>1</sup> Le tarif minimal pouvant être facturé se monte à 0,84 franc par heure de prise en charge.
 
 <sup>2</sup> Le tarif maximal pouvant être facturé par heure de prise en charge se monte à
 
-- a 13,05 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
-- b 6,52 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
+- a 13,14 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
+- b 6,57 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
 
-<sup>3</sup> Le tarif minimal est facturé jusqu’à un revenu déterminant de 43'000 francs; le tarif maximal est facturé à partir d’un revenu déterminant de 160'000 francs.
+<sup>3</sup> Le tarif minimal est facturé jusqu’à un revenu déterminant de 49'000 francs; le tarif maximal est facturé à partir d’un revenu déterminant de 170'000 francs.
 
 <sup>4</sup> Le tarif par heure de prise en charge est fixé de manière linéaire entre le tarif minimal et le tarif maximal en fonction du revenu déterminant compte tenu d’éventuelles déductions.
 

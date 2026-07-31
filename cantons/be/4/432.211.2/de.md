@@ -4,13 +4,12 @@ number: "432.211.2"
 title: Tagesschulverordnung
 short: TSV
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-01-17
+version: 2026-08-01
+version_adopted: 2026-01-30
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3132/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3132/pdf_file"
 
 (TSV)
 
-vom 28.05.2008 (Stand 01.08.2025)
+vom 28.05.2008 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -113,8 +112,8 @@ beschliesst:
 
 <sup>1</sup> Die Normlohnkosten für die Betreuung je Kind und Stunde betragen
 
-- a 11.14 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
-- b 5.57 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
+- a 11.22 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
+- b 5.61 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
 
 <sup>2</sup> Die Normlohnkosten für eine Betreuungsstunde von Kindern mit besonderen Massnahmen oder besonderen Betreuungsanforderungen können bis zum eineinhalbfachen Ansatz von Absatz 1 Buchstabe a betragen.
 
@@ -126,9 +125,9 @@ beschliesst:
 
 **Anmelde- und Abrechnungsverfahren**
 
-<sup>1</sup> Die Gemeinden melden dem Amt für Kindergarten, Volksschule und Beratung (AKVB) die neuen und erweiterten Tagesschulangebote sowie die pädagogischen Ansprüche der Tagesschulangebote bis spätestens zwei Monate vor Beginn des Schuljahrs.
+<sup>1</sup> Die Gemeinden melden dem Amt für Kindergarten, Volksschule und Beratung (AKVB) die neuen und erweiterten Tagesschulangebote sowie die pädagogischen Ansprüche der Tagesschulangebote bis spätestens zwei Monate vor Beginn des Schuljahres.
 
-<sup>2</sup> Sie melden dem AKVB die geleisteten Betreuungsstunden und die Normlohnkosten gemäss Artikel 8 Absatz 1 bis spätestens zwei Monate nach Abschluss des Schuljahrs.
+<sup>2</sup> Sie melden dem AKVB die geleisteten Betreuungsstunden und die Normlohnkosten gemäss Artikel 8 Absatz 1 bis spätestens zwei Monate nach Abschluss des Schuljahres.
 
 <sup>3</sup> Bei der Berechnung des lastenausgleichsberechtigten Betrags werden die von der Gemeinde erwirtschafteten Elterngebühren für die Betreuung von den Normlohnkosten abgezogen.
 
@@ -167,14 +166,14 @@ beschliesst:
 <sup>1</sup> Das für die Berechnung der Gebühr massgebende Jahreseinkommen der Eltern, die mit dem Kind in einem gemeinsamen Haushalt wohnen, umfasst
 
 - a den Nettolohn,
-- b das steuerpflichtige Ersatzeinkommen, wobei dieses bei Selbständigerwerbenden beim Geschäftsgewinn des entsprechenden Jahres angerechnet wird, sofern es die selbständige Tätigkeit betrifft,
+- b das steuerpflichtige Ersatzeinkommen, wobei dieses bei Selbstständigerwerbenden beim Geschäftsgewinn des entsprechenden Jahres angerechnet wird, sofern es die selbstständige Tätigkeit betrifft,
 - c die erhaltenen Unterhaltsbeiträge, soweit sie nach kantonaler Steuergesetzgebung versteuert werden müssen,
 - d fünf Prozent des Nettovermögens (Bruttovermögen abzüglich Schulden),
-- e den in der Steuererklärung ausgewiesenen Geschäftsgewinn (Durchschnitt der vergangenen drei Jahre),
+- e den Geschäftsgewinn (Durchschnitt der vergangenen drei Jahre),
 - f Bruttoerträge aus beweglichem und unbeweglichem Vermögen,
 - g weitere steuerbare Einkünfte.
 
-<sup>2</sup> Zur Ermittlung des massgebenden Einkommens sind die Verhältnisse des Vorjahrs zu berücksichtigen.
+<sup>2</sup> Zur Ermittlung des massgebenden Einkommens sind die Verhältnisse des Vorjahres zu berücksichtigen.
 
 <sup>3</sup> Auf Antrag der Eltern und nach Einreichung aller Belege wird ab dem Folgemonat auf das laufende Jahr abgestellt, wenn
 
@@ -185,7 +184,7 @@ beschliesst:
 
 - a Unterhaltsbeiträge an geschiedene oder gerichtlich oder tatsächlich getrennt lebende Ehegatten,
 - b Unterhaltsbeiträge an einen getrennt lebenden Elternteil für die unter dessen Obhut stehenden Kinder,
-- c die steuerlich berücksichtigten Schuldzinsen und Gewinnungskosten.
+- c die Schuldzinsen, Kosten für die Wertschriftenverwaltung und Grundstückskosten, soweit sie nach kantonaler Steuergesetzgebung steuerlich in Abzug gebracht werden können.
 
 <sup>5</sup> Bei Konkubinatspaaren mit gemeinsamen Kindern werden die beiden Einkommen zusammengerechnet. Bei Konkubinatspaaren ohne gemeinsame Kinder erfolgt die Zusammenrechnung erst nach zwei Jahren faktischen Zusammenlebens.
 
@@ -218,14 +217,14 @@ beschliesst:
 
 **Gebührenansatz**
 
-<sup>1</sup> Der Minimalansatz beträgt 0.83 Franken je verrechenbare Betreuungsstunde.
+<sup>1</sup> Der Minimalansatz beträgt 0.84 Franken je verrechenbare Betreuungsstunde.
 
 <sup>2</sup> Der Maximalansatz beträgt je verrechenbare Betreuungsstunde
 
-- a 13.05 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
-- b 6.52 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
+- a 13.14 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
+- b 6.57 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
 
-<sup>3</sup> Bis zu einem massgebenden Einkommen von 43'000 Franken wird der Minimalansatz erhoben; ab einem massgebenden Einkommen von 160'000 Franken wird der Maximalansatz erhoben.
+<sup>3</sup> Bis zu einem massgebenden Einkommen von 49'000 Franken wird der Minimalansatz erhoben; ab einem massgebenden Einkommen von 170'000 Franken wird der Maximalansatz erhoben.
 
 <sup>4</sup> Die Gebühr für eine Betreuungsstunde wird linear zwischen dem Minimal- und dem Maximalansatz entsprechend dem massgebenden Einkommen unter Einbezug allfälliger Abzüge festgelegt.
 
