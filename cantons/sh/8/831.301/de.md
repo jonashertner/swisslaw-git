@@ -3,20 +3,19 @@ canton: SH
 number: "831.301"
 title: Verordnung über Ergänzungsleistungen zur AHV und IV
 language: de
-version: 2025-01-01
-valid_until: 2026-07-31
-version_adopted: 2024-11-26
+version: 2026-08-01
+version_adopted: 2026-04-28
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/831.301"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1922/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2087/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Ergänzungsleistungen zur AHV und IV
 
-Vom 27.11.2007 (Stand 01.01.2025)
+Vom 27.11.2007 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -261,26 +260,26 @@ beschliesst:
 
 #### § 22
 
-**Aufgaben der Gemeindezweigstellen**
+**Aufgaben der Gemeinden**
 
-<sup>1</sup> Auf Anweisung der AHV-Ausgleichskasse prüft die Gemeindezweigstelle die Angaben im Anmeldeformular und bestätigt ihre Richtigkeit.
+<sup>1</sup> Auf Anweisung der AHV-Ausgleichskasse prüft die Gemeinde die Angaben im Anmeldeformular und bestätigt ihre Richtigkeit.
 
-<sup>2</sup> Die Gemeindezweigstelle meldet der AHV-Ausgleichskasse von sich aus:
+<sup>2</sup> Die Gemeinde meldet der AHV-Ausgleichskasse von sich aus
 
-- a) jede Veränderung in den persönlichen Verhältnissen
-- b) jede Adressänderung
-- c) jede wesentliche Veränderung in Einkommen und Vermögen der oder des Versicherten oder ihrer oder seiner Familienmitglieder
+- a) jede Veränderung in den persönlichen Verhältnissen;
+- b) jede Adressänderung;
+- c) jede wesentliche Veränderung in Einkommen und Vermögen der oder des Versicherten oder ihrer oder seiner Familienmitglieder.
 
 #### § 23
 
-**Aufsicht**
+**Zuständigkeit**
 
-<sup>1</sup> Kantonale Aufsichtsbehörde ist das Departement des Innern.
+<sup>1</sup> Das zuständige Departement gemäss Art. 8 des Gesetzes ist das Departement des Innern.
 
-<sup>2</sup> Dem Departement des Innern obliegt insbesondere:
+<sup>2</sup> Dem Departement des Innern obliegt:
 
 - a) die Genehmigung von Jahresrechnung und Jahresbericht betreffend die Durchführung dieses Gesetzes
-- b) die Vereinbarung mit der AHV-Ausgleichskasse über die Deckung der Verwaltungskosten
+- b) die Vereinbarung mit der Sozialversicherungsanstalt Schaffhausen über die Deckung der Verwaltungskosten.
 
 ## 4 Schlussbestimmungen
 
