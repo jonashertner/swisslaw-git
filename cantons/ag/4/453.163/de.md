@@ -4,13 +4,13 @@ number: "453.163"
 title: Verordnung über den Vorkurs Pädagogik
 short: V Vorkurs Pädagogik
 language: de
-version: 2024-07-01
-valid_until: 2026-07-31
-version_adopted: 2024-03-13
+version: 2026-08-01
+valid_until: 2027-07-31
+version_adopted: 2026-05-13
 adopted: 2003-05-21
 in_force: 2003-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.163"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3732/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4004/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3732/pdf_file"
 
 (V Vorkurs Pädagogik)
 
-Vom 21.05.2003 (Stand 01.07.2024)
+Vom 21.05.2003 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 33a Abs. 3 des Schulgesetzes vom 17. März 1981[^ingress-1] sowie die §§ 34 Abs. 1 und 40 Abs. 2 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-2],
+gestützt auf die §§ 5 Abs. 3 und 23 Abs. 2 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
-[^ingress-2]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
+[^ingress-1]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 #### § 1
 
@@ -97,9 +96,9 @@ beschliesst:
 
 **Ergänzendes Recht**
 
-<sup>1</sup> Hinsichtlich der Ferien und des Disziplinarverfahrens sind die entsprechenden Bestimmungen der Verordnung über die Aargauische Maturitätsschule für Erwachsene (V AME) vom 9. September 1991[^6-1] anwendbar.
+<sup>1</sup> Hinsichtlich der Schulferien und schulfreien Tage ist § 2 der Verordnung über die Aargauische Maturitätsschule für Erwachsene (V AME) vom 13. Mai 2026[^6-1] anwendbar.
 
-[^6-1]: SAR [453.111](https://gesetzessammlungen.ag.ch/data/453.111/de)
+[^6-1]: SAR [453.113](https://gesetzessammlungen.ag.ch/data/453.113/de)
 
 #### § 7
 
