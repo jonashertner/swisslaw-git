@@ -3,20 +3,19 @@ canton: BL
 number: "647.12"
 title: Verordnung für die Schulleitung und die Schulsekretariate
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-12-19
+version: 2026-08-01
+version_adopted: 2025-12-09
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/647.12"
-pdf: "https://bl.clex.ch/api/de/versions/3872/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Schulleitung und die Schulsekretariate
 
-Vom 13.05.2003 (Stand 01.08.2024)
+Vom 13.05.2003 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -242,13 +241,14 @@ beschliesst:
 <sup>1</sup> Den Schulen der Sekundarstufe I stehen für Schulleitungsaufgaben folgende Stellenprozente zur Verfügung:
 
 - a. Birsfelden und Reigoldswil — je 135 %;
-- b. Aesch, Frenkendorf und Waldenburgertal — je 170 %;
-- c. Gelterkinden, Oberwil, Pratteln, Reinach und Therwil — je 200 %;
+- b. Aesch und Waldenburgertal — je 170 %;
+- c. Frenkendorf, Gelterkinden, Oberwil, Pratteln, Reinach und Therwil — je 200 %;
 - d. Laufen-Zwingen — 210 %;
-- e. Allschwil, Binningen und Muttenz — je 225 %;
+- e. Binningen und Muttenz — je 225 %;
 - f. Arlesheim-Münchenstein — 235 %;
-- g. Sissach — 255 %;
-- h. Liestal — 295 %.
+- g. Allschwil — 255 %;
+- g<sup>bis</sup>. Sissach — 285 %;
+- h. Liestal — 315 %.
 
 <sup>1<sup>bis</sup></sup> Die Stelle der Rektorin oder des Rektors ist mit mindestens 60 % und maximal 100 % zu besetzen. Bei Co-Rektoraten können maximal 100 Stellenprozente auf die Funktion des Co-Rektorats aufgeteilt werden. Zusätzliche Anstellungsprozente als Konrektorin oder Konrektor im Rahmen der verfügbaren Stellenprozente für die Schulleitung sind möglich.
 
@@ -282,10 +282,11 @@ beschliesst:
 
 <sup>1</sup> Den Schulen der Sekundarstufe II stehen für Schulleitungsaufgaben folgende Stellenprozente zur Verfügung:
 
-- a. Berufsfachschulen Gesundheit Baselland — 240 %;
+- a. Berufsfachschulen Gesundheit Baselland — 340 %;
 - a<sup>bis</sup>. Berufsbildungszentrum Baselland — 480 %;
 - b. Berufsbildungszentrum Baselland für die Führung der Höheren Fachschule für Informations- und Kommunikationstechnologie (hf ict) — 30 %;
-- c. Gymnasien Muttenz, Münchenstein, Oberwil — je 295 %;
+- c. Gymnasium Muttenz — 295 %;
+- c<sup>bis</sup>. Gymnasien Münchenstein und Oberwil — je 315 %;
 - d. Gymnasium Liestal — 365 %;
 - e. Gymnasium Laufental-Thierstein — 225 %;
 - f. Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH für die besonderen Schulleitungsaufgaben — 100 %.
@@ -295,6 +296,10 @@ beschliesst:
 <sup>1<sup>ter</sup></sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive allfälliger Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson darüber hinaus Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig unterjährige Minder- oder Mehrlektionen müssen kompensiert werden. Mehrlektionen können nicht ausbezahlt werden.
 
 <sup>2</sup> Für die Schulleitungskonferenzen der Sekundarstufe II stehen insgesamt 50 Stellenprozente zur Verfügung. Davon entfallen 30 Stellenprozente auf den Vorstand der Schulleitungskonferenz der Gymnasien und 20 Stellenprozente auf die Schulleitungskonferenz der Berufsfachschulen.
+
+<sup>3</sup> Die Leitungszeit wird alle 4 Jahre durch die Dienststelle BMH überprüft und bei Bedarf angepasst.
+
+<sup>4</sup> Die Schulleitungsaufgaben werden spätestens alle 4 Jahre durch die Dienststelle BMH überprüft.
 
 #### § 17
 
@@ -491,12 +496,13 @@ beschliesst:
 <sup>1</sup> Den Schulen der Sekundarstufe I stehen für Schulsekretariatsaufgaben folgende Stellenprozente zur Verfügung:
 
 - a. Birsfelden und Reigoldswil — je 60 %;
-- b. Aesch, Frenkendorf und Waldenburgertal — je 80 %;
-- c. Gelterkinden, Oberwil, Pratteln, Reinach und Therwil — je 110 %;
-- d. Allschwil, Binningen, Laufen-Zwingen und Muttenz — je 120 %;
+- b. Aesch und Waldenburgertal — je 80 %;
+- c. Frenkendorf, Gelterkinden, Oberwil, Pratteln, Reinach und Therwil — je 110 %;
+- d. Binningen, Laufen-Zwingen und Muttenz — je 120 %;
 - e. Arlesheim-Münchenstein — 130 %;
-- f. Sissach — 140 %;
-- g. Liestal — 160 %.
+- f. Allschwil — 140 %;
+- g. Sissach — 160 %;
+- h. Liestal — 180 %.
 
 <sup>2</sup> …
 
