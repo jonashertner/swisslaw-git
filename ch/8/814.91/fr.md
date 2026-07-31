@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 mars 2003 sur l'application du génie génétique a
 short: LGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: fr
-version: 2022-01-01
+version: 2026-08-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2003-705-20260801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/fr"
 
 (Loi sur le génie génétique, LGG)
 
-du 21 mars 2003 (État le 1<sup>er</sup> janvier 2022)
+du 21 mars 2003 (État le 1<sup>er</sup> août 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,10 +25,10 @@ vu les art. 74, al. 1, 104, al. 2 et 3, let. b, 118, al. 2, let. a, et 120, al. 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 6301](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
-[^ingress-3]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-4]: [RS 0.451.431](https://fedlex.data.admin.ch/eli/cc/2004/44)
+[^ingress-3]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-4]: [RS 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 [^ingress-5]: [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)
 [^ingress-6]: BO de l’Ass. féd., Annexes, CE, Session d’été 2001, p. 22.
 [^ingress-7]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
@@ -203,7 +203,7 @@ Le Conseil fédéral fixe les conditions et la procédure. Il arrête notamment 
 <sup>2</sup> Quiconque a qualité de partie en vertu de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^12a-2] peut faire opposition auprès de l’autorité qui délivre l’autorisation pendant le délai de mise à l’enquête. Toute personne qui n’a pas fait opposition est exclue de la suite de la procédure.
 
 [^12a-1]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 13
 
@@ -272,7 +272,7 @@ Quiconque met en circulation des organismes génétiquement modifiés est tenu:
 
 <sup>2</sup> Après avoir consulté les personnes concernées, les autorités peuvent publier les informations acquises lors de l’exécution de la présente loi (art. 24, al. 1) ainsi que les résultats de relevés et de contrôles, s’ils sont d’intérêt général. Elles peuvent communiquer ces informations à une autorité étrangère ou à une organisation internationale dans la mesure où une loi fédérale ou un accord international le prévoit. Le secret de fabrication et le secret d’affaires sont protégés.
 
-[^18-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^18-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^18-2]: Nouvelle teneur selon l’art. 2 ch. 3 de l’AF du 27 sept. 2013 (Conv. d’Aarhus), en vigueur depuis le 1<sup>er</sup> juin 2014 ([RO 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 4027](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
 #### Art. 19
@@ -458,7 +458,7 @@ Le dommage causé doit être dû:
 
 [^30-1]: Nouvelle expression selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)). Il a été tenu compte de cette mod. dans tout le texte.
 [^30-2]: Nouvelle expression selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^30-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 31
 
@@ -567,11 +567,12 @@ L’utilisation, dans le cadre de disséminations expérimentales, de gènes qui
 
 **Délai transitoire pour la mise en circulation d’organismes génétiquement modifiés**[^37a-1]
 
-<sup>1</sup> Aucune autorisation ne peut être délivrée pour la période allant jusqu’au 31 décembre 2025 pour la mise en circulation, à des fins agricoles, horticoles ou forestières, de plantes et de parties de plantes génétiquement modifiées, de semences et d’autre matériel végétal de multiplication génétiquement modifiés, ou d’animaux génétiquement modifiés.
+<sup>1</sup> Aucune autorisation ne peut être délivrée pour la période allant jusqu’au 31 décembre 2030 pour la mise en circulation, à des fins agricoles, horticoles ou forestières, de plantes et de parties de plantes génétiquement modifiées, de semences et d’autre matériel végétal de multiplication génétiquement modifiés, ou d’animaux génétiquement modifiés.[^37a-2]
 
 <sup>2</sup> Le Conseil fédéral soumet à l’Assemblée fédérale, d’ici à la fin du premier semestre 2024 au plus tard, un projet d’acte visant à instaurer un régime d’homologation fondé sur les risques applicable aux plantes, parties de plantes, semences et autre matériel végétal de multiplication destinés à être utilisés à des fins agricoles, horticoles ou forestières, obtenus au moyen des nouvelles techniques de sélection, auxquels aucun matériel génétique transgénique n’a été ajouté et qui, par rapport aux méthodes de sélection usuelles, offrent une réelle plus-value pour l’agriculture, l’environnement ou les consommateurs.
 
 [^37a-1]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [FF 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
+[^37a-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 417](https://fedlex.data.admin.ch/eli/oc/2026/417); [FF 2024 3134](https://fedlex.data.admin.ch/eli/fga/2024/3134); [2025 412](https://fedlex.data.admin.ch/eli/fga/2025/412)).
 
 #### Art. 38
 

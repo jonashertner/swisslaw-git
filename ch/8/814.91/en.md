@@ -4,11 +4,11 @@ title: "Federal Act of 21 March 2003 on Non-Human Gene Technology (Gene Technolo
 short: GTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: en
-version: 2022-01-01
+version: 2026-08-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20260801/en/xml/fedlex-data-admin-ch-eli-cc-2003-705-20260801-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20260801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Gene Technology Act, GTA)
+(Gene Technology Act, GTA )
 
-of 21 March 2003 (Status as of 1 January 2022)
+of 21 March 2003 (Last amended on 1 August 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,10 +27,10 @@ based on Articles 74 paragraph 1, 104 paragraphs 2 and 3 letter b, 118 paragraph
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 16 June 2017, in force since 1 Jan. 2018 ([AS 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [BBl 2016 6521](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
-[^ingress-3]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-4]: [SR 0.451.431](https://fedlex.data.admin.ch/eli/cc/2004/44)
+[^ingress-3]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-4]: [SR 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 [^ingress-5]: [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)
 [^ingress-6]: Official Bulletin of the Federal Assembly (AB), enclosures, Council of States Summer Session 2001, p. 22.
 [^ingress-7]: Amended by No I of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
@@ -205,7 +205,7 @@ The Federal Council determines the requirements and the procedure. In particular
 <sup>2</sup> Any person who is a party in accordance with the Federal Act of 20 December 1968[^12a-2] on Administrative Procedure may file opposition with the authorising authority during the inspection period. A party who fails to file opposition is excluded from subsequent proceedings.
 
 [^12a-1]: Inserted by No I of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^12a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 13
 
@@ -274,7 +274,7 @@ Any person putting organisms into circulation must:
 
 <sup>2</sup> After consulting the affected party, the authorities may publish information gathered during enforcement (Art. 24 para. 1) and results from surveys or monitoring, insofar as these are of general interest. They may pass on this information in accordance with a federal act or international agreement to a foreign authority or international organisation. Manufacturing and trade secrecy are reserved.
 
-[^18-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^18-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^18-2]: Amended by Art. 2 No 3 of the Federal Decree of 27 Sept. 2013 (Aarhus Convention), in force since 1 June 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
 #### Art. 19
@@ -459,7 +459,7 @@ The loss or damage must have been caused as a result of:
 <sup>10</sup> The Confederation, cantons and communes are also liable in accordance with paragraphs 1–9.
 
 [^30-1]: Expression in accordance with No I of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). This amendment has been made throughout the text.
-[^30-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 31
 
@@ -571,11 +571,12 @@ Resistance genes to antibiotics used in human and veterinary medicine may be use
 
 **Transitional period for putting genetically modified organisms into circulation**[^37a-1]
 
-<sup>1</sup> No authorisations may be granted until 31 December 2021 for putting into circulation genetically modified plants and parts of plants, genetically modified seeds and other plant propagation material and genetically modified animals for agricultural, horticultural or silvicultural purposes.
+<sup>1</sup> No authorisations may be granted until 31 December 2030 for putting into circulation genetically modified plants and parts of plants, genetically modified seeds and other plant propagation material and genetically modified animals for agricultural, horticultural or silvicultural purposes.[^37a-2]
 
 <sup>2</sup> The Federal Council shall submit draft legislation to the Federal Assembly by mid-2024 at the latest on a risk-based authorisation regime for plants, parts of plants, seeds and other plant propagation material for agricultural, horticultural or silvicultural purposes which have been cultivated using methods of new cultivation technologies, into which no transgenic genetic material has been inserted and which have a proven added value for agriculture, the environment or consumers compared with conventional cultivation methods.
 
 [^37a-1]: Inserted by No I of the FA of 19 March 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Amended by No I of the FA of 18 March 2022, in force since 1 Jan. 2022 ([AS 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [BBl 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
+[^37a-2]: Amended by No I of the FA of 20 June 2025, in force since 1 Aug. 2026 ([AS 2026 417](https://fedlex.data.admin.ch/eli/oc/2026/417); [BBl 2024 3134](https://fedlex.data.admin.ch/eli/fga/2024/3134); [2025 412](https://fedlex.data.admin.ch/eli/fga/2025/412)).
 
 #### Art. 38
 

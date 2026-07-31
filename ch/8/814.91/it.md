@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2003 sull'ingegneria genetica nel settore no
 short: LIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: it
-version: 2022-01-01
+version: 2026-08-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2003-705-20260801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/it"
 
 (Legge sull’ingegneria genetica, LIG)
 
-del 21 marzo 2003 (Stato 1° gennaio 2022)
+del 21 marzo 2003 (Stato 1° agosto 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,13 +25,13 @@ visti gli articoli 74 capoverso 1, 104 capoversi 2 e 3 lettera b, 118 capoverso 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
-[^ingress-3]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-4]: [RS 0.451.431](https://fedlex.data.admin.ch/eli/cc/2004/44)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+[^ingress-3]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-4]: [RS 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 [^ingress-5]: [FF 2000 2145](https://fedlex.data.admin.ch/eli/fga/2000/484)
 [^ingress-6]: Boll. Uff., Allegati, Consiglio degli Stati, Sessione estiva 2001, pag. 22.
-[^ingress-7]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^ingress-7]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -202,8 +202,8 @@ Il Consiglio federale stabilisce le esigenze e la procedura. In particolare disc
 
 <sup>2</sup> Chi ha qualità di parte secondo le prescrizioni della legge federale del 20 dicembre 1968[^12a-2] sulla procedura amministrativa può, durante il termine di deposito, fare opposizione presso l’autorità competente in materia di autorizzazione. Se non fa opposizione, è escluso dal seguito della procedura.
 
-[^12a-1]: Introdotto dal n. I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^12a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 13
 
@@ -238,7 +238,7 @@ Chiunque mette in commercio organismi geneticamente modificati deve:
 
 <sup>3</sup> Per consegnare ad aziende agricole o forestali[^15-1] organismi geneticamente modificati che devono essere etichettati come tali è necessario il consenso scritto del titolare dell’azienda.
 
-[^15-1]: Nuova espr. giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^15-1]: Nuova espr. giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -272,7 +272,7 @@ Chiunque mette in commercio organismi geneticamente modificati deve:
 
 <sup>2</sup> Le autorità, sentiti gli interessati, possono pubblicare le informazioni ottenute nell’ambito dell’esecuzione (art. 24 cpv. 1) e i risultati di rilevamenti o controlli, a condizione che ciò sia nell’interesse generale. Esse possono trasmettere tali informazioni ad autorità estere o organizzazioni internazionali conformemente a quanto stabilito in una legge federale o in un accordo internazionale. Il segreto di fabbricazione e d’affari rimane garantito.
 
-[^18-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^18-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^18-2]: Nuovo testo giusta l’art. 2 n. 3 del DF del 27 set. 2013 (Convenzione di Aarhus), in vigore dal 1° giu. 2014 ([RU 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 3841](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
 #### Art. 19
@@ -365,7 +365,7 @@ La Commissione presta consulenza:
 
 <sup>2</sup> I Cantoni comunicano alla Confederazione le informazioni e i dati disponibili che rivestono importanza ai fini del monitoraggio ambientale.
 
-[^24a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+[^24a-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
 
 #### Art. 25
 
@@ -456,9 +456,9 @@ Il danno deve essersi verificato a causa:
 
 <sup>10</sup> La Confederazione, i Cantoni e i Comuni rispondono anch’essi secondo i capoversi 1–9.
 
-[^30-1]: Nuova espr. giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^30-2]: Nuova espr. giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^30-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30-1]: Nuova espr. giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^30-2]: Nuova espr. giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^30-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 31
 
@@ -504,7 +504,7 @@ Allo scopo di proteggere il danneggiato, il Consiglio federale può:
 
 [^chap6-1]
 
-[^chap6-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+[^chap6-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
 
 #### Art. 35
 
@@ -529,10 +529,10 @@ Chiunque intenzionalmente:
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria sino a 180 aliquote giornaliere.[^35-4]
 
-[^35-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
-[^35-2]: Nuovo testo della comminatoria giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^35-3]: Abrogato dal n. I della LF del 19 mar. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^35-4]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^35-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+[^35-2]: Nuovo testo della comminatoria giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^35-3]: Abrogato dalla cifra I della LF del 19 mar. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^35-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 35a
 
@@ -547,7 +547,7 @@ In caso di violazione della presente legge, delle relative disposizioni d’esec
 - e. confisca e distruzione;
 - f. addossamento di un importo pari al massimo a 10 000 franchi o al ricavo lordo dei prodotti immessi illegalmente in commercio.
 
-[^35a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+[^35a-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -567,20 +567,26 @@ I geni resistenti agli antibiotici impiegati nella medicina umana e veterinaria 
 
 **Periodo transitorio per la messa in commercio di organismi geneticamente modificati**[^37a-1]
 
-<sup>1</sup> Fino al 31 dicembre 2025 non possono essere rilasciate autorizzazioni per la messa in commercio, per fini agricoli, orticoli o forestali, di piante e parti di piante geneticamente modificate, di sementi geneticamente modificate e di altro materiale vegetale di moltiplicazione geneticamente modificato, nonché di animali geneticamente modificati.
+<sup>1</sup> Fino al 31 dicembre 2030 non possono essere rilasciate autorizzazioni per la messa in commercio, per fini agricoli, orticoli o forestali, di piante e parti di piante geneticamente modificate, di sementi geneticamente modificate e di altro materiale vegetale di moltiplicazione geneticamente modificato, nonché di animali geneticamente modificati.[^37a-2]
 
 <sup>2</sup> Al più tardi entro la metà del 2024, il Consiglio federale sottopone all’Assemblea federale un disegno di legge volto a introdurre un regime di autorizzazione basato sui rischi applicabile a piante, parti di piante, sementi e altro materiale vegetale di moltiplicazione destinati all’impiego per fini agricoli, orticoli o forestali e ottenuti mediante nuove tecnologie di selezione senza inoculazione di materiale genetico transgenico, sempreché queste apportino per l’agricoltura, l’ambiente e i consumatori un valore aggiunto comprovato rispetto alle tecniche di selezione convenzionali.
+
+[^37a-1]: Introdotto dalla cifra I della LF del 19 mar. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Nuovo testo giusta la cifra I della LF del 18 mar. 2022, in vigore dal 1° gen. 2022 ([RU 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [FF 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
+[^37a-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° ago. 2026 ([RU 2026 417](https://fedlex.data.admin.ch/eli/oc/2026/417); [FF 2024 3134](https://fedlex.data.admin.ch/eli/fga/2024/3134); [2025 412](https://fedlex.data.admin.ch/eli/fga/2025/412)).
+
+#### Art. 38
+
+**Referendum ed entrata in vigore**
 
 <sup>1</sup> La presente legge sottostà al referendum facoltativo.
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore: 1° gennaio 2004[^37a-2] All. n. 4, art. 54 cpv. 2 II° per.: 1° agosto 2005[^37a-3] All. n. 3, art. 7*a*, 7*c* e 29 n. 1 lett. a<sup>bis</sup> e a<sup>quater</sup>: 2 maggio 2006[^37a-4] All. n. 3, rimanenti modifiche: ulteriormente
+Data dell’entrata in vigore: 1° gennaio 2004[^38-1] All. n. 4, art. 54 cpv. 2 II° per.: 1° agosto 2005[^38-2] All. n. 3, art. 7*a*, 7*c* e 29 n. 1 lett. a<sup>bis</sup> e a<sup>quater</sup>: 2 maggio 2006[^38-3] All. n. 3, rimanenti modifiche: ulteriormente
 
-[^37a-1]: Introdotto dal n. I della LF del 19 mar. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2022 ([RU 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [FF 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
-[^37a-2]: DCF del 19 nov. 2003.
-[^37a-3]: [RU 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448), [2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
-[^37a-4]: [RU 2006 1425](https://fedlex.data.admin.ch/eli/oc/2006/241)
+[^38-1]: DCF del 19 nov. 2003.
+[^38-2]: [RU 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448), [2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
+[^38-3]: [RU 2006 1425](https://fedlex.data.admin.ch/eli/oc/2006/241)
 
 Allegato
 

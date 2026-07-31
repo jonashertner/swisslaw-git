@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. März 2003 über die Gentechnik im Ausserhumanberei
 short: GTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: de
-version: 2022-01-01
+version: 2026-08-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2003-705-20260801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/de"
 
 (Gentechnikgesetz, GTG)
 
-vom 21. März 2003 (Stand am 1. Januar 2022)
+vom 21. März 2003 (Stand am 1. August 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 74 Absatz 1, 104 Absätze 2 und 3 Buchstabe b, 118 Abs
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [BBl 2016 6521](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
-[^ingress-3]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-4]: [SR 0.451.431](https://fedlex.data.admin.ch/eli/cc/2004/44)
+[^ingress-3]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-4]: [SR 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 [^ingress-5]: [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)
 [^ingress-6]: AB, Beilagen, Ständerat Sommersession 2001, S. 22.
 [^ingress-7]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
@@ -203,7 +203,7 @@ Der Bundesrat bestimmt die Anforderungen und das Verfahren. Er regelt insbesonde
 <sup>2</sup> Wer nach den Vorschriften des Bundesgesetzes vom 20. Dezember 1968[^12a-2] über das Verwaltungsverfahren Partei ist, kann während der Auflagefrist bei der Bewilligungsbehörde Einsprache erheben. Wer keine Einsprache erhebt, ist vom weiteren Verfahren ausgeschlossen.
 
 [^12a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^12a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^12a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 13
 
@@ -272,7 +272,7 @@ Wer gentechnisch veränderte Organismen in Verkehr bringt, muss die Abnehmerin o
 
 <sup>2</sup> Die Behörden können nach Anhören der Betroffenen Auskünfte aus dem Vollzug (Art. 24 Abs. 1) sowie Ergebnisse von Erhebungen oder Kontrollen veröffentlichen, sofern dies von allgemeinem Interesse ist. Sie können diese Informationen nach Massgabe eines Bundesgesetzes oder einer völkerrechtlichen Vereinbarung an ausländische Behörden oder internationale Organisationen weitergeben. Das Fabrikations- und das Geschäftsgeheimnis bleiben gewahrt.
 
-[^18-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^18-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^18-2]: Fassung gemäss Art. 2 Ziff. 3 des BB vom 27. Sept. 2013 (Aarhus-Konvention), in Kraft seit 1. Juni 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
 
 #### Art. 19
@@ -457,7 +457,7 @@ Der Schaden muss entstanden sein wegen:
 <sup>10</sup> Bund, Kantone und Gemeinden haften ebenfalls nach den Absätzen 1–9.
 
 [^30-1]: Ausdruck gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^30-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^30-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 31
 
@@ -568,11 +568,12 @@ Resistenzgene gegen in der Human- und Veterinärmedizin eingesetzte Antibiotika 
 
 **Übergangsfrist für das Inverkehrbringen gentechnisch veränderter Organismen**[^37a-1]
 
-<sup>1</sup> Für das Inverkehrbringen von gentechnisch veränderten Pflanzen und Pflanzenteilen, gentechnisch verändertem Saatgut und anderem pflanzlichem Vermehrungsmaterial sowie gentechnisch veränderten Tieren zu landwirtschaftlichen, gartenbaulichen oder waldwirtschaftlichen Zwecken dürfen für den Zeitraum bis zum 31. Dezember 2025 keine Bewilligungen erteilt werden.
+<sup>1</sup> Für das Inverkehrbringen von gentechnisch veränderten Pflanzen und Pflanzenteilen, gentechnisch verändertem Saatgut und anderem pflanzlichem Vermehrungsmaterial sowie gentechnisch veränderten Tieren zu landwirtschaftlichen, gartenbaulichen oder waldwirtschaftlichen Zwecken dürfen für den Zeitraum bis zum 31. Dezember 2030 keine Bewilligungen erteilt werden.[^37a-2]
 
 <sup>2</sup> Der Bundesrat unterbreitet der Bundesversammlung spätestens bis Mitte 2024 einen Erlassentwurf für eine risikobasierte Zulassungsregelung für Pflanzen, Pflanzenteile, Saatgut und anderes pflanzliches Vermehrungsmaterial zu landwirtschaftlichen, gartenbaulichen oder waldwirtschaftlichen Zwecken, die mit Methoden der neuen Züchtungstechnologien gezüchtet wurden, denen kein transgenes Erbmaterial eingefügt wurde und die gegenüber den herkömmlichen Züchtungsmethoden einen nachgewiesenen Mehrwert für die Landwirtschaft, die Umwelt oder die Konsumentinnen und Konsumenten haben.
 
 [^37a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [BBl 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
+[^37a-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Aug. 2026 ([AS 2026 417](https://fedlex.data.admin.ch/eli/oc/2026/417); [BBl 2024 3134](https://fedlex.data.admin.ch/eli/fga/2024/3134); [2025 412](https://fedlex.data.admin.ch/eli/fga/2025/412)).
 
 #### Art. 38
 
