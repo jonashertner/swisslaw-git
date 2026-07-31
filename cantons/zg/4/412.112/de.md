@@ -4,13 +4,12 @@ number: "412.112"
 title: Reglement zum Schulgesetz
 short: Schulreglement; SchulR
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-06-26
+version: 2026-08-01
+version_adopted: 2025-09-10
 adopted: 1992-06-10
 in_force: 1992-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.112"
-pdf: "https://bgs.zg.ch/api/de/versions/2590/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2982/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2590/pdf_file"
 
 (Schulreglement; SchulR)
 
-Vom 10. Juni 1992 (Stand 1. August 2024)
+Vom 10. Juni 1992 (Stand 1. August 2026)
 
 Der Bildungsrat des Kantons Zug,
 
@@ -93,9 +92,9 @@ beschliesst:
 
 #### § 4a
 
-**Entwicklungsorientierte Zugänge**
+**Kompetenzerwerb**
 
-<sup>1</sup> Der Unterricht im obligatorischen Kindergarten orientiert sich an folgenden entwicklungsorientierten Zugängen:
+<sup>1</sup> In der Kindergartenstufe erfolgt der Kompetenzerwerb über die folgenden entwicklungsorientierten Zugänge:
 
 - a) Körper, Gesundheit und Motorik
 - b) Wahrnehmung
@@ -110,6 +109,12 @@ beschliesst:
 <sup>2</sup> Die Stundentafel für den Kindergarten umfasst 23 2/3 Lektionen.
 
 ### 2.2.2. Stundentafel Primarstufe
+
+#### § 4a1
+
+**Kompetenzerwerb**
+
+<sup>1</sup> Im Verlauf der 1. Klasse der Primarstufe wechselt der Zugang zum Kompetenzerwerb von den entwicklungsorientierten Zugängen zur Fächerorientierung.
 
 #### § 4b
 
@@ -238,7 +243,7 @@ beschliesst:
 
 <sup>2</sup> Wahlfächer sind in der 2. und 3. Klasse der Sekundarstufe I innerhalb des Unterrichtspflichtpensums anzubieten. In der 2. Klasse der Sekundarstufe I hat die Schülerin oder der Schüler drei Lektionen und in der 3. Klasse sechs Lektionen innerhalb des Unterrichtspflichtpensums mit Wahlfächern zu belegen.
 
-<sup>3</sup> In der 2. Klasse der Sekundarstufe I sind innerhalb des Unterrichtspflichtpensums ausschliesslich kantonale Wahlfächer zu belegen. In der 3. Klasse der Sekundarstufe I sind mindestens vier Lektionen mit kantonalen Wahlfächern und maximal zwei Lektionen mit gemeindlichen Wahlfächern innerhalb des Unterrichtspflichtpensums zu belegen.
+<sup>3</sup> In der 2. Klasse der Sekundarstufe I sind innerhalb des Unterrichtspflichtpensums ausschliesslich kantonale Wahlfächer zu belegen. In der 3. Klasse der Sekundarstufe I sind mindestens vier Lektionen mit kantonalen Wahlfächern und maximal zwei Lektionen mit gemeindlichen Wahlfächern innerhalb des Unterrichtspflichtpensums zu belegen. Anstelle von zwei Lektionen mit kantonalen und zwei Lektionen mit gemeindlichen Wahlfächern können Schülerinnen und Schüler im Rahmen des Wahlfachs «Praxisplatz» einen halben Tag in einem Betrieb arbeiten, sofern die Gemeinde das Wahlfach «Praxisplatz» anbietet.
 
 <sup>4</sup> Für das kantonale Wahlfachangebot definiert der Kanton die Fächer. Die zeitliche Ausgestaltung des einzelnen Wahlfachs ist durch die Gemeinde zu bestimmen.
 
@@ -317,7 +322,7 @@ beschliesst:
 
 <sup>1</sup> Die Hausaufgaben dienen dazu,
 
-- a) die in der Schule erworbenen Kenntnisse zu festigen und auf Leistungsbewertungen vorzubereiten;
+- a) die in der Schule erworbenen Kenntnisse zu festigen und auf Leistungsbeurteilungen vorzubereiten;
 - b) die Schülerinnen und Schüler durch persönliches Beobachten und angemessene Materialbeschaffung für den Unterricht zu interessieren;
 - c) den Erziehungsberechtigten einen Einblick in die schulische Arbeit der Kinder zu ermöglichen.
 
