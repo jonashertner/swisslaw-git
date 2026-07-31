@@ -1,69 +1,62 @@
 ---
 canton: BE
 number: "430.41"
-title: Ordonnance concernant le service médical scolaire
+title: Ordonnance sur le service médical scolaire
 short: OSMS
 language: fr
-version: 2021-08-01
-valid_until: 2026-07-31
-version_adopted: 2021-06-30
+version: 2026-08-01
+version_adopted: 2026-04-01
 adopted: 2026-04-01
 in_force: 2026-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.41"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2312/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3404/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant le service médical scolaire
+# Ordonnance sur le service médical scolaire
 
 (OSMS)
 
-du 08.06.1994 (état au 01.08.2021)
+du 01.04.2026 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 59, alinéa 2 de la loi du 19 mars 1992 sur l’école obligatoire (LEO)[^ingress-1], l’article 69 de la loi du 27 mars 2007 sur les écoles moyennes (LEM)[^ingress-2], l’article 59, alinéa 1 de la loi du 14 juin 2005 sur la formation professionnelle, la formation continue et l’orientation professionnelle (LFOP)[^ingress-3], les articles 11 et 38, alinéa 2 de la loi fédérale du 18 décembre 1970 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies)[^ingress-4], les articles 6 et 19 de la loi fédérale du 13 juin 1928 sur la lutte contre la tuberculose[^ingress-5], ainsi que l’article 4a, alinéa 1 de la loi du 2 décembre 1984 sur la santé publique (LSP)[^ingress-6],
+vu l’article 59, alinéa 2 de la loi du 19 mars 1992 sur l’école obligatoire (LEO)[^ingress-1], l’article 69 de la loi du 27 mars 2007 sur les écoles moyennes (LEM)[^ingress-2], l’article 59, alinéa 1 de la loi du 14 juin 2005 sur la formation professionnelle, la formation continue et l’orientation professionnelle (LFOP)[^ingress-3], l’article 21, alinéa 1, lettre b de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies; LEp)[^ingress-4], ainsi que l’article 4a, alinéa 1 de la loi du 2 décembre 1984 sur la santé publique (LSP)[^ingress-5],
 
-sur proposition de la Direction de la santé publique et de la prévoyance sociale et de la Direction de l'instruction publique,
+sur proposition de la Direction de la santé, des affaires sociales et de l’intégration,
 
 arrête:
 
-[^ingress-1]: RSB 432.210
-[^ingress-2]: RSB 433.12
-[^ingress-3]: RSB 435.11
-[^ingress-4]: RS 818.101
-[^ingress-5]: RS 818.102
-[^ingress-6]: RSB 811.01
+[^ingress-1]: RSB [432.210](https://www.belex.sites.be.ch/data/432.210/fr)
+[^ingress-2]: RSB [433.12](https://www.belex.sites.be.ch/data/433.12/fr)
+[^ingress-3]: RSB [435.11](https://www.belex.sites.be.ch/data/435.11/fr)
+[^ingress-4]: RS [818.101](https://db.clex.ch/link/Bund/818.101/fr)
+[^ingress-5]: RSB [811.01](https://www.belex.sites.be.ch/data/811.01/fr)
 
 ## 1 Dispositions générales
 
 #### Art. 1
 
-**Domaine d'application**
+**Champ d’application**
 
-<sup>1</sup> La présente ordonnance s'applique
+<sup>1</sup> La présente ordonnance s’applique
 
-- a …
-- b aux écoles publiques et privées de la scolarité obligatoire,
-- c aux écoles cantonales de maturité,
-- d …
-- e aux écoles cantonales de maturité spécialisée,
-- f aux écoles professionnelles subordonnées à la LFOP et aux cours intercantonaux spécialisés organisés dans le canton de Berne à l'intention des apprentis et des apprenties,
-- g …
+- a aux établissements ordinaires de la scolarité obligatoire,
+- b aux établissements particuliers de la scolarité obligatoire,
+- c aux établissements privés de la scolarité obligatoire,
+- d aux établissements cantonaux du degré secondaire II,
+- e aux établissements privés du degré secondaire II chargés de tâches publiques d’enseignement.
 
-<sup>2</sup> Elle s'applique également, à l'exception de son article 5, 2<sup>e</sup> alinéa, lettre d (entretien particulier), aux autres
+<sup>2</sup> Elle s’applique aux entreprises formatrices dans la mesure où les dispositions ci-après le prévoient expressément.
 
-- a foyers scolaires, internats dotés d'une école et foyers scolaires spécialisés reconnus par l'assurance-invalidité,
-- b écoles et institutions publiques et privées de l'enseignement secondaire du deuxième degré.
+<sup>3</sup> Les institutions visées à l’alinéa 1 sont désignées par le terme «école(s)» dans les dispositions ci-après.
 
 #### Art. 2
 
-**Elèves**
+**Élèves**
 
-<sup>1</sup> Sont réputées élèves toutes les personnes mineures ou majeures qui suivent l'enseignement régulier d'une école ou institution au sens de l'article premier.
-
-<sup>2</sup> Ne sont pas soumises à la présente ordonnance les personnes qui suivent des cours de perfectionnement ou du soir.
+<sup>1</sup> Sont réputées élèves toutes les personnes mineures ou majeures qui suivent la scolarité obligatoire ou l’enseignement du degré secondaire II dans une école.
 
 #### Art. 3
 
@@ -71,345 +64,480 @@ arrête:
 
 <sup>1</sup> Sont réputés autorité scolaire
 
-- a pour les écoles publiques et privées de la scolarité obligatoire, l’organe désigné par la commune,
-- b pour les écoles cantonales de maturité, les écoles cantonales de maturité spécialisée et les écoles professionnelles soumises à la LFOP, la direction d’école,
-- c pour les autres écoles ou institutions au sens de l’article 1, l’organe responsable.
-
-## 2 Institution et tâches du service médical scolaire
-
-### 2.1 Dispositions générales
+- a pour les établissements ordinaires de la scolarité obligatoire et les établissements particuliers de la scolarité obligatoire, l’organe désigné par leur organisme responsable;
+- b pour les établissements privés de la scolarité obligatoire, l’organe désigné par la commune où se trouve l’école, la commune pouvant déléguer cette compétence à leur organisme responsable;
+- c pour les établissements privés du degré secondaire II chargés de tâches publiques d’enseignement et les établissements cantonaux du degré secondaire II, leur direction.
 
 #### Art. 4
 
-**Tâches de l’autorité scolaire**
+**Service médical scolaire**
 
-<sup>1</sup> L’autorité scolaire organise et surveille le service médical scolaire pour chaque école ou institution conformément à la présente ordonnance.
+<sup>1</sup> Le service médical scolaire prévoit, selon le système choisi, les compétences et tâches suivantes:
+
+- a dans le système de mise en œuvre directe visé à l’article 20, alinéa 1, lettre a, la ou le médecin scolaire a compétence pour l’intégralité des tâches lui incombant à ce titre;
+- b dans le système d’octroi de bons visé à l’article 20, alinéa 1, lettre b et alinéa 3, la ou le médecin scolaire a compétence pour
+  - 1 les tâches que le service de coordination lui attribue individuellement, avec son accord;
+  - 2 les examens médicaux obligatoires dont les personnes assumant la représentation légale des élèves la ou le chargent;
+- c dans le système de délégation visé à l’article 20, alinéa 1, lettre c,
+  - 1 la ou le médecin scolaire a compétence pour la surveillance selon l’article 25, alinéa 2;
+  - 2 la personne déléguée selon l’article 25, alinéa 1 a compétence pour toutes les autres tâches.
+
+## 2 Tâches incombant aux autorités scolaires
 
 #### Art. 5
 
-**Tâches du service médical scolaire**
+<sup>1</sup> Les autorités scolaires organisent et surveillent le service médical scolaire.
 
-<sup>1</sup> Le service médical scolaire contrôle les conditions d’hygiène régnant dans les écoles et les institutions, et en particulier l’état de santé des élèves.
+<sup>2</sup> Elles veillent à la collaboration requise entre le service médical scolaire et les autres institutions de la santé et de l’instruction publique.
 
-<sup>2</sup> Il est en outre chargé des tâches suivantes:
+## 3 Tâches incombant au service médical scolaire
 
-- a prendre les mesures prescrites ou indiquées de prévention et de lutte
-  - 1\. contre les maladies transmissibles, y compris par des campagnes de vaccination,
-  - 2\. contre les autres maladies,
-  - 3\. contre les accidents, ainsi que contre d’autres atteintes à la santé, et plus particulièrement celles dues à l’activité professionnelle;
-- b conseiller les élèves, les parents, le corps enseignant de l’école obligatoire, la direction de l'école, l'autorité scolaire et les entreprises d'apprentissage dans les questions relevant de l'éducation à la santé, de la médecine sociale et préventive et de la médecine du travail;
-- c visiter les écoles avant de procéder aux examens médicaux scolaires;
-- d se tenir à la disposition des élèves qui souhaitent avoir un entretien particulier et veiller, en collaboration avec l'autorité scolaire, à ce que les élèves aient connaissance de cette possibilité;
-- e examiner et conseiller les élèves chez qui des troubles de la santé, du développement ou du comportement se manifestent, à la demande de l'autorité scolaire et avec le consentement du représentant légal ou de la représentante légale; en cas de présomption fondée de maltraitance, le consentement n'est pas requis;
-- f participer éventuellement à des manifestations sur la santé et à des projets de promotion de la santé de l’école obligatoire;
-- g rédiger des rapports et des propositions concernant les élèves dans les cas prévus par la législation sur l'école obligatoire;
-- h veiller à ce que les installations et équipements des écoles, des institutions, des foyers, des jardins d'enfants et des entreprises d'apprentissage répondent aux exigences de l'hygiène (du travail) et à ce que leurs usagers ne soient pas exposés à des influences nocives du milieu ambiant.
+### 3.1 Généralités
 
 #### Art. 6
 
-**Collaboration avec d'autres institutions**
+**Tâche principale**
 
-<sup>1</sup> Les communes et les autorités scolaires veillent à établir la collaboration indispensable entre le service médical scolaire et les autres institutions de la santé et de l'instruction publiques.
-
-### 2.2 Examens
+<sup>1</sup> Le service médical scolaire contrôle principalement les conditions sanitaires régnant dans les écoles, et en particulier l’état de santé des élèves.
 
 #### Art. 7
 
-**…**
+**Autres tâches**
+
+<sup>1</sup> En outre, le service médical scolaire
+
+- a prend, dans les écoles selon l’article 1, alinéa 1, lettres a à c, les mesures prescrites ou indiquées de prévention et de lutte contre
+  - 1 les maladies transmissibles, y compris par des campagnes de vaccination;
+  - 2 les autres maladies;
+  - 3 les accidents, ainsi que d’autres atteintes à la santé, en particulier celles dues à l’activité professionnelle;
+- b conseille les élèves, les personnes en assumant la représentation légale, le corps enseignant, la direction de l’école, l’autorité scolaire et les entreprises formatrices dans les questions relevant de l’éducation à la santé, de la médecine sociale et préventive et de la médecine du travail;
+- c peut visiter les écoles avant de procéder aux examens médicaux scolaires;
+- d se tient à la disposition des élèves qui souhaitent avoir un entretien particulier et veille, en collaboration avec l’autorité scolaire, à ce qu’elles ou ils aient connaissance de cette possibilité;
+- e participe à des manifestations sur le conseil et l’éducation en matière de santé, à des projets de promotion de la santé et à des mesures de prévention, en particulier dans le domaine de l’éducation sexuelle ou d’un projet de prévention dans le domaine de la santé psychique;
+- f établit concernant des élèves, dans les écoles selon l’article 1, alinéa 1, lettres a à c, les rapports prévus par la législation sur l’école obligatoire, sur indication de l’autorité scolaire;
+- g veille à ce que les écoles et les entreprises formatrices répondent aux exigences en matière d’hygiène du travail et à ce que leurs usagères et usagers ne soient pas exposés à des influences nocives du milieu ambiant;
+- h examine et conseille, sur indication de l’autorité scolaire et sous réserve des alinéas 2 et 3, des élèves présentant des troubles de la santé, du développement ou du comportement.
+
+<sup>2</sup> Le consentement de l’élève capable de discernement ou, à défaut de cette capacité, celui des personnes en assumant la représentation légale, est requis pour l’activité d’examen et de conseil selon l’alinéa 1, lettre h.
+
+<sup>3</sup> En cas de présomption fondée de mise en danger, le consentement selon l’alinéa 2 n’est pas requis.
+
+### 3.2 Examens
 
 #### Art. 8
 
 **Examen obligatoire**
 
-<sup>1</sup> Les élèves sont tenus de se soumettre aux examens médicaux scolaires prévus par les articles 10 à 12.
+<sup>1</sup> Les élèves qui fréquentent une école selon l’article 1, alinéa 1, lettres a à c doivent se soumettre aux examens médicaux scolaires prévus par les articles 11 à 13.
 
-<sup>2</sup> Sont exemptés de cet examen les élèves ayant préalablement fourni une attestation médicale prouvant qu'ils ont subi le même examen à leurs frais.
+<sup>2</sup> Les personnes assumant la représentation légale d’élèves peuvent charger, à leurs frais,
 
-<sup>3</sup> Lorsque la durée de la formation est inférieure ou égale à un an, aucun examen médical n’est requis.
+- a la ou le médecin de leur choix d’effectuer ces examens hors du service médical scolaire, et
+- b de confirmer au service médical scolaire que l’examen selon l’article 11, 12 ou 13 a eu lieu.
 
-<sup>4</sup> L’autorité scolaire avise le service médical scolaire de l'arrivée de nouveaux élèves. Ce dernier procède à l'examen manquant lorsqu'aucune attestation n'est fournie au sens du 2<sup>e</sup> alinéa.
+<sup>3</sup> L’autorité scolaire d'une école selon l’article 1, alinéa 1, lettres a à c avise le service médical scolaire de l’arrivée de nouvelles ou nouveaux élèves, en vue de l’éventuel rattrapage d’examens médicaux.
+
+<sup>4</sup> Lorsque la durée de la formation est inférieure ou égale à un an, aucun examen médical n’est requis.
 
 #### Art. 9
 
-**Examen facultatif, conseils**
+**Lieu de l’examen**
 
-<sup>1</sup> Le service médical scolaire peut étendre le champ de l'examen obligatoire ou fournir des conseils à la demande de l'élève, de son représentant légal ou de sa représentante légale.
+<sup>1</sup> Le service médical scolaire peut procéder aux examens dans un local approprié mis à sa disposition par l’autorité scolaire ou dans un cabinet médical.
 
 #### Art. 10
 
-**Premier examen médical**
+**Examen complémentaire et conseil**
 
-<sup>1</sup> Les enfants sont soumis à un premier examen médical pendant le premier semestre de la deuxième année d’école enfantine, ou dans le courant de leur premier semestre à l’école primaire quand ils n’ont pas suivi la deuxième année d’école enfantine.
-
-<sup>2</sup> Cet examen consiste notamment à
-
-- a dresser une anamnèse avec les parents, à l'aide d'un questionnaire ou lors d'un entretien;
-- b contrôler les vaccinations et le cas échéant en recommander ou en exécuter (avec le consentement du représentant légal ou de la représentante légale);
-- c examiner la vue et l'ouïe (audiométrie);
-- d dépister les handicaps scolaires, en particulier en ce qui concerne la mobilité, le langage et le développement;
-- e mesurer la taille et le poids.
+<sup>1</sup> Lors des examens médicaux obligatoires, le service médical scolaire peut effectuer des examens complémentaires et fournir des conseils, à la demande d’une ou d’un élève capable de discernement ou, à défaut de cette capacité, des personnes en assumant la représentation légale.
 
 #### Art. 11
 
-**Deuxième examen médical**
+**Premier examen médical obligatoire**
 
-<sup>1</sup> Le deuxième examen médical a lieu dans le courant de la quatrième année d’école primaire.
+<sup>1</sup> Le premier examen médical obligatoire a lieu durant la deuxième année d’école enfantine (2H).
 
-<sup>2</sup> Cet examen consiste notamment à
+<sup>2</sup> Il consiste à
 
-- a dresser une anamnèse avec les parents, à l'aide d'un questionnaire ou lors d'un entretien;
-- b contrôler les vaccinations et le cas échéant en recommander ou en exécuter (avec le consentement du représentant légal ou de la représentante légale);
-- c examiner la vue et l'ouïe (audiométrie);
-- d examiner l’appareil locomoteur, en particulier en ce qui concerne la scoliose, la symétrie du bassin et l’attitude;
-- e mesurer la taille et le poids.
+- a dresser une anamnèse avec les personnes assumant la représentation légale de l’enfant, à l’aide d’un questionnaire ou lors d’un entretien,
+- b contrôler les vaccinations, notamment
+  - 1 en recommander ou
+  - 2 en exécuter, avec le consentement des personnes assumant la représentation légale de l’enfant,
+- c examiner la vue et l’ouïe (audiométrie),
+- d mesurer la taille et le poids,
+- e dépister les handicaps scolaires, en particulier concernant la motricité, le langage et le développement.
 
 #### Art. 12
 
-**Troisième examen médical**
+**Deuxième examen médical obligatoire**
 
-<sup>1</sup> Le troisième examen médical a lieu dans le courant du deuxième semestre de la deuxième année du degré secondaire I.
+<sup>1</sup> Le deuxième examen médical obligatoire a lieu durant la quatrième année du degré primaire (6H).
 
-<sup>2</sup> Cet examen consiste notamment à
+<sup>2</sup> Il consiste à
 
-- a s’entretenir avec l’adolescent ou l’adolescente sur sa santé et son comportement en matière de santé, sur la base d’un questionnaire rempli par celui-ci ou celle-ci;
-- b contrôler les vaccinations et le cas échéant en recommander ou en exécuter (avec le consentement de l'adolescent ou de l'adolescente capable de discernement et de son représentant légal ou de sa représentante légale);
-- c examiner la vue et l'ouïe (audiométrie);
-- d mesurer la pression artérielle en vue de déceler toute hypertension;
-- e mesurer la taille et le poids.
+- a exécuter les mesures visées à l’article 11, alinéa 2, lettres a à d;
+- b examiner l’appareil locomoteur, en particulier en ce qui concerne la scoliose, la symétrie du bassin et la posture.
 
 #### Art. 13
 
-**Examen médical facultatif**
+**Troisième examen médical obligatoire**
 
-<sup>1</sup> Les élèves soumis à la loi fédérale sur la formation professionnelle peuvent subir un examen médical facultatif.
+<sup>1</sup> Le troisième examen médical obligatoire a lieu durant la deuxième année du degré secondaire I (10H).
 
-<sup>2</sup> Cet examen consiste notamment à
+<sup>2</sup> Il consiste à
 
-- a dresser une anamnèse à l'aide d'un questionnaire qui doit être rempli par l'adolescent ou l'adolescente;
-- b contrôler les vaccinations et, le cas échéant, en recommander ou en exécuter (avec le consentement de l'adolescent ou de l'adolescente capable de discernement et de son représentant légal ou de sa représentante légale);
-- c examiner la vue et l'ouïe (audiométrie);
-- d mesurer la pression artérielle en vue de déceler toute hypertension;
-- e procéder à tout examen indiqué en raison de la profession apprise; cet examen peut porter sur la colonne vertébrale, les jambes et les pieds, le système nerveux et la peau.
-
-<sup>3–4</sup> …
+- a s’entretenir avec l’élève sur sa santé et son comportement en matière de santé, sur la base d’un questionnaire qu’elle ou il a rempli;
+- b contrôler les vaccinations, notamment
+  - 1 en recommander ou
+  - 2 en exécuter, avec le consentement des personnes assumant la représentation légale de l’élève;
+- c examiner l’appareil locomoteur, en particulier en ce qui concerne la scoliose, la symétrie du bassin et la posture;
+- d examiner la vue et l’ouïe (audiométrie);
+- e mesurer la taille, le poids et la pression artérielle.
 
 #### Art. 14
 
-**…**
+**Examen de personnes en formation**
+
+<sup>1</sup> Les personnes en formation au sens de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^14-1] sont libres de se soumettre à un examen médical, portant avant tout sur des aspects relevant de la médecine du travail.
+
+<sup>2</sup> L’examen consiste notamment à
+
+- a dresser une anamnèse à l’aide d’un questionnaire rempli par la personne en formation;
+- b contrôler les vaccinations, notamment
+  - 1 en recommander ou
+  - 2 en exécuter;
+- c examiner la vue et l’ouïe (audiométrie);
+- d mesurer la pression artérielle;
+- e procéder aux examens requis en raison de la profession apprise, en particulier en ce qui concerne la colonne vertébrale, les jambes et les pieds, le système nerveux et la peau.
+
+<sup>3</sup> La personne en formation doit expressément consentir à sa vaccination, pour autant qu’elle soit capable de discernement par rapport à celle-ci.
+
+[^14-1]: RS [412.10](https://db.clex.ch/link/Bund/412.10/fr)
 
 #### Art. 15
 
-**Coopération des organes scolaires et des entreprises d'apprentissage**
+**Autorité scolaire et personnes assumant la représentation légale de l’élève**
 
-<sup>1</sup> Les examens au sens des articles 8 à 14 peuvent être exécutés pendant les heures d'école ou de travail.
+<sup>1</sup> L’autorité scolaire veille à ce que les personnes assumant la représentation légale de l’élève reçoivent les documents suivants préalablement à l’examen médical:
 
-<sup>2</sup> La direction de l'école ou du foyer, le corps enseignant de la scolarité obligatoire et les entreprises d'apprentissage sont tenus d'assister le service médical scolaire dans la préparation et l'exécution des examens et d'accorder aux élèves le temps nécessaire.
+- a une feuille d’information;
+- b une déclaration de consentement pour les vaccins à administrer si l’examen médical révèle des lacunes en la matière;
+- c un questionnaire sur l’état de santé de l’élève;
+- d un bon pour un examen auprès d’une ou un médecin scolaire, si l’autorité scolaire a choisi le système d'octroi de bons visé à l’article 20, alinéa 1, lettre b.
 
-<sup>3</sup> Les personnes et les entreprises mentionnées au 2<sup>e</sup> alinéa sont également tenues de signaler au médecin scolaire les éventuelles atteintes à la santé des élèves lorsqu'elles comportent un risque pour des tiers et de le ou la renseigner, à sa demande et dans des cas fondés, sur le développement et les éventuels problèmes de certains élèves.
+<sup>2</sup> Les personnes assumant la représentation légale de l’élève complètent le questionnaire en vue du premier et du deuxième examen obligatoire et l’envoient au service médical scolaire avec les documents de vaccination, la déclaration de consentement selon l’alinéa 1, lettre b et, le cas échéant, le bon.
 
-### 2.3 Mesures médicales
+<sup>3</sup> L’élève complète le questionnaire en vue du troisième examen médical obligatoire.
 
 #### Art. 16
 
-**Traitement ou examen complémentaire**
+**Écoles et entreprises formatrices**
 
-<sup>1</sup> Si l'examen médical révèle qu'un traitement ou un examen complémentaire est nécessaire, le service médical scolaire le recommande à la personne intéressée, à son représentant légal ou à sa représentante légale.
+<sup>1</sup> Les écoles et les entreprises formatrices sont tenues
 
-<sup>2</sup> Le choix du ou de la spécialiste procédant à ce traitement ou à cet examen est libre.
+- a d’assister le service médical scolaire dans la préparation et l’exécution des examens;
+- b de signaler au service médical scolaire les éventuelles atteintes à la santé des élèves lorsqu’elles comportent un risque pour la personne concernée ou des tiers;
+- c de renseigner le service médical scolaire, à sa demande et dans des cas fondés, sur le développement et les éventuels problèmes de certaines ou certains élèves.
 
-<sup>3</sup> Si la personne intéressée ou son représentant légal ou sa représentante légale et le service médical scolaire le demandent, le corps enseignant et les entreprises d'apprentissage sont tenus de collaborer à l'exécution du traitement.
+<sup>2</sup> Les examens selon les articles 8 à 14 sont autorisés pendant les heures d’école ou de travail.
+
+### 3.3 Mesures médicales
 
 #### Art. 17
 
-**Mesures générales de protection**
+**Recommandation en vue d’un traitement ou d’un examen complémentaire**
 
-<sup>1</sup> Si des mesures se révèlent nécessaires pour protéger les élèves et les autres personnes travaillant à l'école, le médecin scolaire le signale à l'autorité scolaire, dans le respect du secret médical.
+<sup>1</sup> Le service médical scolaire recommande à la personne concernée ou aux personnes en assumant la représentation légale un traitement ou un examen complémentaire auprès d’une ou d’un spécialiste, dans la mesure où l’examen médical scolaire en révèle la nécessité.
 
-<sup>2</sup> Si des mesures se révèlent indispensables pour protéger d'autres personnes occupées dans l'entreprise d'apprentissage, le médecin scolaire en avise l'autorité communale de police sanitaire, dans le respect du secret médical.
+<sup>2</sup> La personne concernée ou les personnes en assumant la représentation légale peuvent en charger la ou le spécialiste de leur choix.
 
-<sup>3</sup> Les autorités prennent les mesures proposées par le médecin scolaire et contrôlent leur exécution.
+<sup>3</sup> Les écoles et les entreprises formatrices sont tenues de collaborer à l’exécution du traitement.
 
 #### Art. 18
 
-**Autres mesures et avis**
+**Mesures générales de protection**
 
-<sup>1</sup> Dans le cadre de la lutte contre les maladies transmissibles, les avis et les mesures sont soumis aux législations fédérale et cantonale sur les épidémies.
+<sup>1</sup> Le service médical scolaire communique à l’autorité scolaire, dans le respect du secret médical, les mesures requises pour protéger les élèves et les autres personnes travaillant à l’école.
 
-<sup>2</sup> L'Office de la santé (ODS) doit être averti si les décisions du médecin scolaire ou du médecin traitant ne peuvent être exécutées.
+<sup>2</sup> Si des mesures se révèlent nécessaires pour protéger d’autres personnes occupées dans l’entreprise formatrice, la ou le médecin scolaire les communique à la police sanitaire de la commune, dans le respect du secret médical.
 
-## 3 Organisation
+<sup>3</sup> Les autorités décident de la suite à donner aux mesures communiquées par le service médical scolaire et, au besoin, en surveillent l’exécution.
 
 #### Art. 19
 
-**Médecin scolaire 1. Mandat et engagement par l’autorité scolaire**
+**Autres mesures et avis**
 
-<sup>1</sup> L’autorité scolaire nomme un ou plusieurs médecins scolaires titulaires d’une autorisation d’exercer dans le canton de Berne.
+<sup>1</sup> Dans le cadre de la lutte contre les maladies transmissibles, les avis et mesures sont soumis à la législation sur les épidémies.
 
-<sup>2</sup> Elle communique le nom des médecins scolaires à la Direction de la santé, des affaires sociales et de l'intégration.
+<sup>2</sup> Le service médical scolaire, la médecin traitante ou le médecin traitant avertissent l’Office de la santé (ODS) si leurs ordres ne peuvent être exécutés.
 
-<sup>3</sup> …
+## 4 Organisation du service médical scolaire
+
+### 4.1 Choix du système du service médical scolaire et exigences en matière de personnel
 
 #### Art. 20
 
-**2. Statut**
+**Choix du système du service médical scolaire**
 
-<sup>1</sup> L'autorité scolaire fait appel aux médecins scolaires et les consulte dès qu'une affaire relevant de la compétence du service médical scolaire est à traiter.
+<sup>1</sup> L’autorité scolaire désigne, sous réserve de l’alinéa 4,
 
-<sup>2</sup> Les médecins scolaires sont habilités à faire des propositions.
+- a dans le cadre du système de mise en œuvre directe, une ou un médecin scolaire à titre accessoire ou principal, ou
+- b dans le cadre du système d’octroi de bons, une personne tenant lieu de service de coordination selon l’article 23, et distribue aux personnes assumant la représentation légale des élèves des bons pour les examens médicaux obligatoires auprès d’une ou d’un médecin de leur choix, ou
+- c dans le cadre du système de délégation, une ou un médecin scolaire, ainsi qu’avec son accord,
+  - 1 une personne déléguée selon l’article 25 ou
+  - 2 une organisation et une personne active au sein de cette dernière, qui accomplit les tâches du service médical scolaire en qualité de personne déléguée selon l’article 25.
 
-<sup>3</sup> Dans les questions médicales, ils traitent directement avec l'ODS.
+<sup>2</sup> Elle annonce à l’ODS le système qu’elle a choisi et les noms des
+
+- a médecins scolaires,
+- b personnes accomplissant les tâches du service de coordination,
+- c personnes déléguées selon l’article 25 accomplissant les tâches du service médical scolaire, sous réserve des entretiens portant sur des questions médicales.
+
+<sup>3</sup> Les bons selon l’alinéa 1, lettre b informent la ou le médecin que l’examen de l’élève et le renvoi consécutif du bon au service de coordination valent acceptation des obligations visées à l’article 7 et que, dorénavant, elle ou il a qualité de médecin scolaire.
+
+<sup>4</sup> Les autorités choisissant le service médical scolaire au sens de l’article 3, alinéa 1, lettres a et b peuvent en imposer le système.
 
 #### Art. 21
 
-**3. Recours à du personnel qualifié**
+**Exigences en matière de personnel**
 
-<sup>1</sup> Les médecins scolaires peuvent confier des tâches, sous leur responsabilité, à du personnel qualifié, tel que personnel infirmier, et notamment des examens médico-techniques (notamment de la vue, de l'ouïe, de la pression artérielle) et les examens requis en cas d'invasion de poux.
+<sup>1</sup> Les médecins scolaires
+
+- a sont titulaires d’une autorisation d’exercer la profession de médecin, délivrée par le canton de Berne et
+- b ont suivi, au cours de leurs deux premières années au sein d’un service médical scolaire, le cours d’introduction donné par le Service du médecin cantonal (SMC).
+
+<sup>2</sup> Ces médecins sont tenus de participer au cours de perfectionnement annuel donné par le SMC.
+
+<sup>3</sup> Les personnes déléguées selon l’article 20, alinéa 1, lettre c
+
+- a sont au moins titulaires d’un Bachelor of Science en soins infirmiers et
+- b bénéficient d’une formation qualifiée relevant de la santé scolaire (spécialistes en santé scolaire).
+
+### 4.2 Groupements régionaux et service de coordination dans le système d’octroi de bons
 
 #### Art. 22
 
-**4. Formation**
+**Organisation commune du service médical scolaire**
 
-<sup>1</sup> Au cours des deux premières années de leur activité au sein du service médical scolaire, les médecins scolaires sont tenus de participer au cours d'introduction organisé par l'ODS.
-
-<sup>2</sup> Les médecins scolaires sont tenus de prendre part à la journée de perfectionnement organisée chaque année par l'ODS.
+<sup>1</sup> Plusieurs organismes responsables peuvent organiser le service médical scolaire en commun.
 
 #### Art. 23
 
-**Institutions**
+**Service de coordination dans le système d’octroi de bons**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration peut confier des tâches nécessaires à la lutte contre les maladies transmissibles à des institutions publiques ou privées.
+<sup>1</sup> Le service de coordination
+
+- a attribue les tâches incombant au service médical scolaire parallèlement aux examens médicaux obligatoires et au contrôle des vaccinations à une ou un médecin scolaire, d’entente avec celle-ci ou celui-ci;
+- b coordonne l’échange d’informations entre les médecins scolaires, les autorités scolaires et le SMC;
+- c contrôle sur la base des bons reçus, visés à l’article 20, alinéa 3, si chaque élève a subi l’examen;
+- d envoie les bons à l’organisme responsable de l’école en vue du versement de la rétribution;
+- e a compétence pour toutes les autres tâches organisationnelles et administratives.
+
+### 4.3 Position de la ou du médecin scolaire
 
 #### Art. 24
 
-**Secret médical**
+<sup>1</sup> Les médecins scolaires sont habilités à adresser des propositions à l’autorité scolaire.
 
-<sup>1</sup> Les personnes travaillant au service médical scolaire sont tenues de respecter le secret médical vis-à-vis de l'autorité scolaire, de la direction de l'école ou du foyer et du corps enseignant, à moins d'en être libérées expressément.
+<sup>2</sup> Les autorités scolaires consultent et entendent les médecins scolaires sur des affaires relevant du service médical scolaire.
 
-<sup>2</sup> Elles sont tenues de renseigner les autorités de surveillance déléguées à la protection des données (art. 35, 2<sup>e</sup> al. de la loi sur la protection des données[^24-1]).
+<sup>3</sup> Pour les questions d’ordre médical, les médecins scolaires traitent directement avec l’ODS.
 
-[^24-1]: RSB 152.04
+### 4.4 Délégation de tâches et directives
 
 #### Art. 25
 
-**Directives**
+**Délégation de l’intégralité des tâches du service médical scolaire**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration édicte des directives concernant le service médical scolaire d'entente avec la Direction de l’instruction publique et de la culture et après avoir entendu la commission cantonale (art. 29).
+<sup>1</sup> Les médecins scolaires peuvent, sous réserve de l’alinéa 2, déléguer l’intégralité des tâches du service médical scolaire à des infirmières ou infirmiers au sens de l’article 21, alinéa 3.
 
-<sup>2</sup> L'utilisation des formulaires imprimés par la Direction de la santé, des affaires sociales et de l'intégration est obligatoire.
+<sup>2</sup> Ces médecins se tiennent à la disposition des personnes déléguées pour des entretiens portant sur des questions médicales et exercent la surveillance sur elles.
 
 #### Art. 26
 
-**Fiche de santé**
+**Délégation partielle des tâches du service médical scolaire**
 
-<sup>1</sup> Le médecin scolaire tient pour chaque élève une fiche de santé fournie par la Direction de la santé, des affaires sociales et de l'intégration dans laquelle il consigne les résultats de ses examens ou l'attestation prévue à l'article 8, 2<sup>e</sup> alinéa ainsi que l'essentiel de ses entretiens.
-
-<sup>2</sup> Lorsqu'un élève change d'école, le médecin scolaire envoie sa fiche de santé au médecin scolaire de la nouvelle école.
-
-<sup>3</sup> Le médecin scolaire est tenu de conserver les dossiers médicaux scolaires dix ans après le dernier examen médical.
+<sup>1</sup> Les médecins scolaires et les personnes déléguées selon l’article 25 peuvent déléguer une partie des tâches du service médical scolaire à des spécialistes, en particulier s'agissant de l’éducation à la santé ou de la lutte contre les poux.
 
 #### Art. 27
 
-**Droit d'accès et de consultation**
+**Délégation de tâches spéciales**
 
-<sup>1</sup> Le droit d'accéder aux données du service médical scolaire et le droit de les consulter sont accordés
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration (DSSI) peut déléguer des tâches de lutte contre les maladies transmissibles à des institutions publiques ou privées, dans le respect de l’article 95, alinéa 2, lettre d de la Constitution cantonale (ConstC)[^27-1].
 
-- a aux élèves capables de discernement concernant les informations contenues dans leur dossier, généralement à partir de l'âge de douze ans;
-- b aux représentants légaux dans la mesure où leur droit n'est pas contraire aux intérêts de l'élève.
+[^27-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
 
 #### Art. 28
 
-**Surveillance**
+**Directives**
 
-<sup>1</sup> Les Directions compétentes chargent leurs organes de veiller à ce que les autorités scolaires s'acquittent de leurs tâches.
+<sup>1</sup> La DSSI édicte, d'entente avec la Direction de l’instruction publique et de la culture (INC), des directives concernant le service médical scolaire après avoir entendu la commission spécialisée du service médical scolaire.
 
-<sup>2</sup> La Direction de la santé, des affaires sociales et de l'intégration exerce la haute surveillance sur le service médical scolaire de concert avec la Direction de l’instruction publique et de la culture.
+<sup>2</sup> Le service médical scolaire se sert des formulaires édités sur papier par la DSSI ou peut utiliser l’application en ligne mise à disposition par cette dernière.
+
+### 4.5 Protection des données
 
 #### Art. 29
 
-**Commission**
+**Secret médical**
 
-<sup>1</sup> D’entente avec la Direction de l’instruction publique et de la culture, la Direction de la santé, des affaires sociales et de l'intégration institue comme organe consultatif une commission cantonale pour le service médical scolaire composée de cinq à sept membres, qui lui est subordonnée. La Direction de l’instruction publique et de la culture y est représentée.
-
-<sup>2</sup> La commission livre des expertises sur les questions concernant le service médical scolaire qui lui sont soumises par les organes de surveillance (art. 28).
-
-<sup>3</sup> Elle peut de son propre chef proposer des mesures à la Direction compétente.
-
-## 4 Voies de droit
+<sup>1</sup> Les personnes travaillant au sein du service médical scolaire doivent respecter le secret médical aussi vis-à-vis de l’autorité scolaire, de la direction de l’école ou du foyer et du corps enseignant, à moins d’en être libérées expressément.
 
 #### Art. 30
 
-<sup>1</sup> Les décisions rendues dans le domaine du service médical scolaire peuvent faire l'objet d'un recours écrit et motivé, dans les 30 jours à compter de la notification, conformément aux dispositions déterminantes pour l'école ou l'institution en question.
+**Fiche de santé**
 
-<sup>2</sup> La procédure de recours est régie par les dispositions de la loi sur la procédure et la juridiction administratives.
+<sup>1</sup> Le service médical scolaire d’une école selon l’article 1, alinéa 1, lettres a à c
 
-## 5 Dispositions financières
+- a tient pour chaque élève une fiche de santé fournie par la DSSI;
+- b consigne sur la fiche de santé les résultats de ses examens ou la confirmation prévue à l’article 8, alinéa 2, lettre b ainsi que l’essentiel de son activité de conseil;
+- c transfère la fiche de santé au service médical scolaire de la nouvelle école, dans la mesure où ce dernier la demande et démontre que l’élève capable de discernement a donné son accord ou, à défaut, que les personnes en assumant la représentation légale ont exprimé le leur.
+
+<sup>2</sup> Il se sert de la fiche de santé éditée sur papier par la DSSI ou peut utiliser celle mise à disposition par cette dernière sous forme d’application en ligne.
+
+<sup>3</sup> L’ODS peut traiter et évaluer, sous une forme anonymisée, les données de la fiche de santé sauvegardée dans l'application en ligne.
 
 #### Art. 31
 
-**Rétribution**
+**Conservation des dossiers**
 
-<sup>1</sup> Les médecins scolaires sont rétribués pour leurs prestations selon le tarif figurant à l’annexe 1.
-
-<sup>2</sup> Les prestations des services médicaux scolaires pour les écoles cantonales et les écoles privées sont indemnisées de manière analogue au tarif figurant à l’annexe 1.
+<sup>1</sup> Le service médical scolaire est tenu de conserver les dossiers médicaux scolaires vingt ans après le dernier examen médical.
 
 #### Art. 32
 
-**Prise en charge des frais**
+**Droit d’accès et de consultation**
 
-<sup>1</sup> Les frais du service médical scolaire sont pris en charge par l'organe responsable de l'école ou de l'institution, à l'exception des frais de vaccinations.
+<sup>1</sup> Le droit d’accéder aux données du service médical scolaire et celui de les consulter sont accordés aux
 
-<sup>2</sup> Ils sont compris dans la participation aux frais d'écolage que la commune de domicile des élèves extracommunaux doit verser à l'organe responsable de l'école ou de l'institution.
+- a élèves capables de discernement concernant les informations contenues dans leur dossier, généralement à partir de l’âge de douze ans;
+- b personnes assumant la représentation légale de l’élève, dans la mesure où l’exercice de leur droit n'est pas contraire à ses intérêts.
+
+### 4.6 Surveillance et commission spécialisée
 
 #### Art. 33
 
-**…**
+**Surveillance**
 
-## 6 Dispositions transitoires et finales
+<sup>1</sup> Les services compétents de la DSSI et de l’INC veillent à ce que les autorités scolaires exécutent leurs obligations.
+
+<sup>2</sup> La DSSI exerce la haute surveillance sur le service médical scolaire, d’entente avec l’INC.
 
 #### Art. 34
 
-**…**
+**Commission spécialisée du service médical scolaire**
+
+<sup>1</sup> Une commission spécialisée du service médical scolaire est instaurée aux fins de conseiller la DSSI et l’INC.
+
+<sup>2</sup> La commission spécialisée se compose de dix à quinze membres, dont un au moins représente l’INC et un, l’Association des communes bernoises.
+
+<sup>3</sup> Elle se prononce sur des questions qui lui sont soumises par la DSSI ou l’INC et peut, de sa propre initiative, proposer des mesures à la Direction compétente.
+
+<sup>4</sup> La DSSI nomme, d'entente avec l'INC, les membres de la commission spécialisée et gère le secrétariat de celle-ci.
+
+## 5 Dispositions financières
+
+### 5.1 Rétribution du service médical scolaire
+
+### 5.1.1 Compétence
 
 #### Art. 35
 
-**Conservation des dossiers**
+<sup>1</sup> Le service médical scolaire est rétribué par l’organisme responsable de l’école.
 
-<sup>1</sup> Les dossiers médicaux scolaires conservés par l'école ou l'institution en vertu de l'ancien droit le sont jusqu'à l'écoulement du délai de conservation.
+### 5.1.2 Montant des rétributions
 
 #### Art. 36
 
-**Abrogation d'un texte législatif**
+**Système de mise en œuvre directe au sens de l’article 20, alinéa 1, lettre a**
 
-<sup>1</sup> L'ordonnance du 3 juillet 1985 concernant le service médical scolaire (OSMS) est abrogée.
+<sup>1</sup> L’organisme responsable de l’école rétribue comme suit la ou le médecin scolaire selon l’article 20, alinéa 1, lettre a:
+
+- a sous réserve des lettres b à f, 220 francs de l’heure, décomptée par tranche de 15 minutes, chaque tranche entamée étant pleinement rétribuée à raison de 55 francs,
+- b pour l’examen médical scolaire obligatoire y compris la vérification du carnet de vaccination et le remplissage des formulaires requis, 110 francs par élève auscultée ou élève ausculté au cours du premier, deuxième ou troisième examen obligatoire,
+- c par classe, forfait annuel de 25 francs,
+- d pour les visites en classe préalablement aux examens obligatoires, 200 francs par leçon,
+- e pour la participation à des manifestations portant sur des questions sanitaires ou à des projets de prévention: 110 francs par tranche de 15 minutes,
+- f pour les frais de déplacement à l’aller et au retour, 70 centimes par kilomètre.
+
+<sup>2</sup> L’alinéa 1 n’est pas applicable si l’organisme responsable de l’école engage la ou le médecin scolaire en application de son règlement sur les traitements.
 
 #### Art. 37
 
+**Système d’octroi de bons au sens de l’article 20, alinéa 1, lettre b**
+
+<sup>1</sup> Concernant la rétribution des médecins scolaires, l’article 36 est applicable par analogie.
+
+<sup>2</sup> L’organisme responsable de l’école engage la personne exécutant les tâches du service de coordination en application de son règlement sur les traitements.
+
+#### Art. 38
+
+**Système de délégation au sens de l’article 20, alinéa 1, lettre c**
+
+<sup>1</sup> L’organisme responsable de l’école rétribue comme suit la ou le médecin scolaire:
+
+- a forfait pour les entretiens portant sur des questions médicales: 4000 francs par an,
+- b interventions extraordinaires, en particulier lors de vaccinations, de flambées de rougeole, de pandémies de grippe ou d’infections à méningocoques: 220 francs de l’heure,
+- c remboursement d’éventuels frais de déplacement selon l’article 36, alinéa 1, lettre f en cas d’interventions extraordinaires.
+
+<sup>2</sup> L’organisme responsable de l’école
+
+- a engage la personne déléguée en application de son règlement sur les traitements;
+- b rétribue l’organisation avec le montant que la personne déléguée recevrait au titre de salaire en application de son règlement sur les traitements.
+
+#### Art. 39
+
+**Vaccinations**
+
+<sup>1</sup> Les vaccinations recommandées par le plan suisse de vaccination sont mises à la charge de l’assurance obligatoire des soins de l’élève.
+
+#### Art. 40
+
+**Examens extraordinaires et traitements**
+
+<sup>1</sup> Les examens extraordinaires destinés à préciser le résultat d’un examen médical obligatoire appelant l’exécution d’un traitement médical, et ledit traitement, ne sont pas exécutés par le service médical scolaire.
+
+<sup>2</sup> Leur prise en charge incombe à l’assurance obligatoire des soins.
+
+### 5.2 Prise en charge des frais
+
+#### Art. 41
+
+<sup>1</sup> Les frais du service médical scolaire sont à la charge de l’organisme responsable de l’école, à l’exception de ceux découlant des vaccinations selon l’article 39 et sous réserve des alinéas 3 et 4.
+
+<sup>2</sup> Ils sont compris dans la participation aux frais d’écolage que les communes de domicile versent à l’organisme responsable de l’école pour les élèves venant de l’extérieur.
+
+<sup>3</sup> Dans les établissements privés de la scolarité obligatoire, ils sont à la charge de la commune de domicile de l’élève, à l’exception de ceux découlant des vaccinations.
+
+<sup>4</sup> Dans les établissements particuliers de la scolarité obligatoire, ils sont portés à la compensation des charges du secteur social, à l’exception de ceux découlant des vaccinations.
+
+## 6 Dispositions transitoires et finales
+
+#### Art. 42
+
+**Conservation des anciens dossiers**
+
+<sup>1</sup> Les dossiers conservés par les médecins scolaires en vertu de l’ancien droit restent sous leur garde jusqu’à l’expiration du délai de conservation prévu à l’article 26, alinéa 2 LSP.
+
+#### Art. 43
+
+**Abrogation d’un acte législatif**
+
+<sup>1</sup> L’ordonnance du 8 juin 1994 concernant le service médical scolaire (OSMS)[^43-1] est abrogée.
+
+[^43-1]: RSB [430.41](https://www.belex.sites.be.ch/data/430.41/fr)
+
+#### Art. 44
+
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1994.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2026.
 
-## A1 Annexe 1 à l'article 31
-
-#### Art. A1-1
-
-<sup>1</sup> Les médecins scolaires sont rétribués pour leurs prestations selon le tarif suivant:
-
-- 1\. Forfait annuel par classe (groupe d'élèves recevant l'enseignement dans la même salle, quelle que soit leur année de scolarité) pour laquelle ils ont été nommés, couvrant les prestations administratives et organisationnelles — CHF 25
-- 2\. Examen scolaire selon les articles 8, alinéas 4 à 13, remplissage des formulaires requis et visite préalable de l'école, par élève: — CHF 55
-- 3\. Lutte contre les poux, la rougeole, la pandémie de grippe, la tuberculose et les méningocoques, par 15 minutes: — CHF 55
-- 4\. Cours sur les questions relevant de la lutte contre les épidémies et la tuberculose (préparation comprise), par 15 minutes: — CHF 110
-- 5\. Examen visant à décider de l'admission à un enseignement spécialisé, dans une classe spéciale ou d'une autre scolarisation, à la demande du corps enseignant de l'école obligatoire, de l'autorité scolaire, d'un représentant légal ou d'une représentante légale, par 15 minutes: — CHF 55
-- 6\. Examen au sens de l'article 5, alinéa 2 lettre e, à la demande de l'autorité scolaire, par 15 minutes: — CHF 55
-- 7\. Entretien particulier au sens de l'article 5, alinéa 2, lettre d, par 15 minutes: — CHF 55
-- 8\. Participation à des manifestations sur la santé et à des projets de promotion de la santé de l'école obligatoire, en particulier à des cours (préparation comprise), par 15 minutes: — CHF 110
-- 9\. Par kilomètre à partir du troisième kilomètre, seul le trajet aller pouvant être facturé: — CHF 5
-
-Berne, 8 juin 1994
+Berne, le 1<sup>er</sup> avril 2026
 
 Au nom du Conseil-exécutif,
 
-le président: Annoni
+le président: Neuhaus
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-94-54
+26-011
