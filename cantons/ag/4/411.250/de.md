@@ -4,13 +4,12 @@ number: "411.250"
 title: Dekret über die Beteiligung der Gemeinden am Personalaufwand der Volksschulen und Kindergärten
 short: "Gemeindebeteiligungsdekret, GbD"
 language: de
-version: 2020-08-01
-valid_until: 2026-07-31
-version_adopted: 2020-01-07
+version: 2026-08-01
+version_adopted: 2025-09-23
 adopted: 2005-02-22
 in_force: 2006-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.250"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3714/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3951/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3714/pdf_file"
 
 (Gemeindebeteiligungsdekret, GbD)
 
-Vom 22.02.2005 (Stand 01.08.2020)
+Vom 22.02.2005 (Stand 01.08.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf § 66 Abs. 2 und 3 des Schulgesetzes vom 17. März 1981[^ingress-1],
+gestützt auf § 100 Abs. 1 und 2 des Volksschulgesetzes (VSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^ingress-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 
 #### § 1
 
