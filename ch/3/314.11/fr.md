@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2026-07-01
+version: 2026-08-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/fr"
 
 (OAO)
 
-du 16 janvier 2019 (État le 1<sup>er</sup> juillet 2026)
+du 16 janvier 2019 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -596,7 +596,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-lvlu1-8]: Les renvois ont été adaptés au 1<sup>er</sup> janv. 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^annex1-lvlu1-lvlu1-9]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^annex1-lvlu1-lvlu1-10]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648))
-[^annex1-lvlu1-lvlu1-11]: Le texte des prescriptions «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» peut être consulté sous www.astra.admin.ch &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit international
+[^annex1-lvlu1-lvlu1-11]: Le texte des prescriptions «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» peut être consulté sous [www.astra.admin.ch](http://www.astra.admin.ch) &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit international
 
 Annexe 2[^t-2]
 
@@ -604,7 +604,7 @@ Annexe 2[^t-2]
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)) et du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)), l’annexe ch. 1 de l’O du 23 juin 2023 sur la vignette autoroutière ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), le ch. II 1 de l’O du 29 nov. 2023 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), l’erratum du 9 déc. 2024 ([RO 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)) et le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)). Erratum du 10 fév. 2025 ([RO 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)) et du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)), l’annexe ch. 1 de l’O du 23 juin 2023 sur la vignette autoroutière ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), le ch. II 1 de l’O du 29 nov. 2023 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), l’erratum du 9 déc. 2024 ([RO 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)), le ch. I de l’O du 6 nov. 2024 ([RO 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)), l’erratum du 10 fév. 2025 ([RO 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)) et l’annexe ch. 1 de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -709,6 +709,11 @@ Annexe 2[^t-2]
 <tr><td>**IX.** **Loi du 7 octobre 1983 sur la protection de l’environnement (LPE)**[^annex2-lvlu1-lvlu1-15]</td><td></td></tr>
 <tr><td>9001. Utiliser un point de collecte des déchets public en dehors des horaires prescrits (art. 61, al. 1, let. a, art. 12, al. 1, let. c, LPE)</td><td>50</td></tr>
 <tr><td>9002. Ne pas être muni du document de suivi lors du transport de déchets (art. 61, al. 1, let. k, LPE, art. 31, al. 4<sup>bis</sup> et 6, OMoD[^annex2-lvlu1-lvlu1-16])</td><td>100</td></tr>
+<tr><td>9003. Jeter ou abandonner de petites quantités de déchets urbains ailleurs que dans des collectes prévues à cet effet et éliminer de grandes quantités de déchets urbains ailleurs que dans des collectes ou des points de collecte prévus à cet effet</td><td></td></tr>
+<tr><td>1. déchet individuel de petite taille tel qu’un mégot, un emballage, une canette, une bouteille, un chewing-gum ou un journal (art. 61, al. 4, et art. 31*b*, al. 7, LPE)</td><td>80</td></tr>
+<tr><td>2. plusieurs déchets de petite taille tels que des mégots, emballages, canettes, bouteilles, chewing-gums et journaux, à partir de deux pièces et pour un volume total inférieur à 17 litres (art. 61, al. 4, et art. 31*b*, al. 7, LPE)</td><td>100</td></tr>
+<tr><td>3. déchets urbains d’un volume total de 17 à 35 litres (art. 61, al. 1, let. i, et art. 31*b*, al. 3, LPE)</td><td>150</td></tr>
+<tr><td>4. déchets urbains d’un volume total supérieur à 35 litres et allant jusqu’à 110 litres (art. 61, al. 1, let. i, et art. 31*b*, al. 3, LPE)</td><td>250</td></tr>
 <tr><td>**X.** **Loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif**[^annex2-lvlu1-lvlu1-17]</td><td></td></tr>
 <tr><td>10001. Fumer dans des espaces fermés accessibles au public (art. 2, al. 1, et art. 5, al. 1, let. a, de la loi sur la protection contre le tabagisme passif)</td><td>80</td></tr>
 <tr><td>**XI.** **Loi du 4 octobre 1991 sur les forêts (LFo)**[^annex2-lvlu1-lvlu1-18]</td><td></td></tr>

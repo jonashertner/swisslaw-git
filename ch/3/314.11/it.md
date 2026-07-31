@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2026-07-01
+version: 2026-08-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 1° luglio 2026)
+del 16 gennaio 2019 (Stato 1° agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -605,7 +605,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), dalla cifra II n. 1 dell’O del 29 nov. 2023 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), dalla correzione del 9 dic. 2024 ([RU 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)), dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)) e dalla correzione del 10 feb. 2025 ([RU 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), dalla cifra II n. 1 dell’O del 29 nov. 2023 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), dalla correzione del 9 dic. 2024 ([RU 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)), dalla cifra I dell’O del 6 nov. 2024 ([RU 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)), dalla correzione del 10 feb. 2025 ([RU 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)) e dell’all. n. 1 dell’O del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -710,6 +710,11 @@ Allegato 2[^t-2]
 <tr><td>IX. Legge del 7 ottobre 1983[^annex2-lvlu1-lvlu1-15] sulla protezione dell’ambiente (LPAmb)</td><td></td></tr>
 <tr><td>9001. Utilizzo di un punto di raccolta dei materiali riciclabili al di fuori degli orari d’esercizio prescritti (art. 61 cpv. 1 lett. a, art. 12 cpv. 1 lett. C LPAmb)</td><td>[tab] 50</td></tr>
 <tr><td>9002. Omissione di allegare il modulo di accompagnamento in occasione del trasporto di rifiuti (art. 61 cpv. 1 lett. k LPAmb, art. 31 cpv. 4<sup>bis</sup> e 6 OTRif[^annex2-lvlu1-lvlu1-16])</td><td>[tab] 100</td></tr>
+<tr><td>9003. Gettare o abbandonare piccole quantità di rifiuti urbani al di fuori dei posti di raccolta stabiliti e smaltire grosse quantità di rifiuti urbani al di fuori dei posti di raccolta stabiliti o dei centri di raccolta</td><td></td></tr>
+<tr><td>1. Singoli rifiuti di piccole dimensioni, come un mozzicone di sigaretta, un imballaggio, una lattina, una bottiglia, una gomma da masticare o un giornale (art. 61 cpv. 4 e art. 31*b* cpv. 7 LPAmb)</td><td>[tab] 80</td></tr>
+<tr><td>2. Vari rifiuti di piccole dimensioni, come mozziconi di sigaretta, imballaggi, lattine, bottiglie, gomme da masticare o giornali, a partire da due unità fino a un volume inferiore a 17 litri (art. 61 cpv. 4 e art. 31*b* cpv. 7 LPAmb)</td><td>[tab] 100</td></tr>
+<tr><td>3. Rifiuti urbani con un volume totale pari o superiore a 17 litri e fino a 35 litri (art. 61 cpv. 1 lett. i e art. 31*b* cpv. 3 LPAmb)</td><td>[tab] 150</td></tr>
+<tr><td>4. Rifiuti urbani con un volume totale superiore a 35 litri e fino a 110 litri (art. 61 cpv. 1 lett. i e art. 31*b* cpv. 3 LPAmb)</td><td>[tab] 250</td></tr>
 <tr><td>X. Legge federale del 3 ottobre 2008[^annex2-lvlu1-lvlu1-17] concernente la protezione contro il fumo passivo</td><td></td></tr>
 <tr><td>10001. Fumare in locali chiusi accessibili al pubblico (art. 2 cpv. 1 e 5 cpv. 1 lett. a della LF concernente la protezione contro il fumo passivo)</td><td>[tab] 80</td></tr>
 <tr><td>XI. Legge forestale del 4 ottobre 1991[^annex2-lvlu1-lvlu1-18] (LFo)</td><td></td></tr>

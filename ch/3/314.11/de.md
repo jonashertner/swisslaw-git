@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2026-07-01
+version: 2026-08-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. Juli 2026)
+vom 16. Januar 2019 (Stand am 1. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -605,7 +605,7 @@ Anhang 2[^t-2]
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), Ziff. II 1 der V vom 29. Nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), der Berichtigung vom 9. Dez. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)), Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)) und der Berichtigung vom 10. Febr. 2025 ([AS 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), Ziff. II 1 der V vom 29. Nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), der Berichtigung vom 9. Dez. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)), Ziff. I der V vom 6. Nov. 2024 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)), der Berichtigung vom 10. Febr. 2025 ([AS 2025 92](https://fedlex.data.admin.ch/eli/oc/2025/92)) und Anhang Ziff. 1 der V vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 357](https://fedlex.data.admin.ch/eli/oc/2026/357)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -710,6 +710,11 @@ Anhang 2[^t-2]
 <tr><td>IX. Umweltschutzgesetz vom 7. Oktober 1983[^annex2-lvlu1-lvlu1-15] (USG)</td><td colspan="2"></td></tr>
 <tr><td>9001. Benutzen einer öffentlichen Wertstoffsammelstelle ausserhalb der vorgeschriebenen Betriebszeiten (Art. 61 Abs. 1 Bst. a, Art. 12 Abs. 1 Bst. c USG)</td><td colspan="2">[tab] 50</td></tr>
 <tr><td>9002. Nichtmitführen des Begleitscheins beim Transport von Abfällen (Art. 61 Abs. 1 Bst. k USG, Art. 31 Abs. 4<sup>bis</sup> und 6 VeVA[^annex2-lvlu1-lvlu1-16])</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>9003. Wegwerfen oder Liegenlassen von kleinen Mengen von Siedlungsabfällen ausserhalb der vorgesehenen Sammlungen und Entsorgen von grösseren Mengen von Siedlungsabfällen ausserhalb der vorgesehenen Sammlungen oder Sammelstellen</td><td colspan="2"></td></tr>
+<tr><td>1. Einzelner Kleinabfall wie ein Zigarettenstummel, eine Verpackung, eine Dose, eine Flasche, ein Kaugummi oder eine Zeitung (Art. 61 Abs. 4 und Art. 31*b* Abs. 7 USG)</td><td colspan="2">80</td></tr>
+<tr><td>2. Mehrere Kleinabfälle wie Zigarettenstummel, Verpackungen, Dosen, Flaschen, Kaugummi oder Zeitungen, ab zwei Stück bis zu einem Volumen von weniger als 17 Litern (Art. 61 Abs. 4 und Art. 31*b* Abs. 7 USG)</td><td colspan="2">100</td></tr>
+<tr><td>3. Siedlungsabfälle mit einer Gesamtmenge von 17 Litern oder mehr bis zu einem Volumen von 35 Litern (Art. 61 Abs. 1 Bst. i und Art. 31*b* Abs. 3 USG)</td><td colspan="2">150</td></tr>
+<tr><td>4. Siedlungsabfälle mit einer Gesamtmenge von mehr als 35 Litern bis zu einem Volumen von 110 Litern (Art. 61 Abs. 1 Bst. i und Art. 31*b* Abs. 3 USG)</td><td colspan="2">250</td></tr>
 <tr><td>X. Bundesgesetz vom 3. Oktober 2008[^annex2-lvlu1-lvlu1-17] zum Schutz vor Passivrauchen</td><td colspan="2"></td></tr>
 <tr><td>10001. Rauchen in geschlossenen, öffentlich zugänglichen Räumen (Art. 2 Abs. 1, Art. 5 Abs. 1 Bst. a des Bundesgesetzes zum Schutz vor Passivrauchen)</td><td colspan="2">[tab] 80</td></tr>
 <tr><td>XI. Waldgesetz vom 4. Oktober 1991[^annex2-lvlu1-lvlu1-18] (WaG)</td><td colspan="2"></td></tr>
