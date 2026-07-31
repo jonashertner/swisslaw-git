@@ -4,7 +4,7 @@ number: "222.58.1"
 title: "ARRÊTÉ du 24.05.2023 établissant un contrat-type de travail pour les stages dans les institutions d'accueil de jour collectif préscolaire et parascolaire (ACTT-stages-ajpp)"
 short: ACTT-stages-ajpp
 language: fr
-version: 2023-08-01
+version: 2026-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/222.58.1?id=99e30bf3-1b75-4478-b13e-93d93e4ace50"
 ---
 
@@ -53,9 +53,11 @@ arrête
 
 - a. les préapprentissages au sens des articles 82 et suivants de la Loi sur la formation professionnelle[^1-1] et 122a et suivants de son règlement d'application[^1-2],
 - b. les stages qui doivent obligatoirement être effectués dans le cadre d'un cursus de formation menant à un titre reconnu dans le Canton de Vaud de professionnel de l'enfance et
-- c. les stages d'observation ou de découverte d'une durée de deux semaines au maximum.
+- c. les stages effectués par les candidat·e·s à l'admission dans un établissement de formation tertiaire, en vue d'une reconnaissance de l'expérience professionnelle,
+- d. les stages d'insertion et de réinsertion professionnelle ou sociale et
+- e. les stages d'observation ou de découverte d'une durée de deux semaines au maximum.
 
-[^chapterChapitreI-1]: Modif. 1 du 24.06.2026: Modification Al. 3, c; entrée en vigueur au 01.08.2026; Introduction Al. 3, d-e; entrée en vigueur au 01.08.2026; Introduction Art. 8, Al. 2; entrée en vigueur au 01.08.2026
+[^chapterChapitreI-1]: Modif. 1 du 24.06.2026: Modification Al. 3, c; entrée en vigueur au 01.08.2026; Introduction Al. 3, d-e; entrée en vigueur au 01.08.2026
 [^1-1]: Loi du 09.06.2009 sur la formation professionnelle ([BLV 413.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01?id=51e5078b-b43f-456f-96f1-668d540f65b6))
 [^1-2]: Règlement du 30.06.2010 d'application de la loi du 09.06.2009 sur la formation professionnelle ([BLV 413.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.1?id=abca1d40-c011-46fe-8d74-0256215b72f1))
 
@@ -117,4 +119,6 @@ arrête
 
 <sup>1</sup> Le présent arrêté établissant un contrat-type de travail entre en vigueur le 1<sup>er</sup> août 2023 et sa durée de validité est de 3 ans.
 
-[^7-1]: Modif. 1 du 24.06.2026: Introduction Art. 1, Al. 3, d-e; entrée en vigueur au 01.08.2026; Introduction Al. 2; entrée en vigueur au 01.08.2026
+<sup>2</sup> La durée de validité du présent arrêté est prolongée jusqu'au 31 juillet 2031.
+
+[^7-1]: Modif. 1 du 24.06.2026: Introduction Al. 2; entrée en vigueur au 01.08.2026
