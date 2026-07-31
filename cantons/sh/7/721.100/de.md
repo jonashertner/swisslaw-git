@@ -3,27 +3,25 @@ canton: SH
 number: "721.100"
 title: Wasserwirtschaftsgesetz
 language: de
-version: 2022-10-01
-corrected: 2024-06-24
-version_adopted: 2022-05-30
+version: 2026-08-01
+version_adopted: 2025-12-01
 adopted: 1998-05-18
 in_force: 1999-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/721.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/291/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2075/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Wasserwirtschaftsgesetz
 
-vom 18. Mai 1998
+Vom 18.05.1998 (Stand 01.08.2026)
 
-Der Grosse Rat des Kantons Schaffhausen
+Der Grosse Rat des Kantons Schaffhausen,
 
-beschliesst als Gesetz:
+beschliesst:
 
-### I. Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -31,7 +29,7 @@ beschliesst als Gesetz:
 
 <sup>1</sup> Dieses Gesetz regelt die Nutzung der Gewässer und den Wasserbau. Es gilt für alle ober- und unterirdischen Gewässer.
 
-<sup>2</sup> Gewässer und ihre Gewässerräume sind als wichtige Lebensräume von Tieren und Pflanzen zu schützen. <sup>7)</sup>
+<sup>2</sup> Gewässer und ihre Gewässerräume sind als wichtige Lebensräume von Tieren und Pflanzen zu schützen.
 
 #### Art. 2
 
@@ -41,7 +39,7 @@ beschliesst als Gesetz:
 
 <sup>2</sup> Öffentliche Gewässer stehen unter der Hoheit des Kantons. Ausgemarkte öffentliche Oberflächengewässer sind Eigentum des Kantons oder der Gemeinden. An öffentlichen Gewässern können keine dinglichen Rechte ersessen werden.
 
-<sup>3</sup> Dauernd oder periodisch wasserführende Oberflächengewässer umfassen das Bett mit Uferböschungen und Dämmen, den Gewässerraum, einschliesslich das darunter liegende Erdreich und die Luftsäule. <sup>7)</sup>
+<sup>3</sup> Dauernd oder periodisch wasserführende Oberflächengewässer umfassen das Bett mit Uferböschungen und Dämmen, den Gewässerraum, einschliesslich das darunter liegende Erdreich und die Luftsäule.
 
 #### Art. 3
 
@@ -49,33 +47,23 @@ beschliesst als Gesetz:
 
 <sup>1</sup> Bei der Anwendung dieses Gesetzes ist darauf zu achten, dass:
 
-- a) die Wasservorkommen haushälterisch genutzt und mengenmässig geschont werden;
-
-- b) die Wasserqualität erhalten und wenn möglich verbessert wird;
-
-Amtsblatt 1998, S. 1851.
-
-- c) der natürliche Wasser- und Feststoffhaushalt sowie die Gewässerdynamik erhalten oder wenn möglich wiederhergestellt werden;
-
-- d) ein angemessener Schutz vor Hochwasser und Geschiebe sichergestellt wird;
-
-- e) die Versorgung mit Trink-, Brauch- und Löschwasser sichergestellt wird;
-
-- f) bestehende Erholungsräume erhalten bleiben und neue geschaffen werden;
-
-- g) bestehende Lebensräume von Tieren und Pflanzen erhalten bleiben und neue geschaffen werden;
-
-- h) der öffentliche Zugang zu den Gewässern erleichtert wird;
-
-- i) Landschaften und Ortsbilder geschont und bauliche Veränderungen gut gestaltet werden.
+- a) die Wasservorkommen haushälterisch genutzt und mengenmässig geschont werden
+- b) die Wasserqualität erhalten und wenn möglich verbessert wird
+- c) der natürliche Wasser- und Feststoffhaushalt sowie die Gewässerdynamik erhalten oder wenn möglich wiederhergestellt werden
+- d) ein angemessener Schutz vor Hochwasser und Geschiebe sichergestellt wird
+- e) die Versorgung mit Trink-, Brauch- und Löschwasser sichergestellt wird
+- f) bestehende Erholungsräume erhalten bleiben und neue geschaffen werden
+- g) bestehende Lebensräume von Tieren und Pflanzen erhalten bleiben und neue geschaffen werden
+- h) der öffentliche Zugang zu den Gewässern erleichtert wird
+- i) Landschaften und Ortsbilder geschont und bauliche Veränderungen gut gestaltet werden
 
 <sup>2</sup> Widersprechen sich öffentliche Interessen, sind sie gegeneinander abzuwägen.
 
 #### Art. 4
 
-**Gewässerzugang 7)**
+**Gewässerzugang**
 
-<sup>1</sup> Für Kontroll- und Arbeitsgänge, Unterhalt sowie bauliche Massnahmen an Gewässern darf das an das Gewässer angrenzende Gelände schonend betreten und befahren werden. Auf Anstösser- und Hinterliegergrundstücken ist ausserdem die vorübergehende Ablagerung von Baumaterialien oder -geräten zu dulden.
+<sup>1</sup> Für Kontroll- und Arbeitsgänge, Unterhalt sowie bauliche Massnahmen an Gewässern darf das an das Gewässer angrenzende Gelände schonend betreten und befahren werden. Auf Anstösser- und Hinterliegergrundstücken ist ausserdem die vorübergehende Ablagerung von Baumaterialien oder ‑geräten zu dulden.
 
 <sup>2</sup> Für Schäden ist angemessener Ersatz zu leisten, wenn die verursachende Handlung nicht dem unmittelbaren Vorteil des privaten Eigentums diente.
 
@@ -83,39 +71,24 @@ Amtsblatt 1998, S. 1851.
 
 **Einstufung der Gewässer**
 
-Die Oberflächengewässer werden in drei Klassen eingestuft:
+<sup>1</sup> Die Oberflächengewässer werden in drei Klassen eingestuft:
 
 - a) Zur 1. Klasse gehören:
-
-- 1\. der Rhein,
-
-- 2\. die Wutach und
-
-- 3\. die Biber.
-
+  - 1\. der Rhein
+  - 2\. die Wutach und
+  - 3\. die Biber
 - b) Zur 2. Klasse gehören:
-
-- 1\. Hemishoferbach / Schienerbach ab Landesgrenze;
-
-- 2\. Altdorferbach ab Zusammenfluss in der Dorfmitte;
-
-- 3\. Fulach ab Auslauf Alteweiher, Thayngen;
-
-- 4\. Durach ab Quelltopf, Oberbargen;
-
-- 5\. Hemmentaler Bach ab Zusammenfluss in der Dorfmitte;
-
-- 6\. Begginger- / Schleitheimer Bach ab Zusammenfluss in Beggingen;
-
-- 7\. Zwärenbach ab Durchlass Hohbrugg;
-
-- 8\. Halbbach / Landgraben ab Zusammenfluss in Oberhallau;
-
-- 9\. Seltenbach / Mülibach ab Zusammenfluss in Siblingen;
-
-- 10\. Seegraben ab Durchlass beim Zollamt Osterfingen.
-
-- c) Zur 3. Klasse gehören alle übrigen Gewässer.
+  - 1\. Hemishoferbach / Schienerbach ab Landesgrenze
+  - 2\. Altdorferbach ab Zusammenfluss in der Dorfmitte
+  - 3\. Fulach ab Auslauf Alteweiher, Thayngen
+  - 4\. Durach ab Quelltopf, Oberbargen
+  - 5\. Hemmentaler Bach ab Zusammenfluss in der Dorfmitte
+  - 6\. Begginger- / Schleitheimer Bach ab Zusammenfluss in Beggingen
+  - 7\. Zwärenbach ab Durchlass Hohbrugg
+  - 8\. Halbbach / Landgraben ab Zusammenfluss in Oberhallau
+  - 9\. Seltenbach / Mülibach ab Zusammenfluss in Siblingen
+  - 10\. Seegraben ab Durchlass beim Zollamt Osterfingen
+- c) Zur 3. Klasse gehören alle übrigen Gewässer
 
 #### Art. 6
 
@@ -129,8 +102,6 @@ Die Oberflächengewässer werden in drei Klassen eingestuft:
 
 #### Art. 6a
 
-<sup>11)</sup>
-
 **Inventarisierung**
 
 <sup>1</sup> Das zuständige Departement erstellt gemäss den Vorschriften der Geoinformationsgesetzgebung Inventare über Wasserversorgungsanlagen, Grundwasservorkommen und Quellen, die sich für die Trinkwasserversorgung in Notlagen eignen. Diese Eintragungen sind periodisch nachzuführen.
@@ -139,27 +110,23 @@ Die Oberflächengewässer werden in drei Klassen eingestuft:
 
 #### Art. 6bis
 
-<sup>10)</sup>
-
 **Gewässerraum**
 
-Die Gemeinden legen die erforderlichen Gewässerräume im Sinne der eidgenössischen Gewässerschutzgesetzgebung im Rahmen der Nutzungsplanung fest.
+<sup>1</sup> Die Gemeinden legen die erforderlichen Gewässerräume im Sinne der eidgenössischen Gewässerschutzgesetzgebung im Rahmen der Nutzungsplanung fest.
 
 #### Art. 6ter
 
-<sup>8)</sup>
-
 **Landumlegungen, Enteignung und Besitz**
 
-Soweit der Vollzug dieses Gesetzes es erfordert und ein freihändiger Erwerb ausser Betracht fällt, kann der Regierungsrat im Sinne der eidgenössischen Gewässerschutzgesetzgebung Landumlegungen anordnen oder die notwendigen Rechte im Rahmen eines Enteignungsverfahrens erwerben.
+<sup>1</sup> Soweit der Vollzug dieses Gesetzes es erfordert und ein freihändiger Erwerb ausser Betracht fällt, kann der Regierungsrat im Sinne der eidgenössischen Gewässerschutzgesetzgebung Landumlegungen anordnen oder die notwendigen Rechte im Rahmen eines Enteignungsverfahrens erwerben.
 
-### II. Nutzung der Gewässer im allgemeinen
+## 2 Nutzung der Gewässer im allgemeinen
 
 #### Art. 7
 
 **Bewilligungsfreie Nutzung**
 
-Jedermann ist berechtigt, innerhalb der Schranken der polizeilichen Ordnung und im Rahmen des Gemeingebrauches öffentliche Gewässer zu benutzen.
+<sup>1</sup> Jedermann ist berechtigt, innerhalb der Schranken der polizeilichen Ordnung und im Rahmen des Gemeingebrauches öffentliche Gewässer zu benutzen.
 
 #### Art. 8
 
@@ -187,33 +154,30 @@ Jedermann ist berechtigt, innerhalb der Schranken der polizeilichen Ordnung und 
 
 #### Art. 11
 
-**Beendigung 1. Erlöschen**
+**Beendigung: Erlöschen**
 
-Die Konzession oder Bewilligung erlischt mit Ablauf ihrer Dauer oder durch schriftlichen Verzicht der Inhaberin oder des Inhabers der Konzession oder der Bewilligung.
+<sup>1</sup> Die Konzession oder Bewilligung erlischt mit Ablauf ihrer Dauer oder durch schriftlichen Verzicht der Inhaberin oder des Inhabers der Konzession oder der Bewilligung.
 
 #### Art. 12
 
-**2. Verwirkung**
+**Beendigung: Verwirkung**
 
 <sup>1</sup> Eine Konzession oder eine Bewilligung kann als verwirkt erklärt werden, wenn:
 
-- a) die Inhaberin oder der Inhaber von den eingeräumten Rechten innert der angesetzten Frist keinen Gebrauch macht;
-
-- b) die Inhaberin oder der Inhaber den Betrieb zwei Jahre unterbricht und ihn innert der angesetzten Frist nicht wieder aufnimmt;
-
-- c) die Inhaberin oder der Inhaber wichtige Pflichten trotz Mahnung verletzt;
-
-- d) die Frist für die Bauvollendung unbenützt verstrichen ist.
+- a) die Inhaberin oder der Inhaber von den eingeräumten Rechten innert der angesetzten Frist keinen Gebrauch macht
+- b) die Inhaberin oder der Inhaber den Betrieb zwei Jahre unterbricht und ihn innert der angesetzten Frist nicht wieder aufnimmt
+- c) die Inhaberin oder der Inhaber wichtige Pflichten trotz Mahnung verletzt
+- d) die Frist für die Bauvollendung unbenützt verstrichen ist
 
 #### Art. 13
 
-**3. Rückkauf**
+**Beendigung: Rückkauf**
 
-Der Kanton ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen nach den Konzessionsbestimmungen während der Konzessionsdauer zurückzukaufen. Die Konzessionsbehörde hat das Rückkaufsrecht mindestens fünf Jahre zum voraus geltend zu machen.
+<sup>1</sup> Der Kanton ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen nach den Konzessionsbestimmungen während der Konzessionsdauer zurückzukaufen. Die Konzessionsbehörde hat das Rückkaufsrecht mindestens fünf Jahre zum voraus geltend zu machen.
 
 #### Art. 14
 
-**4. Heimfall**
+**Beendigung: Heimfall**
 
 <sup>1</sup> Bei Ablauf der Konzessionsdauer ist der Kanton berechtigt, die Anlagen und Einrichtungen unentgeltlich an sich zu ziehen, sofern nicht im Bundesrecht oder in den Konzessionsbestimmungen etwas anderes vorgesehen ist. Die Konzessionsbehörde hat den Heimfall mindestens zwei Jahre zum voraus geltend zu machen.
 
@@ -227,7 +191,7 @@ Der Kanton ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen na
 
 <sup>1</sup> Konzessions- und bewilligungspflichtige Nutzungen öffentlicher Gewässer sind gebührenpflichtig.
 
-<sup>2</sup> Die Nutzungsgebühr bemisst sich insbesondere nach Massgabe der eingeräumten Sondervorteile, namentlich des wirtschaftlichen Nutzens, der für die Öffentlichkeit entstehenden Nachteile, der Art und Dauer, der Menge des beanspruchten Wassers sowie - bei der Inanspruchnahme der Gewässer - des Wertes angrenzender Grundstücke.
+<sup>2</sup> Die Nutzungsgebühr bemisst sich insbesondere nach Massgabe der eingeräumten Sondervorteile, namentlich des wirtschaftlichen Nutzens, der für die Öffentlichkeit entstehenden Nachteile, der Art und Dauer, der Menge des beanspruchten Wassers sowie – bei der Inanspruchnahme der Gewässer – des Wertes angrenzender Grundstücke.
 
 <sup>3</sup> Nutzungsgebühren werden in der Regel periodisch bezogen. Sie können der Veränderung des Geldwertes angepasst werden.
 
@@ -251,9 +215,9 @@ Der Kanton ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen na
 
 <sup>2</sup> Vorübergehende Nutzungseinschränkungen sind zu dulden, sofern sie aus im öffentlichen Interesse liegenden Gründen notwendig werden.
 
-### III. Nutzung der Gewässer im Einzelnen
+## 3 Nutzung der Gewässer im Einzelnen
 
-### 1. Nutzbarmachung der Wasserkraft
+### 3.1 Nutzbarmachung der Wasserkraft
 
 #### Art. 18
 
@@ -265,9 +229,7 @@ Der Kanton ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen na
 
 #### Art. 19
 
-<sup>13)</sup>
-
-**Nutzbarmachung der Wasserkraft im Kanton Schaffhausen 13)**
+**Nutzbarmachung der Wasserkraft im Kanton Schaffhausen**
 
 <sup>1</sup> Die Nutzbarmachung der Wasserkraft wird mit Ausnahme des Rheinfalls grundsätzlich auf das heutige Mass der Ausnützung beschränkt.
 
@@ -275,17 +237,12 @@ Der Kanton ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen na
 
 <sup>3</sup> Eine zusätzliche Ausnützung der Wasserkraft am Rheinfall ist innerhalb folgender Rahmenbedingungen zulässig:
 
-- a) Die Anlagen für die Wasserfassung, Energiegewinnung und Wasserrückgabe dürfen das Landschaftsbild höchstens geringfügig beeinträchtigen;
-
-- b) Biotope und Artenvielfalt dürfen nur geringfügig beeinträchtigt und Rote Listen-Arten nicht zusätzlich gefährdet werden;
-
-- c) Bei einem Rheinabfluss bis 250 m<sup>3</sup>/s darf keine zusätzliche Wasserentnahme erfolgen;
-
-- d) Bei einem Rheinabfluss von 250 m<sup>3</sup>/s bis 500 m<sup>3</sup>/s darf die zusätzliche Wasserentnahme mit linearer Zunahme maximal 0 bis 125 m<sup>3</sup>/s betragen;
-
-- e) Ab einem Rheinabfluss von 500 m<sup>3</sup>/s beträgt die zusätzliche Wasserentnahme maximal 125 m<sup>3</sup>/s;
-
-- f) Bei geringfügiger Beeinträchtigung der BLN-Schutzziele des Objekts «Rheinfall» kann von Oktober bis März von den Rahmenbedingungen c) bis d) abgewichen werden. Unter 200 m<sup>3</sup>/s Rheinabfluss darf keine zusätzliche Wasserentnahme erfolgen. Bis zu einem Rheinabfluss von 450 m<sup>3</sup>/s kann mit linearer Zunahme eine maximale zusätzliche Wasserentnahme von 125 m<sup>3</sup>/s erfolgen.
+- a) Die Anlagen für die Wasserfassung, Energiegewinnung und Wasserrückgabe dürfen das Landschaftsbild höchstens geringfügig beeinträchtigen
+- b) Biotope und Artenvielfalt dürfen nur geringfügig beeinträchtigt und Rote Listen-Arten nicht zusätzlich gefährdet werden
+- c) Bei einem Rheinabfluss bis 250 m³/s darf keine zusätzliche Wasserentnahme erfolgen
+- d) Bei einem Rheinabfluss von 250 m³/s bis 500 m³/s darf die zusätzliche Wasserentnahme mit linearer Zunahme maximal 0 m³/s bis 125 m³/s betragen
+- e) Ab einem Rheinabfluss von 500 m³/s beträgt die zusätzliche Wasserentnahme maximal 125 m³/s
+- f) Bei geringfügiger Beeinträchtigung der BLN-Schutzziele des Objekts «Rheinfall» kann von Oktober bis März von den Rahmenbedingungen c) bis d) abgewichen werden. Unter 200 m³/s Rheinabfluss darf keine zusätzliche Wasserentnahme erfolgen. Bis zu einem Rheinabfluss von 450 m³/s kann mit linearer Zunahme eine maximale zusätzliche Wasserentnahme von 125 m³/s erfolgen
 
 <sup>4</sup> Die Verleihung der Wasserrechtskonzession eines zusätzlichen Kraftwerks am Rheinfall untersteht dem obligatorischen Referendum.
 
@@ -301,13 +258,11 @@ Der Kanton ist berechtigt, das eingeräumte Recht einschliesslich der Anlagen na
 
 #### Art. 20bis
 
-<sup>8)</sup>
-
 **Schwall und Sunk, Geschiebehaushalt, Fischgängigkeit**
 
-Das zuständige Departement plant im Sinne der eidgenössischen Gewässerschutz- und Fischereigesetzgebung Massnahmen zur Verhinderung oder Beseitigung von wesentlichen Beeinträchtigungen durch Schwall und Sunk, Geschiebehaushaltsdefiziten sowie Massnahmen zur Sanierung der Fischgängigkeit.
+<sup>1</sup> Das zuständige Departement plant im Sinne der eidgenössischen Gewässerschutz- und Fischereigesetzgebung Massnahmen zur Verhinderung oder Beseitigung von wesentlichen Beeinträchtigungen durch Schwall und Sunk, Geschiebehaushaltsdefiziten sowie Massnahmen zur Sanierung der Fischgängigkeit.
 
-- 2\. Grundwassernutzung
+### 3.2 Grundwassernutzung
 
 #### Art. 21
 
@@ -321,17 +276,17 @@ Das zuständige Departement plant im Sinne der eidgenössischen Gewässerschutz-
 
 **Trinkwasser**
 
-Die Nutzung des Grundwassers als Trinkwasser hat Vorrang gegenüber anderen Nutzungen.
+<sup>1</sup> Die Nutzung des Grundwassers als Trinkwasser hat Vorrang gegenüber anderen Nutzungen.
 
-- 3\. Übrige Nutzungen
+### 3.3 Übrige Nutzungen
 
 #### Art. 23
 
 **Konzessions und Bewilligungspflicht**
 
-Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung, zur Grundwasseranreicherung, für Bewässerungen, für Stauanlagen, zur Speisung von Weihern und zu weiteren Zwecken bedürfen je nach Art einer Konzession oder einer Bewilligung des zuständigen Departementes.
+<sup>1</sup> Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung, zur Grundwasseranreicherung, für Bewässerungen, für Stauanlagen, zur Speisung von Weihern und zu weiteren Zwecken bedürfen je nach Art einer Konzession oder einer Bewilligung des zuständigen Departementes.
 
-- 4\. Inanspruchnahme der Oberflächengewässer
+### 3.4 Inanspruchnahme der Oberflächengewässer
 
 #### Art. 24
 
@@ -339,15 +294,13 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>1</sup> Als Inanspruchnahme der Oberflächengewässer gilt deren räumliche Nutzung. Dazu gehören:
 
-- a) Bauten und Anlagen wie Gebäude, Ufermauern, Brücken, Bootsstationierungen und zugehörige Anlagen, Stege, Landeanlagen und Leitungen;
-
-- b) die Auffüllung von Gewässergebiet zur Landgewinnung;
-
-- c) Materialentnahmen.
+- a) Bauten und Anlagen wie Gebäude, Ufermauern, Brücken, Bootsstationierungen und zugehörige Anlagen, Stege, Landeanlagen und Leitungen
+- b) die Auffüllung von Gewässergebiet zur Landgewinnung
+- c) Materialentnahmen
 
 <sup>2</sup> Das zuständige Departement entscheidet über die Konzession oder die Bewilligung zur Inanspruchnahme von Oberflächengewässern.
 
-### IV. Fischerei
+## 4 Fischerei
 
 #### Art. 25
 
@@ -365,15 +318,14 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>1</sup> Das zuständige Departement verleiht die Berechtigung zum Fischfang:
 
-- a) durch Verpachtung der nach ökologischen und raumrelevanten Gesichtspunkten festgelegten Fischereireviere;
-
-- b) durch Ausgabe von Patenten für bestimmte Uferstrecken.
+- a) durch Verpachtung der nach ökologischen und raumrelevanten Gesichtspunkten festgelegten Fischereireviere
+- b) durch Ausgabe von Patenten für bestimmte Uferstrecken
 
 <sup>2</sup> Die Verpachtung der Fischereireviere erfolgt für einen Zeitraum von höchstens sechs Jahren. Die Pachtzinse werden vom zuständigen Departement unter Berücksichtigung der fischereilichen Interessen festgesetzt.
 
 <sup>3</sup> Die Fischereiberechtigten dürfen, unter Vorbehalt von entgegenstehenden öffentlichrechtlichen Vorschriften, die Ufer schonend begehen, soweit dies für die Ausübung der Fischerei notwendig ist.
 
-### V. Wasserbau
+## 5 Wasserbau
 
 #### Art. 27
 
@@ -381,19 +333,17 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>1</sup> Ziele des Wasserbaues sind die Erhaltung und die Wiederherstellung naturnaher Gewässer sowie ein angemessener Hochwasserschutz.
 
-<sup>2</sup> Hochwasserschutz erfolgt in erster Linie durch Gewässerunterhalt und Gewässerrevitalisierung. Falls dies nicht ausreicht, sind bauliche Hochwasserschutzmassnahmen zu treffen. <sup>8)</sup>
+<sup>2</sup> Hochwasserschutz erfolgt in erster Linie durch Gewässerunterhalt und Gewässerrevitalisierung. Falls dies nicht ausreicht, sind bauliche Hochwasserschutzmassnahmen zu treffen.
 
 #### Art. 28
 
-<sup>7)</sup>
-
-**Massnahmen und Zuständigkeiten 7) a) Im Allgemeinen**
+**Massnahmen und Zuständigkeiten: Im Allgemeinen**
 
 <sup>1</sup> Wasserbauliche Massnahmen, insbesondere Hochwasserschutz, Veränderungen eines Gewässerlaufs, Rampen und Uferverbauungen, obliegen der Eigentümerin oder dem Eigentümer des Gewässers. Für wasserbauliche Massnahmen ist bei Gewässern 1. und 2. Klasse ein Projekt mit Bericht, Plänen und allfälligem Kostenverteiler zu erstellen; bei Gewässern 3. Klasse genügen die üblichen Baugesuchsunterlagen. Bewilligungsbehörde ist das zuständige Departement.
 
-<sup>2</sup> Die Revitalisierung von Gewässern obliegt dem Kanton bei Gewässern 1. Klasse und den Gemeinden bei Gewässern 2. und 3 Klasse.
+<sup>2</sup> Die Revitalisierung von Gewässern obliegt dem Kanton bei Gewässern 1. Klasse und den Gemeinden bei Gewässern 2. und 3. Klasse.
 
-<sup>3</sup> Unterhalt und Pflege der Gewässer sowie deren Ufer obliegen bei Gewässern 1. Klasse und - vorbehältlich privatrechtlicher Verpflichtungen - bei Gewässern längs der Kantonsgrenze dem Kanton, bei Gewässern 2. Klasse den Gemeinden.
+<sup>3</sup> Unterhalt und Pflege der Gewässer sowie deren Ufer obliegen bei Gewässern 1. Klasse und – vorbehältlich privatrechtlicher Verpflichtungen – bei Gewässern längs der Kantonsgrenze dem Kanton, bei Gewässern 2. Klasse den Gemeinden.
 
 <sup>4</sup> Bei revitalisierten Gewässerabschnitten 3. Klasse sind die Gemeinden für Unterhalt und Pflege zuständig, in den übrigen Fällen die Grundeigentümer.
 
@@ -401,9 +351,7 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 #### Art. 29
 
-<sup>12)</sup>
-
-**b) Revitalisierungskonzept 7)**
+**Massnahmen und Zuständigkeiten: Revitalisierungskonzept**
 
 <sup>1</sup> Der Kanton erstellt nach Massgabe der eidgenössischen Gewässerschutzgesetzgebung ein Gewässerrevitalisierungskonzept, welches in den Richtplan aufzunehmen ist.
 
@@ -411,29 +359,21 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 #### Art. 29bis
 
-<sup>8)</sup>
-
-**Beiträge; a) Voraussetzungen**
+**Beiträge: Voraussetzungen**
 
 <sup>1</sup> Der Kanton gewährt den Gemeinden im Rahmen der bewilligten Kredite an bauliche Hochwasserschutzmassnahmen und an Gewässerrevitalisierungen Beiträge, wenn:
 
-- a) die Massnahmen im öffentlichen Interesse notwendig und mit den öffentlichen Interessen aus anderen Sachbereichen koordiniert sind;
-
-- b) die Massnahmen auf einer zweckmässigen Planung beruhen;
-
-- c) die Massnahmen den technischen, wirtschaftlichen und ökologischen Anforderungen genügen;
-
-- d) die übrigen Voraussetzungen des Bundesrechts erfüllt sind;
-
-- e) ein rechtskräftiges Bauprojekt vorliegt;
-
-- f) Dritte im Sinne von Art. 30 ebenfalls einen Beitrag leisten.
+- a) die Massnahmen im öffentlichen Interesse notwendig und mit den öffentlichen Interessen aus anderen Sachbereichen koordiniert sind
+- b) die Massnahmen auf einer zweckmässigen Planung beruhen
+- c) die Massnahmen den technischen, wirtschaftlichen und ökologischen Anforderungen genügen
+- d) die übrigen Voraussetzungen des Bundesrechts erfüllt sind
+- e) ein rechtskräftiges Bauprojekt vorliegt
+- f) Dritte im Sinne von Art. 30 ebenfalls einen Beitrag leisten
 
 <sup>2</sup> Der Kanton gewährt den Gemeinden im Rahmen der bewilligten Kredite an den Unterhalt von Gewässern Beiträge, wenn:
 
-- a) die Massnahmen auf einer zweckmässigen Planung beruhen;
-
-- b) die Massnahmen den technischen, wirtschaftlichen und ökologischen Anforderungen genügen.
+- a) die Massnahmen auf einer zweckmässigen Planung beruhen
+- b) die Massnahmen den technischen, wirtschaftlichen und ökologischen Anforderungen genügen
 
 <sup>3</sup> Die Gesamtbeträge der jährlich zu vergebenden Beiträge an bauliche Hochwasserschutzmassnahmen sowie der jährlichen Aufwendungen zur Umsetzung des kantonalen Gewässerrevitalisierungskonzepts werden auf dem Budgetweg bewilligt.
 
@@ -441,85 +381,65 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 #### Art. 29ter
 
-<sup>8)</sup>
+**Beiträge: Rahmen**
 
-**b) Rahmen**
+<sup>1</sup> An Massnahmen zum baulichen Hochwasserschutz können Beiträge von 40 bis 80 % der beitragsberechtigten Kosten geleistet werden.
 
-<sup>1</sup> An Massnahmen zum baulichen Hochwasserschutz können Beiträge von 40 bis 60 % der beitragsberechtigten Kosten geleistet werden. <sup>12)</sup>
+<sup>2</sup> An Massnahmen zur Gewässerrevitalisierung können Beiträge von 60 bis 80 % der beitragsberechtigten Kosten geleistet werden.
 
-<sup>2</sup> An Massnahmen zur Gewässerrevitalisierung können Beiträge von 60 bis 80 % der beitragsberechtigten Kosten geleistet werden. <sup>12)</sup>
-
-<sup>3</sup> An Gewässerunterhaltsmassnahmen im Sinne von Art. 29<sup>bis</sup> Abs. 2 können Beiträge von 20 bis 40 % der beitragsberechtigten Kosten geleistet werden.
+<sup>3</sup> An Gewässerunterhaltsmassnahmen im Sinne von Art. 29<sup>bis</sup> Abs. 2 können Beiträge von 20 bis 40% der beitragsberechtigten Kosten geleistet werden.
 
 <sup>4</sup> Die Projektplanungen der Gemeinden sind beitragsberechtigt. Sie sind mit dem Kanton abzusprechen.
 
 #### Art. 29quater
 
-<sup>8)</sup>
-
-**c) Beitragshöhe**
+**Beiträge: Beitragshöhe**
 
 <sup>1</sup> Die Höhe der Beiträge für bauliche Hochwasserschutzmassnahmen richtet sich nach:
 
-- a) ihrem Anteil an der Zielerfüllung der Programmvereinbarung;
-
-- b) der Reduktion des Gefahren- und Schadenpotenzials;
-
-- c) der Bedeutung des Gewässers für die betroffene Gemeinde;
-
-- d) dem Umfang und der Qualität der Massnahmen sowie deren Planung;
-
-- e) der Bedeutung der Massnahmen für die Gewässerrevitalisierung.
+- a) ihrem Anteil an der Zielerfüllung der Programmvereinbarung
+- b) der Reduktion des Gefahren- und Schadenpotenzials
+- c) der Bedeutung des Gewässers für die betroffene Gemeinde
+- d) dem Umfang und der Qualität der Massnahmen sowie deren Planung
+- e) der Bedeutung der Massnahmen für die Gewässerrevitalisierung
 
 <sup>2</sup> Die Höhe der Beiträge an Gewässerrevitalisierungen richtet sich nach:
 
-- a) ihrem Anteil an der Zielerfüllung der Programmvereinbarung;
-
-- b) der Länge des Gewässerabschnittes, der revitalisiert oder durch Beseitigung von Hindernissen durchgängig wird;
-
-- c) der Breite des Gewässerraumes des Gewässers, das revitalisiert wird;
-
-- d) dem Nutzen der Revitalisierung für die Natur und Landschaft im Verhältnis zum voraussichtlichen Aufwand;
-
-- e) dem Nutzen der Revitalisierung für die Erholung;
-
-- f) der Qualität der Massnahmen;
-
-- g) der Bedeutung der Massnahmen für den Hochwasserschutz.
+- a) ihrem Anteil an der Zielerfüllung der Programmvereinbarung
+- b) der Länge des Gewässerabschnittes, der revitalisiert oder durch Beseitigung von Hindernissen durchgängig wird
+- c) der Breite des Gewässerraumes des Gewässers, das revitalisiert wird
+- d) dem Nutzen der Revitalisierung für die Natur und Landschaft im Verhältnis zum voraussichtlichen Aufwand
+- e) dem Nutzen der Revitalisierung für die Erholung
+- f) der Qualität der Massnahmen
+- g) der Bedeutung der Massnahmen für den Hochwasserschutz
 
 <sup>3</sup> Die Höhe der Beiträge an den Gewässerunterhalt richtet sich nach:
 
-- a) ihrem Anteil an der Zielerfüllung der Programmvereinbarung;
+- a) ihrem Anteil an der Zielerfüllung der Programmvereinbarung
+- b) der Bedeutung der Massnahmen für die biologische Vielfalt
+- c) der Bedeutung der Massnahmen für den Hochwasserschutz
 
-- b) der Bedeutung der Massnahmen für die biologische Vielfalt;
-
-- c) der Bedeutung der Massnahmen für den Hochwasserschutz.
-
-<sup>4</sup> Der Regierungsrat regelt die Einzelheiten der Beitragsgewährung und die Folgen bei ungerechtfertigtem Bezug. <sup>12)</sup>
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten der Beitragsgewährung und die Folgen bei ungerechtfertigtem Bezug.
 
 #### Art. 30
 
-<sup>12)</sup>
-
 **Kostentragung**
 
-<sup>1</sup> Dienen wasserbauliche Massnahmen an Gewässern 1. und 2. Klasse auch den Interessen Dritter, haben sich diese im Verhältnis ihrer Vorteile an den Kosten zu beteiligen. Die Eigentümerin oder der Eigentümer des Gewässers trägt nach Abzug der Beiträge gemäss Art. 29ter Abs. 1 und 2 von den Gesamtkosten mindestens ein Viertel der Restkosten.
+<sup>1</sup> Dienen wasserbauliche Massnahmen an Gewässern 1. und 2. Klasse auch den Interessen Dritter, haben sich diese im Verhältnis ihrer Vorteile an den Kosten zu beteiligen. Die Eigentümerin oder der Eigentümer des Gewässers trägt nach Abzug der Beiträge gemäss Art. 29<sup>ter</sup> Abs. 1 und 2 von den Gesamtkosten mindestens ein Viertel der Restkosten.
 
 <sup>2</sup> Die Eigentümerin oder der Eigentümer des Gewässers hat einen Kostenverteiler aufzustellen. Darin sind die pflichtigen Grundstücke zu bezeichnen und die einzelnen Beiträge aufzuführen, die entsprechend der Länge des Anstosses oder der Grundstücksflächen zu bemessen sind. In Härtefällen sind die Drittbeiträge teilweise oder ganz zu erlassen.
 
 #### Art. 31
 
-<sup>7)</sup>
-
 **Bundesbeiträge**
 
 <sup>1</sup> Der Regierungsrat ist zuständig für den Abschluss von Programm- beziehungsweise Leistungsvereinbarungen im Sinne von Art. 8 des Bundesgesetzes über den Wasserbau vom 21. Juni 1991.
 
-<sup>2</sup> Der Kanton leitet die vom Bund erhaltenen Mittel vollumfänglich als Bestandteil der Beiträge gemäss Art. 29ter an die Leistungserbringer weiter. <sup>12)</sup>
+<sup>2</sup> Der Kanton leitet die vom Bund erhaltenen Mittel vollumfänglich als Bestandteil der Beiträge gemäss Art. 29<sup>ter</sup> an die Leistungserbringer weiter.
 
 #### Art. 31bis
 
-<sup>9)</sup>
+**…**
 
 #### Art. 32
 
@@ -529,9 +449,9 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>2</sup> Bei anstehenden Unterhaltsarbeiten ist die Aufhebung der Eindolung zu prüfen.
 
-<sup>3</sup> … <sup>9)</sup>
+<sup>3…</sup> …
 
-### VI. Verfahrensvorschriften
+## 6 Verfahrensvorschriften
 
 #### Art. 33
 
@@ -539,7 +459,7 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>1</sup> Das Konzessions- oder Bewilligungsgesuch ist bei der zuständigen Behörde einzureichen.
 
-<sup>2</sup> Das Gesuch ist mit den erforderlichen Unterlagen und Plänen während 30 Tagen aufzulegen. <sup>3)</sup>
+<sup>2</sup> Das Gesuch ist mit den erforderlichen Unterlagen und Plänen während 30 Tagen aufzulegen.
 
 #### Art. 34
 
@@ -549,9 +469,9 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>2</sup> Wer schutzwürdige eigene Interessen geltend macht, kann innert 20 Tagen seit der Bekanntmachung Einwendungen gegen das Konzessionsgesuch erheben; ebenso gegen einen allfälligen Kostenverteiler.
 
-<sup>3</sup> Soweit kein anderes Rechtsmittel zur Verfügung steht, ist der Konzessionsentscheid beim Regierungsrat anfechtbar. Im übrigen richtet sich das Verfahren nach den Vorschriften des Verwaltungsrechtspflegegesetzes.
+<sup>3</sup> Soweit kein anderes Rechtsmittel zur Verfügung steht, ist der Konzessionsentscheid beim Regierungsrat anfechtbar. Im Übrigen richtet sich das Verfahren nach den Vorschriften des Verwaltungsrechtspflegegesetzes.
 
-### VII. Vollzugs- und Strafbestimmungen
+## 7 Vollzugs- und Strafbestimmungen
 
 #### Art. 35
 
@@ -559,7 +479,7 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>1</sup> Der Regierungsrat erlässt die nötigen Ausführungsvorschriften.
 
-<sup>2</sup> Er setzt die Gebührentarife nach den Kriterien von Art. 15 im Rahmen von Fr. 20.-- bis Fr. 20'000.-- fest.
+<sup>2</sup> Er setzt die Gebührentarife nach den Kriterien von Art. 15 im Rahmen von Fr. 20.00 bis Fr. 20'000.00 fest.
 
 <sup>3</sup> Er übt die Aufsicht über den Vollzug dieses Gesetzes aus.
 
@@ -569,11 +489,11 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer die Pflicht zur Einholung einer Konzession oder Bewilligung oder Nebenbestimmungen von Konzessionen und Bewilligungen verletzt, wird mit Busse <sup>4)</sup> bis Fr. 50'000.-- bestraft.
+<sup>1</sup> Wer die Pflicht zur Einholung einer Konzession oder Bewilligung oder Nebenbestimmungen von Konzessionen und Bewilligungen verletzt, wird mit Busse bis Fr. 50'000.00 bestraft.
 
-<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis Fr. 5'000.-- bestraft.
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis Fr. 5'000.00 bestraft.
 
-### VIII. Schluss- und Übergangsbestimmungen
+## 8 Schluss- und Übergangsbestimmungen
 
 #### Art. 37
 
@@ -581,17 +501,15 @@ Die Nutzung von Wasser zu Wärme- oder Kühlzwecken, zur Brauchwasserversorgung,
 
 <sup>1</sup> Die folgenden Erlasse werden aufgehoben:
 
-- a) das Gesetz über die Gewässer vom 17. Januar 1879;
-
-- b) das Gesetz über den Schutz von Wasserversorgungen und die Förderung von Feuerverhütungs- und Feuerbekämpfungsmassnahmen (Feuerschutzgesetz) vom 21. November 1949;
-
-- c) das Gesetz über die Erhebung von Verleihungsgebühren und Wasserzinsen vom 12. September 1960.
+- a) das Gesetz über die Gewässer vom 17. Januar 1879
+- b) das Gesetz über den Schutz von Wasserversorgungen und die Förderung von Feuerverhütungs- und Feuerbekämpfungsmassnahmen (Feuerschutzgesetz) vom 21. November 1949
+- c) das Gesetz über die Erhebung von Verleihungsgebühren und Wasserzinsen vom 12. September 1960
 
 #### Art. 38
 
 **Gültigkeit von Verordnungen**
 
-Die aufgrund bisherigen Rechts erlassenen kantonalen Verordnungen bleiben, soweit sie nicht unmittelbar anwendbaren Bestimmungen dieses Gesetzes widersprechen, solange in Kraft, bis sie durch neue Verordnungen ersetzt oder aufgehoben werden.
+<sup>1</sup> Die aufgrund bisherigen Rechts erlassenen kantonalen Verordnungen bleiben, soweit sie nicht unmittelbar anwendbaren Bestimmungen dieses Gesetzes widersprechen, solange in Kraft, bis sie durch neue Verordnungen ersetzt oder aufgehoben werden.
 
 #### Art. 39
 
@@ -605,34 +523,19 @@ Die aufgrund bisherigen Rechts erlassenen kantonalen Verordnungen bleiben, sowei
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach seiner Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft. <sup>1)</sup>
+<sup>1</sup> Dieses Gesetz tritt nach seiner Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^40-1].
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^40-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
+[^40-1]: In Kraft getreten am 1. Januar 1999 (Amtsblatt 1998, S. 1850).
+[^40-2]: Amtsblatt 1998, S. 1851.
 
-- 1) In Kraft getreten am 1. Januar 1999 (Amtsblatt 1998, S. 1850).
+#### Art. T1
 
-- 2) Amtsblatt 1998, S. 1851.
+**Übergangsbestimmung zur Änderung vom 10. Dezember 2012**
 
-- 3) Fassung gemäss G vom 16. August 2004, in Kraft getreten am 1. Januar 2005 (Amtsblatt 2004, S. 1199, S. 1880).
+<sup>1</sup> Wo keine Baulinien bestehen, haben Bauten und Anlagen zu stehenden Gewässern bis 0.5 ha einen Abstand von mindestens 5 m einzuhalten. Art. 16 Abs. 3 und Art. 31 des Baugesetzes vom 1. Dezember 1997 gelten für diese Gewässer sinngemäss.
 
-- 4) Fassung gemäss G vom 3. Juli 2006, in Kraft getreten am 1. Januar 2007 (Amtsblatt 2006, S. 913, S. 1545).
+<sup>2</sup> Die Regelung gemäss Abs. 1 gilt für das betreffende Gewässer bis zur Festlegung des erforderlichen Gewässerraumes im Sinne der eidgenössischen Gewässerschutzgesetzgebung.
 
-- 7) Fassung gemäss G vom 10. Dezember 2012, in Kraft getreten am 1. Juni 2013 (Amtsblatt 2012, S. 1869, 2013, S. 724).
-
-- 8) Eingefügt durch G vom 10. Dezember 2012, in Kraft getreten am 1. Juni 2013 (Amtsblatt 2012, S. 1869, 2013, S. 724).
-
-- 9) Aufgehoben durch G vom 10. Dezember 2012, in Kraft getreten am 1. Juni 2013 (Amtsblatt 2012, S. 1869, 2013, S. 724).
-
-- 10) Eingefügt durch G vom 10. Dezember 2012, in Kraft getreten am 1. Juni 2013 (Amtsblatt 2012, S. 1869, 2013, S. 724).
-
-Wo keine Baulinien bestehen, haben Bauten und Anlagen zu stehenden Gewässern bis 0.5 ha einen Abstand von mindestens 5 m einzuhalten. Art. 16 Abs. 3 und Art. 31 des Baugesetzes vom 1. Dezember 1997 gelten für diese Gewässer sinngemäss.
-
-Die Regelung gemäss Abs. 1 gilt für das betreffende Gewässer bis zur Festlegung des erforderlichen Gewässerraumes im Sinne der eidgenössischen Gewässerschutzgesetzgebung.
-
-- 11) Eingefügt durch G vom 2. Juli 2012, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2012, S. 953, Amtsblatt 2013, S. 1800).
-
-- 12) Fassung gemäss G vom 23. August 2021, in Kraft getreten am 1. Januar 2022 (Amtsblatt 2021, S. 1573, S. 2185).
-
-- 13) Fassung gemäss G vom 30. Mai 2022, in Kraft getreten am 1. Oktober 2022 (Amtsblatt 2022, S. 1011, S. 1683).
+Abl. 1998, S. 1851
