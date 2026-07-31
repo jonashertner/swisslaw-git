@@ -4,13 +4,12 @@ number: "151.1"
 title: Gesetz über die Organisation und die Geschäftsführung des Landrates
 short: "Landratsgesetz, LRG"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-08-27
+version: 2026-08-01
+version_adopted: 2025-11-26
 adopted: 1998-02-04
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/151.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1426/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1517/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1426/pdf_file"
 
 (Landratsgesetz, LRG)
 
-vom 04.02.1998 (Stand 01.01.2026)
+vom 04.02.1998 (Stand 01.08.2026)
 
 Der Landrat von Nidwalden,
 
@@ -208,6 +207,7 @@ beschliesst:
 - 8\. Vorberatung von Vorstössen und Vorlagen, die den Landrat betreffen;
 - 9\. Vernehmlassung zu Beschwerden gegen landrätliche Erlasse und Beschlüsse zuhanden der zuständigen Gerichte;
 - 10\. Vorbereitung und Antragstellung bei Disziplinarverfahren;
+- 10a. Entscheid über Gesuche gemäss dem Kantonalen Öffentlichkeitsgesetz[^16-2], die den Landrat und seine Organe betreffen;
 - 11\. Erfüllung der weitern ihm durch die Gesetzgebung übertragenen Aufgaben.
 
 <sup>2</sup> Wahlvorschläge im Sinne von Abs. 1 Ziffer 3 können dem Landratsbüro einreichen:
@@ -223,6 +223,7 @@ beschliesst:
 <sup>4</sup> Eingaben, deren Behandlung nicht in die Zuständigkeit des Landrates fallen, überweist es an die zuständige Behörde.
 
 [^16-1]: NG 165
+[^16-2]: NG 232.3
 
 #### Art. 17
 
