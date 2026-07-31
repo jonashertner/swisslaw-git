@@ -4,13 +4,12 @@ number: "122.26"
 title: Einführungsverordnung zur Verordnung über die Gebühren zum Ausländer- und Integrationsgesetz
 short: EV GebV-AIG
 language: de
-version: 2024-06-01
-valid_until: 2026-07-31
-version_adopted: 2024-04-24
+version: 2026-08-01
+version_adopted: 2026-06-10
 adopted: 1987-12-16
 in_force: 1988-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.26"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3030/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3030/pdf_file"
 
 (EV GebV-AIG)
 
-vom 16.12.1987 (Stand 01.06.2024)
+vom 16.12.1987 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -248,7 +247,7 @@ Gebühr von 95 Franken
 - a schriftliche Auskünfte, höchstens jedoch 60 Franken,
 - b ausländerrechtliche Verfahren, höchstens jedoch 500 Franken.
 
-<sup>7</sup> Sie erheben bei ausländerrechtlichen Verfahren, bei denen eine Wegweisung aus der Schweiz angeordnet wird, keine Gebühren gemäss Absatz 6.
+<sup>7</sup> Sie erheben bei ausländerrechtlichen Verfahren, bei denen eine Wegweisung aus der Schweiz angeordnet wird, keine Gebühren gemäss Absatz 6, es sei denn, eine von der Wegweisung nicht betroffene Verfahrenspartei behalte ihren Wohnsitz in der Schweiz.
 
 [^10-1]: SR [0.632.31](https://db.clex.ch/link/Bund/0.632.31/de)
 

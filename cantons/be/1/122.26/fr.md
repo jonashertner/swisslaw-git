@@ -4,13 +4,12 @@ number: "122.26"
 title: "Ordonnance portant introduction de l'ordonnance fédérale sur les émoluments perçus en application de la loi sur les étrangers et l'intégration *"
 short: Oi Oem-LEI
 language: fr
-version: 2024-06-01
-valid_until: 2026-07-31
-version_adopted: 2024-04-24
+version: 2026-08-01
+version_adopted: 2026-06-10
 adopted: 1987-12-16
 in_force: 1988-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.26"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3030/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3381/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3030/pdf_file"
 
 (Oi Oem-LEI)
 
-du 16.12.1987 (état au 01.06.2024)
+du 16.12.1987 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -248,7 +247,7 @@ Emolument de 95 francs
 - a les informations par écrit, au maximum 60 francs,
 - b les procédures relevant du droit des étrangers, au maximum 500 francs.
 
-<sup>7</sup> Elles ne perçoivent pas les émoluments visés à l'alinéa 6 lorsqu'elles prononcent un renvoi de Suisse dans le cadre d'une procédure relevant du droit des étrangers.
+<sup>7</sup> Elles ne perçoivent pas les émoluments visés à l'alinéa 6 lorsqu'elles prononcent un renvoi de Suisse dans le cadre d'une procédure relevant du droit des étrangers, à moins qu'une partie à la procédure non concernée par le renvoi conserve son domicile en Suisse.
 
 [^10-1]: RS [0.632.31](https://db.clex.ch/link/Bund/0.632.31/fr)
 
