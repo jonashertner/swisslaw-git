@@ -3,29 +3,27 @@ canton: AG
 number: "426.123"
 title: Verordnung über das gestalterische Propädeutikum
 language: de
-version: 2024-07-01
-valid_until: 2026-07-31
-version_adopted: 2024-03-13
+version: 2026-08-01
+version_adopted: 2026-05-13
 adopted: 2017-05-03
 in_force: 2017-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/426.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3496/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3995/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das gestalterische Propädeutikum
 
-Vom 03.05.2017 (Stand 01.07.2024)
+Vom 03.05.2017 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 33a Abs. 2 und 5 des Schulgesetzes vom 17. März 1981[^ingress-1] sowie § 50 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-2],
+gestützt auf § 21 Abs. 1 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
-[^ingress-2]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
+[^ingress-1]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1. Allgemeines
 
@@ -49,35 +47,35 @@ beschliesst:
 
 <sup>1</sup> Träger des gestalterischen Propädeutikums ist der Förderverein Medien Print Design. Das Propädeutikum wird an der Schule für Gestaltung Aargau in Aarau durchgeführt.
 
-## 2. Aufnahme
+## 2. Zulassung
 
 #### § 4
 
-**Aufnahme**
+**Zulassung**
 
-<sup>1</sup> In das gestalterische Propädeutikum wird aufgenommen, wer über einen Fachmittelschulausweis im Berufsfeld Gestaltung und Kunst verfügt und das zweistufige Aufnahmeverfahren erfolgreich durchlaufen hat.
+<sup>1</sup> In das gestalterische Propädeutikum wird zugelassen, wer über einen Fachmittelschulausweis im Berufsfeld Gestaltung und Kunst verfügt und das zweistufige Zulassungsverfahren erfolgreich durchlaufen hat.
 
 #### § 5
 
-**Zweistufiges Aufnahmeverfahren**
+**Zweistufiges Zulassungsverfahren**
 
-<sup>1</sup> In der ersten Stufe des Aufnahmeverfahrens haben die Kandidatinnen und Kandidaten ein gestalterisches Portfolio vorzulegen und ein Motivationsschreiben einzureichen.
+<sup>1</sup> In der ersten Stufe des Zulassungsverfahrens haben die Kandidatinnen und Kandidaten ein gestalterisches Portfolio vorzulegen und ein Motivationsschreiben einzureichen.
 
-<sup>2</sup> In der zweiten Stufe des Aufnahmeverfahrens haben die Kandidatinnen und Kandidaten im Rahmen einer Aufnahmeprüfung eine Aufgabenstellung aus verschiedenen Fachgruppen gemäss Anhang zu bearbeiten und an einem Aufnahmegespräch teilzunehmen.
+<sup>2</sup> In der zweiten Stufe des Zulassungsverfahrens haben die Kandidatinnen und Kandidaten im Rahmen einer Zulassungsprüfung eine Aufgabenstellung aus verschiedenen Fachgruppen gemäss Anhang zu bearbeiten und an einem Zulassungsgespräch teilzunehmen.
 
 #### § 6
 
 **Zuständigkeit, Entscheid, Bewertung und Wiederholung**
 
-<sup>1</sup> Das vom Organisationsstatut bezeichnete Organ entscheidet über die Zulassung zur zweiten Stufe des Aufnahmeverfahrens und über die Aufnahme.
+<sup>1</sup> Das vom Organisationsstatut bezeichnete Organ entscheidet über die Zulassung zur zweiten Stufe des Zulassungsverfahrens und über die Zulassung ins gestalterische Propädeutikum.
 
-<sup>2</sup> Zur zweiten Stufe des Aufnahmeverfahrens wird nur zugelassen, wer in der ersten Stufe mindestens eine genügende Leistung erbracht hat.
+<sup>2</sup> Zur zweiten Stufe des Zulassungsverfahrens wird nur zugelassen, wer in der ersten Stufe mindestens eine genügende Leistung erbracht hat.
 
-<sup>3</sup> Wer in der zweiten Stufe eine mindestens genügende Leistung erbrachte, hat das zweistufige Aufnahmeverfahren erfolgreich durchlaufen.
+<sup>3</sup> Wer in der zweiten Stufe eine mindestens genügende Leistung erbrachte, hat das zweistufige Zulassungsverfahren erfolgreich durchlaufen.
 
 <sup>4</sup> Bei der Bewertung stützt sich das vom Organisationsstatut bezeichnete Organ auf verschiedene Kriterien wie Originalität, Innovation, Form, Inhalt, Präsentation und Motivation.
 
-<sup>5</sup> Das zweistufige Aufnahmeverfahren kann frühestens nach Ablauf eines Jahrs einmal wiederholt werden.
+<sup>5</sup> Das zweistufige Zulassungsverfahren kann frühestens nach Ablauf eines Jahrs einmal wiederholt werden.
 
 ## 3. Schülerinnen und Schüler
 
@@ -145,9 +143,7 @@ beschliesst:
 
 #### § 17
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Schülerinnen und Schüler, die den Fachmittelschulausweis im Berufsfeld Erziehung und Gestaltung im Schuljahr 2021/22 oder zuvor erworben haben, werden in das gestalterische Propädeutikum aufgenommen, wenn sie das zweistufige Aufnahmeverfahren erfolgreich durchlaufen haben.
+**…**
 
 Aarau, 3. Mai 2017
 
