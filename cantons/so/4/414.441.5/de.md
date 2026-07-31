@@ -4,13 +4,12 @@ number: "414.441.5"
 title: "Reglement über Aufnahme, Zeugnisse, Promotion und Entlassung für die Maturitätsschulen des Kantons Solothurn"
 short: Promotionsreglement Maturitätsschulen
 language: de
-version: 2020-11-13
-valid_until: 2026-07-31
-version_adopted: 2020-11-04
+version: 2026-08-01
+version_adopted: 2026-03-01
 adopted: 1998-03-30
 in_force: 1998-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.441.5"
-pdf: "https://bgs.so.ch/api/de/versions/4991/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5608/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4991/pdf_file"
 
 (Promotionsreglement Maturitätsschulen)
 
-Vom 30.03.1998 (Stand 13.11.2020)
+Vom 30.03.1998 (Stand 01.08.2026)
 
 Das Erziehungs-Departement[^ingress-1] des Kantons Solothurn
 
@@ -111,8 +110,8 @@ verfügt:
 <sup>1</sup> Die Aufnahme in die Maturitätsschule stützt sich
 
 - a) für Schüler und Schülerinnen der Sekundarschule P: auf die Zeugnisnoten am Ende der zweiten Sekundarschule P;
-- b) für Schüler und Schülerinnen der Sekundarschule E: auf die Zeugnisnoten im ersten Zeugnis des dritten Schuljahres der Sekundarschule E oder auf Prüfung und Globalurteil;
-- c) für alle anderen Schüler und Schülerinnen: auf Prüfung und Globalurteil.
+- b) für Schüler und Schülerinnen der Sekundarschule E: auf die Zeugnisnoten im ersten Zeugnis des dritten Schuljahres der Sekundarschule E oder auf die Prüfung;
+- c) für alle anderen Schüler und Schülerinnen: auf die Prüfung.
 
 <sup>2</sup> Schüler oder Schülerinnen, die in einem anderen Kanton ein Verfahren bestanden haben, das zum Eintritt in die Maturitätsschule berechtigt, werden ohne weiteres Verfahren aufgenommen.
 
@@ -122,13 +121,7 @@ verfügt:
 
 #### § 12
 
-**Globalurteil**
-
-<sup>1</sup> Die bisherige Schule bewertet die Eignung der Schülerin oder des Schülers für eine Maturitätsausbildung anhand von vorgegebenen Kriterien mit den Punktzahlen 1 (empfohlen) und 0 (nicht empfohlen).
-
-<sup>2</sup> Die Mittelschulkonferenz bezeichnet die Kriterien.
-
-<sup>3</sup> Kann ein Kandidat oder eine Kandidatin aus triftigen Gründen ein aussagekräftiges Globalurteil nicht beibringen, so wird auf dessen Beizug verzichtet.
+**…**
 
 #### § 13
 
@@ -149,14 +142,14 @@ verfügt:
 
 #### § 15
 
-**Aufnahmeprüfung und Globalurteil**
+**Aufnahmeprüfung**
 
-<sup>1</sup> Das Verfahren mit Aufnahmeprüfung und Globalurteil haben zu bestehen:
+<sup>1</sup> Das Verfahren mit Aufnahmeprüfung haben zu bestehen:
 
 - a) Schüler und Schülerinnen der Sekundarschule E, welche die Voraussetzungen für die prüfungsfreie Aufnahme nicht erfüllen;
 - b) alle anderen Schüler und Schülerinnen, für welche keine prüfungsfreie Aufnahme vorgesehen ist.
 
-<sup>2</sup> Die Aufnahmeprüfung hat bestanden, wer in der Prüfung und im Globalurteil zusammen mindestens 18 Punkte erreicht oder, sofern ein Globalurteil nicht beigebracht werden kann, wer in der Prüfung allein mindestens 18 Punkte erreicht.
+<sup>2</sup> Die Aufnahmeprüfung hat bestanden, wer in der Prüfung mindestens 18 Punkte erreicht.
 
 #### § 16
 
@@ -174,7 +167,7 @@ verfügt:
 
 **Zuständige Instanzen**
 
-<sup>1</sup> Bei Aufnahmen aufgrund eines Aufnahmeverfahrens mit Aufnahmeprüfung und Globalurteil entscheidet die Prüfungskonferenz.
+<sup>1</sup> Bei Aufnahmen aufgrund eines Aufnahmeverfahrens mit Aufnahmeprüfung entscheidet die Prüfungskonferenz.
 
 <sup>2</sup> …
 
