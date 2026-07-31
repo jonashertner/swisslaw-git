@@ -2,15 +2,14 @@
 canton: BS
 number: "292.110"
 title: Verordnung zum Notariatsgesetz des Kantons Basel-Stadt
-short: "Notariatsverordnung, NoVo"
+short: "Notariatsverordnung, NotV"
 language: de
-version: 2016-07-01
-valid_until: 2026-07-31
-version_adopted: 2016-06-28
+version: 2026-08-01
+version_adopted: 2026-06-30
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/292.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3874/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6847/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,13 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3874/pdf_file"
 
 Notariatsverordnung | Notariat
 
-(Notariatsverordnung, NoVo)
+(Notariatsverordnung, NotV)
 
-Vom 18. Dezember 2007 (Stand 1. Juli 2016)
+Vom 18. Dezember 2007 (Stand 1. August 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf § 5a Abs. 2, § 13 Abs. 2, § 14, § 38 Abs. 2, § 56 Abs. 3 und § 57 Abs. 1 des Notariatsgesetzes des Kantons Basel-Stadt vom 18. Januar 2006[^ingress-1] und auf Antrag der Justizkommission,
+gestützt auf § 5a Abs. 2, § 13 Abs. 2, § 14, § 56 Abs. 3 und § 57 Abs. 1 des Notariatsgesetzes des Kantons Basel-Stadt vom 18. Januar 2006[^ingress-1] und auf Antrag der Justizkommission,
 
 beschliesst:
 
@@ -131,19 +130,7 @@ beschliesst:
 
 #### § 12
 
-**Audiovisuell koordinierte Versammlungen an verschiedenen Orten**
-
-<sup>1</sup> Versammlungen, deren Teilnehmerinnen und Teilnehmer gleichzeitig an verschiedenen Orten tagen und miteinander audiovisuell verbunden sind, können unter den nachgenannten Voraussetzungen öffentlich beurkundet werden.
-
-<sup>2</sup> Für die Durchführung an verschiedenen Orten muss ein sachlicher Grund vorhanden sein. Er ist in der Urkunde anzugeben.
-
-<sup>3</sup> Die Versammlungsleitung muss an einem Versammlungsort innerhalb des Kantons erfolgen.
-
-<sup>4</sup> Befinden sich Tagungsorte in Kantonen oder Staaten, welche keine notarielle Amtstätigkeit auswärtiger Urkundspersonen zulassen, so soll die Notarin oder der Notar sicherstellen, dass keine Hoheitsrechte solcher anderer Gemeinwesen verletzt werden.
-
-<sup>5</sup> Die Notarin oder der Notar begleitet die Versammlung an der Seite der versammlungsleitenden Person. Die technischen Einrichtungen müssen so beschaffen sein, dass die Notarin oder der Notar während der Versammlung alle Wahrnehmungen der leitenden Person mitverfolgen kann. Von deren Standort aus müssen die Teilnehmerinnen und Teilnehmer an allen Tagungsorten überblickt werden können.
-
-<sup>6</sup> Die Notarin oder der Notar hat darauf zu achten, dass die Teilnehmerinnen und Teilnehmer an allen Tagungsorten die leitende Person entweder direkt oder durch audiovisuelle Übermittlung sehen und hören können.
+**…**
 
 #### § 13
 
