@@ -4,13 +4,12 @@ number: "812.1"
 title: Gewässergesetz
 short: GewG
 language: de
-version: 2024-03-01
-valid_until: 2026-07-31
-version_adopted: 2023-11-24
+version: 2026-08-01
+version_adopted: 2026-05-21
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7956/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gewässergesetz
 
 (GewG)
 
-vom 18.12.2009 (Fassung in Kraft getreten am 01.03.2024)
+vom 18.12.2009 (Fassung in Kraft getreten am 01.08.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -305,7 +304,9 @@ beschliesst:
 
 <sup>2</sup> Ist der Gewässerraum nicht festgelegt, so wird er von der zuständigen Dienststelle fallweise für die ihr unterbreiteten Projekte bestimmt. Wird er nicht festgelegt, so beträgt er 20 Meter ab dem mittleren Hochwasserstand.
 
-<sup>3</sup> Bauten müssen einen Mindestabstand von 4 Metern zur Grenzlinie des Gewässerraums einhalten.
+<sup>3</sup> Bei eingedolten Wasserläufen, für die kein Gewässerraum entlang des gegenwärtigen Verlaufs abgegrenzt worden ist, wird eine Baugrenze festgelegt. Diese beträgt beidseits der Rohrachse mindestens 4 Meter.
+
+<sup>3a</sup> Die Gemeinden können überdies einen Bauabstand von 4 Metern zur Grenzlinie des Gewässerraums festlegen.
 
 <sup>4</sup> Der Gewässerraum wird über den Zonennutzungsplan als Schutzzone definiert. Andernfalls ist er Gegenstand einer besonderen Schutzmassnahme. Es gilt das Genehmigungsverfahren für die Zonennutzungspläne und deren Reglemente.
 
@@ -548,7 +549,7 @@ beschliesst:
 
 <sup>1</sup> Die im Richtplan des Einzugsgebiets vorgesehenen oder als Folge von Naturgewalten notwendigen Ausbau-, Instandsetzungs- und Unterhaltsarbeiten können subventioniert werden. Der Staatsrat legt die Bedingungen für die Gewährung einer solchen Subvention sowie den Höchstsatz fest. Die Subvention umfasst den Anteil des Staats und die Beiträge, die der Staat im Rahmen der Programmvereinbarungen mit dem Bund erhält.
 
-<sup>2</sup> Der Gesamtbetrag der von der öffentlichen Hand gewährten Beiträge für ein bestimmtes Objekt darf 80 % der anrechenbaren Ausgaben nicht übersteigen. Die Spezialgesetzgebung und der Artikel 23 Abs. 2 des Subventionsgesetzes vom 17. November 1999 (SubG) bleiben vorbehalten.
+<sup>2</sup> In Abweichung von Artikel 23 Abs. 1 des Subventionsgesetzes vom 17. November 1999 (SubG) kann der Gesamtbetrag der von der öffentlichen Hand gewährten Beiträge bis zu 95 % der anrechenbaren Ausgaben betragen.
 
 <sup>3</sup> Wenn die Kosten der Ausbau- und Instandsetzungsarbeiten im Verhältnis zu den Schutzgütern unverhältnismässig hoch sind, wird keine Subvention gewährt; die Revitalisierungsarbeiten und Notfallmassnahmen werden dabei nicht berücksichtigt.
 
@@ -577,11 +578,11 @@ beschliesst:
 
 #### Art. 49
 
-**Zusätzliche Subventionen – Revitalisierungs- und Unterhaltsarbeiten**
+**Zusätzliche Subventionen – Ausbau- und Unterhaltsarbeiten**
 
 <sup>1</sup> Eine zusätzliche Subvention kann gewährt werden:
 
-- a) für die im Richtplan des Einzugsgebiets vorgesehenen prioritären Revitalisierungsarbeiten; der Satz wird entsprechend der ökologischen Bedeutung der Arbeiten festgelegt;
+- a) für Ausbauarbeiten, die Biodiversität, Klima und Risikomanagement sowie sozioökonomische Aspekte besonders berücksichtigen;
 - b) für Unterhaltsarbeiten an naturnahen oder revitalisierten Fliessgewässern, sofern diese Arbeiten gemäss einem von der zuständigen Dienststelle genehmigten Unterhaltsplan ausgeführt werden.
 
 #### Art. 50

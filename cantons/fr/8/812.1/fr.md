@@ -4,13 +4,12 @@ number: "812.1"
 title: Loi sur les eaux
 short: LCEaux
 language: fr
-version: 2024-03-01
-valid_until: 2026-07-31
-version_adopted: 2023-11-24
+version: 2026-08-01
+version_adopted: 2026-05-21
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7956/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8634/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Eaux – L
 
 (LCEaux)
 
-du 18.12.2009 (version entrée en vigueur le 01.03.2024)
+du 18.12.2009 (version entrée en vigueur le 01.08.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -305,7 +304,9 @@ Décrète:
 
 <sup>2</sup> Si l'espace réservé aux eaux n'est pas délimité, le service compétent le détermine localement pour les projets qui lui sont soumis. A défaut d'une telle détermination, l'espace minimal nécessaire est fixé à 20 mètres à partir de la ligne moyenne des hautes eaux.
 
-<sup>3</sup> La distance d'une construction à la limite de l'espace réservé aux eaux est de 4 mètres au minimum.
+<sup>3</sup> Une limite de construction est définie pour les cours d'eau enterrés pour lesquels aucun espace réservé aux eaux n'a été délimité le long du tracé actuel. La limite est de 4 mètres minimum de part et d'autre de l'axe du tuyau.
+
+<sup>3a</sup> Les communes peuvent, au surplus, définir une distance de construction de 4 mètres à la limite de l'espace réservé aux eaux.
 
 <sup>4</sup> L'espace réservé aux eaux est classé en zone protégée par le plan d'affectation des zones; à défaut, il fait l'objet d'une mesure particulière de protection. La procédure d'approbation des plans d'affectation des zones et de leur réglementation est applicable.
 
@@ -548,7 +549,7 @@ Décrète:
 
 <sup>1</sup> Les travaux d'aménagement, de réfection et d'entretien prévus dans le plan directeur de bassin versant ou consécutifs aux forces de la nature peuvent être subventionnés. Le Conseil d'Etat règle les conditions de l'octroi et fixe les taux maximaux des subventions. La subvention comprend la part de l'Etat et les montants qu'il reçoit en vertu des conventions-programmes conclues avec la Confédération.
 
-<sup>2</sup> Le montant total des subventions octroyées par des collectivités publiques pour un objet donné ne peut pas dépasser 80 % des dépenses subventionnables, sous réserve de la législation spéciale et de l'article 23 al. 2 de la loi du 17 novembre 1999 sur les subventions (LSub).
+<sup>2</sup> En dérogation à l'article 23 al. 1 de la loi du 17 novembre 1999 sur les subventions (LSub), le montant total des subventions peut atteindre 95 % des dépenses subventionnables.
 
 <sup>3</sup> Toute subvention est refusée si le coût des travaux d'aménagement ou de réfection, à l'exclusion des travaux de revitalisation et des mesures d'urgence, est disproportionné par rapport à la valeur des biens à protéger.
 
@@ -577,11 +578,11 @@ Décrète:
 
 #### Art. 49
 
-**Subventions complémentaires – pour les travaux de revitalisation ou d'entretien**
+**Subventions complémentaires – pour les travaux d'aménagement ou d'entretien**
 
 <sup>1</sup> Une subvention complémentaire peut être accordée:
 
-- a) pour les travaux de revitalisation, lorsqu'ils sont prioritaires et prévus dans le plan directeur de bassin versant. Le taux est fixé selon leur intérêt écologique;
+- a) pour les travaux d'aménagement intégrant particulièrement la biodiversité, le climat et la gestion des risques ainsi que les aspects socio-économiques;
 - b) pour les travaux d'entretien de cours d'eau naturels ou revitalisés, à condition qu'ils soient exécutés selon un plan d'entretien approuvé par le service compétent.
 
 #### Art. 50
