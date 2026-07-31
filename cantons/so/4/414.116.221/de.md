@@ -3,20 +3,19 @@ canton: SO
 number: "414.116.221"
 title: Reglement zur Aufnahme ins Regionale Gymnasium Laufental-Thierstein
 language: de
-version: 2017-08-01
-valid_until: 2026-07-31
-version_adopted: 2017-05-23
+version: 2026-08-01
+version_adopted: 2026-03-01
 adopted: 2011-03-09
 in_force: 2011-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.116.221"
-pdf: "https://bgs.so.ch/api/de/versions/4658/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5612/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Aufnahme ins Regionale Gymnasium Laufental-Thierstein
 
-Vom 09.03.2011 (Stand 01.08.2017)
+Vom 09.03.2011 (Stand 01.08.2026)
 
 Das Departement für Bildung und Kultur
 
@@ -94,7 +93,7 @@ verfügt:
 
 <sup>1</sup> Schüler und Schülerinnen der dritten Klasse der Sekundarschule E werden prüfungsfrei aufgenommen, wenn sie im ersten Zeugnis des dritten Sekundarschuljahres die Promotionsbedingungen erfüllen und in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) einen Notendurchschnitt von mindestens 5.20 aufweisen.
 
-<sup>1<sup>bis</sup></sup> Das Verfahren mit Aufnahmeprüfung und Globalurteil haben Schüler und Schülerinnen zu bestehen, welche die Voraussetzungen für die prüfungsfreie Aufnahme nicht erfüllen. Das Verfahren richtet sich nach dem Promotionsreglement Maturitätsschulen[^6-1].
+<sup>1<sup>bis</sup></sup> Das Verfahren mit Aufnahmeprüfung haben Schüler und Schülerinnen zu bestehen, welche die Voraussetzungen für die prüfungsfreie Aufnahme nicht erfüllen. Das Verfahren richtet sich nach dem Promotionsreglement Maturitätsschulen[^6-1].
 
 <sup>2</sup> …
 
