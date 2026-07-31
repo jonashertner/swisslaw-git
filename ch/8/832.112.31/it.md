@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2026-07-01
+version: 2026-08-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260701/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° luglio 2026)
+del 29 settembre 1995 (Stato 1° agosto 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -466,6 +466,24 @@ Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 letter
 
 [^7b-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)).
 [^7b-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+
+#### Art. 7c
+
+**Partecipazione dell*’*assicurato ai costi delle cure**[^7c-1]
+
+<sup>1</sup>
+
+Per il calcolo della partecipazione massima dell’assicurato ai costi delle cure secondo l’articolo 25*a* capoverso 5 LAMal[^7c-2] sono determinanti i seguenti importi:
+
+- a. per i contributi di cui all’articolo 7*a* capoverso 1 lettere a, b e c: 76.90 franchi;
+- b. ...
+- c. per i contributi di cui all’articolo 7*a* capoverso 3: 115.20 franchi;
+- d. ...
+
+<sup>2 e <sup>3</sup></sup> ...
+
+[^7c-1]: Introdotto dalla cifra I dellʼO del DFI del 12 giu. 2026, cpv. 1 lett. a e c in vigore dal 1° ago. 2026, rubrica, le restanti disp. in vigore dal 1° gen. 2027 ([RU 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7c-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 

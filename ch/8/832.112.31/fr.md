@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2026-07-01
+version: 2026-08-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260701/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (État le 1<sup>er</sup> juillet 2026)
+du 29 septembre 1995 (État le 1<sup>er</sup> août 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -469,6 +469,27 @@ Pour les fournisseurs de prestations visés à l’art. 7, al. 1, let. c, l’as
 [^7b-1]: Introduit par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
 [^7b-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
+#### Art. 7c
+
+**Participation de l’assuré aux coûts des soins**[^7c-1]
+
+<sup>1</sup> Les montants déterminants pour le calcul de la participation maximale de l’assuré aux coûts des soins visée à l’art. 25*a*, al. 5, LAMal[^7c-2], sont les suivants:
+
+a. pour les montants fixés à l’art. 7*a*, al. 1, let. a, b et c: 76 fr. 90;
+
+b. …
+
+c. pour les montants fixés à l’art. 7*a*, al. 3: 115 fr. 20;
+
+d. …
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+[^7c-1]: Introduit par le ch. I de l’O du DFI du 12 juin 2026, l’al. 1, let. a et c en vigueur depuis le 1<sup>er</sup> août 2026, les autres disp. depuis le 1<sup>er</sup> janv. 2027 ([RO 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)).
+[^7c-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+
 #### Art. 8
 
 **Prescription ou mandat médical**[^8-1]
@@ -823,7 +844,7 @@ L’assurance prend en charge les coûts des mesures suivantes visant la prophyl
 <tr><td>d.[^12b-4] Immunisation passive post-expositionnelle</td><td>Selon les recommandations de l’OFSP et de la Commission suisse pour les vaccinations (directives et recommandations «Immunisation passive post-expositionnelle» d’octobre 2004)[^12b-5]. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>e.[^12b-6] Mastectomie et / ou annexectomie prophylactique</td><td>Chez les porteuses de mutations ou de délétions génétiques associées à un risque fortement accru de cancer du sein ou des ovaires ou chez les femmes présentant un risque individuel comparable. La condition préalable à la prise en charge est un conseil génétique visé à l’art. 12*d*, let. f. Outre la prédisposition génétique, il faut aussi tenir compte de l’âge de la personne à conseiller ainsi que des cancers déjà survenus chez elle et chez des parents du premier et du deuxième degré. Indication adaptée au risque et à l’âge selon le document de référence de l’OFSP «Risque familial fortement accru de cancer du sein ou des ovaires» du 10 novembre 2023[^12b-7].</td></tr>
 <tr><td>f.[^12b-8] Vaccination passive avec immunoglobulines de l’hépatite B</td><td>Pour les nouveau-nés de mères HbsAg-positives.</td></tr>
-<tr><td>g.[^12b-9] Anticorps monoclonal pour la prophylaxie du VRS</td><td>1. Avec un anticorps humanisé monoclonal à longue durée d’action, dans la mesure où la préparation utilisée pour l’indication figure dans la liste des spécialités, du 1<sup>er</sup> octobre au 31 mars, chez les personnes suivantes: a. pour tous les nouveau-nés et les nourrissons âgés de moins d’un an (jusqu’à l’âge d’un an) durant leur première saison de VRS, comme suit: – s’ils sont nés entre octobre et mars: dans l’idéal, une dose d’anticorps dans la première semaine de vie – s’ils sont nés entre avril et septembre: dans l’idéal, une dose à partir d’octobre. Aucune prise en charge des coûts après la vaccination préalable de la mère contre le VRS à titre d’immunisation passive du nouveau-né, sauf dans les cas suivants: – la naissance a lieu dans les deux semaines suivant l’administration du vaccin – accouchement prématuré avant 37 semaines de gestation – des raisons médicales le justifient pour la mère ou pour le nouveau-né, telles qu’une immunosuppression maternelle, une infection au VIH dont la charge virale n’est pas supprimée, une allergie maternelle connue à un composant du vaccin, le risque de perte de l’immunité humorale (après un pontage cardio-pulmonaire ou oxygénation par membrane extracorporelle ou plasmaphérèse) ou une comorbidité qui, selon le spécialiste qui prescrit le traitement, comporte un risque de contracter une maladie à VRS potentiellement mortelle. b. pour les enfants âgés de moins de deux ans (jusqu’à l’âge de deux ans) présentant un risque accru en raison de maladies chroniques ou d’une prématurité (enfants nés à moins de 32+0 semaines de grossesse), comme suit: – malformation cardiaque ayant un impact significatif sur l’hémodynamique, telle que cardiopathie cyanotique – hypertension artérielle pulmonaire – pathologies pulmonaires chroniques, telles que dysplasie broncho-pulmonaire modérée à sévère, malformation pulmonaire et mucoviscidose – troubles métaboliques congénitaux avec répercussion sur la fonction cardiaque ou pulmonaire – pathologies neurologiques, telles qu’épilepsie et infirmité motrice cérébrale, ainsi que maladies neuromusculaires – immunodéficience congénitale, acquise ou induite par un traitement – trisomie 21 (syndrome de Down) et autres anomalies chromosomiques – autres maladies chroniques susceptibles d’entraîner une infection sévère à VRS telles qu’hépatopathie chronique et malformation d’organe – avec une dose supplémentaire après une opération cardiaque avec pontage cardio-pulmonaire, oxygénation par membrane extracorporelle ou plasmaphérèse 2. Avec un anticorps humanisé monoclonal à courte durée d’action, dans la mesure où la préparation utilisée pour l’indication est mentionnée dans la liste des spécialités, comme suit: a. pose de l’indication selon les recommandations «Consensus concernant la prévention des infections par le virus respiratoire syncytial (VRS) avec l’anticorps humanisé monoclonal palivizumab (Synagis<sup>®</sup>) [mise à jour 2016]»[^12b-10] du groupe de travail interdisciplinaire composé de membres du Groupe d’infectiologie pédiatrique Suisse (PIGS), de la Société suisse de pneumologie pédiatrique (SSPP), de la Société suisse de cardiologie pédiatrique (SSCP) et de la Société suisse de néonatologie (SSN); b. pour les anciens prématurés atteints de dysplasie broncho-pulmonaire: pose de l’indication par un médecin pédiatre avec spécialisation en néonatologie (programme de formation postgraduée du 1<sup>er</sup> juillet 2015, révisé le 17 juin 2021[^12b-11]) ou en pneumologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016[^12b-12]); c. pour les enfants atteints de cardiopathie congénitale hémodynamiquement significative: pose de l’indication par un médecin pédiatre avec spécialisation en cardiologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016[https://www.fedlex.admin.ch/eli/cc/1995/4964\_4964\_4964/fr - fn-d254057e3807](https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/fr)[^12b-13]).</td></tr>
+<tr><td>g.[^12b-9] Anticorps monoclonal pour la prophylaxie du VRS</td><td>1. Avec un anticorps humanisé monoclonal à longue durée d’action, dans la mesure où la préparation utilisée pour l’indication figure dans la liste des spécialités, du 1<sup>er</sup> octobre au 31 mars, chez les personnes suivantes: a. pour tous les nouveau-nés et les nourrissons âgés de moins d’un an (jusqu’à l’âge d’un an) durant leur première saison de VRS, comme suit: – s’ils sont nés entre octobre et mars: dans l’idéal, une dose d’anticorps dans la première semaine de vie – s’ils sont nés entre avril et septembre: dans l’idéal, une dose à partir d’octobre. Aucune prise en charge des coûts après la vaccination préalable de la mère contre le VRS à titre d’immunisation passive du nouveau-né, sauf dans les cas suivants: – la naissance a lieu dans les deux semaines suivant l’administration du vaccin – accouchement prématuré avant 37 semaines de gestation – des raisons médicales le justifient pour la mère ou pour le nouveau-né, telles qu’une immunosuppression maternelle, une infection au VIH dont la charge virale n’est pas supprimée, une allergie maternelle connue à un composant du vaccin, le risque de perte de l’immunité humorale (après un pontage cardio-pulmonaire ou oxygénation par membrane extracorporelle ou plasmaphérèse) ou une comorbidité qui, selon le spécialiste qui prescrit le traitement, comporte un risque de contracter une maladie à VRS potentiellement mortelle. b. pour les enfants âgés de moins de deux ans (jusqu’à l’âge de deux ans) présentant un risque accru en raison de maladies chroniques ou d’une prématurité (enfants nés à moins de 32+0 semaines de grossesse), comme suit: – malformation cardiaque ayant un impact significatif sur l’hémodynamique, telle que cardiopathie cyanotique – hypertension artérielle pulmonaire – pathologies pulmonaires chroniques, telles que dysplasie broncho-pulmonaire modérée à sévère, malformation pulmonaire et mucoviscidose – troubles métaboliques congénitaux avec répercussion sur la fonction cardiaque ou pulmonaire – pathologies neurologiques, telles qu’épilepsie et infirmité motrice cérébrale, ainsi que maladies neuromusculaires – immunodéficience congénitale, acquise ou induite par un traitement – trisomie 21 (syndrome de Down) et autres anomalies chromosomiques – autres maladies chroniques susceptibles d’entraîner une infection sévère à VRS telles qu’hépatopathie chronique et malformation d’organe – avec une dose supplémentaire après une opération cardiaque avec pontage cardio-pulmonaire, oxygénation par membrane extracorporelle ou plasmaphérèse 2. Avec un anticorps humanisé monoclonal à courte durée d’action, dans la mesure où la préparation utilisée pour l’indication est mentionnée dans la liste des spécialités, comme suit: a. pose de l’indication selon les recommandations «Consensus concernant la prévention des infections par le virus respiratoire syncytial (VRS) avec l’anticorps humanisé monoclonal palivizumab (Synagis<sup>®</sup>) [mise à jour 2016]»[^12b-10] du groupe de travail interdisciplinaire composé de membres du Groupe d’infectiologie pédiatrique Suisse (PIGS), de la Société suisse de pneumologie pédiatrique (SSPP), de la Société suisse de cardiologie pédiatrique (SSCP) et de la Société suisse de néonatologie (SSN); b. pour les anciens prématurés atteints de dysplasie broncho-pulmonaire: pose de l’indication par un médecin pédiatre avec spécialisation en néonatologie (programme de formation postgraduée du 1<sup>er</sup> juillet 2015, révisé le 17 juin 2021[^12b-11]) ou en pneumologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016[^12b-12]); c. pour les enfants atteints de cardiopathie congénitale hémodynamiquement significative: pose de l’indication par un médecin pédiatre avec spécialisation en cardiologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016 [https://www.fedlex.admin.ch/eli/cc/1995/4964\_4964\_4964/fr - fn-d254057e3807](https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/fr)[^12b-13]).</td></tr>
 <tr><td>h.[^12b-14] Immunisation passive à l’aide d’anticorps contre le COVID-19</td><td>Pour les personnes immunodéficientes ayant la plus haute priorité pour un traitement d’immunisation passive conformément à la «Position paper on the use of monoclonal antibodies against SARS-CoV-2 as passive immunisation treatments in severely immunocompromised persons in Switzerland»[^12b-15], version du 26 avril 2022, et pour les personnes atteintes de drépanocytose. Les coûts ne sont pris en charge que pour les préparations d’anticorps qui disposent de l’autorisation nécessaire pour les indications concernées.</td></tr>
 <tr><td>i.[^12b-16] Prophylaxie pré-exposition contre le VIH</td><td>1. Par des médecins participant au programme «SwissPrEPared» sous la direction de l’Institut d’épidémiologie, de biostatistique et de prévention de l’Université de Zurich. 2. Indications selon le document de référence de l’OFSP «Prophylaxie pré‑exposition contre VIH (HIV‑PrEP) du 11 mars 2024[^12b-17]». La prise en charge couvre le médicament ainsi que les consultations médicales et les analyses de laboratoire nécessaires selon le document de référence de l’OFSP «Prophylaxie pré-exposition contre VIH (HIV‑PrEP)» du 11 mars 2024. 3. Analyses de laboratoire selon la liste des analyses. 4. L’obligation de prise en charge est subordonnée à une obligation d’évaluation. 5. En cas de recommandation médicale aux voyageurs, la prophylaxie n’est pas prise en charge par l’assurance.</td></tr>
 </table>
@@ -837,10 +858,10 @@ L’assurance prend en charge les coûts des mesures suivantes visant la prophyl
 [^12b-7]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-8]: Introduite par le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^12b-9]: Introduite par le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Nouvelle teneur selon le ch. I de l’O du DFI du 9 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
-[^12b-10]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12b-11]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12b-12]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12b-13]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12b-10]: Le document peut être consulté à l’adresse suivante: [[www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref) .](http://www.ofsp.admin.ch/ref.)
+[^12b-11]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12b-12]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
+[^12b-13]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
 [^12b-14]: Introduite par le ch. I de l’O du DFI du 2 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
 [^12b-15]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-16]: Introduite par le ch. I de l’O du DFI du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
@@ -950,8 +971,8 @@ L’assurance prend en charge, en cas de maternité, les examens de contrôle su
 [^13-9]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^13-10]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^13-11]: Introduite par le ch. I de l’O du DFI du 9 juin 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 336](https://fedlex.data.admin.ch/eli/oc/2026/336)).
-[^13-12]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^13-13]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^13-12]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
+[^13-13]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref .
 [^13-14]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 14

@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2026-07-01
+version: 2026-08-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260701/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Juli 2026)
+vom 29. September 1995 (Stand am 1. August 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -468,6 +468,24 @@ Die Versicherung übernimmt für Leistungserbringer nach Artikel 7 Absatz 1 Buch
 
 [^7b-1]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
 [^7b-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+
+#### Art. 7c
+
+**Beteiligung der versicherten Person an den Pflegekosten**[^7c-1]
+
+<sup>1</sup>
+
+Für die Berechnung der maximalen Beteiligung der versicherten Person an den Pflegekosten nach Artikel 25*a* Absatz 5 KVG[^7c-2] sind folgende Beträge massgebend:
+
+- a. bei Beiträgen nach Artikel 7*a* Absatz 1 Buchstaben a, b und c: 76.90 Franken;
+- b. …
+- c. bei Beiträgen nach Artikel 7*a* Absatz 3: 115.20 Franken;
+- d. …
+
+<sup>2 und <sup>3</sup></sup> …
+
+[^7c-1]: Eingefügt durch Ziff. I der V des EDI vom 12. Juni 2026, Abs. 1 Bst. a und c in Kraft seit 1. Aug. 2026 ([AS 2026 348](https://fedlex.data.admin.ch/eli/oc/2026/348)). Die anderen Bestimmungen treten zu einem späteren Zeitpunkt in Kraft.
+[^7c-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 
