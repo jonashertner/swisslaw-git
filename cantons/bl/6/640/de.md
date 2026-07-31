@@ -3,20 +3,19 @@ canton: BL
 number: "640"
 title: Bildungsgesetz
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-11-16
+version: 2026-08-01
+version_adopted: 2026-06-11
 adopted: 2002-06-06
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640"
-pdf: "https://bl.clex.ch/api/de/versions/3880/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bildungsgesetz
 
-Vom 06.06.2002 (Stand 01.08.2024)
+Vom 06.06.2002 (Stand 01.08.2026)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -245,7 +244,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Für die im Kanton wohnhaften Schülerinnen und Schüler bzw. Erwachsenen sind folgende Schuldienste unentgeltlich:
 
-- a. die schulpsychologischen und kinder- und jugendpsychiatrischen Abklärungen und Beratungen bis zur Beendigung der Sekundarstufe II;
+- a. die schulpsychologischen Abklärungen und Beratungen bis zur Beendigung der Sekundarstufe II;
 - b. die Berufs- und Studienberatung;
 - c. der Schulsozialdienst;
 - d. die Beratung von Schülerinnen und Schülern mit einer Behinderung und ihren Erziehungsberechtigten.
@@ -890,7 +889,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> …
 
-<sup>3<sup>bis</sup></sup> Die Verordnung legt für die Angebote der Sonderschulung Platzzahlen und bei den Therapien Lektionen-Pools im Verhältnis zur Anzahl Schülerinnen und Schüler in Anlehnung an kantonale Referenzrahmen fest.
+<sup>3<sup>bis</sup></sup> Die Verordnung legt für die Angebote der Sonderschulung Platzzahlen und bei den Therapien Stellen-Pools im Verhältnis zur Anzahl Schülerinnen und Schüler in Anlehnung an kantonale Referenzrahmen fest.
 
 <sup>4</sup> Das Nähere regelt die Verordnung.
 
@@ -1037,7 +1036,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Das Angebot der kantonalen Schuldienste umfasst:
 
-- a. die schulpsychologische und kinder- und jugendpsychiatrische Abklärung und Beratung von Schülerinnen und Schülern sowie die Beratung von Erziehungsberechtigten in Bezug auf ihre Kinder;
+- a. die schulpsychologische Abklärung und Beratung von Schülerinnen und Schülern sowie die Beratung von Erziehungsberechtigten in Bezug auf ihre Kinder;
 - b. den Schulsozialdienst ab der Sekundarschule;
 - c. die Berufs- und Studienberatung von Schülerinnen und Schülern und Erwachsenen;
 - d. die Fortbildung, Beratung und Unterstützung der Lehrerinnen und Lehrer der öffentlichen Schulen des Kantons und der Einwohnergemeinden;
@@ -1464,6 +1463,31 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>1</sup> Voraussetzung für eine unbefristete Anstellung als Lehrerin oder Lehrer ist der für die Schulart erforderliche Fähigkeitsausweis.
 
 <sup>2</sup> Das Nähere regelt die Verordnung.
+
+#### § 73a
+
+**Verbot der Unterrichtstätigkeit**
+
+<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion verbietet Lehrpersonen und sinngemäss auch Mitarbeitenden im pädagogischen Bereich, denen die persönlichen Eigenschaften zur Erfüllung des Bildungs- und Erziehungsauftrags fehlen, die Unterrichtstätigkeit an öffentlichen und privaten Schulen und bei weiteren Leistungserbringenden im Bildungsbereich im Kanton Basel-Landschaft, insbesondere wenn die Lehrperson mindestens eines der folgenden Kriterien erfüllt:
+
+- a. Sie hat ihre Handlungsfähigkeit dauerhaft verloren.
+- b. Ihre Vertrauenswürdigkeit ist durch eine Verurteilung wegen eines begangenen Verbrechens oder schweren Vergehens schwer beeinträchtigt.
+- c. Sie hat wiederholt schwerwiegende Verfehlungen begangen, die mit ihrer Vertrauensstellung gegenüber Schülerinnen und Schüler nicht vereinbar sind.
+- d. Sie ist aus anderen schwerwiegenden Gründen, welche die Eignung, Unterricht zu erteilen, in massivem Ausmass beeinträchtigen oder ausschliessen, unfähig geworden, den Lehrberuf auszuüben.
+
+<sup>2</sup> Lehrpersonen, über die ein Verbot der Unterrichtstätigkeit verhängt wurde, sind nicht berechtigt, Unterricht zu erteilen, anzuleiten oder zu überwachen sowie Leitungs- oder Betreuungsaufgaben wahrzunehmen.
+
+<sup>3</sup> Das Verbot kann befristet oder unbefristet ausgesprochen werden. Haben sich die Verhältnisse in wesentlichem Ausmass günstig verändert, verfügt die Bildungs-, Kultur- und Sportdirektion von sich aus oder auf Antrag der betroffenen Person die Aufhebung des Verbots.
+
+<sup>4</sup> Beschwerden gegen Verfügungen betreffend das Verbot der Unterrichtstätigkeit haben keine aufschiebende Wirkung.
+
+#### § 73b
+
+**Meldepflichten und Melderechte**
+
+<sup>1</sup> Haben die für die Anstellung zuständigen Behörden und Organe ernsthafte und konkrete Hinweise, die Anlass zur Überprüfung der Unterrichtsberechtigung geben können, sind sie verpflichtet, der Bildungs-, Kultur- und Sportdirektion Bericht zu erstatten. Andere kommunale und kantonale Behörden sind zur Meldung berechtigt, unter Vorbehalt der Bestimmungen über das Berufsgeheimnis.
+
+<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion meldet den Entzug der Unterrichtsberechtigung sowie dessen Aufhebung der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) zur Erfassung und Löschung in der interkantonalen Liste über Lehrkräfte ohne Unterrichtsberechtigung.
 
 #### § 74
 
