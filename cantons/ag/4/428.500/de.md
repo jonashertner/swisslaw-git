@@ -4,13 +4,12 @@ number: "428.500"
 title: Gesetz über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsgesetz, BeG"
 language: de
-version: 2024-07-01
-valid_until: 2026-07-31
-version_adopted: 2023-09-19
+version: 2026-08-01
+version_adopted: 2025-09-23
 adopted: 2006-05-02
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.500"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3456/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3456/pdf_file"
 
 (Betreuungsgesetz, BeG)
 
-Vom 02.05.2006 (Stand 01.07.2024)
+Vom 02.05.2006 (Stand 01.08.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -43,7 +42,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesetz gilt für folgende Einrichtungen:
 
-- a) Einrichtungen für besondere Förder- und Stützmassnahmen gemäss Schulgesetz vom 17. März 1981[^2-1],
+- a) Einrichtungen mit Angeboten gemäss § 25 des Volksschulgesetzes (VSG) vom 23. September 2025[^2-1],
 - a<sup>bis</sup>) Einrichtungen mit ambulanten Angeboten für Kinder, Jugendliche, junge Erwachsene und Familien,
 - b) stationäre Sonderschulen und Tagessonderschulen einschliesslich Sonderkindergärten,
 - c) stationäre Einrichtungen, die Kinder, Jugendliche und junge Erwachsene beherbergen,
@@ -53,11 +52,11 @@ beschliesst:
 - d<sup>ter</sup>) Einrichtungen mit ambulanten Angeboten für erwachsene Menschen mit Behinderungen,
 - e) stationäre Einrichtungen für erwachsene Menschen in familiären oder sozialen Notlagen.
 
-<sup>2</sup> Der Regierungsrat regelt die Einrichtungen und ihre Angebote näher.
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten zu den Einrichtungen und ihrer Angebote durch Verordnung.
 
 <sup>3</sup> …
 
-[^2-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^2-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 
 #### § 3
 
@@ -170,7 +169,7 @@ beschliesst:
 
 **Lehrpersonen und Sprachheilfachpersonen**
 
-<sup>1</sup> Sonderschulen und Einrichtungen für besondere Förder- und Stützmassnahmen gemäss Schulgesetz mit privater Trägerschaft richten sich bei der Ausgestaltung der Anstellungsverhältnisse und Entlöhnung ihrer Lehrpersonen und Sprachheilfachpersonen nach der Gesetzgebung über die Anstellung von Lehrpersonen.
+<sup>1</sup> Sonderschulen und Einrichtungen gemäss § 2 Abs. 1 lit. a mit privater Trägerschaft richten sich bei der Ausgestaltung der Anstellungsverhältnisse und Entlöhnung ihrer Lehrpersonen und Sprachheilfachpersonen nach der Gesetzgebung über die Anstellung von Lehrpersonen.
 
 ### 2.4. Gemeinsame Bestimmungen
 
@@ -293,7 +292,9 @@ beschliesst:
 
 <sup>1</sup> Das zuständige Departement kann die anerkannten Einrichtungen zur Koordination und Zusammenarbeit verpflichten.
 
-<sup>2</sup> Das Departement kann anerkannte Einrichtungen im Einzelfall verpflichten, Menschen mit besonderen Betreuungsbedürfnissen aufzunehmen.
+<sup>2</sup> Es kann anerkannte Einrichtungen für Leistungen im Zusammenhang mit Sonderschulung verpflichten, Kinder und Jugendliche mit besonderen Betreuungsbedürfnissen aufzunehmen.
+
+<sup>3</sup> Es kann anerkannte Einrichtungen in Bezug auf alle anderen Leistungen im Einzelfall verpflichten, Menschen mit besonderen Betreuungsbedürfnissen aufzunehmen.
 
 #### § 22a
 
@@ -313,14 +314,14 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die nachfolgenden Bestimmungen zu Finanzierung und Kostenverteilung gelten für alle Leistungen, die anerkannte und kantonale Einrichtungen im Rahmen ihres Leistungsauftrags für Menschen mit besonderen Betreuungsbedürfnissen mit zivilrechtlichem Wohnsitz beziehungsweise bei Einrichtungen für besondere Förder- und Stützmassnahmen gemäss Schulgesetz und bei Tagessonderschulen mit Aufenthalt im Kanton Aargau erbringen.
+<sup>1</sup> Die nachfolgenden Bestimmungen zu Finanzierung und Kostenverteilung gelten für alle Leistungen, die anerkannte und kantonale Einrichtungen im Rahmen ihres Leistungsauftrags für Menschen mit besonderen Betreuungsbedürfnissen mit zivilrechtlichem Wohnsitz beziehungsweise bei Einrichtungen gemäss § 2 Abs. 1 lit. a und bei Tagessonderschulen mit Aufenthalt im Kanton Aargau erbringen.
 
 <sup>2</sup> Diese Bestimmungen finden auch Anwendung für
 
 - a) Leistungen anerkannter Dienstleistungsanbieter in der Familienpflege für Kinder und Jugendliche mit Unterstützungswohnsitz im Kanton Aargau und ausserkantonalem zivilrechtlichem Wohnsitz,
 - b) die vom zuständigen Departement bewilligten Leistungen ausserkantonaler Einrichtungen.
 
-<sup>2<sup>bis</sup></sup> Der Regierungsrat regelt, welche ausserkantonalen Leistungen gemäss Absatz 2 lit. b bewilligt werden können, deren Bewilligungsvoraussetzungen sowie das Verfahren.
+<sup>2<sup>bis</sup></sup> Der Regierungsrat regelt durch Verordnung, welche ausserkantonalen Leistungen gemäss Absatz 2 lit. b bewilligt werden können, deren Bewilligungsvoraussetzungen sowie das Verfahren.
 
 <sup>3</sup> Von diesen Bestimmungen ausgenommen sind die Vollzugskosten von Massnahmen und Strafen nach Bundesgesetz über das Jugendstrafrecht (Jugendstrafgesetz, JStG) vom 20. Juni 2003[^23-1] und Schweizerischem Strafgesetzbuch vom 21. Dezember 1937[^23-2], deren Deckung sich nach den Bestimmungen dieser Erlasse und des Strafprozessrechts richtet.
 
@@ -449,7 +450,7 @@ beschliesst:
 
 <sup>1</sup> Zuweisungen und Unterbringungen von Kindern, Jugendlichen und jungen Erwachsenen in Einrichtungen gemäss § 2 Abs. 1 lit. b, c und c<sup>bis</sup> erfolgen nach den Bestimmungen des Schul-, Jugendstraf- und Kindesschutzrechts.
 
-<sup>2</sup> Zuweisungen und Unterbringungen in ausserkantonalen Einrichtungen bedürfen der Zustimmung des zuständigen Departements.
+<sup>2</sup> Unterbringungen in ausserkantonalen Einrichtungen bedürfen der Zustimmung des zuständigen Departements.
 
 <sup>3</sup> Für Kostengutsprachen zur Nutzung von Einrichtungen gemäss § 2 Abs. 1 lit. c und c<sup>bis</sup> im Einverständnis mit den Inhabern der elterlichen Sorge ist der Gemeinderat der Wohnsitzgemeinde zuständig. Die Kostengutsprache setzt eine Abklärung bei einer Fachstelle voraus.
 
