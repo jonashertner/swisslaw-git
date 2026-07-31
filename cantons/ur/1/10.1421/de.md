@@ -1,277 +1,210 @@
 ---
 canton: UR
 number: "10.1421"
-title: REGLEMENT über den Schulmedizinischen Dienst
+title: Reglement über den Schulmedizinischen Dienst
 language: de
-version: 2018-08-01
-corrected: 2025-08-19
-version_adopted: 2018-04-25
+version: 2026-08-01
+version_adopted: 2026-06-17
 adopted: 2026-06-17
 in_force: 2026-08-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1421"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/317/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/1155/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# REGLEMENT über den Schulmedizinischen Dienst
+# Reglement über den Schulmedizinischen Dienst
 
-REGLEMENT über den Schulmedizinischen Dienst
+Vom 17.06.2026 (Stand 01.08.2026)
 
-(vom 6. April 2011[^t-1]; Stand am 1. August 2018)
+Der Erziehungsrat des Kantons Uri,
 
-Der Erziehungsrat, gestützt auf Artikel 29g der Verordnung vom 22. April 1998 zum Schulgesetz (Schulverordnung)[^t-2],
+gestützt auf Artikel 33 der Verordnung über die Volksschule vom 27. Mai 2026 (RB [10.1115](https://rechtsbuch.ur.ch/data/10.1115/de)),
 
 beschliesst:
 
-[^t-1]: AB vom 21. April 2011
-[^t-2]: RB 10.1115
-
-### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Artikel 1
 
 **Gegenstand**
 
-Dieses Reglement regelt für die Volksschule und die ersten drei Klassen des Gymnasiums an der Kantonalen Mittelschule Uri die Organisation und Durchführung des Schulmedizinischen Dienstes, die Aufgaben der Schulmedizinischen Kommission und die Entschädigung der Schulärztinnen und Schulärzte sowie der Schulzahnärztinnen und Schulzahnärzte und weiterer Personen.
+<sup>1</sup> Dieses Reglement regelt:
 
-### 2. Kapitel: ORGANISATION
+- a) die Organisation des Schulmedizinischen Dienstes
+- b) die Aufgaben der Schulmedizinischen Kommission (SMK) sowie der involvierten Gesundheitsfachpersonen (Schulärztinnen und ‑ärzte, Schulzahnärztinnen und ‑ärzte, Fachpersonen Schulgesundheit und Zahngesundheit)
+- c) die Rahmenbedingungen und Zuständigkeiten für die Organisation und Durchführung der schulmedizinischen Untersuchungen
+- d) die Entschädigung der involvierten Gesundheitsfachpersonen
 
 #### Artikel 2
 
-**Schulmedizinische Kommission**
+**Geltungsbereich**
 
-<sup>1</sup> Der Erziehungsrat wählt eine Schulmedizinische Kommission mit fünf bis sieben Mitgliedern. Die Schulmedizinische Kommission:
+<sup>1</sup> Dieses Reglement gilt für die öffentlichen und privaten Schulen, die Ausbildungen während der obligatorischen Schulzeit anbieten.
 
-- a) berät die Bildungs- und Kulturdirektion, den Erziehungsrat und den Regierungsrat in Fragen der Schulmedizin;
-
-- b) bestimmt Form und Inhalt der offiziellen Formulare;
-
-- c) sorgt dafür, dass jährlich ein statistischer Bericht zuhanden des Erziehungsrats mit den Ergebnissen der obligatorischen Untersuchungen erstellt wird;
-
-- d) kann Massnahmen zur Verbesserung der Gesundheit der Schülerinnen und Schüler vorschlagen;
-
-- e) sorgt für die notwendige Information der Schulbehörden, Schulärztinnen und Schulärzte sowie der Schulzahnärztinnen und Schulzahnärzte;
-
-- f) organisiert bei Bedarf eine Zusammenkunft der Schulärztinnen und Schulärzte oder der Schulzahnärztinnen und Schulzahnärzte;
-
-- g) organisiert die Weiterbildung der Personen für die Schulzahnpflegeinstruktion.
-
-<sup>2</sup> Der Erziehungsrat und die Bildungs- und Kulturdirektion können der Schulmedizinischen Kommission Aufträge erteilen.
+## 2 Organisation
 
 #### Artikel 3
 
-**Schulrat**
+**Amt für Volksschulen**
 
-<sup>1</sup> Der Schulrat sorgt für eine zweckmässige Organisation des Schulmedizinischen Dienstes an der einzelnen Schule.
+<sup>1</sup> Das Amt für Volksschulen vollzieht dieses Reglement, soweit dieses kein anderes Vollzugsorgan bezeichnet.
 
-<sup>2</sup> Er stellt sicher, dass bei allen Schülerinnen und Schülern die obligatorischen Untersuchungen durchgeführt werden.
-
-<sup>3</sup> Er kann einzelne Aufgaben der Schulleitung delegieren.
-
-### 3. Kapitel: BEREICH SCHULARZT
+<sup>2</sup> Es übt die administrative Aufsicht über die Umsetzung der schulmedizinischen Untersuchungen.
 
 #### Artikel 4
 
-**Schulärztin oder Schularzt**
+**Schulmedizinische Kommission**
 
-<sup>1</sup> Der Schulrat schliesst mit mindestens einer Ärztin oder einem Arzt einen Vertrag über die Erfüllung der Aufgaben des Schulmedizinischen Dienstes ab. Er verwendet dazu die von der Bildungs- und Kulturdirektion zur Verfügung gestellte Vertragsvorlage.
+<sup>1</sup> Die Schulmedizinische Kommission:
 
-<sup>2</sup> Ein Vertrag kann nur mit Ärztinnen und Ärzten abgeschlossen werden, die im Kanton Uri praktizieren und über eine gültige Berufsausübungsbewilligung gemäss Artikel 19 des Gesundheitsgesetzes[^4-1] verfügen. Über Ausnahmen entscheidet die Bildungs- und Kulturdirektion.
+- a) berät die Bildungs- und Kulturdirektion, den Erziehungsrat und den Regierungsrat in Fragen der Schulmedizin
+- b) bestimmt Form und Inhalt der Untersuchungsprogramme und der offiziellen Formulare
+- c) sorgt dafür, dass jährlich ein statistischer Bericht zuhanden des Erziehungsrats mit den Ergebnissen der Untersuchungen erstellt wird
+- d) kann Massnahmen zur Verbesserung der Gesundheit der Schülerinnen und Schüler vorschlagen
+- e) sorgt für die notwendige Information der Schulbehörden und der involvierten Gesundheitsfachpersonen
 
-<sup>3</sup> Im Rahmen des Vertrags nach Absatz 1 hat die Schulärztin oder der Schularzt:
-
-- a) die obligatorischen Reihenuntersuchungen durchzuführen;
-
-- b) den Schulrat und das Amt für Volksschulen mit dem entsprechenden Formular über die Ergebnisse der obligatorischen Reihenuntersuchungen zu informieren;
-
-- c) die Impfungen gemäss Artikel 8 durchzuführen;
-
-- d) im Falle von ansteckenden Krankheiten entsprechende Massnahmen auf Anordnung der Kantonsärztin oder des Kantonsarztes durchzuführen.
-
-4 Die Schulärztinnen und Schulärzte haben einen Einführungskurs zu besuchen und sich regelmässig weiterzubilden.
-
-<sup>5</sup> Die Schulärztin oder der Schularzt ist administrativ dem Schulrat oder dort, wo dieser das bestimmt hat, der Schulleitung unterstellt. Fachlich ist sie oder er der Kantonsärztin oder dem Kantonsarzt unterstellt.
-
-[^4-1]: RB 30.2111
+<sup>2</sup> Der Erziehungsrat und die Bildungs- und Kulturdirektion können der Schulmedizinischen Kommission Aufträge erteilen.
 
 #### Artikel 5
 
-**Obligatorische Reihenuntersuchungen**
+**Schulleitung**
 
-- a) Zeitpunkt Die obligatorischen Reihenuntersuchungen werden durchgeführt:
+<sup>1</sup> Die Schulleitung sorgt für eine zweckmässige Organisation der schulmedizinischen Massnahmen an der Schule.
 
-- a) im Kindergarten, bei Zweijahreskindergärten im 2. Kindergartenjahr;
+<sup>2</sup> Sie stellt sicher, dass alle Eltern die nötigen Informationen erhalten.
 
-- b) in der 4. Klasse;
-
-- c) im 8. Schuljahr.
+## 3 Schulärztin oder Schularzt
 
 #### Artikel 6
 
-**b) Inhalt**
+**Wahl**
 
-<sup>1</sup> Die obligatorischen Reihenuntersuchungen umfassen die auf dem Schulärztlichen Untersuchungsblatt aufgeführten Punkte und die Kontrolle des Impfstatus.
+<sup>1</sup> Der Schulrat schliesst mit mindestens einer im Kanton zugelassenen Ärztin oder einem im Kanton zugelassenen Arzt einen Vertrag über die Erfüllung der Aufgaben des Schulmedizinischen Dienstes ab. Er verwendet dazu die von der Bildungs- und Kulturdirektion zur Verfügung gestellte Vertragsvorlage.
 
-<sup>2</sup> Das Ergebnis ist jeweils auf dem Schulärztlichen Untersuchungsblatt festzuhalten.
+<sup>2</sup> Der Schulrat meldet dem Amt für Volksschulen die zuständigen Schulärztinnen und ‑ärzte.
 
 #### Artikel 7
 
-**c) Durchführungsort**
+**Aufgaben**
 
-<sup>1</sup> Die obligatorischen Reihenuntersuchungen können vor Ort oder in der Arztpraxis durchgeführt werden.
+<sup>1</sup> Die Schulärztin oder der Schularzt:
 
-<sup>2</sup> Die Schule stellt genügend geeignete Räumlichkeiten zur Verfügung. Ist dies nicht möglich, so muss die Untersuchung in der Arztpraxis stattfinden. Die Schulärztin oder der Schularzt entscheidet, ob die vorhandenen Räumlichkeiten geeignet sind.
+- a) führt die schulärztlichen Untersuchungen durch
+- b) steht der Schule für die Beratung in gesundheitlichen Fragen zur Verfügung
+- c) erhebt im Rahmen der schulärztlichen Untersuchungen den Impfstatus, macht Impfempfehlungen und führt Impfungen durch
+- d) unterstützt bei Auftreten ansteckender Krankheiten die Kantonsärztin oder den Kantonsarzt bei der Umsetzung der notwendigen Massnahmen
 
 #### Artikel 8
 
-**Impfungen**
+**Kinder- / Hausärztin oder Kinder- /Hausarzt**
 
-Im Rahmen der obligatorischen Reihenuntersuchungen werden mit dem Einverständnis der Erziehungsberechtigten die empfohlenen Impfungen durchgeführt.
+<sup>1</sup> Die Schulmedizinische Kommission kann in den Untersuchungsprogrammen die Durchführung der körperlichen Untersuchung im obligatorischen Kindergartenjahr den Kinder- /Hausärztinnen oder Kinder- / Hausärzten der Schülerinnen und Schüler übertragen.
 
 #### Artikel 9
 
-**Aus dem Ausland zuziehende Schülerinnen und Schüler**
+**Fachperson Schulgesundheit**
 
-<sup>1</sup> Die Schulleitung meldet Schülerinnen und Schüler, die aus dem Ausland zuziehen und neu in die Schule eintreten, umgehend bei der Schulärztin oder beim Schularzt für eine Erstuntersuchung an.
+<sup>1</sup> Die Aufgaben der Schulärztin oder des Schularztes können teilweise durch eine Fachperson Schulgesundheit wahrgenommen werden.
 
-2 Die Erstuntersuchung umfasst die auf dem Schulärztlichen Untersuchungsblatt aufgeführten Punkte sowie die Kontrolle des Impfstatus. Die Kantonsärztin oder der Kantonsarzt kann weitere Untersuchungen anordnen.
+<sup>2</sup> Der Erziehungsrat erlässt auf Antrag der Schulmedizinischen Kommission Bestimmungen zu Qualifikation, Aufgaben und Entschädigung der Fachperson Schulgesundheit.
 
 #### Artikel 10
 
-**Information**
+**Untersuchung: Rhythmus**
 
-<sup>1</sup> Der Schulrat sorgt dafür, dass die Schülerinnen und Schüler sowie die Erziehungsberechtigten über die obligatorischen Reihenuntersuchungen und die Impfungen rechtzeitig informiert werden.
+<sup>1</sup> Die schulärztlichen Untersuchungen werden durchgeführt:
 
-<sup>2</sup> Die Schulmedizinische Kommission stellt entsprechende Unterlagen zur Verfügung.
+- a) im obligatorischen Kindergartenjahr
+- b) in der 4. Klasse der Primarschule
+- c) in der 1. oder 2. Klasse der Oberstufe
 
 #### Artikel 11
 
-**Ansteckende Krankheiten**
+**Untersuchung: Umfang der Untersuchung**
 
-Die Kantonsärztin oder der Kantonsarzt ordnet im Falle von ansteckenden Krankheiten die notwendigen Massnahmen an.
-
-### 4. Kapitel: BEREICH SCHULZAHNARZT
+<sup>1</sup> Die schulärztlichen Untersuchungen konzentrieren sich auf die Punkte gemäss dem von der Schulmedizinischen Kommission definierten Untersuchungsprogramm.
 
 #### Artikel 12
 
-**Obligatorische Untersuchungen**
+**Untersuchung: Dokumentation**
 
-- a) Zeitpunkt
+<sup>1</sup> Die durchführende Gesundheitsfachperson
 
-<sup>1</sup> Die Schülerinnen und Schüler werden während der Volksschulzeit pro Schuljahr einmal zahnärztlich untersucht.[^12-1]
+- a) dokumentiert das Ergebnis der Untersuchungen
+- b) teilt das Ergebnis der Untersuchungen den Eltern mit, inkl. Empfehlungen für das weitere Vorgehen bei abklärungsbedürftigen Befunden
+- c) bestätigt die Durchführung gegenüber der zuständigen Stelle in Form der Abrechnung
+- d) erstattet am Ende des Schuljahrs Bericht an das Amt für Volksschulen über ihre schulärztliche Tätigkeit gemäss den Vorgaben der Schulmedizinischen Kommission
 
-<sup>2</sup> Der Schulrat bestimmt den Zeitpunkt der obligatorischen Untersuchungen.
+#### Artikel 13
 
-[^12-1]: Fassung gemäss ERB vom 1. Juni 2011, in Kraft gesetzt auf den 1. Januar 2012 (AB vom 13. Juli 2012).
+**Untersuchung: Durchführungsort**
 
-#### Artikel 13 b
+<sup>1</sup> Schulärztliche Reihenuntersuchungen finden in der Regel in der Schule statt.
 
-**) Art**
+<sup>2</sup> Die Schule stellt genügend geeignete Räumlichkeiten zur Verfügung.
 
-Der Schulrat bestimmt die Art der obligatorischen Untersuchung (Reihenuntersuchung oder Einzeluntersuchung).
+<sup>3</sup> Schulärztliche Einzeluntersuchungen finden in einer Arztpraxis statt.
 
-#### Artikel 14 c
+## 4 Schulzahnärztin oder Schulzahnarzt
 
-**) Inhalt**
+#### Artikel 14
 
-<sup>1</sup> Die obligatorischen Untersuchungen umfassen die auf dem Schulzahnärztlichen Untersuchungsblatt aufgeführten Punkte.
+**Untersuchung: Zeitpunkt**
 
-<sup>2</sup> Das Ergebnis ist jeweils zusammen mit einer allfälligen Behandlungsempfehlung und einem Kostenvoranschlag auf dem Schulzahnärztlichen Untersuchungsblatt festzuhalten.
+<sup>1</sup> Die Schülerinnen und Schüler werden während der Volksschulzeit pro Schuljahr einmal zahnärztlich untersucht.
+
+<sup>2</sup> Die Schulmedizinische Kommission bestimmt den Zeitraum der Untersuchungen.
 
 #### Artikel 15
 
-**Wahlfreiheit der Erziehungsberechtigten**
+**Untersuchung: Inhalt**
 
-<sup>1</sup> Die Erziehungsberechtigten können anstelle einer Reihenuntersuchung eine Einzeluntersuchung durchführen lassen.
-
-<sup>2</sup> Sie bestimmen die durchführende Zahnärztin oder den durchführenden Zahnarzt. Diese oder dieser muss über eine gültige Berufsausübungsbewilligung verfügen.
-
-<sup>3</sup> Die Erziehungsberechtigten haben die Differenz zu den höheren Kosten selbst zu tragen.
-
-<sup>4</sup> Die obligatorische Untersuchung kann auch im Rahmen einer zahnärztlichen Behandlung durchgeführt werden.
+<sup>1</sup> Die schulzahnärztlichen Untersuchungen konzentrieren sich auf die Feststellung von abklärungsbedürftigen Befunden nach den im schulzahnärztlichen Untersuchungsprogramm aufgeführten Punkten.
 
 #### Artikel 16
 
-**Behandlungskosten**
+**Dokumentation**
 
-Die Kosten für eine allfällige Behandlung sind durch die Erziehungsberechtigten zu tragen.
+<sup>1</sup> Die Zahnärztin oder der Zahnarzt:
+
+- a) dokumentiert das Ergebnis der Untersuchungen
+- b) teilt das Ergebnis der Untersuchungen den Eltern mit, inkl. Empfehlungen für das weitere Vorgehen bei abklärungsbedürftigen Befunden
+- c) bestätigt die Durchführung gegenüber der Schule in Form der Abrechnung
+- d) erstattet am Ende des Schuljahrs Bericht an das Amt für Volksschulen über ihre oder seine schulzahnärztliche Tätigkeit gemäss den Vorgaben der Schulmedizinischen Kommission
+
+<sup>2</sup> Die Schulen melden dem Amt für Volksschulen die Anzahl der abgerechneten schulzahnärztlichen Untersuchungen.
 
 #### Artikel 17
 
-**Vorbeugende Massnahmen**
+**Wahlfreiheit der Erziehungsberechtigten**
 
-<sup>1</sup> Schülerinnen und Schüler sind während dem Kindergarten und der Primarschulzeit zur systematischen Zahn- und Mundpflege anzuleiten.[^17-1]
+<sup>1</sup> Die Erziehungsberechtigten bestimmen die durchführende Zahnärztin oder den durchführenden Zahnarzt. Diese oder dieser muss über eine gültige Berufsausübungsbewilligung verfügen.
 
-<sup>2</sup> Die Schulen können dazu besonders ausgebildete Personen einsetzen.
-
-[^17-1]: Fassung gemäss ERB vom 1. Juni 2011, in Kraft gesetzt auf den 1. Januar 2012 (AB vom 13. Juli 2012).
-
-### 5. Kapitel: ENTSCHÄDIGUNGSGRUNDLAGEN UND ANSÄTZE
+<sup>2</sup> Die Untersuchung kann auch im Rahmen einer zahnärztlichen Behandlung durchgeführt werden.
 
 #### Artikel 18
 
-**Entschädigung der Schulärztinnen und Schulärzte**
+**Behandlungskosten**
 
-<sup>1</sup> Die Schulärztinnen und Schulärzte werden für die obligatorischen Reihenuntersuchungen wie folgt entschädigt[^18-1]:
-
-- a) Tarife gemäss TARMED:
-
-- Kindergarten:Fr. 67.00;
-
-- 4\. Klasse:Fr. 50.00;
-
-- 2\. Oberstufe:Fr. 48.00;
-
-- schriftliche Mitteilung an Eltern:Fr. 16.00;
-
-- Impfempfehlungen: Fr. 8.00 pro Schülerin und Schüler.
-
-- b) eine Grundpauschale pro Jahr und Schulgemeinde von Fr. 200.00, wenn sich die Praxis am selben Ort wie die Schule befindet, oder von Fr. 300.00 in allen übrigen Fällen;
-
-- c) Bericht an den Schulrat:Fr. 1.00 pro Schülerin und Schüler.
-
-<sup>2</sup> Leistungen ausserhalb der obligatorischen Reihenuntersuchungen werden wie folgt entschädigt (Tarife gemäss TARMED)[^18-2]:
-
-- a) schriftliche oder telefonische Auskünfte:erste 5 Min. Fr. 16.00; weitere 5 Min. Fr. 16.00;
-
-- b) zeitaufwendigere Beanspruchungen: erste 5 Min. Fr. 30.00; weitere 5 Min. Fr. 16.00; letzte 5 Min. Fr. 8.00.
-
-<sup>3</sup> Bei den Entschädigungen nach TARMED-Tarifpositionen gelangt der für die Krankenversicherer jeweils geltende Taxpunktwert zur Anwendung.
-
-[^18-1]: Fassung gemäss ERB vom 25. April 2018, in Kraft gesetzt auf den 1. August 2018 (AB vom 25. April 2018).
-[^18-2]: Fassung gemäss ERB vom 25. April 2018, in Kraft gesetzt auf den 1. August 2018 (AB vom 25. April 2018).
-[^18-3]: Fassung gemäss ERB vom 25. April 2018; in Kraft gesetzt auf den 1. August 2018 (AB vom 11. Mai 2018).
+<sup>1</sup> Die Kosten für eine allfällige Behandlung im Nachgang der Untersuchung sind durch die Erziehungsberechtigten zu tragen.
 
 #### Artikel 19
 
-Entschädigung der Schulzahnärztinnen und Schulzahnärzte Die Entschädigung der Schulzahnärztinnen und Schulzahnärzte richtet sich nach dem Tarif der Schweizerischen Zahnärztegesellschaft. Dabei gelangen folgende Tarife zur Anwendung[^18-3]:
+**Vorbeugende Massnahmen**
 
-- a) Reihenuntersuchung mit Kostenvoranschlag:pro Kind Fr. 33.10;
+<sup>1</sup> Die Schulen sorgen dafür, dass Schülerinnen und Schüler während des Kindergartens und der Primarschulzeit zur systematischen Zahn- und Mundpflege angeleitet werden.
 
-- b) Einzeluntersuchung mit Kostenvoranschlag: pro Kind Fr. 48.80.
+<sup>2</sup> Die Schulen setzen dazu besonders ausgebildete Personen ein.
+
+<sup>3</sup> Die Schulen melden dem Amt für Volksschulen jährlich die Anzahl der durchgeführten Prophylaxe-Einsätze.
+
+## 5 Entschädigungsgrundlagen
 
 #### Artikel 20
 
-**Entschädigung der Personen**
+**Entschädigung**
 
-für die Schulzahnpflegeinstruktion
+<sup>1</sup> Die Tarife der Entschädigung der Gesundheitsfachpersonen werden vom Erziehungsrat auf Antrag der Schulmedizinischen Kommission festgelegt und orientieren sich an nationalen Vorgaben und Empfehlungen.
 
-<sup>1</sup> Die Entschädigung der Personen für Schulzahnpflegeinstruktion beträgt pro Lektion à 45 Minuten inkl. 13. Monatslohn und Ferienentschädigung 35 Franken.[^20-1]
-
-<sup>2</sup> Der Ansatz entspricht dem Indexstand der Konsumentenpreise von 100 Punkten gemäss dem Landesindex der Konsumentenpreise per 1. Mai 1993. Der Ansatz wird jährlich so der Teuerung angepasst, wie der Regierungsrat das für die kantonalen Angestellten beschliesst.
-
-[^20-1]: Fassung gemäss ERB vom 22. April 2015, in Kraft gesetzt auf den 1. August 2015 (AB vom 8. Mai 2015).
-
-### 6. Kapitel: SCHLUSSBESTIMMUNG
-
-#### Artikel 21
-
-**Inkrafttreten**
-
-Das Reglement tritt am 1. Januar 2012 in Kraft.
-
-Im Namen des Erziehungsrats
-
-Der Präsident: Josef Arnold Der Sekretär: Dr. Peter Horat
+2026-14
