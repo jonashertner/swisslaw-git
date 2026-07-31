@@ -3,13 +3,12 @@ canton: BE
 number: "435.111.8"
 title: Direktionsverordnung über den Lehrplan Berufsmaturität Gestaltung und Kunst
 language: fr
-version: 2018-01-01
-valid_until: 2026-07-31
-version_adopted: 2018-01-08
+version: 2026-08-01
+version_adopted: 2026-05-26
 adopted: 2026-05-26
 in_force: 2026-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.8"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1491/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3408/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -18,26 +17,54 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1491/pdf_file"
 
 Cet acte législatif n'est disponible qu'en allemand.
 
-du 30.06.2014 (état au 01.01.2018)
+du 26.05.2026 (état au 01.08.2026)
 
-Die Erziehungsdirektion des Kantons Bern,
+Die Bildungs- und Kulturdirektion des Kantons Bern,
 
-gestützt auf Artikel 12 des Gesetzes vom 14. Juni 2005 über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerG)[^ingress-1] und Artikel 35 Absatz 3 der Verordnung vom 9. November 2005 über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerV)[^ingress-2],
+gestützt auf Artikel 35 Absatz 3 der Verordnung vom 9. November 2005 über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerV)[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: BSG [435.11](https://www.belex.sites.be.ch/data/435.11/fr)
-[^ingress-2]: BSG [435.111](https://www.belex.sites.be.ch/data/435.111/fr)
+[^ingress-1]: BSG [435.111](https://www.belex.sites.be.ch/data/435.111/fr)
 
 #### Art. 1
 
-<sup>1</sup> Der im Anhang 1 veröffentlichte Lehrplan Berufsmaturität Gestaltung und Kunst vom 30. Juni 2014, einschliesslich der Änderungen vom 8. Januar 2018, regelt die verbindlichen Inhalte der Ausbildung und gilt für sowohl für kantonale als auch private Bildungsanbieter im Kanton Bern, die eine eidgenössisch anerkannte Berufsmaturitätsausbildung Ausrichtung Gestaltung und Kunst anbieten.
+**Geltungsbereich**
+
+<sup>1</sup> Der im Anhang 1 veröffentlichte Lehrplan Berufsmaturität Gestaltung und Kunst regelt die verbindlichen Inhalte der Ausbildung für den deutschsprachigen Teil des Kantons und gilt sowohl für kantonale als auch private Bildungsanbieterinnen und Bildungsanbieter im Kanton, die eine eidgenössisch anerkannte Berufsmaturitätsausbildung Ausrichtung Gestaltung und Kunst anbieten.
 
 #### Art. 2
 
+**Übergangsbestimmung**
+
+<sup>1</sup> Der bisherige Lehrplan Berufsmaturität Gestaltung und Kunst vom 30. Juni 2014[^2-1] gilt weiterhin
+
+- a für das zweite Ausbildungsjahr: bis am 31. Juli 2027,
+- b für das dritte Ausbildungsjahr: bis am 31. Juli 2028,
+- c für das vierte Ausbildungsjahr: bis am 31. Juli 2029.
+
+<sup>2</sup> Der im Anhang 1 veröffentlichte Lehrplan Berufsmaturität Gestaltung und Kunst ist wie folgt anwendbar:
+
+- a für das erste Ausbildungsjahr: ab dem 1. August 2026,
+- b für das zweite Ausbildungsjahr: ab dem 1. August 2027,
+- c für das dritte Ausbildungsjahr: ab dem 1. August 2028,
+- d für das vierte Ausbildungsjahr: ab dem 1. August 2029.
+
+[^2-1]: BSG [435.111.8](https://www.belex.sites.be.ch/data/435.111.8/fr)
+
+#### Art. 3
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Direktionsverordnung vom 30. Juni 2014 über den Lehrplan Berufsmaturität Gestaltung und Kunst[^3-1] wird aufgehoben.
+
+[^3-1]: BSG [435.111.8](https://www.belex.sites.be.ch/data/435.111.8/fr)
+
+#### Art. 4
+
 **Inkrafttreten**
 
-<sup>1</sup> Diese Direktionsverordnung tritt rückwirkend am 1. Januar 2018 in Kraft.
+<sup>1</sup> Diese Direktionsverordnung tritt am 1. August 2026 in Kraft.
 
 ## A1 Anhang 1
 
@@ -47,12 +74,12 @@ beschliesst:
 
 Er ist auf Internet verfügbar unter:
 
-www.erz.be.ch → Berufsbildung → Berufsmaturität → Dokumente zum Download
+[https://www.bkd.be.ch](https://www.bkd.be.ch) → Themen → Bildung → Berufsbildung → Berufsmaturität → Kantonale Lehrpläne für die Berufsmaturität
 
 [^A11-1]: BSG [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
 
-Bern, 8. Januar 2018
+Bern, 26. Mai 2026
 
-Der Erziehungsdirektor: Pulver
+Die Bildungs- und Kulturdirektorin: Häsler
 
-18-027
+26-031
