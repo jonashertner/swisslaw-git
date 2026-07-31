@@ -4,13 +4,12 @@ number: IV B/31/2
 title: Verordnung über den Vollzug der Gesetzgebung zur Volksschule
 short: "Volksschulvollzugsverordnung, VSVV"
 language: de
-version: 2023-01-01
-valid_until: 2026-07-31
-version_adopted: 2022-12-13
+version: 2026-08-01
+version_adopted: 2026-03-10
 adopted: 2010-02-09
 in_force: 2011-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.31.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2394/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,13 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2394/pdf_file"
 
 (Volksschulvollzugsverordnung, VSVV)
 
-Vom 09.02.2010 (Stand 01.01.2023)
+Vom 09.02.2010 (Stand 01.08.2026)
 
 Der Regierungsrat,
 
-gestützt auf die Artikel 49 Absatz 2, 50 Absatz 2, 51 Absatz 2, 54 Absatz 4, 79, 82 Absatz 3, 93 Absatz 2 und 94 Absatz 3 des Gesetzes über Schule und Bildung (Bildungsgesetz)[^ingress-1], Artikel 2 Absatz 2 Buchstabe a der eidgenössischen Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO) sowie auf Artikel 3 der Volksschulverordnung[^ingress-2],
+gestützt auf das Bildungsgesetz[^ingress-1] sowie auf Artikel 3 der Volksschulverordnung[^ingress-2],
 
-verordnet:
+erlässt:
 
 [^ingress-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
 [^ingress-2]: GS [IV B/31/1](https://gesetze.gl.ch/data/IV-B.31.1/de)
@@ -64,9 +63,7 @@ verordnet:
 
 #### Art. 3
 
-**Altersentlastung der Lehrpersonen bei Teilpensen**
-
-<sup>1</sup> Die Entlastung (Art. 94 Abs. 3 BiG) beträgt bei einem Pensum von 10-20 Lektionen eine Jahreswochenlektion. Grössere Pensen werden mit zwei Lektionen entlastet, Pensen unter zehn Lektionen erhalten keine Entlastung.
+**…**
 
 #### Art. 4
 
@@ -114,7 +111,7 @@ verordnet:
 
 **Kurse in heimatlicher Sprache und Kultur (HSK-Kurse)**
 
-<sup>1</sup> In Zusammenarbeit mit der kantonalen Fachstelle Integration vermitteln die Schulleitungen den Zugang zu Kursen in heimatlicher Sprache und Kultur für fremdsprachige Lernende.
+<sup>1</sup> In Zusammenarbeit mit der kantonalen Fachstelle Gesellschaft vermitteln die Schulleitungen den Zugang zu Kursen in heimatlicher Sprache und Kultur für fremdsprachige Lernende.
 
 #### Art. 10
 
@@ -188,25 +185,13 @@ verordnet:
 
 **Ausbildung**
 
-<sup>1</sup> Mitglieder der Schulleitungen der Volksschulen sollen über eine spezifische, anerkannte Ausbildung oder über eine ausreichende Berufs- und Führungserfahrung verfügen.
+<sup>1</sup> Die Schulleitungen der Volksschulen verfügen über eine spezifische, anerkannte Ausbildung oder über eine ausreichende Berufs- und Führungserfahrung.
 
-<sup>2</sup> Eine Mehrheit der Mitglieder verfügt über eine Lehrbefähigung.
+<sup>2</sup> …
 
-#### Art. 21
+#### Art. 21–22
 
-**Organisation**
-
-<sup>1</sup> Die Gemeinden erlassen über die Organisation und den Geschäftsgang ihrer Schulleitung ein Reglement.
-
-<sup>2</sup> Dieses regelt insbesondere die Zusammensetzung der Schulleitung, die Kompetenzen der hauptverantwortlichen Leitungsperson gegenüber den weiteren Mitgliedern sowie die Abläufe bei förmlichen Entscheiden.
-
-#### Art. 22
-
-**Qualitätsmanagement**
-
-<sup>1</sup> Im Rahmen der pädagogischen Führung ist die Schulleitung verantwortlich für das Qualitätsmanagement in ihrer Schule.
-
-<sup>2</sup> Insbesondere ist sie zur internen Evaluation ihrer Schule sowie zur Zusammenarbeit mit der evaluationsbasierten Schulaufsicht des Kantons verpflichtet.
+**…**
 
 ## 6. Schlussbestimmungen
 
