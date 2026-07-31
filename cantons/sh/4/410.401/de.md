@@ -4,13 +4,13 @@ number: "410.401"
 title: Verordnung über die Arbeitsverhältnisse der Lehrpersonen an den öffentlichen Schulen
 short: Lehrerverordnung
 language: de
-version: 2025-02-01
-valid_until: 2026-07-31
-version_adopted: 2024-06-04
+version: 2026-08-01
+valid_until: 2027-07-31
+version_adopted: 2026-08-18
 adopted: 2005-10-25
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.401"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1973/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2124/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1973/pdf_file"
 
 (Lehrerverordnung)
 
-Vom 25.10.2005 (Stand 01.02.2025)
+Vom 25.10.2005 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -542,7 +542,7 @@ beschliesst:
 <tr><td>100%</td><td>EDK anerkanntes Lehrdiplom der entsprechenden oder höheren Schulstufe</td><td>EDK anerkannter Hochschulabschluss in Sonderpädagogik mit Vertiefungsrichtung Schulische Heilpädagogik</td><td>EDK anerkannter Hochschulabschluss in Logopädie oder Psychomotorik</td></tr>
 <tr><td>95%</td><td>EDK anerkanntes Lehrdiplom einer unteren Schulstufe; Zeugnis über die zweite Staatsprüfung in Deutschland für ein Lehramt der entsprechenden Schulstufe; Vollständiger Besuch eines EDK anerkannten Studiengangs der entsprechenden oder höheren Schulstufe an einer Pädagogischen Hochschule mit teilweise bzw. nicht bestandener Abschlussprüfung während maximal zwei Jahren</td><td>EDK anerkanntes Lehrdiplom der entsprechenden oder höheren Schulstufe; Zeugnis über die zweite Staatsprüfung in Deutschland für ein Lehramt an Sonderschulen / Sonderpädagogik</td><td>---</td></tr>
 <tr><td>90%</td><td>In der Schweiz anerkannter höchstmöglicher Fachabschluss im Unterrichtsfach; Vollständiger Besuch eines EDK anerkannten Studiengangs einer unteren Schulstufe an einer Pädagogischen Hochschule mit teilweise bzw. nicht bestandener Abschlussprüfung während maximal zwei Jahren; Erfolgreicher Abschluss der kantonalen Intensivbegleitung zum Einstieg in den Lehrberuf</td><td>EDK anerkanntes Lehrdiplom einer unteren Schulstufe; Zeugnis über die zweite Staatsprüfung in Deutschland für ein Lehramt der entsprechenden Schulstufe; Vollständiger Besuch eines EDK anerkannten Studiengangs der entsprechenden oder höheren Schulstufe an einer Pädagogischen Hochschule mit teilweise bzw. nicht bestandener Abschlussprüfung während maximal zwei Jahren</td><td>---</td></tr>
-<tr><td>85%</td><td>Ab dem zweiten Jahr der kantonalen Intensivbegleitung zum Einstieg in den Lehrberuf</td><td>In der Schweiz anerkannter höchstmöglicher Fachabschluss im Unterrichtsfach; Vollständiger Besuch eines EDK anerkannten Studiengangs einer unteren Schulstufe an einer Pädagogischen Hochschule mit teilweise bzw. nicht bestandener Abschlussprüfung während maximal zwei Jahren; Erfolgreicher Abschluss der kantonalen Intensivbegleitung zum Einstieg in den Lehrberuf</td><td>---</td></tr>
+<tr><td>85%</td><td>Ab dem zweiten Jahr der kantonalen Intensivbegleitung zum Einstieg in den Lehrberuf; Während der Absolvierung des berufsintegrierten Studiengangs 27+ an der Pädagogischen Hochschule Schaffhausen nach erfolgreichem Abschluss der Eignungsabklärung</td><td>In der Schweiz anerkannter höchstmöglicher Fachabschluss im Unterrichtsfach; Vollständiger Besuch eines EDK anerkannten Studiengangs einer unteren Schulstufe an einer Pädagogischen Hochschule mit teilweise bzw. nicht bestandener Abschlussprüfung während maximal zwei Jahren; Erfolgreicher Abschluss der kantonalen Intensivbegleitung zum Einstieg in den Lehrberuf</td><td>---</td></tr>
 <tr><td>80%</td><td>Keines/r der oben genannten Diplome, Zeugnisse oder Abschlüsse</td><td>Kein EDK anerkanntes Lehrdiplom und kein EDK anerkannter Hochschulabschluss in Sonderpädagogik mit Vertiefungsrichtung Schulische Heilpädagogik</td><td>Kein EDK anerkannter Hochschulabschluss in Logopädie oder Psychomotorik</td></tr>
 </table>
 
@@ -576,7 +576,7 @@ beschliesst:
 <tr><td>2. Jahr kantonale Intensivbegleitung zum Einstieg in den Lehrberuf; Primarschule</td><td>Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum</td><td>---</td><td>100%</td></tr>
 <tr><td>1. Jahr kantonale Intensivbegleitung zum Einstieg in den Lehrberuf; Sekundarstufe I</td><td>Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum</td><td>Pensum bis 16 Jahreslektionen: 3 Jahreslektionen; Pensum zwischen 17 und 22 Jahreslektionen: 4 Jahreslektionen; Pensum ab 23 Jahreslektionen: 5 Jahreslektionen</td><td>100%</td></tr>
 <tr><td>2. Jahr kantonale Intensivbegleitung zum Einstieg in den Lehrberuf; Sekundarstufe I</td><td>Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum</td><td>---</td><td>100%</td></tr>
-<tr><td>Master Schulische Heilpädagogik</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>Kindergartenlehrpersonen: 4.5 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit; Lehrpersonen der Primarschule und der Sekundarstufe I: 6 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
+<tr><td>Master Schulische Heilpädagogik</td><td>Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>Kindergartenlehrpersonen: 4.5 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit; Lehrpersonen der Primarschule und der Sekundarstufe I: 6 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
 <tr><td>Facherweiterung an einer pädagogischen Hochschule</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>1 Jahreslektion</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
 <tr><td>Stufenumstieg an einer pädagogischen Hochschule</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>1 Jahreslektion pro 15 ECTS</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
 <tr><td>Stufenerweiterung an einer pädagogischen Hochschule</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>1 Jahreslektion pro 15 ECTS</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
