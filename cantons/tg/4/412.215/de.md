@@ -4,13 +4,12 @@ number: "412.215"
 title: Verordnung über die Berufsmaturität an den Berufsfachschulen
 short: BbM
 language: de
-version: 2023-02-01
-valid_until: 2026-07-31
-version_adopted: 2022-05-24
+version: 2026-08-01
+version_adopted: 2026-09-22
 adopted: 2015-04-27
 in_force: 2015-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.215"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2622/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3045/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ BbM
 
 (BbM)
 
-vom 27.04.2015 (Stand 01.02.2023)
+vom 27.04.2015 (Stand 01.08.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -193,11 +192,11 @@ vom 27.04.2015 (Stand 01.02.2023)
 
 **Aufnahmeverfahren**
 
-<sup>1</sup> Wer während der beruflichen Grundbildung eine Durchschnittsnote von 5.0 in den schulischen Fächern aufweist und den Berufsmaturitätsunterricht im gleichen Berufsfeld wie die berufliche Grundbildung besuchen will, wird prüfungsfrei zur entsprechenden Ausrichtung BM 2 zugelassen. Mit Abschluss Kaufmann / Kauffrau EFZ genügt ein Durchschnitt von 4.7 für die prüfungsfreie Aufnahme zur BM 2 Wirtschaft und Dienstleistungen, Typ Wirtschaft.
+<sup>1</sup> Wer während der beruflichen Grundbildung eine Durchschnittsnote von 5.0 in den für das Qualifikationsverfahren relevanten schulischen Semesterzeugnisnoten oder eine Gesamtnote des eidgenössischen Fähigkeitszeugnisses von mindestens 5.0 aufweist, wird prüfungsfrei zur BM 2 zugelassen. Mit Abschluss Kaufmann / Kauffrau EFZ genügt ein Durchschnitt von 4.7 in den für das Qualifikationsverfahren relevanten Semesterzeugnisnoten oder der Gesamtnote des eidgenössischen Fähigkeitszeugnisses für die prüfungsfreie Aufnahme zur BM 2 Wirtschaft und Dienstleistungen, Typ Wirtschaft.
 
-<sup>2</sup> Alle übrigen Personen haben eine Aufnahmeprüfung der ausbildenden Schule zu bestehen, welche sich auf die Ausrichtung der Berufsmaturität bezieht. Genügende Vorleistungen können zur Dispensation von einzelnen Teilprüfungen führen. Die Schulen bieten Vorkurse und Beratung an.
+<sup>2</sup> Alle übrigen Personen müssen die Aufnahmeprüfung bestehen. Die Schulen bieten Vorkurse und Beratung an.
 
-<sup>3</sup> Das Amt bestimmt die für die Durchschnittsnote massgebenden Fächer, die massgebenden Berufsfelder zur entsprechenden Ausrichtung der Berufsmaturität, die Fächer der Aufnahmeprüfungen und die anrechenbaren Vorleistungen.
+<sup>3</sup> Das Amt bestimmt die für die Durchschnittsnote gemäss Abs. 1 massgebenden Semesterzeugnisnoten und die Fächer der Aufnahmeprüfung gemäss Abs. 2.
 
 <sup>4</sup> Die Aufnahme erfolgt definitiv.
 
@@ -217,7 +216,11 @@ vom 27.04.2015 (Stand 01.02.2023)
 
 **Organisation der Berufsmaturitätsprüfung**
 
-<sup>1</sup> Die Berufsmaturitätsprüfung wird von der Schulleitung organisiert und in der Regel von den Lehrpersonen abgenommen, welche die Kandidatinnen und Kandidaten in den Prüfungsfächern unterrichtet haben.
+<sup>1</sup> Die Berufsmaturitätsschulen bezeichnen je eine Prüfungskoordinatorin oder einen Prüfungskoordinator.
+
+<sup>2</sup> Die Berufsmaturitätsprüfung wird von den Prüfungskoordinatorinnen und Prüfungskoordinatoren der Berufsmaturitätsschulen organisiert und in der Regel von den Lehrpersonen abgenommen, welche die Kandidatinnen und Kandidaten in den Prüfungsfächern unterrichtet haben.
+
+<sup>3</sup> Wird eine Ausrichtung der Berufsmaturität an mehr als einer Schule im Kanton angeboten, werden die schriftlichen Abschlussprüfungen gemeinsam erstellt und zum gleichen Zeitpunkt durchgeführt. Verantwortlich sind die Prüfungskoordinatorinnen und Prüfungskoordinatoren.
 
 #### § 17
 
@@ -229,7 +232,7 @@ vom 27.04.2015 (Stand 01.02.2023)
 
 **Hilfsmittel**
 
-<sup>1</sup> Die Schulleitung bezeichnet die erlaubten Hilfsmittel.
+<sup>1</sup> Die Prüfungskoordinatorinnen und Prüfungskoordinatoren bezeichnen die erlaubten Hilfsmittel.
 
 #### § 19
 
