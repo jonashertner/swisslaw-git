@@ -4,13 +4,12 @@ number: "150.1"
 title: Dekret zum Personalgesetz
 short: Personaldekret
 language: de
-version: 2026-04-01
-valid_until: 2026-07-31
-version_adopted: 2025-09-11
+version: 2026-08-01
+version_adopted: 2025-04-10
 adopted: 2000-06-08
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.1"
-pdf: "https://bl.clex.ch/api/de/versions/4448/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4448/pdf_file"
 
 (Personaldekret)
 
-Vom 08.06.2000 (Stand 01.04.2026)
+Vom 08.06.2000 (Stand 01.08.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -93,7 +92,7 @@ beschliesst:
 - g. …
 - h. …
 - i. Musikschule — 27 Lektionen,
-- l. Psychomotorik und Logopädie — 27 Lektionen.
+- l. Logopädie — 28 Lektionen.
 
 <sup>1<sup>bis</sup></sup> …
 
