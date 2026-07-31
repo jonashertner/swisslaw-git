@@ -4,13 +4,12 @@ number: IV E/1/3
 title: Verordnung über die Ausbildungs- und Schulgeldbeiträge
 short: Stipendienverordnung
 language: de
-version: 2012-08-01
-valid_until: 2026-07-31
-version_adopted: 2012-06-19
+version: 2026-08-01
+version_adopted: 2026-06-23
 adopted: 2012-06-19
 in_force: 2012-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-E.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/663/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2652/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/663/pdf_file"
 
 (Stipendienverordnung)
 
-Vom 19.06.2012 (Stand 01.08.2012)
+Vom 19.06.2012 (Stand 01.08.2026)
 
 Der Regierungsrat,
 
@@ -35,7 +34,9 @@ verordnet:
 
 <sup>1</sup> Als Beginn eines Ausbildungsjahres gilt jeweils der Monatserste. Während Ausbildungsunterbrüchen werden keine Ausbildungsbeiträge (Beiträge) ausgerichtet.
 
-<sup>2</sup> Die Beitragsberechtigung besteht während der ordentlichen Ausbildungsdauer zuzüglich zwei Semester. Bei Krankheit, Unfall oder Schwangerschaft kann sie verlängert werden.
+<sup>2</sup> Die Beitragsberechtigung besteht während der ordentlichen Ausbildungsdauer zuzüglich zwei Semester. Die ordentliche Ausbildungsdauer ist grundsätzlich die Minimalstudiendauer.
+
+<sup>3</sup> Die Dauer der Beitragsberechtigung kann insbesondere bei Krankheit, Unfall, Schwangerschaft oder familiären Umständen ausnahmsweise verlängert werden.
 
 #### Art. 2
 
@@ -43,7 +44,7 @@ verordnet:
 
 <sup>1</sup> Wird vor Ende des zweiten Ausbildungsjahres die Ausbildung gewechselt, weil sie Fähigkeiten und Neigungen nicht entsprach, werden auch für eine neue Ausbildung Beiträge ausgerichtet.
 
-<sup>2</sup> Erfolgt der Ausbildungswechsel nach dem zweiten Ausbildungsjahr, werden die für mehr als zwei Jahre gewährten Beiträge zu Beginn der neuen ordentlichen Ausbildungsdauer verrechnet.
+<sup>2</sup> Erfolgt der Ausbildungswechsel nach dem zweiten Ausbildungsjahr, werden für die neue Ausbildung Ausbildungsbeiträge ausgerichtet. Bereits ausgerichtete Ausbildungsbeiträge werden dabei, soweit sie den Zeitraum von zwei Ausbildungsjahren übersteigen, zeitlich mit der ordentlichen Ausbildungsdauer der neuen Ausbildung verrechnet. Die Verrechnung erfolgt ab Beginn der neuen Ausbildung.
 
 <sup>3</sup> Nach einem weiteren Ausbildungswechsel werden ausschliesslich Darlehen ausgerichtet. Die Stipendienberechtigung ist erst nach erfolgreichem Abschluss einer Ausbildung wieder gegeben.
 
@@ -69,7 +70,7 @@ verordnet:
 
 <sup>2</sup> Dem Gesuch sind die erforderlichen Unterlagen, insbesondere die aktuellsten Veranlagungsverfügungen der Steuerbehörden, beizulegen.
 
-<sup>3</sup> Für verspätet eingereichte Gesuche werden Stipendien nur für die Zeit von der Einreichung bis zum Ende des Ausbildungsjahres ausgerichtet, wobei auf ganze Monate abgerundet wird. Die beitragsberechtigte Zeit muss mindestens drei Monate betragen.
+<sup>3</sup> Für verspätet eingereichte Gesuche werden Stipendien nur für die Zeit von der Einreichung bis zum Ende des Ausbildungsjahres ausgerichtet, wobei auf ganze Monate abgerundet wird. Die beitragsberechtigte Zeit muss mindestens drei Monate betragen. In begründeten Fällen kann die Fachstelle zugunsten der gesuchstellenden Person von den Regeln in diesem Artikel abweichen.
 
 #### Art. 5
 
@@ -104,15 +105,15 @@ verordnet:
 
 **Lehrmittel, Schulmaterial und Gebühren**
 
-<sup>1</sup> Anrechenbar sind für Lehrmittel und Schulmaterial die effektiven Kosten, jedoch höchstens 1500 Franken für Vollzeitbildungsgänge auf tertiärer Stufe, für alle anderen Bildungsgänge 500 Franken.
+<sup>1</sup> Anrechenbar sind für Lehrmittel, Schulmaterial und Gebühren die effektiven Kosten, jedoch höchstens 1500 Franken.
 
-<sup>2</sup> Für Studien- oder Bildungsganggebühren sind es die effektiven Kosten, jedoch höchstens 1500 Franken.
+<sup>2</sup> …
 
 #### Art. 9
 
 **Erhöhte Schul- und Studiengelder gemäss Artikel 12 Absatz 2 Stipendiengesetz**
 
-<sup>1</sup> Ein Schul- und Studiengeld von mindestens 1500 Franken wird bis zu 8000 Franken angerechnet, wenn es die Lernenden selber zu tragen haben.
+<sup>1</sup> Ein Schul- und Studiengeld von mindestens 1500 Franken wird bis zu 8500 Franken angerechnet, wenn es die Lernenden selber zu tragen haben.
 
 #### Art. 10
 
@@ -120,8 +121,8 @@ verordnet:
 
 <sup>1</sup> Folgende Kosten werden angerechnet:
 
-- a. für «Kost und Logis auswärts» die tatsächlichen Kosten bis höchstens 11’300 Franken, davon maximal 5900 Franken für Kost und 5400 Franken für Logis;
-- b. für «Kost und Logis bei den Eltern mit mindestens fünf Mittagessen pro Woche auswärts» maximal 3300 Franken.
+- a. für «Kost und Logis auswärts» die tatsächlichen Kosten bis höchstens 12 900 Franken, davon maximal 6300 Franken für Kost und 6600 Franken für Logis;
+- b. für «Kost und Logis bei den Eltern mit mindestens fünf Mittagessen pro Woche auswärts» maximal 3500 Franken.
 
 <sup>2</sup> Es wird geprüft, ob die «Wegstrecke Wohnort Eltern – Ausbildungsort» im Tagespendelbereich liegt und eine Heimkehr zur Einnahme des Mittagessens zumutbar ist. Ausbildungszeiten sowie Wohnverhältnisse der Eltern sind zu berücksichtigen.
 
@@ -141,14 +142,14 @@ verordnet:
 
 <sup>1</sup> Für Kleider und Wäsche, Körperpflege, Versicherungen, Kultur und weitere Auslagen werden pauschal angerechnet:
 
-- a. 2000 Franken für stipendienberechtigte Personen in Ausbildung auf Sekundarstufe II;
-- b. 3000 Franken für alle übrigen stipendienberechtigten Personen.
+- a. 2100 Franken für stipendienberechtigte Personen in Ausbildung auf Sekundarstufe II;
+- b. 3200 Franken für alle übrigen stipendienberechtigten Personen.
 
 #### Art. 13
 
 **Eigene Kinder**
 
-<sup>1</sup> Bei stipendienberechtigten Personen, die für den Unterhalt von Kindern aufkommen müssen, werden zusätzliche Lebenshaltungskosten von 5000 Franken je Kind angerechnet.
+<sup>1</sup> Bei stipendienberechtigten Personen, die für den Unterhalt von Kindern aufkommen müssen, werden zusätzliche Lebenshaltungskosten von 5300 Franken je Kind angerechnet.
 
 ### 2.3. Anrechenbare Jahreseinnahmen
 
@@ -156,29 +157,31 @@ verordnet:
 
 **Eigenverdienst**
 
-<sup>1</sup> Vom Lehrlingslohn oder einer anderen vertraglichen Entschädigung sind jährlich 1700 Franken frei. Der übersteigende Bruttoerwerb wird als Einnahme angerechnet. Ein allfälliger 13. Monatslohn oder eine Gratifikation werden nicht angerechnet.
+<sup>1</sup> Vom Lehrlingslohn oder einer anderen vertraglichen Entschädigung sind jährlich 3600 Franken frei. Der übersteigende Bruttoerwerb wird als Einnahme angerechnet. Ein allfälliger 13. Monatslohn oder eine Gratifikation werden nicht angerechnet.
 
 <sup>2</sup> Bei Teilzeitausbildungen wird das Einkommen aus Erwerbstätigkeit einbezogen. Wird keiner Erwerbstätigkeit nachgegangen, wird ein zumutbares Einkommen angerechnet, wobei ein Betrag gemäss Absatz 1 frei ist.
+
+<sup>3</sup> Nach dem Bologna-System entspricht ein Vollzeitstudium einem Arbeitsaufwand von mindestens 60 ECTS-Punkten pro Studienjahr. Liegt der jährliche Erwerb an ECTS-Punkten darunter, kann ein zumutbares Einkommen angerechnet werden, wobei ein Betrag gemäss Absatz 1 frei ist.
 
 #### Art. 15
 
 **Vermögensanrechnung**
 
-<sup>1</sup> Das Reinvermögen der stipendienberechtigten Person ist bis zu 15 000 Franken frei. 20 Prozent des darüber liegenden Betrages wird als Einnahme angerechnet.
+<sup>1</sup> Das Reinvermögen der stipendienberechtigten Person ist bis zu 16 000 Franken frei. 20 Prozent des darüber liegenden Betrages wird als Einnahme angerechnet.
 
 #### Art. 16
 
 **Einkommen des Ehepartners**
 
-<sup>1</sup> Verheirateten und in eingetragener Partnerschaft lebenden stipendienberechtigten Personen werden vom Bruttoerwerb des Partners 50 000 Franken für dessen Lebensunterhalt und 5000 Franken je Kind zugestanden. Liegt der Bruttoerwerb des Partners höher, gilt die Differenz vollumfänglich als Einnahme.
+<sup>1</sup> Verheirateten und in eingetragener Partnerschaft lebenden stipendienberechtigten Personen werden vom Bruttoerwerb des Partners 53 000 Franken für dessen Lebensunterhalt und 5300 Franken je Kind zugestanden. Liegt der Bruttoerwerb des Partners höher, gilt die Differenz vollumfänglich als Einnahme.
 
 #### Art. 17
 
-**Beitrag der verheirateten Eltern**
+**Berechnungsgrundlage Elternbeitrag**
 
 <sup>1</sup> Massgebend sind das Reineinkommen der Eltern gemäss Veranlagungsverfügung für die direkte Bundessteuer und deren satzbestimmendes Vermögen gemäss Veranlagungsverfügung der Kantonssteuer.
 
-<sup>2</sup> Fehlen diese Veranlagungsverfügungen oder liegen sie mehr als zwei Jahre zurück, sind die massgeblichen Verhältnisse anders nachzuweisen.
+<sup>2</sup> Fehlen diese Veranlagungsverfügungen oder liegt die veranlagte Steuerperiode mehr als zwei Jahre zurück, sind die massgeblichen Verhältnisse anders nachzuweisen.
 
 <sup>3</sup> Werden die Einkommens- und Vermögensverhältnisse der Eltern nicht nachgewiesen, wird je nicht nachgewiesenen Elternteil ein Reineinkommen von mindestens 70 000 Franken angenommen.
 
@@ -194,7 +197,7 @@ verordnet:
 
 #### Art. 18
 
-**Beitrag getrennter, geschiedener oder wiederverheirateter Eltern**
+**Besonderheiten bei getrennten, geschiedenen oder wiederverheirateten Eltern**
 
 <sup>1</sup> Sind die Eltern getrennt oder geschieden, wird von den massgebenden Steuerzahlen des Elternteils ausgegangen, welcher für die stipendienberechtigte Person keine Alimente leistet. Zu dessen Einkünften werden alle Renten, direkt geleistete sowie bevorschusste Alimente für die stipendienberechtigte Person und deren Geschwister hinzugezählt.
 
@@ -214,13 +217,13 @@ verordnet:
 
 <sup>1</sup> Der errechnete Basisbetrag ergibt folgenden zumutbaren Elternbeitrag:
 
-- a. keine Anrechnung bis 45 000 Franken;
-- b. 200 Franken für je weitere 1000 Franken bis und mit 52 000 Franken;
-- c. 300 Franken für je weitere 1000 Franken bis und mit 74 000 Franken;
-- d. 400 Franken für je weitere 1000 Franken bis und mit 80 000 Franken;
+- a. keine Anrechnung bis 48 000 Franken;
+- b. 200 Franken für je weitere 1000 Franken bis und mit 55 000 Franken;
+- c. 300 Franken für je weitere 1000 Franken bis und mit 79 000 Franken;
+- d. 400 Franken für je weitere 1000 Franken bis und mit 85 000 Franken;
 - e. 500 Franken für je weitere 1000 Franken.
 
-<sup>2</sup> Ist gemäss Stipendiengesetz ein reduzierter Elternbeitrag zu berücksichtigen, wird der errechnete Basisbetrag um 60 000 Franken reduziert.
+<sup>2</sup> Ist gemäss Stipendiengesetz ein reduzierter Elternbeitrag zu berücksichtigen, wird der errechnete Basisbetrag um 64 000 Franken reduziert.
 
 #### Art. 21
 
@@ -228,13 +231,13 @@ verordnet:
 
 <sup>1</sup> Die stipendienberechtigte Person und die Geschwister, welche sich in nachobligatorischer Erstausbildung befinden, haben gleiche Anteile am zumutbaren Elternbeitrag.
 
-<sup>2</sup> Geschwister in Teilzeitausbildungen werden nur einbezogen, wenn ihr monatliches Bruttoeinkommen 2000 Franken nicht übersteigt.
+<sup>2</sup> Geschwister in Teilzeitausbildungen werden nur einbezogen, wenn ihr monatliches Bruttoeinkommen 2700 Franken nicht übersteigt.
 
 #### Art. 22
 
 **Kinderreiche Familien**
 
-<sup>1</sup> Bei Familien mit vier oder mehr Kindern sinkt der zumutbare Elternbeitrag um 2000 Franken je Kind, solange mindestens vier Kinder ihre Erstausbildung noch nicht abgeschlossen haben.
+<sup>1</sup> Bei Familien mit vier oder mehr Kindern sinkt der zumutbare Elternbeitrag um 2100 Franken je Kind, solange mindestens vier Kinder ihre Erstausbildung noch nicht abgeschlossen haben.
 
 ### 2.4. Berechnung und Auszahlung
 
@@ -258,11 +261,11 @@ verordnet:
 
 **Höchstlimite Einnahmen**
 
-<sup>1</sup> Stipendien von Kanton und Bund, Stipendien Dritter sowie übrige Einnahmen dürfen zusammen 23 000 Franken nicht übersteigen.
+<sup>1</sup> Stipendien von Kanton und Bund, Stipendien Dritter sowie übrige Einnahmen dürfen zusammen 28 000 Franken nicht übersteigen.
 
 <sup>2</sup> Entrichten Gesuchstellende höhere Schul- und Studiengelder gemäss Artikel 9, so erhöht sich die Limite im entsprechenden Umfang.
 
-<sup>3</sup> Für Personen, die für den Unterhalt von Kindern aufkommen müssen, erhöht sich die Limite um 5000 Franken je Kind.
+<sup>3</sup> Für Personen, die für den Unterhalt von Kindern aufkommen müssen, erhöht sich die Limite um 5300 Franken je Kind.
 
 #### Art. 26
 
@@ -302,19 +305,19 @@ verordnet:
 
 **Einkünfte und Vermögen**
 
-<sup>1</sup> Das Total der Einkünfte der Eltern gemäss Veranlagungsverfügung für die direkte Bundessteuer darf 100 000 Franken und deren Reinvermögen 300 000 Franken nicht übersteigen.
+<sup>1</sup> Das satzbestimmende Einkommen der Eltern gemäss Veranlagungsverfügung für die direkte Bundessteuer darf 106 000 Franken und deren Reinvermögen 318 000 Franken nicht übersteigen.
 
-<sup>2</sup> Werden weitere Geschwister in Ausbildung unterstützt, so erhöhen sich diese Beträge je Kind um 20 000 Franken (Einkommen) respektive 100 000 Franken (Vermögen).
+<sup>2</sup> Werden weitere Geschwister in Ausbildung unterstützt, so erhöhen sich diese Beträge je Kind um 21 000 Franken (Einkommen) respektive 106 000 Franken (Vermögen).
 
 #### Art. 31
 
 **Höchstansätze**
 
-<sup>1</sup> Für Personen, welche Stipendien erhalten, können höchstens 10 000 Franken, für alle übrigen Personen höchstens 15 000 Franken Darlehen je Ausbildungsjahr gewährt werden.
+<sup>1</sup> Für Personen, welche Stipendien erhalten, können höchstens 11 000 Franken, für alle übrigen Personen höchstens 16 000 Franken Darlehen je Ausbildungsjahr gewährt werden.
 
 <sup>2</sup> Die Summe von Darlehen und Stipendien darf je Jahr die Höchstlimite gemäss Artikel 25 nicht übersteigen.
 
-<sup>3</sup> Total werden höchstens 60 000 Franken je Person gewährt.
+<sup>3</sup> Total werden höchstens 64 000 Franken je Person gewährt.
 
 #### Art. 32
 
@@ -372,6 +375,12 @@ verordnet:
 
 <sup>2</sup> Die Rückzahlung von altrechtlichen Darlehen untersteht insoweit dem neuen Recht, als ab Eintritt der altrechtlichen Rückzahlungspflicht die Fachstelle Abzahlungsvereinbarungen abschliessen und die Verzinsung dem neuen Recht unterstellen kann.
 
+#### Art. 37a
+
+**Übergangsbestimmung zur Änderung vom 23. Juni 2026**
+
+<sup>1</sup> Für Gesuche ab dem 1. August 2026 gilt das neue Recht.
+
 #### Art. 38
 
 **Anpassung an die Teuerung**
@@ -381,6 +390,17 @@ verordnet:
 <sup>2</sup> Stattdessen können die auszuzahlenden Beiträge im Umfang der Teuerung erhöht werden, wenn damit unverhältnismässiger Verwaltungsaufwand vermieden wird.
 
 <sup>3</sup> Mit Inkrafttreten dieser Verordnung ist der Landesindex für Konsumentenpreise (Basis Dezember 2010 = 100 Punkte) auf dem Stand von 98,9 Punkten ausgeglichen.
+
+#### Art. 38a
+
+**Anpassung an die Teuerung vom 23. Juni 2026**
+
+<sup>1</sup> Mit Inkrafttreten der Änderung vom 23. Juni 2026 ist der Landesindex für Konsumentenpreise (Basis Dezember 2010 = 100 Punkte) auf dem Stand von 105,0 Punkten per Ende November 2025 ausgeglichen.
+
+<sup>2</sup> Infolge dieser Teuerungsanpassung werden die Maximalbeträge in Artikel 12 Absatz 1 des Stipendiengesetzes wie folgt geändert und direkt in das Stipendiengesetz eingefügt:
+
+- a. für eine in Ausbildung stehende Person 17 000 Franken;
+- b. für Personen, die für den Unterhalt von Kindern aufkommen müssen, erhöht sich der Maximalbetrag um 5300 Franken pro Kind.
 
 #### Art. 39
 
