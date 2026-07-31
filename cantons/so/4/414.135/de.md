@@ -3,20 +3,19 @@ canton: SO
 number: "414.135"
 title: Aufnahmereglement für die Fachmittelschule
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-06-28
+version: 2026-08-01
+version_adopted: 2026-03-01
 adopted: 2012-09-07
 in_force: 2013-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.135"
-pdf: "https://bgs.so.ch/api/de/versions/5374/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Aufnahmereglement für die Fachmittelschule
 
-Vom 07.09.2012 (Stand 01.08.2023)
+Vom 07.09.2012 (Stand 01.08.2026)
 
 Das Departement für Bildung und Kultur
 
@@ -81,13 +80,13 @@ beschliesst:
 
 **Empfehlung der bisherigen Schule**
 
-<sup>1</sup> Die bisherige Schule bewertet die Eignung der Schülerin oder des Schülers anhand von vorgegebenen Kriterien mit den Punktzahlen 1 (empfohlen) und 0 (nicht empfohlen).
+<sup>1</sup> …
 
 #### § 8
 
 **Aufnahmeentscheid**
 
-<sup>1</sup> Aufgenommen wird, wer an der Prüfung in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) zusammen mit der Empfehlung der bisherigen Schule mindestens 16 Punkte erreicht.
+<sup>1</sup> Aufgenommen wird, wer an der Prüfung in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) mindestens 16 Punkte erreicht.
 
 <sup>2</sup> Über die Prüfungsergebnisse entscheidet die Konferenz der Mitglieder der Korrekturteams unter dem Vorsitz der Abteilungsleitung der Fachmittelschule.
 
