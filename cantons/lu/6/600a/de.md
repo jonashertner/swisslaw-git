@@ -4,13 +4,12 @@ number: 600a
 title: Verordnung zum Gesetz über die Steuerung der Finanzen und Leistungen
 short: FLV
 language: de
-version: 2025-12-31
-valid_until: 2026-07-31
-version_adopted: 2025-03-18
+version: 2026-08-01
+version_adopted: 2026-06-30
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/600a"
-pdf: "https://srl.lu.ch/api/de/versions/4725/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4839/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4725/pdf_file"
 
 (FLV)
 
-vom 17.12.2010 (Stand 31.12.2025)
+vom 17.12.2010 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -370,7 +369,8 @@ beschliesst:
 - 1\. die Luzerner Pensionskasse,
 - 2\. die Hochschule Luzern,
 - 3\. die Luzerner Kantonalbank AG,
-- 4\. die Luzerner Kantonsspital AG.
+- 4\. die Luzerner Kantonsspital AG,
+- 5\. die Immobilien Campus Luzern-Horw AG.
 
 #### § 27b
 
