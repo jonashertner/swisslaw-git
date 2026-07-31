@@ -4,13 +4,12 @@ number: "422.200"
 title: Gesetz über die Berufs- und Weiterbildung
 short: GBW
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2024-11-05
+version: 2026-08-01
+version_adopted: 2025-09-23
 adopted: 2007-03-06
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3834/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3949/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3834/pdf_file"
 
 (GBW)
 
-Vom 06.03.2007 (Stand 01.01.2026)
+Vom 06.03.2007 (Stand 01.08.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -165,6 +164,16 @@ beschliesst:
 
 <sup>2</sup> Die Kosten des schulärztlichen Diensts gehen zu Lasten der Schulbetriebsrechnung.
 
+#### § 10a
+
+**Spitalschulung**
+
+<sup>1</sup> Für Lernende mit längerem oder wiederkehrendem Spitalaufenthalt ist eine angemessene Beschulung zu gewährleisten.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten zur Nutzung des Angebots durch Verordnung.
+
+<sup>3</sup> Der Kanton übernimmt die Kosten für die Beschulung vollumfänglich.
+
 #### § 11
 
 **Aufsicht**
@@ -174,6 +183,18 @@ beschliesst:
 <sup>2</sup> …
 
 <sup>3</sup> Der Regierungsrat regelt die Aufsichtsmassnahmen; er kann namentlich Zwischenprüfungen vorsehen.
+
+#### § 11a
+
+**Bildungs-Identität**
+
+<sup>1</sup> Die Bildungs-Identität ist eine eindeutige und unveränderliche Nutzungs-Identität, die der sicheren Authentisierung der Nutzenden und dem sicheren Zugang zu digitalen Dienstleistungen in der beruflichen Grundbildung dient.
+
+<sup>2</sup> Der Kanton kann Lernende, Lehrpersonen, Mitglieder der Schulleitungen sowie weitere Personen der Anbieter der beruflichen Grundbildung mit einer Bildungs-Identität ausstatten.
+
+<sup>3</sup> Das zuständige Departement kann mit anderen Kantonen oder Dritten zusammenarbeiten. Es stellt sicher, dass die Datenhoheit über die erfassten Daten bei den Nutzenden verbleiben.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten zur Bildungs-Identität durch Verordnung, insbesondere welche weiteren Personen damit ausgestattet werden können.
 
 ### 2.2. Anbieter der beruflichen Grundbildung
 
@@ -493,17 +514,60 @@ beschliesst:
 
 <sup>1</sup> Das Departement Bildung, Kultur und Sport kann Berufsbildungsverantwortliche, namentlich Prüfungsexpertinnen und Prüfungsexperten, zu Kursen aufbieten, sofern sie dazu nicht vom Bund aufgeboten werden.
 
-## 7. Berufs-, Studien- und Laufbahnberatung
+## 7. Beratungsangebote für Ausbildung und Beruf
 
 #### § 42
 
 **Kantonales Angebot**
 
-<sup>1</sup> Die Berufs-, Studien- und Laufbahnberatung ist in § 61 des Schulgesetzes vom 17. März 1981[^42-1] geregelt.
+<sup>1</sup> Der Kanton sorgt für bedarfsgerechte Beratungsangebote für Ausbildung und Beruf. Dazu gehören die Berufs-, Studien- und Laufbahnberatung sowie die jugendpsychologische Beratung an der Sekundarstufe II.
 
-<sup>2</sup> Zusätzlich zu den dort festgehaltenen Aufgaben kann sie Interessierte bei der Erstellung von individuellen Qualifikationsnachweisen unterstützen. Diese Dienstleistung ist gebührenpflichtig.
+<sup>1<sup>bis</sup></sup> Die Berufs-, Studien- und Laufbahnberatung
 
-[^42-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+- a) unterstützt und berät Jugendliche, Erwachsene und beteiligte Bezugspersonen in Fragen der Bildungs-, Berufs- und Studienwahl, der Weiterbildung, der Neuorientierung, der Laufbahngestaltung und der Anrechnung von Bildungsleistungen,
+- b) informiert umfassend über das Bildungsangebot und sorgt für die Bereitstellung von Informationsmitteln,
+- c) arbeitet mit den Bildungsinstitutionen, den Betrieben und den Organisationen der Arbeitswelt zusammen und
+- d) stimmt das Leistungsangebot mit den Massnahmen der Arbeitsmarktbehörden und anderer Institutionen im Bereich der beruflichen Integration ab.
+
+<sup>2</sup> …
+
+<sup>3</sup> Die jugendpsychologische Beratung an der Sekundarstufe II beinhaltet insbesondere folgende Aufgaben:
+
+- a) Beurteilung, Beratung und Begleitung der Jugendlichen bei Lern- und Leistungsbesonderheiten sowie bei psychischen und psychosozialen Schwierigkeiten, die sich im schulischen oder beruflichen Umfeld zeigen oder sich darauf auswirken,
+- b) Beratung und Unterstützung der Bezugspersonen in Lehrbetrieben, Schulen und Behörden insbesondere in Konflikt- und Krisensituationen sowie in Notfällen und
+- c) Öffentlichkeitsarbeit zu lern- und entwicklungspsychologischen Fragestellungen.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung. Er kann die Standorte der Beratungsstellen festlegen.
+
+#### § 42a
+
+**Unentgeltliches Grundangebot, Kostenpflicht**
+
+<sup>1</sup> Der Regierungsrat bestimmt durch Verordnung diejenigen Leistungen, die im Sinne eines Grundangebots unentgeltlich sind.
+
+<sup>2</sup> Er kann durch Verordnung den Bezug von Leistungen begrenzen und für darüberhinausgehende Bezüge eine Kostenpflicht einführen. Zudem kann er vorsehen, dass Personen in bescheidenen wirtschaftlichen Verhältnissen die Kosten teilweise oder ganz erlassen werden.
+
+<sup>3</sup> Leistungen, die nicht zum Grundangebot gehören, sind zu Vollkosten deckenden Preisen anzubieten.
+
+#### § 42b
+
+**Auslagerung**
+
+<sup>1</sup> Der Regierungsrat kann die Führung der Beratungsangebote durch Leistungsverträge öffentlichen oder privaten Anbietenden übertragen.
+
+<sup>2</sup> Er regelt die Einzelheiten durch Verordnung.
+
+#### § 42c
+
+**Verschwiegenheit**
+
+<sup>1</sup> Die Mitarbeitenden des Jugendpsychologischen Dienstes sind zur Verschwiegenheit verpflichtet.
+
+<sup>2</sup> Die Schweigepflicht wird durch die Einwilligung der dazu berechtigten Person oder mit schriftlicher Ermächtigung durch das zuständige Departement aufgehoben.
+
+<sup>3</sup> Vorbehalten sind gesetzliche Melde- und Mitwirkungsrechte und ‑pflichten sowie Absatz 4.
+
+<sup>4</sup> In Fällen von häuslicher Gewalt kann der Jugendpsychologische Dienst die Anlaufstelle gegen häusliche Gewalt informieren und ihr gegenüber auch ohne Einwilligung der berechtigten Person Akten offenlegen.
 
 ## 8. Finanzierung
 
