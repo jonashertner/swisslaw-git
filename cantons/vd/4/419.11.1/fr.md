@@ -4,7 +4,7 @@ number: "419.11.1"
 title: RÈGLEMENT du 03.06.2009 d’application de la loi du 12 décembre 2007 sur la Haute école pédagogique (RLHEP)
 short: RLHEP
 language: fr
-version: 2020-01-01
+version: 2026-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.11.1?id=97270429-01f6-4a3b-b765-29c9fbf3883e"
 ---
 
@@ -1254,12 +1254,12 @@ arrête
 
 **Décisions sujettes à recours [^chapterChapitreVII-1]**
 
-<sup>1</sup> La Commission de recours (ci-après : la Commission) connaît des recours contre les décisions du Comité de direction qui concernent notamment :
+<sup>1</sup> La Commission de recours (ci-après : La Commission) connaît des recours contre les décisions rendues sur réclamation par le Comité de Direction.
 
-- a. les équivalences de titres à l'admission ;
-- b. les admissions ;
-- c. les résultats d'examens, de stages et de mémoire ;
-- d. les sanctions disciplinaires.
+- a. ...
+- b. ...
+- c. ...
+- d. ...
 
 [^chapterChapitreVII-1]: Modif. 6 du 01.07.2026: Modification Al. 1; entrée en vigueur au 01.08.2026; Abrogation Al. 1, a-d; entrée en vigueur au 01.08.2026
 
