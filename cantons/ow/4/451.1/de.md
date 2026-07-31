@@ -4,13 +4,12 @@ number: "451.1"
 title: Kulturgesetz
 short: KuG
 language: de
-version: 2016-07-01
-valid_until: 2026-07-31
-version_adopted: 2016-03-10
+version: 2026-08-01
+version_adopted: 2025-05-22
 adopted: 2016-03-10
 in_force: 2016-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/451.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1716/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2018/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1716/pdf_file"
 
 (KuG)
 
-vom 10.03.2016 (Stand 01.07.2016)
+vom 10.03.2016 (Stand 01.08.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -78,7 +77,8 @@ beschliesst:
 - g. beantragt dem Kantonsrat die Ausrichtung von jährlich wiederkehrenden Ausgaben an Kantone mit Kultureinrichtungen von überregionaler Bedeutung, soweit die Ausgabenbefugnis des Regierungsrats überschritten wird;
 - h. beantragt dem Kantonsrat den Beitritt zu interkantonalen Vereinbarungen, soweit die Ausgabenbefugnis des Regierungsrats überschritten wird;
 - i. beschliesst innerhalb des Budgetkredits jährlich wiederkehrende Ausgaben an interkantonale oder kantonale Projekte bis Fr. 50 000.– ;
-- k. beschliesst innerhalb des Budgetkredits einmalige Beiträge an interkantonale oder kantonale Projekte und Kulturinstitutionen bis Fr. 200 000.–.
+- k. beschliesst innerhalb des Budgetkredits einmalige Beiträge an interkantonale oder kantonale Projekte und Kulturinstitutionen bis Fr. 200 000.–;
+- l. schliesst eine vertragliche Regelung mit der Einwohnergemeinde Sarnen ab betreffend Beteiligung an den Betriebskosten der Kantonsbibliothek gemäss Art. 20 Abs. 2 dieses Gesetzes.
 
 <sup>2</sup> Er erlässt die zum Vollzug erforderlichen Ausführungsbestimmungen. Er regelt insbesondere:
 
@@ -342,5 +342,9 @@ Botschaft und Vorlage des Regierungsrats vom 23. Juni 2015, Kantonsratssitzungen
 Aufgehobener Erlass:
 
 \- Verordnung über die Kulturförderung und Kulturpflege [Kulturverordnung] vom 25. April 1985 (OGS 1986, 59, OGS 1991, 5, OGS 1993, 88, OGS 1999, 4, OGS 2007, 13)
+
+Geändert durch:
+
+\- Nachtrag zum Bildungsgesetz vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, in Kraft seit 1. August 2026 (ABl vom 2. April 2026).
 
 OGS 2016, 17
