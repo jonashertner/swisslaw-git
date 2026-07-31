@@ -4,13 +4,12 @@ number: "531.210"
 title: Dekret über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeidekret, PolD"
 language: de
-version: 2016-01-01
-valid_until: 2026-07-31
-version_adopted: 2015-08-25
+version: 2026-08-01
+version_adopted: 2025-09-23
 adopted: 2005-12-06
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.210"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3749/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3952/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3749/pdf_file"
 
 (Polizeidekret, PolD)
 
-Vom 06.12.2005 (Stand 01.01.2016)
+Vom 06.12.2005 (Stand 01.08.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -146,7 +145,7 @@ beschliesst:
 - i) Nichtgenügen der Meldepflicht im Zusammenhang mit Parkiermanövern gemäss Art. 51 in Verbindung mit Art. 90 des Strassenverkehrsgesetzes (SVG) vom 19. Dezember 1985[^4b-9],
 - k) Diebstähle und Sachbeschädigungen von Fahrrädern sowie Motorfahrrädern gemäss den Art. 139 und 144 StGB,
 - l) unrechtmässiges Erwirken von Leistungen gemäss § 59 Abs. 1 des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^4b-10],
-- m) Übertretungen gemäss den §§ 36a und 37 des Schulgesetzes vom 17. März 1981[^4b-11].
+- m) Übertretungen gemäss den §§ 125 und 126 des Volksschulgesetzes (VSG) vom 23. September 2025[^4b-11].
 
 [^4b-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 [^4b-2]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de)
@@ -158,7 +157,7 @@ beschliesst:
 [^4b-8]: SR [272](https://db.clex.ch/link/Bund/272/de)
 [^4b-9]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
 [^4b-10]: SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de)
-[^4b-11]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^4b-11]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 
 #### § 5
 
