@@ -3,22 +3,21 @@ canton: SO
 number: "416.113.1"
 title: Reglement über die Berufsmaturität
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-07-01
+version: 2026-08-01
+version_adopted: 2026-03-01
 adopted: 2013-06-05
 in_force: 2014-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.113.1"
-pdf: "https://bgs.so.ch/api/de/versions/5549/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-Vom 05.06.2013 (Stand 01.08.2025)
+Vom 05.06.2013 (Stand 01.08.2026)
 
-Das Departement für Bildung und Kultur des Kantons Solothurn
+Das Departement für Bildung, Kultur und Sport des Kantons Solothurn
 
 gestützt auf die Artikel 8 Absatz 2, 14 Absatz 1, 20 Absatz 1, 27 Absatz 2 und 34 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^ingress-1] sowie § 44 Absatz 1 Buchstabe a des Gesetzes über die Berufsbildung (GBB) vom 3. September 2008[^ingress-2]
 
@@ -85,19 +84,13 @@ erlässt:
 
 #### § 6
 
-**Empfehlung der bisherigen Schule**
-
-<sup>1</sup> Die bisherige Schule bewertet die Eignung der Lernenden für den Berufsmaturitätsunterricht anhand vorgegebener Kriterien mit den Punktzahlen 1 (empfohlen) und 0 (nicht empfohlen).
-
-<sup>2</sup> Bei Lernenden, die keine Empfehlung beibringen können, beträgt die Punktzahl 0.
-
-<sup>3</sup> Bei gelernten Berufsleuten wird keine Empfehlung berücksichtigt.
+**…**
 
 #### § 7
 
 **Bestehen der Aufnahmeprüfung**
 
-<sup>1</sup> Die Prüfung besteht, wer in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) zusammen mit der Empfehlung der bisherigen Schule mindestens 16 Punkte erreicht.
+<sup>1</sup> Die Prüfung besteht, wer in den Fächern Deutsch, Fremdsprachen (ungerundeter Durchschnitt aus Französisch und Englisch) und Mathematik (doppelt gezählt) mindestens 16 Punkte erreicht.
 
 <sup>2</sup> …
 
@@ -117,11 +110,11 @@ erlässt:
 
 #### § 9
 
-**Aufnahmeverfahren in Zusammenarbeit mit der Fachmittelschule**
+**Aufnahmeverfahren in Zusammenarbeit mit der Fachmittelschule und dem Gymnasium**
 
-<sup>1</sup> Die Berufsmaturitätskonferenz koordiniert das Aufnahmeverfahren mit der Fachmittelschule.
+<sup>1</sup> Die Berufsmaturitätskonferenz koordiniert das Aufnahmeverfahren mit der Fachmittelschule und dem Gymnasium.
 
-<sup>2</sup> Sie erarbeitet gemeinsam mit der Fachmittelschule die Aufnahmeprüfung, wertet sie aus und entwickelt sie weiter.
+<sup>2</sup> Sie erarbeitet gemeinsam mit der Fachmittelschule und dem Gymnasium die Aufnahmeprüfung, wertet sie aus und entwickelt sie weiter.
 
 #### § 10
 
@@ -133,15 +126,15 @@ erlässt:
 
 <sup>2<sup>bis</sup></sup> Ausserkantonale werden ohne weiteres Verfahren aufgenommen, wenn sie im Wohnsitzkanton die Bedingungen für den Berufsmaturitätsunterricht erfüllen.
 
-<sup>3</sup> In Einzelfällen kann das zuständige Rektorat ausnahmsweise von den Aufnahmebedingungen dieses Reglements abweichen.
+<sup>3</sup> …
 
 #### § 11
 
 **Form der Aufnahme**
 
-<sup>1</sup> Jede Aufnahme in den Berufsmaturitätsunterricht während der beruflichen Grundbildung erfolgt definitiv.
+<sup>1</sup> Jede Aufnahme in den Berufsmaturitätsunterricht erfolgt definitiv.
 
-<sup>2</sup> Jede Aufnahme in die Berufsmaturitätslehrgänge nach Abschluss der beruflichen Grundbildung erfolgt provisorisch.
+<sup>2</sup> …
 
 ## 3. Unterricht und Promotion
 
@@ -149,7 +142,7 @@ erlässt:
 
 **Unterricht**
 
-<sup>1</sup> Der Inhalt, die Struktur und der Umfang des Unterrichts richten sich nach der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^12-1], dem Rahmenlehrplan des Bundes und dem kantonalen Lehrplan.
+<sup>1</sup> Der Inhalt, die Struktur und der Umfang des Unterrichts richten sich nach der Verordnung vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^12-1], dem Rahmenlehrplan des Bundes und dem kantonalen Lehrplan.
 
 [^12-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de).
 
@@ -161,13 +154,13 @@ erlässt:
 
 - a) Deutsch (erste Landessprache);
 - b) Französisch (zweite Landessprache);
-- c) Englisch (dritte Sprache).
+- c) Englisch.
 
 #### § 14
 
 **Promotion**
 
-<sup>1</sup> Die Promotion richtet sich nach Artikel 17 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^14-1].
+<sup>1</sup> Die Promotion richtet sich nach Artikel 16 der Verordnung vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^14-1].
 
 [^14-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de).
 
@@ -189,7 +182,7 @@ erlässt:
 
 **Organisation**
 
-<sup>1</sup> Die schriftlichen Prüfungen werden nach den Vorgaben des Departements regional vorbereitet und validiert.
+<sup>1</sup> Die schriftlichen Prüfungen werden nach den Vorgaben des Departements interkantonal vorbereitet und validiert.
 
 <sup>2</sup> Als Examinatoren oder Examinatorinnen wirken die unterrichtenden Lehrpersonen. Sie sind für die Ausarbeitung der Prüfungsaufgaben, die Durchführung der Prüfung sowie die Korrektur und Festlegung der einzelnen Prüfungsnoten verantwortlich und legen in Absprache mit den Fachexperten und Fachexpertinnen die Prüfungsnoten fest.
 
@@ -199,7 +192,7 @@ erlässt:
 
 **Prüfungsfächer und -stoff**
 
-<sup>1</sup> Die Prüfungsfächer und der Prüfungsstoff richten sich nach Art. 21 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^18-1], nach dem Rahmenlehrplan des Bundes und dem kantonalen Lehrplan.
+<sup>1</sup> Die Prüfungsfächer und der Prüfungsstoff richten sich nach Art. 20 der Verordnung vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^18-1], nach dem Rahmenlehrplan des Bundes und dem kantonalen Lehrplan.
 
 [^18-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de).
 
@@ -240,7 +233,7 @@ erlässt:
 
 **Bestehen der Prüfung**
 
-<sup>1</sup> Das Bestehen der Prüfung richtet sich nach Artikel 25 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^22-1].
+<sup>1</sup> Das Bestehen der Prüfung richtet sich nach Artikel 24 der Verordnung vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^22-1].
 
 <sup>2</sup> Wer unentschuldigt oder ohne zwingende Gründe der Prüfung fernbleibt oder von dieser zurücktritt, hat die Prüfung nicht bestanden.
 
@@ -248,17 +241,19 @@ erlässt:
 
 #### § 23
 
-**Eröffnung des Prüfungsergebnisses**
+**Eröffnung des Prüfungsergebnisses, Berufsmaturitätszeugnis**
 
 <sup>1</sup> Die Berufsmaturitätskonferenz entscheidet über das Bestehen oder Nichtbestehen der Berufsmaturitätsprüfung.
 
 <sup>2</sup> Das zuständige Rektorat eröffnet den Prüfungsentscheid schriftlich.
 
+<sup>3</sup> Der Schüler oder die Schülerin erhält das Berufsmaturitätszeugnis nach erfolgreichem Bestehen der Berufsmaturitätsprüfung und des Qualifikationsverfahrens EFZ.
+
 #### § 24
 
 **Folgen des Nichtbestehens**
 
-<sup>1</sup> Die Folgen des Nichtbestehens der Berufsmaturitätsprüfung während der beruflichen Grundbildung richten sich nach Artikel 27 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^24-1].
+<sup>1</sup> Die Folgen des Nichtbestehens der Berufsmaturitätsprüfung während der beruflichen Grundbildung richten sich nach Artikel 26 der Verordnung vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^24-1].
 
 <sup>2</sup> Die Ermittlung der Note für das Fach Allgemeinbildung richtet sich nach dem Reglement über das Qualifikationsverfahren im Fach Allgemeinbildung in der beruflichen Grundbildung (ABU-Prüfungsreglement) vom 17. Mai 2013[^24-2].
 
@@ -271,7 +266,7 @@ erlässt:
 
 **Wiederholung**
 
-<sup>1</sup> Die Wiederholung der Prüfung richtet sich nach Artikel 26 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^25-1].
+<sup>1</sup> Die Wiederholung der Prüfung richtet sich nach Artikel 25 der Verordnung vom 13. Juni 2025 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^25-1].
 
 <sup>2</sup> Sie findet in der Regel frühestens nach einem und spätestens nach drei Jahren an der gleichen Schule statt, an welcher die erste Prüfung absolviert wurde.
 
@@ -304,6 +299,14 @@ erlässt:
 <sup>2</sup> Für Lernende der beruflichen Grundbildung und gelernte Berufsleute mit EFZ, welche die Aufnahmeprüfung in die BM 2 im Schuljahr 2020/2021 absolviert und bestanden haben, behält diese ihre Gültigkeit bis zur Aufnahme in die BM 2.
 
 <sup>3</sup> Für Lernende der beruflichen Grundbildung und gelernte Berufsleute mit EFZ, welche den von der Berufsmaturitätskonferenz anerkannten vorbereitenden Lehrgang (Vorbereitungskurs für Weiterbildungen VWB) im Schuljahr 2020/2021 erfolgreich absolviert haben oder bis 2022/2023 erfolgreich abschliessen werden, behält dieser die Gültigkeit bis zur Aufnahme in die BM 2.
+
+#### § 28
+
+**Übergangsbestimmung zur Änderung vom 1. März 2026**
+
+<sup>1</sup> Berufsmaturanden und Berufsmaturandinnen, die ihre Berufsmaturitätsausbildung vor dem Schuljahr 2026/2027 begonnen haben, schliessen sie nach bisherigem Recht ab.
+
+<sup>2</sup> Berufsmaturitätsprüfungen nach bisherigem Recht finden letztmals 2033 statt.
 
 Beschlossen vom Departement für Bildung und Kultur am 5. Juni 2013.
 
