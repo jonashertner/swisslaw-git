@@ -4,13 +4,12 @@ number: "640.21"
 title: Verordnung über die schulische Laufbahn
 short: Laufbahnverordnung
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2026-01-16
+version: 2026-08-01
+version_adopted: 2026-08-25
 adopted: 2013-06-11
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.21"
-pdf: "https://bl.clex.ch/api/de/versions/4408/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4408/pdf_file"
 
 (Laufbahnverordnung)
 
-Vom 11.06.2013 (Stand 01.08.2025)
+Vom 11.06.2013 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -265,7 +264,7 @@ beschliesst:
 
 <sup>5</sup> In der dualen Berufsbildung legt die Prüfungsleitung in Rücksprache mit der zuständigen Lehraufsicht und unter Berücksichtigung allfälliger spezieller Vorgaben des Bundes die Massnahmen zum Nachteilsausgleich fest.
 
-<sup>6</sup> Die Schulleitung bzw. die Prüfungsleitung kann die indizierende Fachstelle für die Festlegung der Massnahme beiziehen.
+<sup>6</sup> Die Schulleitung bzw. die Prüfungsleitung kann den Schulpsychologischen Dienst (SPD) für die Festlegung der Massnahme beiziehen.
 
 [^18-1]: [SGS 640](https://bl.clex.ch/data/640/de/art5b)
 
@@ -333,7 +332,7 @@ beschliesst:
 
 **Leistungsstörungen**
 
-<sup>1</sup> Die Schulleitung kann auf Antrag des Klassenkonvents aufgrund von vorübergehenden Umständen, welche die Schülerin oder den Schüler im Lernen erheblich behindern, nötigenfalls auf der Grundlage der Abklärung durch eine Fachstelle, von den Bestimmungen dieser Verordnung abweichen. Der Vermerk im Zeugnis lautet «Leistungsbeurteilung gemäss § 24 Abs. 1».
+<sup>1</sup> Die Schulleitung kann auf Antrag des Klassenkonvents aufgrund von vorübergehenden Umständen, welche die Schülerin oder den Schüler im Lernen erheblich behindern, nötigenfalls auf der Grundlage der Abklärung durch den SPD, von den Bestimmungen dieser Verordnung abweichen. Der Vermerk im Zeugnis lautet «Leistungsbeurteilung gemäss § 24 Abs. 1».
 
 <sup>2</sup> Beim Übertritt von der Primarstufe in die Sekundarstufe I und von der Sekundarstufe I in die Sekundarstufe II sowie im letzten Unterrichtsjahr eines Fachs kommt Abs. 1 in der Regel nicht zur Anwendung. Die Schulleitung der abgebenden Schule kann aus triftigen Gründen Ausnahmen bewilligen. Der Vermerk im Zeugnis lautet «Leistungsbeurteilung gemäss § 24 Abs. 2».
 
@@ -444,7 +443,7 @@ beschliesst:
 
 <sup>1</sup> Die freiwillige Wiederholung kann im Kindergarten und an der Primarschule bis und mit 5. Klasse auf schriftliches Gesuch der Erziehungsberechtigten von der Schulleitung bewilligt werden.
 
-<sup>2</sup> Die freiwillige Wiederholung der 6. Klasse der Primarschule ist in der Regel nicht möglich. Die Schulleitung kann Ausnahmen nur mit der entsprechenden Empfehlung der zuständigen Fachstelle bewilligen.
+<sup>2</sup> Die freiwillige Wiederholung der 6. Klasse der Primarschule ist in der Regel nicht möglich. Die Schulleitung kann Ausnahmen nur mit der entsprechenden Empfehlung des SPD bewilligen.
 
 ## 2.2 Übertritt aus der Primarstufe
 
@@ -557,7 +556,7 @@ beschliesst:
 
 <sup>1</sup> Die Schülerin oder der Schüler, die oder der im gleichen Leistungszug zum 2. Mal nicht befördert wird, tritt ohne Wiederholung in einen Leistungszug mit tieferen Anforderungen über.
 
-<sup>2</sup> Beim Leistungszug A entscheidet die Schulleitung nach entsprechender Abklärung durch die zuständige Fachstelle und im Einvernehmen mit den Erziehungsberechtigten über Massnahmen der Speziellen Förderung. Kommt kein Einvernehmen zustande, erfolgt eine 2. Wiederholung.
+<sup>2</sup> Beim Leistungszug A entscheidet die Schulleitung nach entsprechender Abklärung durch den SPD und im Einvernehmen mit den Erziehungsberechtigten über Massnahmen der Speziellen Förderung. Kommt kein Einvernehmen zustande, erfolgt eine 2. Wiederholung.
 
 #### § 44
 
@@ -617,7 +616,7 @@ beschliesst:
 
 - a. die Ergebnisse des Checks S2 in der 2. Klasse der Sekundarstufe I;
 - b. die Noten des Zeugnisses am Ende des Schuljahres der 3. Klasse in den Fächern Deutsch, Mathematik, Französisch und Englisch sowie die Durchschnittsnote der Fächer Biologie und Physik;
-- c das Ergebnis der Projektarbeit des 2. Semesters der 3. Klasse der Sekundarstufe I;
+- c …
 - d. das Ergebnis des Checks S3 in der 3. Klasse der Sekundarstufe I.
 
 ## 2.4 Übertritt aus der Sekundarstufe I
