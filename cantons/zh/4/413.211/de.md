@@ -4,11 +4,10 @@ number: "413.211"
 title: Mittelschulverordnung (MSV)
 short: MSV
 language: de
-version: "2026-04-01"
-nachtrag: "132"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "133"
 adopted: 2000-01-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_211-2000_01_26-2000_03_01-132.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_211-2000_01_26-2000_03_01-133.html"
 text: pdf
 ---
 
@@ -66,7 +65,7 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Schulkommission ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Sie fasst ihre Beschlüsse mit dem einfachen Mehr der Stimmen. Bei Stimmengleichheit hat die Präsidentin oder der Präsident den Stichentscheid.
 
@@ -145,7 +144,7 @@ Der Gesamtkonvent beschliesst insbesondere über den Schulbetrieb betreffende Re
 
 **3**
 
-- 1\. 4. 26 - 132 § 14. <sup>1</sup> Die Präsidentin oder der Präsident beruft in Absprache mit der Schulleitung den Gesamtkonvent ein und legt die Traktandenliste fest. Die Einladung zur Sitzung erfolgt mindestens zehn Tage im Voraus.
+- 1\. 7. 26 - 133 § 14. <sup>1</sup> Die Präsidentin oder der Präsident beruft in Absprache mit der Schulleitung den Gesamtkonvent ein und legt die Traktandenliste fest. Die Einladung zur Sitzung erfolgt mindestens zehn Tage im Voraus.
 
 **Sitzungen**
 
@@ -211,7 +210,7 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 [^18-1]: Eingefügt durch RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026.
 [^18-2]: LS 413.21.
-[^18-3]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026. 1. 4. 26 - 132 11
+[^18-3]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026.
 
 ### 5. Eltern
 
@@ -225,7 +224,7 @@ Die Präsidentin oder der Präsident kann für einzelne Geschäfte dem Gesamtkon
 
 Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne deren Zustimmung über wichtige Schulangelegenheiten informiert, sofern sie für den Unterhalt dieser Schülerinnen und Schüler aufkommen.
 
-[^19-1]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026. 1. 4. 26 - 132 11
+[^19-1]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026.
 
 ### 6. Schulbetrieb
 
@@ -247,7 +246,7 @@ Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne
 
 **5**
 
-- 1\. 4. 26 - 132 § 19 b.[^h6191Schulbetri-1] <sup>1</sup> Der Kanton bietet folgende gymnasialen Maturitätsprofile an:
+- 1\. 7. 26 - 133 § 19 b.[^h6191Schulbetri-1] <sup>1</sup> Der Kanton bietet folgende gymnasialen Maturitätsprofile an:
 
 **Gymnasiale Maturitätsprofile**
 
@@ -271,7 +270,12 @@ Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne
 
 <sup>2</sup> Die Lang- und Kurzgymnasien können zusätzlich Angebote führen, in denen ein Teil des Unterrichts in einer Fremdsprache erteilt wird.
 
+**Dauer einer Lektion**
+
+§ 19 d.[^h6191Schulbetri-2] Eine Lektion dauert 45 Minuten.
+
 [^h6191Schulbetri-1]: Eingefügt durch RRB vom 25. August 2021 (OS 77, 104; ABl 2021-09-03). In Kraft seit 1. August 2023.
+[^h6191Schulbetri-2]: Eingefügt durch RRB vom 25. August 2021 (OS 77, 104; ABl 2021-09-03). In Kraft seit 1. August 2026. 1. 7. 26 - 133 11
 
 #### § 20
 
@@ -284,7 +288,7 @@ Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne
 <sup>3</sup> Über Umteilungen, die das Liceo artistico betreffen, entscheidet die Schulleitung des Liceo artistico insbesondere aufgrund der künstlerischen Eignung der Schülerinnen und Schüler. Die Schulleitung bestimmt die einzureichenden Unterlagen. Das Mittelschul- und Berufsbildungsamt entscheidet über die Umteilung, wenn keine Einigung erzielt werden kann.[^20-1]
 
 [^20-1]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 351; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 266).
-[^20-2]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026. 1. 4. 26 - 132 11
+[^20-2]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026.
 [^20-3]: Eingefügt durch RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
 
 ### 7. Absenzen, Dispensationen und Jokertage
@@ -343,15 +347,17 @@ Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne
 
 - f. Informationsveranstaltungen von Einrichtungen der Tertiärstufe, Schnupperlehren oder ähnliche Anlässe für die Berufsvorbereitung,
 
-- g. Militär-, ziviler Ersatz-, Zivilschutz- und Feuerwehrdienst, h.[^h7202Absenzen-2] vorhersehbare Abwesenheiten im Zusammenhang mit der Nutzung des Angebots an Schulsozialarbeit.
+**7**
+
+- 1\. 7. 26 - 133
+
+- g. Militär-, zisviler Ersatz-, Zivilschutz- und Feuerwehrdienst, h.[^h7202Absenzen-2] vorhersehbare Abwesenheiten im Zusammenhang mit der Nutzung des Angebots an Schulsozialarbeit.
 
 <sup>2</sup> Die Schulleitung kann im Einzelfall weitere besondere Umstände als Dispensationsgründe anerkennen.
 
-**7**
-
-- 1\. 4. 26 - 132 § 26.[^h7202Absenzen-3] <sup>1</sup> Schülerinnen und Schüler reichen das Gesuch um Entschuldigung einer Absenz oder um Dispensation schriftlich und unterzeichnet der Schulleitung oder der von ihr bezeichneten Stelle ein und legen die von der Schulleitung bezeichneten Unterlagen bei.
-
 **Gesuch a. Form**
+
+§ 26.[^h7202Absenzen-3] <sup>1</sup> Schülerinnen und Schüler reichen das Gesuch um Entschuldigung einer Absenz oder um Dispensation schriftlich und unterzeichnet der Schulleitung oder der von ihr bezeichneten Stelle ein und legen die von der Schulleitung bezeichneten Unterlagen bei.
 
 <sup>2</sup> Sie geben im Gesuch den Entschuldigungs- oder Dispensationsgrund an.
 
@@ -383,11 +389,9 @@ Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne
 
 <sup>2</sup> Jeder bezogene Jokertag gilt als ganzer Tag, auch wenn an jenem Tag der Unterricht nur während eines Halbtages stattfindet.
 
-<sup>3</sup> Nicht bezogene Jokertage verfallen am Ende jedes Schuljahres.
+<sup>3</sup> Nicht bezogene Jokertage verfallen am Ende jedes Schuljahres. § 31.[^h7202Absenzen-3] <sup>1</sup> Schülerinnen und Schüler teilen der Schulleitung oder der von ihr bezeichneten Stelle den Bezug eines Jokertages mindestens 14 Tage im Voraus schriftlich mit.
 
 **b. Mitteilung**
-
-§ 31.[^h7202Absenzen-3] <sup>1</sup> Schülerinnen und Schüler teilen der Schulleitung oder der von ihr bezeichneten Stelle den Bezug eines Jokertages mindestens 14 Tage im Voraus schriftlich mit.
 
 <sup>2</sup> Bis zur Volljährigkeit ist die Mitteilung durch die Inhaberin oder den Inhaber der elterlichen Sorge oder andere Erziehungsberechtigte zu unterzeichnen.
 
@@ -416,7 +420,7 @@ Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne
 [^h7202Absenzen-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
 [^h7202Absenzen-2]: Eingefügt durch RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026.
 [^h7202Absenzen-3]: Eingefügt durch RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
-[^h7202Absenzen-4]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026. 1. 4. 26 - 132 11
+[^h7202Absenzen-4]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026.
 
 ### 8. Finanzen
 
@@ -432,22 +436,22 @@ Eltern volljähriger[^h5183Eltern-1] Schülerinnen und Schüler werden auch ohne
 
 <sup>4</sup> Die Beiträge berechnen sich aufgrund der im September des Vorjahres vorgenommenen allgemeinen jährlichen Datenerhebung bei den Mittelschulen, bereinigt um die Abgänge nach der Probezeit.[^h8h7202Absenzen4-4]
 
+**9**
+
+- 1\. 7. 26 - 133
+
 <sup>5</sup> Die Bildungsdirektion erlässt Weisungen über die Berechnungsmodalitäten und den Verfahrensablauf.
 
 **Entschädigung**
 
 § 37.[^h8h7202Absenzen4-5], <sup>14</sup> Die Bildungsdirektion regelt die Entschädigung für die Mitwirkung bei den Aufnahme- und Abschlussprüfungen an Mittelschulen.
 
-**9**
-
-- 1\. 4. 26 - 132
-
 [^h8h7202Absenzen4-1]: Eingefügt durch RRB vom 11. Dezember 2003 (OS 58, 374). In Kraft seit 1. Januar 2004.
 [^h8h7202Absenzen4-2]: Nummerierung gemäss RRB vom 27. Mai 2020 (OS 75, 349; ABl 2020-06-05). In Kraft seit 1. August 2020.
 [^h8h7202Absenzen4-3]: LS 413.21.
 [^h8h7202Absenzen4-4]: Fassung gemäss RRB vom 29. Mai 2013 (OS 68, 257; ABl 2013-06-07). In Kraft seit 19. August 2013.
 [^h8h7202Absenzen4-5]: Eingefügt durch RRB vom 25. Mai 2005 (OS 60, 166). In Kraft seit 1. Mai 2005.
-[^h8h7202Absenzen4-6]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026. 1. 4. 26 - 132 11
+[^h8h7202Absenzen4-6]: Fassung gemäss RRB vom 24. September 2025 (OS 81, 92; ABl 2025-10-10). In Kraft seit 1. April 2026.
 
 ### 9. Übergangs- und Schlussbestimmungen
 
