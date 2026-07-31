@@ -4,13 +4,12 @@ number: "153.113"
 title: Verordnung über die Delegation von Kompetenzen des Regierungsrats
 short: "Delegationsverordnung, DelV"
 language: de
-version: 2021-07-01
-valid_until: 2026-07-31
-version_adopted: 2021-05-26
+version: 2026-08-01
+version_adopted: 2026-02-18
 adopted: 2013-04-10
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3152/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3955/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3152/pdf_file"
 
 (Delegationsverordnung, DelV)
 
-Vom 10.04.2013 (Stand 01.07.2021)
+Vom 10.04.2013 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -65,13 +64,14 @@ beschliesst:
 - b) die Vertretung des Kantons in der Gesellschafterversammlung des Zentrums für Demokratie Aarau (ZDA), bezüglich der Abnahme der Jahresrechnung des ZDA im Einvernehmen mit dem Departement Finanzen und Ressourcen,
 - c) die Vertretung des Kantons im Hochschulrat der Interkantonalen Hochschule für Heilpädagogik Zürich (HfH), bezüglich der Abnahme der Jahresrechnung der HfH im Einvernehmen mit dem Departement Finanzen und Ressourcen,
 - d) die Vertretung von 50 % der Stimmen des Kantons an der Generalversammlung der Schulverlag Plus AG,
-- d<sup>bis</sup>) die Vertretung des Kantons an der Genossenschafter-Versammlung der Swisslos Interkantonale Landeslotterie Genossenschaft
+- d<sup>bis</sup>) die Vertretung des Kantons an der Genossenschafter-Versammlung der Swisslos Interkantonale Landeslotterie Genossenschaft,
 - e) den Entscheid über die Ausleihe des Silberschatzes aus dem Römermuseum an Dritte unter Vorbehalt von § 33 Abs. 1 der Verordnung zum Kulturgesetz (VKG) vom 4. November 2009[^2-1] sowie den Entscheid über die Anfertigung von Repliken einzelner Teile des Silberschatzes zu Verkaufszwecken,
-- f) die Erteilung von Ausnahmebewilligungen gemäss § 22 Abs. 2 des Schulgesetzes vom 17. März 1981[^2-2],
+- f) …
 - g) …
+- h) die Bewilligung von Talentschulung und Spezialangeboten der Gemeinden gemäss den §§ 20 und 23 des Volksschulgesetzes (VSG) vom 23. September 2025[^2-2].
 
 [^2-1]: SAR [495.211](https://gesetzessammlungen.ag.ch/data/495.211/de)
-[^2-2]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^2-2]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 
 #### § 3
 
