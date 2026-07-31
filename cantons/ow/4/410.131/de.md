@@ -3,20 +3,19 @@ canton: OW
 number: "410.131"
 title: Ausführungsbestimmungen über die Schuldienste
 language: de
-version: 2010-01-01
-valid_until: 2026-07-31
-version_adopted: 2009-12-21
+version: 2026-08-01
+version_adopted: 2026-03-23
 adopted: 2009-12-21
 in_force: 2010-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.131"
-pdf: "http://gdb.ow.ch/api/de/versions/182/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2011/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Schuldienste
 
-vom 21.12.2009 (Stand 01.01.2010)
+vom 21.12.2009 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -35,7 +34,7 @@ beschliesst:
 
 **Zuständigkeitsbereich**
 
-<sup>1</sup> Die Schuldienste Schulpsychologischer Dienst, Logopädischer Dienst sowie Psychomotorische Therapiestelle sind Ansprechpartner für Erziehungsberechtigte und ihre Kinder mit Wohnsitz im Kanton Obwalden einerseits sowie für Lehrpersonen und Schulbehörden anderseits.
+<sup>1</sup> Die Schuldienste Schulpsychologischer Dienst, Logopädischer Dienst sowie Psychomotorische Therapiestelle sind Ansprechpartner für Eltern bzw. Erziehungsberechtigte und ihre Kinder mit Wohnsitz im Kanton Obwalden einerseits sowie für Lehrpersonen und Schulbehörden anderseits.
 
 #### Art. 2
 
@@ -51,7 +50,7 @@ beschliesst:
 
 <sup>2</sup> Sie pflegen die interdisziplinäre Zusammenarbeit.
 
-<sup>3</sup> Die Anmeldung eines Kindes oder Jugendlichen erfolgt durch die Erziehungsberechtigten oder mit deren Einwilligung durch die Lehrperson oder Dritte. Urteilsfähige Jugendliche können sich auch selber anmelden.
+<sup>3</sup> Die Anmeldung eines Kindes oder Jugendlichen erfolgt durch die Eltern bzw. Erziehungsberechtigten oder mit deren Einwilligung durch die Lehrperson oder Dritte. Urteilsfähige Jugendliche können sich auch selber anmelden.
 
 <sup>4</sup> Die Fachpersonen unterstehen der Schweigepflicht[^3-1]. Vertrauliche Informationen dürfen Dritten nur mit dem Einverständnis der betroffenen Personen oder mit Einwilligung der Departementsvorsteherin oder des Departementsvorstehers bekannt gegeben werden.
 
@@ -81,13 +80,13 @@ beschliesst:
 
 **Schulpsychologischer Dienst**
 
-<sup>1</sup> Der Schulpsychologische Dienst berät und unterstützt Kinder und Jugendliche, Erziehungsberechtigte und Lehrpersonen in Fragen des Lernens, des Verhaltens und der Entwicklung und leistet Präventionsarbeit.
+<sup>1</sup> Der Schulpsychologische Dienst berät und unterstützt Kinder und Jugendliche, Eltern bzw. Erziehungsberechtigte und Lehrpersonen in Fragen des Lernens, des Verhaltens und der Entwicklung und leistet Präventionsarbeit.
 
 <sup>2</sup> Er berät Schulleitungen und Behörden in schulpsychologischen Fragestellungen.
 
 <sup>3</sup> Er vermittelt zwischen individuellen Bildungsbedürfnissen und schulischen Anforderungen.
 
-<sup>4</sup> Er stellt seine Bemühungen in den Dienst einer optimalen persönlichen und schulischen Entwicklung der Kinder und Jugendlichen und beantragt, in der Regel mit Zustimmung der Erziehungsberechtigten, bei den zuständigen Behörden die notwendigen Massnahmen.
+<sup>4</sup> Er stellt seine Bemühungen in den Dienst einer optimalen persönlichen und schulischen Entwicklung der Kinder und Jugendlichen und beantragt, in der Regel mit Zustimmung der Eltern bzw. Erziehungsberechtigten, bei den zuständigen Behörden die notwendigen Massnahmen.
 
 <sup>5</sup> Er ist die Abklärungsstelle für verstärkte sonderpädagogische Massnahmen.
 
@@ -97,7 +96,7 @@ beschliesst:
 
 <sup>1</sup> Der Logopädische Dienst erfasst und behandelt Kommunikationsstörungen, insbesondere Sprach-, Sprech- und Stimmstörungen bei Kindern und Jugendlichen im Vorschul- und Volksschulalter.
 
-<sup>2</sup> Er ist zuständig für die Beratung von Erziehungsberechtigten, Lehrpersonen und Behörden in Fragen der Logopädie und leistet Präventionsarbeit.
+<sup>2</sup> Er ist zuständig für die Beratung von Eltern bzw. Erziehungsberechtigten, Lehrpersonen und Behörden in Fragen der Logopädie und leistet Präventionsarbeit.
 
 #### Art. 8
 
@@ -105,7 +104,7 @@ beschliesst:
 
 <sup>1</sup> Die Psychomotorische Therapiestelle behandelt und fördert Kinder und Jugendliche mit psychomotorischen Auffälligkeiten und Störungen.
 
-<sup>2</sup> Sie ist zuständig für die Beratung von Erziehungsberechtigten, Lehrpersonen und Behörden in Fragen der psychomotorischen Therapie und leistet Präventionsarbeit.
+<sup>2</sup> Sie ist zuständig für die Beratung von Eltern bzw. Erziehungsberechtigten, Lehrpersonen und Behörden in Fragen der psychomotorischen Therapie und leistet Präventionsarbeit.
 
 #### Art. 9
 
@@ -135,5 +134,15 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Ausführungsbestimmungen treten am 1. Januar 2010 in Kraft.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2009, 60
+
+Ursprüngliches Inkrafttreten: 1. Januar 2010
+
+Geändert durch:
+
+Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
 
 OGS 2009, 60
