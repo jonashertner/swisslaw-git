@@ -4,13 +4,12 @@ number: "544"
 title: "Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern"
 short: Schulgeldverordnung
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-02-11
+version: 2026-08-01
+version_adopted: 2026-03-31
 adopted: 2015-03-03
 in_force: 2015-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/544"
-pdf: "https://srl.lu.ch/api/de/versions/4512/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4512/pdf_file"
 
 (Schulgeldverordnung)
 
-vom 03.03.2015 (Stand 01.08.2025)
+vom 03.03.2015 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -63,7 +62,7 @@ beschliesst:
 
 <sup>4</sup> Von den Hörerinnen und Hörern wird pro Semesterwochenstunde eine Gebühr von 150 Franken erhoben (max. Fr. 800.– pro Semester).
 
-<sup>5</sup> Die Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang vom Rektorat im Rahmen von 300 bis 45 000 Franken festgelegt, wobei weitgehende Kostendeckung zu erreichen ist.
+<sup>5</sup> Die Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang von der Universität Luzern im Rahmen von 300 bis 45 000 Franken festgelegt, wobei weitgehende Kostendeckung zu erreichen ist. Die Universität Luzern kann in einem Reglement von dieser Verordnung abweichende Regelungen treffen, insbesondere für die Rechnungsstellung, die Kostenfolgen bei Rückzug oder Abbruch der Weiterbildung und den Gebührenerlass.
 
 [^1-1]: SRL Nr. [543a](https://srl.lu.ch/data/543a/de)
 
@@ -103,7 +102,7 @@ beschliesst:
 
 <sup>4</sup> Von den Hörerinnen und Hörern wird pro Semesterwochenstunde eine Gebühr von 150 Franken erhoben.
 
-<sup>5</sup> Die Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang von der Prorektorin oder vom Prorektor Weiterbildung und Dienstleistungen im Rahmen von 50 bis 60 000 Franken festgelegt, wobei weitgehende Kostendeckung zu erreichen ist.
+<sup>5</sup> Die Gebühren für Weiterbildungsangebote werden je nach Dauer und Umfang von der Pädagogischen Hochschule Luzern im Rahmen von 50 bis 60 000 Franken festgelegt, wobei weitgehende Kostendeckung zu erreichen ist. Die Pädagogische Hochschule kann in einem Reglement von dieser Verordnung abweichende Regelungen treffen, insbesondere für die Gebühren für Abschlussprüfungen, Abschlussarbeiten, Diplome und Zertifikate sowie für die Rechnungsstellung, die Kostenfolgen bei Rückzug oder Abbruch eines Weiterbildungsangebots und den Gebührenerlass.
 
 <sup>6</sup> Bei Kooperationsstudiengängen können je nach anwendbarem Recht auch die Studiengebühren sowie weitere Abgaben der Kooperationspartner zur Anwendung kommen.
 
@@ -127,6 +126,7 @@ beschliesst:
   - 4\.3. …
   - 5\. …
   - 6\. Mahlzeitenbeiträge (hauswirtschaftlicher Unterricht), pro Jahreskurs — Fr. 90.–
+  - 7\. obligatorischer Instrumental- oder Gesangsunterricht (nach Erfüllen der obligatorischen Schulzeit) — Fr. 1030.–
 - c. In Talentklassen kann für die schulische Talentförderung eine Gebühr von höchstens 650 Franken pro Schuljahr erhoben werden.
 
 <sup>2</sup> Es werden an der Maturitätsschule für Erwachsene folgende Gebühren und Schulgelder erhoben:
@@ -135,6 +135,7 @@ beschliesst:
 - b. Schulgelder pro Semester:
   - 1\. Studierende mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton — Fr. 630.–
   - 2\. Den übrigen Studierenden wird nebst dem allgemeinen Schulgeld eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
+- c. Schulgeld pro Schuljahr für den obligatorischen Instrumental- oder Gesangsunterricht — Fr. 1030.–
 
 <sup>3</sup> Es werden am Passerellen-Lehrgang für Inhaberinnen und Inhaber einer Berufsmaturität oder einer gesamtschweizerisch anerkannten Fachmaturität folgende Gebühren und Schulgelder erhoben:
 
@@ -160,6 +161,7 @@ beschliesst:
 - d. …
 - e. …
 - f. Grundlagenkurs Grafik — Fr. 580.–
+- g. obligatorischer Instrumental- oder Gesangsunterricht — Fr. 1030.–
 
 <sup>3</sup> Es werden für Schulmaterial für Lernende der Fachklasse Grafik folgende Gebühren erhoben:
 
