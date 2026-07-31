@@ -3,20 +3,19 @@ canton: ZG
 number: "413.113"
 title: Ausführungsbestimmungen 3 zum Einführungsgesetz Berufsbildung (Prüfungs- und Promotionsreglement für die Berufsmaturität am Gewerblich-industriellen Bildungszentrum und am Kaufmännischen Bildungszentrum)
 language: de
-version: 2024-03-01
-valid_until: 2026-07-31
-version_adopted: 2024-02-15
+version: 2026-08-01
+version_adopted: 2026-07-13
 adopted: 2005-11-21
 in_force: 2005-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.113"
-pdf: "https://bgs.zg.ch/api/de/versions/2534/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3048/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 3 zum Einführungsgesetz Berufsbildung (Prüfungs- und Promotionsreglement für die Berufsmaturität am Gewerblich-industriellen Bildungszentrum und am Kaufmännischen Bildungszentrum)
 
-Vom 21. November 2005 (Stand 1. März 2024)
+Vom 21. November 2005 (Stand 1. August 2026)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
@@ -79,9 +78,9 @@ beschliesst:
 
 **Promotion**
 
-<sup>1</sup> Für die lehrbegleitenden Modelle und berufsbegleitenden Teilzeitmodelle gelten die Promotionsvorschriften gemäss Art. 17 der eidgenössischen Berufsmaturitätsverordnung[^5-1].
+<sup>1</sup> Für die lehrbegleitenden Modelle und berufsbegleitenden Teilzeitmodelle gelten die Promotionsvorschriften gemäss Art. 16 der eidgenössischen Berufsmaturitätsverordnung[^5-1].
 
-<sup>2</sup> Beim einjährigen Vollzeitmodell für gelernte Berufsleute kann die Promotion vom ersten ins zweite Semester nur definitiv erfolgen. Wer nicht promoviert wird, muss die Schule verlassen.
+<sup>2</sup> …
 
 [^5-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
@@ -109,9 +108,9 @@ beschliesst:
 
 **Interdisziplinäre Projektarbeit**
 
-<sup>1</sup> Eine Interdisziplinäre Projektarbeit (IDPA) ist obligatorischer Bestandteil der Berufsmaturität.
+<sup>1</sup> …
 
-<sup>2</sup> Die IDPA wird mit Gesamtnote und Titel der IDPA im BM-Abschlusszeugnis ausgewiesen.
+<sup>2</sup> …
 
 #### § 10
 
@@ -137,7 +136,7 @@ beschliesst:
 
 <sup>2</sup> Bei leichtem Verschulden kann die Prüfungsleitung auf Gesuch der Kandidatin/ des Kandidaten eine Nachprüfung ansetzen. Die Kandidatin/der Kandidat trägt die Kosten der Nachprüfung bis maximal Fr. 500.– pro Fach.
 
-<sup>3</sup> § 16 Abs. 2 und 3 der Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung der Lehrabschlussprüfungen)[^12-1] gelten sinngemäss.
+<sup>3</sup> § 17 Abs. 2 und 3 der Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung der Lehrabschlussprüfungen)[^12-1] gelten sinngemäss.
 
 [^12-1]: BGS [413.112](https://bgs.zg.ch/data/413.112/de)
 
@@ -151,7 +150,7 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Für die vor dem 1. August 2007 begonnenen Berufsmaturitäts-Lehrgänge gilt das bisherige Recht.
+<sup>1</sup> Für die vor dem 1. März 2026 begonnenen Berufsmaturitäts-Lehrgänge gilt das bisherige Recht.
 
 #### § 15
 
