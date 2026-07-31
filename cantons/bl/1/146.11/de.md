@@ -4,13 +4,12 @@ number: "146.11"
 title: "Dienstordnung der Bildungs-, Kultur- und Sportdirektion"
 short: Do BKSD
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-12-18
+version: 2026-08-01
+version_adopted: 2026-06-16
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/146.11"
-pdf: "https://bl.clex.ch/api/de/versions/4396/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4503/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4396/pdf_file"
 
 (Do BKSD)
 
-Vom 14.12.2021 (Stand 01.01.2026)
+Vom 14.12.2021 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -192,7 +191,8 @@ beschliesst:
 
 - a. die Schulinformatik;
 - b. die Schulabkommen;
-- c. Bildungsprojekte und das Bildungsmonitoring.
+- c. Bildungsprojekte und das Bildungsmonitoring;
+- d. die Verfahren zur Erteilung und Aufhebung von Verboten der Unterrichtstätigkeit.
 
 ### 2.3 Dienststelle Amt für Kind, Jugend und Behindertenangebote (AKJB)
 
