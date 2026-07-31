@@ -3,24 +3,24 @@ canton: ZG
 number: "413.111"
 title: Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 language: de
-version: 2024-03-01
-valid_until: 2026-07-31
-version_adopted: 2024-02-15
+version: 2026-08-01
+valid_until: 2026-08-27
+version_adopted: 2026-07-13
 adopted: 2026-07-13
 in_force: 2026-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.111"
-pdf: "https://bgs.zg.ch/api/de/versions/2532/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3047/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 
-Vom 5. Juni 2012 (Stand 1. März 2024)
+Vom 13. Juli 2026 (Stand 1. August 2026)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
-gestützt auf § 2 Abs. 2 Bst. a–c des Einführungsgesetzes zu den Bundesgesetzen über die Berufsbildung und die Fachhochschulen vom 30. August 2001[^ingress-1],
+gestützt auf § 2 Abs. 2 Bst. a–c des Einführungsgesetzes zu den Bundesgesetzen über die Berufsbildung und die Fachhochschulen (EG Berufsbildung) vom 30. August 2001[^ingress-1],
 
 beschliesst:
 
@@ -32,7 +32,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton beteiligt sich an den Gemeinkosten für die Schaffung von Ausbildungsplätzen der nicht kommerziell ausgerichteten, im Kanton Zug ansässigen Lehrbetriebsverbunde.
 
-<sup>2</sup> Bezugsberechtigt sind Verbunde mit mindestens fünf selbstständigen Firmen, welche nicht der gleichen übergeordneten Unternehmung angehören.
+<sup>2</sup> Bezugsberechtigt sind Verbunde mit mindestens drei selbstständigen Firmen, welche nicht der gleichen übergeordneten Unternehmung angehören.
 
 <sup>3</sup> Der Beitrag des Kantons wird für jeden bezugsberechtigten Verbund jährlich neu festgelegt. Er richtet sich nach einem durch das Amt für Berufsbildung (nachstehend Amt genannt) festgelegten Pauschalbeitrag pro Lernende bzw. Lernenden oder nach einem vom Amt genehmigten Budget des Verbunds, das die aktuelle Situation auf dem Lehrstellenmarkt für die vom Verbund geführten Lehrberufe berücksichtigt.
 
@@ -44,30 +44,28 @@ beschliesst:
 
 <sup>1</sup> Das Amt ist in den Aufsichtskommissionen der Berufsverbände, die im Kanton Zug überbetriebliche Kurse durchführen, angemessen vertreten.
 
-<sup>2</sup> Der Kanton subventioniert die überbetrieblichen Kurse gemäss dem Reglement zur Subventionierung von überbetrieblichen Kursen der Schweizerischen Berufsbildungsämter-Konferenz. Dabei wird in der Regel die offizielle Pauschale pro ÜK-Tag und lernender Person ausbezahlt (Bundesanteil plus Kantonsteil 1).
+<sup>2</sup> Der Kanton subventioniert die überbetrieblichen Kurse gemäss dem Reglement zur Subventionierung von überbetrieblichen Kursen der Schweizerischen Berufsbildungsämter-Konferenz (SBBK). Dabei wird in der Regel die offizielle Pauschale pro ÜK-Tag und lernender Person ausbezahlt (Bundesanteil plus Kantonsteil 1).
 
-<sup>3</sup> …
-
-<sup>4</sup> Der Kanton kann in folgenden Fällen der ÜK-Kommission oder dem kantonalen oder regionalen Berufsverband einen zusätzlichen Kantonsteil 2 ausrichten oder diese/n mittels eines Globalbetrags unterstützen:
+<sup>3</sup> Der Kanton kann in folgenden Fällen der ÜK-Kommission oder dem kantonalen oder regionalen Berufsverband einen zusätzlichen Kantonsteil 2 ausrichten oder diese bzw. diesen mittels eines Globalbetrags unterstützen:
 
 - a) Aufbau einer neuen ÜK-Kommission;
 - b) ausserordentliche Investitionen;
 - c) kantonale Auflage zur Durchführung von ÜKs mit unterbesetzten Klassen.
 
-<sup>5</sup> Bei interkantonalen überbetrieblichen Kursen entspricht der Subventionssatz in der Regel der offiziellen ÜK-Pauschale gemäss SBBK.
+<sup>4</sup> Bei interkantonalen überbetrieblichen Kursen entspricht der Subventionssatz in der Regel der offiziellen ÜK-Pauschale gemäss SBBK.
 
-<sup>6</sup> Der Kanton kann die Subventionierung vom Abschluss einer Leistungsvereinbarung durch die ÜK-Kommission abhängig machen.
+<sup>5</sup> Der Kanton kann die Subventionierung vom Abschluss einer Leistungsvereinbarung durch die ÜK-Kommission abhängig machen.
 
-<sup>7</sup> Die ÜK-Pauschalen werden bei folgenden Formen der beruflichen Grundbildung ausgerichtet:
+<sup>6</sup> Die ÜK-Pauschalen werden bei folgenden Formen der beruflichen Grundbildung ausgerichtet:
 
 - a) betrieblich organisierte Grundbildung (Lehrbetrieb mit Lehrvertrag);
 - b) schulisch organisierte Grundbildung (Schulen mit Praktikum).
 
-<sup>8</sup> Die ÜK-Pauschalen werden auch an ÜK-befreite Lehrbetriebe ausgerichtet.
+<sup>7</sup> Die ÜK-Pauschalen werden auch an ÜK-befreite Lehrbetriebe ausgerichtet.
 
-<sup>9</sup> Die Abrechnung erfolgt am Ende des Kalenderjahrs. Der Kanton kann per Ende des 1. Quartals eine Vorauszahlung von maximal 70 % des erwarteten Kantonsbeitrags leisten.
+<sup>8</sup> Die Abrechnung erfolgt am Ende des Kalenderjahrs. Der Kanton kann per Ende des 1. Quartals eine Vorauszahlung von maximal 70 % des erwarteten Kantonsbeitrags leisten.
 
-<sup>10</sup> Das Amt für Berufsbildung übernimmt den Arbeitgeberbeitrag für Lernende ohne Lehrvertrag, welcher beim Besuch der überbetrieblichen Kurse anfällt.
+<sup>9</sup> Das Amt übernimmt den Arbeitgeberbeitrag für Lernende ohne Lehrvertrag, welcher beim Besuch der überbetrieblichen Kurse anfällt.
 
 #### § 3
 
@@ -75,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Die Bildungsbewilligung ist vor dem Abschluss von Lehrverträgen einzuholen.
 
-<sup>2</sup> Bildungsbewilligungen werden unbefristet erteilt, erlöschen jedoch nach 5 Jahren, wenn während dieser Zeitspanne keine Lernenden ausgebildet worden sind.
+<sup>2</sup> Bildungsbewilligungen werden unbefristet erteilt, erlöschen jedoch nach fünf Jahren, wenn während dieser Zeitspanne keine Lernenden ausgebildet worden sind.
 
 <sup>3</sup> Eine Bildungsbewilligung wird in der Regel an Betriebe erteilt, die seit mindestens zwei Jahren bestehen.
 
@@ -85,7 +83,7 @@ beschliesst:
 
 <sup>1</sup> Die verantwortlichen Berufsbildnerinnen und Berufsbildner können vom Amt zu Informationsveranstaltungen und Weiterbildungsmassnahmen im Zusammenhang mit der betrieblichen Ausbildung verpflichtet werden.
 
-<sup>2</sup> Die Funktion als verantwortliche Berufsbildnerin, verantwortlicher Berufsbildner kann bis zum Erreichen des 70. Altersjahres wahrgenommen werden.
+<sup>2</sup> Die Funktion als verantwortliche Berufsbildnerin, verantwortlicher Berufsbildner kann bis zum Erreichen des 70. Altersjahrs wahrgenommen werden.
 
 #### § 5
 
@@ -99,52 +97,81 @@ beschliesst:
 
 <sup>1</sup> Das Amt führt obligatorische Kurse für Berufsbildnerinnen und Berufsbildner durch. Zum Kurs werden in der Regel nur gelernte Fachleute mit mindestens zwei Jahren Berufspraxis zugelassen.
 
-<sup>2</sup> Gesuche um Befreiung von Kursen für Berufsbildnerinnen und Berufsbildner sind dem Amt mit der Meldung der/des Berufsbildungsverantwortlichen einzureichen. Dem Gesuch sind die Unterlagen zum Nachweis einer gleichwertigen Ausbildung beizulegen.
+<sup>2</sup> Gesuche um Befreiung von Kursen für Berufsbildnerinnen und Berufsbildner sind dem Amt mit der Meldung der bzw. des Berufsbildungsverantwortlichen einzureichen. Dem Gesuch sind die Unterlagen zum Nachweis einer gleichwertigen Ausbildung beizulegen.
 
-<sup>3</sup> Auf Gesuch hin kann sich das Amt für Berufsbildung an den Kosten eines anderweitig absolvierten Kurses (durchgeführt durch einen anderen Anbieter) beteiligen, sofern dieser denselben Qualitätsansprüchen genügt.
+<sup>3</sup> Auf Gesuch hin kann sich das Amt für Berufsbildung an den Kosten eines anderweitig absolvierten, durch einen anderen Anbieter durchgeführten Kurses beteiligen, sofern dieser denselben Qualitätsansprüchen genügt.
 
 #### § 7
 
-**Aufnahmeverfahren an die Berufsmaturitätsschulen**
+**Allgemeine Bestimmungen zur Berufsmaturität im Kanton Zug**
 
-<sup>1</sup> Schülerinnen und Schüler der 3. Klasse der Sekundarschule der gemeindlichen und privaten Schulen aus dem Kanton Zug sowie aus dem Schulischen Brückenangebot des Kantons Zug, die den Zuweisungsentscheid zur Berufsmaturitätsschule gemäss § 27f des Reglements über die Promotion an den öffentlichen Schulen vom 5. Juni 1982[^7-1] vorweisen, können prüfungsfrei in die lehrbegleitenden Berufsmaturitätsschulen (BM 1) eintreten. Dabei gilt bei der Erfahrungsnote für den Eintritt in die Berufsmaturitätsschulen ein Orientierungswert von 5.0.
+<sup>1</sup> Die Berufsmaturitätsschulen des Kantons Zug reichen dem Amt ihre Reglemente bei jeder Anpassungen ein.
 
-<sup>1a</sup> Schülerinnen und Schüler aus dem Kanton Zug, die aus der 3. Klasse (Sekundarstufe I) des Gymnasiums in eine Berufslehre übertreten, können prüfungsfrei in die lehrbegleitenden Berufsmaturitätsschulen (BM 1) eintreten, wenn sie mindestens die provisorische Promotion in das 2. Semester der 3. Klasse erreichen.
+<sup>2</sup> Für die Berechnung der Zulassungsnote sind die Berufsmaturitätsschulen zuständig.
 
-<sup>2</sup> Schülerinnen und Schüler aus dem Kanton Zug, die aus einem Schultyp der Sekundarstufe II in eine Berufslehre übertreten, werden prüfungsfrei in die lehrbegleitenden Berufsmaturitätsschulen (BM 1) aufgenommen, sofern das Aufnahmeverfahren dieses Schultyps mindestens den Limiten bzw. den Anforderungen des Aufnahmeverfahrens für die lehrbegleitenden Berufsmaturitätsschulen entspricht.
+<sup>3</sup> In Grenz- und Spezialfällen entscheidet das Amt über die Aufnahme.
 
-<sup>3</sup> Schülerinnen und Schüler, welche die Bedingungen für den prüfungsfreien Eintritt an lehrbegleitende Berufsmaturitätsschulen nicht erfüllen, können eine Aufnahmeprüfung absolvieren. Die Aufnahmeprüfungen für die lehrbegleitenden Berufsmaturitätsschulen erfolgen – je nach Ausrichtung der Berufsmaturität – am Gewerblich-industriellen Bildungszentrum Zug (GIBZ) oder am Kaufmännischen Bildungszentrum Zug (KBZ). Die Berufsmaturitätsschulen führen die Aufnahmeprüfungen durch und entscheiden über die Aufnahme.
-
-<sup>4</sup> Die Aufnahmeprüfungen erstrecken sich über den Schulstoff der ersten 5 Semester der Sekundarschule in den Fächern Mathematik, Deutsch, Französisch und Englisch.
-
-<sup>5</sup> Schülerinnen und Schüler mit ausserkantonalem Wohnsitz, aber mit Lehrort im Kanton Zug, haben den Nachweis über das bestandene Aufnahmeverfahren des Wohnortkantons beizubringen.
-
-<sup>6</sup> Die Anmeldung an die lehrbegleitende Berufsmaturitätsschule erfolgt durch die Schülerin oder durch den Schüler an das Amt, welches das entsprechende Anmeldeformular zur Verfügung stellt.
-
-<sup>7</sup> Für gelernte Berufsleute, die im Besitz eines eidgenössischen Fähigkeitszeugnisses sind, kommt das Aufnahmeverfahren an eine Berufsmaturitätsschule (BM 2) gemäss Abs. 3 und 4 in erwachsenengerechter Form sinngemäss zur Anwendung und ist in den Reglementen der Berufsmaturitätsschulen des Kantons Zug geregelt.
-
-<sup>7a</sup> Die Berufsmaturitätsschulen reichen dem Amt für Berufsbildung ihre Reglemente nach erfolgter Anpassung ein[^7-2].
-
-<sup>8</sup> Die Anmeldung an eine Berufsmaturitätsschule (BM 2) für gelernte Berufsleute, die im Besitz eines eidgenössischen Fähigkeitszeugnisses sind, erfolgt direkt an die entsprechende Berufsmaturitätsschule.
-
-<sup>9</sup> Mit Bezug auf den Eintritt in eine Berufsmaturitätsschule für gelernte Berufsleute entscheidet das Amt über die Gleichwertigkeit von Berufsabschlüssen, die ausserhalb der SBFI-Normen erworben worden sind.
-
-<sup>10</sup> In Grenz- und Spezialfällen entscheidet das Amt über die Aufnahme.
-
-[^7-1]: BGS [412.113](https://bgs.zg.ch/data/412.113/de)
-[^7-2]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
-
-#### § 7a
-
-**Genehmigung von Praktika in Kindertagesstätten**
-
-<sup>1</sup> Berufsvorbereitende Praktika in Kindertagesstätten, die länger als sechs Monate dauern, bedürfen einer Genehmigung durch das Amt für Berufsbildung. Für die Berechnung der Dauer werden alle berufsvorbereitenden Praktika der Praktikantin bzw. des Praktikanten in Kindertagesstätten zusammengezählt. Das Amt für Berufsbildung regelt die Genehmigungsvoraussetzungen in einer Wegleitung.
+<sup>4</sup> Das Amt ist dafür zuständig, dass die Berufsmaturitätsschulen vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) anerkannt werden. Für die Anerkennung durch das SBFI kann das Amt den entsprechenden Schulen die notwendigen Auflagen und Weisungen erteilen.
 
 #### § 8
 
+**Aufnahmeverfahren an die lehrbegleitenden Berufsmaturitätsschulen (BM 1)**
+
+<sup>1</sup> Prüfungsfreie Aufnahme nach der 3. Klasse Sekundarschule:
+
+- a) Schülerinnen und Schüler der 3. Klasse der Sekundarschule der öffentlichen und anerkannten privaten Schulen können ohne Aufnahmeprüfung in die lehrbegleitenden Berufsmaturitätsschulen (BM 1) eintreten, wenn sie den Zuweisungsentscheid gemäss § 33 des Reglements über die Promotion an den öffentlichen Schulen (Promotionsreglement, PromR) vom 5. Juni 1982[^8-1]erhalten haben. Der Orientierungswert der Erfahrungsnote ist derselbe wie für den Eintritt in die Fach- und Wirtschaftsmittelschule, welcher im vorgenannten Reglement festgelegt ist. Schülerinnen und Schüler aus dem kantonalen Schulischen Brückenangebot sowie aus den anerkannten privaten Angeboten des 10. Schuljahrs des Kantons Zug werden mit einem entsprechenden Zuweisungsentscheid ebenfalls prüfungsfrei aufgenommen.
+- b) Das Aufnahmeverfahren für die BM Sek+ in Luzern ist für Schülerinnen und Schüler der Sekundarschule der öffentlichen und anerkannten privaten Schulen des Kantons Zug im Promotionsreglement geregelt.
+- c) Bei Unterzeichnung eines Lehrvertrags mit einem Betrieb im Kanton Zug bestimmt der Lehrbetrieb, ob die Berufsmaturitätsschule mit dem Modell BM Sek+ im Kanton Luzern nahtlos weiter besucht werden kann. Wenn der Lehrbetrieb einverstanden ist, ist im Lehrvertrag unter Punkt 6 «Besondere Regelungen» der Besuch der BM Sek+ festzuhalten. Wenn der Lehrbetrieb nicht einverstanden ist, muss die Berufsmaturitätsschule während der gesamten beruflichen Grundbildung von Anfang an absolviert werden. Die Aufnahme an die neue Berufsmaturitätsschule erfolgt dann prüfungsfrei.
+
+<sup>2</sup> Prüfungsfreie Aufnahme aus anderen Schulen: Schülerinnen und Schüler mit Wohnsitz im Kanton Zug, die aus der Wirtschaftsmittelschule, Fachmittelschule oder dem Kurzzeitgymnasium sowie aus der 3. Klasse des Langzeitgymnasiums oder höher direkt in eine lehrbegleitende Berufsmaturitätsschule übertreten, werden prüfungsfrei aufgenommen.
+
+<sup>3</sup> Aufnahmeprüfung in die BM 1:
+
+- a) Schülerinnen und Schüler mit Wohnsitz im Kanton Zug, welche die Bedingungen für den prüfungsfreien Eintritt in die lehrbegleitenden Berufsmaturitätsschulen nicht erfüllen, können eine Aufnahmeprüfung absolvieren. Die Aufnahmeprüfungen erfolgen je nach Ausrichtung der Berufsmaturität an den jeweiligen Berufsmaturitätsschulen.
+- b) Der Prüfungsstoff ist in den Prüfungsreglementen der entsprechenden Berufsmaturitätsschulen geregelt.
+
+<sup>4</sup> Bei ausserkantonalem Wohnsitz und Lehrort im Kanton Zug haben die Schülerinnen und Schüler den Nachweis über das bestandene Aufnahmeverfahren des Wohnsitzkantons zu erbringen.
+
+<sup>5</sup> Anmeldung an die BM 1: Die Anmeldung an die lehrbegleitende Berufsmaturitätsschule erfolgt durch die Schülerin oder durch den Schüler bzw. die Erziehungsberechtigten beim Amt, welches das entsprechende Anmeldeformular zur Verfügung stellt.
+
+[^8-1]: BGS [412.113](https://bgs.zg.ch/data/412.113/de)
+
+#### § 9
+
+**Aufnahmeverfahren an die Berufsmaturitätsschulen für gelernte Berufsleute (BM 2)**
+
+<sup>1</sup> Prüfungsfreie Aufnahme:
+
+- a) Für gelernte Berufsleute, die im Besitz eines eidgenössischen Fähigkeitszeugnisses (EFZ) sind, erfolgt eine prüfungsfreie Aufnahme in die Berufsmaturitätsschulen unter folgenden Voraussetzungen:
+  - 1\. EFZ-Gesamtnote von mindestens 5.0; und
+  - 2\. das EFZ wurde innerhalb der letzten zwei Kalenderjahre vor Eintritt in die Berufsmaturitätsschule erlangt.
+- b) Liegt zum Zeitpunkt des Anmeldeschlusses für die Berufsmaturitätsschule das EFZ noch nicht vor, erfolgt eine prüfungsfreie Aufnahme in die Berufsmaturitätsschulen, sofern im zweitletzten Zeugnis der Ausbildung die Zulassungsnote 5.0 erreicht wurde. Die Ermittlung der Zulassungsnote orientiert sich an der Ermittlung der QV-Note. Für den Notenschnitt zählen sämtliche schulischen Noten der ersten fünf Semester (3-jährige Lehre) bzw. der ersten sieben Semester (4-jährige Lehre) der Berufsfachschule.
+- c) Die Ermittlung der Zulassungsnote gemäss Bst. b gilt für Berufsmaturitätsschulen mit folgenden Ausrichtungen:
+  - 1\. Technik, Architektur, Life Sciences;
+  - 2\. Natur, Landschaft, Lebensmitte;
+  - 3\. Wirtschaft und Dienstleistungen, Typ Dienstleistungen;
+  - 4\. Gestaltung und Kunst;
+  - 5\. Gesundheit und Soziales.
+- d) Für die Ausrichtung Gestaltung und Kunst verlangen einzelne Schulen zusätzlich ein gestalterisches Aufnahmeverfahren.
+- e) Für Kaufleute EFZ gelten für die Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft die gleichen Bedingungen. Alle anderen Berufsleute müssen für die Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft eine Aufnahmeprüfung ablegen.
+
+<sup>2</sup> Aufnahmeprüfung in die BM 2:
+
+- a) Wer die Bedingungen für den prüfungsfreien Eintritt in die Berufsmaturitätsschulen für gelernte Berufsleute nicht erfüllt, kann eine Aufnahmeprüfung absolvieren. Die Aufnahmeprüfungen erfolgen je nach Ausrichtung der Berufsmaturität an den jeweiligen Berufsmaturitätsschulen. Diese führen die Aufnahmeprüfungen durch und entscheiden über die Aufnahme.
+- b) Die Anmeldung an eine Berufsmaturitätsschule für gelernte Berufsleute erfolgt direkt bei der entsprechenden Berufsmaturitätsschule.
+- c) Bei einem ausserhalb der SBFI-Normen erworbenen Berufsabschluss, entscheidet das Amt über die Gleichwertigkeit mit einem EFZ, welches für die Zulassung zum Berufsmaturitätsunterricht für gelernte Berufsleute zwingend ist.
+
+#### § 10
+
+**Genehmigung von Praktika in Kindertagesstätten**
+
+<sup>1</sup> Berufsvorbereitende Praktika in Kindertagesstätten, die länger als sechs Monate dauern, bedürfen einer Genehmigung durch das Amt. Für die Berechnung der Dauer werden alle berufsvorbereitenden Praktika der Praktikantin bzw. des Praktikanten in Kindertagesstätten zusammengezählt. Das Amt regelt die Genehmigungsvoraussetzungen in einer Wegleitung.
+
+#### § 11
+
 **Kostenübernahme beim Berufsabschluss für Erwachsene und bei der höheren Berufsbildung**
 
-<sup>1</sup> Der aktuelle Wohnsitzkanton übernimmt die Kosten einer Nachholbildung oder Validierung von Bildungsleistungen gemäss Art. 31 und Art. 32 der Berufsbildungsverordnung[^8-1].
+<sup>1</sup> Der aktuelle Wohnsitzkanton übernimmt die Kosten einer Nachholbildung oder Validierung von Bildungsleistungen gemäss Art. 31 und Art. 32 der Verordnung über die Berufsbildung (Berufsbildungsverordnung, BBV) vom vom 19. November 2003[^11-1].
 
 <sup>2</sup> Für die Kostenübernahme besteht keine Alterslimite.
 
@@ -152,26 +179,18 @@ beschliesst:
 
 <sup>4</sup> Allfällige durch den Schulortkanton auferlegte zusätzliche Kosten werden von der lernenden Person übernommen.
 
-[^8-1]: SR [412.101](https://db.clex.ch/link/Bund/412.101/de)
+[^11-1]: SR [412.101](https://db.clex.ch/link/Bund/412.101/de)
 
-#### § 9
+#### § 12
 
-**Kostenübernahme beim Schulbesuch von Repetentinnen und Repenten ohne Lehrvertrag**
+**Kostenübernahme beim Schulbesuch von Repetentinnen und Repetenten ohne Lehrvertrag**
 
 <sup>1</sup> Die Kosten für den Schulbesuch von Repetentinnen und Repetenten ohne Lehrvertrag, welche die ursprüngliche Lehrzeit im Kanton Zug absolviert haben, werden vom Kanton Zug übernommen. Die Materialkosten für das Qualifikationsverfahren gehen zu Lasten der Lernenden.
 
-#### § 9a
+#### § 13
 
 **Kosten bei Schulortwechsel aufgrund einer Disziplinarmassnahme**
 
-<sup>1</sup> Wird eine Lernende bzw. ein Lernender aufgrund einer disziplinarischen Massnahme von der Berufsfachschule gewiesen, kann das Amt die neuen oder zusätzlichen durch den Schulortswechsel entstehenden Schulkosten dem Lernenden weiter verrechnen.
+<sup>1</sup> Wird eine Lernende bzw. ein Lernender aufgrund einer disziplinarischen Massnahme von der Berufsfachschule gewiesen, kann das Amt die neuen oder zusätzlichen durch den Schulortswechsel entstehenden Schulkosten der Lernenden bzw. dem Lernenden weiter verrechnen.
 
-#### § 10
-
-**…**
-
-#### § 11
-
-**…**
-
-GS 31, 531
+GS 2026/036
