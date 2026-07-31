@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i livelli massimi per 
 short: OAOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/it"
 
 (OAOVA)
 
-del 16 dicembre 2016 (Stato 1° gennaio 2026)
+del 16 dicembre 2016 (Stato 1° agosto 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -284,6 +284,14 @@ Le derrate alimentari contenenti le sostanze attive per le quali la modifica del
 
 [^13i-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
+#### Art. 13j
+
+**Disposizione transitoria della modifica del 24 giugno 2026**[^13j-1]
+
+Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 24 giugno 2026 stabilisce un livello massimo inferiore possono ancora essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 31 gennaio 2027 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^13j-1]: Introdotto dalla cifra I dell’O dell’USAV del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
+
 #### Art. 14
 
 **Entrata in vigore**
@@ -296,13 +304,13 @@ Allegato 1[^t-1]
 
 ## Prodotti di origine vegetale e animale a cui si applicano livelli massimi per i residui
 
-[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dalla cifra II cpv. 1 dell’O dell’USAV del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
 
 ### 1 Nota esplicativa
 
 Si applica la lista dei prodotti di origine vegetale e animale di cui all’allegato I, parte A e parte B, del regolamento (CE) n. 396/2005[^annex1-lvlu1-lvl1-1]. I prodotti non elencati in tale lista sono elencati nella tabella del presente allegato.
 
-[^annex1-lvlu1-lvl1-1]: Regolamento (CE) n. 396/2005 del Parlamento europeo e del Consiglio, del 23 febbraio 2005, concernente i livelli massimi di residui di antiparassitari nei o sui prodotti alimentari e mangimi di origine vegetale e animale e che modifica la direttiva 91/414/CEE del Consiglio, GU L 70 del 16.3.2005, pag. 1, modificato da ultimo dal regolamento (UE) n. 2018/1049; GU L 189 del 26.07.2018, pag. 9.
+[^annex1-lvlu1-lvl1-1]: Regolamento (CE) n. 396/2005 del Parlamento europeo e del Consiglio, del 23 febbraio 2005, concernente i livelli massimi di residui di antiparassitari nei o sui prodotti alimentari e mangimi di origine vegetale e animale e che modifica la direttiva 91/414/CEE del Consiglio, GU L 70 del 16.3.2005, pag. 1; modificato da ultimo dal regolamento (UE) 2024/3196, GU L, 2024/3196, 19.12.2024.
 
 ### 2 Nota esplicativa sull’allegato I del regolamento (CE) n. 396/2005
 
@@ -329,8 +337,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dalla cifra II cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), dalla cifra II delle O dell’USAV del 31 mag. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), del 24 nov. 2023 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) e dai cifra II cpv. 1 delle O dell’USAV del 29 mag. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), del 13 nov. 2024 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), dalla cifra II delle O dell’USAV del 2 giu. 2025 ([RU 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/806](https://fedlex.data.admin.ch/eli/oc/2025/806) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dalla cifra II cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), dalla cifra II delle O dell’USAV del 31 mag. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), del 24 nov. 2023 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) e dai cifra II cpv. 1 delle O dell’USAV del 29 mag. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), del 13 nov. 2024 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), dalle cifre II delle O dell’USAV del 2 giu. 2025 ([RU 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)), del 26 nov. 2025 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)) e dalla cifra II cpv. 2 dell’USAV del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/368](https://fedlex.data.admin.ch/eli/oc/2026/368) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 

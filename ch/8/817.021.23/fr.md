@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: OPOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: fr
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/fr"
 
 (OPOVA)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
+du 16 décembre 2016 (État le 1<sup>er</sup> août 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -286,6 +286,14 @@ Les denrées alimentaires contenant des substances actives pour lesquelles une l
 
 [^13i-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
+#### Art. 13j
+
+**Disposition transitoire relative à la modification du 24 juin 2026**[^13j-1]
+
+Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 24 juin 2026 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 31 janvier 2027 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^13j-1]: Introduit par le ch. I de l’O de l’OSAV du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
+
 #### Art. 14
 
 **Entrée en vigueur**
@@ -298,13 +306,13 @@ Annexe 1[^t-1]
 
 ## Produits d’origine végétale ou animale pour lesquels des limites maximales de résidus s’appliquent
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
 
 ### 1 Remarque explicative
 
 La liste des produits d’origine végétale ou animale selon l’annexe I, parties A et B, du règlement (CE) n<sup>o</sup> 396/2005[^annex1-lvlu1-lvl1-1] s’applique. Les produits non répertoriés dans cette liste sont mentionnés dans le tableau de la présente annexe.
 
-[^annex1-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d’origine végétale et animale et modifiant la directive 91/414/CEE du Conseil, JO L 70 du 16.3.2005, p. 1; modifié en dernier lieu par le règlement (UE) 2018/1049, JO L 189 du 26.7.2018, p. 9.
+[^annex1-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d’origine végétale et animale et modifiant la directive 91/414/CEE du Conseil, JO L 70 du 16.3.2005, p. 1; modifié en dernier lieu par le règlement (UE) 2024/3196, JO L, 2024/3196, 19.12.2024.
 
 ### 2 Remarque explicative concernant l’annexe I du règlement (CE) n<sup>o</sup> 396/2005
 
@@ -331,8 +339,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), le ch. II al. 1 des O de l’OSAV du 29 mai 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), du 13 nov. 2024 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/806](https://fedlex.data.admin.ch/eli/oc/2025/806) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), le ch. II al. 1 des O de l’OSAV du 29 mai 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)) et du 13 nov. 2024 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)) et du 26 nov. 2025 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)) et le ch. II al. 2 de l'O de l’OSAV du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/368](https://fedlex.data.admin.ch/eli/oc/2026/368) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 

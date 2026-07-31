@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pe
 short: VPRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: de
-version: 2026-01-01
+version: 2026-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260801-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/de"
 
 (VPRH)
 
-vom 16. Dezember 2016 (Stand am 1. Januar 2026)
+vom 16. Dezember 2016 (Stand am 1. August 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -285,6 +285,14 @@ Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 26. Novem
 
 [^13i-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
+#### Art. 13j
+
+**Übergangsbestimmung zur Änderung vom 24. Juni 2026**[^13j-1]
+
+Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 24. Juni 2026 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 31. Januar 2027 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^13j-1]: Eingefügt durch Ziff. I der V des BLV vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
+
 #### Art. 14
 
 **Inkrafttreten**
@@ -297,13 +305,13 @@ Anhang 1[^t-1]
 
 ## Erzeugnisse pflanzlicher und tierischer Herkunft, für die Rückstandshöchstgehalte gelten
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
 
 ### 1 Erläuterung
 
 Es gilt die Liste der Erzeugnisse pflanzlicher und tierischer Herkunft nach Anhang I Teil A und Teil B der Verordnung (EG) Nr. 396/2005[^annex1-lvlu1-lvl1-1]. Nicht in dieser Liste aufgeführte Erzeugnisse werden in der Tabelle in diesem Anhang aufgeführt.
 
-[^annex1-lvlu1-lvl1-1]: Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates, ABl. L 70 vom 16.3.2005, S. 1; zuletzt geändert durch Verordnung (EU) 2018/1049, ABl. L 189 vom 26.7.2018, S. 9.
+[^annex1-lvlu1-lvl1-1]: Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates, ABl. L 70 vom 16.3.2005, S. 1; zuletzt geändert durch Verordnung (EU) 2024/3196, ABl. L, 2024/3196, 19.12.2024.
 
 ### 2 Erläuterung zu Anhang I der Verordnung (EG) Nr. 396/2005
 
@@ -330,8 +338,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), Ziff. II Abs. 1 der V des BLV vom 29. Mai 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), vom 13. Nov. 2024 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)) und vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/806](https://fedlex.data.admin.ch/eli/oc/2025/806) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), Ziff. II Abs. 1 der V des BLV vom 29. Mai 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), vom 13. Nov. 2024 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)), vom 26. Nov. 2025 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)) und Ziff. II Abs. 2 der V des BLV vom 24. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 368](https://fedlex.data.admin.ch/eli/oc/2026/368)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/368](https://fedlex.data.admin.ch/eli/oc/2026/368) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 
