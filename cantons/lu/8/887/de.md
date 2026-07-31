@@ -4,13 +4,12 @@ number: "887"
 title: Gesetz über die familienergänzende Kinderbetreuung
 short: "Kinderbetreuungsgesetz, KiBeG"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
+version: 2026-08-01
 version_adopted: 2025-06-16
 adopted: 2025-06-16
 in_force: 2026-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/887"
-pdf: "https://srl.lu.ch/api/de/versions/4833/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4835/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4833/pdf_file"
 
 (Kinderbetreuungsgesetz, KiBeG)
 
-vom 16.06.2025 (Stand 01.01.2026)
+vom 16.06.2025 (Stand 01.08.2026)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -171,6 +170,103 @@ beschliesst:
 [^11-1]: SR [211.222.338](https://db.clex.ch/link/Bund/211.222.338/de)
 
 ## 4 Betreuungsgutscheine
+
+#### § 12
+
+**Anspruchsberechtigung**
+
+<sup>1</sup> Erwerbstätigen, stellensuchenden oder sich in Ausbildung befindenden Erziehungsberechtigten mit Wohnsitz im Kanton Luzern werden auf Gesuch hin Beiträge an die Kosten für die familienergänzende Betreuung ihrer Vorschulkinder gewährt.
+
+<sup>2</sup> Die Betreuungsgutscheine werden gewährt für Angebote der vorschulischen familienergänzenden Kinderbetreuung im Kanton Luzern sowie für entsprechende ausserkantonale Angebote, wenn diese einer öffentlichen Aufsicht unterstehen.
+
+<sup>3</sup> Für die Inanspruchnahme eines Angebots der schulergänzenden Kinderbetreuung während des freiwilligen Kindergartenjahres werden keine Betreuungsgutscheine ausgerichtet.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung, insbesondere den Mindestumfang der Erwerbstätigkeit, der Ausbildung und der Stellensuche. Er kann unabhängig von der zeitlichen Inanspruchnahme durch Erwerbstätigkeit, Ausbildung oder Stellensuche (Beschäftigungsgrad) einen Anspruch auf Betreuungsgutscheine aus anderen Gründen vorsehen.
+
+#### § 13
+
+**Höhe der Betreuungsgutscheine**
+
+<sup>1</sup> Massgebend für die Höhe der Betreuungsgutscheine sind der Beschäftigungsgrad und das Einkommen der Erziehungsberechtigten sowie der Umfang der familienergänzenden Betreuung des Kindes.
+
+<sup>2</sup> Der Regierungsrat legt nach Anhörung der Gemeinden die Höhe der Betreuungsgutscheine und die den Anspruch ausschliessende Obergrenze des massgebenden Einkommens fest. Er berücksichtigt dabei, dass
+
+- a. die Betreuungsgutscheine die kantonalen Standardkosten nicht übersteigen,
+- b. die Höhe der Betreuungsgutscheine sich nach der wirtschaftlichen Leistungsfähigkeit der erziehungsberechtigten Personen richtet,
+- c. die wirtschaftliche Leistungsfähigkeit aufgrund des massgebenden Einkommens gemäss § 14 unter Berücksichtigung wesentlicher Einkommensveränderungen ermittelt wird,
+- d. Erziehungsberechtigte sowohl mit tiefem als auch mit mittlerem Einkommen Betreuungsgutscheine erhalten,
+- e. das Subventionsmodell wirkungsvolle Arbeitsanreize setzt und
+- f. den Erziehungsberechtigten ein Eigenbeitrag von mindestens 10 Franken pro Betreuungstag verbleibt.
+
+#### § 14
+
+**Massgebendes Einkommen**
+
+<sup>1</sup> Das für den Anspruch auf Betreuungsgutscheine massgebende Einkommen errechnet sich nach den Bestimmungen des Gesetzes über die Verbilligung der Prämien der Krankenversicherung vom 24. Januar 1995[^14-1] sowie der Verordnung zum Gesetz über die Verbilligung von Prämien der Krankenversicherung vom 12. Dezember 1995[^14-2]. Dies gilt auch für Personen, die an der Quelle besteuert werden.
+
+<sup>2</sup> Haben sich die wirtschaftlichen Verhältnisse seit der letzten rechtskräftigen Steuerveranlagung wesentlich geändert, können beim Entscheid die tatsächlichen Einkommens- und Vermögensverhältnisse berücksichtigt werden.
+
+<sup>3</sup> Haben sich die persönlichen, die familiären oder die wirtschaftlichen Verhältnisse seit der letzten Festsetzung der Betreuungsgutscheine wesentlich geändert, wird die Höhe der Betreuungsgutscheine auf Gesuch hin oder von Amtes wegen angepasst.
+
+[^14-1]: SRL Nr. [866](https://srl.lu.ch/data/866/de)
+[^14-2]: SRL Nr. [866a](https://srl.lu.ch/data/866a/de)
+
+#### § 15
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um Betreuungsgutscheine ist von der erziehungsberechtigten Person an ihrem zivilrechtlichen Wohnsitz bei der Gemeinde nach deren Vorgaben einzureichen.
+
+<sup>2</sup> Die Gemeinde prüft das Gesuch auf Vollständigkeit und veranlasst, wenn nötig, zusätzliche Abklärungen. Sie kontrolliert die Personalien und trägt die zur Berechnung des Anspruchs notwendigen Steuerdaten ein. Zu diesem Zweck kann sie die erforderlichen Daten von der kantonalen Einwohnerplattform gemäss § 9 des Registergesetzes vom 25. Mai 2009[^15-1] sowie von der Steuerdatenbank gemäss § 135 des Steuergesetzes vom 22. November 1999[^15-2] abrufen.
+
+[^15-1]: SRL Nr. [25](https://srl.lu.ch/data/25/de)
+[^15-2]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
+
+#### § 16
+
+**Auskunftspflicht**
+
+<sup>1</sup> Personen, die um Betreuungsgutscheine ersuchen, haben den zuständigen Organen die nötigen Auskünfte wahrheitsgetreu zu erteilen und nötigenfalls zu belegen. Mit der Gesuchstellung werden die zuständigen Organe ermächtigt, die zur Anspruchsprüfung und -berechnung erforderlichen Informationen bei Behörden und den Angeboten der familienergänzenden Kinderbetreuung gemäss § 2 Absatz 1 einzuholen.
+
+<sup>2</sup> Die Verwaltungs- und Rechtspflegeorgane des Kantons und der Gemeinden sowie die Angebote der familienergänzenden Kinderbetreuung gemäss § 2 Absatz 1 sind verpflichtet, den zuständigen Organen kostenlos die erforderlichen Auskünfte zu erteilen und die nötigen Unterlagen zur Verfügung zu stellen.
+
+#### § 17
+
+**Auszahlung**
+
+<sup>1</sup> Die Betreuungsgutscheine werden von der Gemeinde an die Gesuchstellenden ausbezahlt. Kommen diese ihren finanziellen Verpflichtungen gegenüber den betreuenden Institutionen nicht nach, kann die Auszahlung direkt an das Betreuungsangebot erfolgen.
+
+#### § 18
+
+**Meldepflicht und Rückerstattung**
+
+<sup>1</sup> Die Erziehungsberechtigten sind verpflichtet, wesentliche Änderungen der tatsächlichen oder rechtlichen Verhältnisse, insbesondere einen Wohnsitzwechsel, eine Änderung des Beschäftigungsgrades, des Einkommens, des Betreuungsumfangs oder die Beendigung der familienergänzenden Betreuung, umgehend der zuständigen Gemeinde zu melden.
+
+<sup>2</sup> Zu Unrecht erhaltene oder zweckentfremdete Betreuungsgutscheine sind zurückzuerstatten. Eine Verrechnung ist zulässig.
+
+<sup>3</sup> Der Anspruch auf Rückerstattung erlischt, wenn er von der zuständigen Behörde nicht innert eines Jahres seit Kenntnis eines Rückerstattungsgrundes geltend gemacht wird, jedoch spätestens zehn Jahre nach der Auszahlung der einzelnen Leistung.
+
+#### § 19
+
+**Finanzierung**
+
+<sup>1</sup> Der Kanton vergütet den Gemeinden 50 Prozent der von ihnen ausgerichteten Betreuungsgutscheine.
+
+<sup>2</sup> Die Gemeinden stellen dem Kanton für dessen Anteil halbjährlich Rechnung. Sie haben dem Kanton auf Verlangen hin Einsicht in die Rechnungsgrundlagen zu gewähren.
+
+#### § 20
+
+**Information**
+
+<sup>1</sup> Die Gemeinden und die zuständige kantonale Dienststelle sorgen gemeinsam für eine angemessene Information der Bevölkerung über die Möglichkeit der Betreuungsgutscheine.
+
+#### § 21
+
+**Fallapplikation**
+
+<sup>1</sup> Der Kanton stellt den Gemeinden für die Bewirtschaftung der Betreuungsgutscheine und die Bearbeitung der dazu erforderlichen Personendaten eine Fallapplikation zur Verfügung.
+
+<sup>2</sup> Die zuständige Dienststelle regelt die Zugriffsberechtigung der Gemeinden, anderer Behörden, der Kindertagesstätten und der Tagesfamilienorganisationen sowie der anspruchsberechtigten Personen in einem Reglement.
 
 ## 5 Beiträge für erhöhten Betreuungsaufwand
 
