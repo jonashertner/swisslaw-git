@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2026-01-01
+version: 2026-08-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260801-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260101/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 1<sup>er</sup> janvier 2026)
+du 31 août 1983 (État le 1<sup>er</sup> août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1443,7 +1443,7 @@ Lorsque le salaire du dernier mois de cotisation s’écarte d’au moins 10 % d
 
 La durée maximum de l’indemnisation en cas de réduction de l’horaire de travail est prolongée de douze périodes de décompte.
 
-[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 8 oct. 2025, en vigueur du 1<sup>er</sup> nov. 2025 au 31 juil. 2026 ([RO 2025 617](https://fedlex.data.admin.ch/eli/oc/2025/617)).
+[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur du 1<sup>er</sup> août 2026 au 31 janv. 2027 ([RO 2026 258](https://fedlex.data.admin.ch/eli/oc/2026/258)).
 
 #### Art. 58
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2026-01-01
+version: 2026-08-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260801-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260101/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° gennaio 2026)
+del 31 agosto 1983 (Stato 1° agosto 2026)
 
 [^t-1]: Nuova abbreviazione giusta la cifra I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -1443,7 +1443,7 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 La durata massima dell’indennità per lavoro ridotto è prolungata di 12 periodi di conteggio.
 
-[^57b-1]: Introdotto dalla cifra I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta la cifra I dell’O dell’8 ott. 2025, in vigore dal 1° nov. 2025 al 31 lug. 2026 ([RU 2025 617](https://fedlex.data.admin.ch/eli/oc/2025/617)).
+[^57b-1]: Introdotto dalla cifra I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° ago. 2026 al 31 gen. 2027 ([RU 2026 258](https://fedlex.data.admin.ch/eli/oc/2026/258)).
 
 #### Art. 58
 
@@ -2050,7 +2050,7 @@ Un assicurato è considerato difficilmente collocabile se, tenuto conto della si
 - b. è impedito fisicamente, psichicamente o mentalmente;
 - c.[^90-2] ha requisiti professionali insufficienti;
 - d. ha già riscosso 150 indennità giornaliere;
-- [tab] e.[^90-3] dispone di scarsa esperienza professionale in un periodo di elevata disoccupazione. [^90-4]
+- e.[^90-3] dispone di scarsa esperienza professionale in un periodo di elevata disoccupazione. [^90-4]
 
 <sup>1bis</sup> Gli assegni per il periodo di introduzione possono essere versati per un periodo di 12 mesi al massimo se, in base alla situazione personale dell’assicurato, si deve dedurre che lo scopo dell’introduzione al lavoro non possa essere raggiunto in sei mesi.[^90-5]
 
