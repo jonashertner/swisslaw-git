@@ -4,21 +4,21 @@ number: "411.106"
 title: "Ordonnance relative à l'évaluation du travail des élèves à l'école obligatoire"
 short: OÉval
 language: fr
-version: 2015-08-01
-corrected: 2017-09-06
-version_adopted: 2015-06-17
+version: 2026-08-01
+version_adopted: 2026-05-20
 adopted: 2015-06-17
 in_force: 2015-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/411.106"
-pdf: "https://lex.vs.ch/api/fr/versions/548/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3610/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance relative à l'évaluation du travail des élèves à l'école obligatoire
 
-du 17 juin 2015
+(OÉval)
+
+du 17.06.2015 (état 01.08.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -36,17 +36,19 @@ vu l'ordonnance concernant la loi sur l'enseignement primaire du 11 février 201
 
 vu l'ordonnance concernant les structures suprarégionales du cycle d'orientation du 12 janvier 2011;
 
-ordonne:[^t-1]
+sur la proposition du Département de la formation et de la sécurité,
 
-[^t-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+ordonne:[^ingress-1]
 
-### Section 1: Dispositions générales
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Buts**
 
-La présente ordonnance définit les modalités de l'évaluation du travail des élèves et les critères de promotion dans les degrés de l'école obligatoire.
+<sup>1</sup> La présente ordonnance définit les modalités de l'évaluation du travail des élèves et les critères de promotion dans les degrés de l'école obligatoire.
 
 #### Art. 2
 
@@ -54,7 +56,7 @@ La présente ordonnance définit les modalités de l'évaluation du travail des 
 
 <sup>1</sup> L'année scolaire est divisée en deux semestres. Le premier se déroule du début de l'année scolaire aux vacances de Noël, le deuxième, de janvier à la fin de l'année scolaire.
 
-<sup>2</sup> Tout aménagement de la durée des semestres par la direction d'école nécessite une autorisation du Département en charge de la formation, ci-après le Département.
+<sup>2</sup> Tout aménagement de la durée des semestres par la direction d'école nécessite une autorisation du Département en charge de la formation (ci-après: le Département).
 
 <sup>3</sup> Le bulletin du premier semestre est inséré dans le dossier d'évaluation tel que défini à l'article 38.
 
@@ -68,7 +70,7 @@ La présente ordonnance définit les modalités de l'évaluation du travail des 
 
 <sup>2</sup> Le plan d'études validé par le Conseil d'Etat et spécifique à chaque partie linguistique du canton sert de référence.
 
-### Section 2: Evaluation du travail des élèves
+## 2 Evaluation du travail des élèves
 
 #### Art. 4
 
@@ -84,17 +86,13 @@ La présente ordonnance définit les modalités de l'évaluation du travail des 
 
 **Buts de l'évaluation du travail de l'élève**
 
-L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
+<sup>1</sup> L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 
 - a) dresser des bilans des connaissances et des compétences acquises en vue des décisions de promotion et d'orientation;
-
 - b) situer l'élève par rapport aux objectifs d'apprentissage et compétences à atteindre;
-
 - c) guider et accompagner l'élève dans ses apprentissages;
-
 - d) favoriser l'atteinte du plus haut niveau possible des objectifs d'apprentissage;
-
-- e) informer les parents, respectivement le-les représentant-s légal-aux (ci-après les parents), sur la progression et/ou les difficultés de leur enfant.
+- e) informer les parents, respectivement le-les représentant-s légal-aux (ci-après: les parents), sur la progression et/ou les difficultés de leur enfant.
 
 #### Art. 6
 
@@ -115,13 +113,11 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 <sup>3</sup> Lorsque l'évaluation est chiffrée, elle est exprimée par:
 
 - a) des notes de 6 à 4 pour les prestations suffisantes;
-
 - b) des notes de 3.9 à 1 pour les prestations insuffisantes.
 
 <sup>4</sup> Les situations suivantes font l'objet de dispositions particulières:
 
 - a) lorsque la matière examinée n'est volontairement pas du tout traitée, la note 1 est attribuée;
-
 - b) en cas de tricherie avérée, la note 0 est attribuée.
 
 <sup>5</sup> Les notes et les moyennes sont calculées au dixième suivant le système conventionnel admis (exemple: 5.29 = 5.3; 4.25 = 4.3; 4.64 = 4.6).
@@ -134,7 +130,7 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 
 **Epreuves cantonales**
 
-<sup>1</sup> Des épreuves cantonales certificatives ont lieu à la fin de chaque cycle (4<sup>e</sup> , 8<sup>e</sup> et 11<sup>e</sup> années de programme). Ces épreuves sont organisées par le Département.
+<sup>1</sup> Des épreuves cantonales certificatives ont lieu à la fin de chaque cycle (4<sup>e</sup>, 8<sup>e</sup> et 11<sup>e</sup> années de programme). Ces épreuves sont organisées par le Département.
 
 <sup>2</sup> Au cycle 1, les épreuves cantonales certificatives de fin de cycle comptent pour le 10 pourcent dans le calcul de la moyenne annuelle des disciplines évaluées.
 
@@ -151,16 +147,15 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 <sup>1</sup> L'appréciation de l'attitude de l'élève prend notamment en compte:
 
 - a) l'attitude face au travail, aux apprentissages et la volonté de progresser (soin, rigueur, assiduité);
-
 - b) le comportement général, personnel et social au sein de l'école.
 
 <sup>2</sup> Cette appréciation est globale et elle est formulée par le titulaire après consultation des enseignants intervenant auprès d'un élève.
 
 <sup>3</sup> Communiquée régulièrement aux parents, notamment au moment de l'évaluation intermédiaire du premier semestre et/ou lors de la rencontre annuelle obligatoire avec les parents, cette appréciation est une aide à la progression de l'élève.
 
-### Section 3: Conditions de promotion
+## 3 Conditions de promotion
 
-### Chapitre 1: Généralités
+### 3.1 Généralités
 
 #### Art. 10
 
@@ -172,7 +167,7 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 
 <sup>3</sup> La décision finale de promotion ou de non promotion est de la compétence de la direction d'école.
 
-<sup>4</sup> Les décisions de la direction d'école peuvent faire l'objet d'un recours auprès de l'inspecteur scolaire. La procédure de recours est définie par la loi sur la procédure et la juridiction administrative du 6 octobre 1976.
+<sup>4</sup> Les décisions de la direction d'école peuvent faire l'objet d'un recours auprès de l'inspecteur scolaire. La procédure de recours est définie par la loi sur la procédure et la juridiction administrative du 6 octobre 1976 (LPJA).
 
 #### Art. 11
 
@@ -182,7 +177,7 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 
 <sup>2</sup> Toute décision de redoublement est prononcée par le directeur, les parents entendus.
 
-<sup>3</sup> Dans certaines situations exceptionnelles, notamment celle précisée à l'article 28 de la présente ordonnance ou celle définie à l'article 32 alinéa 2 LCO, et qui nécessitent des mesures prévues à la section 4 de la présente ordonnance, un passage au degré supérieur peut être décidé.
+<sup>3</sup> Dans certaines situations exceptionnelles, notamment celle précisée à l'article 28 de la présente ordonnance ou celle définie à l'article 32 alinéa 2 LCO, et qui nécessitent des mesures prévues au chapitre 4 de la présente ordonnance, un passage au degré supérieur peut être décidé.
 
 #### Art. 12
 
@@ -202,7 +197,7 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 
 <sup>2</sup> Si les travaux de groupe sont évalués, ils sont notés individuellement, l'apport de chaque élève étant identifiable.
 
-### Chapitre 2: Spécificités du cycle 1
+### 3.2 Spécificités du cycle 1
 
 #### Art. 14
 
@@ -219,11 +214,8 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 <sup>1</sup> En troisième année de programme, chaque discipline fait l'objet d'une appréciation non chiffrée selon les dénominations suivantes:
 
 - a) objectifs atteints avec aisance;
-
 - b) objectifs atteints;
-
 - c) objectifs partiellement atteints;
-
 - d) objectifs non atteints.
 
 <sup>2</sup> La promotion est automatique, sous réserve de l'article 18 de la présente ordonnance.
@@ -244,11 +236,11 @@ L'évaluation du travail de l'élève se réfère au plan d'études et vise à:
 
 **Épreuve bilan de la quatrième année de programme**
 
-L'épreuve bilan de quatrième année porte sur la Langue 1 et les Mathématiques.
+<sup>1</sup> L'épreuve bilan de quatrième année porte sur la Langue 1 et les Mathématiques.
 
 #### Art. 18
 
-Modalités de redoublement de la première à la troisième année de programme
+**Modalités de redoublement de la première à la troisième année de programme**
 
 <sup>1</sup> Un redoublement durant le premier cycle n'est décidé que dans des situations exceptionnelles.
 
@@ -270,9 +262,9 @@ Modalités de redoublement de la première à la troisième année de programme
 
 **Non promotion au terme du cycle 1**
 
-La décision de non promotion est de la compétence de la direction d'école, les parents entendus.
+<sup>1</sup> La décision de non promotion est de la compétence de la direction d'école, les parents entendus.
 
-### Chapitre 3: Spécificités du cycle 2
+### 3.3 Spécificités du cycle 2
 
 #### Art. 21
 
@@ -286,19 +278,21 @@ La décision de non promotion est de la compétence de la direction d'école, le
 
 **Promotion à l'intérieur du cycle 2**
 
-L'élève est promu s'il a obtenu un résultat supérieur ou égal à 4 à la moyenne du premier groupe et à la moyenne générale.
+<sup>1</sup> L'élève est promu s'il a obtenu un résultat supérieur ou égal à 4 à la moyenne du premier groupe et à la moyenne générale.
 
 #### Art. 23
 
 **Modalités de promotion au cycle 3**
 
-Les dispositions relatives à la transition de l'école primaire au cycle d'orientation ainsi que les modalités d'admission au cycle d'orientation et relatives aux niveaux suivis en Langue 1 et en Mathématiques sont prévues par les articles 19, 21, 22, 24, 45 et 47 LCO.
+<sup>1</sup> Les dispositions relatives à la transition de l'école primaire au cycle d'orientation ainsi que les modalités d'admission au cycle d'orientation et relatives aux niveaux suivis en Langue 1 et en Mathématiques sont prévues par les articles 19, 21, 22, 24, 45 et 47 LCO.
 
-### Chapitre 4: Spécificités du cycle 3
+### 3.4 Spécificités du cycle 3
 
 #### Art. 24
 
-Promotion - transferts de niveau et conditions d'admission aux écoles du secondaire II La LCO régit les conditions de promotion, de transferts de niveau et d'admission aux écoles du secondaire II.
+**Promotion - Transferts de niveau et conditions d'admission aux écoles du secondaire II**
+
+<sup>1</sup> La LCO régit les conditions de promotion, de transferts de niveau et d'admission aux écoles du secondaire II.
 
 #### Art. 25
 
@@ -318,9 +312,9 @@ Promotion - transferts de niveau et conditions d'admission aux écoles du second
 
 <sup>3</sup> Le conseil de classe établit l'évaluation intermédiaire du premier semestre et remplit les autres tâches prévues par la LCO.
 
-### Section 4: Mesures particulières et d'enseignement spécialisé
+## 4 Mesures particulières et d'enseignement spécialisé
 
-### Chapitre 1: Mesures particulières
+### 4.1 Mesures particulières
 
 #### Art. 27
 
@@ -338,7 +332,9 @@ Promotion - transferts de niveau et conditions d'admission aux écoles du second
 
 **Double échec**
 
-En cas d'un deuxième échec, un passage au degré supérieur avec des mesures particulières telles que définies aux articles 32 à 35 de la présente ordonnance est proposé par le directeur et décidé par l'inspecteur.
+<sup>1</sup> En cas d'un deuxième échec, un passage au degré supérieur avec des mesures particulières telles que définies aux articles 32 à 35 de la présente ordonnance est proposé par le directeur.
+
+<sup>2</sup> La décision est prise par l'inspecteur.
 
 #### Art. 29
 
@@ -374,7 +370,7 @@ En cas d'un deuxième échec, un passage au degré supérieur avec des mesures p
 
 <sup>5</sup> Au terme de sa période de soutien pour élève allophone, une évaluation globale conduite par la direction d'école, en présence du conseiller pédagogique, du titulaire et de l'enseignant de soutien, détermine la promotion, le redoublement ou le passage à la classe supérieure avec d'éventuelles mesures particulières.
 
-### Chapitre 2: Mesures d'enseignement spécialisé
+### 4.2 Mesures d'enseignement spécialisé
 
 #### Art. 32
 
@@ -390,23 +386,21 @@ En cas d'un deuxième échec, un passage au degré supérieur avec des mesures p
 
 **Formes de programmes adaptés au cycle 3**
 
-Les formes suivantes de programme adapté sont possibles au cycle d'orientation:
+<sup>1</sup> Les formes suivantes de programme adapté sont possibles au cycle d'orientation:
 
 - a) programme adapté dans une discipline à niveaux;
-
 - b) programme adapté dans une discipline à niveaux et les disciplines associées;
-
 - c) programme adapté généralisé.
 
 #### Art. 34
 
-Passage en classe supérieure pour les élèves au bénéfice d'un programme adapté
+**Passage en classe supérieure pour les élèves au bénéfice d'un programme adapté**
 
 <sup>1</sup> Les parents entendus, la décision de passage dans une classe supérieure est prise par la direction d'école, sur la base d'une évaluation globale de l'élève.
 
 <sup>2</sup> Aux cycles 1 et 2, un élève au bénéfice d'un programme adapté n'est pas promu en classe supérieure mais passe dans cette classe avec des mesures particulières. Il n'est pas mentionné de moyenne du premier groupe et de moyenne générale.
 
-<sup>3</sup> Au cycle 3, un programme adapté dans une discipline à niveaux est à considérer, par analogie, comme une discipline de niveau 2 inférieure à 4. En application de l'article 30 littera b LCO, l'élève est, en principe, promu en classe supérieure.
+<sup>3</sup> Au cycle 3, un programme adapté dans une discipline à niveaux est à considérer, par analogie, comme une discipline de niveau 2 inférieure à 4. En application de l'article 30 lettre b LCO, l'élève est, en principe, promu en classe supérieure.
 
 <sup>4</sup> Au cycle 3, un élève au bénéfice d'un programme adapté dans plusieurs disciplines n'est pas promu au degré supérieur mais passe avec des mesures particulières. Il n'est pas mentionné de moyenne générale.
 
@@ -414,11 +408,11 @@ Passage en classe supérieure pour les élèves au bénéfice d'un programme ada
 
 **Mesures renforcées d'enseignement spécialisé**
 
-L'évolution des élèves au bénéfice de mesures renforcées d'enseignement spécialisé au sens de l'article 63 LEP et de l'article 18 OLEP est évaluée dans le cadre d'un projet pédagogique individualisé.
+<sup>1</sup> L'évolution des élèves au bénéfice de mesures renforcées d'enseignement spécialisé au sens de l'article 63 LEP et de l'article 18 OLEP est évaluée dans le cadre d'un projet pédagogique individualisé.
 
-### Section 5: Communication des résultats
+## 5 Communication des résultats
 
-### Chapitre 1: Supports cantonaux en lien avec l'évaluation
+### 5.1 Supports cantonaux en lien avec l'évaluation
 
 #### Art. 36
 
@@ -464,7 +458,7 @@ L'évolution des élèves au bénéfice de mesures renforcées d'enseignement sp
 
 <sup>8</sup> Les prescriptions contenues dans la loi sur l'information du public, la protection des données et l'archivage du 9 octobre 2008 (LIPDA) doivent être observées.
 
-### Chapitre 2: Collaboration avec les parents
+### 5.2 Collaboration avec les parents
 
 #### Art. 39
 
@@ -474,25 +468,24 @@ L'évolution des élèves au bénéfice de mesures renforcées d'enseignement sp
 
 <sup>2</sup> A l'exception des première, deuxième et dixième années de programme, l'entretien obligatoire a lieu avant la fin du premier semestre.
 
-<sup>3</sup> La rencontre obligatoire de la dixième année de programme s'effectue après le premier semestre et permet d'effectuer un bilan d'orientation au sens des articles 27 alinéa 4 et 53 littera f LCO.
+<sup>3</sup> La rencontre obligatoire de la dixième année de programme s'effectue après le premier semestre et permet d'effectuer un bilan d'orientation au sens des articles 27 alinéa 4 et 53 lettre f LCO.
 
 <sup>4</sup> En cas de nécessité, d'autres rencontres peuvent être sollicitées par les parents ou l'école.
 
 #### Art. 40
 
-Tâches spécifiques du titulaire de la huitième année de programme En sus du rapport d'évaluation prévu à l'article 19 LCO, les missions et les tâches particulières du titulaire de la huitième année de programme sont les suivantes:
+**Tâches spécifiques du titulaire de la huitième année de programme**
+
+<sup>1</sup> En sus du rapport d'évaluation prévu à l'article 19 LCO, les missions et les tâches particulières du titulaire de la huitième année de programme sont les suivantes:
 
 - a) une information aux parents en début d'année sur les conditions d'accès au cycle d'orientation;
-
 - b) lors de la rencontre individuelle du premier semestre, la situation de l'élève, dans la perspective du passage au cycle d'orientation, sera abordée;
-
 - c) une évaluation intermédiaire durant le deuxième semestre sera communiquée aux parents;
-
 - d) une rencontre concernant les décisions des disciplines à niveaux au cycle d'orientation est proposée aux parents durant le deuxième semestre. Cette rencontre est obligatoire pour les élèves dont la moyenne est 4.9 et/ou 4.8 en Langue 1 et/ou en Mathématiques.
 
 #### Art. 41
 
-Evaluations intermédiaires de la troisième à la onzième année de programme
+**Evaluations intermédiaires de la troisième à la onzième année de programme**
 
 <sup>1</sup> Dès la troisième année de programme, une évaluation intermédiaire est obligatoirement communiquée à l'élève et à ses parents durant le premier semestre.
 
@@ -508,7 +501,7 @@ Evaluations intermédiaires de la troisième à la onzième année de programme
 
 <sup>2</sup> La direction d'école, respectivement la commission scolaire, transmet le livret scolaire et le dossier d'évaluation à la direction d'école, respectivement la commission scolaire, du nouveau domicile.
 
-### Section 6: Dispositions particulières
+## 6 Dispositions particulières
 
 #### Art. 43
 
@@ -518,7 +511,7 @@ Evaluations intermédiaires de la troisième à la onzième année de programme
 
 <sup>2</sup> Cette formule d'archive est conservée durant 15 années.
 
-<sup>3</sup> Conformément à la loi sur l'information du public, la protection des données et l'archivage du 9 octobre 2008 (LIPD), tout document archivé par la direction d'école a été porté à la connaissance des parents de l'élève.
+<sup>3</sup> Conformément à la LIPD, tout document archivé par la direction d'école a été porté à la connaissance des parents de l'élève.
 
 #### Art. 44
 
@@ -526,28 +519,20 @@ Evaluations intermédiaires de la troisième à la onzième année de programme
 
 <sup>1</sup> Les difficultés qui peuvent résulter de l'interprétation ou de l'application de la présente ordonnance sont tranchées par le Département sous réserve de recours au Conseil d'État dans les 30 jours.
 
-<sup>2</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administrative du 6 octobre 1976.
+<sup>2</sup> La procédure de recours est régie par la LPJA.
 
-### Section 7: Dispositions finales
+## 7 Dispositions finales
 
 #### Art. 45
 
 **Abrogation**
 
-L'arrêté concernant l'évaluation du travail des élèves de la scolarité obligatoire et de l'école enfantine du 22 juin 2011 est abrogé.
+<sup>1</sup> L'arrêté concernant l'évaluation du travail des élèves de la scolarité obligatoire et de l'école enfantine du 22 juin 2011 est abrogé.
 
 #### Art. 46
 
 **Entrée en vigueur**
 
-La présente ordonnance sera publiée au Bulletin officiel pour entrer en vigueur le 1<sup>er</sup> août 2015.
+<sup>1</sup> La présente ordonnance sera publiée au Bulletin officiel pour entrer en vigueur le 1<sup>er</sup> août 2015.
 
-Ainsi adopté en Conseil d'Etat à Sion, le 17 juin 2015.
-
-Le président du Conseil d'Etat: Jacques Melly Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Ordonnance relative à l'évaluation du BO No 26/2015 01.08.2015 travail des élèves à l'école obligatoire du 17 juin 2015
+RCV BO/Abl. 26/2015

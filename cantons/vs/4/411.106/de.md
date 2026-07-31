@@ -1,24 +1,24 @@
 ---
 canton: VS
 number: "411.106"
-title: Verordnung über die Beurteilung der Leistungen der Schülerinnen und Schüler der obligatorischen Schulzeit
+title: "Verordnung über die Beurteilung der Leistungen der Schülerinnen und Schüler der obligatorischen Schulzeit *"
 short: VBeurt
 language: de
-version: 2015-08-01
-corrected: 2017-09-06
-version_adopted: 2015-06-17
+version: 2026-08-01
+version_adopted: 2026-05-20
 adopted: 2015-06-17
 in_force: 2015-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/411.106"
-pdf: "https://lex.vs.ch/api/de/versions/548/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3610/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Beurteilung der Leistungen der Schülerinnen und Schüler der obligatorischen Schulzeit
 
-vom 17. Juni 2015
+(VBeurt)
+
+vom 17.06.2015 (Stand 01.08.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -30,23 +30,25 @@ eingesehen das Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962;
 
 eingesehen das Gesetz über die Primarschule vom 15. November 2013 (GPS), insbesondere Artikel 39 Absatz 3;
 
-eingesehen das Gesetz über die Orientierungsschule vom 10. September 2009 (OS-Gesetz), insbesondere die Artikel 19 und 21 bis 28;
+eingesehen das Gesetz über die Orientierungsschule vom 10. September 2009 (GOS), insbesondere die Artikel 19 und 21 bis 28;
 
 eingesehen die Verordnung betreffend das Gesetz über die Primarschule vom 11. Februar 2015 (VGPS);
 
 eingesehen die Verordnung über die überregionalen Strukturen der Orientierungsschule vom 12. Januar 2011;
 
-verordnet:[^t-1]
+auf Antrag des Departements für Bildung und Sicherheit,
 
-[^t-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+verordnet:[^ingress-1]
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Ziele**
 
-Die vorliegende Verordnung definiert die Beurteilungsmodalitäten für die Leistungen der Schülerinnen und Schüler sowie die Promotionsbestimmungen für die verschiedenen Stufen der obligatorischen Schulzeit.
+<sup>1</sup> Die vorliegende Verordnung definiert die Beurteilungsmodalitäten für die Leistungen der Schülerinnen und Schüler sowie die Promotionsbestimmungen für die verschiedenen Stufen der obligatorischen Schulzeit.
 
 #### Art. 2
 
@@ -54,7 +56,7 @@ Die vorliegende Verordnung definiert die Beurteilungsmodalitäten für die Leist
 
 <sup>1</sup> Das Schuljahr ist in zwei Semester aufgeteilt. Das erste Semester dauert von Beginn des Schuljahres bis zu den Weihnachtsferien und das zweite von Januar bis zum Ende des Schuljahres.
 
-<sup>2</sup> Jede Neugestaltung der Semesterdauer durch die Schuldirektion bedarf einer Bewilligung des Departements, welches für die Bildung zuständig ist (nachfolgend das Departement genannt).
+<sup>2</sup> Jede Neugestaltung der Semesterdauer durch die Schuldirektion bedarf einer Bewilligung des Departements, welches für die Bildung zuständig ist (nachfolgend: das Departement).
 
 <sup>3</sup> Das Notenblatt des 1. Semesters wird, wie in Artikel 38 festgelegt, dem Beurteilungsdossier beigelegt.
 
@@ -68,9 +70,7 @@ Die vorliegende Verordnung definiert die Beurteilungsmodalitäten für die Leist
 
 <sup>2</sup> Als Grundlage dient der vom Staatsrat validierte Lehrplan der jeweiligen Sprachregion.
 
-### 2. Abschnitt: Beurteilung der Leistungen der Schülerinnen
-
-und Schüler
+## 2 Beurteilung der Leistungen der Schülerinnen und Schüler
 
 #### Art. 4
 
@@ -84,17 +84,15 @@ und Schüler
 
 #### Art. 5
 
-Zweck der Beurteilung der Leistungen der Schülerinnen und Schüler Die Leistungen der Schülerinnen und Schüler werden in Bezug auf den Lehrplan beurteilt. Diese Beurteilung will:
+**Zweck der Beurteilung der Leistungen der Schülerinnen und Schüler**
+
+<sup>1</sup> Die Leistungen der Schülerinnen und Schüler werden in Bezug auf den Lehrplan beurteilt. Diese Beurteilung will:
 
 - a) im Hinblick auf die Promotions- und Orientierungsentscheide der Schülerinnen und Schüler eine Bilanz über das erworbene Wissen und die Kompetenzen erstellen;
-
 - b) die Schülerinnen und Schüler bezüglich Lernziele und erwartete Kompetenzen einstufen;
-
 - c) die Schülerinnen und Schüler in ihrem Lernprozess anleiten und begleiten;
-
 - d) das bestmögliche Erreichen der Lernziele fördern;
-
-- e) die Eltern bzw. den/die gesetzlichen Vertreter (nachfolgend die Eltern) über die Fortschritte und/oder die Schwierigkeiten informieren.
+- e) die Eltern beziehungsweise den/die gesetzlichen Vertreter (nachfolgend: die Eltern) über die Fortschritte und/oder die Schwierigkeiten informieren.
 
 #### Art. 6
 
@@ -115,14 +113,12 @@ Zweck der Beurteilung der Leistungen der Schülerinnen und Schüler Die Leistung
 <sup>3</sup> Erfolgt die Beurteilung mit Noten, wird sie ausgedrückt mit:
 
 - a) den Noten 6 bis 4 für genügende Leistungen;
-
 - b) den Noten 3.9 bis 1 für ungenügende Leistungen.
 
 <sup>4</sup> Für die folgenden Fälle gelten besondere Bestimmungen:
 
-- a) Bearbeitet die Schülerin oder der Schüler den zu prüfenden Stoff willentlich überhaupt nicht, wird die Note 1 erteilt.
-
-- b) Bei erwiesenem Betrug wird die Note 0 erteilt.
+- a) Bearbeitet die Schülerin oder der Schüler den zu prüfenden Stoff willentlich überhaupt nicht, wird die Note 1 erteilt;
+- b) bei erwiesenem Betrug wird die Note 0 erteilt.
 
 <sup>5</sup> Die Noten und die Durchschnitte werden nach dem üblichen System auf Zehntelsnoten gerundet (Beispiel: 5.29 = 5.3; 4.25 = 4.3; 4.64 = 4.6).
 
@@ -146,21 +142,20 @@ Zweck der Beurteilung der Leistungen der Schülerinnen und Schüler Die Leistung
 
 #### Art. 9
 
-Beurteilung des Verhaltens der Schülerinnen und Schüler im schulischen Umfeld
+**Beurteilung des Verhaltens der Schülerinnen und Schüler im schulischen Umfeld**
 
 <sup>1</sup> Bei der Beurteilung des Verhaltens der Schülerinnen und Schüler wird insbesondere eingegangen auf:
 
 - a) ihr/sein Lern- und Arbeitsverhalten sowie ihren/seinen Lernwillen (Sorgfalt, Ausdauer, Gewissenhaftigkeit);
-
 - b) ihr/sein allgemeines, persönliches und soziales Verhalten innerhalb der Schule.
 
 <sup>2</sup> Diese umfassende Beurteilung wird von der Klassenlehrperson nach Befragung aller Lehrpersonen einer Schülerin oder eines Schülers verfasst.
 
 <sup>3</sup> Die Beurteilung wird regelmässig den Eltern mitgeteilt, namentlich anlässlich der Zwischenbeurteilung im 1. Semester und/oder anlässlich des obligatorischen jährlichen Elterngesprächs. Sie dient der Schülerin oder dem Schüler als Unterstützung in ihrer/seiner Entwicklung.
 
-### 3. Abschnitt: Promotionsbedingungen
+## 3 Promotionsbedingungen
 
-### 1. Kapitel: Allgemeines
+### 3.1 Allgemeines
 
 #### Art. 10
 
@@ -172,7 +167,7 @@ Beurteilung des Verhaltens der Schülerinnen und Schüler im schulischen Umfeld
 
 <sup>3</sup> Der endgültige Entscheid über die Promotion oder Nichtpromotion liegt in der Zuständigkeit der Schuldirektion.
 
-<sup>4</sup> Gegen die Entscheide der Schuldirektion kann beim Schulinspektor Beschwerde eingereicht werden. Das Beschwerdeverfahren wird durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 geregelt.
+<sup>4</sup> Gegen die Entscheide der Schuldirektion kann beim Schulinspektor Beschwerde eingereicht werden. Das Beschwerdeverfahren wird durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG) geregelt.
 
 #### Art. 11
 
@@ -182,7 +177,7 @@ Beurteilung des Verhaltens der Schülerinnen und Schüler im schulischen Umfeld
 
 <sup>2</sup> Der Entscheid über das Wiederholen eines Schuljahrs wird vom Direktor gefällt, wobei die Eltern angehört werden müssen.
 
-<sup>3</sup> In gewissen Ausnahmesituationen, namentlich in jenen, die in Artikel 28 der vorliegenden Verordnung oder in Artikel 32 Absatz 2 OS-Gesetz definiert werden, und für welche die vorgesehenen Massnahmen unter Abschnitt 4 benötigt werden, kann ein Übertritt in die nächste Stufe beschlossen werden.
+<sup>3</sup> In gewissen Ausnahmesituationen, namentlich in jenen, die in Artikel 28 der vorliegenden Verordnung oder in Artikel 32 Absatz 2 GOS definiert werden, und für welche die vorgesehenen Massnahmen unter Kapitel 4 benötigt werden, kann ein Übertritt in die nächste Stufe beschlossen werden.
 
 #### Art. 12
 
@@ -202,7 +197,7 @@ Beurteilung des Verhaltens der Schülerinnen und Schüler im schulischen Umfeld
 
 <sup>2</sup> Werden Gruppenarbeiten benotet, erhält jede Schülerin und jeder Schüler eine individuelle Note, aufgrund des persönlichen Beitrags.
 
-### 2. Kapitel: Besonderheiten des 1. Zyklus
+### 3.2 Besonderheiten des 1. Zyklus
 
 #### Art. 14
 
@@ -219,11 +214,8 @@ Beurteilung des Verhaltens der Schülerinnen und Schüler im schulischen Umfeld
 <sup>1</sup> Im dritten Schuljahr wird jedes Fach ohne Noten beurteilt, wobei folgende Bewertungen verwendet werden:
 
 - a) Lernziele mit Leichtigkeit erreicht;
-
 - b) Lernziele erreicht;
-
 - c) Lernziele teilweise erreicht;
-
 - d) Lernziele nicht erreicht.
 
 <sup>2</sup> Unter Vorbehalt von Artikel 18 der vorliegenden Verordnung erfolgt die Promotion automatisch.
@@ -244,7 +236,7 @@ Beurteilung des Verhaltens der Schülerinnen und Schüler im schulischen Umfeld
 
 **Abschliessende Beurteilung im vierten Schuljahr**
 
-Bei der abschliessenden Beurteilung im vierten Schuljahr werden die Kompetenzen in Deutsch und Mathematik getestet.
+<sup>1</sup> Bei der abschliessenden Beurteilung im vierten Schuljahr werden die Kompetenzen in Deutsch und Mathematik getestet.
 
 #### Art. 18
 
@@ -270,9 +262,9 @@ Bei der abschliessenden Beurteilung im vierten Schuljahr werden die Kompetenzen 
 
 **Nichtpromotion nach Ende des 1. Zyklus**
 
-Der Entscheid über das Wiederholen liegt in der Zuständigkeit der Schuldirektion, wobei die Eltern angehört werden.
+<sup>1</sup> Der Entscheid über das Wiederholen liegt in der Zuständigkeit der Schuldirektion, wobei die Eltern angehört werden.
 
-### 3. Kapitel: Besonderheiten des 2. Zyklus
+### 3.3 Besonderheiten des 2. Zyklus
 
 #### Art. 21
 
@@ -286,19 +278,21 @@ Der Entscheid über das Wiederholen liegt in der Zuständigkeit der Schuldirekti
 
 **Promotion innerhalb des 2. Zyklus**
 
-Die Schülerin oder der Schüler wird promoviert, wenn sie/er in der ersten Gruppe und im Gesamtdurchschnitt einen Notendurchschnitt von mindestens 4.0 erzielt.
+<sup>1</sup> Die Schülerin oder der Schüler wird promoviert, wenn sie/er in der ersten Gruppe und im Gesamtdurchschnitt einen Notendurchschnitt von mindestens 4.0 erzielt.
 
 #### Art. 23
 
 **Bedingungen für die Promotion in den 3. Zyklus**
 
-Die Bestimmungen zum Übertritt von der Primarschule in die Orientierungsschule sowie die Aufnahmebedingungen für die Orientierungsschule und die in Deutsch und Mathematik unterrichteten Niveaus sind in den Artikeln 19, 21, 22, 24, 45 und 47 OS-Gesetz geregelt.
+<sup>1</sup> Die Bestimmungen zum Übertritt von der Primarschule in die Orientierungsschule sowie die Aufnahmebedingungen für die Orientierungsschule und die in Deutsch und Mathematik unterrichteten Niveaus sind in den Artikeln 19, 21, 22, 24, 45 und 47 GOS geregelt.
 
-### 4. Kapitel: Besonderheiten des 3. Zyklus
+### 3.4 Besonderheiten des 3. Zyklus
 
 #### Art. 24
 
-Promotion - Niveauwechsel und Aufnahmebedingungen für die Schulen der Sekundarstufe II Die Promotionsbedingungen, der Niveauwechsel und die Aufnahme in die Schulen der Sekundarstufe II werden im OS-Gesetz geregelt.
+**Promotion - Niveauwechsel und Aufnahmebedingungen für die Schulen der Sekundarstufe II**
+
+<sup>1</sup> Die Promotionsbedingungen, der Niveauwechsel und die Aufnahme in die Schulen der Sekundarstufe II werden im GOS geregelt.
 
 #### Art. 25
 
@@ -316,11 +310,11 @@ Promotion - Niveauwechsel und Aufnahmebedingungen für die Schulen der Sekundars
 
 <sup>2</sup> Der Rat wird von der Schuldirektion oder der Klassenlehrperson einberufen und wird von der Klassenlehrperson geleitet.
 
-<sup>3</sup> Der Klassenrat erstellt die Zwischenbeurteilung des 1. Semesters und übernimmt weitere Aufgaben, die im OS-Gesetz vorgesehen sind.
+<sup>3</sup> Der Klassenrat erstellt die Zwischenbeurteilung des 1. Semesters und übernimmt weitere Aufgaben, die im GOS vorgesehen sind.
 
-### 4. Abschnitt: Besondere Massnahmen und Sonderschulmassnahmen
+## 4 Besondere Massnahmen und Sonderschulmassnahmen
 
-### 1. Kapitel: Besondere Massnahmen
+### 4.1 Besondere Massnahmen
 
 #### Art. 27
 
@@ -338,7 +332,9 @@ Promotion - Niveauwechsel und Aufnahmebedingungen für die Schulen der Sekundars
 
 **Zweimaliges Nichtbestehen**
 
-Bei zweimaligem Nichtbestehen eines Schuljahres schlägt der Direktor einen Wechsel in die nächste Klasse mit besonderen Massnahmen gemäss den Artikeln 32 bis 35 der vorliegenden Verordnung vor. Der Entscheid wird vom Schulinspektor gefällt.
+<sup>1</sup> Bei zweimaligem Nichtbestehen schlägt der Direktor einen Wechsel in die nächste Klasse mit besonderen Massnahmen gemäss den Artikeln 32 bis 35 der vorliegenden Verordnung vor.
+
+<sup>2</sup> Der Entscheid wird vom Schulinspektor gefällt.
 
 #### Art. 29
 
@@ -374,7 +370,7 @@ Bei zweimaligem Nichtbestehen eines Schuljahres schlägt der Direktor einen Wech
 
 <sup>5</sup> Unter der Leitung der Schuldirektion, in Anwesenheit des pädagogischen Beraters, der Klassenlehrperson und der Stützlehrperson, wird gegen Ende des Stützunterrichts für die fremdsprachige Schülerin oder den fremdsprachigen Schüler eine Gesamtbeurteilung vorgenommen, die Aufschluss gibt über die Promotion, das Wiederholen einer Klasse oder den Übertritt ins nächste Schuljahr mit allenfalls besonderen Massnahmen.
 
-### 2. Kapitel: Sonderschulmassnahmen
+### 4.2 Sonderschulmassnahmen
 
 #### Art. 32
 
@@ -390,23 +386,21 @@ Bei zweimaligem Nichtbestehen eines Schuljahres schlägt der Direktor einen Wech
 
 **Formen des angepassten Programms im 3. Zyklus**
 
-An der Orientierungsschule sind folgende Formen von angepasstem Programm möglich:
+<sup>1</sup> An der Orientierungsschule sind folgende Formen von angepasstem Programm möglich:
 
 - a) angepasstes Programm in einem Niveaufach;
-
 - b) angepasstes Programm in einem Niveaufach und in den damit verbundenen Fächern;
-
 - c) allgemeines angepasstes Programm.
 
 #### Art. 34
 
-Übertritt in eine höhere Klasse für Schülerinnen und Schüler mit einem angepassten Programm
+**Übertritt in eine höhere Klasse für Schülerinnen und Schüler mit einem angepassten Programm**
 
 <sup>1</sup> Gestützt auf eine Gesamtbeurteilung der Schülerin oder des Schülers fällt die Schuldirektion den Entscheid über deren/dessen Übertritt in eine höhere Klasse, wobei die Eltern angehört werden.
 
 <sup>2</sup> Im 1. und 2. Zyklus wird eine Schülerin oder ein Schüler mit einem angepassten Programm nicht für eine höhere Klasse promoviert, sondern wechselt mit besonderen Massnahmen ins nächste Schuljahr. Der Durchschnitt der ersten Gruppe und der Gesamtdurchschnitt werden nicht erwähnt.
 
-<sup>3</sup> Im 3. Zyklus wird ein angepasstes Programm in einem Niveaufach analog als Niveau 2 mit einer Note unter 4.0 eingestuft. In Anwendung von Artikel 30 Buchstabe b OS-Gesetz wird die Schülerin oder der Schüler grundsätzlich für die höhere Klasse promoviert.
+<sup>3</sup> Im 3. Zyklus wird ein angepasstes Programm in einem Niveaufach analog als Niveau 2 mit einer Note unter 4.0 eingestuft. In Anwendung von Artikel 30 Buchstabe b GOS wird die Schülerin oder der Schüler grundsätzlich für die höhere Klasse promoviert.
 
 <sup>4</sup> Im 3. Zyklus wird eine Schülerin oder ein Schüler mit einem angepassten Programm in mehreren Fächern nicht fürs nächste Schuljahr promoviert, sondern tritt mit besonderen Massnahmen in die nächste Klasse über. Der Gesamtdurchschnitt wird nicht erwähnt.
 
@@ -414,11 +408,11 @@ An der Orientierungsschule sind folgende Formen von angepasstem Programm möglic
 
 **Verstärkte Sonderschulmassnahmen**
 
-Der Fortschritt von Schülerinnen und Schülern mit verstärkten Sonderschulmassnahmen im Sinne von Artikel 63 GPS und Artikel 18 VGPS werden im Rahmen eines individuellen Förderkonzepts beurteilt.
+<sup>1</sup> Der Fortschritt von Schülerinnen und Schülern mit verstärkten Sonderschulmassnahmen im Sinne von Artikel 63 GPS und Artikel 18 VGPS werden im Rahmen eines individuellen Förderkonzepts beurteilt.
 
-### 5. Abschnitt: Bekanntgabe der Ergebnisse
+## 5 Bekanntgabe der Ergebnisse
 
-### 1. Kapitel: Kantonale Dokumente zur Beurteilung
+### 5.1 Kantonale Dokumente zur Beurteilung
 
 #### Art. 36
 
@@ -464,7 +458,7 @@ Der Fortschritt von Schülerinnen und Schülern mit verstärkten Sonderschulmass
 
 <sup>8</sup> Die im Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA) enthaltenen Vorschriften müssen beachtet werden.
 
-### 2. Kapitel: Zusammenarbeit mit den Eltern
+### 5.2 Zusammenarbeit mit den Eltern
 
 #### Art. 39
 
@@ -474,20 +468,19 @@ Der Fortschritt von Schülerinnen und Schülern mit verstärkten Sonderschulmass
 
 <sup>2</sup> Mit Ausnahme des ersten, zweiten und zehnten Schuljahres findet das obligatorische Gespräch immer vor Ende des 1. Semesters statt.
 
-<sup>3</sup> Das obligatorische Treffen im zehnten Schuljahr findet nach dem 1. Semester statt und erlaubt es, die Standortbestimmung im Sinne von Artikel 27 Absatz 4 und Artikel 53 Buchstabe f OS-Gesetz vorzunehmen.
+<sup>3</sup> Das obligatorische Treffen im zehnten Schuljahr findet nach dem 1. Semester statt und erlaubt es, die Standortbestimmung im Sinne von Artikel 27 Absatz 4 und Artikel 53 Buchstabe f GOS vorzunehmen.
 
 <sup>4</sup> Auf Wunsch der Eltern oder der Schule können bei Bedarf weitere Gespräche durchgeführt werden.
 
 #### Art. 40
 
-Besondere Aufgaben der Klassenlehrperson im achten Schuljahr Zusätzlich zum Evaluationsbericht, wie in Artikel 19 OS-Gesetz vorgesehen, hat die Klassenlehrperson im achten Schuljahr folgende Aufträge und besonderen Aufgaben wahrzunehmen:
+**Besondere Aufgaben der Klassenlehrperson im achten Schuljahr**
+
+<sup>1</sup> Zusätzlich zum Evaluationsbericht, wie in Artikel 19 GOS vorgesehen, hat die Klassenlehrperson im achten Schuljahr folgende Aufträge und besonderen Aufgaben wahrzunehmen:
 
 - a) die Eltern zu Beginn des Schuljahres über die Aufnahmebedingungen für die Orientierungsschule zu informieren;
-
 - b) beim Einzelgespräch im 1. Semester die Situation der Schülerin oder des Schülers im Hinblick auf den Übertritt in die Orientierungsschule anzusprechen;
-
 - c) den Eltern im Verlaufe des 2. Semesters eine Zwischenbeurteilung zukommen zu lassen;
-
 - d) den Eltern im Verlaufe des 2. Semesters ein Treffen vorzuschlagen, bei dem die Entscheide zu den Niveaufächern an der Orientierungsschule besprochen werden. Für Schülerinnen und Schüler, deren Durchschnitt in den Fächern Deutsch und/oder Mathematik bei 4.9 und/oder 4.8 liegt, ist dieses Treffen obligatorisch.
 
 #### Art. 41
@@ -508,7 +501,7 @@ Besondere Aufgaben der Klassenlehrperson im achten Schuljahr Zusätzlich zum Eva
 
 <sup>2</sup> Die Schuldirektion respektive Schulkommission lässt das Schulzeugnis und das Beurteilungsdossier der Schuldirektion oder Schulkommission am neuen Wohnort zukommen.
 
-### 6. Abschnitt: Besondere Bestimmungen
+## 6 Besondere Bestimmungen
 
 #### Art. 43
 
@@ -518,7 +511,7 @@ Besondere Aufgaben der Klassenlehrperson im achten Schuljahr Zusätzlich zum Eva
 
 <sup>2</sup> Diese Angaben werden während 15 Jahren aufbewahrt.
 
-<sup>3</sup> Wie im Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA) festgehalten, müssen die Eltern der Schülerin oder des Schülers darüber in Kenntnis gesetzt werden, welche Dokumente die Schuldirektion archiviert.
+<sup>3</sup> Wie im GIDA festgehalten, müssen die Eltern der Schülerin oder des Schülers darüber in Kenntnis gesetzt werden, welche Dokumente die Schuldirektion archiviert.
 
 #### Art. 44
 
@@ -526,32 +519,20 @@ Besondere Aufgaben der Klassenlehrperson im achten Schuljahr Zusätzlich zum Eva
 
 <sup>1</sup> Die Schwierigkeiten, die bei der Auslegung oder bei der Anwendung dieser Verordnung entstehen können, werden vom Departement, unter Vorbehalt der Beschwerde an den Staatsrat innert 30 Tagen, entschieden.
 
-<sup>2</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976.
+<sup>2</sup> Das Beschwerdeverfahren richtet sich nach dem VVRG.
 
-### 7. Abschnitt: Schlussbestimmungen
+## 7 Schlussbestimmungen
 
 #### Art. 45
 
 **Aufhebung bisherigen Rechts**
 
-Der Beschluss über die Beurteilung der Leistungen von Schülerinnen und Schülern der obligatorischen Schulzeit und des Kindergartens vom 22. Juni 2011 wird aufgehoben.
+<sup>1</sup> Der Beschluss über die Beurteilung der Leistungen von Schülerinnen und Schülern der obligatorischen Schulzeit und des Kindergartens vom 22. Juni 2011 wird aufgehoben.
 
 #### Art. 46
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung wird im Amtsblatt publiziert und tritt am 1. August 2015 in Kraft.
+<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt publiziert und tritt am 1. August 2015 in Kraft.
 
-So angenommen im Staatsrat in Sitten, den 17. Juni 2015.
-
-Der Präsident des Staatsrates: Jacques Melly Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Verordnung über die Beurteilung der Abl. Nr. 26/2015 01.08.2015
-
-### Leistungen der Schülerinnen und Schüler
-
-der obligatorischen Schulzeit vom 17. Juni
-
-### 2015
+CSW BO/Abl. 26/2015
