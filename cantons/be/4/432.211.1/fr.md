@@ -4,13 +4,12 @@ number: "432.211.1"
 title: "Ordonnance sur l'école obligatoire"
 short: OEO
 language: fr
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-03-17
+version: 2026-08-01
+version_adopted: 2026-05-18
 adopted: 2013-01-10
 in_force: 2013-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3160/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3387/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3160/pdf_file"
 
 (OEO)
 
-du 10.01.2013 (état au 01.08.2025)
+du 10.01.2013 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -235,7 +234,7 @@ arrête:
 
 **Barème de subvention**
 
-<sup>1</sup> Une subvention de 16.90 francs est octroyée pour chaque élève ayant directement accès au travail social en milieu scolaire.
+<sup>1</sup> Une subvention de 17 francs est octroyée pour chaque élève ayant directement accès au travail social en milieu scolaire.
 
 <sup>2</sup> Si la subvention calculée conformément à l’alinéa 1 dépasse dix pour cent des coûts de traitement effectifs, la commune n’a droit qu’à une subvention correspondant à dix pour cent des coûts de traitement effectifs.
 
