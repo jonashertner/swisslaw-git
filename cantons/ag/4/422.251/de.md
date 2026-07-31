@@ -2,33 +2,31 @@
 canton: AG
 number: "422.251"
 title: Verordnung über die Berufsmaturität an Berufsfachschulen
-short: V Berufsmaturität BFS
+short: V BM
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-05-28
+version: 2026-08-01
+version_adopted: 2026-05-27
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.251"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3829/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4010/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Berufsmaturität an Berufsfachschulen
 
-(V Berufsmaturität BFS)
+(V BM)
 
-Vom 07.11.2007 (Stand 01.08.2025)
+Vom 07.11.2007 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 18 Abs. 2 und 35 Abs. 1 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1] sowie Art. 8 Abs. 2, 14 Abs. 1, 20 Abs. 1 und 27 Abs. 2 der Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung; BMV) vom 24. Juni 2009[^ingress-2],
+gestützt auf die §§ 17b Abs. 2, 18 Abs. 2, 22 Abs. 3 und 35 Abs. 1 des Gesetzes über die Berufs- und Weiterbildung (GBW) vom 6. März 2007[^ingress-1],
 
 beschliesst:
 
 [^ingress-1]: SAR [422.200](https://gesetzessammlungen.ag.ch/data/422.200/de)
-[^ingress-2]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
 ## 1. Aufnahme
 
@@ -40,35 +38,39 @@ beschliesst:
 
 <sup>1</sup> In das erste Semester eines Berufsmaturitätsbildungsgangs für Lernende der beruflichen Grundbildung wird definitiv aufgenommen, wer
 
-- a) am Ende des ersten oder zweiten Semesters der 3. Klasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 5 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat.
+- a) am Ende des ersten oder zweiten Semesters der 3. Klasse der Bezirks- oder Sekundarschule an einer öffentlichen Schule in den Fächern und nach Berechnung gemäss Anhang 5 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat.
 - b) …
 
-<sup>1<sup>bis</sup></sup> Die in Absatz 1 aufgeführten Notendurchschnitte berechtigen zur einmaligen Aufnahme auf Beginn eines der beiden Schuljahre, die im Anschluss an die 3. Klasse der Bezirks- oder Sekundarschule folgen.
+<sup>1<sup>bis</sup></sup> Die Notendurchschnitte gemäss Absatz 1 berechtigen zur Aufnahme jeweils auf den Beginn der zwei Schuljahre, die im Anschluss an die 3. Klasse der Bezirks- oder Sekundarschule folgen.
 
-<sup>2</sup> Wer die Voraussetzungen von Absatz 1 nicht erfüllt, hat eine Aufnahmeprüfung gemäss §§ 5 ff. zu bestehen.
+<sup>2</sup> Wer die Voraussetzungen gemäss Absatz 1 nicht erfüllt, hat eine Aufnahmeprüfung gemäss den §§ 5–10 zu bestehen.
 
 #### § 1a
 
 **Übertritt aus dem Gymnasium**
 
-<sup>1</sup> Wer aus dem Gymnasium austritt, ist berechtigt, im laufenden oder darauffolgenden Schuljahr prüfungsfrei in einen Berufsmaturitätsbildungsgang an einer Berufsfachschule überzutreten.
+<sup>1</sup> Wer aus dem Gymnasium austritt, ist berechtigt, im laufenden oder den zwei darauffolgenden Schuljahren prüfungsfrei in einen Berufsmaturitätsbildungsgang an einer Berufsfachschule überzutreten.
 
-<sup>2</sup> Wer die Voraussetzungen von Absatz 1 nicht erfüllt, hat eine Aufnahmeprüfung gemäss den §§ 5 ff. zu bestehen.
+<sup>2</sup> Wer die Voraussetzungen gemäss Absatz 1 nicht erfüllt, hat eine Aufnahmeprüfung gemäss den §§ 5–10 zu bestehen.
 
 #### § 2
 
 **Bildungsgänge für gelernte Berufsleute (BM II)**
 
-<sup>1</sup> In das erste Semester eines Berufsmaturitätsbildungsgangs für gelernte Berufsleute wird aufgenommen, wer eine Aufnahmeprüfung gemäss den §§ 5 ff. bestanden hat und über ein eidgenössisches Fähigkeitszeugnis gemäss der Berufsbildungsgesetzgebung des Bundes oder einen gleichwertigen Ausbildungsabschluss verfügt.
+<sup>1</sup> In das erste Semester eines Berufsmaturitätsbildungsgangs für gelernte Berufsleute wird aufgenommen, wer eine Aufnahmeprüfung gemäss den §§ 5–10 bestanden hat und über ein eidgenössisches Fähigkeitszeugnis gemäss der Berufsbildungsgesetzgebung des Bundes oder einen gleichwertigen Ausbildungsabschluss verfügt.
+
+<sup>1<sup>bis</sup></sup> Prüfungsfrei in das erste Semester aufgenommen wird, wer über ein eidgenössisches Fähigkeitszeugnis verfügt und
+
+- a) dieses mit einem Notendurchschnitt von mindestens 5,0 abgeschlossen hat oder
+- b) mit den Semesterzeugnisnoten des ersten bis vorletzten Semesters an der Berufsfachschule in den schulischen Qualifikationsbereichen einen Notendurchschnitt von mindestens 5,0 erzielt hat.
+
+<sup>1<sup>ter</sup></sup> Die prüfungsfreie Aufnahme gemäss Absatz 1<sup>bis</sup> lit. b gilt nur für das Schuljahr nach Abschluss des eidgenössischen Fähigkeitszeugnisses. Danach gilt Absatz 1<sup>bis</sup> lit. a.
 
 <sup>2</sup> …
 
-<sup>3</sup> In das erste Semester des Typs Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen wird prüfungsfrei aufgenommen, wer über ein eidgenössisches Fähigkeitszeugnis Kauffrau/Kaufmann verfügt und
+<sup>3</sup> …
 
-- a) dieses mit einem Notendurchschnitt von mindestens 4,7 im Qualifikationsbereich "Berufskenntnisse und Allgemeinbildung" (Gewichtung ½) sowie der Erfahrungsnote (½) abgeschlossen hat oder
-- b) mit den Zeugnisnoten des 5. Semesters im Qualifikationsbereich "Berufskenntnisse und Allgemeinbildung", einschliesslich der optionsspezifischen Berufskenntnisse, einen Notendurchschnitt von mindestens 4,7 erzielt hat.
-
-<sup>3<sup>bis</sup></sup> In das erste Semester des Typs Dienstleistungen der Ausrichtung Wirtschaft und Dienstleistungen sowie der übrigen Ausrichtungen wird prüfungsfrei aufgenommen, wer im eidgenössischen Fähigkeitszeugnis einen Notendurchschnitt von mindestens 5,0 erzielt hat.
+<sup>3<sup>bis</sup></sup> …
 
 #### § 3
 
@@ -98,7 +100,7 @@ beschliesst:
 
 **Wegleitung**
 
-<sup>1</sup> Die Berufsfachschulen erstellen eine einheitliche Prüfungswegleitung und unterbreiten diese der Abteilung Berufsbildung und Mittelschule zur Genehmigung.
+<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule erstellt eine einheitliche Prüfungswegleitung zuhanden der Berufsfachschulen.
 
 #### § 6
 
@@ -154,7 +156,7 @@ beschliesst:
 
 **Gültigkeit**
 
-<sup>1</sup> Eine bestandene Aufnahmeprüfung berechtigt zum Eintritt auf Beginn eines der beiden auf die Prüfung folgenden Schuljahre.
+<sup>1</sup> Eine bestandene Aufnahmeprüfung berechtigt zum Eintritt jeweils auf den Beginn der zwei auf die Prüfung folgenden Schuljahre.
 
 ## 2. Unterricht und Promotion
 
@@ -162,19 +164,41 @@ beschliesst:
 
 **Grundlagenfächer Sprachen**
 
-<sup>1</sup> Folgende Sprachen sind Grundlagenfächer für sämtliche Ausbildungsrichtungen:
+<sup>1</sup> Neben Englisch gemäss Art. 8 Abs. 1 lit. c der Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung; BMV) vom 13. Juni 2025[^11-1] sind folgende Landessprachen Grundlagenfächer für sämtliche Ausbildungsrichtungen:
 
 - a) Deutsch (erste Landessprache),
-- b) Französisch (zweite Landessprache),
-- c) Englisch (dritte Sprache).
+- b) Französisch (zweite Landessprache).
+- c) …
+
+[^11-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
 #### § 12
 
 **Dispensationen**
 
-<sup>1</sup> Wer in einem Fach über die erforderlichen Kenntnisse und Fähigkeiten verfügt, kann auf Gesuch hin von der Schulleitung vom Unterricht in diesem Fach dispensiert werden. Im Semesterzeugnis wird der Vermerk «dispensiert» eingetragen.
+<sup>1</sup> Die Schulleitung erteilt auf Gesuch hin Dispensationen vom Unterricht in einzelnen Fächern gemäss Art. 15 Abs. 1 BMV.
 
 <sup>2</sup> …
+
+#### § 12a
+
+**Disziplinarmassnahmen**
+
+<sup>1</sup> Bei Verstössen gegen die Schulordnung werden verhältnismässige Disziplinarmassnahmen gemäss § 22 GBW und § 16 der Verordnung über die Berufs- und Weiterbildung (VBW) vom 7. November 2007[^12a-1] ergriffen.
+
+<sup>2</sup> Bei unbegründeten Absenzen von Lernenden in einem Bildungsgang für gelernte Berufsleute (BM II) werden nacheinander folgende Disziplinarmassnahmen ergriffen:
+
+- a) schriftliche Verwarnung durch die Schulleitung,
+- b) definitive Wegweisung von der Schule durch die Abteilung Berufsbildung und Mittelschule des Departements Bildung, Kultur und Sport (BKS) auf Antrag der Schulleitung.
+
+<sup>3</sup> Unbegründete Absenzen sind das Fernbleiben, Zuspätkommen oder frühzeitige Verlassen des Unterrichts
+
+- a) ohne Bewilligung der Lehrperson oder
+- b) ohne Entschuldigungsgründe gemäss § 15 VBW.
+
+<sup>4</sup> Die Schulleitung und die Lehrpersonen orientieren die Lernenden zum Schuljahresbeginn schriftlich und mündlich über die Disziplinarregelungen.
+
+[^12a-1]: SAR [422.211](https://gesetzessammlungen.ag.ch/data/422.211/de)
 
 #### § 13
 
@@ -194,35 +218,39 @@ beschliesst:
 
 <sup>2</sup> Für die Durchführung des Qualifikationsverfahrens ist die Schulleitung beziehungsweise die Prüfungsleitung zuständig.
 
-<sup>3</sup> Die Berufsfachschulen erstellen eine einheitliche Prüfungswegleitung und unterbreiten diese der Abteilung Berufsbildung und Mittelschule zur Genehmigung.
+<sup>3</sup> Die Abteilung Berufsbildung und Mittelschule erstellt eine einheitliche Prüfungswegleitung zuhanden der Berufsfachschulen sowie der Wirtschafts- und Informatikmittelschulen.
 
 #### § 14a
 
-**Prüfungsaufgaben**
-
-<sup>1</sup> Beim Typ Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen sind die schriftlichen Prüfungen an allen Berufsfachschulen gleich, mit denselben Hilfsmitteln zu lösen und finden zum gleichen Zeitpunkt statt. Bei der Ausrichtung Technik, Architektur und Life Sciences gilt dasselbe für das Fach Mathematik.
-
-<sup>2</sup> Die mündlichen Prüfungen werden von den jeweiligen Berufsfachschulen individuell erarbeitet und organisiert.
+**…**
 
 #### § 14b
 
-**Validierung**
-
-<sup>1</sup> Die Validierung der Prüfungsaufgaben obliegt der Abteilung Berufsbildung und Mittelschule. Sie kann die Validierung Dritten übertragen.
+**…**
 
 #### § 15
 
-**Fachexpertinnen und -experten**
+**…**
 
-<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule kann zur Qualitätssicherung Fachexpertinnen und -experten mit der Beurteilung von mündlichen und schriftlichen Prüfungen beauftragen.
+#### § 15a
 
-<sup>2</sup> Fachexpertinnen und -experten können gleichzeitig auch die Funktion der Koexaminatorinnen beziehungsweise -examinatoren übernehmen.
+**Prüfungsaufgaben und Validierung**
+
+<sup>1</sup> Die schriftlichen Abschlussprüfungen in einer Ausrichtung der Berufsmaturität sind an allen Berufsfachschulen identisch, mit denselben Hilfsmitteln zu lösen und sie finden zum gleichen Zeitpunkt statt.
+
+<sup>2</sup> Bei der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, werden dieselben schriftlichen Abschlussprüfungen wie an den Wirtschafts- und Informatikmittelschulen absolviert. Sie sind mit denselben Hilfsmitteln zu lösen und finden zum gleichen Zeitpunkt statt.
+
+<sup>3</sup> Die Validierung der Prüfungsaufgaben obliegt den Berufsfachschulen gemeinsam mit den Wirtschafts- und Informatikmittelschulen in Zusammenarbeit mit den Fachhochschulen.
+
+<sup>4</sup> Die mündlichen Abschlussprüfungen werden von den Berufsfachschulen individuell erarbeitet und organisiert.
+
+<sup>5</sup> Nachprüfungen werden von den Berufsfachschulen individuell organisiert und müssen validiert sein.
 
 #### § 16
 
-**Information der Berufsmaturandinnen und Berufsmaturanden**
+**Information der Lernenden**
 
-<sup>1</sup> Die Schulleitung gibt den Berufsmaturandinnen beziehungsweise Berufsmaturanden die Prüfungsfächer spätestens ein Semester vor dem jeweiligen Abschluss schriftlich bekannt.
+<sup>1</sup> Die Schulleitung gibt den Lernenden die Prüfungsfächer spätestens ein Semester vor dem jeweiligen Abschluss schriftlich bekannt.
 
 #### § 17
 
@@ -254,9 +282,7 @@ beschliesst:
 
 **Subsidiäres Recht**
 
-<sup>1</sup> Soweit diese Verordnung keine besonderen Bestimmungen enthält, ist die Verordnung über die Berufs- und Weiterbildung (VBW) vom 7. November 2007[^21-1] anwendbar.
-
-[^21-1]: SAR [422.211](https://gesetzessammlungen.ag.ch/data/422.211/de)
+<sup>1</sup> Soweit diese Verordnung keine besonderen Bestimmungen enthält, ist die VBW anwendbar.
 
 ### 3.2. Fächer, Form und Dauer
 
@@ -268,13 +294,13 @@ beschliesst:
 
 **Dispensation**
 
-<sup>1</sup> Wer in einem Fach die erforderlichen Kenntnisse und Fähigkeiten nachweist, kann auf Gesuch hin durch die Abteilung Berufsbildung und Mittelschule von der Abschlussprüfung dispensiert werden. Im Berufsmaturitätszeugnis wird der Vermerk «erfüllt» eingetragen.
+<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule erteilt auf Gesuch hin Dispensationen von der Abschlussprüfung in einzelnen Fächern gemäss Art. 15 Abs. 2 BMV.
 
 #### § 23
 
-**Fremdsprachen**
+**Fremdsprachendiplome**
 
-<sup>1</sup> Bei Fremdsprachen kann das Ergebnis einer Diplomprüfung eines vom SBFI anerkannten Fremdsprachendiploms die ganze Abschlussprüfung ersetzen.
+<sup>1</sup> Anerkannte Fremdsprachendiplomprüfungen können die Abschlussprüfung in der betreffenden Fremdsprache ersetzen und werden in eine Prüfungsnote umgerechnet. Es gilt die Empfehlung der Schweizerischen Berufsbildungsämter-Konferenz (SBBK) betreffend Berücksichtigung und Umrechnung der Fremdsprachendiplome im Rahmen der Berufsmaturität.
 
 <sup>1<sup>bis</sup></sup> Die Schulleitung setzt den Zeitpunkt fest, bis zu welchem die Schülerinnen und Schüler entscheiden müssen, ob das Ergebnis der Diplomprüfung oder dasjenige der Abschlussprüfung als Prüfungsnote angerechnet werden soll.
 
@@ -309,7 +335,7 @@ beschliesst:
 
 **Nachprüfung**
 
-<sup>1</sup> Die Schulleitung ordnet für Berufsmaturandinnen beziehungsweise Berufsmaturanden, die aus entschuldbaren Gründen an Fachprüfungen nicht teilnehmen konnten, eine Nachprüfung an, sobald der Hinderungsgrund weggefallen ist.
+<sup>1</sup> Die Schulleitung ordnet für Lernende, die aus entschuldbaren Gründen an Fachprüfungen nicht teilnehmen konnten, eine Nachprüfung an, sobald der Hinderungsgrund weggefallen ist.
 
 <sup>2</sup> Dauert die Hinderung seit dem Prüfungstermin länger als drei Monate an, ist die Nachprüfung in der Regel im Rahmen der nächsten ordentlichen Prüfungsperiode abzulegen.
 
@@ -325,22 +351,44 @@ beschliesst:
 
 #### § 30
 
-**Aufnahmeprüfungsfach Englisch**
-
-<sup>1</sup> …
+**…**
 
 #### § 30a
 
-**Übergangsbestimmungen für Lernende in der beruflichen Grundbildung Kauffrau/Kaufmann EFZ**
+**Übergangsbestimmungen für Lernende in der beruflichen Grundbildung Kauffrau/Kaufmann EFZ a) Ersatzprüfung für das E-Profil**
 
-<sup>1</sup> Für Lernende, die ihre berufliche Grundbildung Kauffrau/Kaufmann EFZ vor dem Schuljahr 2023/24 begonnen haben, gelten bis längstens zum 31. Dezember 2027 die Bestimmungen des bisherigen Rechts zur
+<sup>1</sup> Lernende, die ihre berufliche Grundbildung Kauffrau/Kaufmann EFZ vor dem Schuljahr 2023/24 begonnen und ihren Berufsmaturitätsabschluss nicht bestanden haben und auch die Bedingungen für die erweiterte Grundbildung (E-Profil) nicht erfüllen, können bis längstens 31. Dezember 2027 eine Ersatzprüfung für das E-Profil absolvieren. Es gelten die Bestimmungen des bisherigen Rechts zur Ersatzprüfung für Kaufleute gemäss den §§ 28 und 29.
 
-- a) prüfungsfreien Aufnahme in einen Bildungsgang für gelernte Berufsleute (BM II) gemäss § 2 Abs. 3,
-- b) Ersatzprüfung für Kaufleute gemäss den §§ 28 und 29.
+- a) …
+- b) …
 
-<sup>2</sup> Für Lernende gemäss Absatz 1, die auf ihren schriftlichen Antrag hin das Qualifikationsverfahren gemäss Art. 31 Abs. 3 der Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ) vom 16. August 2021[^30a-1] nach neuem Recht absolvieren, gilt auch für die prüfungsfreie Aufnahme in einen Bildungsgang für gelernte Berufsleute (BM II) das neue Recht gemäss § 2 Abs. 3.
+<sup>2</sup> …
 
-[^30a-1]: SR [412.101.221.73](https://db.clex.ch/link/Bund/412.101.221.73/de)
+#### § 30b
+
+**b) Aufnahme in einen Bildungsgang für gelernte Berufsleute (BM II)**
+
+<sup>1</sup> Lernende, die ihre berufliche Grundbildung Kauffrau/Kaufmann EFZ vor dem Schuljahr 2023/24 begonnen haben, werden bis und mit Schuljahr 2030/31 in einen Bildungsgang für gelernte Berufsleute (BM II) des Typs Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen prüfungsfrei aufgenommen, wenn sie über ein eidgenössisches Fähigkeitszeugnis Kauffrau/Kaufmann erweiterte Grundbildung (E-Profil) verfügen und
+
+- a) dieses mit einer schulischen Gesamtnote von mindestens 4,7 abgeschlossen haben oder
+- b) mit den Zeugnisnoten des 5. Semesters in den Fächern Wirtschaft und Gesellschaft (Gewichtung 2/5), Deutsch (Gewichtung 1/5), Französisch (Gewichtung 1/5) und mit der Zeugnisnote des 4. Semesters im Fach Englisch (Gewichtung 1/5) einen Notendurchschnitt von mindestens 4,7 erzielt haben.
+
+<sup>2</sup> Lernende, die ihre berufliche Grundbildung Kauffrau/Kaufmann EFZ in den Schuljahren 2023/24 bis 2025/26 begonnen haben, werden bis und mit Schuljahr 2030/31 in einen Bildungsgang für gelernte Berufsleute (BM II) des Typs Wirtschaft der Ausrichtung Wirtschaft und Dienstleistungen prüfungsfrei aufgenommen, wenn sie über ein eidgenössisches Fähigkeitszeugnis Kauffrau/Kaufmann verfügen und
+
+- a) dieses mit einem Notendurchschnitt von mindestens 4,7 im Qualifikationsbereich "Berufskenntnisse und Allgemeinbildung" (Gewichtung ½) sowie der Erfahrungsnote (½) abgeschlossen haben oder
+- b) mit den Zeugnisnoten des 5. Semesters im Qualifikationsbereich "Berufskenntnisse und Allgemeinbildung", einschliesslich der optionsspezifischen Berufskenntnisse, einen Notendurchschnitt von mindestens 4,7 erzielt haben.
+
+<sup>3</sup> Die prüfungsfreie Aufnahme mit den Zeugnisnoten des 5. Semesters gilt nur für das Schuljahr nach Abschluss des Qualifikationsverfahrens, danach gilt der Notendurchschnitt im eidgenössischen Fähigkeitszeugnis.
+
+<sup>4</sup> Für Lernende gemäss Absatz 1, die auf ihren schriftlichen Antrag hin das Qualifikationsverfahren gemäss Art. 31 Abs. 3 der Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ) vom 16. August 2021[^30b-1] nach neuem Recht absolvieren, gilt für die prüfungsfreie Aufnahme in einen Bildungsgang für gelernte Berufsleute (BM II) die Aufnahmebestimmung gemäss Absatz 2.
+
+[^30b-1]: SR [412.101.221.73](https://db.clex.ch/link/Bund/412.101.221.73/de)
+
+#### § 30c
+
+**Übergangsbestimmung zur totalrevidierten eidgenössischen Berufsmaturitätsverordnung vom 13. Juni 2025**
+
+<sup>1</sup> Für Lernende, die einen Berufsmaturitätsbildungsgang vor dem Schuljahr 2026/27 begonnen haben, gilt das bisherige Recht bis längstens 31. Juli 2033 weiter. § 30b bleibt vorbehalten.
 
 #### § 31
 
