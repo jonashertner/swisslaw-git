@@ -4,13 +4,12 @@ number: "171.100"
 title: Gesetz über die Einwohnergemeinden
 short: "Gemeindegesetz, GG"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-06-17
+version: 2026-08-01
+version_adopted: 2025-09-23
 adopted: 1978-12-19
 in_force: 1981-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3886/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3944/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3886/pdf_file"
 
 (Gemeindegesetz, GG)
 
-Vom 19.12.1978 (Stand 01.01.2026)
+Vom 19.12.1978 (Stand 01.08.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -494,7 +493,11 @@ beschliesst:
 
 <sup>2</sup> Erklären Betroffene, dass sie mit der Verfügung dieser Stelle nicht einverstanden sind, entscheidet der Gemeinderat selber. Die Erklärung ist innert 10 Tagen nach Zustellung der Verfügung schriftlich beim Gemeinderat einzureichen.
 
+<sup>2<sup>bis</sup></sup> Gegen delegierte schulische Entscheide gemäss § 85 Abs. 3 des Volksschulgesetzes (VSG) vom 23. September 2025[^39-1] ist direkt bei der zuständigen Rechtsmittelinstanz Beschwerde zu führen.
+
 <sup>3</sup> Die Einzelheiten der Delegation sind vom Gemeinderat in einem Reglement festzulegen.
+
+[^39-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 
 #### § 40
 
