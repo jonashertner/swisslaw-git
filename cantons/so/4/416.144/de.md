@@ -4,13 +4,12 @@ number: "416.144"
 title: Reglement über das Qualifikationsverfahren im Fach Allgemeinbildung in der beruflichen Grundbildung
 short: ABU-Prüfungsreglement
 language: de
-version: 2018-08-01
-valid_until: 2026-07-31
-version_adopted: 2017-12-01
+version: 2026-08-01
+version_adopted: 2026-03-01
 adopted: 2013-05-17
 in_force: 2013-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.144"
-pdf: "https://bgs.so.ch/api/de/versions/4668/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +18,9 @@ pdf: "https://bgs.so.ch/api/de/versions/4668/pdf_file"
 
 (ABU-Prüfungsreglement)
 
-Vom 17.05.2013 (Stand 01.08.2018)
+Vom 17.05.2013 (Stand 01.08.2026)
 
-Das Departement für Bildung und Kultur
+Das Departement für Bildung, Kultur und Sport
 
 gestützt auf § 44 Absatz 1 Buchstabe a des Gesetzes über die Berufsbildung (GBB) vom 3. September 2008[^ingress-1]
 
@@ -37,7 +36,7 @@ erlässt:
 
 <sup>1</sup> Dieses Reglement gilt für das Qualifikationsverfahren im Fach Allgemeinbildung in der beruflichen Grundbildung, die zum eidgenössischen Fähigkeitszeugnis oder zum eidgenössischen Berufsattest führt.
 
-<sup>2</sup> Es ergänzt die Verordnung des SBFI vom 27. April 2006 über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^1-1].
+<sup>2</sup> Es ergänzt die Verordnung des SBFI vom 9. April 2025 über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^1-1].
 
 [^1-1]: SR [412.101.241](https://db.clex.ch/link/Bund/412.101.241/de).
 
@@ -65,7 +64,7 @@ erlässt:
 
 - a) lokale Prüfungsorganisation nach den Vorgaben des Chefexperten oder der Chefexpertin und der Arbeitsgruppe Qualifikationsverfahren Allgemeinbildung;
 - b) Dokumentieren und Verwalten der lokalen Prüfungsergebnisse;
-- c) Rückweisen von Vertiefungsarbeiten auf Antrag der prüfenden Lehrperson und im Einvernehmen mit dem Chefexperten oder der Chefexpertin;
+- c) Rückweisen von Schlussarbeiten auf Antrag der prüfenden Lehrperson und im Einvernehmen mit dem Chefexperten oder der Chefexpertin;
 - d) Durchführen des Qualifikationsverfahrens für Repetierende nach Anordnung der kantonalen Prüfungsleitung und des Chefexperten oder der Chefexpertin.
 
 #### § 4
@@ -93,7 +92,7 @@ erlässt:
 
 **Prüfende Lehrpersonen**
 
-<sup>1</sup> Die Lehrpersonen im Fach Allgemeinbildung werden als Prüfende eingesetzt.
+<sup>1</sup> Die Lehrpersonen im Fach Allgemeinbildung sowie weitere an der Schule unterrichtende Lehrpersonen werden als Prüfende eingesetzt.
 
 <sup>2</sup> Diese Tätigkeit ist Teil der Gemeinschaftsaufgaben gemäss Auftrag der Berufsschullehrpersonen.
 
@@ -103,31 +102,35 @@ erlässt:
 
 #### § 6
 
-**Zeugnisnoten**
+**Semesterzeugnisnoten**
 
 <sup>1</sup> Für die Lernbereiche Gesellschaft sowie Sprache und Kommunikation wird pro Semester je eine Zeugnisnote erteilt.
 
-<sup>2</sup> Sie entspricht dem auf eine halbe oder ganze Note gerundeten arithmetischen Mittel von mindestens drei erteilten Noten.
+<sup>1<sup>bis</sup></sup> Die Semesterzeugnisnote für den allgemeinbildenden Unterricht ergibt sich aus dem Mittel der Summe der gleich gewichteten Semesterzeugnisnoten beider Lernbereiche.
+
+<sup>2</sup> Sie entspricht dem auf eine halbe oder ganze Note gerundeten arithmetischen Mittel von mindestens zwei erteilten Noten pro Lernbereich.
 
 <sup>3</sup> Kann auf Grund einer Dispensation keine Zeugnisnote erteilt werden, wird im Zeugnis der Vermerk "dispensiert" eingetragen.
 
 #### § 7
 
-**Jahresnote**
+**Jahreszeugnisnote**
 
-<sup>1</sup> Im letzten Jahr der beruflichen Grundbildung wird pro Lernbereich lediglich je eine Jahresnote erteilt.
+<sup>1</sup> Im letzten Jahr der beruflichen Grundbildung wird in den Lernbereichen Gesellschaft sowie Sprache und Kommunikation lediglich je eine Jahreszeugnisnote erteilt.
+
+<sup>1<sup>bis</sup></sup> Die Jahreszeugnisnote für den allgemeinbildenden Unterricht ergibt sich aus dem gleich gewichteten Mittel der Noten der beiden Lernbereiche Gesellschaft sowie Sprache und Kommunikation.
 
 <sup>2</sup> Im ersten Semester des letzten Jahres der beruflichen Grundbildung wird im Zeugnis der Vermerk "besucht" eingetragen.
 
-<sup>3</sup> Die Jahresnote entspricht dem auf eine halbe oder ganze Note gerundeten arithmetischen Mittel von mindestens drei erteilten Noten.
+<sup>3</sup> Die Jahreszeugnisnote entspricht dem auf eine halbe oder ganze Note gerundeten arithmetischen Mittel von mindestens zwei erteilten Noten in den Lernbereichen Gesellschaft sowie Sprache und Kommunikation.
 
-<sup>4</sup> Kann auf Grund einer Dispensation keine Jahresnote erteilt werden, wird im Zeugnis der Vermerk "dispensiert" eingetragen.
+<sup>4</sup> Kann auf Grund einer Dispensation keine Jahreszeugnisnote erteilt werden, wird im Zeugnis der Vermerk "dispensiert" eingetragen.
 
 #### § 8
 
 **Erfahrungsnote**
 
-<sup>1</sup> Die Erfahrungsnote entspricht dem auf eine halbe oder ganze Note gerundeten arithmetischen Mittel aller im Fach Allgemeinbildung erteilten Zeugnisnoten.
+<sup>1</sup> Die Erfahrungsnote entspricht dem auf eine halbe oder ganze Note gerundeten arithmetischen Mittel aller im Fach Allgemeinbildung erteilten Semesterzeugnisnoten.
 
 <sup>2</sup> Wiederholt eine lernende Person im Fach Allgemeinbildung das letzte Jahr der beruflichen Grundbildung, so zählen für die Erfahrungsnote nur die in diesem Schuljahr erteilten Noten.
 
@@ -135,37 +138,42 @@ erlässt:
 
 **Abschlussnote**
 
-<sup>1</sup> Die Abschlussnote für den Qualifikationsbereich Allgemeinbildung entspricht dem auf eine Dezimale gerundeten arithmetischen Mittel aus den Noten für die Teilbereiche Erfahrungsnote, Vertiefungsarbeit und Schlussprüfung.
+<sup>1</sup> Die Abschlussnote im Qualifikationsbereich Allgemeinbildung ergibt sich:
 
-<sup>2</sup> Bei der zweijährigen beruflichen Grundbildung entspricht sie dem auf eine Dezimale gerundeten arithmetischen Mittel aus den Noten für die Teilbereiche Erfahrungsnote und Vertiefungsarbeit.
+- a) bei der zweijährigen beruflichen Grundbildung aus der Erfahrungsnote Allgemeinbildung; sie ist auf eine ganze oder halbe Note zu runden;
+- b) bei der drei- und vierjährigen beruflichen Grundbildung aus dem Mittel der Summe der Erfahrungsnote Allgemeinbildung, der Note für die Schlussarbeit und der Note für die Schlussprüfung; sie ist auf eine Dezimalstelle zu runden;
+- c) für Personen, die vor dem letzten Schuljahr der beruflichen Grundbildung aus dem Berufsmaturitätsunterricht in den allgemeinbildenden Unterricht übertreten, aus dem Mittel der Summe der Erfahrungsnote Allgemeinbildung, der Note für die Schlussarbeit und der Note für die Schlussprüfung; sie ist auf eine Dezimalstelle zu runden;
+- d) für Personen, die im vorletzten Schulsemester der beruflichen Grundbildung aus dem Berufsmaturitätsunterricht in den allgemeinbildenden Unterricht übertreten, aus dem Mittel der Summe der Note für die Schlussarbeit und der Note für die Schlussprüfung; sie ist auf eine Dezimalstelle zu runden.
 
-### 3.2. Vertiefungsarbeit
+<sup>2</sup> …
+
+### 3.2. Schlussarbeit
 
 #### § 10
 
 **Rahmenbedingungen**
 
-<sup>1</sup> Die Vertiefungsarbeit wird in Zweier- oder Dreierteams erarbeitet.
+<sup>1</sup> Die Schlussarbeit wird in der Regel in Zweierteams erarbeitet.
 
 <sup>2</sup> Der Experte oder die Expertin kann ausnahmsweise auf schriftliches und begründetes Gesuch der oder des volljährigen Lernenden oder der Erziehungsberechtigten hin eine Einzelarbeit bewilligen.
 
-<sup>3</sup> Die kantonale Prüfungsleitung informiert die Lernenden über sämtliche Rahmenbedingungen, insbesondere über die Anforderungen an die Ausgestaltung der Arbeit und die Angaben der verwendeten Quellen sowie die Fristen und die Folgen, wenn die Vorgaben nicht beachtet werden.
+<sup>3</sup> Die kantonale Prüfungsleitung informiert die Lernenden über sämtliche Rahmenbedingungen, insbesondere über die Anforderungen an die Ausgestaltung der Arbeit hinsichtlich Eigenanteile, Angaben der verwendeten Quellen sowie Fristen und Folgen, wenn die Vorgaben nicht beachtet werden.
 
 #### § 11
 
-**Zeit und Dauer**
+**Durchführung**
 
-<sup>1</sup> Die Vertiefungsarbeit wird im letzten Jahr der beruflichen Grundbildung verfasst.
+<sup>1</sup> Die Schlussarbeit wird im letzten Jahr der beruflichen Grundbildung verfasst.
 
 <sup>2</sup> Die Berufsfachschule entscheidet über den genauen Zeitpunkt des Beginns und der Abgabe der Arbeit.
 
-<sup>3</sup> Die Lernenden arbeiten sowohl ausserhalb als auch während des Unterrichts an ihrer Arbeit. Während des Unterrichts stehen ihnen zusätzlich zur Präsentation 24–30 Lektionen zur Verfügung.
+<sup>3</sup> Die Lernenden arbeiten sowohl ausserhalb als auch während des Unterrichts an ihrer Arbeit im Umfang von 25 - 35 Arbeitsstunden.
 
 #### § 12
 
 **Bewertung und Gewichtung**
 
-<sup>1</sup> Die prüfende Lehrperson begleitet die Lernenden und bewertet die Vertiefungsarbeit unter Beizug einer zweiten Lehrperson.
+<sup>1</sup> Die prüfende Lehrperson begleitet die Lernenden und bewertet die Schlussarbeit unter Beizug einer zweiten Lehrperson.
 
 <sup>2</sup> Bewertet werden die drei Qualifikationsteile:
 
@@ -173,7 +181,7 @@ erlässt:
 - b) Produkt;
 - c) Präsentation.
 
-<sup>3</sup> Wird die Vertiefungsarbeit in einem Zweier- oder Dreierteam erarbeitet, erfolgt die Bewertung des Prozesses und des Produkts grundsätzlich als Gemeinschaftsarbeit, die Präsentation jedoch als Einzelleistung.
+<sup>3</sup> Für die in der Regel in einem Zweierteam erarbeitete Schlussarbeit erfolgt die Bewertung des Prozesses und des Produkts grundsätzlich als Gemeinschaftsarbeit, die Präsentation jedoch als Einzelleistung.
 
 <sup>4</sup> Die Arbeitsgruppe Qualifikationsverfahren Allgemeinbildung legt die Gewichtung der drei Qualifikationsteile fest.
 
@@ -181,7 +189,7 @@ erlässt:
 
 **Verpasste Fristen**
 
-<sup>1</sup> Werden die Qualifikationsteile Prozess der Erarbeitung und Produkt der Vertiefungsarbeit nicht fristgerecht abgeschlossen beziehungsweise abgegeben, gelten sie als nicht geleistet und werden mit der Note 1 bewertet.
+<sup>1</sup> Werden die Qualifikationsteile Prozess der Erarbeitung und Produkt der Schlussarbeit nicht fristgerecht abgeschlossen beziehungsweise abgegeben, gelten sie als nicht geleistet und werden mit der Note 1 bewertet.
 
 <sup>2</sup> Wird eine Präsentation nicht geleistet, wird dieser Qualifikationsteil mit der Note 1 bewertet.
 
@@ -189,17 +197,19 @@ erlässt:
 
 #### § 14
 
-**Plagiat**
+**Unregelmässigkeiten**
 
-<sup>1</sup> Wird bei der Beurteilung des Produkts der Vertiefungsarbeit festgestellt, dass es nachweislich abgeschrieben oder von Dritten verfasst worden ist, wird keine Bewertung vorgenommen und die Zulassung zur Schlussprüfung verweigert.
+<sup>1</sup> Wird bei der Beurteilung des Produkts der Schlussarbeit festgestellt, dass es nachweislich abgeschrieben, unerlaubte Hilfsmittel verwendet oder von Dritten verfasst worden ist, erfolgt der Ausschluss vom Qualifikationsverfahren.
 
-<sup>2</sup> Sind nur Teile des Produkts nicht selbständig erarbeitet worden, entscheidet der Experte oder die Expertin, ob die Bewertung unter Ausschluss dieser Teile erfolgt oder ob die Vertiefungsarbeit ganz oder teilweise zu wiederholen ist. In beiden Fällen ist ein angemessener Notenabzug zu machen. Der Experte oder die Expertin informiert den Chefexperten oder die Chefexpertin über die getroffenen Massnahmen.
+<sup>2</sup> Sind nur einzelne Teile des Produkts der Schlussarbeit nicht selbständig erarbeitet worden, entscheidet der Experte oder die Expertin, ob die Bewertung unter Ausschluss dieser Teile und angemessenem Notenabzug erfolgt oder ob der Kandidat oder die Kandidatin vom Qualifikationsverfahren ausgeschlossen wird.
+
+<sup>3</sup> Der Experte oder die Expertin informiert den Chefexperten oder die Chefexpertin über die getroffenen Massnahmen.
 
 #### § 15
 
 **Notenbekanntgabe**
 
-<sup>1</sup> Die prüfende Lehrperson gibt den Lernenden die Note für ihre Vertiefungsarbeit mündlich bekannt.
+<sup>1</sup> Die prüfende Lehrperson gibt den Lernenden die Note für ihre Schlussarbeit mündlich bekannt.
 
 <sup>2</sup> Der Chefexperte oder die Chefexpertin legt die mündliche Information über die Noten für alle Berufsfachschulen einheitlich fest.
 
@@ -209,17 +219,33 @@ erlässt:
 
 #### § 16
 
-**Form**
+**Form, Zeitpunkt und Bewertung**
 
-<sup>1</sup> Die Schlussprüfung findet in schriftlicher Form statt.
+<sup>1</sup> Die Schlussprüfung besteht aus einer mündlichen Prüfung von 20 Minuten.
+
+<sup>2</sup> Sie wird im letzten Semester der beruflichen Grundbildung durchgeführt.
+
+<sup>3</sup> Die Note der Schlussprüfung wird auf eine ganze oder halbe Note gerundet.
 
 #### § 17
 
 **Rahmenbedingungen**
 
-<sup>1</sup> Die Arbeitsgruppe Qualifikationsverfahren Allgemeinbildung legt unter der Leitung der das Qualifikationsverfahren Allgemeinbildung koordinierenden Person die Standards der Schlussprüfung bezüglich Dauer, Form, Thematik, Aufgabenkriterien, Bewertung, Hilfsmittel usw. fest.
+<sup>1</sup> Die Arbeitsgruppe Qualifikationsverfahren Allgemeinbildung legt unter der Leitung der für die Koordination des Qualifikationsverfahrens Allgemeinbildung zuständigen Person die Standards der Schlussprüfung fest. Diese beziehen sich insbesondere auf die Thematik, die Aufgabenkriterien, die Bewertung und die Hilfsmittel und basieren auf dem kantonalen Lehrplan.
 
 <sup>2</sup> Sie erstellt die Prüfungsserien für sämtliche Berufsfachschulen. Sie kann dafür Lehrpersonen beiziehen.
+
+#### § 17bis
+
+**Dispensationen**
+
+<sup>1</sup> Von der Allgemeinbildung dispensiert wird, wer:
+
+- a) eine berufliche Grundbildung absolviert hat und eine zweite berufliche Grundbildung auf gleicher Stufe wie die erste absolviert; oder
+- b) den Berufsmaturitätsunterricht bis und mit dem vorletzten Semester der beruflichen Grundbildung absolviert hat; oder
+- c) an einer staatlichen, allgemeinbildenden Schule der Sekundarstufe 2 einen Lehrgang erfolgreich abgeschlossen hat.
+
+<sup>2</sup> Die Dispensation ist im Notenausweis zu vermerken.
 
 ## 4. Übertritt aus dem Berufsmaturitätsunterricht
 
@@ -235,15 +261,16 @@ erlässt:
 
 **Umfang und Form des Qualifikationsverfahrens**
 
-<sup>1</sup> Das Qualifikationsverfahren für Personen, welche die berufliche Qualifikation ausserhalb der üblichen Bildungsgänge erworben haben, besteht aus einer Vertiefungsarbeit und einer Schlussprüfung.
+<sup>1</sup> Die Note im Qualifikationsbereich Allgemeinbildung ergibt sich für Personen, die ausserhalb eines geregelten Bildungsgangs zum Qualifikationsverfahren mit Abschlussprüfung zugelassen wurden:
 
-<sup>2</sup> Die Schlussprüfung kann mündlich erfolgen.
+- a) bei der zweijährigen beruflichen Grundbildung aus der Note für die Schlussarbeit; sie ist auf eine ganze oder halbe Note zu runden,
+- b) bei der drei- und vierjährigen beruflichen Grundbildung aus dem Mittel der Summe der Note für die Schlussarbeit und der Note für die Schlussprüfung; sie ist auf eine Dezimalstelle zu runden.
+
+<sup>2</sup> …
 
 #### § 20
 
-**Note**
-
-<sup>1</sup> Die Note für den Qualifikationsbereich Allgemeinbildung entspricht dem arithmetischen Mittel der Note für die Vertiefungsarbeit und derjenigen für die Schlussprüfung, gerundet auf eine Dezimalstelle.
+**…**
 
 #### § 21
 
@@ -251,9 +278,11 @@ erlässt:
 
 #### § 22
 
-**Übergangsbestimmung**
+**Übergangsbestimmungen**
 
-<sup>1</sup> § 21 in der Fassung vom 17. Mai 2013 gilt noch für alle Personen, die vor dem 1. August 2018 zum Qualifikationsverfahren zugelassen worden sind und das Fach Allgemeinbildung an einer Berufsfachschule besuchen.
+<sup>1</sup> Es gelten die Übergangsbestimmungen gemäss Artikel 17 der Verordnung des SBFI über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung vom 9. April 2025[^22-1].
+
+[^22-1]: SR [412.101.241](https://db.clex.ch/link/Bund/412.101.241/de).
 
 Beschluss des Departementes für Bildung und Kultur vom 17. Mai 2013.
 
