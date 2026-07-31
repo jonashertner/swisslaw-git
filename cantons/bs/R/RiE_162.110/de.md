@@ -3,22 +3,21 @@ canton: BS
 number: RiE 162.110
 title: Personalreglement
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-12-09
+version: 2026-08-01
+version_adopted: 2026-06-16
 adopted: 2002-07-16
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6718/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6838/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalreglement
 
-Personalreglement | Riehen: Einwohnergemeinde
+Dienstverhältnis
 
-Vom 16. Juli 2002 (Stand 1. Januar 2026)
+Vom 16. Juli 2002 (Stand 1. August 2026)
 
 Der Gemeinderat Riehen
 
@@ -697,6 +696,8 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>2</sup> Der mindestens zweiwöchige Aufenthalt des Neugeborenen im Spital sowie die effektive Dauer des Spitalaufenthalts des Neugeborenen sind mit ärztlichem Attest zu belegen.
 
+<sup>2<sup>bis</sup></sup> Im Falle des Todes des anderen Elternteils während der sechs Monate nach der Geburt des Kindes hat die Mitarbeiterin Anspruch auf einen zusätzlichen Urlaub gemäss § 46a. Sie kann diesen Urlaub innert einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise beziehen.
+
 <sup>3</sup> Der Anspruch auf Mutterschaftsentschädigung endet vorzeitig am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
 
 <sup>4</sup> Die Ferien dürfen nicht gekürzt werden, wenn:
@@ -754,17 +755,34 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 46a
 
-**Bezahlter Vaterschaftsurlaub**
+**Bezahlter Urlaub des anderen Elternteils**
 
-<sup>1</sup> Mitarbeiter, die im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater sind oder dies innerhalb der folgenden sechs Monate werden, sowie die Ehefrau der Mutter im Sinne von Art. 255a Abs. 1 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 haben einen Anspruch auf einen Vaterschaftsurlaub von zwanzig Arbeitstagen.
+<sup>1</sup> Anspruch auf bezahlten Urlaub des anderen Elternteils von 20 Arbeitstagen hat:
 
-<sup>2</sup> Der Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden.
+- a) der Mitarbeiter, der im Zeitpunkt der Geburt des Kindes rechtlicher Vater ist oder dies innert der folgenden sechs Monaten wird;
+- b) die Mitarbeiterin, die im Zeitpunkt der Geburt des Kindes der rechtliche andere Elternteil ist.
 
-<sup>3</sup> Wird der Vaterschaftsurlaub bezogen, dürfen die Ferien nicht gekürzt werden.
+<sup>2</sup> Der Urlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden.
 
-<sup>4</sup> Kündigt die Arbeitgeberin das Arbeitsverhältnis und hat der betreffende Mitarbeiter bzw. die Ehefrau der Mutter Anspruch auf einen Vaterschaftsurlaub, wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
+<sup>3</sup> Wird der Urlaub bezogen, dürfen die Ferien nicht gekürzt werden.
+
+<sup>4</sup> Kündigt die Arbeitgeberin das Arbeitsverhältnis und hat die oder der betreffende Mitarbeitende Anspruch auf einen bezahlten Urlaub gemäss Abs. 1, wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
 
 <sup>5</sup> Der Anspruch besteht auch bei Totgeburt, sofern die Schwangerschaft der Mutter des Kindes mindestens 23 Wochen gedauert hat.
+
+#### § 46abis
+
+**Urlaub im Falle des Todes der Mutter**
+
+<sup>1</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 16 Wochen danach, so hat der andere Elternteil Anspruch auf einen Urlaub von 16 Wochen; dieser Urlaub muss ab dem Tag nach dem Tod an aufeinanderfolgenden Tagen bezogen werden.
+
+<sup>2</sup> Der andere Elternteil hat Anspruch auf den Urlaub, wenn das Kindesverhältnis am Todestag begründet ist oder während der 16 Wochen danach begründet wird.
+
+<sup>3</sup> Bei Hospitalisierung des Neugeborenen nach § 42 Abs. 1 verlängert sich der Urlaub nach Absatz 1 um die Dauer der Hospitalisierung, höchstens jedoch um acht Wochen.
+
+<sup>4</sup> Die Ferien dürfen nicht gekürzt werden.
+
+<sup>5</sup> Die Frist für den Urlaub des anderen Elternteils steht während des Urlaubs gemäss Abs. 1 still.
 
 #### § 46b
 
@@ -782,15 +800,22 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>6</sup> Die Ferien dürfen nicht gekürzt werden, wenn eine Mitarbeiterin oder ein Mitarbeiter einen Betreuungsurlaub bezieht.
 
-<sup>7</sup> Solange der Anspruch auf Betreuungsurlaub besteht, darf die Arbeitgeberin das Arbeitsverhältnis nicht kündigen, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt.
+<sup>7</sup> …
 
 #### § 46c
 
-**Bezahlter Urlaub bei eingetragener Partnerschaft**
+**…**
 
-<sup>1</sup> Die Mitarbeiterin, deren eingetragene Partnerin ein Kind zur Welt bringt, hat Anspruch auf einen bezahlten Urlaub von zwanzig Arbeitstagen.
+#### § 46cbis
 
-<sup>2</sup> Die Modalitäten des Urlaubs richten sich nach § 46a.
+**Kündigung zur Unzeit beim Bezug von bezahltem Elternurlaub**
+
+<sup>1</sup> Ergänzend zur Sperrfrist gemäss § 34 Abs. 2 Personalordnung darf die Arbeitgeberin das Arbeitsverhältnis in folgenden Fällen nicht kündigen:
+
+- a) vor Ende des verlängerten Mutterschaftsurlaub gemäss § 42 Abs. 1;
+- b) zwischen dem Beginn des Urlaubs im Falle des Todes des anderen Elternteils gemäss § 42 Abs. 2<sup>bis</sup> und dem letzten bezogenen Urlaubstag. Längstens aber während drei Monaten ab dem Ende der Sperrfrist nach § 34 Abs. 2 Personalordnung;
+- c) während des Urlaubs im Falle des Todes der Mutter gemäss § 46a<sup>bis</sup>;
+- d) solange der Anspruch auf Betreuungsurlaub für die Pflege schwer beeinträchtigter Kinder gemäss § 46b besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt.
 
 #### § 46d
 
