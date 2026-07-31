@@ -4,13 +4,12 @@ number: "414.134"
 title: Verordnung über die Erteilung des Fachmittelschulausweises an kantonalen Fachmittelschulen
 short: Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-05-30
+version: 2026-08-01
+version_adopted: 2026-03-10
 adopted: 2004-05-10
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.134"
-pdf: "https://bgs.so.ch/api/de/versions/5392/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5392/pdf_file"
 
 (Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS)
 
-Vom 10.05.2004 (Stand 01.08.2023)
+Vom 10.05.2004 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -45,11 +44,29 @@ beschliesst
 
 <sup>1</sup> Die Abschlussprüfungen der Fachmittelschule finden am Ende des dritten Ausbildungsjahres vor den Sommerferien statt.
 
+#### § 2bis
+
+**Anmeldepflicht**
+
+<sup>1</sup> Der Schüler oder die Schülerin meldet sich bis spätestens Ende des ersten Semesters des Abschlussjahres zur Abschlussprüfung an.
+
+#### § 2ter
+
+**Erhebung der Prüfungsgebühr**
+
+<sup>1</sup> Der Schüler oder die Schülerin entrichtet nach der Anmeldung zur Abschlussprüfung die Prüfungsgebühr. Die Gebühr richtet sich nach dem Gebührentarif vom 8. März 2016[^2ter-1].
+
+<sup>2</sup> Bei Fernbleiben oder Prüfungsabbruch ohne wichtigen Grund besteht kein Anspruch auf Rückerstattung der Prüfungsgebühr; eine Anrechnung für eine spätere Prüfung ist ausgeschlossen.
+
+<sup>3</sup> Für die Wiederholung der Abschlussprüfung ist die Prüfungsgebühr erneut zu entrichten.
+
+[^2ter-1]: BGS [615.11](https://bgs.so.ch/data/615.11/de).
+
 #### § 3
 
 **Zulassung**
 
-<sup>1</sup> Zu den Prüfungen werden Schüler und Schülerinnen zugelassen, welche die Schule mindestens während des letzten Jahres besucht haben.
+<sup>1</sup> Zur Abschlussprüfung werden Schüler und Schülerinnen zugelassen, welche die Schule mindestens während des letzten Jahres besucht und die Prüfungsgebühr entrichtet haben.
 
 <sup>2</sup> Schüler und Schülerinnen, welche die Prüfung nicht bestanden haben, können diese einmal wiederholen, nachdem sie grundsätzlich den Unterricht des letzten Schuljahres noch einmal besucht haben. Über Dispensationen entscheidet die Schulleitung der Fachmittelschule.
 
@@ -117,7 +134,7 @@ beschliesst
 
 <sup>2</sup> Die Leitungen der Fachmittelschulen bestimmen jährlich in gegenseitiger Absprache dieselbe Prüfungsart in den Fächern der Berufsfelder Gesundheit und Soziale Arbeit. In diesen Berufsfeldern wird immer ein Fach mündlich und ein Fach schriftlich geprüft.
 
-<sup>3</sup> Während der Ausbildung in der Fachmittelschule erworbene Sprachdiplome können die Prüfung in der entsprechenden Sprache ganz oder teilweise ersetzen. Das Departement für Bildung und Kultur regelt die Einzelheiten.
+<sup>3</sup> Während der Ausbildung in der Fachmittelschule erworbene Sprachdiplome können die Prüfung in der entsprechenden Sprache ganz oder teilweise ersetzen. Das Departement regelt die Einzelheiten.
 
 #### § 8
 
@@ -229,13 +246,13 @@ beschliesst
 
 **Schulversuche**
 
-<sup>1</sup> Im Rahmen von Schulversuchen kann in Absprache mit dem Departement für Bildung und Kultur von dieser Verordnung abgewichen werden.
+<sup>1</sup> Im Rahmen von Schulversuchen kann in Absprache mit dem Departement von dieser Verordnung abgewichen werden.
 
 #### § 21
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Entscheide aufgrund dieser Verordnung kann innerhalb von zehn Tagen beim Departement für Bildung und Kultur Beschwerde eingereicht werden.
+<sup>1</sup> Gegen Entscheide aufgrund dieser Verordnung kann innerhalb von zehn Tagen beim Departement Beschwerde eingereicht werden.
 
 ## 2. Übergangs- und Schlussbestimmungen
 
