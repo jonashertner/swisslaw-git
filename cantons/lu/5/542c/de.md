@@ -3,20 +3,19 @@ canton: LU
 number: 542c
 title: Promotionsordnung der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern und Prüfungsordnung der Graduate School of Humanities and Social Sciences at the University of Lucerne
 language: de
-version: 2020-08-01
-valid_until: 2026-07-31
-version_adopted: 2020-03-25
+version: 2026-08-01
+version_adopted: 2026-06-25
 adopted: 2010-01-27
 in_force: 2010-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/542c"
-pdf: "https://srl.lu.ch/api/de/versions/3623/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4854/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Promotionsordnung der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern und Prüfungsordnung der Graduate School of Humanities and Social Sciences at the University of Lucerne
 
-vom 27.01.2010 (Stand 01.08.2020)
+vom 27.01.2010 (Stand 01.08.2026)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,21 +33,21 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die Fakultät II für Kultur- und Sozialwissenschaften der Universität Luzern (nachfolgend Fakultät) verleiht den akademischen Grad einer Doktorin oder eines Doktors der Philosophie (Dr. phil.) aufgrund von Promotionsleistungen oder ehrenhalber.
+<sup>1</sup> Die Kultur- und Sozialwissenschaftliche Fakultät der Universität Luzern (nachfolgend Fakultät) verleiht den akademischen Grad einer Doktorin oder eines Doktors der Philosophie (Dr. phil.) aufgrund von Promotionsleistungen oder ehrenhalber.
 
 <sup>2</sup> Die Promotion erfolgt im Rahmen des strukturierten Promotionsstudiengangs der Graduate School of Humanities and Social Sciences at the University of Lucerne (GSL) an der Fakultät.
 
-<sup>3</sup> Auf Antrag wird die Doktorurkunde zusätzlich mit dem englischsprachigen Titel Doctor of Philosophy (Ph.D.) ausgestellt.
+<sup>3</sup> …
 
 <sup>4</sup> Die zu erbringenden Promotionsleistungen setzen sich zusammen aus Studienleistungen, der Dissertation, der Disputation und der Publikation der Dissertation.
 
-<sup>5</sup> Die Fakultätsversammlung erlässt Wegleitungen zum Promotionsstudium sowie zum Promotionsverfahren.
+<sup>5</sup> Die Fakultätsversammlung erlässt eine Wegleitung zum Promotionsstudium sowie zum Promotionsverfahren.
 
 #### § 2
 
 **Vorstand des Promotionsstudiengangs**
 
-<sup>1</sup> Die Fakultätsversammlung wählt den Vorstand des Promotionsstudiengangs (nachfolgend Vorstand) aus dem Kreis der ordentlichen, ausserordentlichen sowie der Assistenzprofessuren. Der Vorstand wird für die Dauer von zwei Jahren gewählt, ihm gehören mindestens drei Personen an. Der Vorstand wählt eine Vorsitzende oder einen Vorsitzenden aus seiner Mitte.
+<sup>1</sup> Die Fakultätsversammlung wählt den Vorstand der GSL (nachfolgend Vorstand) aus dem Kreis der ordentlichen, ausserordentlichen sowie der Assistenzprofessuren. Der Vorstand wird für die Dauer von zwei Jahren gewählt, ihm gehören mindestens drei Personen an. Der Vorstand wählt eine Vorsitzende oder einen Vorsitzenden aus seiner Mitte.
 
 <sup>2</sup> Der Vorstand nimmt die Anträge auf Zulassung zum Promotionsstudiengang und zur Eröffnung des Promotionsverfahrens entgegen. Er stellt die Erfüllung der Zulassungsbedingungen fest und entscheidet über die Zulassung gemäss § 3.
 
@@ -74,9 +73,9 @@ beschliesst:
 
 **Betreuerinnen und Betreuer**
 
-<sup>1</sup> Der Vorstand bestimmt bei Zulassung der Kandidatin oder des Kandidaten auf ihren bzw. seinen Vorschlag eine Betreuerin oder einen Betreuer aus dem Kreis der Fakultätsmitglieder mit Promotionsrecht, die oder der die Erstbetreuung übernimmt. Die Erstbetreuerin oder der Erstbetreuer ist während der Zugehörigkeit der Kandidatinnen oder der Kandidaten zur GSL kontinuierlich für die Betreuung zuständig.
+<sup>1</sup> Der Vorstand bestimmt bei Zulassung der Kandidatin oder des Kandidaten auf ihren bzw. seinen Vorschlag eine Erstbetreuerin oder einen Erstbetreuer (nachfolgend Betreuerin oder Betreuer) aus dem Kreis der Fakultätsmitglieder mit entsprechender Promotionsberechtigung. Promotionsberechtigt sind in der Regel eine Professorin oder ein Professor (ordentliche oder ausserordentliche Professorinnen und Professoren, Assistenzprofessorinnen und Assistenzprofessoren mit oder ohne Tenure Track, Förderungsprofessorinnen und Förderungsprofessoren, Titularprofessorinnen und Titularprofessoren). Anderen habilitierten Mitgliedern der Fakultät kann die Fakultätsversammlung die Promotionsberechtigung ad personam verleihen. Die Betreuerin oder der Betreuer ist während der Zugehörigkeit der Kandidatinnen oder der Kandidaten zur GSL kontinuierlich für die Betreuung zuständig.
 
-<sup>2</sup> Spätestens im dritten Studienjahr bestimmt der Vorstand auf Vorschlag der Kandidatin oder des Kandidaten eine zweite Betreuerin oder einen zweiten Betreuer. Mit der Zweitbetreuung kann auch ein Mitglied einer anderen Fakultät oder Universität, welches über das Promotionsrecht verfügt, beauftragt werden.
+<sup>2</sup> Spätestens im dritten Studienjahr bestimmt der Vorstand auf Vorschlag der Kandidatin oder des Kandidaten eine zweite Betreuerin oder einen zweiten Betreuer. Mit der Zweitbetreuung kann auch ein Mitglied einer anderen Fakultät oder Universität, welches über eine entsprechende Promotionsberechtigung verfügt, beauftragt werden.
 
 <sup>3</sup> Zusätzlich zur Erst- und Zweitbetreuung kann die Dissertation von einer promovierten Wissenschaftlerin oder einem promovierten Wissenschaftler (Co-Promoter) mitbetreut werden.
 
@@ -86,24 +85,26 @@ beschliesst:
 
 **Studienleistungen**
 
-<sup>1</sup> Die Teilnahme am Studienprogramm der GSL ist in der Regel in den ersten vier Semestern vorgesehen.
+<sup>1</sup> …
 
 <sup>2</sup> Mit der Zulassung zum Promotionsstudiengang legen die Betreuerin bzw. der Betreuer mit der Kandidatin oder dem Kandidaten die im Rahmen des Promotionsstudiengangs zu erbringenden Studienleistungen in einer Betreuungsvereinbarung fest.
 
-<sup>3</sup> Die minimal zu erbringenden Studienleistungen sind in Wegleitungen geregelt. Der Nachweis dieser Leistungen gilt als Voraussetzung für die Eröffnung des Promotionsverfahrens. In der Regel bestehen diese Leistungen in der Teilnahme an unterschiedlichen Angeboten der Seminare wie zum Beispiel Kolloquien oder Veranstaltungen im Bereich Schlüsselqualifikationen sowie externen Veranstaltungen. Alle Studienleistungen werden bescheinigt.
+<sup>3</sup> Die Kandidatinnen und Kandidaten erhalten für ihre Studienleistungen Credits gemäss dem European Credit Transfer and Accumulation System (ECTS). Die minimal zu erbringenden Studienleistungen umfassen 11 Credits. Zudem sind weitere Studienleistungen ohne Credits zu erbringen. Details zu den Studienleistungen sind in der Wegleitung geregelt. Der Nachweis dieser Leistungen gilt als Voraussetzung für die Eröffnung des Promotionsverfahrens. In der Regel bestehen diese Leistungen in der Teilnahme an unterschiedlichen Angeboten der Seminare wie zum Beispiel Kolloquien oder Veranstaltungen im Bereich Schlüsselqualifikationen sowie externen Veranstaltungen.
 
-<sup>4</sup> In Einzelfällen kann die Kandidatin oder der Kandidat von der Teilnahme an dem Studienprogramm oder Teilen davon befreit werden. Dies ist insbesondere dann der Fall, wenn es sich um wissenschaftliche Mitarbeiterinnen oder Mitarbeiter auf Fakultätsstellen oder in Drittmittelprojekten handelt oder um Studierende, die sich im Ausland aufhalten.
+<sup>3<sup>bis</sup></sup> Für Leistungsnachweise, Prüfungen sowie die Berechnung der Credits, die während des Promotionsstudiums erbracht werden, gelten die Bestimmungen der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern bzw. der jeweiligen Institution, von der die Lehrveranstaltung angeboten wird.
+
+<sup>4</sup> In Einzelfällen kann die Kandidatin oder der Kandidat von einzelnen Studienleistungen befreit werden. Dies ist insbesondere dann der Fall, wenn es sich um wissenschaftliche Mitarbeiterinnen oder Mitarbeiter auf Fakultätsstellen oder in Drittmittelprojekten handelt oder um Studierende, die sich im Ausland aufhalten. Hierüber entscheidet der Vorstand auf Antrag der Kandidatin oder des Kandidaten und der Betreuerin oder des Betreuers.
 
 #### § 6
 
 **Dissertationsfortschritt**
 
-<sup>1</sup> Jeweils am Ende des ersten und zweiten Studienjahres informieren Kandidatinnen und Kandidaten sowie Betreuerinnen und Betreuer den Vorstand auf der Basis von Gesprächen schriftlich über den Fortschritt der Promotion. Im Einzelnen zu erbringen sind:
+<sup>1</sup> Kandidatinnen und Kandidaten sowie Betreuerinnen und Betreuer informieren den Vorstand jährlich auf der Grundlage von Gesprächen schriftlich über den Fortschritt der Promotion. Darüber hinaus zu erbringen sind:
 
-- a. am Ende des ersten Jahres: Gespräch sowie kurzer gemeinsamer Bericht der Kandidatin oder des Kandidaten und des Betreuers bzw. der Betreuerin zum Fortschritt der Promotion,
-- b. am Ende des zweiten Jahres: Gespräch sowie kurzer gemeinsamer Bericht der Kandidatin oder des Kandidaten und des Betreuers bzw. der Betreuerin zum Fortschritt der Promotion sowie Präsentation der Zwischenergebnisse des Dissertationsprojektes in einem Kolloquium der Fakultät und nach Möglichkeit auf einer international ausgerichteten Tagung.
+- a. am Ende des ersten Jahres: Abgabe eines ersten Teils oder eines vollständigen Exposés der Dissertation an die Betreuerin oder den Betreuer,
+- b. Präsentation des Dissertationsfortschritts in einem fakultätsinternen oder externen Kolloquium (mindestens drei Präsentationen bis zum Einreichen der Dissertationsschrift).
 
-<sup>2</sup> Die Dissertation ist am Ende des vierten Studienjahres einzureichen. Kann diese Frist nicht eingehalten werden, müssen Zwischenberichte aufzeigen, dass die Erstbetreuerin oder der Erstbetreuer die Verlängerung der Dissertationsphase gutheisst, und es muss ein Zeitplan vorliegen, der aufzeigt, bis wann die Abgabe erfolgen wird.
+<sup>2</sup> Die Dissertation ist bis zum Ende des vierten Studienjahres einzureichen. Kann diese Frist nicht eingehalten werden, müssen Zwischenberichte aufzeigen, dass die Betreuerin oder der Betreuer die Verlängerung der Dissertationsphase gutheisst, und es muss ein Zeitplan vorliegen, der aufzeigt, bis wann die Abgabe erfolgen wird. Die Vorgaben für freie Promovierende sind in der Wegleitung geregelt.
 
 <sup>3</sup> Über Ausnahmen und Abweichungen entscheidet der Vorstand auf schriftlichen Antrag und in Absprache mit den Betreuerinnen und Betreuern.
 
@@ -113,15 +114,15 @@ beschliesst:
 
 **Eröffnung und Zulassung zum Promotionsverfahren**
 
-<sup>1</sup> Das Promotionsverfahren wird auf Antrag der Kandidatin oder des Kandidaten durch Beschluss des Vorstandes eröffnet. Der Antrag ist schriftlich an die Vorsitzende oder den Vorsitzenden des Vorstandes zu richten.
+<sup>1</sup> Das Promotionsverfahren wird auf Antrag der Kandidatin oder des Kandidaten durch Beschluss des Vorstandes eröffnet. Der Antrag ist schriftlich an die Vorsitzende oder den Vorsitzenden des Vorstandes zu richten und bei der GSL-Geschäftsstelle einzureichen.
 
 <sup>2</sup> Dem Antrag auf Eröffnung des Promotionsverfahrens sind beizufügen:
 
-- a. drei Exemplare der Dissertation,
+- a. drei Druckexemplare und ein digitales Exemplar (PDF-Format) der Dissertation,
 - b. ein Summarium der Dissertation, das Ziel, Inhalt und Ergebnisse der Dissertation umfasst und nicht mit Teilen der Dissertation identisch sein soll, in dreifacher Ausfertigung,
 - c. eine Erklärung der Kandidatin oder des Kandidaten, dass sie oder er die eingereichte(n) Arbeit(en) selbständig verfasst hat, dass sie oder er bei der Abfassung der Arbeit(en) nur die angegebenen Hilfsmittel benutzt und wörtlich oder inhaltlich übernommene Stellen als solche gekennzeichnet hat,
 - d. eine Erklärung darüber, ob die Dissertation schon in der gegenwärtigen oder in einer anderen Fassung einer Fakultät vorgelegen hat,
-- e. die Nachweise über die Teilnahme am Promotionsstudiengang der Fakultät gemäss § 5,
+- e. die Nachweise über die Erbringung der Studienleistungen gemäss § 5,
 - f. Immatrikulationsnachweis über die Dauer des Promotionsstudiums.
 
 <sup>3</sup> Über die Eröffnung des Promotionsverfahrens entscheidet der Vorstand mit einfacher Mehrheit. Bei Stimmengleichheit gibt die Stimme der Vorsitzenden oder des Vorsitzenden den Ausschlag. Wird die Eröffnung abgelehnt, ist dies der Kandidatin oder dem Kandidaten unverzüglich schriftlich unter Angabe der Ablehnungsgründe zusammen mit einer Rechtsmittelbelehrung mitzuteilen.
@@ -140,21 +141,21 @@ beschliesst:
 
 <sup>2</sup> Sie muss aufgrund ihrer Thematik und Methodik einem der an der Fakultät angesiedelten Fächer zurechenbar sein.
 
-<sup>3</sup> Sie muss von einem Fakultätsmitglied mit Promotionsrecht betreut worden sein.
+<sup>3</sup> Sie muss von einem Fakultätsmitglied mit Promotionsberechtigung betreut worden sein.
 
 <sup>4</sup> Sie ist in der Regel in deutscher, englischer oder französischer Sprache abzufassen. Der Vorstand kann im Einvernehmen mit der Betreuerin oder dem Betreuer der Dissertation die Abfassung in einer anderen Sprache gestatten.
 
-<sup>5</sup> Der Prüfungsausschuss beauftragt nach Beschlussfassung des GSL-Vorstands zwei Fakultätsmitglieder mit Promotionsrecht mit Erst- und Zweitgutachten. In der Regel werden Erst- und Zweitbetreuerinnen beziehungsweise -betreuer beauftragt, die während des Promotionsstudiums bestimmt wurden. Mit dem Zweitgutachten kann auch ein Mitglied einer anderen Fakultät oder Universität, welches über das Promotionsrecht verfügt, beauftragt werden.
+<sup>5</sup> Der Vorstand beauftragt zwei Fakultätsmitglieder mit Promotionsberechtigung mit Erst- und Zweitgutachten. In der Regel werden Erst- und Zweitbetreuerinnen beziehungsweise -betreuer beauftragt, die während des Promotionsstudiums bestimmt wurden. Mit dem Zweitgutachten kann auch ein Mitglied einer anderen Fakultät oder Universität, welches über das Promotionsrecht verfügt, beauftragt werden.
 
 <sup>6</sup> Weichen Erst- und Zweitgutachten um mehr als eine Note voneinander ab, so ist ein Drittgutachten von einem promotionsberechtigten Mitglied einer anderen Fakultät oder Universität einzuholen. Die Drittgutachterin bzw. der Drittgutachter wird vom Prüfungsausschuss auf Vorschlag des Vorstandes der GSL bestimmt. In diesem Fall wird die oder der Promovierende gebeten, ein weiteres ausgedrucktes und gebundenes Exemplar an das Dekanat abzuliefern
 
 <sup>7</sup> Liegen alle Gutachten vor, so werden sie zusammen mit der Dissertation für die Dauer von vier Wochen im Dekanat der Fakultät zur Einsichtnahme für die hauptamtlich in Forschung und Lehre tätigen promovierten Mitglieder und Angehörigen der Fakultät aufgelegt. Bis drei Tage nach Ablauf der Auflagefrist können diese beim Prüfungsausschuss zusätzliche Stellungnahmen zu der Dissertation und den vorgelegten Gutachten einreichen.
 
-<sup>8</sup> Der Prüfungsausschuss entscheidet auf Antrag der Erstgutachterin oder des Erstgutachters und unter Berücksichtigung des oder der weiteren Gutachten sowie allfälliger Stellungnahmen promotionsberechtigter Fakultätsmitglieder über Annahme und Benotung der Dissertation.
+<sup>8</sup> Der Prüfungsausschuss entscheidet unter Berücksichtigung des Gutachtens oder der Gutachten sowie allfälliger Stellungnahmen promotionsberechtigter Fakultätsmitglieder über Annahme und Benotung der Dissertation.
 
 #### § 9
 
-<sup>1</sup> Diejenigen Seminare, in denen kumulative Dissertationen möglich sind, legen ihre Anforderungen in spezifischen Wegleitungen fest.
+<sup>1</sup> Diejenigen Seminare, in denen kumulative Dissertationen möglich sind, legen ihre Anforderungen in einer Wegleitung fest.
 
 #### § 10
 
@@ -208,11 +209,7 @@ beschliesst:
 
 #### § 13
 
-**Protokolle**
-
-<sup>1</sup> Über alle das Promotionsverfahren betreffenden Beschlüsse des Vorstands und des Prüfungsausschusses sowie über den Verlauf und die Ergebnisse der Disputation ist ein Protokoll anzufertigen.
-
-<sup>2</sup> Promovierende haben das Recht, in die Prüfungsakten Einsicht zu nehmen.
+**…**
 
 #### § 14
 
@@ -303,9 +300,9 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Wer mit einem Promotionsvorhaben vor Inkrafttreten dieser Promotionsordnung begonnen hat, kann das Verfahren nach den Bestimmungen der bisherigen Ordnung abschliessen.
+<sup>1</sup> Diese Promotionsordnung gilt unter Vorbehalt von Absatz 2 für alle Promovierenden, unabhängig vom Beginn ihres Promotionsstudiums.
 
-<sup>2</sup> Die Änderung vom 25. März 2020 gilt für Studienbeginn ab 1. August 2020.
+<sup>2</sup> Soweit die Zulassung zum Promotionsstudium einer oder eines Promovierenden vor Inkrafttreten der Änderungen vom 25. Juni 2026 erfolgte (§ 3 Abs. 2), gelten die Änderungen von § 5 Absatz 3 und 3<sup>bis</sup> sowie § 6 Absatz 1 nur auf Antrag der oder des Promovierenden.
 
 #### § 23
 
