@@ -4,13 +4,12 @@ number: "428.511"
 title: Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsverordnung, BeV"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-08-13
+version: 2026-08-01
+version_adopted: 2026-02-18
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.511"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3867/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3968/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +18,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3867/pdf_file"
 
 (Betreuungsverordnung, BeV)
 
-Vom 08.11.2006 (Stand 01.01.2026)
+Vom 08.11.2006 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 2 Abs. 2, 3 Abs. 3, 8 Abs. 3, 10 Abs. 2, 11 Abs. 1, 13, 17 Abs. 2, 17a Abs. 3, 19 Abs. 5, 21 Abs. 2, 22a Abs. 2, 23 Abs. 2<sup>bis</sup>, 24 Abs. 1<sup>bis</sup>, 25 Abs. 1, 1<sup>bis</sup>, 2 und 4, 27 Abs. 1, 1<sup>bis</sup>, 2 und 5, 29a Abs. 5, 29b Abs. 3, 32 Abs. 4, 32a Abs. 3, 33 Abs. 2 und 34 Abs. 2 des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BeG) vom 2. Mai 2006[^ingress-1], § 18 Abs. 1 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-2], die §§ 28 Abs. 5 und 91 des Schulgesetzes vom 17. März 1981[^ingress-3] sowie § 3 des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG) vom 15. März 1994[^ingress-4],
+gestützt auf die §§ 2 Abs. 2, 3 Abs. 3, 8 Abs. 3, 10 Abs. 2, 11 Abs. 1, 13, 17 Abs. 2, 17a Abs. 3, 19 Abs. 5, 21 Abs. 2, 22a Abs. 2, 23 Abs. 2<sup>bis</sup>, 24 Abs. 1<sup>bis</sup>, 25 Abs. 1, 1<sup>bis</sup>, 2 und 4, 27 Abs. 1, 1<sup>bis</sup>, 2 und 5, 29a Abs. 5, 29b Abs. 3, 32 Abs. 4, 32a Abs. 3, 33 Abs. 2 und 34 Abs. 2 des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BeG) vom 2. Mai 2006[^ingress-1], § 18 Abs. 1 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 27. Juni 2017[^ingress-2] sowie § 3 des Gesetzes über die SVA Aargau (SVAG) vom 15. März 1994[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: SAR [428.500](https://gesetzessammlungen.ag.ch/data/428.500/de)
 [^ingress-2]: SAR [210.300](https://gesetzessammlungen.ag.ch/data/210.300/de)
-[^ingress-3]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
-[^ingress-4]: SAR [831.100](https://gesetzessammlungen.ag.ch/data/831.100/de)
+[^ingress-3]: SAR [831.100](https://gesetzessammlungen.ag.ch/data/831.100/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -38,19 +36,20 @@ beschliesst:
 
 #### § 1
 
-**Einrichtungen für besondere Förder- und Stützmassnahmen**
+**Einrichtungen mit Angeboten der Sonderschulung**
 
-<sup>1</sup> Als Einrichtungen für besondere Förder- und Stützmassnahmen gemäss Schulgesetzgebung gelten
+<sup>1</sup> Als Einrichtungen mit Angeboten der Sonderschulung gemäss § 25 des Volksschulgesetzes (VSG) vom 23. September 2025[^1-1] gelten
 
 - a) Fachstellen für heilpädagogische Früherziehung,
 - b) Fachstellen für Psychomotorik-Therapie,
-- c) Fachstellen für Beratung und Begleitung von Kindern und Jugendlichen mit Behinderungen,
+- c) Fachstellen für Beratung und Begleitung für den Unterricht von Kindern und Jugendlichen mit Behinderungen,
 - d) Fachstellen für Logopädie bei Säuglingen und Kleinkindern,
 - e) Fachstellen für Sozialberatung von Eltern mit Kindern und Jugendlichen mit Behinderungen.
 
-<sup>2</sup> Die behinderungsspezifischen Voraussetzungen für den Leistungsbezug sind in der Verordnung über die Schulung von Kindern und Jugendlichen mit Behinderungen sowie die besonderen Förder- und Stützmassnahmen (VSBF) vom 8. November 2006[^1-1] geregelt.
+<sup>2</sup> Die Voraussetzungen für den Leistungsbezug sind in der Volksschulverordnung (V VSG) vom 18. Februar 2026[^1-2] geregelt.
 
-[^1-1]: SAR [428.513](https://gesetzessammlungen.ag.ch/data/428.513/de)
+[^1-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
+[^1-2]: SAR [421.315](https://gesetzessammlungen.ag.ch/data/421.315/de)
 
 #### § 1a
 
@@ -76,9 +75,9 @@ beschliesst:
 
 **Sonderschulen**
 
-<sup>1</sup> Stationäre Sonderschulen und Tagessonderschulen einschliesslich Sonderkindergärten sind Einrichtungen, die vier und mehr Kindern und Jugendlichen mit Behinderungen Bildung und Förderung im Sinne von § 28 des Schulgesetzes anbieten.
+<sup>1</sup> Stationäre Sonderschulen und Tagessonderschulen einschliesslich Sonderkindergärten sind Einrichtungen, die vier und mehr Kindern und Jugendlichen mit Behinderungen Bildung und Förderung gemäss § 24 VSG anbieten.
 
-<sup>2</sup> Die behinderungsspezifischen Voraussetzungen für die Zuweisung in eine Sonderschule sind in der VSBF geregelt.
+<sup>2</sup> …
 
 #### § 3
 
@@ -108,7 +107,7 @@ beschliesst:
 
 **Kinder oder Jugendliche mit Behinderungen**
 
-<sup>1</sup> Kinder und Jugendliche mit Behinderungen sind minderjährige Personen, bei denen eine Behinderung gemäss § 2a VSBF nachgewiesen ist.
+<sup>1</sup> Kinder und Jugendliche mit Behinderungen sind minderjährige Personen, bei denen eine Behinderung gemäss § 16 V VSG nachgewiesen ist.
 
 ### 1.2. Einrichtungen für Erwachsene
 
@@ -347,11 +346,11 @@ beschliesst:
 
 #### § 23
 
-**Gesuche von Sonderschulen und Einrichtungen für besondere Förder- und Stützmassnahmen mit privatrechtlicher Trägerschaft**
+**Gesuche von Sonderschulen und Einrichtungen mit Angeboten der Sonderschulung mit privatrechtlicher Trägerschaft**
 
-<sup>1</sup> Betriebsbewilligungsgesuche von Sonderschulen mit privatrechtlicher Trägerschaft müssen zusätzlich zu den §§ 21 und 22 Angaben zu den nach der Schulgesetzgebung für die Privatschulen geltenden Bewilligungsvoraussetzungen enthalten.
+<sup>1</sup> Betriebsbewilligungsgesuche von Sonderschulen mit privatrechtlicher Trägerschaft müssen zusätzlich zu § 21 Angaben zu den nach der Volksschulgesetzgebung für die Privatschulen geltenden Bewilligungsvoraussetzungen enthalten.
 
-<sup>2</sup> Anerkennungsgesuche von Sonderschulen und Einrichtungen für besondere Förder- und Stützmassnahmen gemäss § 1 Abs. 1 lit. c und d mit privatrechtlicher Trägerschaft müssen zusätzlich zu den §§ 21 und 22 Angaben zur Ausgestaltung der Anstellungsverhältnisse und Entlöhnung ihrer Lehrpersonen und Sprachheilfachpersonen enthalten.
+<sup>2</sup> Anerkennungsgesuche von Sonderschulen und Einrichtungen mit Angeboten der Sonderschulung gemäss § 1 Abs. 1 lit. c und d mit privatrechtlicher Trägerschaft müssen zusätzlich zu § 21 Angaben zur Ausgestaltung der Anstellungsverhältnisse und Entlöhnung ihrer Lehrpersonen und Sprachheilfachpersonen enthalten.
 
 #### § 24
 
