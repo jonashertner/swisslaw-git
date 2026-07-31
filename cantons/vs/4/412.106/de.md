@@ -4,340 +4,410 @@ number: "412.106"
 title: Verordnung über die Organisation der Berufsmaturität
 short: VOBM
 language: de
-version: 2014-09-01
-corrected: 2017-06-30
-version_adopted: 2014-09-10
+version: 2026-08-01
+version_adopted: 2026-02-25
 adopted: 2026-02-25
 in_force: 2026-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/412.106"
-pdf: "https://lex.vs.ch/api/de/versions/533/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3585/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Organisation der Berufsmaturität
 
-vom 10. September 2014
+(VOBM)
+
+vom 25.02.2026 (Stand 01.08.2026)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 17, 25, 39, 41 und 71 des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002;
+eingesehen die Artikel 17 Absatz 4, 25, 39 und 41 des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002 (Berufsbildungsgesetz, BBG);
 
-eingesehen die Artikel 22 und 46 der Verordnung über die Berufsbildung vom 19. November 2003;
+eingesehen die Artikel 22 und 46 der Bundesverordnung über die Berufsbildung vom 19. November 2003 (Berufsbildungsverordnung, BBV);
 
-eingesehen die Bestimmungen der Verordnung über die eidgenössische Berufsmaturität vom 24. Juni 2009;
+eingesehen die Bestimmungen der Verordnung über die eidgenössische Berufsmaturität vom 13. Juni 2025 (BMV);
 
-eingesehen den Rahmenlehrplan für die Berufsmaturität vom 18. Dezember 2012;
+eingesehen den Rahmenlehrplan für die Berufsmaturität vom 13. Juni 2025 (RLP-BM);
 
 eingesehen die Artikel 75 und 76 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 13. Juni 2008 (EGBBG);
 
-auf Antrag des Departements für Bildung und Sicherheit,
+auf Antrag des für die Bildung zuständigen Departements,
 
-verordnet:
+verordnet: [^ingress-1]
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Definition und Zielsetzung**
+**Definitionen**
 
-<sup>1</sup> Die Berufsmaturität umfasst eine berufliche Grundbildung, zertifiziert durch ein eidgenössisches Fähigkeitszeugnis (nachstehend: EFZ), und eine erweiterte Allgemeinbildung. Sie fördert das selbstständige Lernen und eine offene Haltung für den Erwerb von neuem Wissen und die Verknüpfung von erworbenen Wissen und allgemeinen und beruflichen Erfahrungen. Sie hat so zum Ziel, die Fach-, Selbst- und Sozialkompetenz der Absolvierenden zu steigern und deren berufliche Mobilität und Flexibilität zu fördern.
+<sup>1</sup> Die Berufsmaturität (nachfolgend: BM) umfasst eine berufliche Grundbildung, zertifiziert durch ein eidgenössisches Fähigkeitszeugnis (nachfolgend: EFZ), und eine erweiterte Allgemeinbildung.
 
-<sup>2</sup> Wer eine eidgenössische Berufsmaturität erworben hat, erfüllt die Voraussetzungen für die Ausübung einer komplexen Tätigkeit, die erhöhte Anforderungen stellt, und ist imstande, seine Verantwortung gegenüber sich selbst, den Mitmenschen, der Gesellschaft, der Wirtschaft und der Natur wahrzunehmen.
+<sup>2</sup> Das eidgenössische Berufsmaturitätszeugnis ist ein Diplom, das nach einer Ausbildung verliehen wird, deren Bildungsgang:
 
-<sup>3</sup> Wer eine eidgenössische Berufsmaturität erworben hat, ist insbesondere befähigt, ein Fachhochschulstudium aufzunehmen und sich dabei auf anspruchsvolle Aufgaben in Wirtschaft und Gesellschaft vorzubereiten.
+- a) vom für die Bildung zuständigen Departement (nachfolgend: das Departement) bewilligt, und
+- b) vom Bund anerkannt wurde.
 
-<sup>4</sup> Der eidgenössische Berufsmaturitätsausweis ist ein Diplom, das nach einer Ausbildung verliehen wird, deren Bildungsgang vom zuständigen Departement des Staates Wallis (nachstehend: das Departement) bewilligt und vom Bund anerkannt wurde.
+<sup>3</sup> In der vorliegenden Verordnung bezieht sich der Begriff "zuständige Dienststelle" je nach Bildungsgang auf die Dienststelle für Berufsbildung (nachfolgend: DB) oder die Dienststelle für Unterrichtswesen (nachfolgend: DU).
+
+<sup>4</sup> Der Begriff "Schüler" bezieht sich in gleicher Weise auf die Person, die während oder nach einer mit einem EFZ abgeschlossenen beruflichen Grundbildung den BM-Unterricht besucht.
+
+<sup>5</sup> Der Begriff "Lernender" bezieht sich auf die Person, die parallel zur beruflichen Grundbildung EFZ den BM-Unterricht besucht.
 
 #### Art. 2
 
-**Fachrichtungen der Berufsmaturität**
+**Ziele**
 
-<sup>1</sup> Der Berufsmaturitätsunterricht berücksichtigt die besonderen Anforderungen, die nötig sind, um mit Erfolg ein Fachhochschulstudium in einem verwandten Bereich aufzunehmen.
+<sup>1</sup> Die BM befähigt die Schüler, ein Fachhochschulstudium aufzunehmen.
 
-<sup>2</sup> Die verschiedenen Fachrichtungen der Berufsmaturität werden im eidgenössischen Rahmenlehrplan ausführlich dargestellt.
+<sup>2</sup> Sie fördert das selbstständige Lernen und eine offene Haltung für den Erwerb von neuem Wissen und die Verknüpfung von erworbenem Wissen und allgemeinen und beruflichen Erfahrungen. Sie zielt somit darauf ab, die Fähigkeit zu stärken, die Arbeitswelt zu verstehen und sich nachhaltig darin zu integrieren.
+
+<sup>3</sup> Sie entwickelt bei den Schülern Offenheit und persönliche Reife, die sie befähigen, Verantwortung gegenüber sich selbst, den Mitmenschen, der Gesellschaft, der Wirtschaft, der Kultur, der Technik und der Natur wahrzunehmen.
+
+## 2 Organisation
 
 #### Art. 3
 
-**Beratende Organe**
+**Eröffnung eines Bildungsgangs**
 
-<sup>1</sup> Das Departement ernennt eine kantonale Berufsmaturitätskommission mit 7 bis 13 Mitgliedern. Sie setzt sich zusammen aus Vertretern:
+<sup>1</sup> Die Eröffnung eines BM-Bildungsgangs muss vom Departement bewilligt werden.
 
-- a) der betreffenden Schuldirektionen;
+<sup>2</sup> Eine Bewilligung des Departements ist auch für die Eröffnung von mehrsprachigen Bildungsgängen, Bildungsgängen mit "Blended Learning" oder Bildungsgängen für Sportler und Künstler (SKA) erforderlich.
 
-- b) der Fachhochschulen;
+<sup>3</sup> Unter "Blended Learning" ist die Kombination von klassischen Lehr- und Lernmethoden mit den Möglichkeiten digitaler Medien und Anwendungen zu verstehen.
 
-- c) der Dienststelle für Berufsbildung und der Dienststelle für Unterrichtswesen.
-
-<sup>2</sup> Der Chef der Dienststelle für Berufsbildung oder sein Delegierter führt den Vorsitz.
-
-<sup>3</sup> Die Kommission wird beauftragt, dem Departement Stellungnahmen zur Organisation und zur Entwicklung der Berufsmaturität abzugeben.
-
-<sup>4</sup> Sie kann die Hilfe weiterer Mitglieder in Anspruch nehmen und wenn nötig Arbeitsgruppen bilden.
+<sup>4</sup> Die SKA-Bildungsgänge ermöglichen es jungen Talenten, ihre Schulbildung mit hohen Anforderungen in einem Sport oder einer Kunst zu vereinbaren. Zu diesem Zweck kann die Dauer der Ausbildung verlängert und das Schuljahr als ein Semester betrachtet werden.
 
 #### Art. 4
 
-**Gleichstellung**
+**Besuch des BM-Unterrichts**
 
-In dieser Verordnung gilt jede Beziehung der Person, des Statuts oder der Funktion in gleicher Weise für Mann und Frau.
+<sup>1</sup> Je nach Verfügbarkeit der Bildungsgänge kann der BM-Unterricht folgendermassen besucht werden:
 
-### 2. Abschnitt: Organisation
+- a) während der beruflichen Grundbildung (nachfolgend: BM1), wenn dies mit der Organisation der Kurse in der beruflichen Grundbildung vereinbar ist;
+- b) nach Erhalt eines EFZ, in Vollzeit oder berufsbegleitend (nachfolgend: BM2).
+
+<sup>2</sup> Wenn ein Bildungsgang in einer BM-Ausrichtung von einer öffentlichen Walliser Schule angeboten wird, kann diese Ausbildung nicht in einem anderen Kanton absolviert werden. Ausnahmen in interkantonalen Vereinbarungen bleiben vorbehalten.
+
+<sup>3</sup> Wenn es kein Ausbildungsangebot in einer BM-Ausrichtung von einer öffentlichen Walliser Schule gibt, ist die DB dafür zuständig, deren Absolvie-rung in einem anderen Kanton zu bewilligen.
 
 #### Art. 5
 
-**Organisation**
+**BM-Ausrichtungen**
 
-<sup>1</sup> Der Berufsmaturitätsunterricht kann wie folgt besucht werden:
+<sup>1</sup> Der BM-Unterricht berücksichtigt die besonderen Anforderungen für eine erfolgreiche Aufnahme eines Fachhochschulstudiums in einem verwandten Bereich.
 
-- a) während der beruflichen Grundbildung, wenn mindestens sechs Semester für die Maturität parallel zur Grundbildung besucht werden;
-
-- b) vollzeitlich während mindestens zwei Semestern;
-
-- c) berufsbegleitend nach einer erfolgreich abgeschlossenen beruflichen Grundbildung.
-
-<sup>2</sup> Die Eröffnung eines Bildungsgangs, der zur Berufsmaturität führt, hängt von einem Entscheid des Departements ab.
-
-<sup>3</sup> Solange die Lernenden den Berufsmaturitätsunterricht parallel zur beruflichen Grundbildung besuchen, sind sie von den allgemeinbildenden Fächern im obligatorischen Unterricht dispensiert. Wenn eine Lernende oder ein Lernender den Berufsmaturitätsunterricht nicht mehr besucht, gelten die Bestimmungen über den allgemeinbildenden Unterricht. Besondere Fälle werden in einer Weisung des Departements geregelt.
-
-### 3. Abschnitt: Aufnahme, Promotion, Ausschluss
+<sup>2</sup> Die verschiedenen BM-Ausrichtungen sind im eidgenössischen Rahmenlehrplan (nachfolgend: RLP-BM) festgelegt.
 
 #### Art. 6
 
-**Aufnahme in den Unterricht neben der beruflichen Grundbildung**
+**Besondere Bestimmungen für die BM1**
 
-<sup>1</sup> Damit Kandidaten in eine Berufsmaturitätsklasse parallel zur Berufslehre aufgenommen werden, müssen sie folgende Voraussetzungen kumulativ erfüllen. Sie:
+<sup>1</sup> Grundsätzlich fällt der Beginn des BM1-Unterrichts mit dem Beginn der beruflichen Grundbildung zusammen.
 
-- a) haben die Schulpflicht erfüllt;
+<sup>2</sup> Es besteht die Möglichkeit, den BM1-Unterricht zu beginnen, wenn der Lernende ins 2. Lehrjahr eintritt.
 
-- b) haben einen Lehrvertrag unterschrieben;
+<sup>3</sup> Solange die Lernenden den BM1-Unterricht bis und mit Abschlussprüfung besuchen, sind sie vom Fach "Allgemeinbildung" dispensiert und erhalten einen entsprechenden Vermerk im Zeugnis des EFZ.
 
-- c) haben sich bei der betreffenden Schule in der vorgeschriebenen Form und innert der gegebenen Fristen angemeldet;
-
-- d) erfüllen die folgenden schulischen Voraussetzungen:
-
-- 1\. Für Schüler, welche die dritte Klasse der Orientierungsschule absolviert haben, gilt: Diplom der Orientierungsschule sowie:
-
-- 4 Niveaus I, davon 3 mit Note 4,0 oder höher, oder
-
-- 3 Niveaus I, davon 2 mit Note 4,0 oder höher, und 1 Niveau II mit Note 4,5 oder höher, oder
-
-- 2 Niveaus I mit Note 4,0 oder höher und 2 Niveaus II, davon eines mit Note 5,0 oder höher und das andere mit Note 4,5 oder höher, oder
-
-- 1 Niveau I mit Note 4,0 oder höher und 3 Niveaus II, davon mindestens 2 mit Note 5,0 oder höher und das letzte mit Note 4,5 oder höher, oder
-
-- 4 Niveaus II, davon mindestens 3 mit Note 5,0 oder höher und das letzte mit Note 4,5 oder höher.
-
-- Schülerinnen und Schüler, welche diese Anforderungen in den vier Niveaufächern oder in einem einzigen Niveau nicht erfüllen, können eine Prüfung in diesem Fach ablegen. Die Prüfung wird vom Departement organisiert.
-
-- 2\. Für Schüler, die nach der zweiten Orientierungsschulklasse in die gymnasiale Ausbildung eingetreten sind, gilt:
-
-- Erfolgreicher Abschluss des ersten Gymnasialjahres;
-
-- Im Fall eines nicht bestandenen ersten Gymnasialjahres: Die Jahresdurchschnitte in den Fächern Französisch, Deutsch und Mathematik entsprechen der Note 40 oder höher. Schüler, die diese Anforderungen nicht erfüllen, können in allen ungenügenden Fächern eine Prüfung ablegen. Die Prüfung wird vom Departement organisiert.
-
-- 3\. Für Schüler, die den Ausweis der Schule für Berufsvorbereitung (SfB) im allgemeinen Bildungsgang erhalten haben, gilt: Schlussdurchschnitt von mindestens 4,8 in der ersten Gruppe und allgemeiner Durchschnitt von mindestens 4,5.
+<sup>4</sup> Wenn ein Lernender den BM1-Unterricht nicht mehr besucht, gelten die Bestimmungen über den allgemeinbildenden Unterricht. Sonderfälle werden von der zuständigen Dienststelle geregelt.
 
 #### Art. 7
 
-**Aufnahme für qualifizierte Berufsleute**
+**Besondere Bestimmungen für die BM2**
 
-<sup>1</sup> Damit sie in einer Berufsmaturitätsklasse für qualifizierte Berufsleute aufgenommen werden, müssen die Kandidaten folgende Voraussetzungen kumulativ erfüllen. Sie:
+<sup>1</sup> Bei Abbruch des BM1-Unterrichts oder bei Nichtbestehen der BM1 kann dem Schüler, nach Erhalt des EFZ, der Besuch der BM2 gestattet werden.
 
-- a) verfügen über ein EFZ;
+<sup>2</sup> In diesem Fall muss der BM2-Unterricht vollständig besucht werden.
 
-- b) haben die dritte Klasse der Orientierungsschule mit Diplom abgeschlossen und ausserdem 4 Niveaus I, davon 3 mit Note 4,0 oder höher, oder 3 Niveaus I, davon 2 mit Note 4,0 oder höher, und 1 Niveau II mit Note 4,5 oder höher erhalten oder erfüllen die Bestimmungen von Artikel 6 Absatz 2;
+<sup>3</sup> Allfällige genügende Leistungen in der BM1 können nicht berücksichtigt werden, weder in Form einer Notenübernahme noch in Form einer Dispens.
 
-- c) haben die vollständigen Bewerbungsunterlagen gemäss den Weisungen der Schule in den von den betreffenden Schulen vorgeschriebenen Fristen eingereicht.
-
-<sup>2</sup> Kandidaten, welche die Voraussetzungen nach Absatz 1 Buchstabe b nicht erfüllen, müssen eine Aufnahmeprüfung, die vom Departement festgelegt wird, ablegen. Die Schule kann eine Kandidatin oder einen Kandidaten ganz oder teilweise von der Aufnahmeprüfung befreien, wenn sie aufgrund der Bewerbungsunterlagen glaubt, dass diese oder dieser ein mindestens gleichwertiges Niveau aufweist.
-
-<sup>3</sup> Damit die Kandidaten in die Fachrichtung Wirtschaft und Dienstleistungen, Typ "Wirtschaft" der Berufsmaturität, aufgenommen werden, müssen sie ausserdem ein EFZ der erweiterten Ausbildung Kauffrau/Kaufmann haben oder ein gleichwertiges Niveau nachweisen. Die Schule kann eine Kandidatin oder einen Kandidaten ganz oder teilweise von der Aufnahmeprüfung befreien, wenn sie aufgrund der Bewerbungsunterlagen glaubt, dass diese oder dieser ein mindestens gleichwertiges Niveau aufweist.
-
-<sup>4</sup> Das Departement bietet Vorbereitungskurse für qualifizierte Berufsleute an.
+<sup>4</sup> Das Departement bietet Vorbereitungskurse für BM2-Kandidaten an.
 
 #### Art. 8
 
-**Zeugnis und Dispens vom Unterricht**
+**Unentgeltlichkeit des Unterrichts**
 
-<sup>1</sup> Nach jedem Semester erhalten die Schülerinnen und Schüler ein Zeugnis, in dem die erbrachten Leistungen in den Unterrichtsfächern und allenfalls in der interdisziplinären Arbeit festgehalten werden.
+<sup>1</sup> Der BM-Unterricht ist unentgeltlich.
 
-<sup>2</sup> Die Fachnoten im Semesterzeugnis werden auf ganze oder halbe Noten gerundet. Die Gesamtnote entspricht dem auf die erste Dezimalstelle gerundeten Durchschnitt aller berücksichtigten Noten.
-
-<sup>3</sup> Die Person, die in einem bestimmten Fach bereits über die verlangten Kenntnisse und Fähigkeiten verfügt, kann von der Schule vom entsprechenden Unterricht dispensiert werden. Im Semesterzeugnis wird der Vermerk "dispensiert" eingetragen.
+<sup>2</sup> Das persönliche Material, insbesondere die notwendigen Kursunterlagen und andere Lernmedien, sind von den Schülern selbst zu tragen.
 
 #### Art. 9
 
-**Promotion**
+**Aufsicht und Qualitätssystem**
 
-<sup>1</sup> Die Schülerinnen und Schüler werden ins folgende Semester befördert, wenn die folgenden Voraussetzungen erfüllt sind:
+<sup>1</sup> Die BM-Bildungsgänge stehen unter der Aufsicht der zuständigen Dienststelle.
 
-- a) Die Gesamtnote beträgt 4,0 oder mehr.
+<sup>2</sup> Zur Harmonisierung der Praxis auf kantonaler oder interkantonaler Ebene kann die zuständige Dienststelle gemeinsame Regeln für die Schulen in Bezug auf Pädagogik, Evaluation, Organisation und Führung der BM festlegen.
 
-- b) Höchstens zwei Noten sind unter 4,0.
+<sup>3</sup> Die Schulen, die BM-Unterricht anbieten, verfügen über ein System zur Qualitätssicherung und -entwicklung.
 
-- c) Die Summe der Abweichungen zwischen den Noten der ungenügenden Fächer und der Note 4,0 beträgt 2,0 oder weniger.
-
-<sup>2</sup> Die Note der interdisziplinären Arbeit wird für die Berechnung der Promotion ins folgende Semester nicht berücksichtigt.
-
-<sup>3</sup> Die Person, welche die Promotionsvoraussetzungen nicht erfüllt, wird:
-
-- a) provisorisch promoviert, wenn sie den Berufsmaturitätsunterricht neben der beruflichen Grundbildung besucht; wenn sie die Promotionsvoraussetzungen ein zweites Mal nicht erfüllt, wird sie vom Berufsmaturitätsunterricht neben der beruflichen Grundbildung ausgeschlossen;
-
-- b) für das laufende Jahr vom Berufsmaturitätsunterricht ausgeschlossen, wenn sie diesen nach der beruflichen Grundbildung besucht.
-
-<sup>4</sup> In den Maturitätsbildungsgängen nach der beruflichen Grundbildung darf ein Schuljahr nur einmal wiederholt werden. Ein Schuljahr, das nach der Ausstellung des Zeugnisses des 1. Semesters durch Fernbleiben vom Unterricht unterbrochen wird, zählt in diesem Sinn wie ein Schuljahr.
-
-### 4. Abschnitt: Unterricht
+## 3 Aufnahme – Promotion
 
 #### Art. 10
 
-**Aufbau**
+**Aufnahme in einen BM-Bildungsgang**
 
-<sup>1</sup> Der Berufsmaturitätsunterricht umfasst:
+<sup>1</sup> Die Mindestvoraussetzungen für die Aufnahme in den BM-Unterricht sind:
 
-- a) einen Grundlagenbereich;
+- a) für die BM1 das Vorhandensein eines Lehr- oder Ausbildungsvertrags;
+- b) für die BM2 das Vorhandensein eines EFZ oder eines von der DB als gleichwertig erachteten Abschlusses.
 
-- b) einen Schwerpunktbereich;
+<sup>2</sup> Die weiteren Voraussetzungen und das Aufnahmeverfahren werden in einer Weisung des Departements festgelegt.
 
-- c) einen Ergänzungsbereich.
-
-<sup>2</sup> Er umfasst auch Stunden für den Aufbau methodischer Kompetenzen des fächerübergreifenden Denkens und Problemlösens. Dieses interdisziplinäre Arbeiten ergibt eine Note, die sich aus den fächerübergreifenden Arbeiten im Rahmen der Fächer und einer interdisziplinären Projektarbeit zusammensetzt.
+<sup>3</sup> Ein erstes Nichtbestehen der Prüfung in einer BM2-Ausrichtung berechtigt nicht mehr zur Aufnahme in eine andere BM2-Ausrichtung.
 
 #### Art. 11
 
-**Ziele, Inhalte und Formen**
+**Zeugnis**
 
-<sup>1</sup> Die Fächer der verschiedenen Bereiche und ihre Ziele werden im eidgenössischen Rahmenlehrplan festgelegt.
+<sup>1</sup> Am Ende jedes Semesters erhält der Schüler ein Zeugnis, in dem die Schule die erbrachten Leistungen in den Unterrichtsfächern und allenfalls in der interdisziplinären Arbeit festhält.
 
-<sup>2</sup> Die Lehrpläne der anerkannten Bildungsgänge, die auf regionaler Ebene oder pro Schule verfasst und vom Departement genehmigt werden, ergänzen den eidgenössischen Rahmenlehrplan, dürfen aber von den Elementen, die dieser vorschreibt, nicht abweichen.
+<sup>2</sup> Die Fachnoten im Semesterzeugnis werden auf ganze oder halbe Noten gerundet.
 
-<sup>3</sup> Im Grundlagenbereich sind die erste und die zweite Landessprache Französisch und Deutsch. Die erste Sprache, die sogenannte "Standardsprache", ist diejenige, die in der Region, in der sich die Schule befindet, gesprochen wird. Die dritte Sprache ist Englisch.
+<sup>3</sup> Die Semesternote für ein bestimmtes Fach entspricht dem Durchschnitt von mindestens zwei separat benoteten Leistungen.
 
-<sup>4</sup> Die Schule organisiert die interdisziplinäre Arbeit in den Fächern und die interdisziplinäre Projektarbeit gemäss der Verordnung über die Berufsmaturität vom 24. Juni 2009 und den Angaben im eidgenössischen Rahmenlehrplan. Sie legt diese Organisation in ihrem Lehrplan fest.
+<sup>4</sup> Die Gesamtnote entspricht dem auf die erste Dezimalstelle gerundeten Durchschnitt aller Fachnoten des Semesters, mit Ausnahme der Semesternote der interdisziplinären Arbeit in den Fächern (IDAF), die bei der Promotion nicht berücksichtigt wird.
+
+<sup>5</sup> Wenn kein Zeugnis ausgestellt werden kann, wird der Zugang zum nächsten Semester der Ausbildung verweigert. Eine allfällige Wiederholung des Unterrichts unterliegt den Bedingungen von Artikel 13 der vorliegenden Verordnung.
+
+<sup>6</sup> Sonderfälle regelt die zuständige Dienststelle.
 
 #### Art. 12
 
-**Schülerführung**
+**Promotion**
 
-<sup>1</sup> Mit Ausnahme der Elemente, die streng vom Vorhandensein eines Lehrvertrags abhängen, unterstehen die Berufsmaturitätsschülerinnen und -schüler einschliesslich diejenigen der Bildungsgänge nach dem Erhalt des EFZ sinngemäss der Verordnung über den Betrieb der kantonalen Berufsfachschulen der Sekundarstufe II vom 18. September 2013 sowie den internen Weisungen jeder Schule.
+<sup>1</sup> Der Schüler wird ins folgende Semester promoviert, wenn die folgenden kumulativen Voraussetzungen erfüllt sind:
 
-<sup>2</sup> Die internen Weisungen jeder Schule geben namentlich an, wie die Absenzen behandelt werden. Die Schule kann ein besonderes Absenzenreglement für die Maturitätsbildungsgänge nach der Berufslehre vorsehen.
+- a) die Gesamtnote beträgt 4,0 oder mehr;
+- b) höchstens zwei Semesternoten sind unter 4,0;
+- c) die Summe der Abweichungen zwischen den Noten der ungenügenden Fächer und der Note 4,0 beträgt 2,0 oder weniger.
 
-<sup>3</sup> Die eingeschriebenen Schülerinnen und Schüler sind verpflichtet, den Unterricht zu besuchen. In den vollzeitlichen oder berufsbegleitenden Studiengängen werden Schülerinnen und Schüler, die während mehr als 20 Prozent der Unterrichtszeit eines Fachs oder aller Stunden aller Fächer abwesend sind, für das laufende Jahr von der Ausbildung ausgeschlossen. Sonderfälle werden von der Schulleitung behandelt. Die Weisungen des Departements zu besonders talentierten Schülerinnen und Schülern in den Bereichen Sport und Kunst bleiben vorbehalten.
+<sup>2</sup> Die Note der interdisziplinären Arbeit wird für die Berechnung der Promotion ins folgende Semester nicht berücksichtigt, ist jedoch Bestandteil des Qualifikationsverfahrens.
 
-### 5. Abschnitt: Berufsmaturitätsprüfung
+<sup>3</sup> Wer die Promotionsvoraussetzungen nicht erfüllt, wird einmal provisorisch promoviert; beim zweiten Mal wird die Person vom BM-Unterricht ausgeschlossen.
+
+<sup>4</sup> Wird der Unterricht besucht, um sich auf die Wiederholung des Qualifikationsverfahrens vorzubereiten, gelten die Promotionsvoraussetzungen nicht.
 
 #### Art. 13
 
-**Session**
+**Wiederholung des Unterrichts**
 
-<sup>1</sup> Die Schlussprüfung für die Berufsmaturität findet einmal pro Jahr in einer einzigen Session statt; die Termine werden vom Departement festgelegt.
+<sup>1</sup> Es kann höchstens ein Unterrichtsjahr wiederholt werden. Diese Wiederholung ist nur einmal möglich.
 
-<sup>2</sup> Für die Fächer, für die eine vorzeitige Prüfung organisiert werden kann, wird das Programm vom Departement genehmigt. Höchstens drei Fächer können vorzeitig geprüft werden.
+<sup>2</sup> Die Wiederholung ist kein Recht, sondern eine Möglichkeit, welche je nach organisatorischen Voraussetzungen der Schule eingeschränkt werden kann.
 
-<sup>3</sup> Die Prüfungen werden vom Departement in den Schulen organisiert; die Fachhochschulen werden in geeigneter Weise in die Vorbereitung miteinbezogen.
+<sup>3</sup> In der BM1 bezieht sich die Wiederholung auf das Semester, an dessen Ende die Promotionsvoraussetzungen zum zweiten Mal nicht erfüllt sind, sowie auf das vorhergehende Semester; im Sonderfall der SKA-Bildungsgänge kann das Schuljahr, an dessen Ende das zweite Nichtbestehen festgestellt wird, wiederholt werden.
 
-<sup>4</sup> Die Prüfungssession wird von einer Chefexpertin oder einem Chefexperten, die oder der vom Departement ernannt wird, organisiert und geleitet; die Direktion der betreffenden Schule wirkt dabei mit.
+<sup>4</sup> In der BM2 kann die Wiederholung bei einer Ausbildung, die länger als 2 Semester dauert, einen Unterbruch der Ausbildung und deren Wiederaufnahme zu Beginn des nächsten Schuljahres erfordern.
 
-<sup>5</sup> Die Chefexpertin oder der Chefexperte sorgt namentlich dafür, dass die Prüfungsvorschriften im ganzen Kanton harmonisiert werden und die Bundesgesetzgebung einhalten.
+<sup>5</sup> Bei der Wiederholung eines Unterrichtsjahres muss dieses unabhängig von den erzielten Noten gesamthaft wiederholt werden. Der Schüler erhält somit für jedes wiederholte Semester neue Erfahrungsnoten in allen Fächern.
+
+<sup>6</sup> Allfällige vorgezogene Abschlussprüfungen können während des Wiederholungsjahres nicht noch einmal abgelegt werden. Deren Wiederholung ist nur möglich, wenn die gesamte BM-Prüfung am Ende des Bildungsgangs nicht bestanden wird.
+
+<sup>7</sup> Erfüllt ein Schüler die Promotionsvoraussetzungen ein drittes Mal während des wiederholten Unterrichtsjahres oder zu einem späteren Zeitpunkt nicht, wird er endgültig vom BM-Unterricht ausgeschlossen. Vorbehalten bleibt der Fall in Artikel 7 Absatz 1 der vorliegenden Verordnung.
 
 #### Art. 14
 
-**Berufsmaturitätsprüfung**
+**Unterbruch während der Ausbildung**
 
-<sup>1</sup> Die Berufsmaturitätsprüfung umfasst das ganze Qualifikationsverfahren über die vertiefte Allgemeinbildung.
+<sup>1</sup> Ein Schuljahr, das nach der Ausstellung des Zeugnisses des 1. Semesters durch Fernbleiben vom Unterricht unterbrochen wird, zählt wie ein Schuljahr.
 
-<sup>2</sup> Die vier Fächer des Grundlagenbereichs und die beiden Fächer des Schwerpunktbereichs werden je in einer Schlussprüfung, die zum Qualifikationsverfahren gehört, beurteilt.
+<sup>2</sup> Vorbehalten bleiben Sonderfälle, namentlich aus medizinisch attestierten Gründen, die von der zuständigen Dienststelle behandelt werden.
 
-<sup>3</sup> Die Person, welche die erforderlichen Kenntnisse und Fähigkeiten in einem bestimmten Fach bereits nachweisen kann, kann vom Departement von den entsprechenden Schlussprüfungen dispensiert werden. Der Vermerk "bestanden" wird im Berufsmaturitätszeugnis eingetragen.
-
-<sup>4</sup> Die Form und die Dauer der Schlussprüfungen sind im eidgenössischen Rahmenlehrplan festgehalten.
-
-<sup>5</sup> Die Themen der schriftlichen Prüfung werden gemäss den Richtlinien des Departements und unter der Verantwortung des von diesem ernannten Chefexperten vorbereitet.
-
-<sup>6</sup> Die Korrektur und die Bewertung der schriftlichen Prüfungen werden von einem schulinternen Experten und einem externen Experten, die vom Departement ernannt werden, sichergestellt.
-
-<sup>7</sup> Die mündliche Prüfung wird von einer Lehrperson, der ein vom Departement ernannter Experte zur Seite steht, beurteilt. Sie führen ein Protokoll und legen die Note fest.
-
-<sup>8</sup> Die Prüfungsnoten beim Qualifikationsverfahren werden nur in ganzen oder halben Noten ausgedrückt.
+## 4 Unterricht
 
 #### Art. 15
 
-**Berechnung der Noten bei der Berufsmaturitätsprüfung**
+**Aufbau**
 
-<sup>1</sup> Die Methode für die Berechnung der Noten beim Qualifikationsverfahren, die namentlich die Schlussnoten der in einer Schlussprüfung beurteilten Fächer berücksichtigt, wird in Artikel 24 der Verordnung über die eidgenössische Berufsmaturität vom 24. Juni 2009 festgehalten.
+<sup>1</sup> Der BM-Unterricht umfasst:
 
-<sup>2</sup> Das Qualifikationsverfahren ist bestanden, wenn bei den Schlussnoten folgende Voraussetzungen erfüllt werden:
+- a) einen Grundlagenbereich;
+- b) einen Schwerpunktbereich;
+- c) einen Ergänzungsbereich.
 
-- a) Die Gesamtnote, welche die Schlussnoten der Fächer des Grundlagen-, des Schwerpunkt- und des Ergänzungsbereichs sowie die Schlussnote der interdisziplinären Arbeit berücksichtigt, beträgt 4,0 oder mehr.
-
-- b) Höchstens zwei Schlussnoten sind unter 4,0.
-
-- c) Die Summe der Abweichungen zwischen den Noten der ungenügenden Fächer und der Note 4,0 beträgt 2,0 oder weniger.
-
-<sup>3</sup> Die Schülerin oder der Schüler, die oder der das Qualifikationsverfahren erfolgreich abgeschlossen hat und über ein eidgenössisches Fähigkeitszeugnis verfügt, erhält ein eidgenössisches Berufsmaturitätszeugnis.
+<sup>2</sup> Er integriert auch den Aufbau methodischer Kompetenzen des interdisziplinären Denkens und Problemlösens. Hieraus ergibt sich eine Note, die sich aus dem Interdisziplinären Arbeiten in den Fächern und der Interdisziplinären Projektarbeit zusammensetzt.
 
 #### Art. 16
 
-**Wiederholung**
+**Lehrpläne**
 
-<sup>1</sup> Wer die Berufsmaturitätsprüfung nicht besteht, kann sie bei einer nächsten Session noch einmal ablegen.
+<sup>1</sup> Die allgemeinen Ziele, die überfachlichen Kompetenzen sowie die fachspezifischen Kompetenzen werden in den verschiedenen Bereichen durch den RLP-BM fest-gelegt.
 
-<sup>2</sup> In diesem Fall werden nur die Fächer, in denen die Kandidatin oder der Kandidat beim ersten Qualifikationsverfahren eine ungenügende Note erhielt, erneut geprüft.
+<sup>2</sup> Die auf regionaler Ebene verfassten Lehrpläne der anerkannten Bildungsgänge und/oder die von der Schule erstellten und von der zuständigen Dienststelle validierten Lehrpläne präzisieren den RLP-BM.
 
-<sup>3</sup> Für die Fächer des Grundlagen- und des Schwerpunktbereichs zählt beieiner Wiederholung die Prüfungsnote ohne Berücksichtigung der bisherigen Erfahrungsnote.
-
-<sup>4</sup> Für die Fächer des Ergänzungsbereichs ist bei der Wiederholung eine Prüfung zu absolvieren. Es zählt nur die Prüfungsnote.
-
-<sup>5</sup> Ist die Note der interdisziplinären Arbeit ungenügend, so gelten für die Wiederholung folgende Regeln:
-
-- a) Die interdisziplinäre Projektarbeit muss überarbeitet werden, wenn sie als ungenügend beurteilt wird.
-
-- b) Die interdisziplinäre Arbeit muss mündlich geprüft werden, wenn die Schulnote ungenügend ist.
-
-- c) Die Schulnote wird berücksichtigt, wenn sie genügend ist.
-
-<sup>6</sup> Besucht eine Person den Unterricht in einem ungenügenden Fach während mindestens zwei Semestern, so werden nur die neuen Zeugnisnoten als Schulnoten betrachtet und bei der Berechnung der Schlussnoten in den betreffenden Fächern berücksichtigt.
-
-<sup>7</sup> Wer erneut den Unterricht besuchen will, muss sich in den Fristen, die von der Schule vorgeschrieben werden, einschreiben. Verlässt eine repetierende Schülerin oder ein repetierender Schüler nach dem ersten Semesterzeugnis die Schule, so wird auch ihre oder seine Anmeldung zur Prüfungssession des laufenden Schuljahrs annulliert, und sie oder er darf den Unterricht nicht erneut besuchen.
-
-<sup>8</sup> In den mit Erfolg abgeschlossenen Fächern bleibt die einmal erhaltene Fachnote gültig.
+<sup>3</sup> Die Schule organisiert die interdisziplinäre Arbeit in den Fächern und die interdisziplinäre Projektarbeit gemäss der Verordnung über die eidgenössische Berufsmaturität (BMV) und den Angaben im RLP-BM. Sie legt diese Organisation in einem Dokument fest, das den Lehrplan vervollständigt .
 
 #### Art. 17
 
-**Beschwerde**
+**Sprachen**
 
-<sup>1</sup> Gegen die Semesternoten der Schule, die für die Berufsmaturitätsprüfung übernommen werden, kann innert dreissig Tagen nach Abgabe des Zeugnisses beim Departement Beschwerde eingereicht werden. Der Entscheid des Vorstehers des Departements ist definitiv im Sinne von Artikel 74 EGBBG.
+<sup>1</sup> Im Grundlagenbereich sind die erste und die zweite Landessprache Deutsch und Französisch.
 
-<sup>2</sup> Die Entscheide des Departements betreffend den Erhalt der Berufsmaturität können mittels Beschwerde an den Staatsrat innert dreissig Tagen nach Eingang der Ergebnisse angefochten werden.
+<sup>2</sup> Die erste Sprache, die sogenannte "Standardsprache", ist diejenige, die in der Region gesprochen wird, in der sich die Schule befindet, mit Ausnahme von Bildungsgängen für Schüler aus der anderen Sprachregion des Kantons.
 
-<sup>3</sup> Der Beschwerdeablauf wird im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG) geregelt.
+<sup>3</sup> Die zweite Landessprache oder Englisch kann unter folgenden Bedingungen auf einem höheren Niveau unterrichtet werden (Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen – GER – anstelle von Niveau B1):
 
-### 6. Abschnitt: Schlussbestimmungen
+- a) das Departement hat eine Bewilligung ausgestellt;
+- b) die entsprechenden Bestimmungen des RLP-BM werden eingehalten.
 
 #### Art. 18
 
-**Aufhebung bisherigen Rechts**
+**Schülerführung**
 
-Das Reglement über die Organisation der Berufsmaturität vom 30. Juni 1999 wird aufgehoben.
+<sup>1</sup> Mit Ausnahme der Elemente, die streng vom Vorhandensein eines Lehrvertrags abhängen, unterstehen die BM-Schüler sinngemäss den kantonalen Bestimmungen, die für die Schule und/oder den Bildungsgang gelten, in dem sie den Unterricht besuchen, sowie den internen Reglementen jeder Schule, insbesondere was die Sanktionen betrifft.
+
+<sup>2</sup> Die internen Reglemente jeder Schule geben namentlich an, wie Absenzen behandelt werden. Die Schule kann ein besonderes Absenzenreglement für die BM-Bildungsgänge nach der Berufslehre vorsehen.
+
+<sup>3</sup> Die internen Reglemente werden von der zuständigen Dienststelle validiert.
 
 #### Art. 19
 
-**Inkrafttreten**
+**Besuch des Unterrichts**
 
-Diese Verordnung wird im Amtsblatt veröffentlicht und tritt am 1. September 2014 in Kraft.
+<sup>1</sup> Die eingeschriebenen Schüler sind verpflichtet, den Unterricht zu besuchen.
 
-Angenommen im Staatsrat in Sitten, den 10. September 2014.
+<sup>2</sup> Fehlt der Schüler im Laufe eines Semesters während mehr als 20 Prozent der Unterrichtszeit eines Fachs oder der gesamten effektiven Stunden aller Fächer, so schlägt die Direktion der zuständigen Dienststelle insbesondere Folgendes vor:
 
-Der Präsident des Staatsrates: Jean-Michel Cina
+- a) ihm kein Semesterzeugnis auszustellen;
+- b) ihm die Promotion ins nächste Semester zu verweigern und/oder;
+- c) ihm den Zugang zu den BM-Abschlussprüfungen zu verweigern.
 
-Der Staatskanzler: Philipp Spörri
+<sup>3</sup> Die Weisungen des Departements zu besonders talentierten Schülern in den Bereichen Sport und Kunst bleiben vorbehalten.
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>4</sup> Das unentschuldigte Fernbleiben bei einer benoteten Leistung führt dazu, dass diese mit der Note 1,0 bewertet wird.
 
-**1.09.2014**
+#### Art. 20
 
-Verordnung über die Organisation der Abl. Nr. 38/2014
+**Dispens aufgrund der Anrechnung bereits erbrachter Lernleistungen**
 
-### Berufsmaturität vom 10. September 2014
+<sup>1</sup> Wer in einem Fach über die erforderlichen Kenntnisse und Fähigkeiten verfügt, kann durch die Schule vom entsprechenden Unterricht dispensiert werden.
+
+<sup>2</sup> Es obliegt der zuständigen Dienststelle, über die Gewährung einer Notendispens zu entscheiden. Im Semesterzeugnis wird der Vermerk "dispensiert" eingetragen.
+
+<sup>3</sup> Wer ein von der DB anerkanntes Fremdsprachendiplom besitzt, kann vom Unterricht im entsprechenden Fach ganz oder teilweise dispensiert werden, jedoch nicht von der Erfahrungsnote.
+
+## 5 Berufsmaturitätsprüfung
+
+#### Art. 21
+
+**Berufsmaturitätsprüfung**
+
+<sup>1</sup> Die Berufsmaturitätsprüfung entspricht dem gesamten Qualifikationsverfahren für die erweiterte Allgemeinbildung.
+
+<sup>2</sup> Die vier Fächer des Grundlagenbereichs und die beiden Fächer des Schwerpunktbereichs werden je in einer Abschlussprüfung, die zum Qualifikationsverfahren gehört, beurteilt.
+
+<sup>3</sup> Die Form und die Dauer der Abschlussprüfungen sind im RLP-BM festgehalten.
+
+<sup>4</sup> Die schriftlichen Abschlussprüfungen werden auf kantonaler Ebene unter Beachtung der Anweisungen der DB vorbereitet. Für Abschlussprüfungen, die auch Bildungsgänge betreffen, die der DU unterstellt sind, erstellt die DB die Anweisungen in Partnerschaft mit der DU.
+
+<sup>5</sup> Diese Anweisungen enthalten unter anderem eine Liste der erlaubten Hilfsmittel.
+
+<sup>6</sup> Die Fachhochschulen werden an der Vorbereitung der BM-Abschlussprüfungen angemessen beteiligt.
+
+<sup>7</sup> Die schriftlichen Prüfungen in einer BM-Ausrichtung sind für alle Schüler der gleichen Sprachregion des Kantons identisch. Das Departement kann in den folgenden Situationen Abweichungen von dieser Regel zulassen:
+
+- a) wenn die BM1-Abschlussprüfungen zu einem anderen Zeitpunkt als die BM2-Abschlussprüfungen durchgeführt werden müssen, um die Vereinbarkeit mit den Daten für die Qualifikationsverfahren der beruflichen Grundbildung zu gewährleisten;
+- b) wenn das Ende des BM-Unterrichts nicht mit den regulären Prüfungssessionen übereinstimmt;
+- c) wenn es sich um eine vorgezogene Prüfung gemäss Artikel 22 Absatz 3 der vorliegenden Verordnung handelt, die nicht während der regulären Prüfungssessionen durchgeführt werden kann.
+
+<sup>8</sup> Wenn eine Fremdsprachendiplomprüfung von der DB anerkannt wird, kann ihr Resultat in eine Prüfungsnote umgewandelt werden. Wenn die Fremdsprachendiplomprüfung vor Beginn des BM-Unterrichts abgelegt wurde, kann sie die Abschlussprüfung nur dann ersetzen, wenn sie zur Ausstellung des Fremdsprachendiploms geführt hat.
+
+#### Art. 22
+
+**Organisation**
+
+<sup>1</sup> Die Abschlussprüfungen der Berufsmaturität finden einmal pro Jahr in einer einzigen Session für jede BM-Ausrichtung statt. Die Daten werden von der zuständigen Dienststelle validiert.
+
+<sup>2</sup> Die Abschlussprüfungen in den einzelnen Fächern finden am Ende des BM-Unterrichts statt.
+
+<sup>3</sup> Es können jedoch höchstens drei Fächer vorzeitig abgeschlossen werden. Die Auswahl der Fächer für eine vorgezogene Prüfung und die Festlegung des Semesters, an dessen Ende die Prüfung stattfindet, werden von der zuständigen Dienststelle genehmigt.
+
+<sup>4</sup> Die Prüfungssession wird von einem Chefexperten, der vom Departement ernannt wird, organisiert und geleitet; die Direktion der betreffenden Schule wirkt dabei mit.
+
+<sup>5</sup> Der Chefexperte sorgt namentlich dafür, dass die Prüfungsvorschriften im ganzen Kanton harmonisiert werden und die Bundesgesetzgebung einhalten.
+
+#### Art. 23
+
+**Absenzen**
+
+<sup>1</sup> Der Kandidat, der sich im Verlaufe der Prüfungen zurückzieht oder nicht zur Prüfung erscheint, hat nicht bestanden.
+
+<sup>2</sup> Arztzeugnisse werden nur dann berücksichtigt, wenn sie vor der Prüfung oder spätestens am Tag danach vorgelegt werden.
+
+<sup>3</sup> Vorbehalten bleiben Sonderfälle und Fälle höherer Gewalt, über die das Departement entscheidet.
+
+#### Art. 24
+
+**Dispens von der Abschlussprüfung**
+
+<sup>1</sup> Wer in einem Fach die erforderlichen Kenntnisse und Fähigkeiten nachweist, kann durch die zuständige Dienststelle von der entsprechenden Abschlussprüfung dispensiert werden.
+
+<sup>2</sup> Der Nachweis muss auf Resultaten beruhen, die im Rahmen einer vom Kanton anerkannten und erfolgreich abgeschlossenen Ausbildung erbracht wurden. Der Vermerk "erfüllt" wird im Notenausweis zum eidgenössischen Berufsmaturitätszeugnis eingetragen.
+
+#### Art. 25
+
+**Beurteilung**
+
+<sup>1</sup> Die Korrektur und die Bewertung der schriftlichen Prüfungen werden von einem schulinternen und einem externen Experten, die vom Departement ernannt werden, sichergestellt.
+
+<sup>2</sup> Die mündliche Prüfung wird von einer Lehrperson, der ein vom Departement ernannter Experte zur Seite steht, beurteilt. Sie füllen ein Bewertungsraster aus und vergeben auf dieser Grundlage die Note. Bei Meinungsverschiedenheiten entscheidet der Chefexperte.
+
+<sup>3</sup> Die Berechnung der Noten erfolgt nach den Bestimmungen der BMV.
+
+#### Art. 26
+
+**Bestehen**
+
+<sup>1</sup> Die Bestehenskriterien werden durch die BMV festgelegt.
+
+<sup>2</sup> Der Schüler, der das BM-Qualifikationsverfahren erfolgreich abgeschlossen hat und über ein EFZ verfügt, erhält ein eidgenössisches Berufsmaturitätszeugnis.
+
+#### Art. 27
+
+**Wiederholung**
+
+<sup>1</sup> Wer die Berufsmaturitätsprüfung nicht besteht, kann sie bei der Session am Ende des folgenden Schuljahres noch einmal ablegen.
+
+<sup>2</sup> Die mögliche Verschiebung der Wiederholung auf eine andere Session kann in besonderen Situationen von der zuständigen Dienststelle genehmigt werden.
+
+<sup>3</sup> Bei der Wiederholung werden nur die Fächer, in denen der Schüler beim ersten Qualifikationsverfahren eine ungenügende Note erhielt, erneut geprüft.
+
+<sup>4</sup> In den mit Erfolg abgeschlossenen Fächern bleibt die einmal erhaltene Fachnote gültig.
+
+<sup>5</sup> Die Modalitäten bezüglich der Wiederholung der Berufsmaturitätsprüfung werden durch die BMV und den RLP-BM festgelegt.
+
+<sup>6</sup> Der Schüler, der den Unterricht erneut besuchen will, um die Abschlussprüfung ein weiteres Mal abzulegen, muss sich innerhalb der von der Schule vorgeschriebenen Fristen einschreiben.
+
+<sup>7</sup> Ein Fernbleiben vom Unterricht nach der Erstellung des Zeugnisses für das 1. Semester berechtigt nicht mehr zur erneuten Teilnahme am Unterricht.
+
+## 6 Rechtsmittel
+
+#### Art. 28
+
+**Einsprache und Beschwerde**
+
+<sup>1</sup> Gegen die Semesternoten der Schule, die für die Berufsmaturitätsprüfung übernommen werden, kann innert 30 Tagen nach Abgabe des Zeugnisses bei der Schuldirektion Einsprache erhoben werden.
+
+<sup>2</sup> Gegen den Einspracheentscheid kann innert 30 Tagen nach dessen Eröffnung Beschwerde beim Departement eingereicht werden.
+
+<sup>3</sup> Gegen andere Entscheide, die sich aus der Anwendung der vorliegenden Verordnung ergeben, kann innert 30 Tagen beim Departement Beschwerde eingereicht werden.
+
+<sup>4</sup> Das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) regelt das Verfahren.
+
+## T1 Übergangsbestimmung
+
+#### Art. T1-1
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Schüler, die ihre BM-Ausbildung vor dem Inkrafttreten der Revision der vorliegenden Verordnung begonnen haben, unterliegen weiterhin der Verordnung über die Organisation der Berufsmaturität in der Fassung vom 1. September 2014.
+
+<sup>2</sup> Bei einem Unterbruch der BM-Ausbildung gilt für den Schüler das Recht, das zum Zeitpunkt der Wiederaufnahme in Kraft ist.
+
+<sup>3</sup> Die BM-Prüfungen nach altem Recht werden spätestens bis 2033 durchgeführt.
+
+CSW RO/AGS 2026-025
