@@ -4,13 +4,12 @@ number: "410.302"
 title: Verordnung des Erziehungsrates über die Lehrerkonferenzen
 short: Konferenzreglement
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-06-26
+version: 2026-08-01
+version_adopted: 2026-03-18
 adopted: 1984-11-01
 in_force: 1985-03-08
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.302"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1843/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2076/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1843/pdf_file"
 
 (Konferenzreglement)
 
-Vom 01.11.1984 (Stand 01.08.2024)
+Vom 01.11.1984 (Stand 01.08.2026)
 
 Der Erziehungsrat des Kantons Schaffhausen,
 
@@ -65,9 +64,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Für alle konferenzpflichtigen Lehrpersonen finden Kantonaltagungen statt.
 
-<sup>2</sup> …
-
-<sup>3</sup> Die beiden Fachkonferenzen sind mit je drei Delegierten an den Stufenkonferenzen vertreten. Der Vorstand der jeweiligen Fachkonferenz ordnet die Delegierten dazu ab.
+<sup>2–3</sup> …
 
 #### § 4
 
