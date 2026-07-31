@@ -4,13 +4,12 @@ number: IV B/4/2
 title: Reglement über den Bildungsgang Gymnasium der Kantonsschule Glarus
 short: "Reglement Gymnasium, RGym"
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2025-06-12
+version: 2026-08-01
+version_adopted: 2026-06-11
 adopted: 2020-06-12
 in_force: 2020-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.4.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2591/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2664/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2591/pdf_file"
 
 (Reglement Gymnasium, RGym)
 
-Vom 12.06.2020 (Stand 01.01.2026)
+Vom 12.06.2020 (Stand 01.08.2026)
 
 Der Kantonsschulrat,
 
@@ -87,33 +86,11 @@ erlässt:
 
 <sup>5</sup> Sind die Umstände einer ausserordentlichen Aufnahme nur teilweise klar oder ist die Prognose der schulischen Leistungen schwierig, kann die Schulleitung auch eine provisorische Aufnahme beschliessen.
 
-## 3. Disziplinarrecht
+## 3.
 
-#### Art. 6
+#### Art. 6–8
 
-**Disziplinarmassnahmen**
-
-<sup>1</sup> Verstösse gegen Vorschriften der Schule können insbesondere durch folgende Massnahmen geahndet werden:
-
-- a. Arbeit im Dienste der Schule;
-- b. Nachsitzen;
-- c. Ermahnung oder Verweis durch die Klassenlehrperson oder die Schulleitung;
-- d. Vorübergehender Ausschluss vom Unterricht;
-- e. Wegweisung von einer Prüfung.
-
-#### Art. 7
-
-**Ausschluss**
-
-<sup>1</sup> Die Schulleitung kann Lernende, welche den Schulbetrieb durch Interesselosigkeit erschweren oder durch schlechte Disziplin stören, nach erfolgter schriftlicher Verwarnung von der Schule ausschliessen.
-
-<sup>2</sup> Bei schweren Verfehlungen können Lernende ohne vorgängige Verwarnung ausgeschlossen werden.
-
-#### Art. 8
-
-**Absenzenwesen**
-
-<sup>1</sup> Das Absenzenwesen richtet sich nach den Weisungen der Schulleitung.
+**…**
 
 ## 4. Promotion
 
