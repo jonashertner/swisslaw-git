@@ -4,13 +4,12 @@ number: "860.22"
 title: "Verordnung über die Leistungsangebote der Familien-, Kinder- und Jugendförderung"
 short: FKJV
 language: de
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2026-01-07
+version: 2026-08-01
+version_adopted: 2025-09-17
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3340/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3340/pdf_file"
 
 (FKJV)
 
-vom 24.11.2021 (Stand 01.01.2026)
+vom 24.11.2021 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -93,9 +92,9 @@ beschliesst:
 <sup>1</sup> Einer Bewilligung für den Betrieb einer Kindertagesstätte bedarf, wer
 
 - a regelmässig tagsüber mehr als ein Kind unter zwölf Jahren ausserhalb eines privaten Haushalts betreut oder
-- b mehr als fünf Betreuungsplätze innerhalb eines privaten Haushalts anbietet.
+- b mehr als fünf Betreuungsplätze innerhalb eines privaten Haushalts anbietet vorbehältlich Artikel 27f Absatz 4 und Artikel 27f1.
 
-<sup>2</sup> Als regelmässig im Sinne von Absatz 1 gilt ein Betreuungsangebot, das
+<sup>2</sup> Als regelmässig im Sinne von Absatz 1 Buchstabe a gilt ein Betreuungsangebot, das
 
 - a während mindestens zwei Monaten pro Jahr am Stück oder gesamthaft 39 Wochen pro Jahr angeboten wird sowie
 - b einen Umfang pro Kind von mehr als drei Stunden pro Tag oder mehr als neun Stunden pro Woche hat.
@@ -263,8 +262,8 @@ beschliesst:
 
 <sup>3</sup> Bei der Beurteilung des Betreuungsschlüssels sind die Plätze wie folgt zu berechnen:
 
-- a für Kinder unter zwölf Monaten: 1,5 Plätze,
-- b für Kinder ab zwölf Monaten vor dem Eintritt in den Kindergarten: 1 Platz,
+- a für Kinder unter 18 Monaten: 1,5 Plätze,
+- b für Kinder ab 18 Monaten vor dem Eintritt in den Kindergarten: 1 Platz,
 - c für Kinder ab Eintritt in den Kindergarten bis und mit 2. Klasse: 0,75 Plätze,
 - d für Kinder ab der dritten Klasse: 0,5 Plätze,
 - e für Kinder mit besonderen Bedürfnissen unabhängig vom Alter: 1,5 Plätze.
@@ -309,7 +308,7 @@ beschliesst:
 
 - a dürfen keine Mitarbeiterinnen und Mitarbeiter beschäftigen, die eine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint,
 - b melden dem AIS zu diesem Zweck von allen Mitarbeiterinnen und Mitarbeitern rechtzeitig im Voraus oder spätestens bei Vertragsunterzeichnung und danach jährlich die Personalien zur Überprüfung des Leumunds durch Einsicht in den Behördenauszug 2 aus dem Strafregister,
-- c stellen Arbeitsverträge, die vor abgeschlossener Leumundsprüfung unterzeichnet werden, unter den Vorbehalt, dass der Behördenauszug 2 zum Zeitpunkt der erstmaligen Überprüfung im Zusammenhang mit dem Anstellungsverfahren keine Hinweise auf Straftaten nach Buchstabe a enthält,
+- c stellen Anstellungsverträge, die vor abgeschlossener Leumundsprüfung unterzeichnet werden, unter den Vorbehalt, dass der Behördenauszug 2 zum Zeitpunkt der erstmaligen Überprüfung im Zusammenhang mit dem Anstellungsverfahren keine Hinweise auf Straftaten nach Buchstabe a enthält,
 - d stellen sicher, dass neue Mitarbeiterinnen und Mitarbeiter vor abgeschlossener Leumundsprüfung nie allein, sondern nur gemeinsam mit Fach- oder Assistenzpersonal in der Kinderbetreuung eingesetzt werden.
 
 <sup>2</sup> Jede Kindertagesstätte muss über eine Selbstverpflichtungserklärung verfügen, die von allen Mitarbeiterinnen und Mitarbeitern datiert unterschrieben wird und folgende Aspekte abdeckt:
@@ -317,9 +316,9 @@ beschliesst:
 - a Beschreibung der körperlichen, verbalen und nonverbalen Formen von Grenzüberschreitungen, auf die bewusst verzichtet werden soll,
 - b Darstellung der Situationen, in welchen die Gefahr für solche Grenzüberschreitungen besteht und eine Beschreibung des positiven Verhaltens, das an Stelle von Grenzüberschreitungen gezeigt werden soll,
 - c Verpflichtung, auf alle Formen von Grenzüberschreitungen zu verzichten,
-- d Verpflichtung, auch unbeabsichtigt erfolgte Grenzverletzungen, die selbst begangen oder bei Dritten beobachtet worden sind, unverzüglich gegenüber der Leitung offenzulegen.
+- d Verpflichtung, auch unbeabsichtigt erfolgte Grenzüberschreitungen, die selbst begangen oder bei Dritten beobachtet worden sind, unverzüglich gegenüber der Leitung offenzulegen.
 
-<sup>3</sup> Bei Verdacht einer schweren Grenzverletzung ist die entsprechende Mitarbeiterin oder der entsprechende Mitarbeiter sofort freizustellen.
+<sup>3</sup> Bei Verdacht auf eine Grenzüberschreitung sind umgehend die geeigneten und erforderlichen Massnahmen zum Schutz der Kinder zu ergreifen, nötigenfalls durch Freistellung der entsprechenden Mitarbeiterin oder des entsprechenden Mitarbeiters.
 
 #### Art. 20
 
@@ -358,6 +357,8 @@ beschliesst:
 
 <sup>1</sup> Sind die Bewilligungsvoraussetzungen erfüllt, wird die Bewilligung erteilt.
 
+<sup>1a</sup> Die Bewilligung kann auf Probe oder befristet erteilt sowie mit Bedingungen und Auflagen verbunden werden.
+
 <sup>2</sup> Verfügt eine Kindertagesstätte über mehrere Standorte, wird eine einzige Bewilligung ausgestellt, wenn die Mitarbeiterinnen und Mitarbeiter der Standorte einer einzigen Leitung mit direkter Führungsverantwortung unterstehen.
 
 ### 2.1.4 Betriebsführung
@@ -383,7 +384,7 @@ beschliesst:
 
 - a Änderungen des pädagogischen Konzepts,
 - b ausserordentliche Ereignisse, die den Betrieb der Kindertagesstätte oder das Wohl einzelner oder mehrerer betreuter Kinder wesentlich beeinträchtigen können sowie damit zusammenhängende getroffene Massnahmen,
-- c schwere Grenzverletzungen oder ein entsprechender Verdacht sowie damit zusammenhängende getroffene Massnahmen.
+- c schwere Grenzüberschreitungen oder ein entsprechender Verdacht sowie damit zusammenhängende getroffene Massnahmen.
 
 ### 2.1.5 Aufsicht
 
@@ -404,14 +405,16 @@ beschliesst:
 
 **Beanstandungen**
 
-<sup>1</sup> Das AIS geht bei Beanstandungen wie folgt vor:
+<sup>1</sup> Das AIS ergreift bei Beanstandungen die geeigneten und erforderlichen Massnahmen, wie namentlich
 
-- a Es setzt eine Frist an, innerhalb der die Missstände zu beseitigen sind.
-- b In schweren Fällen mit unmittelbar drohender Gefahr für die Kinder ordnet es die sofortige Schliessung des Betriebs an.
+- a Ansetzen einer Frist, innerhalb der die Missstände zu beseitigen sind,
+- a1 Anpassen der Bewilligung oder Verbindung derselben mit Bedingungen oder Auflagen,
+- a2 Auferlegen einer Busse gestützt auf Artikel 26 Absatz 1 PAVO,
+- b Anordnung der sofortigen Schliessung des Betriebs in schweren Fällen mit unmittelbar drohender Gefahr für die Kinder.
 
 <sup>2</sup> Die Frist nach Absatz 1 Buchstabe a wird in Abhängigkeit des Schweregrads der Missstände festgelegt.
 
-<sup>3</sup> Erfolgt innert Frist keine Beseitigung der Missstände, entzieht das AIS die Bewilligung.
+<sup>3</sup> Sind die Bewilligungsvoraussetzungen nicht mehr erfüllt oder ist wiederholt oder schwerwiegend gegen Bestimmungen dieser Verordnung, der PAVO oder auf diese Erlasse gestützte Verfügungen verstossen worden, kann das AIS die Bewilligung entziehen, allenfalls unter Anordnung der für eine geordnete Schliessung der Kindertagesstätte erforderlichen Frist oder Massnahmen.
 
 ### 2.1a Betreuung in Tagesfamilien
 
@@ -459,10 +462,10 @@ beschliesst:
 - a Einreichung einer Kopie der gültigen Identitätskarte oder des gültigen Reisepasses, bei ausländischen Personen einer Kopie der Aufenthalts- oder Niederlassungsbewilligung,
 - b Angabe des Zeitpunkts, wann die Betreuung aufgenommen wird,
 - c Angabe von Anzahl und Alter der betreuten Tageskinder einschliesslich des jeweiligen Betreuungsumfangs,
-- d Angabe von Anzahl und Alter aller sich regelmässig im Haushalt aufhaltenden Personen (inkl. Familienmitgliedern),
-- e Angabe von Name und Geburtsdatum aller zu ihrem Haushalt gehörenden, volljährigen Personen,
+- d Angabe von Anzahl und Alter aller regelmässig in ihrem Haushalt anwesenden Personen (einschliesslich Familienmitgliedern),
+- e Angabe von Namen und Geburtsdatum aller zu ihrem Haushalt gehörenden oder regelmässig in ihrem Haushalt anwesenden, volljährigen Personen,
 - f Angabe der eigenen AHV-Nummer sowie der AHV-Nummer aller zu ihrem Haushalt gehörenden, volljährigen und in die Kinderbetreuung involvierten Personen,
-- g Einreichung einer von ihnen und allen zu ihrem Haushalt gehörenden, volljährigen Personen unterzeichneten Selbstverpflichtungserklärung nach Artikel 19 Absatz 2,
+- g Einreichung einer von ihnen und allen zu ihrem Haushalt gehörenden oder regelmässig in ihrem Haushalt anwesenden, volljährigen Personen unterzeichneten Selbstverpflichtungserklärung analog zu Artikel 19 Absatz 2,
 - h Angabe von Informationen zu den Wohnverhältnissen (Adresse, Wohnfläche und Anzahl Zimmer).
 
 <sup>3</sup> Für Betreuungspersonen in Tagesfamilien, die bei einer Tagesfamilienorganisation angestellt sind, erfolgt die Meldung an das AIS durch die entsprechende Tagesfamilienorganisation durch Übermittlung der Personalien.
@@ -479,7 +482,7 @@ beschliesst:
 
 <sup>3</sup> Sie müssen vor oder während des ersten Jahres ihrer Betreuungstätigkeit einen Grundbildungskurs für Betreuungspersonen in Tagesfamilien und einen Kindernothilfekurs absolvieren.
 
-<sup>4</sup> Betreuungspersonen in Tagesfamilien und die zu ihrem Haushalt gehörenden Personen dürfen keine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint, was vor Beginn der Tätigkeit und danach jährlich zu überprüfen ist
+<sup>4</sup> Betreuungspersonen in Tagesfamilien und die zu ihrem Haushalt gehörenden oder regelmässig in ihrem Haushalt anwesenden Personen dürfen keine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint, was bei den volljährigen Personen vor Beginn der Tätigkeit und danach jährlich zu überprüfen ist
 
 - a durch Einsichtnahme des AIS in den Behördenauszug 2 aus dem Strafregister, soweit nach Bundesrecht zulässig, andernfalls
 - b durch Einverlangen eines Privatauszugs aus dem Strafregister.
@@ -488,15 +491,15 @@ beschliesst:
 
 **Betreuungsplätze in Tagesfamilien**
 
-<sup>1</sup> Die maximal zulässige Anzahl Betreuungsplätze, die von Betreuungspersonen in Tagesfamilien gleichzeitig besetzt werden dürfen, ergibt sich aus Artikel 4 Absatz 1 Buchstabe b.
+<sup>1</sup> Die maximal zulässige Anzahl Betreuungsplätze, die von Betreuungspersonen in Tagesfamilien gleichzeitig besetzt werden dürfen, ergibt sich grundsätzlich aus Artikel 4 Absatz 1 Buchstabe b.
 
 <sup>2</sup> Bei Beurteilung der nach Absatz 1 maximal belegbaren Betreuungsplätze sind alle anwesenden Kinder mitzuzählen, insbesondere auch eigene und unentgeltlich betreute Kinder unter zwölf Jahren sowie Kinder in Pflegeverhältnissen.
 
 <sup>3</sup> Entsprechend ihrem unterschiedlichen Betreuungsbedarf belegen in Tagesfamilien
 
-- a Kinder unter zwölf Monaten eineinhalb Betreuungsplätze,
-- b Kinder über zwölf Monaten und unter zwölf Jahren einen Betreuungsplatz,
-- c Kinder mit besonderen Bedürfnissen unabhängig des Alters eineinhalb Betreuungsplätze,
+- a Kinder unter 18 Monaten eineinhalb Betreuungsplätze,
+- b Kinder ab 18 Monaten und unter 12 Jahren einen Betreuungsplatz,
+- c Kinder mit besonderen Bedürfnissen unabhängig vom Alter eineinhalb Betreuungsplätze,
 - d Pflegekinder unter zwölf Jahren eineinhalb Betreuungsplätze,
 - e gegen Entgelt betreute Kinder im schulpflichtigen Alter ab zwölf Jahren bei gleichzeitiger Anwesenheit von Kindern unter zwölf Jahren einen halben Betreuungsplatz.
 
@@ -504,6 +507,16 @@ beschliesst:
 
 - a sieben Betreuungsplätze belegt werden oder
 - b zehn Betreuungsplätze belegt werden, sofern zusätzlich eine weitere zum Haushalt gehörende, volljährige Person anwesend ist.
+
+#### Art. 27f1
+
+**Begründete und zustimmungsbedürftige Ausnahmen**
+
+<sup>1</sup> In Abweichung von Artikel 27f Absatz 1 dürfen in Tagesfamilien nach den Vorgaben des AIS in begründeten Ausnahmefällen und für eine begrenzte Zeit mehr Betreuungsplätze belegt werden.
+
+<sup>2</sup> Die mit der Wahrnehmung der operationellen Aufsichtsaufgaben betraute Stelle erteilt die Zustimmung im Einzelfall.
+
+<sup>3</sup> Bei Bedarf erlässt das AIS eine Verfügung.
 
 ### 2.1a.3 Aufsicht
 
@@ -570,15 +583,20 @@ beschliesst:
 
 **Schutz vor Grenzüberschreitungen**
 
-<sup>1</sup> Tagesfamilienorganisationen dürfen keine Mitarbeiterinnen und Mitarbeiter beschäftigen, die eine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint.
+<sup>1</sup> Tagesfamilienorganisationen
+
+- a dürfen keine Mitarbeiterinnen und Mitarbeiter beschäftigen, die eine Straftat begangen haben, aufgrund der das Kindeswohl gefährdet erscheint,
+- b haben zudem sicherzustellen, dass in ihren Tagesfamilien die Voraussetzungen nach Artikel 27e Absatz 4 eingehalten sind.
 
 <sup>2</sup> Zu diesem Zweck
 
 - a melden sie dem AIS von allen in die Kinderbetreuung involvierten Personen in ihren Tagesfamilien vor deren erstmaligen Betreuungstätigkeit und danach jährlich die Personalien zur Überprüfung des Leumunds durch Einsicht in den Behördenauszug 2 aus dem Strafregister,
 - b melden sie dem AIS von der geschäftsführenden sowie den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen vor deren Anstellung und danach mindestens alle fünf Jahre die Personalien zur Überprüfung des Leumunds durch Einsicht in den Behördenauszug 2 aus dem Strafregister,
-- c holen sie von allfälligen weiteren zum Haushalt ihrer Betreuungspersonen in Tagesfamilien gehörenden, volljährigen Personen vor der erstmaligen Betreuungstätigkeit in dieser Tagesfamilie und danach jährlich einen Privatauszug aus dem Strafregister ein.
+- c holen sie von allfälligen weiteren zum Haushalt ihrer Betreuungspersonen in Tagesfamilien gehörenden oder regelmässig in deren Haushalt anwesenden, volljährigen Personen vor der erstmaligen Betreuungstätigkeit in dieser Tagesfamilie und danach jährlich einen Privatauszug aus dem Strafregister ein.
 
-<sup>3</sup> Jede Tagesfamilienorganisation verfügt über eine Selbstverpflichtungserklärung nach Artikel 19 Absatz 2, die von allen Betreuungspersonen in Tagesfamilien, von allfälligen weiteren zum Haushalt ihrer Betreuungspersonen in Tagesfamilien gehörenden, volljährigen Personen sowie von der geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen datiert unterschrieben wird.
+<sup>3</sup> Jede Tagesfamilienorganisation verfügt über eine Selbstverpflichtungserklärung analog zu Artikel 19 Absatz 2, die von allen Betreuungspersonen in Tagesfamilien, von allfälligen weiteren zum Haushalt ihrer Betreuungspersonen in Tagesfamilien gehörenden oder regelmässig in deren Haushalt anwesenden, volljährigen Personen sowie von der geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen datiert unterschrieben wird.
+
+<sup>4</sup> Bei Verdacht auf eine Grenzüberschreitung gilt Artikel 19 Absatz 3 sinngemäss.
 
 ### 2.1b.3 Bewilligungsverfahren
 
@@ -597,8 +615,8 @@ beschliesst:
 - c ein pädagogisches Konzept,
 - d ein Konzept zur Sicherstellung der Betreuungsqualität,
 - e die Eröffnungsbilanz, das Budget für das erste Betriebsjahr und ein Finanzplan über die ersten drei Betriebsjahre,
-- f die Personalien sowie die Anstellungsverträge und die Qualifikationsnachweise der geschäftsführenden und der mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der TFO,
-- g von den geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der TFO unterzeichnete Selbstverpflichtungserklärungen nach Artikel 19 Absatz 2.
+- f die Personalien sowie die Anstellungsverträge und die Qualifikationsnachweise der geschäftsführenden und der mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der Tagesfamilienorganisation,
+- g von den geschäftsführenden und den mit der Vermittlung, der Aufsicht oder der Beratung und Begleitung der Betreuungspersonen in Tagesfamilien betrauten Personen der Tagesfamilienorganisation unterzeichnete Selbstverpflichtungserklärungen analog zu Artikel 19 Absatz 2.
 
 #### Art. 27n
 
@@ -608,6 +626,8 @@ beschliesst:
 
 <sup>2</sup> Sind die Bewilligungsvoraussetzungen erfüllt, wird die Bewilligung erteilt.
 
+<sup>3</sup> Die Bewilligung kann auf Probe oder befristet erteilt sowie mit Bedingungen und Auflagen verbunden werden.
+
 ### 2.1b.4 Betriebsführung
 
 #### Art. 27o
@@ -616,7 +636,7 @@ beschliesst:
 
 <sup>1</sup> Der Betrieb einer Tagesfamilienorganisation beinhaltet insbesondere die Erfüllung der nachfolgenden Aufgaben:
 
-- a Abschliessen von Arbeitsverträgen mit Betreuungspersonen in Tagesfamilien, welche die Anforderungen nach Artikel 27e erfüllen,
+- a Abschliessen von Anstellungsverträgen mit Betreuungspersonen in Tagesfamilien, welche die Anforderungen nach Artikel 27e erfüllen,
 - b Vermitteln einer regelmässigen Betreuung von Kindern durch bei ihr angestellte Betreuungspersonen in Tagesfamilien,
 - c Abschliessen der Betreuungsverträge mit den Erziehungsberechtigten,
 - d Rechnungsstellung über die Betreuungskosten bei den Erziehungsberechtigten,
@@ -630,13 +650,15 @@ beschliesst:
 
 **Meldepflichten**
 
-<sup>1</sup> Die Tagesfamilienorganisationen stellen den Vollzug der Meldepflicht nach Artikel 12 Absatz 1 PAVO sicher, indem sie dem AIS unverzüglich nach Abschluss des Arbeitsvertrags die Personalien und die Wohnadresse der Betreuungsperson in Tagesfamilien übermitteln.
+<sup>1</sup> Die Tagesfamilienorganisationen stellen den Vollzug der Meldepflicht nach Artikel 12 Absatz 1 PAVO sicher, indem sie dem AIS unverzüglich nach Abschluss des Anstellungsvertrags die Personalien und die Wohnadresse der Betreuungsperson in Tagesfamilien übermitteln.
 
 <sup>2</sup> Sie sind verpflichtet, dem AIS
 
 - a jährlich ein Verzeichnis mit den Personalien aller in die Kinderbetreuung involvierten Personen in ihren Tagesfamilien zuzustellen,
-- b Meldung zu machen bei festgestellten Mängeln oder Schwierigkeiten bei der Tagesfamilienbetreuung, die sich nicht im Rahmen ihrer arbeitsrechtlichen Weisungsbefugnis beheben lassen,
-- c Meldung zu machen bei Kündigung eines Anstellungsverhältnisses mit einer Betreuungsperson in Tagesfamilien aufgrund von Mängeln oder Schwierigkeiten.
+- b festgestellte Mängel oder Schwierigkeiten bei der Tagesfamilienbetreuung, die sich nicht im Rahmen ihrer arbeitsrechtlichen Weisungsbefugnis beheben lassen, unverzüglich zu melden,
+- c die Kündigung eines Anstellungsverhältnisses mit einer Betreuungsperson in Tagesfamilien aufgrund von Mängeln oder Schwierigkeiten unverzüglich zu melden,
+- d ausserordentliche Ereignisse, die den Betrieb der Tagesfamilienorganisation oder das Wohl einzelner oder mehrerer betreuter Kinder wesentlich beeinträchtigen können, sowie damit zusammenhängende getroffene Massnahmen unverzüglich zu melden,
+- e schwere Grenzüberschreitungen oder einen entsprechenden Verdacht sowie damit zusammenhängende getroffene Massnahmen unverzüglich zu melden.
 
 <sup>3</sup> Wesentliche Änderungen, welche die Bewilligungsvoraussetzungen betreffen, sind dem AIS rechtzeitig im Voraus zu melden.
 
@@ -698,7 +720,12 @@ beschliesst:
 - a grundsätzlich für Kinder bis zum Abschluss des Kindergartens,
 - b für schulpflichtige Kinder nach Abschluss des Kindergartens, wenn die Betreuung durch eine Tagesfamilie erbracht wird.
 
-<sup>1a</sup> Werden nach Absatz 1 Buchstabe b Betreuungsgutscheine ausgerichtet, gilt in Abweichung von Artikel 27a Absatz 1 auch die Betreuung von Kindern ab zwölf Jahren als Betreuung in Tagesfamilien, ansonsten gelten die Artikel 27a ff.
+<sup>1a</sup> Vermittelt eine nach Artikel 49 SLG zur Entgegennahme von Betreuungsgutscheinen zugelassene Tagesfamilienorganisation familienergänzende Kinderbetreuung durch bei ihr angestellte Betreuungspersonen, können Betreuungsgutscheine
+
+- a in Abweichung von Artikel 27a Absatz 1 auch für die Betreuung von schulpflichtigen Kindern ab zwölf Jahren sowie
+- b für wiederkehrende Betreuung mit geringerem Umfang als nach Artikel 27a Absatz 3 ausgerichtet werden.
+
+<sup>1b</sup> Für Betreuungsverhältnisse im Sinne von Absatz 1a gelten im Übrigen die Bestimmungen über die Betreuung in Tagesfamilien.
 
 <sup>2</sup> Wohnsitzgemeinden können die Zielgruppe betreffend schulpflichtige Kinder einschränken.
 
@@ -710,13 +737,13 @@ beschliesst:
 
 - a bei denen ein entsprechender Bedarf an familienergänzender Kinderbetreuung nach Artikel 36 besteht,
 - b die das erforderliche Beschäftigungspensum nach Artikel 38 erreichen,
-- c deren massgebendes Einkommen unter 160'000 Franken liegt und
+- c deren massgebendes Einkommen unter 170'000 Franken liegt und
 - d deren Wohnsitzgemeinde über eine Ermächtigung nach Artikel 28 verfügt.
 
 <sup>2</sup> Als Erziehungsberechtigte gelten auch
 
 - a Pflegeeltern, die für die Betreuung ihrer Pflegekinder Betreuungsgutscheine beantragen,
-- b Partnerinnen oder Partner von Erziehungsberechtigten, die nach Artikel 61 Absatz 1 ein gemeinsames Gesuch um Betreuungsgutscheine einreichen.
+- b Partnerinnen und Partner von Erziehungsberechtigten, die nach Artikel 61 Absatz 1 ein gemeinsames Gesuch um Betreuungsgutscheine einreichen.
 
 #### Art. 32–33
 
@@ -734,6 +761,8 @@ beschliesst:
 - d Kinder mit besonderen Bedürfnissen aufnehmen,
 - e Kinder in sozialen Notsituationen aufnehmen, soweit die Kapazitäten vorhanden sind und bis ein regulärer Platz für sie gefunden wird.
 
+<sup>1a</sup> Die Leistungserbringer müssen über eine Betriebsbewilligung nach Artikel 4 oder Artikel 27h verfügen.
+
 <sup>2</sup> Tagesfamilienorganisationen müssen ihren Sitz, Kindertagesstätten ihren Standort im Kanton haben.
 
 <sup>3</sup> …
@@ -742,9 +771,9 @@ beschliesst:
 
 **Zulassungsverfahren**
 
-<sup>1</sup> Die Zulassung zum Betreuungsgutscheinsystem wird den Leistungserbringern auf Gesuch hin und gestützt auf die eingereichten Belege durch das AIS erteilt.
+<sup>1</sup> Die Zulassung zum Betreuungsgutscheinsystem wird den Leistungserbringern durch das AIS auf Gesuch hin und gestützt auf die eingereichten Belege für jeden Betrieb einzeln erteilt.
 
-<sup>1a</sup> Das Gesuch um Zulassung zum Betreuungsgutscheinsystem und die Belege sind über die vom AIS zur Verfügung gestellte Webapplikation einzureichen.
+<sup>1a</sup> Das Gesuch um Zulassung zum Betreuungsgutscheinsystem und die Belege sind für jeden Betrieb einzeln über die vom AIS zur Verfügung gestellte Webapplikation einzureichen.
 
 <sup>2</sup> Die Leistungserbringer müssen dem AIS alle betreffend die Zulassungsvoraussetzungen wesentlichen Änderungen unverzüglich melden.
 
@@ -953,20 +982,20 @@ beschliesst:
 
 **Massgebendes und anrechenbares Einkommen**
 
-<sup>1</sup> Das massgebende Einkommen berechnet sich aus dem anrechenbaren Einkommen minus den Familienabzug.
+<sup>1</sup> Das massgebende Einkommen berechnet sich aus dem anrechenbaren Einkommen abzüglich des Familienabzugs.
 
-<sup>2</sup> Anrechenbar ist das Einkommen der gesuchstellenden Erziehungsberechtigten nach Absatz 3 minus
+<sup>2</sup> Anrechenbar ist das Einkommen der gesuchstellenden Erziehungsberechtigten nach Absatz 3 abzüglich
 
-- a die geleisteten Unterhaltsbeiträge, soweit sie nach kantonaler Steuergesetzgebung steuerlich in Abzug gebracht werden können, und
-- b die steuerlich berücksichtigten Schuldzinsen und Gewinnungskosten.
+- a der geleisteten Unterhaltsbeiträge, soweit sie nach kantonaler Steuergesetzgebung steuerlich in Abzug gebracht werden können, und
+- b der Schuldzinsen, Kosten für die Wertschriftenverwaltung und Grundstückskosten, soweit sie nach kantonaler Steuergesetzgebung steuerlich in Abzug gebracht werden können.
 
-<sup>3</sup> Das Einkommen der Gesuchstellenden umfasst
+<sup>3</sup> Das Einkommen der Gesuchstellerinnen und Gesuchsteller umfasst
 
 - a den Nettolohn,
-- b das steuerpflichtige Ersatzeinkommen, wobei dieses bei Selbständigerwerbenden beim Geschäftsgewinn des entsprechenden Jahres angerechnet wird, sofern es die selbständige Tätigkeit betrifft,
+- b das steuerpflichtige Ersatzeinkommen, wobei dieses bei Selbstständigerwerbenden beim Geschäftsgewinn des entsprechenden Jahres angerechnet wird, sofern es die selbstständige Tätigkeit betrifft,
 - c die erhaltenen Unterhaltsbeiträge, soweit sie nach kantonaler Steuergesetzgebung versteuert werden müssen,
 - d Bruttoerträge aus beweglichem und unbeweglichem Vermögen,
-- e den in der Steuererklärung ausgewiesenen Geschäftsgewinn (Durchschnitt der vergangenen drei Jahre),
+- e den Geschäftsgewinn (Durchschnitt der vergangenen drei Jahre),
 - f fünf Prozent des Nettovermögens und
 - g weitere steuerbare Einkünfte.
 
@@ -1002,22 +1031,22 @@ beschliesst:
 
 **Maximale Vergünstigung**
 
-<sup>1</sup> Die maximale Vergünstigung für Kinder unter zwölf Monaten liegt bei
+<sup>1</sup> Die maximale Vergünstigung für Kinder unter 18 Monaten liegt bei
 
-- a 150 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
-- b 12.75 Franken pro Betreuungsstunde in einer Tagesfamilie.
+- a 157.50 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
+- b 13.40 Franken pro Betreuungsstunde in einer Tagesfamilie.
 
-<sup>2</sup> Die maximale Vergünstigung für Kinder ab zwölf Monaten vor Eintritt in den Kindergarten liegt bei
+<sup>2</sup> Die maximale Vergünstigung für Kinder ab 18 Monaten vor Eintritt in den Kindergarten liegt bei
 
-- a 100 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
-- b 8.50 Franken pro Betreuungsstunde in einer Tagesfamilie.
+- a 105 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
+- b 8.90 Franken pro Betreuungsstunde in einer Tagesfamilie.
 
 <sup>3</sup> Die maximale Vergünstigung für schulpflichtige Kinder ab dem Eintritt in den Kindergarten liegt bei
 
-- a 75 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
-- b 8.50 Franken pro Betreuungsstunde in einer Tagesfamilie.
+- a 78.80 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
+- b 8.90 Franken pro Betreuungsstunde in einer Tagesfamilie.
 
-<sup>4</sup> Die maximale Vergünstigung pro Monat wird bei sozialhilfebeziehenden Erziehungsberechtigten und bei Erziehungsberechtigten mit einem massgebenden Einkommen nach Artikel 53 von maximal 43‘000 Franken gewährt.
+<sup>4</sup> Die maximale Vergünstigung pro Monat wird bei sozialhilfebeziehenden Erziehungsberechtigten und bei Erziehungsberechtigten mit einem massgebenden Einkommen nach Artikel 53 von maximal 49‘000 Franken gewährt.
 
 #### Art. 57
 
@@ -1044,8 +1073,8 @@ beschliesst:
 
 <sup>1</sup> Die Pauschalabgeltung für die kostenintensivere Betreuung von Kindern mit einem ausserordentlichen Betreuungs- oder Förderaufwand im Sinne von Artikel 36 Absatz 2 beträgt
 
-- a 50 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
-- b 4.25 Franken pro Betreuungsstunde in einer Tagesfamilie.
+- a 52.50 Franken pro 20 Prozent Betreuung pro Woche in einer Kindertagesstätte,
+- b 4.45 Franken pro Betreuungsstunde in einer Tagesfamilie.
 
 <sup>2</sup> Die Ausrichtung der Pauschale setzt voraus, dass ein grundsätzlicher Anspruch auf einen Betreuungsgutschein besteht.
 
@@ -1201,7 +1230,7 @@ beschliesst:
 
 <sup>1</sup> Bei einer Abwesenheit des Kindes im Betreuungsverhältnis des Leistungserbringers ab 30 aufeinanderfolgenden Kalendertagen wird die Auszahlung des Betreuungsgutscheins unterbrochen.
 
-<sup>2</sup> Fehlt das Kind aufgrund von Krankheit oder Unfall oder einem anderen unverschuldeten und vorübergehenden Grund, wird die Auszahlung des Betreuungsgutscheins nicht unterbrochen.
+<sup>2</sup> Fehlt das Kind aufgrund von Krankheit oder Unfall oder aus einem anderen unverschuldeten und vorübergehenden Grund, wird die Auszahlung des Betreuungsgutscheins nicht unterbrochen.
 
 <sup>3</sup> Kann die familienergänzende Betreuung des Kindes aus Gründen, die beim Leistungserbringer liegen, nicht erfolgen, werden diese Kalendertage nicht als Abwesenheit nach Absatz 1 gerechnet.
 

@@ -4,13 +4,12 @@ number: "860.22"
 title: "Ordonnance sur les programmes de soutien à l’enfance, à la jeunesse et à la famille"
 short: OEJF
 language: fr
-version: 2026-01-01
-valid_until: 2026-07-31
-version_adopted: 2026-01-07
+version: 2026-08-01
+version_adopted: 2025-09-17
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3340/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3407/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3340/pdf_file"
 
 (OEJF)
 
-du 24.11.2021 (état au 01.01.2026)
+du 24.11.2021 (état au 01.08.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -45,7 +44,7 @@ arrête:
 - a l’accueil extrafamilial,
 - b l’animation de jeunesse,
 - c le développement de la petite enfance,
-- d le conseil et l’information aux enfants et aux adolescents en situation de handicap et à leurs familles,
+- d le conseil et l’information aux enfants, adolescentes et adolescents en situation de handicap et à leurs familles,
 - e les mesures pédago-thérapeutiques.
 
 <sup>2</sup> Elle ne s’applique pas aux programmes relevant de
@@ -92,10 +91,10 @@ arrête:
 
 <sup>1</sup> Doit requérir une autorisation d’exploiter une crèche toute personne
 
-- a qui prend régulièrement en charge pour la journée plus d’un enfant âgé de moins de douze ans hors d’un ménage privé ou
-- b qui propose plus de cinq places d’accueil dans le cadre d’un ménage privé.
+- a qui prend régulièrement en charge en journée plus d’un enfant âgé de moins de douze ans hors d’un ménage privé ou
+- b qui propose plus de cinq places d’accueil dans le cadre d’un ménage privé, sous réserve des articles 27f, alinéa 4, et 27f1.
 
-<sup>2</sup> Est considérée comme régulière au sens de l’alinéa 1 toute offre de prise en charge
+<sup>2</sup> Est considérée comme régulière au sens de l’alinéa 1, lettre a, toute offre de prise en charge
 
 - a proposée pendant au minimum deux mois d’affilée par année ou au total 39 semaines par année et
 - b d’une durée de plus de trois heures par jour ou de plus de neuf heures par semaine, par enfant.
@@ -152,22 +151,22 @@ arrête:
 
 <sup>2</sup> L’infrastructure doit notamment répondre aux exigences suivantes:
 
-- a Une aire de jeu intérieure de quatre mètres carrés est disponible par enfant présent; davantage d’enfants peuvent toutefois être pris en charge pendant la pause de midi.
-- b Les pièces destinées au jeu ou aux repas sont équipées d’une fenêtre donnant sur l’extérieur, sauf s’il s’agit de locaux réservés à des activités particulières dans lesquels les enfants ne passent pas plus de deux heures par jour.
-- c L’éclairage des locaux est suffisant.
-- d Tous les locaux peuvent être aérés.
-- e Un dispositif garantit que la température des locaux soit adaptée aux enfants et à la situation tout au long de l’année.
-- f Des installations sanitaires sont disponibles en nombre suffisant.
-- g Une aire de jeu extérieure sécurisée assurant une surface de quatre mètres carrés par enfant présent est accessible en dix minutes à pied au maximum.
-- h L’état et l’agencement des équipements et installations permettent le jeu, la mise en œuvre du concept pédagogique ainsi que la sécurité des enfants présents et du personnel.
-- i Une salle de repos suffisamment silencieuse est mise à la disposition des enfants dont l’âge et le niveau de développement requièrent des siestes en journée.
+- a une aire de jeu intérieure de quatre mètres carrés est disponible par enfant présent; davantage d’enfants peuvent toutefois être pris en charge pendant la pause de midi;
+- b les pièces destinées au jeu ou aux repas sont équipées d’une fenêtre donnant sur l’extérieur, sauf s’il s’agit de locaux réservés à des activités particulières dans lesquels les enfants ne passent pas plus de deux heures par jour;
+- c l’éclairage des locaux est suffisant;
+- d tous les locaux peuvent être aérés;
+- e un dispositif garantit que la température des locaux soit adaptée aux enfants et à la situation tout au long de l’année;
+- f des installations sanitaires sont disponibles en nombre suffisant;
+- g une aire de jeu extérieure sécurisée assurant une surface de quatre mètres carrés par enfant présent est accessible en dix minutes à pied au maximum;
+- h l’état et l’agencement des équipements et installations permettent le jeu, la mise en œuvre du concept pédagogique ainsi que la sécurité des enfants présents et du personnel;
+- i une salle de repos suffisamment silencieuse est mise à la disposition des enfants dont l’âge et le niveau de développement requièrent des siestes en journée.
 
 <sup>3</sup> L’infrastructure des crèches dont au moins 90 pour cent de la prise en charge est prévue en plein air doit répondre aux exigences suivantes:
 
-- a Une surface d’au moins quatre mètre carrés par enfant est disponible en tout temps à l’extérieur.
-- b Un abri de secours adéquat et de taille suffisante est accessible en tout temps.
-- c Des installations sanitaires sont disponibles en nombre suffisant.
-- d Les aires de jeu et de séjour à l’extérieur permettent de jouer, d’appliquer le concept pédagogique et d’assurer la sécurité des enfants présents et du personnel.
+- a une surface d’au moins quatre mètre carrés par enfant est disponible en tout temps à l’extérieur;
+- b un abri de secours adéquat et de taille suffisante est accessible en tout temps;
+- c des installations sanitaires sont disponibles en nombre suffisant;
+- d les aires de jeu et de séjour à l’extérieur permettent de jouer, d’appliquer le concept pédagogique et d’assurer la sécurité des enfants présents et du personnel.
 
 #### Art. 10
 
@@ -191,11 +190,11 @@ arrête:
 
 <sup>1</sup> La crèche dispose d’un concept pédagogique satisfaisant aux normes minimales suivantes:
 
-- a Le niveau d’apprentissage et de développement individuel de l’enfant est pris en compte.
-- b Les activités proposées sont ludiques, intégrées dans le quotidien et adaptées à l’âge des enfants, afin de stimuler leur apprentissage et leur développement dans tous les domaines.
-- c Les conditions favorisant un environnement sécurisant et des liens de confiance sont définies.
-- d La manière dont la participation sociale et l’encouragement linguistique sont garantis est présentée.
-- e La manière dont l’intégration et l’encouragement des enfants présentant des besoins particuliers sont assurés est présentée.
+- a le niveau d’apprentissage et de développement individuel de l’enfant est pris en compte;
+- b les activités proposées sont ludiques, intégrées dans le quotidien et adaptées à l’âge des enfants, afin de stimuler leur apprentissage et leur développement dans tous les domaines;
+- c les conditions favorisant un environnement sécurisant et des liens de confiance sont définies;
+- d la manière dont la participation sociale et l’encouragement linguistique sont garantis est présentée;
+- e la manière dont l’intégration et l’encouragement des enfants présentant des besoins particuliers sont assurés est présentée.
 
 <sup>2</sup> Le concept pédagogique règle par ailleurs
 
@@ -207,7 +206,7 @@ arrête:
 
 **Personnel**
 
-<sup>1</sup> Font partie du personnel spécialisé en matière d’accueil extrafamilial (personnel spécialisé) les personnes disposant d’une formation en éducation de l’enfance ES, d’une formation d’assistant socio-éducatif ou d’assistante socio-éducative conclue par un certificat fédéral de capacité (CFC) ou d’une formation au moins équivalente.
+<sup>1</sup> Font partie du personnel spécialisé en matière d’accueil extrafamilial (personnel spécialisé) les personnes disposant d’une formation en éducation de l’enfance ES, d’une formation d’assistante socio-éducative ou d’assistant socio-éducatif conclue par un certificat fédéral de capacité (CFC) ou d’une formation au moins équivalente.
 
 <sup>2</sup> Font partie du personnel auxiliaire en matière d’accueil extrafamilial (personnel auxiliaire)
 
@@ -233,7 +232,7 @@ arrête:
 
 **Direction**
 
-<sup>1</sup> La direction de la crèche doit disposer des compétences requises quant à la conduite du personnel, la gestion de l’exploitation et les aspects pédagogiques.
+<sup>1</sup> La direction de la crèche doit disposer des compétences requises quant à la conduite du personnel, à la gestion de l’exploitation et aux aspects pédagogiques.
 
 <sup>2</sup> Les compétences en matière de conduite sont certifiées par un titre de formation ou de perfectionnement exigeant au moins 300 heures d’apprentissage et portant sur les thèmes suivants: rôle et tâches de conduite, développement d’équipe, dynamique au sein de l’équipe, promotion et évaluation du personnel, développement de l’organisation et de la qualité, principes de la gestion d’entreprise et droit du travail.
 
@@ -263,11 +262,11 @@ arrête:
 
 <sup>3</sup> Le taux d’encadrement se calcule comme suit:
 
-- a enfants de moins de douze mois: indice de 1,5 place,
-- b enfants à partir de douze mois jusqu’à l’âge d’entrer à l’école enfantine: indice de 1 place,
+- a enfants de moins de 18 mois: indice de 1,5 place,
+- b enfants à partir de 18 mois jusqu’à l’âge d’entrer à l’école enfantine: indice de 1 place,
 - c enfants à partir de l’entrée à l’école enfantine jusqu’à la 2<sup>e</sup> année comprise: indice de 0,75 place,
 - d enfants à partir de la 3<sup>e</sup> année d’école: indice de 0,5 place,
-- e enfants présentant des besoins particuliers quel que soit leur âge: indice de 1,5 place.
+- e enfants présentant des besoins particuliers indépendamment de leur âge: indice de 1,5 place.
 
 #### Art. 16
 
@@ -280,7 +279,7 @@ arrête:
 <sup>1</sup> Tout danger potentiel pour les enfants doit être écarté, notamment
 
 - a en sécurisant les portes et les fenêtres de manière que les enfants puissent se déplacer en toute autonomie dans des espaces sûrs, les protocoles d’ouverture des portes et des fenêtres devant permettre d’écarter tout danger;
-- b en protégeant tous les dispositifs d’alimentation électrique accessibles, les conduites électriques étant équipés de disjoncteurs différentiels, pour le moins dans les salles d’eau.
+- b en protégeant tous les dispositifs d’alimentation électrique accessibles. Les conduites électriques sont en outre équipées de disjoncteurs différentiels, pour le moins dans les salles d’eau.
 
 <sup>2</sup> Tous les produits chimiques doivent être tenus hors de portée des enfants, également au moment de leur utilisation.
 
@@ -294,7 +293,7 @@ arrête:
 - b procédure en cas de réaction allergique par un enfant,
 - c procédure en cas d’accident et d’enfant blessé,
 - d procédure en cas d’incendie,
-- e coordonnées d’un ou d’une médecin de référence,
+- e coordonnées d’une ou d’un médecin de référence,
 - f réglementation en cas d’urgence pendant les heures creuses.
 
 <sup>2</sup> Le personnel connaît le plan d’urgence et est en mesure de l’appliquer.
@@ -308,9 +307,9 @@ arrête:
 <sup>1</sup> Les crèches
 
 - a ne sont pas autorisées à engager quiconque ayant commis une infraction qui permet de conclure à une menace pour le bien de l’enfant;
-- b annoncent à l’OIAS les données d’identité de tous les collaborateurs et de toutes les collaboratrices suffisamment à l’avance, au plus tard à la signature du contrat puis chaque année, en vue du contrôle de réputation par la consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
+- b annoncent à l’OIAS les données d’identité de toutes les collaboratrices et de tous les collaborateurs suffisamment à l’avance, au plus tard à la signature du contrat puis chaque année, en vue du contrôle de réputation par la consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
 - c établissent les contrats de travail signés avant la fin du contrôle de réputation sous réserve que l’extrait 2 du casier judiciaire destiné aux autorités ne comporte aucune inscription relative à des infractions visées à la lettre a au moment du premier contrôle en lien avec la procédure d’engagement;
-- d s’assurent, tant que le contrôle de réputation n’est pas terminé, que les nouveaux collaborateurs ou les nouvelles collaboratrices ne prennent en charge des enfants qu’avec des membres du personnel spécialisé ou auxiliaire.
+- d s’assurent, tant que le contrôle de réputation n’est pas terminé, que les nouvelles collaboratrices et les nouveaux collaborateurs ne prennent en charge des enfants qu’avec des membres du personnel spécialisé ou auxiliaire.
 
 <sup>2</sup> Chaque crèche doit disposer d’une déclaration d’engagement datée et signée par l’ensemble du personnel et qui consigne
 
@@ -319,7 +318,7 @@ arrête:
 - c l’engagement à s’abstenir de toute forme d’abus;
 - d l’obligation de révéler à la direction sans retard l’existence d’abus, qu’ils aient été commis volontairement ou non par soi-même ou par des tiers.
 
-<sup>3</sup> Tout membre du personnel soupçonné de graves abus est immédiatement libéré de ses fonctions.
+<sup>3</sup> En cas de soupçon d’abus, les mesures adéquates requises pour protéger les enfants sont prises immédiatement et, au besoin, le membre du personnel sur lequel porte le soupçon est libéré de ses fonctions.
 
 #### Art. 20
 
@@ -358,6 +357,8 @@ arrête:
 
 <sup>1</sup> L’autorisation est accordée dès lors que les conditions sont remplies.
 
+<sup>1a</sup> L’autorisation peut être délivrée à titre d’essai, limitée dans le temps ou assortie de conditions et de charges.
+
 <sup>2</sup> Une seule autorisation est délivrée aux crèches qui disposent de plusieurs sites pour autant que le personnel soit placé sous la responsabilité directe d’une direction unique.
 
 ### 2.1.4 Exploitation
@@ -382,7 +383,7 @@ arrête:
 <sup>1</sup> Il convient, outre l’exécution des obligations visées aux articles 17, alinéa 3 et 18 OPE, de communiquer immédiatement à l’OIAS
 
 - a toute modification du concept pédagogique,
-- b tout événement extraordinaire susceptible d’influencer considérablement l’exploitation de la crèche ou de porter sensiblement atteinte au bien d’un ou de plusieurs enfants pris en charge ainsi que les mesures prises en conséquence,
+- b tout événement extraordinaire susceptible d’entraver notablement l’exploitation de la crèche ou de porter sensiblement atteinte au bien d’un ou de plusieurs enfants pris en charge ainsi que les mesures prises en conséquence,
 - c tout abus grave ou tout soupçon en ce sens ainsi que les mesures prises à cet égard.
 
 ### 2.1.5 Surveillance
@@ -404,14 +405,16 @@ arrête:
 
 **Réclamations**
 
-<sup>1</sup> En cas de réclamations, l’OIAS procède comme suit:
+<sup>1</sup> En cas de réclamations, l’OIAS prend les mesures adéquates et requises, notamment
 
-- a Il fixe un délai pour remédier aux irrégularités.
-- b Il ordonne la fermeture immédiate de l’exploitation dans les cas graves impliquant un danger imminent pour les enfants.
+- a en fixant un délai pour remédier aux irrégularités,
+- a1 en adaptant l’autorisation ou en l’assortissant de conditions ou de charges,
+- a2 en infligeant une amende en application de l’article 26, alinéa 1 OPE,
+- b en ordonnant la fermeture immédiate de l’exploitation dans les cas graves impliquant un danger imminent pour les enfants.
 
 <sup>2</sup> Le délai visé à l’alinéa 1, lettre a est fonction de la gravité des irrégularités.
 
-<sup>3</sup> L’OIAS retire l’autorisation s’il n’est pas remédié aux irrégularités dans le délai imparti.
+<sup>3</sup> Si les conditions d’octroi de l’autorisation ne sont plus remplies ou que les dispositions de la présente ordonnance, celles de l’OPE ou les décisions fondées sur cette législation sont gravement enfreintes ou le sont de manière répétée, l’OIAS peut retirer l’autorisation, le cas échéant en fixant les délais ou les mesures qui s’imposent en vue de la fermeture en bonne et due forme de la crèche.
 
 ### 2.1a Accueil familial de jour
 
@@ -421,7 +424,7 @@ arrête:
 
 **Notions**
 
-<sup>1</sup> Les personnes qui prennent régulièrement en charge dans leur ménage, à la journée et contre rémunération, des enfants de moins de douze ans selon l’article 12 OPE sont des accueillantes et accueillants en milieu familial.
+<sup>1</sup> Les personnes qui prennent régulièrement en charge dans leur ménage, en journée et contre rémunération, des enfants de moins de douze ans selon l’article 12 OPE sont des accueillantes et accueillants en milieu familial.
 
 <sup>2</sup> Ne relèvent pas de l’accueil familial de jour au sens de l’alinéa 1
 
@@ -460,9 +463,9 @@ arrête:
 - b indiquent la date à laquelle l’accueil commence;
 - c communiquent le nombre et l’âge des enfants accueillis, ainsi que le taux de prise en charge respectif;
 - d annoncent le nombre et l’âge de toutes les personnes régulièrement présentes dans leur ménage (y compris les membres de la famille);
-- e précisent le nom et la date de naissance de toutes les personnes majeures faisant partie de leur ménage;
-- f indiquent leur numéro AVS et celui de toutes les personnes majeures faisant partie de leur ménage et participant à la prise en charge d’enfants;
-- g fournissent une déclaration d’engagement au sens de l’article 19, alinéa 2, munie de leur signature et de celle des personnes majeures faisant partie de leur ménage;
+- e précisent les noms et la date de naissance de toutes les personnes majeures qui font partie de leur ménage ou y sont régulièrement présentes;
+- f indiquent leur numéro AVS et celui de toutes les personnes majeures qui font partie de leur ménage et participent à la prise en charge d’enfants;
+- g fournissent une déclaration d’engagement analogue à celle prévue à l’article 19, alinéa 2, munie de leur signature et de celle de toutes les personnes majeures qui font partie de leur ménage ou y sont régulièrement présentes;
 - h font connaître leurs conditions de logement (adresse, surface habitable et nombre de pièces).
 
 <sup>3</sup> Lorsque des accueillantes ou accueillants en milieu familial travaillent pour une organisation d’accueil familial de jour, il incombe à celle-ci de les annoncer à l’OIAS, par la remise de leurs données d’identité.
@@ -477,9 +480,9 @@ arrête:
 
 <sup>2</sup> Les accueillantes et accueillants en milieu familial prennent les enfants en charge personnellement.
 
-<sup>3</sup> Elles et ils suivent une formation de base et un cours de soins d’urgence aux enfants avant le début de leur activité ou durant la première année de celle-ci.
+<sup>3</sup> Elles et ils suivent le cours d'introduction requis pour l'exercice de leur activité et un cours de soins d’urgence aux enfants avant le début de leur activité ou durant la première année de celle-ci.
 
-<sup>4</sup> Les accueillantes et accueillants en milieu familial et les personnes faisant partie de leur ménage ne doivent pas avoir commis d’infraction laissant conclure à une menace pour le bien de l’enfant, ce dont l’OIAS s’assure avant le début de leur activité, puis chaque année,
+<sup>4</sup> Les accueillantes et accueillants en milieu familial et les personnes qui font partie de leur ménage ou y sont régulièrement présentes ne doivent pas avoir commis d’infraction laissant conclure à une menace pour le bien de l’enfant, ce dont l’OIAS s’assure, concernant les personnes majeures, avant le début de leur activité, puis chaque année,
 
 - a en consultant l’extrait 2 du casier judiciaire destiné aux autorités, dans la mesure où le droit fédéral l’autorise ou, à défaut,
 - b en exigeant la remise d’un extrait du casier judiciaire destiné à des particuliers.
@@ -488,15 +491,15 @@ arrête:
 
 **Places d’accueil en milieu familial de jour**
 
-<sup>1</sup> Le nombre maximal admissible de places d’accueil que des accueillantes et accueillants en milieu familial peuvent proposer simultanément découle de l’article 4, alinéa 1, lettre b.
+<sup>1</sup> Le nombre maximal admissible de places d’accueil que des accueillantes et accueillants en milieu familial peuvent proposer simultanément découle en principe de l’article 4, alinéa 1, lettre b.
 
 <sup>2</sup> Le nombre maximal de places d’accueil au sens de l’alinéa 1 est calculé en tenant compte de tous les enfants présents, notamment de ceux qui vivent dans le ménage considéré, des enfants de moins de douze ans gardés à titre gratuit et des enfants en placement familial.
 
 <sup>3</sup> L’occupation des places d’accueil familial de jour se calcule comme suit en fonction des besoins de prise en charge des enfants:
 
-- a les enfants de moins de douze mois requièrent 1,5 place;
-- b les enfants entre douze mois et douze ans requièrent 1 place;
-- c les enfants présentant des besoins particuliers, indépendamment de leur âge, requièrent 1,5 place;
+- a les enfants de moins de 18 mois requièrent 1,5 place;
+- b les enfants entre 18 mois et 12 ans requièrent 1 place;
+- c les enfants présentant des besoins particuliers indépendamment de leur âge requièrent 1,5 place;
 - d les enfants de moins de douze ans placés chez des parents nourriciers requièrent 1,5 place;
 - e les enfants de douze ans et plus suivant la scolarité obligatoire pris en charge contre rétribution requièrent 0,5 place, en présence d’enfants de moins de douze ans.
 
@@ -504,6 +507,16 @@ arrête:
 
 - a sept places d’accueil ou
 - b dix places d’accueil, pour autant qu’une autre personne majeure faisant partie du ménage concerné soit présente.
+
+#### Art. 27f1
+
+**Exceptions justifiées et sujettes à approbation**
+
+<sup>1</sup> En dérogation à l’article 27f, alinéa 1, les accueillantes et accueillants en milieu familial peuvent, dans le respect des prescriptions de l’OIAS, proposer plus de places d’accueil pour une période limitée si l’exception se justifie.
+
+<sup>2</sup> Le service chargé des tâches de surveillance opérationnelle ne donne son approbation qu’après examen du cas d’espèce.
+
+<sup>3</sup> Au besoin, l’OIAS rend une décision.
 
 ### 2.1a.3 Surveillance
 
@@ -549,20 +562,20 @@ arrête:
 - c qu’elle dispose du personnel suffisant pour exécuter ses tâches avec les compétences et qualifications professionnelles requises;
 - d qu’elle bénéficie d’une base économique solide garantissant son activité sur le long terme.
 
-<sup>2</sup> Les aspects suivants liés à l’organisation de l’exploitation sont réglementés et font l'objet d'une documentation qui peut être consultée par les personnes détenant l'autorité parentale:
+<sup>2</sup> Les aspects suivants liés à l’organisation de l’exploitation sont réglementés et font l’objet d’une documentation qui peut être consultée par les personnes détenant l’autorité parentale:
 
-- a l'organisation sur le plan juridique,
+- a l’organisation sur le plan juridique,
 - b les compétences et responsabilités,
 - c la garantie de la qualité dans tous les domaines déterminants,
-- d la collaboration avec les personnes détenant l'autorité parentale,
-- e l'ensemble des coûts de prise en charge imputables aux personnes détenant l'autorité parentale.
+- d la collaboration avec les personnes détenant l’autorité parentale,
+- e l’ensemble des coûts de prise en charge imputables aux personnes détenant l’autorité parentale.
 
 <sup>3</sup> Les exigences minimales concernant les compétences professionnelles et les qualifications du personnel au sein d’une organisation d’accueil familial de jour sont les suivantes:
 
 - a la direction dispose des compétences requises en conduite du personnel et en gestion d’exploitation;
 - b les personnes chargées de la coordination disposent d’une formation de base avec certificat fédéral de capacité (CFC) et ont suivi une formation en coordination de l’accueil familial de jour;
-- c les accueillantes et accueillants en milieu familial ont suivi une formation de base et un cours de soins d’urgence aux enfants;
-- d les collaboratrices et collaborateurs de l’organisation d'accueil familial de jour disposent d’un diplôme en éducation de l’enfance ES, d’assistante socio-éducative ou d’assistant socio-éducatif conclue par un CFC ou d’une formation au moins équivalente pour
+- c les accueillantes et accueillants en milieu familial ont suivi le cours d'introduction requis pour l'exercice de leur activité et un cours de soins d’urgence aux enfants;
+- d les collaboratrices et collaborateurs de l’organisation d’accueil familial de jour disposent d’un diplôme en éducation de l’enfance ES, d’assistante socio-éducative ou d’assistant socio-éducatif conclue par un CFC ou d’une formation au moins équivalente pour
   - 1 exercer des tâches de surveillance,
   - 2 pourvoir au conseil et à l’accompagnement spécialisés destinés aux accueillantes et accueillants en milieu familial.
 
@@ -570,15 +583,20 @@ arrête:
 
 **Prévention des abus**
 
-<sup>1</sup> Les organisations d’accueil familial de jour ne sont pas autorisées à engager des personnes ayant commis une infraction laissant conclure à une menace pour le bien de l’enfant.
+<sup>1</sup> Les organisations d’accueil familial de jour
+
+- a ne sont pas autorisées à employer des personnes ayant commis une infraction laissant conclure à une menace pour le bien de l’enfant;
+- b doivent en outre s’assurer que les accueillantes et accueillants en milieu familial qu’elles emploient respectent les conditions de l’article 27e, alinéa 4.
 
 <sup>2</sup> Par conséquent, elles
 
 - a annoncent à l’OIAS les données d’identité de toutes les personnes impliquées dans la prise en charge d’enfants en milieu familial de jour avant le début de leur activité, puis annuellement, aux fins d’un contrôle de réputation par consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
-- b annoncent à l’OIAS les données d’identité des personnes exerçant la direction et de celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes ou accueillants en milieu familial, avant leur engagement, puis tous les cinq ans, aux fins d’un contrôle de réputation par consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
-- c se procurent un extrait du casier judiciaire destiné à des particuliers d’éventuelles autres personnes majeures faisant partie du ménage des accueillantes ou accueillants en milieu familial avant que l'accueil débute, puis annuellement.
+- b annoncent à l’OIAS les données d’identité des personnes exerçant la direction et de celles s’occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes ou accueillants en milieu familial, avant leur engagement, puis tous les cinq ans, aux fins d’un contrôle de réputation par consultation de l’extrait 2 du casier judiciaire destiné aux autorités;
+- c se procurent un extrait du casier judiciaire destiné à des particuliers d’éventuelles autres personnes majeures qui font partie du ménage des accueillantes ou accueillants en milieu familial ou y sont régulièrement présentes avant que l’accueil débute, puis annuellement.
 
-<sup>3</sup> Chaque organisation d’accueil familial de jour est en possession d’une déclaration d’engagement au sens de l’article 19, alinéa 2, datée et signée par l’ensemble des accueillantes et accueillants en milieu familial, par d’éventuelles autres personnes majeures qui font partie de leur ménage et par les personnes exerçant la direction et celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial.
+<sup>3</sup> Chaque organisation d’accueil familial de jour est en possession d’une déclaration d’engagement analogue à celle prévue à l’article 19, alinéa 2, datée et signée par l’ensemble des accueillantes et accueillants en milieu familial, par d’éventuelles autres personnes majeures qui font partie de leur ménage ou y sont régulièrement présentes et par les personnes exerçant la direction et celles s’occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial.
+
+<sup>4</sup> En cas de soupçon d’abus, l’article 19, alinéa 3 est applicable par analogie.
 
 ### 2.1b.3 Procédure d’autorisation
 
@@ -597,8 +615,8 @@ arrête:
 - c le concept pédagogique,
 - d le concept garantissant la qualité de la prise en charge,
 - e le bilan d’ouverture, le budget pour la première année d’exploitation et le plan financier des trois premiers exercices,
-- f les données d’identité, les contrats de travail et les pièces attestant des qualifications des personnes dirigeant l’organisation et de celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial,
-- g les déclarations d’engagement au sens de l’article 19, alinéa 2, signées par les personnes dirigeant l’organisation et par celles s'occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial.
+- f les données d’identité, les contrats de travail et les pièces attestant des qualifications des personnes dirigeant l’organisation et de celles s’occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial,
+- g les déclarations d’engagement analogues à celle prévue à l’article 19, alinéa 2, signées par les personnes dirigeant l’organisation et par celles s’occupant de la coordination, de la surveillance, du conseil et de l’accompagnement des accueillantes et accueillants en milieu familial.
 
 #### Art. 27n
 
@@ -608,35 +626,39 @@ arrête:
 
 <sup>2</sup> L’autorisation est accordée si les conditions d'octroi sont remplies.
 
+<sup>3</sup> L’autorisation peut être délivrée à titre d’essai, limitée dans le temps ou assortie de conditions et de charges.
+
 ### 2.1b.4 Exploitation
 
 #### Art. 27o
 
 **Tâches de l’organisation d’accueil familial de jour**
 
-<sup>1</sup> L'exploitation d'une organisation d’accueil familial de jour comporte notamment les tâches suivantes:
+<sup>1</sup> L’exploitation d’une organisation d’accueil familial de jour comporte notamment les tâches suivantes:
 
 - a conclure des contrats de travail avec les accueillantes et accueillants en milieu familial qui remplissent les exigences fixées à l’article 27e;
 - b coordonner l’accueil régulier d’enfants par les accueillantes et accueillants en milieu familial engagés à cet effet;
-- c conclure les contrats de prise en charge avec les personnes détenant l'autorité parentale;
-- d facturer la prise en charge aux personnes détenant l'autorité parentale;
+- c conclure les contrats de prise en charge avec les personnes détenant l’autorité parentale;
+- d facturer la prise en charge aux personnes détenant l’autorité parentale;
 - e fournir un accompagnement spécialisé aux accueillantes et accueillants en milieu familial;
 - f assurer la qualité de la prise en charge;
 - g proposer des formations continues aux personnes assurant la coordination, aux accueillantes et accueillants en milieu familial et aux collaboratrices et collaborateurs assumant la surveillance et le conseil, en s’assurant que ces formations soient régulièrement suivies;
-- h veiller à ce qu’aucun bon de garde ne soit accepté en échange d’une prise en charge au sens de l’article 27a, alinéa 2 par des accueillantes et accueillants en milieu familial employés par l'organisation d'accueil familial de jour;
+- h veiller à ce qu’aucun bon de garde ne soit accepté en échange d’une prise en charge au sens de l’article 27a, alinéa 2 par des accueillantes et accueillants en milieu familial employés par l’organisation d'accueil familial de jour;
 - i exécuter et documenter les tâches de surveillance opérationnelle au sens de l’article 27c, alinéa 2.
 
 #### Art. 27p
 
-**Obligations d’annonce**
+**Obligations d’annoncer**
 
 <sup>1</sup> Les organisations d’accueil familial de jour exécutent l’obligation d’annoncer visée à l’article 12, alinéa 1 OPE en transmettant sans délai à l’OIAS, après conclusion du contrat de travail, les données d’identité et l’adresse de domicile de l’accueillante et de l’accueillant en milieu familial.
 
 <sup>2</sup> Elles sont tenues envers l’OIAS
 
 - a de remettre chaque année une liste des données d’identité de toutes les personnes impliquées dans la prise en charge d’enfants dans leur accueil en milieu familial de jour;
-- b d’annoncer les manquements ou les difficultés qu’elles ont constatés dans l’accueil familial de jour et auxquels il leur est impossible de remédier par des instructions dans le cadre des rapports contractuels;
-- c d’annoncer la résiliation de l'engagement d'une accueillante ou d'un accueillant en milieu familial en raison de manquements ou de difficultés.
+- b d’annoncer sans délai les manquements ou les difficultés qu’elles ont constatés dans l’accueil familial de jour et auxquels il leur est impossible de remédier par des instructions dans le cadre des rapports contractuels;
+- c d’annoncer sans délai la résiliation de l'engagement d'une accueillante ou d'un accueillant en milieu familial en raison de manquements ou de difficultés;
+- d d’annoncer sans délai tout événement extraordinaire susceptible d’entraver notablement l’exploitation de l’organisation d’accueil familial de jour ou de porter sensiblement atteinte au bien d’un ou de plusieurs enfants pris en charge, ainsi que les mesures prises en conséquence;
+- e d’annoncer sans délai tout abus grave ou soupçon en ce sens, ainsi que les mesures prises à cet égard.
 
 <sup>3</sup> Toute modification essentielle affectant les conditions d’octroi de l’autorisation doit être communiquée suffisamment à l’avance à l’OIAS.
 
@@ -657,7 +679,7 @@ arrête:
 <sup>1</sup> L’OIAS
 
 - a contrôle régulièrement les documents déterminants pour l’autorisation délivrée à l’organisation d’accueil familial de jour, la documentation de la surveillance au sens de l’article 27c, alinéa 2 ainsi que les autres pièces qui auraient été exigées;
-- b se forge un avis d’une autre manière appropriée, si la situation le requiert, notamment par le biais d'inspections, d’entretiens et de questions sur l’activité de l’organisation d’accueil familial de jour.
+- b se forge un avis d’une autre manière appropriée, si la situation le requiert, notamment par le biais d’inspections, d’entretiens et de questions sur l’activité de l’organisation d’accueil familial de jour.
 
 <sup>2</sup> Il peut également, dans le cadre de la surveillance de l’organisation d’accueil familial de jour, procéder à des inspections ponctuelles selon l’article 27g auprès des personnes engagées par celle-ci en qualité d’accueillantes et accueillants en milieu familial.
 
@@ -696,9 +718,14 @@ arrête:
 <sup>1</sup> Les bons de garde sont destinés
 
 - a en principe aux enfants jusqu’à la fin de l’école enfantine,
-- b aux enfants d’âge scolaire ayant terminé l’école enfantine si la prise en charge est assurée par des parents de jour.
+- b aux enfants d’âge scolaire ayant terminé l’école enfantine si la prise en charge est assurée en milieu familial de jour.
 
-<sup>1a</sup> Si des bons de garde sont émis en application de l’alinéa 1, lettre b, la prise en charge d’enfants de plus de douze ans tient lieu de prise en charge par des accueillantes ou accueillants en milieu familial, en dérogation à l’article 27a, alinéa 1; au surplus, les articles 27a et suivants sont applicables.
+<sup>1a</sup> Si une organisation d’accueil familial de jour autorisée à accepter des bons de garde en vertu de l’article 49 LPASoc propose des prestations d’accueil extrafamilial fournies par des accueillantes et accueillants en milieu familial engagés par ses soins, des bons de garde peuvent aussi être octroyés
+
+- a pour la prise en charge d’enfants d’âge scolaire de plus de douze ans, en dérogation à l’article 27a, alinéa 1, et
+- b pour l’accueil régulier d’un enfant pour une durée ou une période inférieure à que ce prévoit l’article 27a, alinéa 3.
+
+<sup>1b</sup> Au surplus, les dispositions sur l’accueil familial de jour s’appliquent à la prise en charge selon l’alinéa 1a.
 
 <sup>2</sup> Les communes de domicile peuvent restreindre le groupe cible en limitant le nombre d’enfants d’âge scolaire.
 
@@ -710,13 +737,13 @@ arrête:
 
 - a qui ont besoin d’une prise en charge extrafamiliale conformément à l’article 36;
 - b qui atteignent le taux d’activité minimal requis visé à l’article 38;
-- c dont le revenu déterminant est inférieur à 160'000 francs et
+- c dont le revenu déterminant est inférieur à 170'000 francs et
 - d dont la commune de domicile dispose de l’autorisation visée à l’article 28.
 
-<sup>2</sup> Sont également considérées comme des personnes détenant l’autorité parentale
+<sup>2</sup> Sont également considérés comme des personnes détenant l’autorité parentale
 
 - a les parents nourriciers qui demandent des bons de garde pour assurer la prise en charge des enfants qui leur sont confiés;
-- b le ou la partenaire de la personne détenant l’autorité parentale dès lors que la demande de bons de garde a été déposée en commun conformément à l’article 61, alinéa 1.
+- b la ou le partenaire de la personne détenant l’autorité parentale dès lors que la demande de bons de garde a été déposée en commun conformément à l’article 61, alinéa 1.
 
 #### Art. 32–33
 
@@ -734,6 +761,8 @@ arrête:
 - d accueillir des enfants présentant des besoins particuliers;
 - e accepter dans la mesure de leurs possibilités les cas d’urgence sociale jusqu’à ce qu’une place soit trouvée dans une structure régulière.
 
+<sup>1a</sup> Les fournisseurs de prestations doivent disposer d’une autorisation d’exploiter conformément aux articles 4 ou 27h.
+
 <sup>2</sup> Les organisations d’accueil familial de jour doivent avoir leur siège dans le canton de Berne et les crèches y avoir leur site.
 
 <sup>3</sup> …
@@ -742,9 +771,9 @@ arrête:
 
 **Procédure d’admission**
 
-<sup>1</sup> L’admission dans le système des bons de garde est accordée aux fournisseurs de prestations par l’OIAS sur demande et sur la base des justificatifs remis.
+<sup>1</sup> L’admission dans le système des bons de garde est accordée aux fournisseurs de prestations par l’OIAS sur demande, pour chaque exploitation séparément et sur la base des justificatifs remis.
 
-<sup>1a</sup> La demande d’admission dans le système des bons de garde et les justificatifs sont à remettre au moyen de l’application mise en ligne par l’OIAS.
+<sup>1a</sup> La demande d’admission dans le système des bons de garde et les justificatifs sont à remettre au moyen de l’application mise en ligne par l’OIAS, pour chaque exploitation séparément.
 
 <sup>2</sup> Les fournisseurs de prestations sont tenus d’annoncer immédiatement à l’OIAS tout changement notable influant les conditions d’admission.
 
@@ -809,9 +838,9 @@ arrête:
 - b un autre enfant dont les personnes détenant l’autorité parentale assument la garde ou
 - c un membre de la famille proche auquel les personnes détenant l’autorité parentale fournissent des soins.
 
-<sup>2</sup> Tant la limitation des possibilités de prise en charge que l’ampleur du besoin de prise en charge extrafamiliale doivent être confirmées et décrites par un ou une médecin titulaire d’une autorisation d’exercer en Suisse, et ce pour une période de validité au plus.
+<sup>2</sup> Tant la limitation des possibilités de prise en charge que l’ampleur du besoin de prise en charge extrafamiliale doivent être confirmées et décrites par une ou un médecin titulaire d’une autorisation d’exercer en Suisse, et ce pour une période de validité au plus.
 
-<sup>3</sup> La limitation des possibilités de prise en charge confirmée par un ou une médecin est imputée au taux d’activité minimal requis visé à l’article 38.
+<sup>3</sup> La limitation des possibilités de prise en charge confirmée par une ou un médecin est imputée au taux d’activité minimal requis visé à l’article 38.
 
 #### Art. 41
 
@@ -829,8 +858,8 @@ arrête:
 
 <sup>1</sup> Les personnes détenant l’autorité parentale bénéficient d’un forfait pour frais d’accueil ou d’encouragement extraordinaires
 
-- a lorsque l’enfant est suivi par un ou une pédagogue en éducation précoce spécialisée exerçant à titre indépendant ou par un service spécialisé qualifié en raison de ses besoins particuliers;
-- b lorsqu’un besoin de prise en charge ou d’encouragement plus élevé est évalué par un service spécialisé qualifié et
+- a lorsque l’enfant est suivi par une ou un pédagogue en éducation précoce spécialisée exerçant à titre indépendant ou par un service spécialisé qualifié en raison de ses besoins particuliers;
+- b lorsqu’un besoin de prise en charge ou d’encouragement plus élevé est évalué par un service spécialisé qualifié, et
 - c lorsqu’il se justifie que le fournisseur de prestations facture un supplément pour ces frais.
 
 <sup>2</sup> Est considéré comme supplément au sens de l’alinéa 1, lettre c tout montant égal ou supérieur aux chiffres de l’article 59, alinéa 1.
@@ -856,7 +885,7 @@ arrête:
 <sup>1</sup> Le taux de prise en charge admissible en raison d’un besoin au sens de l’article 36, alinéa 1, lettres a à e se monte
 
 - a pour deux personnes détenant l’autorité parentale qui ont déposé une demande ensemble et ont la garde commune ou partagée: au taux d’activité effectif, déduction faite de 100 pour cent et avec majoration de 20 pour cent,
-- b pour deux personnes détenant l’autorité parentale ayant déposé une demande ensemble mais n'ayant pas la garde partagée: au taux d’activité effectif, avec majoration de 20 pour cent,
+- b pour deux personnes détenant l’autorité parentale ayant déposé une demande ensemble mais n’ayant pas la garde partagée: au taux d’activité effectif, avec majoration de 20 pour cent,
 - c pour une personne détenant l’autorité parentale qui a déposé une demande seule: au taux d’activité effectif, avec majoration de 20 pour cent.
 
 <sup>2</sup> La commune de domicile peut réduire le supplément de 20 pour cent visé à l’alinéa 1, lettres a, b et c ou y renoncer entièrement.
@@ -890,7 +919,7 @@ arrête:
 
 #### Art. 47
 
-**Taux de prise en charge convenu : généralités**
+**Taux de prise en charge convenu: généralités**
 
 <sup>1</sup> Le taux de prise en charge convenu par mois est également susceptible de représenter une valeur moyenne afin de refléter les fluctuations de la demande de prise en charge.
 
@@ -912,15 +941,15 @@ arrête:
 
 #### Art. 49
 
-**Calcul du taux de prise en charge convenu chez des parents de jour**
+**Calcul du taux de prise en charge convenu en milieu familial de jour**
 
-<sup>1</sup> Le taux de prise en charge convenu chez des parents de jour correspond au nombre d’heures de prise en charge par mois.
+<sup>1</sup> Le taux de prise en charge convenu en milieu familial de jour correspond au nombre d’heures de prise en charge par mois.
 
 <sup>2</sup> Un forfait de deux heures de prise en charge peut être comptabilisé par nuitée proposée dans le cadre du système des bons de garde; les heures effectives de prise en charge intensive requises pendant la nuit peuvent être comptabilisées en sus.
 
 #### Art. 50
 
-**Ecole enfantine**
+**École enfantine**
 
 <sup>1</sup> Le temps passé à l’école enfantine ne doit pas être comptabilisé dans le taux de prise en charge convenu.
 
@@ -945,7 +974,7 @@ arrête:
 
 <sup>2</sup> Lorsque les enfants vivent chez des parents nourriciers, la situation de ces derniers fait foi.
 
-<sup>3</sup> Lorsque les parents nourriciers reçoivent une indemnité, les enfants qui leur sont confiés ne comptent pas comme membres de la famille.
+<sup>3</sup> Lorsque les parents nourriciers reçoivent une indemnité, les enfants qui leur sont confiés ne sont pas comptés dans le calcul de la taille de la famille.
 
 [^52-1]: RSB [661.11](https://www.belex.sites.be.ch/data/661.11/fr)
 
@@ -958,7 +987,7 @@ arrête:
 <sup>2</sup> Par revenu imputable, il est entendu celui des personnes requérantes détenant l’autorité parentale visé à l’alinéa 3, déduction faite
 
 - a des contributions d’entretien versées pour autant qu’elles soient déductibles en vertu de la législation cantonale sur les impôts et
-- b des intérêts de la dette et des frais d’obtention du revenu pris en compte fiscalement.
+- b des intérêts de la dette, des frais d’administration de titres et des frais immobiliers pour autant qu’ils soient déductibles en vertu de la législation cantonale sur les impôts.
 
 <sup>3</sup> Le revenu des personnes requérantes comprend
 
@@ -966,7 +995,7 @@ arrête:
 - b le revenu de remplacement imposable; dans le cas des indépendantes et indépendants, celui-ci est imputé au bénéfice commercial de l’exercice considéré, dans la mesure où il concerne l’activité indépendante,
 - c les contributions d’entretien reçues pour autant qu’elles soient imposables conformément à la législation cantonale sur les impôts,
 - d les revenus bruts de la fortune mobilière et de la fortune immobilière,
-- e le bénéfice commercial imposable figurant dans la déclaration d’impôt (moyenne des trois dernières années),
+- e le bénéfice commercial (moyenne des trois dernières années),
 - f cinq pour cent de la fortune nette et
 - g les autres revenus imposables.
 
@@ -994,7 +1023,7 @@ arrête:
 <sup>2</sup> Pour un taux de prise en charge de 100 pour cent, une subvention mensuelle est accordée, équivalant à
 
 - a 20 jours de prise en charge en crèche,
-- b 220 heures de prise en charge chez des parents de jour.
+- b 220 heures de prise en charge en milieu familial de jour.
 
 <sup>3</sup> Un besoin au sens de l’article 36, alinéa 2 est subventionné au moyen d’un forfait.
 
@@ -1002,22 +1031,22 @@ arrête:
 
 **Subvention maximale**
 
-<sup>1</sup> La subvention maximale suivante est accordée en faveur des enfants de moins de douze mois:
+<sup>1</sup> La subvention maximale suivante est accordée en faveur des enfants de moins de 18 mois:
 
-- a 150 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
-- b 12,75 francs par heure de prise en charge chez des parents de jour.
+- a 157.50 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
+- b 13.40 francs par heure de prise en charge en milieu familial de jour.
 
-<sup>2</sup> La subvention maximale suivante est accordée en faveur des enfants de douze mois ou plus avant leur entrée à l’école enfantine:
+<sup>2</sup> La subvention maximale suivante est accordée en faveur des enfants de 18 mois ou plus avant leur entrée à l’école enfantine:
 
-- a 100 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
-- b 8,50 francs par heure de prise en charge chez des parents de jour.
+- a 105 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
+- b 8.90 francs par heure de prise en charge en milieu familial de jour.
 
 <sup>3</sup> La subvention maximale suivante est accordée en faveur des enfants d’âge scolaire à partir de l’entrée à l’école enfantine:
 
-- a 75 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
-- b 8,50 francs par heure de prise en charge chez des parents de jour.
+- a 78.80 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
+- b 8.90 francs par heure de prise en charge en milieu familial de jour.
 
-<sup>4</sup> La subvention maximale mensuelle est accordée aux personnes détenant l’autorité parentale bénéficiaires de l’aide sociale ainsi qu’à celles dont le revenu déterminant selon l’article 53 n’excède pas 43'000 francs.
+<sup>4</sup> La subvention maximale mensuelle est accordée aux personnes détenant l’autorité parentale bénéficiaires de l’aide sociale ainsi qu’à celles dont le revenu déterminant selon l’article 53 n’excède pas 49'000 francs.
 
 #### Art. 57
 
@@ -1034,7 +1063,7 @@ arrête:
 <sup>1</sup> Les personnes détenant l’autorité parentale assument une contribution minimale
 
 - a de 7 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
-- b de 0,70 franc par heure de prise en charge chez des parents de jour.
+- b de 0.70 franc par heure de prise en charge en milieu familial de jour.
 
 <sup>2</sup> Si les frais pour le taux de prise en charge subventionné ne dépassent pas ou pas entièrement la contribution minimale visée à l’alinéa 1 après déduction du bon, la commune de domicile déduit la différence du montant du bon de garde.
 
@@ -1044,12 +1073,12 @@ arrête:
 
 <sup>1</sup> Le forfait visant à subventionner les frais supplémentaires engendrés par l'accueil ou l’encouragement extraordinaires visés à l’article 36, alinéa 2 s’élève à
 
-- a 50 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
-- b 4,25 francs par heure de prise en charge chez des parents de jour.
+- a 52.50 francs pour 20 pour cent de prise en charge hebdomadaire en crèche,
+- b 4.45 francs par heure de prise en charge en milieu familial de jour.
 
 <sup>2</sup> Le versement du forfait présuppose que le droit à un bon de garde est établi.
 
-<sup>3</sup> Le forfait est versé dès lors que les frais d’accueil ou d’encouragement extraordinaires sont facturés par le fournisseur de prestations et que le besoin est déterminé par un service spécialisé.
+<sup>3</sup> Le forfait est versé dès lors que les frais d’accueil ou d’encouragement extraordinaires sont facturés par le fournisseur de prestations et que le besoin est constaté par un service spécialisé.
 
 ### 2.2.6 Procédure de demande de bons de garde
 
@@ -1069,7 +1098,7 @@ arrête:
 
 **Dispositions complémentaires**
 
-<sup>1</sup> Si l’une des personnes détenant l’autorité parentale vit avec un ou une partenaire n’ayant pas l’autorité parentale sur l’enfant pris en charge, la demande doit être déposée en commun dès lors que ces personnes
+<sup>1</sup> Si l’une des personnes détenant l’autorité parentale vit avec une ou un partenaire n’ayant pas l’autorité parentale sur l’enfant pris en charge, la demande doit être déposée en commun dès lors que ces personnes
 
 - a sont mariées;
 - b sont liées par un partenariat enregistré ou
@@ -1149,7 +1178,7 @@ arrête:
 - e si les personnes détenant l’autorité parentale changent de fournisseur de prestations ou se séparent de l’un d’eux;
 - f si un contrat avec un fournisseur de prestations supplémentaire est conclu;
 - g si l’enfant nécessite un accueil ou un encouragement extraordinaires au sens de l’article 36, alinéa 2;
-- h si la demande est rectifiée sur la base de faits non disponibles au moment de sa remise ou inconnus de la commune de domicile, en particulier compte tenu de l’article 64;
+- h si la demande est rectifiée en raison de faits ignorés au moment de sa remise ou inconnus de la commune de domicile, en particulier compte tenu de l’article 64;
 - i si des prestations d’aide matérielle sont perçues conformément aux prescriptions de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^66-1];
 - k si le revenu imputable des personnes détenant l’autorité parentale percevant un revenu déterminant inférieur à 80'000 francs baisse d’au moins 20 pour cent durant l’année civile en cours par rapport au revenu imputable retenu pour la période de validité du bon.
 
@@ -1161,7 +1190,7 @@ arrête:
 
 #### Art. 67
 
-**Exécution de l’adaptation : généralités**
+**Exécution de l’adaptation: généralités**
 
 <sup>1</sup> Si l’adaptation donne lieu à une augmentation du bon, elle prend en principe effet le mois suivant la remise de l’ensemble des justificatifs requis; le bon peut être adapté plus tôt dans des cas exceptionnels.
 
@@ -1169,7 +1198,7 @@ arrête:
 
 #### Art. 68
 
-**Exécution de l’adaptation : cas particuliers**
+**Exécution de l’adaptation: cas particuliers**
 
 <sup>1</sup> Les adaptations découlant de l’article 66, alinéa 1, lettre h prennent effet pour l’ensemble de la période de validité du bon ou pour la période concernée.
 
@@ -1191,7 +1220,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> La commune de domicile verse aux fournisseurs de prestations le montant des bons accordés, déduction faite d’une éventuelle contribution minimale au sens de l’article 58, alinéa 1 pour le mois en cours, jusqu’au dernier jour de ce mois au plus tard.
+<sup>1</sup> La commune de domicile verse aux fournisseurs de prestations le montant des bons accordés, déduction faite d’une éventuelle contribution minimale au sens de l’article 58, alinéa 1, pour le mois en cours, jusqu’au dernier jour de ce mois au plus tard.
 
 <sup>2</sup> Les fournisseurs de prestations facturent aux personnes détenant l’autorité parentale le solde des frais de prise en charge après déduction du montant versé par la commune de domicile; ils indiquent le montant du bon reçu de la part de la commune de domicile.
 
@@ -1229,9 +1258,9 @@ arrête:
 
 #### Art. 75
 
-<sup>1</sup> Sont admises à la compensation des charges les dépenses encourues par les communes pour les bons de garde émis en vertu du droit cantonal, déduction faite d’une franchise de 20 pour cent.
+<sup>1</sup> Sont admises à la compensation des charges les dépenses encourues par les communes pour les bons de garde versés en vertu du droit cantonal, déduction faite d’une franchise de 20 pour cent.
 
-<sup>2</sup> Aucune franchise n’est prévue pour les dépenses encourues pour les bons de garde émis en faveur des personnes visées à l’article 2, alinéa 1 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^75-1] et à l’article 6 de la loi du 9 décembre 2019 portant introduction de la loi fédérale sur l’asile et de la loi fédérale sur les étrangers et l’intégration (Li LFAE)[^75-2].
+<sup>2</sup> Aucune franchise n’est prévue pour les dépenses encourues pour les bons de garde versés en faveur des personnes visées à l’article 2, alinéa 1 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^75-1] et à l’article 6 de la loi du 9 décembre 2019 portant introduction de la loi fédérale sur l’asile et de la loi fédérale sur les étrangers et l’intégration (Li LFAE)[^75-2].
 
 [^75-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
 [^75-2]: RSB [122.20](https://www.belex.sites.be.ch/data/122.20/fr)
@@ -1250,16 +1279,16 @@ arrête:
 - b une vie indépendante et responsable,
 - c la participation,
 - d la promotion de la santé et la prévention,
-- e les offres culturelles pour enfants et adolescents,
-- f un environnement respectueux des besoins et des intérêts des enfants et des adolescents.
+- e les offres culturelles pour enfants, adolescentes et adolescents,
+- f un environnement respectueux des besoins et des intérêts des enfants, adolescentes et adolescents.
 
 #### Art. 77
 
 **Groupe cible**
 
-<sup>1</sup> L’animation de jeunesse est destinée en premier lieu à tous les enfants et adolescents de six à 20 ans, à des groupes non institutionnalisés d’enfants et d’adolescents ainsi qu’à leur entourage.
+<sup>1</sup> L’animation de jeunesse est destinée en premier lieu à tous les enfants, adolescentes et adolescents de 6 à 20 ans, à des groupes non institutionnalisés d’enfants, d'adolescentes et d’adolescents ainsi qu’à leur entourage.
 
-<sup>2</sup> Les prestations proposées par les communes s’adressent en principe à tous les enfants et adolescents de six à 20 ans visés à l’alinéa 1.
+<sup>2</sup> Les prestations proposées par les communes s’adressent en principe à la tranche d'âge visée à l’alinéa 1.
 
 #### Art. 78
 
@@ -1273,7 +1302,7 @@ arrête:
 - b la formation continue et le perfectionnement des personnes actives dans l’animation de jeunesse,
 - c le développement de l’animation de jeunesse,
 - d le travail de relations publiques,
-- e la mise à disposition de programme suprarégionaux à l’intention des enfants et des adolescents.
+- e la mise à disposition de programme suprarégionaux à l’intention des enfants, adolescentes et adolescents.
 
 #### Art. 79
 
@@ -1300,7 +1329,7 @@ arrête:
 - c les ressources humaines et la composition du personnel;
 - d le contrôle effectif des prestations et des résultats;
 - e les compétences à confier aux personnes exerçant une fonction dirigeante et prenant les décisions stratégiques et opérationnelles, et
-- f la manière d’assurer une participation des enfants et des adolescents selon leur âge.
+- f la manière d’assurer une participation des enfants, adolescentes et adolescents selon leur âge.
 
 <sup>3</sup> Les prestations doivent respecter la neutralité confessionnelle et politique.
 
@@ -1308,7 +1337,7 @@ arrête:
 
 **Autorisations et bassin de population**
 
-<sup>1</sup> L’OIAS délivre des autorisations d’admission à la compensation des charges pour les prestations d’animation de jeunesse à des communes ou à des bassins de population regroupant plusieurs communes et comptant au moins 2000 enfants et adolescents jusqu’à l’âge de 20 ans.
+<sup>1</sup> L’OIAS délivre des autorisations d’admission à la compensation des charges pour les prestations d’animation de jeunesse à des communes ou à des bassins de population regroupant plusieurs communes et comptant au moins 2000 enfants, adolescentes et adolescents jusqu’à l’âge de 20 ans.
 
 <sup>2</sup> Un bassin de population est caractérisé par des prestations pilotées, conçues et fournies de manière uniforme pour l’ensemble de la région.
 
@@ -1328,21 +1357,21 @@ arrête:
 
 #### Art. 83
 
-**Domaine de prestations : animation et accompagnement**
+**Domaine de prestations: animation et accompagnement**
 
-<sup>1</sup> Le domaine de prestations Animation et accompagnement s’adresse aux enfants et adolescents et recouvre l’organisation de loisirs actifs visant un apprentissage social et diversifié.
+<sup>1</sup> Le domaine de prestations Animation et accompagnement s’adresse aux enfants, adolescentes et adolescents et recouvre l’organisation de loisirs actifs visant un apprentissage social et diversifié.
 
 #### Art. 84
 
-**Domaine de prestations : information et conseil**
+**Domaine de prestations: information et conseil**
 
-<sup>1</sup> Le domaine de prestations Information et conseil s’adresse aux enfants et adolescents ainsi qu’à leurs personnes de référence et comprend la transmission de connaissances et le soutien par le biais de conseils.
+<sup>1</sup> Le domaine de prestations Information et conseil s’adresse aux enfants, adolescentes et adolescents ainsi qu’à leurs personnes de référence et comprend la transmission de connaissances et le soutien par le biais de conseils.
 
 #### Art. 85
 
-**Domaine de prestations : promotion et sensibilisation**
+**Domaine de prestations: promotion et sensibilisation**
 
-<sup>1</sup> Le domaine de prestations Promotion et sensibilisation concerne en premier lieu les institutions, les autorités et les collectivités publiques, et vise à promouvoir un environnement et des structures adaptés aux besoins et aux intérêts des enfants et des adolescents.
+<sup>1</sup> Le domaine de prestations Promotion et sensibilisation concerne en premier lieu les institutions, les autorités et les collectivités publiques, et vise à promouvoir un environnement et des structures adaptés aux besoins et aux intérêts des enfants, adolescentes et des adolescents.
 
 #### Art. 86
 
@@ -1356,7 +1385,7 @@ arrête:
 <sup>2</sup> Sont considérées comme spécialisées en particulier
 
 - a les personnes ayant achevé une formation dans le domaine du travail social, notamment en animation socioculturelle, en travail social ou en éducation sociale dans une université, une haute école spécialisée ou une école supérieure;
-- b les personnes ayant achevé à l’étranger une formation dans le domaine du travail social, notamment en animation socioculturelle, en travail social ou en éducation sociale reconnue équivalente par le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI);
+- b les personnes ayant achevé à l’étranger une formation dans le domaine du travail social, notamment en animation socioculturelle, en travail social ou en éducation sociale reconnue équivalente par le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI);
 - c toute autre personne pour autant qu’elle dispose d’une expérience professionnelle pertinente et qu’elle ait acquis les compétences professionnelles et méthodiques requises en participant à des mesures de formation continue ou de perfectionnement.
 
 #### Art. 87
@@ -1369,7 +1398,7 @@ arrête:
 
 **Sites et locaux**
 
-<sup>1</sup> Les sites et les locaux où sont proposées les prestations d’animation de jeunesse doivent être adaptés aux besoins des enfants et des adolescents.
+<sup>1</sup> Les sites et les locaux où sont proposées les prestations d’animation de jeunesse doivent être adaptés aux besoins des enfants, adolescentes et adolescents.
 
 #### Art. 89
 
@@ -1404,7 +1433,7 @@ arrête:
 
 <sup>1</sup> Les dépenses imputables maximales se composent
 
-- a d’un montant de base de 86,25 francs multiplié par le nombre d’enfants et d’adolescents jusqu’à l’âge de 20 ans appartenant au bassin de population considéré et
+- a d’un montant de base de 86.25 francs multiplié par le nombre d’enfants, d'adolescentes et d’adolescents jusqu’à l’âge de 20 ans appartenant au bassin de population considéré et
 - b d’un montant supplémentaire calculé en fonction de l’indice de charges sociales.
 
 <sup>2</sup> L’indice de charges sociales sert à répartir une somme composée de montants supplémentaires définie par la DSSI par voie d’ordonnance de Direction.
@@ -1417,7 +1446,7 @@ arrête:
 
 <sup>1</sup> La DSSI peut adapter le montant de base selon l’article 91, alinéa 1, lettre a avec effet au début d’une année à hauteur de l’augmentation des traitements arrêtée par le Conseil-exécutif pour le personnel cantonal.
 
-<sup>2</sup> Le nombre d’enfants et d’adolescents jusqu’à l’âge de 20 ans fixé dans la décision d’admission à la compensation des charges ainsi que le montant supplémentaire par commune sont valables pour toute la période d’autorisation.
+<sup>2</sup> Le nombre d’enfants, d'adolescentes et d’adolescents jusqu’à l’âge de 20 ans fixé dans la décision d’admission à la compensation des charges ainsi que le montant supplémentaire par commune sont valables pour toute la période d’autorisation.
 
 #### Art. 93
 
@@ -1449,13 +1478,13 @@ arrête:
 - a mandater des tiers disposant d’un contrat de prestations conformément à l’alinéa 1 pour mener des programmes de visite à domicile sur leur territoire;
 - b mener des programmes de visite à domicile dans le cadre d’un contrat de prestations conformément à l’alinéa 1.
 
-## 5 Conseil et information à l'intention des enfants et adolescents en situation de handicap ou faisant face à des conditions psychosociales difficiles et de leurs familles
+## 5 Conseil et information à l’intention des enfants, adolescentes et adolescents en situation de handicap ou faisant face à des conditions psychosociales difficiles, et de leurs familles
 
 #### Art. 96
 
 **Principe**
 
-<sup>1</sup> Les prestations de conseil et d’information sont proposées à titre préventif tant aux enfants et aux adolescents en situation de handicap ou faisant face à des conditions psychosociales particulièrement difficiles qu’à leurs familles; elles sont d’accès facile, facultatives et ne relèvent pas de l’offre de l’école obligatoire.
+<sup>1</sup> Les prestations de conseil et d’information sont proposées à titre préventif tant aux enfants, adolescentes et adolescents en situation de handicap ou faisant face à des conditions psychosociales particulièrement difficiles qu’à leurs familles; elles sont d’accès facile, facultatives et ne relèvent pas de l’offre de l’école obligatoire.
 
 <sup>2</sup> Les prestations sont mises en place par l’OIAS.
 
@@ -1463,7 +1492,7 @@ arrête:
 
 **Groupe cible et subsidiarité**
 
-<sup>1</sup> Les prestations de conseil et d’information s’adressent aux enfants et aux adolescents en situation de handicap jusqu’à l’âge de 18 ans et à leurs familles.
+<sup>1</sup> Les prestations de conseil et d’information s’adressent aux enfants, adolescentes et adolescents en situation de handicap jusqu’à l’âge de 18 ans et à leurs familles.
 
 <sup>2</sup> Ces prestations sont subsidiaires à celles de l’école obligatoire, de la Confédération ou d’autres unités d’imputation.
 
@@ -1491,11 +1520,11 @@ arrête:
 <sup>1</sup> Les mesures pédago-thérapeutiques sont en principe accordées en cas de besoin
 
 - a aux enfants avant l’entrée à l’école enfantine,
-- b aux adolescents ne fréquentant plus l’école obligatoire et jusqu’à l’âge de 20 ans.
+- b aux adolescentes et adolescents ne fréquentant plus l’école obligatoire et jusqu’à l’âge de 20 ans.
 
 <sup>2</sup> Des subventions pour des prestations d’éducation précoce spécialisée peuvent être versées en faveur des enfants au plus jusqu’au 30 septembre suivant l’entrée en première année primaire.
 
-<sup>3</sup> Des subventions pour les mesures favorisant la communication mutuelle sont également versées en cas de besoin aux proches d’enfants et d’adolescents en situation de handicap sensoriel.
+<sup>3</sup> Des subventions pour les mesures favorisant la communication mutuelle sont également versées en cas de besoin aux proches d’enfants, d'adolescentes et d’adolescents en situation de handicap sensoriel.
 
 #### Art. 100
 
@@ -1504,7 +1533,7 @@ arrête:
 <sup>1</sup> Un besoin est reconnu
 
 - a aux enfants n’ayant pas encore commencé l’école enfantine et dont le développement est limité ou menacé ou qui ne pourront pas suivre l’enseignement dispensé à l’école obligatoire sans soutien spécifique;
-- b aux adolescents sortis de l’école obligatoire qui, pour réussir leur formation scolaire postobligatoire ou s’insérer dans la vie professionnelle, nécessitent un soutien logopédique, une thérapie psychomotrice ou des cours de langue parlée complétée ou de langue des signes.
+- b aux adolescentes et adolescents ne fréquentant plus l’école obligatoire et qui, pour réussir leur formation scolaire postobligatoire ou s’insérer dans la vie professionnelle, nécessitent un soutien logopédique, une thérapie psychomotrice ou des cours de langue parlée complétée ou de langue des signes.
 
 <sup>2</sup> Pour les jeunes ayant dépassé l’âge de l’école obligatoire, un lien matériel et temporel étroit avec la mesure pédago-thérapeutique exécutée durant la scolarité obligatoire est en principe requis.
 
@@ -1522,7 +1551,7 @@ arrête:
 
 #### Art. 102
 
-**Etendue du droit aux mesures**
+**Étendue du droit aux mesures**
 
 <sup>1</sup> L’étendue du droit aux mesures pédago-thérapeutiques préscolaires et postscolaires est défini en fonction des besoins particuliers en matière de développement et de formation et dépend notamment
 
@@ -1552,7 +1581,7 @@ arrête:
 
 **Relations intercantonales**
 
-<sup>1</sup> La prise en charge des frais des mesures pédago-thérapeutiques pour les enfants et adolescents scolarisés dans une institution située dans un autre canton est régie par la Convention intercantonale du 20 septembre 2002 relative aux institutions sociales (CIIS)[^105-1].
+<sup>1</sup> La prise en charge des frais des mesures pédago-thérapeutiques pour les enfants, adolescentes et adolescents scolarisés dans une institution située dans un autre canton est régie par la Convention intercantonale du 20 septembre 2002 relative aux institutions sociales (CIIS)[^105-1].
 
 <sup>2</sup> Si l’autre canton n’a pas adhéré à la CIIS, le financement est assuré sur la base d’un accord bilatéral.
 
@@ -1570,7 +1599,7 @@ arrête:
 
 #### Art. 107
 
-**Education précoce spécialisée**
+**Éducation précoce spécialisée**
 
 <sup>1</sup> Présentent des besoins en éducation précoce spécialisée au sens de la présente ordonnance les enfants dont le développement est retardé, limité ou menacé.
 
@@ -1582,7 +1611,7 @@ arrête:
 
 **Logopédie**
 
-<sup>1</sup> Présentent des besoins en logopédie au sens de la présente ordonnance les enfants et adolescents souffrant d’un trouble grave
+<sup>1</sup> Présentent des besoins en logopédie au sens de la présente ordonnance les enfants, adolescentes et adolescents souffrant d’un trouble grave
 
 - a du langage oral ou écrit,
 - b de la parole,
@@ -1591,7 +1620,7 @@ arrête:
 - e de la voix ou
 - f de la déglutition.
 
-<sup>2</sup> Présentent également des besoins les enfants et adolescents souffrant concomitamment de divers troubles visés à l’alinéa 1 à un degré léger ou moyen.
+<sup>2</sup> Présentent également des besoins les enfants, adolescentes et adolescents souffrant concomitamment de divers troubles visés à l’alinéa 1 à un degré léger ou moyen.
 
 <sup>3</sup> L’existence d’un besoin est déterminée par les procédures de diagnostic actuelles, en tenant en particulier compte
 
@@ -1604,7 +1633,7 @@ arrête:
 
 **Psychomotricité**
 
-<sup>1</sup> Présentent des besoins en psychomotricité au sens de la présente ordonnance les enfants et adolescents souffrant d’un trouble grave
+<sup>1</sup> Présentent des besoins en psychomotricité au sens de la présente ordonnance les enfants, adolescentes et adolescents souffrant d’un trouble grave
 
 - a de la perception,
 - b des sentiments,
@@ -1613,7 +1642,7 @@ arrête:
 - e du comportement ou
 - f de l’expression corporelle.
 
-<sup>2</sup> Présentent également des besoins les enfants et adolescents souffrant concomitamment de divers troubles visés à l’alinéa 1 à un degré léger ou moyen.
+<sup>2</sup> Présentent également des besoins les enfants, adolescentes et adolescents souffrant concomitamment de divers troubles visés à l’alinéa 1 à un degré léger ou moyen.
 
 <sup>3</sup> L’existence d’un besoin est déterminée par les procédures de diagnostic actuelles, en tenant en particulier compte
 
@@ -1626,7 +1655,7 @@ arrête:
 
 **Soutien à l’apprentissage d’une forme de communication en cas de handicap sensoriel**
 
-<sup>1</sup> Le soutien à l’apprentissage d’une forme de communication en cas de handicap sensoriel comprend la formation en langue parlée complétée, en langue des signes et en alphabet de Lorm pour les enfants et adolescents ainsi que pour leurs proches.
+<sup>1</sup> Le soutien à l’apprentissage d’une forme de communication en cas de handicap sensoriel comprend la formation en langue parlée complétée, en langue des signes et en alphabet de Lorm pour les enfants, adolescentes et adolescents ainsi que pour leurs proches.
 
 ### 6.3 Financement
 
@@ -1637,7 +1666,7 @@ arrête:
 <sup>1</sup> Les mesures pédago-thérapeutiques sont en principe financées
 
 - a par contrat de prestations ou
-- b selon une base tarifaire par des versements directs aux fournisseurs de prestations pour autant que la mesure ait été accordée à son ou sa bénéficiaire.
+- b selon une base tarifaire par des versements directs aux fournisseurs de prestations pour autant que la mesure ait été accordée à sa ou son bénéficiaire.
 
 #### Art. 112
 
@@ -1669,7 +1698,7 @@ arrête:
 
 <sup>1</sup> Sur demande, le service compétent octroie des subventions en faveur des enfants pour les frais de transport découlant des mesures pédago-thérapeutiques approuvées en vertu de la présente ordonnance.
 
-<sup>2</sup> Il subventionne les frais de transport des adolescents ne fréquentant plus l’école obligatoire et qui, jusqu’à l’âge de 20 ans,
+<sup>2</sup> Il subventionne les frais de transport des adolescentes et adolescents ne fréquentant plus l’école obligatoire et qui, jusqu’à l’âge de 20 ans,
 
 - a bénéficient de mesures pédago-thérapeutiques accordées en vertu de la présente ordonnance et
 - b ne peuvent se déplacer par leurs propres moyens, du fait de leur handicap, entre leur domicile et le lieu où les prestations sont fournies.
@@ -1688,9 +1717,9 @@ arrête:
 
 **Autres frais de transport**
 
-<sup>1</sup> Les frais de transport d’un accompagnateur ou d’une accompagnatrice indispensable sont remboursés pour les trajets au cours desquels la personne bénéficiaire des prestations est présente.
+<sup>1</sup> Les frais de transport d’une accompagnatrice ou d’un accompagnateur indispensable sont remboursés pour les trajets au cours desquels la personne bénéficiaire des prestations est présente.
 
-<sup>2</sup> Les frais de transport du ou de la pédagogue en éducation précoce spécialisée sont indemnisés lorsque les prestations doivent être dispensées dans l’environnement de l’enfant.
+<sup>2</sup> Les frais de transport de la ou du pédagogue en éducation précoce spécialisée sont indemnisés lorsque les prestations doivent être dispensées dans l’environnement de l’enfant.
 
 #### Art. 118
 
@@ -1733,13 +1762,13 @@ arrête:
 
 #### Art. 122
 
-**Evaluation**
+**Évaluation**
 
 <sup>1</sup> La demande doit en principe être assortie d’un rapport d’un organe d’évaluation approprié.
 
 <sup>2</sup> Le service compétent veille à l’indépendance de l’organe d’évaluation des besoins par rapport à celui fournissant les prestations.
 
-<sup>3</sup> Les rapports des médecins, des thérapeutes, des services spécialisés et des autres professionnels consultés doivent être joints à la demande, dans la mesure où ils sont en lien avec cette dernière.
+<sup>3</sup> Les rapports des médecins, des thérapeutes, des services spécialisés et des autres professionnelles consultées ou des autres professionnels consultés doivent être joints à la demande, dans la mesure où ils sont en lien avec cette dernière.
 
 <sup>4</sup> La DSSI peut définir par voie d’ordonnance de Direction
 
@@ -1780,11 +1809,11 @@ arrête:
 
 <sup>2</sup> La procédure de retrait d’une autorisation accordée selon l’ancien droit pour une durée indéterminée est régie par l’article 27.
 
-<sup>3</sup> L’octroi d’une autorisation selon le nouveau droit est exempté d'émolument pour les crèches en activité avant l’entrée en vigueur de la présente ordonnance.
+<sup>3</sup> L’octroi d’une autorisation selon le nouveau droit est exempté d’émolument pour les crèches en activité avant l’entrée en vigueur de la présente ordonnance.
 
 #### Art. 127
 
-**Obligation de s’annoncer pour les parents de jour**
+**Obligation de s’annoncer dans le cadre de l’accueil familial de jour**
 
 <sup>1</sup> Pendant la période transitoire de deux ans visée à l’article 139, alinéa 1 LPASoc, l’autorité au sens de l’article 12, alinéa 1 OPE est l’autorité de protection de l’enfant et de l’adulte.
 
