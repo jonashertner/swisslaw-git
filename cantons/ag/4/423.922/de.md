@@ -3,29 +3,27 @@ canton: AG
 number: "423.922"
 title: Verordnung über den Instrumentalunterricht an den Mittelschulen
 language: de
-version: 2024-07-01
-valid_until: 2026-07-31
-version_adopted: 2024-03-13
+version: 2026-08-01
+version_adopted: 2026-05-13
 adopted: 2017-05-03
 in_force: 2017-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.922"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3735/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3994/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Instrumentalunterricht an den Mittelschulen
 
-Vom 03.05.2017 (Stand 01.07.2024)
+Vom 03.05.2017 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 33a Abs. 4 und 5 des Schulgesetzes vom 17. März 1981[^ingress-1] sowie die §§ 7 Abs. 1 und 50 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-2],
+gestützt auf die §§ 9 Abs. 2 und 21 Abs. 1 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
-[^ingress-2]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
+[^ingress-1]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1.
 
@@ -88,9 +86,9 @@ beschliesst:
   - 2\. für die Schülerinnen und Schüler mit Schwerpunktfach Musik auf einem Zweitinstrument,
   - 3\. …
 - b) an der Fachmittelschule für die Schülerinnen und Schüler, die den Instrumentalunterricht ausserhalb des Grundlagenfachs Musik besuchen,
-- c) an der Handels- und an der Informatikmittelschule für alle Schülerinnen und Schüler.
+- c) an der Wirtschafts- und der Informatikmittelschule für alle Schülerinnen und Schüler.
 
-<sup>2</sup> Im 2. Semester der Abschlussklasse des Gymnasiums und der Fachmittelschule, der Abschlussklasse der schulischen Ausbildung der Handels- und der Informatikmittelschule sowie in den Fachmaturitätslehrgängen wird das Freifach Instrumentalunterricht nicht angeboten.
+<sup>2</sup> Im 2. Semester der Abschlussklasse des Gymnasiums und der Fachmittelschule, der Abschlussklasse der schulischen Ausbildung der Wirtschafts- und der Informatikmittelschule sowie in den Fachmaturitätslehrgängen wird das Freifach Instrumentalunterricht nicht angeboten.
 
 <sup>3</sup> Im Rahmen des Freifachunterrichts kann eine Schülerin oder ein Schüler eine halbe Lektion Instrumentalunterricht pro Woche belegen. Es besteht keine Wahl hinsichtlich der Lehrperson, die den Instrumentalunterricht erteilt.
 
@@ -98,7 +96,7 @@ beschliesst:
 
 **Anmeldung**
 
-<sup>1</sup> Die Anmeldung für das Freifach Instrumentalunterricht erfolgt schriftlich und für ein ganzes Schuljahr. Sie gilt für ein halbes Schuljahr in der Abschlussklasse des Gymnasiums und der Fachmittelschule sowie in der Abschlussklasse der schulischen Ausbildung der Handels- und der Informatikmittelschule. Sie ist verbindlich.
+<sup>1</sup> Die Anmeldung für das Freifach Instrumentalunterricht erfolgt schriftlich und für ein ganzes Schuljahr. Sie gilt für ein halbes Schuljahr in der Abschlussklasse des Gymnasiums und der Fachmittelschule sowie in der Abschlussklasse der schulischen Ausbildung der Wirtschafts- und der Informatikmittelschule. Sie ist verbindlich.
 
 #### § 9
 
@@ -116,11 +114,7 @@ beschliesst:
 
 #### § 11a
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Für Schülerinnen und Schüler, die ihre Ausbildung vor dem Schuljahr 2018/19 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
-
-<sup>2</sup> Für Schülerinnen und Schüler, die ihre Ausbildung an der Fachmittelschule im Bereich Erziehung und Gestaltung im Schuljahr 2017/18 begonnen haben, gelten die Bestimmungen des bisherigen Rechts, sofern sie dies wünschen.
+**…**
 
 #### § 12
 
