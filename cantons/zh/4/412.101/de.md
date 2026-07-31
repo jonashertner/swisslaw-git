@@ -4,11 +4,10 @@ number: "412.101"
 title: Volksschulverordnung (VSV)
 short: VSV
 language: de
-version: "2023-08-01"
-nachtrag: "121"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "134"
 adopted: 2006-06-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_101-2006_06_28-2006_08_21-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_101-2006_06_28-2006_08_21-134.html"
 text: pdf
 ---
 
@@ -65,7 +64,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **1**
 
-- 1\. 7. 23 - 121
+1.10. 26 - 134
 
 [^3-1]: Eingefügt durch RRB vom 5. Oktober 2011 (OS 66, 895; ABl 2011, 2886). In Kraft seit 1. Januar 2012.
 [^3-2]: LS 412.100.
@@ -121,7 +120,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 <sup>6</sup> Der Bildungsrat kann Ausnahmen von den Regelungen gemäss Abs. 2, 3 und 5 bewilligen.[^6-2]
 
-[^6-1]: Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 557; ABl 2022-10-14). In Kraft seit 1. August 2023. 1. 7. 23 - 121 27
+[^6-1]: Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 557; ABl 2022-10-14). In Kraft seit 1. August 2023.
 [^6-2]: Fassung gemäss RRB vom 3. Dezember 2008 (OS 63, 629; ABl 2008, 2292). In Kraft seit 1. Januar 2009.
 
 ### B. Schulort und Unentgeltlichkeit
@@ -160,11 +159,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **3**
 
-- 1\. 7. 23 - 121
-
-- b. die Zuteilung zu einer andern Klasse am bisherigen Schulort nicht möglich oder ebenfalls unzumutbar ist und
-
-- c. nicht ausgeschlossen erscheint, dass sich die Situation durch die Umteilung bessern wird.
+1.10. 26 - 134 b. die Zuteilung zu einer andern Klasse am bisherigen Schulort nicht möglich oder ebenfalls unzumutbar ist und c. nicht ausgeschlossen erscheint, dass sich die Situation durch die Umteilung bessern wird.
 
 <sup>2</sup> Die Zuteilung einer Schülerin oder eines Schülers in eine andere Gemeinde erfordert die Zustimmung der aufnehmenden Gemeinde. Die aufnehmende Gemeinde legt das Schulgeld fest.
 
@@ -240,7 +235,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **5**
 
-- 1\. 7. 23 - 121
+1.10. 26 - 134
 
 <sup>3</sup> Die Schulärztinnen und Schulärzte sind zusammen mit den Gemeinden für die Verhütung und Bekämpfung übertragbarer Krankheiten an Schulen zuständig. Sie sorgen für die notwendigen epidemiologischen Abklärungen und wirken bei der Durchführung von Massnahmen mit.
 
@@ -327,11 +322,9 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **7**
 
-- 1\. 7. 23 - 121 § 20. <sup>1</sup> Beträgt der Anteil fremdsprachiger Schülerinnen und Schüler in einer Schule mehr als 40%, legt die Gemeinde die zusätzlichen Angebote zur Sicherung der Qualität in multikulturellen Schulen (QUIMS) fest. Diese bestehen insbesondere aus folgenden Massnahmen:[^19-1]
+1.10. 26 - 134 § 20. <sup>1</sup> Beträgt der Anteil fremdsprachiger Schülerinnen und Schüler in einer Schule mehr als 40%, legt die Gemeinde die zusätzlichen Angebote zur Sicherung der Qualität in multikulturellen Schulen (QUIMS) fest. Diese bestehen insbesondere aus folgenden Massnahmen:[^19-1] a. Sprachförderung, insbesondere Förderung der Deutschkenntnisse,
 
 **Zusätzliche Angebote, QUIMS (§ 25 VSG)**
-
-- a. Sprachförderung, insbesondere Förderung der Deutschkenntnisse,
 
 - b. individuelle Förderung und Beurteilung, insbesondere im Hinblick auf den Übertritt in die nächste Stufe,
 
@@ -412,7 +405,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **9**
 
-- 1\. 7. 23 - 121 § 28. <sup>1</sup> Bleibt eine Schülerin oder ein Schüler wegen Krankheit oder aus anderen unvorhersehbaren Gründen dem Unterricht ganz oder teilweise fern, benachrichtigen die Eltern unverzüglich die Schule.
+1.10. 26 - 134 § 28. <sup>1</sup> Bleibt eine Schülerin oder ein Schüler wegen Krankheit oder aus anderen unvorhersehbaren Gründen dem Unterricht ganz oder teilweise fern, benachrichtigen die Eltern unverzüglich die Schule.
 
 **Absenzen (§ 28 VSG)**
 
@@ -506,7 +499,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **11**
 
-- 1\. 7. 23 - 121
+1.10. 26 - 134
 
 <sup>2</sup> Für private Tagesstrukturen und von Gemeinden geführte Tagesstrukturen, die nicht Teil einer Tagesschule sind, gilt der Betreuungsschlüssel gemäss § 30 e VSG nur, wenn eine Betreuung im Umfang von § 30 c Abs. 2 und 3 VSG angeboten wird. Für die Berechnung des Umfangs werden nur die Angebote nach den Blockzeiten berücksichtigt.
 
@@ -598,9 +591,7 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **13**
 
-- 1\. 7. 23 - 121
-
-- d. die Zusammenarbeit mit den Eltern und der Schule,
+1.10. 26 - 134 d. die Zusammenarbeit mit den Eltern und der Schule,
 
 - e. allfällige Massnahmen gemäss § 32 d.
 
@@ -618,11 +609,13 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 **d. Personal**
 
-§ 32 j.[^hCTagesstrukturen-1] <sup>1</sup> Die Trägerschaft belegt, dass a. ausreichend Personal, insbesondere mit den erforderlichen Ausbildungen gemäss § 32 f, angestellt ist,
+§ 32 j.[^hCTagesstrukturen-1] <sup>1</sup> Die Trägerschaft belegt, dass[^hCTagesstrukturen-2] a. ausreichend Personal, insbesondere mit den erforderlichen Ausbildungen gemäss § 32 f, angestellt ist,
 
-- b. vor der Einstellung der Mitarbeitenden und danach alle vier Jahre ein aktueller Strafregisterauszug eingeholt wurde,
+- b. vor der Einstellung von Mitarbeitenden, die ihren Wohnsitz im Ausland oder seit weniger als fünf Jahren in der Schweiz haben, ein aktueller Auszug aus dem Strafregister ihres Wohnorts- oder Herkunftsstaates oder ein gleichwertiges Dokument eingeholt wurde,
 
-- c. bei Kinderhorten mit mehr als 22 Plätzen ein ausreichendes Pensum für die pädagogische und personelle Leitung zur Verfügung steht.
+- c. bei Mitarbeitenden mit Wohnsitz im Ausland alle zwei Jahre ein aktueller Auszug aus dem Strafregister ihres Wohnortsstaates oder ein gleichwertiges Dokument eingeholt wurde,
+
+- d. bei Kinderhorten mit mehr als 22 Plätzen ein ausreichendes Pensum für die pädagogische und personelle Leitung zur Verfügung steht.
 
 <sup>2</sup> Die Leitung des Kinderhortes verfügt über eine Ausbildung gemäss § 32 f und über die erforderlichen Fähigkeiten in der Personalführung.
 
@@ -655,11 +648,12 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 <sup>3</sup> Für den Betrieb des Kinderhortes besteht eine angemessene Versicherung.
 
 [^hCTagesstrukturen-1]: Eingefügt durch RRB vom 12. Juni 2019 (OS 74, 343; ABl 2019-06-21). In Kraft seit 1. August 2019.
-[^hCTagesstrukturen-2]: Fassung gemäss RRB vom 12. Juni 2019 (OS 74, 343; ABl 2019-06-21). In Kraft seit 1. August 2019.
+[^hCTagesstrukturen-2]: Fassung gemäss RRB vom 15. April 2026 (OS 81, 331; ABl 2026-04-30). In Kraft seit 1. August 2026. 1.10. 26 - 134 27
+[^hCTagesstrukturen-3]: Fassung gemäss RRB vom 12. Juni 2019 (OS 74, 343; ABl 2019-06-21). In Kraft seit 1. August 2019.
 
 ### D. Beurteilung und Promotion
 
-[^hCTagesstrukturen-2]
+[^hCTagesstrukturen-3]
 
 #### § 33
 
@@ -681,11 +675,11 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 
 <sup>3</sup> Die Schulpflege hört die Beteiligten an. Sie kann Fachpersonen beiziehen und weitere Abklärungen vornehmen oder anordnen. Prüfungen sind nicht zulässig.
 
-#### § 35
+**15**
+
+1.10. 26 - 134 § 35. <sup>1</sup> Auf der Kindergartenstufe erfolgt keine Promotion.
 
 **Promotion auf der Kindergartenstufe**
-
-<sup>1</sup> Auf der Kindergartenstufe erfolgt keine Promotion.
 
 <sup>2</sup> Der Übertritt in die Primarstufe nach zwei Jahren erfolgt stillschweigend. Für den Übertritt in die Primarstufe nach einem Jahr oder den Entscheid, dass eine Schülerin oder ein Schüler ein drittes Jahr im Kindergarten bleibt, gelten die §§ 33 und 34. Lernkontrollen werden nicht durchgeführt.
 
@@ -694,10 +688,6 @@ Diese Verordnung regelt den Vollzug des Volksschulgesetzes vom 7. Februar 2005 (
 **Promotion in die nächste Klasse**
 
 <sup>1</sup> Die Schülerinnen und Schüler, die auf der Primar- oder der Sekundarstufe dem Unterricht zu folgen vermögen, besuchen im folgenden Schuljahr die nächste Klasse. Die Promotion erfolgt in diesen Fällen stillschweigend.
-
-**15**
-
-- 1\. 7. 23 - 121
 
 <sup>2</sup> Erscheint die Promotion gefährdet, werden die Eltern frühzeitig, spätestens nach Ablauf des ersten Schulhalbjahres, benachrichtigt.
 
@@ -729,11 +719,13 @@ Ist aufgrund der Leistung und des Entwicklungsstandes einer Schülerin oder eine
 
 <sup>4</sup> Die Zuteilung zu einer der Abteilungen erfolgt aufgrund einer Gesamtbeurteilung. Werden Anforderungsstufen geführt, erfolgt die Zuteilung zu einer der Anforderungsstufen nur aufgrund einer Leistungsbeurteilung im betreffenden Fach.
 
+[^39-1]: Fassung gemäss RRB vom 15. April 2026 (OS 81, 331; ABl 2026-04-30). In Kraft seit 1. August 2026. 1.10. 26 - 134 27
+
 #### § 40
 
 **Wechsel innerhalb der Sekundarstufe**
 
-<sup>1</sup> Ein Wechsel in eine andere Abteilung oder in eine andere Anforderungsstufe kann in der ersten Klasse auf Ende November, Mitte April und Anfang Schuljahr, in den übrigen Klassen auf Ende Januar und Anfang Schuljahr erfolgen.
+<sup>1</sup> Ein Wechsel in eine andere Abteilung oder in eine andere Anforderungsstufe kann auf Ende Januar und Anfang Schuljahr erfolgen, in der ersten Klasse auch auf Ende November.[^39-1]
 
 <sup>2</sup> Für einen Wechsel in eine andere Abteilung gelten die Verfahren gemäss § 33 Abs. 2 und 3 sowie § 34 Abs. 2 und 3 sinngemäss.
 
@@ -763,6 +755,10 @@ Ist aufgrund der Leistung und des Entwicklungsstandes einer Schülerin oder eine
 
 § 43. <sup>1</sup> Zur Umsetzung des Schulprogramms legt die Schulkonferenz weitere konkrete Aktivitäten und Projekte in einer Jahresplanung und in einzelnen Umsetzungsbeschlüssen fest.
 
+**17**
+
+1.10. 26 - 134
+
 <sup>2</sup> Die Jahresplanung und die Umsetzungsbeschlüsse können neben der Planung organisatorische oder inhaltliche Bestimmungen enthalten und sind für die Lehrpersonen verbindlich. Methodische Bestimmungen sind nur zulässig und verbindlich, soweit sie zum Erreichen der Ziele des Schulprogramms notwendig sind.
 
 <sup>3</sup> Bei der Festlegung von Anzahl und Art der Umsetzungsmassnahmen ist den Lehrpersonen genügender Freiraum zur individuellen Unterrichtsgestaltung zu belassen.
@@ -773,9 +769,7 @@ Ist aufgrund der Leistung und des Entwicklungsstandes einer Schülerin oder eine
 
 <sup>2</sup> Die Schulpflege kann die Vorbereitung ihrer Geschäfte einer Schulleitung oder mehreren Schulleitungen gemeinsam, der Schulverwaltung, der Leitung Bildung oder einer anderen von ihr angestellten Person übertragen.[^42-1]
 
-**17**
-
-- 1\. 7. 23 - 121 § 45.[^42-3]
+§ 45.[^42-3]
 
 **Schulkonferenz (§ 45 VSG)**
 
@@ -843,19 +837,17 @@ Ist aufgrund der Leistung und des Entwicklungsstandes einer Schülerin oder eine
 
 <sup>2</sup> Die Schule und die Schulpflege können zum Beurteilungsbericht zuhanden der Fachstelle schriftlich Stellung nehmen. Die Stellungnahmen sind Bestandteil des Beurteilungsberichts.
 
-**d. Wesentliche Qualitätsmängel**
+**19**
 
-§ 52.[^h4AbschnittQualit-1] Stellt die Fachstelle wesentliche Qualitätsmängel fest, informiert die Schulpflege die Fachstelle innert vier Monaten nach Erhalt des Beurteilungsberichts über die ergriffenen Massnahmen.
+1.10. 26 - 134 § 52.[^h4AbschnittQualit-1] Stellt die Fachstelle wesentliche Qualitätsmängel fest, informiert die Schulpflege die Fachstelle innert vier Monaten nach Erhalt des Beurteilungsberichts über die ergriffenen Massnahmen.
+
+**d. Wesentliche Qualitätsmängel**
 
 **e. Zusammenarbeit mit der Fachstelle**
 
 § 53.[^h4AbschnittQualit-1] <sup>1</sup> Lehrpersonen, Schulleitung und Schulpflege arbeiten mit der Fachstelle für Schulbeurteilung zusammen. Sie halten sich insbesondere für Gespräche zur Verfügung und gewähren dem Beurteilungsteam die für die Beurteilung erforderliche Akteneinsicht.
 
 <sup>2</sup> Die Schulleitung organisiert den für die Beurteilung erforderlichen Einbezug der Eltern, Schülerinnen und Schülern und weiterer Personen. Sie wird dabei von der Fachstelle unterstützt.[^h4AbschnittQualit-5]
-
-**19**
-
-- 1\. 7. 23 - 121
 
 [^h4AbschnittQualit-1]: Inkrafttreten: 20. August 2007.
 [^h4AbschnittQualit-2]: LS 410.1.
@@ -931,23 +923,23 @@ Die Haltung der Lehrpersonen gegenüber den Schülerinnen und Schülern ist durc
 
 <sup>2</sup> Werden Schülerinnen und Schüler einer neuen Klasse zugeteilt, wird die Zuteilung den Eltern vor den Sommerferien mitgeteilt.
 
-#### § 60
+**21**
+
+1.10. 26 - 134 § 60. <sup>1</sup> Die Lehrpersonen informieren die Eltern der Schülerinnen und Schüler ihrer Klasse regelmässig über die Anlässe und Ereignisse in der Schule und über organisatorische Belange.
 
 **b. Ereignisse in den Schulen**
-
-<sup>1</sup> Die Lehrpersonen informieren die Eltern der Schülerinnen und Schüler ihrer Klasse regelmässig über die Anlässe und Ereignisse in der Schule und über organisatorische Belange.
 
 <sup>2</sup> Aussergewöhnliche Ereignisse werden sofort mitgeteilt.
 
 <sup>3</sup> Die erste Kontaktnahme erfolgt unmittelbar vor oder nach Übernahme einer neuen Klasse, wenn möglich in Form einer Elternzusammenkunft.
 
-**21**
-
-- 1\. 7. 23 - 121 § 61. Die Lehrpersonen und die Eltern einer Schülerin oder eines Schülers informieren sich gegenseitig bei auftretenden Schwierigkeiten, aussergewöhnlichen Ereignissen oder aussergewöhnlicher Entwicklung von Leistung und Verhalten, insbesondere wenn eine wesentlich schlechtere Qualifikation im Zeugnis zu erwarten ist.
-
-#### § 62
+#### § 61
 
 **c. Im Einzelfall**
+
+Die Lehrpersonen und die Eltern einer Schülerin oder eines Schülers informieren sich gegenseitig bei auftretenden Schwierigkeiten, aussergewöhnlichen Ereignissen oder aussergewöhnlicher Entwicklung von Leistung und Verhalten, insbesondere wenn eine wesentlich schlechtere Qualifikation im Zeugnis zu erwarten ist.
+
+#### § 62
 
 **Individuelle Mitwirkung (§ 56 VSG) a. Fälle**
 
@@ -1023,15 +1015,13 @@ Stehen mitwirkungspflichtige Beschlüsse oder wichtige Informationen an oder kö
 
 <sup>3</sup> Sind die Bewilligungsvoraussetzungen nicht mehr gegeben, kann die Bewilligung auf Ende eines Schuljahres, in wichtigen Fällen jederzeit, entzogen werden.
 
-**d. Offenlegungspflicht**
-
-§ 70.[^h3TeilPrivatschul-2] <sup>1</sup> Die Privatschulen geben dem Volksschulamt bekannt:
-
-- a. die Namen der Personen, welche Eigentums- oder Mitwirkungsrechte in der Trägerschaft ausüben, insbesondere Teilhaber von Gesellschaften sowie Mitglieder von Vereinen und Genossenschaften,
-
 **23**
 
-- 1\. 7. 23 - 121
+1.10. 26 - 134 § 70.[^h3TeilPrivatschul-2] <sup>1</sup> Die Privatschulen geben dem Volksschulamt bekannt:
+
+**d. Offenlegungspflicht**
+
+- a. die Namen der Personen, welche Eigentums- oder Mitwirkungsrechte in der Trägerschaft ausüben, insbesondere Teilhaber von Gesellschaften sowie Mitglieder von Vereinen und Genossenschaften,
 
 - b. die Namen der Personen, die in der Schule pädagogische oder administrative Leitungsfunktionen ausüben,
 
@@ -1114,6 +1104,10 @@ Diese Verordnung tritt wie folgt in Kraft:
 
 §§ 4, 15, 17, 18, 65, 76.
 
+**25**
+
+1.10. 26 - 134
+
 ### Übergangsbestimmung zur Änderung vom 4. März 2015 (OS 70, 117)
 
 <sup>1</sup> Die Gemeinden setzen die Bestimmungen über die schulpsychologischen Dienste bis 31. Juli 2017 um.
@@ -1121,10 +1115,6 @@ Diese Verordnung tritt wie folgt in Kraft:
 <sup>2</sup> Die Gemeinden bezeichnen bis spätestens 31. Juli 2017 eine Schulärztin oder einen Schularzt.
 
 <sup>3</sup> Die Gemeinde trägt die Kosten der Untersuchung durch eine Privatärztin oder einen Privatarzt gemäss § 17 c Abs. 3, bis sie eine Schulärztin oder einen Schularzt bezeichnet hat.
-
-**25**
-
-- 1\. 7. 23 - 121
 
 ### Übergangsbestimmung zur Änderung vom 12. Juni 2019 (OS 74, 343)
 
