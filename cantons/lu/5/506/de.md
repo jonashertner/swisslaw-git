@@ -3,20 +3,20 @@ canton: LU
 number: "506"
 title: Reglement für die Maturitätsprüfungen im Kanton Luzern
 language: de
-version: 2024-08-01
-valid_until: 2026-07-31
-version_adopted: 2024-05-14
+version: 2026-08-01
+valid_until: 2027-07-31
+version_adopted: 2026-03-31
 adopted: 2008-04-15
 in_force: 2008-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506"
-pdf: "https://srl.lu.ch/api/de/versions/4224/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4820/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für die Maturitätsprüfungen im Kanton Luzern
 
-vom 15.04.2008 (Stand 01.08.2024)
+vom 15.04.2008 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -44,10 +44,17 @@ beschliesst:
 
 **Zulassung zur Prüfung**
 
-<sup>1</sup> Voraussetzungen für die Zulassung zu den Maturitätsprüfungen sind
+<sup>1</sup> Voraussetzungen für die Zulassung zu den Maturitätsprüfungen an den Gymnasien sind
 
-- a. an den Gymnasien der Besuch der betreffenden Schule mindestens während des ganzen der Maturitätsprüfung vorangehenden Schuljahres,
-- b. an der Maturitätsschule für Erwachsene der ordentliche Besuch der Schule im Kanton Luzern seit Beginn des dritten Semesters.
+- a. der Besuch der betreffenden Schule mindestens während des ganzen der Maturitätsprüfung vorangehenden Schuljahres, und
+- b. …
+- c. in allen für die Maturität relevanten Fächern das Vorliegen der Zeugnisnoten des letzten Schuljahres, in dem das Fach unterrichtet wurde.
+
+<sup>2</sup> Voraussetzung für die Zulassung zu den Maturitätsprüfungen an der Maturitätsschule für Erwachsene ist der ordentliche Besuch der Schule im Kanton Luzern seit Beginn des dritten Semesters. Vorbehalten bleibt § 33a Absatz 4 der Verordnung zum Gesetz über die Gymnasialbildung vom 19. Juni 2001[^2-1].
+
+<sup>3</sup> Die Nichtzulassung gilt als nicht bestandener Versuch, die Maturität zu erlangen.
+
+[^2-1]: SRL Nr. [502](https://srl.lu.ch/data/502/de)
 
 ## 2 Organe
 
@@ -55,13 +62,22 @@ beschliesst:
 
 **Maturitätskommission**
 
-<sup>1</sup> Der Regierungsrat wählt eine kantonale Maturitätskommission mit neun Mitgliedern und bestimmt deren Präsidentin oder deren Präsidenten. Die Schulleitungen der Maturitätsschulen sind mit drei Mitgliedern vertreten.
+<sup>1</sup> Der Regierungsrat wählt eine kantonale Maturitätskommission mit neun Mitgliedern und bestimmt deren Präsidentin oder deren Präsidenten. Die Schulleitungen der Maturitätsschulen sind mit drei Mitgliedern vertreten, die weiteren Mitglieder sind Fachpersonen insbesondere aus der Hochschulbildung.
 
 <sup>2</sup> Die Maturitätskommission koordiniert und beaufsichtigt die Maturitätsprüfung, setzt sich mit Fragen im Zusammenhang mit den Maturitätsschulen auseinander und übt gegenüber dem Bildungs- und Kulturdepartement eine Beratungsfunktion aus. Sie kann bei Bedarf Arbeitsgruppen und Expertengruppen einsetzen.
 
 <sup>3</sup> Sie erlässt Weisungen über die Organisation der Prüfungen, die Prüfungstermine, die Dauer der Prüfungen, die Prüfungsaufgaben, die Maturaarbeit, die Abschlussprüfung im Freifach und die Tätigkeit der Expertinnen und Experten sowie der Examinatorinnen und Examinatoren.
 
 <sup>4</sup> Sie trifft alle Entscheide im Bereich der Maturitätsprüfung, für welche nicht eine andere Behörde zuständig ist.
+
+#### § 3a
+
+**Schulleitung**
+
+<sup>1</sup> Die Schulleitung stellt die ordnungsgemässe Durchführung der Maturitätsprüfungen sicher. Sie entscheidet zudem über
+
+- a. die Nichtzulassung zu den Maturitätsprüfungen von Lernenden, welche die Voraussetzungen nach § 2 nicht erfüllen,
+- b. Massnahmen zum Ausgleich behinderungsbedingter Nachteile.
 
 #### § 4
 
@@ -214,9 +230,9 @@ beschliesst:
 
 **Erfahrungsnoten**
 
-<sup>1</sup> An den Gymnasien wird die Erfahrungsnote in allen Maturitätsfächern aus dem Durchschnitt der Zeugnisnoten der letzten beiden Semester, in denen das Fach unterrichtet wurde, ermittelt.
+<sup>1</sup> Die Erfahrungsnote entspricht in allen Maturitätsfächern der Zeugnisnote des letzten Schuljahres, in dem das Fach unterrichtet wurde.
 
-<sup>2</sup> Bei Schulen mit Jahrespromotion besteht die Erfahrungsnote aus der Zeugnisnote des letzten Schuljahres, in dem das Fach unterrichtet wurde.
+<sup>2</sup> …
 
 #### § 19
 
@@ -289,7 +305,7 @@ beschliesst:
 
 **Verhinderung**
 
-<sup>1</sup> Wer eine oder mehrere Maturitätsprüfungen aus wichtigen Gründen nicht antreten oder zu Ende führen kann, hat die Schulleitung zu informieren und ein Arztzeugnis oder andere Dokumente, welche die Verhinderung belegen, nachzureichen. Die Schulleitung kann bei begründeter Absenz besondere Nachprüfungen anordnen.
+<sup>1</sup> Wer eine oder mehrere Maturitätsprüfungen aus wichtigen Gründen nicht antreten oder zu Ende führen kann, hat die Schulleitung zu informieren und ein Arztzeugnis oder andere Dokumente, welche die Verhinderung belegen, nachzureichen. Die Schulleitung kann bei begründeter Absenz besondere Nachprüfungen anordnen, die in der Regel bis spätestens am 30. September desselben Jahres absolviert sein müssen.
 
 <sup>2</sup> Ein wichtiger Grund liegt insbesondere vor, wenn mit einem Arztzeugnis nachgewiesen wird, dass die Prüfungen aus gesundheitlichen Gründen nicht angetreten oder zu Ende geführt werden konnten.
 
@@ -336,11 +352,7 @@ beschliesst:
 
 #### § 28
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Lernende, die sich im Schuljahr 2008/09 in der letzten oder vorletzten Klasse eines Gymnasiums befinden, legen die Maturitätsprüfungen nach den Bestimmungen des Reglementes für die Maturitätsprüfungen im Kanton Luzern vom 27. Mai 1999[^28-1] ab.
-
-[^28-1]: G 1999 158 (SRL Nr. 506)
+**…**
 
 #### § 29
 
