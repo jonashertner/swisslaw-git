@@ -4,13 +4,12 @@ number: IV B/1/4
 title: Verordnung über die Organisation der kantonalen Schulen
 short: "Schulorganisationsverordnung, SOV"
 language: de
-version: 2019-08-01
-valid_until: 2026-07-31
-version_adopted: 2018-10-24
+version: 2026-08-01
+version_adopted: 2026-02-25
 adopted: 2018-10-24
 in_force: 2019-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/2113/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2632/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2113/pdf_file"
 
 (Schulorganisationsverordnung, SOV)
 
-Vom 24.10.2018 (Stand 01.08.2019)
+Vom 24.10.2018 (Stand 01.08.2026)
 
 Der Landrat,
 
-gestützt auf Artikel 5 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung[^ingress-1] und Artikel 32 Absatz 2 des Bildungsgesetzes[^ingress-2]
+gestützt auf Artikel 5 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung[^ingress-1] sowie Artikel 32 Absatz 2, Artikel 45 Absatz 5 und Artikel 94 Absatz 2 des Bildungsgesetzes[^ingress-2],
 
 erlässt:
 
@@ -44,17 +43,17 @@ erlässt:
 
 **Schulleitung**
 
-<sup>1</sup> Die Kantonsschule, die Gewerblich-industrielle Berufsfachschule sowie das Bildungszentrum Gesundheit und Soziales verfügen über je eine Schulleitung.
+<sup>1</sup> Die Kantonsschule, die Gewerblich-industrielle Berufsfachschule sowie das Bildungszentrum Gesundheit und Soziales verfügen über eine Schulleitung.
 
 #### Art. 3
 
 **Aufgaben**
 
-<sup>1</sup> Die Schulleitung ist zuständig für die operative und die pädagogische Führung der Schule.
+<sup>1</sup> Die Schulleitung ist zuständig für die operative und die pädagogische Führung der Schule und kann durch Prorektorate unterstützt werden.
 
 <sup>2</sup> Sie vertritt die Schule nach aussen.
 
-<sup>3</sup> Sie ist die vorgesetzte Instanz für das Personal.
+<sup>3</sup> Sie ist die vorgesetzte Instanz für die Prorektorate, die Lehrpersonen und das weitere Personal.
 
 <sup>4</sup> Der Regierungsrat kann den Schulleitungen weitere Aufgaben zuordnen.
 
@@ -62,7 +61,7 @@ erlässt:
 
 **Wahlbehörde**
 
-<sup>1</sup> Der Regierungsrat wählt die Mitglieder der Schulleitung.
+<sup>1</sup> Der Regierungsrat wählt die Schulleitung und die Prorektorate.
 
 ## 3. Aufsicht
 
@@ -72,7 +71,7 @@ erlässt:
 
 <sup>1</sup> Die Kantonsschule steht unter der Aufsicht des Kantonsschulrates.
 
-<sup>2</sup> Die Gewerblich-industrielle Berufsfachschule sowie das Bildungszentrum Gesundheit und Soziales werden von Kommissionen beaufsichtigt.
+<sup>2</sup> Die Gewerblich-industrielle Berufsfachschule sowie das Bildungszentrum Gesundheit und Soziales werden von einer Kommission beaufsichtigt.
 
 #### Art. 6
 
@@ -80,7 +79,7 @@ erlässt:
 
 <sup>1</sup> Der Regierungsrat wählt die Mitglieder der Aufsichtsgremien.
 
-<sup>2</sup> Eine von den Lehrpersonen gewählte Vertretung sowie eine Vertretung der Schulleitung wohnen den Sitzungen der Aufsichtsgremien mit beratender Stimme bei.
+<sup>2</sup> Eine von den Lehrpersonen gewählte Vertretung sowie die Schulleitung wohnen den Sitzungen der Aufsichtsgremien mit beratender Stimme bei.
 
 #### Art. 7
 
@@ -92,7 +91,7 @@ erlässt:
 
 **Regelungskompetenzen**
 
-<sup>1</sup> Die Aufsichtsgremien erlassen für ihre Schulen die nötigen Regelungen, namentlich betreffend Aufnahme, Verbleib und Abschluss von Bildungsgängen soweit dafür nicht eine andere Instanz zuständig ist.
+<sup>1</sup> Die Aufsichtsgremien erlassen für ihre Schulen die nötigen Regelungen, namentlich betreffend Aufnahme, Verbleib und Abschluss von Bildungsgängen, den Erlass weitergehender Massnahmen gemäss Artikel 45 Absatz 2 des Bildungsgesetzes sowie über die Kosten gemäss Artikel 11 Absätze 3 und 4 des Bildungsgesetzes, soweit dafür nicht eine andere Instanz zuständig ist.
 
 #### Art. 9
 
@@ -111,5 +110,25 @@ erlässt:
 **Ausschüsse oder Subgremien**
 
 <sup>1</sup> Die Aufsichtsgremien können Ausschüsse oder Subgremien einsetzen.
+
+## 4. Disziplinarmassnahmen nachobligatorischer Bereich
+
+#### Art. 12
+
+**Bussen**
+
+<sup>1</sup> Für Lernende nach Abschluss der obligatorischen Schulpflicht, die schuldhaft zu Beanstandungen Anlass geben, können die Aufsichtsgremien in ihren Disziplinarordnungen in Ergänzung zu Artikel 45 des Bildungsgesetzes Geldbussen von maximal 500 Franken vorsehen.
+
+## 5. Altersentlastung
+
+#### Art. 13
+
+**Altersentlastung**
+
+<sup>1</sup> Lehrpersonen haben bei gleicher Besoldung nach erfülltem 60. Altersjahr Anspruch auf zwei Lektionen Entlastung je Woche, wenn ihr Pensum mindestens zwei Drittel eines Vollzeitpensums umfasst.
+
+<sup>2</sup> Bei einem Pensum von mindestens einem Drittel des Vollzeitpensums wird nach erfülltem 60. Altersjahr mit einer Lektion entlastet.
+
+<sup>3</sup> Lehrpersonen, die im Genusse der Altersentlastung stehen, sollen keine Überstunden leisten. Die Entlastungslektionen sollen bezogen und nicht ausbezahlt werden.
 
 SBE 2019 26
