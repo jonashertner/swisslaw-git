@@ -4,35 +4,43 @@ number: "413.111"
 title: Mittel- und Berufsschullehrpersonenverordnung (MBVO)
 short: MBVO
 language: de
-version: "2026-01-01"
-nachtrag: "132"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "133"
+valid_until: 2026-09-01
 adopted: 1999-04-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_111-1999_04_07-1999_08_23-132.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_111-1999_04_07-1999_08_23-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Mittelschul- und Berufsschullehrerverordnung (MBVO)<sup>14</sup>
+# Mittel- und Berufsschullehrpersonenverordnung (MBVO)<sup>20</sup>
 
-(vom 7. April 1999)<sup>1</sup>
+(vom 7. April 1999)[^t-1]
 
 Der Regierungsrat beschliesst:
 
+[^t-1]: OS 55, 318.
+
 ### I. Allgemeine Bestimmungen
+
+[^hIAllgemeineBestim-1]: LS 177.10.
 
 #### § 1
 
 **Geltungsbereich**
 
-Diese Verordnung regelt den Vollzug des Personalgesetzes<sup>2</sup> für die Lehrpersonen der kantonalen Mittel- und Berufsschulen sowie der Lehrwerkstätten.
+Diese Verordnung regelt den Vollzug des Personalgesetzes[^hIAllgemeineBestim-1] für die Lehrpersonen der kantonalen Mittel- und Berufsschulen sowie der Lehrwerkstätten.
+
+[^1-1]: LS 177.11.
+[^1-2]: LS 177.111. 1. 7. 26 - 133 5
+[^1-3]: LS 177.10.
 
 #### § 2
 
 **Anwendbarkeit des allgemeinen Personalrechts**
 
-Soweit diese Verordnung nichts anderes bestimmt, gelten die Personalverordnung<sup>3</sup> und die Vollzugsverordnung<sup>4</sup> zum Personalgesetz<sup>2</sup>.
+Soweit diese Verordnung nichts anderes bestimmt, gelten die Personalverordnung[^1-1] und die Vollzugsverordnung[^1-2] zum Personalgesetz[^1-3].
 
 ### II. Arbeitsverhältnis
 
@@ -58,7 +66,7 @@ Soweit diese Verordnung nichts anderes bestimmt, gelten die Personalverordnung<s
 
 **1**
 
-- 1\. 4. 26 - 132 § 4. <sup>1</sup> Mittel- und Berufsschullehrpersonen mbA übernehmen im Rahmen der Klassen- und Schulführung sowie der Schulverwaltung zusätzliche Aufgaben, wobei in der Regel ein Beschäftigungsgrad von mindestens 50% vorausgesetzt wird.
+- 1\. 7. 26 - 133 § 4. <sup>1</sup> Mittel- und Berufsschullehrpersonen mbA übernehmen im Rahmen der Klassen- und Schulführung sowie der Schulverwaltung zusätzliche Aufgaben, wobei in der Regel ein Beschäftigungsgrad von mindestens 50% vorausgesetzt wird.
 
 **Besondere Aufgaben**
 
@@ -106,11 +114,13 @@ Der Regierungsrat regelt das Arbeitsverhältnis der Lehrpersonen an Hauswirtscha
 
 Nach dem Erwerb eines Diploms erfolgt auf Beginn des folgenden Monats die Umteilung in die entsprechende Lohnklasse.
 
+[^8-1]: OS 55, 318.
+
 #### § 9
 
 **Berechnung des Lohnes**
 
-<sup>1</sup> Die Berechnung des Lohnanspruchs beruht auf 40 Schulwochen. Eine Schulwoche entspricht <sup>1</sup>/<sup>40</sup>, ein Semester <sup>20</sup>/<sup>40</sup> des Jahresgrundlohns.
+<sup>1</sup> Die Berechnung des Lohnanspruchs beruht auf 40 Schulwochen. Eine Schulwoche entspricht[^8-1]/<sup>40</sup>, ein Semester <sup>20</sup>/<sup>40</sup> des Jahresgrundlohns.
 
 <sup>2</sup> Für Lehrpersonen, die an verschiedenen Schultypen unterrichten, richtet sich der Lohn für die jeweiligen Lektionen nach dem entsprechenden Schultyp. Für Lehrpersonen, die in verschiedenen Fächern unterrichten, richtet sich der Lohn nach den entsprechenden Lektionenverpflichtungen.
 
@@ -124,31 +134,35 @@ Nach dem Erwerb eines Diploms erfolgt auf Beginn des folgenden Monats die Umteil
 
 <sup>2</sup> Vikariate werden je erteilte Einzellektion wie folgt vergütet:
 
-- a. an Mittelschulen:
+- a. an Mittelschulen:<sup>20</sup>
 
-Für Fächer mit einer Verpflichtung von 22 oder 23 Wochenlektionen, <sup>1</sup>/900 des Jahresgrundlohns:
+- 1\. für Fächer mit einer Verpflichtung von 23 Wochenlektionen,
+
+<sup>1</sup> /920 des Jahresgrundlohns:
 
 - ohne Fachabschluss: Lohnklasse 17, Stufe 3,
 
-- mit Fachabschluss: Lohnklasse 20, Stufe 3, Für Fächer mit einer Verpflichtung von 25 oder 26 Wochenlektionen, <sup>1</sup>/1020 des Jahresgrundlohns:
+- mit Fachabschluss: Lohnklasse 20, Stufe 3,
+
+- 2\. für Fächer mit einer Verpflichtung von 25 oder 26 Wochenlektionen,[^10-1]/1020 des Jahresgrundlohns:
 
 - ohne Fachabschluss: Lohnklasse 17, Stufe 3,
 
 - mit Fachabschluss: Lohnklasse 20, Stufe 3.
 
-Die Vergütung für Kurzlektionen wird mit dem Faktor 0.91 umgerechnet.
-
-**3**
-
-- 1\. 4. 26 - 132
-
-- b. an Berufsschulen <sup>1</sup>/1020 des Jahresgrundlohns:
+- b. an Berufsschulen[^10-1]/1020 des Jahresgrundlohns:
 
 - ohne Fachabschluss: Lohnklasse 17, Stufe 3
 
 - mit Fachabschluss: an Berufsmittelschulen Lohnklasse 20, Stufe 3 an Berufsschulen Lohnklasse 19, Stufe 3
 
 § 11.<sup>11</sup>
+
+**3**
+
+- 1\. 7. 26 - 133
+
+[^10-1]: OS 55, 318.
 
 ### IV. Zulagen
 
@@ -174,7 +188,9 @@ Die Vergütung für Kurzlektionen wird mit dem Faktor 0.91 umgerechnet.
 
 § 14.<sup>17</sup> <sup>1</sup> Für Unterricht an beruflichen Weiterbildungskursen, der ausserhalb der normalen Arbeitszeit stattfindet, kann das Mittelschul- und Berufsbildungsamt eine Zulage von höchstens 15% der Grundbesoldung festsetzen.
 
-<sup>2</sup> Für Unterricht an Technikerschulen sowie an Vorbereitungskursen auf Berufsprüfungen und höhere Fachprüfungen oder an gleichwertigen Weiterbildungslehrgängen kann das Mittelschul- und Berufsbildungsamt eine Zulage zur Grundbesoldung festsetzen. Die Besoldung einschliesslich Zulage darf <sup>1</sup>/880 der Ansätze der Klasse 22 gemäss Anhang zur Verordnung nicht überschreiten.
+<sup>2</sup> Für Unterricht an Technikerschulen sowie an Vorbereitungskursen auf Berufsprüfungen und höhere Fachprüfungen oder an gleichwertigen Weiterbildungslehrgängen kann das Mittelschul- und Berufsbildungsamt eine Zulage zur Grundbesoldung festsetzen. Die Besoldung einschliesslich Zulage darf[^13-1]/880 der Ansätze der Klasse 22 gemäss Anhang zur Verordnung nicht überschreiten.
+
+[^13-1]: OS 55, 318.
 
 ### V. Übergangs- und Schlussbestimmungen
 
@@ -210,10 +226,6 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 
 <sup>3</sup> Für die Landwirtschaftlichen Schulen bleibt die Berufsschullehrerverordnung vom 1. Oktober 1986 in Kraft.
 
-**5**
-
-- 1\. 4. 26 - 132
-
 <sup>4</sup> Der Regierungsrat bestimmt den Zeitpunkt der Aufhebung der folgenden Erlasse:
 
 - a. Mittelschullehrerverordnung vom 7. Dezember 1988<sup>5</sup>,
@@ -221,14 +233,6 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 - b. Berufsschullehrerverordnung vom 1. Oktober 1986<sup>7</sup>,
 
 - c. Mittelschullehrerreglement vom 13. September 1989<sup>6</sup>.
-
-<sup>1</sup> OS 55, 318.
-
-<sup>2</sup> LS 177.10.
-
-<sup>3</sup> LS 177.11.
-
-<sup>4</sup> LS 177.111.
 
 <sup>5</sup> 30. September 2002 (OS 57, 236).
 
@@ -238,13 +242,9 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 
 <sup>8</sup> Genehmigt am 7. Juni 1999.
 
-**985). In Kraft**
+<sup>9</sup> Eingefügt durch RRB vom 5. Mai 2010 (OS 65, 886; ABl 2010, 985). In Kraft seit 1. Januar 2011.
 
-<sup>9</sup> Eingefügt durch RRB vom 5. Mai 2010 (OS 65, 886; ABl 2010, seit 1. Januar 2011.
-
-**985). In Kraft**
-
-<sup>10</sup> Fassung gemäss RRB vom 5. Mai 2010 (OS 65, 886; ABl 2010, seit 1. Januar 2011.
+<sup>10</sup> Fassung gemäss RRB vom 5. Mai 2010 (OS 65, 886; ABl 2010, 985). In Kraft seit 1. Januar 2011.
 
 <sup>11</sup> Aufgehoben durch RRB vom 5. Mai 2010 (OS 65, 886; ABl 2010, 985). In Kraft seit 1. Januar 2011.
 
@@ -264,11 +264,15 @@ Die Vollendung der für die Dienstaltersgeschenke der semesterweise ernannten Le
 
 <sup>19</sup> Fassung gemäss RRB vom 24. September 2025 (OS 81, 9; ABl 2025-10-03). In Kraft seit 1. Januar 2026.
 
-### Anhang zur Mittelschul- und Berufsschullehrerverordnung<sup>14</sup>
+<sup>20</sup> Fassung gemäss RRB vom 25. August 2021 (OS 77, 101; ABl 2021-09-03). In Kraft seit 1. August 2026.
+
+### Anhang zur Mittel- und Berufsschullehrpersonenverordnung (MBVO)<sup>20</sup>
 
 A. Einreihungsplan (§ 6 a)<sup>10</sup>
 
-Folgende Lohnklassen der Personalverordnung (PVO)<sup>3</sup> ergeben die Basis für den Jahresgrundlohn von Lehrpersonen am Mittelschulen, Berufsschulen und Berufsmittelschulen:
+Folgende Lohnklassen der Personalverordnung (PVO)[^hAnhangzurMittelu-1] ergeben die Basis für den Jahresgrundlohn von Lehrpersonen am Mittelschulen, Berufsschulen und Berufsmittelschulen:
+
+[^hAnhangzurMittelu-1]: LS 177.11.
 
 ### I. Lehrpersonen gemäss § 3 Abs. 1 lit. a und b
 
@@ -292,7 +296,7 @@ Schulmusik I und Zeichnen I
 
 **Klasse 19 b.**
 
-- 1\. 4. 26 - 132 an Berufsschulen
+- 1\. 7. 26 - 133 an Berufsschulen
 
 **b.**
 
@@ -332,11 +336,11 @@ Schulmusik I und Zeichnen I
 
 **c.**
 
-an Berufsschulen für Lehrpersonen mit Fachabschluss 1. für die Fächer Textverarbeitung und Bürokommunikation 2. Instruktoren und Instruktorinnen für die praktische Ausbildung an Lehrwerkstätten 3. Turnlehrer I an Mittelschulen 1. Lehrpersonen mit Lehrdiplom in einem Instrument oder in Sologesang an Berufsschulen 1. für berufskundlichen und allgemein bildenden Unterricht mit Diplom des Schweiz. Instituts für Berufspädagogik (SIBP) oder gleichwertiger Ausbildung 2. mit Diplom der Universität Zürich für das Höhere Lehramt im allgemein bildenden Unterricht der Berufsschulen 3. mit dem Fähigkeitsausweis der Universität Zürich als Sekundarlehrer sprachlich-historischer bzw. mathematisch-naturwissenschaftlicher Richtung für Sprach- bzw. Mathematikunterricht 4. mit dem Eidgenössischen Turn- und Sportlehrerdiplom II 5. Leitung von Lehrwerkstätten an Mittelschulen 1. mit Hochschulabschluss und Diplom für das Höhere Lehramt (DHL) 2. mit Eidgenössischem Turn- und Sportlehrerdiplom II, Schulmusik II oder Zeichnen II an Berufsmittelschulen und kaufmännischen Berufsschulen 1. für Fächer, bei denen ein abgeschlossenes Hochschulstudium mit Diplom für das Höhere Lehramt Voraussetzung bildet 2. mit Eidgenössischem Turn- und Sportlehrerdiplom II, für Lehrpersonen, die zusätzlich für ein Fach mit abgeschlossenem Hochschulstudium und Diplom für das Höhere Lehramt ausgebildet sind und dieses unterrichten Schulleitungsmitglieder
-
 **III.11**
 
-**1. 4. 26 - 132**
+an Berufsschulen für Lehrpersonen mit Fachabschluss 1. für die Fächer Textverarbeitung und Bürokommunikation 2. Instruktoresn und Instruktorinnen für die praktische Ausbildung an Lehrwerkstätten 3. Turnlehrer I an Mittelschulen 1. Lehrpersonen mit Lehrdiplom in einem Instrument oder in Sologesang an Berufsschulen 1. für berufskundlichen und allgemein bildenden Unterricht mit Diplom des Schweiz. Instituts für Berufspädagogik (SIBP) oder gleichwertiger Ausbildung 2. mit Diplom der Universität Zürich für das Höhere Lehramt im allgemein bildenden Unterricht der Berufsschulen 3. mit dem Fähigkeitsausweis der Universität Zürich als Sekundarlehrer sprachlich-historischer bzw. mathematisch-naturwissenschaftlicher Richtung für Sprach- bzw. Mathematikunterricht 4. mit dem Eidgenössischen Turn- und Sportlehrerdiplom II 5. Leitung von Lehrwerkstätten an Mittelschulen 1. mit Hochschulabschluss und Diplom für das Höhere Lehramt (DHL) 2. mit Eidgenössischem Turn- und Sportlehrerdiplom II, Schulmusik II oder Zeichnen II an Berufsmittelschulen und kaufmännischen Berufsschulen 1. für Fächer, bei denen ein abgeschlossenes Hochschulstudium mit Diplom für das Höhere Lehramt Voraussetzung bildet 2. mit Eidgenössischem Turn- und Sportlehrerdiplom II, für Lehrpersonen, die zusätzlich für ein Fach mit abgeschlossenem Hochschulstudium und Diplom für das Höhere Lehramt ausgebildet sind und dieses unterrichten Schulleitungsmitglieder
+
+**1. 7. 26 - 133**
 
 **2. Maximum**
 
