@@ -1,33 +1,33 @@
 ---
 canton: AG
 number: "423.152"
-title: Verordnung über die Promotion und die Maturität an den Mittelschulen
-short: Maturitätsverordnung
+title: Verordnung über die Promotion und die Maturität am Gymnasium
+short: V Gymnasium
 language: de
-version: 2023-08-01
-valid_until: 2026-07-31
-version_adopted: 2023-05-17
+version: 2026-08-01
+valid_until: 2027-07-31
+version_adopted: 2026-05-13
 adopted: 1999-06-23
 in_force: 1999-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.152"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3723/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4012/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Promotion und die Maturität an den Mittelschulen
+# Verordnung über die Promotion und die Maturität am Gymnasium
 
-(Maturitätsverordnung)
+(V Gymnasium)
 
-Vom 23.06.1999 (Stand 01.08.2023)
+Vom 23.06.1999 (Stand 01.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 12 und 50 des Dekrets über die Mittelschulen (Mittelschuldekret) vom 20. Oktober 2009[^ingress-1],
+gestützt auf die §§ 10 Abs. 2, 21 Abs. 1 lit. b, d, i, j und k sowie 38 Abs. 3 des Mittelschulgesetzes (MSG) vom 23. September 2025[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
+[^ingress-1]: SAR [423.100](https://gesetzessammlungen.ag.ch/data/423.100/de)
 
 ## 1. Allgemeines
 
@@ -35,7 +35,13 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, die Maturitätsprüfung und die Erlangung der Maturität an den aargauischen Mittelschulen.
+<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, die Maturitätsprüfung, die Erlangung der Maturität an den aargauischen Mittelschulen und den Übertritt von der Fachmittelschule an das Gymnasium.
+
+#### § 1a
+
+**Stundentafeln und Lehrpläne**
+
+<sup>1</sup> Die Stundentafeln und die Lehrpläne sind in den Anhängen geregelt.
 
 #### § 2
 
@@ -57,13 +63,13 @@ beschliesst:
 
 **Nachteilsausgleich**
 
-<sup>1</sup> Schülerinnen und Schüler mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich.
+<sup>1</sup> Schülerinnen und Schüler mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich. Hierbei müssen die allgemeinen Bildungsziele und Kompetenzen gemäss Lehrplan ohne Reduktion der Leistungsanforderungen erreicht werden.
 
 <sup>2</sup> Die betreffenden Nachweise sind rechtzeitig vor Inanspruchnahme des Nachteilsausgleichs im Hinblick auf Promotionsentscheide und Prüfungen zu erbringen.
 
-<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet im Rahmen von § 2 die Schulleitung.
+<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet die Schulleitung nach Vorgaben des Departements Bildung, Kultur und Sport (BKS).
 
-## 2. Promotionsentscheide und Zwischenbeurteilung
+## 2. Promotionsentscheide, Zwischenbeurteilung und Übertritt
 
 #### § 4
 
@@ -71,7 +77,7 @@ beschliesst:
 
 <sup>1</sup> Promotionsentscheide dienen der Zuordnung der Schülerinnen und Schüler in diejenigen Klassen, die ihren Fähigkeiten entsprechen, sowie der Entlassung derjenigen Schülerinnen und Schüler, die den schulischen Anforderungen nicht zu genügen vermögen.
 
-<sup>2</sup> Promotionsentscheide sind die definitive Aufnahme nach der Probezeit, die Beförderung, die Nichtbeförderung und die Entlassung aus der Schule. Sie basieren auf den Beurteilungen gemäss § 2.
+<sup>2</sup> Promotionsentscheide sind die definitive Zulassung nach der Probezeit, die Beförderung, die Nichtbeförderung und die Entlassung aus der Schule. Sie basieren auf den Beurteilungen gemäss § 2.
 
 <sup>3</sup> Promotionsentscheide werden am Ende der Probezeit und am Ende des 1., 2. und 3. Schuljahrs sowie im Lehrgang für Leistungssportlerinnen und -sportler am Ende des 4. Schuljahrs getroffen. Beurteilungsperiode ist die Probezeit beziehungsweise das jeweils vorausgegangene Schuljahr.
 
@@ -116,14 +122,14 @@ beschliesst:
 
 #### § 6
 
-**Definitive Aufnahme, Beförderung**
+**Definitive Zulassung, Beförderung**
 
-<sup>1</sup> Schülerinnen und Schüler werden nach der Probezeit definitiv aufgenommen beziehungsweise am Ende des Schuljahrs in die nächsthöhere Klasse befördert, wenn in den Promotionsfächern
+<sup>1</sup> Schülerinnen und Schüler werden nach der Probezeit definitiv zugelassen beziehungsweise am Ende des Schuljahrs in die nächsthöhere Klasse befördert, wenn in den Promotionsfächern
 
 - a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
 - b) nicht mehr als 4 Noten beziehungsweise im Falle der Schülerinnen und Schüler im Lehrgang für Leistungssportlerinnen und -sportler nicht mehr als 3 Noten unter 4 erzielt wurden.
 
-<sup>2</sup> Liegen wichtige Gründe vor, können Schülerinnen und Schüler, welche die Voraussetzungen von Absatz 1 nicht erfüllen, definitiv aufgenommen beziehungsweise befördert werden, wenn ihnen für das Erreichen der Lernziele der entsprechenden Klasse eine günstige Prognose gestellt werden kann.
+<sup>2</sup> Liegen wichtige Gründe vor, können Schülerinnen und Schüler, welche die Voraussetzungen von Absatz 1 nicht erfüllen, definitiv zugelassen beziehungsweise befördert werden, wenn ihnen für das Erreichen der Lernziele der entsprechenden Klasse eine günstige Prognose gestellt werden kann.
 
 #### § 7
 
@@ -224,7 +230,7 @@ beschliesst:
 
 **Verstösse gegen die Prüfungsordnung**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
+<sup>1</sup> Das BKS erklärt die ganze Maturitätsprüfung für ungültig, wenn unredliche Handlungen begangen, insbesondere wenn unerlaubte Hilfsmittel mitgeführt werden, sowie bei unentschuldigtem Nichterscheinen zu einer der Prüfungen. Die Kandidatinnen und Kandidaten sind vor Beginn der Maturitätsprüfung von der Schulleitung darauf aufmerksam zu machen.
 
 <sup>2</sup> Die Prüfung kann am nächsten Prüfungstermin wiederholt werden, sofern es sich bei der für ungültig erklärten Prüfung um den ersten Versuch gehandelt hat.
 
@@ -240,7 +246,7 @@ beschliesst:
 
 - a) zwei Mitgliedern des Erziehungsrats, welche das Präsidium und Vizepräsidium innehaben,
 - b) 12 bis 16 Mitgliedern als Ressortleiterinnen beziehungsweise Ressortleiter,
-- c) je einer Vertreterin oder einem Vertreter der Rektorenkonferenz und des Departements Bildung, Kultur und Sport mit beratender Stimme.
+- c) je einer Vertreterin oder einem Vertreter der Konferenz der Rektorinnen und Rektoren und des BKS mit beratender Stimme.
 
 <sup>2</sup> Die Maturitätsprüfungskommission ist insbesondere zuständig für
 
@@ -252,7 +258,7 @@ beschliesst:
 
 - a) Koordination der Ressortleiterinnen und Ressortleiter,
 - b) Genehmigung der Prüfungsprogramme der Schulen,
-- c) Berichterstattung über die Prüfungsleistungen zuhanden des Erziehungsrats, des Departements und der Schulen,
+- c) Berichterstattung über die Prüfungsleistungen zuhanden des Erziehungsrats, des BKS und der Schulleitungen,
 - d) Vertretung der Maturitätsprüfungskommission nach aussen.
 
 <sup>4</sup> Die Ressortleiterinnen und Ressortleiter sind in ihrem Ressort insbesondere zuständig für die
@@ -291,7 +297,7 @@ beschliesst:
 
 <sup>2</sup> An den Sitzungen der Maturitätskonferenz nehmen die Expertinnen und Experten sowie alle Lehrpersonen, die Prüfungen abgenommen oder den abschliessenden Unterricht in den nicht geprüften Fächern erteilt haben, nach Bedarf mit beratender Stimme teil.
 
-<sup>3</sup> Die Maturitätskonferenz erarbeitet die Grundlagen für die Maturitätsentscheide zuhanden des Departements Bildung, Kultur und Sport.
+<sup>3</sup> Die Maturitätskonferenz erarbeitet die Grundlagen für die Maturitätsentscheide zuhanden des BKS.
 
 ## 4. Maturität
 
@@ -342,7 +348,7 @@ beschliesst:
 
 **Maturitätsentscheid**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport entscheidet über das Bestehen der Maturität und stellt den Maturitätsausweis aus.
+<sup>1</sup> Das BKS entscheidet über das Bestehen der Maturität und stellt den Maturitätsausweis aus.
 
 #### § 27
 
@@ -360,7 +366,7 @@ beschliesst:
 
 **Maturitätsausweis**
 
-<sup>1</sup> Der Maturitätsausweis wird vom Departement Bildung, Kultur und Sport ausgestellt, wenn die Maturität bestanden ist.
+<sup>1</sup> Der Maturitätsausweis wird vom BKS ausgestellt, wenn die Maturität bestanden ist.
 
 <sup>2</sup> Der Maturitätsausweis enthält:
 
@@ -368,11 +374,11 @@ beschliesst:
 - b) den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995»;
 - c) den Namen der Schule, die ihn ausstellt;
 - d) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
-- e) die Angaben der Zeit, während der die Inhaberin bzw. der Inhaber die aargauische Mittelschule besucht hat;
+- e) die Angaben der Zeit, während der die Inhaberin beziehungsweise der Inhaber die aargauische Mittelschule besucht hat;
 - f) die Maturitätsnoten der 13 Maturitätsfächer nach § 22;
 - g) das Thema der Maturaarbeit;
 - h) gegebenenfalls einen Hinweis auf die Zweisprachigkeit der Maturität mit Angabe der zweiten Sprache;
-- i) die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des Departements und der Rektorin beziehungsweise des Rektors der Schule.
+- i) die Unterschrift der Vorsteherin beziehungsweise des Vorstehers des BKS und der Rektorin beziehungsweise des Rektors der Schule.
 
 <sup>3</sup> Zusätzlich werden im Maturitätsausweis folgende Noten aufgeführt:
 
@@ -426,7 +432,21 @@ beschliesst:
 
 <sup>9</sup> …
 
-<sup>10</sup> Für Schülerinnen und Schüler, die den Lehrgang für Spitzensportlerinnen und -sportler vor dem Schuljahr 2022/23 begonnen haben, gelten die Bestimmungen des bisherigen Rechts. Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2021/22 begonnen haben, die Bestimmungen des neuen Rechts. Falls während oder nach der Repetition keine Zeugnisnoten erlangt werden, aus denen Maturitätsnoten gemäss § 23 gebildet werden können, sind die Zeugnisnoten des letzten Schuljahrs massgebend, in dem die betroffenen Fächer vor der Repetition belegt wurden.
+<sup>10</sup> Für Schülerinnen und Schüler, die den Lehrgang für Spitzensportlerinnen und ‑sportler vor dem Schuljahr 2022/23 begonnen haben, gelten die Bestimmungen des bisherigen Rechts. Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2021/22 begonnen haben, die Bestimmungen des neuen Rechts. Falls während oder nach der Repetition keine Zeugnisnoten erlangt werden, aus denen Maturitätsnoten gemäss § 23 gebildet werden können, sind die Zeugnisnoten des letzten Schuljahrs massgebend, in dem die betroffenen Fächer vor der Repetition belegt wurden.
+
+#### § 31a
+
+**Übertritt von der Fachmittelschule an das Gymnasium**
+
+<sup>1</sup> Schülerinnen und Schüler, deren Abschlussnoten nach Berechnung gemäss § 20 der Verordnung über die Promotion, den Fachmittelschulabschluss und die Fachmaturität an der Fachmittelschule (V FMS) vom 19. Mai 2010[^31a-1] in den Abschlussfächern einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 5 erreichen, sind berechtigt, in die 3. Klasse des Gymnasiums überzutreten.
+
+<sup>2</sup> Der Notendurchschnitt berechtigt zum einmaligen Übertritt in die 3. Klasse des Gymnasiums auf Beginn eines der beiden Schuljahre, die im Anschluss an die 3. Klasse der Fachmittelschule folgen. Vor dem Übertritt an das Gymnasium darf keine Fachmaturität erworben werden.
+
+<sup>3</sup> Schülerinnen und Schüler, die ab dem Schuljahr 2026/27 in eine 1. Klasse der Fachmittelschule zugelassen werden, können ab Ende des Schuljahrs 2028/29 nicht mehr von der Fachmittelschule in die 3. Klasse des Gymnasiums übertreten.
+
+<sup>4</sup> Schülerinnen und Schüler, die im Schuljahr 2025/26 in die Fachmittelschule zugelassen wurden, können auf Beginn des Schuljahrs 2028/29 letztmalig in die 3. Klasse des Gymnasiums übertreten.
+
+[^31a-1]: SAR [423.332](https://gesetzessammlungen.ag.ch/data/423.332/de)
 
 #### § 32
 
