@@ -4,13 +4,12 @@ number: "411.210"
 title: Dekret über die Löhne der Lehrpersonen
 short: "Lohndekret Lehrpersonen, LDLP"
 language: de
-version: 2024-01-01
-valid_until: 2026-07-31
-version_adopted: 2023-03-14
+version: 2026-08-01
+version_adopted: 2025-09-23
 adopted: 2004-08-24
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.210"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3383/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3950/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3383/pdf_file"
 
 (Lohndekret Lehrpersonen, LDLP)
 
-Vom 24.08.2004 (Stand 01.01.2024)
+Vom 24.08.2004 (Stand 01.08.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf § 82 Abs. 1 lit. e der Kantonsverfassung, § 66 Abs. 2 des Schulgesetzes vom 17. März 1981[^ingress-1] sowie die §§ 1 Abs. 2, 18, 28 Abs. 1, 29 Abs. 1, 31 Abs. 4 und 45 Abs. 3 des Gesetzes über die Anstellung von Lehrpersonen (GAL) vom 17. Dezember 2002[^ingress-2],
+gestützt auf § 82 Abs. 1 lit. e der Kantonsverfassung, § 100 Abs. 1 des Volksschulgesetzes (VSG) vom 23. September 2025[^ingress-1] sowie die §§ 1 Abs. 2, 18, 28 Abs. 1, 29 Abs. 1, 31 Abs. 4 und 45 Abs. 3 des Gesetzes über die Anstellung von Lehrpersonen (GAL) vom 17. Dezember 2002[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: SAR [401.100](https://gesetzessammlungen.ag.ch/data/401.100/de)
+[^ingress-1]: SAR [421.100](https://gesetzessammlungen.ag.ch/data/421.100/de)
 [^ingress-2]: SAR [411.200](https://gesetzessammlungen.ag.ch/data/411.200/de)
 
 ## 1. Allgemeine Bestimmungen
