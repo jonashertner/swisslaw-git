@@ -3,20 +3,19 @@ canton: BL
 number: "640.213"
 title: Reglement über die Leistungsbeurteilung an den basellandschaftlichen Gymnasien
 language: de
-version: 2025-08-01
-valid_until: 2026-07-31
-version_adopted: 2025-03-26
+version: 2026-08-01
+version_adopted: 2026-06-08
 adopted: 2005-08-10
 in_force: 2005-08-15
 url: "https://bl.clex.ch/app/de/texts_of_law/640.213"
-pdf: "https://bl.clex.ch/api/de/versions/4264/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Leistungsbeurteilung an den basellandschaftlichen Gymnasien
 
-Vom 10.08.2005 (Stand 01.08.2025)
+Vom 10.08.2005 (Stand 01.08.2026)
 
 Die Bildungs-, Kultur- und Sportdirektion,
 
@@ -112,7 +111,7 @@ beschliesst auf Antrag der Hauptabteilung Berufs- und Mittelschulen der Dienstst
 
 <sup>1</sup> Pro Beurteilungsperiode und Fach mit bis zu 2 Wochenlektionen sind mindestens 4 Noten, mit mehr als 2 Wochenlektionen mindestens 5 Noten zu setzen. Ausnahmen beschliesst die Schulleitung.
 
-<sup>1<sup>bis</sup></sup> Bis zum Standortgespräch in der Mitte der Beurteilungsperiode muss das Gewicht der gesetzten Noten zwischen 40 % und 60 % des Gewichts aller Noten der Beurteilungsperiode liegen.
+<sup>1<sup>bis</sup></sup> Bis zur Notenabgabe für die Standortbestimmung in der Mitte der Beurteilungsperiode muss das Gewicht der gesetzten Noten zwischen 40 % und 60 % des Gewichts aller Noten der Beurteilungsperiode liegen.
 
 <sup>2</sup> Im Klassen- und Kursverbund dürfen pro Tag nicht mehr als 2, pro Woche nicht mehr als 4 Leistungserhebungen gemäss § 4 Abs. 1 Bst. a und b durchgeführt werden.
 
