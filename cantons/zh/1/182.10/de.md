@@ -3,11 +3,10 @@ canton: ZH
 number: "182.10"
 title: Kirchenordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2025-01-01"
-nachtrag: "129"
-valid_until: 2026-08-01
+version: "2026-08-01"
+nachtrag: "134"
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-129.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-134.html"
 text: pdf
 ---
 
@@ -47,7 +46,7 @@ Die Römisch-katholische Körperschaft des Kantons Zürich vereinigt die römisc
 
 **1**
 
-- 1\. 7. 25 - 129
+1.10. 26 - 134
 
 #### Art. 2
 
@@ -149,7 +148,7 @@ gemeinden ein Mitgliederregister einrichten und betreiben oder sich an einem sol
 
 **3**
 
-- 1\. 7. 25 - 129
+1.10. 26 - 134
 
 <sup>2</sup> Die Synode legt in einer Verordnung die im Mitgliederregister zu erfassenden Identifikatoren und Merkmale der Mitglieder der Körperschaft fest.
 
@@ -277,7 +276,7 @@ obligatorischen Referendum untersteht, wird sie mit einem zustimmenden oder able
 
 **5**
 
-- 1\. 7. 25 - 129
+1.10. 26 - 134
 
 #### Art. 19
 
@@ -313,11 +312,14 @@ und der Rekurskommission erfolgt für eine Amtsdauer von vier Jahren, bei Ersatz
 
 <sup>2</sup> Mitglieder der Synode können dreimal und die Mitglieder des Synodalrates zweimal wiedergewählt werden. Angebrochene Amtsdauern werden nicht mitgezählt. Für die Mitglieder der Rekurskommission gilt keine Amtszeitbeschränkung.
 
-[^19a-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
+<sup>3</sup> Erreicht die Präsidentin oder der Präsident nach einer einzigen vollen Amtsdauer im Präsidium die Amtszeitbeschränkung gemäss Abs. 2, kann sie oder er einmalig für eine weitere Amtsdauer als Mitglied des Synodalrates und dessen Präsidentin oder Präsident gewählt werden. Kommt die Wahl zur Präsidentin oder zum Präsidenten nicht zustande, wird die vorgängige Wahl als Mitglied des Synodalrates hinfällig.[^19a-1]
+
+[^19a-1]: Eingefügt durch B vom 4. Dezember 2025 (OS 81, 329; ABl 2026-06-12). In Kraft seit 1. August 2026. 1.10. 26 - 134 23
+[^19a-2]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
 #### Art. 19 b
 
-**Amtsgeheimnis und Entbindung**[^19a-1]
+**Amtsgeheimnis und Entbindung**[^19a-2]
 
 <sup>1</sup> Mitglieder von Behörden, Organen, Kommissionen
 
@@ -391,6 +393,10 @@ wirken oder sie vorzubereiten haben, treten in den Ausstand, wenn sie in der Sac
 
 - c. aus anderen Gründen, insbesondere wegen Freundschaft oder Feindschaft mit einer Partei oder ihrer Vertreterin bzw. ihrem Vertreter, befangen sein könnten.
 
+**7**
+
+1.10. 26 - 134
+
 <sup>2</sup> Ist der Ausstand streitig, entscheidet darüber die Aufsichtsbehörde oder, wenn es sich um den Ausstand eines Mitglieds einer Kollegialbehörde handelt, diese Behörde unter Ausschluss des betreffenden Mitglieds.
 
 [^19f-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
@@ -402,10 +408,6 @@ wirken oder sie vorzubereiten haben, treten in den Ausstand, wenn sie in der Sac
 **Für die Mitglieder von Behörden und Organen der Kör-**
 
 perschaft besteht kein Amtszwang.
-
-**7**
-
-- 1\. 7. 25 - 129
 
 [^19g-1]: Eingefügt durch B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
@@ -514,15 +516,13 @@ Art. 27[^26-1] Die Synode ist zuständig für:
 
 - b. Wahl des Synodalrates und seiner Präsidentin oder seines Präsidenten auf die Amtsdauer der Synode,
 
-- c. Wahl der Präsidentin oder des Präsidenten und der Mitglieder der Rekurskommission,
+**9**
+
+1.10. 26 - 134 c. Wahl der Präsidentin oder des Präsidenten und der Mitglieder der Rekurskommission,
 
 - d. Wahl der Ombudspersonen der Personalombudsstelle,
 
 - e. Wahl ihrer Vertretung in Organisationen, f.[^26-2] Wahl der Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände.
-
-**9**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Folgende Rechtserlasse:
 
@@ -626,15 +626,13 @@ glieder. Sie prüft die Jahresberichte des Synodalrates und der Rekurskommission
 
 <sup>2</sup> Ihre weiteren Aufgaben und Kompetenzen werden in der Geschäftsordnung der Synode geregelt.[^31-1]
 
-**Finanzkommission**
-
-Art. 32[^31-1] <sup>1</sup> Die Finanzkommission umfasst sieben Mitglieder. Sie prüft das Budget und die Jahresrechnung der Körperschaft.
-
-<sup>2</sup> Ihre weiteren Aufgaben und Kompetenzen werden in der Geschäftsordnung der Synode geregelt.
-
 **11**
 
-- 1\. 7. 25 - 129
+1.10. 26 - 134 Art. 32[^31-1] <sup>1</sup> Die Finanzkommission umfasst sieben Mitglieder. Sie prüft das Budget und die Jahresrechnung der Körperschaft.
+
+**Finanzkommission**
+
+<sup>2</sup> Ihre weiteren Aufgaben und Kompetenzen werden in der Geschäftsordnung der Synode geregelt.
 
 [^31-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 
@@ -754,15 +752,15 @@ Art. 41[^40-1] Dem Synodalrat kommen zu:
 
 - r. Entscheide über Rekurse gegen Anordnungen der Aufsichtskommission über Kirchgemeinden und Zweckverbände,
 
-- s. Abschluss von Vereinbarungen über die Zusammenarbeit zwischen der Körperschaft und dem Generalvikariat,
+**13**
+
+1.10. 26 - 134 s. Abschluss von Vereinbarungen über die Zusammenarbeit zwischen der Körperschaft und dem Generalvikariat,
 
 - t. Wahlleitung bei körperschaftlichen Wahlen und Abstimmungen an der Urne, sofern diese nicht den staatlichen Organen übertragen wird.
 
-**13**
-
-- 1\. 7. 25 - 129 Art. 42[^40-1] Der Synodalrat beschliesst über:
-
 **Finanzkompetenzen**
+
+Art. 42[^40-1] Der Synodalrat beschliesst über:
 
 - a. gebundene Ausgaben,
 
@@ -843,15 +841,13 @@ Art. 47[^hDRekurskommission-2] Mit Rekurs können angefochten werden:
 
 - 3\. Entscheide des Synodalrates über finanzielle Leistungen der Körperschaft oder über Finanzausgleichsbeiträge an die Kirchgemeinden oder von Kirchgemeinden an die Körperschaft oder den Finanzausgleich,
 
-- 4\. Entscheide des Synodalrates über Rekurse zu personalrechtlichen Anordnungen der Kirchgemeinden und Zweckverbände,
+**15**
+
+1.10. 26 - 134 4. Entscheide des Synodalrates über Rekurse zu personalrechtlichen Anordnungen der Kirchgemeinden und Zweckverbände,
 
 - 5\. personalrechtliche Anordnungen des Synodalrates,
 
 - b. Anordnungen und Erlasse der Kirchgemeinden und Zweckverbände sowie ihrer Organe,
-
-**15**
-
-- 1\. 7. 25 - 129
 
 - c. Unrechtmässiges Verweigern oder Verzögern einer anfechtbaren Anordnung durch den Synodalrat, eine Kirchgemeinde, einen Zweckverband oder ihre Organe,
 
@@ -933,6 +929,10 @@ Art. 55[^hIVKirchgemeinden-1] <sup>1</sup> Die Kirchgemeinden regeln ihre Organi
 
 <sup>5</sup> Die Kirchgemeindeordnung bedarf der Genehmigung durch den Synodalrat.
 
+**17**
+
+1.10. 26 - 134
+
 [^hIVKirchgemeinden-1]: Fassung gemäss B vom 1. Dezember 2022 (OS 78, 427; ABl 2022-12-16). In Kraft seit 1. Januar 2024.
 [^hIVKirchgemeinden-2]: LS 101.
 [^hIVKirchgemeinden-3]: LS 180.1.
@@ -946,10 +946,6 @@ Art. 55[^hIVKirchgemeinden-1] <sup>1</sup> Die Kirchgemeinden regeln ihre Organi
 <sup>1</sup> Die Kirchgemeinden schaffen auf ihrem Gebiet Voraus-
 
 setzungen für die Entfaltung des kirchlichen Lebens im Sinne von Art. 4 Abs. 1.[^56-1]
-
-**17**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Sie beachten bei der Aufgabenerfüllung die von Synode und Synodalrat erlassenen Richtlinien.
 
@@ -1065,7 +1061,7 @@ Beiträge an die Körperschaft.[^64-1]
 
 **19**
 
-- 1\. 7. 25 - 129 Art. 65[^64-1] <sup>1</sup> Die Körperschaft verwendet ihre Mittel für:
+1.10. 26 - 134 Art. 65[^64-1] <sup>1</sup> Die Körperschaft verwendet ihre Mittel für:
 
 **Mittelverwendung**
 
@@ -1190,7 +1186,7 @@ Art. 75[^74-4] Mitglieder von Behörden und Organen bleiben bis zum Ablauf der A
 
 **Übergangsbestimmung zur Änderung vom 1. Dezember 2022**
 
-- 1\. 7. 25 - 129 Art. 76[^74-5] Erhöht sich aufgrund der Änderung von Art. 21 Abs. 2 die Zahl der auf eine Kirchgemeinde entfallenden Mitglieder der Synode, sind Ergänzungswahlen durchzuführen. Die Wahl der neuen Mitglieder erfolgt für den Rest der Amtsdauer 2023–2027. Stichtag für die Zahl der Mitglieder in der Synode pro Kirchgemeinde ist der 31. Dezember 2021.
+1.10. 26 - 134 Art. 76[^74-5] Erhöht sich aufgrund der Änderung von Art. 21 Abs. 2 die Zahl der auf eine Kirchgemeinde entfallenden Mitglieder der Synode, sind Ergänzungswahlen durchzuführen. Die Wahl der neuen Mitglieder erfolgt für den Rest der Amtsdauer 2023–2027. Stichtag für die Zahl der Mitglieder in der Synode pro Kirchgemeinde ist der 31. Dezember 2021.
 
 [^74-1]: Vom Regierungsrat genehmigt am 25. November 2009.
 [^74-2]: LS 180.1.
@@ -1254,9 +1250,9 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), 
 
 **27**
 
-- 1\. 7. 25 - 129 Urdorf Uster Wädenswil[^hGemeindenoderGemei-12],[^hGemeindenoderGemei-13] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-8],[^hGemeindenoderGemei-14] Zollikon-Zumikon[^hGemeindenoderGemei-15] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
+1.10. 26 - 134 Urdorf Uster Wädenswil[^hGemeindenoderGemei-12],[^hGemeindenoderGemei-13] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-8],[^hGemeindenoderGemei-14] Zollikon-Zumikon[^hGemeindenoderGemei-15] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
 
-- 1\. 7. 25 - 129
+1.10. 26 - 134
 
 [^hGemeindenoderGemei-1]: Fassung gemäss B vom 7. April 2011 (OS 67, 396). In Kraft seit 1. Oktober 2012.
 [^hGemeindenoderGemei-2]: Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
@@ -1271,7 +1267,7 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-6] Bubikon (Gemeindeteil Bubikon), 
 [^hGemeindenoderGemei-11]: Fassung gemäss B vom 17. Juni 2021 (ABl 2021-07-02). In Kraft seit 2. Juli 2021.
 [^hGemeindenoderGemei-12]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
 [^hGemeindenoderGemei-13]: Die Kirchgemeinde Hirzel-Schönenberg-Hütten wurde nach dem Zusammenschluss der Politischen Gemeinden Horgen bzw. Wädenswil auf den 1. Januar 2020 aufgelöst und der entsprechenden Kirchgemeinde zugeordnet (OS 74, 565; ABl 2019-10-11). In Kraft seit 1. Januar 2020.
-[^hGemeindenoderGemei-14]: Fassung gemäss B vom 25. November 2024 (ABl 2024-12-06). In Kraft seit 1. Januar 2025. 1. 7. 25 - 129 23
+[^hGemeindenoderGemei-14]: Fassung gemäss B vom 25. November 2024 (ABl 2024-12-06). In Kraft seit 1. Januar 2025.
 [^hGemeindenoderGemei-15]: Fassung gemäss B vom 16. Juni 2011 (OS 67, 398). In Kraft seit 1. Oktober 2012.
 
 ## Weitere Fussnoten
