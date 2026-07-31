@@ -5,11 +5,12 @@ title: Verordnung über die Organisation der Berufsmaturität
 short: VOBM
 language: de
 version: 2026-08-01
+corrected: 2026-03-04
 version_adopted: 2026-02-25
 adopted: 2026-02-25
 in_force: 2026-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/412.106"
-pdf: "https://lex.vs.ch/api/de/versions/3585/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.

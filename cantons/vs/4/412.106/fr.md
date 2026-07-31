@@ -5,11 +5,12 @@ title: "Ordonnance sur l'organisation de la maturité professionnelle"
 short: OOMP
 language: fr
 version: 2026-08-01
+corrected: 2026-03-04
 version_adopted: 2026-02-25
 adopted: 2026-02-25
 in_force: 2026-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/412.106"
-pdf: "https://lex.vs.ch/api/fr/versions/3585/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3584/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -182,7 +183,7 @@ ordonne: [^ingress-1]:
 <sup>1</sup> L'élève est promu au semestre suivant, si les conditions cumulatives suivantes sont réunies:
 
 - a) la note globale est égale ou supérieure à 4,0;
-- b) deux notes semestrielles au maximum sont inférieures à 4,0;
+- b) deux notes semestrielles au maximum sont inférieures à 4.,0;
 - c) la somme des écarts entre les notes de branches insuffisantes et la note de 4,0 est inférieure ou égale à 2,0.
 
 <sup>2</sup> La note du travail interdisciplinaire n'entre pas dans le calcul de la promotion d'un semestre à l'autre, mais elle est intégrée dans la procédure de qualification.
