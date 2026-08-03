@@ -3,11 +3,11 @@ sr: "0.747.363.5"
 title: Internationales Übereinkommen vom 18. Mai 2007 von Nairobi von 2007 über die Beseitigung von Wracks (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/454"
 language: de
-version: 2025-02-25
+version: 2026-08-04
 adopted: 2007-05-18
 in_force: 2016-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/de/xml/fedlex-data-admin-ch-eli-cc-2016-454-20250225-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20250225/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/de/xml/fedlex-data-admin-ch-eli-cc-2016-454-20260804-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20260804/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 16. Mai 2016
 
 In Kraft getreten für die Schweiz am 16. August 2016
 
-(Stand am 25. Februar 2025)
+(Stand am 4. August 2026)
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -40,7 +40,7 @@ eingedenk der Bedeutung des in Montego Bay am 10. Dezember 1982[^ingress-1] besc
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 1
 
@@ -142,8 +142,8 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Ausdrücke folgende Bede
 - b) Artikel 9 Absatz 4 hat, soweit er auf das Hoheitsgebiet einschliesslich des Küstenmeers eines Vertragsstaats Anwendung findet, folgenden Wortlaut:
 - Vorbehaltlich des innerstaatlichen Rechts des betroffenen Staates kann der eingetragene Eigentümer mit einem beliebigen Berger oder jeder anderen Person im Namen des Eigentümers einen Vertrag über die Beseitigung des Wracks abschliessen, von dem festgestellt wurde, dass es eine Gefahr darstellt. Vor Beginn der Beseitigung kann der betroffene Staat Bedingungen für eine Beseitigung nur in dem Umfang festlegen, der notwendig ist, um sicherzustellen, dass die Beseitigung in einer Art und Weise vonstattengeht, die mit Gesichtspunkten der Sicherheit und des Schutzes der Meeresumwelt vereinbar ist.
 
-[^4-1]: [SR 0.814.289](https://fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242)
-[^4-2]: [SR 0.814.289.1](https://fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498)
+[^4-1]: [SR 0.814.289](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3523)
+[^4-2]: [SR 0.814.289.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3524)
 
 #### Art. 5
 
@@ -256,7 +256,7 @@ Der eingetragene Eigentümer haftet vorbehaltlich des Artikels 11 für die Koste
 
 <sup>4.</sup> Dieser Artikel beeinträchtigt nicht ein Rückgriffsrecht gegen Dritte.
 
-[^10-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^10-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 11
 
@@ -273,8 +273,8 @@ Der eingetragene Eigentümer haftet nach diesem Übereinkommen nicht für die in
 
 <sup>2.</sup> Soweit Massnahmen nach diesem Übereinkommen als Bergung nach dem geltenden innerstaatlichen Recht oder einem internationalen Übereinkommen gelten, kommen diese Rechtsvorschriften oder dieses Übereinkommen bei Fragen der Vergütung oder Entschädigung der Bergungsunternehmen unter Ausschluss der Vorschriften dieses Übereinkommens zur Anwendung.
 
-[^11-1]: [SR 0.814.291](https://fedlex.data.admin.ch/eli/cc/1988/1444_1444_1444)
-[^11-2]: [SR 0.814.294](https://fedlex.data.admin.ch/eli/cc/2013/888)
+[^11-1]: [SR 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526)
+[^11-2]: [SR 0.814.294](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3531)
 
 #### Art. 12
 
@@ -327,7 +327,7 @@ Nachdem die zuständige Behörde des Schiffsregisterstaats sich vergewissert hat
 
 <sup>14.</sup> Besteht für ein einem Vertragsstaat gehörendes Schiff keine Versicherung oder sonstige finanzielle Sicherheit, so finden die darauf bezüglichen Bestimmungen dieses Artikels auf dieses Schiff keine Anwendung; es hat jedoch eine von den zuständigen Behörden des Registerstaats ausgestellte Bescheinigung mitzuführen, aus der hervorgeht, dass es dem betreffenden Staat gehört und dass seine Haftung innerhalb der in Absatz 1 festgesetzten Grenzen gedeckt ist. Diese Bescheinigung hat so weit wie möglich dem in Absatz 2 vorgeschriebenen Muster zu entsprechen.
 
-[^12-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^12-1]: [SR 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 13
 
@@ -420,7 +420,7 @@ Der Generalsekretär:
 
 <sup>3.</sup> Sobald dieses Übereinkommen in Kraft tritt, übermittelt der Generalsekretär dem Generalsekretär der Vereinten Nationen eine beglaubigte Abschrift des Wortlauts des Übereinkommens zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^20-1].
 
-[^20-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 21
 
@@ -491,17 +491,20 @@ Ausgestellt von:
 
 \5. Die Eintragung «Anschrift» des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) hat die Anschrift des Hauptgeschäftssitzes des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) zu enthalten. Gegebenenfalls ist der Geschäftssitz anzugeben, an dem die Versicherung oder sonstige Sicherheit abgeschlossen wurde.
 
-Geltungsbereich am 25. Februar 2025[^t-1]
+Geltungsbereich am 4. August 2026[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien\*</td><td>27. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
 <tr><td>Antigua und Barbuda\*</td><td>9. Januar</td><td>2015 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Äquatorialguinea\*</td><td>3. Dezember</td><td>2025 B</td><td>3. März</td><td>2026</td></tr>
 <tr><td>Bahamas\*</td><td>5. Juni</td><td>2015 B</td><td>5. September</td><td>2015</td></tr>
+<tr><td>Bangladesch\*</td><td>6. Juli</td><td>2026 B</td><td>6. Oktober</td><td>2026</td></tr>
 <tr><td>Barbados\*</td><td>23. Juli</td><td>2024 B</td><td>23. Oktober</td><td>2024</td></tr>
 <tr><td>Belarus</td><td>5. September</td><td>2019 B</td><td>5. Dezember</td><td>2019</td></tr>
 <tr><td>Belgien</td><td>17. Januar</td><td>2017 B</td><td>17. April</td><td>2017</td></tr>
 <tr><td>Belize\*</td><td>17. Januar</td><td>2018 B</td><td>17. April</td><td>2018</td></tr>
+<tr><td>Brasilien</td><td>9. Juli</td><td>2026 B</td><td>9. Oktober</td><td>2026</td></tr>
 <tr><td>Bulgarien\*</td><td>8. Februar</td><td>2012 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>China\* <sup>a</sup></td><td>11. November</td><td>2016 B</td><td>11. Februar</td><td>2017</td></tr>
 <tr><td>Cook-Inseln</td><td>22. Dezember</td><td>2014 B</td><td>14. April</td><td>2015</td></tr>
@@ -542,7 +545,7 @@ Geltungsbereich am 25. Februar 2025[^t-1]
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>20. Dezember</td><td>2017</td><td>20. Dezember</td><td>2017</td></tr>
 <tr><td>Nigeria</td><td>23. Juli</td><td>2009 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Niue\*</td><td>27. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
-<tr><td>Norwegen</td><td>11. November</td><td>2024 B</td><td>11. Februar</td><td>2025</td></tr>
+<tr><td>Norwegen\*</td><td>11. November</td><td>2024 B</td><td>11. Februar</td><td>2025</td></tr>
 <tr><td>Oman</td><td>30. April</td><td>2020 B</td><td>30. Juli</td><td>2020</td></tr>
 <tr><td>Pakistan</td><td>17. Juni</td><td>2022 B</td><td>17. September</td><td>2022</td></tr>
 <tr><td>Palau</td><td>29. September</td><td>2011 B</td><td>14. April</td><td>2015</td></tr>
@@ -550,6 +553,7 @@ Geltungsbereich am 25. Februar 2025[^t-1]
 <tr><td>Portugal</td><td>19. Oktober</td><td>2017 B</td><td>19. Januar</td><td>2018</td></tr>
 <tr><td>Rumänien</td><td>20. September</td><td>2016 B</td><td>20. Dezember</td><td>2016</td></tr>
 <tr><td>Russland</td><td>3. Februar</td><td>2022 B</td><td>3. Mai</td><td>2022</td></tr>
+<tr><td>Salomoninseln</td><td>27. November</td><td>2025 B</td><td>27. Februar</td><td>2026</td></tr>
 <tr><td>San Marino</td><td>11. April</td><td>2022 B</td><td>11. Juli</td><td>2022</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>15. August</td><td>2022 B</td><td>15. November</td><td>2022</td></tr>
 <tr><td>Saudi-Arabien</td><td>18. Juli</td><td>2019 B</td><td>18. Oktober</td><td>2019</td></tr>
@@ -558,6 +562,7 @@ Geltungsbereich am 25. Februar 2025[^t-1]
 <tr><td>Seychellen</td><td>28. November</td><td>2023 B</td><td>28. Februar</td><td>2024</td></tr>
 <tr><td>Sierra Leone</td><td>22. November</td><td>2019 B</td><td>22. Februar</td><td>2020</td></tr>
 <tr><td>Singapur</td><td>8. Juni</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Somalia\*</td><td>26. Juni</td><td>2026 B</td><td>26. September</td><td>2026</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>31. März</td><td>2016 B</td><td>30. Juni</td><td>2016</td></tr>
 <tr><td>St. Lucia</td><td>2. Dezember</td><td>2020 B</td><td>2. März</td><td>2021</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>2. Juli</td><td>2020 B</td><td>2. Oktober</td><td>2020</td></tr>
@@ -565,6 +570,8 @@ Geltungsbereich am 25. Februar 2025[^t-1]
 <tr><td>Togo</td><td>20. März</td><td>2015 B</td><td>20. Juni</td><td>2015</td></tr>
 <tr><td>Tonga</td><td>17. Mai</td><td>2022 B</td><td>17. August</td><td>2022</td></tr>
 <tr><td>Tuvalu</td><td>17. Februar</td><td>2015 B</td><td>17. Mai</td><td>2015</td></tr>
+<tr><td>Vanuatu\*</td><td>16. Oktober</td><td>2025 B</td><td>16. Januar</td><td>2026</td></tr>
+<tr><td>Vereinigte Arabische Emirate\*</td><td>24. September</td><td>2025 B</td><td>24. Dezember</td><td>2025</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>30. November</td><td>2012 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Bermudas</td><td>31. März</td><td>2021</td><td>31. März</td><td>2021</td></tr>
 <tr><td>Falklandinseln</td><td>19. Dezember</td><td>2024</td><td>19. Dezember</td><td>2024</td></tr>
@@ -572,7 +579,7 @@ Geltungsbereich am 25. Februar 2025[^t-1]
 <tr><td>Insel Man</td><td>14. April</td><td>2015</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Kaimaninseln</td><td>7. Februar</td><td>2017</td><td>7. Februar</td><td>2017</td></tr>
 <tr><td>Zypern\*</td><td>22. Juli</td><td>2015 B</td><td>22. Oktober</td><td>2015</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besonderen Verwaltungsregionen (SAR) Hong Kong und Macao. <sup>b</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>c</sup> Das Übereink. gilt nur für den europäischen Teil der Niederlande.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationale Seeschifffahrts-Organisation (IMO): [www.imo.org/fr](http://www.imo.org/fr) &gt; A propos de l’OMI &gt; Conventions &gt; Statut des conventions &gt; Carnet de suivi eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besonderen Verwaltungsregionen (SAR) Hong Kong und Macao. <sup>b</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>c</sup> Das Übereink. gilt nur für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
-[^t-1]: [AS 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627); [2025 136](https://fedlex.data.admin.ch/eli/oc/2025/136). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-1]: [AS 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627); [2025 136](https://fedlex.data.admin.ch/eli/oc/2025/136); [2026 407](https://fedlex.data.admin.ch/eli/oc/2026/407). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

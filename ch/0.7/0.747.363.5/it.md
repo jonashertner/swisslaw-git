@@ -3,11 +3,11 @@ sr: "0.747.363.5"
 title: Convenzione internazionale del 18 maggio 2007 di Nairobi del 2007 sulla rimozione dei relitti (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/454"
 language: it
-version: 2025-02-25
+version: 2026-08-04
 adopted: 2007-05-18
 in_force: 2016-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/it/xml/fedlex-data-admin-ch-eli-cc-2016-454-20250225-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20250225/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/it/xml/fedlex-data-admin-ch-eli-cc-2016-454-20260804-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20260804/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2016** 2777
 
 Conclusa a Nairobi il 18 maggio 2007 Strumento di adesione depositato dalla Svizzera il 16 maggio 2016 Entrata in vigore per la Svizzera il 16 agosto 2016
 
-(Stato 25 febbraio 2025)
+(Stato 4 agosto 2026)
 
 Gli Stati Parti contraenti della presente Convenzione,
 
@@ -36,7 +36,7 @@ tenendo presente l’importanza della Convenzione delle Nazioni Unite sul diritt
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 1
 
@@ -138,7 +138,7 @@ Ai fini della presente Convenzione:
 - b) L’articolo 9 paragrafo 4, nella misura in cui esso si applica al territorio di uno Stato Parte contraente, incluso il mare territoriale, è così modificato:
 - Fatto salvo il diritto nazionale dello Stato interessato, il proprietario registrato può stipulare un contratto con qualsiasi operatore di recupero, o con altra persona, per la rimozione, per conto del proprietario, del relitto che si è determinato costituire un pericolo. Prima dell’inizio della rimozione, lo Stato interessato può fissare le condizioni per tale rimozione solo nella misura necessaria a garantire che l’operazione proceda in modo coerente con le considerazioni di sicurezza e di protezione dell’ambiente marino.
 
-[^4-1]: [RS 0.814.289](https://fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242)
+[^4-1]: [RS 0.814.289](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3523)
 [^4-2]: RS **0****.** **814.289.1**
 
 #### Art. 5
@@ -252,7 +252,7 @@ Fatto salvo l’articolo 11, il proprietario registrato è responsabile per i co
 
 <sup>4.</sup> Le disposizioni del presente articolo non pregiudicano il diritto di ricorso nei confronti di terzi.
 
-[^10-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^10-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 11
 
@@ -269,8 +269,8 @@ a condizione che la convenzione pertinente sia applicabile e in vigore.
 - c) la Convenzione del 1960 sulla responsabilità civile nel campo dell’energia nucleare, come modificata, o la Convenzione di Vienna del 1963 relativa alla responsabilità civile in materia di danni nucleari, come modificata, oppure la legislazione nazionale che regoli o vieti la limitazione della responsabilità per danni nucleari; o
 - d) la Convenzione internazionale del 2001[^11-2] sulla responsabilità civile per i danni derivanti dall’inquinamento determinato dal carburante delle navi, come modificata;
 
-[^11-1]: [RS 0.814.291](https://fedlex.data.admin.ch/eli/cc/1988/1444_1444_1444)
-[^11-2]: [RS 0.814.294](https://fedlex.data.admin.ch/eli/cc/2013/888)
+[^11-1]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526)
+[^11-2]: [RS 0.814.294](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3531)
 
 #### Art. 12
 
@@ -323,7 +323,7 @@ Dopo aver stabilito che sono stati rispettati i requisiti del paragrafo 1, a ogn
 
 <sup>14.</sup> Se l’assicurazione, o altra garanzia finanziaria, non viene stipulata per le navi di proprietà di uno Stato Parte contraente, le disposizioni del presente articolo ad essa relative non sono applicabili alla nave in questione, ma la nave deve tenere a bordo un certificato rilasciato dall’autorità competente dello Stato di immatricolazione che attesta che essa è di proprietà di tale Stato e che la responsabilità della nave è coperta nell’ambito dei limiti previsti dal paragrafo 1. Tale certificato deve essere conforme per quanto possibile al modello prescritto dal paragrafo 2.
 
-[^12-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^12-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 13
 
@@ -416,7 +416,7 @@ Il Segretario generale:
 
 <sup>3.</sup> Non appena la presente Convenzione entra in vigore, una copia certificata conforme del testo è trasmessa dal Segretario generale al Segretario generale dell’Organizzazione delle Nazioni Unite per la registrazione e la pubblicazione in conformità all’articolo 102 dello Statuto delle Nazioni Unite[^20-1].
 
-[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 21
 
@@ -485,7 +485,7 @@ Da
 
 \5. Alla voce «Indirizzo dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti)» occorre indicare l’indirizzo della sede di affari principale dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti). Se opportuno, deve essere indicata la sede di attività presso la quale è stata stipulata l’assicurazione o la garanzia.
 
-Campo d’applicazione il 25 febbraio 2025[^t-1]
+Campo d’applicazione il 4 agosto 2026[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -493,10 +493,12 @@ Campo d’applicazione il 25 febbraio 2025[^t-1]
 <tr><td>Antigua e Barbuda\*</td><td>9 gennaio</td><td>2015 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Arabia Saudita</td><td>18 luglio</td><td>2019 A</td><td>18 ottobre</td><td>2019</td></tr>
 <tr><td>Bahamas\*</td><td>5 giugno</td><td>2015 A</td><td>5 settembre</td><td>2015</td></tr>
+<tr><td>Bangladesh\*</td><td>6 luglio</td><td>2026 A</td><td>6 ottobre</td><td>2026</td></tr>
 <tr><td>Barbados\*</td><td>23 luglio</td><td>2024 A</td><td>23 ottobre</td><td>2024</td></tr>
 <tr><td>Belarus</td><td>5 settembre</td><td>2019 A</td><td>5 dicembre</td><td>2019</td></tr>
 <tr><td>Belgio</td><td>17 gennaio</td><td>2017 A</td><td>17 aprile</td><td>2017</td></tr>
 <tr><td>Belize\*</td><td>17 gennaio</td><td>2018 A</td><td>17 aprile</td><td>2018</td></tr>
+<tr><td>Brasile</td><td>9 luglio</td><td>2026 A</td><td>9 ottobre</td><td>2026</td></tr>
 <tr><td>Bulgaria\*</td><td>8 febbraio</td><td>2012 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Canada\*</td><td>30 aprile</td><td>2019 A</td><td>30 luglio</td><td>2019</td></tr>
 <tr><td>Cina\* <sup>a</sup></td><td>11 novembre</td><td>2016 A</td><td>11 febbraio</td><td>2017</td></tr>
@@ -507,6 +509,7 @@ Campo d’applicazione il 25 febbraio 2025[^t-1]
 <tr><td>Costa d’Avorio</td><td>17 marzo</td><td>2023 A</td><td>17 giugno</td><td>2023</td></tr>
 <tr><td>Croazia\*</td><td>11 luglio</td><td>2017 A</td><td>11 ottobre</td><td>2017</td></tr>
 <tr><td>Danimarca\* <sup>b</sup></td><td>14 aprile</td><td>2014</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Emirati Arabi Uniti\*</td><td>24 settembre</td><td>2025 A</td><td>24 dicembre</td><td>2025</td></tr>
 <tr><td>Estonia</td><td>29 giugno</td><td>2020</td><td>29 settembre</td><td>2020</td></tr>
 <tr><td>Finlandia\*</td><td>27 ottobre</td><td>2016 A</td><td>27 gennaio</td><td>2017</td></tr>
 <tr><td>Francia\*</td><td>4 febbraio</td><td>2016</td><td>4 maggio</td><td>2016</td></tr>
@@ -514,6 +517,7 @@ Campo d’applicazione il 25 febbraio 2025[^t-1]
 <tr><td>Germania</td><td>20 giugno</td><td>2013</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Giappone</td><td>1° luglio</td><td>2020 A</td><td>1° ottobre</td><td>2020</td></tr>
 <tr><td>Giordania</td><td>16 settembre</td><td>2016 A</td><td>16 dicembre</td><td>2016</td></tr>
+<tr><td>Guinea equatoriale\*</td><td>3 dicembre</td><td>2025 A</td><td>3 marzo</td><td>2026</td></tr>
 <tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>15 febbraio</td><td>2022 A</td><td>15 maggio</td><td>2022</td></tr>
@@ -523,6 +527,7 @@ Campo d’applicazione il 25 febbraio 2025[^t-1]
 <tr><td>Iraq</td><td>8 agosto</td><td>2023 A</td><td>8 novembre</td><td>2023</td></tr>
 <tr><td>Isole Cook</td><td>22 dicembre</td><td>2014 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Isole Marshall\*</td><td>27 ottobre</td><td>2014 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Isole Salomone</td><td>27 novembre</td><td>2025 A</td><td>27 febbraio</td><td>2026</td></tr>
 <tr><td>Kazakistan\*</td><td>28 aprile</td><td>2021 A</td><td>28 luglio</td><td>2021</td></tr>
 <tr><td>Kenya\*</td><td>14 aprile</td><td>2015 A</td><td>14 luglio</td><td>2015</td></tr>
 <tr><td>Liberia\*</td><td>8 gennaio</td><td>2015 A</td><td>14 aprile</td><td>2015</td></tr>
@@ -536,7 +541,7 @@ Campo d’applicazione il 25 febbraio 2025[^t-1]
 <tr><td>Nauru</td><td>23 marzo</td><td>2020 A</td><td>23 giugno</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>23 luglio</td><td>2009 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Niue\*</td><td>27 aprile</td><td>2015 A</td><td>27 luglio</td><td>2015</td></tr>
-<tr><td>Norvegia</td><td>11 novembre</td><td>2024 A</td><td>11 febbraio</td><td>2025</td></tr>
+<tr><td>Norvegia\*</td><td>11 novembre</td><td>2024 A</td><td>11 febbraio</td><td>2025</td></tr>
 <tr><td>Oman</td><td>30 aprile</td><td>2020 A</td><td>30 luglio</td><td>2020</td></tr>
 <tr><td>Paesi Bassi\* <sup>c</sup></td><td>19 gennaio</td><td>2016</td><td>19 aprile</td><td>2016</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>20 dicembre</td><td>2017</td><td>20 dicembre</td><td>2017</td></tr>
@@ -552,21 +557,23 @@ Campo d’applicazione il 25 febbraio 2025[^t-1]
 <tr><td>Isola di Man</td><td>14 aprile</td><td>2015</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Romania</td><td>20 settembre</td><td>2016 A</td><td>20 dicembre</td><td>2016</td></tr>
 <tr><td>Russia</td><td>3 febbraio</td><td>2022 A</td><td>3 maggio</td><td>2022</td></tr>
-<tr><td>Seycelles</td><td>28 novembre</td><td>2023 A</td><td>28 febbraio</td><td>2024</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>31 marzo</td><td>2016 A</td><td>30 giugno</td><td>2016</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>2 luglio</td><td>2020 A</td><td>2 ottobre</td><td>2020</td></tr>
 <tr><td>San Marino</td><td>11 aprile</td><td>2022 A</td><td>11 luglio</td><td>2022</td></tr>
 <tr><td>Santa Lucia</td><td>2 dicembre</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>15 agosto</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
+<tr><td>Seycelles</td><td>28 novembre</td><td>2023 A</td><td>28 febbraio</td><td>2024</td></tr>
 <tr><td>Sierra Leone</td><td>22 novembre</td><td>2019 A</td><td>22 febbraio</td><td>2020</td></tr>
 <tr><td>Singapore</td><td>8 giugno</td><td>2017 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Somalia\*</td><td>26 giugno</td><td>2026 A</td><td>26 settembre</td><td>2026</td></tr>
 <tr><td>Sudafrica</td><td>4 settembre</td><td>2015 A</td><td>4 dicembre</td><td>2015</td></tr>
 <tr><td>Svezia\*</td><td>3 novembre</td><td>2017 A</td><td>3 febbraio</td><td>2018</td></tr>
 <tr><td>Svizzera</td><td>16 maggio</td><td>2016 A</td><td>16 agosto</td><td>2016</td></tr>
 <tr><td>Togo</td><td>20 marzo</td><td>2015 A</td><td>20 giugno</td><td>2015</td></tr>
 <tr><td>Tonga</td><td>17 maggio</td><td>2022 A</td><td>17 agosto</td><td>2022</td></tr>
 <tr><td>Tuvalu</td><td>17 febbraio</td><td>2015 A</td><td>17 maggio</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultato sul sito Internet dell’Organizzazione marittima internazionale (IMO): [www.imo.org/fr](https://www.imo.org/fr) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna <sup>a</sup> Non si applica alle Regioni amministrative speciali (SAR) di Hong Kong e Macao. <sup>b</sup> La Conv. non si applica alle Isole Faroe e alla Groenlandia. <sup>c</sup> Non si applica alla Parte europea dei Paesi Bassi.</td></tr>
+<tr><td>Vanuatu\*</td><td>16 ottobre</td><td>2025 A</td><td>16 gennaio</td><td>2026</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/fr](http://www.imo.org/fr) &gt; A propos de l’OMI &gt; Conventions &gt; Statut des conventions &gt; Carnet de suivi, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Non si applica alle Regioni amministrative speciali (SAR) di Hong Kong e Macao. <sup>b</sup> La Conv. non si applica alle Isole Faroe e alla Groenlandia. <sup>c</sup> Non si applica alla Parte europea dei Paesi Bassi.</td></tr>
 </table>
 
-[^t-1]: [RU 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627); [2025 136](https://fedlex.data.admin.ch/eli/oc/2025/136). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-1]: [RU 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627); [2025 136](https://fedlex.data.admin.ch/eli/oc/2025/136); [2026 407](https://fedlex.data.admin.ch/eli/oc/2026/407). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.

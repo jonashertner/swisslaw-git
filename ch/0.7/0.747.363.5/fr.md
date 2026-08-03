@@ -3,11 +3,11 @@ sr: "0.747.363.5"
 title: "Convention internationale du 18 mai 2007 de Nairobi sur l'enlèvement des épaves, 2007 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/454"
 language: fr
-version: 2025-02-25
+version: 2026-08-04
 adopted: 2007-05-18
 in_force: 2016-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/fedlex-data-admin-ch-eli-cc-2016-454-20250225-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20250225/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/fedlex-data-admin-ch-eli-cc-2016-454-20260804-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20260804/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument d’adhésion déposé par la Suisse le 16 mai 2016
 
 Entrée en vigueur pour la Suisse le 16 août 2016
 
-(État le 25 février 2025)
+(État le 4 août 2026)
 
 Les États parties à la présente Convention,
 
@@ -40,7 +40,7 @@ conscients de l’importance de la Convention des Nations Unies sur le droit de 
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
+[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
 
 #### Art. 1
 
@@ -142,8 +142,8 @@ Aux fins de la présente Convention:
 - b) Le par. 4 de l’art. 9, pour autant qu’il s’applique au territoire, y compris à la mer territoriale, d’un État Partie, se lit comme suit:
 - Sous réserve de la législation nationale de l’État affecté, le propriétaire inscrit peut passer un contrat avec une entreprise d’assistance ou une autre personne pour enlever l’épave dont il est établi qu’elle constitue un danger, pour le compte du propriétaire. Avant que l’enlèvement ne commence, l’État affecté peut en fixer les conditions seulement dans la mesure nécessaire pour s’assurer que l’opération se déroule d’une manière qui respecte les aspects liés à la sécurité et à la protection du milieu marin.
 
-[^4-1]: [RS 0.814.289](https://fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242)
-[^4-2]: [RS 0.814.289.1](https://fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498)
+[^4-1]: [RS 0.814.289](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3523)
+[^4-2]: [RS 0.814.289.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3524)
 
 #### Art. 5
 
@@ -256,7 +256,7 @@ Sous réserve de l’art. 11, le propriétaire inscrit est tenu de payer les fra
 
 <sup>4.</sup> Aucune disposition du présent article ne porte atteinte au droit de recours contre des tiers.
 
-[^10-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^10-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 11
 
@@ -273,8 +273,8 @@ Le propriétaire inscrit n’est pas tenu, en vertu de la présente Convention, 
 
 <sup>2.</sup> Pour autant que les mesures prises en vertu de la présente Convention soient considérées comme des opérations d’assistance en vertu de la législation nationale applicable ou d’une convention internationale, cette législation ou convention s’applique aux questions de la rémunération ou de l’indemnisation des entreprises d’assistance à l’exclusion des règles de la présente Convention.
 
-[^11-1]: [RS 0.814.291](https://fedlex.data.admin.ch/eli/cc/1988/1444_1444_1444)
-[^11-2]: [RS 0.814.294](https://fedlex.data.admin.ch/eli/cc/2013/888)
+[^11-1]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526)
+[^11-2]: [RS 0.814.294](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3531)
 
 #### Art. 12
 
@@ -327,7 +327,7 @@ Un certificat attestant qu’une assurance ou autre garantie financière est en 
 
 <sup>14.</sup> Si un navire appartenant à un État Partie n’est pas couvert par une assurance ou autre garantie financière, les dispositions pertinentes du présent article ne lui sont pas applicables; ce navire doit toutefois être muni d’un certificat délivré par l’autorité compétente de l’État d’immatriculation qui atteste que le navire appartient à cet État et que sa responsabilité est couverte dans les limites prescrites au par. 1. Ce certificat suit d’aussi près que possible le modèle prescrit au par. 2.
 
-[^12-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/eli/cc/1988/1615_1615_1615)
+[^12-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 #### Art. 13
 
@@ -420,7 +420,7 @@ Le Secrétaire général:
 
 <sup>3.</sup> Dès l’entrée en vigueur de la présente Convention, le Secrétaire général en transmet une copie certifiée conforme au Secrétaire général de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’Art. 102 de la Charte des Nations Unies[^20-1].
 
-[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^20-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 21
 
@@ -440,7 +440,7 @@ Annexe
 <tr><td>Nom du navire</td><td>Jauge brute</td><td>Lettres ou numéro distinctifs d’identification du navire</td><td>Numéro OMI d’identification du navire</td><td>Port d’immatriculation</td><td>Nom et adresse complète de l’établissement principal du propriétaire inscrit</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20250225/fr/xml/image/image1.png)Il est certifié que le navire susmentionné est couvert par une police d’assurance ou autre garantie financière satisfaisant aux prescriptions de l’art. 12 de la Convention internationale de Nairobi sur l’enlèvement des épaves, 2007.
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/image/image2.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/image/image1.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20260804/fr/xml/image/image1.png)Il est certifié que le navire susmentionné est couvert par une police d’assurance ou autre garantie financière satisfaisant aux prescriptions de l’art. 12 de la Convention internationale de Nairobi sur l’enlèvement des épaves, 2007.
 
 Type de garantie
 
@@ -475,7 +475,7 @@ Par
 <tr><td>(lieu)</td><td></td><td>(date)</td></tr>
 </table>
 
-*(signature et titre du fonctionnaire qui délivré ou vise le* *certificat)*
+*(signature et titre du fonctionnaire qui délivré ou vise le certificat)*
 
 ### Notes explicatives:
 
@@ -489,7 +489,7 @@ Par
 
 \5. Dans la rubrique «Adresse de l’assureur (ou des assureurs) et/ou du garant (ou des garants)», il convient d’indiquer l’adresse de l’établissement principal de l’assureur (ou des assureurs) et/ou du garant (ou des garants). Si nécessaire, il convient d’indiquer le lieu de l’établissement auprès duquel l’assurance ou la garantie a été souscrite.
 
-Champ d’application le 25 février 2025[^t-1]
+Champ d’application le 4 août 2026[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -499,10 +499,12 @@ Champ d’application le 25 février 2025[^t-1]
 <tr><td>Antigua-et-Barbuda\*</td><td>9 janvier</td><td>2015 A</td><td>14 avril</td><td>2015</td></tr>
 <tr><td>Arabie Saoudite</td><td>18 juillet</td><td>2019 A</td><td>18 octobre</td><td>2019</td></tr>
 <tr><td>Bahamas\*</td><td>5 juin</td><td>2015 A</td><td>5 septembre</td><td>2015</td></tr>
+<tr><td>Bangladesh\*</td><td>6 juillet</td><td>2026 A</td><td>6 octobre</td><td>2026</td></tr>
 <tr><td>Barbade\*</td><td>23 juillet</td><td>2024 A</td><td>23 octobre</td><td>2024</td></tr>
 <tr><td>Bélarus</td><td>5 septembre</td><td>2019 A</td><td>5 décembre</td><td>2019</td></tr>
 <tr><td>Belgique</td><td>17 janvier</td><td>2017 A</td><td>17 avril</td><td>2017</td></tr>
 <tr><td>Belize\*</td><td>17 janvier</td><td>2018 A</td><td>17 avril</td><td>2018</td></tr>
+<tr><td>Brésil</td><td>9 juillet</td><td>2026 A</td><td>9 octobre</td><td>2026</td></tr>
 <tr><td>Bulgarie\*</td><td>8 février</td><td>2012 A</td><td>14 avril</td><td>2015</td></tr>
 <tr><td>Canada\*</td><td>30 avril</td><td>2019 A</td><td>30 juillet</td><td>2019</td></tr>
 <tr><td>Chine\* <sup>a</sup></td><td>11 novembre</td><td>2016 A</td><td>11 février</td><td>2017</td></tr>
@@ -513,15 +515,18 @@ Champ d’application le 25 février 2025[^t-1]
 <tr><td>Côte d’Ivoire</td><td>17 mars</td><td>2023 A</td><td>17 juin</td><td>2023</td></tr>
 <tr><td>Croatie\*</td><td>11 juillet</td><td>2017 A</td><td>11 octobre</td><td>2017</td></tr>
 <tr><td>Danemark\* <sup>b</sup></td><td>14 avril</td><td>2014</td><td>14 avril</td><td>2015</td></tr>
+<tr><td>Émirats arabes unis\*</td><td>24 septembre</td><td>2025 A</td><td>24 décembre</td><td>2025</td></tr>
 <tr><td>Estonie</td><td>29 juin</td><td>2020</td><td>29 septembre</td><td>2020</td></tr>
 <tr><td>Finlande\*</td><td>27 octobre</td><td>2016 A</td><td>27 janvier</td><td>2017</td></tr>
 <tr><td>France\*</td><td>4 février</td><td>2016</td><td>4 mai</td><td>2016</td></tr>
 <tr><td>Gabon</td><td>17 avril</td><td>2019 A</td><td>17 juillet</td><td>2019</td></tr>
 <tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 août</td><td>2022</td></tr>
+<tr><td>Guinée équatoriale\*</td><td>3 décembre</td><td>2025 A</td><td>3 mars</td><td>2026</td></tr>
 <tr><td>Guyana</td><td>20 février</td><td>2019 A</td><td>20 mai</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>15 février</td><td>2022 A</td><td>15 mai</td><td>2022</td></tr>
 <tr><td>Îles Cook</td><td>22 décembre</td><td>2014 A</td><td>14 avril</td><td>2015</td></tr>
 <tr><td>Îles Marshall\*</td><td>27 octobre</td><td>2014 A</td><td>14 avril</td><td>2015</td></tr>
+<tr><td>Îles Salomon</td><td>27 novembre</td><td>2025 A</td><td>27 février</td><td>2026</td></tr>
 <tr><td>Inde</td><td>23 mars</td><td>2011 A</td><td>14 avril</td><td>2015</td></tr>
 <tr><td>Indonésie</td><td>14 décembre</td><td>2020 A</td><td>14 mars</td><td>2021</td></tr>
 <tr><td>Iran</td><td>19 avril</td><td>2011 A</td><td>14 avril</td><td>2015</td></tr>
@@ -541,7 +546,7 @@ Champ d’application le 25 février 2025[^t-1]
 <tr><td>Nauru</td><td>23 mars</td><td>2020 A</td><td>23 juin</td><td>2020</td></tr>
 <tr><td>Nigéria</td><td>23 juillet</td><td>2009 A</td><td>14 avril</td><td>2015</td></tr>
 <tr><td>Nioué\*</td><td>27 avril</td><td>2015 A</td><td>27 juillet</td><td>2015</td></tr>
-<tr><td>Norvège</td><td>11 novembre</td><td>2024 A</td><td>11 février</td><td>2025</td></tr>
+<tr><td>Norvège\*</td><td>11 novembre</td><td>2024 A</td><td>11 février</td><td>2025</td></tr>
 <tr><td>Oman</td><td>30 avril</td><td>2020 A</td><td>30 juillet</td><td>2020</td></tr>
 <tr><td>Pakistan</td><td>17 juin</td><td>2022 A</td><td>17 septembre</td><td>2022</td></tr>
 <tr><td>Palaos</td><td>29 septembre</td><td>2011 A</td><td>14 avril</td><td>2015</td></tr>
@@ -565,12 +570,14 @@ Champ d’application le 25 février 2025[^t-1]
 <tr><td>Seychelles</td><td>28 novembre</td><td>2023 A</td><td>28 février</td><td>2024</td></tr>
 <tr><td>Sierra Leone</td><td>22 novembre</td><td>2019 A</td><td>22 février</td><td>2020</td></tr>
 <tr><td>Singapour</td><td>8 juin</td><td>2017 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Somalie\*</td><td>26 juin</td><td>2026 A</td><td>26 septembre</td><td>2026</td></tr>
 <tr><td>Suisse</td><td>16 mai</td><td>2016 A</td><td>16 août</td><td>2016</td></tr>
 <tr><td>Suède\*</td><td>3 novembre</td><td>2017 A</td><td>3 février</td><td>2018</td></tr>
 <tr><td>Togo</td><td>20 mars</td><td>2015 A</td><td>20 juin</td><td>2015</td></tr>
 <tr><td>Tonga</td><td>17 mai</td><td>2022 A</td><td>17 août</td><td>2022</td></tr>
 <tr><td>Tuvalu</td><td>17 février</td><td>2015 A</td><td>17 mai</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Conv. ne s’applique pas aux régions administratives spéciales (SAR) de Hong Kong et Macao. <sup>b</sup> La Conv. ne s’applique pas aux Îles Féroé et au Groenland. <sup>c</sup> La Conv. ne s’applique qu’à la partie européenne des Pays-Bas.</td></tr>
+<tr><td>Vanuatu\*</td><td>16 octobre</td><td>2025 A</td><td>16 janvier</td><td>2026</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/fr](http://www.imo.org/fr) &gt; A propos de l’OMI &gt; Conventions &gt; Statut des conventions &gt; Carnet de suivi, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Conv. ne s’applique pas aux régions administratives spéciales (SAR) de Hong Kong et Macao. <sup>b</sup> La Conv. ne s’applique pas aux Îles Féroé et au Groenland. <sup>c</sup> La Conv. ne s’applique qu’à la partie européenne des Pays-Bas.</td></tr>
 </table>
 
-[^t-1]: [RO 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627); [2025 136](https://fedlex.data.admin.ch/eli/oc/2025/136). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-1]: [RO 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627); [2025 136](https://fedlex.data.admin.ch/eli/oc/2025/136); [2026 407](https://fedlex.data.admin.ch/eli/oc/2026/407). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
