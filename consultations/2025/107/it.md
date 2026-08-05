@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Attuazione a livello di ordinanza della revisione della legge sull’approvvigionamento elettrico (LAEl) concernente la riserva di energia elettrica
 document: Progetto posto in consultazione
 language: it

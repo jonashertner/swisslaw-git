@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Umsetzung der Revision des Stromversorgungsgesetzes (StromVG) zur Stromreserve auf Verordnungsstufe
 document: Vernehmlassungsvorlage
 language: de

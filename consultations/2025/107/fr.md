@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Mise en œuvre, au niveau de l’ordonnance, des modifications adoptées dans le cadre de la révision de la loi sur l’approvisionnement en électricité (LApEl) relatives à une réserve d’électricité"
 document: Projet mis en consultation
 language: fr
