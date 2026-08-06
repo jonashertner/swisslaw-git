@@ -3,11 +3,11 @@ sr: "0.975.224.5"
 title: Abkommen vom 24. September 1999 zwischen der Schweizerischen Eidgenossenschaft und der Republik Chile über die Förderung und den gegenseitigen Schutz von Investitionen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/146"
 language: de
-version: 2002-05-02
+version: 2026-08-07
 adopted: 1999-09-24
 in_force: 2002-05-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/146/20020502/de/xml/fedlex-data-admin-ch-eli-cc-2003-146-20020502-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/146/20020502/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/146/20260807/de/xml/fedlex-data-admin-ch-eli-cc-2003-146-20260807-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/146/20260807/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,9 +20,9 @@ Originaltext
 
 Abgeschlossen am 24. September 1999 In Kraft getreten durch Notenaustausch am 2. Mai 2002
 
-(Stand am 2. Mai 2002)
+(Stand am 7. August 2026)
 
-Präambel
+*Präambel*
 
 Die Schweizerische Eidgenossenschaft und die Republik Chile,
 
@@ -30,9 +30,11 @@ vom Wunsche geleitet, die wirtschaftliche Zusammenarbeit zwischen den beiden Sta
 
 im Bestreben, günstige Bedingungen für Investitionen von Investoren der einen Vertragspartei auf dem Gebiete der anderen Vertragspartei zu schaffen und zu erhalten,
 
-in der Erkenntnis, dass die Förderung und der Schutz von Investitionen zur Mehrung des wirtschaftlichen Wohlstandes in beiden Staaten beitragen,
+in der Erkenntnis, dass die Förderung und der Schutz von Investitionen zur Mehrung des wirtschaftlichen Wohlstandes in beiden Staaten beitragen,[^ingress-1]
 
 haben folgendes vereinbart:
+
+[^ingress-1]: Die Berichtigung vom 7. Aug. 2026 betrifft nur den italienischen Text ([AS 2026 409](https://fedlex.data.admin.ch/eli/oc/2026/409)).
 
 #### Art. 1
 
@@ -40,13 +42,17 @@ haben folgendes vereinbart:
 
 Für die Zwecke dieses Abkommens:
 
-<sup>(1)</sup> bezieht sich der Begriff «Investor» hinsichtlich beider Vertragsparteien auf
+<sup>(1)</sup>
+
+bezieht sich der Begriff «Investor» hinsichtlich beider Vertragsparteien auf:
 
 - (a) natürliche Personen, die gemäss der Gesetzgebung der betreffenden Vertragspartei als ihre Staatsangehörigen betrachtet werden;
 - (b) juristische Gebilde, einschliesslich Gesellschaften, Körperschaften, geschäftliche Vereinigungen und andere Organisationen, die nach dem Rechte der betreffenden Vertragspartei konstituiert oder sonstwie rechtmässig organisiert sind und ihren Sitz im Hoheitsgebiet derselben Vertragspartei haben und dort eine echte Wirtschaftstätigkeit entfalten;
 - (c) juristische Gebilde, die nach dem Recht eines beliebigen Staates gegründet sind und tatsächlich von Staatsangehörigen der betreffenden Vertragspartei oder von juristischen Gebilden kontrolliert werden, die ihren Sitz im Hoheitsgebiet der betreffenden Vertragspartei haben und dort eine echte Wirtschaftstätigkeit entfalten.
 
-<sup>(2)</sup> umfasst der Begriff «Investitionen» alle Arten von Vermögenswerten und Guthaben, insbesondere
+<sup>(2)</sup>
+
+umfasst der Begriff «Investitionen» alle Arten von Vermögenswerten und Guthaben, insbesondere:
 
 - (a) bewegliche und unbewegliche Vermögenswerte sowie sämtliche dinglichen Rechte wie Dienstbarkeiten, Hypotheken, Pfandrechte und Nutzniessungen;
 - (b) Aktien, Anteile und andere Formen der Beteiligung an Gesellschaften;
@@ -180,19 +186,19 @@ Jede Vertragspartei gewährleistet zu jedem Zeitpunkt die Einhaltung der durch s
 
 Geschehen zu Bern, am 24. September 1999, in sechs Originalen, zwei in deutscher, zwei in spanischer und zwei in englischer Sprache, wobei jeder Text gleichermassen verbindlich ist. Im Falle von Abweichungen geht der englische Text vor.
 
-Protokoll
-
-Bei der Unterzeichnung des Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Republik Chile über die Förderung und den gegenseitigen Schutz von Investitionen haben die bevollmächtigten Unterzeichner im weiteren die folgenden Bestimmungen vereinbart, die einen integrierenden Bestandteil dieses Abkommens bilden.
-
 <table>
 <tr><td>Für den Schweizerischen Bundesrat: David Syz</td><td>Für die Regierung der Republik Chile: Alejandro Jara Puga</td></tr>
 </table>
 
-## *Zu Art. 5*
+## Protokoll
+
+Bei der Unterzeichnung des Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Republik Chile über die Förderung und den gegenseitigen Schutz von Investitionen haben die bevollmächtigten Unterzeichner im weiteren die folgenden Bestimmungen vereinbart, die einen integrierenden Bestandteil dieses Abkommens bilden.
+
+### *Zu Art. 5*
 
 Ungeachtet der Bestimmungen des Artikels 5 behält sich die Republik Chile das Recht vor, die Kapitalrückführung erst nach Ablauf von einem Jahr seit dem Zeitpunkt der Einbringung des Kapitals durch den Investor zu erlauben. Schweizerische Investoren dürfen in Transferbelangen keinesfalls weniger günstig behandelt werden als Investoren irgend eines anderen Landes.
 
-## *Zu Art. 5 und 9*
+### *Zu Art. 5 und 9*
 
 Staatsangehörige der einen oder der anderen Vertragspartei, die ihren Wohnsitz im Hoheitsgebiet derjenigen Vertragspartei haben, in dem die Investition gelegen ist, können bezüglich Artikel 5 und 9 dieses Abkommens nur diejenige Behandlung geltend machen, die den Staatsangehörigen der letzteren Vertragspartei gewährt wird, es sei denn, ihre Investition wurde durch Kapital begründet, das von ausserhalb des Hoheitsgebietes der betreffenden Vertragspartei eingebracht wurde.
 

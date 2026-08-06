@@ -3,11 +3,11 @@ sr: "0.975.224.5"
 title: Accordo del 24 settembre 1999 tra la Confederazione Svizzera e la Repubblica del Cile concernente la promozione e la protezione reciproche degli investimenti (con Protocollo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/146"
 language: it
-version: 2002-05-02
+version: 2026-08-07
 adopted: 1999-09-24
 in_force: 2002-05-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/146/20020502/it/xml/fedlex-data-admin-ch-eli-cc-2003-146-20020502-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/146/20020502/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/146/20260807/it/xml/fedlex-data-admin-ch-eli-cc-2003-146-20260807-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/146/20260807/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,9 +20,9 @@ Traduzione
 
 Concluso il 24 settembre 1999 Entrato in vigore con scambio di note il 2 maggio 2002
 
-(Stato 2 maggio 2002)
+(Stato 7 agosto 2026)
 
-Preambolo
+*Preambolo*
 
 La Confederazione Svizzera e la Repubblica del Cile,
 
@@ -30,9 +30,11 @@ animati dal desiderio di rafforzare la cooperazione economica nel reciproco inte
 
 nell’intento di creare e mantenere condizioni favorevoli agli investimenti effettuati da investitori di una Parte contraente sul territorio dell’altra Parte,
 
-nell’intento di creare e mantenere condizioni favorevoli agli investimenti effettuati da investitori di una Parte contraente sul territorio dell’altra Parte,
+consapevoli della necessità di incoraggiare e proteggere gli investimenti esteri allo scopo di promuovere la prosperità economica dei due Stati,[^ingress-1]
 
 hanno convenuto quanto segue:
+
+[^ingress-1]: Correzione del 7 ago. 2026 ([RU 2026 409](https://fedlex.data.admin.ch/eli/oc/2026/409)).
 
 #### Art. 1
 

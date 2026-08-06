@@ -3,11 +3,11 @@ sr: "0.975.224.5"
 title: Accord du 24 septembre 1999 entre la Confédération suisse et la République du Chili concernant la promotion et la protection réciproque des investissements (avec prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/146"
 language: fr
-version: 2002-05-02
+version: 2026-08-07
 adopted: 1999-09-24
 in_force: 2002-05-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/146/20020502/fr/xml/fedlex-data-admin-ch-eli-cc-2003-146-20020502-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/146/20020502/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/146/20260807/fr/xml/fedlex-data-admin-ch-eli-cc-2003-146-20260807-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/146/20260807/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,9 +20,9 @@ Traduction
 
 Conclu le 24 septembre 1999 Entré en vigueur par échange de notes le 2 mai 2002
 
-(État le 2 mai 2002)
+(État le 7 août 2026)
 
-Préambule
+*Préambule*
 
 La Confédération suisse et la République du Chili,
 
@@ -30,9 +30,11 @@ désireuses d’intensifier la coopération économique dans l’intérêt mutue
 
 dans l’intention de créer et de maintenir des conditions favorables aux investissements des investisseurs d’une Partie contractante sur le territoire de l’autre Partie contractante,
 
-reconnaissant la nécessité d’encourager et de protéger les investissements étrangers en vue de promouvoir la prospérité économique des deux États,
+reconnaissant la nécessité d’encourager et de protéger les investissements étrangers en vue de promouvoir la prospérité économique des deux États,[^ingress-1]
 
 sont convenues de ce qui suit:
+
+[^ingress-1]: Erratum du 7 août 2026, ne concerne que le texte italien ([RO 2026 409](https://fedlex.data.admin.ch/eli/oc/2026/409)).
 
 #### Art. 1
 
