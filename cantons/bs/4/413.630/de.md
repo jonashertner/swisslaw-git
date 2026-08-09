@@ -4,13 +4,12 @@ number: "413.630"
 title: Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 short: Abschlussverordnung FMS
 language: de
-version: 2025-08-11
-valid_until: 2026-08-09
-version_adopted: 2025-04-15
+version: 2026-08-10
+version_adopted: 2024-01-09
 adopted: 2005-04-05
 in_force: 2005-08-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6589/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mittelschulen
 
 (Abschlussverordnung FMS)
 
-Vom 5. April 2005 (Stand 11. August 2025)
+Vom 5. April 2005 (Stand 10. August 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -60,9 +59,9 @@ beschliesst:
 
 **Zeitpunkt der Prüfungen**
 
-<sup>1</sup> Die Abschlussprüfungen zur Erlangung des Fachmittelschulausweises finden am Ende des 2. Semesters der 3. Klasse statt.
+<sup>1</sup> Die Abschlussprüfungen zur Erlangung des Fachmittelschulausweises finden am Ende der 3. Klasse statt.
 
-<sup>2</sup> Vorgezogene Prüfungen zum Fachmittelschulausweis am Ende des 2. Semesters der 2. Klasse sind in Geographie möglich.
+<sup>2</sup> Vorgezogene Prüfungen zum Fachmittelschulausweis am Ende der 2. Klasse sind in Geographie möglich.
 
 #### § 2a
 
@@ -88,7 +87,7 @@ beschliesst:
 
 **Examinatorinnen und Examinatoren**
 
-<sup>1</sup> Die Examinatorinnen und Examinatoren sind die Lehrkräfte der zu prüfenden Fächer an der Fachmaturitätsschule Basel-Stadt oder beigezogene Fachpersonen.
+<sup>1</sup> Die Examinierenden sind die Lehrpersonen der zu prüfenden Fächer an der Fachmaturitätsschule Basel-Stadt oder beigezogene Fachpersonen.
 
 <sup>2</sup> Die Examinatorinnen und Examinatoren stellen die Aufgaben für die schriftlichen, mündlichen und praktischen Prüfungen und unterbreiten diese zur Genehmigung der Prüfungsleitung.
 
@@ -164,7 +163,7 @@ beschliesst:
 
 **Prüfungsdauer**
 
-<sup>1</sup> Die schriftlichen Prüfungen dauern mindestens 1 Stunde, maximal 4 Stunden. Die mündlichen Prüfungen dauern pro Kandidatin oder Kandidat mindestens 15, maximal 20 Minuten. Die praktischen Prüfungen dauern mindestens 1 Stunde, maximal 4 Stunden.
+<sup>1</sup> Die schriftlichen Prüfungen dauern mindestens 1 Stunde, maximal 4 Stunden. Die mündlichen Prüfungen dauern für die Kandidierenden mindestens 15, maximal 30 Minuten. Die praktischen Prüfungen dauern mindestens 1 Stunde, maximal 4 Stunden.
 
 <sup>2</sup> Die Prüfungsleitung legt die Prüfungsdauer für die einzelnen Fächer fest.
 
@@ -174,19 +173,19 @@ beschliesst:
 
 **Leistungsbewertung**
 
-<sup>1</sup> Die Noten der Abschlussprüfungen, die Noten im Fachmittelschulausweis und im Fachmaturitätszeugnis werden durch ganze Noten (6 = sehr gut; 5 = gut; 4 = genügend; 3 = ungenügend, 2 = schlecht; 1 = sehr schlecht) und durch halbe Noten (5,5; 4,5; 3,5; 2,5; 1,5) bewertet. Noten unter 4 stehen für ungenügende Leistungen.
+<sup>1</sup> Für die Beurteilung der Leistungen in den Abschlussprüfungen, im Fachmittelschulausweis und im Fachmaturitätszeugnis werden ganze Noten (6 = sehr gut; 5 = gut; 4 = genügend; 3 = ungenügend, 2 = schlecht; 1 = sehr schlecht) und halbe Noten (5,5; 4,5; 3,5; 2,5; 1,5) verwendet. Noten unter 4 stehen für ungenügende Leistungen.
 
 <sup>1<sup>bis</sup></sup> International anerkannte Sprachzertifikate können angerechnet werden. Die Prüfungsleitung legt die Modalitäten der Anrechnung fest.
 
-<sup>2</sup> Bei Besonderen Schulanlässen ohne notenmässige Beurteilung (Projektwoche, Kulturprojekt, Studienreise, fachrichtungsspezifisches Praktikum) lauten die Bewertungen: «mit Auszeichnung erfüllt», «erfüllt» oder «nicht erfüllt». Das Prädikat «nicht erfüllt» steht für ungenügende Leistungen.
+<sup>2</sup> Bei Besonderen Schulanlässen ohne notenmässige Beurteilung (Projektwoche, Kulturprojekt, Studienreise) lauten die Bewertungen: «mit Auszeichnung erfüllt», «erfüllt» oder «nicht erfüllt». Das Prädikat «nicht erfüllt» steht für ungenügende Leistungen.
 
-<sup>3</sup> Das berufsfeldbezogene Praktikum der 2. Klasse wird mit dem Prädikat «absolviert» bestätigt.
+<sup>3</sup> Das berufsfeldbezogene Praktikum der 2. Klasse wird mit dem Prädikat «erfüllt» bestätigt.
 
 #### § 13
 
 **Noten der geprüften Fächer im Fachmittelschulausweis**
 
-<sup>1</sup> Die Noten im Fachmittelschulausweis der Fächer, in denen eine Prüfung stattfindet, errechnen sich aus dem arithmetischen Mittel der Erfahrungsnote und der Prüfungsnote des betreffenden Faches.
+<sup>1</sup> Die Noten im Fachmittelschulausweis der Fächer, in denen eine Prüfung stattfindet, errechnen sich aus dem arithmetischen Mittel der Erfahrungsnote und der Prüfungsnote des betreffenden Faches. In schriftlich und mündlich geprüften Fächern zählt die Erfahrungsnote doppelt.
 
 <sup>2</sup> Für die geprüften Fächerkombinationen wird im Fachmittelschulausweis eine Note pro Fächerkombination eingetragen.
 
@@ -196,9 +195,9 @@ beschliesst:
 
 **Zustandekommen der Noten der geprüften Fächer**
 
-<sup>1</sup> Die Erfahrungsnote eines geprüften Faches ist das ungerundete arithmetische Mittel aus den letzten beiden Zeugnisnoten des betreffenden Faches. Bei geprüften Fächerkombinationen ist die Erfahrungsnote das ungerundete arithmetische Mittel der jeweils zwei letzten Zeugnisnoten beider Fächer.
+<sup>1</sup> Die Erfahrungsnote eines geprüften Faches ist die letzte Zeugnisnote des betreffenden Faches. Bei geprüften Fächerkombinationen ist die Erfahrungsnote das ungerundete arithmetische Mittel der letzten Zeugnisnote jeden Faches.
 
-<sup>2</sup> Die Prüfungsnote ist die Note der praktischen Prüfung, der schriftlichen Prüfung oder das ungerundete arithmetische Mittel aus der schriftlichen und mündlichen Prüfung.
+<sup>2</sup> Die Prüfungsnote ist die Note der mündlichen oder praktischen Prüfung, der schriftlichen Prüfung oder das ungerundete arithmetische Mittel aus der schriftlichen und mündlichen Prüfung.
 
 <sup>3</sup> Ergibt die Berechnung der Note im Fachmittelschulausweis ein arithmetisches Mittel von ,25 bzw. ,75, wird auf die nächste halbe bzw. ganze Note aufgerundet.
 
@@ -216,17 +215,17 @@ beschliesst:
 
 **Zustandekommen der Noten der nicht geprüften Fächer**
 
-<sup>1</sup> Die Erfahrungsnote ist das arithmetische Mittel der beiden letzten Zeugnisnoten im betreffenden Fach.
+<sup>1</sup> Die Erfahrungsnote ist die letzte Zeugnisnote im betreffenden Fach.
 
-<sup>2</sup> Ergibt die Berechnung der Note für den Fachmittelschulausweis ein arithmetisches Mittel von ,25 bzw. ,75, wird auf die nächste halbe bzw. ganze Note aufgerundet.
+<sup>2</sup> …
 
 #### § 17
 
-**Erfahrungsnote und Noten im Fachmittelschulausweis bei Dispensation**
+**Eintrag im Fachmittelschulausweis bei Dispensation**
 
-<sup>1</sup> Ist eine Schülerin oder ein Schüler während des ganzen Schuljahres oder im 2. Semester des abschliessenden Unterrichtes eines Faches oder von den Besonderen Schulanlässen (Projektwoche, Kulturprojekt, Studienreise) dispensiert, erfolgt keine Leistungsbewertung. Der Eintrag im Fachmittelschulausweis lautet: dispensiert.
+<sup>1</sup> Kann aufgrund einer Dispensation im abschliessenden Schuljahr in einem Fach oder einem Besonderen Schulanlass (Projektwoche, Kulturprojekt, Studienreise) keine Leistungsbewertung erfolgen, lautet der Eintrag im Fachmittelschulausweis bei nicht geprüften Fächern und bei Besonderen Schulanlässen: dispensiert.
 
-<sup>2</sup> Ist eine Schülerin oder ein Schüler nur während des 1. Semesters des abschliessenden Unterrichtes eines Faches oder einer Fächerkombination dispensiert, wird bei nicht geprüften Fächern die letzte Zeugnisnote im betreffenden Fach als Note in den Fachmittelschulausweis gesetzt. Bei geprüften Fächern wird die letzte Zeugnisnote im betreffenden Fach zur Erfahrungsnote.
+<sup>2</sup> …
 
 #### § 18
 
@@ -234,7 +233,7 @@ beschliesst:
 
 <sup>1</sup> Im Laufe der 2. und 3. Klasse erstellen alle Schülerinnen und Schüler eine schriftlich kommentierte selbstständige Arbeit, welche zu präsentieren ist. Der Kommentar erläutert den Entstehungsprozess der Arbeit.
 
-<sup>2</sup> Als eine Bedingung zur Erlangung der Fachmaturität wird eine Fachmaturitätsarbeit erstellt, welche aus einem schriftlichen/praktischen Teil und einer mündlichen Präsentation besteht.
+<sup>2</sup> Als eine Bedingung zur Erlangung der Fachmaturität wird eine Fachmaturitätsarbeit erstellt, welche aus einem schriftlichen/praktischen Teil und einer mündlichen Präsentation mit Fachgespräch besteht.
 
 <sup>3</sup> Die selbstständige Arbeit bzw. die Fachmaturitätsarbeit kann alleine oder bei einem geeigneten Thema zu zweit erstellt werden. Über die Zulassung der gemeinsamen Erstellung einer selbstständigen Arbeit bzw. Fachmaturitätsarbeit entscheidet die Prüfungsleitung.
 
@@ -246,28 +245,26 @@ beschliesst:
 
 **Bewertung der selbstständigen Arbeit/Fachmaturitätsarbeit**
 
-<sup>1</sup> Die selbstständige Arbeit bzw. die Fachmaturitätsarbeit wird mit einer Note bewertet. Die Note der Fachmaturitätsarbeit setzt sich zusammen aus je einer Note für den schriftlichen/praktischen Teil sowie für die Präsentation.
+<sup>1</sup> Die selbstständige Arbeit bzw. die Fachmaturitätsarbeit wird mit einer Note bewertet. Die Note der Fachmaturitätsarbeit setzt sich zusammen aus je einer Note für den schriftlichen/praktischen Teil sowie für die Präsentation bzw. Präsentation mit Fachgespräch.
 
 <sup>2</sup> …
 
 <sup>3</sup> Wer den Abgabetermin aus triftigem Grunde nicht einhalten kann, hat vor Ablauf des Abgabetermins ein Gesuch um Fristverlängerung an die Prüfungsleitung einzureichen. Nicht oder zu spät eingereichte selbstständige Arbeiten bzw. Fachmaturitätsarbeiten werden mit der Note 1 bewertet. Bei zu spät eingereichten selbstständigen Arbeiten bzw. Fachmaturitätsarbeiten bleiben begründete Ausnahmen vorbehalten.
 
-<sup>4</sup> Wer die Präsentation der Fachmaturitätsarbeit aus triftigen Gründen nicht antreten kann, hat dies der Prüfungsleitung umgehend mitzuteilen und im Falle von gesundheitlichen Gründen umgehend ein Arztzeugnis einzureichen. Ohne triftigen Grund nicht angetretene Präsentationen werden mit der Note 1 bewertet.
+<sup>4</sup> Wer die Präsentation der Fachmaturitätsarbeit mit Fachgespräch aus triftigen Gründen nicht antreten kann, hat dies der Prüfungsleitung umgehend mitzuteilen und im Falle von gesundheitlichen Gründen umgehend ein ärztliches Zeugnis einzureichen. Ohne triftigen Grund nicht angetretene Präsentationen mit Fachgespräch werden mit der Note 1 bewertet.
 
 #### § 20
 
 **Bestehen des Fachmittelschulabschlusses**
 
-<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn[^20-1]:
+<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn:
 
 - a) der Durchschnitt aus allen Abschlussnoten inkl. der Note der selbstständigen Arbeit mindestens 4,0 beträgt
 - b) höchstens drei Noten ungenügend sind
 - c) die Summe aller Notenabweichungen von 4,0 nach unten nicht mehr als 2,0 beträgt und
-- d) die Besonderen Schulanlässe (Projektwoche, Land- und Sozialpraktikum, Kulturprojekt, berufsfeldbezogenes Praktikum, Studienreise) absolviert worden sind.
+- d) die Besonderen Schulanlässe (Projektwoche, allgemeine Praxiswochen, Kulturprojekt, Studienreise) absolviert und das berufsfeldbezogene Praktikum erfüllt wurden.
 
 <sup>2</sup> Dispensationen haben keinen Einfluss auf das Bestehen.
-
-[^20-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern und -buchstaben.
 
 #### § 21
 
@@ -283,7 +280,7 @@ beschliesst:
 
 **Abschlusskonferenz, Validierung der Noten**
 
-<sup>1</sup> Nach der Prüfung führt die Prüfungsleitung mit den Examinatorinnen und Examinatoren, den Expertinnen und Experten, den Betreuungspersonen der selbstständigen Arbeiten sowie denjenigen Lehrkräften, die in den nicht geprüften Fächern den abschliessenden Unterricht erteilt haben, eine Abschlusskonferenz durch.
+<sup>1</sup> Nach der Prüfung führt die Prüfungsleitung mit den Examinierenden, den Expertinnen und Experten, den Betreuungspersonen der selbstständigen Arbeiten sowie denjenigen Lehrpersonen, die in den nicht geprüften Fächern den abschliessenden Unterricht erteilt haben, eine Abschlusskonferenz durch.
 
 <sup>2</sup> An der Abschlusskonferenz werden die Leistungsbewertungen für den Fachmittelschulausweis überprüft und validiert.
 
@@ -303,7 +300,7 @@ beschliesst:
 
 **Unerlaubte Hilfsmittel und andere Unredlichkeiten**
 
-<sup>1</sup> Die erlaubten Hilfsmittel werden von den prüfenden Lehrkräften rechtzeitig bekanntgegeben.
+<sup>1</sup> Die erlaubten Hilfsmittel werden von den prüfenden Lehrpersonen rechtzeitig bekanntgegeben.
 
 <sup>2</sup> Bei der selbstständigen Arbeit bzw. der Fachmaturitätsarbeit und den Abschlussprüfungen können die Benutzung unerlaubter Hilfsmittel, die versuchte Benutzung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit zu Massnahmen bis zur Verweigerung des Fachmittelschulausweises bzw. Fachmaturitätszeugnisses führen.
 
@@ -337,7 +334,7 @@ beschliesst:
 
 <sup>5</sup> Zur Erlangung des Fachmittelschulausweises sind nur zwei Versuche zulässig.
 
-<sup>6</sup> Erfolgt in der 3. Klasse eine freiwillige Repetition nach dem 1. Semester, so gilt dies als erster gescheiterter Versuch, den Fachmittelschulausweis zu erlangen.
+<sup>6</sup> Erfolgt in der 3. Klasse eine freiwillige Repetition nach den Herbstferien, so gilt dies als erster gescheiterter Versuch, den Fachmittelschulausweis zu erlangen.
 
 #### § 27
 
@@ -376,7 +373,7 @@ beschliesst:
 <sup>1</sup> Das Fachmaturitätszeugnis enthält:
 
 - a) die Bezeichnung der Schule und die gewählte Fachrichtung,
-- b) den Vermerk «gesamtschweizerisch anerkannter Fachmaturität»,
+- b) den Vermerk «gesamtschweizerisch anerkannte Fachmaturität»,
 - c) den Namen, Vornamen, Bürgerort/Staatsangehörigkeit und Geburtsdatum der Absolventin oder des Absolventen,
 - d) die Abschlussnoten der Fächer der Allgemeinbildung,
 - e) die Abschlussnoten der berufsfeldbezogenen Fächer,
@@ -410,5 +407,11 @@ beschliesst:
 <sup>3</sup> Schülerinnen und Schüler, welche die Abschlussprüfungen im Jahre 2007 wiederholen, werden nach der bisherigen Verordnung über die Diplomprüfungen der Diplommittelschule Basel-Stadt vom 9. Mai 2000 geprüft.
 
 <sup>4</sup> Diese Verordnung ist zu publizieren; sie wird auf Beginn des Schuljahres 2005/2006 am 15. August 2005 wirksam.
+
+#### § 32
+
+**Übergangsregelung zur Einführung der Jahrespromotion an der FMS**
+
+<sup>1</sup> Schülerinnen und Schüler, die die Abschlussprüfung am Ende des Schuljahres 2025/26 nicht bestehen und diese im Schuljahr 2026/27 wiederholen, absolvieren die Wiederholungsprüfung nach den neuen Bestimmungen.
 
 KB 09.04.2005
