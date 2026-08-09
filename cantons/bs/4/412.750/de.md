@@ -1,27 +1,26 @@
 ---
 canton: BS
 number: "412.750"
-title: Verordnung über die Schulung und Förderung von Schülerinnen und Schülern mit besonderem Bildungsbedarf sowie die Spitalschulung
-short: "Sonderpädagogik- und Spitalschulverordnung, SPSSV"
+title: Verordnung über die Schulung und Förderung von Schülerinnen und Schülern mit besonderem Bildungsbedarf
+short: "Sonderpädagogikverordnung, SPV"
 language: de
-version: 2024-08-12
-valid_until: 2026-08-09
-version_adopted: 2025-01-28
+version: 2026-08-10
+version_adopted: 2026-05-12
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/412.750"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6551/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6826/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Schulung und Förderung von Schülerinnen und Schülern mit besonderem Bildungsbedarf sowie die Spitalschulung
+# Verordnung über die Schulung und Förderung von Schülerinnen und Schülern mit besonderem Bildungsbedarf
 
 Sonderpädagogik: Verordnung | Kindergärten / Primarschulen / Förderangebote
 
-(Sonderpädagogik- und Spitalschulverordnung, SPSSV)
+(Sonderpädagogikverordnung, SPV)
 
-Vom 21. Dezember 2010 (Stand 12. August 2024)
+Vom 21. Dezember 2010 (Stand 10. August 2026)
 
 Der Regierungsrat,
 
@@ -419,13 +418,11 @@ beschliesst:
 - d) die Leistungsanbieterin oder der Leistungsanbieter verfolgt einen gemeinnützigen Zweck;
 - e) die operative und strategische Leitung der nichtstaatlichen Leistungsanbieterin oder des nichtstaatlichen Leistungsanbieters sind personell getrennt.
 
-## VIII<sup>bis</sup>. Spitalschulung
+## VIII<sup>bis</sup>.
 
 #### § 26a
 
-<sup>1</sup> Für Schülerinnen und Schüler mit Aufenthaltsort im Kanton Basel-Stadt ist der Besuch eines Spitalschulangebots kostenlos.
-
-<sup>2</sup> In ihrem Zuständigkeitsbereich erteilen die Leiterin oder der Leiter Volksschulen, die Leiterin oder der Leiter Mittelschulen und Berufsbildung oder die zuständige Stelle der Gemeinden auf begründetes Gesuch der Spitalschulleitung hin Kostengutsprache für die Schulung und Förderung einer Schülerin oder eines Schülers mit Aufenthalt im Kanton Basel-Stadt in einem ausserkantonalen Spital oder einer ausserkantonalen Klinik.
+**…**
 
 ## IX. Zuständigkeiten
 
