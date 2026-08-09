@@ -1,24 +1,23 @@
 ---
 canton: BS
 number: "423.200"
-title: Verordnung über den Lehrgang «Frühe sprachliche Förderung – Schwerpunkt Deutsch»
+title: Verordnung über den Lehrgang «Frühe sprachliche Förderung – Schwerpunkt frühe Sprachbildung»
 language: de
-version: 2009-08-10
-valid_until: 2026-08-09
-version_adopted: 2010-06-22
+version: 2026-08-10
+version_adopted: 2026-05-12
 adopted: 2010-06-22
 in_force: 2009-08-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/423.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3583/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Lehrgang «Frühe sprachliche Förderung – Schwerpunkt Deutsch»
+# Verordnung über den Lehrgang «Frühe sprachliche Förderung – Schwerpunkt frühe Sprachbildung»
 
 Lehrgang «Frühe Sprachförderung Deutsch»: Verordnung | Berufsfachschule
 
-Vom 22. Juni 2010 (Stand 10. August 2009)
+Vom 22. Juni 2010 (Stand 10. August 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -35,15 +34,15 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> An der Berufsfachschule Basel (BFS Basel) wird der Lehrgang «Frühe sprachliche Förderung – Schwerpunkt Deutsch» (LfsF) geführt.
+<sup>1</sup> An der Berufsfachschule Basel (BFS Basel) wird der Lehrgang «Frühe sprachliche Förderung – Schwerpunkt frühe Sprachbildung» (LfsF) geführt.
 
 #### § 2
 
 **Lehrgang**
 
-<sup>1</sup> Der LfsF wird berufsbegleitend geführt und dauert 4 Semester.
+<sup>1</sup> Der LfsF wird berufsbegleitend geführt und dauert 2 Semester.
 
-<sup>2</sup> Der LfsF vermittelt die beruflichen Handlungskompetenzen, damit Fachpersonen in Tagesheimen, Spielgruppen und anderen Institutionen Kinder bis 4 Jahre professionell sprachlich fördern können.
+<sup>2</sup> Der LfsF vermittelt die beruflichen Handlungskompetenzen, damit Fachpersonen in Kindertagesstätten, Spielgruppen und anderen Institutionen Kinder bis maximal 6 Jahre professionell sprachlich fördern können.
 
 #### § 3
 
@@ -129,7 +128,7 @@ beschliesst:
 
 <sup>1</sup> Für die Aufnahme in den LfsF werden verlangt:
 
-- a) Abgeschlossene Berufslehre mit eidgenössischem Fähigkeitszeugnis oder eine gleichwertige Ausbildung auf der Sekundarstufe II;
+- a) eine Ausbildung als Fachperson Betreuung mit eidgenössischem Fähigkeitszeugnis (Fachrichtung Kinder), eine abgeschlossene einschlägige Berufslehre mit eidgenössischem Fähigkeitszeugnis, eine gleichwertige Ausbildung auf der Sekundarstufe II oder eine pädagogische Weiterbildung im von der Leitung LfsF festgelegten Umfang;
 - b) Berufserfahrung: Mindestens 3-jährige aktive Tätigkeit als Betreuungsperson in einem Tagesheim, in einer Spielgruppe oder in einer vergleichbaren Institution;
 - c) Bestehen des Aufnahmeverfahrens.
 
@@ -165,13 +164,13 @@ beschliesst:
 
 **Zeitpunkt und Gegenstand der Abschlussbeurteilung**
 
-<sup>1</sup> Die Abschlussbeurteilung findet in der Regel im 4. Semester des LfsF statt.
+<sup>1</sup> Die Abschlussbeurteilung findet am Ende des 2. Semesters des LfsF statt.
 
-<sup>2</sup> Gegenstand der Abschlussbeurteilung ist eine von den Lernenden zu führende Lerndokumentation, welche aus den folgenden Teilen besteht:
+<sup>2</sup> Gegenstand der Abschlussbeurteilung ist ein von den Lernenden zu führendes Portfolio, welches aus den folgenden Teilen besteht:
 
 - a) Reflexion des Lernprozesses;
-- b) Sprachfördereinheit;
-- c) Fallgeschichte;
+- b) Fallgeschichte;
+- c) Sprachfördereinheit;
 - d) Praxisbesuch.
 
 <sup>3</sup> Die Leitung LfsF regelt, soweit nicht in dieser Verordnung festgelegt, das Qualifikationsverfahren in einer Wegleitung.
@@ -180,31 +179,31 @@ beschliesst:
 
 **Zulassung zur Abschlussbeurteilung**
 
-<sup>1</sup> Zur Abschlussbeurteilung werden alle Teilnehmerinnen und Teilnehmer des LfsF zugelassen, welche eine Lerndokumentation eingereicht und die Präsenzpflicht erfüllt haben.
+<sup>1</sup> Zur Abschlussbeurteilung werden alle Teilnehmenden des LfsF zugelassen, welche ein Portfolio eingereicht und die Präsenzpflicht erfüllt haben.
 
-<sup>2</sup> Für einen erfolgreichen Abschluss des LfsF wird eine Präsenzpflicht von 100% verlangt. Kompensationsmöglichkeiten können vereinbart werden.
+<sup>2</sup> Für einen erfolgreichen Abschluss des LfsF wird eine Präsenzpflicht von 100 % verlangt. Kompensationsmöglichkeiten können mit den Dozierenden oder der Leitung LfsF vereinbart werden.
 
 #### § 16
 
-**Bewertung der Lerndokumentation**
+**Bewertung des Portfolios**
 
-<sup>1</sup> Die Lerndokumentation wird durch die Examinatorin oder den Examinator und durch die Expertin oder den Experten bewertet.
+<sup>1</sup> Das Portfolio wird durch die Examinierenden und durch die Expertinnen oder Experten bewertet.
 
-<sup>2</sup> Die einzelnen Teile der Lerndokumentation und die Lerndokumentation als solche werden mit dem Prädikat «Anforderungen nicht erfüllt», «Anforderungen knapp erfüllt», «Anforderungen erfüllt» oder «Anforderungen in hohem Masse erfüllt» bewertet und werden für die Gesamtbeurteilung gleich gewichtet.
+<sup>2</sup> Die einzelnen Teile des Portfolios und das Portfolio als solches werden mit dem Prädikat «Grundanforderungen nicht erreicht», «Grundanforderungen erreicht», «mittlere Anforderungen erreicht» oder «hohe Anforderungen erreicht» bewertet und werden für die Gesamtbeurteilung gleich gewichtet.
 
 #### § 17
 
 **Bestehen des LfsF**
 
-<sup>1</sup> Der LfsF gilt als bestanden, wenn für die Abschlussbeurteilung mindestens eine Gesamtbeurteilung mit dem Prädikat «Anforderungen erfüllt» vorliegt.
+<sup>1</sup> Der LfsF gilt als bestanden, wenn für die Abschlussbeurteilung mindestens eine Gesamtbeurteilung mit dem Prädikat «Grundanforderungen erreicht» vorliegt.
 
-<sup>2</sup> Weder ein einzelner Teil der Lerndokumentation noch die Lerndokumentation als solche dürfen das Prädikat «Anforderungen nicht erfüllt» ausweisen.
+<sup>2</sup> Weder ein einzelner Teil des Portfolios noch das Portfolio als solches dürfen das Prädikat «Grundanforderungen nicht erreicht» ausweisen.
 
 #### § 18
 
 **Zertifikatsbeurteilung**
 
-<sup>1</sup> Für alle Teilnehmerinnen und Teilnehmer des LfsF besteht die Zertifikatsbeurteilung aus einer Gesamtbeurteilung mit den folgenden Prädikaten: «Anforderungen nicht erfüllt», «Anforderungen knapp erfüllt», «Anforderungen erfüllt» oder «Anforderungen in hohem Masse erfüllt».
+<sup>1</sup> Für alle Teilnehmenden des LfsF besteht die Zertifikatsbeurteilung aus einer Gesamtbeurteilung mit den folgenden Prädikaten: «Grundanforderungen nicht erreicht», «Grundanforderungen erreicht», «mittlere Anforderungen erreicht» oder «hohe Anforderungen erreicht».
 
 #### § 19
 
@@ -254,15 +253,17 @@ beschliesst:
 
 <sup>1</sup> Wer den LfsF besteht, erhält ein kantonales Zertifikat, das den Besuch einer berufsorientierten Weiterbildung auf Tertiärstufe ausweist.
 
-<sup>2</sup> Im Zertifikat wird die Gesamtbeurteilung aufgeführt. Es wird von der Vorsteherin oder dem Vorsteher des Erziehungsdepartementes unterzeichnet.
+<sup>2</sup> Das Zertifikat wird von der Vorsteherin oder dem Vorsteher des Erziehungsdepartementes unterzeichnet.
 
-<sup>3</sup> Der erfolgreiche Abschluss des LfsF führt zum kantonalen Titel Fachfrau/Fachmann Frühe Sprachförderung Deutsch.
+<sup>3</sup> Der erfolgreiche Abschluss des LfsF führt zum kantonalen Titel «Fachfrau/Fachmann Frühe Sprachförderung – Schwerpunkt frühe Sprachbildung».
 
 #### § 24
 
 **Kursgeld und sonstige Gebühren**
 
-<sup>1</sup> Das Kursgeld und sonstige Gebühren für den LfsF richten sich nach der Kursgeldverordnung für kantonale Berufsfachschulen vom 5. August 2008.
+<sup>1</sup> Das Kursgeld und sonstige Gebühren für den LfsF richten sich nach der Verordnung über Studien-, Kurs- und Verwaltungsgebühren in der kantonalen Berufsbildung (Gebührenverordnung Berufsbildung) vom 8. Mai 2018[^24-1].
+
+[^24-1]: SG [419.300](https://www.gesetzessammlung.bs.ch/data/419.300/de)
 
 ## IV. Rechtsmittel
 
@@ -270,7 +271,13 @@ beschliesst:
 
 <sup>1</sup> Gegen Verfügungen, die im Rahmen dieser Verordnung ergangen sind, kann nach den Bestimmungen des Organisationsgesetzes vom 22. April 1976 an die Vorsteherin oder den Vorsteher des Erziehungsdepartementes rekurriert werden.
 
-## V. Schlussbestimmung
+## V. Übergangs- und Schlussbestimmungen
+
+#### § 25a
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Für die Teilnehmenden, die im Schuljahr 2025/2026 mit dem vier Semester dauernden Lehrgang begonnen haben, gilt die Verordnung in der Fassung vom 10. August 2009.
 
 #### § 26
 
