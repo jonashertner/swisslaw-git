@@ -4,24 +4,23 @@ number: "410.910"
 title: Verordnung über die auswärtigen Schulanlässe der Schulen des Kantons Basel-Stadt
 short: Verordnung auswärtige Schulanlässe
 language: de
-version: 2014-08-18
-valid_until: 2026-08-09
-version_adopted: 2014-07-01
+version: 2026-08-10
+version_adopted: 2026-08-11
 adopted: 2014-07-01
 in_force: 2014-08-18
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.910"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2997/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6878/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die auswärtigen Schulanlässe der Schulen des Kantons Basel-Stadt
 
-Auswärtige Schulanlässe. V | Schulen
+Schulen
 
 (Verordnung auswärtige Schulanlässe)
 
-Vom 1. Juli 2014 (Stand 18. August 2014)
+Vom 1. Juli 2014 (Stand 10. August 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -231,9 +230,9 @@ beschliesst:
 
 **Finanzierung der auswärtigen Schulanlässe**
 
-<sup>1</sup> Die Kosten für die Teilnahme an einem auswärtigen Schulanlass sind von den Erziehungsberechtigten, den Schülerinnen, Schülern und Lernenden zu tragen.
+<sup>1</sup> In den Volksschulen können für die Teilnahme an einem obligatorischen auswärtigen Schulanlass den Erziehungsberechtigten die Kosten für die Verpflegung der Schülerinnen und Schüler in Rechnung gestellt werden.
 
-<sup>2</sup> An die Kosten für Projekttage mit auswärtiger Übernachtung, Schulkolonien und Schulsportlager werden staatliche Beiträge ausgerichtet und bei der Festsetzung der Höhe der nach Abs. 1 zu bezahlenden Beiträge angerechnet.
+<sup>2</sup> In den weiterführenden Schulen werden von den Erziehungsberechtigten bzw. den Schülerinnen und Schülern oder den Lernenden angemessene Beiträge an die Kosten für die Teilnahme an einem auswärtigen Schulanlass erhoben.
 
 #### § 21
 
