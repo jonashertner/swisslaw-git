@@ -3,13 +3,12 @@ canton: BS
 number: "410.100"
 title: Schulgesetz
 language: de
-version: 2024-08-12
-valid_until: 2026-08-09
-version_adopted: 2024-09-18
+version: 2026-08-10
+version_adopted: 2025-10-22
 adopted: 1929-04-04
 in_force: 1929-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6481/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/7013/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6481/pdf_file"
 
 Schulen
 
-Vom 4. April 1929 (Stand 12. August 2024)
+Vom 4. April 1929 (Stand 10. August 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -566,6 +565,10 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 
 <sup>3</sup> Er wird so gestaltet, dass den Schülerinnen und Schülern grundlegende Kenntnisse und Kompetenzen gleichzeitig in fachspezifischen und in überfachlichen Bildungsbereichen vermittelt werden.
 
+<sup>4</sup> Er findet in Jahrgangs- oder Mehrjahrgangsklassen statt.
+
+<sup>5</sup> Er kann in den Sekundarschulen in anderen, insbesondere auch in leistungszugübergreifenden Lerngruppen erteilt werden.
+
 #### § 63b
 
 **Förderangebote**
@@ -704,11 +707,7 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 
 <sup>3</sup> Der Entscheid muss vom Regierungsrat genehmigt werden, wenn beim Konzept der Erfahrungsschule von Bestimmungen dieses Gesetzes abgewichen werden soll. Der Regierungsrat holt vor seinem Entscheid die Stellungnahme des Erziehungsrats ein.
 
-<sup>4</sup> Keine Genehmigung des Regierungsrates ist erforderlich, wenn neue Konzepte in den folgenden Bereichen erprobt werden sollen:
-
-- a) Einführung von neuen Kulturtechniken im Kindergarten;
-- b) Altersgemischtes Lernen in der Primarstufe;
-- c) Erhöhung der Durchlässigkeit in der Sekundarschule.
+<sup>4</sup> …
 
 <sup>5</sup> Erfahrungsschulen müssen das Erreichen der Bildungs- und Lernziele und den Übertritt an die Anschlussschulen gewährleisten.
 
@@ -1036,7 +1035,7 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 
 <sup>3</sup> Die Schülerschaft kann aus ihrem Kreis zwei Vertretungen in die Schulkommission wählen.
 
-<sup>4</sup> Die Vertretungen der Schulleitung, der Lehr- und Fachperson und der Schülerschaft haben in den Sitzungen der Schulkommission beratende Stimme. Die Vertretungen der Schulleitung und der Lehr- und Fachpersonen befinden sich im Ausstand, soweit ihre eigenen Dienstverhältnisse zur Behandlung kommen. Die Vertretungen der Schülerschaft nehmen an den Beratungen von Personalangelegenheiten nicht teil.
+<sup>4</sup> Die Vertretungen der Schulleitung, der Lehr- und Fachpersonen und der Schülerschaft haben in den Sitzungen der Schulkommission beratende Stimme. Die Vertretungen der Schulleitung und der Lehr- und Fachpersonen befinden sich im Ausstand, soweit ihre eigenen Dienstverhältnisse zur Behandlung kommen. Die Vertretungen der Schülerschaft nehmen an den Beratungen von Personalangelegenheiten nicht teil.
 
 <sup>5</sup> Eine Vertretung der Lehr- und Fachperson kann nicht mehr als eine vollständige Amtsperiode als solche in die Schulkommission abgeordnet werden; nach vierjährigem Unterbruch ist dagegen eine frühere Vertretung wieder wählbar.
 
@@ -1797,6 +1796,18 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 **Schulzahnpflege**
 
 <sup>1</sup> Der Staat sorgt dafür, dass die Schülerinnen und Schüler in der Zahnpflege unterstützt werden.
+
+#### § 140b
+
+**Spitalschulung**
+
+<sup>1</sup> Der Kanton sorgt für ein bedarfsgerechtes Spitalschulangebot für längerfristig oder wiederholt hospitalisierte Schülerinnen und Schüler der Primarstufe sowie der Sekundarstufe I und II.
+
+<sup>2</sup> Das zuständige Departement schliesst zu diesem Zweck Leistungsvereinbarungen mit den öffentlichen Spitälern im Kanton ab.
+
+<sup>3</sup> Das Spitalschulangebot ist für im Kanton schulpflichtige Schülerinnen und Schüler sowie für Schülerinnen und Schüler der Schulen der Sekundarstufe II mit stipendienrechtlichem Wohnsitz im Kanton unentgeltlich.
+
+<sup>4</sup> Kanton oder Gemeinden können im Rahmen einer interkantonalen Vereinbarung oder in besonderen Fällen eine ausserkantonale Spitalschulung finanzieren.
 
 ## IX<sup>bis</sup>. Unterstützung der Schülerinnen und Schüler und ihrer Erziehungsberechtigten
 
