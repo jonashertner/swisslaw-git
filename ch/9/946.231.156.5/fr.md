@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Ordonnance du 28 juin 2023 instituant des mesures concernant la Moldova
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: fr
-version: 2026-05-22
+version: 2026-08-11
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20260522/fr/xml/fedlex-data-admin-ch-eli-cc-2023-335-20260522-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20260522/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20260811/fr/xml/fedlex-data-admin-ch-eli-cc-2023-335-20260811-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20260811/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures concernant la Moldova
 
-du 28 juin 2023 (État le 22 mai 2026)
+du 28 juin 2023 (État le 11 août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -181,5 +181,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 mars 2024 ([RO 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), du 21 mai 2024 ([RO 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)), du 7 nov. 2024 ([RO 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)), du 11 août 2025 ([RO 2025 496](https://fedlex.data.admin.ch/eli/oc/2025/496)) et du 21 mai 2026, en vigueur depuis le 22 mai 2026 à 23 heures ([RO 2026 234](https://fedlex.data.admin.ch/eli/oc/2026/234)).
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/234](https://fedlex.data.admin.ch/eli/oc/2026/234) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 4 mars 2024 ([RO 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), du 21 mai 2024 ([RO 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)), du 7 nov. 2024 ([RO 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)), du 11 août 2025 ([RO 2025 496](https://fedlex.data.admin.ch/eli/oc/2025/496)), du 21 mai 2026 ([RO 2026 234](https://fedlex.data.admin.ch/eli/oc/2026/234)) et du 10 août 2026, en vigueur depuis le 11 août 2026 à 23 heures ([RO 2026 410](https://fedlex.data.admin.ch/eli/oc/2026/410)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/410](https://www.fedlex.admin.ch/eli/oc/2026/410/fr) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
