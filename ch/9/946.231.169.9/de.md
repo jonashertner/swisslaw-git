@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Verordnung vom 12. August 2015 über Massnahmen gegenüber der Republik Südsudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: de
-version: 2025-08-20
+version: 2026-08-11
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20250820/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20250820-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20250820/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20260811/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20260811-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20260811/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Republik Südsudan
 
-vom 12. August 2015 (Stand am 20. August 2025)
+vom 12. August 2015 (Stand am 11. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -236,5 +236,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 28. März 2018 ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Bereinigt gemäss Ziff. I der V des WBF vom 2. Aug. 2018 ([AS 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), vom 23. Jan. 2023 ([AS 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), vom 27. Juni 2024 ([AS 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)) und vom 18. Aug. 2025, in Kraft seit 20. Aug. 2025 ([AS 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/516](https://fedlex.data.admin.ch/eli/oc/2025/516) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 28. März 2018 ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Bereinigt gemäss Ziff. I der V des WBF vom 2. Aug. 2018 ([AS 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), vom 23. Jan. 2023 ([AS 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), vom 27. Juni 2024 ([AS 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)), vom 18. Aug. 2025 ([AS 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)) und vom 10. Aug. 2026, in Kraft seit 11. Aug. 2026 um 23.00 Uhr ([AS 2026 411](https://fedlex.data.admin.ch/eli/oc/2026/411)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/411](https://fedlex.data.admin.ch/eli/oc/2026/411) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

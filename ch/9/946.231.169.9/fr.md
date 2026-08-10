@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: "Ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: fr
-version: 2025-08-20
+version: 2026-08-11
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20250820/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20250820-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20250820/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20260811/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20260811-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20260811/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Soudan du Sud
 
-du 12 août 2015 (État le 20 août 2025)
+du 12 août 2015 (État le 11 août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -236,5 +236,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour par le ch. I des O du DEFR du 2 août 2018 ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), du 23 janv. 2023 ([RO 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), du 27 juin 2024 ([RO 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)) et du 18 août 2025, en vigueur depuis le 20 août 2025 ([RO 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/516](https://fedlex.data.admin.ch/eli/oc/2025/516) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour par le ch. I des O du DEFR du 2 août 2018 ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), du 23 janv. 2023 ([RO 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), du 27 juin 2024 ([RO 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)), du 18 août 2025 ([RO 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)) et du 10 août 2026, en vigueur depuis le 11 août 2026 à 23 heures ([RO 2026 411](https://fedlex.data.admin.ch/eli/oc/2026/411)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/411](https://fedlex.data.admin.ch/eli/oc/2026/411) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

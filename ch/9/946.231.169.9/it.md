@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Ordinanza del 12 agosto 2015 che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: it
-version: 2025-08-20
+version: 2026-08-11
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20250820/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20250820-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20250820/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20260811/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20260811-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20260811/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 
-del 12 agosto 2015 (Stato 20 agosto 2025)
+del 12 agosto 2015 (Stato 11 agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -236,5 +236,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dalle cifre I delle O del DEFR del 2 ago. 2018 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), del 23 gen. 2023 ([RU 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), del 27 giu. 2024 ([RU 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)) e del 18 ago. 2025, in vigore dal 20 ago. 2025 ([RU 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/516](https://fedlex.data.admin.ch/eli/oc/2025/516) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dalle cifre I delle O del DEFR del 2 ago. 2018 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)), del 23 gen. 2023 ([RU 2023 26](https://fedlex.data.admin.ch/eli/oc/2023/26)), del 27 giu. 2024 ([RU 2024 320](https://fedlex.data.admin.ch/eli/oc/2024/320)), del 18 ago. 2025 ([RU 2025 516](https://fedlex.data.admin.ch/eli/oc/2025/516)) e del 10 ago. 2026, in vigore dall’11 ago. 2026 alle ore 23.00 ([RU 2026 411](https://fedlex.data.admin.ch/eli/oc/2026/411)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/411](https://fedlex.data.admin.ch/eli/oc/2026/411) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
