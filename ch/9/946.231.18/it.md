@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Ordinanza del 25 maggio 2005 che istituisce provvedimenti nei confronti del Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: it
-version: 2026-06-05
+version: 2026-08-11
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260605/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260605-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260605/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260811/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260811-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260811/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Sudan
 
-del 25 maggio 2005 (Stato 5 giugno 2026)
+del 25 maggio 2005 (Stato 11 agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -232,5 +232,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dalle cifre I delle O del DEFR dell’8 lug. 2024 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), del 14 gen. 2025 ([RU 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), del 18 ago. 2025 ([RU 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)), dell’8 dic. 2025 ([RU 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)), del 18 feb. 2026 ([RU 2026 82](https://fedlex.data.admin.ch/eli/oc/2026/82)) e del 4 giu. 2026, in vigore dal 5 giu. 2026 alle ore 23.00 ([RU 2026 283](https://fedlex.data.admin.ch/eli/oc/2026/283)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/283](https://fedlex.data.admin.ch/eli/oc/2026/283) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dalle cifre I delle O del DEFR dell’8 lug. 2024 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), del 14 gen. 2025 ([RU 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), del 18 ago. 2025 ([RU 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)), dell’8 dic. 2025 ([RU 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)), del 18 feb. 2026 ([RU 2026 82](https://fedlex.data.admin.ch/eli/oc/2026/82)), del 4 giu. 2026 ([RU 2026 283](https://fedlex.data.admin.ch/eli/oc/2026/283)) e del 10 ago. 2026, in vigore dall’11 ago. 2026 alle ore 23.00 ([RU 2026 413](https://fedlex.data.admin.ch/eli/oc/2026/413)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/413](https://fedlex.data.admin.ch/eli/oc/2026/413) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
