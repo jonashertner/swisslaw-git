@@ -5,11 +5,12 @@ title: Ergänzungsleistungsgesetz
 short: ELG
 language: de
 version: 2024-01-01
+corrected: 2026-08-11
 version_adopted: 2015-04-28
 adopted: 1991-09-22
 in_force: 1992-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/351.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3927/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3093/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -31,7 +32,7 @@ in Anwendung der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hin
 als Gesetz:[^ingress-3]
 
 [^ingress-1]: ABl 1991, 305.
-[^ingress-2]: SR [831.3](https://www.fedlex.admin.ch/de/cc/internal-law/83#831.3).
+[^ingress-2]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://db.clex.ch/link/Bund/831.3/de).
 [^ingress-3]: Abgekürzt ELG. nGS 34–30. Vom Grossen Rat erlassen am 8. Mai 1991; in der Volksabstimmung angenommen worden und rechtsgültig geworden am 22. September 1991; vom Bundesrat genehmigt am 29. November 1991; in Vollzug ab 1. Januar 1992.
 
 ## I. Ordentliche Ergänzungsleistungen
@@ -42,7 +43,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Der Anspruch auf ordentliche Ergänzungsleistungen richtet sich nach der Bundesgesetzgebung.[^1-1]
 
-[^1-1]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://www.fedlex.admin.ch/de/cc/internal-law/83#831.3).
+[^1-1]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://db.clex.ch/link/Bund/831.3/de).
 
 #### Art. 2
 
