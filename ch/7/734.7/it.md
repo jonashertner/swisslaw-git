@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2026-04-01
+version: 2026-08-13
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260813/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260813-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260813/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260401/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 1° aprile 2026)
+del 23 marzo 2007 (Stato 13 agosto 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -127,11 +127,11 @@ Nella presente legge s’intende per:[^4-1]
 
 <sup>2</sup> Sono consumatori fissi finali ai sensi del presente articolo le economie domestiche e gli altri consumatori finali con un consumo annuo inferiore a 100 MWh per centro di consumo.
 
-<sup>2bis</sup> Nel servizio universale i gestori delle reti di distribuzione offrono come standard un prodotto elettrico basato in particolare sull’impiego delle energie rinnovabili (prodotto elettrico standard).[^6-2]
+<sup>2bis</sup> Nel servizio universale i gestori delle reti di distribuzione offrono come standard un prodotto elettrico basato in particolare sull’impiego delle energie rinnovabili indigene (prodotto elettrico standard).[^6-2]
 
 <sup>3</sup> I gestori delle reti di distribuzione fissano, nei loro comprensori, un tariffario unitario per i consumatori fissi finali che hanno un profilo di consumo equivalente e ricevono energia elettrica dello stesso livello di tensione. I tariffari per l’energia elettrica sono fissi per almeno un anno e sono pubblicati suddivisi in «utilizzazione della rete», «fornitura di energia», «tasse» e «prestazioni a enti pubblici».
 
-<sup>4</sup> Per determinare la componente tariffaria relativa all’utilizzazione della rete si applicano gli articoli 14 e 15.[^6-3] Per determinare la componente tariffaria relativa all’utilizzazione della rete si applicano gli articoli 14–15*a*. Per la componente tariffaria relativa alla fornitura di energia il gestore della rete di distribuzione tiene una contabilità per unità finali di imputazione.[^6-4]
+<sup>4</sup> Per determinare la componente tariffaria relativa all’utilizzazione della rete si applicano gli articoli 14–15*a*. Per la componente tariffaria relativa alla fornitura di energia il gestore della rete di distribuzione tiene una contabilità per unità finali di imputazione.[^6-3] L’eventuale immissione di energia da parte deiconsumatori finali fissi non può essere presa in considerazione nel fissare la componente tariffaria relativa alla fornitura di energia.[^6-4]
 
 <sup>5</sup>
 
@@ -162,9 +162,9 @@ I gestori delle reti di distribuzione si attengono inoltre ai principi seguenti:
 <sup>7</sup> Al raggruppamento ai fini del consumo proprio si applicano gli articoli 17 e 18 LEne.[^6-9]
 
 [^6-1]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^6-2]: Introdotto dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^6-3]: Nuovo testo giusta l’all. cifra II n. 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^6-4]: Nuovo testo del secondo e terzo per. giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-2]: Introdotto dalla cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Correzione della CdR dell’AF del 12 ago. 2026, pubblicata il 13 ago. 2026 ([RU 2026 418](https://fedlex.data.admin.ch/eli/oc/2026/418)).
+[^6-3]: Nuovo testo del secondo e terzo per. giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-4]: Nuovo testo giusta l’all. n. II 9 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-5]: Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^6-6]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^6-7]: Introdotto dalla cifra I n. 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)). Nuovo testo giusta la cifra I n. 2 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).

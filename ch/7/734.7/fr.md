@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2026-04-01
+version: 2026-08-13
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260813/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260813-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260813/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260401/fr"
 
 (LApEl)
 
-du 23 mars 2007 (État le 1<sup>er</sup> avril 2026)
+du 23 mars 2007 (État le 13 août 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -160,7 +160,7 @@ Les gestionnaires de réseau de distribution respectent par ailleurs les princip
 <sup>7</sup> Les art. 17 et 18 LEne s’appliquent au regroupement dans le cadre de la consommation propre.[^6-9]
 
 [^6-1]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^6-2]: Introduit par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^6-2]: Introduit par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Erratum de la CdR de l’Ass. féd. du 12 août 2026, publié le 13 août 2026, ne concerne que le texte italien ([RO 2026 418](https://fedlex.data.admin.ch/eli/oc/2026/418)).
 [^6-3]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^6-4]: Nouvelle teneur selon l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-5]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
