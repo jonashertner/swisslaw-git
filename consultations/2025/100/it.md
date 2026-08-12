@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sugli stranieri e la loro integrazione (Orientamento professionale, negli studi e nella carriera per persone ammesse nel quadro del ricongiungimento familiare)"
 document: Progetto posto in consultazione
 language: it

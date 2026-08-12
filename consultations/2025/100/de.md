@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Ausländer- und Integrationsgesetzes (Meldung von Personen mit besonderem Beratungsbedarf bei der Berufs-, Studien- und Laufbahnberatung)"
 document: Vernehmlassungsvorlage
 language: de

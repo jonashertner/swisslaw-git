@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi sur les étrangers et l’intégration (Annonce des personnes ayant des besoins de conseil particuliers auprès d’un service d’orientation professionnelle, universitaire et de carrière)"
 document: Projet mis en consultation
 language: fr
