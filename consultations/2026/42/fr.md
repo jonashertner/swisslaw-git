@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur le commerce du bois (OCBo) en vue de lever les entraves au commerce liées aux importations de bois et de produits dérivés du bois provenant de l’Union européenne (UE)
 document: Projet mis en consultation
 language: fr

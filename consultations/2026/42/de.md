@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Holzhandelsverordnung (HHV) zur Beseitigung von Handelshemmnissen im Zusammenhang mit Importen von Holz und Holzerzeugnissen aus der Europäischen Union (EU)
 document: Vernehmlassungsvorlage
 language: de

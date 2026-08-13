@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza sul commercio di legno (OCoL) per l’eliminazione di ostacoli al commercio nel quadro di importazioni di legno e prodotti da esso derivati dall’Unione europea (UE)
 document: Progetto posto in consultazione
 language: it
