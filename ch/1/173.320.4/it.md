@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: "Regolamento del 21 febbraio 2008 del Tribunale amministrativo federale concernente l'informazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: it
-version: 2022-07-01
+version: 2026-08-15
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20260815/it/xml/fedlex-data-admin-ch-eli-cc-2008-323-20260815-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20260815/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento del Tribunale amministrativo federale concernente l’informazione
 
-del 21 febbraio 2008 (Stato 1° luglio 2022)
+del 21 febbraio 2008 (Stato 15 agosto 2026)
 
 Il Tribunale amministrativo federale,
 
@@ -22,7 +22,7 @@ visto l’articolo 16 capoverso 1 lettera a della legge federale del 17 giugno 2
 
 adotta il seguente regolamento:
 
-[^ingress-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^ingress-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 ## Sezione 1: Disposizioni generali
 
@@ -58,8 +58,8 @@ Il Tribunale dispone di un ufficio stampa in seno al segretariato generale.
 
 <sup>3</sup> Le sentenze sono messe a disposizione del pubblico su carta stampata oppure in formato elettronico.
 
-[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^4-2]: Nuovo testo giusta il n. I della D del TAF del 2 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
+[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^4-2]: Nuovo testo giusta la cifra I della D del TAF del 2 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 5
 
@@ -67,11 +67,12 @@ Il Tribunale dispone di un ufficio stampa in seno al segretariato generale.
 
 <sup>1</sup> Il Tribunale pubblica le proprie decisioni sia in una banca dati elettronica delle decisioni sia in una raccolta ufficiale. Le decisioni pronunciate in applicazione dell’articolo 36*b* LTAF e dell’articolo 43*b* LPGA[^5-2] non vengono pubblicate.[^5-3]
 
-<sup>2</sup> La raccolta ufficiale delle decisioni del Tribunale «Decisioni del Tribunale amministrativo federale (DTAF)» è messa a disposizione su carta stampata e in formato elettronico.
+<sup>2</sup> La raccolta ufficiale delle decisioni del Tribunale «Decisioni del Tribunale amministrativo federale (DTAF)» è messa a disposizione in formato elettronico. Il volume annuale può essere messo a disposizione su carta stampata.[^5-4]
 
-[^5-1]: Nuovo testo giusta il n. I della D del TAF del 21 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
-[^5-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^5-3]: Nuovo testo giusta il n. I della D del TAF del 2 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
+[^5-1]: Nuovo testo giusta la cifra I della D del TAF del 21 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
+[^5-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^5-3]: Nuovo testo giusta la cifra I della D del TAF del 2 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
+[^5-4]: Nuovo testo giusta la cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 6
 
@@ -104,10 +105,11 @@ Devono essere rispettati i seguenti principi:
 - b. gli elementi di fatto necessari per la comprensione dei considerandi di diritto sono presentati in forma essenziale;
 - c. i considerandi di diritto sono, se necessario, abbreviati oppure pubblicati solo parzialmente.[^7-2]
 
-<sup>2</sup> L’accesso alla raccolta ufficiale delle decisioni del Tribunale è soggetto a pagamento. L’accesso alla raccolta ufficiale delle decisioni del Tribunale in forma elettronica può essere soggetto a pagamento.
+<sup>2</sup> L’accesso alla raccolta ufficiale delle decisioni del Tribunale in formato elettronico è gratuito. Il volume annuale su carta stampata è a pagamento.[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
-[^7-2]: Introdotto dal n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-1]: Nuovo testo giusta la cifra I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-2]: Introdotto dalla cifra I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-3]: Nuovo testo giusta la cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 8
 
@@ -131,8 +133,8 @@ Devono essere rispettati i seguenti principi:
 
 <sup>4</sup> I membri della commissione di redazione sono sgravati dall’attività giurisprudenziale nella misura in cui lo richiedono i compiti che sono chiamati a svolgere nella commissione stessa.
 
-[^9-1]: Abrogato dal n. I della D del TAF del 22 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
-[^9-2]: Nuovo testo giusta il n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^9-1]: Abrogato dalla cifra I della D del TAF del 22 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^9-2]: Nuovo testo giusta la cifra I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 #### Art. 9a
 
@@ -144,7 +146,7 @@ Devono essere rispettati i seguenti principi:
 
 <sup>3</sup> La commissione di redazione risolve, possibilmente di comune accordo, divergenze di opinione tra essa stessa e la corte competente concernenti la pubblicazione di una decisione. In assenza di una soluzione consensuale, decide la commissione di redazione. In caso di disaccordo, la corte competente può sottoporre tale decisione alla Conferenza dei presidenti per riesame. La Conferenza dei presidenti decide definitivamente.
 
-[^9a-1]: Introdotto dal n. I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^9a-1]: Introdotto dalla cifra I della D del TAF del 22 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 
 ## Sezione 3: Informazioni su richiesta
 
@@ -152,7 +154,9 @@ Devono essere rispettati i seguenti principi:
 
 **Informazioni**
 
-Chi desidera un’informazione può rivolgere una richiesta all’ufficio stampa in seno al segretariato generale. L’ufficio stampa rilascia l’informazione auspicata oppure trasmette la richiesta al servizio competente.
+Chi desidera un’informazione può rivolgere una richiesta all’ufficio stampa in seno al segretariato generale. L’ufficio stampa risponde alla richiesta o la trasmette al servizio competente.[^10-1]
+
+[^10-1]: Nuovo testo del secondo periodo giusta la cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 11
 
@@ -170,10 +174,10 @@ Chi desidera un’informazione può rivolgere una richiesta all’ufficio stampa
 
 <sup>6</sup> Per il resto, l’ordinanza del 24 maggio 2006 sulla trasparenza si applica per analogia.
 
-[^11-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^11-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^11-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^11-4]: [RS 173.320.3](https://fedlex.data.admin.ch/eli/cc/2008/322)
+[^11-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^11-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^11-3]: [RS 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^11-4]: [RS 173.320.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5625)
 
 ## Sezione 4: Cronaca giudiziaria
 
@@ -187,7 +191,7 @@ Chi informa sulla giurisprudenza del Tribunale deve avere riguardo nei confronti
 
 **Accreditamento**
 
-<sup>1</sup> I giornalisti che vogliono riferire con regolarità sull’attività giudiziaria del Tribunale per dei media pubblicati o con sede in Svizzera, possono presentare richiesta scritta di accreditamento al segretariato generale. La richiesta può limitarsi alla cronaca sulla giurisprudenza di singole corti.
+<sup>1</sup> I giornalisti che vogliono riferire con regolarità sull’attività giudiziaria del Tribunale per dei media pubblicati o con sede in Svizzera, possono presentare richiesta di accreditamento al segretariato generale.[^13-1]
 
 <sup>2</sup>
 
@@ -198,42 +202,49 @@ L’accreditamento è concesso se:
 
 <sup>3</sup> L’accreditamento può essere negato se sussistono seri dubbi quanto alla fidatezza del richiedente.
 
+<sup>4</sup> Il Tribunale gestisce un sistema d’informazione per l’accreditamento.[^13-2]
+
+[^13-1]: Nuovo testo giusta la cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+[^13-2]: Introdotto dalla cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+
 #### Art. 14
 
 **Durata e revoca dell’accreditamento**
 
-<sup>1</sup> L’accreditamento è concesso per un periodo di quattro anni, oppure nel corso di un tale periodo per il resto del quadriennio. I giornalisti devono presentare tempestivamente una domanda di rinnovo dell’accreditamento.
+<sup>1</sup> L’accreditamento è concesso a tempo indeterminato. I giornalisti sono responsabili dell’aggiornamento dei propri dati di accreditamento.[^14-1]
 
 <sup>2</sup> Il segretariato generale revoca l’accreditamento quando i presupposti dell’accreditamento non sono più dati.
 
+[^14-1]: Nuovo testo giusta la cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+
 #### Art. 15
 
-**Tessera di legittimazione**
+[^15-1]
 
-<sup>1</sup> I giornalisti accreditati ricevono una tessera di legittimazione.
-
-<sup>2</sup> La tessera deve essere riconsegnata subito dopo la scadenza o la revoca dell’accreditamento.
+[^15-1]: Abrogato dalla cifra I della D del TAF del 1° lug. 2026, con effetto dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 16
 
-**Prestazioni del Tribunale**
+**Prestazioni del Tribunale**[^16-1]
 
 <sup>1</sup>
 
 I giornalisti accreditati ricevono dal Tribunale le seguenti prestazioni:
 
 - a. la comunicazione delle date delle pubbliche udienze;
-- b. su richiesta, la comunicazione della fattispecie delle cause per le quali è previsto un dibattimento pubblico oppure la deliberazione pubblica della sentenza;
-- c. l’invio delle decisioni di cui è prevista la pubblicazione nella raccolta ufficiale delle decisioni del Tribunale;
-- d. l’invio delle decisioni che, secondo i giornalisti o il Tribunale, presentano un particolare interesse per il pubblico;
-- e. su richiesta, la comunicazione dello stadio in cui si trova la procedura (effetto sospensivo, sospensione, riapertura), nella misura in cui il presidente della corte rispettivamente della camera ha dato il proprio accordo;
-- f. l’invio del rapporto di gestione prima della sua pubblicazione;
-- g. l’invio dei comunicati stampa;
-- h. l’accesso gratuito mediante codice personale alle banche dati normalmente soggette a pagamento.
+- b. la comunicazione della fattispecie delle cause per le quali è previsto un dibattimento pubblico oppure la deliberazione pubblica della sentenza;
+- c. la messa a disposizione delle decisioni di cui è prevista la pubblicazione nella raccolta ufficiale delle decisioni del Tribunale;
+- d. la messa a disposizione delle decisioni che, secondo i giornalisti o il Tribunale, presentano un particolare interesse per il pubblico;
+- e. l’invio del rapporto di gestione prima della sua pubblicazione;
+- f. l’invio dei comunicati stampa.
 
-<sup>2</sup> L’invio delle decisioni ai sensi del capoverso 1 lettera c avviene prima della loro pubblicazione nella banca dati elettronica; se necessario deve essere fissato un periodo di attesa.
+<sup>2</sup> La messa a disposizione delle decisioni ai sensi del capoverso 1 lettera c avviene prima della loro pubblicazione nella banca dati elettronica; se necessario deve essere fissato un periodo di attesa.
 
-<sup>3</sup> L’invio delle decisioni ai sensi del capoverso 1 lettera d avviene, di regola, contemporaneamente alla spedizione delle decisioni alle parti e mediante fissazione di un periodo di attesa.
+<sup>3</sup> La messa a disposizione delle decisioni ai sensi del capoverso 1 lettera d avviene, di regola, contemporaneamente alla spedizione delle decisioni alle parti e mediante fissazione di un periodo di attesa.
+
+<sup>4</sup> Il Tribunale può gestire un sistema d’informazione per prestare i servizi di cui al capoverso 1.
+
+[^16-1]: Nuovo testo giusta la cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 17
 
@@ -251,7 +262,9 @@ I giornalisti accreditati ricevono dal Tribunale le seguenti prestazioni:
 
 <sup>1</sup> I giornalisti accreditati che violano colpevolmente il presente regolamento possono essere ammoniti.
 
-<sup>2</sup> In casi gravi, l’accreditamento può essere revocato temporaneamente o definitivamente.
+<sup>2</sup> In casi gravi o a seguito di ripetute violazioni, l’accreditamento può essere revocato temporaneamente o a tempo indeterminato.[^18-1]
+
+[^18-1]: Nuovo testo giusta la cifra I della D del TAF del 1° lug. 2026, in vigore dal 15 ago. 2026 ([RU 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 ## Sezione 5: Disposizioni finali
 

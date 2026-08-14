@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: "Règlement du 21 février 2008 du Tribunal administratif fédéral relatif à l'information"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: fr
-version: 2022-07-01
+version: 2026-08-15
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20260815/fr/xml/fedlex-data-admin-ch-eli-cc-2008-323-20260815-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20260815/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement du Tribunal administratif fédéral relatif à l’information
 
-du 21 février 2008 (État le 1<sup>er</sup> juillet 2022)
+du 21 février 2008 (État le 15 août 2026)
 
 Le Tribunal administratif fédéral,
 
@@ -22,7 +22,7 @@ vu l’art. 16, al. 1, let. a, de la loi du 17 juin 2005 sur le Tribunal adminis
 
 édicte le règlement suivant:
 
-[^ingress-1]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^ingress-1]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 ## Section 1 Dispositions générales
 
@@ -58,7 +58,7 @@ Le tribunal dispose d’un service de presse rattaché au Secrétariat général
 
 <sup>3</sup> Les arrêts sont mis à la disposition du public sous forme imprimée ou sous forme électronique.
 
-[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^4-2]: Nouvelle teneur selon le ch. I du R du TAF du 2 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 5
@@ -67,11 +67,12 @@ Le tribunal dispose d’un service de presse rattaché au Secrétariat général
 
 <sup>1</sup> Le tribunal publie ses arrêts dans une banque de données électronique et dans un recueil officiel. Les arrêts rendus en application de l’art. 36*b* LTAF et de l’art. 43*b* LPGA[^5-2] ne sont pas publiés.[^5-3]
 
-<sup>2</sup> Le recueil officiel des arrêts du tribunal «Arrêts du Tribunal administratif fédéral suisse (ATAF)» est publié sur papier et sous forme électronique.
+<sup>2</sup> Le recueil officiel des arrêts du tribunal «Arrêts du Tribunal administratif fédéral suisse (ATAF)» est publié sous forme électronique. Le volume annuel peut être publié sous forme imprimée.[^5-4]
 
 [^5-1]: Nouvelle teneur selon le ch. I du R du TAF du 21 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
-[^5-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^5-3]: Nouvelle teneur selon le ch. I du R du TAF du 2 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
+[^5-4]: Nouvelle teneur selon le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, en vigueur depuis le 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 6
 
@@ -104,10 +105,11 @@ Les principes suivants s’appliquent:
 - b. les éléments de l’état de fait nécessaires à la compréhension des considérants en droit sont résumés à l’essentiel;
 - c. les considérants en droit sont abrégés si nécessaire ou ne sont que partiellement publiés.[^7-2]
 
-<sup>2</sup> L’accès au recueil officiel des arrêts du tribunal sur papier est payant. L’accès au recueil officiel des arrêts du tribunal sous forme électronique peut être payant.
+<sup>2</sup> L’accès au recueil officiel des arrêts du tribunal sous forme électronique est gratuit. Le volume annuel sous forme imprimée est payant.[^7-3]
 
 [^7-1]: Nouvelle teneur selon le ch. I du R du TAF du 22 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 [^7-2]: Introduit par le ch. I du R du TAF du 22 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-3]: Nouvelle teneur selon le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, en vigueur depuis le 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 8
 
@@ -170,10 +172,10 @@ Quiconque souhaite un renseignement doit en faire la demande au service de press
 
 <sup>6</sup> Pour le reste, l’ordonnance du 24 mai 2006 sur la transparence s’applique par analogie.
 
-[^11-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^11-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^11-3]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^11-4]: [RS 173.320.3](https://fedlex.data.admin.ch/eli/cc/2008/322)
+[^11-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^11-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^11-3]: [RS 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^11-4]: [RS 173.320.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5625)
 
 ## Section 4 Chronique de l’activité judiciaire
 
@@ -187,7 +189,7 @@ Quiconque tient la chronique de l’activité judiciaire du tribunal est tenu de
 
 **Accréditation**
 
-<sup>1</sup> Les journalistes qui entendent tenir régulièrement la chronique de l’activité judiciaire du tribunal pour les médias paraissant ou établis en Suisse doivent demander leur accréditation par écrit au Secrétariat général. La demande peut se limiter à la chronique de l’activité judiciaire de certaines cours.
+<sup>1</sup> Les journalistes qui entendent tenir régulièrement la chronique de l’activité judiciaire du tribunal pour les médias paraissant ou établis en Suisse doivent demander leur accréditation au Secrétariat général.[^13-1]
 
 <sup>2</sup>
 
@@ -198,42 +200,49 @@ L’accréditation est accordée si:
 
 <sup>3</sup> L’accréditation peut être refusée lorsqu’il existe de sérieux doutes que celui qui la sollicite n’est pas digne de confiance.
 
+<sup>4</sup> Le tribunal gère un système d’information pour l’accréditation.[^13-2]
+
+[^13-1]: Nouvelle teneur selon le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, en vigueur depuis le 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+[^13-2]: Introduit par le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, en vigueur depuis le 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+
 #### Art. 14
 
 **Durée et révocation de l’accréditation**
 
-<sup>1</sup> L’accréditation est accordée pour une période de quatre ans ou, si celle-ci a déjà commencé, pour la durée restante. Les journalistes doivent demander à temps le renouvellement de leur accréditation.
+<sup>1</sup> L’accréditation est accordée pour une durée indéterminée. Les journalistes sont responsables de l’actualité des données relatives à leur accréditation.[^14-1]
 
 <sup>2</sup> Le Secrétariat général révoque l’accréditation lorsque les conditions de son octroi ne sont plus remplies.
 
+[^14-1]: Nouvelle teneur selon le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, en vigueur depuis le 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+
 #### Art. 15
 
-**Carte de légitimation**
+[^15-1]
 
-<sup>1</sup> Les journalistes accrédités reçoivent une carte de légitimation.
-
-<sup>2</sup> La carte de légitimation doit être rendue immédiatement après la révocation ou l’expiration de l’accréditation.
+[^15-1]: Abrogé par le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, avec effet au 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 16
 
-**Prestations de services du tribunal**
+**Prestations de services du tribunal**[^16-1]
 
 <sup>1</sup>
 
 Le tribunal fournit les prestations de services suivantes aux journalistes accrédités:
 
 - a. communication des dates des audiences publiques;
-- b. sur demande, communication des faits concernant des affaires pour lesquelles des débats ou des délibérations publics sont inscrits à l’ordre du jour;
-- c. remise des arrêts dont la publication dans le recueil officiel des arrêts du tribunal est prévue;
-- d. remise des arrêts qui, du point de vue des journalistes ou du tribunal, présentent un intérêt particulier pour le public;
-- e. sur demande, renseignements sur l’avancement de la procédure (effet suspensif, désistement, reprise de cause), pour autant que le président de cour ou de chambre compétent ait donné son accord;
-- f. remise du rapport de gestion avant sa publication;
-- g. remise de communiqués de presse;
-- h. accès gratuit aux banques de données payantes, à l’aide d’un code personnel.
+- b. communication des faits concernant des affaires pour lesquelles des débats ou des délibérations publics sont inscrits à l’ordre du jour;
+- c. mise à disposition des arrêts dont la publication dans le recueil officiel des arrêts du tribunal est prévue;
+- d. mise à disposition des arrêts qui, du point de vue des journalistes ou du tribunal, présentent un intérêt particulier pour le public;
+- e. remise du rapport de gestion avant sa publication;
+- f. remise de communiqués de presse.
 
-<sup>2</sup> Les arrêts prévus à l’al. 1, let. c, sont remis avant leur publication dans la banque de données électronique; le cas échéant, un embargo est mis.
+<sup>2</sup> La mise à disposition des arrêts prévue à l’al. 1, let. c, a lieu avant leur publication dans la banque de données électronique; le cas échéant, un embargo est mis.
 
-<sup>3</sup> La remise des arrêts prévue à l’al. 1, let. d, a lieu en même temps que l’envoi des arrêts aux parties; un embargo est mis.
+<sup>3</sup> La mise à disposition des arrêts prévue à l’al. 1, let. d, a lieu en même temps que l’envoi des arrêts aux parties; un embargo est mis.
+
+<sup>4</sup> Le tribunal peut gérer un système d’information pour fournir les prestations prévues à l’al. 1.
+
+[^16-1]: Nouvelle teneur selon le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, en vigueur depuis le 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 17
 
@@ -251,7 +260,9 @@ Le tribunal fournit les prestations de services suivantes aux journalistes accr�
 
 <sup>1</sup> Les journalistes accrédités qui enfreignent les dispositions du présent règlement de manière fautive peuvent faire l’objet d’un avertissement.
 
-<sup>2</sup> Dans les cas graves, l’accréditation peut être provisoirement suspendue ou définitivement révoquée.
+<sup>2</sup> En cas de violations graves ou répétées, l’accréditation peut être provisoirement suspendue ou révoquée pour une durée indéterminée.[^18-1]
+
+[^18-1]: Nouvelle teneur selon le ch. I du R du TAF du 1<sup>er</sup> juil. 2026, en vigueur depuis le 15 août 2026 ([RO 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 ## Section 5 Dispositions finales
 

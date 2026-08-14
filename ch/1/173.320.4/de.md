@@ -3,18 +3,18 @@ sr: "173.320.4"
 title: Informationsreglement vom 21. Februar 2008 für das Bundesverwaltungsgericht
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/323"
 language: de
-version: 2022-07-01
+version: 2026-08-15
 adopted: 2008-02-21
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2008-323-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/323/20260815/de/xml/fedlex-data-admin-ch-eli-cc-2008-323-20260815-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/323/20260815/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Informationsreglement für das Bundesverwaltungsgericht
 
-vom 21. Februar 2008 (Stand am 1. Juli 2022)
+vom 21. Februar 2008 (Stand am 15. August 2026)
 
 Das Bundesverwaltungsgericht,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 16 Absatz 1 Buchstabe a des Verwaltungsgerichtsgesetzes vo
 
 erlässt folgendes Reglement:
 
-[^ingress-1]: [SR 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
+[^ingress-1]: [SR 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -58,7 +58,7 @@ Das Bundesverwaltungsgericht verfügt über eine Medienstelle im Generalsekretar
 
 <sup>3</sup> Die Entscheide werden entweder in gedruckter oder in elektronischer Form öffentlich zugänglich gemacht.
 
-[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^4-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^4-2]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 2. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
 
 #### Art. 5
@@ -67,11 +67,12 @@ Das Bundesverwaltungsgericht verfügt über eine Medienstelle im Generalsekretar
 
 <sup>1</sup> Das Bundesverwaltungsgericht veröffentlicht seine Entscheide sowohl in einer elektronischen Entscheiddatenbank als auch in einer amtlichen Entscheidsammlung. Entscheide aufgrund von Artikel 36*b* VGG und Artikel 43*b* ATSG[^5-2] werden nicht veröffentlicht.[^5-3]
 
-<sup>2</sup> Die amtliche Entscheidsammlung «Entscheide des Schweizerischen Bundesverwaltungsgerichts (BVGE)» wird in Papierform und in elektronischer Form zur Verfügung gestellt.
+<sup>2</sup> Die amtliche Entscheidsammlung «Entscheide des Schweizerischen Bundesverwaltungsgerichts (BVGE)» wird in elektronischer Form zur Verfügung gestellt. Der Jahresband kann in gedruckter Form zur Verfügung gestellt werden.[^5-4]
 
 [^5-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 21. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 3809](https://fedlex.data.admin.ch/eli/oc/2017/451)).
-[^5-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^5-3]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 2. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 677](https://fedlex.data.admin.ch/eli/oc/2021/677)).
+[^5-4]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 (AS **202****6**378).
 
 #### Art. 6
 
@@ -104,10 +105,11 @@ Dabei werden die folgenden Grundsätze beachtet:
 - b. Die für das Verständnis der rechtlichen Erwägungen notwendigen Sachverhaltselemente werden in einer auf das Wesentliche reduzierten Form dargestellt.
 - c. Die rechtlichen Erwägungen werden soweit nötig gekürzt oder nur teilweise veröffentlicht.[^7-2]
 
-<sup>2</sup> Der Zugang zur amtlichen Entscheidsammlung in Papierform ist kostenpflichtig. Für den Zugang zur amtlichen Entscheidsammlung in elektronischer Form können Gebühren erhoben werden.
+<sup>2</sup> Der Zugang zur amtlichen Entscheidsammlung in elektronischer Form ist kostenlos. Der Jahresband in gedruckter Form ist kostenpflichtig.[^7-3]
 
 [^7-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 22. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
 [^7-2]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 22. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 360](https://fedlex.data.admin.ch/eli/oc/2022/360)).
+[^7-3]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 8
 
@@ -152,7 +154,9 @@ Dabei werden die folgenden Grundsätze beachtet:
 
 **Auskünfte**
 
-Wünscht eine Person eine Auskunft, so kann sie eine Anfrage an die Medienstelle im Generalsekretariat richten. Diese erteilt die gewünschte Auskunft oder leitet die Anfrage an die zuständige Stelle weiter.
+Wünscht eine Person eine Auskunft, so kann sie eine Anfrage an die Medienstelle im Generalsekretariat richten. Diese beantwortet die Anfrage oder leitet sie an die zuständige Stelle weiter.[^10-1]
+
+[^10-1]: Fassung des zweiten Satzes gemäss Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 11
 
@@ -170,10 +174,10 @@ Wünscht eine Person eine Auskunft, so kann sie eine Anfrage an die Medienstelle
 
 <sup>6</sup> Im Übrigen gilt die Öffentlichkeitsverordnung vom 24. Mai 2006 sinngemäss.
 
-[^11-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^11-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^11-3]: [SR 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^11-4]: [SR 173.320.3](https://fedlex.data.admin.ch/eli/cc/2008/322)
+[^11-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^11-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^11-3]: [SR 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^11-4]: [SR 173.320.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5625)
 
 ## 4. Abschnitt: Gerichtsberichterstattung
 
@@ -187,7 +191,7 @@ Wer über die Rechtsprechung des Bundesverwaltungsgerichts Bericht erstattet, ha
 
 **Akkreditierung**
 
-<sup>1</sup> Journalistinnen und Journalisten, die regelmässig für in der Schweiz erscheinende oder niedergelassene Medien über die Rechtsprechung des Bundesverwaltungsgerichts Bericht erstatten wollen, können beim Generalsekretariat ein schriftliches Gesuch um Akkreditierung einreichen. Das Gesuch kann sich auf die Berichterstattung über die Rechtsprechung einzelner Abteilungen beschränken.
+<sup>1</sup> Journalistinnen und Journalisten, die regelmässig für in der Schweiz erscheinende oder niedergelassene Medien über die Rechtsprechung des Bundesverwaltungsgerichts Bericht erstatten wollen, können beim Generalsekretariat ein Gesuch um Akkreditierung einreichen.[^13-1]
 
 <sup>2</sup>
 
@@ -198,42 +202,49 @@ Die Akkreditierung wird erteilt, wenn:
 
 <sup>3</sup> Die Akkreditierung kann verweigert werden, wenn begründete Zweifel an der Vertrauenswürdigkeit des Gesuchstellers oder der Gesuchstellerin bestehen.
 
+<sup>4</sup> Das Bundesverwaltungsgericht betreibt ein Informationssystem für die Akkreditierung.[^13-2]
+
+[^13-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+[^13-2]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+
 #### Art. 14
 
 **Dauer und Aufhebung der Akkreditierung**
 
-<sup>1</sup> Die Akkreditierung erfolgt für eine Dauer von vier Jahren oder während einer laufenden Vierjahresperiode für deren Rest. Die Journalisten und Journalistinnen haben rechtzeitig um Erneuerung der Akkreditierung nachzusuchen.
+<sup>1</sup> Die Akkreditierung erfolgt auf unbestimmte Dauer. Die Journalisten und Journalistinnen sind für die Aktualität ihrer Akkreditierungsdaten verantwortlich.[^14-1]
 
 <sup>2</sup> Das Generalsekretariat hebt die Akkreditierung auf, wenn die Voraussetzungen für deren Erteilung nicht mehr gegeben sind.
 
+[^14-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
+
 #### Art. 15
 
-**Ausweis**
+[^15-1]
 
-<sup>1</sup> Die akkreditierten Journalistinnen und Journalisten erhalten einen Ausweis.
-
-<sup>2</sup> Der Ausweis ist unmittelbar nach dem Ablauf der Akkreditierung oder deren Aufhebung zurückzugeben.
+[^15-1]: Aufgehoben durch Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, mit Wirkung seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 16
 
-**Dienstleistungen des Bundesverwaltungsgerichts**
+**Dienstleistungen des Bundesverwaltungsgerichts**[^16-1]
 
 <sup>1</sup>
 
 Die akkreditierten Journalisten und Journalistinnen erhalten vom Bundesverwaltungsgericht die folgenden Dienstleistungen:
 
-- a. die Mitteilung der Termine, an denen öffentliche Sitzungen stattfinden;
-- b. auf Anfrage: die Bekanntgabe des Sachverhalts von Geschäften, die für eine öffentliche Parteiverhandlung oder Urteilsberatung traktandiert sind;
-- c. die Zustellung der Entscheide, die für die Veröffentlichung in der amtlichen Entscheidsammlung vorgesehen sind;
-- d. die Zustellung der Entscheide, die aus Sicht der Journalisten und Journalistinnen oder nach Auffassung des Bundesverwaltungsgerichts für die Öffentlichkeit von besonderem Interesse sind;
-- e. auf Anfrage: die Mitteilung über den Verfahrensstand (aufschiebende Wirkung, Sistierung, Wiederaufnahme), soweit der Präsident oder die Präsidentin der Abteilung beziehungsweise der Kammer das Einverständnis erteilt;
-- f. die Zustellung des Geschäftsberichts vor dessen Veröffentlichung;
-- g. die Zustellung von Pressemitteilungen;
-- h. den kostenlosen Zugang mit einem persönlichen Code zu den kostenpflichtigen Datenbanken.
+- a. Mitteilung der Termine, an denen öffentliche Sitzungen stattfinden;
+- b. Bekanntgabe des Sachverhalts von Geschäften, die für eine öffentliche Parteiverhandlung oder Urteilsberatung traktandiert sind;
+- c. Bereitstellung der Entscheide, die für die Veröffentlichung in der amtlichen Entscheidsammlung vorgesehen sind;
+- d. Bereitstellung der Entscheide, die aus Sicht der Journalisten und Journalistinnen oder nach Auffassung des Bundesverwaltungsgerichts für die Öffentlichkeit von besonderem Interesse sind;
+- e. Zustellung des Geschäftsberichts vor dessen Veröffentlichung;
+- f. Zustellung von Medienmitteilungen.
 
-<sup>2</sup> Die Zustellung der Entscheide nach Absatz 1 Buchstabe c erfolgt vor der Veröffentlichung in der elektronischen Entscheiddatenbank; gegebenenfalls ist eine Sperrfrist anzusetzen.
+<sup>2</sup> Die Bereitstellung der Entscheide nach Absatz 1 Buchstabe c erfolgt vor der Veröffentlichung in der elektronischen Entscheiddatenbank; gegebenenfalls ist eine Sperrfrist anzusetzen.
 
-<sup>3</sup> Die Zustellung der Entscheide nach Absatz 1 Buchstabe d erfolgt in der Regel zusammen mit dem Versand an die Parteien und unter Ansetzung einer Sperrfrist.
+<sup>3</sup> Die Bereitstellung der Entscheide nach Absatz 1 Buchstabe d erfolgt in der Regel zusammen mit dem Versand an die Parteien und unter Ansetzung einer Sperrfrist.
+
+<sup>4</sup> Das Bundesverwaltungsgericht kann zur Gewährleistung der Dienstleistungen nach Absatz 1 ein Informationssystem betreiben.
+
+[^16-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 #### Art. 17
 
@@ -251,7 +262,9 @@ Die akkreditierten Journalisten und Journalistinnen erhalten vom Bundesverwaltun
 
 <sup>1</sup> Akkreditierte Journalisten und Journalistinnen, die schuldhaft gegen Vorschriften dieses Reglements verstossen, können verwarnt werden.
 
-<sup>2</sup> In schweren Fällen kann die Akkreditierung vorübergehend oder für immer entzogen werden.
+<sup>2</sup> In schweren Fällen oder bei wiederholten Verstössen kann die Akkreditierung vorübergehend oder auf unbestimmte Zeit entzogen werden.[^18-1]
+
+[^18-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 1. Juli 2026, in Kraft seit 15. Aug. 2026 ([AS 2026 378](https://fedlex.data.admin.ch/eli/oc/2026/378)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
