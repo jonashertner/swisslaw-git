@@ -4,13 +4,12 @@ number: "44.11"
 title: Reglement über die Stipendien und Studiendarlehen
 short: StiR
 language: de
-version: 2025-08-19
-valid_until: 2026-08-16
-version_adopted: 2025-08-19
+version: 2026-08-17
+version_adopted: 2026-07-08
 adopted: 2008-07-08
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/44.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8244/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8643/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Stipendien und Studiendarlehen – R
 
 (StiR)
 
-vom 08.07.2008 (Fassung in Kraft getreten am 19.08.2025)
+vom 08.07.2008 (Fassung in Kraft getreten am 17.08.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -321,7 +320,10 @@ beschliesst:
 - a) der finanziellen Beteiligung der Eltern und anderer unterstützungspflichtiger Personen gemäss Artikel 24 Abs. 2;
 - b) allfälligen Renten und Versicherungsleistungen, abzüglich 10 %; wohnt jedoch die Person in Ausbildung bei ihren Eltern, so werden diese Beträge zum anrechenbaren Einkommen der Eltern hinzugerechnet;
 - c) allfälligen Unterhaltsbeiträgen und Ergänzungsleistungen; wohnt die Person in Ausbildung jedoch bei ihren Eltern, so werden diese Beträge zum anrechenbaren Einkommen der Eltern hinzugerechnet;
-- d) einer minimalen Beteiligung von 2000 Franken für Personen in Ausbildung auf Sekundarstufe II und von 3000 Franken für Personen in Ausbildung auf Tertiärstufe; übersteigt das Einkommen das Doppelte der minimalen Beteiligung, so werden 65 % des Einkommensüberschusses angerechnet und zur minimalen Beteiligung hinzugefügt; die zumutbare minimale Beteiligung der Personen, die eine Ausbildung in Teilzeit oder in Modulen absolvieren, kann angepasst werden;
+- d) einem jährlichen Mindestbeitrag von 2200 Franken für Personen in Vorbereitung auf eine Ausbildung oder in Ausbildung auf der Sekundarstufe 2 (S2);
+- d1) einem jährlichen Mindestbeitrag von 3300 Franken für Personen in Vollzeitausbildung auf Tertiärstufe;
+- d2) dem jährlichen Mindestbeitrag (Bst. d und d1), erhöht um 65 % des Einkommens, welches das Doppelte dieses Betrags übersteigt, für Personen in Ausbildung auf der Sekundarstufe 2 oder der Tertiärstufe, die ein obligatorisches bezahltes Praktikum absolvieren, sowie für Personen in der dualen, berufsbegleitenden oder Teilzeitausbildung;
+- d3) einem jährlichen Mindestbeitrag, der in den Richtlinien der Kommission für Ausbildungsbeiträge festgelegt ist, für Personen, die eine Ausbildung in Teilzeit oder in Modulen absolvieren und nicht oder wenig arbeiten;
 - e) gegebenenfalls 70 % der Bruttoeinkommen der Ehegattin oder des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners oder der Konkubinatspartnerin oder des Konkubinatspartners mit einem oder mehreren gemeinsamen Kindern.
 
 #### Art. 27

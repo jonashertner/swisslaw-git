@@ -4,13 +4,12 @@ number: "44.11"
 title: "Règlement sur les bourses et les prêts d'études"
 short: RBPE
 language: fr
-version: 2025-08-19
-valid_until: 2026-08-16
-version_adopted: 2025-08-19
+version: 2026-08-17
+version_adopted: 2026-07-08
 adopted: 2008-07-08
 in_force: 2008-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/44.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8244/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8643/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Bourses et prêts d'études – R
 
 (RBPE)
 
-du 08.07.2008 (version entrée en vigueur le 19.08.2025)
+du 08.07.2008 (version entrée en vigueur le 17.08.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -321,7 +320,10 @@ Arrête:
 - a) la participation financière des parents et des autres personnes légalement tenues à son entretien, conformément à l'article 24 al. 2;
 - b) les éventuelles rentes et prestations d'assurances, avec une déduction de 10 %. Toutefois, si la personne en formation loge chez ses parents, ces montants sont ajoutés au revenu déterminant des parents;
 - c) les éventuelles pensions alimentaires et prestations complémentaires. Toutefois, si la personne en formation loge chez ses parents, ces montants sont ajoutés au revenu déterminant des parents;
-- d) une participation minimale de 2000 francs pour les personnes en formation secondaire du deuxième degré et de 3000 francs pour les personnes en formation de degré tertiaire. En cas d'un revenu dépassant le double de la participation minimale, 65 % du montant excédentaire sont retenus et ajoutés à la participation minimale. La participation minimale exigible des personnes qui effectuent une formation à temps partiel ou par modules peut être adaptée;
+- d) pour les personnes en préformation ou en formation secondaire du deuxième degré (S2), une participation annuelle minimale de 2200 francs;
+- d1) pour les personnes en formation de degré tertiaire à plein temps, une participation annuelle minimale de 3300 francs;
+- d2) pour les personnes en formation au S2 ou au tertiaire effectuant un stage rémunéré obligatoire, ainsi que pour les personnes en formation duale et en cours d'emploi ou à temps partiel, la participation annuelle minimale (let. d et d1), augmentée des 65% du revenu qui dépasse le double de cette dernière;
+- d3) pour les personnes qui effectuent une formation à temps partiel, en cours d'emploi ou par modules et qui ne travaillent pas ou peu, une participation annuelle minimale fixée par les directives de la Commission des subsides de formation;
 - e) le cas échéant, les revenus bruts du conjoint ou de la conjointe, du ou de la partenaire enregistré-e, ou du concubin ou de la concubine avec enfant(s) commun(s) à raison de 70 %.
 
 #### Art. 27
