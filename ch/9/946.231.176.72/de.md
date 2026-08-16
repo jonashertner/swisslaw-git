@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-08-11
+version: 2026-08-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260811/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260811-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260811/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260817/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260817-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260817/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 11. August 2026)
+vom 4. März 2022 (Stand am 17. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2930,8 +2930,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), Ziff. I Abs. 1 der V des WBF vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) und Ziff. II Abs. 1 der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), vom 31. Jan. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) und Ziff. I der V des WBF vom 29. Febr. 2024 ([AS 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), Ziff. II Abs. 1 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), Ziff. I der V des WBF vom 12. Dez. 2024 ([AS 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. II Abs. 2 der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) und Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025 ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)), Ziff. II Abs. 1 der V vom 12. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)), Ziff. I Abs. 1 der V des WBF vom 21. Mai 2026 ([AS 2026 235](https://fedlex.data.admin.ch/eli/oc/2026/235)) und Ziff. I der V des WBF vom 10. Aug. 2026, in Kraft seit 11. Aug. 2026 um 23.00 Uhr ([AS 2026 412](https://fedlex.data.admin.ch/eli/oc/2026/412)).
-[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/412](https://fedlex.data.admin.ch/eli/oc/2026/412) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), Ziff. I Abs. 1 der V des WBF vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) und Ziff. II Abs. 1 der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), vom 31. Jan. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) und Ziff. I der V des WBF vom 29. Febr. 2024 ([AS 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), Ziff. II Abs. 1 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), Ziff. I der V des WBF vom 12. Dez. 2024 ([AS 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. II Abs. 2 der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) und Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025 ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)), Ziff. II Abs. 1 der V vom 12. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)), Ziff. I Abs. 1 der V des WBF vom 21. Mai 2026 ([AS 2026 235](https://fedlex.data.admin.ch/eli/oc/2026/235)), Ziff. I der V des WBF vom 10. Aug. 2026 ([AS 2026 412](https://fedlex.data.admin.ch/eli/oc/2026/412)) und vom 14. Aug. 2026, in Kraft seit 17. Aug. 2026 um 23.00 Uhr ([AS 2026 421](https://fedlex.data.admin.ch/eli/oc/2026/421)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/421](https://fedlex.data.admin.ch/eli/oc/2026/421) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 
@@ -3393,8 +3393,8 @@ Anhang 14a[^t-14]
 
 [^annex14a-lvlu1-1]
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 12. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)) und vom 21. Mai 2026, in Kraft seit 22. Mai 2026 um 23.00 Uhr ([AS 2026 235](https://fedlex.data.admin.ch/eli/oc/2026/235)).
-[^annex14a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/235](https://fedlex.data.admin.ch/eli/oc/2026/235) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 12. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)), vom 21. Mai 2026 ([AS 2026 235](https://fedlex.data.admin.ch/eli/oc/2026/235)) und Ziff. I der V des WBF vom 14. Aug. 2026, in Kraft seit 17. Aug. 2026 um 23.00 Uhr ([AS 2026 421](https://fedlex.data.admin.ch/eli/oc/2026/421)).
+[^annex14a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/421](https://fedlex.data.admin.ch/eli/oc/2026/421) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14b[^t-15]
 
