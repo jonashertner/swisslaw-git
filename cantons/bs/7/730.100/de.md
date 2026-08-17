@@ -4,13 +4,12 @@ number: "730.100"
 title: Bau- und Planungsgesetz
 short: BPG
 language: de
-version: 2025-11-01
-valid_until: 2026-08-17
-version_adopted: 2024-12-11
+version: 2026-08-18
+version_adopted: 2024-05-15
 adopted: 1999-11-17
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6680/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6877/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bau- und Planungsgesetz | Hochbauten
 
 (BPG)
 
-Vom 17. November 1999 (Stand 1. November 2025)
+Vom 17. November 1999 (Stand 18. August 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -1374,6 +1373,8 @@ In den Zonen 2 und 2a 8 m
 
 ### 3.A.IV. Bebauungspläne
 
+### 3.A.IV.1. Allgemeines
+
 #### § 101
 
 <sup>1</sup> Bebauungspläne sollen in begrenzten Gebieten bessere Bebauungen gewährleisten als die baurechtliche Grundordnung oder die Koordination der Nutzungsplanung erleichtern. Sie sind in der Regel das Ergebnis von Planungsverfahren wie Testplanungen, Studienaufträgen, Wettbewerben, welche die städtebauliche Qualität sichern. Sie gehen allgemeineren Regelungen vor.
@@ -1392,9 +1393,26 @@ In den Zonen 2 und 2a 8 m
 - h) frühere Stichtage für die Festsetzung und die Erhebung von Mehrwertabgaben, wenn die Abgabepflichtigen darum ersuchen;
 - i) Landschafts- und Ortsbilder, geschichtliche Stätten sowie Natur- und Kulturdenkmäler, die erhalten werden müssen;
 - j) die Gestaltung von Strassenräumen;
+- j)<sup>bis</sup> Massnahmen zur Erreichung des Zielwerts von mindestens 25 % preisgünstigem Wohnraum bis 2050;
 - k) den Zweck oder wesentliche Eigenschaften des Planes, von denen Pläne unterer Stufen und Verfügungen nicht abweichen dürfen.
 
 <sup>3</sup> In einem Bebauungsplan kann vorgesehen werden, dass der Regierungsrat oder der Gemeinderat in einem weiteren Planungsverfahren ergänzende Bestimmungen über das Mass der baulichen Nutzung oder die Bebauung zu erlassen hat.
+
+### 3.A.IV.2. Transformationsareale
+
+#### § 101a
+
+<sup>1</sup> Für Bahnareale, Industrie- und Gewerbezonen sowie überwiegend gewerblich genutzte Areale in anderen Zonen, die einen Planungsperimeter von mehr als 15'000 m² umfassen und für die ein Anteil Wohnen festgelegt wird, sind Bebauungspläne zu erlassen.
+
+<sup>2</sup> Bebauungspläne gemäss Abs. 1 haben mindestens Folgendes zu enthalten:
+
+- a) die Verpflichtung der Eigentümerschaft, mindestens einen Drittel der neu für Wohnen geplanten Bruttogeschossfläche dauerhaft gemeinnützig gemäss den Vorgaben der §§ 6a - 6e des Gesetzes über die Wohnraumförderung (Wohnraumfördergesetz, WRFG) vom 5. Juni 2013 zu vermieten;
+- b) die Realisierungsabfolge des dauerhaft gemeinnützig zu vermietenden Wohnraumes;
+- c) die Verpflichtung der Eigentümerschaft, für den dauerhaft gemeinnützig zu vermietenden Wohnraum die Vorgaben zur Nutzfläche des enthaltenen Wohnraums gemäss § 10 Abs. 2 lit. b der Verordnung über die Wohnraumförderung (Wohnraumförderungsverordnung, WRFV) vom 17. Juni 2014 einzuhalten;
+- d) die Verpflichtung der Eigentümerschaft, das gesamte Areal in städtebaulich und architektonisch guter Qualität zu realisieren;
+- e) die Verpflichtung der Eigentümerschaft, dass das gesamte Areal im Rahmen der wirtschaftlichen und technischen Möglichkeiten klimafreundlich erstellt wird und im Betrieb das Ziel der Klimaneutralität erreicht.
+
+<sup>3</sup> Quartierdienliche Nutzungen sind angemessen zu berücksichtigen.
 
 ### 3.A.V. Nutzungsüberlagerungen
 
