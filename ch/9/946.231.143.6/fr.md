@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Ordonnance du 12 décembre 2025 instituant des mesures à l’encontre de la République islamique d’Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: fr
-version: 2026-04-14
+version: 2026-08-18
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260414/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260414-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260414/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260818/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260818-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260818/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 12 décembre 2025 (État le 14 avril 2026)
+du 12 décembre 2025 (État le 18 août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -176,7 +176,7 @@ Il peut autoriser des dérogations aux interdictions prévues à l’al. 2 dans 
 
 <sup>2</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage et les conseils techniques, l’octroi de moyens financiers et les investissements en rapport avec la vente, la livraison, l’exportation, le transit, le développement, la fabrication, l’entretien ou l’utilisation des biens visés à l’annexe 7 sont interdits.
 
-<sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à l’exécution de contrats en lien avec l’art. 19, al. 3, let. b.
+<sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à l’exécution de contrats en lien avec l’art. 9, al. 3, let. b.
 
 #### Art. 9
 
@@ -1448,8 +1448,8 @@ Annexe 12[^t-2]
 
 [^annex12-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I de l’O du DEFR du 13 avr. 2026, en vigueur depuis le 14 avr. 2026 à 23 heures ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)).
-[^annex12-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/147](https://fedlex.data.admin.ch/eli/oc/2026/147) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I des O du DEFR du 13 avr. 2026 ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) et du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^annex12-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 13[^t-3]
 
@@ -1459,8 +1459,8 @@ Annexe 13[^t-3]
 
 [^annex13-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026, en vigueur depuis le 10 mars 2026 à 23 heures ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
-[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-3]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I de l’O du DEFR du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14[^t-4]
 
@@ -1470,8 +1470,8 @@ Annexe 14[^t-4]
 
 [^annex14-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I de l’O du DEFR du 13 avr. 2026, en vigueur depuis le 14 avr. 2026 à 23 heures ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)).
-[^annex14-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/147](https://fedlex.data.admin.ch/eli/oc/2026/147) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-4]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I des O du DEFR du 13 avr. 2026 ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) et du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^annex14-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 15
 

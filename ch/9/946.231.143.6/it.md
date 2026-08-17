@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Ordinanza del 12 dicembre 2025 che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: it
-version: 2026-04-14
+version: 2026-08-18
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260414/it/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260414-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260414/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260818/it/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260818-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260818/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-del 12 dicembre 2025 (Stato 14 aprile 2026)
+del 12 dicembre 2025 (Stato 18 agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -1450,8 +1450,8 @@ Allegato 12[^t-2]
 
 [^annex12-lvlu1-1]
 
-[^t-2]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) e dalla cifra I dell’O del DEFR del 13 apr. 2026, in vigore dal 14 apr. 2026 alle ore 23.00 ([RU 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)).
-[^annex12-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/147](https://fedlex.data.admin.ch/eli/oc/2026/147) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) e dalle cifre I delle O del DEFR del 13 apr. 2026 ([RU 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) e del 17 ago. 2026, in vigore dal 18 ago. 2026 alle ore 23.00 ([RU 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^annex12-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 13[^t-3]
 
@@ -1461,8 +1461,8 @@ Allegato 13[^t-3]
 
 [^annex13-lvlu1-1]
 
-[^t-3]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026, in vigore dal 10 mar. 2026 alle ore 23.00 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
-[^annex13-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) e dalla cifra I dell’O del DEFR del 17 ago. 2026, in vigore dal 18 ago. 2026 alle ore 23.00 ([RU 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^annex13-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14[^t-4]
 
@@ -1472,8 +1472,8 @@ Allegato 14[^t-4]
 
 [^annex14-lvlu1-1]
 
-[^t-4]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) e dalla cifra I dell’O del DEFR del 13 apr. 2026, in vigore dal 14 apr. 2026 alle ore 23.00 ([RU 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)).
-[^annex14-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/147](https://fedlex.data.admin.ch/eli/oc/2026/147) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 9 mar. 2026 ([RU 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) e dalle cifre I delle O del DEFR del 13 apr. 2026 ([RU 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) e del 17 ago. 2026, in vigore dal 18 ago. 2026 alle ore 23.00 ([RU 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^annex14-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 15
 
