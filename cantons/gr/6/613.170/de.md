@@ -4,12 +4,12 @@ number: "613.170"
 title: Beitritt des Kantons Graubünden zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
 language: de
 version: 2015-05-21
-corrected: 2025-01-07
+corrected: 2026-08-19
 version_adopted: 2015-05-26
 adopted: 2008-08-29
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.170"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2603/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3526/pdf_file"
 text: pdf
 ---
 
@@ -19,9 +19,9 @@ text: pdf
 
 vom 29. August 2008
 
-Der Grosse Rat des Kantons[^t-1]
+Der Grosse Rat des Kantons[^t-1],
 
-gestützt auf Art. 32 Abs. 2 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 20. Mai 2008[^t-3]
+gestützt auf Art. 32 Abs. 2 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 20. Mai 2008[^t-3],
 
 beschliesst:
 
@@ -29,7 +29,7 @@ beschliesst:
 
 1a. Der Kanton Graubünden genehmigt die Änderungen vom 2. Februar 2012/31. Januar 2014 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^t-5].
 
-- 2\. Der Polizeigewahrsam kann innert 30 Tagen seit Anordnung beim Verwaltungsgericht mit verwaltungsgerichtlicher Beschwerde auf seine Rechtmässigkeit überprüft werden.
+- 2\. Der Polizeigewahrsam kann innert 30 Tagen seit Anordnung beim Obergericht mit verwaltungsgerichtlicher Beschwerde auf seine Rechtmässigkeit überprüft werden.
 
 - 3\. Die Regierung wird ermächtigt, den Beitritt zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen zu erklären[^t-6].
 
