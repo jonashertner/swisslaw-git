@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 2012 concernente il rilascio di documenti di vi
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: it
-version: 2025-11-01
+version: 2026-08-20
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20251101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20260820/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20260820-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20260820/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/it"
 
 (ODV)
 
-del 14 novembre 2012 (Stato 1° novembre 2025)
+del 14 novembre 2012 (Stato 20 agosto 2026)
 
 Il Consiglio federale svizzero,
 
@@ -41,7 +41,7 @@ La Segreteria di Stato della migrazione (SEM)[^1-1] rilascia i seguenti document
 
 - a. titoli di viaggio per rifugiati;
 - b. passaporti per stranieri;
-- c.[^1-2] ...
+- c.[^1-2] …
 - d.[^1-3] documenti di viaggio sostitutivi per stranieri per l’esecuzione dell’allontanamento, dell’espulsione o dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^1-4] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^1-5] (espulsione giudiziaria).
 
 <sup>2</sup> La SEM può rilasciare un’autorizzazione al ritorno sotto forma di visto di ritorno.
@@ -191,11 +191,10 @@ Una persona ammessa provvisoriamente può ottenere un documento di viaggio o un 
 
 <sup>7</sup> I capoversi 1–6 si applicano per analogia alle persone bisognose di protezione.
 
-<sup>8</sup> Le persone bisognose di protezione secondo la decisione di portata generale del Consiglio federale dell’8 ottobre 2025[^9-2] concernente la concessione della protezione provvisoria in relazione alla situazione in Ucraina possono recarsi all’estero e tornare in Svizzera senza autorizzazione di viaggio.[^9-3]
+<sup>8</sup> Le persone bisognose di protezione che soddisfano i criteri per la concessione della protezione provvisoria in relazione alla situazione in Ucraina fissati dal Consiglio federale in virtù dell’articolo 66 della legge sull’asilo possono recarsi all’estero e tornare in Svizzera senza autorizzazione di viaggio, fintantoché la protezione provvisoria non sia stata revocata.[^9-2]
 
 [^9-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^9-2]: [FF 2025 3074](https://fedlex.data.admin.ch/eli/fga/2025/3074)
-[^9-3]: Introdotto dalla cifra I dell’O dell’11 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Nuovo testo giusta la cifra I l’O dell’8 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 625](https://fedlex.data.admin.ch/eli/oc/2025/625)).
+[^9-2]: Introdotto dalla cifra I dell’O dell’11 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 20 ago. 2026 ([RU 2026 423](https://fedlex.data.admin.ch/eli/oc/2026/423)).
 
 #### Art. 9a
 
@@ -250,7 +249,7 @@ Una persona ammessa provvisoriamente può ottenere un documento di viaggio o un 
 
 <sup>3</sup> Il titolo di viaggio per rifugiati non autorizza viaggi nello Stato d’origine o di provenienza o in uno Stato per il quale è stato disposto nei loro confronti un divieto di viaggio.[^12-1]
 
-<sup>4</sup> ...[^12-2]
+<sup>4</sup> …[^12-2]
 
 [^12-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 955](https://fedlex.data.admin.ch/eli/oc/2020/177)).
 [^12-2]: Abrogato dalla cifra I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
@@ -276,7 +275,7 @@ I documenti di viaggio sono validi:
 
 <sup>4</sup> La durata di validità di un documento di viaggio non può essere prorogata.
 
-<sup>5</sup> ...[^13-5]
+<sup>5</sup> …[^13-5]
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 ott. 2023 ([RU 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
 [^13-2]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 ott. 2023 ([RU 2023 248](https://fedlex.data.admin.ch/eli/oc/2023/248)).
@@ -465,7 +464,7 @@ Nella misura in cui la presente ordinanza non comporta disciplinamenti speciali,
 
 [^27-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
-#### Art. 28 a 30
+#### Art. 28–30
 
 [^2830-1]
 
@@ -576,6 +575,6 @@ Allegato 4
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annex4-lvlu1-1]
+…[^annex4-lvlu1-1]
 
 [^annex4-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 6049](https://fedlex.data.admin.ch/eli/oc/2012/713).

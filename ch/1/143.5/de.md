@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2012 über die Ausstellung von Reisedokumente
 short: RDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: de
-version: 2025-11-01
+version: 2026-08-20
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20251101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20260820/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20260820-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20260820/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/de"
 
 (RDV)
 
-vom 14. November 2012 (Stand am 1. November 2025)
+vom 14. November 2012 (Stand am 20. August 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -191,11 +191,10 @@ Eine vorläufig aufgenommene Person kann ein Reisedokument oder ein Rückreisevi
 
 <sup>7</sup> Für schutzbedürftige Personen gelten die Absätze 1–6 sinngemäss.
 
-<sup>8</sup> Schutzbedürftige Personen gemäss der Allgemeinverfügung des Bundesrates vom 8. Oktober 2025[^9-2] zur Gewährung des vorübergehenden Schutzes im Zusammenhang mit der Situation in der Ukraine können ohne Reisebewilligung ins Ausland reisen und in die Schweiz zurückkehren.[^9-3]
+<sup>8</sup> Schutzbedürftige Personen, die die vom Bundesrat gestützt auf Artikel 66 des Asylgesetzes festgelegten Kriterien zur Gewährung des vorübergehenden Schutzes im Zusammenhang mit der Situation in der Ukraine erfüllen, können ohne Reisebewilligung ins Ausland reisen und in die Schweiz zurückkehren, solange der vorübergehende Schutz nicht aufgehoben wurde.[^9-2]
 
 [^9-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^9-2]: [BBl 2025 3074](https://fedlex.data.admin.ch/eli/fga/2025/3074)
-[^9-3]: Eingefügt durch Ziff. I der V vom 11. März 2022 ([AS 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Fassung gemäss Ziff. I der V vom 8. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 625](https://fedlex.data.admin.ch/eli/oc/2025/625)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 11. März 2022 ([AS 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 20. Aug. 2026 ([AS 2026 423](https://fedlex.data.admin.ch/eli/oc/2026/423)).
 
 #### Art. 9a
 

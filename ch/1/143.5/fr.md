@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 2012 sur l'établissement de documents de voya
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: fr
-version: 2025-11-01
+version: 2026-08-20
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20251101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20260820/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20260820-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20260820/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/fr"
 
 (ODV)
 
-du 14 novembre 2012 (État le 1<sup>er</sup> novembre 2025)
+du 14 novembre 2012 (État le 20 août 2026)
 
 Le Conseil fédéral suisse,
 
@@ -191,11 +191,10 @@ Un document de voyage ou un visa de retour peut être remis à une personne admi
 
 <sup>7</sup> Les al. 1 à 6 s’appliquent par analogie aux personnes à protéger.
 
-<sup>8</sup> Les personnes à protéger visées par la décision de portée générale du Conseil fédéral du 8 octobre 2025 concernant l’octroi de la protection provisoire en lien avec la situation en Ukraine[^9-2] peuvent se rendre à l’étranger et revenir en Suisse sans autorisation de voyage.[^9-3]
+<sup>8</sup> Les personnes à protéger qui remplissent les critères pour l’octroi de la protection provisoire en lien avec la situation en Ukraine fixés par le Conseil fédéral en vertu de l’art. 66 de la loi sur l’asile peuvent se rendre à l’étranger et revenir en Suisse sans autorisation de voyage, tant que la protection provisoire n’est pas levée.[^9-2]
 
 [^9-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^9-2]: [FF 2025 3074](https://fedlex.data.admin.ch/eli/fga/2025/3074)
-[^9-3]: Introduit par le ch. I de l’O du 11 mars 2022 ([RO 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Nouvelle teneur selon le ch. I de l’O du 8 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 625](https://fedlex.data.admin.ch/eli/oc/2025/625)).
+[^9-2]: Introduit par le ch. I de l’O du 11 mars 2022 ([RO 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 20 août 2026 ([RO 2026 423](https://fedlex.data.admin.ch/eli/oc/2026/423)).
 
 #### Art. 9a
 
@@ -267,7 +266,7 @@ La durée de validité des documents de voyage est fixée comme suit:
 - b.[^13-2] titre de voyage pour réfugiés et passeport pour étrangers remis aux personnes visées à l’art. 4, al. 1, âgées de moins de 18 ans au moment de la demande: cinq ans;
 - b<sup>bis</sup>.[^13-3] passeport pour étrangers remis aux personnes visées à l’art. 4, al. 2, let. a: cinq ans;
 - c. passeport pour étrangers remis aux personnes visées à l’art. 4, al. 2, let. b: dix mois; ce passeport perd sa validité après que le voyage autorisé au sens de l’art. 9 a eu lieu;
-- d. passeport pour étrangers remis aux personnes visées à l’art. 4, al. 2, let. c: ce passeport perd sa validité après que l'entrée dans le pays de destination a eu lieu;
+- d. passeport pour étrangers remis aux personnes visées à l’art. 4, al. 2, let. c: ce passeport perd sa validité après que l’entrée dans le pays de destination a eu lieu;
 - e. document de voyage supplétif: limité à une seule entrée, une seule sortie ou un seul retour.[^13-4]
 
 <sup>2</sup> La durée de validité d’un visa de retour est de dix mois au maximum.
@@ -503,7 +502,7 @@ Annexe 2[^t-2]
 
 ## Émoluments pour l’établissement de documents de voyage et de visas de retour
 
-[^t-2]: Nouvelle teneur selon l'annexe ch. 3 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^t-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 - 1 Établissement d’un document de voyage au sens de l’art. 1, al. 1, let. a et b:
 
@@ -544,7 +543,7 @@ Annexe 3[^t-3]
 
 ## Répartition des émoluments entre la Confédération et les cantons
 
-[^t-3]: Nouvelle teneur selon l'annexe ch. 3 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^t-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 <table>
 <tr><td>Documents de voyage et visas de retour</td><td>Confédération</td><td></td><td colspan="3">Autorité cantonale compétente</td><td></td></tr>
