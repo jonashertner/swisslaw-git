@@ -4,13 +4,13 @@ number: 131.2-A4
 title: Verordnung zum Wahl- und Abstimmungsgesetz (Anhang 4)
 short: "Wahl- und Abstimmungsverordnung, WAV"
 language: de
-version: 2026-02-20
-valid_until: 2026-08-19
-version_adopted: 2025-12-16
+version: 2026-08-20
+valid_until: 2026-09-07
+version_adopted: 2026-08-19
 adopted: 2015-07-07
 in_force: 2015-07-11
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.2-A4"
-pdf: "https://bgs.zg.ch/api/de/versions/3024/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3054/pdf_file"
 text: pdf
 ---
 
@@ -40,7 +40,7 @@ Nr. Kandidierende Personen bzw. Ersatzmitglieder] des [Organ] 01 [Nachame Vornam
 
 - Ich darf auf dem Wahlzettel nur Namen von kan- 06 [Nachame Vorname], [Jahrgang], [Berufsbedidierenden Personen vom Beiblatt aufführen. zeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)]
 
-- Ich darf den Wahlzettel ganz oder teilweise mit 07 [Nachame Vorname], [Jahrgang], [Berufsbe-Namen von kandiererenden Personen ausfüllen. zeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)]
+- Ich darf den Wahlzettel ganz oder teilweise mit 07 [Nachame Vorname], [Jahrgang], [Berufsbe-Namen von kandidierenden Personen ausfüllen. zeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)]
 
 - Ich darf den Namen der gleichen kandidierenden 08 [Nachame Vorname], [Jahrgang], [Berufsbe-Person nur einmal aufführen (kumulieren nicht zeichnung], [PLZ/Ort], [Partei], [ggf. (bisher)] erlaubt).
 
