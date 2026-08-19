@@ -4,13 +4,13 @@ number: 131.2-A1
 title: Verordnung zum Wahl- und Abstimmungsgesetz (Anhang 1)
 short: "Wahl- und Abstimmungsverordnung, WAV"
 language: de
-version: 2026-02-20
-valid_until: 2026-08-19
-version_adopted: 2025-12-16
+version: 2026-08-20
+valid_until: 2026-09-07
+version_adopted: 2026-08-19
 adopted: 2015-07-07
 in_force: 2015-07-11
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.2-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/3021/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3053/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Wahlzettel Wahlzettel Wahlzettel Wahlzettel
 
-**Staatskanzlei, 12. Mai 2026 (Muster)**
+**Staatskanzlei, 19. August 2026 (Muster)**
 
 **105 mm**
 
