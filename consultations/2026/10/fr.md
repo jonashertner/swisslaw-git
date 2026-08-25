@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l'ordonnance sur l'intégrité et la transparence dans le domaine des produits thérapeutiques (OITPTh) (extension de l'intégrité aux dispositifs médicaux)"
 document: Projet mis en consultation
 language: fr

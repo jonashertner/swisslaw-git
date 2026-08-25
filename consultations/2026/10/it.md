@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell'ordinanza concernente l'integrità e la trasparenza nel settore degli agenti terapeutici (OITAT) (estensione dell'integrità ai dispositivi medici)"
 document: Progetto posto in consultazione
 language: it

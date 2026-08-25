@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Integrität und Transparenz im Heilmittelbereich (VITH) (Erweiterung der Integrität auf Medizinprodukte)
 document: Vernehmlassungsvorlage
 language: de
