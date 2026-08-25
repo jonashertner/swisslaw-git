@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d'o
 short: ODAlAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: fr
-version: 2024-02-01
+version: 2026-08-26
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-152-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20260826/fr/xml/fedlex-data-admin-ch-eli-cc-2017-152-20260826-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20260826/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/fr"
 
 (ODAlAn)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 26 août 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 9, 10, al. 4, let. a, 14, al. 1, et 36, al. 3 et 4, de l’ordonnanc
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Chapitre 1 Objet, champ d’application et espèces animales admises
 
@@ -99,7 +99,7 @@ Dans le cas des denrées alimentaires d’origine animale congelées, jusqu’au
 
 <sup>3</sup> Le choix de la forme sous laquelle les informations doivent être tenues à disposition relève du fournisseur.
 
-[^3-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Chapitre 3 Viandes
 
@@ -215,7 +215,7 @@ La teneur en calcium de la viande séparée mécaniquement doit être:
 - b. déterminée par une méthode standardisée reconnue au niveau international.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^8-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^8-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### Section 6 Étiquetage
 
@@ -302,8 +302,8 @@ Une mention relative à l’hygiène ou une référence claire à celle-ci doit 
 
 <sup>10</sup> ...[^10-3]
 
-[^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^10-2]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)annexe 2 ch. II 4, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6 5201 annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 al. 1]. Voir aujourd'hui: O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^10-2]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)annexe 2 ch. II 4, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6 5201 annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 al. 1]. Voir aujourd’hui: O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)).
 [^10-3]: Abrogé par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 ## Chapitre 4 Produits transformés à base de viande
@@ -383,7 +383,7 @@ Les centres de collecte et tanneries peuvent fournir de la matière première sa
 <sup>10</sup> La gélatine alimentaire doit présenter une teneur en protéines égale ou supérieure à 84 % masse.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 13
 
@@ -417,8 +417,8 @@ Les matières premières destinées à la fabrication de produits d’origine an
 
 <sup>3</sup> Le cheveu humain ne peut pas être utilisé pour la production d’acides aminés.
 
-[^14-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^14-2]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^14-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^14-2]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 ## Chapitre 6 Mollusques bivalves vivants, échinodermes vivants, tuniciers vivants et gastéropodes marins vivants
 
@@ -521,10 +521,10 @@ Les produits de la pêche frais, préparés, surgelés ou transformés issus de 
 <sup>7</sup> ...[^19-6]
 
 [^19-1]: Cf. note de bas de page relative à l’art. 18, let. a.
-[^19-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^19-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^19-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^19-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^19-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^19-5]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 [^19-6]: Abrogé par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 #### Art. 20
@@ -646,7 +646,7 @@ Il est possible de renoncer à la réfrigération lorsque:
 
 <sup>4</sup> Dès lors que toutes les matières premières et tous les processus de fabrication sont conformes aux exigences applicables à l’huile de poisson destinée à la consommation humaine, cette dernière et l’huile de poisson non destinée à la consommation humaine peuvent être produites et entreposées dans le même établissement.
 
-[^27-1]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^27-1]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 28
 
@@ -718,7 +718,7 @@ Les graisses d’origine animale et les cretons doivent provenir de matières pr
 <sup>3</sup> Le lait est réputé prêt à la consommation s’il a été soumis à un traitement au sens de l’art. 49 OHyg[^32-2]. Le lait au sens de l’art. 53, al. 2, OHyg fait exception.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^32-2]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^32-2]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 ### Section 2 Exigences
 
@@ -799,7 +799,7 @@ Pour le lait prêt à la consommation, les mentions obligatoires visées[^37-1] 
 - f. l’indication «homogénéisé» lorsque le lait a été soumis à une homogénéisation.
 
 [^37-1]: Nouvelle expression selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)). Il a été tenu compte de cette mod. dans tout le texte.
-[^37-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 38
 
@@ -815,7 +815,7 @@ Lorsque le lait cru est remis préemballé, les mentions obligatoires visées à
 
 <sup>2</sup> Si le lait cru est présenté à la vente en vrac, le détaillant est tenu d’informer le consommateur sur le fait que le lait cru n’est pas prêt à être consommé et doit être chauffé au moins à 70 °C avant toute consommation. Il est par ailleurs tenu de l’informer sur la durée et les conditions de conservation du lait cru.
 
-[^38-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^38-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Chapitre 11 Produits laitiers
 
@@ -858,7 +858,7 @@ Pour les produits laitiers, les mentions obligatoires visées à l’art. 3 OIDA
 
 <sup>6</sup> Si des microorganismes spécifiques sont utilisés lors de la fabrication et si leur concentration dans le produit fini est d’au moins 1 million d’unités formant colonie par gramme, leur mention est admise.
 
-[^41-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^41-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^41-2]: Erratum du 5 fév. 2019, ne concerne que le texte italien ([RO 2019 519](https://fedlex.data.admin.ch/eli/oc/2019/89)).
 [^41-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
@@ -974,7 +974,7 @@ Peuvent être utilisés pour le traitement du fromage, en plus des substances é
 <sup>3</sup> Est également admis pour conférer une certaine sapidité le procédé du fumage.
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^51-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^51-2]: [RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 52
 
@@ -1035,11 +1035,11 @@ Si du fromage de chèvre ou de brebis n’a pas été obtenu exclusivement à pa
 - a. «fromage demi-chèvre», «fromage mi-chèvre» ou «fromage demi-lait de brebis» si le lait destiné à la fabrication se compose d’au moins 500 g/kg de lait de chèvre ou de lait de brebis;
 - b. «fromage additionné de X % de lait de chèvre» ou «fromage additionné de Y % de lait de brebis», si le lait destiné à la fabrication a été additionné de moins de 500 g de lait de chèvre ou de lait de brebis par kilogramme.
 
-[^53-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^53-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^53-1]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^53-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^53-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^53-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^53-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^53-5]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 54
 
@@ -1051,7 +1051,7 @@ Les substances admises pour l’estampillage des fromages sont les suivantes:
 - b. le bleu d’outremer (n° CI 77007);
 - c. le violet de méthyle B (n° CI 42535).
 
-[^54-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^54-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 55
 
@@ -1166,8 +1166,8 @@ La composition doit satisfaire aux exigences suivantes:
 - b. si la dénomination spécifique comprend une indication de provenance selon la loi du 28 août 1992 sur la protection des marques[^62-2], le mélange utilisé pour la fonte doit contenir au moins 750 g/kg de la variété citée. Le reste du fromage doit être comparable à la variété citée;
 - c. pour toute autre dénomination de fromage, le mélange utilisé pour la fonte doit contenir plus de 500 g/kg du fromage en question.
 
-[^62-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^62-2]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^62-1]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^62-2]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
 
 #### Art. 63
 
@@ -1299,7 +1299,7 @@ Si la crème crue est présentée à la vente en vrac, le détaillant est tenu d
 - a. du fait que la crème crue n’est pas prête à la consommation;
 - b. de la durée et des conditions de conservation de la crème crue.
 
-[^71-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^71-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### Section 7 Beurre, matières grasses laitières à tartiner, préparations à base de beurre et autres produits dérivés du beurre
 
@@ -1375,7 +1375,7 @@ Les dénominations spécifiques suivantes doivent être utilisées:
 
 <sup>7</sup> Le beurre trois-quarts gras peut aussi être dénommé «beurre à teneur réduite en matière grasse» et le beurre demi-gras «beurre léger» ou «beurre light».
 
-[^75-1]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^75-1]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 [^75-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 76
@@ -1613,7 +1613,7 @@ Si les œufs sont remis préemballés, les mentions obligatoires visées à l’
 
 <sup>4</sup> La date de durabilité minimale selon l’art. 13, al. 1, OIDAl doit être fixée à 28 jours au maximum après la ponte.
 
-[^92-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^92-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^92-2]: Le tarif d’usage peut être consulté ou commandé à la Direction générale des douanes, Monbijoustrasse 40, 3003 Berne.
 
 #### Art. 93
@@ -1626,10 +1626,10 @@ Les mentions obligatoires visées à l’art. 3 OIDAl[^93-1] doivent être compl
 - b. lorsque d’autres denrées alimentaires sont ajoutées aux ovoproduits: par la teneur en œuf, en pour-cent masse, rapportée au produit fini;
 - c.[^93-3] pour les œufs liquides selon l’art 57, al. 7, OHyg[^93-4]: en sus de l’indication requise à la let. a, par la mention «œufs liquides non pasteurisés – à traiter sur le lieu de destination» et par la date et l’heure auxquelles les œufs ont été cassés.
 
-[^93-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^93-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^93-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^93-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^93-4]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^93-4]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 94
 
@@ -1637,7 +1637,7 @@ Les mentions obligatoires visées à l’art. 3 OIDAl[^93-1] doivent être compl
 
 <sup>1</sup> Les œufs qui ne proviennent pas de poules (*Gallus domesticus*) doivent porter, en sus des indications requises à l’art. 92, la mention de l’espèce concernée, comme par ex. œufs de cane ou œufs de caille.
 
-<sup>2</sup> Les emballages, les conditionnements et les récipients qui contiennent des œufs de cane doivent porter une mention telle que: «à ne consommer qu’après au moins dix minutes de cuisson !».
+<sup>2</sup> Les emballages, les conditionnements et les récipients qui contiennent des œufs de cane doivent porter une mention telle que: «à ne consommer qu’après au moins dix minutes de cuisson!».
 
 ### Section 3 Colorants admis
 
@@ -1705,7 +1705,7 @@ La dénomination spécifique, excepté pour le miel de pâtisserie et le miel in
 - b. par un nom régional, territorial ou topographique, si le miel provient de l’origine indiquée; les dispositions de l’ordonnance du 28 mai 1997 sur les AOP et les IGP[^98-2] sont réservées.
 
 [^98-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^98-2]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
+[^98-2]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
 
 ### Section 2 Gelée royale
 
@@ -1918,7 +1918,7 @@ Les colorants suivants peuvent être utilisés pour colorer les coquilles d’œ
 - 1\.12 le silicate alumino-potassique (E555);
 - 1\.13 Dioxyde de titane (E171).
 
-[^annex6-lvlu1-lvl1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex6-lvlu1-lvl1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 ### 2. Estampillage des œufs
 
@@ -1927,11 +1927,13 @@ Les colorants suivants peuvent être utilisés pour estampiller les œufs:
 - 2\.1 les colorants visés aux ch. 1.1, 1.4 et 1.5;
 - 2\.2 le violet de méthyle B (n<sup>o</sup> CI 42535).
 
-Annexe 7
+Annexe 7[^t-2]
 
 (art. 97)
 
 ## Exigences relatives aux caractéristiques du miel
+
+[^t-2]: Erratum du 26 août 2026, ne concerne que le texte italien ([RO 2026 429](https://fedlex.data.admin.ch/eli/oc/2026/429)).
 
 ### 1. Caractéristiques de composition des miels
 
@@ -1950,28 +1952,28 @@ Le miel consiste essentiellement en différents sucres mais surtout en fructose 
 <tr><td colspan="2">3.1.1 teneur en fructose et en glucose (total des deux):</td><td colspan="2"></td></tr>
 <tr><td colspan="2">a) miel de fleurs</td><td colspan="2">pas moins de 60 g/100 g</td></tr>
 <tr><td colspan="2">b) miel de miellat, mélange de miel de miellat avec du miel de fleurs</td><td colspan="2">pas moins de 45 g/100 g</td></tr>
-<tr><td colspan="2">3.1.2 teneur en saccharose:</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">3.1.2 teneur en saccharose:</td><td colspan="2"></td></tr>
 <tr><td colspan="2">a) en général</td><td colspan="2">pas plus de 5 g/100 g</td></tr>
 <tr><td colspan="2">b) faux acacia (*Robinia pseudoacacia*), luzerne (*Medicago sativa*), banksie de Menzies (Banksia menziesii), hedysaron (*Hedysarum*), eucalyptus rouge (*Eucalyptus camadulensis*), *Eucryphia lucida*, *Eucryphia milliganii*, agrumes spp.</td><td colspan="2">pas plus de 10 g/100 g</td></tr>
 <tr><td colspan="2">c) lavande (*Lavandula* spp.), bourrache (*Borago officinalis*)</td><td colspan="2">pas plus de 15 g/100 g</td></tr>
-<tr><td colspan="2">3.2 Teneur en eau:</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">3.2 Teneur en eau:</td><td colspan="2"></td></tr>
 <tr><td colspan="2">a) en général</td><td colspan="2">au maximum 20 %</td></tr>
 <tr><td colspan="2">b) miel de bruyère (*Calluna*) et miel de pâtisserie en général</td><td colspan="2">au maximum 23 %</td></tr>
 <tr><td colspan="2">c) miel de pâtisserie de bruyère (*Calluna*)</td><td colspan="2">au maximum 25 %</td></tr>
-<tr><td colspan="2">3.3 Teneur en matières insolubles dans l’eau:</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">3.3 Teneur en matières insolubles dans l’eau:</td><td colspan="2"></td></tr>
 <tr><td colspan="2">a) en général</td><td colspan="2">pas plus de 0,1 g/100 g</td></tr>
 <tr><td colspan="2">b) miel pressé</td><td colspan="2">pas plus de 0,5 g/100 g</td></tr>
-<tr><td>3.4 Conductivité électrique:</td><td colspan="3">[tab]</td></tr>
+<tr><td>3.4 Conductivité électrique:</td><td colspan="3"></td></tr>
 <tr><td colspan="2">a) miels en général et mélanges de ces miels</td><td colspan="2">pas plus de 0,8 mS[^annex7-lvlu1-lvl3-1]/cm</td></tr>
 <tr><td colspan="2">b) miel de miellat et miel de châtaignier et mélanges de ces miels</td><td colspan="2">pas moins de 0,8 mS/cm</td></tr>
 <tr><td colspan="4">Les exigences fixées aux let. a et b ne s’appliquent pas aux miels suivants ainsi qu’aux mélanges de ces miels: miels d’arbousier (*Arbutus unedo*), de bruyère cendrée (*Erica*), d’eucalyptus, de tilleul (*Tilia* spp.), de bruyère commune (*Calluna vulgaris*), de manuka ou *jelly bush* (*leptospermum*), de théier (*Melaleuca* spp.).</td></tr>
-<tr><td colspan="2">3.5. Teneur en acides libres:</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">3.5. Teneur en acides libres:</td><td colspan="2"></td></tr>
 <tr><td colspan="2">a) en général</td><td colspan="2">pas plus de 50 milli-équivalents d’acides par kg</td></tr>
 <tr><td colspan="2">b) miel de pâtisserie</td><td colspan="2">pas plus de 80 milli-équivalents d’acides par kg</td></tr>
-<tr><td colspan="3">3.6. Teneur en hydroxyméthylfurfural (HMF), déterminé après traitement et mélange:</td><td>[tab]</td></tr>
+<tr><td colspan="3">3.6. Teneur en hydroxyméthylfurfural (HMF), déterminé après traitement et mélange:</td><td></td></tr>
 <tr><td colspan="2">a) en général, à l’exception du miel de pâtisserie</td><td colspan="2">pas plus de 40 mg/kg (sous réserve des dispositions visées au ch. 3.7, let. b)</td></tr>
 <tr><td colspan="2">b) miel d’origine déclarée en provenance de régions ayant un climat tropical et mélanges de ces miels</td><td colspan="2">max. 80 mg/kg</td></tr>
-<tr><td colspan="3">3.7. Indice diastasique selon Schade, déterminé après traitement et mélange:</td><td>[tab]</td></tr>
+<tr><td colspan="3">3.7. Indice diastasique selon Schade, déterminé après traitement et mélange:</td><td></td></tr>
 <tr><td colspan="2">a) en général, à l’exception du miel de pâtisserie</td><td colspan="2">pas moins de 8</td></tr>
 <tr><td colspan="2">b) miels ayant une faible teneur naturelle en enzymes, comme les miels d’agrumes, et une teneur en HMF non supérieure à 15 mg/kg</td><td colspan="2">pas moins de 3</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel tierischer He
 short: VLtH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: de
-version: 2024-02-01
+version: 2026-08-26
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-152-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20260826/de/xml/fedlex-data-admin-ch-eli-cc-2017-152-20260826-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20260826/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/de"
 
 (VLtH)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 26. August 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 9, 10 Absatz 4 Buchstabe a, 14 Absatz 1 sowie 36 Absä
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Kapitel: Gegenstand, Geltungsbereich und zulässige Tierarten
 
@@ -100,7 +100,7 @@ Für gefrorene Lebensmittel tierischer Herkunft muss die verantwortliche Person 
 
 <sup>3</sup> Die Form der Bereitstellung dieser Angaben bleibt dem Lieferanten überlassen.
 
-[^3-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## 3. Kapitel: Fleisch
 
@@ -217,7 +217,7 @@ Der Kalziumgehalt von Separatorenfleisch:
 - b. ist nach einer standardisierten international anerkannten Methode festzustellen.
 
 [^8-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^8-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^8-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### 6. Abschnitt: Kennzeichnung
 
@@ -305,8 +305,8 @@ Auf der Verpackung oder der Umhüllung von frischem Geflügelfleisch und von Gef
 <sup>10</sup> …[^10-4]
 
 [^10-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^10-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^10-3]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, 5201 Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^10-2]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^10-3]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, 5201 Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)).
 [^10-4]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 ## 4. Kapitel: Fleischprodukte
@@ -386,7 +386,7 @@ Sammelstellen und Gerbereien ist die Abgabe von Rohstoffen, die den Anforderunge
 <sup>10</sup> Speisegelatine muss einen Eiweissgehalt von mindestens 84 Massenprozent aufweisen.
 
 [^12-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^12-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^12-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 13
 
@@ -420,8 +420,8 @@ Die Rohstoffe für die Herstellung hochverarbeiteter Erzeugnisse tierischer Herk
 
 <sup>3</sup> Menschliches Haar darf nicht für die Herstellung von Aminosäuren verwendet werden.
 
-[^14-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^14-2]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^14-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^14-2]: [SR 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 ## 6. Kapitel: Lebende Muscheln, lebende Stachelhäuter, lebende Manteltiere und lebende Meeresschnecken
 
@@ -524,10 +524,10 @@ Frische, zubereitete, tiefgefrorene oder verarbeitete Fischereierzeugnisse der F
 <sup>7</sup> …[^19-6]
 
 [^19-1]: Siehe Fussnote zu Art. 18 Bst. a.
-[^19-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^19-2]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^19-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^19-4]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^19-5]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^19-5]: [SR 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 [^19-6]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 #### Art. 20
@@ -649,7 +649,7 @@ Von der Kühlung kann abgesehen werden, wenn:
 
 <sup>4</sup> Entsprechen alle Rohstoffe und Herstellungsverfahren den Anforderungen an Fischöl für den menschlichen Verzehr, so können im selben Betrieb sowohl Fischöl für den menschlichen als auch solches, das nicht für den menschlichen Verzehr bestimmt ist, hergestellt und gelagert werden.
 
-[^27-1]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^27-1]: [SR 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 28
 
@@ -721,7 +721,7 @@ Die Rohstoffe für Fette tierischer Herkunft und Grieben müssen:
 <sup>3</sup> Milch gilt als genussfertig, wenn sie einer Behandlung nach Artikel 49 HyV[^32-2] unterzogen worden ist. Davon ausgenommen ist Milch nach Artikel 53 Absatz 2 HyV.
 
 [^32-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^32-2]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^32-2]: [SR 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 ### 2. Abschnitt: Anforderungen
 
@@ -802,7 +802,7 @@ Bei genussfertiger Milch sind zusätzlich zu den obligatorischen Angaben[^37-1] 
 - f. bei Milch, die einer Homogenisation unterzogen wurde, der Hinweis «Homogenisiert».
 
 [^37-1]: Ausdruck gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^37-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-2]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 38
 
@@ -818,7 +818,7 @@ Wird Rohmilch vorverpackt abgegeben, so sind zusätzlich zu den obligatorischen 
 
 <sup>2</sup> Wird Rohmilch offen abgegeben, so hat die Abgabestelle die Konsumentinnen und Konsumenten in geeigneter Form zu informieren, dass die Rohmilch nicht genussfertig ist und vor dem Konsum auf mindestens 70 °C erhitzt werden muss. Zudem ist die Abgabestelle verpflichtet, über die Haltbarkeit und die Aufbewahrungsbedingungen von Rohmilch zu informieren.
 
-[^38-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^38-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## 11. Kapitel: Milchprodukte
 
@@ -861,7 +861,7 @@ Für Milchprodukte sind zusätzlich zu den obligatorischen Angaben nach Artikel 
 
 <sup>6</sup> Werden bei der Herstellung spezifische Mikroorganismen verwendet und liegen diese im Endprodukt in einer Menge von mindestens 1 Million koloniebildenden Einheiten pro Gramm vor, so darf auf diese Mikroorganismen hingewiesen werden.
 
-[^41-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^41-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^41-2]: Die Berichtigung vom 5. Febr. 2019 betrifft nur den italienischen Text ([AS 2019 519](https://fedlex.data.admin.ch/eli/oc/2019/89)).
 [^41-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
@@ -977,7 +977,7 @@ Für die Behandlung von Käse dürfen zusätzlich zu den in Absatz 1 genannten S
 <sup>3</sup> Zur Geschmacksgebung von Käse ist zusätzlich das Verfahren des Räucherns zulässig.
 
 [^51-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^51-2]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^51-2]: [SR 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 52
 
@@ -1038,11 +1038,11 @@ Wird Käse aus Ziegen- oder Schafmilch nicht ausschliesslich aus Ziegen- oder Sc
 - a. «Halb-Ziegenkäse» oder «Halb-Schafkäse», wenn die für die Fabrikation bestimmte Milch mindestens aus 500 g/kg Ziegenmilch oder Schafmilch besteht;
 - b. «Käse mit Zugabe von X % Ziegenmilch» oder «Käse mit Y % Schafmilch», wenn der Milch, die für die Fabrikation bestimmt ist, weniger als 500 g Ziegen- oder Schafmilch pro Kilogramm Milch zugegeben wird.
 
-[^53-1]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^53-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^53-1]: [SR 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^53-2]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^53-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^53-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^53-5]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^53-5]: [SR 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 54
 
@@ -1054,7 +1054,7 @@ Zum Stempeln von Käserinde dürfen verwendet werden:
 - b. Ultramarin (CI-Nr. 77007);
 - c. Methylviolett B (CI-Nr. 42535).
 
-[^54-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^54-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 55
 
@@ -1169,8 +1169,8 @@ Für die Zusammensetzung gelten folgende Anforderungen:
 - b. Wird zusammen mit der Sachbezeichnung eine Herkunftsangabe nach dem Markenschutzgesetz vom 28. August 1992[^62-2] verwendet, so muss die Schmelzmischung mindestens 750 g/kg des genannten Käses enthalten. Der übrige Käse muss dem genannten Käse ähnlich sein.
 - c. Wird eine andere Käsebezeichnung verwendet, so muss die Schmelzmischung zu mehr als 500 g/kg aus dem betreffenden Käse bestehen.
 
-[^62-1]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^62-2]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^62-1]: [SR 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^62-2]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
 
 #### Art. 63
 
@@ -1302,7 +1302,7 @@ Wird Rohrahm offen abgegeben, so hat die Abgabestelle die Konsumentinnen und Kon
 - a. die Tatsache, dass Rohrahm nicht als genussfertig gilt;
 - b. die Haltbarkeit und die Aufbewahrungsbedingungen von Rohrahm.
 
-[^71-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^71-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### 7. Abschnitt: Butter, Milchstreichfette, Butterzubereitungen und andere Butterprodukte
 
@@ -1378,7 +1378,7 @@ Es sind die folgenden Sachbezeichnungen zu verwenden:
 
 <sup>7</sup> Dreiviertelfettbutter darf auch als «Butter, fettreduziert» und Halbfettbutter als «Butter, leicht» oder «Butter, light» bezeichnet werden.
 
-[^75-1]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^75-1]: [SR 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 [^75-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 76
@@ -1472,7 +1472,6 @@ Es sind die folgenden Sachbezeichnungen zu verwenden:
 <tr><td>a. Magermilchpulver</td><td>höchstens 15 g/kg;</td></tr>
 <tr><td>b. fettreduziertes oder teilentrahmtes Milchpulver</td><td>mehr als 15 g/kg und weniger als 260 g/kg;</td></tr>
 <tr><td>c. Vollmilchpulver</td><td>mindestens 260 g/kg und weniger als 420 g/kg;</td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>d. Milchpulver mit hohem Fettgehalt, fettangereichertes Milchpulver oder Rahmpulver</td><td>mindestens 420 g/kg.</td></tr>
 </table>
 
@@ -1615,7 +1614,7 @@ Werden die Eier vorverpackt abgegeben, so sind die obligatorischen Angaben nach 
 
 <sup>4</sup> Das Mindesthaltbarkeitsdatum nach Artikel 13 Absatz 1 LIV ist auf höchstens 28 Tage nach dem Legen festzusetzen.
 
-[^92-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^92-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^92-2]: Der Gebrauchstarif kann bei der Oberzolldirektion, Monbijoustrasse 40, 3003 Bern eingesehen und bezogen werden.
 
 #### Art. 93
@@ -1628,10 +1627,10 @@ Zusätzlich zu den obligatorischen Angaben nach Artikel 3 LIV[^93-1] sind anzuge
 - b. bei Eiprodukten, denen andere Lebensmittel zugesetzt werden: der Eigehalt in Massenprozenten bezogen auf das Endprodukt;
 - c.[^93-3] bei Flüssigei nach Artikel 57 Absatz 7 HyV[^93-4]: zusätzlich zur Angabe nach Buchstabe a «nichtpasteurisiertes Flüssigei – am Bestimmungsort zu behandeln» sowie das Datum und die Uhrzeit des Aufschlagens.
 
-[^93-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^93-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^93-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^93-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^93-4]: [SR 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^93-4]: [SR 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 94
 
@@ -1706,7 +1705,7 @@ Die Sachbezeichnung kann, ausser bei Backhonig und Industriehonig, ergänzt werd
 - a. die Angabe der Herkunft aus bestimmten Blüten oder Pflanzen, wenn der Honig überwiegend aus diesen stammt und wenn er deren sensorische, physikalisch-chemische und mikroskopische Merkmale aufweist;
 - b. einen regionalen, territorialen oder topografischen Namen, wenn der Honig aus der angegebenen Gegend stammt; die Bestimmungen der GUB/GGA-Verordnung vom 28. Mai 1997[^98-1] bleiben vorbehalten.
 
-[^98-1]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
+[^98-1]: [SR 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
 
 ### 2. Abschnitt: Gelée royale
 
@@ -1919,7 +1918,7 @@ Zum Färben von Eierschalen dürfen verwendet werden:
 - 1\.12 Kaliumaluminiumsilicat (E555);
 - 1\.13 Titandioxid (E 171).
 
-[^annex6-lvlu1-lvl1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex6-lvlu1-lvl1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 ### 2. Stempeln von Eiern
 
@@ -1928,11 +1927,13 @@ Zum Stempeln von Eiern dürfen verwendet werden:
 - 2\.1 die in den Ziffern 1,1, 1.4 und 1.5 genannten Farbstoffe;
 - 2\.2 Methylviolett B (CI-Nr. 42535).
 
-Anhang 7
+Anhang 7[^t-2]
 
 (Art. 97)
 
 ## Anforderungen an die Beschaffenheit von Honig
+
+[^t-2]: Die Berichtigung vom 26. Aug. 2026 betrifft nur den italienischen Text ([AS 2026 429](https://fedlex.data.admin.ch/eli/oc/2026/429)).
 
 ### 1. Merkmale der Zusammensetzung von Honig
 

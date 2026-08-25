@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari di origin
 short: ODOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: it
-version: 2024-02-01
+version: 2026-08-26
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-152-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20260826/it/xml/fedlex-data-admin-ch-eli-cc-2017-152-20260826-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20260826/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20240201/it"
 
 (ODOA)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 26 agosto 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 9, 10 capoverso 4 lettera a, 14 capoverso 1 e 36 capoversi 3 
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Capitolo 1: Oggetto, campo d’applicazione e specie animali ammesse
 
@@ -79,7 +79,7 @@ Per la produzione di derrate alimentari sono ammesse esclusivamente le seguenti 
 - l. pesci, tranne i pesci velenosi delle famiglie tetraodontidi (*Tetraodontidae*), molidi (*Molidae*), diodontidi (*Diodontidae*), cantigasteridi (*Canthigasteridae*);
 - m.[^2-1] rane.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 ## Capitolo 2: **Requisiti delle derrate alimentari congelate di origine** animale
 
@@ -99,7 +99,7 @@ Per quanto concerne le derrate alimentari congelate di origine animale, fino al 
 
 <sup>3</sup> La scelta della forma più idonea in cui vanno riportate tali informazioni resta a discrezione del fornitore.
 
-[^3-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^3-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Capitolo 3: Carne
 
@@ -212,8 +212,8 @@ Il tenore di calcio della carne separata meccanicamente:
 - a. non deve superare lo 0,1 per cento (= 100 mg per 100 g o 1000 ppm) del prodotto fresco; e
 - b. è determinato secondo un metodo standardizzato internazionalmente riconosciuto.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^8-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^8-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### Sezione 6: Caratterizzazione
 
@@ -242,7 +242,7 @@ La denominazione specifica per la carne, i preparati di carne e i prodotti a bas
 
 <sup>5</sup> Non è necessario indicare le specie animali per i prodotti a base di carne e i preparati di carne che sono costituiti esclusivamente da carne di animali delle specie bovina o suina e quando viene impiegata una denominazione abituale secondo il capoverso 4. Se nella denominazione specifica si menziona una delle due specie, la parte di carne della specie animale menzionata deve eccedere il 50 per cento in massa della carne trasformata presente nel prodotto.
 
-[^9-1]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^9-1]: Abrogato dalla cifra I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^9-2]: La correzione del 26 feb. 2019 concerne soltanto il testo francese ([RU 2019 761](https://fedlex.data.admin.ch/eli/oc/2019/134)).
 
 #### Art. 10
@@ -300,9 +300,9 @@ Sugli imballaggi e sugli involucri di carne fresca di pollame o preparati a base
 
 <sup>10</sup> …[^10-3]
 
-[^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^10-2]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 cpv. 1].Ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
-[^10-3]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^10-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^10-2]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), 520 all. cifra II n. 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 cpv. 1].Ora l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)).
+[^10-3]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 ## Capitolo 4: Prodotti di carne
 
@@ -380,8 +380,8 @@ I centri di raccolta e le concerie sono autorizzati a fornire materie prime conf
 
 <sup>10</sup> La gelatina commestibile deve avere un tenore di proteine dell’84 per cento almeno in massa.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 13
 
@@ -415,8 +415,8 @@ Le materie prime utilizzate per la fabbricazione di prodotti altamente raffinati
 
 <sup>3</sup> I capelli umani non possono essere utilizzati per la produzione di amminoacidi.
 
-[^14-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^14-2]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^14-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^14-2]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 ## Capitolo 6: Molluschi, echinodermi, tunicati e gasteropodi vivi
 
@@ -481,7 +481,7 @@ La denominazione specifica per i prodotti della pesca comprende:
 - a. l’indicazione della specie animale, con la denominazione comune e la denominazione scientifica per i prodotti di cui all’allegato I lettere a–c del regolamento (UE) n. 1379/2013[^18-2];
 - b. la denominazione «prodotto della pesca» o una denominazione usuale nel ramo.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 [^18-2]: Regolamento (UE) n. 1379/2013 del Parlamento europeo e del Consiglio, dell’11 dicembre 2013, relativo all’organizzazione comune dei mercati nel settore dei prodotti della pesca e dell’acquacoltura, recante modifica ai regolamenti (CE) n. 1184/2006 e (CE) n. 1224/2009 del Consiglio e che abroga il regolamento (CE) n. 104/2000 del Consiglio, GU L 354 del 28.12.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2020/560, GU L 130 del 23.4.2020, pag. 11.
 
 #### Art. 19
@@ -519,11 +519,11 @@ I prodotti della pesca freschi, preparati, surgelati o trasformati appartenenti 
 <sup>7</sup> …[^19-6]
 
 [^19-1]: Cfr. nota a piè di pagina relativa all’art. 18 lett. a.
-[^19-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^19-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^19-4]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^19-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
-[^19-6]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^19-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^19-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^19-4]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^19-5]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
+[^19-6]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 #### Art. 20
 
@@ -559,10 +559,10 @@ Sono ammessi come derrate alimentari i gasteropodi terrestri delle seguenti spec
 - f.[^21-3] famiglia delle *Hygromiidae*;
 - g.[^21-4] famiglia delle *Sphincterochilidae*.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^21-2]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^21-3]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^21-4]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-2]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-3]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21-4]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 21a
 
@@ -573,7 +573,7 @@ Sono ammesse come derrate alimentari le rane dei seguenti generi:
 - a. generi *Rana* e *Pelophylax* della famiglia dei *Ranidae*;
 - b. generi *Fejervarya*, *Limmonectes* e *Hoplobatrachus* della famiglia dei *Dicroglossidae*.
 
-[^21a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^21a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 22
 
@@ -583,7 +583,7 @@ Sono ammesse come derrate alimentari le rane dei seguenti generi:
 
 <sup>2</sup> Devono essere sezionate trasversalmente dietro le membra anteriori, eviscerate e spellate.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 23
 
@@ -644,7 +644,7 @@ Le materie prime impiegate per la preparazione degli oli di pesce destinati all�
 
 <sup>4</sup> Se tutte le materie prime e il processo di produzione soddisfano i requisiti che si applicano all’olio di pesce destinato all’alimentazione umana, nello stesso stabilimento si possono produrre e depositare sia l’olio di pesce destinato all’alimentazione umana sia quello non destinato all’alimentazione umana.
 
-[^27-1]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^27-1]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 28
 
@@ -715,8 +715,8 @@ Le materie prime per grassi di origine animale e ciccioli devono:
 
 <sup>3</sup> Il latte è ritenuto pronto al consumo, se è stato sottoposto a un trattamento conformemente all’articolo 49 ORI[^32-2]. È eccettuato il latte ai sensi dell’articolo 53 capoverso 2 ORI.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
-[^32-2]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^32-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^32-2]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 ### Sezione 2: Requisiti
 
@@ -745,7 +745,7 @@ Per quanto riguarda il tenore di grasso nel latte vaccino e nel latte di bufala 
 
 <sup>3</sup> Il latte può essere omogeneizzato.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 #### Art. 34
 
@@ -796,8 +796,8 @@ Nel caso del latte pronto al consumo, oltre alle indicazioni obbligatorie[^37-1]
 - e. nel caso del latte sottoposto a pastorizzazione o pastorizzazione alta, la menzione «conservare al riparo dalla luce»;
 - f. se il latte è stato sottoposto a omogeneizzazione, la menzione «omogeneizzato».
 
-[^37-1]: Nuova espressione giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^37-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-1]: Nuova espressione giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^37-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 38
 
@@ -813,7 +813,7 @@ Se il latte crudo è consegnato preimballato, oltre alle indicazioni obbligatori
 
 <sup>2</sup> Se il latte crudo è servito sfuso, il punto di consegna è tenuto a informare adeguatamente i consumatori sul fatto che il latte crudo non è pronto al consumo e che deve essere riscaldato almeno a 70 °C prima di essere consumato. Inoltre, il punto di consegna è tenuto a informare sulla conservabilità e sulle condizioni di conservazione del latte crudo.
 
-[^38-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^38-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Capitolo 11: Prodotti a base di latte
 
@@ -827,7 +827,7 @@ Se il latte crudo è consegnato preimballato, oltre alle indicazioni obbligatori
 
 <sup>2</sup> Sono fatte salve le disposizioni specifiche del prodotto.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 40
 
@@ -856,9 +856,9 @@ Nel caso dei prodotti a base di latte, oltre alle indicazioni obbligatorie di cu
 
 <sup>6</sup> È permessa l’indicazione di microrganismi specifici se vengono impiegati per la fabbricazione e se sono presenti nel prodotto finito nella misura di almeno di 1 milione di unità formanti colonia per grammo.
 
-[^41-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^41-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^41-2]: Correzione del 5 feb. 2019 ([RU 2019 519](https://fedlex.data.admin.ch/eli/oc/2019/89)).
-[^41-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 ### Sezione 2: Latte acidulato, latte acidificato, yogurt e kefir
 
@@ -945,7 +945,7 @@ Il *kefir* è ottenuto mediante fermentazione del latte. Oltre alla fermentazion
 
 <sup>4</sup> …[^50-1]
 
-[^50-1]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^50-1]: Abrogato dalla cifra I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 51
 
@@ -971,8 +971,8 @@ Per il trattamento del formaggio possono essere utilizzate altre sostanze oltre 
 
 <sup>3</sup> Per conferire sapore al formaggio è inoltre ammesso il processo di affumicatura.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^51-2]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^51-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^51-2]: [RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 52
 
@@ -1001,7 +1001,7 @@ Per il trattamento del formaggio possono essere utilizzate altre sostanze oltre 
 
 <sup>3</sup> Nel formaggio non maturato o formaggio fresco, il valore tafs può essere al massimo di 880 g/kg. Nella gelatina di formaggio fresco, il valore tafs deve essere superiore a 880 g/kg, ma al massimo di 890 g/kg.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 53
 
@@ -1033,11 +1033,11 @@ Se il formaggio di latte di capra o di pecora non è stato fabbricato utilizzand
 - a. «formaggio mezzo-capra» o «formaggio mezzo-pecora», se il latte destinato alla fabbricazione è composto di almeno 500 g/kg di latte di capra o di pecora;
 - b. «formaggio con aggiunta di X% di latte di capra» oppure «formaggio con Y% di latte di pecora», se il latte destinato alla fabbricazione è composto di meno di 500 g/kg di latte di capra o di pecora.
 
-[^53-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^53-2]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^53-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^53-4]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^53-5]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^53-1]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^53-2]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^53-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-4]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^53-5]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 54
 
@@ -1049,7 +1049,7 @@ Per marchiare la crosta del formaggio possono essere impiegati:
 - b. l’Ultramarino (n. CI 77007);
 - c. il Violetto di metile B (n. CI 42535).
 
-[^54-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^54-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 #### Art. 55
 
@@ -1164,8 +1164,8 @@ Per la composizione valgono i seguenti requisiti:
 - b. se oltre alla denominazione specifica viene usata un’indicazione di provenienza secondo la legge del 28 agosto 1992[^62-2] sulla protezione dei marchi, la miscela di fusione deve contenere almeno 750 g/kg del formaggio menzionato. Il formaggio rimanente deve essere formaggio di composizione simile;
 - c. se viene usata un’altra denominazione di formaggio, la miscela di fusione deve contenere più di 500 g/kg del formaggio corrispondente.
 
-[^62-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^62-2]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^62-1]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^62-2]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
 
 #### Art. 63
 
@@ -1297,7 +1297,7 @@ Se la panna cruda è consegnata sfusa, il punto di consegna è tenuto a informar
 - a. il fatto che la panna cruda non è considerata pronta al consumo;
 - b. la conservabilità e le condizioni di conservazione della panna cruda.
 
-[^71-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^71-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### Sezione 7: Burro, grassi lattieri da spalmare, preparati di burro e altri prodotti del burro
 
@@ -1373,8 +1373,8 @@ Si devono utilizzare le seguenti denominazioni specifiche:
 
 <sup>7</sup> Il burro tre quarti grasso può essere denominato anche «burro a ridotto tenore di grasso» e il burro mezzo grasso «burro leggero» oppure «burro light».
 
-[^75-1]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
-[^75-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^75-1]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
+[^75-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 76
 
@@ -1384,7 +1384,7 @@ Si devono utilizzare le seguenti denominazioni specifiche:
 
 <sup>2</sup> Per il burro, il burro tre quarti grasso e il burro mezzo grasso salati e i grassi lattieri salati da spalmare, il tenore di sale deve essere indicato in percentuale nell’elenco degli ingredienti.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 ### Sezione 8: Latticello, siero di latte e scotta
 
@@ -1609,7 +1609,7 @@ Se le uova sono vendute preconfezionate, le indicazioni obbligatorie di cui all�
 
 <sup>4</sup> Il termine minimo di conservazione ai sensi dell’articolo 13 capoverso 1 OID non deve essere superiore a 28 giorni dalla deposizione.
 
-[^92-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^92-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^92-2]: La tariffa d’uso è consultabile o ottenibile presso la Direzione generale delle dogane, Monbijoustrasse 40, 3003 Berna.
 
 #### Art. 93
@@ -1622,10 +1622,10 @@ Le indicazioni obbligatorie di cui all’articolo 3 OID[^93-1] devono essere com
 - b. per gli ovoprodotti a cui sono aggiunte altre derrate alimentari, il tenore di uova deve essere indicato in per cento in massa, riferito al prodotto finito;
 - c.[^93-3] nel caso di uova liquide di cui all’articolo 57 capoverso 7 ORI[^93-4] deve essere apposta, oltre all’indicazione di cui alla lettera a, la dicitura «uova liquide non pastorizzate – da trattare nel luogo di destinazione», come pure la data e l’ora in cui sono state sbattute.
 
-[^93-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^93-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^93-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
-[^93-4]: [RS 817.024.1](https://fedlex.data.admin.ch/eli/cc/2017/183)
+[^93-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^93-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^93-4]: [RS 817.024.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9696)
 
 #### Art. 94
 
@@ -1700,7 +1700,7 @@ La denominazione specifica, ad eccezione del miele per pasticceria e del miele p
 - a. un’indicazione concernente la provenienza da determinati fiori o piante, se il miele deriva principalmente da questi ultimi e ne presenta le caratteristiche organolettiche, fisico-chimiche e microscopiche;
 - b. un nome regionale, territoriale o topografico, se il miele proviene dalla regione indicata. Sono fatte salve le disposizioni dell’ordinanza DOP/IGP del 28 maggio 1997[^98-1].
 
-[^98-1]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
+[^98-1]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
 
 ### Sezione 2: Pappa reale
 
@@ -1758,7 +1758,7 @@ Il polline di fiori essiccato può contenere al massimo l’8 per cento in massa
 
 L’ordinanza del DFI del 23 novembre 2005[^105-1] sulle derrate alimentari di origine animale è abrogata.
 
-[^105-1]: [[RU 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801), [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771), [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201)[6037](https://fedlex.data.admin.ch/eli/oc/2008/836), [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282), [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671), [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837)]
+[^105-1]: [[RU 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801); [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771); [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201), [6037](https://fedlex.data.admin.ch/eli/oc/2008/836); [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282); [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671); [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837)]
 
 #### Art. 105a
 
@@ -1766,7 +1766,7 @@ L’ordinanza del DFI del 23 novembre 2005[^105-1] sulle derrate alimentari di o
 
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2021 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^105a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
+[^105a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 
 #### Art. 105b
 
@@ -1774,7 +1774,7 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^105b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
+[^105b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 825](https://fedlex.data.admin.ch/eli/oc/2023/825)).
 
 #### Art. 106
 
@@ -1893,7 +1893,7 @@ Allegato 6[^t-1]
 
 ## Coloranti ammessi per le uova
 
-[^t-1]: Aggiornato dal n. I dell’O del USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 122](https://fedlex.data.admin.ch/eli/oc/2022/122)).
+[^t-1]: Aggiornato dalla cifra I dell’O del USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 122](https://fedlex.data.admin.ch/eli/oc/2022/122)).
 
 ### 1. Colorazione dei gusci delle uova
 
@@ -1913,7 +1913,7 @@ Per colorare i gusci delle uova possono essere utilizzati:
 - 1\.12 Silicato di potassio e alluminio (E555);
 - 1\.13 Biossido di titanio (E 171).
 
-[^annex6-lvlu1-lvl1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex6-lvlu1-lvl1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 ### 2. Stampigliatura delle uova
 
@@ -1922,11 +1922,13 @@ Per stampigliare le uova possono essere utilizzati:
 - 2\.1 i coloranti menzionati ai numeri 1.1, 1.4 e 1.5;
 - 2\.2 il Violetto di metile B (n. CI 42535).
 
-Allegato 7
+Allegato 7[^t-2]
 
 (art. 97)
 
 ## Requisiti concernenti le caratteristiche del miele
+
+[^t-2]: Aggiornato dalla correzione del 26 ago 2026 ([RU 2026 429](https://fedlex.data.admin.ch/eli/oc/2026/429)).
 
 ### 1. Caratteristiche della composizione del miele
 
@@ -1945,7 +1947,7 @@ Il miele è essenzialmente composto da diversi zuccheri, soprattutto da fruttosi
 <tr><td>3.1.1 Tenore di fruttosio e glucosio (somma dei due):</td><td></td></tr>
 <tr><td>a) miele di fiori</td><td>almeno 60 g/100 g</td></tr>
 <tr><td>b) miele di mielata puro o mischiato al miele di fiori</td><td>almeno 45 g/100 g</td></tr>
-<tr><td>3.1.2 Tenore di saccarosio:</td><td>[tab]</td></tr>
+<tr><td>3.1.2 Tenore di saccarosio:</td><td></td></tr>
 <tr><td>a) in generale</td><td>al massimo 5 g/100 g</td></tr>
 <tr><td>b) miele di acacia (*Robinia pseudoacacia*), erba medica (*Medicago sativa*), Banksia menziesii, sulla spontanea (*Hedysarum*), eucalipto rosso (*Eucalyptus camadulensis*), *Eucryphia lucida*, *Eucryphia milliganii*, *Citrus* spp.</td><td>al massimo 10 g/100 g</td></tr>
 <tr><td>c) miele di lavanda (*Lavandula* spp.), borragine (*Borago officinalis*)</td><td>al massimo 15 g/100 g</td></tr>
@@ -1958,7 +1960,7 @@ Il miele è essenzialmente composto da diversi zuccheri, soprattutto da fruttosi
 <tr><td>b) miele torchiato</td><td>al massimo 0,5 g/100 g</td></tr>
 <tr><td colspan="2">3.4 Conduttività elettrica:</td></tr>
 <tr><td>a) tipi di miele in generale e miscele di questi tipi di miele</td><td>al massimo 0,8 mS[^annex7-lvlu1-lvl3-1]/cm</td></tr>
-<tr><td>b) miele di mielata, miele di castagna e miscele di questi tipi di miele</td><td>al massimo 0,8 mS/cm</td></tr>
+<tr><td>b) miele di mielata, miele di castagna e miscele di questi tipi di miele</td><td>almeno 0,8 mS/cm</td></tr>
 <tr><td colspan="2">I seguenti tipi di miele e le miscele con questi tipi di miele non devono soddisfare i requisiti di cui alle lettere a e b: Miele di corbezzolo (*Arbutus unedo*), erica, eucalipto, tiglio (*Tilia* spp.), brugo (*Calluna vulgaris*), Leptospermum, albero del tè (*Melaleuca* spp.).</td></tr>
 <tr><td colspan="2">3.5. Acido libero:</td></tr>
 <tr><td>a) in generale</td><td>al massimo 50 mEq per kg</td></tr>
