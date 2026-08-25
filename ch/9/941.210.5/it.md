@@ -4,11 +4,11 @@ title: Ordinanza del DFGP del 7 dicembre 2012 sugli strumenti di misurazione del
 short: OSMRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/878"
 language: it
-version: 2013-01-01
+version: 2026-08-26
 adopted: 2012-12-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/878/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2012-878-20130101-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/878/20260826/it/xml/fedlex-data-admin-ch-eli-cc-2012-878-20260826-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20260826/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20130101/it"
 
 (OSMRI)
 
-del 7 dicembre 2012 (Stato 1° gennaio 2013)
+del 7 dicembre 2012 (Stato 26 agosto 2026)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -26,7 +26,7 @@ visti gli articoli 5 capoverso 2, 8 capoverso 2, 16 capoverso 2, 17 capoverso 2,
 ordina:
 
 [^ingress-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
-[^ingress-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+[^ingress-2]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)cifra II n. 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)cifra I, II, [934](https://fedlex.data.admin.ch/eli/oc/2000/140), 2829 cifra II, III; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)cifra I, III, [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4, [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 cifra II n. 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857), [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594), [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3; [2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)art. 200]. Vedi ora l’O del 26 apr. 2017 ([RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -285,11 +285,13 @@ L’ordinanza del DFGP del 29 novembre 2008[^28-1] sugli strumenti di misurazion
 
 La presente ordinanza entra in vigore il 1° gennaio 2013.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 3)
 
 ## Definizioni
+
+[^t-1]: La correzione del 26 ago. 2026 concerne soltanto il testo francese ([RU 2026 430](https://fedlex.data.admin.ch/eli/oc/2026/430)).
 
 Nella presente ordinanza s’intende per:
 

@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 7 décembre 2012 sur les instruments de mesure des 
 short: OIMRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/878"
 language: fr
-version: 2013-01-01
+version: 2026-08-26
 adopted: 2012-12-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/878/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-878-20130101-fr-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/878/20260826/fr/xml/fedlex-data-admin-ch-eli-cc-2012-878-20260826-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20260826/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20130101/fr"
 
 (OIMRI)
 
-du 7 décembre 2012 (État le 1<sup>er</sup> janvier 2013)
+du 7 décembre 2012 (État le 26 août 2026)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -26,7 +26,7 @@ vu les art. 5, al. 2, 8, al. 2, 16, al. 2, 17, al. 2, 24, al. 3, et 33 de l’or
 arrête:
 
 [^ingress-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
-[^ingress-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+[^ingress-2]: [[RO 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)ch. II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)annexe ch. 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)ch. I et III; **2008** 3153 art. 10 ch. 2, 5747 annexe ch. 22; **2010** 5191 art. 20 ch. 4, 5395 annexe 2 ch. II 3; **2011** 5227 ch. I 2.7; **2012** 7065 ch. I 5, 7157; **2013** 3041 ch. I 5, 3407 annexe 6 ch. 3. [RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)art. 105 let. b]. Voir actuellement l’O du 26 avr. 2017 ([RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)).
 
 ## Section 1 Dispositions générales
 
@@ -285,11 +285,13 @@ L’ordonnance du DFJP du 29 novembre 2008 sur les instruments de mesure de rado
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2013.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 3)
 
 ## Définitions
+
+[^t-1]: Mise à jour par l’erratum du 26 août 2026 ([RO 2026 430](https://fedlex.data.admin.ch/eli/oc/2026/430)).
 
 Au sens de la présente ordonnance, on entend par:
 
@@ -320,6 +322,7 @@ Au sens de la présente ordonnance, on entend par:
 - – *fantôme d’eau:* récipient en plexiglas rempli d’eau, tenant le rôle du tissu biologique lors de la définition de la dose en radiothérapie;
 - – *Gray (Gy):* unité SI de la dose absorbée de rayonnement ionisant;
 - – *indication de contrôle:* indication correspondant au courant de contrôle d’un dispositif de contrôle comprenant une source radioactive;
+- – *installations de radiodiagnostic:* installations radiologiques et les systèmes correspondants d’imagerie ou de traitement d’images;
 - – *intensité de la source:* activité d’une source radioactive, exprimée en becquerels (Bq);
 - – *kerma dans l’air:* énergie libérée dans l’air par irradiation photonique par unité de masse;
 - – *keV:* kilo-électronvolt, unité d’énergie valant 1,602 10<sup>-16</sup> joule;

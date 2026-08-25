@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 7. Dezember 2012 über Messmittel für ionisieren
 short: StMmV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/878"
 language: de
-version: 2013-01-01
+version: 2026-08-26
 adopted: 2012-12-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/878/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2012-878-20130101-de-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/878/20260826/de/xml/fedlex-data-admin-ch-eli-cc-2012-878-20260826-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20260826/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/878/20130101/de"
 
 (StMmV)
 
-vom 7. Dezember 2012 (Stand am 1. Januar 2013)
+vom 7. Dezember 2012 (Stand am 26. August 2026)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 5 Absatz 2, 8 Absatz 2, 16 Absatz 2, 17 Absatz 2, 24 A
 verordnet:
 
 [^ingress-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
-[^ingress-2]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+[^ingress-2]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)Ziff. II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Anhang Ziff. 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 Ziff. 2, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 Ziff. 4, [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Anhang 2 Ziff. II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)Ziff. I 5, [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 5, [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Anhang 6 Ziff. 3]. Siehe heute: die Strahlenschutzverordnung vom 26. April 2017 ([SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -285,11 +285,13 @@ Die Verordnung des EJPD vom 29. November 2008[^28-1] über Radonmessmittel wird 
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 3)
 
 ## Begriffe
+
+[^t-1]: Die Berichtigung vom 26. Aug. 2026 betrifft nur den französischen Text ([AS 2026 430](https://fedlex.data.admin.ch/eli/oc/2026/430)).
 
 In dieser Verordnung bedeuten:
 
@@ -401,7 +403,7 @@ Anhang 3
 - 1\.2 Die Geräte müssen ein Vielfaches des nuklidspezifischen Richtwertes für die Kontamination nach Anhang 3 StSV oder die Zählrate anzeigen. Bei Anzeige des Vielfachen des nuklidspezifischen Richtwertes muss wahlweise auch die Zählrate abgelesen werden können.
 - 1\.3 Zeigen Geräte nur die Zählrate an, so muss für ein betrachtetes Nuklid die Nettozählrate, die einem Richtwert entspricht (Richtwertzählrate, RWZ), auf dem Gerät deutlich angegeben sein.
 
-[^annex3-lvlu1-lvl1-1]: IEC 60325ed3.0 (2002-06): Alpha, beta and alpha/beta (beta energy &gt; 60 keV) contamination meters and monitors. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvl1-1]: IEC 60325ed3.0 (2002-06): Alpha, beta and alpha/beta (beta energy &gt; 60 keV) contamination meters and monitors. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 2 Eichung
 
@@ -463,8 +465,8 @@ Anhang 3
 - 4\.6 Wird die Eichung in einem Prüflaboratorium durchgeführt, so werden die Messungen unter den an Arbeitsplätzen üblichen Bedingungen ausgeführt. Der Untergrund muss dem der natürlichen Strahlung entsprechen.
 - 4\.7 Der Abstand zwischen der Quelle und dem Detektorfenster beträgt 5 mm, sofern in der Bedienungsanleitung nicht ein anderer Abstand bezeichnet ist.
 
-[^annex3-lvlu1-lvl4-1]: ISO 8769:2010, Reference sources for the calibration of surface contamination monitors – Alpha-, beta- and photon emitters. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex3-lvlu1-lvl4-2]: ISO 7503-1:1988 Teil 1 und ISO 7503-3:1988 Teil 3: Evaluation of surface contamination; ISO 8769:2010: Reference sources for the calibration of surface contamination monitors; IEC 60325ed3.0 (2002-06): Alpha, beta and alpha/beta (beta energy &gt; 60 keV) contamination meters and monitors. Die Norm können kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^annex3-lvlu1-lvl4-1]: ISO 8769:2010, Reference sources for the calibration of surface contamination monitors – Alpha-, beta- and photon emitters. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex3-lvlu1-lvl4-2]: ISO 7503-1:1988 Teil 1 und ISO 7503-3:1988 Teil 3: Evaluation of surface contamination; ISO 8769:2010: Reference sources for the calibration of surface contamination monitors; IEC 60325ed3.0 (2002-06): Alpha, beta and alpha/beta (beta energy &gt; 60 keV) contamination meters and monitors. Die Norm können kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 5 Gültigkeitsdauer der Eichung
 
@@ -572,7 +574,7 @@ Anhang 5
 
 - Der Aufbau und die messtechnischen Eigenschaften der Geräte haben dem vorgesehenen Einsatzzweck und dem Stand der Technik, wie er insbesondere in den Normen IEC 60532 ed3.0 (2010–08), IEC 60846 (2009–04), IEC 61005 ed2.0 (2003–02) und IEC 61322 ed1.0 (1994–12)[^annex5-lvlu1-lvl1-1] zum Ausdruck kommt, zu entsprechen. Die Geräte müssen die Dosis beziehungsweise die Dosisleistung in den gesetzlichen Einheiten anzeigen.
 
-[^annex5-lvlu1-lvl1-1]: – IEC 60532 ed3.0 (2010-08) Radiation protection instrumentation – Installed dose ratemeters, warning assemblies and monitors – X and Gamma radiation of energy between 50 keV and 7 MeV; – IEC 60846 (2009-04)Ambient and/or directional dose equivalent (rate) meters and/or monitors for beta, X and gamma radiation; – IEC 61005 ed2.0 (2003-02) Neutron ambient dose equivalent (rate) meters – IEC 61322 ed1.0 (1994-12) Installed dose equivalent rate meters, warning assemblies and monitors for neutron radiation of energy from thermal to 15 MeV. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl1-1]: – IEC 60532 ed3.0 (2010-08) Radiation protection instrumentation – Installed dose ratemeters, warning assemblies and monitors – X and Gamma radiation of energy between 50 keV and 7 MeV; – IEC 60846 (2009-04)Ambient and/or directional dose equivalent (rate) meters and/or monitors for beta, X and gamma radiation; – IEC 61005 ed2.0 (2003-02) Neutron ambient dose equivalent (rate) meters – IEC 61322 ed1.0 (1994-12) Installed dose equivalent rate meters, warning assemblies and monitors for neutron radiation of energy from thermal to 15 MeV. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 2 Eichung
 
@@ -602,9 +604,9 @@ Anhang 5
 - 4\.6 Die Messungen werden unter den an einem Arbeitsplatz üblichen Bedingungen ausgeführt; die Ergebnisse werden, wenn nötig, auf Normalbedingungen von Druck und Temperatur korrigiert.
 - 4\.7 Auf Verlangen des Antragstellers kann die Eichung auch mit einer anderen als der in Ziffer 4.4 genannten, für die Anwendung besser geeigneten Strahlung durchgeführt werden.
 
-[^annex5-lvlu1-lvl4-1]: ISO 4037-1:1996, ISO 4037-2:1997, ISO 4037-3:1999 X and gamma reference radiation for calibrating dosemeters and doserate meters and for determining their response as a function of photon energy. Die Normen können kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex5-lvlu1-lvl4-2]: ISO 6980-2:2004, Reference beta-particle radiation – Part 2: Calibration fundamentals related to basic quantities characterizing the radiation field. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex5-lvlu1-lvl4-3]: ISO 8529-2:2000, Neutron Reference Radiations – Calibration fundamentals of radiation protection devices related to the basic quantities characterizing the radiation field. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl4-1]: ISO 4037-1:1996, ISO 4037-2:1997, ISO 4037-3:1999 X and gamma reference radiation for calibrating dosemeters and doserate meters and for determining their response as a function of photon energy. Die Normen können kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex5-lvlu1-lvl4-2]: ISO 6980-2:2004, Reference beta-particle radiation – Part 2: Calibration fundamentals related to basic quantities characterizing the radiation field. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex5-lvlu1-lvl4-3]: ISO 8529-2:2000, Neutron Reference Radiations – Calibration fundamentals of radiation protection devices related to the basic quantities characterizing the radiation field. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 5 Gültigkeitsdauer der Eichung
 
@@ -757,16 +759,16 @@ Anhang 7
 - 4\.6 Bei der Eichung von Densitometern wird ein kalibrierter Graukeil benutzt.
 - 4\.7 Bei der Eichung von Luxmetern wird ein Vergleich mit einem Referenzgerät durchgeführt, wobei das Zentrum der Oberfläche eines Negatoskops als Lichtquelle dient.
 
-[^annex7-lvlu1-lvl4-1]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-2]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-3]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-4]: IEC 61674 ed1.0 (1997-10), Medical electrical equipment – Dosimeters with ionization chambers and/or semi-conductor detectors as used in X-ray diagnostic imaging. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-5]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-6]: IEC 61674 ed1.0 (1997–10), Medical electrical equipment – Dosimeters with ionization chambers and/or semi-conductor detectors as used in X-ray diagnostic imaging. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-7]: IEC 61674 ed1.0 (1997–10), Medical electrical equipment – Dosimeters with ionization chambers and/or semi-conductor detectors as used in X-ray diagnostic imaging. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-8]: IEC 60580 ed2.0 (2000–01) Medical electrical equipment – Dose area product meters. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-9]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex7-lvlu1-lvl4-10]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex7-lvlu1-lvl4-1]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-2]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-3]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-4]: IEC 61674 ed1.0 (1997-10), Medical electrical equipment – Dosimeters with ionization chambers and/or semi-conductor detectors as used in X-ray diagnostic imaging. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-5]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-6]: IEC 61674 ed1.0 (1997–10), Medical electrical equipment – Dosimeters with ionization chambers and/or semi-conductor detectors as used in X-ray diagnostic imaging. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-7]: IEC 61674 ed1.0 (1997–10), Medical electrical equipment – Dosimeters with ionization chambers and/or semi-conductor detectors as used in X-ray diagnostic imaging. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-8]: IEC 60580 ed2.0 (2000–01) Medical electrical equipment – Dose area product meters. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-9]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^annex7-lvlu1-lvl4-10]: IEC 61267 ed2.0 (2005-11), Medical diagnostic X-ray equipment – Radiation conditions for use in the determination of characteristics. Die Norm kann kostenlos eingesehen werden beim Eidg. Institut für Metrologie, 3003 Bern oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 5 Gültigkeitsdauer der Eichung
 
