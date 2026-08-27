@@ -3,20 +3,19 @@ canton: ZG
 number: "413.111"
 title: Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 language: de
-version: 2026-08-01
-valid_until: 2026-08-27
-version_adopted: 2026-07-13
+version: 2026-08-28
+version_adopted: 2026-08-25
 adopted: 2026-07-13
 in_force: 2026-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.111"
-pdf: "https://bgs.zg.ch/api/de/versions/3047/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3059/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen 1 zum Einführungsgesetz Berufsbildung
 
-Vom 13. Juli 2026 (Stand 1. August 2026)
+Vom 13. Juli 2026 (Stand 28. August 2026)
 
 Das Amt für Berufsbildung des Kantons Zug,
 
@@ -185,7 +184,7 @@ beschliesst:
 
 **Kostenübernahme beim Schulbesuch von Repetentinnen und Repetenten ohne Lehrvertrag**
 
-<sup>1</sup> Die Kosten für den Schulbesuch von Repetentinnen und Repetenten ohne Lehrvertrag, welche die ursprüngliche Lehrzeit im Kanton Zug absolviert haben, werden vom Kanton Zug übernommen. Die Materialkosten für das Qualifikationsverfahren gehen zu Lasten der Lernenden.
+<sup>1</sup> Die Kosten für den Schulbesuch von Repetentinnen und Repetenten ohne Lehrvertrag, welche die ursprüngliche Lehrzeit im Kanton Zug absolviert haben, werden vom Kanton Zug übernommen.
 
 #### § 13
 
