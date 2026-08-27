@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.464 s Iv. pa. Zopfi. Adeguare l’articolo 276 CP e l’articolo 98 CPM alla realtà attuale al fine di rafforzare la libertà di espressione
 document: Progetto posto in consultazione
 language: it

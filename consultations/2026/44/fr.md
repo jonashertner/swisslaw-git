@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "21.464 é Iv. pa. Zopfi. Adapter les articles 276 CP et 98 CPM à la situation actuelle en vue de renforcer la liberté d'expression"
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.464 s Pa. Iv. Zopfi. Anpassung von Artikel 276 StGB und Artikel 98 MStG an die heutige Realität zur Stärkung der Meinungsäusserungsfreiheit
 document: Vernehmlassungsvorlage
 language: de
