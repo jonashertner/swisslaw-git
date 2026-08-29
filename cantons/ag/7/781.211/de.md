@@ -4,13 +4,12 @@ number: "781.211"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern
 short: V EG UWR
 language: de
-version: 2026-04-01
-valid_until: 2026-08-29
-version_adopted: 2026-03-18
+version: 2026-08-30
+version_adopted: 2026-05-27
 adopted: 2008-05-14
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/781.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3933/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4016/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3933/pdf_file"
 
 (V EG UWR)
 
-Vom 14.05.2008 (Stand 01.04.2026)
+Vom 14.05.2008 (Stand 30.08.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -637,6 +636,79 @@ beschliesst:
 <sup>1</sup> In Wohngebieten ist das Verbrennen von natürlichen Wald-, Feld- und Gartenabfällen im Freien verboten.
 
 <sup>2</sup> Die Gemeinden können weitergehende Einschränkungen erlassen, namentlich wenn Angebote für die Verwertung solcher Abfälle zur Verfügung stehen.
+
+#### § 52a
+
+**Vollzug Luftreinhaltung in der Landwirtschaft**
+
+<sup>1</sup> Die gesetzlichen Bestimmungen zur Luftreinhaltung bei Tierhaltungsanlagen in der Landwirtschaft sowie bei Anlagen zur Lagerung und Ausbringung von flüssigen Hof- und Recyclingdüngern werden durch die für die Landwirtschaft zuständige Abteilung vollzogen.
+
+#### § 52b
+
+**Ammoniakminderungsmassnahmen für Tierhaltungsanlagen in der Landwirtschaft**
+
+<sup>1</sup> Für Tierhaltungsanlagen in der Landwirtschaft gelten die verschärften Emissionsbegrenzungen gemäss den §§ 52c–52g und der Richtlinie «Reduktion der Ammoniak-Emissionen aus der Landwirtschaft (Richtlinie Ammoniak)» der kantonalen Fachstelle vom 5. März 2026 in der Fassung vom 1. Juli 2026[^52b-1].
+
+[^52b-1]: [www.ag.ch/luft](https://www.ag.ch/luft) &gt; Emissionen in der Landwirtschaft
+
+#### § 52c
+
+**Minimierung der verschmutzbaren Flächen**
+
+<sup>1</sup> Die verschmutzbaren Flächen bei Ställen und Laufhöfen von Rindvieh und Schweinen sind zu minimieren.
+
+<sup>2</sup> Ein Betrieb mit mehr als 10 Grossvieheinheiten (GVE) hat sich bei einem Bauvorhaben bezüglich Ammoniakreduktionsmassnahmen von einer Fachperson beraten zu lassen. Die Fachperson muss über die notwendigen Kenntnisse im Stallbau, insbesondere in Bezug auf die Berücksichtigung der Einhaltung der Ammoniakreduktionsvorgaben, sowie über eine entsprechende Anerkennung durch den Kanton verfügen. Die Beratung betreffend Ammoniakreduktionsmassnahmen hat keine Kostenfolge.
+
+<sup>3</sup> Die Beurteilung und die Optimierungsvorschläge der Fachperson sind Bestandteil des Baugesuchs.
+
+#### § 52d
+
+**Kotbandtrocknung und Entmistung in Anlagen für Lege- und Junghennen**
+
+<sup>1</sup> In Anlagen für Lege- und Junghennen mit mehr als 20 GVE, die gemäss Art. 2 Abs. 4 LRV neu sind, sind die Ammoniakemissionen mit einer eingebauten Kotbandtrocknungsanlage zu reduzieren.
+
+<sup>2</sup> Anstelle einer Kotbandtrockung können andere offiziell anerkannte Techniken verwendet werden, die die Ammoniakemissionen insgesamt um mindestens 70 % reduzieren.
+
+<sup>3</sup> Der getrocknete Kot muss in ein geschlossenes Mistlager abgeführt werden; er darf weder für die Lagerung noch für die Ausbringung verflüssigt werden. Ausgenommen ist getrockneter Kot, der sofort nach der Entmistung ohne Zwischenlagerung in eine Biogasanlage geführt wird.
+
+<sup>4</sup> Bestehende Anlagen mit 60 oder mehr GVE sind bis 1. Januar 2035 mit einer Kotbandtrocknung oder einer anderen offiziell anerkannten Technik nachzurüsten, so dass die Ammoniak-Reduktionswirkung mindestens 70 % beträgt.
+
+#### § 52e
+
+**Ausbringung von flüssigen Hof- und Recyclingdüngern**
+
+<sup>1</sup> Das Ausbringen von flüssigen Hof- und Recyclingdüngern mit Breitverteilern ist auf Ackerflächen bis 18 % Hangneigung verboten. In begründeten Fällen sind Ausnahmen zulässig. Sie bedürfen einer Bewilligung der für die Landwirtschaft zuständigen Abteilung.
+
+<sup>2</sup> Das Ausbringen von flüssigen Hof- und Recyclingdüngern bei prognostizierten Hitzetagen mit Tageshöchsttemperaturen von 30 °C und mehr gemäss Wetterprognose des Bundesamts für Meteorologie und Klimatologie (MeteoSchweiz) ist verboten. Davon ausgenommen ist das Ausbringen mit dem Gülledrillverfahren oder Techniken mit derselben Ammoniak-Reduktionswirkung. In begründeten Fällen sind Ausnahmen zulässig.
+
+#### § 52f
+
+**Ausbringen von Mist**
+
+<sup>1</sup> Mist von Rindvieh, Schweinen und Geflügel, der zwischen dem 1. April und 30. September auf unbestellte Ackerflächen ausgebracht wird, muss in der Regel gleichentags eingearbeitet werden. Ausgenommen sind im Direkt- oder Streifensaatverfahren angesäte Flächen. In begründeten Fällen sind Ausnahmen zulässig.
+
+<sup>2</sup> Unbestellte Ackerflächen sind namentlich Raps-, Getreide- oder Maisstoppeln oder Kunstwiese vor dem Umbruch.
+
+<sup>3</sup> Als Einarbeitung gelten neben dem Pflügen auch das Grubbern, Eggen und Fräsen.
+
+<sup>4</sup> Auf frisch angesäten Ackerflächen ist eine Mistgabe nicht zulässig.
+
+#### § 52g
+
+**Abluftreinigungsanlagen bei Haltung von Mastpoulets und Schweinen**
+
+<sup>1</sup> Anlagen für die Haltung von Mastpoulets und Schweinen, die gemäss Art. 2 Abs. 4 LRV neu sind und in nahe gelegenen, sensiblen Ökosystemen zu Überschreitungen der Critical Loads für Stickstoff oder Critical Levels für Ammoniak führen, müssen die Ammoniakemissionen mit einer Abluftreinigungsanlage mit mindestens folgendem Wirkungsgrad reduzieren:
+
+- a) 70 % bei einem Betrieb mit über 20, aber weniger als 50 GVE,
+- b) 90 % bei Betrieben mit 50 oder mehr GVE.
+
+<sup>2</sup> Anstelle einer Abluftreinigungsanlage können andere offiziell anerkannte Techniken verwendet werden, die die Ammoniakemissionen insgesamt um mindestens 70 % beziehungsweise 90 % reduzieren.
+
+<sup>3</sup> Anstelle des geforderten Wirkungsgrads genügt auch die Einhaltung eines Ammoniakgrenzwerts von 2,4 mg/m³ in der Abluft.
+
+<sup>4</sup> An neuen Standorten darf der Betrieb einer Anlage zu keinen Überschreitungen der Critical Loads für Stickstoff oder Critical Levels für Ammoniak in nahe gelegenen, sensiblen Ökosystemen führen.
+
+<sup>5</sup> Bestehende Anlagen mit 60 GVE oder mehr, die in nahe gelegenen, sensiblen Ökosystemen zu Überschreitungen der Critical Loads für Stickstoff oder Critical Levels für Ammoniak führen, sind bis 1. Januar 2035 mit einer Abluftreinigungsanlage oder einer anderen offiziell anerkannten Technik nachzurüsten, so dass die Ammoniak-Reduktionswirkung wenigstens 70 % beträgt oder der genannte Grenzwert eingehalten ist.
 
 #### § 53
 
