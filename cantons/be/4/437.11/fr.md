@@ -4,13 +4,12 @@ number: "437.11"
 title: "Loi cantonale sur l'encouragement du sport"
 short: LCESp
 language: fr
-version: 2024-02-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-07
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2021-12-07
 in_force: 2022-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/437.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2986/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3435/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2986/pdf_file"
 
 (LCESp)
 
-du 07.12.2021 (état au 01.02.2024)
+du 07.12.2021 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -303,7 +302,7 @@ arrête:
 
 <sup>1</sup> Les services compétents en matière sportive du canton et des communes sont habilités à traiter des données personnelles, dans la mesure où cela est nécessaire à l'accomplissement de leurs tâches légales.
 
-<sup>2</sup> Ils sont habilités à traiter des données personnelles particulièrement dignes de protection relatives à la santé, dans la mesure où cela est impérativement nécessaire à l'accomplissement de leurs tâches légales.
+<sup>2</sup> Ils sont habilités à traiter des données sensibles relatives à la santé, dans la mesure où cela est impérativement nécessaire à l'accomplissement de leurs tâches légales.
 
 <sup>3</sup> Ils sont habilités, dans le cadre fixé par les alinéas 1 et 2, à traiter des données figurant dans des fichiers centralisés de données personnelles selon la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^24-1].
 
