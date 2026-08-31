@@ -1,274 +1,325 @@
 ---
 canton: BE
 number: "152.040.1"
-title: Ordonnance sur la protection des données
-short: OPD
+title: Ordonnance cantonale sur la protection des données
+short: OCPD
 language: fr
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-02
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2026-06-24
 in_force: 2026-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.040.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2001/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3457/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur la protection des données
+# Ordonnance cantonale sur la protection des données
 
-(OPD)
+(OCPD)
 
-du 22.10.2008 (état au 01.11.2020)
+du 24.06.2026 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 38 de la loi du 19 février 1986 sur la protection des données (LCPD)[^ingress-1],
+vu les articles 21, 22, 30, 44 et 57 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^ingress-1]
 
-sur proposition de la Direction de la justice, des affaires communales et des affaires ecclésiastiques,
+sur proposition de la Direction de l'intérieur et de la justice,
 
 arrête:
 
-[^ingress-1]: RSB 152.04
+[^ingress-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
-## 1 Blocage des données
+## 1 Traitement de données personnelles
+
+### 1.1 Traitement par des tiers mandatés
 
 #### Art. 1
 
-<sup>1</sup> L’autorité responsable confirme par écrit la décision d’ordonner le blocage des données (art. 13 LCPD) à la personne qui le requiert.
+**Contenu du contrat**
 
-<sup>2</sup> La demande de blocage des données et la confirmation de celui-ci peuvent être faites par voie électronique, pour autant que l’autorité responsable ait pris des mesures adéquates afin
+<sup>1</sup> Le traitement de données personnelles est confié à des tiers conformément à l’article 12 LCPD par un contrat écrit.
 
-- a d’assurer l’identification de la personne concernée et
-- b de protéger les données de la personne concernée de tout accès de tiers non autorisés lors du traitement de la demande.
+<sup>2</sup> Le contrat règle en particulier
 
-## 2 Communication à l’étranger
+- a l’objet et l’étendue du traitement des données,
+- b l’exclusion de tout traitement ne poursuivant pas le but du contrat,
+- c les obligations de garder le secret,
+- d le traitement des demandes de renseignements,
+- e les mesures de prévention pour la protection des données personnelles,
+- f le contrôle de l’exécution du mandat dans les règles de la protection des données,
+- g la durée du contrat et les conditions de résiliation,
+- h la forme et les conditions à respecter pour que les tiers mandatés puissent déléguer le traitement à d’autres personnes,
+- i le transfert des obligations contractuelles et des droits de contrôle des tiers mandatés aux prestataires de la sous-traitance,
+- k le cas échéant, l’obligation de tenir un registre conformément à l’article 22 LCPD et à l’article 8,
+- l les sanctions prévues en cas de manquement aux obligations.
+
+<sup>3</sup> Si l’autorité ne parvient pas à conclure un contrat comportant ces éléments, elle prend d’autres mesures pour parer aux risques qui en découlent.
 
 #### Art. 2
 
-**Publication sous forme électronique**
+**Transfert du traitement à d’autres personnes**
 
-<sup>1</sup> Si des données personnelles sont publiées au moyen de services d’information et de communication automatisés afin d’informer le public, l’autorité responsable s’assure que la base légale autorise également la communication de données à l’étranger.
+<sup>1</sup> L’accord préalable de l’autorité selon l’article 12, alinéa 3 LCPD, permettant aux tiers mandatés de confier le traitement des données à d’autres personnes, peut être de nature spécifique ou générale.
+
+<sup>2</sup> En cas d’accord général, les tiers mandatés lorsqu’ils envisagent de recourir à d’autres personnes ou de les remplacer en informent l’autorité, qui peut s’opposer à cette modification.
+
+### 1.2 Communication à l’étranger
 
 #### Art. 3
 
-**Devoir d’information**
+**Garanties suffisantes**
 
-<sup>1</sup> Une fois les garanties au sens de l’article 14a, alinéa 2, lettre a LCPD annoncées à l’autorité de surveillance, le devoir d’information est réputé également rempli pour toutes les communications qui se basent sur les mêmes garanties pour autant que les catégories de destinataires, les finalités du traitement et les catégories de données communiquées soient similaires.
+<sup>1</sup> Sont des garanties suffisantes selon l’article 15, alinéa 1, lettre c LCPD
 
-<sup>2</sup> Le devoir d’information est également réputé rempli lorsque les données sont communiquées au moyen de contrats modèles ou de clauses standards établis ou reconnus par le Préposé fédéral à la protection des données et à la transparence et que l’autorité responsable informe l’autorité de surveillance qu’elle recourt à ces contrats modèles ou à ces clauses standards.
+- a les clauses types de protection des données que la préposée fédérale ou le préposé fédéral à la protection des données et à la transparence a approuvées, établies ou reconnues ou
+- b d’autres clauses contractuelles garantissant un niveau de protection adéquat des données.
 
-<sup>3</sup> L’autorité responsable prend des mesures pour s’assurer que le ou la destinataire respecte les garanties.
+<sup>2</sup> L’autorité qui opte pour d’autres clauses contractuelles au sens de l’alinéa 1, lettre b les transmet en amont à l’autorité de protection des données.
 
-## 3 Mesures techniques et organisationnelles
+<sup>3</sup> L’autorité ou les tiers mandatés prennent les mesures adéquates pour s’assurer que la destinataire ou le destinataire respecte les garanties suffisantes.
 
 #### Art. 4
 
-**Principe**
+**Autres clauses contractuelles**
 
-<sup>1</sup> L’autorité responsable qui traite des données personnelles ou qui met à disposition un réseau télématique assure par des mesures techniques et organisationnelles la confidentialité, la disponibilité et l’exactitude des données (art. 17 LCPD). Elle protège notamment les systèmes contre les risques
+<sup>1</sup> Les autres clauses contractuelles au sens de l’article 3, alinéa 1, lettre b comprennent au moins
 
-- a de destruction accidentelle ou non autorisée,
-- b de perte accidentelle,
-- c d’erreurs techniques,
-- d de falsification, vol ou utilisation illicite,
-- e de modification, copie, accès ou autre traitement non autorisés.
+- a une disposition sur l’application des principes de la légalité, de la finalité, de la proportionnalité, de la transparence et de l’exactitude,
+- b les catégories de données communiquées et de personnes concernées,
+- c le type et la finalité d’une éventuelle communication des données personnelles,
+- d les destinataires ou les catégories de destinataires,
+- e le cas échéant, le nom des États ou des organismes internationaux auxquels sont destinées les données personnelles, et les conditions applicables à la communication,
+- f les conditions applicables à la conservation, à l’archivage et à la destruction des données personnelles,
+- g les mesures visant à garantir la sécurité des données,
+- h l’obligation d’annoncer les violations de la sécurité des données,
+- i l’obligation pour la destinataire ou le destinataire, lorsqu’il s’agit d’une autorité, d’informer la personne concernée par le traitement des données,
+- k les droits de la personne concernée, en particulier
+  - 1\. le droit d’accès,
+  - 2\. les droits en cas de traitement illicite,
+  - 3\. le droit de blocage de la communication à des personnes privées,
+  - 4\. le droit de saisir en justice une autorité indépendante.
 
-<sup>2</sup> Les mesures doivent être appropriées. Elles tiennent compte en particulier des critères suivants:
-
-- a but du traitement des données,
-- b nature et étendue du traitement des données,
-- c évaluation des risques potentiels pour les personnes concernées,
-- d développement technique.
-
-<sup>3</sup> Les risques et les mesures font l’objet d’un examen périodique.
+## 2 Obligation d’inscrire au registre des fichiers et au registre des activités de traitement
 
 #### Art. 5
 
-**Mesures particulières**
+**Portée de l’obligation d’inscrire au registre et de l’obligation des autorités de poursuite pénale et des tribunaux pénaux de tenir un registre**
 
-<sup>1</sup> L’autorité responsable prend, en particulier lors de traitements électroniques de données personnelles, les mesures techniques et organisationnelles suivantes:
+<sup>1</sup> Le registre des fichiers selon l’article 21 LCPD et le registre selon l’article 22 LCPD contiennent au moins les indications sur
 
-- a contrôle des installations à l’entrée: les personnes non autorisées n’ont pas accès aux locaux et aux installations utilisées pour le traitement de données personnelles;
-- b contrôle des supports de données personnelles: les personnes non autorisées ne peuvent pas lire, copier, modifier ou éloigner des supports de données;
-- c contrôle du transport: les personnes non autorisées ne peuvent pas lire, copier, modifier ou effacer des données personnelles lors de leur communication ou lors du transport de support de données;
-- d contrôle de communication: les destinataires auxquels des données personnelles sont communiquées à l’aide d’installations de transmission doivent pouvoir être identifiés;
-- e contrôle de mémoire: les personnes non autorisées ne peuvent ni introduire des données personnelles dans la mémoire ni prendre connaissance de données mémorisées, les modifier ou les effacer;
-- f contrôle d’utilisation: les personnes non autorisées ne peuvent pas utiliser les systèmes de traitement automatisé de données personnelles au moyen d’installations de transmission;
-- g contrôle d’accès: les personnes autorisées ont accès uniquement aux données personnelles dont elles ont besoin pour accomplir leurs tâches;
-- h contrôle de l’introduction: l’identité des personnes introduisant des données personnelles dans le système, ainsi que les données introduites et le moment de leur introduction peuvent être vérifiés a posteriori.
-
-<sup>2</sup> Les fichiers doivent être organisés de manière à permettre à la personne concernée d’exercer ses droits d’accès et de rectification.
+- a l’autorité responsable et ses coordonnées,
+- b la base juridique et le but du fichier ou du traitement,
+- c les données personnelles ou catégories de données personnelles traitées et leur étendue,
+- d les données personnelles qui sont régulièrement communiquées à d’autres autorités ou à des personnes privées ainsi que les destinataires de la communication,
+- e le délai de conservation.
 
 #### Art. 6
 
-**Journalisation**
-
-<sup>1</sup> L’autorité responsable journalise les traitements automatisés de données personnelles particulièrement dignes de protection ou de données personnelles pour lesquelles il existe une obligation particulière de garder le secret lorsque les mesures préventives ne suffisent pas à garantir la protection des données.
-
-<sup>2</sup> Une journalisation est notamment nécessaire, lorsque, sans cette mesure, il ne serait pas possible de vérifier a posteriori que les données ont été traitées conformément aux finalités pour lesquelles elles ont été collectées ou communiquées.
-
-<sup>3</sup> Les procès-verbaux de journalisation sont conservés durant une année et sous une forme répondant aux exigences de révision. Ils sont accessibles aux seuls organes chargés de vérifier l’application des dispositions de protection des données personnelles et ne peuvent être utilisés qu’à cette fin. Les prescriptions dérogatoires de la législation ou d’autorisations d’exploitation sont réservées.
-
-## 4 Contrôle préalable
-
-#### Art. 7
-
-**Définitions**
-
-<sup>1</sup> Des moyens techniques présentent des risques particuliers pour les droits et les libertés des personnes concernées au sens de l’article 17a, alinéa 1, lettre d LCPD en particulier lorsque des données personnelles
-
-- a sont enregistrées sur des supports de données que la personne concernée porte sur elle;
-- b sont enregistrées sur des puces RFID (transpondeurs passifs d’identification par radiofréquence);
-- c sont transmises par l’intermédiaire de liaisons sans fil, pour autant qu’il ne s’agisse pas de liaisons radiotéléphoniques et de liaisons sans fil de terminaux de paiement dont la sûreté pour les transactions commerciales a déjà été examinée;
-- d sont recueillies avec des appareils d’enregistrement et de traitement de l’image.
-
-<sup>2</sup> Il en va de même lorsque
-
-- a des données personnelles particulièrement dignes de protection sont transférées par l’intermédiaire de réseaux publics;
-- b un accès limité à des données émanant d’une banque de données personnelles doit être octroyé à des particuliers par l’intermédiaire d’Internet.
-
-<sup>3</sup> Une modification est réputée importante au sens de l’article 17a, alinéa 2 LCPD en particulier lorsque
-
-- a les moyens ou le but du traitement des données se modifient considérablement ou que
-- b la modification remplit à elle seule les conditions d’un contrôle préalable.
-
-<sup>4</sup> La seule modification de l’étendue d’un traitement de données ne constitue pas une modification importante.
-
-#### Art. 8
-
-**Renonciation au contrôle préalable**
-
-<sup>1</sup> Les communes et d’autres collectivités de droit communal peuvent renoncer à un contrôle préalable si
-
-- a elles utilisent des systèmes ou des programmes de traitement des données pour lesquels il existe une certification au sens de l’article 11 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^8-1] et que celle-ci porte aussi bien sur la sécurité informatique que sur la protection des données ou si
-- b le traitement des données, y compris les traitements des données archivées électroniquement, concerne moins de 500 personnes.
-
-[^8-1]: RS 235.1
-
-#### Art. 9
-
-**Délégation**
-
-<sup>1</sup> Pour les projets informatiques du canton et les projets informatiques auxquels le canton octroie des indemnités en vertu de la législation spéciale, la Direction des finances réglemente, par une ordonnance de Direction,
-
-- a l’analyse de la sécurité informatique et de la protection des données,
-- b le contrôle préalable et la date à laquelle il est effectué,
-- c les consignes de sécurité informatique et de protection des données.
-
-## 5 Registre des fichiers
-
-#### Art. 10
+**Exception à l’obligation d’inscrire au registre**
 
 <sup>1</sup> Ne sont pas inscrits au registre les fichiers qui
 
-- a sont utilisés pendant deux ans au plus,
-- b sont conservés aux Archives de l’Etat ou aux archives communales ou
-- c sont accessibles au public sous la forme d’annuaires.
+- a sont constitués pour deux ans au plus,
+- b sont accessibles au public ou
+- c sont limités aux données personnelles au sens de l’article 4, alinéa 1 de l’ordonnance du 14 décembre 2005 sur la communication de données personnelles (OCDP)[^6-1].
 
-## 6 Droit d’accès
+[^6-1]: RSB [152.041.1](https://www.belex.sites.be.ch/data/152.041.1/fr)
+
+#### Art. 7
+
+**Système algorithmique de prise de décision présentant un risque élevé pour la personne concernée**
+
+<sup>1</sup> Un système algorithmique de prise de décision au sens des articles 21, alinéa 2, lettre c et 23, alinéa 2, lettre c LCPD
+
+- a fonctionne de manière automatisée;
+- b produit des décisions concernant des personnes, en influence le résultat ou procède à des recommandations à cet égard et dispose d’un pouvoir d’appréciation quant aux conditions d’application ou aux conséquences juridiques.
+
+<sup>2</sup> Un risque est réputé élevé lorsque l’utilisation d’un système algorithmique de prise de décision peut avoir des répercussions significatives pour la personne concernée.
+
+#### Art. 8
+
+**Modalités de l’obligation des autorités de poursuite pénale et des tribunaux pénaux de tenir un registre**
+
+<sup>1</sup> Les autorités de poursuite pénale et les tribunaux pénaux qui mandatent des tiers pour traiter des données personnelles s’assurent qu’ils tiennent aussi un registre au sens de l’article 22 LCPD.
+
+<sup>2</sup> Les autorités de poursuite pénale, les tibunaux pénaux et les tiers mandatés mettent le registre à la disposition de l’autorité de protection des données, sur demande.
+
+## 3 Droits de la personne concernée
+
+#### Art. 9
+
+**Modalités du droit d’accès**
+
+<sup>1</sup> La demande de renseignements selon l’article 29, alinéa 1 LCPD est faite par écrit ou oralement moyennant l’accord de l’autorité.
+
+<sup>2</sup> Les renseignements sont communiqués sous une forme compréhensible pour la personne concernée, en principe par écrit ou
+
+- a sous la forme dans laquelle les données se présentent,
+- b oralement, si la personne concernée y consent, ou
+- c sur place, si l’autorité et la personne concernée s’entendent à cet égard.
+
+<sup>3</sup> L’autorité prend des mesures adéquates pour identifier la personne concernée, qui est tenue de coopérer.
+
+#### Art. 10
+
+**Délais en matière de renseignement**
+
+<sup>1</sup> Les renseignements ou une décision de restriction au droit d’accès fondée (art. 29 ss LCPD) sont fournis au plus tard dans les 30 jours suivant la réception de la demande.
+
+<sup>2</sup> Si les renseignements ne peuvent être donnés dans les 30 jours, l’autorité en informe la personne à l’origine de la demande en lui indiquant le délai dans lequel les renseignements seront fournis.
 
 #### Art. 11
 
-**Modalités**
+**Droit de blocage de la communication à des personnes privées**
 
-<sup>1</sup> Les renseignements sont fournis dans les 30 jours suivant la réception de la demande. Il en va de même pour une décision restreignant le droit d’accès (art. 21 et 22 LCPD). Si les renseignements ne peuvent pas être donnés dans les 30 jours, l’autorité responsable en avertit la personne requérante et lui indique le délai dans lequel interviendra la réponse.
+<sup>1</sup> La demande selon l’article 34, alinéa 1 LCPD est faite par écrit ou oralement moyennant l’accord de l’autorité.
 
-<sup>2</sup> La demande d’accès et la communication des renseignements demandés peuvent être faites par voie électronique, pour autant que l’autorité responsable prenne des mesures adéquates afin
+<sup>2</sup> L’autorité communique par écrit à la personne à l’origine de la demande, ou oralement si elle y consent, le prononcé de sa décision en faveur ou à l’encontre du blocage des données personnelles.
 
-- a d’assurer l’identification de la personne concernée et
-- b de protéger les données de la personne concernée de tout accès de tiers non autorisés lors de la communication des renseignements.
+<sup>3</sup> L’autorité prend des mesures adéquates pour identifier la personne concernée, qui est tenue de coopérer.
+
+## 4 Autorité de protection des données, conseillère ou conseiller à la protection des données
 
 #### Art. 12
 
-**Consultation de données de personnes décédées**
+**Documentation**
 
-<sup>1</sup> La consultation des données d’une personne décédée est accordée lorsque la personne requérante justifie un intérêt à la consultation et qu’aucun intérêt prépondérant de proches de la personne décédée ou de tiers ne s’y oppose. Un intérêt est établi en cas de proche parenté, de mariage ou de partenariat enregistré avec la personne décédée. Des obligations particulières de garder le secret sont réservées.
+<sup>1</sup> Les autorités communiquent à l’autorité cantonale de protection des données les projets d’acte législatif et les mesures au sens de l’article 43, alinéa 1, lettre f et alinéa 3 LCPD.
 
-## 7 Autorité de surveillance de la protection des données, organes de contact pour la protection des données
+<sup>2</sup> Les Directions et la Chancellerie d’État communiquent à l’autorité cantonale de protection des données les décisions sur recours en matière de protection des données de manière anonymisée.
 
 #### Art. 13
 
-**Documentation**
+**Participation des communes aux frais de l’autorité cantonale de protection des données**
 
-<sup>1</sup> Les autorités responsables communiquent à l’autorité de surveillance tous leurs projets législatifs et d’autres mesures au sens de l’article 34, alinéa 1, lettre k LCPD, qui concernent le traitement de données personnelles et la protection des données.
-
-<sup>2</sup> En matière de protection des données, les Directions et la Chancellerie d’Etat communiquent à l’autorité cantonale de surveillance leurs décisions et leurs décisions sur recours sous une forme anonymisée.
+<sup>1</sup> Les communes municipales et les communes mixtes soumises à la surveillance de l’autorité cantonale de protection des données participent aux frais de cette autorité en versant un montant annuel d’un franc par habitante et habitant.
 
 #### Art. 14
 
-**Communes, compétence en matière d’autorisation de dépenses**
+**Rapport**
 
-<sup>1</sup> A moins que les communes et les autres collectivités de droit communal n’adoptent une réglementation dérogatoire, leurs autorités de surveillance disposent annuellement de la compétence en matière d’autorisation de dépenses suivante:
-
-- a 1000 francs pour les petites collectivités au sens de l’article 64a de l’ordonnance sur les communes[^14-1],
-- b 5000 francs pour les communes de 10 000 habitants au plus et pour les autres collectivités de droit communal,
-- c 10 000 francs pour les communes de plus de 10 000 habitants.
-
-[^14-1]: RSB 170.111
+<sup>1</sup> Le rapport de l’autorité cantonale de protection des données selon l’article 51 LCPD rend en particulier compte des lacunes constatées et des améliorations souhaitables, dans la mesure où cela ne porte atteinte à aucun intérêt public au sens de la législation sur la sécurité de l’information et la cybersécurité.
 
 #### Art. 15
 
-**Organe de contact pour la protection des données**
+**Conseillère ou conseiller à la protection des données**
 
-<sup>1</sup> La Chancellerie d’Etat et chaque Direction désignent au minimum un organe de contact pour la protection des données. Celuici a pour tâches de
+<sup>1</sup> Les Directions, la Chancellerie d’État et la Direction administrative de la magistrature désignent au minimum une conseillère ou un conseiller à la protection des données qui
 
-- a conseiller les unités administratives en matière de protection des données;
-- b transmettre les questions auxquelles il n’est pas en mesure de répondre à l’autorité cantonale de surveillance de la protection des données;
-- c soutenir les organes responsables ainsi que les utilisateurs;
-- d promouvoir l’information et la formation des collaborateurs;
-- e concourir à l’application des prescriptions relatives à la protection des données.
+- a conseille les unités administratives en matière de protection des données;
+- b transmet les questions auxquelles elle ou il n’est pas en mesure de répondre à l’autorité cantonale de protection des données;
+- c promeut l’information et la formation des collaboratrices et des collaborateurs;
+- d concourt à l’application des prescriptions relatives à la protection des données;
+- e interagit avec l’autorité cantonale de protection des données pour ce qui a trait au traitement de données personnelles par les unités administratives concernées.
 
-<sup>2</sup> Si les Directions et la Chancellerie d’Etat ne désignent aucun autre organe, leurs services juridiques ou les juristes des offices assument la fonction d’organe de contact.
+<sup>2</sup> Si elles ne désignent personne, la fonction est assumée par
 
-<sup>3</sup> L’Office des affaires communales et de l’organisation du territoire de la Direction de l’intérieur et de la justice conseille les collectivités de droit communal sur les questions de protection des données d’ordre général. Pour les questions spécifiques, les conseils relèvent des services juridiques compétents des Directions et de la Chancellerie d’Etat ou des juristes des offices. L’autorité cantonale de surveillance de la protection des données demeure l’interlocutrice des services de surveillance de la protection des données des collectivités de droit communal.
+- a leurs services juridiques ou les juristes des offices, pour les Directions et la Chancellerie d’État;
+- b l’État-major des ressources, pour la Direction administrative de la magistrature.
 
-## 8 Procédure et protection juridique
+<sup>3</sup> Les communes et les autres collectivités de droit communal peuvent adresser leurs questions spécifiques aux conseillères et aux conseillers à la protection des données compétents, aux services juridiques compétents ou aux juristes des offices compétents des Directions et de la Chancellerie d’État.
+
+## 5 Dispositions transitoires et dispositions finales
 
 #### Art. 16
 
-**Compétences des autorités de la juridiction administrative**
+**Contrats en cours avec des tiers mandatés**
 
-<sup>1</sup> Les compétences des autorités de la juridiction administrative sont régies en principe par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives[^16-1].
-
-<sup>2</sup> Les décisions des établissements et des collectivités du canton et celles de personnes privées qui assument des tâches publiques cantonales sont susceptibles de recours auprès de la Direction qui assume la surveillance ou auprès de celle dont le champ d’activité est le plus proche de l’objet du dossier.
-
-<sup>3</sup> Les décisions des organes du Grand Conseil peuvent être déférées au plénum.
-
-[^16-1]: RSB 155.21
-
-## 9. Dispositions finales
+<sup>1</sup> Le cas échéant, les autorités adaptent aux conditions de l’article 1 les contrats en cours passés avec des tiers mandatés dès la nouvelle acquisition ou la prochaine modification, mais avant le 1<sup>er</sup> octobre 2030.
 
 #### Art. 17
+
+**Enquêtes pendantes devant l’autorité de protection des données**
+
+<sup>1</sup> Les autorités de surveillance communales closent les enquêtes pendantes au moment de l’entrée en vigueur de la présente ordonnance au sens de l’article 59 LCPD, comme les affaires concernant les contrôles préalables, les dénonciations à l’autorité de surveillance ainsi que les prises de position sur les projets d’acte législatif et les mesures.
+
+#### Art. 18
+
+**Sécurité des données et contrôle préalable**
+
+<sup>1</sup> Les articles 4 à 9 de l’ordonnance du 22 octobre 2008 sur la protection des données (OPD)[^18-1] sont applicables jusqu’à l’entrée en vigueur de la loi sur la sécurité de l’information et la cybersécurité (LSIC) et de l’ordonnance sur la sécurité de l’information et des données (OSID).
+
+[^18-1]: RSB [152.040.1](https://www.belex.sites.be.ch/data/152.040.1/fr)
+
+#### Art. 19
 
 **Modification d’actes législatifs**
 
 <sup>1</sup> Les actes législatifs suivants sont modifiés:
 
-- 1\. Ordonnance du 26 octobre 1994 sur l’information du public (ordonnance sur l’information; OIn)[^17-1]
-- 2\. Ordonnance du 26 juin 1996 sur les procédures de consultation et de corapport (OPC)[^17-2]
-- 3\. Ordonnance du 18 octobre 1995 sur l’organisation et les tâches de la Direction de la justice, des affaires communales et des affaires ecclésiastiques (Ordonnance d’organisation JCE, OO JCE)[^17-3]
-- 4\. Ordonnance du 22 février 1995 fixant les émoluments de l’administration cantonale (Ordonnance sur les émoluments; OEmo)[^17-4]
-- 5\. Ordonnance du 30 novembre 2005 sur les soins hospitaliers (OSH)[^17-5]
+- 1\. ordonnance du 15 novembre 2023 sur l’information et l’aide aux médias (OIAM)[^19-1],
+- 2\. ordonnance du 11 janvier 2023 sur l’administration numérique (OAN)[^19-2],
+- 3\. ordonnance du 20 septembre 2017 sur le droit de cité cantonal et le droit de cité communal (ordonnance sur le droit de cité, ODC)[^19-3],
+- 4\. ordonnance du 21 décembre 2022 sur les procédures de consultation et de corapport (OPC)[^19-4],
+- 5\. ordonnance du 14 décembre 2005 sur la communication de données personnelles (OCDP)[^19-5],
+- 6\. ordonnance du 20 janvier 2021 sur la plate-forme des systèmes des registres communaux (O GERES)[^19-6],
+- 7\. ordonnance du 20 janvier 2021 sur le système de gestion centrale des personnes (O GCP)[^19-7],
+- 8\. ordonnance du 30 juin 2021 sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration (ordonnance d’organisation DSSI, OO DSSI)[^19-8],
+- 9\. ordonnance du 18 octobre 1995 sur l’organisation et les tâches de la Direction des travaux publics et des transports (ordonnance d’organisation DTT, OO DTT)[^19-9],
+- 10\. ordonnance du 18 mai 2005 sur le personnel (OPers)[^19-10],
+- 11\. ordonnance du 20 novembre 2019 sur les données secondaires de communication (ODSC)[^19-11],
+- 12\. ordonnance du 22 février 1995 fixant les émoluments de l’administration cantonale (ordonnance sur les émoluments; OEmo)[^19-12],
+- 13\. ordonnance cantonale du 3 novembre 2021 sur l’état civil (OCEC)[^19-13],
+- 14\. ordonnance du 18 décembre 2002 concernant le système d’information sur les données relatives aux immeubles (ordonnance GRUDIS)[^19-14],
+- 15\. ordonnance cantonale du 11 novembre 2015 sur la géoinformation (OCGéo)[^19-15],
+- 16\. ordonnance du 14 novembre 2018 sur les expulsions (Oex)[^19-16],
+- 17\. ordonnance du 15 septembre 2021 sur l’exécution de la surveillance électronique (OESurvE)[^19-17],
+- 18\. ordonnance du 28 mars 2007 sur le statut du corps enseignant (OSE)[^19-18],
+- 19\. ordonnance du 7 novembre 2007 sur les écoles moyennes (OEM)[^19-19],
+- 20\. ordonnance du 28 octobre 1998 sur l’imposition des véhicules routiers et la facturation par l’office compétent (ordonnance sur l’imposition des véhicules routiers, OIV)[^19-20],
+- 21\. ordonnance du 20 mai 2020 sur le traitement des données dans le domaine de l’asile, des réfugiés et des étrangers (ODARE)[^19-21],
+- 22\. ordonnance du 27 octobre 2010 sur l’assurance immobilière (OAIm)[^19-22],
+- 23\. ordonnance du 5 décembre 2012 sur l’exercice de la prostitution (OEP)[^19-23].
 
-[^17-1]: RSB 107.111
-[^17-2]: RSB 152.025
-[^17-3]: RSB 152.221.131
-[^17-4]: RSB 154.21
-[^17-5]: Abrogée par O du 23. 10. 2013 sur les soins hospitaliers (OSH); RSB 812.112
+[^19-1]: RSB [107.111](https://www.belex.sites.be.ch/data/107.111/fr)
+[^19-2]: RSB [109.111](https://www.belex.sites.be.ch/data/109.111/fr)
+[^19-3]: RSB [121.111](https://www.belex.sites.be.ch/data/121.111/fr)
+[^19-4]: RSB [152.025](https://www.belex.sites.be.ch/data/152.025/fr)
+[^19-5]: RSB [152.041.1](https://www.belex.sites.be.ch/data/152.041.1/fr)
+[^19-6]: RSB [152.051](https://www.belex.sites.be.ch/data/152.051/fr)
+[^19-7]: RSB [152.052](https://www.belex.sites.be.ch/data/152.052/fr)
+[^19-8]: RSB [152.221.121](https://www.belex.sites.be.ch/data/152.221.121/fr)
+[^19-9]: RSB [152.221.191](https://www.belex.sites.be.ch/data/152.221.191/fr)
+[^19-10]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
+[^19-11]: RSB [153.011.5](https://www.belex.sites.be.ch/data/153.011.5/fr)
+[^19-12]: RSB [154.21](https://www.belex.sites.be.ch/data/154.21/fr)
+[^19-13]: RSB [212.121](https://www.belex.sites.be.ch/data/212.121/fr)
+[^19-14]: RSB [215.321.5](https://www.belex.sites.be.ch/data/215.321.5/fr)
+[^19-15]: RSB [215.341.2](https://www.belex.sites.be.ch/data/215.341.2/fr)
+[^19-16]: RSB [222.100](https://www.belex.sites.be.ch/data/222.100/fr)
+[^19-17]: RSB [341.12](https://www.belex.sites.be.ch/data/341.12/fr)
+[^19-18]: RSB [430.251.0](https://www.belex.sites.be.ch/data/430.251.0/fr)
+[^19-19]: RSB [433.121](https://www.belex.sites.be.ch/data/433.121/fr)
+[^19-20]: RSB [761.611.1](https://www.belex.sites.be.ch/data/761.611.1/fr)
+[^19-21]: RSB [861.112](https://www.belex.sites.be.ch/data/861.112/fr)
+[^19-22]: RSB [873.111](https://www.belex.sites.be.ch/data/873.111/fr)
+[^19-23]: RSB [935.901](https://www.belex.sites.be.ch/data/935.901/fr)
 
-#### Art. 18
+#### Art. 20
+
+**Abrogation d'actes législatifs**
+
+<sup>1</sup> Les actes législatifs suivants sont abrogés:
+
+- 1\. ordonnance du 22 octobre 2008 sur la protection des données (OPD)[^20-1],
+- 2\. ordonnance du 4 juillet 2018 portant introduction de la directive (UE) 2016/680 relative à la protection des données à caractère personnel (OiDPD)[^20-2].
+
+[^20-1]: RSB [152.040.1](https://www.belex.sites.be.ch/data/152.040.1/fr)
+[^20-2]: RSB [152.043](https://www.belex.sites.be.ch/data/152.043/fr)
+
+#### Art. 21
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1er janvier 2009.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2026.
 
-Berne, le 22 octobre 2008
+Berne, le 24 juin 2026
 
 Au nom du Conseil-exécutif,
 
-la présidente: Egger-Jenzer
+le président: Schnegg
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-08-119
+26-047
