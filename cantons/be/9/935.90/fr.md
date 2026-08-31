@@ -4,13 +4,12 @@ number: "935.90"
 title: Loi sur l’exercice de la prostitution
 short: LEP
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-03-09
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2012-06-07
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.90"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2484/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3452/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2484/pdf_file"
 
 (LEP)
 
-du 07.06.2012 (état au 01.01.2022)
+du 07.06.2012 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -265,9 +264,9 @@ arrête:
 
 <sup>1</sup> La communication de données personnelles par les autres autorités compétentes pour l’application de la présente loi est régie par les dispositions de la législation sur la protection des données.
 
-<sup>2</sup> Dans des cas déterminés, ces autorités peuvent échanger des données personnelles, y compris des données personnelles particulièrement dignes de protection, qu’elles traitent dans le cadre de l’application de la présente loi au sujet des personnes titulaires de l’autorisation lorsque le ou la destinataire en a impérativement besoin pour accomplir ses tâches légales.
+<sup>2</sup> Dans des cas déterminés, ces autorités peuvent échanger des données personnelles, y compris des données sensibles, qu’elles traitent dans le cadre de l’application de la présente loi au sujet des personnes titulaires de l’autorisation lorsque le ou la destinataire en a impérativement besoin pour accomplir ses tâches légales.
 
-<sup>3</sup> Dans des cas déterminés, elles peuvent de leur propre chef communiquer des données personnelles, y compris des données personnelles particulièrement dignes de protection concernant des personnes titulaires de l’autorisation ou exerçant la prostitution, à des fournisseurs de prestations au sens de la LPASoc qui exécutent des tâches en vertu de l’article 72, alinéa 1, lettre c LPASoc, lorsque le ou la destinataire en a impérativement besoin pour accomplir ses tâches légales.
+<sup>3</sup> Dans des cas déterminés, elles peuvent de leur propre chef communiquer des données personnelles, y compris des données sensibles concernant des personnes titulaires de l’autorisation ou exerçant la prostitution, à des fournisseurs de prestations au sens de la LPASoc qui exécutent des tâches en vertu de l’article 72, alinéa 1, lettre c LPASoc, lorsque le ou la destinataire en a impérativement besoin pour accomplir ses tâches légales.
 
 #### Art. 22
 
@@ -294,7 +293,7 @@ arrête:
 
 <sup>3</sup> L’autorité compétente pour l’autorisation peut communiquer à l’Intendance cantonale des impôts des données personnelles traitées dans le cadre de l’application de la présente loi concernant des personnes titulaires de l’autorisation ainsi que des données concernant le début et la fin d’une activité au sens de l’article 5, alinéa 1, et les rendre accessibles par une procédure d’appel informatisée, lorsque l’Intendance des impôts en a besoin pour accomplir ses tâches légales.
 
-<sup>4</sup> Les données particulièrement dignes de protection ne peuvent pas être rendues accessibles par une procédure d’appel informatisée.
+<sup>4</sup> Les données sensibles ne peuvent pas être rendues accessibles par une procédure d’appel informatisée.
 
 #### Art. 24
 
