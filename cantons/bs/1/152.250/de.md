@@ -3,13 +3,12 @@ canton: BS
 number: "152.250"
 title: Reglement über die Teilnahme an Abstimmungen in Abwesenheit
 language: de
-version: 2025-02-01
-valid_until: 2026-08-31
-version_adopted: 2025-01-31
+version: 2026-09-01
+version_adopted: 2026-06-22
 adopted: 2024-11-11
 in_force: 2025-02-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.250"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6549/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6858/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6549/pdf_file"
 
 Grosser Rat
 
-Vom 11. November 2024 (Stand 1. Februar 2025)
+Vom 11. November 2024 (Stand 1. September 2026)
 
 Das Büro des Grossen Rates,
 
@@ -46,6 +45,8 @@ beschliesst:
 
 <sup>2</sup> Die Erklärung ist jeweils für eine Legislatur gültig und muss für jede Legislatur neu unterzeichnet werden.
 
+<sup>3</sup> Falls die Erklärung innerhalb einer Legislatur durch das Ratsbüro angepasst wird, verliert die bestehende Erklärung an Gültigkeit und muss neu unterzeichnet werden.
+
 #### § 3
 
 **Teilnahme an Abstimmungen in Abwesenheit**
@@ -54,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> Support für den Login kann lediglich bis 30 Minuten vor Sitzungsbeginn durch den Parlamentsdienst gegeben werden. Während einer Sitzung ist kein Support möglich.
 
-<sup>3</sup> Für die Teilnahme an jeder Abstimmung muss beim System des Ratsmitglieds die Webcam aktiviert sein. Das System des Grossen Rates zeichnet die Bilder der Webcam auf. Diese Daten werden im Parlamentsdienst archiviert. Eine Abstimmung ohne aktive Webcam (d.h. das Gesicht des abstimmenden Ratsmitgliedes muss gut sichtbar sein) ist nicht möglich.
+<sup>3</sup> Für die Teilnahme an jeder Abstimmung muss beim System des Ratsmitglieds die Webcam aktiviert sein. Das System des Grossen Rates zeichnet die Bilder der Webcam auf. Diese Daten werden im Parlamentsdienst drei Monate archiviert. Eine Abstimmung ohne aktive Webcam (d.h. das Gesicht des abstimmenden Ratsmitgliedes muss gut sichtbar sein oder für das Präsidium muss nachvollziehbar sein, dass das abwesende Ratsmitglied persönlich abgestimmt hat) ist ungültig. Das Präsidium entscheidet abschliessend über ungültige Stimmen und informiert den Rat über allfällige ungültige Stimmen.
 
 <sup>4</sup> Bei einer Teilnahme gemäss § 28b lit. e GO gilt unabhängig von der Dauer des Abstimmens in Abwesenheit jede Teilnahme daran als gesamter Sitzungstag (auch wenn beispielsweise nur an der Nachtsitzung in Abwesenheit abgestimmt wird).
 
@@ -66,7 +67,7 @@ beschliesst:
 
 <sup>1</sup> Falls das Abstimmungssystem während eines Sitzungstags heruntergefahren werden muss, erhalten die Teilnehmenden einen neuen Link per E-Mail zugestellt. Die Teilnehmenden sind selber verantwortlich, sich rechtzeitig wieder einzuloggen.
 
-<sup>2</sup> Falls eine Teilnahme aufgrund technischer Probleme nicht möglich ist, ist die Abstimmung trotzdem gültig. Eine Wiederholung von Abstimmungen ist ausgeschlossen.
+<sup>2</sup> Falls eine Teilnahme aufgrund technischer Probleme – unabhängig von der Ursache – nicht möglich ist, ist die Abstimmung trotzdem gültig. Eine Wiederholung von Abstimmungen ist ausgeschlossen.
 
 *Schlussbestimmung*
 
