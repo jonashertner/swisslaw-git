@@ -3,20 +3,19 @@ canton: LU
 number: 711c
 title: Verordnung zum Schutz des Sempachersees und seiner Ufer
 language: de
-version: 2020-01-01
-valid_until: 2026-08-31
-version_adopted: 2019-10-15
+version: 2026-09-01
+version_adopted: 2026-08-25
 adopted: 2003-02-14
 in_force: 2003-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/711c"
-pdf: "https://srl.lu.ch/api/de/versions/3530/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4884/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Schutz des Sempachersees und seiner Ufer
 
-vom 14.02.2003 (Stand 01.01.2020)
+vom 14.02.2003 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **Pläne**
 
-<sup>1</sup> Die Zonen sind im Schutzplan Nord 1:5000 vom 14. Februar 2003, mit Planänderung 1:2000 im Bereich Seehäusern vom 23. Februar 2010, und im Schutzplan Süd 1:5000 vom 14. Februar 2003 eingezeichnet. Die Schutzpläne sind Bestandteil dieser Verordnung.
+<sup>1</sup> Die Zonen sind im Schutzplan Nord 1:5000 vom 14. Februar 2003, mit Planänderung 1:2000 im Bereich Seehäusern vom 23. Februar 2010 und mit Planänderung 1:1000 im Bereich Mariazell vom 25. August 2026, sowie im Schutzplan Süd 1:5000 vom 14. Februar 2003, mit Planänderung 1:1000 in den Bereichen Seevogtei und Seeland vom 25. August 2026, eingezeichnet. Die Schutzpläne sind Bestandteil dieser Verordnung.
 
 <sup>2</sup> Die Pläne liegen in den Gemeinden Eich, Neuenkirch, Nottwil, Oberkirch, Schenkon, Sempach und Sursee und in der Dienststelle Landwirtschaft und Wald[^3-1] zur Einsicht auf.
 
