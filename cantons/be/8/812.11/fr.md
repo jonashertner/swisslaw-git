@@ -4,13 +4,12 @@ number: "812.11"
 title: Loi sur les soins hospitaliers
 short: LSH
 language: fr
-version: 2023-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3135/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3442/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3135/pdf_file"
 
 (LSH)
 
-du 13.06.2013 (état au 01.01.2023)
+du 13.06.2013 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1380,13 +1379,11 @@ arrête:
 
 **Protection des données**
 
-<sup>1</sup> Les dispositions de la loi cantonale du 19 février 1986 sur la protection des données (LCPD)[^130-1] s'appliquent
+<sup>1</sup> Les dispositions de la législation sur la protection des données s'appliquent
 
 - a aux commissions au sens de l’article 4,
 - b à l’organe de médiation au sens de l’article 5,
 - c aux fournisseurs de prestations, dans la mesure où des tâches cantonales leur sont déléguées.
-
-[^130-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 ## 9 Obligation de collaborer et d’informer
 

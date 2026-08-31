@@ -4,13 +4,12 @@ number: "812.11"
 title: Spitalversorgungsgesetz
 short: SpVG
 language: de
-version: 2023-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3135/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3135/pdf_file"
 
 (SpVG)
 
-vom 13.06.2013 (Stand 01.01.2023)
+vom 13.06.2013 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1380,13 +1379,11 @@ beschliesst:
 
 **Datenschutz**
 
-<sup>1</sup> Die Bestimmungen des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^130-1] sind anwendbar auf
+<sup>1</sup> Die Bestimmungen der Datenschutzgesetzgebung sind anwendbar auf
 
 - a die Kommissionen nach Artikel 4,
 - b die Ombudsstelle nach Artikel 5,
 - c die Leistungserbringer, soweit ihnen kantonale Aufgaben übertragen sind.
-
-[^130-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 ## 9 Mitwirkungs- und Meldepflichten
 
