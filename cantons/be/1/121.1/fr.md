@@ -4,13 +4,12 @@ number: "121.1"
 title: Loi sur le droit de cité cantonal et le droit de cité communal
 short: "Loi sur le droit de cité, LDC"
 language: fr
-version: 2018-01-01
-valid_until: 2026-08-31
-version_adopted: 2017-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/121.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1404/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3415/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1404/pdf_file"
 
 (Loi sur le droit de cité, LDC)
 
-du 13.06.2017 (état au 01.01.2018)
+du 13.06.2017 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -264,7 +263,7 @@ arrête:
 
 **Traitement de données**
 
-<sup>1</sup> Les services responsables de l'exécution de la présente loi peuvent, au cas par cas, traiter des données personnelles relatives aux requérants ou requérantes et aux personnes visées à l'article 12, alinéa 1, lettre e LN, y compris des données particulièrement dignes de protection, dans la mesure où celles-ci sont nécessaires à l'accomplissement des tâches qui leur incombent de par la loi.
+<sup>1</sup> Les services responsables de l'exécution de la présente loi peuvent, au cas par cas, traiter des données personnelles relatives aux requérants ou requérantes et aux personnes visées à l'article 12, alinéa 1, lettre e LN, y compris des données sensibles, dans la mesure où celles-ci sont nécessaires à l'accomplissement des tâches qui leur incombent de par la loi.
 
 <sup>2</sup> Ils s'échangent, au cas par cas, les données personnelles visées à l'alinéa 1, dans la mesure où les destinataires en ont besoin pour accomplir les tâches qui leur incombent de par la loi. Aux mêmes conditions, ils peuvent divulguer spontanément les données personnelles visées à l'alinéa 1 aux services de la Confédération et d'autres cantons responsables de l'exécution de la LN.
 

@@ -4,13 +4,12 @@ number: "121.1"
 title: Gesetz über das Kantons- und Gemeindebürgerrecht
 short: "Kantonales Bürgerrechtsgesetz, KBüG"
 language: de
-version: 2018-01-01
-valid_until: 2026-08-31
-version_adopted: 2017-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2017-06-13
 in_force: 2018-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/121.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1404/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1404/pdf_file"
 
 (Kantonales Bürgerrechtsgesetz, KBüG)
 
-vom 13.06.2017 (Stand 01.01.2018)
+vom 13.06.2017 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
