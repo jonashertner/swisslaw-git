@@ -4,13 +4,12 @@ number: "108.1"
 title: "Loi sur l'archivage *"
 short: LArch
 language: fr
-version: 2025-02-01
-valid_until: 2026-08-31
-version_adopted: 2024-06-03
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2009-03-31
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/108.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3110/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3479/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3110/pdf_file"
 
 (LArch)
 
-du 31.03.2009 (état au 01.02.2025)
+du 31.03.2009 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -146,11 +145,16 @@ arrête:
 
 <sup>1</sup> Les Archives de l’État peuvent prendre en charge des copies de documents ayant une valeur archivistique avant l’expiration du délai de conservation.
 
-<sup>2</sup> La responsabilité en matière d’organisation, de gestion et de conservation des documents, ainsi qu’en matière de sauvegarde des droits des personnes concernées au sens des articles 21 ss de la loi du 19 février 1986 sur la protection des données (LCPD)[^9a-1] reste du ressort de l’autorité versante jusqu’à l’expiration du délai de conservation.
+<sup>2</sup> La responsabilité en matière d’organisation, de gestion et de conservation des documents, ainsi qu’en matière de sauvegarde des droits des personnes concernées au sens des articles 28 ss de la loi du 3 décembre 2025 sur la protection des données (LCPD)[^9a-1] reste du ressort de l’autorité versante jusqu’à l’expiration du délai de conservation.[^9a-2]
 
 <sup>3</sup> Les Archives de l’État veillent à la sécurité des copies qu’elles ont prises en charge.
 
 [^9a-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+[^9a-2]: Le renvoi à la LCPD du 3.12.2025 a été indûment placé à l'al. 2 d'un nouvel art. 9b de teneur identique à celle de l'art. 9a. L'art. 9b introduit par erreur est abrogé par rectification sans procédure formelle le 5.10.2026. ROB 26-046
+
+#### Art. 9b
+
+**…**
 
 #### Art. 10
 
@@ -196,18 +200,20 @@ arrête:
 
 **Archivage des données personnelles**
 
-<sup>1</sup> Les données personnelles qui ne sont plus utilisées, au sens de l’article 19 LCPD, peuvent être confiées aux Archives compétentes dans la mesure où leur archivage est justifié selon la présente loi.
+<sup>1</sup> Les données personnelles qui ne sont plus utilisées, au sens de l’article 16 LCPD[^14-1], peuvent être confiées aux Archives compétentes dans la mesure où leur archivage est justifié selon la présente loi.
 
 <sup>2</sup> …
 
 <sup>3</sup> Le service versant ne peut consulter des données personnelles archivées que
 
 - a dans l’intérêt de la personne concernée, si celle-ci a donné son accord ou qu’il peut être admis, au vu des circonstances, qu’elle le donnerait;
-- b pour le traitement de données dans un but qui est sans relation directe avec les personnes intéressées en vertu de l’article 20 ou de la législation spéciale;
+- b pour le traitement de données à des fins ne se rapportant pas à des personnes en vertu de l’article 20 ou de la législation spéciale;
 - c à des fins de preuve ou
 - d pour retracer l’exécution initiale de tâches, si cela est nécessaire dans des cas isolés.
 
-<sup>4</sup> Toute personne contestant la véracité des données personnelles la concernant, archivées selon l’alinéa 1, peut faire joindre une contestation aux documents. Les archives elles-mêmes ne peuvent pas être modifiées.
+<sup>4</sup> Toute personne contestant la véracité des données personnelles la concernant, archivées selon l’alinéa 1, peut faire joindre une mention du caractère litigieux aux documents. Les archives elles-mêmes ne peuvent pas être modifiées.
+
+[^14-1]: RSB 152.04
 
 #### Art. 15
 
@@ -293,9 +299,9 @@ arrête:
 
 #### Art. 20
 
-**Consultation à des fins scientifiques ou à d’autres fins non personnelles**
+**Communication à des fins scientifiques ou à d’autres fins ne se rapportant pas à des personnes**
 
-<sup>1</sup> Les Archives peuvent communiquer des données personnelles pendant le délai de protection dans un but qui est sans relation directe avec les personnes intéressées, notamment pour la recherche, la jurisprudence, la statistique et la planification si les conditions de l’article 15 LCPD sont remplies. Les obligations particulières de garder le secret prévues par le droit fédéral et le droit cantonal sont réservées.
+<sup>1</sup> Les Archives peuvent, pendant le délai de protection, communiquer des données personnelles à des fins ne se rapportant pas à des personnes, notamment pour la recherche, la jurisprudence, la statistique et la planification si les conditions de la législation sur la protection des données sont remplies. Les obligations particulières de garder le secret prévues par le droit fédéral et le droit cantonal sont réservées.
 
 #### Art. 21
 

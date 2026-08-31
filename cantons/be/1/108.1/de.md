@@ -4,13 +4,12 @@ number: "108.1"
 title: Archivierungsgesetz
 short: ArchG
 language: de
-version: 2025-02-01
-valid_until: 2026-08-31
-version_adopted: 2024-06-03
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2009-03-31
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/108.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3110/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3479/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3110/pdf_file"
 
 (ArchG)
 
-vom 31.03.2009 (Stand 01.02.2025)
+vom 31.03.2009 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -146,11 +145,16 @@ beschliesst:
 
 <sup>1</sup> Das Staatsarchiv kann Kopien von als archivwürdig bewerteten Unterlagen während laufender Aufbewahrungsfrist übernehmen.
 
-<sup>2</sup> Die Verantwortung für die Organisation, Verwaltung und Aufbewahrung der Unterlagen sowie für die Wahrung der Rechte von betroffenen Personen nach den Artikeln 21 ff. des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^9a-1] bleibt bis zum Ablauf der Aufbewahrungsfrist bei der abliefernden Behörde.
+<sup>2</sup> Die Verantwortung für die Organisation, Verwaltung und Aufbewahrung der Unterlagen sowie für die Wahrung der Rechte von betroffenen Personen nach den Artikeln 28 ff. des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^9a-1] bleibt bis zum Ablauf der Aufbewahrungsfrist bei der abliefernden Behörde.[^9a-2]
 
 <sup>3</sup> Das Staatsarchiv sorgt für die Sicherheit der von ihm übernommenen Kopien.
 
 [^9a-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+[^9a-2]: Der Verweis auf das KDSG vom 3.12.2025 wurde fälschlicherweise in Abs. 2 eines neuen Art. 9b eingefügt, dessen Wortlaut mit dem von Art. 9a identisch war. Dieser versehentlich eingeführte Art. 9b wird am 5.10.2026 durch Berichtigung ohne formelles Verfahren aufgehoben. BAG 26-046
+
+#### Art. 9b
+
+**…**
 
 #### Art. 10
 
@@ -196,7 +200,7 @@ beschliesst:
 
 **Archivierung von Personendaten**
 
-<sup>1</sup> Im Sinne von Artikel 19 KDSG nicht mehr benötigte Personendaten dürfen dem zuständigen Archiv überlassen werden, soweit eine Archivierung nach diesem Gesetz angezeigt ist.
+<sup>1</sup> Im Sinne von Artikel 16 KDSG nicht mehr benötigte Personendaten dürfen dem zuständigen Archiv überlassen werden, soweit eine Archivierung nach diesem Gesetz angezeigt ist.
 
 <sup>2</sup> …
 
@@ -207,7 +211,7 @@ beschliesst:
 - c zu Beweiszwecken oder
 - d zum Nachvollzug der ursprünglichen Aufgabenerfüllung, wenn es im Einzelfall erforderlich ist.
 
-<sup>4</sup> Bestreitet eine betroffene Person die Richtigkeit von Personendaten nach Absatz 1, kann sie den Unterlagen eine Gegendarstellung beilegen lassen. Das Archivgut selbst darf nicht verändert werden.
+<sup>4</sup> Bestreitet eine betroffene Person die Richtigkeit von Personendaten nach Absatz 1, kann sie den Unterlagen einen Bestreitungsvermerk anbringen lassen. Das Archivgut selbst darf nicht verändert werden.
 
 #### Art. 15
 
@@ -293,9 +297,9 @@ beschliesst:
 
 #### Art. 20
 
-**Einsichtnahme zu wissenschaftlichen oder andern nicht personenbezogenen Zwecken**
+**Bekanntgabe zu wissenschaftlichen oder andern nicht personenbezogenen Zwecken**
 
-<sup>1</sup> Ein Archiv kann Personendaten während laufender Schutzfrist für einen nicht personenbezogenen Zweck, namentlich für Forschung, Praxisbildung, Statistik oder Planung, bekannt geben, wenn die Voraussetzungen nach Artikel 15 KDSG erfüllt sind. Vorbehalten bleiben besondere Geheimhaltungspflichten des Bundesrechts und des kantonalen Rechts.
+<sup>1</sup> Ein Archiv kann Personendaten während laufender Schutzfrist für einen nicht personenbezogenen Zweck, namentlich für Forschung, Praxisbildung, Statistik oder Planung, bekannt geben, wenn die Voraussetzungen nach der Datenschutzgesetzgebung erfüllt sind. Vorbehalten bleiben besondere Geheimhaltungspflichten des Bundesrechts und des kantonalen Rechts.
 
 #### Art. 21
 
