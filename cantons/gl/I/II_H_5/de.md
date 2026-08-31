@@ -4,13 +4,12 @@ number: II H/5
 title: Verordnung über das elektronische Verwaltungsverfahren
 short: EVRV
 language: de
-version: 2025-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-10-29
+version: 2026-09-01
+version_adopted: 2026-08-18
 adopted: 2024-08-20
 in_force: 2024-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-H.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2513/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2677/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2513/pdf_file"
 
 (EVRV)
 
-Vom 20.08.2024 (Stand 01.01.2025)
+Vom 20.08.2024 (Stand 01.09.2026)
 
 *Der Regierungsrat,*
 
