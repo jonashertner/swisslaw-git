@@ -4,13 +4,12 @@ number: "153.011.5"
 title: Ordonnance sur les données secondaires de communication
 short: ODSC
 language: fr
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-10-25
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2892/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3465/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2892/pdf_file"
 
 (ODSC)
 
-du 20.11.2019 (état au 01.01.2024)
+du 20.11.2019 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -140,7 +139,7 @@ arrête:
 - a que le soupçon concret d'utilisation abusive est motivé par écrit de manière suffisante ou que l'utilisation abusive est avérée, et
 - b que la personne concernée a été informée par écrit de l'existence d'un soupçon concret ou d'un abus avéré.
 
-<sup>2</sup> Si l’autorité chargée de l’évaluation nominale se rapportant à une personne refuse d'y procéder parce qu'elle estime que les conditions mentionnées à l'alinéa 1 ne sont pas remplies, l'autorité qui a donné le mandat peut demander l'avis du Bureau cantonal pour la surveillance de la protection des données.
+<sup>2</sup> Si l’autorité chargée de l’évaluation nominale se rapportant à une personne refuse d'y procéder parce qu'elle estime que les conditions mentionnées à l'alinéa 1 ne sont pas remplies, l'autorité qui a donné le mandat peut demander l'avis du Bureau pour la protection des données.
 
 <sup>3</sup> L'évaluation nominale se rapportant à une personne de données non administrées ne peut avoir lieu que dans les délais fixés à l’article 4, alinéa 1, si la personne concernée ne consent pas à l'évaluation.
 

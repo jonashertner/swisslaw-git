@@ -4,13 +4,12 @@ number: "153.011.5"
 title: Randdatenverordnung
 short: RDV
 language: de
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-10-25
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2892/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3465/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2892/pdf_file"
 
 (RDV)
 
-vom 20.11.2019 (Stand 01.01.2024)
+vom 20.11.2019 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -140,7 +139,7 @@ beschliesst:
 - a der konkrete Missbrauchsverdacht hinreichend schriftlich begründet oder der Missbrauch erwiesen ist und
 - b die betroffene Person über den konkreten Missbrauchsverdacht oder den erwiesenen Missbrauch schriftlich informiert worden ist.
 
-<sup>2</sup> Weigert sich die beauftragte Behörde, eine personenbezogene, namentliche Auswertung vorzunehmen, weil die Auswertungsvoraussetzungen nach Absatz 1 aus ihrer Sicht nicht erfüllt sind, so kann die auftragserteilende Behörde die kantonale Aufsichtsstelle für Datenschutz ersuchen, dazu Stellung zu nehmen.
+<sup>2</sup> Weigert sich die beauftragte Behörde, eine personenbezogene, namentliche Auswertung vorzunehmen, weil die Auswertungsvoraussetzungen nach Absatz 1 aus ihrer Sicht nicht erfüllt sind, so kann die auftragserteilende Behörde die kantonale Datenschutzbehörde ersuchen, dazu Stellung zu nehmen.
 
 <sup>3</sup> Eine personenbezogene, namentliche Auswertung nichtbewirtschafteter Daten darf ohne Einverständnis der betroffenen Person nur innerhalb der Fristen nach Artikel 4 Absatz 1 erfolgen.
 
