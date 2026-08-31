@@ -4,13 +4,12 @@ number: "109.1"
 title: "Loi sur l'administration numérique"
 short: LAN
 language: fr
-version: 2023-03-01
-valid_until: 2026-08-31
-version_adopted: 2022-03-07
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2022-03-07
 in_force: 2023-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/109.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2825/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3414/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2825/pdf_file"
 
 (LAN)
 
-du 07.03.2022 (état au 01.03.2023)
+du 07.03.2022 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -370,48 +369,11 @@ arrête:
 
 <sup>4</sup> La législation spéciale est réservée, notamment en matière de protection des données, de sécurité de l'information, d'information du public et de protection du secret.
 
-## 5 Protection des données
+## 5
 
-#### Art. 27
+#### Art. 27–30
 
-**Champ d'application**
-
-<sup>1</sup> Les dispositions du présent chapitre s'appliquent au traitement de données personnelles avec des ressources TIC.
-
-<sup>2</sup> Pour le surplus, les dispositions de la loi du 19 février 1986 sur la protection des données (LCPD)[^27-1] s'appliquent.
-
-[^27-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
-
-#### Art. 28
-
-**Traitement de données par des tiers**
-
-<sup>1</sup> Le traitement de données personnelles peut être délégué à une tierce personne (mandataire) par un contrat ou par la législation à condition
-
-- a que les données soient traitées de la même manière que l'autorité responsable de la protection des données est habilitée à le faire;
-- b qu'aucune loi ni aucun contrat ne prescrive une obligation de garder le secret interdisant cette délégation.
-
-<sup>2</sup> L'autorité responsable s'assure en particulier que la ou le mandataire garantisse la sécurité des données.
-
-<sup>3</sup> La ou le mandataire ne peut pas transmettre le mandat de traitement à des tiers sans le consentement préalable de l'autorité responsable.
-
-#### Art. 29
-
-**Responsabilité en matière de protection des données lors du traitement commun de données personnelles par plusieurs autorités**
-
-<sup>1</sup> La responsabilité de la protection des données incombe à l'autorité qui décide, seule ou en collaboration avec d'autres autorités, du but et des moyens du traitement des données.
-
-<sup>2</sup> Si plusieurs autorités décident ensemble du but et des moyens du traitement des données, chacune s'assure qu'un acte législatif, une instruction ou un accord désigne les autorités responsables des différentes parties du traitement des données. En l'absence d'une telle réglementation, les autorités sont toutes responsables de l'ensemble du traitement des données.
-
-<sup>3</sup> Les autorités responsables publient la réglementation conformément à l'alinéa 2 ou la communiquent aux personnes concernées par le traitement des données qui en font la demande auprès de l'une des autorités responsables.
-
-#### Art. 30
-
-**Surveillance de la protection des données dans la collaboration entre autorités**
-
-<sup>1</sup> En cas de traitement de données avec des prestations numériques utilisées par plusieurs autorités, les autorités de surveillance de la protection des données compétentes coordonnent le plus possible leurs activités de surveillance dans le temps et sur le contenu entre elles ainsi qu'avec les autorités de surveillance de la protection des données des autres cantons participants ou de la Confédération. Elles tiennent compte dans la mesure du possible des prises de position ou des contrôles opérés par les autres autorités de surveillance.
-
-<sup>2</sup> L'autorité cantonale de surveillance de la protection des données est seule compétente pour la surveillance du traitement des données des communes, dans la mesure où cette surveillance concerne des prestations numériques cantonales.
+**…**
 
 ## 6 Utilisation des ressources TIC
 
@@ -424,7 +386,7 @@ arrête:
 <sup>2</sup> Les autorités
 
 - a traitent les données personnelles dont elles ont besoin pour l'utilisation des ressources TIC;
-- b traitent aussi les données personnelles particulièrement dignes de protection qui sont impérativement nécessaires à cette utilisation ou au traitement desquelles les personnes concernées ont expressément donné leur accord;
+- b traitent aussi les données sensibles qui sont impérativement nécessaires à cette utilisation ou au traitement desquelles les personnes concernées ont expressément donné leur accord;
 - c peuvent traiter des données biométriques pour authentifier des personnes.
 
 <sup>3</sup> Le traitement des données personnelles résultant de l'utilisation des ressources TIC est régi par les dispositions des articles 12a à 12e de la loi du 16 septembre 2004 sur le personnel (LPers)[^31-1].

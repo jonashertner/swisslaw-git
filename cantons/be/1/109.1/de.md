@@ -4,13 +4,12 @@ number: "109.1"
 title: Gesetz über die digitale Verwaltung
 short: DVG
 language: de
-version: 2023-03-01
-valid_until: 2026-08-31
-version_adopted: 2022-03-07
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2022-03-07
 in_force: 2023-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/109.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2825/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2825/pdf_file"
 
 (DVG)
 
-vom 07.03.2022 (Stand 01.03.2023)
+vom 07.03.2022 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -370,48 +369,11 @@ beschliesst:
 
 <sup>4</sup> Vorbehalten bleibt die besondere Gesetzgebung, namentlich über den Datenschutz, die Informationssicherheit, die Information der Öffentlichkeit und den Geheimnisschutz.
 
-## 5 Datenschutz
+## 5
 
-#### Art. 27
+#### Art. 27–30
 
-**Geltungsbereich**
-
-<sup>1</sup> Die Bestimmungen dieses Abschnitts gelten für die Bearbeitung von Personendaten mit ICT-Mitteln.
-
-<sup>2</sup> Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^27-1].
-
-[^27-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
-
-#### Art. 28
-
-**Datenbearbeitung durch Dritte**
-
-<sup>1</sup> Die Bearbeitung von Personendaten kann vertraglich oder durch die Gesetzgebung Dritten (Auftragsbearbeiterinnen und -bearbeitern) übertragen werden, wenn
-
-- a die Daten so bearbeitet werden, wie die für den Datenschutz verantwortliche Behörde selbst es tun dürfte,
-- b keine gesetzliche oder vertragliche Geheimhaltungspflicht die Übertragung verbietet.
-
-<sup>2</sup> Die verantwortliche Behörde muss sich insbesondere vergewissern, dass die Auftragsbearbeiterinnen und -bearbeiter die Datensicherheit gewährleisten.
-
-<sup>3</sup> Die Auftragsbearbeiterin oder der Auftragsbearbeiter darf die Bearbeitung nur mit vorgängiger Genehmigung der verantwortlichen Behörde an Dritte übertragen.
-
-#### Art. 29
-
-**Datenschutzverantwortung bei gemeinsamer Bearbeitung von Personendaten durch mehrere Behörden**
-
-<sup>1</sup> Die Verantwortung für den Datenschutz trägt die Behörde, die allein oder gemeinsam mit anderen Behörden über den Zweck und die Mittel der Datenbearbeitung entscheidet.
-
-<sup>2</sup> Entscheiden mehrere Behörden gemeinsam über den Zweck und die Mittel der Datenbearbeitung, stellt jede von ihnen sicher, dass ein Erlass, eine Weisung oder eine Vereinbarung regelt, welche Behörde für welchen Teil der Datenbearbeitung verantwortlich ist. Fehlt eine solche Regelung, sind alle Behörden für die gesamte Datenbearbeitung verantwortlich.
-
-<sup>3</sup> Die verantwortlichen Behörden veröffentlichen die Regelung gemäss Absatz 2 oder teilen sie den von der Datenbearbeitung betroffenen Personen auf Anfrage bei einer der verantwortlichen Behörden hin mit.
-
-#### Art. 30
-
-**Datenschutzaufsicht bei der Zusammenarbeit unter Behörden**
-
-<sup>1</sup> Bei Datenbearbeitungen mit digitalen Leistungen, die von mehreren Behörden genutzt werden, stimmen die zuständigen Datenschutzaufsichtsstellen ihre Aufsichtstätigkeit soweit als möglich zeitlich und inhaltlich miteinander und mit den Datenschutzaufsichtsstellen der anderen beteiligten Kantone oder des Bundes ab. Sie berücksichtigen soweit als möglich Stellungnahmen oder Aufsichtshandlungen der anderen Aufsichtsstellen.
-
-<sup>2</sup> Für die Aufsicht über Datenbearbeitungen der Gemeinden ist die kantonale Datenschutzaufsichtsstelle allein zuständig, soweit die Aufsicht kantonale digitale Leistungen betrifft.
+**…**
 
 ## 6 Einsatz von ICT-Mitteln
 
