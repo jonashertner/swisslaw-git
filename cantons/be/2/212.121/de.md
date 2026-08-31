@@ -4,13 +4,12 @@ number: "212.121"
 title: Kantonale Zivilstandsverordnung
 short: KZStV
 language: de
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-11-03
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-11-03
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/212.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2527/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2527/pdf_file"
 
 (KZStV)
 
-vom 03.11.2021 (Stand 01.01.2022)
+vom 03.11.2021 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -298,9 +297,7 @@ beschliesst:
 
 <sup>2</sup> Die Zugriffsrechte der Mitarbeiterinnen und Mitarbeiter der kantonalen Aufsichtsbehörde im Zivilstandswesen, der Zivilstandsämter und der Namensänderungsbehörde auf die kantonalen elektronischen Datenbearbeitungssysteme beschränken sich auf ihren Aufgabenbereich.
 
-<sup>3</sup> Die Datenbearbeitung, -aufbewahrung und -vernichtung in den elektronischen Datenbearbeitungssystemen richten sich nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^28-1].
-
-[^28-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+<sup>3</sup> Die Datenbearbeitung, -aufbewahrung und -vernichtung in den elektronischen Datenbearbeitungssystemen richten sich nach der kantonalen Datenschutzgesetzgebung.
 
 ## 9 Schlussbestimmungen
 

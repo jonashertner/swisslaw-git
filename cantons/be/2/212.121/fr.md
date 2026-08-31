@@ -4,13 +4,12 @@ number: "212.121"
 title: "Ordonnance cantonale sur l'état civil"
 short: OCEC
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-11-03
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-11-03
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/212.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2527/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3467/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2527/pdf_file"
 
 (OCEC)
 
-du 03.11.2021 (état au 01.01.2022)
+du 03.11.2021 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -298,9 +297,7 @@ arrête:
 
 <sup>2</sup> Les collaborateurs et collaboratrices de l'autorité cantonale de surveillance de l'état civil, des offices de l'état civil et de l'autorité compétente en matière de changement de nom n'ont accès qu'aux données de leur champ d'activité dans les systèmes électroniques cantonaux de traitement des données.
 
-<sup>3</sup> Le traitement, la conservation et la destruction de données dans les systèmes électroniques de traitement des données sont régis par la loi du 19 février 1986 sur la protection des données (LCPD)[^28-1].
-
-[^28-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+<sup>3</sup> Le traitement, la conservation et la destruction de données dans les systèmes électroniques de traitement des données sont régis par la législation cantonale sur la protection des données.
 
 ## 9 Dispositions finales
 
