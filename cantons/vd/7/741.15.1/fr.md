@@ -4,7 +4,7 @@ number: "741.15.1"
 title: RÈGLEMENT du 16.11.2016 sur les émoluments perçus par le Service des automobiles et de la navigation (RE-SAN)
 short: RE-SAN
 language: fr
-version: 2026-01-01
+version: 2026-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/741.15.1?id=a98c496b-c044-447f-9229-6303629369f0"
 ---
 
@@ -96,9 +96,9 @@ arrête
 - c. Etablissement d'un permis de conduire navigation ou d'un duplicata : CHF 30.00
 - d. Etablissement d'un permis de conduire international : CHF 30.00
 
-<sup>2</sup> Les permis établis suite à un changement d'adresse sont gratuits.
+<sup>2</sup> ...
 
-[^sectionSectionI-1]: Modif. 7 du 24.06.2026: Abrogation Al. 2; entrée en vigueur au 01.09.2026; Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026
+[^sectionSectionI-1]: Modif. 7 du 24.06.2026: Abrogation Al. 2; entrée en vigueur au 01.09.2026
 
 #### Art. 6
 
@@ -502,16 +502,17 @@ arrête
 
 #### Art. 31
 
-**Autorisations délivrées aux professionnels délégataires [^30-1]**
+**Autorisations délivrées aux professionnels délégataires – véhicules automobiles [^30-1]**
 
-<sup>1</sup> Les émoluments liés aux autorisations pour les contrôles des véhicules légers et des bateaux sont :
+<sup>1</sup> Les émoluments liés aux autorisations pour les contrôles des véhicules légers sont :
 
-- a. Examen de la première demande d'autorisation : CHF 40.00
-- b. Examen de la demande lors d'un renouvellement ou de la modification d'éléments : CHF 20.00
-- c. Etablissement de l'autorisation pour l'entreprise : CHF 10.00
-- d. Etablissement de l'autorisation, par mécanicien contrôleur : CHF 10.00
+- a. Établissement de l'autorisation pour l'entreprise délégataire lors d'une première demande, y compris examen et suivi du dossier : CHF 50.00
+- b. Établissement de l'autorisation pour l'entreprise délégataire en cas de changement, y compris examen et suivi du dossier : CHF 30.00
+- c. ...
+- d. Établissement de l'autorisation, par mécanicien contrôleur, y compris examen et suivi du dossier : CHF 30.-
+- e. Duplicata de l'autorisation (entreprise ou mécanicien contrôleur) en cas de perte : CHF 10.00
 
-<sup>2</sup> Les émoluments liés aux autorisations pour les contrôles du freinage en charge des véhicules lourds immatriculés sont :
+<sup>2</sup> Les émoluments liés aux autorisations pour les contrôles du freinage en charge des véhicules lourds sont :
 
 - a. Etablissement de la première autorisation, y compris visite : CHF 320.00
 - b. Etablissement de l'autorisation en cas de modification, y compris visite : CHF 170.00
@@ -519,19 +520,30 @@ arrête
 
 <sup>3</sup> L'émolument pour la visite locale d'un délégataire est de : CHF 130.00
 
-<sup>4</sup> L'émolument pour les cours d'instruction ou d'instruction complémentaire, par participant, est de : CHF 40.00
+<sup>4</sup> L'émolument pour les cours d'instruction ou d'instruction complémentaire, par participant, est de : CHF 90.00
 
-[^30-1]: Modif. 7 du 24.06.2026: Modification tArt; entrée en vigueur au 01.09.2026; Modification Al. 1; entrée en vigueur au 01.09.2026; Modification Al. 1, a-b; entrée en vigueur au 01.09.2026; Abrogation Al. 1, c; entrée en vigueur au 01.09.2026; Modification Al. 1, d; entrée en vigueur au 01.09.2026; Introduction Al. 1, e; entrée en vigueur au 01.09.2026; Modification Al. 2,4; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026
+[^30-1]: Modif. 7 du 24.06.2026: Modification tArt; entrée en vigueur au 01.09.2026; Modification Al. 1; entrée en vigueur au 01.09.2026; Modification Al. 1, a-b; entrée en vigueur au 01.09.2026; Abrogation Al. 1, c; entrée en vigueur au 01.09.2026; Modification Al. 1, d; entrée en vigueur au 01.09.2026; Introduction Al. 1, e; entrée en vigueur au 01.09.2026; Modification Al. 2,4; entrée en vigueur au 01.09.2026
 
 #### Art. 32
 
-**Entreprise de louage de bateaux [^31-1]**
+**Autorisations délivrées aux professionnels - bateaux [^31-1]**
 
 <sup>1</sup> ...
 
 <sup>2</sup> L'émolument pour l'autorisation d'exploiter une entreprise de louage de bateaux est de : CHF 100.00
 
-[^31-1]: Modif. 4 du 11.10.2023: Modification tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1; entrée en vigueur au 01.01.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Modification tArt; entrée en vigueur au 01.09.2026; Introduction Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026
+<sup>3</sup> Les émoluments liés aux autorisations pour les personnes ou entreprises habilitées à établir des PV d'admission en vue de la première immatriculation d'un bateau homologué en Suisse (délégataires) sont :
+
+- a. Établissement de l'autorisation pour l'entreprise délégataire, lors d'une première demande, y compris examen et suivi du dossier : CHF 50.00
+- b. Établissement de l'autorisation pour l'entreprise délégataire, en cas de changement, y compris examen et suivi du dossier : CHF 30.00
+- c. Établissement de l'attestation, pour le mécanicien habilité lors de la première demande ou en cas de changement, y compris examen et suivi du dossier : CHF 30.00
+- d. Formation donnée en vue de l'attestation pour le mécanicien habilité : CHF 40.00
+
+<sup>4</sup> L'émolument pour l'établissement de l'autorisation pour l'entreprise autorisée à procéder au contrôle subséquent des gaz d'échappement ou au contrôle périodique des systèmes de filtres à particules est de : CHF 50.00
+
+<sup>5</sup> Duplicata de l'autorisation ou de l'attestation en cas de perte: CHF 10.00
+
+[^31-1]: Modif. 4 du 11.10.2023: Modification tArt; entrée en vigueur au 01.01.2024; Abrogation Al. 1; entrée en vigueur au 01.01.2024 · Modif. 7 du 24.06.2026: Modification tArt; entrée en vigueur au 01.09.2026; Introduction Al. 3-5; entrée en vigueur au 01.09.2026
 
 #### Art. 33
 
@@ -554,15 +566,16 @@ arrête
 
 #### Art. 34
 
-**Attestations, autorisations diverses [^sectionSectionI-3]**
+**Attestations, extraits, autorisations diverses [^sectionSectionI-3]**
 
 <sup>1</sup> Les émoluments pour les attestations ou autorisations diverses sont :
 
 - a. Délivrance d'attestations diverses et copie certifiée conforme : CHF 25.00
 - b. Délivrance d'autorisations diverses : CHF 25.00
 - c. ...
+- d. Délivrance d'un extrait du casier conducteur (SIAC): CHF 15.00
 
-[^sectionSectionI-3]: Modif. 1 du 19.12.2018: Abrogation Al. 1, c; entrée en vigueur au 01.01.2019 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Modification tArt; entrée en vigueur au 01.09.2026; Introduction Al. 1, d; entrée en vigueur au 01.09.2026
+[^sectionSectionI-3]: Modif. 1 du 19.12.2018: Abrogation Al. 1, c; entrée en vigueur au 01.01.2019 · Modif. 7 du 24.06.2026: Modification tArt; entrée en vigueur au 01.09.2026; Introduction Al. 1, d; entrée en vigueur au 01.09.2026
 
 #### Art. 35
 
@@ -602,9 +615,9 @@ arrête
 
 <sup>2</sup> Les études de dossiers ou travaux particuliers effectués par le service et qui ne font pas l'objet d'un émolument selon le présent règlement sont facturés au coût horaire.
 
-<sup>3</sup> Le traitement des actions de rappel de véhicules peut être facturé au coût horaire aux importateurs.
+<sup>3</sup> Le traitement des actions de rappel de véhicules peut être facturé au coût horaire.
 
-[^36-1]: Modif. 6 du 19.11.2025: Introduction Al. 3; entrée en vigueur au 01.01.2026 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Al. 3; entrée en vigueur au 01.09.2026
+[^36-1]: Modif. 6 du 19.11.2025: Introduction Al. 3; entrée en vigueur au 01.01.2026 · Modif. 7 du 24.06.2026: Modification Al. 3; entrée en vigueur au 01.09.2026
 
 ### Section II Dispositions finales
 
@@ -624,6 +637,6 @@ Annexes [^39-1]
 
 1
 
-[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.01.2026)
+[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.09.2026)
 
-[^39-1]: Modif. 3 du 07.12.2022: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 5 du 19.06.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2026
+[^39-1]: Modif. 3 du 07.12.2022: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 5 du 19.06.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2024 · Modif. 7 du 24.06.2026: Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2026
