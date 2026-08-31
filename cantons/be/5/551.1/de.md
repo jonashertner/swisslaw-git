@@ -4,13 +4,13 @@ number: "551.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2024-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-28
+version: 2026-09-01
+valid_until: 2026-10-31
+version_adopted: 2025-12-03
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3048/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3048/pdf_file"
 
 (PolG)
 
-vom 10.02.2019 (Stand 01.08.2024)
+vom 10.02.2019 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1284,7 +1284,7 @@ beschliesst:
 - c die Übereinstimmungen bei automatisierten Abgleichen,
 - d die Auswertung, Bekanntgabe und Vernichtung von Daten.
 
-<sup>2</sup> Die kantonale Datenschutzaufsichtsstelle kontrolliert regelmässig, ob die Bestimmungen dieses Unterabschnitts eingehalten werden, und veröffentlicht ihre Feststellungen.
+<sup>2</sup> Die kantonale Datenschutzbehörde kontrolliert regelmässig, ob die Bestimmungen dieses Unterabschnitts eingehalten werden, und veröffentlicht ihre Feststellungen.
 
 ### 7.2.13 Verdeckte Registrierung und gezielte Kontrolle
 
@@ -1665,7 +1665,7 @@ beschliesst:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Die Datenbearbeitung richtet sich nach den Bestimmungen des KDSG, soweit dieses Gesetz nicht etwas anderes bestimmt. Das Bundesrecht und spezialgesetzliche Bestimmungen bleiben vorbehalten.
+<sup>1</sup> Die Datenbearbeitung richtet sich nach der Datenschutzgesetzgebung, soweit dieses Gesetz nicht etwas anderes bestimmt. Das Bundesrecht und spezialgesetzliche Bestimmungen bleiben vorbehalten.
 
 <sup>2</sup> Die Behörden gemäss Artikel 2 Absatz 1 sind befugt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten, soweit dies zur Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich ist.
 
@@ -1698,7 +1698,7 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben im internationalen Verkehr die besonderen Rechtshilfebestimmungen des Bundesrechts, insbesondere der StPO und des Bundesgesetzes vom 20. März 1981 über internationale Rechtshilfe in Strafsachen (Rechtshilfegesetz, IRSG)[^144-1].
 
-<sup>3</sup> Der direkte Informationsaustausch auf Ersuchen oder ohne Ersuchen mit Polizei- und Strafverfolgungsbehörden anderer Staaten, die mit der Schweiz über eines der Schengen-Assoziierungsabkommen verbunden sind (Schengen- Staaten), richtet sich nach dem Bundesgesetz vom 12. Juni 2009 über den Informationsaustausch zwischen den Strafverfolgungsbehörden des Bundes und denjenigen der anderen Schengen-Staaten (Schengen-Informationsaustausch-Gesetz, SIaG)[^144-2] und Artikel 355c StGB.
+<sup>3</sup> Der direkte Informationsaustausch auf Ersuchen oder ohne Ersuchen mit Polizei- und Strafverfolgungsbehörden anderer Staaten, die mit der Schweiz über eines der Schengen-Assoziierungsabkommen verbunden sind (Schengen-Staaten), richtet sich nach dem Bundesgesetz vom 21. März 2025 über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Schweiz und denjenigen der anderen Schengen-Staaten (Schengen-Informationsaustauschgesetz, SIAG)[^144-2] und Artikel 355c StGB.
 
 [^144-1]: SR [351.1](https://db.clex.ch/link/Bund/351.1/de)
 [^144-2]: SR [362.2](https://db.clex.ch/link/Bund/362.2/de)
@@ -1778,7 +1778,7 @@ beschliesst:
 
 **Überwachung**
 
-<sup>1</sup> Die oder der Datenschutzverantwortliche der Kantonspolizei überwacht die Organisation, das Verfahren und die technischen Einrichtungen der Datenbearbeitung und prüft die Rechtmässigkeit und Zweckmässigkeit.
+<sup>1</sup> Die Datenschutzberaterin oder der Datenschutzberater der Kantonspolizei überwacht die Organisation, das Verfahren und die technischen Einrichtungen der Datenbearbeitung und prüft die Rechtmässigkeit und Zweckmässigkeit.
 
 <sup>2</sup> Sie oder er ist in Bezug auf diese Aufgabe weisungsungebunden.
 

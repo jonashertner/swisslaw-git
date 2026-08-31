@@ -4,13 +4,13 @@ number: "551.1"
 title: Loi sur la police
 short: LPol
 language: fr
-version: 2024-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-28
+version: 2026-09-01
+valid_until: 2026-10-31
+version_adopted: 2025-12-03
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3048/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3436/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3048/pdf_file"
 
 (LPol)
 
-du 10.02.2019 (état au 01.08.2024)
+du 10.02.2019 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -699,7 +699,7 @@ arrête:
 
 <sup>1</sup> Les organisations de sécurité et de sauvetage qui opèrent sur le territoire cantonal peuvent, d'entente avec la Police cantonale, dépêcher à la centrale cantonale d'alarme et d'engagement visée à l'article 9, alinéa 1, lettre d des collaborateurs et collaboratrices disposant des connaissances techniques requises.
 
-<sup>2</sup> Les collaborateurs et collaboratrices de la Police cantonale et des organisations visées à l'alinéa 1 actifs au sein de la centrale cantonale d'alarme et d'engagement peuvent, au cas par cas, se transmettre des données personnelles, y compris des données particulièrement dignes de protection, ou les communiquer à des tiers, dans la mesure où une telle divulgation est nécessaire à l'accomplissement de leurs tâches ou de celles du ou de la destinataire.
+<sup>2</sup> Les collaborateurs et collaboratrices de la Police cantonale et des organisations visées à l'alinéa 1 actifs au sein de la centrale cantonale d'alarme et d'engagement peuvent, au cas par cas, se transmettre des données personnelles, y compris des données sensibles, ou les communiquer à des tiers, dans la mesure où une telle divulgation est nécessaire à l'accomplissement de leurs tâches ou de celles du ou de la destinataire.
 
 <sup>3</sup> Ils sont soumis au secret de fonction.
 
@@ -1284,7 +1284,7 @@ arrête:
 - c les concordances établies grâce à la comparaison automatisée,
 - d l'analyse, la communication et la destruction de données.
 
-<sup>2</sup> L'autorité cantonale de surveillance de la protection des données contrôle régulièrement si les dispositions de la présente sous-section sont respectées et publie ses constatations.
+<sup>2</sup> L'autorité cantonale de protection des données contrôle régulièrement si les dispositions de la présente sous-section sont respectées et publie ses constatations.
 
 ### 7.2.13 Surveillance discrète et contrôle ciblé
 
@@ -1665,9 +1665,9 @@ arrête:
 
 **Traitement des données**
 
-<sup>1</sup> Le traitement des données est régi par les dispositions de la LCPD, pour autant que la présente loi n'en dispose pas autrement. Le droit fédéral et la législation spéciale sont réservés.
+<sup>1</sup> Le traitement des données est régi par la législation sur la protection des données, pour autant que la présente loi n'en dispose pas autrement. Le droit fédéral et la législation spéciale sont réservés.
 
-<sup>2</sup> Les autorités visées à l'article 2, alinéa 1 sont autorisées à traiter des données personnelles, y compris des données particulièrement dignes de protection, dans la mesure où cela est nécessaire à l'accomplissement des tâches qui leur sont attribuées par la présente loi.
+<sup>2</sup> Les autorités visées à l'article 2, alinéa 1 sont autorisées à traiter des données personnelles, y compris des données sensibles, dans la mesure où cela est nécessaire à l'accomplissement des tâches qui leur sont attribuées par la présente loi.
 
 <sup>3</sup> La Police cantonale peut procéder au profilage, s'il y a lieu de croire qu'une personne a commis, commet ou planifie un crime ou un délit, ou qu'elle expose la sécurité publique à un danger concret ou l'a fait dans le passé.
 
@@ -1694,11 +1694,11 @@ arrête:
 
 **Transmission de données personnelles 1. Par la Police cantonale**
 
-<sup>1</sup> La Police cantonale peut, au cas par cas, communiquer des données personnelles, y compris des données particulièrement dignes de protection, à des autorités de la Confédération ou d'autres cantons et à d'autres autorités du canton et des communes, dans la mesure où cela est nécessaire à l'accomplissement, par elle-même ou par l'autorité destinataire, de tâches au sens de la présente loi.
+<sup>1</sup> La Police cantonale peut, au cas par cas, communiquer des données personnelles, y compris des données sensibles, à des autorités de la Confédération ou d'autres cantons et à d'autres autorités du canton et des communes, dans la mesure où cela est nécessaire à l'accomplissement, par elle-même ou par l'autorité destinataire, de tâches au sens de la présente loi.
 
 <sup>2</sup> En matière internationale, les dispositions spéciales du droit fédéral, notamment celles du CPP relatives à l'entraide judiciaire et celles de la loi fédérale du 20 mars 1981 sur l'entraide internationale en matière pénale (loi sur l'entraide pénale internationale, EIMP)[^144-1], sont réservées.
 
-<sup>3</sup> L'échange direct de données, sur demande ou spontané, avec des autorités étrangères de police ou de poursuite pénale liées à la Suisse par l'un des accords d'association à Schengen (Etats Schengen) est régi par la loi fédérale du 12 juin 2009 sur l'échange d'informations entre les autorités de poursuite pénale de la Confédération et celles des autres Etats Schengen (loi sur l'échange d'informations Schengen, LEIS)[^144-2] et l'article 355c CP.
+<sup>3</sup> L'échange direct de données, sur demande ou spontané, avec des autorités étrangères de police ou de poursuite pénale liées à la Suisse par l'un des accords d'association à Schengen (Etats Schengen) est régi par la loi fédérale du 21 mars 2025 sur l'échange d'informations entre les autorités de poursuite pénale de la Suisse et celles des autres Etats Schengen (loi sur l'échange d'informations Schengen, LEIS)[^144-2] et l'article 355c CP.
 
 [^144-1]: RS [351.1](https://db.clex.ch/link/Bund/351.1/fr)
 [^144-2]: RS [362.2](https://db.clex.ch/link/Bund/362.2/fr)
@@ -1707,13 +1707,13 @@ arrête:
 
 **2. Par d'autres autorités cantonales et par des autorités communales**
 
-<sup>1</sup> Les autorités visées à l'article 2, alinéa 1, lettre b peuvent, au cas par cas, communiquer des données personnelles, y compris des données particulièrement dignes de protection, dans la mesure où cela est nécessaire à l'accomplissement, par elles-mêmes ou par l'autorité destinataire, de tâches au sens de la présente loi.
+<sup>1</sup> Les autorités visées à l'article 2, alinéa 1, lettre b peuvent, au cas par cas, communiquer des données personnelles, y compris des données sensibles, dans la mesure où cela est nécessaire à l'accomplissement, par elles-mêmes ou par l'autorité destinataire, de tâches au sens de la présente loi.
 
 #### Art. 146
 
 **3. Droits et obligations généraux de transmission**
 
-<sup>1</sup> Les autorités cantonales et communales sont habilitées, sous réserve d'obligations particulières de garder le secret, à communiquer des données personnelles, y compris des données particulièrement dignes de protection, à la Police cantonale et aux organes de police des communes en vue de l'accomplissement de tâches au sens de la présente loi.
+<sup>1</sup> Les autorités cantonales et communales sont habilitées, sous réserve d'obligations particulières de garder le secret, à communiquer des données personnelles, y compris des données sensibles, à la Police cantonale et aux organes de police des communes en vue de l'accomplissement de tâches au sens de la présente loi.
 
 <sup>2</sup> Lorsque des biens juridiques de première importance tels que la vie ou l'intégrité corporelle sont menacés ou qu'une telle menace est imminente, les autorités cantonales et communales sont tenues de le communiquer immédiatement à la Police cantonale sans égard à l'obligation de garder le secret.
 
@@ -1754,7 +1754,7 @@ arrête:
 
 **5. Communication à des personnes privées**
 
-<sup>1</sup> La Police cantonale peut, au cas par cas, communiquer des données personnelles à des personnes privées, y compris des données particulièrement dignes de protection, dans la mesure nécessaire et pour autant
+<sup>1</sup> La Police cantonale peut, au cas par cas, communiquer des données personnelles à des personnes privées, y compris des données sensibles, dans la mesure nécessaire et pour autant
 
 - a que la personne concernée ou son représentant légal ou sa représentante légale ait expressément consenti à une telle communication ou qu'elle soit dans son intérêt;
 - b que cela soit nécessaire à la personne destinataire pour écarter un danger menaçant la sécurité et l'ordre public ou
@@ -1778,7 +1778,7 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> La personne chargée de la protection des données au sein de la Police cantonale surveille l'organisation, la procédure et les installations techniques utilisées en matière de traitement des données et veille au respect des principes de légalité et d'opportunité.
+<sup>1</sup> La conseillère ou le conseiller à la protection des données au sein de la Police cantonale surveille l'organisation, la procédure et les installations techniques utilisées en matière de traitement des données et veille au respect des principes de légalité et d'opportunité.
 
 <sup>2</sup> Elle n'est pas liée par des instructions dans l'accomplissement de cette fonction.
 
@@ -1898,7 +1898,7 @@ arrête:
 
 <sup>1</sup> La Police cantonale peut soumettre en tout temps ses collaborateurs et collaboratrices et les personnes avec lesquelles elle envisage d'instaurer des rapports de travail à un contrôle de sécurité relatif aux personnes pour s'assurer qu'ils ont une bonne réputation et sont dignes de confiance lorsque, dans le cadre de leurs activités,
 
-- a ils ont accès à des données personnelles particulièrement dignes de protection, dont la révélation pourrait porter un grave préjudice aux droits individuels des personnes concernées ou
+- a ils ont accès à des données sensibles, dont la révélation pourrait porter un grave préjudice aux droits individuels des personnes concernées ou
 - b qu'ils ont une connaissance approfondie d'importants dossiers de la politique de sécurité sur lesquels ils peuvent exercer une influence.
 
 <sup>2</sup> La personne faisant l'objet du contrôle doit donner son consentement et apporter son concours à l'établissement des faits.
