@@ -4,13 +4,12 @@ number: "152.051"
 title: Verordnung über die Gemeinderegistersysteme-Plattform
 short: GERES V
 language: de
-version: 2024-02-01
-valid_until: 2026-08-31
-version_adopted: 2023-12-06
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.051"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3004/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3004/pdf_file"
 
 (GERES V)
 
-vom 20.01.2021 (Stand 01.02.2024)
+vom 20.01.2021 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -47,7 +46,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für die Behörden nach Artikel 2 Absatz 6 sowie deren Beauftragten nach Artikel 16 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^2-1].
+<sup>1</sup> Diese Verordnung gilt für die Behörden nach Artikel 2 Absatz 1 Buchstabe i sowie deren beauftragte Dritte nach Artikel 12 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^2-1].
 
 <sup>2</sup> Die Behörden und Beauftragten sind entweder Lieferantinnen und Lieferanten oder Bezügerinnen und Bezüger von Personendaten der GERES-Plattform.
 
@@ -115,8 +114,8 @@ beschliesst:
 - a Merkmale nach Artikel 6 und 7 RHG,
 - b Merkmale nach Artikel 8 in Verbindung mit Artikel 49 der eidgenössischen Zivilstandsverordnung vom 28. April 2004 (ZStV)[^7-1],
 - c Korrespondenzsprache nach Artikel 6 Kantonsverfassung vom 6. Juni 1993 (KV)[^7-2],
-- d Adress- und Auskunftssperre nach Artikel 13 KDSG,
-- e Einschränkung der Datenbekanntgabe nach Artikel 14 KDSG,
+- d Adress- und Auskunftssperre nach Artikel 34 KDSG,
+- e Einschränkung der Datenbekanntgabe nach Artikel 14 Absatz 3 KDSG,
 - f Ausweis- und Schriftensperre nach Artikel 237 Absatz 2 Buchstabe b der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO)[^7-3],
 - g Merkmale nach Artikel 2 Absatz 1 der Verordnung vom 18. Juni 1986 über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer (NAV)[^7-4].
 
@@ -131,19 +130,19 @@ beschliesst:
 
 <sup>1</sup> Mit der GERES-Plattform können die Personendaten pro Einwohner- oder Kirchgemeinde, als Kombination verschiedener Einwohner- oder Kirchgemeinden oder über das ganze Kantonsgebiet abgerufen oder gemeldet werden.
 
-<sup>2</sup> Die GERES-Plattform ermöglicht aufgrund der Historisierung die Darstellung der früheren Ereignismeldungen, maximal über die letzten fünf Jahre seit der jüngsten Ereignismeldung.
+<sup>2</sup> Die GERES-Plattform ermöglicht aufgrund der Historisierung die Darstellung der früheren Ereignismeldungen, maximal ab dem 1. Januar 2010.
 
 #### Art. 9
 
 **Besonders schützenswerte Personendaten**
 
-<sup>1</sup> In der GERES-Plattform werden die folgenden besonders schützenswerten Personendaten bzw. Merkmale geführt (Art. 3 KDSG):
+<sup>1</sup> In der GERES-Plattform werden die folgenden besonders schützenswerten Personendaten bzw. Merkmale geführt (Art. 2 Abs. 1 Bst. c KDSG):
 
 - a die Zugehörigkeit zu einer Landeskirche oder einer öffentlich-rechtlich anerkannten Religionsgemeinschaft (Konfession),
 - b Ausweis- und Schriftensperre,
 - c Pflegeeltern,
 - d umfassende Beistandschaft,
-- e Vormund oder Vormundin,
+- e Vormundin oder Vormund,
 - f Identifikator der KESB-Beziehung.
 
 #### Art. 10
@@ -179,7 +178,7 @@ beschliesst:
 
 - a umfasst keine Funktionalitäten, die ein Profiling ermöglichen oder in anderer Form besonders schützenswerte Personendaten erzeugen,
 - b steht allen Behörden zur Verfügung, die diese Personendaten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen,
-- c zeigt die Personen, die der eingeschränkten Datenbekanntgabe nach Artikel 14 KDSG unterliegen, nur den dazu gesetzlich berechtigen Behörden an.
+- c zeigt die Personen, die der eingeschränkten Datenbekanntgabe nach Artikel 14 Absatz 3 KDSG unterliegen, nur den dazu gesetzlich berechtigen Behörden an.
 
 #### Art. 13
 
@@ -189,7 +188,7 @@ beschliesst:
 
 <sup>2</sup> Die Standardprofile umfassen die Merkmale nach Anhang 1.
 
-<sup>3</sup> Sie zeigen diejenigen Personen, die der eingeschränkten Datenbekanntgabe nach Artikel 14 KDSG unterliegen, nur den dazu gesetzlich berechtigen Behörden an.
+<sup>3</sup> Sie zeigen diejenigen Personen, die der eingeschränkten Datenbekanntgabe nach Artikel 14 Absatz 3 KDSG unterliegen, nur den dazu gesetzlich berechtigen Behörden an.
 
 #### Art. 14
 
@@ -201,9 +200,9 @@ beschliesst:
 
 **Sperren und Einschränkungen der Datenbekanntgabe**
 
-<sup>1</sup> Adress- und Auskunftssperren nach Artikel 13 KDSG gegenüber privaten Personen werden in der GERES-Plattform vermerkt.
+<sup>1</sup> Adress- und Auskunftssperren nach Artikel 34 KDSG gegenüber privaten Personen werden in der GERES-Plattform vermerkt.
 
-<sup>2</sup> Die Daten von Personen mit Einschränkungen der Datenbekanntgabe nach Artikel 14 KDSG werden den Behörden, ihren Beauftragten oder deren Systemen nicht im Abruf- oder Meldeverfahren bekanntgegeben.
+<sup>2</sup> Die Daten von Personen mit Einschränkungen der Datenbekanntgabe nach Artikel 14 Absatz 3 KDSG werden den Behörden, ihren Beauftragten oder deren Systemen nicht im Abruf- oder Meldeverfahren bekanntgegeben.
 
 #### Art. 16
 
@@ -279,7 +278,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Die Berechtigungsregeln sind vor dem Erlass und jeder Revision der zuständigen Datenschutzaufsichtsstelle zur Stellungnahme vorzulegen (Art. 11 Abs. 1 PDSG). Das Datum der Stellungnahme ist in den Berechtigungsregeln zu vermerken.
+<sup>1</sup> Die Berechtigungsregeln sind vor dem Erlass und jeder Revision der zuständigen Datenschutzbehörde zur Stellungnahme vorzulegen (Art. 11 Abs. 1 PDSG). Das Datum der Stellungnahme ist in den Berechtigungsregeln zu vermerken.
 
 <sup>2</sup> Die Berechtigungsregeln sind nach deren rechtskräftigen Erlass oder Revision dem KAIO zur Publikation im Internet zuzustellen, sofern sie nicht in der Berner Systematischen Gesetzessammlung (BSG) erfasst werden.
 
@@ -419,7 +418,7 @@ beschliesst:
 
 **Datenbekanntgabe**
 
-<sup>1</sup> Das KAIO kann einzelfallweise im Rahmen der Amtshilfe nach Artikel 10 KDSG und für Forschung, Praxisbildung, Statistik oder Planung nach Artikel 15 KDSG Personendaten aus der GERES-Plattform bekannt geben.
+<sup>1</sup> Das KAIO kann einzelfallweise im Rahmen der Amtshilfe nach Artikel 14 KDSG und für Forschung, Praxisbildung, Statistik oder Planung nach Artikel 17 KDSG Personendaten aus der GERES-Plattform bekannt geben.
 
 <sup>2</sup> Die mehrmalige unterjährige oder laufende Datenbekanntgabe setzt Berechtigungsregeln nach Artikel 18 ff. voraus.
 

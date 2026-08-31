@@ -4,13 +4,12 @@ number: "152.051"
 title: Ordonnance sur la plate-forme des systèmes des registres communaux
 short: O GERES
 language: fr
-version: 2024-02-01
-valid_until: 2026-08-31
-version_adopted: 2023-12-06
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.051"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3004/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3460/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3004/pdf_file"
 
 (O GERES)
 
-du 20.01.2021 (état au 01.02.2024)
+du 20.01.2021 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,7 +46,7 @@ arrête:
 
 **Champ d'application**
 
-<sup>1</sup> La présente ordonnance s'applique aux autorités au sens de l'article 2, alinéa 6 et à leurs mandataires au sens de l'article 16 de la loi du 19 février 1986 sur la protection des données (LCPD)[^2-1].
+<sup>1</sup> La présente ordonnance s'applique aux autorités au sens de l'article 2, alinéa 1, lettre i et aux tiers qu'elles mandatent au sens de l'article 12 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^2-1].
 
 <sup>2</sup> Les autorités et leurs mandataires sont soit transmetteurs ou transmetteuses, soit interrogateurs ou interrogatrices de données personnelles figurant sur la plate-forme GERES.
 
@@ -115,8 +114,8 @@ arrête:
 - a les caractères énoncés aux articles 6 et 7 LHR,
 - b les caractères énoncés à l'article 8 en relation avec l'article 49 de l'ordonnance fédérale du 28 avril 2004 sur l'état civil (OEC)[^7-1],
 - c la langue de correspondance conformément à l'article 6 de la Constitution cantonale du 6 juin 1993 (ConstC)[^7-2],
-- d le blocage d'adresses et de renseignements selon l'article 13 LCPD,
-- e la communication limitée de données selon l'article 14 LCPD,
+- d le blocage d'adresses et de renseignements selon l'article 34 LCPD,
+- e la communication limitée de données selon l'article 14, alinéa 3 LCPD,
 - f la saisie des documents d'identité et autres documents officiels selon l'article 237, alinéa 2, lettre b du Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure pénale, CPP)[^7-3],
 - g les caractères énoncés à l'article 2, alinéa 1 de l'ordonnance du 18 juin 1986 sur l'établissement et le séjour des Suissesses et des Suisses (OES)[^7-4].
 
@@ -131,13 +130,13 @@ arrête:
 
 <sup>1</sup> La plate-forme GERES permet d'interroger ou d'annoncer des données relatives à des personnes d'une commune municipale ou d'une paroisse, d'un ensemble de communes municipales ou de paroisses ou de tout le territoire cantonal.
 
-<sup>2</sup> Grâce à l'historisation, la plate-forme GERES permet d'afficher les annonces d'événements antérieurs, dans la limite de celles des cinq années précédant la plus récente.
+<sup>2</sup> Grâce à l'historisation, la plate-forme GERES permet d'afficher les annonces d'événements antérieurs, depuis le 1<sup>er</sup> janvier 2010 au plus tôt.
 
 #### Art. 9
 
-**Données personnelles particulièrement dignes de protection**
+**Données sensibles**
 
-<sup>1</sup> La plate-forme GERES héberge les données personnelles et les caractères particulièrement dignes de protection suivants (art. 3 LCPD):
+<sup>1</sup> La plate-forme GERES héberge les données et les caractères sensibles suivants (art. 2, al. 1, lit. c LCPD):
 
 - a l'appartenance à une Eglise nationale ou à une communauté religieuse reconnue de droit public (confession),
 - b la saisie des documents d'identité et autres documents officiels,
@@ -150,7 +149,7 @@ arrête:
 
 **Fonctionnalités**
 
-<sup>1</sup> La plate-forme GERES dispose de fonctionnalités permettant un profilage ou l'édition de données personnelles particulièrement dignes de protection sous une autre forme. Ces fonctionnalités sont les suivantes:
+<sup>1</sup> La plate-forme GERES dispose de fonctionnalités permettant un profilage ou l'édition de données sensibles sous une autre forme. Ces fonctionnalités sont les suivantes:
 
 - a historisation des événements;
 - b affichage des personnes vivant dans le même ménage;
@@ -167,7 +166,7 @@ arrête:
 
 **Nécessité impérative**
 
-<sup>1</sup> Le traitement de données personnelles particulièrement dignes de protection et l'utilisation des fonctionnalités sont autorisés à la condition qu'ils soient impérativement nécessaires à l'accomplissement des tâches légales (art. 5, al. 4 LFDP).
+<sup>1</sup> Le traitement de données sensibles et l'utilisation des fonctionnalités sont autorisés à la condition qu'ils soient impérativement nécessaires à l'accomplissement des tâches légales (art. 5, al. 4 LFDP).
 
 #### Art. 12
 
@@ -177,19 +176,19 @@ arrête:
 
 <sup>2</sup> Le profil de base
 
-- a ne comprend aucune fonctionnalité permettant un profilage ou l'édition de données personnelles particulièrement dignes de protection sous une autre forme;
+- a ne comprend aucune fonctionnalité permettant un profilage ou l'édition de données sensibles sous une autre forme;
 - b est accessible à toutes les autorités ayant besoin de ces données personnelles pour accomplir leurs tâches légales;
-- c n'indique les personnes dont la communication des données est limitée conformément à l'article 14 LCPD qu'aux autorités habilitées par la loi.
+- c n'indique les personnes dont la communication des données est limitée conformément à l'article 14, alinéa 3 LCPD qu'aux autorités habilitées par la loi.
 
 #### Art. 13
 
 **Profils standard**
 
-<sup>1</sup> La plate-forme GERES dispose de profils standard pouvant comprendre des caractères personnels particulièrement dignes de protection ou des profils de personnes générés à l'aide de fonctionnalités.
+<sup>1</sup> La plate-forme GERES dispose de profils standard pouvant comprendre des caractères sensibles ou des profils de personnes générés à l'aide de fonctionnalités.
 
 <sup>2</sup> Les profils standard comprennent les caractères figurant à l'annexe 1.
 
-<sup>3</sup> Ils n'indiquent les personnes dont la communication des données est limitée conformément à l'article 14 LCPD qu'aux autorités habilitées par la loi.
+<sup>3</sup> Ils n'indiquent les personnes dont la communication des données est limitée conformément à l'article 14, alinéa 3 LCPD qu'aux autorités habilitées par la loi.
 
 #### Art. 14
 
@@ -201,9 +200,9 @@ arrête:
 
 **Blocages et limitations de la communication de données**
 
-<sup>1</sup> Les blocages d'adresses et de renseignements au sens de l'article 13 LCPD vis-à-vis des particuliers sont mentionnés sur la plate-forme GERES.
+<sup>1</sup> Les blocages d'adresses et de renseignements au sens de l'article 34 LCPD vis-à-vis des particuliers sont mentionnés sur la plate-forme GERES.
 
-<sup>2</sup> Les données personnelles dont la communication est limitée conformément à l'article 14 LCPD ne sont pas communiquées aux autorités, ni à leurs mandataires ou à leurs systèmes en procédure d'appel ou en procédure d'annonce.
+<sup>2</sup> Les données personnelles dont la communication est limitée conformément à l'article 14, alinéa 3 LCPD ne sont pas communiquées aux autorités, ni à leurs mandataires ou à leurs systèmes en procédure d'appel ou en procédure d'annonce.
 
 #### Art. 16
 
@@ -279,7 +278,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> Avant d'être édictée et avant toute révision, la règlementation des droits d'accès doit être soumise, pour avis, à l'autorité de surveillance de la protection des données compétente (art. 11, al. 1 LFDP). La date de l'avis doit être mentionnée dans la règlementation.
+<sup>1</sup> Avant d'être édictée et avant toute révision, la règlementation des droits d'accès doit être soumise, pour avis, à l'autorité de protection des données compétente (art. 11, al. 1 LFDP). La date de l'avis doit être mentionnée dans la règlementation.
 
 <sup>2</sup> Une fois que la règlementation des droit d'accès ou sa révision est entrée en vigueur, elle doit être envoyée à l'OIO pour qu'il la publie sur Internet, à moins qu'elle ne soit publiée dans le Recueil systématique des lois bernoises (RSB).
 
@@ -419,7 +418,7 @@ arrête:
 
 **Communication de données**
 
-<sup>1</sup> Dans le cadre de l'assistance administrative selon l'article 10 LCPD, l’OIO peut, au cas par cas, communiquer des données personnelles provenant de la plate-forme GERES à des fins de recherche, d'élaboration de la jurisprudence, de statistiques ou de planification conformément à l'article 15 LCPD.
+<sup>1</sup> Dans le cadre de l'assistance administrative selon l'article 14 LCPD, l’OIO peut, au cas par cas, communiquer des données personnelles provenant de la plate-forme GERES à des fins de recherche, d'élaboration de la jurisprudence, de statistiques ou de planification conformément à l'article 17 LCPD.
 
 <sup>2</sup> Toute communication de données intervenant plusieurs fois dans l'année ou de manière continue requiert une réglementation des droits d'accès au sens des articles 18 et suivants.
 
