@@ -4,20 +4,21 @@ number: "440.102"
 title: "Règlement sur la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique"
 short: RSPC
 language: fr
-version: 2019-07-01
-valid_until: 2026-08-31
-version_adopted: 2019-06-19
+version: 2026-09-01
+version_adopted: 2026-07-22
 adopted: 2026-07-22
 in_force: 2026-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/440.102"
-pdf: "https://lex.vs.ch/api/fr/versions/2542/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3646/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement sur la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique
 
-du 19.06.2019 (état 01.07.2019)
+(RSPC)
+
+du 22.07.2026 (état 01.09.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -35,7 +36,7 @@ arrête:
 
 **But, organisation et compétences**
 
-<sup>1</sup> Le présent règlement fixe les modalités d’application des dispositions de la LPrC concernant la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique inscrites au chapitre 3 de la LPrC.
+<sup>1</sup> Le présent règlement fixe les modalités d’application des dispositions de la loi sur la promotion de la culture (LPrC) concernant la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique inscrites au chapitre 3 de la LPrC.
 
 <sup>2</sup> Le département en charge de la culture (ci-après: le département) est compétent pour l'application de la législation concernant la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique, sous réserve des compétences expressément attribuées à une autre autorité.
 
@@ -51,10 +52,10 @@ arrête:
 
 <sup>2</sup> Elle est un organe de préavis du département pour toutes les décisions qui lui incombent en la matière. Elle peut également, de son propre chef, lui proposer des mesures visant à atteindre les buts fixés par la loi.
 
-<sup>3</sup> Spécifiquement, elle se détermine à l’attention du département
+<sup>3</sup> Spécifiquement, elle se détermine à l’attention du département:
 
 - a) sous la forme d’une proposition, sur:
-  - 1\. la portée et le périmètre du patrimoine culturel mobilier, documentaire, immatériel et linguistique données dans la loi,
+  - 1\. la portée et le périmètre du patrimoine culturel mobilier, documentaire, immatériel et linguistique définis dans la loi,
   - 2\. les critères pour établir l’intérêt cantonal d’un élément du patrimoine culturel,
   - 3\. les éléments et institutions à reconnaître d’intérêt cantonal,
   - 4\. les éléments d’intérêt cantonal pour lesquels elle propose l’exercice du droit de préemption;
@@ -64,9 +65,14 @@ arrête:
 
 **Composition et nomination**
 
-<sup>1</sup> La commission est composée de 11 membres désignés par le Conseil d’Etat sur proposition du département.
+<sup>1</sup> La commission est composée de onze à treize membres désignés par le Conseil d’Etat sur proposition du département.
 
-<sup>2</sup> La commission est constituée du chef du service en charge de la culture (ci-après: le chef de service), des directeurs respectifs des institutions culturelles de l’Etat, d’un représentant du département en charge des monuments historiques, des sites et de l’archéologie, et de 4 autres membres choisis en raison de leurs compétences avérées en matière de patrimoine culturel mobilier, documentaire, immatériel ou linguistique.
+<sup>2</sup> La commission est constituée:
+
+- a) du chef du service en charge de la culture (ci-après: le chef de service);
+- b) des directeurs respectifs des institutions culturelles de l’Etat;
+- c) d’un représentant du département en charge des monuments historiques et des sites, et
+- d) de cinq à sept autres membres choisis en raison de leurs compétences avérées en matière de patrimoine culturel mobilier, documentaire, immatériel ou linguistique.
 
 <sup>3</sup> Le collaborateur du service en charge du patrimoine culturel mobilier, documentaire, immatériel et linguistique assiste aux séances avec voix consultative.
 
@@ -76,15 +82,19 @@ arrête:
 
 **Fonctionnement**
 
-<sup>1</sup> La commission est convoquée et présidée au moins deux fois par année par le chef de service. Ses avis sont pris à la majorité, en cas d’égalité, la voix du président est prépondérante.
+<sup>1</sup> La commission est convoquée et présidée au moins deux fois par année par le chef de service. Ses avis sont pris à la majorité des membres présents. En cas d’égalité, la voix du président est prépondérante.
 
-<sup>2</sup> Le secrétariat de la commission, la mise en œuvre et le suivi de ses décisions sont assurés par le service.
+<sup>2</sup> Les décisions peuvent aussi être prises par voie de circulation, pour autant qu’aucun membre ne demande des délibérations orales. Les décisions ainsi prises requièrent la majorité des membres et sont consignées au procès-verbal de la séance suivante.
 
-<sup>3</sup> Les membres sont tenus au secret des délibérations et au devoir de discrétion.
+<sup>3</sup> La commission statue sur dossier. Elle peut, à titre exceptionnel, entendre un requérant.
 
-<sup>4</sup> La commission peut constituer des sous-commissions pour accomplir son mandat.
+<sup>4</sup> Le secrétariat de la commission, la mise en œuvre et le suivi de ses décisions sont assurés par le service.
 
-<sup>5</sup> La commission ou les sous-commissions peuvent faire appel à des experts externes avec l’accord du chef de service.
+<sup>5</sup> Les membres sont tenus au secret des délibérations et au devoir de discrétion.
+
+<sup>6</sup> La commission peut constituer des sous-commissions pour accomplir son mandat.
+
+<sup>7</sup> La commission ou les sous-commissions peuvent faire appel à des experts externes avec l’accord du chef de service. Les membres et les experts sont indemnisés par le service conformément aux prescriptions en vigueur.
 
 ## 3 Reconnaissance de l'intérêt cantonal et soutien de l'Etat
 
@@ -94,38 +104,40 @@ arrête:
 
 <sup>1</sup> La reconnaissance d’intérêt cantonal (ci-après: la reconnaissance) peut concerner un élément pris isolément ou un groupe d’éléments considérés dans leur ensemble.
 
-<sup>2</sup> L’initiative de la proposition de reconnaissance peut être le fait du propriétaire ou détenteur du bien concerné, de la commission ou du service.
+<sup>2</sup> L’initiative de la proposition de reconnaissance peut être le fait du propriétaire légitime ou détenteur du bien concerné, de la commission ou du service.
 
-<sup>3</sup> Le service requiert les observations du propriétaire du bien culturel mobilier ou documentaire respectivement, lorsque cela est possible, des représentants qualifiés du porteur de l’élément du patrimoine immatériel ou linguistique. Il peut procéder à d’autres investigations nécessaires à l’instruction de la proposition.
+<sup>3</sup> Le service requiert les observations du propriétaire légitime du bien culturel mobilier ou documentaire respectivement, lorsque cela est possible, des représentants qualifiés du porteur de l’élément du patrimoine immatériel ou linguistique. Il peut procéder à d’autres investigations nécessaires à l’instruction de la proposition.
 
 <sup>4</sup> Le service fait rapport à la commission qui formule une proposition de reconnaissance à l’attention du département qui décide.
 
-<sup>5</sup> Un bien mobilier ou documentaire qui n’est pas propriété de l’Etat ne peut être reconnu d’intérêt cantonal qu’avec l’accord de son propriétaire. Sa reconnaissance fait l’objet d’une convention entre son propriétaire, respectivement son détenteur, et l’Etat qui contient les éléments suivants:
+<sup>5</sup> Un bien mobilier ou documentaire qui n’est pas propriété de l’Etat ne peut être reconnu d’intérêt cantonal qu’avec l’accord de son propriétaire légitime. Sa reconnaissance fait l’objet d’une convention entre son propriétaire légitime, respectivement son détenteur, et l’Etat. Cette convention contient les éléments suivants:
 
 - a) la description du bien culturel mobilier ou documentaire établie conformément aux normes et standards du domaine concerné;
 - b) les mesures de sauvegarde nécessaires et souhaitables;
-- c) l’engagement du propriétaire concernant les modalités de mise en œuvre des mesures de sauvegarde;
+- c) l’engagement du propriétaire légitime concernant les modalités de mise en œuvre des mesures de sauvegarde;
 - d) la nature, la portée et les conditions d’un éventuel soutien de l’Etat;
 - e) les conséquences de son inobservation;
 - f) les conditions de sa modification et de sa résiliation.
 
-<sup>6</sup> A l’exception des documents acquis par la Médiathèque Valais aux seules fins d’information et de formation de la population, les éléments du patrimoine culturel intégrés aux collections et fonds des institutions culturelles de l’Etat en pleine propriété ou à titre de dépôt sont automatiquement reconnus d’intérêt cantonal. La décision d’intégration est de la compétence de la direction de l’institution concernée et ne requière pas le préavis de la commission.
+<sup>6</sup> A l’exception des documents acquis par la Médiathèque Valais aux seules fins d’information et de formation de la population, les éléments du patrimoine culturel intégrés aux collections et fonds des institutions culturelles de l’Etat en pleine propriété ou à titre de dépôt sont automatiquement reconnus d’intérêt cantonal. La décision d’intégration est de la compétence de la direction de l’institution concernée et ne requiert pas le préavis de la commission.
+
+<sup>7</sup> Le service peut requérir périodiquement un contrôle de l'état de conservation d'un bien mobilier ou documentaire reconnu.
 
 #### Art. 6
 
 **Fonds cantonal**
 
-<sup>1</sup> Le fonds cantonal pour le patrimoine culturel mobilier, documentaire, immatériel et linguistique a pour buts d’apporter les soutiens prévus à l’article 20a de la LPrC.
+<sup>1</sup> Le fonds cantonal pour le patrimoine culturel mobilier, documentaire, immatériel et linguistique a pour but d’apporter les soutiens prévus à l’article 20a LPrC.
 
-<sup>2</sup> Il est géré par le département.
+<sup>2</sup> Il est géré par le service sur délégation du département.
 
 #### Art. 7
 
 **Principes**
 
-<sup>1</sup> Le département, respectivement le service selon les compétences qui lui sont déléguées, décide de l’attribution des soutiens financiers et des patronages après consultation et sur préavis de la Commission.
+<sup>1</sup> Le département, respectivement le service selon les compétences qui lui sont déléguées, décide de l’attribution des soutiens financiers et des patronages après consultation et sur préavis de la commission.
 
-<sup>2</sup> Le bénéficiaire d’une aide financière ou d’un patronage de l’Etat conclut avec le service une convention déterminant les conditions d’octroi du soutien et de son engagement à permettre à l’Etat d’exercer son droit de préemption au cas où il souhaiterait se dessaisir du bien qui fait l’objet de la convention.
+<sup>2</sup> Le bénéficiaire d’une aide financière ou d’un patronage de l’Etat conclut avec le service une convention déterminant les conditions d’octroi du soutien ainsi que l’engagement du bénéficiaire à permettre à l’Etat d’exercer son droit de préemption au cas où il souhaiterait se dessaisir du bien qui fait l’objet de la convention.
 
 #### Art. 8
 
@@ -133,7 +145,7 @@ arrête:
 
 <sup>1</sup> Le département peut soutenir une institution (musée, archives ou bibliothèque) qui, de manière cumulative:
 
-- a) est détentrice de collections reconnues d’intérêt cantonal dont elle est propriétaire ou pour lesquelles elle a la garantie de pouvoir les détenir durant au moins cinquante ans;
+- a) est détentrice de collections reconnues d’intérêt cantonal dont elle est propriétaire ou pour lesquelles elle a la garantie de pouvoir les détenir durant au moins 50 ans;
 - b) ne poursuit pas de but lucratif;
 - c) dispose d’une direction scientifique professionnelle et permanente;
 - d) dispose d’un concept et d’un plan de développement des collections et d’une stratégie d’exploitation qui prévoit, notamment, une ouverture adéquate au public;
@@ -141,9 +153,9 @@ arrête:
 - f) dispose d’un financement assuré au moins équivalent à celui du Canton, les prestations en biens et en services n’étant pas prises en compte;
 - g) se conforme aux règles de l’art de son domaine d’activité, en particulier reconnaît et met en œuvre le code de déontologie adopté par les instances professionnelles nationales de son domaine d’activité.
 
-<sup>2</sup> L’aide financière peut prendre la forme d’une contribution à l’exploitation ou à projets.
+<sup>2</sup> L’aide financière peut prendre la forme d’une contribution à l’exploitation ou à des projets.
 
-<sup>3</sup> L’aide à l’exploitation est accordée, en principe, pour une période de quatre ans sur la base d’une mise au concours, elle peut être renouvelée. Le soutien est attribué sur la base des critères suivants:
+<sup>3</sup> L’aide à l’exploitation est accordée, en principe, pour une période de 4 ans sur la base d’une mise au concours. Elle peut être renouvelée. Le soutien est attribué sur la base des critères suivants:
 
 - a) le rayonnement et la qualité de l’institution qui se mesurent notamment au nombre d’utilisateurs de ses prestations, à ses publications et aux coopérations mises en œuvre;
 - b) l’importance de la collection en termes d’originalité, de volume et de valeur culturelle pour le Valais;
@@ -161,14 +173,14 @@ arrête:
 
 **Soutien à une institution s'engageant pour la sauvegarde du patrimoine culturel**
 
-<sup>1</sup> Le département peut soutenir une association ou une fondation qui s’engage pour la sauvegarde d’éléments significatifs du patrimoine culturel mobilier, documentaire, immatériel et linguistique d’intérêt cantonal et qui, de manière non-cumulative:
+<sup>1</sup> Le département peut soutenir une association ou une fondation qui s’engage pour la sauvegarde d’éléments significatifs du patrimoine culturel mobilier, documentaire, immatériel et linguistique d’intérêt cantonal qui remplit au moins l’une des conditions suivantes:
 
 - a) encourage, soutient, coordonne ou conseille des détenteurs de biens culturels en matière de traitement, d’étude, de conservation et de mise en valeur;
 - b) établit des relevés ou de la documentation;
 - c) conduit des recherches scientifiques;
-- d) réalise des actions de mise en valeur de promotion ou de médiation.
+- d) réalise des actions de mise en valeur, de promotion ou de médiation.
 
-<sup>2</sup> Pour pouvoir bénéficier d’un soutien, l’association ou la fondation doit
+<sup>2</sup> Pour pouvoir bénéficier d’un soutien, l’association ou la fondation doit:
 
 - a) disposer d’un statut juridique reconnu;
 - b) ne pas poursuivre de but lucratif;
@@ -179,8 +191,8 @@ arrête:
 <sup>3</sup> L’aide est destinée à soutenir les projets de l’association ou de la fondation. Elle est attribuée annuellement sur la base d’une mise au concours et en application des critères suivants:
 
 - a) le rayonnement, la qualité et l’efficience de l’association ou de la fondation;
-- b) l’extension du champ d’intervention en privilégiant les institutions agissant sur un large champ;
-- c) le niveau scientifique et professionnel de ses projets.
+- b) l’extension du champ d’intervention en privilégiant les institutions agissant dans un champ d’intervention étendu;
+- c) le niveau scientifique et professionnel des projets.
 
 ## 4 Droit de préemption
 
@@ -188,8 +200,8 @@ arrête:
 
 **Droit de préemption**
 
-<sup>1</sup> Le propriétaire d’un bien culturel mobilier ou documentaire reconnu d’intérêt cantonal doit en annoncer la vente ainsi que le prix et les modalités de celle-ci au service et fournir toutes les pièces justificatives requises par lui.
+<sup>1</sup> Le propriétaire d’un bien culturel mobilier ou documentaire reconnu d’intérêt cantonal doit en annoncer la vente ainsi que le prix et les modalités de celle-ci au service et fournir toutes les pièces justificatives requises par celui-ci.
 
-<sup>2</sup> Le délai pour exercer le droit de préemption par l’Etat est de trois mois à compter du jour où le service a été informé de la vente par son propriétaire.
+<sup>2</sup> Le délai pour exercer le droit de préemption par l’Etat est de 3 mois à compter du jour où le service a été informé de la vente par son propriétaire.
 
-RCV RO/AGS 2019-061
+RCV RO/AGS 2026-101

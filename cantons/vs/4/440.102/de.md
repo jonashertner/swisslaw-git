@@ -4,26 +4,27 @@ number: "440.102"
 title: "Reglement über die Bewahrung des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes"
 short: RBK
 language: de
-version: 2019-07-01
-valid_until: 2026-08-31
-version_adopted: 2019-06-19
+version: 2026-09-01
+version_adopted: 2026-07-22
 adopted: 2026-07-22
 in_force: 2026-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/440.102"
-pdf: "https://lex.vs.ch/api/de/versions/2542/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Bewahrung des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes
 
-vom 19.06.2019 (Stand 01.07.2019)
+(RBK)
+
+vom 22.07.2026 (Stand 01.09.2026)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 19 bis 20e des Kulturförderungsgesetzes vom 15. November 1996 (KFG);
-
 eingesehen Artikel 57 der Kantonsverfassung;
+
+eingesehen die Artikel 19 bis 20e des Kulturförderungsgesetzes vom 15. November 1996 (KFG);
 
 auf Antrag des für die Kultur zuständigen Departements,
 
@@ -33,9 +34,9 @@ verordnet:
 
 #### Art. 1
 
-**Allgemeine Bestimmungen**
+**Zweck, Organisation und Zuständigkeit**
 
-<sup>1</sup> Im vorliegenden Reglement sind die Einzelheiten zur Anwendung der Bestimmungen des KFG in Bezug auf die Bewahrung des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes gemäss Kapitel 3 KFG festgelegt.
+<sup>1</sup> Im vorliegenden Reglement sind die Einzelheiten zur Anwendung der Bestimmungen des Kulturförderungsgesetzes (KFG) in Bezug auf die Bewahrung des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes gemäss Kapitel 3 KFG festgelegt.
 
 <sup>2</sup> Das für die Kultur zuständige Departement (nachstehend: Departement) ist für die Anwendung der Gesetzgebung über die Bewahrung des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes zuständig. Vorbehalten bleiben die ausdrücklich einer anderen Behörde zugewiesenen Kompetenzen.
 
@@ -51,10 +52,10 @@ verordnet:
 
 <sup>2</sup> Sie ist ein vorberatendes Organ des Departements für alle Entscheide, die ihm diesbezüglich obliegen. Sie kann ihm auch von sich aus Massnahmen vorschlagen, mit denen die gesetzlich festgelegten Ziele erreicht werden können.
 
-<sup>3</sup> Spezifisch erstattet sie dem Departement Bericht
+<sup>3</sup> Spezifisch erstattet sie dem Departement Bericht:
 
 - a) in Form eines Vorschlags zu folgenden Punkten:
-  - 1\. Tragweite und Umfang des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes,
+  - 1\. Tragweite und Umfang des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes, wie sie im Gesetz definiert sind,
   - 2\. Kriterien zur Bestimmung des kantonalen Interesses eines Bestandteils des Kulturerbes,
   - 3\. Bestandteile und Institutionen, deren kantonales Interesse anzuerkennen ist,
   - 4\. Bestandteile von kulturellem Interesse, für die sie die Ausübung des Vorkaufsrechts vorschlägt;
@@ -64,9 +65,14 @@ verordnet:
 
 **Zusammensetzung und Ernennung**
 
-<sup>1</sup> Die Kommission besteht aus 11 Mitgliedern, die vom Staatsrat auf Vorschlag des Departements bezeichnet werden.
+<sup>1</sup> Die Kommission besteht aus elf bis dreizehn Mitgliedern, die vom Staatsrat auf Vorschlag des Departements bezeichnet werden.
 
-<sup>2</sup> Die Kommission setzt sich zusammen aus dem Chef der für die Kultur zuständigen Dienststelle (nachstehend: Dienstchef), den jeweiligen Direktoren der kulturellen Institutionen des Staates, einem Vertreter des für die Denkmalpflege, den Heimatschutz und die Archäologie zuständigen Departements, sowie aus vier Vertretern, die anhand ihrer erwiesenen Fachkenntnisse in Bezug auf das bewegliche, dokumentarische, immaterielle oder sprachliche Kulturerbe ausgewählt werden.
+<sup>2</sup> Die Kommission setzt sich zusammen aus:
+
+- a) dem Chef der für die Kultur zuständigen Dienststelle (nachstehend: Dienstchef);
+- b) den jeweiligen Direktoren der kulturellen Institutionen des Staates;
+- c) einem Vertreter des für die Denkmalpflege und den Heimatschutz zuständigen Departements, sowie
+- d) aus fünf bis sieben anderen Vertretern, die anhand ihrer erwiesenen Fachkenntnisse in Bezug auf das bewegliche, dokumentarische, immaterielle oder sprachliche Kulturerbe ausgewählt werden.
 
 <sup>3</sup> Der bei der Dienststelle für das bewegliche, dokumentarische, immaterielle und sprachliche Kulturerbe zuständige Mitarbeiter nimmt mit beratender Stimme an den Sitzungen teil.
 
@@ -76,40 +82,46 @@ verordnet:
 
 **Arbeitsweise**
 
-<sup>1</sup> Die Kommission wird vom Dienstchef mindestens zweimal pro Jahr einberufen und präsidiert. Die Beschlüsse werden mit der Mehrheit der Stimmen gefasst. Bei Stimmengleichheit entscheidet der Präsident.
+<sup>1</sup> Die Kommission wird mindestens zweimal jährlich vom Dienstchef einberufen und präsidiert. Die Beschlüsse werden mit der Mehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit entscheidet der Präsident.
 
-<sup>2</sup> Das Sekretariat der Kommission wird von der Dienststelle geführt, die auch die Umsetzung und Nachprüfung der Beschlüsse gewährleistet.
+<sup>2</sup> Beschlüsse können auch auf dem Zirkulationsweg gefasst werden, sofern kein Mitglied eine mündliche Beratung beantragt. Die auf diese Weise gefassten Beschlüsse bedürfen der Mehrheit der Stimmen aller Mitglieder und werden im Protokoll der nächsten Sitzung festgehalten.
 
-<sup>3</sup> Die Mitglieder unterstehen dem Beratungsgeheimnis und der Verschwiegenheitspflicht.
+<sup>3</sup> Die Kommission entscheidet aufgrund der eingereichten Unterlagen. Sie kann ausnahmsweise einen Gesuchsteller anhören.
 
-<sup>4</sup> Die Kommission kann zum Erfüllen ihres Auftrags Unterkommissionen bilden.
+<sup>4</sup> Das Sekretariat der Kommission wird von der Dienststelle geführt, die auch die Umsetzung und Nachprüfung der Beschlüsse gewährleistet.
 
-<sup>5</sup> Die Kommission und die Unterkommissionen können mit dem Einverständnis des Dienstchefs externe Experten hinzuziehen.
+<sup>5</sup> Die Mitglieder unterstehen dem Beratungsgeheimnis und der Verschwiegenheitspflicht.
+
+<sup>6</sup> Die Kommission kann zum Erfüllen ihres Auftrags Unterkommissionen bilden.
+
+<sup>7</sup> Die Kommission und die Unterkommissionen können mit dem Einverständnis des Dienstchefs externe Experten hinzuziehen. Die Mitglieder sowie die Experten werden nach den geltenden Vorschriften durch die Dienststelle entschädigt.
 
 ## 3 Anerkennung des kantonalen Interesses und Unterstützung des Staates
 
 #### Art. 5
 
-**Anerkennung des kantonales Interesses und Unterstützung des Staates**
+**Anerkennung des kantonalen Interesses**
 
 <sup>1</sup> Die Anerkennung des kantonalen Interesses (nachstehend: Anerkennung) kann ein einzelnes Element oder eine Gruppe von Elementen, die als Ganzes berücksichtigt werden, betreffen.
 
-<sup>2</sup> Der Vorschlag für die Anerkennung kann vom Eigentümer oder Besitzer des betreffenden Kulturguts, von der Kommission oder von der Dienststelle ausgehen.
+<sup>2</sup> Der Vorschlag für die Anerkennung kann vom rechtmässigen Eigentümer oder Besitzer des betreffenden Kulturguts, von der Kommission oder von der Dienststelle ausgehen.
 
-<sup>3</sup> Die Dienststelle verlangt die Einschätzung des Eigentümers des beweglichen oder dokumentarischen Kulturguts beziehungsweise, wenn das möglich ist, die Einschätzung von qualifizierten Vertretern des Trägers des Bestandteils des immateriellen oder sprachlichen Kulturguts. Sie kann weitere nötige Untersuchungen zur Prüfung des Vorschlags durchführen.
+<sup>3</sup> Die Dienststelle verlangt die Einschätzung des rechtmässigen Eigentümers des beweglichen oder dokumentarischen Kulturguts beziehungsweise, wenn das möglich ist, die Einschätzung von qualifizierten Vertretern des Trägers des Bestandteils des immateriellen oder sprachlichen Kulturguts. Sie kann weitere nötige Untersuchungen zur Prüfung des Vorschlags durchführen.
 
 <sup>4</sup> Die Dienststelle erstattet der Kommission Bericht, die einen Anerkennungsantrag zuhanden des Departements stellt, das darüber befindet.
 
-<sup>5</sup> Ein bewegliches oder dokumentarisches Kulturgut, das nicht im Eigentum des Staates ist, kann nur mit dem Einverständnis seines Eigentümers als von kantonalem Interesse anerkannt werden. Seine Anerkennung bildet Gegenstand einer Vereinbarung zwischen seinem Eigentümer beziehungsweise seinem Besitzer und dem Staat. Diese Vereinbarung enthält folgende Elemente:
+<sup>5</sup> Ein bewegliches oder dokumentarisches Kulturgut, das nicht im Eigentum des Staates ist, kann nur mit dem Einverständnis seines rechtmässigen Eigentümers als von kantonalem Interesse anerkannt werden. Seine Anerkennung bildet Gegenstand einer Vereinbarung zwischen seinem rechtmässigen Eigentümer beziehungsweise seinem Besitzer und dem Staat. Diese Vereinbarung enthält folgende Elemente:
 
 - a) die Beschreibung des beweglichen oder dokumentarischen Kulturguts, die gemäss den Standardnormen des betreffenden Bereichs gemacht wird;
 - b) die nötigen und wünschenswerten Bewahrungsmassnahmen;
-- c) die Verpflichtung des Eigentümers betreffend die Einzelheiten zur Umsetzung der Bewahrungsmassnahmen;
+- c) die Verpflichtung des rechtmässigen Eigentümers betreffend die Einzelheiten zur Umsetzung der Bewahrungsmassnahmen;
 - d) die Art, den Umfang und die Bedingungen einer eventuellen staatlichen Unterstützung;
 - e) die Folgen ihrer Missachtung;
 - f) die Bedingungen ihrer Änderung und ihrer Aufhebung.
 
 <sup>6</sup> Mit Ausnahme der Dokumente, die von der Mediathek Wallis einzig zu Informations- und Bildungszwecken für die Bevölkerung erworben werden, gelten die Bestandteile des Kulturerbes, die im Sinne einer Eigentumsübertragung oder als Deposita in die Sammlungen und Fonds der kulturellen Institutionen des Staates aufgenommen werden, automatisch als von kantonalem Interesse. Der Entscheid zu ihrer Aufnahme obliegt der Direktion der betreffenden Institution und bedarf keiner Vormeinung der Kommission.
+
+<sup>7</sup> Die Dienststelle kann in regelmässigen Abständen eine Überprüfung des Erhaltungszustands eines anerkannten beweglichen oder dokumentarischen Kulturguts verlangen.
 
 #### Art. 6
 
@@ -117,7 +129,7 @@ verordnet:
 
 <sup>1</sup> Der kantonale Fonds für das bewegliche, dokumentarische, immaterielle und sprachliche Kulturerbe bezweckt, die in Artikel 20a KFG vorgesehenen Unterstützungen zu bieten.
 
-<sup>2</sup> Er wird vom Departement verwaltet.
+<sup>2</sup> Er wird von der Dienststelle im Auftrag des Departements verwaltet.
 
 #### Art. 7
 
@@ -131,9 +143,9 @@ verordnet:
 
 **Unterstützung einer Institution im Besitze von Sammlungen**
 
-<sup>1</sup> Das Departement kann eine Institution (Museum, Archiv oder Bibliothek) unterstützen, die kummulativ folgende Punkte erfüllt:
+<sup>1</sup> Das Departement kann eine Institution (Museum, Archiv oder Bibliothek) unterstützen, die kumulativ folgende Punkte erfüllt:
 
-- a) sie ist im Besitze von Sammlungen von kantonalem Interesse, deren Eigentümerin sie ist oder die sie garantiert während mindestens fünfzig Jahren besitzen kann;
+- a) sie ist im Besitze von Sammlungen von kantonalem Interesse, deren Eigentümerin sie ist oder die sie garantiert während mindestens 50 Jahren besitzen kann;
 - b) sie verfolgt keinen gewinnbringenden Zweck;
 - c) sie verfügt über eine professionelle und ständige wissenschaftliche Leitung;
 - d) sie verfügt über ein Konzept und einen Entwicklungsplan der Sammlungen sowie über eine Betriebsstrategie, die namentlich eine angemessene Öffnung für die breite Bevölkerung vorsieht;
@@ -143,7 +155,7 @@ verordnet:
 
 <sup>2</sup> Die Finanzhilfe kann die Form eines Betriebs- oder Projektbeitrags annehmen.
 
-<sup>3</sup> Ein Betriebsbeitrag wird grundsätzlich für eine Förderperiode von vier Jahren gestützt auf eine Ausschreibung gewährt und ist erneuerbar. Die Unterstützung wird basierend auf folgenden Kriterien gewährt:
+<sup>3</sup> Ein Betriebsbeitrag wird grundsätzlich für eine Förderperiode von 4 Jahren gestützt auf eine Ausschreibung gewährt und ist erneuerbar. Die Unterstützung wird basierend auf folgenden Kriterien gewährt:
 
 - a) Ausstrahlung und Qualität der Institution, namentlich gemessen an der Anzahl Nutzer ihrer Angebote, an ihren Publikationen und an den umgesetzten Kooperationen;
 - b) Bedeutung der Sammlung in Bezug auf deren Einzigartigkeit, deren Umfang und deren kulturellem Wert für das Wallis;
@@ -161,14 +173,14 @@ verordnet:
 
 **Unterstützung einer Institution, die sich für die Bewahrung des Kulturerbes einsetzt**
 
-<sup>1</sup> Das Departement kann einen Verein oder eine Stiftung unterstützen, der/die sich für die Bewahrung bedeutender Bestandteile des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes von kantonalem Interesse einsetzt, und nicht kumulativ:
+<sup>1</sup> Das Departement kann einen Verein oder eine Stiftung unterstützen, der/die sich für die Bewahrung bedeutender Bestandteile des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes von kantonalem Interesse einsetzt und mindestens eine der folgenden Bedingungen erfüllt:
 
 - a) Besitzer von Kulturgütern in Bezug auf deren Erschliessung, Erforschung, Aufbewahrung und Vermittlung fördert, unterstützt, koordiniert und berät;
 - b) Verzeichnisse oder Dokumentationen erstellt;
-- c) wissenschaftliche Studie durchführt;
+- c) wissenschaftliche Studien durchführt;
 - d) Aktionen zur Aufwertung, Förderung und Vermittlung durchführt.
 
-<sup>2</sup> Um in den Genuss einer Unterstützung zu kommen, muss der Verein oder die Stiftung
+<sup>2</sup> Um in den Genuss einer Unterstützung zu kommen, muss der Verein oder die Stiftung:
 
 - a) eine anerkannte Rechtsform haben;
 - b) keinen gewinnbringenden Zweck verfolgen;
@@ -190,6 +202,6 @@ verordnet:
 
 <sup>1</sup> Der Eigentümer eines beweglichen oder dokumentarischen Kulturguts von kantonalem Interesse muss der Dienststelle dessen Veräusserung sowie den Preis und die Einzelheiten melden und ihr alle Belege liefern, die sie verlangt.
 
-<sup>2</sup> Die Frist zur Ausübung des Vorkaufsrechts durch den Staat beträgt drei Monate ab dem Tag, an dem die Dienststelle vom Eigentümer über die Veräusserung informiert wurde.
+<sup>2</sup> Die Frist zur Ausübung des Vorkaufsrechts durch den Staat beträgt 3 Monate ab dem Tag, an dem die Dienststelle vom Eigentümer über die Veräusserung informiert wurde.
 
-CSW RO/AGS 2019-061
+CSW RO/AGS 2026-101
