@@ -4,13 +4,12 @@ number: "169.11"
 title: Notariatsgesetz
 short: NG
 language: de
-version: 2021-06-01
-valid_until: 2026-08-31
-version_adopted: 2020-03-12
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2005-11-22
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/169.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3356/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3356/pdf_file"
 
 (NG)
 
-vom 22.11.2005 (Stand 01.06.2021)
+vom 22.11.2005 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 

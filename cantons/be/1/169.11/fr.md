@@ -4,13 +4,12 @@ number: "169.11"
 title: Loi sur le notariat
 short: LN
 language: fr
-version: 2021-06-01
-valid_until: 2026-08-31
-version_adopted: 2020-03-12
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2005-11-22
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/169.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3356/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3425/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3356/pdf_file"
 
 (LN)
 
-du 22.11.2005 (état au 01.06.2021)
+du 22.11.2005 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -292,7 +291,7 @@ arrête:
 
 <sup>1</sup> Les notaires disposent, par l’intermédiaire d’une procédure d’appel, du profil de base conformément à l’article 4, alinéa 1, lettre d de la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^20a-1] pour accomplir les tâches qui relèvent de leur activité principale au sens de l’article 20.
 
-<sup>2</sup> Pour déterminer si une personne dispose de la capacité d’exercer ses droits civils, les notaires ont en outre accès à des données particulièrement dignes de protection dans le domaine des mesures de protection de l’adulte par l’intermédiaire d’une procédure d’appel, mais sans fonctionnalités conformément à l’article 4, alinéa 1, lettre f LFDP.
+<sup>2</sup> Pour déterminer si une personne dispose de la capacité d’exercer ses droits civils, les notaires ont en outre accès à des données sensibles dans le domaine des mesures de protection de l’adulte par l’intermédiaire d’une procédure d’appel, mais sans fonctionnalités conformément à l’article 4, alinéa 1, lettre f LFDP.
 
 <sup>3</sup> Si un ou une notaire utilise des données extraites de fichiers centraux de données personnelles à des fins autres que celles qui lui permettent d’accomplir son activité principale, le droit d’accès peut lui être retiré. Les mesures disciplinaires et de droit pénal sont réservées.
 
