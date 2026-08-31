@@ -4,13 +4,12 @@ number: "861.1"
 title: Loi sur l’aide sociale dans le domaine de l’asile et des réfugiés
 short: LAAR
 language: fr
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2019-12-03
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/861.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3302/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3449/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3302/pdf_file"
 
 (LAAR)
 
-du 03.12.2019 (état au 01.01.2026)
+du 03.12.2019 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -582,7 +581,7 @@ arrête:
 <sup>1</sup> Lorsque l’exercice de la surveillance par le service compétent de la Direction de la santé, des affaires sociales et de l'intégration l’exige, les organismes mandatés et leurs sous-traitants sont tenus
 
 - a de lui fournir des renseignements;
-- b de lui donner accès aux dossiers, en particulier aux documents comptables et, si nécessaire, à des données personnelles particulièrement dignes de protection;
+- b de lui donner accès aux dossiers, en particulier aux documents comptables et, si nécessaire, à des données sensibles;
 - c de lui donner accès aux locaux et aux installations;
 - d de lui remettre les données relatives à l’exploitation, aux prestations et à la qualité nécessaires pour la surveillance et le pilotage;
 - e de prêter l’assistance nécessaire à l’exercice de la surveillance.
@@ -599,17 +598,15 @@ arrête:
 
 **Traitement de données personnelles**
 
-<sup>1</sup> Le traitement des données est régi par les dispositions de la loi du 19 février 1986 sur la protection des données (LCPD)[^46-1]. La présente loi s’applique à titre complémentaire.
+<sup>1</sup> Le traitement des données est régi par les dispositions de la législation sur la protection des données. La présente loi s’applique à titre complémentaire.
 
-<sup>2</sup> Les services chargés d’exécuter la présente loi peuvent traiter des données personnelles, y compris des données particulièrement dignes de protection, concernant les personnes visées à l’article 2, alinéa 1, pour autant que cela soit nécessaire à l’accomplissement des tâches qui leur incombent selon la présente loi.
-
-[^46-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+<sup>2</sup> Les services chargés d’exécuter la présente loi peuvent traiter des données personnelles, y compris des données sensibles, concernant les personnes visées à l’article 2, alinéa 1, pour autant que cela soit nécessaire à l’accomplissement des tâches qui leur incombent selon la présente loi.
 
 #### Art. 47
 
 **Communication**
 
-<sup>1</sup> Les services chargés d’exécuter la présente loi peuvent, au cas par cas, communiquer des données personnelles, y compris des données particulièrement dignes de protection, à des autorités de la Confédération ou d’autres cantons et à d’autres autorités du canton ou des communes, pour autant que cela soit nécessaire à l’accomplissement, par eux-mêmes ou par l’autorité destinataire, de tâches définies dans la présente loi, dans la LASoc ou dans la loi du 9 décembre 2019 portant introduction de la loi fédérale sur l’asile et de la loi fédérale sur les étrangers et l’intégration (Li LFAE)[^47-1].
+<sup>1</sup> Les services chargés d’exécuter la présente loi peuvent, au cas par cas, communiquer des données personnelles, y compris des données sensibles, à des autorités de la Confédération ou d’autres cantons et à d’autres autorités du canton ou des communes, pour autant que cela soit nécessaire à l’accomplissement, par eux-mêmes ou par l’autorité destinataire, de tâches définies dans la présente loi, dans la LASoc ou dans la loi du 9 décembre 2019 portant introduction de la loi fédérale sur l’asile et de la loi fédérale sur les étrangers et l’intégration (Li LFAE)[^47-1].
 
 <sup>2</sup> Les dispositions de la LASoc sur l’obligation de garder le secret, la transmission d’informations à des autorités et à des particuliers ainsi que l’obligation de renseigner sont applicables à l’exécution de l’aide sociale en matière d’asile.
 
@@ -619,7 +616,7 @@ arrête:
 
 **Système**
 
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l'intégration exploite, conjointement avec le service compétent de la Direction de la sécurité, le système de traitement des données nécessaire à l’accomplissement de leurs tâches légales et au contrôle de la gestion de leurs affaires, dans lequel sont traitées les données personnelles, y compris les données particulièrement dignes de protection.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l'intégration exploite, conjointement avec le service compétent de la Direction de la sécurité, le système de traitement des données nécessaire à l’accomplissement de leurs tâches légales et au contrôle de la gestion de leurs affaires, dans lequel sont traitées les données personnelles, y compris les données sensibles.
 
 <sup>2</sup> Il veille à accomplir les tâches qui lui incombent selon la présente loi dans le respect des dispositions cantonales pertinentes sur la sécurité de l’information et la protection des données.
 
@@ -641,7 +638,7 @@ arrête:
 
 <sup>1</sup> Chacun des services chargés d’exécuter la présente loi est responsable de la protection des données dans son domaine respectif.
 
-<sup>2</sup> Le Conseil-exécutif désigne l’autorité à laquelle incombe la responsabilité de veiller à la protection globale des données selon l’article 8, alinéa 2 LCPD.
+<sup>2</sup> Le Conseil-exécutif désigne l’autorité à laquelle incombe la responsabilité de veiller à la protection des données.
 
 #### Art. 52
 

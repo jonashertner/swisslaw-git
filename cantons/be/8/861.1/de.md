@@ -4,13 +4,12 @@ number: "861.1"
 title: Gesetz über die Sozialhilfe im Asyl- und Flüchtlingsbereich
 short: SAFG
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2019-12-03
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/861.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3302/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3302/pdf_file"
 
 (SAFG)
 
-vom 03.12.2019 (Stand 01.01.2026)
+vom 03.12.2019 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -597,11 +596,9 @@ beschliesst:
 
 **Bearbeitung von Personendaten**
 
-<sup>1</sup> Die Datenbearbeitung richtet sich nach den Bestimmungen des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^46-1], ergänzend gilt dieses Gesetz.
+<sup>1</sup> Die Datenbearbeitung richtet sich nach den Bestimmungen der Datenschutzgesetzgebung, ergänzend gilt dieses Gesetz.
 
 <sup>2</sup> Die für den Vollzug dieses Gesetzes zuständigen Stellen können Personendaten, einschliesslich besonders schützenswerter Personendaten, von Personen nach Artikel 2 Absatz 1 bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist.
-
-[^46-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 47
 
@@ -639,7 +636,7 @@ beschliesst:
 
 <sup>1</sup> Jede für den Vollzug dieses Gesetzes zuständige Stelle trägt für ihren Bereich die Verantwortung für den Datenschutz.
 
-<sup>2</sup> Der Regierungsrat bezeichnet die nach Artikel 8 Absatz 2 KDSG insgesamt verantwortliche Behörde.
+<sup>2</sup> Der Regierungsrat bezeichnet die verantwortliche Behörde.
 
 #### Art. 52
 
