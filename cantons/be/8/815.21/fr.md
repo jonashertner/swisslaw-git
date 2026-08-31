@@ -4,13 +4,12 @@ number: "815.21"
 title: "Loi portant introduction de la législation fédérale sur l'enregistrement des maladies oncologiques"
 short: LiLEMO
 language: fr
-version: 2021-03-01
-valid_until: 2026-08-31
-version_adopted: 2020-12-16
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2018-09-06
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2127/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3443/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2127/pdf_file"
 
 (LiLEMO)
 
-du 06.09.2018 (état au 01.03.2021)
+du 06.09.2018 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -67,7 +66,7 @@ arrête:
 <sup>3</sup> L'organe cantonal d'enregistrement du cancer
 
 - a renseigne gratuitement l'autorité de surveillance;
-- b lui permet de consulter les dossiers sans frais en cas de nécessité et nonobstant l'obligation légale de garder le secret, y compris les données personnelles particulièrement dignes de protection;
+- b lui permet de consulter les dossiers sans frais en cas de nécessité et nonobstant l'obligation légale de garder le secret, y compris les données sensibles;
 - c la soutient dans tous les domaines dans la mesure nécessaire pour qu'elle puisse assurer sa fonction de surveillance.
 
 #### Art. 5
