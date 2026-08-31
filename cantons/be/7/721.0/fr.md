@@ -4,13 +4,12 @@ number: "721.0"
 title: "Loi sur les constructions *"
 short: LC
 language: fr
-version: 2023-04-01
-valid_until: 2026-08-31
-version_adopted: 2022-09-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2820/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3495/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2820/pdf_file"
 
 (LC)
 
-du 09.06.1985 (état au 01.04.2023)
+du 09.06.1985 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -691,7 +690,7 @@ arrête:
 
 <sup>4</sup> L’autorité d’octroi du permis de construire autorise, au cas par cas, les services intervenant dans la procédure à accéder au dossier de demande électronique dans la mesure où ils en ont besoin pour l’accomplissement de leurs tâches.
 
-<sup>5</sup> Les services intervenant dans la procédure électronique d’octroi du permis de construire sont habilités à traiter des données personnelles particulièrement dignes de protection.
+<sup>5</sup> Les services intervenant dans la procédure électronique d’octroi du permis de construire sont habilités à traiter des données sensibles.
 
 #### Art. 35
 
@@ -1044,7 +1043,7 @@ arrête:
 - g organiser l'espace de manière à favoriser le développement économique et l'agriculture;
 - h assurer l'accomplissement des tâches incombant aux pouvoirs publics en matière de construction;
 - i veiller à l'utilisation économique de l'énergie;
-- k éviter une surcharge des cours d'eau par les eaux de ruissellement et veiller à ce que l'eau pure puisse s'infiltrer.
+- k éviter une surcharge des cours d'eau par les eaux de ruissellement et veiller à ce que l'eau pure puisse s'infiltrer;
 - l prendre les mesures nécessaires à l’encouragement de l’urbanisation interne tout en préservant une qualité du milieu bâti aussi élevée que possible.
 
 <sup>3</sup> La liberté d'appréciation d'autorités subordonnées, l'autonomie communale et la liberté individuelle en matière de construction ne doivent être restreintes par les mesures prises au titre de l'aménagement du territoire que dans la mesure où l'intérêt général le commande.
@@ -1278,7 +1277,7 @@ arrête:
 - b équipement et mise en valeur de zones destinées à la détente;
 - c remaniement parcellaire de terrains à bâtir et rectification des limites ainsi que libération de servitudes;
 - d mise à disposition de terrains pour la construction d'habitations et maintien de l'espace réservé à l'habitat conformément aux dispositions de la législation spéciale;
-- e soutien de l'application des mesures prises en matière d'équipement et autres sur la base de la planification agricole.
+- e soutien de l'application des mesures prises en matière d'équipement et autres sur la base de la planification agricole;
 - f définition des parties de la zone à bâtir qui se prêtent à une urbanisation interne préservant une qualité du milieu bâti aussi élevée que possible.
 
 #### Art. 64a

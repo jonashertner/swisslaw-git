@@ -4,13 +4,12 @@ number: "721.0"
 title: Baugesetz
 short: BauG
 language: de
-version: 2023-04-01
-valid_until: 2026-08-31
-version_adopted: 2022-09-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2820/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3495/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2820/pdf_file"
 
 (BauG)
 
-vom 09.06.1985 (Stand 01.04.2023)
+vom 09.06.1985 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1045,7 +1044,7 @@ beschliesst:
 - g günstige räumliche Voraussetzungen für die wirtschaftliche Entwicklung und die Landwirtschaft schaffen;
 - h die Durchführung der öffentlichen Bauaufgaben sicherstellen;
 - i auf die sparsame Verwendung von Energie achten;
-- k eine Überlastung der Gewässer mit Oberflächenwasser vermeiden und dafür sorgen, dass sauberes Wasser versickern kann.
+- k eine Überlastung der Gewässer mit Oberflächenwasser vermeiden und dafür sorgen, dass sauberes Wasser versickern kann;
 - l geeignete Massnahmen zur Förderung der Siedlungsentwicklung nach innen unter Wahrung einer möglichst hohen Siedlungsqualität ergreifen.
 
 <sup>3</sup> Der Ermessensspielraum nachgeordneter Behörden, die Autonomie der Gemeinden und die Baufreiheit der Privaten dürfen durch Massnahmen der Raumplanung nur soweit eingeschränkt werden, als es das Gemeinwohl erfordert.
@@ -1279,7 +1278,7 @@ beschliesst:
 - b die Erschliessung und Ausstattung von Erholungsgebieten;
 - c die Baulandumlegung und Grenzregulierung sowie die Ablösung von Dienstbarkeiten;
 - d die Bereitstellung von Wohnbauland und die Erhaltung von Wohnraum nach den Bestimmungen der besonderen Gesetzgebung;
-- e die Unterstützung von Erschliessungs- und weiteren Massnahmen aufgrund der Landwirtschaftsplanung.
+- e die Unterstützung von Erschliessungs- und weiteren Massnahmen aufgrund der Landwirtschaftsplanung;
 - f die Bezeichnung derjenigen Teile der Bauzone, die sich für die Siedlungsentwicklung nach innen unter Wahrung einer möglichst hohen Siedlungsqualität eignen.
 
 #### Art. 64a
