@@ -4,13 +4,12 @@ number: "836.11"
 title: Arbeitsmarktgesetz
 short: AMG
 language: de
-version: 2022-02-01
-valid_until: 2026-08-31
-version_adopted: 2021-06-08
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2003-06-23
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2480/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3444/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2480/pdf_file"
 
 (AMG)
 
-vom 23.06.2003 (Stand 01.02.2022)
+vom 23.06.2003 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -191,7 +190,7 @@ beschliesst:
 - c die Regionale Arbeitsvermittlung und die Arbeitslosenkassen gemäss der Gesetzgebung über die Arbeitslosenversicherung und die Insolvenzentschädigung,
 - d die Schulbehörden gemäss der Volksschul- und der Mittelschulgesetzgebung sowie der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung,
 - e die Berufs-, Studien- und Laufbahnberatungen gemäss der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung,
-- f die zuständigen Stellen gemäss der Gesetzgebung im Ausländerund Asylbereich,
+- f die zuständigen Stellen gemäss der Gesetzgebung im Ausländer- und Asylbereich,
 - g die IV-Stellen gemäss der Gesetzgebung über die Invalidenversicherung,
 - h die Versicherer gemäss der Gesetzgebung über die Unfallversicherung.
 
