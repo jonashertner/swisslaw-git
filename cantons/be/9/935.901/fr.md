@@ -4,13 +4,12 @@ number: "935.901"
 title: "Ordonnance sur l’exercice de la prostitution *"
 short: OEP
 language: fr
-version: 2023-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-21
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2012-12-05
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.901"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2851/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3477/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2851/pdf_file"
 
 (OEP)
 
-du 05.12.2012 (état au 01.08.2023)
+du 05.12.2012 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -189,7 +188,7 @@ arrête:
 - d les indications relatives à des contrôles déjà effectués (date, manquements éventuels constatés, etc.),
 - e les indications relatives à d’autres activités de la personne titulaire et soumises à autorisation en vertu de la LEP.
 
-<sup>2</sup> L’Office des services et des ressources de la Direction de l’intérieur et de la justice est responsable de la protection des données, conformément à l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^9-1].
+<sup>2</sup> L’Office juridique de la Direction de l’intérieur et de la justice est responsable de la protection des données, conformément à l’article 11, alinéa 2 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^9-1].
 
 <sup>3</sup> Le droit d’obtenir des renseignements et de consulter des documents est soumis aux dispositions de la législation relative à la protection des données.
 

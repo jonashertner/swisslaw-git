@@ -4,13 +4,12 @@ number: "935.901"
 title: Prostitutionsgewerbeverordnung
 short: PGV
 language: de
-version: 2023-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-21
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2012-12-05
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.901"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2851/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3477/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2851/pdf_file"
 
 (PGV)
 
-vom 05.12.2012 (Stand 01.08.2023)
+vom 05.12.2012 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -189,7 +188,7 @@ beschliesst:
 - d Angaben über bisherige Kontrollen (Datum, allfällig festgestellte Verfehlungen usw.),
 - e Angaben zu weiteren gemäss dem PGG bewilligungspflichtigen Tätigkeiten der Bewilligungsinhaberin oder des Bewilligungsinhabers.
 
-<sup>2</sup> Das Amt für Dienstleistungen und Ressourcen der Direktion für Inneres und Justiz sorgt im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^9-1] für den Datenschutz.
+<sup>2</sup> Das Rechtsamt der Direktion für Inneres und Justiz sorgt im Sinne von Artikel 11 Absatz 2 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^9-1] für den Datenschutz.
 
 <sup>3</sup> Die Auskunfts- und Einsichtsrechte richten sich nach den Bestimmungen der Datenschutzgesetzgebung.
 
