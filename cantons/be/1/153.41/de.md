@@ -4,13 +4,12 @@ number: "153.41"
 title: Gesetz über die kantonalen Pensionskassen
 short: PKG
 language: de
-version: 2026-06-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-09
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2014-05-18
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.41"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3347/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3347/pdf_file"
 
 (PKG)
 
-vom 18.05.2014 (Stand 01.06.2026)
+vom 18.05.2014 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -424,13 +423,11 @@ beschliesst:
 
 #### Art. 35
 
-<sup>1</sup> Die Bearbeitung von Personendaten richtet sich nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^35-1].
+<sup>1</sup> Die Bearbeitung von Personendaten richtet sich nach der Datenschutzgesetzgebung.
 
 <sup>2</sup> Soweit die Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge datenschutzrechtliche Regelungen trifft, sind diese anzuwenden
 
 <sup>3</sup> Die Arbeitgeber sind berechtigt, der Pensionskasse die erforderlichen Daten in elektronischer Form zu liefern.
-
-[^35-1]: BSG 152.04
 
 ## 8 Kantonale Behörden
 

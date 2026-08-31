@@ -4,13 +4,12 @@ number: "153.41"
 title: Loi sur les caisses de pension cantonales
 short: LCPC
 language: fr
-version: 2026-06-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-09
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2014-05-18
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.41"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3347/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3423/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3347/pdf_file"
 
 (LCPC)
 
-du 18.05.2014 (état au 01.06.2026)
+du 18.05.2014 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -424,13 +423,11 @@ arrête:
 
 #### Art. 35
 
-<sup>1</sup> Le traitement des données est régi par la loi du 19 février 1986 sur la protection des données (LCPD)[^35-1].
+<sup>1</sup> Le traitement des données est régi par la législation sur la protection des données.
 
 <sup>2</sup> Dans la mesure où la législation fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité contient des dispositions ayant trait à la protection des données, celles-ci doivent être appliquées.
 
 <sup>3</sup> Les employeurs sont autorisés à fournir à la caisse de pension les données requises sous forme électronique.
-
-[^35-1]: RSB 152.04
 
 ## 8 Autorités cantonales
 
