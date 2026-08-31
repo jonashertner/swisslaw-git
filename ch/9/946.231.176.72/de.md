@@ -3,27 +3,27 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-08-20
+version: 2026-09-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260820/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260820-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260820/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260901/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260901-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 20. August 2026)
+vom 4. März 2022 (Stand am 1. September 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 184 Absatz 3 der Bundesverfassung[^ingress-1] und auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-2] (EmbG),
+gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
-[^ingress-2]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 
 ## 1. Abschnitt: Begriffe
 
@@ -93,15 +93,15 @@ In dieser Verordnung bedeuten:
 
 **Rüstungsgüter**[^2a-1]
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, nach der Russischen Föderation oder der Ukraine oder zur Verwendung in der Russischen Föderation oder der Ukraine sind verboten.[^2a-2]
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, nach der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.[^2a-2]
 
-<sup>1bis</sup> Die Durchfuhr durch die Russische Föderation oder die Ukraine von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, ist verboten.[^2a-3]
+<sup>1bis</sup> Die Durchfuhr durch die Russische Föderation von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, ist verboten.[^2a-3]
 
 <sup>2</sup> Der Kauf, die Beschaffung, die Einfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, aus oder mit Ursprung in der Russischen Föderation sind verboten.
 
 <sup>3</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, die Gewährung von Finanzmitteln sowie die Bereitstellung und Vermittlung von Versicherungen und Rückversicherungen im Zusammenhang mit dem Kauf, dem Verkauf, der Beschaffung, der Lieferung, der Ein-, Aus- und Durchfuhr, der Herstellung oder der Verwendung von Gütern nach den Absätzen 1 und 2 sind verboten.
 
-<sup>3bis</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Waffen und Munition sowie Bestandteilen, Zubehör und Ersatzteilen dafür oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder der Ukraine oder zur Verwendung in der Russischen Föderation oder der Ukraine sind verboten.[^2a-4]
+<sup>3bis</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Waffen und Munition sowie Bestandteilen, Zubehör und Ersatzteilen dafür oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.[^2a-4]
 
 <sup>4</sup> Die Verbote nach den Absätzen 1–3<sup>bis</sup> gelten nicht für Ersatzteile und Dienstleistungen, die für die Wahrung, Wiederherstellung und Sicherung vorhandener militärischer Fähigkeiten der Schweiz oder eines Mitgliedstaates des Europäischen Wirtschaftsraums (EWR) erforderlich sind.[^2a-5]
 
@@ -111,7 +111,7 @@ In dieser Verordnung bedeuten:
 
 <sup>6</sup> Die Verbote nach den Absätzen 1, 1<sup>bis</sup>, 3 und 3<sup>bis</sup> gelten nicht für Güter und Dienstleistungen, die durch die Organisation für das Verbot chemischer Waffen gemäss Artikel X Absatz 7 des Chemiewaffenübereinkommens vom 13. Januar 1993[^2a-8] bei der Schweiz als Hilfeleistungen angefordert werden.[^2a-9]
 
-<sup>6bis</sup> Die Verbote nach den Absätzen 1, 3 und 3<sup>bis</sup> gelten nicht für Güter, die aus der Schweiz nach einem Staat gemäss Anhang 34 geliefert werden, sofern sie zum Einbau in ein Rüstungsgut bestimmt sind und ihre Herstellungskosten weniger als 50 Prozent der Herstellungskosten des fertigen Rüstungsguts ausmachen.[^2a-10]
+<sup>6bis</sup> …[^2a-10]
 
 <sup>7</sup>
 
@@ -128,15 +128,15 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 - b. Minenräumungsgeräte und Material zur Verwendung bei Minenräumungsaktionen, die ausschliesslich für humanitäre Zwecke bestimmt sind.[^2a-12]
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^2a-2]: In Kraft bis zum 22. Nov. 2026, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)Ziff. III; [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 3).
-[^2a-3]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft vom 29. März 2023 um 20.00 Uhr bis zum 28. März 2027, verlängert bis zum 1. März 2030 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 4).
-[^2a-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^2a-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^2a-3]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^2a-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^2a-5]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-6]: Eingefügt durch Ziff. I der V vom 19. Aug. 2026, in Kraft seit 20. Aug. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^2a-7]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-8]: [SR 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 [^2a-9]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^2a-10]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^2a-10]: Eingefügt durch Ziff. I der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^2a-11]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-12]: Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
@@ -155,7 +155,7 @@ Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zust
 Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern gemäss Anhang 2 der Güterkontrollverordnung vom 3. Juni 2016[^4-1] (GKV):[^4-2]
 
 - a. nach oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^4-3] nach oder zur Verwendung in der Ukraine sind verboten, wenn die Güter ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind;
+- b.[^4-3] …
 - c.[^4-4] an Endempfänger nach Anhang 2 der vorliegenden Verordnung sind verboten.
 
 <sup>1bis</sup> Die Durchfuhr durch die Russische Föderation von Gütern gemäss Anhang 2 GKV ist verboten.[^4-5]
@@ -165,7 +165,7 @@ Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gü
 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, des Transports, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern gemäss Anhang 2 GKV:
 
 - a. nach oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^4-6] nach oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht;
+- b.[^4-6] …
 - c.[^4-7] an Endempfänger nach Anhang 2 der vorliegenden Verordnung sind verboten.
 
 <sup>2bis</sup>
@@ -173,22 +173,22 @@ Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleist
 Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Anhang 2 GKV oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen:
 
 - a. in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^4-8] in der Ukraine oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht;
+- b.[^4-8] …
 - c.[^4-9] an Endempfänger nach Anhang 2 der vorliegenden Verordnung sind verboten.[^4-10]
 
-<sup>3</sup> Das SECO verweigert Bewilligungen für Dienstleistungen nach Absatz 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^4-11]
+<sup>3</sup> …[^4-11]
 
 [^4-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^4-2]: Fassung gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^4-3]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^4-3]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^4-6]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^4-6]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^4-7]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^4-8]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
+[^4-8]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^4-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^4-10]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^4-11]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^4-11]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 
 #### Art. 5
 
@@ -199,7 +199,7 @@ Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder
 Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern nach Anhang 1:
 
 - a. nach der oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^5-1] nach oder zur Verwendung in der Ukraine unterliegen der Bewilligungspflicht;
+- b.[^5-1] …
 - c.[^5-2] an Endempfänger nach Anhang 2 sind verboten.
 
 <sup>1bis</sup> Die Durchfuhr durch die Russische Föderation von Gütern nach Anhang 1 ist verboten.[^5-3]
@@ -211,7 +211,7 @@ Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gü
 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung von Gütern nach Anhang 1:[^5-5]
 
 - a. nach oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^5-6] nach oder zur Verwendung in der Ukraine unterliegen der Bewilligungspflicht;
+- b.[^5-6] …
 - c.[^5-7] an Endempfänger nach Anhang 2 sind verboten.
 
 <sup>2bis</sup>
@@ -219,22 +219,22 @@ Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleist
 Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Anhang 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen:
 
 - a. in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^5-8] in der Ukraine oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht;
+- b.[^5-8] …
 - c.[^5-9] an Endempfänger nach Anhang 2 sind verboten.[^5-10]
 
-<sup>3</sup> Das SECO verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^5-11]
+<sup>3</sup> …[^5-11]
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft vom 25. März 2022 um 23.00 Uhr bis zum 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^5-1]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^5-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-3]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^5-4]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 30. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
 [^5-5]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-6]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^5-6]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^5-7]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^5-8]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
+[^5-8]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^5-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^5-10]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-11]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft vom 25. März 2022 um 23.00 Uhr bis zum 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^5-11]: Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 
 #### Art. 6
 
@@ -252,7 +252,7 @@ Die Verbote und Bewilligungspflichten nach Artikel 4 Absätze 1 und 2–3 sowie 
 
 <sup>1bis</sup> Das Verbot nach den Artikeln 4 Absatz 1<sup>bis</sup> und 5 Absatz 1<sup>bis</sup> gilt nicht für Güter nach Anhang 2 GKV[^6-7] beziehungsweise Anhang 1 der vorliegenden Verordnung, die für Zwecke nach Absatz 1 bestimmt sind.[^6-8]
 
-<sup>1ter</sup> Die Verbote und Bewilligungspflichten nach Artikel 4 Absätze 1 und 2–3 sowie Artikel 5 Absätze 1 und 2–3 gelten nicht für Güter, die aus der Schweiz nach einem Staat gemäss Anhang 34 geliefert werden, sofern sie zum Einbau in ein Gut gemäss Anhang 2 GKV oder Anhang 1 dieser Verordnung bestimmt sind und ihre Herstellungskosten weniger als 50 Prozent der Herstellungskosten des fertigen Gutes ausmachen.[^6-9]
+<sup>1ter</sup> …[^6-9]
 
 <sup>1quater</sup> Nimmt ein Exporteur für einen bestimmten Empfänger in der Russischen Föderation zum ersten Mal die Ausnahmeregelung nach Absatz 1 in Anspruch, so muss er dies in der Zollanmeldung angeben und dem SECO unverzüglich melden.[^6-10]
 
@@ -293,7 +293,7 @@ Das SECO verweigert die Bewilligung von Ausnahmen nach Absatz 2, wenn Grund zur 
 [^6-6]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-7]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 [^6-8]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^6-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^6-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^6-10]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^6-11]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^6-12]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
@@ -385,78 +385,41 @@ Es kann Ausnahmen von den Verboten nach den Absätzen 1, 4 und 5 bewilligen:
 
 **Güter und Technologien der Seeschifffahrt**[^9a-1]
 
-<sup>1</sup>
+<sup>1</sup> Der Verkauf, die Bereitstellung, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern und Technologien der Seeschifffahrt gemäss Anhang 16 nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten.[^9a-2]
 
-Der Verkauf, die Bereitstellung, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern und Technologien der Seeschifffahrt gemäss Anhang 16:[^9a-2]
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern und Technologien nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter und Technologien nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten.[^9a-3]
 
-- a. nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten;
-- b.[^9a-3] nach oder zur Verwendung in der Ukraine oder auf einem Schiff unter der Flagge der Ukraine unterliegen der Bewilligungspflicht.
+<sup>2bis</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.[^9a-4]
 
-<sup>2</sup>
+<sup>3</sup> Die Verbote nach den Absätzen 1 Buchstabe a und 2 Buchstabe a und die Bewilligungspflichten nach den Absätzen 1 Buchstabe b und 2 Buchstabe b gelten nicht für den Verkauf, die Bereitstellung, die Lieferung, die Ausfuhr, den Transport und die Durchfuhr der Güter und Technologien nach Absatz 1 und die Bereitstellung von damit verbundener technischer Hilfe oder Finanzhilfe für nichtmilitärische Zwecke und für nichtmilitärische Endnutzer, wenn die Güter und Technologien für humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder für die Bewältigung von Naturkatastrophen bestimmt sind.[^9a-5]
 
-Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern und Technologien nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter und Technologien:
-
-- a. nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten;
-- b.[^9a-4] nach oder zur Verwendung in der Ukraine oder auf einem Schiff unter der Flagge der Ukraine unterliegen der Bewilligungspflicht.
-
-<sup>2bis</sup>
-
-Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen:
-
-- a. in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^9a-5] in der Ukraine oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht.[^9a-6]
-
-<sup>3</sup> Die Verbote nach den Absätzen 1 Buchstabe a und 2 Buchstabe a und die Bewilligungspflichten nach den Absätzen 1 Buchstabe b und 2 Buchstabe b gelten nicht für den Verkauf, die Bereitstellung, die Lieferung, die Ausfuhr, den Transport und die Durchfuhr der Güter und Technologien nach Absatz 1 und die Bereitstellung von damit verbundener technischer Hilfe oder Finanzhilfe für nichtmilitärische Zwecke und für nichtmilitärische Endnutzer, wenn die Güter und Technologien für humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder für die Bewältigung von Naturkatastrophen bestimmt sind.[^9a-7]
-
-<sup>3bis</sup> Die Verbote und Bewilligungspflichten nach den Absätzen 1–2<sup>bis</sup> und 5 gelten nicht für Güter, die aus der Schweiz nach einem Staat gemäss Anhang 34 geliefert werden, sofern sie zum Einbau in ein Gut gemäss Anhang 16 bestimmt sind und ihre Herstellungskosten weniger als 50 Prozent der Herstellungskosten des fertigen Guts ausmachen.[^9a-8]
+<sup>3bis</sup> …[^9a-6]
 
 <sup>4</sup> Das SECO kann Ausnahmen vom Verbot nach Absatz 1 Buchstabe a und dem Verbot der Bereitstellung von damit verbundener technischer Hilfe und Finanzhilfe für nichtmilitärische Zwecke und für nichtmilitärische Endnutzer bewilligen, wenn die Güter und Technologien nach Absatz 1 oder die damit verbundene technische Hilfe oder Finanzhilfe für die maritime Sicherheit bestimmt sind.
 
-<sup>5</sup> Es verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^9a-9]
+<sup>5</sup> Es verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^9a-7]
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^9a-2]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9a-3]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
-[^9a-4]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
-[^9a-5]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
-[^9a-6]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9a-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9a-3]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9a-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9a-5]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
+[^9a-6]: Eingefügt durch Ziff. I der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 [^9a-7]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
-[^9a-8]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^9a-9]: In Kraft bis 28. Febr. 2026, verlängert bis zum 1. März 2030 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 1).
 
 #### Art. 9b
 
 **Flugturbinenkraftstoffe und Kraftstoffadditive**[^9b-1]
 
-<sup>1</sup>
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Flugturbinenkraftstoffen und Kraftstoffadditiven gemäss Anhang 19 nach oder zur Verwendung in der Russischen Föderation sind verboten.[^9b-2]
 
-Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Flugturbinenkraftstoffen und Kraftstoffadditiven gemäss Anhang 19:
+<sup>1bis</sup> Die Durchfuhr durch die Russische Föderation von Flugturbinenkraftstoffen und Kraftstoffadditiven gemäss Anhang 19 nach oder zur Verwendung in der Russischen Föderation ist verboten.[^9b-3]
 
-- a. nach oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^9b-2] nach oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht.
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung und der Verwendung dieser Güter nach oder zur Verwendung in der Russischen Föderation ist verboten.[^9b-4]
 
-<sup>1bis</sup>
+<sup>2bis</sup> Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.[^9b-5]
 
-Die Durchfuhr durch die Russische Föderation von Flugturbinenkraftstoffen und Kraftstoffadditiven gemäss Anhang 19:
-
-- a. nach oder zur Verwendung in der Russischen Föderation ist verboten;
-- b.[^9b-3] nach oder zur Verwendung in der Ukraine unterliegt einer Bewilligungspflicht.[^9b-4]
-
-<sup>2</sup>
-
-Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung und der Verwendung dieser Güter:
-
-- a. nach oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^9b-5] nach oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht.[^9b-6]
-
-<sup>2bis</sup>
-
-Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen:
-
-- a. in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten;
-- b.[^9b-7] in der Ukraine oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht.[^9b-8]
-
-<sup>2ter</sup> Die Verbote und Bewilligungspflichten nach den Absätzen 1, 2, 2<sup>bis</sup> und 4 gelten nicht für Güter, die aus der Schweiz nach einem Staat gemäss Anhang 34 geliefert werden, sofern sie zur Beimischung in ein Gut gemäss Anhang 19 bestimmt sind und ihre Herstellungskosten unter 50 Prozent der Herstellungskosten des fertigen Gutes ausmachen.[^9b-9]
+<sup>2ter</sup> …[^9b-6]
 
 <sup>3</sup>
 
@@ -464,21 +427,18 @@ Das SECO kann Ausnahmen vom Verbot nach Absatz 1<sup>bis</sup> bewilligen für F
 
 - a. die Herstellung von Titangütern, die in der Luftfahrtindustrie benötigt werden und nicht anders beschafft werden können;
 - b. medizinische, pharmazeutische oder humanitäre Zwecke; oder
-- c. das Verhindern von Kollisionen zwischen Satelliten oder deren unbeabsichtigtes Wiedereintreten in die Atmosphäre.[^9b-10]
+- c. das Verhindern von Kollisionen zwischen Satelliten oder deren unbeabsichtigtes Wiedereintreten in die Atmosphäre.[^9b-7]
 
-<sup>4</sup> Es verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b, 1<sup>bis</sup> Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^9b-11]
+<sup>4</sup> Es verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b, 1<sup>bis</sup> Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.[^9b-8]
 
 [^9b-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-2]: In Kraft bis zum 26. April 2026, verlängert bis zum 1. März 2030 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 2).
-[^9b-3]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
-[^9b-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-5]: In Kraft bis zum 26. April 2026, verlängert bis zum 1. März 2030 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 2).
-[^9b-6]: Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-7]: In Kraft bis zum 15. Aug. 2027, verlängert bis zum 1. März 2030 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452); [2025 779](https://fedlex.data.admin.ch/eli/oc/2025/779)Ziff. I 5).
-[^9b-8]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-9]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^9b-10]: Ursprünglich: Abs. 2<sup>ter</sup>. Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-11]: Ursprünglich: Abs. 3. Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9b-3]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9b-4]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9b-5]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9b-6]: Eingefügt durch Ziff. I der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Aufgehoben durch Ziff. I der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^9b-7]: Ursprünglich: Abs. 2<sup>ter</sup>. Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-8]: Ursprünglich: Abs. 3. Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 10
 
@@ -795,7 +755,7 @@ Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleist
 - a. unter der Flagge der Russischen Föderation registriert ist;
 - b. vom russischen Schifffahrtsregister zertifiziert ist;
 - c. sich im Eigentum von Personen, Organisationen oder Einrichtungen in der Russischen Föderation befindet oder von diesen verwaltet wird;
-- d. und e. …
+- d.und e. …
 
 <sup>3</sup>
 
@@ -4765,83 +4725,7 @@ Anhang 33[^t-41]
 
 Anhang 34[^t-42]
 
-(Art. 2*a* Abs. 6<sup>bis</sup>, 6 Abs. 1<sup>ter</sup>, 9*a* Abs. 3<sup>bis</sup> und 9*b* Abs. 2<sup>ter</sup>)
-
-## Liste der Staaten, nach denen Güter zum Einbau geliefert werden dürfen
-
-[^t-42]: Eingefügt durch Ziff. II Abs. 4 der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 312](https://fedlex.data.admin.ch/eli/oc/2026/312)).
-
-Argentinien
-
-Australien
-
-Belgien
-
-Bulgarien
-
-Dänemark
-
-Deutschland
-
-Estland
-
-Finnland
-
-Frankreich
-
-Griechenland
-
-Irland
-
-Island
-
-Italien
-
-Japan
-
-Kanada
-
-Kroatien
-
-Lettland
-
-Litauen
-
-Luxemburg
-
-Malta
-
-Neuseeland
-
-Niederlande
-
-Norwegen
-
-Österreich
-
-Polen
-
-Portugal
-
-Rumänien
-
-Schweden
-
-Slowakei
-
-Slowenien
-
-Spanien
-
-Tschechien
-
-Ungarn
-
-Vereinigte Staaten
-
-Vereinigtes Königreich
-
-Zypern
+[^t-42]: Eingefügt durch Ziff. II Abs. 4 der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Aufgehoben durch Ziff. II Abs. 2 der V vom 19. Aug. 2026, mit Wirkung seit 1. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 
 Anhang 35[^t-43]
 
