@@ -4,13 +4,12 @@ number: "222.100"
 title: Ordonnance sur les expulsions
 short: Oex
 language: fr
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-02
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2018-11-14
 in_force: 2019-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/222.100"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1975/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3470/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1975/pdf_file"
 
 (Oex)
 
-du 14.11.2018 (état au 01.11.2020)
+du 14.11.2018 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -55,9 +54,7 @@ arrête
 
 <sup>1</sup> Le préfet ou la préfète demande au besoin aux autorités compétentes les données nécessaires à l’analyse de la situation et en particulier à l’appréciation du danger potentiel.
 
-<sup>2</sup> La communication des données est régie par les dispositions de la loi du 19 février 1986 sur la protection des données (LCPD)[^3-1].
-
-[^3-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+<sup>2</sup> La communication des données est régie par les dispositions de la législation cantonale sur la protection des données.
 
 ## 2 Exécution de l'expulsion
 

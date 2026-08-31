@@ -4,13 +4,12 @@ number: "222.100"
 title: Exmissionsverordnung
 short: ExmV
 language: de
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-02
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2018-11-14
 in_force: 2019-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/222.100"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1975/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1975/pdf_file"
 
 (ExmV)
 
-vom 14.11.2018 (Stand 01.11.2020)
+vom 14.11.2018 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -55,9 +54,7 @@ beschliesst:
 
 <sup>1</sup> Zur Abklärung der Verhältnisse und insbesondere des Gefahrenpotentials erhebt die Regierungsstatthalterin oder der Regierungsstatthalterin, falls erforderlich, die hierzu notwendigen Daten bei den zuständigen Behörden.
 
-<sup>2</sup> Die Datenbekanntgabe richtet sich nach den Bestimmungen des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^3-1].
-
-[^3-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+<sup>2</sup> Die Datenbekanntgabe richtet sich nach den Bestimmungen der kantonalen Datenschutzgesetzgebung.
 
 ## 2 Durchführung der Exmission
 
