@@ -4,13 +4,12 @@ number: "10"
 title: Stimmrechtsgesetz
 short: StRG
 language: de
-version: 2025-06-01
-valid_until: 2026-08-31
-version_adopted: 2024-10-21
+version: 2026-09-01
+version_adopted: 2026-06-22
 adopted: 1988-10-25
 in_force: 1989-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/10"
-pdf: "https://srl.lu.ch/api/de/versions/4870/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4886/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4870/pdf_file"
 
 (StRG)
 
-vom 25.10.1988 (Stand 01.06.2025)
+vom 25.10.1988 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -58,7 +57,7 @@ beschliesst:
 - i. Kandidatenlisten: Wahlzettel mit vorgedruckten Kandidatennamen im Urnenverfahren (§ 33 Absätze 3 und 4),
 - k. Gemeindebehörde: Gemeinderat, Stadtrat, Kirchenrat oder Korporationsrat.
 
-<sup>2</sup> Soweit im vorliegenden Gesetz für Personenbezeichnungen die männliche Form gewählt wird, ist auch die weibliche miteingeschlossen.
+<sup>2</sup> …
 
 [^2-1]: SRL Nr. [1](https://srl.lu.ch/data/1/de). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
 [^2-2]: SRL Nr. [150](https://srl.lu.ch/data/150/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
@@ -85,7 +84,7 @@ beschliesst:
 
 <sup>2</sup> ...
 
-<sup>3</sup> Die Kirchgemeinden können für ihre Angelegenheiten die Stimmfähigkeit auch auf Ausländer ausdehnen.
+<sup>3</sup> Die Kirchgemeinden können für ihre Angelegenheiten die Stimmfähigkeit auch auf Ausländerinnen und Ausländer ausdehnen.
 
 <sup>4</sup> Von der Stimmfähigkeit ist nur ausgeschlossen, wer wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht oder durch eine vorsorgebeauftragte Person vertreten wird.
 
@@ -93,14 +92,14 @@ beschliesst:
 
 **Politischer Wohnsitz**
 
-<sup>1</sup> Der Stimmfähige hat seinen politischen Wohnsitz in der Gemeinde, wo er wohnt und nach den Vorschriften des Niederlassungsgesetzes[^5-1] seit mindestens 5 Tagen angemeldet ist. Fahrende haben den politischen Wohnsitz in ihrer Heimatgemeinde.
+<sup>1</sup> Die stimmfähige Person hat ihren politischen Wohnsitz in der Gemeinde, in der sie wohnt und nach den Vorschriften des Niederlassungsgesetzes[^5-1] seit mindestens 5 Tagen angemeldet ist. Fahrende haben den politischen Wohnsitz in ihrer Heimatgemeinde.
 
-<sup>2</sup> Wer bei der Anmeldung anstelle des Heimatscheins einen andern Ausweis (Interims-ausweis, Heimatausweis) hinterlegt, erwirbt politischen Wohnsitz nur, wenn er es verlangt und nachweist, dass er am Ort, wo der Heimatschein hinterlegt ist, im Stimmregister nicht eingetragen ist.
+<sup>2</sup> Wer bei der Anmeldung anstelle des Heimatscheins einen anderen Ausweis (Interimsausweis, Heimatausweis) hinterlegt, erwirbt politischen Wohnsitz nur, wenn er oder sie es verlangt und nachweist, dass am Ort, wo der Heimatschein hinterlegt ist, keine Eintragung ins Stimmregister vorliegt.
 
 <sup>3</sup> Politischen Wohnsitz nach Absatz 2 können namentlich begründen
 
-- a. Ehepartner und in eingetragener Partnerschaft lebende Personen,
-- b. Studenten,
+- a. verheiratete und in eingetragener Partnerschaft lebende Personen,
+- b. Studierende,
 - c. Personen, die unter umfassender Beistandschaft stehen.
 
 [^5-1]: SRL Nr. [5](https://srl.lu.ch/data/5/de)
@@ -109,22 +108,22 @@ beschliesst:
 
 **Wohnsitzwechsel vor kantonalen Wahlen und Abstimmungen**
 
-<sup>1</sup> Wer während der letzten vier Wochen vor einem kantonalen Urnengang den politischen Wohnsitz innerhalb des Kantons wechselt, erhält am neuen Wohnsitz das Stimmmaterial für diesen Urnengang nur gegen den Nachweis, dass er das Stimmrecht nicht bereits am bisherigen politischen Wohnsitz ausgeübt hat.
+<sup>1</sup> Wer während der letzten vier Wochen vor einem kantonalen Urnengang den politischen Wohnsitz innerhalb des Kantons wechselt, erhält am neuen Wohnsitz das Stimmmaterial für diesen Urnengang nur gegen den Nachweis, das Stimmrecht nicht bereits am bisherigen politischen Wohnsitz ausgeübt zu haben.
 
 #### § 7
 
 **Stimmberechtigung in der Korporation[^7-1]**
 
-<sup>1</sup> In der Personalkorporationsgemeinde sind die Korporationsbürger stimmberechtigt, die in der Einwohnergemeinde stimmberechtigt sind.
+<sup>1</sup> In der Personalkorporationsgemeinde sind die Korporationsbürgerinnen und Korporationsbürger stimmberechtigt, die in der Einwohnergemeinde stimmberechtigt sind.
 
 <sup>2</sup> In der Realkorporationsgemeinde ist, unter Vorbehalt abweichender Vorschriften des Korporationsreglements, mit jedem ganzen oder geteilten Realrecht ein Stimmrecht verbunden.
 
 <sup>3</sup> Für die Ausübung der Stimmrechte in der Realkorporationsgemeinde gelten, wenn das Korporationsreglement nichts anderes vorschreibt, folgende Vorschriften:
 
 - a. Wer stimmfähig ist und in der Schweiz politischen Wohnsitz hat, übt seine Stimmrechte persönlich aus.
-- b. Wer minderjährig ist oder wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht, wird durch den Inhaber der elterlichen Sorge oder den Beistand vertreten. Ist dieser in eidgenössischen Angelegenheiten nicht stimmberechtigt, kann er einen Vertreter bevollmächtigen.
-- c. Handlungsfähige natürliche Personen, die in eidgenössischen Angelegenheiten nicht stimmberechtigt sind, Personengesellschaften, juristische Personen, Miteigentümer und Gesamteigentümer üben ihre Stimmrechte durch einen bevollmächtigten Vertreter aus.
-- d. Bevollmächtigte Vertreter müssen in eidgenössischen Angelegenheiten stimmberechtigt sein und sich durch eine schriftliche Vollmacht ausweisen.
+- b. Wer minderjährig ist oder wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht, wird durch die sorgeberechtigte Person oder die Beistandsperson vertreten. Ist diese in eidgenössischen Angelegenheiten nicht stimmberechtigt, kann sie eine Vertretung bevollmächtigen.
+- c. Handlungsfähige natürliche Personen, die in eidgenössischen Angelegenheiten nicht stimmberechtigt sind, Personengesellschaften, juristische Personen, Miteigentümerinnen und Miteigentümer sowie Gesamteigentümerinnen und Gesamteigentümer üben ihre Stimmrechte durch eine bevollmächtigte Vertretung aus.
+- d. Wer zur Vertretung bevollmächtigt wurde, muss in eidgenössischen Angelegenheiten stimmberechtigt sein und sich durch eine schriftliche Vollmacht ausweisen.
 
 <sup>4</sup> In der gemischten Korporation gelten für die Personalberechtigten Absatz 1 und für die Realberechtigten die Absätze 2 und 3.
 
@@ -138,15 +137,15 @@ beschliesst:
 
 **Inhalt**
 
-<sup>1</sup> In das Stimmregister der Einwohnergemeinde werden alle Einwohner eingetragen, die in Angelegenheiten der Einwohnergemeinde, des Kantons und des Bundes stimmberechtigt sind.
+<sup>1</sup> In das Stimmregister der Einwohnergemeinde werden alle Einwohnerinnen und Einwohner eingetragen, die in Angelegenheiten der Einwohnergemeinde, des Kantons und des Bundes stimmberechtigt sind.
 
 <sup>2</sup> In die Stimmregister der andern Gemeinden werden ihre eigenen Stimmberechtigten eingetragen.
 
 #### § 9
 
-**Stimmregisterführer**
+**Stimmregisterführer und Stimmregisterführerin**
 
-<sup>1</sup> Stimmregisterführer ist der Gemeindeschreiber oder eine von der Gemeinde bezeichnete Fachperson der Gemeindeverwaltung.
+<sup>1</sup> Der Gemeindeschreiber oder die Gemeindeschreiberin oder eine von der Gemeinde bezeichnete Fachperson der Gemeindeverwaltung führt das Stimmregister.
 
 <sup>2</sup> Die Gemeinde regelt die Stellvertretung.
 
@@ -154,7 +153,7 @@ beschliesst:
 
 **Führung der Stimmregister**
 
-<sup>1</sup> Der Stimmregisterführer hat das Stimmregister zu erstellen und von Amtes wegen alle Änderungen fortlaufend nachzutragen.
+<sup>1</sup> Der Stimmregisterführer oder die Stimmregisterführerin hat das Stimmregister zu erstellen und von Amtes wegen alle Änderungen fortlaufend nachzutragen.
 
 <sup>2</sup> Grundlage für die Führung der Stimmregister ist die Einwohnerkontrolle.
 
@@ -166,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Die stimmberechtigten Gemeindeangehörigen können das unbearbeitete Stimmregister einsehen.
 
-<sup>2</sup> Sie können vom Stimmregisterführer Auskunft verlangen, ob sie im Stimmregister eingetragen sind.
+<sup>2</sup> Sie können beim Stimmregisterführer oder bei der Stimmregisterführerin Auskunft verlangen, ob sie im Stimmregister eingetragen sind.
 
 <sup>3</sup> Das bei der Wahl oder Abstimmung bearbeitete Stimmregister oder eine Abschrift davon kann nicht eingesehen werden.
 
@@ -174,11 +173,11 @@ beschliesst:
 
 **Stimmrechtsgesuche und Stimmrechtsentscheide**
 
-<sup>1</sup> Wer geltend macht, er sei im Stimmregister zu Unrecht nicht eingetragen, kann beim Stimmregisterführer durch Stimmrechtsgesuch seine Eintragung verlangen.
+<sup>1</sup> Wer geltend macht, im Stimmregister zu Unrecht nicht eingetragen zu sein, kann beim Stimmregisterführer oder bei der Stimmregisterführerin durch Stimmrechtsgesuch eine Eintragung verlangen.
 
-<sup>2</sup> Die Stimmberechtigten und die in der Gemeinde organisierten politischen Parteien können beim Stimmregisterführer durch Stimmrechtsgesuch Eintragung oder Streichung beantragen.
+<sup>2</sup> Die Stimmberechtigten und die in der Gemeinde organisierten politischen Parteien können beim Stimmregisterführer oder bei der Stimmregisterführerin durch Stimmrechtsgesuch Eintragung oder Streichung beantragen.
 
-<sup>3</sup> Entspricht der Stimmregisterführer einem Stimmrechtsgesuch nicht, teilt er es dem Gesuchsteller schriftlich mit. Die Mitteilung enthält eine summarische Begründung und den Hinweis, dass der Gesuchsteller innert drei Tagen bei der Gemeindebehörde einen Stimmrechtsentscheid verlangen kann.
+<sup>3</sup> Kann einem Stimmrechtsgesuch nicht entsprochen werden, teilt der Stimmregisterführer oder die Stimmregisterführerin dies der gesuchstellenden Person schriftlich mit. Die Mitteilung enthält eine summarische Begründung und den Hinweis, dass innert drei Tagen bei der Gemeindebehörde ein Stimmrechtsentscheid verlangt werden kann.
 
 <sup>4</sup> Wird ein Stimmrechtsentscheid verlangt, entscheidet die Gemeindebehörde über das Stimmrechtsgesuch in einem raschen Verfahren.
 
@@ -186,12 +185,12 @@ beschliesst:
 
 **Abschriften**
 
-<sup>1</sup> Beim Stimmregisterführer können eine Abschrift des Stimmregisters beziehen
+<sup>1</sup> Beim Stimmregisterführer oder bei der Stimmregisterführerin können eine Abschrift des Stimmregisters beziehen
 
 - a. jeweils im Januar die in der Gemeinde organisierten politischen Parteien,
 - b. vor einer Wahl die in der Gemeinde organisierten politischen Parteien,
-- c. vor einer Gemeindewahl der Vertreter der Unterzeichner eines Wahlvorschlages,
-- d. der Vertreter der Unterzeichner eines Wahlvorschlags vor der Wahl der folgenden Behörden: Kantonsrat[^13-1], Regierungsrat, Nationalrat und Ständerat.
+- c. vor einer Gemeindewahl die Vertretung der Unterzeichnenden eines Wahlvorschlags,
+- d. die Vertretung der Unterzeichnenden eines Wahlvorschlags vor der Wahl der folgenden Behörden: Kantonsrat[^13-1], Regierungsrat, Nationalrat und Ständerat.
 
 [^13-1]: Gemäss Änderung vom 28. April 2008, in Kraft seit dem 1. August 2008 (G 2008 256), wurde in den §§ 13, 94, 154, 157, 158 und 167 die Bezeichnung «Grosser Rat» durch «Kantonsrat» ersetzt.
 
@@ -209,7 +208,7 @@ beschliesst:
 
 <sup>1</sup> Vor einer Wahl oder Abstimmung im Urnen- oder Versammlungsverfahren sind Eintragungen in das Stimmregister bis zum fünften Tag vor dem Wahl- oder Abstimmungstag vorzunehmen, wenn feststeht, dass die Voraussetzungen zur Teilnahme am Abstimmungstag erfüllt sind.
 
-<sup>2</sup> Das abgeschlossene Stimmregister hält die Gesamtzahl der Stimmberechtigten fest. Es ist vom Stimmregisterführer zu unterzeichnen.
+<sup>2</sup> Das abgeschlossene Stimmregister hält die Gesamtzahl der Stimmberechtigten fest. Es ist vom Stimmregisterführer oder von der Stimmregisterführerin zu unterzeichnen.
 
 #### § 16
 
@@ -217,7 +216,7 @@ beschliesst:
 
 <sup>1</sup> Die folgenden Änderungen im Stimmregister haben für die betreffende Wahl oder Abstimmung Geltung, auch wenn sie erst nach Abschluss des Stimmregisters vorzunehmen sind:
 
-- a. Streichungen, sofern der Stimmberechtigte das Stimmrecht noch nicht ausgeübt hat und im Stimmregister zu streichen ist wegen
+- a. Streichungen, sofern die stimmberechtigte Person das Stimmrecht noch nicht ausgeübt hat und im Stimmregister zu streichen ist wegen
   - 1\. Tod,
   - 2\. rechtskräftiger Errichtung einer umfassenden Beistandschaft wegen dauernder Urteilsunfähigkeit (Art. 398 ZGB[^16-1]) oder
   - 3\. nachgewiesener Aufgabe des politischen Wohnsitzes; vorbehalten bleibt § 6.
@@ -273,6 +272,8 @@ beschliesst:
 
 <sup>3</sup> Die Urnenlokale sind so einzurichten, dass die Stimmenden die Stimm- und Wahlzettel unter Wahrung des Stimmgeheimnisses ausfüllen können.
 
+<sup>4</sup> Gemeindeversammlungen können auch an anderen geeigneten Orten durchgeführt werden.
+
 #### § 21
 
 **Öffentliche Bekanntmachungen**
@@ -291,7 +292,11 @@ beschliesst:
 
 <sup>1</sup> Bei Gemeindeabstimmungen sind die Stimmberechtigten befugt, während zweier Wochen vor dem Abstimmungstag die der Abstimmungsvorlage zugrunde liegenden Akten (Pläne, Gutachten, Verträge und dergleichen) einzusehen, soweit die Wahrung des Amtsgeheimnisses es zulässt.
 
-<sup>2</sup> Um die Bevölkerung der Gemeinde über Gemeindegeschäfte zu informieren, kann die Gemeinde Orientierungsversammlungen abhalten.
+<sup>2</sup> Um die Bevölkerung der Gemeinde über Gemeindegeschäfte zu informieren, kann die Gemeinde Orientierungsversammlungen abhalten. § 103 ist sinngemäss anwendbar.
+
+<sup>3</sup> Orientierungsversammlungen können live mit Bild und Ton ins Internet übertragen werden. Dabei sind die Bestimmungen der kantonalen Datenschutzgesetzgebung zu beachten.
+
+<sup>4</sup> Werden Orientierungsversammlungen aufgezeichnet, können sie bis zur Urnenabstimmung im Internet zur Einsicht bereitgestellt werden. Die Bestimmungen der kantonalen Datenschutzgesetzgebung sind dabei zu beachten. Nach rechtsverbindlicher Feststellung des Wahl- und Abstimmungsergebnisses sind die Aufnahmen zu löschen.
 
 ### 3.2 Anordnung der Wahlen und Abstimmungen
 
@@ -336,7 +341,7 @@ beschliesst:
 
 <sup>2</sup> Spätestens am 16. Tag vor dem Abstimmungstag geben die Gemeinden zusätzlich die Urnenzeiten und Urnenlokale oder den Ort und Beginn der Gemeindeversammlung bekannt.
 
-<sup>3</sup> Mit der Wahl von Mitgliedern einer Kollegialbehörde ist auf den gleichen Abstimmungstag die den Stimmberechtigten zustehende Ämterverteilung (Wahl des Präsidenten usw.) anzuordnen.
+<sup>3</sup> Mit der Wahl von Mitgliedern einer Kollegialbehörde ist auf den gleichen Abstimmungstag die den Stimmberechtigten zustehende Ämterverteilung (Wahl des Präsidiums usw.) anzuordnen.
 
 #### § 25
 
@@ -365,7 +370,7 @@ beschliesst:
 
 <sup>2</sup> Die gültigen Wahlvorschläge bilden die Grundlage für eine stille Wahl und, falls diese nicht zulässig ist oder nicht zustande kommt, für den Druck der Kandidatenlisten.
 
-<sup>3</sup> Vorbehalten bleiben die besondern Vorschriften für die Verhältniswahlen (§ 97).
+<sup>3</sup> Das Justiz- und Sicherheitsdepartement legt die Mindestangaben für die Wahlvorschläge fest.
 
 #### § 27
 
@@ -377,19 +382,19 @@ beschliesst:
 
 <sup>3</sup> Der Wahlvorschlag darf eine geeignete Bezeichnung tragen, die ihn von den andern Wahlvorschlägen unterscheidet.
 
-<sup>4</sup> Der gleiche Kandidat kann für die Mehrheitswahl auf mehreren Wahlvorschlägen aufgeführt werden, auf dem gleichen Wahlvorschlag jedoch nur einmal.
+<sup>4</sup> …
 
-<sup>5</sup> Wer sich bei einer Mehrheitswahl mit einem Wahlvorschlag einverstanden erklärt, kann ohne neue Zustimmungserklärung auf anderen Wahlvorschlägen aufgeführt werden.
+<sup>5</sup> …
 
 #### § 28
 
-**Unterzeichner, Vertreter**
+**Unterzeichnung, Vertretung**
 
 <sup>1</sup> Bei kantonalen Wahlen sind die Wahlvorschläge durch 30 Stimmberechtigte zu unterzeichnen. Bei Gemeindewahlen genügen 10 oder, wenn die Gemeinde nicht mehr als 200 Stimmberechtigte zählt, 5 Unterschriften.
 
-<sup>2</sup> Jeder Stimmberechtigte kann nur einen Wahlvorschlag unterzeichnen. Er kann seine Unterschrift nach Einreichung des Wahlvorschlags nicht mehr zurückziehen.
+<sup>2</sup> Jede stimmberechtigte Person kann nur einen Wahlvorschlag unterzeichnen. Sie kann ihre Unterschrift nach Einreichung des Wahlvorschlags nicht mehr zurückziehen.
 
-<sup>3</sup> Die Unterzeichner bezeichnen für den Verkehr mit den zuständigen Amtsstellen einen Vertreter und einen Stellvertreter. Geschieht dies nicht, gilt der erste Unterzeichner als Vertreter und der zweite als Stellvertreter.
+<sup>3</sup> Die Unterzeichnenden bezeichnen für den Verkehr mit den zuständigen Amtsstellen eine Vertretung und deren Stellvertretung. Geschieht dies nicht, gilt die erstunterzeichnende Person als Vertretung und die zweitunterzeichnende als deren Stellvertretung.
 
 #### § 29
 
@@ -404,13 +409,13 @@ beschliesst:
 
 <sup>3</sup> Für die Mehrheitswahlen, die gleichzeitig mit Verhältniswahlen durchgeführt werden, bestimmt die Behörde in der Anordnung die Einreichungsfrist.
 
-<sup>4</sup> Die Einreichungsstelle vermerkt auf jedem Wahlvorschlag den Zeitpunkt des Eintreffens und bestätigt ihn dem Absender oder Überbringer.
+<sup>4</sup> Die Einreichungsstelle vermerkt auf jedem Wahlvorschlag den Zeitpunkt des Eintreffens und bestätigt ihn der Person, die ihn abgeschickt oder überbracht hat.
 
 #### § 30
 
 **Einsicht**
 
-<sup>1</sup> Die Stimmberechtigten können bei der Einreichungsstelle die eingereichten Wahlvorschläge und die Namen der Unterzeichner einsehen.
+<sup>1</sup> Die Stimmberechtigten können bei der Einreichungsstelle die eingereichten Wahlvorschläge und die Namen der Unterzeichnenden einsehen.
 
 #### § 31
 
@@ -425,9 +430,9 @@ beschliesst:
 
 <sup>3</sup> Die Behörde streicht die Namen von Vorgeschlagenen, wenn ein Ungültigkeitsgrund nach § 74 gegeben ist oder wenn bei Mehrheitswahlen eine Annahmeerklärung nicht vorliegt.
 
-<sup>4</sup> Gibt die Bezeichnung des Wahlvorschlages zu Verwechslungen Anlass oder weist sie andere Mängel auf, setzt die Behörde dem Vertreter eine kurze Frist zur Behebung des Mangels. Wird der Mangel nicht fristgemäss behoben, erklärt die Behörde den Wahlvorschlag als ungültig.
+<sup>4</sup> Gibt die Bezeichnung des Wahlvorschlages zu Verwechslungen Anlass oder weist sie andere Mängel auf, setzt die Behörde der Vertretung eine kurze Frist zur Behebung des Mangels. Wird der Mangel nicht fristgemäss behoben, erklärt die Behörde den Wahlvorschlag als ungültig.
 
-<sup>5</sup> Die Bereinigung wird am Donnerstag nach Einreichung der Wahlvorschläge um 12 Uhr abgeschlossen.
+<sup>5</sup> Die Bereinigung wird eine Woche nach Ablauf der Einreichungsfrist für die Wahlvorschläge um 12 Uhr abgeschlossen.
 
 ### 4.1.2 Inhalt und Beschaffenheit der Stimm- und Wahlzettel
 
@@ -454,16 +459,23 @@ beschliesst:
 - b. Art und Gegenstand der Wahl,
 - c. Abstimmungstag.
 
-<sup>2</sup> Die Blankoliste enthält überdies die erforderlichen Zeilen für das Eintragen so vieler Kandidaten, als zu wählen sind.
+<sup>2</sup> Die Blankoliste enthält überdies leere Linien in der Anzahl der Sitze, die zu verteilen sind.
 
-<sup>3</sup> Die Kandidatenliste für Mehrheitswahlen enthält überdies den Namen mindestens eines wählbaren Kandidaten.
+<sup>3</sup> Die Kandidatenliste für Mehrheitswahlen enthält:
+
+- a. die auf den gültigen Wahlvorschlägen aufgeführten Namen jeweils alphabetisch in folgender Reihenfolge:
+  - 1\. bisherige Mitglieder der Behörde,
+  - 2\. Kandidierende für Parteien, die bereits im Kantonsrat vertreten sind,
+  - 3\. übrige Kandidierende,
+- b. leere Linien in der Anzahl der Sitze, die zu verteilen sind,
+- c. ein Kästchen zum Ankreuzen neben jedem Namen und jeder leeren Linie.
 
 <sup>4</sup> Die Kandidatenliste für Verhältniswahlen enthält überdies die Kandidatennamen einer amtlich veröffentlichten Wahlliste.
 
-<sup>5</sup> In den Kandidatenlisten dürfen zusätzlich zum Familien- und Vornamen der Kandidaten nur noch angegeben werden
+<sup>5</sup> In den Kandidatenlisten dürfen nur angegeben werden
 
-- a. der Rufname des Kandidaten und, soweit notwendig, weitere Angaben zur Vermeidung von Verwechslungen,
-- b. Beruf und Wohnort der Kandidaten,
+- a. der Name und Vorname der Kandidierenden, anstelle des Vornamens auch der Rufname,
+- b. Beruf und Wohnort der Kandidierenden und, soweit notwendig, weitere Angaben zur Vermeidung von Verwechslungen,
 - c. bei Wiederwahl «bisher» und bei erstmaliger Wahl «neu»,
 - d. die Urheber des Wahlvorschlags oder der Wahlliste.
 
@@ -493,15 +505,19 @@ beschliesst:
 
 **Kantonale Wahlen und Abstimmungen**
 
-<sup>1</sup> Bei kantonalen Wahlen und Abstimmungen erhalten die Stimmberechtigten spätestens drei Wochen vor dem Abstimmungstag einen Stimmrechtsausweis sowie für die briefliche Stimmabgabe ein amtliches Stimm- und Wahlkuvert[^37-1] und ein Rücksendekuvert.
+<sup>1</sup> Bei kantonalen Wahlen und Abstimmungen erhalten die Stimmberechtigten spätestens drei Wochen vor dem Abstimmungstag einen Stimmrechtsausweis und mindestens einen Stimm- oder Wahlzettel sowie für die briefliche Stimmabgabe ein amtliches Stimm- und Wahlkuvert[^37-1] und ein Rücksendekuvert.
 
-<sup>2</sup> Bei kantonalen Abstimmungen erhalten die Stimmberechtigten spätestens drei Wochen vor dem Abstimmungstag zusätzlich
+<sup>2</sup> Bei kantonalen Abstimmungen erhalten die Stimmberechtigten spätestens drei Wochen vor dem Abstimmungstag zusätzlich einen erläuternden Bericht des Regierungsrates,
 
-- a. die Abstimmungsvorlage,
-- b. den Stimmzettel,
-- c. einen erläuternden Bericht des Regierungsrates, worin auch die Standpunkte beachtlicher Minderheiten des Kantonsrates, der Initiativ- oder Referendumskomitees sowie der Vertretung der referendumsführenden Gemeinden darzustellen sind.
+- a. der mit den wesentlichen Informationen über die Abstimmungsvorlage die Willensbildung der Stimmberechtigten über die Vorlage ermöglicht,
+- b. worin auch die Standpunkte beachtlicher Minderheiten des Kantonsrates, der Initiativ- oder Referendumskomitees sowie der Vertretung der referendumsführenden Gemeinden angemessen darzustellen sind,
+- c. der auf allfällige weitere ausführende Informationen und Unterlagen auf einer Internetseite des Kantons verweist.
 
-<sup>3</sup> Bei kantonalen Wahlen erhalten die Stimmberechtigten spätestens drei Wochen vor dem Abstimmungstag zusätzlich eine Blankoliste und alle Kandidatenlisten aufgrund der gültigen Wahlvorschläge.
+<sup>3</sup> Bei kantonalen Wahlen erhalten die Stimmberechtigten spätestens drei Wochen vor dem Abstimmungstag zusätzlich
+
+- a. eine Wahlanleitung,
+- b. bei Verhältniswahlen: eine Blankoliste und alle Kandidatenlisten aufgrund der gültigen Wahlvorschläge,
+- c. bei Mehrheitswahlen: eine Kandidatenliste aufgrund der gültigen Wahlvorschläge. Sind keine Wahlvorschläge eingegangen, erhalten sie eine Blankoliste.
 
 <sup>4</sup> Das Justiz- und Sicherheitsdepartement liefert den Gemeinden auf Kosten des Kantons die Abstimmungs- und Wahlunterlagen. Die Gemeinden haben diese den Stimmberechtigten rechtzeitig zuzustellen.
 
@@ -515,15 +531,19 @@ beschliesst:
 
 **Gemeindeabstimmungen**
 
-<sup>1</sup> Bei Gemeindewahlen und -abstimmungen im Urnenverfahren erhalten die Stimmberechtigten der Gemeinden spätestens drei Wochen vor dem Abstimmungstag einen Stimmrechtsausweis sowie für die briefliche Stimmabgabe ein amtliches Stimm- und Wahlkuvert und ein Rücksendekuvert.
+<sup>1</sup> Bei Gemeindewahlen und -abstimmungen im Urnenverfahren erhalten die Stimmberechtigten der Gemeinden spätestens drei Wochen vor dem Abstimmungstag einen Stimmrechtsausweis und mindestens einen Stimm- oder Wahlzettel sowie für die briefliche Stimmabgabe ein amtliches Stimm- und Wahlkuvert und ein Rücksendekuvert.
 
-<sup>2</sup> Bei Gemeindeabstimmungen im Urnenverfahren erhalten die Stimmberechtigten der Gemeinde spätestens drei Wochen vor dem Abstimmungstag zusätzlich
+<sup>2</sup> Bei Gemeindeabstimmungen im Urnenverfahren erhalten die Stimmberechtigten der Gemeinde spätestens drei Wochen vor dem Abstimmungstag zusätzlich einen erläuternden Bericht der Gemeindebehörde,
 
-- a. die Abstimmungsvorlage, vom Jahresbericht mit der Jahresrechnung und vom Budget jedoch nur einen Auszug,
-- b. den Stimmzettel,
-- c. einen erläuternden Bericht der Gemeindebehörde, worin auch die Standpunkte beachtlicher Minderheiten des Gemeindeparlamentes sowie eines Initiativ- oder Referendumskomitees angemessen darzustellen sind.
+- a. der mit den wesentlichen Informationen über die Abstimmungsvorlage die Willensbildung der Stimmberechtigten über die Vorlage ermöglicht,
+- b. worin auch die Standpunkte beachtlicher Minderheiten des Gemeindeparlamentes sowie eines Initiativ- oder Referendumskomitees angemessen darzustellen sind.
+- c. der auf allfällige weitere ausführende Informationen und Unterlagen auf einer Internetseite der Gemeinde verweist.
 
-<sup>3</sup> Bei Gemeindewahlen im Urnenverfahren erhalten die Stimmberechtigten der Gemeinde spätestens drei Wochen vor dem Abstimmungstag zusätzlich eine Blankoliste und alle Kandidatenlisten aufgrund der gültigen Wahlvorschläge.
+<sup>3</sup> Bei Gemeindewahlen im Urnenverfahren erhalten die Stimmberechtigten der Gemeinde spätestens drei Wochen vor dem Abstimmungstag zusätzlich
+
+- a. eine Wahlanleitung,
+- b. bei Verhältniswahlen: eine Blankoliste und alle Kandidatenlisten aufgrund der gültigen Wahlvorschläge,
+- c. bei Mehrheitswahlen: eine Kandidatenliste aufgrund der gültigen Wahlvorschläge. Sind keine Wahlvorschläge eingegangen, erhalten sie eine Blankoliste.
 
 <sup>4</sup> Die Gemeinden beschaffen die Abstimmungsunterlagen für ihre Abstimmungen auf eigene Kosten.
 
@@ -549,13 +569,7 @@ beschliesst:
 
 #### § 41
 
-**Nichtamtliche Kandidatenlisten**
-
-<sup>1</sup> Kandidatenlisten für Mehrheitswahlen können auch von privater Seite herausgegeben werden.
-
-<sup>2</sup> Die Bestimmungen des § 33 gelten sinngemäss.
-
-<sup>3</sup> Die nichtamtlichen Kandidatenlisten müssen die Papierqualität und die Farbe gemäss der Anordnung nach § 24 Absatz 1g haben.
+**…**
 
 #### § 41a
 
@@ -583,7 +597,7 @@ beschliesst:
 
 <sup>1</sup> Ein Urnenbüro leitet in jedem Urnenkreis die Stimmabgabe und ermittelt die Wahl- und Abstimmungsergebnisse.
 
-<sup>2</sup> Das amtierende Urnenbüro besteht bei der Ermittlung der Ergebnisse aus einem Präsidenten und mindestens zwei Mitgliedern, die jeweils von der Gemeinde aufgeboten werden. Personen, die als Kandidaten an einer Wahl beteiligt sind, dürfen bei der Ermittlung der Ergebnisse nicht mitwirken.
+<sup>2</sup> Das amtierende Urnenbüro besteht bei der Ermittlung der Ergebnisse aus einem Präsidenten oder einer Präsidentin und mindestens zwei Mitgliedern, die jeweils von der Gemeinde aufgeboten werden. Personen, die als Kandidierende an einer Wahl beteiligt sind, dürfen bei der Ermittlung der Ergebnisse nicht mitwirken.
 
 <sup>3</sup> Die Gemeinde kann für die Ermittlung der Wahl- und Abstimmungsergebnisse zusätzliches Personal einsetzen, das dem Urnenbüro nicht angehört.
 
@@ -595,17 +609,17 @@ beschliesst:
 
 **Bestellung der Urnenbüros**
 
-<sup>1</sup> Die Gemeinde bestimmt die Zahl der Urnenbüropräsidenten und der Urnenbüromitglieder. Sie ernennt die Urnenbüropräsidenten aus den Urnenbüromitgliedern und regelt den Amtsantritt des Urnenbüros.
+<sup>1</sup> Die Gemeinde bestimmt die Mitgliederzahl des Urnenbüropräsidiums sowie die Zahl der Urnenbüromitglieder. Sie ernennt die Urnenbüropräsidentinnen und -präsidenten aus den Urnenbüromitgliedern und regelt den Amtsantritt des Urnenbüros.
 
-<sup>2</sup> Der Stimmregisterführer ist von Amtes wegen Urnenbüromitglied der Einwohnergemeinde.
+<sup>2</sup> Der Stimmregisterführer oder die Stimmregisterführerin ist von Amtes wegen Urnenbüromitglied der Einwohnergemeinde.
 
 <sup>3</sup> Die übrigen Urnenbüromitglieder werden von den Stimmberechtigten spätestens im ersten Jahr nach der Neuwahl des Gemeinderates gewählt. Wählbar ist nur, wer stimmberechtigt ist und in der Gemeinde Wohnsitz hat.
 
-<sup>4</sup> In der Gemeindeordnung kann die Gemeinde die Ernennung der Urnenbüropräsidenten und die Wahl der Urnenbüromitglieder abweichend regeln.
+<sup>4</sup> In der Gemeindeordnung kann die Gemeinde die Ernennung des Urnenbüropräsidiums und die Wahl der Urnenbüromitglieder abweichend regeln.
 
 <sup>5</sup> Den politischen Parteien ist bei der Bestellung der Urnenbüros eine angemessene Vertretung einzuräumen.
 
-<sup>6</sup> Kann bei einer Katastrophe, in einer Notlage oder in einer vergleichbaren Situation wegen einer unmittelbar drohenden schweren Gefährdung oder Störung der öffentlichen Sicherheit und Ordnung oder der öffentlichen Gesundheit die ordentliche Zusammensetzung des Urnenbüros nicht auf andere Weise sichergestellt werden, so kann die Gemeindebehörde für deren Dauer zusätzliche Urnenbüromitglieder wählen und aus den Mitgliedern weitere Urnenbüropräsidenten ernennen. Sie strebt dabei nach Möglichkeit eine Zusammensetzung des Urnenbüros nach Absatz 5 an.
+<sup>6</sup> Kann bei einer Katastrophe, in einer Notlage oder in einer vergleichbaren Situation wegen einer unmittelbar drohenden schweren Gefährdung oder Störung der öffentlichen Sicherheit und Ordnung oder der öffentlichen Gesundheit die ordentliche Zusammensetzung des Urnenbüros nicht auf andere Weise sichergestellt werden, so kann die Gemeindebehörde für deren Dauer zusätzliche Urnenbüromitglieder wählen und aus den Mitgliedern weitere Urnenbüropräsidentinnen und -präsidenten ernennen. Sie strebt dabei nach Möglichkeit eine Zusammensetzung des Urnenbüros nach Absatz 5 an.
 
 #### § 45
 
@@ -651,15 +665,25 @@ beschliesst:
 
 #### § 52
 
-**Wahlzettel**
+**Wahlzettel bei Verhältniswahlen**
 
-<sup>1</sup> Auf der Kandidatenliste können gedruckte Kandidatennamen gestrichen und in leserlicher Handschrift Namen anderer wählbarer Kandidaten aufgeführt werden.
+<sup>1</sup> Auf der Kandidatenliste können gedruckte Kandidatennamen gestrichen und in leserlicher Handschrift Namen anderer wählbarer Personen aufgeführt werden.
 
 <sup>2</sup> Wer bei Wahlen die Blankoliste verwendet, hat die Kandidatennamen in leserlicher Handschrift einzutragen.
 
-<sup>3</sup> Der Wahlzettel soll mindestens einen und höchstens so viele Kandidaten, als zu wählen sind, eindeutig angeben.
+<sup>3</sup> Der Wahlzettel soll mindestens eine und höchstens so viele Personen, als zu wählen sind, eindeutig angeben.
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen über die elektronische Stimmabgabe.
+
+#### § 52a
+
+**Wahlzettel bei Mehrheitswahlen**
+
+<sup>1</sup> Auf dem Wahlzettel ist das jeweilige gedruckte Kästchen neben den gedruckten oder handschriftlich hinzugefügten Kandidatennamen anzukreuzen.
+
+<sup>2</sup> Der Wahlzettel soll mindestens eine und höchstens so viele Personen, als zu wählen sind, eindeutig angeben. Keiner Person darf mehr als eine Stimme gegeben werden.
+
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen über die elektronische Stimmabgabe.
 
 ### 4.2.4 Stimmabgabe im Urnenlokal
 
@@ -669,7 +693,7 @@ beschliesst:
 
 <sup>1</sup> Während der Urnenzeiten haben im Urnenlokal mindestens zwei Mitglieder des Urnenbüros anwesend zu sein.
 
-<sup>2</sup> Das Urnenbüro sorgt dafür, dass sich die Stimmabgabe geordnet vollzieht und jeder Stimmberechtigte unter Wahrung des Stimmgeheimnisses unbeeinflusst stimmen kann.
+<sup>2</sup> Das Urnenbüro sorgt dafür, dass sich die Stimmabgabe geordnet vollzieht und jede stimmberechtigte Person unter Wahrung des Stimmgeheimnisses unbeeinflusst stimmen kann.
 
 <sup>3</sup> Das Urnenbüro kann zur Wahrung der Ordnung polizeiliche Hilfe anfordern.
 
@@ -689,15 +713,15 @@ beschliesst:
 
 <sup>3</sup> Zu Beginn der folgenden Urnenzeit hat sich das Urnenbüro zu vergewissern, dass der Verschluss von Urneneinwurf und Urne noch uneröffnet ist.
 
-<sup>4</sup> Ausserhalb der Urnenzeiten verwahrt der Stimmregisterführer das Stimmregister und die Kontrollstempel so, dass jede missbräuchliche Verwendung ausgeschlossen ist.
+<sup>4</sup> Ausserhalb der Urnenzeiten verwahrt der Stimmregisterführer oder die Stimmregisterführerin das Stimmregister und die Kontrollstempel so, dass jede missbräuchliche Verwendung ausgeschlossen ist.
 
 #### § 56
 
 **Stimmrechtskontrolle**
 
-<sup>1</sup> Der Stimmende übergibt dem Urnenbüro seinen Stimmrechtsausweis, den er von der Gemeinde erhalten hat.
+<sup>1</sup> Wer abstimmen will, übergibt dem Urnenbüro den Stimmrechtsausweis, der von der Gemeinde zugestellt wurde.
 
-<sup>2</sup> Kann der Stimmende seinen Stimmrechtsausweis nicht vorweisen, erhält er vom Urnenbüro eine entsprechende Erklärung zur Unterzeichnung.
+<sup>2</sup> Wer den Stimmrechtsausweis nicht vorweisen kann, erhält vom Urnenbüro eine entsprechende Erklärung zur Unterzeichnung.
 
 #### § 57
 
@@ -706,28 +730,28 @@ beschliesst:
 <sup>1</sup> Bei Wahlen und Abstimmungen sind im Urnenlokal folgende Stimm- und Wahlzettel so aufzulegen, dass die Stimmenden sich unter Wahrung des Stimmgeheimnisses bedienen können:
 
 - a. bei Verhältniswahlen die Blankoliste und alle Kandidatenlisten des Wahlkreises,
-- b. bei Mehrheitswahlen die Blankoliste, die amtlichen Kandidatenlisten und die privaten Kandidatenlisten, soweit sie dem Urnenbüro zu diesem Zweck von privater Seite übergeben wurden,
+- b. bei Mehrheitswahlen die amtliche Kandidatenliste oder eine Blankoliste, sofern kein gültiger Wahlvorschlag vorliegt,
 - c. bei Sachabstimmungen alle Stimmzettel.
 
 #### § 58
 
 **Stimmabgabe**
 
-<sup>1</sup> Der Stimmende hat seine Stimmabgabe im Urnenlokal persönlich zu vollziehen. Er kann die Stimm- und Wahlzettel zu Hause oder im Urnenlokal ausfüllen.
+<sup>1</sup> Die Stimmenden haben ihre Stimmabgabe im Urnenlokal persönlich zu vollziehen. Sie können die Stimm- und Wahlzettel zu Hause oder im Urnenlokal ausfüllen.
 
-<sup>2</sup> Nachdem das Urnenbüro die Stimmberechtigung des Stimmenden festgestellt hat, legt dieser dem Urnenbüro seine Stimm- und Wahlzettel vor.
+<sup>2</sup> Nachdem das Urnenbüro die Stimmberechtigung der stimmenden Person festgestellt hat, legt diese dem Urnenbüro ihre Stimm- und Wahlzettel vor.
 
-<sup>3</sup> Das Urnenbüro bringt auf der Rückseite jedes Stimm- oder Wahlzettels jener Wahlen und Abstimmungen, bei denen der Stimmende stimmberechtigt ist, den Kontrollstempel an.
+<sup>3</sup> Das Urnenbüro bringt auf der Rückseite jedes Stimm- oder Wahlzettels jener Wahlen und Abstimmungen, bei denen die stimmende Person stimmberechtigt ist, den Kontrollstempel an.
 
-<sup>4</sup> Beim Abstempeln achtet das Urnenbüro darauf, dass der Stimmende das Stimmrecht nicht mehrfach ausüben kann und dass das Stimmgeheimnis gewahrt bleibt.
+<sup>4</sup> Beim Abstempeln achtet das Urnenbüro darauf, dass die Stimmenden das Stimmrecht nicht mehrfach ausüben können und dass das Stimmgeheimnis gewahrt bleibt.
 
-<sup>5</sup> Der Stimmende legt die abgestempelten Stimm- und Wahlzettel in die Urne.
+<sup>5</sup> Die Stimmenden legen die abgestempelten Stimm- und Wahlzettel in die Urne.
 
 #### § 59
 
 **Mithilfe des Urnenbüros**
 
-<sup>1</sup> Ist der Stimmende ausserstande, die Stimmabgabe persönlich zu vollziehen, hat an seiner Stelle ein Mitglied des Urnenbüros nach seinen Weisungen zu handeln. Andern Personen ist die Mitwirkung bei der Stimmabgabe untersagt.
+<sup>1</sup> Ist die stimmende Person ausserstande, die Stimmabgabe persönlich zu vollziehen, hat an ihrer Stelle ein Mitglied des Urnenbüros nach ihren Weisungen zu handeln. Andern Personen ist die Mitwirkung bei der Stimmabgabe untersagt.
 
 <sup>2</sup> Das zur Hilfeleistung zugezogene Mitglied des Urnenbüros hat über den Inhalt der Stimmabgabe zu schweigen.
 
@@ -745,7 +769,7 @@ beschliesst:
 
 <sup>1</sup> Die Stimmberechtigten können ihr Stimmrecht brieflich ausüben.
 
-<sup>2</sup> Schreibunfähige Stimmberechtigte können das Ausfüllen der Stimm- und Wahlzettel und die Unterzeichnung des Stimmrechtsausweises durch einen Stimmberechtigten ihrer Wahl vornehmen lassen. Dieser setzt seine eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
+<sup>2</sup> Schreibunfähige Stimmberechtigte können das Ausfüllen der Stimm- und Wahlzettel und die Unterzeichnung des Stimmrechtsausweises durch eine stimmberechtigte Person ihrer Wahl vornehmen lassen. Diese setzt ihre eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
 
 #### § 62
 
@@ -761,7 +785,7 @@ beschliesst:
 
 #### § 63
 
-**Vorgehen des Stimmenden**
+**Vorgehen der Stimmenden**
 
 <sup>1</sup> Wer brieflich stimmen will, legt die Stimm- und Wahlzettel in das amtliche Stimm- und Wahlkuvert und klebt es zu.
 
@@ -769,7 +793,7 @@ beschliesst:
 
 <sup>3</sup> Es ist zusammen mit dem unterzeichneten Stimmrechtsausweis in das Rücksendekuvert zu legen.
 
-<sup>4</sup> Das Rücksendekuvert kann dem Stimmregisterführer überbracht, per Post an die von der Gemeinde bestimmte Einreichungsstelle gesandt oder dem Urnenbüro übergeben werden.
+<sup>4</sup> Das Rücksendekuvert kann dem Stimmregisterführer oder der Stimmregisterführerin überbracht, per Post an die von der Gemeinde bestimmte Einreichungsstelle gesandt oder dem Urnenbüro übergeben werden.
 
 <sup>5</sup> Das Rücksendekuvert muss vor Ende der letzten Urnenzeit bei der Einreichungsstelle oder beim Urnenbüro eintreffen.
 
@@ -789,21 +813,21 @@ beschliesst:
 
 #### § 68
 
-**Vorgehen der Einreichungsstelle und des Stimmregisterführers**
+**Vorgehen der Einreichungsstelle und des Stimmregisterführers oder der Stimmregisterführerin**
 
-<sup>1</sup> Die Einreichungsstelle übergibt die eingetroffenen Rücksendekuverts sofort und ungeöffnet dem Stimmregisterführer.
+<sup>1</sup> Die Einreichungsstelle übergibt die eingetroffenen Rücksendekuverts sofort und ungeöffnet dem Stimmregisterführer oder der Stimmregisterführerin.
 
-<sup>2</sup> Unter der Aufsicht des Stimmregisterführers werden die Rücksendekuverts in Anwesenheit von mindestens zwei Urnenbüromitgliedern geöffnet.
+<sup>2</sup> Unter der Aufsicht des Stimmregisterführers oder der Stimmregisterführerin werden die Rücksendekuverts in Anwesenheit von mindestens zwei Urnenbüromitgliedern geöffnet.
 
-<sup>3</sup> Fehlt die Unterschrift auf dem Stimmrechtsausweis, wird dem Stimmenden in geeigneter Form die Möglichkeit gegeben, den Mangel zu beheben, sofern die Zeit dazu noch ausreicht.
+<sup>3</sup> Fehlt die Unterschrift auf dem Stimmrechtsausweis, wird der stimmenden Person in geeigneter Form die Möglichkeit gegeben, den Mangel zu beheben, sofern die Zeit dazu noch ausreicht.
 
-<sup>4</sup> Der Stimmregisterführer übergibt die ungeöffneten amtlichen Stimm- und Wahlkuverts zusammen mit den Rücksendekuverts und den Stimmrechtsausweisen für die Ermittlung der Ergebnisse dem Urnenbüro. Bis zu diesem Zeitpunkt sind die Unterlagen der brieflichen Stimmabgaben unter Wahrung des Stimmgeheimnisses sicher und getrennt von den persönlichen Stimmabgaben aufzubewahren.
+<sup>4</sup> Der Stimmregisterführer oder die Stimmregisterführerin übergibt die ungeöffneten amtlichen Stimm- und Wahlkuverts zusammen mit den Rücksendekuverts und den Stimmrechtsausweisen für die Ermittlung der Ergebnisse dem Urnenbüro. Bis zu diesem Zeitpunkt sind die Unterlagen der brieflichen Stimmabgaben unter Wahrung des Stimmgeheimnisses sicher und getrennt von den persönlichen Stimmabgaben aufzubewahren.
 
 #### § 69
 
 **Vorgehen des Urnenbüros**
 
-<sup>1</sup> Der Stimmregisterführer bestätigt dem Urnenbüro die Korrektheit der Vorbereitungsarbeiten gemäss § 68.
+<sup>1</sup> Der Stimmregisterführer oder die Stimmregisterführerin bestätigt dem Urnenbüro die Korrektheit der Vorbereitungsarbeiten gemäss § 68.
 
 <sup>2</sup> Es legt die Stimmrechtsausweise und die Rücksendekuverts zum übrigen gebrauchten Material und prüft die Gültigkeit der brieflichen Stimmabgabe.
 
@@ -838,8 +862,9 @@ beschliesst:
 <sup>2</sup> Bei Wahlen ist die Stimme leer, wenn
 
 - a. auf der Kandidatenliste alle gedruckten Kandidatennamen ohne handschriftlichen Ersatz gestrichen sind,
-- b. in der Blankoliste keine Kandidatennamen eingetragen sind.
+- b. in der Blankoliste keine Kandidatennamen eingetragen sind,
 - c . …
+- d. bei Mehrheitswahlen auf der Kandidatenliste kein Kandidatenname angekreuzt worden ist.
 
 #### § 72
 
@@ -848,13 +873,13 @@ beschliesst:
 <sup>1</sup> Stimm- und Wahlzettel sind ungültig, wenn sie
 
 - a. bei der persönlichen oder der brieflichen Stimmabgabe anders als handschriftlich ausgefüllt oder abgeändert sind,
-- b. den Willen des Stimmenden nicht eindeutig erkennen lassen,
+- b. den Willen der stimmenden Person nicht eindeutig erkennen lassen,
 - c. ehrverletzende Äusserungen oder offensichtliche Kennzeichnungen enthalten,
 - d. bei der persönlichen Stimmabgabe nicht mit dem Kontrollstempel des Urnenbüros versehen worden sind,
 - e. bei Verhältniswahlen und bei Abstimmungen nicht amtlich oder nicht für die Wahl oder die Abstimmung bestimmt sind,
 - f. bei der elektronischen Stimmabgabe nicht einwandfrei gelesen werden können.
 
-<sup>2</sup> Wahlzettel sind überdies ungültig, wenn von den eingetragenen Kandidaten niemand wählbar ist.
+<sup>2</sup> Wahlzettel sind überdies ungültig, wenn von den eingetragenen Personen niemand wählbar ist.
 
 #### § 73
 
@@ -863,10 +888,10 @@ beschliesst:
 <sup>1</sup> Bei der brieflichen Stimmabgabe ist die Stimme überdies ungültig, wenn
 
 - a. zusammen mit dem Stimmrechtsausweis mehr als ein amtliches Stimm- und Wahlkuvert eingesandt wurde,
-- b. die briefliche Stimmabgabe ohne Beilage des Stimmrechtsausweises erfolgte oder der Stimmrechtsausweis nicht vom Stimmenden unterschrieben ist,
+- b. die briefliche Stimmabgabe ohne Beilage des Stimmrechtsausweises erfolgte oder der Stimmrechtsausweis nicht von der stimmenden Person unterschrieben ist,
 - c. für die gleiche Abstimmung oder Wahl mehrere nicht gleichlautende Stimm- oder Wahlzettel im amtlichen Stimm- und Wahlkuvert sind,
 - d. das amtliche Stimm- und Wahlkuvert mit Angaben versehen ist, die das Stimmgeheimnis aufheben,
-- e. ein Dritter sich nachweisbar unbefugterweise in die Stimmabgabe eingemischt hat,
+- e. eine Drittperson sich nachweisbar unbefugterweise in die Stimmabgabe eingemischt hat,
 - f. die Stimm- und Wahlzettel sich im Rücksendekuvert, jedoch nicht im amtlichen Stimm- und Wahlkuvert befinden,
 - g. die Stimm- und Wahlzettel erst nach Schluss der letzten Urnenzeit bei der Einreichungsstelle oder beim Urnenbüro eintreffen.
 
@@ -884,9 +909,10 @@ beschliesst:
 
 <sup>1</sup> Als Kandidatenstimmen des Wahlzettels sind ungültig
 
-- a. Namen nicht wählbarer Kandidaten,
+- a. Namen nicht wählbarer Kandidierender,
 - b. unleserliche oder ungenügende Kandidatenbezeichnungen,
-- c. bei Mehrheitswahlen Wiederholungen des gleichen Kandidatennamens.
+- c. bei Mehrheitswahlen Wiederholungen des gleichen Kandidatennamens,
+- d. bei Mehrheitswahlen Kandidatennamen, die angekreuzt und gestrichen sind.
 
 <sup>2</sup> Enthält ein Wahlzettel mehr gültige Kandidatenstimmen, als Sitze zu vergeben sind, werden die überzähligen nach der vom Justiz- und Sicherheitsdepartement festzulegenden Reihenfolge gestrichen.
 
@@ -937,13 +963,15 @@ beschliesst:
 
 <sup>3</sup> Bei Urnenwahlen ist gewählt, wer die erforderliche Stimmenzahl (§§ 88, 91 oder 96) erzielt hat.
 
+<sup>4</sup> Bei Stimmengleichheit entscheidet das Los. Der Regierungsrat ordnet das Verfahren an und beauftragt das Justiz- und Sicherheitsdepartement mit der Durchführung. Die Auslosung ist öffentlich.
+
 #### § 80
 
 **Feststellung der Ergebnisse**
 
 <sup>1</sup> Das Urnenbüro stellt das Ergebnis des Urnenkreises fest.
 
-<sup>2</sup> Ist die Gemeinde in mehrere Urnenkreise aufgeteilt, haben ein Urnenbüropräsident und der Stimmregisterführer aufgrund der Verbale das Gesamtergebnis der Gemeinde festzustellen.
+<sup>2</sup> Ist die Gemeinde in mehrere Urnenkreise aufgeteilt, haben ein Urnenbüropräsident oder eine Urnenbüropräsidentin und der Stimmregisterführer oder die Stimmregisterführerin aufgrund der Verbale das Gesamtergebnis der Gemeinde festzustellen.
 
 <sup>3</sup> Das Justiz- und Sicherheitsdepartement stellt aufgrund der Verbale und der übrigen sachdienlichen Unterlagen das Ergebnis der kantonalen Wahlen und Abstimmungen fest.
 
@@ -960,9 +988,9 @@ beschliesst:
 - c. Besetzung des Urnenbüros während den einzelnen Urnenzeiten und bei der Erwahrung,
 - d. Ergebnis der Ermittlungen (§ 78),
 - e. bei Gemeindewahlen oder -abstimmungen das Wahl- oder Abstimmungsergebnis (§ 80),
-- f. allfällige Beschwerden (§ 164) und Bemerkungen des Urnenbüros oder der einzelnen Präsidenten und Mitglieder.
+- f. allfällige Beschwerden (§ 164) und Bemerkungen des Urnenbüros oder der einzelnen Präsidentinnen und Präsidenten sowie Mitglieder.
 
-<sup>2</sup> Das Verbal ist von allen bei der Erwahrung mitwirkenden Präsidenten und Mitgliedern zu unterzeichnen.
+<sup>2</sup> Das Verbal ist von allen bei der Erwahrung mitwirkenden Präsidentinnen und Präsidenten sowie den Mitgliedern zu unterzeichnen.
 
 #### § 82
 
@@ -996,17 +1024,17 @@ beschliesst:
 
 <sup>2</sup> Bei allen kantonalen Wahlen und Abstimmungen und bei Gemeindewahlen, die der Genehmigung des Regierungsrates oder des Justiz- und Sicherheitsdepartementes bedürfen, schickt das Urnenbüro das Verbal an das Justiz- und Sicherheitsdepartement.
 
-<sup>3</sup> Bei Kantonsratswahlen sind das Verbal und das Wahlmaterial dem Justiz- und Sicherheitsdepartement zuzustellen. Im Wahlkreis Luzern-Stadt sind sie dem Stadtschreiber zuzustellen, der sie an das Justiz- und Sicherheitsdepartement sendet.
+<sup>3</sup> Bei Kantonsratswahlen sind das Verbal und das Wahlmaterial dem Justiz- und Sicherheitsdepartement zuzustellen. Im Wahlkreis Luzern-Stadt sind sie dem Stadtschreiber oder der Stadtschreiberin zuzustellen, die sie an das Justiz- und Sicherheitsdepartement senden.
 
 <sup>4</sup> Im Übrigen hat die Gemeinde die Verbale sowie die eingelegten Stimm- und Wahlzettel bis zur rechtsverbindlichen Feststellung des Wahl- oder Abstimmungsergebnisses, mindestens aber während zweier Monate, aufzubewahren, soweit nicht der Regierungsrat oder das Justiz- und Sicherheitsdepartement die Weiterleitung oder die Verlängerung der Aufbewahrungsfrist anordnet.
 
-### 4.3 Besondere Vorschriften für Auslandschweizer
+### 4.3 Besondere Vorschriften für Auslandschweizerinnen und Auslandschweizer
 
 #### § 83a
 
 **Stimmberechtigung**
 
-<sup>1</sup> Auslandschweizer sind in eidgenössischen Angelegenheiten nach Massgabe des Bundesrechts stimmberechtigt.
+<sup>1</sup> Auslandschweizerinnen und Auslandschweizer sind in eidgenössischen Angelegenheiten nach Massgabe des Bundesrechts stimmberechtigt.
 
 <sup>2</sup> Sie üben ihr Stimmrecht beim Justiz- und Sicherheitsdepartement aus.
 
@@ -1014,13 +1042,13 @@ beschliesst:
 
 **Aufgaben des Justiz- und Sicherheitsdepartementes**
 
-<sup>1</sup> Die Aufgaben, die dieses Gesetz und das Bundesgesetz über die Auslandschweizer[^83b-1] den Gemeinden übertragen, werden vom Justiz- und Sicherheitsdepartement wahrgenommen, wenn es um das Stimmrecht der Auslandschweizer geht.
+<sup>1</sup> Die Aufgaben, die dieses Gesetz und das Bundesgesetz über Schweizer Personen und Institutionen im Ausland vom 26. September 2014[^83b-1] den Gemeinden übertragen, werden vom Justiz- und Sicherheitsdepartement wahrgenommen, wenn es um das Stimmrecht der Auslandschweizerinnen und Auslandschweizer geht.
 
-<sup>2</sup> Die Gemeinden melden die in eidgenössischen Angelegenheiten stimmberechtigten Auslandschweizer dem Justiz- und Sicherheitsdepartement und leiten die bei ihnen eingehenden Meldungen der schweizerischen Vertretung und der Bundeskanzlei unverzüglich dem Justiz- und Sicherheitsdepartement zur Bearbeitung weiter.
+<sup>2</sup> Die Gemeinden melden die in eidgenössischen Angelegenheiten stimmberechtigten Auslandschweizerinnen und Auslandschweizer dem Justiz- und Sicherheitsdepartement und leiten die bei ihnen eingehenden Meldungen der schweizerischen Vertretung und der Bundeskanzlei unverzüglich dem Justiz- und Sicherheitsdepartement zur Bearbeitung weiter.
 
-<sup>3</sup> Das Justiz- und Sicherheitsdepartement führt insbesondere das Stimmregister für die in eidgenössischen Angelegenheiten stimmberechtigten Auslandschweizer und verschickt das Stimm- und Wahlmaterial spätestens drei Wochen vor dem jeweiligen Abstimmungstag direkt an ihre Adresse.
+<sup>3</sup> Das Justiz- und Sicherheitsdepartement führt insbesondere das Stimmregister für die in eidgenössischen Angelegenheiten stimmberechtigten Auslandschweizerinnen und Auslandschweizer und verschickt das Stimm- und Wahlmaterial spätestens drei Wochen vor dem jeweiligen Abstimmungstag direkt an ihre Adresse.
 
-[^83b-1]: SR [161.5](https://db.clex.ch/link/Bund/161.5/de)
+[^83b-1]: SR [195.1](https://db.clex.ch/link/Bund/195.1/de)
 
 ### 4.4 Besondere Vorschriften für Abstimmungen
 
@@ -1045,7 +1073,7 @@ beschliesst:
 <sup>1</sup> Über eine Initiative und ihren Gegenentwurf wird in einer Doppelabstimmung wahlweise wie folgt abgestimmt:
 
 - a. Der Stimmzettel enthält die Hauptfragen «1. Wollen Sie die Initiative ... annehmen?» und «2. Wollen Sie den Gegenentwurf annehmen?» sowie die Stichfrage «3. Falls sowohl die Initiative als auch der Gegenentwurf angenommen werden: Soll die Initiative oder der Gegenentwurf in Kraft treten?».
-- b. Die Hauptfragen kann der Stimmende mit Ja oder Nein beantworten oder unbeantwortet lassen; er kann auch beiden Vorlagen zustimmen oder beide ablehnen.
+- b. Die Hauptfragen können die Stimmenden mit Ja oder Nein beantworten oder unbeantwortet lassen; sie können auch beiden Vorlagen zustimmen oder beide ablehnen.
 - c. Das Mehr wird für jede Frage getrennt ermittelt; dabei fallen unbeantwortete Fragen ausser Betracht.
 - d. Die Initiative oder der Gegenentwurf ist angenommen, wenn mehr als die Hälfte der gültig Stimmenden der Vorlage zustimmt.
 - e. Werden sowohl die Initiative als auch der Gegenentwurf angenommen, tritt jene Vorlage in Kraft, die bei der Stichfrage mehr Stimmen erzielt. Bei gleicher Stimmenzahl ist entscheidend, welche Vorlage bei den Hauptfragen mehr Ja-Stimmen erzielt.
@@ -1064,7 +1092,7 @@ beschliesst:
 
 <sup>3</sup> Die Einreichungsstelle (§ 29) stellt das Zustandekommen der stillen Wahl in einem Protokoll fest und macht das Ergebnis öffentlich bekannt. Werden alle Sitze durch stille Wahl besetzt, gibt sie ferner bekannt, dass der erste Wahlgang nicht stattfindet.
 
-<sup>4</sup> Bei Gemeindewahlen, die der Genehmigung des Justiz- und Sicherheitsdepartementes oder des Regierungsrates bedürfen, übermittelt die Gemeinde dem Justiz- und Sicherheitsdepartement sofort ein Doppel der Wahlvorschläge und des Protokolls.
+<sup>4</sup> Bei Gemeindewahlen, die der Genehmigung des Justiz- und Sicherheitsdepartementes oder des Regierungsrates bedürfen, übermittelt die Gemeinde dem Justiz- und Sicherheitsdepartement sofort ein Doppel des Protokolls.
 
 #### § 88
 
@@ -1077,7 +1105,7 @@ beschliesst:
 
 <sup>2</sup> Im ersten Wahlgang ist gewählt, wer die absolute Mehrheit der gültigen Stimmen (Hälfte der gültigen Stimmen, aufgerundet auf die nächste ganze Zahl) erreicht.
 
-<sup>3</sup> Erzielen mehr Kandidaten, als zu wählen sind, die absolute Mehrheit, entscheidet die grössere Stimmenzahl und bei Stimmengleichheit das Los, das von einer vom Justiz- und Sicherheitsdepartement beauftragten Vertrauensperson gezogen wird.
+<sup>3</sup> Erzielen mehr Kandidierende, als zu wählen sind, die absolute Mehrheit, entscheidet die grössere Stimmenzahl und bei Stimmengleichheit das Los.
 
 <sup>4</sup> Sind gleichzeitig mehrere Behörden oder Beamte zu wählen, ist das absolute Mehr für jede dieser Wahlen aus der Zahl der hiefür abgegebenen gültigen Stimmen gesondert zu berechnen.
 
@@ -1085,7 +1113,7 @@ beschliesst:
 
 **Ankündung des zweiten Wahlgangs**
 
-<sup>1</sup> Hat im ersten Wahlgang niemand oder haben nicht so viele Kandidaten, als zu wählen sind, das absolute Mehr erreicht, ist das Wahlverfahren nach den §§ 90 und 91 fortzusetzen, was sofort nach Ermittlung der endgültigen Ergebnisse in geeigneter Form öffentlich bekanntgemacht wird.
+<sup>1</sup> Hat im ersten Wahlgang niemand oder haben nicht so viele Kandidierende, als zu wählen sind, das absolute Mehr erreicht, ist das Wahlverfahren nach den §§ 90 und 91 fortzusetzen, was sofort nach Ermittlung der endgültigen Ergebnisse in geeigneter Form öffentlich bekanntgemacht wird.
 
 #### § 90
 
@@ -1093,7 +1121,7 @@ beschliesst:
 
 <sup>1</sup> Die im ersten Wahlgang nicht besetzten Sitze können durch stille Nachwahl besetzt werden.
 
-<sup>2</sup> Die Wahlvorschläge müssen spätestens am Donnerstag nach dem ersten Wahlgang um 12 Uhr bei der Einreichungsstelle (§ 29) eintreffen. Für Kandidaten des ersten Wahlgangs genügt eine schriftliche Erklärung des Kandidaten und des Vertreters des Wahlvorschlags.
+<sup>2</sup> Die Wahlvorschläge müssen spätestens am Donnerstag nach dem ersten Wahlgang um 12 Uhr bei der Einreichungsstelle (§ 29) eintreffen. Für Kandidierende des ersten Wahlgangs genügt eine schriftliche Erklärung der kandidierenden Person und der Vertretung des Wahlvorschlags.
 
 <sup>3</sup> Das Ergebnis einer stillen Nachwahl wird sofort öffentlich bekanntgemacht. Sind alle Sitze besetzt, wird der zweite Wahlgang abgesagt.
 
@@ -1117,11 +1145,17 @@ beschliesst:
 
 **Ämterverteilung**
 
-<sup>1</sup> Sind gleichzeitig Mitglieder einer Kollegialbehörde und unter diesen die Inhaber bestimmter Ämter (Präsident usw.) zu wählen, kann der Wähler einem Kandidaten als Amtsinhaber die Stimme geben, ohne ihm als Mitglied zu stimmen, und umgekehrt.
+<sup>1</sup> Sind gleichzeitig Mitglieder einer Kollegialbehörde und unter diesen die Inhaberinnen und Inhaber bestimmter Ämter (Präsidium usw.) zu wählen, können die Wählenden einer Person für ein Amt die Stimme geben, ohne für sie als Mitglied zu stimmen, und umgekehrt.
 
 <sup>2</sup> Das massgebende Mehr für die Mitgliedschaft und die einzelnen Ämter wird nach der Zahl der hiefür abgegebenen gültigen Stimmen gesondert ermittelt.
 
-<sup>3</sup> Als Inhaber eines Amtes kann nur gewählt erklärt werden, wer auch als Mitglied gewählt ist.
+<sup>3</sup> In ein Amt kann nur gewählt erklärt werden, wer auch als Mitglied gewählt ist.
+
+#### § 92bis
+
+**Rechtsverweis**
+
+<sup>1</sup> Soweit dieses Gesetz keine Regelungen enthält und es mit den Besonderheiten der Mehrheitswahlen vereinbar ist, sind die Bestimmungen über die Verhältniswahlen sinngemäss anwendbar.
 
 #### § 93
 
@@ -1167,20 +1201,22 @@ beschliesst:
 
 <sup>1</sup> Zuständig für die Entgegennahme, Prüfung und Bereinigung der Wahllisten ist
 
-- a. bei den Kantonsratswahlen das Justiz- und Sicherheitsdepartement, im Wahlkreis Luzern-Stadt der Stadtschreiber,
+- a. bei den Kantonsratswahlen das Justiz- und Sicherheitsdepartement, im Wahlkreis Luzern-Stadt der Stadtschreiber oder die Stadtschreiberin,
 - b. in den Gemeinden bei der Wahl des Gemeindeparlaments die Gemeindebehörde.
 
-<sup>2</sup> Die bereinigten Wahllisten sind im Kantonsblatt zu veröffentlichen. Hiefür ist bei kantonalen Wahlen das Justiz- und Sicherheitsdepartement und bei Gemeindewahlen die Gemeinde zuständig.
+<sup>2</sup> Die bereinigten Wahllisten sind mit den Angaben, die auf dem Wahlzettel aufgeführt werden, im Kantonsblatt zu veröffentlichen. Hierfür ist bei kantonalen Wahlen das Justiz- und Sicherheitsdepartement und bei Gemeindewahlen die Gemeinde zuständig.
 
 <sup>3</sup> Die Fristen und Termine für die Einreichung, Bereinigung und Veröffentlichung der Wahllisten bestimmt das Justiz- und Sicherheitsdepartement in der Wahlanordnung.
+
+<sup>4</sup> Die Listennummern für die eidgenössischen und kantonalen Wahlen werden öffentlich durch das Justiz- und Sicherheitsdepartement ausgelost. Die ersten Listennummern werden unter den bisher im Kantonsrat vertretenen Parteien und Gruppierungen zugelost. Die nächsten Nummern werden unter den übrigen Parteien und Gruppierungen, die sich innert Frist beim Justiz- und Sicherheitsdepartement gemeldet haben, zugelost. Danach werden die Listennummern fortlaufend nach Eingang der Wahlvorschläge vergeben.
 
 #### § 98
 
 **Kontrolle**
 
-<sup>1</sup> Bei den Kantonsratswahlen ist das Justiz- und Sicherheitsdepartement, im Wahlkreis Luzern-Stadt der Stadtschreiber für die Kontrolle der Ermittlung der Ergebnisse zuständig.
+<sup>1</sup> Bei den Kantonsratswahlen ist das Justiz- und Sicherheitsdepartement, im Wahlkreis Luzern-Stadt der Stadtschreiber oder die Stadtschreiberin für die Kontrolle der Ermittlung der Ergebnisse zuständig.
 
-<sup>2</sup> Das Justiz- und Sicherheitsdepartement und der Stadtschreiber unterstützen die Gemeinden bei der Vorbereitung und Durchführung der Wahlen und stellen das Ergebnis des Wahlkreises aufgrund der Verbale der Gemeinden fest.
+<sup>2</sup> Das Justiz- und Sicherheitsdepartement und der Stadtschreiber oder die Stadtschreiberin unterstützen die Gemeinden bei der Vorbereitung und Durchführung der Wahlen und stellen das Ergebnis des Wahlkreises aufgrund der Verbale der Gemeinden fest.
 
 <sup>3</sup> Sie können für diese Aufgabe Fachpersonen beiziehen.
 
@@ -1239,31 +1275,31 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Das Versammlungsbüro besteht aus dem Präsidenten, dem Protokollführer und mindestens zwei Stimmenzählern.
+<sup>1</sup> Das Versammlungsbüro besteht aus einem Präsidenten oder einer Präsidentin, einem Protokollführer oder einer Protokollführerin und mindestens zwei Stimmenzählerinnen oder Stimmenzählern.
 
 #### § 100
 
-**Präsident**
+**Präsident oder Präsidentin**
 
-<sup>1</sup> Präsident der Gemeindeversammlung ist das von der Gemeindebehörde als zuständig erklärte Mitglied.
+<sup>1</sup> Präsident oder Präsidentin der Gemeindeversammlung ist das von der Gemeindebehörde als zuständig erklärte Mitglied.
 
-<sup>2</sup> Der Präsident wird im Verhinderungsfall durch ein anderes, von der Gemeindebehörde bezeichnetes Mitglied vertreten.
+<sup>2</sup> Der Präsident oder die Präsidentin wird im Verhinderungsfall durch ein anderes, von der Gemeindebehörde bezeichnetes Mitglied vertreten.
 
-<sup>3</sup> Sind alle Mitglieder der Gemeindebehörde im Ausstand oder sonstwie verhindert, wählt die Gemeindeversammlung einen Tagespräsidenten.
+<sup>3</sup> Sind alle Mitglieder der Gemeindebehörde im Ausstand oder sonst wie verhindert, wählt die Gemeindeversammlung einen Tagespräsidenten oder eine Tagespräsidentin.
 
 #### § 101
 
-**Protokollführer**
+**Protokollführer oder Protokollführerin**
 
 <sup>1</sup> Die Beschlüsse und Rechtsgeschäfte der Gemeindeversammlung sind in einem Protokoll festzuhalten und zu dokumentieren.
 
 #### § 102
 
-**Stimmenzähler**
+**Stimmenzählerinnen oder Stimmenzähler**
 
-<sup>1</sup> Die Gemeindeversammlung wählt nach der Eröffnung die Stimmenzähler.
+<sup>1</sup> Die Gemeindeversammlung wählt nach der Eröffnung die Stimmenzählerinnen und Stimmenzähler.
 
-<sup>2</sup> Sind zur Bestellung des Versammlungsbüros Abstimmungen vorzunehmen, ernennt der Präsident hiefür provisorisch zwei Stimmenzähler.
+<sup>2</sup> Sind zur Bestellung des Versammlungsbüros Abstimmungen vorzunehmen, ernennt der Präsident oder die Präsidentin hiefür provisorisch zwei Stimmenzählerinnen oder Stimmenzähler.
 
 ### 5.2 Allgemeine Verfahrensordnung
 
@@ -1271,11 +1307,11 @@ beschliesst:
 
 **Versammlungsleitung**
 
-<sup>1</sup> Der Präsident leitet die Verhandlungen und sorgt für einen geordneten Versammlungsverlauf.
+<sup>1</sup> Der Präsident oder die Präsidentin leitet die Verhandlungen und sorgt für einen geordneten Versammlungsverlauf.
 
-<sup>2</sup> Stimmberechtigte, die sich ungehörig äussern oder die Verhandlungen sonstwie stören, ruft der Präsident zur Ordnung; er kann ihnen ferner das Wort entziehen oder sie nach erfolglosem Ordnungsruf aus der Versammlung wegweisen.
+<sup>2</sup> Stimmberechtigte, die sich ungehörig äussern oder die Verhandlungen sonst wie stören, ruft der Präsident oder die Präsidentin zur Ordnung; er oder sie kann ihnen ferner das Wort entziehen oder sie nach erfolglosem Ordnungsruf aus der Versammlung wegweisen.
 
-<sup>3</sup> Lässt sich im Fall einer Störung die Ruhe und Ordnung nicht sofort wiederherstellen, hebt der Präsident die Versammlung auf und erstattet dem Regierungsrat sofort Bericht.
+<sup>3</sup> Lässt sich im Fall einer Störung die Ruhe und Ordnung nicht sofort wiederherstellen, hebt der Präsident oder die Präsidentin die Versammlung auf und erstattet dem Regierungsrat sofort Bericht.
 
 <sup>4</sup> Radio- und Fernsehaufnahmen sind nur mit Zustimmung des Gemeinderates zulässig. Dieser eröffnet den Entscheid zu Beginn der Versammlung, die auf Antrag selber darüber befinden kann. Bis zu diesem Zeitpunkt sind Aufnahmen für Radio und Fernsehen nicht gestattet.
 
@@ -1283,11 +1319,11 @@ beschliesst:
 
 **Teilnehmerkontrolle**
 
-<sup>1</sup> Der Präsident erkundigt sich bei Versammlungsbeginn, ob jemand in der Versammlung nicht stimmberechtigt ist oder nichtstimmberechtigte Bürger festgestellt hat; er fordert diese auf, die Plätze der Stimmberechtigten zu verlassen.
+<sup>1</sup> Der Präsident oder die Präsidentin erkundigt sich bei Versammlungsbeginn, ob jemand in der Versammlung nicht stimmberechtigt ist oder nichtstimmberechtigte Personen festgestellt hat; er oder sie fordert diese auf, die Plätze der Stimmberechtigten zu verlassen.
 
 <sup>2</sup> In streitigen Fällen entscheidet das Versammlungsbüro auf Grund des Stimmregisters und trifft die nötigen Anordnungen.
 
-<sup>3</sup> Die Stimmenzähler ermitteln nach der Versammlungseröffnung die Zahl der Teilnehmer und geben sie bekannt.
+<sup>3</sup> Die Stimmenzählenden ermitteln nach der Versammlungseröffnung die Zahl der Teilnehmenden und geben sie bekannt.
 
 <sup>4</sup> Personen, die nicht stimmberechtigt sind, können der Versammlung auf besondern Plätzen folgen, soweit es die räumlichen Verhältnisse gestatten; sie dürfen an den Verhandlungen und Abstimmungen nicht teilnehmen.
 
@@ -1295,7 +1331,7 @@ beschliesst:
 
 **Ordnungsanträge**
 
-<sup>1</sup> Der Präsident und jeder Teilnehmer können Anträge zum Beratungs- und Abstimmungsverfahren stellen.
+<sup>1</sup> Der Präsident oder die Präsidentin und jede teilnehmende Person können Anträge zum Beratungs- und Abstimmungsverfahren stellen.
 
 <sup>2</sup> Ordnungsanträge sind sofort vor allen andern Anträgen zu beraten und zur Abstimmung zu bringen.
 
@@ -1303,11 +1339,11 @@ beschliesst:
 
 **Diskussionsordnung**
 
-<sup>1</sup> Jeder Teilnehmer kann sich zu den Verhandlungsgegenständen äussern und Anträge stellen. Beleidigende, sachfremde und weitschweifige Äusserungen sind untersagt.
+<sup>1</sup> Jede teilnehmende Person kann sich zu den Verhandlungsgegenständen äussern und Anträge stellen. Beleidigende, sachfremde und weitschweifige Äusserungen sind untersagt.
 
-<sup>2</sup> Der Präsident erteilt den Teilnehmern grundsätzlich das Wort in der Reihenfolge, in der sie sich melden. Zu einem Ordnungsantrag wird das Wort sofort erteilt.
+<sup>2</sup> Der Präsident oder die Präsidentin erteilt den Teilnehmenden grundsätzlich das Wort in der Reihenfolge, in der sie sich melden. Zu einem Ordnungsantrag wird das Wort sofort erteilt.
 
-<sup>3</sup> Hat die Gemeindeversammlung auf einen Ordnungsantrag hin Schluss der Diskussion beschlossen, kommen nur noch die Teilnehmer zum Wort, die sich vor dem Ordnungsantrag gemeldet haben.
+<sup>3</sup> Hat die Gemeindeversammlung auf einen Ordnungsantrag hin Schluss der Diskussion beschlossen, kommen nur noch die Teilnehmenden zum Wort, die sich vor dem Ordnungsantrag gemeldet haben.
 
 #### § 107
 
@@ -1317,9 +1353,9 @@ beschliesst:
 
 #### § 108
 
-**Stimmrecht des Präsidenten**
+**Stimmrecht des Präsidenten oder der Präsidentin**
 
-<sup>1</sup> Der Präsident kann mitstimmen; seine Stimme gibt aber bei Stimmengleichheit nicht den Ausschlag.
+<sup>1</sup> Der Präsident oder die Präsidentin kann mitstimmen; deren Stimme gibt aber bei Stimmengleichheit nicht den Ausschlag.
 
 #### § 109
 
@@ -1333,19 +1369,19 @@ beschliesst:
 
 **Feststellen des Mehrs**
 
-<sup>1</sup> Die Stimmenzähler schätzen vorerst die Ergebnisse.
+<sup>1</sup> Die Stimmenzählenden schätzen vorerst die Ergebnisse.
 
-<sup>2</sup> Können die Stimmenzähler das Ergebnis nicht eindeutig abschätzen oder wird ihre Schätzung in Zweifel gezogen, haben sie das Mehr und, wenn es die Hälfte der Teilnehmer nicht eindeutig übersteigt, auch das Gegenmehr abzuzählen.
+<sup>2</sup> Können die Stimmenzählenden das Ergebnis nicht eindeutig abschätzen oder wird ihre Schätzung in Zweifel gezogen, haben sie das Mehr und, wenn es die Hälfte der Teilnehmenden nicht eindeutig übersteigt, auch das Gegenmehr abzuzählen.
 
-<sup>3</sup> Je zwei Stimmenzähler zählen gemeinsam, wobei einer den andern kontrolliert.
+<sup>3</sup> Je zwei Stimmenzählende zählen gemeinsam, wobei die eine Person die andere kontrolliert.
 
-<sup>4</sup> Einwendungen gegen die Abzählergebnisse sind sofort vorzubringen. Nötigenfalls lässt der Präsident Mehr und Gegenmehr nochmals feststellen.
+<sup>4</sup> Einwendungen gegen die Abzählergebnisse sind sofort vorzubringen. Nötigenfalls lässt der Präsident oder die Präsidentin Mehr und Gegenmehr nochmals feststellen.
 
 #### § 111
 
 **Umfrage**
 
-<sup>1</sup> Nach Erledigung der angekündigten Geschäfte können die Teilnehmer in einer Umfrage zu den Gemeindeangelegenheiten Fragen stellen, Auskünfte verlangen und Anregungen, Wünsche oder Kritik vorbringen.
+<sup>1</sup> Nach Erledigung der angekündigten Geschäfte können die Teilnehmenden in einer Umfrage zu den Gemeindeangelegenheiten Fragen stellen, Auskünfte verlangen und Anregungen, Wünsche oder Kritik vorbringen.
 
 <sup>2</sup> Abstimmungen zur Erledigung von Geschäften sind im Rahmen der Umfrage unzulässig.
 
@@ -1353,7 +1389,7 @@ beschliesst:
 
 **Veröffentlichung der Abstimmungsergebnisse**
 
-<sup>1</sup> Der Präsident (§ 100) und der Protokollführer (§ 101) veröffentlichen am nächstfolgenden Werktag die Abstimmungsergebnisse (§ 21).
+<sup>1</sup> Der Präsident oder die Präsidentin (§ 100) und der Protokollführer oder die Protollführerin (§ 101) veröffentlichen am nächstfolgenden Werktag die Abstimmungsergebnisse (§ 21).
 
 ### 5.3 Protokoll
 
@@ -1361,16 +1397,16 @@ beschliesst:
 
 **Inhalt**
 
-<sup>1</sup> Der Protokollführer erstellt für jede Gemeindeversammlung innert 10 Tagen ein Verhandlungsprotokoll mit folgendem Inhalt:
+<sup>1</sup> Der Protokollführer oder die Protokollführerin erstellt für jede Gemeindeversammlung innert 10 Tagen ein Verhandlungsprotokoll mit folgendem Inhalt:
 
 - a. Ort und Zeit der Gemeindeversammlung,
 - b. Liste der angekündigten Geschäfte,
 - c. Zusammensetzung des Versammlungsbüros,
-- d. Zahl der Teilnehmer,
+- d. Zahl der Teilnehmenden,
 - e. für jedes Sachgeschäft
   - 1\. eine kurze Umschreibung des Gegenstandes,
   - 2\. alle Anträge und ihre Erledigung,
-  - 3\. Verlauf der Beratung: Redner, Protokollerklärungen (Absatz 2), Inhalt der Voten (Absatz 3),
+  - 3\. Verlauf der Beratung: Rednerinnen und Redner, Protokollerklärungen (Absatz 2), Inhalt der Voten (Absatz 3),
   - 4\. im Wortlaut die gefassten Beschlüsse, die dem Protokoll auch separat beigeheftet werden können,
   - 5\. Form und Ergebnis der Abstimmungen,
 - f. für jedes Wahlgeschäft
@@ -1378,9 +1414,9 @@ beschliesst:
   - 2\. Art des Abstimmungsverfahrens,
   - 3\. Ergebnisse der einzelnen Wahlgänge,
   - 4\. die Gewählten,
-- g. Unterschrift des Protokollführers.
+- g. Unterschrift des Protokollführers oder der Protokollführerin.
 
-<sup>2</sup> Durch kurze Protokollerklärungen können die Teilnehmer ihre gegensätzliche Meinungsäusserung zum Verfahren zu Protokoll geben. Die betroffenen Teilnehmer können in gleicher Weise eine kurze Gegenerklärung zu Protokoll geben.
+<sup>2</sup> Durch kurze Protokollerklärungen können die Teilnehmenden ihre gegensätzliche Meinungsäusserung zum Verfahren zu Protokoll geben. Die betroffenen Teilnehmenden können in gleicher Weise eine kurze Gegenerklärung zu Protokoll geben.
 
 <sup>3</sup> Vom Inhalt der Voten (Absatz 1e) sind in das Protokoll nur aufzunehmen
 
@@ -1393,7 +1429,7 @@ beschliesst:
 
 **Genehmigung**
 
-<sup>1</sup> Das Versammlungsbüro prüft und genehmigt das Protokoll unter Ausstand des Protokollführers.
+<sup>1</sup> Das Versammlungsbüro prüft und genehmigt das Protokoll unter Ausstand des Protokollführers oder der Protokollführerin.
 
 <sup>2</sup> Die zustimmenden Mitglieder des Versammlungsbüros unterzeichnen den Genehmigungsvermerk.
 
@@ -1403,11 +1439,13 @@ beschliesst:
 
 **Anfechtung, Einsichtnahme**
 
-<sup>1</sup> Der Protokollführer gibt die Auflage des Protokolls durch Anschlag bekannt.
+<sup>1</sup> Der Protokollführer oder die Protokollführerin gibt die Auflage des Protokolls durch Anschlag bekannt.
 
 <sup>2</sup> Die Protokollführung kann innert 10 Tagen seit diesem Anschlag durch Stimmrechtsbeschwerde beim Regierungsrat angefochten werden.
 
 <sup>3</sup> Die Protokolle der Gemeindeversammlung können jederzeit bei der Gemeinde eingesehen werden.
+
+<sup>4</sup> Die Gemeinde kann die Protokolle unter Wahrung der Bestimmungen der kantonalen Datenschutzgesetzgebung auch im Internet zur Einsicht bereitstellen.
 
 ### 5.4 Sachgeschäfte
 
@@ -1417,7 +1455,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständigen Mitglieder der Gemeindebehörde und allfälliger Kommissionen erläutern zu Beginn der Beratung die Vorlage und erteilen im Verlauf der Diskussion auf Verlangen weitere Auskünfte.
 
-<sup>2</sup> Initiativen können zu Beginn der Beratung von den Vertretern der Unterzeichner erläutert und begründet werden.
+<sup>2</sup> Initiativen können zu Beginn der Beratung von der Vertretung der Unterzeichnenden erläutert und begründet werden.
 
 <sup>3</sup> Zur Erläuterung von Fragen, die besondere Fachkenntnisse erfordern, können die Gemeindeversammlung oder die Gemeindebehörde auch Sachverständige beiziehen, die in der Gemeinde nicht stimmberechtigt sind.
 
@@ -1427,7 +1465,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeindeversammlung kann eine Vorlage zur Prüfung und Änderung an die Gemeindebehörde zurückweisen oder die Beratung ablehnen (Nichteintreten). Solche Anträge sind als Ordnungsanträge (§ 105) zu behandeln.
 
-<sup>2</sup> Beantragt kein Teilnehmer Nichteintreten, ist Eintreten stillschweigend beschlossen.
+<sup>2</sup> Beantragt kein Teilnehmer oder keine Teilnehmerin Nichteintreten, ist Eintreten stillschweigend beschlossen.
 
 #### § 118
 
@@ -1443,9 +1481,9 @@ beschliesst:
 
 **Abstimmung über mehrere Anträge**
 
-<sup>1</sup> Liegen zum gleichen Gegenstand mehrere Anträge vor, gibt der Präsident vor dem Abstimmen bekannt, wie er darüber abstimmen lässt.
+<sup>1</sup> Liegen zum gleichen Gegenstand mehrere Anträge vor, gibt der Präsident oder die Präsidentin vor dem Abstimmen bekannt, wie darüber abgestimmt wird.
 
-<sup>2</sup> Werden zum vorgeschlagenen Abstimmungsverfahren anderslautende Anträge gestellt, lässt der Präsident sofort darüber abstimmen.
+<sup>2</sup> Werden zum vorgeschlagenen Abstimmungsverfahren anderslautende Anträge gestellt, lässt der Präsident oder die Präsidentin sofort darüber abstimmen.
 
 <sup>3</sup> Liegen zum gleichen Gegenstand mehr als zwei Anträge der gleichen Art vor, wird über alle Anträge in zweckmässiger Reihenfolge paarweise abgestimmt, wobei der jeweils obsiegende Antrag mit dem nächstfolgenden wieder zur Abstimmung gelangt.
 
@@ -1463,17 +1501,17 @@ beschliesst:
 
 <sup>1</sup> Sofern die Schlussabstimmung nicht im Urnenverfahren stattfindet, wird sie sofort nach der Einzelberatung vorgenommen.
 
-<sup>2</sup> Ein Fünftel der Teilnehmer kann verlangen, dass die Schlussabstimmung an der Gemeindeversammlung nach den folgenden Vorschriften geheim durchgeführt wird:
+<sup>2</sup> Ein Fünftel der Teilnehmenden kann verlangen, dass die Schlussabstimmung an der Gemeindeversammlung nach den folgenden Vorschriften geheim durchgeführt wird:
 
-- a. Jeder Teilnehmer erhält vom Versammlungsbüro einen Stimmzettel, der mit einem Amtsstempel gekennzeichnet und handschriftlich auszufüllen ist.
-- b. Die Stimmenzähler sammeln die ausgefüllten Stimmzettel ein und ermitteln sofort während der Versammlung das Ergebnis.
+- a. Alle Teilnehmenden erhalten vom Versammlungsbüro einen Stimmzettel, der mit einem Amtsstempel gekennzeichnet und handschriftlich auszufüllen ist.
+- b. Die Stimmenzählerinnen und Stimmenzähler sammeln die ausgefüllten Stimmzettel ein und ermitteln sofort während der Versammlung das Ergebnis.
 - c. Im übrigen gelten die Vorschriften über das Urnenverfahren sinngemäss.
 
 #### § 122
 
 **Schlussabstimmung an der Urne**
 
-<sup>1</sup> Solange die Schlussabstimmung an der Versammlung nicht begonnen hat, können zwei Fünftel der Teilnehmer die Schlussabstimmung im Urnenverfahren verlangen.
+<sup>1</sup> Solange die Schlussabstimmung an der Versammlung nicht begonnen hat, können zwei Fünftel der Teilnehmenden die Schlussabstimmung im Urnenverfahren verlangen.
 
 <sup>2</sup> Kommt ein solches Begehren zustande, ist die Einzelberatung gleichwohl durchzuführen.
 
@@ -1491,37 +1529,37 @@ beschliesst:
 
 <sup>1</sup> Die Stimmberechtigten können der Gemeinde bis spätestens am 2. Tag vor der Gemeindeversammlung Wahlvorschläge einreichen.
 
-<sup>2</sup> Die Gemeinde erstellt aufgrund der Wahlvorschläge eine Kandidatenliste und lässt sie an der Gemeindeversammlung austeilen.
+<sup>2</sup> …
 
-<sup>3</sup> An der Gemeindeversammlung können die Stimmberechtigten weitere Kandidaten vorschlagen.
+<sup>3</sup> An der Gemeindeversammlung können die Stimmberechtigten weitere Personen zur Wahl vorschlagen.
 
-<sup>4</sup> Die Teilnehmer können zu den Wahlvorschlägen Stellung nehmen.
+<sup>4</sup> Die Teilnehmenden können zu den Wahlvorschlägen Stellung nehmen.
 
 #### § 124
 
 **Offene Wahl**
 
-<sup>1</sup> Die Gemeindeversammlung stimmt über die vorgeschlagenen Kandidaten ab, bis einer gewählt ist.
+<sup>1</sup> Die Gemeindeversammlung stimmt über die zur Wahl vorgeschlagenen Personen ab, bis eine gewählt ist.
 
-<sup>2</sup> Werden für die gleiche Stelle mehrere Kandidaten vorgeschlagen, wird der Reihe nach über die einzelnen Kandidaten abgestimmt.
+<sup>2</sup> Werden für die gleiche Stelle mehrere Kandidierende vorgeschlagen, wird der Reihe nach über die einzelnen Kandidierenden abgestimmt.
 
-<sup>3</sup> Massgebend für die Reihenfolge der Abstimmungen sind der Eingang der Wahlvorschläge und innerhalb der schriftlichen Wahlvorschläge die Reihenfolge ihrer Kandidaten.
+<sup>3</sup> Massgebend für die Reihenfolge der Abstimmungen sind der Eingang der Wahlvorschläge und innerhalb der schriftlichen Wahlvorschläge die Reihenfolge ihrer Kandidierenden.
 
-<sup>4</sup> Erreicht ein Kandidat das absolute Mehr, ist er gewählt, und die weitern Kandidaten gelangen nicht mehr zur Abstimmung.
+<sup>4</sup> Erreicht eine kandidierende Person das absolute Mehr, ist sie gewählt, und die weitern Kandidierenden gelangen nicht mehr zur Abstimmung.
 
 #### § 125
 
 **Geheime Wahl**
 
-<sup>1</sup> Ein Fünftel der Teilnehmer kann verlangen, dass bestimmte Wahlgänge an der Gemeindeversammlung nach folgenden Vorschriften geheim durchgeführt werden:
+<sup>1</sup> Ein Fünftel der Teilnehmenden kann verlangen, dass bestimmte Wahlgänge an der Gemeindeversammlung nach folgenden Vorschriften geheim durchgeführt werden:
 
-- a. Jeder Teilnehmer erhält vom Versammlungsbüro für jeden Wahlgang einen Wahlzettel, der mit einem Amtsstempel gekennzeichnet ist.
-- b. Über alle Kandidaten, die für den Wahlgang vorgeschlagen sind, wird mit dem gleichen Wahlzettel abgestimmt.
+- a. Alle Teilnehmenden erhalten vom Versammlungsbüro für jeden Wahlgang einen Wahlzettel, der mit einem Amtsstempel gekennzeichnet ist.
+- b. Über alle Kandidierenden, die für den Wahlgang vorgeschlagen sind, wird mit dem gleichen Wahlzettel abgestimmt.
 - c. Wer für den Wahlgang nicht vorgeschlagen wurde, ist nicht wählbar.
-- d. Kandidaten, die vor der Gemeindeversammlung bei der Gemeinde vorgeschlagen wurden, sind auf dem Wahlzettel aufgeführt.
-- e. Der Stimmende kann Kandidaten streichen und handschriftlich andere Kandidaten eintragen.
-- f. Der ausgefüllte Wahlzettel darf höchstens so viele Namen enthalten, als Kandidaten zu wählen sind, sonst ist er ungültig.
-- g. Die Stimmenzähler sammeln die ausgefüllten Wahlzettel ein und ermitteln sofort während der Versammlung das Ergebnis.
+- d. Kandidierende, die vor der Gemeindeversammlung bei der Gemeinde vorgeschlagen wurden, sind auf dem Wahlzettel aufgeführt.
+- e. Die stimmende Person kann Kandidierende streichen und handschriftlich andere Kandidierende eintragen.
+- f. Enthält ein Wahlzettel mehr gültige Kandidatenstimmen als zu vergeben sind, werden die überzähligen nach der vom Justiz- und Sicherheitsdepartement festzulegenden Reihenfolge gestrichen.
+- g. Die Stimmenzählerinnen und Stimmenzähler sammeln die ausgefüllten Wahlzettel ein und ermitteln sofort während der Versammlung das Ergebnis.
 - h. Im übrigen gelten die Vorschriften über das Urnenverfahren sinngemäss.
 
 #### § 126
@@ -1530,15 +1568,15 @@ beschliesst:
 
 <sup>1</sup> Im ersten Wahlgang entscheidet das absolute Mehr.
 
-<sup>2</sup> Wird im ersten Wahlgang kein Kandidat gewählt, wird sofort ein zweiter Wahlgang durchgeführt, bei dem ebenfalls das absolute Mehr entscheidet.
+<sup>2</sup> Wird im ersten Wahlgang keine Person gewählt, wird sofort ein zweiter Wahlgang durchgeführt, bei dem die grössere Stimmenzahl (relatives Mehr) entscheidet.
 
-<sup>3</sup> Wird auch im zweiten Wahlgang kein Kandidat gewählt, wird sofort ein dritter Wahlgang durchgeführt, bei dem die grössere Stimmenzahl (relatives Mehr) entscheidet.
+<sup>3</sup> Vor dem zweiten Wahlgang können die Stimmberechtigten neue Vorschläge machen.
 
-<sup>4</sup> Im offenen Verfahren wird der dritte Wahlgang nur durchgeführt, wenn mehr Kandidaten vorgeschlagen werden, als zu wählen sind. Andernfalls sind die Vorgeschlagenen still gewählt.
+<sup>4</sup> …
 
-<sup>5</sup> Vor jedem Wahlgang können die Stimmberechtigten neue Vorschläge machen.
+<sup>5</sup> …
 
-<sup>6</sup> Im übrigen gilt § 117 sinngemäss.
+<sup>6</sup> …
 
 #### § 127
 
@@ -1546,9 +1584,9 @@ beschliesst:
 
 <sup>1</sup> Sind gleichzeitig mehrere Mitglieder einer Kollegialbehörde zu wählen, wird für die freien Stellen der Reihe nach das Einzelverfahren (§§ 123–126) durchgeführt.
 
-<sup>2</sup> Die Wahlvorschläge gelten für alle zu besetzenden Stellen. Kandidaten, die bei der Besetzung einer Stelle nicht gewählt werden, bleiben für die Besetzung der übrigen freien Stellen in der Wahl.
+<sup>2</sup> Die Wahlvorschläge gelten für alle zu besetzenden Stellen. Kandidierende, die bei der Besetzung einer Stelle nicht gewählt werden, bleiben für die Besetzung der übrigen freien Stellen in der Wahl.
 
-<sup>3</sup> An Stelle des Einzelwahlverfahrens kann die Gemeindeversammlung über alle Wahlvorschläge gesamthaft abstimmen, wenn insgesamt nicht mehr Kandidaten vorgeschlagen sind, als zu wählen sind, und auf Anfrage des Präsidenten nicht mehr als zwei Fünftel der Teilnehmer Einzelwahlen verlangen.
+<sup>3</sup> Anstelle des Einzelwahlverfahrens kann die Gemeindeversammlung über alle Wahlvorschläge gesamthaft abstimmen, wenn insgesamt nicht mehr Kandidierende vorgeschlagen sind, als zu wählen sind, und auf Anfrage des Präsidenten oder der Präsidentin nicht mehr als zwei Fünftel der Teilnehmenden Einzelwahlen verlangen.
 
 ## 6 Volksbegehren
 
@@ -1560,13 +1598,13 @@ beschliesst:
 
 <sup>1</sup> Alle Unterschriftenlisten (Bogen, Blatt, Karte) eines Volksbegehrens müssen den gleichen Text mit den folgenden Angaben enthalten:
 
-- a. bei Volksbegehren des Kantons und der Gemeindeverbände eine Linie für die Angabe der Einwohnergemeinde, in der die Unterzeichner stimmberechtigt sind,
+- a. bei Volksbegehren des Kantons und der Gemeindeverbände eine Linie für die Angabe der Einwohnergemeinde, in der die Unterzeichnenden stimmberechtigt sind,
 - b. einen Titel,
 - c. das Begehren sowie bei Initiativen das Datum der Veröffentlichung im Kantonsblatt,
 - d. den Hinweis «Wer das Ergebnis einer Unterschriftensammlung für ein Volksbegehren fälscht (Art. 282 des Strafgesetzbuches[^128-1]) oder wer bei der Unterschriftensammlung besticht oder sich bestechen lässt (Art. 281 des Strafgesetzbuches), macht sich strafbar»,
-- e. Kolonnen für Name und Vorname, Geburtsdatum, Wohnadresse und Unterschrift der Unterzeichner sowie den Kontrollvermerk des Stimmregisterführers,
-- f. den Text der Stimmrechtsbescheinigung «Diese Unterschriftenliste enthält ... (in Worten: ...) gültige Unterschriften von Stimmberechtigten der angegebenen Gemeinde. Der Stimmregisterführer»,
-- g. die Namen und Adressen von mindestens drei Mitgliedern des Initiativ- oder Referendumskomitees,
+- e. Kolonnen für Name und Vorname, Geburtsdatum, Wohnadresse und Unterschrift der Unterzeichnenden sowie den Kontrollvermerk des Stimmregisterführers oder der Stimmregisterführerin,
+- f. den Text der Stimmrechtsbescheinigung «Diese Unterschriftenliste enthält ... (in Worten: ...) gültige Unterschriften von Stimmberechtigten der angegebenen Gemeinde. Der Stimmregisterführer bzw. die Stimmregisterführerin»,
+- g. die Namen, Wohnorte und Geburtsjahre von mindestens drei Mitgliedern des Initiativ- oder Referendumskomitees,
 - h. den Hinweis auf das gesetzliche Rückzugsrecht und die Angabe, wem das Rückzugsrecht zusteht (§ 146 Absatz 2).
 
 <sup>2</sup> Werden mehrere Volksbegehren zur Unterzeichnung aufgelegt, so ist für jedes eine eigene Unterschriftenliste zu führen. Unterschriftenlisten mehrerer Volksbegehren dürfen auf der gleichen Seite platziert werden, sofern sie für die Einreichung voneinander getrennt werden können.
@@ -1667,11 +1705,11 @@ beschliesst:
 
 **Unterzeichnung**
 
-<sup>1</sup> Der Unterzeichner muss seinen Namen handschriftlich und leserlich auf die Unterschriftenliste schreiben und sie unterzeichnen. Er muss ferner die zur Feststellung seiner Identität nötigen Angaben, wie Vorname, Geburtsdatum und Adresse, machen.
+<sup>1</sup> Die Unterzeichnenden müssen ihre Namen und ihre Vornamen handschriftlich und leserlich auf die Unterschriftenliste schreiben und sie unterzeichnen. Sie müssen ferner die zur Feststellung ihrer Identität nötigen Angaben, wie Geburtsdatum und Adresse, machen.
 
-<sup>2</sup> Schreibunfähige Stimmberechtigte können die Unterzeichnung nach Absatz 1 durch einen Stimmberechtigten ihrer Wahl vornehmen lassen. Dieser setzt seine eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
+<sup>2</sup> Schreibunfähige Stimmberechtigte können die Unterzeichnung nach Absatz 1 durch eine stimmberechtigte Person ihrer Wahl vornehmen lassen. Diese setzt ihre eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisungen Stillschweigen.
 
-<sup>3</sup> Der Unterzeichner darf das gleiche Volksbegehren nur einmal unterzeichnen.
+<sup>3</sup> Jede Person darf das gleiche Volksbegehren nur einmal unterzeichnen.
 
 <sup>4</sup> Eine Unterschriftenliste darf nur von Stimmberechtigten jener Gemeinde unterzeichnet werden, die auf der Unterschriftenliste angegeben ist.
 
@@ -1679,13 +1717,13 @@ beschliesst:
 
 **Stimmrechtsbescheinigung**
 
-<sup>1</sup> Das Initiativ- oder Referendumskomitee hat die Unterschriftenlisten so frühzeitig vor Ablauf der Sammlungsfrist dem zuständigen Stimmregisterführer zuzustellen, dass die Stimmrechtsbescheinigung noch während der Sammlungsfrist erfolgen kann.
+<sup>1</sup> Das Initiativ- oder Referendumskomitee hat die Unterschriftenlisten so frühzeitig vor Ablauf der Sammlungsfrist dem Stimmregisterführer oder der Stimmregisterführerin zuzustellen, dass die Stimmrechtsbescheinigung noch während der Sammlungsfrist erfolgen kann.
 
-<sup>2</sup> Der Stimmregisterführer bescheinigt, dass die Unterzeichner in der auf der Unterschriftenliste angegebenen Gemeinde für den Gegenstand des Volksbegehrens stimmberechtigt sind, und gibt die Listen unverzüglich dem Komitee zurück.
+<sup>2</sup> Der Stimmregisterführer oder die Stimmregisterführerin bescheinigt, dass die Unterzeichnenden in der auf der Unterschriftenliste angegebenen Gemeinde für den Gegenstand des Volksbegehrens stimmberechtigt sind, und gibt die Listen unverzüglich dem Komitee zurück.
 
-<sup>3</sup> Die Bescheinigung muss in Worten oder Ziffern die Zahl der bescheinigten Unterschriften angeben; sie ist zu datieren, vom Stimmregisterführer zu unterzeichnen und mit dem Amtsstempel zu versehen.
+<sup>3</sup> Die Bescheinigung muss in Worten oder Ziffern die Zahl der bescheinigten Unterschriften angeben; sie ist zu datieren, vom Stimmregisterführer oder von der Stimmregisterführerin zu unterzeichnen und mit dem Amtsstempel zu versehen.
 
-<sup>4</sup> Das Stimmrecht der Unterzeichner kann für mehrere Unterschriftenlisten gesamthaft bescheinigt werden.
+<sup>4</sup> Das Stimmrecht der Unterzeichnenden kann für mehrere Unterschriftenlisten gesamthaft bescheinigt werden.
 
 #### § 139
 
@@ -1693,10 +1731,10 @@ beschliesst:
 
 <sup>1</sup> Die Stimmrechtsbescheinigung für eine Unterschrift wird verweigert, wenn
 
-- a. die Angaben auf der Unterschriftenliste nicht ausreichen, um den Unterzeichner zu identifizieren,
-- b. der Unterzeichner für das Volksbegehren oder in der angegebenen Gemeinde nicht stimmberechtigt ist.
+- a. die Angaben auf der Unterschriftenliste nicht ausreichen, um die unterzeichnende Person zu identifizieren,
+- b. die unterzeichnende Person für das Volksbegehren oder in der angegebenen Gemeinde nicht stimmberechtigt ist.
 
-<sup>2</sup> Hat der Stimmberechtigte mehrmals unterschrieben, wird nur eine Unterschrift bescheinigt.
+<sup>2</sup> Hat die stimmberechtigte Person mehrmals unterschrieben, wird nur eine Unterschrift bescheinigt.
 
 <sup>3</sup> Der Verweigerungsgrund ist auf der Unterschriftenliste mit einem Stichwort anzugeben.
 
@@ -1750,7 +1788,7 @@ beschliesst:
 - b. die Unterschriftenliste mehr als ein Volksbegehren enthält oder andern wesentlichen Formvorschriften nicht genügt,
 - c. die Unterschriftenliste, ausgenommen bei Volksreferenden, nicht amtlich datiert ist,
 - d. die Stimmberechtigung nicht bescheinigt ist,
-- e. der Unterzeichner nicht in der Gemeinde stimmberechtigt ist, die auf der Unterschriftenliste angegeben ist.
+- e. die unterzeichnenden Person nicht in der Gemeinde stimmberechtigt ist, die auf der Unterschriftenliste angegeben ist.
 
 <sup>2</sup> Die Gültigkeit einer Unterschrift beurteilt sich nach dem Stand des Stimmregisters am Tag, an dem die Unterschriftenliste zur Bescheinigung eingereicht wurde.
 
@@ -1758,7 +1796,7 @@ beschliesst:
 
 **Behebung von Bescheinigungsmängeln**
 
-<sup>1</sup> Die Erwahrungsbehörde lässt fehlerhafte Stimmrechtsbescheinigungen durch den Stimmregisterführer berichtigen, soweit das Zustandekommen des Volksbegehrens davon abhängt.
+<sup>1</sup> Die Erwahrungsbehörde lässt fehlerhafte Stimmrechtsbescheinigungen durch den Stimmregisterführer oder die Stimmregisterführerin berichtigen, soweit das Zustandekommen des Volksbegehrens davon abhängt.
 
 #### § 145
 
@@ -1770,7 +1808,7 @@ beschliesst:
 
 - a. das angerufene Gemeinwesen für den Gegenstand nicht zuständig ist,
 - b. es nach der Zuständigkeitsordnung des Gemeinwesens nicht zulässig ist,
-- c. es den Willen der Unterzeichner nicht eindeutig erkennen lässt,
+- c. es den Willen der unterzeichnenden Person nicht eindeutig erkennen lässt,
 - d. die Einheit der Form nicht gewahrt ist (§ 132),
 - e. die Einheit der Materie nicht gewahrt ist (§ 133),
 - f. der verlangte Beschluss gegen übergeordnetes Recht verstösst.
@@ -1885,9 +1923,9 @@ beschliesst:
 
 **Ausserordentliche Stellvertretung**
 
-<sup>1</sup> Lassen sich freie Stellen in Behörden wegen Anfechtung oder Nichtgenehmigung von Wahlen oder aus andern Gründen nicht rechtzeitig wieder besetzen, kann der Regierungsrat bis zum Amtsantritt der Neugewählten ausserordentliche Stellvertreter ernennen.
+<sup>1</sup> Lassen sich freie Stellen in Behörden wegen Anfechtung oder Nichtgenehmigung von Wahlen oder aus andern Gründen nicht rechtzeitig wieder besetzen, kann der Regierungsrat bis zum Amtsantritt der Neugewählten ausserordentliche Stellvertreterinnen und Stellvertreter ernennen.
 
-<sup>2</sup> Sprechen nicht besondere Gründe dagegen, werden die bisherigen Amtsinhaber als ausserordentliche Stellvertreter ernannt.
+<sup>2</sup> Sprechen nicht besondere Gründe dagegen, werden die bisherigen Amtsinhaberinnen und Amtsinhaber als ausserordentliche Stellvertreterinnen und Stellvertreter ernannt.
 
 #### § 152
 
@@ -1895,7 +1933,7 @@ beschliesst:
 
 <sup>1</sup> Verletzt jemand seine amtlichen Pflichten nach diesem Gesetz, kann ihm der Regierungsrat einen Verweis erteilen oder eine Ordnungsbusse bis zu 2000 Franken auferlegen.
 
-<sup>2</sup> Die gleiche Befugnis steht der Gemeinde gegen die Präsidenten und Mitglieder der Urnenbüros zu.
+<sup>2</sup> Die gleiche Befugnis steht der Gemeinde gegen die Präsidentinnen und Präsidenten sowie Mitglieder der Urnenbüros zu.
 
 <sup>3</sup> Vorbehalten bleiben Strafverfahren.
 
@@ -1907,9 +1945,9 @@ beschliesst:
 
 <sup>1</sup> Zuständig für die Behandlung von Unvereinbarkeitsfällen ist bei genehmigungsbedürftigen Wahlen die Genehmigungsinstanz und in den übrigen Fällen die Behörde, welche die Wahl angeordnet hat.
 
-<sup>2</sup> Wer in ein Amt gewählt wird, das er nicht gleichzeitig mit einem andern Amt oder einer andern Tätigkeit ausüben darf, hat innert angesetzter Frist zu erklären, wofür er sich entscheidet. Gibt er keine Erklärung ab, wird Verzicht auf die zuletzt erfolgte Wahl angenommen.
+<sup>2</sup> Wird eine Person in ein Amt gewählt, das nicht gleichzeitig mit einem andern Amt oder einer andern Tätigkeit ausgeübt werden darf, hat sie innert angesetzter Frist zu erklären, wofür sie sich entscheidet. Wird keine Erklärung abgegeben, wird Verzicht auf die zuletzt erfolgte Wahl angenommen.
 
-<sup>3</sup> Werden Fälle von Unvereinbarkeit nach § 17 der Staatsverfassung[^153-1] (Verwandtschaft und Schwägerschaft) nicht durch freiwilligen Verzicht der Beteiligten erledigt, verbleibt das Amt dem Gewählten, der früher gewählt wurde oder bei gleichzeitiger Wahl die grössere Stimmenzahl erzielt hat.
+<sup>3</sup> Werden Fälle von Unvereinbarkeit nach § 17 der Staatsverfassung[^153-1] (Verwandtschaft und Schwägerschaft) nicht durch freiwilligen Verzicht der Beteiligten erledigt, verbleibt das Amt der gewählten Person, die früher gewählt wurde oder bei gleichzeitiger Wahl die grössere Stimmenzahl erzielt hat.
 
 [^153-1]: G VI 79 und Z I 41 (SRL Nr. 1 alt). § 17 der Staatsverfassung von 1875 gilt übergangsrechtlich weiter (§ 84 Absatz 6 Kantonsverfassung vom 17. Juni 2007, SRL Nr. 1).
 
@@ -1943,15 +1981,15 @@ beschliesst:
 
 **Ablehnung der Wahl**
 
-<sup>1</sup> Will ein Gewählter die Wahl nicht annehmen, hat er innert 10 Tagen seit dem Abstimmungstag bei der Behörde, welche die Wahl anordnete, ein Entlassungsgesuch einzureichen.
+<sup>1</sup> Will eine gewählte Person die Wahl nicht annehmen, hat sie innert 10 Tagen seit dem Abstimmungstag bei der Behörde, welche die Wahl anordnete, ein Entlassungsgesuch einzureichen.
 
-<sup>2</sup> Dem Entlassungsgesuch ist zu entsprechen, wenn es sich um eine hauptamtliche Stelle handelt oder wenn der Gesuchsteller
+<sup>2</sup> Dem Entlassungsgesuch ist zu entsprechen, wenn es sich um eine hauptamtliche Stelle handelt oder wenn die gesuchstellende Person
 
 - a. das 65. Altersjahr zurückgelegt hat,
 - b. das gleiche Amt schon während einer vollen Amtsdauer ausgeübt hat oder
-- c. glaubhaft macht, dass ihm die Ausübung des Amtes gesundheitlich oder wirtschaftlich zum Nachteil gereichen würde.
+- c. glaubhaft macht, dass ihr die Ausübung des Amtes gesundheitlich oder wirtschaftlich zum Nachteil gereichen würde.
 
-<sup>3</sup> Hat sich der Gesuchsteller auf einem Wahlvorschlag mit der Wahl einverstanden erklärt, kann er sich nur auf Gründe berufen, die seit der Annahmeerklärung eingetreten sind.
+<sup>3</sup> Hat sich die gesuchstellende Person auf einem Wahlvorschlag mit der Wahl einverstanden erklärt, kann sie sich nur auf Gründe berufen, die seit der Annahmeerklärung eingetreten sind.
 
 #### § 157
 
@@ -1959,7 +1997,7 @@ beschliesst:
 
 <sup>1</sup> Wer von den Stimmberechtigten gewählt ist und während der Amtsdauer zurücktreten will, hat der Behörde, welche die Ersatzwahl anzuordnen hat, ein Entlassungsgesuch einzureichen.
 
-<sup>2</sup> Der Gesuchsteller hat nur Anspruch auf Entlassung, wenn ein Entlassungsgrund nach § 156 Absatz 2a oder c gegeben ist oder wenn die Entlassung im Interesse des Gemeinwesens liegt.
+<sup>2</sup> Die gesuchstellende Person hat nur Anspruch auf Entlassung, wenn ein Entlassungsgrund nach § 156 Absatz 2a oder c gegeben ist oder wenn die Entlassung im Interesse des Gemeinwesens liegt.
 
 <sup>3</sup> Über Entlassungsgesuche von Mitgliedern des Kantonsrates entscheidet der Kantonsrat.
 
@@ -1979,7 +2017,7 @@ beschliesst:
 
 <sup>2</sup> Die Beschwerdefrist beträgt 10 Tage. Vorbehalten bleibt Artikel 77 Absatz 2 des Bundesgesetzes über die politischen Rechte.
 
-<sup>3</sup> Berechtigt zur Stimmrechtsbeschwerde sind der Betroffene, der Gesuchsteller, die in der Gemeinde Stimmberechtigten und die in der Gemeinde organisierten politischen Parteien.
+<sup>3</sup> Berechtigt zur Stimmrechtsbeschwerde sind die Betroffenen, die Gesuchstellerinnen und Gesuchsteller und die Stimmberechtigten der Gemeinde sowie die in der Gemeinde organisierten politischen Parteien.
 
 <sup>4</sup> Stimmrechtsbeschwerden, die der Regierungsrat bis zum Abstimmungstag nicht entschieden hat, sind wie Beschwerden nach § 160 weiter zu behandeln.
 
@@ -2012,30 +2050,30 @@ beschliesst:
 
 #### § 162
 
-**Stimmrechtsbeschwerde bei Volksbegehren und Referenden der Gemeinden**
+**Stimmrechtsbeschwerde und Einsprache bei Volksbegehren und Referenden der Gemeinden**
 
-<sup>1</sup> Bei Volksbegehren ist die Stimmrechtsbeschwerde zulässig
+<sup>1</sup> Mit Stimmrechtsbeschwerde können gerügt werden:
 
-- a. gegen Beschlüsse von Behörden der Gemeinden oder Gemeindeverbände, die ein Geschäft der Volksabstimmung oder dem fakultativen Referendum nicht unterstellen,
-- b. gegen die Ungültigerklärung oder Änderung einer Unterschriftenliste bei ihrer Vorprüfung (§ 135),
-- c. gegen die Verweigerung einer Stimmrechtsbescheinigung durch den Gemeinderat (§ 139),
-- d. gegen Entscheide und Beschlüsse der Behörden von Gemeinden und Gemeindeverbänden, die das Nichtzustandekommen (§ 141), die Ungültigkeit (§ 141; §§ 39 und 43 des Gemeindegesetzes) oder den Rückzug eines Volksbegehrens (§ 146) feststellen,
-- e. wegen andern Unregelmässigkeiten bei der Behandlung von Volksbegehren.
+- a. Unregelmässigkeiten bei der Behandlung von Volksbegehren und Referenden der Gemeinden durch die Organe der Gemeinden oder Gemeindeverbände sowie durch das Justiz- und Sicherheitsdepartement,
+- b. die Nichtunterstellung eines Beschlusses unter das fakultative oder obligatorische Referendum durch die Organe der Gemeinden oder Gemeindeverbände.
+- c. …
+- d. …
+- e. …
 
-<sup>2</sup> Bei Referenden der Gemeinden ist die Stimmrechtsbeschwerde zulässig
+<sup>2</sup> Gegen Unregelmässigkeiten bei der Behandlung von Volksbegehren und Referenden der Gemeinden durch den Regierungsrat kann bei diesem Einsprache erhoben werden.
 
-- a. gegen den Entscheid des Regierungsrates, der das Nichtzustandekommen des Referendums feststellt (§ 146d),
-- b. wegen anderen Unregelmässigkeiten bei der Behandlung des Referendums.
+- a. …
+- b. …
 
-<sup>3</sup> Die Beschwerdefrist beträgt in den Fällen der Absätze 1a und b 10 Tage und im übrigen 20 Tage.
+<sup>3</sup> Die Beschwerdefrist für die Stimmrechtsbeschwerde oder Einsprache beträgt 20 Tage. § 163 gilt für Einsprachen sinngemäss.
 
-<sup>4</sup> Zur Stimmrechtsbeschwerde sind berechtigt
+<sup>4</sup> Zur Stimmrechtsbeschwerde und Einsprache sind die Stimmberechtigten sowie das Initiativ- oder Referendumskomitee berechtigt. Wegen Unregelmässigkeiten bei der Behandlung des Referendums der Gemeinden sind zudem die betroffenen Gemeinden einspracheberechtigt.
 
-- a. wegen Ausschluss der Volksabstimmung oder des fakultativen Referendums jeder Stimmberechtigte der Gemeinde oder des Gemeindeverbandes,
-- b. wegen Ungültigerklärung oder Änderung einer Unterschriftenliste bei der Vorprüfung das Initiativ- oder Referendumskomitee,
-- c. wegen Verweigerung der Stimmrechtsbescheinigung der Betroffene und das Initiativ- oder Referendumskomitee,
-- d. wegen Feststellung des Nichtzustandekommens, der Ungültigkeit oder des Rückzugs eines Volksbegehrens das Initiativ- oder Referendumskomitee und jeder Unterzeichner,
-- e. wegen Unregelmässigkeiten bei der Behandlung des Referendums der Gemeinden die betroffenen Gemeinden.
+- a. …
+- b. …
+- c. …
+- d. …
+- e. …
 
 #### § 163
 
@@ -2043,7 +2081,7 @@ beschliesst:
 
 <sup>1</sup> Die Beschwerdefrist für Stimmrechtsbeschwerden beginnt wie folgt zu laufen:
 
-- a. für Empfänger von Entscheiden oder Anordnungen mit der Zustellung,
+- a. für Empfängerinnen und Empfänger von Entscheiden oder Anordnungen mit der Zustellung,
 - b. bei öffentlich bekanntgemachten Entscheiden oder Anordnungen in jedem Fall mit der öffentlichen Bekanntmachung.
 
 <sup>2</sup> Vorbehalten bleibt ferner § 160 Absatz 2.
@@ -2054,7 +2092,7 @@ beschliesst:
 
 <sup>1</sup> Die Stimmrechtsbeschwerden sind schriftlich beim Regierungsrat einzureichen.
 
-<sup>2</sup> Die Urnenbüros, ihre Präsidenten und Mitglieder können Stimmrechtsbeschwerden wegen Unregelmässigkeiten während ihrer Amtsausübung auf dem Verbal anbringen.
+<sup>2</sup> Die Urnenbüros, ihre Präsidentinnen und Präsidenten sowie Mitglieder können Stimmrechtsbeschwerden wegen Unregelmässigkeiten während ihrer Amtsausübung auf dem Verbal anbringen.
 
 <sup>3</sup> Die Stimmrechtsbeschwerden müssen einen Antrag und zur Begründung eine kurze Darstellung des beanstandeten Sachverhalts enthalten.
 
@@ -2078,9 +2116,9 @@ beschliesst:
 
 <sup>1</sup> Soweit dieses Gesetz die Stimmrechtsbeschwerden nicht ordnet, gilt das Verwaltungsrechtspflegegesetz[^166-1] sinngemäss.
 
-<sup>2</sup> Die Stimmrechtsbeschwerde, die Einsprache gemäss § 161 und die Verwaltungsgerichtsbeschwerde haben keine aufschiebende Wirkung.
+<sup>2</sup> Die Stimmrechtsbeschwerde, die Einsprache gemäss den §§ 161 und 162 und die Verwaltungsgerichtsbeschwerde haben keine aufschiebende Wirkung.
 
-<sup>3</sup> Die Verwaltungsgerichtsbeschwerde ist ausgeschlossen gegen Massnahmen des Regierungsrates, welche mit Einsprache gemäss § 161 anfechtbar sind.
+<sup>3</sup> Die Verwaltungsgerichtsbeschwerde ist ausgeschlossen gegen Massnahmen des Regierungsrates, welche mit Einsprache gemäss den §§ 161 und 162 anfechtbar sind.
 
 [^166-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 
@@ -2101,7 +2139,7 @@ beschliesst:
 
 <sup>1</sup> Für Amtshandlungen aufgrund dieses Gesetzes dürfen keine Kosten erhoben werden.
 
-<sup>2</sup> Bei mutwilliger oder trölerischer Beschwerdeführung können die Kosten dem Beschwerdeführer überbunden werden.
+<sup>2</sup> Die Kostenregelung in Einsprache- und Beschwerdeverfahren richtet sich nach dem Verwaltungsrechtspflegegesetz.
 
 ## 10 Schlussbestimmungen
 
@@ -2136,6 +2174,12 @@ beschliesst:
 #### § 169a
 
 **…**
+
+#### § 169b
+
+**Übergangsbestimmung zur Änderung vom 22. Juni 2026**
+
+<sup>1</sup> Für Wahlen, deren Wahltag vor Ende 2026 liegt, sind die bisherigen Regelungen anwendbar.
 
 #### § 170
 
