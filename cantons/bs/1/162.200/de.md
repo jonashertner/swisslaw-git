@@ -4,24 +4,23 @@ number: "162.200"
 title: Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 short: "Arbeitszeitverordnung, AZV"
 language: de
-version: 2025-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-11-19
+version: 2026-09-01
+version_adopted: 2026-06-30
 adopted: 2004-07-06
 in_force: 2005-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6449/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6854/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 
-Arbeitszeitverordnung | Dienstverhältnis
+Dienstverhältnis
 
 (Arbeitszeitverordnung, AZV)
 
-Vom 6. Juli 2004 (Stand 1. Januar 2025)
+Vom 6. Juli 2004 (Stand 1. September 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -268,9 +267,9 @@ beschliesst:
 
 #### § 24
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter die Nachtarbeit leisten, erhalten eine Nachtarbeitszulage von CHF 7.35 pro Stunde.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter die Nachtarbeit leisten, erhalten eine Nachtarbeitszulage von Fr. 9.20 pro Stunde.
 
-<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die Nachtbereitschaft leisten, erhalten eine Nachtbereitschaftszulage von Fr. 5.30 pro Stunde, Mitarbeiterinnen und Mitarbeiter der Berufsfeuerwehr eine solche von Fr. 6.40 pro Stunde.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die Nachtbereitschaft leisten, erhalten eine Nachtbereitschaftszulage von Fr. 6.60 pro Stunde, Mitarbeiterinnen und Mitarbeiter der Berufsfeuerwehr eine solche von Fr. 8.00 pro Stunde.
 
 #### § 25
 
@@ -290,9 +289,9 @@ beschliesst:
 
 <sup>1</sup> Die Vergütungen betragen:
 
-– an Sonntagen Fr. 7.35 pro Stunde
+– an Sonntagen Fr. 9.20 pro Stunde
 
-– an Feiertagen Fr. 14.70 pro Stunde
+– an Feiertagen Fr. 18.40 pro Stunde
 
 #### § 29
 
@@ -321,9 +320,9 @@ beschliesst:
 
 <sup>1</sup> Wird Pikett geleistet, betragen die Vergütungen:
 
-– für Pikett an Werktagen Fr. 3.05 pro Stunde
+– für Pikett an Werktagen Fr. 3.80 pro Stunde
 
-– für Pikett an geplanten Ruhetagen sowie an Sonn- und Feiertagen Fr. 4.55 pro Stunde.
+– für Pikett an geplanten Ruhetagen sowie an Sonn- und Feiertagen Fr. 5.70 pro Stunde.
 
 <sup>2</sup> Mitarbeitende in den Lohnklassen 18–28 haben keinen Anspruch auf eine Pikettdienstzulage.
 
