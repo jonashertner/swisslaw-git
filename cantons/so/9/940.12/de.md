@@ -4,13 +4,12 @@ number: "940.12"
 title: Verordnung zum Wirtschafts- und Arbeitsgesetz
 short: VWAG
 language: de
-version: 2021-03-01
-valid_until: 2026-08-31
-version_adopted: 2020-11-24
+version: 2026-09-01
+version_adopted: 2026-06-22
 adopted: 2015-09-22
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/940.12"
-pdf: "https://bgs.so.ch/api/de/versions/5064/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5660/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5064/pdf_file"
 
 (VWAG)
 
-Vom 22.09.2015 (Stand 01.03.2021)
+Vom 22.09.2015 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -559,6 +558,8 @@ beschliesst:
 - d) Sexarbeit;
 - e) Kleinspiele;
 - f) Arbeit in Industrie, Gewerbe und Handel;
+- f)<sup>bis</sup> Standortförderung;
+- f)<sup>ter</sup> Tourismusförderung;
 - g) …
 - h) …
 - i) …
@@ -575,10 +576,7 @@ beschliesst:
 - b) die Anordnung von Sanktionen gemäss Artikel 13 Absatz 1 Bundesgesetz gegen die Schwarzarbeit [^41-3];
 - c) …
 
-<sup>2<sup>bis</sup></sup> Das Departementssekretariat des Volkswirtschaftsdepartementes ist zuständige Behörde für:
-
-- a) Standortförderung;
-- b) Tourismusförderung.
+<sup>2<sup>bis</sup></sup> …
 
 <sup>3</sup> Das Volkswirtschaftsdepartement ist zudem Beschwerdeinstanz im Sinne von § 84 Absatz 2 und § 87 WAG[^41-4].
 
