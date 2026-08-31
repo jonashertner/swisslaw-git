@@ -4,13 +4,12 @@ number: "811.17"
 title: Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 short: EG Ausbildungsfördergesetz Pflege
 language: de
-version: 2024-07-01
-valid_until: 2026-08-31
-version_adopted: 2024-05-15
+version: 2026-09-01
+version_adopted: 2026-05-05
 adopted: 2024-05-15
 in_force: 2024-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.17"
-pdf: "https://bgs.so.ch/api/de/versions/5465/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5465/pdf_file"
 
 (EG Ausbildungsfördergesetz Pflege)
 
-Vom 15.05.2024 (Stand 01.07.2024)
+Vom 15.05.2024 (Stand 01.09.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -141,13 +140,18 @@ beschliesst:
 
 **Mitwirkungspflichten und Datenbearbeitung**
 
-<sup>1</sup> Die Einrichtungen sind verpflichtet, dem Departement und den mit Vollzugsaufgaben nach diesem Gesetz betrauten Fachorganisationen und Branchenverbänden die für die Festlegung der Ausbildungsleistung, der Abgeltung und der Ausgleichszahlung sowie die weiteren für den Vollzug der Ausbildungsverpflichtung erforderlichen Daten unentgeltlich und elektronisch zur Verfügung zu stellen.
+<sup>1</sup> Die Einrichtungen sind verpflichtet:
 
-<sup>2</sup> Bei Nichterfüllung oder nicht ordnungsgemässer Erfüllung der Mitwirkungspflicht trotz Mahnung kann das Departement eine Festlegung gemäss pflichtgemässem Ermessen vornehmen. In diesem Rahmen können Erfahrungswerte und die Entwicklungen in den Vorjahren berücksichtigt werden.
+- a) dem Departement und den mit Vollzugsaufgaben nach diesem Gesetz betrauten Fachorganisationen und Branchenverbänden die für die Festlegung der Ausbildungsleistung, der Abgeltung und der Ausgleichszahlung sowie die weiteren für den Vollzug der Ausbildungsverpflichtung erforderlichen Daten unentgeltlich und elektronisch zur Verfügung zu stellen und
+- b) für den Datenaustausch mit den Vollzugsbehörden gemäss Buchstabe a ausschliesslich die vom Kanton betriebene Webapplikation, mit welcher die Ausbildungsverpflichtung abgewickelt wird, zu verwenden, wobei das Departement in besonderen Fällen Ausnahmen vorsehen kann.
+
+<sup>2</sup> Bei Nichterfüllung oder nicht ordnungsgemässer Erfüllung der Pflichten gemäss Absatz 1 trotz Mahnung kann das Departement eine Festlegung gemäss pflichtgemässem Ermessen vornehmen. In diesem Rahmen können Erfahrungswerte und die Entwicklungen in den Vorjahren berücksichtigt werden.
+
+<sup>2<sup>bis</sup></sup> Es kann bei Nichterfüllung oder nicht ordnungsgemässer Erfüllung der Pflichten gemäss Absatz 1 trotz Mahnung zudem eine Ordnungsbusse bis zu 1'000 Franken erheben.
 
 <sup>3</sup> Das Departement kann von den Berufsbildungszentren pro Einrichtung die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe, die im Bereich der Pflege tätig sind, elektronisch erheben.
 
-<sup>4</sup> Der Datenaustausch gemäss Absatz 1 und 3 kann im Rahmen eines elektronischen Abrufverfahrens erfolgen.
+<sup>4</sup> Der Datenaustausch gemäss den Absätzen 1 und 3 kann im Rahmen eines elektronischen Abrufverfahrens erfolgen.
 
 ## 4. Beiträge an die Höhere Fachschule Pflege
 
