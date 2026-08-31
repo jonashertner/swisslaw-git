@@ -4,13 +4,12 @@ number: "271.1"
 title: "Loi portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs"
 short: LiCPM
 language: fr
-version: 2026-05-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3369/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3428/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3369/pdf_file"
 
 (LiCPM)
 
-du 11.06.2009 (état au 01.05.2026)
+du 11.06.2009 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -54,21 +53,19 @@ arrête:
 
 **Consultation et conservation des dossiers**
 
-<sup>1</sup> La consultation des dossiers est régie,
+<sup>1</sup> La consultation des dossiers est régie
 
-- a dans le cas des procédures pendantes, par le code de procédure civile ou le code de procédure pénale,
-- b dans le cas des procédures closes, par la loi du 19 février 1986 sur la protection des données (LCPD)[^3-1], par la loi du 2 novembre 1993 sur l'information et l'aide aux médias (LIAM)[^3-2] et par les dispositions ci-après.
+- a par le droit de procédure applicable, soit le code de procédure civile ou le code de procédure pénale, ou,
+- b dans le cas des procédures closes, par la législation sur l’information et l’aide aux médias, par la législation sur la protection des données et par les dispositions ci-après.
 
-<sup>2</sup> L'autorité qui a conduit la procédure statue sur les demandes de consultation du dossier d'une procédure close. La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^3-3].
+<sup>2</sup> L'autorité qui a conduit la procédure statue sur les demandes de consultation du dossier d'une procédure close. La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^3-1].
 
 <sup>3</sup> Les décisions rendues en application de l'alinéa 2 sont susceptibles de recours devant l'autorité de surveillance compétente au sens de l'article 13, alinéas 2 et 4 LOJM, conformément aux dispositions de la loi sur la procédure et la juridiction administratives.
 
-<sup>4</sup> La conservation des dossiers des tribunaux civils, des tribunaux pénaux, du Tribunal des mineurs ainsi que du Ministère public est régie par la loi du 31 mars 2009 sur l'archivage (LArch)[^3-4].
+<sup>4</sup> La conservation des dossiers des tribunaux civils, des tribunaux pénaux, du Tribunal des mineurs ainsi que du Ministère public est régie par la loi du 31 mars 2009 sur l'archivage (LArch)[^3-2].
 
-[^3-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
-[^3-2]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
-[^3-3]: RSB 155.21
-[^3-4]: RSB 108.1
+[^3-1]: RSB 155.21
+[^3-2]: RSB 108.1
 
 #### Art. 4
 

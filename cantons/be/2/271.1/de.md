@@ -4,13 +4,12 @@ number: "271.1"
 title: "Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung"
 short: EG ZSJ
 language: de
-version: 2026-05-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3369/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3369/pdf_file"
 
 (EG ZSJ)
 
-vom 11.06.2009 (Stand 01.05.2026)
+vom 11.06.2009 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -59,19 +58,17 @@ beschliesst:
 
 <sup>1</sup> Die Akteneinsicht richtet sich
 
-- a bei hängigen Verfahren nach der ZPO bzw. der StPO,
-- b bei abgeschlossenen Verfahren nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^3-1], dem Gesetz vom 2. November 1993 über die Information und die Medienförderung (IMG)[^3-2] sowie den nachfolgenden Bestimmungen.
+- a nach dem anwendbaren Verfahrensrecht der ZPO bzw. der StPO,
+- b bei abgeschlossenen Verfahren nach der Informations- und Medienförderungsgesetzgebung und der Datenschutzgesetzgebung sowie den nachfolgenden Bestimmungen.
 
-<sup>2</sup> Über die Einsichtnahme in Akten von abgeschlossenen Verfahren entscheidet jene Behörde, die das Verfahren geführt hat. Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^3-3].
+<sup>2</sup> Über die Einsichtnahme in Akten von abgeschlossenen Verfahren entscheidet jene Behörde, die das Verfahren geführt hat. Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^3-1].
 
 <sup>3</sup> Gegen Verfügungen gemäss Absatz 2 kann nach den Vorschriften des VRPG Beschwerde bei der zuständigen Aufsichtsbehörde gemäss Artikel 13 Absatz 2 und 4 GSOG geführt werden.
 
-<sup>4</sup> Die Aufbewahrung der Akten der Zivil- und Strafgerichte, des Jugendgerichts sowie der Staatsanwaltschaft erfolgt nach den Bestimmungen des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^3-4].
+<sup>4</sup> Die Aufbewahrung der Akten der Zivil- und Strafgerichte, des Jugendgerichts sowie der Staatsanwaltschaft erfolgt nach den Bestimmungen des Gesetzes vom 31. März 2009 über die Archivierung (ArchG)[^3-2].
 
-[^3-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
-[^3-2]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
-[^3-3]: BSG 155.21
-[^3-4]: BSG 108.1
+[^3-1]: BSG 155.21
+[^3-2]: BSG 108.1
 
 #### Art. 4
 
