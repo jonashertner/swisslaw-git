@@ -4,13 +4,12 @@ number: "121.111"
 title: Ordonnance sur le droit de cité cantonal et le droit de cité communal
 short: "Ordonnance sur le droit de cité, ODC"
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-11-03
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2017-09-20
 in_force: 2018-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/121.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2503/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3455/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2503/pdf_file"
 
 (Ordonnance sur le droit de cité, ODC)
 
-du 20.09.2017 (état au 01.01.2022)
+du 20.09.2017 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -387,9 +386,7 @@ arrête:
 
 <sup>2</sup> Les collaborateurs et collaboratrices des autorités compétentes en matière de naturalisation n'ont accès qu'aux données de leur champ d'activité dans les systèmes électroniques cantonaux de traitement des données.
 
-<sup>3</sup> Le traitement, la conservation et la destruction de données dans les systèmes de traitement des données sont régis par la loi du 19 février 1986 sur la protection des données (LCPD)[^27a-1].
-
-[^27a-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+<sup>3</sup> Le traitement, la conservation et la destruction de données dans les systèmes de traitement des données sont régis par la législation cantonale sur la protection des données.
 
 ## 5 Dispositions finales
 
