@@ -4,13 +4,12 @@ number: "620.0"
 title: Loi sur les finances
 short: LFin
 language: fr
-version: 2023-12-01
-valid_until: 2026-08-31
-version_adopted: 2023-10-27
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2022-06-15
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/620.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2887/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3438/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2887/pdf_file"
 
 (LFin)
 
-du 15.06.2022 (état au 01.12.2023)
+du 15.06.2022 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -821,25 +820,25 @@ arrête:
 
 [^65-1]: RS [831.10](https://db.clex.ch/link/Bund/831.10/fr)
 
-### 7.2 Données particulièrement dignes de protection et communication de données
+### 7.2 Données sensibles et communication de données
 
 #### Art. 66
 
-<sup>1</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches conformément à la présente loi, sont traitées dans le système d’informations financières des données personnelles particulièrement dignes de protection relatives
+<sup>1</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches conformément à la présente loi, sont traitées dans le système d’informations financières des données sensibles relatives
 
 - a à la sphère intime,
-- b à des mesures d'aide sociale ou d'assistance,
+- b à des mesures d'aide sociale ou de protection de l’enfant et de l’adulte,
 - c à des infractions ainsi qu'aux peines et mesures qui les ont sanctionnées.
 
 <sup>2</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches conformément à la présente loi, ​
 
-- a il est possible d’accéder, dans le système d’informations financières, à des données particulièrement dignes de protection de fichiers centralisés de données personnelles du canton selon l’alinéa 1, y compris à des données antérieures;
+- a il est possible d’accéder, dans le système d’informations financières, à des données sensibles de fichiers centralisés de données personnelles du canton selon l’alinéa 1, y compris à des données antérieures;
 - b un profilage conforme à la législation en vigueur est admissible dans le système d’informations financières.
 
 <sup>3</sup> Sous réserve des obligations particulières de garder le secret, les autorités et institutions chargées d'exécuter la présente loi peuvent
 
 - a communiquer des données personnelles à d'autres services cantonaux dans la mesure où ils en ont besoin pour accomplir leurs tâches;
-- b communiquer des données particulièrement dignes de protection à d'autres services cantonaux dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches.
+- b communiquer des données sensibles à d'autres services cantonaux dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches.
 
 ### 7.3 Responsabilité
 

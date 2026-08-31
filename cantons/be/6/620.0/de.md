@@ -4,13 +4,12 @@ number: "620.0"
 title: Finanzhaushaltsgesetz
 short: FHG
 language: de
-version: 2023-12-01
-valid_until: 2026-08-31
-version_adopted: 2023-10-27
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2022-06-15
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/620.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2887/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3438/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2887/pdf_file"
 
 (FHG)
 
-vom 15.06.2022 (Stand 01.12.2023)
+vom 15.06.2022 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -828,7 +827,7 @@ beschliesst:
 <sup>1</sup> Soweit es zur Erfüllung der Aufgaben nach diesem Gesetz zwingend notwendig ist, werden im Finanzinformationssystem besonders schützenswerte Personendaten bearbeitet:
 
 - a über den persönlichen Geheimbereich,
-- b über Massnahmen der sozialen Hilfe oder der fürsorgerischen Betreuung,
+- b über Massnahmen der sozialen Hilfe oder des Kindes- oder Erwachsenenschutzes,
 - c zu Straftaten und den dafür verhängten Strafen und Massnahmen.
 
 <sup>2</sup> Soweit es zur Erfüllung der Aufgaben nach diesem Gesetz zwingend notwendig ist,
