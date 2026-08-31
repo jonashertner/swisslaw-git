@@ -4,13 +4,12 @@ number: "414.413"
 title: Reglement über die Studiengänge der Pädagogischen Hochschule Zug
 short: "Studienreglement, StuR"
 language: de
-version: 2023-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-07-07
+version: 2026-09-01
+version_adopted: 2026-08-25
 adopted: 2013-06-14
 in_force: 2013-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.413"
-pdf: "https://bgs.zg.ch/api/de/versions/2463/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3057/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2463/pdf_file"
 
 (Studienreglement, StuR)
 
-Vom 14. Juni 2013 (Stand 1. August 2023)
+Vom 14. Juni 2013 (Stand 1. September 2026)
 
 Die Direktion für Bildung und Kultur des Kantons Zug,
 
-gestützt auf § 8 Abs. 2 Bst. c des Gesetzes über die Pädagogische Hochschule Zug vom 28. Februar 2013[^ingress-1],
+gestützt auf § 8 Abs. 2 Bst. c des Gesetzes über die Pädagogische Hochschule Zug (PH-Gesetz, PHG) vom 28. Februar 2013[^ingress-1],
 
 verfügt:
 
@@ -59,9 +58,9 @@ verfügt:
 
 <sup>1</sup> Der Studiengang Kindergarten/Unterstufe bildet Studierende für den Unterricht in allen unterrichtsrelevanten Fächern und Fachbereichen aus. Das Fach Englisch kann fakultativ im Rahmen des Wahlstudiums studiert werden.
 
-<sup>2</sup> Der Studiengang Primarstufe wird in zwei Studienvarianten angeboten, in einer regulären Variante und in einer personalisierten und individualisierten Variante ("pi").
+<sup>2</sup> …
 
-<sup>3</sup> Der Studiengang Primarstufe bildet Studierende für den Unterricht in allen unterrichtsrelevanten Fächern aus. Eine Fremdsprache kann abgewählt werden. Auf Antrag bei der zuständigen Studienleitung ist die Dispens von einem weiteren Fach möglich. Keine Dispens kann in den folgenden Fächern erteilt werden:
+<sup>3</sup> Der Studiengang Primarstufe bildet Studierende für den Unterricht in allen unterrichtsrelevanten Fächern aus. Eine Fremdsprache kann abgewählt werden. Auf Antrag bei der zuständigen Studiengangsleiterin oder des zuständigen Studiengangsleiters ist die Dispens von einem weiteren Fach möglich. Keine Dispens kann in den folgenden Fächern erteilt werden:
 
 - a) Deutsch;
 - b) Mathematik;
@@ -69,7 +68,7 @@ verfügt:
 - d) Natur-Mensch-Gesellschaft;
 - e) eine Fremdsprache.
 
-<sup>4</sup> In der personalisierten und individualisierten Studienvariante ("pi") kann die zu belegende Fremdsprache von der Studienleitung vorgegeben werden.
+<sup>4</sup> …
 
 <sup>5</sup> Der Studiengang Sonderpädagogik (Vertiefungsrichtung Schulische Heilpädagogik) bildet Studierende für die Erziehungs- und Bildungsarbeit mit Schülerinnen und Schülern mit besonderem Bildungsbedarf für die Tätigkeitsfelder der integrativen Förderung (IF), der integrativen Sonderschulung (IS) und der verstärkten Massnahmen aus.
 
@@ -110,7 +109,7 @@ verfügt:
 
 <sup>3</sup> Sie können Leistungsnachweise erbringen, haben aber keinen Anspruch auf die Ausstellung von Abschlusszeugnissen.
 
-<sup>4</sup> Der Status als Austauschstudentin oder –student ist auf zwei Semester beschränkt.
+<sup>4</sup> Der Status als Austauschstudentin oder -student ist auf zwei Semester beschränkt.
 
 ## 3. Dozierende, Expertinnen und Experten sowie Prüfungskommission
 
@@ -124,7 +123,7 @@ verfügt:
 
 <sup>2</sup> Die modulverantwortlichen Dozierenden
 
-- a) legen die Voraussetzungen und Anforderungen für das Modul fest;
+- a) legen gemäss den Vorgaben der Studiengangsleitung die Voraussetzungen und Anforderungen für das Modul fest;
 - b) entscheiden über Bestehen oder nicht Bestehen des Moduls.
 
 <sup>3</sup> Sie informieren die Studierenden über Abs. 2 Bst. a im Voraus.
@@ -163,9 +162,9 @@ verfügt:
 
 <sup>1</sup> Die Prüfungskommission besteht aus sechs bis acht Mitgliedern. Ihr gehören an:
 
-- a) die Rektorin oder der Rektor von Amtes wegen;
+- a) …
 - b) die Leiterin oder der Leiter Ausbildung von Amtes wegen;
-- c) die Studienleiterinnen und -leiter von Amtes wegen;
+- c) die Studiengangsleiterin oder Studiengangsleiter von Amtes wegen;
 - d) eine Fachperson einer anderen Pädagogischen Hochschule;
 - e) weitere Fachpersonen der Pädagogischen Hochschule Zug.
 
@@ -185,7 +184,8 @@ verfügt:
 - c) die Wiederholung eines Moduls;
 - d) …
 - e) …
-- ea) allfällige Auflagen bei mangelnder Deutschkompetenz;
+- ea) …
+- e1) allfällige Auflagen bei mangelnder Deutschkompetenz;
 - f) …
 - g) das Bestehen der Bachelor- respektive Masterprüfungen und das Erteilen des entsprechenden Lehrdiploms.
 
@@ -197,22 +197,23 @@ verfügt:
 
 **Abschlüsse**
 
-<sup>1</sup> Zum Bachelorstudium an der Pädagogischen Hochschule Zug wird zugelassen, wer über einen der folgenden Abschlüsse verfügt:
+<sup>1</sup> Zum Bachelorstudium an der Pädagogischen Hochschule Zug wird zugelassen, wer über einen der folgenden Abschlüsse verfügt: [^13-1]
 
 - a) eine gymnasiale Maturität;
 - b) ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom;
 - c) einen Bachelor-, Master- oder Lizentiatsabschluss einer Hochschule;
-- d) eine eidgenössische Berufsmaturität oder eine gesamtschweizerisch anerkannte Fachmaturität mit einer Ergänzungsprüfung gemäss dem Reglement über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^13-1];
+- d) eine eidgenössische Berufsmaturität oder eine gesamtschweizerisch anerkannte Fachmaturität mit einer Ergänzungsprüfung gemäss dem Reglement über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen;
 - e) eine anerkannte Fachmaturität für das Berufsfeld Pädagogik.
 
-<sup>1a</sup> Zum Masterstudium an der Pädagogischen Hochschule Zug wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für den Unterricht in Regelklassen verfügt, das mindestens einem Bachelor-Abschluss entspricht.
+<sup>1a</sup> Zum Masterstudium an der Pädagogischen Hochschule Zug wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom oder einen Bachelorabschluss, der im Rahmen des integrierten Studiengangs für das Lehrdiplom Sekundarstufe I erlangt wurde, verfügt. [^13-2]
 
-<sup>2</sup> Die Zulassung zu den Studienprogrammen zur Fach- oder Stufenerweiterung setzt ein von der EDK anerkanntes Lehrdiplom für die Vorschul- und/oder Primarstufe voraus[^13-2].
+<sup>2</sup> Die Zulassung zu den Studienprogrammen zur Fach- oder Stufenerweiterung setzt ein von der EDK anerkanntes Lehrdiplom für die Vorschul- und/oder Primarstufe voraus. [^13-3]
 
 <sup>3</sup> …
 
-[^13-1]: Rechtssammlung EDK, Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019
-[^13-2]: Rechtssammlung EDK, Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019
+[^13-1]: Rechtssammlung EDK 4.2.2.10 Art. 4 Abs. 1 und 2
+[^13-2]: Rechtssammlung EDK 4.2.2.2 Art. 5 Abs. 1 und 2
+[^13-3]: Rechtssammlung EDK, Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019
 
 #### § 13a
 
@@ -248,7 +249,7 @@ verfügt:
 
 #### § 17
 
-**Wartefrist**
+**Karenzfrist**
 
 <sup>1</sup> Wer an einer Pädagogischen Hochschule oder anerkannten Lehrerinnen- bzw. Lehrerbildungsinstitution vom Weiterstudium ausgeschlossen wurde, kann frühestens nach einer 24 Monate dauernden Wartefrist zum Studium an der Pädagogischen Hochschule Zug zugelassen werden.
 
@@ -258,7 +259,7 @@ verfügt:
 
 **Entscheid und Immatrikulation**
 
-<sup>1</sup> Der Rektor oder die Rektorin entscheidet über die Zulassung der Studierenden.
+<sup>1</sup> Die Leiterin oder der Leiter Ausbildung entscheidet über die Zulassung der Studierenden.
 
 <sup>2</sup> Die Immatrikulation der Studierenden, welche die Zulassungsvoraussetzungen erfüllen, erfolgt mit dem Vorliegen der zur Zulassung erforderlichen Unterlagen sowie der Zeugnisse im Original.
 
@@ -270,23 +271,21 @@ verfügt:
 
 **Grundsatz**
 
-<sup>1</sup> Bewerberinnen und Bewerber, welche nicht über die erforderlichen Ausbildungsabschlüsse gemäss § 13 Abs. 1 verfügen, werden zum Bachelorstudium zugelassen, wenn sie das Aufnahmeverfahren mit Aufnahmeprüfung oder das Aufnahmeverfahren sur Dossier[^19-1] bestehen.
+<sup>1</sup> Bewerberinnen und Bewerber, welche nicht über die erforderlichen Ausbildungsabschlüsse gemäss § 13 Abs. 1 verfügen, werden zum Bachelorstudium zugelassen, wenn sie das Aufnahmeverfahren mit Aufnahmeprüfung oder das Aufnahmeverfahren sur Dossier bestehen. [^19-1]
 
-<sup>2</sup> Die Rektorin oder der Rektor kann bestandene, äquivalente Aufnahmeverfahren anderer Pädagogischen Hochschulen anerkennen.
+<sup>2</sup> Die Leiterin oder der Leiter Ausbildung kann bestandene, äquivalente Aufnahmeverfahren anderer Pädagogischen Hochschulen anerkennen.
 
-<sup>3</sup> Bewerberinnen und Bewerber werden zur personalisierten und individualisierten Studienvariante ("pi") zugelassen, wenn sie die Voraussetzungen gemäss § 13 Abs. 1 erfüllen oder wenn sie das Aufnahmeverfahren mit Aufnahmeprüfung oder das Aufnahmeverfahren sur Dossier und zusätzlich das Aufnahmeverfahren für die personalisierte und individualisierte Studienvariante ("pi") bestehen. Näheres regeln die Ausführungsbestimmungen zum Studienreglement.
+<sup>3</sup> …
 
-<sup>4</sup> Bewerberinnen und Bewerber, welche nicht über den erforderlichen Ausbildungsabschluss gemäss § 13 Abs. 1a verfügen, werden zum Masterstudium zugelassen, wenn sie:
+<sup>4</sup> Bewerberinnen und Bewerber, welche nicht über den erforderlichen Ausbildungsabschluss gemäss § 13 Abs. 1a verfügen, werden zum Masterstudium zugelassen, wenn sie [^19-2]
 
-- a) über ein Diplom in Logopädie oder Psychomotorik, das mindestens einem Bachelor-Abschluss entspricht, oder einen Bachelor-Abschluss in einem verwandten Studienbereich, insbesondere Erziehungswissenschaften, Sozialpädagogik, Sonderpädagogik, Psychologie oder Ergotherapie, verfügen; und
-- b) theoretische und praktische Zusatzleistungen im Bereich Ausbildung für den Unterricht in der Regelschule erbringen.
+- a) über ein von der EDK anerkanntes Diplom in Logopädie oder Psychomotoriktherapie, oder einen Bachelor-Abschluss in einem verwandten Studienbereich, insbesondere Erziehungswissenschaften, Klinische Heilpädagogik und Sozialpädagogik, Sonderpädagogik oder Psychologie verfügen; und
+- b) Zusatzleistungen im Bereich Ausbildung für den Unterricht in der Regelschule erbringen.
 
-<sup>5</sup> Zum Masterstudium zugelassen werden können auch Personen, die:
+<sup>5</sup> …
 
-- a) im Rahmen eines integrierten Studiengangs für das Lehrdiplom der Sekundarstufe I den Bachelor-Abschluss erlangt haben, oder bereits über ein Diplom in Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung) verfügen; und
-- b) theoretische und/oder praktische Zusatzleistungen im Bereich Ausbildung für den Unterricht in der Regelschule erbringen.
-
-[^19-1]: Rechtssammlung EDK 4.2.2.3. Art. 5 Abs. 2 Bst. c
+[^19-1]: Rechtssammlung EDK 4.2.2.10 Art. 4 Abs. 3 Bst. a und b
+[^19-2]: Rechtssammlung EDK 4.2.2.2 Art. 5 Abs. 2 Bst. a und b
 
 ### 4.2.1a Aufnahmeverfahren mit Aufnahmeprüfung
 
@@ -355,7 +354,7 @@ verfügt:
 - a) Notendurchschnitt über alle Prüfungsbereiche hinweg mindestens 4;
 - b) nicht mehr als zwei Prüfungsbereiche mit Noten unter 4;
 - c) nicht mehr als gesamthaft ein Notenpunkt unter 4;
-- d) Erst- und Zweitsprache je mindestens Note 4.
+- d) Erstsprache mindestens Note 4.
 
 <sup>2</sup> Ist die Aufnahmeprüfung nicht bestanden, kann sie in der Nachprüfungswoche oder im folgenden Jahr wiederholt werden. Dabei gelten folgende Regelungen:
 
@@ -380,7 +379,7 @@ verfügt:
 
 <sup>1</sup> Für die Vorbereitung der Aufnahmeprüfung werden Vorbereitungskurse von der Dauer eines Semesters oder zweier Semester angeboten.
 
-<sup>2</sup> Bewerberinnen und Bewerber gemäss § 20 Abs. 1 Bst. d und e sind zum Besuch des Vorbereitungskurses verpflichtet.
+<sup>2</sup> …
 
 <sup>3</sup> Die Anmeldung für den Vorbereitungskurs ist verbindlich und verpflichtet zur Einhaltung der geltenden Erlasse und Weisungen.
 
@@ -394,9 +393,10 @@ verfügt:
 
 <sup>1</sup> Bewerberinnen und Bewerber, die über die folgenden Voraussetzungen verfügen, können am Aufnahmeverfahren sur Dossier teilnehmen:
 
-- a) Mindestalter 30 Jahre (Stichtag 15. September);
+- a) Mindestalter 27 Jahre (Stichtag 15. September);
 - b) Abschluss einer mindestens dreijährigen Ausbildung auf der Sekundarstufe II;
-- c) nachgewiesene Berufstätigkeit nach Abschluss der Ausbildung im Umfang von mindestens 300 Stellenprozenten; dieser Umfang kann auf Berufstätigkeiten im Zeitraum von maximal 7 Jahren verteilt sein.
+- c) nachgewiesene Berufstätigkeit im Umfang von mindestens 300 Stellenprozenten; dieser Umfang kann auf Berufstätigkeiten im Zeitraum von maximal 8 Jahren verteilt sein;
+- d) Sprachkompetenz auf dem Niveau C2, welche mit einem Sprachzertifikat nachgewiesen werden muss, oder eine vergleichbare Qualifikation (nur für Bewerberinnen und Bewerber, deren Muttersprache nicht Deutsch ist).
 
 <sup>2</sup> Der Anmeldung sind sämtliche erforderlichen Unterlagen gemäss Anmeldeformular beizulegen. Es können zusätzliche Unterlagen einverlangt werden.
 
@@ -431,7 +431,7 @@ verfügt:
 
 **Ausschluss vom Verfahren**
 
-<sup>1</sup> Personen, die das Aufnahmeverfahren sur Dossier an einer anderen Pädagogischen Hochschule nicht bestanden haben, werden an der Pädagogischen Hochschule Zug nicht mehr zum Verfahren zugelassen.
+<sup>1</sup> Personen, die das Aufnahmeverfahren sur Dossier an einer anderen pädagogischen Hochschule zweimal erfolglos absolviert haben, werden an der Pädagogischen Hochschule Zug nicht mehr zum Verfahren zugelassen.
 
 <sup>2</sup> Studierende, die unter Angabe falscher Tatsachen sur Dossier aufgenommen wurden, werden vom Studium ausgeschlossen.
 
@@ -441,15 +441,15 @@ verfügt:
 
 **Umfang und Zeitpunkt der Zusatzleistungen**
 
-<sup>1</sup> Die Zusatzleistungen für die Zulassung zum Studium der Sonderpädagogik umfassen 30 bis 60 ECTS-Punkte beziehungsweise 900 bis 1800 Arbeitsstunden und richten sich nach Ziff. 2.2 der Richtlinien für den Vollzug des Reglements über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik)[^25e-1].
+<sup>1</sup> Die Zusatzleistungen für die Zulassung zum Studium der Sonderpädagogik umfassen 30 bis 60 ECTS-Punkte beziehungsweise 900 bis 1800 Arbeitsstunden. [^25e-1]
 
 <sup>2</sup> Den Inhaberinnen und Inhabern eines Bachelor-Diploms, das im Rahmen des Studiums zur Lehrperson für die Sekundarstufe I erworben wurde, können bereits erworbene Kreditpunkte für Didaktiken und Unterrichtspraxis angerechnet werden. Die Zusatzleistungen für die Zulassung zum Studium der Sonderpädagogik können in diesem Fall auf insgesamt weniger als 30 ECTS-Punkte reduziert werden.
 
 <sup>3</sup> Art und Umfang der Zusatzleistungen werden von der Pädagogischen Hochschule Zug zusammen mit der Ausbildungsinstitution, welche die Zusatzleistungen anbietet, individuell festgelegt.
 
-<sup>4</sup> Studierende, welche Zusatzleistungen erbringen müssen, können mit Auflagen zum Studium zugelassen werden. Die Zusatzleistungen müssen vor dem Abschluss des Studiums erbracht werden.
+<sup>4</sup> Die Zusatzleistungen müssen vor Antritt des Studiums erbracht worden sein.
 
-[^25e-1]: Rechtssammlung EDK Ziff. 4.2.2.2.1. Art. 5 Abs. 2 Bst. c
+[^25e-1]: Rechtssammlung EDK 4.2.2.2. Art. 4 Abs. 4
 
 ## 5. Studium
 
@@ -516,11 +516,11 @@ verfügt:
 
 #### § 26c
 
-**Studienunterbruch**
+**Beurlaubung**
 
-<sup>1</sup> Studienunterbrüche können auf Gesuch hin bewilligt werden.
+<sup>1</sup> Eine Beurlaubung kann auf Gesuch hin je Semester bewilligt werden.
 
-<sup>2</sup> Bewilligte Studienunterbrüche sind nicht Teil der maximal möglichen Studiendauer gemäss § 26b Abs. 2.
+<sup>2</sup> Eine bewilligte Beurlaubung ist Teil der maximal möglichen Studiendauer gemäss § 26b Abs. 2.
 
 #### § 27
 
@@ -534,7 +534,7 @@ verfügt:
 - b) legen fest, welche Module obligatorisch und welche Wahlpflichtmodule sind;
 - c) legen die Anzahl der Punkte des Europäischen Systems zur Anrechnung von Studienleistungen (gemäss ECTS) pro Modul fest.
 
-<sup>3</sup> Die Studierenden führen eine Lern- und Leistungsdokumentation.
+<sup>3</sup> …
 
 ## 6. Eignungsabklärung, Nachweis der Sprachkompetenzen, Leistungsnachweise und Abschluss
 
@@ -593,13 +593,25 @@ verfügt:
 
 <sup>2</sup> Wenn die Anforderungen erneut nicht erfüllt werden, kann das Studium erst fortgesetzt werden, wenn die geforderte Sprachkompetenz nachgewiesen wird.
 
+### 6.1c. Eignungsabklärung im Masterstudiengang
+
+#### § 28e
+
+**Ordentliche Eignungsabklärung**
+
+<sup>1</sup> Die Pädagogische Hochschule überprüft die Berufseignung der Studierenden im Masterstudiengang Sonderpädagogik (Vertiefungsrichtung Schulische Heilpädagogik) gemäss den Vorgaben des Reglements über die Anerkennung von Hochschuldiplomen im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik). [^28e-1] Näheres regeln die Ausführungsbestimmungen zum Studienreglement.
+
+<sup>2</sup> Ist die Berufseignung nicht gegeben, erfolgt ein Ausschluss aus dem Studium.
+
+[^28e-1]: Rechtssammlung EDK 4.2.2.2 Art. 13 Abs. 1 und 2
+
 ### 6.2. Leistungsnachweise
 
 #### § 29
 
-**Anerkennung von Vorleistungen**
+**Anrechnung von Vorleistungen**
 
-<sup>1</sup> Die Leiterin oder der Leiter Ausbildung entscheidet über die Anerkennung von Studienleistungen, die an anderen Hochschulen erbracht wurden. Massgebend sind dazu die Richtlinien der EDK. [^29-1]
+<sup>1</sup> Die Studiengangsleiterin oder der Studiengangsleiter entscheidet über die Anrechnung von Studienleistungen, die an anderen Hochschulen erbracht wurden. Massgebend sind dazu die Richtlinien der EDK. [^29-1]
 
 <sup>2</sup> Zur Erlangung eines Diploms der Pädagogischen Hochschule Zug sind Leistungen im Umfang von mindestens 60 ECTS-Punkten im entsprechenden Studiengang der Pädagogischen Hochschule Zug zu erbringen. Ausgenommen sind das Masterstudium Sonderpädagogik (Vertiefungsrichtung Schulische Heilpädagogik) bei bereits erfolgreich absolvierten Studienleistungen im Rahmen eines anderen Diplomstudiums sowie Studienprogramme zur Stufen- und Facherweiterung.
 
@@ -613,7 +625,7 @@ verfügt:
 
 <sup>2</sup> Leistungsnachweise werden von den zuständigen Dozierenden beurteilt.
 
-<sup>3</sup> Die Leiterin oder der Leiter Ausbildung kann bei nachgewiesener genügender Leistungsfähigkeit einzelne Studierende von Leistungsnachweisen befreien. Leistungsnachweise gelten in diesen Fällen als erfüllt.
+<sup>3</sup> Die Studiengangsleiterin oder der Studiengangsleiter kann bei nachgewiesener genügender Leistungsfähigkeit einzelne Studierende von Leistungsnachweisen befreien. Leistungsnachweise gelten in diesen Fällen als erfüllt.
 
 <sup>4</sup> Die Leistungsnachweise von Austauschstudierenden der Pädagogischen Hochschule Zug werden gemäss der individuellen Vereinbarung anerkannt.
 
@@ -656,7 +668,7 @@ verfügt:
 
 **Wiederholung des Leistungsnachweises**
 
-<sup>1</sup> Die Studentin oder der Student kann einen nicht bestandenen Leistungsnachweis einmal wiederholen, ohne dass das Modul wiederholt werden muss. Die Wiederholung des Leistungsnachweises erfolgt in der Regel bis spätestens zum Ende des jeweils nächsten Semesters.
+<sup>1</sup> Die Studentin oder der Student kann einen nicht bestandenen Leistungsnachweis einmal wiederholen, ohne dass das Modul wiederholt werden muss. Die Wiederholung des Leistungsnachweises erfolgt in der Regel bis spätestens zu Beginn des jeweils nächsten Semesters.
 
 <sup>2</sup> Wird der Leistungsnachweis erneut nicht bestanden, muss das betreffende Modul wiederholt werden.
 
@@ -664,12 +676,7 @@ verfügt:
 
 #### § 33a
 
-**Wiederholung des Leistungsnachweises in der personalisierten und individualisierten Variante des Studiengangs Primarstufe ("pi")**
-
-<sup>1</sup> In der personalisierten und individualisierten Variante des Studiengangs Primarstufe ("pi") gelten für die Wiederholung von Leistungsnachweisen folgende Bedingungen:
-
-- a) Ist ein Leistungsnachweis nicht bestanden, entscheiden die zuständigen Dozierenden, ob der Leistungsnachweis bis zum Termin der Noteneingabe nachgebessert werden kann oder ob dieser im nächsten Studienjahr wiederholt werden muss.
-- b) Ein Leistungsnachweis kann maximal dreimal eingereicht werden. Ist der Leistungsnachweis auch beim dritten Mal nicht vollständig erfüllt, wird die Studentin oder der Student vom Studium ausgeschlossen.
+**…**
 
 #### § 34
 
@@ -683,7 +690,7 @@ verfügt:
 
 <sup>3</sup> Bei berufspraktischen Modulen ist eine einmalige Wiederholung möglich. Die Wiederholung erfolgt zum nächstmöglichen ordentlichen Termin. Die nachfolgenden berufspraktischen Module können erst nach erfolgreicher Wiederholdung absolviert werden.
 
-<sup>4</sup> In der personalisierten und individualisierten Variante des Studiengangs Primarstufe ("pi") ist eine einmalige Wiederholung von berufspraktischen Modulen möglich. Die Wiederholung erfolgt zum nächstmöglichen ordentlichen Termin.
+<sup>4</sup> …
 
 #### § 35
 
@@ -769,7 +776,7 @@ verfügt:
 - b) mindestens mit der Note 4 bewertet wird;
 - c) ohne Verwendung von unerlaubten Hilfsmittel verfasst wurde.
 
-<sup>2</sup> Die Leiterin oder der Leiter Ausbildung kann gestützt auf ein Gesuch der Studentin oder des Studenten in begründeten Fällen die Abgabefrist verlängern.
+<sup>2</sup> Die Studiengangsleiterin oder der Studiengangsleiter kann gestützt auf ein Gesuch der Studentin oder des Studenten in begründeten Fällen die Abgabefrist verlängern.
 
 #### § 42
 
@@ -822,7 +829,7 @@ verfügt:
 
 **Verhinderung**
 
-<sup>1</sup> Wer aus wichtigen Gründen nicht zu einer Bachelor- respektive Masterprüfung antreten kann, hat die Leiterin oder den Leiter Ausbildung umgehend zu informieren. Die Information erfolgt über die Studienadministration- und organisation. Wird Krankheit als Hinderungsgrund angeführt, so ist ein Arztzeugnis einzureichen.
+<sup>1</sup> Wer aus wichtigen Gründen nicht zu einer Bachelor- respektive Masterprüfung antreten kann, hat dies der Studienadministration und -organisation sowie den betreffenden Expertinnen und Experten unverzüglich mitzuteilen. Wird Krankheit als Hinderungsgrund angeführt, so ist ein Arztzeugnis einzureichen.
 
 <sup>2</sup> Können keine wichtigen Gründe für die Verhinderung geltend gemacht werden, gilt die entsprechende Bachelor- respektive Masterprüfung als nicht bestanden und es wird die Note 1 gesetzt.
 
@@ -848,29 +855,36 @@ verfügt:
 
 **Diplome und Titel**
 
-<sup>1</sup> Das Lehrdiplom bestätigt die Lehrberechtigung für die entsprechende Zielstufe. Es wird von der Pädagogischen Hochschule Zug ausgestellt und von der Präsidentin oder dem Präsidenten des Hochschulrates, der Rektorin oder dem Rektor sowie der Leiterin oder dem Leiter Ausbildung unterzeichnet.
+<sup>1</sup> Das Lehrdiplom bestätigt die Lehrberechtigung für die entsprechenden Fächer auf der entsprechenden Zielstufe. Es wird von der Pädagogischen Hochschule Zug ausgestellt und von der Präsidentin oder dem Präsidenten des Hochschulrates, der Rektorin oder dem Rektor sowie der Leiterin oder dem Leiter Ausbildung unterzeichnet.
 
 <sup>1a</sup> Das Bachelordiplom bestätigt den Abschluss mit einem Bachelor of Arts. Es wird von der Rektorin oder dem Rektor und von der Leiterin oder dem Leiter Ausbildung unterzeichnet.
 
-<sup>2</sup> Die mit dem Lehrdiplom verliehenen Titel richten sich nach Art. 18 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^49-1].
+<sup>2</sup> Die mit dem Lehrdiplom verliehenen Titel richten sich nach Art. 18 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen. [^49-1]
 
-<sup>2a</sup> Das Masterdiplom bestätigt den Abschluss mit einem Master of Arts. Es enthält die in Art. 15 des Reglements über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik)[^49-2] vorgesehenen Angaben. Das Diplom wird von der Rektorin oder dem Rektor und von der Leiterin oder dem Leiter Ausbildung unterzeichnet.
+<sup>2a</sup> Das Masterdiplom bestätigt den Abschluss mit einem Master of Arts. Es enthält die im Reglement über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) [^49-2] vorgesehenen Angaben. Das Diplom wird von der Rektorin oder dem Rektor und von der Leiterin oder dem Leiter Ausbildung unterzeichnet.
 
-<sup>2b</sup> Die Benennung des Masterdiploms richtet sich nach dem Titelreglement der EDK[^49-3].
+<sup>2b</sup> Die Benennung des Masterdiploms richtet sich nach dem Titelreglement. [^49-3]
 
-<sup>2c</sup> Die Bezeichnung des mit dem Masterdiplom verliehenen Titels richtet sich nach Art. 16 Abs. 1 des Reglements über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik)[^49-4].
+<sup>2c</sup> Die Bezeichnung des mit dem Masterdiplom verliehenen Titels richtet sich nach dem Reglement über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik). [^49-4]
 
-<sup>3</sup> Zusätzlich zum Diplom werden folgende Dokumente ausgestellt:
+<sup>3</sup> Zusätzlich zum Lehrdiplom sowie zum Bachelor- und Masterdiplom werden folgende Dokumente ausgestellt:
 
 - a) ein Diplomzeugnis, welches die Prüfungsbewertung der Bachelor- respektive Masterprüfungen, das Thema und die Bewertung der Bachelor- respektive Masterarbeit enthält;
 - b) ein Diplomzusatz, welcher den absolvierten Studiengang näher beschreibt (Diploma Supplement);
-- c) eine Bescheinigung über die absolvierten Vertiefungs- und Wahlmodule;
-- d) eine Lern- und Leistungsdokumentation (Transcript of Records).
+- c) eine Bescheinigung über die absolvierten Vertiefungs- und Wahlmodule (nur in Ergänzung zum Bachelordiplom);
+- d) eine Lern- und Leistungsdokumentation (Transcript of Records);
+- e) eine Exmatrikulationsbescheinigung.
 
-[^49-1]: Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019
-[^49-2]: Reglement über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik)
-[^49-3]: Reglement über die Benennung der Diplome der schulischen Berufe der Sonderpädagogik im Rahmen der Bologna-Reform und der Weiterbildungsabschlüsse im Bereich der Lehrerinnen- und Lehrerbildung, EDK-Rechtssammlung: Ziff. 4.2.2.6
-[^49-4]: Reglement über die Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik)
+<sup>4</sup> Innerhalb der Stufen- und Facherweiterung werden folgende Dokumente ausgestellt:
+
+- a) ein Erweiterungsdiplom;
+- b) eine Lern- und Leistungsdokumentation (Transcript of Records);
+- c) eine Exmatrikulationsbescheinigung.
+
+[^49-1]: Rechtssammlung EDK 4.2.2.10 Art. 18
+[^49-2]: Rechtssammlung EDK 4.2.2.2 Art. 15
+[^49-3]: Rechtssammlung EDK 4.2.2.6
+[^49-4]: Rechtssammlung EDK 4.2.2.2 Art. 16 Abs. 1
 
 ## 7. Disziplinarordnung
 
@@ -878,7 +892,7 @@ verfügt:
 
 **Hausordnung**
 
-<sup>1</sup> Die Studierenden halten sich an die von der Schulleitung erlassene Hausordnung der Pädagogischen Hochschule Zug.
+<sup>1</sup> Die Studierenden halten sich an die Hausordnung der Pädagogischen Hochschule Zug.
 
 #### § 51
 
@@ -897,6 +911,7 @@ verfügt:
 - e) der Missbrauch einer Ausweisschrift oder einer Vergünstigung, die mit dem Status des Studierenden verbunden ist;
 - f) der Missbrauch des Zugriffs auf elektronische Daten und das unbefugte Eindringen in ein fremdes, gegen den Zugriff gesichertes Datenverarbeitungssystem;
 - g) die Verwendung der Infrastruktur der Pädagogischen Hochschule Zug zur Aufbewahrung und Verbreitung von Material und Daten, die dem Leitbild der Pädagogischen Hochschule Zug zuwiderlaufen. Dies gilt insbesondere für Druckerzeugnisse, Filme und Daten mit Gewalt verherrlichendem, rassistischem oder pornographischem Inhalt;
+- g1) Mobbing, Belästigung, Diskriminierung sowie andere Verhaltensweisen, die geeignet sind, die Würde oder persönliche Integrität von Angehörigen der Pädagogischen Hochschule Zug zu beeinträchtigen;
 - h) eine strafrechtliche Verfehlung, die zu einer Verurteilung geführt hat und durch welche die Interessen der Pädagogischen Hochschule Zug beeinträchtigt oder gefährdet werden.
 
 #### § 52
@@ -911,7 +926,7 @@ verfügt:
 - d) Androhung des Ausschlusses aus der Pädagogischen Hochschule Zug;
 - e) Ausschluss aus der Pädagogischen Hochschule Zug.
 
-<sup>2</sup> Die Rektorin oder der Rektor entscheidet über die Disziplinarmassnahmen gemäss Abs. 1 Bst. a bis d. Der Ausschluss gemäss Bst. e obliegt der Hochschulleitung.
+<sup>2</sup> Die Leiterin oder der Leiter Ausbildung entscheidet über die Disziplinarmassnahmen gemäss Abs. 1 Bst. a bis d. Der Ausschluss gemäss Bst. e obliegt der Hochschulleitung.
 
 <sup>3</sup> Art und Dauer der Disziplinarmassnahme richten sich nach der Bedeutung der beeinträchtigten oder gefährdeten Interessen der Pädagogischen Hochschule Zug sowie nach dem Verschulden, den Beweggründen und dem bisherigen Verhalten des Studenten oder der Studentin.
 
@@ -924,5 +939,17 @@ verfügt:
 #### § 54
 
 **…**
+
+## 9. Übergangsbestimmungen
+
+#### § 55
+
+**Studienvariante pi**
+
+<sup>1</sup> Die Studienvariante pi wird per Ende Studienjahr 2026/2027 eingestellt. Studierende, die bis zu diesem Zeitpunkt (Regelstudiendauer) sämtliche für den Abschluss des Studiengangs pi erforderlichen Leistungen erbracht haben, schliessen ihr Studium nach den bisherigen Bestimmungen ab.
+
+<sup>2</sup> Studierende, die ihr Studium im Studiengang pi bis Ende Studienjahr 2026/2027 nicht abgeschlossen haben und somit die Regelstudiendauer überschreiten, wechseln in den Regelstudiengang Primarstufe und schliessen so ihr Studium innerhalb der definierten maximalen Studiendauer ab. Die im Studiengang pi erbrachten Leistungen werden im Rahmen der geltenden Bestimmungen angerechnet.
+
+<sup>3</sup> Die Hochschule stellt sicher, dass der Wechsel in die reguläre Studienvariante keine unzumutbaren Nachteile mit sich bringt. Insbesondere werden flexible Studienmodalitäten und gleichwertige alternative Leistungsnachweise geprüft.
 
 GS 2013/026
