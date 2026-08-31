@@ -4,13 +4,12 @@ number: "154.21"
 title: "Ordonnance fixant les émoluments de l'administration cantonale"
 short: Ordonnance sur les émoluments; OEmo
 language: fr
-version: 2026-08-01
-valid_until: 2026-08-31
-version_adopted: 2026-06-10
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 1995-02-22
 in_force: 1995-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/154.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3380/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3466/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3380/pdf_file"
 
 (Ordonnance sur les émoluments; OEmo)
 
-du 22.02.1995 (état au 01.08.2026)
+du 22.02.1995 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -393,29 +392,29 @@ arrête:
 
 #### Art. 31
 
-**Protection des données 1 Conformément à l'article 20 de la loi sur la protection des données**
+**Protection des données 1 Conformément à l'article 21 de la loi cantonale sur la protection des données**
 
 <sup>1</sup> La consultation du registre des fichiers est gratuite.
 
 #### Art. 32
 
-**2 Conformément à l'article 21 de la loi sur la protection des données**
+**2 Conformément à l'article 29 de la loi cantonale sur la protection des données**
 
-<sup>1</sup> La communication de renseignements et la consultation de données conformément à l’article 21 de la loi du 19 février 1986 sur la protection des données (LCPD)[^32-1] sont gratuites.
+<sup>1</sup> La communication de renseignements et la consultation de données conformément à l’article 29 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^32-1] sont gratuites.
+
+<sup>2</sup> L’autorité peut percevoir un émolument lorsque la personne concernée exerce ses droits en faisant preuve de mauvaise foi ou en agissant à la légère.
 
 [^32-1]: RSB 152.04
 
 #### Art. 33
 
-**3 Conformément aux articles 23 s. de la loi sur la protection des données**
+**3 Conformément aux articles 32 à 34 de la loi cantonale sur la protection des données**
 
-<sup>1</sup> Les décisions positives prises conformément aux articles 23 et 24 de la loi sur la protection des données[^33-1] sont en principe gratuites.
+<sup>1</sup> Les décisions positives prises conformément aux articles 32 à 34 LCPD sont en principe gratuites.
 
 <sup>2</sup> Un émolument de traitement de 30 à 200 points est exigé de la personne requérante qui a été à l'origine d'un traitement de données illicite.
 
 <sup>3</sup> Un émolument de traitement de 100 à 400 points est perçu pour les décisions de rejet.
-
-[^33-1]: RSB 152.04
 
 #### Art. 34
 

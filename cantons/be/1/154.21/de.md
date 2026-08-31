@@ -4,13 +4,12 @@ number: "154.21"
 title: Verordnung über die Gebühren der Kantonsverwaltung
 short: Gebührenverordnung; GebV
 language: de
-version: 2026-08-01
-valid_until: 2026-08-31
-version_adopted: 2026-06-10
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 1995-02-22
 in_force: 1995-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/154.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3380/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3466/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3380/pdf_file"
 
 (Gebührenverordnung; GebV)
 
-vom 22.02.1995 (Stand 01.08.2026)
+vom 22.02.1995 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -391,29 +390,29 @@ beschliesst:
 
 #### Art. 31
 
-**Datenschutz 1 gemäss Art. 20 Datenschutzgesetz**
+**Datenschutz 1 gemäss Artikel 21 des Kantonalen Datenschutzgesetzes**
 
 <sup>1</sup> Die Einsichtnahme in das Register der Datensammlungen ist gebührenfrei.
 
 #### Art. 32
 
-**2 gemäss Art. 21 Datenschutzgesetz**
+**2 gemäss Artikel 29 des Kantonalen Datenschutzgesetzes**
 
-<sup>1</sup> Auskünfte und Dateneinsicht gemäss Artikel 21 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^32-1] sind gebührenfrei.
+<sup>1</sup> Auskünfte und Dateneinsicht gemäss Artikel 29 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^32-1] sind gebührenfrei.
+
+<sup>2</sup> Die Behörde kann Gebühren erheben, wenn die betroffene Person ihre Rechte mutwillig oder leichtfertig ausübt.
 
 [^32-1]: BSG 152.04
 
 #### Art. 33
 
-**3 gemäss Art. 23 f. Datenschutzgesetz**
+**3 gemäss Artikel 32 bis 34 des Kantonalen Datenschutzgesetzes**
 
-<sup>1</sup> Gutheissende Verfügungen gemäss Art. 23 und 24 Datenschutzgesetz[^33-1] sind grundsätzlich gebührenfrei.
+<sup>1</sup> Gutheissende Verfügungen gemäss Artikel 32 bis 34 KDSG sind grundsätzlich gebührenfrei.
 
 <sup>2</sup> Hat die ersuchende Person zur widerrechtlichen Bearbeitung Anlass gegeben, so wird eine Bearbeitungsgebühr von 30 bis 200 Taxpunkten erhoben.
 
 <sup>3</sup> Für abweisende Verfügungen wird eine Bearbeitungsgebühr von 100 bis 400 Taxpunkten erhoben.
-
-[^33-1]: BSG 152.04
 
 #### Art. 34
 
