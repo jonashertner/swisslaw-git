@@ -4,13 +4,12 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2025-11-19
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3331/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3464/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3331/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.01.2026)
+du 18.05.2005 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -104,13 +103,11 @@ arrête:
 
 <sup>1</sup> Les données relatives au personnel sont protégées contre la consultation par des personnes non autorisées et contre la communication illicite à des tiers.
 
-<sup>2</sup> Les agents et agentes peuvent demander le blocage des données les concernant conformément aux prescriptions de la loi du 19 février 1986 sur la protection des données (LCPD)[^6-1].
+<sup>2</sup> Les agents et agentes peuvent demander le blocage des données les concernant conformément à la législation cantonale sur la protection des données.
 
-<sup>3</sup> Les données relatives au personnel seront détruites cinq ans après la fin des rapports de travail. Les données qui ne sont pas particulièrement dignes de protection peuvent être conservées durant une période plus longue dans l’intérêt des personnes concernées.
+<sup>3</sup> Les données relatives au personnel seront détruites cinq ans après la fin des rapports de travail. Les données personnelles qui ne sont pas sensibles peuvent être conservées durant une période plus longue dans l’intérêt des personnes concernées.
 
 <sup>4</sup> Les délais de conservation et les prescriptions sur l’archivage figurant dans une réglementation spéciale sont réservés.
-
-[^6-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 #### Art. 6a
 
@@ -118,7 +115,7 @@ arrête:
 
 <sup>1</sup> Les données concernant les rapports de travail avec le canton sont traitées dans un système informatique du personnel mis à disposition par l'Office du personnel.
 
-<sup>2</sup> Les services chargés de l’exécution de la législation sur le personnel peuvent traiter des données personnelles particulièrement dignes de protection concernant en particulier la santé, des mesures d'aide sociale ou d'assistance ainsi que des sanctions administratives ou pénales, dans la mesure où cela est impérativement nécessaire à l’accomplissement de leurs tâches.
+<sup>2</sup> Les services chargés de l’exécution de la législation sur le personnel peuvent traiter des données sensibles concernant en particulier la santé, des mesures d'aide sociale ou d'assistance ainsi que des sanctions administratives ou pénales, dans la mesure où cela est impérativement nécessaire à l’accomplissement de leurs tâches.
 
 #### Art. 7
 
@@ -238,7 +235,7 @@ arrête:
 
 <sup>2a</sup> Le Bureau du Grand Conseil arrête le nombre maximal de postes à plein temps des Services parlementaires.
 
-<sup>2b</sup> Le délégué ou la déléguée à la protection des données arrête le nombre maximal de postes à plein temps du Bureau cantonal pour la surveillance de la protection des données.
+<sup>2b</sup> Le délégué ou la déléguée à la protection des données arrête le nombre maximal de postes à plein temps du Bureau pour la protection des données.
 
 <sup>2c</sup> Le chef ou la cheffe du Contrôle des finances arrête le nombre maximal de postes à plein temps du Contrôle des finances.
 
@@ -2576,7 +2573,7 @@ arrête:
 
 <sup>1</sup> L’exercice d’une activité annexe est interdit lorsque celle-ci porte préjudice à l’accomplissement des devoirs de service. Tel est le cas lorsqu’il y a conflit d’intérêts ou que la capacité de travail de l’agent ou de l’agente concernée est mise à contribution durablement et considérablement. L’interdiction vaut également pour les activités annexes qui sont incompatibles avec la fonction de l’agent ou de l’agente concernée.
 
-<sup>2</sup> Les agents et agentes doivent aviser les chefs et cheffes d’office et les collaborateurs et collaboratrices directes d’un membre du Conseil-exécutif doivent aviser celui-ci de toutes les activités annexes rémunérées et de tous les faits pouvant nécessiter une autorisation. Les données particulièrement dignes de protection ou soumises au secret de fonction ne doivent pas être communiquées.
+<sup>2</sup> Les agents et agentes doivent aviser les chefs et cheffes d’office et les collaborateurs et collaboratrices directes d’un membre du Conseil-exécutif doivent aviser celui-ci de toutes les activités annexes rémunérées et de tous les faits pouvant nécessiter une autorisation. Les données sensibles ou soumises au secret de fonction ne doivent pas être communiquées.
 
 <sup>3</sup> Les activités annexes non rémunérées doivent également être annoncées au sens de l'alinéa 2 si le risque de conflit d’intérêts ne peut être exclu.
 

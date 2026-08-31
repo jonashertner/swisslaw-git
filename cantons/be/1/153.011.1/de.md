@@ -4,13 +4,12 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2025-11-19
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3331/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3464/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3331/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.01.2026)
+vom 18.05.2005 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -104,13 +103,11 @@ beschliesst:
 
 <sup>1</sup> Personaldaten sind vor Einsichtnahme durch Unbefugte und gegen unzulässige Bekanntgabe an Dritte zu schützen.
 
-<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter sind berechtigt, die Bekanntgabe ihrer Daten nach den Vorschriften des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^6-1] sperren zu lassen.
+<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter sind berechtigt, die Bekanntgabe ihrer Daten nach der kantonalen Datenschutzgesetzgebung sperren zu lassen.
 
 <sup>3</sup> Personaldaten sind fünf Jahre nach Beendigung des Arbeitsverhältnisses zu vernichten. Nicht besonders schützenswerte Personaldaten können im Interesse der Betroffenen länger aufbewahrt werden.
 
 <sup>4</sup> Besondere Aufbewahrungs- und Archivierungsvorschriften bleiben vorbehalten.
-
-[^6-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 6a
 
@@ -238,7 +235,7 @@ beschliesst:
 
 <sup>2a</sup> Mit Bezug auf die Parlamenstdienste beschliesst das Büro des Grossen Rates über die maximale Anzahl der Vollzeitstellen.
 
-<sup>2b</sup> Mit Bezug auf die Datenschutzaufsichtsstelle beschliesst die oder der Beauftragte für Datenschutz über die maximale Anzahl der Vollzeitstellen.
+<sup>2b</sup> Mit Bezug auf die kantonale Datenschutzbehörde beschliesst die oder der Beauftragte für Datenschutz über die maximale Anzahl der Vollzeitstellen.
 
 <sup>2c</sup> Mit Bezug auf die Finanzkontrolle beschliesst die Vorsteherin oder der Vorsteher der Finanzkontrolle über die maximale Anzahl der Vollzeitstellen.
 
