@@ -4,13 +4,12 @@ number: "860.3"
 title: Loi sur les prestations de soutien aux personnes en situation de handicap
 short: LPHand
 language: fr
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2023-06-13
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.3"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2968/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3448/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2968/pdf_file"
 
 (LPHand)
 
-du 13.06.2023 (état au 01.01.2024)
+du 13.06.2023 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -588,13 +587,13 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Si l’accomplissement des tâches qui leur incombent selon la présente loi l’exige impérativement, les autorités et les fournisseurs de prestations chargés de son exécution sont habilités à traiter des données personnelles, y compris des données personnelles particulièrement dignes de protection concernant notamment la santé et les mesures d’aide sociale ou d’assistance.
+<sup>1</sup> Si l’accomplissement des tâches qui leur incombent selon la présente loi l’exige impérativement, les autorités et les fournisseurs de prestations chargés de son exécution sont habilités à traiter des données personnelles, y compris des données sensibles concernant notamment la santé et les mesures d’aide sociale ou de protection de l’enfant et de l’adulte.
 
 #### Art. 47
 
 **Traitement des données en lien avec la détermination du droit aux prestations**
 
-<sup>1</sup> Les organisations suivantes sont habilitées à traiter et à s'échanger des données personnelles, y compris des données personnelles particulièrement dignes de protection concernant notamment la santé et les mesures d’aide sociale ou d’assistance, dont elles ont besoin dans le cas particulier pour évaluer les besoins, examiner le droit aux prestations ainsi que calculer et allouer ces dernières:
+<sup>1</sup> Les organisations suivantes sont habilitées à traiter et à s'échanger des données personnelles, y compris des données sensibles concernant notamment la santé et les mesures d’aide sociale ou de protection de l’enfant et de l’adulte, dont elles ont besoin dans le cas particulier pour évaluer les besoins, examiner le droit aux prestations ainsi que calculer et allouer ces dernières:
 
 - a le service compétent de la DSSI ainsi que les tiers mandatés par ce dernier,
 - b le SEVA et le service d’examen des besoins,
@@ -610,7 +609,7 @@ arrête:
 
 <sup>4</sup> Si l’accomplissement de leurs tâches l’exige impérativement, les organisations mentionnées à l’alinéa 1 peuvent consulter, dans les fichiers centralisés de données personnelles du canton, les données anciennes et actuelles suivantes:
 
-- a les données relatives à des mesures de protection de l’enfant et de l’adulte ou à des mesures d’aide sociale,
+- a les données relatives à des mesures d’aide sociale ou à des mesures de protection de l’enfant et de l’adulte,
 - b les données relatives au ménage,
 - c les données relatives à la santé.
 
@@ -624,7 +623,7 @@ arrête:
 
 **Traitement des données en lien avec les places destinées à une prise en charge intensive**
 
-<sup>1</sup> Si l’accomplissement de leurs tâches l’exige impérativement, les homes qui mettent à disposition des places destinées à une prise en charge intensive, les fournisseurs de prestations psychiatriques, le service de planification, de coordination et de conseil selon l’article 33, alinéa 3 ainsi que le service d’examen des besoins selon l’article 15 sont habilités, dans le cadre du système de gestion des cas, à traiter et à s'échanger des données personnelles relatives à des personnes en situation de handicap, y compris des données particulièrement dignes de protection concernant en particulier l’état de santé psychique ou physique de ces dernières.
+<sup>1</sup> Si l’accomplissement de leurs tâches l’exige impérativement, les homes qui mettent à disposition des places destinées à une prise en charge intensive, les fournisseurs de prestations psychiatriques, le service de planification, de coordination et de conseil selon l’article 33, alinéa 3 ainsi que le service d’examen des besoins selon l’article 15 sont habilités, dans le cadre du système de gestion des cas, à traiter et à s'échanger des données personnelles relatives à des personnes en situation de handicap, y compris des données sensibles concernant en particulier l’état de santé psychique ou physique de ces dernières.
 
 #### Art. 50
 

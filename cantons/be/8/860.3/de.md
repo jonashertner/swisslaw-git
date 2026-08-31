@@ -4,13 +4,12 @@ number: "860.3"
 title: Gesetz über die Leistungen für Menschen mit Behinderungen
 short: BLG
 language: de
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2023-06-13
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.3"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2968/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3448/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2968/pdf_file"
 
 (BLG)
 
-vom 13.06.2023 (Stand 01.01.2024)
+vom 13.06.2023 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -588,13 +587,13 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Behörden und Leistungserbringer dürfen Personendaten einschliesslich besonders schützenswerter Personendaten insbesondere über die Gesundheit und Massnahmen der sozialen Hilfe oder fürsorgerischen Betreuung bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz zwingend erforderlich ist.
+<sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Behörden und Leistungserbringer dürfen Personendaten einschliesslich besonders schützenswerter Personendaten insbesondere über die Gesundheit und Massnahmen der sozialen Hilfe oder des Kindes- und Erwachsenenschutzes bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz zwingend erforderlich ist.
 
 #### Art. 47
 
 **Datenbearbeitung im Zusammenhang mit Leistungsansprüchen**
 
-<sup>1</sup> Die folgenden Stellen dürfen Personendaten einschliesslich besonders schützenswerter Personendaten insbesondere über die Gesundheit und Massnahmen der sozialen Hilfe oder fürsorgerischen Betreuung, die sie im Einzelfall für die Bedarfsermittlung, Prüfung, Berechnung und Gewährung von Leistungsansprüchen benötigen, bearbeiten und einander bekanntgeben:
+<sup>1</sup> Die folgenden Stellen dürfen Personendaten einschliesslich besonders schützenswerter Personendaten insbesondere über die Gesundheit und Massnahmen der sozialen Hilfe oder des Kindes- und Erwachsenenschutzes, die sie im Einzelfall für die Bedarfsermittlung, Prüfung, Berechnung und Gewährung von Leistungsansprüchen benötigen, bearbeiten und einander bekanntgeben:
 
 - a die zuständige Stelle der GSI sowie die von ihr beauftragten Dritten,
 - b die Fachstelle für die individuellen Bedarfsermittlungen und die Bedarfsprüfungsstelle,
@@ -610,7 +609,7 @@ beschliesst:
 
 <sup>4</sup> Soweit es zur Erfüllung ihrer Aufgaben zwingend erforderlich ist, können die Stellen nach Absatz 1 aus zentralen Personendatensammlungen des Kantons folgende Daten abrufen, einschliesslich früherer Daten:
 
-- a Angaben zu Massnahmen des Kindes- und Erwachsenenschutzes oder der sozialen Hilfe,
+- a Angaben zu Massnahmen der sozialen Hilfe oder des Kindes- und Erwachsenenschutzes,
 - b Angaben zum Haushalt,
 - c Angaben zur Gesundheit.
 
