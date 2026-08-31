@@ -4,13 +4,12 @@ number: "152.052"
 title: Ordonnance sur le système de gestion centrale des personnes
 short: O GCP
 language: fr
-version: 2024-11-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-18
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.052"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3067/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3461/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3067/pdf_file"
 
 (O GCP)
 
-du 20.01.2021 (état au 01.11.2024)
+du 20.01.2021 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -44,7 +43,7 @@ arrête:
 
 **Champ d'application**
 
-<sup>1</sup> La présente ordonnance s'applique aux autorités au sens de l'article 2, alinéa 6 de la loi du 19 février 1986 sur la protection des données (LCPD)[^2-1].
+<sup>1</sup> La présente ordonnance s'applique aux autorités au sens de l'article 2, alinéa 1, lettre i de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^2-1].
 
 <sup>2</sup> Ces autorités sont soit transmetteuses, soit interrogatrices de données personnelles figurant dans la GCP.
 
@@ -69,7 +68,7 @@ arrête:
 
 <sup>2</sup> Elle sert à l'Intendance des impôts dans l'accomplissement de ses tâches et aux autorités cantonales et communales indiquées à l'annexe 2, qui l'utilisent en procédure d'appel ou en procédure d'annonce.
 
-<sup>3</sup> Le traitement et la communication de données personnelles sont également autorisés à des fins de recherche, d'élaboration de la jurisprudence, d'établissement de statistiques ou de planification au sens de l'article 15 LCPD.
+<sup>3</sup> Le traitement et la communication de données personnelles sont également autorisés à des fins de recherche, d'élaboration de la jurisprudence, d'établissement de statistiques ou de planification au sens de l'article 17 LCPD.
 
 #### Art. 5
 
@@ -115,9 +114,9 @@ arrête:
 
 <sup>1</sup> L'annexe 1 définit les caractères personnels gérés dans la GCP et les regroupe dans différents profils (profil de base, profils standard).
 
-<sup>2</sup> Le profil de base (profil n° 0) ne contient aucune donnée personnelle particulièrement digne de protection et ne dispose d'aucune fonctionnalité permettant un profilage ou l'édition, sous une autre forme, de données personnelles particulièrement dignes de protection.
+<sup>2</sup> Le profil de base (profil n° 0) ne contient aucune donnée sensible et ne dispose d'aucune fonctionnalité permettant un profilage ou l'édition, sous une autre forme, de données sensibles.
 
-<sup>3</sup> Les profils standard (profils n° 1 à n° 9) peuvent contenir des données personnelles particulièrement dignes de protection et des profils de personnes édités à l'aide de fonctionnalités.
+<sup>3</sup> Les profils standard (profils n° 1 à n° 9) peuvent contenir des données sensibles et des profils de personnes édités à l'aide de fonctionnalités.
 
 <sup>4</sup> Le numéro d'assuré au sens de la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants (LAVS)[^9-1] figure dans la GCP.
 
@@ -140,7 +139,7 @@ arrête:
 - a les profils attribués à leurs membres et systèmes d’information,
 - b ceux de leurs membres qui peuvent demander à l’Intendance des impôts de créer, modifier ou supprimer un compte d'utilisateur.
 
-<sup>2</sup> Avant d'être édictée, la réglementation des droits d'accès doit être soumise, pour avis, à l'autorité de surveillance de la protection des données compétente (art. 11, al. 1 LFDP) et la date de prise de position doit être mentionnée dans la réglementation.
+<sup>2</sup> Avant d'être édictée, la réglementation des droits d'accès doit être soumise, pour avis, à l'autorité de protection des données compétente (art. 11, al. 1 LFDP) et la date de prise de position doit être mentionnée dans la réglementation.
 
 <sup>3</sup> L’autorité fiscale communale déposent les demandes de création, de modification ou de suppression de comptes d’utilisateur par l'intermédiaire des responsables de l’autorité fiscale communale, de l’administrateur ou de l’administratrice des finances de la commune ou du ou de la secrétaire communale, sachant que les droits d’accès peuvent être attribués au ou à la responsable, ainsi qu'aux collaborateurs et collaboratrices de l’autorité fiscale.
 
@@ -154,9 +153,9 @@ arrête:
 
 #### Art. 13
 
-**Données personnelles particulièrement dignes de protection**
+**Données sensibles**
 
-<sup>1</sup> La GCP héberge les données personnelles particulièrement dignes de protection suivantes (art. 3 LCPD):
+<sup>1</sup> La GCP héberge les données sensibles suivantes (art. 2, al. 1, lit. c LCPD):
 
 - a l'appartenance à une Eglise nationale ou à une communauté religieuse reconnue de droit public (confession),
 - b l'identificateur de la personne exerçant la tutelle des personnes mineures sous tutelle (art. 327a à 327c du Code civil suisse du 10 décembre 1907 [CC][^13-1]),
@@ -168,7 +167,7 @@ arrête:
 
 **Fonctionnalités**
 
-<sup>1</sup> La GCP dispose de fonctionnalités permettant un profilage ou l'édition, sous une autre forme, de données personnelles particulièrement dignes de protection. Ces fonctionnalités sont les suivantes:
+<sup>1</sup> La GCP dispose de fonctionnalités permettant un profilage ou l'édition, sous une autre forme, de données sensibles. Ces fonctionnalités sont les suivantes:
 
 - a historisation des événements,
 - b identité de l'époux ou de l'épouse,
@@ -177,9 +176,9 @@ arrête:
 
 #### Art. 15
 
-**Traitement de données personnelles particulièrement dignes de protection et utilisation des fonctionnalités**
+**Traitement de données sensibles et utilisation des fonctionnalités**
 
-<sup>1</sup> Le traitement de données personnelles particulièrement dignes de protection et l'utilisation des fonctionnalités sont autorisés à la condition qu'ils soient impérativement nécessaires à l'accomplissement des tâches légales.
+<sup>1</sup> Le traitement de données sensibles et l'utilisation des fonctionnalités sont autorisés à la condition qu'ils soient impérativement nécessaires à l'accomplissement des tâches légales.
 
 ## 3 Organisation
 
@@ -226,9 +225,9 @@ arrête:
 
 **Communication de données selon la LCPD**
 
-<sup>1</sup> Au cas par cas, l'Intendance des impôts peut communiquer des données personnelles extraites de la GCP dans le cadre de l'assistance administrative prévue à l'article 10 et à des fins de recherche, de formation de la jurisprudence, d'établissement de statistiques ou de planification selon l'article 15 LCPD.
+<sup>1</sup> Au cas par cas, l'Intendance des impôts peut communiquer des données personnelles extraites de la GCP dans le cadre de l'assistance administrative prévue à l'article 14 et à des fins de recherche, de formation de la jurisprudence, d'établissement de statistiques ou de planification selon l'article 17 LCPD.
 
-<sup>2</sup> La communication de données au sens de l'article 15 LCPD n'est autorisée que si le ou la destinataire est soumise, par voie de décision, à une obligation suffisante de garantir la sécurité de l'information et la protection des données.
+<sup>2</sup> La communication de données au sens de l'article 17 LCPD n'est autorisée que si le ou la destinataire est soumise, par voie de décision, à une obligation suffisante de garantir la sécurité de l'information et la protection des données.
 
 #### Art. 20
 

@@ -4,13 +4,12 @@ number: "152.052"
 title: Verordnung über die Zentrale Personenverwaltung
 short: ZPV V
 language: de
-version: 2024-11-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-18
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.052"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3067/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3067/pdf_file"
 
 (ZPV V)
 
-vom 20.01.2021 (Stand 01.11.2024)
+vom 20.01.2021 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für die Behörden nach Artikel 2 Absatz 6 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^2-1].
+<sup>1</sup> Diese Verordnung gilt für die Behörden nach Artikel 2 Absatz 1 Buchstabe i des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^2-1].
 
 <sup>2</sup> Diese Behörden sind entweder Lieferantinnen und Lieferanten oder Bezügerinnen und Bezüger von Personendaten der ZPV.
 
@@ -69,7 +68,7 @@ beschliesst:
 
 <sup>2</sup> Sie dient der Steuerverwaltung für die Erfüllung ihrer Aufgaben sowie den kantonalen und kommunalen Behörden nach Anhang 2 im Abruf- oder Meldeverfahren.
 
-<sup>3</sup> Zulässig ist auch eine Bearbeitung und Bekanntgabe von Personendaten für Forschung, Praxisbildung, Statistik oder Planung nach Artikel 15 KDSG.
+<sup>3</sup> Zulässig ist auch eine Bearbeitung und Bekanntgabe von Personendaten für Forschung, Praxisbildung, Statistik oder Planung nach Artikel 17 KDSG.
 
 #### Art. 5
 
@@ -140,7 +139,7 @@ beschliesst:
 - a welchen Behördenmitgliedern und Informationssystemen welche Profile zugeteilt werden und
 - b welche Behördenmitglieder bei der Steuerverwaltung die Eröffnung, Änderung und Aufhebung von Benutzerkonten beantragen können.
 
-<sup>2</sup> Die Berechtigungsregeln sind vor dem Erlass der zuständigen Datenschutzaufsichtsstelle zur Stellungnahme vorzulegen (Art. 11 Abs. 1 PDSG) und das Datum der Stellungnahme ist in den Berechtigungsregeln zu vermerken.
+<sup>2</sup> Die Berechtigungsregeln sind vor dem Erlass der zuständigen Datenschutzbehörde zur Stellungnahme vorzulegen (Art. 11 Abs. 1 PDSG) und das Datum der Stellungnahme ist in den Berechtigungsregeln zu vermerken.
 
 <sup>3</sup> Die Steuerbehörden der Gemeinden stellen Anträge zur Eröffnung, Änderung oder Aufhebung von Benutzerkonten durch die Leiterinnen und Leiter der Steuerbehörde, die Finanzverwalterin oder den Finanzverwalter oder die Gemeindeschreiberin oder den Gemeindeschreiber, wobei die Berechtigungen den Leiterinnen und Leitern sowie den Mitarbeiterinnen und Mitarbeitern der Steuerbehörde zustehen.
 
@@ -156,7 +155,7 @@ beschliesst:
 
 **Besonders schützenswerte Personendaten**
 
-<sup>1</sup> In der ZPV werden die folgenden besonders schützenswerten Personendaten (Art. 3 KDSG) geführt:
+<sup>1</sup> In der ZPV werden die folgenden besonders schützenswerten Personendaten (Art. 2 Absatz 1 Buchstabe c KDSG) geführt:
 
 - a die Zugehörigkeit zu einer Landeskirche oder einer öffentlich-rechtlich anerkannten Religionsgemeinschaft (Konfession),
 - b der Personenidentifikator einer Vormundin oder eines Vormundes bei Minderjährigen unter Vormundschaft (Art. 327a bis 327c des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907, ZGB)[^13-1],
@@ -226,9 +225,9 @@ beschliesst:
 
 **Datenbekanntgabe nach KDSG**
 
-<sup>1</sup> Die Steuerverwaltung kann einzelfallweise im Rahmen der Amtshilfe nach Artikel 10 und für Forschung, Praxisbildung, Statistik oder Planung nach Artikel 15 KDSG Personendaten aus der ZPV bekannt geben.
+<sup>1</sup> Die Steuerverwaltung kann einzelfallweise im Rahmen der Amtshilfe nach Artikel 14 und für Forschung, Praxisbildung, Statistik oder Planung nach Artikel 17 KDSG Personendaten aus der ZPV bekannt geben.
 
-<sup>2</sup> Die Datenbekanntgabe nach Artikel 15 KDSG ist nur gestattet, wenn die Datenempfängerinnen und Datenempfänger in einer Verfügung ausreichend zur Informationssicherheit und zum Datenschutz verpflichtet werden.
+<sup>2</sup> Die Datenbekanntgabe nach Artikel 17 KDSG ist nur gestattet, wenn die Datenempfängerinnen und Datenempfänger in einer Verfügung ausreichend zur Informationssicherheit und zum Datenschutz verpflichtet werden.
 
 #### Art. 20
 
