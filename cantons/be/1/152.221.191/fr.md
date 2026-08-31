@@ -4,13 +4,12 @@ number: "152.221.191"
 title: "Ordonnance sur l'organisation et les tâches de la Direction des travaux publics et des transports *"
 short: "Ordonnance d'organisation DTT, OO DTT"
 language: fr
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2025-11-26
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.191"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3329/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3463/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3329/pdf_file"
 
 (Ordonnance d'organisation DTT, OO DTT)
 
-du 18.10.1995 (état au 01.01.2026)
+du 18.10.1995 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -136,7 +135,7 @@ arrête:
 - b dirige les procédures de recours pour la Direction et le Conseil-exécutif;
 - c représente la Direction et le Conseil-exécutif devant les autorités de justice administrative cantonales et fédérales et les tribunaux dans toutes les affaires ressortissant à la Direction des travaux publics et des transports, sous réserve de l'article 15;
 - d fournit une assistance juridique aux offices et coordonne l'application du droit;
-- e est l’interlocuteur du Secrétariat général et des offices pour les questions relatives à la protection des données.
+- e assume les tâches de conseiller à la protection des données pour toutes les questions de cet ordre à l'égard du Secrétariat général et des offices.
 
 <sup>2</sup> Dans les affaires où l'Office juridique aurait à instruire un éventuel recours, tout conseil ou toute intervention lui sont interdits.
 

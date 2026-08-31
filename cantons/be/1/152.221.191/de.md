@@ -4,13 +4,12 @@ number: "152.221.191"
 title: Verordnung über die Organisation und die Aufgaben der Bau- und Verkehrsdirektion
 short: "Organisationsverordnung BVD, OrV BVD"
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2025-11-26
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.191"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3329/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3329/pdf_file"
 
 (Organisationsverordnung BVD, OrV BVD)
 
-vom 18.10.1995 (Stand 01.01.2026)
+vom 18.10.1995 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -136,7 +135,7 @@ beschliesst:
 - b leitet die Beschwerdeverfahren für die Direktion und den Regierungsrat;
 - c vertritt die Direktion und den Regierungsrat im Geschäftsbereich der Bau- und Verkehrsdirektion vor kantonalen und eidgenössischen Verwaltungsjustizbehörden und Gerichten, unter Vorbehalt von Art 15;
 - d leistet den Ämtern rechtliche Unterstützung und koordiniert die Rechtsanwendung;
-- e ist Anlaufstelle für Datenschutzfragen des Generalsekretariats und der Ämter.
+- e nimmt die Aufgaben der Datenschutzberaterin oder des Datenschutzberaters für Datenschutzfragen des Generalsekretariats und der Ämter wahr.
 
 <sup>2</sup> In Geschäften, in denen dem Rechtsamt im Beschwerdefall die Instruktion des Verfahrens obliegen würde, ist ihm jede Mitwirkung oder Beratung untersagt.
 
