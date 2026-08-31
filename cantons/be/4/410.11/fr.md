@@ -4,13 +4,12 @@ number: "410.11"
 title: Loi sur les Eglises nationales bernoises
 short: "Loi sur les Eglises nationales, LEgN"
 language: fr
-version: 2020-01-01
-valid_until: 2026-08-31
-version_adopted: 2018-03-21
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2018-03-21
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/410.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1512/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3430/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1512/pdf_file"
 
 (Loi sur les Eglises nationales, LEgN)
 
-du 21.03.2018 (état au 01.01.2020)
+du 21.03.2018 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -240,7 +239,7 @@ arrête:
 
 <sup>2</sup> Les directions d’école leur communiquent gratuitement les listes de classe et les autres données nécessaires à l’organisation de l’enseignement religieux.
 
-<sup>3</sup> L'accès aux données au sens des alinéas 1 et 2 porte aussi, dans la mesure où il est nécessaire, sur des données particulièrement dignes de protection.
+<sup>3</sup> L'accès aux données au sens des alinéas 1 et 2 porte aussi, dans la mesure où il est nécessaire, sur des données sensibles.
 
 #### Art. 20
 
@@ -254,7 +253,7 @@ arrête:
 
 <sup>1</sup> En matière de protection des données, les Eglises nationales peuvent, pour leurs propres besoins, édicter des prescriptions complétant ou précisant la législation cantonale sur la protection des données.
 
-<sup>2</sup> Elles peuvent échanger des données particulièrement dignes de protection relatives à leurs membres, dans le cadre de la coopération au sein de leurs organisations propres ou avec d’autres Eglises nationales, pour autant que l’accomplissement de leurs tâches ecclésiastiques l’exige.
+<sup>2</sup> Elles peuvent échanger des données sensibles relatives à leurs membres, dans le cadre de la coopération au sein de leurs organisations propres ou avec d’autres Eglises nationales, pour autant que l’accomplissement de leurs tâches ecclésiastiques l’exige.
 
 ## 5. Voies de droit et responsabilité
 
