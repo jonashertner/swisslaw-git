@@ -4,13 +4,12 @@ number: "860.2"
 title: Gesetz über die sozialen Leistungsangebote
 short: SLG
 language: de
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2021-03-09
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2969/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2969/pdf_file"
 
 (SLG)
 
-vom 09.03.2021 (Stand 01.01.2024)
+vom 09.03.2021 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1236,11 +1235,11 @@ beschliesst:
 
 <sup>1</sup> Für den Vollzug dieses Gesetzes ist die kantonale Datenschutzgesetzgebung massgebend.
 
-<sup>2</sup> Die mit dem Vollzug dieses Gesetzes betrauten Behörden und Leistungserbringer dürfen besonders schützenswerte Personendaten, insbesondere über die Gesundheit und Massnahmen der sozialen Hilfe oder fürsorgerischen Betreuung, bearbeiten und mit anderen kantonalen und kommunalen Behörden sowie Leistungserbringern austauschen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz zwingend notwendig ist.
+<sup>2</sup> Die mit dem Vollzug dieses Gesetzes betrauten Behörden und Leistungserbringer dürfen besonders schützenswerte Personendaten, insbesondere über die Gesundheit und Massnahmen der sozialen Hilfe oder des Kindes- und Erwachsenenschutzes, bearbeiten und mit anderen kantonalen und kommunalen Behörden sowie Leistungserbringern austauschen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz zwingend notwendig ist.
 
 <sup>3</sup> Soweit es zur Erfüllung ihrer Aufgaben zwingend notwendig ist, können sie aus zentralen Personendatensammlungen des Kantons folgende Daten abrufen, einschliesslich früherer Daten:
 
-- a Angaben zu Massnahmen des Kindes- und Erwachsenenschutzes oder der sozialen Hilfe,
+- a Angaben zu Massnahmen der sozialen Hilfe oder des Kindes- und Erwachsenenschutzes,
 - b Angaben zum Haushalt,
 - c Angaben zur Gesundheit.
 

@@ -4,13 +4,12 @@ number: "860.2"
 title: Loi sur les programmes d’action sociale
 short: LPASoc
 language: fr
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2021-03-09
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2969/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3447/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2969/pdf_file"
 
 (LPASoc)
 
-du 09.03.2021 (état au 01.01.2024)
+du 09.03.2021 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -647,7 +646,7 @@ arrête:
 
 **Traitement des données**
 
-<sup>1</sup> Le service chargé d’émettre les bons de garde est habilité à traiter les données figurant dans la demande, y compris les données personnelles particulièrement dignes de protection.
+<sup>1</sup> Le service chargé d’émettre les bons de garde est habilité à traiter les données figurant dans la demande, y compris les données sensibles.
 
 <sup>2</sup> Les fournisseurs de prestations peuvent consulter la décision d’octroi de bons de garde ainsi que les données de la demande nécessaires pour confirmer la prise en charge.
 
@@ -1143,7 +1142,7 @@ arrête:
 
 **Obligation de collaborer**
 
-<sup>1</sup> Les fournisseurs de prestations communiquent des informations à l’autorité de surveillance compétente et lui permettent de consulter les dossiers ainsi que, si nécessaire, les données personnelles particulièrement dignes de protection.
+<sup>1</sup> Les fournisseurs de prestations communiquent des informations à l’autorité de surveillance compétente et lui permettent de consulter les dossiers ainsi que, si nécessaire, les données sensibles.
 
 <sup>2</sup> Ils lui donnent accès aux locaux et aux équipements et la soutiennent dans tous les domaines dans la mesure nécessaire pour qu’elle puisse assumer son mandat.
 
@@ -1232,15 +1231,15 @@ arrête:
 
 #### Art. 111
 
-**Droit applicable et données particulièrement dignes de protection**
+**Droit applicable et données sensibles**
 
 <sup>1</sup> La législation cantonale sur la protection des données est déterminante pour l’exécution de la présente loi.
 
-<sup>2</sup> Les autorités et les fournisseurs de prestations chargés d’exécuter la présente loi peuvent traiter des données personnelles particulièrement dignes de protection relatives en particulier à la santé et aux mesures d’aide sociale ou d’assistance et les échanger avec d’autres autorités cantonales et communales et fournisseurs de prestations, pour autant que cela soit impérativement nécessaire à l’accomplissement des tâches qui leur incombent selon la présente loi.
+<sup>2</sup> Les autorités et les fournisseurs de prestations chargés d’exécuter la présente loi peuvent traiter des données sensibles relatives en particulier à la santé et aux mesures d’aide sociale ou de protection de l’enfant et de l’adulte et les échanger avec d’autres autorités cantonales et communales et fournisseurs de prestations, pour autant que cela soit impérativement nécessaire à l’accomplissement des tâches qui leur incombent selon la présente loi.
 
 <sup>3</sup> Si l’accomplissement de leurs tâches l’exige impérativement, ils peuvent consulter dans les fichiers centralisés du canton les données personnelles anciennes et actuelles suivantes:
 
-- a données relatives à des mesures de protection de l’enfant et de l’adulte ou à des mesures d’aide sociale,
+- a données relatives à des mesures d’aide sociale ou à des mesures de protection de l’enfant et de l’adulte,
 - b données relatives au ménage,
 - c données relatives à la santé.
 
