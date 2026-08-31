@@ -4,13 +4,12 @@ number: "850.402"
 title: "Reglement über die verschiedenen Einrichtungen für die Jugend *"
 short: RüvEJ
 language: de
-version: 2024-09-01
-valid_until: 2026-08-31
-version_adopted: 2024-08-21
+version: 2026-09-01
+version_adopted: 2026-08-26
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.402"
-pdf: "https://lex.vs.ch/api/de/versions/3344/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3651/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3344/pdf_file"
 
 (RüvEJ)
 
-vom 09.05.2001 (Stand 01.09.2024)
+vom 09.05.2001 (Stand 01.09.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -112,7 +111,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Das Jugendparlament setzt sich aus 60 Mitgliedern aus den verschiedenen Bildungseinrichtungen der Sekundarstufe II zusammen, die für ein 2-jähriges Mandat gewählt werden und deren Verteilung im Verhältnis zur Anzahl Schülerinnen und Schüler erfolgt.
+<sup>1</sup> Das Jugendparlament setzt sich aus 65 Mitgliedern aus den verschiedenen Bildungseinrichtungen der Sekundarstufe II zusammen, die für ein 2-jähriges Mandat gewählt werden und deren Verteilung im Verhältnis zur Anzahl Schülerinnen und Schüler erfolgt.
 
 <sup>2</sup> Die Mitglieder werden von den Personen in Ausbildung jeweils nach einem schuleigenen Wahlverfahren bestimmt.
 

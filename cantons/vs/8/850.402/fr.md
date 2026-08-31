@@ -4,13 +4,12 @@ number: "850.402"
 title: Règlement sur les différentes structures en faveur de la jeunesse
 short: RDSJe
 language: fr
-version: 2024-09-01
-valid_until: 2026-08-31
-version_adopted: 2024-08-21
+version: 2026-09-01
+version_adopted: 2026-08-26
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.402"
-pdf: "https://lex.vs.ch/api/fr/versions/3344/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3651/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3344/pdf_file"
 
 (RDSJe)
 
-du 09.05.2001 (état 01.09.2024)
+du 09.05.2001 (état 01.09.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -112,7 +111,7 @@ arrête:
 
 **Composition**
 
-<sup>1</sup> Le Parlement des jeunes se compose de 60 membres issus des différents établissements de formation du secondaire II, élus pour un mandat de 2 ans, selon une répartition au prorata du nombre d’élèves.
+<sup>1</sup> Le Parlement des jeunes se compose de 65 membres issus des différents établissements de formation du secondaire II, élus pour un mandat de 2 ans, selon une répartition au prorata du nombre d’élèves.
 
 <sup>2</sup> Les membres sont élus par les personnes en formation selon un dispositif d’élection propre à chaque établissement.
 
