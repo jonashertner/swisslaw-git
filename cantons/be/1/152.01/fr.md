@@ -4,13 +4,12 @@ number: "152.01"
 title: "Loi sur l'organisation du Conseil-exécutif et de l'administration"
 short: "Loi d'organisation, LOCA"
 language: fr
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-03
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3143/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3418/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3143/pdf_file"
 
 (Loi d'organisation, LOCA)
 
-du 20.06.1995 (état au 01.01.2026)
+du 20.06.1995 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -445,11 +444,19 @@ arrête:
 - c en procédure de poursuite pour dettes et de faillite, la langue du débiteur ou de la débitrice;
 - d en procédure pénale, la langue de la personne inculpée.
 
-## 2a Contrôle des finances
+## 2a Contrôle des finances et autorité cantonale de protection des données
 
 #### Art. 40a
 
+**Contrôle des finances**
+
 <sup>1</sup> Le Contrôle des finances est une unité administrative indépendante conformément à la législation sur le Contrôle des finances.
+
+#### Art. 40b
+
+**Autorité cantonale de protection des données**
+
+<sup>1</sup> L’autorité cantonale de protection des données est une unité administrative indépendante conformément à la législation sur la protection des données.
 
 ## 3 Dispositions diverses
 

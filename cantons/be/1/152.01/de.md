@@ -4,13 +4,12 @@ number: "152.01"
 title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Organisationsgesetz, OrG"
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-03
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3143/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3143/pdf_file"
 
 (Organisationsgesetz, OrG)
 
-vom 20.06.1995 (Stand 01.01.2026)
+vom 20.06.1995 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -445,11 +444,19 @@ beschliesst:
 - c in Schuldbetreibungs- und Konkurssachen die Sprache der Schuldnerin oder des Schuldners,
 - d in Strafsachen die Sprache der oder des Angeschuldigten.
 
-## 2a Finanzkontrolle
+## 2a Finanzkontrolle und kantonale Datenschutzbehörde
 
 #### Art. 40a
 
+**Finanzkontrolle**
+
 <sup>1</sup> Die Finanzkontrolle ist eine selbstständige Organisationseinheit gemäss der Gesetzgebung über die Finanzkontrolle.
+
+#### Art. 40b
+
+**Kantonale Datenschutzbehörde**
+
+<sup>1</sup> Die kantonale Datenschutzbehörde ist eine selbstständige Organisationseinheit gemäss der Datenschutzgesetzgebung.
 
 ## 3 Verschiedene Bestimmungen
 
