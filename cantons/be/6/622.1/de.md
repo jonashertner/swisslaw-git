@@ -4,13 +4,12 @@ number: "622.1"
 title: Kantonales Finanzkontrollgesetz
 short: KFKG
 language: de
-version: 2025-03-30
-valid_until: 2026-08-31
-version_adopted: 2024-11-25
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3171/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3439/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3171/pdf_file"
 
 (KFKG)
 
-vom 07.03.2022 (Stand 30.03.2025)
+vom 07.03.2022 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -55,7 +54,7 @@ beschliesst:
 
 **Leitung**
 
-<sup>1</sup> Der Grosse Rat wählt auf Vorschlag des Finanzkontrollgremiums (Art. 34 bis 37) die Vorsteherin oder den Vorsteher der Finanzkontrolle für eine Amtsdauer von vier Jahren.
+<sup>1</sup> Der Grosse Rat wählt auf Vorschlag des Finanzkontrollgremiums (Art. 34 bis 37) die Vorsteherin oder den Vorsteher der Finanzkontrolle für eine Amtsdauer von vier Jahren. Diese stimmt mit der Legislatur des Grossen Rates überein.
 
 <sup>2</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle ist eine im Bereich Wirtschaftsprüfung ausgewiesene Fachperson mit guten Kenntnissen beider Amtssprachen.
 
@@ -194,7 +193,7 @@ beschliesst:
 
 <sup>1</sup> Die Finanzkontrolle legt jährlich auf der Basis von Prüfungsschwerpunkten einen Prüfungsplan fest.
 
-<sup>2</sup> Sie koordiniert ihre Prüfungen mit den entsprechenden Aktivitäten der Aufsichtskommissionen des Grossen Rates sowie der kantonalen Datenschutzaufsichtsstelle.
+<sup>2</sup> Sie koordiniert ihre Prüfungen mit den entsprechenden Aktivitäten der Aufsichtskommissionen des Grossen Rates sowie der kantonalen Datenschutzbehörde.
 
 <sup>3</sup> Sie bringt den Prüfungsplan den Aufsichtskommissionen des Grossen Rates, dem Regierungsrat sowie der Justizverwaltungsleitung zur Kenntnis.
 
@@ -431,7 +430,7 @@ beschliesst:
 
 <sup>3</sup> Die Aufsichtskommissionen des Grossen Rates können abgeschlossene Prüfungsberichte sowie allfällige Stellungnahmen der geprüften Stelle direkt bei der Finanzkontrolle verlangen. Sie orientieren in diesen Fällen den Regierungsrat über die Einsicht in den Prüfungsbericht.
 
-<sup>4</sup> Die kantonale Datenschutzaufsichtsstelle kann direkt bei der Finanzkontrolle abgeschlossene Prüfungsberichte sowie allfällige Stellungnahmen der geprüften Stelle verlangen, soweit diese zur Erfüllung ihrer Aufgaben von Bedeutung sind. Sie orientiert in diesen Fällen die zuständige Direktion, die Staatskanzlei, das betroffene oberste kantonale Gericht oder die Generalstaatsanwaltschaft über die Einsicht in den Prüfungsbericht.
+<sup>4</sup> Die kantonale Datenschutzbehörde kann direkt bei der Finanzkontrolle abgeschlossene Prüfungsberichte sowie allfällige Stellungnahmen der geprüften Stelle verlangen, soweit diese zur Erfüllung ihrer Aufgaben von Bedeutung sind. Sie orientiert in diesen Fällen die zuständige Direktion, die Staatskanzlei, das betroffene oberste kantonale Gericht oder die Generalstaatsanwaltschaft über die Einsicht in den Prüfungsbericht.
 
 #### Art. 39
 
@@ -510,6 +509,16 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+## T1 Übergangsbestimmungen der Änderung vom 03.12.2025
+
+#### Art. T1-1
+
+**Amtsdauer der Vorsteherin oder des Vorstehers der Finanzkontrolle**
+
+<sup>1</sup> Die Amtsdauer der vom Grossen Rat am 4. Juni 2025 gewählten Vorsteherin der Finanzkontrolle dauert vom 1. Januar 2026 bis zum 31. Dezember 2029.
+
+<sup>2</sup> Die Amtsdauer der Vorsteherin oder des Vorstehers der Finanzkontrolle nach der Wahl oder Wiederwahl während der Legislatur 2026–2030 endet am 31. Mai 2030.
 
 Bern, 7. März 2022
 

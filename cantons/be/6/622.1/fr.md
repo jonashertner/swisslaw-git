@@ -4,13 +4,12 @@ number: "622.1"
 title: Loi cantonale sur le Contrôle des finances
 short: LCCF
 language: fr
-version: 2025-03-30
-valid_until: 2026-08-31
-version_adopted: 2024-11-25
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3171/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3439/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3171/pdf_file"
 
 (LCCF)
 
-du 07.03.2022 (état au 30.03.2025)
+du 07.03.2022 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -55,7 +54,7 @@ arrête:
 
 **Direction**
 
-<sup>1</sup> Le Grand Conseil élit le chef ou la cheffe du Contrôle des finances pour une période de fonction de quatre ans, sur proposition du Comité Contrôle des finances (art. 34 à 37).
+<sup>1</sup> Le Grand Conseil élit le chef ou la cheffe du Contrôle des finances pour une période de fonction de quatre ans, sur proposition du Comité Contrôle des finances (art. 34 à 37). Celle-ci coïncide avec la législature du Grand Conseil.
 
 <sup>2</sup> Le chef ou la cheffe du Contrôle des finances est un spécialiste reconnu ou une spécialiste reconnue dans le domaine de l'audit et dispose de bonnes connaissances des deux langues officielles.
 
@@ -194,7 +193,7 @@ arrête:
 
 <sup>1</sup> Le Contrôle des finances établit chaque année une planification des contrôles sur la base des activités de révision prioritaires.
 
-<sup>2</sup> Il coordonne ses contrôles avec les activités correspondantes des commissions de surveillance du Grand Conseil et du Bureau pour la surveillance de la protection des données.
+<sup>2</sup> Il coordonne ses contrôles avec les activités correspondantes des commissions de surveillance du Grand Conseil et de l'autorité cantonale de protection des données.
 
 <sup>3</sup> Il communique la planification des contrôles aux commissions de surveillance du Grand Conseil, au Conseil-exécutif et à la Direction administrative de la magistrature.
 
@@ -310,7 +309,7 @@ arrête:
 
 <sup>1</sup> Les services contrôlés sont tenus d'assister le Contrôle des finances dans l'accomplissement de ses tâches et de lui remettre toutes les informations nécessaires à cette fin.
 
-<sup>2</sup> Ils mettent à sa disposition les informations et les données nécessaires à l'accomplissement de ses tâches, y compris les données personnelles particulièrement dignes de protection, dans la mesure où celles-ci sont appropriées et impérativement nécessaires, ou accordent l'accès à leurs fichiers de données à cette fin.
+<sup>2</sup> Ils mettent à sa disposition les informations et les données nécessaires à l'accomplissement de ses tâches, y compris les données sensibles, dans la mesure où celles-ci sont appropriées et impérativement nécessaires, ou accordent l'accès à leurs fichiers de données à cette fin.
 
 <sup>3</sup> Ils ne peuvent invoquer aucune obligation légale de garder le secret.
 
@@ -431,7 +430,7 @@ arrête:
 
 <sup>3</sup> Les commissions de surveillance du Grand Conseil peuvent demander directement au Contrôle des finances à voir des rapports de révision et des prises de positions des services contrôlés pour des audits terminés. Elles informent le Conseil-exécutif de la consultation d'un rapport de révision.
 
-<sup>4</sup> L’autorité cantonale de surveillance de la protection des données peut demander directement au Contrôle des finances à voir des rapports de révision et les éventuelles prises de position des services contrôlés pour des audits terminés, dans la mesure où ils revêtent de l’importance pour l’accomplissement de ses tâches. Dans ces cas, elle informe la Direction compétente, la Chancellerie d’Etat, le tribunal cantonal suprême concerné ou le Parquet général de la consultation d’un rapport de révision.
+<sup>4</sup> L’autorité cantonale de protection des données peut demander directement au Contrôle des finances à voir des rapports de révision et les éventuelles prises de position des services contrôlés pour des audits terminés, dans la mesure où ils revêtent de l’importance pour l’accomplissement de ses tâches. Dans ces cas, elle informe la Direction compétente, la Chancellerie d’Etat, le tribunal cantonal suprême concerné ou le Parquet général de la consultation d’un rapport de révision.
 
 #### Art. 39
 
@@ -510,6 +509,16 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi.
+
+## T1 Dispositions transitoires de la modification du 03.12.2025
+
+#### Art. T1-1
+
+**Période de fonction de la cheffe ou du chef du Contrôle des finances**
+
+<sup>1</sup> La période de fonction de la cheffe du Contrôle des finances, élue le 4 juin 2025 par le Grand Conseil, dure du 1<sup>er</sup> janvier 2026 au 31 décembre 2029.
+
+<sup>2</sup> La période de fonction de la cheffe ou du chef du Contrôle des finances après sa réélection ou son élection pendant la législature 2026–2030 prend fin le 31 mai 2030.
 
 Berne, le 7 mars 2022
 
