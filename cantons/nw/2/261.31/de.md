@@ -4,13 +4,12 @@ number: "261.31"
 title: Verordnung zum Kantonalen Ordnungsbussengesetz
 short: "Kantonale Ordnungsbussenverordnung, kOBV"
 language: de
-version: 2026-05-01
-valid_until: 2026-08-31
-version_adopted: 2026-03-31
+version: 2026-09-01
+version_adopted: 2026-08-18
 adopted: 2026-03-31
 in_force: 2026-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.31"
-pdf: "https://gesetze.nw.ch/api/de/versions/1498/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1498/pdf_file"
 
 (Kantonale Ordnungsbussenverordnung, kOBV)
 
-vom 31.03.2026 (Stand 01.05.2026)
+vom 31.03.2026 (Stand 01.09.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -105,9 +104,9 @@ beschliesst:
 - 1\. die Leitung des Einwohneramtes bei Übertretungen gemäss § A1-2 Abs. 1;
 - 2\. die Mitarbeitenden des Amtes für Umwelt und Energie bei Übertretungen gemäss § A1-2 Abs. 3;
 - 3\. die Mitarbeitenden der Hundekontrolle bei Übertretungen gemäss § A1-2 Abs. 5 Ziff. 1 und 2;
-- 4\. die Wildschutzorgane bei Übertretungen gemäss § A1-2 Abs. 5 bis 7;
+- 4\. die Wildschutzorgane bei Übertretungen gemäss § A1-2 Abs. 2a und 5 bis 7;
 - 5\. die Oberförsterin oder der Oberförster sowie die Revierförsterinnen und Revierförster bei Übertretungen gemäss § A1-2 Abs. 6;
-- 6\. die Fischereiaufseherin oder der Fischereiaufseher bei Übertretungen gemäss § A1-2 Abs. 7.
+- 6\. die Mitarbeitenden des Amtes für Wald und Naturgefahren bei Übertretungen gemäss § A1-2 Abs. 7.
 
 #### § A1-2
 
@@ -136,24 +135,32 @@ beschliesst:
 <tr><td>10</td><td>Vorsätzliches und unbefugtes Anbringen oder Anbringen lassen von Werbe- oder Informationsmaterial an Gebäuden, Anlagen oder Bäumen (Art. 13 Ziff. 2 kStG)</td><td>200.–</td></tr>
 </table>
 
+<sup>2a</sup>
+
+<table>
+<tr><th>Ziffer</th><th>Fuss-, Wander- und Mountainbikeweggesetz (FWMG)[^A12-3]</th><th>Betrag in Fr.</th></tr>
+<tr><td>1</td><td>Verstoss gegen gekennzeichnete Nutzungseinschränkungen auf Fuss-, Wander- und Mountainbikewegen (Art. 31 Abs. 1 i.V.m. Art. 19 Abs. 2 Ziff. 2 und Art. 27 FWMG)</td><td>100.-</td></tr>
+<tr><td>2</td><td>Widerrechtliche Benutzung des Mountainbikes abseits der Wander- und Moun-tainbikewege (Art. 31 Abs. 2 i.V.m. Art. 19 Abs. 4 FMWG)</td><td>100.-</td></tr>
+</table>
+
 <sup>3</sup>
 
 <table>
-<tr><th>Ziffer</th><th>Tatbestand gemäss Gewässergesetz (GewG)[^A12-3]</th><th>Betrag in Fr.</th></tr>
+<tr><th>Ziffer</th><th>Tatbestand gemäss Gewässergesetz (GewG)[^A12-4]</th><th>Betrag in Fr.</th></tr>
 <tr><td>1</td><td>Befüllung von Tankanlagen ohne gültige Vignette oder mit offensichtlichen Mängeln (Art. 146 Abs. 2 Ziff. 7 GewG)</td><td>300.–</td></tr>
 </table>
 
 <sup>4</sup>
 
 <table>
-<tr><th>Ziffer</th><th>Tatbestand gemäss Gesundheitsgesetz (GesG)[^A12-4]</th><th>Betrag in Fr.</th></tr>
+<tr><th>Ziffer</th><th>Tatbestand gemäss Gesundheitsgesetz (GesG)[^A12-5]</th><th>Betrag in Fr.</th></tr>
 <tr><td>1</td><td>Verkauf von Tabak und Tabakerzeugnissen an Personen unter 18 Jahren (Art. 72 Abs. 1 Ziff. 1 i.V.m. Art. 90 GesG)</td><td>200.–</td></tr>
 </table>
 
 <sup>5</sup>
 
 <table>
-<tr><th>Ziffer</th><th>Tatbestand gemäss Hundegesetz (HuG)[^A12-5]</th><th>Betrag in Fr.</th></tr>
+<tr><th>Ziffer</th><th>Tatbestand gemäss Hundegesetz (HuG)[^A12-6]</th><th>Betrag in Fr.</th></tr>
 <tr><td>1</td><td>Verletzung der Meldepflicht (Art. 19 Ziff. 1 HuG)</td><td>100.–</td></tr>
 <tr><td>2</td><td>Nichtkennzeichnung (Art. 19 Ziff. 2 HuG)</td><td>100.–</td></tr>
 <tr><td>3</td><td>Absichtliches Reizen eines Hundes (Art. 19 Ziff. 4 HuG)</td><td>300.–</td></tr>
@@ -165,7 +172,7 @@ beschliesst:
 <sup>6</sup>
 
 <table>
-<tr><th>Ziffer</th><th>Tatbestand gemäss Kantonalem Waldgesetz (kWaG)[^A12-6]</th><th>Betrag in Fr.</th></tr>
+<tr><th>Ziffer</th><th>Tatbestand gemäss Kantonalem Waldgesetz (kWaG)[^A12-7]</th><th>Betrag in Fr.</th></tr>
 <tr><td>1</td><td>Unbewilligtes Durchführen von Veranstaltungen (Art. 52 Abs. 1 Ziff. 1 kWaG)</td><td>300.–</td></tr>
 <tr><td>2</td><td>Reiten oder Velofahren abseits von Waldstrassen, Wegen oder bewilligten Sportpfaden oder Missachten von weitergehenden Anordnungen der Direktion (Art. 52 Abs. 1 Ziff. 2 kWaG)</td><td>100.–</td></tr>
 <tr><td>3</td><td>Nachteilige Nutzungen des Waldes (Art. 52 Abs. 1 Ziff. 3 kWaG)</td><td>100.–</td></tr>
@@ -174,7 +181,7 @@ beschliesst:
 <sup>7</sup>
 
 <table>
-<tr><th>Ziffer</th><th>Tatbestand gemäss Fischereigesetz (kFG)[^A12-7]</th><th>Betrag in Fr.</th></tr>
+<tr><th>Ziffer</th><th>Tatbestand gemäss Fischereigesetz (kFG)[^A12-8]</th><th>Betrag in Fr.</th></tr>
 <tr><td>1</td><td>Fischfang ohne ausreichende Berechtigung (Art. 6 kFG)</td><td>50.–</td></tr>
 <tr><td>2</td><td>Fischfang mit einem fremden Patent (Art. 11 kFG)</td><td>50.–</td></tr>
 <tr><td>3</td><td>Fischfang als Inhaberin oder Inhaber eines Gewerbepatents mit mehr als zwei Gehilfinnen und Gehilfen (Art. 12 Abs. 2 kFG)</td><td>250.–</td></tr>
@@ -191,7 +198,7 @@ beschliesst:
 <sup>8</sup>
 
 <table>
-<tr><th>Ziffer</th><th>Tatbestand gemäss Gastgewerbegesetz (GGG)[^A12-8]</th><th>Betrag in Fr.</th></tr>
+<tr><th>Ziffer</th><th>Tatbestand gemäss Gastgewerbegesetz (GGG)[^A12-9]</th><th>Betrag in Fr.</th></tr>
 <tr><td>1</td><td>Abgabe alkoholhaltiger Getränke an offensichtlich betrunkene oder an offensichtlich unter anderen Drogen stehende Personen sowie an Jugendliche unter 16 Jahren (Art. 46 Abs. 1 i.V.m. Art. 27 Abs. 1 GGG)</td><td>300.–</td></tr>
 <tr><td>2</td><td>Abgabe gebrannter Wasser oder verdünnter alkoholhaltiger Getränke auf der Basis von gebrannten Wassern an Jugendliche unter 18 Jahren (Art. 46 Abs. 1 i.V.m. Art. 27 Abs. 2 GGG)</td><td>300.–</td></tr>
 <tr><td>3</td><td>Nichtbefolgung von Anordnungen der verantwortlichen Person zur Einhaltung von Ruhe, Ordnung und guter Sitte durch den Gast (Art. 46 Abs. 2 Ziff. 3 GGG)</td><td>100.–</td></tr>
@@ -199,12 +206,13 @@ beschliesst:
 
 [^A12-1]: NG 122.1
 [^A12-2]: NG 251.1
-[^A12-3]: NG 631.1
-[^A12-4]: NG 721.1
-[^A12-5]: NG 826.3
-[^A12-6]: NG 831.1
-[^A12-7]: NG 842.1
-[^A12-8]: NG 854.1
+[^A12-3]: NG 614.1
+[^A12-4]: NG 631.1
+[^A12-5]: NG 721.1
+[^A12-6]: NG 826.3
+[^A12-7]: NG 831.1
+[^A12-8]: NG 842.1
+[^A12-9]: NG 854.1
 
 ## A2 Anhang 2
 
