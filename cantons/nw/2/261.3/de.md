@@ -4,13 +4,12 @@ number: "261.3"
 title: Gesetz über das kantonale Ordnungsbussenverfahren
 short: "Kantonales Ordnungsbussengesetz, kOBG"
 language: de
-version: 2025-07-01
-valid_until: 2026-08-31
-version_adopted: 2025-02-19
+version: 2026-09-01
+version_adopted: 2026-05-13
 adopted: 2025-02-19
 in_force: 2025-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.3"
-pdf: "https://gesetze.nw.ch/api/de/versions/1388/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1530/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1388/pdf_file"
 
 (Kantonales Ordnungsbussengesetz, kOBG)
 
-vom 19.02.2025 (Stand 01.07.2025)
+vom 19.02.2025 (Stand 01.09.2026)
 
 Der Landrat von Nidwalden,
 
@@ -47,26 +46,28 @@ beschliesst:
 
 - 1\. Gesetz über Niederlassung und Aufenthalt[^2-1];
 - 2\. kantonales Strafgesetz[^2-2];
-- 3\. Gewässergesetz[^2-3];
-- 4\. Gesundheitsgesetz[^2-4];
-- 5\. Hundegesetz[^2-5];
-- 6\. kantonales Waldgesetz[^2-6];
-- 7\. Fischereigesetz[^2-7];
-- 8\. Gastgewerbegesetz[^2-8].
+- 2a. Fuss-, Wander- und Mountainbikeweggesetz[^2-3];
+- 3\. Gewässergesetz[^2-4];
+- 4\. Gesundheitsgesetz[^2-5];
+- 5\. Hundegesetz[^2-6];
+- 6\. kantonales Waldgesetz[^2-7];
+- 7\. Fischereigesetz[^2-8];
+- 8\. Gastgewerbegesetz[^2-9].
 
 <sup>2</sup> Der Regierungsrat regelt in einer Verordnung, welche Übertretungstatbestände durch Ordnungsbussen zu ahnden sind.
 
-<sup>3</sup> Das kantonale Ordnungsbussenverfahren im Bereich der Jagd richtet sich nach der Jagdgesetzgebung[^2-9].
+<sup>3</sup> Das kantonale Ordnungsbussenverfahren im Bereich der Jagd richtet sich nach der Jagdgesetzgebung[^2-10].
 
 [^2-1]: NG 122.1
 [^2-2]: NG 251
-[^2-3]: NG 631.1
-[^2-4]: NG 721.1
-[^2-5]: NG 826.3
-[^2-6]: NG 831.1
-[^2-7]: NG 842.1
-[^2-8]: NG 854.1
-[^2-9]: NG 841.1
+[^2-3]: NG 614.1
+[^2-4]: NG 631.1
+[^2-5]: NG 721.1
+[^2-6]: NG 826.3
+[^2-7]: NG 831.1
+[^2-8]: NG 842.1
+[^2-9]: NG 854.1
+[^2-10]: NG 841.1
 
 #### Art. 3
 
