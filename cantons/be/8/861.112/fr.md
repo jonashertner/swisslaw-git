@@ -4,13 +4,13 @@ number: "861.112"
 title: "Ordonnance sur le traitement des données dans le domaine de l'asile, des réfugiés et des étrangers"
 short: ODARE
 language: fr
-version: 2025-02-01
-valid_until: 2026-08-31
-version_adopted: 2024-12-18
+version: 2026-09-01
+valid_until: 2026-10-31
+version_adopted: 2026-06-24
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/861.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3122/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3475/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3122/pdf_file"
 
 (ODARE)
 
-du 20.05.2020 (état au 01.02.2025)
+du 20.05.2020 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -68,7 +68,7 @@ arrête:
 
 <sup>1</sup> L'Office de l'intégration et de l'action sociale (OIAS) exploite le système ARE conjointement avec l'Office de la population (OPOP).
 
-<sup>2</sup> L'OIAS est l'autorité responsable conformément à l'article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^4-1].
+<sup>2</sup> L'OIAS est l'autorité responsable conformément à l'article 11, alinéa 2 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^4-1].
 
 [^4-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
@@ -106,9 +106,9 @@ arrête:
 
 #### Art. 8
 
-**Données personnelles particulièrement dignes de protection et fonctionnalités**
+**Données sensibles et fonctionnalités**
 
-<sup>1</sup> Les données personnelles ou caractéristiques suivantes particulièrement dignes de protection sont saisies dans le système ARE:
+<sup>1</sup> Les données ou caractéristiques sensibles suivantes sont saisies dans le système ARE:
 
 - a confession,
 - b mesures d'aide sociale,
@@ -130,15 +130,13 @@ arrête:
 
 #### Art. 9
 
-<sup>1</sup> L'OIAS prend les mesures techniques et organisationnelles visées aux articles 4 à 6 de l'ordonnance du 22 octobre 2008 sur la protection des données (OPD)[^9-1] en vue de la protection du système ARE dans son ensemble. Il établit les documents conformément à l'ordonnance de Direction de la Direction des finances (art. 9 OPD) et les soumet pour contrôle préalable au Bureau cantonal pour la surveillance de la protection des données (art. 17a LCPD).
+<sup>1</sup> L'OIAS assure la sécurité de l'information et la protection des données pour l'ensemble du système ARE.
 
 <sup>2</sup> L'OIAS et l'OPOP sont au surplus responsables, chacun dans son domaine de compétences, de la sécurité de l'information et de la protection des données (SIPD) du système ARE, en application de la législation sur la protection des données et de la législation spéciale.
 
 <sup>3</sup> Ils édictent les directives ou prononcent les décisions visant à mettre en œuvre les mesures SIPD.
 
 <sup>4</sup> Ils veillent à ce que les utilisateurs et les utilisatrices du système ARE bénéficient d'une formation appropriée.
-
-[^9-1]: RSB [152.040.1](https://www.belex.sites.be.ch/data/152.040.1/fr)
 
 ### 3.2 Réglementation et gestion des autorisations
 

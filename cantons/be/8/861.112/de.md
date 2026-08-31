@@ -4,13 +4,13 @@ number: "861.112"
 title: "Verordnung über die Datenbearbeitung im Asyl-, Flüchtlings- und Ausländerbereich"
 short: DAFAV
 language: de
-version: 2025-02-01
-valid_until: 2026-08-31
-version_adopted: 2024-12-18
+version: 2026-09-01
+valid_until: 2026-10-31
+version_adopted: 2026-06-24
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/861.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3122/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3475/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3122/pdf_file"
 
 (DAFAV)
 
-vom 20.05.2020 (Stand 01.02.2025)
+vom 20.05.2020 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -68,7 +68,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Integration und Soziales (AIS) betreibt das AFA-System gemeinsam mit dem Amt für Bevölkerungsdienste (ABEV).
 
-<sup>2</sup> Verantwortliche Behörde nach Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^4-1] ist das AIS.
+<sup>2</sup> Verantwortliche Behörde nach Artikel 11 Absatz 2 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^4-1] ist das AIS.
 
 [^4-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
@@ -130,15 +130,13 @@ beschliesst:
 
 #### Art. 9
 
-<sup>1</sup> Das AIS sorgt für die technischen und organisatorischen Massnahmen nach Artikel 4 bis 6 der Datenschutzverordnung vom 22. Oktober 2008 (DSV)[^9-1] zum Schutz des AFA-Systems als Ganzes. Es erstellt die Unterlagen nach der Direktionsverordnung der Finanzdirektion (Art. 9 DSV) und unterbreitet sie der kantonalen Datenschutzaufsichtsstelle zur Vorabkontrolle (Art. 17a KDSG).
+<sup>1</sup> Das AIS stellt die Informationssicherheit und den Datenschutz des AFA-Systems als Ganzes sicher.
 
 <sup>2</sup> Im Übrigen sind das AIS und das ABEV in ihrem Zuständigkeitsbereich für die Informationssicherheit und den Datenschutz (ISDS) des AFA-Systems nach Massgabe der Datenschutz- und besonderen Gesetzgebung verantwortlich.
 
 <sup>3</sup> Sie erlassen die zur Umsetzung der ISDS-Massnahmen erforderlichen Weisungen oder Verfügungen.
 
 <sup>4</sup> Sie sorgen für eine angemessene Ausbildung der Benutzerinnen und Benutzer des AFA-Sytems.
-
-[^9-1]: BSG [152.040.1](https://www.belex.sites.be.ch/data/152.040.1/de)
 
 ### 3.2 Berechtigungsregeln und -verwaltung
 
