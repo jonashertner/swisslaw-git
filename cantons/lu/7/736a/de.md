@@ -3,20 +3,19 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2026-08-17
-valid_until: 2026-08-31
-version_adopted: 2026-08-17
+version: 2026-09-01
+version_adopted: 2026-09-01
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4875/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4904/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 17.08.2026)
+vom 04.07.2017 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -89,6 +88,7 @@ beschliesst:
 <tr><td>Eschenbach</td><td>9. Juni 2024</td><td>2. September 2025</td></tr>
 <tr><td>Zell</td><td>22. August 2024</td><td>23. September 2025</td></tr>
 <tr><td>Entlebuch</td><td>24. November 2024</td><td>17. August 2026</td></tr>
+<tr><td>Gisikon</td><td>18. November 2025</td><td>1. September 2026</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
