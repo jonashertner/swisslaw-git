@@ -4,13 +4,12 @@ number: "215.341.2"
 title: Kantonale Geoinformationsverordnung
 short: KGeoIV
 language: de
-version: 2025-11-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-10
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2015-11-11
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3225/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3225/pdf_file"
 
 (KGeoIV)
 
-vom 11.11.2015 (Stand 01.11.2025)
+vom 11.11.2015 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -218,7 +217,7 @@ Die Normen und Vorgaben betreffen insbesondere
 
 <sup>1</sup> Geodaten der Zugangsberechtigungsstufe A sind öffentlich zugänglich.
 
-<sup>2</sup> Der Zugang wird im Einzelfall oder generell für Teile des Datensatzes eingeschränkt, aufgeschoben oder verweigert, wenn überwiegende öffentliche oder private Interessen nach Artikel 14 des kantonalen Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^15-1] oder Artikel 29 des Gesetzes vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz, IG)[^15-2] vorliegen.
+<sup>2</sup> Der Zugang wird im Einzelfall oder generell für Teile des Datensatzes eingeschränkt, aufgeschoben oder verweigert, wenn überwiegende öffentliche oder private Interessen nach Artikel 14 Absatz 3 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^15-1] oder Artikel 29 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^15-2] entgegenstehen.
 
 [^15-1]: BSG 152.04
 [^15-2]: BSG 107.1

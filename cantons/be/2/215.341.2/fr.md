@@ -4,13 +4,12 @@ number: "215.341.2"
 title: "Ordonnance cantonale sur la géoinformation *"
 short: OCGéo
 language: fr
-version: 2025-11-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-10
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2015-11-11
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3225/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3469/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3225/pdf_file"
 
 (OCGéo)
 
-du 11.11.2015 (état au 01.11.2025)
+du 11.11.2015 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -216,7 +215,7 @@ arrête:
 
 <sup>1</sup> Les géodonnées de niveau A sont accessibles au public.
 
-<sup>2</sup> Dans des cas particuliers ou pour certaines parties du jeu de données dans le cas général, l’accès est limité, différé ou refusé si des intérêts publics ou privés prépondérants sont en cause au sens de l’article 14 de la loi cantonale du 19 février 1986 sur la protection des données (LCPD)[^15-1] ou de l’article 29 de la loi du 2 novembre 1993 sur l’information du public (loi sur l’information; LIn)[^15-2]
+<sup>2</sup> Dans des cas particuliers ou pour certaines parties du jeu de données dans le cas général, l’accès est limité, différé ou refusé si des intérêts publics ou privés prépondérants s’y opposent au sens de l’article 14, alinéa 3 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^15-1] ou de l’article 29 de la loi du 2 novembre 1993 sur l’information et l’aide aux médias (LIAM)[^15-2].
 
 [^15-1]: RSB 152.04
 [^15-2]: RSB 107.1
