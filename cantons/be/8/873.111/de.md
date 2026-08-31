@@ -4,13 +4,12 @@ number: "873.111"
 title: Gebäudeversicherungsverordnung
 short: GVV
 language: de
-version: 2011-01-01
-valid_until: 2026-08-31
-version_adopted: 2010-10-27
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/873.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/216/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/216/pdf_file"
 
 (GVV)
 
-vom 27.10.2010 (Stand 01.01.2011)
+vom 27.10.2010 (Stand 01.09.2026)
 
 Regierungsrat des Kantons Bern,
 
@@ -169,7 +168,7 @@ beschliesst:
 
 <sup>3</sup> Alle Leistungen, welche die Tochtergesellschaften von der GVB beziehen, sind nach kaufmännischen Grundsätzen zu verrechnen.
 
-<sup>4</sup> Die GVB darf ihre Daten den Tochtergesellschaften nur im Rahmen von Artikel 11 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG[^14-1]) zur Verfügung stellen.
+<sup>4</sup> Die GVB darf ihre Daten den Tochtergesellschaften nur im Rahmen von Artikel 14 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^14-1] zur Verfügung stellen.
 
 [^14-1]: BSG 152.04
 

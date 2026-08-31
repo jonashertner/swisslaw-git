@@ -4,13 +4,12 @@ number: "873.111"
 title: "Ordonnance sur l'assurance immobilière"
 short: OAIm
 language: fr
-version: 2011-01-01
-valid_until: 2026-08-31
-version_adopted: 2010-10-27
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/873.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/216/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3476/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/216/pdf_file"
 
 (OAIm)
 
-du 27.10.2010 (état au 01.01.2011)
+du 27.10.2010 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -169,7 +168,7 @@ arrête:
 
 <sup>3</sup> Toutes les prestations perçues de l’AIB par les sociétés affiliées doivent être comptabilisées selon les principes commerciaux.
 
-<sup>4</sup> L’AIB ne peut mettre ses données à disposition des sociétés affiliées que dans le cadre de l’article 11 de la loi du 19 février 1986 sur la protection des données (LCPD)[^14-1].
+<sup>4</sup> L’AIB ne peut mettre ses données à disposition des sociétés affiliées que dans le cadre de l’article 14 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^14-1].
 
 [^14-1]: RSB 152.04
 
