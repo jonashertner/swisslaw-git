@@ -4,13 +4,12 @@ number: "213.316"
 title: Loi sur la protection de l’enfant et de l’adulte
 short: LPEA
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-03-09
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2012-02-01
 in_force: 2012-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.316"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2470/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3426/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2470/pdf_file"
 
 (LPEA)
 
-du 01.02.2012 (état au 01.01.2022)
+du 01.02.2012 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -657,10 +656,8 @@ arrête:
 - b les décisions d’irrecevabilité;
 - c les décisions ordonnant des mesures provisionnelles (art. 445 CCS);
 - d les décisions d’exécution;
-- e les décisions au sens de la loi du 19 février 1986 sur la protection des données (LCPD)[^55-1] et
+- e les décisions au sens de la législation sur la protection des données et
 - f toutes les décisions incidentes séparément susceptibles de recours, y compris en matière d’assistance judiciaire gratuite.
-
-[^55-1]: RSB 152.04
 
 #### Art. 56
 

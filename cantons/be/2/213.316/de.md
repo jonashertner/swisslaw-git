@@ -4,13 +4,12 @@ number: "213.316"
 title: Gesetz über den Kindes- und Erwachsenenschutz
 short: KESG
 language: de
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-03-09
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2012-02-01
 in_force: 2012-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.316"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2470/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2470/pdf_file"
 
 (KESG)
 
-vom 01.02.2012 (Stand 01.01.2022)
+vom 01.02.2012 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -655,10 +654,8 @@ beschliesst:
 - b Nichteintretensverfügungen,
 - c Verfügungen über vorsorgliche Massnahmen (Art. 445 ZGB),
 - d Vollstreckungsverfügungen,
-- e Verfügungen in Anwendung des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^55-1] und
+- e Verfügungen in Anwendung der Datenschutzgesetzgebung und
 - f sämtliche selbstständig anfechtbaren Zwischenverfügungen, einschliesslich solche betreffend die unentgeltliche Prozessführung.
-
-[^55-1]: BSG 152.04
 
 #### Art. 56
 
