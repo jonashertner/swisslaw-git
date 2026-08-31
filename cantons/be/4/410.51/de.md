@@ -3,20 +3,19 @@ canton: BE
 number: "410.51"
 title: Gesetz über die jüdischen Gemeinden
 language: de
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1997-01-28
 in_force: 1997-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/410.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1980/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3431/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die jüdischen Gemeinden
 
-vom 28.01.1997 (Stand 01.11.2020)
+vom 28.01.1997 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 

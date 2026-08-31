@@ -3,20 +3,19 @@ canton: BE
 number: "410.51"
 title: Loi concernant les communautés israélites
 language: fr
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1997-01-28
 in_force: 1997-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/410.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1980/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3431/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi concernant les communautés israélites
 
-du 28.01.1997 (état au 01.11.2020)
+du 28.01.1997 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -87,7 +86,7 @@ arrête:
 
 <sup>1</sup> Les communautés israélites ont accès, selon une procédure d’appel ou d’annonce, aux données des registres du contrôle des habitants des communes de domicile dont elles ont besoin pour enregistrer leurs membres, tenir le registre des votants ou accomplir leurs tâches.
 
-<sup>1a</sup> L’accès aux données au sens de l'alinéa 1 porte aussi, dans la mesure où il est nécessaire, sur des données particulièrement dignes de protection.
+<sup>1a</sup> L’accès aux données au sens de l'alinéa 1 porte aussi, dans la mesure où il est nécessaire, sur des données sensibles.
 
 <sup>2</sup> …
 
@@ -99,7 +98,7 @@ arrête:
 
 <sup>2</sup> Les directions d’école leur communiquent gratuitement les listes de classe et les autres données nécessaires à l’organisation de l’enseignement religieux.
 
-<sup>3</sup> L’accès aux données au sens de l'alinéa 2 porte aussi, dans la mesure où il est nécessaire, sur des données particulièrement dignes de protection.
+<sup>3</sup> L’accès aux données au sens de l'alinéa 2 porte aussi, dans la mesure où il est nécessaire, sur des données sensibles.
 
 #### Art. 8
 
