@@ -4,13 +4,12 @@ number: "433.121"
 title: Mittelschulverordnung
 short: MiSV
 language: de
-version: 2024-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-22
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2007-11-07
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2959/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2959/pdf_file"
 
 (MiSV)
 
-vom 07.11.2007 (Stand 01.08.2024)
+vom 07.11.2007 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1105,9 +1104,7 @@ beschliesst:
 
 **Bearbeiten von Personendaten**
 
-<sup>1</sup> Die Schulleitung ist für das Einhalten der Bestimmungen des Datenschutzgesetzes vom 19. Februar 1986 (KDSG[^86-1]) bei der Bearbeitung von Personendaten an der Schule verantwortlich.
-
-[^86-1]: BSG 152.04
+<sup>1</sup> Die Schulleitung ist für das Einhalten der kantonalen Datenschutzgesetzgebung bei der Bearbeitung von Personendaten an der Schule verantwortlich.
 
 #### Art. 87
 

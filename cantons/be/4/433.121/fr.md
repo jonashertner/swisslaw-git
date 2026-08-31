@@ -4,13 +4,12 @@ number: "433.121"
 title: Ordonnance sur les écoles moyennes
 short: OEM
 language: fr
-version: 2024-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-22
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2007-11-07
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2959/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3473/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2959/pdf_file"
 
 (OEM)
 
-du 07.11.2007 (état au 01.08.2024)
+du 07.11.2007 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1105,9 +1104,7 @@ arrête:
 
 **Traitement des données personnelles**
 
-<sup>1</sup> La direction d’école est responsable de l’observation des dispositions de la loi du 19 février 1986 sur la protection des données (LCPD)[^86-1] lors du traitement des données personnelles à l’école.
-
-[^86-1]: RSB 152.04
+<sup>1</sup> La direction d’école est responsable de l’observation de la législation cantonale sur la protection des données lors du traitement des données personnelles à l’école.
 
 #### Art. 87
 
