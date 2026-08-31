@@ -4,13 +4,12 @@ number: "151.211"
 title: Règlement du Grand Conseil
 short: RGC
 language: fr
-version: 2025-07-01
-valid_until: 2026-08-31
-version_adopted: 2025-06-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3349/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3482/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3349/pdf_file"
 
 (RGC)
 
-du 04.06.2013 (état au 01.07.2025)
+du 04.06.2013 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -53,6 +52,8 @@ arrête:
 - k l’élection du président ou de la présidente et du vice-président ou de la vice-présidente du Conseil-exécutif,
 - l l’élection du secrétaire général ou de la secrétaire générale du Grand Conseil,
 - m l’élection du chancelier ou de la chancelière,
+- m1 l’élection du délégué ou de la déléguée à la protection des données,
+- m2 l’élection du chef ou de la cheffe du Contrôle des finances,
 - n l’élection des membres des commissions permanentes et de leurs présidents ou présidentes,
 - o l’élection des scrutateurs et scrutatrices.
 
@@ -542,7 +543,7 @@ arrête:
 - a exercer la haute surveillance sur la gestion de la Cour suprême, du Tribunal administratif, du Parquet général et de la Direction de la magistrature;
 - b préaviser le budget, le plan intégré mission-financement, les crédits supplémentaires, le rapport de gestion, les motions financières ainsi que les autres affaires financières des autorités judiciaires et du Ministère public;
 - c assurer la préparation de l’élection et de la réélection des autorités judiciaires, du procureur général ou de la procureure générale et de ses suppléants ou suppléantes, et émettre des recommandations à ce sujet;
-- d préaviser la candidature proposée par le Conseil-exécutif pour l’élection du délégué ou de la déléguée à la protection des données;
+- d préaviser la candidature proposée par la commission électorale pour l’élection du délégué ou de la déléguée à la protection des données;
 - e délivrer les autorisations aux membres de la Cour suprême, du Tribunal administratif et du Parquet général concernant l’exercice d’activités annexes ou de charges publiques;
 - f préaviser les recours en grâce;
 - g statuer sur la création ou la suppression de communes ou la modification du territoire de communes selon les dispositions de la législation sur les communes.
@@ -990,7 +991,7 @@ arrête:
 
 **Urgence**
 
-<sup>1</sup> L’intervention parlementaire peut être déclarée urgente si elle a été déposée le premier jour de la session avant 16 heures et que l’urgence soit motivée.
+<sup>1</sup> L’intervention parlementaire peut être déclarée urgente si elle a été déposée le premier jour de la session avant 16 heures et que l’urgence a été motivée.
 
 <sup>2</sup> Le Bureau statue sur l’urgence, après avoir entendu le Conseil-exécutif.
 
@@ -1453,7 +1454,9 @@ arrête:
 - b le président ou la présidente du Conseil-exécutif,
 - c le vice-président ou la vice-présidente du Conseil-exécutif,
 - d le secrétaire général ou la secrétaire générale du Grand Conseil,
-- e le chancelier ou la chancelière.
+- e le chancelier ou la chancelière,
+- f le délégué ou la déléguée à la protection des données,
+- g le chef ou la cheffe du Contrôle des finances.
 
 <sup>2</sup> Les autres élections ont lieu avant le début de la nouvelle mandature.
 

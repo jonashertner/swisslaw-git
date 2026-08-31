@@ -4,13 +4,12 @@ number: "151.211"
 title: Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2025-07-01
-valid_until: 2026-08-31
-version_adopted: 2025-06-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3349/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3349/pdf_file"
 
 (GO)
 
-vom 04.06.2013 (Stand 01.07.2025)
+vom 04.06.2013 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -53,6 +52,8 @@ beschliesst:
 - k Wahl der Präsidentin oder des Präsidenten sowie der Vizepräsidentin oder des Vizepräsidenten des Regierungsrates,
 - l Wahl der Generalsekretärin oder des Generalsekretärs des Grossen Rates,
 - m Wahl der Staatsschreiberin oder des Staatsschreibers,
+- m1 Wahl der Beauftragten oder des Beauftragten für Datenschutz,
+- m2 Wahl der Vorsteherin oder des Vorstehers der Finanzkontrolle,
 - n Wahl der Mitglieder der ständigen Kommissionen und deren Präsidentinnen und Präsidenten,
 - o Wahl der Stimmenzählerinnen und Stimmenzähler.
 
@@ -542,7 +543,7 @@ beschliesst:
 - a Oberaufsicht über die Geschäftsführung des Obergerichts, des Verwaltungsgerichts, der Generalstaatsanwaltschaft und der Justizleitung,
 - b Beratung des Voranschlags, des Aufgaben- und Finanzplans, der Nachkredite, des Geschäftsberichts sowie von Finanzmotionen und übrigen Finanzgeschäften betreffend die Gerichtsbehörden und die Staatsanwaltschaft,
 - c Vorbereitung der Wahlen und Wiederwahlen der Mitglieder der Gerichtsbehörden, der Generalstaatsanwältin oder des Generalstaatsanwalts und der stellvertretenden Generalstaatsanwältinnen und Generalstaatsanwälte sowie Unterbreitung von Wahlempfehlungen,
-- d Vorberatung des Wahlvorschlags des Regierungsrates hinsichtlich der oder des Beauftragten für Datenschutz,
+- d Vorberatung des Wahlvorschlags der Findungskommission hinsichtlich der oder des Beauftragten für Datenschutz,
 - e Bewilligung von Gesuchen der Mitglieder des Obergerichts, des Verwaltungsgerichts und der Generalstaatsanwaltschaft für die Ausübung von Nebenbeschäftigungen und öffentlichen Ämtern,
 - f Vorberatung der Gesuche um Straferlass,
 - g Beschlüsse über die Bildung oder die Aufhebung von Gemeinden oder die Veränderung ihres Gebiets nach den Vorschriften der Gemeindegesetzgebung.
@@ -1451,7 +1452,9 @@ beschliesst:
 - b die Regierungspräsidentin oder der Regierungspräsident,
 - c die Regierungsvizepräsidentin oder der Regierungsvizepräsident,
 - d die Generalsekretärin oder der Generalsekretär des Grossen Rates,
-- e die Staatsschreiberin oder der Staatsschreiber.
+- e die Staatsschreiberin oder der Staatsschreiber,
+- f die Beauftragte oder der Beauftragte für Datenschutz,
+- g die Vorsteherin oder der Vorsteher der Finanzkontrolle.
 
 <sup>2</sup> Die übrigen Wahlen finden vor Beginn der neuen Amtsdauer statt.
 
