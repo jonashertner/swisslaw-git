@@ -4,13 +4,12 @@ number: "122.11"
 title: Gesetz über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer
 short: NAG
 language: de
-version: 2024-02-01
-valid_until: 2026-08-31
-version_adopted: 2023-09-05
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1985-09-12
 in_force: 1986-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2996/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2996/pdf_file"
 
 (NAG)
 
-vom 12.09.1985 (Stand 01.02.2024)
+vom 12.09.1985 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -158,9 +157,11 @@ beschliesst:
 
 **Bekanntgabe von Personendaten**
 
-<sup>1</sup> Die Herausgabe von Personendaten durch die Einwohnerkontrolle richtet sich nach den Vorschriften über den Datenschutz.
+<sup>1</sup> Die Einwohnerkontrolle gibt Namen, Vornamen, Geschlecht, Adresse, Zivilstand, Heimatort, Datum des Zu- und Wegzugs, neuen Wohnort sowie Jahrgang einer Einzelperson an eine private Person bekannt, wenn diese ein schutzwürdiges Interesse glaubhaft macht.
 
-<sup>2</sup> Besondere gesetzliche Vorschriften bezüglich Auskunftspflicht bleiben vorbehalten.
+<sup>2</sup> Das Gemeindereglement kann die Bekanntgabe weiterer Personendaten wie Titel und Sprache einer Einzelperson sowie die systematisch geordnete Bekanntgabe der Daten gemäss Absatz 1 in allgemeiner Weise oder zu näher umschriebenen Zwecken gestatten.
+
+<sup>3</sup> Die betroffene Person kann die Bekanntgabe ihrer Personendaten gemäss Absatz 2 sperren lassen, ohne dass sie ein schutzwürdiges Interesse nachweisen muss.
 
 #### Art. 13
 

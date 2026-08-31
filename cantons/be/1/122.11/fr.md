@@ -4,13 +4,12 @@ number: "122.11"
 title: "Loi sur l'établissement et le séjour des Suissesses et des Suisses *"
 short: LES
 language: fr
-version: 2024-02-01
-valid_until: 2026-08-31
-version_adopted: 2023-09-05
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1985-09-12
 in_force: 1986-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2996/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3416/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2996/pdf_file"
 
 (LES)
 
-du 12.09.1985 (état au 01.02.2024)
+du 12.09.1985 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -158,9 +157,11 @@ arrête:
 
 **Communication de données personnelles**
 
-<sup>1</sup> Les prescriptions sur la protection des données sont applicables à la publication de données personnelles par le contrôle des habitantes et des habitants.
+<sup>1</sup> À la demande d'une personne privée, le contrôle des habitantes et des habitants lui communique les nom, prénoms, sexe, état civil, lieu d’origine, adresse, dates d'arrivée et de départ, nouveau lieu de domicile ainsi qu'année de naissance d'une personne, à condition qu'elle rende vraisemblable un intérêt digne de protection.
 
-<sup>2</sup> Les dispositions légales particulières, relatives à l'obligation de fournir des renseignements, sont réservées.
+<sup>2</sup> Le règlement communal peut autoriser la communication d'autres données personnelles comme le titre et la langue d'une personne ainsi que la communication systématique de données conformément à l’alinéa 1 de façon générale ou dans des buts plus précis.
+
+<sup>3</sup> La personne concernée peut demander le blocage de ses données personnelles conformément à l'article 2 sans prouver l'existence d'un intérêt digne de protection.
 
 #### Art. 13
 
