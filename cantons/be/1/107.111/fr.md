@@ -4,13 +4,12 @@ number: "107.111"
 title: "Ordonnance sur l'information et l'aide aux médias"
 short: OIAM
 language: fr
-version: 2025-06-01
-valid_until: 2026-08-31
-version_adopted: 2025-04-30
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2023-11-15
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/107.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3176/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3453/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3176/pdf_file"
 
 (OIAM)
 
-du 15.11.2023 (état au 01.06.2025)
+du 15.11.2023 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -187,7 +186,7 @@ arrête:
 
 <sup>1</sup> Une demande ne peut être traitée comme une demande informelle au sens de l'article 31 LIAM
 
-- a lorsque l'accès à des données personnelles particulièrement dignes de protection est demandé (art. 28 LIAM);
+- a lorsque l'accès à des données sensibles est demandé (art. 28 LIAM);
 - b lorsque la demande a pour objet des données personnelles qui, selon la législation sur la protection des données ou la législation spéciale, ne sauraient être communiquées sans que soit opérée une pesée des intérêts approfondie ou
 - c lorsqu'il doit être procédé à une pesée des intérêts approfondie pour déterminer s'il existe d'autres intérêts privés prépondérants (art. 29, al. 2 LIAM) ou des intérêts publics prépondérants (art. 29, al. 1 LIAM).
 
@@ -225,9 +224,9 @@ arrête:
 
 #### Art. 20
 
-**Intérêt privé prépondérant: données personnelles particulièrement dignes de protection (art. 28 LIAM)**
+**Intérêt privé prépondérant: données sensibles (art. 28 LIAM)**
 
-<sup>1</sup> Si des données personnelles particulièrement dignes de protection sont touchées et ne peuvent être caviardées, l'autorité demande l'accord de la personne concernée et l'informe qu'elle a le droit de le refuser.
+<sup>1</sup> Si des données sensibles sont touchées et ne peuvent être caviardées, l'autorité demande l'accord de la personne concernée et l'informe qu'elle a le droit de le refuser.
 
 <sup>2</sup> L'autorité rejette la demande
 
@@ -237,9 +236,9 @@ arrête:
 
 #### Art. 21
 
-**Intérêt privé prépondérant: données personnelles qui ne sont pas particulièrement dignes de protection (art. 29, al. 2 LIAM)**
+**Intérêt privé prépondérant: données personnelles qui ne sont pas sensibles (art. 29, al. 2 LIAM)**
 
-<sup>1</sup> Si des données personnelles qui ne sont pas particulièrement dignes de protection sont touchées et ne peuvent être caviardées, l'autorité examine si des intérêts privés prépondérants vont à l'encontre de l'octroi de l'accès à des informations.
+<sup>1</sup> Si des données personnelles qui ne sont pas sensibles sont touchées et ne peuvent être caviardées, l'autorité examine si des intérêts privés prépondérants vont à l'encontre de l'octroi de l'accès à des informations.
 
 <sup>2</sup> Les personnes mentionnées dans les informations demandées sont consultées si un doute subsiste
 
