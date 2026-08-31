@@ -4,13 +4,12 @@ number: VII B/1/4
 title: Verordnung über den Vollzug der Raumentwicklungs- und Baugesetzgebung
 short: "Raumentwicklungs- und Baugesetzgebungsvollzugsverordnung, RBGVV"
 language: de
-version: 2018-07-01
-valid_until: 2026-08-31
-version_adopted: 2018-04-17
+version: 2026-09-01
+version_adopted: 2026-08-18
 adopted: 2011-06-07
 in_force: 2011-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-B.1.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/2015/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2678/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2015/pdf_file"
 
 (Raumentwicklungs- und Baugesetzgebungsvollzugsverordnung, RBGVV)
 
-Vom 07.06.2011 (Stand 01.07.2018)
+Vom 07.06.2011 (Stand 01.09.2026)
 
 Der Regierungsrat,
 
@@ -55,9 +54,9 @@ verordnet:
 
 #### Art. 4
 
-**Waldabstand und Gewässerabstand**
+**Waldabstand, Gewässerabstand und Gewässerraum**
 
-<sup>1</sup> Zuständig für die Genehmigung von Baulinien betreffend besonderer Wald- und Gewässerabstände gemäss den Artikeln 53 Absatz 2 und 54 Absatz 3 RBG und für die Zustimmung für Ausnahmen zum Waldabstand gemäss Artikel 60 Absatz 3 RBG sowie für die Zustimmung für Bauten und Anlagen im Gewässerraum nach Artikel 54 Absatz 3 RBG ist das Departement.
+<sup>1</sup> Zuständig für die Genehmigung von Baulinien betreffend besonderer Wald- und Gewässerabstände gemäss den Artikeln 53 Absatz 2 und 54 Absatz 3 RBG und für die Zustimmung für Ausnahmen gemäss Artikel 60 Absatz 3 RBG vom Waldabstand (Art. 53 RBG) und vom Gewässerabstand (Art. 54 Abs. 2 RBG) sowie für die Zustimmung für Bauten und Anlagen im Gewässerraum ist das Departement.
 
 ## 2. Baugesuchsunterlagen
 
@@ -101,11 +100,21 @@ verordnet:
 
 <sup>1</sup> Für Bauten und Anlagen ausserhalb der Bauzonen ist der Nachweis zu erbringen, dass am gewählten Standort keine Naturgefahren zu erwarten sind oder dass solche durch geeignete bauliche Massnahmen abgewendet werden können.
 
+#### Art. 8a
+
+**Elektronische Einreichung der Baugesuche**
+
+<sup>1</sup> Baugesuche sind mit sämtlichen Unterlagen und dem Unterschriftenblatt elektronisch über die Zustellplattform einzureichen.
+
+<sup>2</sup> Das Unterschriftenblatt ist vom Bauherrn entweder handschriftlich oder mittels qualifizierter elektronischer Signatur zu unterzeichnen. Ein handschriftlich unterzeichnetes Unterschriftenblatt kann eingescannt und über die Zustellplattform hochgeladen oder der zuständigen kommunalen Baubewilligungsbehörde in Papierform eingereicht werden.
+
+<sup>3</sup> Bei elektronischer Einreichung des Baugesuchs wird der Entscheid elektronisch über die Zustellplattform zugestellt.
+
 #### Art. 9
 
-**Anzahl und Form der Unterlagen**
+**Physische Einreichung der Baugesuche**
 
-<sup>1</sup> Alle Unterlagen sind grundsätzlich dreifach einzureichen, wobei je ein Exemplar der Unterlagen mit dem Entscheid über die Baubewilligung dem Bauherrn zurückgegeben wird.
+<sup>1</sup> Alternativ kann ein Baugesuch in dreifacher Papierform eingereicht werden, wobei je ein Exemplar der Unterlagen mit dem Entscheid über die Baubewilligung dem Bauherrn zurückgegeben wird.
 
 <sup>2</sup> Die Einforderung von mehr als drei Exemplaren der Unterlagen aufgrund spezieller Vorschriften oder von Vorschriften der Gemeinden bleibt vorbehalten.
 
