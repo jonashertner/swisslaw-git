@@ -1,0 +1,1446 @@
+---
+canton: GE
+number: B 6 05
+title: Loi sur l’administration des communes (LAC)
+short: LAC
+language: fr
+version: 2026-09-01
+adopted: 1984-04-13
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_b6_05.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi sur l’administration des communes (LAC)
+**Dernières modifications au 1<sup>er</sup> septembre 2026**
+
+du 13 avril 1984
+
+(Entrée en vigueur : 1<sup>er</sup> janvier 1985)
+
+Le GRAND CONSEIL de la République et canton de Genève
+
+décrète ce qui suit :
+
+## Titre I Dispositions générales
+
+#### Art. 1
+
+**Communes**
+
+<sup>1</sup> Le canton de Genève compte 45 communes, soit :
+
+<table>
+<tr><td>Ville de Genève</td><td>Collex-Bossy</td><td>Onex</td></tr>
+<tr><td>Aire-la-Ville</td><td>Collonge-Bellerive</td><td>Perly-Certoux</td></tr>
+<tr><td>Anières</td><td>Cologny</td><td>Plan-les-Ouates</td></tr>
+<tr><td>Avully</td><td>Confignon</td><td>Pregny-Chambésy</td></tr>
+<tr><td>Avusy</td><td>Corsier</td><td>Presinge</td></tr>
+<tr><td>Bardonnex</td><td>Dardagny</td><td>Puplinge</td></tr>
+<tr><td>Bellevue</td><td>Genthod</td><td>Russin</td></tr>
+<tr><td>Bernex</td><td>Grand-Saconnex</td><td>Satigny</td></tr>
+<tr><td>Carouge</td><td>Gy</td><td>Soral</td></tr>
+<tr><td>Cartigny</td><td>Hermance</td><td>Thônex</td></tr>
+<tr><td>Céligny</td><td>Jussy</td><td>Troinex</td></tr>
+<tr><td>Chancy</td><td>Laconnex</td><td>Vandœuvres</td></tr>
+<tr><td>Chêne-Bougeries</td><td>Lancy</td><td>Vernier</td></tr>
+<tr><td>Chêne-Bourg</td><td>Meinier</td><td>Versoix</td></tr>
+<tr><td>Choulex</td><td>Meyrin</td><td>Veyrier</td></tr>
+</table>
+
+<sup>2</sup> Chaque commune constitue une corporation de droit public.
+
+<sup>3</sup> Les limites d’une commune ne peuvent être modifiées que par une loi.
+
+#### Art. 2
+
+**Autonomie communale**
+
+<sup>1</sup> L’autonomie communale s’exerce dans les limites de l’ordre juridique et plus particulièrement des compétences cantonales et fédérales, ainsi que du pouvoir de surveillance auquel la commune est soumise.
+
+<sup>2</sup> Lorsqu’un projet de portée législative ou réglementaire de rang cantonal concerne spécifiquement une ou plusieurs communes, l’Association des communes genevoises, la Ville de Genève et les communes particulièrement concernées sont consultées.<sup>(48)</sup>
+
+<sup>3</sup> Les conseils municipaux sont informés par les exécutifs communaux des consultations en cours concernant les communes.<sup>(48)</sup>
+
+#### Art. 3
+
+**Organes**
+
+La commune a pour organes :
+
+- a) un conseil municipal;
+- b) un conseil administratif.<sup>(65)</sup>
+
+## Titre II Conseil municipal
+
+### Chapitre I Election et composition
+
+#### Art. 4<sup>(40)</sup>
+
+**Election**
+
+Le conseil municipal est élu selon le mode et la procédure prévus par les articles 54 et 140 de la constitution de la République et canton de Genève, du 14 octobre 2012, et par la loi sur l’exercice des droits politiques, du 15 octobre 1982.
+
+#### Art. 5
+
+**Composition**
+
+<table>
+<tr><td>Il se compose de :</td><td>*Habitants*</td></tr>
+<tr><td>1.</td><td>9 membres dans les communes jusqu’à</td><td></td><td></td><td>600</td></tr>
+<tr><td>2.</td><td>11 membres dans les communes de</td><td>601</td><td>à</td><td>800</td></tr>
+<tr><td>3.</td><td>13 membres dans les communes de</td><td>801</td><td>à</td><td>1 500</td></tr>
+<tr><td>4.</td><td>15 membres dans les communes de</td><td>1 501</td><td>à</td><td>2 000</td></tr>
+<tr><td>5.</td><td>17 membres dans les communes de</td><td>2 001</td><td>à</td><td>3 000</td></tr>
+<tr><td>6.</td><td>19 membres dans les communes de</td><td>3 001</td><td>à</td><td>5 000</td></tr>
+<tr><td>7.</td><td>21 membres dans les communes de</td><td>5 001</td><td>à</td><td>8 000</td></tr>
+<tr><td>8.</td><td>23 membres dans les communes de</td><td>8 001</td><td>à</td><td>10 000</td></tr>
+<tr><td>9.</td><td>25 membres dans les communes de</td><td>10 001</td><td>à</td><td>12 000</td></tr>
+<tr><td>10.</td><td>27 membres dans les communes de</td><td>12 001</td><td>à</td><td>15 000</td></tr>
+<tr><td>11.</td><td>29 membres dans les communes de</td><td>15 001</td><td>à</td><td>18 000</td></tr>
+<tr><td>12.</td><td>31 membres dans les communes de</td><td>18 001</td><td>à</td><td>21 000</td></tr>
+<tr><td>13.</td><td>33 membres dans les communes de</td><td>21 001</td><td>à</td><td>25 000</td></tr>
+<tr><td>14.</td><td>35 membres dans les communes de</td><td>25 001</td><td>à</td><td>30 000</td></tr>
+<tr><td>15.</td><td>37 membres dans les communes de</td><td>plus de</td><td></td><td>30 000</td></tr>
+<tr><td>16.</td><td>80 membres pour la Ville de Genève.</td><td></td><td></td><td></td></tr>
+</table>
+
+#### Art. 6<sup>(65)</sup>
+
+**Nombre de membres du conseil municipal**
+
+Le Conseil d’Etat arrête avant toute élection générale le nombre des membres du conseil municipal à élire dans chaque commune en se fondant sur l’état de la population au 30 juin de l’année précédant l’élection.
+
+#### Art. 7<sup>(65)</sup>
+
+**Membres suppléants du conseil municipal**
+
+<sup>1</sup> Le règlement mentionné à l’article 17 peut admettre des membres suppléants du conseil municipal.
+
+<sup>2</sup> Il détermine le nombre de membres suppléants auquel a droit chaque liste ayant obtenu des sièges aux dernières élections municipales.
+
+<sup>3</sup> Il détermine leurs droits et devoirs.
+
+<sup>4</sup> Les membres suppléants sont les candidates ou les candidats ayant obtenu le plus de suffrages après la dernière personne élue sur sa liste.
+
+#### Art. 8
+
+**Serment**
+
+<sup>1</sup> Avant d’entrer en fonctions, les membres et les membres suppléants du conseil municipal, en séance du conseil municipal, prêtent serment :
+
+- a) entre les mains de la doyenne ou du doyen d’âge;
+- b) en cours de législature, entre les mains de la présidente ou du président du conseil municipal.<sup>(65)</sup>
+
+<sup>2</sup> La formule du serment est la suivante :
+
+« Je jure ou je promets solennellement :
+
+d’être fidèle à la République et canton de Genève;
+
+d’obéir à la constitution et aux lois et de remplir consciencieusement les devoirs de ma charge;
+
+de garder le secret de fonction sur toutes les informations que la loi ne me permet pas de divulguer. »<sup>(23)</sup>
+
+### Chapitre II Organisation
+
+#### Art. 9<sup>(65)</sup>
+
+**Présidence et bureau**
+
+<sup>1</sup> Le conseil municipal élit chaque année les membres de son bureau choisis au sein du conseil municipal. La présidente ou le président de l’assemblée porte le titre de présidente ou de président du conseil municipal.
+
+<sup>2</sup> Les fonctions de secrétaire du conseil municipal peuvent être remplies par un membre du personnel de la mairie ne faisant pas partie du conseil municipal. Dans ce cas, cette personne assiste aux séances du conseil avec voix consultative.
+
+#### Art. 10
+
+**Commissions**
+
+<sup>1</sup> Le conseil municipal peut désigner dans son sein des commissions nommées pour la durée de la législature (commissions permanentes) ou pour étudier un objet déterminé (commissions ad hoc).
+
+<sup>2</sup> Les commissions sont présidées par un de leurs membres.<sup>(20)</sup>
+
+<sup>3</sup> Les commissions font rapport au conseil municipal sur l’objet de leurs travaux.
+
+<sup>4</sup> Le conseil municipal peut, par règlement, prévoir que les commissions sont habilitées à modifier et amender les propositions qui leur sont soumises, y compris le projet de budget. Les propositions amendées, accompagnées du projet initial, sont soumises au conseil municipal, qui peut les amender.<sup>(50)</sup>
+
+<sup>5</sup> Sauf disposition contraire, les séances des commissions ne sont pas publiques. Elles ont lieu à huis clos pour l’examen des objets à traiter à huis clos devant le conseil municipal.<sup>(50)</sup>
+
+<sup>6</sup> Les procès-verbaux des séances de commissions ne sont pas publics.<sup>(50)</sup>
+
+#### Art. 11
+
+**Séance d’installation**
+
+<sup>1</sup> La date de la séance d’installation est arrêtée par le Conseil d’Etat.
+
+<sup>2</sup> La séance est convoquée par le maire.
+
+#### Art. 12
+
+**Séances**
+
+Le conseil municipal tient des séances ordinaires et des séances extraordinaires.
+
+#### Art. 13
+
+**Séances ordinaires**
+
+<sup>1</sup> Le conseil municipal tient ses séances ordinaires pendant les périodes suivantes :
+
+- a) du 15 janvier au 30 juin;
+- b) du 1<sup>er</sup> septembre au 23 décembre.
+
+<sup>2</sup> Au plus tard au commencement de chaque période, le conseil municipal fixe la date de ses séances, d'entente avec le conseil administratif.<sup>(65)</sup>
+
+#### Art. 14
+
+**Séance extraordinaire**
+
+<sup>1</sup> Le conseil municipal tient une séance extraordinaire :
+
+- a) à la demande du Conseil d’Etat chaque fois que celui-ci l’estime nécessaire;
+- b) à la demande du conseil administratif chaque fois que celui-ci l’estime nécessaire;<sup>(65)</sup>
+- c) à la demande écrite d’au moins un quart des membres du conseil municipal.
+
+Dans ce dernier cas, si la date de la séance n’est pas fixée, elle doit avoir lieu dans un délai de 15 jours dès le dépôt de la demande.<sup>(65)</sup>
+
+<sup>2</sup> La séance extraordinaire est convoquée par la présidente ou le président du conseil municipal. Elle peut l’être en tout temps à l’exception des dimanches et des jours fériés. Sous réserve de l’alinéa 1, lettre c, le délai de convocation est celui de l’article 15.<sup>(65)</sup>
+
+<sup>3</sup> Dans les cas prévus à l’alinéa 1, lettres b et c, le Conseil d’Etat doit être prévenu de la convocation et de l’ordre du jour 5 jours au moins avant la date fixée pour la séance.
+
+### Chapitre III Convocation – Procédure
+
+### Section 1 Convocation
+
+#### Art. 15
+
+**Délai**
+
+<sup>1</sup> Les membres du conseil municipal sont convoqués par écrit par les soins de la présidente ou du président, d’entente avec le conseil administratif, au moins 5 jours ouvrables avant le jour fixé pour la séance, sauf cas d’urgence motivée.<sup>(65)</sup>
+
+*Contenu*
+
+<sup>2</sup> La convocation doit indiquer l’ordre du jour.
+
+*Délibération budget compte rendu*
+
+<sup>3</sup> Les projets de délibération, le projet de budget annuel et les comptes rendus annuels sont joints à la convocation.
+
+*Affichage*
+
+<sup>4</sup> La convocation et l’ordre du jour doivent être affichés au pilier public de chacun des villages, hameaux ou quartiers de la commune.
+
+*Ville de Genève et grandes communes*
+
+<sup>5</sup> En ville de Genève et dans les communes de plus de 10 000 habitants, la convocation et l’ordre du jour sont publiés dans la Feuille d’avis officielle.
+
+#### Art. 16
+
+**Ordre du jour**
+
+<sup>1</sup> L’ordre du jour doit indiquer chaque sujet mis en discussion et devant faire l’objet d’une délibération.
+
+<sup>2</sup> Lors d’une séance extraordinaire le conseil municipal ne peut traiter que les objets figurant à l’ordre du jour et pour lesquels il est convoqué.
+
+<sup>3</sup> Les objets proposés par le conseil administratif doivent figurer à l’ordre du jour de la plus prochaine séance.<sup>(65)</sup>
+
+### Section 2 Procédure
+
+#### Art. 17
+
+**Règlement**
+
+Le conseil municipal édicte un règlement fixant la procédure des délibérations. Ce règlement doit être approuvé par le Conseil d’Etat.
+
+#### Art. 18<sup>(23)</sup>
+
+**Publicité des séances**
+
+<sup>1</sup> Les séances sont publiques.
+
+<sup>2</sup> Le conseil municipal siège à huis clos :
+
+- a) pour préaviser les demandes de naturalisation d’étrangers de plus de 25 ans;
+- b) pour délibérer sur les demandes de levée du secret dans les cas où la loi impose une obligation de secret aux membres du conseil municipal;
+- c) lorsqu’il en décide ainsi en raison d’un intérêt prépondérant.<sup>(65)</sup>
+
+#### Art. 19
+
+**Quorum de présence**
+
+<sup>1</sup> Sauf dispositions contraires de la présente loi, le conseil municipal délibère valablement quel que soit le nombre des membres présents.
+
+*Naturalisations*
+
+<sup>2</sup> La délibération qui porte sur l’examen d’une demande de naturalisation a lieu en présence de la majorité des membres du conseil.
+
+#### Art. 20
+
+**Quorum de vote**
+
+*Majorité simple*
+
+<sup>1</sup> En règle générale, les décisions du conseil municipal sont prises à la majorité simple.
+
+### Majorité qualifiée
+
+<sup>2</sup> Les délibérations portant sur l’achat ou la vente d’immeubles, l’échange ou le partage de biens communaux, la constitution de servitudes ou d’autres droits réels, ainsi que les emprunts et les cautionnements communaux ne peuvent être prises qu’à la majorité absolue des membres présents. L’article 32 est réservé.<sup>(45)</sup>
+
+*Ville de Genève*
+
+<sup>3</sup> La disposition de l’alinéa 2 ne s’applique pas à la Ville de Genève.
+
+#### Art. 21<sup>(65)</sup>
+
+**Vote de la présidente ou du président**
+
+<sup>1</sup> A moins que le règlement du conseil municipal n’en dispose autrement, la présidente ou le président du conseil municipal ne prend part au vote que pour départager en cas d’égalité des voix.
+
+### Majorité qualifiée
+
+<sup>2</sup> Elle ou il vote lors d’une délibération qui requiert la majorité qualifiée.
+
+### Elections
+
+<sup>3</sup> Elle ou il participe aux élections.
+
+#### Art. 22
+
+**Droit d’assister aux séances**
+
+<sup>1</sup> Les membres du conseil administratif assistent aux séances du conseil municipal.<sup>(65)</sup>
+
+<sup>2</sup> Ils peuvent assister aux séances des commissions.
+
+*Voix consultative*
+
+<sup>3</sup> Ils possèdent le droit d’initiative et ont voix consultative.
+
+#### Art. 23<sup>(65)</sup>
+
+**Obligation de s’abstenir**
+
+Dans les séances du conseil municipal et des commissions, les membres du conseil administratif et les membres du conseil municipal qui, pour eux‑mêmes, leur parenté ascendante ou descendante, frères, sœurs, conjoint, partenaire enregistré, ou personnes alliées au même degré, ont un intérêt personnel direct à l’objet soumis à la délibération, ne peuvent intervenir dans la discussion ni voter.
+
+#### Art. 24<sup>(65)</sup>
+
+**Droit d’initiative des membres du conseil municipal**
+
+<sup>1</sup> Chaque membre du conseil municipal, seul ou avec d’autres membres, exerce son droit d’initiative conformément aux procédures prévues dans le règlement du conseil municipal.
+
+<sup>2</sup> Il exerce notamment ce droit sous les formes suivantes :
+
+- a) projet de délibération;
+- b) question écrite ou orale.
+
+<sup>3</sup> D’autres modes d’intervention peuvent être définis dans le règlement du conseil municipal.
+
+<sup>4</sup> Si la proposition est envoyée pour examen à une commission ou traitée sans examen préalable en séance du conseil municipal, le conseil administratif doit être entendu.
+
+#### Art. 25
+
+**Procès-verbal des séances du conseil municipal<sup>(24)</sup>**
+
+<sup>1</sup> Les séances du conseil municipal font l’objet d’un procès-verbal qui doit être conservé dans un registre.
+
+<sup>2</sup> Le procès-verbal mentionne au moins le nom des membres présents, les propositions faites et les décisions prises, avec indication des voix émises.
+
+<sup>3</sup> Il peut être envoyé à chaque membre du conseil municipal avec la convocation d’une prochaine séance. Il peut en outre être consulté à la mairie par les membres du conseil municipal dans le délai fixé par le règlement du conseil municipal. Il est soumis à l’approbation du conseil municipal. S’il n’a pas été mis à disposition, lecture doit en être donnée au début de la prochaine séance.<sup>(65)</sup>
+
+<sup>4</sup> Après approbation, le procès-verbal est signé par la présidente ou le président et la ou le secrétaire du conseil municipal. Si cette fonction est occupée par une personne ne faisant pas partie du conseil, le procès-verbal doit être également signé par un membre du conseil municipal.<sup>(65)</sup>
+
+<sup>5</sup> Seuls des procès-verbaux approuvés sont le cas échéant communiqués au public en application de la loi sur l'information du public, l'accès aux documents et la protection des données personnelles<sup>(34)</sup>, du 5 octobre 2001.<sup>(24)</sup>
+
+#### Art. 26<sup>(65)</sup>
+
+**Enregistrement**
+
+L’enregistrement des débats sur bande magnétique ou selon un autre procédé peut être effectué par la personne assurant la fonction de secrétaire du conseil ou de mémorialiste, sauf si le conseil siège à huis clos.
+
+#### Art. 27<sup>(23)</sup>
+
+#### Art. 28
+
+**Affichage**
+
+<sup>1</sup> Le dispositif complet des délibérations doit être affiché au pilier public, à partir du 6<sup>e</sup> et au plus tard du 8<sup>e</sup> jour ouvrable qui suit la date de la séance où la délibération a été adoptée. Si la délibération porte sur un plan d’affectation du sol, celui-ci doit pouvoir être consulté par les membres du corps électoral dans le même délai.<sup>(65)</sup>
+
+<sup>2</sup> L’affichage indique le dernier jour du délai pour la demande de référendum et rappelle aux membres du corps électoral le droit qu’ils ont de prendre connaissance du texte complet des délibérations, des plans d’affectation du sol, ainsi que les horaires et le lieu où ils peuvent être consultés.<sup>(65)</sup>
+
+<sup>3</sup> En ce qui concerne le budget, l’affiche indique que le référendum ne peut s’exercer qu’en conformité des dispositions constitutionnelles.
+
+### Chapitre IV Attributions
+
+#### Art. 29
+
+**Fonctions délibératives et consultatives**
+
+<sup>1</sup> Le conseil municipal exerce des fonctions délibératives et consultatives.
+
+<sup>2</sup> Les fonctions délibératives s’exercent par l’adoption de délibérations soumises à référendum conformément aux articles 77 à 79 de la constitution de la République et canton de Genève, du 14 octobre 2012, à l’exception des délibérations sur les demandes de levée du secret dans les cas où la loi impose une obligation de secret aux membres du conseil municipal (art. 30, al. 3).<sup>(65)</sup>
+
+<sup>3</sup> Les fonctions consultatives s’exercent sous la forme de résolutions, d’avis ou de propositions non soumis à référendum.<sup>(7)</sup>
+
+#### Art. 30
+
+**Fonctions délibératives**
+
+<sup>1</sup> Le conseil municipal délibère sur les objets suivants :
+
+- a) le budget de fonctionnement annuel de la commune;<sup>(9)</sup>
+- b) le nombre des centimes additionnels communaux à percevoir;
+- c)<sup>(66)</sup>
+- d) les crédits budgétaires supplémentaires et les moyens de les couvrir;
+- e) les crédits d’engagement et complémentaires relatifs aux dépenses d’investissement du patrimoine administratif et les moyens de les couvrir, ainsi que les crédits relatifs aux placements du patrimoine financier sous réserve de l’article 48, lettre j;<sup>(9)</sup>
+- f) les comptes annuels de la commune dans leur intégralité;<sup>(49)</sup>
+- g) les emprunts et les cautionnements communaux, les mises en gage de biens communaux ainsi que les prêts en espèces qui n1)’ont pas un but social sous réserve de l’article 48, lettre j;
+- h) la garantie financière accordée à des entreprises privées ou à des personnes morales de droit public;
+- i) les comptes annuels des institutions assujetties à la loi sur les institutions autonomes communales et intercommunales de droit public, du 11 décembre 2025, à l’exception de ceux des institutions regroupant la majorité des communes genevoises;<sup>(70)</sup>
+- j) l’acceptation des donations et les legs à la commune avec ou sans destination mais avec charges et conditions sous réserve de l’article 48, lettre i;
+- k) les achats ou ventes d’immeubles, les échanges ou partages de biens communaux, l’exercice d’un droit de préemption, la constitution de servitudes ou d’autres droits réels, la cession de parcelles au domaine public communal ou leur désaffectation; toutefois, le conseil municipal peut, par délégation révocable en tout temps, charger le conseil administratif de passer tous les actes authentiques concernant :
+  - 1° les cessions au domaine public des terrains et hors-ligne provenant des propriétés voisines,
+  - 2° les échanges et aliénations de parcelles nécessités par des corrections d’alignement,
+  - 3° les constitutions de servitudes et autres droits réels au profit de la commune ainsi que les radiations de charges grevant les immeubles de celle-ci,
+  - 4° les constitutions de servitudes et autres droits réels à la charge de la commune et au profit de l’Etat de Genève, d’une autre commune et des régies publiques cantonales,
+  - 5° les changements d’assiettes de voies publiques communales,
+
+à condition que les opérations visées sous chiffres 1, 2, 3, 4 et 5 résultent de plans adoptés par les autorités compétentes et n’impliquent comme prestations, à la charge de la commune, que des dépenses prélevées sur les crédits budgétaires ou d’engagement;<sup>(65)</sup>
+
+- l) les baux relatifs aux biens communaux, sous réserve de l’article 48, lettre l;
+- m) les projets de construction, de transformation ou de démolition d’immeubles communaux, d’ouverture ou de suppression de voies publiques communales, de travaux publics, à l’exception des changements d’assiettes visés à la lettre k, chiffre 4, ci-dessus;<sup>(9)</sup>
+- n) l’expropriation pour cause d’utilité publique communale;
+- o) la modification des limites du territoire de la commune;
+- p) les plans d’utilisation du sol et leurs règlements d’application;<sup>(3)</sup>
+- q) le préavis à donner sur la modification des limites de zones de constructions de la commune;
+- r) le préavis à donner sur des projets de plans localisés de quartier, de plans de sites et leurs règlements, ainsi que sur les projets de plans d’extraction;<sup>(16)</sup>
+- s) l’accord à donner lors d’une autorisation pour un projet de construction en ordre contigu ou sous forme d’habitat groupé en cinquième zone dont la surface de plancher habitable excède 48% de la surface du terrain, en application de l’article 59, alinéa 4, lettre b, de la loi sur les constructions et les installations diverses, du 14 avril 1988;<sup>(39)</sup>
+- t) la création et la dissolution de fondations de droit privé ou de sociétés au capital desquelles la commune veut participer;<sup>(70)</sup>
+- u) la création et la dissolution d’institutions autonomes communales ou intercommunales de droit public, l’adhésion de la commune et son retrait d’un groupement intercommunal, ainsi que l’adoption et la modification des statuts de telles institutions; demeurent réservées les dispositions particulières de la loi sur les institutions autonomes communales et intercommunales de droit public, du 11 décembre 2025;<sup>(70)</sup>
+- v) les traitements, les indemnités et les indemnités de fin de fonction alloués aux membres du conseil administratif, dans le respect des dispositions adoptées par le Conseil d’Etat, ainsi que les jetons de présence et indemnités alloués aux membres du conseil municipal;<sup>(65)</sup>
+- w) le statut du personnel communal et l’échelle des traitements et des salaires;
+- x) le préavis à donner sur les plans localisés de chemin pédestre;<sup>(70)</sup>
+- y) l’approbation du principe de fusion et de la convention de fusion.<sup>(70)</sup>
+
+<sup>2</sup> Le conseil municipal peut également adopter, sous forme de délibération, des règlements ou des arrêtés de portée générale régissant les domaines relevant de la compétence des communes.<sup>(18)</sup>
+
+<sup>3</sup> Le conseil municipal se prononce à huis clos sur les demandes de levée du secret dans les cas où la loi impose une obligation de secret à ses membres.<sup>(65)</sup>
+
+### Forme de la délibération
+
+<sup>4</sup> Chaque délibération est munie d’un titre qui reprend les éléments principaux de son contenu.<sup>(52)</sup>
+
+<sup>5</sup> Le Conseil d’Etat fixe par règlement les dispositions relatives à la forme des délibérations.<sup>(52)</sup>
+
+#### Art. 30A<sup>(7)</sup>
+
+**Fonctions consultatives**
+
+<sup>1</sup> Le conseil municipal préavise sous forme de résolution :
+
+- a) l’avant-projet de loi sollicitant la modification des limites de zones élaboré par la commune en vertu de l’article 15A, alinéas 3 et 4, de la loi d’application de la loi fédérale sur l’aménagement du territoire, du 4 juin 1987;
+- b) le projet de plan localisé de quartier élaboré par la commune en vertu de l’article 1, alinéas 2 et 3, de la loi sur l’extension des voies de communication et l’aménagement des quartiers ou localités, du 9 mars 1929;
+- c) le projet de plan localisé de quartier élaboré par la commune en vertu de l’article 5A, alinéas 1 et 2, de la loi générale sur les zones de développement, du 29 juin 1957;
+- d) le projet de règlement spécial élaboré par la commune en vertu de l’article 10, alinéa 4, de la loi sur les constructions et les installations diverses, du 14 avril 1988;
+- e) le projet de plan de site élaboré par la commune en vertu de l’article 39A, alinéas 2 et 3, de la loi sur la protection des monuments, de la nature et des sites, du 4 juin 1976;
+- f) les projets de plans directeurs des chemins pour piétons et de randonnée pédestre en vertu des articles 8, alinéa 2, et 9, alinéa 1, de la loi d’application de la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre, du 4 décembre 1998;<sup>(13)</sup>
+- g) les demandes de naturalisation d’étrangers âgés de plus de 25 ans; toutefois le conseil municipal peut, par délégation révocable en tout temps, charger le conseil administratif ou le maire de préaviser ces demandes.<sup>(65)</sup>
+
+<sup>2</sup> Le conseil municipal statue, sous forme de résolution, sur le projet de concept de l’aménagement cantonal, le projet de schéma directeur cantonal ainsi que sur les plans directeurs localisés.<sup>(30)</sup>
+
+#### Art. 31
+
+**Ouverture de crédits extraordinaires**
+
+Lorsque le conseil municipal prend des décisions qui impliquent des charges financières et que ces dernières ne sont pas couvertes par des crédits budgétaires, il doit ouvrir simultanément les crédits d’engagement nécessaires.<sup>(9)</sup>
+
+#### Art. 32<sup>(40)</sup>
+
+**Clause d’urgence**
+
+Le conseil municipal peut munir une délibération de la clause d’urgence, si les conditions de l’article 79 de la constitution de la République et canton de Genève, du 14 octobre 2012, sont remplies.
+
+#### Art. 33
+
+**Référendum**
+
+<sup>1</sup> Le référendum communal s’exerce conformément aux articles 77 à 79 de la constitution de la République et canton de Genève, du 14 octobre 2012, et 85 et suivants de la loi sur l’exercice des droits politiques, du 15 octobre 1982.<sup>(40)</sup>
+
+*Exception*
+
+<sup>2</sup> Un projet de délibération rejeté par le conseil municipal ne peut faire l’objet d’un référendum.
+
+### Intitulé
+
+<sup>3</sup> L’objet du référendum figurant sur le formulaire de récolte de signatures et, le cas échéant, la question figurant sur le bulletin de vote reprennent le même intitulé que celui de la délibération mentionnée à l’article 30, alinéa 4, de la présente loi.<sup>(52)</sup>
+
+#### Art. 34
+
+**Droit de préemption en faveur du canton<sup>(65)</sup>**
+
+<sup>1</sup> Le canton a un droit de préemption sur tout immeuble propriété d’une commune.<sup>(65)</sup>
+
+<sup>2</sup> Il l’exerce dans un délai de 40 jours dès l’acceptation de la délibération par le conseil municipal.
+
+<sup>3</sup> Les cas d’échange d’immeubles sont toutefois réservés.
+
+#### Art. 35
+
+**Droit de préemption en faveur des communes**
+
+<sup>1</sup> La commune du lieu de situation a un droit de préemption sur tout immeuble propriété de l’Etat dont la vente ne sert pas un but d’intérêt public ou général.
+
+<sup>2</sup> Elle exerce son droit dès que la délibération y relative devient exécutoire.
+
+<sup>3</sup> Les échanges d’immeubles, les cessions de propriétés reçues à titre fiduciaire et la rectification de limites cadastrales sont exclus.
+
+### Chapitre V<sup>(40)</sup> Initiative populaire communale
+
+#### Art. 36
+
+**Objets soumis au droit d’initiative**
+
+<sup>1</sup> Dans les limites des lois fédérales et cantonales, le droit d’initiative s’exerce sur les objets suivants :
+
+- a) la construction, la démolition et l’acquisition d’immeubles communaux;
+- b) l’ouverture ou la suppression de rues ou de chemins communaux;
+- c) les travaux d’utilité publique communaux;
+- d) les études d’aménagement du territoire communal;
+- e) la constitution d’institutions de droit public ou de fondations de droit privé;<sup>(70)</sup>
+- f) les activités sociales, culturelles, sportives et récréatives, ainsi que leurs aménagements et installations.
+
+### Procédure
+
+<sup>2</sup> L’initiative populaire communale s’exerce conformément aux articles 58, 59 et 71 à 76 de la constitution de la République et canton de Genève, du 14 octobre 2012, et à la loi sur l’exercice des droits politiques, du 15 octobre 1982.<sup>(40)</sup>
+
+[Art. 36A, 36B]<sup>(40)</sup>
+
+#### Art. 36C<sup>(5)</sup>
+
+**Décision sur la prise en considération**
+
+<sup>1</sup> Au plus tard avant l’échéance d’un délai de 3 mois suivant la publication dans la Feuille d’avis officielle de la décision du Conseil d’Etat sur la validité de l’initiative, celle-ci est portée à l’ordre du jour du conseil municipal avec un rapport du conseil administratif sur sa prise en considération. Ce délai est suspendu en cas de recours contre la décision sur la validité de l’initiative.<sup>(65)</sup>
+
+<sup>2</sup> Le conseil municipal se prononce sur la prise en considération de l’initiative au plus tard 12 mois après la constatation de son aboutissement; ce délai est suspendu en cas de recours contre la décision sur la validité de l’initiative.<sup>(40)</sup>
+
+<sup>3</sup> Le débat se conclut par un vote sur l’acceptation ou le refus de l’initiative; en cas de refus, le conseil municipal décide immédiatement de préparer ou non un contreprojet qui peut, le cas échéant, être approuvé lors de la même séance.<sup>(40)</sup>
+
+<sup>4</sup> L’absence de décision du conseil municipal dans le délai prescrit à l’alinéa 2 vaut décision de refus de l’initiative sans contreprojet.<sup>(40)</sup>
+
+<sup>5</sup> La décision du conseil municipal est affichée et ne peut être modifiée ultérieurement.<sup>(40)</sup>
+
+#### Art. 36D<sup>(5)</sup>
+
+**Acceptation**
+
+<sup>1</sup> Le conseil administratif présente un projet de délibération conforme à l’initiative au plus tard 3 mois après la décision sur la prise en considération. Le conseil municipal se prononce au plus tard 24 mois après la constatation de l’aboutissement de l’initiative.<sup>(65)</sup>
+
+<sup>2</sup> Le refus du projet de délibération ou l’absence de décision du conseil municipal dans le délai prescrit à l’alinéa 1 a pour effet que l’initiative est soumise à la votation populaire sans contreprojet.
+
+#### Art. 36E<sup>(5)</sup>
+
+**Refus**
+
+*Sans contreprojet*
+
+L’initiative refusée par le conseil municipal sans contreprojet est soumise à la votation populaire.
+
+#### Art. 36F<sup>(5)</sup>
+
+***Avec contreprojet***
+
+<sup>1</sup> Le conseil administratif présente un contreprojet au plus tard 3 mois après la décision sur la prise en considération. Le conseil municipal se prononce au plus tard 24 mois après la constatation de l’aboutissement de l’initiative.<sup>(65)</sup>
+
+<sup>2</sup> Le refus du contreprojet ou l’absence de décision du conseil municipal dans le délai prescrit à l’alinéa 1 a pour effet que l’initiative est soumise à la votation populaire sans contreprojet.
+
+#### Art. 36G<sup>(65)</sup>
+
+**Initiative ou contreprojet approuvé par les membres du corps électoral**
+
+Le conseil administratif présente au plus tard 6 mois après la votation un projet de délibération conforme. Le conseil municipal l’approuve au plus tard 12 mois après la votation.
+
+#### Art. 37
+
+**Couverture financière**
+
+<sup>1</sup> Tout projet de délibération élaboré à la suite d’une initiative impliquant une incidence financière doit prévoir son coût ainsi qu’une proposition du mode de couverture.
+
+<sup>2</sup> L’étude financière peut être demandée au conseil administratif.<sup>(65)</sup>
+
+### Chapitre VI Droit de pétition
+
+#### Art. 38
+
+**Pétition**
+
+<sup>1</sup> Une pétition adressée au conseil municipal doit être portée à l’ordre du jour de la prochaine séance.
+
+<sup>2</sup> Pour le surplus, les dispositions de la loi sur l’exercice du droit de pétition, du 14 septembre 1979, s’appliquent.
+
+## Titre III<sup>(65)</sup> Conseil administratif
+
+### Chapitre I Organisation
+
+#### Art. 39<sup>(40)</sup>
+
+**Composition**
+
+<sup>1</sup> L’exécutif municipal est organisé et composé selon l’article 141 de la constitution de la République et canton de Genève, du 14 octobre 2012.
+
+<sup>2</sup> Le Conseil d’Etat arrête avant toute élection générale le nombre de membres du conseil administratif à élire dans chaque commune en se fondant sur l’état de la population au 30 juin de l’année précédant l’élection.<sup>(65)</sup>
+
+#### Art. 40<sup>(65)</sup>
+
+**Elections**
+
+Les membres du conseil administratif sont élus tous les 5 ans, selon le mode et la procédure prévus par les articles 55 et 141 de la constitution de la République et canton de Genève, du 14 octobre 2012, et par la loi sur l’exercice des droits politiques, du 15 octobre 1982.
+
+#### Art. 41<sup>(65)</sup>
+
+**Serment**
+
+Avant d’entrer en fonction, les membres du conseil administratif prêtent, devant le Conseil d’Etat, le serment suivant :
+
+« Je jure ou je promets solennellement :
+
+d’être fidèle à la République et canton de Genève;
+
+d’obéir à la constitution et aux lois et de remplir consciencieusement les devoirs de ma charge. »
+
+#### Art. 42
+
+**Répartition des fonctions**
+
+<sup>1</sup> Le conseil administratif répartit ses fonctions entre ses membres. Il nomme chaque année sa présidence et sa vice-présidence.<sup>(65)</sup>
+
+<sup>2</sup> La présidente ou le président du conseil administratif prend le titre de maire. En ville de Genève, elle ou il n’est pas immédiatement rééligible.<sup>(65)</sup>
+
+<sup>3</sup> La présidence s’exerce du 1<sup>er</sup> juin au 31 mai de l’année suivante.
+
+#### Art. 43
+
+**Décisions**
+
+<sup>1</sup> Le conseil administratif prend ses décisions à la majorité des membres présents.
+
+<sup>2</sup> Il est tenu un procès-verbal des séances mentionnant, en particulier, les décisions prises.
+
+<sup>3</sup> Ce procès-verbal n’est pas public.
+
+[Art. 44, 45]<sup>(65)</sup>
+
+#### Art. 46<sup>(65)</sup>
+
+**Révocation pour des raisons de santé**
+
+Le Conseil d’Etat révoque, par décision motivée, les membres du conseil administratif qui, en raison d’incapacité due à leur état de santé, ne sont plus en mesure d’exercer leurs fonctions.
+
+#### Art. 47
+
+**Incompatibilités**
+
+<sup>1</sup> Les incompatibilités sont régies par l’article 142 de la constitution de la République et canton de Genève, du 14 octobre 2012.<sup>(40)</sup>
+
+<sup>2</sup> Les membres du conseil administratif ne doivent être, notamment par l’entreprise dont ils sont propriétaires ou dans laquelle ils exercent une influence sensible, ni fournisseurs de la commune ou chargés de travaux ou de mandats pour le compte de cette dernière et des institutions qui en dépendent.<sup>(65)</sup>
+
+<sup>3</sup> Un membre du personnel de l’administration communale ne peut revêtir la charge de conseillère ou de conseiller administratif sauf si le statut du personnel n’en dispose autrement.<sup>(65)</sup>
+
+#### Art. 47A<sup>(65)</sup>
+
+**Traitement et indemnités alloués aux membres des conseils administratifs**
+
+<sup>1</sup> Le Conseil d’Etat fixe par voie réglementaire les bases de calcul du montant minimal impératif du traitement et des indemnités alloués aux membres des conseils administratifs en distinguant :
+
+- a) les membres des conseils administratifs des communes de plus de 50 000 habitants;
+- b) les membres des conseils administratifs de la Ville de Genève;
+- c) les membres des conseils administratifs des autres communes.
+
+<sup>2</sup> Il édicte les règles impératives minimales relatives à :
+
+- a) l'affiliation à un système de prévoyance professionnelle;
+- b) les indemnités journalières consécutives à une incapacité de travail pour cause de maladie ou d'accident;
+- c) les indemnités de fin de fonction, tenant compte de la durée du mandat ainsi que du traitement et des indemnités visés à l’alinéa 1.
+
+### Chapitre II Attributions
+
+#### Art. 48
+
+**Compétences du conseil administratif<sup>(65)</sup>**
+
+Le conseil administratif est chargé, dans les limites de la constitution et des lois :<sup>(65)</sup>
+
+- a) d’administrer la commune, de gérer les fonds spéciaux, de conserver les biens communaux;
+- b) de soumettre au conseil municipal les projets de délibération;
+- c) de présenter au conseil municipal le budget annuel 2 semaines au moins avant la délibération;
+- d) de présenter au conseil municipal 2 semaines au moins avant la délibération, les comptes annuels de la commune dans leur intégralité;<sup>(49)</sup>
+- e) de présenter au conseil municipal un rapport administratif annuel;
+- f) d’assermenter les agents de la police municipale, les contrôleurs municipaux du stationnement ainsi que les autres personnes qui sont tenues au secret par une disposition légale expresse;<sup>(12)</sup>
+- g) d’exécuter les délibérations du conseil municipal;
+- h) de préaviser sur tous les objets qui ne sont pas expressément de la compétence du conseil municipal;
+- i) d’accepter les donations ou legs faits avec ou sans destination, s’ils ne contiennent ni charge ni condition ou ne consistent qu’en biens meubles;
+- j) d’opérer des placements financiers;
+- k) de notifier, à l’échéance du délai prévu par la loi, que le droit de préemption n’est pas exercé;
+- l) de conclure des baux dont la durée n’excède pas 12 ans;
+- m) de prendre toutes les mesures provisionnelles dont l’urgence est commandée par les intérêts de la commune;
+- n) de défendre les intérêts de la commune dans les procès qu’elle a ou qui lui sont intentés et de prendre les mesures nécessaires;
+- o) d’exécuter les lois, les règlements et les arrêtés si cette compétence est conférée à la commune;
+- p) d’accomplir toutes les autres fonctions qui lui sont attribuées par la législation;
+- q) d’afficher dans la commune les lois adoptées par le Grand Conseil, en mentionnant simplement leur date, leur intitulé et la date de leur publication dans la Feuille d’avis officielle, ainsi que l’expiration du délai référendaire;
+- r) d’engager et de nommer le personnel de l’administration municipale, de fixer son salaire, de le contrôler et de le révoquer conformément au statut du personnel;
+- s) d’assermenter les agents municipaux ainsi que les autres personnes qui sont tenus au secret par une disposition légale expresse;
+- t) de présenter à la nomination du Conseil d’Etat les officiers d’état civil et leurs suppléants;
+- u) de fournir au Conseil d’Etat ou à ses départements les renseignements qui peuvent lui être demandés;
+- v) d’édicter les règlements municipaux dans les domaines où le Conseil municipal n’a pas fait usage de la prérogative que lui accorde l’article 30, alinéa 2, à l’exclusion des domaines où les lois donnent cette compétence au Conseil municipal;<sup>(18)</sup>
+- w) d’édicter les dispositions d’application des règlements municipaux adoptés par le Conseil municipal;<sup>(18)</sup>
+- x) de former opposition dans le cadre de la procédure d’adoption des plans de zones, des plans localisés de quartier, des plans de site et leurs règlements, des plans d’extraction, des règlements spéciaux, en particulier lorsque le conseil municipal a formulé un préavis négatif;<sup>(18)</sup>
+- y) de se prononcer sur les demandes de levée du secret de fonction des membres du conseil administratif, ainsi que des membres du personnel de l’administration municipale.<sup>(65)</sup>
+
+#### Art. 49<sup>(65)</sup>
+
+**Compétences de police**
+
+Le conseil administratif est chargé, sous la surveillance du Conseil d’Etat, des services de police municipale et rurale ainsi que de l’exécution des mesures de police administratives prises par le Conseil d’Etat ou le département des institutions et du numérique.
+
+#### Art. 50<sup>(65)</sup>
+
+**Représentation**
+
+<sup>1</sup> Le conseil administratif représente la commune envers les tiers.
+
+<sup>2</sup> Le conseil administratif est engagé par la signature du maire ou par celle d’un membre délégué du conseil administratif, à l’exception des cas figurant à l’alinéa 3 pour lesquels il est lié par les signatures du maire et d’un membre délégué du conseil administratif.
+
+<sup>3</sup> Le conseil administratif délègue ceux de ses membres qui sont chargés de représenter la commune dans la passation des actes prévus à l’article 30, alinéa 1, lettre k.
+
+<sup>4</sup> Le conseil administratif peut, pour des cas précis, déléguer ses compétences de représentation. Cette délégation est en tout temps révocable.
+
+## Titre IV<sup>(35)</sup> Intercommunalité
+
+### Chapitre I<sup>(70)</sup> Formes d’intercommunalité
+
+#### Art. 51<sup>(70)</sup>
+
+**Institutions autonomes communales et intercommunales de droit public**
+
+Les possibilités de collaboration entre les communes, par une institution autonome communale ou intercommunale de droit public, sont régies par la loi sur les institutions autonomes communales et intercommunales de droit public, du 11 décembre 2025.
+
+#### Art. 52<sup>(70)</sup>
+
+**Personnes morales de droit privé**
+
+Les communes peuvent créer des personnes morales de droit privé ou participer à leur création, aux conditions déterminées par le code civil suisse, du 10 décembre 1907, et par le code des obligations pour la poursuite d’intérêts autres que la réalisation de tâches publiques définies par la loi, notamment pour des partenariats avec des acteurs privés.
+
+#### Art. 53<sup>(70)</sup>
+
+**Contrats de droit administratif**
+
+<sup>1</sup> Pour déléguer à l’une d’elles l’exécution de tâches administratives ou pour collaborer entre elles à cet effet, les communes peuvent conclure entre elles des contrats de droit administratif. Elles peuvent également conclure de tels contrats avec le canton et d’autres entités publiques.
+
+<sup>2</sup> Ces contrats ne peuvent en aucun cas instituer des structures dotées de la personnalité juridique.
+
+<sup>3</sup> Ces contrats sont portés à la connaissance des conseils municipaux pour information. Ils ne peuvent d’aucune manière porter atteinte aux compétences délibératives des conseils municipaux.
+
+<sup>4</sup> Un exemplaire de ces contrats est remis au département chargé des affaires communales (ci-après : département) pour information.
+
+<sup>5</sup> Les contrats de droit administratif sont soumis par analogie aux dispositions du code des obligations, dans la mesure compatible avec la législation afférente aux tâches administratives concernées.
+
+[Art. 54, 55, 56, 57, 58, 59, 60, 60A, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76]<sup>(70)</sup>
+
+### Chapitre II<sup>(70)</sup> Association des communes genevoises
+
+#### Art. 77<sup>(46)</sup>
+
+**Nature juridique, composition et but**
+
+<sup>1</sup> L’Association des communes genevoises est un groupement intercommunal spécial doté de la personnalité juridique dont sont membres toutes les communes du canton.
+
+<sup>2</sup> Elle a pour but de défendre, promouvoir et représenter les intérêts des communes. Elle étudie et traite tout dossier susceptible de répondre aux besoins de l’ensemble ou d’une partie de ses membres ou des groupements intercommunaux. Elle exécute en outre les tâches que lui confère la législation.
+
+<sup>3</sup> La qualité de membre de l’Association des communes genevoises est sans préjudice des droits des communes d'entretenir des relations directes avec d'autres pouvoirs publics.
+
+<sup>4</sup> L’Association des communes genevoises est seule responsable de ses dettes, sous réserve des garanties que les communes peuvent devoir souscrire à son profit à l’égard de l’institution de prévoyance auprès de laquelle son personnel est affilié.
+
+#### Art. 78<sup>(46)</sup>
+
+**Statuts**
+
+<sup>1</sup> L’organisation et le fonctionnement de l’Association des communes genevoises sont définis par les statuts du 9 juin 2010, annexés à la présente loi.
+
+<sup>2</sup> Les statuts peuvent être modifiés sur décision de l’assemblée générale de l’Association des communes genevoises, moyennant approbation par le Grand Conseil.
+
+#### Art. 79<sup>(46)</sup>
+
+**Décisions de l’Association des communes genevoises sujettes à opposition des conseils municipaux**
+
+<sup>1</sup> Les conseils municipaux des communes peuvent s’opposer aux décisions de l’Association des communes genevoises portant sur :
+
+- a) la modification de ses statuts;
+- b) la modification du montant des contributions annuelles des communes en sa faveur;<sup>(49)</sup>
+- c) les domaines de subventionnement du Fonds intercommunal, prises au titre de l’article 27, alinéa 2, de la loi sur le renforcement de la péréquation financière intercommunale et le développement de l’intercommunalité, du 3 avril 2009.
+
+<sup>2</sup> Les décisions précitées sont invalidées si, dans les 45 jours suivant leur communication aux communes, elles sont rejetées par les conseils municipaux :
+
+- a) de deux tiers au moins des communes, ou
+- b) d’un tiers au moins des communes, si ces communes représentent au moins la moitié de la population du canton.
+
+<sup>3</sup> Les conseils municipaux se prononcent par voie de résolution.
+
+<sup>4</sup> Le délai de 45 jours au sens de l’alinéa 2 ne court pas en dehors des deux périodes prévues à l’article 13, alinéa 1.
+
+<sup>5</sup> La procédure d’opposition des conseils municipaux contre les décisions de l’Association des communes genevoises est précisée par un règlement adopté par son assemblée générale.
+
+#### Art. 80<sup>(46)</sup>
+
+**Surveillance cantonale**
+
+<sup>1</sup> Sont soumis à l'approbation du Conseil d’Etat :
+
+- a) les règlements adoptés par l’Association des communes genevoises;
+- b) les décisions prises par l’Association des communes genevoises au titre de l’article 27, alinéa 2, de la loi sur le renforcement de la péréquation financière intercommunale et le développement de l’intercommunalité, du 3 avril 2009.
+
+<sup>2</sup> Le Conseil d'Etat doit statuer dans le plus bref délai.
+
+#### Art. 81<sup>(70)</sup>
+
+## Titre V Surveillance de l’Etat
+
+### Chapitre I Dispositions générales
+
+#### Art. 82<sup>(46)</sup>
+
+**Autorité de surveillance**
+
+Les communes sont placées sous la surveillance du Conseil d’Etat. Celui-ci l’exerce plus spécialement par l’intermédiaire du département.
+
+#### Art. 83<sup>(46)</sup>
+
+**Droit d’assister aux séances du conseil municipal**
+
+Le Conseil d’Etat peut se faire représenter aux séances du conseil municipal, avec voix consultative.
+
+#### Art. 84<sup>(46)</sup>
+
+**Information aux communes**
+
+<sup>1</sup> Les départements doivent informer les communes des problèmes de portée générale concernant ces dernières, notamment avant de prendre toute décision d’exécution.
+
+<sup>2</sup> A leur demande, les autorités communales doivent être entendues.
+
+#### Art. 85<sup>(46)</sup>
+
+**Préavis**
+
+Lorsque le préavis qu’une commune est appelée à donner conformément à la législation en vigueur ne peut pas être suivi, le département concerné est tenu de l’en informer par écrit, avec motifs à l’appui.
+
+#### Art. 86<sup>(46)</sup>
+
+**Registres**
+
+Le Conseil d’Etat statue par voie de règlement sur la tenue des registres communaux.
+
+#### Art. 87<sup>(46)</sup>
+
+**Archives**
+
+La constitution, la gestion et la conservation des archives communales sont régies par la loi sur les archives publiques, du 1<sup>er</sup> décembre 2000, et ses dispositions d’application.
+
+### Chapitre II Contrôle des délibérations
+
+#### Art. 88<sup>(46)</sup>
+
+**Transmission des délibérations**
+
+<sup>1</sup> Toutes les délibérations du conseil municipal sont transmises au département.
+
+<sup>2</sup> Sous réserve des dispositions concernant le référendum facultatif et des articles 89, 90, 91, 92 et 93<sup>(47)</sup> ainsi que de toute loi spéciale, elles sont exécutoires de plein droit.
+
+#### Art. 89<sup>(46)</sup>
+
+**Annulation de délibération**
+
+Le Conseil d’Etat annule toute délibération du conseil municipal prise :
+
+- a) en dehors des séances légalement convoquées;
+- b) en violation des lois et règlements en vigueur.
+
+#### Art. 90<sup>(46)</sup>
+
+**Approbation du département**
+
+<sup>1</sup> Ne sont exécutoires qu’après avoir été approuvées par le département les délibérations du conseil municipal concernant :
+
+- a) le budget de fonctionnement et les comptes annuels, à l'exception des communes de plus de 50 000 habitants;<sup>(49)</sup>
+- b) les emprunts communaux;
+- c) la mise en gage des biens communaux;
+- d) les cautionnements communaux;
+- e) les achats ou ventes d’immeubles, l’échange ou le partage des biens communaux, la constitution de servitudes et d’autres droits réels;
+- f) les projets de construction, de transformation ou de démolition d’immeubles communaux et de travaux publics;
+- g) l’ouverture, la suppression ainsi que les changements d’assiettes de voies publiques communales;
+- h) la garantie financière accordée à des entreprises privées;
+- i) les crédits supplémentaires et les crédits d’engagement et complémentaires dont le montant excède :
+  - 1° 50 000 francs dans les communes jusqu’à 3 000 habitants,
+  - 2° 300 000 francs dans les communes de plus de 3 000 habitants,
+  - 3° 1 000 000 de francs en Ville de Genève;
+- j) la création de fonds;
+- k) les baux d’une durée qui excède 12 ans;
+- l) les donations ou legs faits à la commune avec ou sans destination, mais avec charge ou condition.
+
+<sup>2</sup> Le département doit statuer dans le plus bref délai.
+
+<sup>3</sup> Lorsqu'une délibération du conseil municipal visée ci-dessus ne reçoit pas l'approbation du département, ce dernier la communique au Conseil d'Etat qui statue par voie d'arrêté.
+
+<sup>4</sup> Le conseil administratif doit en informer le conseil municipal dans un délai de 10 jours ouvrables.<sup>(65)</sup>
+
+#### Art. 91<sup>(46)</sup>
+
+**Approbation du Conseil d’Etat**
+
+<sup>1</sup> Ne sont exécutoires qu’après avoir été approuvées par le Conseil d’Etat les délibérations du conseil municipal concernant :
+
+- a) le budget de fonctionnement et les comptes annuels des communes de plus de 50 000 habitants;<sup>(49)</sup>
+- b) les plans d’utilisation du sol et leurs règlements de quartier;
+- c) l’expropriation pour cause d’utilité publique communale;
+- d) l'exercice d'un droit de préemption;
+- e) la clause d’urgence;
+- f) le règlement du conseil municipal fixant la procédure des délibérations;
+- g) la création ou la dissolution d’une institution autonome communale ou intercommunale de droit public visée à l’article 2, alinéa 2, de la loi sur les institutions autonomes communales et intercommunales de droit public, du 11 décembre 2025;<sup>(70)</sup>
+- h) l’adhésion et le retrait d’une commune d’un groupement intercommunal ainsi que l’adoption et la modification des statuts des institutions mentionnées dans la loi sur les institutions autonomes communales et intercommunales de droit public, du 11 décembre 2025;<sup>(70)</sup>
+- i) l’approbation du principe de fusion et de la convention de fusion.<sup>(51)</sup>
+
+<sup>2</sup> Le Conseil d’Etat statue sur toutes les annulations totales ou partielles de délibérations.
+
+<sup>3</sup> Le Conseil d’Etat peut statuer sur toute autre délibération, soit en se saisissant du dossier, soit sur renvoi du département.
+
+<sup>4</sup> Le Conseil d’Etat doit statuer dans le plus bref délai. Il peut, dans tous les cas précités, accorder une autorisation partielle lorsqu’il le juge opportun.
+
+<sup>5</sup> Lorsqu’une délibération du conseil municipal est annulée totalement ou partiellement par le Conseil d’Etat, ce dernier communique sa décision au conseil administratif de la commune, qui peut recourir à la chambre administrative de la Cour de justice dans un délai de 30 jours.<sup>(65)</sup>
+
+<sup>6</sup> Le conseil administratif doit en informer le conseil municipal dans un délai de 10 jours ouvrables.<sup>(65)</sup>
+
+#### Art. 92<sup>(65)</sup>
+
+#### Art. 93<sup>(70)</sup>
+
+### Chapitre III<sup>(49)</sup> Sommation – Suspension – Administration provisoire
+
+#### Art. 94<sup>(49)</sup>
+
+**Sommation**
+
+Lorsque le conseil municipal sort de ses attributions légales ou ne se conforme pas aux lois, le Conseil d’Etat le somme de respecter la légalité.
+
+#### Art. 95<sup>(49)</sup>
+
+**Suspension des débats**
+
+<sup>1</sup> Si le conseil municipal ne se conforme pas à la sommation du Conseil d’Etat, celui-ci peut suspendre les débats.
+
+<sup>2</sup> Le Conseil d’Etat saisit le Grand Conseil des motifs qui ont provoqué cette suspension.
+
+Dissolution
+
+<sup>3</sup> Si le Grand Conseil approuve ces motifs, le Conseil d’Etat prononce la dissolution du conseil municipal.
+
+<sup>4</sup> Il est, dès lors, procédé à une nouvelle élection dans les 6 mois.
+
+<sup>5</sup> Pendant l’intervalle entre la dissolution du conseil municipal et la nomination d’un nouveau conseil, le conseil administratif reste chargé de l’administration provisoire de la commune.<sup>(65)</sup>
+
+#### Art. 96<sup>(65)</sup>
+
+**Administration provisoire**
+
+Si les autorités d’une commune ne peuvent pas être régulièrement constituées, ou sont momentanément empêchées d’exercer leurs fonctions, le Conseil d’Etat désigne une ou un ou plusieurs administratrices ou administrateurs jusqu’à ce que la situation normale soit rétablie et fixe leurs attributions.
+
+### Chapitre IV<sup>(49)</sup> Sanctions disciplinaires
+
+#### Art. 97<sup>(49)</sup>
+
+**Principe**
+
+<sup>1</sup> Les membres des conseils administratifs qui enfreignent leurs devoirs de fonction imposés par la législation, soit intentionnellement, soit par négligence ou imprudence graves, sont passibles de sanctions disciplinaires.<sup>(65)</sup>
+
+<sup>2</sup> L’action disciplinaire est sans effet sur l’action civile et sur les poursuites pénales.
+
+#### Art. 98<sup>(49)</sup>
+
+**Sanctions disciplinaires**
+
+<sup>1</sup> Le Conseil d’Etat est compétent pour prendre les sanctions disciplinaires suivantes :
+
+- a) le blâme;
+- b) l’amende, proportionnée au traitement, jusqu’à 10 000 francs;
+- c) la suspension des fonctions de 1 à 6 mois assortie de la suppression du traitement;
+- d) la révocation dans les cas prévus à l’article 99.<sup>(49)</sup>
+
+<sup>2</sup> Avant de prendre sa décision, le Conseil d’Etat doit entendre les intéressés.
+
+#### Art. 99<sup>(65)</sup>
+
+**Révocation**
+
+<sup>1</sup> Le Conseil d’Etat révoque, par décision motivée, les membres des conseils administratifs :
+
+- a) pour refus d’obéir aux ordres qui leur ont été adressés par le Conseil d’Etat, dans les limites constitutionnelles et légales;
+- b) pour malversation constatée;
+- c) pour refus de remplir leurs fonctions;
+- d) pour négligence grave dans l’exercice de leurs fonctions;
+- e) pour absence non justifiée au-delà de 3 mois;
+- f) pour infraction grave aux lois et règlements.
+
+<sup>2</sup> Les membres des conseils administratifs révoqués ne sont pas immédiatement rééligibles.
+
+## Titre VI Recours
+
+#### Art. 100<sup>(49)</sup>
+
+**Délibérations**
+
+<sup>1</sup> Lorsqu’une délibération d’un conseil municipal fait l’objet d’un recours à la chambre administrative de la Cour de justice<sup>(36)</sup>, ce recours est communiqué au Conseil d’Etat, qui a accès au dossier de la cause.
+
+<sup>2</sup> La chambre administrative de la Cour de justice<sup>(36)</sup> peut impartir un délai convenable au Conseil d’Etat pour décider s’il entend annuler la délibération attaquée en application de l’article 89<sup>(47)</sup> de la présente loi.
+
+#### Art. 101<sup>(49)</sup><sup>(a)</sup>
+
+**Personnel communal**
+
+<sup>1</sup> En cas de recours contre une résiliation des rapports de service, le statut du personnel peut prévoir une réglementation analogue à celle de l’article 31 de la loi générale relative au personnel de l’administration cantonale, du pouvoir judiciaire et des établissements publics médicaux<sup>(34)</sup>, du 4 décembre 1997.<sup>(29)</sup>
+
+<sup>2</sup> Le statut du personnel peut également instituer une instance de recours spéciale pour connaître des litiges relatifs à son application.<sup>(29)</sup>
+
+## Titre VII<sup>(49)</sup> Finances communales
+
+### Chapitre I<sup>(49)</sup> Principes généraux
+
+#### Art. 102<sup>(49)</sup>
+
+**Buts**
+
+Le présent chapitre doit permettre aux entités relevant de son champ d'application :
+
+- a) d'appliquer de manière efficace les règles constitutionnelles et légales en matière de gestion des finances;
+- b) de disposer des outils de décision et des instruments nécessaires à la gestion financière;
+- c) de mettre en œuvre une gestion financière équilibrée et conforme aux principes d'efficacité et d'efficience de l'action publique.
+
+#### Art. 103<sup>(49)</sup>
+
+**Champ d'application**
+
+<sup>1</sup> Les principes généraux énoncés dans le présent chapitre sont applicables aux communes.<sup>(70)</sup>
+
+<sup>2</sup> Les comptes des entités autonomes de droit public rattachées aux communes ne sont pas consolidés dans les comptes des communes.
+
+#### Art. 104<sup>(49)</sup>
+
+**Principes de gestion financière**
+
+<sup>1</sup> La gestion financière des communes est régie par les principes de l'équilibre du budget, de l'efficacité et l'efficience de l'action publique, de la légalité et de la non-affectation des impôts généraux.
+
+<sup>2</sup> Les communes accomplissent leurs tâches avec diligence, efficacité et transparence.
+
+### Equilibre du budget
+
+<sup>3</sup> Le budget de fonctionnement d'une commune doit être équilibré.
+
+### Performance de l'action publique
+
+<sup>4</sup> La gestion financière doit être basée sur les principes d'efficacité, d'efficience et de qualité.
+
+### Légalité
+
+<sup>5</sup> Toute dépense publique doit être fondée sur une base légale matérielle ou une décision de justice.
+
+### Délibération
+
+<sup>6</sup> En principe, toute dépense doit être préalablement autorisée par une délibération en application de l’article 30. Le Conseil d’Etat définit les exceptions. La délibération approuvant le budget vaut comme base légale pour les charges de fonctionnement qu’il prévoit.
+
+### Non-affectation des impôts généraux
+
+<sup>7</sup> L'affectation d'une part fixe des impôts généraux pour couvrir directement le financement de dépenses déterminées n'est pas autorisée.
+
+#### Art. 105<sup>(49)</sup>
+
+**Référentiel comptable**
+
+<sup>1</sup> Les principes et méthodes comptables applicables en matière de présentation du budget et des comptes annuels sont définis par le modèle comptable harmonisé pour les cantons et les communes MCH2 publié par la Conférence des directrices et directeurs cantonaux des finances<sup>(69)</sup>.
+
+<sup>2</sup> Demeurent réservées une interprétation spécifique ou une exception résultant de la présente loi et de son règlement d'application.
+
+#### Art. 106<sup>(49)</sup>
+
+**Principes régissant l'établissement du budget et des comptes**
+
+Le budget et les comptes sont régis par les principes suivants :
+
+- a) *Sincérité* : la sincérité s’apprécie compte tenu des informations disponibles et des prévisions qui peuvent raisonnablement en découler;
+- b) *Annualité* : l'exercice comptable coïncide avec l'année civile;
+- c) *Antériorité* : le budget doit être voté avant l'exercice qu'il concerne;
+- d) *Comptabilité d'exercice* : toutes les charges et les revenus doivent être comptabilisés dans la période où ils sont occasionnés;
+- e) *Publicité* : le budget et les comptes doivent être examinés en séance publique et publiés;
+- f) *Clarté* : les informations doivent être claires et compréhensibles;
+- g) *Spécialité qualitative* : une dépense autorisée ne peut être attribuée que pour l'objectif visé par la rubrique budgétaire;
+- h) *Spécialité quantitative* : tout crédit budgétaire ne peut être dépassé sans une autorisation préalable de l'organe compétent;
+- i) *Spécialité temporelle* : un crédit budgétaire non engagé est périmé à la fin de l'exercice. Les reports de crédits sont interdits;
+- j) *Exhaustivité* : l'ensemble des charges et revenus ainsi que des dépenses et recettes doivent être inscrits;
+- k) *Comparabilité* : les budgets et les comptes des communes doivent être comparables entre eux et au cours des années;
+- l) *Continuité* : dans la présentation des comptes, il y a lieu de partir du principe de la continuité des activités de la commune;
+- m) *Produit brut* : les charges doivent être inscrites séparément des revenus, les actifs séparément des passifs et les recettes d'investissement séparément des dépenses d'investissement, sans aucune compensation réciproque, chacun d'entre eux y figurant pour son montant intégral;
+- n) *Importance* : il convient de présenter toutes les informations nécessaires pour permettre une appréciation rapide et complète de l'état de la fortune, des finances et des revenus. L'importance économique doit déterminer la présentation des comptes (perspective économique);
+- o) *Fiabilité* : les informations doivent refléter la réalité des faits et être fiables (exactitude). Les informations doivent exclure l'arbitraire et être objectives (neutralité). La représentation doit être effectuée selon le principe de prudence. Il convient de ne pas omettre d'information importante (exhaustivité);
+- p) *Permanence* : les principes régissant la présentation des comptes doivent dans toute la mesure du possible rester inchangés sur une longue période;
+- q) *Ponctualité* : la comptabilité doit être tenue à jour.
+
+### Chapitre II<sup>(49)</sup> Comptes annuels
+
+#### Art. 107<sup>(49)</sup>
+
+**Approbation des comptes annuels**
+
+<sup>1</sup> Les comptes annuels doivent être approuvés par le conseil municipal le 15 mai au plus tard.
+
+<sup>2</sup> Ce délai est fixé au 30 septembre pour les communes de plus de 50 000 habitants.
+
+#### Art. 108<sup>(49)</sup>
+
+**Présentation des comptes annuels**
+
+<sup>1</sup> Les comptes doivent fournir une image de la situation financière qui correspond à l'état effectif de la fortune, des finances et des revenus.
+
+<sup>2</sup> Le Conseil d'Etat fixe par voie réglementaire les éléments devant se trouver dans les comptes annuels, les règles sur la tenue des comptes, les règles d'amortissement et d'évaluation des biens et les indicateurs financiers.
+
+#### Art. 109<sup>(49)</sup>
+
+**Informations des départements**
+
+Le département des finances, des ressources humaines et des affaires extérieures<sup>(67)</sup>, de même que les autres départements concernés, transmettent aux communes les informations de nature fiscale et financière nécessaires au bouclement des comptes.
+
+#### Art. 110<sup>(49)</sup>
+
+**Comptes tenus par le département des finances, des ressources humaines et des affaires extérieures<sup>(67)</sup>**
+
+<sup>1</sup> Le département des finances, des ressources humaines et des affaires extérieures<sup>(67)</sup> tient les comptes relatifs aux opérations financières de nature fiscale que les communes effectuent avec le canton de Genève.
+
+<sup>2</sup> En fin d'exercice, un relevé des comptes communaux et des avances consenties par le canton est remis aux communes.
+
+#### Art. 111<sup>(49)</sup>
+
+**Transmission au département**
+
+<sup>1</sup> Les comptes annuels sont transmis dans leur intégralité au département pour approbation.
+
+<sup>2</sup> Un exemplaire des comptes annuels, approuvé par le Conseil d'Etat ou le département, est remis à la commune pour être conservé dans ses archives.
+
+### Chapitre III<sup>(49)</sup> Budget, crédits budgétaires et plan d'investissement
+
+#### Art. 112<sup>(49)</sup>
+
+**Présentation du budget**
+
+Le département fixe par voie de circulaire les règles de présentation et de contenu du budget, des crédits budgétaires et du plan d’investissement.<sup>(65)</sup>
+
+#### Art. 113<sup>(59)</sup>
+
+**Approbation du budget**
+
+<sup>1</sup> Le budget de fonctionnement doit être approuvé par le conseil municipal le 31 décembre au plus tard. Il est approuvé conformément aux articles 90 et 91 le 20 février au plus tard. Dans l’intervalle, le budget tel qu’approuvé par le conseil municipal peut être mis en œuvre, à titre provisoire, sans que la commune ne doive voter un ou plusieurs douzièmes provisionnels.
+
+<sup>2</sup> Si le budget de fonctionnement n’est pas approuvé par le conseil municipal avant le 31 décembre, le conseil municipal doit voter un ou plusieurs douzièmes provisionnels. Le Conseil d’Etat fixe par voie réglementaire les règles d’application.
+
+<sup>3</sup> Le Conseil d’Etat approuve par un arrêté le nombre des centimes additionnels communaux à percevoir pour l’exercice budgétisé.
+
+<sup>4</sup> En approuvant le budget, le conseil municipal ne peut pas dépasser la somme totale des charges fixées par l’exécutif, sans prévoir concurremment la couverture financière de ce dépassement. L’emprunt ne peut être considéré comme une couverture financière.
+
+#### Art. 114<sup>(49)</sup>
+
+**Inscription d’office**
+
+<sup>1</sup> Lorsqu’une charge que la loi rend obligatoire pour une commune n’a pas été portée au budget de fonctionnement, le Conseil d’Etat invite le conseil municipal à l’y inscrire.
+
+<sup>2</sup> En cas de refus, le Conseil d’Etat, par arrêté, inscrit d’office cette charge au budget de fonctionnement de la commune; il en prévoit la couverture, soit en réduisant lui-même les charges qui lui paraissent susceptibles de réduction, soit en proposant au Grand Conseil d’augmenter le nombre des centimes additionnels.
+
+#### Art. 115<sup>(49)</sup>
+
+**Equilibre du budget**
+
+<sup>1</sup> Le budget de fonctionnement de la commune doit être équilibré.
+
+<sup>2</sup> Toutefois, la commune peut présenter un budget de fonctionnement comportant un excédent de charges à concurrence maximale de ses amortissements, pour autant que cet excédent soit couvert par son capital propre.
+
+<sup>3</sup> Le règlement fixe les conditions d’application.
+
+<sup>4</sup> Lorsqu’une commune refuse, sans raison valable, d’équilibrer son budget de fonctionnement, le Conseil d’Etat, par arrêté, prévoit la couverture, soit en réduisant lui-même les charges qui lui paraissent susceptibles de réduction, soit en proposant au Grand Conseil d’augmenter les centimes additionnels communaux.
+
+#### Art. 116<sup>(49)</sup>
+
+**Recours au Grand Conseil**
+
+<sup>1</sup> La commune qui s’estime lésée par les décisions prises par le Conseil d’Etat en vertu des articles 114 et 115 peut recourir au Grand Conseil. Le recours doit être adressé dans les 30 jours qui suivent la notification de l’arrêté et doit être porté à l’ordre du jour d’une des prochaines séances.
+
+<sup>2</sup> Si le recours est renvoyé à une commission, celle-ci doit entendre 2 personnes déléguées désignées par la commune intéressée.<sup>(65)</sup>
+
+<sup>3</sup> Le recours a un effet suspensif.
+
+#### Art. 117<sup>(49)</sup>
+
+**Informations aux communes**
+
+<sup>1</sup> Le département des finances, des ressources humaines et des affaires extérieures transmet au conseil administratif les informations de nature fiscale nécessaires à l’établissement du budget. Le conseil administratif peut transmettre ces informations aux conseils municipaux.<sup>(65)</sup>
+
+<sup>2</sup> Le département et le département des finances, des ressources humaines et des affaires extérieures<sup>(67)</sup> coordonnent leurs actions d'information aux communes dans le cadre d'un centre de compétences.
+
+#### Art. 118<sup>(49)</sup>
+
+**Evaluation des recettes fiscales**
+
+<sup>1</sup> Les communes demeurent responsables de leurs évaluations budgétaires en matière fiscale.
+
+<sup>2</sup> Aux fins de l’élaboration du budget, l’évaluation des recettes fiscales est du ressort exclusif du conseil administratif.<sup>(65)</sup>
+
+#### Art. 119<sup>(49)</sup>
+
+**Transmission au département**
+
+<sup>1</sup> Le budget est soumis au département pour approbation, avec un tableau détaillé des amortissements prévus sur les crédits en cours et terminés.
+
+<sup>2</sup> Un exemplaire du budget, approuvé par le Conseil d'Etat ou le département, est remis à la commune pour être conservé dans ses archives.
+
+### Chapitre IV<sup>(49)</sup> Crédits d'engagement
+
+#### Art. 120<sup>(49)</sup>
+
+**Définition**
+
+Un crédit d’engagement est une autorisation d'investir dans un but précis un montant fixé qui ne figure pas au budget de fonctionnement. Le Conseil d'Etat fixe par voie réglementaire les règles liées aux crédits d'engagement.
+
+### Chapitre V<sup>(49)</sup> Planification
+
+#### Art. 121<sup>(49)</sup>
+
+**Plan financier quadriennal**
+
+<sup>1</sup> Le conseil administratif doit élaborer chaque année un plan financier quadriennal pour les 3 ans suivant le budget.<sup>(65)</sup>
+
+<sup>2</sup> Le plan financier contient notamment :
+
+- a) une vue d’ensemble sur les charges et les revenus du compte de résultats;
+- b) une récapitulation des investissements;
+- c) une estimation des besoins financiers et des possibilités de financement;
+- d) une vue d’ensemble sur l’évolution du patrimoine et de l’endettement.
+
+#### Art. 122<sup>(49)</sup>
+
+**Excédent de charges au budget**
+
+<sup>1</sup> Pour les communes qui présentent un budget comportant un excédent de charges, selon l’article 115, le plan financier doit en outre démontrer un retour à l’équilibre budgétaire dans un délai de 4 ans.
+
+<sup>2</sup> Pour les communes visées à l’alinéa 1 et dont le nombre d'habitants excède 50 000, le Conseil d’Etat peut proroger le délai de retour à l’équilibre budgétaire de 4 ans au plus.
+
+<sup>3</sup> Dans les cas mentionnés aux alinéas 1 et 2, le plan financier est soumis au conseil municipal pour information et transmis pour approbation au département.
+
+### Chapitre VI<sup>(49)</sup> Financements spéciaux et fonds spéciaux
+
+#### Art. 123<sup>(49)</sup>
+
+**Financements spéciaux**
+
+<sup>1</sup> Les financements spéciaux consistent en l'affectation obligatoire de moyens à l'accomplissement d'une tâche publique définie.
+
+<sup>2</sup> Les financements spéciaux doivent reposer sur une base légale formelle. Ils doivent respecter les principes de non-affectation de l'impôt général et de causalité.
+
+<sup>3</sup> Les financements spéciaux sont rattachés au capital propre lorsque :
+
+- a) la base légale peut être changée par la commune, ou
+- b) la base légale appartient au droit supérieur, mais laisse à la commune une marge importante d'aménagement.
+
+#### Art. 124<sup>(49)</sup>
+
+**Fonds spéciaux**
+
+<sup>1</sup> Les fonds spéciaux consistent en la décision d'affecter des moyens à l'accomplissement d'une tâche publique définie.
+
+<sup>2</sup> La création de fonds spéciaux doit reposer sur une décision ainsi qu'un règlement du conseil municipal.
+
+<sup>3</sup> Les fonds spéciaux sont rattachés au capital propre lorsque :
+
+- a) la base légale peut être changée par la propre collectivité, ou
+- b) la base légale repose sur le droit de rang supérieur, mais que celui-ci laisse à la collectivité concernée une marge importante d'aménagement.
+
+<sup>4</sup> Les fonds formés par des legs ou donations de tiers avec conditions desdits tiers sont rattachés au capital de tiers.
+
+### Chapitre VII<sup>(49)</sup> Disposition sur le contrôle et système de contrôle interne
+
+#### Art. 125<sup>(49)</sup>
+
+**Définition**
+
+<sup>1</sup> Dans le but d’appliquer les principes de gestion mentionnés dans la présente loi, les entités assujetties doivent instaurer un système de contrôle interne, adopté par leur organe exécutif, adapté à leurs missions et à leur structure, sous réserve des dispositions particulières qui leur sont applicables.
+
+<sup>2</sup> Le système de contrôle interne vise à :
+
+- a) assurer la qualité des prestations fournies par une entité dans le respect des lois, règlements, directives et autres normes en vigueur;
+- b) assurer la qualité des processus visant à fournir ces prestations;
+- c) gérer les risques découlant de l'activité de l'entité.
+
+<sup>3</sup> Le système de contrôle interne respecte les principes de la proportionnalité du contrôle et de l'efficacité des moyens administratifs alloués au contrôle au regard des résultats escomptés.
+
+#### Art. 126<sup>(49)</sup>
+
+**Organe de révision**
+
+<sup>1</sup> Les comptes de la Ville de Genève sont vérifiés par son service du contrôle financier, qui doit avoir obtenu la reconnaissance « MCH2 ».
+
+<sup>2</sup> Les comptes des autres communes doivent être contrôlés par une entreprise de révision agréée en tant qu’expert-réviseur conformément à l’article 4 de la loi fédérale sur l’agrément et la surveillance des réviseurs, du 16 décembre 2005, et ayant obtenu la reconnaissance « MCH2 ».
+
+<sup>3</sup> L'entreprise de révision doit être indépendante au sens des normes et pratiques en vigueur.
+
+<sup>4</sup> Le règlement d’application précise :
+
+- a) à l’intention des entreprises de révision, le type de contrôle financier à effectuer;
+- b) que le rapport de l'entreprise de révision est transmis au département par les soins de l'entreprise de révision, et que le département peut demander des précisions complémentaires à la commune et à l'entreprise de révision;
+
+<sup>5</sup> Le mandat de contrôle confié à une entreprise de révision ne peut être renouvelé que six fois au maximum.
+
+#### Art. 127<sup>(49)</sup>
+
+**Audit interne**
+
+Les communes de plus de 50 000 habitants doivent mettre en place un organe d'audit interne.
+
+## Titre VIII<sup>(49)</sup> Dispositions finales et transitoires
+
+#### Art. 128<sup>(49)</sup>
+
+**Clause abrogatoire**
+
+La loi sur l’administration des communes, du 3 juillet 1954, est abrogée, à l’exception des articles 6 et 10 qui demeurent en vigueur jusqu’à la fin de la législature 1983-1987.
+
+#### Art. 129<sup>(49)</sup>
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Conseil d’Etat fixe l’entrée en vigueur de la présente loi sous réserve des articles 5, 7 et 9, alinéa 2.
+
+<sup>2</sup> L’article 5 entre en vigueur par arrêté du Conseil d’Etat pour l’organisation des élections municipales prévues en 1987.
+
+<sup>3</sup> Les articles 7 et 9, alinéa 2, entrent en vigueur après les élections municipales prévues en 1987.
+
+#### Art. 130<sup>(49)</sup>
+
+**Dispositions transitoires**
+
+<sup>1</sup> Le Conseil d’Etat fixe le délai dans lequel le règlement du conseil municipal prévu à l’article 17 doit être adopté.
+
+### Modification du 19 novembre 2010
+
+<sup>2</sup> L’Association des communes genevoises, telle qu’instaurée par l’article 77<sup>(47)</sup>, reprend l’intégralité des actifs et passifs de l’association de droit privé à laquelle elle succède, en date du 25 janvier 2011.<sup>(35)</sup>
+
+### Modification du 17 mars 2017
+
+<sup>3</sup> La modification du 17 mars 2017 ne s’applique qu’aux délibérations adoptées après son entrée en vigueur.<sup>(52)</sup>
+
+### Modification du 3 juin 2016 – Passage au modèle MCH2
+
+<sup>4</sup> Lors du passage au modèle MCH2, il y a lieu de retraiter lors du bilan d'ouverture les positions du bilan suivantes :
+
+- a) le patrimoine financier est réévalué à la juste valeur;
+- b) les provisions et les comptes de régularisation sont retraités afin de correspondre aux définitions inscrites dans le modèle MCH2;
+- c) les fonds et les financements spéciaux sont retraités afin de correspondre aux définitions inscrites dans le modèle MCH2. Tous les fonds doivent disposer d'un règlement établi par le conseil administratif, le maire et ses adjoints. Les dissolutions de fonds doivent être validées par le conseil municipal.<sup>(49)</sup>
+
+<sup>5</sup> Les résultats de retraitement sont portés aux passifs dans les réserves liées aux retraitements.<sup>(49)</sup>
+
+<sup>6</sup> Les biens du patrimoine administratif ne sont pas retraités.<sup>(49)</sup>
+
+### Modification du 11 décembre 2025
+
+<sup>7</sup> L’article 52 ne s’applique qu’aux personnes morales de droit privé créées par les communes après l’entrée en vigueur de la loi sur les institutions autonomes communales et intercommunales de droit public, du 11 décembre 2025.<sup>(70)</sup>
+
+#### Art. 131<sup>(57)</sup>
+
+**Dispositions transitoires relatives à la mise en œuvre de la troisième réforme de l’imposition des entreprises (RFFA)**
+
+<sup>1</sup> En dérogation aux articles 104, alinéa 3, 115 et 122, les communes peuvent présenter un budget comportant un excédent de charges à compter du budget 2020, pour une durée maximale de 8 exercices budgétaires.<sup>(62)</sup>
+
+<sup>2</sup> Le montant de l’excédent de charges autorisé, en application de l’alinéa 1 ci‑dessus, ne peut excéder :
+
+- a) la différence entre l’estimation, fournie par le département des finances et des ressources humaines, aux comptes 2018 des communes genevoises, des revenus fiscaux des personnes morales et les estimations des revenus fiscaux des personnes morales pour les années qui suivent l’entrée en vigueur de la RFFA; ou
+- b) le montant de la prévision de la perte des revenus de la fiscalité des personnes morales suite à l’introduction de la RFFA, telle que fournie par le département des finances et des ressources humaines avant l’établissement du budget 2020.
+
+<sup>3</sup> Pour le premier exercice budgétaire déficitaire qui suit l’entrée en vigueur de la RFFA, l’exécutif communal doit indiquer quel montant maximal d’excédent de charges, selon l’alinéa 2 ci-dessus, il entend appliquer jusqu’à la fin de la période dérogatoire.
+
+<sup>4</sup> Les communes doivent présenter un budget équilibré pour l’exercice budgétaire qui suit la fin de la période dérogatoire.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| B 6 05 L sur l’administration des communes | 13.04.1984 | 01.01.1985 |
+| Modifications : |  |  |
+| 1. *n.t.* : 86/2 | 12.09.1985 | 01.01.1986 |
+| 2. *n.t.* : 54/1 | 24.02.1989 | 22.04.1989 |
+| 3. *n.t.* : 30/1p, 30/1r | 07.06.1990 | 11.08.1990 |
+| 4. *n.t.* : 71 | 13.03.1992 | 21.07.1992 |
+| 5. *n.* : 30/1y, 36A, 36B, 36C, 36D, 36E, 36F, 36G; *n.t.* : 29/2 | 01.04.1993 | 22.05.1993 |
+| 6. *n.* : (*d.* : 77/2 &gt;&gt; 77/4) 77/2, 77/3; *n.t.* : 73/1 | 01.04.1993 | 22.05.1993 |
+| 7. *n.* : 30A, 48/w; *n.t.* : 29/3; *a.* : 30/2 | 29.04.1993 | 26.06.1993 |
+| 8. *n.t.* : dénomination du département (48/d, 49/1) | 28.04.1994 | 25.06.1994 |
+| 9. *n.t.* : 30/1a, 30/1e, 30/1f, 30/1k, 30/1m, 31, 48/d, 68/1a phr. 1, 70/1a, 70/1g, 74/1, 74/3, 74/4, 75/1, 76, 77/1, 77/2, 77/4 | 14.05.1998 | 11.07.1998 |
+| 10. *n.t.* : 30/1x | 14.05.1998 | 11.07.1998 |
+| 11. *n.* : 74/6 | 23.10.1998 | 19.12.1998 |
+| 12. *n.t.* : 48/f | 05.11.1998 | 01.06.1999 |
+| 13. *n.* : 30/1z, 30A/1f | 04.12.1998 | 06.02.1999 |
+| 14. *n.t.* : 28/1, 28/2 | 20.05.1999 | 10.07.1999 |
+| 15. *n.* : 86A; *n.t.* : 85, 86 | 11.06.1999 | 01.01.2000 |
+| 16. *n.t.* : 30/1r, 48/w | 28.10.1999 | 01.01.2000 |
+| 17. *n.* : 65A; *n.t.* : 65 | 01.12.2000 | 01.09.2001 |
+| 18. *n.* : 30/2, (*d.* : 48/w &gt;&gt; 48/x) 48/w; *n.t.* : 48/v | 22.03.2001 | 19.05.2001 |
+| 19. *n.t.* : 47/1 | 23.03.2001 | 19.05.2001 |
+| 20. *n.t.* : 10/2 | 05.04.2001 | 02.06.2003 |
+| 21. *n.t.* : 30/1k 3° | 06.04.2001 | 02.06.2001 |
+| 22. *n.* : 30/3, chap. VA, 37A | 28.06.2001 | 15.11.2001 |
+| 23. *n.* : 10/4, 25/5, (*d.* : 30/3 &gt;&gt; 30/4) 30/3, 48/y; *n.t.* : 8/2, 18, 29/2; *a.* : 27 | 05.10.2001 | 01.03.2002 |
+| 24. *n.* : 10/5; *n.t.* : 25 (note), 25/5 | 26.04.2002 | 01.03.2002 |
+| 25. *n.* : (*d.* : 30A/2 &gt;&gt; 30A/3) 30A/2 | 29.11.2002 | 25.01.2003 |
+| 26. *a.* : 30/4, chap. VA du titre II, 37A | 02.05.2003 | 20.09.2003 |
+| 27. *n.t.* : rectification selon 7C/1, B 2 05 (49) | 28.02.2006 | 28.02.2006 |
+| 28. *n.t.* : 23 | 24.01.2008 | 01.07.2008 |
+| 29. *n.* : (*d.* : 86A/2 &gt;&gt; 86A/1) 86A/2; *a.* : 86A/1, 86A/3, 86A/4 | 18.09.2008 | 01.01.2009 |
+| 30. *n.t.* : 30A/2 | 03.04.2009 | 09.06.2009 |
+| a. rectification selon 7B/3, B 2 05 (ad 86A, erreur de publication dans la FAO du 03.10.2008 et du 24.11.2008) | — | — |
+| 31. *a.* : 49/2 | 27.08.2009 | 01.01.2011 |
+| 32. *n.t.* : rectification selon 7C/1, B 2 05 (49/1) | 18.05.2010 | 18.05.2010 |
+| 33. *n.t.* : 68, 70, 74/2, 74/4; *a.* : 69 | 02.07.2010 | 31.08.2010 |
+| 34. *n.t.* : rectification selon 7C/1, B 2 05 (25/5, 86A/1) | 31.08.2010 | 31.08.2010 |
+| 35. *n.* : 2/2, chap. I du titre IV, chap. II du titre IV, 60A, 60B, 60C, 60D, 89/2; *n.t.* : titre IV | 19.11.2010 | 25.01.2011 |
+| 36. *n.t.* : rectification selon 7C/1, B 2 05 (70/5, 86/1, 86/2) | 01.01.2011 | 01.01.2011 |
+| 37. *a.* : 85 | 27.05.2011 | 27.09.2011 |
+| 38. *n.t.* : rectification selon 7C/1, B 2 05 (49) | 03.09.2012 | 03.09.2012 |
+| 39. *n.t.* : 30/1s | 30.11.2012 | 26.01.2013 |
+| 40. *n.* : 36C/5; *n.t.* : 4, 29/2, 32, 33/1, chap. V du titre II, 36/2, 36C/1, 36C/2, 36C/3, 36C/4, 39, 40, 47/1, 47/2; *a.* : 30/1y, 36A, 36B | 21.03.2013 | 01.06.2013 |
+| 41. *n.* : (*d.* : 30/1k 4° &gt;&gt; 30/1k 5°) 30/1k 4°; *n.t.* : 30/1k 5°, 83/1 | 14.02.2014 | 26.04.2014 |
+| 42. *n.t.* : 6, 39/2 | 11.04.2014 | 14.06.2014 |
+| 43. *n.t.* : rectification selon 7C/1, B 2 05 (49) | 15.05.2014 | 15.05.2014 |
+| 44. *n.t.* : 36C/1 | 14.11.2014 | 17.01.2015 |
+| 45. *n.t.* : 20/2 | 23.01.2015 | 21.03.2015 |
+| 46. *n.* : (*d.* : 30/1z &gt;&gt; 30/1y) 30/1z, (*d.* : chap. II du titre IV &gt;&gt; chap. III du titre IV) chap. II du titre IV, (*d.* : 60A-60D &gt;&gt; 77-80) (*d.* : 61-89 &gt;&gt; 82-110) 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, chap. IV du titre IV, 81, 91/1h; *n.t.* : 30/1u, 91/1g; *a.* : 7 | 24.09.2015 | 21.11.2015 |
+| 47. *n.t.* : rectification selon 7C/1, B 2 05 (88/2, 99/1, 104/1d, 106/2, 110/2) | 27.11.2015 | 27.11.2015 |
+| 48. *n.* : 2/3; *n.t.* : 2/2 | 22.04.2016 | 18.06.2016 |
+| 49. *n.t.* : 79/1b; *n.* : (*d.* : titre VII &gt;&gt; titre VIII) titre VII, chap. I du titre VII, 102, 103, 104, 105, 106, chap. II du titre VII, 107, (*d.* : 108-110 &gt;&gt; 128-130) 108, 109, 110, 111, chap. III du titre VII, 112, 113, 114, 115, 116, 117, 118, 119, chap. IV du titre VII, 120, chap. V du titre VII, 121, 122, chap. VI du titre VII, 123, 124, chap. VII du titre VII, 125, 126, 127, 130/4, 130/5, 130/6; *n.t.* : 30/1f, 48/d, 81/4, 90/1a, 91/1a, 98/1d; *a.* : chap. III du titre V (*d.* : chap. IV-V du titre V &gt;&gt; chap. III-IV du titre V), 94, 95, 96, 97, 98, 99 (*d.* : 100-107 &gt;&gt; 94-101) | 03.06.2016 | 01.10.2016 01.01.2018 |
+| 50. *n.* : (*d.* : 10/4-5 &gt;&gt; 10/5-6) 10/4 | 01.09.2016 | 05.11.2016 |
+| 51. *n.* : 30/1aa, 91/1i | 23.09.2016 | 19.11.2016 |
+| 52. *n.* : 30/4, 30/5, 33/3, 110/3 | 17.03.2017 | 13.05.2017 |
+| 53. *n.* : 47A; *n.t.* : 30/1v | 25.01.2018 | 01.01.2019 |
+| 54. *n.t.* : rectification selon 7C/1, B 2 05 (49, 109, 110 (note), 110/1, 117/1, 117/2) | 04.09.2018 | 04.09.2018 |
+| 55. *n.t.* : 30A/3a | 12.10.2018 | 08.12.2018 |
+| 56. *n.t.* : 52/2, 57/2 | 25.01.2019 | 23.03.2019 |
+| 57. *n.* : 131 | 31.01.2019 | 15.06.2019 |
+| 58. *n.t.* : rectification selon 7C/1, B 2 05 (49, 81/4) | 14.05.2019 | 14.05.2019 |
+| 59. *n.t.* : 113 | 18.10.2019 | 01.01.2020 |
+| 60. *n.t.* : 9 | 26.06.2020 | 01.06.2020 |
+| 61. *n.* : 60A | 30.10.2020 | 01.01.2021 |
+| 62. *n.t.* : 131/1 | 29.01.2021 | 27.03.2021 |
+| 63. *n.t.* : rectification selon 7C/1, B 2 05 (49) | 31.08.2021 | 31.08.2021 |
+| 64. *n.* : 7; *n.t.* : 8/1 | 03.09.2021 | 06.11.2021 |
+| 65. *n.* : 30A/1g; *n.t.* : 3/b, 6, 7, 8/1, 9, 13/2, 14/1b, 14/1c, 14/2, 15/1, 16/3, 18/2, 21, 22/1, 23, 24, 25/3, 25/4, 26, 28/1, 28/2, 29/2, 30/1k, 30/1t, 30/1u, 30/1v, 30/3, 34 (note), 34/1, 36C/1, 36D/1, 36F/1, 36G, 37/2, titre III, 39/2, 40, 41, 42/1, 42/2, 46, 47/2, 47/3, 47A, 48 (note), 48 phr. 1, 48/y, 49, 50, 60A/9, 66/2, 66/3, 66/4, 68/2, 68/3, 71/1, 75/1, 90/4, 91/5, 91/6, 95/5, 96, 97/1, 99, 112/1, 116/2, 117/1, 118/2, 121/1; *a.* : 30/1x, 30A/3, 44, 45, 92, 112/2 | 03.03.2023 | 01.06.2025 |
+| 66. *a.* : 30/1c | 11.05.2023 | 01.01.2024 |
+| 67. *n.t.* : rectification selon 7C/1, B 2 05 (49, 109, 110 (note), 110/1, 117/1, 117/2) | 29.08.2023 | 29.08.2023 |
+| 68. *n.* : 47A/2c; *n.t.* : 30/1v | 17.11.2023 | 20.01.2024 |
+| 69. *n.t.* : rectification selon 7C/1, B 2 05 (105/1) | 19.08.2025 | 19.08.2025 |
+| 70. *n.* : 130/7; *n.t.* : 30/1i, 30/1t, 30/1u, 36/1e, chap. I du titre IV, 51, 52, 53, 91/1g, 91/1h, 103/1; *a.* : 30/1z (*d.* : 30/1y-aa &gt;&gt; 30/1x-y), 54, 55, 56, 57, 58, 59, 60, 60A, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, chap. II du titre IV (*d.* : chap. III du titre IV &gt;&gt; chap. II du titre IV), chap. IV du titre IV, 81, 93 | 11.12.2025 | 01.09.2026 |
