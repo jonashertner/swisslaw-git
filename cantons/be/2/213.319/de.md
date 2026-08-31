@@ -4,13 +4,12 @@ number: "213.319"
 title: Gesetz über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf
 short: KFSG
 language: de
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2020-12-03
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2020-12-03
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.319"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2358/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2358/pdf_file"
 
 (KFSG)
 
-vom 03.12.2020 (Stand 01.01.2022)
+vom 03.12.2020 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Berns,
 

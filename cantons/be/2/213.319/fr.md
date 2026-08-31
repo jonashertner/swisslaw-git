@@ -4,13 +4,12 @@ number: "213.319"
 title: Loi sur les prestations particulières d’encouragement et de protection destinées aux enfants
 short: LPEP
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2020-12-03
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2020-12-03
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.319"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2358/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3427/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2358/pdf_file"
 
 (LPEP)
 
-du 03.12.2020 (état au 01.01.2022)
+du 03.12.2020 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -470,7 +469,7 @@ arrête:
 
 **Examen des prestations et rapport**
 
-<sup>1</sup> Le service compétent de la Direction de l’intérieur et de la justice peut recueillir toutes les données liées aux prestations et à l’exploitation auprès des prestataires dont les activités requièrent une autorisation ou une annonce, dans la mesure où l’accomplissement des tâches au sens de la présente loi l’exige impérativement, et peut traiter ces données, y compris les données personnelles et les données personnelles particulièrement dignes de protection.
+<sup>1</sup> Le service compétent de la Direction de l’intérieur et de la justice peut recueillir toutes les données liées aux prestations et à l’exploitation auprès des prestataires dont les activités requièrent une autorisation ou une annonce, dans la mesure où l’accomplissement des tâches au sens de la présente loi l’exige impérativement, et peut traiter ces données, y compris les données personnelles et les données sensibles.
 
 <sup>2</sup> Si un contrat de prestations au sens de l’article 15 a été conclu, les données nécessaires à l’examen de la qualité de la prestation convenue et de ses coûts, en particulier, peuvent être recueillies et traitées.
 
@@ -482,7 +481,7 @@ arrête:
 
 **Traitement des données par les commanditaires de prestations**
 
-<sup>1</sup> Dans le cadre de l’accomplissement de leurs tâches au sens de la présente loi, les commanditaires de prestations traitent des données, y compris des données personnelles et des données personnelles particulièrement dignes de protection concernant des enfants et leurs familles.
+<sup>1</sup> Dans le cadre de l’accomplissement de leurs tâches au sens de la présente loi, les commanditaires de prestations traitent des données, y compris des données personnelles et des données sensibles concernant des enfants et leurs familles.
 
 <sup>2</sup> Ils peuvent se procurer les données personnelles nécessaires à l’accomplissement de leurs tâches auprès d’autres organes publics ou de tiers si les prestations doivent être attribuées ou ordonnées pour des enfants ayant un besoin particulier d’encouragement et de protection.
 
