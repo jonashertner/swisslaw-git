@@ -4,13 +4,12 @@ number: "155.21"
 title: Loi sur la procédure et la juridiction administratives
 short: LPJA
 language: fr
-version: 2023-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-30
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/155.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2855/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3424/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2855/pdf_file"
 
 (LPJA)
 
-du 23.05.1989 (état au 01.08.2023)
+du 23.05.1989 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -315,9 +314,7 @@ arrête:
 
 <sup>2</sup> Une pièce dont la consultation a été refusée à une partie ne peut être utilisée à son désavantage que si l'autorité lui en a communiqué, oralement ou par écrit, le contenu essentiel se rapportant à l'affaire et lui a donné en outre l'occasion de s'exprimer et de fournir des contre-preuves.
 
-<sup>3</sup> La loi du 19 février 1986 sur la protection des données (LCPD)[^23-1] s’applique en sus aux procédures administratives.
-
-[^23-1]: RSB 152.04
+<sup>3</sup> La législation sur la protection des données s'applique en sus aux procédures administratives.
 
 #### Art. 24
 
@@ -1025,6 +1022,7 @@ arrête:
 - c pour inopportunité de décisions et décisions sur recours
   - 1\. relevant du domaine des assurances sociales,
   - 2\. …
+  - 2a. de l'autorité cantonale de protection des données,
   - 3\. dans d'autres cas, lorsque la législation le prévoit.
 
 #### Art. 81

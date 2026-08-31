@@ -4,13 +4,12 @@ number: "155.21"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRPG
 language: de
-version: 2023-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-30
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/155.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2855/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2855/pdf_file"
 
 (VRPG)
 
-vom 23.05.1989 (Stand 01.08.2023)
+vom 23.05.1989 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -319,9 +318,7 @@ beschliesst:
 
 <sup>2</sup> Wird einer Partei die Einsichtnahme in ein Aktenstück verweigert, so darf auf dieses zum Nachteil der Partei nur abgestellt werden, wenn ihr die Behörde von seinem für die Sache wesentlichen Inhalt mündlich oder schriftlich Kenntnis und ihr ausserdem Gelegenheit gegeben hat, sich zu äussern und Gegenbeweismittel zu bezeichnen.
 
-<sup>3</sup> Auf Verwaltungsverfahren ist überdies das Datenschutzgesetz vom 19. Februar 1986 (KDSG[^23-1]) anwendbar.
-
-[^23-1]: BSG 152.04
+<sup>3</sup> Auf Verwaltungsverfahren ist überdies die Datenschutzgesetzgebung anwendbar.
 
 #### Art. 24
 
@@ -1029,6 +1026,7 @@ beschliesst:
 - c Unangemessenheit von Verfügungen und Entscheiden
   - 1\. aus dem Gebiet der Sozialversicherung,
   - 2\. …
+  - 2a. der kantonalen Datenschutzbehörde,
   - 3\. wenn die Gesetzgebung diese Rüge vorsieht.
 
 #### Art. 81
