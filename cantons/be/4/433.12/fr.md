@@ -4,13 +4,12 @@ number: "433.12"
 title: Loi sur les écoles moyennes
 short: LEM
 language: fr
-version: 2023-01-01
-valid_until: 2026-08-31
-version_adopted: 2022-03-08
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2007-03-27
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2668/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3433/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2668/pdf_file"
 
 (LEM)
 
-du 27.03.2007 (état au 01.01.2023)
+du 27.03.2007 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -724,13 +723,13 @@ arrête:
 
 <sup>1</sup> Le traitement et la communication des données personnelles d’élèves sont régis par la législation sur la protection des données.
 
-<sup>2</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent se communiquer au cas par cas les données d’élèves, y compris les données particulièrement dignes de protection, qui sont impérativement nécessaires pour l’accomplissement des différentes tâches légales. Les obligations particulières de garder le secret sont réservées.
+<sup>2</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent se communiquer au cas par cas les données d’élèves, y compris les données sensibles, qui sont impérativement nécessaires pour l’accomplissement des différentes tâches légales. Les obligations particulières de garder le secret sont réservées.
 
-<sup>3</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent communiquer les données d’élèves, y compris les données particulièrement dignes de protection, aux autorités des écoles dont sont issus les élèves, si la communication des données contribue à l’assurance-qualité des décisions d’orientation.
+<sup>3</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent communiquer les données d’élèves, y compris les données sensibles, aux autorités des écoles dont sont issus les élèves, si la communication des données contribue à l’assurance-qualité des décisions d’orientation.
 
 <sup>4</sup> Le traitement et la communication de données dans le cadre de la collaboration interinstitutionnelle (CII) sont régis par la législation cantonale sur le marché du travail.
 
-<sup>5</sup> Le Conseil-exécutif règle par voie d’ordonnance le traitement des données personnelles qui ne sont pas particulièrement dignes de protection.
+<sup>5</sup> Le Conseil-exécutif règle par voie d’ordonnance le traitement des données personnelles qui ne sont pas sensibles.
 
 #### Art. 68
 
