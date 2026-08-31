@@ -4,13 +4,13 @@ number: "109.111"
 title: Verordnung über die digitale Verwaltung
 short: DVV
 language: de
-version: 2023-03-01
-valid_until: 2026-08-31
-version_adopted: 2023-01-11
+version: 2026-09-01
+valid_until: 2026-10-31
+version_adopted: 2026-06-24
 adopted: 2023-01-11
 in_force: 2023-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/109.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2827/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2827/pdf_file"
 
 (DVV)
 
-vom 11.01.2023 (Stand 01.03.2023)
+vom 11.01.2023 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -192,7 +192,7 @@ beschliesst:
 
 <sup>2</sup> Wird kein Konsens erreicht, legen die Vorsitzenden den Entscheid des Organs auf der Grundlage der geführten Diskussion fest. Sie können dazu eine konsultative Abstimmung durchführen.
 
-<sup>3</sup> Vertretungen der Finanzkontrolle und der Datenschutzaufsichtsstelle sind an den Entscheiden nicht beteiligt.
+<sup>3</sup> Vertretungen der Finanzkontrolle und der kantonalen Datenschutzbehörde sind an den Entscheiden nicht beteiligt.
 
 #### Art. 14
 
@@ -306,7 +306,7 @@ beschliesst:
 <sup>2</sup> Den Fachgruppen gehören an:
 
 - a Vertretungen aller Direktionen, der Staatskanzlei und der Justizbehörden,
-- b gegebenenfalls Vertretungen der Finanzkontrolle und der Datenschutzaufsichtsstelle,
+- b gegebenenfalls Vertretungen der Finanzkontrolle und der kantonalen Datenschutzbehörde,
 - c gegebenenfalls Vertretungen der Gemeinden,
 - d gegebenenfalls Vertretungen der Parlamentsdienste,
 - e Fachpersonen.

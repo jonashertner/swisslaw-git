@@ -4,13 +4,13 @@ number: "109.111"
 title: Ordonnance sur l’administration numérique
 short: OAN
 language: fr
-version: 2023-03-01
-valid_until: 2026-08-31
-version_adopted: 2023-01-11
+version: 2026-09-01
+valid_until: 2026-10-31
+version_adopted: 2026-06-24
 adopted: 2023-01-11
 in_force: 2023-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/109.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2827/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3454/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2827/pdf_file"
 
 (OAN)
 
-du 11.01.2023 (état au 01.03.2023)
+du 11.01.2023 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -133,7 +133,7 @@ arrête:
 - a d’effectuer des paiements à des tiers;
 - b d'établir des droits ou des obligations d'importance;
 - c de notifier des décisions ou des décisions sur recours ou
-- d de traiter des données personnelles particulièrement dignes de protection ou soumises à une obligation légale particulière de garder le secret.
+- d de traiter des données sensibles ou soumises à une obligation légale particulière de garder le secret.
 
 <sup>3</sup> Les prescriptions de la législation spéciale ou du droit fédéral sont réservées.
 
@@ -192,7 +192,7 @@ arrête:
 
 <sup>2</sup> Si aucun consensus n’est trouvé, les présidentes et présidents tranchent au nom de l’organe sur la base de la discussion menée. Ils peuvent procéder à un vote consultatif à cet effet.
 
-<sup>3</sup> Les représentantes et représentants du Contrôle des finances et du Bureau pour la surveillance de la protection des données au sein de ces organes ne participent pas aux décisions.
+<sup>3</sup> Les représentantes et représentants du Contrôle des finances et du Bureau pour la protection des données au sein de ces organes ne participent pas aux décisions.
 
 #### Art. 14
 
@@ -306,7 +306,7 @@ arrête:
 <sup>2</sup> Les groupes spécialisés comprennent
 
 - a des personnes chargées de représenter chacune des Directions, la Chancellerie d’Etat et les autorités de justice;
-- b si nécessaire des représentantes et représentants du Contrôle des finances et du Bureau pour la surveillance de la protection des données;
+- b si nécessaire des représentantes et représentants du Contrôle des finances et du Bureau pour la protection des données;
 - c si nécessaire des représentantes et représentants des communes;
 - d si nécessaire des représentantes et représentants des Services parlementaires;
 - e des expertes et experts.
