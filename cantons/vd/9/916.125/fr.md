@@ -4,7 +4,7 @@ number: "916.125"
 title: LOI du 21.11.1973 sur la viticulture (LV)
 short: LV
 language: fr
-version: 2024-09-01
+version: 2026-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125?id=2beb0e29-f8db-4fc7-af95-1481419bb6cc"
 ---
 
@@ -342,26 +342,29 @@ décrète
 
 **Risques non assurables [^24-1]**
 
-<sup>1</sup> L'Etat peut venir exceptionnellement en aide aux viticulteurs:
+<sup>1</sup> L'Etat peut venir exceptionnellement en aide aux viticulteurs lorsque, dans tout ou partie du vignoble vaudois :
 
-- - lorsque, dans tout ou partie du vignoble vaudois, la récolte ne couvre pas les frais de culture par suite de gel, invasion grave et généralisée de parasites contre lesquels la lutte a été impuissante;
-- - lorsque des vignes ont subi de graves dommages ensuite de chutes de rochers, glissements de terrains, ravinage par des trombes, etc.
+- - la récolte ne couvre pas les frais de culture par suite d'un aléa climatique exceptionnel d'envergure ou d'invasion grave et généralisée de parasites contre lesquels il n'existe pas de moyens de lutte suffisants ;
+- - des vignes ont subi de graves dommages impactant l'économie vitivinicole, notamment ensuite de chutes de rochers, glissements de terrains ou ravinage par des trombes d'eau.
 
-<sup>2</sup> Le Conseil d'Etat décide le principe de l'action de secours et arrête le montant global qu'il entend lui affecter. Le département fixe le mode d'appréciation des dommages et le montant des indemnités.
+<sup>2</sup> Le Conseil d'Etat décide le principe de l'action de secours et arrête le montant global qu'il entend lui affecter. Le département fixe le mode d'appréciation des dommages et le montant des indemnités. La CIVV est en principe consultée.
 
-[^24-1]: Modif. 13 du 26.05.2026: Modification Al. 1; entrée en vigueur au 01.09.2026; Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.09.2026; Modification Al. 2; entrée en vigueur au 01.09.2026; Introduction Art. 25a, Al. 1, a-b; entrée en vigueur au 01.09.2026; Introduction Art. 30, Al. 2bis; entrée en vigueur au 01.09.2026
+[^24-1]: Modif. 13 du 26.05.2026: Modification Al. 1; entrée en vigueur au 01.09.2026; Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.09.2026; Modification Al. 2; entrée en vigueur au 01.09.2026
 
 #### Art. 25a
 
 **Fonds de prévoyance pour les risques non assurables [^25-1]**
 
-<sup>1</sup> Le Fonds de prévoyance pour les risques non assurables et ses produits sont réservés à toutes actions visant à soutenir et promouvoir une économie vitivinicole saine.
+<sup>1</sup> Le capital et les produits du Fonds de prévoyance pour les risques non assurables peuvent être employés pour :
 
-<sup>2</sup> Il participe aux actions de secours décidées par le Conseil d'Etat en application de l'article 25 et à celles décidées par le chef du département en application de l'article 30 de la présente loi. La CIVV est en principe consultée.
+- a. participer aux actions de secours décidées par le Conseil d'Etat en application de l'article 25 ;
+- b. participer aux mesures de promotion de l'économie vitivinicole décidées par le Conseil d'Etat en application de l'article 30.
+
+<sup>2</sup> ...
 
 <sup>3</sup> Jusqu'à sa dissolution, le fonds sera administré par le département, ses capitaux étant gérés par le Département des finances.
 
-[^25-1]: Modif. 6 du 16.03.2004: Introduction Art. 25a; entrée en vigueur au 01.06.2004 · Modif. 13 du 26.05.2026: Modification Al. 1; entrée en vigueur au 01.09.2026; Introduction Al. 1, a-b; entrée en vigueur au 01.09.2026; Abrogation Al. 2; entrée en vigueur au 01.09.2026; Introduction Art. 30, Al. 2bis; entrée en vigueur au 01.09.2026
+[^25-1]: Modif. 6 du 16.03.2004: Introduction Art. 25a; entrée en vigueur au 01.06.2004 · Modif. 13 du 26.05.2026: Modification Al. 1; entrée en vigueur au 01.09.2026; Introduction Al. 1, a-b; entrée en vigueur au 01.09.2026; Abrogation Al. 2; entrée en vigueur au 01.09.2026
 
 ## Chapitre VI Récolte
 
@@ -428,15 +431,17 @@ décrète
 
 #### Art. 30
 
-**Coordination et encouragement [^29-1]**
+**Promotion de l'économie vitivinicole [^29-1]**
 
-<sup>1</sup> Les actions individuelles ou collectives ayant pour but d'améliorer la culture, la vinification et d'assurer le placement des produits viticoles sont coordonnées et encouragées conformément aux dispositions ci-après.
+<sup>1</sup> Les actions collectives provenant d'organisations de promotion de l'économie vitivinicoles ayant pour but d'améliorer la culture, la vinification et d'assurer le placement des produits viticoles peuvent faire, sur demande motivée auprès du service, l'objet de contributions financières prélevées sur le Fonds de prévoyance pour les risques non assurables.
 
-<sup>2</sup> Ces actions peuvent faire l'objet de contributions financières prélevées sur le Fonds de prévoyance pour les risques non assurables.
+<sup>2</sup> Le Conseil d'Etat décide du bien-fondé de l'action et arrête les montants alloués. La CIVV est consultée.
 
-<sup>3</sup> Le chef du département décide des montants alloués dans les limites des intérêts et dividendes rapportés durant l'exercice précédent.
+<sup>2bis</sup> Le Conseil d'Etat assure un suivi régulier des actions collectives et de leurs résultats.
 
-[^29-1]: Modif. 6 du 16.03.2004: Introduction Al. 2,3; entrée en vigueur au 01.06.2004 · Modif. 13 du 26.05.2026: Introduction Art. 25a, Al. 1, a-b; entrée en vigueur au 01.09.2026; Modification tArt; entrée en vigueur au 01.09.2026; Modification Al. 1-2; entrée en vigueur au 01.09.2026; Introduction Al. 2bis; entrée en vigueur au 01.09.2026; Abrogation Al. 3; entrée en vigueur au 01.09.2026
+<sup>3</sup> ...
+
+[^29-1]: Modif. 6 du 16.03.2004: Introduction Al. 2,3; entrée en vigueur au 01.06.2004 · Modif. 13 du 26.05.2026: Modification tArt; entrée en vigueur au 01.09.2026; Modification Al. 1-2; entrée en vigueur au 01.09.2026; Introduction Al. 2bis; entrée en vigueur au 01.09.2026; Abrogation Al. 3; entrée en vigueur au 01.09.2026
 
 #### Art. 31
 
