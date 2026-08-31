@@ -4,13 +4,12 @@ number: "910.1"
 title: Kantonales Landwirtschaftsgesetz
 short: KLwG
 language: de
-version: 2021-12-01
-valid_until: 2026-08-31
-version_adopted: 2021-06-15
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2421/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2421/pdf_file"
 
 (KLwG)
 
-vom 16.06.1997 (Stand 01.12.2021)
+vom 16.06.1997 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 

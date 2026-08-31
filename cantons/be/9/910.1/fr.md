@@ -4,13 +4,12 @@ number: "910.1"
 title: "Loi cantonale sur l'agriculture"
 short: LCAB
 language: fr
-version: 2021-12-01
-valid_until: 2026-08-31
-version_adopted: 2021-06-15
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2421/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3450/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2421/pdf_file"
 
 (LCAB)
 
-du 16.06.1997 (état au 01.12.2021)
+du 16.06.1997 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -505,7 +504,7 @@ arrête:
 
 <sup>1</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut consulter par procédure d'appel les données des fichiers cantonaux centralisés de données personnelles qui sont nécessaires à l'accomplissement de ses tâches.
 
-<sup>2</sup> Il peut consulter et traiter des données personnelles particulièrement dignes de protection relatives aux mesures de protection de l'enfant et de l'adulte, aux ménages et aux relations des personnes concernées, y compris des données anciennes, pour autant qu'elles soient impérativement nécessaires à l'accomplissement de ses tâches.
+<sup>2</sup> Il peut consulter et traiter des données sensibles relatives aux mesures de protection de l'enfant et de l'adulte, aux ménages et aux relations des personnes concernées, y compris des données anciennes, pour autant qu'elles soient impérativement nécessaires à l'accomplissement de ses tâches.
 
 #### Art. 45
 
