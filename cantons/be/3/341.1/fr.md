@@ -4,13 +4,12 @@ number: "341.1"
 title: "Loi sur l'exécution judiciaire"
 short: LEJ
 language: fr
-version: 2026-05-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3370/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3429/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3370/pdf_file"
 
 (LEJ)
 
-du 23.01.2018 (état au 01.05.2026)
+du 23.01.2018 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -396,7 +395,7 @@ arrête:
 
 **Traitement de données**
 
-<sup>1</sup> Les autorités compétentes pour l'application de la présente loi peuvent traiter des données personnelles, y compris des données personnelles particulièrement dignes de protection, et procéder au profilage dans la mesure où elles en ont besoin pour accomplir les tâches qui leur incombent de par la loi.
+<sup>1</sup> Les autorités compétentes pour l'application de la présente loi peuvent traiter des données personnelles, y compris des données sensibles, et procéder au profilage dans la mesure où elles en ont besoin pour accomplir les tâches qui leur incombent de par la loi.
 
 <sup>2</sup> Elles peuvent utiliser des instruments techniques pour le traitement de données, en particulier
 
@@ -412,7 +411,7 @@ arrête:
 
 **Échange de données entre autorités**
 
-<sup>1</sup> Les autorités compétentes pour l'application de la présente loi peuvent, sous réserve d'obligations particulières de garder le secret, s'échanger des données personnelles, y compris celles qui sont particulièrement dignes de protection, ou en échanger avec d'autres autorités, dans la mesure rendue nécessaire par l'accomplissement des tâches qui incombent aux autorités concernées de par la loi.
+<sup>1</sup> Les autorités compétentes pour l'application de la présente loi peuvent, sous réserve d'obligations particulières de garder le secret, s'échanger des données personnelles, y compris des données sensibles, ou en échanger avec d'autres autorités, dans la mesure rendue nécessaire par l'accomplissement des tâches qui incombent aux autorités concernées de par la loi.
 
 <sup>2</sup> Sont notamment considérés comme autres autorités
 
@@ -427,12 +426,12 @@ arrête:
 - i les autorités fiscales,
 - k les offices des poursuites et faillites.
 
-<sup>3</sup> Le service compétent de la Direction de la sécurité peut permettre aux autorités suivantes d'accéder aux données personnelles des personnes détenues, y compris celles qui sont particulièrement dignes de protection, par une procédure d'appel électronique:
+<sup>3</sup> Le service compétent de la Direction de la sécurité peut permettre aux autorités suivantes d'accéder aux données personnelles des personnes détenues, y compris des données sensibles, par une procédure d'appel électronique:
 
 - a Police cantonale, dans la mesure où elle en a besoin pour accomplir des tâches policières lorsqu'elle appréhende des personnes afin de contrôler leur identité, lorsqu'elle effectue une recherche ou lorsqu'elle applique la loi fédérale du 18 décembre 2015 relative à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées[^24-1];
 - b autorités pénales, dans la mesure où elles en ont besoin pour procéder à des recherches du lieu de séjour.
 
-<sup>4</sup> Dans le cadre de l'accomplissement de tâches au sens de la LPol, en particulier pour écarter des dangers concrets pour la sécurité et l'ordre publics, réprimer des troubles, empêcher la commission imminente d'actes punissables ou interrompre la commission de tels actes, le service compétent de la Direction de la sécurité peut, sous réserve d'obligations particulières de garder le secret, communiquer des données personnelles de personnes détenues, y compris celles qui sont particulièrement dignes de protection, à la Police cantonale, dans la mesure nécessaire.
+<sup>4</sup> Dans le cadre de l'accomplissement de tâches au sens de la LPol, en particulier pour écarter des dangers concrets pour la sécurité et l'ordre publics, réprimer des troubles, empêcher la commission imminente d'actes punissables ou interrompre la commission de tels actes, le service compétent de la Direction de la sécurité peut, sous réserve d'obligations particulières de garder le secret, communiquer des données personnelles de personnes détenues, y compris des données sensibles, à la Police cantonale, dans la mesure nécessaire.
 
 [^24-1]: RS [150.2](https://db.clex.ch/link/Bund/150.2/fr)
 
@@ -440,7 +439,7 @@ arrête:
 
 **Échange de données avec des spécialistes et des établissements et personnes privés impliqués**
 
-<sup>1</sup> Les spécialistes et les établissements et personnes privés chargés de tâches d'exécution peuvent consulter les données personnelles des personnes détenues, y compris celles qui sont particulièrement dignes de protection, dans la mesure où ils en ont besoin pour accomplir des tâches légales ou contractuelles.
+<sup>1</sup> Les spécialistes et les établissements et personnes privés chargés de tâches d'exécution peuvent consulter les données personnelles des personnes détenues, y compris les données sensibles, dans la mesure où ils en ont besoin pour accomplir des tâches légales ou contractuelles.
 
 <sup>2</sup> Ils font part à l'autorité d'exécution et à la direction de l'établissement de leurs conclusions, diagnostics et prévisions dans la mesure permise par leurs obligations particulières de garder le secret. L'article 27 est réservé.
 
@@ -450,7 +449,7 @@ arrête:
 
 **Communication de données à des tiers**
 
-<sup>1</sup> Les agents et agentes du service compétent de la Direction de la sécurité ainsi que les spécialistes et les établissements et personnes privés impliqués peuvent communiquer des données personnelles, y compris celles qui sont particulièrement dignes de protection, à des tiers dans la mesure où ces derniers en ont besoin pour accomplir des tâches légales ou contractuelles et où le secret professionnel le leur permet.
+<sup>1</sup> Les agents et agentes du service compétent de la Direction de la sécurité ainsi que les spécialistes et les établissements et personnes privés impliqués peuvent communiquer des données personnelles, y compris des données sensibles, à des tiers dans la mesure où ces derniers en ont besoin pour accomplir des tâches légales ou contractuelles et où le secret professionnel le leur permet.
 
 <sup>2</sup> Le droit à l'information dont jouissent les victimes, leurs proches ou des tiers en vertu du CP est réservé.
 

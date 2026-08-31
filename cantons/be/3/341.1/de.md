@@ -4,13 +4,12 @@ number: "341.1"
 title: Gesetz über den Justizvollzug
 short: "Justizvollzugsgesetz, JVG"
 language: de
-version: 2026-05-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3370/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3370/pdf_file"
 
 (Justizvollzugsgesetz, JVG)
 
-vom 23.01.2018 (Stand 01.05.2026)
+vom 23.01.2018 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
