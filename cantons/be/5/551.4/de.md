@@ -4,13 +4,12 @@ number: "551.4"
 title: Gesetz über das Erbringen von Sicherheitsdienstleistungen durch Private
 short: SDPG
 language: de
-version: 2020-01-01
-valid_until: 2026-08-31
-version_adopted: 2018-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2018-06-13
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.4"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1630/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3437/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1630/pdf_file"
 
 (SDPG)
 
-vom 13.06.2018 (Stand 01.01.2020)
+vom 13.06.2018 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 

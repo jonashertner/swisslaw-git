@@ -4,13 +4,12 @@ number: "551.4"
 title: Loi sur les prestations des entreprises de sécurité privées
 short: LPESP
 language: fr
-version: 2020-01-01
-valid_until: 2026-08-31
-version_adopted: 2018-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2018-06-13
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.4"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1630/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3437/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1630/pdf_file"
 
 (LPESP)
 
-du 13.06.2018 (état au 01.01.2020)
+du 13.06.2018 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -187,7 +186,7 @@ arrête:
 
 **Traitement de données**
 
-<sup>1</sup> L'autorité compétente en matière d'autorisation est habilitée à traiter des données personnelles en vue de l'accomplissement de ses tâches, y compris des données particulièrement dignes de protection. Elle peut en particulier
+<sup>1</sup> L'autorité compétente en matière d'autorisation est habilitée à traiter des données personnelles en vue de l'accomplissement de ses tâches, y compris des données sensibles. Elle peut en particulier
 
 - a communiquer des données personnelles à des particuliers, au cas par cas;
 - b échanger des données personnelles avec les autorités d'autres cantons, compétentes en matière d'autorisation et, de sa propre initiative, leur octroyer l'accès à des informations portant sur des autorisations et reconnaissances délivrées ou refusées;
