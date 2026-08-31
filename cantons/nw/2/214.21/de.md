@@ -4,13 +4,12 @@ number: "214.21"
 title: Vollzugsverordnung zum kantonalen Geoinformationsgesetz
 short: "Kantonale Geoinformationsverordnung, kGeoIV"
 language: de
-version: 2024-01-01
-corrected: 2024-01-10
-version_adopted: 2023-09-26
+version: 2026-09-01
+version_adopted: 2026-08-18
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/214.21"
-pdf: "https://gesetze.nw.ch/api/de/versions/1239/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1532/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1239/pdf_file"
 
 (Kantonale Geoinformationsverordnung, kGeoIV)
 
-vom 25.09.2012 (Stand 01.01.2024)
+vom 25.09.2012 (Stand 01.09.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -155,7 +154,7 @@ beschliesst:
 <tr><td>7</td><td>Grundbuch: Grundstücksbezeichnung, Grundstücksbeschreibung, Eigentümer, Eigentumsform, Erwerbsdatum</td><td>214.1; 214.11, §§ 25 ff.</td><td>Grundbuchamt (GBA)</td><td></td><td>A</td><td></td></tr>
 <tr><td>8</td><td>Grundbuch: übrige Daten gemäss eGRISDM</td><td>214.1; 214.11, §§ 25 ff.</td><td>GBA</td><td></td><td>B</td><td></td></tr>
 <tr><td>14</td><td>Strassenverkehrszählung regionales und lokales Netz</td><td>622.1</td><td>Amt für Mobilität (AMO)</td><td></td><td>A</td><td>Ja</td></tr>
-<tr><td>17</td><td>Inventar der historischen Verkehrswege der Schweiz regional und lokal</td><td>614.1, Art. 8 ff.</td><td>Amt für Wald und Naturgefahren (AWN)</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>17</td><td>Inventar der historischen Verkehrswege der Schweiz regional und lokal</td><td>322.2; Art. 4</td><td>Amt für Wald und Naturgefahren (AWN)</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>23</td><td>Übrige Biotope von regionaler und lokaler Bedeutung</td><td>331.1, Art. 5 ff.; 332.11, § 3; 331.11, § 3</td><td>Fachstelle Natur- und Landschaftsschutz (FNL) und Gemeinde</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>26</td><td>Kantonales Inventar der Auengebiete von nationaler, regionaler und lokaler Bedeutung</td><td>331.1, Art. 5 ff.; 331.11, § 3</td><td>FNL</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>27</td><td>Kantonales Inventar der Hoch- und Übergangsmoore von nationaler, regionaler und lokaler Bedeutung</td><td>331.1, Art. 5 ff.; 331.11, § 3</td><td>FNL</td><td></td><td>A</td><td>Ja</td></tr>
@@ -177,6 +176,8 @@ beschliesst:
 <tr><td>66</td><td>Inventar Trinkwasserversorgung in Notlagen</td><td>631.11, § 38</td><td>Wasserversorgungsorganisationen [Amt für Umwelt und Energie; AUE]</td><td></td><td>B</td><td></td></tr>
 <tr><td>67A</td><td>Velowegnetze kantonal</td><td>622.1, Art. 10a und 14; 622.131</td><td>AMO</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>67B</td><td>Velowegnetze kommunal</td><td>622.1, Art. 10a und 14; 622.131</td><td>Gemeinde [AMO]</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>67C</td><td>Mountainbikewegnetz (Mountainbikewegrichtplan)</td><td>614.1, Art. 9 ff.</td><td>AWN</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>67D</td><td>Mountainbikewegnetz (Mountainbikewegplan)</td><td>614.1, Art. 15 ff.</td><td>AWN</td><td>X</td><td>A</td><td>Ja</td></tr>
 <tr><td>68</td><td>Fruchtfolgeflächen</td><td>611.1, Art. 9 ff.</td><td>ARE</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>69</td><td>Richtpläne der Kantone</td><td>611.1 Art. 9 ff.; 611.19</td><td>ARE</td><td></td><td>A</td><td></td></tr>
 <tr><td>73A</td><td>Nutzungsplanung</td><td>611.01, Art. 32 ff.; nach gemeindeweisem Inkrafttreten nach Art. 207 PBG: 611.1, Art. 16 ff.</td><td>Gemeinde [ARE]</td><td>X</td><td>A</td><td>Ja</td></tr>
@@ -185,8 +186,10 @@ beschliesst:
 <tr><td>74</td><td>Stand der Erschliessung</td><td>611.011, §§ 32 ff.; nach gemeindeweisem Inkrafttreten nach Art. 207 PBG: 611.1, Art. 73 ff.; 611.11, § 9</td><td>Gemeinde [ARE]</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>76A</td><td>Planungszonen kantonal</td><td>611.1, Art. 43 ff.</td><td>ARE</td><td>X</td><td>A</td><td>Ja</td></tr>
 <tr><td>76B</td><td>Planungszonen kommunal</td><td>611.1, Art. 43 ff.</td><td>Gemeinde [ARE]</td><td>X</td><td>A</td><td>Ja</td></tr>
-<tr><td>79A</td><td>Wanderwegnetze</td><td>614.1, Art. 15 ff. und 22 ff.</td><td>AWN</td><td></td><td>A</td><td>Ja</td></tr>
-<tr><td>79B</td><td>Fusswegnetze</td><td>614.1, Art. 15 ff. und 22 ff.</td><td>Gemeinde [AMO]</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>79A</td><td>Wanderwegnetz (Wanderwegrichtplan)</td><td>614.1, Art. 9 ff.</td><td>AWN</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>79B</td><td>Fusswegnetz (Fusswegrichtplan)</td><td>614.1, Art. 9 ff.</td><td>Gemeinde [AMO]</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>79C</td><td>Wanderwegnetz (Wanderwegplan)</td><td>614.1, Art. 15 ff.</td><td>AWN</td><td>X</td><td>A</td><td>Ja</td></tr>
+<tr><td>79D</td><td>Fusswegnetz (Fusswegplan)</td><td>614.1, Art. 15 ff.</td><td>Gemeinde [AMO]</td><td>X</td><td>A</td><td>Ja</td></tr>
 <tr><td>81</td><td>Schutz vor Naturereignissen (weitere Erhebungen)</td><td>631.1, Art. 25 ff.; 631.11, § 6; 831.1, Art. 45; 831.11, §§ 10 ff.</td><td>Fachkommission Naturgefahren</td><td></td><td>A</td><td></td></tr>
 <tr><td>100</td><td>Einschränkungen für die Binnenschifffahrt</td><td>654.1, Art. 2; 654.11, § 2</td><td>Justiz- und Sicherheitsdirektion</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>113</td><td>Risikokataster (Erhebungen der Kantone)</td><td>721.1, Art. 12; 721.11, § 6</td><td>AUE</td><td></td><td>B</td><td></td></tr>
@@ -215,10 +218,10 @@ beschliesst:
 <tr><td>160</td><td>Waldreservate</td><td>831.1, Art. 35</td><td>AWN</td><td>X</td><td>A</td><td>Ja</td></tr>
 <tr><td>161</td><td>Forstliche Planung (Standortverhältnisse, Waldfunktionen)</td><td>831.1, Art. 25 f.; 831.11, §§ 13 ff.</td><td>AWN</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>166</td><td>Gefahrenkarten</td><td>831.1, Art. 22 f.; 831.11, §§ 10 ff.</td><td>AWN</td><td></td><td>A</td><td></td></tr>
-<tr><td>167</td><td>Gefahrenkataster (Erlebniskataster)</td><td>831.1 Art. 22 f.; 831.11, §§ 10 ff.</td><td>AWN</td><td></td><td>A</td><td></td></tr>
+<tr><td>167</td><td>Gefahrenkataster (Ereigniskataster)</td><td>831.1 Art. 22 f.; 831.11, §§ 10 ff.</td><td>AWN</td><td></td><td>A</td><td></td></tr>
 <tr><td>168</td><td>Jagdbanngebiete kantonal</td><td>841.1, Art. 26 f.; 841.11, § 43; 841.15, § 2</td><td>Amt für Justiz (AFJ)</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>172</td><td>Vogelreservate kantonal</td><td>841.1, Art. 27</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
-<tr><td>174</td><td>Fischschongebiete</td><td>842.311 Art. 1-2</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>174</td><td>Fischschongebiete</td><td>842.1 Art. 43</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>182</td><td>Radondatenbank</td><td>717.3, Art. 2</td><td>Laboratorium der Urkantone</td><td></td><td>B</td><td></td></tr>
 <tr><td>183</td><td>Stromversorgungssicherheit: Netzgebiete</td><td>641.2, Art. 4 ff.</td><td>AUE</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>184</td><td>Kantonale Ausnahmetransportrouten</td><td>622.1</td><td>AMO</td><td></td><td>A</td><td>Ja</td></tr>
@@ -323,7 +326,7 @@ Ja = generell
 <tr><td>90-NW</td><td>Forstliche Betriebspläne</td><td>831.1, Art. 27; 831.11, §§ 16 ff.</td><td>AWN</td><td></td><td>B</td><td></td></tr>
 <tr><td>91-NW</td><td>Forstkreise und Forstreviere</td><td>831.1, Art. 47; 831.11, § 21</td><td>AWN</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>92-NW</td><td>Wildtierkorridore</td><td>841.1, Art. 25</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
-<tr><td>94-NW</td><td>Patent- und Pachtkreise (Fischerei)</td><td>842.1 Art. 6, 842.11 § 7</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
+<tr><td>94-NW</td><td>Patent- und Pachtkreise (Fischerei)</td><td>842.1 Art. 6, 11, 23</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>95-NW</td><td>Fischschongebiete</td><td>842.1, Art. 43</td><td>AFJ</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>96-NW</td><td>Erdbebenmikrozonierung</td><td>867.1</td><td>NSV</td><td></td><td>A</td><td>Ja</td></tr>
 <tr><td>102-NW</td><td>Baugesuche</td><td>611.1, Art. 143; 611.11, §§ 42 ff.</td><td>Gemeinde [ARE]</td><td></td><td>B</td><td></td></tr>
