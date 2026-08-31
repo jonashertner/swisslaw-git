@@ -5,10 +5,9 @@ title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs (E
 short: EG SchKG
 language: de
 version: "2020-04-01"
-nachtrag: "132"
-valid_until: 2026-09-01
+nachtrag: "134"
 adopted: 2007-11-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-281-2007_11_26-2010_07_01-132.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-281-2007_11_26-2010_07_01-134.html"
 text: pdf
 ---
 
@@ -48,7 +47,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 26 - 132
+1.10. 26 - 134
 
 ### B. Betreibungsämter
 
@@ -130,7 +129,7 @@ beschliesst:
 
 **Beschwerdeverfahren nach Art. 17 und 18 SchKG**
 
-- 1\. 4. 26 - 132 § 13.<sup>12</sup> <sup>1</sup> Das Obergericht wählt auf seine Amtsdauer eine Prüfungskommission, in der die Betreibungsbeamtinnen und Betreibungsbeamten angemessen vertreten sind.
+1.10. 26 - 134 § 13.<sup>12</sup> <sup>1</sup> Das Obergericht wählt auf seine Amtsdauer eine Prüfungskommission, in der die Betreibungsbeamtinnen und Betreibungsbeamten angemessen vertreten sind.
 
 **Prüfungskommission**
 
@@ -214,7 +213,7 @@ a.[^24-1] die näheren Voraussetzungen zur Erlangung des Wahlfähigkeitsausweise
 
 **5**
 
-- 1\. 4. 26 - 132 b.[^24-1] die Zusammensetzung und Besetzung der Prüfungskommission sowie die Entschädigung der Mitglieder, c.[^24-2] die Organisation und Geschäftsführung der Betreibungsämter.
+1.10. 26 - 134 b.[^24-1] die Zusammensetzung und Besetzung der Prüfungskommission sowie die Entschädigung der Mitglieder, c.[^24-2] die Organisation und Geschäftsführung der Betreibungsämter.
 
 **Aufhebung bisherigen Rechts**
 
@@ -278,13 +277,11 @@ Im Bezirk Zürich bildet jeder der zwölf Verwaltungskreise gemäss Art. 3 der G
 
 [^hBezirkAffoltern-1][^hBezirkAffoltern-2]
 
-- Adliswil, Langnau a. A.
-
 - Horgen, Oberrieden
 
 - Richterswil, Wädenswil
 
-- Kilchberg, Rüschlikon, Thalwil
+- Adliswil, Kilchberg, Langnau a. A., Rüschlikon, Thalwil
 
 ### Bezirk Meilen
 
@@ -356,7 +353,7 @@ Im Bezirk Zürich bildet jeder der zwölf Verwaltungskreise gemäss Art. 3 der G
 
 **9**
 
-- 1\. 4. 26 - 132
+1.10. 26 - 134
 
 ### Bezirk Dielsdorf
 
@@ -397,5 +394,5 @@ Im Bezirk Zürich bildet jeder der zwölf Verwaltungskreise gemäss Art. 3 der G
 - [20] Die Gemeinde Hofstetten wurde nach dem Zusammenschluss mit der Gemeinde Elgg auf 1. Januar 2018 aus der Liste entfernt.
 - [22] Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
 - [24] Eingefügt durch G vom 9. September 2019 (OS 75, 107; ABl 2017-12-15). In Kraft seit 1. April 2020.
-- [25] Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt. 1. 4. 26 - 132 7
-- [1] Festgelegt durch Beschlüsse des Regierungsrates vom 17. Dezember 2008 (ABl 2009, 35), 25. März 2009 (ABl 2009, 507), 27. Mai 2009 (ABl 2009, 789), 20. Juni 2012 (ABl 2012, 1300), 4. Juni 2025 (ABl 2025-06-13) und vom 25. März 2026 (ABl 2026-04-02).
+- [25] Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt. 1.10. 26 - 134 7
+- [1] Festgelegt durch Beschlüsse des Regierungsrates vom 17. Dezember 2008 (ABl 2009, 35), 25. März 2009 (ABl 2009, 507), 27. Mai 2009 (ABl 2009, 789), 20. Juni 2012 (ABl 2012, 1300), 4. Juni 2025 (ABl 2025-06-13), 25. März 2026 (ABl 2026-04-02) und vom 24. Juni 2026 (ABl 2026-07-03).
