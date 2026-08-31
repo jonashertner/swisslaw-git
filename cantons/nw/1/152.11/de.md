@@ -4,13 +4,12 @@ number: "152.11"
 title: Vollzugsverordnung zum Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Regierungsratsverordnung, RRV"
 language: de
-version: 2026-05-01
-valid_until: 2026-08-31
-version_adopted: 2026-04-21
+version: 2026-09-01
+version_adopted: 2026-08-18
 adopted: 1998-07-07
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1499/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1531/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1499/pdf_file"
 
 (Regierungsratsverordnung, RRV)
 
-vom 07.07.1998 (Stand 01.05.2026)
+vom 07.07.1998 (Stand 01.09.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -815,7 +814,8 @@ beschliesst:
   - 2\. Verwaltung der Staatswaldungen und der Waldungen kantonaler Stiftungen
   - 3\. Forstliche Erschliessungen und Verbauungen
   - 4\. Naturgefahren
-  - 5\. Wanderwege
+  - 5\. Wanderwege und Mountainbikewege
+  - 5a. Historische Verkehrswege
   - 6\. Luftseilbahnen und Skilifte
   - 7\.–10. …
   - 11\. Wasserbau Engelberger-Aa
