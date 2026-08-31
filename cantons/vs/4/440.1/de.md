@@ -4,13 +4,12 @@ number: "440.1"
 title: Kulturförderungsgesetz
 short: KFG
 language: de
-version: 2025-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-11-14
+version: 2026-09-01
+version_adopted: 2026-03-13
 adopted: 1996-11-15
 in_force: 1997-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/440.1"
-pdf: "https://lex.vs.ch/api/de/versions/3433/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3433/pdf_file"
 
 (KFG)
 
-vom 15.11.1996 (Stand 01.01.2025)
+vom 15.11.1996 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -35,28 +34,60 @@ verordnet:
 
 <sup>1</sup> Das Gesetz will durch die Förderung einer lebendigen und vielseitigen Kultur zur Entwicklung des Einzelnen und der Gemeinschaft beitragen.
 
-<sup>2</sup> Es bezweckt die Kulturförderung in den folgenden Bereichen:
+<sup>2</sup> Es bezweckt die Kulturförderung in folgenden Bereichen:
 
-- a) schöpferischer Bereich, Verbreitung, Kulturvermittlung, Kulturteilhabe und Bildung;
+- a) Recherche, schöpferischer Bereich, Verbreitung, Kulturvermittlung, Kulturteilhabe und Bildung;
 - b) Bewahrung, Erforschung und Weitergabe des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes.
 
 ## 1 Allgemeine Bestimmungen
 
+#### Art. 1a
+
+**Begriffsbestimmungen**
+
+<sup>1</sup> In diesem Gesetz werden die nachstehenden Begriffe wie folgt definiert:
+
+- a) Zugang zu Kultur: Gesamtheit der Massnahmen zur Förderung des Kontakts zwischen Kultur und Öffentlichkeit, die insbesondere die öffentliche Präsentation, die Sensibilisierung, die Kulturvermittlung und -teilhabe umfassen;
+- b) Kulturschaffender: Natürliche Person, die kulturelle Aktivitäten durchführt;
+- c) kulturelle Institution: Einrichtung mit einer Infrastruktur oder, in Ermangelung dieser, dauerhafte Organisation, die regelmässig eine kulturelle Tätigkeit ausübt oder der Öffentlichkeit ein kulturelles Programm anbietet;
+- d) kulturelle Aktivitäten: Alle Massnahmen, welche die Kulturproduktion und den Zugang zur Kultur umfassen, ob einmalig oder dauerhaft, auf Amateur- oder Profiebene, sowie die Bewahrung und Aufwertung des beweglichen, dokumentarischen, immateriellen und sprachlichen Kulturerbes;
+- e) kulturelle Infrastruktur: Gebäude oder dauerhafte Einrichtungen, die hauptsächlich für kulturelle Aktivitäten genutzt werden;
+- f) Kultur- und Kreativwirtschaft: Gesamtheit der Wirtschaftssektoren, deren Hauptziel das künstlerische Schaffen, die Entwicklung, die Produktion, die Reproduktion, die Förderung, die Verbreitung oder der Vertrieb von Gütern, Dienstleistungen und Tätigkeiten ist, die einen kulturellen, künstlerischen und/oder kulturerblichen Inhalt aufweisen;
+- g) Kulturproduktion: Prozess zur Realisierung eines kulturellen Werks.
+
 #### Art. 2
 
-**Grundsatz**
+**Grundsätze**
 
-<sup>1</sup> Staat und Gemeinden unterstützen die kulturellen Tätigkeiten von Personen und privaten Institutionen; sie handeln gemäss der ihnen im Rahmen des Gesetzes übertragenen Aufgaben, ohne die künstlerische Gestaltungs- und Ausdrucksfreiheit einzuschränken.
+<sup>1</sup> Staat und Gemeinden unterstützen die Aktivitäten von Privatpersonen und privaten Institutionen; sie fördern und unterstützen kulturelle Aktivitäten, geben Impulse und handeln gemäss der ihnen im Rahmen des Gesetzes übertragenen Aufgaben.
+
+<sup>2</sup> Im Rahmen dieser Aufgabe achten der Staat und die Gemeinden insbesondere auf die Einhaltung folgender Grundsätze:
+
+- a) die Vielfalt der kulturellen Aktivitäten, unabhängig davon, ob sie von Amateuren oder professionellen Kulturschaffenden ausgeübt werden;
+- b) die Kunstfreiheit und die Meinungsfreiheit;
+- c) die kulturellen Rechte, insbesondere der Zugang zu Kultur und die kulturelle Teilhabe für alle Menschen;
+- d) die soziale, wirtschaftliche und ökologische Nachhaltigkeit der kulturellen Aktivitäten;
+- e) die Einhaltung fairer Arbeitsbedingungen für Kulturschaffende.
+
+<sup>3</sup> Der Staat und die Gemeinden sorgen auch dafür, dass ihre Massnahmen zur Kulturpolitik und zur Kulturförderung, insbesondere in den Bereichen Bildung, sozialer Zusammenhalt, Gesundheit, wirtschaftliche und touristische Entwicklung, kohärent sind.
 
 #### Art. 3
 
 **Aufgaben des Staates a) Im allgemeinen**
 
-<sup>1</sup> Der Staat unterstützt die Kulturförderung besonders im schöpferischen Bereich.
+<sup>1</sup> Der Staat trägt insbesondere in folgenden Bereichen zur Kulturförderung bei: Literatur, bildende Kunst, Musik, darstellende Kunst, audiovisuelle und digitale Kunst, Kulturerbe und interdisziplinäre Aktivitäten.
 
 <sup>2</sup> Er trägt auch zur Bewahrung, Erforschung und Weitergabe des Kulturerbes bei und bringt dieses der Öffentlichkeit näher.
 
 <sup>3</sup> Er fördert den Zugang zur Kultur und beteiligt sich am kulturellen Leben.
+
+<sup>4</sup> Der Staat hat in erster Linie folgende Aufgaben und Verantwortlichkeiten:
+
+- a) Unterstützung der professionellen kulturellen Produktion;
+- b) Unterstützung von kulturellen Aktivitäten und Förderprogrammen von kantonaler Bedeutung;
+- c) Förderung der kulturellen Kooperation und Zusammenarbeit auf kantonaler, interkantonaler, nationaler und internationaler Ebene, insbesondere im Rahmen von gemeinsamen Förderprogrammen oder gemeinsamen Institutionen, sowie Unterstützung der Verbreitung professioneller kultureller Werke innerhalb und ausserhalb des Kantons;
+- d) Unterstützung und Förderung von interdisziplinären Kulturprojekten;
+- e) Unterstützung und Förderung der Gemeinden, die dies wünschen, sich als Kulturregionen zusammenzuschliessen, um lokale Synergien zu stärken und die regionale kulturelle Aktivität zu fördern.
 
 #### Art. 4
 
@@ -64,7 +95,8 @@ verordnet:
 
 <sup>1</sup> Bei der Wahrnehmung seiner Aufgaben:
 
-- a) trägt der Staat den regionalen und gesellschaftlichen Gegebenheiten Rechnung;
+- a) respektiert der Staat die regionalen und sozialen Besonderheiten und fördert die Zweisprachigkeit und das gegenseitige Verständnis zwischen den Gemeinschaften;
+- a<sup>bis</sup>) unterstützt der Staat mit konkreten und nachhaltigen Massnahmen kulturelle Aktivitäten, die sich mit der Zweisprachigkeit befassen;
 - b) berücksichtigt er die unterschiedlichen kulturellen Sparten und Ausdrucksformen;
 - c) achtet er auf eine angemessene Aufteilung der kulturellen Aktivitäten im Kanton;
 - d) fördert er den kulturellen Austausch innerhalb des Kantons und nach aussen.
@@ -77,19 +109,46 @@ verordnet:
 
 - a) gewährt der Staat Finanzhilfen und setzt alle zur Förderung geeigneten Mittel ein;
 - b) schafft und führt der Staat öffentliche Institutionen, wie Archiv, Bibliotheken und Museen;
-- c) ist der Staat dafür besorgt, mittels Ausbildung und Erziehung in den Schulen aller Stufen das kulturelle Leben zu fördern;
+- c) sorgt der Staat dafür, dass die Ausbildung in den Schulen auf allen Ebenen das kulturelle Leben durch gemeinsam von den Dienststellen für Kultur, Unterrichtswesen und Berufsbildung finanzierte Massnahmen einbezieht;
 - d) unterstützt der Staat die Ausbildung im kulturellen Bereich;
-- e) kann der Staat Investitionsbeiträge für kulturelle Belange von gesamtkantonaler Bedeutung gewähren.
+- e) kann der Staat Finanzhilfen für kulturelle Investitionen von regionalem oder kantonalem Interesse gewähren;
+- f) stellt der Staat über die für die Kultur zuständige Dienststelle oder über öffentliche oder private Organisationen, denen er diese Aufgabe übertragen kann, die Unterstützung und Beratung von Kulturschaffenden sicher.
 
 #### Art. 6
 
 **Aufgaben der Gemeinden**
 
-<sup>1</sup> Die Gemeinden beteiligen sich an der Kulturförderung, namentlich im Bereich der kulturellen Animation und Bildung. Sie handeln autonom und treffen die notwendigen organisatorischen Massnahmen.
+<sup>1</sup> Die Gemeinden tragen zur Förderung der Kultur bei, indem sie insbesondere lokale kulturelle Aktivitäten von Amateur- und Berufskünstlern unterstützen, insbesondere in den Bereichen Animation, Bildung sowie lokale kulturelle Institutionen und Infrastrukturen. Sie handeln autonom und treffen die notwendigen organisatorischen Massnahmen.
 
-<sup>2</sup> Bei der Durchführung regionaler Projekte streben sie eine möglichst enge Zusammenarbeit an.
+<sup>2</sup> Bei der Durchführung regionaler Projekte streben sie untereinander eine möglichst enge Zusammenarbeit an.
 
-<sup>3</sup> Sie sorgen für die Bewahrung und die Förderung des Kulturerbes und erfüllen insbesondere die ihnen durch die Spezialgesetzgebung zugewiesenen Obliegenheiten.
+<sup>3</sup> Sie sorgen für die Bewahrung und die Förderung des Kulturerbes von lokalem Interesse und erfüllen insbesondere die ihnen durch die Spezialgesetzgebung zugewiesenen Obliegenheiten.
+
+#### Art. 6a
+
+**Unterstützungsmodalitäten**
+
+<sup>1</sup> Um die gesetzten Ziele zu erreichen, können der Staat und die Gemeinden ihre Unterstützung in folgenden Formen gewähren:
+
+- a) Vergabe von einmaligen, regelmässigen oder erneuerbaren Finanzhilfen wie zinslose Darlehen, Subventionen, Preise und Stipendien;
+- b) Ankäufe von oder Aufträge für Werke, Wettbewerbe, Finanzierung von künstlerischen Interventionen in öffentlichen Infrastrukturen;
+- c) direkte Leistungen und logistische Unterstützung;
+- d) jede andere geeignete Form der Unterstützung.
+
+<sup>2</sup> Bei der Vergabe dieser Fördermittel berücksichtigen der Staat und die Gemeinden die in Artikel 2 Absatz 2 genannten Grundsätze. Sie können zudem folgende Kriterien berücksichtigen:
+
+- a) die Qualität und die künstlerische, kulturelle und wissenschaftliche Relevanz;
+- b) die kulturelle Wirkung;
+- c) den Einbezug von unterrepräsentierten kulturellen Bereichen;
+- d) die Zugehörigkeit zur professionellen oder zur Amateurkultur;
+- e) die wirtschaftliche Tragfähigkeit und Nachhaltigkeit;
+- f) die Einhaltung von Vergütungsbedingungen gemäss den Richtlinien der Dachverbände, die vom für die Kultur zuständigen Departement anerkannt sind, insbesondere in Bezug auf die Lohngleichheit und die berufliche Vorsorge;
+- g) die Verankerung im kulturellen Leben des betreffenden Gebiets, etwa durch Wohnsitz, Geschäftssitz, Herkunft oder das Bestehen einer nachweisbaren Verbindung;
+- h) die kulturelle Ausstrahlung;
+- i) die Notwendigkeit, die Zweckmässigkeit und die Wirksamkeit einer Unterstützung;
+- j) die Barrierefreiheit für Menschen mit Behinderungen.
+
+<sup>3</sup> Bei der Anwendung dieser Grundsätze und Kriterien wird der Art und dem Zweck der kulturellen Aktivität Rechnung getragen.
 
 #### Art. 7
 
@@ -101,13 +160,27 @@ verordnet:
 
 <sup>3</sup> Bei kulturellen Anlässen mit nachhaltiger Wirkung auf den Tourismus kann die in Artikel 32 Absatz 2 des Tourismusgesetzes vorgesehene öffentliche Unterstützung angefordert werden.
 
+#### Art. 7a
+
+**Unterstützung der Kultur- und Kreativwirtschaft**
+
+<sup>1</sup> Der Staat kann einmalige, regelmässige oder erneuerbare Finanzhilfen als Impuls für die Lancierung oder Umsetzung von Projekten mit positiven kulturellen und wirtschaftlichen Auswirkungen im Bereich der Kultur- und Kreativwirtschaft bereitstellen.
+
+<sup>2</sup> Der Staat handelt in Ergänzung und in enger Zusammenarbeit mit allen Akteuren des Bereichs.
+
+<sup>3</sup> Die Unterstützung für Projekte in diesem Bereich wird insbesondere von den für Kultur und für Wirtschaft zuständigen Dienststellen finanziert.
+
+<sup>4</sup> Die Finanzhilfen werden gemeinsam von den für Kultur und für Wirtschaft zuständigen Dienststellen beschlossen.
+
 ## 2 Förderung der kulturellen Aktivitäten durch den Staat
 
 ### 2.1 Mittel
 
 #### Art. 8
 
-<sup>1</sup> Der Staat trägt durch wiederkehrende oder einmalige Subventionen, Stipendien, Käufe, Aufträge, Wettbewerbe und sonstige geeignete Mittel, sowie durch die Tätigkeiten seiner kulturellen Institutionen, zur Kulturförderung bei.
+**Förderung kultureller Aktivitäten durch den Staat**
+
+<sup>1</sup> Der Staat trägt durch Unterstützung in den in Artikel 6a Absatz 1 dieses Gesetzes vorgesehenen Formen, sowie durch die Aktivitäten seiner Institutionen zur Kulturförderung bei.
 
 <sup>2</sup> Er kann sich auch an der Organisation von Veranstaltungen beteiligen und solche selbst organisieren.
 
@@ -119,11 +192,23 @@ verordnet:
 
 <sup>1</sup> Die Subventionen können in Form von finanziellen Zuwendungen und/oder Defizitgarantien gewährt werden.
 
+#### Art. 9a
+
+**Bearbeitung von Personendaten**
+
+<sup>1</sup> Die für die Kultur zuständigen Mitarbeitenden des Staates, die mit der Erfüllung der in diesem Gesetz vorgesehenen Aufgaben von öffentlichem Interesse beauftragten externen Partner sowie die Gemeinden können im Rahmen der Vergabe der in diesem Gesetz vorgesehenen Unterstützung sowie der Förderung kultureller Aktivitäten oder der Organisation kultureller Veranstaltungen folgende Personendaten und besonders schützenswerte Personendaten erheben:
+
+- a) Kontaktdaten von natürlichen oder juristischen Personen;
+- b) Daten über die finanzielle Situation einer natürlichen oder juristischen Person, und
+- c) alle weiteren Daten, die zur Erfüllung der Aufgaben im Sinne von Absatz 2 dieses Artikels erforderlich sind.
+
+<sup>2</sup> Die für die Kultur zuständigen Mitarbeitenden des Staates, die externen Partner im Sinne von Absatz 1 dieser Bestimmung und die Gemeinden können auch Informationen, einschliesslich Personendaten und besonders schützenswerter Personendaten, austauschen, wenn sie im Rahmen eines Förderantrags, der Förderung kultureller Aktivitäten oder der Organisation kultureller Veranstaltungen zusammenarbeiten.
+
 #### Art. 10
 
 **Bedingungen und Auflagen**
 
-<sup>1</sup> Der Subventionsentscheid kann von Bedingungen, wie der Einreichung eines Budgets oder der finanziellen Beteiligung von Gemeinden oder Dritter, abhängig gemacht werden.
+<sup>1</sup> Der Subventionsentscheid muss an Bedingungen, dazu gehören die Einreichung eines Budgets sowie die Angabe anderer Finanzierungsquellen, geknüpft sein.
 
 <sup>2</sup> Er kann auch mit Auflagen, wie dem Vorlegen von Abrechnungen und Tätigkeitsberichten oder dem Erbringen von Leistungen, verbunden werden.
 
@@ -132,6 +217,12 @@ verordnet:
 **Widerruf der Subvention**
 
 <sup>1</sup> Die Subvention wird ganz oder teilweise widerrufen, wenn das Vorhaben, für das sie gewährt wurde, nicht oder nur teilweise verwirklicht wird, wenn sie zu Unrecht bezogen wurde oder wenn eine Bedingung oder eine Auflage nicht erfüllt wird.
+
+#### Art. 11a
+
+**Elektronische Zustellung**
+
+<sup>1</sup> Entscheide können mit Zustimmung der betroffenen Person elektronisch zugestellt werden. Sie sind mit einer elektronischen Signatur im Sinne des Bundesgesetzes über die elektronische Signatur versehen.
 
 #### Art. 12
 
@@ -145,7 +236,7 @@ verordnet:
 
 **Finanzierung**
 
-<sup>1</sup> Die Subventionen, Käufe und Aufträge werden finanziert durch:
+<sup>1</sup> Die Subventionen, Stipendien, Ankäufe, Aufträge, Preise und Wettbewerbe werden finanziert durch:
 
 - a) die jährlich zu diesem Zweck im Staatsvoranschlag vorgesehenen Beträge;
 - b) den kantonalen Kulturfonds.
@@ -163,11 +254,11 @@ verordnet:
 
 **Kunst am Bau**
 
-<sup>1</sup> Treten der Staat, seine Institutionen oder Anstalten als Bauherr auf, so ist im Budget für den Bau oder die bedeutende Renovierung von Gebäuden, Kunstbauten sowie Tiefbauarbeiten, die von sozialem, kulturellem oder touristischem Interesse sind, ein Betrag für Kunst am Bau vorzusehen. Dieser Betrag entspricht einem Prozentsatz des gesamten Baubudgets, der im Reglement zur Kulturförderung festgehalten ist. Die Summe für Kunst am Bau beträgt jedoch nie mehr als 600'000 Franken (LIK Mai 2020 = 100).
+<sup>1</sup> Treten der Staat, seine Institutionen oder Anstalten als Bauherr auf, so ist im Budget für den Bau oder die bedeutende Renovierung von Gebäuden, die von sozialem, kulturellem oder touristischem Interesse sind, ein Betrag für Kunst am Bau vorzusehen. Dieser Betrag entspricht einem Prozentsatz zwischen 0,5 und 1,5 des gesamten Baubudgets, der im Reglement zur Kulturförderung festgehalten ist. Die Summe für Kunst am Bau beträgt jedoch nie mehr als 500’000 Franken (Landesindex der Konsumentenpreise Mai 2020 = 100).
 
-<sup>2</sup> Ist der Bauherr eines vom Staat subventionierten Bauvorhabens oder einer bedeutenden Renovierung gemäss Absatz 1 eine Gemeinde, ein Gemeindeverband oder eine öffentlich-rechtliche Institution, so kann der Bauherr eine Kunst-am-Bau-Intervention vorsehen. In diesem Fall wird die staatliche Subvention für Kunst am Bau zum gleichen Satz wie für den Rest des Bauwerkes berechnet.
+<sup>2</sup> Ist der Bauherr eines vom Staat subventionierten Bauvorhabens oder einer bedeutenden Renovierung gemäss Absatz 1 eine Gemeinde, ein Gemeindeverband oder eine öffentlich-rechtliche Institution, so kann dieser eine Kunst-am-Bau-Intervention vorsehen. In diesem Fall wird die staatliche Subvention für Kunst am Bau zum gleichen Satz wie für den Rest des Bauwerkes berechnet.
 
-<sup>3</sup> Der Staatsrat erlässt ein Reglement über die Berechnungsweise der vorzusehenden Beträge sowie über die Ansätze und die Art der Bauwerke und Arbeiten, die subventioniert werden können.
+<sup>3</sup> Der Staatsrat erlässt ein Reglement über die Berechnungsweise der vorzusehenden Beträge sowie über die Ansätze und die Art der Bauwerke und Arbeiten, die subventioniert werden können. Er muss dabei die Verankerung des Künstlers im kulturellen Leben des betreffenden Gebiets berücksichtigen, etwa durch Wohnsitz, Geschäftssitz, Herkunft oder dem Bestehen einer nachweisbaren Verbindung, vorbehaltlich der Gesetzgebung über das öffentliche Beschaffungswesen.
 
 <sup>4</sup> Der Staatsrat legt auf dem Reglementsweg die Modalitäten für die Erhaltung von Kunst am Bau fest.
 
@@ -179,7 +270,7 @@ verordnet:
 
 <sup>1</sup> Der Staatsrat übt folgende Befugnisse aus:
 
-- a) er erlässt Richtlinien zur Kulturförderung in Übereinstimmung mit dem vorliegenden Gesetz;
+- a) er erlässt, am Anfang jeder Legislaturperiode und auf der Grundlage des Regierungsprogramms, Richtlinien zur Kulturförderung in Übereinstimmung mit dem vorliegenden Gesetz und seinen Grundsätzen;
 - b) er regelt die Organisation und die Arbeitsweise des Kulturrats; er ernennt den Präsidenten, den Vizepräsidenten und die übrigen Mitglieder dieses Rates;
 - c) er legt die Bedingungen für die Subventionsgewährung fest;
 - d) er koordiniert mit andern kantonalen Stellen die Gewährung allfälliger Subventionen für kulturelle Belange;
@@ -193,11 +284,11 @@ verordnet:
 
 - a) es behandelt innerhalb des Staates alle Fragen im Zusammenhang mit der Kulturförderung;
 - b) es verwirklicht die allgemeine Kulturförderungspolitik;
-- c) es entscheidet im Rahmen seiner finanziellen Kompetenzen über die Anträge des Kulturrates;
-- d) es kann jederzeit Fachleute oder Jurys zur Beurteilung von Sonderfällen beiziehen;
+- c) es entscheidet im Rahmen seiner finanziellen Kompetenzen und stützt sich dabei auf die Anträge des Kulturrates oder der Fachkommissionen;
+- d) es kann, wenn dies erforderlich ist, Fachkommissionen einsetzen oder Spezialisten hinzuziehen, um besondere Fälle zu beurteilen;
 - e) es ist im Bereich der Kulturförderung für alle Belange zuständig, die nicht einem anderen Organ übertragen wurden.
 
-<sup>2</sup> In Sonderfällen kann es seine Entscheidungsbefugnis dem Kulturrat oder einer Jury übertragen.
+<sup>2</sup> In Sonderfällen kann es seine Entscheidungsbefugnis dem Kulturrat oder einer Fachkommission übertragen.
 
 #### Art. 18
 
@@ -205,9 +296,9 @@ verordnet:
 
 <sup>1</sup> Der Kulturrat ist ein beratendes Organ, das verwaltungsmässig dem Departement angegliedert ist.
 
-<sup>2</sup> Er besteht aus einem Präsidenten, einem Vizepräsidenten, die je eine der beiden Landessprachen vertreten und elf bis dreizehn weiteren Mitgliedern. Der Departementsvorsteher oder der von ihm ernannte Vertreter nimmt mit beratender Stimme an den Sitzungen teil. Bei der Zusammensetzung des Kulturrats wird den kulturellen Eigenheiten im Kanton Rechnung getragen.
+<sup>2</sup> Er besteht aus einem Präsidenten, einem Vizepräsidenten, die jeweils eine der beiden Amtssprachen vertreten, und aus 11 bis 13 weiteren Mitgliedern. Der Vorsteher des Departements oder ein von ihm ernannter Vertreter nimmt mit beratender Stimme an den Sitzungen teil. Bei der Zusammensetzung des Kulturrats werden die unterschiedlichen kulturellen und sprachlichen Eigenheiten des Kantons sowie die Vertretung der nicht-professionellen Kulturschaffenden berücksichtigt.
 
-<sup>3</sup> Der Kulturrat unterbreitet dem Departement die Anträge für die Zuteilung von Subventionen und Stipendien sowie für Käufe und Aufträge.
+<sup>3</sup> Es gibt, insbesondere zuhanden des Departements, eine Vormeinung für die Zuteilung von punktuellen Fördermitteln und Preisen ab.
 
 <sup>4</sup> Der Kulturrat wird angehört:
 
@@ -215,6 +306,14 @@ verordnet:
 - b) zum Entwurf des Voranschlags für die Förderung der kulturellen Aktivitäten;
 - c) zu den Gesetzes- und Reglementsentwürfen im Zusammenhang mit der Kulturförderung;
 - d) zu allen die Kultur betreffenden Fragen von allgemeiner Bedeutung, die ihm vom Staatsrat oder dem Departement unterbreitet werden.
+
+#### Art. 18a
+
+**Fachkommissionen**
+
+<sup>1</sup> Auf Vorschlag der für die Kultur zuständigen Dienststelle kann das Departement Fachkommissionen einsetzen, die sich aus Fachleuten des betreffenden Bereichs zusammensetzen und von denen mindestens ein Mitglied auch Mitglied des Kulturrats ist.
+
+<sup>2</sup> Die Fachkommissionen geben dem Departement Vormeinungen zu punktuellen, regelmässigen oder erneuerbaren Fördermitteln ab.
 
 ## 3 Bewahrung des Kulturerbes
 
@@ -324,6 +423,7 @@ verordnet:
 - a) das Staatsarchiv;
 - b) die Kantonsbibliothek;
 - c) die kantonalen Museen;
+- c<sup>bis</sup>) die Kantonsarchäologie;
 - d) jede andere Institution, welcher der Staatsrat den Status einer kantonalen Institution gewährt.
 
 #### Art. 22
@@ -348,9 +448,21 @@ verordnet:
 
 <sup>3</sup> Die Institutionen beteiligen sich an der Erforschung des kulturellen und wissenschaftlichen Erbes des Wallis. In diesem Sinne arbeiten sie mit Institutionen und Personen zusammen, die ähnliche Ziele verfolgen.
 
-<sup>4</sup> Sie bieten Schülern, Lehrlingen und Studenten, Lehrpersonen aller Stufen und Forschern besondere Informations- und Forschungsmöglichkeiten.
+<sup>4</sup> Sie bieten Personen in Ausbildung, Lehrpersonen aller Stufen und Forschenden günstige Zugangsmöglichkeiten zu Information und Forschung.
 
 <sup>5</sup> Sie bieten der Öffentlichkeit alle ihr zur Verfügung stehenden Informationen an und benützen hierfür die geeignetsten und modernsten, ihnen zur Verfügung stehenden Kommunikationsmittel.
+
+#### Art. 24a
+
+**Bearbeitung von Personendaten**
+
+<sup>1</sup> Die für staatliche Kulturinstitutionen im Sinne von Artikel 21 dieses Gesetzes tätigen Mitarbeitenden des Staates und externe Partner, die von diesen mit der Verwaltung der für die Erfüllung ihrer Aufgaben erforderlichen Fachdatenbanken beauftragt sind, sind berechtigt, folgende Personendaten und besonders schützenswerte Personendaten zu erheben und zu bearbeiten:
+
+- a) Kontaktdaten von natürlichen oder juristischen Personen;
+- b) Daten über die finanzielle Situation einer natürlichen oder juristischen Person, und
+- c) alle weiteren Daten, die zur Erfüllung der Aufgaben im Sinne von Absatz 2 dieses Artikels erforderlich sind.
+
+<sup>2</sup> Die für staatliche Kulturinstitutionen im Sinne von Artikel 21 dieses Gesetzes tätigen Mitarbeitenden des Staates und externer Partner, die von diesen mit der Verwaltung der für die Erfüllung ihrer Aufgaben erforderlichen Fachdatenbanken beauftragt sind, können ebenfalls Informationen, einschliesslich Personendaten und besonders schützenswerter Personendaten, austauschen.
 
 ### 4.2 Organisation
 
@@ -370,7 +482,7 @@ verordnet:
 
 <sup>1</sup> Das Departement:
 
-- a) achtet darauf, dass die Tätigkeit der Institutionen mit den Zielen des Gesetzes übereinstimmt;
+- a) achtet darauf, dass die Aktivitäten der Institutionen mit den Zielen und Grundsätzen dieses Gesetzes übereinstimmen;
 - b) gewährleistet die Koordination unter den Institutionen und fördert deren Zusammenarbeit;
 - c) kann den Institutionen besondere Aufgaben übertragen, die mit ihren eigenen Obliegenheiten in Verbindung stehen;
 - d) kann die Benutzung von Räumlichkeiten und Grundstücken durch Dritte bewilligen, sofern dies der Institution nicht nachteilig ist;
@@ -411,7 +523,7 @@ verordnet:
 <sup>1</sup> Zweck des Archivs ist:
 
 - a) die Archivbestände des Staates, seiner Institutionen, der Zentralverwaltung und ihrer dezentralisierten Dienststellen zu sammeln, aufzubewahren, zu erschliessen und öffentlich zugänglich zu machen;
-- b) die Vorarchivierung der Unterlagen in den kantonalen Institutionen und Dienststellen der Verwaltung zu überwachen;
+- b) die Verfahren und Instrumente zur Verwaltung von Dokumenten und Archiven in den kantonalen Institutionen und Dienststellen der Verwaltung zu überwachen;
 - c) die Gemeinden, Burgerschaften, Pfarreien und andere juristische Personen des öffentlichen Rechts sowie die Institutionen von öffentlichem Nutzen in Archivierungsfragen zu beraten;
 - d) Gemeinde- und Burgerarchive zu beaufsichtigen;
 - e) Archivgut und Nachlässe von Personen des privaten oder öffentlichen Rechts von regionaler oder kantonaler Bedeutung zu übernehmen und dies vertraglich zu regeln;
@@ -426,10 +538,11 @@ verordnet:
 
 **Kantonsbibliothek a) Auftrag**
 
-<sup>1</sup> Die Kantonsbibliothek (nachstehend: Bibliothek):
+<sup>1</sup> Die Kantonsbibliothek, auch Mediathek Wallis genannt (nachstehend: Bibliothek):
 
 - a) bewahrt und erschliesst die ihr anvertraute Dokumentensammlung und macht sie der Öffentlichkeit zugänglich;
-- b) macht die für die Öffentlichkeit notwendigen Informationsquellen zugänglich und erleichtert deren Gebrauch.
+- b) macht die für die Öffentlichkeit nützlichen Informationsquellen zugänglich und erleichtert deren Verwendung;
+- c) stellt die Koordination des Netzwerks der wissenschaftlichen Bibliotheken des Wallis sicher.
 
 #### Art. 33
 
@@ -438,12 +551,13 @@ verordnet:
 <sup>1</sup> Zweck der Bibliothek ist:
 
 - a) Bücher und Drucksachen, Bild- und Tondokumente, insbesondere Foto-, Filmmaterial und Tonaufnahmen sowie andere das Wallis betreffende Informationsträger zu sammeln, zu erwerben, zu verzeichnen, aufzubewahren, zu erschliessen und zugänglich zu machen;
-- b) Dokumentensammlungen, andere Informationsquellen und einen für die Aus- und Allgemeinbildung notwendigen Informationsdienst öffentlich zugänglich zu machen;
+- b) Dokumentensammlungen, andere Informationsquellen, Arbeitsbereiche und einen für die Aus- und Allgemeinbildung notwendigen Informationsdienst öffentlich zugänglich zu machen;
 - c) ihre Sammlungen durch Veröffentlichungen, Ausstellungen oder andere Mittel zur Geltung zu bringen;
 - d) die Verbreitung literarischer und audiovisueller Walliser Werke zu fördern;
 - e) sich durch Anschluss an Datennetze am Austausch von Informationen und der Zusammenarbeit mit anderen Bibliotheken auf nationaler und internationaler Ebene zu beteiligen und der Öffentlichkeit den Zugriff zu den Datennetzen zu ermöglichen;
 - f) die Entwicklung und Koordination der öffentlichen Bibliotheken im Kanton zu fördern;
-- g) die Zusammenarbeit zwischen Bibliotheken und Dokumentationsstellen und ikonographischen Zentren des Staates zu gewährleisten.
+- g) die Zusammenarbeit zwischen den Bibliotheken, den Dokumentationsstellen und den ikonographischen Zentren des Staates zu gewährleisten;
+- h) die Koordination und Animation eines Netzwerks von wissenschaftlichen Bibliotheken im Zusammenhang mit der tertiären Bildung sicherzustellen.
 
 #### Art. 34
 
@@ -472,23 +586,41 @@ verordnet:
 - c) die dem Staat gehörenden oder unter seiner Verantwortung stehenden und keiner anderen Institution anvertrauten beweglichen Kulturgüter zu inventarisieren, für deren Sicherheit, deren Wartung und gegebenenfalls für deren Restaurierung zu sorgen;
 - d) die Zusammenarbeit zwischen den kantonalen Museen und Institutionen mit ähnlicher Zielsetzung zu fördern, insbesondere um die ihnen anvertrauten Kulturgüter zu erhalten und sie geeignet zur Geltung zu bringen.
 
-### 4.4 Musikschulen
+#### Art. 36.1
+
+**Kantonsarchäologie a) Aufgabe**
+
+<sup>1</sup> Die Kantonsarchäologie ist für die administrative und rechtliche Betreuung von Bauten in archäologischen Schutzbereichen zuständig. Sie sammelt, untersucht, bewahrt und verwertet das Material und die Dokumentation aus den Ausgrabungen bis zu ihrer Überführung, grundsätzlich nach ihrer Erforschung, in die öffentlichen Sammlungen der kantonalen Museen. Diese Aufgaben können an Dritte vergeben werden.
+
+#### Art. 36.2
+
+**b) Ziele**
+
+<sup>1</sup> Die Kantonsarchäologie verfolgt folgende Ziele:
+
+- a) das Material und die Dokumente aus archäologischen Ausgrabungen auf dem Kantonsgebiet bis zu deren Überführung, grundsätzlich nach ihrer Erforschung, in die öffentlichen Sammlungen der Kantonsmuseen für Gegenstände und in das Kantonsarchiv für Dokumente, zu sammeln, zu untersuchen, aufzubewahren und aufzuwerten;
+- b) die wissenschaftlichen Forschungsarbeiten aufzuwerten, namentlich durch Veröffentlichungen oder jedes andere Mittel;
+- c) die in der kantonalen Gesetzgebung über das Bauwesen sowie den Natur- und Heimatschutz festgelegten Ziele einzuhalten.
+
+### 4.4 Musikschulen und Ausbildungsstätten im Bereich der darstellenden Künste – Theater, Tanz und Zirkus (im Folgenden zusammengefasst als «darstellende Künste»)
 
 #### Art. 36a
 
 **Anerkennung**
 
-<sup>1</sup> Der Staat anerkennt, im Sinne des vorliegenden Gesetzes, die nicht professionell zertifizierenden Musikschulen (nachstehend: Musikschulen), welche die Voraussetzungen und Kriterien für die Anerkennung erfüllen, die auf dem Vereinbarungsweg zwischen dem Staat und dem Verband der Walliser Musikschulen (nachstehend: Verband) festgelegt wurden.
+<sup>1</sup> Der Staat anerkennt, im Sinne des vorliegenden Gesetzes, gemeinnützige Musikschulen, die keine Berufsabschlüsse verleihen (nachstehend: Musikschulen), welche die Voraussetzungen und Kriterien für die Anerkennung erfüllen, die auf dem Vereinbarungsweg zwischen dem Staat und dem Verband der Walliser Musikschulen festgelegt wurden.
 
-<sup>2</sup> Um anerkannt zu werden, muss eine Musikschule mindestens auf Ebene einer Region im Sinne des Gesetzes über die Regionalpolitik mit dezentralen Unterrichtsorten breite und vielfältige Ausbildungsmöglichkeiten anbieten können. Vom Zeitpunkt ihrer Anerkennung durch den Staatsrat an wird die Schule von Amtes wegen Mitglied des Verbands.
+<sup>1<sup>bis</sup></sup> Der Staat anerkennt, im Sinne des vorliegenden Gesetzes, gemeinnützige Schulen für kulturelle Ausbildung im Bereich der darstellenden Künste, die keine Berufsabschlüsse verleihen (nachstehend: Schulen für kulturelle Ausbildung), welche die Voraussetzungen und Kriterien für die Anerkennung erfüllen, die auf dem Vereinbarungsweg zwischen dem Staat und dem Verband der Schule für kulturelle Ausbildung im Bereich der darstellenden Künste festgelegt wurden.
 
-<sup>3</sup> Diese Anerkennung bildet Gegenstand einer Vereinbarung zwischen dem Staat und der Musikschule.
+<sup>2</sup> Um anerkannt zu werden, müssen die Musikschulen oder die Schulen für kulturelle Ausbildung in der Lage sein, ein breites und vielfältiges Bildungsangebot mindestens auf regionaler Ebene mit dezentralen Unterrichtsorten anzubieten. Ab dem Zeitpunkt ihrer Anerkennung durch den Staatsrat werden die Schulen von Amtes wegen Mitglied des Verbands der Walliser Musikschulen und des Verbands der Schulen für kulturelle Ausbildung der betreffenden Bereiche.
+
+<sup>3</sup> Diese Anerkennung bildet Gegenstand einer Vereinbarung zwischen dem Staat und den betreffenden Schulen.
 
 #### Art. 36b
 
 **Konsultativkommission**
 
-<sup>1</sup> Es wird eine Konsultativkommission eingesetzt, in welcher der Staat, die Gemeinden, der Verband und die kantonalen Musikverbände vertreten sind. Diese wird vor jedem Anerkennungsentscheid durch den Staatsrat zu Rate gezogen. Sie nimmt ebenfalls Stellung zu den Vereinbarungsprojekten zwischen dem Staat und dem Verband sowie zwischen dem Staat und einer Musikschule. Überdies wird sie zum Modus der Berechnung der Subventionen durch den Kanton und die Gemeinden angehört. Der Staat kann die Kommission ausserdem zu allen Fragen im Zusammenhang mit der nicht professionell orientierten Musikausbildung konsultieren.
+<sup>1</sup> Es wird eine Konsultativkommission eingesetzt, in welcher der Staat, die Gemeinden, der Verband der kantonalen Musikschulen, der Verband der Schulen für kulturelle Ausbildung der betreffenden Bereiche und die auf kantonaler oder regionaler Ebene im Bereich der Musik und der darstellenden Künste aktiven Verbände vertreten sind. Diese wird vor jedem Anerkennungsentscheid durch den Staatsrat konsultiert und nimmt Stellung zu den Vereinbarungsentwürfen zwischen dem Staat und einem Verband sowie zwischen dem Staat und einer Musikschule oder einer Schule für kulturelle Ausbildung. Überdies wird sie zum Modus der Berechnung der durch den Kanton und die Gemeinden subventionierbaren Kosten angehört. Der Staat kann die Kommission ausserdem zu allen Fragen im Zusammenhang mit der Ausbildung in Musik oder in den darstellenden Künsten konsultieren.
 
 <sup>2</sup> Die Arbeitsweise der Kommission wird in Ausführungsbestimmungen festgelegt.
 
@@ -496,17 +628,17 @@ verordnet:
 
 **Finanzierung**
 
-<sup>1</sup> Der Staat beteiligt sich an der Finanzierung der anerkannten Musikschulen. Die Gemeinden können sich für eine Beteiligung entscheiden.
+<sup>1</sup> Der Staat und die Gemeinden beteiligen sich an der Finanzierung der anerkannten Musikschulen und der Schulen für kulturelle Ausbildung im Bereich der darstellenden Künste.
 
-<sup>2</sup> Die finanzielle Beteiligung des Staates beläuft sich auf 40 Prozent der subventionsberechtigten Kosten im Sinne von Absatz 4.
+<sup>2</sup> Die finanzielle Beteiligung des Staates beträgt 50 Prozent der gemäss Absatz 4 berücksichtigten Kosten.
 
-<sup>3</sup> Die Gemeinden entrichten auf freiwilliger Basis einen prozentualen Beitrag, den sie mit den Musikschulen vereinbaren und der auf der Grundlage der berücksichtigt Kosten gemäss Absatz 4 berechnet wird. Dieser Beitrag wird von den Kursgebühren der Schüler, die auf ihrem Gemeindegebiet wohnen, abgezogen.
+<sup>3</sup> Der finanzielle Beitrag der Gemeinden für Schüler mit Wohnsitz auf ihrem Gebiet beträgt mindestens 10 Prozent der gemäss Absatz 4 berücksichtigten Kosten. Ihr Beitrag wird von den Studiengebühren der auf ihrem Gebiet wohnhaften Schüler abgezogen.
 
 <sup>4</sup> Nach Stellungnahme der Konsultativkommission legt der Staatsrat die Berechnungsart der Kosten fest, die im Sinne des vorliegenden Gesetztes subventioniert werden können, nämlich die Personalkosten, die Weiterbildungskosten des Lehrpersonals, die Verwaltungskosten, die Anschaffungs- und Unterhaltskosten der für den Unterricht notwendigen Lehrmittel und Instrumente sowie die Unterhaltskosten der Räumlichkeiten, mit Ausnahme der Miet- und Bereitstellungskosten. Die Kategorien der berücksichtigten Kosten sind im Reglement aufgeführt.
 
-<sup>5</sup> Die Beteiligung des Staates und der freiwillige Beitrag der Gemeinden werden anhand der Anzahl Lektionen pro jungen Schüler mit Wohnsitz in der entsprechenden Gemeinde berechnet. Die Begriffe Lektion und junger Schüler sind im Reglement definiert.
+<sup>5</sup> Die Beteiligung des Staates und der Gemeinden wird anhand der Anzahl Lektionen pro jungen Schüler mit Wohnsitz auf dem entsprechenden Gemeindegebiet berechnet. Die Begriffe Lektion und junger Schüler sind im Reglement definiert.
 
-<sup>6</sup> Nach Anhörung des Verbands bestimmt der Staat vor Beginn jedes Schuljahres die Zahl der subventionierten Lektionen für sämtliche Musikschulen.
+<sup>6</sup> Nach Anhörung des Verbands des entsprechenden Bereichs bestimmt der Staat vor Beginn jedes Schuljahres die Zahl der subventionierten Lektionen für sämtliche Musikschulen und Schulen für kulturelle Ausbildung.
 
 #### Art. 36d
 
@@ -518,7 +650,7 @@ verordnet:
 
 **Dezentralisierung des Unterrichts**
 
-<sup>1</sup> Der Staat animiert die Musikschulen nach Rücksprache mit den Gemeinden dezentrale Unterrichtsorte zu schaffen.
+<sup>1</sup> Der Staat animiert die Musikschulen und die Schulen für kulturelle Ausbildung im Bereich der darstellenden Künste nach Rücksprache mit den Gemeinden, dezentrale Unterrichtsorte zu schaffen.
 
 ## 5 Schlussbestimmungen
 

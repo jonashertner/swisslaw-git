@@ -4,13 +4,12 @@ number: "440.1"
 title: Loi sur la promotion de la culture
 short: LPrC
 language: fr
-version: 2025-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-11-14
+version: 2026-09-01
+version_adopted: 2026-03-13
 adopted: 1996-11-15
 in_force: 1997-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/440.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3433/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3644/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3433/pdf_file"
 
 (LPrC)
 
-du 15.11.1996 (état 01.01.2025)
+du 15.11.1996 (état 01.09.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -37,26 +36,58 @@ ordonne:
 
 <sup>2</sup> Elle a pour objet la promotion de la culture dans les domaines suivants:
 
-- a) la création, la diffusion, la médiation, la participation et la formation culturelles;
+- a) la recherche, la création, la diffusion, la médiation, la participation et la formation culturelles;
 - b) la sauvegarde, l'étude et la transmission du patrimoine culturel mobilier, documentaire, immatériel et linguistique.
 
 ## 1 Dispositions générales
 
+#### Art. 1a
+
+**Définitions**
+
+<sup>1</sup> Dans la présente loi, les notions ci-dessous sont définies comme suit:
+
+- a) accès à la culture: ensemble des mesures favorisant la mise en relation de la culture avec le public, comprenant notamment la présentation publique, la sensibilisation, la médiation et la participation culturelles;
+- b) acteur culturel: toute personne physique menant des activités culturelles;
+- c) institutions culturelles: les entités qui, au bénéfice d’une infrastructure ou, à défaut, d’une organisation pérenne, exercent une activité culturelle ou offrent une programmation culturelle au public de manière régulière;
+- d) activités culturelles: ensemble des actions comprenant la production culturelle et l’accès à la culture, ponctuel ou permanent, amateur ou professionnel, ainsi que la sauvegarde et la valorisation du patrimoine culturel mobilier, documentaire, immatériel et linguistique;
+- e) infrastructure culturelle: bâtiment ou équipement pérenne dévolu principalement à des activités culturelles;
+- f) industries culturelles et créatives: ensemble des secteurs d’activité ayant comme objet principal la création, le développement, la production, la reproduction, la promotion, la diffusion ou la commercialisation de biens, de services et activités qui ont un contenu culturel, artistique et/ou patrimonial;
+- g) production culturelle: processus permettant la réalisation d’une œuvre culturelle.
+
 #### Art. 2
 
-**Principe**
+**Principes**
 
-<sup>1</sup> L'Etat et les communes soutiennent les activités de personnes et d'institutions privées; ils prennent des initiatives conformément à la mission que la loi leur confie, dans le respect de la liberté de création et d'expression.
+<sup>1</sup> L'Etat et les communes soutiennent les activités de personnes et d'institutions privées; ils exercent un rôle d'encouragement, d'impulsion et de soutien des activités culturelles et prennent des initiatives conformément à la mission que la loi leur confie.
+
+<sup>2</sup> Dans le cadre de leur mission, l’Etat et les communes veillent notamment au respect des principes suivants:
+
+- a) la diversité des activités culturelles, qu’elles relèvent d’amateurs ou de professionnels;
+- b) la liberté de l’art et la liberté d’expression;
+- c) les droits culturels, en particulier l’accès à la culture et la participation culturelle pour tous;
+- d) la durabilité sociale, économique et environnementale des activités culturelles;
+- e) le respect de conditions de travail équitables pour les acteurs culturels.
+
+<sup>3</sup> L’Etat et les communes veillent également à la cohérence de leurs actions en matière de politique culturelle et d'encouragement à la culture, en particulier dans les domaines de la formation, de la cohésion sociale, de la santé et du développement économique et touristique.
 
 #### Art. 3
 
 **Mission de l'Etat a) En général**
 
-<sup>1</sup> L'Etat contribue à la promotion de la culture, particulièrement dans le domaine de la création.
+<sup>1</sup> L'Etat contribue à la promotion de la culture, notamment dans les domaines suivants: littérature, arts visuels, musique, arts de la scène, audiovisuel, arts numériques, patrimoine culturel et activités interdisciplinaires.
 
 <sup>2</sup> Il contribue également à la sauvegarde, à l’étude et à la transmission du patrimoine culturel et à la connaissance de celui-ci par le public.
 
 <sup>3</sup> Il favorise l'accès de chacun à la culture et participe à la vie culturelle.
+
+<sup>4</sup> Les missions et responsabilités suivantes sont du ressort principal de l'Etat:
+
+- a) soutien à la production culturelle professionnelle;
+- b) soutien à des activités culturelles et des programmes d’encouragement d'envergure cantonale;
+- c) encouragement à la coopération culturelle et collaboration sur les plans cantonal, intercantonal, national et international, notamment dans le cadre de dispositifs mutualisés de soutien ou d’institutions communes et soutien à la circulation des œuvres culturelles professionnelles et à leur diffusion dans et hors du canton;
+- d) soutien et encouragement à des projets culturels interdisciplinaires;
+- e) soutien et encouragement aux communes qui le souhaitent à se constituer en régions culturelles afin de renforcer les synergies locales et stimuler l'activité culturelle régionale.
 
 #### Art. 4
 
@@ -64,7 +95,8 @@ ordonne:
 
 <sup>1</sup> Dans l'exercice de sa mission, l'Etat:
 
-- a) respecte les identités régionales et sociales;
+- a) respecte les identités régionales et sociales et favorise le bilinguisme et la compréhension mutuelle entre les communautés;
+- a<sup>bis</sup>) soutient par des actions concrètes et pérennes les activités culturelles traitant du bilinguisme;
 - b) tient compte de la diversité des disciplines et des expressions culturelles;
 - c) veille à une répartition équitable des activités culturelles dans le canton;
 - d) favorise les échanges à l'intérieur du canton et avec l'extérieur.
@@ -77,19 +109,46 @@ ordonne:
 
 - a) attribue des aides financières et met en oeuvre tout autre moyen approprié de promotion;
 - b) crée et gère des institutions publiques telles qu'archives, bibliothèques ou musées;
-- c) veille à ce que l'instruction et l'éducation dans les écoles à tous les niveaux favorisent la vie culturelle;
+- c) veille à ce que la formation proposée dans les écoles à tous les niveaux intègre la vie culturelle au moyen de dispositifs financés conjointement par les services de la culture, de l'enseignement et de la formation professionnelle;
 - d) soutient la formation dans le domaine culturel;
-- e) peut accorder des aides financières pour des investissements à caractère culturel d'intérêt cantonal.
+- e) peut accorder des aides financières pour des investissements à caractère culturel d'intérêt régional ou cantonal;
+- f) assure soutien et conseils aux acteurs culturels par l'intermédiaire du service en charge de la culture ou d'organismes publics ou privés à qui il peut déléguer cette tâche.
 
 #### Art. 6
 
 **Mission des communes**
 
-<sup>1</sup> Les communes contribuent à la promotion de la culture, notamment dans les domaines de l'animation et de la formation. Elles agissent de manière autonome et prennent les mesures d'organisation nécessaires.
+<sup>1</sup> Les communes contribuent à la promotion de la culture en soutenant notamment les activités culturelles professionnelles et amateures locales, en particulier dans les domaines de l’animation, de la formation ainsi que les institutions et infrastructures culturelles locales. Elles agissent de manière autonome et prennent les mesures d'organisation nécessaires.
 
 <sup>2</sup> Lors de la réalisation de projets d'importance régionale, elles recherchent entre elles une étroite coopération.
 
-<sup>3</sup> Elles veillent à la sauvegarde et à la promotion du patrimoine culturel et assument en particulier le rôle que leur confie la législation spéciale.
+<sup>3</sup> Elles veillent à la sauvegarde et à la promotion du patrimoine culturel d'intérêt local et assument en particulier le rôle que leur confie la législation spéciale.
+
+#### Art. 6a
+
+**Modalités de soutien**
+
+<sup>1</sup> Pour atteindre les buts fixés, l’Etat et les communes peuvent attribuer leurs soutiens sous les formes suivantes:
+
+- a) allocations d’aides financières ponctuelles, périodiques ou renouvelables telles que: prêts sans intérêts, subventions, prix et bourses;
+- b) achats ou commandes d’oeuvres, concours, financements d’interventions artistiques sur des infrastructures publiques;
+- c) prestations directes et soutiens logistiques;
+- d) toute autre forme de soutien appropriée.
+
+<sup>2</sup> Dans l’allocation de ces soutiens, l’Etat et les communes tiennent notamment compte des principes évoqués à l’article 2 alinéa 2. Ils peuvent en outre tenir compte des critères suivants:
+
+- a) la qualité et la pertinence artistiques, culturelles et scientifiques;
+- b) l’impact culturel;
+- c) l’intégration de domaines culturels sous-représentés;
+- d) le caractère amateur ou professionnel;
+- e) la viabilité et la durabilité économiques;
+- f) le respect de conditions de rémunération conformes aux directives des associations faîtières reconnues par le département en charge de la culture, notamment en termes d'égalité salariale et de prévoyance professionnelle;
+- g) l’ancrage dans la vie culturelle du territoire concerné, tel que le domicile, le siège social, les origines ou existence d’un lien avéré;
+- h) le rayonnement culturel;
+- i) la nécessité, l'utilité et l'efficacité d'un soutien;
+- j) l'accessibilité aux personnes en situation de handicap.
+
+<sup>3</sup> L’application de ces principes et critères tient compte de la nature et de l’objectif de l’activité culturelle.
 
 #### Art. 7
 
@@ -101,13 +160,27 @@ ordonne:
 
 <sup>3</sup> Lorsqu'il est établi qu'une manifestation culturelle a un impact touristique notoire, il peut être fait appel aux aides publiques prévues à l'article 32 alinéa 2 de la loi sur le tourisme.
 
+#### Art. 7a
+
+**Soutien aux industries culturelles et créatives**
+
+<sup>1</sup> L’Etat peut apporter des aides financières ponctuelles, périodiques ou renouvelables, afin de donner une impulsion au lancement ou à la réalisation de projets ayant un impact culturel et économique positif dans le domaine des industries culturelles et créatives.
+
+<sup>2</sup> L’Etat agit en complémentarité et en étroite collaboration avec l’ensemble des acteurs du domaine.
+
+<sup>3</sup> Le soutien aux projets réalisés dans le domaine est notamment financé par les services en charge de la culture et de l’économie.
+
+<sup>4</sup> Les aides financières sont décidées conjointement par les services en charge de la culture et de l'économie.
+
 ## 2 Promotion des activités culturelles par l'Etat
 
 ### 2.1 Moyens
 
 #### Art. 8
 
-<sup>1</sup> L'Etat contribue à la promotion des activités culturelles par des subventions périodiques ou uniques, bourses, achats, commandes, concours ou tout autre moyen approprié, ainsi que par les activités de ses institutions.
+**Promotion des activités culturelles par l'Etat**
+
+<sup>1</sup> L'Etat contribue à la promotion des activités culturelles par des soutiens qui peuvent prendre les formes prévues à l’article 6a alinéa 1 de la présente loi, ainsi que par les activités de ses institutions.
 
 <sup>2</sup> Il peut aussi participer à l'organisation de manifestations et en organiser lui-même.
 
@@ -119,11 +192,23 @@ ordonne:
 
 <sup>1</sup> Les subventions peuvent prendre la forme d'attributions financières et/ou de garanties de déficit.
 
+#### Art. 9a
+
+**Traitement des données personnelles**
+
+<sup>1</sup> Les collaborateurs de l’Etat en charge de la culture, les partenaires externes mandatés pour accomplir les tâches d’utilité publique prévues par la présente loi, ainsi que les communes peuvent récolter les données personnelles et sensibles suivantes dans le cadre de l’attribution des soutiens prévus par la présente loi, ainsi que de la promotion des activités culturelles ou de l’organisation de manifestations culturelles:
+
+- a) les coordonnées de personnes physiques ou morales;
+- b) les données relatives à la situation financière d’une personne physique ou morale et
+- c) toutes autres données nécessaires à l’accomplissement des tâches au sens de l’alinéa 2 du présent article.
+
+<sup>2</sup> Les collaborateurs de l’Etat en charge de la culture, les partenaires externes au sens de l’alinéa 1 de la présente disposition et les communes peuvent également échanger des informations, y compris des données personnelles et sensibles, lorsqu’ils sont amenés à collaborer dans le cadre d’une demande de soutien, la promotion des activités culturelles ou l’organisation de manifestations culturelles.
+
 #### Art. 10
 
 **Conditions et charges**
 
-<sup>1</sup> La décision de subvention peut être assortie de conditions telles que la présentation d'un budget ou la participation financière de communes ou de tiers.
+<sup>1</sup> La décision de subvention doit être assortie de conditions comprenant la présentation d'un budget et de toute autre source de financement.
 
 <sup>2</sup> Elle peut aussi être assortie de charges telles que la présentation de comptes et de rapports d'activité ou la réalisation d'une prestation.
 
@@ -132,6 +217,12 @@ ordonne:
 **Révocation de la subvention**
 
 <sup>1</sup> La subvention est révoquée, en tout ou en partie, lorsque le projet pour lequel elle a été attribuée n'est pas réalisé ou ne l'est que partiellement, lorsqu'elle a été obtenue par fraude ou lorsqu'une condition ou une charge n'est pas respectée.
+
+#### Art. 11a
+
+**Notification par voie électronique**
+
+<sup>1</sup> Les décisions peuvent être notifiées par voie électronique avec l’accord de la personne concernée. Elles sont munies d’une signature électronique au sens de la loi fédérale sur la signature électronique.
 
 #### Art. 12
 
@@ -145,7 +236,7 @@ ordonne:
 
 **Ressources**
 
-<sup>1</sup> L'attribution de subventions, les achats et les commandes sont financés par:
+<sup>1</sup> L'attribution de subventions, les bourses, les achats, les commandes, les prix et les concours sont financés par:
 
 - a) les montants prévus chaque année dans ces buts au budget de l'Etat;
 - b) le Fonds cantonal de la culture.
@@ -163,11 +254,11 @@ ordonne:
 
 **Intervention artistique sur les constructions**
 
-<sup>1</sup> Lorsque l’Etat, ses institutions ou ses établissements en sont les maîtres d’ouvrage, les budgets de construction ou de restauration importante de bâtiments, d’ouvrages d’art ainsi que de constructions et aménagements de génie civil qui représentent un intérêt social, culturel ou touristique comprennent un montant réservé à l’intervention artistique. Ce montant représente un pourcentage de l’ensemble du budget dédié à la construction qui figure dans le règlement sur la promotion de la culture. La somme réservée à l'intervention artistique n'est cependant jamais supérieure à 600'000 francs (indice des prix à la consommation mai 2020 = 100).
+<sup>1</sup> Lorsque l’Etat, ses institutions ou ses établissements en sont les maîtres d’ouvrage, les budgets de construction ou de restauration importante de bâtiments qui représentent un intérêt social, culturel ou touristique comprennent un montant réservé à l’intervention artistique. Ce montant représente un pourcentage compris entre 0.5 et 1.5 de l’ensemble du budget dédié à la construction qui figure dans le règlement sur la promotion de la culture. La somme réservée à l'intervention artistique n'est cependant jamais supérieure à 500'000 francs (indice des prix à la consommation mai 2020 = 100).
 
 <sup>2</sup> Lorsque le maître d’ouvrage d’une construction ou d’une rénovation importante au sens de l’alinéa 1 est une commune, une association de communes ou une institution de droit public et que cette construction est subventionnée par l’Etat, le maître d’ouvrage peut prévoir une intervention artistique, le cas échéant, celle-ci est mise au bénéfice de la subvention cantonale au même titre que la construction elle-même.
 
-<sup>3</sup> Le Conseil d’Etat édicte un règlement sur le mode de calcul des montants à réserver et sur les taux et la nature des constructions et travaux qui peuvent faire l’objet d’une subvention.
+<sup>3</sup> Le Conseil d’Etat édicte un règlement sur le mode de calcul des montants à réserver et sur les taux et la nature des constructions et travaux qui peuvent faire l’objet d’une subvention. Il doit tenir compte de l'ancrage de l'artiste dans la vie culturelle du territoire concerné, tel que le domicile, le siège social, les origines ou l'existence d'un lien avéré, sous réserve de la législation sur les marchés publics.
 
 <sup>4</sup> Le Conseil d’Etat fixe dans le règlement les modalités de conservation des interventions artistiques.
 
@@ -179,7 +270,7 @@ ordonne:
 
 <sup>1</sup> Le Conseil d'Etat exerce les attributions suivantes:
 
-- a) il définit les lignes directrices en matière de promotion des activités culturelles en conformité avec la présente loi;
+- a) il définit, au début de chaque législature et sur la base du programme gouvernemental, les lignes directrices en matière de promotion des activités culturelles en conformité avec la présente loi et ses principes;
 - b) il arrête l'organisation et le fonctionnement du Conseil de la culture dont il nomme le président, le vice-président et les autres membres;
 - c) il arrête les conditions d'octroi des subventions;
 - d) il veille à la coordination des autres instances cantonales distributives de subventions touchant la culture;
@@ -193,11 +284,11 @@ ordonne:
 
 - a) il traite, au sein de l'Etat, l'ensemble des questions qui relèvent de la promotion des activités culturelles;
 - b) il met en oeuvre la politique générale de promotion des activités culturelles;
-- c) il décide, dans le cadre de ses compétences financières, sur les propositions du Conseil de la culture;
-- d) il peut en tout temps instituer des jurys ou faire appel à des spécialistes pour apprécier des cas particuliers;
+- c) il décide, dans le cadre de ses compétences financières, en se fondant sur les propositions du Conseil de la culture ou des commissions spécialisées;
+- d) il peut, lorsque cela est nécessaire, instituer des commissions spécialisées ou faire appel à des spécialistes pour apprécier des cas particuliers;
 - e) il exerce les attributions relatives à la promotion des activités culturelles qui ne sont pas confiées à un autre organe.
 
-<sup>2</sup> Il peut déléguer sa compétence de décision, pour des objets particuliers, au Conseil de la culture ou à un jury.
+<sup>2</sup> Il peut déléguer sa compétence de décision, pour des objets particuliers, au Conseil de la culture ou à une commission spécialisée.
 
 #### Art. 18
 
@@ -205,9 +296,9 @@ ordonne:
 
 <sup>1</sup> Le Conseil de la culture (ci-après: le conseil) est un organe consultatif rattaché administrativement au département.
 
-<sup>2</sup> Il est composé d'un président, d'un vice-président représentant chacune des deux langues officielles et de onze à treize autres membres. Le chef du département ou le représentant désigné par lui prend part aux séances avec voix consultative. La composition du Conseil de la culture respecte la diversité des identités culturelles du canton.
+<sup>2</sup> Il est composé d'un président, d'un vice-président représentant chacune des deux langues officielles et de 11 à 13 autres membres. Le chef du département ou le représentant désigné par lui prend part aux séances avec voix consultative. La composition du Conseil de la culture respecte la diversité des identités culturelles et linguistiques du canton ainsi que la représentation des acteurs culturels non professionnels.
 
-<sup>3</sup> Il préavise à l'attention du département l'attribution des subventions, des bourses, des achats et des commandes.
+<sup>3</sup> Il préavise notamment à l'attention du département l'attribution de soutiens ponctuels et de prix.
 
 <sup>4</sup> Le conseil est consulté sur:
 
@@ -215,6 +306,14 @@ ordonne:
 - b) le projet de budget relatif à la promotion des activités culturelles;
 - c) les projets de lois et de règlements relatifs à la promotion de la culture;
 - d) toute question culturelle de portée générale dont le Conseil d'Etat ou le département le saisissent.
+
+#### Art. 18a
+
+**Commissions spécialisées**
+
+<sup>1</sup> Sur proposition du service en charge de la culture, le département peut instituer des commissions spécialisées composées de professionnels du domaine concerné, dont l'un des membres au moins est également membre du Conseil de la culture.
+
+<sup>2</sup> Les commissions spécialisées préavisent à l’attention du département, l’attribution d'aides financières ponctuelles, périodiques ou renouvelables.
 
 ## 3 Sauvegarde du patrimoine culturel
 
@@ -324,6 +423,7 @@ ordonne:
 - a) les Archives cantonales;
 - b) la Bibliothèque cantonale;
 - c) les Musées cantonaux;
+- c<sup>bis</sup>) l'Archéologie cantonale;
 - d) toute autre institution à laquelle le Conseil d'Etat confère le statut d'institution d'Etat.
 
 #### Art. 22
@@ -348,9 +448,21 @@ ordonne:
 
 <sup>3</sup> Elles contribuent à la recherche concernant le patrimoine culturel et scientifique du Valais et collaborent à cet effet avec des institutions et des personnes poursuivant des buts analogues.
 
-<sup>4</sup> Elles offrent aux personnes en formation, aux membres du corps enseignant de tous les degrés et aux chercheurs, des possibilités particulières d'information et de recherche.
+<sup>4</sup> Elles offrent aux personnes en formation, aux membres du corps enseignant de tous les degrés et aux chercheurs, des conditions favorables d'accès à l'information et de recherche.
 
 <sup>5</sup> Elles offrent au public toutes les informations en leur possession en utilisant les moyens de communication les mieux adaptés et les plus modernes à leur disposition.
+
+#### Art. 24a
+
+**Traitement des données personnelles**
+
+<sup>1</sup> Les collaborateurs de l’Etat travaillant pour le compte des institutions culturelles de l’Etat au sens de l’article 21 de la présente loi et les partenaires externes mandatés par elles pour gérer les bases de données métier nécessaires à l’exercice de leurs tâches sont autorisés à récolter et à traiter les données personnelles et sensibles suivantes:
+
+- a) les coordonnées de personnes physiques ou morales;
+- b) les données relatives à la situation financière d’une personne physique ou morale, et
+- c) toutes autres données nécessaires à l’accomplissement des tâches au sens de l’alinéa 2 du présent article.
+
+<sup>2</sup> Les collaborateurs de l’Etat travaillant pour le compte des institutions culturelles de l’Etat au sens de l’article 21 de la présente loi et les partenaires externes mandatés par elles pour gérer les bases de données métier nécessaires à l’exercice de leurs tâches peuvent également échanger des informations, y compris des données personnelles et sensibles.
 
 ### 4.2 Organisation
 
@@ -368,9 +480,9 @@ ordonne:
 
 **Le Département chargé des affaires culturelles**
 
-<sup>1</sup> Le Département:
+<sup>1</sup> Le département:
 
-- a) veille à ce que les activités des institutions soient conformes aux buts fixés par la loi;
+- a) veille à ce que les activités des institutions soient conformes aux buts et principes fixés par la loi;
 - b) assure la coordination et encourage toute forme de collaboration entre les institutions;
 - c) peut leur confier des tâches particulières en relation avec leurs buts spécifiques;
 - d) peut autoriser l'utilisation de locaux et de terrains par des tiers lorsqu'il n'en résulte aucun préjudice pour l'institution;
@@ -411,7 +523,7 @@ ordonne:
 <sup>1</sup> Les Archives ont pour buts de:
 
 - a) rassembler, conserver, inventorier et rendre accessibles au public les documents d'archives appartenant à l'Etat, à ses institutions, à leur administration centrale et à leurs services décentralisés;
-- b) veiller au préarchivage des documents par les institutions cantonales et les services de l'administration;
+- b) veiller à la mise en oeuvre de procédures et d'outils de gestion des documents et des archives par les institutions cantonales et les services de l'administration;
 - c) conseiller les communes, les bourgeoisies, les paroisses, les autres personnes morales de droit public et les institutions reconnues d'utilité publique en matière d'archivage;
 - d) exercer la surveillance des archives des communes et des bourgeoisies;
 - e) prendre en charge des archives et documents provenant de personnes de droit privé ou public et qui revêtent une importance régionale ou cantonale et conclure des contrats réglant la reprise de tels fonds d'archives;
@@ -426,10 +538,11 @@ ordonne:
 
 **Bibliothèque cantonale a) Mission**
 
-<sup>1</sup> La Bibliothèque cantonale (ci-après: la Bibliothèque):
+<sup>1</sup> La Bibliothèque cantonale, aussi appelée Médiathèque Valais (ci-après: la Bibliothèque):
 
 - a) conserve, met en valeur et rend accessibles les collections de documents dont elle a la charge;
-- b) rend accessibles les sources d'information utiles aux activités du public et en facilite l'usage.
+- b) rend accessibles les sources d'information utiles aux activités du public et en facilite l'usage;
+- c) assure la coordination du réseau des bibliothèques scientifiques valaisannes.
 
 #### Art. 33
 
@@ -438,12 +551,13 @@ ordonne:
 <sup>1</sup> La Bibliothèque a pour buts de:
 
 - a) rassembler, acquérir, répertorier, conserver, mettre en valeur et rendre accessibles les documents imprimés et audiovisuels, notamment les photographies, documents cinématographiques et enregistrements sonores, ainsi que les informations fixées sur d'autres supports, concernant le Valais;
-- b) rendre accessibles au public des collections de documents, d'autres sources d'information et un service de référence nécessaires à la formation et à la culture générale;
+- b) rendre accessibles au public des collections de documents, d'autres sources d'information, des espaces de travail et un service de référence nécessaires à la formation et à la culture générale;
 - c) mettre en valeur ses collections par des publications, des expositions ou par tout autre moyen;
 - d) contribuer à la promotion des productions littéraires et audiovisuelles du Valais;
 - e) donner accès et participer aux réseaux d'échanges d'information et de coopération entre bibliothèques au niveau national et international;
 - f) favoriser le développement et la coordination de la lecture publique dans le canton;
-- g) assurer la coordination des bibliothèques, des centres de documentation et des fonds iconographiques relevant de l'Etat.
+- g) assurer la coordination des bibliothèques, des centres de documentation et des fonds iconographiques relevant de l'Etat;
+- h) assurer la coordination et l’animation d’un réseau de bibliothèques scientifiques en lien avec la formation tertiaire.
 
 #### Art. 34
 
@@ -472,23 +586,41 @@ ordonne:
 - c) assurer l'inventaire des biens culturels meubles appartenant ou confiés à l'Etat et qui ne sont pas confiés à une autre institution, de veiller à leur sécurité, à leur entretien et le cas échéant à leur restauration;
 - d) favoriser la coopération entre les musées du canton ou d'autres institutions remplissant des buts analogues, notamment en matière de conservation et de mise en valeur des biens culturels dont ils ont la charge.
 
-### 4.4 Ecoles de musique
+#### Art. 36.1
+
+**Archéologie cantonale a) Mission**
+
+<sup>1</sup> L’Archéologie cantonale assure le suivi administratif et juridique des constructions en secteurs archéologiques. Elle collecte, étudie, conserve et met en valeur le matériel et la documentation issus des fouilles jusqu'à leur transfert, en principe après étude, dans les collections publiques des musées cantonaux. Elle peut également faire exécuter ces tâches par des tiers.
+
+#### Art. 36.2
+
+**b) Buts**
+
+<sup>1</sup> L’Archéologie cantonale a pour buts de:
+
+- a) collecter, étudier, conserver et mettre en valeur le matériel et la documentation issus des fouilles archéologiques réalisées sur le territoire du canton jusqu'à leur transfert, en principe après étude, dans les collections publiques des Musées cantonaux pour le mobilier et les Archives cantonales pour la documentation;
+- b) mettre en valeur les travaux de recherches scientifiques notamment par des publications ou par tout autre moyen;
+- c) respecter les buts spécifiés de la législation cantonale sur la construction et la protection de la nature, du paysage et des sites.
+
+### 4.4 Ecoles de musique et de formation culturelle dans le domaine des arts de la scène – théâtre, danse et cirque (ci-après désignés comme «arts de la scène»)
 
 #### Art. 36a
 
 **Reconnaissance**
 
-<sup>1</sup> L'Etat reconnaît, au sens de la présente loi, les écoles de musique ne délivrant pas de certification professionnelle (ci-après: les écoles de musique) qui remplissent les conditions et critères de reconnaissance fixés par voie conventionnelle entre l'Etat et l'Association des écoles de musique du Valais (ci-après: l'association).
+<sup>1</sup> L'Etat reconnaît, au sens de la présente loi, les écoles de musique sans but lucratif ne délivrant pas de certification professionnelle (ci-après: les écoles de musique) qui remplissent les conditions et critères de reconnaissance fixés par voie conventionnelle entre l'Etat et l'Association des écoles de musique du Valais.
 
-<sup>2</sup> Pour être reconnue, une école de musique doit être en mesure de proposer un programme de formation large et diversifié au moins à l'échelle d'une région au sens de la législation sur la politique régionale, avec des points d'enseignement décentralisés. Dès sa reconnaissance par le Conseil d'Etat, l'école devient d'office membre de l'association.
+<sup>1<sup>bis</sup></sup> L’Etat reconnaît, au sens de la présente loi, les écoles de formation culturelle dans le domaine des arts de la scène sans but lucratif ne délivrant pas de certification professionnelle (ci-après: les écoles de formation culturelle) qui remplissent les conditions et critères de reconnaissance fixés par voie conventionnelle entre l’Etat et l’Association des écoles de formation culturelle des domaines des arts de la scène.
 
-<sup>3</sup> Cette reconnaissance fait l'objet d'une convention entre l'Etat et l'école de musique.
+<sup>2</sup> Pour être reconnue, les écoles de musique ou de formation culturelle doivent être en mesure de proposer un programme de formation large et diversifié au moins à l'échelle d'une région, avec des points d'enseignement décentralisés. Dès leur reconnaissance par le Conseil d'Etat, les écoles deviennent d'office membres de l'Association des écoles de musiques du Valais pour les écoles de musique et de l’Association des écoles de formation culturelle des domaines concernés pour les écoles de formation culturelle.
+
+<sup>3</sup> Cette reconnaissance fait l'objet d'une convention entre l'Etat et les écoles concernées.
 
 #### Art. 36b
 
 **Commission consultative**
 
-<sup>1</sup> Il est institué une commission consultative au sein de laquelle l'Etat, les communes, l'association et les associations actives au niveau cantonal dans le domaine musical sont représentées. Celle-ci est consultée avant toute décision de reconnaissance prononcée par le Conseil d'Etat, ainsi que sur tout projet de convention entre l'Etat et l'association, et entre l'Etat et une école de musique. Elle est également consultée sur le mode de calcul des frais subventionnables par l'Etat et les communes. L'Etat peut enfin la consulter sur toute question relative à l'enseignement de la musique non professionnelle.
+<sup>1</sup> Il est institué une commission consultative au sein de laquelle l'Etat, les communes, l'Association des écoles de musique, l'Association des écoles de formation culturelle des domaines concernés et les associations actives au niveau cantonal ou régional dans le domaine musical et des arts de la scène sont représentées. Celle-ci est consultée avant toute décision de reconnaissance prononcée par le Conseil d'Etat, ainsi que sur tout projet de convention entre l'Etat et une association, et entre l'Etat et une école de musique ou de formation culturelle. Elle est également consultée sur le mode de calcul des frais subventionnables par l'Etat et les communes. L'Etat peut enfin la consulter sur toute question relative à l'enseignement de la musique ou des arts de la scène.
 
 <sup>2</sup> Le mode de fonctionnement de la commission relève des dispositions d'application.
 
@@ -496,17 +628,17 @@ ordonne:
 
 **Financement**
 
-<sup>1</sup> L'Etat participe au financement des écoles de musique reconnues. Les communes peuvent décider de leur participation.
+<sup>1</sup> L'Etat et les communes participent au financement des écoles reconnues de musique et de formation culturelle dans le domaine des arts de la scène.
 
-<sup>2</sup> La participation financière de l'Etat s'élève à 40 pour cent des frais pris en compte au sens de l'alinéa 4 ci-après.
+<sup>2</sup> La participation financière de l'Etat s'élève à 50 pour cent des frais pris en compte au sens de l'alinéa 4 ci-après.
 
-<sup>3</sup> Les communes contribuent volontairement selon un taux convenu avec les écoles de musique et calculé en fonction des frais pris en compte au sens de l'alinéa 4 ci-après. Leur contribution vient en déduction des taxes de cours des élèves domiciliés sur leur territoire.
+<sup>3</sup> La participation financière des communes, pour les élèves domiciliés sur leur territoire, s'élève à 10 pour cent au moins des frais pris en compte au sens de l'alinéa 4 ci-après. Leur contribution vient en déduction des taxes de cours des élèves domiciliés sur leur territoire.
 
 <sup>4</sup> Après avoir pris l'avis de la commission consultative, le Conseil d'Etat détermine le mode de calcul des frais qui peuvent être subventionnés au sens de la présente loi, à savoir les frais de personnel, les frais de formation continue du personnel enseignant, les frais administratifs, les frais d'acquisition et d'entretien du matériel pédagogique et d'instruments de l'école nécessaires à l'enseignement ainsi que les frais d'entretien des locaux à l'exclusion des loyers et coûts de mise à disposition. Le règlement précise les catégories de frais pris en compte.
 
-<sup>5</sup> La participation de l'Etat et celle volontaire des communes sont calculées en fonction du nombre d'unités de cours prises par les jeunes élèves domiciliés sur leurs territoires respectifs. Le règlement définit la notion d'unité de cours et celle de jeune élève.
+<sup>5</sup> La participation de l'Etat et des communes est calculée en fonction du nombre d'unités de cours prises par les jeunes élèves domiciliés sur leurs territoires respectifs. Le règlement définit la notion d'unité de cours et celle de jeune élève.
 
-<sup>6</sup> L'association entendue, l'Etat détermine, avant le début de chaque année scolaire, le nombre d'unités de cours subventionnées pour l'ensemble des écoles de musique.
+<sup>6</sup> L'association du domaine concerné entendue, l'Etat détermine, avant le début de chaque année scolaire, le nombre d'unités de cours subventionnées pour l'ensemble des écoles de musique et de formation culturelle.
 
 #### Art. 36d
 
@@ -518,7 +650,7 @@ ordonne:
 
 **Décentralisation de l'enseignement**
 
-<sup>1</sup> L'Etat, en concertation avec les communes, encourage les écoles de musique à créer des points d'enseignement décentralisés.
+<sup>1</sup> L'Etat, en concertation avec les communes, encourage les écoles de musique et de formation culturelle des arts de la scène à créer des points d'enseignement décentralisés.
 
 ## 5 Dispositions finales
 
