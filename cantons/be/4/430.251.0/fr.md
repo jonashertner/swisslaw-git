@@ -4,13 +4,12 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2025-11-19
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3295/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3472/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3295/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.01.2026)
+du 28.03.2007 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1005,7 +1004,7 @@ arrête:
 
 <sup>2</sup> Il y a préjudice notamment en cas de conflit d’intérêts ou si l’enseignant ou l’enseignante est mise à contribution durablement et considérablement. Sont également proscrites les activités annexes qui sont incompatibles avec l’activité d’enseignement.
 
-<sup>3</sup> Les membres du corps enseignant sont tenus d’aviser l’autorité d’engagement de toutes les activités annexes rémunérées et de tous les faits pouvant nécessiter une autorisation. Les données particulièrement dignes de protection ou soumises au secret de fonction ne doivent pas être communiquées.
+<sup>3</sup> Les membres du corps enseignant sont tenus d’aviser l’autorité d’engagement de toutes les activités annexes rémunérées et de tous les faits pouvant nécessiter une autorisation. Les données sensibles ou soumises au secret de fonction ne doivent pas être communiquées.
 
 #### Art. 86
 

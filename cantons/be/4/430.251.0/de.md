@@ -4,13 +4,12 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2025-11-19
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3295/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3295/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.01.2026)
+vom 28.03.2007 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
