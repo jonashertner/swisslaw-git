@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2025-12-01
+version: 2026-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20251201-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20260901/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20260901-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20260901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 December 2025)
+of 18 May 2005 (Last amended on 1 September 2026)
 
 The Swiss Federal Council,
 
@@ -2157,8 +2157,8 @@ Annex 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FOPH O of 22 July 2024, in force since 1 Sept. 2024 ([AS 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
-[^annex1-lvlu1-1]: Only a reference to the content of this Annex is published in the AS and SR. The content can be accessed at: [https://fedlex.data.admin.ch/eli/oc/2024/405](https://fedlex.data.admin.ch/eli/oc/2024/405) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The version of the list of active substances suitable for the simplified procedure of 1 Sept. 2024 applies.
+[^t-1]: Amended by No I of the FOPH O of 22 July 2024 ([AS 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)). Revised by No I of the FOPH O of 30 July 2026, in force since 1 Sept. 2026 ([AS 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex1-lvlu1-1]: Only a reference to the content of this Annex is published in the AS and SR. The content can be accessed at: [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The version of the list of active substances suitable for the simplified procedure of 1 Sept. 2026 applies.
 
 Annex 2[^t-2]
 
@@ -2168,8 +2168,8 @@ Annex 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Amended by No I of the FOPH O of 31 July 2025, in force since 1 Sept. 2025 ([AS 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)).
-[^annex2-lvlu1-1]: Only a reference to the content of this Annex is published in the AS and the SR. The content is available at: [https://fedlex.data.admin.ch/eli/oc/2025/507](https://fedlex.data.admin.ch/eli/oc/2025/507) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. The Union list of approved active substances applies in its version of 1 September 2025.
+[^t-2]: Amended by No I of the FOPH O of 31 July 2025 ([AS 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)). Revised by No I of the FOPH O of 30 July 2026, in force since 1 Sept. 2026 ([AS 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex2-lvlu1-1]: Only a reference to the content of this Annex is published in the AS and the SR. The content is available at: [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. The Union list of approved active substances applies in its version of 1 Sept. 2026.
 
 Annex 3[^t-3]
 

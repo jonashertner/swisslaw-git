@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente l'immissione sul mercato e l'ut
 short: OBioc
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: it
-version: 2025-12-01
+version: 2026-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20251201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20260901/it/xml/fedlex-data-admin-ch-eli-cc-2005-468-20260901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20260901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/it"
 
 (Ordinanza sui biocidi, OBioc)
 
-del 18 maggio 2005 (Stato 1° dicembre 2025)
+del 18 maggio 2005 (Stato 1° settembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2153,8 +2153,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O dell’UFSP del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
-[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/405](https://fedlex.data.admin.ch/eli/oc/2024/405) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° settembre 2024.
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’UFSP del 22 lug. 2024 ([RU 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)). Aggiornato dalla cifra I dell’O dell’UFSP del 30 lug. 2026, in vigore dal 1° set. 2026 ([RU 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° set. 2026.
 
 Allegato 2[^t-2]
 
@@ -2164,8 +2164,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la cifra I dell’O dell’UFSP del 31 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2025/507](https://fedlex.data.admin.ch/eli/oc/2025/507) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° settembre 2025.
+[^t-2]: Nuovo testo giusta la cifra I dell’O dell’UFSP del 31 lug. 2025 ([RU 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)). Aggiornato dalla cifra I dell’O dell’UFSP del 30 lug. 2026, in vigore dal 1° set. 2026 ([RU 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° set. 2026.
 
 Allegato 3[^t-3]
 

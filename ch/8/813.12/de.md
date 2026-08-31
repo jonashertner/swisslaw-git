@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2025-12-01
+version: 2026-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20251201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20260901/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20260901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20260901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 1. Dezember 2025)
+vom 18. Mai 2005 (Stand am 1. September 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2160,8 +2160,8 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des BAG vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/405](https://fedlex.data.admin.ch/eli/oc/2024/405) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. Die Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe gilt in der Fassung vom 1. September 2024*.*
+[^t-1]: Fassung gemäss Ziff. I der V des BAG vom 22. Juli 2024 ([AS 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)). Bereinigt gemäss Ziff. I der V des BAG vom 30. Juli 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. Die Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe gilt in der Fassung vom 1. September 2026*.*
 
 Anhang 2[^t-2]
 
@@ -2171,8 +2171,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 31. Juli 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/507](https://fedlex.data.admin.ch/eli/oc/2025/507) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Die Unionsliste genehmigter Wirkstoffe gilt in der Fassung vom 1. September 2025.
+[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 31. Juli 2025 ([AS 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)). Bereinigt gemäss Ziff. I der V des BAG vom 30. Juli 2026, in Kraft seit 1. Sept. 2026 ([AS 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis. Die Unionsliste genehmigter Wirkstoffe gilt in der Fassung vom 1. September 2026.
 
 Anhang 3[^t-3]
 

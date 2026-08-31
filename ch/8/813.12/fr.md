@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2025-12-01
+version: 2026-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20251201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20260901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20260901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20260901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (État le 1<sup>er</sup> décembre 2025)
+du 18 mai 2005 (État le 1<sup>er</sup> septembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -2155,8 +2155,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/405](https://fedlex.data.admin.ch/eli/oc/2024/405) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste des substances actives qui se prêtent à la procédure simplifiée a effet dans la version du 1<sup>er</sup> septembre 2024.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 22 juil. 2024 ([RO 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)). Mise à jour par le ch. I de l’O de l’OFSP du 30 juil. 2026, en vigueur depuis le 1<sup>er</sup> sept. 2026 ([RO 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste des substances actives qui se prêtent à la procédure simplifiée a effet dans la version du 1<sup>er</sup> septembre 2026.
 
 Annexe 2[^t-2]
 
@@ -2166,8 +2166,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 31 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/507](https://fedlex.data.admin.ch/eli/oc/2025/507) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 1<sup>er</sup> septembre 2025.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 31 juil. 2025 ([RO 2025 507](https://fedlex.data.admin.ch/eli/oc/2025/507)). Mise à jour par le ch. I de l’O de l’OFSP du 30 juil. 2026, en vigueur depuis le 1<sup>er</sup> sept. 2026 ([RO 2026 406](https://fedlex.data.admin.ch/eli/oc/2026/406)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/406](https://fedlex.data.admin.ch/eli/oc/2026/406) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 1<sup>er</sup> septembre 2026.
 
 Annexe 3[^t-3]
 
