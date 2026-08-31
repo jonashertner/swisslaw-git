@@ -4,13 +4,12 @@ number: "341.12"
 title: "Ordonnance sur l'exécution de la surveillance électronique"
 short: OESurvE
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-09-15
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-09-15
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2407/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3471/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2407/pdf_file"
 
 (OESurvE)
 
-du 15.09.2021 (état au 01.01.2022)
+du 15.09.2021 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -62,7 +61,7 @@ arrête:
 
 <sup>2</sup> Il est responsable de la protection des données durant le déroulement de la surveillance électronique.
 
-<sup>3</sup> Il peut faire appel à des tiers pour l'accomplissement des tâches visées aux articles 4 à 9 et les charger du traitement de données personnelles, y compris de données personnelles particulièrement dignes de protection.
+<sup>3</sup> Il peut faire appel à des tiers pour l'accomplissement des tâches visées aux articles 4 à 9 et les charger du traitement de données personnelles, y compris de données sensibles.
 
 <sup>4</sup> Dans le cas où il fait appel à des tiers, il conclut avec eux une convention administrative et les oblige à garantir la protection des données et la sécurité de l'information conformément à la présente ordonnance et à la législation sur la protection des données.
 
@@ -141,7 +140,7 @@ arrête:
 
 <sup>2</sup> Les dispositions contraires de la législation spéciale sont réservées.
 
-<sup>3</sup> L'autorité ordonnant la surveillance électronique communique au service d'exécution des informations et des données personnelles, y compris des données personnelles particulièrement dignes de protection, dans la mesure où cela est impérativement nécessaire à l'exécution de la surveillance électronique.
+<sup>3</sup> L'autorité ordonnant la surveillance électronique communique au service d'exécution des informations et des données personnelles, y compris des données sensibles, dans la mesure où cela est impérativement nécessaire à l'exécution de la surveillance électronique.
 
 [^10-1]: RSB [341.1](https://www.belex.sites.be.ch/data/341.1/fr)
 
