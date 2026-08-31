@@ -4,13 +4,12 @@ number: "432.210"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-06-10
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1992-03-19
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.210"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3350/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3350/pdf_file"
 
 (VSG)
 
-vom 19.03.1992 (Stand 01.01.2022)
+vom 19.03.1992 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 

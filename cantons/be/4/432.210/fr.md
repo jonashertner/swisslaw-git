@@ -4,13 +4,12 @@ number: "432.210"
 title: "Loi sur l'école obligatoire"
 short: LEO
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-06-10
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1992-03-19
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.210"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3350/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3432/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3350/pdf_file"
 
 (LEO)
 
-du 19.03.1992 (état au 01.01.2022)
+du 19.03.1992 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -544,7 +543,7 @@ arrête:
 
 <sup>2</sup> Ces autorités, établissements et personnes sont tenus de fournir les informations demandées. Le secret professionnel est réservé.
 
-<sup>3</sup> La communication de données est régie par la législation sur la protection des données. De plus, les autorités, établissements et personnes visés à l’alinéa 1 ainsi que le service compétent de la Direction de l’instruction publique et de la culture peuvent échanger au cas par cas des données personnelles, y compris des données particulièrement dignes de protection pouvant en particulier porter sur la santé ainsi que sur l'environnement familial, social et scolaire, si celles-ci sont impérativement nécessaires à l'accomplissement de la tâche légale concernée. Les obligations particulières de garder le secret sont réservées.
+<sup>3</sup> La communication de données est régie par la législation sur la protection des données. De plus, les autorités, établissements et personnes visés à l’alinéa 1 ainsi que le service compétent de la Direction de l’instruction publique et de la culture peuvent échanger au cas par cas des données personnelles, y compris des données sensibles pouvant en particulier porter sur la santé ainsi que sur l'environnement familial, social et scolaire, si celles-ci sont impérativement nécessaires à l'accomplissement de la tâche légale concernée. Les obligations particulières de garder le secret sont réservées.
 
 #### Art. 21e
 
@@ -1550,13 +1549,13 @@ arrête:
 
 <sup>1</sup> Le traitement et la communication des données personnelles d’élèves sont régis par la législation sur la protection des données.
 
-<sup>2</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent se communiquer au cas par cas les données d’élèves, y compris les données particulièrement dignes de protection, qui sont impérativement nécessaires pour l’accomplissement des différentes tâches légales. Les obligations particulières de garder le secret sont réservées.
+<sup>2</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent se communiquer au cas par cas les données d’élèves, y compris les données sensibles, qui sont impérativement nécessaires pour l’accomplissement des différentes tâches légales. Les obligations particulières de garder le secret sont réservées.
 
-<sup>3</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent communiquer les données d’élèves, y compris les données particulièrement dignes de protection, aux autorités des écoles dont sont issus les élèves ou de celles qui les accueillent, si la communication des données contribue à l’assurance-qualité des décisions d’orientation.
+<sup>3</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent communiquer les données d’élèves, y compris les données sensibles, aux autorités des écoles dont sont issus les élèves ou de celles qui les accueillent, si la communication des données contribue à l’assurance-qualité des décisions d’orientation.
 
 <sup>4</sup> Le traitement et la communication de données dans le cadre de la collaboration interinstitutionnelle (CII) sont régis par la législation cantonale sur le marché du travail.
 
-<sup>5</sup> Le Conseil-exécutif règle par voie d’ordonnance le traitement des données personnelles qui ne sont pas particulièrement dignes de protection.
+<sup>5</sup> Le Conseil-exécutif règle par voie d’ordonnance le traitement des données personnelles qui ne sont pas sensibles.
 
 ## 14 Dispositions transitoires et finales
 
