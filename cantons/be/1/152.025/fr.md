@@ -4,13 +4,12 @@ number: "152.025"
 title: Ordonnance sur les procédures de consultation et de corapport
 short: OPC
 language: fr
-version: 2025-06-01
-valid_until: 2026-08-31
-version_adopted: 2025-04-30
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3177/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3456/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3177/pdf_file"
 
 (OPC)
 
-du 21.12.2022 (état au 01.06.2025)
+du 21.12.2022 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -103,7 +102,7 @@ arrête:
 - o les associations faîtières des organisations féminines et masculines bernoises,
 - p la Commission de l'égalité,
 - q le Contrôle des finances,
-- r le Bureau cantonal pour la surveillance de la protection des données (BPD),
+- r le Bureau pour la protection des données,
 - s le Service de législation, des affaires jurassiennes et du bilinguisme de la Chancellerie d’État (LJB).
 
 <sup>3</sup> Les Directions et la Chancellerie d'État peuvent
@@ -265,9 +264,9 @@ arrête:
 
 #### Art. 18
 
-**Bureau cantonal pour la surveillance de la protection des données (BPD)**
+**Bureau pour la protection des données**
 
-<sup>1</sup> Les projets d'actes législatifs et les autres mesures au sens de l'article 34, alinéa 1, lettre k de la loi du 19 février 1986 sur la protection des données (LCPD)[^18-1] concernant le traitement de données personnelles ainsi que la protection des données sont soumises au BPD pour avis.
+<sup>1</sup> Les projets d'actes législatifs et les mesures au sens de l'article 43, alinéa 1, lettre f de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^18-1] concernant la protection des données sont soumises au Bureau pour la protection des données pour avis.
 
 [^18-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 

@@ -4,13 +4,12 @@ number: "152.025"
 title: Verordnung über das Vernehmlassungs- und das Mitberichtsverfahren
 short: VMV
 language: de
-version: 2025-06-01
-valid_until: 2026-08-31
-version_adopted: 2025-04-30
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3177/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3177/pdf_file"
 
 (VMV)
 
-vom 21.12.2022 (Stand 01.06.2025)
+vom 21.12.2022 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -103,7 +102,7 @@ beschliesst:
 - o die Dachverbände der bernischen Frauen- und Männerorganisationen,
 - p die Fachkommission für Gleichstellungsfragen,
 - q die Finanzkontrolle,
-- r die kantonale Datenschutzaufsichtsstelle (DSA),
+- r die kantonale Datenschutzbehörde,
 - s der Dienst für begleitende Rechtsetzung, jurassische Angelegenheiten und Zweisprachigkeit der Staatskanzlei (RJZ).
 
 <sup>3</sup> Die Direktionen und die Staatskanzlei können
@@ -265,11 +264,11 @@ beschliesst:
 
 #### Art. 18
 
-**Kantonale Datenschutzaufsichtsstelle (DSA)**
+**Kantonale Datenschutzbehörde**
 
-<sup>1</sup> Erlassentwürfe und andere Massnahmen gemäss Artikel 34 Absatz 1 Buchstabe k des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^18-1], welche die Bearbeitung von Personendaten und den Datenschutz betreffen, werden der DSA zur Stellungnahme vorgelegt.
+<sup>1</sup> Erlassentwürfe und Massnahmen gemäss Artikel 43 Absatz 1 Buchstabe f des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^18-1], die den Datenschutz betreffen, werden der kantonalen Datenschutzbehörde zur Stellungnahme vorgelegt.
 
-[^18-1]: BSG 152.04
+[^18-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 19
 
