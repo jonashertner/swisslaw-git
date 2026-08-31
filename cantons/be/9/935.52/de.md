@@ -4,13 +4,12 @@ number: "935.52"
 title: Kantonales Geldspielgesetz
 short: KGSG
 language: de
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-03-09
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2020-06-10
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.52"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2483/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2483/pdf_file"
 
 (KGSG)
 
-vom 10.06.2020 (Stand 01.01.2022)
+vom 10.06.2020 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -671,7 +670,7 @@ beschliesst:
 
 <sup>1</sup> Die zum Vollzug der eidgenössischen und der kantonalen Geldspielgesetzgebung zuständigen Behörden des Kantons und der Gemeinden dürfen Personendaten bearbeiten, soweit dies der Erfüllung ihrer Aufgaben dient.
 
-<sup>2</sup> Besonders schützenswerte Personendaten über Gesundheit, Massnahmen der sozialen Hilfe oder fürsorgerischen Betreuung, polizeiliche Ermittlungen, Strafverfahren und Strafen oder Massnahmen dürfen sie bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben zwingend erforderlich ist.
+<sup>2</sup> Besonders schützenswerte Personendaten über Gesundheit, Massnahmen der sozialen Hilfe oder des Kindes- und Erwachsenenschutzes, polizeiliche Ermittlungen, Strafverfahren und Strafen oder Massnahmen dürfen sie bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben zwingend erforderlich ist.
 
 #### Art. 72
 

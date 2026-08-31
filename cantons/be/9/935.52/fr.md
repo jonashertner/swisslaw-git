@@ -4,13 +4,12 @@ number: "935.52"
 title: "Loi cantonale sur les jeux d'argent"
 short: LCJAr
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2021-03-09
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2020-06-10
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.52"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2483/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3451/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2483/pdf_file"
 
 (LCJAr)
 
-du 10.06.2020 (état au 01.01.2022)
+du 10.06.2020 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -673,13 +672,13 @@ arrête:
 
 <sup>1</sup> Les autorités cantonales et communales ayant compétence pour exécuter les législations fédérale et cantonale sur les jeux d'argent sont habilitées à traiter des données personnelles dans la mesure utile à l'accomplissement de leurs tâches.
 
-<sup>2</sup> Elles sont habilitées à traiter des données personnelles particulièrement dignes de protection relatives à la santé, aux mesures d'aide sociale ou d'assistance, aux enquêtes de police, aux procédures pénales ainsi qu'aux peines et mesures, pour autant que l'accomplissement de leurs tâches le requière impérativement.
+<sup>2</sup> Elles sont habilitées à traiter des données sensibles relatives à la santé, aux mesures d'aide sociale ou de protection de l’enfant et de l’adulte, aux enquêtes de police, aux procédures pénales ainsi qu'aux peines et mesures, pour autant que l'accomplissement de leurs tâches le requière impérativement.
 
 #### Art. 72
 
 **Communication de données**
 
-<sup>1</sup> Les autorités cantonales et communales ayant compétence pour exécuter les législations fédérale et cantonale sur les jeux d'argent peuvent, aux conditions énoncées à l'article 71, s'échanger et se communiquer des données personnelles, y compris des données personnelles particulièrement dignes de protection.
+<sup>1</sup> Les autorités cantonales et communales ayant compétence pour exécuter les législations fédérale et cantonale sur les jeux d'argent peuvent, aux conditions énoncées à l'article 71, s'échanger et se communiquer des données personnelles, y compris des données sensibles.
 
 <sup>2</sup> Aux conditions énoncées à l'article 71, elles peuvent en outre communiquer des données personnelles
 
