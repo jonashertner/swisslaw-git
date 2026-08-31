@@ -4,13 +4,12 @@ number: "152.321"
 title: Loi sur les préfets et les préfètes
 short: LPr
 language: fr
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-02
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2006-03-28
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.321"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2003/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3421/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2003/pdf_file"
 
 (LPr)
 
-du 28.03.2006 (état au 01.11.2020)
+du 28.03.2006 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -162,7 +161,7 @@ arrête:
 
 <sup>2</sup> Les préfets et les préfètes concluent des conventions de coopération avec le Ministère public, les autorités de protection de l'enfant et de l'adulte, les autorités des migrations et, le cas échéant, avec d'autres autorités qui se voient attribuer des tâches contribuant à la lutte contre la violence domestique. Il convient de réglementer dans celles-ci notamment les domaines concernés par la coopération ainsi que l'échange d'informations.
 
-<sup>3</sup> Des données personnelles, y compris celles qui sont particulièrement dignes de protection, peuvent être échangées entre les préfets et les préfètes d'une part et les autorités énumérées à l'alinéa 2, la Police cantonale et les services spécialisés compétents d'autre part dans la mesure où cet échange est impérativement nécessaire à l'accomplissement des tâches légales des autorités et des services spécialisés concernés.
+<sup>3</sup> Des données personnelles, y compris des données sensibles, peuvent être échangées entre les préfets et les préfètes d'une part et les autorités énumérées à l'alinéa 2, la Police cantonale et les services spécialisés compétents d'autre part dans la mesure où cet échange est impérativement nécessaire à l'accomplissement des tâches légales des autorités et des services spécialisés concernés.
 
 <sup>4</sup> La procédure du mandat de comparution et du mandat d'amener est régie par analogie par les dispositions du code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP)[^11a-1].
 
