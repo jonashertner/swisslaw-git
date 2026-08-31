@@ -4,13 +4,12 @@ number: "440.100"
 title: Règlement sur la promotion de la culture
 short: RPrC
 language: fr
-version: 2021-04-01
-valid_until: 2026-08-31
-version_adopted: 2021-04-21
+version: 2026-09-01
+version_adopted: 2026-07-22
 adopted: 2026-07-22
 in_force: 2026-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/440.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2882/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3645/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2882/pdf_file"
 
 (RPrC)
 
-du 10.11.2010 (état 01.04.2021)
+du 22.07.2026 (état 01.09.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -27,7 +26,7 @@ vu l'article 57 de la Constitution cantonale;
 
 vu la loi sur la promotion de la culture du 15 novembre 1996 (LPrC);
 
-sur la proposition du Département de l'éducation, de la culture et du sport,
+sur la proposition du département en charge de la culture,
 
 ordonne:
 
@@ -37,37 +36,47 @@ ordonne:
 
 **But et compétences**
 
-<sup>1</sup> Le présent règlement fixe les modalités d'application de la loi sur la promotion de la culture (LPrC).
+<sup>1</sup> Le présent règlement fixe les modalités d'application de la loi sur la promotion de la culture (LPrC), sous réserve des dispositions d'exécution prévues par des règlements spécialisés en vertu de l'article 2.
 
-<sup>2</sup> L'exécution de la LPrC est confiée au département chargé de la culture (ci-après: le département).
+<sup>2</sup> L'exécution de la LPrC est confiée au département en charge de la culture (ci-après: le département).
 
 <sup>3</sup> Le département peut déléguer ses compétences à ses services et faire appel à la collaboration d'autres services de l'Etat.
 
 #### Art. 2
 
-**Mission de l'Etat (art. 3 à 5 LPrC)**
+**Coordination avec les règlements spécialisés**
 
-<sup>1</sup> L'Etat exerce un rôle prioritaire en matière d'aide à la création et assure la gestion des institutions culturelles cantonales.
+<sup>1</sup> Les modalités relatives aux écoles de musique et de formation culturelle dans le domaine des arts de la scène (théâtre, danse et cirque), notamment la reconnaissance, la commission consultative, la définition de l'unité de cours, celle de jeune élève ainsi que le calcul des coûts standards, sont réglées par le règlement sur les écoles de musique et de formation culturelle dans le domaine des arts de la scène (théâtre, danse et cirque).
 
-<sup>2</sup> Il peut encourager une animation culturelle lorsque son rayonnement est supralocal et que des personnes privées et/ou les collectivités publiques concernées la soutiennent.
+<sup>2</sup> Les modalités relatives à la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique, notamment l’organisation des compétences, la commission du patrimoine, la reconnaissance de l’intérêt cantonal, les conventions et le droit de préemption, sont réglées par le règlement sur la sauvegarde du patrimoine culturel mobilier, documentaire, immatériel et linguistique.
 
-<sup>3</sup> Il prend l'initiative d'organiser lui-même ou par délégation à ses institutions ou à des tiers, des manifestations ayant un caractère cantonal.
-
-<sup>4</sup> Il conseille et encourage les communes et leurs associations en vue d'un développement cohérent des activités et équipements culturels dans le canton.
-
-<sup>5</sup> Il conseille les institutions publiques et privées en vue d'une conservation et d'une mise en valeur optimale des biens culturels qu'elles détiennent.
+<sup>3</sup> Les directives du département règlent les aspects opérationnels.
 
 #### Art. 3
 
-**Mission des communes (art. 6 LPrC)**
+**Mission de l'Etat (art. 3 à 5 LPrC)**
 
-<sup>1</sup> Les communes exercent un rôle prioritaire dans le soutien aux activités culturelles qui se déroulent sur leur territoire.
+<sup>1</sup> L'Etat exerce un rôle prioritaire en matière d'aide ponctuelle, périodique ou renouvelable à la création et assure la gestion des institutions culturelles cantonales.
 
-<sup>2</sup> Les communes coopèrent entre elles lors d'animations culturelles d'importance régionale de même que pour la création et la gestion d'institutions culturelles telles que bibliothèques de lecture publique, musées, ludothèques ou salles de spectacles d'importance intercommunale ou régionale.
+<sup>2</sup> Il peut encourager une animation culturelle lorsque son rayonnement est régional, cantonal, intercantonal, national et international et que des personnes privées et/ou les collectivités publiques concernées la soutiennent.
+
+<sup>3</sup> Il prend l'initiative d'organiser lui-même ou par délégation à ses institutions ou à des tiers, des manifestations ayant un caractère cantonal.
+
+<sup>4</sup> Il conseille et encourage les communes et leurs associations en vue d'un développement cohérent des activités et équipements culturels dans le canton ou au niveau d'une région culturelle au sens de la loi.
+
+<sup>5</sup> Il conseille les institutions publiques et privées en vue d'une conservation et d'une mise en valeur conformes aux pratiques et normes professionnelles des biens culturels qu'elles détiennent.
 
 #### Art. 4
 
-**Le Conseil de la culture (art. 18 LPrC)**
+**Mission des communes (art. 6 LPrC)**
+
+<sup>1</sup> Les communes exercent un rôle prioritaire dans le soutien aux activités culturelles professionnelles et amateures qui se déroulent sur leur territoire.
+
+<sup>2</sup> Les communes coopèrent entre elles lors d'animations culturelles d'importance régionale de même que pour la création et la gestion d'institutions culturelles telles que bibliothèques de lecture publique, musées, ludothèques ou salles de spectacles d'importance intercommunale ou régionale.
+
+#### Art. 5
+
+**Le conseil de la culture (art. 18 LPrC)**
 
 <sup>1</sup> Sur proposition du département, le président, le vice-président et les autres membres du conseil de la culture (ci-après: le conseil) sont nommés par le Conseil d'Etat pour une période administrative. Leur mandat est renouvelable deux fois.
 
@@ -75,19 +84,39 @@ ordonne:
 
 <sup>3</sup> Il prend ses décisions à la majorité des membres présents. Le président prend part au vote; en cas d'égalité des voix, il départage. A la demande d'un membre, le vote a lieu au bulletin secret.
 
-<sup>4</sup> Le conseil statue sur dossier. Il peut, à titre exceptionnel, entendre un requérant.
+<sup>4</sup> Les décisions peuvent aussi être prises par voie de circulation, pour autant qu’aucun membre ne demande des délibérations orales. Les décisions ainsi prises requièrent la majorité des membres et sont consignées au procès-verbal de la séance suivante.
 
-<sup>5</sup> Il peut constituer en son sein des groupes de travail non permanents qui soumettent leurs propositions au conseil pour décision. Le secrétariat du conseil est assuré par le département.
+<sup>5</sup> Le conseil statue sur dossier. Il peut, à titre exceptionnel, entendre un requérant.
 
-<sup>6</sup> Il peut consulter un ou plusieurs experts. Les membres et les experts du conseil sont indemnisés par le département conformément aux prescriptions en vigueur.
+<sup>6</sup> Il peut constituer en son sein des groupes de travail non permanents qui soumettent leurs propositions au conseil pour décision. Le secrétariat du conseil est assuré par le service en charge de la culture (ci-après: le service).
 
-<sup>7</sup> Pendant la durée de leur mandat, les membres du conseil ne peuvent, à titre personnel, bénéficier d'aucune des subventions prévues par la LPrC. En cas de vote concernant une association ou une institution au sein de laquelle ils exercent des responsabilités, ils doivent se récuser.
+<sup>7</sup> Il peut consulter un ou plusieurs experts. Les membres et les experts du conseil sont indemnisés par le service conformément aux prescriptions en vigueur.
 
-#### Art. 5
+<sup>8</sup> Pendant la durée de leur mandat, les membres du conseil ne peuvent, à titre personnel, bénéficier d'aucune des subventions prévues par la LPrC. En cas de vote concernant une association ou une institution au sein de laquelle ils exercent des responsabilités, ils doivent se récuser. Demeurent réservés les remboursements de frais et indemnités liés à l’accomplissement du mandat, ainsi que les prestations dues en vertu d’un rapport de travail sans lien avec une décision d’octroi de subvention.
+
+<sup>9</sup> Les membres sont tenus au secret des délibérations et au devoir de discrétion, sous peine de résiliation du mandat par l’autorité de nomination.
+
+#### Art. 6
+
+**Les commissions spécialisées (art. 18a LPrC)**
+
+<sup>1</sup> Sur proposition du service, le président et les autres membres des commissions spécialisées (ci-après: les commissions) sont nommés par le département pour une période administrative. Leur mandat est renouvelable une fois. Au moins un membre de chaque commission spécialisée est également membre du Conseil de la culture.
+
+<sup>2</sup> Les commissions se réunissent au moins une fois par an et aussi souvent que son président l’estime nécessaire. Elles doivent être convoquées si trois de leurs membres en font la demande.
+
+<sup>3</sup> Elles prennent leurs décisions à la majorité des membres présents. Le président prend part au vote ; en cas d’égalité des voix, il départage. A la demande d’un membre, le vote a lieu au bulletin secret.
+
+<sup>4</sup> Les décisions peuvent aussi être prises par voie de circulation pour autant qu’aucun membre ne demande des délibérations orales. Les décisions ainsi prises requièrent la majorité des membres et sont consignées au procès-verbal de la séance suivante.
+
+<sup>5</sup> Les commissions statuent sur dossier. Elles peuvent, à titre exceptionnel, entendre un requérant.
+
+<sup>6</sup> Pendant la durée de leur mandat, les membres des commissions ne peuvent, à titre personnel, bénéficier d’aucune des subventions prévues par la LPrC. En cas de vote concernant une association ou une institution au sein de laquelle ils exercent des responsabilités, ils doivent se récuser. Demeurent réservés les remboursements de frais et indemnités liés à l’accomplissement du mandat, ainsi que les prestations dues en vertu d’un rapport de travail sans lien avec une décision d’octroi de subvention.
+
+#### Art. 7
 
 **Fonds pour les manifestations culturelles ayant un impact touristique notoire (art. 7 LPrC)**
 
-<sup>1</sup> Le fonds spécial pour la promotion de manifestations culturelles ayant un impact touristique notoire au sens de l'article 7 al. 1 de la LPrC a pour but de soutenir les manifestations culturelles:
+<sup>1</sup> Le fonds spécial pour la promotion de manifestations culturelles ayant un impact touristique notoire au sens de l'article 7 alinéa 1 LPrC a pour but de soutenir les manifestations culturelles:
 
 - a) dont la qualité et la notoriété contribuent de manière importante à la promotion du tourisme valaisan;
 - b) qui sont susceptibles d'acquérir une notoriété contribuant de manière importante à la promotion du tourisme valaisan;
@@ -102,55 +131,61 @@ ordonne:
 
 <sup>3</sup> Le département fixe, en accord avec le département en charge du tourisme, les directives quant à l'utilisation des ressources du fonds.
 
-<sup>4</sup> Le département, en accord avec le département en charge du tourisme et dans le respect des dispositions de la loi sur la gestion et le contrôle administratifs et financiers du canton, décide de l'utilisation du fonds.
+<sup>4</sup> Le département, en accord avec le département en charge du tourisme et dans le respect des dispositions de la loi sur la gestion et le contrôle administratifs et financiers du canton (LGCAF), décide de l'utilisation du fonds.
+
+#### Art. 8
+
+**Soutien aux industries culturelles et créatives (art. 7a LPrC)**
+
+<sup>1</sup> Le département fixe, en accord avec le département en charge de l’économie, les directives quant aux critères de soutien aux projets dans le domaine des industries culturelles et créatives.
+
+<sup>2</sup> Le département, en accord avec le département en charge de l’économie et dans le respect des dispositions de la LGCAF, décide de l’attribution des aides financières.
 
 ## 2 Promotion des activités culturelles par l'Etat
 
 ### 2.1 Forme (art. 8 à 15 LPrC)
 
-#### Art. 6
+#### Art. 9
 
 **Subventions**
 
 <sup>1</sup> Après consultation du Conseil de la culture, le département fixe dans des directives les types de subventions qu'il peut octroyer ainsi que la forme, le contenu et les délais pour la remise des requêtes en vue de leur obtention. Le requérant a l'obligation de fournir, sur demande, tous les renseignements et pièces justificatives nécessaires.
 
-<sup>2</sup> Après consultation du Conseil de la culture ou d'un autre organe prévu dans ses directives, le département décide de l'octroi et du montant de la subvention.
+<sup>2</sup> Après consultation du Conseil de la culture, des commissions spécialisées ou d'un autre organe prévu dans ses directives, le département décide de l'octroi et du montant de la subvention.
 
 <sup>3</sup> Une demande de subvention concernant le projet dont la réalisation a déjà commencé au moment du dépôt de la requête est irrecevable.
 
-#### Art. 7
+#### Art. 10
 
 **Achats et commandes**
 
-<sup>1</sup> Après consultation du Conseil de la culture ou d'un autre organe prévu dans ses directives, le département peut procéder à des achats ou a des commandes au titre de l'aide à la création.
+<sup>1</sup> Après consultation du Conseil de la culture, de la commission spécialisée concernée ou d'un autre organe prévu dans ses directives, le département peut procéder à des achats ou à des commandes au titre de l'aide à la création.
 
-<sup>2</sup> Les oeuvres d'art ainsi acquises font partie du Fonds cantonal de décoration.
+#### Art. 11
 
-#### Art. 8
+**Fonds cantonal d'art contemporain**
 
-**Fonds cantonal de décoration**
+<sup>1</sup> Le Fonds cantonal d'art contemporain est constitué des:
 
-<sup>1</sup> Le Fonds cantonal de décoration est constitué des:
+- a) oeuvres d'art acquises par le département conformément aux dispositions de l'article 10 du présent règlement;
+- b) oeuvres d'art acquises par l'Etat au titre de l'intervention artistique sur les constructions;
+- c) de toute autre oeuvre d'art qui peut lui être affectée.
 
-- a) oeuvres d'art acquises par le département conformément aux dispositions de l'article 7 du présent règlement;
-- b) oeuvres d'art acquises par l'Etat au titre de l'animation artistique des bâtiments;
-- c) de tout autre oeuvre d'art qui peut lui être affectée.
+<sup>2</sup> La collection du Fonds cantonal d'art contemporain sert à orner les bâtiments et les locaux publics de l'Etat du Valais.
 
-<sup>2</sup> Les oeuvres d'art du Fonds cantonal de décoration servent à orner les bâtiments et les locaux publics à caractère représentatif.
+<sup>3</sup> Sous réserve des dispositions de l'alinéa 4 du présent article, les œuvres du fonds cantonal d'art contemporain sont inventoriées et gérées par le Musée d'art du Valais de manière distincte de ses propres collections.
 
-<sup>3</sup> Sous réserve des dispositions de l'alinéa 4 du présent article, les oeuvres du fonds cantonal de décoration sont inventoriées et gérées par le Musée d'art du Valais de manière distincte de ses propres collections
-
-<sup>4</sup> Les oeuvres d'art acquises par l'Etat au titre de l'animation artistique des bâtiments sont inventoriées et gérées par le département en charge des bâtiments. Une copie de l'inventaire est régulièrement communiquée au Musée d'art du Valais.
+<sup>4</sup> Les œuvres d'art acquises par l'Etat au titre de l'intervention artistique sur les constructions sont inventoriées, gérées et conservées par le département en charge des bâtiments en collaboration avec les institutions culturelles de l'Etat. Une copie de l'inventaire est régulièrement communiquée au Musée d'art du Valais.
 
 ### 2.2 Moyens
 
-#### Art. 9
+#### Art. 12
 
 **Activités ordinaires**
 
 <sup>1</sup> Les moyens nécessaires aux activités ordinaires en matière de promotion de la culture sont arrêtés dans le cadre du budget annuel du canton.
 
-#### Art. 10
+#### Art. 13
 
 **Fonds cantonal de la culture (art. 14 LPrC)**
 
@@ -164,36 +199,28 @@ ordonne:
 
 - a) les legs, dons et libéralités consentis en sa faveur;
 - b) les montants prévus au budget du département à cet effet;
-- c) les montants découlant de l'application de l'article 11 alinéa 4 du présent règlement;
-- d) le produit de la fortune du fonds;
-- e) toutes les autres sources qui peuvent lui être affectées.
+- c) le produit de la fortune du fonds;
+- d) toutes les autres sources qui peuvent lui être affectées.
 
 <sup>3</sup> Le département décide de l'utilisation du fonds.
 
-#### Art. 11
+#### Art. 14
 
 **Intervention artistique sur les constructions (art. 15 LPrC)**
 
-<sup>1</sup> Pour toutes les constructions de bâtiments ou de travaux de génie civil édifiées ou rénovées par l’Etat dont les crédits doivent figurer au budget d’investissement, un montant proportionnel au coût de construction ou de rénovation proprement dit est réservé pour une Intervention Artistique sur la Construction (IAC).
+<sup>1</sup> Pour toutes les constructions ou rénovations importantes de bâtiments par l’Etat dont les crédits doivent figurer au budget d’investissement, un montant proportionnel au coût de construction ou de rénovation proprement dit est réservé pour une intervention artistique sur la construction (IAC).
 
-<sup>2</sup> Une intervention artistique consiste dans l’intégration, à l’intérieur ou à l’extérieur de la construction, d’œuvres, de gestes, de marquages ou de toutes formes artistiques qui entrent en interaction avec son architecture, sa fonction, ses utilisateurs et le public en général.
+<sup>2</sup> Une intervention artistique sur la construction consiste dans l’intégration, à l’intérieur ou à l’extérieur de la construction, d’œuvres, de gestes, de marquages ou de toutes formes artistiques qui entrent en interaction avec son architecture, sa fonction, ses utilisateurs et le public en général.
 
-<sup>3</sup> Lorsque l’Etat fait construire un bâtiment ou ordonne un travail de génie civil ou fait procéder à des travaux de rénovation d’un coût supérieur à 500'000 francs, il réserve de 0,5 à 2 pour cent du coût des travaux à l’intervention artistique. Le plafond de la somme réservée à cette intervention est de 600'000 francs. Le devis général des travaux comporte un poste spécifique à cet effet.
+<sup>3</sup> Lorsque l’Etat fait construire un bâtiment ou fait procéder à des travaux de rénovation d’un coût supérieur à 500'000 francs, il réserve de 0,5 à 1,5 pour cent du coût des travaux à l’intervention artistique. La somme réservée à cette intervention n’est cependant jamais supérieure à 500’000 francs. Le devis général des travaux comporte un poste spécifique à cet effet.
 
-<sup>4</sup> Les services en charge de la maîtrise d’ouvrage et le Service de la culture, dans le respect des dispositions de la loi sur la gestion et le contrôle administratifs et financiers du canton, définissent les procédures applicables à l’intervention artistique.
+<sup>4</sup> Le service en charge de la maîtrise d’ouvrage et le service, dans le respect des dispositions de la LGCAF, définissent les procédures applicables à l’intervention artistique.
 
-<sup>5</sup> Le Service de la culture, en collaboration avec les services en charge de la maîtrise d’ouvrage, tient à jour un inventaire des interventions artistiques.
+<sup>5</sup> Le service, en collaboration avec le service en charge de la maîtrise d’ouvrage, tient à jour un inventaire des interventions artistiques.
 
-- a) …
-- b) …
-- c) …
-- d) …
+<sup>6</sup> Les dispositions ci-dessus s’appliquent aux institutions de droit public et aux communes qui bénéficient d’une subvention de l’Etat pour la construction ou la rénovation d’un bâtiment.
 
-<sup>6</sup> Compte tenu de la localisation, de l’usage ou de la nature de la construction concernée, l’Etat peut renoncer à réaliser une intervention artistique sur la construction elle-même. Dans ce cas, une somme correspondant au 0,5 pour cent du coût des travaux est versé au Fonds cantonal de la culture pour l’achat d’œuvres d’art pour le Fonds cantonal d’art contemporain. De plus, si la somme prévue pour l’intervention artistique n’est pas utilisée dans sa totalité, le solde est transféré dans le Fonds cantonal de la culture.
-
-<sup>7</sup> Les dispositions ci-dessus s’appliquent aux institutions de droit public et aux communes qui bénéficient d’une subvention de l’Etat pour la construction ou la rénovation d’un bâtiment ou d’un ouvrage de génie civil d’utilité publique.
-
-#### Art. 12
+#### Art. 15
 
 **Institutions culturelles de formation (art. 22 LPrC)**
 
@@ -206,31 +233,31 @@ ordonne:
 - c) de l'intérêt général du canton sur les plans culturel, éducatif et socio-économique;
 - d) de la nature, des modalités et du niveau des enseignements dispensés;
 - e) de la participation des communes de domicile des élèves;
-- f) de la participation des bénéficiaires de la formation ou de leur parents ou de leurs représentants légaux.
+- f) de la participation des bénéficiaires de la formation ou de leurs parents ou de leurs représentants légaux.
 
 <sup>3</sup> La participation de l'Etat fait l'objet d'une convention limitée dans le temps entre l'institution bénéficiaire et le département.
 
-### 2.3 Prix d'encouragement et prix culturel de l'Etat du Valais
+### 2.3 Prix d'encouragement et Prix culturel de l'Etat du Valais
 
-#### Art. 13
+#### Art. 16
 
 **But**
 
-<sup>1</sup> Dans le but d'encourager de jeunes talents, le Conseil d'Etat décerne chaque année un ou plusieurs "prix d'encouragement" à des personnes ou à des groupes engagés dans la création, l'interprétation ou la recherche.
+<sup>1</sup> Dans le but d'encourager de jeunes talents, le Conseil d'Etat décerne chaque année un ou plusieurs prix d'encouragement à des personnes ou à des groupes engagés dans la création, l'interprétation ou la recherche.
 
-<sup>2</sup> Dans le but d'honorer des personnes qui se sont distinguées dans le domaine de la culture, le Conseil d'Etat décerne chaque année le "Prix culturel de l'Etat du Valais" à une personnalité ou à un groupe pour l'ensemble de son oeuvre.
+<sup>2</sup> Dans le but d'honorer des personnes qui se sont distinguées dans le domaine de la culture, le Conseil d'Etat décerne chaque année le Prix culturel de l'Etat du Valais à une personnalité ou à un groupe pour l'ensemble de son oeuvre.
 
 <sup>3</sup> Dans le but de reconnaître et d'encourager les métiers au service du développement culturel, le Conseil d'Etat peut décerner un prix spécial à une personne ou à un groupe innovant en matière de médiation ou de réalisation culturelles.
 
-#### Art. 14
+#### Art. 17
 
 **Compétence**
 
 <sup>1</sup> Le Conseil d'Etat désigne les lauréats des prix mentionnés à l'article 13 sur proposition du Conseil de la Culture. A la demande de ce dernier, il peut surseoir à leur attribution.
 
-<sup>2</sup> Les prix sont attribués à un ou des lauréats qui sont originaires ou domiciliés dans le canton, ou qui entretiennent des relations étroites avec lui.
+<sup>2</sup> Les prix sont attribués à un ou des lauréats qui sont originaires ou domiciliés dans le canton, ou qui entretiennent des liens réguliers, durables et significatifs avec lui.
 
-#### Art. 15
+#### Art. 18
 
 **Montants**
 
@@ -240,21 +267,50 @@ ordonne:
 - b) un montant fixé par le département sur proposition du Conseil de la culture;
 - c) une publication sur le lauréat.
 
-<sup>2</sup> Les montants nécessaires à l'attribution des prix et à leur organisation sont prélevés sur le crédit budgétaire d'encouragement aux activités culturelles.
+<sup>2</sup> Les montants nécessaires à l'attribution des prix et à leur organisation sont prélevés sur le crédit budgétaire de l'encouragement aux activités culturelles.
 
 <sup>3</sup> Les prix sont délivrés dans le cadre d'une manifestation organisée par les soins du département; leur remise est présidée par le chef du département.
 
-## 3 Institutions culturelles
+### 2.4 Prix Culture et Economie Valais
+
+#### Art. 19
+
+**But**
+
+<sup>1</sup> Dans le but d’honorer et d’encourager une institution, une entreprise ou une manifestation qui inscrit son action dans le développement conjoint de la culture et de l’économie, le Conseil d’Etat décerne chaque année le Prix Culture et Economie Valais.
+
+#### Art. 20
+
+**Compétences**
+
+<sup>1</sup> Le Conseil d’Etat désigne le lauréat du prix mentionné à l’article 19 sur proposition du Comité de pilotage culture et économie. A la demande de ce dernier, il peut surseoir à leur attribution.
+
+<sup>2</sup> Le prix est attribué à un lauréat qui est originaire ou domicilié dans le canton, ou qui entretient des liens réguliers, durables et significatifs avec lui.
+
+#### Art. 21
+
+**Montants**
+
+<sup>1</sup> Le prix comporte:
+
+- a) la remise d’un diplôme;
+- b) un montant fixé par les départements en charge de la culture et de l’économie sur proposition du Comité de pilotage culture et économie.
+
+<sup>2</sup> Le montant nécessaire à l’attribution du prix et à son organisation est prélevé sur le crédit budgétaire des services en charge de la culture et de l’économie.
+
+<sup>3</sup> Le prix est délivré dans le cadre d’une manifestation organisée par les soins du récipiendaire et en présence alternativement des chefs des départements en charge de la culture et de l’économie.
+
+## 3 Institutions culturelles de l'Etat
 
 ### 3.1 Dispositions générales
 
-#### Art. 16
+#### Art. 22
 
 **Fonds (art. 28 LPrC)**
 
-<sup>1</sup> Les institutions culturelles cantonales, à savoir les Archives cantonales, la Médiathèque Valais (Bibliothèque cantonale) et les Musées cantonaux sont dotées, chacune séparément et pour elle-même, d'un fonds qui a pour but de faciliter des acquisitions, des mesures de traitement, conservation ou restauration des collections, des publications, des recherches ainsi que l'organisation de manifestations culturelles ayant un caractère exceptionnel et qui n'ont pas été prévues au budget annuel. Ces fonds ont également pour but de gérer le financement de projets annuels ou pluriannuels partiellement financés par des tiers.
+<sup>1</sup> Les institutions culturelles de l'Etat, à savoir les Archives cantonales, la Médiathèque Valais (Bibliothèque cantonale), les Musées cantonaux et l'Archéologie cantonale sont dotées, chacune séparément et pour elle-même, d'un fonds qui a pour but de faciliter des acquisitions, des mesures de traitement, de conservation ou de restauration des collections, des publications, des recherches ainsi que l'organisation de manifestations culturelles ayant un caractère exceptionnel et qui n'ont pas été prévues au budget annuel. Ces fonds ont également pour but de gérer le financement de projets annuels ou pluriannuels partiellement financés par des tiers.
 
-<sup>2</sup> Les fonds sont alimentés par:
+<sup>2</sup> Les fonds sont alimentés, sauf dispositions particulières, par:
 
 - a) les legs, dons et libéralités consentis en leur faveur;
 - b) les montants prévus au budget du département à cet effet;
@@ -262,45 +318,51 @@ ordonne:
 - d) le produit de la fortune des fonds;
 - e) toutes les autres sources qui peuvent leur être affectées.
 
-<sup>3</sup> Le fonds est géré par l'institution bénéficiaire qui décide de son affectation dans le respect des dispositions de la loi sur la gestion et le contrôle administratifs et financiers du canton.
+<sup>3</sup> Le fonds est géré par l'institution bénéficiaire qui décide de son affectation dans le respect des dispositions de la LGCAF et des règlements spécifiques à chaque fonds.
 
-#### Art. 17
+#### Art. 23
 
 **Partenariat**
 
-<sup>1</sup> Lorsqu'ils sont sur le point de se séparer d'un objet ou de documents qui pourraient avoir une importance culturelle ou historique, les services et établissements cantonaux informent:
+<sup>1</sup> Lorsqu'ils sont sur le point de se séparer d'un élément du patrimoine culturel mobilier ou documentaire qui pourrait avoir une importance culturelle ou historique, les services et établissements cantonaux doivent informer:
 
 - a) les Archives cantonales lorsqu'il s'agit de fonds d'archives;
 - b) la Médiathèque Valais (Bibliothèque cantonale) lorsqu'il s'agit de documents imprimés ou audiovisuels;
 - c) les Musées cantonaux lorsqu'il s'agit d'un objet mobilier.
 
-<sup>2</sup> Les services cantonaux en charge de la conservation et de la restauration ou de l'intervention sur le patrimoine immobilier privé ainsi que les communes et autres corporations de droit public agissent de même concernant des objets, partie de mobilier ou documents destinés à disparaître, afin que l'institution culturelle compétente puisse se prononcer sur l'acquisition éventuelle de ces objets ou documents.
+<sup>2</sup> Les services cantonaux en charge de la conservation et de la restauration ou de l'intervention sur le patrimoine immobilier privé ainsi que les communes et autres corporations de droit public agissent de même concernant des éléments ou des parties d'éléments du patrimoine culturel mobilier et documentaire destinés à disparaître, afin que l'institution culturelle compétente puisse se prononcer sur l'acquisition éventuelle de ces éléments.
 
-<sup>3</sup> Les institutions culturelles cantonales travaillent en collaboration avec les services cantonaux, les communes et les particuliers. Elles s'emploient à promouvoir leur domaine d'activité et collaborent avec les organisations nationales de leur secteur.
+<sup>3</sup> Les institutions culturelles de l'Etat travaillent en collaboration avec les services cantonaux, les communes et les particuliers. Elles s'emploient à promouvoir leur domaine d'activité et collaborent avec les organisations nationales de leur secteur.
 
-<sup>4</sup> Les institutions culturelles recherchent entre elles une étroite collaboration, notamment en matière de mandat de collection.
+<sup>4</sup> Elles recherchent entre elles une étroite collaboration, notamment en matière de mandat de collection.
 
-<sup>5</sup> Les institutions culturelles cantonales peuvent abriter des activités d'associations scientifiques, culturelles et/ou patrimoniales poursuivant des buts similaires aux leurs.
+<sup>5</sup> Elles peuvent abriter des activités d'associations scientifiques, culturelles et/ou patrimoniales poursuivant des buts similaires aux leurs.
 
-#### Art. 18
+#### Art. 24
 
 **Dépôt d'une publication**
 
-<sup>1</sup> Un ou plusieurs exemplaires justificatifs des travaux et publications qui se fondent entièrement ou partiellement sur les collections ou fonds d'une institution cantonale seront remis gratuitement à l'institution concernée ainsi qu'à la Médiathèque Valais (Bibliothèque cantonale).
+<sup>1</sup> Un ou plusieurs exemplaires justificatifs des travaux et publications qui se fondent entièrement ou partiellement sur les collections ou fonds d'une institution culturelle de l'Etat seront remis gratuitement à l'institution concernée ainsi qu'à la Médiathèque Valais (Bibliothèque cantonale).
 
 ### 3.2 Archives cantonales (art. 29 à 31 LPrC)
 
-#### Art. 19
+#### Art. 25
 
-**Organisation**
+**Organisation, développement, traitement et conservation des fonds d'archives**
 
 <sup>1</sup> Les Archives cantonales conservent:
 
-- a) les archives historiques de la République des sept dizains et des époques de la République helvétique, de la Médiation, du Département du Simplon et de la Transition;
+- a) les archives du Moyen Age et de l'Epoque moderne ainsi que les archives historiques de la République des sept dizains et des époques de la République helvétique, de la Médiation, du Département du Simplon et de la Transition;
 - b) les archives des organismes de l'Etat dès 1815;
 - c) des archives et documents provenant de personnes de droit privé ou publique et qui revêtent un intérêt cantonal ou régional.
 
-#### Art. 20
+<sup>2</sup> Dans le respect du mandat de collection défini à l’article 30 LPrC, le directeur des Archives cantonales est responsable de la collecte des fonds d’archives mis à la disposition du public. Il accomplit cette tâche conformément aux pratiques et normes professionnelles en vigueur et au code de déontologie de la profession.
+
+<sup>3</sup> Les fonds des Archives cantonales sont conservés et traités conformément aux pratiques et normes professionnelles en vigueur.
+
+<sup>4</sup> La collecte, le traitement et la consultation des fonds d’archives légués, donnés ou déposés par des autorités communales et des personnes physiques ou morales sont régis par les dispositions d’un contrat passé entre le légataire, le donateur ou le déposant et les Archives cantonales.
+
+#### Art. 26
 
 **Consultation**
 
@@ -310,15 +372,15 @@ ordonne:
 
 <sup>3</sup> Les Archives cantonales peuvent imposer des conditions particulières à la consultation de documents originaux pour assurer leur sauvegarde ou pour des raisons touchant à l'organisation de leurs activités.
 
-#### Art. 21
+#### Art. 27
 
 **Dépôts**
 
-<sup>1</sup> Le traitement et la consultation de documents légués ou déposés par des personnes physiques ou morales (fonds de familles, d'associations, de communes, etc.) sont régies par les dispositions des contrats de reprise.
+<sup>1</sup> Le traitement et la consultation de documents légués, donnés ou déposés par des personnes physiques ou morales (fonds de familles, d'associations, de communes, etc.) sont régis par les dispositions des contrats de reprise.
 
 <sup>2</sup> Si de telles dispositions font défaut, celles qui régissent les Archives cantonales sont applicables.
 
-#### Art. 22
+#### Art. 28
 
 **Vallesia**
 
@@ -326,27 +388,29 @@ ordonne:
 
 ### 3.3 Médiathèque Valais (Bibliothèque cantonale) (art. 32 à 34 LPrC)
 
-#### Art. 23
+#### Art. 29
 
 **Organisation**
 
-<sup>1</sup> La dénomination publique de la Bibliothèque cantonale est Médiathèque Valais. Elle a son siège à Sion et dispose d‘offices décentralisés à Brigue, Martigny et Saint-Maurice.
+<sup>1</sup> La dénomination publique de la Bibliothèque cantonale est Médiathèque Valais. Elle a son siège à Sion et dispose de sites décentralisés à Brigue, Martigny et Saint-Maurice.
 
-<sup>2</sup> Les collections patrimoniales, au sens de l'article 33 lettre a de la LPrC, dont la Médiathèque est détentrice ou dépositaire sont conservées, gérées et mises en valeur à la Médiathèque de Martigny lorsqu'il s'agit de documents audiovisuels et au siège de Sion pour les autres documents.
+<sup>2</sup> Les collections au sens de l'article 33 lettre a LPrC dont la Médiathèque est détentrice ou dépositaire sont conservées, gérées et mises en valeur à la Médiathèque de Martigny lorsqu'il s'agit de documents audiovisuels et au siège de Sion pour les documents manuscrits et imprimés.
 
-<sup>3</sup> A son siège de Sion et dans ses sites décentralisés de Brigue et Saint-Maurice, la Médiathèque Valais offre les prestations d'une bibliothèque/médiathèque d'information et de culture générale, notamment à travers les prestations prévues à l'article 33 lettre b de la LPrC.
+<sup>3</sup> A son siège de Sion et dans ses sites décentralisés de Brigue et Saint-Maurice, la Médiathèque Valais offre les prestations d'une bibliothèque/médiathèque d'information et de culture générale, notamment à travers les prestations prévues à l'article 33 lettre b LPrC.
 
 <sup>4</sup> Les sites de Brigue et Saint-Maurice assurent la coordination et le soutien aux bibliothèques de lecture publique et aux bibliothèques scolaires situées, pour le premier, dans la partie germanophone et, pour le second, dans la partie francophone du canton.
 
-<sup>5</sup> Le département peut conclure une convention avec des communes ainsi que des institutions afin de fixer les modalités de coopération en vue de leur assurer des prestations particulières de la Médiathèque.
+<sup>5</sup> Le siège de Sion assure la coordination et l’animation du réseau des bibliothèques scientifiques en lien avec la formation tertiaire.
 
-#### Art. 24
+<sup>6</sup> Le département peut conclure une convention avec des communes ainsi que des institutions afin de fixer les modalités de coopération en vue de leur assurer des prestations particulières de la Médiathèque.
+
+#### Art. 30
 
 **Développement des collections**
 
-<sup>1</sup> Dans le respect du mandat de collection défini à l'article 33 de la LPrC, le directeur de la Médiathèque Valais est responsable de la sélection et de l'acquisition des documents et des sources d'information mises à disposition du public. Il accomplit cette tâche conformément aux pratiques et normes professionnelles en vigueur.
+<sup>1</sup> Dans le respect du mandat de collection défini à l'article 33 LPrC, le directeur de la Médiathèque Valais est responsable de la sélection et de l'acquisition des documents et des sources d'information mises à disposition du public. Il accomplit cette tâche conformément aux pratiques et normes professionnelles en vigueur et au code de déontologie de la profession.
 
-#### Art. 25
+#### Art. 31
 
 **Prestations**
 
@@ -354,34 +418,35 @@ ordonne:
 
 <sup>2</sup> La consultation et le prêt à domicile des documents de la Médiathèque Valais sont gratuits. Demeurent réservés les cas particuliers mentionnés aux alinéas suivants.
 
-<sup>3</sup> Afin d'en garantir la conservation, la bibliothèque Médiathèque Valais peut restreindre ou interdire le prêt à domicile de certains documents ou fixer des conditions particulières pour l'accès à certains types d'information.
+<sup>3</sup> Afin d'en garantir la conservation, la Médiathèque Valais peut restreindre ou interdire le prêt à domicile de certains documents ou fixer des conditions particulières pour l'accès à certains types d'information.
 
-<sup>4</sup> Conformément à des directives arrêtées par le département, la bibliothèque Médiathèque Valais peut percevoir des émoluments pour la mise à disposition de documents qui ne sont pas en sa possession, qui requièrent une prestation particulière de la part de la bibliothèque Médiathèque Valais telle que la mise à disposition d'appareils ou de personnel ou pour la fourniture de renseignements exigeant un recherche approfondie.
+<sup>4</sup> Conformément à des directives arrêtées par le département, la Médiathèque Valais peut percevoir des émoluments pour la mise à disposition de documents qui ne sont pas en sa possession, qui requièrent une prestation particulière de la part de la Médiathèque Valais telle que la mise à disposition d'appareils ou de personnel ou pour la fourniture de renseignements exigeant une recherche approfondie.
 
-#### Art. 26
+#### Art. 32
 
 **Traitement et conservation des collections**
 
-<sup>1</sup> Les collections de la bibliothèque Médiathèque sont traitées et conservées conformément aux pratiques et normes professionnelles en vigueur.
+<sup>1</sup> Les collections de la Médiathèque Valais sont traitées et conservées conformément aux pratiques et normes professionnelles en vigueur.
 
-<sup>2</sup> Le traitement et la consultation des documents légués ou déposés par des personnes physiques ou morales sont régis par les dispositions d'un contrat passé entre le légataire ou le déposant et la Médiathèque Valais.
+<sup>2</sup> Le traitement et la consultation des documents légués, donnés ou déposés par des personnes physiques ou morales sont régis par les dispositions d'un contrat passé entre le légataire, le donateur ou le déposant et la Médiathèque Valais.
 
 <sup>3</sup> Si de telles dispositions font défaut, celles qui régissent la Médiathèque Valais sont applicables.
 
-#### Art. 27
+#### Art. 33
 
-**Coordination des bibliothèques et centres de documentation**
+**Coordination des bibliothèques, des centres de documentation et des ludothèques**
 
 <sup>1</sup> Le département arrête:
 
-- a) les principes d'organisation et de gestion applicables aux bibliothèques, aux centres de documentation et aux fonds iconographiques qui sont propriétés du canton ou subventionnés par lui;
-- b) le plan directeur des bibliothèques, centres de documentation et fonds iconographiques qui sont propriétés du canton ou subventionnés par lui.
+- a) les principes d'organisation et de gestion applicables aux bibliothèques, aux centres de documentation, aux ludothèques et aux fonds iconographiques qui sont propriétés du canton ou subventionnés par lui;
+- b) le plan directeur des bibliothèques, centres de documentation et fonds iconographiques qui sont propriétés du canton ou subventionnés par lui;
+- c) le champ d’application de la coordination et de l’animation du réseau des bibliothèques scientifiques.
 
 <sup>2</sup> La Médiathèque Valais est chargée de veiller à l'application des directives arrêtées par le département et de la mise en oeuvre du plan directeur.
 
 ### 3.4 Musées cantonaux (art. 35 et 36 LPrC)
 
-#### Art. 28
+#### Art. 34
 
 **Désignation**
 
@@ -391,43 +456,41 @@ ordonne:
 - b) le Musée d'art du Valais à Sion;
 - c) le Musée de la nature du Valais à Sion.
 
-#### Art. 29
+#### Art. 35
 
 **Organisation**
 
 <sup>1</sup> Les trois musées cantonaux sont réunis dans une structure centralisée placée sous la responsabilité d'un directeur. Ils disposent d'une logistique administrative, technique et documentaire commune.
 
-<sup>2</sup> Le directeur est responsable de la conduite générale de l'institution sur les plans déontologique, administratif et scientifique. Il élabore les politiques, fixe les objectifs, programmes et budgets, assure la coordination des activités et la direction du personnel. Il représente l'institution.
+<sup>2</sup> Dans le respect du mandat de collection défini à l’article 36 LPrC, le directeur des Musées cantonaux est responsable de la collecte des objets mobiliers présentés au public. Il accomplit cette tâche conformément aux pratiques et normes professionnelles en vigueur et au code de déontologie de la profession. Il élabore par ailleurs les politiques, fixe les objectifs, programmes et budgets, assure la coordination des activités et la direction du personnel. Il représente l'institution.
 
 <sup>3</sup> Chaque musée est pourvu d'un ou de plusieurs conservateurs suivant son importance. Le conservateur en charge du musée assume devant le directeur la responsabilité de l'état de conservation des collections et de la qualité scientifique de leur mise en valeur. Il participe à l'élaboration des instruments de direction, gère le budget, le personnel et les équipements qui sont attribués au musée. Il représente le musée.
 
-<sup>4</sup> Chaque musée est régi par une charte approuvée par le département.
-
-<sup>5</sup> Dans le but de renforcer la coopération et la complémentarité avec les musées, propriétés de tiers, qui détiennent des collections d'intérêt cantonal, les Musées cantonaux organisent et gèrent le Réseau Musées Valais selon la charte adoptée par le Département.
-
-#### Art. 30
+#### Art. 36
 
 **Gestion des collections**
 
 <sup>1</sup> Les collections des Musées cantonaux sont développées, inventoriées, conservées, étudiées et mises en valeur selon les pratiques et les normes professionnelles en vigueur dans la communauté des musées. Les dépôts et prêts faits par des tiers sont traités avec le même soin que les collections propriété de l'Etat. Ils font l'objet de contrats spécifiques.
 
-<sup>2</sup> Les collections propriété de l'Etat et conservées par les Musées cantonaux sont en principe inaliénables. D'éventuels doublets peuvent faire l'objet d'échanges avec d'autres institutions comparables.
+<sup>2</sup> Le développement, l’inventaire, la conservation, l’étude et la mise en valeur des objets mobiliers légués, donnés ou déposés par des autorités communales et des personnes physiques ou morales sont régis par les dispositions d’un contrat passé entre le légataire, le donateur ou le déposant et les Musées cantonaux.
 
-<sup>3</sup> Les Musées cantonaux ne peuvent accepter de dépôts ou de donations assorties de charges autres qu'usuelles (conservation, sécurité, mise en valeur scientifique).
+<sup>3</sup> Les collections propriété de l'Etat et conservées par les Musées cantonaux sont en principe inaliénables. D'éventuels doublets peuvent faire l'objet d'échanges avec d'autres institutions comparables.
 
-<sup>4</sup> Le directeur des Musées cantonaux peut autoriser la consultation des collections en réserve, des inventaires, des fonds spéciaux, de la documentation scientifique et administrative à des fins scientifiques, sur présentation d'une demande motivée.
+<sup>4</sup> Les Musées cantonaux ne peuvent accepter de dépôts ou de donations assorties de charges autres qu'usuelles (conservation, sécurité et mise en valeur scientifique).
 
-<sup>5</sup> Les collections sont présentées au public ou rendues accessibles en principe au siège des musées, selon l'horaire officiel. Des prêts peuvent être envisagés, de cas en cas, dans les locaux d'institutions aux buts comparables. Ils feront l'objet de contrats ad hoc. Ces prêts sont liés à l'examen des conditions de conservation des locaux en question. Aucune institution ne peut prétendre à des prêts de droit.
+<sup>5</sup> Le directeur des Musées cantonaux peut autoriser la consultation des collections en réserve, des inventaires, des fonds spéciaux, de la documentation scientifique et administrative à des fins scientifiques, sur présentation d'une demande motivée.
 
-<sup>6</sup> Les collections propriété ou confiées à l'Etat selon l'article 36 lettre c de la LPrC, et placées sous la responsabilité des Musées cantonaux font l'objet d'un inventaire et d'une gestion séparée.
+<sup>6</sup> Les collections sont présentées au public ou rendues accessibles en principe au siège des musées, selon l'horaire officiel. Des prêts peuvent être envisagés, de cas en cas, dans les locaux d'institutions aux buts comparables. Ils font l'objet de contrats ad hoc. Ces prêts sont liés à l'examen des conditions de conservation des locaux en question. Aucune institution ne peut prétendre à des prêts de droit.
 
-#### Art. 31
+<sup>7</sup> Les collections propriété ou confiées à l'Etat selon l'article 36 lettre c LPrC, et placées sous la responsabilité des Musées cantonaux font l'objet d'un inventaire et d'une gestion séparée.
 
-**Châteaux de Valère et de Tourbillon**
+#### Art. 37
 
-<sup>1</sup> Les châteaux de Valère et de Tourbillon sont confiés à la garde des Musées cantonaux, cas échéant d'une fondation, selon des conventions passées avec les propriétaires.
+**Bourg fortifié de Valère et château de Tourbillon**
 
-#### Art. 32
+<sup>1</sup> Le bourg fortifié de Valère et le château de Tourbillon sont confiés à la garde des Musées cantonaux, cas échéant d'une fondation, selon des conventions passées avec les propriétaires.
+
+#### Art. 38
 
 **Directives sur les prestations spéciales**
 
@@ -437,12 +500,25 @@ ordonne:
 - b) la perception des émoluments pour des prestations qui requièrent un engagement particulier de l'institution tels que prêt de matériel, conseils, recherches, expertises scientifiques, participation à des jurys;
 - c) l'utilisation, à titre publicitaire, de reproductions d'objets des collections des Musées cantonaux; cette utilisation est réservée aux associations culturelles à caractère public.
 
-#### Art. 33
+### 3.5 Archéologie cantonale (art. 36.1 et 36.2 LPrC)
 
-**Dispositions finales**
+#### Art. 39
 
-<sup>1</sup> Le présent règlement annule et remplace le règlement sur la promotion de la culture du 7 juillet 1999.
+**Organisation**
 
-<sup>2</sup> Il entre en vigueur avec sa publication dans le Bulletin officiel.
+<sup>1</sup> L’Archéologie cantonale réalise ses missions à travers deux entités :
 
-RCV BO/Abl. 46/2010
+- a) un centre de compétences en archéologie alpine en charge de la collecte, de l’étude, de la conservation et de la mise en valeur du matériel et de la documentation issus des fouilles jusqu’à leur transfert dans des collections publiques;
+- b) une fondation en charge de l’étude, de la conservation et de la mise en valeur du site romain de Martigny.
+
+#### Art. 40
+
+**Collecte du matériel et de la documentation issue des fouilles**
+
+<sup>1</sup> Dans le respect du mandat de collection défini à l’article 36.2 LPrC, le directeur de l’Archéologie cantonale est responsable de la collecte, de l’étude, de la conservation et de la mise en valeur du matériel et de la documentation issue des fouilles jusqu’à leur transfert dans des collections publiques. Il accomplit cette tâche conformément aux pratiques et normes professionnelles en vigueur.
+
+<sup>2</sup> Le transfert du matériel issu des fouilles après études aux Musées cantonaux est réglé par voie conventionnelle entre l’Archéologie cantonale et les Musées cantonaux.
+
+<sup>3</sup> Le transfert de la documentation issue des fouilles après études aux Archives de l’Etat du Valais est réglé par voie conventionnelle entre l’Archéologie cantonale et les Archives cantonales.
+
+RCV RO/AGS 2026-100
