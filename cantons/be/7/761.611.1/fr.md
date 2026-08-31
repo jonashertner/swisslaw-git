@@ -4,13 +4,12 @@ number: "761.611.1"
 title: "Ordonnance sur l’imposition des véhicules routiers et la facturation par l’office compétent *"
 short: "Ordonnance sur l’imposition des véhicules routiers, OIV"
 language: fr
-version: 2023-03-01
-valid_until: 2026-08-31
-version_adopted: 2023-01-11
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 1998-10-28
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/761.611.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2797/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3474/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2797/pdf_file"
 
 (Ordonnance sur l’imposition des véhicules routiers, OIV)
 
-du 28.10.1998 (état au 01.03.2023)
+du 28.10.1998 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -164,7 +163,7 @@ arrête:
 
 <sup>1</sup> L’OCRN peut transmettre le contenu nécessaire des factures ainsi que leurs justificatifs aux instituts financiers chargés de la facturation en ligne.
 
-<sup>2</sup> Sont exclus de la transmission les justificatifs pouvant permettre de déduire des faits qui concernent des données personnelles particulièrement dignes de protection.
+<sup>2</sup> Sont exclus de la transmission les justificatifs pouvant permettre de déduire des faits qui concernent des données sensibles.
 
 ## 4 Exonérations de la taxe cantonale
 

@@ -4,13 +4,12 @@ number: "761.611.1"
 title: Verordnung über die Besteuerung der Strassenfahrzeuge und den Bezug von Forderungen durch das Strassenverkehrs- und Schifffahrtsamt
 short: BSFV
 language: de
-version: 2023-03-01
-valid_until: 2026-08-31
-version_adopted: 2023-01-11
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 1998-10-28
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/761.611.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2797/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3474/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2797/pdf_file"
 
 (BSFV)
 
-vom 28.10.1998 (Stand 01.03.2023)
+vom 28.10.1998 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
