@@ -4,13 +4,12 @@ number: "152.05"
 title: Gesetz über die zentralen Personendatensammlungen
 short: "Personendatensammlungsgesetz, PDSG"
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3300/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3300/pdf_file"
 
 (Personendatensammlungsgesetz, PDSG)
 
-vom 10.03.2020 (Stand 01.01.2026)
+vom 10.03.2020 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -51,7 +50,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz gilt für die Behörden nach Artikel 2 Absatz 6 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^2-1].
+<sup>1</sup> Dieses Gesetz gilt für die Behörden nach Artikel 2 Absatz 1 Buchstabe i des kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^2-1].
 
 [^2-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
@@ -70,7 +69,7 @@ beschliesst:
 
 <sup>1</sup> In diesem Gesetz bedeuten
 
-- a Personendatensammlung: Eine Datensammlung nach Artikel 2 Absatz 2 des KDSG;
+- a Personendatensammlung: Eine Datensammlung nach Artikel 2 Absatz 1 Buchstabe e KDSG;
 - b Zentrale Personendatensammlung: Eine elektronische Personendatensammlung, die das Bearbeiten der Personendaten durch mehrere Behörden ermöglicht und als zentrale Personendatensammlung bezeichnet wird;
 - c Merkmal: Eigenschaft einer Person, die objektiv erfasst und beschrieben werden kann (Art. 3 Bst. f RHG);
 - d Basisprofil: Eine bezeichnete Gruppe von Merkmalen, die keine besonders schützenswerten Personendaten enthalten, kein Profiling nach der einschlägigen Gesetzgebung ermöglichen und deren Bekanntgabe nicht nach Artikel 14 KDSG eingeschränkt ist, z. B. Name, Vornamen und Korrespondenzsprache;
@@ -114,7 +113,7 @@ beschliesst:
 - f das Basisprofil;
 - g die Standardprofile;
 - h die Funktionalitäten, die ein Profiling ermöglichen oder die in anderer Form besonders schützenswerte Personendaten erzeugen;
-- i die Behörden, die trotz Sperre der Datenbekanntgabe nach Artikel 14 KDSG nach der besonderen Gesetzgebung zugriffsberechtig sind;[^7-1]
+- i die Behörden, die trotz Sperre der Datenbekanntgabe nach Artikel 14 Absatz 3 KDSG nach der besonderen Gesetzgebung zugriffsberechtigt sind;[^7-1]
 - k den Zeitpunkt und die weiteren Modalitäten der Vernichtung der Personendaten;
 - l die besonderen Anforderungen an die Informationssicherheit und den Datenschutz;
 - m die weiteren technischen, organisatorischen und finanziellen Einzelheiten;
@@ -155,7 +154,7 @@ beschliesst:
 
 **Prüfung, Anwendung und Publikation der Berechtigungsregeln**
 
-<sup>1</sup> Wer Berechtigungsregeln nach Artikel 8 erlässt, legt sie vorgängig der zuständigen Datenschutzaufsichtsstelle zur Stellungnahme vor (Art. 34 Abs. 1 Bst. k KDSG). Die Stellungnahme kann in der Form eines begründeten Antrags erfolgen (Art. 35 Abs. 3 KDSG).
+<sup>1</sup> Wer Berechtigungsregeln nach Artikel 8 erlässt, legt sie vorgängig der zuständigen Datenschutzbehörde zur Stellungnahme vor. Diese empfiehlt, welche Massnahmen zu ergreifen sind.
 
 <sup>2</sup> Die für eine zentrale Personendatensammlung verantwortliche Organisationseinheit stellt sicher, dass die Benutzerkonti gemäss den Berechtigungsregeln verwaltet werden.
 
@@ -177,7 +176,7 @@ beschliesst:
 
 <sup>1</sup> Die Behörde, die nach der besonderen Gesetzgebung für die Erfassung und Aktualisierung von Personendaten zuständig ist, verantwortet die Richtigkeit und die Vollständigkeit der entsprechenden Merkmale in den zentralen Personendatensammlungen.
 
-<sup>2</sup> Der Regierungsrat kann vorsehen, dass das Einsichtsrecht nach Artikel 21 Absatz 4 KDSG in zentrale Personendatensammlungen durch die betroffene Person direkt und auf elektronischem Weg ausgeübt werden kann.
+<sup>2</sup> Der Regierungsrat kann vorsehen, dass die Einsicht in zentrale Personendatensammlungen durch die betroffene Person direkt und auf elektronischem Weg ausgeübt werden kann.
 
 #### Art. 14
 
@@ -189,7 +188,7 @@ beschliesst:
 
 **Sperren und Einschränkungen der Datenbekanntgabe**
 
-<sup>1</sup> Auskunfts- und Adresssperren nach Artikel 13 KDSG sowie Einschränkungen der Datenbekanntgabe nach Artikel 14 KDSG sind in den zentralen Personendatensammlungen umzusetzen.
+<sup>1</sup> Auskunfts- und Adresssperren sowie Einschränkungen der Datenbekanntgabe sind in den zentralen Personendatensammlungen umzusetzen.
 
 <sup>2</sup> Die betroffene Person kann Sperren oder Einschränkungen der Datenbekanntgabe bei der zuständigen Behörde vornehmen oder löschen lassen.
 
@@ -318,7 +317,7 @@ beschliesst:
 - e Angaben zum Haushalt,
 - f Funktionalitäten nach Artikel 7 Absatz 1 Buchstabe h.
 
-<sup>2</sup> Bei der Erfüllung der Aufgaben gemäss den nachfolgenden Gesetzen ist die Bearbeitung der aufgelisteten Daten, Datenkategorien und Funktionalitäten zulässig, sofern die Verhältnismässigkeit gewahrt bleibt (Art. 5 Abs. 3 KDSG):
+<sup>2</sup> Bei der Erfüllung der Aufgaben gemäss den nachfolgenden Gesetzen ist die Bearbeitung der aufgelisteten Daten, Datenkategorien und Funktionalitäten zulässig, sofern die Verhältnismässigkeit gewahrt bleibt:
 
 <table>
 <tr><th>Nr.</th><th>Gesetz</th><th>Daten, Datenkategorien und Funktionalitäten (Abs. 1)</th></tr>

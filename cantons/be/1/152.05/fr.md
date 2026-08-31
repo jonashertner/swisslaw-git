@@ -4,13 +4,12 @@ number: "152.05"
 title: Loi sur les fichiers centralisés de données personnelles
 short: LFDP
 language: fr
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3300/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3420/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3300/pdf_file"
 
 (LFDP)
 
-du 10.03.2020 (état au 01.01.2026)
+du 10.03.2020 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -51,7 +50,7 @@ arrête:
 
 **Champ d’application**
 
-<sup>1</sup> La présente loi s’applique aux autorités au sens de l'article 2, alinéa 6 de la loi du 19 février 1986 sur la protection des données (LCPD)[^2-1].
+<sup>1</sup> La présente loi s’applique aux autorités au sens de l'article 2, alinéa 1, lettre i de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^2-1].
 
 [^2-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
@@ -70,11 +69,11 @@ arrête:
 
 <sup>1</sup> Au sens de la présente loi, il est entendu par
 
-- a fichier de données personnelles, un fichier au sens de l’article 2, alinéa 2 LCPD;
+- a fichier de données personnelles, un fichier au sens de l’article 2, alinéa 1, lettre e LCPD;
 - b fichier centralisé de données personnelles, un fichier électronique de données personnelles permettant à différentes autorités de traiter ces données et désigné comme fichier centralisé de données personnelles;
 - c caractère, une caractéristique d’une personne pouvant être décrite objectivement et enregistrée (art. 3, lit. f LHR);
-- d profil de base, un groupe déterminé de caractères ne comprenant pas de données personnelles particulièrement dignes de protection, ne permettant pas de profilage au sens de la législation topique et dont la communication n’est pas limitée en vertu de l’article 14 LCPD, comme les nom, prénom et langue de correspondance;
-- e profil standard, un groupe déterminé de caractères qui peuvent aussi être des données particulièrement dignes de protection;
+- d profil de base, un groupe déterminé de caractères ne comprenant pas de données sensibles, ne permettant pas de profilage au sens de la législation topique et dont la communication n’est pas limitée en vertu de l’article 14 LCPD, comme les nom, prénom et langue de correspondance;
+- e profil standard, un groupe déterminé de caractères qui peuvent aussi être des données sensibles;
 - f fonctionnalité, un type particulier de traitement de données qui est possible avec le logiciel du fichier de données, par exemple la combinaison de différentes données personnelles, la définition de la délimitation géographique, temporelle ou matérielle du fichier, ou l'attribution de droits d’édition;
 - g compte d'utilisateur, un droit d’accès à un fichier de données personnelles attribué à une personne physique ou à un système;
 - h procédure d’appel, une acquisition de données extraites de fichiers de données personnelles par le biais d'un accès internet;
@@ -90,7 +89,7 @@ arrête:
 
 <sup>3</sup> Les autorités chargées d’exécuter la législation spéciale peuvent traiter, en procédure d’appel ou d’annonce, les données personnelles des fichiers centralisés de données personnelles dont elles ont besoin pour accomplir leurs tâches légales.
 
-<sup>4</sup> Les autorités peuvent aussi traiter des données personnelles particulièrement dignes de protection dans des fichiers centralisés de données personnelles, pour autant que celles-ci leur soient impérativement nécessaires pour l’accomplissement de leurs tâches légales. L’annexe ​1 précise ces données, les catégories de données et les fonctionnalités et les relie aux lois correspondantes.
+<sup>4</sup> Les autorités peuvent aussi traiter des données sensibles dans des fichiers centralisés de données personnelles, pour autant que celles-ci leur soient impérativement nécessaires pour l’accomplissement de leurs tâches légales. L’annexe ​1 précise ces données, les catégories de données et les fonctionnalités et les relie aux lois correspondantes.
 
 ## 2 Contenu, organisation et accès
 
@@ -110,11 +109,11 @@ arrête:
 - b l’autorité responsable du fichier de données personnelles au sein d’une Direction, de la Chancellerie d’Etat ou de la Justice;
 - c les données personnelles que contient le fichier;
 - d l'étendue des données aux plans géographique et temporel;
-- e les données personnelles particulièrement dignes de protection;
+- e les données sensibles;
 - f le profil de base;
 - g les profils standard;
-- h les fonctionnalités qui permettent un profilage ou qui génèrent sous une autre forme des données personnelles particulièrement dignes de protection;
-- i les autorités habilitées, en vertu de la législation spéciale, à accéder aux données dont la communication a été bloquée, conformément à l’article 14 LCPD;[^7-1]
+- h les fonctionnalités qui permettent un profilage ou qui génèrent sous une autre forme des données sensibles;
+- i les autorités habilitées, en vertu de la législation spéciale, à accéder aux données dont la communication a été bloquée conformément à l’article 14, alinéa 3 LCPD;[^7-1]
 - k le moment et les autres modalités de la destruction des données personnelles;
 - l les exigences particulières en matière de sécurité de l’information et de protection des données;
 - m les autres détails d'ordre technique, organisationnel et financier;
@@ -155,7 +154,7 @@ arrête:
 
 **Vérification, application et publication de la réglementation des droits d‘accès**
 
-<sup>1</sup> Quiconque édicte une règlementation des droits d’accès conformément à l'article 8 la soumet au préalable à l’autorité de surveillance de la protection des données compétente afin qu’elle prenne position (art. 34, al. 1, lit. k LCPD). La prise de position peut prendre la forme d’une proposition motivée (art. 35, al. 3 LCPD).
+<sup>1</sup> Quiconque édicte une règlementation des droits d’accès conformément à l'article 8 la soumet au préalable à l’autorité de protection des données compétente afin qu’elle prenne position. Elle émet des recommandations sur les mesures à prendre.
 
 <sup>2</sup> L'unité administrative qui est responsable d’un fichier centralisé de données personnelles s’assure que la gestion des comptes d'utilisateur est conforme à la réglementation des droits d'accès.
 
@@ -177,7 +176,7 @@ arrête:
 
 <sup>1</sup> L'autorité compétente, conformément à la législation spéciale, pour la saisie et la mise à jour de données personnelles répond de l'exactitude et de l'exhaustivité des caractères correspondants dans les fichiers centralisés de données personnelles.
 
-<sup>2</sup> Le Conseil-exécutif peut prévoir que le droit de consulter ses données au sens de l'article 21, alinéa 4 LCPD puisse être exercé par la personne concernée directement, par voie électronique, dans les fichiers centralisés de données personnelles.
+<sup>2</sup> Le Conseil-exécutif peut prévoir que la consultation de ses données puisse être effectuée par la personne concernée directement, par voie électronique, dans les fichiers centralisés de données personnelles.
 
 #### Art. 14
 
@@ -189,7 +188,7 @@ arrête:
 
 **Blocages des données et limitations de la communication des données**
 
-<sup>1</sup> Les blocages d’information et d’adresse au sens de l’article 13 LCPD ainsi que les limitations de la communication des données au sens de l’article 14 LCPD doivent être mis en œuvre dans les fichiers centralisés de données personnelles.
+<sup>1</sup> Les blocages d’information et d’adresse ainsi que les limitations de la communication des données doivent être mis en œuvre dans les fichiers centralisés de données personnelles.
 
 <sup>2</sup> La personne concernée peut demander à l’autorité compétente d'effectuer ou de supprimer des blocages ou des limitations de la communication des données.
 
@@ -217,7 +216,7 @@ arrête:
 
 <sup>1</sup> Le canton exploite un fichier centralisé de données personnelles pour accomplir les tâches prévues par la LHR et la loi du 12 septembre 1985 sur l'établissement et le séjour des Suisses (LES)[^18-1].
 
-<sup>2</sup> Ce fichier centralisé de données personnelles contient en particulier aussi ces données personnelles particulièrement dignes de protection:
+<sup>2</sup> Ce fichier centralisé de données personnelles contient en particulier aussi ces données sensibles:
 
 - a confession,
 - b informations relatives à la sphère intime de la personne, en particulier à son état psychique, mental ou physique,
@@ -279,9 +278,9 @@ arrête:
 
 **Concours de normes et dispositions transitoires**
 
-<sup>1</sup> L’article 5, alinéa 4, annexe 1 incluse, prime les dispositions contraires d’autres lois sur le traitement de données personnelles particulièrement dignes de protection dans les fichiers centralisés de données personnelles.
+<sup>1</sup> L’article 5, alinéa 4, annexe 1 incluse, prime les dispositions contraires d’autres lois sur le traitement de données sensibles dans les fichiers centralisés de données personnelles.
 
-<sup>2</sup> L’alinéa 1 s’applique jusqu’à ce que des lois spéciales règlent de manière exhaustive le traitement des données personnelles particulièrement dignes de protection dans leur champ d’application.
+<sup>2</sup> L’alinéa 1 s’applique jusqu’à ce que des lois spéciales règlent de manière exhaustive le traitement des données sensibles dans leur champ d’application.
 
 #### Art. 25
 
@@ -318,7 +317,7 @@ arrête:
 - e informations sur le ménage,
 - f fonctionnalités au sens de l’article 7, alinéa 1, lettre h.
 
-<sup>2</sup> Le traitement des données, catégories de données et fonctionnalités énumérées est autorisé pour accomplir les tâches conformément aux lois ci-après si le principe de la proportionnalité est respecté (art. 5, al. 3 LCPD).
+<sup>2</sup> Le traitement des données, catégories de données et fonctionnalités énumérées est autorisé pour accomplir les tâches conformément aux lois ci-après si le principe de la proportionnalité est respecté.
 
 <table>
 <tr><th>N°</th><th>Loi</th><th>Données, catégories de données et fonctionnalités (al. 1)</th></tr>
