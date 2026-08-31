@@ -4,13 +4,12 @@ number: "842.11"
 title: "Loi portant introduction des lois fédérales sur l'assurance-maladie, sur l'assurance-accidents et sur l'assurance militaire"
 short: LiLAMAM
 language: fr
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2020-11-25
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2435/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3445/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2435/pdf_file"
 
 (LiLAMAM)
 
-du 06.06.2000 (état au 01.01.2022)
+du 06.06.2000 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -79,7 +78,7 @@ arrête:
 
 <sup>1</sup> Le service compétent de la DIJ peut accéder aux données des fichiers centralisés de données personnelles selon la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^4-1] qui sont nécessaires à la mise en œuvre de l’obligation de s’assurer par une procédure d’appel ou d’annonce.
 
-<sup>2</sup> L’accès aux données selon l’alinéa 1 porte aussi sur les données particulièrement dignes de protection suivantes:
+<sup>2</sup> L’accès aux données selon l’alinéa 1 porte aussi sur les données sensibles suivantes:
 
 - a les indications relatives à la protection de l’enfant et de l’adulte,
 - b les fonctionnalités des fichiers centralisés de données personnelles concernés.
@@ -337,7 +336,7 @@ arrête:
 
 <sup>1</sup> Le service compétent de la DIJ peut accéder aux données des fichiers centralisés de données personnelles nécessaires à la mise en œuvre de la réduction des primes par une procédure d’appel ou d’annonce.
 
-<sup>2</sup> L’accès aux données selon l’alinéa 1 porte aussi sur les données personnelles particulièrement dignes de protection suivantes:
+<sup>2</sup> L’accès aux données selon l’alinéa 1 porte aussi sur les données sensibles suivantes:
 
 - a les indications relatives à la protection de l’enfant et de l’adulte,
 - b les indications relatives aux ménages,

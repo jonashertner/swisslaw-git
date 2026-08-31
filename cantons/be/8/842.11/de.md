@@ -4,13 +4,12 @@ number: "842.11"
 title: "Gesetz betreffend die Einführung der Bundesgesetze über die Kranken-, die Unfall- und die Militärversicherung"
 short: EG KUMV
 language: de
-version: 2022-01-01
-valid_until: 2026-08-31
-version_adopted: 2020-11-25
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2435/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3445/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2435/pdf_file"
 
 (EG KUMV)
 
-vom 06.06.2000 (Stand 01.01.2022)
+vom 06.06.2000 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -77,7 +76,7 @@ beschliesst:
 
 **Datenbezug aus zentralen Personendatensammlungen**
 
-<sup>1</sup> Die zuständige Stelle der DIJ kann die für den Vollzug der Versicherungspflicht notwendigen Daten im Abruf- oder Meldeverfahren aus zentralen Personendatensammlungen gemäss dem Gesetz vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG[^4-1]) beziehen.
+<sup>1</sup> Die zuständige Stelle der DIJ kann die für den Vollzug der Versicherungspflicht notwendigen Daten im Abruf- oder Meldeverfahren aus zentralen Personendatensammlungen gemäss dem Gesetz vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^4-1] beziehen.
 
 <sup>2</sup> Der Datenbezug nach Absatz 1 umfasst auch folgende besonders schützenswerte Personendaten:
 
