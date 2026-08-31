@@ -3,20 +3,19 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2025-09-01
-valid_until: 2026-08-31
-version_adopted: 2025-08-28
+version: 2026-09-01
+version_adopted: 2026-08-24
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/4523/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4905/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-vom 13.06.2014 (Stand 01.09.2025)
+vom 13.06.2014 (Stand 01.09.2026)
 
 Der Fachhochschulrat der Hochschule Luzern,
 
@@ -259,7 +258,8 @@ beschliesst:
 
 <sup>1</sup> Die Bachelor-Ausbildung ist abgeschlossen, wenn
 
-- a. alle gemäss Studienplan definierten Module beziehungsweise Modulgruppen bestanden und die erforderlichen 180 Credits erworben sind und
+- a. alle gemäss Studienplan definierten Module beziehungsweise Modulgruppen bestanden und die erforderlichen 180 Credits erworben wurden,
+- a.<sup>bis</sup> davon mindestens 60 Credits an der Hochschule Luzern erworben wurden, und
 - b. die Bachelor-Arbeit mindestens mit dem Grade «E» oder äquivalent bewertet wurde.
 
 #### Art. 20
@@ -295,7 +295,8 @@ beschliesst:
 
 <sup>1</sup> Die Master-Ausbildung ist abgeschlossen, wenn
 
-- a. alle gemäss Studienplan definierten Module bestanden und die erforderlichen 90 beziehungsweise 120 Credits erworben wurden und
+- a. alle gemäss Studienplan definierten Module bestanden und die erforderlichen 90 beziehungsweise 120 Credits erworben wurden,
+- a.<sup>bis</sup> davon mindestens 30 Credits an der Hochschule Luzern erworben wurden, und
 - b. die Master-Thesis mindestens mit dem Grade «E» oder äquivalent bewertet wurde.
 
 #### Art. 24
@@ -725,7 +726,7 @@ beschliesst:
 - c. ein anerkannter Fachmaturitätsabschluss für das Berufsfeld Soziale Arbeit,
 - d. ein Ausbildungsabschluss, der mit der Berufsmaturität oder mit der gymnasialen Maturität vergleichbar ist, oder
 - e. das Bestehen eines Äquivalenzverfahrens, wodurch die Bewerberinnen und Bewerber nachweisen, dass sie fehlende formale Aufnahmequalifikationen durch materielle Leistungen kompensieren,
-- f. und in jedem Fall das Bestehen einer schulinternen Eignungsabklärung.
+- f. und in jedem Fall das Bestehen einer hochschulinternen Eignungsabklärung.
 
 <sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–e wird von Bewerberinnen und Bewerbern nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, ein anerkanntes Sprachdiplom in Deutsch auf Niveau C1 (Goethe-Zertifikat) vorausgesetzt.
 
@@ -743,11 +744,13 @@ beschliesst:
 - b. eine anerkannte gymnasiale Maturität,
 - c. ein anerkannter Fachmaturitätsabschluss für das Berufsfeld Gesundheit,
 - d. ein Ausbildungsabschluss, der mit der Berufsmaturität oder mit der gymnasialen Maturität vergleichbar ist,
-- e. und in jedem Fall das Bestehen einer schulinternen Eignungsabklärung.
+- e. und das Bestehen einer hochschulinternen Eignungsabklärung, sofern kein Fähigkeitszeugnis im Gesundheitsbereich, eine Berufsmaturität oder eine Fachmaturität Gesundheit nachgewiesen werden kann.
 
-<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–e müssen Bewerberinnen und Bewerber nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, einen Nachweis guter Deutschkenntnisse (mindestens Niveau C1) erbringen.
+<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–e müssen Bewerberinnen und Bewerber nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, einen Nachweis guter Deutschkenntnisse (mindestens Goethe-Zertifikat C1) erbringen.
 
-<sup>3</sup> Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld Gesundheit oder Diplom) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitswelterfahrung erbracht werden, die vor, während und/oder nach dem Studium erlangt werden kann. Der Nachweis der Arbeitswelterfahrung ist Bedingung für die Aushändigung des Diploms.
+<sup>3</sup> Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld Gesundheit oder Diplom) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitswelterfahrung erbracht werden, die vor (mindestens zwei Monate) und während des Studiums erlangt werden kann. Der Nachweis der Arbeitswelterfahrung ist Bedingung für die Aushändigung des Diploms.
+
+<sup>4</sup> Es kann ein Selektionsverfahren zur Verteilung der verfügbaren Studienplätze stattfinden. Das Selektionsverfahren wird durch das Department festgelegt.
 
 #### Art. A3-3
 
@@ -763,9 +766,9 @@ beschliesst:
 
 <sup>2</sup> Personen ohne Maturität nach den Unterabsätzen b–e müssen über gute Mathematikkenntnisse verfügen (Niveau Berufsmaturität Gesundheit) und zusätzlich den Nachweis von ausreichenden Englischkenntnissen (mindestens Niveau B1) erbringen.
 
-<sup>3</sup> In Ergänzung zu den Voraussetzungen gemäss a–e müssen Bewerberinnen und Bewerber nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, einen Nachweis guter Deutschkenntnisse (Niveau C1) erbringen.
+<sup>3</sup> In Ergänzung zu den Voraussetzungen gemäss a–e müssen Bewerberinnen und Bewerber nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, einen Nachweis guter Deutschkenntnisse (Goethe-Zertifikat C1) erbringen.
 
-<sup>4</sup> Es kann eine Eignungsabklärung stattfinden. Das Abklärungsverfahren wird durch das Departement festgelegt.
+<sup>4</sup> Es kann ein Selektionsverfahren zur Verteilung der verfügbaren Studienplätze stattfinden. Das Selektionsverfahren wird durch das Departement festgelegt.
 
 ## A4 Anhang 4: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design Film Kunst
 
