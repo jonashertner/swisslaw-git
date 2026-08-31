@@ -4,13 +4,12 @@ number: "153.01"
 title: Loi sur le personnel
 short: LPers
 language: fr
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2022-06-14
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3024/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3422/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3024/pdf_file"
 
 (LPers)
 
-du 16.09.2004 (état au 01.01.2024)
+du 16.09.2004 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -187,17 +186,15 @@ arrête:
 
 <sup>1</sup> Les données personnelles des agents et agentes résultant de l'utilisation de l'infrastructure électronique (art. 12b) ne peuvent
 
-- a être enregistrées (art. 12c) et évaluées (art. 12d) par les autorités cantonales responsables conformément à l'article 8 de la loi du 19 février 1986 sur la protection des données (LCPD)[^12a-1] que dans des buts définis;
+- a être enregistrées (art. 12c) et évaluées (art. 12d) par les autorités cantonales responsables conformément à la législation sur la protection des données que dans des buts définis;
 - b être conservées par les autorités cantonales responsables conformément à l'article 8 LCPD qu’aussi longtemps que cela est nécessaire.
 
-<sup>2</sup> Le traitement des données selon la présente section peut aussi concerner des données personnelles particulièrement dignes de protection ou des données permettant de dresser un profil de personnalité.
+<sup>2</sup> Le traitement des données selon la présente section peut aussi concerner des données sensibles ou des données permettant de dresser un profil de personnalité.
 
 <sup>3</sup> Les dispositions de la présente section
 
 - a s'appliquent par analogie aux personnes visées à l'article 3, alinéas 5 à 7;
 - b ne s’appliquent pas lorsqu’une autre loi régit le traitement des données personnelles résultant de l’utilisation de l’infrastructure électronique.
-
-[^12a-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 #### Art. 12b
 
@@ -272,18 +269,18 @@ arrête:
 
 <sup>2</sup> Le numéro AVS selon la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants (LAVS)[^12f-1] est traité dans le système d'information sur le personnel.
 
-<sup>3</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches au sens de la présente loi, sont traitées dans le système d'information sur le personnel des données personnelles particulièrement dignes de protection concernant
+<sup>3</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches au sens de la présente loi, sont traitées dans le système d'information sur le personnel des données sensibles concernant
 
 - a l'appartenance religieuse,
 - b les opinions et l'appartenance politiques,
 - c l'évaluation des performances,
 - d l'état de santé,
-- e les mesures d'aide sociales ou d'assistance,
+- e les mesures d'aide sociales ou de protection de l’enfant et de l’adulte,
 - f les procédures pénales ainsi que les sanctions administratives ou pénales.
 
 <sup>4</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches légales,
 
-- a il est possible d'accéder, dans le système d'information sur le personnel, à des données particulièrement dignes de protection de fichiers centralisés de données personnelles du canton selon l’alinéa 3, y compris à des données antérieures;
+- a il est possible d'accéder, dans le système d'information sur le personnel, à des données sensibles de fichiers centralisés de données personnelles du canton selon l’alinéa 3, y compris à des données antérieures;
 - b un profilage conforme à la législation en vigueur est admissible dans le système d’information sur le personnel.
 
 [^12f-1]: RS [831.10](https://db.clex.ch/link/Bund/831.10/fr)
@@ -295,7 +292,7 @@ arrête:
 <sup>1</sup> Sous réserve des obligations particulières de garder le secret, les autorités et institutions chargées d'exécuter la présente loi
 
 - a peuvent communiquer des données personnelles à d'autres services cantonaux dans la mesure où cela est nécessaire à l’accomplissement des tâches;
-- b peuvent communiquer des données particulièrement dignes de protection à d'autres service cantonaux dans la mesure où cela est impérativement nécessaire à l’accomplissement des tâches.
+- b peuvent communiquer des données sensibles à d'autres service cantonaux dans la mesure où cela est impérativement nécessaire à l’accomplissement des tâches.
 
 #### Art. 12h
 

@@ -4,13 +4,12 @@ number: "153.01"
 title: Personalgesetz
 short: PG
 language: de
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2022-06-14
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3024/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3024/pdf_file"
 
 (PG)
 
-vom 16.09.2004 (Stand 01.01.2024)
+vom 16.09.2004 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -185,7 +184,7 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Personendaten von Mitarbeiterinnen und Mitarbeitern, die bei der Nutzung der elektronischen Infrastruktur (Art. 12b) anfallen, dürfen von den nach Artikel 8 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^12a-1] verantwortlichen kantonalen Behörden
+<sup>1</sup> Personendaten von Mitarbeiterinnen und Mitarbeitern, die bei der Nutzung der elektronischen Infrastruktur (Art. 12b) anfallen, dürfen von den nach der Datenschutzgesetzgebung verantwortlichen kantonalen Behörden
 
 - a ausschliesslich zu bestimmten Zwecken aufgezeichnet (Art. 12c) und ausgewertet (Art. 12d) werden,
 - b nur so lange wie nötig aufbewahrt werden.
@@ -196,8 +195,6 @@ beschliesst:
 
 - a gelten für die in Artikel 3 Absätze 5 bis 7 erwähnten Personen sinngemäss,
 - b gelten nicht, wenn ein anderes Gesetz die Bearbeitung der bei der Nutzung der elektronischen Infrastruktur anfallenden Personendaten regelt.
-
-[^12a-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 12b
 
@@ -278,7 +275,7 @@ beschliesst:
 - b die politischen Ansichten und Zugehörigkeiten,
 - c die Leistungsbeurteilung,
 - d die Gesundheit,
-- e Massnahmen zur sozialen Hilfe oder fürsorgerischen Betreuung,
+- e Massnahmen zur sozialen Hilfe oder zum Kindes- und Erwachsenenschutz,
 - f Strafverfahren sowie administrative und strafrechtliche Sanktionen.
 
 <sup>4</sup> Soweit es zur Aufgabenerfüllung gemäss diesem Gesetz zwingend notwendig ist,
