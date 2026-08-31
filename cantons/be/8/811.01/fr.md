@@ -4,13 +4,12 @@ number: "811.01"
 title: "Loi sur la santé publique *"
 short: LSP
 language: fr
-version: 2024-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-28
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3051/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3441/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3051/pdf_file"
 
 (LSP)
 
-du 02.12.1984 (état au 01.08.2024)
+du 02.12.1984 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -301,7 +300,7 @@ arrête:
 <sup>2</sup> Les personnes responsables de la gestion de l'établissement de santé et celles qui y travaillent sont tenues, dans la mesure nécessaire à l'exercice de la surveillance,
 
 - a de fournir gratuitement des renseignements au service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou aux personnes mandatées par ce dernier;
-- b de leur permettre de consulter sans frais les dossiers, y compris si nécessaire les données personnelles particulièrement dignes de protection;
+- b de leur permettre de consulter sans frais les dossiers, y compris si nécessaire les données sensibles;
 - c de leur donner accès aux locaux et aux équipements;
 - d de les soutenir dans tous les domaines.
 

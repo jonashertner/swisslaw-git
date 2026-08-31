@@ -4,13 +4,12 @@ number: "811.01"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-08-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-28
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3051/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3441/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3051/pdf_file"
 
 (GesG)
 
-vom 02.12.1984 (Stand 01.08.2024)
+vom 02.12.1984 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
