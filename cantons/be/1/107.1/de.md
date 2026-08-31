@@ -4,13 +4,12 @@ number: "107.1"
 title: Gesetz über die Information und die Medienförderung
 short: IMG
 language: de
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2022-09-05
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1993-11-02
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/107.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2936/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2936/pdf_file"
 
 (IMG)
 
-vom 02.11.1993 (Stand 01.01.2024)
+vom 02.11.1993 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -401,7 +400,7 @@ beschliesst:
 
 **Besonders schützenswerte Personendaten**
 
-<sup>1</sup> Der Zugang zu besonders schützenswerten Personendaten gemäss Artikel 3 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^28-1] erfordert die ausdrückliche Zustimmung der betroffenen Person.
+<sup>1</sup> Der Zugang zu besonders schützenswerten Personendaten gemäss Artikel 2 Absatz 1 Buchstaben c und d des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^28-1] erfordert die ausdrückliche Zustimmung der betroffenen Person.
 
 [^28-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
@@ -417,7 +416,7 @@ beschliesst:
 
 <sup>2</sup> Als überwiegende private Interessen gelten insbesondere
 
-- a der Schutz besonders schützenswerter Personendaten gemäss Artikel 3 KDSG,
+- a der Schutz besonders schützenswerter Personendaten,
 - b der Persönlichkeitsschutz in nicht rechtskräftig abgeschlossenen Verwaltungs- und Justizverfahren, ausser der Zugang zu Informationen rechtfertigt sich nach Artikel 23 oder 24 oder ergibt sich aus der für das betreffende Rechtsgebiet anwendbaren Verfahrensordnung,
 - c das Geschäftsgeheimnis oder das Berufsgeheimnis.
 

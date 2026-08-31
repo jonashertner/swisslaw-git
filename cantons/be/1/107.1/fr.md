@@ -4,13 +4,12 @@ number: "107.1"
 title: "Loi sur l'information et l'aide aux médias *"
 short: LIAM
 language: fr
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2022-09-05
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 1993-11-02
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/107.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2936/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3412/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2936/pdf_file"
 
 (LIAM)
 
-du 02.11.1993 (état au 01.01.2024)
+du 02.11.1993 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -399,9 +398,9 @@ arrête:
 
 #### Art. 28
 
-**Données personnelles particulièrement dignes de protection**
+**Données sensibles**
 
-<sup>1</sup> L'accès aux données personnelles particulièrement dignes de protection selon l'article 3 de la loi du 19 février 1986 sur la protection des données (LCPD)[^28-1] ne peut avoir lieu sans l'accord exprès de la personne concernée.
+<sup>1</sup> L'accès aux données sensibles selon l'article 2, alinéa 1, lettres c et d de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^28-1] ne peut avoir lieu sans l'accord exprès de la personne concernée.
 
 [^28-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
@@ -417,7 +416,7 @@ arrête:
 
 <sup>2</sup> Sont réputés intérêts privés prépondérants en particulier
 
-- a la protection de données personnelles particulièrement dignes de protection selon l'article 3 LCPD;
+- a la protection des données sensibles;
 - b la protection de la personnalité dans des procédures administratives ou judiciaires non closes par une décision entrée en force, sauf si l'accès aux informations se justifie en vertu des articles 23 ou 24 ou découle des prescriptions procédurales applicables au domaine en question;
 - c le secret commercial ou le secret professionnel.
 
