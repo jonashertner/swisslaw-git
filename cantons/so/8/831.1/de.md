@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2025-09-03
+version: 2026-09-01
+valid_until: 2026-12-31
+version_adopted: 2026-05-05
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5593/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5665/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5593/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.01.2026)
+Vom 31.01.2007 (Stand 01.09.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -428,7 +428,7 @@ beschliesst:
 
 **Aus- und Weiterbildung**
 
-<sup>1</sup> Wohnheime und Tagesstätten gemäss § 141, ambulante und teilstationäre Dienste gemäss § 142 und Pflegeheime gemäss § 144, die ihren Sitz im Kanton Solothurn haben und Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen, sind verpflichtet, sich angemessen an der Aus- und Weiterbildung der nicht-universitären Gesundheitsberufe zu beteiligen. Der Regierungsrat kann beschliessen, dass der Vollzug der Aus- und Weiterbildungsverpflichtung für die Jahre 2024 und 2025 ganz oder teilweise ausgesetzt wird oder in bestimmten Bereichen von den rechtlichen Vorgaben betreffend die Aus- und Weiterbildungsverpflichtung abgewichen werden darf.
+<sup>1</sup> Wohnheime und Tagesstätten gemäss § 141, ambulante und teilstationäre Dienste gemäss § 142 und Pflegeheime gemäss § 144, die ihren Sitz im Kanton Solothurn haben und Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen, sind verpflichtet, sich angemessen an der Aus- und Weiterbildung der nicht-universitären Gesundheitsberufe zu beteiligen. Der Regierungsrat kann beschliessen, dass der Vollzug der Aus- und Weiterbildungsverpflichtung für die Jahre 2024, 2025, 2026 und 2027 ganz oder teilweise ausgesetzt wird oder in bestimmten Bereichen von den rechtlichen Vorgaben betreffend die Aus- und Weiterbildungsverpflichtung abgewichen werden darf.
 
 <sup>2</sup> Der Umfang der Aus- und Weiterbildungsverpflichtung wird insbesondere unter Berücksichtigung der Grösse und des Angebots des Betriebes sowie im Verhältnis zum Bedarf festgelegt.
 
@@ -448,6 +448,21 @@ beschliesst:
 **Vollzug der Aus- und Weiterbildung**
 
 <sup>1</sup> Der Regierungsrat kann den Vollzug und die damit verbundene Verfügungskompetenz zur Festlegung und Überprüfung der Aus- und Weiterbildungsverpflichtung sowie zur Festlegung von Ausgleichszahlungen an Fachorganisationen oder Branchenverbände delegieren. Er schliesst mit diesen eine Leistungsvereinbarung ab, welche die Pflichten und die Berichterstattung regelt.
+
+#### § 22terbis
+
+**Mitwirkungspflichten und Datenaustausch**
+
+<sup>1</sup> Die Betriebe sind verpflichtet:
+
+- a) dem Departement und den mit Vollzugsaufgaben nach diesem Gesetz betrauten Fachorganisationen und Branchenverbänden die für die Festlegung der Aus- und Weiterbildungsleistung und der Ausgleichszahlung sowie die weiteren für den Vollzug der Aus- und Weiterbildungsverpflichtung erforderlichen Daten unentgeltlich und elektronisch zur Verfügung zu stellen und
+- b) für den Datenaustausch mit den Vollzugsbehörden gemäss Buchstabe a ausschliesslich die vom Kanton betriebene Webapplikation, mit welcher die Aus- und Weiterbildungsverpflichtung abgewickelt wird, zu verwenden, wobei das Departement in besonderen Fällen Ausnahmen vorsehen kann.
+
+<sup>2</sup> Bei Nichterfüllung oder nicht ordnungsgemässer Erfüllung der Pflichten gemäss Absatz 1 trotz Mahnung kann das Departement eine Festlegung gemäss pflichtgemässem Ermessen vornehmen. In diesem Rahmen können Erfahrungswerte und die Entwicklungen in den Vorjahren berücksichtigt werden.
+
+<sup>3</sup> Das Departement kann von den Berufsbildungszentren pro Betrieb die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe elektronisch erheben.
+
+<sup>4</sup> Der Datenaustausch gemäss den Absätzen 1 und 3 kann im Rahmen eines elektronischen Abrufverfahrens erfolgen.
 
 #### § 22quater
 
@@ -2601,6 +2616,12 @@ beschliesst:
 <sup>3</sup> Übertrifft ein Betrieb gemäss Absatz 1 die festgelegte Aus- und Weiterbildungsleistung, erhält er einen Beitrag aus dem Ausgleichsfonds.
 
 <sup>4</sup> Überschüsse im Ausgleichsfonds können für die Finanzierung von Massnahmen und Projekten zugunsten der nicht-universitären Gesundheitsberufe im Kanton Solothurn eingesetzt werden.
+
+#### § 168ter
+
+**Busse bei Aus- und Weiterbildungsverpflichtung**
+
+<sup>1</sup> Das Departement kann bei Nichterfüllung oder nicht ordnungsgemässer Erfüllung der Pflichten gemäss § 22<sup>ter</sup><sup>bis</sup> Absatz 1 trotz Mahnung eine Ordnungsbusse bis zu 1'000 Franken erheben.
 
 #### § 169
 
