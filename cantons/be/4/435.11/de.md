@@ -4,13 +4,12 @@ number: "435.11"
 title: "Gesetz über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerG
 language: de
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-16
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2005-06-14
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2021/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3434/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2021/pdf_file"
 
 (BerG)
 
-vom 14.06.2005 (Stand 01.11.2020)
+vom 14.06.2005 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 

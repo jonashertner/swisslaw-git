@@ -4,13 +4,12 @@ number: "435.11"
 title: "Loi sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: LFOP
 language: fr
-version: 2020-11-01
-valid_until: 2026-08-31
-version_adopted: 2020-09-16
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2005-06-14
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2021/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3434/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2021/pdf_file"
 
 (LFOP)
 
-du 14.06.2005 (état au 01.11.2020)
+du 14.06.2005 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -619,9 +618,9 @@ arrête:
 
 <sup>1</sup> Le traitement et la communication des données personnelles de personnes en formation est régi par la législation sur la protection des données.
 
-<sup>2</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent se communiquer au cas par cas les données de personnes en formation, y compris les données particulièrement dignes de protection, qui sont impérativement nécessaires pour l’accomplissement des différentes tâches légales. Les obligations particulières de garder le secret sont réservées.
+<sup>2</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent se communiquer au cas par cas les données de personnes en formation, y compris les données sensibles, qui sont impérativement nécessaires pour l’accomplissement des différentes tâches légales. Les obligations particulières de garder le secret sont réservées.
 
-<sup>3</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent communiquer les données de personnes en formation, y compris les données particulièrement dignes de protection, aux autorités des écoles dont sont issues les personnes en formation, si ces informations contribuent à l’assurance-qualité des décisions d’orientation.
+<sup>3</sup> De plus, les personnes chargées de l’exécution de la présente loi peuvent communiquer les données de personnes en formation, y compris les données sensibles, aux autorités des écoles dont sont issues les personnes en formation, si ces informations contribuent à l’assurance-qualité des décisions d’orientation.
 
 <sup>4</sup> Le traitement et la communication de données dans le cadre de la collaboration interinstitutionnelle (CII) sont régis par la législation cantonale sur le marché du travail.
 
