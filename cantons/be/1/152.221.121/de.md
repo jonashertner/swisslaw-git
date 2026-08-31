@@ -4,13 +4,12 @@ number: "152.221.121"
 title: "Verordnung über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion"
 short: "Organisationsverordnung GSI, OrV GSI"
 language: de
-version: 2025-07-01
-valid_until: 2026-08-31
-version_adopted: 2024-11-13
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3096/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3096/pdf_file"
 
 (Organisationsverordnung GSI, OrV GSI)
 
-vom 30.06.2021 (Stand 01.07.2025)
+vom 30.06.2021 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -165,8 +164,10 @@ beschliesst:
 
 <sup>2</sup> Das Generalsekretariat ist Kontaktstelle für
 
-- a den Datenschutz gemäss der Datenschutzgesetzgebung,
+- a …
 - b die Grundversorgung gemäss der Gesetzgebung über die Informations- und Telekommunikationstechnik der Kantonsverwaltung.
+
+<sup>3</sup> Das Generalsekretariat nimmt die Aufgaben der Datenschutzberaterin oder des Datenschutzberaters gemäss der Datenschutzgesetzgebung wahr.
 
 #### Art. 9
 

@@ -4,13 +4,12 @@ number: "152.221.121"
 title: "Ordonnance sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration"
 short: "Ordonnance d’organisation DSSI, OO DSSI"
 language: fr
-version: 2025-07-01
-valid_until: 2026-08-31
-version_adopted: 2024-11-13
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3096/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3462/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3096/pdf_file"
 
 (Ordonnance d’organisation DSSI, OO DSSI)
 
-du 30.06.2021 (état au 01.07.2025)
+du 30.06.2021 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -165,8 +164,10 @@ arrête:
 
 <sup>2</sup> Le Secrétariat général est l’organe de contact pour
 
-- a la protection des données conformément à la législation régissant ce domaine,
+- a …
 - b les services de base conformément à la législation sur les technologies de l’information et de la communication de l’administration cantonale.
+
+<sup>3</sup> Le Secrétariat général assume les tâches de conseiller à la protection des données conformément à la législation sur la protection des données.
 
 #### Art. 9
 
