@@ -4,13 +4,12 @@ number: "860.1"
 title: Gesetz über die öffentliche Sozialhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2001-06-11
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2970/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3446/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2970/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-vom 11.06.2001 (Stand 01.01.2024)
+vom 11.06.2001 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -940,11 +939,9 @@ beschliesst:
 
 <sup>2</sup> Die Daten sind so weit zu anonymisieren, dass lediglich Rückschlüsse auf Gemeinden und Leistungserbringer möglich sind.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion trägt die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^57g-1].
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion trägt die Verantwortung für den Datenschutz im Sinne der Datenschutzgesetzgebung.
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung. Er kann insbesondere die Art und den Umfang der Daten sowie den Zeitpunkt der Datenlieferung näher regeln.
-
-[^57g-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 57h
 
@@ -1143,7 +1140,7 @@ beschliesst:
 - d …
 - e der Berechnung der Besoldungsaufwendungen.
 
-<sup>6</sup> Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 KDSG trägt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
+<sup>6</sup> Die Verantwortung für den Datenschutz im Sinne der Datenschutzgesetzgebung trägt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
 
 <sup>7</sup> …
 

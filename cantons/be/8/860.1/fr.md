@@ -4,13 +4,12 @@ number: "860.1"
 title: "Loi sur l'aide sociale"
 short: LASoc
 language: fr
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-06-13
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2001-06-11
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2970/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3446/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2970/pdf_file"
 
 (LASoc)
 
-du 11.06.2001 (état au 01.01.2024)
+du 11.06.2001 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -897,7 +896,7 @@ arrête:
 
 **Obligations de renseigner et droit d’informer des tiers**
 
-<sup>1</sup> Les autorités et personnes ci-après sont tenues de fournir aux personnes chargées d’exécuter la présente loi des renseignements écrits ou oraux, y compris concernant des données personnelles particulièrement dignes de protection, le secret professionnel selon l’article 321 CP étant réservé:
+<sup>1</sup> Les autorités et personnes ci-après sont tenues de fournir aux personnes chargées d’exécuter la présente loi des renseignements écrits ou oraux, y compris concernant des données sensibles, le secret professionnel selon l’article 321 CP étant réservé:
 
 - a les autorités du canton et des communes conformément à l’article 2 LPJA, notamment les autorités du contrôle des habitants, les autorités chargées des questions relatives aux étrangers, les autorités fiscales et les organes de police;
 - b les personnes et les organisations de droit public ou de droit privé, dans la mesure où elles sont chargées d’accomplir des tâches publiques cantonales ou communales;
@@ -939,11 +938,9 @@ arrête:
 
 <sup>2</sup> Les données sont rendues anonymes afin d’exclure tout recoupement autre qu’avec les communes et les fournisseurs de prestations.
 
-<sup>3</sup> La responsabilité de la protection des données au sens de l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^57g-1] incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>3</sup> La responsabilité de la protection des données au sens de la législation sur la protection des données incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>4</sup> Le Conseil-exécutif règle les détails par voie d’ordonnance. Il peut en particulier préciser la nature et le volume des données ainsi que la date de remise.
-
-[^57g-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 #### Art. 57h
 
@@ -1142,7 +1139,7 @@ arrête:
 - d …
 - e le calcul des frais de traitement.
 
-<sup>6</sup> La responsabilité de la protection des données au sens de l’article 8, alinéa 2 LCPD incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>6</sup> La responsabilité de la protection des données au sens de la législation sur la protection des données incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>7</sup> …
 
