@@ -4,13 +4,12 @@ number: "122.20"
 title: "Loi portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration"
 short: Li LFAE
 language: fr
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3299/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3417/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3299/pdf_file"
 
 (Li LFAE)
 
-du 09.12.2019 (état au 01.01.2026)
+du 09.12.2019 (état au 01.09.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -474,15 +473,19 @@ arrête:
 
 **Traitement des données personnelles**
 
-<sup>1</sup> Les services cantonaux et communaux ayant compétence pour l'accomplissement des tâches au sens de la présente loi et les organismes auxquels des tâches sont déléguées dans le cadre de la présente loi peuvent traiter ou confier pour traitement des données personnelles, y compris des données particulièrement dignes de protection, de personnes étrangères ou de tiers participant à une procédure selon la présente loi, pour autant que cela soit nécessaire à l'accomplissement des tâches qui leur incombent de par la loi.
+<sup>1</sup> Les services cantonaux et communaux ayant compétence pour l'accomplissement des tâches au sens de la présente loi et les organismes auxquels des tâches sont déléguées dans le cadre de la présente loi peuvent traiter ou confier pour traitement des données personnelles, y compris des données sensibles, de personnes étrangères ou de tiers participant à une procédure selon la présente loi, pour autant que cela soit nécessaire à l'accomplissement des tâches qui leur incombent de par la loi.
 
 #### Art. 38
 
 **Communication des données**
 
-<sup>1</sup> Les services cantonaux et communaux ayant compétence pour l'exécution de la présente loi et les organismes auxquels des tâches sont déléguées dans le cadre de la présente loi peuvent, au cas par cas, s'échanger des données personnelles traitées en lien avec l'exécution de la présente loi, y compris des données particulièrement dignes de protection, ou les communiquer à d'autres autorités, pour autant que cela soit nécessaire à l'accomplissement des tâches qui incombent de par la loi aux destinataires de ces données.
+<sup>1</sup> Les services cantonaux et communaux ayant compétence pour l'exécution de la présente loi et les organismes auxquels des tâches sont déléguées dans le cadre de la présente loi peuvent, au cas par cas, s'échanger des données personnelles traitées en lien avec l'exécution de la présente loi, y compris des données sensibles, ou les communiquer à d'autres autorités, pour autant que cela soit nécessaire à l'accomplissement des tâches qui incombent de par la loi aux destinataires de ces données.
+
+<sup>1a</sup> La communication de données personnelles de personnes étrangères par le contrôle des habitantes et des habitants est régie selon l’article 12 de la loi du 12 septembre 1985 sur l'établissement et le séjour des Suissesses et des Suisses (LES)[^38-1].
 
 <sup>2</sup> Au surplus, la communication de données personnelles par les autorités ayant compétence pour l'exécution de la présente loi est régie par les dispositions de la législation fédérale sur les étrangers et sur l'asile et de la législation cantonale en matière de protection des données.
+
+[^38-1]: RSB [122.11](https://www.belex.sites.be.ch/data/122.11/fr)
 
 #### Art. 39
 

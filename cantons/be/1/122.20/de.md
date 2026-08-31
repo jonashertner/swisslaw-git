@@ -4,13 +4,12 @@ number: "122.20"
 title: Einführungsgesetz zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz
 short: EG AIG und AsylG
 language: de
-version: 2026-01-01
-valid_until: 2026-08-31
-version_adopted: 2024-09-11
+version: 2026-09-01
+version_adopted: 2025-12-03
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3299/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3299/pdf_file"
 
 (EG AIG und AsylG)
 
-vom 09.12.2019 (Stand 01.01.2026)
+vom 09.12.2019 (Stand 01.09.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -482,7 +481,11 @@ beschliesst:
 
 <sup>1</sup> Die für den Vollzug dieses Gesetzes zuständigen Stellen des Kantons und der Gemeinden sowie die mit Aufgaben gemäss diesem Gesetz beauftragten Trägerschaften können zum Vollzug dieses Gesetzes bearbeitete Personendaten, einschliesslich besonders schützenswerter Personendaten, im Einzelfall untereinander und anderen Behörden bekannt geben, wenn die Daten für die Empfängerin oder den Empfänger zur Erfüllung ihrer oder seiner gesetzlichen Aufgabe erforderlich sind.
 
+<sup>1a</sup> Die Bekanntgabe von Personendaten ausländischer Personen durch die Einwohnerkontrollen richtet sich nach Artikel 12 des Gesetzes vom 12. September 1985 über Niederlassung und Aufenthalt der Schweizerinnen und Schweizer (NAG)[^38-1].
+
 <sup>2</sup> Im Übrigen richtet sich die Bekanntgabe von Personendaten durch die für den Vollzug dieses Gesetzes zuständigen Behörden nach den ausländer- und asylrechtlichen Bestimmungen des Bundesrechts und der kantonalen Datenschutzgesetzgebung.
+
+[^38-1]: BSG [122.11](https://www.belex.sites.be.ch/data/122.11/de)
 
 #### Art. 39
 
