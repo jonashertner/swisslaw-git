@@ -4,13 +4,12 @@ number: "152.041.1"
 title: Verordnung über die Bekanntgabe von Personaldaten
 short: "Personaldatenbekanntgabeverordnung, PDBV"
 language: de
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-15
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2005-12-14
 in_force: 2006-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.041.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2942/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2942/pdf_file"
 
 (Personaldatenbekanntgabeverordnung, PDBV)
 
-vom 14.12.2005 (Stand 01.01.2024)
+vom 14.12.2005 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
-in Ausführung von Artikel 16 und 27 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^ingress-1], Artikel 5 und 38 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^ingress-2] und Artikel 109 Absatz 1 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-3],
+gestützt auf Artikel 16 und 27 des Gesetzes vom 2. November 1993 über die Information und die Medienförderung (IMG)[^ingress-1], Artikel 4 ff. und Artikel 57 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^ingress-2] sowie Artikel 109 Absatz 1 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-3],
 
 auf Antrag der Finanzdirektion,
 

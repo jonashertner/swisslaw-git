@@ -4,13 +4,12 @@ number: "152.041.1"
 title: "Ordonnance sur la communication de données personnelles *"
 short: OCDP
 language: fr
-version: 2024-01-01
-valid_until: 2026-08-31
-version_adopted: 2023-11-15
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2005-12-14
 in_force: 2006-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.041.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2942/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3458/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +18,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2942/pdf_file"
 
 (OCDP)
 
-du 14.12.2005 (état au 01.01.2024)
+du 14.12.2005 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
-en application des articles 16 et 27 de la loi du 2 novembre 1993 sur l’information et l'aide aux médias (LIAM)[^ingress-1], des articles 5 et 38 de la loi du 19 février 1986 sur la protection des données (LCPD)[^ingress-2] et de l’article 109, alinéa 1 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-3],
+vu les articles 16 et 27 de la loi du 2 novembre 1993 sur l’information et l'aide aux médias (LIAM)[^ingress-1], les articles 4 ss et 57 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^ingress-2] et l’article 109, alinéa 1 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-3],
 
 sur proposition de la Direction des finances,
 
