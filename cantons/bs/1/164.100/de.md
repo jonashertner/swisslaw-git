@@ -4,13 +4,13 @@ number: "164.100"
 title: Lohngesetz
 short: LG
 language: de
-version: 2025-02-13
-valid_until: 2026-08-31
-version_adopted: 2024-12-18
+version: 2026-09-01
+valid_until: 2026-12-31
+version_adopted: 2026-05-20
 adopted: 1995-01-18
 in_force: 1995-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6735/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6966/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lohn und Entschädigungen
 
 (LG)
 
-Vom 18. Januar 1995 (Stand 13. Februar 2025)
+Vom 18. Januar 1995 (Stand 1. September 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -115,6 +115,8 @@ beschliesst:
 <sup>1</sup> Die zuständige Behörde nimmt die Einstufung vor.
 
 <sup>2</sup> Bei der Einstellung kann nebst der bisherigen Berufserfahrung berufsförderliche allgemeine Lebenserfahrung, insbesondere in der Familienarbeit, angemessen angerechnet werden.
+
+<sup>2<sup>bis</sup></sup> Bei Stellen, die den Charakter eines Monopolberufes haben, die eine Vollzeitausbildung beim Kanton erfordern und die eine zuvor abgeschlossene Ausbildung voraussetzen, wird eine allfällige bisherige Berufserfahrung angemessen angerechnet.
 
 <sup>3</sup> Es kann ein Einstell-Lohn festgesetzt werden, der unterhalb der zutreffenden Lohnklasse liegt.
 
