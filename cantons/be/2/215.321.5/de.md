@@ -4,13 +4,12 @@ number: "215.321.5"
 title: Verordnung über das Grundstückdateninformationssystem
 short: GRUDIS-Verordnung
 language: de
-version: 2023-01-01
-valid_until: 2026-08-31
-version_adopted: 2022-11-16
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2002-12-18
 in_force: 2003-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.321.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2729/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2729/pdf_file"
 
 (GRUDIS-Verordnung)
 
-vom 18.12.2002 (Stand 01.01.2023)
+vom 18.12.2002 (Stand 01.09.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -121,7 +120,7 @@ beschliesst:
 
 **Forschung und Entwicklung**
 
-<sup>1</sup> Universitäten, Fachhochschulen und vergleichbaren Bildungseinrichtungen kann auf begründetes Gesuch hin zu wissenschaftlichen Forschungszwecken ein Zugriffsrecht auf GRUDIS erteilt werden. Das Gesuch muss grundlegende Angaben zum wissenschaftlichen Forschungsprojekt, dessen geografischer Ausdehnung sowie dessen zeitliche Dauer enthalten. Im Gesuch ist zu begründen, auf welche Daten gemäss Anhang 1 dieser Verordnung ein Zugriff notwendig ist. Artikel 15 des kantonalen Datenschutzgesetzes vom 19. Februar 1986 (KDSG[^11b-1]) bleibt vorbehalten.
+<sup>1</sup> Universitäten, Fachhochschulen und vergleichbaren Bildungseinrichtungen kann auf begründetes Gesuch hin zu wissenschaftlichen Forschungszwecken ein Zugriffsrecht auf GRUDIS erteilt werden. Das Gesuch muss grundlegende Angaben zum wissenschaftlichen Forschungsprojekt, dessen geografischer Ausdehnung sowie dessen zeitliche Dauer enthalten. Im Gesuch ist zu begründen, auf welche Daten gemäss Anhang 1 dieser Verordnung ein Zugriff notwendig ist. Artikel 17 des Kantonalen Datenschutzgesetzes vom 3. Dezember 2025 (KDSG)[^11b-1] bleibt vorbehalten.
 
 <sup>2</sup> Für die Weiterentwicklung, den Betrieb und den Support von GRUDIS kann auf Gesuch kantonalen Behörden oder Dritten ein Zugriffsrecht auf GRUDIS erteilt werden.
 

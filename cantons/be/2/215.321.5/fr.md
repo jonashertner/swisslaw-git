@@ -4,13 +4,12 @@ number: "215.321.5"
 title: "Ordonnance concernant le système d'information sur les données relatives aux immeubles"
 short: Ordonnance GRUDIS
 language: fr
-version: 2023-01-01
-valid_until: 2026-08-31
-version_adopted: 2022-11-16
+version: 2026-09-01
+version_adopted: 2026-06-24
 adopted: 2002-12-18
 in_force: 2003-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.321.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2729/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3468/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2729/pdf_file"
 
 (Ordonnance GRUDIS)
 
-du 18.12.2002 (état au 01.01.2023)
+du 18.12.2002 (état au 01.09.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -121,7 +120,7 @@ arrête:
 
 **Recherche et développement**
 
-<sup>1</sup> Sur requête motivée, les universités, les hautes écoles spécialisées et les institutions de formation comparables peuvent se voir accorder un droit d’accès à GRUDIS à des fins de recherche scientifique. La requête doit contenir les principales indications relatives au projet de recherche, son étendue géographique et son calendrier. Elle doit indiquer en outre, motifs à l’appui, quelles sont les données au sens de l’annexe 1 de la présente ordonnance auxquelles un accès est nécessaire. L’article 15 de la loi cantonale du 19 février 1986 sur la protection des données (LCPD)[^11b-1] est réservé.
+<sup>1</sup> Sur requête motivée, les universités, les hautes écoles spécialisées et les institutions de formation comparables peuvent se voir accorder un droit d’accès à GRUDIS à des fins de recherche scientifique. La requête doit contenir les principales indications relatives au projet de recherche, son étendue géographique et son calendrier. Elle doit indiquer en outre, motifs à l’appui, quelles sont les données au sens de l’annexe 1 de la présente ordonnance auxquelles un accès est nécessaire. L’article 17 de la loi cantonale du 3 décembre 2025 sur la protection des données (LCPD)[^11b-1] est réservé.
 
 <sup>2</sup> Un droit d’accès à GRUDIS peut être accordé sur requête à des autorités cantonales ou à des tiers pour le développement du système, son exploitation et l’assistance.
 
