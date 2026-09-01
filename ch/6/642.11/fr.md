@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: fr
-version: 2026-01-01
+version: 2026-09-02
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260902-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260902/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260101/fr"
 
 (LIFD)
 
-du 14 décembre 1990 (État le 1<sup>er</sup> janvier 2026)
+du 14 décembre 1990 (État le 2 septembre 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -492,9 +492,9 @@ Est imposable le rendement de la fortune immobilière, en particulier:
 
 <sup>2</sup> Sont notamment considérés comme revenus provenant d’institutions de prévoyance professionnelle les prestations des caisses de prévoyance, des assurances d’épargne et de groupe ainsi que des polices de libre-passage.
 
-<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/fr/xml/image/image1.png)
+<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/fr/xml/image/image2.png)
 
 Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d’entretien viager sont imposables à raison de leur part de rendement. Celle-ci se détermine comme suit:
 
@@ -504,7 +504,9 @@ Les assurances de rentes viagères ainsi que les contrats de rentes viagères et
 
   - 1\. si le taux d’intérêt est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche:
 
-- 2\. si le taux d’intérêt est nul ou négatif, la part de rendement est de 0 %;
+-
+
+  - 2\. si le taux d’intérêt est nul ou négatif, la part de rendement est de 0 %;
 
 - b. pour les prestations excédentaires réalisées sur les assurances de rentes viagères qui sont soumises à la LCA, elle est de 70 %;
 - c.
@@ -2168,7 +2170,7 @@ Un nouveau délai de prescription commence à courir:
 [^124-1]: Nouvelle teneur selon le ch. I 3 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 [^124-2]: Nouvelle teneur selon le ch. I 3 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 [^124-3]: Nouvelle teneur selon le ch. I 3 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^124-4]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^124-4]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)). L’erratum de la CdR de l’Ass. féd. du 26 août 2026, publié le 2 sept. 2026, ne concerne que le texte italien ([RO 2026 448](https://fedlex.data.admin.ch/eli/oc/2026/448)).
 
 #### Art. 125
 
@@ -2311,7 +2313,7 @@ Doivent produire une attestation à l’autorité de taxation pour chaque pério
 
 <sup>3</sup> Passé le délai de 30 jours, une réclamation n’est recevable que si le contribuable établit que par suite de service militaire, de service civil, de maladie, d’absence du pays ou pour d’autres motifs sérieux, il a été empêché de présenter sa réclamation en temps utile et qu’il l’a déposée dans les 30 jours après la fin de l’empêchement.[^133-1]
 
-[^133-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
+[^133-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)). L’erratum de la CdR de l’Ass. féd. du 26 août 2026, publié le 2 sept. 2026, ne concerne que le texte italien ([RO 2026 448](https://fedlex.data.admin.ch/eli/oc/2026/448)).
 
 #### Art. 134
 

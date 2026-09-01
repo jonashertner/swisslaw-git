@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: it
-version: 2026-01-01
+version: 2026-09-02
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/it/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260902-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260902/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260101/it"
 
 (LIFD)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2026)
+del 14 dicembre 1990 (Stato 2 settembre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -492,9 +492,9 @@ Il capoverso 4 non è applicabile alle riserve da apporti di capitale:
 
 <sup>2</sup> I proventi dalla previdenza professionale comprendono segnatamente le prestazioni delle casse previdenziali, delle assicurazioni di risparmio e di gruppo, come anche le polizze di libero passaggio.
 
-<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/it/xml/image/image1.png)
+<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/it/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/it/xml/image/image2.png)
 
 Le assicurazioni di rendita vitalizia nonché i contratti di rendita vitalizia e di vitalizio sono imponibili nella misura della loro quota di reddito. Questa è calcolata come segue:
 
@@ -504,7 +504,9 @@ Le assicurazioni di rendita vitalizia nonché i contratti di rendita vitalizia e
 
   - 1\. se tale tasso d’interesse è superiore a zero, la quota di reddito è calcolata come segue, arrotondando il risultato per eccesso o per difetto al valore percentuale intero più vicino:
 
-- 2\. se tale tasso d’interesse è pari o inferiore a zero, la quota di reddito corrisponde allo zero per cento;
+-
+
+  - 2\. se tale tasso d’interesse è pari o inferiore a zero, la quota di reddito corrisponde allo zero per cento;
 
 - b. nel caso di prestazioni eccedentarie derivanti da assicurazioni di rendita vitalizia rette dalla LCA, la quota di reddito corrisponde al 70 per cento di tali prestazioni;
 - c.
@@ -531,7 +533,7 @@ Sono parimenti imponibili:
 - b. le somme uniche o periodiche versate in seguito a decesso, danno corporale permanente o pregiudizio durevole della salute;
 - c. gli indennizzi per la cessazione o il mancato esercizio di un’attività;
 - d. gli indennizzi per il mancato esercizio di un diritto;
-- e.[^23-1] ...
+- e.[^23-1] …
 - f. gli alimenti percepiti dal contribuente in caso di divorzio o separazione legale o di fatto, nonché gli alimenti percepiti da un genitore per i figli sotto la sua autorità parentale.
 
 [^23-1]: Abrogata dall’all. cifra II n. 5 della LF del 29 set. 2017 sui giochi in denaro, con effetto dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
@@ -591,7 +593,7 @@ Le spese professionali deducibili sono:
 - a.[^26-1] le spese di trasporto necessarie dal domicilio al luogo di lavoro fino a un importo massimo di 3300 franchi;
 - b. le spese supplementari necessarie per pasti fuori domicilio o in caso di lavoro a turni;
 - c.[^26-2] le altre spese necessarie per l’esercizio della professione; è fatto salvo l’articolo 33 capoverso 1 lettera j;
-- d.[^26-3] ...
+- d.[^26-3] …
 
 <sup>2</sup> Per le spese professionali secondo il capoverso 1 lettere b e c sono stabilite deduzioni complessive; per le spese di cui al capoverso 1 lettera c il contribuente può giustificare spese più elevate.[^26-4]
 
@@ -797,7 +799,7 @@ Dai proventi sono inoltre dedotte le prestazioni volontarie in contanti e in alt
 Gli altri costi e spese non possono essere dedotti, in particolare:
 
 - a. le spese per il mantenimento del contribuente e della sua famiglia, nonché le spese private causate dalla posizione professionale del contribuente;
-- b.[^34-1] ...
+- b.[^34-1] …
 - c. le spese per l’estinzione di debiti;
 - d. le spese d’acquisto, di fabbricazione o di miglioria di beni patrimoniali;
 - e. le imposte federali, cantonali e comunali sul reddito, sugli utili da sostanza immobiliare e sulla sostanza, come anche le imposte estere analoghe.
@@ -964,7 +966,7 @@ Se il reddito comprende liquidazioni in capitale per prestazioni ricorrenti, l�
 
 <sup>2</sup> Il DFF adegua ogni anno le tariffe e le deduzioni all’indice nazionale dei prezzi al consumo. È determinante lo stato dell’indice il 30 giugno prima dell’inizio del periodo fiscale. L’adeguamento è escluso se l’andamento del rincaro è negativo. La compensazione in caso di rincaro negativo è effettuata sulla base dell’ultimo adeguamento.[^39-1]
 
-<sup>3</sup> ...[^39-2]
+<sup>3</sup> …[^39-2]
 
 [^39-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2009, in vigore dal 1° gen. 2011 ([RU 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1349](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 [^39-2]: Abrogato dalla cifra I della LF del 25 set. 2009, con effetto dal 1° gen. 2011 ([RU 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1349](https://fedlex.data.admin.ch/eli/fga/2009/362)).
@@ -1005,7 +1007,7 @@ Se il reddito comprende liquidazioni in capitale per prestazioni ricorrenti, l�
 
 <sup>3</sup> Se un coniuge non separato legalmente o di fatto muore, sino al giorno del decesso entrambi i coniugi sono tassati congiuntamente (art. 9 cpv. 1). Per il resto del periodo fiscale, il coniuge superstite è tassato individualmente sulla base della tariffa che gli è applicabile. L’articolo 40 capoverso 3 si applica per analogia.
 
-#### Art. 43 a 48
+#### Art. 43–48
 
 Abrogati
 
@@ -1162,7 +1164,7 @@ Costituiscono utile netto imponibile:
   - – i versamenti sul capitale proprio mediante risorse della persona giuridica, sempre che non provengano da riserve imposte come utile;
   - – le distribuzioni palesi o dissimulate di utili e le prestazioni a terzi non giustificate dall’uso commerciale;
 
-- c. i ricavi non accreditati al conto profitti e perdite, compresi gli utili in capitale, di liquidazione e di rivalutazione, fatto salvo l’articolo 64. ...[^58-1]
+- c. i ricavi non accreditati al conto profitti e perdite, compresi gli utili in capitale, di liquidazione e di rivalutazione, fatto salvo l’articolo 64. …[^58-1]
 
 <sup>2</sup> L’utile netto imponibile delle persone giuridiche che non tengono un conto profitti e perdite è determinato applicando per analogia il capoverso 1.
 
@@ -1384,7 +1386,7 @@ L’imposta sull’utile di una società di capitali o di una società cooperati
 
 Non sono ricavo da partecipazioni:
 
-- a.[^70-2] ...
+- a.[^70-2] …
 - b. i proventi che rappresentano spese giustificate dall’uso commerciale presso la società di capitali o la società cooperativa che li versa;
 - c.[^70-3] gli utili derivanti dalla rivalutazione di partecipazioni.
 
@@ -1431,9 +1433,9 @@ Gli utili in capitale sono considerati nel calcolo della riduzione soltanto:
 
 L’imposta sull’utile degli investimenti collettivi di capitale con possesso fondiario diretto è del 4,25 per cento dell’utile netto.
 
-### Titolo terzo: ...
+### Titolo terzo: …
 
-#### Art. 73 a 78
+#### Art. 73–78
 
 [^7378-1]
 
@@ -1527,7 +1529,7 @@ Sono imponibili:
 [^85-1]: Nuovo testo giusta la cifra I n. 1 della LF del 16 dic. 2016 sulla revisione dell’imposizione alla fonte del reddito da attività lucrativa, in vigore dal 1° gen. 2021 ([RU 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 603](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 [^85-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-#### Art. 86 e 87
+#### Art. 86–87
 
 [^8687-1]
 
@@ -1794,7 +1796,7 @@ Il debitore della prestazione imponibile ha l’obbligo di:
 
 <sup>3</sup> Il Tribunale federale è l’autorità federale di ricorso.
 
-<sup>4</sup> ...[^102-2]
+<sup>4</sup> …[^102-2]
 
 [^102-1]: Nuovo termine giusta la cifra I n. 2 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^102-2]: Abrogato dalla cifra I n. 2 della L del 20 giu. 2014 sul condono dell’imposta, con effetto dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
@@ -2163,12 +2165,12 @@ Un nuovo termine di prescrizione decorre con:
 
 <sup>3</sup> Il contribuente che omette di inviare la dichiarazione d’imposta o che presenta una dichiarazione d’imposta incompleta è diffidato a rimediarvi entro un congruo termine.[^124-3]
 
-<sup>4</sup> Nel caso d’invio tardivo e, se la dichiarazione è stata restituita al contribuente per completamento, di rinvio tardivo, l’inosservanza del termine dev’essere scusata qualora il contribuente provi che, per servizio militare o servizio civile, assenza dal Paese, malattia o altri motivi rilevanti, è stato impedito di presentarla o di rinviarla in tempo e di avervi provvisto entro 30 giorni o al momento in cui gli impedimenti sono cessati.[^124-4]
+<sup>4</sup> Nel caso d’invio tardivo e, se la dichiarazione è stata restituita al contribuente per completamento, di rinvio tardivo, l’inosservanza del termine dev’essere scusata qualora il contribuente provi che, per servizio militare o servizio civile, assenza dal Paese, malattia o altri motivi rilevanti, è stato impedito di presentarla o di rinviarla in tempo e di avervi provvisto entro 30 giorni dal momento in cui gli impedimenti sono cessati.[^124-4]
 
 [^124-1]: Nuovo testo giusta la cifra I n. 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 [^124-2]: Nuovo testo giusta la cifra I n. 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 [^124-3]: Nuovo testo giusta la cifra I n. 3 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2024 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^124-4]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^124-4]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)). Correzione della CdR dell’AF del 26 ago. 2026, pubblicata il 2 set. 2026 ([RU 2026 448](https://fedlex.data.admin.ch/eli/oc/2026/448)).
 
 #### Art. 125
 
@@ -2309,9 +2311,9 @@ Devono presentare un’attestazione all’autorità di tassazione, per ogni peri
 
 <sup>2</sup> Il reclamo presentato a un ufficio incompetente dev’essere trasmesso senza indugio all’autorità di tassazione competente. Il termine di presentazione del reclamo è reputato osservato se quest’ultimo è giunto all’ufficio incompetente o è consegnato a un ufficio postale svizzero il giorno della scadenza.
 
-<sup>3</sup> L’autorità entra nel merito di opposizioni tardive soltanto se il contribuente prova che, per servizio militare o servizio civile, malattia, assenza dal Paese o altri motivi rilevanti, è stato impedito di presentarle in tempo o di averle inoltrate entro 30 giorni dal momento in cui gli impedimenti sono cessati.[^133-1]
+<sup>3</sup> L’autorità entra nel merito di opposizioni tardive soltanto se il contribuente prova che, per servizio militare o servizio civile, malattia, assenza dal Paese o altri motivi rilevanti, è stato impedito di presentarle in tempo e di averle inoltrate entro 30 giorni dal momento in cui gli impedimenti sono cessati.[^133-1]
 
-[^133-1]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^133-1]: Nuovo testo giusta l’all. n. 7 della L del 6 ott. 1995 sul servizio civile, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)). Correzione della CdR dell’AF del 26 ago. 2026, pubblicata il 2 set. 2026 ([RU 2026 448](https://fedlex.data.admin.ch/eli/oc/2026/448)).
 
 #### Art. 134
 
@@ -2669,7 +2671,7 @@ L’imposta è riscossa nel Cantone in cui è stata operata la tassazione.
 Con la notificazione della decisione di tassazione scadono:
 
 - a. l’imposta sulle prestazioni in capitale di istituzioni di previdenza (art. 38);
-- b.[^161-1] ...
+- b.[^161-1] …
 - c. il ricupero d’imposta (art. 151).
 
 <sup>4</sup>
@@ -3072,7 +3074,7 @@ L’autodenuncia esente da pena può essere presentata anche:
 
 <sup>1bis</sup> I mezzi di prova raccolti per una procedura di ricupero d’imposta possono essere impiegati nell’ambito di un procedimento penale per sottrazione d’imposta soltanto se non sono stati ottenuti sotto comminatoria di una tassazione d’ufficio (art. 130 cpv. 2) con inversione dell’onere della prova ai sensi dell’articolo 132 capoverso 3, né sotto comminatoria di una multa per violazione degli obblighi procedurali.[^183-2]
 
-<sup>2</sup> L’AFC può chiedere il perseguimento della sottrazione d’imposta. ...[^183-3]
+<sup>2</sup> L’AFC può chiedere il perseguimento della sottrazione d’imposta. …[^183-3]
 
 <sup>3</sup> La decisione penale o il decreto d’abbandono dell’autorità cantonale sono notificati anche all’AFC se essa ha chiesto il procedimento o vi ha partecipato.
 
@@ -3231,7 +3233,7 @@ L’azione penale si prescrive:
 
 <sup>2</sup> L’AFC, se conclude che è stato commesso un delitto fiscale, sporge denuncia all’autorità cantonale competente per il procedimento penale.
 
-<sup>3</sup> ...[^194-1]
+<sup>3</sup> …[^194-1]
 
 [^194-1]: Abrogato dall’all. 1 cifra I n. 19 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
@@ -3275,7 +3277,7 @@ L’azione penale si prescrive:
 
 **Ripartizione tra i Cantoni**
 
-<sup>1</sup> Cantoni ripartiscono fra loro, secondo i principi del diritto federale relativi al divieto della doppia imposizione, le imposte, le multe inflitte per sottrazione d’imposta o violazione di obblighi procedurali e gli interessi dovuti dai contribuente che hanno elementi imponibili in più Cantoni. ...[^197-1]
+<sup>1</sup> Cantoni ripartiscono fra loro, secondo i principi del diritto federale relativi al divieto della doppia imposizione, le imposte, le multe inflitte per sottrazione d’imposta o violazione di obblighi procedurali e gli interessi dovuti dai contribuente che hanno elementi imponibili in più Cantoni. …[^197-1]
 
 <sup>2</sup> Se i Cantoni non possono accordarsi, decide il Tribunale federale come istanza unica.[^197-2]
 
@@ -3459,7 +3461,7 @@ Il nuovo diritto si applica al giudizio dei reati commessi in un periodo fiscale
 
 [^207b-1]: Introdotto dalla cifra I n. 2 della L del 20 giu. 2014 sul condono dell’imposta, in vigore dal 1° gen. 2016 ([RU 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3);[FF 2013 7239](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 
-#### Art. 208 a 220
+#### Art. 208–220
 
 [^208220-1]
 

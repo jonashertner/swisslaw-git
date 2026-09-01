@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
 short: DBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: de
-version: 2026-01-01
+version: 2026-09-02
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260902-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260902/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de"
 
 (DBG)
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2026)
+vom 14. Dezember 1990 (Stand am 2. September 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -491,9 +491,9 @@ Steuerbar sind die Erträge aus unbeweglichem Vermögen, insbesondere:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de/xml/image/image1.png)
+<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/de/xml/image/image2.png)
 
 Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
 
@@ -503,7 +503,9 @@ Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im U
 
   - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt:
 
-- 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+-
+
+  - 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
 
 - b. Bei Überschussleistungen aus Leibrentenversicherungen, die dem VVG unterstehen, entspricht der Ertragsanteil 70 Prozent dieser Leistungen.
 - c.
@@ -2166,7 +2168,7 @@ Die Verjährung beginnt neu mit:
 
 [^124-1]: Fassung gemäss Ziff. I 3 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 [^124-2]: Fassung gemäss Ziff. I 3 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2024 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
-[^124-3]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^124-3]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)). Die Berichtigung vom 26. Aug. 2026 der RedK der BVers, publiziert am 2. Sept. 2026 betrifft nur den italienischen Text ([AS 2026 448](https://fedlex.data.admin.ch/eli/oc/2026/448)).
 
 #### Art. 125
 
@@ -2311,7 +2313,7 @@ Den Veranlagungsbehörden müssen für jede Steuerperiode eine Bescheinigung ein
 
 [^133-1]: Heute: der Schweizerischen Post.
 [^133-2]: Heute: der Schweizerischen Post.
-[^133-3]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^133-3]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)). Die Berichtigung vom 26. Aug. 2026 der RedK der BVers, publiziert am 2. Sept. 2026 betrifft nur den italienischen Text ([AS 2026 448](https://fedlex.data.admin.ch/eli/oc/2026/448)).
 
 #### Art. 134
 
