@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2026-08-01
+version: 2026-09-03
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260903/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260903-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260903/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. August 2026)
+vom 18. November 2015 (Stand am 3. September 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -167,6 +167,12 @@ Für die Einfuhr von Tieren und Tierprodukten gelten die harmonisierten Einfuhrb
 [^5-2]: Delegierte Verordnung (EU) 2020/689 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften betreffend Überwachung, Tilgungsprogramme und den Status «seuchenfrei» für bestimmte gelistete und neu auftretende Seuchen, ABl. L 174 vom 3.6.2020, S. 211; zuletzt geändert durch Delegierte Verordnung (EU) 2023/1798, ABl. L 233 vom 21.9.2023, S. 24.
 [^5-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
+#### Art. 5a
+
+[^5a-1]
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Aufgehoben durch Ziff. I der V vom 28. Mai 2025, mit Wirkung seit 3. Sept. 2026 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 6
 
 **Einfuhrbedingung bei vorgeschriebener Quarantäne**
@@ -202,13 +208,34 @@ Die folgenden Tierprodukte dürfen nur eingeführt werden, wenn sie in einen Bes
 
 [^chap2-sec1a-1]
 
-[^chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025, Art. 8*a* seit 3. Sept. 2026 ([AS 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 8a
 
-[^8a-1]
+<sup>1</sup>
 
-[^8a-1]: In Kraft: 3. Sept. 2026.
+Nutztiere dürfen nur eingeführt werden, wenn sie nicht mit folgenden antimikrobiellen Arzneimitteln behandelt wurden:
+
+- a. Arzneimittel, die antimikrobielle Wirkstoffe enthalten, die im Anhang der Durchführungsverordnung (EU) 2022/1255[^8a-1] aufgeführt sind;
+- b. antimikrobielle Arzneimittel, die zur Förderung des Wachstums oder zur Steigerung der Ertragsleistung verwendet werden.
+
+<sup>2</sup> Tierprodukte dürfen nur eingeführt werden, wenn sie von Nutztieren nach Absatz 1 stammen.
+
+<sup>3</sup>
+
+Die Bedingungen nach den Absätzen 1 und 2 gelten nicht für:
+
+- a. frei lebende Wildtiere und daraus gewonnene Produkte;
+- b. Insekten, Frösche, Schnecken, Reptilien und daraus gewonnene Produkte;
+- c. Gelatine, wenn sie ausschliesslich aus Rohstoffen nach Anhang III Abschnitt XIV Kapitel I Nummer 1 der Verordnung (EG) Nr. 853/2004[^8a-2] hergestellt wurde;
+- d. Kollagen, wenn es ausschliesslich aus Rohstoffen nach Anhang III Abschnitt XV Kapitel I Nummer 1 der Verordnung (EG) Nr. 853/2004 hergestellt wurde;
+- e. hochverarbeitete Erzeugnisse nach Anhang III Abschnitt XVI Nummer 1 der Verordnung (EG) Nr. 853/2004;
+- f. Lebensmittel, die sowohl verarbeitete Erzeugnisse tierischen Ursprungs als auch Erzeugnisse pflanzlichen Ursprungs enthalten;
+- g. Tiere und Tierprodukte, die nicht für den menschlichen Verzehr bestimmt sind;
+- h. Tierprodukte, die als Proben für Produktanalysen oder Qualitätsprüfungen bestimmt sind und nicht in Verkehr gebracht werden.
+
+[^8a-1]: Durchführungsverordnung (EU) 2022/1255 der Kommission vom 19. Juli 2022 zur Bestimmung von antimikrobiellen Wirkstoffen oder von Gruppen antimikrobieller Wirkstoffe, die gemäss der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates der Behandlung bestimmter Infektionen beim Menschen vorbehalten bleiben müssen, Fassung gemäss ABl. L 191 vom 20.7.2022, S. 58.
+[^8a-2]: Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Delegierte Verordnung (EU) 2023/166, ABl. L 24 vom 26.1.2023, S. 1.
 
 ### 1*b*. Abschnitt: Rindfleisch aus Staaten ohne Verbot von hormonellen Leistungsförderern
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2026-08-01
+version: 2026-09-03
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260903/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260903-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260903/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° agosto 2026)
+del 18 novembre 2015 (Stato 3 settembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -164,12 +164,15 @@ Per l’importazione di animali e prodotti animali si applicano le condizioni d�
 
 <sup>6</sup> Sono fatte salve le misure emanate dall’USAV in virtù dell’articolo 24 capoverso 3 lettera a LFE volte a impedire la propagazione di un’epizoozia.
 
-**Art. 5**a[^5-4]
-
 [^5-1]: Regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanità animale («normativa in materia di sanità animale»), GU L 84 del 31.3.2016, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2018/1629, GU L 272 del 31.10.2018, pag. 11.
 [^5-2]: Regolamento delegato (UE) 2020/689 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla sorveglianza, ai programmi di eradicazione e allo status di indenne da malattia per determinate malattie elencate ed emergenti, GU L 174 del 3.6.2020, pag. 211; modificato da ultimo dal regolamento delegato (UE) 2023/1798, GU L 233 del 21.9.2023, pag. 24.
 [^5-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
-[^5-4]: Privo di oggetto ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267); [2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
+#### Art. 5a
+
+[^5a-1]
+
+[^5a-1]: Introdotto dalla cifra I dell’O del 31 mag. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Abrogato dalla cifra I dell’O del 28 mag. 2025, con effetto al 3 set. 2026 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 6
 
@@ -206,13 +209,34 @@ I seguenti prodotti animali possono essere importati soltanto qualora siano tras
 
 [^chap2-sec1a-1]
 
-[^chap2-sec1a-1]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373))
+[^chap2-sec1a-1]: Introdotta dalla cifra I dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 tranne l’art. 8*a* che entra in vigore il 3 set. 2026 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 8a
 
-[^8a-1]
+<sup>1</sup>
 
-[^8a-1]: In vigore dal 3 set. 2026 ([RU 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+Gli animali da reddito possono essere importati soltanto se non sono stati trattati con i seguenti medicamenti antimicrobici:
+
+- a. medicamenti che contengono sostanze attive antimicrobiche elencate nell’allegato del regolamento di esecuzione (UE) 2022/1255[^8a-1];
+- b. medicamenti antimicrobici utilizzati per promuovere la crescita o aumentare la produttività.
+
+<sup>2</sup> I prodotti animali possono essere importati soltanto se provengono da animali da reddito di cui al capoverso 1.
+
+<sup>3</sup>
+
+Le condizioni di cui ai capoversi 1 e 2 non si applicano a:
+
+- a. animali selvatici in libertà e prodotti da essi derivati;
+- b. insetti, rane, lumache, rettili e prodotti da essi derivati;
+- c. gelatina, se è stata prodotta esclusivamente con materie prime di cui all’allegato III sezione XIV capitolo I punto 1 del regolamento (CE) n. 853/2004[^8a-2];
+- d. collagene, se è stato prodotto esclusivamente con materie prime di cui all’allegato III sezione XV capitolo I punto 1 del regolamento (CE) n. 853/2004;
+- e. prodotti altamente raffinati di cui all’allegato III sezione XVI punto 1 del regolamento (CE) n. 853/2004;
+- f. derrate alimentari contenenti sia prodotti trasformati di origine animale sia prodotti di origine vegetale;
+- g. animali e prodotti animali non destinati al consumo umano;
+- h. prodotti animali destinati a essere utilizzati come campioni per analisi di prodotto o controlli di qualità e non immessi sul mercato.
+
+[^8a-1]: Regolamento di esecuzione (UE) 2022/1255 della Commissione, del 19 luglio 2022, che designa gli antimicrobici o i gruppi di antimicrobici riservati al trattamento di determinate infezioni nell’uomo, conformemente al regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio, versione della GU L 191 del 20.7.2002, pag. 58.
+[^8a-2]: Regolamento (CE) n. 853/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, che stabilisce norme specifiche in materia di igiene per gli alimenti di origine animale, GU L 139 del 30.4.2004, pag. 55; modificato da ultimo dal regolamento delegato (UE) 2023/166, GU L 24 del 26.1.2023, pag. 1.
 
 ### Sezione 1*b*: Carne bovina da Paesi che non vietano l’uso di sostanze ormonali per accrescere le prestazioni degli animali
 

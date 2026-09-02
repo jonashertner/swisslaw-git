@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 réglant les échanges d'importation, de 
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: fr
-version: 2026-08-01
+version: 2026-09-03
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20260903/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20260903-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260903/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20260801/fr"
 
 (OITE-PT)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> août 2026)
+du 18 novembre 2015 (État le 3 septembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -168,6 +168,12 @@ L’importation d’animaux et de produits animaux est soumise aux conditions d�
 [^5-2]: Règlement délégué (UE) 2020/689 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles applicables à la surveillance, aux programmes d’éradication et au statut «indemne» de certaines maladies répertoriées et émergentes, JO L 174 du 3.6.2020, p. 211; modifié en dernier lieu par le règlement délégué (UE) 2023/1798, JO L 233 du 21.9.2023, p. 24.
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
+#### Art. 5a
+
+[^5a-1]
+
+[^5a-1]: Introduit par le ch. I de l’O du 31 mai 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)). Abrogé par le ch. I de l’O du 28 mai 2025, avec effet au 3 sept. 2026 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+
 #### Art. 6
 
 **Condition d’importation en cas de quarantaine prescrite**
@@ -203,13 +209,34 @@ Les produits animaux ci-après ne peuvent être importés que si leur établisse
 
 [^chap2-sec1a-1]
 
-[^chap2-sec1a-1]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+[^chap2-sec1a-1]: Introduite par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025, sous réserve de l’art. 8*a*, en vigueur depuis le 3 sept. 2026 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
 
 #### Art. 8a
 
-[^8a-1]
+<sup>1</sup>
 
-[^8a-1]: Entre en vigueur le 3 sept. 2026 ([RO 2025 373](https://fedlex.data.admin.ch/eli/oc/2025/373)).
+Les animaux de rente ne peuvent être importés que s’ils n’ont pas été traités avec les médicaments antimicrobiens suivants:
+
+- a. médicaments contenant des principes actifs antimicrobiens figurant dans l’annexe du règlement d’exécution (UE) 2022/1255[^8a-1];
+- b. médicaments antimicrobiens utilisés dans le but de favoriser la croissance ou d’augmenter le rendement.
+
+<sup>2</sup> Les produits animaux ne peuvent être importés que s’ils sont issus des animaux de rente visés à l’al. 1.
+
+<sup>3</sup>
+
+Les conditions énoncées aux al. 1 et 2 ne s’appliquent pas:
+
+- a. aux animaux sauvages vivant dans la nature et produits dérivés;
+- b. aux insectes, grenouilles, escargots, reptiles et produits dérivés;
+- c. à la gélatine produite exclusivement à partir des matières premières visées à l’annexe III, section XIV, chap. I, point 1, du règlement (CE) n<sup>o</sup> 853/2004[^8a-2];
+- d. au collagène produit exclusivement à partir des matières premières visées à l’annexe III, section XV, chap. I, point 1, du règlement (CE) n<sup>o</sup> 853/2004;
+- e. aux produits hautement raffinés visés à l’annexe III, section XVI, point 1, du règlement (CE) n<sup>o</sup> 853/2004;
+- f. aux denrées alimentaires qui contiennent à la fois des produits transformés d’origine animale et des produits d’origine végétale;
+- g. aux animaux et produits animaux qui ne sont pas destinés à la consommation humaine;
+- h. aux produits animaux destinés à être utilisés en tant qu’échantillons à des fins d’analyse ou de contrôle de la qualité des produits sans être mis sur le marché.
+
+[^8a-1]: Règlement d’exécution (UE) 2022/1255 de la Commission du 19 juillet 2022 désignant des antimicrobiens ou groupes d’antimicrobiens réservés au traitement de certaines infections chez l’homme, conformément au règlement (UE) 2019/6 du Parlement européen et du Conseil, version du JO L 191 du 20.7.2022, p. 58.
+[^8a-2]: Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement délégué (UE) 2023/166, JO L 24 du 26.1.2023, p. 1.
 
 ### Section 1*b* Viande de bœuf en provenance des États qui n’interdisent pas l’utilisation d’hormones comme stimulateurs de performance
 
