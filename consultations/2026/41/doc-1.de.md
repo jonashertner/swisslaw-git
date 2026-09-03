@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Preisbekanntgabeverordnung (PBV); Verordnung über die wettbewerbsrechtliche Behandlung von vertikalen Abreden im Kraftfahrzeugsektor (KFZ-Verordnung, KFZV; SR 251.6)"
 document: Vernehmlassungsvorlage
 language: de

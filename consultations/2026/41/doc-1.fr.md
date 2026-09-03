@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur l’indication des prix (OIP); Ordonnance concernant l’appréciation des accords verticaux dans le secteur automobile (Ordonnance automobile, OAVAuto ; RS 251.6)"
 document: Projet mis en consultation
 language: fr

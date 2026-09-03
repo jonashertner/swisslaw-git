@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sull’indicazione dei prezzi (OIP); Ordinanza concernente la valutazione degli accordi verticali alla luce delle disposizioni in materia di concorrenza nel settore degli autoveicoli (Ordinanza sul settore degli au-toveicoli, OAuto ; RS 251.6)"
 document: Progetto posto in consultazione-2
 language: it
