@@ -3,13 +3,12 @@ canton: ZG
 number: "711.31"
 title: "Kantonaler Richtplan, Richtplantext"
 language: de
-version: 2025-12-26
-valid_until: 2026-09-03
-version_adopted: 2025-12-18
+version: 2026-09-04
+version_adopted: 2026-08-27
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2989/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3064/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +16,7 @@ text: pdf
 
 # Kantonaler Richtplan Richtplantext
 
-### Kantonsratsbeschlüsse bis: 18. Dezember 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 3. Juli 2025
+### Kantonsratsbeschlüsse bis: 27. August 2026 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 18. Dezember 2025
 
 Amt für Raum und Verkehr
 
@@ -27,9 +26,9 @@ Herausgeber Baudirektion des Kantons Zug Amt für Raum und Verkehr Aabachstrasse
 
 6300 Zug T +41 41 594 54 80 info.arv@zg.ch
 
-Stand der Nachführung: Kantonsratsbeschlüsse bis 18. Dezember 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis 3. Juli 2025
+Stand der Nachführung: Kantonsratsbeschlüsse bis 27. August 2026 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis 18. Dezember 2025
 
-Erstellt am 2. März 2026
+Erstellt am 31. August 2026
 
 ### Vorwort
 
@@ -761,7 +760,9 @@ L 1.2.1 In der Stadt-, der Zwischen- oder der Kulturlandschaft können die Gemei
 
 - d. Schutz von Kulturgütern und Denkmälern;
 
-- e. Fruchtfolgeflächen (FFF).
+- e. Fruchtfolgeflächen (FFF);
+
+- f. örtlicher Bezug zu Siedlungen oder bestehenden Hofstrukturen.
 
 L 1.3 Gebiete für Reitsportanlagen
 
@@ -1199,9 +1200,9 @@ Nr. Gemeinde Bezeichnung
 
 1 Zug Zugerberg (Vorder-/Hintergeissboden) N 12–P 12
 
-**K 8–L 10 N 21–O 22 O 17–P 18 P 13–P 14 O 16 M 20–M 21 L 15–M 16 J 7–K 6 J 1–J 2 H 14–J 13 Q 10–Q11**
+**K 8–L 10 N 21–O 22 O 17–P 18 P 13–P 14 O 16 M 20–M 21 J 7–K 6 J 1–J 2 H 14–J 13 Q 10–Q11**
 
-2 Zug Seeufer 3 Oberägeri Raten 4 Oberägeri Seeplatz–Strandbad–Seematt 5 Unterägeri Boden–Nollen 6 Unterägeri Seeufer 7 Menzingen Gottschalkenberg 8 Menzingen Gubel–Fürschwand 9 Cham Seeufer 10 Hünenberg Reussbrücke Zollhus 11 Neuheim, Baar, Menzingen Lorzentobel–Höll 12 Walchwil Lienisberg
+2 Zug Seeufer 3 Oberägeri Raten 4 Oberägeri Seeplatz–Strandbad–Seematt 5 Unterägeri Boden–Nollen 6 Unterägeri Seeufer 7 Menzingen Gottschalkenberg 9 Cham Seeufer 10 Hünenberg Reussbrücke Zollhus 11 Neuheim, Baar, Menzingen Lorzentobel–Höll 12 Walchwil Lienisberg
 
 L 11.1.2 In den Schwerpunkten konzentrieren sich neue Bauten und Anlagen für die Erholung, Freizeit und Sport. Neue Bauten und Anlagen nehmen Rücksicht auf die Besonderheit des Ortes und die gewachsenen Nutzungen. Intensive Nutzungen sind nicht erwünscht. Die Erschliessung mit dem öffentlichen Verkehr ist, wo sinnvoll, zu verbessern.
 
@@ -1251,7 +1252,7 @@ L 11.4.1 Folgende Vorhaben ausserhalb des Siedlungsgebiets werden in den Richtpl
 
 **Stand Planquadrat Zwischenergebnis M 15**
 
-Nr. Gemeinde Bezeichnung 2 Menzingen Lenkwaffenstellung Gubel. Bei Wegfall der militärischen Nutzung setzt sich der Kanton Zug für eine sanfte Umnutzung ein.
+Nr. Gemeinde Bezeichnung 2 Menzingen Lenkwaffenstellung Gubel. Bei Wegfall der militärischen Nutzung setzt sich der Kanton Zug für eine sanfte Umnutzung ein. Bis zu diesem Zeitpunkt ist die bisherige Zugänglichkeit (Museumsbetrieb der «Bloodhound» Lenkwaffenstellung) sowie die Nutzung der aussenliegenden Parkplätze und Wegnetze gewährleistet.
 
 ### M Mobilität
 
