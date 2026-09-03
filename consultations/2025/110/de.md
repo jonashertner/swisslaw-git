@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Abkommen über den digitalen Handel zwischen den EFTA-Staaten und Singapur
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accord sur le commerce numérique entre les États de l’AELE et Singapour
 document: Projet mis en consultation
 language: fr
