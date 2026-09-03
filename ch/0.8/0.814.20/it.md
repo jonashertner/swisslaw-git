@@ -3,11 +3,11 @@ sr: "0.814.20"
 title: "Convenzione del 17 marzo 1992 sulla protezione e l'utilizzazione dei corsi d'acqua transfrontalieri e dei laghi internazionali (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/835_835_835"
 language: it
-version: 2024-07-23
+version: 2026-09-04
 adopted: 1992-03-17
 in_force: 1996-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20240723/it/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20240723-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20240723/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20260904/it/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20260904-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20260904/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Helsinki 17 marzo 1992 Approvata dall’Assemblea federale il 2 giugno 1994[^t-1] Ratificata dalla Svizzera con strumento depositato il 23 maggio 1995 Entrata in vigore per la Svizzera il 6 ottobre 1996
 
-(Stato 23 luglio 2024)
+(Stato 4 settembre 2026)
 
 [^t-1]: [RU 1997 834](https://fedlex.data.admin.ch/eli/oc/1997/834_834_834)
 
@@ -52,19 +52,13 @@ hanno convenuto quanto segue:
 
 Ai fini della presente Convenzione,
 
-<sup>1.</sup> L’espressione «acque transfrontaliere» significa tutte le acque superficiali e sotterranee che delimitano le frontiere tra due Stati o più, le attraversano o sono situate su queste frontiere; nel caso di acque transfrontaliere che si gettano in mare senza formare un estuario, il limite di queste acque è una linea diritta tracciata attraverso la loro imboccatura tra i punti limiti della linea di basso mare sulle rive;
-
-<sup>2.</sup> L’espressione «impatto transfrontaliero» significa qualsiasi effetto pregiudizievole importante, prodotto sull’ambiente di una zona soggetta alla giurisdizione di un’altra Parte, da una modifica dello stato delle acque transfrontaliere causata da una attività umana la cui origine fisica è interamente o parzialmente situata in una zona soggetta alla giurisdizione di una Parte. Questo effetto sull’ambiente può assumere varie forme: pregiudizio alla salute e alla sicurezza dell’uomo, alla flora, alla fauna, al suolo, all’aria, all’acqua, al clima, al paesaggio ed ai monumenti storici o ad altre costruzioni o interazioni di parecchi di questi fattori; può trattarsi anche di un pregiudizio al patrimonio culturale o alle condizioni socio-economiche derivanti da modifiche di questi fattori;
-
-<sup>3.</sup> L’espressione «Parte» significa, salvo se diversamente indicato nel testo, una Parte contraente alla presente Convenzione;
-
-<sup>4.</sup> L’espressione «Parti rivierasche» significa le Parti limitrofe delle stesse acque transfrontaliere;
-
-<sup>5.</sup> L’espressione «organo comune» significa ogni commissione bilaterale o multilaterale o ogni altro meccanismo istituzionale appropriato di cooperazione tra le Parti rivierasche;
-
-<sup>6.</sup> L’espressione «sostanze pericolose» significa le sostanze tossiche, cancerogene, mutagene, teratogene o bio-accumulative, soprattutto quando sono persistenti;
-
-<sup>7.</sup> La definizione dell’espressione «tecnologia disponibile ottimale» figura all’annesso I della presente Convenzione.
+- [tab] 1. L’espressione «acque transfrontaliere» significa tutte le acque superficiali e sotterranee che delimitano le frontiere tra due Stati o più, le attraversano o sono situate su queste frontiere; nel caso di acque transfrontaliere che si gettano in mare senza formare un estuario, il limite di queste acque è una linea diritta tracciata attraverso la loro imboccatura tra i punti limiti della linea di basso mare sulle rive;
+- [tab] 2. L’espressione «impatto transfrontaliero» significa qualsiasi effetto pregiudizievole importante, prodotto sull’ambiente di una zona soggetta alla giurisdizione di un’altra Parte, da una modifica dello stato delle acque transfrontaliere causata da una attività umana la cui origine fisica è interamente o parzialmente situata in una zona soggetta alla giurisdizione di una Parte. Questo effetto sull’ambiente può assumere varie forme: pregiudizio alla salute e alla sicurezza dell’uomo, alla flora, alla fauna, al suolo, all’aria, all’acqua, al clima, al paesaggio ed ai monumenti storici o ad altre costruzioni o interazioni di parecchi di questi fattori; può trattarsi anche di un pregiudizio al patrimonio culturale o alle condizioni socio-economiche derivanti da modifiche di questi fattori;
+- [tab] 3. L’espressione «Parte» significa, salvo se diversamente indicato nel testo, una Parte contraente alla presente Convenzione;
+- [tab] 4. L’espressione «Parti rivierasche» significa le Parti limitrofe delle stesse acque transfrontaliere;
+- [tab] 5. L’espressione «organo comune» significa ogni commissione bilaterale o multilaterale o ogni altro meccanismo istituzionale appropriato di cooperazione tra le Parti rivierasche;
+- [tab] 6. L’espressione «sostanze pericolose» significa le sostanze tossiche, cancerogene, mutagene, teratogene o bio-accumulative, soprattutto quando sono persistenti;
+- [tab] 7. La definizione dell’espressione «tecnologia disponibile ottimale» figura all’annesso I della presente Convenzione.
 
 ## Parte I: Disposizioni applicabili a tutte le parti
 
@@ -508,16 +502,18 @@ Annesso IV
 
 \18. Ogni controversia tra le Parti riguardo all’interpretazione o all’esecuzione del lodo arbitrale può essere sottoposta da una delle Parti al Tribunale arbitrale che ha reso la sentenza oppure, se quest’ultimo non può esserne investito, ad un altro Tribunale costituito a tal fine nella stessa maniera del primo.
 
-Campo d’applicazione il 23 luglio 2024[^t-2]
+Campo d’applicazione il 4 settembre 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania <sup>a</sup></td><td>5 gennaio</td><td>1994</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Austria<sup>\*</sup> <sup>a</sup></td><td>25 luglio</td><td>1996</td><td>23 ottobre</td><td>1996</td></tr>
 <tr><td>Azerbaigian <sup>a</sup></td><td>3 agosto</td><td>2000 A</td><td>1° novembre</td><td>2000</td></tr>
+<tr><td>Bangladesh <sup>a</sup></td><td>20 giugno</td><td>2025 A</td><td>18 settembre</td><td>2025</td></tr>
 <tr><td>Belarus <sup>a</sup></td><td>29 maggio</td><td>2003 A</td><td>27 agosto</td><td>2003</td></tr>
 <tr><td>Belgio <sup>a</sup></td><td>8 novembre</td><td>2000</td><td>6 febbraio</td><td>2001</td></tr>
 <tr><td>Bosnia e Erzegovina <sup>a</sup></td><td>3 dicembre</td><td>2009 A</td><td>3 marzo</td><td>2010</td></tr>
+<tr><td>Botswana<sup>\*</sup> <sup>a</sup></td><td>20 gennaio</td><td>2026 A</td><td>20 aprile</td><td>2026</td></tr>
 <tr><td>Bulgaria <sup>a</sup></td><td>28 ottobre</td><td>2003</td><td>27 gennaio</td><td>2004</td></tr>
 <tr><td>Camerun <sup>a</sup></td><td>1° novembre</td><td>2022 A</td><td>30 gennaio</td><td>2023</td></tr>
 <tr><td>Ceca, Repubblica <sup>a</sup></td><td>12 giugno</td><td>2000 A</td><td>10 settembre</td><td>2000</td></tr>
@@ -531,6 +527,7 @@ Campo d’applicazione il 23 luglio 2024[^t-2]
 <tr><td>Gambia <sup>a</sup></td><td>17 luglio</td><td>2023 A</td><td>15 ottobre</td><td>2023</td></tr>
 <tr><td>Germania<sup>\*</sup> <sup>a</sup></td><td>30 gennaio</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Ghana <sup>a</sup></td><td>22 giugno</td><td>2020 A</td><td>20 settembre</td><td>2020</td></tr>
+<tr><td>Giordania <sup>a</sup></td><td>6 febbraio</td><td>2026 A</td><td>7 maggio</td><td>2026</td></tr>
 <tr><td>Grecia <sup>a</sup></td><td>6 settembre</td><td>1996</td><td>5 dicembre</td><td>1996</td></tr>
 <tr><td>Guinea-Bissau <sup>a</sup></td><td>14 giugno</td><td>2021 A</td><td>12 settembre</td><td>2021</td></tr>
 <tr><td>Iraq <sup>a</sup></td><td>24 marzo</td><td>2023 A</td><td>22 giugno</td><td>2023</td></tr>
@@ -541,6 +538,7 @@ Campo d’applicazione il 23 luglio 2024[^t-2]
 <tr><td>Lituania<sup>\*</sup> <sup>a</sup></td><td>28 aprile</td><td>2000</td><td>27 luglio</td><td>2000</td></tr>
 <tr><td>Lussemburgo <sup>a</sup></td><td>7 giugno</td><td>1994</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Macedonia del Nord <sup>a</sup></td><td>28 luglio</td><td>2015 A</td><td>26 ottobre</td><td>2015</td></tr>
+<tr><td>Malawi<sup>\*</sup> <sup>a</sup></td><td>26 agosto</td><td>2026 A</td><td>24 novembre</td><td>2026</td></tr>
 <tr><td>Moldova <sup>a</sup></td><td>4 gennaio</td><td>1994 A</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Montenegro <sup>a</sup></td><td>23 giugno</td><td>2014 A</td><td>21 settembre</td><td>2014</td></tr>
 <tr><td>Namibia <sup>a</sup></td><td>8 giugno</td><td>2023 A</td><td>6 settembre</td><td>2023</td></tr>
@@ -554,6 +552,7 @@ Campo d’applicazione il 23 luglio 2024[^t-2]
 <tr><td>Russia <sup>a</sup></td><td>2 novembre</td><td>1993</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Senegal <sup>a</sup></td><td>31 agosto</td><td>2018 A</td><td>29 novembre</td><td>2018</td></tr>
 <tr><td>Serbia<sup>\*</sup> <sup>a</sup></td><td>27 agosto</td><td>2010 A</td><td>25 novembre</td><td>2010</td></tr>
+<tr><td>Sierra Leone <sup>a</sup></td><td>26 settembre</td><td>2025 A</td><td>25 dicembre</td><td>2025</td></tr>
 <tr><td>Slovacchia <sup>a</sup></td><td>7 luglio</td><td>1999 A</td><td>5 ottobre</td><td>1999</td></tr>
 <tr><td>Slovenia <sup>a</sup></td><td>13 aprile</td><td>1999 A</td><td>12 luglio</td><td>1999</td></tr>
 <tr><td>Spagna<sup>\*</sup> <sup>a</sup></td><td>16 febbraio</td><td>2000</td><td>16 maggio</td><td>2000</td></tr>
@@ -565,10 +564,9 @@ Campo d’applicazione il 23 luglio 2024[^t-2]
 <tr><td>Ungheria <sup>a</sup></td><td>2 settembre</td><td>1994</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Unione europea (UE) <sup>a</sup></td><td>14 settembre</td><td>1995</td><td>6 ottobre</td><td>1996</td></tr>
 <tr><td>Uzbekistan <sup>a</sup></td><td>4 settembre</td><td>2007 A</td><td>3 dicembre</td><td>2007</td></tr>
+<tr><td>Zambia <sup>a</sup></td><td>4 settembre</td><td>2024 A</td><td>3 dicembre</td><td>2024</td></tr>
 <tr><td>Zimbabwe <sup>a</sup></td><td>19 luglio</td><td>2024 A</td><td>17 ottobre</td><td>2024</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in francese e in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU: [https://treaties.un.org/](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Questo Stato partecipante ha accettato la dec. III/1 del 28 nov. 2003 (emendamento agli art. 25 e 26).</td></tr>
-<tr><td colspan="5"><sup>b</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org/](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato partecipante ha accettato la decisione III/1 del 28 novembre 2003 (emendamenti degli art. 25 e 26 della Convenzione). <sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194); [2024 392](https://fedlex.data.admin.ch/eli/oc/2024/392). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194); [2024 392](https://fedlex.data.admin.ch/eli/oc/2024/392); [2026 467](https://fedlex.data.admin.ch/eli/oc/2026/467). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
