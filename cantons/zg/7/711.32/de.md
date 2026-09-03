@@ -3,13 +3,12 @@ canton: ZG
 number: "711.32"
 title: "Kantonaler Richtplan, Richtplankarte"
 language: de
-version: 2025-12-26
-valid_until: 2026-09-03
-version_adopted: 2025-12-18
+version: 2026-09-04
+version_adopted: 2026-08-27
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.32"
-pdf: "https://bgs.zg.ch/api/de/versions/2991/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3065/pdf_file"
 text: pdf
 ---
 
@@ -21,7 +20,7 @@ text: pdf
 
 ## Richtplankarte
 
-### Kantonsratsbeschlüsse bis: 18. Dezember 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 3. Juli 2025
+### Kantonsratsbeschlüsse bis: 27. August 2026 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 18. Dezember 2025
 
 **C C**
 
@@ -47,7 +46,11 @@ Zug Oberägeri Unterägeri Walchwil
 
 **1 230 000 1 230 000**
 
+**Zusätzlicher Inhalt**
+
 **F F**
+
+Bundesinventar der Auengebiete von nationaler Bedeutung (mit Objektname und -nummer gemäss BAFU) BLN Gebiet mit Objektname und -nummer Bundesinventar der Moorlandschaften von besonderer Schönheit und nationaler Bedeutung (mit Objektname und -nummer gemäss BAFU)
 
 **G G**
 
@@ -157,4 +160,4 @@ Nachführungsstand der Landeskarte 1:25'000:
 
 **5 6 7 8 680000 2 685 000 2 690 000 21 22 23 2 695 000 24 25**
 
-1000 © Amt für Raum und Verkehr | Druckdatum 02.03.2026| wa
+1000 © Amt für Raum und Verkehr | Druckdatum 01.09.2026| wa
