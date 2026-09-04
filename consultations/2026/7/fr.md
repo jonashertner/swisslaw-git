@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du code des obligations (Conseillers en vote)
 document: Projet mis en consultation
 language: fr

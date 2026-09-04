@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica del Codice delle obbligazioni (Consulenti di voto)
 document: Progetto posto in consultazione
 language: it
