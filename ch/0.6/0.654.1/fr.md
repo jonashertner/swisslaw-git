@@ -3,11 +3,11 @@ sr: "0.654.1"
 title: "Accord multilatéral du 27 janvier 2016 entre autorités compétentes portant sur l'échange des déclarations pays par pays"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/785"
 language: fr
-version: 2026-01-13
+version: 2026-09-08
 adopted: 2016-01-27
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20260113/fr/xml/fedlex-data-admin-ch-eli-cc-2017-785-20260113-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20260113/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/785/20260908/fr/xml/fedlex-data-admin-ch-eli-cc-2017-785-20260908-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/785/20260908/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 16 juin 2017[^t-1]
 
 Entré en vigueur le 1<sup>er</sup> décembre 2017
 
-(État le 13 janvier 2026)
+(État le 8 septembre 2026)
 
 [^t-1]: [RO 2017 7243](https://fedlex.data.admin.ch/eli/oc/2017/784)
 
@@ -163,7 +163,7 @@ Sauf disposition contraire contenue dans l’Accord, le secrétariat de l’orga
 
 Fait en français et en anglais, les deux textes faisant également foi.
 
-Champ d’application le 13 janvier 2026[^t-2]
+Champ d’application le 8 septembre 2026[^t-2]
 
 La Suisse est liée par les dispositions de l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays à l’égard des États et territoires suivants en vertu de la section 8, par. 2, de cet accord:
 
@@ -187,9 +187,11 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Barbade</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Belize</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Belgique</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
+<tr><td>Bénin</td><td>1<sup>er</sup> janvier 2025\*</td></tr>
 <tr><td>Bermudes</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
 <tr><td>Brésil</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Bulgarie</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
+<tr><td>Burkina Faso</td><td>1<sup>er</sup> janvier 2025\*</td></tr>
 <tr><td>Cameroun</td><td>1<sup>er</sup> janvier 2024\*</td></tr>
 <tr><td>Canada</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Chili</td><td>1<sup>er</sup> janvier 2018</td></tr>
@@ -200,6 +202,7 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Croatie</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Curaçao</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Danemark</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
+<tr><td>Dominique</td><td>1<sup>er</sup> janvier 2025\*</td></tr>
 <tr><td>Émirats arabes unis</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
 <tr><td>Espagne</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Estonie</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
@@ -208,6 +211,7 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Géorgie</td><td>1<sup>er</sup> janvier 2025</td></tr>
 <tr><td>Gibraltar</td><td>1<sup>er</sup> janvier 2018</td></tr>
 <tr><td>Grèce</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
+<tr><td>Groenland</td><td>1<sup>er</sup> janvier 2025</td></tr>
 <tr><td>Guernesey</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Hong-Kong</td><td>1<sup>er</sup> janvier 2019</td></tr>
 <tr><td>Hongrie</td><td>1<sup>er</sup> janvier 2018</td></tr>
@@ -273,8 +277,8 @@ La Suisse est liée par les dispositions de l’Accord multilatéral entre autor
 <tr><td>Ukraine</td><td>1<sup>er</sup> janvier 2024</td></tr>
 <tr><td>Uruguay</td><td>1<sup>er</sup> janvier 2018\*\*</td></tr>
 <tr><td>Vietnam</td><td>1<sup>er</sup> janvier 2024\*</td></tr>
-<tr><td colspan="2">\* Ces États et territoires appliquent l’échange automatique de renseignements de manière non-réciproque permanente sur la base d’une notification selon l’al. 1 b) de la section 8 de l’Accord multilatéral. Cela veut dire qu’ils ne reçoivent pas de déclarations pays par pays de la part de la Suisse, mais lui transfèrent de telles déclarations. \*\* Y inclus les déclarations pays par pays qui ont été fournies volontairement en Suisse pour les périodes fiscales 2016 et 2017 conformément à la déclaration relative à la date d’effet pour l’échange de renseignements prévus par l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays[^t-3].</td></tr>
+<tr><td colspan="2">\* Ces États et territoires appliquent l’échange automatique de renseignements de manière non-réciproque permanente sur la base d’une notification selon l’al. 1 lettre b) de la section 8 de l’Accord multilatéral. Cela veut dire qu’ils ne reçoivent pas de déclarations pays par pays de la part de la Suisse, mais lui transfèrent de telles déclarations. \*\* Y inclus les déclarations pays par pays qui ont été fournies volontairement en Suisse pour les périodes fiscales 2016 et 2017 conformément à la déclaration relative à la date d’effet pour l’échange de renseignements prévus par l’Accord multilatéral entre autorités compétentes portant sur l’échange des déclarations pays par pays[^t-3].</td></tr>
 </table>
 
-[^t-2]: [RO 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214), [243](https://fedlex.data.admin.ch/eli/oc/2025/243), [380](https://fedlex.data.admin.ch/eli/oc/2025/380), [492](https://fedlex.data.admin.ch/eli/oc/2025/492), [667](https://fedlex.data.admin.ch/eli/oc/2025/667); [2026 28](https://fedlex.data.admin.ch/eli/oc/2026/28). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2025 214](https://fedlex.data.admin.ch/eli/oc/2025/214), [243](https://fedlex.data.admin.ch/eli/oc/2025/243), [380](https://fedlex.data.admin.ch/eli/oc/2025/380), [492](https://fedlex.data.admin.ch/eli/oc/2025/492), [667](https://fedlex.data.admin.ch/eli/oc/2025/667); [2026 28](https://fedlex.data.admin.ch/eli/oc/2026/28), [473](https://fedlex.data.admin.ch/eli/oc/2026/473). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 [^t-3]: [RO 2018 25](https://fedlex.data.admin.ch/eli/oc/2018/11)
