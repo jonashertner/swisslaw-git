@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 26.08.2026 de mise en vigueur
+title: ARRÊTÉ du 02.09.2026 de mise en vigueur
 language: fr
-version: 2026-09-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=9945f5a4-06f4-4837-b7ce-48bba7b50e20"
+version: 2026-09-08
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=9adde078-e6f1-47e6-98e4-8732e29f4a0a"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 26 août 2026
+du 2 septembre 2026
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,4 +21,7 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> La loi du 26 mai 2026 modifiant celle du 21 novembre 1973 sur la viticulture (BLV 916.125), publiée dans la "Feuille des avis officiels du Canton de Vaud" du 9 juin 2026, entre en vigueur avec effet au 1er septembre 2026.
+<sup>1</sup> Les décrets ci-après du 2 juin 2026 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 16 juin 2026, entrent en vigueur le 1er septembre 2026 :
+
+- 1\. décret du 2 juin 2026 accordant au Conseil d'Etat un crédit d'investissement de CHF 8'652'000.- pour financer la modernisation du système d'information de gestion RH du personnel pédagogique et de l'outil de recensement scolaire du département en charge de la formation (BLV 400.00) ;
+- 2\. décret du 2 juin 2026 sur l'adoption des plans directeurs régionaux portant sur le développement des zones d'activité (Plans directeurs régionaux des zones d'activité, PDRZA) (BLV 701.442).
