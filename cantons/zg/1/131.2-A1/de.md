@@ -4,13 +4,12 @@ number: 131.2-A1
 title: Verordnung zum Wahl- und Abstimmungsgesetz (Anhang 1)
 short: "Wahl- und Abstimmungsverordnung, WAV"
 language: de
-version: 2026-08-20
-valid_until: 2026-09-07
-version_adopted: 2026-08-19
+version: 2026-09-08
+version_adopted: 2026-08-24
 adopted: 2015-07-07
 in_force: 2015-07-11
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.2-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/3053/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3067/pdf_file"
 text: pdf
 ---
 
