@@ -4,12 +4,12 @@ number: "720.000"
 title: Legge sulle imposte per il Cantone dei Grigioni
 language: it
 version: 2026-01-01
-corrected: 2025-12-17
+corrected: 2026-09-08
 version_adopted: 2025-08-28
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3557/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3617/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -681,7 +681,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
   - 4\. le deduzioni aumentano di 900 franchi per ogni figlio minorenne o in fase di formazione professionale,
 - i) le prestazioni volontarie in contanti e in altri beni a persone giuridiche con sede in Svizzera che sono esentate dall'assoggettamento fiscale in considerazione degli scopi pubblici o esclusivamente di pubblica utilità che perseguono (art. 78, cpv. 1, lett. a-d e lett. f), fino al 20 per cento del reddito netto,
 - k) i contributi dell'assicurato, versati giusta la legge e le disposizioni regolamentari e statuarie che su essa si fondano, per l'acquisto di anni di contribuzione a istituzioni riconosciute della previdenza professionale,
-- l) le spese comprovate, tuttavia al massimo 10 000 franchi, per la custodia da parte di terzi di ogni figlio che non ha ancora compiuto 14 anni e che vive nella stessa economia domestica del contribuente che si occupa del suo mantenimento, nella misura in cui queste spese si trovino in relazione causale diretta con l'attività lucrativa, la formazione o l'incapacità al guadagno del contribuente. La deduzione può essere ripartita tra due contribuenti,
+- l) le spese comprovate, tuttavia al massimo 25 000 franchi, per la custodia da parte di terzi di ogni figlio che non ha ancora compiuto 14 anni e che vive nella stessa economia domestica del contribuente che si occupa del suo mantenimento, nella misura in cui queste spese si trovino in relazione causale diretta con l'attività lucrativa, la formazione o l'incapacità al guadagno del contribuente. La deduzione può essere ripartita tra due contribuenti,
 - m) le tasse sociali e le assegnazioni fino all'importo complessivo di 10 000 franchi a partiti politici che:
   - 1\. sono iscritti nel registro dei partiti secondo l'articolo 76a della legge federale del 17 dicembre 1976 sui diritti politici,
   - 2\. sono rappresentati nel Parlamento cantonale o che
@@ -713,12 +713,12 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> Si deducono dal reddito netto:
 
 - a) …
-- b) 500 franchi se entrambi i coniugi tassati congiuntamente conseguono un reddito da attività lucrativa;
+- b) 2000 franchi se entrambi i coniugi tassati congiuntamente conseguono un reddito da attività lucrativa;
 - c) …
 - d)
-  - 1\. 6000 franchi per ogni figlio in età prescolare, al cui sostentamento il contribuente provvede in misura principale.
-  - 2\. 9000 franchi per figli minorenni più grandi e per figli in formazione scolastica o professionale, al cui sostentamento il contribuente provvede in misura principale.
-  - 3\. La deduzione aumenta fino a 18 000 franchi se il figlio soggiorna durante la settimana nel luogo di formazione;
+  - 1\. 9000 franchi per ogni figlio in età prescolare, al cui sostentamento il contribuente provvede in misura principale;
+  - 2\. 12 500 franchi per figli minorenni più grandi e per figli in formazione scolastica o professionale, al cui sostentamento il contribuente provvede in misura principale;
+  - 3\. La deduzione sale a 22 500 franchi se il figlio soggiorna durante la settimana nel luogo di formazione;
 - e) …
 - f) 5000 franchi per ogni persona totalmente o parzialmente incapace di esercitare un'attività lucrativa, al cui sostentamento il contribuente provvede, sempre che l'aiuto uguagli almeno l'importo della deduzione. Questa deduzione non è ammessa per i coniugi e i concubini, nonché per i figli per i quali un genitore o un concubino può richiedere una deduzione per figli;
 - g) …

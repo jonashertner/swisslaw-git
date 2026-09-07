@@ -4,12 +4,12 @@ number: "720.000"
 title: Lescha da taglia per il chantun Grischun
 language: rm
 version: 2026-01-01
-corrected: 2025-12-17
+corrected: 2026-09-08
 version_adopted: 2025-08-28
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3557/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -684,7 +684,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
   - 4\. las deducziuns s'augmentan per 900 francs per mintga uffant minoren u en scolaziun professiunala;
 - i) las prestaziuns voluntaras da daners e d'ulteriuras valurs da facultad a persunas giuridicas cun sedia en Svizra, las qualas èn liberadas da l'obligaziun da pajar taglia en vista a lur intents publics u exclusivamain d'utilitad publica (artitgel 78 literas a – d e litera f), fin a 20 pertschient da l'entrada netta;
 - k) las contribuziuns da la persuna assicurada che vegnan prestadas – tenor lescha e tenor las disposiziuns reglamentaras u statutaras – per cumprar onns da contribuziun ad instituziuns renconuschidas da la prevenziun professiunala liada;
-- l) ils custs cumprovads, dentant maximalmain 10 000 francs, per la tgira tras terzas persunas da quel uffant, che n'ha anc betg cumplenì il 14avel onn da vegliadetgna e che viva en la medema chasada cun la persuna obligada da pajar taglia, la quala procura per ses mantegniment, uschenavant che quests custs stattan en in connex causal direct cun l'activitad da gudogn, cun la scolaziun u cun l'incapacitad da gudagnar da la persuna obligada da pajar taglia. La deducziun po vegnir repartida sin duas persunas obligadas da pajar taglia;
+- l) ils custs cumprovads, dentant maximalmain 25 000 francs, per la tgira tras terzas persunas da quel uffant, che n'ha anc betg cumplenì il 14avel onn da vegliadetgna e che viva en la medema chasada cun la persuna obligada da pajar taglia, la quala procura per ses mantegniment, uschenavant che quests custs stattan en in connex causal direct cun l'activitad da gudogn, cun la scolaziun u cun l'incapacitad da gudagnar da la persuna obligada da pajar taglia. La deducziun po vegnir repartida sin duas persunas obligadas da pajar taglia;
 - m) las contribuziuns da commembranza e las donaziuns fin ad in import total da 10 000 francs a partidas politicas che:
   - 1\. èn inscrittas en il register da las partidas tenor l'artitgel 76a da la lescha federala dals 17 da december 1976 davart ils dretgs politics;
   - 2\. èn represchentadas en il parlament chantunal; u
@@ -716,12 +716,12 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 <sup>1</sup> Da l'entrada netta vegnan deducids:
 
 - a) …
-- b) 500 francs, sche omadus conjugals suttamess communablamain a la taglia han in'entrada da gudogn;
+- b) 2000 francs, sche omadus conjugals suttamess communablamain a la taglia han in'entrada da gudogn;
 - c) …
 - d)
-  - 1\. 6000 francs per mintga uffant da la vegliadetgna prescolara, dal qual il mantegniment vegn finanzià principalmain dal pajataglia.
-  - 2\. 9000 francs per uffants minorens pli vegls sco er per uffants da la vegliadetgna da scola u d'emprendissadi, dals quals il mantegniment vegn finanzià principalmain dal pajataglia.
-  - 3\. La deducziun s'augmenta a 18 000 francs, sche l'uffant dimora durant l'emna al lieu da scolaziun;
+  - 1\. 9000 francs per mintga uffant da la vegliadetgna prescolara, dal qual il mantegniment vegn finanzià principalmain dal pajataglia;
+  - 2\. 12 500 francs per uffants minorens pli vegls sco er per uffants da la vegliadetgna da scola u d'emprendissadi, dals quals il mantegniment vegn finanzià principalmain dal pajataglia;
+  - 3\. la deducziun s'augmenta a 22 500 francs, sche l'uffant dimora durant l'emna al lieu da scolaziun;
 - e) …
 - f) 5000 francs per mintga persuna ch'è totalmain u parzialmain incapabla da gudagnar, per il mantegniment da la quala il pajataglia procura almain en la dimensiun da la deducziun. La deducziun na po betg vegnir concedida per conjugals e per partenaris da concubinat sco er betg per uffants, per ils quals in genitur u in partenari da concubinat po far valair ina deducziun per uffants;
 - g) …

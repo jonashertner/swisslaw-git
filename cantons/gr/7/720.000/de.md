@@ -4,12 +4,12 @@ number: "720.000"
 title: Steuergesetz für den Kanton Graubünden
 language: de
 version: 2026-01-01
-corrected: 2025-12-17
+corrected: 2026-09-08
 version_adopted: 2025-08-28
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3557/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -684,7 +684,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
   - 4\. die Abzüge erhöhen sich um 900 Franken für jedes minderjährige oder in beruflicher Ausbildung stehende Kind;
 - i) die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf öffentliche oder ausschliesslich gemeinnützige Zwecke von der Steuerpflicht befreit sind (Artikel 78 Litera a - d und Litera f) bis zu 20 Prozent des Reineinkommens;
 - k) die nach Gesetz und darauf beruhenden reglementarischen oder statutarischen Bestimmungen geleisteten Beiträge des Versicherten für den Einkauf von Beitragsjahren an anerkannte Einrichtungen der beruflichen Vorsorge;
-- l) die nachgewiesenen Kosten, jedoch höchstens 10 000 Franken, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen. Der Abzug kann auf zwei Steuerpflichtige aufgeteilt werden;
+- l) die nachgewiesenen Kosten, jedoch höchstens 25 000 Franken, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen. Der Abzug kann auf zwei Steuerpflichtige aufgeteilt werden;
 - m) die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 000 Franken an politische Parteien, die:
   - 1\. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte eingetragen sind;
   - 2\. im kantonalen Parlament vertreten sind, oder
@@ -716,12 +716,12 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 <sup>1</sup> Vom Reineinkommen werden abgezogen:
 
 - a) …
-- b) 500 Franken, wenn beide gemeinsam veranlagten Ehegatten ein Erwerbseinkommen erzielen;
+- b) 2000 Franken, wenn beide gemeinsam veranlagten Ehegatten ein Erwerbseinkommen erzielen;
 - c) …
 - d)
-  - 1\. 6000 Franken für jedes Kind im Vorschulalter, dessen finanziellen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet;
-  - 2\. 9000 Franken für ältere minderjährige Kinder sowie Kinder in schulischer oder beruflicher Ausbildung, deren finanziellen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet;
-  - 3\. Der Abzug erhöht sich auf 18 000 Franken, wenn sich das Kind während der Woche am Ausbildungsort aufhält;
+  - 1\. 9000 Franken für jedes Kind im Vorschulalter, dessen finanziellen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet;
+  - 2\. 12 500 Franken für ältere minderjährige Kinder sowie Kinder in schulischer oder beruflicher Ausbildung, deren finanziellen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet;
+  - 3\. Der Abzug erhöht sich auf 22 500 Franken, wenn sich das Kind während der Woche am Ausbildungsort aufhält;
 - e) …
 - f) 5000 Franken für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beiträgt. Der Abzug kann nicht gewährt werden für Ehegatten und Konkubinatspartner sowie für Kinder, für die ein Elternteil oder ein Konkubinatspartner einen Kinderabzug beanspruchen kann;
 - g) …
