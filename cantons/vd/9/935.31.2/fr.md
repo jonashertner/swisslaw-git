@@ -4,7 +4,7 @@ number: "935.31.2"
 title: "RÈGLEMENT du 23.09.2015 de l'examen professionnel en vue de l'obtention du certificat cantonal d'aptitudes et du diplôme pour licence (RCCAL)"
 short: RCCAL
 language: fr
-version: 2025-03-01
+version: 2026-09-09
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31.2?id=4e8d571b-72f8-46b5-b386-44349e789e38"
 ---
 
@@ -119,8 +119,8 @@ arrête
 <sup>1</sup> Le programme complet des cours comprend les modules suivants :
 
 - a. Module A : Prescriptions d'hygiène
-- 1\. législation sur les denrées alimentaires et hygiène,
-- 2\. achat, stockage, entretien, nettoyage, gestion des déchets en cuisine et au service.
+- 1\. législation sur les denrées alimentaires, hygiène et allergènes,
+- 2\. achat, stockage, entretien, nettoyage, gestion des déchets en cuisine et au service, gestion des allergènes alimentaires à la fois théorique et pratique.
 - b. Module B : Droit des établissements et préventions
 - 1\. Module B1 Droit des établissements
 - 1\.1 loi sur les auberges et les débits de boissons (LADB).
