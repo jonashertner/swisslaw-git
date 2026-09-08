@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordonnance du DFI du 16 décembre 2016 sur les matériaux et objets destinés à entrer en contact avec les denrées alimentaires (Ordonnance sur les matériaux et objets)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: fr
-version: 2026-08-01
+version: 2026-09-09
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260909-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260909/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/fr"
 
 (Ordonnance sur les matériaux et objets)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> août 2026)
+du 16 décembre 2016 (État le 9 septembre 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -758,7 +758,7 @@ Annexe 1
 
 ## Symbole figurant sur les matériaux et objets indiquant l’usage auquel ils sont destinés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/fr/xml/image/image1.png)
 
 Annexe 2[^t-1]
 
@@ -1612,8 +1612,8 @@ Annexe 10[^t-10]
 
 [^annex10-lvlu1-1]
 
-[^t-10]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) et le ch. II al. 1 des O de l’OSAV du 2 juin 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), du 26 nov. 2025 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) et du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
-[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/374](https://fedlex.data.admin.ch/eli/oc/2026/374) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-10]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), le ch. II al. 1 des O de l’OSAV du 2 juin 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), du 26 nov. 2025 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)), du 19 juin 2026, en vigueur depuis le 1<sup>er</sup> août 2026 ([RO 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)) et l’erratum du 9 sept. 2026 ([RO 2026 459](https://fedlex.data.admin.ch/eli/oc/2026/459)).
+[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/459](https://fedlex.data.admin.ch/eli/oc/2026/459) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 11
 
@@ -1621,7 +1621,7 @@ Annexe 11
 
 ## Symbole indiquant «Ne pas manger»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/fr/xml/image/image2.png)
 
 Annexe 12
 
@@ -1714,8 +1714,8 @@ Annexe 13[^t-11]
 - 3\.1 Les structures chimiques sont les suivantes:
 
 <table>
-<tr><td>Bisphénol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/fr/xml/image/image3.png)</td></tr>
-<tr><td>Dérivé des bisphénols:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/fr/xml/image/image4.png)</td></tr>
+<tr><td>Bisphénol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/fr/xml/image/image3.png)</td></tr>
+<tr><td>Dérivé des bisphénols:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/fr/xml/image/image4.png)</td></tr>
 <tr><td colspan="2">X désigne tout groupe de liaison séparant les deux anneaux de phényle par un seul atome. L’atome peut toutefois avoir n’importe quel(s) substituant(s). R<sub>1</sub> à R<sub>10</sub> désignent tout substituant. Au moins un des substituants n’est pas un atome d’hydrogène (H).</td></tr>
 </table>
 

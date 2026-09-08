@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordinanza del DFI del 16 dicembre 2016 sui materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari (Ordinanza sui materiali e gli oggetti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: it
-version: 2026-08-01
+version: 2026-09-09
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260909-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260909/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/it"
 
 (Ordinanza sui materiali e gli oggetti)
 
-del 16 dicembre 2016 (Stato 1° agosto 2026)
+del 16 dicembre 2016 (Stato 9 settembre 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -759,7 +759,7 @@ Allegato 1
 
 ## Simbolo riportato sui materiali e sugli oggetti, indicante l’uso al quale sono destinati
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/it/xml/image/image1.png)
 
 Allegato 2[^t-1]
 
@@ -1607,8 +1607,8 @@ Allegato 10[^t-8]
 
 [^annex10-lvlu1-1]
 
-[^t-8]: Nuovo testo giusta la cifra I cpv. 3 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), dalle cifre II cpv. 1 delle O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), del 26 nov. 2025 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) e del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
-[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/374](https://fedlex.data.admin.ch/eli/oc/2026/374) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-8]: Nuovo testo giusta la cifra I cpv. 3 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), del 13 nov. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), dalle cifre II cpv. 1 delle O dell’USAV del 2 giu. 2025 ([RU 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), del 26 nov. 2025 ([RU 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)), del 19 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)) e dalla correzione del 9 set. 2026 ([RU 2026 459](https://fedlex.data.admin.ch/eli/oc/2026/459)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/459](https://fedlex.data.admin.ch/eli/oc/2026/459) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11
 
@@ -1616,7 +1616,7 @@ Allegato 11
 
 ## Simbolo «Non mangiare»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/it/xml/image/image2.png)
 
 Allegato 12
 
@@ -1709,8 +1709,8 @@ Allegato 13[^t-9]
 - 3\.1 Valgono le strutture chimiche seguenti:
 
 <table>
-<tr><td>Bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image3.png)</td></tr>
-<tr><td>Derivato di un bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/it/xml/image/image4.png)</td></tr>
+<tr><td>Bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/it/xml/image/image3.png)</td></tr>
+<tr><td>Derivato di un bisfenolo:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/it/xml/image/image4.png)</td></tr>
 <tr><td colspan="2">X si riferisce a qualsiasi gruppo ponte che separa i due anelli fenili mediante un unico atomo, ma l’atomo può avere uno o più sostituenti. Le sostanze da R<sub>1</sub> a R<sub>10</sub> si riferiscono a qualsiasi sostituente. Almeno uno dei sostituenti non è un atomo di idrogeno.</td></tr>
 </table>
 

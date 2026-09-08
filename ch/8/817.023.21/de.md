@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: "Verordnung des EDI vom 16. Dezember 2016 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenständeverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: de
-version: 2026-08-01
+version: 2026-09-09
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260909-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260909/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260801/de"
 
 (Bedarfsgegenständeverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. August 2026)
+vom 16. Dezember 2016 (Stand am 9. September 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -758,7 +758,7 @@ Anhang 1
 
 ## Symbol zur Bezeichnung des Verwendungszwecks entsprechend gekennzeichneter Bedarfsgegenstände
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/de/xml/image/image1.png)
 
 Anhang 2[^t-1]
 
@@ -1606,8 +1606,8 @@ Anhang 10[^t-8]
 
 [^annex10-lvlu1-1]
 
-[^t-8]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)) und BLV vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)).
-[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/374](https://fedlex.data.admin.ch/eli/oc/2026/374) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-8]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)), Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)), vom 19. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 374](https://fedlex.data.admin.ch/eli/oc/2026/374)) und der Berichtigung vom 9. Sept. 2026 ([AS 2026 459](https://fedlex.data.admin.ch/eli/oc/2026/459)).
+[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/459](https://fedlex.data.admin.ch/eli/oc/2026/459) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11
 
@@ -1615,7 +1615,7 @@ Anhang 11
 
 ## Symbol «NICHT ESSBAR»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/de/xml/image/image2.png)
 
 Anhang 12
 
@@ -1708,8 +1708,8 @@ Anhang 13[^t-9]
 - 3\.1 Es gelten folgende chemische Strukturen:
 
 <table>
-<tr><td>Bisphenol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image3.png)</td></tr>
-<tr><td>Bisphenolderivat:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260801/de/xml/image/image4.png)</td></tr>
+<tr><td>Bisphenol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/de/xml/image/image3.png)</td></tr>
+<tr><td>Bisphenolderivat:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260909/de/xml/image/image4.png)</td></tr>
 <tr><td colspan="2">X bezeichnet jede Brückengruppe, die die beiden Phenylringe durch ein einziges Atom trennt. Das Atom kann jedoch jegliche Substituenten aufweisen. R<sub>1</sub> bis R<sub>10</sub> bezeichnen jeglichen Substituenten. Mindestens einer der Substituenten ist kein Wasserstoffatom.</td></tr>
 </table>
 
