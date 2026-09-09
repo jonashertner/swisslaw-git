@@ -4,13 +4,12 @@ number: "701.1"
 title: Ausführungsgesetz zum Bundesgesetz über die Raumplanung
 short: kRPG
 language: de
-version: 2026-01-01
-valid_until: 2026-09-09
-version_adopted: 2025-02-13
+version: 2026-09-10
+version_adopted: 2026-09-10
 adopted: 1987-01-23
 in_force: 1989-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/701.1"
-pdf: "https://lex.vs.ch/api/de/versions/3554/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3554/pdf_file"
 
 (kRPG)
 
-vom 23.01.1987 (Stand 01.01.2026)
+vom 23.01.1987 (Stand 10.09.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -312,7 +311,9 @@ beschliesst:
 
 <sup>2</sup> Der Ertrag der Mehrwertabgabe im Fall von Artikel 10c Absatz 1 Buchstabe c geht an die betreffende Gemeinde.
 
-<sup>3</sup> Er wird primär für die Finanzierung der Entschädigungen aufgrund materieller Enteignung und anderer Massnahmen im Sinne von Artikel 3 RPG verwendet.
+<sup>3</sup> Er wird für die Finanzierung der Entschädigungen aufgrund materieller Enteignung sowie die Finanzierung der Abbruchprämie und anderer Massnahmen im Sinne von Artikel 3 RPG verwendet.
+
+<sup>3<sup>bis</sup></sup> Reichen die Mittel des Fonds nicht aus, können die für die Finanzierung der Abbruchprämie erforderlichen Mittel dem ordentlichen Budget entnommen werden. Die Mittel des kantonalen Fonds, die den Bedarf für Entschädigungen bei materieller Enteignung und für andere Massnahmen im Sinne von Artikel 3 RPG übersteigen, werden zum Ausgleich der vom Kanton für die Abbruchprämien bereitgestellten Mittel verwendet.
 
 <sup>4</sup> Die Einnahmen aus der Erhebung fliessen in einen spezifischen kantonalen beziehungsweise kommunalen Ausgleichsfonds.
 
@@ -329,6 +330,52 @@ beschliesst:
 <sup>3</sup> Die Entschädigung wird zu 50 Prozent durch den Kanton über den kantonalen Fonds und zu 50 Prozent durch die betreffende Gemeinde geleistet.
 
 <sup>4</sup> Im Übrigen ist das Enteignungsgesetz anwendbar.
+
+### 2.3 Abbruchprämie
+
+#### Art. 10l
+
+**Grundsatz**
+
+<sup>1</sup> Der Kanton zahlt eine Prämie, wenn rechtmässig erstellte Bauten und Anlagen ausserhalb der Bauzone abgerissen werden, sofern der geplante Abbruch dem Zweck dient, die Zahl der Gebäude und die Bodenversiegelung ausserhalb der Bauzone zu stabilisieren.
+
+<sup>2</sup> Die Prämie wird nur für Abbrucharbeiten vergeben, für die bei der zuständigen Baubehörde ein Baugesuch nach dem 1. Juli 2026 eingereicht wurde.
+
+<sup>3</sup> Für Bauten und Versiegelungen mit einer Fläche von weniger als 6 m² besteht kein Anspruch auf eine Prämie.
+
+#### Art. 10m
+
+**Art und Höhe der Prämie**
+
+<sup>1</sup> Die Prämie wird auf der Grundlage von Pauschalbeträgen berechnet, die je nach Art der abgerissenen Baute und Anlage auf einem Betrag pro m² oder m³ basieren.
+
+<sup>2</sup> Die Beträge werden in einer Verordnung des Staatsrates festgelegt. Sie werden entsprechend dem Baupreisindex (Genferseeregion) angepasst.
+
+#### Art. 10n
+
+**Grundsatzentscheid über die Prämie**
+
+<sup>1</sup> Das Prämiengesuch ist zusammen mit dem Gesuch für die Abbruchbewilligung bei der zuständigen Baubehörde einzureichen, die über die Vergabe oder Verweigerung der Prämie sowie deren Höhe entscheidet.
+
+<sup>2</sup> Dem Gesuch sind folgende Dokumente beizulegen:
+
+- a) die nach dem Baurecht erforderlichen Unterlagen;
+- b) der Situationsplan des Geometers mit den verschiedenen Nutzungen und Flächen oder Volumen. Unter Nutzung versteht man die Aussenanlagen, Nebengebäude, die Baute oder Anlage sowie die Zufahrten;
+- c) alle weiteren von der zuständigen Behörde geforderten Dokumente.
+
+#### Art. 10o
+
+**Konformitätsbescheinigung und Auszahlung der Prämie**
+
+<sup>1</sup> Mit der Meldung der Beendigung der Bauarbeiten reicht der Gesuchsteller einen Fotobericht sowie eine vom Eigentümer ausgestellte Konformitätsbescheinigung für den Abbruch ein.
+
+<sup>2</sup> Nach Erhalt der Konformitätsbescheinigung überweist die für die Raumplanung zuständige Dienststelle, die auch für die Verwaltung des kantonalen Ausgleichsfonds verantwortlich ist, den festgelegten Betrag an den Gesuchsteller.
+
+#### Art. 10p
+
+**Veränderungsbilanz**
+
+<sup>1</sup> Jede abgebrochene Baute oder Anlage wird von der für die Raumplanung zuständigen Dienststelle in der Veränderungsbilanz erfasst.
 
 ## 3 Aufgaben der Gemeinden
 

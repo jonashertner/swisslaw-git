@@ -4,13 +4,12 @@ number: "701.1"
 title: "Loi d'application de la loi fédérale sur l'aménagement du territoire"
 short: LcAT
 language: fr
-version: 2026-01-01
-valid_until: 2026-09-09
-version_adopted: 2025-02-13
+version: 2026-09-10
+version_adopted: 2026-09-10
 adopted: 1987-01-23
 in_force: 1989-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/701.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3554/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3655/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3554/pdf_file"
 
 (LcAT)
 
-du 23.01.1987 (état 01.01.2026)
+du 23.01.1987 (état 10.09.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -312,7 +311,9 @@ arrête:
 
 <sup>2</sup> Le produit de la taxe sur la plus-value dans le cas de l'article 10c alinéa 1 lettre c est attribué à la commune concernée.
 
-<sup>3</sup> Il est affecté prioritairement au financement des indemnisations pour expropriation matérielle et à celui d'autres mesures au sens de l'article 3 LAT.
+<sup>3</sup> Il est affecté au financement des indemnisations pour expropriation matérielle, à celui de la prime de démolition et à celui d'autres mesures au sens de l'article 3 LAT.
+
+<sup>3<sup>bis</sup></sup> En cas d’insuffisance du fonds, les moyens nécessaires au financement de la prime de démolition peuvent être prélevés sur le budget ordinaire. Les moyens du fonds cantonal excédant les besoins pour les indemnisations pour expropriation matérielle et pour d'autres mesures au sens de l'article 3 LAT sont utilisés pour compenser les moyens mis à disposition par le canton pour les primes de démolition.
 
 <sup>4</sup> Le produit du prélèvement est versé dans un fonds spécifique de compensation cantonal, respectivement communal.
 
@@ -329,6 +330,52 @@ arrête:
 <sup>3</sup> L'indemnisation est assurée à raison de 50 pour cent par le canton, au moyen du fonds cantonal, et de 50 pour cent par la commune concernée.
 
 <sup>4</sup> La loi sur l'expropriation est applicable pour le surplus.
+
+### 2.3 Prime de démolition
+
+#### Art. 10l
+
+**Principe**
+
+<sup>1</sup> Le canton verse une prime en cas de démolition des constructions et installations érigées légalement hors zone à bâtir lorsque la démolition visée sert l’objectif de stabilisation du nombre de bâtiments et de la surface imperméabilisée hors zone à bâtir.
+
+<sup>2</sup> La prime n’est due que pour les démolitions ayant fait l'objet d'une demande d’autorisation transmise à l’autorité compétente après le 1<sup>er</sup> juillet 2026.
+
+<sup>3</sup> Les constructions et les surfaces imperméabilisées dont la taille est inférieure à 6 m² ne donnent pas droit à une prime.
+
+#### Art. 10m
+
+**Nature et montant de la prime**
+
+<sup>1</sup> La prime est calculée sur la base de montants forfaitaires définis selon un prix au m² ou m³ fixé en fonction du type de construction ou d'installation démoli.
+
+<sup>2</sup> Les montants sont fixés dans une ordonnance du Conseil d’Etat. Ils sont ajustés en fonction de l’indice des prix à la construction (région lémanique).
+
+#### Art. 10n
+
+**Décision sur le principe de la prime**
+
+<sup>1</sup> La demande de prime est jointe à la demande d’autorisation de démolition et transmise à l’autorité compétente en matière d’autorisation de construire, qui statue sur le principe d’octroi ou de refus de la prime ainsi que sur son montant.
+
+<sup>2</sup> La demande est accompagnée des documents suivants:
+
+- a) les documents requis par la législation sur les constructions;
+- b) le plan de situation du géomètre avec les différentes affectations et surfaces ou volume. Par affectation, on entend les aménagements extérieurs, les annexes, le bâtiment ou l’installation et les accès;
+- c) tout autre document requis par l’autorité compétente.
+
+#### Art. 10o
+
+**Attestation de conformité et encaissement de la prime**
+
+<sup>1</sup> Lors de l’annonce de la fin des travaux, le requérant transmet un rapport photographique et une attestation de conformité de la démolition établie par le propriétaire.
+
+<sup>2</sup> À réception de l’attestation de conformité, le service en charge de l’aménagement du territoire, responsable de la gestion du fonds de compensation cantonal, transfère le montant arrêté au requérant.
+
+#### Art. 10p
+
+**Bilan des modifications**
+
+<sup>1</sup> Toute construction ou installation démolie est comptabilisée dans le bilan des modifications par le service chargé de l'aménagement du territoire.
 
 ## 3 Tâches des communes
 
