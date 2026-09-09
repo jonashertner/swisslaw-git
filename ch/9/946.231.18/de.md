@@ -3,18 +3,20 @@ sr: "946.231.18"
 title: Verordnung vom 25. Mai 2005 über Massnahmen gegenüber dem Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: de
-version: 2026-08-11
+version: 2026-09-10
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260811/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260811-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260811/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260910/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260910-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260910/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Massnahmen gegenüber Sudan
+# Verordnung über Massnahmen gegenüber dem Sudan
 
-vom 25. Mai 2005 (Stand am 11. August 2026)
+vom 25. Mai 2005 (Stand am 10. September 2026)[^t-1]
+
+[^t-1]: Ausdruck gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 Der Schweizerische Bundesrat,
 
@@ -26,30 +28,82 @@ verordnet:
 [^ingress-2]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Fassung gemäss Ziff. I 15 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
-## 1. Abschnitt: Zwangsmassnahmen
+## 1. Abschnitt: Begriffe
+
+[^sec1-1]
+
+[^sec1-1]: Fassung gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 1
 
-**Verbot der Lieferung von Rüstungsgütern und verwandtem Material**
+[^1-1]
 
-<sup>1</sup> Die Lieferung, der Verkauf, die Durchfuhr und die Vermittlung von Rüstungsgütern jeder Art, einschliesslich Waffen und Munition, Militärfahrzeuge und ‑ausrüstung, paramilitärische Ausrüstung sowie Zubehör und Ersatzteile dafür, nach Sudan sind verboten.
+In dieser Verordnung bedeuten:
 
-<sup>2</sup> Die Gewährung, der Verkauf und die Vermittlung von technischer Beratung, Ausbildung oder Unterstützung an Sudan im Zusammenhang mit der Lieferung, der Herstellung, dem Unterhalt oder der Verwendung von Rüstungsgütern nach Absatz 1 sind verboten.
+- a.[^1-2] *Gelder:* finanzielle Vermögenswerte, einschliesslich Bargeld, Schecks, Geldforderungen, Wechsel, Geldanweisungen oder andere Zahlungsmittel, Guthaben, Schulden und Schuldenverpflichtungen, Wertpapiere und Schuldtitel, Wertpapierzertifikate, Obligationen, Schuldscheine, Optionsscheine, Pfandbriefe, Derivate; Zinserträge, Dividenden oder andere Einkünfte oder Wertzuwächse aus Vermögenswerten; Kredite, Rechte auf Verrechnung, Bürgschaften, Vertragserfüllungsgarantien oder andere finanzielle Zusagen; Akkreditive, Konnossemente, Sicherungsübereignungen, Dokumente zur Verbriefung von Anteilen an Fondsvermögen oder anderen Finanzressourcen und jedes andere Finanzierungsinstrument für Exporte;
+- b. *Sperrung von Geldern:* die Verhinderung jeder Handlung, welche die Verwaltung oder die Nutzung der Gelder ermöglicht, mit Ausnahme von normalen Verwaltungshandlungen von Finanzinstituten;
+- c. *wirtschaftliche Ressourcen:* Vermögenswerte jeder Art, unabhängig davon, ob sie materiell oder immateriell, beweglich oder unbeweglich sind, insbesondere Immobilien und Luxusgüter, mit Ausnahme von Geldern nach Buchstabe a;
+- d. *Sperrung wirtschaftlicher Ressourcen:* die Verhinderung ihrer Verwendung zum Erwerb von Geldern, Waren oder Dienstleistungen, einschliesslich des Verkaufs, des Vermietens oder des Verpfändens solcher Ressourcen.
+
+[^1-1]: Ursprünglich: Art. 3.
+[^1-2]: Die Berichtigung vom 25. Aug. 2020 betrifft nur den französischen und italienischen Text ([AS 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+
+## 1*a*. Abschnitt: Zwangsmassnahmen
+
+[^sec1a-1]
+
+[^sec1a-1]: Eingefügt durch Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+#### Art. 1a
+
+**Verbot der Lieferung von Rüstungsgütern und verwandtem Material**[^1a-1]
+
+<sup>1</sup> Die Lieferung, der Verkauf, die Durchfuhr und die Vermittlung von Rüstungsgütern jeder Art, einschliesslich Waffen und Munition, Militärfahrzeuge und ‑ausrüstung, paramilitärische Ausrüstung sowie Zubehör und Ersatzteile dafür, nach dem Sudan sind verboten.
+
+<sup>2</sup> Die Gewährung, der Verkauf und die Vermittlung von technischer Beratung, Ausbildung oder Unterstützung an den Sudan im Zusammenhang mit der Lieferung, der Herstellung, dem Unterhalt oder der Verwendung von Rüstungsgütern nach Absatz 1 sind verboten.
 
 <sup>3</sup>
 
 Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) Ausnahmen von den Verboten der Absätze 1 und 2 bewilligen:
 
-- a. zur ausschliesslichen Verwendung durch die Mission der Vereinten Nationen in Sudan (UNMIS);
+- a. zur ausschliesslichen Verwendung durch die Mission der Vereinten Nationen im Sudan (UNMIS);
 - b. zur ausschliesslichen Verwendung durch regionale Organisationen in Einsätzen, die der Überwachung, Überprüfung oder Friedensförderung dienen;
 - c. für die Lieferung nichtletalen militärischen Geräts, das ausschliesslich für humanitäre oder Schutzzwecke bestimmt ist;
 - d. für die Lieferung von Schutzkleidung (z.B. kugelsichere Westen) zur persönlichen Verwendung durch Personal der Vereinten Nationen, Medienvertreter und humanitäres Personal;
 - e. zur Unterstützung des umfassenden Friedensabkommens von Nairobi vom 9. Januar 2005.
 
-<sup>4</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^1-1] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^1-2].
+<sup>4</sup> Vorbehalten bleiben die Bestimmungen des Güterkontrollgesetzes vom 13. Dezember 1996[^1a-2] und des Kriegsmaterialgesetzes vom 13. Dezember 1996[^1a-3].
 
-[^1-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
-[^1-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^1a-1]: Ursprünglich: Art. 1.
+[^1a-2]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1a-3]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+
+#### Art. 1b
+
+**Gold**[^1b-1]
+
+<sup>1</sup> Der Kauf von Gold gemäss Anhang 3 mit Ursprung im Sudan, das nach dem 9. September 2026 aus dem Sudan ausgeführt wurde, und die Einfuhr, die Durchfuhr und der Transport solchen Goldes in und durch die Schweiz sind verboten.
+
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung, technischer Hilfe und der Gewährung von Finanzmitteln, im Zusammenhang mit dem Kauf, der Einfuhr, der Durchfuhr und dem Transport in und durch die Schweiz sowie mit der Bereitstellung, der Herstellung oder der Verwendung von Gold nach Absatz 1 sind verboten.
+
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter, die erforderlich sind für die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner im Sudan oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen.
+
+[^1b-1]: Eingefügt durch Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+#### Art. 1c
+
+**Güter für den Goldbergbau und die Goldgewinnung**[^1c-1]
+
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern für den Goldbergbau und die Goldgewinnung gemäss Anhang 4 nach dem Sudan oder zur Verwendung im Sudan sind verboten.
+
+<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung, technischer Hilfe und der Gewährung von Finanzmitteln, im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr und der Durchfuhr von Gütern nach Absatz 1 nach dem Sudan oder zur Verwendung im Sudan sowie mit der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter im Sudan sind verboten.
+
+<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter, die für humanitäre Aktivitäten, zur Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit, zur dringenden Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder zur Bewältigung von Naturkatastrophen bestimmt sind.
+
+<sup>4</sup> Die Bewilligungspflicht für zivil und militärisch verwendbare Güter nach Artikel 3 der Güterkontrollverordnung vom 3. Juni 2016[^1c-2] (GKV) gilt auch bei Ausnahmen nach Absatz 3.
+
+[^1c-1]: Eingefügt durch Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+[^1c-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 2
 
@@ -112,16 +166,9 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 
 #### Art. 3
 
-**Begriffsbestimmungen**
+[^3-1]
 
-In dieser Verordnung bedeuten:
-
-- a.[^3-1] *Gelder:* finanzielle Vermögenswerte, einschliesslich Bargeld, Schecks, Geldforderungen, Wechsel, Geldanweisungen oder andere Zahlungsmittel, Guthaben, Schulden und Schuldenverpflichtungen, Wertpapiere und Schuldtitel, Wertpapierzertifikate, Obligationen, Schuldscheine, Optionsscheine, Pfandbriefe, Derivate; Zinserträge, Dividenden oder andere Einkünfte oder Wertzuwächse aus Vermögenswerten; Kredite, Rechte auf Verrechnung, Bürgschaften, Vertragserfüllungsgarantien oder andere finanzielle Zusagen; Akkreditive, Konnossemente, Sicherungsübereignungen, Dokumente zur Verbriefung von Anteilen an Fondsvermögen oder anderen Finanzressourcen und jedes andere Finanzierungsinstrument für Exporte;
-- b. *Sperrung von Geldern:* die Verhinderung jeder Handlung, welche die Verwaltung oder die Nutzung der Gelder ermöglicht, mit Ausnahme von normalen Verwaltungshandlungen von Finanzinstituten;
-- c. *wirtschaftliche Ressourcen:* Vermögenswerte jeder Art, unabhängig davon, ob sie materiell oder immateriell, beweglich oder unbeweglich sind, insbesondere Immobilien und Luxusgüter, mit Ausnahme von Geldern nach Buchstabe a;
-- d. *Sperrung wirtschaftlicher Ressourcen:* die Verhinderung ihrer Verwendung zum Erwerb von Geldern, Waren oder Dienstleistungen, einschliesslich des Verkaufs, des Vermietens oder des Verpfändens solcher Ressourcen.
-
-[^3-1]: Die Berichtigung vom 25. Aug. 2020 betrifft nur den französischen und italienischen Text ([AS 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+[^3-1]: Aufgehoben durch Ziff. I der V vom 9. Sept. 2026, mit Wirkung seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 4
 
@@ -136,7 +183,7 @@ In dieser Verordnung bedeuten:
 Das SEM kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 - a. aus erwiesenen humanitären Gründen;
-- b. für die Teilnahme an internationalen Konferenzen oder an einem politischen Dialog betreffend Sudan; oder
+- b. für die Teilnahme an internationalen Konferenzen oder an einem politischen Dialog betreffend dem Sudan; oder
 - c. zur Wahrung schweizerischer Interessen.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
@@ -170,17 +217,19 @@ Das SEM kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer gegen Artikel 1, 2 oder 4 verstösst, wird nach Artikel 9 EmbG bestraft.
+<sup>1</sup> Wer gegen die Artikel 1*a*–4 verstösst, wird nach Artikel 9 EmbG bestraft.[^7-1]
 
 <sup>2</sup> Wer gegen Artikel 6 verstösst, wird nach Artikel 10 EmbG bestraft.
 
 <sup>3</sup> Verstösse nach den Artikeln 9 und 10 EmbG werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
 
-## 3. Abschnitt: Automatische Übernahme von Listen und Inkrafttreten
+[^7-1]: Fassung gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+## 3. Abschnitt: Schlussbestimmungen
 
 [^sec3-1]
 
-[^sec3-1]: Fassung gemäss Ziff. I 7 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^sec3-1]: Fassung gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 7a
 
@@ -188,7 +237,7 @@ Das SEM kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 Die Listen, die der Sicherheitsrat der Vereinten Nationen beziehungsweise das zuständige Komitee des Sicherheitsrats der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat (Anhang 1), werden automatisch übernommen.
 
-[^7a-1]: Eingefügt durch Ziff. I 9 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^7a-1]: Eingefügt durch Ziff. I 9 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 7b
 
@@ -198,6 +247,17 @@ Die Inhalte der Anhänge 1 und 2 werden in der Amtlichen Sammlung und in der Sys
 
 [^7b-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
+#### Art. 7c
+
+**Übergangsbestimmungen zur Änderung vom 9. September 2026**[^7c-1]
+
+<sup>1</sup> Für Güter gemäss Anhang 4, die unter die Zolltarifnummer 2837 11 fallen, gelten die Verbote nach Artikel 1*c* Absätze 1 und 2 nicht für die Erfüllung von Verträgen, die vor dem 10. September 2026 abgeschlossen wurden und bis zum 10. März 2027 erfüllt werden, sowie für die zur Erfüllung solcher Verträge erforderlichen Nebenverträge.
+
+<sup>2</sup> Die Bewilligungspflicht für zivil und militärisch verwendbare Güter nach Artikel 3 GKV[^7c-2] gilt auch bei Ausnahmen nach Absatz 1.
+
+[^7c-1]: Eingefügt durch Ziff. I der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+[^7c-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+
 #### Art. 8
 
 **Inkrafttreten[^8-1]**
@@ -206,13 +266,13 @@ Diese Verordnung tritt am 26. Mai 2005 in Kraft.
 
 [^8-1]: Eingefügt durch Ziff. I 9 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen, in Kraft seit 1. Febr. 2013 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Anhang 1[^t-1]
+Anhang 1[^t-2]
 
 (Art. 2 Abs. 1, Art. 4 Abs. 1 und 2, 7*a* und 7*b*)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: Ursprünglich Anhang. Fassung gemäss Ziff. II Abs. 1 der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 Uhr ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^t-2]: Ursprünglich Anhang. Fassung gemäss Ziff. II Abs. 1 der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 Uhr ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 **Anmerkung**
 
@@ -223,7 +283,7 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-1]: Die Liste ist auf Französisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions concernant le Soudan &gt; Matériaux relatifs à la liste de sanctions.
 [^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
-Anhang 2[^t-2]
+Anhang 2[^t-3]
 
 (Art. 2 Abs. 1, Art. 4 Abs. 1 und 3 sowie 7*b*)
 
@@ -231,5 +291,34 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024 ([AS 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), vom 14. Jan. 2025 ([AS 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), vom 18. Aug. 2025 ([AS 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)), vom 8. Dez. 2025 ([AS 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)), vom 18. Febr. 2026 ([AS 2026 82](https://fedlex.data.admin.ch/eli/oc/2026/82)), vom 4. Juni 2026 ([AS 2026 283](https://fedlex.data.admin.ch/eli/oc/2026/283)) und vom 10. Aug. 2026, in Kraft seit 11. Aug. 2026 um 23.00 Uhr ([AS 2026 413](https://fedlex.data.admin.ch/eli/oc/2026/413)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024 ([AS 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), vom 14. Jan. 2025 ([AS 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), vom 18. Aug. 2025 ([AS 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)), vom 8. Dez. 2025 ([AS 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)), vom 18. Febr. 2026 ([AS 2026 82](https://fedlex.data.admin.ch/eli/oc/2026/82)), vom 4. Juni 2026 ([AS 2026 283](https://fedlex.data.admin.ch/eli/oc/2026/283)) und vom 10. Aug. 2026, in Kraft seit 11. Aug. 2026 um 23.00 Uhr ([AS 2026 413](https://fedlex.data.admin.ch/eli/oc/2026/413)).
 [^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/413](https://fedlex.data.admin.ch/eli/oc/2026/413) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+
+Anhang 3[^t-4]
+
+(Art. 1*b* Abs. 1)
+
+## Gold
+
+[^t-4]: Eingefügt durch Ziff. II der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+<table>
+<tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
+<tr><td>7108</td><td>Gold (einschl. platiniertes Gold), in Rohform oder als Halbzeug oder Pulver</td></tr>
+<tr><td>7112 91</td><td>Abfälle und Schrott aus Gold, einschliesslich aus Goldplattierungen, ausgenommen andere Edelmetalle enthaltende Bearbeitungsabfälle</td></tr>
+<tr><td>ex 7118 90</td><td>Goldmünzen</td></tr>
+</table>
+
+Anhang 4[^t-5]
+
+(Art. 1*c* Abs. 1)
+
+## Güter für den Goldbergbau und die Goldgewinnung
+
+[^t-5]: Eingefügt durch Ziff. II der V vom 9. Sept. 2026, in Kraft seit 10. Sept. 2026 ([AS 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+<table>
+<tr><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
+<tr><td>2805 40</td><td>Quecksilber</td></tr>
+<tr><td>2837 11</td><td>Cyanide und Oxycyanide des Natriums</td></tr>
+</table>

@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: "Ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: fr
-version: 2026-08-11
+version: 2026-09-10
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260811/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260811-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260811/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260910/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260910-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260910/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Soudan
 
-du 25 mai 2005 (État le 11 août 2026)
+du 25 mai 2005 (État le 10 septembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -26,11 +26,35 @@ arrête:
 [^ingress-2]: Les textes des résolutions du Conseil de sécurité des Nations Unies peuvent être consultés à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Nouvelle teneur selon le ch. I 15 de l’O du 26 avr. 2023 sur les exceptions à certaines mesures de coercition pour l’acheminement de l’aide humanitaire ou pour l’appui à d’autres activités visant à répondre aux besoins essentiels des personnes, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
-## Section 1 Mesures de coercition
+## Section 1 Définition
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 1
 
-**Interdiction de fournir des biens d’équipement militaires et du matériel connexe**
+[^1-1]
+
+Au sens de la présente ordonnance, on entend par:
+
+- a*.*[^1-2] *avoirs*: tous les actifs financiers, y compris le numéraire, les chèques, les créances monétaires, les lettres de change, les mandats ou autres moyens de paiement, les dépôts, les créances et reconnaissances de dette, les titres et titres de dette, les certificats de titres, les obligations, les titres de créances, les options, les lettres de gage, les dérivés; les recettes d’intérêts, les dividendes ou autres revenus ou plus-values engendrés par des biens en capital; les crédits, les droits à des compensations, les cautions, les garanties d’exécution de contrats ou autres engagements financiers; les accréditifs, les connaissements, les transferts de propriété à fin de garantie, les documents de titrisation de parts à des fonds ou à d’autres ressources financières et tout autre instrument de financement des exportations;
+- b. *gel des avoirs:* le fait d’empêcher toute action permettant la gestion ou l’utilisation des avoirs, à l’exception des actions administratives normales effectuées par des instituts financiers;
+- c. *ressources économiques:* les valeurs de quelque nature que ce soit, corporelles ou incorporelles, mobilières ou immobilières, en particulier les immeubles et les biens de luxe, à l’exception des avoirs au sens de la let. a;
+- d. *gel des ressources économiques:* toute action visant à empêcher leur utilisation afin d’obtenir des avoirs, des biens ou des services de quelque manière que ce soit, y compris par leur vente, leur location ou leur hypothèque.
+
+[^1-1]: Anciennement art. 3.
+[^1-2]: Erratum du 25 août 2020 ([RO 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+
+## Section 1*a* Mesures de coercition
+
+[^sec1a-1]
+
+[^sec1a-1]: Introduit par le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+#### Art. 1a
+
+**Interdiction de fournir des biens d’équipement militaires et du matériel connexe**[^1a-1]
 
 <sup>1</sup> La fourniture, la vente, le transit ainsi que le courtage à destination du Soudan de biens d’équipement militaires de toute sorte, y compris d’armes et de munitions, de véhicules et d’équipement militaires, de matériels paramilitaires, de même que leurs accessoires et pièces de rechange, sont interdits.
 
@@ -46,10 +70,38 @@ Le Secrétariat d’État à l’économie (SECO) peut, après consultation des 
 - d. pour la fourniture de vêtements de protection (p.ex. des gilets pare-balles) pour l’usage du personnel des Nations Unies, des représentants des médias et des agents humanitaires;
 - e. à l’appui de la mise en œuvre de l’Accord de paix global de Nairobi du 9 janvier 2005.
 
-<sup>4</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^1-1] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1-2] sont réservées.
+<sup>4</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^1a-2] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^1a-3] sont réservées.
 
-[^1-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
-[^1-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^1a-1]: Anciennement art. 1.
+[^1a-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1a-3]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+
+#### Art. 1b
+
+**Or**[^1b-1]
+
+<sup>1</sup> L’achat d’or visé à l’annexe 3 originaire et exporté du Soudan après le 9 septembre 2026 ainsi que l’importation, le transit et le transport de cet or en Suisse et par la Suisse sont interdits.
+
+<sup>2</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage, l’assistance technique et l’octroi de moyens financiers, en lien avec l’achat, l’importation, le transit et le transport en Suisse et par la Suisse des biens visés à l’al. 1 ou en lien avec la fourniture, la fabrication ou l’utilisation desdits biens sont interdits.
+
+<sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas aux biens qui sont nécessaires aux activités officielles de représentations diplomatiques ou consulaires de la Suisse ou de ses partenaires au Soudan ou d’organisations internationales jouissant d’immunités conformément au droit international.
+
+[^1b-1]: Introduit par le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+#### Art. 1c
+
+**Biens destinés à l’extraction d’or ou à l’exploitation d’or**[^1c-1]
+
+<sup>1</sup> La vente, la livraison, l’exportation et le transit des biens destinés à l’extraction d’or ou à l’exploitation d’or visés à l’annexe 4 à destination du Soudan ou aux fins d’une utilisation dans ce pays sont interdits.
+
+<sup>2</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage, l’assistance technique et l’octroi de moyens financiers, en lien avec la vente, la livraison, l’exportation et le transit des biens visés à l’al. 1 à destination du Soudan ou aux fins d’une utilisation dans ce pays ou en lien avec la fourniture, la fabrication, l’entretien ou l’utilisation desdits biens au Soudan sont interdits.
+
+<sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas aux biens destinés à des activités humanitaires, à la gestion des urgences de santé publique, à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou à la maîtrise des catastrophes naturelles.
+
+<sup>4</sup> Le régime du permis pour les biens utilisables à des fins civiles et militaires visés à l’art. 3 de l’ordonnance du 3 juin 2016 sur le contrôle des biens (OCB)[^1c-2] s’applique également aux exceptions prévues à l’al. 3.
+
+[^1c-1]: Introduit par le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+[^1c-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 2
 
@@ -112,16 +164,9 @@ Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou resso
 
 #### Art. 3
 
-**Définitions**
+[^3-1]
 
-Au sens de la présente ordonnance, on entend par:
-
-- a*.*[^3-1] *avoirs*: tous les actifs financiers, y compris le numéraire, les chèques, les créances monétaires, les lettres de change, les mandats ou autres moyens de paiement, les dépôts, les créances et reconnaissances de dette, les titres et titres de dette, les certificats de titres, les obligations, les titres de créances, les options, les lettres de gage, les dérivés; les recettes d’intérêts, les dividendes ou autres revenus ou plus-values engendrés par des biens en capital; les crédits, les droits à des compensations, les cautions, les garanties d’exécution de contrats ou autres engagements financiers; les accréditifs, les connaissements, les transferts de propriété à fin de garantie, les documents de titrisation de parts à des fonds ou à d’autres ressources financières et tout autre instrument de financement des exportations;
-- b. *gel des avoirs:* le fait d’empêcher toute action permettant la gestion ou l’utilisation des avoirs, à l’exception des actions administratives normales effectuées par des instituts financiers;
-- c. *ressources économiques:* les valeurs de quelque nature que ce soit, corporelles ou incorporelles, mobilières ou immobilières, en particulier les immeubles et les biens de luxe, à l’exception des avoirs au sens de la let. a;
-- d. *gel des ressources économiques:* toute action visant à empêcher leur utilisation afin d’obtenir des avoirs, des biens ou des services de quelque manière que ce soit, y compris par leur vente, leur location ou leur hypothèque.
-
-[^3-1]: Erratum du 25 août 2020 ([RO 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+[^3-1]: Abrogé par le ch. I de l’O du 9 sept. 2026, avec effet au 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 4
 
@@ -170,17 +215,19 @@ Le SEM peut, pour des personnes physiques visées à l’annexe 2, accorder des 
 
 **Dispositions pénales**
 
-<sup>1</sup> Quiconque viole les dispositions des art. 1, 2 ou 4 est puni conformément à l’art. 9 LEmb.
+<sup>1</sup> Quiconque viole les dispositions des art. 1*a* à 4 est puni conformément à l’art. 9 LEmb.[^7-1]
 
 <sup>2</sup> Quiconque viole les dispositions de l’art. 6 est puni conformément à l’art. 10 LEmb.
 
 <sup>3</sup> Le SECO poursuit et juge les infractions au sens des art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 3 Reprise automatique de listes et entrée en vigueur
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+## Section 3 Dispositions finales
 
 [^sec3-1]
 
-[^sec3-1]: Nouvelle teneur selon le ch. I 7 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 7a
 
@@ -197,6 +244,17 @@ Les listes relatives à des personnes physiques, entreprises et entités que le 
 Le contenu des annexes 1 et 2 est publié au Recueil officiel du droit fédéral et au Recueil systématique du droit fédéral uniquement sous la forme d’un renvoi.
 
 [^7b-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 10 avr. 2024 à 18 heures ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+
+#### Art. 7c
+
+**Dispositions transitoires relatives à la modification du 9 septembre 2026**[^7c-1]
+
+<sup>1</sup> Pour les biens de la position tarifaire 2837 11 visés à l’annexe 4, les interdictions prévues à l’art. 1*c*, al. 1 et 2, ne s’appliquent pas à l’exécution des contrats conclus avant le 10 septembre 2026 et exécutés avant le 10 mars 2027 ni aux contrats accessoires nécessaires à l’exécution de tels contrats.
+
+<sup>2</sup> Le régime du permis pour les biens utilisables à des fins civiles et militaires visés à l’art. 3 OCB[^7c-2] s’applique également aux exceptions prévues à l’al. 1.
+
+[^7c-1]: Introduit par le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+[^7c-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 8
 
@@ -233,3 +291,32 @@ Annexe 2[^t-2]
 
 [^t-2]: Introduite par le ch. II al. 2 de l’O du 10 avr. 2024 ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Mise à jour par le ch. I des O du DEFR du 8 juil. 2024 ([RO 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), du 14 janv. 2025 ([RO 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), du 18 août 2025 ([RO 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)), du 8 déc. 2025 ([RO 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)), du 18 fév. 2026 ([RO 2026 82](https://fedlex.data.admin.ch/eli/oc/2026/82)), du 4 juin 2026 ([RO 2026 283](https://fedlex.data.admin.ch/eli/oc/2026/283)) et du 10 août 2026, en vigueur depuis le 11 août 2026 à 23 heures ([RO 2026 413](https://fedlex.data.admin.ch/eli/oc/2026/413)).
 [^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/413](https://fedlex.data.admin.ch/eli/oc/2026/413) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+
+Annexe 3[^t-3]
+
+(art. 1*b*, al. 1)
+
+## Or
+
+[^t-3]: Introduite par le ch. II de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+<table>
+<tr><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td>7108</td><td>Or (y compris l’or platiné), sous formes brutes ou mi-ouvrées ou en poudre</td></tr>
+<tr><td>7112 91</td><td>Déchets et débris d’or, même de plaqué ou doublé d’or, à l’exclusion des cendres d’orfèvre contenant d’autres métaux précieux</td></tr>
+<tr><td>ex 7118 90</td><td>Pièces d’or</td></tr>
+</table>
+
+Annexe 4[^t-4]
+
+(art. 1*c*, al. 1)
+
+## Biens destinés à l’extraction d’or ou à l’exploitation d’or
+
+[^t-4]: Introduite par le ch. II de l’O du 9 sept. 2026, en vigueur depuis le 10 sept. 2026 ([RO 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+<table>
+<tr><th>Position tarifaire</th><th>Désignation</th></tr>
+<tr><td>2805 40</td><td>Mercure</td></tr>
+<tr><td>2837 11</td><td>Cyanures et oxycyanures de sodium</td></tr>
+</table>

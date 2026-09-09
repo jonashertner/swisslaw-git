@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Ordinanza del 25 maggio 2005 che istituisce provvedimenti nei confronti del Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: it
-version: 2026-08-11
+version: 2026-09-10
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260811/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260811-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260811/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20260910/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20260910-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20260910/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Sudan
 
-del 25 maggio 2005 (Stato 11 agosto 2026)
+del 25 maggio 2005 (Stato 10 settembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -26,11 +26,35 @@ ordina:
 [^ingress-2]: Le risoluzioni sono consultabili in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 [^ingress-3]: Nuovo testo giusta la cifra I n. 15 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
-## Sezione 1: Misure coercitive
+## Sezione 1: Definizioni
+
+[^sec1-1]
+
+[^sec1-1]: Nuovo testo giusta la cifra I dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 1
 
-**Divieto di fornire materiale d’armamento e materiale affine**
+[^1-1]
+
+Nella presente ordinanza si intende per:
+
+- a.[^1-2] *averi*: valori patrimoniali, compresi denaro contante, assegni, crediti monetari, cambiali, ordini o altri strumenti di pagamento, depositi, debiti e riconoscimenti di debito, cartevalori e titoli di debito, certificati azionari, obbligazioni, titoli di credito, opzioni, obbligazioni fondiarie, derivati; interessi, dividendi o altri redditi o plusvalori generati da valori patrimoniali; crediti, diritti a compensazione, garanzie, fideiussioni o altri impegni finanziari; accrediti, polizze di carico, trasferimenti della proprietà a titolo di garanzia, documenti di titolarizzazione di quote di fondi o altre risorse finanziarie e qualsiasi altro strumento di finanziamento delle esportazioni;
+- b. *blocco degli averi*: l’impedimento di ogni atto che permetta la gestione o l’utilizzazione degli averi, fatte salve le normali operazioni amministrative effettuate dagli istituti finanziari;
+- c. *risorse economiche*: i valori patrimoniali di ogni genere, indipendentemente dal fatto che siano materiali o immateriali, mobili o immobili, in particolare gli immobili e i beni di lusso, fatti salvi gli averi di cui alla lettera a;
+- d. *blocco delle risorse economiche*: l’impedimento dell’impiego di tali risorse per acquisire averi, merci o servizi, compresa la vendita, la locazione o la costituzione in pegno delle risorse medesime.
+
+[^1-1]: Originario art. 3.
+[^1-2]: Correzione del 25 ago. 2020 ([RU 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+
+## Sezione 1*a*: Misure coercitive
+
+[^sec1a-1]
+
+[^sec1a-1]: Introdotto dalla cifra I dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+#### Art. 1a
+
+**Divieto di fornire materiale d’armamento e materiale affine**[^1a-1]
 
 <sup>1</sup> Sono vietati la fornitura, la vendita, il transito e la mediazione di materiale d’armamento di ogni genere, comprese armi e munizioni, veicoli ed equipaggiamento militari, attrezzature paramilitari nonché relativi accessori e pezzi di ricambio, a destinazione del Sudan.
 
@@ -38,7 +62,7 @@ ordina:
 
 <sup>3</sup>
 
-La Segreteria di Stato dell’economia (SECO)[^1-1] può, d’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE), accordare deroghe ai divieti di cui ai capoversi 1 e 2 per:
+La Segreteria di Stato dell’economia (SECO)[^1a-2] può, d’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE), accordare deroghe ai divieti di cui ai capoversi 1 e 2 per:
 
 - a. l’esclusiva utilizzazione da parte della Missione delle Nazioni Unite nel Sudan (UNMIS);
 - b. l’esclusiva utilizzazione da parte di organizzazioni regionali in operazioni di osservazione, di verifica o di promovimento della pace;
@@ -46,11 +70,39 @@ La Segreteria di Stato dell’economia (SECO)[^1-1] può, d’intesa con i compe
 - d. la fornitura di indumenti di protezione (ad es. giubbotti antiproiettile) destinati all’utilizzazione individuale da parte del personale delle Nazioni Unite, di rappresentanti dei media e del personale umanitario;
 - e. il sostegno all’accordo globale di pace firmato a Nairobi il 9 gennaio 2005.
 
-<sup>4</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1-2] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1-3] sul materiale bellico.
+<sup>4</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^1a-3] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^1a-4] sul materiale bellico.
 
-[^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-2]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
-[^1-3]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^1a-1]: Originario art. 1.
+[^1a-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1a-3]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1a-4]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+
+#### Art. 1b
+
+**Oro**[^1b-1]
+
+<sup>1</sup> Sono vietati l’acquisto di oro di cui all’allegato 3 originario del Sudan ed esportato dal Sudan dopo il 9 settembre 2026 nonché l’importazione, il transito e il trasporto di tale oro in e attraverso la Svizzera.
+
+<sup>2</sup> È vietata la fornitura di servizi di ogni genere, compresi i servizi finanziari, l’intermediazione, l’assistenza tecnica e la concessione di mezzi finanziari, in relazione con l’acquisto, l’importazione, il transito e il trasporto in e attraverso la Svizzera dell’oro di cui al capoverso 1 nonché con la messa a disposizione, la fabbricazione o l’impiego di tali beni.
+
+<sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano ai beni necessari per le attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera o dei suoi partner nel Sudan o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale.
+
+[^1b-1]: Introdotto dalla cifra I dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+#### Art. 1c
+
+**Beni per l’estrazione e lo sfruttamento dell’oro**[^1c-1]
+
+<sup>1</sup> Sono vietati la vendita, la fornitura, l’esportazione e il transito di beni per l’estrazione e lo sfruttamento dell’oro di cui all’allegato 4 a destinazione del Sudan o per un uso nel Sudan.
+
+<sup>2</sup> È vietata la fornitura di servizi di ogni genere, compresi servizi finanziari, l’intermediazione, l’assistenza tecnica e la concessione di mezzi finanziari, in relazione con la vendita, la fornitura, l’esportazione o il transito di beni di cui al capoverso 1 a destinazione del Sudan o per un uso nel Sudan nonché con la messa a disposizione, la fabbricazione, la manutenzione o l’impiego di tali beni nel Sudan.
+
+<sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano ai beni destinati ad attività umanitarie, alla lotta contro emergenze di sanità pubblica, alla prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente, o in risposta a catastrofi naturali.
+
+<sup>4</sup> L’obbligo di autorizzazione per i beni utilizzabili a fini civili e militari di cui all’articolo 3 dell’ordinanza del 3 giugno 2016[^1c-2] sul controllo dei beni a duplice impiego (OBDI) si applica anche alle deroghe secondo il capoverso 3.
+
+[^1c-1]: Introdotto dalla cifra I dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+[^1c-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 2
 
@@ -113,16 +165,9 @@ In via eccezionale può autorizzare la liberazione di determinati averi o risors
 
 #### Art. 3
 
-**Definizioni**
+[^3-1]
 
-Nella presente ordinanza si intende per:
-
-- a.[^3-1] *averi*: valori patrimoniali, compresi denaro contante, assegni, crediti monetari, cambiali, ordini o altri strumenti di pagamento, depositi, debiti e riconoscimenti di debito, cartevalori e titoli di debito, certificati azionari, obbligazioni, titoli di credito, opzioni, obbligazioni fondiarie, derivati; interessi, dividendi o altri redditi o plusvalori generati da valori patrimoniali; crediti, diritti a compensazione, garanzie, fideiussioni o altri impegni finanziari; accrediti, polizze di carico, trasferimenti della proprietà a titolo di garanzia, documenti di titolarizzazione di quote di fondi o altre risorse finanziarie e qualsiasi altro strumento di finanziamento delle esportazioni;
-- b. *blocco degli averi*: l’impedimento di ogni atto che permetta la gestione o l’utilizzazione degli averi, fatte salve le normali operazioni amministrative effettuate dagli istituti finanziari;
-- c. *risorse economiche*: i valori patrimoniali di ogni genere, indipendentemente dal fatto che siano materiali o immateriali, mobili o immobili, in particolare gli immobili e i beni di lusso, fatti salvi gli averi di cui alla lettera a;
-- d. *blocco delle risorse economiche*: l’impedimento dell’impiego di tali risorse per acquisire averi, merci o servizi, compresa la vendita, la locazione o la costituzione in pegno delle risorse medesime.
-
-[^3-1]: Correzione del 25 ago. 2020 ([RU 2020 3607](https://fedlex.data.admin.ch/eli/oc/2020/650)).
+[^3-1]: Abrogato dalla cifra I dell’O del 9 set. 2026, con effetto dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 4
 
@@ -171,17 +216,19 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 **Disposizioni penali**
 
-<sup>1</sup> Chiunque viola l’articolo 1, 2 o 4 è punito conformemente all’articolo 9 LEmb.
+<sup>1</sup> Chiunque viola gli articoli 1*a*–4 è punito conformemente all’articolo 9 LEmb.[^7-1]
 
 <sup>2</sup> Chiunque viola l’articolo 6 è punito conformemente all’articolo 10 LEmb.
 
 <sup>3</sup> Le infrazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; esso può ordinare sequestri e confische.
 
-## Sezione 3: Recepimento automatico di liste ed entrata in vigore
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+## Sezione 3: Disposizioni finali
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta la cifra I n. 7 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
 
 #### Art. 7a
 
@@ -198,6 +245,17 @@ Le liste delle persone fisiche, imprese e organizzazioni emanate o aggiornate da
 Il contenuto degli allegati 1 e 2 è pubblicato nella Raccolta ufficiale delle leggi federali (RU) e nella Raccolta sistematica del diritto federale (RS) soltanto mediante rimando.
 
 [^7b-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 alle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+
+#### Art. 7c
+
+**Disposizione transitoria della modifica del 9 settembre 2026**[^7c-1]
+
+<sup>1</sup> Per i beni di cui all’allegato 4 che rientrano nella voce di tariffa doganale 2837 11, i divieti di cui all’articolo 1*c* capoversi 1 e 2 non si applicano all’esecuzione dei contratti conclusi prima del 10 settembre 2026 ed eseguiti entro il 10 marzo 2027, né ai contratti accessori necessari per l’esecuzione di tali contratti.
+
+<sup>2</sup> L’obbligo di autorizzazione per i beni utilizzabili a fini civili e militari di cui all’articolo 3 OBDI[^7c-2] si applica anche alle deroghe secondo il capoverso 1.
+
+[^7c-1]: Introdotto dalla cifra I dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+[^7c-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 8
 
@@ -234,3 +292,32 @@ Allegato 2[^t-2]
 
 [^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dalle cifre I delle O del DEFR dell’8 lug. 2024 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), del 14 gen. 2025 ([RU 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), del 18 ago. 2025 ([RU 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)), dell’8 dic. 2025 ([RU 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)), del 18 feb. 2026 ([RU 2026 82](https://fedlex.data.admin.ch/eli/oc/2026/82)), del 4 giu. 2026 ([RU 2026 283](https://fedlex.data.admin.ch/eli/oc/2026/283)) e del 10 ago. 2026, in vigore dall’11 ago. 2026 alle ore 23.00 ([RU 2026 413](https://fedlex.data.admin.ch/eli/oc/2026/413)).
 [^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/413](https://fedlex.data.admin.ch/eli/oc/2026/413) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+
+Allegato 3[^t-3]
+
+(art. 1*b* cpv. 1)
+
+## Oro
+
+[^t-3]: Introdotto dalla cifra II dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+<table>
+<tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
+<tr><td>7108</td><td>Oro (compreso l’oro platinato) greggio o semilavorato o in polvere</td></tr>
+<tr><td>7112 91</td><td>Cascami e avanzi di oro, anche di metalli placcati o ricoperti di oro, escluse le ceneri di oreficeria contenenti altri metalli preziosi</td></tr>
+<tr><td>ex 7118 90</td><td>Monete d’oro</td></tr>
+</table>
+
+Allegato 4[^t-4]
+
+(art. 1*c* cpv. 1)
+
+## Beni per l’estrazione e lo sfruttamento dell’oro
+
+[^t-4]: Introdotto dalla cifra II dell’O del 9 set. 2026, in vigore dal 10 set. 2026 ([RU 2026 462](https://fedlex.data.admin.ch/eli/oc/2026/462)).
+
+<table>
+<tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
+<tr><td>2805 40</td><td>Mercurio</td></tr>
+<tr><td>2837 11</td><td>Cianuri e ossicianuri di sodio</td></tr>
+</table>
