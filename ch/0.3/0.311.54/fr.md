@@ -3,11 +3,11 @@ sr: "0.311.54"
 title: Convention des Nations Unies du 15 novembre 2000 contre la criminalité transnationale organisée
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/862"
 language: fr
-version: 2025-05-07
+version: 2026-09-11
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/862/20250507/fr/xml/fedlex-data-admin-ch-eli-cc-2006-862-20250507-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/862/20250507/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/862/20260911/fr/xml/fedlex-data-admin-ch-eli-cc-2006-862-20260911-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/862/20260911/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 27 octobre 2006
 
 Entrée en vigueur pour la Suisse le 26 novembre 2006
 
-(État le 7 mai 2025)
+(État le 11 septembre 2026)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 23 juin 2006 ([RO 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861)).
 
@@ -248,7 +248,7 @@ Dans toute la mesure possible dans le cadre de son système juridique national, 
 
 <sup>3.</sup>
 
-Les dispositions de l’art. 18 de la présente Convention s’appliquent *mut**a**tis mutandis* au présent article. Outre les informations visées au par. 15 de l’art. 18, les demandes faites conformément au présent article contiennent:
+Les dispositions de l’art. 18 de la présente Convention s’appliquent *mutatis mutandis* au présent article. Outre les informations visées au par. 15 de l’art. 18, les demandes faites conformément au présent article contiennent:
 
 - a) lorsque la demande relève de l’al. a du par. 1 du présent article, une description des biens à confisquer et un exposé des faits sur lesquels se fonde l’État partie requérant qui permettent à l’État partie requis de faire prononcer une décision de confiscation dans le cadre de son droit interne;
 - b) lorsque la demande relève de l’al. b du par. 1 du présent article, une copie légalement admissible de la décision de confiscation rendue par l’État partie requérant sur laquelle la demande est fondée, un exposé des faits et des informations indiquant dans quelles limites il est demandé d’exécuter la décision;
@@ -798,7 +798,7 @@ Le secrétariat:
 
 *En foi de quoi*, les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements respectifs, ont signé la présente Convention. (Suivent les signatures)
 
-Champ d’application le 7 mai 2025[^t-2]
+Champ d’application le 11 septembre 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -806,7 +806,7 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Afrique du Sud\*</td><td>20 février</td><td>2004</td><td>21 mars</td><td>2004</td></tr>
 <tr><td>Albanie</td><td>21 août</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Algérie\*</td><td>7 octobre</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
-<tr><td>Allemagne</td><td>14 juin</td><td>2006</td><td>14 juillet</td><td>2006</td></tr>
+<tr><td>Allemagne\*\*</td><td>14 juin</td><td>2006</td><td>14 juillet</td><td>2006</td></tr>
 <tr><td>Andorre\*</td><td>22 septembre</td><td>2011</td><td>22 octobre</td><td>2011</td></tr>
 <tr><td>Angola</td><td>1<sup>er</sup> avril</td><td>2013</td><td>1<sup>er</sup> mai</td><td>2013</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>24 juillet</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
@@ -814,14 +814,14 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Argentine\*</td><td>19 novembre</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Arménie</td><td>1<sup>er</sup> juillet</td><td>2003</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Australie</td><td>27 mai</td><td>2004</td><td>26 juin</td><td>2004</td></tr>
-<tr><td>Autriche</td><td>23 septembre</td><td>2004</td><td>23 octobre</td><td>2004</td></tr>
+<tr><td>Autriche\*\*</td><td>23 septembre</td><td>2004</td><td>23 octobre</td><td>2004</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>30 octobre</td><td>2003</td><td>29 novembre</td><td>2003</td></tr>
 <tr><td>Bahamas\*</td><td>26 septembre</td><td>2008</td><td>26 octobre</td><td>2008</td></tr>
 <tr><td>Bahreïn\*</td><td>7 juin</td><td>2004 A</td><td>7 juillet</td><td>2004</td></tr>
 <tr><td>Bangladesh\*</td><td>13 juillet</td><td>2011 A</td><td>12 août</td><td>2011</td></tr>
 <tr><td>Barbade</td><td>11 novembre</td><td>2014</td><td>11 décembre</td><td>2014</td></tr>
 <tr><td>Bélarus\*</td><td>25 juin</td><td>2003</td><td>29 septembre</td><td>2003</td></tr>
-<tr><td>Belgique</td><td>11 août</td><td>2004</td><td>10 septembre</td><td>2004</td></tr>
+<tr><td>Belgique\*\*</td><td>11 août</td><td>2004</td><td>10 septembre</td><td>2004</td></tr>
 <tr><td>Belize\*</td><td>26 septembre</td><td>2003 A</td><td>26 octobre</td><td>2003</td></tr>
 <tr><td>Bénin</td><td>30 août</td><td>2004</td><td>29 septembre</td><td>2004</td></tr>
 <tr><td>Bhoutan\*</td><td>20 février</td><td>2023 A</td><td>22 mars</td><td>2023</td></tr>
@@ -862,11 +862,11 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Espagne\*</td><td>1<sup>er</sup> mars</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Estonie</td><td>10 février</td><td>2003</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Eswatini</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
-<tr><td>États-Unis\*</td><td>3 novembre</td><td>2005</td><td>3 décembre</td><td>2005</td></tr>
+<tr><td>États-Unis\* \*\*</td><td>3 novembre</td><td>2005</td><td>3 décembre</td><td>2005</td></tr>
 <tr><td>Éthiopie\*</td><td>23 juillet</td><td>2007</td><td>22 août</td><td>2007</td></tr>
 <tr><td>Fidji\*</td><td>19 septembre</td><td>2017 A</td><td>19 octobre</td><td>2017</td></tr>
-<tr><td>Finlande</td><td>10 février</td><td>2004</td><td>11 mars</td><td>2004</td></tr>
-<tr><td>France</td><td>29 octobre</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
+<tr><td>Finlande\*\*</td><td>10 février</td><td>2004</td><td>11 mars</td><td>2004</td></tr>
+<tr><td>France\*\*</td><td>29 octobre</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Gabon</td><td>15 décembre</td><td>2004 A</td><td>14 janvier</td><td>2005</td></tr>
 <tr><td>Gambie</td><td>5 mai</td><td>2003</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Géorgie</td><td>5 septembre</td><td>2006</td><td>5 octobre</td><td>2006</td></tr>
@@ -882,8 +882,10 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Honduras</td><td>2 décembre</td><td>2003</td><td>1<sup>er</sup> janvier</td><td>2004</td></tr>
 <tr><td>Hongrie</td><td>22 décembre</td><td>2006</td><td>21 janvier</td><td>2007</td></tr>
 <tr><td>Îles Marshall</td><td>5 novembre</td><td>2010 A</td><td>5 décembre</td><td>2010</td></tr>
+<tr><td>Îles Salomon</td><td>27 août</td><td>2026 A</td><td>26 septembre</td><td>2026</td></tr>
 <tr><td>Inde\*</td><td>5 mai</td><td>2011</td><td>4 juin</td><td>2011</td></tr>
 <tr><td>Indonésie\*</td><td>20 avril</td><td>2009</td><td>20 mai</td><td>2009</td></tr>
+<tr><td>Iran\*</td><td>6 août</td><td>2025</td><td>5 septembre</td><td>2025</td></tr>
 <tr><td>Iraq</td><td>17 mars</td><td>2008 A</td><td>16 avril</td><td>2008</td></tr>
 <tr><td>Irlande</td><td>17 juin</td><td>2010</td><td>17 juillet</td><td>2010</td></tr>
 <tr><td>Islande</td><td>13 mai</td><td>2010</td><td>12 juin</td><td>2010</td></tr>
@@ -904,7 +906,7 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Libéria</td><td>22 septembre</td><td>2004 A</td><td>22 octobre</td><td>2004</td></tr>
 <tr><td>Libye</td><td>18 juin</td><td>2004</td><td>18 juillet</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>20 février</td><td>2008</td><td>21 mars</td><td>2008</td></tr>
-<tr><td>Lituanie\*</td><td>9 mai</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
+<tr><td>Lituanie\* \*\*</td><td>9 mai</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Luxembourg</td><td>12 mai</td><td>2008</td><td>11 juin</td><td>2008</td></tr>
 <tr><td>Macédoine du Nord\*</td><td>12 janvier</td><td>2005</td><td>11 février</td><td>2005</td></tr>
 <tr><td>Madagascar</td><td>15 septembre</td><td>2005</td><td>15 octobre</td><td>2005</td></tr>
@@ -949,14 +951,14 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Sint Maarten</td><td>9 septembre</td><td>2010</td><td>9 septembre</td><td>2010</td></tr>
 <tr><td>Pérou</td><td>23 janvier</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Philippines</td><td>28 mai</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
-<tr><td>Pologne</td><td>12 novembre</td><td>2001</td><td>29 septembre</td><td>2003</td></tr>
-<tr><td>Portugal</td><td>10 mai</td><td>2004</td><td>9 juin</td><td>2004</td></tr>
+<tr><td>Pologne\*\*</td><td>12 novembre</td><td>2001</td><td>29 septembre</td><td>2003</td></tr>
+<tr><td>Portugal\*\*</td><td>10 mai</td><td>2004</td><td>9 juin</td><td>2004</td></tr>
 <tr><td>Qatar\*</td><td>10 mars</td><td>2008 A</td><td>9 avril</td><td>2008</td></tr>
 <tr><td>République centrafricaine</td><td>14 septembre</td><td>2004 A</td><td>14 octobre</td><td>2004</td></tr>
 <tr><td>République dominicaine</td><td>26 octobre</td><td>2006</td><td>25 novembre</td><td>2006</td></tr>
 <tr><td>République tchèque</td><td>24 septembre</td><td>2013</td><td>24 octobre</td><td>2013</td></tr>
 <tr><td>Roumanie</td><td>4 décembre</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
-<tr><td>Royaume-Uni</td><td>9 février</td><td>2006</td><td>11 mars</td><td>2006</td></tr>
+<tr><td>Royaume-Uni\*\*</td><td>9 février</td><td>2006</td><td>11 mars</td><td>2006</td></tr>
 <tr><td>Anguilla</td><td>31 juillet</td><td>2015</td><td>31 juillet</td><td>2015</td></tr>
 <tr><td>Bermudes</td><td>5 août</td><td>2014</td><td>5 août</td><td>2014</td></tr>
 <tr><td>Gibraltar</td><td>27 novembre</td><td>2007</td><td>27 novembre</td><td>2007</td></tr>
@@ -982,13 +984,13 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Sierra Leone</td><td>12 août</td><td>2014</td><td>11 septembre</td><td>2014</td></tr>
 <tr><td>Singapour\*</td><td>28 août</td><td>2007</td><td>27 septembre</td><td>2007</td></tr>
 <tr><td>Slovaquie\*</td><td>3 décembre</td><td>2003</td><td>2 janvier</td><td>2004</td></tr>
-<tr><td>Slovénie</td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
+<tr><td>Slovénie\*\*</td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
 <tr><td>Somalie\*</td><td>25 mars</td><td>2025 A</td><td>24 avril</td><td>2025</td></tr>
 <tr><td>Soudan</td><td>10 décembre</td><td>2004</td><td>9 janvier</td><td>2005</td></tr>
 <tr><td>Soudan du Sud</td><td>20 octobre</td><td>2023 A</td><td>19 novembre</td><td>2023</td></tr>
 <tr><td>Sri Lanka</td><td>22 septembre</td><td>2006</td><td>22 octobre</td><td>2006</td></tr>
-<tr><td>Suède</td><td>30 avril</td><td>2004</td><td>30 mai</td><td>2004</td></tr>
-<tr><td>Suisse</td><td>27 octobre</td><td>2006</td><td>26 novembre</td><td>2006</td></tr>
+<tr><td>Suède\*\*</td><td>30 avril</td><td>2004</td><td>30 mai</td><td>2004</td></tr>
+<tr><td>Suisse\*\*</td><td>27 octobre</td><td>2006</td><td>26 novembre</td><td>2006</td></tr>
 <tr><td>Suriname</td><td>25 mai</td><td>2007 A</td><td>24 juin</td><td>2007</td></tr>
 <tr><td>Syrie\*</td><td>8 avril</td><td>2009</td><td>8 mai</td><td>2009</td></tr>
 <tr><td>Tadjikistan</td><td>8 juillet</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
@@ -1003,7 +1005,7 @@ Champ d’application le 7 mai 2025[^t-2]
 <tr><td>Turkménistan</td><td>28 mars</td><td>2005 A</td><td>27 avril</td><td>2005</td></tr>
 <tr><td>Turquie</td><td>25 mars</td><td>2003</td><td>29 septembre</td><td>2003</td></tr>
 <tr><td>Ukraine\*</td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
-<tr><td>Union européenne\*</td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
+<tr><td>Union européenne\* \*\*</td><td>21 mai</td><td>2004</td><td>20 juin</td><td>2004</td></tr>
 <tr><td>Uruguay</td><td>4 mars</td><td>2005</td><td>3 avril</td><td>2005</td></tr>
 <tr><td>Vanuatu</td><td>4 janvier</td><td>2006 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Venezuela\*</td><td>13 mai</td><td>2002</td><td>29 septembre</td><td>2003</td></tr>
@@ -1016,7 +1018,7 @@ Champ d’application le 7 mai 2025[^t-2]
 
 ## Notification en vertu de l’art 18
 
-[^t-2]: [RO 2006 5861](https://fedlex.data.admin.ch/eli/oc/2006/862); [2007 3751](https://fedlex.data.admin.ch/eli/oc/2007/479), [5193](https://fedlex.data.admin.ch/eli/oc/2007/729); [2008 4057](https://fedlex.data.admin.ch/eli/oc/2008/559); [2010 1525](https://fedlex.data.admin.ch/eli/oc/2010/218); [2011 3309](https://fedlex.data.admin.ch/eli/oc/2011/442); [2012 1495](https://fedlex.data.admin.ch/eli/oc/2012/205), [5605](https://fedlex.data.admin.ch/eli/oc/2012/653); [2013 1587](https://fedlex.data.admin.ch/eli/oc/2013/367); [2014 3193](https://fedlex.data.admin.ch/eli/oc/2014/542); [2015 753](https://fedlex.data.admin.ch/eli/oc/2015/131); [2017 503](https://fedlex.data.admin.ch/eli/oc/2017/85); [2020 1181](https://fedlex.data.admin.ch/eli/oc/2020/218); [2025 292](https://fedlex.data.admin.ch/eli/oc/2025/292). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2006 5861](https://fedlex.data.admin.ch/eli/oc/2006/862); [2007 3751](https://fedlex.data.admin.ch/eli/oc/2007/479), [5193](https://fedlex.data.admin.ch/eli/oc/2007/729); [2008 4057](https://fedlex.data.admin.ch/eli/oc/2008/559); [2010 1525](https://fedlex.data.admin.ch/eli/oc/2010/218); [2011 3309](https://fedlex.data.admin.ch/eli/oc/2011/442); [2012 1495](https://fedlex.data.admin.ch/eli/oc/2012/205), [5605](https://fedlex.data.admin.ch/eli/oc/2012/653); [2013 1587](https://fedlex.data.admin.ch/eli/oc/2013/367); [2014 3193](https://fedlex.data.admin.ch/eli/oc/2014/542); [2015 753](https://fedlex.data.admin.ch/eli/oc/2015/131); [2017 503](https://fedlex.data.admin.ch/eli/oc/2017/85); [2020 1181](https://fedlex.data.admin.ch/eli/oc/2020/218); [2025 292](https://fedlex.data.admin.ch/eli/oc/2025/292); [2026 479](https://fedlex.data.admin.ch/eli/oc/2026/479). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 **Suisse**
 

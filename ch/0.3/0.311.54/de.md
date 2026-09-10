@@ -3,11 +3,11 @@ sr: "0.311.54"
 title: Übereinkommen der Vereinten Nationen vom 15. November 2000 gegen die grenzüberschreitende organisierte Kriminalität
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/862"
 language: de
-version: 2025-05-07
+version: 2026-09-11
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/862/20250507/de/xml/fedlex-data-admin-ch-eli-cc-2006-862-20250507-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/862/20250507/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/862/20260911/de/xml/fedlex-data-admin-ch-eli-cc-2006-862-20260911-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/862/20260911/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2006** 5861; BBl **2005** 6693
 
 Abgeschlossen in New York am 15. November 2000 Von der Bundesversammlung genehmigt am 23. Juni 2006[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 27. Oktober 2006 Für die Schweiz in Kraft getreten am 26. November 2006
 
-(Stand am 7. Mai 2025)
+(Stand am 11. September 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 23. Juni 2006 ([AS 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861)).
 
@@ -767,7 +767,7 @@ Jeder Vertragsstaat trifft die erforderlichen gesetzgeberischen und anderen Mass
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. Mai 2025[^t-2]
+Geltungsbereich am 11. September 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -789,7 +789,7 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Bangladesch\*</td><td>13. Juli</td><td>2011 B</td><td>12. August</td><td>2011</td></tr>
 <tr><td>Barbados</td><td>11. November</td><td>2014</td><td>11. Dezember</td><td>2014</td></tr>
 <tr><td>Belarus\*</td><td>25. Juni</td><td>2003</td><td>29. September</td><td>2003</td></tr>
-<tr><td>Belgien</td><td>11. August</td><td>2004</td><td>10. September</td><td>2004</td></tr>
+<tr><td>Belgien\*\*</td><td>11. August</td><td>2004</td><td>10. September</td><td>2004</td></tr>
 <tr><td>Belize\*</td><td>26. September</td><td>2003 B</td><td>26. Oktober</td><td>2003</td></tr>
 <tr><td>Benin</td><td>30. August</td><td>2004</td><td>29. September</td><td>2004</td></tr>
 <tr><td>Bhutan\*</td><td>20. Februar</td><td>2023 B</td><td>22. März</td><td>2023</td></tr>
@@ -808,7 +808,7 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Costa Rica</td><td>24. Juli</td><td>2003</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Côte d’Ivoire</td><td>25. Oktober</td><td>2012</td><td>24. November</td><td>2012</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>30. September</td><td>2003</td><td>30. Oktober</td><td>2003</td></tr>
-<tr><td>Deutschland</td><td>14. Juni</td><td>2006</td><td>14. Juli</td><td>2006</td></tr>
+<tr><td>Deutschland\*\*</td><td>14. Juni</td><td>2006</td><td>14. Juli</td><td>2006</td></tr>
 <tr><td>Dominica</td><td>17. Mai</td><td>2013 B</td><td>16. Juni</td><td>2013</td></tr>
 <tr><td>Dominikanische Republik</td><td>26. Oktober</td><td>2006</td><td>25. November</td><td>2006</td></tr>
 <tr><td>Dschibuti</td><td>20. April</td><td>2005 B</td><td>20. Mai</td><td>2005</td></tr>
@@ -817,10 +817,10 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Eritrea<sup>\*</sup></td><td>25. September</td><td>2014 B</td><td>25. Oktober</td><td>2014</td></tr>
 <tr><td>Estland</td><td>10. Februar</td><td>2003</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Eswatini</td><td>24. September</td><td>2012</td><td>24. Oktober</td><td>2012</td></tr>
-<tr><td>[tab] Europäische Union\*</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
+<tr><td>[tab] Europäische Union (EU)\* \*\*</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
 <tr><td>Fidschi\*</td><td>19. September</td><td>2017 B</td><td>19. Oktober</td><td>2017</td></tr>
-<tr><td>Finnland</td><td>10. Februar</td><td>2004</td><td>11. März</td><td>2004</td></tr>
-<tr><td>Frankreich</td><td>29. Oktober</td><td>2002</td><td>29. September</td><td>2003</td></tr>
+<tr><td>Finnland\*\*</td><td>10. Februar</td><td>2004</td><td>11. März</td><td>2004</td></tr>
+<tr><td>Frankreich\*\*</td><td>29. Oktober</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Gabun</td><td>15. Dezember</td><td>2004 B</td><td>14. Januar</td><td>2005</td></tr>
 <tr><td>Gambia</td><td>5. Mai</td><td>2003</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Georgien</td><td>5. September</td><td>2006</td><td>5. Oktober</td><td>2006</td></tr>
@@ -837,6 +837,7 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Indien\*</td><td>5. Mai</td><td>2011</td><td>4. Juni</td><td>2011</td></tr>
 <tr><td>Indonesien\*</td><td>20. April</td><td>2009</td><td>20. Mai</td><td>2009</td></tr>
 <tr><td>Irak</td><td>17. März</td><td>2008 B</td><td>16. April</td><td>2008</td></tr>
+<tr><td>Iran\*</td><td>6. August</td><td>2025</td><td>5. September</td><td>2025</td></tr>
 <tr><td>Irland</td><td>17. Juni</td><td>2010</td><td>17. Juli</td><td>2010</td></tr>
 <tr><td>Island</td><td>13. Mai</td><td>2010</td><td>12. Juni</td><td>2010</td></tr>
 <tr><td>Israel\*</td><td>27. Dezember</td><td>2006</td><td>26. Januar</td><td>2007</td></tr>
@@ -869,7 +870,7 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Liberia</td><td>22. September</td><td>2004 B</td><td>22. Oktober</td><td>2004</td></tr>
 <tr><td>Libyen</td><td>18. Juni</td><td>2004</td><td>18. Juli</td><td>2004</td></tr>
 <tr><td>Liechtenstein</td><td>20. Februar</td><td>2008</td><td>21. März</td><td>2008</td></tr>
-<tr><td>Litauen\*</td><td>9. Mai</td><td>2002</td><td>29. September</td><td>2003</td></tr>
+<tr><td>Litauen\* \*\*</td><td>9. Mai</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Luxemburg</td><td>12. Mai</td><td>2008</td><td>11. Juni</td><td>2008</td></tr>
 <tr><td>Madagaskar</td><td>15. September</td><td>2005</td><td>15. Oktober</td><td>2005</td></tr>
 <tr><td>Malawi</td><td>17. März</td><td>2005</td><td>16. April</td><td>2005</td></tr>
@@ -906,7 +907,7 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Nordmazedonien\*</td><td>12. Januar</td><td>2005</td><td>11. Februar</td><td>2005</td></tr>
 <tr><td>Norwegen</td><td>23. September</td><td>2003</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td>Oman</td><td>13. Mai</td><td>2005 B</td><td>12. Juni</td><td>2005</td></tr>
-<tr><td>Österreich</td><td>23. September</td><td>2004</td><td>23. Oktober</td><td>2004</td></tr>
+<tr><td>Österreich\*\*</td><td>23. September</td><td>2004</td><td>23. Oktober</td><td>2004</td></tr>
 <tr><td>Pakistan\*</td><td>13. Januar</td><td>2010</td><td>12. Februar</td><td>2010</td></tr>
 <tr><td>Palästina</td><td>2. Januar</td><td>2015 B</td><td>1. Februar</td><td>2015</td></tr>
 <tr><td>Palau</td><td>13. Mai</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
@@ -914,18 +915,19 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Paraguay</td><td>22. September</td><td>2004</td><td>22. Oktober</td><td>2004</td></tr>
 <tr><td>Peru</td><td>23. Januar</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Philippinen</td><td>28. Mai</td><td>2002</td><td>29. September</td><td>2003</td></tr>
-<tr><td>Polen</td><td>12. November</td><td>2001</td><td>29. September</td><td>2003</td></tr>
-<tr><td>Portugal</td><td>10. Mai</td><td>2004</td><td>9. Juni</td><td>2004</td></tr>
+<tr><td>Polen\*\*</td><td>12. November</td><td>2001</td><td>29. September</td><td>2003</td></tr>
+<tr><td>Portugal\*\*</td><td>10. Mai</td><td>2004</td><td>9. Juni</td><td>2004</td></tr>
 <tr><td>Ruanda</td><td>26. September</td><td>2003</td><td>26. Oktober</td><td>2003</td></tr>
 <tr><td>Rumänien</td><td>4. Dezember</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Russland\*</td><td>26. Mai</td><td>2004</td><td>25. Juni</td><td>2004</td></tr>
+<tr><td>Salomoninseln</td><td>27. August</td><td>2026 B</td><td>26. September</td><td>2026</td></tr>
 <tr><td>Sambia</td><td>24. April</td><td>2005 B</td><td>24. Mai</td><td>2005</td></tr>
 <tr><td>Samoa</td><td>17. Dezember</td><td>2014 B</td><td>16. Januar</td><td>2015</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>12. April</td><td>2006 B</td><td>12. Mai</td><td>2006</td></tr>
 <tr><td>San Marino</td><td>20. Juli</td><td>2010</td><td>19. August</td><td>2010</td></tr>
 <tr><td>Saudi-Arabien\*</td><td>18. Januar</td><td>2005</td><td>17. Februar</td><td>2005</td></tr>
-<tr><td>Schweden</td><td>30. April</td><td>2004</td><td>30. Mai</td><td>2004</td></tr>
-<tr><td>Schweiz</td><td>27. Oktober</td><td>2006</td><td>26. November</td><td>2006</td></tr>
+<tr><td>Schweden\*\*</td><td>30. April</td><td>2004</td><td>30. Mai</td><td>2004</td></tr>
+<tr><td>Schweiz\*\*</td><td>27. Oktober</td><td>2006</td><td>26. November</td><td>2006</td></tr>
 <tr><td>Senegal</td><td>27. Oktober</td><td>2003</td><td>26. November</td><td>2003</td></tr>
 <tr><td>Serbien</td><td>6. September</td><td>2001</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Seychellen</td><td>22. April</td><td>2003</td><td>29. September</td><td>2003</td></tr>
@@ -933,7 +935,7 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Simbabwe</td><td>12. Dezember</td><td>2007</td><td>11. Januar</td><td>2008</td></tr>
 <tr><td>Singapur\*</td><td>28. August</td><td>2007</td><td>27. September</td><td>2007</td></tr>
 <tr><td>Slowakei\*</td><td>3. Dezember</td><td>2003</td><td>2. Januar</td><td>2004</td></tr>
-<tr><td>Slowenien</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
+<tr><td>Slowenien\*\*</td><td>21. Mai</td><td>2004</td><td>20. Juni</td><td>2004</td></tr>
 <tr><td>Somalia\*</td><td>25. März</td><td>2025 B</td><td>24. April</td><td>2025</td></tr>
 <tr><td>Spanien\*</td><td>1. März</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Sri Lanka</td><td>22. September</td><td>2006</td><td>22. Oktober</td><td>2006</td></tr>
@@ -965,8 +967,8 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Vanuatu</td><td>4. Januar</td><td>2006 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Venezuela\*</td><td>13. Mai</td><td>2002</td><td>29. September</td><td>2003</td></tr>
 <tr><td>Vereinigte Arabische Emirate\*</td><td>7. Mai</td><td>2007</td><td>6. Juni</td><td>2007</td></tr>
-<tr><td>Vereinigte Staaten\*</td><td>3. November</td><td>2005</td><td>3. Dezember</td><td>2005</td></tr>
-<tr><td>Vereinigtes Königreich</td><td>9. Februar</td><td>2006</td><td>11. März</td><td>2006</td></tr>
+<tr><td>Vereinigte Staaten\* \*\*</td><td>3. November</td><td>2005</td><td>3. Dezember</td><td>2005</td></tr>
+<tr><td>Vereinigtes Königreich\*\*</td><td>9. Februar</td><td>2006</td><td>11. März</td><td>2006</td></tr>
 <tr><td>Anguilla</td><td>31. Juli</td><td>2015</td><td>31. Juli</td><td>2015</td></tr>
 <tr><td>Bermudas</td><td>5. August</td><td>2014</td><td>5. August</td><td>2014</td></tr>
 <tr><td>Britische Jungferninseln</td><td>17. Mai</td><td>2012</td><td>16. Juni</td><td>2012</td></tr>
@@ -980,10 +982,10 @@ Geltungsbereich am 7. Mai 2025[^t-2]
 <tr><td>Vietnam\*</td><td>8. Juni</td><td>2012</td><td>8. Juli</td><td>2012</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>14. September</td><td>2004 B</td><td>14. Oktober</td><td>2004</td></tr>
 <tr><td>Zypern</td><td>22. April</td><td>2003</td><td>29. September</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Notifikationen der Vertragsstaaten über die zentralen Behörden, gemäss Art. 18 Abs. 13 sowie die Notifikationen gemäss den Art. 5 Abs. 3, 16 Abs. 5*a* und 5*b*, Art. 18 Abs. 14 und Art. 31 Abs. 6, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen sowie die Notifikationen der Vertragsstaaten zu den erwähnten Artikeln werden, mit Ausnahme jener der Schweiz, in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Notifikationen der Vertragsstaaten über die zentralen Behörden, gemäss Art. 18 Abs. 13 sowie die Notifikationen gemäss den Art. 5 Abs. 3, 16 Abs. 5*a* und 5*b*, Art. 18 Abs. 14 und Art. 31 Abs. 6, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2006 5861](https://fedlex.data.admin.ch/eli/oc/2006/862); [2007 3751](https://fedlex.data.admin.ch/eli/oc/2007/479), [5193](https://fedlex.data.admin.ch/eli/oc/2007/729); [2008 4057](https://fedlex.data.admin.ch/eli/oc/2008/559); [2010 1525](https://fedlex.data.admin.ch/eli/oc/2010/218); [2011 3309](https://fedlex.data.admin.ch/eli/oc/2011/442); [2012 1495](https://fedlex.data.admin.ch/eli/oc/2012/205), [5605](https://fedlex.data.admin.ch/eli/oc/2012/653); [2013 1587](https://fedlex.data.admin.ch/eli/oc/2013/367); [2014 3193](https://fedlex.data.admin.ch/eli/oc/2014/542); [2015 753](https://fedlex.data.admin.ch/eli/oc/2015/131); [2017 503](https://fedlex.data.admin.ch/eli/oc/2017/85); [2020 1181](https://fedlex.data.admin.ch/eli/oc/2020/218); [2025 292](https://fedlex.data.admin.ch/eli/oc/2025/292). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse: veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2006 5861](https://fedlex.data.admin.ch/eli/oc/2006/862); [2007 3751](https://fedlex.data.admin.ch/eli/oc/2007/479), [5193](https://fedlex.data.admin.ch/eli/oc/2007/729); [2008 4057](https://fedlex.data.admin.ch/eli/oc/2008/559); [2010 1525](https://fedlex.data.admin.ch/eli/oc/2010/218); [2011 3309](https://fedlex.data.admin.ch/eli/oc/2011/442); [2012 1495](https://fedlex.data.admin.ch/eli/oc/2012/205), [5605](https://fedlex.data.admin.ch/eli/oc/2012/653); [2013 1587](https://fedlex.data.admin.ch/eli/oc/2013/367); [2014 3193](https://fedlex.data.admin.ch/eli/oc/2014/542); [2015 753](https://fedlex.data.admin.ch/eli/oc/2015/131); [2017 503](https://fedlex.data.admin.ch/eli/oc/2017/85); [2020 1181](https://fedlex.data.admin.ch/eli/oc/2020/218); [2025 292](https://fedlex.data.admin.ch/eli/oc/2025/292); [2026 479](https://fedlex.data.admin.ch/eli/oc/2026/479). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Notifizierung auf Grund des Artikels 18
 
