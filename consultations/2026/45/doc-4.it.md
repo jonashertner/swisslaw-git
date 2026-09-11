@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione della legge federale sull’assicurazione per la vecchiaia e per i superstiti (AVS 2030)
 document: Progetto posto in consultazione - DF
 language: it

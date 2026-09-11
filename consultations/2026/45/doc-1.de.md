@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHV 2030)
 document: Vernehmlassungsvorlage -AHVG
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de la loi fédérale sur l’assurance-vieillesse et survivants (AVS 2030)
 document: Projet mis en consultation - LAVS
 language: fr
