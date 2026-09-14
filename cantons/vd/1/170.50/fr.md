@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 02.09.2026 de mise en vigueur
+title: ARRÊTÉ du 09.09.2026 de mise en vigueur
 language: fr
-version: 2026-09-08
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=9adde078-e6f1-47e6-98e4-8732e29f4a0a"
+version: 2026-09-15
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=a821f452-65fc-4162-9a01-97b7302d18f2"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 2 septembre 2026
+du 9 septembre 2026
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,7 +21,4 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après du 2 juin 2026 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 16 juin 2026, entrent en vigueur le 1er septembre 2026 :
-
-- 1\. décret du 2 juin 2026 accordant au Conseil d'Etat un crédit d'investissement de CHF 8'652'000.- pour financer la modernisation du système d'information de gestion RH du personnel pédagogique et de l'outil de recensement scolaire du département en charge de la formation (BLV 400.00) ;
-- 2\. décret du 2 juin 2026 sur l'adoption des plans directeurs régionaux portant sur le développement des zones d'activité (Plans directeurs régionaux des zones d'activité, PDRZA) (BLV 701.442).
+<sup>1</sup> Le décret du 9 juin 2026 accordant au Conseil d'Etat un crédit additionnel de CHF 10'700'000.- au crédit d'ouvrage de CHF 54'700'000.- accordé par le Grand Conseil le 17 septembre 2019 pour financer l'extension et la mise en conformité du bâtiment "Unithèque" de l'Université de Lausanne à Dorigny, destiné à financer la mise aux normes du bâtiment (hygiène, exploitation et câblage) (BLV 433.00), publié dans la "Feuille des avis officiels du Canton de Vaud" du 23 juin 2026, entre en vigueur avec effet au 15 septembre 2026.
