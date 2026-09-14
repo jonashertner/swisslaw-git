@@ -3,20 +3,20 @@ sr: "281.112.1"
 title: Ordinanza del DFGP del 9 febbraio 2011 sulla comunicazione per via elettronica nel settore esecuzione
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/101"
 language: it
-version: 2022-10-01
+version: 2026-09-15
 adopted: 2011-02-09
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2011-101-20221001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20260915/it/xml/fedlex-data-admin-ch-eli-cc-2011-101-20260915-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20260915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sulla comunicazione per via elettronica nel settore esecuzione
 
-del 9 febbraio 2011 (Stato 1° ottobre 2022)[^t-1]
+del 9 febbraio 2011 (Stato 15 settembre 2026)[^t-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -24,7 +24,7 @@ visto l’articolo 14 cpv. 1 e 2 dell’ordinanza del 18 giugno 2010[^ingress-1]
 
 ordina:
 
-[^ingress-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^ingress-1]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 
 ## Sezione 1: Disposizioni generali
 
@@ -34,7 +34,7 @@ ordina:
 
 La presente ordinanza definisce le direttive tecniche e organizzative e il formato dei dati in base ai quali le persone fisiche, le persone giuridiche di diritto pubblico o privato e gli uffici di esecuzione scambiano, come membri di una rete interna in un gruppo di utenti chiuso (gruppo e-LEF), i dati sull’esecuzione.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
 #### Art. 2
 
@@ -44,8 +44,8 @@ La presente ordinanza definisce le direttive tecniche e organizzative e il forma
 
 <sup>2</sup> Il servizio incaricato dell’alta vigilanza in materia di LEF (alta vigilanza LEF) secondo l’articolo 1 dell’ordinanza del 22 novembre 2006[^2-2] concernente l’alta vigilanza sulla esecuzione e sul fallimento pubblica le tabelle del gruppo e-LEF sul sito www.e-lef.ch.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
-[^2-2]: [RS 281.11](https://fedlex.data.admin.ch/eli/cc/2006/804)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
+[^2-2]: [RS 281.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6150)
 
 ## Sezione 2: Disposizioni tecniche
 
@@ -59,9 +59,9 @@ La presente ordinanza definisce le direttive tecniche e organizzative e il forma
 
 <sup>3</sup> Se i dati sono trasmessi tra le autorità all’interno di una rete protetta (Intranet), i membri della rete interna provvedono affinché i dati personali siano protetti in modo appropriato dagli altri utenti di Intranet e che ogni scambio di dati venga documentato e verbalizzato.
 
-<sup>4</sup> ...[^3-1]
+<sup>4</sup> …[^3-1]
 
-[^3-1]: Abrogato dal n. I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^3-1]: Abrogato dalla cifra I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
 #### Art. 4
 
@@ -90,13 +90,13 @@ Lo standard e-LEF obbligatorio è composto:
 - a. dello schema XML per e-LEF, versione 2.2.01 dell’ottobre 2019[^5-1];
 - b.[^5-2] delle prescrizioni tecniche e organizzative per lo scambio elettronico di dati nel settore dell’esecuzione, versione 2.2.01 del giugno 2022[^5-3].[^5-4]
 
-<sup>3</sup> ...[^5-5]
+<sup>3</sup> …[^5-5]
 
-[^5-1]: Lo schema XML può essere consultato gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo www.e-lef.ch
-[^5-2]: Nuovo testo giusta il n. I dell’O del DFGP del 15 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
-[^5-3]: Le prescrizioni tecniche e organizzative possono essere consultate gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo www.e-lef.ch.
-[^5-4]: Nuovo testo giusta il n. I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
-[^5-5]: Introdotto dal n. I dell’O del DFGP del 2 lug. 2013 ([RU 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Abrogato dal n. I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^5-1]: Lo schema XML può essere consultato gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo [www.eschkg.ch](https://www.eschkg.ch/?lang=it)
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
+[^5-3]: Le prescrizioni tecniche e organizzative possono essere consultate gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo [www.eschkg.ch](https://www.eschkg.ch/?lang=it).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^5-5]: Introdotto dalla cifra I dell’O del DFGP del 2 lug. 2013 ([RU 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Abrogato dalla cifra I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
 #### Art. 5a
 
@@ -106,14 +106,14 @@ Lo standard e-LEF obbligatorio è composto:
 
 <sup>2</sup> La piattaforma in questione trasmette le richieste all’ufficio d’esecuzione tramite e-LEF.
 
-[^5a-1]: Introdotto dal n. I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
-[^5a-2]: www.easygov.swiss
+[^5a-1]: Introdotto dalla cifra I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^5a-2]: [www.easygov.swiss](https://www.easygov.swiss/)
 
 ## Sezione 3: Fornitura di dati statistici
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
 
 #### Art. 6
 
@@ -125,19 +125,36 @@ Gli uffici d’esecuzione comunicano all’Ufficio federale di giustizia o a un 
 
 - a. il numero di domande di esecuzione presentate secondo lo standard e-LEF;
 - b. il numero di domande di estratto del registro delle esecuzioni presentate secondo lo standard e-LEF;
-- c. i dati statistici secondo il Blue Book, capitolo 9.
+- c.[^6-1] i dati statistici conformemente al numero 2.9 della sequenza SI del manuale e-LEF[^6-2].
 
 <sup>2</sup> La richiesta elettronica indica il periodo e i dati da fornire.
 
 <sup>3</sup> I dati devono essere trasmessi per via elettronica entro dieci giorni.
 
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 15 set. 2026 ([RU 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
+[^6-2]: Il manuale e-LEF può essere consultato gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo [www.eschkg.ch](https://www.eschkg.ch/?lang=it).
+
 #### Art. 6a
 
-**Riscossione di emolumenti**
+**Preparazione e comunicazione dei dati statistici per la riscossione di emolumenti**[^6a-1]
 
-<sup>1</sup> Gli uffici di esecuzione preparano i dati statistici entro il 5 dicembre dell’anno in questione come base per la riscossione degli emolumenti dovuti per la partecipazione al gruppo e-LEF.
+<sup>1</sup> Gli uffici di esecuzione preparano i dati statistici entro il 30 settembre dell’anno in corso come base per la riscossione degli emolumenti dovuti per la partecipazione al gruppo e-LEF.
 
-<sup>2</sup> La richiesta elettronica è effettuata il primo giorno feriale che segue il 5 dicembre.
+<sup>2</sup> La richiesta elettronica è effettuata il primo giorno feriale che segue il 30 settembre. I dati devono essere comunicati all’Ufficio federale di giustizia per via elettronica entro sette giorni.
+
+[^6a-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 15 set. 2026 ([RU 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
+
+#### Art. 6b
+
+**Riscossione di emolumenti**[^6b-1]
+
+<sup>1</sup> L’Ufficio federale di giustizia o un servizio da esso incaricato riscuote gli emolumenti per la partecipazione al gruppo e-LEF. Gli emolumenti sono stabiliti sulla base dei dati statistici degli uffici di esecuzione e di una stima per il periodo dal 1° ottobre al 31 dicembre dell’anno in corso.
+
+<sup>2</sup> La quota di emolumenti basata sulla stima costituisce un acconto. Il suo importo è determinato in base all’esercizio precedente.
+
+<sup>3</sup> La differenza tra i valori stimati e i valori effettivi per il periodo dal 1° ottobre al 31 dicembre è compensata con la riscossione degli emolumenti dell’anno successivo.
+
+[^6b-1]: Introdotto dalla cifra I dell’O del DFGP del 28 ago. 2026, in vigore dal 15 set. 2026 ([RU 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
 
 ## Sezione 4: Partecipazione al gruppo e-LEF
 
@@ -149,8 +166,8 @@ Gli uffici d’esecuzione comunicano all’Ufficio federale di giustizia o a un 
 
 <sup>2</sup> Le persone fisiche e giuridiche possono richiedere di aderire al gruppo e-LEF. Per la richiesta utilizzano il modulo sul sito www.e-lef.ch.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFGP del 27 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 27 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
 
 #### Art. 8
 
@@ -158,7 +175,7 @@ Gli uffici d’esecuzione comunicano all’Ufficio federale di giustizia o a un 
 
 L’UFG può escludere dal gruppo e-LEF le persone fisiche e giuridiche che non rispettano gli obblighi sanciti dalla presente ordinanza o che non pagano gli emolumenti dovuti o le spese per la partecipazione al gruppo e-LEF.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 7 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
 
 ## Sezione 5: Disposizioni finali
 
@@ -179,21 +196,21 @@ Fino al 30 giugno 2023 gli uffici di esecuzione continuano a essere tenuti a tra
 - a. dello schema XML per e-LEF, versione 2.1.01 dell’agosto 2015[^9-2];
 - b. del Blue Book (Technical Specification e-LEF 2.1.01) del settembre 2017, inclusa l’appendice (XML Reference e-LEF 2.1.01 del settembre 2017)[^9-3].
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFGP del 27 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
-[^9-2]: Lo schema XML può essere consultato gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo www.e-lef.ch
-[^9-3]: Il Blue Book e le sue appendici possono essere consultati gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo www.e-lef.ch
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 27 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
+[^9-2]: Lo schema XML può essere consultato gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo [www.eschkg.ch](https://www.eschkg.ch/?lang=it)
+[^9-3]: Il Blue Book e le sue appendici possono essere consultati gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo [www.eschkg.ch](https://www.eschkg.ch/?lang=it)
 
 #### Art. 9a
 
 [^9a-1]
 
-[^9a-1]: Introdotto dal n. I dell’O del DFGP del 2 lug. 2013 ([RU 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Abrogato dal n. I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^9a-1]: Introdotto dalla cifra I dell’O del DFGP del 2 lug. 2013 ([RU 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Abrogato dalla cifra I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
 #### Art. 9b
 
 [^9b-1]
 
-[^9b-1]: Introdotto dal n. I dell’O del DFGP del 6 nov. 2015 ([RU 2015 4489](https://fedlex.data.admin.ch/eli/oc/2015/749)). Abrogato dal n. I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+[^9b-1]: Introdotto dalla cifra I dell’O del DFGP del 6 nov. 2015 ([RU 2015 4489](https://fedlex.data.admin.ch/eli/oc/2015/749)). Abrogato dalla cifra I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
 #### Art. 9c
 
@@ -201,7 +218,7 @@ Fino al 30 giugno 2023 gli uffici di esecuzione continuano a essere tenuti a tra
 
 Dal 1° ottobre 2022, le richieste secondo l’articolo 9 capoverso 4 non possono più riportare l’opzione «EZ» come riferimento bancario conformemente alla definizione di paymentType nello schema XML per e-LEF, versione 2.1.01 dell’agosto 2015.
 
-[^9c-1]: Introdotto dal n. I dell’O del DFGP del 15 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
+[^9c-1]: Introdotto dalla cifra I dell’O del DFGP del 15 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
 
 #### Art. 10
 

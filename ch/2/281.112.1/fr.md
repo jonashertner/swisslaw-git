@@ -3,18 +3,18 @@ sr: "281.112.1"
 title: Ordonnance du DFJP du 9 février 2011 concernant la communication électronique dans le domaine des poursuites
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/101"
 language: fr
-version: 2022-10-01
+version: 2026-09-15
 adopted: 2011-02-09
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-101-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20260915/fr/xml/fedlex-data-admin-ch-eli-cc-2011-101-20260915-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20260915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP concernant la communication électronique dans le domaine des poursuites
 
-du 9 février 2011 (État le 1<sup>er</sup> octobre 2022)[^t-1]
+du 9 février 2011 (État le 15 septembre 2026)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -24,7 +24,7 @@ vu l’art. 14, al. 1 et 2, de l’ordonnance du 18 juin 2010 sur la communicati
 
 arrête:
 
-[^ingress-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^ingress-1]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 
 ## Section 1 Dispositions générales
 
@@ -42,10 +42,10 @@ La présente ordonnance règle les spécifications techniques, les modalités d�
 
 <sup>1</sup> Le terme «participants au réseau» désigne les personnes physiques et morales et les offices des poursuites et des faillites inscrits dans le répertoire des participants figurant sur la plateforme d’échange des données et dans les tableaux des participants au réseau e-LP.[^2-1]
 
-<sup>2</sup> Le service chargé de la haute surveillance en matière de LP au sens de l’art. 1 de l’ordonnance du 22 novembre 2006 relative à la haute surveillance en matière de poursuite et de faillite[^2-2] (Service Haute surveillance LP), publie les tableaux des participants au réseau e-LP à l’adresse www.e-lp.ch.
+<sup>2</sup> Le service chargé de la haute surveillance en matière de LP au sens de l’art. 1 de l’ordonnance du 22 novembre 2006 relative à la haute surveillance en matière de poursuite et de faillite[^2-2] (Service Haute surveillance LP), publie les tableaux des participants au réseau e-LP à l’adresse [www.e-lp.ch](https://www.eschkg.ch/?lang=fr).
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 7 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
-[^2-2]: [RS 281.11](https://fedlex.data.admin.ch/eli/cc/2006/804)
+[^2-2]: [RS 281.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6150)
 
 ## Section 2 Dispositions techniques
 
@@ -55,7 +55,7 @@ La présente ordonnance règle les spécifications techniques, les modalités d�
 
 <sup>1</sup> L’échange de données sur le réseau e-LP s’effectue de manière sécurisée au moyen de la plateforme sedex (secure data exchange) de l’Office fédéral de la statistique.
 
-<sup>2</sup> Le Service Haute surveillance LP propose sur le site www.e-lp.ch un adaptateur gratuit destiné à faciliter le raccordement des logiciels des participants au réseau à sedex. Les participants qui renoncent à l’utiliser s’engagent à mettre en place un système de connexion qui ne compromette ni l’exploitation, ni la sécurité du réseau e-LP.
+<sup>2</sup> Le Service Haute surveillance LP propose sur le site [www.e-lp.ch](https://www.eschkg.ch/?lang=fr) un adaptateur gratuit destiné à faciliter le raccordement des logiciels des participants au réseau à sedex. Les participants qui renoncent à l’utiliser s’engagent à mettre en place un système de connexion qui ne compromette ni l’exploitation, ni la sécurité du réseau e-LP.
 
 <sup>3</sup> Si les échanges de données entre les autorités s’effectuent sur un réseau protégé (Intranet), les participants au réseau prennent des mesures appropriées pour empêcher les autres utilisateurs de l’Intranet d’accéder aux données personnelles; ils s’assurent qu’une quittance est délivrée et un fichier-journal établi lors de chaque échange.
 
@@ -92,9 +92,9 @@ La norme de communication e-LP comprend:
 
 <sup>3</sup> ...[^5-5]
 
-[^5-1]: Le schéma XML peut être consulté gratuitement sur le site de l’Office fédéral de la justice à l’adresse www.e-lp.ch.
+[^5-1]: Le schéma XML peut être consulté gratuitement sur le site de l’Office fédéral de la justice à l’adresse [www.eschkg.ch](https://www.eschkg.ch/?lang=fr).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
-[^5-3]: Les spécifications techniques et modalités d’organisation peuvent être consultées gratuitement sur le site de l’Office fédéral de la justice à l’adresse www.e-lp.ch.
+[^5-3]: Les spécifications techniques et modalités d’organisation peuvent être consultées gratuitement sur le site de l’Office fédéral de la justice à l’adresse [www.eschkg.ch](https://www.eschkg.ch/?lang=fr).
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du DFJP du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5-5]: Introduit par le ch. I de l’O du DFJP du 2 juil. 2013 ([RO 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Abrogé par le ch. I de l’O du DFJP du 23 oct. 2019, avec effet au 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -107,7 +107,7 @@ La norme de communication e-LP comprend:
 <sup>2</sup> La plateforme en question transmet les demandes à l’office des poursuites via e-LP.
 
 [^5a-1]: Introduit par le ch. I de l’O du DFJP du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
-[^5a-2]: www.easygov.swiss
+[^5a-2]: [www.easygov.swiss](http://www.easygov.swiss)
 
 ## Section 3 Livraison de données statistiques
 
@@ -125,19 +125,36 @@ Les offices des poursuites communiquent, sur demande faite par voie électroniqu
 
 - a. le nombre de réquisitions de poursuite établies selon la norme e-LP;
 - b. le nombre de demandes d’extraits du registre des poursuites établies selon la norme e-LP;
-- c. les données statistiques visées au chap. 9 du *Blue Book*.
+- c.[^6-1] les données statistiques visées au ch. 2.9 «séquence SI» du manuel eLP[^6-2].
 
 <sup>2</sup> La demande électronique précise la période à laquelle les données doivent se rapporter et les données à livrer.
 
 <sup>3</sup> Les données doivent être livrées dans les dix jours, par voie électronique.
 
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 15 sept. 2026 ([RO 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
+[^6-2]: Le manuel eLP peut être consulté gratuitement sur le site de l’Office fédéral de la justice à l’adresse [www.eschkg.ch](https://www.eschkg.ch/?lang=fr).
+
 #### Art. 6a
 
-**Perception des émoluments**
+**Préparation et livraison des données statistiques en vue de la perception des émoluments**[^6a-1]
 
-<sup>1</sup> Les offices des poursuites ont jusqu’au 5 décembre de l’année concernée pour préparer les données statistiques sur lesquelles se fonde la perception des émoluments liés à l’utilisation du réseau e-LP.
+<sup>1</sup> Les offices des poursuites ont jusqu’au 30 septembre de l’année en cours pour préparer les données statistiques sur lesquelles se fonde la perception des émoluments liés à l’utilisation du réseau e-LP.
 
-<sup>2</sup> La demande électronique est transmise le premier jour ouvré suivant le 5 décembre.
+<sup>2</sup> La demande électronique est transmise le premier jour ouvré suivant le 30 septembre. Les données doivent être livrées à l’Office fédéral de la justice dans les sept jours, par voie électronique.
+
+[^6a-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 15 sept. 2026 ([RO 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
+
+#### Art. 6b
+
+**Perception des émoluments**[^6b-1]
+
+<sup>1</sup> L’Office fédéral de la justice ou le service mandaté par ce dernier perçoit les émoluments liés à l’utilisation du réseau e-LP. Les émoluments sont fixés sur la base des données statistiques des offices des poursuites et d’une estimation pour la période comprise entre le 1<sup>er</sup> octobre et le 31 décembre de l’année en cours.
+
+<sup>2</sup> La part d’émoluments fondée sur l’estimation est un acompte. Son montant est estimé sur la base de la facture de l’année précédente.
+
+<sup>3</sup> La différence entre le montant estimé et le montant effectif pour la période comprise entre le 1<sup>er</sup> octobre et le 31 décembre est imputée sur les émoluments perçus l’année suivante.
+
+[^6b-1]: Introduit par le ch. I de l’O du DFJP du 28 août 2026, en vigueur depuis le 15 sept. 2026 ([RO 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
 
 ## Section 4 Participation au réseau e-LP
 
@@ -147,7 +164,7 @@ Les offices des poursuites communiquent, sur demande faite par voie électroniqu
 
 <sup>1</sup> Tous les offices des poursuites sont tenus d’adhérer au réseau e-LP.[^7-1]
 
-<sup>2</sup> Les personnes physiques et morales peuvent demander à participer au réseau e-LP. Elles utilisent à cet effet le formulaire d’adhésion proposé à l’adresse www.e-lp.ch.[^7-2]
+<sup>2</sup> Les personnes physiques et morales peuvent demander à participer au réseau e-LP. Elles utilisent à cet effet le formulaire d’adhésion proposé à l’adresse [www.e-lp.ch](https://www.eschkg.ch/?lang=fr).[^7-2]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 27 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 7 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
@@ -180,8 +197,8 @@ Les offices des poursuites sont tenus de traiter jusqu’au 30 juin 2023 les act
 - b. le Blue Book (Technical Specification eSchKG 2.1.01) de septembre 2017, y compris l’appendice (XML Reference eSchKG 2.1.01) de septembre 2017[^9-3].
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 27 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
-[^9-2]: Le modèle de données peut être consulté gratuitement sur le site de l'Office fédéral de la justice à l’adresse www.e-lp.ch
-[^9-3]: Le Blue book peut être consulté gratuitement sur le site de l'Office fédéral de la justice à l’adresse www.e-lp.ch
+[^9-2]: Le modèle de données peut être consulté gratuitement sur le site de l’Office fédéral de la justice à l’adresse [www.eschkg.ch](https://www.eschkg.ch/?lang=fr).
+[^9-3]: Le Blue book peut être consulté gratuitement sur le site de l’Office fédéral de la justice à l’adresse [www.eschkg.ch](https://www.eschkg.ch/?lang=fr).
 
 #### Art. 9a
 

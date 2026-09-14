@@ -3,18 +3,18 @@ sr: "281.112.1"
 title: Verordnung des EJPD vom 9. Februar 2011 über die elektronische Übermittlung im Betreibungswesen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/101"
 language: de
-version: 2022-10-01
+version: 2026-09-15
 adopted: 2011-02-09
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2011-101-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20260915/de/xml/fedlex-data-admin-ch-eli-cc-2011-101-20260915-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20260915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über die elektronische Übermittlung im Betreibungswesen
 
-vom 9. Februar 2011 (Stand am 1. Oktober 2022)[^t-1]
+vom 9. Februar 2011 (Stand am 15. September 2026)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 14 Absätze 1 und 2 der Verordnung vom 18. Juni 2010[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^ingress-1]: [SR 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -42,10 +42,10 @@ Diese Verordnung regelt die technischen und organisatorischen Vorgaben und das D
 
 <sup>1</sup> Als Verbundteilnehmerinnen und -teilnehmer werden natürliche und juristische Personen sowie Betreibungs- und Konkursämter bezeichnet, die im Teilnehmerverzeichnis der Zustellplattform und in den Tabellen des eSchKG-Verbundes erscheinen.[^2-1]
 
-<sup>2</sup> Die Dienststelle für Oberaufsicht SchKG (Oberaufsicht SchKG) gemäss Artikel 1 der Verordnung vom 22. November 2006[^2-2] betreffend die Oberaufsicht über Schuldbetreibung und Konkurs veröffentlicht die Tabellen des eSchKG-Verbundes auf www.eschkg.ch.
+<sup>2</sup> Die Dienststelle für Oberaufsicht SchKG (Oberaufsicht SchKG) gemäss Artikel 1 der Verordnung vom 22. November 2006[^2-2] betreffend die Oberaufsicht über Schuldbetreibung und Konkurs veröffentlicht die Tabellen des eSchKG-Verbundes auf [www.e s chkg.ch](https://www.eschkg.ch/).
 
 [^2-1]: Fassung gemäss Ziff. I der V des EJPD vom 7. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
-[^2-2]: [SR 281.11](https://fedlex.data.admin.ch/eli/cc/2006/804)
+[^2-2]: [SR 281.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6150)
 
 ## 2. Abschnitt: Technische Bestimmungen
 
@@ -55,7 +55,7 @@ Diese Verordnung regelt die technischen und organisatorischen Vorgaben und das D
 
 <sup>1</sup> Für die Datenübermittlung im eSchKG-Verbund wird die sichere Datenaustauschplattform SEDEX (secure data exchange) des Bundesamtes für Statistik eingesetzt.
 
-<sup>2</sup> Für den Anschluss an SEDEX stellt die Oberaufsicht SchKG kostenlos einen Software-Adapter auf www.eschkg.ch zur Verfügung, der die Integration mit der Teilnehmersoftware erleichtert. Wer auf den Adapter verzichtet, ist verpflichtet, die Anbindung so zu realisieren, dass dadurch weder der laufende Betrieb noch die Sicherheit des eSchKG-Verbundes beeinträchtigt werden.
+<sup>2</sup> Für den Anschluss an SEDEX stellt die Oberaufsicht SchKG kostenlos einen Software-Adapter auf [www.eschkg.ch](https://www.eschkg.ch/) zur Verfügung, der die Integration mit der Teilnehmersoftware erleichtert. Wer auf den Adapter verzichtet, ist verpflichtet, die Anbindung so zu realisieren, dass dadurch weder der laufende Betrieb noch die Sicherheit des eSchKG-Verbundes beeinträchtigt werden.
 
 <sup>3</sup> Erfolgt die Datenübermittlung zwischen Behörden innerhalb eines geschützten Netzes (Intranet), so sorgen die Verbundteilnehmerinnen und -teilnehmer dafür, dass Personendaten in geeigneter Weise vor anderen Benutzerinnen und Benutzern des Intranet geschützt sind und jeder Datenaustausch quittiert und protokolliert wird.
 
@@ -92,9 +92,9 @@ Der verbindliche eSchKG-Standard setzt sich zusammen aus:
 
 <sup>3</sup> …[^5-5]
 
-[^5-1]: Das XML-Schema kann im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden.
+[^5-1]: Das XML-Schema kann im Internet auf den Seiten des Bundesamts für Justiz unter: [www.eschkg.ch](https://www.eschkg.ch/) kostenlos abgerufen werden.
 [^5-2]: Fassung gemäss Ziff. I der V des EJPD vom 15. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
-[^5-3]: Die technischen und organisatorischen Vorschriften können im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden.
+[^5-3]: Die technischen und organisatorischen Vorschriften können im Internet auf den Seiten des Bundesamts für Justiz unter: [www.eschkg.ch](https://www.eschkg.ch/) kostenlos abgerufen werden.
 [^5-4]: Fassung gemäss Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5-5]: Eingefügt durch Ziff. I der V des EJPD vom 2. Juli 2013 ([AS 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -107,7 +107,7 @@ Der verbindliche eSchKG-Standard setzt sich zusammen aus:
 <sup>2</sup> Die jeweilige Plattform übermittelt die Eingaben dem Betreibungsamt via eSchKG-Verbund.
 
 [^5a-1]: Eingefügt durch Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
-[^5a-2]: www.easygov.swiss
+[^5a-2]: [www.easy g ov.swiss](http://www.easygov.swiss)
 
 ## 3. Abschnitt: Lieferung statistischer Daten
 
@@ -125,19 +125,36 @@ Die Betreibungsämter übermitteln dem Bundesamt für Justiz oder einer von ihm 
 
 - a. die Zahl der nach dem eSchKG-Standard eingereichten Betreibungsbegehren;
 - b. die Zahl der nach dem eSchKG-Standard eingereichten Begehren um einen Auszug aus dem Betreibungsregister;
-- c. die statistischen Daten nach dem Blue Book, Kapitel 9.
+- c.[^6-1] die statistischen Daten gemäss Kapitel 2.9 SI-Sequenz des eSchKG Handbuchs[^6-2].
 
 <sup>2</sup> Die elektronische Anfrage bezeichnet die betreffende Periode und die zu liefernden Daten.
 
 <sup>3</sup> Die Daten sind innert 10 Tagen elektronisch zu übermitteln.
 
+[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 15. Sept. 2026 ([AS 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
+[^6-2]: Das eSchKG-Handbuch kann im Internet auf den Seiten des Bundesamts für Justiz unter: [www.eschkg.ch](https://www.eschkg.ch/) kostenlos abgerufen werden.
+
 #### Art. 6a
 
-**Gebührenerhebung**
+**Aufbereitung und Übermittlung der statistischen Daten für die Erhebung der Gebühren**[^6a-1]
 
-<sup>1</sup> Als Grundlage für die Erhebung der mit der Nutzung des eSchKG-Verbundes zusammenhängenden Gebühren bereiten die Betreibungsämter die statistischen Daten bis spätestens am 5. Dezember des betreffenden Jahres auf.
+<sup>1</sup> Als Grundlage für die Erhebung der mit der Nutzung des eSchKG-Verbundes zusammenhängenden Gebühren bereiten die Betreibungsämter die statistischen Daten bis spätestens am 30. September des laufenden Jahres auf.
 
-<sup>2</sup> Die elektronische Anfrage erfolgt am ersten Werktag nach dem 5. Dezember.
+<sup>2</sup> Die elektronische Anfrage erfolgt am ersten Werktag nach dem 30. September. Die Daten sind dem Bundesamt für Justiz innert 7 Tagen elektronisch zu übermitteln.
+
+[^6a-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 15. Sept. 2026 ([AS 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
+
+#### Art. 6b
+
+**Erhebung der Gebühren**[^6b-1]
+
+<sup>1</sup> Das Bundesamt für Justiz oder eine von ihm beauftragte Stelle erhebt die Gebühren für die Nutzung des eSchKG-Verbundes. Die Gebühren werden auf der Grundlage der statistischen Daten der Betreibungsämter sowie einer Schätzung für den Zeitraum vom 1. Oktober – 31. Dezember des laufenden Jahres festgesetzt.
+
+<sup>2</sup> Der auf der Schätzung beruhende Gebührenanteil stellt eine Akontozahlung dar. Ihre Höhe richtet sich nach der Vorjahresrechnung.
+
+<sup>3</sup> Die Differenz zwischen den geschätzten und den tatsächlichen Werten für den Zeitraum vom 1. Oktober – 31. Dezember wird bei der Gebührenerhebung des folgenden Jahres verrechnet.
+
+[^6b-1]: Eingefügt durch Ziff. I der V des EJPD vom 28. Aug. 2026, in Kraft seit 15. Sept. 2026 ([AS 2026 450](https://fedlex.data.admin.ch/eli/oc/2026/450)).
 
 ## 4. Abschnitt: Teilnahme am eSchKG-Verbund
 
@@ -147,7 +164,7 @@ Die Betreibungsämter übermitteln dem Bundesamt für Justiz oder einer von ihm 
 
 <sup>1</sup> Sämtliche Betreibungsämter sind verpflichtet, dem eSchKG-Verbund beizutreten.[^7-1]
 
-<sup>2</sup> Natürliche und juristische Personen können beantragen, dem eSchKG-Verbund beizutreten. Für den Antrag ist das entsprechende Formular auf www.eschkg.ch zu verwenden.[^7-2]
+<sup>2</sup> Natürliche und juristische Personen können beantragen, dem eSchKG-Verbund beizutreten. Für den Antrag ist das entsprechende Formular auf [www.eschkg.ch](https://www.eschkg.ch/) zu verwenden.[^7-2]
 
 [^7-1]: Fassung gemäss Ziff. I der V des EJPD vom 27. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
 [^7-2]: Fassung gemäss Ziff. I der V des EJPD vom 7. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7327](https://fedlex.data.admin.ch/eli/oc/2017/798)).
@@ -180,8 +197,8 @@ Die Betreibungsämter sind bis zum 30. Juni 2023 weiterhin verpflichtet, von nat
 - b. dem Blue Book (Technical Specification eSchKG 2.1.01) vom September 2017, inklusive Appendix (XML Reference eSchKG 2.1.01 vom Sept. 2017)[^9-3].
 
 [^9-1]: Fassung gemäss Ziff. I der V des EJPD vom 27. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
-[^9-2]: Das XML-Schema kann im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden.
-[^9-3]: Das Blue Book (inkl. Appendix) kann im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden.
+[^9-2]: Das XML-Schema kann im Internet auf den Seiten des Bundesamts für Justiz unter: [www.eschkg.ch](https://www.eschkg.ch/) kostenlos abgerufen werden.
+[^9-3]: Das Blue Book (inkl. Appendix) kann im Internet auf den Seiten des Bundesamts für Justiz unter: [www.eschkg.ch](https://www.eschkg.ch/) kostenlos abgerufen werden.
 
 #### Art. 9a
 
