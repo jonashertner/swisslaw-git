@@ -4,11 +4,11 @@ title: Satzung vom 26. Januar 2009 der Internationalen Organisation für erneuer
 short: IRENA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/259"
 language: de
-version: 2023-10-16
+version: 2026-09-15
 adopted: 2009-01-26
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20231016/de/xml/fedlex-data-admin-ch-eli-cc-2011-259-20231016-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20231016/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20260915/de/xml/fedlex-data-admin-ch-eli-cc-2011-259-20260915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20260915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -21,7 +21,7 @@ AS **2011** 1721; BBl **2010** 401
 
 Abgeschlossen in Bonn am 26. Januar 2009 Von der Bundesversammlung genehmigt am 1. Oktober 2010[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 1. März 2011 In Kraft getreten für die Schweiz am 31. März 2011
 
-(Stand am 16. Oktober 2023)
+(Stand am 15. September 2026)
 
 [^t-1]: Zwischen Deutschland, der Schweiz, Österreich und Liechtenstein abgestimmte Übersetzung auf der Basis des englischen Originaltextes.
 [^t-2]: [AS 2011 1719](https://fedlex.data.admin.ch/eli/oc/2011/258)
@@ -303,7 +303,7 @@ Vorbehaltlich der Genehmigung durch die Versammlung ist der Rat ermächtigt, im 
 - A. Die Mitglieder legen jede Streitigkeit über die Auslegung oder Anwendung dieser Satzung im Einklang mit Artikel 2 Nummer 3 der Charta der Vereinten Nationen[^XVI-1] mit friedlichen Mitteln bei und bemühen sich zu diesem Zweck um eine Lösung mit Hilfe der in Artikel 33 Absatz 1 der Charta der Vereinten Nationen genannten Mittel.
 - B. Der Rat kann zur Beilegung einer Streitigkeit durch die von ihm für zweckmässig erachteten Mittel beitragen, indem er unter anderem seine guten Dienste anbietet, die an der Streitigkeit beteiligten Mitglieder auffordert, das Beilegungsverfahren ihrer Wahl in Gang zu setzen, und für ein vereinbartes Verfahren eine Frist empfiehlt.
 
-[^XVI-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVI-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVII
 
@@ -341,7 +341,7 @@ Der Sitz der Organisation wird von der Versammlung auf ihrer ersten Tagung festg
 - F. Die Verwahrregierung teilt allen Unterzeichnern und Mitgliedern umgehend den Zeitpunkt mit, zu dem Staaten oder zwischenstaatliche Organisationen der regionalen Wirtschaftsintegration später Mitglieder werden.
 - G. Die Verwahrregierung leitet neue Anträge auf Mitgliedschaft umgehend an alle Mitglieder der Organisation zur Prüfung nach Artikel VI Absatz B Nummer 2 weiter.
 
-[^XX-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XX-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diese Satzung unterschrieben. Geschehen zu Bonn am 26. Januar 2009 in einer Urschrift in englischer Sprache. (Es folgen die Unterschriften)
 
@@ -354,10 +354,10 @@ Von der am 26. Januar 2009 in Bonn unterzeichneten Satzung der Internationalen O
 [^t-3]: Die Konferenz nimmt zur Kenntnis, dass Frankreich der Verwahrregierung bereits eine französische Fassung der Satzung zugesandt hat mit der Bitte, einen verbindlichen Wortlaut der Satzung in französischer Sprache festzulegen.
 [^t-4]: Diese Erklärung berührt nicht die Übereinkunft der abschliessenden Vorbereitungskonferenz in Madrid über die Arbeitssprache.
 
-Geltungsbereich am 16. Oktober 2023[^t-5]
+Geltungsbereich am 15. September 2026[^t-5]
 
 <table>
-<tr><th>[tab] Vertragsstaaten</th><th>[tab] Ratifikation [tab] Beitritt (B)</th><th>[tab]</th><th>[tab] Inkrafttreten</th><th>[tab]</th></tr>
+<tr><th>[tab] Vertragsstaaten</th><th>[tab] Ratifikation [tab] Beitritt (B)</th><th></th><th>[tab] Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>20. Juli</td><td>2016</td><td>19. August</td><td>2016</td></tr>
 <tr><td>Ägypten</td><td>11. Juni</td><td>2012</td><td>11. Juli</td><td>2012</td></tr>
 <tr><td>Äthiopien</td><td>9. Februar</td><td>2012</td><td>10. März</td><td>2012</td></tr>
@@ -365,7 +365,6 @@ Geltungsbereich am 16. Oktober 2023[^t-5]
 <tr><td>Algerien</td><td>9. Mai</td><td>2012</td><td>8. Juni</td><td>2012</td></tr>
 <tr><td>Angola</td><td>15. Dezember</td><td>2011</td><td>14. Januar</td><td>2012</td></tr>
 <tr><td>Antigua und Barbuda</td><td>10. September</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
-<tr><td>Argentinien</td><td>16. Mai</td><td>2013</td><td>15. Juni</td><td>2013</td></tr>
 <tr><td>Armenien\*</td><td>30. März</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Aserbaidschan\*</td><td>11. Juni</td><td>2014</td><td>11. Juli</td><td>2014</td></tr>
 <tr><td>Australien</td><td>6. Januar</td><td>2011</td><td>5. Februar</td><td>2011</td></tr>
@@ -441,6 +440,7 @@ Geltungsbereich am 16. Oktober 2023[^t-5]
 <tr><td>Liechtenstein</td><td>29. Juni</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Litauen</td><td>1. März</td><td>2011</td><td>31. März</td><td>2011</td></tr>
 <tr><td>Luxemburg</td><td>9. September</td><td>2010</td><td>9. Oktober</td><td>2010</td></tr>
+<tr><td>Madagaskar</td><td>5. Mai</td><td>2026</td><td>4. Juni</td><td>2026</td></tr>
 <tr><td>Malaysia</td><td>28. Dezember</td><td>2010</td><td>27. Januar</td><td>2011</td></tr>
 <tr><td>Malediven</td><td>30. Juni</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Mali</td><td>19. Oktober</td><td>2010</td><td>18. November</td><td>2010</td></tr>
@@ -509,7 +509,9 @@ Geltungsbereich am 16. Oktober 2023[^t-5]
 <tr><td>St. Lucia</td><td>1. März</td><td>2016 B</td><td>31. März</td><td>2016</td></tr>
 <tr><td>Südafrika</td><td>30. November</td><td>2010</td><td>30. Dezember</td><td>2010</td></tr>
 <tr><td>Sudan</td><td>19. Mai</td><td>2011</td><td>18. Juni</td><td>2011</td></tr>
+<tr><td>Syrien</td><td>1. Juli</td><td>2026</td><td>31. Juli</td><td>2026</td></tr>
 <tr><td>Tadschikistan</td><td>17. Juli</td><td>2013</td><td>16. August</td><td>2013</td></tr>
+<tr><td>Tansania</td><td>29. Juli</td><td>2024 B</td><td>28. August</td><td>2024</td></tr>
 <tr><td>Thailand</td><td>31. März</td><td>2016 B</td><td>30. April</td><td>2016</td></tr>
 <tr><td>Togo</td><td>8. September</td><td>2011</td><td>8. Oktober</td><td>2011</td></tr>
 <tr><td>Tonga</td><td>4. Februar</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
@@ -529,9 +531,10 @@ Geltungsbereich am 16. Oktober 2023[^t-5]
 <tr><td>Vereinigte Arabische Emirate</td><td>18. Juni</td><td>2009</td><td>8. Juli</td><td>2010</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>10. April</td><td>2012</td><td>10. Mai</td><td>2012</td></tr>
 <tr><td>Vereinigte Staaten</td><td>4. März</td><td>2011</td><td>3. April</td><td>2011</td></tr>
+<tr><td>Vietnam</td><td>8. Oktober</td><td>2025 B</td><td>7. November</td><td>2025</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>28. Juli</td><td>2021</td><td>27. August</td><td>2021</td></tr>
 <tr><td>Zypern</td><td>27. Mai</td><td>2010</td><td>8. Juli</td><td>2010</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die deutschen und englischen Texte können auf der Internetseite des Depositars (Regierung der Bundesrepublik Deutschland): [www.auswaertigesamt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200](https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die deutschen und englischen Texte können auf der Internetseite des Depositars (Regierung der Bundesrepublik Deutschland): [www.auswaertiges amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200](https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-5]: [AS 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259), [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925); [2023 594](https://fedlex.data.admin.ch/eli/oc/2023/594). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-5]: Diese Veröffentlichung ergänzt die früheren in [AS 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259); [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925); [2023 594](https://fedlex.data.admin.ch/eli/oc/2023/594); [2026 490](https://fedlex.data.admin.ch/eli/oc/2026/490). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

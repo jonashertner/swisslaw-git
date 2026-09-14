@@ -4,11 +4,11 @@ title: "Statuto del 26 gennaio 2009 dell'Agenzia internazionale per le energie r
 short: IRENA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/259"
 language: it
-version: 2023-10-16
+version: 2026-09-15
 adopted: 2009-01-26
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20231016/it/xml/fedlex-data-admin-ch-eli-cc-2011-259-20231016-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20231016/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/259/20260915/it/xml/fedlex-data-admin-ch-eli-cc-2011-259-20260915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/259/20260915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,7 +21,7 @@ Traduzione
 
 Concluso a Bonn il 26 gennaio 2009 Approvato dall’Assemblea federale il 1° ottobre 2010[^t-1] Strumento di ratifica depositato dalla Svizzera il 1° marzo 2011 Entrato in vigore per la Svizzera il 31 marzo 2011
 
-(Stato 16 ottobre 2023)
+(Stato 15 settembre 2026)
 
 [^t-1]: [RU 2011 1719](https://fedlex.data.admin.ch/eli/oc/2011/258)
 
@@ -302,7 +302,7 @@ A condizione dell’approvazione dell’Assemblea, il Consiglio sarà autorizzat
 - A. I Membri dovranno comporre qualsiasi controversia tra loro in relazione all’interpretazione o all’applicazione di questo Statuto con mezzi pacifici, in conformità all’articolo 2 paragrafo 3 dello Statuto delle Nazioni Unite[^XVI-1] e, a questo scopo, dovranno ricercare una soluzione tramite i mezzi di cui all’articolo 33 paragrafo 1 dello Statuto delle Nazioni Unite.
 - B. Il Consiglio può contribuire alla composizione di una controversia in qualsiasi modalità ritenga appropriata, inclusa l’offerta della propria assistenza, l’invito ai Membri coinvolti ad avviare una procedura di composizione a loro scelta e la raccomandazione di un limite di tempo per qualsiasi procedura concordata.
 
-[^XVI-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVI-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVII
 
@@ -340,7 +340,7 @@ La sede dell’Agenzia sarà determinata dall’Assemblea nel corso della sua pr
 - F. Il Governo depositario dovrà senza ritardo informare tutti i firmatari e i Membri delle date nelle quali gli Stati o le organizzazioni intergovernative regionali di integrazione economica acquisiscano lo status di Membri.
 - G. Il Governo depositario dovrà senza ritardo inviare nuove richieste di adesione a tutti Membri i dell’Agenzia, perché siano esaminate in conformità con l’articolo VI paragrafo B numero 2.
 
-[^XX-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XX-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *In fede di che,* i sottoscritti, essendo debitamente autorizzati a tal fine, hanno firmato il presente Statuto. Fatto a Bonn, il 26 gennaio 2009, in un unico esemplare in lingua inglese. (Seguono le firme)
 
@@ -353,7 +353,7 @@ Lo Statuto dell’Agenzia internazionale per le energie rinnovabili, firmato a B
 [^t-2]: La Conferenza prende atto che la Francia ha già inviato al Governo depositario una versione francese dello Statuto in vista della sua autentificazione in lingua francese.
 [^t-3]: La presente dichiarazione non pregiudica l’accordo della conferenza preparatoria finale di Madrid concernente la lingua di lavoro.
 
-Campo d’applicazione il 16 ottobre 2023[^t-4]
+Campo d’applicazione il 15 settembre 2026[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -363,7 +363,6 @@ Campo d’applicazione il 16 ottobre 2023[^t-4]
 <tr><td>Angola</td><td>15 dicembre</td><td>2011</td><td>14 gennaio</td><td>2012</td></tr>
 <tr><td>Antigua e Barbuda</td><td>10 settembre</td><td>2010</td><td>10 ottobre</td><td>2010</td></tr>
 <tr><td>Arabia Saudita</td><td>30 dicembre</td><td>2011 A</td><td>29 gennaio</td><td>2012</td></tr>
-<tr><td>Argentina</td><td>16 maggio</td><td>2013</td><td>15 giugno</td><td>2013</td></tr>
 <tr><td>Armenia<sup>\*</sup></td><td>30 marzo</td><td>2010</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Australia</td><td>6 gennaio</td><td>2011</td><td>5 febbraio</td><td>2011</td></tr>
 <tr><td>Austria</td><td>2 dicembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
@@ -445,6 +444,7 @@ Campo d’applicazione il 16 ottobre 2023[^t-4]
 <tr><td>Lituania</td><td>1° marzo</td><td>2011</td><td>31 marzo</td><td>2011</td></tr>
 <tr><td>Lussemburgo</td><td>9 settembre</td><td>2010</td><td>9 ottobre</td><td>2010</td></tr>
 <tr><td>Macedonia del Nord</td><td>29 novembre</td><td>2010</td><td>29 dicembre</td><td>2010</td></tr>
+<tr><td>Madagascar</td><td>5 maggio</td><td>2026</td><td>4 giugno</td><td>2026</td></tr>
 <tr><td>Malaysia</td><td>28 dicembre</td><td>2010</td><td>27 gennaio</td><td>2011</td></tr>
 <tr><td>Maldive</td><td>30 giugno</td><td>2009</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Mali</td><td>19 ottobre</td><td>2010</td><td>18 novembre</td><td>2010</td></tr>
@@ -501,6 +501,7 @@ Campo d’applicazione il 16 ottobre 2023[^t-4]
 <tr><td>Serbia</td><td>4 febbraio</td><td>2010</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Sierra Leone</td><td>25 marzo</td><td>2011</td><td>24 aprile</td><td>2011</td></tr>
 <tr><td>Singapore</td><td>5 febbraio</td><td>2013 A</td><td>7 marzo</td><td>2013</td></tr>
+<tr><td>Siria</td><td>1° luglio</td><td>2026</td><td>31 luglio</td><td>2026</td></tr>
 <tr><td>Slovacchia</td><td>1° aprile</td><td>2010</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Slovenia</td><td>22 marzo</td><td>2010</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Somalia</td><td>13 novembre</td><td>2013</td><td>13 dicembre</td><td>2013</td></tr>
@@ -512,6 +513,7 @@ Campo d’applicazione il 16 ottobre 2023[^t-4]
 <tr><td>Svezia</td><td>10 luglio</td><td>2009</td><td>8 luglio</td><td>2010</td></tr>
 <tr><td>Svizzera</td><td>1° marzo</td><td>2011</td><td>31 marzo</td><td>2011</td></tr>
 <tr><td>Tagikistan</td><td>17 luglio</td><td>2013</td><td>16 agosto</td><td>2013</td></tr>
+<tr><td>Tanzania</td><td>29 luglio</td><td>2024 A</td><td>28 agosto</td><td>2024</td></tr>
 <tr><td>Thailandia</td><td>31 marzo</td><td>2016 A</td><td>30 aprile</td><td>2016</td></tr>
 <tr><td>Togo</td><td>8 settembre</td><td>2011</td><td>8 ottobre</td><td>2011</td></tr>
 <tr><td>Tonga</td><td>4 febbraio</td><td>2010</td><td>8 luglio</td><td>2010</td></tr>
@@ -527,10 +529,11 @@ Campo d’applicazione il 16 ottobre 2023[^t-4]
 <tr><td>Uruguay</td><td>29 luglio</td><td>2011</td><td>28 agosto</td><td>2011</td></tr>
 <tr><td>Uzbekistan</td><td>25 luglio</td><td>2017</td><td>24 agosto</td><td>2017</td></tr>
 <tr><td>Vanuatu</td><td>30 gennaio</td><td>2013</td><td>1° marzo</td><td>2013</td></tr>
+<tr><td>Vietnam</td><td>8 ottobre</td><td>2025 A</td><td>7 novembre</td><td>2025</td></tr>
 <tr><td>Yemen</td><td>22 febbraio</td><td>2012</td><td>23 marzo</td><td>2012</td></tr>
 <tr><td>Zambia</td><td>23 maggio</td><td>2013</td><td>22 giugno</td><td>2013</td></tr>
 <tr><td>Zimbabwe</td><td>18 agosto</td><td>2014</td><td>17 settembre</td><td>2014</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in tedesco e inglese, può essere consultato sul sito Internet del Depositario (Governo della Repubblica Federale di Germania): [www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200](https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in tedesco e inglese, può essere consultato sul sito Internet del Depositario (Governo della Repubblica Federale di Germania): [www.auswaertiges-amt.de/de/ aussenpolitik /regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200](https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/-/240200) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-4]: [RU 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259); [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925); [2023 594](https://fedlex.data.admin.ch/eli/oc/2023/594). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
+[^t-4]: [RU 2011 1721](https://fedlex.data.admin.ch/eli/oc/2011/259); [2015 5981](https://fedlex.data.admin.ch/eli/oc/2015/925); [2023 594](https://fedlex.data.admin.ch/eli/oc/2023/594); [2026 490](https://fedlex.data.admin.ch/eli/oc/2026/490). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
