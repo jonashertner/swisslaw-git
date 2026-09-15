@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (mit Schlussprotokoll und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: de
-version: 2026-04-22
+version: 2026-09-16
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20260422/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20260422-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20260422/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20260916/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20260916-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20260916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 29. März 1923 Von der Bundesversammlung genehmigt am 21. Dezember 1923[^t-1] Ratifikationsurkunden ausgetauscht am 28. Dezember 1923 In Kraft getreten am 1. Januar 1924
 
-(Stand am 22. April 2026)
+(Stand am 16. September 2026)
 
 [^t-1]: AS **39** 550
 
@@ -393,4 +393,4 @@ Anlagen[^t-4]
 <tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-4]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 22. April 2026 (Stand: 31. Dezember 2025), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266), [702](https://fedlex.data.admin.ch/eli/oc/2025/702); [2026 184](https://fedlex.data.admin.ch/eli/oc/2026/184)). Die bereinigten Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite [www.gesetze.li](http://www.gesetze.li) &gt;[LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2025502000) konsultiert werden.
+[^t-4]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 16. September 2026 (Stand: 30. Juni 2026), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266), [702](https://fedlex.data.admin.ch/eli/oc/2025/702); [2026 184](https://fedlex.data.admin.ch/eli/oc/2026/184), [495](https://fedlex.data.admin.ch/eli/oc/2026/495)). Die bereinigten Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite www.gesetze.li &gt;[LR ‑Nr. 170.551.6 3 1](https://www.gesetze.li/chrono/2026312000?search_text=&search_loc=text&lrnr=&lgblid_von=2026&lgblid_bis=) konsultiert werden.

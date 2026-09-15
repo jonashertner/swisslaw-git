@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Trattato di unione doganale conchiuso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein (con Protocollo finale e allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: it
-version: 2026-04-22
+version: 2026-09-16
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20260422/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20260422-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20260422/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20260916/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20260916-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20260916/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso il 29 marzo 1923 Approvato dall’Assemblea federale il 21 dicembre 1923[^t-1] Istrumenti di ratificazione scambiati il 28 dicembre 1923 Entrato in vigore il 1° gennaio 1924
 
-(Stato 22 aprile 2026)
+(Stato 16 settembre 2026)
 
 [^t-1]: RU **39** 575
 
@@ -365,7 +365,7 @@ Il presente Trattato entra in vigore il 1° gennaio 1924.
 
 Protocollo finale
 
-I.[^t-2] ...
+I.[^t-2] …
 
 II. Le Parti contraenti convengono inoltre che, con riserva dell’esecuzione delle prescrizioni della legislazione federale applicabile nel Principato di Liechtenstein in conformità del Trattato che precede, sarà di massima permesso l’alpeggio del bestiame del Liechtenstein nel Vorarlberg in applicazione dell’articolo 75, capoverso 3, del regolamento per l’esecuzione della legge federale sulle misure per combattere le epizoozie del 30 agosto 1920[^t-3].
 
@@ -391,4 +391,4 @@ Allegati[^t-4]
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 22 apr. 2026 (stato: 31 dicembre 2025). Questi all. aggiornati non sono pubblicati nella RU ([RU 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266), [702](https://fedlex.data.admin.ch/eli/oc/2025/702); [2026 184](https://fedlex.data.admin.ch/eli/oc/2026/184)). Possono essere consultati sul sito Internet www.gesetze.li &gt; [LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2026125000).
+[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 16 set. 2026 (stato: 30 giugno 2026). Questi all. aggiornati non sono pubblicati nella RU ([RU 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266), [702](https://fedlex.data.admin.ch/eli/oc/2025/702); [2026 184](https://fedlex.data.admin.ch/eli/oc/2026/184), [495](https://fedlex.data.admin.ch/eli/oc/2026/495)). Possono essere consultati sul sito Internet www.gesetze.li &gt; [LR ‑Nr. 170.551.631.](https://www.gesetze.li/chrono/2026312000?search_text=&search_loc=text&lrnr=170.551.631&lgblid_von=&lgblid_bis=)
