@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: "Trattato del 22 dicembre 1978 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla protezione conferita dai brevetti d'invenzione (Trattato sui brevetti) (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: it
-version: 2026-04-22
+version: 2026-09-16
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20260422/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20260422-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20260422/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20260916/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20260916-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20260916/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso il 22 dicembre 1978 Approvato dall’Assemblea federale il 4 dicembre 1979[^t-1] Strumenti di ratificazione scambiati il 24 gennaio 1980 Entrato in vigore il 1° aprile 1980
 
-(Stato 22 aprile 2026)
+(Stato 16 settembre 2026)
 
 [^t-1]: RU **1980** 285; FF **1979** II 261 RU **1980** 284
 
@@ -217,7 +217,7 @@ Il presente trattato è parimente applicabile ai brevetti d’invenzione rilasci
 
 <sup>2</sup> Ove occorra, gli Stati contraenti emanano disposizioni d’esecuzione.
 
-[^18-1]: RS **232.149.514.1**
+[^18-1]: [RS 0.232.149.514.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1105)
 
 #### Art. 19
 
@@ -252,4 +252,4 @@ Allegati[^t-2]
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-2]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 22 apr. 2026 (stato: 31 dicembre 2025). Questi all. aggiornati non sono più pubblicati nella RU ([RU 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253), [705](https://fedlex.data.admin.ch/eli/oc/2025/705); [2026 183](https://fedlex.data.admin.ch/eli/oc/2026/183)). Possono essere consultati sul sito Internet: www.gesetze.li &gt; [LR-Nr. 170.551.232](https://www.gesetze.li/chrono/2026127000).
+[^t-2]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 16 set. 2026 (stato: 30 giugno 2026). Questi all. aggiornati non sono più pubblicati nella RU ([RU 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253), [705](https://fedlex.data.admin.ch/eli/oc/2025/705); [2026 183](https://fedlex.data.admin.ch/eli/oc/2026/183), [494](https://fedlex.data.admin.ch/eli/oc/2026/494)). Possono essere consultati sul sito Internet: www.gesetze.li &gt; [LR ‑Nr. 170.551.232](https://www.gesetze.li/chrono/2026314000?search_text=&search_loc=text&lrnr=&lgblid_von=2026&lgblid_bis=).

@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: Vertrag vom 22. Dezember 1978 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über den Schutz der Erfindungspatente (Patentschutzvertrag) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: de
-version: 2026-04-22
+version: 2026-09-16
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20260422/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20260422-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20260422/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20260916/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20260916-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20260916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen am 22. Dezember 1978 Von der Bundesversammlung genehmigt am 4. Dezember 1979[^t-1] Ratifikationsurkunden ausgetauscht am 24. Januar 1980 In Kraft getreten am 1. April 1980
 
-(Stand am 22. April 2026)
+(Stand am 16. September 2026)
 
 [^t-1]: [AS 1980 283](https://fedlex.data.admin.ch/eli/oc/1980/283_284_284)
 
@@ -254,4 +254,4 @@ Anlagen[^t-2]
 <tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-2]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich letztmals auf den 22. April 2026 (Stand: 31. Dezember 2025), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253), [705](https://fedlex.data.admin.ch/eli/oc/2025/705); [2026 183](https://fedlex.data.admin.ch/eli/oc/2026/183)). Die bereinigten Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.232 konsultiert werden.
+[^t-2]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 16. September 2026 (Stand: 30. Juni 2026), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253), [705](https://fedlex.data.admin.ch/eli/oc/2025/705); [2026 183](https://fedlex.data.admin.ch/eli/oc/2026/183), [494](https://fedlex.data.admin.ch/eli/oc/2026/494)). Die bereinigten Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite www.gesetze.li &gt; [LR-Nr. 170.551 . 232](https://www.gesetze.li/chrono/2026314000?search_text=&search_loc=text&lrnr=&lgblid_von=2026&lgblid_bis=) konsultiert werden.
