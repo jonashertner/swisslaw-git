@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale della legge sulle telecomunicazioni (LTC) nell'ambito della sicurezza"
 document: Progetto posto in consultazione
 language: it

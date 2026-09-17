@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Fernmeldegesetzes (FMG) im Bereich Sicherheit
 document: Vernehmlassungsvorlage
 language: de
