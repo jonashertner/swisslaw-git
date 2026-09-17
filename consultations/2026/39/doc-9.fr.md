@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Renforcement de la sécurité des réseaux et protection contre les cybermenaces (révision partielle des ordonnances dans le domaine des télécommunications)
 document: Projet mis en consultation - OST
 language: fr

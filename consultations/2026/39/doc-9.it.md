@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Miglioramento della sicurezza della rete e protezione dalle minacce informatiche (revisione parziale delle ordinanze nel settore delle telecomunicazioni)
 document: Progetto posto in consultazione - OST
 language: it
