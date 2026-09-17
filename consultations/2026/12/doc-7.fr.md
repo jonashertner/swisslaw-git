@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de trois ordonnances relatives à la loi sur les cartels
 document: Projet mis en consultation - OS-LCart
 language: fr

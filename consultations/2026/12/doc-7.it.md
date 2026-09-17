@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale di tre ordinanze concernenti la legge sui cartelli
 document: Progetto posto in consultazione - OS-LCart
 language: it

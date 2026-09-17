@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision von drei Verordnungen zum Kartellgesetz
 document: Vernehmlassungsvorlage - VKU
 language: de
