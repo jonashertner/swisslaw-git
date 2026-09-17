@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.448 é Iv. pa. Caroni. Un pacs pour la Suisse
 document: Projet mis en consultation
 language: fr

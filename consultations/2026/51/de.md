@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.448 s Pa. Iv. Caroni. Einen Pacs für die Schweiz
 document: Vernehmlassungsvorlage
 language: de

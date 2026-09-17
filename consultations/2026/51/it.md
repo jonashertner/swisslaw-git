@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.448 s Iv. pa. Caroni. Un Pacs adeguato alla Svizzera
 document: Progetto posto in consultazione
 language: it
