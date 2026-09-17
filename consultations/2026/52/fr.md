@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.445 n Inscrire le cyberharcèlement dans le code pénal
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.445 n Neuer Straftatbestand Cybermobbing
 document: Vernehmlassungsvorlage
 language: de

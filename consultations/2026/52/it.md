@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 20.445 n Cyberbullismo. Una nuova fattispecie penale
 document: Progetto posto in consultazione
 language: it
