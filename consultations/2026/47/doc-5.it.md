@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione transitoria delle ordinanze del diritto sulle derrate alimentari concernenti i PFAS nelle derrate alimentari e nell’acqua potabile
 document: Progetto posto in consultazione - OITE-UE
 language: it

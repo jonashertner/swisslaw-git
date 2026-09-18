@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision transitoire d’ordonnances du droit sur les denrées alimentaires concernant les PFAS dans les denrées alimentaires et mise à jour des valeurs limites pour l’eau potable
 document: Projet mis en consultation - OPBD
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Befristete Revision von Verordnungen des Lebensmittelrechts betreffend PFAS in Lebensmitteln und Aktualisierung der Höchstwerte im Trinkwasser
 document: Vernehmlassungsvorlage - LGV
 language: de
