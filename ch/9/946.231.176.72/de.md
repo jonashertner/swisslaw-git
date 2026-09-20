@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-09-01
+version: 2026-09-21
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260901/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260901-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260921/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260921-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260921/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 1. September 2026)
+vom 4. März 2022 (Stand am 21. September 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2160,7 +2160,8 @@ Die direkte oder indirekte Erbringung von Dienstleistungen in den folgenden Bere
 - e. IT-Beratung;
 - f. gewerbliche weltraumgestützte Dienstleistungen in Bezug auf Erdbeobachtung und Satellitennavigation;
 - g. Dienstleistungen im Bereich der künstlichen Intelligenz in Bezug auf den Zugang zu Modellen oder Plattformen für deren Training, Feinabstimmung und Inferenz;
-- h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen.
+- h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen;
+- i.[^28e-2] verwaltete Sicherheitsdienste.
 
 <sup>2</sup> Die Verbote nach Absatz 1 Buchstaben a–c und e gelten auch für juristische Personen, Unternehmen oder Organisationen in den in Anhang 6 bezeichneten Gebieten.
 
@@ -2176,7 +2177,7 @@ Die direkte oder indirekte Erbringung von Dienstleistungen in den folgenden Bere
 
 <sup>8</sup>
 
-Die Verbote nach den Absätzen 1, 2, 4 und 5 gelten nicht für:[^28e-2]
+Die Verbote nach den Absätzen 1, 2, 4 und 5 gelten nicht für:[^28e-3]
 
 - a. Dienstleistungen und Software, die zur ausschliesslichen Nutzung durch juristische Personen, Unternehmen oder Organisationen in der Russischen Föderation bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht, dem Recht eines EWR-Mitgliedstaates oder dem Recht eines Partners gegründet oder eingetragen sind;
 - b. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen, sofern die Aktivitäten durchgeführt werden durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten.
@@ -2233,7 +2234,8 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 <sup>16</sup> Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 Buchstabe f bewilligen für Dienstleistungen, die erforderlich sind für die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen.
 
 [^28e-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026, Abs. 1 Bst. f–h in Kraft seit 27. März 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
-[^28e-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 20. Aug. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^28e-2]: Eingefügt durch Ziff. I der V vom 19. Aug. 2026, in Kraft seit 21. Sept. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^28e-3]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 20. Aug. 2026 ([AS 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 
 #### Art. 28f
 

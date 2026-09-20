@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2026-09-01
+version: 2026-09-21
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260901-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260921/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260921-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260921/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 1<sup>er</sup> septembre 2026)
+du 4 mars 2022 (État le 21 septembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -2153,7 +2153,8 @@ La fourniture, directe ou indirecte, des services suivants au gouvernement de la
 - e. des services de conseil informatique;
 - f. des services spatiaux commerciaux d’observation de la Terre ou de navigation par satellite;
 - g. des services d’intelligence artificielle consistant en l’accès à des modèles ou à des plateformes pour leur entraînement, leur réglage fin et leur inférence;
-- h. des services de calcul à haute performance, y compris l’accès au calcul accéléré par processeur graphique, ou des services d’informatique quantique.
+- h. des services de calcul à haute performance, y compris l’accès au calcul accéléré par processeur graphique, ou des services d’informatique quantique;
+- i. [^28e-2] des services de sécurité gérés.
 
 <sup>2</sup> Les interdictions prévues à l’al. 1, let. a à c et e s’appliquent également aux personnes morales, entreprises ou entités dans les territoires désignés à l’annexe 6.
 
@@ -2169,7 +2170,7 @@ La fourniture, directe ou indirecte, des services suivants au gouvernement de la
 
 <sup>8</sup>
 
-Les interdictions prévues aux al. 1, 2, 4 et 5 ne s’appliquent pas:[^28e-2]
+Les interdictions prévues aux al. 1, 2, 4 et 5 ne s’appliquent pas:[^28e-3]
 
 - a. aux services et logiciels destinés à l’usage exclusif de personnes morales, d’entreprises ou d’entités en Fédération de Russie qui sont détenues ou contrôlées exclusivement ou conjointement par des personnes morales, des entreprises ou des entités établies ou constituées selon le droit suisse, le droit d’un État membre de l’EEE ou le droit d’un pays partenaire;
 - b. aux activités humanitaires, telles que l’acheminement d’une assistance ou la facilitation de cet acheminement, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires, ou le transfert de travailleurs humanitaires et de l’aide connexe, ou à des fins d’évacuation, pour autant que ces activités soient réalisées par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires.
@@ -2226,7 +2227,8 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 <sup>16</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations à l’interdiction prévue à l’al. 1, let. f, pour des services nécessaires à la coopération intergouvernementale dans le domaine des programmes spatiaux.
 
 [^28e-1]: Introduit par le ch. I de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 26 fév. 2026, sous réserve de l’al. 1, let. f à h, en vigueur depuis le 27 mars 2026 ([RO 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
-[^28e-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 20 août 2026 ([RO 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^28e-2]: Introduite par le ch. I de l’O du 19 août 2026, en vigueur depuis le 21 sept. 2026 ([RO 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^28e-3]: Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 20 août 2026 ([RO 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 
 #### Art. 28f
 

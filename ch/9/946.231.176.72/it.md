@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-09-01
+version: 2026-09-21
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260901/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260901-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260921/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260921-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260921/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 1° settembre 2026)
+del 4 marzo 2022 (Stato 21 settembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2156,7 +2156,8 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - e. consulenza informatica;
 - f. servizi spaziali commerciali nel campo dell’osservazione della Terra e della navigazione satellitare;
 - g. servizi nel campo dell’intelligenza artificiale (IA) relativi all’accesso a modelli o piattaforme per l’addestramento, la messa a punto e l’inferenza dell’IA;
-- h. servizi di calcolo a elevate prestazioni, compreso l’accesso a tecnologie di calcolo accelerate da processori grafici, e servizi di informatica quantistica.
+- h. servizi di calcolo a elevate prestazioni, compreso l’accesso a tecnologie di calcolo accelerate da processori grafici, e servizi di informatica quantistica;
+- i.[^28e-2] servizi di sicurezza gestiti.
 
 <sup>2</sup> I divieti di cui al capoverso 1 lettere a–c ed e si applicano anche alle persone giuridiche, imprese o organizzazioni nei territori designati di cui all’allegato 6.
 
@@ -2172,7 +2173,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>8</sup>
 
-I divieti di cui ai capoversi 1, 2, 4 e 5 non si applicano:[^28e-2]
+I divieti di cui ai capoversi 1, 2, 4 e 5 non si applicano:[^28e-3]
 
 - a. ai servizi e ai software destinati all’uso esclusivo da parte di persone giuridiche, imprese o organizzazioni nella Federazione Russa, di proprietà o sotto il controllo, esclusivo o congiunto, di una persona giuridica, di un’impresa o di un’organizzazione costituita o registrata secondo il diritto svizzero, di uno Stato membro dello SEE o di un partner;
 - b. alle attività umanitarie, quali la prestazione o l’agevolazione di prestazioni di assistenza, tra cui forniture mediche e di generi alimentari, il trasferimento di operatori umanitari e la relativa assistenza o evacuazione, purché tali attività siano svolte da organismi pubblici o da imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie.
@@ -2229,7 +2230,8 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 <sup>16</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di cui al capoverso 1 lettera f per i servizi necessari per la cooperazione intergovernativa nei programmi spaziali.
 
 [^28e-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026, ad eccezione del cpv. 1 lett. f–h, in vigore dal 27 mar. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
-[^28e-2]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 20 ago. 2026 ([RU 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^28e-2]: Introdotta dalla dalla cifra I dell’O del 19 ago. 2026, in vigore dal 21 set. 2026 ([RU 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
+[^28e-3]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 20 ago. 2026 ([RU 2026 424](https://fedlex.data.admin.ch/eli/oc/2026/424)).
 
 #### Art. 28f
 
