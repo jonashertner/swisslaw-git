@@ -2,22 +2,22 @@
 canton: GR
 number: "500.510"
 title: "Ordinanza della legge d'applicazione della legge federale sui medicamenti e i dispositivi medici"
-short: "Ordinanza della legge d'applicazione della legge sugli agenti terapeutici; OLAdLATer"
+short: "Ordinanza della legge d'applicazione della legge sugli agenti terapeutici, OLAdLATer"
 language: it
 version: 2018-01-01
-corrected: 2018-01-10
+corrected: 2026-09-22
 version_adopted: 2017-06-20
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.510"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2802/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2869/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza della legge d'applicazione della legge federale sui medicamenti e i dispositivi medici
 
-(Ordinanza della legge d'applicazione della legge sugli agenti terapeutici; OLAdLATer)
+(Ordinanza della legge d'applicazione della legge sugli agenti terapeutici, OLAdLATer)
 
 del 21.12.2010 (stato 01.01.2018)
 

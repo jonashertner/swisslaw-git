@@ -2,22 +2,22 @@
 canton: GR
 number: "500.510"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über Arzneimittel und Medizinprodukte
-short: Verordnung zum Einführungsgesetz zum Heilmittelgesetz; VOzEGzHMG
+short: "Verordnung zum Einführungsgesetz zum Heilmittelgesetz, VOzEGzHMG"
 language: de
 version: 2018-01-01
-corrected: 2018-01-10
+corrected: 2026-09-22
 version_adopted: 2017-06-20
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.510"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2802/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2869/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über Arzneimittel und Medizinprodukte
 
-(Verordnung zum Einführungsgesetz zum Heilmittelgesetz; VOzEGzHMG)
+(Verordnung zum Einführungsgesetz zum Heilmittelgesetz, VOzEGzHMG)
 
 Vom 21.12.2010 (Stand 01.01.2018)
 

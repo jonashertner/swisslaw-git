@@ -2,22 +2,22 @@
 canton: GR
 number: "500.510"
 title: Ordinaziun tar la lescha introductiva tar la lescha federala davart ils medicaments ed ils products medicinals
-short: ordinaziun tar la lescha introductiva tar la lescha davart ils products terapeutics; OtLItLPTer
+short: "ordinaziun tar la lescha introductiva tar la lescha davart ils products terapeutics, OtLItLPTer"
 language: rm
 version: 2018-01-01
-corrected: 2018-01-10
+corrected: 2026-09-22
 version_adopted: 2017-06-20
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.510"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2802/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2869/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun tar la lescha introductiva tar la lescha federala davart ils medicaments ed ils products medicinals
 
-(ordinaziun tar la lescha introductiva tar la lescha davart ils products terapeutics; OtLItLPTer)
+(ordinaziun tar la lescha introductiva tar la lescha davart ils products terapeutics, OtLItLPTer)
 
 dals 21-12-2010 (versiun dals 01-01-2018)
 
