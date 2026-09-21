@@ -5,11 +5,12 @@ title: Ordinaziun davart il temp da lavur
 short: OTL
 language: rm
 version: 2023-01-01
+corrected: 2026-09-22
 version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3805/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3285/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -41,11 +42,11 @@ relaschada da la regenza ils 8 da mars 2011
 
 **Instanzas cumpetentas**
 
-<sup>1</sup> Las instanzas cumpetentas èn ils posts da servetsch, la Chanzlia chantunala, ils secretariats generals e la Controlla da finanzas.
+<sup>1</sup> Las instanzas cumpetentas èn ils posts da servetsch, la chanzlia chantunala, ils secretariats dals departaments e la controlla da finanzas.
 
 <sup>2</sup> Las instanzas cumpetentas fixeschan las furmas da temp da lavur tenor ils artitgels 15 ss. ed ils plans da temp da lavur tenor l'agiunta.
 
-<sup>3</sup> Suenter avair tadlà l'Uffizi da persunal pon las instanzas cumpetentas divergiar – en cas singuls – da las disposiziuns da questa ordinaziun e da l'agiunta, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats generals dovran il consentiment dal departament per quest intent.
+<sup>3</sup> Suenter avair tadlà l'uffizi da persunal pon las instanzas cumpetentas divergiar – en cas singuls – da las disposiziuns da questa ordinaziun e da l'agiunta, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
 
 #### Art. 3
 
@@ -99,7 +100,7 @@ relaschada da la regenza ils 8 da mars 2011
 
 <sup>2</sup> Sch'ils basegns da la clientella pretendan quai, ston vegnir extendidas las uras d'avertura. En il cas singul sto la clientella vegnir retschavida er ordaifer las uras d'avertura.
 
-<sup>3</sup> Sche la liquidaziun da las incumbensas dal manaschi permetta quai, po l'instanza cumpetenta restrenscher las uras d'avertura e la cuntanschibladad per telefon. Ils posts da servetsch ed ils secretariats generals dovran il consentiment dal departament per quest intent.
+<sup>3</sup> Sche la liquidaziun da las incumbensas dal manaschi permetta quai, po l'instanza cumpetenta restrenscher las uras d'avertura e la cuntanschibladad per telefon. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
 
 #### Art. 9
 
@@ -232,7 +233,7 @@ relaschada da la regenza ils 8 da mars 2011
 
 **Disposiziuns restrenschentas**
 
-<sup>1</sup> Suenter avair tadlà l'Uffizi da persunal pon las instanzas cumpetentas restrenscher las disposiziuns davart il temp da lavur per onn, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats generals dovran il consentiment dal departament per quest intent.
+<sup>1</sup> Suenter avair tadlà l'uffizi da persunal pon las instanzas cumpetentas restrenscher las disposiziuns davart il temp da lavur per onn, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
 
 ### 3.3. Temp da lavur fix
 
@@ -251,11 +252,5 @@ relaschada da la regenza ils 8 da mars 2011
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. da matg 2011 e remplazza l'ordinaziun davart il temp da lavur dals 12 da december 2006[^23-1].
 
 [^23-1]: CUL 2006, 4867
-
-## A1 Agiunta 1: Plans da temp da lavur
-
-#### Art. A1-1
-
-<sup>1</sup> Plans da temp da lavur:
 
 -

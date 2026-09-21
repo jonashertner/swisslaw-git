@@ -5,11 +5,12 @@ title: Arbeitszeitverordnung
 short: AzV
 language: de
 version: 2023-01-01
+corrected: 2026-09-22
 version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3805/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3285/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -41,11 +42,11 @@ von der Regierung erlassen am 8. März 2011
 
 **Zuständige Instanzen**
 
-<sup>1</sup> Zuständige Instanzen sind die Dienststellen, die Standeskanzlei, die Generalsekretariate und die Finanzkontrolle.
+<sup>1</sup> Zuständige Instanzen sind die Dienststellen, die Standeskanzlei, die Departementssekretariate und die Finanzkontrolle.
 
 <sup>2</sup> Die zuständigen Instanzen legen die Arbeitszeitformen gemäss Artikel 15 ff. und die Arbeitszeitpläne gemäss Anhang fest.
 
-<sup>3</sup> Die zuständigen Instanzen können in Einzelfällen nach Anhören des Personalamts von den Bestimmungen dieser Verordnung und vom Anhang abweichen, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Generalsekretariate bedürfen dazu der Zustimmung des Departements.
+<sup>3</sup> Die zuständigen Instanzen können in Einzelfällen nach Anhören des Personalamts von den Bestimmungen dieser Verordnung und vom Anhang abweichen, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
 
 #### Art. 3
 
@@ -99,7 +100,7 @@ von der Regierung erlassen am 8. März 2011
 
 <sup>2</sup> Wenn es die Kundenbedürfnisse erfordern, sind die Öffnungszeiten zu erweitern. Im Einzelfall sind Kundinnen und Kunden auch ausserhalb der Öffnungszeiten zu empfangen.
 
-<sup>3</sup> Wenn es die betriebliche Aufgabenerledigung zulässt, kann die zuständige Instanz die Öffnungszeiten und die telefonische Erreichbarkeit einschränken. Die Dienststellen und die Generalsekretariate bedürfen dazu der Zustimmung des Departements.
+<sup>3</sup> Wenn es die betriebliche Aufgabenerledigung zulässt, kann die zuständige Instanz die Öffnungszeiten und die telefonische Erreichbarkeit einschränken. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
 
 #### Art. 9
 
@@ -232,7 +233,7 @@ von der Regierung erlassen am 8. März 2011
 
 **Einschränkende Bestimmungen**
 
-<sup>1</sup> Die zuständigen Instanzen können nach Anhören des Personalamts die Bestimmungen über die Jahresarbeitszeit einschränken, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Generalsekretariate bedürfen dazu der Zustimmung des Departements.
+<sup>1</sup> Die zuständigen Instanzen können nach Anhören des Personalamts die Bestimmungen über die Jahresarbeitszeit einschränken, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
 
 ### 3.3. Fixe Arbeitszeit
 
@@ -251,11 +252,5 @@ von der Regierung erlassen am 8. März 2011
 <sup>1</sup> Diese Verordnung tritt am 1. Mai 2011 in Kraft und ersetzt die Arbeitszeitverordnung vom 12. Dezember 2006[^23-1].
 
 [^23-1]: AGS 2006, 4867
-
-## A1 Anhang 1: Arbeitszeitpläne
-
-#### Art. A1-1
-
-<sup>1</sup> Arbeitszeitpläne:
 
 -

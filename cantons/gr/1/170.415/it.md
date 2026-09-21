@@ -5,11 +5,12 @@ title: "Ordinanza sull'orario di lavoro"
 short: OOL
 language: it
 version: 2023-01-01
+corrected: 2026-09-22
 version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3805/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3285/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -41,11 +42,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 **Autorità competenti**
 
-<sup>1</sup> Le autorità competenti sono i servizi, la Cancelleria dello Stato, i segretariati generali e il Controllo delle finanze.
+<sup>1</sup> Le autorità competenti sono i servizi, la Cancelleria dello Stato, i segretariati dei Dipartimenti e il Controllo delle finanze.
 
 <sup>2</sup> Le autorità competenti stabiliscono le forme di orario di lavoro conformemente all'articolo 15 segg. e i modelli di orario di lavoro conformemente all'appendice.
 
-<sup>3</sup> Sentito l'Ufficio del personale, le autorità competenti possono, in singoli casi, derogare dalle disposizioni della presente ordinanza e dall'appendice, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati generali necessitano del consenso del Dipartimento.
+<sup>3</sup> Sentito l'Ufficio del personale, le autorità competenti possono, in singoli casi, derogare dalle disposizioni della presente ordinanza e dall'appendice, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento.
 
 #### Art. 3
 
@@ -99,7 +100,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 <sup>2</sup> Se le esigenze dell'utenza lo richiedono, gli orari di apertura vanno estesi. In singoli casi, gli utenti devono essere ricevuti anche al di fuori degli orari di apertura.
 
-<sup>3</sup> Se le attività aziendali lo permettono, l'autorità competente può limitare gli orari di apertura e la reperibilità telefonica. I servizi e i segretariati generali necessitano del consenso del Dipartimento.
+<sup>3</sup> Se le attività aziendali lo permettono, l'autorità competente può limitare gli orari di apertura e la reperibilità telefonica. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento.
 
 #### Art. 9
 
@@ -232,7 +233,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 **Restrizioni**
 
-<sup>1</sup> Sentito l'Ufficio del personale, le autorità competenti possono limitare le disposizioni relative all'orario di lavoro annuale, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati generali necessitano del consenso del Dipartimento.
+<sup>1</sup> Sentito l'Ufficio del personale, le autorità competenti possono limitare le disposizioni relative all'orario di lavoro annuale, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento
 
 ### 3.3. Orario di lavoro fisso
 
@@ -251,11 +252,5 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 <sup>1</sup> La presente ordinanza entra in vigore il 1° maggio 2011 e sostituisce l'ordinanza sull'orario di lavoro del 12 dicembre 2006[^23-1].
 
 [^23-1]: AGS 2006, 4867
-
-## A1 Appendice 1: Modelli di orario di lavoro
-
-#### Art. A1-1
-
-<sup>1</sup> Modelli di orario di lavoro:
 
 -
