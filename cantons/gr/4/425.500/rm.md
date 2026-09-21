@@ -2,22 +2,22 @@
 canton: GR
 number: "425.500"
 title: Ordinaziun davart il diever e las taxas da las scolas medias cun purtaders chantunals
-short: ODT da la las scolas medias chantunalas
+short: ODT da las scolas medias chantunalas
 language: rm
 version: 2022-08-01
-corrected: 2022-08-16
+corrected: 2026-09-22
 version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3237/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart il diever e las taxas da las scolas medias cun purtaders chantunals
 
-(ODT da la las scolas medias chantunalas)
+(ODT da las scolas medias chantunalas)
 
 dals 01-02-2022 (versiun dals 01-08-2022)
 

@@ -5,12 +5,12 @@ title: Benützungs- und Gebührenverordnung für die Mittelschulen mit kantonale
 short: BGV kantonale Mittelschulen
 language: de
 version: 2022-08-01
-corrected: 2022-08-16
+corrected: 2026-09-22
 version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3237/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
