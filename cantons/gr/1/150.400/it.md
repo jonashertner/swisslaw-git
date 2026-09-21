@@ -5,11 +5,12 @@ title: "Legge sull'elezione del Gran Consiglio"
 short: LEGC
 language: it
 version: 2026-01-01
+corrected: 2026-09-22
 version_adopted: 2025-04-22
 adopted: 2021-02-16
 in_force: 2021-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3754/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3567/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -393,56 +394,5 @@ decide:
 <sup>2</sup> Se una supplenza tramite subentro non è possibile, essa viene garantita dai firmatari della proposta di candidatura (art. 10) nell'ordine in cui hanno firmato.
 
 <sup>3</sup> La supplenza deve essere comunicata il prima possibile al comitato regionale competente, il quale a sua volta informa immediatamente la Segreteria del Gran Consiglio.
-
-## A1 Allegato 1: Suddivisione in circondari elettorali e attribuzione dei comuni ai circondari elettorali (art. 2 cpv. 1 e cpv. 2)
-
-#### Art. A1-1
-
-<sup>1</sup> I comuni sono attribuiti ai circondari elettorali come segue[^A11-1]:
-
-<table>
-<tr><th>Circondario elettorale</th><th>Comuni</th></tr>
-<tr><td>Alvaschein</td><td>Albula / Alvra, Vaz / Obervaz</td></tr>
-<tr><td>Avers</td><td>Avers</td></tr>
-<tr><td>Belfort</td><td>Lantsch / Lenz, Schmitten (GR)</td></tr>
-<tr><td>Bergün</td><td>Bergün Filisur</td></tr>
-<tr><td>Bregaglia</td><td>Bregaglia</td></tr>
-<tr><td>Breil / Brigels</td><td>Breil / Brigels</td></tr>
-<tr><td>Brusio</td><td>Brusio</td></tr>
-<tr><td>Calanca</td><td>Buseno, Calanca, Castaneda, Rossa, Sta. Maria i.C.</td></tr>
-<tr><td>Coira</td><td>Coira</td></tr>
-<tr><td>Churwalden</td><td>Churwalden</td></tr>
-<tr><td>Davos</td><td>Davos</td></tr>
-<tr><td>Disentis</td><td>Disentis / Mustér, Medel (Lucmagn), Sumvitg, Trun, Tujetsch</td></tr>
-<tr><td>Domleschg</td><td>Domleschg, Fürstenau, Rothenbrunnen, Scharans, Sils im Domleschg</td></tr>
-<tr><td>Fünf Dörfer</td><td>Landquart, Trimmis, Untervaz, Zizers</td></tr>
-<tr><td>Ilanz</td><td>Falera, Ilanz / Glion, Laax, Obersaxen Mundaun, Sagogn, Schluein</td></tr>
-<tr><td>Jenaz</td><td>Fideris, Furna, Jenaz</td></tr>
-<tr><td>Klosters</td><td>Klosters</td></tr>
-<tr><td>Küblis</td><td>Conters im Prättigau, Küblis</td></tr>
-<tr><td>Lumnezia / Lugnez</td><td>Lumnezia, Vals</td></tr>
-<tr><td>Luzein</td><td>Luzein</td></tr>
-<tr><td>Maienfeld</td><td>Fläsch, Jenins, Maienfeld, Malans</td></tr>
-<tr><td>Mesocco</td><td>Lostallo, Mesocco, Soazza</td></tr>
-<tr><td>Engadina Alta</td><td>Bever, Celerina / Schlarigna, Madulain, Pontresina, La Punt Chamues-ch, Samedan, St. Moritz, S-chanf, Sils im Engadin / Segl, Silvaplana, Zuoz</td></tr>
-<tr><td>Poschiavo</td><td>Poschiavo</td></tr>
-<tr><td>Ramosch</td><td>Samnaun, Valsot</td></tr>
-<tr><td>Rhäzüns</td><td>Bonaduz, Domat / Ems, Rhäzüns</td></tr>
-<tr><td>Rheinwald</td><td>Rheinwald, Sufers</td></tr>
-<tr><td>Roveredo</td><td>Cama, Grono, Roveredo (GR), San Vittore</td></tr>
-<tr><td>Safien</td><td>Safiental</td></tr>
-<tr><td>Schams</td><td>Andeer, Ferrera, Muntogna da Schons, Rongellen, Zillis-Reischen</td></tr>
-<tr><td>Schanfigg</td><td>Arosa</td></tr>
-<tr><td>Schiers</td><td>Grüsch, Schiers</td></tr>
-<tr><td>Seewis</td><td>Seewis im Prättigau</td></tr>
-<tr><td>Suot Tasna</td><td>Scuol</td></tr>
-<tr><td>Sur Tasna</td><td>Zernez</td></tr>
-<tr><td>Surses</td><td>Surses</td></tr>
-<tr><td>Thusis</td><td>Cazis, Flerden, Masein, Thusis, Tschappina, Urmein</td></tr>
-<tr><td>Trins</td><td>Felsberg, Flims, Tamins, Trin</td></tr>
-<tr><td>Val Müstair</td><td>Val Müstair</td></tr>
-</table>
-
-[^A11-1]: Lo stato e le designazioni dei comuni vengono adeguati ogni anno in modo informale in base alle aggregazioni di comuni.
 
 2021-032

@@ -5,11 +5,12 @@ title: "Lescha davart l'elecziun dal Cussegl grond"
 short: LECG
 language: rm
 version: 2026-01-01
+corrected: 2026-09-22
 version_adopted: 2025-04-22
 adopted: 2021-02-16
 in_force: 2021-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3754/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3567/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -393,56 +394,5 @@ concluda:
 <sup>2</sup> Sch'ina substituziun n'è betg pussaivla tras in remplazzament, succeda quella tras las sutsegnadras ed ils sutsegnaders da la proposta electorala (art. 10) en la successiun da las suttascripziuns.
 
 <sup>3</sup> La suppleanta u il suppleant sto vegnir communitgà uschè baud sco pussaivel a la cumissiun regiunala cumpetenta, che infurmescha da sia vart immediatamain il Secretariat dal Cussegl grond.
-
-## A1 Agiunta 1: Divisiun dals circuls electorals ed attribuziun da las vischnancas als circuls electorals (art. 2 al. 1 ed al. 2)
-
-#### Art. A1-1
-
-<sup>1</sup> Las vischnancas èn attribuidas sco suonda als circuls electorals [^A11-1]:
-
-<table>
-<tr><th>Circul electoral</th><th>Vischnancas</th></tr>
-<tr><td>Alvaschagn</td><td>Alvra, Vaz</td></tr>
-<tr><td>Avras</td><td>Avras</td></tr>
-<tr><td>Belfort</td><td>Lantsch, Schmitten</td></tr>
-<tr><td>Bravuogn</td><td>Bravuogn Filisur</td></tr>
-<tr><td>Bregaglia</td><td>Bregaglia</td></tr>
-<tr><td>Breil</td><td>Breil</td></tr>
-<tr><td>Brusio</td><td>Brusio</td></tr>
-<tr><td>Calanca</td><td>Buseno, Calanca, Castaneda, Rossa, Sta. Maria i.C.</td></tr>
-<tr><td>Cuira</td><td>Cuira</td></tr>
-<tr><td>Churwalden</td><td>Churwalden</td></tr>
-<tr><td>Tavau</td><td>Tavau</td></tr>
-<tr><td>Cadi</td><td>Mustér, Medel (Lucmagn), Sumvitg, Trun, Tujetsch</td></tr>
-<tr><td>Tumleastga</td><td>Farschno, Giuvaulta, Scharàns, Seglias, Tumleastga</td></tr>
-<tr><td>Tschintg Vitgs</td><td>Landquart, Trimmis, Vaz Sut, Zizers</td></tr>
-<tr><td>Foppa</td><td>Falera, Glion, Laax, Sagogn, Schluein, Sursaissa Mundaun</td></tr>
-<tr><td>Jenaz</td><td>Fideris, Furna, Jenaz</td></tr>
-<tr><td>Claustra</td><td>Claustra</td></tr>
-<tr><td>Küblis</td><td>Cunter en il Partenz, Küblis</td></tr>
-<tr><td>Lumnezia</td><td>Lumnezia, Val S. Pieder</td></tr>
-<tr><td>Luzein</td><td>Luzein</td></tr>
-<tr><td>Maiavilla</td><td>Fläsch, Jenins, Maiavilla, Malans</td></tr>
-<tr><td>Mesauc</td><td>Lostallo, Mesauc, Soazza</td></tr>
-<tr><td>Engiadin'Ota</td><td>Bever, Madulain, La Punt Chamues-ch, Puntraschigna, Samedan, San Murezzan, S-chanf, Schlarigna, Segl, Silvaplauna, Zuoz</td></tr>
-<tr><td>Puschlav</td><td>Puschlav</td></tr>
-<tr><td>Ramosch</td><td>Samignun, Valsot</td></tr>
-<tr><td>Razén</td><td>Domat, Panaduz, Razén</td></tr>
-<tr><td>Valragn</td><td>Valragn, Sufers</td></tr>
-<tr><td>Roveredo</td><td>Cama, Grono, Roveredo, San Vittore</td></tr>
-<tr><td>Stussavgia</td><td>Val Stussavgia</td></tr>
-<tr><td>Schons</td><td>Andeer, Farera, Muntogna da Schons, Runtgaglia, Ziràn-Reschen</td></tr>
-<tr><td>Scanvetg</td><td>Arosa</td></tr>
-<tr><td>Schiers</td><td>Grüsch, Schiers</td></tr>
-<tr><td>Seewis</td><td>Seewis</td></tr>
-<tr><td>Suot Tasna</td><td>Scuol</td></tr>
-<tr><td>Sur Tasna</td><td>Zernez</td></tr>
-<tr><td>Surses</td><td>Surses</td></tr>
-<tr><td>Tusaun</td><td>Cazas, Flearda, Masagn, Tschappina, Tusaun, Urmagn</td></tr>
-<tr><td>Trin</td><td>Favugn, Flem, Trin, Tumein</td></tr>
-<tr><td>Val Müstair</td><td>Val Müstair</td></tr>
-</table>
-
-[^A11-1]: Il stadi e las designaziuns da las vischnancas vegnan adattads mintga onn nunformalmain confurm a las fusiuns da vischnancas.
 
 2021-032
