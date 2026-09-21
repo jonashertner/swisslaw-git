@@ -5,11 +5,12 @@ title: "Ordinanza cantonale sulla protezione dell'ambiente"
 short: OCPAmb
 language: it
 version: 2025-01-01
+corrected: 2026-09-22
 version_adopted: 2023-04-04
 adopted: 2002-08-13
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3862/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3454/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -32,9 +33,9 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 **Competenza**
 
-<sup>1</sup> Il Dipartimento competente per la protezione dell'ambiente è il Dipartimento formazione, ambiente e cultura.
+<sup>1</sup> Il Dipartimento competente per la protezione dell'ambiente è il Dipartimento dell'educazione, cultura e protezione dell'ambiente.
 
-<sup>2</sup> Il Servizio specializzato per la protezione dell'ambiente è l'Ufficio dell'ambiente.
+<sup>2</sup> Il Servizio specializzato per la protezione dell'ambiente è l'Ufficio per la natura e l'ambiente.
 
 #### Art. 2
 
@@ -203,7 +204,7 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 **Imballaggi per bevande**
 
-<sup>1</sup> L'Ufficio veterinario e alimentare attua gli articoli 4 - 6 dell'ordinanza sugli imballaggi per bevande.
+<sup>1</sup> L'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali attua gli articoli 4 - 6 dell'ordinanza sugli imballaggi per bevande.
 
 #### Art. 18
 
@@ -436,7 +437,7 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 **Obbligo di denuncia**
 
-<sup>1</sup> Le collaboratrici e i collaboratori del Servizio devono denunciare all'Ufficio dell'ambiente tutte le infrazioni alla legislazione sulla protezione dell'ambiente e sulla protezione delle acque di cui vengono a conoscenza nell'esercizio della loro funzione ufficiale. Le infrazioni punibili devono essere denunciate alla Polizia cantonale.
+<sup>1</sup> Le collaboratrici e i collaboratori del Servizio devono denunciare all'Ufficio per la natura e l'ambiente tutte le infrazioni alla legislazione sulla protezione dell'ambiente e sulla protezione delle acque di cui vengono a conoscenza nell'esercizio della loro funzione ufficiale. Le infrazioni punibili devono essere denunciate alla Polizia cantonale.
 
 ## 8. Disposizioni finali
 
@@ -483,82 +484,5 @@ visto l'art. 57 della legge d'introduzione alla legge federale sulla protezione 
 
 [^40-1]: Posta in vigore il 1° set. 2002 con DG del 13 ago. 2002
 [^40-2]: CSC [820.100](https://www.gr-lex.gr.ch/data/820.100/it)
-
-## A1 Appendice 1: Impianti artigianali e industriali (art. 4 cpv. 1 lett. f)
-
-#### Art. A1-1
-
-<sup>1</sup> L'elenco seguente non è esaustivo. Anche altri impianti dai quali ci si devono attendere emissioni simili per genere e quantità, necessitano dell'approvazione del Servizio e devono essere notificati a quest'ultimo:
-
-- a) Industria alimentare:
-  - 1\. Affumicatoio per carne
-  - 2\. Impianto di torrefazione
-- b) Agricoltura:
-  - 1\. Essiccatoio dell'erba
-- c) Industria tessile:
-  - 1\. Tintoria
-  - 2\. Conceria
-- d) Lavorazione del legno:
-  - 1\. Segheria
-  - 2\. Impianto di piallatura
-  - 3\. Falegnameria
-  - 4\. Officina di verniciatura e di lucidatura
-- e) Lavorazione di materie sintetiche:
-  - 1\. Impianto per rivestimento a polverizzazione
-  - 2\. Impianto di stampaggio ad iniezione
-  - 3\. Impianto per la produzione di materie sintetiche o di articoli di gomma
-- f) Estrazione e lavorazione di pietre e terra:
-  - 1\. Cava di pietra
-  - 2\. Impianto per la ghiaia
-  - 3\. Impianto per la produzione di cemento, calce e gesso
-  - 4\. Impianto per la miscelazione di asfalto
-  - 5\. Fabbrica di laterizi
-  - 6\. Impianto per il trattamento di materiale
-- g) Industria metallica:
-  - 1\. Fucina
-  - 2\. Officina di zincatura
-  - 3\. Impianto di galvanizzazione
-  - 4\. Officina del fabbro
-  - 5\. Fonderia
-  - 6\. Impianto di sabbiatura
-- h) Settore edilizio:
-  - 1\. Impresa edile con parco macchine e attrezzature
-  - 2\. Impresa di pittura
-  - 3\. Impresa di sverniciatura
-  - 4\. Cantieri di grandi dimensioni
-- i) Energia:
-  - 1\. Impianti per la produzione di biogas, gas di depurazione e simili
-  - 2\. Impianti per lo sfruttamento energetico di biogas, gas di depurazione e simili
-- j) Smaltimento dei rifiuti:
-  - 1\. Impianti di incenerimento dei rifiuti
-- k) Commercio:
-  - 1\. Stabilimenti per il commercio di nafta, diesel, benzina o di gas liquido
-  - 2\. Stazione di servizio
-  - 3\. Impianti per il trasbordo di merci polverose
-- l) Servizi:
-  - 1\. Forno per la pizza
-  - 2\. Officine per la verniciatura a spruzzo
-  - 3\. Autofficina
-  - 4\. Officina per la riparazione di altri veicoli a motore o altre macchine
-  - 5\. Lavanderia chimica
-  - 6\. Pulizia cisterne
-  - 7\. Crematorio
-  - 8\. Ospedale
-
-## A2 Appendice 2: Impianti di allevamento (art. 4 cpv. 1 lett. g)
-
-#### Art. A2-1
-
-**All'interno delle zone edificabili**
-
-<sup>1</sup> Sono considerati impianti di allevamento che causano un considerevole inquinamento dell'aria gli impianti di allevamento con una capacità per un numero di animali totale tale da causare un valore di immissione di odori superiore a 4.
-
-#### Art. A2-2
-
-**Al di fuori delle zone edificabili**
-
-<sup>1</sup> Sono considerati impianti di allevamento che causano un considerevole inquinamento dell'aria gli impianti di allevamento con una capacità per un numero di animali totale tale da causare un valore di immissione di odori superiore a 6.
-
-<sup>2</sup> Secondo le vigenti raccomandazioni della Stazione federale di ricerche in economia e tecnologia agricole di Tänikon sulle distanze minime da aziende di allevamento, l'immissione di odori viene misurata in base al numero di animali e dei fattori di immissione di odori per le diverse specie animali.
 
 -

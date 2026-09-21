@@ -5,11 +5,12 @@ title: "Ordinaziun chantunala davart la protecziun da l'ambient"
 short: OCPAmb
 language: rm
 version: 2025-01-01
+corrected: 2026-09-22
 version_adopted: 2023-04-04
 adopted: 2002-08-13
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3862/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -32,9 +33,9 @@ relaschada da la regenza ils 13 d'avust 2002
 
 **Cumpetenza**
 
-<sup>1</sup> Il departament cumpetent per la protecziun da l'ambient è il Departament da furmaziun, ambient e cultura.
+<sup>1</sup> Il departament cumpetent per la protecziun da l'ambient è il departament d'educaziun, cultura e protecziun da l'ambient.
 
-<sup>2</sup> Il post spezialisà per la protecziun da l'ambient è l'Uffizi d'ambient.
+<sup>2</sup> Il post spezialisà per la protecziun da l'ambient è l'uffizi per la natira e l'ambient.
 
 #### Art. 2
 
@@ -203,7 +204,7 @@ relaschada da la regenza ils 13 d'avust 2002
 
 **Emballadis da bavrondas**
 
-<sup>1</sup> L'Uffizi da veterinari e victualias exequescha ils artitgels 4 fin 6 da l'Ordinaziun davart ils emballadis per bavrondas.
+<sup>1</sup> L'uffizi per la segirezza da victualias e per la sanadad d'animals exequescha ils artitgels 4 fin 6 da l'ordinaziun davart ils emballadis per bavrondas.
 
 #### Art. 18
 
@@ -436,7 +437,7 @@ relaschada da la regenza ils 13 d'avust 2002
 
 **Obligaziun d'annunzia**
 
-<sup>1</sup> Las collavuraturas ed ils collavuraturs dal post spezialisà ston annunziar a l'Uffizi d'ambient tut las cuntravenziuns cunter la legislaziun davart la protecziun da l'ambient e davart la protecziun da las auas, da las qualas ellas u els vegnan a savair tar lur activitad uffiziala. Las cuntravenziuns chastiablas ston vegnir annunziadas a la Polizia chantunala.
+<sup>1</sup> Las collavuraturas ed ils collavuraturs dal post spezialisà ston annunziar a l'uffizi per la natira e l'ambient tut las cuntravenziuns cunter la legislaziun davart la protecziun da l'ambient e davart la protecziun da las auas, da las qualas ellas u els vegnan a savair tar lur activitad uffiziala. Las cuntravenziuns chastiablas ston vegnir annunziadas a la polizia chantunala.
 
 ## 8. Disposiziuns finalas
 
@@ -483,82 +484,5 @@ relaschada da la regenza ils 13 d'avust 2002
 
 [^40-1]: mess en vigur cun CR dals 13 d'avust 2002 per il 1. da settember 2002
 [^40-2]: DG [820.100](https://www.gr-lex.gr.ch/data/820.100/rm)
-
-## A1 Agiunta 1: Stabiliments da mastergn e d'industria (art. 4 al. 1 lit. f)
-
-#### Art. A1-1
-
-<sup>1</sup> La suandanta enumeraziun n'è betg definitiva. Ulteriurs stabiliments, dals quals ins sto spetgar emissiuns d'ina sumeglianta sort e d'ina sumeglianta dimensiun, dovran er il consentiment dal post spezialisà e ston er vegnir annunziads a quel:
-
-- a) industria d'aliments:
-  - 1\. stanza da fimentar charn
-  - 2\. brassaria da café
-- b) agricultura:
-  - 1\. stanza per setgar
-- c) industria da textilias:
-  - 1\. tenscharia
-  - 2\. gerbaria
-- d) elavuraziun da laina:
-  - 1\. resgia
-  - 2\. ufficina da splanar
-  - 3\. scrinaria
-  - 4\. ufficinas d'empizzida e da polier
-- e) elavuraziun da materia artifiziala:
-  - 1\. ufficina da surtratgas da pulvra
-  - 2\. ufficinas d'injecziuns da plastic
-  - 3\. stabiliment per producir materia artifiziala u rauba da gumma
-- f) demontascha ed elavuraziun da crappa e da terras:
-  - 1\. chava da crappa
-  - 2\. implant da gera
-  - 3\. implant da cement, da chaltschina e da gip
-  - 4\. stabiliment per maschadar asfalt
-  - 5\. fabrica da quadrels
-  - 6\. stabiliment per elavurar material
-- g) industria da metal:
-  - 1\. fuschina
-  - 2\. ufficina per zincar
-  - 3\. manaschi da galvanisar
-  - 4\. serraria
-  - 5\. cularia
-  - 6\. stabiliment da sablunar
-- h) industria da construcziun:
-  - 1\. interpresa da construcziun cun parc da guaffens
-  - 2\. manaschi da pictura
-  - 3\. ufficina da bugadar
-  - 4\. plazzas da construcziun pli grondas
-- i) energia:
-  - 1\. stabiliments per producir biogas, gas da serenera e raubas sumegliantas
-  - 2\. stabiliments per l'utilisaziun energetica da biogas, da gas da serenera e raubas sumegliantas
-- j) dismessa da rument:
-  - 1\. stabiliment per arder ruments
-- k) commerzi:
-  - 1\. stabiliments per il commerzi cun ieli da stgaudar, cun diesel, cun benzin u cun gas liquid
-  - 2\. tancadi
-  - 3\. stabiliments per transtgargiar rauba che fa pulvra
-- l) servetschs:
-  - 1\. furn da pizza
-  - 2\. indrizs da sprizzar
-  - 3\. ufficinas da reparar autos
-  - 4\. ufficinas da reparar auters vehichels u maschinas
-  - 5\. lavandaria da textilias
-  - 6\. nettegiament da tancs
-  - 7\. crematori
-  - 8\. ospital
-
-## A2 Agiunta 2: Stabiliments per la tratga d'animals (art. 4 al. 1 lit. g)
-
-#### Art. A2-1
-
-**Entaifer las zonas da construcziun**
-
-<sup>1</sup> Sco stabiliments per la tratga d'animals che chaschunan impestaziuns considerablas da l'aria valan stabiliments per la tratga d'animals cun ina capacitad per uschè blers animals che quels chaschunan ensemen ina immissiun d'odurs (IO) da dapli che 4.
-
-#### Art. A2-2
-
-**Ordaifer las zonas da construcziun**
-
-<sup>1</sup> Sco stabiliments per la tratga d'animals che chaschunan impestaziuns considerablas da l'aria valan stabiliments per la tratga d'animals cun ina capacitad per uschè blers animals che quels chaschunan ensemen ina immissiun d'odurs (IO) da dapli che 6.
-
-<sup>2</sup> L'immissiun d'odurs (IO) vegn eruida tenor las recumandaziuns vertentas davart distanzas minimalas da manaschis per la tratga d'animals da l'institut federal da perscrutaziun per agricultura e tecnica agrara, Tänikon, sin basa da la quantitad d'animals e sin basa dals facturs da l'immissiun d'odurs per differentas spezias d'animals.
 
 -
