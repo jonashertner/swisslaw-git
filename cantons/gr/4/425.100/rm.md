@@ -5,11 +5,12 @@ title: "Ordinaziun davart l'organisaziun da las scolas medias purtadas dal chant
 short: "Ordinaziun davart l'organisaziun da las scolas medias, OOSM"
 language: rm
 version: 2024-08-01
+corrected: 2026-09-22
 version_adopted: 2024-04-29
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3817/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3430/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -66,7 +67,7 @@ relaschada da la Regenza ils 22 da favrer 2022
 
 <sup>2</sup> Il grad d'occupaziun per la direcziun da la scola sco er la cumposiziun da la direcziun da la scola da mintga scola media purtada dal chantun èn reglads en l'agiunta 1.
 
-<sup>3</sup> Las commembras ed ils commembers da la direcziun da la scola endateschan lur temp da lavur tenor la legislaziun chantunala dal persunal. Tut las lavurs en connex cun l'instrucziun, la represchentaziun da la scola en gruppas da lavur ed en cumissiuns (regiunalas e surregiunalas) sco er l'adempliment d'incumbensas per l'Uffizi da scolas medias e furmaziun terziara (uffizi) èn parts integralas dal pensum da lavur.
+<sup>3</sup> Las commembras ed ils commembers da la direcziun da la scola endateschan lur temp da lavur tenor la legislaziun chantunala dal persunal. Tut las lavurs en connex cun l'instrucziun, la represchentaziun da la scola en gruppas da lavur ed en cumissiuns (regiunalas e surregiunalas) sco er l'adempliment d'incumbensas per l'Uffizi per la furmaziun media-superiura (uffizi) èn parts integralas dal pensum da lavur.
 
 #### Art. 5
 
@@ -337,64 +338,5 @@ relaschada da la Regenza ils 22 da favrer 2022
 <sup>1</sup> Per l'execuziun da questa ordinaziun relascha il departament in urden da basa.
 
 <sup>2</sup> L'execuziun è chaussa da l'uffizi.
-
-## A1 Agiunta 1: Disposiziuns per la Scola chantunala grischuna (SCG) sco scola media chantunala situada a Cuira (art. 4 al. 2)
-
-#### Art. A1-1
-
-**Purschida da scolaziun**
-
-<sup>1</sup> La SCG maina:
-
-- a) in gimnasi da 6 onns ed in gimnasi da 4 onns
-- b) ina scola media spezialisada cun ils champs professiunals sanadad, lavur sociala sco er pedagogia ed è il lieu da scola per la maturitad spezialisada en lavur sociala
-- c) ina scola media commerziala cun maturitad professiunala
-- d) ina scola media d'informatica cun maturitad professiunala
-
-<sup>2</sup> L'instrucziun en las linguas chantunalas tudestg, rumantsch e talian vegn promovida spezialmain. Al gimnasi ston vegnir purschidas scolaziuns da maturitad bilingua en las linguas chantunalas tenor las disposiziuns da la Cumissiun svizra da maturitad (CSM).
-
-<sup>3</sup> L'instrucziun d'immersiun cun englais po vegnir purschida mo en ils roms d'accent ed en ils roms cumplementars.
-
-#### Art. A1-2
-
-**Commembras e commembers da la direcziun da la scola**
-
-<sup>1</sup> Commembras e commembers da la direcziun da la SCG èn la rectura u il rectur, la conrectura u il conrectur sco er las prorecturas ed ils prorecturs.
-
-<sup>2</sup> Il grad d'occupaziun – inclusiv la part d'instrucziun – importa per:
-
-- a) la rectura u il rectur 100 pertschient d'ina plazza
-- b) la conrectura u il conrectur 100 pertschient d'ina plazza
-- c) las prorecturas u ils prorecturs totalmain 300 pertschient d'ina plazza
-
-#### Art. A1-3
-
-**Tavla da lecziuns e plan d'instrucziun**
-
-<sup>1</sup> La tavla da lecziuns ed il plan d'instrucziun da la SCG a Cuira furman la referenza per las tavlas da lecziuns e per ils plans d'instrucziun correspundents da las ulteriuras scolas medias chantunalas sco er da las scolas medias privatas.
-
-<sup>2</sup> Per realisar al gimnasi ils roms d'accent (senza linguas naziunalas) sco er ils roms d'elecziun / roms facultativs da tut las partiziuns èn necessarias almain 12 annunzias per rom. Per realisar ils roms d'accent en las linguas franzos, talian e rumantsch èn necessarias almain 6 annunzias.
-
-<sup>3</sup> Per realisar al gimnasi ils roms cumplementars èn necessarias almain 14 annunzias per rom.
-
-#### Art. A1-4
-
-**Distgargia per persunas d'instrucziun cun incumbensas spezialas**
-
-<sup>1</sup> La rectura u il rectur po conceder las suandantas distgargias:
-
-- a) per la planisaziun dals uraris tut en tut maximalmain 7 lecziuns per emna ed onn
-- b) per la direcziun dals examens d'admissiun maximalmain 6 lecziuns per emna ed onn
-- c) per la direcziun dal manaschi dals stabiliments da sport maximalmain 7 lecziuns per emna ed onn
-
-<sup>2</sup> Ulteriuras distgargias sur 1 lecziun per emna ed onn ston vegnir approvadas da l'uffizi.
-
-#### Art. A1-5
-
-**Adattaziuns dals pensums**
-
-<sup>1</sup> La noziun «adattaziuns dals pensums» vegn duvrada da la SCG mo per in pensum da lavur da l'onn da scola current u da l'onn da scola passà che vegn midà posteriuramain.
-
-<sup>2</sup> La noziun «incumbensas spezialas» sa referescha a l'indemnisaziun da prestaziuns durant il proxim onn da scola.
 
 2022-011
