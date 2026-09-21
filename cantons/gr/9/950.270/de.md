@@ -5,11 +5,12 @@ title: Verordnung über die Förderung von Wohnraum
 short: VFW
 language: de
 version: 2026-01-01
+corrected: 2026-09-22
 version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/950.270"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3755/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3621/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -200,50 +201,5 @@ von der Regierung erlassen am 16. Dezember 2025
 <sup>1</sup> Erfolgte der erstinstanzliche Förderentscheid vor dem Inkrafttreten des Gesetzes[^19-1] und dieser Verordnung, so bleibt das bisherige Recht anwendbar.
 
 [^19-1]: BR [950.250](https://www.gr-lex.gr.ch/data/950.250/de)
-
-## A1 Anhang 1: Grösse der Wohnbaute, minimales Raumprogramm und Kostengrenzen (Art. 11 und Art. 12)
-
-#### Art. A1-1
-
-**Grösse der Wohnbaute und minimales Raumprogramm gemäss Art. 11**
-
-<sup>1</sup> In Mitberücksichtigung der Verordnung über Nettowohnflächen und Raumprogramm sowie über Ausstattung von Küche und Hygienebereich (SR [843.142.3](https://db.clex.ch/link/Bund/843.142.3/de)) werden folgende Mindestflächen festgelegt (Zimmerzahl ohne Küche, Bad und WC):
-
-<table>
-<tr><th>Zimmer</th><th>Minimale Nettowohnfläche</th><th>Gemeinschaftsbereich</th><th>Schlaf- und Arbeitsräume</th><th>Küche</th><th>Bad, WC</th><th>Separates WC</th><th>Restflächen</th></tr>
-<tr><td>2</td><td>50 m²</td><td>18 m²</td><td>14 m²</td><td>5 m²</td><td>4 m²</td><td>-</td><td>9 m²</td></tr>
-<tr><td>3</td><td>65 m²</td><td>20 m²</td><td>26 m²</td><td>5.5 m²</td><td>4.5 m²</td><td>-</td><td>9 m²</td></tr>
-<tr><td>4</td><td>85 m²</td><td>22 m²</td><td>38 m²</td><td>6 m²</td><td>5.5 m²</td><td>1.5 m²</td><td>12 m²</td></tr>
-<tr><td>5</td><td>105 m²</td><td>24 m²</td><td>50 m²</td><td>6.5 m²</td><td>6 m²</td><td>1.5 m²</td><td>17 m²</td></tr>
-<tr><td>6</td><td>125 m²</td><td>26 m²</td><td>62 m²</td><td>7 m²</td><td>6.5 m²</td><td>1.5 m²</td><td>22 m²</td></tr>
-</table>
-
-#### Art. A1-2
-
-**Kostengrenzen gemäss Art. 12**
-
-<sup>1</sup> Die Grenzen für die Anlagekosten ohne Grundstückskosten gemäss schweizerischem Baupreisindex, Hochbau, Region Ostschweiz, Stand Oktober 2024 = 115.7 Punkte (Basis Oktober 2020 = 100 Punke), betragen (Zimmerzahl ohne Küche, Bad und WC):
-
-<table>
-<tr><th>Zimmer</th><th>Wohnung</th><th>Einfamilienhaus</th></tr>
-<tr><td>2</td><td>Fr. 337'600.00</td><td>-</td></tr>
-<tr><td>2.5</td><td>Fr. 375'300.00</td><td>-</td></tr>
-<tr><td>3</td><td>Fr. 414'000.00</td><td>Fr. 548'000.00</td></tr>
-<tr><td>3.5</td><td>Fr. 458'300.00</td><td>Fr. 588'900.00</td></tr>
-<tr><td>4</td><td>Fr. 503'700.00</td><td>Fr. 631'000.00</td></tr>
-<tr><td>4.5</td><td>Fr. 544'600.00</td><td>Fr. 688'600.00</td></tr>
-<tr><td>5</td><td>Fr. 585'600.00</td><td>Fr. 745'000.00</td></tr>
-<tr><td>5.5</td><td>Fr. 627'700.00</td><td>Fr. 783'800.00</td></tr>
-<tr><td>6</td><td>Fr. 668'600.00</td><td>Fr. 822'500.00</td></tr>
-<tr><td>6.5</td><td>Fr. 710'700.00</td><td>Fr. 853'500.00</td></tr>
-<tr><td>7</td><td>-</td><td>Fr. 885'600.00</td></tr>
-<tr><td>7.5</td><td>-</td><td>Fr. 917'700.00</td></tr>
-</table>
-
-<sup>2</sup> Parkplätze:
-
-- a) Garage oder Einstellplatz: — Fr. 34'300.00
-- b) Gedeckter Parkplatz: — Fr. 21'000.00
-- c) Parkplatz im Freien: — Fr. 8'800.00
 
 2025-076

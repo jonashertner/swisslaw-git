@@ -5,11 +5,12 @@ title: Ordinanza concernente la promozione degli alloggi
 short: OPrA
 language: it
 version: 2026-01-01
+corrected: 2026-09-22
 version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/950.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3755/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3621/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -200,50 +201,5 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Se la decisione di promozione di prima istanza è giunta prima dell'entrata in vigore della legge[^19-1] e della presente ordinanza, rimane applicabile il diritto previgente.
 
 [^19-1]: CSC [950.250](https://www.gr-lex.gr.ch/data/950.250/it)
-
-## A1 Allegato 1: Dimensioni dell'edificio abitativo, programma minimo degli spazi e limiti dei costi (art. 11 e art. 12
-
-#### Art. A1-1
-
-**Dimensioni dell'edificio abitativo e programma minimo degli spazi conformemente all'art. 11**
-
-<sup>1</sup> Tenendo anche conto dell'ordinanza concernente l'area abitabile netta e la relativa ripar-tizione in vani come pure la dotazione della cucina e dei servizi igienici (RS [843.142.3](https://db.clex.ch/link/Bund/843.142.3/it)), vengono stabilite le seguenti superfici minime (numero di locali senza cucina, bagno e WC):
-
-<table>
-<tr><th>Locali</th><th>Superficie abitabile netta minima</th><th>Spazi comuni</th><th>Camere da letto e locali di lavoro</th><th>Cucina</th><th>Bagno, WC</th><th>WC separato</th><th>Superfici rimanenti</th></tr>
-<tr><td>2</td><td>50 m²</td><td>18 m²</td><td>14 m²</td><td>5 m²</td><td>4 m²</td><td>-</td><td>9 m²</td></tr>
-<tr><td>3</td><td>65 m²</td><td>20 m²</td><td>26 m²</td><td>5.5 m²</td><td>4.5 m²</td><td>-</td><td>9 m²</td></tr>
-<tr><td>4</td><td>85 m²</td><td>22 m²</td><td>38 m²</td><td>6 m²</td><td>5.5 m²</td><td>1.5 m²</td><td>12 m²</td></tr>
-<tr><td>5</td><td>105 m²</td><td>24 m²</td><td>50 m²</td><td>6.5 m²</td><td>6 m²</td><td>1.5 m²</td><td>17 m²</td></tr>
-<tr><td>6</td><td>125 m²</td><td>26 m²</td><td>62 m²</td><td>7 m²</td><td>6.5 m²</td><td>1.5 m²</td><td>22 m²</td></tr>
-</table>
-
-#### Art. A1-2
-
-**Limiti dei costi conformemente all'art. 12**
-
-<sup>1</sup> I limiti per i costi d'investimento senza costi del terreno secondo l'indice svizzero dei prezzi delle costruzioni nell'edilizia, regione Svizzera orientale, stato ottobre 2024 = 115.7 punti (base ottobre 2020 = 100 punti), ammontano a (numero di locali senza cucina, bagno e WC):
-
-<table>
-<tr><th>Locali</th><th>Abitazione</th><th>Casa unifamiliare</th></tr>
-<tr><td>2</td><td>fr. 337'600.00</td><td>-</td></tr>
-<tr><td>2.5</td><td>fr. 375'300.00</td><td>-</td></tr>
-<tr><td>3</td><td>fr. 414'000.00</td><td>fr. 548'000.00</td></tr>
-<tr><td>3.5</td><td>fr. 458'300.00</td><td>fr. 588'900.00</td></tr>
-<tr><td>4</td><td>fr. 503'700.00</td><td>fr. 631'000.00</td></tr>
-<tr><td>4.5</td><td>fr. 544'600.00</td><td>fr. 688'600.00</td></tr>
-<tr><td>5</td><td>fr. 585'600.00</td><td>fr. 745'000.00</td></tr>
-<tr><td>5.5</td><td>fr. 627'700.00</td><td>fr. 783'800.00</td></tr>
-<tr><td>6</td><td>fr. 668'600.00</td><td>fr. 822'500.00</td></tr>
-<tr><td>6.5</td><td>fr. 710'700.00</td><td>fr. 853'500.00</td></tr>
-<tr><td>7</td><td>-</td><td>fr. 885'600.00</td></tr>
-<tr><td>7.5</td><td>-</td><td>fr. 917'700.00</td></tr>
-</table>
-
-<sup>2</sup> Posteggios:
-
-- a) Garage o posteggio in autorimessa: — fr. 34'300.00
-- b) Posteggio coperto: — fr. 21'000.00
-- c) Posteggio scoperto: — fr. 8'800.00
 
 2025-076

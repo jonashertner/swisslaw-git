@@ -5,11 +5,12 @@ title: "Ordinaziun davart la promoziun d'abitaziuns"
 short: OPA
 language: rm
 version: 2026-01-01
+corrected: 2026-09-22
 version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/950.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3755/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3621/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -200,50 +201,5 @@ relaschada da la Regenza ils 16 da december 2025
 <sup>1</sup> Sche l'emprima instanza ha decidì davart la promoziun avant l'entrada en vigur da la lescha[^19-1] e da questa ordinaziun, resta applitgabel il dretg vegl.
 
 [^19-1]: DG [950.250](https://www.gr-lex.gr.ch/data/950.250/rm)
-
-## A1 Agiunta 1: Grondezza da l'edifizi d'abitar, program minimal da locals e limitas dals custs (art. 11 ed art. 12)
-
-#### Art. A1-1
-
-**Grondezza da l'edifizi d'abitar e program minimal da locals tenor l'art. 11**
-
-<sup>1</sup> Resguardond l'Ordinaziun concernent la surfatscha abitabla ed il program da spazi ed er l'equipament da la cuschina e dal sectur igienic (CS [843.142.3](https://db.clex.ch/link/Bund/843.142.3/rm)) vegnan fixadas las suandantas surfatschas minimalas (dumber da stanzas senza cuschina, bogn e tualettas):
-
-<table>
-<tr><th>Stanzas</th><th>Surfatscha d'abitar netta minimala</th><th>Sectur communabel</th><th>Chombras da durmir e locals da lavur</th><th>Cuschina</th><th>Bogn, tualetta</th><th>Tualetta separada</th><th>Surfatschas restantas</th></tr>
-<tr><td>2</td><td>50 m²</td><td>18 m²</td><td>14 m²</td><td>5 m²</td><td>4 m²</td><td>-</td><td>9 m²</td></tr>
-<tr><td>3</td><td>65 m²</td><td>20 m²</td><td>26 m²</td><td>5.5 m²</td><td>4.5 m²</td><td>-</td><td>9 m²</td></tr>
-<tr><td>4</td><td>85 m²</td><td>22 m²</td><td>38 m²</td><td>6 m²</td><td>5.5 m²</td><td>1.5 m²</td><td>12 m²</td></tr>
-<tr><td>5</td><td>105 m²</td><td>24 m²</td><td>50 m²</td><td>6.5 m²</td><td>6 m²</td><td>1.5 m²</td><td>17 m²</td></tr>
-<tr><td>6</td><td>125 m²</td><td>26 m²</td><td>62 m²</td><td>7 m²</td><td>6.5 m²</td><td>1.5 m²</td><td>22 m²</td></tr>
-</table>
-
-#### Art. A1-2
-
-**Limitas dals custs tenor l'art. 12**
-
-<sup>1</sup> Las limitas dals custs d'investiziun, senza custs per il terren, tenor l'index svizzer dals custs da construcziun d'edifizis, regiun Svizra Orientala, stadi da l'october 2024 = 115.7 puncts (basa: october 2020 = 100 puncts), importan (dumber da stanzas senza cuschina, bogn e tualettas):
-
-<table>
-<tr><th>Stanzas</th><th>Abitaziun</th><th>Chasa d'ina famiglia</th></tr>
-<tr><td>2</td><td>fr. 337'600.00</td><td>-</td></tr>
-<tr><td>2.5</td><td>fr. 375'300.00</td><td>-</td></tr>
-<tr><td>3</td><td>fr. 414'000.00</td><td>fr. 548'000.00</td></tr>
-<tr><td>3.5</td><td>fr. 458'300.00</td><td>fr. 588'900.00</td></tr>
-<tr><td>4</td><td>fr. 503'700.00</td><td>fr. 631'000.00</td></tr>
-<tr><td>4.5</td><td>fr. 544'600.00</td><td>fr. 688'600.00</td></tr>
-<tr><td>5</td><td>fr. 585'600.00</td><td>fr. 745'000.00</td></tr>
-<tr><td>5.5</td><td>fr. 627'700.00</td><td>fr. 783'800.00</td></tr>
-<tr><td>6</td><td>fr. 668'600.00</td><td>fr. 822'500.00</td></tr>
-<tr><td>6.5</td><td>fr. 710'700.00</td><td>fr. 853'500.00</td></tr>
-<tr><td>7</td><td>-</td><td>fr. 885'600.00</td></tr>
-<tr><td>7.5</td><td>-</td><td>fr. 917'700.00</td></tr>
-</table>
-
-<sup>2</sup> Plazzas da parcar:
-
-- a) Garascha u parcadi en ina halla: — fr. 34'300.00
-- b) Plazza da parcar sut tetg: — fr. 21'000.00
-- c) Plazza da parcar al liber: — fr. 8'800.00
 
 2025-076
