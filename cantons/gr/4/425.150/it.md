@@ -5,11 +5,12 @@ title: Ordinanza concernente la scuola media di informatica
 short: OSMI
 language: it
 version: 2026-07-01
+corrected: 2026-09-22
 version_adopted: 2026-06-23
 adopted: 2024-04-29
 in_force: 2024-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.150"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3857/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3644/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -97,7 +98,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Gli esami finali scritti e orali della maturità professionale si tengono prima delle vacanze estive, di norma alla fine del terzo anno di formazione. L'esame finale scritto nella materia matematica viene sostenuto un anno prima.
 
-<sup>2</sup> L'Ufficio delle scuole medie superiori e della formazione terziaria stabilisce le date degli esami finali orali della maturità professionale, tenendo conto delle direttive della Confederazione.
+<sup>2</sup> L'Ufficio della formazione medio-superiore stabilisce le date degli esami finali orali della maturità professionale, tenendo conto delle direttive della Confederazione.
 
 #### Art. 7
 
@@ -133,7 +134,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> La direzione scolastica emana un regolamento relativo al lavoro interdisciplinare, il quale contiene le disposizioni per il lavoro interdisciplinare nelle materie di tutte le aree disciplinari e per il progetto didattico interdisciplinare. In particolare, disciplina la durata delle presentazioni orali, incluse le discussioni di approfondimento, nonché la valutazione.
 
-<sup>3</sup> In inglese deve essere sostenuto un esame per un diploma di lingue straniere. L'Ufficio delle scuole medie superiori e della formazione terziaria può emanare direttive al riguardo.
+<sup>3</sup> In inglese deve essere sostenuto un esame per un diploma di lingue straniere. L'Ufficio della formazione medio-superiore può emanare direttive al riguardo.
 
 <sup>4</sup> I diplomi di lingue straniere possono essere parte della nota della maturità professionale nelle corrispondenti materie in conformità alle disposizioni dell'ordinanza cantonale sulla maturità professionale[^10-1]. La direzione scolastica disciplina i dettagli.
 
@@ -180,7 +181,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Istruzioni dell'Ufficio della formazione medio-superiore**
 
-<sup>1</sup> L'Ufficio delle scuole medie superiori e della formazione terziaria emana istruzioni concernenti l'organizzazione del periodo di pratica aziendale di lunga durata e del lavoro pratico individuale, in accordo con le competenti organizzazioni del mondo del lavoro, con l'Ufficio della formazione professionale nonché con le direzioni scolastiche.
+<sup>1</sup> L'Ufficio della formazione medio-superiore emana istruzioni concernenti l'organizzazione del periodo di pratica aziendale di lunga durata e del lavoro pratico individuale, in accordo con le competenti organizzazioni del mondo del lavoro, con l'Ufficio della formazione professionale nonché con le direzioni scolastiche.
 
 ## 5. Procedura di qualificazione per l'attestato federale di capacità
 
@@ -240,28 +241,6 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Esecuzione**
 
-<sup>1</sup> L'esecuzione della presente ordinanza compete all'Ufficio delle scuole medie superiori e della formazione terziaria.
-
-## A1 Allegato 1: Materie di promozione (art. 4) e materie d'esame (art. 9) dell'opzione specifica e dell'opzione complementare
-
-#### Art. A1-1
-
-**Scuola media di informatica con maturità professionale indirizzo economia e servizi, tipo economia**
-
-<sup>1</sup> Materie dell'opzione specifica: Finanze e contabilità nonché economia e diritto.
-
-<sup>2</sup> Materie dell'opzione complementare: Storia e politica nonché tecnica e ambiente.
-
-<sup>3</sup> Materie d'esame: Finanze e contabilità nonché economia e diritto.
-
-#### Art. A1-2
-
-**Scuola media di informatica con maturità professionale indirizzo tecnica, architettura, scienze della vita (MPT)**
-
-<sup>1</sup> Materie dell'opzione specifica: Scienze naturali e matematica.
-
-<sup>2</sup> Materie dell'opzione complementare: Storia e politica nonché economia e diritto.
-
-<sup>3</sup> Materie d'esame: Scienze naturali e matematica.
+<sup>1</sup> L'esecuzione della presente ordinanza compete all'Ufficio della formazione medio-superiore.
 
 2024-009

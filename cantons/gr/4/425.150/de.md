@@ -5,11 +5,12 @@ title: Verordnung über die Informatikmittelschule
 short: IMSV
 language: de
 version: 2026-07-01
+corrected: 2026-09-22
 version_adopted: 2026-06-23
 adopted: 2024-04-29
 in_force: 2024-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.150"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3857/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -97,7 +98,7 @@ von der Regierung erlassen am 29. April 2024
 
 <sup>1</sup> Die schriftlichen und mündlichen Abschlussprüfungen der Berufsmaturität finden vor den Sommerferien in der Regel am Ende des dritten Ausbildungsjahrs statt. Die schriftliche Abschlussprüfung im Fach Mathematik wird ein Jahr früher absolviert.
 
-<sup>2</sup> Den Zeitpunkt der mündlichen Abschlussprüfungen der Berufsmaturität bestimmt das Amt für Mittelschulen und Tertiärbildung unter Berücksichtigung der Vorgaben des Bundes.
+<sup>2</sup> Den Zeitpunkt der mündlichen Abschlussprüfungen der Berufsmaturität bestimmt das Amt für Höhere Bildung unter Berücksichtigung der Vorgaben des Bundes.
 
 #### Art. 7
 
@@ -133,7 +134,7 @@ von der Regierung erlassen am 29. April 2024
 
 <sup>2</sup> Die Schulleitung erlässt ein Reglement zum interdisziplinären Arbeiten, das die Bestimmungen für das interdisziplinäre Arbeiten in den Fächern aller Unterrichtsbereiche und für die interdisziplinäre Projektarbeit enthält. Insbesondere regelt es die Dauer mündlicher Präsentationen einschliesslich vertiefender Diskussionen sowie die Bewertung.
 
-<sup>3</sup> In Englisch ist eine Prüfung für ein Fremdsprachendiplom zu absolvieren. Das Amt für Mittelschulen und Tertiärbildung kann dazu Vorgaben erlassen.
+<sup>3</sup> In Englisch ist eine Prüfung für ein Fremdsprachendiplom zu absolvieren. Das Amt für Höhere Bildung kann dazu Vorgaben erlassen.
 
 <sup>4</sup> Fremdsprachendiplome können in den entsprechenden Fächern gemäss den Bestimmungen der kantonalen Berufsmaturitätsverordnung[^10-1] Bestandteil der Note der Berufsmaturität sein. Die Schulleitung regelt die Einzelheiten.
 
@@ -180,7 +181,7 @@ von der Regierung erlassen am 29. April 2024
 
 **Weisungen des Amts für Höhere Bildung**
 
-<sup>1</sup> Das Amt für Mittelschulen und Tertiärbildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend die Ausgestaltung des betrieblichen Langzeitpraktikums und der individuellen praktischen Arbeit.
+<sup>1</sup> Das Amt für Höhere Bildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend die Ausgestaltung des betrieblichen Langzeitpraktikums und der individuellen praktischen Arbeit.
 
 ## 5. Qualifikationsverfahren für das eidgenössische Fähigkeitszeugnis
 
@@ -240,28 +241,6 @@ von der Regierung erlassen am 29. April 2024
 
 **Vollzug**
 
-<sup>1</sup> Der Vollzug dieser Verordnung obliegt dem Amt für Mittelschulen und Tertiärbildung.
-
-## A1 Anhang 1: Promotionsfächer (Art. 4) und Prüfungsfächer (Art. 9) im Schwerpunkt- und Ergänzungsbereich
-
-#### Art. A1-1
-
-**Informatikmittelschule mit Berufsmaturität Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft**
-
-<sup>1</sup> Fächer des Schwerpunktbereichs: Finanz- und Rechnungswesen sowie Wirtschaft und Recht.
-
-<sup>2</sup> Fächer des Ergänzungsbereichs: Geschichte und Politik sowie Technik und Umwelt.
-
-<sup>3</sup> Prüfungsfächer: Finanz- und Rechnungswesen sowie Wirtschaft und Recht.
-
-#### Art. A1-2
-
-**Informatikmittelschule mit Berufsmaturität Ausrichtung Technik, Architektur, Life Sciences (TALS)**
-
-<sup>1</sup> Fächer des Schwerpunktbereichs: Naturwissenschaften und Mathematik.
-
-<sup>2</sup> Fächer des Ergänzungsbereichs: Geschichte und Politik sowie Wirtschaft und Recht.
-
-<sup>3</sup> Prüfungsfächer: Naturwissenschaften und Mathematik.
+<sup>1</sup> Der Vollzug dieser Verordnung obliegt dem Amt für Höhere Bildung.
 
 2024-009

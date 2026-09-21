@@ -5,11 +5,12 @@ title: "Ordinaziun davart la scola media d'informatica"
 short: OSMI
 language: rm
 version: 2026-07-01
+corrected: 2026-09-22
 version_adopted: 2026-06-23
 adopted: 2024-04-29
 in_force: 2024-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.150"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3857/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3644/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -97,7 +98,7 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 <sup>1</sup> Ils examens finals da la maturitad professiunala en scrit ed a bucca han lieu avant las vacanzas da stad, per regla a la fin dal terz onn da scolaziun. L'examen final en scrit en il rom matematica vegn absolvì in onn avant.
 
-<sup>2</sup> Il termin dals examens finals a bucca da la maturitad professiunala fixescha l'Uffizi da scolas medias e furmaziun terziara, quai resguardond las prescripziuns da la Confederaziun.
+<sup>2</sup> Il termin dals examens finals a bucca da la maturitad professiunala fixescha l'Uffizi per la furmaziun media-superiura, quai resguardond las prescripziuns da la Confederaziun.
 
 #### Art. 7
 
@@ -133,7 +134,7 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 <sup>2</sup> La direcziun da la scola relascha in reglament davart il lavurar en moda interdisciplinara, che cuntegna las disposiziuns per lavurs interdisciplinaras en ils roms da tut ils secturs d'instrucziun e per la lavur da project interdisciplinara. En spezial regla quest reglament la durada da preschentaziuns a bucca, inclusiv discussiuns fundadas, sco er la valitaziun.
 
-<sup>3</sup> En englais sto vegnir absolvì in examen per in diplom da linguas estras. L'Uffizi da scolas medias e furmaziun terziara po relaschar prescripziuns en chaussa.
+<sup>3</sup> En englais sto vegnir absolvì in examen per in diplom da linguas estras. L'Uffizi per la furmaziun media-superiura po relaschar prescripziuns en chaussa.
 
 <sup>4</sup> Diploms da linguas estras pon esser in element da la nota da maturitad professiunala en ils roms correspundents tenor las disposiziuns da l'Ordinaziun chantunala davart la maturitad professiunala[^10-1]. La direcziun da la scola regla ils detagls.
 
@@ -180,7 +181,7 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 **Directivas da l'Uffizi per la furmaziun media-superiura**
 
-<sup>1</sup> L'Uffizi da scolas medias e furmaziun terziara relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung e da la lavur pratica individuala.
+<sup>1</sup> L'Uffizi per la furmaziun media-superiura relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung e da la lavur pratica individuala.
 
 ## 5. Proceduras da qualificaziun per l'attestat federal da qualificaziun
 
@@ -240,28 +241,6 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 **Execuziun**
 
-<sup>1</sup> L'execuziun da questa ordinaziun è chaussa da l'Uffizi da scolas medias e furmaziun terziara.
-
-## A1 Agiunta 1: Roms da promoziun (art. 4) e roms d'examen (art. 9) en il sectur d'accent ed en il sectur cumplementar
-
-#### Art. A1-1
-
-**Scola media d'informatica cun maturitad professiunala, direcziun economia e servetschs, tip economia**
-
-<sup>1</sup> Roms dal sectur d'accent: Finanzas e contabilitad sco er economia e dretg.
-
-<sup>2</sup> Roms dal sectur cumplementar: Istorgia e politica sco er tecnica ed ambient.
-
-<sup>3</sup> Roms d'examen: Finanzas e contabilitad sco er economia e dretg.
-
-#### Art. A1-2
-
-**Scola media d'informatica cun maturitad professiunala direcziun tecnica, architectura, life sciences (TALS)**
-
-<sup>1</sup> Roms dal sectur d'accent: Scienzas natiralas e matematica.
-
-<sup>2</sup> Roms dal sectur cumplementar: Istorgia e politica sco er economia e dretg.
-
-<sup>3</sup> Roms d'examen: Scienzas natiralas e matematica.
+<sup>1</sup> L'execuziun da questa ordinaziun è chaussa da l'Uffizi per la furmaziun media-superiura.
 
 2024-009
