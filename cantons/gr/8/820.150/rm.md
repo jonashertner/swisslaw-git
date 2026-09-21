@@ -5,12 +5,12 @@ title: "Ordinaziun chantunala davart l'examinaziun ecologica"
 short: OCEE
 language: rm
 version: 2017-04-10
-corrected: 2021-02-10
+corrected: 2026-09-22
 version_adopted: 2017-02-21
 adopted: 2009-07-07
 in_force: 2009-11-12
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.150"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2784/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3139/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

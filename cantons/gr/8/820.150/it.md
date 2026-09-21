@@ -5,12 +5,12 @@ title: "Ordinanza cantonale concernente l'esame dell'impatto sull'ambiente"
 short: OCEIA
 language: it
 version: 2017-04-10
-corrected: 2021-02-10
+corrected: 2026-09-22
 version_adopted: 2017-02-21
 adopted: 2009-07-07
 in_force: 2009-11-12
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.150"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2784/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3139/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -39,7 +39,7 @@ in base all'art. 45 cpv. 1 e all'art. 81 cpv. 1 della Costituzione cantonale[^in
 
 **Ufficio specialistico**
 
-<sup>1</sup> L'Ufficio per la natura e l'ambiente è il servizio specialistico in materia di protezione dell'ambiente (Ufficio specialistico) ai sensi dell'articolo 9 e dell'articolo 42 LPA[^2-1].
+<sup>1</sup> L'Ufficio per la natura e l'ambiente è il servizio specialistico in materia di protezione dell'ambiente (Ufficio specialistico) ai sensi dell'articolo 10c e dell'articolo 42 LPA[^2-1].
 
 <sup>2</sup> L'Ufficio specialistico è competente per questioni interdisciplinari di protezione dell'ambiente nonché per valutare se l'impianto progettato corrisponde alle prescrizioni sulla protezione ambientale. Esso funge da consulente per l'autorità decisionale nell'esecuzione dell'EIA e provvede alla tempestiva consultazione degli uffici interessati.
 
