@@ -5,11 +5,12 @@ title: Ordinaziun tar la lescha davart lieus da scolaziun en ils fatgs da la san
 short: OtLLSS
 language: rm
 version: 2026-07-01
+corrected: 2026-09-22
 version_adopted: 2026-05-05
 adopted: 2004-12-14
 in_force: 2004-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/432.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3822/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -191,7 +192,7 @@ relaschada da la regenza ils 14 da december 2004
 
 **Calculaziun da la contribuziun**
 
-<sup>1</sup> La fixaziun da la contribuziun chantunala vegn fatga tras l'Uffizi da scolas medias e furmaziun terziara (uffizi) fin mez avrigl da l'onn suandant.
+<sup>1</sup> La fixaziun da la contribuziun chantunala vegn fatga tras l'Uffizi per la furmaziun media-superiura (uffizi) fin mez avrigl da l'onn suandant.
 
 <sup>2</sup> La contribuziun chantunala cuvra il deficit da gestiun imputabel a 100 pertschient.
 
@@ -353,37 +354,5 @@ relaschada da la regenza ils 14 da december 2004
 **Entrada en vigur**
 
 <sup>1</sup> Questa ordinaziun entra en vigur retroactivamain per il 1. da december 2004.
-
-## A1 Agiunta 1: Autezza da la contribuziun da sustegn (art. 22b)
-
-### A1.1. Chaussas generalas
-
-#### Art. A1-1
-
-**Princip**
-
-<sup>1</sup> Las contribuziuns da sustegn che vegnan fixadas en questa agiunta, sa drizzan tenor la recumandaziun da la branscha «Mindestlöhne für Studierende HF Pflege in Graubünden» dal 1. da schaner 2024.
-
-<sup>2</sup> La chareschia vala sco gulivada fin ad in stadi da l'index da 108.5 puncts (basa da l'index: december 2005 = 100 puncts). Las contribuziuns da sustegn vegnan adattadas tenor ils conclus da la Regenza dal chantun Grischun per il persunal chantunal.
-
-#### Art. A1-2
-
-**Calculaziun da la contribuziun da sustegn**
-
-<sup>1</sup> Sco contribuziun da sustegn vegn definida la differenza tranter ils imports numnads en l'alinea 2 ed il salari annual brut da la petenta u dal petent.
-
-<sup>2</sup> Sche la persuna frequenta actualmain il studi da tgira SAS, vegn la contribuziun da sustegn reducida ad in terz:
-
-<table>
-<tr><th>Vegliadetgna</th><th>Per onn da scolaziun</th></tr>
-<tr><td>23 onns</td><td>fr. 34'250.00</td></tr>
-<tr><td>24 onns</td><td>fr. 35'740.00</td></tr>
-<tr><td>25 onns</td><td>fr. 37'230.00</td></tr>
-<tr><td>26 onns</td><td>fr. 38'720.00</td></tr>
-<tr><td>27 onns</td><td>fr. 40'210.00</td></tr>
-<tr><td>28 onns</td><td>fr. 41'700.00</td></tr>
-<tr><td>29 onns</td><td>fr. 43'180.00</td></tr>
-<tr><td>30 onns e dapli</td><td>fr. 44'670.00</td></tr>
-</table>
 
 -

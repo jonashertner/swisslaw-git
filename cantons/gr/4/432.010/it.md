@@ -5,11 +5,12 @@ title: Ordinanza relativa alla legge sugli istituti di formazione in ambito sani
 short: OLISS
 language: it
 version: 2026-07-01
+corrected: 2026-09-22
 version_adopted: 2026-05-05
 adopted: 2004-12-14
 in_force: 2004-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/432.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3822/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3639/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -191,7 +192,7 @@ visto l'art. 19 della legge sugli istituti di formazione in ambito sanitario e s
 
 **Calcolo del sussidio**
 
-<sup>1</sup> Il calcolo del sussidio cantonale viene effettuato dall'Ufficio delle scuole medie superiori e della formazione terziaria (Ufficio) entro metà aprile dell'anno seguente.
+<sup>1</sup> Il calcolo del sussidio cantonale viene effettuato dall'Ufficio della formazione medio-superiore (Ufficio) entro metà aprile dell'anno seguente.
 
 <sup>2</sup> Il sussidio cantonale copre al cento percento il disavanzo d'esercizio computabile.
 
@@ -353,37 +354,5 @@ visto l'art. 19 della legge sugli istituti di formazione in ambito sanitario e s
 **Entrata in vigore**
 
 <sup>1</sup> La presente ordinanza entra in vigore retroattivamente il 1° dicembre 2004.
-
-## A1 Allegato 1: Ammontare del contributo di sostegno (art. 22b)
-
-### A1.1. In generale
-
-#### Art. A1-1
-
-**Principio**
-
-<sup>1</sup> I contributi di sostegno fissati nel presente allegato si conformano alla raccomandazione settoriale «Mindestlöhne für Studierende HF Pflege in Graubünden», stato 1° gennaio 2024.
-
-<sup>2</sup> Il rincaro è da considerarsi compensato fino a uno stato dell'indice di 108.5 punti (base dell'indice dicembre 2005 = 100 punti). I contributi di sostegno vengono adeguati in conformità ai decreti del Governo del Cantone dei Grigioni per il personale cantonale.
-
-#### Art. A1-2
-
-**Calcolo del contributo di sostegno**
-
-<sup>1</sup> Per contributo di sostegno si intende la differenza tra gli importi indicati al capoverso 2 e il salario annuo lordo della persona richiedente.
-
-<sup>2</sup> Se la persona sta seguendo gli studi in cure infermieristiche SUP, il contributo di sostegno è ridotto a un terzo:
-
-<table>
-<tr><th>Età</th><th>per anno di formazione</th></tr>
-<tr><td>23 anni</td><td>fr. 34'250.00</td></tr>
-<tr><td>24 anni</td><td>fr. 35'740.00</td></tr>
-<tr><td>25 anni</td><td>fr. 37'230.00</td></tr>
-<tr><td>26 anni</td><td>fr. 38'720.00</td></tr>
-<tr><td>27 anni</td><td>fr. 40'210.00</td></tr>
-<tr><td>28 anni</td><td>fr. 41'700.00</td></tr>
-<tr><td>29 anni</td><td>fr. 43'180.00</td></tr>
-<tr><td>30 anni e oltre</td><td>fr. 44'670.00</td></tr>
-</table>
 
 -

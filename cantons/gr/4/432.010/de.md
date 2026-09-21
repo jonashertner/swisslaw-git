@@ -5,11 +5,12 @@ title: Verordnung zum Gesetz über Ausbildungsstätten im Gesundheits- und Sozia
 short: VOzAGSG
 language: de
 version: 2026-07-01
+corrected: 2026-09-22
 version_adopted: 2026-05-05
 adopted: 2004-12-14
 in_force: 2004-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/432.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3822/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -191,7 +192,7 @@ von der Regierung erlassen am 14. Dezember 2004
 
 **Beitragsbemessung**
 
-<sup>1</sup> Die Bemessung des Kantonsbeitrags erfolgt durch das Amt für Mittelschulen und Tertiärbildung (Amt) bis Mitte April des Folgejahres.
+<sup>1</sup> Die Bemessung des Kantonsbeitrags erfolgt durch das Amt für Höhere Bildung (Amt) bis Mitte April des Folgejahres.
 
 <sup>2</sup> Der Kantonsbeitrag deckt das anrechenbare Betriebsdefizit zu hundert Prozent.
 
@@ -353,37 +354,5 @@ von der Regierung erlassen am 14. Dezember 2004
 **In-Kraft-Treten**
 
 <sup>1</sup> Diese Verordnung tritt rückwirkend am 1. Dezember 2004 in Kraft.
-
-## A1 Anhang 1: Höhe des Unterstützungsbeitrags (Art. 22b)
-
-### A1.1. Allgemeines
-
-#### Art. A1-1
-
-**Grundsatz**
-
-<sup>1</sup> Die in diesem Anhang fixierten Unterstützungsbeiträge richten sich nach der Branchenempfehlung «Mindestlöhne für Studierende HF Pflege in Graubünden» mit Stand vom 1. Januar 2024.
-
-<sup>2</sup> Die Teuerung gilt bis zu einem Indexstand von 108.5 Punkten als ausgeglichen (Indexbasis Dezember 2005 = 100 Punkte). Die Unterstützungsbeiträge werden gemäss den Beschlüssen der Regierung des Kantons Graubünden für das kantonale Personal angepasst.
-
-#### Art. A1-2
-
-**Berechnung Unterstützungsbeitrag**
-
-<sup>1</sup> Als Unterstützungsbeitrag wird die Differenz zwischen den in Absatz 2 genannten Beträgen und dem Bruttojahreslohn der gesuchstellenden Person definiert.
-
-<sup>2</sup> Befindet sich die Person im Studium Pflege FH, so wird der Unterstützungsbeitrag auf einen Drittel gekürzt:
-
-<table>
-<tr><th>Alter</th><th>pro Ausbildungsjahr</th></tr>
-<tr><td>23 Jahre</td><td>Fr. 34'250.00</td></tr>
-<tr><td>24 Jahre</td><td>Fr. 35'740.00</td></tr>
-<tr><td>25 Jahre</td><td>Fr. 37'230.00</td></tr>
-<tr><td>26 Jahre</td><td>Fr. 38'720.00</td></tr>
-<tr><td>27 Jahre</td><td>Fr. 40'210.00</td></tr>
-<tr><td>28 Jahre</td><td>Fr. 41'700.00</td></tr>
-<tr><td>29 Jahre</td><td>Fr. 43'180.00</td></tr>
-<tr><td>30 Jahre und älter</td><td>Fr. 44'670.00</td></tr>
-</table>
 
 -
