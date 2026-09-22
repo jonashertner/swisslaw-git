@@ -5,11 +5,12 @@ title: Ordinanza sulla perequazione finanziaria
 short: OPF
 language: it
 version: 2021-03-01
+corrected: 2026-09-23
 version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3854/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3147/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -184,11 +185,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Domanda**
 
-<sup>1</sup> Un comune che richiede un contributo di perequazione presenta una domanda all'Ufficio degli affari sociali entro la fine di aprile dell'anno successivo.
+<sup>1</sup> Un comune che richiede un contributo di perequazione presenta una domanda all'Ufficio cantonale del servizio sociale entro la fine di aprile dell'anno successivo.
 
-<sup>2</sup> Il comune è tenuto a fornire prova delle spese e dei ricavi determinanti nonché dell'ammontare del contributo di perequazione secondo quanto disposto dall'Ufficio degli affari sociali.
+<sup>2</sup> Il comune è tenuto a fornire prova delle spese e dei ricavi determinanti nonché dell'ammontare del contributo di perequazione secondo quanto disposto dall'Ufficio cantonale del servizio sociale.
 
-<sup>3</sup> Alla domanda devono essere allegati un corrispondente estratto dal conto annuale nonché una dichiarazione di completezza. Se a fine aprile il conto annuale non è ancora disponibile, l'estratto e la dichiarazione di completezza devono essere inoltrati entro il termine concesso dall'Ufficio degli affari sociali.
+<sup>3</sup> Alla domanda devono essere allegati un corrispondente estratto dal conto annuale nonché una dichiarazione di completezza. Se a fine aprile il conto annuale non è ancora disponibile, l'estratto e la dichiarazione di completezza devono essere inoltrati entro il termine concesso dall'Ufficio cantonale del servizio sociale.
 
 #### Art. 15
 
@@ -206,7 +207,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Competenze e versamento**
 
-<sup>1</sup> Le spese nette comprovate dal comune richiedente nonché il contributo di perequazione vengono verificati dall'Ufficio degli affari sociali con riguardo alla loro computabilità facendo riferimento ad aspetti di rischio. Entro la fine di giugno l'Ufficio degli affari sociali recapita all'Ufficio per i comuni la documentazione con il diritto ai contributi dei comuni.
+<sup>1</sup> Le spese nette comprovate dal comune richiedente nonché il contributo di perequazione vengono verificati dall'Ufficio cantonale del servizio sociale con riguardo alla loro computabilità facendo riferimento ad aspetti di rischio. Entro la fine di giugno l'Ufficio del servizio sociale recapita all'Ufficio per i comuni la documentazione con il diritto ai contributi dei comuni.
 
 <sup>2</sup> Il Governo stabilisce il contributo di perequazione entro la fine di agosto.
 
@@ -216,11 +217,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Rimborso di contributi ingiustificati**
 
-<sup>1</sup> Se l'Ufficio degli affari sociali scopre che un conteggio effettuato in passato ha comportato un contributo ingiustificatamente più elevato dalla perequazione degli oneri in ambito sociale, il comune può chiedere il rimborso della differenza.
+<sup>1</sup> Se l'Ufficio cantonale del servizio sociale scopre che un conteggio effettuato in passato ha comportato un contributo ingiustificatamente più elevato dalla perequazione degli oneri in ambito sociale, il comune può chiedere il rimborso della differenza.
 
 <sup>2</sup> Una richiesta di rimborso risulta opportuna in particolare se a posteriori vengono scoperte indicazioni scorrette o un rimborso al comune avrebbe avuto conseguenze determinanti sul periodo di conteggio interessato.
 
-<sup>3</sup> In presenza di contributi ingiustificati l'Ufficio degli affari sociali dispone una correzione.
+<sup>3</sup> In presenza di contributi ingiustificati l'Ufficio cantonale del servizio sociale dispone una correzione.
 
 ### 3.3. Compensazione individuale dei casi di rigore per oneri speciali (CCR)
 
@@ -275,22 +276,5 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 #### Art. 22
 
 **…**
-
-## A1 Appendice 1: perequazione limitata nel tempo (art. 20)
-
-#### Art. A1-1
-
-<sup>1</sup> La presente appendice si basa sul bilancio globale PF in base alla legge mantello sulla riforma PF decisa dal Gran Consiglio il 5 dicembre 2013.
-
-<sup>2</sup> La perequazione limitata nel tempo per i comuni indicati nell'appendice alla legge sulla perequazione finanziaria corrisponde al massimo all'onere supplementare dovuto all'introduzione della riforma PF secondo il bilancio globale PF. I seguenti importi risultano determinanti:
-
-- a) Fideris: — fr. 62'485.00
-- b) Küblis: — fr. 470'541.00
-- c) Masein: — fr. 140'220.00
-- d) Rhäzüns: — fr. 451'245.00
-- e) Sagogn: — fr. 142'454.00
-- f) Schmitten: — fr. 67'651.00
-- g) Trun: — fr. 793'694.00
-- h) Verdabbio: — fr. 60'042.00
 
 2015-021

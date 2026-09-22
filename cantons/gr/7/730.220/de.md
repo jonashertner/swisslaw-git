@@ -5,11 +5,12 @@ title: Verordnung über den Finanzausgleich
 short: FAV
 language: de
 version: 2021-03-01
+corrected: 2026-09-23
 version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3854/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -184,11 +185,11 @@ von der Regierung erlassen am 30. Juni 2015
 
 **Gesuch**
 
-<sup>1</sup> Eine Gemeinde, welche einen Ausgleichsbeitrag beansprucht, reicht dem Amt für Soziales bis spätestens Ende April des Folgejahres ein Gesuch ein.
+<sup>1</sup> Eine Gemeinde, welche einen Ausgleichsbeitrag beansprucht, reicht dem kantonalen Sozialamt bis spätestens Ende April des Folgejahres ein Gesuch ein.
 
-<sup>2</sup> Die Gemeinde hat die massgeblichen Aufwendungen und Erträge sowie die Höhe des Ausgleichsbeitrags gemäss den Vorgaben des Amts für Soziales nachzuweisen.
+<sup>2</sup> Die Gemeinde hat die massgeblichen Aufwendungen und Erträge sowie die Höhe des Ausgleichsbeitrags gemäss den Vorgaben des kantonalen Sozialamtes nachzuweisen.
 
-<sup>3</sup> Dem Gesuch sind ein entsprechender Auszug aus der Jahresrechnung sowie eine Vollständigkeitserklärung beizulegen. Liegt die Jahresrechnung Ende April noch nicht vor, müssen der Auszug und die Vollständigkeitserklärung bis zu einer vom Amt für Soziales eingeräumten Frist nachgereicht werden.
+<sup>3</sup> Dem Gesuch sind ein entsprechender Auszug aus der Jahresrechnung sowie eine Vollständigkeitserklärung beizulegen. Liegt die Jahresrechnung Ende April noch nicht vor, müssen der Auszug und die Vollständigkeitserklärung bis zu einer vom kantonalen Sozialamt eingeräumten Frist nachgereicht werden.
 
 #### Art. 15
 
@@ -206,7 +207,7 @@ von der Regierung erlassen am 30. Juni 2015
 
 **Zuständigkeiten und Auszahlung**
 
-<sup>1</sup> Die von der gesuchstellenden Gemeinde nachgewiesenen Nettoaufwendungen sowie der Ausgleichsbeitrag werden vom Amt für Soziales betreffend Anrechenbarkeit nach Risikogesichtspunkten geprüft. Das Amt für Soziales stellt dem Amt für Gemeinden bis spätestens Ende Juni die Unterlagen mit den Beitragsansprüchen der Gemeinden zu.
+<sup>1</sup> Die von der gesuchstellenden Gemeinde nachgewiesenen Nettoaufwendungen sowie der Ausgleichsbeitrag werden vom kantonalen Sozialamt betreffend Anrechenbarkeit nach Risikogesichtspunkten geprüft. Das Sozialamt stellt dem Amt für Gemeinden bis spätestens Ende Juni die Unterlagen mit den Beitragsansprüchen der Gemeinden zu.
 
 <sup>2</sup> Die Regierung legt den Ausgleichsbeitrag bis spätestens Ende August fest.
 
@@ -216,11 +217,11 @@ von der Regierung erlassen am 30. Juni 2015
 
 **Rückerstattung ungerechtfertigter Beiträge**
 
-<sup>1</sup> Entdeckt das Amt für Soziales, dass eine frühere Abrechnung zu einer ungerechtfertigten höheren Beitragsleistung des Lastenausgleichs Soziales geführt hat, kann die Differenz von der Gemeinde zurückgefordert werden.
+<sup>1</sup> Entdeckt das kantonale Sozialamt, dass eine frühere Abrechnung zu einer ungerechtfertigten höheren Beitragsleistung des Lastenausgleichs Soziales geführt hat, kann die Differenz von der Gemeinde zurückgefordert werden.
 
 <sup>2</sup> Eine Rückforderung ist insbesondere dann angezeigt, wenn im Nachhinein unkorrekte Angaben entdeckt werden oder eine Rückzahlung an die Gemeinde die betroffene Abrechnungsperiode massgeblich beeinflusst hätte.
 
-<sup>3</sup> Liegt ein Fall von ungerechtfertigten Beiträgen vor, so verfügt das Amt für Soziales eine Korrektur.
+<sup>3</sup> Liegt ein Fall von ungerechtfertigten Beiträgen vor, so verfügt das kantonale Sozialamt eine Korrektur.
 
 ### 3.3. Individueller Härteausgleich für besondere Lasten (ILA)
 
@@ -275,22 +276,5 @@ von der Regierung erlassen am 30. Juni 2015
 #### Art. 22
 
 **…**
-
-## A1 Anhang 1: Befristeter Ausgleich (Art. 20)
-
-#### Art. A1-1
-
-<sup>1</sup> Dieser Anhang basiert auf der FA-Globalbilanz aufgrund des vom Grossen Rat am 5. Dezember 2013 beschlossenen Mantelgesetzes über die FA-Reform.
-
-<sup>2</sup> Der befristete Ausgleich für die im Anhang zum Finanzausgleichsgesetz aufgeführten Gemeinden entspricht höchstens der Mehrbelastung durch die Einführung der FA-Reform gemäss der FA-Globalbilanz. Massgebend sind die folgenden Beträge:
-
-- a) Fideris: — Fr. 62'485.00
-- b) Küblis: — Fr. 470'541.00
-- c) Masein: — Fr. 140'220.00
-- d) Rhäzüns: — Fr. 451'245.00
-- e) Sagogn: — Fr. 142'454.00
-- f) Schmitten: — Fr. 67'651.00
-- g) Trun: — Fr. 793'694.00
-- h) Verdabbio: — Fr. 60'042.00
 
 2015-021

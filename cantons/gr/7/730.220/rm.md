@@ -5,11 +5,12 @@ title: Ordinaziun davart la gulivaziun da finanzas
 short: OGF
 language: rm
 version: 2021-03-01
+corrected: 2026-09-23
 version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3854/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -184,11 +185,11 @@ relaschada da la regenza ils 30 da zercladur 2015
 
 **Dumonda**
 
-<sup>1</sup> Ina vischnanca che pretenda ina contribuziun da gulivaziun inoltrescha a l'Uffizi da fatgs socials ina dumonda fin il pli tard l'avrigl da l'onn suandant.
+<sup>1</sup> Ina vischnanca che pretenda ina contribuziun da gulivaziun inoltrescha a l'uffizi dal servetsch social chantunal ina dumonda fin il pli tard l'avrigl da l'onn suandant.
 
-<sup>2</sup> La vischnanca sto cumprovar ils custs ed ils retgavs decisivs sco er l'autezza da la contribuziun da gulivaziun tenor las prescripziuns da l'Uffizi da fatgs socials.
+<sup>2</sup> La vischnanca sto cumprovar ils custs ed ils retgavs decisivs sco er l'autezza da la contribuziun da gulivaziun tenor las prescripziuns da l'uffizi dal servetsch social chantunal.
 
-<sup>3</sup> A la dumonda ston vegnir agiuntads in extract correspundent dal quint annual sco er ina decleraziun da la cumplettadad. Sch'il quint annual n'è betg anc avant maun la fin d'avrigl, ston l'extract e la decleraziun da la cumplettadad vegnir furnids pli tard fin ad in termin concedì da l'Uffizi da fatgs socials.
+<sup>3</sup> A la dumonda ston vegnir agiuntads in extract correspundent dal quint annual sco er ina decleraziun da la cumplettadad. Sch'il quint annual n'è betg anc avant maun la fin d'avrigl, ston l'extract e la decleraziun da la cumplettadad vegnir furnids pli tard fin ad in termin concedì da l'uffizi dal servetsch social chantunal.
 
 #### Art. 15
 
@@ -206,7 +207,7 @@ relaschada da la regenza ils 30 da zercladur 2015
 
 **Cumpetenzas e pajament**
 
-<sup>1</sup> Ils custs nets ch'èn vegnids cumprovads da la vischnanca petenta sco er la contribuziun da gulivaziun vegnan examinads da l'Uffizi da fatgs socials concernent l'imputabilitad tenor ils aspects da ristga. L'Uffizi da fatgs socials consegna a l'Uffizi da vischnancas fin il pli tard la fin da zercladur ils documents cun las pretensiuns da contribuziun da las vischnancas.
+<sup>1</sup> Ils custs nets ch'èn vegnids cumprovads da la vischnanca petenta sco er la contribuziun da gulivaziun vegnan examinads da l'uffizi dal servetsch social chantunal concernent l'imputabilitad tenor ils aspects da ristga. L'uffizi dal servetsch social consegna a l'uffizi da vischnancas fin il pli tard la fin da zercladur ils documents cun las pretensiuns da contribuziun da las vischnancas.
 
 <sup>2</sup> La regenza fixescha la contribuziun da gulivaziun fin il pli tard la fin d'avust.
 
@@ -216,11 +217,11 @@ relaschada da la regenza ils 30 da zercladur 2015
 
 **Restituziun da contribuziuns nungiustifitgadas**
 
-<sup>1</sup> Sche l'Uffizi da fatgs socials scuvra ch'in rendaquint anteriur ha chaschunà ina contribuziun nungiustifitgadamain pli auta da la gulivaziun da las grevezzas socialas, po la vischnanca pretender enavos la differenza.
+<sup>1</sup> Sche l'Uffizi chantunal dal servetsch social scuvra ch'in rendaquint anteriur ha chaschunà ina contribuziun nungiustifitgadamain pli auta da la gulivaziun da las grevezzas socialas, po la vischnanca pretender enavos la differenza.
 
 <sup>2</sup> Ina dumonda da restituziun è inditgada spezialmain, sch'i vegnan scuvridas posteriuramain indicaziuns incorrectas u sch'ina restituziun a la vischnanca avess influenzà decisivamain la perioda da rendaquint pertutgada.
 
-<sup>3</sup> Sch'i sa tracta d'in cas da contribuziuns nungiustifitgadas, dispona l'Uffizi da fatgs socials ina correctura.
+<sup>3</sup> Sch'i sa tracta d'in cas da contribuziuns nungiustifitgadas, dispona l'Uffizi chantunal dal servetsch social ina correctura.
 
 ### 3.3. Gulivaziun individuala d'inegualitads per grevezzas spezialas (GIG)
 
@@ -275,22 +276,5 @@ relaschada da la regenza ils 30 da zercladur 2015
 #### Art. 22
 
 **…**
-
-## A1 Agiunta 1: Gulivaziun limitada (art. 20)
-
-#### Art. A1-1
-
-<sup>1</sup> Questa agiunta sa basa sin la bilantscha globala da la GF sin fundament da la lescha generala davart la refurma da la GF concludida dal cussegl grond ils 5 da december 2013.
-
-<sup>2</sup> La gulivaziun limitada per las vischnancas che figureschan en l'agiunta tar la lescha davart la gulivaziun da finanzas correspunda maximalmain a l'import supplementar pervia da l'introducziun da la refurma da la GF tenor la bilantscha globala da la GF. Decisivs èn ils suandants imports:
-
-- a) Fideris: — fr. 62'485.00
-- b) Küblis: — fr. 470'541.00
-- c) Masagn: — fr. 140'220.00
-- d) Razén: — fr. 451'245.00
-- e) Sagogn: — fr. 142'454.00
-- f) Schmitten: — fr. 67'651.00
-- g) Trun: — fr. 793'694.00
-- h) Verdabbio: — fr. 60'042.00
 
 2015-021
