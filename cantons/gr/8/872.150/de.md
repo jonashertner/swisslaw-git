@@ -5,11 +5,12 @@ title: Verordnung über den öffentlichen Verkehr im Kanton Graubünden
 short: VöV
 language: de
 version: 2023-01-01
+corrected: 2026-09-23
 version_adopted: 2022-12-20
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/872.150"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3779/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -453,148 +454,5 @@ von der Regierung erlassen am 20. Dezember 2022
 **Bewilligungspflicht und kantonale Bewilligungen**
 
 <sup>1</sup> Für die Bewilligungspflicht sowie für die Erteilung, die Erneuerung, die Übertragung, die Änderung, den Verzicht, den Widerruf und die Dauer von kantonalen Bewilligungen gelten die Bestimmungen des Bundesrechts.
-
-## A1 Anhang 1: Kantonale Richtwerte der abgeltungsberechtigten Angebotsstufen im öffentlichen Verkehr (Art. 5)
-
-#### Art. A1-1
-
-<sup>1</sup> Kantonale Richtwerte der abgeltungsberechtigten Angebotsstufen im öffentlichen Verkehr (RPV = regionaler Personenverkehr, KP = Kurspaare):
-
-<table>
-<tr><th>Angebotsstufen</th><th>Richtwerte</th><th>Basiserschliessung RPV</th><th>Basiserschliessung Grunderschliessung</th><th>Zusatzerschliessung (total max. Anzahl KP)</th></tr>
-<tr><td>Minimalangebot</td><td>6–8 KP</td><td>4–8 KP</td><td>4–8 KP</td><td>Max. zusätzliche KP: 6 (total max. 14 KP)</td></tr>
-<tr><td>Übergangsangebot</td><td>10–12 KP</td><td>8–13 KP</td><td>-</td><td>Max. zusätzliche KP: 9 (total max. 22 KP)</td></tr>
-<tr><td>Standardangebot</td><td>14–18 KP</td><td>14–18 KP</td><td>-</td><td>Max. zusätzliche KP: 12 (total max. 30 KP)</td></tr>
-<tr><td>Dichtes Angebot</td><td>30–40 KP</td><td>19–40 KP</td><td>-</td><td>Max. zusätzliche KP: 20 (total max. 60 KP)</td></tr>
-<tr><td>Urbanes Angebot</td><td>60–72 KP</td><td>41–72 KP</td><td>-</td><td>Max. zusätzliche KP: 28 (total max. 100 KP)</td></tr>
-</table>
-
-## A2 Anhang 2: Kantonale Minimalwerte der Zusatzerschliessung betreffend Nachfrage und Wirtschaftlichkeit (Art. 7)
-
-#### Art. A2-1
-
-**Minimalwerte «Nachfrage»**
-
-<sup>1</sup> Minimalwerte «Nachfrage» (RPV = regionaler Personenverkehr):
-
-<table>
-<tr><th>Nachfrage RPV</th><th>Zusatzerschliessung</th><th>Anzahl Kurspaare</th></tr>
-<tr><td>0</td><td>0</td><td>6</td></tr>
-<tr><td>32</td><td>26</td><td>6–7</td></tr>
-<tr><td>36</td><td>29</td><td>6–8</td></tr>
-<tr><td>50</td><td>40</td><td>6–9</td></tr>
-<tr><td>70</td><td>56</td><td>7–10</td></tr>
-<tr><td>95</td><td>76</td><td>8–11</td></tr>
-<tr><td>120</td><td>96</td><td>9–12</td></tr>
-<tr><td>145</td><td>116</td><td>10–13</td></tr>
-<tr><td>175</td><td>140</td><td>11–14</td></tr>
-<tr><td>210</td><td>168</td><td>12–15</td></tr>
-<tr><td>245</td><td>196</td><td>13–16</td></tr>
-<tr><td>280</td><td>224</td><td>14–18</td></tr>
-<tr><td>320</td><td>256</td><td>15–19</td></tr>
-<tr><td>365</td><td>292</td><td>16–20</td></tr>
-<tr><td>410</td><td>328</td><td>17–21</td></tr>
-<tr><td>455</td><td>364</td><td>18–23</td></tr>
-<tr><td>532</td><td>426</td><td>19–24</td></tr>
-<tr><td>594</td><td>475</td><td>20–25</td></tr>
-<tr><td>657</td><td>526</td><td>21–26</td></tr>
-<tr><td>719</td><td>575</td><td>22–28</td></tr>
-<tr><td>792</td><td>634</td><td>23–29</td></tr>
-<tr><td>875</td><td>700</td><td>24–30</td></tr>
-<tr><td>959</td><td>767</td><td>25–31</td></tr>
-<tr><td>1042</td><td>834</td><td>26–33</td></tr>
-<tr><td>1125</td><td>900</td><td>27–34</td></tr>
-<tr><td>1209</td><td>967</td><td>28–35</td></tr>
-<tr><td>1292</td><td>1034</td><td>29–36</td></tr>
-<tr><td>1375</td><td>1100</td><td>30–38</td></tr>
-<tr><td>1459</td><td>1167</td><td>31–39</td></tr>
-<tr><td>1563</td><td>1250</td><td>32–40</td></tr>
-<tr><td>1688</td><td>1350</td><td>33–41</td></tr>
-<tr><td>1813</td><td>1450</td><td>34–43</td></tr>
-<tr><td>1938</td><td>1550</td><td>35–44</td></tr>
-<tr><td>2063</td><td>1650</td><td>36–45</td></tr>
-<tr><td>2188</td><td>1750</td><td>37–46</td></tr>
-<tr><td>2313</td><td>1850</td><td>38–48</td></tr>
-<tr><td>2438</td><td>1950</td><td>39–49</td></tr>
-<tr><td>2584</td><td>2067</td><td>40–50</td></tr>
-<tr><td>2750</td><td>2200</td><td>41–51</td></tr>
-<tr><td>2917</td><td>2334</td><td>42–53</td></tr>
-<tr><td>3084</td><td>2467</td><td>43–54</td></tr>
-<tr><td>3250</td><td>2600</td><td>44–55</td></tr>
-<tr><td>3417</td><td>2734</td><td>45–56</td></tr>
-<tr><td>3584</td><td>2867</td><td>46–58</td></tr>
-<tr><td>3750</td><td>3000</td><td>47–59</td></tr>
-<tr><td>3917</td><td>3134</td><td>48–60</td></tr>
-<tr><td>4084</td><td>3267</td><td>49–61</td></tr>
-<tr><td>4250</td><td>3400</td><td>50–63</td></tr>
-<tr><td>4417</td><td>3534</td><td>51–64</td></tr>
-<tr><td>4584</td><td>3667</td><td>52–65</td></tr>
-<tr><td>4750</td><td>3800</td><td>53–66</td></tr>
-<tr><td>4917</td><td>3934</td><td>54–68</td></tr>
-<tr><td>5084</td><td>4067</td><td>55–69</td></tr>
-<tr><td>5250</td><td>4200</td><td>56–70</td></tr>
-<tr><td>5417</td><td>4334</td><td>57–71</td></tr>
-<tr><td>5584</td><td>4467</td><td>58–72</td></tr>
-<tr><td>5750</td><td>4600</td><td>59–72</td></tr>
-<tr><td>5917</td><td>4734</td><td>60–72</td></tr>
-<tr><td>6084</td><td>4867</td><td>61–72</td></tr>
-<tr><td>6250</td><td>5000</td><td>62–72</td></tr>
-<tr><td>6417</td><td>5134</td><td>63–72</td></tr>
-<tr><td>6584</td><td>5267</td><td>64–72</td></tr>
-<tr><td>6750</td><td>5400</td><td>65–72</td></tr>
-<tr><td>6917</td><td>5534</td><td>66–72</td></tr>
-<tr><td>7084</td><td>5667</td><td>67–72</td></tr>
-<tr><td>7250</td><td>5800</td><td>68–72</td></tr>
-<tr><td>7417</td><td>5934</td><td>69–72</td></tr>
-<tr><td>7584</td><td>6067</td><td>70–72</td></tr>
-<tr><td>7750</td><td>6200</td><td>71–72</td></tr>
-<tr><td>7917</td><td>6334</td><td>72–72</td></tr>
-</table>
-
-<sup>2</sup> Grosse Ausbauschritte bei der Zusatzerschliessung erfordern eine Nachfrageprognose als Basis. Ein Angebotsausbau für die Zusatzerschliessung kann nur bis zur maximal möglichen Anzahl Kurspaare der jeweiligen Angebotsstufe erfolgen.
-
-#### Art. A2-2
-
-**Minimalwerte «Wirtschaftlichkeit»**
-
-<sup>1</sup> Bei der Bestellung der Zusatzerschliessung entspricht das Kriterium Wirtschaftlichkeit den Mindestanforderungen des Bundesamts für Verkehr (Art. 6 der Verordnung über die Abgeltung des regionalen Personenverkehrs [ARPV; SR [745.16](https://db.clex.ch/link/Bund/745.16/de)]):
-
-<table>
-<tr><th>Verkehrsmittel</th><th>Angebotsstufe</th><th>Minimalwert Wirtschaftlichkeit (Kostendeckungsgrad)</th></tr>
-<tr><td>Bahn</td><td>1–5</td><td>20%</td></tr>
-<tr><td>Bahnersatz</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Seilbahnen</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Bus</td><td>1–2</td><td>10%</td></tr>
-<tr><td>Bus</td><td>3–5</td><td>20%</td></tr>
-<tr><td>Rufbusse</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Abendangebote</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Nachtangebote</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Schiffe</td><td>1–5</td><td>20%</td></tr>
-</table>
-
-## A3 Anhang 3: Fahrplanregionen (Art. 35)
-
-#### Art. A3-1
-
-<sup>1</sup> Fahrplanregionen:
-
-<table>
-<tr><th>Fahrplanregion Nr.</th><th>Bezeichnung</th><th>Gemeinden</th></tr>
-<tr><td>1</td><td>Landquart</td><td>(Chur)[^A31-1], Jenins, Fläsch, Landquart, Maienfeld, Malans, Trimmis, Untervaz, Zizers</td></tr>
-<tr><td>2</td><td>Prättigau / Davos</td><td>Conters im Prättigau, Davos, Fideris, Furna, Grüsch, Jenaz, Klosters, Küblis, Luzein, Schiers, Seewis im Prättigau</td></tr>
-<tr><td>3</td><td>Plessur</td><td>Chur[^A31-2], Churwalden, Arosa, Tschiertschen-Praden</td></tr>
-<tr><td>4</td><td>Imboden</td><td>(Chur)[^A31-3], Bonaduz, Domat / Ems, Felsberg, Rhäzüns, Tamins</td></tr>
-<tr><td>5</td><td>Viamala</td><td>Andeer, Avers, Cazis, Domleschg, Ferrera, Flerden, Fürstenau, Masein, Muntogna da Schons, Rheinwald, Rongellen, Rothenbrunnen, Scharans, Sils im Domleschg, Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen</td></tr>
-<tr><td>6</td><td>Moesa</td><td>Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Santa Maria in Calanca, Soazza</td></tr>
-<tr><td>7</td><td>Albula</td><td>Albula / Alvra, Bergün Filisur, Lantsch / Lenz, Schmitten, Surses, Vaz / Obervaz</td></tr>
-<tr><td>8</td><td>Surselva</td><td>Breil / Brigels, Disentis / Mustér, Falera, Flims, Ilanz / Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trin, Trun, Tujetsch, Vals</td></tr>
-<tr><td>9</td><td>Engiadina Bassa / Val Müstair</td><td>Samnaun, Scuol, Val Müstair, Valsot, Zernez</td></tr>
-<tr><td>10</td><td>Bernina</td><td>Brusio, Poschiavo</td></tr>
-<tr><td>11</td><td>Maloja</td><td>Bever, Bregaglia, Celerina / Schlarigna, La Punt Chamues‑ch, Madulain, Pontresina, Samedan, S‑chanf, Sils im Engadin / Segl, Silvaplana, St. Moritz, Zuoz</td></tr>
-</table>
-
-[^A31-1]: Aufgrund der verschiedenen Verkehrsströme in den Fahrplanregionen 1 und 4 erfasst.
-[^A31-2]: Aufgrund der verschiedenen Verkehrsströme in den Fahrplanregionen 1 und 4 erfasst.
-[^A31-3]: Aufgrund der verschiedenen Verkehrsströme in den Fahrplanregionen 1 und 4 erfasst.
 
 2022-049

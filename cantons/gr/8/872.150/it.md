@@ -5,11 +5,12 @@ title: Ordinanza sui trasporti pubblici nel Cantone dei Grigioni
 short: OTPubb
 language: it
 version: 2023-01-01
+corrected: 2026-09-23
 version_adopted: 2022-12-20
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/872.150"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3779/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3293/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -453,148 +454,5 @@ visti l'art. 45 cpv. 1 e l'art. 82 cpv. 1 e cpv. 3 della Costituzione cantonale[
 **Obbligo di autorizzazione e autorizzazioni cantonali**
 
 <sup>1</sup> Per quanto riguarda l'obbligo di autorizzazione nonché il rilascio, il rinnovo, il trasferimento, la modifica, la rinuncia, la revoca e la durata di autorizzazioni cantonali fanno stato le disposizioni del diritto federale.
-
-## A1 Allegato 1: Valori indicativi dei livelli di offerta nei trasporti pubblici che danno diritto a un'indennità cantonale (art. 5)
-
-#### Art. A1-1
-
-<sup>1</sup> Valori indicativi dei livelli di offerta nei trasporti pubblici che danno diritto a un'indennità cantonale (TRV = traffico regionale viaggiatori, CC = coppie di corse):
-
-<table>
-<tr><th>Livelli di offerta</th><th>Valori indicativi</th><th>Collegamento di base TRV</th><th>Collegamento di base Collegamento elementare</th><th>Collegamento complementare (totale max. numero CC)</th></tr>
-<tr><td>Offerta minima</td><td>6–8 CC</td><td>4–8 CC</td><td>4–8 CC</td><td>Max. CC supplementari: 6 (totale max. 14 CC)</td></tr>
-<tr><td>Offerta transitoria</td><td>10–12 CC</td><td>8–13 CC</td><td>-</td><td>Max. CC supplementari: 9 (totale max. 22 CC)</td></tr>
-<tr><td>Offerta standard</td><td>14–18 CC</td><td>14–18 CC</td><td>-</td><td>Max. CC supplementari: 12 (totale max. 30 CC)</td></tr>
-<tr><td>Offerta fitta</td><td>30–40 CC</td><td>19–40 CC</td><td>-</td><td>Max. CC supplementari: 20 (totale max. 60 CC)</td></tr>
-<tr><td>Offerta urbana</td><td>60–72 CC</td><td>41–72 CC</td><td>-</td><td>Max. CC supplementari: 28(totale max. 100 CC)</td></tr>
-</table>
-
-## A2 Allegato 2: Valori cantonali minimi del collegamento complementare concernenti la domanda e l'economicità (art. 7)
-
-#### Art. A2-1
-
-**Valori minimi «domanda»**
-
-<sup>1</sup> Valori minimi «domanda» (TRV = traffico regionale viaggiatori):
-
-<table>
-<tr><th>Domanda TRV</th><th>Collegamento complementare</th><th>Numero di coppie di corse</th></tr>
-<tr><td>0</td><td>0</td><td>6</td></tr>
-<tr><td>32</td><td>26</td><td>6–7</td></tr>
-<tr><td>36</td><td>29</td><td>6–8</td></tr>
-<tr><td>50</td><td>40</td><td>6–9</td></tr>
-<tr><td>70</td><td>56</td><td>7–10</td></tr>
-<tr><td>95</td><td>76</td><td>8–11</td></tr>
-<tr><td>120</td><td>96</td><td>9–12</td></tr>
-<tr><td>145</td><td>116</td><td>10–13</td></tr>
-<tr><td>175</td><td>140</td><td>11–14</td></tr>
-<tr><td>210</td><td>168</td><td>12–15</td></tr>
-<tr><td>245</td><td>196</td><td>13–16</td></tr>
-<tr><td>280</td><td>224</td><td>14–18</td></tr>
-<tr><td>320</td><td>256</td><td>15–19</td></tr>
-<tr><td>365</td><td>292</td><td>16–20</td></tr>
-<tr><td>410</td><td>328</td><td>17–21</td></tr>
-<tr><td>455</td><td>364</td><td>18–23</td></tr>
-<tr><td>532</td><td>426</td><td>19–24</td></tr>
-<tr><td>594</td><td>475</td><td>20–25</td></tr>
-<tr><td>657</td><td>526</td><td>21–26</td></tr>
-<tr><td>719</td><td>575</td><td>22–28</td></tr>
-<tr><td>792</td><td>634</td><td>23–29</td></tr>
-<tr><td>875</td><td>700</td><td>24–30</td></tr>
-<tr><td>959</td><td>767</td><td>25–31</td></tr>
-<tr><td>1042</td><td>834</td><td>26–33</td></tr>
-<tr><td>1125</td><td>900</td><td>27–34</td></tr>
-<tr><td>1209</td><td>967</td><td>28–35</td></tr>
-<tr><td>1292</td><td>1034</td><td>29–36</td></tr>
-<tr><td>1375</td><td>1100</td><td>30–38</td></tr>
-<tr><td>1459</td><td>1167</td><td>31–39</td></tr>
-<tr><td>1563</td><td>1250</td><td>32–40</td></tr>
-<tr><td>1688</td><td>1350</td><td>33–41</td></tr>
-<tr><td>1813</td><td>1450</td><td>34–43</td></tr>
-<tr><td>1938</td><td>1550</td><td>35–44</td></tr>
-<tr><td>2063</td><td>1650</td><td>36–45</td></tr>
-<tr><td>2188</td><td>1750</td><td>37–46</td></tr>
-<tr><td>2313</td><td>1850</td><td>38–48</td></tr>
-<tr><td>2438</td><td>1950</td><td>39–49</td></tr>
-<tr><td>2584</td><td>2067</td><td>40–50</td></tr>
-<tr><td>2750</td><td>2200</td><td>41–51</td></tr>
-<tr><td>2917</td><td>2334</td><td>42–53</td></tr>
-<tr><td>3084</td><td>2467</td><td>43–54</td></tr>
-<tr><td>3250</td><td>2600</td><td>44–55</td></tr>
-<tr><td>3417</td><td>2734</td><td>45–56</td></tr>
-<tr><td>3584</td><td>2867</td><td>46–58</td></tr>
-<tr><td>3750</td><td>3000</td><td>47–59</td></tr>
-<tr><td>3917</td><td>3134</td><td>48–60</td></tr>
-<tr><td>4084</td><td>3267</td><td>49–61</td></tr>
-<tr><td>4250</td><td>3400</td><td>50–63</td></tr>
-<tr><td>4417</td><td>3534</td><td>51–64</td></tr>
-<tr><td>4584</td><td>3667</td><td>52–65</td></tr>
-<tr><td>4750</td><td>3800</td><td>53–66</td></tr>
-<tr><td>4917</td><td>3934</td><td>54–68</td></tr>
-<tr><td>5084</td><td>4067</td><td>55–69</td></tr>
-<tr><td>5250</td><td>4200</td><td>56–70</td></tr>
-<tr><td>5417</td><td>4334</td><td>57–71</td></tr>
-<tr><td>5584</td><td>4467</td><td>58–72</td></tr>
-<tr><td>5750</td><td>4600</td><td>59–72</td></tr>
-<tr><td>5917</td><td>4734</td><td>60–72</td></tr>
-<tr><td>6084</td><td>4867</td><td>61–72</td></tr>
-<tr><td>6250</td><td>5000</td><td>62–72</td></tr>
-<tr><td>6417</td><td>5134</td><td>63–72</td></tr>
-<tr><td>6584</td><td>5267</td><td>64–72</td></tr>
-<tr><td>6750</td><td>5400</td><td>65–72</td></tr>
-<tr><td>6917</td><td>5534</td><td>66–72</td></tr>
-<tr><td>7084</td><td>5667</td><td>67–72</td></tr>
-<tr><td>7250</td><td>5800</td><td>68–72</td></tr>
-<tr><td>7417</td><td>5934</td><td>69–72</td></tr>
-<tr><td>7584</td><td>6067</td><td>70–72</td></tr>
-<tr><td>7750</td><td>6200</td><td>71–72</td></tr>
-<tr><td>7917</td><td>6334</td><td>72–72</td></tr>
-</table>
-
-<sup>2</sup> Importanti fasi di ampliamento in relazione a un collegamento complementare devono necessariamente avere quale base una previsione della domanda. L'offerta dei collegamenti complementari può essere potenziata solo fino al raggiungimento del numero massimo di coppie di corse del relativo livello di offerta.
-
-#### Art. A2-2
-
-**Valori minimi «economicità»**
-
-<sup>1</sup> In sede di ordinazione di un collegamento complementare il criterio dell'economicità corrisponde ai requisiti minimi dell'Ufficio federale dei trasporti (art. 6 dell'ordinanza sulle indennità per il traffico regionale viaggiatori [OITRV; RS [745.16](https://db.clex.ch/link/Bund/745.16/it)]):
-
-<table>
-<tr><th>Mezzo di trasporto</th><th>Livello di offerta</th><th>Valore minimo Economicità (Grado di copertura dei costi)</th></tr>
-<tr><td>Ferrovia</td><td>1–5</td><td>20%</td></tr>
-<tr><td>Sostituzione offerta ferroviaria</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Funivie</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Autobus</td><td>1–2</td><td>10%</td></tr>
-<tr><td>Autobus</td><td>3–5</td><td>20%</td></tr>
-<tr><td>Autobus a chiamata</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Offerte serali</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Offerte notturne</td><td>1–5</td><td>10%</td></tr>
-<tr><td>Natanti</td><td>1–5</td><td>20%</td></tr>
-</table>
-
-## A3 Allegato 3: Regioni dell'orario (art. 35)
-
-#### Art. A3-1
-
-<sup>1</sup> Regioni dell'orario:
-
-<table>
-<tr><th>Regione dell'orario N.</th><th>Designazione</th><th>Comuni</th></tr>
-<tr><td>1</td><td>Landquart</td><td>(Coira)[^A31-1], Jenins, Fläsch, Landquart, Maienfeld, Malans, Trimmis, Untervaz, Zizers</td></tr>
-<tr><td>2</td><td>Prättigau / Davos</td><td>Conters im Prättigau, Davos, Fideris, Furna, Grüsch, Jenaz, Klosters, Küblis, Luzein, Schiers, Seewis im Prättigau</td></tr>
-<tr><td>3</td><td>Plessur</td><td>Coira[^A31-2], Churwalden, Arosa, Tschiertschen – Praden</td></tr>
-<tr><td>4</td><td>Imboden</td><td>(Coira))[^A31-3], Bonaduz, Domat / Ems, Felsberg, Rhäzüns, Tamins</td></tr>
-<tr><td>5</td><td>Viamala</td><td>Andeer, Avers, Cazis, Domleschg, Ferrera, Flerden, Fürstenau, Masein, Muntogna da Schons, Rheinwald, Rongellen, Rothenbrunnen, Scharans, Sils im Domleschg, Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen</td></tr>
-<tr><td>6</td><td>Moesa</td><td>Andeer, Avers, Cazis, Domleschg, Ferrera, Flerden, Fürstenau, Masein, Muntogna da Schons, Rheinwald, Rongellen, Rothenbrunnen, Scharans, Sils im Domleschg, Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen</td></tr>
-<tr><td>7</td><td>Albula</td><td>Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Santa Maria in Calanca, Soazza</td></tr>
-<tr><td>8</td><td>Surselva</td><td>Albula / Alvra, Bergün Filisur, Lantsch/Lenz, Schmitten, Surses, Vaz / Obervaz</td></tr>
-<tr><td>9</td><td>Engiadina Bassa / Val Müstair</td><td>Breil / Brigels, Disentis / Mustér, Falera, Flims, Ilanz / Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trin, Trun, Tujetsch, Vals</td></tr>
-<tr><td>10</td><td>Bernina</td><td>Brusio, Poschiavo</td></tr>
-<tr><td>11</td><td>Maloja</td><td>Bever, Bregaglia, Celerina / Schlarigna, La Punt Chamues‑ch, Madulain, Pontresina, Samedan, S‑chanf, Sils im Engadin / Segl, Silvaplana, St. Moritz, Zuoz</td></tr>
-</table>
-
-[^A31-1]: Per via dei diversi flussi di traffico figura anche nelle regioni dell'orario 1 e 4.
-[^A31-2]: Per via dei diversi flussi di traffico figura anche nelle regioni dell'orario 1 e 4.
-[^A31-3]: Per via dei diversi flussi di traffico figura anche nelle regioni dell'orario 1 e 4.
 
 2022-049
