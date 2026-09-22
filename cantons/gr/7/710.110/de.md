@@ -5,12 +5,12 @@ title: Verordnung über den kantonalen Finanzhaushalt
 short: FHV
 language: de
 version: 2025-01-01
-corrected: 2025-06-12
+corrected: 2026-09-23
 version_adopted: 2023-04-04
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3464/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3560/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -588,7 +588,7 @@ von der Regierung erlassen am 25. September 2012
 
 - a) die Vergabe von Arbeiten;
 - b) den Einkauf von Gütern, Waren und Dienstleistungen; den Kauf und Tausch von Liegenschaften im Verwaltungsvermögen sowie Dienstbarkeiten;
-- c) den Abschluss von Pacht-, Miet-, Leasing- und für den Kanton kostenwirksame Versicherungsverträgen;
+- c) den Abschluss von Pacht-, Miet-, Leasing- und für den Kanton kostenwirksamen Versicherungsverträgen;
 - d) die Führung von Prozessen und den Abschluss von Vergleichen;
 - e) die Gewährung und Kündigung von Darlehen des Verwaltungsvermögens;
 - f) den Erwerb von Beteiligungen sowie das Eingehen von Eventualverbindlichkeiten.

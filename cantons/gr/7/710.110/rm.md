@@ -5,12 +5,12 @@ title: Ordinaziun da finanzas dal chantun Grischun
 short: OFC
 language: rm
 version: 2025-01-01
-corrected: 2025-06-12
+corrected: 2026-09-23
 version_adopted: 2023-04-04
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3464/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3560/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
