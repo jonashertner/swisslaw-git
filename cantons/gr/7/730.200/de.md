@@ -5,11 +5,12 @@ title: Gesetz über den Finanzausgleich im Kanton Graubünden
 short: "Finanzausgleichsgesetz, FAG"
 language: de
 version: 2022-01-01
+corrected: 2026-09-23
 version_adopted: 2021-02-18
 adopted: 2013-12-05
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/730.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3785/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -303,32 +304,5 @@ beschliesst:
 <sup>1</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^24-1] dieses Gesetzes. Sie kann Artikel 17 Absatz 2 rückwirkend, frühestens auf den 1. Januar 2014, in Kraft setzen.
 
 [^24-1]: Mit RB vom 18. November 2014 mit Ausnahme von Artikel 17 Absatz 2 auf den 1. Januar 2016 in Kraft gesetzt. Artikel 17 Absatz 2 tritt am 1. Januar 2015 in Kraft.
-
-## A1 Anhang 1: Art. 19 Abs. 4
-
-#### Art. A1-1
-
-<sup>1</sup> Dieser Anhang basiert auf der FA-Globalbilanz.
-
-<sup>2</sup> Gestützt auf Artikel 19 Absatz 4 haben die nachstehenden Gemeinden Anspruch auf einen befristeten Ausgleich:
-
-- a) Gemeinden mit einer Mehrbelastung gemäss der FA-Globalbilanz von mehr als Fr. 300.00 pro Einwohner haben Anspruch auf 100 Prozent des Ausgleichsbeitrages gemäss Artikel 19 Absatz 2:
-  - 1\. Almens
-  - 2\. Küblis
-  - 3\. Luzein
-  - 4\. Masein
-  - 5\. Rhäzüns
-  - 6\. Rodels
-  - 7\. Trun
-  - 8\. Verdabbio
-- b) Gemeinden mit einer Mehrbelastung gemäss der FA-Globalbilanz zwischen Fr. 100.00 und Fr. 300.00 pro Einwohner haben Anspruch auf einen Anteil von 50 Prozent des Ausgleichsbeitrages gemäss Artikel 19 Absatz 2:
-  - 1\. Fideris
-  - 2\. Mundaun
-  - 3\. Paspels
-  - 4\. Saas i.P.
-  - 5\. Sagogn
-  - 6\. Schmitten
-  - 7\. Surava
-- c) Für Gemeinden, die sich zusammenschliessen, entfällt nach dem Zusammenschluss der befristete Ausgleich
 
 2014-031

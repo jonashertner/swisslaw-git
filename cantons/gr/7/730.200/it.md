@@ -5,11 +5,12 @@ title: Legge sulla perequazione finanziaria nel Cantone dei Grigioni
 short: "Legge sulla perequazione finanziaria, LPFC"
 language: it
 version: 2022-01-01
+corrected: 2026-09-23
 version_adopted: 2021-02-18
 adopted: 2013-12-05
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/730.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3785/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3170/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -303,32 +304,5 @@ decide:
 <sup>1</sup> Il Governo stabilisce la data dell'entrata in vigore[^24-1] della presente legge. Esso può porre in vigore retroattivamente l'articolo 17 capoverso 2, al più presto con effetto al 1° gennaio 2014.
 
 [^24-1]: Posta in vigore il 1° gennaio 2016 con DG del 18 novembre 2014 ad eccezione dell'articolo 17 capoverso 2. L'articolo 17 capoverso 2 entra in vigore il 1° gennaio 2015.
-
-## A1 Appendice 1: art. 19 cpv. 4
-
-#### Art. A1-1
-
-<sup>1</sup> La presente appendice si basa sul bilancio globale PF.
-
-<sup>2</sup> In virtù dell'articolo 19 capoverso 4, i seguenti comuni hanno diritto a una compensazione limitata nel tempo:
-
-- a) I comuni con un onere supplementare secondo il bilancio globale PF di oltre fr. 300.00 per abitante hanno diritto al 100 per cento del contributo di compensazione conformemente all'articolo 19 capoverso 2:
-  - 1\. Almens
-  - 2\. Küblis
-  - 3\. Luzein
-  - 4\. Masein
-  - 5\. Rhäzüns
-  - 6\. Rodels
-  - 7\. Trun
-  - 8\. Verdabbio
-- b) I comuni con un onere supplementare secondo il bilancio globale PF tra fr. 100.00 e fr. 300.00 per abitante hanno diritto a una quota del 50 per cento del contributo di compensazione conformemente all'articolo 19 capoverso 2:
-  - 1\. Fideris
-  - 2\. Mundaun
-  - 3\. Paspels
-  - 4\. Saas i.P.
-  - 5\. Sagogn
-  - 6\. Schmitten
-  - 7\. Surava
-- c) Per i comuni che si aggregano, dopo l'aggregazione viene a cadere la perequazione limitata nel tempo
 
 2014-031
