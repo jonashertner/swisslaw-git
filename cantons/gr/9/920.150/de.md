@@ -5,11 +5,12 @@ title: Verordnung zum Integralen Risikomanagement bei Naturgefahren
 short: IRMV
 language: de
 version: 2021-01-01
+corrected: 2026-09-23
 version_adopted: 2020-12-15
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/920.150"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3863/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -182,7 +183,7 @@ von der Regierung erlassen am 15. Dezember 2020
 
 <sup>2</sup> Die lokale Naturgefahrenberaterin oder der lokale Naturgefahrenberater berät die Gemeinde, den Gemeindeführungsstab und die Einsatzkräfte zum Umgang mit Naturgefahren.
 
-<sup>3</sup> Das Amt legt im Einvernehmen mit dem Amt für Bevölkerungsschutz und Militär den Inhalt und die Ausführung der Aus- und Weiterbildung der lokalen Naturgefahrenberaterin oder des lokalen Naturgefahrenberaters fest.
+<sup>3</sup> Das Amt legt im Einvernehmen mit dem Amt für Militär und Zivilschutz den Inhalt und die Ausführung der Aus- und Weiterbildung der lokalen Naturgefahrenberaterin oder des lokalen Naturgefahrenberaters fest.
 
 #### Art. 17
 
@@ -199,48 +200,5 @@ von der Regierung erlassen am 15. Dezember 2020
 **Beratung**
 
 <sup>1</sup> Das Amt kann Gemeinden und zuständige Dritte zum Umgang mit Naturgefahren und der Bewältigung von Naturereignissen beraten.
-
-## A1 Anhang 1: Schutzzielmatrix für Siedlungen (Art. 9 Abs. 1)
-
-#### Art. A1-1
-
-<sup>1</sup> Gefahrenbeurteilung (CH-Richtlinien):
-
-<sup>2</sup> Schutzgüter:
-
-<sup>3</sup> Handlungsbedarf:
-
-<sup>4</sup> Bauzonen aus Nutzungsplan:
-
-<sup>5</sup> Erfassungsbereiche orange:
-
-<sup>6</sup> Erfassungsbereiche grün:
-
-<sup>7</sup> Unbewohnte Einzelgebäude, intensive landwirtschaftliche Nutzung, Schutzwald[^A11-1]:
-
-[^A11-1]: Risikobewertung liegt im Zuständigkeitsbereich der Gemeinden.
-
-## A2 Anhang 2: Schutzzielmatrix für Verkehrsträger (Art. 9 Abs. 1)
-
-#### Art. A2-1
-
-<sup>1</sup> Schutzgüter:
-
-<sup>2</sup> Handlungsbedarf:
-
-<sup>3</sup> Bahnlinien (RhB):
-
-<sup>4</sup> Nationalstrassen:
-
-<sup>5</sup> Kantonale Hauptstrassen:
-
-<sup>6</sup> Kantonale Verbindungsstrassen (Zum Beispiel: einzige Erschliessung einer Ortschaft, eines Bahnhofs oder einer anderen wichtigen Versorgungsanlage):
-
-<sup>7</sup> Gemeindestrassen (mit Winterräumung)[^A21-1]:
-
-<sup>8</sup> Übrige Strassen (Privat, Wald, Landwirtschaft)[^A21-2]:
-
-[^A21-1]: Risikobewertung liegt im Zuständigkeitsbereich der Gemeinden
-[^A21-2]: Risikobewertung liegt im Zuständigkeitsbereich der Gemeinden
 
 2020-073

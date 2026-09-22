@@ -5,11 +5,12 @@ title: Ordinanza concernente la gestione integrale dei rischi per i pericoli nat
 short: OGIR
 language: it
 version: 2021-01-01
+corrected: 2026-09-23
 version_adopted: 2020-12-15
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/920.150"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3863/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3121/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -182,7 +183,7 @@ visti l'art. 19 della legge federale sulle foreste[^ingress-1], l'art. 15 cpv. 1
 
 <sup>2</sup> Il consulente locale specializzato in pericoli naturali fornisce consulenza al comune, allo stato maggiore di condotta comunale e alle forze d'intervento in materia di gestione dei pericoli naturali.
 
-<sup>3</sup> In accordo con l'Ufficio della protezione della popolazione e del militare, l'Ufficio definisce il contenuto e lo svolgimento della formazione e del perfezionamento professionale del consulente locale specializzato in pericoli naturali.
+<sup>3</sup> In accordo con l'Ufficio del militare e della protezione civile, l'Ufficio definisce il contenuto e lo svolgimento della formazione e del perfezionamento professionale del consulente locale specializzato in pericoli naturali.
 
 #### Art. 17
 
@@ -199,48 +200,5 @@ visti l'art. 19 della legge federale sulle foreste[^ingress-1], l'art. 15 cpv. 1
 **Consulenza**
 
 <sup>1</sup> L'Ufficio può fornire consulenza ai comuni e a terzi competenti riguardo alla gestione di pericoli naturali e di eventi naturali.
-
-## A1 Allegato 1: Matrice degli obiettivi di protezione per gli insediamenti (art. 9 cpv. 1)
-
-#### Art. A1-1
-
-<sup>1</sup> Valutazione dei pericoli (direttive CH):
-
-<sup>2</sup> Beni da proteggere:
-
-<sup>3</sup> Necessità di agire:
-
-<sup>4</sup> Zone edificabili dal piano delle utilizzazioni:
-
-<sup>5</sup> Settori di rilevamento arancioni:
-
-<sup>6</sup> Settori di rilevamento verdi:
-
-<sup>7</sup> Singoli edifici disabitati, sfruttamento agricolo intensivo, bosco di protezione[^A11-1]:
-
-[^A11-1]: La valutazione dei rischi rientra nell'ambito di competenza dei comuni.
-
-## A2 Allegato 2: Matrice degli obiettivi di protezione per i vettori di traffico (art. 9 cpv. 1)
-
-#### Art. A2-1
-
-<sup>1</sup> Beni da proteggere:
-
-<sup>2</sup> Necessità di agire:
-
-<sup>3</sup> Linee ferroviarie (FR):
-
-<sup>4</sup> Strade nazionali:
-
-<sup>5</sup> Strade principali cantonali:
-
-<sup>6</sup> Strade cantonali di collegamento (Ad esempio: unico allacciamento di una località, di una stazione o di un altro impianto di approvvigionamento importante):
-
-<sup>7</sup> Strade comunali (con sgombero invernale)[^A21-1]:
-
-<sup>8</sup> Altre strade (private, forestali, agricole)[^A21-2]:
-
-[^A21-1]: La valutazione dei rischi rientra nell'ambito di competenza dei comuni.
-[^A21-2]: La valutazione dei rischi rientra nell'ambito di competenza dei comuni.
 
 2020-073
