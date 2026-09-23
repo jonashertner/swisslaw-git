@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision totale de l'ordonnance du DFJP sur les instruments de mesure des rayonnements ionisants (OIMRI) et révision partielle de l'ordonnance sur les émoluments de vérification et de con trôle en métrologie (OEmV)"
 document: Projet mis en consultation
 language: fr

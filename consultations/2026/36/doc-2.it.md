@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione totale dell'ordinanza del DFGP sugli strumenti di misurazione delle radiazioni ionizzanti (OSMRI) e revisione parziale dell'ordinanza sugli emolumenti di verificazione e di controllo in materia di metrologia (OEm-V)"
 document: Progetto posto in consultazione
 language: it

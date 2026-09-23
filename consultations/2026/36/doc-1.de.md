@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Verordnung des EJPD über Messmittel für ionisierende Strahlung (StMmV) und Teilrevision der Verordnung über die Eich- und Kontrollgebühren im Messwesen (EichGebV)
 document: Vernehmlassungsvorlage-2
 language: de
