@@ -4,11 +4,11 @@ title: Ordinanza della FINMA del 6 marzo 2024 sugli obblighi di pubblicazione de
 short: OPub-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: it
-version: 2026-01-19
+version: 2026-09-24
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260119/it/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260119-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260924/it/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260924-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/it"
 
 (OPub-FINMA)
 
-del 6 marzo 2024 (Stato 19 gennaio 2026)
+del 6 marzo 2024 (Stato 24 settembre 2026)
 
 L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
 
@@ -424,7 +424,7 @@ Allegato 2[^t-1]
 
 ## Pubblicazione concernente i fondi propri, la liquidità, le remunerazioni e i rischi
 
-[^t-1]: Aggiornato dalle correzioni del 14 ott. 2025 ([RU 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)) e del 19 gen. 2026 ([RU 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
+[^t-1]: Aggiornato dalle correzioni del 14 ott. 2025 ([RU 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)), del 19 gen. 2026 ([RU 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)) e del 24 set. 2026 ([RU 2026 491](https://fedlex.data.admin.ch/eli/oc/2026/491)).
 
 ### 1 Tabella KM1: Indicatori prudenziali fondamentali
 
@@ -1362,7 +1362,7 @@ Visione d’insieme dei vari tipi di valutazioni prudenti secondo gli articoli 1
 ### 16.2 Tabella
 
 <table>
-<tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>S</th></tr>
+<tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th></tr>
 <tr><th></th><th></th><th>Strumenti con carattere di partecipazione</th><th>Strumenti su tasso d’interesse</th><th>Strumenti di cambio</th><th>Strumenti di credito</th><th>Strumenti su materie prime</th><th>Totale</th><th>Di cui nel portafoglio di negoziazione</th><th>Di cui nel portafoglio della banca</th></tr>
 <tr><td>1</td><td>Incertezza concernente la chiusura, risultante da:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>– prezzi medi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -2453,7 +2453,7 @@ Si applicano le disposizioni di cui al numero 50 DIS nella versione riportata ne
 ### 54.2 Tabella
 
 <table>
-<tr><th></th><th></th><th>a</th><th>b</th><th>b</th><th>d</th></tr>
+<tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th></tr>
 <tr><th></th><th></th><th>Prodotti «outright»</th><th colspan="3">Opzioni</th></tr>
 <tr><th></th><th></th><th></th><th>Procedura semplificata</th><th>Procedura delta plus</th><th>Analisi degli scenari</th></tr>
 <tr><td>1</td><td>Rischio di tasso d’interesse</td><td></td><td></td><td></td><td></td></tr>

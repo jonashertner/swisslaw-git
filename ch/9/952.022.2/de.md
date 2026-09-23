@@ -4,11 +4,11 @@ title: Verordnung der FINMA vom 6. März 2024 über die Offenlegungspflichten de
 short: OffV-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: de
-version: 2026-01-19
+version: 2026-09-24
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260119/de/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260119-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260924/de/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260924-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/de"
 
 (OffV-FINMA)
 
-vom 6. März 2024 (Stand am 19. Januar 2026)
+vom 6. März 2024 (Stand am 24. September 2026)
 
 Die Eidgenössische Finanzmarktaufsicht (FINMA),
 
@@ -424,7 +424,7 @@ Anhang 2[^t-1]
 
 ## Offenlegung zu Eigenmitteln, Liquidität, Vergütungen und Risiken
 
-[^t-1]: Bereinigt durch Berichtigungen vom 14. Okt. 2025 ([AS 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)) und vom 19. Jan. 2026 ([AS 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
+[^t-1]: Bereinigt durch Berichtigungen vom 14. Okt. 2025 ([AS 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)), vom 19. Jan. 2026 ([AS 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)) und vom 24. Sept. 2026 ([AS 2026 491](https://fedlex.data.admin.ch/eli/oc/2026/491)).
 
 ### 1 Tabelle KM1: Grundlegende aufsichtsrechtliche Kennzahlen
 
@@ -2453,7 +2453,7 @@ Es gelten die Vorgaben nach Ziffer 50 DIS in der Fassung nach Anhang 1 ERV.
 ### 54.2 Tabelle
 
 <table>
-<tr><th></th><th></th><th>a</th><th>b</th><th>b</th><th>d</th></tr>
+<tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th></tr>
 <tr><th></th><th></th><th>Outright-Produkte</th><th colspan="3">Optionen</th></tr>
 <tr><th></th><th></th><th></th><th>Vereinfachtes Verfahren</th><th>Delta-plus-Verfahren</th><th>Szenario-Analyse</th></tr>
 <tr><td>1</td><td>Zinsrisiko</td><td></td><td></td><td></td><td></td></tr>

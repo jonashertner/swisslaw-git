@@ -4,11 +4,11 @@ title: Ordonnance de la FINMA du 6 mars 2024 sur les obligations des banques et 
 short: OPub-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: fr
-version: 2026-01-19
+version: 2026-09-24
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260119/fr/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260119-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20260924/fr/xml/fedlex-data-admin-ch-eli-cc-2024-138-20260924-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20260119/fr"
 
 (OPub-FINMA)
 
-du 6 mars 2024 (État le 19 janvier 2026)
+du 6 mars 2024 (État le 24 septembre 2026)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -424,7 +424,7 @@ Annexe 2[^t-1]
 
 ## Publication concernant les fonds propres, les liquidités, les rémunérations et les risques
 
-[^t-1]: Mise à jour par les errata du 14 oct. 2025 ([RO 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)) et du 19 janv. 2026 ([RO 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)).
+[^t-1]: Mise à jour par les errata du 14 oct. 2025 ([RO 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)), du 19 janv. 2026 ([RO 2026 19](https://fedlex.data.admin.ch/eli/oc/2026/19)) et du 24 sept. 2026 ([RO 2026 491](https://fedlex.data.admin.ch/eli/oc/2026/491)).
 
 ### 1 Tableau KM1: chiffres-clés essentiels prudentiels
 
@@ -2453,7 +2453,7 @@ Les prescriptions selon le ch. 50 DIS dans la version selon l’annexe 1 de l’
 ### 54.2 Tableau
 
 <table>
-<tr><th></th><th></th><th>a</th><th>b</th><th>b</th><th>d</th></tr>
+<tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th></tr>
 <tr><th></th><th></th><th>Produits *outright*</th><th colspan="3">Options</th></tr>
 <tr><th></th><th></th><th></th><th>Procédure simplifiée</th><th>Procédure delta-plus</th><th>Analyse par scénario</th></tr>
 <tr><td>1</td><td>Risque de taux d’intérêt</td><td></td><td></td><td></td><td></td></tr>
