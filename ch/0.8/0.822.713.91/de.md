@@ -3,11 +3,11 @@ sr: "0.822.713.91"
 title: "Protokoll von 2014 vom 11. Juni 2014 zum Übereinkommen über Zwangsarbeit, 1930"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/143"
 language: de
-version: 2022-10-10
+version: 2026-09-24
 adopted: 2014-06-11
 in_force: 2018-09-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/143/20221010/de/xml/fedlex-data-admin-ch-eli-cc-2018-143-20221010-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/143/20221010/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/143/20260924/de/xml/fedlex-data-admin-ch-eli-cc-2018-143-20260924-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/143/20260924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 17. März 2017[^t-1] Schweizerische Ratif
 
 In Kraft getreten am 28. September 2018[^t-2]
 
-(Stand am 10. Oktober 2022)
+(Stand am 24. September 2026)
 
 [^t-1]: [AS 2018 979](https://fedlex.data.admin.ch/eli/oc/2018/142)
 [^t-2]: Art. 1 Abs. 1 des BB vom 17. März 2017
@@ -61,26 +61,26 @@ dabei bestimmt, dass diese Anträge die Form eines Protokolls zu dem Übereinkom
 
 Die Konferenz nimmt heute, am 11. Juni 2014, das folgende Protokoll an, das als Protokoll von 2014 zum Übereinkommen über Zwangsarbeit, 1930, bezeichnet wird:
 
-[^ingress-1]: [SR 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^ingress-2]: [SR 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^ingress-3]: [SR 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^ingress-4]: [SR 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^ingress-5]: [SR 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^ingress-6]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^ingress-7]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^ingress-8]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^ingress-9]: [SR 0.822.728.9](https://fedlex.data.admin.ch/eli/cc/2015/686)
-[^ingress-10]: [SR 0.822.719.1](https://fedlex.data.admin.ch/eli/cc/1950/737_761_730)
-[^ingress-11]: [SR 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-12]: [SR 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
-[^ingress-13]: [SR 0.311.37](https://fedlex.data.admin.ch/eli/cc/46/696_714_724)
-[^ingress-14]: [SR 0.311.371](https://fedlex.data.admin.ch/eli/cc/1965/135_138_138)
-[^ingress-15]: [SR 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
-[^ingress-16]: [SR 0.311.542](https://fedlex.data.admin.ch/eli/cc/2006/864)
-[^ingress-17]: [SR 0.311.541](https://fedlex.data.admin.ch/eli/cc/2006/863)
-[^ingress-18]: [SR 0.105](https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307)
-[^ingress-19]: [SR 0.108](https://fedlex.data.admin.ch/eli/cc/1999/239)
-[^ingress-20]: [SR 0.109](https://fedlex.data.admin.ch/eli/cc/2014/245)
+[^ingress-1]: [SR 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^ingress-2]: [SR 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^ingress-3]: [SR 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^ingress-4]: [SR 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^ingress-5]: [SR 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^ingress-6]: [SR 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^ingress-7]: [SR 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
+[^ingress-8]: [SR 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
+[^ingress-9]: [SR 0.822.728.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3663)
+[^ingress-10]: [SR 0.822.719.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3621)
+[^ingress-11]: [SR 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-12]: [SR 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
+[^ingress-13]: [SR 0.311.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1300)
+[^ingress-14]: [SR 0.311.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1301)
+[^ingress-15]: [SR 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
+[^ingress-16]: [SR 0.311.542](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1310)
+[^ingress-17]: [SR 0.311.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1309)
+[^ingress-18]: [SR 0.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/25)
+[^ingress-19]: [SR 0.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/34)
+[^ingress-20]: [SR 0.109](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/36)
 
 #### Art. 1
 
@@ -153,7 +153,7 @@ Die Übergangsbestimmungen von Artikel 1 Absätze 2 und 3 und der Artikel 3 bis 
 
 Der Generaldirektor des Internationalen Arbeitsamtes übermittelt dem Generalsekretär der Vereinten Nationen zur Eintragung nach Artikel 102 der Charta der Vereinten Nationen[^11-1] vollständige Auskünfte über alle von ihm eingetragenen Ratifikationen, Erklärungen und Kündigungen.
 
-[^11-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^11-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 12
 
@@ -161,7 +161,7 @@ Der französische und der englische Wortlaut dieses Protokolls sind in gleicher 
 
 *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 10. Oktober 2022[^t-3]
+Geltungsbereich am 24. September 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -171,18 +171,23 @@ Geltungsbereich am 10. Oktober 2022[^t-3]
 <tr><td>Bangladesch</td><td>20. Januar</td><td>2022</td><td>20. Januar</td><td>2023</td></tr>
 <tr><td>Belgien</td><td>10. September</td><td>2019</td><td>10. September</td><td>2020</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>9. August</td><td>2018</td><td>9. August</td><td>2019</td></tr>
+<tr><td>Brasilien</td><td>25. August</td><td>2025</td><td>25. August</td><td>2026</td></tr>
+<tr><td>Brunei</td><td>12. Juni</td><td>2023</td><td>12. Juni</td><td>2024</td></tr>
 <tr><td>Chile</td><td>19. Januar</td><td>2021</td><td>19. Januar</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>16. November</td><td>2020</td><td>16. November</td><td>2021</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1. November</td><td>2019</td><td>1. November</td><td>2020</td></tr>
 <tr><td>Dänemark</td><td>14. Juni</td><td>2017</td><td>17. Juni</td><td>2018</td></tr>
+<tr><td>Grönland</td><td>18. März</td><td>2026</td><td>18. März</td><td>2027</td></tr>
 <tr><td>Deutschland</td><td>19. Juni</td><td>2019</td><td>19. Juni</td><td>2020</td></tr>
 <tr><td>Dschibuti</td><td>9. März</td><td>2018</td><td>9. März</td><td>2019</td></tr>
 <tr><td>Estland</td><td>24. November</td><td>2016</td><td>24. November</td><td>2017</td></tr>
 <tr><td>Finnland</td><td>27. Januar</td><td>2017</td><td>27. Januar</td><td>2018</td></tr>
 <tr><td>Frankreich</td><td>7. Juni</td><td>2016</td><td>7. Juni</td><td>2017</td></tr>
+<tr><td>Griechenland</td><td>3. März</td><td>2026</td><td>3. März</td><td>2027</td></tr>
 <tr><td>Irland</td><td>4. Februar</td><td>2019</td><td>4. Februar</td><td>2020</td></tr>
 <tr><td>Island</td><td>14. Juni</td><td>2017</td><td>14. Juni</td><td>2018</td></tr>
 <tr><td>Israel</td><td>11. Oktober</td><td>2018</td><td>11. Oktober</td><td>2019</td></tr>
+<tr><td>Italien</td><td>9. Juni</td><td>2026</td><td>9. Juni</td><td>2027</td></tr>
 <tr><td>Jamaika</td><td>13. Juni</td><td>2017</td><td>13. Juni</td><td>2018</td></tr>
 <tr><td>Kanada</td><td>17. Juni</td><td>2019</td><td>17. Juni</td><td>2020</td></tr>
 <tr><td>Kirgisistan</td><td>6. Oktober</td><td>2020</td><td>6. Oktober</td><td>2021</td></tr>
@@ -197,13 +202,16 @@ Geltungsbereich am 10. Oktober 2022[^t-3]
 <tr><td>Mali</td><td>12. April</td><td>2016</td><td>12. April</td><td>2017</td></tr>
 <tr><td>Malta</td><td>14. Februar</td><td>2019</td><td>14. Februar</td><td>2020</td></tr>
 <tr><td>Mauretanien</td><td>9. Februar</td><td>2016</td><td>9. Februar</td><td>2017</td></tr>
+<tr><td>Mexiko</td><td>11. Juni</td><td>2023</td><td>11. Juni</td><td>2024</td></tr>
 <tr><td>Mosambik</td><td>14. Juni</td><td>2018</td><td>14. Juni</td><td>2019</td></tr>
 <tr><td>Namibia</td><td>6. November</td><td>2017</td><td>6. November</td><td>2018</td></tr>
+<tr><td>Nepal</td><td>7. August</td><td>2026</td><td>7. August</td><td>2027</td></tr>
 <tr><td>Neuseeland</td><td>13. Dezember</td><td>2019</td><td>13. Dezember</td><td>2020</td></tr>
 <tr><td>Niederlande</td><td>8. August</td><td>2017</td><td>8. August</td><td>2018</td></tr>
 <tr><td>Niger</td><td>14. Mai</td><td>2015</td><td>9. November</td><td>2016</td></tr>
 <tr><td>Norwegen</td><td>9. November</td><td>2015</td><td>9. November</td><td>2016</td></tr>
 <tr><td>Österreich</td><td>12. September</td><td>2019</td><td>12. September</td><td>2020</td></tr>
+<tr><td>Pakistan</td><td>14. März</td><td>2025</td><td>14. März</td><td>2026</td></tr>
 <tr><td>Panama</td><td>7. September</td><td>2016</td><td>7. September</td><td>2017</td></tr>
 <tr><td>Peru</td><td>18. Juni</td><td>2021</td><td>18. Juni</td><td>2022</td></tr>
 <tr><td>Polen</td><td>10. März</td><td>2017</td><td>10. März</td><td>2018</td></tr>
@@ -226,4 +234,4 @@ Geltungsbereich am 10. Oktober 2022[^t-3]
 <tr><td>Zypern</td><td>1. Februar</td><td>2017</td><td>1. Februar</td><td>2018</td></tr>
 </table>
 
-[^t-3]: [AS 2018 981](https://fedlex.data.admin.ch/eli/oc/2018/143); [2019 1293](https://fedlex.data.admin.ch/eli/oc/2019/245), [2945](https://fedlex.data.admin.ch/eli/oc/2019/536); [2020 1483](https://fedlex.data.admin.ch/eli/oc/2020/290); [2022 577](https://fedlex.data.admin.ch/eli/oc/2022/577). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
+[^t-3]: [AS 2018 981](https://fedlex.data.admin.ch/eli/oc/2018/143); [2019 1293](https://fedlex.data.admin.ch/eli/oc/2019/245), [2945](https://fedlex.data.admin.ch/eli/oc/2019/536); [2020 1483](https://fedlex.data.admin.ch/eli/oc/2020/290); [2022 577](https://fedlex.data.admin.ch/eli/oc/2022/577); [2026 497](https://fedlex.data.admin.ch/eli/oc/2026/497). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
