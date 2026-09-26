@@ -4,11 +4,12 @@ number: "710.200"
 title: Finanzhaushaltsverordnung für die Gemeinden
 language: de
 version: 2024-01-01
+corrected: 2026-09-27
 version_adopted: 2023-09-05
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3801/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3338/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -474,124 +475,5 @@ von der Regierung erlassen am 25. September 2012
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Dezember 2012 in Kraft.
-
-## A1 Anhang 1: Art. 10, 11 und 12
-
-#### Art. A1-1
-
-**Gliederung der Bilanz (Art. 10 Abs. 2)**
-
-<sup>1</sup> Finanzvermögen: Das Finanzvermögen wird wie folgt unterteilt:
-
-- a) flüssige Mittel und kurzfristige Geldanlagen (100)
-- b) Forderungen (101)
-- c) kurzfristige Finanzanlagen (102)
-- d) aktive Rechnungsabgrenzungen (104)
-- e) Vorräte und angefangene Arbeiten (106)
-- f) langfristige Finanzanlagen (107)
-- g) Sachanlagen inklusive Immobilien aus vorsorglichem Erwerb (108)
-- h) Forderungen gegenüber Spezialfinanzierungen und Fonds im Fremdkapital (109)
-
-<sup>2</sup> Verwaltungsvermögen: Das Verwaltungsvermögen wird wie folgt unterteilt:
-
-- a) Sachanlagen (140)
-- b) immaterielle Anlagen (142)
-- c) Darlehen (144)
-- d) Beteiligungen (145)
-- e) Investitionsbeiträge (146)
-- f) kumulierte zusätzliche Abschreibungen (148)
-
-<sup>3</sup> Das Nutzungsvermögen wird im Verwaltungsvermögen bilanziert. Sofern es nicht bilanziert ist, ist es im Anhang zur Jahresrechnung aufzuführen.
-
-<sup>4</sup> Fremdkapital: Das Fremdkapital wird wie folgt unterteilt:
-
-- a) laufende Verbindlichkeiten (200)
-- b) kurzfristige Finanzverbindlichkeiten (201)
-- c) passive Rechnungsabgrenzungen (204)
-- d) kurzfristige Rückstellungen (205)
-- e) langfristige Finanzverbindlichkeiten (206)
-- f) langfristige Rückstellungen (208)
-- g) Verbindlichkeiten gegenüber Spezialfinanzierungen und Fonds im Fremdkapital (209)
-
-<sup>5</sup> Eigenkapital: Das Eigenkapital wird wie folgt unterteilt:
-
-- a) Verpflichtungen beziehungsweise Vorschüsse gegenüber Spezialfinanzierungen (290)
-- b) Fonds (291)
-- c) Vorfinanzierungen (293)
-- d) übriges Eigenkapital (298)
-- e) Bilanzüberschuss / Bilanzfehlbetrag (299)
-
-#### Art. A1-2
-
-**Funktionale Gliederung der Erfolgsrechnung und der Investitionsrechnung (Art. 11 Abs. 1 und Art. 12 Abs. 3)**
-
-<sup>1</sup> Die Erfolgsrechnung und die Investitionsrechnung sind nach folgenden Funktionen gegliedert:
-
-- a) Allgemeine Verwaltung (0)
-- b) Öffentliche Ordnung und Sicherheit, Verteidigung (1)
-- c) Bildung (2)
-- d) Kultur, Sport und Freizeit, Kirche (3)
-- e) Gesundheit (4)
-- f) Soziale Sicherheit (5)
-- g) Verkehr und Nachrichtenübermittlung (6)
-- h) Umweltschutz und Raumordnung (7)
-- i) Volkswirtschaft (8)
-- j) Finanzen und Steuern (9)
-
-#### Art. A1-3
-
-**Artengliederung der Erfolgsrechnung (Art. 11 Abs. 1)**
-
-<sup>1</sup> Die Erfolgsrechnung ist nach folgenden Arten zu gliedern:
-
-- a) Aufwand:
-  - 1\. Personalaufwand (30)
-  - 2\. Sach- und übriger Betriebsaufwand (31)
-  - 3\. Abschreibungen Verwaltungsvermögen (33)
-  - 4\. Finanzaufwand (34)
-  - 5\. Einlagen in Fonds und Spezialfinanzierungen (35)
-  - 6\. Transferaufwand (36)
-  - 7\. durchlaufende Beiträge (37)
-  - 8\. ausserordentlicher Aufwand (38)
-  - 9\. interne Verrechnungen (39)
-- b) Ertrag:
-  - 1\. Fiskalertrag (40)
-  - 2\. Regalien und Konzessionen (41)
-  - 3\. Entgelte (42)
-  - 4\. verschiedene Erträge (43)
-  - 5\. Finanzertrag (44)
-  - 6\. Entnahmen aus Fonds und Spezialfinanzierungen (45)
-  - 7\. Transferertrag (46)
-  - 8\. durchlaufende Beiträge (47)
-  - 9\. ausserordentlicher Ertrag (48)
-  - 10\. interne Verrechnungen (49)
-
-#### Art. A1-4
-
-**Artengliederung der Investitionsrechnung (Art. 12 Abs. 3)**
-
-<sup>1</sup> Die Investitionsrechnung ist nach folgenden Arten zu gliedern:
-
-- a) Ausgaben:
-  - 1\. Sachanlagen (50)
-  - 2\. Investitionen auf Rechnung Dritter (51)
-  - 3\. immaterielle Anlagen (52)
-  - 4\. Darlehen (54)
-  - 5\. Beteiligungen (55)
-  - 6\. eigene Investitionsbeiträge (56)
-  - 7\. durchlaufende Investitionsbeiträge (57)
-  - 8\. ausserordentliche Investitionen (58)
-  - 9\. Übertrag an Bilanz / Passivierung (59)
-- b) Einnahmen:
-  - 1\. Übertragung von Sachanlagen in das Finanzvermögen (60)
-  - 2\. Rückerstattungen (61)
-  - 3\. Abgang immaterieller Anlagen (62)
-  - 4\. Investitionsbeiträge für eigene Rechnung (63)
-  - 5\. Rückzahlung von Darlehen (64)
-  - 6\. Übertragung von Beteiligungen (65)
-  - 7\. Rückzahlung eigener Investitionsbeiträge (66)
-  - 8\. durchlaufende Investitionsbeiträge (67)
-  - 9\. ausserordentliche Investitionseinnahmen (68)
-  - 10\. Übertrag an Bilanz / Aktivierung (69)
 
 -

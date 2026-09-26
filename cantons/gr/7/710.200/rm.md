@@ -4,11 +4,12 @@ number: "710.200"
 title: Ordinaziun da finanzas per las vischnancas
 language: rm
 version: 2024-01-01
+corrected: 2026-09-27
 version_adopted: 2023-09-05
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3801/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3338/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -474,124 +475,5 @@ relaschada da la regenza ils 25 da settember 2012
 **Entrada en vigur**
 
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. da december 2012.
-
-## A1 Agiunta 1: Art. 10, 11 e 12
-
-#### Art. A1-1
-
-**Structura da la bilantscha (art. 10 al. 2)**
-
-<sup>1</sup> Facultad finanziala: La facultad finanziala vegn structurada sco suonda:
-
-- a) meds finanzials liquids ed investiziuns da daners da curta durada (100)
-- b) pretensiuns (101)
-- c) investiziuns finanzialas da curta durada (102)
-- d) cudeschaziuns transitoricas activas (104)
-- e) reservas e lavurs cumenzadas (106)
-- f) investiziuns finanzialas da lunga durada (107)
-- g) bains d'investiziun materials inclusiv immobiglias da l'acquist preventiv (108)
-- h) pretensiuns envers finanziaziuns spezialas e fonds en chapital ester (109)
-
-<sup>2</sup> Facultad administrativa: La facultad administrativa vegn structurada sco suonda:
-
-- a) bains d'investiziun materials (140)
-- b) bains d'investiziun immaterials (142)
-- c) emprests (144)
-- d) participaziuns (145)
-- e) contribuziuns d'investiziun (146)
-- f) amortisaziuns supplementaras cumuladas (148)
-
-<sup>3</sup> La facultad d'utilisaziun vegn bilantschada en la facultad administrativa. Sch'ella n'è betg bilantschada, sto ella vegnir inditgada en l'agiunta al quint annual.
-
-<sup>4</sup> Chapital ester: Il chapital ester vegn structurà sco suonda:
-
-- a) impegns currents (200)
-- b) impegns finanzials da curta durada (201)
-- c) cudeschaziuns transitoricas passivas (204)
-- d) retenziuns da curta durada (205)
-- e) impegns finanzials da lunga durada (206)
-- f) retenziuns da lunga durada (208)
-- g) impegns envers finanziaziuns spezialas e fonds en chapital ester (209)
-
-<sup>5</sup> Agen chapital: L'agen chapital vegn structurà sco suonda:
-
-- a) impegns respectivamain pajaments anticipads envers finanziaziuns spezialas (290)
-- b) fonds (291)
-- c) prefinanziaziuns (293)
-- d) ulteriur agen chapital (298)
-- e) surpli da bilantscha / deficit da bilantscha (299)
-
-#### Art. A1-2
-
-**Structura funcziunala dal quint economic e dal quint d'investiziun (art. 11 al. 1 ed art. 12 al. 3)**
-
-<sup>1</sup> Il quint economic ed il quint d'investiziun èn structurads tenor las suandantas funcziuns:
-
-- a) administraziun generala (0)
-- b) urden public e segirezza publica, defensiun (1)
-- c) furmaziun (2)
-- d) cultura, sport e temp liber, baselgia (3)
-- e) sanadad (4)
-- f) segirezza sociala (5)
-- g) traffic e transmissiun d'infurmaziuns (6)
-- h) protecziun da l'ambient ed organisaziun dal territori (7)
-- i) economia publica (8)
-- j) finanzas e taglias (9)
-
-#### Art. A1-3
-
-**Structura tenor geners dal quint economic (art. 11 al. 1)**
-
-<sup>1</sup> Il quint economic sto vegnir structurà tenor ils suandants geners:
-
-- a) Custs:
-  - 1\. custs da persunal (30)
-  - 2\. custs materials ed ulteriurs custs da manaschi (31)
-  - 3\. amortisaziuns da la facultad administrativa (33)
-  - 4\. custs finanzials (34)
-  - 5\. apports a fonds ed a finanziaziuns spezialas (35)
-  - 6\. custs da transfers (36)
-  - 7\. contribuziuns transitoricas (37)
-  - 8\. custs extraordinaris (38)
-  - 9\. scuntradas internas (39)
-- b) Retgav:
-  - 1\. retgav fiscal (40)
-  - 2\. regals e concessiuns (41)
-  - 3\. indemnisaziuns (42)
-  - 4\. differents retgavs (43)
-  - 5\. retgav finanzial (44)
-  - 6\. prelevaziuns da fonds e da finanziaziuns spezialas (45)
-  - 7\. retgav da transfers (46)
-  - 8\. contribuziuns transitoricas (47)
-  - 9\. retgav extraordinari (48)
-  - 10\. scuntradas internas (49)
-
-#### Art. A1-4
-
-**Structura tenor geners dal quint d'investiziun (art. 12 al. 3)**
-
-<sup>1</sup> Il quint d'investiziun sto vegnir structurà tenor ils suandants geners:
-
-- a) Expensas:
-  - 1\. bains d'investiziun materials (50)
-  - 2\. investiziuns a quint da terzas persunas (51)
-  - 3\. bains d'investiziun immaterials (52)
-  - 4\. emprests (54)
-  - 5\. participaziuns (55)
-  - 6\. atgnas contribuziuns d'investiziun (56)
-  - 7\. contribuziuns d'investiziun transitoricas (57)
-  - 8\. investiziuns extraordinarias (58)
-  - 9\. transport a la bilantscha / passivaziun (59)
-- b) Entradas:
-  - 1\. transport da bains d'investiziun materials en la facultad finanziala (60)
-  - 2\. restituziuns (61)
-  - 3\. perdita d'investiziuns immaterialas (62)
-  - 4\. contribuziuns d'investiziun per l'agen quint (63)
-  - 5\. restituziun d'emprests (64)
-  - 6\. transport da participaziuns (65)
-  - 7\. restituziun d'atgnas contribuziuns d'investiziun (66)
-  - 8\. contribuziuns d'investiziun transitoricas (67)
-  - 9\. entradas d'investiziun extraordinarias (68)
-  - 10\. transport a la bilantscha / activaziun (69)
 
 -

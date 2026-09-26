@@ -4,11 +4,12 @@ number: "710.200"
 title: Ordinanza sulla gestione finanziaria per i comuni
 language: it
 version: 2024-01-01
+corrected: 2026-09-27
 version_adopted: 2023-09-05
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3801/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3338/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -474,124 +475,5 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 **Entrata in vigore**
 
 <sup>1</sup> La presente ordinanza entra in vigore il 1° dicembre 2012.
-
-## A1 Allegato 1: Art. 10, 11 e 12
-
-#### Art. A1-1
-
-**Articolazione del bilancio (art. 10 cpv. 2)**
-
-<sup>1</sup> Beni patrimoniali: I beni patrimoniali vengono suddivisi come segue:
-
-- a) liquidità e investimenti di denaro a breve termine (100)
-- b) crediti (101)
-- c) investimenti finanziari a breve termine (102)
-- d) delimitazioni contabili attive (104)
-- e) scorte e lavori in corso (106)
-- f) investimenti finanziari a lungo termine (107)
-- g) investimenti materiali, inclusi immobili da acquisto preventivo (108)
-- h) crediti verso finanziamenti speciali e fondi nel capitale di terzi (109)
-
-<sup>2</sup> Beni amministrativi: I beni amministrativi vengono suddivisi come segue:
-
-- a) investimenti materiali (140)
-- b) investimenti immateriali (142)
-- c) mutui (144)
-- d) partecipazioni (145)
-- e) contributi per investimenti (146)
-- f) ammortamenti supplementari cumulati (148)
-
-<sup>3</sup> Il patrimonio di congodimento viene inserito a bilancio nei beni amministrativi. Se non viene inserito a bilancio, va indicato nell'allegato al conto annuale.
-
-<sup>4</sup> Capitale di terzi: Il capitale di terzi viene suddiviso come segue:
-
-- a) impegni correnti (200)
-- b) impegni finanziari a breve termine (201)
-- c) delimitazioni contabili passive (204)
-- d) accantonamenti a breve termine (205)
-- e) impegni finanziari a lungo termine (206)
-- f) accantonamenti a lungo termine (208)
-- g) impegni verso finanziamenti speciali e fondi nel capitale di terzi (209)
-
-<sup>5</sup> Capitale proprio: Il capitale proprio viene suddiviso come segue:
-
-- a) impegni e anticipi a favore di finanziamenti speciali (290)
-- b) fondi (291)
-- c) prefinanziamenti (293)
-- d) altro capitale proprio (298)
-- e) eccedenza di bilancio / disavanzo di bilancio (299)
-
-#### Art. A1-2
-
-**Articolazione funzionale del conto economico e del conto degli investimenti (art. 11 cpv. 1 e art. 12 cpv. 3)**
-
-<sup>1</sup> Il conto economico e il conto degli investimenti sono articolati secondo le seguenti funzioni:
-
-- a) amministrazione generale (0)
-- b) ordine pubblico e sicurezza, difesa (1)
-- c) formazione (2)
-- d) cultura, sport e tempo libero, chiesa (3)
-- e) sanità (4)
-- f) sicurezza sociale (5)
-- g) trasporti e comunicazione (6)
-- h) protezione dell'ambiente e pianificazione territoriale (7)
-- i) economia pubblica (8)
-- j) finanze e imposte (9)
-
-#### Art. A1-3
-
-**Articolazione per tipi del conto economico (art. 11 cpv. 1)**
-
-<sup>1</sup> Il conto economico va suddiviso secondo i seguenti tipi:
-
-- a) Spese:
-  - 1\. spese per il personale (30)
-  - 2\. spese per beni e servizi e altre spese d'esercizio (31)
-  - 3\. ammortamenti dei beni amministrativi (33)
-  - 4\. spese finanziarie (34)
-  - 5\. versamenti in fondi e finanziamenti speciali (35)
-  - 6\. spese di riversamento (36)
-  - 7\. contributi da riversare (37)
-  - 8\. spese straordinarie (38)
-  - 9\. compensazioni interne (39)
-- b) Ricavi:
-  - 1\. gettito fiscale (40)
-  - 2\. regalie e concessioni (41)
-  - 3\. ricavi e tasse (42)
-  - 4\. ricavi diversi (43)
-  - 5\. ricavi finanziari (44)
-  - 6\. prelevamenti da fondi e finanziamenti speciali (45)
-  - 7\. ricavi da riversamenti (46)
-  - 8\. contributi da riversare (47)
-  - 9\. ricavi straordinari (48)
-  - 10\. compensazioni interne (49)
-
-#### Art. A1-4
-
-**Articolazione per tipi del conto degli investimenti (art. 12 cpv. 3)**
-
-<sup>1</sup> Il conto degli investimenti va suddiviso secondo i seguenti tipi:
-
-- a) Uscite:
-  - 1\. investimenti materiali (50)
-  - 2\. investimenti per conto di terzi (51)
-  - 3\. investimenti immateriali (52)
-  - 4\. mutui (54)
-  - 5\. partecipazioni (55)
-  - 6\. contributi propri per investimenti (56)
-  - 7\. contributi per investimenti da riversare (57)
-  - 8\. investimenti straordinari (58)
-  - 9\. riporto a bilancio / iscrizione al passivo (59)
-- b) Entrate:
-  - 1\. trasferimento di investimenti materiali nei beni patrimoniali (60)
-  - 2\. rimborsi (61)
-  - 3\. alienazione di investimenti immateriali (62)
-  - 4\. contributi per investimenti per conto proprio (63)
-  - 5\. restituzione di mutui (64)
-  - 6\. trasferimento di partecipazioni (65)
-  - 7\. restituzione di contributi propri per investimenti (66)
-  - 8\. contributi per investimenti da riversare (67)
-  - 9\. entrate straordinarie per investimenti (68)
-  - 10\. riporto a bilancio / iscrizione all'attivo (69)
 
 -
