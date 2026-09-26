@@ -4,11 +4,12 @@ number: "490.250"
 title: Urden da diever da la biblioteca chantunala dal Grischun
 language: rm
 version: 2023-07-01
+corrected: 2026-09-27
 version_adopted: 2023-05-09
 adopted: 2009-05-19
 in_force: 2009-06-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/490.250"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3796/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3320/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -150,37 +151,5 @@ relaschà da la regenza ils 19 da matg 2009
 **Entrada en vigur**
 
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. da zercladur 2009.
-
-## A1 Agiunta 1: Taxas da la Biblioteca chantunala (art. 11 al. 1)
-
-#### Art. A1-1
-
-<sup>1</sup> Per ils servetschs da la Biblioteca chantunala vegnan incassadas las suandantas taxas:
-
-- a) taxa d'utilisaziun:
-  - 1\. taxa d'utilisaziun annuala (consegna da la carta da biblioteca): — fr. 30.00
-  - 2\. taxa d'utilisaziun mensila (consegna da la carta da biblioteca): — fr. 10.00
-- b) remplazzament da la carta da biblioteca: — fr. 10.00
-- c) custs da spediziun:
-  - 1\. chantun Grischun (pauschala per pachet u per brev): — fr. 10.00
-  - 2\. rest da la Svizra: — tenor custs
-- d) admoniziuns (per medium):
-  - 1\. 1. admoniziun: — fr. 5.00
-  - 2\. 2. admoniziun: — fr. 10.00
-  - 3\. 3. admoniziun: — fr. 20.00
-  - 4\. quint (en cas d'ina 3. admoniziun senza success: taxa d'admoniziun da fr. 20.00 e supplementarmain custs d'elavuraziun da fr. 20.00): — fr. 40.00
-- e) remplazzament da mediums pers: custs da reacquisiziun dal medium che sto vegnir remplazzà plus ina taxa d'elavuraziun da fr. 40.00 (scroda en cas d'ina cumpra persunala)
-- f) emprest per correspundenza:
-  - 1\. en Svizra: — tenor custs
-  - 2\. da l'exteriur: — tenor custs
-- g) utilisaziun da l'internet en chasa:
-  - 1\. utilisaziun da l'internet: — gratuit
-  - 2\. WLAN: — gratuit
-- h) clav da la chascha da segirezza persa: — fr. 100.00
-- i) reproducziuns:
-  - 1\. fotocopias (pagina A4 u A3): — fr. 0.20
-  - 2\. incumbensas da copiar: — tenor custs
-
-<sup>2</sup> Per servetschs spezials pon vegnir mess a quint taxas tenor il temp impundì u tenor ils custs a norma da las tariffas da cumpensaziun per servetschs da l'administraziun chantunala che vegnan furnids a terzas persunas.
 
 -

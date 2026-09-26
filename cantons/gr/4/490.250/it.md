@@ -4,11 +4,12 @@ number: "490.250"
 title: Regolamento di consultazione della Biblioteca cantonale dei Grigioni
 language: it
 version: 2023-07-01
+corrected: 2026-09-27
 version_adopted: 2023-05-09
 adopted: 2009-05-19
 in_force: 2009-06-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/490.250"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3796/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3320/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -150,37 +151,5 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 **Entrata in vigore**
 
 <sup>1</sup> La presente ordinanza entra in vigore il 1° giugno 2009.
-
-## A1 Allegato 1: Tasse della Biblioteca cantonale (art. 11 cpv. 1)
-
-#### Art. A1-1
-
-<sup>1</sup> Per i servizi della Biblioteca cantonale vengono riscosse le seguenti tasse:
-
-- a) Tassa di utilizzazione:
-  - 1\. tassa di utilizzazione annuale (consegna della tessera della Biblioteca): — fr. 30.00
-  - 2\. tassa di utilizzazione mensile (consegna della tessera della Biblioteca): — fr. 10.00
-- b) Sostituzione della tessera della Biblioteca: — fr. 10.00
-- c) Spese di spedizione:
-  - 1\. Cantone dei Grigioni (forfait per pacco o lettera): — fr. 10.00
-  - 2\. nel resto della Svizzera: — a seconda delle spese
-- d) Solleciti (per media):
-  - 1\. 1° sollecito: — fr. 5.00
-  - 2\. 2° sollecito: — fr. 10.00
-  - 3\. 3° sollecito: — fr. 20.00
-  - 4\. fattura (in caso di 3° sollecito infruttuoso: tassa di sollecito fr. 20.00 più tassa amministrativa di fr. 20.00): — fr. 40.00
-- e) Sostituzione di media smarriti: spese di riacquisto del media da sostituire più fr. 40.00 di tassa amministrativa (gratis se acquistato personalmente)
-- f) Prestito interbibliotecario:
-  - 1\. in Svizzera: — a seconda delle spese
-  - 2\. dall'estero: — a seconda delle spese
-- g) Consultazione di internet nella Biblioteca:
-  - 1\. consultazione di internet: — gratuito
-  - 2\. WLAN: — gratuito
-- h) Smarrimento della chiave dell'armadietto: — fr. 100.00
-- i) Riproduzioni:
-  - 1\. fotocopie (pagina A4 o A3): — fr. 0.20
-  - 2\. Incarichi di fotocopiatura: — a seconda delle spese
-
-<sup>2</sup> Per servizi particolari possono essere riscosse tasse a seconda dell'onere, in ragione delle aliquote per servizi dell'Amministrazione cantonale a favore di terzi.
 
 -

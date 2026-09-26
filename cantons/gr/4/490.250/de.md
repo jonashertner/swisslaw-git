@@ -4,11 +4,12 @@ number: "490.250"
 title: Benutzungsordnung der Kantonsbibliothek Graubünden
 language: de
 version: 2023-07-01
+corrected: 2026-09-27
 version_adopted: 2023-05-09
 adopted: 2009-05-19
 in_force: 2009-06-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/490.250"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3796/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3320/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -150,37 +151,5 @@ von der Regierung erlassen am 19. Mai 2009
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Juni 2009 in Kraft.
-
-## A1 Anhang 1: Gebühren der Kantonsbibliothek (Art. 11 Abs. 1)
-
-#### Art. A1-1
-
-<sup>1</sup> Für die Dienstleistungen der Kantonsbibliothek werden folgende Gebühren erhoben:
-
-- a) Benutzungsgebühr:
-  - 1\. Jahresbenutzungsgebühr (Abgabe Bibliotheksausweis): — Fr. 30.00
-  - 2\. Monatsbenutzungsgebühr (Abgabe Bibliotheksausweis): — Fr. 10.00
-- b) Ersatz Bibliotheksausweis: — Fr. 10.00
-- c) Versandkosten:
-  - 1\. Kanton Graubünden (pauschal pro Paket oder Brief): — Fr. 10.00
-  - 2\. übrige Schweiz: — nach Aufwand
-- d) Mahnungen (pro Medium):
-  - 1\. 1. Mahnung: — Fr. 5.00
-  - 2\. 2. Mahnung: — Fr. 10.00
-  - 3\. 3. Mahnung: — Fr. 20.00
-  - 4\. Rechnung (bei erfolgloser 3. Mahnung: Mahngebühren Fr. 20.00 und zusätzlich Fr. 20.00 Bearbeitungskosten): — Fr. 40.00
-- e) Ersatz verlorener Medien: Wiederbeschaffungskosten des zu ersetzenden Mediums plus Fr. 40.00 Bearbeitungsgebühr (bei Selbstkauf gratis)
-- f) Fernleihe:
-  - 1\. in der Schweiz: — nach Aufwand
-  - 2\. aus dem Ausland: — nach Aufwand
-- g) Internetnutzung im Haus:
-  - 1\. Internetnutzung: — gratis
-  - 2\. WLAN: — gratis
-- h) Verlorene Schliessfachschlüssel: — Fr. 100.00
-- i) Reproduktionen:
-  - 1\. Fotokopien (Seite A4 oder A3): — Fr. 0.20
-  - 2\. Kopieraufträge: — nach Aufwand
-
-<sup>2</sup> Für besondere Dienstleistungen können Gebühren nach Aufwand nach Massgabe der Verrechnungsansätze für Dienstleistungen der Kantonalen Verwaltung an Dritte erhoben werden.
 
 -
