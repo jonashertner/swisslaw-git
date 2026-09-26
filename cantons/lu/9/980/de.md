@@ -4,13 +4,12 @@ number: "980"
 title: "Gesetz über das Gastgewerbe, den Handel mit alkoholischen Getränken und die Fasnacht"
 short: "Gastgewerbegesetz, GaG"
 language: de
-version: 2026-01-01
-valid_until: 2026-09-26
-version_adopted: 2025-10-20
+version: 2026-09-27
+version_adopted: 2026-01-26
 adopted: 1997-09-15
 in_force: 1998-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/980"
-pdf: "https://srl.lu.ch/api/de/versions/4641/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4917/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4641/pdf_file"
 
 (Gastgewerbegesetz, GaG)
 
-vom 15.09.1997 (Stand 01.01.2026)
+vom 15.09.1997 (Stand 27.09.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -246,7 +245,7 @@ beschliesst:
 
 <sup>2</sup> An Jugendliche unter 18 Jahren sind die Abgabe und der Ausschank von gebrannten Wassern oder verdünnten alkoholhaltigen Getränken auf der Basis von gebrannten Wassern verboten.
 
-<sup>3</sup> Die zuständige Behörde kann Testkäufe vornehmen oder vornehmen lassen. Sie arbeitet dazu mit Fachstellen des Jugendschutzes zusammen. Die Kosten trägt der Kanton.
+<sup>3</sup> …
 
 <sup>4</sup> Jugendlichen unter 18 Jahren ist der Zutritt zu Tanzdarbietungsbetrieben mit Stripteasevorführungen zu verweigern.
 
@@ -321,7 +320,7 @@ beschliesst:
 
 <sup>2</sup> Gastgewerbliche Betriebe, die von einem Verkaufsgeschäft oder einem ähnlichen Betrieb räumlich nicht getrennt sind, sind gleichzeitig mit dem Ladengeschäft zu schliessen.
 
-<sup>3</sup> Am Karfreitag, am Ostersonntag, am Pfingstsonntag, am Eidgenössischen Bettag, an Weihnachten sowie am Aschermittwoch werden keine Verlängerungen für öffentlich zugängliche Anlässe erteilt.
+<sup>3</sup> …
 
 <sup>4</sup> Die Schliessungszeit ist bis 5.00 Uhr aufgeschoben
 
