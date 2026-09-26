@@ -5,12 +5,12 @@ title: Verordnung über Hochschulen mit kantonaler Trägerschaft
 short: VH
 language: de
 version: 2025-01-01
-corrected: 2025-01-28
+corrected: 2026-09-27
 version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3491/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -183,9 +183,9 @@ von der Regierung erlassen am 8. Juli 2014
 
 <sup>1</sup> Der Anteil am Globalbeitrag für die Organisationsentwicklung der Hochschulen ist im Leistungsauftrag enthalten und beträgt maximal sechs Prozent des durchschnittlichen Bruttoaufwands der letzten vier Jahre.
 
-<sup>2</sup> Der Anteil ist in der Jahresrechnung unter Rückstellungen auszuweisen.
+<sup>2</sup> Der Anteil ist in der Jahresrechnung unter den Reserven auszuweisen.
 
-<sup>3</sup> Nach jeder Leistungsauftragsperiode sind die Rückstellungen aufzulösen und der allgemeinen Reserve unter Berücksichtigung der Einschränkung nach Artikel 17 Absatz 2 zuzuweisen.
+<sup>3</sup> Nach jeder Leistungsauftragsperiode ist der verbleibende Anteil den allgemeinen Reserven unter Berücksichtigung der Einschränkung nach Artikel 17 Absatz 2 zuzuweisen.
 
 #### Art. 18
 

@@ -5,12 +5,12 @@ title: Ordinanza sulle scuole universitarie con ente responsabile cantonale
 short: OSU
 language: it
 version: 2025-01-01
-corrected: 2025-01-28
+corrected: 2026-09-27
 version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3491/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3527/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -183,9 +183,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> La quota del contributo globale destinata allo sviluppo dell'organizzazione delle scuole universitarie è inclusa nel mandato di prestazioni e ammonta al massimo al sei per cento della spesa lorda media degli ultimi quattro anni.
 
-<sup>2</sup> La quota deve essere iscritta nel conto annuale tra gli accantonamenti.
+<sup>2</sup> La quota deve essere iscritta nel conto annuale tra le riserve.
 
-<sup>3</sup> Dopo ogni periodo di mandato di prestazioni gli accantonamenti devono essere sciolti e attribuiti alla riserva generale tenendo conto della limitazione prevista dall'articolo 17 capoverso 2.
+<sup>3</sup> Dopo ogni periodo di mandato di prestazioni la quota rimanente deve essere attribuita alle riserve generali tenendo conto della limitazione prevista dall'articolo 17 capoverso 2.
 
 #### Art. 18
 

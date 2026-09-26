@@ -5,12 +5,12 @@ title: Ordinaziun davart las scolas autas purtadas dal chantun
 short: OSA
 language: rm
 version: 2025-01-01
-corrected: 2025-01-28
+corrected: 2026-09-27
 version_adopted: 2025-01-28
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/427.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3491/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -183,9 +183,9 @@ relaschada da la regenza ils 8 da fanadur 2014
 
 <sup>1</sup> La cumpart da la contribuziun globala per il svilup da l'organisaziun da las scolas autas è cuntegnida en l'incarica da prestaziun ed importa maximalmain 6 pertschient da la media dals custs bruts dals ultims 4 onns.
 
-<sup>2</sup> La cumpart sto vegnir inditgada en il quint annual sut retenziuns.
+<sup>2</sup> La cumpart sto vegnir inditgada en il quint annual sut las reservas.
 
-<sup>3</sup> Las retenziuns ston vegnir schliadas suenter mintga perioda da l'incarica da prestaziun e vegnir attribuidas a las reservas generalas resguardond la restricziun tenor l'artitgel 17 alinea 2.
+<sup>3</sup> Suenter mintga perioda da l'incarica da prestaziun sto la cumpart restanta vegnir attribuida a las reservas generalas, resguardond la restricziun tenor l'artitgel 17 alinea 2.
 
 #### Art. 18
 
