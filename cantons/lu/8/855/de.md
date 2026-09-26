@@ -1,25 +1,21 @@
 ---
 canton: LU
 number: "855"
-title: Ruhetags- und Ladenschlussgesetz
-short: RLG
+title: Gesetz über die Ruhetage und die Öffnungs- und Schliessungszeiten der Verkaufsgeschäfte
 language: de
-version: 2020-05-01
-valid_until: 2026-09-26
-version_adopted: 2020-01-27
+version: 2026-09-27
+version_adopted: 2026-01-26
 adopted: 1987-11-23
 in_force: 1988-03-01
 url: "https://srl.lu.ch/app/de/texts_of_law/855"
-pdf: "https://srl.lu.ch/api/de/versions/3569/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4916/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ruhetags- und Ladenschlussgesetz
+# Gesetz über die Ruhetage und die Öffnungs- und Schliessungszeiten der Verkaufsgeschäfte
 
-(RLG)
-
-vom 23.11.1987 (Stand 01.05.2020)
+vom 23.11.1987 (Stand 27.09.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -35,7 +31,7 @@ beschliesst:
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Das Gesetz regelt die Ruhetage und die Ladenschlusszeiten.
+<sup>1</sup> Das Gesetz regelt die Ruhetage sowie die Öffnungs- und Schliessungszeiten der Verkaufsgeschäfte.
 
 <sup>2</sup> Es findet keine Anwendung auf
 
@@ -53,7 +49,15 @@ beschliesst:
 - m. Märkte, Messen und Kirchweihfeste,
 - n. Kunstgalerien mit oder ohne Verkaufstätigkeit, Versteigerungen ausgenommen.
 
-<sup>3</sup> Für Tankstellen angegliederte Verkaufsgeschäfte mit einer ordentlichen Verkaufsfläche von höchstens 100 m² kommen die §§ 5 Unterabsatz c, 14 und 15 Absatz 1 nicht zur Anwendung. Diese Geschäfte sind jeden Tag spätestens um 22 Uhr zu schliessen.
+<sup>3</sup> Für folgende Verkaufsgeschäfte kommen die Bestimmungen zu den Öffnungs- und Schliessungszeiten in den §§ 5 Absatz 1c, 14 und 15 Absatz 1 nicht zur Anwendung:
+
+- a. Tankstellen unmittelbar angegliederte Verkaufsgeschäfte mit einer ordentlichen Verkaufsfläche von höchstens 100 m², sofern
+  - 1\. die Verkaufsgeschäfte über ein Sortiment verfügen, das vorwiegend dem täglichen Bedarf dient,
+  - 2\. die Tank- oder Ladesäulen von der Allgemeinheit genutzt werden können und
+  - 3\. das Bezahlen der Tank- und Ladevorgänge ohne Registrierung möglich ist.
+- b. Verkaufsgeschäfte ohne Verkaufspersonal (Selbstbedienungsgeschäfte) mit einer ordentlichen Verkaufsfläche von höchstens 30 m².
+
+<sup>3<sup>bis</sup></sup> Eine Ladestation gilt als Tankstelle, wenn sie über mindestens vier Ladepunkte mit einer Leistung von je mindestens 150 Kilowatt (kW) sowie eine gesamte gleichzeitige Ladeleistung von mindestens 300 kW verfügt und die Voraussetzungen nach Absatz 3a Ziffern 2 und 3 erfüllt.
 
 <sup>4</sup> Im Zweifelsfall entscheidet die Luzerner Polizei[^1-1], ob eine Verkaufsstelle unter dieses Gesetz fällt oder nicht.
 
@@ -200,13 +204,13 @@ beschliesst:
 
 [^13-1]: Gemäss Änderung des Organisationsgesetzes vom 17. Februar 2003, in Kraft seit dem 1. Juli 2003 (G 2003 89), wurde in den §§ 13 und 19 die Bezeichnung «Sicherheitsdepartement» durch «Justiz- und Sicherheitsdepartement» ersetzt.
 
-## 4 Schliessungszeiten der Verkaufsgeschäfte an Werktagen
+## 4 Öffnungs- und Schliessungszeiten der Verkaufsgeschäfte an Werktagen
 
 #### § 14
 
-**Allgemeine Schliessungszeiten**
+**Allgemeine Öffnungs- und Schliessungszeiten**
 
-<sup>1</sup> Am Abend sind die Verkaufsgeschäfte spätestens zu schliessen:
+<sup>1</sup> Verkaufsgeschäfte dürfen frühestens um 6 Uhr öffnen und sind spätestens zu schliessen:
 
 - a. von Montag bis Freitag um 19 Uhr,
 - b. am Samstag um 17 Uhr,
@@ -237,8 +241,8 @@ beschliesst:
 - a. den Vorschriften der §§ 5 und 10 über die Gewährleistung der Ruhe an öffentlichen Ruhetagen und hohen Feiertagen zuwiderhandelt,
 - b. den Vorschriften der §§ 6 Absatz 1f und g sowie 11 über die Durchführung von Schiessveranstaltungen zuwiderhandelt,
 - c . …
-- d. ohne Ausnahmebewilligung nach den §§ 8, 9 und 13 seinen Betrieb offenhält oder eine dort angeführte Tätigkeit ausführt,
-- e. die allgemeinen Schliessungszeiten der Verkaufsgeschäfte von § 14 nicht befolgt.
+- d. ohne Ausnahmebewilligung nach den §§ 8, 9 und 13 seinen oder ihren Betrieb offenhält oder eine dort angeführte Tätigkeit ausführt,
+- e. die allgemeinen Öffnungs- und Schliessungszeiten der Verkaufsgeschäfte von § 14 nicht befolgt.
 
 #### § 18
 
