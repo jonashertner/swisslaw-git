@@ -1,25 +1,22 @@
 ---
 canton: GR
 number: "815.350"
-title: "Ordinaziun davart l'incassament da taxas per exequir la legislaziun davart la protecziun da l'ambient e da las auas *"
-short: "OR davart las taxas per la protecziun da l'ambient e da las auas"
+title: "Ordinaziun da taxas per la protecziun da l'ambient *"
 language: rm
-version: 2004-01-01
-corrected: 2014-11-30
-version_adopted: 2003-12-16
+version: 2015-01-01
+corrected: 2026-09-27
+version_adopted: 2014-12-23
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/815.350"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2358/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart l'incassament da taxas per exequir la legislaziun davart la protecziun da l'ambient e da las auas
+# Ordinaziun da taxas per la protecziun da l'ambient
 
-(OR davart las taxas per la protecziun da l'ambient e da las auas)
-
-dals 27-10-1998 (versiun dals 01-01-2004)
+dals 27-10-1998 (versiun dals 01-01-2015)
 
 sa basond sin l'art. 48 da la lescha federala davart la protecziun da l'ambient (lescha da protecziun da l'ambient, LPAmb) dals 7 d'october 1983[^ingress-1] e sin l'art. 9 da la lescha introductiva tar la lescha federala davart la protecziun da las auas (lescha chantunala davart la protecziun da las auas, LCPA) dals 8 da zercladur 1997[^ingress-2] e sin l'art. 11 al. 2 da la lescha introductiva tar la lescha federala davart la protecziun da l'ambient (LCPAmb) dals 2 da december 2001[^ingress-3]
 
@@ -39,7 +36,7 @@ relaschada da la regenza ils 27 d'october 1998
 
 <sup>3</sup> Sch'igl è necessari in'expertisa per giuditgar ina dumonda da permissiun e sch'i n'è betg agiuntà ina tala als documents per la dumonda, po l'uffizi per la natira e l'ambient sa procurar in'expertisa a quint dal petent.
 
-<sup>4</sup> Visitas ocularas vegnan messas a quints separadamain tenor ils custs.
+<sup>4</sup> Inspecziuns al lieu pon vegnir messas a quint separadamain tenor ils custs.
 
 [^1-1]: CS [746.1](https://db.clex.ch/link/Bund/746.1/rm)
 [^1-2]: DG [210.100](https://www.gr-lex.gr.ch/data/210.100/rm)
@@ -48,21 +45,23 @@ relaschada da la regenza ils 27 d'october 1998
 
 **Collaudaziun**
 
-<sup>1</sup> En las taxas tenor l'agiunta 1 cifras 1-3, 7, 9, 10, 14-17 è inclusa la collaudaziun dals stabiliments. Repetiziuns necessarias da collaudaziuns vegnan messas a quint tenor ils custs.
+<sup>1</sup> En las taxas tenor l'agiunta 1, 1. part, cifras 1–4 ed 11, sco er 2. part, cifras 1, 3–4, 6–9, 11, 17 e 19 è inclusa la collaudaziun dals stabiliments. Repetiziuns necessarias da collaudaziuns vegnan messas a quint tenor ils custs.
 
 <sup>2</sup> Mesiraziuns da collaudaziun vegnan scuntradas separadamain.
 
 #### Art. 3
 
-**Controllas, controllas posteriuras**
+**Controllas e mesiraziuns, controllas posteriuras**
 
-<sup>1</sup> Per controllas (inclusiv mesiraziuns da controlla) che vegnan fatgas da l'uffizi per la natira e l'ambient sez, vegnan incassadas las taxas numnadas en l'agiunta 2.
+<sup>1</sup> Per controllas e mesiraziuns che vegnan fatgas da l'uffizi per la natira e l'ambient sez, vegnan incassadas las taxas numnadas en l'agiunta 2.
 
-<sup>2</sup> Per controllas che l'uffizi per la natira e l'ambient fa sez e che n'èn betg numnadas expressivamain en l'agiunta 2, pon vegnir incassadas taxas. Quellas vegnan calculadas tenor ils custs.
+<sup>2</sup> Per controllas e mesiraziuns che l'uffizi per la natira e l'ambient fa sez e che n'èn betg numnadas expressivamain en l'agiunta 2, pon vegnir incassadas taxas. Quellas vegnan calculadas tenor ils custs.
 
-<sup>3</sup> Per controllas che l'uffizi per la natira e l'ambient lascha far totalmain u parzialmain da terzas persunas, po el metter a quint vinavant ils custs che resultan.
+<sup>3</sup> Per controllas e mesiraziuns che l'uffizi per la natira e l'ambient lascha far totalmain u parzialmain da terzas persunas, po el metter a quint vinavant ils custs che resultan.
 
-<sup>4</sup> Sche las controllas mussan che las prescripziuns legalas respectivamain las limitas n'èn betg resguardadas, vegnan fatgas controllas posteriuras. En quest cas vegnan incassadas las taxas tenor l'alinea 1, 2 u 3 anc ina giada.
+<sup>4</sup> Sche las controllas e mesiraziuns mussan che las prescripziuns legalas respectivamain las limitas n'èn betg resguardadas, vegnan fatgas controllas posteriuras. En quest cas vegnan incassadas las taxas tenor quest artitgel anc ina giada.
+
+<sup>5</sup> Per controllas e mesiraziuns che chaschunan custs spezialmain auts, vegn calculada la taxa tenor ils custs, er sche quai n'è betg previs en l'agiunta 2.
 
 #### Art. 4
 
@@ -74,25 +73,19 @@ relaschada da la regenza ils 27 d'october 1998
 
 **Prestaziuns da servetsch spezialas**
 
-<sup>1</sup> Per prestaziuns da servetsch spezialas vegnan incassadas las taxas numnadas en l'agiunta 2.
+<sup>1</sup> Per prestaziuns da servetsch spezialas pon vegnir incassadas las taxas numnadas en l'agiunta 2.
 
 <sup>2</sup> Per prestaziuns da servetsch spezialas che n'èn betg numnadas en l'agiunta 2, pon vegnir incassadas taxas. Quellas vegnan calculadas tenor ils custs.
 
-<sup>3</sup> Per consegnar datas da mesiraziun vegnan incassadas las taxas numnadas en l'agiunta 2.
+<sup>3</sup> …
 
-<sup>4</sup> Per ulteriuras prestaziuns da servetsch spezialas vegnan incassadas las taxas numnadas en l'agiunta 2.
+<sup>4</sup> …
 
 <sup>5</sup> Per prestaziuns da servetsch spezialas che n'èn betg numnadas en l'agiunta 2, pon vegnir incassadas taxas. Quellas vegnan calculadas tenor ils custs.
 
 #### Art. 5a
 
-**Datas da l’aua sutterrana**
-
-<sup>1</sup> Per duvrar posts da mesiraziun (piezometers) da la rait chantunala d'observaziun da l'aua sutterrana per prelevar temporarmain aua sutterana, pon vegnir incassadas las taxas numnadas en l'agiunta 2.
-
-<sup>2</sup> Per duvrar ils posts da mesiraziun (piezometers) da la rait chantunala d'observaziun da l'aua sutterrana per laschar far mesiraziuns e retschertgas da terzas persunas, vegnan incassadas las taxas numnadas en l'agiunta 2.
-
-<sup>3</sup> Per consegnar datas da mesiraziun vegnan incassadas las taxas numnadas en l'agiunta 2.
+**…**
 
 #### Art. 6
 
@@ -116,11 +109,11 @@ relaschada da la regenza ils 27 d'october 1998
 
 <sup>2</sup> Sch'ina permissiun vegn refusada, po la taxa vegnir reducida u relaschada.
 
-<sup>3</sup> L'autoritad cumpetenta po renunziar totalmain u parzialmain d'incassar taxas tenor l'agiunta 2 cifra 4 e 5, sche l'utilisaziun dals posts da mesiraziun da l'aua sutterrana e las datas da mesiraziun inoltradas servan a l'interess dal chantun u ad intents scientifics.
+<sup>3</sup> …
 
-<sup>4</sup> Ella po renunziar excepziunalmain d’incassar taxas tenor l'agiunta 2 cifra 4 tar prelevaziuns d'aua sutterrana en situaziuns d'urgenza.
+<sup>4</sup> …
 
-<sup>5</sup> Ella po en singuls cas ed excepziunalmain reducir ina taxa, sch'i fiss incommensurà d'incassar la taxa cumplaina.
+<sup>5</sup> En singuls cas ed excepziunalmain po l'autoritad reducir u annullar ina taxa, sch'i fiss incommensurà d'incassar la taxa cumplaina u sche la concessiun da la permissiun è colliada cun custs spezialmain bass.
 
 #### Art. 9
 

@@ -1,25 +1,22 @@
 ---
 canton: GR
 number: "815.350"
-title: "Ordinanza sulla riscossione di tasse nell'esecuzione della legislazione sulla protezione dell'ambiente e delle acque *"
-short: "Ordinanza sulle tasse per la protezione dell'ambiente e delle acque"
+title: "Ordinanza sulle tasse per la protezione dell'ambiente *"
 language: it
-version: 2004-01-01
-corrected: 2014-11-30
-version_adopted: 2003-12-16
+version: 2015-01-01
+corrected: 2026-09-27
+version_adopted: 2014-12-23
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/815.350"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2358/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2450/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sulla riscossione di tasse nell'esecuzione della legislazione sulla protezione dell'ambiente e delle acque
+# Ordinanza sulle tasse per la protezione dell'ambiente
 
-(Ordinanza sulle tasse per la protezione dell'ambiente e delle acque)
-
-del 27.10.1998 (stato 01.01.2004)
+del 27.10.1998 (stato 01.01.2015)
 
 emanata dal Governo il 27 ottobre 1998
 
@@ -39,7 +36,7 @@ ai sensi dell'articolo 48 della legge federale sulla protezione dell'ambiente (L
 
 <sup>3</sup> Se per la valutazione di una domanda per l'ottenimento di un'autorizzazione è necessaria una perizia e la documentazione relativa alla domanda non contiene tale perizia, l'Ufficio per la natura e l'ambiente può richiederne una addebitando le spese ai richiedenti.
 
-<sup>4</sup> I sopralluoghi vengono fatturati separatamente secondo il dispendio.
+<sup>4</sup> I sopralluoghi possono venire fatturati separatamente secondo il dispendio.
 
 [^1-1]: RS [746.1](https://db.clex.ch/link/Bund/746.1/it)
 [^1-2]: CSC [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
@@ -48,21 +45,23 @@ ai sensi dell'articolo 48 della legge federale sulla protezione dell'ambiente (L
 
 **Collaudo**
 
-<sup>1</sup> Nelle tasse giusta l'appendice 1 cifre 1-3, 7, 9, 10, 14-17 è incluso il collaudo degli impianti. Le ripetizioni necessarie di collaudi vengono messe in conto secondo il dispendio.
+<sup>1</sup> Nelle tasse giusta l'appendice 1 sezione 1 cifre 1-4 e 11, nonché sezione 2 cifre 1, 3-4, 6-9, 11, 17 e 19 è incluso il collaudo degli impianti. Le ripetizioni necessarie di collaudi vengono messe in conto secondo il dispendio.
 
 <sup>2</sup> Le misurazioni di collaudo sono fatturate separatamente.
 
 #### Art. 3
 
-**Controlli, controlli supplementari**
+**Controlli e misurazioni, controlli supplementari**
 
-<sup>1</sup> Per controlli (incluse le misurazioni di collaudo) eseguiti dallo stesso Ufficio per la natura e l'ambiente, vengono riscosse le tasse elencate nell'appendice 2.
+<sup>1</sup> Per controlli e misurazioni eseguiti dallo stesso Ufficio per la natura e l'ambiente, vengono riscosse le tasse elencate nell'appendice 2.
 
-<sup>2</sup> Per controlli, eseguiti dallo stesso Ufficio per la natura e l'ambiente e non elencati espressamente nell'appendice 2, possono essere riscosse tasse. Queste vengono calcolate sulla base del dispendio.
+<sup>2</sup> Per controlli e misurazioni eseguiti dallo stesso Ufficio per la natura e l'ambiente e non elencati espressamente nell'appendice 2, possono essere riscosse tasse. Queste vengono calcolate sulla base del dispendio.
 
-<sup>3</sup> Per controlli, che l'Ufficio per la natura e l'ambiente affida in parte o integralmente a terzi, è possibile fatturare le spese che ne conseguono a suddetti terzi.
+<sup>3</sup> Per controlli e misurazioni che l'Ufficio per la natura e l'ambiente affida in parte o integralmente a terzi, è possibile fatturare le spese che ne conseguono a suddetti terzi.
 
-<sup>4</sup> Qualora i controlli mostrino che le prescrizioni giuridiche rispettivamente i valori soglia a norma di legge non sono rispettati, vengono effettuati controlli supplementari. Nel far questo si riscuotono ancora una volta tasse giusta i capoversi 1, 2 o 3.
+<sup>4</sup> Qualora i controlli e le misurazioni mostrino che le prescrizioni giuridiche rispettivamente i valori soglia a norma di legge non sono rispettati, vengono effettuati controlli supplementari. Nel far questo si riscuotono ancora una volta tasse giusta il presente articolo.
+
+<sup>5</sup> Per controlli e misurazioni che causano un dispendio particolarmente notevole, la tassa è calcolata sulla base del dispendio, anche quando ciò non è previsto dall'appendice 2.
 
 #### Art. 4
 
@@ -74,25 +73,19 @@ ai sensi dell'articolo 48 della legge federale sulla protezione dell'ambiente (L
 
 **Particolari prestazioni di servizio**
 
-<sup>1</sup> Per particolari prestazioni di servizio vengono riscosse le tasse elencate nell'appendice 2.
+<sup>1</sup> Per particolari prestazioni di servizio possono essere riscosse le tasse elencate nell'appendice 2.
 
 <sup>2</sup> Per particolari prestazioni di servizio non elencate nell'appendice 2 possono venire riscosse spese. Queste vengono calcolate sulla base del dispendio.
 
-<sup>3</sup> Per la consegna di dati di misurazione vengono riscosse le tasse illustrate nell'appendice 2.
+<sup>3</sup> …
 
-<sup>4</sup> Per ulteriori prestazioni di servizio vengono riscosse le tasse illustrate nell'appendice 2.
+<sup>4</sup> …
 
 <sup>5</sup> Per particolari prestazioni di servizio non elencate nell'appendice 2 possono essere riscosse tasse. Queste vengono calcolate sulla base del dispendio.
 
 #### Art. 5a
 
-**Dati relativi all'acqua freatica**
-
-<sup>1</sup> Per l'utilizzazione di stazioni di misurazione (piezometri) della rete cantonale di osservazione delle acque freatiche per prelievi temporanei di acque freatiche possono venire riscosse le tasse elencate nell'appendice 2.
-
-<sup>2</sup> Per l'utilizzazione di stazioni di misurazione (piezometri) della rete cantonale di osservazione delle acque freatiche per l'effettuazione di misurazioni e indagini ad opera di terzi vengono riscosse le tasse elencate nell'appendice 2.
-
-<sup>3</sup> Per la consegna di dati di misurazione vengono riscosse le tasse elencate nell'appendice 2.
+**…**
 
 #### Art. 6
 
@@ -116,11 +109,11 @@ ai sensi dell'articolo 48 della legge federale sulla protezione dell'ambiente (L
 
 <sup>2</sup> Se un'autorizzazione viene negata, la tassa può essere diminuita o annullata.
 
-<sup>3</sup> Un autorità competente può rinunciare interamente o in parte alla riscossione di tasse giusta l'appendice 2 cifre 4 e 5, se l'utilizzazione delle stazioni di misurazione delle acque freatiche e i dati di misurazione consegnati giovano agli interessi del Cantone o a scopi scientifici.
+<sup>3</sup> …
 
-<sup>4</sup> In casi di necessità essa può rinunciare in via eccezionale alla riscossione delle tasse giusta l'appendice 2 cifra 4 nel caso di prelievi di acque freatiche.
+<sup>4</sup> …
 
-<sup>5</sup> In via eccezionale essa può diminuire nel singolo caso una tassa, se la riscossione della tassa intera risulterebbe inappropriata.
+<sup>5</sup> In via eccezionale l'autorità può diminuire o condonare nel singolo caso una tassa, se la riscossione della tassa intera risulterebbe inappropriata o se il rilascio dell'autorizzazione è associato a un onere particolarmente esiguo.
 
 #### Art. 9
 
