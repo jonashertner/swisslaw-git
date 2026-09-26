@@ -5,12 +5,12 @@ title: "Ordinanza sul finanziamento del disavanzo delle istituzioni della formaz
 short: Ordinanza sul disavanzo
 language: it
 version: 2025-01-01
-corrected: 2024-11-27
+corrected: 2026-09-27
 version_adopted: 2024-11-26
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/430.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3488/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3492/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.

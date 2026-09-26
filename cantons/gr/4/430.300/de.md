@@ -5,12 +5,12 @@ title: Verordnung über die Defizitfinanzierung der Institutionen der Berufsbild
 short: Defizitverordnung
 language: de
 version: 2025-01-01
-corrected: 2024-11-27
+corrected: 2026-09-27
 version_adopted: 2024-11-26
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3488/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3492/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
