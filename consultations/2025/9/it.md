@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge federale sulla sicurezza dei prodotti (LSPro)
 document: Progetto posto in consultazione
 language: it

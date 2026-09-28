@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Bundesgesetzes über die Produktesicherheit (PrSG)
 document: Vernehmlassungsvorlage
 language: de
