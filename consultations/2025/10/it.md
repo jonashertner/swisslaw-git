@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge federale sugli ostacoli tecnici al commercio (LOTC)
 document: Progetto posto in consultazione
 language: it

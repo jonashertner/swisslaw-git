@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi fédérale sur les entraves techniques au commerce (LETC)
 document: Projet mis en consultation
 language: fr
