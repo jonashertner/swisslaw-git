@@ -5,11 +5,12 @@ title: Landratsbeschluss über den Beitritt zur Vereinbarung zwischen den Kanton
 short: VHIS
 language: de
 version: 2024-12-31
+corrected: 2026-09-29
 version_adopted: 2024-10-23
 adopted: 2024-10-23
 in_force: 2024-12-31
 url: "https://gesetze.nw.ch/app/de/texts_of_law/912.71"
-pdf: "https://gesetze.nw.ch/api/de/versions/1540/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -34,6 +35,6 @@ beschliesst:
 
 #### Ziff. 2.
 
-<sup>1</sup> Der Regierungsrat wird ermächtigt, Änderungen der Vereinbarung gemäss Art. 31 der Vereinbarung zu beschliessen, sofern diese nicht den Bestand der öffentlich-rechtlichen Körperschaft betreffen.
+<sup>1</sup> Der Regierungsrat wird ermächtigt, Änderungen der Vereinbarung gemäss Art. 30 der Vereinbarung zu beschliessen, sofern diese nicht den Bestand der öffentlich-rechtlichen Körperschaft betreffen.
 
 2024-051
