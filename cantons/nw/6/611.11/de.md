@@ -5,11 +5,12 @@ title: Verordnung zum Planungs- und Baugesetz
 short: "Planungs- und Bauverordnung, PBV"
 language: de
 version: 2025-10-01
+corrected: 2026-09-29
 version_adopted: 2025-08-19
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1541/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1403/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -976,7 +977,7 @@ beschliesst:
 
 <sup>2</sup> Abgrabungen, Hauszugänge und Garagenzufahrten (Art. 3 Abs. 3 i.V.m. Art. 102 Abs. 3 PBG; § 32 PBV):
 
-<sup>3</sup> Giebeldach (Art. 103 PBG; § 33 PBV):
+<sup>3</sup> Giebeldach (Art. 103 PBG; § 32 PBV):
 
 <sup>4</sup> Überbauungsziffer (Art. 104 Abs. 1 Ziff. 2 und 104a PBG):
 
