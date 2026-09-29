@@ -5,12 +5,12 @@ title: "Legge d'introduzione al Codice civile svizzero *"
 short: LICC
 language: it
 version: 2026-01-01
-corrected: 2025-12-17
+corrected: 2026-09-30
 version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3611/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3618/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -1559,16 +1559,18 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 - 1\. per le imposte relative ai fondi sull'incremento del valore, sul trapasso di proprietà e su quella fondiaria del Cantone, dei comuni e delle ulteriori corporazioni i diritto pubblico;
 - 2\. per le spese dei provvedimenti sostitutivi del comune e del Cantone ai sensi dell'articolo 73 capoverso 3, articolo 79 capoverso 4, articolo 84 capoverso 3 e articolo 94 capoverso 3 della legge cantonale sulla pianificazione territoriale[^131-1];
-- 3\. per le tasse sul plusvalore determinate dai comuni in virtù dell'articolo 19m della legge cantonale sulla pianificazione territoriale.
+- 3\. per le tasse sul plusvalore determinate dai comuni in virtù dell'articolo 19m della legge cantonale sulla pianificazione territoriale;
+- 4\. per diritti alla restituzione del Cantone conformemente all'articolo 11 della legge sulla promozione degli alloggi[^131-2].
 
 <sup>2</sup> Un'ipoteca legale che prevale su tutti gli altri pegni sussiste:
 
 - 1\. per i premi dell'Assicurazione fabbricati dovuti dal proprietario del fondo;
 - 2\. per i contributi dovuti da immobili ed edifici a imprese di utilità pubblica (correzioni di fiumi, arginamenti di torrenti, impianti viari, acquedotti, canalizzazioni, impianti elettrici, pianificazioni di quartiere, ricomposizioni particellari e simili) fatta eccezione per le periodiche tasse di utilizzazione;
-- 3\. per i contributi dovuti dal proprietario del fondo giusta l'articolo 33 della legge sulle bonifiche fondiarie.[^131-2]
+- 3\. per i contributi dovuti dal proprietario del fondo giusta l'articolo 33 della legge sulle bonifiche fondiarie.[^131-3]
 
 [^131-1]: CSC [801.100](https://www.gr-lex.gr.ch/data/801.100/it)
-[^131-2]: CSC [915.100](https://www.gr-lex.gr.ch/data/915.100/it)
+[^131-2]: CSC [950.250](https://www.gr-lex.gr.ch/data/950.250/it)
+[^131-3]: CSC [915.100](https://www.gr-lex.gr.ch/data/915.100/it)
 
 #### Art. 132
 

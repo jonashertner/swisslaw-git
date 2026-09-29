@@ -5,12 +5,12 @@ title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGzZGB
 language: de
 version: 2026-01-01
-corrected: 2025-12-17
+corrected: 2026-09-30
 version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3611/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3618/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1575,16 +1575,18 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 - 1\. für die auf die Grundstücke entfallenden Wertzuwachs-, Handänderungs- und Liegenschaftssteuern von Kanton, Gemeinden und übrigen öffentlich-rechtlichen Körperschaften;
 - 2\. für die Kosten der Ersatzvornahme der Gemeinde und des Kantons gemäss Artikel 73 Absatz 3, Artikel 79 Absatz 4, Artikel 84 Absatz 3 und Artikel 94 Absatz 3 des kantonalen Raumplanungsgesetzes[^131-1];
-- 3\. für die von den Gemeinden gestützt auf Artikel 19m des kantonalen Raumplanungsgesetzes veranlagten Mehrwertabgaben.
+- 3\. für die von den Gemeinden gestützt auf Artikel 19m des kantonalen Raumplanungsgesetzes veranlagten Mehrwertabgaben;
+- 4\. für Rückforderungsansprüche des Kantons gemäss Artikel 11 des Gesetzes über die Förderung von Wohnraum[^131-2].
 
 <sup>2</sup> Ein allen anderen Pfandrechten vorgehendes Pfandrecht besteht:
 
 - 1\. für die vom Grundeigentümer geschuldeten Prämien der Gebäudeversicherungsanstalt;
 - 2\. für die auf Liegenschaften und Gebäulichkeiten entfallenden Beiträge an öffentliche Unternehmungen (Flusskorrektionen, Wildbachverbauungen, Verkehrsanlagen, Wasserversorgungen, Kanalisationen, elektrische Anlagen, Quartierplanungen, Baulandumlegungen und dergleichen), unter Ausschluss der wiederkehrenden Benutzungsgebühren;
-- 3\. für die vom Grundeigentümer geschuldeten Beiträge gemäss Artikel 33 des Meliorationsgesetzes[^131-2].
+- 3\. für die vom Grundeigentümer geschuldeten Beiträge gemäss Artikel 33 des Meliorationsgesetzes[^131-3].
 
 [^131-1]: BR [801.100](https://www.gr-lex.gr.ch/data/801.100/de)
-[^131-2]: BR [915.100](https://www.gr-lex.gr.ch/data/915.100/de)
+[^131-2]: BR [950.250](https://www.gr-lex.gr.ch/data/950.250/de)
+[^131-3]: BR [915.100](https://www.gr-lex.gr.ch/data/915.100/de)
 
 #### Art. 132
 
