@@ -5,11 +5,12 @@ title: "Lescha davart il notariat *"
 short: LNot
 language: rm
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3807/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -125,7 +126,7 @@ concluda:
 
 <sup>1</sup> La cumissiun da notariat fixescha ina u pliras inspecturas u in u plirs inspecturs da notariat ed ordinescha inspecziuns periodicas da l'administraziun da l'uffizi da las persunas da notariat.
 
-<sup>2</sup> L'administraziun da l'uffizi da las administraturas e dals administraturs dal register funsil vegn inspectada per regla da l'Uffizi dal register funsil e dal register da commerzi.
+<sup>2</sup> L'administraziun da l'uffizi da las administraturas e dals administraturs dal register funsil vegn inspectada per regla da l'inspecturat chantunal dal register funsil.
 
 <sup>3</sup> Las persunas da notariat èn obligadas d'infurmar la persuna d'inspecziun davart tut ils fatgs da lur administraziun da l'uffizi e da preschentar tut ils documents giavischads.
 
@@ -304,9 +305,9 @@ concluda:
 
 <sup>1</sup> Las persunas ch'entran en uffizi sco administraturas u sco administraturs dal register funsil èn persunas da notariat en il senn da l'artitgel 1 alineas 1 e 2.
 
-<sup>2</sup> L'administratura u l'administratur dal register funsil vegn saramentà sco persuna da notariat da l'inspectura u da l'inspectur dal register funsil. L'artitgel 13 alinea 1 è applitgabel confurm al senn.
+<sup>2</sup> L'administratura u l'administratur dal register funsil vegn saramentà sco persuna da notariat da l'inspectura u da l'inspectur chantunal dal register funsil. L'artitgel 13 alinea 1 è applitgabel confurm al senn.
 
-<sup>3</sup> L'Uffizi dal register funsil e dal register da commerzi communitgescha l'elecziun a la Cumissiun da notariat.
+<sup>3</sup> L'inspecturat chantunal dal register funsil communitgescha l'elecziun a la cumissiun da notariat.
 
 #### Art. 20
 

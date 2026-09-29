@@ -5,11 +5,12 @@ title: "Legge sul notariato *"
 short: LNot
 language: it
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3807/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3387/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -125,7 +126,7 @@ decide:
 
 <sup>1</sup> La Commissione notarile designa una o più ispettrici notarili o uno o più ispettori notarili e ordina ispezioni periodiche dell'attività delle notaie e dei notai.
 
-<sup>2</sup> L'attività dell'ufficiale del registro fondiario viene di regola ispezionata dall'Ufficio del registro fondiario e del registro di commercio.
+<sup>2</sup> L'attività dell'ufficiale del registro fondiario viene di regola ispezionata dall'Ispettorato cantonale del registro fondiario.
 
 <sup>3</sup> Le notaie ed i notai sono tenuti a fornire alla persona incaricata dell'ispezione tutte le informazioni richieste sulla loro attività e a presentare tutti i documenti richiesti.
 
@@ -300,9 +301,9 @@ decide:
 
 <sup>1</sup> Chi assume la carica di ufficiale del registro fondiario è considerato notaia o notaio ai sensi dell'articolo 1 capoversi 1 e 2.
 
-<sup>2</sup> L'ufficiale del registro fondiario presta giuramento quale notaia o notaio dinanzi all'Ispettore del registro fondiario. L'articolo 13 capoverso 1 è applicabile per analogia.
+<sup>2</sup> L'ufficiale del registro fondiario presta giuramento quale notaia o notaio dinanzi all'Ispettore cantonale del registro fondiario. L'articolo 13 capoverso 1 è applicabile per analogia.
 
-<sup>3</sup> L'Ufficio del registro fondiario e del registro di commercio comunica la nomina alla Commissione notarile.
+<sup>3</sup> L'Ispettorato cantonale del registro fondiario comunica la nomina alla Commissione notarile.
 
 #### Art. 20
 

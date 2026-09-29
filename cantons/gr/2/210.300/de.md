@@ -5,11 +5,12 @@ title: Notariatsgesetz
 short: NotG
 language: de
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2022-06-14
 adopted: 2004-10-18
 in_force: 2005-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3807/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -125,7 +126,7 @@ beschliesst:
 
 <sup>1</sup> Die Notariatskommission bestimmt eine oder mehrere Notariatsinspektorinnen oder einen oder mehrere Notariatsinspektoren und ordnet periodische Inspektionen der Amtsführung von Notariatspersonen an.
 
-<sup>2</sup> Die Amtsführung der Grundbuchverwalterinnen und Grundbuchverwalter wird in der Regel vom Amt für Grundbuch und Handelsregister inspiziert.
+<sup>2</sup> Die Amtsführung der Grundbuchverwalterinnen und Grundbuchverwalter wird in der Regel vom kantonalen Grundbuchinspektorat inspiziert.
 
 <sup>3</sup> Die Notariatspersonen sind verpflichtet, der inspizierenden Person über ihre Amtsführung alle gewünschten Auskünfte zu erteilen und alle gewünschten Dokumente vorzulegen.
 
@@ -300,9 +301,9 @@ beschliesst:
 
 <sup>1</sup> Wer als Grundbuchverwalterin oder Grundbuchverwalter die Amtstätigkeit aufnimmt, ist Notariatsperson im Sinne von Artikel 1 Absätze 1 und 2.
 
-<sup>2</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter wird als Notariatsperson von der Grundbuchinspektorin oder vom Grundbuchinspektor vereidigt. Artikel 13 Absatz 1 ist sinngemäss anwendbar.
+<sup>2</sup> Die Grundbuchverwalterin oder der Grundbuchverwalter wird als Notariatsperson vom kantonalen Grundbuchinspektor vereidigt. Artikel 13 Absatz 1 ist sinngemäss anwendbar.
 
-<sup>3</sup> Das Amt für Grundbuch und Handelsregister meldet die Wahl der Notariatskommission.
+<sup>3</sup> Das kantonale Grundbuchinspektorat meldet die Wahl der Notariatskommission.
 
 #### Art. 20
 
