@@ -5,12 +5,12 @@ title: "Ordinanza sull'orario di lavoro"
 short: OOL
 language: it
 version: 2023-01-01
-corrected: 2026-09-22
+corrected: 2026-09-30
 version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3285/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3753/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -252,5 +252,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 <sup>1</sup> La presente ordinanza entra in vigore il 1° maggio 2011 e sostituisce l'ordinanza sull'orario di lavoro del 12 dicembre 2006[^23-1].
 
 [^23-1]: AGS 2006, 4867
+
+## A1 Appendice 1: Modelli di orario di lavoro
+
+#### Art. A1-1
+
+<sup>1</sup> Modelli di orario di lavoro:
 
 -

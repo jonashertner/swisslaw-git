@@ -5,12 +5,12 @@ title: Ordinaziun davart il temp da lavur
 short: OTL
 language: rm
 version: 2023-01-01
-corrected: 2026-09-22
+corrected: 2026-09-30
 version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3285/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -252,5 +252,11 @@ relaschada da la regenza ils 8 da mars 2011
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. da matg 2011 e remplazza l'ordinaziun davart il temp da lavur dals 12 da december 2006[^23-1].
 
 [^23-1]: CUL 2006, 4867
+
+## A1 Agiunta 1: Plans da temp da lavur
+
+#### Art. A1-1
+
+<sup>1</sup> Plans da temp da lavur:
 
 -

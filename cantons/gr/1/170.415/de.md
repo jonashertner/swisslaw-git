@@ -5,12 +5,12 @@ title: Arbeitszeitverordnung
 short: AzV
 language: de
 version: 2023-01-01
-corrected: 2026-09-22
+corrected: 2026-09-30
 version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3285/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -252,5 +252,11 @@ von der Regierung erlassen am 8. März 2011
 <sup>1</sup> Diese Verordnung tritt am 1. Mai 2011 in Kraft und ersetzt die Arbeitszeitverordnung vom 12. Dezember 2006[^23-1].
 
 [^23-1]: AGS 2006, 4867
+
+## A1 Anhang 1: Arbeitszeitpläne
+
+#### Art. A1-1
+
+<sup>1</sup> Arbeitszeitpläne:
 
 -
