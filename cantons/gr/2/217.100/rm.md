@@ -5,11 +5,12 @@ title: Ordinaziun davart il register funsil en il chantun Grischun
 short: OCRF
 language: rm
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2023-04-04
 adopted: 2014-10-20
 in_force: 2015-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/217.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3808/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -34,7 +35,7 @@ relaschada da la regenza ils 20 d'october 2014
 
 <sup>1</sup> Il post da surveglianza è il departament d'economia publica e fatgs socials.
 
-<sup>2</sup> Il post spezialisà è l'Uffizi dal register funsil e dal register da commerzi.
+<sup>2</sup> Il post spezialisà è l'inspecturat dal register funsil e register da commerzi.
 
 #### Art. 2
 

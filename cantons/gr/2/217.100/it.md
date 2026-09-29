@@ -5,11 +5,12 @@ title: Ordinanza concernente il registro fondiario nel Cantone dei Grigioni
 short: OCRF
 language: it
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2023-04-04
 adopted: 2014-10-20
 in_force: 2015-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/217.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3808/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3450/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -34,7 +35,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Il Dipartimento dell'economia pubblica e socialità è l'organo di vigilanza.
 
-<sup>2</sup> L'Ufficio del registro fondiario e del registro di commercio è il servizio specializzato.
+<sup>2</sup> L'Ispettorato del registro fondiario e registro di commercio è il servizio specializzato.
 
 #### Art. 2
 

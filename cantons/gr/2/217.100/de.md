@@ -5,11 +5,12 @@ title: Verordnung über das Grundbuch im Kanton Graubünden
 short: KGBV
 language: de
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2023-04-04
 adopted: 2014-10-20
 in_force: 2015-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/217.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3808/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -34,7 +35,7 @@ von der Regierung erlassen am 20. Oktober 2014
 
 <sup>1</sup> Aufsichtsstelle ist das Departement für Volkswirtschaft und Soziales.
 
-<sup>2</sup> Fachstelle ist das Amt für Grundbuch und Handelsregister.
+<sup>2</sup> Fachstelle ist das Grundbuchinspektorat und Handelsregister.
 
 #### Art. 2
 
