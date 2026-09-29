@@ -4,11 +4,12 @@ number: "173.102"
 title: Reglement über die Archivierung der Gerichtsakten
 language: de
 version: 2026-07-01
+corrected: 2026-09-30
 version_adopted: 2026-08-24
 adopted: 2001-09-05
 in_force: 2002-02-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.102"
-pdf: "https://lex.vs.ch/api/de/versions/3662/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3643/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -41,8 +42,7 @@ beschliesst:
 - f) der Kreisgerichte;
 - g) …
 - h) …
-- i) des Kantonsgerichts;
-- j) des Zwangsmassnahmen- sowie Straf- und Massnahmenvollzugsgerichts.
+- i) des Kantonsgerichts.
 
 <sup>2</sup> Im weiteren regelt es die Einsichtnahme in das Archivgut der Gerichtsbehörden durch Dritte.
 
@@ -189,7 +189,7 @@ beschliesst:
 
 **Entscheid der zuständigen Gerichtsbehörde**
 
-<sup>1</sup> Die zuständige Gerichtsbehörde entscheidet über das Gesuch, das ihr vom Staatsarchiv des Kantons Wallis unter Beifügung der erforderlichen Auflagen und Bedingungen übermittelt wurde. Bei einer Kollegialbehörde entscheidet deren Präsident.
+<sup>1</sup> Die zuständige Gerichtsbehörde entscheidet über das Gesuch der ihr vom Staatsarchiv des Kantons Wallis unter Beifügung der erforderlichen Auflagen und Bedingungen übermittelt wurde. Bei Kollegialbehörden entscheidet deren Präsident.
 
 <sup>2</sup> Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege sind anwendbar.
 

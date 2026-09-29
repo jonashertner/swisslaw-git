@@ -4,11 +4,12 @@ number: "173.102"
 title: "Règlement sur l'archivage des dossiers judiciaires"
 language: fr
 version: 2026-07-01
+corrected: 2026-09-30
 version_adopted: 2026-08-24
 adopted: 2001-09-05
 in_force: 2002-02-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.102"
-pdf: "https://lex.vs.ch/api/fr/versions/3662/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3643/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -41,8 +42,7 @@ arrête:
 - f) des tribunaux d'arrondissement;
 - g) …
 - h) …
-- i) du Tribunal cantonal;
-- j) du tribunal des mesures de contrainte et du tribunal de l'application des peines et mesures.
+- i) du Tribunal cantonal.
 
 <sup>2</sup> Il fixe en outre les modalités de consultation des archives judiciaires par des tiers.
 
@@ -189,7 +189,7 @@ arrête:
 
 **Décision de l’autorité compétente**
 
-<sup>1</sup> L'autorité judiciaire compétente statue sur la demande qui lui a été transmise par les Archives de l'Etat du Valais en l'assortissant des charges et conditions utiles. Si l'autorité judiciaire est collégiale, la décision est prise par son président.
+<sup>1</sup> L'autorité judiciaire compétente statue sur la demande qui lui a été transmises par les Archives de l'Etat du Valais en l'assortissant des charges et conditions utiles. Si l'autorité judiciaire est collégiale, la décision est prise par son président.
 
 <sup>2</sup> Les dispositions de la loi sur la procédure et la juridiction administratives sont applicables.
 
