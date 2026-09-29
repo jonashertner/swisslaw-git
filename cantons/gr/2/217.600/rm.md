@@ -4,11 +4,12 @@ number: "217.600"
 title: "Lescha introductiva tar la lescha federala dals 16 da december 1983 davart l'acquist da bains immobigliars tras persunas a l'exteriur (LAIE)"
 language: rm
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2022-06-14
 adopted: 1987-04-05
 in_force: 1988-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/217.600"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3809/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -127,7 +128,7 @@ acceptada dal pievel ils 5 d'avrigl 1987[^ingress-2]
 
 **Autoritad da permissiun**
 
-<sup>1</sup> L'autoritad da permissiun è l'Uffizi dal register funsil e dal register da commerzi.
+<sup>1</sup> L'autoritad da permissiun è l'inspecturat dal register funsil.
 
 #### Art. 14
 

@@ -4,11 +4,12 @@ number: "217.600"
 title: Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland (BewG)
 language: de
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2022-06-14
 adopted: 1987-04-05
 in_force: 1988-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/217.600"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3809/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -128,7 +129,7 @@ vom Volke angenommen am 5. April 1987[^ingress-2]
 
 **Bewilligungsbehörde**
 
-<sup>1</sup> Bewilligungsbehörde ist das Amt für Grundbuch und Handelsregister.
+<sup>1</sup> Bewilligungsbehörde ist das Grundbuchinspektorat.
 
 #### Art. 14
 

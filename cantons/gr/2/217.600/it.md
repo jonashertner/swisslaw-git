@@ -4,11 +4,12 @@ number: "217.600"
 title: "Legge d'introduzione alla legge federale del 16 dicembre 1983 sull'acquisto di fondi da parte di persone all'estero (LAFE)"
 language: it
 version: 2025-01-01
+corrected: 2026-09-30
 version_adopted: 2022-06-14
 adopted: 1987-04-05
 in_force: 1988-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/217.600"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3809/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3388/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -127,7 +128,7 @@ in esecuzione dell'art. 36 della legge federale sull'acquisto di fondi da parte 
 
 **Autorità di prima istanza**
 
-<sup>1</sup> L'Ufficio del registro fondiario e del registro di commercio è autorità di prima istanza.
+<sup>1</sup> L'Ispettorato del registro fondiario è autorità di prima istanza.
 
 #### Art. 14
 
