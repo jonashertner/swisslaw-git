@@ -4,13 +4,12 @@ number: "620"
 title: Steuergesetz
 short: StG
 language: de
-version: 2026-01-01
-valid_until: 2026-09-30
-version_adopted: 2025-10-20
+version: 2026-10-01
+version_adopted: 2026-05-11
 adopted: 1999-11-22
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/620"
-pdf: "https://srl.lu.ch/api/de/versions/4667/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4667/pdf_file"
 
 (StG)
 
-vom 22.11.1999 (Stand 01.01.2026)
+vom 22.11.1999 (Stand 01.10.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -3404,11 +3403,13 @@ beschliesst:
 
 #### § 259h
 
-<sup>1</sup> Der Kanton Luzern beteiligt die Einwohnergemeinden ab Inkrafttreten der Änderung vom 18. März 2024 am Ertrag aus der Mindestbesteuerung grosser Unternehmensgruppen bis ins Jahr 2029 jährlich im Umfang von 26,6 Millionen Franken (Gemeindeanteil) und ab dem Jahr 2030 mit 23,5 Millionen Franken. Der Gemeindeanteil steht den Einwohnergemeinden unabhängig vom effektiven Ertrag zu, der dem Kanton Luzern aus der Mindestbesteuerung grosser Unternehmensgruppen zufällt.
+<sup>1</sup> Der Kanton Luzern beteiligt die Einwohnergemeinden im Umfang von 25 Prozent an den gesamten in der Jahresrechnung verbuchten Mehreinnahmen aus der Mindestbesteuerung grosser Unternehmensgruppen, mindestens jedoch im Umfang von 26,6 Millionen Franken für die Jahre bis 2029 und mindestens im Umfang von 23,5 Millionen Franken für die Jahre ab 2030 (Gemeindeanteil).
 
-<sup>2</sup> In den ersten zwei Jahren wird der Gemeindeanteil auf die Einwohnergemeinden je zur Hälfte entsprechend ihren Ertragsausfällen bei den Steuern aufgrund der Änderung vom 18. März 2024 und ihrer Einwohnerzahl verteilt und ab dem dritten Jahr entsprechend ihrer Einwohnerzahl.
+<sup>1<sup>bis</sup></sup> Der Mindestbetrag steht den Einwohnergemeinden unabhängig vom effektiven Ertrag aus der Mindestbesteuerung grosser Unternehmensgruppen zu.
 
-<sup>3</sup> Für die Verteilung des Gemeindeanteils entsprechend den Ertragsausfällen ist der Ertragsausfall der einzelnen Einwohnergemeinde im Verhältnis zum Ertragsausfall sämtlicher Einwohnergemeinden massgebend. Die Ertragsausfälle errechnen sich aus der Differenz zwischen den durchschnittlichen Steuererträgen im sechsten bis vierten Jahr vor dem Verteiljahr mit und ohne Änderung des Steuergesetzes vom 18. März 2024. Zur Berechnung der Ertragsausfälle werden berücksichtigt:
+<sup>2</sup> Der Gemeindeanteil für das Jahr 2026 wird auf die Einwohnergemeinden je zur Hälfte entsprechend ihren Ertragsausfällen bei den Steuern aufgrund der Änderung vom 18. März 2024 und ihrer Einwohnerzahl verteilt, jener für die Jahre ab 2027 ausschliesslich entsprechend ihrer Einwohnerzahl.
+
+<sup>3</sup> Für die Verteilung des Gemeindeanteils entsprechend den Ertragsausfällen ist der Ertragsausfall der einzelnen Einwohnergemeinde im Verhältnis zum Ertragsausfall sämtlicher Einwohnergemeinden massgebend. Die Ertragsausfälle errechnen sich aus der Differenz zwischen den durchschnittlichen Steuererträgen im siebten bis fünften Jahr vor dem Verteiljahr mit und ohne Änderung des Steuergesetzes vom 18. März 2024. Zur Berechnung der Ertragsausfälle werden berücksichtigt:
 
 - a. bei den natürlichen Personen:
   - 1\. Ausfälle aus dem Abzug für Kosten der Drittbetreuung von Kindern gemäss § 40 Absatz 1l StG,
@@ -3419,9 +3420,9 @@ beschliesst:
 
 <sup>4</sup> Für die Verteilung des Gemeindeanteils im Verhältnis der Einwohnerzahl sind die Einwohnerzahlen der ständigen Wohnbevölkerung gemäss Verordnung über die Bevölkerungsstatistik vom 22. November 2011[^259h-1] massgebend.
 
-<sup>5</sup> Den Einwohnergemeinden wird ihr Anteil jeweils bis zum 30. April des Verteiljahres ausbezahlt, erstmals im Jahr des Inkrafttretens der Änderung vom 18. März 2024.
+<sup>5</sup> …
 
-<sup>6</sup> Der Regierungsrat überprüft innert fünf Jahren nach dem Inkrafttreten der Änderung vom 18. März 2024 die Beteiligung der Einwohnergemeinden am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen und unterbreitet dem Kantonsrat allenfalls eine Neufestsetzung des Gemeindeanteils und der Verteilung auf die Einwohnergemeinden.
+<sup>6</sup> …
 
 [^259h-1]: SRL Nr. 28d
 
