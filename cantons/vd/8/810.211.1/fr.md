@@ -4,7 +4,7 @@ number: "810.211.1"
 title: "RÈGLEMENT du 10.04.2019 d'application du décret du 13 mai 1957 sur la Policlinique médicale universitaire et dispensaire central de Lausanne (RDPMU)"
 short: RDPMU
 language: fr
-version: 2025-02-26
+version: 2026-10-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.211.1?id=176c6eb0-64dd-457a-a1aa-a0dde148ef14"
 ---
 
@@ -75,11 +75,11 @@ arrête
 
 <sup>2</sup> Le conseil se réunit au minimum trois fois l'an.
 
-<sup>3</sup> Le directeur général d'Unisanté, un représentant de la direction du service en charge de la santé (le service), un représentant de l'Université et un représentant du CHUV assistent aux séances avec voix consultative.
+<sup>3</sup> Le directeur général d'Unisanté, un représentant de la direction du service en charge de la santé (le service), un représentant de l'Université et un représentant du CHUV assistent en principe aux séances avec voix consultative.
 
 <sup>4</sup> Au surplus, le conseil s'organise librement.
 
-[^3-1]: Modif. 1 du 26.02.2025: Modification Al. 3; entrée en vigueur au 26.02.2025 · Modif. 2 du 23.09.2026: Modification Al. 3; entrée en vigueur au 01.10.2026; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.10.2026; Introduction Art. 8, Al. 3bis; entrée en vigueur au 01.10.2026
+[^3-1]: Modif. 1 du 26.02.2025: Modification Al. 3; entrée en vigueur au 26.02.2025 · Modif. 2 du 23.09.2026: Modification Al. 3; entrée en vigueur au 01.10.2026
 
 #### Art. 5
 
@@ -89,12 +89,12 @@ arrête
 
 <sup>2</sup> Il exerce notamment les attributions suivantes :
 
-- a. adopter, sous réserve de ratification par le Conseil d'Etat, le plan stratégique proposé par la direction ;
+- a. adopter, sous réserve de ratification par le Conseil d'Etat, le plan stratégique proposé par le Comité de direction ;
 - b. adopter le budget, les objectifs annuels, les comptes et les résultats de l'exercice;
 - c. valider le contrat de prestations conclu avec le DSAS, ainsi que les conventions de collaboration conclues, l'une avec le CHUV, l'autre avec l'Université ;
 - d. préaviser la nomination du directeur général ;
 - e. définir le cahier des charges du directeur général et procéder à son évaluation bisannuelle, sous réserve de son évaluation académique, effectuée par l'Université selon ses propres règles ;
-- f. désigner les membres de la direction, hormis le directeur général, sur préavis de ce dernier ;
+- f. désigner, hormis le directeur général, sur préavis de ce dernier, le directeur médical, le directeur des soins, le directeur financier et le directeur des ressources humaines. Les chefs de départements, qui siègent également au Comité de direction, sont quant à eux nommés directement par le directeur général.
 - g. désigner l'organe de révision externe chargé du contrôle des comptes ;
 - h. édicter un règlement du personnel qui fixe notamment les conditions générales des contrats de travail ;
 - i. adopter le rapport d'activités annuel de la PMU et l'adresser au Conseil d'Etat ;
@@ -102,7 +102,7 @@ arrête
 
 <sup>3</sup> Il s'assure de la cohérence et de l'adéquation des orientations et activités de la PMU avec son plan stratégique ainsi qu'avec les objectifs et le cadre fixés dans le contrat de prestations avec le DSAS et la convention de collaboration conclue avec l'Université.
 
-[^4-1]: Modif. 2 du 23.09.2026: Modification Al. 2, a,f; entrée en vigueur au 01.10.2026; Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.10.2026; Introduction Art. 8, Al. 3bis; entrée en vigueur au 01.10.2026
+[^4-1]: Modif. 2 du 23.09.2026: Modification Al. 2, a,f; entrée en vigueur au 01.10.2026
 
 #### Art. 6
 
@@ -114,13 +114,15 @@ arrête
 
 #### Art. 7
 
-**Direction [^6-2]**
+**Comité de direction [^6-2]**
 
-<sup>1</sup> La direction se compose de la direction générale, de la direction financière, de la direction des ressources humaines, de la direction administrative, de la direction médicale et de la direction des soins.
+<sup>1</sup> Le Comité de direction (ci-après : le CODIR) se compose du directeur général, du directeur général adjoint, des chefs de départements, du directeur financier, du directeur des ressources humaines, du directeur médical et du directeur des soins. La direction générale peut nommer des invités permanents avec voix consultative.
 
-<sup>2</sup> Le directeur général organise la direction et répond de la bonne marche de la PMU envers le conseil.
+<sup>1bis</sup> En cas d'absence d'un membre du CODIR, l'organe chargé de sa nomination peut désigner un suppléant.
 
-[^6-2]: Modif. 2 du 23.09.2026: Modification tArt; entrée en vigueur au 01.10.2026; Modification Al. 1; entrée en vigueur au 01.10.2026; Introduction Al. 1bis; entrée en vigueur au 01.10.2026; Modification Al. 2; entrée en vigueur au 01.10.2026; Introduction Art. 8, Al. 3bis; entrée en vigueur au 01.10.2026
+<sup>2</sup> Le directeur général organise le CODIR et répond de la bonne marche de la PMU envers le conseil.
+
+[^6-2]: Modif. 2 du 23.09.2026: Modification tArt; entrée en vigueur au 01.10.2026; Modification Al. 1; entrée en vigueur au 01.10.2026; Introduction Al. 1bis; entrée en vigueur au 01.10.2026; Modification Al. 2; entrée en vigueur au 01.10.2026
 
 #### Art. 8
 
@@ -132,9 +134,11 @@ arrête
 
 <sup>3</sup> Le directeur général doit tout son temps à sa fonction.
 
-<sup>4</sup> Il est l'autorité d'engagement du personnel qui n'est pas engagé par le conseil. Il peut déléguer sa compétence aux autres membres de la direction. Le règlement du personnel fixe le cadre d'une telle délégation.
+<sup>3bis</sup> En cas d'absence du directeur général de plus de trente jours, le conseil désigne un suppléant. Le Conseil d'Etat peut en tout temps choisir un autre suppléant.
 
-[^7-1]: Modif. 1 du 26.02.2025: Abrogation Al. 1; entrée en vigueur au 26.02.2025; Modification Al. 2; entrée en vigueur au 26.02.2025 · Modif. 2 du 23.09.2026: Introduction Art. 7, Al. 1bis; entrée en vigueur au 01.10.2026; Introduction Al. 3bis; entrée en vigueur au 01.10.2026; Modification Al. 4; entrée en vigueur au 01.10.2026
+<sup>4</sup> Le directeur général est l'autorité d'engagement du personnel qui n'est pas engagé par le conseil. Il peut déléguer sa compétence aux autres membres du CODIR. Le règlement du personnel fixe le cadre d'une telle délégation.
+
+[^7-1]: Modif. 1 du 26.02.2025: Abrogation Al. 1; entrée en vigueur au 26.02.2025; Modification Al. 2; entrée en vigueur au 26.02.2025 · Modif. 2 du 23.09.2026: Introduction Al. 3bis; entrée en vigueur au 01.10.2026; Modification Al. 4; entrée en vigueur au 01.10.2026
 
 #### Art. 9
 
