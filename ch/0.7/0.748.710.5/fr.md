@@ -3,11 +3,11 @@ sr: "0.748.710.5"
 title: "Convention du 10 septembre 2010 sur la répression des actes illicites dirigés contre l'aviation civile internationale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/487"
 language: fr
-version: 2025-06-23
+version: 2026-10-01
 adopted: 2010-09-10
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20250623/fr/xml/fedlex-data-admin-ch-eli-cc-2018-487-20250623-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20250623/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-487-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Pékin le 10 septembre 2010 Approuvée par l’Assemblée fédérale le 20 juin 2014[^t-1] Instrument d’adhésion déposé par la Suisse le 11 décembre 2014 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2018
 
-(État le 23 juin 2025)
+(État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 20 juin 2018 ([RO 2018 257](https://fedlex.data.admin.ch/eli/oc/2018/41))
 
@@ -137,7 +137,7 @@ Aux fins de la présente Convention:
 - (i) «précurseur» s’entend de tout réactif chimique qui entre à un stade quelconque dans la fabrication d’un produit chimique toxique, quel que soit le procédé utilisé. Cela comprend tout composant clé d’un système chimique binaire ou à composants multiples;
 - (j) les termes «matière brute» et «produit fissile spécial» ont le même sens que celui qui leur est donné dans le Statut de l’Agence internationale de l’énergie atomique, fait à New York le 26 octobre 1956[^2-1].
 
-[^2-1]: [RS 0.732.011](https://fedlex.data.admin.ch/eli/cc/1958/505_527_527)
+[^2-1]: [RS 0.732.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2756)
 
 #### Art. 3
 
@@ -178,16 +178,16 @@ Dans les cas visés aux al. (a), (b), (c), (e), (f), (g), (h) et (i) du par. 1 d
 
 <sup>3.</sup> Les dispositions du par. 2 du présent article ne s’interprètent pas comme excusant ou rendant licites des actes par ailleurs illicites, ni comme excluant l’exercice de poursuites sous l’empire d’autres lois.
 
-[^6-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^6-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^6-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 7
 
 Aucune disposition de la présente Convention ne porte atteinte aux droits, obligations et responsabilités des États parties au Traité sur la non-prolifération des armes nucléaires, signé à Londres, Moscou et Washington le 1<sup>er</sup> juillet 1968[^7-1], à la Convention sur l’interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction, signée à Londres, Moscou et Washington le 10 avril 1972[^7-2], ou à la Convention sur l’interdiction de la mise au point, de la fabrication, du stockage et de l’emploi des armes chimiques et sur leur destruction, signée à Paris le 13 janvier 1993[^7-3].
 
-[^7-1]: [RS 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^7-2]: [RS 0.515.07](https://fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439)
-[^7-3]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^7-1]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^7-2]: [RS 0.515.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1925)
+[^7-3]: [RS 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 
 #### Art. 8
 
@@ -320,8 +320,8 @@ Entre les États parties, la présente Convention l’emporte sur les instrument
 - (a) la Convention pour la répression d’actes illicites dirigés contre la sécurité de l’aviation civile[^24-1], signée à Montréal le 23 septembre 1971;
 - (b) le Protocole pour la répression des actes illicites de violence dans les aéroports servant à l’aviation civile internationale[^24-2], complémentaire à la Convention pour la répression d’actes illicites dirigés contre la sécurité de l’aviation civile faite à Montréal le 23 septembre 1971, signé à Montréal le 24 février 1988.
 
-[^24-1]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
-[^24-2]: [RS 0.748.710.31](https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935)
+[^24-1]: [RS 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
+[^24-2]: [RS 0.748.710.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3312)
 
 #### Art. 25
 
@@ -329,12 +329,13 @@ Le dépositaire informera rapidement tous les États parties à la présente Con
 
 *En foi de quoi* les plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Pékin le 10 septembre 2010 en langues française, anglaise, arabe, chinoise, espagnole et russe, tous les textes faisant également foi après la vérification effectuée par le Secrétariat de la Conférence, sous l’autorité du Président de la Conférence, dans les quatre-vingt-dix jours suivant cette date, pour ce qui est de la concordance des textes entre eux. La présente Convention sera déposée aux archives de l’Organisation de l’aviation civile internationale, et le dépositaire en transmettra des copies certifiées conformes à tous les États contractants à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 23 juin 2025[^t-2]
+Champ d’application le 1<sup>er</sup> octobre 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne\* \*\*</td><td>21 mars</td><td>2022</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
 <tr><td>Angola</td><td>11 juin</td><td>2013 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>24 avril</td><td>2026 A</td><td>1<sup>er</sup> juin</td><td>2026</td></tr>
 <tr><td>Bahreïn\*</td><td>26 octobre</td><td>2017 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Bénin</td><td>27 octobre</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Botswana</td><td>30 avril</td><td>2021 A</td><td>1<sup>er</sup> juin</td><td>2021</td></tr>
@@ -345,19 +346,21 @@ Champ d’application le 23 juin 2025[^t-2]
 <tr><td>Congo (Brazzaville)</td><td>24 septembre</td><td>2019 A</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
 <tr><td>Côte d’Ivoire\*</td><td>20 mars</td><td>2015</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Cuba\*</td><td>22 mars</td><td>2013</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
-<tr><td>Émirats arabes unis</td><td>22 mai</td><td>2025 A</td><td>1<sup>er</sup> juillet</td><td>2025</td></tr>
+<tr><td>Émirats arabes unis\*</td><td>22 mai</td><td>2025 A</td><td>1<sup>er</sup> juillet</td><td>2025</td></tr>
 <tr><td>Eswatini</td><td>23 novembre</td><td>2016 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Finlande\*</td><td>28 juin</td><td>2021 A</td><td>1<sup>er</sup> août</td><td>2021</td></tr>
 <tr><td>France</td><td>15 décembre</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Gabon</td><td>24 septembre</td><td>2019 A</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
 <tr><td>Gambie</td><td>15 février</td><td>2021</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>4 juin</td><td>2018</td><td>1<sup>er</sup> août</td><td>2018</td></tr>
+<tr><td>Grenade\*</td><td>8 juin</td><td>2026 A</td><td>1<sup>er</sup> août</td><td>2026</td></tr>
 <tr><td>Guinée équatoriale</td><td>13 novembre</td><td>2024</td><td>1<sup>er</sup> janvier</td><td>2025</td></tr>
 <tr><td>Guyana</td><td>26 février</td><td>2013 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Honduras\*</td><td>23 août</td><td>2021 A</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Kazakhstan</td><td>20 janvier</td><td>2019 A</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
 <tr><td>Koweït</td><td>28 juillet</td><td>2014 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Luxembourg</td><td>19 novembre</td><td>2021 A</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>15 mai</td><td>2026 A</td><td>1<sup>er</sup> juillet</td><td>2026</td></tr>
 <tr><td>Mali</td><td>14 novembre</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Malte</td><td>26 septembre</td><td>2016 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Mongolie</td><td>3 juillet</td><td>2024</td><td>1<sup>er</sup> septembre</td><td>2024</td></tr>
@@ -388,8 +391,9 @@ Champ d’application le 23 juin 2025[^t-2]
 <tr><td>Turkménistan</td><td>17 juin</td><td>2019 A</td><td>1<sup>er</sup> août</td><td>2019</td></tr>
 <tr><td>Turquie\*</td><td>31 mai</td><td>2018</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Uruguay</td><td>5 décembre</td><td>2019 A</td><td>1<sup>er</sup> février</td><td>2020</td></tr>
+<tr><td>Zambie</td><td>28 mai</td><td>2026 A</td><td>1<sup>er</sup> juillet</td><td>2026</td></tr>
 <tr><td>Zimbabwe</td><td>29 août</td><td>2024 A</td><td>1<sup>er</sup> octobre</td><td>2024</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Ne s’applique pas aux régions administratives spéciales de Hong Kong et Macao.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](https://www.icao.int/) &gt; Français &gt; À propos de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Ne s’applique pas aux régions administratives spéciales de Hong Kong et Macao.</td></tr>
 </table>
 
-[^t-2]: [RO 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64); [2024 410](https://fedlex.data.admin.ch/eli/oc/2024/410); [2025 441](https://fedlex.data.admin.ch/eli/oc/2025/441). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64); [2024 410](https://fedlex.data.admin.ch/eli/oc/2024/410); [2025 441](https://fedlex.data.admin.ch/eli/oc/2025/441); [2026 520](https://fedlex.data.admin.ch/eli/oc/2026/520). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

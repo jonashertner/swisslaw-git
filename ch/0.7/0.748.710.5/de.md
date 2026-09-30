@@ -3,11 +3,11 @@ sr: "0.748.710.5"
 title: Übereinkommen vom 10. September 2010 über die Bekämpfung widerrechtlicher Handlungen mit Bezug auf die internationale Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/487"
 language: de
-version: 2025-06-23
+version: 2026-10-01
 adopted: 2010-09-10
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20250623/de/xml/fedlex-data-admin-ch-eli-cc-2018-487-20250623-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20250623/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2018-487-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 11. Dezember 2014
 
 In Kraft getreten für die Schweiz am 1. Juli 2018
 
-(Stand am 23. Juni 2025)
+(Stand am 1. Oktober 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 20. Juni 2018 ([AS 2018 257](https://fedlex.data.admin.ch/eli/oc/2018/41)).
 
@@ -139,7 +139,7 @@ Im Sinne dieses Übereinkommens:
 - (i) bedeutet der Ausdruck «Vorprodukt» jede chemische Reaktionskomponente, die auf irgendeiner Stufe bei jeder Art von Produktion einer toxischen Chemikalie beteiligt ist; dazu gehört jede Schlüsselkomponente eines binären oder Mehrkomponentensystems;
 - (j) haben die Ausdrücke «Ausgangsmaterial» und «besonderes spaltbares Material» dieselbe Bedeutung wie im Statut der Internationalen Atomenergie-Agentur vom 26. Oktober 1956[^2-1].
 
-[^2-1]: [SR 0.732.011](https://fedlex.data.admin.ch/eli/cc/1958/505_527_527)
+[^2-1]: [SR 0.732.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2756)
 
 #### Art. 3
 
@@ -180,16 +180,16 @@ In den Fällen von Artikel 1 Absatz 1 Buchstaben a, b, c, e, f, g, h und i finde
 
 <sup>3.</sup> Absatz 2 ist nicht so auszulegen, als würden dadurch ansonsten widerrechtliche Handlungen entschuldigt oder rechtmässig oder als verhindere er die Strafverfolgung nach anderen Gesetzen.
 
-[^6-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^6-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^6-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 7
 
 Dieses Übereinkommen berührt nicht die Rechte, Verpflichtungen und Verantwortlichkeiten, die sich für die Vertragsstaaten der jeweiligen Verträge aus dem Vertrag vom 1. Juli 1968[^7-1] über die Nichtverbreitung von Kernwaffen, dem Übereinkommen vom 10. April 1972[^7-2] über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen, oder dem Chemiewaffenübereinkommen vom 13. Januar 1993[^7-3] ergeben.
 
-[^7-1]: [SR 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^7-2]: [SR 0.515.07](https://fedlex.data.admin.ch/eli/cc/1976/1438_1439_1439)
-[^7-3]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
+[^7-1]: [SR 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^7-2]: [SR 0.515.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1925)
+[^7-3]: [SR 0.515.08](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1926)
 
 #### Art. 8
 
@@ -324,8 +324,8 @@ Im Verhältnis zwischen den Vertragsstaaten geht dieses Übereinkommen den folge
 - (a) dem Übereinkommen vom 23. September 1971[^24-1] zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Zivilluftfahrt; und
 - (b) dem Protokoll vom 24. Februar 1988[^24-2] zur Bekämpfung widerrechtlicher gewalttätiger Handlungen auf Flughäfen, die der internationalen Zivilluftfahrt dienen, in Ergänzung des am 23. September 1971 Übereinkommens zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Zivilluftfahrt.
 
-[^24-1]: [SR 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
-[^24-2]: [SR 0.748.710.31](https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935)
+[^24-1]: [SR 0.748.710.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3311)
+[^24-2]: [SR 0.748.710.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3312)
 
 #### Art. 25
 
@@ -333,7 +333,7 @@ Der Depositar unterrichtet unverzüglich alle Vertragsstaaten dieses Übereinkom
 
 *Zu Urkund dessen* haben die unterzeichneten, gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Peking am 10. September 2010 in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist; diese Verbindlichkeit tritt ein, sobald das Sekretariat der Konferenz im Auftrag des Präsidenten der Konferenz binnen neunzig Tagen ab diesem Zeitpunkt bestätigt hat, dass die Wortlaute übereinstimmen. Dieses Übereinkommen wird im Archiv der Internationalen Zivilluftfahrt-Organisation hinterlegt; beglaubigte Abschriften werden allen Vertragsstaaten des Übereinkommens vom Depositar übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Juni 2025[^t-2]
+Geltungsbereich am 1. Oktober 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -353,6 +353,7 @@ Geltungsbereich am 23. Juni 2025[^t-2]
 <tr><td>Gabun</td><td>24. September</td><td>2019 B</td><td>1. November</td><td>2019</td></tr>
 <tr><td>Gambia</td><td>15. Februar</td><td>2021</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>4. Juni</td><td>2018</td><td>1. August</td><td>2018</td></tr>
+<tr><td>Grenada\*</td><td>8. Juni</td><td>2026 B</td><td>1. August</td><td>2026</td></tr>
 <tr><td>Guyana</td><td>26. Februar</td><td>2013 B</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Honduras\*</td><td>23. August</td><td>2021 B</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Kap Verde</td><td>17. Januar</td><td>2022 B</td><td>1. März</td><td>2022</td></tr>
@@ -369,6 +370,7 @@ Geltungsbereich am 23. Juni 2025[^t-2]
 <tr><td>Namibia\*</td><td>17. Juli</td><td>2024 B</td><td>1. September</td><td>2024</td></tr>
 <tr><td>Niederlande\*</td><td>17. März</td><td>2016</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>17. März</td><td>2016</td><td>1. Juli</td><td>2018</td></tr>
+<tr><td>Nordmazedonien\*</td><td>15. Mai</td><td>2026 B</td><td>1. Juli</td><td>2026</td></tr>
 <tr><td>Oman</td><td>27. Januar</td><td>2023 B</td><td>1. März</td><td>2023</td></tr>
 <tr><td>Panama</td><td>9. Oktober</td><td>2015</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>3. August</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
@@ -376,6 +378,8 @@ Geltungsbereich am 23. Juni 2025[^t-2]
 <tr><td>Ruanda</td><td>9. Dezember</td><td>2021 B</td><td>1. Februar</td><td>2022</td></tr>
 <tr><td>Rumänien</td><td>22. Juni</td><td>2018</td><td>1. August</td><td>2018</td></tr>
 <tr><td>Russland\*</td><td>6. Oktober</td><td>2022 B</td><td>1. Dezember</td><td>2022</td></tr>
+<tr><td>Sambia</td><td>28. Mai</td><td>2026 B</td><td>1. Juli</td><td>2026</td></tr>
+<tr><td>Saudi-Arabien\*</td><td>24. April</td><td>2026 B</td><td>1. Juni</td><td>2026</td></tr>
 <tr><td>Schweden\*</td><td>12. Juli</td><td>2018 B</td><td>1. September</td><td>2018</td></tr>
 <tr><td>Schweiz</td><td>11. Dezember</td><td>2014 B</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>25. November</td><td>2015</td><td>1. Juli</td><td>2018</td></tr>
@@ -391,9 +395,9 @@ Geltungsbereich am 23. Juni 2025[^t-2]
 <tr><td>Turkmenistan</td><td>17. Juni</td><td>2019 B</td><td>1. August</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>28. November</td><td>2017</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Uruguay</td><td>5. Dezember</td><td>2019 B</td><td>1. Februar</td><td>2020</td></tr>
-<tr><td>Vereinigte Arabische Emirate</td><td>22. Mai</td><td>2025 B</td><td>1. Juli</td><td>2025</td></tr>
+<tr><td>Vereinigte Arabische Emirate\*</td><td>22. Mai</td><td>2025 B</td><td>1. Juli</td><td>2025</td></tr>
 <tr><td>Zypern</td><td>28. März</td><td>2019</td><td>1. Mai</td><td>2019</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int/) &gt; Français &gt; À propos de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao.</td></tr>
 </table>
 
-[^t-2]: [AS 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64); [2024 410](https://fedlex.data.admin.ch/eli/oc/2024/410); [2025 441](https://fedlex.data.admin.ch/eli/oc/2025/441). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64); [2024 410](https://fedlex.data.admin.ch/eli/oc/2024/410); [2025 441](https://fedlex.data.admin.ch/eli/oc/2025/441); [2026 520](https://fedlex.data.admin.ch/eli/oc/2026/520). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
