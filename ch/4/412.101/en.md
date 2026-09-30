@@ -4,11 +4,11 @@ title: "Ordinance of 19 November 2003 on Vocational and Professional Education a
 short: VPETO
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: en
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261001/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261001-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Ordinance, VPETO)
 
-of 19 November 2003 (Status as of 1 March 2025)
+of 19 November 2003 (Last amended on 1 October 2026)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ on the basis of Article 65 paragraph 1 of the Vocational and Professional Educat
 
 ordains:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 ## Chapter 1 General Provisions
 
@@ -227,11 +227,11 @@ VET ordinances also regulate the composition and tasks of Swiss committees for o
 <sup>6</sup> Education regulations on recognised radiation protection training in accordance with the Radiological Protection Ordinance of 26 April 2017[^12-6] require approval from the Federal Office of Public Health (FOPH).[^12-7]
 
 [^12-1]: Inserted by No I 6.3 of the O of 9 Nov. 2011 (Review of Extra-Parliamentary Committees), in force since 1 Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^12-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^12-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^12-3]: Inserted by No I 6.3 of the O of 9 Nov. 2011 (Review of Extra-Parliamentary Committees), in force since 1 Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^12-4]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^12-4]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 [^12-5]: Repealed by Art. 82 No 3 of the Sport Promotion Ordinance of 23 May 2012, with effect from 1 Oct. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
-[^12-6]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^12-6]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^12-7]: Inserted by No II 1 of the O of 24 Oct. 2007 ([AS 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Amended by Annex 11 No 1 of the Radiological Protection Ordinance of 26 April 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
@@ -357,7 +357,7 @@ Before a school may obtain VET accreditation to provide practical training withi
 The Federal Vocational Baccalaureate (FVB) is governed by the Vocational Baccalaureate Ordinance of 24 June 2009[^22-2].
 
 [^22-1]: Amended by Art. 35 para. 2 of the Vocational Baccalaureate Ordinance of 24 June 2009, in force since 1 Aug. 2009 ([AS 2009 3447](https://fedlex.data.admin.ch/eli/oc/2009/423)).
-[^22-2]: [SR 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
+[^22-2]: [SR 412.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6599)
 
 ## Chapter 3 Professional Education
 
@@ -453,7 +453,7 @@ Professional education institutions shall be regulated by an ordinance of the Fe
 
 <sup>2</sup> Public-run structures and training courses shall, wherever possible, be made available as labour market measures under the Unemployment Insurance Act of 25 June 1982[^29-1].
 
-[^29-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^29-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Chapter 5 Qualification Procedures, Qualifications and Titles
 
@@ -529,17 +529,26 @@ If competences were obtained outside an established course of study, only candid
 
 #### Art. 36
 
-**Federal professional examinations for tertiary-level professional qualifications**
+**Federal examinations for tertiary-level professional qualifications**
 
-### (Art. 43 para. 1 and 2 VPETA)
+### (Art. 28 para. 1<sup>bis</sup>, 43 para. 1 and 2, and 44*a* VPETA)
+
+[^36-1]
 
 <sup>1</sup> The body responsible for the federal professional examination shall decide which candidates may be admitted to the qualification procedure and whether they may obtain the corresponding tertiary-level professional qualification.
 
 <sup>2</sup> Tertiary-level professional qualifications shall be issued by SERI. Qualification holders shall be free to decide which official language they would like their qualification to be issued in.
 
-<sup>3</sup> Tertiary-level professional qualifications shall be signed by the chairperson of the body responsible for organising the corresponding federal professional examination as well as by a member of SERI executive management.[^36-1]
+<sup>2bis</sup> If the examination is conducted in English, this shall be indicated on the corresponding professional qualification.[^36-2]
 
-[^36-1]: Amended by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+<sup>2ter</sup> Professional qualifications indicate the legally protected qualification title as well as the simplified English add-on.[^36-3]
+
+<sup>3</sup> Tertiary-level professional qualifications shall be signed by the chairperson of the body responsible for organising the corresponding federal professional examination as well as by a member of SERI executive management.[^36-4]
+
+[^36-1]: Amended by No I of the O of 24 June 2026, in force since 1 Oct. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-2]: Inserted by No I of the O of 24 June 2026, in force since 1 Oct. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-3]: Inserted by No I of the O of 24 June 2026, in force since 1 Oct. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-4]: Amended by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 37
 
@@ -1161,7 +1170,7 @@ SERI shall make partial payment of the subsidy if:
 
 <sup>4</sup> If SERI does not receive the examination report attesting to the pass/fail score obtained on the federal professional examination within the timeframe mentioned in Article 66*d* paragraph 1 letter b number 2, then any subsidy amounts paid in advance must be paid back. The provisions of the Federal Act of 5 October 1990[^66e-1] on Financial Assistance and Subsidies shall apply.
 
-[^66e-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^66e-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66f
 
@@ -1208,7 +1217,7 @@ SERI shall include a preparatory course in the list if the following prerequisit
 
 <sup>6</sup> A preparatory course appearing in the list must be confirmed annually by the course provider in order to appear on the list in the following year.
 
-[^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^66g-2]: This list may be found at: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt;Bildung &gt; Höhere Berufsbildung &gt; Bundesbeiträge vorbereitende Kurse BP und HFP &gt; Liste der vorbereitenden Kurse
 
 #### Art. 66h
@@ -1310,7 +1319,7 @@ The request shall be sent to SERI in writing and shall include the following inf
 <sup>4</sup> A legally valid demand for a contribution is equivalent to an enforceable court order in terms of Article 80 of the Federal Act of 11 April 1889[^68a-2] on Debt Enforcement and Bankruptcy.
 
 [^68a-1]: Inserted by No I of the O of 3 Dec. 2010, in force since 1 Jan. 2011 ([AS 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
-[^68a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^68a-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 68b
 
@@ -1325,7 +1334,7 @@ The request shall be sent to SERI in writing and shall include the following inf
 <sup>3</sup> The accounts of VPET funds declared mandatory by the Federal Council shall be audited by an independent auditing firm on a yearly basis. Auditor’s Reports shall be sent to SERI for information.
 
 [^68b-1]: Inserted by No I of the O of 3 Dec. 2010, in force since 1 Jan. 2011 ([AS 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). The previous Art. 68 Abs. 5–7 have become paras. 1–3 of this Article.
-[^68b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapter 9 Recognition of Foreign Qualifications
 
@@ -1410,8 +1419,8 @@ SERI shall act as the point of contact for the mutual recognition of qualificati
 - a. Bilateral Agreement of 21 June 1999[^71-1] between the Swiss Confederation and the European Union and its Member States on the Free Movement of Persons;
 - b. Convention of 4 January 1960[^71-2] Establishing the European Free Trade Association.
 
-[^71-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^71-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^71-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^71-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 71a
 
@@ -1420,7 +1429,7 @@ SERI shall act as the point of contact for the mutual recognition of qualificati
 SERI fees charged for rendering first instance decisions and services shall be governed by the SERI Ordinance of 16 June 2006[^71a-2] on Fees.
 
 [^71a-1]: Inserted by Annex No 2 of the SERI Ordinance of 16 June 2006, in force since 1 Aug. 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
-[^71a-2]: [SR 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^71a-2]: [SR 412.109.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6626)
 
 #### Art. 72
 
@@ -1455,7 +1464,7 @@ SERI fees charged for rendering first instance decisions and services shall be g
 <sup>2</sup> The fees in accordance with the SERI Fees Ordinance of 16 June 2006[^73a-2] apply to the procedures for the recognition of qualifications.
 
 [^73a-1]: Inserted by No I of the O of 8 May 2024, in force since 1 July 2024 ([AS 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
-[^73a-2]: [[SR 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^73a-2]: [SR 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)
 
 ### Section 2 Repeal and Amendment of Current Legislation
 
@@ -1491,7 +1500,7 @@ SERI fees charged for rendering first instance decisions and services shall be g
 
 <sup>1</sup> Workplace trainers who do not fall within the scope of the Federal Act of 19 April 1978[^76-1] on Vocational Education and Training but who have trained learners for at least five years shall be considered as qualified for the purposes of Articles 44 and 45.
 
-<sup>2</sup> and <sup>3</sup> …[^76-2]
+<sup>2 and <sup>3</sup></sup> …[^76-2]
 
 <sup>4</sup> Any further qualifications must be obtained within five years of SERI’s decision.
 
@@ -1506,49 +1515,11 @@ Holders of the following qualifications meet the requirement established in Arti
 
 [^76a-1]: Inserted by Art. 82 No 3 of the Sport Promotion Ordinance of 23 May 2012, in force since 1 Oct. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 
-#### Art. 77
+#### Art. 77 and 78
 
-**Lump-sum subsidies**
+[^7778-1]
 
-### (Art. 73 para. 3 and 4 VPETA)
-
-<sup>1</sup> Starting from the fifth year following commencement of VPETA, the Confederation’s share of funding of the cantonal tasks mentioned in Article 53 paragraph 2 VPETA shall be provided in the form of a lump-sum payment.
-
-<sup>2</sup>
-
-For the first four years following commencement of VPETA, the following rule shall apply:
-
-- a.
-
-  the cantonal tasks mentioned in Article 53 paragraph 2 VPETA, for which the Confederation has thus far provided subsidies by virtue of the following federal acts, shall continue to be funded by virtue of these acts:
-
-  - 1\. Federal Act of 19 April 1978[^77-1] on Vocational Education and Training,
-  - 2\. Federal Act of 29 April 1998[^77-2] on Agriculture,
-  - 3\. Federal Act of 4 October 1991[^77-3] on Forests,
-  - 4\. Federal Act of 19 June 1992[^77-4] on Financial Aid to Professional Education Institutions Specialised in Social Care;
-
-- b. the remaining cantonal tasks mentioned in Article 53 paragraph 2 VPETA shall receive Confederation funding to the extent of available resources mentioned in Article 53 paragraph 1 VPETA.
-
-[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1; **1998** 1822 Art. 2; **1999** 2374 No I 2; **2003** 187 Annex No II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No I 1]
-[^77-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^77-3]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^77-4]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973). AS **2****0****03** 4557 Annex I 2]
-
-#### Art. 78
-
-**Buildings and leases**
-
-### (Art. 73 para. 3 VPETA)
-
-<sup>1</sup> Building subsidy requests for which a space allocation plan including layout, preliminary design study or building project was submitted to SERI prior to commencement of VPETA shall be assessed on the basis of previous legislation.
-
-<sup>2</sup> If a space allocation plan including layout or preliminary design study is submitted, then the corresponding subsidies shall only be granted subject to the legislation in force at the time the said space allocation plan was submitted if a building project is submitted no later than four years after commencement of VPETA.
-
-<sup>3</sup> If a building subsidy was granted, then the final account for the procedure completed thus far must be submitted no later than ten years after commencement of VPETA. If the final account is submitted beyond this deadline, no further subsidies shall be given.
-
-<sup>4</sup> Lease-related subsidy requests for which a leased objects table, a lease contract or a preliminary lease contract and layout were submitted prior to commencement of VPETA, then the said request shall be assessed on the basis of previous legislation. The corresponding subsidy shall be maintained for no later than four years after commencement of VPETA.
-
-<sup>5</sup> The funds used for building projects and leases shall be drawn from the budget mentioned in Article 59 paragraph 1 letter a VPETA.
+[^7778-1]: Repealed by No I of the O of 24 June 2026, with effect from 1 Oct. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
 
 #### Art. 78a
 

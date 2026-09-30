@@ -4,11 +4,11 @@ title: "Verordnung vom 19. November 2003 über die Berufsbildung (Berufsbildungs
 short: BBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: de
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/de"
 
 (Berufsbildungsverordnung, BBV)
 
-vom 19. November 2003 (Stand am 1. März 2025)
+vom 19. November 2003 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 65 Absatz 1 des Berufsbildungsgesetzes vom 13. Dezember 20
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -225,11 +225,11 @@ Sie regeln überdies Zusammensetzung und Aufgaben der schweizerischen Kommission
 <sup>6</sup> Bildungsvorschriften über anerkannte Strahlenschutzausbildungen nach der Strahlenschutzverordnung vom 26. April 2017[^12-6] bedürfen der Zustimmung des Bundesamtes für Gesundheit.[^12-7]
 
 [^12-1]: Eingefügt durch Ziff. I 6.3 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^12-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^12-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^12-3]: Eingefügt durch Ziff. I 6.3 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^12-4]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^12-4]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 [^12-5]: Aufgehoben durch Art. 82 Ziff. 3 der Sportförderungsverordnung vom 23. Mai 2012, mit Wirkung seit 1. Okt. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
-[^12-6]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^12-6]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^12-7]: Eingefügt durch Ziff. II 1 der V vom 24. Okt. 2007 ([AS 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Fassung gemäss Anhang 11 Ziff. 1 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
@@ -355,7 +355,7 @@ Vor der Erteilung einer Bildungsbewilligung an eine andere zum Zweck der Vermitt
 Die eidgenössische Berufsmaturität richtet sich nach der Berufsmaturitätsverordnung vom 24. Juni 2009[^22-2].
 
 [^22-1]: Fassung gemäss Art. 35 Abs. 2 der Berufsmaturitätsverordnung vom 24. Juni 2009, in Kraft seit 1. Aug. 2009 ([AS 2009 3447](https://fedlex.data.admin.ch/eli/oc/2009/423)).
-[^22-2]: [SR 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
+[^22-2]: [SR 412.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6599)
 
 ## 3. Kapitel: Höhere Berufsbildung
 
@@ -451,7 +451,7 @@ Die höheren Fachschulen werden in einer Verordnung des Departements für Wirtsc
 
 <sup>2</sup> Die von der öffentlichen Hand getragenen Strukturen und Angebote der beruflichen Bildung stehen soweit möglich für arbeitsmarktliche Massnahmen nach dem Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^29-1] zur Verfügung.
 
-[^29-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^29-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## 5. Kapitel: Qualifikationsverfahren, Ausweise und Titel
 
@@ -529,15 +529,24 @@ Wurden Qualifikationen ausserhalb eines geregelten Bildungsganges erworben, so s
 
 **Eidgenössische Berufsprüfungen und eidgenössische höhere Fachprüfungen**
 
-### (Art. 43 Abs. 1 und 2 BBG)
+### (Art. 28 Abs. 1<sup>bis</sup>, 43 Abs. 1 und 2 sowie 44*a* BBG)
+
+[^36-1]
 
 <sup>1</sup> Das für die eidgenössische Berufsprüfung oder die eidgenössische höhere Fachprüfung zuständige Organ entscheidet durch Verfügung über die Zulassung zum Qualifikationsverfahren und über die Erteilung des Fachausweises oder des Diploms.
 
 <sup>2</sup> Die Fachausweise und die Diplome werden vom SBFI ausgestellt. Die Absolventinnen und Absolventen können wählen, in welcher Amtssprache ihr Ausweis ausgestellt wird.
 
-<sup>3</sup> Die Fachausweise und die Diplome werden von der oder dem Vorsitzenden des für das Qualifikationsverfahren zuständigen Organs und von einem Direktionsmitglied des SBFI unterzeichnet.[^36-1]
+<sup>2<sup>bis</sup></sup> Wurde die Prüfung auf Englisch absolviert, so wird dies auf dem Fachausweis oder dem Diplom vermerkt.[^36-2]
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+<sup>2<sup>ter</sup></sup> Die Fachausweise und Diplome nennen den geschützten Titel sowie den entsprechenden Titelzusatz.[^36-3]
+
+<sup>3</sup> Die Fachausweise und die Diplome werden von der oder dem Vorsitzenden des für das Qualifikationsverfahren zuständigen Organs und von einem Direktionsmitglied des SBFI unterzeichnet.[^36-4]
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-2]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-3]: Eingefügt durch Ziff. I der V vom 24. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-4]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 37
 
@@ -1160,7 +1169,7 @@ Das SBFI richtet Teilbeiträge aus, wenn:
 
 <sup>4</sup> Trifft innerhalb der Frist gemäss Artikel 66*d* Absatz 1 Buchstabe b Ziffer 2 keine Verfügung über Bestehen oder Nichtbestehen der absolvierten eidgenössischen Berufsprüfung oder eidgenössischen höheren Fachprüfung ein, so wird der ausbezahlte Betrag zur Rückzahlung fällig. Es gelten die Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^66e-1].
 
-[^66e-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^66e-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66f
 
@@ -1207,7 +1216,7 @@ Das SBFI nimmt einen Kurs in die Liste auf, wenn der Kurs die folgenden Vorausse
 
 <sup>6</sup> Ein auf der Liste verzeichneter Kurs muss jährlich vom Kursanbieter bestätigt werden, um im Folgejahr auf der Liste zu erscheinen.
 
-[^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^66g-2]: Die Liste ist abrufbar unter: [www.sbfi.admin.ch](https://www.sbfi.admin.ch) &gt; Bildung &gt; Höhere Berufsbildung &gt; Bundesbeiträge vorbereitende Kurse BP und HFP &gt; Liste der vorbereitenden Kurse
 
 #### Art. 66h
@@ -1309,7 +1318,7 @@ Der Antrag wird schriftlich beim SBFI eingereicht und enthält namentlich folgen
 <sup>4</sup> Eine rechtskräftige Beitragsverfügung ist im Sinne von Artikel 80 des Bundesgesetzes vom 11. April 1889[^68a-2] über Schuldbetreibung und Konkurs einem vollstreckbaren gerichtlichen Entscheid gleichgestellt.
 
 [^68a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
-[^68a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^68a-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 68b
 
@@ -1324,7 +1333,7 @@ Der Antrag wird schriftlich beim SBFI eingereicht und enthält namentlich folgen
 <sup>3</sup> Die Rechnungen der vom Bundesrat für verbindlich erklärten Fonds werden jährlich durch unabhängige Stellen revidiert. Die Revisionsberichte werden dem SBFI zur Kenntnisnahme eingereicht.
 
 [^68b-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). Die bisherigen Abs. 5–7 von Art. 68 wurden zu Abs. 1–3 dieses Artikels.
-[^68b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 9. Kapitel: Anerkennung ausländischer Abschlüsse
 
@@ -1409,8 +1418,8 @@ Es ist Kontaktstelle für die gegenseitige Diplomanerkennung im Rahmen des Vollz
 - a. Abkommen vom 21. Juni 1999[^71-1] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit;
 - b. Übereinkommen vom 4. Januar 1960[^71-2] zur Errichtung einer Europäischen Freihandelsassoziation.
 
-[^71-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^71-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^71-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^71-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 71a
 
@@ -1419,7 +1428,7 @@ Es ist Kontaktstelle für die gegenseitige Diplomanerkennung im Rahmen des Vollz
 Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Aufgabenbereich des SBFI richten sich nach der Gebührenverordnung SBFI vom 16. Juni 2006[^71a-2].
 
 [^71a-1]: Eingefügt durch Anhang Ziff. 2 der Gebührenverordnung SBFI vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
-[^71a-2]: [SR 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^71a-2]: [SR 412.109.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6626)
 
 #### Art. 72
 
@@ -1454,7 +1463,7 @@ Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Au
 <sup>2</sup> Die Gebühren nach der Gebührenverordnung SBFI vom 16. Juni 2006[^73a-2] sind für die Verfahren zur Anerkennung der Abschlüsse anwendbar.
 
 [^73a-1]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
-[^73a-2]: [[SR 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^73a-2]: [SR 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)
 
 ### 2. Abschnitt: Aufhebung und Änderung bisherigen Rechts
 
@@ -1505,49 +1514,11 @@ Das nach bisherigem Recht erworbene eidgenössische Turn- und Sportlehrerdiplom 
 
 [^76a-1]: Eingefügt durch Art. 82 Ziff. 3 der Sportförderungsverordnung vom 23. Mai 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 
-#### Art. 77
+#### Art. 77 und 78
 
-**Pauschalbeiträge**
+[^7778-1]
 
-### (Art. 73 Abs. 3 und 4 BBG)
-
-<sup>1</sup> Die Aufgaben der Kantone nach Artikel 53 Absatz 2 BBG werden vom Bund ab dem fünften Jahr nach Inkrafttreten des BBG vollumfänglich über Pauschalbeiträge gemäss dem BBG und dieser Verordnung mitfinanziert.
-
-<sup>2</sup>
-
-Die ersten vier Jahre nach Inkrafttreten des BBG gilt folgende Regelung:
-
-- a.
-
-  Aufgaben nach Artikel 53 Absatz 2 BBG, für die der Bund bisher gestützt auf eines der folgenden Gesetze Beiträge gewährt hat, unterstützt er weiterhin nach diesen Gesetzen:
-
-  - 1\. Bundesgesetz vom 19. April 1978[^77-1] über die Berufsbildung,
-  - 2\. Landwirtschaftsgesetz vom 29. April 1998[^77-2],
-  - 3\. Waldgesetz vom 4. Oktober 1991[^77-3],
-  - 4\. Bundesgesetz vom 19. Juni 1992[^77-4] über Finanzhilfen an die Höheren Fachschulen im Sozialbereich.
-
-- b. Die übrigen Aufgaben nach Artikel 53 Absatz 2 BBG unterstützt der Bund im Rahmen der verfügbaren Mittel nach Artikel 53 Absatz 1 BBG.
-
-[^77-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]
-[^77-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^77-3]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^77-4]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973). AS **2****0****03** 4557 Anhang I 2]
-
-#### Art. 78
-
-**Bauvorhaben und Mieten**
-
-### (Art. 73 Abs. 3 BBG)
-
-<sup>1</sup> Subventionsgesuche für Bauvorhaben, für die bis zum Inkrafttreten des BBG beim SBFI ein Raumprogramm mit Belegungsplan, ein Vorprojekt oder ein Bauprojekt eingereicht wurden, werden nach bisherigem Recht beurteilt.
-
-<sup>2</sup> Wird ein Raumprogramm mit Belegungsplan oder ein Vorprojekt eingereicht, so werden Subventionen nach bisherigem Recht nur gewährt, wenn bis spätestens vier Jahre nach Inkrafttreten des BBG ein Bauprojekt vorgelegt wird.
-
-<sup>3</sup> Wurde für ein Bauvorhaben eine Subvention zugesichert, so ist die Schlussabrechnung für das realisierte Vorhaben bis spätestens zehn Jahre nach dem Inkrafttreten des BBG einzureichen. Wird die Schlussabrechnung nach diesem Zeitpunkt eingereicht, so sind keine Subventionen mehr geschuldet.
-
-<sup>4</sup> Subventionsgesuche für die Miete von Räumlichkeiten, die bis zum Inkrafttreten des BBG mit einer Raumtabelle, einem Mietvertrag oder einem Mietvorvertrag und einem Belegungsplan eingereicht wurden, werden nach bisherigem Recht beurteilt. Die Subventionen werden höchstens bis vier Jahre nach Inkrafttreten des BBG gewährt.
-
-<sup>5</sup> Der Zahlungskredit für Bauten und Mieten geht zu Lasten des Zahlungsrahmens nach Artikel 59 Absatz 1 Buchstabe a BBG.
+[^7778-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2026, mit Wirkung seit 1. Okt. 2026 ([AS 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
 
 #### Art. 78a
 

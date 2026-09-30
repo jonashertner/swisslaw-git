@@ -4,11 +4,11 @@ title: Ordinanza del 19 novembre 2003 sulla formazione professionale (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: it
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/it"
 
 (OFPr)
 
-del 19 novembre 2003 (Stato 1° marzo 2025)
+del 19 novembre 2003 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 65 capoverso 1 della legge del 13 dicembre 2002[^ingress-1] s
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -225,12 +225,12 @@ Esse disciplinano inoltre la composizione e i compiti delle commissioni svizzere
 <sup>6</sup> Le prescrizioni concernenti le formazioni in radioprotezione riconosciute ai sensi dell’ordinanza del 26 aprile 2017[^12-7] sulla radioprotezione necessitano del consenso dell’Ufficio federale della sanità pubblica.[^12-8]
 
 [^12-1]: Introdotto dalla cifra I n. 6.3 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^12-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^12-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^12-3]: Introdotto dalla cifra I n. 6.3 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^12-4]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^12-4]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 [^12-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^12-6]: Abrogato dall’art. 82 n. 3 dell’O del 23 mag. 2012 sulla promozione dello sport, con effetto dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
-[^12-7]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^12-7]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^12-8]: Introdotto dalla cifra II n. 1 dell’O del 24 ott. 2007 ([RU 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
@@ -354,7 +354,7 @@ Prima di rilasciare un’autorizzazione per la formazione professionale pratica 
 La maturità professionale federale è disciplinata dall’ordinanza del 24 giugno 2009[^22-2] sulla maturità professionale.
 
 [^22-1]: Nuovo testo giusta l’art. 35 cpv. 2 dell’O del 24 giu. 2009 sulla maturità professionale, in vigore dal 1° ago. 2009 ([RU 2009 3447](https://fedlex.data.admin.ch/eli/oc/2009/423)).
-[^22-2]: [RS 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
+[^22-2]: [RS 412.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6599)
 
 ## Capitolo 3: Formazione professionale superiore
 
@@ -450,7 +450,7 @@ Le scuole specializzate superiori sono disciplinate da un’ordinanza del Dipart
 
 <sup>2</sup> Le strutture e le offerte di formazione professionale finanziate dall’ente pubblico sono disponibili, per quanto possibile, per provvedimenti inerenti al mercato del lavoro conformemente alla legge federale del 25 giugno 1982[^29-1] sull’assicurazione obbligatoria contro la disoccupazione e l’indennità per insolvenza.
 
-[^29-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^29-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Capitolo 5: Procedure di qualificazione, certificati e titoli
 
@@ -528,15 +528,24 @@ Se le qualifiche sono state ottenute al di fuori dei cicli di formazione discipl
 
 **Esami federali di professione ed esami professionali federali superiori**
 
-### (art. 43 cpv. 1 e 2 LFPr)
+### (art. 28 cpv. 1<sup>bis</sup>, 43 cpv. 1 e 2 nonché 44*a* LFPr)
+
+[^36-1]
 
 <sup>1</sup> L’organo competente per l’esame federale di professione o l’esame professionale federale superiore adotta una decisione formale sull’ammissione alla procedura di qualificazione e sul conferimento dell’attestato professionale o del diploma.
 
 <sup>2</sup> Gli attestati professionali e i diplomi sono rilasciati dalla SEFRI. I candidati possono scegliere la lingua ufficiale nella quale farsi rilasciare il proprio attestato.
 
-<sup>3</sup> Gli attestati professionali e i diplomi sono firmati dal presidente dell’organo responsabile della procedura di qualificazione e da un membro della Direzione della SEFRI.[^36-1]
+<sup>2<sup>bis</sup></sup> Se l’esame è stato sostenuto in inglese, ciò è riportato sull’attestato professionale o sul diploma.[^36-2]
 
-[^36-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+<sup>2ter</sup> Gli attestati professionali e i diplomi menzionano il titolo protetto affiancato dal rispettivo titolo complementare.[^36-3]
+
+<sup>3</sup> Gli attestati professionali e i diplomi sono firmati dal presidente dell’organo responsabile della procedura di qualificazione e da un membro della Direzione della SEFRI.[^36-4]
+
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-2]: Introdotto dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-3]: Introdotto dalla cifra I dell’O del 24 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-4]: Nuovo testo giusta la cifra I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 37
 
@@ -1159,7 +1168,7 @@ La SEFRI versa contributi parziali se:
 
 <sup>4</sup> Se entro il termine stabilito nell’articolo 66*d* capoverso 1 lettera b numero 2 non perviene alcuna decisione concernente il superamento o il mancato superamento dell’esame federale di professione o dell’esame professionale federale superiore, il contributo versato diventa esigibile. Si applicano le disposizioni della legge del 5 ottobre 1990[^66e-1] sui sussidi.
 
-[^66e-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^66e-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66f
 
@@ -1206,7 +1215,7 @@ La SEFRI inserisce un corso nella lista se sono soddisfatte le seguenti condizio
 
 <sup>6</sup> L’operatore deve confermare il corso inserito nella lista ogni anno affinché compaia nella lista l’anno seguente.
 
-[^66g-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^66g-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^66g-2]: [www.sbfi.admin.ch](https://www.sbfi.admin.ch/sbfi/de/home.html) /fps-finanziamento
 
 #### Art. 66h
@@ -1306,7 +1315,7 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 <sup>4</sup> Le decisioni sui contributi passate in giudicato sono parificate alle decisioni giudiziarie ai sensi dell’articolo 80 della legge federale dell’11 aprile 1889[^68a-2] sulla esecuzione e sul fallimento.
 
 [^68a-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
-[^68a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^68a-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 68b
 
@@ -1321,7 +1330,7 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 <sup>3</sup> I conti dei fondi dichiarati obbligatori dal Consiglio federale sono sottoposti annualmente a revisione da parte di servizi indipendenti. I rapporti di revisione sono trasmessi per conoscenza alla SEFRI.
 
 [^68b-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)). I cpv. 5–7 dell’art. 68 diventano cpv. 1–3 dell’art. 68*b.*
-[^68b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capitolo 9: Riconoscimento di titoli esteri
 
@@ -1406,8 +1415,8 @@ La SEFRI è l’organo di contatto per il mutuo riconoscimento dei diplomi nell�
 - a. Accordo del 21 giugno 1999[^71-1] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone**;**
 - b. Convenzione del 4 gennaio 1960[^71-2] istitutiva dell’Associazione europea di libero scambio.
 
-[^71-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^71-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^71-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^71-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 71a
 
@@ -1416,7 +1425,7 @@ La SEFRI è l’organo di contatto per il mutuo riconoscimento dei diplomi nell�
 Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il campo d’attività della SEFRI sono disciplinati nell’ordinanza sugli emolumenti SEFRI del 16 giugno 2006[^71a-2].
 
 [^71a-1]: Introdotto dall’all. n. 2 dell’O dal 16 giu. 2006 sugli emolumenti del SEFRI, in vigore dal 1° ago. 2006 ([RU 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
-[^71a-2]: [RS 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^71a-2]: [RS 412.109.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6626)
 
 #### Art. 72
 
@@ -1451,7 +1460,7 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 <sup>2</sup> Per le procedure di riconoscimento dei diplomi si applicano gli emolumenti disciplinati dall’ordinanza del 16 giugno 2006[^73a-2] sugli emolumenti SEFRI.
 
 [^73a-1]: Introdotto dalla cifra I dell’O dall’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
-[^73a-2]: [[RS 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^73a-2]: [RS 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)
 
 ### Sezione 2: Abrogazione e modifica del diritto vigente
 
@@ -1461,7 +1470,7 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 
 <sup>2</sup> La SEFRI è competente dell’abrogazione dei regolamenti di tirocinio emanati dal DEFR in base all’articolo 12 della legge federale del 19 aprile 1978[^74-1] sulla formazione professionale.
 
-[^74-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 n. 2 e all. n. 1, **1998** 1822 art. 2, **1999** 2374 cifra I n. 2, **2003** 187 all. cifra II n. 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. ch. I 1]
+[^74-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 n. 2 e all. n. 1; **1998** 1822 art. 2; **1999** 2374 cifra I n. 2; **2003** 187 all. cifra II n. 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra I n. 1]
 
 ### Sezione 3: Disposizioni transitorie
 
@@ -1502,49 +1511,11 @@ Il diploma di maestro di ginnastica e sport I o II ottenuto secondo il diritto a
 
 [^76a-1]: Introdotto dall’art. 82 n. 3 dell’O del 23 mag. 2012 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 
-#### Art. 77
+#### Art. 77 e 78
 
-**Contributi forfettari**
+[^7778-1]
 
-### (art. 73 cpv. 3 e 4 LFPr)
-
-<sup>1</sup> A partire dal quinto anno dall’entrata in vigore della LFPr, i compiti dei Cantoni di cui all’articolo 53 capoverso 2 LFPr sono interamente cofinanziati dalla Confederazione mediante contributi forfettari conformemente alla LFPr e alla presente ordinanza.
-
-<sup>2</sup>
-
-Durante i primi quattro anni dall’entrata in vigore della LFPr si applica il seguente disciplinamento:
-
-- a.
-
-  i compiti di cui all’articolo 53 capoverso 2 LFPr per i quali finora la Confederazione ha versato contributi in base a una delle seguenti leggi sono sostenuti anche in seguito in base a tali leggi:
-
-  - 1\. legge federale del 19 aprile 1978[^77-1] sulla formazione professionale,
-  - 2\. legge del 29 aprile 1998[^77-2] sull’agricoltura,
-  - 3\. legge forestale del 4 ottobre 1991[^77-3],
-  - 4\. legge federale del 19 giugno 1992[^77-4] sugli aiuti finanziari alle scuole superiori di lavoro sociale;
-
-- b. gli altri compiti di cui all’articolo 53 capoverso 2 LFPr sono sostenuti dalla Confederazione nei limiti dei mezzi a disposizione secondo l’articolo 53 capoverso 1.
-
-[^77-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)]
-[^77-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^77-3]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^77-4]: [[RU 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973). RU **2****0****03** 4557 all. I 2]
-
-#### Art. 78
-
-**Progetti di costruzione e locazioni**
-
-### (art. 73 cpv. 3 LFPr)
-
-<sup>1</sup> Sono giudicate in base al diritto anteriore le domande di sussidi per progetti di costruzione per i quali è stato presentato alla SEFRI, prima dell’entrata in vigore della LFPr, un programma dei locali con piano d’occupazione, un progetto preliminare o un progetto di costruzione.
-
-<sup>2</sup> Se è presentato un programma dei locali con piano d’occupazione o un progetto preliminare, i sussidi sono concessi conformemente al diritto anteriore soltanto se un progetto di costruzione è presentato entro quattro anni dall’entrata in vigore della LFPr.
-
-<sup>3</sup> Se è stato assegnato un sussidio per un progetto di costruzione, il conteggio finale per il progetto realizzato va presentato al più tardi entro dieci anni dall’entrata in vigore della LFPr. Se il conteggio finale è presentato dopo tale termine, i sussidi decadono.
-
-<sup>4</sup> Sono giudicate in base al diritto anteriore le domande di sussidi per la locazione di locali che, prima dell’entrata in vigore della LFPr, sono presentate con una tabella dei locali, un contratto di locazione o un contratto preliminare di locazione e un piano d’occupazione. I sussidi sono concessi per al massimo quattro anni dall’entrata in vigore della LFPr.
-
-<sup>5</sup> Il credito di pagamento per costruzioni e locazioni è a carico del limite di spesa conformemente all’articolo 59 capoverso 1 lettera a LFPr.
+[^7778-1]: Abrogati dalla cifra I dell’O del 24 giu. 2026, con effetto dal 1° ott. 2026 ([RU 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
 
 #### Art. 78a
 

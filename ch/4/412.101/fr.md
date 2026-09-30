@@ -4,11 +4,11 @@ title: Ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: fr
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20250301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20261001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20250301/fr"
 
 (OFPr)
 
-du 19 novembre 2003 (État le 1<sup>er</sup> mars 2025)
+du 19 novembre 2003 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 65, al. 1, de la loi du 13 décembre 2002 sur la formation professio
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 ## Chapitre 1 Dispositions générales
 
@@ -226,9 +226,9 @@ Elles règlent au surplus la composition et les tâches des commissions suisses 
 
 [^12-1]: Introduit par le ch. I 6.3 de l’O du 9 nov. 2007 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 [^12-2]: Introduit par le ch. I 6.3 de l’O du 9 nov. 2007 (Réexamen des commissions extraparlementaires), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
-[^12-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^12-3]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 [^12-4]: Abrogé par l’art. 82 ch. 3 de l’O du 23 mai 2012 sur l’encouragement du sport, avec effet au 1<sup>er</sup> oct. 2012 ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
-[^12-5]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^12-5]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^12-6]: Introduit par le ch. II 1 de l’O du 24 oct. 2007 ([RO 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
@@ -354,7 +354,7 @@ Avant d’octroyer l’autorisation de dispenser une formation à la pratique pr
 La maturité professionnelle fédérale est régie par l’ordonnance du 24 juin 2009 sur la maturité professionnelle fédérale[^22-2].
 
 [^22-1]: Nouvelle teneur selon l’art. 35 al. 2 de l’O du 24 juin 2009 sur la maturité professionnelle fédérale, en vigueur depuis le 1<sup>er</sup> août 2009 ([RO 2009 3447](https://fedlex.data.admin.ch/eli/oc/2009/423)).
-[^22-2]: [RS 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
+[^22-2]: [RS 412.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6599)
 
 ## Chapitre 3 Formation professionnelle supérieure
 
@@ -450,7 +450,7 @@ Les écoles supérieures sont régies par une ordonnance du Département fédér
 
 <sup>2</sup> Les structures et les offres de la formation professionnelle financées par les pouvoirs publics sont, si possible, mises au service des mesures relatives au marché du travail instituées par la loi du 25 juin 1982 sur l’assurance-chômage[^29-1].
 
-[^29-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^29-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ## Chapitre 5 Procédures de qualification, certificats et titres
 
@@ -526,17 +526,26 @@ Si des qualifications ont été acquises par une personne dans un autre cadre qu
 
 #### Art. 36
 
-**Examens professionnels fédéraux et examens professionnels fédéraux supérieurs**
+**Examens professionnels fédéraux etexamens professionnels fédéraux supérieurs**
 
-### (art. 43, al. 1 et 2, LFPr)
+### (art. 28, al. 1<sup>bis</sup>, 43, al. 1 et 2, et 44*a* LFPr)
+
+[^36-1]
 
 <sup>1</sup> L’organe compétent pour l’examen professionnel fédéral ou pour l’examen professionnel fédéral supérieur se prononce par voie de décision sur l’admission aux procédures de qualification et sur l’attribution du brevet ou du diplôme.
 
 <sup>2</sup> Les brevets et les diplômes sont délivrés par le SEFRI. Les candidats peuvent choisir la langue officielle dans laquelle ils souhaitent que leur brevet ou leur diplôme soit établi.
 
-<sup>3</sup> Les brevets et les diplômes sont signés par le président de l’organe compétent pour la procédure de qualification et par un membre de la direction du SEFRI.[^36-1]
+2<sup>bis</sup> Si l’examen a été passé en anglais, le brevet ou le diplôme le précise.[^36-2]
 
-[^36-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
+2<sup>ter</sup> Les brevets et les diplômes mentionnent le titre protégé ainsi que le complément de titre correspondant.[^36-3]
+
+<sup>3</sup> Les brevets et les diplômes sont signés par le président de l’organe compétent pour la procédure de qualification et par un membre de la direction du SEFRI.[^36-4]
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-2]: Introduit par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-3]: Introduit par le ch. I de l’O du 24 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
+[^36-4]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
 #### Art. 37
 
@@ -1159,7 +1168,7 @@ Le SEFRI octroie des subventions partielles si:
 
 <sup>4</sup> Si aucune décision concernant la réussite ou l’échec à l’examen professionnel fédéral ou à l’examen professionnel fédéral supérieur n’est produite dans le délai défini à l’art. 66*d*, al. 1, let. b, ch. 2, le montant versé doit être remboursé. Les dispositions de la loi du 5 octobre 1990 sur les subventions[^66e-1] s’appliquent.
 
-[^66e-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^66e-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 66f
 
@@ -1206,7 +1215,7 @@ Le SEFRI intègre un cours dans la liste si ce dernier remplit les conditions su
 
 <sup>6</sup> Un cours inscrit dans la liste doit être confirmé tous les ans par le prestataire pour figurer dans la liste l’année suivante.
 
-[^66g-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^66g-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^66g-2]: [www.sbfi.admin.ch/fps-financement](http://www.sbfi.admin.ch/fps-financement)
 
 #### Art. 66h
@@ -1308,7 +1317,7 @@ La demande sera présentée par écrit au SEFRI et contiendra les données suiva
 <sup>4</sup> Une décision de cotisations exécutoires est assimilée à un jugement exécutoire au sens de l’art. 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^68a-2].
 
 [^68a-1]: Introduit par le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6005](https://fedlex.data.admin.ch/eli/oc/2010/864)).
-[^68a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^68a-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 68b
 
@@ -1323,7 +1332,7 @@ La demande sera présentée par écrit au SEFRI et contiendra les données suiva
 <sup>3</sup> Les comptes du fonds déclaré obligatoire par le Conseil fédéral font l’objet d’une révision annuelle par des organes neutres. Les rapports de révision doivent être remis au SEFRI pour information.
 
 [^68b-1]: Introduit par le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Les al. 5 à 7 de l’art. 68, avant révision, deviennent les al. 1 à 3 du présent art.
-[^68b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 9 Reconnaissance des diplômes étrangers
 
@@ -1408,8 +1417,8 @@ Il est l’autorité de contact pour la reconnaissance réciproque des diplômes
 - a. de l’Accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^71-1];
 - b. de la Convention du 4 janvier 1960 instituant l’Association européenne de Libre-Échange (AELE)[^71-2].
 
-[^71-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^71-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^71-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^71-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 71a
 
@@ -1418,7 +1427,7 @@ Il est l’autorité de contact pour la reconnaissance réciproque des diplômes
 Les émoluments perçus pour les décisions rendues en première instance et pour les prestations fournies dans le domaine du SEFRI sont régis par l’ordonnance du 16 juin 2006 sur les émoluments du SEFRI[^71a-2].
 
 [^71a-1]: Introduit par l’annexe ch. 2 de l’O du 16 juin 2006 sur les émoluments du SEFRI, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
-[^71a-2]: [RS 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^71a-2]: [RS 412.109.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6626)
 
 #### Art. 72
 
@@ -1453,7 +1462,7 @@ Les émoluments perçus pour les décisions rendues en première instance et pou
 <sup>2</sup> Les émoluments fixés dans l’ordonnance du 16 juin 2006 sur les émoluments du SEFRI[^73a-2] sont applicables à la procédure de reconnaissance des diplômes.
 
 [^73a-1]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
-[^73a-2]: [RS[412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
+[^73a-2]: RS[412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)
 
 ### Section 2 Abrogation et modification du droit en vigueur
 
@@ -1504,49 +1513,11 @@ Le diplôme fédéral de maître d’éducation physique I et II, le diplôme de
 
 [^76a-1]: Introduit par l’art. 82 ch. 3 de l’O du 23 mai 2012 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 
-#### Art. 77
+#### Art. 77 et 78
 
-**Forfaits**
+[^7778-1]
 
-### (art. 73, al. 3 et 4, LFPr)
-
-<sup>1</sup> Les tâches des cantons visées à l’art. 53, al. 2, LFPr sont cofinancées intégralement par la Confédération sur la base des forfaits conformément à la LFPr et à la présente ordonnance à partir de la cinquième année qui suit l’entrée en vigueur de la LFPr.
-
-<sup>2</sup>
-
-Pendant les quatre premières années qui suivent l’entrée en vigueur de la LFPr, les réglementations suivantes sont applicables:
-
-- a.
-
-  les tâches visées à l’art. 53, al. 2, LFPr pour lesquelles la Confédération a alloué des subventions en vertu d’une des bases légales citées ci-après continuent à être subventionnées selon ces bases légales:
-
-  - 1\. la loi fédérale du 19 avril 1978 sur la formation professionnelle[^77-1];
-  - 2\. la loi fédérale du 29 avril 1998 sur l’agriculture[^77-2];
-  - 3\. la loi fédérale du 4 octobre 1991 sur les forêts[^77-3];
-  - 4\. la loi fédérale du 19 juin 1992 sur les aides financières aux écoles supérieures de travail social[^77-4].
-
-- b. les autres tâches visées à l’art. 53, al. 2, LFPr sont encouragées par la Confédération dans la limite des moyens financiers disponibles, conformément à l’art. 53, al. 1, LFPr.
-
-[^77-1]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]
-[^77-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^77-3]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^77-4]: [[RO 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973). [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 2]
-
-#### Art. 78
-
-**Projets de construction et loyers**
-
-### (art. 73, al. 3, LFPr)
-
-<sup>1</sup> Les demandes de subvention concernant des projets de construction pour lesquels un programme des locaux accompagné d’un plan d’occupation, d’un avant-projet ou d’un projet de construction ont été présentés au SEFRI avant la date d’entrée en vigueur de la LFPr, seront évaluées selon l’ancien droit.
-
-<sup>2</sup> Si un programme des locaux, accompagné d’un plan d’occupation ou d’un avant- projet, est présenté, des subventions ne sont octroyées en vertu de l’ancien droit que si le projet de construction est présenté au plus tard dans un délai de quatre ans à compter de la date d’entrée en vigueur de la LFPr.
-
-<sup>3</sup> Si une subvention a été allouée pour un projet de construction, le décompte final pour le projet réalisé doit être présenté au plus tard dans un délai de dix ans à compter de la date d’entrée en vigueur de la LFPr. Si le décompte final est présenté après cette date, aucune subvention n’est due.
-
-<sup>4</sup> Les demandes de subvention concernant la location de locaux pour lesquelles un tableau des objets en location, un contrat de location ou un avant-contrat de location et un plan d’occupation des locaux ont été présentés avant la date d’entrée en vigueur de la LFPr, seront évaluées selon l’ancien droit. Les subventions sont allouées au maximum pendant quatre ans après l’entrée en vigueur de la LFPr.
-
-<sup>5</sup> Le crédit de paiement pour les constructions et les loyers est pris en compte dans le plafond des dépenses fixé à l’art. 59, al. 1, let. a, de la LFPr.
+[^7778-1]: Abrogés par le ch. I de l’O du 24 juin 2026, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 359](https://fedlex.data.admin.ch/eli/oc/2026/359)).
 
 #### Art. 78a
 
