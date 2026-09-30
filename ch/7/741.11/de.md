@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2026-07-01
+version: 2026-10-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20261001/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20261001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/de"
 
 (VRV)[^t-1]
 
-vom 13. November 1962 (Stand am 1. Juli 2026)
+vom 13. November 1962 (Stand am 1. Oktober 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -179,17 +179,20 @@ Alkoholeinfluss liegt vor, wenn die Person:
 
 <sup>3bis</sup> Bei Verwendung eines Einparkassistenzsystems darf der Führer während des Parkierungsmanövers die Lenkvorrichtung loslassen und das Fahrzeug verlassen, sofern das Assistenzsystem dies vorsieht. Er muss das Parkierungsmanöver überwachen und bei Bedarf abbrechen.[^3-3]
 
-<sup>4</sup>
+<sup>4</sup> Der Fahrzeugführer hat den vorgeschriebenen Fahrtschreiber ständig in Betrieb zu halten und richtig zu bedienen.[^3-4]
 
-Der Fahrzeugführer hat den vorgeschriebenen Fahrtschreiber ständig in Betrieb zu halten und richtig zu bedienen. Ist:
+<sup>5</sup> Ist das Fahrzeug mit einem analogen Fahrtschreiber ausgerüstet, so darf ihn der Fahrzeugführer unterwegs zu Kontrollzwecken und muss ihn auf Verlangen der Polizei öffnen. Der Halter hat Schlüssel und Einlageblätter zur Verfügung zu stellen. Jedes Einlageblatt darf nur einmal verwendet werden; freiwillige Vermerke dürfen die Auswertung nicht erschweren. Es müssen genügend leere Einlageblätter mitgeführt werden.[^3-5]
 
-- a. das Fahrzeug mit einem analogen Fahrtschreiber ausgerüstet, so darf ihn der Fahrzeugführer unterwegs zu Kontrollzwecken und muss ihn auf Verlangen der Polizei öffnen. Der Halter hat Schlüssel und Einlageblätter zur Verfügung zu stellen. Jedes Einlageblatt darf nur einmal verwendet werden; freiwillige Vermerke dürfen die Auswertung nicht erschweren. Es müssen genügend leere Einlageblätter mitgeführt werden;
-- b. das Fahrzeug mit einem digitalen Fahrtschreiber ausgerüstet, so müssen die Fahrerkarten von Führer und Mitfahrer während der gesamten beruflichen Tätigkeit eingesteckt bleiben. Ohne Fahrerkarte darf ein Fahrzeug ausser bei Beschädigung, Fehlfunktion, Verlust oder Diebstahl der Karte nicht geführt werden. Es muss genügend Druckerpapier mitgeführt werden.[^3-4]
+<sup>6</sup> Ist das Fahrzeug mit einem digitalen Fahrtschreiber ausgerüstet, so müssen die Fahrerkarten von Führer und Mitfahrer während der gesamten beruflichen Tätigkeit eingesteckt bleiben. Fahrten ohne eingesteckte Fahrerkarte sind zulässig, soweit die Chauffeurverordnung vom 19. Juni 1995[^3-6] und die Verordnung vom 6. Mai 1981[^3-7] über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen für diese Fahrten nicht gelten. In diesen Fällen ist das Piktogramm «OUT» zu verwenden.[^3-8]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^3-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^3-4]: Eingefügt durch Art. 36 Ziff. I des BRB vom 27. Aug. 1969 über administrative Ausführungsbestimmungen zum Strassenverkehrsgesetz ([AS 1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4109](https://fedlex.data.admin.ch/eli/oc/2005/544)).
+[^3-4]: Eingefügt durch Art. 36 Ziff. I des BRB vom 27. Aug. 1969 über administrative Ausführungsbestimmungen zum Strassenverkehrsgesetz ([AS 1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^3-5]: Eingefügt durch Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^3-6]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^3-7]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^3-8]: Eingefügt durch Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
 
 #### Art. 3a
 
@@ -1133,6 +1136,24 @@ Auf Nebenstrassen in Wohnquartieren oder auf Nebenstrassen, wo der Fahrzeugverke
 [^41b-3]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 ### 5. Abschnitt: Besondere Fahrzeugarten
+
+#### Art. 41c
+
+**Schwere Motorwagen mit emissionsfreiem Antrieb**[^41c-1]
+
+<sup>1</sup>
+
+Wer schwere Motorwagen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS[^41c-2]) führt, deren Gesamtgewicht höchstens 4250 kg beträgt und deren 3500 kg überschreitendes Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird, muss:
+
+- a. die Verkehrsregeln und die Signalisation für die Führer leichter Motorwagen beachten;
+- b. sofern das Fahrzeug als Gesellschaftswagen zugelassen ist: mitfahrende Personen auf geeignete Art und Weise auf die Gurtentragpflicht aufmerksam machen;
+- c. sofern das Fahrzeug als Wohnmotorwagen zugelassen ist: die Signalisation für Wohnmotorwagen beachten, namentlich das Symbol «Wohnmotorwagen» (5.28).
+
+<sup>2</sup> In jedem Fall zu beachten sind signalisierte Gewichtsbeschränkungen (Art. 20 SSV[^41c-3]).
+
+[^41c-1]: Eingefügt durch Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^41c-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^41c-3]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 #### Art. 42
 
@@ -2523,7 +2544,7 @@ Diese Informationssysteme enthalten insbesondere folgende Daten:
 
 Bereits in Verkehr stehende Fahrzeuge, welche der vor dem 1. August 2002 geltenden Fahrraddefinition nach Artikel 24 Absatz 1 VTS[^98-2] entsprechen und alle technischen Anforderungen an Fahrräder erfüllen, dürfen noch bis zum 31. Dezember 2003 wie Fahrräder verwendet werden, sofern sie eine Fahrradvignette tragen.
 
-[^98-1]: Aufgehoben durch Ziff. I der V vom 10. Juli 1972 ([AS 1972 1573](https://fedlex.data.admin.ch/eli/oc/1972/1573_1605_1777)). Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
+[^98-1]: Fassung gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^98-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 98a

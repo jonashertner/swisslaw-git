@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2026-07-01
+version: 2026-10-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/fr"
 
 (OCR)[^t-1]
 
-du 13 novembre 1962 (État le 1<sup>er</sup> juillet 2026)
+du 13 novembre 1962 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -180,17 +180,20 @@ Il y a influence de l’alcool si le conducteur présente:
 
 <sup>3bis</sup> Lorsqu’il utilise un système d’aide au stationnement, le conducteur peut lâcher l’appareil de direction durant le parcage et même quitter le véhicule si le système le permet. Il est tenu de surveiller la manœuvre et de l’interrompre au besoin.[^3-3]
 
-<sup>4</sup>
+<sup>4</sup> Le conducteur doit maintenir en état de marche permanent le tachygraphe prescrit et le manipuler correctement.[^3-4]
 
-Le conducteur doit maintenir en état de marche permanent le tachygraphe prescrit et le manipuler correctement. Si:
+<sup>5</sup> Si le véhicule est équipé d’un tachygraphe analogique, le conducteur peut l’ouvrir en cours de route à des fins de contrôle et doit le faire sur demande de la police. Le détenteur mettra à la disposition de cette dernière les clés et les disques d’enregistrement. Chaque disque d’enregistrement ne peut être utilisé qu’une seule fois; les inscriptions facultatives ne doivent pas rendre sa lecture plus difficile. Le conducteur emportera un nombre suffisant de disques d’enregistrement neufs.[^3-5]
 
-- a. le véhicule est équipé d’un tachygraphe analogique, le conducteur peut l’ouvrir en cours de route à des fins de contrôle et doit le faire sur demande de la police. Le détenteur mettra à la disposition de cette dernière les clefs et les disques. Chaque disque ne peut être utilisé qu’une seule fois; les inscriptions facultatives ne doivent pas rendre sa lecture plus difficile. Le conducteur emportera un nombre suffisant de disques neufs;
-- b. le véhicule est équipé d’un tachygraphe numérique, les cartes de conducteur du chauffeur et du passager doivent rester introduites pendant tout le temps que dure l’activité professionnelle. Il est interdit de conduire un véhicule dépourvu de la carte du conducteur, sauf si elle a été endommagée, si elle ne fonctionne pas correctement, si elle a été perdue ou volée. Le conducteur emportera une quantité suffisante de papier d’impression.[^3-4]
+<sup>6</sup> Si le véhicule est équipé d’un tachygraphe numérique, les cartes de conducteur du chauffeur et du passager doivent rester introduites dans l’appareil pendant tout le temps que dure l’activité professionnelle. Les courses effectuées sans que la carte de conducteur soit introduite dans le tachygraphe sont admises, pour autant qu’elles ne soient pas soumises à l’ordonnance du 19 juin 1995 sur les chauffeurs[^3-6] ni à l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes et de voitures de tourisme lourdes[^3-7]. Dans ce cas, il convient d’utiliser le pictogramme «OUT».[^3-8]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2005, en vigueur depuis le 1<sup>er</sup> mars 2006 ([RO 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^3-3]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^3-4]: Introduit par l’art. 36 ch. I de l’ACF du 27 août 1969 groupant les disp. administratives prises en application de la loi sur la circulation routière ([RO 1969 813](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> oct. 2005 ([RO 2005 4109](https://fedlex.data.admin.ch/eli/oc/2005/544)).
+[^3-4]: Introduit par l’art. 36 ch. I de l’ACF du 27 août 1969 groupant les disp. administratives prises en application de la loi sur la circulation routière ([RO 1969 813](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^3-5]: Introduit par le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^3-6]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^3-7]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^3-8]: Introduit par le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
 
 #### Art. 3a
 
@@ -211,7 +214,8 @@ Sont dispensées de l’obligation de porter la ceinture selon l’al. 1:
 - e. les conducteurs et passagers des voitures automobiles affectées au trafic régional exploité selon l’horaire par des entreprises de transport concessionnaires;
 - f. les accompagnateurs de personnes ayant besoin d’une assistance particulière dans les véhicules des services de santé et de transport de personnes handicapées;
 - g.[^3a-5] les conducteurs et passagers de voitures automobiles de travail, de tracteurs et de chariots à moteur, à condition que leur vitesse n’excède pas 25 km/h.
-- [tab] <sup>3</sup> Il convient d’attirer dûment l’attention des passagers des autocars et des minibus sur l’obligation de porter la ceinture de sécurité.
+
+<sup>3</sup> Il convient d’attirer dûment l’attention des passagers des autocars et des minibus sur l’obligation de porter la ceinture de sécurité.
 
 <sup>4</sup>
 
@@ -1132,6 +1136,24 @@ Sur les routes secondaires situées dans les quartiers d’habitation et sur les
 
 ### Chapitre 5 Catégories spéciales de véhicules
 
+#### Art. 41c
+
+**Voitures automobiles lourdes à propulsion non polluante**[^41c-1]
+
+<sup>1</sup>
+
+Quiconque conduit des voitures automobiles lourdes à propulsion non polluante (art. 9*a*, al. 2, OETV[^41c-2]) dont le poids total n’excède pas 4250 kg et dont le dépassement de poids par rapport à la limite de 3500 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante est tenu:
+
+- a. d’observer les règles de la circulation routière et la signalisation applicables aux conducteurs de voitures automobiles légères;
+- b. d’attirer dûment l’attention des passagers sur l’obligation de porter la ceinture de sécurité, pour autant que le véhicule soit immatriculé comme autocar;
+- c. d’observer la signalisation applicable aux voitures d’habitation, notamment le symbole «Voiture automobile servant d’habitation» (5.28), pour autant que le véhicule soit immatriculé comme voiture d’habitation.
+
+<sup>2</sup> Il convient, dans tous les cas, d’observer les limitations de poids signalisées (art. 20 OSR[^41c-3]).
+
+[^41c-1]: Introduit par le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^41c-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^41c-3]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+
 #### Art. 42
 
 **Motocycles, cyclomoteurs et cycles; généralités[^42-1]**
@@ -1726,7 +1748,7 @@ Le poids effectif des véhicules et des ensembles de véhicules ne doit pas exc�
 - d<sup>bis</sup>.[^67-6] 19,50 t pour les autocars à deux essieux;
 - e. 18,00 t pour les véhicules automobiles à deux essieux;
 - f.[^67-7] 32,00 t pour les remorques à plus de trois essieux, à l’exception des semi-remorques, des remorques à essieu central et des remorques à timon rigide;
-- [tab] g.[^67-8] 24,00 t pour les remorques à trois essieux, à l’exception des semi-remorques, des remorques à essieu central et des remorques à timon rigide;
+- g.[^67-8] 24,00 t pour les remorques à trois essieux, à l’exception des semi-remorques, des remorques à essieu central et des remorques à timon rigide;
 - h.[^67-9] 18,00 t pour les remorques à deux essieux, à l’exception des semi-remorques, des remorques à essieu central et des remorques à timon rigide.
 
 <sup>1bis</sup> Par transport combiné non accompagné, il faut entendre le transport d’unités de chargement (conteneur, caisse mobile) ou le transfert d’une semi-remorque à partir ou à destination de n’importe quelle gare ferroviaire suisse de transbordement ou à partir ou à destination d’un port suisse, sans que la marchandise transportée change de contenant lors du passage d’un mode de transport à l’autre. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication peut désigner les gares de transbordement étrangères proches de la frontière assimilées aux gares suisses de même nature. En transport combiné non accompagné, le conducteur doit être porteur d’une pièce justificative appropriée (p. ex. une lettre de voiture établie par l’entreprise ferroviaire).[^67-10]
@@ -2522,7 +2544,7 @@ Les systèmes d’information mentionnés contiennent notamment les données sui
 
 Les véhicules déjà en circulation, qui répondent à la définition du cycle valable avant le 1<sup>er</sup> août 2002 conformément à l’art. 24, al. 1, OETV[^98-2] et satisfont à toutes les exigences techniques requises pour les cycles, peuvent être utilisés comme des cycles jusqu’au 31 décembre 2003, à condition d’être munis d’une vignette pour cycle.
 
-[^98-1]: Abrogé par le ch. I de l’O du 10 juil. 1972 ([RO 1972 1605](https://fedlex.data.admin.ch/eli/oc/1972/1573_1605_1777)). Nouvelle teneur selon le ch. I de l’O du 15 mai 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
+[^98-1]: Nouvelle teneur selon le ch. I de l’O du 15 mai 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^98-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 98a

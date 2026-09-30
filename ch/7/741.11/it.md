@@ -4,11 +4,11 @@ title: Ordinanza del 13 novembre 1962 sulle norme della circolazione stradale (O
 short: ONC
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: it
-version: 2026-07-01
+version: 2026-10-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20261001/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20261001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/it"
 
 (ONC)[^t-1]
 
-del 13 novembre 1962 (Stato 1° luglio 2026)
+del 13 novembre 1962 (Stato 1° ottobre 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 10 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -113,9 +113,9 @@ Un conducente è considerato inabile alla guida se nel suo sangue è provata la 
 
 <sup>3</sup> Nessuno può affidare un veicolo a un conducente inabile alla guida.
 
-<sup>4</sup> ...[^2-7]
+<sup>4</sup> …[^2-7]
 
-<sup>5</sup> ...[^2-8]
+<sup>5</sup> …[^2-8]
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 1979, in vigore dal 1° gen. 1980 ([RU 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
 [^2-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
@@ -123,8 +123,8 @@ Un conducente è considerato inabile alla guida se nel suo sangue è provata la 
 [^2-4]: Nuovo testo giusta la cifra I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2851](https://fedlex.data.admin.ch/eli/oc/2004/351)).
 [^2-5]: Introdotto dalla cifra I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2851](https://fedlex.data.admin.ch/eli/oc/2004/351)).
 [^2-6]: Introdotto dalla cifra I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2851](https://fedlex.data.admin.ch/eli/oc/2004/351)).
-[^2-7]: Introdotto dalla cifra I n. 2 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2) ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
-[^2-8]: Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
+[^2-7]: Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
+[^2-8]: Introdotto dalla cifra I n. 2 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2) ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
 
 #### Art. 2a
 
@@ -183,18 +183,21 @@ Una persona è sotto l’influsso dell’alcol se:
 
 <sup>3bis</sup> Durante le manovre di parcheggio effettuate utilizzando un apposito sistema di assistenza, il conducente può abbandonare il dispositivo di guida e scendere dal veicolo se il sistema lo prevede. Il conducente deve sorvegliare le manovre e, se necessario, interromperle.[^3-4]
 
-<sup>4</sup>
+<sup>4</sup> Il conducente deve tenere continuamente in funzione il tachigrafo prescritto e utilizzarlo correttamente.[^3-5]
 
-Il conducente deve tenere continuamente in funzione il tachigrafo prescritto e utilizzarlo correttamente:
+<sup>5</sup> Se il veicolo è equipaggiato con un tachigrafo analogico, durante il viaggio il conducente può aprirlo per controllarlo e deve farlo se la polizia lo richiede. Il detentore mette a disposizione i dischi e le chiavi. Ogni disco è adoperato una sola volta; le iscrizioni facoltative non devono rendere difficile la lettura del disco. Il conducente deve portare con sé un numero sufficiente di dischi nuovi.[^3-6]
 
-- a. se il veicolo è equipaggiato con un tachigrafo analogico, durante il viaggio il conducente può aprirlo per controllarlo e deve farlo se la polizia lo richiede. Il detentore mette a disposizione i dischi e le chiavi. Ogni disco è adoperato una sola volta; le iscrizioni facoltative non devono rendere difficile la lettura del disco. Il conducente deve portare con sé un numero sufficiente di dischi nuovi;
-- b. se il veicolo è equipaggiato con un tachigrafo digitale, le carte del conducente e del passeggero devono rimanere inserite durante tutta l'attività lavorativa. In assenza della carta del conducente non è ammesso condurre il veicolo salvo in caso di danno, funzionamento difettoso, perdita o furto della carta. Il conducente deve portare con sé una sufficiente quantità di carta per la stampa.[^3-5]
+<sup>6</sup> Se il veicolo è equipaggiato con un tachigrafo digitale, le carte del conducente e del secondo conducente devono rimanere inserite durante tutta l’attività lavorativa. Le corse senza carta inserita sono consentite se non sono soggette all’ordinanza del 19 giugno 1995[^3-7] per gli autisti né all’ordinanza del 6 maggio 1981[^3-8] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti. In questi casi si deve utilizzare il pittogramma «OUT».[^3-9]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^3-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 [^3-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^3-4]: Introdotto dalla cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^3-5]: Introdotto dall’art. 36 n. 1 del DCF del 27 ago. 1969 concernente le disposizioni amministrative per l’esecuzione della L sulla circolazione stradale ([RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^3-5]: Introdotto dall’art. 36 n. 1 del DCF del 27 ago. 1969 concernente le disposizioni amministrative per l’esecuzione della L sulla circolazione stradale ([RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)). Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^3-6]: Introdotto dalla cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^3-7]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^3-8]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^3-9]: Introdotto dalla cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
 
 #### Art. 3a
 
@@ -258,15 +261,15 @@ L’obbligo di portare il casco non è applicabile:
 - g.[^3b-3] alle persone su ciclomotori dotati di propulsione elettrica in grado di raggiungere al massimo 25 km/h;
 - h.[^3b-4] ai conducenti di sedie a rotelle motorizzate.
 
-<sup>3</sup> Sui motoveicoli con o senza carrozzino laterale, sui quadricicli leggeri a motore, quadricicli a motore, veicoli a motore a tre ruote e ciclomotori va indossato un casco di protezione omologato secondo il regolamento UNECE n. 22 nella versione di cui all’allegato 2 OETV. Sui veicoli cingolati è sufficiente un casco omologato secondo la norma SN EN 1077[^3b-5] o SN EN 1078[^3b-6], sui ciclomotori un casco per ciclisti omologato secondo la norma SN EN 1078.[^3b-7]
+<sup>3</sup> Sui motoveicoli con o senza carrozzino laterale, sui quadricicli leggeri a motore, quadricicli a motore, veicoli a motore a tre ruote e ciclomotori va indossato un casco di protezione omologato secondo il regolamento UNECE n. 22 nella versione di cui all’allegato 2 OETV o una versione precedente di tale regolamento riportata nell’OETV. Sui veicoli cingolati è sufficiente un casco omologato secondo la norma SN EN 1077[^3b-5] o SN EN 1078[^3b-6], sui ciclomotori un casco per ciclisti omologato secondo la norma SN EN 1078.[^3b-7]
 
 [^3b-1]: Introdotto dalla cifra I dell’O del 20 mag. 1981 ([RU 1981 507](https://fedlex.data.admin.ch/eli/oc/1981/507_507_507)). Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^3b-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 [^3b-3]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 [^3b-4]: Introdotta dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
-[^3b-5]: SN EN 1077, 2007, Caschi per la pratica dello sci alpino e per lo snowboard. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3b-6]: SN EN 1078, 2013, Caschi per ciclisti e per utilizzatori di tavole a rotelle (skateboards) e pattini a rotelle. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^3b-7]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^3b-5]: SN EN 1077, *2007*, Caschi per la pratica dello sci alpino e per lo snowboard. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3b-6]: SN EN 1078, *2013*, Caschi per ciclisti e per utilizzatori di tavole a rotelle (skateboards) e pattini a rotelle. La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3b-7]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 26](https://fedlex.data.admin.ch/eli/oc/2025/26)).
 
 #### Art. 4
 
@@ -276,9 +279,9 @@ L’obbligo di portare il casco non è applicabile:
 
 <sup>1</sup> Il conducente deve circolare a una velocità che gli permetta di fermarsi nello spazio visibile; se l’incrocio con altri veicoli è difficile, egli deve poter fermarsi nella metà dello spazio visibile.
 
-<sup>2 e <sup>3</sup></sup> ...[^4-1]
+<sup>2–3</sup> …[^4-1]
 
-<sup>4</sup> ...[^4-2]
+<sup>4</sup> …[^4-2]
 
 <sup>5</sup> Egli non deve senza motivi impellenti, circolare così lentamente da impedire un flusso uniforme del traffico.
 
@@ -359,7 +362,7 @@ Sulle autostrade e semiautostrade la velocità massima è limitata a 100 km/h pe
 - b. autoveicoli pesanti adibiti ad abitazione;
 - c.[^5-5] autoveicoli leggeri con rimorchio, se il peso totale del rimorchio non supera 3,5 t.[^5-6]
 
-<sup>2bis</sup> ...[^5-7]
+<sup>2bis</sup> …[^5-7]
 
 <sup>3</sup> Le predette velocità massime non devono essere superate neppure dove è segnalato un limite di velocità più alto.
 
@@ -449,7 +452,7 @@ Se veicoli a motore pluritraccia[^8-5] e velocipedi utilizzano la medesima corsi
 
 <sup>2</sup> Se una strada stretta non permette l’incrocio, gli autotreni hanno la precedenza sugli altri veicoli, i veicoli a motore pesanti su quelli leggeri e gli autobus sugli autocarri.[^9-1] Se si tratta di veicoli dello stesso genere deve retrocedere quello più vicino ad uno spiazzo d’incrocio;\* all’incrocio sulle strade a forte pendenza e sulle strade di montagna si applica l’articolo 38 capoverso 1 primo periodo.[^9-2]
 
-\* ...[^9-3]
+\* ….[^9-3]
 
 [^9-1]: Nuovo testo giusta l’all. 1 cifra II n. 4 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^9-2]: Nuovo testo del per. 2 giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
@@ -463,7 +466,7 @@ Se veicoli a motore pluritraccia[^8-5] e velocipedi utilizzano la medesima corsi
 
 <sup>1</sup> Il conducente che vuole sorpassare deve spostarsi a sinistra\* con prudenza senza ostacolare i veicoli che seguono. Egli non deve sorpassare, se davanti al veicolo che lo precede si trovano ostacoli, come cantieri, veicoli in preselezione o pedoni che attraversano la strada.
 
-<sup>2</sup> Eseguito il sorpasso, il conducente deve riportarsi a destra, quando non vi è più alcun pericolo per il veicolo sorpassato. ...[^10-1]
+<sup>2</sup> Eseguito il sorpasso, il conducente deve riportarsi a destra, quando non vi è più alcun pericolo per il veicolo sorpassato. …[^10-1]
 
 <sup>3</sup> Fuori delle località, i conducenti di autoveicoli pesanti devono agevolare in modo adeguato il sorpasso ai veicoli più veloci, circolando all’estrema destra, tenendo tra di loro una distanza di almeno 100 m e fermandosi, se necessario, nelle apposite piazzuole. La norma è parimente applicabile agli altri veicoli a motore che circolano lentamente.
 
@@ -634,7 +637,7 @@ I conducenti devono fermarsi, se possibile fuori della strada. Sulla carreggiata
 
 <sup>4</sup> La fermata per il carico e lo scarico di merci accanto a veicoli parcheggiati lungo il margine della carreggiata è permessa soltanto se la circolazione non è ostacolata. Su domanda, il conducente deve immediatamente permettere la partenza del veicolo parcheggiato.
 
-\* Per la fermata sulle rotaie di un tram, cfr. art. 25 cpv. 5, e per la fermata nelle gallerie, cfr. art. 39 cpv. 3.
+\* Per la fermata sulle rotaie di un tram,cfr. art. 25 cpv. 5, e per la fermata nelle gallerie, cfr. art. 39 cpv. 3.
 
 [^18-1]: Nuovo testo del per. 3 giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^18-2]: Nuovo testo giusta la cifra I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -678,9 +681,9 @@ Il parcheggio è vietato:
 
 <sup>1</sup> I veicoli sprovvisti delle targhe prescritte non devono essere lasciati in sosta sulle strade o sui parcheggi pubblici; è fatta eccezione per i parcheggi accessibili al pubblico, appartenenti a privati se questi autorizzano la sosta. L’autorità competente può permettere eccezioni in casi speciali.[^20-1]
 
-<sup>2</sup> ...[^20-2]
+<sup>2</sup> …[^20-2]
 
-<sup>3</sup> ...[^20-3]
+<sup>3</sup> …[^20-3]
 
 [^20-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1976, in vigore dal 1° gen. 1977 ([RU 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^20-2]: Abrogato dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -761,7 +764,7 @@ Le luci di avvertimento lampeggianti (art. 110 cpv. 1 lett. g OETV) possono esse
 - a. sul veicolo fermo, a complemento del segnale di veicolo fermo nonché sugli scuolabus segnalati come tali per permettere agli scolari di salire e scendere (art. 6 cpv. 5);
 - b. sui veicoli in marcia, in caso di rallentamento improvviso del traffico causato segnatamente da un incidente o da un ingorgo oppure in caso di rimorchiatura sulle autostrade e sulle semiautostrade.[^23-6]
 
-<sup>4 e <sup>5</sup></sup> ...[^23-7]
+<sup>4–5</sup> …[^23-7]
 
 <sup>6</sup> Il segnale di veicolo fermo deve pure essere applicato sulla parte posteriore dei veicoli rimorchiati.
 
@@ -779,13 +782,13 @@ Le luci di avvertimento lampeggianti (art. 110 cpv. 1 lett. g OETV) possono esse
 
 ### (art. 28 e 32 cpv. 1 LCStr)
 
-<sup>1</sup> ...[^24-1]
+<sup>1</sup> …[^24-1]
 
 <sup>2</sup> I passaggi a livello devono essere attraversati senza indugiare; i veicoli con ruote o cingoli metallici, i veicoli a trazione animale e i cavalieri devono, però, attraversarli a passo d’uomo.[^24-2]
 
 <sup>3</sup> Gli utenti della strada non devono aprire le barriere, comprese quelle degli aeroporti e simili, passarvi intorno o sotto o scavalcarle. Le semibarriere e le barriere con apertura a richiesta sono equiparate alle barriere. Le barriere con apertura a richiesta possono però essere aperte mediante l’apposito comando.[^24-3]
 
-<sup>4</sup> ...[^24-4]
+<sup>4</sup> …[^24-4]
 
 \* Cfr. anche art. 52 cpv. 4.
 
@@ -1049,11 +1052,11 @@ I conducenti, i passeggeri e gli ausiliari non devono cagionare alcun rumore evi
 
 <sup>1</sup> Se, su strade a forte pendenza e su strade di montagna, veicoli dello stesso genere\* non possono incrociare, il veicolo che discende deve fare marcia indietro, in quanto l’altro non si trovi vicino a uno spiazzo d’incrocio. L’incrocio di veicoli di diverso genere è disciplinato dall’articolo 9 capoverso 2 primo periodo.[^38-1]
 
-<sup>2</sup> ...[^38-2]
+<sup>2</sup> …[^38-2]
 
 <sup>3</sup> Sulle strade postali di montagna, qualora l’incrocio o il sorpasso sia difficile, è obbligo attenersi ai cenni e alle istruzioni dei conducenti dei veicoli di linea.[^38-3]
 
-\* ...[^38-4]
+\* …[^38-4]
 
 [^38-1]: Per. 2 introdotto dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^38-2]: Abrogato dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1093,7 +1096,7 @@ I conducenti, i passeggeri e gli ausiliari non devono cagionare alcun rumore evi
 
 [^40-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^40-2]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
-[^40-3]: Introdotto dalla cifra I dell’O del 14 nov. 1979 ([RU 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)). Nuovo testo giusta il n. I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
+[^40-3]: Introdotto dalla cifra I dell’O del 14 nov. 1979 ([RU 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)). Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^40-4]: Introdotto dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
 #### Art. 41
@@ -1147,6 +1150,24 @@ Sulle strade secondarie nei quartieri residenziali oppure sulle strade secondari
 [^41b-3]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 ### Capo quinto: Categorie speciali di veicoli
+
+#### Art. 41c
+
+**Autoveicoli pesanti a emissioni zero**[^41c-1]
+
+<sup>1</sup>
+
+Chi guida autoveicoli pesanti a emissioni zero (art. 9*a* cpv. 2 OETV[^41c-2]) il cui peso totale è al massimo di 4250 kg e nei quali l’eccedenza rispetto a 3500 kg è dovuta unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero deve:
+
+- a. osservare le norme della circolazione stradale e la segnaletica previste per i conducenti di autoveicoli leggeri;
+- b. se il veicolo è omologato come autobus, ricordare adeguatamente ai passeggeri l’obbligo di allacciare la cintura di sicurezza;
+- c. se il veicolo è omologato come autoveicolo adibito ad abitazione, rispettare l’apposita segnaletica, segnatamente il simbolo «Autoveicolo abitabile» (5.28).
+
+<sup>2</sup> Devono comunque essere sempre osservate le limitazioni di peso segnalate (art. 20 OSStr[^41c-3]).
+
+[^41c-1]: Introdotto dalla cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 452](https://fedlex.data.admin.ch/eli/oc/2026/452)).
+[^41c-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^41c-3]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 #### Art. 42
 
@@ -1263,11 +1284,11 @@ I conducenti di velocipedi e di ciclomotori non devono circolare accanto ad altr
 
 <sup>3</sup> Dove il passaggio pedonale, senza regolazione del traffico, è suddiviso da un’isola spartitraffico, ciascuna parte è considerata come un passaggio pedonale indipendente.[^47-3]
 
-<sup>4</sup> ...[^47-4]
+<sup>4</sup> …[^47-4]
 
 <sup>5</sup> Fuori dai passaggi pedonali, i pedoni devono dare la precedenza ai veicoli.
 
-<sup>6</sup> ...[^47-5]
+<sup>6</sup> …[^47-5]
 
 [^47-1]: Nuova espr. giusta la cifra I dell’O del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 23](https://fedlex.data.admin.ch/eli/oc/2026/23)).
 [^47-2]: Nuovo testo giusta la cifra I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1285,11 +1306,11 @@ I conducenti di velocipedi e di ciclomotori non devono circolare accanto ad altr
 
 <sup>1bis</sup> L’impiego di sci e di slitte come mezzi di circolazione è permesso dove è di uso locale.[^48-1]
 
-<sup>2</sup> ...[^48-2]
+<sup>2</sup> …[^48-2]
 
 <sup>3</sup> Le persone che lavorano sulla carreggiata o nello spazio della stessa devono, se necessario, collocare segnali; in caso di lavori di pianificazione, costruzione o manutenzione devono indossare abiti fluorescenti e catarifrangenti che le rendano ben visibili sia di giorno sia di notte.[^48-3]
 
-<sup>4</sup> ...[^48-4]
+<sup>4</sup> …[^48-4]
 
 [^48-1]: Introdotto dalla cifra I dell’O del 15 mag. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^48-2]: Abrogato dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
@@ -1323,7 +1344,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 
 <sup>2</sup> Per attività, segnatamente giuochi, praticate su un’area delimitata, può essere utilizzata l’area di traffico destinata ai pedoni e su strade secondarie con poco traffico (ad es. nei quartieri d’abitazione) tutta la superficie della carreggiata, nella misura in cui non vengono ostacolati o messi in pericolo gli altri utenti della strada.
 
-<sup>3</sup> ...[^50-2]
+<sup>3</sup> …[^50-2]
 
 [^50-1]: Nuovo testo giusta la cifra I dell’O del 15 mag. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^50-2]: Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4687](https://fedlex.data.admin.ch/eli/oc/2013/825)).
@@ -1392,7 +1413,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 
 <sup>2</sup> La polizia deve essere subito avvertita, se un pericolo non può essere eliminato immediatamente, in particolare se liquidi dispersisi possono inquinare fiumi e laghi o acque sotterranee. Qualora l’esercizio ferroviario sia ostacolato, ad esempio se veicoli o il loro carico cadono sugli impianti ferroviari, l’amministrazione della ferrovia deve essere subito informata.
 
-<sup>3</sup> ...[^54-1]
+<sup>3</sup> …[^54-1]
 
 [^54-1]: Abrogato dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
@@ -1406,7 +1427,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 
 <sup>2</sup> Non è necessario avvertire la polizia, se si tratta solo di escoriazioni o di lievi contusioni; tuttavia, l’autore del danno deve indicare al ferito il nome e l’indirizzo. La polizia non deve parimente essere avvertita, se solo il conducente, i suoi parenti o i membri della comunione domestica sono stati feriti in modo insignificante e nessun terzo è coinvolto nell’infortunio.
 
-<sup>3</sup> ...[^55-1]
+<sup>3</sup> …[^55-1]
 
 [^55-1]: Abrogato dalla cifra I dell’O del 20 mag. 2020, con effetto dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
@@ -1468,7 +1489,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 
 <sup>3</sup> Durante la circolazione, le parti mobili, come bracci di gru e ganci, devono essere immobilizzate e le forche sollevatrici vanno fissate verticalmente o munite di casse protettrici ben visibili.
 
-<sup>4</sup> ...[^58-4]
+<sup>4</sup> …[^58-4]
 
 <sup>5</sup> I veicoli a motore trainanti carichi o rimorchi che impediscono la visibilità devono essere muniti esteriormente a sinistra e a destra di un retrovisore che consenta al conducente di osservare la carreggiata a lato dei carichi o dei rimorchi e verso il retro su una distanza di almeno 100 m.[^58-5]
 
@@ -1490,11 +1511,7 @@ I mezzi simili a veicoli possono essere impiegati come mezzi di circolazione per
 
 Il conducente di un veicolo deve evitare di sporcare la carreggiata in qualsiasi modo. La carreggiata che sia stata sporcata deve essere segnalata agli altri utenti della strada e pulita rapidamente.
 
-<sup>6</sup> I dispositivi pieghevoli o retraibili per ridurre la resistenza aerodinamica (art. 38 cpv. 1 lett. s OETV[^59-2]) che sporgono sul retro del veicolo più di 500 mm oltre la lunghezza massima autorizzata devono essere retratti su strade con una velocità massima segnalata di 50 km/h o inferiore.[^59-3]
-
 [^59-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^59-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
-[^59-3]: Introdotto dalla cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
 
 ### I. *a* Emissioni dei gas di scarico. Manutenzione del sistema antinquinamento dei veicoli
 
@@ -1563,7 +1580,7 @@ Il detentore di un veicolo sottoposto all’obbligo di manutenzione del sistema 
 
 ### (art. 30 cpv. 1 LCStr)
 
-<sup>1</sup> ...[^60-2]
+<sup>1</sup> …[^60-2]
 
 <sup>2</sup> Il numero di persone trasportate in e su veicoli a motore e i loro rimorchi non deve superare quello dei posti autorizzati. Durante la corsa devono essere utilizzati i posti autorizzati; negli autobus è permesso lasciare per breve tempo il posto a sedere.[^60-3]
 
@@ -1641,7 +1658,7 @@ I ciclisti di almeno 16 anni possono trasportare:
 
 <sup>5</sup> Su velocipedi e ciclomotori senza sella per il conducente non è consentito trasportare persone. [^63-4]
 
-<sup>6</sup> ...[^63-5]
+<sup>6</sup> …[^63-5]
 
 [^63-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4487](https://fedlex.data.admin.ch/eli/oc/2005/581)).
 [^63-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
@@ -1727,7 +1744,7 @@ Gli autoveicoli e gli autotreni in moto devono poter muoversi entro i limiti di 
 
 [^66-1]
 
-L’altezza dei veicoli, compreso il carico, non deve superare i 4 m. ...[^66-2]
+L’altezza dei veicoli, compreso il carico, non deve superare i 4 m. …[^66-2]
 
 [^66-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^66-2]: Per. 2 abrogato dalla cifra I dell’O del 7 mar. 1994, con effetto dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1793,7 +1810,7 @@ Il peso sugli assi motori deve essere almeno pari al (peso minimo d’aderenza):
 
 <sup>5</sup> Il peso effettivo dei rimorchi non può superare il carico rimorchiabile iscritto nella licenza di circolazione del veicolo trattore.
 
-<sup>6 e <sup>7</sup></sup> ...[^67-23]
+<sup>6–7</sup> …[^67-23]
 
 <sup>8</sup> I carichi per asse autorizzati ai sensi dei capoversi 2 e 3 possono essere superati al massimo del 2 per cento, se è rispettato il peso effettivo dei veicoli e delle combinazioni di veicoli ai sensi dei capoversi 1 e 3.[^67-24]
 
@@ -1848,7 +1865,7 @@ Sono applicabili le seguenti eccezioni:
 
 <sup>4</sup> I rimorchi per il trasporto di persone possono essere utilizzati soltanto per corse regionali, soggette a orario, di imprese di trasporto in concessione. Gli autobus possono trainare soltanto un rimorchio per il bagaglio di peso totale massimo di 3,50 t.[^68-6]
 
-<sup>5</sup> ...[^68-7]
+<sup>5</sup> …[^68-7]
 
 <sup>6</sup> Nel caso di sinistri e per esercizi d’intervento in caso di sinistri, è permesso trainare con autoveicoli due rimorchi del servizio antincendio o della protezione civile oppure due attrezzi antincendio concepiti per trazione animale o manuale.[^68-8]
 
@@ -1878,7 +1895,7 @@ Sono applicabili le seguenti eccezioni:
 
 <sup>2</sup> Se è necessario, il conducente e i suoi aiuti devono prendere i provvedimenti di sicurezza richiesti, in particolare, devono azionare correttamente l’eventuale dispositivo di direzione del rimorchio quando deve essere affrontata una curva stretta con un rimorchio che non può essere sterzato facilmente.[^70-1]
 
-<sup>3</sup> ...[^70-2]
+<sup>3</sup> …[^70-2]
 
 [^70-1]: Nuovo testo giusta l’art. 36 n. 1 del DCF del 27 ago. 1969 concernente le disposizioni amministrative per l’esecuzione della LF sulla circolazione stradale, in vigore dal 1° ott. 1969 ([RU 1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)).
 [^70-2]: Abrogato dalla cifra I dell’O del 7 mar. 1994, con effetto dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
@@ -1891,7 +1908,7 @@ Sono applicabili le seguenti eccezioni:
 
 <sup>2</sup> L’autorità cantonale può consentire di rimorchiare a traino legna e simili, come anche di tirare sciatori nelle regioni di sport invernali.[^71-1]
 
-<sup>3</sup> ...[^71-2]
+<sup>3</sup> …[^71-2]
 
 \* Per i ciclisti, cfr. anche art. 46 cpv. 4 LCStr.
 
@@ -1934,7 +1951,7 @@ Il carico non deve sporgere lateralmente dai veicoli a motore a ruote simmetrich
 - a.[^73-3] attrezzi sportivi indivisibili di una larghezza massima di 2,55 m trasportati su rimorchi per attrezzi sportivi;
 - b.[^73-4] balle di fieno e di paglia e carichi simili sino a una larghezza di 2.55 m per trasporti agricoli e forestali;
 - c. fieno, paglia e carichi simili sciolti per trasporti agricoli e forestali; in questo caso, tuttavia, nessun oggetto solido deve sporgere dalla sagoma del veicolo senza carico;
-- [tab] d.[^73-5] velocipedi e ciclomotori fissati dietro ai veicoli a motore, a condizione che la loro sporgenza non superi i 20 cm da una parte e dall’altra (art. 38 cpv. 1<sup>bis</sup> OETV[^73-6]) e la larghezza complessiva non superi i 2 m.[^73-7]
+- d.[^73-5] velocipedi e ciclomotori fissati dietro ai veicoli a motore, a condizione che la loro sporgenza non superi i 20 cm da una parte e dall’altra (art. 38 cpv. 1<sup>bis</sup> OETV[^73-6]) e la larghezza complessiva non superi i 2 m.[^73-7]
 
 <sup>3</sup> Sui veicoli a motore, il carico può sporgere anteriormente di 3 metri al massimo a contare dal centro del dispositivo di guida; sui veicoli a motore e sui rimorchi il carico può sporgere posteriormente di 5 m al massimo a contare dal centro dell’asse posteriore oppure dal centro di rotazione degli assi posteriori, se supera la superficie di carico.[^73-8]
 
@@ -2012,7 +2029,7 @@ I Cantoni possono ammettere una larghezza di 2,55 m anche sulle strade segnalate
 - c. 25 m per gli autobus con rimorchio adibito al trasporto di persone;
 - d. 28 m per gli autobus, se sono simultaneamente trainati un rimorchio adibito al trasporto di persone e un rimorchio per il bagaglio e per gli autobus snodati con rimorchio per il bagaglio.
 
-<sup>5</sup> ...[^76-7]
+<sup>5</sup> …[^76-7]
 
 [^76-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
 [^76-2]: [RU 1998 268](https://fedlex.data.admin.ch/eli/oc/1998/__268)
@@ -2083,7 +2100,7 @@ Per i viaggi in cui sono superati la larghezza, l’altezza o il peso massimi so
 
 <sup>2bis</sup> Per i veicoli eccezionali che per dimensioni e peso non superano i limiti di cui all’articolo 79 capoverso 2 lettera a, il permesso duraturo può essere iscritto nella licenza di circolazione come decisione dell’autorità, sempreché siano rispettate le condizioni relative ai percorsi circolari secondo l’articolo 65*a*.[^78-12]
 
-<sup>3</sup> ...[^78-13]
+<sup>3</sup> …[^78-13]
 
 <sup>4</sup> Il permesso può essere revocato in qualsiasi tempo, segnatamente se sono stati commessi abusi, se il veicolo ha cagionato difficoltà nella circolazione o se i viaggi autorizzati non sono più necessari.
 
@@ -2115,7 +2132,7 @@ Se le dimensioni e il peso legali sono superati, i permessi possono essere rilas
 - a.[^79-3] i veicoli e le combinazioni di veicoli non devono superare 30 m di lunghezza, 3 m di larghezza, 4 m di altezza e 44 t di peso effettivo; il carico sugli assi non deve superare 12 t per asse;
 - b. possono essere usate soltanto strade di grande transito, ai sensi degli allegati 1 e 2, lettere A e B dell’ordinanza del 18 dicembre 1991[^79-4] concernente le strade di grande transito, nonché la rete stradale delle località toccate da tali strade.[^79-5]
 
-<sup>3</sup> ...[^79-6]
+<sup>3</sup> …[^79-6]
 
 <sup>4</sup> Se le condizioni di cui al capoverso 2 non sono soddisfatte, ogni Cantone interessato dalla corsa rilascia un permesso valido sul proprio territorio o dà il proprio assenso ai permessi rilasciati dall’USTRA.[^79-7]
 
@@ -2127,7 +2144,7 @@ Se le dimensioni e il peso legali sono superati, i permessi possono essere rilas
 [^79-4]: [RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
 [^79-5]: Nuovo testo giusta la cifra I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^79-6]: Abrogata dalla cifra I dell’O del 6 mag. 2026, con effetto dal 1° lug. 2026 ([RU 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
-[^79-7]: Introdotto dalla cifra I dell’O del 1° lug. 1992 ([RU 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Nuovo testo giusta l’all. 4 n. II 5 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1°gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^79-7]: Introdotto dalla cifra I dell’O del 1° lug. 1992 ([RU 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1°gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-8]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 [^79-9]: Introdotto dall’all. 4 cifra II n. 5 dell’O del 7 nov. 2007 sulle strade nazionali ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)). Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 
@@ -2148,7 +2165,7 @@ Eccezioni alle dimensioni e ai pesi massimi legali (art. 64–67) sono ammesse s
 
 <sup>3</sup> Entro i limiti del territorio cantonale, l’autorità cantonale può permettere viaggi con veicoli più larghi, su strade segnalate per una determinata larghezza massima, se le condizioni della strada lo permettono.[^80-7]
 
-<sup>4</sup> ... [^80-8]
+<sup>4</sup> …[^80-8]
 
 [^80-1]: Nuovo testo giusta la cifra I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^80-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -2200,7 +2217,7 @@ Eccezioni alle dimensioni e ai pesi massimi legali (art. 64–67) sono ammesse s
 
 <sup>1</sup> I conducenti devono circolare in modo che gli altri utenti della strada siano disturbati il meno possibile. Agli altri veicoli deve essere agevolato l’incrocio e il sorpasso, se necessario fermandosi fuori della carreggiata.
 
-<sup>2</sup> ...[^85-1]
+<sup>2</sup> …[^85-1]
 
 <sup>3</sup> Per motivi impellenti e a condizione di prendere misure di sicurezza sufficienti, i conducenti di veicoli e trasporti eccezionali possono derogare alle norme della circolazione così come agli obblighi indicati mediante segnali o demarcazioni. La disposizione è applicabile per analogia ai relativi veicoli d’accompagnamento nonché ai veicoli adibiti alla costruzione, alla manutenzione e alla pulizia della strada.[^85-2]
 
@@ -2231,7 +2248,7 @@ I veicoli a motore agricoli e forestali e i loro rimorchi (veicoli agricoli e fo
 
 Sono equiparate alle aziende agricole e forestali:[^86-4]
 
-- a.[^86-5] ...
+- a.[^86-5] …
 - b. le aziende ortofrutticole, vitivinicole e simili;
 - c. le aziende vivaistiche;
 - d. le aziende di apicoltura.[^86-6]
@@ -2318,7 +2335,7 @@ L’autorità cantonale può permettere l’uso industriale di un veicolo agrico
 
 <sup>3</sup> L’autorità cantonale può permettere l’uso di veicoli agricoli e forestali per cortei ecc.; essa ordina, all’occorrenza, le necessarie misure di sicurezza. Circa l’assicurazione è applicabile per analogia l’articolo 3 capoverso 2 dell’ordinanza del 20 novembre 1959[^90-2] sull’assicurazione dei veicoli.[^90-3]
 
-<sup>4</sup> ...[^90-4]
+<sup>4</sup> …[^90-4]
 
 [^90-1]: Nuovo testo giusta la cifra I dell’O del 7 apr. 1982, in vigore dal 1° mag. 1982 ([RU 1982 531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)).
 [^90-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
@@ -2370,9 +2387,10 @@ Non sono assoggettati al divieto di circolare la notte e la domenica:
 - f.[^91a-3] i viaggi effettuati dalla Posta Svizzera SA e dalle società del gruppo Posta secondo l’articolo 1 lettera e dell’ordinanza del 29 agosto 2012[^91a-4] sulle poste (OPO) nell’ambito dell’obbligo a carico della Posta Svizzera SA di fornire il servizio universale nel settore dei servizi postali (art. 13 della L del 17 dic. 2010[^91a-5] sulle poste);
 - g.[^91a-6] i trasporti di derrate alimentari (art. 4 della legge del 24 giugno 2014[^91a-7] sulle derrate alimentari, LDerr) che non sono surgelate, riscaldate a temperatura ultra alta o sterilizzate e la cui data di consumo non supera i 30 giorni;
 - h.[^91a-8] i trasporti di animali vivi;
-- i.[^91a-9] i trasporti di merci facilmente deperibili che devono essere consumate, lavorate o immagazzinate entro un giorno;j. i trasporti di quotidiani con contenuto redazionale e i viaggi riguardanti servizi televisivi d’attualità;
+- i.[^91a-9] i trasporti di merci facilmente deperibili che devono essere consumate, lavorate o immagazzinate entro un giorno;
+- j. i trasporti di quotidiani con contenuto redazionale e i viaggi riguardanti servizi televisivi d’attualità;
 - k.[^91a-10] gli spostamenti con veicoli cingolati per la preparazione delle piste da sci;
-- [tab] k<sup>bis</sup>.[^91a-11] gli spostamenti con veicoli cingolati con un peso totale massimo di 3,5 t per il rifornimento di località senza strade praticabili;
+- k<sup>bis</sup>.[^91a-11] gli spostamenti con veicoli cingolati con un peso totale massimo di 3,5 t per il rifornimento di località senza strade praticabili;
 - l.[^91a-12] i veicoli il cui interno è adibito a locale appositamente attrezzato per donazioni di sangue;
 - m.[^91a-13] gli autoveicoli pesanti con un peso totale di al massimo 4250 kg, se sono a emissioni zero (art. 9*a* cpv. 2 OETV[^91a-14]) e il peso superiore a 3500 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero;
 - n.[^91a-15] gli autoarticolati con un peso autorizzato del convoglio (art. 7 cpv. 6 OETV) di al massimo 5750 kg, se sono a emissioni zero (art. 9*a* cpv. 2 OETV) e il peso superiore a 5000 kg è dovuto unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero;
@@ -2419,7 +2437,7 @@ I permessi sono rilasciati per le seguenti corse:
 - a.[^92-4] per il trasporto di invii postali da parte di subappaltatori secondo l’articolo 1 lettera b OPO[^92-5] nell’ambito dell’obbligo a carico della Posta Svizzera SA di fornire il servizio universale nel settore dei servizi postali;
 - a<sup>bis</sup>.[^92-6] per il trasporto di invii postali da parte di fornitori secondo gli articoli 3 capoverso 1 e 8 capoverso 1 OPO oppure di subappaltatori secondo l’articolo 1 lettera b OPO, in quanto tale trasporto sia incluso nell’offerta del servizio universale nel settore dei servizi postali (art. 13 della L del 17 dic. 2010[^92-7] sulle poste);
 - b. per il trasporto di materiale da circo, materiale per fiere e mercati, strumenti d’orchestra, scenari di teatro e simili;
-- c.[^92-8] ...
+- c.[^92-8] …
 - d. per spostamenti di veicoli e trasporti eccezionali che ostacolano la circolazione;
 - e. in caso di viaggi per manifestazioni, segnatamente per il trasporto di viveri e bevande.
 
@@ -2452,7 +2470,7 @@ Il permesso deve contenere le seguenti indicazioni:
 - a. nel caso dei permessi unici: la natura della merce trasportata, il giorno del trasporto e l’itinerario;
 - b. nel caso dei permessi duraturi: la natura della merce trasportata, la regione interessata e i giorni dei trasporti.[^93-2]
 
-<sup>3</sup> ...[^93-3]
+<sup>3</sup> …[^93-3]
 
 <sup>4</sup> Il permesso può essere revocato in ogni momento, segnatamente in caso di abuso o se il motivo, per il quale è stato rilasciato, decade.
 
