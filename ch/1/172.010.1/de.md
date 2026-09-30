@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2026-03-01
+version: 2026-10-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20260301/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20260301-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20260301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20261001/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20260301/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. März 2026)
+vom 25. November 1998 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1116,6 +1116,18 @@ Der Bundesrat und die Bundespräsidentin oder der Bundespräsident werden bei de
 <sup>1</sup> Die Departementsvorsteherinnen und Departementsvorsteher sowie die Bundeskanzlerin oder der Bundeskanzler ordnen in den ihnen unterstehenden Verwaltungseinheiten Administrativuntersuchungen an. Sie können diese Zuständigkeit an die ihnen unterstellten Verwaltungseinheiten delegieren.
 
 <sup>2</sup> Ist von einer Administrativuntersuchung mehr als ein Departement, einschliesslich die Bundeskanzlei, betroffen, so ordnet der Bundesrat die Untersuchung an.
+
+#### Art. 27c<sup>bis</sup>
+
+**Koordination**[^27cbis-1]
+
+<sup>1</sup> Ordnet der Bundesrat eine Administrativuntersuchung an, so beauftragt er ein Departement oder die Bundeskanzlei mit der Koordination.
+
+<sup>2</sup> Er kann diesem Departement beziehungsweise der Bundeskanzlei bestimmte Aufgaben der anordnenden Stelle übertragen. Er entscheidet in jedem Fall selber über Gegenstand und Schlusstermin (Art. 27*e* Abs. 1 Bst. a und i) sowie die Folgen der Administrativuntersuchung (Art. 27*j* Abs. 4).
+
+<sup>3</sup> Das mit der Koordination beauftragte Departement beziehungsweise die Bundeskanzlei informiert den Bundesrat regelmässig über den Fortgang der Untersuchung und bringt ihm den Untersuchungsbericht zur Kenntnis.
+
+[^27cbis-1]: Eingefügt durch Ziff. I der V vom 12. Aug. 2026, in Kraft seit 1. Okt. 2026 (AS **20****26** 420).
 
 #### Art. 27d
 

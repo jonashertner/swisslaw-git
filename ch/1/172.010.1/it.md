@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2026-03-01
+version: 2026-10-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20260301/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20260301-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20260301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20261001/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20260301/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° marzo 2026)
+del 25 novembre 1998 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -670,7 +670,7 @@ I membri delle commissioni extraparlamentari possono essere indennizzati soltant
 
 ### Sezione 2: …
 
-#### Art. 9 a 10c
+#### Art. 9–10c
 
 [^910c-1]
 
@@ -1115,6 +1115,18 @@ Nell’esercizio dei compiti legali di controllo, il Consiglio federale e il pre
 <sup>1</sup> Il capo del Dipartimento o il cancelliere della Confederazione ordina un’inchiesta amministrativa nelle unità amministrative che gli sono subordinate. Può delegare detta competenza alle unità amministrative che gli sono subordinate.
 
 <sup>2</sup> Il Consiglio federale ordina l’inchiesta se un’inchiesta amministrativa interessa più di un Dipartimento o un Dipartimento e la Cancelleria federale.
+
+#### Art. 27c<sup>bis</sup>
+
+**Coordinamento**[^27cbis-1]
+
+<sup>1</sup> Se ordina un’inchiesta amministrativa, il Consiglio federale incarica un Dipartimento o la Cancelleria federale di assicurarne il coordinamento.
+
+<sup>2</sup> Può affidare a tale Dipartimento o alla Cancelleria federale determinati compiti dell’autorità che ordina l’inchiesta. Decide in ogni caso esso stesso in merito all’oggetto e al termine ultimo (art. 27*e* cpv. 1 lett. a e i), nonché alle conseguenze dell’inchiesta amministrativa (art. 27*j* cpv. 4).
+
+<sup>3</sup> Il Dipartimento incaricato del coordinamento o la Cancelleria federale informa regolarmente il Consiglio federale sull’andamento dell’inchiesta e gli sottopone il relativo rapporto.
+
+[^27cbis-1]: Introdotto dalla cifra I dell’O del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 420](https://fedlex.data.admin.ch/eli/oc/2026/420)).
 
 #### Art. 27d
 

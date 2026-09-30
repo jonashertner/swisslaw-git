@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'organisation du gouvernement et de 
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: fr
-version: 2026-03-01
+version: 2026-10-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20260301/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20260301-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20260301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20260301/fr"
 
 (OLOGA)
 
-du 25 novembre 1998 (État le 1<sup>er</sup> mars 2026)
+du 25 novembre 1998 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1115,6 +1115,18 @@ Dans l’exercice des tâches de contrôle prévues par la loi, le Conseil féd�
 <sup>1</sup> Le chef du département ou le chancelier de la Confédération ordonne l’ouverture d’une enquête administrative dans les unités qui lui sont subordonnées. Il peut déléguer cette compétence aux unités qui lui sont subordonnées.
 
 <sup>2</sup> Le Conseil fédéral ordonne l’ouverture d’une enquête administrative si plus d’un département ou un département et la Chancellerie fédérale sont concernés.
+
+#### Art. 27c<sup>bis</sup>
+
+**Coordination**[^27cbis-1]
+
+<sup>1</sup> Lorsque le Conseil fédéral ordonne l’ouverture d’une enquête administrative, il charge un département ou la Chancellerie fédérale d’en assurer la coordination.
+
+<sup>2</sup> Il peut lui déléguer certaines tâches de l’autorité ayant ordonné l’ouverture de l’enquête. Dans tous les cas, il décide lui-même de l’objet et de la date butoir de l’enquête (art. 27*e*, al. 1, let. a et i) ainsi que de la suite à y donner (art. 27*j*, al. 4).
+
+<sup>3</sup> Le département chargé de la coordination ou la Chancellerie fédérale lorsqu’elle en est chargée informe régulièrement le Conseil fédéral de l’avancement de l’enquête et porte le rapport d’enquête à sa connaissance.
+
+[^27cbis-1]: Introduit par le ch. I de l’O du 12 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 420](https://fedlex.data.admin.ch/eli/oc/2026/420)).
 
 #### Art. 27d
 
