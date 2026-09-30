@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260612-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260612/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 12 juin 2026)
+du 15 août 2018 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -122,7 +122,8 @@ On entend par:
 
 - f.[^2-4] *visa de long séjour (visa national, type D):* un document sous forme de vignette ou au format électronique établi par un État Schengen attestant que son titulaire remplit les conditions pour un long séjour;
 - g.[^2-5] r*essortissant d’un État tiers:* un citoyen d’un État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre-échange (AELE);
-- h.[^2-6] *régions transfrontalières*: tous les cantons situés le long de la frontière terrestre de la Suisse ainsi que les cantons d’Appenzell Rhodes-Extérieures et Appenzell Rhodes-Intérieures.
+- h.[^2-6] *régions transfrontalières*: tous les cantons situés le long de la frontière terrestre de la Suisse ainsi que les cantons d’Appenzell Rhodes-Extérieures et Appenzell Rhodes-Intérieures;
+- i.[^2-7] *autorisation de voyage ETIAS*: une décision prise conformément au règlement (UE) 2018/1240[^2-8] qui constitue une condition d’entrée pour tout séjour dans l’espace Schengen.
 
 [^2-1]: Les accords d’association à Schengen sont mentionnés à l’annexe 1.
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
@@ -130,6 +131,8 @@ On entend par:
 [^2-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-5]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^2-6]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^2-7]: Introduite par l’annexe 3 ch. 2 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^2-8]: Cf. note de bas de page relative à l’art. 1, al. 4, let. b<sup>ter</sup>.
 
 ## Section 2 Dispositions régissant l’entrée en Suisse et le transit aéroportuaire
 
@@ -171,13 +174,14 @@ Dans les limites de leurs compétences, le Département fédéral des affaires �
 
 Pour un long séjour, l’étranger doit remplir, outre les conditions requises à l’art. 6, par. 1, let. a, d et e, du code frontières Schengen[^4-1], les conditions d’entrée suivantes:[^4-2]
 
-- a. il doit, si nécessaire, avoir obtenu un visa de long séjour au sens de l’art. 9;
+- a.[^4-3] il doit avoir obtenu un visa de long séjour au sens de l’art. 9 ou une autorisation de voyage ETIAS;
 - b. il doit remplir les conditions d’admission pour le but du séjour envisagé.
 
 <sup>2</sup> Dans des cas dûment justifiés, un étranger qui ne remplit pas les conditions de l’al. 1 peut être autorisé pour des motifs humanitaires à entrer en Suisse en vue d’un long séjour. C’est le cas notamment lorsque sa vie ou son intégrité physique est directement, sérieusement et concrètement menacée dans son pays de provenance.
 
 [^4-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^4-3]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 5
 
@@ -683,25 +687,28 @@ Sont réputées mesures que l’on peut attendre des entreprises de transport a�
 
 Les mesures prévues à l’al. 1 visent à assurer l’exécution des opérations suivantes:
 
-- a. contrôler avant le départ si les documents de voyage, visas et titres de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire sont valides et reconnus;
+- a.[^32-2] contrôler avant le départ si les documents de voyage, autorisations de voyage ETIAS, visas et titres de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire sont valides et reconnus;
 - b. identifier les documents de voyage, visas et titres de séjour dont la contrefaçon ou la falsification peut être reconnue par une personne jouissant d’une formation adéquate et d’une acuité visuelle moyenne;
 - c. identifier un document de voyage, visa ou titre de séjour n’appartenant manifestement pas à la personne transportée;
-- d.[^32-2] vérifier si la durée maximale du séjour et le nombre d’entrées autorisés ont été atteints;
-- e.[^32-3] transporter uniquement des personnes ne faisant pas l’objet d’une restriction d’entrée ordonnée par le Conseil fédéral en vertu de l’art. 65*a* LEI ou par le Conseil de l’UE en vertu de l’art. 21<sup>bis</sup> du code frontières Schengen[^32-4], dans la mesure où ce dernier s’applique également à la Suisse en vertu d’un accord avec l’UE.
+- d.[^32-3] vérifier si la durée maximale du séjour et le nombre d’entrées autorisés ont été atteints;
+- e.[^32-4] transporter uniquement des personnes ne faisant pas l’objet d’une restriction d’entrée ordonnée par le Conseil fédéral en vertu de l’art. 65*a* LEI ou par le Conseil de l’UE en vertu de l’art. 21<sup>bis</sup> du code frontières Schengen[^32-5], dans la mesure où ce dernier s’applique également à la Suisse en vertu d’un accord avec l’UE.
 
 <sup>3</sup>
 
 Le SEM peut exiger de l’entreprise de transport aérien des mesures supplémentaires:
 
 - a. lorsque la liaison de transport présente un risque migratoire important, ou
-- b. lorsque le nombre de personnes qui ne disposent pas d’un document de voyage, d’un visa ou d’un titre de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire croît fortement.
+- b.[^32-6] lorsque le nombre de personnes qui ne disposent pas d’un document de voyage, d’une autorisation de voyage ETIAS, d’un visa ou d’un titre de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire croît fortement.
 
-<sup>4</sup> Par mesure supplémentaire, on entend notamment la production de copies de documents de voyage, de visas ou de titres de séjour avant le départ.
+<sup>4</sup> Par mesure supplémentaire, on entend notamment la production de copies de documents de voyage, d’autorisations de voyage ETIAS, de visas ou de titres de séjour avant le départ.[^32-7]
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
-[^32-2]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^32-3]: Introduite selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
-[^32-4]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^32-2]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^32-3]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^32-4]: Introduite selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^32-5]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^32-6]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^32-7]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 33
 
@@ -711,12 +718,14 @@ Le SEM peut exiger de l’entreprise de transport aérien des mesures supplémen
 
 Les modalités de la coopération au sens de l’art. 94, al. 1, LEI comprennent notamment:
 
-- a. la collaboration du SEM à la formation et au perfectionnement professionnels concernant les dispositions légales applicables et les méthodes visant à prévenir l’entrée de personnes dépourvues des documents de voyage, visas et titres de séjour requis;
+- a.[^33-1] la collaboration du SEM à la formation et au perfectionnement professionnels concernant les dispositions légales applicables et les méthodes visant à prévenir l’entrée de personnes dépourvues des documents de voyage, autorisations de voyage ETIAS, visas et titres de séjour requis;
 - b. les conseils du SEM en matière de prévention et d’identification de falsifications de pièces d’identité et de visas;
 - c. l’exécution de la procédure de renvoi ainsi que l’accomplissement par l’entreprise de transport de son devoir de prise en charge et de son devoir d’assurer le voyage de retour des passagers auxquels l’entrée ou le transit a été refusé;
 - d. la collaboration des entreprises de transport aérien avec les autorités concernant le renvoi de personnes dans leur État d’origine ou de provenance ou dans un État tiers.
 
 <sup>2</sup> Lorsque la convention prévoit des forfaits au titre de l’art. 94, al. 2, let. b, LEI, le SEM prend à sa charge les frais d’assistance et de subsistance des passagers selon l’art. 93 LEI.
+
+[^33-1]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ## Section 7 Autorités compétentes
 
@@ -1095,17 +1104,18 @@ Les autorités chargées de contrôler les conditions d’entrée aux aérodrome
 
 <sup>1</sup>
 
-Le DFAE est compétent pour autoriser ou refuser l’entrée en Suisse des personnes suivantes:
+Le DFAE a compétence pour autoriser ou refuser l’entrée en Suisse des personnes suivantes soumises à l’obligation de visa:[^38-1]
 
 - a. les personnes qui, du fait de leur position politique, sont susceptibles d’influencer les relations internationales de la Suisse;
 - b. les titulaires d’un passeport diplomatique, de service ou spécial, qui entrent en Suisse ou transitent par la Suisse;
-- c. les personnes qui jouissent de privilèges, d’immunités et de facilités en vertu du droit international ou conformément à l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^38-1].
+- c. les personnes qui jouissent de privilèges, d’immunités et de facilités en vertu du droit international ou conformément à l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^38-2].
 
 <sup>2</sup> Il est compétent pour les prolongations de visas de court séjour et de transit aéroportuaire octroyés au titre de l’al. 1. Cette compétence peut être déléguée aux cantons.
 
 <sup>3</sup> Le DFAE édicte les directives en matière de visas dans son domaine de compétence.
 
-[^38-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^38-1]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^38-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 39
 

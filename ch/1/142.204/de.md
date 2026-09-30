@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260612-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260612/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 12. Juni 2026)
+vom 15. August 2018 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -123,7 +123,8 @@ In dieser Verordnung bedeuten:
 
 - f.[^2-4] *Visum für einen längerfristigen Aufenthalt (nationales Visum, Typ D):* Dokument in Form einer Vignette oder in elektronischem Format, das von einem Schengen-Staat ausgestellt wird und bescheinigt, dass die Inhaberin oder der Inhaber die Voraussetzungen für einen längerfristigen Aufenthalt erfüllt;
 - g.[^2-5] *Drittstaatsangehörige oder Drittstaatsangehöriger:* Angehörige oder Angehöriger eines Staates, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation (EFTA) ist;
-- h.[^2-6] *Grenzüberschreitende Regionen*: alle Kantone entlang der Landesgrenze der Schweiz zuzüglich der Kantone Appenzell Ausserrhoden und Appenzell Innerrhoden.
+- h.[^2-6] *Grenzüberschreitende Regionen*: alle Kantone entlang der Landesgrenze der Schweiz zuzüglich der Kantone Appenzell Ausserrhoden und Appenzell Innerrhoden;
+- i.[^2-7] *ETIAS-Reisegenehmigung:* ein gemäss der Verordnung (EU) 2018/1240[^2-8] erlassener Entscheid, der eine Voraussetzung für die Einreise und den Aufenthalt im Schengen-Raum darstellt.
 
 [^2-1]: Diese Abkommen sind in Anhang 1 aufgeführt.
 [^2-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
@@ -131,6 +132,8 @@ In dieser Verordnung bedeuten:
 [^2-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-5]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^2-6]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^2-7]: Eingefügt durch Anhang 3 Ziff. 2 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^2-8]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. b<sup>ter</sup>.
 
 ## 2. Abschnitt: Bestimmungen zur Einreise in die Schweiz und zum Flughafentransit
 
@@ -172,13 +175,14 @@ Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) und das S
 
 Für einen längerfristigen Aufenthalt müssen Ausländerinnen und Ausländer neben den Voraussetzungen nach Artikel 6 Absatz 1 Buchstaben a, d und e des Schengener Grenzkodex[^4-1] zusätzlich folgende Einreisevoraussetzungen erfüllen:[^4-2]
 
-- a. Sie müssen, sofern erforderlich, über ein Visum für einen längerfristigen Aufenthalt nach Artikel 9 verfügen.
+- a.[^4-3] Sie müssen über ein Visum für einen längerfristigen Aufenthalt nach Artikel 9 oder eine ETIAS-Reisegenehmigung verfügen.
 - b. Sie müssen die ausländerrechtlichen Zulassungsvoraussetzungen für den beabsichtigten Aufenthaltszweck erfüllen.
 
 <sup>2</sup> Ausländerinnen und Ausländern, die die Voraussetzungen von Absatz 1 nicht erfüllen, kann in begründeten Fällen aus humanitären Gründen die Einreise in die Schweiz für einen längerfristigen Aufenthalt bewilligt werden. Ein solcher Fall liegt insbesondere dann vor, wenn die betreffende Person im Herkunftsstaat unmittelbar, ernsthaft und konkret an Leib und Leben gefährdet ist.
 
 [^4-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
 [^4-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^4-3]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 5
 
@@ -685,25 +689,28 @@ Als zumutbare Vorkehren für Luftverkehrsunternehmen nach Artikel 92 Absatz 1 AI
 
 Mit den Massnahmen nach Absatz 1 ist sicherzustellen, dass:
 
-- a. vor der Abreise kontrolliert wird, ob die für die Einreise in den Schengen-Raum oder für den Flughafentransit erforderlichen Reisedokumente, Visa und Aufenthaltstitel gültig und anerkannt sind;
+- a.[^32-2] vor der Abreise kontrolliert wird, ob die für die Einreise in den Schengen-Raum oder für den Flughafentransit erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa und Aufenthaltstitel gültig und anerkannt sind;
 - b. Fälschungen oder Verfälschungen von Reisedokumenten, Visa oder Aufenthaltstiteln, die für geschulte Personen mit durchschnittlichem Sehvermögen von blossem Auge erkennbar sind, erkannt werden;
 - c. erkannt wird, wenn ein Reisedokument, Visum oder Aufenthaltstitel offensichtlich nicht der zu befördernden Person zusteht;
-- d.[^32-2] überprüft werden kann, ob die zulässige maximale Aufenthaltsdauer und die Anzahl der erlaubten Einreisen erreicht wurden;
-- e.[^32-3] keine Personen befördert werden, die einer Einreisebeschränkung unterliegen, die der Bundesrat nach Artikel 65*a* AIG oder der Rat der EU nach Artikel 21*a* des Schengener Grenzkodex[^32-4] angeordnet hat, sofern letztere aufgrund eines Abkommens mit der EU auch für die Schweiz gilt.
+- d.[^32-3] überprüft werden kann, ob die zulässige maximale Aufenthaltsdauer und die Anzahl der erlaubten Einreisen erreicht wurden;
+- e.[^32-4] keine Personen befördert werden, die einer Einreisebeschränkung unterliegen, die der Bundesrat nach Artikel 65*a* AIG oder der Rat der EU nach Artikel 21*a* des Schengener Grenzkodex[^32-5] angeordnet hat, sofern letztere aufgrund eines Abkommens mit der EU auch für die Schweiz gilt.
 
 <sup>3</sup>
 
 Das SEM kann von den Luftverkehrsunternehmen zusätzliche Massnahmen verlangen, wenn:
 
 - a. bei bestimmten Verkehrsverbindungen ein erhebliches Migrationsrisiko besteht; oder
-- b. die Anzahl der Personen stark ansteigt, die nicht über die für die Einreise in den Schengen-Raum oder für den Flughafentransit erforderlichen Reisedokumente, Visa und Aufenthaltstitel verfügen.
+- b.[^32-6] die Anzahl der Personen, die nicht über die für die Einreise in den Schengen-Raum oder für den Flughafentransit erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa und Aufenthaltstitel verfügen, stark ansteigt.
 
-<sup>4</sup> Als zusätzliche Massnahme gilt insbesondere das Erstellen von Kopien von Reisedokumenten, Visa oder Aufenthaltstiteln vor dem Abflug.
+<sup>4</sup> Als zusätzliche Massnahme gilt insbesondere das Erstellen von Kopien von Reisedokumenten, ETIAS-Reisegenehmigungen, Visa oder Aufenthaltstiteln vor dem Abflug.[^32-7]
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
-[^32-2]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^32-3]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
-[^32-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^32-2]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^32-3]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^32-4]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^32-5]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^32-6]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^32-7]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 33
 
@@ -713,12 +720,14 @@ Das SEM kann von den Luftverkehrsunternehmen zusätzliche Massnahmen verlangen, 
 
 Die Modalitäten der Zusammenarbeit nach Artikel 94 Absatz 1 AIG umfassen namentlich:
 
-- a. die Mitwirkung des SEM bei der beruflichen Aus- und Weiterbildung auf dem Gebiet der einschlägigen Rechtsvorschriften sowie der Methoden zur Verhinderung der Einreise von Personen, die nicht über die erforderlichen Reisedokumente, Visa und Aufenthaltstitel verfügen;
+- a.[^33-1] die Mitwirkung des SEM bei der beruflichen Aus- und Weiterbildung auf dem Gebiet der einschlägigen Rechtsvorschriften sowie der Methoden zur Verhinderung der Einreise von Personen, die nicht über die erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa und Aufenthaltstitel verfügen;
 - b. die Beratung durch das SEM im Hinblick auf die Prävention und die Erkennung von Ausweis- und Visumfälschungen;
 - c. die Durchführung des Rückweisungsverfahrens und die Umsetzung der Betreuungs- und Rückbeförderungspflicht der Luftverkehrsunternehmen bei Passagieren, denen die Ein- oder Durchreise verweigert wurde;
 - d. die Zusammenarbeit der Luftverkehrsunternehmen mit den Behörden betreffend die Ausschaffung von Personen in ihren Heimat- oder Herkunftsstaat oder in einen Drittstaat.
 
 <sup>2</sup> Wurden kostendeckende Pauschalen nach Artikel 94 Absatz 2 Buchstabe b AIG vereinbart, so übernimmt das SEM die Lebenshaltungs- und Betreuungskosten der Passagiere nach Artikel 93 AIG.
+
+[^33-1]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ## 7. Abschnitt: Zuständige Behörden
 
@@ -1099,17 +1108,18 @@ Die für die Kontrolle der Einreisevoraussetzungen an den Flugplätzen, die eine
 
 <sup>1</sup>
 
-Das EDA ist zuständig für die Bewilligung oder Verweigerung der Einreise in die Schweiz von:
+Das EDA ist zuständig für die Bewilligung oder Verweigerung der Einreise in die Schweiz von folgenden visumpflichtigen Personen:[^38-1]
 
 - a. Personen, die aufgrund ihrer politischen Stellung die internationalen Beziehungen der Schweiz berühren;
 - b. Inhaberinnen und Inhabern eines Diplomaten-, Dienst- oder Sonderpasses, die in die Schweiz einreisen oder durch die Schweiz durchreisen;
-- c. Personen, die aufgrund des Völkerrechts oder aufgrund von Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^38-1] Vorrechte, Immunitäten und Erleichterungen geniessen.
+- c. Personen, die aufgrund des Völkerrechts oder aufgrund von Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^38-2] Vorrechte, Immunitäten und Erleichterungen geniessen.
 
 <sup>2</sup> Es ist zuständig für die Verlängerung von Visa für kurzfristige Aufenthalte und für den Flughafentransit, die nach Absatz 1 erteilt werden. Diese Kompetenz kann an die Kantone übertragen werden.
 
 <sup>3</sup> Das EDA erlässt Weisungen zu den Visa in seinem Zuständigkeitsbereich.
 
-[^38-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^38-1]: Fassung gemäss Anhang 3 Ziff. 2 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^38-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 39
 
