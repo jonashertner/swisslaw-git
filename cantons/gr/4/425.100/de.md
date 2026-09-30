@@ -5,12 +5,12 @@ title: Verordnung über die Organisation der Mittelschulen mit kantonaler Träge
 short: "Mittelschulorganisationsverordnung, MSOV"
 language: de
 version: 2024-08-01
-corrected: 2026-09-22
+corrected: 2026-10-01
 version_adopted: 2024-04-29
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3430/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3743/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -338,5 +338,64 @@ von der Regierung erlassen am 22. Februar 2022
 <sup>1</sup> Das Departement erlässt zum Vollzug dieser Verordnung eine Rahmenordnung.
 
 <sup>2</sup> Der Vollzug obliegt dem Amt.
+
+## A1 Anhang 1: Bestimmungen für die Bündner Kantonsschule (BKS) als kantonale Mittelschule am Standort Chur (Art. 4 Abs. 2)
+
+#### Art. A1-1
+
+**Ausbildungsangebot**
+
+<sup>1</sup> Die BKS führt:
+
+- a) ein sechs- und ein vierjähriges Gymnasium
+- b) eine Fachmittelschule mit den Berufsfeldern Gesundheit, Soziale Arbeit sowie Pädagogik und ist Schulort für die Fachmaturität Soziale Arbeit
+- c) eine Handelsmittelschule mit Berufsmaturität
+- d) eine Informatikmittelschule mit Berufsmaturität
+
+<sup>2</sup> Der Unterricht in den Kantonssprachen Deutsch, Rätoromanisch und Italienisch wird besonders gefördert. Am Gymnasium sind zweisprachige Maturitätslehrgänge in den Kantonssprachen gemäss den Bestimmungen der Schweizerischen Maturitätskommission (SMK) anzubieten.
+
+<sup>3</sup> Immersionsunterricht mit Englisch kann ausschliesslich in den Schwerpunkt- und Ergänzungsfächern angeboten werden.
+
+#### Art. A1-2
+
+**Mitglieder der Schulleitung**
+
+<sup>1</sup> Mitglieder der Schulleitung der BKS sind die Rektorin oder der Rektor, die Konrektorin oder der Konrektor sowie Prorektorinnen und Prorektoren.
+
+<sup>2</sup> Der Stellenumfang beträgt inklusive Unterrichtsanteil für:
+
+- a) die Rektorin oder den Rektor 100 Stellenprozent
+- b) die Konrektorin oder den Konrektor 100 Stellenprozent
+- c) die Prorektorinnen oder die Prorektoren total 300 Stellenprozent
+
+#### Art. A1-3
+
+**Stundentafel und Lehrplan**
+
+<sup>1</sup> Stundentafel und Lehrplan der BKS Chur bilden die Referenz für die entsprechenden Stundentafeln und Lehrpläne der übrigen kantonalen Mittelschulen sowie der privaten Mittelschulen.
+
+<sup>2</sup> Am Gymnasium sind zur Durchführung der Schwerpunktfächer (ohne Landessprachen) sowie der Wahl- / Freifächer aller Abteilungen mindestens zwölf Anmeldungen pro Fach erforderlich. Für die Durchführung der Schwerpunktfächer in den Sprachen Französisch, Italienisch und Romanisch sind mindestens sechs Anmeldungen erforderlich.
+
+<sup>3</sup> Am Gymnasium sind zur Durchführung der Ergänzungsfächer mindestens 14 Anmeldungen pro Fach erforderlich.
+
+#### Art. A1-4
+
+**Entlastung für Lehrpersonen mit besonderen Aufgaben**
+
+<sup>1</sup> Die Rektorin oder der Rektor kann folgende Entlastungen gewähren:
+
+- a) für die Stundenplanung insgesamt maximal sieben Jahreslektionen
+- b) für die Leitung der Aufnahmeprüfungen maximal sechs Jahreslektionen
+- c) für die Betriebsleitung der Sportanlagen maximal sieben Jahreslektionen
+
+<sup>2</sup> Weitere Entlastungen über eine Jahreslektion bedürfen der Genehmigung durch das Amt.
+
+#### Art. A1-5
+
+**Pensenanpassungen**
+
+<sup>1</sup> Die Bezeichnung «Pensenanpassungen» wird an der BKS ausschliesslich für ein nachträglich geändertes Arbeitspensum aus dem laufenden oder dem vergangenen Schuljahr verwendet.
+
+<sup>2</sup> Die Bezeichnung «besondere Aufgaben» bezieht sich auf die Abgeltung für Leistungen im nächsten Schuljahr.
 
 2022-011
