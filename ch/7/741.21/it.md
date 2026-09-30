@@ -4,11 +4,11 @@ title: Ordinanza del 5 settembre 1979 sulla segnaletica stradale (OSStr)
 short: OSStr
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961"
 language: it
-version: 2026-07-01
+version: 2026-10-01
 adopted: 1979-09-05
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1979-1961_1961_1961-20260701-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/fedlex-data-admin-ch-eli-cc-1979-1961_1961_1961-20261001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it"
 
 (OSStr)
 
-del 5 settembre 1979[^t-1] (Stato 1° luglio 2026)
+del 5 settembre 1979[^t-1] (Stato 1° ottobre 2026)
 
 [^t-1]: [RU 1980 248](https://fedlex.data.admin.ch/eli/oc/1980/248_248_248)
 
@@ -368,7 +368,7 @@ I segnali «Divieto generale di circolazione nelle due direzioni» e «Divieto d
 
 <sup>6</sup> Per indicare che la circolazione a senso unico è permessa alternativamente nell’una o nell’altra direzione, il segnale «Divieto di accesso» è impiegato con un cartello complementare che menziona le ore di accesso permesse, la lunghezza del tratto e il tempo necessario in generale ai veicoli per compiere il percorso.
 
-<sup>7</sup> ...[^18-4]
+<sup>7</sup> …[^18-4]
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
 [^18-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 27](https://fedlex.data.admin.ch/eli/oc/2025/27)).
@@ -455,17 +455,19 @@ I divieti parziali di circolazione vietano il passaggio per determinati veicoli;
 
 <sup>2</sup> Se sulle strade con circolazione rapida è necessario ridurre fortemente la velocità dei veicoli (art. 108), la velocità massima deve essere abbassata gradualmente.
 
-<sup>3</sup> L’inizio della limitazione generale di velocità a 50 km/h (art. 4*a* cpv. 1 lett. a ONC[^22-2]) è indicato dal segnale «Velocità massima 50, Limite generale» (2.30.1) appena esiste una zona molto fabbricata da una delle parti della strada. La fine della limitazione generale di velocità a 50 km/h è indicata dal segnale «Fine della velocità massima 50, Limite generale» (2.53.1); questo segnale è collocato nel punto a partire dal quale né l’uno né l’altro dei lati della strada è molto fabbricato.[^22-3]
+<sup>3</sup> L’inizio del limite generale di velocità[^22-2] di 50 km/h[^22-3] (art. 4*a* cpv. 1 lett. a ONC[^22-4]) è indicato dal segnale «Velocità massima 50, Limite generale» (2.30.1) appena esiste una zona molto fabbricata da una delle parti della strada. La fine del limite generale di velocità di 50 km/h è indicato dal segnale «Fine della velocità massima 50, Limite generale» (2.53.1); questo segnale è collocato nel punto a partire dal quale né l’uno né l’altro dei lati della strada è molto fabbricato.[^22-5]
 
-<sup>4</sup> I segnali che annunciano l’inizio o la fine della limitazione generale di velocità a 50 km/h non sono necessari sulle strade secondarie poco importanti (come strade che non collegano direttamente tra di loro località o quartieri esterni, strade agricole di accesso, strade forestali e simili; art. 4*a* cpv. 2 ONC).[^22-4]
+<sup>4</sup> I segnali che annunciano l’inizio o la fine del limite generale di velocità di 50 km/h non sono necessari sulle strade secondarie poco importanti (come strade che non collegano direttamente tra di loro località o quartieri esterni, strade agricole di accesso, strade forestali e simili; art. 4*a* cpv. 2 ONC).[^22-6]
 
-<sup>5</sup> Sulle semiautostrade, la limitazione generale di velocità (art. 4*a* cpv. 1 ONC) è indicata da segnali.[^22-5]
+<sup>5</sup> Sulle semiautostrade, il limite generale di velocità (art. 4*a* cpv. 1 ONC) è indicato da segnali.[^22-7]
 
 [^22-1]: Nuovo testo giusta la cifra II dell’O del 19 ott. 1983, in vigore dal 1° gen. 1984 ([RU 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)).
-[^22-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
-[^22-3]: Nuovo testo giusta la cifra II dell’O del 19 ott. 1983, in vigore dal 1° gen. 1984 ([RU 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)).
-[^22-4]: Nuovo testo giusta la cifra II dell’O del 19 ott. 1983, in vigore dal 1° gen. 1984 ([RU 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)).
-[^22-5]: Introdotto dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+[^22-2]: Nuova espr. giusta la cifra I cpv. 1 dell’O del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 438](https://fedlex.data.admin.ch/eli/oc/2026/438)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^22-3]: Nuova espr. giusta la cifra I cpv. 3 dell’O del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 438](https://fedlex.data.admin.ch/eli/oc/2026/438)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^22-4]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^22-5]: Nuovo testo giusta la cifra II dell’O del 19 ott. 1983, in vigore dal 1° gen. 1984 ([RU 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)).
+[^22-6]: Nuovo testo giusta la cifra II dell’O del 19 ott. 1983, in vigore dal 1° gen. 1984 ([RU 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)).
+[^22-7]: Introdotto dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 
 #### Art. 22a
 
@@ -575,13 +577,14 @@ Per indicare ai conducenti la direzione obbligatoria, sono utilizzati i segnali 
 
 **Intervallo minimo tra autoveicoli pesanti**
 
-<sup>1</sup> Il segnale «Intervallo minimo» (2.47) obbliga i conducenti di autoveicoli e autoarticolati, il cui peso totale indicato nella licenza di circolazione supera 3,5 t, a mantenere tra loro l’intervallo minimo indicato.
+<sup>1</sup> Il segnale «Intervallo minimo» (2.47) obbliga i conducenti di autoveicoli pesanti a mantenere tra loro l’intervallo minimo indicato.[^28-1]
 
-<sup>2</sup> …[^28-1]
+<sup>2</sup> …[^28-2]
 
 <sup>3</sup> Se la prescrizione è valevole su un tratto piuttosto lungo, è aggiunto il cartello complementare «Lunghezza del tratto» (5.03).
 
-[^28-1]: Abrogato dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 453](https://fedlex.data.admin.ch/eli/oc/2026/453)).
+[^28-2]: Abrogato dalla cifra I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
 
 #### Art. 29
 
@@ -928,7 +931,7 @@ Il segnale ha il seguente significato:
 
 <sup>3</sup> Le disposizioni degli articoli 84–91 sono applicabili agli indicatori di direzione, agli indicatori di direzione avanzati e ai cartelli di preselezione collocati sulle autostrade e sulle semiautostrade.
 
-<sup>4</sup> ...[^49-4]
+<sup>4</sup> …[^49-4]
 
 [^49-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
 [^49-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24)).
@@ -945,7 +948,7 @@ Il segnale ha il seguente significato:
 
 <sup>3</sup> A tergo del cartello di località figura il segnale «Fine della località sulle strade principali» o «Fine della località sulle strade secondarie»; vi figura nello spazio superiore il nome della prossima località e, nello spazio inferiore, quello della prossima località di destinazione importante e la sua distanza. Se segue una biforcazione, possono essere indicate due località di destinazione importanti.
 
-<sup>4</sup> I segnali «lnizio della località sulle strade principali» o «lnizio della località sulle strade secondarie» sono collocati dove inizia la zona con abitazioni sparse; non devono essere collocati dopo il segnale indicante l’inizio della limitazione generale di velocità all’interno delle località (art. 22 cpv. 3).
+<sup>4</sup> I segnali «lnizio della località sulle strade principali» o «lnizio della località sulle strade secondarie» sono collocati dove inizia la zona con abitazioni sparse; non devono essere collocati dopo il segnale indicante l’inizio del limite generale di velocità all’interno delle località (art. 22 cpv. 3).
 
 <sup>5</sup> Dove due località si toccano, il segnale di località porta su ambedue i lati il segnale «Inizio della località sulle strade principali» o «Inizio della località sulle strade secondarie».
 
@@ -959,7 +962,7 @@ Il segnale ha il seguente significato:
 
 <sup>2</sup> Più località situate nella stessa direzione sono menzionate sullo stesso braccio dell’indicatore; tuttavia, ogni braccio dell’indicatore non può avere più di tre righe.
 
-<sup>3</sup> ...[^51-1]
+<sup>3</sup> …[^51-1]
 
 <sup>4</sup> Se una regione è servita soltanto da un’autostrada o semiautostrada, oppure da una autostrada di circonvallazione, gli indicatori di direzione per le autostrade e semiautostrade possono essere sostituiti, dove le strade di svincolo formano una intersezione con strade secondarie, con indicatori di direzione su fondo verde portanti il simbolo di colore bianco dei segnali «Autostrada» (4.01) o «Semiautostrada» (4.03) ma senza luogo di destinazione.
 
@@ -998,7 +1001,7 @@ Sui segnali di preavviso sono indicate:
 
 <sup>6</sup> Sugli indicatori di direzione avanzati è possibile annunciare restrizioni alla circolazione valevoli per uno dei tratti indicati (ad es. le restrizioni della larghezza oppure del peso) riproducendo il segnale di prescrizione corrispondente («Segnale di preavviso annunciante una limitazione»; 4.40).
 
-<sup>7</sup> ...[^52-6]
+<sup>7</sup> …[^52-6]
 
 <sup>8</sup> …[^52-7]
 
@@ -1303,7 +1306,7 @@ Per indicare il tipo di carburante alternativo fornito, il segnale «Riforniment
 
 <sup>2</sup> Se si tratta di segnali d’indicazione (capitolo 5) con fondo blu, le informazioni complementari (ad es. sulla distanza o sulla direzione) vengono date se necessario con caratteri di color bianco o con un simbolo bianco.
 
-<sup>3</sup> Le indicazioni su un cartello complementare sono imperative come i segnali…[^63-2].
+<sup>3</sup> Le indicazioni su un cartello complementare sono imperative come i segnali. …[^63-2].
 
 [^63-1]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 [^63-2]: Per. abrogato dalla cifra I dell’O del 1° apr. 1998, con effetto dal 1° giu. 1998 ([RU 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
@@ -1350,13 +1353,13 @@ Il campo d’applicazione di segnali può essere concretizzato mediante un carte
 
 **Cartelli complementari a segnali ciclistici e pedonali**[^64a-1]
 
-<sup>1</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image1.png) permesso» aggiunto al segnale «Strada pedonale» (2.61) consente a ciclisti e ciclomotoristi di utilizzare la strada pedonale. Sui marciapiedi questa segnaletica è ammessa eccezionalmente, in particolare per garantire la sicurezza del tragitto casa-scuola, se il marciapiede è poco frequentato e la strada è relativamente trafficata. Si applicano le disposizioni concernenti l’utilizzo condiviso ai sensi dell’articolo 33 capoverso 4.
+<sup>1</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image1.png) permesso» aggiunto al segnale «Strada pedonale» (2.61) consente a ciclisti e ciclomotoristi di utilizzare la strada pedonale. Sui marciapiedi questa segnaletica è ammessa eccezionalmente, in particolare per garantire la sicurezza del tragitto casa-scuola, se il marciapiede è poco frequentato e la strada è relativamente trafficata. Si applicano le disposizioni concernenti l’utilizzo condiviso ai sensi dell’articolo 33 capoverso 4.
 
-<sup>2</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image2.png) vietato» aggiunto alle strade pedonali contrassegnate secondo il capoverso 1 vieta ai conducenti di ciclomotori pesanti e veloci di utilizzare la strada indicata.
+<sup>2</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image2.png) vietato» aggiunto alle strade pedonali contrassegnate secondo il capoverso 1 vieta ai conducenti di ciclomotori pesanti e veloci di utilizzare la strada indicata.
 
-<sup>3</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image2.png) facoltativo» aggiunto ai segnali «Ciclopista» (2.60), «Ciclopista e strada pedonale divise per categoria» (2.63) e «Ciclopista e strada pedonale» (2.63.1) esclude i conducenti di ciclomotori pesanti e veloci dall’obbligo di utilizzare la strada indicata.
+<sup>3</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image2.png) facoltativo» aggiunto ai segnali «Ciclopista» (2.60), «Ciclopista e strada pedonale divise per categoria» (2.63) e «Ciclopista e strada pedonale» (2.63.1) esclude i conducenti di ciclomotori pesanti e veloci dall’obbligo di utilizzare la strada indicata.
 
-<sup>4</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image2.png) vietato» aggiunto ai segnali «Ciclopista» (2.60), «Ciclopista e strada pedonale divise per categoria» (2.63) e «Ciclopista e strada pedonale» (2.63.1) vieta ai conducenti di ciclomotori pesanti e veloci di utilizzare la strada indicata. Il cartello complementare può essere utilizzato solo in casi eccezionali, segnatamente in presenza di un elevato numero di pedoni e spazio limitato.
+<sup>4</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image2.png) vietato» aggiunto ai segnali «Ciclopista» (2.60), «Ciclopista e strada pedonale divise per categoria» (2.63) e «Ciclopista e strada pedonale» (2.63.1) vieta ai conducenti di ciclomotori pesanti e veloci di utilizzare la strada indicata. Il cartello complementare può essere utilizzato solo in casi eccezionali, segnatamente in presenza di un elevato numero di pedoni e spazio limitato.
 
 <sup>5</sup> La fine delle autorizzazioni di cui ai capoversi 1 e 3 nonché del divieto di cui al capoverso 4 può all’occorrenza essere segnalata collocando il segnale corrispondente con un cartello complementare le cui indicazioni siano barrate con tre strisce nere diagonali da sinistra in basso a destra in alto.
 
@@ -1380,7 +1383,7 @@ Il campo d’applicazione di segnali può essere concretizzato mediante un carte
 
 <sup>7</sup> Il cartello complementare «Rumore esercizi di tiro» (5.16), aggiunto al segnale «Altri pericoli» (1.30) mette il conducente in guardia da rumori inattesi cagionati da spari di artiglieria.
 
-<sup>8</sup> ...[^65-5]
+<sup>8</sup> …[^65-5]
 
 <sup>9</sup> Il cartello complementare «Sdoganamento con dichiarazione a vista» (5.54) applicato al segnale «Divieto generale di circolazione nelle due direzioni» (2.01) indica che tale carreggiata può essere utilizzata soltanto da conducenti con dichiarazione a vista.[^65-6]
 
@@ -1392,7 +1395,7 @@ Il campo d’applicazione di segnali può essere concretizzato mediante un carte
 
 <sup>13</sup> Il cartello complementare con il simbolo della «Stazione di ricarica» (5.42) aggiunto ai segnali «Parcheggio» (4.17), «Parcheggio con disco» (4.18) e «Parcheggio contro pagamento» (4.20) indica che l’area interessata può essere utilizzata soltanto per la ricarica di veicoli a propulsione elettrica.[^65-11]
 
-<sup>14</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image3.png)permessa» aggiunto al segnale «Divieto di parcheggio» (2.50) indica che l’area interessata può essere utilizzata per la ricarica di veicoli a propulsione elettrica.[^65-12]
+<sup>14</sup> Il cartello complementare «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image3.png)permessa» aggiunto al segnale «Divieto di parcheggio» (2.50) indica che l’area interessata può essere utilizzata per la ricarica di veicoli a propulsione elettrica.[^65-12]
 
 <sup>15</sup> Il cartello complementare recante la parola «eccettuato» e il simbolo «Covetturaggio» (5.43), aggiunto ai segnali «Divieto generale di circolazione nelle due direzioni» (2.01), «Divieto di circolazione per gli autoveicoli» (2.03) e «Carreggiata riservata agli autobus» (2.64), indica che la carreggiata o la corsia interessata può essere utilizzata da veicoli occupati da un numero di persone pari almeno a quello riportato sul simbolo.[^65-13]
 
@@ -1689,7 +1692,7 @@ Il margine inferiore dei semafori si trova:[^71-3]
 
 <sup>4</sup> L’articolo 90 si applica inoltre alle demarcazioni apposte sulle autostrade e semiautostrade.
 
-<sup>5</sup> ...[^72-7]
+<sup>5</sup> …[^72-7]
 
 [^72-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
 [^72-2]: Introdotto dalla cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)). Vedi anche il cpv. 1 delle disp. fin. di detta mod. avanti l’all. 1.
@@ -1989,15 +1992,16 @@ In caso di cantieri senza ostacoli sulla carreggiata oppure con ostacoli non pi�
 
 <sup>1</sup> L’autorità o l’USTRA rilascia agli imprenditori direttive per la segnaletica dei cantieri e ne sorveglia l’esecuzione.[^81-1]
 
-<sup>2</sup> Sui cantieri, gli imprenditori possono segnalare regolamentazioni del traffico (ad es. divieti di circolazione, limitazione della velocità, deviazioni) soltanto se l’autorità o l’USTRA ne hanno dato l’autorizzazione e se è stata presa una decisione formale (art. 107 cpv. 1). [^81-2]
+<sup>2</sup> Sui cantieri, gli imprenditori possono segnalare regolamentazioni del traffico (ad es. divieti di circolazione, limite di velocità[^81-2], deviazioni) soltanto se l’autorità o l’USTRA ne hanno dato l’autorizzazione e se è stata presa una decisione formale (art. 107 cpv. 1). [^81-3]
 
-<sup>3</sup> L’articolo 55 è applicabile per annunciare deviazioni. [^81-3]
+<sup>3</sup> L’articolo 55 è applicabile per annunciare deviazioni. [^81-4]
 
 <sup>4</sup> Presso i cantieri sui quali il lavoro è interrotto per un periodo di tempo assai lungo, i segnali sono ricoperti o tolti se non sono necessari durante l’interruzione del lavoro.
 
 [^81-1]: Nuovo testo giusta l’all. 4 cifra II n. 6 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1° gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
-[^81-2]: Nuovo testo giusta l’all. 4 cifra II n. 6 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1° gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^81-2]: Nuova espr. giusta la cifra I cpv. 2 dell’O del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 438](https://fedlex.data.admin.ch/eli/oc/2026/438)).
 [^81-3]: Nuovo testo giusta l’all. 4 cifra II n. 6 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1° gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^81-4]: Nuovo testo giusta l’all. 4 cifra II n. 6 dell’O del 7 nov. 2007 sulle strade nazionali, in vigore dal 1° gen. 2008 ([RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 
 #### Art. 82
 
@@ -2641,51 +2645,52 @@ Non sono necessarie decisioni formali o pubblicazioni per:
 
 #### Art. 108
 
-**Deroghe alle limitazioni generali della velocità**
+**Deroghe ai limiti generali di velocità[^108-1]**
 
-<sup>1</sup> Per evitare o attenuare pericoli particolari della circolazione stradale, per ridurre un carico ambientale eccessivo o per migliorare la fluidità del traffico, l’autorità o l’USTRA può ordinare deroghe alle limitazioni generali della velocità (art. 4*a* ONC[^108-1]) su determinati tratti di strada.[^108-2]
+<sup>1</sup> Per evitare o attenuare pericoli particolari nella circolazione stradale, per ridurre un carico ambientale eccessivo o per migliorare la fluidità del traffico, l’autorità o l’USTRA può ordinare deroghe ai limiti generali di velocità (art. 4*a* ONC[^108-2]) su determinati tratti di strada. Devono essere garantite la gerarchia della rete stradale stabilita dall’autorità responsabile della pianificazione e in particolare le funzioni delle strade orientate al traffico.[^108-3]
 
 <sup>2</sup>
 
-Le limitazioni generali della velocità possono essere ridotte se:
+I limiti generali di velocità possono essere ridotti se:
 
 - a. un pericolo è percepibile difficilmente o troppo tardi e non può essere eliminato altrimenti;
-- b.[^108-3] determinati utenti della strada necessitano di protezione speciale non altrimenti conseguibile;
+- b.[^108-4] determinati utenti della strada necessitano di protezione speciale non altrimenti conseguibile;
 - c. consentono di migliorare la fluidità del traffico su tratti molto frequentati;
-- d.[^108-4] emissioni eccessive a carico dell’ambiente (rumore, sostanze inquinanti) possono essere ridotte ai sensi della legislazione sulla protezione dell’ambiente. Occorre rispettare tuttavia il principio della proporzionalità.[^108-5]
+- d.[^108-5] emissioni eccessive a carico dell’ambiente (rumore, sostanze inquinanti) possono essere ridotte ai sensi della legislazione sulla protezione dell’ambiente. Occorre rispettare tuttavia il principio della proporzionalità.[^108-6]
 
-<sup>3</sup> Il limite generale di velocità può essere aumentato, su strade ben costruite con diritto di precedenza nelle località, se questo provvedimento permette di migliorare la fluidità del traffico senza arrecare svantaggi alla sicurezza e all’ambiente.[^108-6]
+<sup>3</sup> Il limite generale di velocità può essere aumentato, su strade ben costruite con diritto di precedenza nelle località, se questo provvedimento permette di migliorare la fluidità del traffico senza arrecare svantaggi alla sicurezza e all’ambiente.[^108-7]
 
-<sup>4</sup> Prima di fissare una deroga a una limitazione generale della velocità si procede a una perizia (art. 32 cpv. 3 LCStr) per chiarire se il provvedimento è necessario (cpv. 2), opportuno oppure se sono da preferire altre misure. Occorre esaminare in particolar modo se il provvedimento può essere limitato alle ore di punta.[^108-7]
+<sup>4</sup> Prima di fissare una deroga a un limite generale di velocità si procede a una perizia (art. 32 cpv. 3 LCStr) per chiarire se il provvedimento è necessario (cpv. 2), opportuno oppure se sono da preferire altre misure. Occorre in particolare esaminare se il provvedimento può essere limitato alle ore di punta e se è preservata l’eventuale caratteristica di strada orientata al traffico (art. 1 cpv. 9).[^108-8]
 
-<sup>4bis</sup> In deroga ai capoversi 1, 2 e 4, la prescrizione di zone con limite di velocità massimo di 30 km/h e delle zone d’incontro è regolata solo dall’articolo 3 capoverso 4 LCStr.[^108-8]
+<sup>4bis</sup> In deroga ai capoversi 1, 2 e 4, la prescrizione di zone con limite di velocità massimo di 30 km/h e delle zone d’incontro è regolata solo dall’articolo 3 capoverso 4 LCStr.[^108-9]
 
 <sup>5</sup>
 
-Sono permesse le seguenti deroghe alle limitazioni generali della velocità:
+Sono permesse le seguenti deroghe ai limiti generali di velocità:
 
-- a.[^108-9] sulle autostrade: per velocità inferiori a 120 km/h fino a 60 km/h, la graduazione è di 10 km/h; nell’ambito di raccordi e diramazioni, ulteriori riduzioni di 10 km/h secondo il grado di costruzione;
-- b.[^108-10] sulle semiautostrade: per velocità inferiori a 100 km/h fino a 60 km/h, la graduazione è di 10 km/h; nell’ambito di raccordi e diramazioni, ulteriori riduzioni di 10 km/h secondo il grado di costruzione;
-- c.[^108-11] sulle strade fuori delle località, eccettuate le semiautostrade e le autostrade: per velocità inferiori a 80 km/h, la graduazione è di 10 km/h;
-- d.[^108-12] sulle strade all’interno delle località: 80/70/70 km/h; per velocità inferiori a 50 km/h, la graduazione è di 10 km/h;
-- e.[^108-13] all’interno delle località con segnaletica per zone: 30 km/h giusta l’articolo 22*,* rispettivamente 20 km/h giusta l’articolo 22*b*.
+- a.[^108-10] sulle autostrade: per velocità inferiori a 120 km/h fino a 60 km/h, la graduazione è di 10 km/h; nell’ambito di raccordi e diramazioni, ulteriori riduzioni di 10 km/h secondo il grado di costruzione;
+- b.[^108-11] sulle semiautostrade: per velocità inferiori a 100 km/h fino a 60 km/h, la graduazione è di 10 km/h; nell’ambito di raccordi e diramazioni, ulteriori riduzioni di 10 km/h secondo il grado di costruzione;
+- c.[^108-12] sulle strade fuori delle località, eccettuate le semiautostrade e le autostrade: per velocità inferiori a 80 km/h, la graduazione è di 10 km/h;
+- d.[^108-13] sulle strade all’interno delle località: 80/70/70 km/h; per velocità inferiori a 50 km/h, la graduazione è di 10 km/h;
+- e.[^108-14] all’interno delle località con segnaletica per zone: 30 km/h giusta l’articolo 22*,* rispettivamente 20 km/h giusta l’articolo 22*b*.
 
-<sup>6</sup> Il DATEC disciplina i particolari quanto al modo di fissare le deroghe alle limitazioni generali della velocità. Fissa le esigenze relative alla morfologia, alla segnaletica e alla demarcazione per le zone con limite di velocità massimo di 30 km/h e per le zone d’incontro.[^108-14]
+<sup>6</sup> Il DATEC disciplina i particolari quanto al modo di fissare le deroghe ai limiti generali di velocità. Fissa le esigenze relative alla morfologia, alla segnaletica e alla demarcazione per le zone con limite di velocità massimo di 30 km/h e per le zone d’incontro.[^108-15]
 
-[^108-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
-[^108-2]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3213](https://fedlex.data.admin.ch/eli/oc/2002/482)).
-[^108-3]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
-[^108-4]: Nuovo testo giusta la cifra I dell’O del 1° apr. 1998, in vigore dal 1° giu. 1998 ([RU 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
-[^108-5]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
-[^108-6]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
-[^108-7]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2005, in vigore dal 1° mar. 2006 ([RU 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^108-8]: Introdotto dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
-[^108-9]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
+[^108-1]: Nuova espr. giusta la cifra I cpv. 1 dell’O del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 438](https://fedlex.data.admin.ch/eli/oc/2026/438)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^108-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^108-3]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 438](https://fedlex.data.admin.ch/eli/oc/2026/438)).
+[^108-4]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
+[^108-5]: Nuovo testo giusta la cifra I dell’O del 1° apr. 1998, in vigore dal 1° giu. 1998 ([RU 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
+[^108-6]: Nuovo testo giusta la cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
+[^108-7]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
+[^108-8]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 438](https://fedlex.data.admin.ch/eli/oc/2026/438)).
+[^108-9]: Introdotto dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 [^108-10]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
 [^108-11]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
-[^108-12]: Introdotta dalla cifra II dell’O del 1° ott. 1984, in vigore dal 1° gen. 1985 ([RU 1984 1119](https://fedlex.data.admin.ch/eli/oc/1984/1119_1119_1119)).
-[^108-13]: Introdotta dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)). Nuovo testo giusta la cifra I dell’O del 28 set. 2001, in vigore dal 1° gen. 2002 ([RU 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
-[^108-14]: Nuovo testo giusta la cifra I dell’O del 28 set. 2001, in vigore dal 1° gen. 2002 ([RU 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+[^108-12]: Nuovo testo giusta la cifra II dell’O del 20 dic. 1989, in vigore dal 1° gen. 1990 ([RU 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Vedi anche la disp. fin. di detta mod. avanti l’all. 1.
+[^108-13]: Introdotta dalla cifra II dell’O del 1° ott. 1984, in vigore dal 1° gen. 1985 ([RU 1984 1119](https://fedlex.data.admin.ch/eli/oc/1984/1119_1119_1119)).
+[^108-14]: Introdotta dalla cifra I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)). Nuovo testo giusta la cifra I dell’O del 28 set. 2001, in vigore dal 1° gen. 2002 ([RU 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+[^108-15]: Nuovo testo giusta la cifra I dell’O del 28 set. 2001, in vigore dal 1° gen. 2002 ([RU 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
 
 #### Art. 109
 
@@ -2808,7 +2813,7 @@ I divieti di circolare ordinati sulla base della legislazione concernente la pol
 
 <sup>1.</sup> L’ordinanza del 31 maggio 1963[^116-1] sulla segnaletica stradale è abrogata.
 
-<sup>2.</sup> e 3. …[^116-2]
+2.–3. …[^116-2]
 
 [^116-1]: [RU **1963** 537; [1967 267](https://fedlex.data.admin.ch/eli/oc/1967/261_273_267)art. 23 cpv. 2 lett. c; [1969 811](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)art. 36 n. 3; [1971 1882](https://fedlex.data.admin.ch/eli/oc/1971/1876_1882_1882); [1975 1216](https://fedlex.data.admin.ch/eli/oc/1975/1216_1216_1216)]
 [^116-2]: Le mod. possono essere consultate alla [RU 1979 1961](https://fedlex.data.admin.ch/eli/oc/1979/1961_1961_1961).
@@ -2968,7 +2973,7 @@ Allegato 1[^t-2]
 
 ## Dimensioni di segnali, demarcazioni e delineatori
 
-[^t-2]: Aggiornato giusta la cifra II delle O del 19 ott. 1983 ([RU 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), del 25 gen. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), del 12 feb. 1992 ([RU 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), la cifra I dell’O del 7 mar. 1994 ([RU 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), la cifra II delle O del 1° apr. 1998 ([RU 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), del 28 set. 2001 ([RU 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), dalla cifra II cpv. 1 dell’O del 17 ago. 2005 ([RU 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), dalle cifre II delle O del 2 mar. 2012 ([RU 2012 1823](https://fedlex.data.admin.ch/eli/oc/2012/260)), del 24 giu. 2015 ([RU 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)), del 20 mag. 2020 ([RU 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)) e del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24), [343](https://fedlex.data.admin.ch/eli/oc/2026/343)).
+[^t-2]: Aggiornato dalle cifre II delle O del 19 ott. 1983 ([RU 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), del 25 gen. 1989 ([RU 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), del 12 feb. 1992 ([RU 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), dalla cifra I dell’O del 7 mar. 1994 ([RU 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), dalle cifre II delle O del 1° apr. 1998 ([RU 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), del 28 set. 2001 ([RU 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), dalla cifra II cpv. 1 dell’O del 17 ago. 2005 ([RU 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), dalle cifre II delle O del 2 mar. 2012 ([RU 2012 1823](https://fedlex.data.admin.ch/eli/oc/2012/260)), del 24 giu. 2015 ([RU 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)), del 20 mag. 2020 ([RU 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)), del 19 dic. 2025 ([RU 2026 24](https://fedlex.data.admin.ch/eli/oc/2026/24), [343](https://fedlex.data.admin.ch/eli/oc/2026/343)) e dalla cifra I dell’O del DATEC del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 458](https://fedlex.data.admin.ch/eli/oc/2026/458)).
 
 Le norme svizzere (SN) menzionate nel presente allegato possono essere richieste, a pagamento, presso l’Associazione svizzera dei professionisti della strada e dei trasporti (VSS), Sihlquai 255, 8005 Zurigo, [www.vss.ch](http://www.vss.ch). Le direttive dell’USTRA menzionate nel presente allegato sono scaricabili gratuitamente dal sito dell’USTRA, [www.ustra.admin.ch](http://www.ustra.admin.ch)
 
@@ -3135,241 +3140,241 @@ Le norme svizzere (SN) menzionate nel presente allegato possono essere richieste
 </table>
 
 <table>
-<tr><th></th><th>Autostrade e semiautostrade</th><th>Altre strade</th></tr>
-<tr><td colspan="3">VI. Demarcazioni</td></tr>
-<tr><td colspan="3">*A.* *Demarcazioni* *longitudinali*</td></tr>
-<tr><td>1. Linea di sicurezza (bianca, continua; 6.01)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>0,20 m</td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td>almeno 50 m</td><td>nelle località: almeno 20 m fuori delle località: almeno 50 m</td></tr>
-<tr><td>2. Doppia linea di sicurezza (bianca, continua; 6.02)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>0,20 m</td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td>almeno 50 m</td><td>nelle località: almeno 20 m fuori delle località: almeno 50 m</td></tr>
-<tr><td>Spazio intermedio</td><td>0,10–0,15 m</td><td>0,10–0,15 m</td></tr>
-<tr><td>3. Linea di direzione (bianca, discontinua; 6.03)</td><td colspan="2"></td></tr>
-<tr><td>a. In generale</td><td colspan="2"></td></tr>
-<tr><td>– Larghezza</td><td>0,20 m</td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td>6 m</td><td>3 m</td></tr>
-<tr><td>– Distanza</td><td>12 m</td><td>3 m / 6 m</td></tr>
-<tr><td>b. Nella zona di preselezione</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>2 m</td></tr>
-<tr><td>– Distanza</td><td></td><td>4 m</td></tr>
-<tr><td>c. Come breve interruzione di 6.01 e 6.12</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>1 m</td></tr>
-<tr><td>– Distanza</td><td></td><td>1 m</td></tr>
-<tr><td>d. Attraverso intersezioni</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>1 m</td></tr>
-<tr><td>– Distanza</td><td></td><td>2 m</td></tr>
-<tr><td>4. Linea doppia (bianca/gialla, linea di sicurezza adiacente alla linea di direzione; 6.04)</td><td></td><td></td></tr>
-<tr><td>a. In generale[^annex1-lvlu1-6]</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza linea di direzione</td><td></td><td>3 m</td></tr>
-<tr><td>– Distanza linee di direzione</td><td></td><td>3 m / 6 m</td></tr>
-<tr><td>– Spazio intermedio</td><td></td><td>0,10–0,15 m</td></tr>
-<tr><td>b. Breve attraversamento (bianco/giallo)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza linea di direzione</td><td></td><td>1 m</td></tr>
-<tr><td>– Distanza linee di direzione</td><td></td><td>1 m</td></tr>
-<tr><td>– Spazio intermedio</td><td></td><td>0,10–0,15 m</td></tr>
-<tr><td>c. In corrispondenza di corsia di accelerazione</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>0,20 m</td><td></td></tr>
-<tr><td>– Lunghezza linea di direzione</td><td>6 m</td><td></td></tr>
-<tr><td>– Distanza linee di direzione</td><td>12 m</td><td></td></tr>
-<tr><td>– Spazio intermedio</td><td>0,10–0,15 m</td><td></td></tr>
-<tr><td>d. In corrispondenza di corsia di decelerazione</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>0,20 m</td><td></td></tr>
-<tr><td>– Lunghezza linea di direzione</td><td>3 m</td><td></td></tr>
-<tr><td>– Distanza linee di direzione</td><td>3 m</td><td></td></tr>
-<tr><td>– Spazio intermedio</td><td>0,10–0,15 m</td><td></td></tr>
-<tr><td>5. Linea d’avvertimento (bianca, discontinua; 6.05)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td>0,20 m</td><td>0,15 m</td></tr>
-<tr><td>Lunghezza</td><td>6 m</td><td>4 m</td></tr>
-<tr><td>Distanza</td><td>3 m</td><td>2 m</td></tr>
-<tr><td>Lunghezza totale</td><td>almeno 100 m</td><td>nelle località: almeno 24 m fuori delle località: almeno 48 m</td></tr>
-<tr><td>6. Linea per corsie riservate agli autobus (gialla, discontinua/continua; 6.08)</td><td></td><td></td></tr>
-<tr><td>a. In generale</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,20 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>4 m</td></tr>
-<tr><td>– Distanza</td><td></td><td>2 m</td></tr>
-<tr><td>b. All’inizio di e attraverso intersezioni</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,20 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>1 m o 0,50 m</td></tr>
-<tr><td>– Distanza</td><td></td><td>1 m o 0,50 m</td></tr>
-<tr><td>7. Linea per corsia ciclabile (gialla, discontinua/continua; 6.09)</td><td></td><td></td></tr>
-<tr><td>a. In generale</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>3 m</td></tr>
-<tr><td>– Distanza</td><td></td><td>3 m</td></tr>
-<tr><td>b. Attraverso intersezioni</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>1 m</td></tr>
-<tr><td>– Distanza</td><td></td><td>1 m</td></tr>
-<tr><td>8. Linea longitudinale in corrispondenza di linea di attesa e di arresto (bianca, continua; 6.12)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>al massimo 15 m</td></tr>
-<tr><td>9. Linea di margine e di distanziamento (bianca, continua; 6.15 e 6.16.4)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td>0,25 m</td><td>0,15 m</td></tr>
-<tr><td>Lunghezza di una linea di distanziamento al centro della carreggiata</td><td></td><td>al massimo 15 m</td></tr>
-<tr><td>10. Linea di guida (bianca, discontinua; 6.16; 6.16.1, 6.16.2 e 6.16.3)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>0,20 m</td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td>3 m</td><td>0,50 m o 1 m</td></tr>
-<tr><td>– Distanza</td><td>3 m</td><td>0,50 m o 1 m</td></tr>
-<tr><td>11. Corsia pedonale (bianca, continua; 6.19)</td><td></td><td></td></tr>
-<tr><td>– Larghezza linea e linee oblique</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Larghezza corsia</td><td></td><td>almeno 1,50 m</td></tr>
-<tr><td>– Distanza tra le linee oblique</td><td></td><td>2,50-5 m</td></tr>
-<tr><td>– Inclinazione linee oblique</td><td></td><td>45°</td></tr>
-<tr><td>12. Zona di attesa per velocipedi (6.26)</td><td></td><td></td></tr>
-<tr><td>– Lunghezza</td><td></td><td>almeno 4 m</td></tr>
-<tr><td colspan="3">*B.* *Demarcazioni trasversali*</td></tr>
-<tr><td>1. Linea di arresto (continua; 6.10)</td><td></td><td></td></tr>
-<tr><td>a. In generale</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,50 m</td></tr>
-<tr><td>b. Su corsie ciclabili e ciclopiste</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,30 m</td></tr>
-<tr><td>2. Linea di attesa (serie di triangoli trasversali alla carreggiata; 6.13)</td><td></td><td></td></tr>
-<tr><td>In generale (bianca)</td><td></td><td></td></tr>
-<tr><td>– Lunghezza base dei triangoli</td><td></td><td>0,50 m</td></tr>
-<tr><td>– Altezza triangoli</td><td></td><td>0,60 m</td></tr>
-<tr><td>– Distanza tra i triangoli</td><td></td><td>0,25 m</td></tr>
-<tr><td>b. Su corsie ciclabili e ciclopiste (gialla)</td><td></td><td></td></tr>
-<tr><td>– Lunghezza base dei triangoli</td><td></td><td>0,50 m o 0,25 m</td></tr>
-<tr><td>– Altezza triangoli</td><td></td><td>0,60 o 0,30 m</td></tr>
-<tr><td>– Distanza tra i triangoli</td><td></td><td>0,25 o 0,125 m</td></tr>
-<tr><td>c. Preannuncio della linea di attesa (bianca; 6.14)</td><td></td><td></td></tr>
-<tr><td>– Larghezza base dei triangoli</td><td></td><td>0,60 m</td></tr>
-<tr><td>– Lunghezza base dei triangoli</td><td></td><td>1,20 m</td></tr>
-<tr><td>– Spessore linea lato</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Altezza triangoli</td><td></td><td>3,60 m</td></tr>
-<tr><td>3. Passaggi pedonali (serie di linee gialle parallele al margine della carreggiata; 6.17)</td><td></td><td></td></tr>
-<tr><td>Larghezza linee</td><td></td><td>0,50 m</td></tr>
-<tr><td>Lunghezza linee</td><td></td><td>almeno 4 m</td></tr>
-<tr><td>Distanza tra le linee</td><td></td><td>0,50 m</td></tr>
-<tr><td>Distanza dal margine della carreggiata</td><td></td><td>al massimo 0,50 m</td></tr>
-<tr><td>5. Doppia linea trasversale (bianca e blu, continua; 6.24)</td><td></td><td></td></tr>
-<tr><td>Larghezza di ciascuna linea</td><td></td><td>0,20 m</td></tr>
-<tr><td>Distanza tra le linee</td><td></td><td>al massimo 0,05 m</td></tr>
-<tr><td>6. Uscita di scampo (rossa e bianca; 6.36)</td><td></td><td></td></tr>
-<tr><td>Lunghezza lato di ogni quadrato</td><td>1 m</td><td>1 m</td></tr>
-<tr><td>Lunghezza totale</td><td>almeno 50 m</td><td></td></tr>
-<tr><td colspan="3">*C.* *Superfici vietate (bianche, tratteggiate e bordate; 6.20)*</td></tr>
-<tr><td>1. In generale</td><td></td><td></td></tr>
-<tr><td>Larghezza linea di contorno</td><td colspan="2">In base a quella della linea di sicurezza o di margine adiacente</td></tr>
-<tr><td>Larghezza linee oblique o ad angolo</td><td>1 m</td><td>almeno 0,50 m</td></tr>
-<tr><td>Distanza tra le linee oblique o ad angolo</td><td>2 m</td><td>almeno 1 m[^annex1-lvlu1-7]</td></tr>
-<tr><td>2. Linee di guida per interrompere le superfici vietate</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td></td><td>In base a quella della linea della superficie vietata</td></tr>
-<tr><td>Lunghezza</td><td></td><td>1 m</td></tr>
-<tr><td>Distanza</td><td></td><td>1 m</td></tr>
-<tr><td colspan="3">*D.* *Demarcazioni concernenti la fermata o la sosta dei veicoli*</td></tr>
-<tr><td>1. Posto di parcheggio (bianco, blu, giallo)</td><td></td><td></td></tr>
-<tr><td>Larghezza linea</td><td></td><td>0,12 m o 0,15 m</td></tr>
-<tr><td>2. Linea vietante il parcheggio (gialla, intervallata da croci; 6.22)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>Lunghezza</td><td></td><td>3–10 m</td></tr>
-<tr><td>Distanza dal margine della carreggiata</td><td></td><td>0,50–1 m</td></tr>
-<tr><td>Larghezza croce</td><td></td><td>1 m</td></tr>
-<tr><td>Altezza croce</td><td></td><td>ca. 0,80 m</td></tr>
-<tr><td>Distanza tra linea e croce</td><td></td><td>0,50–1 m</td></tr>
-<tr><td>3. Spazio con divieto di parcheggio (giallo con croce diagonale; 6.23)</td><td></td><td></td></tr>
-<tr><td>Larghezza linea</td><td></td><td>0,15 m</td></tr>
-<tr><td>Altezza caratteri di scritte</td><td></td><td>1,20 m</td></tr>
-<tr><td>4. Linea vietante la fermata</td><td></td><td></td></tr>
-<tr><td>a. In generale (gialla; continua; 6.25)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza delle linee di delimitazione</td><td></td><td>0,80 m</td></tr>
-<tr><td>– Distanza dal margine della carreggiata</td><td></td><td>0,50–1 m</td></tr>
-<tr><td>b. Prima di passaggio pedonale (gialla, continua; 6.18)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>– Lunghezza</td><td></td><td>almeno 10 m</td></tr>
-<tr><td>– Distanza dal margine della carreggiata</td><td></td><td>0,50–1 m</td></tr>
-<tr><td>5. Linea a zig-zag (gialla; 6.21)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td></td><td>0,15 m</td></tr>
-<tr><td>Larghezza della superficie delimitata</td><td></td><td>2,50 m o 2 m</td></tr>
-<tr><td colspan="3">*E.* *Frecce*</td></tr>
-<tr><td>1. Frecce di preselezione e frecce direzionali (bianche/gialle; 6.06)</td><td></td><td></td></tr>
-<tr><td>In generale</td><td></td><td></td></tr>
-<tr><td>– Lunghezza totale</td><td>8 m</td><td>6 m</td></tr>
-<tr><td>b. Su corsie ciclabili e ciclopiste</td><td></td><td></td></tr>
-<tr><td>– Lunghezza totale</td><td></td><td>1 m</td></tr>
-<tr><td>2. Frecce di rientro (6.07)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td>2 m</td><td>2 m</td></tr>
-<tr><td>Lunghezza</td><td>5 m</td><td>5 m</td></tr>
-<tr><td colspan="3">*F.* *Simboli*</td></tr>
-<tr><td>1. Simbolo «Autostrada» (5.72)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>1,15 m</td></tr>
-<tr><td>– Altezza</td><td></td><td>2 m</td></tr>
-<tr><td>2. Simbolo «Velocipede» (5.31)</td><td></td><td></td></tr>
-<tr><td>a. In generale</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>1 m</td></tr>
-<tr><td>– Altezza</td><td></td><td>1 m</td></tr>
-<tr><td>b. Sulla carreggiata delle zone con limite di velocità massimo di 30 km/h</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>2 m</td></tr>
-<tr><td>– Altezza</td><td></td><td>2 m</td></tr>
-<tr><td>3. Simbolo «Bici cargo» (5.31.1)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td></td><td>1,10 m</td></tr>
-<tr><td>Altezza</td><td></td><td>0,50 m</td></tr>
-<tr><td>4. Simbolo «Motoveicolo» (5.29)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td></td><td>1,50 m</td></tr>
-<tr><td>Altezza</td><td></td><td>0,90 m</td></tr>
-<tr><td>5. Simbolo «Pedone» (5.34)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td></td><td>0,50 m</td></tr>
-<tr><td>Altezza</td><td></td><td>1 m</td></tr>
-<tr><td>6. Simbolo «Disabili» (5.34.4)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>0,90 m</td></tr>
-<tr><td>– Altezza</td><td></td><td>1 m</td></tr>
-<tr><td>7. Simbolo «Stazione di ricarica» (5.42)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>1,60 m</td></tr>
-<tr><td>– Altezza</td><td></td><td>0,65 m</td></tr>
-<tr><td>8. Simbolo «Covetturaggio» (5.43)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>2,20 m</td></tr>
-<tr><td>– Altezza</td><td></td><td>3 m</td></tr>
-<tr><td>9. Simbolo «Veicoli a guida automatizzata» (5.44)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td></td><td>1,50 m</td></tr>
-<tr><td>– Altezza</td><td></td><td></td></tr>
-<tr><td>*G.* *Scritte*</td><td></td><td></td></tr>
-<tr><td>«STOP» (bianca; 6.11)</td><td></td><td></td></tr>
-<tr><td>Altezza caratteri</td><td></td><td>1,20–2 m</td></tr>
-<tr><td>«BUS» (gialla; 6.08)</td><td></td><td></td></tr>
-<tr><td>Altezza caratteri</td><td></td><td>2 m</td></tr>
-<tr><td colspan="3">VII. Delineatori</td></tr>
-<tr><td>*A.* *Delineatori* *temporanei*</td><td></td><td></td></tr>
-<tr><td>1. Delineatore flessibile (7.01)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td>15–20 cm</td><td>15–20 cm[^annex1-lvlu1-8]</td></tr>
-<tr><td>Altezza</td><td>70–100 cm</td><td>35–50 cm[^annex1-lvlu1-9]</td></tr>
-<tr><td>2. Cono (7.02)</td><td></td><td></td></tr>
-<tr><td>Altezza</td><td>75 cm</td><td></td></tr>
-<tr><td>Distanza</td><td colspan="2">al massimo 10 m</td></tr>
-<tr><td>3. Paletta segnaletica (7.04)</td><td></td><td></td></tr>
-<tr><td>– Diametro</td><td></td><td>60–90 cm</td></tr>
-<tr><td>– Altezza</td><td></td><td>100 cm</td></tr>
-<tr><td colspan="3">*B.* *Delineatori permanenti*</td></tr>
-<tr><td>1. Colonnetta direttrice destra (7.05) e sinistra (7.06)</td><td></td><td></td></tr>
-<tr><td>Larghezza</td><td>12–14 cm</td><td></td></tr>
-<tr><td>Altezza</td><td>ca. 100 cm</td><td></td></tr>
-<tr><td>Altezza strisce nere</td><td>31 cm</td><td>25 cm</td></tr>
-<tr><td>2. Freccia direttrice (7.07)</td><td></td><td></td></tr>
-<tr><td>– Modulare</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>200 cm</td><td></td></tr>
-<tr><td>– Altezza</td><td>50 cm</td><td></td></tr>
-<tr><td>– Semplice</td><td></td><td></td></tr>
-<tr><td>– Quadrata</td><td></td><td></td></tr>
-<tr><td>– Lunghezza lato</td><td>90 cm</td><td>70 cm</td></tr>
-<tr><td>– Rettangolare</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>90 cm</td><td>70 cm</td></tr>
-<tr><td>– Altezza</td><td>130 cm</td><td>100 cm</td></tr>
-<tr><td>– Graduata</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td colspan="2">50 cm, aumento progressivo di 20 cm</td></tr>
-<tr><td>– Altezza</td><td colspan="2">70 cm, aumento progressivo di 30 cm</td></tr>
-<tr><td>3. Colonnette delle isole di traffico (7.08)</td><td></td><td></td></tr>
-<tr><td>– Diametro</td><td></td><td>15–20 cm</td></tr>
-<tr><td>– Altezza</td><td></td><td>50–80 cm</td></tr>
-<tr><td>4. Spartitraffico (7.09)</td><td></td><td></td></tr>
-<tr><td>– Larghezza</td><td>200 cm</td><td>100 cm</td></tr>
-<tr><td>– Altezza</td><td>170 cm</td><td>125 cm</td></tr>
-<tr><td>VIII. Segnali pieghevoli</td><td colspan="2">Per i segnali pieghevoli può sempre essere usato il formato normale.</td></tr>
+<tr><th></th><th colspan="2">Autostrade e semiautostrade</th><th>Altre strade</th></tr>
+<tr><td colspan="4">VI. Demarcazioni</td></tr>
+<tr><td colspan="4">*A.* *Demarcazioni* *longitudinali*</td></tr>
+<tr><td>1. Linea di sicurezza (bianca, continua; 6.01)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2">almeno 50 m</td><td>nelle località: almeno 20 m fuori delle località: almeno 50 m</td></tr>
+<tr><td>2. Doppia linea di sicurezza (bianca, continua; 6.02)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2">almeno 50 m</td><td>nelle località: almeno 20 m fuori delle località: almeno 50 m</td></tr>
+<tr><td>Spazio intermedio</td><td colspan="2">0,10–0,15 m</td><td>0,10–0,15 m</td></tr>
+<tr><td>3. Linea di direzione (bianca, discontinua; 6.03)</td><td colspan="3"></td></tr>
+<tr><td>a. In generale</td><td colspan="3"></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2">6 m</td><td>3 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2">12 m</td><td>3 m / 6 m</td></tr>
+<tr><td>b. Nella zona di preselezione</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>2 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2"></td><td>4 m</td></tr>
+<tr><td>c. Come breve interruzione di 6.01 e 6.12</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>d. Attraverso intersezioni</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2"></td><td>2 m</td></tr>
+<tr><td>4. Linea doppia (bianca/gialla, linea di sicurezza adiacente alla linea di direzione; 6.04)</td><td colspan="2"></td><td></td></tr>
+<tr><td>a. In generale[^annex1-lvlu1-6]</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza linea di direzione</td><td colspan="2"></td><td>3 m</td></tr>
+<tr><td>– Distanza linee di direzione</td><td colspan="2"></td><td>3 m / 6 m</td></tr>
+<tr><td>– Spazio intermedio</td><td colspan="2"></td><td>0,10–0,15 m</td></tr>
+<tr><td>b. Breve attraversamento (bianco/giallo)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza linea di direzione</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>– Distanza linee di direzione</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>– Spazio intermedio</td><td colspan="2"></td><td>0,10–0,15 m</td></tr>
+<tr><td>c. In corrispondenza di corsia di accelerazione</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">0,20 m</td><td></td></tr>
+<tr><td>– Lunghezza linea di direzione</td><td colspan="2">6 m</td><td></td></tr>
+<tr><td>– Distanza linee di direzione</td><td colspan="2">12 m</td><td></td></tr>
+<tr><td>– Spazio intermedio</td><td colspan="2">0,10–0,15 m</td><td></td></tr>
+<tr><td>d. In corrispondenza di corsia di decelerazione</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">0,20 m</td><td></td></tr>
+<tr><td>– Lunghezza linea di direzione</td><td colspan="2">3 m</td><td></td></tr>
+<tr><td>– Distanza linee di direzione</td><td colspan="2">3 m</td><td></td></tr>
+<tr><td>– Spazio intermedio</td><td colspan="2">0,10–0,15 m</td><td></td></tr>
+<tr><td>5. Linea d’avvertimento (bianca, discontinua; 6.05)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2">0,20 m</td><td>0,15 m</td></tr>
+<tr><td>Lunghezza</td><td colspan="2">6 m</td><td>4 m</td></tr>
+<tr><td>Distanza</td><td colspan="2">3 m</td><td>2 m</td></tr>
+<tr><td>Lunghezza totale</td><td colspan="2">almeno 100 m</td><td>nelle località: almeno 24 m fuori delle località: almeno 48 m</td></tr>
+<tr><td>6. Linea per corsie riservate agli autobus (gialla, discontinua/continua; 6.08)</td><td colspan="2"></td><td></td></tr>
+<tr><td>a. In generale</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,20 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>4 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2"></td><td>2 m</td></tr>
+<tr><td>b. All’inizio di e attraverso intersezioni</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,20 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>1 m o 0,50 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2"></td><td>1 m o 0,50 m</td></tr>
+<tr><td>7. Linea per corsia ciclabile (gialla, discontinua/continua; 6.09)</td><td colspan="2"></td><td></td></tr>
+<tr><td>a. In generale</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>3 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2"></td><td>3 m</td></tr>
+<tr><td>b. Attraverso intersezioni</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>8. Linea longitudinale in corrispondenza di linea di attesa e di arresto (bianca, continua; 6.12)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>al massimo 15 m</td></tr>
+<tr><td>9. Linea di margine e di distanziamento (bianca, continua; 6.15 e 6.16.4)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2">0,25 m</td><td>0,15 m</td></tr>
+<tr><td>Lunghezza di una linea di distanziamento al centro della carreggiata</td><td colspan="2"></td><td>al massimo 15 m</td></tr>
+<tr><td>10. Linea di guida (bianca, discontinua; 6.16; 6.16.1, 6.16.2 e 6.16.3)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">0,20 m</td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2">3 m</td><td>0,50 m o 1 m</td></tr>
+<tr><td>– Distanza</td><td colspan="2">3 m</td><td>0,50 m o 1 m</td></tr>
+<tr><td>11. Corsia pedonale (bianca, continua; 6.19)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza linea e linee oblique</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Larghezza corsia</td><td colspan="2"></td><td>almeno 1,50 m</td></tr>
+<tr><td>– Distanza tra le linee oblique</td><td colspan="2"></td><td>2,50-5 m</td></tr>
+<tr><td>– Inclinazione linee oblique</td><td colspan="2"></td><td>45°</td></tr>
+<tr><td>12. Zona di attesa per velocipedi (6.26)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>almeno 4 m</td></tr>
+<tr><td colspan="4">*B.* *Demarcazioni trasversali*</td></tr>
+<tr><td>1. Linea di arresto (continua; 6.10)</td><td colspan="2"></td><td></td></tr>
+<tr><td>a. In generale</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,50 m</td></tr>
+<tr><td>b. Su corsie ciclabili e ciclopiste</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,30 m</td></tr>
+<tr><td>2. Linea di attesa (serie di triangoli trasversali alla carreggiata; 6.13)</td><td colspan="2"></td><td></td></tr>
+<tr><td>In generale (bianca)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Lunghezza base dei triangoli</td><td colspan="2"></td><td>0,50 m</td></tr>
+<tr><td>– Altezza triangoli</td><td colspan="2"></td><td>0,60 m</td></tr>
+<tr><td>– Distanza tra i triangoli</td><td colspan="2"></td><td>0,25 m</td></tr>
+<tr><td>b. Su corsie ciclabili e ciclopiste (gialla)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Lunghezza base dei triangoli</td><td colspan="2"></td><td>0,50 m o 0,25 m</td></tr>
+<tr><td>– Altezza triangoli</td><td colspan="2"></td><td>0,60 o 0,30 m</td></tr>
+<tr><td>– Distanza tra i triangoli</td><td colspan="2"></td><td>0,25 o 0,125 m</td></tr>
+<tr><td>c. Preannuncio della linea di attesa (bianca; 6.14)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza base dei triangoli</td><td colspan="2"></td><td>0,60 m</td></tr>
+<tr><td>– Lunghezza base dei triangoli</td><td colspan="2"></td><td>1,20 m</td></tr>
+<tr><td>– Spessore linea lato</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Altezza triangoli</td><td colspan="2"></td><td>3,60 m</td></tr>
+<tr><td>3. Passaggi pedonali (serie di linee gialle parallele al margine della carreggiata; 6.17)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza linee</td><td colspan="2"></td><td>0,50 m</td></tr>
+<tr><td>Lunghezza linee</td><td colspan="2"></td><td>almeno 4 m</td></tr>
+<tr><td>Distanza tra le linee</td><td colspan="2"></td><td>0,50 m</td></tr>
+<tr><td>Distanza dal margine della carreggiata</td><td colspan="2"></td><td>al massimo 0,50 m</td></tr>
+<tr><td>5. Doppia linea trasversale (bianca e blu, continua; 6.24)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza di ciascuna linea</td><td colspan="2"></td><td>0,20 m</td></tr>
+<tr><td>Distanza tra le linee</td><td colspan="2"></td><td>al massimo 0,05 m</td></tr>
+<tr><td>6. Uscita di scampo (rossa e bianca; 6.36)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Lunghezza lato di ogni quadrato</td><td colspan="2">1 m</td><td>1 m</td></tr>
+<tr><td>Lunghezza totale</td><td colspan="2">almeno 50 m</td><td></td></tr>
+<tr><td colspan="4">*C.* *Superfici vietate (bianche, tratteggiate e bordate; 6.20)*</td></tr>
+<tr><td>1. In generale</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza linea di contorno</td><td colspan="3">In base a quella della linea di sicurezza o di margine adiacente</td></tr>
+<tr><td>Larghezza linee oblique o ad angolo</td><td colspan="2">1 m</td><td>almeno 0,50 m</td></tr>
+<tr><td>Distanza tra le linee oblique o ad angolo</td><td colspan="2">2 m</td><td>almeno 1 m[^annex1-lvlu1-7]</td></tr>
+<tr><td>2. Linee di guida per interrompere le superfici vietate</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2"></td><td>In base a quella della linea della superficie vietata</td></tr>
+<tr><td>Lunghezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>Distanza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td colspan="4">*D.* *Demarcazioni concernenti la fermata o la sosta dei veicoli*</td></tr>
+<tr><td>1. Posto di parcheggio (bianco, blu, giallo)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza linea</td><td colspan="2"></td><td>0,12 m o 0,15 m</td></tr>
+<tr><td>2. Linea vietante il parcheggio (gialla, intervallata da croci; 6.22)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>Lunghezza</td><td colspan="2"></td><td>3–10 m</td></tr>
+<tr><td>Distanza dal margine della carreggiata</td><td colspan="2"></td><td>0,50–1 m</td></tr>
+<tr><td>Larghezza croce</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>Altezza croce</td><td colspan="2"></td><td>ca. 0,80 m</td></tr>
+<tr><td>Distanza tra linea e croce</td><td colspan="2"></td><td>0,50–1 m</td></tr>
+<tr><td>3. Spazio con divieto di parcheggio (giallo con croce diagonale; 6.23)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza linea</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>Altezza caratteri di scritte</td><td colspan="2"></td><td>1,20 m</td></tr>
+<tr><td>4. Linea vietante la fermata</td><td colspan="2"></td><td></td></tr>
+<tr><td>a. In generale (gialla; continua; 6.25)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza delle linee di delimitazione</td><td colspan="2"></td><td>0,80 m</td></tr>
+<tr><td>– Distanza dal margine della carreggiata</td><td colspan="2"></td><td>0,50–1 m</td></tr>
+<tr><td>b. Prima di passaggio pedonale (gialla, continua; 6.18)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>– Lunghezza</td><td colspan="2"></td><td>almeno 10 m</td></tr>
+<tr><td>– Distanza dal margine della carreggiata</td><td colspan="2"></td><td>0,50–1 m</td></tr>
+<tr><td>5. Linea a zig-zag (gialla; 6.21)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2"></td><td>0,15 m</td></tr>
+<tr><td>Larghezza della superficie delimitata</td><td colspan="2"></td><td>2,50 m o 2 m</td></tr>
+<tr><td colspan="4">*E.* *Frecce*</td></tr>
+<tr><td>1. Frecce di preselezione e frecce direzionali (bianche/gialle; 6.06)</td><td colspan="2"></td><td></td></tr>
+<tr><td>In generale</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Lunghezza totale</td><td colspan="2">8 m</td><td>6 m</td></tr>
+<tr><td>b. Su corsie ciclabili e ciclopiste</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Lunghezza totale</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>2. Frecce di rientro (6.07)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2">2 m</td><td>2 m</td></tr>
+<tr><td>Lunghezza</td><td colspan="2">5 m</td><td>5 m</td></tr>
+<tr><td colspan="4">*F.* *Simboli*</td></tr>
+<tr><td>1. Simbolo «Autostrada» (5.72)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>1,15 m</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td>2 m</td></tr>
+<tr><td>2. Simbolo «Velocipede» (5.31)</td><td colspan="2"></td><td></td></tr>
+<tr><td>a. In generale</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>b. Sulla carreggiata delle zone con limite di velocità massimo di 30 km/h</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>2 m</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td>2 m</td></tr>
+<tr><td>3. Simbolo «Bici cargo» (5.31.1)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2"></td><td>1,10 m</td></tr>
+<tr><td>Altezza</td><td colspan="2"></td><td>0,50 m</td></tr>
+<tr><td>4. Simbolo «Motoveicolo» (5.29)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2"></td><td>1,50 m</td></tr>
+<tr><td>Altezza</td><td colspan="2"></td><td>0,90 m</td></tr>
+<tr><td>5. Simbolo «Pedone» (5.34)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2"></td><td>0,50 m</td></tr>
+<tr><td>Altezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>6. Simbolo «Disabili» (5.34.4)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>0,90 m</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td>1 m</td></tr>
+<tr><td>7. Simbolo «Stazione di ricarica» (5.42)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>1,60 m</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td>0,65 m</td></tr>
+<tr><td>8. Simbolo «Covetturaggio» (5.43)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>2,20 m</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td>3 m</td></tr>
+<tr><td>9. Simbolo «Veicoli a guida automatizzata» (5.44)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2"></td><td>1,50 m</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td></td></tr>
+<tr><td>*G.* *Scritte*</td><td colspan="2"></td><td></td></tr>
+<tr><td>«STOP» (bianca; 6.11)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Altezza caratteri</td><td colspan="2"></td><td>1,20–2 m</td></tr>
+<tr><td>«BUS» (gialla; 6.08)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Altezza caratteri</td><td colspan="2"></td><td>2 m</td></tr>
+<tr><td colspan="4">VII. Delineatori</td></tr>
+<tr><td colspan="2">*A.* *Delineatori temporanei*</td><td></td><td></td></tr>
+<tr><td colspan="2">1. Delineatore flessibile (7.01)</td><td></td><td></td></tr>
+<tr><td colspan="2">– Larghezza</td><td>15–20 cm</td><td>15–20 cm</td></tr>
+<tr><td colspan="2">– Altezza</td><td>70–100 cm [^annex1-lvlu1-8]</td><td>70–100 cm [^annex1-lvlu1-9]</td></tr>
+<tr><td colspan="2">2. Cono (7.02)</td><td></td><td></td></tr>
+<tr><td colspan="2">– Altezza</td><td>75 cm [^annex1-lvlu1-10]</td><td></td></tr>
+<tr><td colspan="2">– Distanza</td><td>al massimo 36 m [^annex1-lvlu1-11]</td><td></td></tr>
+<tr><td colspan="2">3. Paletta segnaletica (7.04)</td><td></td><td></td></tr>
+<tr><td colspan="2">– Diametro</td><td></td><td>60–90 cm</td></tr>
+<tr><td colspan="2">– Altezza</td><td></td><td>200 cm</td></tr>
+<tr><td colspan="4">*B.* *Delineatori permanenti*</td></tr>
+<tr><td>1. Colonnetta direttrice destra (7.05) e sinistra (7.06)</td><td colspan="2"></td><td></td></tr>
+<tr><td>Larghezza</td><td colspan="2">12–14 cm</td><td></td></tr>
+<tr><td>Altezza</td><td colspan="2">ca. 100 cm</td><td></td></tr>
+<tr><td>Altezza strisce nere</td><td colspan="2">31 cm</td><td>25 cm</td></tr>
+<tr><td>2. Freccia direttrice (7.07)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Modulare</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">200 cm</td><td></td></tr>
+<tr><td>– Altezza</td><td colspan="2">50 cm</td><td></td></tr>
+<tr><td>– Semplice</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Quadrata</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Lunghezza lato</td><td colspan="2">90 cm</td><td>70 cm</td></tr>
+<tr><td>– Rettangolare</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">90 cm</td><td>70 cm</td></tr>
+<tr><td>– Altezza</td><td colspan="2">130 cm</td><td>100 cm</td></tr>
+<tr><td>– Graduata</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="3">50 cm, aumento progressivo di 20 cm</td></tr>
+<tr><td>– Altezza</td><td colspan="3">70 cm, aumento progressivo di 30 cm</td></tr>
+<tr><td>3. Colonnette delle isole di traffico (7.08)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Diametro</td><td colspan="2"></td><td>15–20 cm</td></tr>
+<tr><td>– Altezza</td><td colspan="2"></td><td>50–80 cm</td></tr>
+<tr><td>4. Spartitraffico (7.09)</td><td colspan="2"></td><td></td></tr>
+<tr><td>– Larghezza</td><td colspan="2">200 cm</td><td>100 cm</td></tr>
+<tr><td>– Altezza</td><td colspan="2">170 cm</td><td>125 cm</td></tr>
+<tr><td>VIII. Segnali pieghevoli</td><td colspan="3">Per i segnali pieghevoli può sempre essere usato il formato normale.</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: In casi speciali, può essere collocato il segnale formato 70/100 cm risp. 100/70 cm.
@@ -3379,8 +3384,10 @@ Le norme svizzere (SN) menzionate nel presente allegato possono essere richieste
 [^annex1-lvlu1-5]: Come altezza dei caratteri è da intendere l’altezza delle lettere maiuscole.
 [^annex1-lvlu1-6]: Le dimensioni per le strade principali e secondarie valgono anche per le semiautostrade.
 [^annex1-lvlu1-7]: In caso di superfici vietate estese la distanza può essere aumentata.
-[^annex1-lvlu1-8]: In casi particolari si possono utilizzare delineatori in formato 10–16 cm.
-[^annex1-lvlu1-9]: In casi particolari si possono utilizzare delineatori in formato massimo di 30 cm.
+[^annex1-lvlu1-8]: In casi particolari, come in presenza di scambi di carreggiata, uscite ecc., si possono utilizzare delineatori flessibili di 40–50 cm di altezza.
+[^annex1-lvlu1-9]: Sui guardrail si possono fissare delineatori flessibili di 35–50 cm di altezza.
+[^annex1-lvlu1-10]: In caso di interventi del servizio antincendio, del servizio sanitario, della polizia e del servizio doganale si possono utilizzare coni di 50 cm di altezza.
+[^annex1-lvlu1-11]: In casi particolari, come in presenza di scambi di carreggiata, uscite ecc., si deve ridurre la distanza.
 
 Allegato 2[^t-3]
 
@@ -3397,26 +3404,26 @@ Allegato 2[^t-3]
 ### a. Pericoli inerenti alla strada (art. 4–10)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image4.png) **1.01** Curva a destra (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image5.png) **1.02** Curva a sinistra (art. 4)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image6.png) **1.03** Doppia curva, la prima a destra (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image7.png) **1.04** Doppia curva, la prima a sinistra (art. 4)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image8.png) **1.05** Strada sdrucciolevole (art. 5)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image9.png) **1.06** Cunetta (art. 6)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image10.png) **1.07** Strada stretta (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image11.png) **1.08** Restringimento a destra (art. 7)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image12.png) **1.09** Restringimento a sinistra (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image13.png) **1.10** Discesa pericolosa (art. 8)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image14.png) **1.11** Salita ripida (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image15.png) **1.12** Ghiaia (art. 8)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image16.png) **1.13** Caduta di sassi (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image17.png) **1.14** Lavori (art. 9)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image18.png) **1.15** Barriere (art. 10)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image19.png) **1.16** Passaggio a livello senza barriere (art. 10)</td></tr>
-<tr><td>**1.17** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image20.png) **1.18** Tram (art. 10)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image4.png) **1.01** Curva a destra (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image5.png) **1.02** Curva a sinistra (art. 4)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image6.png) **1.03** Doppia curva, la prima a destra (art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image7.png) **1.04** Doppia curva, la prima a sinistra (art. 4)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image8.png) **1.05** Strada sdrucciolevole (art. 5)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image9.png) **1.06** Cunetta (art. 6)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image10.png) **1.07** Strada stretta (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image11.png) **1.08** Restringimento a destra (art. 7)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image12.png) **1.09** Restringimento a sinistra (art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image13.png) **1.10** Discesa pericolosa (art. 8)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image14.png) **1.11** Salita ripida (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image15.png) **1.12** Ghiaia (art. 8)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image16.png) **1.13** Caduta di sassi (art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image17.png) **1.14** Lavori (art. 9)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image18.png) **1.15** Barriere (art. 10)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image19.png) **1.16** Passaggio a livello senza barriere (art. 10)</td></tr>
+<tr><td>**1.17** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image20.png) **1.18** Tram (art. 10)</td></tr>
 </table>
 
 ### b. Altri pericoli (art. 11–15)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image21.png) **1.22** Pedoni (art. 11)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image22.png) **1.23** Bambini (art. 11)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image23.png) **1.24** Passaggio di selvaggina (art. 12)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image24.png) **1.25** Animali (art. 12)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image25.png) **1.26** Traffico in senso inverso (art. 13)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image26.png) **1.27** Segnali luminosi (art. 14)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image27.png) **1.28** Velivoli (art. 14)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image28.png) **1.29** Elicotteri (art. 14)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image29.png) **1.30** Altri pericoli (art. 15)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image30.png) **1.31** Colonna (art. 14)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image31.png) **1.32** Ciclisti (art. 11)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image21.png) **1.22** Pedoni (art. 11)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image22.png) **1.23** Bambini (art. 11)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image23.png) **1.24** Passaggio di selvaggina (art. 12)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image24.png) **1.25** Animali (art. 12)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image25.png) **1.26** Traffico in senso inverso (art. 13)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image26.png) **1.27** Segnali luminosi (art. 14)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image27.png) **1.28** Velivoli (art. 14)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image28.png) **1.29** Elicotteri (art. 14)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image29.png) **1.30** Altri pericoli (art. 15)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image30.png) **1.31** Colonna (art. 14)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image31.png) **1.32** Ciclisti (art. 11)</td><td></td></tr>
 </table>
 
 ### 2. Segnali di prescrizione (art. 2*a*, 16–34 e 69)
@@ -3424,57 +3431,57 @@ Allegato 2[^t-3]
 ### a. Divieti di circolazione, limitazioni delle dimensioni e del peso (art. 18–21)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image32.png) **2.01** Divieto generale di circolazione nelle due direzioni (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image33.png) **2.02** Divieto di accesso (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image34.png) **2.03** Divieto di circo- lazione per gli autoveicoli (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image35.png) **2.04** Divieto di circolazione per i motoveicoli (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image36.png) **2.05** Divieto di circolazione per i velocipedi e i ciclomotori (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image37.png) **2.06** Divieto di circolazione per i ciclo-motori (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image38.png) **2.07** Divieto di circolazione per gli autocarri (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image39.png) **2.08** Divieto di circolazione per gli autobus (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image40.png) **2.09** Divieto di circolazione per i rimorchi (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image41.png) **2.09.1** Divieto di circolazione per i rimorchi, eccettuati i semirimorchi e i rimorchi ad asse centrale (art. 19)</td><td>**2.10** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image42.png) **2.10.1** Divieto di circolazione per i veicoli che trasportano merci pericolose (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image43.png) **2.11** Divieto di circolazione per i veicoli il cui carico può inquinare le acque (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image44.png) **2.12** Divieto di circolazione per gli animali (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image45.png) **2.13** Divieto di circolazione per gli autoveicoli e i motoveicoli (esempio) (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image46.png) **2.14** Divieto di circolazione per gli autoveicoli i motoveicoli e i ciclomotori (esempio) (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image47.png) **2.15** Accesso vietato ai pedoni (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image48.png) **2.15.1** Divieto di sciare (art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image49.png) **2.15.2** Divieto di slittare (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image50.png) **2.15.3** Divieto di circolazione per mezzi simili a veicoli (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image51.png) **2.16** Peso massimo (art. 20)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image52.png) **2.17** Pressione sull’asse (art. 20)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image53.png) **2.18** Larghezza massima (art. 21)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image54.png) **2.19** Altezza massima (art. 21)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image55.png) **2.20** Lunghezza massima (art. 21)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image32.png) **2.01** Divieto generale di circolazione nelle due direzioni (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image33.png) **2.02** Divieto di accesso (art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image34.png) **2.03** Divieto di circo- lazione per gli autoveicoli (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image35.png) **2.04** Divieto di circolazione per i motoveicoli (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image36.png) **2.05** Divieto di circolazione per i velocipedi e i ciclomotori (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image37.png) **2.06** Divieto di circolazione per i ciclo-motori (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image38.png) **2.07** Divieto di circolazione per gli autocarri (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image39.png) **2.08** Divieto di circolazione per gli autobus (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image40.png) **2.09** Divieto di circolazione per i rimorchi (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image41.png) **2.09.1** Divieto di circolazione per i rimorchi, eccettuati i semirimorchi e i rimorchi ad asse centrale (art. 19)</td><td>**2.10** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image42.png) **2.10.1** Divieto di circolazione per i veicoli che trasportano merci pericolose (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image43.png) **2.11** Divieto di circolazione per i veicoli il cui carico può inquinare le acque (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image44.png) **2.12** Divieto di circolazione per gli animali (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image45.png) **2.13** Divieto di circolazione per gli autoveicoli e i motoveicoli (esempio) (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image46.png) **2.14** Divieto di circolazione per gli autoveicoli i motoveicoli e i ciclomotori (esempio) (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image47.png) **2.15** Accesso vietato ai pedoni (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image48.png) **2.15.1** Divieto di sciare (art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image49.png) **2.15.2** Divieto di slittare (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image50.png) **2.15.3** Divieto di circolazione per mezzi simili a veicoli (art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image51.png) **2.16** Peso massimo (art. 20)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image52.png) **2.17** Pressione sull’asse (art. 20)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image53.png) **2.18** Larghezza massima (art. 21)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image54.png) **2.19** Altezza massima (art. 21)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image55.png) **2.20** Lunghezza massima (art. 21)</td></tr>
 </table>
 
 ### b. Prescrizioni per i veicoli in movimento e limitazioni del parcheggio (art. 2*a* e 22–32)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image56.png) **2.30** Velocità massima (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image57.png) **2.30.1** Velocità massima 50, Limite generale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image58.png) **2.31** Velocità minima (art. 23)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image59.png) **2.32** Direzione obbligatoria a destra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image60.png) **2.33** Direzione obbligatoria a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image61.png) **2.34** Ostacolo da scansare a destra (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image62.png) **2.35** Ostacolo da scansare a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image63.png) **2.36** Circolare diritto (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image64.png) **2-37** Svoltare a destra (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image65.png) **2.38** Svoltare a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image66.png) **2.39** Svoltare a destra o a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image67.png) **2.40** Circolare diritto o svoltare a destra (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image68.png) **2.41** Circolare diritto o svoltare a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image69.png) **2.41.1** Area con percorso rotatorio obbligato (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image70.png) **2.41.2** Direzione obbligatoria per i veicoli che trasportano merci pericolose (esempio) (art. 24)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image71.png) **2.42** Divieto di svoltare a destra (art. 25)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image72.png) **2.43** Divieto di svoltare a sinistra (art. 25)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image73.png) **2.44** Divieto di sorpasso (art. 26)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image74.png) **2.45** Divieto di sorpasso per gli autocarri (art. 26)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image75.png) **2.46** Divieto d’inversione (art. 27)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image76.png) **2.47** Intervallo minimo (art. 28)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image77.png) **2.48** Catene per la neve obbligatorie (art. 29)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image78.png) **2.49** Divieto di fermata (art. 30)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image79.png) **2.50** Divieto di parcheggio (art. 30)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image80.png) **2.51** Fermata al posto di dogana (art. 31)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image81.png) **2.52** Polizia (art. 31)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image82.png) **2.53** Fine della velocità massima (art. 32)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image83.png) **2.53.1** Fine della velocità massima 50, Limite generale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image84.png) **2.54** Fine della velocità minima (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image85.png) **2.55** Fine del divieto di sorpasso (art. 32)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image86.png) **2.56** Fine del divieto di sorpasso per gli autocarri (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image87.png) **2.56.1** Fine del divieto parziale di circolazione (esempio) (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image88.png) **2.57** Fine dell’obbligo di utilizzare le catene per la neve (art. 32)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image89.png) **2.58** Via libera (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image90.png) **2.59.1** Segnale per zone (ad es. limite di velocità massima di 30 km/h) (art. 2*a* e 22*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image91.png) **2.59.2** Fine del segnale per zone (ad es. limite di velocità massimo di 30 km/h) (art. 2*a*)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image92.png) **2.59.3** Zona pedonale (art. 2*a* e 22*c*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image93.png) **2.59.4** Fine della zona pedonale (art. 2*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image94.png) **2.59.5** Zona d’incontro (art. 2a e 22b)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image95.png) **2.59.6** Fine della zona d’incontro (art. 2*a*)</td><td colspan="3"></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image56.png) **2.30** Velocità massima (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image57.png) **2.30.1** Velocità massima 50, Limite generale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image58.png) **2.31** Velocità minima (art. 23)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image59.png) **2.32** Direzione obbligatoria a destra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image60.png) **2.33** Direzione obbligatoria a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image61.png) **2.34** Ostacolo da scansare a destra (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image62.png) **2.35** Ostacolo da scansare a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image63.png) **2.36** Circolare diritto (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image64.png) **2-37** Svoltare a destra (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image65.png) **2.38** Svoltare a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image66.png) **2.39** Svoltare a destra o a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image67.png) **2.40** Circolare diritto o svoltare a destra (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image68.png) **2.41** Circolare diritto o svoltare a sinistra (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image69.png) **2.41.1** Area con percorso rotatorio obbligato (art. 24)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image70.png) **2.41.2** Direzione obbligatoria per i veicoli che trasportano merci pericolose (esempio) (art. 24)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image71.png) **2.42** Divieto di svoltare a destra (art. 25)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image72.png) **2.43** Divieto di svoltare a sinistra (art. 25)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image73.png) **2.44** Divieto di sorpasso (art. 26)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image74.png) **2.45** Divieto di sorpasso per gli autocarri (art. 26)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image75.png) **2.46** Divieto d’inversione (art. 27)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image76.png) **2.47** Intervallo minimo (art. 28)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image77.png) **2.48** Catene per la neve obbligatorie (art. 29)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image78.png) **2.49** Divieto di fermata (art. 30)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image79.png) **2.50** Divieto di parcheggio (art. 30)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image80.png) **2.51** Fermata al posto di dogana (art. 31)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image81.png) **2.52** Polizia (art. 31)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image82.png) **2.53** Fine della velocità massima (art. 32)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image83.png) **2.53.1** Fine della velocità massima 50, Limite generale (art. 22)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image84.png) **2.54** Fine della velocità minima (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image85.png) **2.55** Fine del divieto di sorpasso (art. 32)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image86.png) **2.56** Fine del divieto di sorpasso per gli autocarri (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image87.png) **2.56.1** Fine del divieto parziale di circolazione (esempio) (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image88.png) **2.57** Fine dell’obbligo di utilizzare le catene per la neve (art. 32)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image89.png) **2.58** Via libera (art. 32)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image90.png) **2.59.1** Segnale per zone (ad es. limite di velocità massima di 30 km/h) (art. 2*a* e 22*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image91.png) **2.59.2** Fine del segnale per zone (ad es. limite di velocità massimo di 30 km/h) (art. 2*a*)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image92.png) **2.59.3** Zona pedonale (art. 2*a* e 22*c*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image93.png) **2.59.4** Fine della zona pedonale (art. 2*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image94.png) **2.59.5** Zona d’incontro (art. 2a e 22b)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image95.png) **2.59.6** Fine della zona d’incontro (art. 2*a*)</td><td colspan="3"></td></tr>
 </table>
 
 ### c. Strade speciali, carreggiate riservate agli autobus (art. 33–34), sistema di segnali luminosi per la regolazione temporanea delle corsie (art. 69)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image96.png) **2.60** Ciclopista (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image97.png) **2.60.1** Fine della ciclopista (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image98.png) **2.61**Strada pedonale (art. 33)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image99.png) **2.62** Strada per cavalli da sella (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image100.png) **2.63** Ciclopista e strada pedonale divise per categoria (esempio) (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image101.png) **2.63.1** Ciclopista e strada pedonale (esempio) (art. 33)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image102.png) **2.64** Carreggiata riservata agli autobus (art. 34)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image103.png) **2.65** Sistema di segnali luminosi per la regolazione temporanea delle corsie</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image96.png) **2.60** Ciclopista (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image97.png) **2.60.1** Fine della ciclopista (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image98.png) **2.61**Strada pedonale (art. 33)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image99.png) **2.62** Strada per cavalli da sella (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image100.png) **2.63** Ciclopista e strada pedonale divise per categoria (esempio) (art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image101.png) **2.63.1** Ciclopista e strada pedonale (esempio) (art. 33)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image102.png) **2.64** Carreggiata riservata agli autobus (art. 34)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image103.png) **2.65** Sistema di segnali luminosi per la regolazione temporanea delle corsie</td></tr>
 </table>
 
 ### 3. Segnali di precedenza (art. 35–43, art. 93)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image104.png) **3.01** Stop (art. 36)</td><td colspan="2">**3.011** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image105.png) **3.02** Dare precedenza (art. 36)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image106.png) **3.03** Strada principale (art. 37)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image107.png) **3.04** Fine della strada principale (art. 38)</td><td></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image108.png) **3.05** Intersezione con strada senza precedenza (art. 39)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image109.png) **3.06** Intersezione con precedenza da destra (art. 40)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image104.png) **3.01** Stop (art. 36)</td><td colspan="2">**3.011** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image105.png) **3.02** Dare precedenza (art. 36)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image106.png) **3.03** Strada principale (art. 37)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image107.png) **3.04** Fine della strada principale (art. 38)</td><td></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image108.png) **3.05** Intersezione con strada senza precedenza (art. 39)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image109.png) **3.06** Intersezione con precedenza da destra (art. 40)</td></tr>
 <tr><td colspan="2">**3.07** …</td><td colspan="2">**3.08** …</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image110.png)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image111.png)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image110.png)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image111.png)</td></tr>
 <tr><td colspan="2">**3.09** Lasciar passare i veicoli provenienti in senso inverso (art. 42)</td><td colspan="2">**3.10** Precedenza rispetto al traffico inverso (art. 42)</td></tr>
 <tr><td colspan="2">**3.11** …</td><td colspan="2">**3.12** …</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image112.png) **3.20** Segnale con luci lampeggianti alternativamente (art. 93)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image113.png) **3.21** Segnale semplice a luci intermittenti (art. 93)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image114.png) **3.22** Croce di Sant’Andrea (art. 93)</td><td colspan="2">**3.23** …</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image115.png) **3.24** Croce di Sant’Andrea (art. 93)</td><td colspan="2">**3.25** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image112.png) **3.20** Segnale con luci lampeggianti alternativamente (art. 93)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image113.png) **3.21** Segnale semplice a luci intermittenti (art. 93)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image114.png) **3.22** Croce di Sant’Andrea (art. 93)</td><td colspan="2">**3.23** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image115.png) **3.24** Croce di Sant’Andrea (art. 93)</td><td colspan="2">**3.25** …</td></tr>
 </table>
 
 ### 4. Segnali di indicazione (art. 44–62 e 84–91)
@@ -3482,83 +3489,83 @@ Allegato 2[^t-3]
 ### a. Segnali indicanti norme di comportamento (art. 44–48 e 54)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image116.png) **4.01** Autostrada (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image117.png) **4.02** Fine dell’autostrada (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image118.png) **4.03** Semiautostrada (art. 45)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image119.png) **4.04** Fine della semi- autostrada (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image120.png) **4.05** Strada postale di montagna (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image121.png) **4.06** Fine della strada postale di montagne (art. 45)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image122.png) **4.07** Galleria (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image123.png) **4.08** Senso unico (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image124.png) **4.08.1** Senso unico con circolazione di ciclisti in senso in verso (esempio) (art. 46)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image125.png) **4.09** Strada senza uscita (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image126.png) **4.09.1** Strada senza uscita con eccezioni (esempio) (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image127.png) **4.10** Zona di protezione delle acque (art. 46)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image128.png) **4.11** Ubicazione di un passaggio pedonale (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image129.png) **4.12** Sottopassaggio pedonale (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image130.png) **4.13** Cavalcavia pedonale (art. 47)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image131.png) **4.14** Ospedale (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image132.png) **4.15** Piazzuola (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image133.png) **4.16** Posto di fermata per veicoli in panna (art. 47)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image134.png) **4.17** Parcheggio (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image135.png) **4.18** Parcheggio con disco (art. 48)</td><td>**4.19** …</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image136.png) **4.20** Parcheggio contro pagamento (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image137.png) **4.21** Parcheggio coperto (art. 48)</td><td>**4.22** …</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image138.png) **4.23** Segnale avanzato per determinate categorie di veicoli (ad es. autocarri) (art. 54)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image139.png) **4.24** Uscita di scampo (esempio) (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image140.png) **4.25** Parcheggio con collegamento a un mezzo di trasporto pubblico (esempio) (art. 48)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image116.png) **4.01** Autostrada (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image117.png) **4.02** Fine dell’autostrada (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image118.png) **4.03** Semiautostrada (art. 45)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image119.png) **4.04** Fine della semi- autostrada (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image120.png) **4.05** Strada postale di montagna (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image121.png) **4.06** Fine della strada postale di montagne (art. 45)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image122.png) **4.07** Galleria (art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image123.png) **4.08** Senso unico (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image124.png) **4.08.1** Senso unico con circolazione di ciclisti in senso in verso (esempio) (art. 46)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image125.png) **4.09** Strada senza uscita (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image126.png) **4.09.1** Strada senza uscita con eccezioni (esempio) (art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image127.png) **4.10** Zona di protezione delle acque (art. 46)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image128.png) **4.11** Ubicazione di un passaggio pedonale (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image129.png) **4.12** Sottopassaggio pedonale (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image130.png) **4.13** Cavalcavia pedonale (art. 47)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image131.png) **4.14** Ospedale (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image132.png) **4.15** Piazzuola (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image133.png) **4.16** Posto di fermata per veicoli in panna (art. 47)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image134.png) **4.17** Parcheggio (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image135.png) **4.18** Parcheggio con disco (art. 48)</td><td>**4.19** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image136.png) **4.20** Parcheggio contro pagamento (art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image137.png) **4.21** Parcheggio coperto (art. 48)</td><td>**4.22** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image138.png) **4.23** Segnale avanzato per determinate categorie di veicoli (ad es. autocarri) (art. 54)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image139.png) **4.24** Uscita di scampo (esempio) (art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image140.png) **4.25** Parcheggio con collegamento a un mezzo di trasporto pubblico (esempio) (art. 48)</td></tr>
 </table>
 
 ### b. Segnaletica di direzione su strade principali e secondarie (art. 49–56)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image141.png) **4.27** Inizio della località sulle strade principali (art. 50)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image142.png) **4.28** Fine della località sulle strade principali (art. 50)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image143.png) **4.29** Inizio della località sulle strade secondarie (art. 50)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image144.png) **4.30** Fine della località sulle strade secondarie (art. 50)</td><td colspan="6"></td><td colspan="3"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image145.png) **4.31** Indicatore di direzione per le autostrade e semiautostrade (art. 57)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image146.png) **4.32** Indicatore di direzione per le strade principali (art. 51)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image147.png) **4.33** Indicatore di direzione per strade secondarie (art. 51)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image148.png) **4.34** Indicatore di direzione per deviazioni (art. 55)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image149.png) **4.34.1** Indicatore di direzione per deviazione senza menzione del luogo di destinazione (art. 55)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image150.png) **4.35** Indicatore di direzione a forma di tabella (art. 51)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image151.png) **4.36** Segnale di preavviso su strada principale (art. 52)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image152.png) **4.37** Segnale di preavviso su strada seconda (art. 52)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image153.png)</td><td colspan="7"></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image141.png) **4.27** Inizio della località sulle strade principali (art. 50)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image142.png) **4.28** Fine della località sulle strade principali (art. 50)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image143.png) **4.29** Inizio della località sulle strade secondarie (art. 50)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image144.png) **4.30** Fine della località sulle strade secondarie (art. 50)</td><td colspan="6"></td><td colspan="3"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image145.png) **4.31** Indicatore di direzione per le autostrade e semiautostrade (art. 57)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image146.png) **4.32** Indicatore di direzione per le strade principali (art. 51)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image147.png) **4.33** Indicatore di direzione per strade secondarie (art. 51)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image148.png) **4.34** Indicatore di direzione per deviazioni (art. 55)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image149.png) **4.34.1** Indicatore di direzione per deviazione senza menzione del luogo di destinazione (art. 55)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image150.png) **4.35** Indicatore di direzione a forma di tabella (art. 51)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image151.png) **4.36** Segnale di preavviso su strada principale (art. 52)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image152.png) **4.37** Segnale di preavviso su strada seconda (art. 52)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image153.png)</td><td colspan="7"></td></tr>
 <tr><td colspan="9">**4.38** Segnale di preavviso con suddivisione delle corsie sulle strade principali (esempi) (art. 52)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image156.png) **4.39** Segnale di preavviso con ripartizione delle corsie su strada secondarie (art. 52)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image157.png) **4.40** Segnale di preavviso annunciante una limitazione (art. 52)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image158.png) **4.41** Cartello di preselezione collocato al di sopra di una corsia su strada principale (art. 53)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image159.png) **4.42** Cartello di preselezione collocato al di sopra di una corsia su strada secondaria (art. 53)</td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image156.png) **4.39** Segnale di preavviso con ripartizione delle corsie su strada secondarie (art. 52)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image157.png) **4.40** Segnale di preavviso annunciante una limitazione (art. 52)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image158.png) **4.41** Cartello di preselezione collocato al di sopra di una corsia su strada principale (art. 53)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image159.png) **4.42** Cartello di preselezione collocato al di sopra di una corsia su strada secondaria (art. 53)</td></tr>
 <tr><td colspan="4">**4.43** …</td><td colspan="6"></td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image160.png) **4.45** Indicatore di direzione per determinate categorie di veicoli (ad es. autocarri) (art. 54)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image161.png) **4.46** Indicatore di direzione «Parcheggio» (art. 54)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image162.png) **4.46.1** Indicatore di direzione «Parcheggio con collegamento a un mezzo di trasporto pubblico» (esempio) (art. 54)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image163.png) **4.47** Indicatore di direzione «Campeggio» (art. 54)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image164.png) **4.48** Indicatore di direzione «Terreno per veicoli abitabili» (art. 54)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image165.png) **4.49** Indicatore di direzione per aziende (art. 54)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image160.png) **4.45** Indicatore di direzione per determinate categorie di veicoli (ad es. autocarri) (art. 54)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image161.png) **4.46** Indicatore di direzione «Parcheggio» (art. 54)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image162.png) **4.46.1** Indicatore di direzione «Parcheggio con collegamento a un mezzo di trasporto pubblico» (esempio) (art. 54)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image163.png) **4.47** Indicatore di direzione «Campeggio» (art. 54)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image164.png) **4.48** Indicatore di direzione «Terreno per veicoli abitabili» (art. 54)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image165.png) **4.49** Indicatore di direzione per aziende (art. 54)</td></tr>
 <tr><td colspan="4">**4.49.1** Indicatore di direzione per alberghi (esempio) (art. 54)</td><td colspan="6">**4.50** …</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image168.png) **4.50.1** Indicatore di direzione per velocipedi e ciclomotori (esempio) (art. 54*a*)</td><td colspan="6">**4.50.2** …</td></tr>
-<tr><td colspan="4">**4.50.3** Indicatore di direzione per mountain bike (esempio) (art. 54*a*)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image171.png) **4.50.4** Indicatore di direzione per mezzi simili a veicoli (esempio) (art. 54*a*)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image172.png) **4.50.5** Indicatore di direzione a forma di tabella per una sola cerchia di utilizzatori (Esempio) (art. 54*a*)</td><td colspan="6">**4.50.6** Indicatore di direzione a forma di tabella per più cerchie di utilizzatori (esempio) (art. 54*a*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image168.png) **4.50.1** Indicatore di direzione per velocipedi e ciclomotori (esempio) (art. 54*a*)</td><td colspan="6">**4.50.2** …</td></tr>
+<tr><td colspan="4">**4.50.3** Indicatore di direzione per mountain bike (esempio) (art. 54*a*)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image171.png) **4.50.4** Indicatore di direzione per mezzi simili a veicoli (esempio) (art. 54*a*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image172.png) **4.50.5** Indicatore di direzione a forma di tabella per una sola cerchia di utilizzatori (Esempio) (art. 54*a*)</td><td colspan="6">**4.50.6** Indicatore di direzione a forma di tabella per più cerchie di utilizzatori (esempio) (art. 54*a*)</td></tr>
 <tr><td colspan="4">**4.51** …</td><td colspan="6">**4.51.1** Indicatore di direzione senza destinazione (esempio) (art. 54*a*)</td></tr>
 <tr><td colspan="4">**4.51.2** Segnale di preavviso senza destinazione (esempio) (art. 54*a*)</td><td colspan="6">**4.51.3** Cartello di conferma (esempio) (art. 54*a*)</td></tr>
-<tr><td colspan="4">**4.51.4** Cartello di fine percorso per mountain bike (art. 54*a*)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image183.png) **4.51.5** Segnale di preavviso per velocipedi, ciclomotori e mezzi simili a veicoli (esempio) (art. 54*a*)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image184.png) **4.52** Guida del traffico (art. 54)</td><td colspan="6">**4.52.1** Indicatore di direzione per reti pedonali (esempio) (art. 54*b*)</td></tr>
+<tr><td colspan="4">**4.51.4** Cartello di fine percorso per mountain bike (art. 54*a*)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image183.png) **4.51.5** Segnale di preavviso per velocipedi, ciclomotori e mezzi simili a veicoli (esempio) (art. 54*a*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image184.png) **4.52** Guida del traffico (art. 54)</td><td colspan="6">**4.52.1** Indicatore di direzione per reti pedonali (esempio) (art. 54*b*)</td></tr>
 <tr><td colspan="4">**4.52.2** Indicatore di direzione per sentieri (esempio) (art. 54*b*)</td><td colspan="6">**4.52.3** Indicatore di direzione per sentieri di montagna (esempio) (art. 54*b*)</td></tr>
 <tr><td colspan="4">**4.52.4** Indicatore di direzione per sentieri alpini (esempio) (art. 54*b*)</td><td colspan="6">**4.52.5** Cartello di conferma percorso pedonale e sentiero (esempi) (art. 54*b*)</td></tr>
 <tr><td colspan="4">**4.52.6** Indicatore di direzione turistico (esempio) (art. 54*c*)</td><td colspan="6">**4.52.7** Cartello di simboli turistici (esempio) (art. 54*c*)</td></tr>
-<tr><td colspan="4">**4.52.8** Cartello di indicazione turistico (esempio) (art. 54*c*)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image201.png) **4.53** Segnale di preavviso annunciante una deviazione (art. 55)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image202.png) **4.54** Segnale di preavviso presso aree con percorso rotatorio obbligato (esempio) (art. 52)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image203.png) **4.55** Strada laterale che implica un pericolo o una restrizione (art. 54)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image204.png) **4.56** Segnale di identificazione per le strade europee (art. 56)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image205.png) **4.57** Segnale di identificazione per le strade principali (art. 56)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image206.png) **4.58** Segnale di identificazione per autostrade e semi-autostrade (art. 56)</td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image207.png) **4.59** Segnale di identificazione per raccordi (art. 56)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image208.png) **4.59.1** Segnale di identificazione per diramazioni (art.56)</td></tr>
+<tr><td colspan="4">**4.52.8** Cartello di indicazione turistico (esempio) (art. 54*c*)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image201.png) **4.53** Segnale di preavviso annunciante una deviazione (art. 55)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image202.png) **4.54** Segnale di preavviso presso aree con percorso rotatorio obbligato (esempio) (art. 52)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image203.png) **4.55** Strada laterale che implica un pericolo o una restrizione (art. 54)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image204.png) **4.56** Segnale di identificazione per le strade europee (art. 56)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image205.png) **4.57** Segnale di identificazione per le strade principali (art. 56)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image206.png) **4.58** Segnale di identificazione per autostrade e semi-autostrade (art. 56)</td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image207.png) **4.59** Segnale di identificazione per raccordi (art. 56)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image208.png) **4.59.1** Segnale di identificazione per diramazioni (art.56)</td></tr>
 </table>
 
 ### c. Segnaletica di direzione su autostrade e semiautostrade (art. 84–89*b*)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image209.png) **4.60** Cartello preannunciante il prossimo raccordo (art. 86)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image210.png) **4.61** Segnale di preavviso ai raccordi (art. 86)</td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image211.png) **4.62** Indicatore di direzione ai raccordi (art. 86)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image212.png) **4.63** Indicatore d’uscita (art. 86)</td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image213.png) **4.64** Cartello di biforcazione (art. 86 e 87)</td><td colspan="2"></td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image214.png) **4.65** Cartello delle distanze in chilometri (art. 86 e 87)</td><td colspan="2"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image215.png) **4.66** Cartello di diramazione (art. 87)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image216.png) **4.67** Primo segnale di preavviso alle diramazioni (art. 87)</td></tr>
-<tr><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image217.png) **4.68** Secondo segnale di preavviso alle diramazioni (art. 87)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image218.png) **4.69** Cartello di preselezione collocato al di sopra di una corsia su autostrada o semi-autostrada (art. 86 e 87)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image219.png) **4.70** Colonnina SOS (art. 89*a*)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image220.png) **4.71** Centro di polizia (art. 89*a*)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image221.png) **4.72** Cartello indicante i chilometri (art. 89*a*)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image222.png) **4.73** Cartello indicante gli ettometri (art. 89*a*)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image223.png) **4.74** Area di servizio (esempio) (art. 89)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image224.png) **4.74.1** Cartello turistico di annuncio (esempio) (art. 89*b*)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image225.png) **4.74.2** Cartello turistico di benvenuto (esempio) (art. 89*b*)</td><td colspan="3"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image209.png) **4.60** Cartello preannunciante il prossimo raccordo (art. 86)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image210.png) **4.61** Segnale di preavviso ai raccordi (art. 86)</td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image211.png) **4.62** Indicatore di direzione ai raccordi (art. 86)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image212.png) **4.63** Indicatore d’uscita (art. 86)</td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image213.png) **4.64** Cartello di biforcazione (art. 86 e 87)</td><td colspan="2"></td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image214.png) **4.65** Cartello delle distanze in chilometri (art. 86 e 87)</td><td colspan="2"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image215.png) **4.66** Cartello di diramazione (art. 87)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image216.png) **4.67** Primo segnale di preavviso alle diramazioni (art. 87)</td></tr>
+<tr><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image217.png) **4.68** Secondo segnale di preavviso alle diramazioni (art. 87)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image218.png) **4.69** Cartello di preselezione collocato al di sopra di una corsia su autostrada o semi-autostrada (art. 86 e 87)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image219.png) **4.70** Colonnina SOS (art. 89*a*)</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image220.png) **4.71** Centro di polizia (art. 89*a*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image221.png) **4.72** Cartello indicante i chilometri (art. 89*a*)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image222.png) **4.73** Cartello indicante gli ettometri (art. 89*a*)</td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image223.png) **4.74** Area di servizio (esempio) (art. 89)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image224.png) **4.74.1** Cartello turistico di annuncio (esempio) (art. 89*b*)</td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image225.png) **4.74.2** Cartello turistico di benvenuto (esempio) (art. 89*b*)</td><td colspan="3"></td></tr>
 </table>
 
 ### d. Informazioni (art. 57–62, 89*a*)
 
 <table>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image226.png) **4.75** Stato delle strade (art. 58)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image227.png) **4.76** Preavviso sullo stato delle strade (art. 58)</td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image226.png) **4.75** Stato delle strade (art. 58)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image227.png) **4.76** Preavviso sullo stato delle strade (art. 58)</td></tr>
 <tr><td colspan="10">**4.77** Disposizione delle corsie (esempi) (art. 59)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image234.png) **4.77.1** Disposizione delle corsie con restrizioni (esempio) (art. 59)[^annex2-lvlu1-lvl4-lvld-1]</td><td colspan="3"></td><td colspan="4"></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image235.png)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image236.png)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image237.png)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image234.png) **4.77.1** Disposizione delle corsie con restrizioni (esempio) (art. 59)[^annex2-lvlu1-lvl4-lvld-1]</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image235.png)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image236.png)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image237.png)</td></tr>
 <tr><td colspan="11">**4.77.2** Apertura della corsia di emergenza (esempi) (art. 59)</td></tr>
-<tr><td colspan="2"></td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image240.png)</td><td colspan="4"></td></tr>
+<tr><td colspan="2"></td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image240.png)</td><td colspan="4"></td></tr>
 <tr><td colspan="7">**4.77.3** Disposizione delle corsie in corrispondenza di cantieri (esempi) (art. 59)</td><td colspan="4">**4.77.4** Deviazione di corsie (art. 59)</td></tr>
-<tr><td colspan="4">**4.78** …</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image243.png) **4.79** Segnale riportante informazioni (esempio) (art. 62)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image244.png)</td><td colspan="10"></td></tr>
+<tr><td colspan="4">**4.78** …</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image243.png) **4.79** Segnale riportante informazioni (esempio) (art. 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image244.png)</td><td colspan="10"></td></tr>
 <tr><td colspan="11">**4.80** Telefono di emergenza (esempi) (art. 62)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image247.png) **4.81** Rifornimento incluso carburante alternativo (esempio) (art. 62)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image248.png) **4.82** Bollettino radio sulle condizioni del traffico (art. 89*a*)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image249.png) **4.83** Veicoli a guida automatizzata</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image250.png) **4.84** Funzioni religiose (art. 62)</td><td colspan="3">**4.85–4.92** ...</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image251.png) **4.93** Informazioni sui limiti generali di velocità (art. 61)</td><td colspan="3"></td><td colspan="4"></td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image252.png) **4.94** Direzione della prossima uscita di sicurezza e distanza da essa (art. 62)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image253.png) **4.95** Uscita di sicurezza (art. 62)</td><td colspan="2"></td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image247.png) **4.81** Rifornimento incluso carburante alternativo (esempio) (art. 62)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image248.png) **4.82** Bollettino radio sulle condizioni del traffico (art. 89*a*)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image249.png) **4.83** Veicoli a guida automatizzata</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image250.png) **4.84** Funzioni religiose (art. 62)</td><td colspan="3">**4.85–4.92** …</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image251.png) **4.93** Informazioni sui limiti generali di velocità (art. 61)</td><td colspan="3"></td><td colspan="4"></td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image252.png) **4.94** Direzione della prossima uscita di sicurezza e distanza da essa (art. 62)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image253.png) **4.95** Uscita di sicurezza (art. 62)</td><td colspan="2"></td></tr>
 </table>
 
 [^annex2-lvlu1-lvl4-lvld-1]: [RU 1980 447](https://fedlex.data.admin.ch/eli/oc/1980/449_449_447)
@@ -3568,37 +3575,37 @@ Allegato 2[^t-3]
 ### a. Indicazioni che completano i segnali
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image254.png) **5.01** Cartello di distanza (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image255.png) **5.02** Cartello indicante la distanza e la direzione (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image256.png) **5.03** Lunghezza del tratto (art. 64)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image257.png) **5.04** Cartello di ripetizione (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image258.png) **5.05** Cartello d’inizio (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image259.png) **5.06** Cartello di fine (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image260.png) **5.07** Cartello di direzione (art. 64)</td></tr>
-<tr><td colspan="2">**5.08** …</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image261.png) **5.09** Direzione della strada principale (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image262.png) **5.10** Deroghe al divieto di fermata (art. 65)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image263.png) **5.11** Deroghe al divieto di parcheggio (art. 65) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image264.png) **5.12** Luce lampeggiante (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image265.png) **5.13** Carreggiata gelata (art. 65)</td><td colspan="2">**5.14** ...</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image266.png) **5.15** Larghezza della carreggiata (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image267.png) **5.16** Rumore esercizi di tiro (art. 65)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image268.png) **5.17** Successiva stazione di rifornimento (art. 89)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image269.png) **5.18** Svolta a destra consentita ai ciclisti (art. 69*a*)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image254.png) **5.01** Cartello di distanza (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image255.png) **5.02** Cartello indicante la distanza e la direzione (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image256.png) **5.03** Lunghezza del tratto (art. 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image257.png) **5.04** Cartello di ripetizione (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image258.png) **5.05** Cartello d’inizio (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image259.png) **5.06** Cartello di fine (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image260.png) **5.07** Cartello di direzione (art. 64)</td></tr>
+<tr><td colspan="2">**5.08** …</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image261.png) **5.09** Direzione della strada principale (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image262.png) **5.10** Deroghe al divieto di fermata (art. 65)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image263.png) **5.11** Deroghe al divieto di parcheggio (art. 65) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image264.png) **5.12** Luce lampeggiante (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image265.png) **5.13** Carreggiata gelata (art. 65)</td><td colspan="2">**5.14** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image266.png) **5.15** Larghezza della carreggiata (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image267.png) **5.16** Rumore esercizi di tiro (art. 65)</td><td colspan="2"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image268.png) **5.17** Successiva stazione di rifornimento (art. 89)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image269.png) **5.18** Svolta a destra consentita ai ciclisti (art. 69*a*)</td><td colspan="2"></td></tr>
 </table>
 
 ### b. Simboli
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image270.png) **5.20** Autoveicoli leggeri (art. 49 e 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image271.png) **5.21** Autoveicoli pesanti (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image272.png) **5.22** Autocarro (art. 49 e 64)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image273.png) **5.23** Autocarro con rimorchio (art. 49 e 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image274.png) **5.24** Autoarticolato (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image275.png) **5.25** Autobus (art. 49 e 64)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image276.png) **5.26** Rimorchio (art. 49 e 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image277.png) **5.27** Rimorchio abitabile (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image278.png) **5.28** Autoveicolo abitabile (art. 49 e 64)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image279.png) **5.29** Motoveicolo (art. 49, 64 e 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image280.png) **5.30** Ciclomotore (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image281.png) **5.31** Velocipede (art. 49, 64 e 79)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image282.png) **5.31.1** Bici cargo (art. 64 e 79)</td><td>**5.32** Mountain bike (art. 49)</td><td colspan="2">**5.33** Velocipede spinto a mano (art. 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image270.png) **5.20** Autoveicoli leggeri (art. 49 e 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image271.png) **5.21** Autoveicoli pesanti (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image272.png) **5.22** Autocarro (art. 49 e 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image273.png) **5.23** Autocarro con rimorchio (art. 49 e 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image274.png) **5.24** Autoarticolato (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image275.png) **5.25** Autobus (art. 49 e 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image276.png) **5.26** Rimorchio (art. 49 e 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image277.png) **5.27** Rimorchio abitabile (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image278.png) **5.28** Autoveicolo abitabile (art. 49 e 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image279.png) **5.29** Motoveicolo (art. 49, 64 e 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image280.png) **5.30** Ciclomotore (art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image281.png) **5.31** Velocipede (art. 49, 64 e 79)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image282.png) **5.31.1** Bici cargo (art. 64 e 79)</td><td>**5.32** Mountain bike (art. 49)</td><td colspan="2">**5.33** Velocipede spinto a mano (art. 64)</td></tr>
 <tr><td>**5.33.1** Mezzo simile a veicolo (art. 49)</td><td colspan="2">**5.34** Pedone (art. 49, 64 e 79)</td><td>**5.34.1** Escursionismo (art. 49)</td></tr>
 <tr><td>**5.34.2** Escursionismo di montagna (art. 49)</td><td>**5.34.3** Escursionismo alpino (art. 49)</td><td colspan="2">**5.34.4** Disabili (art. 49, 64 e 79)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image299.png) **5.35** Tram (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image300.png) **5.36** Trattore (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image301.png) **5.37** Carro armato (art. 49 e 64)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image302.png) **5.38** Battipista (art. 49 e 64)</td><td>**5.39** Sci di fondo (art. 49)</td><td colspan="2">**5.40** Sci (art. 49)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image299.png) **5.35** Tram (art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image300.png) **5.36** Trattore (art. 49 e 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image301.png) **5.37** Carro armato (art. 49 e 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image302.png) **5.38** Battipista (art. 49 e 64)</td><td>**5.39** Sci di fondo (art. 49)</td><td colspan="2">**5.40** Sci (art. 49)</td></tr>
 <tr><td>**5.41** Slitta (art. 49)</td><td>**5.41.1** Pista di ghiaccio (art. 49)</td><td colspan="2">**5.41.2** Curling (art. 49)</td></tr>
 <tr><td>**5.41.3** Escursioni in ciaspole (art. 49)</td><td>**5.41.4** Campo di calcio (art. 49)</td><td colspan="2">**5.41.5** Campo da tennis (art. 49)</td></tr>
 <tr><td>**5.41.6** Golf (art. 49)</td><td>**5.41.7** Equitazione (art. 49)</td><td colspan="2">**5.41.8** Piscina (art. 49)</td></tr>
 <tr><td>**5.41.9** Sci acquatico (art. 49)</td><td>**5.41.10** Centro sportivo (art. 49)</td><td colspan="2">**5.41.11** Struttura coperta (art. 49)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image331.png) **5.42** Stazione di ricarica (art. 49, 65 e 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image332.png) **5.43** Covetturaggio (art. 49, 65 e 79)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image333.png) **5.44** Veicoli a guida automatizzata (art. 49 e 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image331.png) **5.42** Stazione di ricarica (art. 49, 65 e 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image332.png) **5.43** Covetturaggio (art. 49, 65 e 79)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image333.png) **5.44** Veicoli a guida automatizzata (art. 49 e 64)</td></tr>
 <tr><td>**5.45** Stazione (art. 49)</td><td>**5.46** Fermata dell’autobus (art. 49)</td><td colspan="2">**5.47** Fermata del tram (art. 49)</td></tr>
 <tr><td>**5.48** Imbarcadero (art. 49)</td><td>**5.49** Ferrovia a cremagliera o funicolare (art. 49)</td><td colspan="2">**5.49.1** Funivia (art. 49)</td></tr>
 <tr><td>**5.49.2** Cabinovia (art. 49)</td><td>**5.49.3** Seggiovia (art. 49)</td><td colspan="2">**5.49.4** Sciovia (art. 49)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image352.png) **5.50** Velivolo/Aeroporto (art. 49)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image353.png) **5.51** Carico di autoveicoli su ferrovia (art. 49)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image354.png) **5.52** Carico di autoveicoli su traghetto (art. 49)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image355.png) **5.53** Zona industriale e artigianale (art. 49)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image356.png) **5.54** Sdoganamento con dichiarazione a vista (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image357.png) **5.55** Traffico S (art. 65)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image358.png) **5.56** Ospedale con pronto soccorso (art. 65)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image359.png) **5.57** Telefono d’emergenza (art. 65)</td><td colspan="2">**5.58** Campeggio (art. 49 e 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image352.png) **5.50** Velivolo/Aeroporto (art. 49)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image353.png) **5.51** Carico di autoveicoli su ferrovia (art. 49)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image354.png) **5.52** Carico di autoveicoli su traghetto (art. 49)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image355.png) **5.53** Zona industriale e artigianale (art. 49)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image356.png) **5.54** Sdoganamento con dichiarazione a vista (art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image357.png) **5.55** Traffico S (art. 65)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image358.png) **5.56** Ospedale con pronto soccorso (art. 65)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image359.png) **5.57** Telefono d’emergenza (art. 65)</td><td colspan="2">**5.58** Campeggio (art. 49 e 62)</td></tr>
 <tr><td>**5.59** Estintore (art. 49 e 62)</td><td>**5.60** Primo soccorso (art. 49 e 62)</td><td colspan="2">**5.61** Rifornimento (art. 49 e 62)</td></tr>
 <tr><td>**5.62** Albergo-motel (art. 49 e 62)</td><td>**5.63** Ristorante (art. 49 e 62)</td><td colspan="2">**5.64** Bar (art. 49 e 62)</td></tr>
 <tr><td>**5.65** Informazioni (art. 49 e 62)</td><td>**5.66** Ostello (art. 49 e 62)</td><td colspan="2">**5.67** Albergo (art. 49 e 62)</td></tr>
@@ -3609,31 +3616,31 @@ Allegato 2[^t-3]
 ### 6. Demarcazioni (art. 72–79 e 90)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image394.png) **6.01** Linea di sicurezza (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image395.png) **6.02** Doppia linea di sicurezza **6.03** Linea di direzione (art. 73)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image396.png) **6.04** Linea doppia (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image397.png) **6.05** Linea d’avvertimento (art. 73)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image398.png) **6.06** Frecce di preselezione (art. 74)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image399.png) **6.07** Frecce di rientro (art. 74)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image400.png) **6.08** Corsia riservata ai bus (art. 74*b*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image401.png) **6.09** Corsia ciclabile (art. 74*a*)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image402.png) **6.10** Linea di arresto **6.11** Stop **6.12** Linea longitudinale continua (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image403.png) **6.12** Linea longitudinale continua (art. 75) **6.13** Linea di attesa **6.14** Preannuncio della linea di attesa (art. 75)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image404.png) **6.15** Linea di margine **6.16** Linea di guida (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image405.png) **6.16.1** Linea di guida dopo una linea d’attesa (art. 76)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image406.png) **6.16.2** Linea di guida su strada principale che cambia direzione (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image407.png) **6.16.3** Linea di guida su strada principale che cambia direzione (art. 76)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image408.png) **6.16.4**Linea di distanziamento (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image409.png) **6.17** Passaggio pedonale **6.18** Linea vietante l’arresto (art. 77)</td></tr>
-<tr><td colspan="2">**6.19** Corsie pedonali (art. 77)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image412.png) **6.20** Superficie vietata (art. 78)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image413.png) **6.21** Linea a zig-zag (art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image414.png) **6.22** Linea vietante il parcheggio (art. 79)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image415.png) **6.23** Spazio con divieto di parcheggio (art. 79)</td><td>**6.24** Doppia linea trasversale (art. 79)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image418.png) **6.25** Linea vietante la fermata (art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image419.png) **6.26** Zona di attesa per velocipedi (esempi) (art. 75)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image419.png) **6.26** Zona di attesa per velocipedi (esempi) (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image420.png)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image421.png) **6.30** Linee di direzione visivo-tattili (esempio) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image422.png) **6.31** Linee di sicurezza visivo-tattili (esempio) (art. 72*a*)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image423.png) **6.32** Aree di intersezione visivo-tattili (esempio) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image424.png) **6.33** Aree terminali visivo-tattili (esempio) (art. 72*a*)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image425.png) **6.34** Aree di attenzione visivo-tattili (esempio) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image426.png) **6.35** Lastre visivo-tattili a calotte sferiche (esempio) (art. 72*a*)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image427.png) **6.36** Uscita di scampo (art. 90)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image394.png) **6.01** Linea di sicurezza (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image395.png) **6.02** Doppia linea di sicurezza **6.03** Linea di direzione (art. 73)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image396.png) **6.04** Linea doppia (art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image397.png) **6.05** Linea d’avvertimento (art. 73)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image398.png) **6.06** Frecce di preselezione (art. 74)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image399.png) **6.07** Frecce di rientro (art. 74)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image400.png) **6.08** Corsia riservata ai bus (art. 74*b*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image401.png) **6.09** Corsia ciclabile (art. 74*a*)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image402.png) **6.10** Linea di arresto **6.11** Stop **6.12** Linea longitudinale continua (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image403.png) **6.12** Linea longitudinale continua (art. 75) **6.13** Linea di attesa **6.14** Preannuncio della linea di attesa (art. 75)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image404.png) **6.15** Linea di margine **6.16** Linea di guida (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image405.png) **6.16.1** Linea di guida dopo una linea d’attesa (art. 76)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image406.png) **6.16.2** Linea di guida su strada principale che cambia direzione (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image407.png) **6.16.3** Linea di guida su strada principale che cambia direzione (art. 76)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image408.png) **6.16.4**Linea di distanziamento (art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image409.png) **6.17** Passaggio pedonale **6.18** Linea vietante l’arresto (art. 77)</td></tr>
+<tr><td colspan="2">**6.19** Corsie pedonali (art. 77)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image412.png) **6.20** Superficie vietata (art. 78)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image413.png) **6.21** Linea a zig-zag (art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image414.png) **6.22** Linea vietante il parcheggio (art. 79)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image415.png) **6.23** Spazio con divieto di parcheggio (art. 79)</td><td>**6.24** Doppia linea trasversale (art. 79)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image418.png) **6.25** Linea vietante la fermata (art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image419.png) **6.26** Zona di attesa per velocipedi (esempi) (art. 75)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image419.png) **6.26** Zona di attesa per velocipedi (esempi) (art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image420.png)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image421.png) **6.30** Linee di direzione visivo-tattili (esempio) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image422.png) **6.31** Linee di sicurezza visivo-tattili (esempio) (art. 72*a*)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image423.png) **6.32** Aree di intersezione visivo-tattili (esempio) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image424.png) **6.33** Aree terminali visivo-tattili (esempio) (art. 72*a*)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image425.png) **6.34** Aree di attenzione visivo-tattili (esempio) (art. 72*a*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image426.png) **6.35** Lastre visivo-tattili a calotte sferiche (esempio) (art. 72*a*)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image427.png) **6.36** Uscita di scampo (art. 90)</td></tr>
 </table>
 
 ### 7. Delineatori temporanei e permanenti (art. 80 e 82)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image428.png) **7.01** Delineatore flessibile (esempi) (art. 80)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image429.png) **7.02** Cono (esempio) (art. 80)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image430.png) **7.03** Segnale mobile di protezione (esempio) (art. 80)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image431.png) **7.04** Paletta segnaletica (art. 80)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image432.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image433.png) **7.05** Colonnetta direttrice destra (esempi) (art. 82)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image434.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image435.png) **7.06** Colonnetta direttrice sinistra (esempi) (art. 82)</td></tr>
-<tr><td colspan="2">**7.07** Freccia direttrice (esempi) (art. 82)</td><td colspan="2">**7.08** Colonnetta delle isole di traffico (esempi) (art. 82)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image440.png) **7.09** Spartitraffico (art. 82)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image428.png) **7.01** Delineatore flessibile (esempi) (art. 80)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image429.png) **7.02** Cono (esempio) (art. 80)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image430.png) **7.03** Segnale mobile di protezione (esempio) (art. 80)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image431.png) **7.04** Paletta segnaletica (art. 80)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image432.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image433.png) **7.05** Colonnetta direttrice destra (esempi) (art. 82)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image434.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image435.png) **7.06** Colonnetta direttrice sinistra (esempi) (art. 82)</td></tr>
+<tr><td colspan="2">**7.07** Freccia direttrice (esempi) (art. 82)</td><td colspan="2">**7.08** Colonnetta delle isole di traffico (esempi) (art. 82)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image440.png) **7.09** Spartitraffico (art. 82)</td></tr>
 </table>
 
 Allegato 3[^t-4]
@@ -3653,7 +3660,7 @@ Recto: fondo blu; segni grafici, freccia e incorniciatura della «P» in bianco;
 Verso: sullo spazio rimanente accanto al testo menzionato sotto sono ammesse indicazioni supplementari anche a scopo pubblicitario.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image441.png)</td><td colspan="7">Regolazione del disco su tutte le aree contrassegnate dal segnale «Parcheggio con disco» La freccia del disco deve essere posizionata sulla lineetta susseguente l’ora effettiva di arrivo. Durata di parcheggio ammessa nella Zona blu Nei giorni feriali e, ove espressamente segnalato, anche la domenica e nei giorni festivi, i veicoli possono essere parcheggiati soltanto per il periodo indicato nella seguente tabella:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image441.png)</td><td colspan="7">Regolazione del disco su tutte le aree contrassegnate dal segnale «Parcheggio con disco» La freccia del disco deve essere posizionata sulla lineetta susseguente l’ora effettiva di arrivo. Durata di parcheggio ammessa nella Zona blu Nei giorni feriali e, ove espressamente segnalato, anche la domenica e nei giorni festivi, i veicoli possono essere parcheggiati soltanto per il periodo indicato nella seguente tabella:</td></tr>
 <tr><td></td><td></td><td></td><td>Ora effettiva di arrivo A</td><td>Ora di arrivo da indicare</td><td>Ora di partenza</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>08.00 – 08.29</td><td>08.30</td><td>09.30</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>08.30 – 08.59</td><td>09.00</td><td>10.00</td><td colspan="2"></td></tr>
@@ -3673,7 +3680,7 @@ Verso: sullo spazio rimanente accanto al testo menzionato sotto sono ammesse ind
 Il contrassegno di parcheggio è largo 14,8 cm e alto 10,6 cm. Lo sfondo del contrassegno è azzurro, il simbolo della persona disabile è bianco su sfondo blu. Per il resto, il contrassegno corrisponde a quanto illustrato nelle figure sottostanti.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image442.png)</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20260701/it/xml/image/image443.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image442.png)</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20261001/it/xml/image/image443.png)</td></tr>
 <tr><td>(Recto)</td><td></td><td>(Verso)</td></tr>
 </table>
 
