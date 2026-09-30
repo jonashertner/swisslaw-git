@@ -1,232 +1,377 @@
 ---
 canton: FR
 number: "480.1"
-title: Gesetz über die kulturellen Angelegenheiten
-short: KAG
+title: Gesetz über die Förderung kultureller Aktivitäten
+short: FKAG
 language: de
-version: 2009-01-01
-valid_until: 2026-09-30
-version_adopted: 2008-10-09
+version: 2026-10-01
+version_adopted: 2026-02-12
 adopted: 2026-02-12
 in_force: 2026-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/480.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7128/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8573/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die kulturellen Angelegenheiten
+# Gesetz über die Förderung kultureller Aktivitäten
 
-Kulturelle Angelegenheiten – G
+Förderung kultureller Aktivitäten – G
 
-(KAG)
+(FKAG)
 
-vom 24.05.1991 (Fassung in Kraft getreten am 01.01.2009)
+vom 12.02.2026 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
-nach Einsicht in die Botschaft des Staatsrates vom 19. Februar 1990;
+gestützt auf die Artikel 73 und 79 der Verfassung des Kantons Freiburg vom 16. Mai 2004;
+
+gestützt auf das Subventionsgesetz vom 17. November 1999 (SubG) und sein Ausführungsreglement vom 22. August 2000 (SubR);
+
+nach Einsicht in die Botschaft 2023-DFAC-3 des Staatsrats vom 15. April 2025;
 
 auf Antrag dieser Behörde,
 
 beschliesst:
 
-## 1 Gegenstand des Gesetzes
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-<sup>1</sup> Dieses Gesetz hat zum Gegenstand:
+**Gegenstand**
 
-- a) die allgemeinen Bestimmungen über die kulturellen Angelegenheiten;
-- b) die Bestimmungen über die Förderung der Kultur durch den Staat.
+<sup>1</sup> Ziel dieses Gesetzes ist es, kulturelle und künstlerische Aktivitäten zu fördern und zu unterstützen, den Zugang zur Kultur und die Teilhabe daran zu fördern und die Erhaltung, Weitergabe und Aufwertung des immateriellen Kulturerbes aufzuwerten.
 
-## 2 Allgemeine Bestimmungen über die kulturellen Angelegenheiten
+<sup>2</sup> Es legt Folgendes fest:
+
+- a) die Grundsätze und Modalitäten für die Förderung kultureller Aktivitäten;
+- b) die diesbezüglichen Aufgaben und Zuständigkeiten sowie deren Aufteilung unter den öffentlichen Körperschaften;
+- c) die Mechanismen für ihre strategische, operative und finanzielle Koordination.
+
+<sup>3</sup> Es gewährleistet einen fairen und transparenten Rahmen für die öffentliche Förderung kultureller Aktivitäten.
 
 #### Art. 2
 
-**Grundsatz**
+**Zweck**
 
-<sup>1</sup> Die kulturellen Aktivitäten und der Schutz des kulturellen Erbes sind in erster Linie Angelegenheit der Privatpersonen.
+<sup>1</sup> Der Kanton Freiburg hat eine hohe kulturelle Ambition. Er fördert und schätzt die kulturelle Qualität und Vielfalt. Er sorgt für deren Tragweite, Stärke und Nachhaltigkeit.
 
-<sup>2</sup> Die Gemeinden und der Staat haben dabei die Aufgabe, entsprechend den ihnen vom Gesetz überbundenen Verantwortlichkeiten unterstützend zu wirken und selber Initiativen zu entwickeln.
+<sup>2</sup> Er berücksichtigt insbesondere:
+
+- a) die kulturelle Praxis sowohl im professionellen als auch im Amateurbereich und ihre Komplementarität;
+- b) die territoriale Verankerung kultureller Aktivitäten;
+- c) die Zweisprachigkeit und das gegenseitige Verständnis zwischen den Gemeinschaften.
+
+<sup>3</sup> Er sorgt für die Entwicklung des kulturellen Gefüges in den Regionen und fördert damit die Zirkulation und Verbreitung der kulturellen Aktivitäten im Kanton und auf schweizerischer und internationaler Ebene.
 
 #### Art. 3
 
-**Verantwortlichkeiten der Gemeinden**
+**Geltungsbereich**
 
-<sup>1</sup> Die Gemeinden setzen sich für die Kulturförderung und für den Schutz des kulturellen Erbes ein. Bei der Kulturförderung betätigen sie sich hauptsächlich auf dem Gebiet der kulturellen Veranstaltungen.
+<sup>1</sup> Dieses Gesetz gilt insbesondere für folgende künstlerische Bereiche: Bühnenkunst, digitale Kunst, bildende Kunst, Film und audiovisuelle Künste, Literatur, Musik und interdisziplinäre Aktivitäten.
 
-<sup>2</sup> Bei der Kulturförderung handeln sie autonom. Zur Verwirklichung von Vorhaben regionaler Bedeutung arbeiten sie mit den Nachbargemeinden zusammen.
-
-<sup>3</sup> Beim Schutz des kulturellen Erbes erfüllen sie die Aufgabe, die ihnen die Spezialgesetzgebung und ihre eigenen Reglemente zuweisen.
+<sup>2</sup> Es gilt auch für Aktivitäten im Zusammenhang mit der Erhaltung und Aufwertung des immateriellen Kulturerbes.
 
 #### Art. 4
 
-**Verantwortlichkeiten des Staates – Im Allgemeinen**
+**Begriffsbestimmungen**
 
-<sup>1</sup> Der Staat setzt sich für die Kulturförderung ein. Er betätigt sich dabei hauptsächlich auf dem Gebiet des Kulturschaffens.
+<sup>1</sup> In diesem Gesetz bedeuten:
 
-<sup>2</sup> Er trägt zum Schutz des kulturellen Erbes bei, indem er sich daran beteiligt, dieses zu erhalten und zur Geltung zu bringen.
+- a) Kulturelle Aktivitäten: einmalige oder dauerhafte, von Amateurschaffenden oder professionellen Kulturschaffenden ausgeübte Tätigkeiten im Zusammenhang mit Kulturproduktion und Zugang zur Kultur sowie Erhaltung und Aufwertung des immateriellen Kulturerbes;
+- b) Kulturproduktion: Prozess zur Realisierung eines kulturellen Werks, der insbesondere die Recherche, das kreative Schaffen, die öffentliche Präsentation, die Vermittlung und die Verbreitung sowie die Weiterbildung umfasst;
+- c) Zugang zur Kultur und kulturelle Teilhabe: alle Massnahmen zur Förderung des Verhältnisses zwischen Kultur und Öffentlichkeit, die namentlich die öffentliche Präsentation, die Sensibilisierung, Vermittlung und Praxis der Kultur umfasst;
+- d) Kulturakteurin oder Kulturakteur: jede natürliche Person, die kulturelle Aktivitäten durchführt, insbesondere in den Bereichen Kunst, Technik, Verwaltung, Handwerk oder Vermittlung;
+- e) Kulturunternehmen: jede Organisation, die im kulturellen Bereich tätig ist;
+- f) Kulturinstitution: jedes Kulturunternehmen, das über eine öffentliche und dauerhafte Infrastruktur und Tätigkeit verfügt;
+- g) immaterielles Kulturerbe: die vielfältige Gesamtheit der kulturellen Ausdrucksformen, Traditionen und Praktiken, die über Generationen weitergegeben werden und einer Gemeinschaft ein Gefühl der Identität und der Kontinuität vermitteln;
+- h) öffentliche Körperschaft: eine Gemeinde, eine Kulturregion (Art. 12 Abs. 1) oder der Staat.
+
+## 2 Grundsätze für die Förderung kultureller Aktivitäten
 
 #### Art. 5
 
-**Verantwortlichkeiten des Staates – Leitlinien**
+**Grundsätze**
 
-<sup>1</sup> Bei der Wahrnehmung seiner Verantwortlichkeiten und der Wahl der einzusetzenden Mittel hält sich der Staat an die folgenden Leitlinien:
+<sup>1</sup> Kulturelle Aktivitäten beruhen in erster Linie auf privater Initiative.
 
-- a) Er fördert die Entwicklung einer auf den Menschen und die Entfaltung seiner Fähigkeiten ausgerichteten Kultur unter Beachtung der künstlerischen Gestaltungs- und Ausdrucksfreiheit.
-- b) Er trägt bei der Festsetzung eines Beitrags den Möglichkeiten der Privatpersonen und der Gemeinwesen Rechnung.
-- c) Er erleichtert jedermann den Zugang zur Kultur.
-- d) Er achtet die jeweilige kulturelle Identität der verschiedenen Regionen und fördert die Abstimmung und die Zusammenarbeit unter den Regionen.
-- e) Er trägt den verschiedenen kulturellen Sparten und Ausdrucksformen Rechnung.
-- f) Er sorgt für eine angemessene Verteilung der kulturellen Aktivitäten im Kanton.
-- g) Er fördert die Zusammenarbeit, die Koordination und den kulturellen Austausch auf interkantonaler, nationaler und gegebenenfalls internationaler Ebene.
+<sup>2</sup> Die öffentlichen Körperschaften üben im Rahmen ihrer gesetzlich verankerten Aufgaben und Zuständigkeiten eine fördernde, unterstützende und stimulierende Rolle aus.
+
+<sup>3</sup> Dabei achten die öffentlichen Körperschaften insbesondere auf die Einhaltung folgender Grundsätze:
+
+- a) die Vielfalt kultureller Aktivitäten;
+- b) die künstlerische Freiheit;
+- c) kulturelle Rechte, insbesondere der Zugang zu Kultur und die kulturelle Teilhabe für alle;
+- d) die soziale, wirtschaftliche und ökologische Nachhaltigkeit kultureller Aktivitäten.
+
+<sup>4</sup> Die öffentlichen Körperschaften sorgen für die Kohärenz ihrer Handlungen im Bereich der Kulturförderung sowie zwischen der Kultur und insbesondere der Bildung, dem sozialen Zusammenhalt oder der wirtschaftlichen und touristischen Entwicklung.
+
+<sup>5</sup> Dieses Gesetz verleiht keinen Anspruch auf Unterstützung.
 
 #### Art. 6
 
-**Verantwortlichkeiten des Staates – Mittel**
+**Formen der Unterstützung**
 
-<sup>1</sup> Bei der Wahrnehmung seiner Verantwortlichkeiten setzt der Staat folgende Mittel ein:
+<sup>1</sup> Die Unterstützung, die an Bedingungen oder Auflagen geknüpft sein kann, kann in folgender Form erfolgen:
 
-- a) Er gewährt Subventionen und setzt weitere zur Förderung geeignete Mittel ein.
-- b) Er erlässt Bestimmungen über die Rechte und Pflichten der Privatpersonen.
-- c) Er trifft die erforderlichen organisatorischen Massnahmen.
-- d) Er schafft und führt öffentliche Institutionen wie Archive, Bibliotheken, Konservatorien oder Museen.
-- e) Er ist dafür besorgt, dass die Ausbildung und die Erziehung in den Schulen aller Stufen das kulturelle Leben fördern.
-- f) Er setzt beim Bau und bei der Renovation seiner Gebäude einen angemessenen Betrag für die künstlerische Gestaltung der Gebäude ein.
-- g) Er setzt weitere vom Gesetz vorgesehene Mittel ein.
+- a) Finanzhilfen: Subventionen (einschliesslich Defizitgarantien), Preise und Stipendien. Diese Beiträge können einmalig oder periodisch sein. Sie können an besondere Aufgaben oder Leistungen geknüpft sein;
+- b) Ankäufe, Aufträge, Finanzierung von künstlerischen Interventionen an öffentlichen Infrastrukturen;
+- c) direkte Leistungen und logistische Unterstützung;
+- d) jede andere geeignete Form der Unterstützung.
 
-<sup>2</sup> Er kann ferner Subventionen gewähren an den Bau und den Erwerb von Gebäuden mit überregionaler Bedeutung, die für kulturelle Veranstaltungen bestimmt sind. Diese Möglichkeit ist jedoch auf die Zeit bis zum 31. Dezember 2003 begrenzt, ausser für Projekte, für die vor diesem Datum ein Gesuch mit einem vollständigen Dossier eingereicht wurde.
+<sup>2</sup> Bei der Beurteilung von Gesuchen um Unterstützung für kulturelle Aktivitäten berücksichtigen die öffentlichen Körperschaften insbesondere die Grundsätze nach Artikel 5 Abs. 3 und die folgenden Kriterien:
 
-<sup>3</sup> Der Staat arbeitet mit den betroffenen Gemeinwesen und Privatpersonen zusammen.
+- a) die kulturelle und künstlerische Qualität und Relevanz;
+- b) die kulturelle Wirkung;
+- c) der professionelle und/oder Amateurstatus der betreffenden Praxis;
+- d) die wirtschaftliche Tragfähigkeit und Nachhaltigkeit;
+- e) die Einhaltung angemessener Lohn- und Vorsorgebedingungen;
+- f) die ökologische Nachhaltigkeit;
+- g) die Verankerung im kulturellen Leben des betreffenden Gebiets;
+- h) die kulturelle Ausstrahlung;
+- i) die Notwendigkeit, Zweckmässigkeit und Wirksamkeit einer Unterstützung.
+
+<sup>3</sup> Bei der Beurteilung von Gesuchen um Unterstützung, die das immaterielle Kulturerbe betreffen, berücksichtigen die öffentlichen Körperschaften namentlich die Weitergabe von Generation zu Generation, die Freiwilligenarbeit, die lokale oder regionale Verankerung und den Beitrag zum sozialen und territorialen Zusammenhalt.
+
+<sup>4</sup> Bei der Anwendung dieser Grundsätze und Kriterien (Abs. 2 und 3) wird der Art und dem Zweck der kulturellen Tätigkeit Rechnung getragen
+
+<sup>5</sup> Wenn sie über eine Kulturpolitik verfügen, können öffentliche Körperschaften zu deren Unterstützung auf Kriterien zurückgreifen, die über die Kriterien nach Artikel 6 Abs. 2 hinausgehen.
+
+<sup>6</sup> Die Modalitäten und Bedingungen für die Förderung werden in den Ausführungsbestimmungen und den spezifischen Richtlinien für die Förderinstrumente festgelegt.
 
 #### Art. 7
 
-**Verantwortlichkeiten des Oberamtmannes**
+**Koordination**
 
-<sup>1</sup> Der Oberamtmann fördert die kulturellen Aktivitäten in seinem Bezirk, indem er darauf hinwirkt, dass die Gemeinden sich untereinander abstimmen und zusammenarbeiten.
+<sup>1</sup> Die öffentlichen Körperschaften arbeiten zusammen, um die Kohärenz, Wirksamkeit und Effizienz ihrer Fördermassnahmen zu gewährleisten, und berücksichtigen dabei die Vielfalt der Regionen und Praktiken.
 
-<sup>2</sup> Er trägt gemäss den Aufgaben, die ihm durch die Spezialgesetzgebung übertragen werden, zum Schutz der Kulturgüter bei.
+<sup>2</sup> Um sich zu koordinieren, organisieren sich die öffentlichen Körperschaften insbesondere in:
 
-## 3 Förderung der Kultur durch den Staat
+- a) einer politischen Kulturkonferenz des Kantons Freiburg (Kulturkonferenz), die sich aus der für die Kultur zuständigen Staatsrätin oder dem für die Kultur zuständigen Staatsrat, drei vom Grossen Rat gewählten Grossrätinnen oder Grossräten, einer Vertreterin oder einem Vertreter pro Kulturregion und einer Vertreterin oder einem Vertreter pro Zentrumsgemeinde zusammensetzt;
+- b) einem Freiburger Kulturausschuss (Kulturausschuss), der sich aus professionellen Kulturbeauftragten der öffentlichen Körperschaften zusammensetzt.
 
-### 3.1 Die Mittel im Allgemeinen
+<sup>3</sup> Die Einzelheiten der Organisation und der Arbeitsweise der Kulturkonferenz und des Kulturausschusses werden im Ausführungsreglement festgelegt.
+
+<sup>4</sup> Die öffentlichen Körperschaften konsultieren die kulturellen Kreise insbesondere über:
+
+- a) eine Plattform der anerkannten kantonalen Kulturdachverbände;
+- b) ein jährliches Kulturtreffen, bei dem Vertreterinnen und Vertreter aus dem Kulturbereich und auf Einladung auch aus anderen Bereichen (insbesondere Tourismus, Soziales oder Wirtschaft) zusammenkommen.
+
+<sup>5</sup> Die allgemeine Koordination wird vom Staat über sein für die Kultur zuständiges Amt sichergestellt[^7-1] (Art. 14 Abs. 1 Bst. d).
+
+[^7-1]: Heute: Amt für Kultur.
 
 #### Art. 8
 
-<sup>1</sup> Der Staat trägt durch Subventionen, Käufe und Aufträge, durch die künstlerische Gestaltung von Gebäuden sowie durch die Tätigkeiten seiner kulturellen Anstalten zur Kulturförderung bei.
+**Koordinierte Kulturstrategie**
 
-<sup>2</sup> Er kann sich auch an der Organisation von Veranstaltungen beteiligen und ausnahmsweise selber solche organisieren.
+<sup>1</sup> Zu Beginn jeder Legislaturperiode verabschiedet die Kulturkonferenz nach Anhörung der betroffenen Kreise die koordinierte Kulturstrategie des Kantons Freiburg und führt anschliessend die Folgemassnahmen durch.
 
-<sup>3</sup> Das vorliegende Gesetz gewährt kein Recht auf staatliche Leistung.
+<sup>2</sup> Der Kulturausschuss bereitet die Sitzungen der Kulturkonferenz vor, sorgt für die Umsetzung der Strategie und koordiniert die Massnahmen der öffentlichen Körperschaften.
 
-### 3.2 Subventionen, Käufe und Aufträge
+<sup>3</sup> Die öffentlichen Körperschaften koordinieren sich bei der Vergabe von Finanzhilfen für gemeinsam geförderte kulturelle Aktivitäten (Art. 9 Abs. 3 Bst. b), insbesondere um sicherzustellen, dass der erforderliche Anteil an öffentlicher Finanzierung bereitgestellt wird.
+
+<sup>4</sup> Die betroffenen öffentlichen Körperschaften stellen eine operative Koordination der Einreichung und Bearbeitung von Unterstützungsgesuchen sicher. Die Einzelheiten werden in den Ausführungsbestimmungen festgelegt.
+
+## 3 Aufgaben und Zuständigkeiten der öffentlichen Körperschaften
 
 #### Art. 9
 
-**Subventionsarten**
+**Allgemeines**
 
-<sup>1</sup> Die Subventionen können in Form von finanziellen Zuwendungen, Defizitgarantien, Darlehen, Stipendien oder weiteren geeigneten Mitteln gleicher Art gewährt werden.
+<sup>1</sup> Die Aufgaben und Zuständigkeiten werden nach folgenden Grundsätzen zwischen den öffentlichen Körperschaften aufgeteilt:
+
+- a) der ‒ kommunale, regionale und (über-)kantonale ‒ Perimeter, in dem die kulturelle Aktivität stattfindet;
+- b) der überwiegende Amateur- bzw. professionelle Charakter der Beteiligten und der Projekte;
+- c) die kulturelle Ausstrahlung.
+
+<sup>2</sup> Die Unterstützung von Tätigkeiten im Zusammenhang mit dem immateriellen Kulturerbe kann von diesen Grundsätzen ausgenommen werden.
+
+<sup>3</sup> Gestützt auf diese Grundsätze können kulturelle Aktivitäten wie folgt gefördert werden:
+
+- a) ausschliesslich von einer öffentlichen Körperschaft; oder
+- b) von mehreren öffentlichen Körperschaften gemeinsam.
 
 #### Art. 10
 
-**Bedingungen und Auflagen**
+**Aufgaben und Zuständigkeiten der Gemeinden**
 
-<sup>1</sup> Der Subventionsentscheid kann von Bedingungen, wie der Einreichung des Voranschlags oder der finanziellen Beteiligung von Gemeinden oder Dritter, abhängig gemacht werden.
+<sup>1</sup> Folgende Aufgaben und Zuständigkeiten liegen grundsätzlich in der Verantwortung der Gemeinden:
 
-<sup>2</sup> Er kann auch mit Auflagen, wie der Vorlegung von Abrechnungen und Tätigkeitsberichten oder der Erbringung von Leistungen, versehen werden.
+- a) Unterstützung lokaler kultureller Aktivitäten im Amateurbereich;
+- b) Unterstützung der lokalen Kulturinstitutionen;
+- c) Förderung des Zugangs zur Kultur und der kulturellen Teilhabe im professionellen Bereich von lokaler Bedeutung.
+
+<sup>2</sup> Um Aufgaben von gegenseitigem und regionalem Interesse zu erfüllen, werden sie ermuntert, sich ‒ unter Berücksichtigung der bestehenden Strukturen ‒ mit Unterstützung der Oberamtspersonen und in Zusammenarbeit mit dem für die Kultur zuständigen Amt des Staates[^10-1] als Kulturregionen zu konstituieren.
+
+[^10-1]: Heute: Amt für Kultur.
 
 #### Art. 11
 
-**Widerruf der Subvention**
+**Aufgaben und Zuständigkeiten von Kulturregionen**
 
-<sup>1</sup> Die Subvention wird ganz oder teilweise widerrufen, wenn das Vorhaben, für das sie gewährt wurde, nicht oder nur teilweise verwirklicht wird, wenn sie erschlichen wurde oder wenn eine Bedingung oder eine Auflage nicht erfüllt wird.
+<sup>1</sup> Folgende gemeinsame Aufgaben und Zuständigkeiten liegen grundsätzlich in der Verantwortung der Kulturregionen:
+
+- a) Unterstützung kultureller Aktivitäten im Amateurbereich von regionaler Bedeutung;
+- b) Unterstützung der regionalen Kulturinstitutionen;
+- c) Förderung des Zugangs zur Kultur und der kulturellen Teilhabe im professionellen Bereich von regionaler Bedeutung;
+- d) Unterstützung des künstlerischen Nachwuchses.
+
+<sup>2</sup> Die Gemeinden einer Region können zusammen andere gemeinsame Aufgaben und Zuständigkeiten festlegen.
+
+<sup>3</sup> Die Gemeinden einer Region erstellen und aktualisieren periodisch in einem Förderkatalog die Aufgaben und Zuständigkeiten, die sie gemeinsam wahrnehmen, sowie die sich daraus ergebenden Förderaktivitäten.
+
+<sup>4</sup> Die Zentrumsgemeinde (Art. 12 Abs. 3) kann Zuständigkeiten und Aufgaben zugunsten der gesamten Region (Art. 12) allein übernehmen.
 
 #### Art. 12
 
-**Finanzierungsmittel**
+**Organisation der Kulturregionen**
 
-<sup>1</sup> Die Subventionsgewährung, die Käufe und die Aufträge werden finanziert durch:
+<sup>1</sup> Eine Kulturregion ist ein Gemeindeverband im Sinne der Artikel 109 ff. des Gesetzes vom 25. September 1980 über die Gemeinden[^12-1], die in Sachen kultureller Aktivitäten und ihrer Zielgruppen ein gemeinsames Interesse haben.
 
-- a) die jährlich zu diesem Zweck im Staatsvoranschlag vorgesehenen Beträge;
-- b) den kantonalen Kulturfonds (im folgenden: der Fonds).
+<sup>2</sup> Eine Kulturregion erfüllt von ihrem Aufbau, ihrer Organisation und ihrer Funktionsweise her die folgenden kumulativen Kriterien:
 
-<sup>2</sup> Der Fonds wird gespiesen durch:
+- a) Sie weist ein zusammenhängendes und bedeutendes Einzugsgebiet auf.
+- b) Sie besteht aus Gemeinden, die gemeinsam zur Finanzierung ihres Betriebs und ihres Förderkatalogs beitragen.
+- c) Sie verfügt über eine politische und budgetpolitische Steuerung (Governance).
+- d) Sie verfolgt eine gemeinsame Kulturstrategie und gemeinsame Ziele.
+- e) Sie beteiligt sich an der Ausarbeitung und Weiterentwicklung der koordinierten Kulturstrategie nach Artikel 8.
+- f) Sie verfügt über eine ständige repräsentative Kulturkommission für die Stellungnahme zur Vergabe von Fördermitteln.
+- g) Sie besitzt geeignete operative und finanzielle Kapazitäten für die Erfüllung gemeinsamer Aufgaben und Zuständigkeiten.
 
-- a) Vermächtnisse, Schenkungen und weitere Mittel, die ihm zugewiesen werden können;
-- b) den Ertrag seines Vermögens;
-- c) die im Staatsvoranschlag vorgesehenen Beträge.
+<sup>3</sup> Sie umfasst grundsätzlich mindestens eine Zentrumsgemeinde.
+
+<sup>4</sup> Eine Gemeinde wird grundsätzlich einer einzigen Kulturregion zugeordnet.
+
+[^12-1]: SGF [140.1](https://bdlf.fr.ch/data/140.1/de)
 
 #### Art. 13
 
-**Organisation – Der Staatsrat**
+**Ressourcen der Kulturregionen**
 
-<sup>1</sup> Der Staatsrat übt die folgenden Befugnisse aus:
+<sup>1</sup> Die Ressourcen der Kulturregionen stammen:
 
-- a) Er bestimmt die allgemeine Kulturförderungspolitik.
-- b) Er regelt die Organisation und die Arbeitsweise der Kommission für kulturelle Angelegenheiten; er ernennt den Präsidenten, den Vizepräsidenten und die übrigen Mitglieder dieser Kommission.
-- c) Er setzt die Kriterien für die Subventionsgewährung fest.
-- d) Er entscheidet über eine Subvention, einen Kauf oder einen Auftrag, wenn die Ausgabe einen im Reglement bestimmten Betrag übersteigt.
+- a) aus den Beiträgen der Mitgliedsgemeinden;
+- b) bis zum 31. Dezember 2032 (Art. 14 Abs. 3 Bst. a) aus Beiträgen des Staates zur Finanzierung ihrer Konstituierung;
+- c) aus logistischen Beiträgen des Staates an ihren laufenden Betrieb sowie an die Finanzierung ihres Förderkatalogs (Art. 14 Abs. 3 Bst. b und c);
+- d) aus jeglicher anderen Finanzierungsquelle.
 
 #### Art. 14
 
-**Organisation – Die Direktion**
+**Aufgaben und Zuständigkeiten des Staates**
 
-<sup>1</sup> Die Direktion, die für die Kultur zuständig ist[^14-1] (die Direktion), übt die folgenden Befugnisse aus:
+<sup>1</sup> Folgende Aufgaben und Zuständigkeiten liegen grundsätzlich in der Verantwortung des Staates:
 
-- a) Sie behandelt innerhalb des Staates alle Fragen, die in den Bereich der Kulturförderung fallen.
-- b) Sie verwirklicht die allgemeine Kulturförderungspolitik.
-- c) Sie entscheidet über die Subventionen, Käufe und Aufträge, die das Reglement nicht in den Zuständigkeitsbereich des Staatsrates legt.
-- d) Sie kann Jurys zur Beurteilung besonderer Leistungen einsetzen.
-- e) Sie übt im Bereich der Kulturförderung die Befugnisse aus, die nicht einem andern Organ übertragen sind.
+- a) Unterstützung der professionellen Kulturproduktion;
+- b) Unterstützung kultureller Aktivitäten von kantonaler Bedeutung sowohl im professionellen als auch im Amateurbereich;
+- c) Unterstützung von Förderprogrammen von kantonaler Tragweite, die namentlich mit der Bildung, dem sozialen Zusammenhalt, der Wirtschaftsförderung und dem Tourismus (Art. 5 Abs. 4) und insbesondere der schulischen Kulturvermittlung in Verbindung stehen;
+- d) Förderung der kulturellen Zusammenarbeit auf kantonaler, interkantonaler, nationaler und internationaler Ebene und Unterstützung der Zirkulation professioneller kultureller Werke und ihrer Verbreitung inner- und ausserhalb des Kantons;
+- e) Zusammenarbeit mit anderen Kantonen und dem Bund, insbesondere im Rahmen von gemeinsamen Förderinstrumenten oder gemeinsamen Institutionen.
 
-<sup>2</sup> Für besondere Gegenstände kann sie ihre Entscheidungsbefugnis der Kommission für kulturelle Angelegenheiten oder einer Jury übertragen.
+<sup>2</sup> Die Verantwortung des Staates für die Verwaltung seiner Kulturinstitutionen und die Schaffung neuer kantonaler Institutionen wird durch ein besonderes Gesetz geregelt.
 
-[^14-1]: Heute: Direktion für Bildung und kulturelle Angelegenheiten.
+<sup>3</sup> Gegenüber den Kulturregionen (Art. 13 Abs. 1 Bst. a und b) hat der Staat folgende Aufgaben und Zuständigkeiten:
+
+- a) befristeter Beitrag für die Konstituierung von Kulturregionen;
+- b) logistischer und finanzieller Beitrag zur Förderung regionaler kultureller Aktivitäten auf der Grundlage ihres Förderkatalogs (Art. 11 Abs. 3) und nach Kriterien, die im Ausführungsreglement festgelegt werden;
+- c) logistische Unterstützung für die Arbeit der Kulturregionen.
 
 #### Art. 15
 
-**Organisation – Die Kommission für kulturelle Angelegenheiten**
+**Ressourcen des Staates**
 
-<sup>1</sup> Die Kommission für kulturelle Angelegenheiten (die Kommission) ist ein beratendes Organ, das der Direktion administrativ zugewiesen ist. Der Staatsrat und die Direktion können ihr für besondere Gegenstände Entscheidungsbefugnis übertragen.
+<sup>1</sup> Die Ressourcen des Staates stammen aus:
 
-<sup>2</sup> Sie besteht aus einem Präsidenten, einem Vizepräsidenten und elf bis dreizehn weiteren Mitgliedern. Der Direktionsvorsteher oder der von ihm bezeichnete Vertreter nimmt mit beratender Stimme an den Sitzungen teil.
+- a) den jährlichen Beträgen, die für kulturelle Aktivitäten im Staatsvoranschlag vorgesehen sind;
+- b) dem kantonalen Kulturfonds einschliesslich eines Fonds für die Beiträge an die Kulturregionen (Art. 14 Abs. 3 Bst. a und b);
+- c) jeglicher anderen Finanzierungsquelle.
 
-<sup>3</sup> Die Kommission wird angehört:
-
-- a) zum Entwurf der Regierungsrichtlinien im Bereich der Kulturförderung;
-- b) zum Entwurf des Voranschlags in bezug auf die Kulturförderung;
-- c) zu den Kriterien für die Subventionsgewährung;
-- d) zur Subventionsgewährung, zu Käufen und zu Aufträgen;
-- e) zu den Gesetzes- und Reglementsentwürfen betreffend die kulturellen Angelegenheiten;
-- f) zu jeder die Kultur betreffenden Frage von allgemeiner Bedeutung, die ihr von der Direktion unterbreitet wird.
-
-<sup>4</sup> Die Kommission kann in ihren Zuständigkeitsbereichen Vorschläge vorbringen.
+<sup>2</sup> Der Kanton erhöht seinen jährlichen Beitrag an die kulturellen Aktivitäten laufend, damit dieser bis 2035 einen Betrag von 30 Franken pro Einwohnerin und Einwohner erreicht und anschliessend beibehält.
 
 #### Art. 16
 
-**Rechtsmittel**
+**Datenschutz**
 
-<sup>1</sup> Gegen den Entscheid über die Gewährung einer Subvention kann beim Organ, das ihn getroffen hat, Einsprache erhoben werden.
+<sup>1</sup> Die Vollzugsorgane dieses Gesetzes sind berechtigt, Personendaten zu bearbeiten, die für die Verwaltung der Unterstützungsgesuche und für den Austausch mit den Gesuchstellerinnen und Gesuchstellern notwendig sind.
 
-<sup>2</sup> Gegen den Einspracheentscheid kann gemäss dem Gesetz über die Verwaltungsrechtspflege Beschwerde erhoben werden.
+<sup>2</sup> Der Umfang der Daten sowie die Art und Weise der Bearbeitung werden in den Ausführungsbestimmungen festgelegt.
 
-### 3.3 Künstlerische Gestaltung von Gebäuden
+## 4 Befugnisse innerhalb des Staates
 
 #### Art. 17
 
-<sup>1</sup> Die Voranschläge für den Bau oder für bedeutende Renovationen von Gebäuden des Staates oder seiner Anstalten weisen einen Betrag für die künstlerische Gestaltung auf.
+**Befugnisse des Staatsrats**
 
-<sup>2</sup> Der Staatsrat erlässt Bestimmungen über die Berechnung des einzusetzenden Betrages unter Berücksichtigung der Zweckbestimmung des Gebäudes sowie der Art und der Kosten der Arbeiten.
+<sup>1</sup> Der Staatsrat übt die folgenden Befugnisse aus:
 
-<sup>3</sup> Wird der Bau oder die Renovation eines kommunalen oder interkommunalen Gebäudes, das zum öffentlichen Gebrauch bestimmt ist, vom Staat subventioniert, so werden die Ausgaben für die künstlerische Gestaltung im gleichen Verhältnis subventioniert wie die übrigen Ausgaben.
-
-## 4 Schlussbestimmung
+- a) Er legt die allgemeine Politik der staatlichen Förderung kultureller Aktivitäten fest.
+- b) Er beschliesst die Organisation und Arbeitsweise der Kulturkommission des Staates (Kulturkommission) und ernennt deren Mitglieder.
+- c) Er erlässt die erforderlichen Ausführungsbestimmungen.
+- d) Er entscheidet über die Unterstützungsmassnahmen, die das Reglement in seine Zuständigkeit überträgt.
+- e) Er bestimmt die Organisation und die Arbeitsweise der Kulturkonferenz und des Kulturausschusses (Art. 7).
 
 #### Art. 18
 
-<sup>1</sup> Der Staatsrat wird mit dem Vollzug dieses Gesetzes beauftragt. Er bestimmt den Zeitpunkt des Inkrafttretens.[^18-1]
+**Befugnisse der Direktion**
 
-[^18-1]: Datum des Inkrafttretens: 1. September 1992 (StRB 10.02.1992).
+<sup>1</sup> Die für die Kultur zuständige Direktion[^18-1] (die Direktion) übt die folgenden Befugnisse aus:
 
-BL/AGS 1991 f 276 / d 280
+- a) Sie befasst sich im Rahmen des Staates mit allen Fragen, die in den Bereich der Förderung kultureller Aktivitäten fallen.
+- b) Sie setzt die allgemeine Politik zur Förderung kultureller Aktivitäten um.
+- c) Sie entscheidet über die Unterstützungsmassnahmen, die das Reglement in ihre Zuständigkeit überträgt.
+- d) Sie kann Jurys einsetzen, um besondere Leistungen zu bewerten.
+
+<sup>2</sup> Sie kann ihre Zuständigkeit, insbesondere die Entscheidungskompetenz, für einzelne Themen an das für die Kultur zuständige Amt[^18-2] delegieren.
+
+[^18-1]: Heute: die Direktion für Bildung und kulturelle Angelegenheiten.
+[^18-2]: Heute: Amt für Kultur.
+
+#### Art. 19
+
+**Befugnisse der Kulturkommission des Staates**
+
+<sup>1</sup> Die Kulturkommission ist ein beratendes Organ des Staatsrats, das administrativ der Direktion zugewiesen ist.
+
+<sup>2</sup> Sie repräsentiert mit den Sichtweisen von Expertinnen und Experten und von Bürgerinnen und Bürgern die kulturelle, künstlerische und gesellschaftliche Vielfalt des Kantons.
+
+<sup>3</sup> Sie wird zu folgenden Themen angehört:
+
+- a) Entwurf des Regierungsprogramms im Bereich der Förderung kultureller Aktivitäten;
+- b) Entwurf des Voranschlags für die Förderung kultureller Aktivitäten;
+- c) Entwürfe für Gesetze, Reglemente und Richtlinien über die kulturellen Aktivitäten;
+- d) Vergabe von Finanzhilfen vorbehaltlich der im Ausführungsreglement vorgesehenen Sonderfälle;
+- e) alle Fragen im Zusammenhang mit der Kultur, die unter dieses Gesetz fallen und mit denen sie vom Staatsrat oder der Direktion befasst wird.
+
+<sup>4</sup> Die Kommission kann von sich aus der Direktion oder dem Staatsrat Vorschläge zu den Gegenständen dieses Gesetzes unterbreiten.
+
+## 5 Widerruf, Rückforderung und Rechtsmittel
+
+#### Art. 20
+
+**Widerruf und Rückforderung von Unterstützungen**
+
+<sup>1</sup> Die Instanz, die den Entscheid über eine Unterstützung getroffen hat, widerruft diesen, kürzt den gewährten Betrag und/oder fordert die vollständige oder teilweise Rückerstattung, wenn:
+
+- a) die für die Aktivität gewährte Unterstützung nicht oder nur teilweise entsprechend ihrer Zweckbestimmung verwendet wird;
+- b) die Empfängerin oder der Empfänger die unterstützte Aktivität nach einer Verwarnung nicht oder mangelhaft ausführt; oder
+- c) die Unterstützung unrechtmässig zugesprochen oder ausgezahlt wurde, sei es unter Verletzung des Rechts oder auf der Grundlage eines unrichtigen oder unvollständigen Sachverhalts.
+
+<sup>2</sup> Die zuständige Behörde verzichtet auf den Widerruf ihres Entscheids oder auf die Kürzung des von ihr unrechtmässig zugesicherten oder ausgerichteten Unterstützungsbetrags, wenn:
+
+- a) die Empfängerin oder der Empfänger aufgrund des Entscheids Massnahmen getroffen hat, die nicht ohne kaum zumutbare finanzielle Einbussen rückgängig gemacht werden können;
+- b) sich herausstellt, dass die Rechtsverletzung für die Empfängerin oder den Empfänger schwer erkennbar war; oder
+- c) die unrichtige oder unvollständige Feststellung des Sachverhalts nicht auf schuldhaftes Handeln der Empfängerin oder des Empfängers zurückzuführen ist.
+
+<sup>3</sup> In Härtefällen kann die zuständige Behörde ganz oder teilweise auf die Rückforderung der Unterstützung verzichten.
+
+#### Art. 21
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen den Entscheid über die Gewährung oder den Widerruf einer Unterstützung kann bei der Instanz, die ihn getroffen hat, Einsprache erhoben werden.
+
+<sup>2</sup> Der Einspracheentscheid kann mit Beschwerde nach dem Gesetz über die Verwaltungsrechtspflege[^21-1] angefochten werden.
+
+[^21-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
+
+2026\_014
