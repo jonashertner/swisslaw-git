@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 8. November 1934 über die Banken und Sparkassen (Banke
 short: BankG
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: de
-version: 2024-01-01
+version: 2026-10-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20240101/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20261001/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20240101/de"
 
 (Bankengesetz, BankG)[^t-1]
 
-vom 8. November 1934 (Stand am 1. Januar 2024)
+vom 8. November 1934 (Stand am 1. Oktober 2026)
 
 [^t-1]: Fassung des Titels gemäss Ziff. I des BG vom 22. April 1999, in Kraft seit 1. Okt. 1999 ([AS 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); BBl **1998** 3847).
 
@@ -58,27 +58,27 @@ Dem Gesetz unterstehen insbesondere nicht:
 
 #### Art. 1a
 
-**Banken**[^1bis-1]
+**Banken**[^1a-1]
 
 Als Bank gilt, wer hauptsächlich im Finanzbereich tätig ist und:
 
 - a. gewerbsmässig Publikumseinlagen von mehr als 100 Millionen Franken entgegennimmt oder sich öffentlich dafür empfiehlt;
-- b.[^1bis-2] gewerbsmässig Publikumseinlagen bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennimmt oder sich öffentlich dafür empfiehlt und diese Publikumseinlagen oder Vermögenswerte anlegt oder verzinst; oder
+- b.[^1a-2] gewerbsmässig Publikumseinlagen bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennimmt oder sich öffentlich dafür empfiehlt und diese Publikumseinlagen oder Vermögenswerte anlegt oder verzinst; oder
 - c. sich in erheblichem Umfang bei mehreren nicht massgebend an ihm beteiligten Banken refinanziert, um damit auf eigene Rechnung eine unbestimmte Zahl von Personen oder Unternehmen, mit denen er keine wirtschaftliche Einheit bildet, auf irgendeine Art zu finanzieren.
 
-[^1bis-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1bis-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^1a-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1a-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 1b
 
-**Innovationsförderung**[^1a-1]
+**Innovationsförderung**[^1b-1]
 
 <sup>1</sup>
 
 Die Bestimmungen dieses Gesetzes finden sinngemäss Anwendung auf Personen, die hauptsächlich im Finanzbereich tätig sind und:
 
 - a. gewerbsmässig Publikumseinlagen von bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennehmen oder sich öffentlich dafür empfehlen; und
-- b. diese Publikumseinlagen oder Vermögenswerte weder anlegen noch verzinsen.[^1a-2]
+- b. diese Publikumseinlagen oder Vermögenswerte weder anlegen noch verzinsen.[^1b-2]
 
 <sup>2</sup> Der Bundesrat kann den Betrag nach Absatz 1 unter Berücksichtigung der Wettbewerbs- und Innovationsfähigkeit des Finanzplatzes Schweiz anpassen.
 
@@ -95,27 +95,27 @@ Personen nach Absatz 1 müssen insbesondere:
 
 Vorbehalten bleiben die folgenden Bestimmungen:
 
-- a. Die Rechnungslegung für Personen nach Absatz 1 richtet sich ausschliesslich nach den Vorschriften des Obligationenrechts (OR)[^1a-3].
+- a. Die Rechnungslegung für Personen nach Absatz 1 richtet sich ausschliesslich nach den Vorschriften des Obligationenrechts (OR)[^1b-3].
 - b. Personen nach Absatz 1 müssen ihre Jahresrechnung und gegebenenfalls ihre Konzernrechnung nach den Vorschriften des OR prüfen lassen; Artikel 727*a* Absätze 2–5 OR ist nicht anwendbar.
-- c. Personen nach Absatz 1 beauftragen eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 oder Absatz 4<sup>bis</sup> des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^1a-4] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1a-5] (FINMAG).
-- d.[^1a-6] Auf Publikumseinlagen oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte bei Personen nach Absatz 1 finden die Bestimmungen über privilegierte Einlagen (Art. 37*a*) und über die sofortige Auszahlung (Art. 37*b*) keine Anwendung; die Einleger sind über diesen Umstand zu informieren, bevor sie die Einlage tätigen.
+- c. Personen nach Absatz 1 beauftragen eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 oder Absatz 4<sup>bis</sup> des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^1b-4] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1b-5] (FINMAG).
+- d.[^1b-6] Auf Publikumseinlagen oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte bei Personen nach Absatz 1 finden die Bestimmungen über privilegierte Einlagen (Art. 37*a*) und über die sofortige Auszahlung (Art. 37*b*) keine Anwendung; die Einleger sind über diesen Umstand zu informieren, bevor sie die Einlage tätigen.
 
 <sup>5</sup> Die FINMA kann in besonderen Fällen die Absätze 1–4 auch für Personen anwendbar erklären, die gewerbsmässig Publikumseinlagen von mehr als 100 Millionen Franken entgegennehmen oder sich öffentlich dafür empfehlen, diese weder anlegen noch verzinsen und den Schutz der Kunden durch besondere Vorkehrungen gewährleisten.
 
 <sup>6</sup> Wird der Schwellenwert von 100 Millionen Franken überschritten, so muss dies innerhalb von 10 Tagen der FINMA gemeldet und ihr innerhalb von 90 Tagen ein Bewilligungsgesuch nach Artikel 1*a* eingereicht werden. Vorbehalten bleibt Absatz 5.
 
-[^1a-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1a-2]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^1a-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^1a-4]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
-[^1a-5]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
-[^1a-6]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^1b-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1b-2]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^1b-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^1b-4]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^1b-5]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^1b-6]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 1<sup>bis</sup>
 
-[^1b-1]
+[^1bis-1]
 
-[^1b-1]: Eingefügt durch Anhang Ziff. II 5 des Nationalbankgesetzes vom 3. Okt. 2003 ([AS 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221); [BBl 2002 6097](https://fedlex.data.admin.ch/eli/fga/2002/997)). Aufgehoben durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^1bis-1]: Eingefügt durch Anhang Ziff. II 5 des Nationalbankgesetzes vom 3. Okt. 2003 ([AS 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221); [BBl 2002 6097](https://fedlex.data.admin.ch/eli/fga/2002/997)). Aufgehoben durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 2
 
@@ -701,16 +701,9 @@ Die Genossenschaftsbank kann unter folgenden Voraussetzungen eigene Beteiligungs
 
 #### Art. 14b
 
-**Meldepflicht und Verzeichnis bei Genossenschaftsbanken**[^14b-1]
+[^14b-1]
 
-<sup>1</sup> Für den Erwerb von nicht kotierten Beteiligungsscheinen gelten die Melde-, Nachweis- und Identifizierungspflichten gegenüber der Genossenschaftsbank sinngemäss wie beim Erwerb von nicht kotierten Inhaberaktien gegenüber der Aktiengesellschaft (Art. 697*i*–697*k* und 697*m* OR[^14b-2]).
-
-<sup>2</sup> Die Genossenschaftsbank trägt die Inhaber von Beteiligungsscheinen sowie die der Genossenschaftsbank gemeldeten wirtschaftlich berechtigten Personen ins Genossenschafterverzeichnis ein.
-
-<sup>3</sup> Für das Verzeichnis gilt neben den Bestimmungen für das Genossenschafterverzeichnis die aktienrechtliche Bestimmung über das Verzeichnis der Inhaberaktionäre sowie der wirtschaftlich berechtigten Personen, die der Gesellschaft gemeldet sind, sinngemäss (Art. 697*l* OR).
-
-[^14b-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14b-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^14b-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Aufgehoben durch Anhang Ziff. 9 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Siebenter Abschnitt: Spareinlagen und Depotwerte
 

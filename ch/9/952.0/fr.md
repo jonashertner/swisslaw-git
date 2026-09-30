@@ -4,11 +4,11 @@ title: "Loi fédérale du 8 novembre 1934 sur les banques et les caisses d'épar
 short: LB
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: fr
-version: 2024-01-01
+version: 2026-10-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20240101/fr"
 
 (Loi sur les banques, LB)[^t-1]
 
-du 8 novembre 1934 (État le 1<sup>er</sup> janvier 2024)
+du 8 novembre 1934 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 22 avr. 1999, en vigueur depuis le 1<sup>er</sup> oct. 1999 ([RO 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); FF **1998** 3349).
 
@@ -55,12 +55,6 @@ La présente loi ne s’applique notamment pas:
 [^1-2]: Actuellement: entreprises individuelles.
 [^1-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 [^1-4]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-
-#### Art. 1<sup>bis</sup>
-
-[^1bis-1]
-
-[^1bis-1]: Introduit par l’annexe ch. II 5 de la LF du 3 oct. 2003 sur la Banque nationale ([RO 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221); [FF 2002 5645](https://fedlex.data.admin.ch/eli/fga/2002/997)). Abrogé par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 1a
 
@@ -116,6 +110,12 @@ Les dispositions suivantes sont réservées:
 [^1b-4]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^1b-5]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^1b-6]: Nouvelle teneur selon le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+#### Art. 1<sup>bis</sup>
+
+[^1bis-1]
+
+[^1bis-1]: Introduit par l’annexe ch. II 5 de la LF du 3 oct. 2003 sur la Banque nationale ([RO 2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221); [FF 2002 5645](https://fedlex.data.admin.ch/eli/fga/2002/997)). Abrogé par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 2
 
@@ -703,16 +703,9 @@ La banque coopérative peut acquérir ses propres bons de participation sociale 
 
 #### Art. 14b
 
-**Obligation d’annoncer et liste pour les banques coopératives**[^14b-1]
+[^14b-1]
 
-<sup>1</sup> Les obligations d’annoncer, de prouver et d’identifier liées à l’acquisition de bons de participation sociale non cotés qui doivent être remplies envers la banque coopérative sont soumises aux dispositions régissant l’acquisition d’actions au porteur non cotées, qui s’appliquent par analogie (art. 697*i* à 697*k* et 697*m* CO[^14b-2]).
-
-<sup>2</sup> La banque coopérative enregistre les détenteurs de bons de participation sociale et les ayants droit économiques annoncés dans la liste des associés.
-
-<sup>3</sup> La liste est régie, en sus des dispositions relatives à la liste des associés, par les dispositions du droit de la société anonyme sur le registre des actionnaires et des ayants droit économiques à annoncer à la société, qui s’appliquent par analogie (art. 697*l* CO).
-
-[^14b-1]: Introduit par l’annexe ch. II 14 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14b-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^14b-1]: Introduit par l’annexe ch. II 14 de la LF du 15 juin 2018 sur les établissements financiers ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Abrogé par l’annexe ch. 9 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Chapitre VII Dépôts d’épargne et valeurs déposées
 
@@ -1328,7 +1321,7 @@ Les valeurs déposées au sens de l’art. 16 de la présente loi sont distraite
 
 #### Art. 37g
 
-[^37g-1]
+**Reconnaissance des décisions de faillite et mesures étrangères**[^37g-1]
 
 <sup>1</sup> La FINMA décide de la reconnaissance des décisions de faillite et des mesures applicables en cas d’insolvabilité prononcées à l’étranger.
 
