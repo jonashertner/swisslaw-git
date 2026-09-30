@@ -4,20 +4,21 @@ number: "935.505"
 title: "Ordonnance concernant l'attribution des bénéfices résultant des loteries"
 short: OBL
 language: fr
-version: 2021-03-19
-valid_until: 2026-09-30
-version_adopted: 2021-03-10
+version: 2026-10-01
+version_adopted: 2026-08-19
 adopted: 2001-07-04
 in_force: 2001-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.505"
-pdf: "https://lex.vs.ch/api/fr/versions/2864/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3649/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant l'attribution des bénéfices résultant des loteries
 
-du 04.07.2001 (état 19.03.2021)
+(OBL)
+
+du 04.07.2001 (état 01.10.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -128,9 +129,11 @@ ordonne:
 
 #### Art. 9
 
-**Contrôle et approbation du Conseil d'Etat**
+**Surveillance**
 
-<sup>1</sup> Les règlements d'organisation, d'indemnisation et de répartition, les comptes annuels et les décisions de la délégation sont soumis pour approbation au Conseil d'Etat.
+<sup>1</sup> Les règlements d'organisation, d'indemnisation et de répartition, ainsi que les comptes annuels de la délégation sont soumis pour approbation au Conseil d'Etat.
+
+<sup>1<sup>bis</sup></sup> Les décisions de la délégation sont transmises au Conseil d'Etat pour prise de connaissance.
 
 <sup>2</sup> La délégation délivre annuellement au 30 avril par écrit le rapport de gestion et le rapport de révision de l'année écoulée au département compétent.
 
@@ -140,7 +143,7 @@ ordonne:
 
 **Recours**
 
-<sup>1</sup> Les décisions de la délégation approuvées par le Conseil d'Etat sont définitives et ne peuvent faire l'objet d'un recours.
+<sup>1</sup> Les décisions de la délégation sont définitives et ne peuvent faire l'objet d'un recours.
 
 #### Art. 11
 

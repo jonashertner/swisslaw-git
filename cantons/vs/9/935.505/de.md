@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "935.505"
-title: Verordnung betreffend der Verteilung der Gewinne aus Lotterien
+title: "Verordnung betreffend der Verteilung der Gewinne aus Lotterien *"
 short: VGL
 language: de
-version: 2021-03-19
-valid_until: 2026-09-30
-version_adopted: 2021-03-10
+version: 2026-10-01
+version_adopted: 2026-08-19
 adopted: 2001-07-04
 in_force: 2001-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.505"
-pdf: "https://lex.vs.ch/api/de/versions/2864/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3649/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend der Verteilung der Gewinne aus Lotterien
 
-vom 04.07.2001 (Stand 19.03.2021)
+(VGL)
+
+vom 04.07.2001 (Stand 01.10.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -128,9 +129,11 @@ verordnet:
 
 #### Art. 9
 
-**Aufsicht und Genehmigung durch den Staatsrat**
+**Überwachung**
 
-<sup>1</sup> Das Organisations-, Entschädigungs- und Verteilreglement, die Jahresrechnung sowie die Entscheide der Delegation unterliegen der Genehmigung durch den Staatsrat.
+<sup>1</sup> Das Organisations-, Entschädigungs- und Verteilreglement sowie die Jahresrechnung der Delegation unterliegen der Genehmigung durch den Staatsrat.
+
+<sup>1<sup>bis</sup></sup> Die Entscheide der Delegation werden dem Staatsrat zur Kenntnisnahme übermittelt.
 
 <sup>2</sup> Die Delegation hat dem zuständigen Departement jedes Jahr am 30. April den schriftlichen Tätigkeitsbericht und den Kontrollbericht über das vergangene Geschäftsjahr abzuliefern.
 
@@ -140,7 +143,7 @@ verordnet:
 
 **Rechtsmittel**
 
-<sup>1</sup> Die durch den Staatsrat genehmigten Entscheide der Delegation sind endgültig und mit keinem Rechtsmittel anfechtbar.
+<sup>1</sup> Die Entscheide der Delegation sind endgültig und mit keinem Rechtsmittel anfechtbar.
 
 #### Art. 11
 
