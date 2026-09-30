@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sugli investimenti collettivi di capit
 short: LICol
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: it
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2006-822-20240301-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2006-822-20261001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/it"
 
 (Legge sugli investimenti collettivi, LICol)
 
-del 23 giugno 2006 (Stato 1° marzo 2024)
+del 23 giugno 2006 (Stato 1° ottobre 2026)
 
 L’Assemblea federale della Confederazione Svizzera;
 
@@ -75,17 +75,17 @@ Alla presente legge non sono sottoposte le società d’investimento svizzere ne
 
 <sup>4</sup> *...*[^2-11]
 
-[^2-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-3]: Abrogate dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-4]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^2-1]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-3]: Abrogate dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-4]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^2-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^2-6]: Introdotta dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-7]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-6]: Introdotta dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogata dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-7]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogato dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-8]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-9]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-10]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^2-11]: Abrogato dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^2-10]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^2-11]: Abrogato dalla cifra I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 3 a 6
 
@@ -111,9 +111,9 @@ Alla presente legge non sono sottoposte le società d’investimento svizzere ne
 
 [^7-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^7-2]: Nuovo testo del per. giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^7-3]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^7-3]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^7-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
-[^7-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^7-5]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^7-6]: Introdotto dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 8
@@ -126,7 +126,7 @@ Alla presente legge non sono sottoposte le società d’investimento svizzere ne
 
 <sup>3</sup> Gli investimenti collettivi di capitale aperti dispongono di un regolamento del fondo. Nel caso del fondo contrattuale di investimento esso corrisponde al contratto collettivo di investimento (contratto del fondo) e in quello della SICAV allo statuto e al regolamento di investimento.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 9
 
@@ -140,8 +140,8 @@ Alla presente legge non sono sottoposte le società d’investimento svizzere ne
 
 <sup>4</sup> La SICAF si fonda sullo statuto ed emana un regolamento di investimento.
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^9-2]: Nuova espressione giusta il n. I cpv. 1della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^9-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^9-2]: Nuova espressione giusta la cifra I cpv. 1della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 10
 
@@ -184,13 +184,13 @@ La FINMA può esentare integralmente o parzialmente gli investimenti collettivi 
 
 [^10-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^10-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-3]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^10-3]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^10-4]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
-[^10-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^10-5]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^10-6]: Abrogato dall’all. n. 3 della L del sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^10-7]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^10-8]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^10-9]: Abrogata dal n. I della LF del 28 set. 2012, con effetto dal 1° giu. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^10-9]: Abrogata dalla cifra I della LF del 28 set. 2012, con effetto dal 1° giu. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^10-10]: Abrogata dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 11
@@ -207,7 +207,7 @@ Le quote sono crediti nei confronti della direzione del fondo sotto forma di par
 
 <sup>2</sup> Le designazioni come «fondo di investimento», «fondo di collocamento», «società di investimento a capitale variabile», «SICAV», «società in accomandita per investimenti collettivi di capitale», «SAcCol», «società di investimento a capitale fisso», «SICAF», «fondo riservato a investitori qualificati» e «L-QIF» possono essere utilizzate soltanto per designare gli investimenti collettivi di capitale corrispondenti, sottoposti alla presente legge.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### Capitolo 3: Autorizzazione e approvazione
 
@@ -239,14 +239,14 @@ Devono chiedere l’autorizzazione:
 
 <sup>5</sup> Le persone di cui al capoverso 2 lettere b–d possono essere iscritte nel registro di commercio soltanto ad avvenuto rilascio dell’autorizzazione da parte della FINMA.[^13-8]
 
-[^13-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-2]: Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-3]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-4]: Abrogate dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-5]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^13-6]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^13-7]: Abrogato dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^13-8]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-1]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-2]: Abrogata dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-3]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-4]: Abrogate dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-5]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^13-6]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^13-7]: Abrogato dalla cifra I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^13-8]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 14
 
@@ -277,13 +277,13 @@ Si considerano persone che detengono una partecipazione qualificata, per quanto 
 - b. le società in nome collettivo e le società in accomandita;
 - c. le persone unite da vincoli economici, quando raggiungono insieme tale percentuale minima.[^14-7]
 
-[^14-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-2]: Introdotta dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^14-1]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^14-2]: Introdotta dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^14-4]: Introdotto dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^14-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-6]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^14-7]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^14-5]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^14-6]: Abrogato dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^14-7]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 15
 
@@ -303,8 +303,8 @@ I seguenti documenti necessitano dell’approvazione della FINMA:
 
 <sup>3</sup> I documenti di un L-QIF e la loro modifica non necessitano né dell’approvazione di cui al capoverso 1 né dell’approvazione di cui al capoverso 2.[^15-2]
 
-[^15-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^15-2]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^15-1]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^15-2]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 16
 
@@ -324,7 +324,7 @@ Il Consiglio federale può prevedere una procedura semplificata di autorizzazion
 
 [^1818c-1]
 
-[^1818c-1]: Abrogati dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1818c-1]: Abrogati dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Sezione 3: ...
 
@@ -332,7 +332,7 @@ Il Consiglio federale può prevedere una procedura semplificata di autorizzazion
 
 [^19-1]
 
-[^19-1]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^19-1]: Abrogato dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Capitolo 4: Tutela degli interessi degli investitori
 
@@ -357,10 +357,10 @@ Le persone che gestiscono, custodiscono o rappresentano investimenti collettivi 
 <sup>3</sup> Le persone che gestiscono, custodiscono o rappresentano investimenti collettivi di capitale e i loro mandatari adottano tutte le misure necessarie al fine di adempiere questi obblighi per l’insieme delle loro attività.[^20-5]
 
 [^20-1]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^20-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^20-3]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^20-4]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^20-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^20-5]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 21
 
@@ -433,7 +433,7 @@ Il fondo contrattuale di investimento (fondo di investimento) è basato su un co
 
 <sup>3</sup> Il Consiglio federale stabilisce il contenuto minimo.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 27
 
@@ -448,7 +448,7 @@ Il fondo contrattuale di investimento (fondo di investimento) è basato su un co
 <sup>4</sup> La FINMA pubblica la sua decisione negli organi di pubblicazione.
 
 [^27-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^27-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^27-2]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 ### Sezione 3: ...
 
@@ -456,7 +456,7 @@ Il fondo contrattuale di investimento (fondo di investimento) è basato su un co
 
 [^2835-1]
 
-[^2835-1]: Abrogati dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2835-1]: Abrogati dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Capitolo 2: Società di investimento a capitale variabile
 
@@ -479,10 +479,10 @@ La società di investimento a capitale variabile (SICAV) è una società:
 
 <sup>3</sup> La SICAV può delegare le decisioni di investimento soltanto a persone che dispongono dell’autorizzazione necessaria all’esercizio di tale attività Gli articoli 14 e 35 LIsFi[^36-3] si applicano per analogia.[^36-4] [^36-5]
 
-[^36-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^36-2]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^36-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
-[^36-4]: Nuovo testo del secondo per. giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^36-5]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^36-4]: Nuovo testo del secondo per. giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^36-5]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 37
 
@@ -495,8 +495,8 @@ La società di investimento a capitale variabile (SICAV) è una società:
 <sup>3</sup> ...[^37-3]
 
 [^37-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^37-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^37-3]: Abrogato dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^37-2]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^37-3]: Abrogato dalla cifra I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 38
 
@@ -542,7 +542,7 @@ La società di investimento a capitale variabile (SICAV) è una società:
 
 <sup>4</sup> I diritti e gli obblighi degli azionisti imprenditori passano all’acquirente con il trasferimento delle azioni.
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 42
 
@@ -601,7 +601,7 @@ In casi motivati la FINMA può autorizzare deroghe a questo obbligo, se:
 - b. uno o più istituti sottostanti a una vigilanza equivalente effettuano le transazioni connesse all’esecuzione e sono specializzati in simili transazioni («*prime broker*»); e
 - c. è garantito che i *p**rime broker* o le competenti autorità di vigilanza estere dei *prime broker* forniscano alla FINMA tutte le informazioni e tutti i documenti necessari all’adempimento del suo compito.
 
-[^44a-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^44a-1]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 45
 
@@ -616,7 +616,7 @@ Le disposizioni sulle offerte pubbliche di acquisto (art. 125–141 della L del 
 
 [^tit2-chap2-sec2-1]
 
-[^tit2-chap2-sec2-1]: Nuovo testo giusta il n. I 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^tit2-chap2-sec2-1]: Nuovo testo giusta la cifra I n. 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 #### Art. 46
 
@@ -626,24 +626,18 @@ Le disposizioni sulle offerte pubbliche di acquisto (art. 125–141 della L del 
 
 <sup>2</sup> Gli azionisti possono rappresentare personalmente le loro azioni all’assemblea generale o farle rappresentare da un terzo. Sempreché lo statuto non preveda altrimenti, non è necessario che i terzi siano azionisti.
 
-<sup>3</sup> La SICAV tiene un registro delle azioni d’imprenditore nel quale sono iscritti i nomi e indirizzi. Essa tiene inoltre conformemente all’articolo 697*l* del Codice delle obbligazioni[^46-1] un elenco degli aventi economicamente diritto alle azioni degli azionisti imprenditori.[^46-2]
+<sup>3</sup> La SICAV tiene un registro degli azionisti imprenditori nel quale sono iscritti i loro nomi e indirizzi.[^46-1]
 
-<sup>4</sup> Lo statuto può prevedere che gli azionisti imprenditori e gli azionisti investitori abbiano entrambi diritto ad almeno un seggio nel consiglio di amministrazione sia nelle SICAV con gestione autonoma che in quelle con gestione di terzi.[^46-3]
+<sup>4</sup> Lo statuto può prevedere che gli azionisti imprenditori e gli azionisti investitori abbiano entrambi diritto ad almeno un seggio nel consiglio di amministrazione sia nelle SICAV con gestione autonoma che in quelle con gestione di terzi.[^46-2]
 
-[^46-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^46-2]: Per. introdotto dal n. I 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46-3]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^46-1]: Nuovo testo giusta l’all. n. 8 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^46-2]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 46a
 
-**Obbligo di annunciare degli azionisti imprenditori**[^46a-1]
+[^46a-1]
 
-<sup>1</sup> Gli azionisti imprenditori le cui azioni non sono quotate in borsa sottostanno all’obbligo di annunciare di cui all’articolo 697*j* del Codice delle obbligazioni[^46a-2].
-
-<sup>2</sup> Le conseguenze dell’inosservanza dell’obbligo di annunciare sono rette dall’articolo 697*m* del Codice delle obbligazioni.
-
-[^46a-1]: Introdotto dal n. I 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^46a-1]: Introdotto dalla cifra I n. 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogato dall’all. n. 8 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, con effetto dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 47
 
@@ -703,7 +697,7 @@ Per il rimanente sono applicabili le disposizioni degli articoli 78 segg.
 [^51-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^51-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^51-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
-[^51-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^51-4]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^51-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^51-6]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
@@ -827,7 +821,7 @@ Gli investimenti devono essere ripartiti per oggetti, tipo di utilizzazione, et�
 
 <sup>4</sup> In singoli casi motivati la FINMA può concedere nell’interesse degli investitori deroghe al divieto di concludere negozi con persone vicine di cui ai capoversi 2 e 3. Il Consiglio federale stabilisce i criteri di deroga.[^63-1]
 
-[^63-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^63-1]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 64
 
@@ -849,9 +843,9 @@ L’approvazione è concessa se i periti incaricati delle stime:
 
 <sup>5</sup> Essa può stabilire ulteriori esigenze relative ai periti incaricati delle stime e definire i metodi di stima.
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^64-2]: Abrogata dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^64-3]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^64-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^64-2]: Abrogata dalla cifra I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^64-3]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 65
 
@@ -939,8 +933,8 @@ Per questi fondi possono in particolare essere effettuati investimenti che:
 <sup>2</sup> Oltre alle persone responsabili della gestione, anche le persone incaricate di svolgere i compiti della banca depositaria devono adempiere le esigenze di cui all’articolo 14 capoverso 1 lettere a e a<sup>bis</sup>.[^72-3]
 
 [^72-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^72-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^72-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^72-2]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^72-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 73
 
@@ -964,8 +958,8 @@ La banca depositaria provvede al rispetto della legge e del regolamento del fond
 
 [^73-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^73-2]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^73-3]: Introdotto dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^73-4]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^73-3]: Introdotto dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^73-4]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 74
 
@@ -978,8 +972,8 @@ La banca depositaria provvede al rispetto della legge e del regolamento del fond
 <sup>3</sup> La FINMA pubblica la sua decisione negli organi di pubblicazione.
 
 [^74-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
-[^74-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^74-3]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^74-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^74-3]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Sezione 2: ...
 
@@ -1010,7 +1004,7 @@ Mediante la conclusione del contratto o tramite la sottoscrizione e il versament
 
 <sup>5</sup> Nel caso degli investimenti collettivi di capitale multi-comparto i diritti patrimoniali sono disciplinati dagli articoli 93 capoverso 2 e 94 capoverso 2.
 
-[^78-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^78-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 78a
 
@@ -1020,7 +1014,7 @@ Mediante la conclusione del contratto o tramite la sottoscrizione e il versament
 
 <sup>2</sup> Il Consiglio federale può precisare ulteriormente quest’obbligo.
 
-[^78a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^78a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 79
 
@@ -1030,7 +1024,7 @@ Mediante la conclusione del contratto o tramite la sottoscrizione e il versament
 
 <sup>2</sup> Esso può tuttavia sospendere il diritto di riscatto in qualsiasi momento al massimo per cinque anni.
 
-[^79-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^79-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 80
 
@@ -1077,7 +1071,7 @@ Il Consiglio federale prescrive il riscatto coatto se:
 
 <sup>3</sup> Gli investitori possono chiedere al giudice della sede della direzione del fondo o della SICAV che la società di audit o un altro perito esaminino i fatti che necessitano chiarimenti e presentino loro un rendiconto.
 
-[^84-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^84-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 85
 
@@ -1152,8 +1146,8 @@ Un rapporto annuale è pubblicato per ogni investimento collettivo di capitale a
 
 <sup>5</sup> Essi devono essere tenuti gratuitamente a disposizione delle persone interessate durante un periodo di dieci anni.
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^89-2]: Nuova espressione giusta il n. I cpv. 3 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^89-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^89-2]: Nuova espressione giusta la cifra I cpv. 3 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^89-3]: Nuova espressione giusta l’all.n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 90
@@ -1198,7 +1192,7 @@ Ogni segmento di un investimento collettivo di capitale aperto multi-comparto (*
 
 <sup>2</sup> Ogni segmento patrimoniale secondo il capoverso 1 risponde soltanto dei propri impegni.[^94-1]
 
-[^94-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^94-1]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Sezione 6: Ristrutturazione e scioglimento
 
@@ -1216,7 +1210,7 @@ Sono ammesse le seguenti ristrutturazioni di investimenti collettivi di capitale
 
 <sup>2</sup> Una ristrutturazione ai sensi del capoverso 1 lettere b e c può essere iscritta nel registro di commercio soltanto successivamente alla sua approvazione da parte della FINMA conformemente all’articolo 15.
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^95-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 96
@@ -1285,10 +1279,10 @@ La SICAV è sciolta:
 
 <sup>3</sup> Gli accomandanti devono essere investitori qualificati ai sensi dell’articolo 10 capoverso 3 o 3<sup>ter</sup>.[^98-4]
 
-[^98-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^98-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^98-3]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^98-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^98-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^98-3]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^98-4]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 99
 
@@ -1312,7 +1306,7 @@ Sempreché la presente legge non preveda altrimenti, si applicano le disposizion
 
 La ditta della società deve contenere la designazione della forma giuridica o la sua abbreviazione (SAcCol).
 
-[^101-1]: Nuovo testo giusta il n. III della LF del 25 set. 2015 (Diritto delle ditte commerciali), in vigore dal 1° lug. 2016 ([RU 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [FF 2014 8039](https://fedlex.data.admin.ch/eli/fga/2014/2039)).
+[^101-1]: Nuovo testo giusta la cifra III della LF del 25 set. 2015 (Diritto delle ditte commerciali), in vigore dal 1° lug. 2016 ([RU 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [FF 2014 8039](https://fedlex.data.admin.ch/eli/fga/2014/2039)).
 
 #### Art. 102
 
@@ -1337,8 +1331,8 @@ Il contratto di società deve contenere disposizioni relative:
 
 <sup>3</sup> ...[^102-3]
 
-[^102-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^102-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^102-3]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 102a
@@ -1356,7 +1350,7 @@ Il contratto di società può essere modificato per decisione della maggioranza 
 
 <sup>3</sup> Il contratto di società modificato per decisione della maggioranza dei soci necessita unicamente della firma degli accomandatari.
 
-[^102a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^102a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 103
 
@@ -1394,7 +1388,7 @@ Il contratto di società può essere modificato per decisione della maggioranza 
 
 <sup>2</sup> Gli accomandanti hanno il diritto di essere informati almeno una volta per trimestre sull’andamento degli affari della società.
 
-[^106-1]: Nuova espressione giusta il n. I cpv. 2 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^106-1]: Nuova espressione giusta la cifra I cpv. 2 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 107
 
@@ -1437,7 +1431,7 @@ La società di investimento a capitale fisso (SICAF) è una società anonima ai 
 <sup>2</sup> Tra i mezzi propri e il patrimonio complessivo della SICAF deve sussistere un adeguato rapporto. Il Consiglio federale disciplina tale rapporto.[^110-2]
 
 [^110-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^110-2]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^110-2]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 111
 
@@ -1475,7 +1469,7 @@ Sempreché la presente legge non preveda altrimenti, si applicano le disposizion
 
 La SICAF deve far capo a una banca depositaria ai sensi degli articoli 72–74.
 
-[^114-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^114-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 115
 
@@ -1509,7 +1503,7 @@ La SICAF designa una società di audit (art. 126 segg.).
 
 [^tit3a-1]
 
-[^tit3a-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^tit3a-1]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 ### Capitolo 1: Disposizioni generali
 
@@ -1773,16 +1767,16 @@ L’approvazione è concessa se:[^120-2]
 
 <sup>5</sup> I piani di partecipazione del personale sotto forma di investimenti collettivi di capitale esteri che vengono offerti esclusivamente ai collaboratori non necessitano di alcuna approvazione.[^120-10]
 
-[^120-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^120-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^120-3]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^120-4]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^120-5]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^120-6]: Introdotta dal della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^120-1]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^120-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^120-3]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^120-4]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^120-5]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^120-6]: Introdotta dal della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^120-7]: Introdotto dal della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^120-8]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
-[^120-9]: Introdotto dal della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^120-10]: Introdotto dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^120-9]: Introdotto dal della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^120-10]: Introdotto dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 121
 
@@ -1811,7 +1805,7 @@ Il Consiglio federale è autorizzato a concludere, sulla base del riconoscimento
 <sup>2</sup> La direzione del fondo e la società si impegnano a fornire al rappresentante tutte le informazioni necessarie all’assunzione dei suoi compiti.
 
 [^123-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
-[^123-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^123-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 124
 
@@ -1836,9 +1830,9 @@ Il foro è:
 - a. quello della sede del rappresentante; o
 - b. quello della sede o del domicilio dell’investitore.[^125-3]
 
-[^125-1]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^125-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^125-3]: Introdotto dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^125-1]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^125-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^125-3]: Introdotto dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ## Titolo quinto: Verifica e vigilanza
 
@@ -1872,11 +1866,11 @@ Le seguenti persone incaricano una società di audit abilitata dall’Autorità 
 [^126-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^126-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^126-3]: Nuovo testo giusta l’all. n. 4 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^126-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^126-5]: Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^126-4]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^126-5]: Abrogata dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-6]: Abrogato dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^126-7]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^126-8]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^126-7]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^126-8]: Abrogato dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^126-9]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^126-10]: Introdotto dall’all. n. 4 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^126-11]: Introdotto dall’all. n. 4 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
@@ -1916,7 +1910,7 @@ Le seguenti persone incaricano una società di audit abilitata dall’Autorità 
 <sup>3</sup> I L-QIF non sono sottoposti alla vigilanza della FINMA.[^132-2]
 
 [^132-1]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^132-2]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^132-2]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
 #### Art. 133
 
@@ -1932,7 +1926,7 @@ Le seguenti persone incaricano una società di audit abilitata dall’Autorità 
 
 [^133-1]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^133-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
-[^133-3]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^133-3]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 134
 
@@ -1969,11 +1963,11 @@ La FINMA può disporre la liquidazione di titolari dell’autorizzazione ai qual
 <sup>3</sup> La FINMA nomina uno o più liquidatori del fallimento. Essi sottostanno alla sua vigilanza e su richiesta le fanno rapporto.[^137-6]
 
 [^137-1]: Nuovo testo giusta l’all. n. 3 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^137-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^137-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^137-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^137-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^137-5]: Nuovo testo giusta l’all. n. 11 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^137-6]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^137-6]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 138
 
@@ -1985,7 +1979,7 @@ La FINMA può disporre la liquidazione di titolari dell’autorizzazione ai qual
 
 <sup>3</sup> La FINMA può prendere decisioni e disposizioni derogatorie.
 
-[^138-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^138-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^138-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 138a
@@ -2017,8 +2011,8 @@ Il liquidatore del fallimento può proporre alla FINMA di:
 
 [^138b-1]: Introdotto dal della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^138b-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
-[^138b-3]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^138b-4]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^138b-3]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^138b-4]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 138c
 
@@ -2039,7 +2033,7 @@ Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^138c-2] sulle ban
 
 <sup>3</sup> I ricorsi nella procedura di fallimento non hanno effetto sospensivo. Su domanda, il giudice dell’istruzione può accordare l’effetto sospensivo.
 
-[^138d-1]: Introdotto dall’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^138d-1]: Introdotto dall’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^138d-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 139
@@ -2057,7 +2051,7 @@ Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^138c-2] sulle ban
 
 [^140-1]
 
-[^140-1]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^140-1]: Abrogato dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 141
 
@@ -2087,8 +2081,8 @@ Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^138c-2] sulle ban
 
 <sup>3</sup> Sono fatti salvi gli obblighi di fornire informazioni statistiche alla Banca nazionale svizzera sanciti dalla legge federale del 3 ottobre 2003[^144-3] sulla Banca nazionale e la competenza della FINMA e della Banca nazionale di scambiarsi dati.
 
-[^144-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^144-2]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^144-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^144-2]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^144-3]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 ## Titolo sesto: Responsabilità e disposizioni penali
@@ -2121,12 +2115,12 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 <sup>5</sup> La responsabilità della SAcCol è retta dalle disposizioni del Codice delle obbligazioni relative alla società in accomandita.
 
-[^145-1]: Nuovo testo della seconda frase giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^145-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^145-1]: Nuovo testo della seconda frase giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^145-2]: Nuovo testo giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^145-3]: Nuovo testo giusta l’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^145-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
-[^145-5]: Nuovo testo del terzo per. giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^145-6]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^145-5]: Nuovo testo del terzo per. giusta l’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^145-6]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^145-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 146
@@ -2190,16 +2184,16 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 <sup>3</sup> ...[^148-11]
 
-[^148-1]: Nuovo testo giusta il n. I 1 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale, in vigore dal 1° lug. 2015 ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
+[^148-1]: Nuovo testo giusta la cifra I n. 1 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale, in vigore dal 1° lug. 2015 ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
 [^148-2]: Abrogata dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^148-3]: Abrogata dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^148-4]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2918 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^148-5]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2918 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^148-6]: Nuovo testo giusta l’all. n. 3 della L del 15 giu. 2918 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^148-7]: Abrogata dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^148-8]: Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^148-9]: Introdotta dal n. I 1 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)). Abrogata dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^148-10]: Introdotto dal n. I 1 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)). Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^148-8]: Abrogata dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^148-9]: Introdotta dalla cifra I n. 1 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)). Abrogata dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^148-10]: Introdotto dalla cifra I n. 1 della LF del 12 dic. 2014 sull’estensione della punibilità della violazione del segreto professionale ([RU 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5347](https://fedlex.data.admin.ch/eli/fga/2014/1334)[5357](https://fedlex.data.admin.ch/eli/fga/2014/1336)). Abrogato dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^148-11]: Abrogato dall’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 149
@@ -2227,9 +2221,9 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 [^149-1]: Abrogata dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-2]: Abrogata dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^149-3]: Introdotta dal n. I 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^149-4]: Introdotta dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^149-5]: Introdotta dal n. I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-3]: Introdotta dalla cifra I n. 6 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^149-4]: Introdotta dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
+[^149-5]: Introdotta dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^149-6]: Abrogato dall’all. n. 3 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^149-7]: Abrogato dall’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^149-8]: Abrogato dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
@@ -2238,7 +2232,7 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 [^150-1]
 
-[^150-1]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^150-1]: Abrogato dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 151
 
@@ -2250,13 +2244,13 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 [^tit7-1]
 
-[^tit7-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^tit7-1]: Nuovo testo giusta la cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 ### Capitolo 1: Esecuzione; abrogazione e modifica del diritto vigente
 
 [^tit7-chap1-1]
 
-[^tit7-chap1-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^tit7-chap1-1]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 152
 
@@ -2280,7 +2274,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 [^154158-1]
 
-[^154158-1]: Abrogati dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^154158-1]: Abrogati dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Capitolo 3: ...
 
@@ -2288,13 +2282,13 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 [^158a158e-1]
 
-[^158a158e-1]: Introdotti dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogati dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^158a158e-1]: Introdotti dalla cifra I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogati dall’all. cifra II n. 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Capitolo 4: Referendum ed entrata in vigore
 
 [^tit7-chap4-1]
 
-[^tit7-chap4-1]: Introdotto dal n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^tit7-chap4-1]: Introdotto dalla cifra I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 159
 
@@ -2306,7 +2300,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 Data dell’entrata in vigore: 1° gennaio 2007[^159-2]
 
-[^159-1]: Abrogata dal n. I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^159-1]: Abrogata dalla cifra I della LF del 28 set. 2012, con effetto dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^159-2]: DCF del 22 nov. 2006
 
 Allegato
@@ -2325,5 +2319,5 @@ Le leggi federali qui appresso sono modificate come segue:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1994 2523](https://fedlex.data.admin.ch/eli/oc/1994/2523_2523_2523), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 27, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 4]
+[^annexu1-lvlu1-1]: [[RU 1994 2523](https://fedlex.data.admin.ch/eli/oc/1994/2523_2523_2523), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 27, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. cifra II n. 4]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822).

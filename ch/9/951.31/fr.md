@@ -4,11 +4,11 @@ title: "Loi fédérale du 23 juin 2006 sur les placements collectifs de capitaux
 short: LPCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: fr
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2006-822-20240301-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2006-822-20261001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/fr"
 
 (Loi sur les placements collectifs, LPCC)[^t-1]
 
-du 23 juin 2006 (État le 1<sup>er</sup> mars 2024)
+du 23 juin 2006 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -633,24 +633,18 @@ Les dispositions concernant les offres publiques d’acquisition (art. 125 à 14
 
 <sup>2</sup> L’actionnaire peut représenter lui-même ses actions à l’assemblée générale ou les faire représenter par un tiers. Pour autant que les statuts n’en disposent pas autrement, ce dernier ne doit pas avoir la qualité d’actionnaire.
 
-<sup>3</sup> La SICAV tient un registre des actionnaires entrepreneurs, dans lequel sont inscrits leur nom et adresse. Par ailleurs, elle tient une liste des ayants droit économiques des actions d’actionnaires entrepreneurs selon l’art. 697*l* du code des obligations[^46-1].[^46-2]
+<sup>3</sup> La SICAV tient un registre des actionnaires entrepreneurs, dans lequel sont inscrits leur nom et adresse.[^46-1]
 
-<sup>4</sup> Les statuts peuvent prévoir pour les actionnaires entrepreneurs et les actionnaires investisseurs de SICAV autogérées ou à gestion externe le droit à au moins un siège dans le conseil d’administration.[^46-3]
+<sup>4</sup> Les statuts peuvent prévoir pour les actionnaires entrepreneurs et les actionnaires investisseurs de SICAV autogérées ou à gestion externe le droit à au moins un siège dans le conseil d’administration.[^46-2]
 
-[^46-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^46-2]: Phrase introduite par le ch. I 6 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46-3]: Introduit par le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^46-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^46-2]: Introduit par le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 46a
 
-**Obligation d’annoncer des actionnaires entrepreneurs**[^46a-1]
+[^46a-1]
 
-<sup>1</sup> Les actionnaires entrepreneurs dont les actions ne sont pas cotées en bourse sont soumis à l’obligation d’annoncer prévue à l’art. 697*j* du code des obligations[^46a-2].
-
-<sup>2</sup> Les conséquences du non-respect de l’obligation d’annoncer sont réglées à l’art. 697*m* du code des obligations.
-
-[^46a-1]: Introduit par le ch. I 6 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^46a-1]: Introduit par le ch. I 6 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par l’annexe ch. 8 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 47
 

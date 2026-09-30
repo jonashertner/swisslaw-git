@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2006 über die kollektiven Kapitalanlagen (Kol
 short: KAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: de
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2006-822-20240301-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2006-822-20261001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20240301/de"
 
 (Kollektivanlagengesetz, KAG)
 
-vom 23. Juni 2006 (Stand am 1. März 2024)
+vom 23. Juni 2006 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -624,24 +624,18 @@ Die Bestimmungen über öffentliche Kaufangebote (Art. 125‒141 des Finanzmarkt
 
 <sup>2</sup> Die Aktionärinnen und Aktionäre können ihre Aktien in der Generalversammlung selbst vertreten oder durch einen Dritten vertreten lassen. Sofern die Statuten nichts anderes vorsehen, brauchen diese nicht Aktionärinnen oder Aktionäre zu sein.
 
-<sup>3</sup> Die SICAV führt ein Aktienbuch, in welches die Unternehmeraktionärinnen und Unternehmeraktionäre mit Namen und Adressen eingetragen werden. Sie führt zudem nach Artikel 697*l* des Obligationenrechts[^46-1] ein Verzeichnis der Personen, die an den Aktien der Unternehmeraktionärinnen und -aktionären wirtschaftlich berechtigt sind.[^46-2]
+<sup>3</sup> Die SICAV führt ein Aktienbuch, in welches die Unternehmeraktionärinnen und Unternehmeraktionäre mit Namen und Adressen eingetragen werden.[^46-1]
 
-<sup>4</sup> Die Statuten können vorsehen, dass die Unternehmeraktionärinnen und -aktionäre sowie die Anlegeraktionärinnen und -aktionäre sowohl bei der selbst- als auch bei der fremdverwalteten SICAV einen Anspruch auf mindestens je einen Verwaltungsratssitz haben.[^46-3]
+<sup>4</sup> Die Statuten können vorsehen, dass die Unternehmeraktionärinnen und -aktionäre sowie die Anlegeraktionärinnen und -aktionäre sowohl bei der selbst- als auch bei der fremdverwalteten SICAV einen Anspruch auf mindestens je einen Verwaltungsratssitz haben.[^46-2]
 
-[^46-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^46-2]: Zweiter Satz eingefügt durch Ziff. I 6 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46-3]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^46-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^46-2]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012, in Kraft seit 1. März 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 46a
 
-**Meldepflicht der Unternehmeraktionärinnen und -aktionäre**[^46a-1]
+[^46a-1]
 
-<sup>1</sup> Die Unternehmeraktionärinnen und -aktionäre, deren Aktien nicht an einer Börse kotiert sind, unterstehen der Meldepflicht nach Artikel 697*j* des Obligationenrechts[^46a-2].
-
-<sup>2</sup> Die Folgen der Nichteinhaltung der Meldepflicht bestimmen sich nach Artikel 697*m* des Obligationenrechts.
-
-[^46a-1]: Eingefügt durch Ziff. I 6 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^46a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^46a-1]: Eingefügt durch Ziff. I 6 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Anhang Ziff. 8 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 47
 
