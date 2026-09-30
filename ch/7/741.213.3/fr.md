@@ -3,18 +3,18 @@ sr: "741.213.3"
 title: Ordonnance du DETEC du 28 septembre 2001 sur les zones 30 et les zones de rencontre
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/23"
 language: fr
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2001-09-28
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-23-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2002-23-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur les zones 30 et les zones de rencontre
 
-du 28 septembre 2001 (État le 1<sup>er</sup> janvier 2023)[^t-1]
+du 28 septembre 2001 (État le 1<sup>er</sup> octobre 2026)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
 
@@ -24,8 +24,8 @@ vu l’art. 106, al. 1, de la loi du 19 décembre 1958 sur la circulation routi�
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 ## Section 1 Dispositions générales
 
@@ -34,6 +34,14 @@ arrête:
 **Objet**
 
 La présente ordonnance règle les détails à observer lors de l’instauration de zones 30 (art. 22*a* OSR) et de zones de rencontre (art. 22*b* OSR).
+
+#### Art. 1a
+
+**Exclusion du champ d’application**[^1a-1]
+
+La présente ordonnance ne s’applique ni aux routes affectées à la circulation générale, ni à leurs tronçons intégrés dans une zone 30 conformément à l’art. 2*a*, al. 6, OSR.
+
+[^1a-1]: Introduit par le ch. I de l’O du DETEC du 12 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 439](https://fedlex.data.admin.ch/eli/oc/2026/439)).
 
 #### Art. 2
 

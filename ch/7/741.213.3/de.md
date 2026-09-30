@@ -3,18 +3,18 @@ sr: "741.213.3"
 title: Verordnung des UVEK vom 28. September 2001 über die Tempo-30-Zonen und die Begegnungszonen
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/23"
 language: de
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2001-09-28
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-23-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2002-23-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Tempo-30-Zonen und die Begegnungszonen
 
-vom 28. September 2001 (Stand am 1. Januar 2023)[^t-1]
+vom 28. September 2001 (Stand am 1. Oktober 2026)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
 
@@ -24,8 +24,8 @@ gestützt auf Artikel 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -34,6 +34,14 @@ verordnet:
 **Gegenstand**
 
 Diese Verordnung regelt die Einzelheiten bei der Anordnung von Tempo-30-Zonen (Art. 22*a* SSV) und Begegnungszonen (Art. 22*b* SSV).
+
+#### Art. 1a
+
+**Ausnahme vom Geltungsbereich**[^1a-1]
+
+Diese Verordnung gilt nicht für verkehrsorientierte Strassen und auch nicht für Abschnitte von verkehrsorientierten Strassen, die nach Artikel 2*a* Absatz 6 SSV in eine Tempo‑30-Zone einbezogen werden.
+
+[^1a-1]: Eingefügt durch Ziff. I der V des UVEK vom 12. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 439](https://fedlex.data.admin.ch/eli/oc/2026/439)).
 
 #### Art. 2
 

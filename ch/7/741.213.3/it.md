@@ -3,20 +3,20 @@ sr: "741.213.3"
 title: "Ordinanza del DATEC del 28 settembre 2001 concernente le zone con limite di velocità massimo di 30 km/h e le zone d'incontro"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/23"
 language: it
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2001-09-28
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-23-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2002-23-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC concernente le zone con limite di velocità massimo di 30 km/h e le zone d’incontro
 
-del 28 settembre 2001 (Stato 1° gennaio 2023)[^t-1]
+del 28 settembre 2001 (Stato 1° ottobre 2026)[^t-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
+[^t-1]: Nuovo testo giusta la cifra dell’O del DATEC del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni,
 
@@ -24,8 +24,8 @@ visto l’articolo 106 capoverso 1 della legge federale del 19 dicembre 1958[^in
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 
 ## Sezione 1: Disposizioni generali
 
@@ -34,6 +34,14 @@ ordina:
 **Oggetto**
 
 La presente ordinanza disciplina i particolari per la disposizione di zone con limite di velocità massimo di 30 km/h (art. 22*a* OSStr) e di zone d’incontro (art. 22*b* OSStr).
+
+#### Art. 1a
+
+**Esclusione dal campo d’applicazione**[^1a-1]
+
+La presente ordinanza non si applica alle strade orientate al traffico né a loro tratti integrati in una zona con limite di velocità massimo di 30 km/h secondo l’articolo 2*a* capoverso 6 OSStr.
+
+[^1a-1]: Introdotto dalla cifra I dell’O del DATEC del 12 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 439](https://fedlex.data.admin.ch/eli/oc/2026/439)).
 
 #### Art. 2
 
@@ -45,7 +53,7 @@ In tutte le misure necessarie per garantire l’osservanza delle velocità massi
 
 [^3-1]
 
-[^3-1]: Abrogato dal n. I dell’O del DATEC del 24 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
+[^3-1]: Abrogato dalla cifra I dell’O del DATEC del 24 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
 
 ## Sezione 2: Misure di diritto della circolazione e configurazione dello spazio stradale
 
@@ -62,7 +70,7 @@ Una regolamentazione che deroghi, mediante segnaletica, alla precedenza da destr
 
 <sup>2</sup> L’allestimento di passaggi pedonali è vietato. In zone con limite di velocità massimo di 30 km/h possono tuttavia essere disposti passaggi pedonali se, per ragioni particolari, occorre dare la precedenza ai pedoni, segnatamente in prossimità di scuole e ricoveri.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DATEC del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
 
 #### Art. 5
 
@@ -74,13 +82,13 @@ Una regolamentazione che deroghi, mediante segnaletica, alla precedenza da destr
 
 <sup>3</sup> Per l’osservanza della velocità massima consentita, se necessario occorre adottare altri provvedimenti, come la posa di elementi morfologici o di moderazione del traffico.
 
-## Sezione 3: ...
+## Sezione 3: …
 
 #### Art. 6
 
 [^6-1]
 
-[^6-1]: Abrogato dal n. I dell’O del DATEC del 24 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
+[^6-1]: Abrogato dalla cifra I dell’O del DATEC del 24 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
 
 ## Sezione 4: Disposizioni finali
 
