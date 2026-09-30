@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur l'agrément et la surveillance d
 short: LSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: fr
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20240301-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-533-20261001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/fr"
 
 (Loi sur la surveillance de la révision, LSR)[^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> mars 2024)
+du 16 décembre 2005 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -208,7 +208,7 @@ Une entreprise de révision est agréée en qualité de société d’audit afin
 
 - a. elle est agréée selon l’art. 9, al. 1;
 - b. elle est suffisamment organisée pour effectuer les audits;
-- c. elle n’exerce aucune autre activité soumise à autorisation en vertu des lois sur les marchés financiers (art. 1, al. 1, LFINMA[^9a-2]).
+- c.[^9a-2] elle n’exerce aucune autre activité soumise à autorisation en vertu des lois sur les marchés financiers (art. 1, al. 1, LFINMA[^9a-3]); l’activité de conseiller au sens de l’art. 2, al. 3<sup>bis</sup> et 3<sup>ter</sup>, de la loi du 10 octobre 1997 sur le blanchiment d’argent[^9a-4] est exceptée.
 
 <sup>2</sup>
 
@@ -219,18 +219,20 @@ Une personne est habilitée à diriger un audit selon l’art. 2, let. a, ch. 2 
 
 <sup>3</sup> En dérogation à l’art. 4, al. 4, la pratique professionnelle acquise dans le cadre d’audits au sens de l’art. 24, al. 1, let. a et b, LFINMA peut être prise en compte pour l’agrément au sens de l’al. 2, let. a.
 
-<sup>4</sup> ...[^9a-3]
+<sup>4</sup> ...[^9a-5]
 
-<sup>4bis</sup> Le Conseil fédéral peut prévoir des conditions allégées pour l’octroi de l’agrément à des sociétés d’audit et à des auditeurs responsables pour effectuer l’audit des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques[^9a-4].[^9a-5]
+<sup>4bis</sup> Le Conseil fédéral peut prévoir des conditions allégées pour l’octroi de l’agrément à des sociétés d’audit et à des auditeurs responsables pour effectuer l’audit des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques[^9a-6].[^9a-7]
 
-<sup>5</sup> ...[^9a-6]
+<sup>5</sup> ...[^9a-8]
 
 [^9a-1]: Introduit par le ch. I de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^9a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
-[^9a-3]: Abrogé par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^9a-5]: Introduit par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-6]: Abrogé par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 322](https://fedlex.data.admin.ch/eli/oc/2026/322); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^9a-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^9a-4]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^9a-5]: Abrogé par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-6]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^9a-7]: Introduit par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-8]: Abrogé par l’annexe ch. II 3 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 10
 

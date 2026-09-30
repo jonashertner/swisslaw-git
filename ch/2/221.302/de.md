@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Zulassung und Beaufsichtigu
 short: RAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: de
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20240301-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2007-533-20261001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/de"
 
 (Revisionsaufsichtsgesetz, RAG)
 
-vom 16. Dezember 2005 (Stand am 1. März 2024)
+vom 16. Dezember 2005 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -204,7 +204,7 @@ Ein Revisionsunternehmen wird als Prüfgesellschaft für Prüfungen nach Artikel
 
 - a. nach Artikel 9 Absatz 1 zugelassen ist;
 - b. für diese Prüfungen ausreichend organisiert ist; und
-- c. keine andere nach den Finanzmarktgesetzen (Art. 1 Abs. 1 FINMAG[^9a-2]) bewilligungspflichtige Tätigkeit ausübt.
+- c.[^9a-2] keine andere nach den Finanzmarktgesetzen (Art. 1 Abs. 1 FINMAG[^9a-3]) bewilligungspflichtige Tätigkeit ausübt; ausgenommen ist die Beratertätigkeit nach Artikel 2 Absätze 3<sup>bis</sup> und 3<sup>ter</sup> des Geldwäschereigesetzes vom 10. Oktober 1997[^9a-4].
 
 <sup>2</sup>
 
@@ -215,18 +215,20 @@ Eine Person wird zur Leitung von Prüfungen nach Artikel 2 Buchstabe a Ziffer 2 
 
 <sup>3</sup> Für die Zulassung nach Absatz 2 Buchstabe a kann in Abweichung von Artikel 4 Absatz 4 auch Fachpraxis aus Prüfungen nach Artikel 24 Absatz 1 Buchstaben a und b FINMAG angerechnet werden.
 
-<sup>4</sup> …[^9a-3]
+<sup>4</sup> …[^9a-5]
 
-<sup>4bis</sup> Der Bundesrat kann erleichterte Voraussetzungen vorsehen für die Zulassung von Prüfgesellschaften sowie von leitenden Prüferinnen und Prüfern zur Prüfung von Personen nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^9a-4].[^9a-5]
+<sup>4bis</sup> Der Bundesrat kann erleichterte Voraussetzungen vorsehen für die Zulassung von Prüfgesellschaften sowie von leitenden Prüferinnen und Prüfern zur Prüfung von Personen nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^9a-6].[^9a-7]
 
-<sup>5</sup> …[^9a-6]
+<sup>5</sup> …[^9a-8]
 
 [^9a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^9a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
-[^9a-3]: Aufgehoben durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^9a-5]: Eingefügt durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-6]: Aufgehoben durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 26. Sept. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 322](https://fedlex.data.admin.ch/eli/oc/2026/322); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^9a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^9a-4]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^9a-5]: Aufgehoben durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-6]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^9a-7]: Eingefügt durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-8]: Aufgehoben durch Anhang Ziff. II 3 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 10
 

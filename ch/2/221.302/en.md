@@ -4,11 +4,11 @@ title: "Federal Act of 16 December 2005 on the Licensing and Oversight of Audito
 short: AOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/533"
 language: en
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2005-12-16
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2007-533-20240301-en-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/533/20261001/en/xml/fedlex-data-admin-ch-eli-cc-2007-533-20261001-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/533/20240301/en"
 
 (Auditor Oversight Act, AOA)
 
-of 16 December 2005 (Status as of 1 March 2024)
+of 16 December 2005 (Last amended on 1 October 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -156,7 +156,7 @@ A licence as an audit firm under state oversight is also required for audit firm
 
 - a. companies incorporated under foreign law whose shares are listed on a Swiss stock exchange;
 - b.[^8-2] companies incorporated under foreign law whose bonds are listed on a Swiss stock exchange;
-- c. and d.[^8-3] ...
+- c. and d.[^8-3] …
 
 <sup>2</sup> The licensing obligation does not apply if the audit firm is subject to the oversight of a foreign audit oversight authority that is recognised by the Federal Council.
 
@@ -204,7 +204,7 @@ An audit firm shall be licensed as an audit company for regulatory audits in acc
 
 - a. is licensed in accordance with Article 9 paragraph 1;
 - b. is sufficiently organised for these audits; and
-- c. does not exercise any other activity subject to licensing in accordance with the financial market acts (Article 1 paragraph 1 FINMASA[^9a-2]).
+- c.[^9a-2] does not exercise any other activity subject to licensing in accordance with the financial market acts (Art. 1 para. 1 FINMASA[^9a-3]); this excludes advisory activities as defined in Article 2 paragraphs 3<sup>bis</sup> and 3<sup>ter</sup> of the Anti-Money Laundering Act of 10 October 1997[^9a-4].
 
 <sup>2</sup>
 
@@ -215,18 +215,20 @@ A person is licensed to lead audits in accordance with Article 2 letter a number
 
 <sup>3</sup> For licensing in accordance with paragraph 2 letter a, technical experience deviating from Article 4 paragraph 4 but deriving from audits in accordance with Article 24 paragraph 1 letters a and b FINMASA may also be credited.
 
-<sup>4</sup> ...[^9a-3]
+<sup>4</sup> …[^9a-5]
 
-<sup>4bis</sup> The Federal Council may provide for simplified requirements for licensing audit companies and lead auditors for the auditing of persons under Article 1*b* of the Banking Act of 8 November 1934[^9a-4].[^9a-5]
+<sup>4bis</sup> The Federal Council may provide for simplified requirements for licensing audit companies and lead auditors for the auditing of persons under Article 1*b* of the Banking Act of 8 November 1934[^9a-6].[^9a-7]
 
-<sup>5</sup> ...[^9a-6]
+<sup>5</sup> …[^9a-8]
 
 [^9a-1]: Inserted by No I of the FA of 20 June 2014 (Bundling of Audit Oversight), in force since 1 Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^9a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
-[^9a-3]: Repealed by Annex No II 3 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9a-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^9a-5]: Inserted by Annex No II 3 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141))
-[^9a-6]: Repealed by Annex No II 3 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-2]: Amended by Annex No 1 of the FA of 26 Sept. 2025, in force since 1 Oct. 2026 ([AS 2026 322](https://fedlex.data.admin.ch/eli/oc/2026/322); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^9a-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^9a-4]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^9a-5]: Repealed by Annex No II 3 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9a-6]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^9a-7]: Inserted by Annex No II 3 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141))
+[^9a-8]: Repealed by Annex No II 3 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 10
 
@@ -357,7 +359,7 @@ In order to fulfil its statutory duty, the Oversight Authority may process perso
 
 <sup>1</sup> The Oversight Authority shall subject audit firms under state oversight to a detailed inspection at least once every three years.[^16-1]
 
-<sup>1bis</sup> ...[^16-2]
+<sup>1bis</sup> …[^16-2]
 
 <sup>1<sup>ter</sup></sup> In the event of suspected violations of legal duties, the Oversight Authority shall conduct a corresponding inspection independent of the inspection cycle in accordance with paragraph 1.[^16-3]
 
@@ -928,6 +930,6 @@ Annex
 
 The federal acts listed below are amended as follows:
 
-... [^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2007 3971](https://fedlex.data.admin.ch/eli/oc/2007/533).
