@@ -4,10 +4,10 @@ number: "724.11"
 title: Wasserverordnung (WsV)
 short: WsV
 language: de
-nachtrag: "133"
-valid_until: 2026-10-01
+version: "2026-10-01"
+nachtrag: "134"
 adopted: 2025-07-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-724_11-2025_07_02-2026_06_01-133.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-724_11-2025_07_02-2026_06_01-134.html"
 text: pdf
 ---
 
@@ -19,21 +19,20 @@ text: pdf
 
 Der Regierungsrat,
 
-gestützt auf §§ 7 Abs. 1, 14 Abs. 3, 21, 23 Abs. 2, 24 Abs. 3, 25 Abs. 1, 27 Abs. 4, 35 Abs. 4, 43 Abs. 1, 44 Abs. 3, 67 Abs. 1, 71 Abs. 4, 86 Abs. 2, 102 Abs. 1 und 2 sowie 116 Abs. 2 des Wassergesetzes vom 12. Dezember 2022 (WsG)[^t-3], Art. 24 f des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz[^t-4], Art. 36 Abs. 1 des Raumplanungsgesetzes vom 22. Juni 1979[^t-5], Art. 12 des Wasserbaugesetzes vom 21. Juni 1991 (WBG)[^t-6], Art. 18 und 23 des Stauanlagengesetzes vom 1. Oktober 2010 (StAG)[^t-7], Art. 36 des Umweltschutzgesetzes vom 7. Oktober 1983 (USG)[^t-8], Art. 45 des Gewässerschutzgesetzes vom 24. Januar 1991 (GSchG)[^t-9], Art. 45 Abs. 1 der Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)[^t-10] und Art. 22 des Bundesgesetzes vom 21. Juni 1991 über die Fischerei[^t-11],
+gestützt auf §§ 7 Abs. 1, 14 Abs. 3, 21, 23 Abs. 2, 24 Abs. 3, 25 Abs. 1, 27 Abs. 4, 35 Abs. 4, 43 Abs. 1, 44 Abs. 3, 67 Abs. 1, 71 Abs. 4, 86 Abs. 2, 102 Abs. 1 und 2 sowie 116 Abs. 2 des Wassergesetzes vom 12. Dezember 2022 (WsG)[^t-3], Art. 24 f des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz, Art. 36 Abs. 1 des Raumplanungsgesetzes vom 22. Juni 1979[^t-4], Art. 12 des Wasserbaugesetzes vom 21. Juni 1991 (WBG)[^t-5], Art. 18 und 23 des Stauanlagengesetzes vom 1. Oktober 2010 (StAG)[^t-6], Art. 36 des Umweltschutzgesetzes vom 7. Oktober 1983 (USG)[^t-7], Art. 45 des Gewässerschutzgesetzes vom 24. Januar 1991 (GSchG)[^t-8], Art. 45 Abs. 1 der Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)[^t-9] und Art. 22 des Bundesgesetzes vom 21. Juni 1991 über die Fischerei[^t-10],
 
 beschliesst:
 
 [^t-1]: OS 81, 182; Begründung siehe ABl 2025-08-22.
 [^t-2]: Inkrafttreten: 1. Juni 2026.
 [^t-3]: LS 724.1.
-[^t-4]: SR 451.
-[^t-5]: SR 700.
-[^t-6]: SR 721.100.
-[^t-7]: SR 721.101.
-[^t-8]: SR 814.01.
-[^t-9]: SR 814.20.
-[^t-10]: SR 814.201.
-[^t-11]: SR 923.0. 1. 7. 26 - 133 51
+[^t-4]: SR 700.
+[^t-5]: SR 721.100.
+[^t-6]: SR 721.101.
+[^t-7]: SR 814.01.
+[^t-8]: SR 814.20.
+[^t-9]: SR 814.201.
+[^t-10]: SR 923.0.
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -71,7 +70,7 @@ Die öffentlichen oberirdischen Gewässer von kantonaler und regionaler Bedeutun
 
 **1**
 
-- 1\. 7. 26 - 133 § 4. <sup>1</sup> Der Antrag ist der Gemeinde einzureichen. Beweismittel sind beizulegen.
+1.10. 26 - 134 § 4. <sup>1</sup> Der Antrag ist der Gemeinde einzureichen. Beweismittel sind beizulegen.
 
 **c. Verfahren bei Antrag**
 
@@ -180,7 +179,7 @@ Der Gewässerraum wird nach den Vorgaben der Baudirektion je Gewässer, Gewässe
 
 **3**
 
-- 1\. 7. 26 - 133 § 14. <sup>1</sup> Die Gemeinde legt den überarbeiteten Entwurf zusammen mit dem Nutzungsplan öffentlich auf und macht die Planauflage öffentlich bekannt. §§ 6 und 7 Abs. 2 PBG über die Kundmachung und die öffentliche Auflage sind anwendbar.
+1.10. 26 - 134 § 14. <sup>1</sup> Die Gemeinde legt den überarbeiteten Entwurf zusammen mit dem Nutzungsplan öffentlich auf und macht die Planauflage öffentlich bekannt. §§ 6 und 7 Abs. 2 PBG über die Kundmachung und die öffentliche Auflage sind anwendbar.
 
 **c. öffentliche Auflage**
 
@@ -270,7 +269,7 @@ Der Gewässerraum wird nach den Vorgaben der Baudirektion je Gewässer, Gewässe
 
 **5**
 
-- 1\. 7. 26 - 133 § 21. <sup>1</sup> Bei der Festsetzung von Wasserbauprojekten wird gleichzeitig der Gewässerraum festgelegt.
+1.10. 26 - 134 § 21. <sup>1</sup> Bei der Festsetzung von Wasserbauprojekten wird gleichzeitig der Gewässerraum festgelegt.
 
 **Festlegung im Projektfestsetzungsverfahren**
 
@@ -374,7 +373,7 @@ unterhalt
 
 **7**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>3</sup> Bei Objektschutzmassnahmen richten sich die Schutzziele nach § 33 WsG.
 
@@ -496,7 +495,7 @@ Die Gemeinden informieren die Betroffenen innert eines Jahres seit der Festsetzu
 
 **9**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>2</sup> Sie arbeiten zusammen mit a. den Partnerorganisationen gemäss § 3 BSG,
 
@@ -594,7 +593,7 @@ Die Gemeinden informieren die Betroffenen innert eines Jahres seit der Festsetzu
 
 **11**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>2</sup> Zuständig für die Erfassung und Dokumentation von Schadenereignissen ist a. das AWEL bei Gewässern von kantonaler und regionaler Bedeutung,
 
@@ -678,9 +677,7 @@ Jede Gemeinde bezeichnet eine Stelle, die verantwortlich ist für den Unterhalt 
 
 **13**
 
-- 1\. 7. 26 - 133 § 57. Der Kanton unterstützt weitere kommunale Massnahmen gemäss dem Wasserbaugesetz mit Subventionen von 10% der anrechenbaren Kosten für
-
-- a. die Grundlagenbeschaffung, insbesondere Massnahmenplanungen,
+1.10. 26 - 134 § 57. Der Kanton unterstützt weitere kommunale Massnahmen gemäss dem Wasserbaugesetz mit Subventionen von 10% der anrechenbaren Kosten für a. die Grundlagenbeschaffung, insbesondere Massnahmenplanungen,
 
 - b. organisatorische Massnahmen, insbesondere Notfallplanungen,
 
@@ -778,7 +775,7 @@ Die Aufsichtsbehörde ist anzuhören, bevor eine Stauanlage erstellt oder geänd
 
 **15**
 
-- 1\. 7. 26 - 133 § 67. Für Stauanlagen, die nicht dem Stauanlagengesetz unterstehen, kann die für die Genehmigung oder Bewilligung zuständige Behörde sicherheitsrelevante Anforderungen festlegen.
+1.10. 26 - 134 § 67. Für Stauanlagen, die nicht dem Stauanlagengesetz unterstehen, kann die für die Genehmigung oder Bewilligung zuständige Behörde sicherheitsrelevante Anforderungen festlegen.
 
 #### § 68
 
@@ -884,9 +881,7 @@ Das AWEL erteilt die gemäss Bundesrecht und gemäss § 44 WsG vorgesehenen Bewi
 
 **17**
 
-- 1\. 7. 26 - 133
-
-- h. Sicker- und Drainageleitungen über dem natürlichen höchsten Grundwasserspiegel für Bauten zu verlegen,
+1.10. 26 - 134 h. Sicker- und Drainageleitungen über dem natürlichen höchsten Grundwasserspiegel für Bauten zu verlegen,
 
 - i. Hofdüngerlager, unterirdische Lager für Waschwasser von Spritz- und Sprühgeräten sowie erdverlegte Gülleleitungen zu erstellen.
 
@@ -976,7 +971,7 @@ Bewilligungspflichtig sind, unabhängig von ihrem Standort, Tankanlagen von Betr
 
 **19**
 
-- 1\. 7. 26 - 133 § 83. Die Inhaberin oder der Inhaber sorgt für den Unterhalt und die Funktionsfähigkeit ihrer bzw. seiner Anlagen mit wassergefährdenden Flüssigkeiten.
+1.10. 26 - 134 § 83. Die Inhaberin oder der Inhaber sorgt für den Unterhalt und die Funktionsfähigkeit ihrer bzw. seiner Anlagen mit wassergefährdenden Flüssigkeiten.
 
 #### § 84
 
@@ -1094,7 +1089,7 @@ Die Gemeinden stellen sicher, dass Grundwasserschutzzonen für die im öffentlic
 
 **21**
 
-- 1\. 7. 26 - 133 § 95. <sup>1</sup> Bei der Kontrolle der öffentlichen Kanalisation prüfen die Gemeinden auch den Zustand der privaten Anschlussleitungen, soweit dies ohne übermässigen Aufwand möglich ist.
+1.10. 26 - 134 § 95. <sup>1</sup> Bei der Kontrolle der öffentlichen Kanalisation prüfen die Gemeinden auch den Zustand der privaten Anschlussleitungen, soweit dies ohne übermässigen Aufwand möglich ist.
 
 **b. der privaten Abwasseranlagen**
 
@@ -1202,7 +1197,7 @@ Das AWEL und, in ihrem Zuständigkeitsbereich, die Stadt Zürich können anordne
 
 **23**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>3</sup> Ausgenommen sind Betriebe, deren Kontrolle gemäss § 102 Abs. 2 WsG auf ausgewiesene Fachstellen der Gemeinde übertragen worden ist.
 
@@ -1302,11 +1297,9 @@ Zur Finanzierung des Gewässerunterhalts gemäss § 65 WsG dürfen jährlich hö
 
 **25**
 
-- 1\. 7. 26 - 133 § 115. Ein öffentliches Interesse ist insbesondere dann erheblich, wenn
+1.10. 26 - 134 § 115. Ein öffentliches Interesse ist insbesondere dann erheblich, wenn a. ohne Massnahmen hochrangige Rechtsgüter gefährdet wären, wie öffentliche Gesundheit, Entsorgungssicherheit oder Umweltqualität,
 
 **b. öffentliches Interesse**
-
-- a. ohne Massnahmen hochrangige Rechtsgüter gefährdet wären, wie öffentliche Gesundheit, Entsorgungssicherheit oder Umweltqualität,
 
 - b. aus politischen oder finanziellen Gründen keine Trägerschaft für notwendige Anlagen gefunden wird,
 
@@ -1402,9 +1395,7 @@ Keine Subventionen werden gewährt für a. Provisorien und Unterhaltsarbeiten,
 
 **27**
 
-- 1\. 7. 26 - 133
-
-- d. Inanspruchnahmen von Gewässern: 15–40 Jahre,
+1.10. 26 - 134 d. Inanspruchnahmen von Gewässern: 15–40 Jahre,
 
 - e. Bauten und Anlagen im Grundwasserleiter: Bestandsdauer der Baute oder Anlage, längstens aber 70 Jahre.
 
@@ -1498,7 +1489,7 @@ Ausnahmen von der Pflicht, die Durchflusskapazität gemäss § 86 Abs. 2 WsG zu 
 
 **29**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>2</sup> Bei jährlich zu entrichtenden Gebühren ist die Inhaberschaft am 30. Juni des betreffenden Jahres massgebend.
 
@@ -1602,7 +1593,7 @@ Leistungspreis von Fr. 1.25 pro l/min zuzüglich Arbeitspreis von Fr. 25 pro 100
 
 **31**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>2</sup> Der Leistungspreis bemisst sich nach der Höchstleistungsfähigkeit der Entnahmevorrichtung, der Arbeitspreis nach dem gemessenen Wasserbezug des Vorjahres.
 
@@ -1694,7 +1685,7 @@ oberirdischen Gewässern
 
 **33**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>2</sup> Unter die Einrichtungen mit abgrenzendem Charakter fallen insbesondere a. Pfähle,
 
@@ -1706,15 +1697,18 @@ oberirdischen Gewässern
 
 <sup>3</sup> Die beanspruchte Fläche wird in der Regel in der Konzession oder Bewilligung planlich festgelegt.
 
-#### § 148
-
 **Langdauernde Inanspruchnahmen a. Nutzungsgebühr**
 
-<sup>1</sup> Für langdauernde konzessions- oder bewilligungspflichtige Inanspruchnahmen von Gewässergrundstücken des Kantons, des zugehörigen Wassers, des Erdreichs oder der Luftsäule ist eine Nutzungsgebühr zu entrichten.
+§ 148.[^hIVGebührenfürdie-1] <sup>1</sup> Für langdauernde konzessions- oder bewilligungspflichtige Inanspruchnahmen von Gewässergrundstücken des Kantons, des zugehörigen Wassers, des Erdreichs oder der Luftsäule ist eine Nutzungsgebühr zu entrichten.
 
 <sup>2</sup> Die Nutzungsgebühr ist jährlich zu entrichten und bemisst sich nach der beanspruchten Fläche in Quadratmetern.
 
-<sup>3</sup> Sie beträgt 5% des Landwerts angrenzender Grundstücke, multipliziert mit dem Nutzungsfaktor.
+<sup>3</sup> Sie berechnet sich aus dem Landwert angrenzender Grundstücke, multipliziert mit dem Zinssatz und dem Nutzungsfaktor.
+
+<sup>4</sup> Der Zinssatz bestimmt sich nach dem am 1. Januar geltenden Referenzzinssatz für Hypotheken gemäss Art. 12 a der Verordnung über die Miete und Pacht von Wohn- und Geschäftsräumen vom 9. Mai 1990[^hIVGebührenfürdie-2].
+
+[^hIVGebührenfürdie-1]: Fassung gemäss RRB vom 27. Mai 2026 (OS 81, 423; ABl 2026-06-12). In Kraft seit 1. Oktober 2026. 1.10. 26 - 134 51
+[^hIVGebührenfürdie-2]: SR 221.213.11.
 
 #### § 149
 
@@ -1738,9 +1732,9 @@ oberirdischen Gewässern
 
 - 1\. Bauten mit reiner Wohnnutzung,
 
-- 2\. Nutzungen von Bund, Kanton, Gemeinden oder anderen öffentlich-rechtlichen Körperschaften und Anstalten für ihre Verwaltungsaufgaben,
+- 2\. Nutzungen von Bund, Kanton, Gemeinden oder anderen öffentlich-rechtlichen Körperschaften und Anstalten für ihre Verwaltungsaufgaben, 0,9 bei Bauten ohne Wohn- und Gewerbenutzungen, wie Boots- oder Badehäusern, 0,8 bei
 
-- c. 0,9 bei Bauten ohne Wohn- und Gewerbenutzungen, wie Boots- oder Badehäusern, 0,8 bei
+**c.**
 
 **d.**
 
@@ -1784,7 +1778,7 @@ oberirdischen Gewässern
 
 **35**
 
-- 1\. 7. 26 - 133 § 151. Erfolgt die Nutzung bei Bauten auf mehr als einem Geschoss, wird die Gebühr um einen Drittel erhöht.
+1.10. 26 - 134 § 151. Erfolgt die Nutzung bei Bauten auf mehr als einem Geschoss, wird die Gebühr um einen Drittel erhöht.
 
 #### § 152
 
@@ -1882,7 +1876,7 @@ Für Stationierungsbojen ist eine jährliche Nutzungsgebühr von Fr. 184.70 zu e
 
 **37**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 ### VII. Gebühren für die Wasserkraftnutzung
 
@@ -1994,11 +1988,9 @@ Nehmen Strassenbauvorhaben oder Leitungen, wie solche für Elektrizität, Gas, W
 
 **39**
 
-- 1\. 7. 26 - 133 § 169. Der technische Bericht enthält
+1.10. 26 - 134 § 169. Der technische Bericht enthält a. eine Projektbegründung,
 
 **b. technischer Bericht**
-
-- a. eine Projektbegründung,
 
 - b. die Beschreibung der projektierten Anlage und ihrer Auswirkungen auf die Rechte Dritter und die Zwecke gemäss § 2 WsG.
 
@@ -2116,7 +2108,7 @@ Zu den Vorhaben von untergeordneter Bedeutung, die gemäss § 92 WsG im vereinfa
 
 **41**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 ### B. Anschlusspflicht
 
@@ -2208,9 +2200,7 @@ Das AWEL a. vollzieht die eidgenössische und kantonale Wassergesetzgebung, sowe
 
 **43**
 
-- 1\. 7. 26 - 133
-
-- c. erfüllt die Aufgaben der kantonalen Fachstelle für Gewässerschutz gemäss der Bundesgesetzgebung,
+1.10. 26 - 134 c. erfüllt die Aufgaben der kantonalen Fachstelle für Gewässerschutz gemäss der Bundesgesetzgebung,
 
 - d. fördert die regionale, überregionale und interkantonale Zusammenarbeit.
 
@@ -2304,7 +2294,7 @@ Die Aufsichtsorgane und Sachverständigen kündigen den Inhaberinnen und Inhaber
 
 **45**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>2</sup> Für die Kontrolle von Anlagen und Betrieben können fachkundige Dritte beigezogen werden.
 
@@ -2400,7 +2390,7 @@ Das Beizugsgebiet umfasst a. die Grundstücke von Grundeigentümerinnen und Grun
 
 **47**
 
-- 1\. 7. 26 - 133 § 198. Über streitig gebliebene Einsprachen wird mit der Festlegung des Beizugsgebiets entschieden.
+1.10. 26 - 134 § 198. Über streitig gebliebene Einsprachen wird mit der Festlegung des Beizugsgebiets entschieden.
 
 #### § 199
 
@@ -2511,7 +2501,7 @@ Für Amtshandlungen, die gestützt auf das Wassergesetz und diese Verordnung erf
 
 **49**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
 
 <sup>2</sup> Davon ausgenommen sind a. die Teuerungsanpassung der Gebühren gemäss § 136,
 
@@ -2575,9 +2565,7 @@ von der Thurgauer Grenze bei Koordinate 2692412 / 1282303 bis zur Aargauer Grenz
 
 **53**
 
-- 1\. 7. 26 - 133
-
-- 5\. Limmat vom Zürichsee bis zur Aargauer Grenze bei Koordinate 2670619 / 1253916 5.1 Reppisch vom Türlersee bis zur Einmündung in die Limmat 5.1.1 Fischbach–Wüeribach von Koordinate 2677761 / 1241241 bis zur Einmündung in die Reppisch 5.2 Furtbach von Koordinate 2677498 / 1255399 bis zur Aargauer Grenze bei Koordinate 2671130 / 1255750 5.3 Surb von Koordinate 2672422 / 1261615 bis zur Aargauer Grenze bei Koordinate 2669502 / 1262558
+1.10. 26 - 134 5. Limmat vom Zürichsee bis zur Aargauer Grenze bei Koordinate 2670619 / 1253916 5.1 Reppisch vom Türlersee bis zur Einmündung in die Limmat 5.1.1 Fischbach–Wüeribach von Koordinate 2677761 / 1241241 bis zur Einmündung in die Reppisch 5.2 Furtbach von Koordinate 2677498 / 1255399 bis zur Aargauer Grenze bei Koordinate 2671130 / 1255750 5.3 Surb von Koordinate 2672422 / 1261615 bis zur Aargauer Grenze bei Koordinate 2669502 / 1262558
 
 - 6\. Sihl von der Schwyzer Grenze bei Koordinate 2694207 / 1225900 bis zur Einmündung in die Limmat
 
@@ -2617,4 +2605,4 @@ Grundschutz gewährleistet, Risiko wird durch Risiko wird ab hier nicht durch we
 
 **55**
 
-- 1\. 7. 26 - 133
+1.10. 26 - 134
