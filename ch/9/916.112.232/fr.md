@@ -3,18 +3,18 @@ sr: "916.112.232"
 title: Ordonnance du DEFR du 5 août 2026 réduisant le taux de droit de douane perçu sur le maïs plante entière servant à l’alimentation des animaux
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/408"
 language: fr
-version: 2026-08-15
+version: 2026-10-01
 adopted: 2026-08-05
 in_force: 2026-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/408/20260815/fr/xml/fedlex-data-admin-ch-eli-cc-2026-408-20260815-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/408/20260815/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/408/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2026-408-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/408/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR réduisant le taux de droit de douane perçu sur le maïs plante entière servant à l’alimentation des animaux
 
-du 5 août 2026 (État le 15 août 2026)
+du 5 août 2026 (État le 1<sup>er</sup> octobre 2026)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -42,4 +42,8 @@ L’Office fédéral de la douane et de la sécurité des frontières exécute l
 
 **Entrée en vigueur et durée de validité**
 
-La présente ordonnance entre en vigueur le 15 août 2026 et a effet jusqu’au 31 octobre 2026.
+<sup>1</sup> La présente ordonnance entre en vigueur le 15 août 2026 et a effet jusqu’au 31 octobre 2026.
+
+<sup>2</sup> La présente ordonnance est prorogée jusqu’au 30 avril 2027.[^3-1]
+
+[^3-1]: Introduit par le ch. I de l’O du DEFR du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 484](https://fedlex.data.admin.ch/eli/oc/2026/484)).

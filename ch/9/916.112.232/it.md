@@ -3,18 +3,18 @@ sr: "916.112.232"
 title: Ordinanza del DEFR del 5 agosto 2026 concernente un’aliquota di dazio ridotta sulle piante di granoturco per l’alimentazione degli animali
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/408"
 language: it
-version: 2026-08-15
+version: 2026-10-01
 adopted: 2026-08-05
 in_force: 2026-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/408/20260815/it/xml/fedlex-data-admin-ch-eli-cc-2026-408-20260815-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/408/20260815/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/408/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2026-408-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/408/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente un’aliquota di dazio ridotta sulle piante di granoturco per l’alimentazione degli animali
 
-del 5 agosto 2026 (Stato 15 agosto 2026)
+del 5 agosto 2026 (Stato 1° ottobre 2026)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -42,4 +42,8 @@ L’Ufficio federale della dogana e della sicurezza dei confini esegue la presen
 
 **Entrata in vigore e durata di validità**
 
-La presente ordinanza entra in vigore il 15 agosto 2026 con effetto sino al 31 ottobre 2026.
+<sup>1</sup> La presente ordinanza entra in vigore il 15 agosto 2026 con effetto sino al 31 ottobre 2026.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 30 aprile 2027.[^3-1]
+
+[^3-1]: Introdotto dalla cifra I dell’O del DEFR del 18 set. 2026, in vigore il 1° ott. 2026 ([RU 2026 484](https://fedlex.data.admin.ch/eli/oc/2026/484)).

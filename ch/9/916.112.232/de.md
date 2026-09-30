@@ -3,18 +3,18 @@ sr: "916.112.232"
 title: Verordnung des WBF vom 5. August 2026 über einen reduzierten Zollansatz für Maispflanzen zu Futterzwecken
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/408"
 language: de
-version: 2026-08-15
+version: 2026-10-01
 adopted: 2026-08-05
 in_force: 2026-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/408/20260815/de/xml/fedlex-data-admin-ch-eli-cc-2026-408-20260815-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/408/20260815/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/408/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2026-408-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/408/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über einen reduzierten Zollansatz für Maispflanzen zu Futterzwecken
 
-vom 5. August 2026 (Stand am 15. August 2026)
+vom 5. August 2026 (Stand am 1. Oktober 2026)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -42,4 +42,8 @@ Das Bundesamt für Zoll und Grenzsicherheit vollzieht diese Verordnung.
 
 **Inkrafttreten und Geltungsdauer**
 
-Diese Verordnung tritt am 15. August 2026 in Kraft und gilt bis zum 31. Oktober 2026.
+<sup>1</sup> Diese Verordnung tritt am 15. August 2026 in Kraft und gilt bis zum 31. Oktober 2026.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. April 2027 verlängert.[^3-1]
+
+[^3-1]: Eingefügt durch Ziff. I der V des WBF vom 18. Sept. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 484](https://fedlex.data.admin.ch/eli/oc/2026/484)).
