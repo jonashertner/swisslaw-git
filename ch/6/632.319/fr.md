@@ -3,11 +3,11 @@ sr: "632.319"
 title: "Ordonnance du 27 juin 1995 sur les droits de douane applicables aux marchandises dans le trafic avec les États partenaires de libre-échange (excepté les États membres de l'UE et de l'AELE) (Ordonnance sur le libre-échange 2)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: fr
-version: 2025-10-01
+version: 2026-10-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20251001-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20251001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20251001/fr"
 
 (Ordonnance sur le libre-échange 2)[^t-1]
 
-du 27 juin 1995 (État le 1<sup>er</sup> octobre 2025)
+du 27 juin 1995 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: Nouvelle teneur selon l’art. 8 de l’O du 18 juin 2008 sur le libre-échange 1, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -39,7 +39,7 @@ arrête:
 
 Le traitement préférentiel au sens des accords et des arrangements mentionnés à l’annexe 1 est concédé comme suit:
 
-- a.[^1-2] pour les marchandises mentionnées à l’annexe 2 provenant de Turquie (TR), d’Israël (IL), des Îles Féroé (FO), du Maroc (MA), de Cisjordanie et de la bande de Gaza (PS), de Macédoine (MK), du Mexique (MX), de Jordanie (JO), de Singapour (SG), du Chili (CL), de Tunisie (TN), du Liban (LB), de la République de Corée (KR), des États membres de l’Union douanière d’Afrique australe (SACU)[^1-3], d’Égypte (EG), du Canada (CA), du Japon (JP), des États membres du Conseil de coopération des États arabes du Golfe (GCC)[^1-4], de Colombie (CO), d’Albanie (AL), de Serbie (RS), du Pérou (PE), d’Ukraine (UA), du Monténégro (ME), de Hongkong, Chine (HK), de Bosnie et Herzégovine (BA), de Chine (CN), des États de l’Amérique centrale (CAS; conclu avec le Costa Rica [CR], le Panama [PA] et le Guatemala [GT]), de Géorgie (GE), des Philippines (PH), de l’équateur (EC), d’Indonésie (ID), de la Moldavie (MD) ainsi que de l’Inde (IN), les taux des droits de douane figurant dans cette annexe sont applicables;
+- a.[^1-2] pour les marchandises mentionnées à l’annexe 2 provenant de Turquie (TR), d’Israël (IL), des Îles Féroé (FO), du Maroc (MA), de Cisjordanie et de la bande de Gaza (PS), de Macédoine (MK), du Mexique (MX), de Jordanie (JO), de Singapour (SG), du Chili (CL), de Tunisie (TN), du Liban (LB), de la République de Corée (KR), des États membres de l’Union douanière d’Afrique australe (SACU)[^1-3], d’Égypte (EG), du Canada (CA), du Japon (JP), des États membres du Conseil de coopération des États arabes du Golfe (GCC)[^1-4], de Colombie (CO), d’Albanie (AL), de Serbie (RS), du Pérou (PE), d’Ukraine (UA), du Monténégro (ME), de Hongkong, de Chine (HK), de Bosnie et Herzégovine (BA), de Chine (CN), des États de l’Amérique centrale (CAS; conclu avec le Costa Rica [CR], le Panama [PA] et le Guatemala [GT]), de Géorgie (GE), des Philippines (PH), de l’équateur (EC), d’Indonésie (ID), de la Moldavie (MD), de l’Inde (IN) ainsi que du Kosovo (XK), les taux des droits de douane figurant dans cette annexe sont applicables;
 - b.[^1-5] pour les marchandises mentionnées à l’annexe 3 provenant de Colombie (CO), du Pérou (PE), du Guatemala (GT), des Philippines (PH), de l’équateur (EC) et de l’Inde (IN), les taux additionnels figurant dans cette annexe sont applicables;
 - c. pour les produits agricoles et les autres marchandises destinées à l’alimentation des animaux mentionnés à l’annexe 4 provenant du Lesotho, les taux figurant dans cette annexe sont applicables;
 - d.[^1-6] pour les marchandises provenant du Royaume-Uni, le traitement préférentiel prévu à l’annexe 6 est applicable.
@@ -47,7 +47,7 @@ Le traitement préférentiel au sens des accords et des arrangements mentionnés
 <sup>2</sup> Pour les produits agricoles transformés portant la mention «em» dans les annexes 2 et 3, les taux des droits de douane fixés par le Département fédéral des finances conformément à l’art. 3 de l’ordonnance du 23 novembre 2011 concernant les éléments de protection industrielle et les éléments mobiles applicables à l’importation de produits agricoles transformés[^1-7] sont applicables.[^1-8]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 11 juin 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)), depuis le 1<sup>er</sup> oct. 2010 pour la Serbie ([RO 2010 4095](https://fedlex.data.admin.ch/eli/oc/2010/597)), depuis le 1<sup>er</sup> nov. 2010 pour l’Albanie ([RO 2010 4609](https://fedlex.data.admin.ch/eli/oc/2010/667)) et depuis le 1<sup>er</sup> juil. 2014 pour les États membres du CCG ([RO 2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025, sauf pour le Guatemala ([RO 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553); [2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026, sauf pour le Guatemala ([RO 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464); [2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
 [^1-3]: Afrique du Sud, Botswana, Eswatini, Lesotho, Namibie.
 [^1-4]: Arabie saoudite, Bahreïn, Émirats arabes unis, Koweït, Oman, Qatar.
 [^1-5]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025, sauf pour le Guatemala ([RO 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553); [2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
@@ -145,7 +145,7 @@ Annexe 1[^t-2]
 
 ## Liste des accords et des arrangements sous forme d’un échange de lettres
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 10 juin 2011 ([RO 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Mise à jour par le ch. II al. 1 des O du 15 août 2012 ([RO 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), du 14 sept. 2012 ([RO 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), du 14 juin 2013 ([RO 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), du 20 août 2014 ([RO 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), du 6 juin 2014 ([RO 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), du 28 mars 2018 ([RO 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), du 9 mai 2018 ([RO 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), du 18 sept. 2020 ([RO 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), du 27 fév. 2019 ([RO 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), le ch. I al.1 des O du 21 avril 2021 ([RO 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)), du 25 août 2021 ([RO 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)), le ch. II al. 1 des O du 24 sept. 2021 ([RO 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)), du 14 mars 2025 ([RO 2025 187](https://fedlex.data.admin.ch/eli/oc/2025/187)) et du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 10 juin 2011 ([RO 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Mise à jour par le ch. II al. 1 des O du 15 août 2012 ([RO 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), du 14 sept. 2012 ([RO 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), du 14 juin 2013 ([RO 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), du 20 août 2014 ([RO 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), du 6 juin 2014 ([RO 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), du 28 mars 2018 ([RO 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), du 9 mai 2018 ([RO 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), du 18 sept. 2020 ([RO 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), du 27 fév. 2019 ([RO 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), le ch. I al.1 des O du 21 avril 2021 ([RO 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)), du 25 août 2021 ([RO 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)), le ch. II al. 1 des O du 24 sept. 2021 ([RO 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)), du 14 mars 2025 ([RO 2025 187](https://fedlex.data.admin.ch/eli/oc/2025/187)), du 3 sept. 2025 ([RO 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)) et du 2 sept. 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464)).
 
 - 1\. accord de libre-échange du 25 juin 2018 entre les États de l’AELE et la Turquie[^annex1-lvlu1-1] (art. 2.3 à 2.6) et accord agricole du 25 juin 2018 entre la Suisse et la Turquie[^annex1-lvlu1-2],
 - 2\. accord du 17 septembre 1992 entre les États de l’AELE et Israël[^annex1-lvlu1-3] (art. 3 à 6), et accord agricole du 22 novembre 2018 entre la Suisse et Israël[^annex1-lvlu1-4],
@@ -182,7 +182,8 @@ Annexe 1[^t-2]
 - 33\. accord commercial du 11 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord[^annex1-lvlu1-57] (avec annexes),
 - 34\. accord de partenariat économique de large portée du 16 décembre 2018 entre les États de l’AELE et l’Indonésie[^annex1-lvlu1-58] (art. 1.3 à 2.23),
 - 35\. accord de libre-échange du 27 juin 2023 entre les États de l’AELE et la République de Moldova[^annex1-lvlu1-59] (art. 1.2 à 2.24),
-- 36\. accord de partenariat commercial et économique du 10 mars 2024 entre les États de l’AELE et l’Inde[^annex1-lvlu1-60] (art. 1.2 à 2.4).
+- 36\. accord de partenariat commercial et économique du 10 mars 2024 entre les États de l’AELE et l’Inde[^annex1-lvlu1-60] (art. 1.2 à 2.4),
+- 37\. accord de libre-échange du 22 janvier 2025 entre les États de l’AELE et la République du Kosovo[^annex1-lvlu1-61] (art. 1.2 à 2.3).
 
 [^annex1-lvlu1-1]: [RS 0.632.317.631](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2403)
 [^annex1-lvlu1-2]: [RS 0.632.317.631.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2404)
@@ -244,6 +245,7 @@ Annexe 1[^t-2]
 [^annex1-lvlu1-58]: [RS 0.632.314.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2351)
 [^annex1-lvlu1-59]: [RS 0.632.315.651](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40278)
 [^annex1-lvlu1-60]: [RS 0.632.314.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40322)
+[^annex1-lvlu1-61]: [RS 0.632.314.751](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40453)
 
 Annexe 2[^t-3]
 
@@ -253,8 +255,8 @@ Annexe 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/553](https://fedlex.data.admin.ch/eli/oc/2025/553) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 sept. 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/464](https://fedlex.data.admin.ch/eli/oc/2026/464) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-4]
 

@@ -3,11 +3,11 @@ sr: "632.319"
 title: Verordnung vom 27. Juni 1995 über die Zollansätze für Waren im Verkehr mit Freihandelspartnern (ausgenommen EU- und EFTA-Mitgliedstaaten) (Freihandelsverordnung 2)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: de
-version: 2025-10-01
+version: 2026-10-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20251001/de/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20251001-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20261001/de/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20251001/de"
 
 (Freihandelsverordnung 2)[^t-1]
 
-vom 27. Juni 1995 (Stand am 1. Oktober 2025)
+vom 27. Juni 1995 (Stand am 1. Oktober 2026)
 
 [^t-1]: Fassung gemäss Art. 8 der Freihandelsverordnung 1 vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -39,7 +39,7 @@ verordnet:
 
 Die Präferenzbehandlung im Sinne der in Anhang 1 genannten Abkommen und Vereinbarungen wird wie folgt gewährt:
 
-- a.[^1-2] Für die in Anhang 2 genannten Waren aus der Türkei (TR), Israel (IL), den Färöern (FO), Marokko (MA), der Westbank und dem Gazastreifen (PS), Mazedonien (MK), Mexiko (MX), Jordanien (JO), Singapur (SG), Chile (CL), Tunesien (TN), Libanon (LB), der Republik Korea (KR), den Mitgliedstaaten der Südafrikanischen Zollunion (SACU)[^1-3], Ägypten (EG), Kanada (CA), Japan (JP), den Mitgliedstaaten des Kooperationsrates der Arabischen Golfstaaten (GCC)[^1-4], Kolumbien (CO), Albanien (AL), Serbien (RS), Peru (PE), der Ukraine (UA), Montenegro (ME), Hongkong, China (HK), Bosnien und Herzegowina (BA), China (CN), den zentralamerikanischen Staaten (CAS; abgeschlossen mit Costa Rica [CR], Panama [PA] und Guatemala [GT]), Georgien (GE), den Philippinen (PH), Ecuador (EC), Indonesien (ID), Moldau (MD) sowie Indien (IN) gelten die dort aufgeführten Zollansätze.
+- a.[^1-2] Für die in Anhang 2 genannten Waren aus der Türkei (TR), Israel (IL), den Färöern (FO), Marokko (MA), der Westbank und dem Gazastreifen (PS), Mazedonien (MK), Mexiko (MX), Jordanien (JO), Singapur (SG), Chile (CL), Tunesien (TN), Libanon (LB), der Republik Korea (KR), den Mitgliedstaaten der Südafrikanischen Zollunion (SACU)[^1-3], Ägypten (EG), Kanada (CA), Japan (JP), den Mitgliedstaaten des Kooperationsrates der Arabischen Golfstaaten (GCC)[^1-4], Kolumbien (CO), Albanien (AL), Serbien (RS), Peru (PE), der Ukraine (UA), Montenegro (ME), Hongkong, China (HK), Bosnien und Herzegowina (BA), China (CN), den zentralamerikanischen Staaten (CAS; abgeschlossen mit Costa Rica [CR], Panama [PA] und Guatemala [GT]), Georgien (GE), den Philippinen (PH), Ecuador (EC), Indonesien (ID), Moldau (MD), Indien (IN) sowie Kosovo (XK) gelten die dort aufgeführten Zollansätze.
 - b.[^1-5] Für die in Anhang 3 genannten Waren aus Kolumbien (CO), Peru (PE), Guatemala (GT), den Philippinen (PH), Ecuador (EC) und Indien (IN) gelten zusätzlich die dort aufgeführten Zollansätze.
 - c. Für die in Anhang 4 genannten Agrarprodukte und andere Waren zu Futterzwecken aus Lesotho gelten die dort aufgeführten Zollansätze.
 - d.[^1-6] Für Waren aus dem Vereinigten Königreich gilt die in Anhang 6 aufgeführte Präferenzbehandlung.
@@ -47,7 +47,7 @@ Die Präferenzbehandlung im Sinne der in Anhang 1 genannten Abkommen und Vereinb
 <sup>2</sup> Für Erzeugnisse aus Landwirtschaftsprodukten, die in den Anhängen 2 und 3 mit dem Vermerk «bT» gekennzeichnet sind, gelten die vom Eidgenössischen Finanzdepartement gestützt auf Artikel 3 der Verordnung vom 23. November 2011[^1-7] über die Industrieschutzelemente und die beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten festgelegten Zollansätze.[^1-8]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 11. Juni 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)), seit 1. Okt. 2010 für Serbien ([AS 2010 4095](https://fedlex.data.admin.ch/eli/oc/2010/597)), seit 1. Nov. 2010 für Albanien ([AS 2010 4609](https://fedlex.data.admin.ch/eli/oc/2010/667)) und seit 1. Juli 2014 für die Mitgliedstaaten des GCC ([AS 2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)).
-[^1-2]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025, mit Ausnahme von Guatemala ([AS 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553);[2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 2. Sept. 2026, in Kraft seit 1. Okt. 2026, mit Ausnahme von Guatemala ([AS 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464);[2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
 [^1-3]: Botswana, Eswatini, Lesotho, Namibia, Südafrika.
 [^1-4]: Bahrain, Katar, Kuwait, Oman, Saudi-Arabien, Vereinigte Arabische Emirate.
 [^1-5]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025, mit Ausnahme von Guatemala ([AS 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553);[2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
@@ -145,7 +145,7 @@ Anhang 1[^t-2]
 
 ## Liste der Abkommen und der Vereinbarungen in Form von Briefwechseln
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 10. Juni 2011 ([AS 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 15. Aug. 2012 ([AS 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), vom 14. Sept. 2012 ([AS 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), vom 14. Juni 2013 ([AS 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), vom 20. Aug. 2014 ([AS 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), vom 6. Juni 2014 ([AS 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), vom 28. März 2018 ([AS 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), vom 9. Mai 2018 ([AS 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), vom 18. Sept. 2020 ([AS 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), vom 27. Febr. 2019 ([AS 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), Ziff. I Abs. 1 der V vom 21. April 2021 ([AS 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)), Ziff. I Abs. 1 der V vom 25. Aug. 2021 ([AS 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)), Ziff. II Abs. 1 der V vom 24. Sept. 2021 ([AS 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)), vom 14. März 2025 ([AS 2025 187](https://fedlex.data.admin.ch/eli/oc/2025/187)) und vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 10. Juni 2011 ([AS 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 15. Aug. 2012 ([AS 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), vom 14. Sept. 2012 ([AS 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), vom 14. Juni 2013 ([AS 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), vom 20. Aug. 2014 ([AS 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), vom 6. Juni 2014 ([AS 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), vom 28. März 2018 ([AS 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), vom 9. Mai 2018 ([AS 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), vom 18. Sept. 2020 ([AS 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), vom 27. Febr. 2019 ([AS 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), Ziff. I Abs. 1 der V vom 21. April 2021 ([AS 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)), Ziff. I Abs. 1 der V vom 25. Aug. 2021 ([AS 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)), Ziff. II Abs. 1 der V vom 24. Sept. 2021 ([AS 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)), vom 14. März 2025 ([AS 2025 187](https://fedlex.data.admin.ch/eli/oc/2025/187)), vom 3. Sept. 2025 ([AS 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)) und vom 2. Sept. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464)).
 
 - 1\. Freihandelsabkommen vom 25. Juni 2018[^annex1-lvlu1-1] zwischen den EFTA-Staaten und der Türkei (Art. 2.3–2.6) sowie Landwirtschaftsabkommen vom 25. Juni 2018[^annex1-lvlu1-2] zwischen der Schweiz und der Türkei,
 - 2\. Abkommen vom 17. September 1992[^annex1-lvlu1-3] zwischen den EFTA-Staaten und Israel (Art. 3–6) sowie Landwirtschaftsabkommen vom 22. November 2018[^annex1-lvlu1-4] zwischen der Schweiz und Israel,
@@ -183,6 +183,7 @@ Anhang 1[^t-2]
 - 34\. Umfassendes Wirtschaftspartnerschaftsabkommen vom 16. Dezember 2018[^annex1-lvlu1-58] zwischen den EFTA-Staaten und Indonesien (Art. 1.3–2.23).
 - 35\. Freihandelsabkommen vom 27. Juni 2023[^annex1-lvlu1-59] zwischen den EFTA-Staaten und der Republik Moldau (Art. 1.2–2.24).
 - 36\. Handels- und Wirtschaftspartnerschaftsabkommen vom 10. März 2024[^annex1-lvlu1-60] zwischen den EFTA-Staaten und Indien (Art. 1.2–2.4).
+- 37\. Freihandelsabkommen vom 22. Januar 2025[^annex1-lvlu1-61] zwischen den EFTA-Staaten und der Republik Kosovo (Art. 1.2–2.3).
 
 [^annex1-lvlu1-1]: [SR 0.632.317.631](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2403)
 [^annex1-lvlu1-2]: [SR 0.632.317.631.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2404)
@@ -244,6 +245,7 @@ Anhang 1[^t-2]
 [^annex1-lvlu1-58]: SR **632.314.271**
 [^annex1-lvlu1-59]: [SR 0.632.315.651](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40278)
 [^annex1-lvlu1-60]: [SR 0.632.314.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40322)
+[^annex1-lvlu1-61]: [SR 0.632.314.751](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40453)
 
 Anhang 2[^t-3]
 
@@ -253,8 +255,8 @@ Anhang 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/553](https://fedlex.data.admin.ch/eli/oc/2025/553) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Sept. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2026/464](https://fedlex.data.admin.ch/eli/oc/2026/464) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-4]
 

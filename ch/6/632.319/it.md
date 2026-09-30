@@ -3,11 +3,11 @@ sr: "632.319"
 title: "Ordinanza del 27 giugno 1995 sulle aliquote di dazio per le merci nel traffico con partner di libero scambio (esclusi gli Stati membri dell'UE e dell'AELS) (Ordinanza sul libero scambio 2)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: it
-version: 2025-10-01
+version: 2026-10-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20251001/it/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20251001-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20261001/it/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20251001/it"
 
 (Ordinanza sul libero scambio 2)[^t-1]
 
-del 27 giugno 1995 (Stato 1° ottobre 2025)
+del 27 giugno 1995 (Stato 1° ottobre 2026)
 
 [^t-1]: Nuovo testo giusta l’art. 8 dell’O del 18 giu. 2008 sul libero scambio 1, in vigore dal 1° ago. 2008 ([RU 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -39,7 +39,7 @@ ordina:
 
 Il trattamento preferenziale giusta gli accordi e le convenzioni menzionati nell’allegato 1 è concesso come segue:
 
-- a.[^1-2] per le merci menzionate nell’allegato 2 provenienti da Turchia (TR), Israele (IL), Isole Faröer (FO), Marocco (MA), Cisgiordania e Striscia di Gaza (PS), Macedonia (MK), Messico (MX), Giordania (JO), Singapore (SG), Cile (CL), Tunisia (TN), Libano (LB), Repubblica di Corea (KR), Stati membri dell’Unione doganale dell’Africa australe (SACU)[^1-3], Egitto (EG), Canada (CA), Giappone (JP), Stati membri del Consiglio di cooperazione degli Stati arabi del Golfo (GCC)[^1-4], Colombia (CO), Albania (AL), Serbia (RS), Perù (PE), Ucraina (UA), Montenegro (ME), Hongkong, Cina (HK), Bosnia ed Erzegovina (BA), Cina (CN), Stati dell’America centrale (CAS; concluso con Costa Rica [CR], Panama [PA] e Guatemala [GT]), Georgia (GE), Filippine (PH), Ecuador (EC), Indonesia (ID), Moldova (MD) nonché India (IN), sono applicabili le aliquote di dazio fissate in tale allegato;
+- a.[^1-2] per le merci menzionate nell’allegato 2 provenienti da Turchia (TR), Israele (IL), Isole Faröer (FO), Marocco (MA), Cisgiordania e Striscia di Gaza (PS), Macedonia (MK), Messico (MX), Giordania (JO), Singapore (SG), Cile (CL), Tunisia (TN), Libano (LB), Repubblica di Corea (KR), Stati membri dell’Unione doganale dell’Africa australe (SACU)[^1-3], Egitto (EG), Canada (CA), Giappone (JP), Stati membri del Consiglio di cooperazione degli Stati arabi del Golfo (GCC)[^1-4], Colombia (CO), Albania (AL), Serbia (RS), Perù (PE), Ucraina (UA), Montenegro (ME), Hongkong, Cina (HK), Bosnia ed Erzegovina (BA), Cina (CN), Stati dell’America centrale (CAS; concluso con Costa Rica [CR], Panama [PA] e Guatemala [GT]), Georgia (GE), Filippine (PH), Ecuador (EC), Indonesia (ID), Moldova (MD), India (IN) nonché Kosovo (XK) sono applicabili le aliquote di dazio fissate in tale allegato;
 - b.[^1-5] per le merci menzionate nell’allegato 3 provenienti dalla Colombia (CO), dal Perù (PE), dal Guatemala (GT), dalle Filippine (PH), dall’Ecuador (EC) e dall’India (IN), sono applicabili le aliquote di dazio addizionali fissate in tale allegato;
 - c. per i prodotti agricoli e le altre merci destinate all’alimentazione di animali menzionati nell’allegato 4 provenienti dal Lesotho sono applicabili le aliquote di dazio fissate in tale allegato;
 - d.[^1-6] per le merci provenienti dal Regno Unito è applicabile il trattamento preferenziale fissato nell’allegato 6.
@@ -47,7 +47,7 @@ Il trattamento preferenziale giusta gli accordi e le convenzioni menzionati nell
 <sup>2</sup> Per i prodotti agricoli contrassegnati dalla dicitura «em» negli allegati 2 e 3, si applicano le aliquote di dazio stabilite dal Dipartimento federale delle finanze secondo l’articolo 3 dell’ordinanza del 23 novembre 2011[^1-7] concernente gli elementi di protezione industriale e gli elementi mobili applicabili all’importazione di prodotti agricoli trasformati.[^1-8]
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O dell’11 giu. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2669](https://fedlex.data.admin.ch/eli/oc/2010/357)), dal 1° ott. 2010 per la Serbia ([RU 2010 4095](https://fedlex.data.admin.ch/eli/oc/2010/597)), dal 1° nov. 2010 per l’Albania ([RU 2010 4609](https://fedlex.data.admin.ch/eli/oc/2010/667)), dal 1° lug. 2014 per gli Stati membri del CCG ([RU 2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)).
-[^1-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 tranne che per il Guatemala ([RU 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553); [2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2026, in vigore dal 1° ott. 2026, tranne che per il Guatemala ([RU 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464); [2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
 [^1-3]: Botswana, Eswatini, Lesotho, Namibia, Sudafrica.
 [^1-4]: Arabia Saudita, Bahrain, Emirati Arabi Uniti, Kuwait, Oman, Qatar.
 [^1-5]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 tranne che per il Guatemala ([RU 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553); [2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
@@ -145,7 +145,7 @@ Allegato 1[^t-2]
 
 ## Elenco degli accordi e delle convenzioni in forma di scambi di lettere
 
-[^t-2]: Nuovo testo giusta la cifra II dell’O del 10 giu. 2011 ([RU 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Aggiornato dalle cifre II cpv. 1 delle O del 15 ago. 2012 ([RU 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), del 14 set. 2012 ([RU 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), del 14 giu. 2013 ([RU 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), del 20 ago. 2014 ([RU 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), del 6 giu. 2014 ([RU 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), del 28 mar. 2018 ([RU 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), del 9 mag. 2018 ([RU 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), del 18 set. 2020 ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), del 27 feb. 2019 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), del 21 apr. 2021 ([RU 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)), del 25 ago. 2021 ([RU 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)), del 24 set. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)), del 14 mar. 2025 ([RU 2025 187](https://fedlex.data.admin.ch/eli/oc/2025/187)) e del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 10 giu. 2011 ([RU 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Aggiornato dalle cifre II cpv. 1 delle O del 15 ago. 2012 ([RU 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), del 14 set. 2012 ([RU 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), del 14 giu. 2013 ([RU 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), del 20 ago. 2014 ([RU 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), del 6 giu. 2014 ([RU 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), del 28 mar. 2018 ([RU 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), del 9 mag. 2018 ([RU 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), del 18 set. 2020 ([RU 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), del 27 feb. 2019 ([RU 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)), del 21 apr. 2021 ([RU 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)), del 25 ago. 2021 ([RU 2021 534](https://fedlex.data.admin.ch/eli/oc/2021/534)), del 24 set. 2021 ([RU 2021 596](https://fedlex.data.admin.ch/eli/oc/2021/596)), del 14 mar. 2025 ([RU 2025 187](https://fedlex.data.admin.ch/eli/oc/2025/187)), del 3 set. 2025 ([RU 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)) e del 2 set. 2026, in vigore dal 1° ott. 2026 ([RU 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464)).
 
 - 1\. Accordo di libero scambio del 25 giugno 2018[^annex1-lvlu1-1] tra gli Stati dell’AELS e la Turchia (art. 2.3–2.6) e Accordo agricolo del 25 giugno 2018[^annex1-lvlu1-2] tra la Svizzera e la Turchia.
 - 2\. Accordo di libero scambio del 17 settembre 1992[^annex1-lvlu1-3] tra gli Stati dell’AELS e Israele (art. 3–6) e Accordo agricolo del 22 novembre 2018[^annex1-lvlu1-4] tra la Svizzera e Israele.
@@ -183,6 +183,7 @@ Allegato 1[^t-2]
 - 34\. Accordo di partenariato economico globale del 16 dicembre 2018[^annex1-lvlu1-58] tra gli Stati dell’AELS e l’Indonesia (art. 1.3–2.23).
 - 35\. Accordo di libero scambio del 27 giugno 2023[^annex1-lvlu1-59] tra gli Stati dell’AELS e la Repubblica di Moldova (art. 1.2–2.24).
 - 36\. Accordo di partenariato commerciale ed economico del 10 marzo 2024[^annex1-lvlu1-60] tra gli Stati dell’AELS e l’India (art. 1.2–2.4).
+- 37\. Accordo di libero scambio del 22 gennaio 2025[^annex1-lvlu1-61] tra gli Stati dell’AELS e la Repubblica del Kosovo (art. 1.2–2.3).
 
 [^annex1-lvlu1-1]: [RS 0.632.317.631](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2403)
 [^annex1-lvlu1-2]: [RS 0.632.317.631.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2404)
@@ -244,6 +245,7 @@ Allegato 1[^t-2]
 [^annex1-lvlu1-58]: [RS 0.632.314.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2351)
 [^annex1-lvlu1-59]: [RS 0.632.315.651](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40278)
 [^annex1-lvlu1-60]: [RS 0.632.314.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40322)
+[^annex1-lvlu1-61]: [RS 0.632.314.751](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40453)
 
 Allegato 2[^t-3]
 
@@ -253,8 +255,8 @@ Allegato 2[^t-3]
 
 [^annex2-lvlu1-1]
 
-[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 553](https://fedlex.data.admin.ch/eli/oc/2025/553)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/553](https://fedlex.data.admin.ch/eli/oc/2025/553) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 2 set. 2026, in vigore dal 1° ott. 2026 ([RU 2026 464](https://fedlex.data.admin.ch/eli/oc/2026/464)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/464](https://fedlex.data.admin.ch/eli/oc/2026/464) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
 
 Allegato 3[^t-4]
 
