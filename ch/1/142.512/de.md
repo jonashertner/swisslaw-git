@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20260612-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20261001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 12. Juni 2026)
+vom 18. Dezember 2013 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -54,13 +54,13 @@ Im Sinne dieser Verordnung bedeuten:
 - b. *Drittstaat:* Staat, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation (EFTA) ist;
 - c. *Schengen-Staat*: Staat, der durch eines der Schengen-Assoziierungsabkommen gebunden ist; diese Abkommen sind in Anhang 1 Ziffer 1 aufgeführt;
 - d. *Dublin-Staat*: Staat, der durch eines der Dublin-Assoziierungsabkommen gebunden ist; diese Abkommen sind in Anhang 1 Ziffer 2 aufgeführt;
-- e.[^2-2] *terroristische Straftat*: Straftat nach Anhang 1*a* der N-SIS-Verordnung vom 8. März 2013[^2-3];
-- f.[^2-4] *sonstige schwere Straftat*: Straftat nach Anhang 1*b* der N-SIS-Verordnung.
+- e.[^2-2] terroristische und sonstige schwere Straftaten: die in Anhang 3 des Schengen-Informationsaustauschgesetzes vom 21. März 2025[^2-3] aufgeführten Straftaten;
+- f.[^2-4] ...
 
 [^2-1]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) Nr. 610/2013, ABl. L 182 vom 29.6.2013, S. 1.
-[^2-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^2-3]: [SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
-[^2-4]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)). Fassung gemäss Ziff. III 2 der V vom 26. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^2-3]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^2-4]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)). Aufgehoben durch Ziff. III 2 der V vom 26. Aug. 2026, mit Wirkung seit 1. Okt. 2026 ([AS 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## 2. Kapitel: Nationales Visumsystem
 
@@ -197,19 +197,20 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
   - 2\. der Direktionsbereich Asyl: zur Prüfung der Asylgesuche,
   - 3\. die Registratur: zur Archivierung,
   - 4\. die Sektion Informatik und der Statistikdienst: zur Erstellung von Visastatistiken,
-  - 5\. die Abteilung Zulassung Arbeitsmarkt: zur Prüfung von Gesuchen im Bereich des Ausländerrechts;
+  - 5\. die Abteilung Zulassung Arbeitsmarkt: zur Prüfung von Gesuchen im Bereich des Ausländerrechts,
+  - 6\.[^10-2] die nationale ETIAS-Stelle: zur Erfüllung der ihr übertragenen Aufgaben nach Artikel 108*c* Absatz 1 AIG;
 
 - b. die Grenzposten der kantonalen Polizeibehörden und das Grenzwachtkorps: zur Durchführung von Personenkontrollen und zur Erteilung von Ausnahmevisa;
 - c. die schweizerischen Vertretungen im Ausland und die Mission der Schweiz bei der UNO in Genf: zur Prüfung von Visumgesuchen;
 - d. das Staatssekretariat, die Politische Direktion und die Konsularische Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA): zur Prüfung von Visumgesuchen und von Beschwerden im Zuständigkeitsbereich des EDA;
-- e. die Zentrale Ausgleichsstelle: zur Abklärung von Leistungsgesuchen und zur Zuteilung und Überprüfung von AHV-Nummern[^10-2];
+- e. die Zentrale Ausgleichsstelle: zur Abklärung von Leistungsgesuchen und zur Zuteilung und Überprüfung von AHV-Nummern[^10-3];
 - f.
 
   beim Bundesamt für Polizei (fedpol):
 
   - 1\. der Rechtsdienst: zum Erlass von Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 4 und 68 Absatz 3 AIG,
-  - 2\.[^10-3] die für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststellen: zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassung nach der RIPOL-Verordnung vom 26. Oktober 2016[^10-4],
-  - 3\. die Dienststellen, die für den internationalen Schriftverkehr zuständig sind, und die Einsatz- und Alarmzentrale[^10-5]: zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
+  - 2\.[^10-4] die für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststellen: zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassung nach der RIPOL-Verordnung vom 26. Oktober 2016[^10-5],
+  - 3\. die Dienststellen, die für den internationalen Schriftverkehr zuständig sind, und die Einsatz- und Alarmzentrale[^10-6]: zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
   - 4\.
 
     die zuständigen Dienststellen der Bundeskriminalpolizei:
@@ -219,18 +220,18 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
 
   - 5\. der Dienst Ausweisschriften und Nachforschungen nach vermissten Personen: zu Nachforschungen im Zusammenhang mit dem Aufenthalt dieser Personen,
   - 6\. die für die Führung des automatisierten Fingerabdruck-Identifikationssystems (AFIS) zuständige Dienststelle: zur Personenidentifikation nach Artikel 102 Absatz 1 AIG,
-  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-6];
+  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-7];
 
-- g.[^10-7] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
+- g.[^10-8] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
 - h. die Zivilstandsämter und ihre Aufsichtsbehörden sowie das Eidgenössische Amt für Zivilstandswesen: zur Prüfung der Rechtmässigkeit des Aufenthalts in der Schweiz von Verlobten ohne schweizerische Staatsbürgerschaft sowie zur Mitteilung der Identität von Verlobten, die keinen Nachweis für die Rechtmässigkeit ihres Aufenthalts erbracht haben, an die zuständige Behörde;
 - i.
 
   beim Bundesamt für Justiz:
 
-  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-8],
-  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-9] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
+  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-9],
+  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-10] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
 
-- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-10] über Massnahmen zur Wahrung der inneren Sicherheit;
+- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-11] über Massnahmen zur Wahrung der inneren Sicherheit;
 - k. das Bundesverwaltungsgericht: für die Instruktion von Beschwerden nach dem AIG;
 - l.
 
@@ -239,30 +240,31 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
   - 1\. der Erhebung der Mehrwertsteuer auf den im Inland von steuerpflichtigen Personen gegen Entgelt erbrachten Leistungen (Inlandsteuer) und auf dem Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch Empfängerinnen und Empfänger im Inland (Bezugsteuer) sowie bei der Erhebung der Verrechnungssteuer,
   - 2\. der Durchführung von Strafverfahren und von Amts- oder Rechtshilfeverfahren;
 
-- m.[^10-11]
+- m.[^10-12]
 
-  das Bundesamt für Zoll und Grenzsicherheit[^10-12]:
+  das Bundesamt für Zoll und Grenzsicherheit[^10-13]:
 
   - 1\. zur Erfüllung ihrer Aufgaben bei der Erhebung der Mehrwertsteuer auf der Einfuhr von Gegenständen (Einfuhrsteuer),
   - 2\. zur Personenidentifikation im Zusammenhang mit der Zollfahndung;
 
-- n.[^10-13] …
+- n.[^10-14] …
 
 <sup>2</sup> Die Zugangsberechtigungen sind in Anhang 2 geregelt.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 715](https://fedlex.data.admin.ch/eli/oc/2024/715)).
-[^10-2]: Ausdruck gemäss Anhang Ziff. II 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
-[^10-4]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
-[^10-5]: Ausdruck gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^10-6]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^10-7]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-8]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^10-9]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
-[^10-10]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^10-11]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^10-13]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-2]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-3]: Ausdruck gemäss Anhang Ziff. II 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-4]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^10-5]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^10-6]: Ausdruck gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^10-7]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^10-8]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-9]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-10]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-11]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-12]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-13]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^10-14]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## 3. Kapitel: Zentrales Visa-Informationssystem
 
@@ -285,23 +287,24 @@ Die folgenden Behörden können zur Erfüllung der ihnen übertragenen Aufgaben 
   - 3\. der Direktionsbereich Asyl: zur Prüfung von Asylgesuchen, über die die Schweiz entscheiden muss,
   - 4\. der Statistikdienst: zur Erstellung von Visastatistiken nach Artikel 17 der EU-VIS-Verordnung[^11-1],
   - 5\.[^11-2] die Abteilung Identifikation und Sicherheitsprüfung: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356[^11-3],
-  - 6\.[^11-4] der Direktionsbereich Bundesasylzentren: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356;
+  - 6\.[^11-4] der Direktionsbereich Bundesasylzentren: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356,
+  - 7\.[^11-5] die nationale ETIAS-Stelle: zur Erfüllung der ihr übertragenen Aufgaben nach Artikel 108*c* Absatz 1 AIG;
 
 - b. die Grenzposten der kantonalen Polizeibehörden und das Grenzwachtkorps: zur Ausstellung von Ausnahmevisa;
 - c. die schweizerischen Vertretungen im Ausland und die Mission der Schweiz bei der UNO in Genf: zur Prüfung von Visumgesuchen;
 - d. das Staatssekretariat, die Konsularische Direktion und die Politische Direktion des EDA: zur Prüfung der Visumgesuche im Zuständigkeitsbereich des EDA;
 - e.
 
-  das Grenzwachtkorps und die zuständigen kantonalen und kommunalen Polizeibehörden:[^11-5]
+  das Grenzwachtkorps und die zuständigen kantonalen und kommunalen Polizeibehörden:[^11-6]
 
   - 1\. zur Durchführung von Kontrollen an den Aussengrenzen des Schengen-Raums und im Hoheitsgebiet der Schweiz,
   - 2\. zur Überprüfung der Identität von Visuminhaberinnen oder Visuminhabern, zur Prüfung der Echtheit von Visa oder zur Prüfung, ob die Voraussetzungen für eine Einreise in das Hoheitsgebiet der Schweiz oder für den dortigen Aufenthalt erfüllt sind,
   - 3\. zur Identifikation von Personen ohne Visum, welche die Voraussetzungen für die Einreise in das Hoheitsgebiet der Schweiz oder für den dortigen Aufenthalt nicht oder nicht mehr erfüllen;
 
 - f. die kantonalen Migrationsbehörden und die Gemeinden, auf welche die entsprechenden Kompetenzen durch die Kantone übertragen wurden: zur Erfüllung der Aufgaben im Visumbereich;
-- g.[^11-6] die kantonalen Polizeibehörden, das Bundesamt für Zoll und Grenzsicherheit sowie die kantonalen Migrationsbehörden: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356.
+- g.[^11-7] die kantonalen Polizeibehörden, das Bundesamt für Zoll und Grenzsicherheit sowie die kantonalen Migrationsbehörden: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356.
 
-<sup>2</sup> Die Einsatz- und Alarmzentrale fedpol (EAZ fedpol[^11-7]) kann als zentrale Zugangsstelle online Daten des C-VIS abfragen (Art. 20).
+<sup>2</sup> Die Einsatz- und Alarmzentrale fedpol (EAZ fedpol[^11-8]) kann als zentrale Zugangsstelle online Daten des C-VIS abfragen (Art. 20).
 
 <sup>3</sup> Die Abfrageberechtigungen sind in Anhang 3 geregelt.
 
@@ -309,9 +312,10 @@ Die folgenden Behörden können zur Erfüllung der ihnen übertragenen Aufgaben 
 [^11-2]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
 [^11-3]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, Fassung gemäss ABl. L, 2024/1356, 22.5.2024.
 [^11-4]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
-[^11-5]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^11-6]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
-[^11-7]: Ausdruck gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^11-5]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^11-6]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^11-7]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-8]: Ausdruck gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 2. Abschnitt: Datenkategorien für die Abfrage des C-VIS und Umfang der Abfragerechte
 
@@ -408,7 +412,7 @@ Ist die Abfrage anhand der Fingerabdrücke nicht erfolgreich oder können diese 
 
 **Bundesbehörden, die Daten beantragen können**
 
-Die folgenden Bundesbehörden können im Sinne von Artikel 109*a* Absatz 3 Buchstaben a–c AIG Daten des C-VIS beantragen:
+Folgende Stellen des Bundes nach Artikel 109*a* Absatz 3 Buchstaben a–c und e AIG können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Rahmen ihrer gesetzlichen Aufgaben bei der EAZ fedpol Daten des C-VIS beantragen:[^17-1]
 
 - a.
 
@@ -430,16 +434,21 @@ Die folgenden Bundesbehörden können im Sinne von Artikel 109*a* Absatz 3 Buchs
   - 6\. die Steuerung Nonproliferation,
   - 7\. der Bereich Ausländerdienst;
 
-- c.[^17-1]
+- c.[^17-2]
 
   bei der Bundesanwaltschaft:
 
-  - 1\. der Dienst Urteilsvollzug: für den Vollzug der Entscheide der Strafbehörden des Bundes, wenn nicht die Kantone zuständig sind, namentlich in Anwendung von Artikel 82 Absatz 1 der Verordnung vom 24. Oktober 2007[^17-2] über Zulassung, Aufenthalt und Erwerbstätigkeit,
-  - 2\. die verfahrensführenden Abteilungen Staatsschutz und kriminelle Organisationen, Wirtschaftskriminalität, Rechtshilfe, Terrorismus, Völkerstrafrecht und Cyberkriminalität in Bern und in den Zweigstellen in Lausanne, Lugano und Zürich: für die Ermittlung und Anklageerhebung bei Straftaten, die nach den Artikeln 23 und 24 der Strafprozessordnung[^17-3] oder besonderen Bundesgesetzen der Bundesgerichtsbarkeit unterstehen.
+  - 1\.[^17-3] der Bereich Urteilsvollzug: für den Vollzug der Entscheide der Strafbehörden des Bundes, wenn nicht die Kantone zuständig sind, namentlich in Anwendung von Artikel 82 Absatz 1 der Verordnung vom 24. Oktober 2007[^17-4] über Zulassung, Aufenthalt und Erwerbstätigkeit,
+  - 2\. die verfahrensführenden Abteilungen Staatsschutz und kriminelle Organisationen, Wirtschaftskriminalität, Rechtshilfe, Terrorismus, Völkerstrafrecht und Cyberkriminalität in Bern und in den Zweigstellen in Lausanne, Lugano und Zürich: für die Ermittlung und Anklageerhebung bei Straftaten, die nach den Artikeln 23 und 24 der Strafprozessordnung[^17-5] oder besonderen Bundesgesetzen der Bundesgerichtsbarkeit unterstehen;
 
-[^17-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^17-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
-[^17-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+- d.[^17-6] beim Bundesamt für Zoll und Grenzsicherheit: die für die Strafverfolgung zuständigen Mitarbeitenden.
+
+[^17-1]: Fassung gemäss Anhang 3 Ziff. 4 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^17-3]: Fassung gemäss Anhang 3 Ziff. 4 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-4]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^17-5]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^17-6]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 18
 
@@ -805,7 +814,7 @@ Anhang 2[^t-2]
 
 ## Zugangsberechtigungen beim ORBIS
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 19. Febr. 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)). Bereinigt gemäss Anhang 3 Ziff. 4 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ### Zeichenerklärung
 
@@ -832,7 +841,7 @@ Organisationseinheiten:
 - NDB Nachrichtendienst des Bundes
 - SEM Staatssekretariat für Migration
 - – I Sektion Informatik und Statistikdienst, Abteilung Zulassung Aufenthalt und Abteilung Einreise, Registratur
-- – II Direktionsbereich Asyl, Abteilung Zulassung Arbeitsmarkt
+- – II Direktionsbereich Asyl, Abteilung Zulassung Arbeitsmarkt, Mitarbeitende der nationalen ETIAS-Stelle
 - ZA Zivilstandsämter, deren Aufsichtsbehörden und Eidgenössisches Amt für Zivilstandswesen
 - ZAS Zentrale Ausgleichsstelle
 

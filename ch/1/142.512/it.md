@@ -4,11 +4,11 @@ title: "Ordinanza del 18 dicembre 2013 sul sistema centrale d'informazione visti
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: it
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20260612-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20261001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/it"
 
 (Ordinanza VIS, OVIS)
 
-del 18 dicembre 2013 (Stato 12 giugno 2026)
+del 18 dicembre 2013 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -54,13 +54,13 @@ Ai sensi della presente ordinanza s’intende per:
 - b. *Stato terzo:* Stato che non è membro né dell’Unione europea (UE) né dell’Associazione europea di libero scambio (AELS);
 - c. *Stato Schengen:* Stato vincolato da uno degli accordi d’associazione a Schengen; detti accordi figurano all’allegato 1 numero 1;
 - d. *Stato Dublino:* Stato vincolato da uno degli accordi d’associazione a Dublino; detti accordi figurano all’allegato 1 numero 2;
-- e.[^2-2] *reato di terrorismo*: reato secondo l’allegato 1*a* dell’ordinanza N-SIS dell’8 marzo 2013[^2-3];
-- f.[^2-4] *altro reato grave*: reato secondo l’allegato 1*b* dell’ordinanza N-SIS.
+- e.[^2-2] *reati di terrorismo e altri reati gravi*: i reati elencati nell’allegato 3 della legge del 21 marzo 2025[^2-3] sullo scambio di informazioni con gli Stati Schengen;
+- f.[^2-4] …
 
 [^2-1]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 lug. 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal regolamento (UE) n. 610/2013, GU L 182 del 29.6.2013, pag. 1.
-[^2-2]: Introdotta dalla cifra I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
-[^2-3]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
-[^2-4]: Introdotta dalla cifra I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^2-2]: Introdotta dalla cifra I dell’O del 10 nov. 2021 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)). Nuovo testo giusta la cifra III n. 2 dell’O del 26 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^2-3]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^2-4]: Introdotta dalla cifra I dell’O del 10 nov. 2021 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)). Abrogata dalla cifra III n. 2 dell’O del 26 ago. 2026, con effetto dal 1° ott. 2026 ([RU 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## Capitolo 2: Sistema nazionale d’informazione visti
 
@@ -197,19 +197,20 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
   - 2\. l’Ambito direzionale Asilo: nel quadro dell’esame delle domande d’asilo,
   - 3\. il Servizio dei fascicoli: ai fini dell’archiviazione,
   - 4\. la Sezione informatica e il Servizio delle statistiche: per effettuare le statistiche sui visti,
-  - 5\. la Divisione Ammissione Mercato del lavoro: per esaminare le domande sottostanti al diritto in materia di stranieri;
+  - 5\. la Divisione Ammissione Mercato del lavoro: per esaminare le domande sottostanti al diritto in materia di stranieri,
+  - 6\.[^10-2] l’unità nazionale ETIAS: per adempiere i compiti che le sono assegnati in virtù dell’articolo 108*c* capoverso 1 LStrI;
 
 - b. i posti di confine delle polizie cantonali e il Corpo delle guardie di confine: per effettuare i controlli d’identità ed emanare visti eccezionali;
 - c. le rappresentanze svizzere all’estero e la Missione svizzera presso l’ONU a Ginevra: per l’esame delle domande di visto;
 - d. il Segretariato di Stato, la Direzione politica e la Direzione consolare del Dipartimento federale degli affari esteri (DFAE): per l’esame delle richieste di visto e dei ricorsi nella sfera di competenze del DFAE;
-- e. l’Ufficio centrale di compensazione: per l’esame delle domande di prestazioni e per l’assegnazione e la verifica del numero AVS[^10-2];
+- e. l’Ufficio centrale di compensazione: per l’esame delle domande di prestazioni e per l’assegnazione e la verifica del numero AVS[^10-3];
 - f.
 
   presso l’Ufficio federale di polizia (fedpol):
 
   - 1\. il Servizio giuridico: per adottare eventuali misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente agli articoli 67 capoverso 4 e 68 capoverso 3 LStrI,
-  - 2\.[^10-3] i servizi incaricati della gestione del sistema di ricerca informatizzato di polizia (RIPOL): per l’identificazione delle persone nell’ambito del controllo delle segnalazioni RIPOL ai sensi dell’ordinanza RIPOL del 26 ottobre 2016[^10-4],
-  - 3\. i servizi competenti in materia di corrispondenza internazionale e la Centrale operativa e d’allarme[^10-5]: per l’identificazione delle persone in relazione con i compiti nel settore dello scambio intercantonale e internazionale delle informazioni di polizia e per l’esame delle misure di respingimento destinate a salvaguardare la sicurezza interna ed esterna della Svizzera,
+  - 2\.[^10-4] i servizi incaricati della gestione del sistema di ricerca informatizzato di polizia (RIPOL): per l’identificazione delle persone nell’ambito del controllo delle segnalazioni RIPOL ai sensi dell’ordinanza RIPOL del 26 ottobre 2016[^10-5],
+  - 3\. i servizi competenti in materia di corrispondenza internazionale e la Centrale operativa e d’allarme[^10-6]: per l’identificazione delle persone in relazione con i compiti nel settore dello scambio intercantonale e internazionale delle informazioni di polizia e per l’esame delle misure di respingimento destinate a salvaguardare la sicurezza interna ed esterna della Svizzera,
   - 4\.
 
     i servizi competenti della Polizia giudiziaria federale:
@@ -219,18 +220,18 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
 
   - 5\. il servizio competente in materia di documenti d’identità e di ricerche di persone scomparse: per le ricerche concernenti la dimora di queste persone,
   - 6\. il servizio incaricato della gestione del sistema automatizzato d’identificazione delle impronte digitali (AFIS): per l’identificazione di persone ai sensi dell’articolo 102 capoverso 1 LStrI,
-  - 7\. il servizio competente presso l’Ufficio di comunicazione in materia di riciclaggio di denaro: per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro e i reati anteriori, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge del 10 ottobre 1997[^10-6] sul riciclaggio di denaro;
+  - 7\. il servizio competente presso l’Ufficio di comunicazione in materia di riciclaggio di denaro: per l’identificazione delle persone e l’accertamento del loro statuto di dimora effettuati nell’ambito dei suoi compiti legali nella lotta contro il riciclaggio di denaro e i reati anteriori, la criminalità organizzata e il finanziamento del terrorismo di cui all’articolo 23 della legge del 10 ottobre 1997[^10-7] sul riciclaggio di denaro;
 
-- g.[^10-7] le autorità migratorie cantonali e comunali e le autorità cantonali e comunali di polizia: per l’adempimento dei loro compiti in materia di stranieri;
+- g.[^10-8] le autorità migratorie cantonali e comunali e le autorità cantonali e comunali di polizia: per l’adempimento dei loro compiti in materia di stranieri;
 - h. gli uffici di stato civile e le loro autorità di vigilanza nonché l’Ufficio federale dello stato civile: per l’esame della regolarità del soggiorno in Svizzera dei fidanzati che non sono ancora cittadini svizzeri e per la comunicazione all’autorità competente dell’identità dei fidanzati che non hanno fornito prova del loro soggiorno regolare;
 - i.
 
   presso l’Ufficio federale di giustizia (UFG):
 
-  - 1\. l’Ambito direzionale Assistenza giudiziaria internazionale: in relazione con procedure di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^10-8] sull’assistenza in materia penale,
-  - 2\. l’Ambito direzionale Diritto privato: in relazione con la procedura retta dalla legge federale del 21 dicembre 2007[^10-9] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti;
+  - 1\. l’Ambito direzionale Assistenza giudiziaria internazionale: in relazione con procedure di assistenza giudiziaria internazionale ai sensi della legge federale del 20 marzo 1981[^10-9] sull’assistenza in materia penale,
+  - 2\. l’Ambito direzionale Diritto privato: in relazione con la procedura retta dalla legge federale del 21 dicembre 2007[^10-10] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti;
 
-- j. il Servizio delle attività informative della Confederazione: per l’esame delle misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente alla legge federale del 21 marzo 1997[^10-10] sulle misure per la salvaguardia della sicurezza interna;
+- j. il Servizio delle attività informative della Confederazione: per l’esame delle misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente alla legge federale del 21 marzo 1997[^10-11] sulle misure per la salvaguardia della sicurezza interna;
 - k. il Tribunale amministrativo federale: per l’istruzione dei ricorsi conformemente alla LStrI;
 - l.
 
@@ -239,30 +240,31 @@ Le autorità seguenti possono accedere in rete ai dati del sistema ORBIS per svo
   - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sulle prestazioni che i contribuenti effettuano a titolo oneroso sul territorio svizzero (imposta sulle prestazioni eseguite sul territorio svizzero) e sull’acquisto di prestazioni di imprese con sede all’estero da parte di beneficiari che si trovano sul territorio svizzero (imposta sull’acquisto) e nell’ambito dell’applicazione dell’imposta preventiva,
   - 2\. nell’ambito dell’esecuzione di procedimenti penali e di procedimenti di assistenza amministrativa e giudiziaria;
 
-- m.[^10-11]
+- m.[^10-12]
 
-  l’Ufficio federale della dogana e della sicurezza dei confini[^10-12]:
+  l’Ufficio federale della dogana e della sicurezza dei confini[^10-13]:
 
   - 1\. per l’adempimento dei suoi compiti nell’ambito della riscossione dell’imposta sul valore aggiunto sull’importazione di beni (imposta sull’importazione),
   - 2\. per l’identificazione delle persone nell’ambito dell’antifrode doganale;
 
-- n.[^10-13] …
+- n.[^10-14] …
 
 <sup>2</sup> I diritti di accesso sono disciplinati nell’allegato 2.
 
 [^10-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2014 715](https://fedlex.data.admin.ch/eli/oc/2014/152)).
-[^10-2]: Nuova espr. giusta l’all. cifra II n. 2 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-3]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
-[^10-4]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
-[^10-5]: Nuova espr. giusta la cifra I cpv. 1 dell’O del 6 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^10-6]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^10-7]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-8]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^10-9]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
-[^10-10]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^10-11]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-12]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^10-13]: Abrogata dalla cifra I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-2]: Introdotto dall’all. 3 n. 4 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-3]: Nuova espr. giusta l’all. cifra II n. 2 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^10-5]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^10-6]: Nuova espr. giusta la cifra I cpv. 1 dell’O del 6 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^10-7]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^10-8]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-9]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-10]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-11]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-12]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-13]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^10-14]: Abrogata dalla cifra I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Capitolo 3: Sistema centrale d’informazione visti
 
@@ -285,12 +287,13 @@ Le autorità seguenti possono consultare in rete i dati del C-VIS per svolgere i
   - 3\. l’Ambito direzionale Asilo: in vista dell’esame delle domande d’asilo in merito alle quali la Svizzera è chiamata a decidere,
   - 4\. il Servizio delle statistiche: per effettuare le statistiche sui visti conformemente all’articolo 17 del regolamento VIS UE[^11-1],
   - 5\.[^11-2] la Divisione Identificazione e controlli di sicurezza: per adempiere i compiti nel quadro degli accertamenti secondo il regolamento (UE) 2024/1356[^11-3],
-  - 6\. [^11-4] l’Ambito direzionale Centri federali d’asilo: per adempiere i compiti nel quadro degli accertamenti secondo il regolamento (UE) 2024/1356;
+  - 6\. [^11-4] l’Ambito direzionale Centri federali d’asilo: per adempiere i compiti nel quadro degli accertamenti secondo il regolamento (UE) 2024/1356,
+  - 7\.[^11-5] l’unità nazionale ETIAS: per adempiere i compiti che le sono assegnati in virtù dell’articolo 108*c* capoverso 1 LStrI;
 
 - b. i posti di confine delle polizie cantonali e il Corpo delle guardie di confine: per emanare visti eccezionali;
 - c. le rappresentanze svizzere all’estero e la missione svizzera presso l’ONU a Ginevra: per procedere all’esame delle domande di visto;
 - d. il Segretariato di Stato, la Direzione consolare e la Direzione politica del DFAE: per l’esame delle richieste di visto nella sfera di competenze del DFAE;
-- e.[^11-5]
+- e.[^11-6]
 
   il Corpo delle guardie di confine e le autorità cantonali e comunali di polizia competenti:
 
@@ -299,9 +302,9 @@ Le autorità seguenti possono consultare in rete i dati del C-VIS per svolgere i
   - 3\. per identificare le persone non detentrici di un visto che non adempiono o non adempiono più le condizioni d’entrata o di soggiorno sul territorio svizzero;
 
 - f. le autorità migratorie cantonali e i Comuni ai quali i Cantoni hanno delegato le loro competenze: per svolgere i loro compiti in materia di visti;
-- g.[^11-6] le autorità di polizia cantonali, l’Ufficio federale della dogana e della sicurezza dei confini nonché le autorità migratorie cantonali: per adempiere i compiti nel quadro degli accertamenti secondo il regolamento (UE) 2024/1356.
+- g.[^11-7] le autorità di polizia cantonali, l’Ufficio federale della dogana e della sicurezza dei confini nonché le autorità migratorie cantonali: per adempiere i compiti nel quadro degli accertamenti secondo il regolamento (UE) 2024/1356.
 
-<sup>2</sup> In qualità di punto d’accesso centrale, la Centrale operativa e d’allarme di fedpol (COA fedpol[^11-7]) può consultare in rete i dati del C-VIS (art. 20).
+<sup>2</sup> In qualità di punto d’accesso centrale, la Centrale operativa e d’allarme di fedpol (COA fedpol[^11-8]) può consultare in rete i dati del C-VIS (art. 20).
 
 <sup>3</sup> I diritti di consultazione sono disciplinati nell’allegato 3.
 
@@ -309,9 +312,10 @@ Le autorità seguenti possono consultare in rete i dati del C-VIS per svolgere i
 [^11-2]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
 [^11-3]: Regolamento (UE) 2024/1356 del Parlamento europeo e del Consiglio, del 14 mag. 2024, che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, versione della GU L, 2024/1356, 22.5.2024.
 [^11-4]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
-[^11-5]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^11-6]: Introdotta dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
-[^11-7]: Nuova espr. giusta la cifra I cpv. 2 dell’O del 6 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^11-5]: Introdotto dall’all. 3 n. 4 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^11-6]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^11-7]: Introdotta dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-8]: Nuova espr. giusta la cifra I cpv. 2 dell’O del 6 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Categorie di dati da utilizzare per consultare il C-VIS ed entità dei diritti di consultazione
 
@@ -408,7 +412,7 @@ Se la consultazione in base alle impronte digitali non dà esito oppure se le im
 
 **Autorità federali autorizzate a chiedere dati**
 
-Le autorità federali seguenti possono chiedere dati del C-VIS in virtù dell’articolo 109a capoverso 3 lettere a–c LStrI:
+Nel quadro dei loro compiti legali, i servizi seguenti delle autorità federali di cui all’articolo 109*a* capoverso 3 lettere a–d ed e LStrI possono chiedere dati del C-VIS alla COA fedpol per prevenire, individuare e investigare reati di terrorismo o altri reati gravi:[^17-1]
 
 - a.
 
@@ -430,16 +434,21 @@ Le autorità federali seguenti possono chiedere dati del C-VIS in virtù dell’
   - 6\. la coordinazione Non-proliferazione,
   - 7\. l’ambito Servizio degli stranieri;
 
-- c.[^17-1]
+- c.[^17-2]
 
   presso il Ministero pubblico della Confederazione:
 
-  - 1\. il servizio Esecuzione delle sentenze: per l’esecuzione delle decisioni delle autorità penali della Confederazione, se la competenza non spetta ai Cantoni, in particolare in applicazione dell’articolo 82 capoverso 1 dell’ordinanza del 24 ottobre 2007[^17-2] sull’ammissione, il soggiorno e l’attività lucrativa,
-  - 2\. le divisioni Protezione dello Stato e organizzazioni criminali, Criminalità economica, Assistenza giudiziaria, Terrorismo, Diritto penale internazionale e Cybercriminalità che conducono i procedimenti a Berna e presso le filiali di Losanna, Lugano e Zurigo: per l’indagine e l’accusa in caso di reati che sottostanno alla giurisdizione federale secondo gli articoli 23 e 24 del codice di procedura penale[^17-3] o secondo leggi federali speciali.
+  - 1\.[^17-3] il settore Esecuzione delle sentenze: per l’esecuzione delle decisioni delle autorità penali della Confederazione, se la competenza non spetta ai Cantoni, in particolare in applicazione dell’articolo 82 capoverso 1 dell’ordinanza del 24 ottobre 2007[^17-4] sull’ammissione, il soggiorno e l’attività lucrativa,
+  - 2\. le divisioni Protezione dello Stato e organizzazioni criminali, Criminalità economica, Assistenza giudiziaria, Terrorismo, Diritto penale internazionale e Cybercriminalità che conducono i procedimenti a Berna e presso le filiali di Losanna, Lugano e Zurigo: per l’indagine e l’accusa in caso di reati che sottostanno alla giurisdizione federale secondo gli articoli 23 e 24 del codice di procedura penale[^17-5] o secondo leggi federali speciali;
 
-[^17-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
-[^17-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
-[^17-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+- d.[^17-6] presso l’Ufficio federale della dogana e della sicurezza dei confini: i collaboratori addetti al perseguimento penale.
+
+[^17-1]: Nuovo testo giusta l’all. 3 n. 4 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2021, in vigore dal 1° mag. 2022 ([RU 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^17-3]: Nuovo testo giusta l’all. 3 n. 4 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-4]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^17-5]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^17-6]: Introdotta dall’all. 3 n. 4 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 18
 
@@ -804,7 +813,7 @@ Allegato 2[^t-2]
 
 ## Diritti d’accesso a ORBIS
 
-[^t-2]: Nuovo testo giusta la cifra II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 19 feb. 2020 ([RU 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)). Aggiornato dall’all. 3 n. 4 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ### Legenda
 
@@ -828,7 +837,7 @@ Unità organizzative:
 - – CL Collaboratore locale, senza competenza decisionale
 - SEM Segreteria di Stato della migrazione
 - – I Sezione informatica e Servizio delle statistiche, Divisione Ammissione Dimora, Divisione Entrata, Servizio dei fascicoli
-- – II Ambito direzionale Asilo, Divisione Ammissione Mercato del lavoro
+- – II Ambito direzionale Asilo, Divisione Ammissione Mercato del lavoro, collaboratori dell’unità nazionale ETIAS
 - SC Uffici dello stato civile e loro autorità di sorveglianza, nonché l’Ufficio federale di stato civile
 - SIC Servizio delle attività informative della Confederazione
 - TAF Tribunale amministrativo federale: quarta, quinta e sesta corte
@@ -950,7 +959,7 @@ Livelli d’accesso:
 
 Unità organizzative:
 
-- COA fedpol Punto d’accesso centrale
+- CO fedpol Punto d’accesso centrale
 - CP Autorità cantonali e comunali di polizia che operano sul territorio svizzero nell’ambito degli incarichi inerenti al diritto in materia di stranieri
 - DFAE Dipartimento federale degli affari esteri (Segreteria di Stato, Direzione consolare e Direzione politica)
 - MIGRA Autorità migratorie cantonali competenti per i visti e Comuni cui tali competenze sono state delegate
@@ -967,7 +976,7 @@ Unità organizzative:
 ### C-VIS
 
 <table>
-<tr><th>Campi di dati</th><th colspan="3">SEM I statistiche</th><th colspan="3">SEM II visti</th><th colspan="3">SEM III asilo Applicazione del regolamento Dublino UE[^annex3-lvlu1-lvlu2-1]</th><th colspan="2">SEM IV asilo Procedura d’asilo</th><th>SEM V Centri federali d’asilo</th><th>SEM VI Identificazione e controlli di sicurezza</th><th>MIGRA e OCF in qualità di autorità rilascianti i visti</th><th>OCF controllo frontiere</th><th>RSE</th><th>DFAE</th><th>CP sul territorio svizzero</th><th>COA fedpol</th></tr>
+<tr><th>Campi di dati</th><th colspan="3">SEM I statistiche</th><th colspan="3">SEM II visti</th><th colspan="3">SEM III asilo Applicazione del regolamento Dublino UE[^annex3-lvlu1-lvlu2-1]</th><th colspan="2">SEM IV asilo Procedura d’asilo</th><th>SEM V Centri federali d’asilo</th><th>SEM VI Identificazione e controlli di sicurezza</th><th>MIGRA e OCF in qualità di autorità rilascianti i visti</th><th>OCF controllo frontiere</th><th>RSE</th><th>DFAE</th><th>CP sul territorio svizzero</th><th>CO fedpol</th></tr>
 <tr><td colspan="20">I. Dati relativi al deposito della domanda</td></tr>
 <tr><td>Numero della domanda</td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A1</td><td>A</td><td>A</td><td>A1</td><td>A</td></tr>
 <tr><td>Stato della procedura: domanda depositata</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20260612-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20261001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (État le 12 juin 2026)
+du 18 décembre 2013 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -53,13 +53,13 @@ Au sens de la présente ordonnance, on entend par:
 - b. *État tiers:* État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre échange (AELE);
 - c. *État Schengen:* État lié par un des accords d’association à Schengen; ces accords figurent à l’annexe 1, ch. 1;
 - d. *État Dublin:* État lié par un des accords d’association à Dublin; ces accords figurent à l’annexe 1, ch. 2;
-- e.[^2-2] *infraction terroriste*: infraction au sens de l’annexe 1*a* de l’ordonnance N-SIS du 8 mars 2013[^2-3];
-- f.[^2-4] *autre infraction pénale grave*: infraction au sens de l’annexe 1*b* de l’ordonnance N-SIS.
+- e.[^2-2] *infractions terroristes et autres infractions pénales graves:* les infractions mentionnées à l’annexe 3 de la loi du 21 mars 2025 sur l’échange d’informations Schengen[^2-3];
+- f.[^2-4] *…*
 
 [^2-1]: R (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juil. 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le R (UE) n<sup>o</sup> 610/2013, JO L 182 du 29.6.2013, p. 1.
-[^2-2]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
-[^2-3]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
-[^2-4]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^2-2]: Introduite par le ch. I de l’O du 10 nov. 2021 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)). Nouvelle teneur selon le ch. III 2 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^2-3]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^2-4]: Introduite par le ch. I de l’O du 10 nov. 2021 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)). Abrogée par le ch. III 2 de l’O du 26 août 2026, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## Chapitre 2 Système national d’information sur les visas
 
@@ -195,19 +195,20 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
   - 2\. le domaine de direction Asile: dans le cadre de l’examen des demandes d’asile,
   - 3\. le service des dossiers: dans un but d’archivage,
   - 4\. la section informatique et le service des statistiques: afin d’établir des statistiques sur les visas,
-  - 5\. la division Admission Marché du travail afin d’examiner les demandes relevant du droit des étrangers;
+  - 5\. la division Admission Marché du travail afin d’examiner les demandes relevant du droit des étrangers,
+  - 6\.[^10-2] l’unité nationale ETIAS afin d’accomplir les tâches qui lui sont dévolues en vertu de l’art. 108*c*, al. 1, LEI;
 
 - b. les postes frontière des polices cantonales et le Corps des gardes-frontière: pour l’exécution des contrôles d’identité et l’établissement de visas exceptionnels;
 - c. les représentations suisses à l’étranger et la Mission suisse auprès de l’ONU à Genève: pour l’examen des demandes de visa;
 - d. le Secrétariat d’État, la Direction politique et la Direction consulaire du Département fédéral des affaires étrangères (DFAE): pour l’examen des demandes de visa et des recours relevant de la compétence du DFAE;
-- e. la Centrale de compensation: pour l’examen des demandes de prestations et pour l’attribution et la vérification des numéros AVS[^10-2];
+- e. la Centrale de compensation: pour l’examen des demandes de prestations et pour l’attribution et la vérification des numéros AVS[^10-3];
 - f.
 
   auprès de l’Office fédéral de la police (fedpol):
 
   - 1\. le Service juridique: pour l’adoption de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément aux art. 67, al. 4, et 68, al. 3, LEI,
-  - 2\.[^10-3] les services chargés de la gestion du système de recherches informatisées de police (RIPOL): pour l’identification des personnes dans le cadre du contrôle de la saisie des données RIPOL visées dans l’ordonnance RIPOL du 26 octobre 2016[^10-4],
-  - 3\. les services chargés de la correspondance internationale et la Centrale d’engagement et d’alarme[^10-5]: pour l’identification de personnes dans le domaine de l’échange d’informations policières aux niveaux intercantonal et international, et pour l’examen des mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse,
+  - 2\.[^10-4] les services chargés de la gestion du système de recherches informatisées de police (RIPOL): pour l’identification des personnes dans le cadre du contrôle de la saisie des données RIPOL visées dans l’ordonnance RIPOL du 26 octobre 2016[^10-5],
+  - 3\. les services chargés de la correspondance internationale et la Centrale d’engagement et d’alarme[^10-6]: pour l’identification de personnes dans le domaine de l’échange d’informations policières aux niveaux intercantonal et international, et pour l’examen des mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse,
   - 4\.
 
     les services compétents de la Police judiciaire fédérale:
@@ -217,18 +218,18 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 
   - 5\. le service compétent en matière de documents d’identité et de recherches de personnes disparues: pour les recherches concernant la résidence de ces personnes,
   - 6\. le service chargé de la gestion du système d’identification automatique par empreintes digitales (AFIS): pour l’identification de personnes visée à l’art. 102, al. 1, LEI,
-  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-6];
+  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-7];
 
-- g.[^10-7] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
+- g.[^10-8] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
 - h. les offices de l’état civil et leurs autorités de surveillance, ainsi que l’Office fédéral de l’état civil: pour la vérification de la légalité du séjour en Suisse des fiancés qui ne sont pas citoyens suisses et pour la communication à l’autorité compétente de l’identité des fiancés qui n’ont pas établi la légalité de leur séjour;
 - i.
 
   les services suivants de l’Office fédéral de la justice (OFJ):
 
-  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-8],
-  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-9];
+  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-9],
+  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-10];
 
-- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-10];
+- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-11];
 - k. le Tribunal administratif fédéral: pour l’instruction des recours conformément à la LEI;
 - l.
 
@@ -237,30 +238,31 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
   - 1\. au prélèvement de la taxe sur la valeur ajoutée portant sur les prestations que les assujettis fournissent à titre onéreux sur le territoire suisse (impôt grevant les opérations réalisées sur le territoire suisse) et sur l’acquisition, par un destinataire se trouvant sur le territoire suisse, de prestations fournies par une entreprise ayant son siège à l’étranger (impôt sur les acquisitions), ainsi qu’à l’application de l’impôt anticipé,
   - 2\. à l’exécution de procédures pénales et de procédures d’assistance administrative ou d’entraide judiciaire;
 
-- m.[^10-11]
+- m.[^10-12]
 
-  l’Office fédéral de la douane et de la sécurité des frontières[^10-12]:
+  l’Office fédéral de la douane et de la sécurité des frontières[^10-13]:
 
   - 1\. pour l’accomplissement des tâches liées au prélèvement de la taxe sur la valeur ajoutée portant sur l’importation de biens (impôt sur les importations),
   - 2\. pour l’identification des personnes dans le cadre de l’exécution des tâches de la division principale Antifraude douanière;
 
-- n.[^10-13] …
+- n.[^10-14] …
 
 <sup>2</sup> Les droits d’accès sont réglés à l’annexe 2.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 715](https://fedlex.data.admin.ch/eli/oc/2024/715)).
-[^10-2]: Nouvelle expression selon l’annexe ch. II 2 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juin 2023 ([RO 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
-[^10-4]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
-[^10-5]: Nouvelle expression selon le ch. I al. 1 de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Il a été tenu compte de cette mod. dans tout le texte.
-[^10-6]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^10-7]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-8]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^10-9]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
-[^10-10]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^10-11]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-12]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
-[^10-13]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-2]: Introduit par l’annexe 3 ch. 4 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-3]: Nouvelle expression selon l’annexe ch. II 2 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juin 2023 ([RO 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
+[^10-5]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^10-6]: Nouvelle expression selon le ch. I al. 1 de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-7]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^10-8]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-9]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-10]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-11]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-12]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-13]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-14]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Chapitre 3 Système central d’information sur les visas
 
@@ -283,23 +285,24 @@ Afin d’accomplir les tâches qui leur sont assignées, les services suivants p
   - 3\. le domaine de direction Asile: pour l’examen des demandes d’asile sur lesquelles la Suisse doit statuer,
   - 4\. le service des statistiques: pour l’établissement des statistiques sur les visas visées à l’art. 17 du règlement VIS UE[^11-1],
   - 5\.[^11-2] la division Identification et vérification de sécurité: dans le cadre de ses tâches liées au filtrage prévu par le règlement (UE) 2024/1356[^11-3],
-  - 6\.[^11-4] le domaine de direction Centres fédéraux pour requérants d’asile: dans le cadre de ses tâches liées au filtrage prévu par le règlement (UE) 2024/1356;
+  - 6\.[^11-4] le domaine de direction Centres fédéraux pour requérants d’asile: dans le cadre de ses tâches liées au filtrage prévu par le règlement (UE) 2024/1356,
+  - 7\.[^11-5] l’unité nationale ETIAS: pour l’accomplissement des tâches qui lui sont dévolues en vertu de l’art. 108*c*, al. 1, LEI;
 
 - b. les postes frontière des polices cantonales et le Corps des gardes-frontière: pour la délivrance des visas exceptionnels;
 - c. les représentations suisses à l’étranger et la mission suisse auprès de l’ONU à Genève: pour l’examen des demandes de visa;
 - d. le Secrétariat d’État, la Direction consulaire et la Direction politique du DFAE: pour l’examen des demandes de visa relevant de la compétence du DFAE;
 - e.
 
-  le Corps des gardes-frontière et les autorités cantonales et communales de police compétentes:[^11-5]
+  le Corps des gardes-frontière et les autorités cantonales et communales de police compétentes:[^11-6]
 
   - 1\. pour l’exécution du contrôle aux frontières extérieures de l’espace Schengen et sur le territoire suisse,
   - 2\. pour la vérification de l’identité du détenteur de visa, l’examen de l’authenticité du visa ou la vérification du respect des conditions d’entrée ou de séjour sur le territoire suisse,
   - 3\. pour l’identification de toute personne non détentrice d’un visa qui ne remplit pas ou qui ne remplit plus les conditions d’entrée ou de séjour sur le territoire suisse;
 
 - f. les autorités cantonales migratoires et les communes auxquelles les cantons ont délégué leurs compétences: pour l’accomplissement des tâches qui leur sont assignées en matière de visas;
-- g.[^11-6] les polices cantonales, l’Office fédéral de la douane et de la sécurité des frontières et les autorités cantonales migratoires: dans le cadre de leurs tâches liées au filtrage prévu par le règlement (UE) 2024/1356.
+- g.[^11-7] les polices cantonales, l’Office fédéral de la douane et de la sécurité des frontières et les autorités cantonales migratoires: dans le cadre de leurs tâches liées au filtrage prévu par le règlement (UE) 2024/1356.
 
-<sup>2</sup> En tant que point d’accès central, la Centrale d’engagement et d’alarme de fedpol (CEA fedpol[^11-7]) peut consulter en ligne les données du C-VIS (art. 20).
+<sup>2</sup> En tant que point d’accès central, la Centrale d’engagement et d’alarme de fedpol (CEA fedpol[^11-8]) peut consulter en ligne les données du C-VIS (art. 20).
 
 <sup>3</sup> Les droits de consultation sont réglés à l’annexe 3.
 
@@ -307,9 +310,10 @@ Afin d’accomplir les tâches qui leur sont assignées, les services suivants p
 [^11-2]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
 [^11-3]: Règlement (UE) 2024/1356 du Parlement européen et du Conseil du 14 mai 2024 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, version du JO L, 2024/1356, 22.5.2024.
 [^11-4]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
-[^11-5]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^11-6]: Introduite par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
-[^11-7]: Nouvelle expression selon le ch. I al. 2 de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Il a été tenu compte de cette mod. dans tout le texte.
+[^11-5]: Introduit par l’annexe 3 ch. 4 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^11-6]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^11-7]: Introduite par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-8]: Nouvelle expression selon le ch. I al. 2 de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### Section 2 Catégories de données à utiliser pour consulter le C-VIS et étendue des droits de consultation
 
@@ -406,7 +410,7 @@ Si la recherche au moyen des empreintes digitales échoue ou si ces empreintes n
 
 **Autorités fédérales pouvant demander des données**
 
-Les autorités fédérales qui peuvent demander certaines données du C-VIS en vertu de l’art. 109*a*, al. 3, let. a à c, LEI sont:
+Dans le cadre de leurs tâches légales, les services suivants des autorités fédérales visées à l’art. 109*a*, al. 3, let. a à c et e, LEI peuvent demander des données du C-VIS à la CEA fedpol pour prévenir et détecter les infractions terroristes ou d’autres infractions pénales graves, et enquêter en la matière:[^17-1]
 
 - a.
 
@@ -428,16 +432,21 @@ Les autorités fédérales qui peuvent demander certaines données du C-VIS en v
   - 6\. la coordination Non-prolifération,
   - 7\. le domaine Service des étrangers;
 
-- c.[^17-1]
+- c.[^17-2]
 
   auprès du Ministère public de la Confédération:
 
-  - 1\. le Service de l’exécution des jugements: pour exécuter les décisions des autorités pénales de la Confédération, dans la mesure où elle ne relève pas des cantons, notamment en application de l’art. 82, al. 1, de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative[^17-2],
-  - 2\. les divisions Protection de l’État et organisations criminelles, Criminalité économique, Entraide judiciaire, Terrorisme, Droit pénal international et Cybercriminalité établies à Berne et dans les succursales de Lausanne, de Lugano et de Zurich qui sont chargées de conduire les procédures: pour mener les investigations et dresser les actes d’accusation concernant les infractions qui relèvent de la juridiction fédérale en vertu des art. 23 et 24 du code de procédure pénale[^17-3] ou de lois fédérales spéciales.
+  - 1\.[^17-3] le domaine Exécution des jugements: pour exécuter les décisions des autorités pénales de la Confédération, dans la mesure où elle ne relève pas des cantons, notamment en application de l’art. 82, al. 1, de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative[^17-4],
+  - 2\. les divisions Protection de l’État et organisations criminelles, Criminalité économique, Entraide judiciaire, Terrorisme, Droit pénal international et Cybercriminalité établies à Berne et dans les succursales de Lausanne, de Lugano et de Zurich qui sont chargées de conduire les procédures: pour mener les investigations et dresser les actes d’accusation concernant les infractions qui relèvent de la juridiction fédérale en vertu des art. 23 et 24 du code de procédure pénale[^17-5] ou de lois fédérales spéciales;
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
-[^17-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
-[^17-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+- d.[^17-6] auprès de l’Office fédéral de la douane et de la sécurité des frontières: les collaborateurs chargés de la poursuite pénale.
+
+[^17-1]: Nouvelle teneur selon l’annexe 3 ch. 4 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 735](https://fedlex.data.admin.ch/eli/oc/2021/735)).
+[^17-3]: Nouvelle teneur selon l’annexe 3 ch. 4 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-4]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^17-5]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^17-6]: Introduite par l’annexe 3 ch. 4 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 18
 
@@ -803,7 +812,7 @@ Annexe 2[^t-2]
 
 ## Droits d’accès à ORBIS
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)). Mise à jour par l’annexe 3 ch. 4 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ### Légende
 
@@ -829,8 +838,8 @@ Unités organisationnelles:
 - – CT Collaborateur transférable ou collaborateur responsable avec compétence de décision sur les demandes de visas
 - – CL Collaborateur local, sans compétence décisionnelle
 - SEM Secrétariat d’État aux migrations
-- – I Section informatique et service des statistiques, Division Admission Séjour et division Entrée, Service des dossiers
-- – II Domaine de direction Asile, Division Admission Marché du travail
+- – I Section informatique et service des statistiques, division Admission Séjour et division Entrée, service des dossiers
+- – II Domaine de direction Asile, division Admission Marché du travail, collaborateurs de l’unité nationale ETIAS
 - SRC Service de renseignement de la Confédération
 - TAF Tribunal administratif fédéral: quatrième, cinquième et sixième cours
 
@@ -966,7 +975,7 @@ Unités organisationnelles:
 ### C-VIS
 
 <table>
-<tr><th>Dénomination des champs de données</th><th>SEM I statis- tiques</th><th>SEM II visas</th><th>SEM III asile Application du règlement Dublin UE[^annex3-lvlu1-lvlu2-1]</th><th>SEM IV asile Procédure d’asile</th><th>SEM V Centres fédéraux pour requérants d’asile</th><th>SEM VI Identification et vérifica- tion de sécu- rité</th><th>MIGRA et OCF en tant qu’autorités émettrices de visas</th><th>OCF contrôle frontières</th><th>RSE</th><th>DFAE</th><th>CP sur territoire suisse</th><th>CEA Fedpol</th></tr>
+<tr><th>Dénomination des champs de données</th><th>SEM I statis- tiques</th><th>SEM II visas</th><th>SEM III asile Application du règlement Dublin UE[^annex3-lvlu1-lvlu2-1]</th><th>SEM IV asile Procédure d’asile</th><th>SEM V Centres fédéraux pour requérants d’asile</th><th>SEM VI Identification et vérifica- tion de sécu- rité</th><th>MIGRA et OCF en tant qu’autorités émettrices de visas</th><th>OCF contrôle frontières</th><th>RSE</th><th>DFAE</th><th>CP sur territoire suisse</th><th>CEA fedpol</th></tr>
 <tr><td colspan="13">I. Données du dépôt de la demande</td></tr>
 <tr><td>Numéro de la demande</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>État de la procédure: demande déposée</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
