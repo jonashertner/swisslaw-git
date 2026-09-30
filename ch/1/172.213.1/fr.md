@@ -4,11 +4,11 @@ title: "Ordonnance du 17 novembre 1999 sur l'organisation du Département fédé
 short: Org DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: fr
-version: 2025-01-01
+version: 2026-10-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2000-57-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/fr"
 
 (Org DFJP)
 
-du 17 novembre 1999 (État le 1<sup>er</sup> janvier 2025)
+du 17 novembre 1999 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 43, al. 2, et 47, al. 2, de la loi fédérale du 21 mars 1997 sur l�
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Chapitre 1 Département
 
@@ -109,7 +109,7 @@ Outre les fonctions définies à l’art. 42 LOGA, le Secrétariat général exe
 [^4-1]: Introduite par l’annexe de l’O du 23 nov. 2022 sur le Comité national contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
 [^4-2]: Introduit par l’art. 125 ch. 2 de l’O du 23 fév. 2000 sur les maisons de jeu ([RO 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
 [^4-3]: Introduit par le ch. II 2 de l’O du 22 août 2007 ([RO 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogé par le ch. I de l’O du 27 oct. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-4]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)**;** **2000** 1157;[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*l* à 8*t* de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^4-4]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)**;** **2000** 1157;[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]. Voir actuellement les art. 8*l* à 8*t* de l’O du 25 nov. 1998 sur l’organisation du gouvernement et de l’administration ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 [^4-5]: Introduit par le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
 
 ### Section 2 Dispositions communes aux offices
@@ -194,7 +194,7 @@ En collaboration avec les autres offices concernés, l’OFJ prépare les actes 
 <sup>4</sup> Il conseille les unités administratives de la Confédération en amont de l’élaboration de projets législatifs et pour les questions générales concernant la législation qui ont un rapport avec la transformation numérique.
 
 [^7b-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^7b-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 7c
 
@@ -209,7 +209,7 @@ En collaboration avec les autres offices concernés, l’OFJ prépare les actes 
 <sup>4</sup> Il prépare et rédige, en collaboration avec les offices compétents, les avis de la Suisse à l’intention de la Cour de justice de l’Union européenne. Les conclusions sont soumises à la Cour en concertation avec le DFAE.
 
 [^7c-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^7c-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 7d
 
@@ -224,8 +224,8 @@ En collaboration avec les autres offices concernés, l’OFJ prépare les actes 
 <sup>4</sup> Il est l’autorité centrale de la Confédération en matière d’enlèvement international d’enfants, de protection internationale des enfants et des adultes, d’adoption internationale, d’affaires internationales portant sur des contributions d’entretien et d’entraide judiciaire internationale en matière civile ou commerciale.
 
 [^7d-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7d-2]: [RS 0.351.6](https://fedlex.data.admin.ch/eli/cc/2011/515)
-[^7d-3]: [RS 351.6](https://fedlex.data.admin.ch/eli/cc/2002/237)
+[^7d-2]: [RS 0.351.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1359)
+[^7d-3]: [RS 351.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6290)
 
 #### Art. 7e
 
@@ -240,8 +240,8 @@ En collaboration avec les autres offices concernés, l’OFJ prépare les actes 
 <sup>4</sup> Il exerce la surveillance du centre de renseignements sur le crédit à la consommation conformément à l’art. 23, al. 2 et 4, de la loi fédérale du 23 mars 2001 sur le crédit à la consommation[^7e-3]; les compétences du Préposé fédéral à la protection des données et à la transparence demeurent réservées.
 
 [^7e-1]: Introduit par le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024, sous réserve de l’al. 2, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7e-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
+[^7e-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5873)
 
 #### Art. 8
 
@@ -255,7 +255,8 @@ L’OFJ gère:
 - b. l’Office fédéral chargé du droit du registre foncier et du droit foncier, y compris l’Office du registre des navires suisses;
 - c. l’Office fédéral du registre du commerce;
 - d. le casier judiciaire informatique VOSTRA, en collaboration avec d’autres autorités fédérales et avec les cantons;
-- e. le Service chargé de la haute surveillance sur la poursuite pour dettes et la faillite.
+- e. le Service chargé de la haute surveillance sur la poursuite pour dettes et la faillite;
+- f.[^8-2] le registre de transparence.
 
 <sup>2</sup>
 
@@ -265,6 +266,7 @@ Sont rattachés administrativement à l’OFJ:
 - b. la Commission consultative sur les mesures de coercition à des fins d’assistance et les placements extrafamiliaux antérieurs à 1981.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^8-2]: Introduite par l’annexe ch. 2 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ### Section 4 Office fédéral de la police
 
@@ -373,22 +375,22 @@ Fedpol gère:
 [^10-7]: Anciennement let. f.
 [^10-8]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-9]: Introduite par le ch. I de l’O du 17 oct. 2007 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^10-10]: [RS 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
-[^10-11]: [RS 311.039.3](https://fedlex.data.admin.ch/eli/cc/2013/680)
+[^10-10]: [RS 0.311.543](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1311)
+[^10-11]: [RS 311.039.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6202)
 [^10-12]: Nouvelle teneur selon le ch. II de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 [^10-13]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-14]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-15]: Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-16]: Nouvelle teneur selon le ch. I del’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-17]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-18]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^10-17]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-18]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^10-19]: Nouvelle teneur selon le ch. II de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
 [^10-20]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-21]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-22]: Introduit par le ch. I de l’O du 17 oct. 2007 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-23]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-24]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-25]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-25]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 [^10-26]: Introduit par l’annexe 2 ch. 3 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 [^10-27]: Introduit par l’annexe de l’O du 23 nov. 2022 sur le Comité national contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765), ici al. 16).
 
@@ -406,10 +408,10 @@ Fedpol gère:
 
 <sup>5</sup> Fedpol est responsable du séquestre et de la confiscation de matériel de propagande dont le contenu incite à la violence; il consulte préalablement le SRC.[^11-6]
 
-[^11-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^11-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^11-2]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^11-3]: Abrogé par le ch. I de l’O du 2 mars 2018, avec effet au 15 avr. 2018 ([RO 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
-[^11-4]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^11-4]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 [^11-5]: Introduit par le ch. I de l’O du 17 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^11-6]: Introduit par le ch. I de l’O du 17 oct. 2007 ([RO 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Nouvelle teneur selon de l’annexe 4 ch. II 9 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
@@ -489,7 +491,7 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines de l’as
 
 <sup>4</sup> En outre, il entretient un service d’information et de conseil en vue du placement de stagiaires.[^13-3]
 
-[^13-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4003](https://fedlex.data.admin.ch/eli/oc/2020/745)).
 [^13-3]: Nouvelle teneur selon l’art. 76 ch. 2 de l’O du 7 oct. 2015 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3879](https://fedlex.data.admin.ch/eli/oc/2015/654)).
 
@@ -552,7 +554,7 @@ Afin de poursuivre les objectifs visés à l’al. 1 dans les domaines de l’as
 Le service chargé de la surveillance de la correspondance par poste et télécommunication au sens de l’art. 3 de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^25-2] est rattaché administrativement au Secrétariat général.
 
 [^25-1]: Nouvelle teneur selon l’art. 73 ch. 1 de l’O du 15 nov. 2017 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32)).
-[^25-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^25-2]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 
 #### Art. 26 et 27
 
@@ -566,7 +568,7 @@ Abrogés
 
 <sup>2</sup> Son statut, ses tâches et son organisation sont régis par la loi fédérale du 6 octobre 1978 sur l’Institut suisse de droit comparé[^28-1].
 
-[^28-1]: [RO **1979** 3199, [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 40. [RO 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)art. 23 al. 1]. Voir actuellement la LF du 28 sept. 2018 ([RS 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)).
+[^28-1]: [RO **1979** 3199, [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 40. [RO 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)art. 23 al. 1]. Voir actuellement la LF du 28 sept. 2018 ([RS 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)).
 
 ### Section 3 Institut fédéral de la Propriété intellectuelle
 
@@ -578,8 +580,8 @@ Abrogés
 
 <sup>3</sup> Il a qualité pour recourir devant le Tribunal fédéral dans son domaine de compétences.[^29-3]
 
-[^29-1]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^29-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)à [232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475),[0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)à [0.232.163](https://fedlex.data.admin.ch/eli/cc/2008/527)
+[^29-1]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^29-2]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)à [232.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5991),[0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)à [0.232.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1110)
 [^29-3]: Introduit par le ch. II 10 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### Section 4 Autorité fédérale de surveillance en matière de révision
@@ -594,8 +596,8 @@ Abrogés
 
 <sup>2</sup> Son statut, ses tâches, ses compétences et son organisation sont régis par la loi du 16 décembre 2005 sur la surveillance de la révision[^29a-1], par l’ordonnance du 22 août 2007 sur la surveillance de la révision[^29a-2] et par les accords internationaux applicables.
 
-[^29a-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^29a-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^29a-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^29a-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### Section 5 Commission fédérale des maisons de jeu
 
@@ -609,7 +611,7 @@ Abrogés
 
 <sup>2</sup> La commission et son secrétariat sont rattachés administrativement au Secrétariat général.
 
-[^29b-1]: [[RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)ch. I 15. [RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)annexe ch. I 2]. Voir actuellement la LF du 29 sept. 2017 sur les jeux d’argent ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^29b-1]: [[RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)ch. I 15. [RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)annexe ch. I 2]. Voir actuellement la LF du 29 sept. 2017 sur les jeux d’argent ([RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)).
 
 ### Section 6 Commission arbitrale fédérale pour la gestion de droits d’auteur et de droits voisins
 
@@ -623,7 +625,7 @@ Abrogés
 
 <sup>2</sup> La commission et son secrétariat sont rattachés administrativement au Secrétariat général.
 
-[^29c-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^29c-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 
 ### Section 7 Institut fédéral de métrologie
 
@@ -639,8 +641,8 @@ Abrogés
 
 <sup>3</sup> METAS a qualité pour recourir devant le Tribunal fédéral dans son domaine de compétences.
 
-[^29d-1]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^29d-2]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^29d-1]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^29d-2]: [RS 941.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11204)
 
 ## Chapitre 4 Dispositions finales
 

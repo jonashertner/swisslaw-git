@@ -4,11 +4,11 @@ title: "Ordinanza del 17 novembre 1999 sull'organizzazione del Dipartimento fede
 short: Org-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: it
-version: 2025-01-01
+version: 2026-10-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20250101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2000-57-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/it"
 
 (Org-DFGP)
 
-del 17 novembre 1999 (Stato 1° gennaio 2025)
+del 17 novembre 1999 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 43 capoverso 2 e 47 capoverso 2 della legge del 21 marzo 1997
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Capitolo 1: Dipartimento
 
@@ -54,12 +54,12 @@ I punti principali dell’attività del Dipartimento sono i seguenti:
 - e.[^1-4] ordinamento economico: il Dipartimento elabora, ove necessario d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^1-5], le basi di diritto privato nei settori del diritto contrattuale e delle imprese nonché della proprietà intellettuale;
 - f.[^1-6] metrologia: il Dipartimento elabora le basi metrologiche e vigila sull’esecuzione nei Cantoni.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^1-3]: Abrogata dal n. I dell’O del 28 giu. 2000, con effetto dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^1-4]: Nuovo testo giusta il n. II 2 dell’O del 25 giu. 2003, in vigore dal 1° lug. 2003 ([RU 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^1-3]: Abrogata dalla cifra I dell’O del 28 giu. 2000, con effetto dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^1-4]: Nuovo testo giusta la cifra II n. 2 dell’O del 25 giu. 2003, in vigore dal 1° lug. 2003 ([RU 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
 [^1-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-6]: Nuovo testo giusta il n. III 2 dell’O del 10 mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)).
+[^1-6]: Nuovo testo giusta la cifra III n. 2 dell’O del 10 mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)).
 
 #### Art. 2
 
@@ -80,7 +80,7 @@ Il Dipartimento decide in merito:
 - a. al perseguimento giudiziario di reati politici; in casi concernenti le relazioni con l’estero, decide previa consultazione del Dipartimento federale degli affari esteri (DFAE); può sottoporre al Consiglio federale casi di particolare importanza;
 - b.[^3-1] ...
 
-[^3-1]: Abrogata dal n. I dell’O del 19 dic. 2003, con effetto dal 1° feb. 2004 ([RU 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
+[^3-1]: Abrogata dalla cifra I dell’O del 19 dic. 2003, con effetto dal 1° feb. 2004 ([RU 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
 ## Capitolo 2: Uffici e altre unità dell’Amministrazione federale centrale
 
@@ -108,10 +108,10 @@ La Segreteria generale esercita le funzioni di cui all’articolo 42 LOGA e assu
 <sup>4</sup> Alla Segreteria generale è aggregata amministrativamente la Commissione per la prevenzione della tortura e la sua segreteria. I membri della Commissione hanno diritto al rimborso delle spese e a un’indennità. Per il loro calcolo si applica per analogia l’ordinanza del 3 giugno 1996[^4-4] sulle commissioni extraparlamentari, nonché gli organi di direzione e i rappresentanti della Confederazione.[^4-5]
 
 [^4-1]: Introdotta dall’all. dell’O del 23 nov. 2022 sul Comitato nazionale contro il terrorismo, in vigore dal 1° gen. 2023 ([RU 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
-[^4-2]: Introdotto dall’art. 125 n. 2 dell’O del 23 feb. 2000 ([RU 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogato dal n. I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-3]: Introdotto dal n. II 2 dell’O del 22 ago. 2007 ([RU 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogato dal n. I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-4]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651),[2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188),[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]. Vedi ora gli art. 8*l* – 8*t* dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
-[^4-5]: Introdotto dal n. I dell’O del 21 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
+[^4-2]: Introdotto dall’art. 125 n. 2 dell’O del 23 feb. 2000 ([RU 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Abrogato dalla cifra I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-3]: Introdotto dalla cifra II n. 2 dell’O del 22 ago. 2007 ([RU 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Abrogato dalla cifra I dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^4-4]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651),[2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188),[2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)cifra II n. 1]. Vedi ora gli art. 8*l* – 8*t* dell’O del 25 nov. 1998 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
+[^4-5]: Introdotto dalla cifra I dell’O del 21 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
 
 ### Sezione 2: Disposizioni comuni a tutti gli uffici
 
@@ -127,8 +127,8 @@ La Segreteria generale esercita le funzioni di cui all’articolo 42 LOGA e assu
 
 <sup>5</sup> D’intesa con il DFAE, il Dipartimento stabilisce in quali campi di attività gli uffici sono autorizzati a comunicare con ambasciate e consolati svizzeri e con autorità e servizi esteri.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
-[^5-2]: Nuova espressione giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 28 giu. 2000, in vigore dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^5-2]: Nuova espressione giusta la cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 
 ### Sezione 3: Ufficio federale di giustizia
 
@@ -154,8 +154,8 @@ Per conseguire tali obiettivi, l’UFG svolge le funzioni seguenti:
 - a. vigila sulla legalità degli atti normativi, dei decreti e delle decisioni dell’Assemblea federale, del Consiglio federale e dell’Amministrazione federale, segnatamente per quanto concerne il rispetto dei diritti fondamentali e dei principi dello Stato di diritto, dell’ordinamento federalistico delle competenze e di altri principi costituzionali;
 - b. segue l’evoluzione del diritto in Svizzera e all’estero, fornisce alle autorità competenti consulenze specialistiche in materia di diritto federale e di politica giuridica e propone soluzioni tempestive e appropriate.
 
-[^6-1]: Nuova denominazione giusta il n. I dell’O del 4 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
-[^6-2]: Introdotta dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^6-1]: Nuova denominazione giusta la cifra I dell’O del 4 dic. 2000, in vigore dal 1° gen. 2001 ([RU 2001 265](https://fedlex.data.admin.ch/eli/oc/2001/55)).
+[^6-2]: Introdotta dalla cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 #### Art. 7
 
@@ -169,7 +169,7 @@ Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione 
 - d. diritto pubblico, nella misura in cui non compete ad altri uffici federali, segnatamente il diritto in materia di organizzazione e procedura dei tribunali della Confederazione, la collaborazione con tribunali esteri e internazionali, la procedura amministrativa, la protezione dei dati, la trasparenza dell’amministrazione e le infrastrutture digitali per le comunicazioni giuridiche e il trattamento dei dati nel settore della giustizia, il diritto in materia di giochi in denaro, il diritto sull’avvocatura nonché le norme sull’acquisto di fondi da parte di persone all’estero, l’aiuto alle vittime di reato e l’elaborazione delle misure coercitive a scopo assistenziale e dei collocamenti extrafamiliari prima del 1981;
 - e. assistenza internazionale in materia penale, segnatamente le norme in materia di assistenza giudiziaria accessoria, di estradizione, di trasferimento nonché di perseguimento ed esecuzione penali in via sostitutiva.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 #### Art. 7a
 
@@ -181,7 +181,7 @@ Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione 
 
 <sup>3</sup> Sviluppa strumenti metodologici per l’elaborazione di atti e la valutazione di misure statali, in particolare per quanto riguarda la loro efficacia ed economicità e tenendo conto della digitalizzazione. Provvede a un’offerta di formazione continua e a un’adeguata gestione del sapere.
 
-[^7a-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
 
 #### Art. 7b
 
@@ -195,8 +195,8 @@ Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione 
 
 <sup>4</sup> Fornisce consulenza alle unità amministrative della Confederazione in vista dell’elaborazione di atti e in generale su questioni legislative in materia di digitalizzazione.
 
-[^7b-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^7b-1]: Introdotto dalla cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7b-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 7c
 
@@ -210,8 +210,8 @@ Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione 
 
 <sup>4</sup> In collaborazione con gli uffici competenti elabora e prepara i pareri della Svizzera all’indirizzo della Corte di giustizia dell’Unione europea. I pareri sono inoltrati in collaborazione con il DFAE.
 
-[^7c-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^7c-1]: Introdotto dalla cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7c-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 7d
 
@@ -225,9 +225,9 @@ Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione 
 
 <sup>4</sup> È l’autorità centrale della Confederazione in ambito di rapimenti internazionali di minori, protezione internazionale degli adulti e dei minori, adozioni internazionali, pratiche internazionali in materia di pensioni alimentari e assistenza giudiziaria internazionale in materia civile e commerciale.
 
-[^7d-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7d-2]: [RS 0.351.6](https://fedlex.data.admin.ch/eli/cc/2011/515)
-[^7d-3]: [RS 351.6](https://fedlex.data.admin.ch/eli/cc/2002/237)
+[^7d-1]: Introdotto dalla cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7d-2]: [RS 0.351.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1359)
+[^7d-3]: [RS 351.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6290)
 
 #### Art. 7e
 
@@ -241,9 +241,9 @@ Nei settori elencati qui di seguito, l’UFG prepara gli atti in collaborazione 
 
 <sup>4</sup> Esercita la vigilanza sulla Centrale d’informazione per il credito al consumo secondo l’articolo 23 capoversi 2 e 4 della legge federale del 23 marzo 2001[^7e-3] sul credito al consumo; è fatta salva la competenza dell’Incaricato federale della protezione dei dati e della trasparenza.
 
-[^7e-1]: Introdotto dal n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024, cpv. 2 il 1° gen. 2025 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7e-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
+[^7e-1]: Introdotto dalla cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024, cpv. 2 il 1° gen. 2025 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^7e-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^7e-3]: [RS 221.214.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5873)
 
 #### Art. 8
 
@@ -257,7 +257,8 @@ L’UFG dirige:
 - b. l’Ufficio federale per il diritto del registro fondiario e del diritto fondiario, incluso l’Ufficio svizzero del registro del naviglio;
 - c. l’Ufficio federale del registro di commercio;
 - d. insieme ad altre autorità federali e ai Cantoni, il casellario giudiziale informatizzato VOSTRA;
-- e. il servizio di alta vigilanza in materia di esecuzione e fallimento.
+- e. il servizio di alta vigilanza in materia di esecuzione e fallimento;
+- f.[^8-2] il registro per la trasparenza.
 
 <sup>2</sup>
 
@@ -266,13 +267,14 @@ Sono annesse al DFGP sul piano amministrativo:
 - a. la commissione peritale federale incaricata di valutare l’idoneità alla terapia dei criminali internati a vita;
 - b. la commissione consultiva per le misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 27 mar. 2024, in vigore dal 1° mag. 2024 ([RU 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^8-2]: Introdotta dall’all. n. 2 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche e sull’identificazione degli aventi economicamente diritto, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ### Sezione 4: Ufficio federale di polizia
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° feb. 2004 ([RU 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
+[^chap2-sec4-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° feb. 2004 ([RU 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
 #### Art. 9
 
@@ -302,12 +304,12 @@ Per conseguire tali obiettivi, fedpol svolge le funzioni seguenti:
 - h. garantisce una strategia cooperativa unitaria, partecipa a strumenti di polizia internazionali e promuove il loro sviluppo, rappresenta gli interessi di polizia del Paese in seno a organi nazionali, internazionali e sovranazionali e collabora sul piano tecnico, nei settori della formazione, dell’organizzazione e della tecnologia, con autorità svizzere ed estere di sicurezza e di polizia e sostiene tali autorità;
 - i. valuta la minaccia a cui sono esposte le persone e gli edifici che ha l’incarico di proteggere e ordina le misure di protezione necessarie.[^9-6]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^9-4]: Abrogata dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^9-6]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^9-4]: Abrogata dalla cifra I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^9-6]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 
 #### Art. 10
 
@@ -366,31 +368,31 @@ Fedpol dirige:
 
 <sup>17</sup> Fornisce sostegno al Dipartimento nella conduzione del CNAT, dirige l’organo consultivo e ne assicura la prontezza d’intervento.[^10-27]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-2]: Abrogati dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-3]: Abrogata dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-5]: Introdotta dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-2]: Abrogati dalla cifra I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-3]: Abrogata dalla cifra I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-5]: Introdotta dalla cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-6]: Originaria lett. e.
 [^10-7]: Originaria lett. f.
-[^10-8]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-9]: Introdotta dal n. I dell’O del 17 ott. 2007 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Nuovo testo giusta l’all. n. 4 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^10-10]: [RS 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
-[^10-11]: [RS 311.039.3](https://fedlex.data.admin.ch/eli/cc/2013/680)
-[^10-12]: Nuovo testo giusta il n. II dell’O del 9 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
-[^10-13]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-14]: Nuovo testo giusta il n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-15]: Abrogato dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-16]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-17]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-18]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^10-19]: Nuovo testo giusta il n. II dell’O del 27 feb. 2019, in vigore dal 1° dic. 2019 ([RU 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
-[^10-20]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-21]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-22]: Introdotto dal n. I dell’O del 17 ott. 2007 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Abrogato dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-23]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-24]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-25]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-8]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-9]: Introdotta dalla cifra I dell’O del 17 ott. 2007 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Nuovo testo giusta l’all. n. 4 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^10-10]: [RS 0.311.543](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1311)
+[^10-11]: [RS 311.039.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6202)
+[^10-12]: Nuovo testo giusta la cifra II dell’O del 9 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
+[^10-13]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-14]: Nuovo testo giusta la cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-15]: Abrogato dalla cifra I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-16]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-17]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-18]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^10-19]: Nuovo testo giusta la cifra II dell’O del 27 feb. 2019, in vigore dal 1° dic. 2019 ([RU 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
+[^10-20]: Introdotto dalla cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-21]: Introdotto dalla cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-22]: Introdotto dalla cifra I dell’O del 17 ott. 2007 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Abrogato dalla cifra I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^10-23]: Introdotto dalla cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-24]: Introdotto dalla cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^10-25]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 [^10-26]: Introdotto dall’all. 2 n. 3 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 [^10-27]: Introdotto dall’all. dell’O del 23 nov. 2022 sul Comitato nazionale contro il terrorismo, in vigore dal 1° gen. 2023 ([RU 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765), qui cpv. 16).
 
@@ -408,12 +410,12 @@ Fedpol dirige:
 
 <sup>5</sup> È responsabile, previa consultazione del SIC, del sequestro e della confisca del materiale di propaganda con contenuti che incitano alla violenza.[^11-6]
 
-[^11-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^11-2]: Nuovo testo giusta l’all. 4 n. II 9 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-3]: Abrogato dal n. I dell’O del 2 mar. 2018, con effetto dal 15 apr. 2018 ([RU 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
-[^11-4]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^11-5]: Introdotto dal n. I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^11-6]: Introdotto dal n. I dell’O del 17 ott. 2007 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Nuovo testo giusta l’all. 4 n. II 9 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^11-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^11-2]: Nuovo testo giusta l’all. 4 cifra II n. 9 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^11-3]: Abrogato dalla cifra I dell’O del 2 mar. 2018, con effetto dal 15 apr. 2018 ([RU 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
+[^11-4]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
+[^11-5]: Introdotto dalla cifra I dell’O del 17 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
+[^11-6]: Introdotto dalla cifra I dell’O del 17 ott. 2007 ([RU 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Nuovo testo giusta l’all. 4 cifra II n. 9 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 #### Art. 11a
 
@@ -425,15 +427,15 @@ Fedpol dirige:
 
 <sup>3</sup> Fedpol può concludere autonomamente convenzioni di natura operativa, tecnica e amministrativa con le autorità cantonali di perseguimento penale al fine di adempiere i suoi compiti legali.[^11a-2]
 
-[^11a-1]: Introdotto dal n. I dell’O del 2 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
-[^11a-2]: Introdotta dal n. I 6 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 2 mar. 2018, in vigore dal 15 apr. 2018 ([RU 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
+[^11a-2]: Introdotta dalla cifra I n. 6 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 ### Sezione 5: Segreteria di Stato della migrazione
 
 [^chap2-sec5-1][^chap2-sec5-2]
 
-[^chap2-sec5-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)).
-[^chap2-sec5-2]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
+[^chap2-sec5-1]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)).
+[^chap2-sec5-2]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
 
 #### Art. 12
 
@@ -476,8 +478,8 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 <sup>4</sup> Congiuntamente con il DFAE, la SEM analizza l’evoluzione migratoria sul piano nazionale e internazionale ed elabora le basi decisionali per la politica del Consiglio federale in materia di migrazione.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
-[^12-2]: Nuova epressione giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)).
+[^12-2]: Nuova epressione giusta la cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 13
 
@@ -491,8 +493,8 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 <sup>4</sup> Gestisce un servizio di informazione e di consulenza per il collocamento di praticanti.[^13-3]
 
-[^13-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^13-2]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4003](https://fedlex.data.admin.ch/eli/oc/2020/745)).
+[^13-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4003](https://fedlex.data.admin.ch/eli/oc/2020/745)).
 [^13-3]: Nuovo testo giusta l’art. 76 n. 2 dell’O del 7 ott. 2015 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3879](https://fedlex.data.admin.ch/eli/oc/2015/654)).
 
 #### Art. 14
@@ -505,7 +507,7 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 <sup>3</sup> È competente in materia di riconoscimento di apolidi.
 
-[^14-1]: Nuovo testo giusta il n. II 10 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^14-1]: Nuovo testo giusta la cifra II n. 10 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### Sezione 6: ...
 
@@ -513,7 +515,7 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 [^1516-1]
 
-[^1516-1]: Abrogati dal n. II 2 dell’O del 25 giu. 2003, con effetto dal 1° lug. 2003 ([RU 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
+[^1516-1]: Abrogati dalla cifra II n. 2 dell’O del 25 giu. 2003, con effetto dal 1° lug. 2003 ([RU 2003 2122](https://fedlex.data.admin.ch/eli/oc/2003/311)).
 
 ### Sezione 7: ...
 
@@ -521,7 +523,7 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 [^1718-1]
 
-[^1718-1]: Abrogati dal n. I dell’O del 28 giu. 2000, con effetto dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
+[^1718-1]: Abrogati dalla cifra I dell’O del 28 giu. 2000, con effetto dal 1° lug. 2000 ([RU 2000 1849](https://fedlex.data.admin.ch/eli/oc/2000/283)).
 
 ### Sezione 8: ...
 
@@ -537,7 +539,7 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 [^2224-1]
 
-[^2224-1]: Abrogati dal n. I dell’O del 3 nov. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)).
+[^2224-1]: Abrogati dalla cifra I dell’O del 3 nov. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)).
 
 ## Capitolo 3: Unità dell’Amministrazione federale decentralizzata
 
@@ -545,7 +547,7 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^chap3-sec1-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
 
 #### Art. 25
 
@@ -554,7 +556,7 @@ Per conseguire gli obiettivi di cui al capoverso 1 nei settori dell’asilo e de
 Il servizio incaricato della sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni ai sensi dell’articolo 3 della legge federale del 18 marzo 2016[^25-2] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (LSCPT) è aggregato amministrativamente alla Segreteria generale.
 
 [^25-1]: Nuovo testo giusta l’art. 73 n. 1 dell’O del 15 nov. 2017 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32)).
-[^25-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^25-2]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 
 #### Art. 26 e 27
 
@@ -568,7 +570,7 @@ Abrogati
 
 <sup>2</sup> Il suo statuto, i suoi compiti e la sua organizzazione sono retti dalla legge federale del 6 ottobre 1978[^28-1] sull’Istituto svizzero di diritto comparato.
 
-[^28-1]: [[RU 1979 56](https://fedlex.data.admin.ch/eli/oc/1979/56_56_56), [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 40. [RU 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)art. 23 cpv. 1]. Vedi ora la LF del 28 set. 2018 ([RS 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)).
+[^28-1]: [[RU 1979 56](https://fedlex.data.admin.ch/eli/oc/1979/56_56_56), [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 40. [RU 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)art. 23 cpv. 1]. Vedi ora la LF del 28 set. 2018 ([RS 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)).
 
 ### Sezione 3: Istituto federale della proprietà intellettuale
 
@@ -580,15 +582,15 @@ Abrogati
 
 <sup>3</sup> L’IPI è autorizzato, nella sua sfera di competenze, a presentare ricorso davanti al Tribunale federale.[^29-3]
 
-[^29-1]: [RS 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^29-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)**–232.23**, **0.231.0-0.232.163**
-[^29-3]: Introdotto dal n. II 10 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^29-1]: [RS 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^29-2]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)**–232.23**, **0.231.0-0.232.163**
+[^29-3]: Introdotto dalla cifra II n. 10 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### Sezione 4: Autorità federale di sorveglianza dei revisori
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Introdotta dall’all. n. II 2 dell’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2007 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
+[^chap3-sec4-1]: Introdotta dall’all. cifra II n. 2 dell’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2007 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
 
 #### Art. 29a
 
@@ -596,14 +598,14 @@ Abrogati
 
 <sup>2</sup> Il suo statuto, i suoi compiti e le sue competenze nonché la sua organizzazione si basano sulla legge del 16 dicembre 2005[^29a-1] sui revisori, sull’ordinanza del 22 agosto 2007[^29a-2] sui revisori e sui pertinenti accordi internazionali.
 
-[^29a-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^29a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^29a-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^29a-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### Sezione 5: Commissione federale delle case da gioco
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Introdotta dal n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^chap3-sec5-1]: Introdotta dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
 
 #### Art. 29b
 
@@ -611,13 +613,13 @@ Abrogati
 
 <sup>2</sup> La Commissione federale delle case da gioco e la sua segreteria sono aggregate amministrativamente alla Segreteria generale.
 
-[^29b-1]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I [15](https://fedlex.data.admin.ch/eli/oc/2006/6). [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. n. I 2 ]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^29b-1]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)I [15](https://fedlex.data.admin.ch/eli/oc/2006/6). [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. I cifra 2 ]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)).
 
 ### Sezione 6: Commissione arbitrale federale per la gestione dei diritti d’autore e dei diritti affini
 
 [^chap3-sec6-1]
 
-[^chap3-sec6-1]: Introdotta dal n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
+[^chap3-sec6-1]: Introdotta dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
 
 #### Art. 29c
 
@@ -625,7 +627,7 @@ Abrogati
 
 <sup>2</sup> La Commissione arbitrale federale per la gestione dei diritti d’autore e dei diritti affini e la sua segreteria sono aggregate amministrativamente alla Segreteria generale.
 
-[^29c-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^29c-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 
 ### Sezione 7: Istituto federale di metrologia
 
@@ -641,8 +643,8 @@ Abrogati
 
 <sup>3</sup> Nella sua sfera di competenze, il METAS ha diritto di ricorrere al Tribunale federale.
 
-[^29d-1]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^29d-2]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^29d-1]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^29d-2]: [RS 941.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11204)
 
 ## Capitolo 4: Disposizioni finali
 

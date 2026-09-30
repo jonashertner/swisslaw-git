@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. November 1999 für das Eidgenössische Ju
 short: OV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/57"
 language: de
-version: 2025-01-01
+version: 2026-10-01
 adopted: 1999-11-17
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/57/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2000-57-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/57/20250101/de"
 
 (OV-EJPD)
 
-vom 17. November 1999 (Stand am 1. Januar 2025)
+vom 17. November 1999 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 43 Absatz 2 und 47 Absatz 2 des Regierungs- und Verwal
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## 1. Kapitel: Das Departement
 
@@ -109,7 +109,7 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt fo
 [^4-1]: Eingefügt durch Anhang der NATA-Verordnung vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
 [^4-2]: Eingefügt durch Art. 125 Ziff. 2 der Spielbankenverordnung vom 23. Febr. 2000 ([AS 2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
 [^4-3]: Eingefügt durch Ziff. II 2 der V vom 22. Aug. 2007 ([AS 2007 3967](https://fedlex.data.admin.ch/eli/oc/2007/531)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5051](https://fedlex.data.admin.ch/eli/oc/2010/723)).
-[^4-4]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*l*–8*t* der Regierungs- und Verwaltungsorganisationsverordnung ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^4-4]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819). [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*l*–8*t* der Regierungs- und Verwaltungsorganisationsverordnung ([SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5391](https://fedlex.data.admin.ch/eli/oc/2009/650)).
 
 ### 2. Abschnitt: Gemeinsame Bestimmungen für die Ämter
@@ -194,7 +194,7 @@ Das BJ bereitet in Zusammenarbeit mit den mitinteressierten Ämtern in folgenden
 <sup>4</sup> Es berät die Verwaltungseinheiten des Bundes vor der Ausarbeitung von Erlassen sowie im Allgemeinen bei Rechtsetzungsfragen mit Bezug zur Digitalisierung.
 
 [^7b-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7b-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^7b-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 7c
 
@@ -209,7 +209,7 @@ Das BJ bereitet in Zusammenarbeit mit den mitinteressierten Ämtern in folgenden
 <sup>4</sup> Es erarbeitet und verfasst mit Unterstützung der zuständigen Ämter die Stellungnahmen der Schweiz zuhanden des Gerichtshofs der Europäischen Union. Die Einreichung der Stellungnahmen erfolgt unter Einbezug des EDA.
 
 [^7c-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7c-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^7c-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 7d
 
@@ -224,8 +224,8 @@ Das BJ bereitet in Zusammenarbeit mit den mitinteressierten Ämtern in folgenden
 <sup>4</sup> Es wirkt als Zentralbehörde des Bundes im Bereich der internationalen Kindesentführungen, des internationalen Kindes- und Erwachsenenschutzes, der internationalen Adoptionen, der internationalen Alimentensachen und der internationalen Rechtshilfe in Zivil- und Handelssachen.
 
 [^7d-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7d-2]: [SR 0.351.6](https://fedlex.data.admin.ch/eli/cc/2011/515)
-[^7d-3]: [SR 351.6](https://fedlex.data.admin.ch/eli/cc/2002/237)
+[^7d-2]: [SR 0.351.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1359)
+[^7d-3]: [SR 351.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6290)
 
 #### Art. 7e
 
@@ -240,8 +240,8 @@ Das BJ bereitet in Zusammenarbeit mit den mitinteressierten Ämtern in folgenden
 <sup>4</sup> Es übt die Aufsicht über die Informationsstelle für Konsumkredit gemäss Artikel 23 Absatz 2 und 4 des Konsumkreditgesetzes vom 23. März 2001[^7e-3] aus; vorbehalten bleibt die Zuständigkeit des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten.
 
 [^7e-1]: Eingefügt durch Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024, Abs. 2 in Kraft seit 1. Jan. 2025 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
-[^7e-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^7e-3]: [SR 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
+[^7e-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^7e-3]: [SR 221.214.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5873)
 
 #### Art. 8
 
@@ -255,7 +255,8 @@ Das BJ führt:
 - b. das Eidgenössische Amt für Grundbuch- und Bodenrecht, einschliesslich des Schweizerischen Seeschiffsregisteramtes;
 - c. das Eidgenössische Amt für das Handelsregister;
 - d. das Strafregister-Informationssystem VOSTRA unter Mitwirkung anderer Bundesbehörden und der Kantone;
-- e. die Dienststelle für die Oberaufsicht über das Schuldbetreibungs- und Konkurswesen.
+- e. die Dienststelle für die Oberaufsicht über das Schuldbetreibungs- und Konkurswesen;
+- f.[^8-2] das Transparenzregister.
 
 <sup>2</sup>
 
@@ -265,6 +266,7 @@ Dem BJ administrativ zugeordnet sind:
 - b. die Beratende Kommission für die Aufarbeitung der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 27. März 2024, in Kraft seit 1. Mai 2024 ([AS 2024 133](https://fedlex.data.admin.ch/eli/oc/2024/133)).
+[^8-2]: Eingefügt durch Anhang Ziff. 2 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ### 4. Abschnitt: Bundesamt für Polizei
 
@@ -373,22 +375,22 @@ Fedpol führt:
 [^10-7]: Ursprünglich Bst. f.
 [^10-8]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-9]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Fassung gemäss Anhang Ziff. 4 der V vom 7. Nov. 2012 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^10-10]: [SR 0.311.543](https://fedlex.data.admin.ch/eli/cc/2013/94)
-[^10-11]: [SR 311.039.3](https://fedlex.data.admin.ch/eli/cc/2013/680)
+[^10-10]: [SR 0.311.543](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1311)
+[^10-11]: [SR 311.039.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6202)
 [^10-12]: Fassung gemäss Ziff. II der V vom 9. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 319](https://fedlex.data.admin.ch/eli/oc/2023/319)).
 [^10-13]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-14]: Fassung gemäss Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-15]: Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-16]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
-[^10-17]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-18]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^10-17]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-18]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 [^10-19]: Fassung gemäss Ziff. II der V vom 27. Febr. 2019, mit Wirkung seit 1. Dez 2019 ([AS 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
 [^10-20]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-21]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-22]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Aufgehoben durch Ziff. I der V vom 12. Dez. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^10-23]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^10-24]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
-[^10-25]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^10-25]: [SR 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 [^10-26]: Eingefügt durch Anhang 2 Ziff. 3 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), dort Abs. 16).
 [^10-27]: Eingefügt durch Anhang der NATA-Verordnung vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 765](https://fedlex.data.admin.ch/eli/oc/2022/765)).
 
@@ -406,10 +408,10 @@ Fedpol führt:
 
 <sup>5</sup> Es ist zuständig für die Beschlagnahme und Einziehung von Propagandamaterial mit zu Gewalt aufrufendem Inhalt; es hört den NDB vorgängig an.[^11-6]
 
-[^11-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^11-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^11-2]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^11-3]: Aufgehoben durch Ziff. I der V vom 2. März 2018, mit Wirkung seit 15. April 2018 ([AS 2018 1241](https://fedlex.data.admin.ch/eli/oc/2018/198)).
-[^11-4]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^11-4]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 [^11-5]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)).
 [^11-6]: Eingefügt durch Ziff. I der V vom 17. Okt. 2007 ([AS 2007 4787](https://fedlex.data.admin.ch/eli/oc/2007/684)). Fassung gemäss Anhang 4 Ziff. II 9 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
@@ -489,7 +491,7 @@ Zur Verfolgung der Ziele nach Absatz 1 im Asyl- und Flüchtlingsbereich nimmt da
 
 <sup>4</sup> Es unterhält einen Informations- und Beratungsdienst für die Vermittlung von Stagiaires.[^13-3]
 
-[^13-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^13-2]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4003](https://fedlex.data.admin.ch/eli/oc/2020/745)).
 [^13-3]: Fassung gemäss Art. 76 Ziff. 2 der Auslandschweizerverordnung vom 7. Okt. 2015, in Kraft seit 1. Nov. 2015 ([AS 2015 3879](https://fedlex.data.admin.ch/eli/oc/2015/654)).
 
@@ -552,7 +554,7 @@ Zur Verfolgung der Ziele nach Absatz 1 im Asyl- und Flüchtlingsbereich nimmt da
 Der mit der Überwachung des Post- und Fernmeldeverkehrs betraute Dienst im Sinne von Artikel 3 des Bundesgesetzes vom 18. März 2016[^25-2] betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) ist administrativ dem Generalsekretariat zugeordnet.
 
 [^25-1]: Fassung gemäss Art. 73 Ziff. 1 der V vom 15. Nov. 2017 über die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 147](https://fedlex.data.admin.ch/eli/oc/2018/32)).
-[^25-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^25-2]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 
 #### Art. 26 und 27
 
@@ -566,7 +568,7 @@ Aufgehoben
 
 <sup>2</sup> Seine Stellung, seine Aufgaben und seine Organisation richten sich nach dem Bundesgesetz vom 6. Oktober 1978[^28-1] über das Schweizerische Institut für Rechtsvergleichung.
 
-[^28-1]: [[AS 1979 56](https://fedlex.data.admin.ch/eli/oc/1979/56_56_56); [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 40. [AS 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)Art. 23 Abs. 1]. Siehe heute: das BG vom 28. September 2018 ([SR 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)).
+[^28-1]: [[AS 1979 56](https://fedlex.data.admin.ch/eli/oc/1979/56_56_56); [1997 896](https://fedlex.data.admin.ch/eli/oc/1997/896_896_896); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 40. [AS 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586)Art. 23 Abs. 1]. Siehe heute: das BG vom 28. September 2018 ([SR 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)).
 
 ### 3. Abschnitt: Eidgenössisches Institut für Geistiges Eigentum
 
@@ -578,8 +580,8 @@ Aufgehoben
 
 <sup>3</sup> Das IGE ist in seinem Zuständigkeitsbereich zur Beschwerde an das Bundesgericht berechtigt.[^29-3]
 
-[^29-1]: [SR 172.010.31](https://fedlex.data.admin.ch/eli/cc/1995/5050_5050_5050)
-[^29-2]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)**–232.23**, **0.231.0–0.232.163**.
+[^29-1]: [SR 172.010.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5028)
+[^29-2]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)**–232.23**, **0.231.0–0.232.163**.
 [^29-3]: Eingefügt durch Ziff. II 10 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### 4. Abschnitt: Eidgenössische Revisionsaufsichtsbehörde
@@ -594,8 +596,8 @@ Aufgehoben
 
 <sup>2</sup> Ihre Stellung, ihre Aufgaben und Zuständigkeiten sowie ihre Organisation richten sich nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^29a-1], der Revisionsaufsichtsverordnung vom 22. August 2007[^29a-2] und nach den massgeblichen internationalen Abkommen.
 
-[^29a-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^29a-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^29a-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^29a-2]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 5. Abschnitt: Eidgenössische Spielbankenkommission
 
@@ -609,7 +611,7 @@ Aufgehoben
 
 <sup>2</sup> Die Kommission und ihr Sekretariat sind dem Generalsekretariat administrativ zugeordnet.
 
-[^29b-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2] je nachdem mit Zusatz: Siehe heute: das BG über Geldspiele vom 29. September 2017 ([SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^29b-1]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2] je nachdem mit Zusatz: Siehe heute: das BG über Geldspiele vom 29. September 2017 ([SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)).
 
 ### 6. Abschnitt: Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten
 
@@ -623,7 +625,7 @@ Aufgehoben
 
 <sup>2</sup> Die Kommission und ihr Sekretariat sind dem Generalsekretariat administrativ zugeordnet.
 
-[^29c-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^29c-1]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 
 ### 7. Abschnitt: Eidgenössisches Institut für Metrologie
 
@@ -639,8 +641,8 @@ Aufgehoben
 
 <sup>3</sup> Das METAS ist in seinem Zuständigkeitsbereich zur Beschwerde an das Bundesgericht berechtigt.
 
-[^29d-1]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^29d-2]: [SR 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^29d-1]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^29d-2]: [SR 941.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11204)
 
 ## 4. Kapitel: Schlussbestimmungen
 
