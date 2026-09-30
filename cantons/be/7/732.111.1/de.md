@@ -4,13 +4,12 @@ number: "732.111.1"
 title: Strassenverordnung
 short: SV
 language: de
-version: 2026-01-01
-valid_until: 2026-09-30
-version_adopted: 2025-09-17
+version: 2026-10-01
+version_adopted: 2026-08-26
 adopted: 2008-10-29
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/732.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3235/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3235/pdf_file"
 
 (SV)
 
-vom 29.10.2008 (Stand 01.01.2026)
+vom 29.10.2008 (Stand 01.10.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -128,14 +127,14 @@ beschliesst:
 <sup>2</sup> Massgebend für die Zulässigkeit von Veränderungen an Versorgungsrouten sind die technischen Normen für Ausnahmetransporte sowie folgende Merkmale:
 
 <table>
-<tr><th>Versorgungsroute</th><th>Durchfahrtsbreite (B) in Metern</th><th>Lichte Höhe (H) in Metern</th><th>Tragfähigkeit (G) in Tonnen Gesamtgewicht</th></tr>
-<tr><td>Typ I</td><td>6,50</td><td>5,20</td><td>480</td></tr>
-<tr><td>Typ I reduziert</td><td>6,50</td><td>5,20</td><td>320</td></tr>
-<tr><td>Typ II</td><td>5,00</td><td>4,80</td><td>240</td></tr>
-<tr><td>Typ II plus</td><td>5,00</td><td>5,20</td><td>240</td></tr>
-<tr><td>Typ III</td><td>4,50</td><td>4,80</td><td>90</td></tr>
-<tr><td>Typ IV</td><td>4,50</td><td>4,50</td><td>90</td></tr>
-<tr><td>Typ IV reduziert</td><td>4,50</td><td>4,50</td><td>50</td></tr>
+<tr><th>Versorgungsroute</th><th>Durchfahrtsbreite (B) in Metern</th><th>Lichte Höhe (H) in Metern</th><th>Tragfähigkeit (G) in Tonnen Gesamtgewicht</th><th>Achslast (A) in Tonnen</th></tr>
+<tr><td>Typ I A</td><td>6,50</td><td>5,20</td><td>480</td><td>30</td></tr>
+<tr><td>Typ I B</td><td>6,50</td><td>5,20</td><td>320</td><td>20</td></tr>
+<tr><td>Typ II A</td><td>5,00</td><td>5,20</td><td>240</td><td>20</td></tr>
+<tr><td>Typ II B</td><td>5,00</td><td>4,80</td><td>240</td><td>20</td></tr>
+<tr><td>Typ III</td><td>4,50</td><td>4,80</td><td>90</td><td>12</td></tr>
+<tr><td>Typ IV A</td><td>4,50</td><td>4,50</td><td>90</td><td>12</td></tr>
+<tr><td>Typ IV B</td><td>4,50</td><td>4,50</td><td>50</td><td>12</td></tr>
 </table>
 
 <sup>3</sup> Der Begriff des Gesamtgewichts in Absatz 2 versteht sich ohne Zugfahrzeuge.
@@ -675,7 +674,7 @@ beschliesst:
   - 2\. Restaurationsbetriebe, Bars und dgl. — CHF 100/m²/Jahr
 - d Benutzung von Leerrohren durch Dritte — CHF 35/m (einmalig)
 - e Temporäre Erdanker, Nägel und dgl. — CHF 40/Stück (einmalig)
-- f Unterirdische Leitungen ausgenommen Fernwärmeleitungen
+- f Unterirdische Leitungen ausgenommen Fernwärmeleitungen sowie öffentliche Wasser- und Abwasserleitungen
   - 1\. einzelne Leitungen — CHF 20/m (einmalig)
   - 2\. Kabelkanäle und dgl. — CHF 30/m (einmalig)
   - 3\. Kabelblöcke — CHF 50/m (einmalig)

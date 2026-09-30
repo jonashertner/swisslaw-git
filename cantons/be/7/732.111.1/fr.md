@@ -4,13 +4,12 @@ number: "732.111.1"
 title: Ordonnance sur les routes
 short: OR
 language: fr
-version: 2026-01-01
-valid_until: 2026-09-30
-version_adopted: 2025-09-17
+version: 2026-10-01
+version_adopted: 2026-08-26
 adopted: 2008-10-29
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/732.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3235/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3496/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3235/pdf_file"
 
 (OR)
 
-du 29.10.2008 (état au 01.01.2026)
+du 29.10.2008 (état au 01.10.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -128,14 +127,14 @@ arrête:
 <sup>2</sup> Sont déterminantes pour l’admissibilité des modifications apportées aux routes d’approvisionnement les normes techniques applicables aux transports exceptionnels et les caractéristiques ci-dessous:
 
 <table>
-<tr><th>Itinéraire d’approvisionnement</th><th>Largeur de passage (L) en mètres</th><th>Hauteur libre (H) en mètres</th><th>Capacité de charge totale (P) poids total en tonnes</th></tr>
-<tr><td>Type I</td><td>6,50</td><td>5,20</td><td>480</td></tr>
-<tr><td>Type I (exigences réduites)</td><td>6,50</td><td>5,20</td><td>320</td></tr>
-<tr><td>Type II</td><td>5,00</td><td>4,80</td><td>240</td></tr>
-<tr><td>Type II (exigences accrues)</td><td>5,00</td><td>5,20</td><td>240</td></tr>
-<tr><td>Type III</td><td>4,50</td><td>4,80</td><td>90</td></tr>
-<tr><td>Type IV</td><td>4,50</td><td>4,50</td><td>90</td></tr>
-<tr><td>Type IV (exigences réduites)</td><td>4,50</td><td>4,50</td><td>50</td></tr>
+<tr><th>Itinéraire d’approvisionnement</th><th>Largeur de passage (L) en mètres</th><th>Hauteur libre (H) en mètres</th><th>Capacité de charge totale (P) poids total en tonnes</th><th>Charge par essieu (A) en tonnes</th></tr>
+<tr><td>Type I A</td><td>6,50</td><td>5,20</td><td>480</td><td>30</td></tr>
+<tr><td>Type I B</td><td>6,50</td><td>5,20</td><td>320</td><td>20</td></tr>
+<tr><td>Type II A</td><td>5,00</td><td>5,20</td><td>240</td><td>20</td></tr>
+<tr><td>Type II B</td><td>5,00</td><td>4,80</td><td>240</td><td>20</td></tr>
+<tr><td>Type III</td><td>4,50</td><td>4,80</td><td>90</td><td>12</td></tr>
+<tr><td>Type IV A</td><td>4,50</td><td>4,50</td><td>90</td><td>12</td></tr>
+<tr><td>Type IV B</td><td>4,50</td><td>4,50</td><td>50</td><td>12</td></tr>
 </table>
 
 <sup>3</sup> La notion de capacité de charge totale mentionnée à l’alinéa 2 s’entend sans véhicule tracteur.
@@ -675,7 +674,7 @@ arrête:
   - 2\. établissements de restauration, bars et autres lieux similaires — 100 francs/m²/an
 - d l’utilisation des conduites vides par des tiers — 35 francs/m, versement unique
 - e les ancrages, clous et autres éléments temporaires similaires — 40 francs/pièce, versement unique
-- f les conduites souterraines à l’exception de celles destinées au chauffage à distance
+- f les conduites souterraines, à l’exception de celles destinées au chauffage à distance, ainsi que les conduites publiques d’alimentation en eau et d’évacuation
   - 1\. conduites individuelles — 20 francs/m, versement unique
   - 2\. conduites de câbles et autres conduites similaires — 30 francs/m, versement unique
   - 3\. blocs de câbles — 50 francs/m, versement unique
