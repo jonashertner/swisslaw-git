@@ -3,11 +3,11 @@ sr: "632.911"
 title: Verordnung vom 16. März 2007 über die Präferenz-Zollansätze zugunsten der Entwicklungsländer (Zollpräferenzenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: de
-version: 2026-04-01
+version: 2026-10-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20260401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20261001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20260401/de"
 
 (Zollpräferenzenverordnung)
 
-vom 16. März 2007 (Stand am 1. April 2026)
+vom 16. März 2007 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -155,7 +155,7 @@ Anhang 1[^t-1]
 
 ## [Liste der Entwicklungsländer und ‑gebiete](https://www.fedlex.admin.ch/eli/cc/2007/159/de)
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 16. April 2025 ([AS 2025 251](https://fedlex.data.admin.ch/eli/oc/2025/251)). Bereinigt gemäss Ziff. II vom 3. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 16. April 2025 ([AS 2025 251](https://fedlex.data.admin.ch/eli/oc/2025/251)). Bereinigt gemäss Ziff. II vom 3. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)) und Ziff. I der V vom 2. Sept. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 465](https://fedlex.data.admin.ch/eli/oc/2026/465)).
 
 Legende
 
@@ -189,7 +189,7 @@ Spalte D: Aussetzungen von Zollpräferenzen (Art. 5 Abs. 4; Art. 2 Abs. 1 Zollpr
 <tr><td>CI</td><td>Côte d’Ivoire</td><td></td><td></td></tr>
 <tr><td>CM</td><td>Kamerun</td><td></td><td></td></tr>
 <tr><td>CU</td><td>Kuba</td><td></td><td></td></tr>
-<tr><td>CV</td><td>Cabo Verde</td><td></td><td></td></tr>
+<tr><td>CV</td><td>Kap Verde</td><td></td><td></td></tr>
 <tr><td>DJ</td><td>Dschibuti</td><td>X</td><td></td></tr>
 <tr><td>DM</td><td>Dominica</td><td></td><td></td></tr>
 <tr><td>DO</td><td>Dominikanische Republik</td><td></td><td></td></tr>
@@ -277,7 +277,6 @@ Spalte D: Aussetzungen von Zollpräferenzen (Art. 5 Abs. 4; Art. 2 Abs. 1 Zollpr
 <tr><td>VU</td><td>Vanuatu</td><td></td><td></td></tr>
 <tr><td>WF</td><td>Wallis und Futuna</td><td></td><td></td></tr>
 <tr><td>WS</td><td>Samoa</td><td></td><td></td></tr>
-<tr><td>XK</td><td>Kosovo</td><td></td><td></td></tr>
 <tr><td>YE</td><td>Jemen</td><td>X</td><td></td></tr>
 <tr><td>ZM</td><td>Sambia</td><td>X</td><td></td></tr>
 <tr><td>ZW</td><td>Simbabwe</td><td></td><td></td></tr>

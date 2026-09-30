@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordonnance du 16 mars 2007 fixant les droits de douane préférentiels en faveur des pays en développement (Ordonnance sur les préférences tarifaires)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: fr
-version: 2026-04-01
+version: 2026-10-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20260401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20261001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20260401/fr"
 
 (Ordonnance sur les préférences tarifaires)
 
-du 16 mars 2007 (État le 1<sup>er</sup> avril 2026)
+du 16 mars 2007 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -155,7 +155,7 @@ Annexe 1[^t-1]
 
 ## Liste des pays et des territoires en développement
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 avr. 2025 ([RO 2025 251](https://fedlex.data.admin.ch/eli/oc/2025/251)). Mise à jour par le ch. II de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 avr. 2025 ([RO 2025 251](https://fedlex.data.admin.ch/eli/oc/2025/251)). Mise à jour par le ch. II de l’O du 3 sept. 2025 ([RO 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)) et ch. I de l’O du 2 sept. 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 465](https://fedlex.data.admin.ch/eli/oc/2026/465)).
 
 Légende
 
@@ -277,7 +277,6 @@ Colonne D: suspension des préférences tarifaires (art. 5, al. 4; art. 2, al. 1
 <tr><td>VU</td><td>Vanuatu</td><td></td><td></td></tr>
 <tr><td>WF</td><td>Wallis-et-Futuna</td><td></td><td></td></tr>
 <tr><td>WS</td><td>Samoa</td><td></td><td></td></tr>
-<tr><td>XK</td><td>Kosovo</td><td></td><td></td></tr>
 <tr><td>YE</td><td>Yémen</td><td>X</td><td></td></tr>
 <tr><td>ZM</td><td>Zambie</td><td>X</td><td></td></tr>
 <tr><td>ZW</td><td>Zimbabwe</td><td></td><td></td></tr>

@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordinanza del 16 marzo 2007 concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo (Ordinanza sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: it
-version: 2026-04-01
+version: 2026-10-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20260401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20261001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20260401/it"
 
 (Ordinanza sulle preferenze tariffali)
 
-del 16 marzo 2007 (Stato 1° aprile 2026)
+del 16 marzo 2007 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -52,7 +52,7 @@ La presente ordinanza disciplina le preferenze tariffali generalizzate a favore 
 
 <sup>2</sup> Le aliquote di dazio preferenziali sono concesse soltanto se per i prodotti in questione viene prodotta una prova dell’origine secondo le disposizioni dell’ordinanza del 30 marzo 2011[^3-1] sulle regole d’origine.
 
-<sup>3</sup> ...[^3-2]
+<sup>3</sup> …[^3-2]
 
 [^3-1]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^3-2]: Introdotto dall’all. 2 n. 1 dell’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Abrogato dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, con effetto dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
@@ -101,7 +101,7 @@ La presente ordinanza disciplina le preferenze tariffali generalizzate a favore 
 
 <sup>1</sup> L’importazione di prodotti originari dai Paesi in sviluppo meno progrediti (LDC, *Least Developed Countries*) (allegato 1 colonna C) è esente da dazio.
 
-<sup>2</sup> ...[^6-1]
+<sup>2</sup> …[^6-1]
 
 [^6-1]: Abrogato dalla cifra I dell’O del 29 gen. 2025, con effetto dal 1° avr. 2026 ([RU 2025 93](https://fedlex.data.admin.ch/eli/oc/2025/93), [251](https://fedlex.data.admin.ch/eli/oc/2025/251)cifra I ).
 
@@ -155,7 +155,7 @@ Allegato 1[^t-1]
 
 ## Elenco dei Paesi e territori in sviluppo
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2025, in vigore dal 1° apr. 2026 ([RU 2025 251](https://fedlex.data.admin.ch/eli/oc/2025/251)). Aggiornato dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 16 apr. 2025 ([RU 2025 251](https://fedlex.data.admin.ch/eli/oc/2025/251)). Aggiornato dalla cifra II dell’O del 3 set. 2025 ([RU 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)) e dalla cifra I dell’O del 2 set. 2026, in vigore dal 1° ott. 2026 ([RU 2026 465](https://fedlex.data.admin.ch/eli/oc/2026/465)).
 
 Legenda
 
@@ -277,7 +277,6 @@ Colonna D: Sospensioni delle preferenze tariffali (art. 5 cpv. 4; art. 2 cpv. 1 
 <tr><td>VU</td><td>Vanuatu</td><td></td><td></td></tr>
 <tr><td>WF</td><td>Wallis e Futuna</td><td></td><td></td></tr>
 <tr><td>WS</td><td>Samoa</td><td></td><td></td></tr>
-<tr><td>XK</td><td>Kosovo</td><td></td><td></td></tr>
 <tr><td>YE</td><td>Yemen</td><td>X</td><td></td></tr>
 <tr><td>ZM</td><td>Zambia</td><td>X</td><td></td></tr>
 <tr><td>ZW</td><td>Zimbabwe</td><td></td><td></td></tr>
