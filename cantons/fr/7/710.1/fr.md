@@ -4,13 +4,12 @@ number: "710.1"
 title: "Loi sur l'aménagement du territoire et les constructions"
 short: LATeC
 language: fr
-version: 2024-03-01
-valid_until: 2026-09-30
-version_adopted: 2023-11-24
+version: 2026-10-01
+version_adopted: 2026-06-26
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7954/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8662/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Aménagement du territoire et constructions – L
 
 (LATeC)
 
-du 02.12.2008 (version entrée en vigueur le 01.03.2024)
+du 02.12.2008 (version entrée en vigueur le 01.10.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -572,6 +571,10 @@ Décrète:
 
 <sup>2</sup> Ces contrats peuvent fixer les modalités de financement de l'équipement des terrains mis en zone à bâtir. Ils peuvent également prévoir un droit d'emption en faveur de la commune si les terrains ne sont pas construits à l'échéance d'un certain délai.
 
+<sup>3</sup> La commune peut également conclure de tels contrats en vue de la réalisation par les propriétaires des charges et obligations qui leur incombent en vertu d'un plan d'aménagement de détail.
+
+<sup>4</sup> Sur réquisition de la commune, les contrats de droit administratif peuvent faire l'objet d'une mention inscrite au Registre foncier.
+
 #### Art. 49
 
 **Etapes d'aménagement**
@@ -710,7 +713,11 @@ Décrète:
 
 <sup>1</sup> Les communes peuvent prélever des émoluments en matière de construction et de plans d'aménagement sur la base d'un règlement adopté conformément à la législation sur les communes.
 
-<sup>2</sup> Sur cette même base, elles peuvent prélever une contribution équitable afin d'aménager des places de jeux pour les enfants et des places de stationnement pour les véhicules, lorsque le ou la propriétaire ne peut y procéder.
+<sup>2</sup> Sur cette même base, les communes peuvent prélever une contribution lorsque le ou la propriétaire n'est pas en mesure d'aménager:
+
+- a) des places de jeux ou de détente;
+- b) des jardins potagers ou des vergers fruitiers;
+- c) des places de stationnement pour les véhicules.
 
 ### 2.4.2.5 Plans d'aménagement de détail
 
@@ -774,7 +781,7 @@ Décrète:
 
 #### Art. 67
 
-**Elaboration**
+**Elaboration et mise en œuvre**
 
 <sup>1</sup> Les plans d'aménagement de détail sont élaborés, modifiés ou abrogés sur l'initiative de la commune ou des propriétaires; la commune n'est toutefois pas liée par les propositions de ces derniers.
 
@@ -782,7 +789,7 @@ Décrète:
 
 <sup>3</sup> La commune qui veut modifier ou abroger un plan d'aménagement de détail qui a été élaboré par les propriétaires les entend au préalable.
 
-<sup>4</sup> Les propriétaires sont tenus de contribuer aux frais de planification et d'approbation. Les articles 100 et suivants sont applicables par analogie.
+<sup>4</sup> Les propriétaires sont tenus de contribuer aux frais de planification et d'approbation ainsi qu'aux frais de réalisation des éléments ne faisant pas partie de l'équipement selon l'article 94. Les articles 100 et suivants sont applicables par analogie.
 
 <sup>5</sup> Le Service en charge de la mobilité peut exiger une étude de trafic lorsqu'une augmentation de trafic en raison du plan d'aménagement de détail est vraisemblable.
 
@@ -1311,7 +1318,7 @@ Décrète:
 
 <sup>2</sup> Le solde du produit de la taxe cantonale est versé dans le Fonds de la plus-value qui finance, dans l'ordre de priorité défini ci-dessous, après déduction des charges de fonctionnement:
 
-- a) les indemnités accordées pour cause d'expropriation matérielle découlant d'une mesure d'aménagement, à l'exception des indemnités fixées par le biais d'une entente passée entre la collectivité publique recherchée et le ou la propriétaire dans le cadre d'une procédure pour cause d'expropriation matérielle ouverte devant la Commission d'expropriation (art. 60 et 61 [142] de la loi du 23 février 1984 sur l'expropriation);
+- a) les indemnités accordées pour cause d'expropriation matérielle découlant d'une mesure d'aménagement, à l'exception des indemnités fixées par le biais d'une entente passée entre la collectivité publique recherchée et le ou la propriétaire dans le cadre d'une procédure pour cause d'expropriation matérielle ouverte devant la Commission d'expropriation (art. 60, 61 et 142 de la loi du 23 février 1984 sur l'expropriation), ainsi que les primes de démolition des constructions et installations sises hors de la zone à bâtir au sens de l'article 5a de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire;
 - b) les plans directeurs régionaux ou leur révision et les études régionales et communales en vue de la requalification et de la densification du milieu bâti;
 - c) les infrastructures prévues dans le cadre de projets d'agglomérations ou de plans directeurs régionaux visant à un aménagement de qualité et à favoriser la mobilité douce;
 - d) d'autres mesures d'aménagement prévues par l'article 3 de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire.
@@ -1321,6 +1328,20 @@ Décrète:
 <sup>4</sup> Le Conseil d'Etat règle les principes de gestion du Fonds de la plus-value.
 
 <sup>5</sup> L'affectation de la taxe communale doit servir des mesures d'aménagement du territoire. Cette affectation est déterminée par un règlement communal de portée générale.
+
+#### Art. 113cbis
+
+**Prime de démolition**
+
+<sup>1</sup> Les primes de démolition au sens de l'article 113c al. 2 let. a sont dues pour les constructions et installations érigées légalement hors de la zone à bâtir.
+
+<sup>2</sup> Les primes sont calculées sur la base de montants forfaitaires définis selon un prix au mètre cube fixé en fonction du type d'ouvrage démoli.
+
+<sup>3</sup> Le Conseil d'Etat définit:
+
+- a) les cas particuliers dans lesquels le versement de la prime n'est pas dû;
+- b) les critères pour le calcul du montant forfaitaire selon l'alinéa 2;
+- c) la procédure à suivre et les conditions à remplir pour le versement de la prime.
 
 #### Art. 113d
 
@@ -1652,23 +1673,27 @@ Décrète:
 
 #### Art. 135a
 
-**Demandes**
+**Application pour la gestion de la procédure de permis de construire – Utilisation**
 
 <sup>1</sup> La demande de permis de construire, de démolir ou d'implantation, ainsi que la demande préalable, avec les plans et les annexes est adressée à l'autorité compétente au moyen de l'application pour la gestion de la procédure de permis de construire mise à disposition par l'Etat.
 
 <sup>2</sup> Les autorités administratives ont l'obligation de traiter ces demandes au moyen de l'application pour la gestion de la procédure de permis de construire. Sur demande motivée, d'autres autorités ou organes intéressés peuvent être autorisés à utiliser l'application.
 
+<sup>2a</sup> Il peut être dérogé aux règles générales concernant l'exigence de la signature électronique qualifiée lorsque l'identification de l'expéditeur ou de l'expéditrice et l'intégrité de la communication sont assurées de manière adéquate par l'application pour la gestion de la procédure de permis de construire ou par d'autres moyens.
+
 <sup>3</sup> Le Conseil d'Etat détermine les conditions auxquelles une autorité administrative effectue, exceptionnellement et contre émolument, la saisie et la numérisation de la demande de permis de construire en lieu et place du requérant ou de la requérante.
 
-<sup>4</sup> Le Conseil d'Etat peut exiger le dépôt de dossiers papier en nombre suffisant.
+<sup>4</sup> …
 
 <sup>5</sup> Les citoyens et citoyennes ont la possibilité d'accéder à distance aux dossiers électroniques d'enquête publique.
 
 #### Art. 135b
 
-**Application pour la gestion de la procédure de permis de construire**
+**Application pour la gestion de la procédure de permis de construire - Financement**
 
 <sup>1</sup> L'Etat crée et exploite l'application pour la gestion de la procédure de permis de construire en tenant compte des besoins des personnes et autorités intervenant dans une procédure. Il supporte les frais y relatifs.
+
+<sup>1a</sup> Les données personnelles collectées dans cette application peuvent être utilisées pour le suivi du monitoring du principe de stabilisation exigé par l'article 1 al. 2 let. b<sup>ter</sup> et b<sup>quater</sup> de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire.
 
 <sup>2</sup> Les communes supportent leurs frais d'équipement et de connexion, ainsi que d'éventuels travaux qu'elles délèguent à des tiers.
 
@@ -1701,6 +1726,8 @@ Décrète:
 **Autorités compétentes**
 
 <sup>1</sup> La compétence pour délivrer les permis de construire appartient au préfet pour les objets soumis à la procédure ordinaire et au conseil communal pour les objets de minime importance soumis à la procédure simplifiée.
+
+<sup>1a</sup> En dérogation à l'article 83 al. 1 de la loi du 25 septembre 1980 sur les communes, le sceau communal n'est pas nécessaire pour les décisions du conseil communal en matière de permis de construire.
 
 <sup>2</sup> Le règlement d'exécution établit la liste des objets soumis à l'une et l'autre de ces procédures.
 
@@ -1804,7 +1831,12 @@ Décrète:
 
 **Principes**
 
-<sup>1</sup> Toute démolition est soumise à la procédure ordinaire, à l'exception de la démolition des objets de minime importance qui est dispensée de l'obligation de permis, sauf si ces objets sont des biens culturels protégés ou recensés.
+<sup>1</sup> Les démolitions sont soumises à la procédure ordinaire.
+
+<sup>1a</sup> Toutefois, la démolition des objets de minime importance qui ne sont pas des biens culturels recensés ou protégés:
+
+- a) est soumise à la procédure simplifiée lorsqu'il s'agit d'objets situés hors de la zone à bâtir et dont l'emprise au sol est de 6 m² ou plus;
+- b) est dispensée de l'obligation de permis lorsqu'il s'agit d'objets situés dans la zone à bâtir ou d'objets situés hors de la zone à bâtir dont l'emprise au sol est de moins de 6 m².
 
 <sup>2</sup> La démolition d'une construction ou d'une installation sise hors de la zone à bâtir n'est pas soumise à l'autorisation spéciale de la Direction.
 
@@ -1847,6 +1879,8 @@ Décrète:
 <sup>1</sup> La création d'une nouvelle zone d'exploitation de matériaux et de décharges ou la modification d'une telle zone est subordonnée au dépôt simultané d'un permis de construire.
 
 <sup>2</sup> L'ouverture ou l'extension d'une exploitation de matériaux doit être justifiée par un besoin tant de la région que de l'exploitant ou l'exploitante.
+
+<sup>3</sup> Le périmètre de la zone doit se situer à une distance appropriée des zones à bâtir environnantes de telle sorte que les lieux d'habitations soient préservés au mieux des nuisances générées par l'exploitation. Les dispositions de la législation spéciale en matière de protection de l'environnement sont réservées.
 
 #### Art. 155
 
@@ -2118,6 +2152,14 @@ Décrète:
 <sup>3</sup> L'article 113e<sup>ter</sup> est applicable aux biens-fonds ayant fait l'objet d'une mesure d'aménagement au sens de l'art. 113a al. 2 approuvée par la Direction à partir de l'entrée en vigueur de la modification du 15 décembre 2022 de la présente loi. Pour les mesures d'aménagement au sens de l'art. 113a al. 2 let. a et b approuvées avant cette date, les débiteurs de la taxe prélevée sur la plus-value sont les propriétaires des biens-fonds au moment de la mise à l'enquête publique de ces mesures. Il en va de même pour les biens-fonds ayant fait l'objet de ces mesures lorsqu'elles ont été approuvées après la date de l'entrée en vigueur de la modification du 15 décembre 2022 de la présente loi et qu'un acte d'aliénation a été conclu avant cette date.
 
 <sup>4</sup> Les articles 113b al. 2a, 113d al. 1 et 1a, 113d<sup>bis</sup>, 113e al. 1 et 2, 113e<sup>bis</sup> et 113f sont également applicables aux biens-fonds ayant fait l'objet d'une mesure d'aménagement au sens de l'alinéa 1.
+
+#### Art. 178e
+
+**Prime de démolition**
+
+<sup>1</sup> Les dispositions de la modification du 26 juin 2026 de la présente loi sont applicables rétroactivement dès le 1<sup>er</sup> juillet 2026.
+
+<sup>2</sup> Les primes au sens de l'article 113c<sup>bis</sup> ne sont dues que pour les démolitions ayant fait l'objet d'une demande de permis qui a été transmise à la commune après le 1<sup>er</sup> juillet 2026, sous réserve du respect des conditions fixées par le Conseil d'Etat pour leur versement (art. 113c<sup>bis</sup> al. 3 let. c).
 
 ### 4.2 Dispositions finales
 

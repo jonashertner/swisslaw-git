@@ -4,13 +4,12 @@ number: "710.1"
 title: Raumplanungs- und Baugesetz
 short: RPBG
 language: de
-version: 2024-03-01
-valid_until: 2026-09-30
-version_adopted: 2023-11-24
+version: 2026-10-01
+version_adopted: 2026-06-26
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7954/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8662/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Raumplanungs- und Baugesetz
 
 (RPBG)
 
-vom 02.12.2008 (Fassung in Kraft getreten am 01.03.2024)
+vom 02.12.2008 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -572,6 +571,10 @@ beschliesst:
 
 <sup>2</sup> Diese Verträge können die Finanzierungsmodalitäten für die Erschliessung der eingezonten Grundstücke festlegen. Sie können ebenfalls ein Kaufsrecht zugunsten der Gemeinde vorsehen für den Fall, dass die Grundstücke nach Ablauf einer bestimmten Frist nicht überbaut sind.
 
+<sup>3</sup> Die Gemeinde kann solche Verträge auch abschliessen, um die Eigentümerschaft zur Erfüllung der ihnen aufgrund eines Detailbebauungsplans obliegenden Auflagen und Verpflichtungen zu veranlassen.
+
+<sup>4</sup> Auf Antrag der Gemeinde können verwaltungsrechtliche Verträge im Grundbuch eingetragen werden.
+
 #### Art. 49
 
 **Planungsetappen**
@@ -710,7 +713,11 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden können in Bau- und Planungssachen auf der Grundlage eines nach den Vorschriften des Gemeindegesetzes angenommenen Reglements Gebühren erheben.
 
-<sup>2</sup> Auf derselben Grundlage können sie einen angemessenen Beitrag zur Errichtung von Kinderspielplätzen und Parkplätzen erheben, wenn die Eigentümerschaft diese nicht selber verwirklichen kann.
+<sup>2</sup> Auf derselben Grundlage können die Gemeinden einen Beitrag erheben, wenn die Eigentümerschaft nicht in der Lage ist, folgende Anlagen zu verwirklichen:
+
+- a) Spiel- oder Erholungsplätze;
+- b) Gemüse- oder Obstgärten;
+- c) Parkplätze für Fahrzeuge.
 
 ### 2.4.2.5 Detailbebauungsplan
 
@@ -774,7 +781,7 @@ beschliesst:
 
 #### Art. 67
 
-**Ausarbeitung**
+**Ausarbeitung und Umsetzung**
 
 <sup>1</sup> Die Detailbebauungspläne werden auf Veranlassung der Gemeinde oder der Grundeigentümerschaft ausgearbeitet, geändert oder aufgehoben; die Gemeinde ist jedoch an die Vorschläge der Grundeigentümerschaft nicht gebunden.
 
@@ -782,7 +789,7 @@ beschliesst:
 
 <sup>3</sup> Will die Gemeinde einen Detailbebauungsplan, der auf Veranlassung der Grundeigentümerschaft ausgearbeitet worden ist, ändern oder aufheben, so hört sie diese vorgängig an.
 
-<sup>4</sup> Die Eigentümerschaft muss sich an den Planungs- und Genehmigungskosten beteiligen. Die Artikel 100 ff. sind sinngemäss anwendbar.
+<sup>4</sup> Die Eigentümerschaft muss sich an den Planungs- und Genehmigungskosten sowie an den Kosten der Ausführung von Elementen beteiligen, die nicht Teil der Erschliessung nach Artikel 94 bilden. Die Artikel 100 ff. sind sinngemäss anwendbar.
 
 <sup>5</sup> Das für die Mobilität zuständige Amt kann eine Verkehrsstudie verlangen, wenn aufgrund des Detailbebauungsplans ein Verkehrsanstieg zu erwarten ist.
 
@@ -1311,7 +1318,7 @@ beschliesst:
 
 <sup>2</sup> Der Saldo des kantonalen Abgabenertrags wird in den Mehrwertfonds eingezahlt. Dieser finanziert in der nachfolgend definierten Prioritätenordnung, nach Abzug des Betriebsaufwands:
 
-- a) die Entschädigungen bei materieller Enteignung, die sich aus einer Planungsmassnahme ergibt, mit Ausnahme der Entschädigungen, die durch eine Vereinbarung zwischen der belangten öffentlichen Körperschaft und der Eigentümerin oder dem Eigentümer im Rahmen eines Verfahrens wegen materieller Enteignung vor der Enteignungskommission festgelegt werden (Art. 60 und 61 [142] des Gesetzes vom 23. Februar 1984 über die Enteignung);
+- a) die Entschädigungen bei materieller Enteignung, die sich aus einer Planungsmassnahme ergibt, mit Ausnahme der Entschädigungen, die durch eine Vereinbarung zwischen der belangten öffentlichen Körperschaft und der Eigentümerin oder dem Eigentümer im Rahmen eines Verfahrens wegen materieller Enteignung vor der Enteignungskommission festgelegt werden (Art. 60, 61 und 142 des Gesetzes vom 23. Februar 1984 über die Enteignung) sowie die Prämien für den Abbruch von Bauten und Anlagen ausserhalb der Bauzone gemäss Artikel 5a des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung;
 - b) die regionalen Richtpläne oder deren Revision und die regionalen und kommunalen Studien zur Siedlungsrevitalisierung und –verdichtung;
 - c) die in Agglomerationsprogrammen oder regionalen Richtplänen vorgesehenen Infrastrukturen, die eine gute Raumentwicklung oder die Förderung der sanften Mobilität zum Ziel haben;
 - d) weitere Massnahmen der Raumplanung gemäss Artikel 3 des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung.
@@ -1321,6 +1328,20 @@ beschliesst:
 <sup>4</sup> Der Staatsrat regelt die Grundsätze der Verwaltung des Mehrwertfonds.
 
 <sup>5</sup> Die Verwendung der Gemeindeabgabe muss raumplanerischen Massnahmen dienen. Diese Zweckbestimmung wird in einem allgemein verbindlichen Gemeindereglement festgelegt.
+
+#### Art. 113cbis
+
+**Abbruchprämie**
+
+<sup>1</sup> Die Abbruchprämien gemäss Artikel 113c Abs. 2 Bst. a werden für Bauten und Anlagen gewährt, die rechtmässig ausserhalb der Bauzone errichtet worden sind.
+
+<sup>2</sup> Die Prämien werden auf der Grundlage von Pauschalbeträgen berechnet, die je nach Art des abgebrochenen Bauwerks nach einem Preis pro Kubikmeter festgelegt werden.
+
+<sup>3</sup> Der Staatsrat legt fest:
+
+- a) die Sonderfälle, in denen die Auszahlung der Prämie nicht geschuldet ist;
+- b) die Kriterien für die Berechnung des Pauschalbetrags gemäss Absatz 2;
+- c) das Verfahren und die Bedingungen, die für die Auszahlung der Prämie einzuhalten sind.
 
 #### Art. 113d
 
@@ -1652,23 +1673,27 @@ beschliesst:
 
 #### Art. 135a
 
-**Gesuche**
+**Informatikanwendung für das Baubewilligungsverfahren – Verwendung**
 
 <sup>1</sup> Das Gesuch um eine Bau-, Abbruch- oder Standortbewilligung beziehungsweise das Vorprüfungsgesuch wird zusammen mit den Plänen und Anhängen mit der durch den Staat zur Verfügung gestellten Informatikanwendung für das Baubewilligungsverfahren bei der zuständigen Behörde eingereicht.
 
 <sup>2</sup> Die Verwaltungsbehörden sind verpflichtet, diese Gesuche mit der Informatikanwendung für das Baubewilligungsverfahren zu behandeln. Auf begründetes Gesuch können weitere Behörden und Organe ermächtigt werden, die Anwendung zu benutzen.
 
+<sup>2a</sup> Von den allgemeinen Vorschriften über die Anforderung einer qualifizierten elektronischen Signatur kann abgewichen werden, wenn die Identifizierung der Absenderin oder des Absenders und die Integrität der Übermittlung durch die Informatikanwendung für das Baubewilligungsverfahren oder in anderer geeigneter Weise sichergestellt sind.
+
 <sup>3</sup> Der Staatsrat legt die Bedingungen fest, unter denen eine Verwaltungsbehörde ausnahmsweise und gegen Gebühr das Gesuch anstelle der Gesuchstellerin oder des Gesuchstellers elektronisch erfasst.
 
-<sup>4</sup> Der Staatsrat kann die Einreichung von Unterlagen in Papierform in genügender Anzahl fordern.
+<sup>4</sup> …
 
 <sup>5</sup> Die Bürgerinnen und Bürger haben die Möglichkeit, über eine Fernverbindung auf die elektronischen Unterlagen für die öffentliche Auflage zuzugreifen.
 
 #### Art. 135b
 
-**Informatikanwendung für das Baubewilligungsverfahren**
+**Informatikanwendung für das Baubewilligungsverfahren – Finanzierung**
 
 <sup>1</sup> Der Staat entwickelt und betreibt eine Anwendung für das Baubewilligungsverfahren; dabei berücksichtigt er die Bedürfnisse der Personen und Behörden, die im Verfahren mitwirken. Er trägt die entsprechenden Kosten.
+
+<sup>1a</sup> Die in dieser Anwendung erfassten Personendaten können zur Überwachung des Monitorings für das in Artikel 1 Abs. 2 Bst. b<sup>ter</sup> und b<sup>quater</sup> des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung geforderte Stabilisierungsprinzip verwendet werden.
 
 <sup>2</sup> Die Gemeinden tragen ihre Ausrüstungs- und Verbindungskosten sowie allfällige Kosten für Arbeiten, die sie an Dritte delegieren.
 
@@ -1701,6 +1726,8 @@ beschliesst:
 **Zuständige Behörden**
 
 <sup>1</sup> Für Bauvorhaben im ordentlichen Verfahren erteilt die Oberamtsperson die Baubewilligung, für diejenigen geringfügiger Bedeutung im vereinfachten Verfahren der Gemeinderat.
+
+<sup>1a</sup> In Abweichung von Artikel 83 Abs. 1 des Gesetzes vom 25. September 1980 über die Gemeinden ist für Beschlüsse des Gemeinderats in Bezug auf Baubewilligungen kein Gemeindestempel erforderlich.
 
 <sup>2</sup> Das Ausführungsreglement legt fest, welche Bauvorhaben nach welchem Verfahren behandelt werden.
 
@@ -1804,7 +1831,12 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Der Abbruch unterliegt dem ordentlichen Verfahren. Ausgenommen von der Bewilligungspflicht ist der Abbruch von Bauten geringfügiger Bedeutung, es sei denn, es handle sich um geschützte oder ins Verzeichnis aufgenommene Kulturgüter.
+<sup>1</sup> Abbrucharbeiten unterliegen dem ordentlichen Verfahren.
+
+<sup>1a</sup> Der Abbruch von Objekten von geringfügiger Bedeutung, bei denen es sich um keine geschützten oder ins Verzeichnis aufgenommenen Kulturgüter handelt:
+
+- a) unterliegt dem vereinfachten Verfahren, wenn es sich um Objekte ausserhalb der Bauzone handelt, deren Grundfläche 6 m² oder mehr beträgt;
+- b) ist von der Bewilligungspflicht befreit, wenn es sich um Objekte innerhalb der Bauzone handelt oder um Objekte ausserhalb der Bauzone mit einer Grundfläche von weniger als 6 m².
 
 <sup>2</sup> Der Abbruch einer Baute oder Anlage ausserhalb der Bauzone bedarf keiner Sonderbewilligung der Direktion.
 
@@ -1847,6 +1879,8 @@ beschliesst:
 <sup>1</sup> Wer eine neue Zone für den Materialabbau oder die Materialablagerung errichten oder eine solche Zone ändern will, muss gleichzeitig mit dem Gesuch um Abbau oder Ablagerung ein Baubewilligungsgesuch einreichen.
 
 <sup>2</sup> Die Eröffnung oder Erweiterung einer Materialabbaustelle muss durch die Bedürfnisse der Region und der Betreiberin oder des Betreibers gerechtfertigt sein.
+
+<sup>3</sup> Der Perimeter der Zone muss in angemessener Entfernung von den umliegenden Bauzonen liegen, sodass die Wohnorte bestmöglich vor den Emissionen geschützt sind, die durch den Betrieb verursacht werden. Die Bestimmungen der Spezialgesetzgebung im Bereich des Umweltschutzes bleiben vorbehalten.
 
 #### Art. 155
 
@@ -2118,6 +2152,14 @@ beschliesst:
 <sup>3</sup> Artikel 113e<sup>ter</sup> gilt für Grundstücke, die Gegenstand einer Planungsmassnahme im Sinne von Artikel 113a Abs. 2 waren, welche von der Direktion ab dem Inkrafttreten der Änderung vom 15. Dezember 2022 dieses Gesetzes genehmigt wurde. Für Planungsmassnahmen im Sinne von Artikel 113a Abs. 2 Bst. a und b, die vor diesem Datum genehmigt wurden, ist die Schuldnerin oder der Schuldner der auf dem Mehrwert erhobenen Abgabe die Eigentümerschaft der Grundstücke zum Zeitpunkt der öffentlichen Auflage dieser Massnahmen. Dasselbe gilt für Grundstücke, die Gegenstand dieser Massnahmen waren, wenn die Massnahmen nach dem Datum des Inkrafttretens der Änderung vom 15. Dezember 2022 dieses Gesetzes genehmigt wurden und ein Veräusserungsgeschäft vor diesem Datum abgeschlossen wurde.
 
 <sup>4</sup> Die Artikel 113b Abs. 2a, 113d Abs. 1 und 1a, 113d<sup>bis</sup>, 113e Abs. 1 und 2, 113e<sup>bis</sup> und 113f gelten auch für Grundstücke, die Gegenstand einer Planungsmassnahme im Sinne von Absatz 1 sind.
+
+#### Art. 178e
+
+**Abbruchprämie**
+
+<sup>1</sup> Die Bestimmungen der Änderung vom 26. Juni 2026 dieses Gesetzes gelten rückwirkend ab dem 1. Juli 2026.
+
+<sup>2</sup> Die Prämien gemäss Artikel 113c<sup>bis</sup> werden nur für Abbrucharbeiten gewährt, für die nach dem 1. Juli 2026 ein Bewilligungsgesuch bei der Gemeinde eingereicht wurde, sofern die vom Staatsrat festgelegten Bedingungen für ihre Auszahlung erfüllt sind (Art. 113c<sup>bis</sup> Abs. 3 Bst. c).
 
 ### 4.2 Schlussbestimmungen
 
