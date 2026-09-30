@@ -4,13 +4,12 @@ number: "482.11"
 title: Verordnung zum Gesetz über Beiträge an Fahrdienste für mobilitätseingeschränkte Personen
 short: Vo Fahrdienstgesetz
 language: de
-version: 2024-01-01
-valid_until: 2026-09-30
-version_adopted: 2023-12-05
+version: 2026-10-01
+version_adopted: 2026-06-16
 adopted: 2023-12-05
 in_force: 2024-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/482.11"
-pdf: "https://bl.clex.ch/api/de/versions/3829/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3829/pdf_file"
 
 (Vo Fahrdienstgesetz)
 
-Vom 05.12.2023 (Stand 01.01.2024)
+Vom 05.12.2023 (Stand 01.10.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -64,12 +63,12 @@ beschliesst:
 
 <table>
 <tr><th></th><th>Anrechenbares Einkommen</th><th></th></tr>
-<tr><td>a.</td><td>CHF 104'000.–</td><td>1. Personen im erwerbsfähigen Alter; \*</td></tr>
+<tr><td>a.</td><td>CHF 80'000.–</td><td>1. Personen im erwerbsfähigen Alter; \*</td></tr>
 <tr><td></td><td></td><td>2. Elternteile mit behinderten Kindern</td></tr>
-<tr><td>b.</td><td>CHF 130'000.–</td><td>1. Ehepaare im erwerbsfähigen Alter; \*</td></tr>
+<tr><td>b.</td><td>CHF 100'000.–</td><td>1. Ehepaare im erwerbsfähigen Alter; \*</td></tr>
 <tr><td></td><td></td><td>2. Elternteile mit behinderten Kindern</td></tr>
-<tr><td>c.</td><td>CHF 65'000.–</td><td>1. Personen im AHV-Alter;</td></tr>
-<tr><td>d.</td><td>CHF 77'000.–</td><td>1. Ehepaare im AHV-Alter.</td></tr>
+<tr><td>c.</td><td>CHF 50'000.–</td><td>1. Personen im AHV-Alter;</td></tr>
+<tr><td>d.</td><td>CHF 59'000.–</td><td>1. Ehepaare im AHV-Alter.</td></tr>
 </table>
 
 <sup>6</sup> Für die Prüfung der Anspruchsberechtigung bei mobilitätseingeschränkten Personen mit ständigem Aufenthalt im Kanton Basel-Landschaft und zivilrechtlichem Wohnsitz ausserhalb des Kantons Basel-Landschaft, die in Heimen leben, welche vom Kanton gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG) vom 6. Oktober 2006[^2-1] anerkannt sind oder die Bewohnerinnen und Bewohner von Alters- und Pflegeheimen gemäss Pflegeheimliste des Kantons Basel-Landschaft sind, werden die Bestimmungen analog angewendet.
