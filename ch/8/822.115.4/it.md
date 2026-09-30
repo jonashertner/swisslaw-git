@@ -3,18 +3,18 @@ sr: "822.115.4"
 title: Ordinanza del DEFR del 21 aprile 2011 sulle deroghe al divieto del lavoro notturno e domenicale durante la formazione professionale di base
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: it
-version: 2026-06-01
+version: 2026-10-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2011-251-20260601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20260601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2011-251-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR sulle deroghe al divieto del lavoro notturno e domenicale durante la formazione professionale di base
 
-del 21 aprile 2011 (Stato 1° giugno 2026)
+del 21 aprile 2011 (Stato 1° ottobre 2026)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
@@ -228,7 +228,7 @@ Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
 - a. operatrice sociosanitaria AFC/operatore sociosanitario AFC;
 - b. operatrice socioassistenziale AFC/operatore socioassistenziale AFC;
-- c.[^10-1] ...
+- c.[^10-1] …
 - d. assistente di studio medico AFC;
 - e. assistente di studio veterinario AFC;
 - f.[^10-2] addetta alle cure sociosanitarie CFP/addetto alle cure sociosanitarie CFP.
@@ -322,9 +322,10 @@ Nelle seguenti formazioni professionali di base le persone in formazione sono au
 - a. impiegata in logistica AFC / impiegato in logistica AFC con gli indirizzi professionali «Distribuzione» e «Magazzino»;
 - b. addetta alla logistica CFP / addetto alla logistica CFP.
 
-<sup>2</sup> Le persone che svolgono la formazione professionale di base quale impiegata in logistica AFC / impiegato in logistica AFC con indirizzo professionale «Trasporto» sono autorizzate, a partire dai 17 anni compiuti, a lavorare di notte al massimo due volte alla settimana e al massimo 10 volte all’anno.
+<sup>2</sup> Le persone che svolgono la formazione professionale di base quale agente del trasporto ferroviarioAFC sono autorizzate, a partire dai 17 anni compiuti, a lavorare di notte al massimo due volte alla settimana e al massimo 10 volte all’anno.[^11c-2]
 
 [^11c-1]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1411](https://fedlex.data.admin.ch/eli/oc/2016/275)).
+[^11c-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 442](https://fedlex.data.admin.ch/eli/oc/2026/442)).
 
 #### Art. 12
 

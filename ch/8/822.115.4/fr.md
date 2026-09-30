@@ -3,18 +3,18 @@ sr: "822.115.4"
 title: "Ordonnance du DEFR du 21 avril 2011 concernant les dérogations à l'interdiction du travail de nuit et du dimanche pendant la formation professionnelle initiale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: fr
-version: 2026-06-01
+version: 2026-10-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2011-251-20260601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20260601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-251-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR concernant les dérogations à l’interdiction du travail de nuit et du dimanche pendant la formation professionnelle initiale
 
-du 21 avril 2011 (État le 1<sup>er</sup> juin 2026)
+du 21 avril 2011 (État le 1<sup>er</sup> octobre 2026)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
@@ -323,9 +323,10 @@ Les personnes en formation dans les formations professionnelles initiales suivan
 - a. logisticienne CFC/logisticien CFC avec orientation distribution et stockage;
 - b. logisticienne AFP/logisticien AFP.
 
-<sup>2</sup> Les personnes en formation qui suivent une formation professionnelle initiale de logisticienne CFC/logisticien CFC avec orientation transport sont autorisées à travailler au maximum deux nuits par semaine et au maximum dix nuits par an dès l’âge de 17 ans révolus.
+<sup>2</sup> Les personnes en formation qui suivent une formation professionnelle initiale d’agente de transport ferroviaire CFC / agent de transport ferroviaire CFC sont autorisées à travailler au maximum deux nuits par semaine et au maximum dix nuits par an dès l’âge de 17 ans révolus.[^11c-2]
 
 [^11c-1]: Introduit par le ch. I de l’O du DEFR du 2 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1411](https://fedlex.data.admin.ch/eli/oc/2016/275)).
+[^11c-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 442](https://fedlex.data.admin.ch/eli/oc/2026/442)).
 
 #### Art. 12
 

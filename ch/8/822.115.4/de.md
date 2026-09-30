@@ -3,18 +3,18 @@ sr: "822.115.4"
 title: Verordnung des WBF vom 21. April 2011 über die Ausnahmen vom Verbot von Nacht- und Sonntagsarbeit während der beruflichen Grundbildung
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: de
-version: 2026-06-01
+version: 2026-10-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2011-251-20260601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2011-251-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die Ausnahmen vom Verbot von Nacht- und Sonntagsarbeit während der beruflichen Grundbildung
 
-vom 21. April 2011 (Stand am 1. Juni 2026)
+vom 21. April 2011 (Stand am 1. Oktober 2026)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
@@ -320,9 +320,10 @@ Lernende in den folgenden beruflichen Grundbildungen dürfen ab dem vollendeten 
 - a. Logistikerin EFZ/Logistiker EFZ mit der Fachrichtung Distribution und Lager;
 - b. Logistikerin EBA/Logistiker EBA.
 
-<sup>2</sup> Lernende in der beruflichen Grundbildung Logistikerin EFZ/Logistiker EFZ mit der Fachrichtung Verkehr dürfen ab dem vollendeten 17. Altersjahr höchstens 2 Nächte pro Woche und höchstens 10 Nächte pro Jahr arbeiten.
+<sup>2</sup> Lernende in der beruflichen Grundbildung Fachfrau Bahntransport EFZ / Fachmann Bahntransport EFZ dürfen ab dem vollendeten 17. Altersjahr höchstens 2 Nächte pro Woche und höchstens 10 Nächte pro Jahr arbeiten.[^11c-2]
 
 [^11c-1]: Eingefügt durch Ziff. I der V des WBF vom 2. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1411](https://fedlex.data.admin.ch/eli/oc/2016/275)).
+[^11c-2]: Fassung gemäss Ziff. I der V des WBF vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 442](https://fedlex.data.admin.ch/eli/oc/2026/442)).
 
 #### Art. 12
 
