@@ -4,11 +4,11 @@ title: "Ordonnance du 25 août 2004 sur le Bureau de communication en matière d
 short: OBCBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: fr
-version: 2024-01-01
+version: 2026-10-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20240101/fr"
 
 (OBCBA)
 
-du 25 août 2004 (État le 1<sup>er</sup> janvier 2024)
+du 25 août 2004 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 8*a*, al. 5, et 41, al. 1, de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^ingress-1], vu les art. 4, al. 1, 13, al. 1, et 15 de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres États (LOC)[^ingress-2],[^ingress-3]
+vu les art. 8*a*, al. 5, 23, al. 7, et 41, al. 1, de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^ingress-1], vu les art. 4, al. 1, 13, al. 1, et 15 de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres États (LOC)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^ingress-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^ingress-3]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^ingress-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ## Chapitre 1 Tâches
 
@@ -41,14 +41,14 @@ Le Bureau de communication en matière de blanchiment d’argent (bureau) est ch
 
 - a. assister les autorités de poursuite pénale dans la répression du blanchiment d’argent, des infractions préalables au blanchiment d’argent, de la criminalité organisée et du financement du terrorisme;
 - b. agir en tant que cellule nationale de renseignements financiers dans la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée et le financement du terrorisme;
-- c. sensibiliser les intermédiaires financiers aux problèmes du blanchiment d’argent, des infractions préalables au blanchiment d’argent, de la criminalité organisée et du financement du terrorisme;
+- c.[^1-2] sensibiliser les intermédiaires financiers et les conseillers aux problèmes du blanchiment d’argent, des infractions préalables au blanchiment d’argent, de la criminalité organisée et du financement du terrorisme;
 - d. informer le public sur l’évolution de la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée et le financement du terrorisme en Suisse par un rapport annuel comportant des éléments statistiques anonymisés.
 
 <sup>2</sup>
 
 Pour accomplir ses tâches:
 
-- a.[^1-2]
+- a.[^1-3]
 
   il reçoit et analyse les communications provenant:
 
@@ -57,28 +57,36 @@ Pour accomplir ses tâches:
   - 3\. des organismes de surveillance,
   - 4\. de l’Autorité fédérale de surveillance des marchés financiers (FINMA),
   - 5\. de la Commission fédérale des maisons de jeu (CFMJ),
-  - 6\. de l’autorité intercantonale de surveillance et d’exécution visée à l’art. 105 de la loi fédérale du 29 septembre 2017 sur les jeux d’argent[^1-3] (autorité intercantonale),
-  - 6<sup>bis</sup>.[^1-4] du Bureau central du contrôle des métaux précieux (bureau central),
+  - 6\. de l’autorité intercantonale de surveillance et d’exécution visée à l’art. 105 de la loi fédérale du 29 septembre 2017 sur les jeux d’argent[^1-4] (autorité intercantonale),
+  - 6<sup>bis</sup>.[^1-5] du Bureau central du contrôle des métaux précieux (bureau central),
   - 7\. des négociants au sens de l’art. 8*a* LBA,
-  - 8\.[^1-5] des entreprises de révision des négociants au sens de l’art. 15 LBA;
+  - 8\.[^1-6] des entreprises de révision des négociants au sens de l’art. 15 LBA,
+  - 9\.[^1-7] des conseillers au sens de l’art. 2, al. 3<sup>bis</sup> et 3<sup>ter</sup>, LBA,
+  - 10\.[^1-8] des autorités cantonales de surveillance visées à l’art. 22*b* LBA;
 
 - b. il procède à des recherches relatives aux faits qui lui ont été communiqués;
-- c.[^1-6] il décide si et quelles informations communiquées sont transmises aux autorités de poursuite pénale cantonales et fédérales;
+- c.[^1-9] il décide si et quelles informations communiquées sont transmises aux autorités de poursuite pénale cantonales et fédérales;
 - d. il échange au niveau national et international les informations liées au blanchiment d’argent, aux infractions préalables au blanchiment d’argent, à la criminalité organisée et au financement du terrorisme;
-- e.[^1-7] il exploite son propre système d’information pour la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée et le financement du terrorisme;
-- f.[^1-8] il exploite les informations liées au blanchiment d’argent, aux infractions préalables au blanchiment d’argent, à la criminalité organisée et au financement du terrorisme et établit des statistiques anonymisées qui lui permettent de procéder à des analyses opérationnelles et stratégiques;
-- g.[^1-9] il reçoit des informations des personnes et des institutions visées à l’art. 7 de la loi du 18 décembre 2015 sur les valeurs patrimoniales d’origine illicite (LVP)[^1-10].
+- d<sup>bis.</sup>[^1-10] il échange au niveau national avec le Secrétariat d’État à l’économie (SECO) les informations nécessaires à l’application de la LBA et de la loi du 22 mars 2002 sur les embargos (LEmb)[^1-11];
+- e.[^1-12] il exploite son propre système d’information pour la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée et le financement du terrorisme;
+- f.[^1-13] il exploite les informations liées au blanchiment d’argent, aux infractions préalables au blanchiment d’argent, à la criminalité organisée et au financement du terrorisme et établit des statistiques anonymisées qui lui permettent de procéder à des analyses opérationnelles et stratégiques;
+- g.[^1-14] il reçoit des informations des personnes et des institutions visées à l’art. 7 de la loi du 18 décembre 2015 sur les valeurs patrimoniales d’origine illicite (LVP)[^1-15].
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-3]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^1-4]: Introduit par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-5]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-6]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-7]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-8]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^1-9]: Introduite par le ch. I de l’O du 25 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)).
-[^1-10]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^1-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-4]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^1-5]: Introduit par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-6]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-7]: Introduit par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-8]: Introduit par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-9]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-10]: Introduite par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-11]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^1-12]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-13]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^1-14]: Introduite par le ch. I de l’O du 25 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)).
+[^1-15]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 ## Chapitre 2 Traitement des communications et informations
 
@@ -90,14 +98,14 @@ Pour accomplir ses tâches:
 
 #### Art. 2
 
-**Provenance des données traitées**[^2-1]
+**Provenance des données[^2-2]**[^2-1]
 
-Le bureau traite les communications et les informations:[^2-2]
+Le bureau traite les communications et les informations:[^2-3]
 
-- a.[^2-3] selon les art. 9, al. 1, et 11*a* LBA de même que l’art. 305<sup>ter</sup>, al. 2, du code pénal (CP)[^2-4], lorsqu’elles émanent d’intermédiaires financiers;
-- a<sup>bis</sup>.[^2-5] selon l’art. 9*b* LBA, lorsqu’elles émanent d’intermédiaires financiers;
+- a.[^2-4] selon les art. 9, al. 1, et 11*a* LBA de même que l’art. 305<sup>ter</sup>, al. 2, du code pénal (CP)[^2-5], lorsqu’elles émanent d’intermédiaires financiers;
+- a<sup>bis</sup>.[^2-6] selon l’art. 9*b* LBA, lorsqu’elles émanent d’intermédiaires financiers;
 - b. selon l’art. 27, al. 4, LBA, lorsqu’elles émanent d’organismes d’autorégulation;
-- c.[^2-6]
+- c.[^2-7]
 
   selon l’art. 16, al. 1, LBA, lorsqu’elles émanent:
 
@@ -107,76 +115,91 @@ Le bureau traite les communications et les informations:[^2-2]
   - 4\. de l’autorité intercantonale,
   - 5\. du bureau central;
 
-- d.[^2-7] selon les art. 9, al. 1<sup>bis</sup> et 15, al. 5, LBA lorsqu’elles émanent de négociants ainsi que de leurs entreprises de révision;
-- e.[^2-8] selon l’art. 7, al 1 et 2, LVP[^2-9].
+- d.[^2-8] selon les art. 9, al. 1<sup>bis</sup>, 11*a*, al. 1, et 15, al. 5, LBA, lorsqu’elles émanent de négociants ainsi que de leurs entreprises de révision;
+- d<sup>bis</sup>.[^2-9] selon les art. 9, al. 1<sup>ter</sup>, et 11*a* LBA, lorsqu’elles émanent de conseillers;
+- d<sup>ter</sup>.[^2-10] selon l’art. 9*b* LBA, lorsqu’elles émanent de conseillers;
+- d<sup>quater</sup>.[^2-11] selon l’art. 22*b*, al. 2, LBA, lorsqu’elles émanent d’autorités cantonales de surveillance;
+- e.[^2-12] selon l’art. 7, al 1 et 2, LVP[^2-13].
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^2-3]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^2-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-5]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^2-6]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^2-4]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^2-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^2-6]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^2-7]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^2-8]: Introduite par le ch. I de l’O du 25 mai 2016 ([RO 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-9]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^2-8]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-9]: Introduite par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-10]: Introduite par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-11]: Introduite par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-12]: Introduite par le ch. I de l’O du 25 mai 2016 ([RO 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^2-13]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 #### Art. 3
 
-**Analyse des communications**[^3-1]
+**Contenu des communications[^3-2]**[^3-1]
 
 <sup>1</sup>
 
-Les communications au sens de l’art. 2, let. a, b et c, doivent indiquer:[^3-2]
+Les communications des intermédiaires financiers effectuées en vertu des art. 9, al. 1, et 11*a* LBA ainsi que 305<sup>ter</sup>, al. 2, CP[^3-3] doivent indiquer:[^3-4]
 
-- a. le nom de l’intermédiaire financier, de l’autorité ou de l’organisme auteur de la communication, et pour chacun d’eux un numéro de téléphone qui permette de joindre directement la personne compétente;
-- b. l’autorité ou l’organisme selon l’art. 12 LBA ou 43*a* de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^3-3] qui exerce la surveillance sur l’intermédiaire financier;
+- a.[^3-5] le nom de l’intermédiaire financier auteur de la communication et un numéro de téléphone qui permette de joindre directement la personne compétente;
+- b. l’autorité ou l’organisme selon l’art. 12 LBA ou 43*a* de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^3-6] qui exerce la surveillance sur l’intermédiaire financier;
 - c. les données permettant d’identifier le client de l’intermédiaire financier selon l’art. 3 LBA;
 - d. les données permettant d’identifier l’ayant droit économique des fonds selon l’art. 4 LBA;
 - e. les données permettant d’identifier d’autres personnes habilitées à signer ou à représenter le client;
 - f. les valeurs patrimoniales impliquées dans l’affaire au moment de la communication, y compris l’état actuel du compte;
 - g. une description aussi précise que possible de la relation d’affaires, y compris de son objet et de son but, ainsi que le numéro et la date d’ouverture de la relation d’affaires concernée;
-- h. une description et une documentation aussi précises que possible des soupçons sur lesquels se base la communication, y compris les extraits de comptes et les pièces justificatives détaillées démontrant les transactions suspectes, d’éventuels liens avec d’autres relations d’affaires visées à l’art. 9 LBA et à l’art. 305<sup>ter</sup>, al. 2, CP[^3-4], ainsi que le résultat des clarifications visées à l’art. 6 LBA.
+- h. une description et une documentation aussi précises que possible des soupçons sur lesquels se base la communication, y compris les extraits de comptes et les pièces justificatives détaillées démontrant les transactions suspectes, d’éventuels liens avec d’autres relations d’affaires visées à l’art. 9 LBA et à l’art. 305<sup>ter</sup>, al. 2, CP[^3-7], ainsi que le résultat des clarifications visées à l’art. 6 LBA.
 
 <sup>1bis</sup>
 
-Les informations au sens de l’art. 2, let. a<sup>bis</sup>, doivent contenir par analogie les informations et documents visés à l’al. 1, let. a et c à g. Elles doivent également contenir:
+Les communications des intermédiaires financiers relatives à la rupture de la relation d’affaires effectuées en vertu de l’art. 9*b*, al. 3, LBA doivent contenir par analogie les informations et documents visés à l’al. 1, let. a et c à g. Elles doivent également contenir:[^3-8]
 
 - a. le numéro de référence attribué par le bureau à la communication initiale dans le cadre de laquelle la relation d’affaires désormais rompue a été signalée;
 - b. les pièces justificatives confirmant la rupture et la date de la rupture de la relation d’affaires;
-- c. la documentation du retrait d’importantes valeurs patrimoniales dans le cadre de la rupture de la relation d’affaires (*paper trail*).[^3-5]
+- c. la documentation du retrait d’importantes valeurs patrimoniales dans le cadre de la rupture de la relation d’affaires (*paper trail*).[^3-9]
 
-<sup>2</sup> Les communications au sens de l’art. 2, let. d, doivent contenir par analogie au moins les informations et documents visés à l’al. 1, let. a, c à e et h.[^3-6]
+<sup>2</sup> Les communications des négociants ou de leurs entreprises de révision effectuées en vertu des art. 9, al. 1<sup>bis</sup>, 11*a*, al. 1, ou 15, al. 5, LBA doivent contenir par analogie au moins les informations et documents visés à l’al. 1, let. a, c à e et h.[^3-10]
 
-<sup>3</sup> Si les personnes et les institutions qui effectuent une communication en vertu de l’art. 7, al. 1 et 2, LVP[^3-7] ne sont pas des intermédiaires financiers au sens de la LBA, leur communication doit contenir au moins les informations visées à l’al. 1, let. f, dans la mesure où elles leur sont connues.
+<sup>2bis</sup> Les communications des conseillers effectuées en vertu des art. 9, al. 1<sup>ter</sup>, et 11*a* LBA doivent contenir par analogie au moins les informations et documents visés à l’al. 1, let. a à e, g et h.[^3-11]
+
+<sup>2ter</sup> Les communications des conseillers relatives à la rupture de la relation d’affaires effectuées en vertu de l’art. 9*b*, al. 3, LBA doivent contenir par analogie les informations et documents visés à l’al. 1, let. a, c à e et g. Elles doivent également contenir les informations visées à l’al. 1<sup>bis</sup>, let. a et b.[^3-12]
+
+<sup>2quater</sup> Les communications des autorités, des organismes de surveillance ou des organismes d’autorégulation effectuées en vertu des art. 16, al. 1, ou 27, al. 4, LBA doivent contenir par analogie au moins les informations et documents visés à l’al. 1.[^3-13]
+
+<sup>3</sup> Si les personnes et les institutions qui effectuent une communication en vertu de l’art. 7, al. 1 et 2, LVP[^3-14] ne sont pas des intermédiaires financiers au sens de la LBA, leur communication doit contenir au moins les informations visées à l’al. 1, let. f, dans la mesure où elles leur sont connues.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^3-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^3-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^3-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-5]: Introduit par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^3-6]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^3-7]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^3-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-4]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-5]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^3-7]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-8]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-9]: Introduit par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^3-10]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-11]: Introduit par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-12]: Introduit par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-13]: Introduit par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-14]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 #### Art. 3a
 
 **Communication avec le bureau**[^3a-1]
 
-<sup>1</sup> Le bureau met à disposition un système d’information pour communiquer avec lui.
+<sup>1</sup> L’échange d’informations avec le bureau se fait au moyen du système d’information mis à disposition par ce dernier.
 
-<sup>2</sup> Celui qui utilise ce système pour communiquer avec le bureau doit s’y enregistrer préalablement.
+<sup>2</sup> Tous les utilisateurs du système d’information doivent s’y enregistrer préalablement.
 
-<sup>3</sup> Celui qui ne transmet pas les communications par le système d’information doit utiliser le formulaire préétabli par le bureau et effectuer la transmission de manière sécurisée.
-
-<sup>4</sup> Les informations et documents au sens de l’art. 3 doivent être transmis au bureau.[^3a-2]
-
-[^3a-1]: Introduit par le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^3a-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^3a-1]: Introduit par le ch. I de l’O du 27 nov. 2019 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 4
 
 **Enregistrement**[^4-1]
 
-<sup>1</sup> Les communications et les autres informations transmises au bureau sont enregistrées dans le système d’information. Le bureau confirme la réception des communications après avoir reçu toutes les informations et tous les documents visés aux art. 3 et 3*a*. Le délai visé à l’art. 9*b*, al. 1, LBA court à compter de la date de réception indiquée sur l’accusé de réception.[^4-2]
+<sup>1</sup> Les communications et les autres informations transmises au bureau sont enregistrées dans le système d’information. Le bureau confirme la réception des communications après avoir reçu toutes les informations et tous les documents visés à l’art. 3. Le délai visé à l’art. 9*b*, al. 1, LBA court à compter de la date de réception indiquée sur l’accusé de réception.[^4-2]
 
 <sup>2</sup> Si la communication indique plus d’un client, le bureau peut traiter séparément chacune des relations d’affaires mentionnées.
 
@@ -185,7 +208,7 @@ Les informations au sens de l’art. 2, let. a<sup>bis</sup>, doivent contenir p
 <sup>4</sup> ...[^4-4]
 
 [^4-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^4-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 [^4-3]: Abrogé par l’annexe ch. 6 de l’O du 31 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^4-4]: Abrogé par le ch. I de l’O du 27 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
@@ -207,26 +230,27 @@ Pour accomplir ses tâches légales, le bureau peut se procurer des informations
 
 #### Art. 7
 
-**Collaboration avec les autorités, les offices, les organismes de surveillance et les organismes d’autorégulation[^7-1]**
+**Collaboration avec les autorités, les organismes de surveillance et les organismes d’autorégulation[^7-1]**
 
 <sup>1</sup>
 
-Le bureau peut exiger ou recevoir des autorités et des offices ainsi que des organismes de surveillance et des organismes d’autorégulation visés à l’art. 4, al. 1, LOC et aux art. 29, al. 1 à 2<sup>bis</sup>, et 29*b* LBA toutes les informations liées au blanchiment d’argent, aux infractions préalables au blanchiment d’argent, à la criminalité organisée ou au financement du terrorisme dont il a besoin pour accomplir les tâches que la loi lui assigne. Il peut notamment vérifier si:[^7-2]
+Le bureau peut demander aux autorités ainsi qu’aux organismes de surveillance et aux organismes d’autorégulation visés aux art. 29, al. 1 à 2<sup>bis</sup>, et 29*b* LBA toutes les informations liées au blanchiment d’argent, aux infractions préalables au blanchiment d’argent, à la criminalité organisée ou au financement du terrorisme dont il a besoin pour accomplir les tâches que la loi lui assigne ou recevoir de telles informations de leur part. L’échange avec le SECO visé à l’art. 29, al. 1<sup>bis</sup>, LBA est également possible aux fins de l’application de la LEmb[^7-2]. Le bureau peut notamment vérifier si:[^7-3]
 
 - a. la personne ou la société concernée fait ou a fait l’objet de poursuites judiciaires ou administratives;
 - b. la personne ou la société est connue des autorités policières;
-- c.[^7-3] la personne concernée par la communication a un domicile en Suisse et si elle est autorisée à y séjourner et à y exercer une activité lucrative;
-- d.[^7-4] l’intermédiaire financier qui effectue une communication est effectivement assujetti à la surveillance de la FINMA, de la CFMJ, de l’autorité intercantonale ou du bureau central;
-- e.[^7-5] l’intermédiaire financier qui effectue une communication est effectivement assujetti à la surveillance d’un organisme de surveillance ou d’autorégulation.
+- c.[^7-4] la personne concernée par la communication a un domicile en Suisse et si elle est autorisée à y séjourner et à y exercer une activité lucrative;
+- d.[^7-5] l’intermédiaire financier ou le conseiller qui effectue une communication est effectivement assujetti à la surveillance de la FINMA, de la CFMJ, de l’autorité intercantonale ou du bureau central;
+- e.[^7-6] l’intermédiaire financier ou le conseiller qui effectue une communication est effectivement assujetti à la surveillance d’un organisme de surveillance ou d’un organisme d’autorégulation.
 
-<sup>2</sup> L’échange d’informations a lieu oralement, sous forme électronique ou par écrit.[^7-6]
+<sup>2</sup> L’échange d’informations a lieu oralement, sous forme électronique ou par écrit.[^7-7]
 
-[^7-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^7-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^7-3]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^7-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^7-5]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-2]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^7-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-4]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-5]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-6]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)). Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-7]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
 
 ### Section 3 Transmission d’informations à une autorité de poursuite pénale
 
@@ -246,16 +270,18 @@ Le bureau peut exiger ou recevoir des autorités et des offices ainsi que des or
 
 #### Art. 9
 
-**Information de l’intermédiaire financier**
+**Information de l’intermédiaire financier et du conseiller[^9-1]**
 
-<sup>1</sup> Le bureau informe l’intermédiaire financier qu’il transmet les informations à l’autorité de poursuite pénale compétente conformément à l’art. 23, al. 5, LBA.[^9-1]
+<sup>1</sup> Le bureau informe l’intermédiaire financier ou le conseiller qu’il transmet les informations à l’autorité de poursuite pénale compétente conformément à l’art. 23, al. 5, LBA.[^9-2]
 
-<sup>2</sup> Si l’affaire est transmise à une autorité de poursuite pénale, toute information ultérieure de l’intermédiaire financier est soumise à l’autorisation préalable de celle‑ci.
+<sup>2</sup> Si l’affaire est transmise à une autorité de poursuite pénale, toute information ultérieure de l’intermédiaire financier ou du conseiller est soumise à l’autorisation préalable de celle-ci.[^9-3]
 
-<sup>3</sup> Si le bureau transmet les informations communiquées à une autorité de poursuite pénale conformément à l’art. 23, al. 4, LBA ou s’il reçoit une communication en vertu de l’art. 9, al. 1, let. c, LBA, il indique à l’intermédiaire financier la date d’échéance du blocage des avoirs fixée conformément à l’art. 10, al. 2, LBA.[^9-2]
+<sup>3</sup> Si le bureau transmet les informations communiquées à une autorité de poursuite pénale conformément à l’art. 23, al. 4, LBA ou s’il reçoit une communication en vertu de l’art. 9, al. 1, let. c, LBA, il indique à l’intermédiaire financier la date d’échéance du blocage des avoirs fixée conformément à l’art. 10, al. 2, LBA.[^9-4]
 
-[^9-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^9-2]: Introduit par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^9-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^9-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^9-4]: Introduit par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 10
 
@@ -271,14 +297,16 @@ Le bureau peut informer:
 - c<sup>bis</sup>.[^10-3] les organismes de surveillance: des démarches entreprises sur la base de communications selon l’art. 2, let. c, ch. 2;
 - d.[^10-4] la CFMJ: des démarches entreprises sur la base de communications selon l’art. 2, let. c, ch. 3;
 - e.[^10-5] l’autorité intercantonale: des démarches entreprises sur la base de communications selon l’art. 2, let. c, ch. 4;
-- f.[^10-6] le bureau central: des démarches entreprises sur la base de communications selon l’art. 2, let. c, ch. 5.[^10-7]
+- f.[^10-6] le bureau central: des démarches entreprises sur la base de communications selon l’art. 2, let. c, ch. 5;
+- g.[^10-7] le conseiller: des démarches entreprises sur la base de communications selon l’art. 2, let. d<sup>bis</sup>;
+- h.[^10-8] les autorités cantonales de surveillance visées à l’art. 22*b* LBA: des démarches entreprises sur la base de communications selon l’art. 2, let. d<sup>quater</sup>.[^10-9]
 
 <sup>2</sup>
 
-Lorsque le bureau constate qu’un intermédiaire financier n’a pas observé ses obligations de diligence, ses obligations en cas de soupçon de blanchiment d’argent ou ses obligations en matière de remise d’informations en vertu de l’art. 11*a* LBA, il peut, conformément à l’art. 29, al. 1, ou 29*b* LBA, transmettre spontanément à l’autorité de surveillance compétente, à l’organisme de surveillance compétent ou à l’organisme d’autorégulation compétent les informations suivantes:[^10-8]
+Lorsque le bureau constate qu’un intermédiaire financier ou un conseiller n’a pas observé ses obligations de diligence, ses obligations en cas de soupçon de blanchiment d’argent ou ses obligations en matière de remise d’informations en vertu de l’art. 11*a* LBA, il peut, conformément à l’art. 29, al. 1, ou 29*b* LBA, transmettre spontanément à l’autorité de surveillance compétente, à l’organisme de surveillance compétent ou à l’organisme d’autorégulation compétent les informations suivantes:[^10-10]
 
-- a.[^10-9] le nom de l’intermédiaire financier concerné;
-- b.[^10-10] ...
+- a.[^10-11] le nom de l’intermédiaire financier ou du conseiller concerné;
+- b.[^10-12] ...
 - c. les montants concernés;
 - d. la nature et le type de l’inobservation;
 - e. l’autorité de poursuite pénale saisie.
@@ -291,10 +319,12 @@ Lorsque le bureau constate qu’un intermédiaire financier n’a pas observé s
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^10-5]: Introduite par le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^10-6]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^10-7]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^10-8]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^10-9]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^10-10]: Abrogée par l’annexe ch. 6 de l’O du 31 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^10-7]: Introduite par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-8]: Introduite par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-9]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^10-10]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-11]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-12]: Abrogée par l’annexe ch. 6 de l’O du 31 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 11
 
@@ -355,43 +385,45 @@ Le bureau utilise le système d’information pour:[^14-1]
 - b.[^14-2] procéder aux vérifications dans les affaires de blanchiment d’argent, d’infractions préalables au blanchiment d’argent, de criminalité organisée et de financement du terrorisme*;*
 - c.[^14-3] collaborer avec les autorités pénales de la Confédération et des cantons;
 - d.[^14-4] collaborer avec les autorités étrangères conformément à l’art. 13;
-- e.[^14-5] collaborer avec la FINMA, la CFMJ, l’autorité intercantonale, le bureau central ainsi que les organismes de surveillance et les organismes d’autorégulation;
-- e<sup>bis</sup>.[^14-6] collaborer avec les autres autorités visées à l’art. 29, al. 2, LBA;
-- f.[^14-7] élaborer des analyses stratégiques sur la base de statistiques anonymisées.
+- e.[^14-5] collaborer avec la FINMA, la CFMJ, l’autorité intercantonale, le bureau central, l’Office fédéral de la justice, en sa qualité d’autorité qui tient le registre de transparence en application de la loi du 26 septembre 2025 sur la transparence des personnes morales (LTPM)[^14-6], le Département fédéral des finances, en sa qualité d’autorité de contrôle au sens de la LTPM, le SECO ainsi que les organismes de surveillance et les organismes d’autorégulation;
+- e<sup>bis</sup>.[^14-7] collaborer avec les autres autorités visées à l’art. 29, al. 2, LBA;
+- f.[^14-8] élaborer des analyses stratégiques sur la base de statistiques anonymisées.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^14-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^14-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^14-5]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^14-6]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^14-7]: Introduite par l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^14-5]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^14-6]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^14-7]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^14-8]: Introduite par l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 
 #### Art. 15
 
-**Provenance des données**
+**Provenance des informations[^15-1]**
 
-Les données du système d’information[^15-1] proviennent:
+Les données du système d’information[^15-2] proviennent:
 
-- a.[^15-2] des communications et des informations selon l’art. 2;
-- a<sup>bis</sup>.[^15-3] des informations selon l’art. 7;
+- a.[^15-3] des communications et des informations selon l’art. 2;
+- a<sup>bis</sup>.[^15-4] des informations selon l’art. 7;
 - b. des demandes d’entraide administrative et judiciaire selon les art. 12 et 13;
-- c.[^15-4] des annonces des autorités de police concernant des enquêtes effectuées avant l’ouverture d’une instruction;
-- d.[^15-5] des annonces des autorités pénales de la Confédération et des cantons selon l’art. 29*a* LBA;
-- d<sup>bis</sup>.[^15-6] des informations selon l’art. 29*b* LBA;
+- c.[^15-5] des annonces des autorités de police concernant des enquêtes effectuées avant l’ouverture d’une instruction;
+- d.[^15-6] des annonces des autorités pénales de la Confédération et des cantons selon l’art. 29*a* LBA;
+- d<sup>bis</sup>.[^15-7] des informations selon l’art. 29*b* LBA;
 - e. des annonces selon les art. 4 et 8, al. 1, LOC, pour autant qu’elles servent à remplir les tâches légales du bureau;
-- f.[^15-7] des listes de personnes et de sociétés annexées à des résolutions du Conseil de sécurité de l’ONU en rapport avec des soupçons de blanchiment d’argent, d’infractions préalables au blanchiment d’argent, de criminalité organisée ou de financement du terrorisme;
-- g.[^15-8] des listes de personnes et de sociétés soupçonnées par les autorités suisses de blanchir de l’argent, d’avoir commis des infractions préalables au blanchiment d’argent, d’appartenir à une organisation criminelle ou de financer le terrorisme;
+- f.[^15-8] des listes de personnes et de sociétés annexées à des résolutions du Conseil de sécurité de l’ONU en rapport avec des soupçons de blanchiment d’argent, d’infractions préalables au blanchiment d’argent, de criminalité organisée ou de financement du terrorisme;
+- g.[^15-9] des listes de personnes et de sociétés soupçonnées par les autorités suisses de blanchir de l’argent, d’avoir commis des infractions préalables au blanchiment d’argent, d’appartenir à une organisation criminelle ou de financer le terrorisme;
 - h. des résultats des propres recherches du bureau.
 
-[^15-1]: Nouvelle expression selon le ch. I al. 2 de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Il a été tenu compte de cette mod. dans tout le texte.
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^15-3]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^15-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^15-5]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^15-6]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^15-7]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^15-2]: Nouvelle expression selon le ch. I al. 2 de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^15-4]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^15-5]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^15-6]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^15-7]: Introduite par l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^15-8]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^15-9]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 
 #### Art. 16
 
@@ -405,6 +437,13 @@ En matière de lutte contre le blanchiment d’argent, les infractions préalabl
 - b.[^16-4] les personnes et les sociétés soupçonnées d’avoir commis une des infractions mentionnées à l’art. 23, al. 4, LBA ou de préparer ou faciliter une telle infraction;
 - c.[^16-5] ...
 
+<sup>1bis</sup>
+
+En ce qui concerne l’application de la LBA et de la LEmb[^16-6], les données traitées dans le système d’information concernent:
+
+- a. les transactions financières effectuées pendant la période sur laquelle portent les soupçons;
+- b. les personnes et les sociétés soupçonnées d’avoir enfreint la LBA ou la LEmb.[^16-7]
+
 <sup>2</sup> Les tiers qui ne remplissent pas les conditions de l’al. 1 peuvent être enregistrés dans le système d’information dans la mesure où cela s’avère nécessaire à la réalisation des buts mentionnés à l’art. 14.
 
 [^16-1]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
@@ -412,6 +451,8 @@ En matière de lutte contre le blanchiment d’argent, les infractions préalabl
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^16-4]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^16-5]: Abrogée par l’annexe ch. 6 de l’O du 31 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^16-6]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^16-7]: Introduit par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 17
 
@@ -433,7 +474,7 @@ Le système d’information sert à:
 
   - 1\.[^18-2] des communications et des informations,
   - 2\. des informations d’homologues étrangers,
-  - 3\. l’échange d’informations entre les autorités,
+  - 3\.[^18-3] l’échange d’informations entre le bureau et les autorités, les organismes de surveillance et les organismes d’autorégulation,
   - 4\. des transactions,
   - 5\. des données relatives à des personnes physiques et morales,
   - 6\. des regroupements thématiques,
@@ -448,6 +489,7 @@ Le système d’information sert à:
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^18-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^18-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 19
 
@@ -463,9 +505,9 @@ La sécurité des données est régie par:
 <sup>2</sup> L’Office fédéral de la police (fedpol) fixe, dans un règlement sur le traitement des données, les mesures organisationnelles et techniques à prendre pour éviter le traitement non autorisé des données et pour assurer la journalisation automatique du traitement des données.[^19-6]
 
 [^19-1]: Nouvelle teneur selon l’annexe 2 ch. II 136 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^19-3]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^19-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^19-5]: Nouvelle teneur selon l’annexe ch. 38 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^19-6]: Nouvelle teneur selon le ch. I 20 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
@@ -482,14 +524,19 @@ Ont accès au système d’information au moyen d’une procédure d’appel:
 
 <sup>2</sup>
 
-Les autorités visées à l’art. 35, al. 2, LBA ont accès, au moyen de la procédure d’appel, aux données personnelles des personnes physiques et morales enregistrées dans le système, dans la mesure où elles ont besoin de cet accès pour l’un des buts suivants:
+Les autorités visées à l’art. 35, al. 2, let. a à f et h, LBA ont accès, au moyen de la procédure d’appel, aux informations concernant les personnes physiques et morales enregistrées dans le système, dans la mesure où elles ont besoin de cet accès pour l’un des buts suivants:[^20-2]
 
 - a. la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée ou le financement du terrorisme;
 - b. l’application de la LBA.
 
+<sup>2bis</sup> Le SECO a accès, au moyen de la procédure d’appel, aux informations concernant les personnes physiques et morales enregistrées dans le système, dans la mesure où il a besoin de cet accès pour l’application de la LBA et de la LEmb[^20-3].[^20-4]
+
 <sup>3</sup> Si la comparaison des données génère un résultat positif, les autorités visées à l’art. 35, al. 2, LBA peuvent demander au bureau de transmettre d’autres informations.
 
 [^20-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^20-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^20-3]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^20-4]: Introduit par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 21 et 22
 
@@ -555,8 +602,8 @@ Les données personnelles sont transmises sur requête aux autorités de surveil
 <sup>2</sup> Le bureau refuse de communiquer des données du système d’information si des intérêts prépondérants, publics ou privés, s’y opposent.
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^26-2]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
-[^26-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^26-2]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^26-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^26-4]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 136 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
@@ -579,8 +626,8 @@ Les données personnelles sont transmises sur requête aux autorités de surveil
 
 La remise des données et des documents du bureau aux Archives fédérale est régie par la loi fédérale du 26 juin 1998 sur l’archivage[^29-1] et ses ordonnances d’exécution[^29-2].
 
-[^29-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^29-2]: [RS 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371), [152.12](https://fedlex.data.admin.ch/eli/cc/2006/186), [152.13](https://fedlex.data.admin.ch/eli/cc/2011/209), [152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
+[^29-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
+[^29-2]: [RS 152.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4932), [152.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4933), [152.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4934), [152.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4935)
 
 ## Chapitre 7 Dispositions finales
 
@@ -614,14 +661,14 @@ Annexe 1[^t-1]
 
 ## Données pouvant être traitées dans le système d’information
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 27 nov. 2019 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Mise à jour par l’annexe ch. 7 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ### 1 Données relatives à la gestion des communications (gestion des cas)
 
 - 1\.1 Données de base
   - a. Numéro de la communication (numéro de système successif)
   - b. Numéro de l’affaire (numéro de système successif)
-  - c. Numéro de référence de l’intermédiaire financier ou du négociant
+  - c. Numéro de référence de l’intermédiaire financier, du négociant ou du conseiller
   - d. Date de la communication
   - e. Genre de communication
   - f. Canton
@@ -664,7 +711,9 @@ Annexe 1[^t-1]
   - i. Lieu de naissance/Lieu d’origine
   - j. Nationalité
   - k. Profession
+  - k<sup>bis</sup>. Numéro d’assurance sociale
   - l. Adresse e-mail
+  - l<sup>bis</sup>. Profils de médias sociaux
   - m. Date du décès
   - n. Type de numéro de téléphone
   - o. Type de raccordement téléphonique
@@ -712,6 +761,7 @@ Annexe 1[^t-1]
   - h. Canton dans lequel l’entreprise a été fondée
   - i. Société de domicile
   - j. Site Internet
+  - j<sup>bis</sup>. Adresse e-mail
   - k. Date de la liquidation
   - l. Commentaire
   - m. Type d’adresse
@@ -740,6 +790,7 @@ Annexe 1[^t-1]
   - h. Type de raccordement téléphonique
   - i. Indicatif
   - j. Numéro de téléphone
+  - j<sup>bis</sup>. Adresse e-mail
   - k. Type d’adresse
   - l. Adresse
   - m. Code postal
@@ -747,11 +798,12 @@ Annexe 1[^t-1]
   - o. Canton
   - p. Pays
 
-### 4 Données relatives à la gestion des intermédiaires financiers et des négociants
+### 4 Données relatives à la gestion des intermédiaires financiers, des négociants et des conseillers
 
 - 4\.1 Informations concernant l’organisation
   - a. Nom
   - b. Numéro d’identification
+  - b<sup>bis</sup>. BIC / SWIFT
   - c. Date d’enregistrement
 
 - 4\.2 Informations concernant l’utilisateur
@@ -765,6 +817,7 @@ Annexe 1[^t-1]
   - h. Type de raccordement téléphonique
   - i. Indicatif
   - j. Numéro de téléphone
+  - j<sup>bis</sup>. Adresse e-mail
   - k. Type d’adresse
   - l. Adresse
   - m. Code postal
@@ -780,7 +833,7 @@ Annexe 1[^t-1]
   - c. Canton de la relation d’affaires
 
 - 5\.2 Informations concernant le compte
-  - a. Numéro de compte
+  - a. Numéro de compte / Adresse du portefeuille
   - b. IBAN
   - c. Numéro de client
   - d. Nom de compte
@@ -790,6 +843,7 @@ Annexe 1[^t-1]
   - h. Devise du compte
   - i. Solde du compte dans la devise du compte
   - j. Solde du compte en CHF
+  - j<sup>bis</sup>. Date du solde du compte
   - k. Date de l’ouverture du compte
   - l. Date de la fermeture du compte
 
@@ -799,6 +853,7 @@ Annexe 1[^t-1]
   - c. Type de transaction
   - d. Montant de la transaction en devise étrangère / CHF
   - e. Lieu de la transaction (seulement pour les transactions en espèces et les transactions par guichet automatique)
+  - e<sup>bis</sup>. Adresse IP, appareil utilisé pour la transaction et localisation géographique
   - f. Pays de la transaction
   - g. Devise de la transaction
   - h. Commentaire de la transaction

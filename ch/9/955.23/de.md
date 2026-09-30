@@ -4,11 +4,11 @@ title: Verordnung vom 25. August 2004 über die Meldestelle für Geldwäscherei 
 short: MGwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: de
-version: 2024-01-01
+version: 2026-10-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20240101/de"
 
 (MGwV)
 
-vom 25. August 2004 (Stand am 1. Januar 2024)
+vom 25. August 2004 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 8*a* Absatz 5 und 41 Absatz 1 des Geldwäschereigesetzes vom 10. Oktober 1997[^ingress-1] (GwG) sowie auf die Artikel 4 Absatz 1, 13 Absatz 1 und 15 des Bundesgesetzes vom 7. Oktober 1994[^ingress-2] über kriminalpolizeiliche Zentralstellen des Bundes (ZentG),[^ingress-3]
+gestützt auf die Artikel 8*a* Absatz 5, 23 Absatz 7 und 41 Absatz 1 des Geldwäschereigesetzes vom 10. Oktober 1997[^ingress-1] (GwG) sowie auf die Artikel 4 Absatz 1, 13 Absatz 1 und 15 des Bundesgesetzes vom 7. Oktober 1994[^ingress-2] über kriminalpolizeiliche Zentralstellen des Bundes (ZentG),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^ingress-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^ingress-3]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^ingress-3]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ## 1. Kapitel: Aufgaben
 
@@ -41,14 +41,14 @@ Die Meldestelle für Geldwäscherei (Meldestelle) hat folgende Aufgaben:
 
 - a. Sie unterstützt die Strafverfolgungsbehörden in der Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität[^1-2] und der Terrorismusfinanzierung.
 - b. Sie agiert bei der Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung als nationale Meldestelle.
-- c. Sie sensibilisiert die Finanzintermediäre für die Problematik der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung.
+- c.[^1-3] Sie sensibilisiert die Finanzintermediäre sowie die Beraterinnen und Berater für die Problematik der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung.
 - d. Sie veröffentlicht einen anonymisierten statistischen Jahresbericht über die Entwicklung der Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung in der Schweiz.
 
 <sup>2</sup>
 
 Zur Erfüllung ihrer Aufgaben:
 
-- a.[^1-3]
+- a.[^1-4]
 
   nimmt sie Meldungen der folgenden Akteure entgegen und wertet sie aus:
 
@@ -57,29 +57,37 @@ Zur Erfüllung ihrer Aufgaben:
   - 3\. der Aufsichtsorganisationen,
   - 4\. der Eidgenössischen Finanzmarktaufsicht (FINMA),
   - 5\. der Eidgenössischen Spielbankenkommission (ESBK),
-  - 6\. der interkantonalen Aufsichts- und Vollzugsbehörde nach Artikel 105 des Geldspielgesetzes vom 29. September 2017[^1-4] (interkantonale Behörde),
-  - 6<sup>bis</sup>.[^1-5] des Zentralamts für Edelmetallkontrolle (Zentralamt),
+  - 6\. der interkantonalen Aufsichts- und Vollzugsbehörde nach Artikel 105 des Geldspielgesetzes vom 29. September 2017[^1-5] (interkantonale Behörde),
+  - 6<sup>bis</sup>.[^1-6] des Zentralamts für Edelmetallkontrolle (Zentralamt),
   - 7\. der Händlerinnen und Händler nach Artikel 8*a* GwG,
-  - 8\.[^1-6] der Revisionsunternehmen der Händlerinnen und Händler nach Artikel 15 GwG;
+  - 8\.[^1-7] der Revisionsunternehmen der Händlerinnen und Händler nach Artikel 15 GwG,
+  - 9\.[^1-8] der Beraterinnen oder der Berater nach Artikel 2 Absätze 3<sup>bis</sup> und 3<sup>ter</sup> GwG,
+  - 10\.[^1-9] der kantonalen Aufsichtsbehörden nach Artikel 22*b* GwG;
 
 - b. führt sie Abklärungen zu den gemeldeten Vorgängen durch;
-- c.[^1-7] entscheidet sie, ob und welche der gemeldeten Informationen an die Strafverfolgungsbehörden des Bundes und der Kantone übermittelt werden;
+- c.[^1-10] entscheidet sie, ob und welche der gemeldeten Informationen an die Strafverfolgungsbehörden des Bundes und der Kantone übermittelt werden;
 - d. tauscht sie auf nationaler und internationaler Ebene Informationen über die Geldwäscherei, deren Vortaten, die organisierte Kriminalität und die Terrorismusfinanzierung aus;
-- e.[^1-8] betreibt sie ein eigenes Informationssystem zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung;
-- f.[^1-9] wertet sie die Daten über die Geldwäscherei, deren Vortaten, die organisierte Kriminalität und die Terrorismusfinanzierung aus und erstellt dazu anonymisierte Statistiken, die es ihr erlauben, operationelle und strategische Analysen durchzuführen;
-- g.[^1-10] nimmt sie Informationen von Personen und Institutionen nach Artikel 7 des Bundesgesetzes vom 18. Dezember 2015[^1-11] über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen (SRVG) entgegen.
+- d<sup>bis</sup>.[^1-11] tauscht sie auf nationaler Ebene die Informationen, die für die Anwendung des GwG und des Embargogesetzes vom 22. März 2002[^1-12] (EmbG) erforderlich sind, mit dem Staatssekretariat für Wirtschaft (SECO) aus;
+- e.[^1-13] betreibt sie ein eigenes Informationssystem zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung;
+- f.[^1-14] wertet sie die Daten über die Geldwäscherei, deren Vortaten, die organisierte Kriminalität und die Terrorismusfinanzierung aus und erstellt dazu anonymisierte Statistiken, die es ihr erlauben, operationelle und strategische Analysen durchzuführen;
+- g.[^1-15] nimmt sie Informationen von Personen und Institutionen nach Artikel 7 des Bundesgesetzes vom 18. Dezember 2015[^1-16] über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen (SRVG) entgegen.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
 [^1-2]: Ausdruck gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-4]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^1-5]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-6]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-7]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-8]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-9]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^1-10]: Eingefügt durch Ziff. I der V vom 25. Mai. 2016, in Kraft seit 1. Juli. 2016 ([AS 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)).
-[^1-11]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^1-3]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-4]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-5]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^1-6]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-7]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-8]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-9]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-10]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-11]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-12]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^1-13]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-14]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^1-15]: Eingefügt durch Ziff. I der V vom 25. Mai. 2016, in Kraft seit 1. Juli. 2016 ([AS 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)).
+[^1-16]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 ## 2. Kapitel: Bearbeitung von Meldungen und Informationen
 
@@ -108,76 +116,91 @@ Die Meldestelle bearbeitet Meldungen und Informationen nach:[^2-2]
   - 4\. von der interkantonalen Behörde,
   - 5\. vom Zentralamt;
 
-- d.[^2-7] den Artikeln 9 Absatz 1<sup>bis</sup> und 15 Absatz 5 GwG von Händlerinnen und Händlern sowie von deren Revisionsunternehmen;
-- e.[^2-8] Artikel 7 Absätze 1 und 2 SRVG[^2-9].
+- d.[^2-7] den Artikeln 9 Absatz 1<sup>bis</sup>, 11*a* Absatz 1 und 15 Absatz 5 GwG von Händlerinnen und Händlern sowie von deren Revisionsunternehmen;
+- d<sup>bis</sup>.[^2-8] den Artikeln 9 Absatz 1<sup>ter</sup> und 11*a* GwG von Beraterinnen und Beratern;
+- d<sup>ter</sup>.[^2-9] Artikel 9*b* GwG von Beraterinnen und Beratern;
+- d<sup>quater</sup>.[^2-10] Artikel 22*b* Absatz 2 GwG von kantonalen Aufsichtsbehörden;
+- e.[^2-11] Artikel 7 Absätze 1 und 2 SRVG[^2-12].
 
 [^2-1]: Fassung gemäss Anhang Ziff. 10 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
 [^2-3]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^2-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^2-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^2-5]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^2-6]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^2-7]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^2-8]: Eingefügt durch Ziff. I der V vom 25. Mai. 2016 ([AS 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-9]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^2-7]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-8]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-9]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-10]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-11]: Eingefügt durch Ziff. I der V vom 25. Mai. 2016 ([AS 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^2-12]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 #### Art. 3
 
-**Analyse der Meldungen**[^3-1]
+**Inhalt der Meldungen[^3-2]**[^3-1]
 
 <sup>1</sup>
 
-Meldungen nach Artikel 2 Buchstaben a, b und c müssen enthalten:[^3-2]
+Meldungen von Finanzintermediären, die gestützt auf Artikel 9 Absatz 1 und 11*a* GwG sowie 305<sup>ter</sup> Absatz 2 StGB[^3-3] erfolgen, müssen enthalten:[^3-4]
 
-- a. den Namen des Finanzintermediärs, der Behörde oder der Organisation, von dem oder der die Meldung stammt, jeweils unter Angabe einer Telefonnummer, unter der die zuständige Person direkt erreicht werden kann;
-- b. die Behörde oder die Organisation gemäss Artikel 12 GwG oder Artikel 43*a* des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^3-3] welche den Finanzintermediär beaufsichtigt;
+- a.[^3-5] den Namen des meldenden Finanzintermediärs und eine Telefonnummer, unter der die zuständige Person direkt erreicht werden kann;
+- b.[^3-6] die Behörde oder die Organisation gemäss Artikel 12 GwG oder Artikel 43*a* des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^3-7], welche den Finanzintermediär beaufsichtigt;
 - c. die zur Identifikation der Vertragspartei des Finanzintermediärs erforderlichen Angaben nach Massgabe von Artikel 3 GwG;
 - d. die zur Identifikation der wirtschaftlich berechtigten Person erforderlichen Angaben nach Massgabe von Artikel 4 GwG;
 - e. Angaben zu weiteren Personen, die zeichnungsberechtigt oder zur Vertretung der Vertragspartei des Finanzintermediärs befugt sind;
 - f. involvierte Vermögenswerte zum Zeitpunkt der Meldung, einschliesslich des aktuellen Kontostands;
 - g. eine möglichst genaue Darlegung der Geschäftsbeziehung, einschliesslich der Darlegung von deren Art und Zweck sowie der Nummer und des Datums der Eröffnung der betroffenen Geschäftsbeziehung;
-- h. eine möglichst genaue Darlegung und Dokumentierung der Verdachtsmomente, auf die sich die Meldung stützt, einschliesslich der Dokumentation verdächtiger Transaktionen mittels Kontoauszügen und Detailbelegen und allfälliger Verbindungen zu weiteren Geschäftsbeziehungen gemäss Artikel 9 GwG respektive Artikel 305<sup>ter</sup> Absatz 2 StGB[^3-4], sowie das Ergebnis der getroffenen Abklärungen nach Artikel 6 GwG.
+- h. eine möglichst genaue Darlegung und Dokumentierung der Verdachtsmomente, auf die sich die Meldung stützt, einschliesslich der Dokumentation verdächtiger Transaktionen mittels Kontoauszügen und Detailbelegen und allfälliger Verbindungen zu weiteren Geschäftsbeziehungen gemäss Artikel 9 GwG respektive Artikel 305<sup>ter</sup> Absatz 2 StGB[^3-8], sowie das Ergebnis der getroffenen Abklärungen nach Artikel 6 GwG.
 
 <sup>1bis</sup>
 
-Informationen nach Artikel 2 Buchstabe a<sup>bis</sup> müssen die Informationen und Dokumente nach Absatz 1 Buchstaben a und c–g sinngemäss enthalten. Zusätzlich müssen sie enthalten:
+Meldungen von Finanzintermediären zum Abbruch der Geschäftsbeziehung, die gestützt auf Artikel 9*b* Absatz 3 GwG erfolgen, müssen die Informationen und Dokumente nach Absatz 1 Buchstaben a und c–g sinngemäss enthalten. Zusätzlich müssen sie enthalten:[^3-9]
 
 - a. die Referenznummer, welche die Meldestelle der ursprünglichen Meldung zugeteilt hat, mit der die nun abgebrochene Geschäftsbeziehung gemeldet worden ist;
 - b. die Belege zur Bestätigung des Abbruchs und des Datums des Abbruchs der Geschäftsbeziehung;
-- c. die Dokumentation des Rückzugs bedeutender Vermögenswerte im Rahmen des Abbruchs der Geschäftsbeziehung (*Paper Trail*).[^3-5]
+- c. die Dokumentation des Rückzugs bedeutender Vermögenswerte im Rahmen des Abbruchs der Geschäftsbeziehung (*Paper Trail*).[^3-10]
 
-<sup>2</sup> Meldungen nach Artikel 2 Buchstabe d müssen mindestens die Informationen und Dokumente nach Absatz 1 Buchstaben a, c–e und h sinngemäss enthalten.[^3-6]
+<sup>2</sup> Meldungen von Händlerinnen und Händlern oder deren Revisionsunternehmen, die gestützt auf Artikel 9 Absatz 1<sup>bis</sup>, 11*a* Absatz 1 oder 15 Absatz 5 GwG erfolgen, müssen mindestens die Informationen und Dokumente nach Absatz 1 Buchstaben a, c–e und h sinngemäss enthalten.[^3-11]
 
-<sup>3</sup> Sind Personen und Institutionen, die nach Artikel 7 Absätze 1 und 2 SRVG[^3-7] Meldung erstatten, nicht Finanzintermediäre nach GwG, so muss ihre Meldung mindestens die Informationen nach Absatz 1 Buchstabe f, soweit sie ihnen bekannt sind, enthalten.
+<sup>2bis</sup> Meldungen von Beraterinnen und Beratern, die gestützt auf Artikel 9 Absatz 1<sup>ter</sup> und 11*a* GwG erfolgen, müssen mindestens die Informationen und Dokumente nach Absatz 1 Buchstaben a–e, g und h sinngemäss enthalten.[^3-12]
+
+<sup>2ter</sup> Meldungen von Beraterinnen und Beratern zum Abbruch der Geschäftsbeziehung, die gestützt auf Artikel 9*b* Absatz 3 GwG erfolgen, müssen die Informationen und Dokumente nach Absatz 1 Buchstaben a, c–e und g sinngemäss enthalten. Zusätzlich müssen sie die Informationen nach Absatz 1<sup>bis</sup> Buchstaben a und b enthalten.[^3-13]
+
+<sup>2quater</sup> Meldungen von Behörden, Aufsichtsorganisationen oder Selbstregulierungsorganisationen, die gestützt auf Artikel 16 Absatz 1 oder 27 Absatz 4 GwG erfolgen, müssen mindestens die Informationen und Dokumente nach Absatz 1 sinngemäss enthalten.[^3-14]
+
+<sup>3</sup> Sind Personen und Institutionen, die nach Artikel 7 Absätze 1 und 2 SRVG[^3-15] Meldung erstatten, nicht Finanzintermediäre nach GwG, so muss ihre Meldung mindestens die Informationen nach Absatz 1 Buchstabe f, soweit sie ihnen bekannt sind, enthalten.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^3-2]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^3-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^3-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-5]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^3-6]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^3-7]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^3-2]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-4]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-5]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-6]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-7]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^3-8]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-9]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-10]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^3-11]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-12]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-13]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-14]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^3-15]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 #### Art. 3a
 
-**Verkehr mit der Meldestelle**[^3a-1]
+**[Verkehr mit der Meldestelle](https://www.fedlex.admin.ch/eli/cc/2004/626/de)**[^3a-1]
 
-<sup>1</sup> Für den Verkehr mit der Meldestelle stellt die Meldestelle ein Informationssystem zur Verfügung.
+<sup>1</sup> Der Informationsaustausch mit der Meldestelle erfolgt über ein von ihr zur Verfügung gestelltes Informationssystem.
 
-<sup>2</sup> Wer mit der Meldestelle über das Informationssystem verkehrt, muss sich vorgängig darin registrieren.
+<sup>2</sup> Alle Nutzerinnen und Nutzer des Informationssystems müssen sich vorgängig darin registrieren.
 
-<sup>3</sup> Wer die Meldungen nicht über das Informationssystem übermittelt, hat das von der Meldestelle bereitgestellte Meldeformular zu verwenden und die Meldung gesichert zu übermitteln.
-
-<sup>4</sup> Die Informationen und Dokumente nach Artikel 3 müssen der Meldestelle übermittelt werden.[^3a-2]
-
-[^3a-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^3a-2]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^3a-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 4
 
 **Erfassung**[^4-1]
 
-<sup>1</sup> Meldungen und andere der Meldestelle übermittelte Informationen werden bei der Meldestelle im Informationssystem erfasst. Die Meldestelle bestätigt den Eingang der Meldungen nach Erhalt aller Informationen und Dokumente nach den Artikeln 3 und 3*a*. Die Frist gemäss Artikel 9*b* Absatz 1 GwG beginnt am Tag des auf der Empfangsbestätigung vermerkten Eingangsdatums zu laufen.[^4-2]
+<sup>1</sup> Meldungen und andere der Meldestelle übermittelte Informationen werden im Informationssystem erfasst. Die Meldestelle bestätigt den Eingang der Meldungen nach Erhalt aller Informationen und Dokumente nach Artikel 3. Die Frist gemäss Artikel 9*b* Absatz 1 GwG beginnt am Tag des auf der Empfangsbestätigung vermerkten Eingangsdatums zu laufen.[^4-2]
 
 <sup>2</sup> Ist mehr als eine Vertragspartei Gegenstand einer Meldung, so kann die Meldestelle die verschiedenen Geschäftsverbindungen separat behandeln.
 
@@ -186,7 +209,7 @@ Informationen nach Artikel 2 Buchstabe a<sup>bis</sup> müssen die Informationen
 <sup>4</sup> …[^4-4]
 
 [^4-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^4-2]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-2]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 [^4-3]: Aufgehoben durch Anhang Ziff. 6 der V vom 31. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^4-4]: Aufgehoben durch Ziff. I der V vom 27. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
@@ -208,25 +231,26 @@ Zur Erfüllung ihrer gesetzlichen Aufgaben kann die Meldestelle sich die in Arti
 
 #### Art. 7
 
-**Zusammenarbeit mit Behörden, Ämtern sowie Aufsichtsorganisationen und Selbstregulierungsorganisationen[^7-1]**
+**Zusammenarbeit mit Behörden, Aufsichtsorganisationen und Selbstregulierungsorganisationen[^7-1]**
 
 <sup>1</sup>
 
-Die Meldestelle kann von den Behörden und Ämtern sowie von den Aufsichtsorganisationen und Selbstregulierungsorganisationen nach Artikel 4 Absatz 1 ZentG und den Artikeln 29 Absätze 1–2<sup>bis</sup> und 29*b* GwG sämtliche Informationen in Zusammenhang mit Geldwäscherei, deren Vortaten, organisierter Kriminalität oder Terrorismusfinanzierung verlangen oder entgegennehmen, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigt. Die Meldestelle kann insbesondere prüfen, ob:[^7-2]
+Die Meldestelle kann bei den Behörden sowie bei den Aufsichtsorganisationen und Selbstregulierungsorganisationen nach den Artikeln 29 Absätze 1–2<sup>bis</sup> und 29*b* GwG sämtliche Informationen in Zusammenhang mit Geldwäscherei, deren Vortaten, organisierter Kriminalität oder Terrorismusfinanzierung anfragen, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigt, oder solche Informationen von ihnen entgegennehmen. Mit dem SECO ist gemäss Artikel 29 Absatz 1<sup>bis</sup> GwG auch zur Anwendung des EmbG[^7-2] ein Austausch möglich. Die Meldestelle kann insbesondere prüfen, ob:[^7-3]
 
 - a. die betreffende Person oder Gesellschaft gerichtlich oder verwaltungsrechtlich verfolgt wird oder wurde;
 - b. die Person oder Gesellschaft polizeilich aktenkundig ist;
-- c.[^7-3] die gemeldete Person über einen Wohnsitz in der Schweiz verfügt, das Recht hat, sich in der Schweiz aufzuhalten und befugt ist, hier einer Erwerbstätigkeit nachzugehen;
-- d.[^7-4] der Meldung erstattende Finanzintermediär der Aufsicht der FINMA, der ESBK, der interkantonalen Behörde oder des Zentralamts untersteht;
-- e.[^7-5] der Meldung erstattende Finanzintermediär der Aufsicht einer Aufsichts- oder Selbstregulierungsorganisation untersteht.
+- c.[^7-4] die gemeldete Person über einen Wohnsitz in der Schweiz verfügt, das Recht hat, sich in der Schweiz aufzuhalten und befugt ist, hier einer Erwerbstätigkeit nachzugehen;
+- d.[^7-5] der Meldung erstattende Finanzintermediär, die Meldung erstattende Beraterin oder der Meldung erstattende Berater der Aufsicht der FINMA, der ESBK, der interkantonalen Behörde oder des Zentralamts untersteht;
+- e.[^7-6] der Meldung erstattende Finanzintermediär, die Meldung erstattende Beraterin oder der Meldung erstattende Berater der Aufsicht einer Aufsichtsorganisation oder Selbstregulierungsorganisation untersteht.
 
 <sup>2</sup> Informationen können mündlich, elektronisch oder auf Papier ausgetauscht werden.
 
-[^7-1]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^7-2]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^7-3]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^7-4]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^7-5]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^7-1]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-2]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^7-3]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-4]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^7-5]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^7-6]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)). Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ### 3. Abschnitt: Übermittlung von Informationen an eine Strafverfolgungsbehörde
 
@@ -246,17 +270,18 @@ Die Meldestelle kann von den Behörden und Ämtern sowie von den Aufsichtsorgani
 
 #### Art. 9
 
-**Benachrichtigung des Finanzintermediärs**
+**Benachrichtigung des Finanzintermediärs, der Beraterin oder des Beraters[^9-1]**
 
-<sup>1</sup> Die Meldestelle informiert den Finanzintermediär über eine Übermittlung an die zuständige Strafverfolgungsbehörde nach Artikel 23 Absatz 5 GwG.[^9-1]
+<sup>1</sup> Die Meldestelle informiert den Finanzintermediär, die Beraterin oder den Berater über eine Übermittlung an die zuständige Strafverfolgungsbehörde nach Artikel 23 Absatz 5 GwG.[^9-2]
 
-<sup>2</sup> Falls die Angelegenheit einer Strafverfolgungsbehörde übertragen worden ist, dürfen dem Finanzintermediär ohne deren vorausgehende Einwilligung keine Informationen weitergegeben werden.[^9-2]
+<sup>2</sup> Falls die Angelegenheit einer Strafverfolgungsbehörde übertragen worden ist, dürfen dem Finanzintermediär, der Beraterin oder dem Berater ohne deren oder dessen vorausgehende Einwilligung keine Informationen weitergegeben werden.[^9-3]
 
-<sup>3</sup> Übermittelt die Meldestelle einer Strafverfolgungsbehörde gemäss Artikel 23 Absatz 4 GwG gemeldete Informationen oder erhält sie eine Meldung gestützt auf Artikel 9 Absatz 1 Buchstabe c GwG, so informiert sie den Finanzintermediär über die Frist, während der die Vermögenssperre nach Artikel 10 Absatz 2 GwG aufrechterhalten bleibt.[^9-3]
+<sup>3</sup> Übermittelt die Meldestelle einer Strafverfolgungsbehörde gemäss Artikel 23 Absatz 4 GwG gemeldete Informationen oder erhält sie eine Meldung gestützt auf Artikel 9 Absatz 1 Buchstabe c GwG, so informiert sie den Finanzintermediär über die Frist, während der die Vermögenssperre nach Artikel 10 Absatz 2 GwG aufrechterhalten bleibt.[^9-4]
 
-[^9-1]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^9-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^9-3]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^9-1]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^9-2]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^9-3]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^9-4]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 10
 
@@ -272,14 +297,16 @@ Die Meldestelle kann unterrichten:
 - c<sup>bis</sup>.[^10-3] die Aufsichtsorganisationen: über Schritte, die sie aufgrund von Meldungen nach Artikel 2 Buchstabe c Ziffer 2 eingeleitet hat;
 - d.[^10-4] die ESBK: über Schritte, die sie aufgrund von Meldungen nach Artikel 2 Buchstabe c Ziffer 3 eingeleitet hat;
 - e.[^10-5] die interkantonale Behörde: über Schritte, die sie aufgrund von Meldungen nach Artikel 2 Buchstabe c Ziffer 4 eingeleitet hat;
-- f.[^10-6] das Zentralamt: über Schritte, die sie aufgrund von Meldungen nach Artikel 2 Buchstabe c Ziffer 5 eingeleitet hat.[^10-7]
+- f.[^10-6] das Zentralamt: über Schritte, die sie aufgrund von Meldungen nach Artikel 2 Buchstabe c Ziffer 5 eingeleitet hat;
+- g.[^10-7] die Beraterinnen und Berater: über Schritte, die sie aufgrund von Meldungen nach Artikel 2 Buchstabe d<sup>bis</sup> eingeleitet hat;
+- h.[^10-8] die kantonalen Aufsichtsbehörden nach Artikel 22*b* GwG: über Schritte, die sie aufgrund von Meldungen nach Artikel 2 Buchstabe d<sup>quater</sup> eingeleitet hat.[^10-9]
 
 <sup>2</sup>
 
-Stellt die Meldestelle fest, dass ein Finanzintermediär seine Sorgfaltspflicht, seine Pflichten bei Geldwäschereiverdacht oder seine Verpflichtungen bezüglich Herausgabe von Informationen nach Artikel 11*a* GwG verletzt hat, so kann sie nach Artikel 29 Absatz 1 oder 29*b* GwG der zuständigen Aufsichtsbehörde, Aufsichtsorganisation oder Selbstregulierungsorganisation unaufgefordert die folgenden Informationen bekannt geben:[^10-8]
+Stellt die Meldestelle fest, dass ein Finanzintermediär, eine Beraterin oder ein Berater seine oder ihre Sorgfaltspflicht, seine oder ihre Pflichten bei Geldwäschereiverdacht oder seine oder ihre Verpflichtungen bezüglich Herausgabe von Informationen nach Artikel 11*a* GwG verletzt hat, so kann sie nach Artikel 29 Absatz 1 oder 29*b* GwG der zuständigen Aufsichtsbehörde, Aufsichtsorganisation oder Selbstregulierungsorganisation unaufgefordert die folgenden Informationen bekannt geben:[^10-10]
 
-- a.[^10-9] Name des betroffenen Finanzintermediärs;
-- b.[^10-10] …
+- a.[^10-11] Name des betroffenen Finanzintermediärs beziehungsweise der betroffenen Beraterin oder des betroffenen Beraters;
+- b.[^10-12] …
 - c. Höhe der betroffenen Vermögenswerte;
 - d. Art und Weise der Pflichtverletzung;
 - e. befasste Strafverfolgungsbehörde.
@@ -292,10 +319,12 @@ Stellt die Meldestelle fest, dass ein Finanzintermediär seine Sorgfaltspflicht,
 [^10-4]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^10-5]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^10-6]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^10-7]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^10-8]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^10-9]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^10-10]: Aufgehoben durch Anhang Ziff. 6 der V vom 31. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^10-7]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-8]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-9]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^10-10]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-11]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-12]: Aufgehoben durch Anhang Ziff. 6 der V vom 31. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 11
 
@@ -356,17 +385,18 @@ Das Informationssystem dient der Meldestelle:[^14-1]
 - b.[^14-2] bei der Durchführung von Abklärungen in Fällen von Geldwäscherei, deren Vortaten, organisierter Kriminalität und Terrorismusfinanzierung;
 - c.[^14-3] in der Zusammenarbeit mit den eidgenössischen und kantonalen Strafbehörden;
 - d.[^14-4] in der Zusammenarbeit mit den ausländischen Behörden nach Artikel 13;
-- e.[^14-5] in der Zusammenarbeit mit der FINMA, der ESBK, der interkantonalen Behörde, dem Zentralamt sowie den Aufsichtsorganisationen und den Selbstregulierungsorganisationen;
-- e<sup>bis</sup>.[^14-6] in der Zusammenarbeit mit den übrigen Behörden nach Artikel 29 Absatz 2 GwG;
-- f.[^14-7] für die Erarbeitung strategischer Analysen auf der Grundlage anonymisierter Statistiken.
+- e.[^14-5] in der Zusammenarbeit mit der FINMA, der ESBK, der interkantonalen Behörde, dem Zentralamt, dem Bundesamt für Justiz in seiner Eigenschaft als Behörde, die nach dem Bundesgesetz vom 26 September 2025[^14-6] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen (TJPG) das Transparenzregister führt, dem Eidgenössischen Finanzdepartement in seiner Eigenschaft als Kontrollstelle nach TJPG, dem SECO sowie den Aufsichtsorganisationen und den Selbstregulierungsorganisationen;
+- e<sup>bis</sup>.[^14-7] in der Zusammenarbeit mit den übrigen Behörden nach Artikel 29 Absatz 2 GwG;
+- f.[^14-8] für die Erarbeitung strategischer Analysen auf der Grundlage anonymisierter Statistiken.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^14-2]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^14-3]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^14-4]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^14-5]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^14-6]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^14-7]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^14-5]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^14-6]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^14-7]: Eingefügt durch Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^14-8]: Eingefügt durch Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 
 #### Art. 15
 
@@ -406,13 +436,23 @@ Für die Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten K
 - b.[^16-4] Personen und Gesellschaften, gegen die der Verdacht besteht, dass sie einen der Straftatbestände nach Artikel 23 Absatz 4 GwG erfüllt haben oder eine entsprechende Straftat vorbereiten oder unterstützen.
 - c.[^16-5] …
 
-<sup>2</sup> Über Drittpersonen, auf die die Kriterien nach Absatz 1 nicht zutreffen, können im Informationssystem Daten verzeichnet werden, soweit dies den Zwecken nach Artikel 14 dient.
+<sup>1bis</sup>
+
+Für die Anwendung des GwG und des EmbG[^16-6] werden im Informationssystem Daten bearbeitet über:
+
+- a. Finanztransaktionen in dem für den Verdacht relevanten Zeitraum;
+- b. Personen und Gesellschaften, gegen die der Verdacht besteht, dass sie gegen das GwG oder das EmbG verstossen haben.[^16-7]
+
+<sup>2</sup> Über Dritte, auf welche die Kriterien nach Absatz 1 nicht zutreffen, können im Informationssystem Daten verzeichnet werden, soweit dies den Zwecken nach Artikel 14 dient.[^16-8]
 
 [^16-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^16-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^16-4]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^16-5]: Aufgehoben durch Anhang Ziff. 6 der V vom 31. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^16-6]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^16-7]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^16-8]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 17
 
@@ -436,7 +476,7 @@ Das Informationssystem dient der:
 
   - 1\.[^18-2] von Meldungen und Informationen,
   - 2\. von Informationen ausländischer Meldestellen,
-  - 3\. des Informationsaustauschs unter Behörden,
+  - 3\.[^18-3] des Informationsaustauschs zwischen der Meldestelle und Behörden, Aufsichtsorganisationen und Selbstregulierungsorganisationen,
   - 4\. von Transaktionen,
   - 5\. von Daten zu natürlichen und juristischen Personen,
   - 6\. thematischer Gruppierungen,
@@ -451,6 +491,7 @@ Das Informationssystem dient der:
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^18-2]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^18-3]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 19
 
@@ -466,9 +507,9 @@ Für die Datensicherheit gelten:
 <sup>2</sup> Das Bundesamt für Polizei (fedpol) regelt in einem Datenbearbeitungsreglement die organisatorischen und technischen Massnahmen, die unbefugtes Bearbeiten der Daten verhindern und die automatische Protokollierung der Datenbearbeitung sicherstellen.[^19-6]
 
 [^19-1]: Fassung gemäss Anhang 2 Ziff. II 136 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^19-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^19-3]: Fassung gemäss Anhang 2 Ziff. II 45 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^19-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^19-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^19-5]: Fassung gemäss Anhang Ziff. 38 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^19-6]: Fassung gemäss Ziff. I 20 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
@@ -485,14 +526,19 @@ Zugriff auf das Informationssystem mittels Abrufverfahren haben:
 
 <sup>2</sup>
 
-Die Behörden nach Artikel 35 Absatz 2 GwG haben mittels Abrufverfahren Zugriff auf die Personalien der im System erfassten natürlichen und juristischen Personen, soweit sie diesen Zugriff für einen der folgenden Zwecke benötigen:
+Die Behörden nach Artikel 35 Absatz 2 Buchstaben a–f und h GwG haben mittels Abrufverfahren Zugriff auf die Informationen der im System erfassten natürlichen und juristischen Personen, soweit sie diesen Zugriff für einen der folgenden Zwecke benötigen:[^20-2]
 
 - a. zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung;
 - b. zur Anwendung des GwG.
 
+<sup>2bis</sup> Das SECO hat mittels Abrufverfahren Zugriff auf die Informationen der im System erfassten natürlichen und juristischen Personen, soweit es diesen Zugriff zur Anwendung des GwG und des EmbG[^20-3] benötigt.[^20-4]
+
 <sup>3</sup> Wird im Zuge des Abgleichs ein Treffer erzielt, können die Behörden nach Artikel 35 Absatz 2 GwG die Meldestelle ersuchen, weitere Angaben zu übermitteln.
 
 [^20-1]: Fassung gemäss Anhang Ziff. 6 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^20-2]: Fassung gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^20-3]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^20-4]: Eingefügt durch Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 21 und 22
 
@@ -559,8 +605,8 @@ Die Personendaten werden den Aufsichtsbehörden des Bundes und der Kantone sowie
 <sup>2</sup> Die Meldestelle verweigert die Weitergabe von Daten aus dem Informationssystem, wenn überwiegende öffentliche oder private Interessen entgegenstehen.
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^26-2]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
-[^26-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^26-2]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^26-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^26-4]: Fassung des dritten Satzes gemäss Anhang 2 Ziff. II 136 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 27
@@ -585,8 +631,8 @@ Die Personendaten werden den Aufsichtsbehörden des Bundes und der Kantone sowie
 
 Die Ablieferung von Daten und Unterlagen der Meldestelle an das Bundesarchiv richtet sich nach dem Archivierungsgesetz vom 26. Juni 1998[^29-1] und nach seinen Ausführungsvorschriften[^29-2].
 
-[^29-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^29-2]: [SR 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371)**/152.12/152.13/152.21**
+[^29-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
+[^29-2]: [SR 152.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4932)**/152.12/152.13/152.21**
 
 ## 7. Kapitel: Schlussbestimmungen
 
@@ -620,14 +666,14 @@ Anhang 1[^t-1]
 
 ## Daten, die im Informationssystem bearbeitet werden können
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 27. Nov. 2019 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Bereinigt gemäss Anhang Ziff. 7 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ### 1 Daten im Zusammenhang mit der Verwaltung der Meldungen (Fallverwaltung)
 
 - 1\.1 Basisdaten
   - a. Nummer der Meldung (fortlaufende Nummerierung)
   - b. Fallnummer (fortlaufende Nummerierung)
-  - c. Referenznummer des Finanzintermediärs sowie der Händlerin oder des Händlers
+  - c. Referenznummer des Finanzintermediärs, der Händlerin oder des Händlers sowie der Beraterin oder des Beraters
   - d. Datum der Meldung
   - e. Art der Meldung
   - f. Kanton
@@ -670,7 +716,9 @@ Anhang 1[^t-1]
   - i. Geburtsort/Heimatort
   - j. Nationalität
   - k. Beruf
+  - k<sup>bis</sup>. Sozialversicherungsnummer
   - l. E-Mail-Adresse
+  - l<sup>bis</sup>. *Social Media* Profile
   - m. Sterbedatum
   - n. Telefonnummerart
   - o. Telefonanschlussart
@@ -718,6 +766,7 @@ Anhang 1[^t-1]
   - h. Gründungskanton
   - i. Sitzgesellschaft
   - j. Homepage
+  - j<sup>bis</sup>. E-Mail-Adresse
   - k. Liquidationsdatum
   - l. Kommentar
   - m. Adressart
@@ -746,6 +795,7 @@ Anhang 1[^t-1]
   - h. Telefonanschlussart
   - i. Vorwahl
   - j. Telefonnummer
+  - j<sup>bis</sup>. E-Mail-Adresse
   - k. Adressart
   - l. Adresse
   - m. PLZ
@@ -753,11 +803,12 @@ Anhang 1[^t-1]
   - o. Kanton
   - p. Land
 
-### 4 Daten im Zusammenhang mit der Verwaltung der Finanzintermediäre und Händler
+### 4 Daten im Zusammenhang mit der Verwaltung der Finanzintermediäre, Händler und Berater
 
 - 4\.1 Angaben zur Organisation
   - a. Name
   - b. Identifikationsnummer
+  - b<sup>bis</sup>. BIC/SWIFT
   - c. Registrierungsdatum
 
 - 4\.2 Angaben zur Benutzerin oder zum Benutzer
@@ -771,6 +822,7 @@ Anhang 1[^t-1]
   - h. Telefonanschlussart
   - i. Vorwahl
   - j. Telefonnummer
+  - j<sup>bis</sup>. E-Mail-Adresse
   - k. Adressart
   - l. Adresse
   - m. PLZ
@@ -786,7 +838,7 @@ Anhang 1[^t-1]
   - c. Kanton der Geschäftsbeziehung
 
 - 5\.2 Angaben zum Konto
-  - a. Kontonummer
+  - a. Kontonummer/Wallet-Adresse
   - b. IBAN
   - c. Kundennummer
   - d. Kontoname
@@ -796,6 +848,7 @@ Anhang 1[^t-1]
   - h. Kontowährung
   - i. Kontostand in Kontowährung
   - j. Kontostand in CHF
+  - j<sup>bis</sup>. Datum Kontostand
   - k. Datum der Kontoeröffnung
   - l. Datum der Kontoschliessung
 
@@ -805,6 +858,7 @@ Anhang 1[^t-1]
   - c. Transaktionsart
   - d. Transaktionsbetrag Fremdwährung / CHF
   - e. Transaktionsort (nur bei Bar- resp. ATM-Transaktionen)
+  - e<sup>bis</sup>. IP-Adresse, für die Transaktion verwendetes Gerät und geografischer Standort
   - f. Transaktionsland
   - g. Transaktionswährung
   - h. Transaktionskommentar
