@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sul casellario giudiziale informatizza
 short: LCaGi
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: it
-version: 2025-06-15
+version: 2026-10-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250615/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250615-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2022-600-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/it"
 
 (Legge sul casellario giudiziale, LCaGi)
 
-del 17 giugno 2016 (Stato 15 giugno 2025)
+del 17 giugno 2016 (Stato 1° ottobre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -917,7 +917,8 @@ Le seguenti autorità collegate possono consultare mediante procedura di richiam
 <tr><td>l. l’autorità federale competente per l’esecuzione della legge federale del 27 settembre 2013[^46-26] sulle prestazioni di sicurezza private fornite all’estero (LPSP):</td><td></td><td>per effettuare controlli riguardo alle persone responsabili di un’impresa ai sensi dell’art. 2 LPSP o alle persone che forniscono prestazioni di sicurezza private all’estero;</td></tr>
 <tr><td>m. l’Ufficio federale di statistica:</td><td></td><td>per trattare i dati conformemente alla legge del 9 ottobre 1992[^46-27] sulla statistica federale (LStat), in particolare per: – completare i dati concernenti una persona – garantire la qualità qualora sentenze siano comunicate più volte;</td></tr>
 <tr><td>n. i servizi centrali cantonali cui competono le comunicazioni per la cancellazione dei profili del DNA e di altri dati segnaletici:</td><td></td><td>per esaminare se sono adempiute le condizioni per la cancellazione di profili del DNA secondo gli art. 16–19 della legge del 20 giugno 2003 sui profili del DNA e di dati segnaletici secondo l’art. 354 CP;</td></tr>
-<tr><td>o. l’organo d’esecuzione del servizio civile[^46-28]:</td><td></td><td>1. per pronunciare l’esclusione dal servizio civile o da prestazioni di servizio civile secondo la legge del 6 ottobre 1995[^46-29] sul servizio civile (LSC), 2. per verificare la reputazione di una persona in vista di determinati impieghi secondo la LSC.</td></tr>
+<tr><td>o. l’organo d’esecuzione del servizio civile[^46-28]:</td><td></td><td>1. per pronunciare l’esclusione dal servizio civile o da prestazioni di servizio civile secondo la legge del 6 ottobre 1995[^46-29] sul servizio civile (LSC), 2. per verificare la reputazione di una persona in vista di determinati impieghi secondo la LSC;</td></tr>
+<tr><td>p.[^46-30] l’autorità di controllo aggregata al Dipartimento federale delle finanze secondo l’art. 39 cpv. 1 della legge del 26 settembre 2025[^46-31] sulla trasparenza delle persone giuridiche (LTPG):</td><td></td><td>per identificare le violazioni dell’obbligo di annuncio e svolgere procedure di controllo secondo l’art. 36 cpv. 1 lett. c LTPG.</td></tr>
 </table>
 
 [^46-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
@@ -949,6 +950,8 @@ Le seguenti autorità collegate possono consultare mediante procedura di richiam
 [^46-27]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^46-28]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
 [^46-29]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^46-30]: Introdotta dall’all. n. 4 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^46-31]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 47
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur le casier judiciaire informatique VOS
 short: LCJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: fr
-version: 2025-06-15
+version: 2026-10-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250615-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2022-600-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/fr"
 
 (Loi sur le casier judiciaire, LCJ)[^t-1]
 
-du 17 juin 2016 (État le 15 juin 2025)
+du 17 juin 2016 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -923,7 +923,8 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 <tr><td>l. l’autorité fédérale chargée de l’exécution de la loi fédérale du 27 septembre 2013 sur les prestations de sécurité privées fournies à l’étranger (LPSP)[^46-26]:</td><td></td><td>pour contrôler les personnes responsables d’une entreprise au sens de l’art. 2 LPSP ou les personnes qui fournissent des prestations de sécurité privées à l’étranger;</td></tr>
 <tr><td>m. l’Office fédéral de la statistique:</td><td></td><td>pour traiter des données conformément à la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^46-27], en particulier pour: – compléter les données concernant une personne – assurer la qualité en cas de communication à double de jugements;</td></tr>
 <tr><td>n. les services centraux des cantons chargés des communications en vue de l’effacement des profils d’ADN et autres données signalétiques:</td><td></td><td>pour examiner si les conditions sont réunies pour l’effacement des profils d’ADN au sens des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN et des données signalétiques au sens de l’art. 354 CP;</td></tr>
-<tr><td>o. l’Organe d’exécution du service civil[^46-28]:</td><td></td><td>1. pour prononcer l’exclusion du service civil ou l’interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil (LSC)[^46-29], 2. pour examiner la réputation pour certaines affectations en vertu de la LSC.</td></tr>
+<tr><td>o. l’Organe d’exécution du service civil[^46-28]:</td><td></td><td>1. pour prononcer l’exclusion du service civil ou l’interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil (LSC)[^46-29], 2. pour examiner la réputation pour certaines affectations en vertu de la LSC;</td></tr>
+<tr><td>p.[^46-30] l’autorité de contrôle rattachée au Département fédéral des finances au sens de l’art. 39 al. 1, de la loi du 26 septembre 2025 sur la transparence des personnes morales (LTPM)[^46-31]:</td><td></td><td>pour identifier les violations des obligations d’annonce et conduire des procédures de contrôle en application de l’art. 36, al. 1, let. c, LTPM.</td></tr>
 </table>
 
 [^46-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
@@ -955,6 +956,8 @@ Les autorités raccordées suivantes peuvent consulter en ligne toutes les donn�
 [^46-27]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^46-28]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
 [^46-29]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^46-30]: Introduite par l’annexe ch. 4 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^46-31]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 47
 

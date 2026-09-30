@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über das Strafregister-Informationssyste
 short: StReG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/600"
 language: de
-version: 2025-06-15
+version: 2026-10-01
 adopted: 2016-06-17
 in_force: 2023-01-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20250615-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/600/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2022-600-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/600/20250615/de"
 
 (Strafregistergesetz, StReG)
 
-vom 17. Juni 2016 (Stand am 15. Juni 2025)
+vom 17. Juni 2016 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -917,7 +917,8 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 <tr><td>l. die für den Vollzug des Bundesgesetzes vom 27. September 2013[^46-27] über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS) zuständige Bundesbehörde:</td><td></td><td>für die Überprüfung von Personen, die für ein Sicherheitsunternehmen nach Art. 2 BPS verantwortlich sind oder die private Sicherheitsdienstleistungen im Ausland erbringen;</td></tr>
 <tr><td>m. das Bundesamt für Statistik:</td><td></td><td>für die Bearbeitung der Daten nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^46-28] (BStatG), insbesondere für: – die Ergänzung der fehlenden Daten zur Person – die Qualitätssicherung bei Mehrfachlieferungen von Urteilen;</td></tr>
 <tr><td>n. die für die Meldungen zur Löschung von DNA-Profilen und weiteren erkennungsdienstlichen Daten zuständigen zentralen Stellen der Kantone:</td><td></td><td>für die Abklärung der Voraussetzungen für die Löschung von Profilen nach den Art. 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003 sowie von erkennungsdienstlichen Daten nach Art. 354 StGB;</td></tr>
-<tr><td>o. die Vollzugsstelle für den Zivildienst[^46-29]:</td><td></td><td>1. für den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995[^46-30] (ZDG), 2. für die Prüfung des Leumundes für bestimmte Einsätze nach dem ZDG.</td></tr>
+<tr><td>o. die Vollzugsstelle für den Zivildienst[^46-29]:</td><td></td><td>1. für den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995[^46-30] (ZDG), 2. für die Prüfung des Leumundes für bestimmte Einsätze nach dem ZDG;</td></tr>
+<tr><td>p.[^46-31] die dem Eidgenössischen Finanzdepartement angegliederte Kontrollstelle gemäss Artikel 39 Absatz 1 des Bundesgesetzes vom 26. September 2025[^46-32] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen (TJPG):</td><td></td><td>für die Erkennung von Meldepflichtverletzungen und die Durchführung von Kontrollverfahren nach Artikel 36 Absatz 1 Buchstabe c TJPG.</td></tr>
 </table>
 
 [^46-1]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
@@ -950,6 +951,8 @@ Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Be
 [^46-28]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^46-29]: Seit 1. Jan. 2019: Bundesamt für Zivildienst.
 [^46-30]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^46-31]: Eingefügt durch Anhang Ziff. 4 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^46-32]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 47
 
@@ -1018,7 +1021,7 @@ Folgende nicht angeschlossene Behörden können auf schriftliches Gesuch hin in 
 <tr><td>c. die für die Bewilligung und Aufsicht im Bereich der Pflegekinderaufsicht nach Art. 316 Abs. 2 ZGB zuständigen kantonalen Behörden:</td><td></td><td>für die Leumundsprüfung von Einrichtungen und Betreuungspersonen, die einer Bewilligungspflicht und einer Beaufsichtigung nach Bundesrecht oder kantonalem Recht unterstehen;</td></tr>
 <tr><td>d. die kantonalen Adoptionsbehörden nach Art. 316 Abs. 1<sup>bis</sup> ZGB:</td><td></td><td>für die Prüfung der Adoptionseignung künftiger Adoptiveltern;</td></tr>
 <tr><td>e. die Zentralstelle Internationale Adoptionen des Bundesamtes für Justiz:</td><td></td><td>für die Erhebung und den Austausch von Informationen über künftige Adoptiveltern im Rahmen von internationalen Adoptionsverfahren;</td></tr>
-<tr><td>f.[^51-2] ...</td><td></td><td></td></tr>
+<tr><td>f.[^51-2] …</td><td></td><td></td></tr>
 <tr><td>g. die Zivilgerichte:</td><td></td><td>für die Beweiserhebung, insbesondere bei der Anordnung und Aufhebung von Kindesschutzmassnahmen;</td></tr>
 <tr><td>h. das Bundesamt für Sport:</td><td></td><td>für die Leumundsprüfung im Hinblick auf die Erteilung, Sistierung oder den Entzug einer Anerkennung als «Jugend und Sport»-Kader nach Art. 10 des Sportförderungsgesetzes vom 17. Juni 2011[^51-3];</td></tr>
 <tr><td>i. die für die Begnadigung zuständigen Behörden des Bundes und der Kantone:</td><td></td><td>für die Durchführung von Begnadigungsverfahren;</td></tr>
