@@ -4,24 +4,25 @@ number: "219.210"
 title: Verordnung über die Zusammenarbeit und Koordination in der Jugendhilfe
 language: de
 version: 2007-01-01
-corrected: 2014-11-09
+corrected: 2026-10-01
 version_adopted: 2006-08-15
 adopted: 2006-08-15
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/219.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/757/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2318/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zusammenarbeit und Koordination in der Jugendhilfe
 
-Gestützt auf Art. 41 Abs. 4 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 12. Juni 1994[^t-1]
+Vom 15.08.2006 (Stand 01.01.2007)
+
+Gestützt auf Art. 41 Abs. 4 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 12. Juni 1994[^ingress-1]
 
 von der Regierung erlassen am 15. August 2006
 
-[^t-1]: BR 210.100
+[^ingress-1]: BR [210.100](https://www.gr-lex.gr.ch/data/210.100/de)
 
 #### Art. 1
 
@@ -35,10 +36,10 @@ von der Regierung erlassen am 15. August 2006
 
 **Aufgaben**
 
-<sup>1</sup> Die Kommission a) erarbeitet Grundlagen für die koordinierte Zusammenarbeit zwischen den auf dem Gebiet des zivilrechtlichen Kindesschutzes, des Jugendstrafrechts und der übrigen Jugendhilfe involvierten Behörden und Stellen und überprüft diese Grundlagen periodisch auf ihre Zweckmässigkeit;
+<sup>1</sup> Die Kommission
 
+- a) erarbeitet Grundlagen für die koordinierte Zusammenarbeit zwischen den auf dem Gebiet des zivilrechtlichen Kindesschutzes, des Jugendstrafrechts und der übrigen Jugendhilfe involvierten Behörden und Stellen und überprüft diese Grundlagen periodisch auf ihre Zweckmässigkeit;
 - b) beurteilt die Zweckmässigkeit von Erlassen auf dem Gebiet des zivilrechtlichen Kindesschutzes, des Jugendstrafrechts und der übrigen Jugendhilfe;
-
 - c) beobachtet die Entwicklungen und Trends in Fragen des Kindesschutzes und berät das Departement hinsichtlich der möglichen Auswirkungen und des allfälligen Handlungsbedarfs.
 
 <sup>2</sup> Vom Aufgabenbereich der Kommission ausgenommen sind hängige Verfahren im Bereich des zivilrechtlichen Kindesschutzes, des Jugendstrafrechts und der übrigen Jugendhilfe.
@@ -55,10 +56,12 @@ von der Regierung erlassen am 15. August 2006
 
 **Geschäftsstelle**
 
-Geschäftstelle ist das kantonale Sozialamt.
+<sup>1</sup> Geschäftstelle ist das kantonale Sozialamt.
 
 #### Art. 5
 
 **In-Kraft-Treten**
 
-Diese Verordnung tritt am 1.1.2007 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2007 in Kraft.
+
+-

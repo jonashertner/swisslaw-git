@@ -4,24 +4,25 @@ number: "219.210"
 title: "Ordinaziun davart la collavuraziun e davart la coordinaziun en l'agid per la giuventetgna"
 language: rm
 version: 2007-01-01
-corrected: 2014-11-09
+corrected: 2026-10-01
 version_adopted: 2006-08-15
 adopted: 2006-08-15
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/219.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/757/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2318/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart la collavuraziun e davart la coordinaziun en l'agid per la giuventetgna
 
-sa basond sin l'art. 41 al. 4 da la lescha introductiva tar il cudesch civil svizzer dals 12 da zercladur 1994[^t-1]
+dals 15-08-2006 (versiun dals 01-01-2007)
+
+sa basond sin l'art. 41 al. 4 da la lescha introductiva tar il cudesch civil svizzer dals 12 da zercladur 1994[^ingress-1]
 
 relaschada da la regenza ils 15 d'avust 2006
 
-[^t-1]: DG 210.100 1-7-2007 1
+[^ingress-1]: DG [210.100](https://www.gr-lex.gr.ch/data/210.100/rm)
 
 #### Art. 1
 
@@ -38,9 +39,7 @@ relaschada da la regenza ils 15 d'avust 2006
 <sup>1</sup> La cumissiun:
 
 - a) elavura la basa per la collavuraziun coordinada tranter las autoritads ed ils posts ch'èn involvids sin il champ da la protecziun da l'uffant tenor il dretg civil, sin il champ dal dretg penal per giuvenils e sin il champ da l'ulteriur agid per la giuventetgna ed examinescha periodicamain che questa basa saja cunvegnenta;
-
 - b) giuditgescha, sche relaschs sin il champ da la protecziun da l'uffant tenor il dretg civil, sin il champ dal dretg penal per giuvenils e sin il champ da l'ulteriur agid per la giuventetgna èn cunvegnents;
-
 - c) observa ils svilups e las tendenzas en dumondas da la protecziun da l'uffant e cusseglia il departament areguard las consequenzas pussaivlas ed areguard in eventual basegn d'agir.
 
 <sup>2</sup> Exceptadas dal champ d'incumbensas da la cumissiun èn proceduras pendentas en il sectur da la protecziun da l'uffant tenor il dretg civil, en il sectur dal dretg penal per giuvenils ed en il sectur da l'ulteriur agid per la giuventetgna.
@@ -57,12 +56,12 @@ relaschada da la regenza ils 15 d'avust 2006
 
 **Secretariat**
 
-L'uffizi chantunal dal servetsch social maina il secretariat.
+<sup>1</sup> L'uffizi chantunal dal servetsch social maina il secretariat.
 
 #### Art. 5
 
-Entrada en vigur Questa ordinaziun entra en vigur il 1. da schaner 2007.
+**Entrada en vigur**
 
-**2**
+<sup>1</sup> Questa ordinaziun entra en vigur il 1. da schaner 2007.
 
-1-7-2007
+-

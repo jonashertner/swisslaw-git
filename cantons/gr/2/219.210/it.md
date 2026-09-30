@@ -4,24 +4,25 @@ number: "219.210"
 title: "Ordinanza sulla cooperazione e sul coordinamento dell'aiuto alla gioventù"
 language: it
 version: 2007-01-01
-corrected: 2014-11-09
+corrected: 2026-10-01
 version_adopted: 2006-08-15
 adopted: 2006-08-15
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/219.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/757/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2318/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza sulla cooperazione e sul coordinamento dell'aiuto alla gioventù
 
+del 15.08.2006 (stato 01.01.2007)
+
 emanata dal Governo il 15 agosto 2006
 
-visto l'art. 41 cpv. 4 della legge d'introduzione al Codice civile svizzero del 12 giugno 1994[^t-1]
+visto l'art. 41 cpv. 4 della legge d'introduzione al Codice civile svizzero del 12 giugno 1994[^ingress-1]
 
-[^t-1]: BR 210.100 1.7.2007 1
+[^ingress-1]: BR [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
 
 #### Art. 1
 
@@ -35,10 +36,10 @@ visto l'art. 41 cpv. 4 della legge d'introduzione al Codice civile svizzero del 
 
 **Compiti**
 
-<sup>1</sup> La Commissione a) elabora basi per la cooperazione coordinata tra le autorità e gli uffici che operano nel campo della protezione dell'infanzia secondo il diritto civile, del diritto penale minorile ed in genere dell'aiuto alla gioventù ed esamina periodicamente la funzionalità di queste basi;
+<sup>1</sup> La Commissione
 
+- a) elabora basi per la cooperazione coordinata tra le autorità e gli uffici che operano nel campo della protezione dell'infanzia secondo il diritto civile, del diritto penale minorile ed in genere dell'aiuto alla gioventù ed esamina periodicamente la funzionalità di queste basi;
 - b) valuta l'opportunità di atti normativi nell'ambito della protezione dell'infanzia secondo il diritto civile, del diritto penale minorile ed in genere dell'aiuto alla gioventù;
-
 - c) osserva gli sviluppi e le tendenze in relazione alla protezione dell'infanzia e offre consulenza al Dipartimento in merito alle possibili conseguenze e ad un'eventuale necessità d'azione.
 
 <sup>2</sup> Sono escluse dalla sfera dei compiti della Commissione le procedure pendenti nell'ambito della protezione dell'infanzia secondo il diritto civile, del diritto penale minorile ed in genere dell'aiuto alla gioventù.
@@ -55,12 +56,12 @@ visto l'art. 41 cpv. 4 della legge d'introduzione al Codice civile svizzero del 
 
 **Segretariato**
 
-L'Ufficio cantonale del servizio sociale è il segretariato.
+<sup>1</sup> L'Ufficio cantonale del servizio sociale è il segretariato.
 
 #### Art. 5
 
-Entrata in vigore La presente ordinanza entra in vigore il 1° gennaio 2007.
+**Entrata in vigore**
 
-**2**
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2007.
 
-1.7.2007
+-
