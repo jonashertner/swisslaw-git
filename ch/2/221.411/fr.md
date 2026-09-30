@@ -4,11 +4,11 @@ title: Ordonnance du 17 octobre 2007 sur le registre du commerce (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: fr
-version: 2025-01-01
+version: 2026-10-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/fr"
 
 (ORC)
 
-du 17 octobre 2007 (État le 1<sup>er</sup> janvier 2025)
+du 17 octobre 2007 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 621, al. 2, 933, al. 2, 943 et 950, al. 2, du code des obligations (
 
 arrête:
 
-[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ## Titre 1 Dispositions générales
@@ -186,9 +186,12 @@ Sont exceptés de la publicité du registre du commerce au sens de l’art. 936 
 - c. les copies des documents d’identité;
 - d. les documents mentionnés à l’art. 62, al. 2;
 - e. les communications et documents, qui sont établis et transmis dans le cadre de l’examen des interdictions d’exercer une activité prévu à l’art. 928*a,* al. 2<sup>bis</sup> à 2<sup>quater</sup>, CO;
-- f. les documents mentionnés à l’art. 65*a*, al. 1.
+- f. les documents mentionnés à l’art. 65*a*, al. 1;
+- g.[^10-2] les annonces effectuées en lien avec la loi du 26 septembre 2025 sur la transparence des personnes morales[^10-3].
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^10-2]: Introduite par l’annexe ch. 4 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-3]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 11
 
@@ -215,7 +218,7 @@ Sur demande, les offices du registre du commerce autorisent la consultation du r
 
 [^11-1]: Abrogé par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^11-2]: Abrogé par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^11-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^11-3]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 [^11-4]: Introduit par l’annexe ch. II 4 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 12
@@ -248,7 +251,7 @@ L’office du registre du commerce appose sur les copies papier légalisées la 
 <sup>3</sup> Les légalisations électroniques et l’établissement de copies papier légalisées de documents électroniques sont régis par l’OAAE.
 
 [^12a-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^12a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^12a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 ### Chapitre 6 Communication électronique
 
@@ -262,8 +265,8 @@ L’office du registre du commerce appose sur les copies papier légalisées la 
 
 Sous réserve de dispositions divergentes de la présente ordonnance, la communication électronique avec le registre du commerce est régie par les art. 130, al. 2, et 143, al. 2, du code de procédure civile (CPC)[^12b-1] et par l’ordonnance du 18 juin 2010 sur la communication électronique dans le cadre de procédures civiles et pénales et de procédures en matière de poursuite pour dettes et de faillite[^12b-2].
 
-[^12b-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^12b-2]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^12b-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^12b-2]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 
 #### Art. 12c
 
@@ -278,9 +281,9 @@ Les requêtes électroniques peuvent être adressées aux offices du registre du
 
 <sup>2</sup> L’OFRC peut édicter des dispositions relatives au déroulement et à l’automatisation de la communication électronique, notamment en ce qui concerne les formulaires, les formats de banques de données, les structures de données, les processus et les procédures alternatives de transmission.[^12c-4]
 
-[^12c-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^12c-1]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 [^12c-2]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^12c-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^12c-3]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^12c-4]: Nouvelle teneur selon l’annexe 2 ch. II 29 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12d
@@ -408,7 +411,7 @@ La réquisition peut également être le fait des personnes intéressées:
 <sup>4</sup> Les réquisitions électroniques doivent être munies d’une signature électronique qualifiée avec horodatage électronique qualifié au sens de l’art. 2, let. e et j, SCSE[^18-2]. Sous réserve de l’art. 21, les signatures manuscrites de personnes qui signent la réquisition ne doivent pas être déposées.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^18-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^18-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 19
 
@@ -424,8 +427,8 @@ La réquisition peut également être le fait des personnes intéressées:
 
 <sup>4</sup> L’approbation des inscriptions par l’OFRC demeure réservée.
 
-[^19-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^19-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^19-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^19-3]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ### Section 2 Pièces justificatives
@@ -447,8 +450,8 @@ La réquisition peut également être le fait des personnes intéressées:
 <sup>4</sup> Lorsque des pièces justificatives sont produites dans une langue qui n’est pas une langue officielle du canton, l’office du registre du commerce peut exiger une traduction si celle-ci est nécessaire pour l’examen ou pour la consultation par les tiers; il peut, en cas de besoin, désigner un traducteur. La traduction est également considérée comme une pièce justificative.
 
 [^20-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^20-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^20-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^20-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^20-3]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 #### Art. 21
 
@@ -473,7 +476,7 @@ Lorsque l’inscription au registre du commerce d’une personne habilitée à r
 
 [^21-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^21-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^21-3]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^21-4]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 22
@@ -854,7 +857,7 @@ En cas d’apport en nature, de compensation de créance ou d’avantages partic
 
 [^43-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^43-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^43-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^43-3]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^43-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^43-5]: Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
@@ -924,7 +927,7 @@ En cas d’apport en nature, de compensation de créance ou d’avantages partic
 [^45-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^45-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-5]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^45-6]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-6]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^45-7]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-8]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-9]: Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
@@ -996,7 +999,7 @@ En cas d’apport en nature, de compensation de créance, d’avantages particul
 <sup>4</sup> Lorsque les droits de souscription préférentiels sont limités ou supprimés, une attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé doit être produite (art. 652*f*, al. 1, CO).
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^46-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^46-2]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 
 #### Art. 47
 
@@ -1027,7 +1030,7 @@ L’inscription au registre du commerce d’une augmentation ordinaire du capita
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^48-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^48-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^48-3]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^48-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 49 et 50
@@ -1066,7 +1069,7 @@ L’inscription au registre du commerce mentionne:
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^51-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^51-3]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^51-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^51-4]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^51-5]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 52
@@ -1089,7 +1092,7 @@ La réquisition d’inscription au registre du commerce de la décision du conse
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^52-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^52-3]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^52-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^52-4]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^52-5]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 53
@@ -1382,7 +1385,7 @@ L’office du registre du commerce somme la société de renouveler la déclarat
 <sup>7</sup> Si, suite à une sommation au sens de l’al. 5, let. a, la société produit les comptes annuels conformément à l’al. 2, let. a, l’office du registre du commerce les transmet aux autorités fiscales (art. 112, al. 1, LIFD).
 
 [^62-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^62-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^62-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### Section 10 Dissolution et radiation
 
@@ -1500,7 +1503,7 @@ La réquisition d’inscription au registre du commerce de la fondation d’une 
 
 [^66-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^66-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^66-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^66-3]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^66-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 67
@@ -1560,7 +1563,7 @@ L’inscription au registre du commerce d’une société en commandite par acti
 [^68-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^68-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^68-5]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^68-6]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-6]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^68-7]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^68-8]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
@@ -1939,8 +1942,8 @@ Les associations visées à l’al. 1, let. c, sont exemptées de l’obligation
 - c. au moins un représentant de l’association est domicilié en Suisse.
 
 [^90-1]: Introduit par l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^90-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^90-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^90-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^90-3]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 90a
 
@@ -1972,7 +1975,7 @@ La réquisition d’inscription au registre du commerce d’une association est 
 
 [^90a-1]: Anciennement art. 90
 [^90a-2]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^90a-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90a-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^90a-4]: Introduit par l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 91
@@ -2009,7 +2012,7 @@ L’inscription au registre du commerce d’une association mentionne:
 - m. lorsque l’association procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision.
 
 [^92-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^92-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^92-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^92-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^92-4]: Abrogée par l’annexe ch. 2 de l’O du 31 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
@@ -2083,7 +2086,7 @@ L’inscription au registre du commerce d’une fondation mentionne:
 [^95-3]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^95-4]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^95-5]: Introduite par l’art. 24 de l’O des 10 et 22 juin 2011 sur la surveillance dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
-[^95-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^95-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^95-7]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^95-8]: Abrogé par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
@@ -2145,7 +2148,7 @@ L’inscription au registre du commerce d’une société en commandite de place
 
 [^99-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^99-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^99-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^99-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^99-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 #### Art. 100
@@ -2448,7 +2451,7 @@ Le numéro d’identification des entreprises d’une entité juridique radiée 
 <sup>3</sup> Pour les formes juridiques selon la loi du 23 juin 2006 sur les placements collectifs[^116a-2], les désignations et abréviations prévues dans cette loi doivent être utilisées.
 
 [^116a-1]: Introduit par le ch. I de l’O du 18 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
-[^116a-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^116a-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 117
 
@@ -2529,7 +2532,7 @@ Lorsqu’une entité juridique est inscrite auprès d’une autre entité juridi
 
 Les entreprises individuelles, les personnes morales, les sociétés commerciales et les instituts de droit public ne peuvent pas être inscrits au registre du commerce en tant que membre d’un organe de direction ou d’administration ou en tant que personne habilitée à représenter l’entité juridique. L’art. 98 LPCC[^120-1] et l’inscription de liquidateurs, de réviseurs, d’administrateurs de la faillite et de commissaires demeurent réservés.
 
-[^120-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^120-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 121
 
@@ -2638,7 +2641,7 @@ En plus des faits inscrits lors de la fondation de toute nouvelle entité juridi
 
 <sup>4</sup> Lorsque le Département fédéral de justice et police octroie l’autorisation visée à l’art. 161, al. 2, LDIP, la décision doit être produite au registre du commerce comme pièce justificative.
 
-[^126-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^126-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^126-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 ### Section 3 Transfert à l’étranger du siège d’une entité juridique suisse
@@ -2666,10 +2669,10 @@ L’inscription au registre du commerce du transfert du siège de l’entité ju
 - d. la date du rapport de révision qui atteste que les mesures concernant la protection des créanciers ont été respectées;
 - e. la radiation de la société.
 
-[^127-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^127-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^127-2]: Introduite par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^127-3]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^127-4]: [RS 211.412.41](https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148)
+[^127-4]: [RS 211.412.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5770)
 
 ### Chapitre 3 Restructuration
 
@@ -2681,8 +2684,8 @@ L’inscription au registre du commerce du transfert du siège de l’entité ju
 
 L’inscription d’une fusion, d’une scission, d’une transformation ou d’un transfert de patrimoine ne peut être requise qu’une fois obtenues les approbations d’autres autorités prescrites par la loi. C’est notamment le cas lorsque la restructuration remplit les conditions d’une concentration soumise à l’obligation de notifier selon l’art. 9 de la loi du 6 octobre 1995 sur les cartels[^128-1] ou nécessite l’agrément de l’autorité de surveillance conformément aux art. 3 et 5 de la loi du 17 décembre 2004 sur la surveillance des assurances[^128-2].
 
-[^128-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
-[^128-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^128-1]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
+[^128-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 129
 
@@ -2990,7 +2993,7 @@ En cas de fusion de la Suisse vers l’étranger (art. 163*b* LDIP), outre les p
 
 <sup>3</sup> L’inscription de la fusion au registre du commerce est régie par l’art. 132. Elle mentionne en outre qu’il s’agit d’une fusion transfrontalière conformément aux dispositions de la LDIP.
 
-[^146-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^146-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^146-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^146-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^146-4]: Introduite par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
@@ -3299,7 +3302,7 @@ L’inscription au registre du commerce mentionne:
 
 <sup>4</sup> Lorsque le sursis concordataire est annulé, l’inscription au registre du commerce mentionne ce fait.[^160-3]
 
-[^160-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^160-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^160-2]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^160-3]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
@@ -3329,7 +3332,7 @@ L’inscription au registre du commerce mentionne:
 
 <sup>5</sup> L’inscription au registre du commerce mentionne la radiation et son motif.
 
-[^161-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^161-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ## Titre 6 Réinscription d’une entité juridique radiée
 
@@ -3375,7 +3378,7 @@ Abrogé
 
 <sup>7</sup> Les réquisitions, les pièces justificatives ou les autres documents disponibles sous forme électronique ne doivent pas être supprimés. Ils doivent être conservés par l’office du registre du commerce de manière à ce que les données ne puissent plus être modifiées.[^166-3]
 
-[^166-1]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^166-1]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 [^166-2]: Introduit par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Nouvelle teneur selon l’annexe ch. II 4 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^166-3]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
@@ -3566,7 +3569,7 @@ Dans ce cas, l’organe suprême de la fondation est tenu d’établir l’exist
 
 [^181a-1]: Introduit par l’annexe 2 ch. II 2 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^181a-2]: [RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289)
-[^181a-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^181a-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 181b
 

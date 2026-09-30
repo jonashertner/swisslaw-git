@@ -4,11 +4,11 @@ title: Ordinanza del 17 ottobre 2007 sul registro di commercio (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: it
-version: 2025-01-01
+version: 2026-10-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20250101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/it"
 
 (ORC)
 
-del 17 ottobre 2007 (Stato 1° gennaio 2025)
+del 17 ottobre 2007 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 621 capoverso 2, 933 capoverso 2, 943 e 950 capoverso 2 del C
 
 ordina:
 
-[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^ingress-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ## Titolo 1: Disposizioni generali
 
@@ -35,7 +35,7 @@ ordina:
 
 [^tit1-chap1-1]
 
-[^tit1-chap1-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^tit1-chap1-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 1
 
@@ -66,13 +66,13 @@ Ai sensi della presente ordinanza s’intende per:
 
 L’organizzazione degli uffici del registro di commercio spetta ai Cantoni. Questi ultimi garantiscono una tenuta del registro di commercio qualificata e prendono provvedimenti per prevenire i conflitti d’interesse.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^4-1]: Abrogato dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 5
 
@@ -91,7 +91,7 @@ L’Ufficio federale del registro di commercio (UFRC) integrato nell’Ufficio f
 
 <sup>3</sup> Le autorità del registro di commercio comunicano le loro decisioni all’UFRC. Sono eccettuate le decisioni concernenti unicamente gli emolumenti.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 5a
 
@@ -101,7 +101,7 @@ L’Ufficio federale del registro di commercio (UFRC) integrato nell’Ufficio f
 
 <sup>2</sup> L’UFRC stila un rapporto sui risultati delle ispezioni destinato all’ufficio cantonale del registro di commercio e al responsabile dell’unità amministrativa di cui fa parte tale ufficio. L’UFRC controlla successivamente le misure correttive raccomandate nel quadro delle ispezioni.
 
-[^5a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 ### Capitolo 3: Struttura e contenuto del registro di commercio
 
@@ -171,7 +171,7 @@ Il registro principale contiene per ogni ente giuridico le indicazioni seguenti:
 <sup>5</sup> Il registro principale deve essere riproducibile in ogni momento elettronicamente o su carta.
 
 [^9-1]: Nuovo testo giusta l’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^9-2]: Nuovo testo giusta il n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
+[^9-2]: Nuovo testo giusta la cifra III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
 
 ### Capitolo 4: Pubblicità del registro di commercio
 
@@ -186,9 +186,12 @@ Non soggiacciono alla pubblicità del registro di commercio secondo l’articolo
 - c. le copie dei documenti d’identità;
 - d. i documenti di cui all’articolo 62 capoverso 2;
 - e. le comunicazioni e i documenti allestiti e trasmessi nell’ambito dell’esame delle interdizioni di esercitare un’attività secondo l’articolo 928*a* capoversi 2<sup>bis</sup>–2<sup>quater</sup> CO;
-- f. i documenti di cui all’articolo 65*a* capoverso 1.
+- f. i documenti di cui all’articolo 65*a* capoverso 1;
+- g.[^10-2] gli annunci effettuati secondo la legge del 26 settembre 2025[^10-3] sulla trasparenza delle persone giuridiche.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^10-2]: Introdotta dall’all. n. 4 dall’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-3]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 11
 
@@ -214,9 +217,9 @@ Su domanda, gli uffici del registro di commercio autorizzano la consultazione de
 <sup>7</sup> All’allestimento degli estratti, delle copie di notificazioni e di documenti giustificativi e delle attestazioni in forma elettronica nonché all’allestimento delle copie cartacee di documenti elettronici si applica l’ordinanza dell’8 dicembre 2017[^11-3] sulla realizzazione di atti pubblici e autenticazioni in forma elettronica (OAPuE).[^11-4]
 
 [^11-1]: Abrogato dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, con effetto dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^11-2]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^11-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
-[^11-4]: Introdotto dall’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^11-2]: Abrogato dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^11-3]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
+[^11-4]: Introdotto dall’all. cifra II n. 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 12
 
@@ -224,7 +227,7 @@ Su domanda, gli uffici del registro di commercio autorizzano la consultazione de
 
 Gli statuti, gli atti di fondazione, gli altri documenti giustificativi e le notificazioni, resi gratuitamente accessibili in Internet non devono essere legalizzati dall’ufficio del registro di commercio.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 ### Capitolo 5: Autenticazioni da parte dell’ufficio del registro di commercio
 
@@ -247,8 +250,8 @@ L’ufficio del registro di commercio indica sulla copia cartacea autenticata:
 
 <sup>3</sup> All’allestimento di autenticazioni elettroniche e all’allestimento di copie cartacee autenticate di documenti elettronici si applica l’OAPuE.
 
-[^12a-1]: Nuovo testo giusta l’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^12a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^12a-1]: Nuovo testo giusta l’all. cifra II n. 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^12a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 ### Capitolo 6: Comunicazione elettronica
 
@@ -262,8 +265,8 @@ L’ufficio del registro di commercio indica sulla copia cartacea autenticata:
 
 Se non disposto diversamente dalla presente ordinanza, alla comunicazione elettronica per il registro di commercio si applicano le disposizioni degli articoli 130 capoverso 2 e 143 capoverso 2 del Codice di procedura civile[^12b-1] (CPC) e dell’ordinanza del 18 giugno 2010[^12b-2] sulla comunicazione per via elettronica nell’ambito di procedimenti civili e penali nonché di procedure d’esecuzione e fallimento.
 
-[^12b-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^12b-2]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^12b-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^12b-2]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 
 #### Art. 12c
 
@@ -278,16 +281,16 @@ Gli atti scritti elettronici possono essere fatti pervenire agli uffici del regi
 
 <sup>2</sup> L’UFRC può disciplinare lo svolgimento e l’automazione della comunicazione elettronica, segnatamente in riferimento a moduli, formato delle banche dati, struttura dei dati, processi operativi e procedure di trasmissione alternative.[^12c-4]
 
-[^12c-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
-[^12c-2]: Nuovo testo giusta l’all. n. II 4 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^12c-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^12c-4]: Nuovo testo giusta l’all. 2 n. II 29 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12c-1]: [RS 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
+[^12c-2]: Nuovo testo giusta l’all. cifra II n. 4 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^12c-3]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^12c-4]: Nuovo testo giusta l’all. 2 cifra II n. 29 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12d
 
 [^12d-1]
 
-[^12d-1]: Abrogato dall’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, con effetto dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^12d-1]: Abrogato dall’all. cifra II n. 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, con effetto dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 12e
 
@@ -299,7 +302,7 @@ Le disposizioni di questo capitolo si applicano per analogia alla consegna di es
 
 [^tit1-chap7-1]
 
-[^tit1-chap7-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021, l’art. 14*a* è entrato in vigore il 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^tit1-chap7-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021, l’art. 14*a* è entrato in vigore il 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 13
 
@@ -336,7 +339,7 @@ Il DFGP determina:
 
 <sup>2</sup> Gli uffici del registro di commercio sono responsabili in particolare della registrazione e del trattamento tecnicamente qualificati e corretti dei dati e provvedono all’allineamento dei dati del registro cantonale con quelli di altri registri pubblici.
 
-[^14a-1]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ## Titolo 2: Procedura d’iscrizione
 
@@ -346,13 +349,13 @@ Il DFGP determina:
 
 [^tit2-chap1-sec1-1]
 
-[^tit2-chap1-sec1-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^tit2-chap1-sec1-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^15-1]: Abrogato dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 16
 
@@ -366,7 +369,7 @@ Il DFGP determina:
 
 <sup>4</sup> Le notificazioni devono essere allestite in una lingua ufficiale del Cantone nel quale è effettuata l’iscrizione.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 17
 
@@ -393,7 +396,7 @@ Le seguenti iscrizioni possono inoltre essere notificate dalle persone interessa
 
 <sup>4</sup> Qualora gli eredi siano tenuti a notificare un’iscrizione, gli esecutori testamentari o i liquidatori dell’eredità possono procedere alla notificazione in loro vece.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 18
 
@@ -407,8 +410,8 @@ Le seguenti iscrizioni possono inoltre essere notificate dalle persone interessa
 
 <sup>4</sup> Le notificazioni elettroniche devono essere munite di una firma elettronica qualificata con marca temporale elettronica qualificata ai sensi dell’articolo 2 lettere e e j FiEle[^18-2]. Fatto salvo l’articolo 21, non devono essere depositate le firme autografe delle persone che sottoscrivono la notificazione.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^18-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^18-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 19
 
@@ -424,15 +427,15 @@ Le seguenti iscrizioni possono inoltre essere notificate dalle persone interessa
 
 <sup>4</sup> È fatta salva l’approvazione dell’iscrizione da parte dell’UFRC.
 
-[^19-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^19-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
-[^19-3]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^19-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^19-2]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^19-3]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ### Sezione 2: Documenti giustificativi
 
 [^tit2-chap1-sec2-1]
 
-[^tit2-chap1-sec2-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^tit2-chap1-sec2-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 20
 
@@ -446,9 +449,9 @@ Le seguenti iscrizioni possono inoltre essere notificate dalle persone interessa
 
 <sup>4</sup> Se i documenti giustificativi sono prodotti in una lingua che non è la lingua ufficiale del Cantone, l’ufficio del registro di commercio può esigere una traduzione purché sia necessario per l’esame o la consultazione da parte di terzi. Se necessario può designare il traduttore. In questo caso la traduzione funge anche da documento giustificativo.
 
-[^20-1]: Nuovo testo giusta l’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^20-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^20-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^20-1]: Nuovo testo giusta l’all. cifra II n. 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^20-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^20-3]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 #### Art. 21
 
@@ -472,9 +475,9 @@ Una persona autorizzata a firmare che è notificata per l’iscrizione nel regis
 <sup>3</sup> Per attestare essa stessa la firma digitalizzata, la persona autorizzata a firmare vi appone una dichiarazione in cui riconosce la firma come sua e una firma elettronica qualificata con marca temporale elettronica qualificata ai sensi dell’articolo 2 lettere e e j FiEle[^21-3].[^21-4]
 
 [^21-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^21-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^21-4]: Nuovo testo giusta l’all. n. II 4 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^21-3]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^21-4]: Nuovo testo giusta l’all. cifra II n. 4 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 22
 
@@ -516,8 +519,8 @@ I seguenti documenti devono essere legalizzati da un pubblico ufficiale:
 
 <sup>5</sup> Gli statuti delle associazioni devono essere firmati da un membro della direzione.[^22-2]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^22-2]: Introdotto dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^22-2]: Introdotto dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 23
 
@@ -537,7 +540,7 @@ I seguenti documenti devono essere legalizzati da un pubblico ufficiale:
 
 <sup>2</sup> L’esistenza di un ente giuridico che non è iscritto nel registro di commercio svizzero è documentata mediante un estratto attuale autenticato del registro di commercio estero o mediante un documento equivalente.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 24a
 
@@ -549,7 +552,7 @@ I seguenti documenti devono essere legalizzati da un pubblico ufficiale:
 
 <sup>3</sup> Eventuali copie dei documenti di identità sono archiviate con la corrispondenza. Possono essere distrutte non appena l’iscrizione della persona fisica nel registro giornaliero è giuridicamente efficace.
 
-[^24a-1]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^24a-1]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 24b
 
@@ -578,7 +581,7 @@ Nel registro di commercio sono inoltre iscritti i seguenti dati:
 <sup>3</sup> La pubblicità di questi dati è retta dall’articolo 119 capoverso 1.
 
 [^24b-1]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^24b-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^24b-2]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 25
 
@@ -599,7 +602,7 @@ Se per l’iscrizione nel registro di commercio è previsto un termine, quest’
 - a. sono consegnati all’ufficio del registro di commercio o, all’indirizzo di questo, alla Posta Svizzera entro l’ultimo giorno del termine previsto; o
 - b. è stato confermato al mittente che la notificazione elettronica e i documenti giustificativi in forma elettronica necessari sono stati ricevuti entro l’ultimo giorno del termine previsto.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 27
 
@@ -607,7 +610,7 @@ Se per l’iscrizione nel registro di commercio è previsto un termine, quest’
 
 L’ufficio del registro di commercio rettifica, su domanda o d’ufficio, i propri errori di redazione e di trascrizione. La rettificazione deve essere designata come tale e figurare nel registro giornaliero.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 28
 
@@ -615,7 +618,7 @@ L’ufficio del registro di commercio rettifica, su domanda o d’ufficio, i pro
 
 Su domanda o d’ufficio, l’ufficio del registro di commercio iscrive a posteriori i fatti notificati e documentati che non ha iscritto per errore. Il complemento deve essere designato come tale e figurare nel registro giornaliero.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 29
 
@@ -629,7 +632,7 @@ L’iscrizione nel registro di commercio è effettuata nella lingua della notifi
 
 Le iscrizioni nel registro di commercio sono effettuate con il set di caratteri ISO 8859-15[^29a-2].
 
-[^29a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^29a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^29a-2]: ISO/IEC 8859-15, 1999, tecnologia dell’informazione – insiemi di caratteri codificati ad otto bit byte singolo - parte 15: latino-9. La norma può essere consultata e ottenuta presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/de/). Può essere consultata sul sito Internet dell’Organizzazione internazionale per la normalizzazione ([www.iso.org](https://www.iso.org/home.html)).
 
 #### Art. 30
@@ -683,7 +686,7 @@ Gli uffici cantonali del registro di commercio trasmettono elettronicamente le l
 
 L’ufficio cantonale del registro di commercio informa su richiesta le persone che hanno presentato una notificazione non appena l’iscrizione è approvata dall’UFRC. Precisa che l’iscrizione acquisisce validità soltanto con la pubblicazione elettronica nel Foglio ufficiale svizzero di commercio.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 35
 
@@ -693,7 +696,7 @@ L’ufficio cantonale del registro di commercio informa su richiesta le persone 
 
 <sup>2</sup> L’UFRC assegna a ogni iscrizione un numero di comunicazione e stabilisce la data di pubblicazione.
 
-[^35-1]: Nuovo testo giusta il n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
+[^35-1]: Nuovo testo giusta la cifra III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
 
 ## Titolo 3: Disposizioni speciali in materia di iscrizioni
 
@@ -703,7 +706,7 @@ L’ufficio cantonale del registro di commercio informa su richiesta le persone 
 
 [^36-1]
 
-[^36-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^36-1]: Abrogato dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 37
 
@@ -718,7 +721,7 @@ Con la notificazione per l’iscrizione di una ditta individuale occorre fornire
 
 <sup>2</sup> Se è già stato attribuito all’impresa individuale, il numero d’identificazione delle imprese deve essere indicato nella notificazione.[^37-1]
 
-[^37-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^37-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 38
 
@@ -748,7 +751,7 @@ L’iscrizione nel registro di commercio delle ditte individuali contiene le ind
 <sup>4</sup> Se nei casi di cui ai capoversi 1 e 2 l’attività aziendale prosegue e le condizioni di cui all’articolo 931 capoverso 1 CO sono soddisfatte, il nuovo titolare è obbligato a notificare l’impresa. A quest’ultima è assegnato un nuovo numero di identificazione delle imprese.[^39-2]
 
 [^39-1]: Nuovo testo giusta l’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^39-2]: Introdotto dall’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)). Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^39-2]: Introdotto dall’all. n. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)). Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 ### Capitolo 2: Società in nome collettivo o in accomandita
 
@@ -765,7 +768,7 @@ Con la notificazione per l’iscrizione di una società in nome collettivo o in 
 
 <sup>2</sup> Se è già stato attribuito alla società in nome collettivo o in accomandita, il numero di identificazione delle imprese deve essere indicato nella notificazione.[^40-1]
 
-[^40-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^40-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 41
 
@@ -819,7 +822,7 @@ In caso di scioglimento della società l’iscrizione nel registro di commercio 
 
 <sup>5</sup> Oltre alla cancellazione, nel registro di commercio deve essere iscritto anche il motivo della cancellazione.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 ### Capitolo 3: Società anonima
 
@@ -854,11 +857,11 @@ In caso di conferimenti in natura, compensazioni di crediti o vantaggi speciali,
 - c. la relazione sulla costituzione firmata da tutti i promotori;
 - d. l’attestazione di verifica senza riserve di un’impresa di revisione sotto sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato.
 
-[^43-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^43-2]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^43-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^43-4]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^43-5]: Abrogata dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^43-1]: Abrogata dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^43-2]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^43-3]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
+[^43-4]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^43-5]: Abrogata dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 44
 
@@ -877,8 +880,8 @@ L’atto costitutivo autentico contiene le indicazioni seguenti:
 - i. le firme dei promotori;
 - j.[^44-2] se il capitale azionario è costituito in una moneta estera o i conferimenti sono effettuati in una moneta diversa da quella del capitale azionario, i corsi di cambio applicati.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^44-2]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^44-2]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 45
 
@@ -921,22 +924,22 @@ Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali,
 
 <sup>3</sup> ... [^45-10]
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^45-4]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-5]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^45-6]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^45-7]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-8]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-9]: Abrogata dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^45-10]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-3]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^45-4]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-5]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^45-6]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
+[^45-7]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-8]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-9]: Abrogata dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-10]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 2: Moneta del capitale azionario
 
 [^tit3-chap3-sec2-1]
 
-[^tit3-chap3-sec2-1]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec2-1]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 45a
 
@@ -967,7 +970,7 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 [^tit3-chap3-sec3-1]
 
-[^tit3-chap3-sec3-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec3-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 46
 
@@ -997,14 +1000,14 @@ Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali 
 
 <sup>4</sup> Se i diritti d’opzione sono limitati o soppressi, occorre fornire un’attestazione di verifica senza riserve da parte di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato (art. 652*f* cpv. 1 CO).
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^46-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^46-2]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^47-1]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 48
 
@@ -1027,21 +1030,21 @@ L’iscrizione nel registro di commercio di un aumento ordinario del capitale co
 
 <sup>2</sup> Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoverso 2.[^48-3]
 
-[^48-1]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^48-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^48-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^48-1]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^48-2]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
+[^48-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 49 e 50
 
 [^4950-1]
 
-[^4950-1]: Abrogati dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^4950-1]: Abrogati dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 4: Aumento con capitale condizionale
 
 [^tit3-chap3-sec4-1]
 
-[^tit3-chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec4-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 51
 
@@ -1064,11 +1067,11 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 - a. l’indicazione del capitale condizionale con un rinvio allo statuto per i dettagli;
 - b. la data della deliberazione dell’assemblea generale concernente la modifica dello statuto.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^51-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^51-3]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^51-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^51-5]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^51-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^51-3]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^51-4]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
+[^51-5]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 52
 
@@ -1087,11 +1090,11 @@ Con la notificazione per l’iscrizione delle deliberazioni del consiglio d’am
 
 <sup>3</sup> Al contenuto dell’iscrizione si applica per analogia l’articolo 48.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^52-3]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^52-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^52-5]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^52-3]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^52-4]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
+[^52-5]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 53
 
@@ -1112,7 +1115,7 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 - a. la data della modifica dello statuto;
 - b. un’indicazione che la disposizione statuaria relativa al capitale condizionale è stata abrogata o modificata.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^53-2]: Correzione del 10 lug. 2024 ([RU 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
 [^53-3]: Correzione del 10 lug. 2024 ([RU 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
 
@@ -1166,7 +1169,7 @@ L’iscrizione nel registro di commercio contiene:
 
 <sup>4</sup> In caso di conferimenti in natura o compensazioni di crediti, si applicano per analogia gli articoli 43 capoverso 3 e 45 capoverso 2. Se i conferimenti ulteriori di capitale sono effettuati mediante conversione di capitale proprio liberamente disponibile, occorre menzionare tale fatto.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 6: Riduzione del capitale azionario
 
@@ -1200,8 +1203,8 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 <sup>4</sup> Se la società ha riscattato e annullato azioni proprie, si applica la procedura di riduzione del capitale. La riduzione del capitale azionario e il numero delle azioni deve essere iscritta nel registro di commercio anche quando una somma corrispondente sia stata inserita nel passivo del bilancio.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^55-2]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^55-2]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 56
 
@@ -1229,8 +1232,8 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 - f. l’ammontare dei conferimenti effettuati dopo la riduzione del capitale azionario;
 - g. il numero, il valore nominale e la specie delle azioni dopo la riduzione del capitale azionario.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^56-2]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^56-2]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 57
 
@@ -1263,9 +1266,9 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 <sup>4</sup> Se, al momento dell’aumento del capitale, vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali, si applicano per analogia gli articoli 43 capoverso 3 e 45 capoverso 2. Se l’aumento del capitale è effettuato mediante conversione di capitale proprio liberamente disponibile, si applicano gli articoli 46 capoverso 3 lettera d e 48 capoverso 1 lettera i.[^57-3]
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^57-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^57-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^57-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^57-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 58
 
@@ -1283,7 +1286,7 @@ Le disposizioni della presente ordinanza riguardanti la riduzione del capitale a
 
 [^tit3-chap3-sec7-1]
 
-[^tit3-chap3-sec7-1]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec7-1]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 59a
 
@@ -1325,7 +1328,7 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 [^tit3-chap3-sec8-1]
 
-[^tit3-chap3-sec8-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec8-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 60
 
@@ -1335,7 +1338,7 @@ Le disposizioni riguardanti il capitale azionario si applicano per analogia alla
 
 [^tit3-chap3-sec9-1]
 
-[^tit3-chap3-sec9-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec9-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 61
 
@@ -1383,14 +1386,14 @@ L’ufficio del registro di commercio ingiunge alla società di rinnovare la dic
 
 <sup>7</sup> Se in seguito a una diffida secondo il capoverso 5 lettera a la società produce i conti annuali conformemente al capoverso 2 lettera a, l’ufficio del registro di commercio li trasmette alle autorità fiscali (art. 112 cpv. 1 LIFD).
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^62-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^62-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### Sezione 10: Scioglimento e cancellazione
 
 [^tit3-chap3-sec10-1]
 
-[^tit3-chap3-sec10-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^tit3-chap3-sec10-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 63
 
@@ -1419,7 +1422,7 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 <sup>4</sup> Sono fatte salve le disposizioni concernenti le iscrizioni d’ufficio.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 64
 
@@ -1444,8 +1447,8 @@ L’iscrizione nel registro di commercio contiene:[^64-1]
 - d. le modifiche necessarie riguardanti le persone iscritte;
 - e. nel caso di una limitazione della trasferibilità delle azioni o dei buoni di partecipazione, un rinvio allo statuto per i dettagli.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^64-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^64-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 65
 
@@ -1466,7 +1469,7 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 [^tit3-chap3-sec11-1]
 
-[^tit3-chap3-sec11-1]: Introdotta dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^tit3-chap3-sec11-1]: Introdotta dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 #### Art. 65a
 
@@ -1507,10 +1510,10 @@ Con la notificazione per l’iscrizione di una società in accomandita per azion
 
 <sup>3</sup> Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 43 capoverso 3.[^66-4]
 
-[^66-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^66-2]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^66-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^66-4]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^66-1]: Abrogata dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^66-2]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^66-3]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
+[^66-4]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 67
 
@@ -1528,8 +1531,8 @@ L’atto costitutivo autentico contiene le indicazioni seguenti:
 - h. la firma dei promotori;
 - i.[^67-2] se il capitale azionario è costituito in una moneta estera o i conferimenti sono effettuati in una moneta diversa da quella del capitale azionario, i corsi di cambio applicati.
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^67-2]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^67-2]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 68
 
@@ -1564,14 +1567,14 @@ L’iscrizione nel registro di commercio di una società in accomandita per azio
 
 <sup>2</sup> Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoverso 2.[^68-8]
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^68-4]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-5]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^68-6]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^68-7]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^68-8]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-3]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^68-4]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-5]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° apr. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^68-6]: [RS 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
+[^68-7]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-8]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 69
 
@@ -1595,7 +1598,7 @@ Se a un amministratore sono revocati i diritti di gestione e di rappresentanza, 
 - d. se lo statuto è stato modificato, la sua nuova data;
 - e.[^69-1] la ditta modificata, in quanto debba essere adeguata.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 70
 
@@ -1629,8 +1632,8 @@ Con la notificazione della costituzione di una società a garanzia limitata occo
 
 <sup>3</sup> Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 43 capoverso 3.[^71-2]
 
-[^71-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^71-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^71-1]: Abrogata dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^71-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 72
 
@@ -1649,8 +1652,8 @@ L’atto costitutivo autentico contiene le indicazioni seguenti:
 - i. le firme dei promotori;
 - j.[^72-2] se il capitale azionario è costituito in una moneta estera o i conferimenti sono effettuati in una moneta diversa da quella del capitale azionario, i corsi di cambio applicati.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^72-2]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^72-2]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 73
 
@@ -1685,11 +1688,11 @@ L’iscrizione nel registro di commercio di una società a garanzia limitata con
 
 <sup>2</sup> Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoverso 2.[^73-5]
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^73-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-4]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^73-5]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-2]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^73-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-4]: Introdotta dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-5]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 2: Aumento del capitale sociale
 
@@ -1714,18 +1717,18 @@ Con la notificazione occorre fornire all’ufficio del registro di commercio i d
 
 <sup>4</sup> Se i diritti d’opzione sono limitati o soppressi, si applica per analogia l’articolo 46 capoverso 4.
 
-[^74-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^74-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^74-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^74-4]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^74-5]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^74-6]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-4]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-5]: Abrogata dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^74-6]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 75
 
 [^75-1]
 
-[^75-1]: Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^75-1]: Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 76
 
@@ -1748,7 +1751,7 @@ L’iscrizione nel registro di commercio di un aumento del capitale sociale cont
 
 <sup>2</sup> Se vi sono conferimenti in natura, compensazioni di crediti o vantaggi speciali, si applica per analogia l’articolo 45 capoverso 2.[^76-1]
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 3: Riduzione del capitale sociale
 
@@ -1758,7 +1761,7 @@ L’iscrizione nel registro di commercio di un aumento del capitale sociale cont
 
 Alla riduzione del capitale sociale si applica per analogia l’articolo 55, per quanto la presente sezione non disponga altrimenti.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 78
 
@@ -1768,7 +1771,7 @@ Alla riduzione del capitale sociale si applica per analogia l’articolo 55, per
 
 <sup>2</sup> Al contenuto dell’iscrizione si applica per analogia l’articolo 56 capoverso 3.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 79
 
@@ -1778,7 +1781,7 @@ Alla riduzione del capitale sociale si applica per analogia l’articolo 55, per
 
 <sup>2</sup> Al contenuto dell’iscrizione si applica per analogia l’articolo 57 capoverso 2.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 80
 
@@ -1811,7 +1814,7 @@ All’ufficio del registro di commercio occorre fornire:
 
 [^tit3-chap5-sec5-1]
 
-[^tit3-chap5-sec5-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^tit3-chap5-sec5-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 #### Art. 83
 
@@ -1846,13 +1849,13 @@ Se vi sono conferimenti in natura, occorre fornire i documenti giustificativi su
 - b.[^84-7] ...
 - c. la relazione sulla costituzione firmata da tutti i promotori.
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^84-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^84-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^84-4]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^84-5]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^84-6]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^84-7]: Abrogata dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-4]: Abrogata dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^84-5]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-6]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-7]: Abrogata dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 85
 
@@ -1869,16 +1872,16 @@ L’atto costitutivo autentico contiene le indicazioni seguenti:[^85-2]
 - g. le firme dei promotori;
 - h.[^85-4] la conferma dei promotori che non vi sono altri conferimenti in natura, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
 
-[^85-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^85-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^85-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^85-4]: Introdotta dal n. I dell’O del 6 mar. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-4]: Introdotta dalla cifra I dell’O del 6 mar. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 86
 
 [^86-1]
 
-[^86-1]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^86-1]: Abrogato dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 87
 
@@ -1907,9 +1910,9 @@ L’iscrizione nel registro di commercio di società cooperative contiene le ind
 
 <sup>2</sup> Se al momento della costituzione vi sono conferimenti in natura, si applica per analogia l’articolo 45 capoverso 2 lettera a.[^87-3]
 
-[^87-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^87-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^87-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^87-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 88
 
@@ -1950,8 +1953,8 @@ Le associazioni di cui al capoverso 1 lettera c sono esonerate dall’obbligo di
 - c. almeno una persona autorizzata a rappresentare l’associazione è domiciliata in Svizzera.
 
 [^90-1]: Introdotto dall’all. n. 2 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^90-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^90-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^90-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^90-3]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 90a
 
@@ -1982,8 +1985,8 @@ Con la notificazione per l’iscrizione di un’associazione occorre fornire all
 <sup>4</sup> Un’associazione che non sottostà all’obbligo di iscrizione nel registro di commercio secondo l’articolo 61 capoverso 2 CC[^90a-3] e non è rappresentata da una persona domiciliata in Svizzera presenta all’ufficio del registro di commercio una dichiarazione firmata da almeno un membro della direzione attestante che l’associazione non è tenuta a iscriversi nel registro di commercio.[^90a-4]
 
 [^90a-1]: Originario art. 90.
-[^90a-2]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^90a-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90a-2]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^90a-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^90a-4]: Introdotto dall’all. n. 2 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 91
@@ -2020,8 +2023,8 @@ L’iscrizione nel registro di commercio delle associazioni contiene le indicazi
 - m. se l’associazione effettua una revisione ordinaria o una revisione limitata, l’ufficio di revisione.
 
 [^92-1]: Nuovo testo giusta l’all. n. 2 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^92-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^92-3]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^92-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^92-3]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^92-4]: Abrogata dall’all. n. 2 dell’O del 31 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 93
@@ -2053,7 +2056,7 @@ Con la notificazione per l’iscrizione della costituzione di una fondazione occ
 
 <sup>2</sup> Le indicazioni che già figurano nell’atto di fondazione o nella disposizione a causa di morte non necessitano di altri documenti giustificativi.
 
-[^94-1]: Nuovo testo giusta l’all. 2 n. II 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^94-1]: Nuovo testo giusta l’all. 2 cifra II n. 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^94-2]: Introdotta dall’art. 24 dell’O del 10 e 22 giu. 2011 concernente la vigilanza nella previdenza professionale, in vigore dal 1° gen. 2012 ([RU 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
 
 #### Art. 95
@@ -2089,14 +2092,14 @@ L’iscrizione nel registro di commercio delle fondazioni contiene le indicazion
 
 <sup>2</sup> ...[^95-8]
 
-[^95-1]: Nuovo testo giusta l’all. 2 n. II 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^95-1]: Nuovo testo giusta l’all. 2 cifra II n. 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^95-2]: Abrogata dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, con effetto dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^95-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^95-4]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^95-3]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-4]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^95-5]: Introdotta dall’art. 24 dell’O del 10 e 22 giu. 2011 concernente la vigilanza nella previdenza professionale, in vigore dal 1° gen. 2012 ([RU 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
-[^95-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^95-7]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^95-8]: Abrogato dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^95-7]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^95-8]: Abrogato dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 96
 
@@ -2156,7 +2159,7 @@ L’iscrizione nel registro di commercio delle società in accomandita per inves
 
 [^99-1]: Nuovo testo giusta l’all. n. 2 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^99-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^99-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^99-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^99-4]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 #### Art. 100
@@ -2217,7 +2220,7 @@ Con la notificazione per l’iscrizione di una società di investimento a capita
 
 [^102-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^102-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^102-3]: Introdotta dal n. I dell’O del 6 mar. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Abrogata dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^102-3]: Introdotta dalla cifra I dell’O del 6 mar. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Abrogata dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 103
 
@@ -2261,8 +2264,8 @@ L’iscrizione nel registro di commercio delle società di investimento a capita
 
 [^104-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^104-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^104-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^104-4]: Introdotta dal n. I dell’O del 6 mar. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Abrogata dal n. I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^104-3]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^104-4]: Introdotta dalla cifra I dell’O del 6 mar. 2020 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Abrogata dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 105
 
@@ -2290,7 +2293,7 @@ Con la notificazione per l’iscrizione di un istituto di diritto pubblico occor
 
 <sup>3</sup> Se è già stato attribuito all’istituto di diritto pubblico, il numero d’identificazione delle imprese deve essere indicato nella notificazione.[^106-1]
 
-[^106-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^106-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 107
 
@@ -2419,7 +2422,7 @@ L’iscrizione nel registro di commercio di succursali di enti giuridici con sed
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
+[^tit4-chap1-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
 
 #### Art. 116
 
@@ -2444,9 +2447,9 @@ Il numero di identificazione delle imprese di un ente giuridico cancellato non p
 <sup>6</sup> Se una società in nome collettivo o in accomandita continua l’attività come ditta individuale conformemente all’articolo 579 CO, il numero d’identificazione delle imprese rimane invariato.
 
 [^116-1]: Nuovo testo giusta l’all. 3 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^116-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^116-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^116-4]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^116-2]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^116-3]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^116-4]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^116-5]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 #### Art. 116a
@@ -2459,8 +2462,8 @@ Il numero di identificazione delle imprese di un ente giuridico cancellato non p
 
 <sup>3</sup> Per le forme giuridiche ai sensi della legge del 23 giugno 2006[^116a-2] sugli investimenti collettivi sono applicabili le designazioni e le abbreviazioni in essa stabilite.
 
-[^116a-1]: Introdotto dal n. I dell’O del 18 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
-[^116a-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^116a-1]: Introdotto dalla cifra I dell’O del 18 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
+[^116a-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 117
 
@@ -2476,7 +2479,7 @@ Il numero di identificazione delle imprese di un ente giuridico cancellato non p
 
 <sup>5</sup> Oltre all’indicazione della sede e del domicilio legale, ogni ente giuridico ha la facoltà di far iscrivere nel registro di commercio della sua sede altri indirizzi situati in Svizzera, in particolare un indirizzo di liquidazione o una casella postale.
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 118
 
@@ -2486,7 +2489,7 @@ Il numero di identificazione delle imprese di un ente giuridico cancellato non p
 
 <sup>2</sup> Per l’iscrizione l’ufficio del registro di commercio riprende inalterata la formulazione dello scopo dell’ente giuridico dallo statuto o dall’atto di fondazione.[^118-1]
 
-[^118-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^118-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 119
 
@@ -2533,7 +2536,7 @@ L’iscrizione di un ente giuridico in qualità di titolare di una funzione pres
 
 <sup>4</sup> Se una comunione giuridica è iscritta in qualità di titolare di una funzione presso un altro ente giuridico, l’iscrizione deve indicare le persone di cui è composta.
 
-[^119-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^119-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 120
 
@@ -2541,7 +2544,7 @@ L’iscrizione di un ente giuridico in qualità di titolare di una funzione pres
 
 Le ditte individuali, le società commerciali, le persone giuridiche, nonché gli istituti di diritto pubblico non possono essere iscritti nel registro di commercio come membri dell’organo superiore di direzione o di amministrazione o come persone autorizzate a firmare. Sono fatti salvi l’articolo 98 LICol[^120-1] nonché l’iscrizione di liquidatori, revisori, amministratori di fallimenti o commissari.
 
-[^120-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^120-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 121
 
@@ -2559,7 +2562,7 @@ Ogni iscrizione nel registro giornaliero contiene un riferimento alla pubblicazi
 - b. il numero di comunicazione della pubblicazione elettronica.
 
 [^122-1]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^122-2]: Nuovo testo giusta il n. III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
+[^122-2]: Nuovo testo giusta la cifra III dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7319](https://fedlex.data.admin.ch/eli/oc/2017/797)).
 
 ### Capitolo 2: Trasferimento della sede
 
@@ -2594,9 +2597,9 @@ L’iscrizione nel registro di commercio presso la nuova sede contiene le indica
 
 <sup>6</sup> Se presso la nuova sede le iscrizioni sono effettuate in una lingua diversa da quella della sede precedente, tutti i fatti che devono essere pubblicati sono iscritti nella nuova lingua.
 
-[^123-1]: Abrogata dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^123-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^123-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^123-1]: Abrogata dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^123-2]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^123-3]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 124
 
@@ -2622,7 +2625,7 @@ L’iscrizione nel registro di commercio presso la sede precedente contiene le i
 
 <sup>2</sup> Se la trasmissione è effettuata elettronicamente, la riservatezza deve essere garantita.[^125-1]
 
-[^125-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^125-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 ### Sezione 2: Trasferimento in Svizzera della sede di un ente giuridico estero
 
@@ -2650,7 +2653,7 @@ Oltre alle indicazioni necessarie per una nuova iscrizione, l’iscrizione nel r
 
 <sup>4</sup> Se il Dipartimento federale di giustizia e polizia rilascia un’autorizzazione conformemente all’articolo 161 capoverso 2 LDIP, la pertinente decisione deve essere inoltrata all’ufficio del registro di commercio come documento giustificativo.
 
-[^126-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^126-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^126-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 ### Sezione 3: Trasferimento all’estero della sede di un ente giuridico svizzero
@@ -2678,10 +2681,10 @@ L’iscrizione nel registro di commercio contiene:
 - d. la data della relazione di revisione attestante che sono state prese le disposizioni necessarie a tutela dei creditori;
 - e. il fatto che la società è cancellata.
 
-[^127-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^127-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^127-2]: Introdotta dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^127-3]: Introdotta dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^127-4]: [RS 211.412.41](https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148)
+[^127-3]: Introdotta dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^127-4]: [RS 211.412.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5770)
 
 ### Capitolo 3: Ristrutturazioni
 
@@ -2693,8 +2696,8 @@ L’iscrizione nel registro di commercio contiene:
 
 Gli enti giuridici possono notificare fusioni, scissioni e trasferimenti di patrimonio per l’iscrizione nel registro di commercio soltanto dopo aver ottenuto le approvazioni delle altre autorità previste dalla legge. Questo si applica in particolare nel caso di ristrutturazioni che adempiono i requisiti di una concentrazione il cui annuncio è obbligatorio ai sensi dell’articolo 9 della legge del 6 ottobre 1995[^128-1] sui cartelli o che necessitano di un’autorizzazione da parte dell’autorità di vigilanza conformemente agli articoli 3 e 5 della legge federale del 17 dicembre 2004[^128-2] sulla sorveglianza delle imprese di assicurazione.
 
-[^128-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
-[^128-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^128-1]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
+[^128-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 129
 
@@ -2706,7 +2709,7 @@ Gli enti giuridici possono notificare fusioni, scissioni e trasferimenti di patr
 
 <sup>3</sup> Tale disposizione si applica anche per l’iscrizione di un conferimento in natura operato mediante trasferimento di patrimonio.[^129-1]
 
-[^129-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^129-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 2: Fusione di enti giuridici
 
@@ -2720,7 +2723,7 @@ Gli enti giuridici possono notificare fusioni, scissioni e trasferimenti di patr
 
 <sup>3</sup> Tutti i documenti giustificativi e i dati elettronici riguardanti le iscrizioni degli enti giuridici trasferenti devono essere trasmessi all’ufficio del registro di commercio presso la sede dell’ente giuridico assuntore dopo la loro cancellazione e conservati con gli atti riguardanti l’ente giuridico assuntore.
 
-[^130-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^130-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 131
 
@@ -2743,7 +2746,7 @@ Con la notificazione per l’iscrizione della fusione, gli enti giuridici partec
 
 <sup>3</sup> In caso di fusioni agevolate di società di capitali (art. 23 LFus), le società partecipanti alla fusione devono produrre, in luogo dei documenti giustificativi di cui al capoverso 1 lettere c e d, gli estratti dei verbali degli organi superiori di direzione o di amministrazione relativi all’approvazione del contratto di fusione, sempreché detto contratto non rechi la firma di tutti i membri di tali organi. Devono inoltre provare che le società adempiono le condizioni di cui all’articolo 23 LFus, se ciò non risulta da altri documenti giustificativi.
 
-[^131-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^131-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 132
 
@@ -2769,7 +2772,7 @@ L’iscrizione nel registro di commercio dell’ente giuridico trasferente conti
 - a. la ditta o il nome, la sede e il numero d’identificazione delle imprese degli enti giuridici partecipanti alla fusione;
 - b. il fatto che l’ente giuridico è cancellato a seguito di fusione (art. 21 cpv. 3 LFus).
 
-[^132-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^132-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 3: Scissione di società di capitali e società cooperative
 
@@ -2781,7 +2784,7 @@ L’iscrizione nel registro di commercio dell’ente giuridico trasferente conti
 
 <sup>2</sup> Se le società partecipanti alla scissione non appartengono tutte al medesimo distretto del registro, la decisione in merito all’iscrizione della scissione compete all’ufficio del registro di commercio presso la sede della società trasferente. Tale ufficio informa gli uffici del registro di commercio della sede degli enti giuridici assuntori in merito all’iscrizione da operare e ingiunge loro di procedere alla cancellazione dell’iscrizione precedente senza ulteriori verifiche. Su richiesta trasmette loro le copie della notificazione e dei documenti giustificativi.[^133-1]
 
-[^133-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^133-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 134
 
@@ -2848,7 +2851,7 @@ Con la notificazione per l’iscrizione della trasformazione (art. 66 LFus) occo
 
 <sup>2</sup> In caso di trasformazione di piccole e medie imprese, l’organo superiore di direzione o di amministrazione può produrre, in luogo del documento giustificativo di cui al capoverso 1 lettera d, una dichiarazione firmata da almeno uno dei suoi membri la quale prova che tutti i soci hanno rinunciato alla stesura del rapporto di trasformazione o alla verifica e che la società adempie le condizioni di cui all’articolo 2 lettera e LFus. La dichiarazione deve fare riferimento a documenti determinanti quali conti economici, bilanci, rapporti annuali, dichiarazioni di rinuncia o il verbale dell’assemblea generale.
 
-[^136-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^136-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 137
 
@@ -2863,7 +2866,7 @@ L’iscrizione nel registro di commercio di una trasformazione contiene le indic
 - e. le quote sociali e i diritti societari riconosciuti ai soci;
 - f. gli altri dati necessari per la nuova forma giuridica.
 
-[^137-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^137-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Sezione 5: Trasferimento di patrimonio
 
@@ -2907,7 +2910,7 @@ Con la notificazione per l’iscrizione della fusione (art. 83 cpv. 3 LFus), l�
 
 <sup>3</sup> L’articolo 132 si applica per analogia al contenuto dell’iscrizione della fusione. L’iscrizione menziona inoltre la data della decisione dell’autorità di vigilanza che approva la fusione.
 
-[^140-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^140-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 141
 
@@ -2943,8 +2946,8 @@ Con la notificazione per l’iscrizione della fusione (art. 95 cpv. 4 LFus), l�
 
 <sup>2</sup> L’articolo 132 si applica per analogia al contenuto dell’iscrizione della fusione. L’iscrizione menziona inoltre la data della decisione dell’autorità di vigilanza che approva la fusione.
 
-[^142-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^142-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^142-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^142-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 143
 
@@ -3003,7 +3006,7 @@ Con la notificazione per l’iscrizione della cancellazione dell’ente giuridic
 
 <sup>3</sup> Il contenuto dell’iscrizione è regolato dall’articolo 132. L’iscrizione menziona inoltre che si tratta di una fusione transfrontaliera secondo la LDIP.
 
-[^146-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^146-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^146-2]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^146-3]: Nuovo testo giusta l’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^146-4]: Introdotta dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
@@ -3097,8 +3100,8 @@ L’iscrizione contiene:
 
 <sup>2</sup> La diffida menziona le prescrizioni determinanti e le conseguenze giuridiche nel caso in cui non le sia dato seguito.
 
-[^152-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^152-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^152-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^152-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 152a
 
@@ -3122,7 +3125,7 @@ La notificazione è fatta mediante pubblicazione nel Foglio ufficiale svizzero d
 
 <sup>4</sup> La notificazione è considerata avvenuta il giorno della pubblicazione.
 
-[^152a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^152a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 153
 
@@ -3141,13 +3144,13 @@ Se l’ente giuridico non dà seguito alla diffida entro il termine previsto, l�
 
 <sup>3</sup> L’ufficio del registro di commercio non emana alcuna decisione se trasmette il caso al tribunale o all’autorità di vigilanza (art. 934 e 939 CO).
 
-[^153-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^153-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 153a a 153c
 
 [^153a153c-1]
 
-[^153a153c-1]: Introdotti dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Abrogati dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^153a153c-1]: Introdotti dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Abrogati dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 154
 
@@ -3159,13 +3162,13 @@ Se l’ente giuridico non dà seguito alla diffida entro il termine previsto, l�
 
 <sup>3</sup> Si applicano gli articoli 152*a* e 153.
 
-[^154-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^154-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2025 ([RU 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 #### Art. 155 e 156
 
 [^155156-1]
 
-[^155156-1]: Abrogati dal n. I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^155156-1]: Abrogati dalla cifra I dell’O del 6 mar. 2020, con effetto dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 157
 
@@ -3184,7 +3187,7 @@ Gli uffici del registro di commercio ricercano periodicamente:
 
 <sup>4</sup> Chiedono agli enti giuridici se i fatti iscritti la cui ultima modifica risale a più di dieci anni sono ancora attuali.
 
-[^157-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^157-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^157-2]: Nuovo testo giusta l’all. n. 2 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^157-3]: Nuovo testo giusta l’all. n. 2 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
@@ -3214,7 +3217,7 @@ In relazione alla procedura fallimentare il tribunale o l’autorità comunica a
 
 <sup>4</sup> …[^158-2]
 
-[^158-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^158-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^158-2]: [RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)
 
 #### Art. 159
@@ -3266,8 +3269,8 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
   - 1\. il fatto che la procedura fallimentare è stata chiusa,
   - 2\. la data della decisione di chiusura.
 
-[^159-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^159-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^159-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^159-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 159a
 
@@ -3287,7 +3290,7 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 - a. il fatto che, in caso di sospensione della procedura fallimentare per mancanza di attivo, entro il termine fissato non è stata fatta alcuna opposizione motivata contro la cancellazione o che, nel caso di un’impresa individuale, è cessato l’esercizio dell’azienda;
 - b. il fatto che l’impresa individuale è stata cancellata o, se del caso, il fatto che non è stata cancellata perché prosegue l’attività aziendale.
 
-[^159a-1]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^159a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 160
 
@@ -3307,9 +3310,9 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 <sup>4</sup> Se la moratoria è sospesa, tale fatto deve essere iscritto nel registro di commercio.[^160-3]
 
-[^160-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^160-2]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^160-3]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^160-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^160-2]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^160-3]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 161
 
@@ -3337,13 +3340,13 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 
 <sup>5</sup> L’iscrizione nel registro di commercio menziona la cancellazione e il motivo della cancellazione.
 
-[^161-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^161-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ## Titolo 6: Reiscrizione di enti giuridici cancellati
 
 [^tit6-1]
 
-[^tit6-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^tit6-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 162 e 163
 
@@ -3363,7 +3366,7 @@ In caso di reiscrizione di un ente giuridico cancellato (art. 935 CO) è riprist
 
 [^tit7-1]
 
-[^tit7-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^tit7-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 166
 
@@ -3383,9 +3386,9 @@ In caso di reiscrizione di un ente giuridico cancellato (art. 935 CO) è riprist
 
 <sup>7</sup> Notificazioni, documenti giustificativi o altri documenti in forma elettronica non possono essere cancellati. Devono essere conservati dall’ufficio del registro di commercio in modo da impedire che i dati possano essere modificati.[^166-3]
 
-[^166-1]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
-[^166-2]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Nuovo testo giusta l’all. n. II 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^166-3]: Introdotto dal n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^166-1]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
+[^166-2]: Introdotto dall’all. n. 1 dell’O del 23 set. 2011 sul registro fondiario ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Nuovo testo giusta l’all. cifra II n. 4 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^166-3]: Introdotto dalla cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 #### Art. 167
 
@@ -3444,7 +3447,7 @@ Al fine di garantire l’operatività e la sicurezza dei loro sistemi elettronic
 
 <sup>3</sup> L’UFRC può disciplinare in una direttiva la procedura dello scambio dei dati nonché la forma, il contenuto e la struttura dei dati trasmessi. Può inoltre stabilire la forma, il contenuto e la struttura dei dati resi disponibili a terzi.
 
-[^169-1]: Nuovo testo giusta il n. I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^169-1]: Nuovo testo giusta la cifra I dell’O del 6 mar. 2020, in vigore dal 1° gen. 2021 ([RU 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
 ## Titolo 8: Disposizioni finali
 
@@ -3573,9 +3576,9 @@ In tal caso l’organo superiore della fondazione deve constatare l’esistenza 
 - g. i membri dell’organo superiore della fondazione;
 - h. le persone autorizzate ad agire quali rappresentanti.
 
-[^181a-1]: Introdotto dall’all. 2 n. II 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^181a-1]: Introdotto dall’all. 2 cifra II n. 2 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^181a-2]: [RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289)
-[^181a-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^181a-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 181b
 
@@ -3609,7 +3612,7 @@ Le ordinanze qui di seguito sono modificate come segue:
 
 …[^annex1-lvlu1-2]
 
-[^annex1-lvlu1-1]: [[RU 53 593](https://fedlex.data.admin.ch/eli/oc/53/577_573_593); [1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733); [1971 1844](https://fedlex.data.admin.ch/eli/oc/1971/1839_1844_1844); [1982 558](https://fedlex.data.admin.ch/eli/oc/1982/558_558_558); [1989 2380](https://fedlex.data.admin.ch/eli/oc/1989/2380_2380_2380); [1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 36; [1997 2230](https://fedlex.data.admin.ch/eli/oc/1997/2230_2230_2230); [2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)all. n. 4, [2669](https://fedlex.data.admin.ch/eli/oc/2004/321), [4937](https://fedlex.data.admin.ch/eli/oc/2004/746)all. n. II 1;[2005 4557](https://fedlex.data.admin.ch/eli/oc/2005/593); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 22, [5787](https://fedlex.data.admin.ch/eli/oc/2006/859)all. 3 n. II 1]
+[^annex1-lvlu1-1]: [[RU 53 593](https://fedlex.data.admin.ch/eli/oc/53/577_573_593); [1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733); [1971 1844](https://fedlex.data.admin.ch/eli/oc/1971/1839_1844_1844); [1982 558](https://fedlex.data.admin.ch/eli/oc/1982/558_558_558); [1989 2380](https://fedlex.data.admin.ch/eli/oc/1989/2380_2380_2380); [1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 36; [1997 2230](https://fedlex.data.admin.ch/eli/oc/1997/2230_2230_2230); [2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)all. n. 4, [2669](https://fedlex.data.admin.ch/eli/oc/2004/321), [4937](https://fedlex.data.admin.ch/eli/oc/2004/746)all. cifra II n. 1;[2005 4557](https://fedlex.data.admin.ch/eli/oc/2005/593); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 22, [5787](https://fedlex.data.admin.ch/eli/oc/2006/859)all. 3 cifra II n. 1]
 [^annex1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2007 4851](https://fedlex.data.admin.ch/eli/oc/2007/686).
 
 Allegato 2[^t-2]
@@ -3618,7 +3621,7 @@ Allegato 2[^t-2]
 
 ## Lista delle abbreviazioni delle forme giuridiche ammesse
 
-[^t-2]: Introdotto dal n. II dell’O del 18 mag. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)). Aggiornato dal n. II cpv.1 dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^t-2]: Introdotto dalla cifra II dell’O del 18 mag. 2016 ([RU 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)). Aggiornato dalla cifra II cpv.1 dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 Deutsch
 
@@ -3682,7 +3685,7 @@ Allegato 3[^t-3]
 
 ## Monete estere ammesse per il capitale di una società anonima
 
-[^t-3]: Introdotto dal n. II cpv. 2 dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^t-3]: Introdotto dalla cifra II cpv. 2 dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 Sterlina britannica GBP
 

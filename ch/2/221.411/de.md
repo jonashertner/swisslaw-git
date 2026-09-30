@@ -4,11 +4,11 @@ title: Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
 short: HRegV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: de
-version: 2025-01-01
+version: 2026-10-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20250101/de"
 
 (HRegV)
 
-vom 17. Oktober 2007 (Stand am 1. Januar 2025)
+vom 17. Oktober 2007 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 621 Absatz 2, 933 Absatz 2, 943 und 950 Absatz 2 des O
 
 verordnet:
 
-[^ingress-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^ingress-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^ingress-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^ingress-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -186,9 +186,12 @@ Nicht der Öffentlichkeit des Handelsregisters nach Artikel 936 OR unterstehen:
 - c. Kopien von Ausweisdokumenten;
 - d. Unterlagen nach Artikel 62 Absatz 2;
 - e. Meldungen und Unterlagen, die im Rahmen der Prüfung von Tätigkeitsverboten nach Artikel 928*a* Absätze 2<sup>bis</sup>–2<sup>quater</sup> OR erstattet beziehungsweise übermittelt werden;
-- f. Unterlagen nach Artikel 65*a* Absatz 1.
+- f. Unterlagen nach Artikel 65*a* Absatz 1;
+- g.[^10-2] Meldungen im Zusammenhang mit dem Bundesgesetz vom 26. September 2025[^10-3] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
+[^10-2]: Eingefügt durch Anhang Ziff. 4 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^10-3]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 11
 
@@ -215,7 +218,7 @@ Auf Verlangen gewähren die Handelsregisterämter Einsicht in das Hauptregister,
 
 [^11-1]: Aufgehoben durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^11-2]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^11-3]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^11-3]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 [^11-4]: Eingefügt durch Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 12
@@ -248,7 +251,7 @@ Das Handelsregisteramt bringt auf beglaubigten Kopien auf Papier den Hinweis an:
 <sup>3</sup> Für die Erstellung elektronischer Beglaubigungen sowie für die Erstellung beglaubigter Papierausdrucke elektronischer Dokumente ist die EÖBV anwendbar.
 
 [^12a-1]: Fassung gemäss Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^12a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^12a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 ### 6. Kapitel: Elektronischer Geschäftsverkehr
 
@@ -262,8 +265,8 @@ Das Handelsregisteramt bringt auf beglaubigten Kopien auf Papier den Hinweis an:
 
 Soweit diese Verordnung nichts Abweichendes bestimmt, richtet sich der elektronische Geschäftsverkehr im Handelsregister nach den Artikeln 130 Absatz 2 und 143 Absatz 2 der Zivilprozessordnung[^12b-1] (ZPO) und nach der Verordnung vom 18. Juni 2010[^12b-2] über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren.
 
-[^12b-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^12b-2]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^12b-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^12b-2]: [SR 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 
 #### Art. 12c
 
@@ -278,9 +281,9 @@ Elektronische Eingaben an die Handelsregisterämter können neben den Zustellpla
 
 <sup>2</sup> Das EHRA kann die Abwicklung und Automatisierung des elektronischen Geschäftsverkehrs regeln, namentlich in Bezug auf Formulare, Datenformate, Datenstrukturen, Geschäftsprozesse und alternative Übermittlungsverfahren.[^12c-4]
 
-[^12c-1]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
+[^12c-1]: [SR 272.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6137)
 [^12c-2]: Fassung gemäss Anhang Ziff. II 4 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^12c-3]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^12c-3]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^12c-4]: Die Änd. gemäss Anhang 2 Ziff. II 29 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 betrifft nur den französischen und den italienischen Text ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 12d
@@ -408,7 +411,7 @@ Folgende Eintragungen können zudem die betroffenen Personen selbst anmelden:
 <sup>4</sup> Elektronische Anmeldungen müssen mit einer qualifizierten elektronischen Signatur mit qualifiziertem elektronischem Zeitstempel nach Artikel 2 Buchstaben e und j ZertES[^18-2] unterzeichnet sein. Unter Vorbehalt von Artikel 21 müssen die eigenhändigen Unterschriften der Personen, welche die Anmeldung unterzeichnen, nicht hinterlegt werden.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^18-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^18-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 19
 
@@ -424,8 +427,8 @@ Folgende Eintragungen können zudem die betroffenen Personen selbst anmelden:
 
 <sup>4</sup> Die Genehmigung der Eintragungen durch das EHRA bleibt vorbehalten.
 
-[^19-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^19-2]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+[^19-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^19-2]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
 [^19-3]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 
 ### 2. Abschnitt: Belege
@@ -447,8 +450,8 @@ Folgende Eintragungen können zudem die betroffenen Personen selbst anmelden:
 <sup>4</sup> Werden Belege in einer Sprache eingereicht, die nicht als Amtssprache des Kantons gilt, so kann das Handelsregisteramt eine Übersetzung verlangen, sofern dies für die Prüfung oder für die Einsichtnahme durch Dritte erforderlich ist. Soweit nötig, kann es die Übersetzerin oder den Übersetzer bezeichnen. Die Übersetzung gilt diesfalls ebenfalls als Beleg.
 
 [^20-1]: Fassung gemäss Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^20-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^20-3]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^20-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^20-3]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 #### Art. 21
 
@@ -473,7 +476,7 @@ Wird eine zeichnungsberechtigte Person zur Eintragung in das Handelsregister ang
 
 [^21-1]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^21-3]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^21-3]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^21-4]: Fassung gemäss Anhang Ziff. II 4 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 22
@@ -858,7 +861,7 @@ Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so müs
 [^43-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^43-3]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^43-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^43-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^43-5]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^43-6]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^43-7]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
@@ -928,7 +931,7 @@ Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so sind
 [^45-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^45-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-5]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^45-6]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-6]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^45-7]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-8]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^45-9]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
@@ -1000,7 +1003,7 @@ Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile oder wir
 <sup>4</sup> Werden die Bezugsrechte eingeschränkt oder aufgehoben, so muss eine vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors eingereicht werden (Art. 652*f* Abs. 1 OR).
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
-[^46-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^46-2]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 
 #### Art. 47
 
@@ -1030,7 +1033,7 @@ Bei einer ordentlichen Erhöhung des Aktienkapitals müssen ins Handelsregister 
 <sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^48-3]
 
 [^48-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^48-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^48-2]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^48-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 49 und 50
@@ -1069,7 +1072,7 @@ Ins Handelsregister müssen eingetragen werden:
 [^51-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^51-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^51-3]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^51-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^51-4]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^51-5]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 52
@@ -1092,7 +1095,7 @@ Mit der Anmeldung zur Eintragung der Beschlüsse des Verwaltungsrates betreffend
 [^52-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^52-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^52-3]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^52-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^52-4]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^52-5]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 53
@@ -1384,7 +1387,7 @@ Das Handelsregisteramt fordert die Gesellschaft auf, die Verzichtserklärung zu 
 <sup>7</sup> Reicht die Gesellschaft infolge einer Aufforderung gemäss Absatz 5 Buchstabe a die Jahresrechnung gemäss Absatz 2 Buchstabe a ein, so leitet das Handelsregisteramt diese an die Steuerbehörden weiter (Art. 112 Abs. 1 DBG).
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
-[^62-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^62-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### 10. Abschnitt: Auflösung und Löschung
 
@@ -1511,7 +1514,7 @@ Mit der Anmeldung zur Eintragung der Gründung einer Kommanditaktiengesellschaft
 [^66-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^66-3]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^66-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^66-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^66-5]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^66-6]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 67
@@ -1571,7 +1574,7 @@ Bei Kommanditaktiengesellschaften müssen ins Handelsregister eingetragen werden
 [^68-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^68-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^68-5]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^68-6]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-6]: [SR 957.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11624)
 [^68-7]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 [^68-8]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
@@ -1955,8 +1958,8 @@ Vereine nach Absatz 1 Buchstabe c sind von der Eintragungspflicht befreit, wenn:
 - c. mindestens eine zur Vertretung des Vereins berechtigte Person ihren Wohnsitz in der Schweiz hat.
 
 [^90-1]: Eingefügt durch Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^90-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^90-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^90-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^90-3]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 90a
 
@@ -1988,7 +1991,7 @@ Mit der Anmeldung zur Eintragung eines Vereins müssen dem Handelsregisteramt fo
 
 [^90a-1]: Ursprünglich: Art. 90
 [^90a-2]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^90a-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90a-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^90a-4]: Eingefügt durch Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 91
@@ -2025,7 +2028,7 @@ Bei Vereinen müssen ins Handelsregister eingetragen werden:
 - m. falls der Verein eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle.
 
 [^92-1]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^92-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^92-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^92-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^92-4]: Aufgehoben durch Anhang Ziff. 2 der V vom 31. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
@@ -2099,7 +2102,7 @@ Bei Stiftungen müssen ins Handelsregister eingetragen werden:
 [^95-3]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^95-4]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 634](https://fedlex.data.admin.ch/eli/oc/2023/634)).
 [^95-5]: Eingefügt durch Art. 24 der V vom 10. und 22. Juni 2011 über die Aufsicht in der beruflichen Vorsorge, in Kraft seit 1. Jan. 2012 ([AS 2011 3425](https://fedlex.data.admin.ch/eli/oc/2011/460)).
-[^95-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^95-6]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^95-7]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^95-8]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
@@ -2161,7 +2164,7 @@ Bei Kommanditgesellschaften für kollektive Kapitalanlagen müssen ins Handelsre
 
 [^99-1]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^99-2]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^99-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^99-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^99-4]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 #### Art. 100
@@ -2465,7 +2468,7 @@ Die Unternehmens-Identifikationsnummer einer gelöschten Rechtseinheit darf nich
 <sup>3</sup> Für die Rechtsformen nach dem Kollektivanlagengesetz vom 23. Juni 2006[^116a-2] gelten die darin festgelegten Bezeichnungen und Abkürzungen.
 
 [^116a-1]: Eingefügt durch Ziff. I der V vom 18. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
-[^116a-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^116a-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 117
 
@@ -2546,7 +2549,7 @@ Werden Rechtseinheiten als Inhaberinnen einer Funktion bei einer anderen Rechtse
 
 Einzelunternehmen, Handelsgesellschaften, juristische Personen sowie Institute des öffentlichen Rechts dürfen als solche nicht als Mitglied der Leitungs- oder Verwaltungsorgane oder als Zeichnungsberechtigte in das Handelsregister eingetragen werden. Vorbehalten bleibt Artikel 98 KAG[^120-1] sowie die Eintragung von Liquidatorinnen, Liquidatoren, Revisorinnen, Revisoren, Konkursverwalterinnen, Konkursverwaltern oder Sachwalterinnen und Sachwaltern.
 
-[^120-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^120-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 121
 
@@ -2655,7 +2658,7 @@ Zusätzlich zu den erforderlichen Angaben bei der Eintragung einer neu gegründe
 
 <sup>4</sup> Erteilt das Eidgenössische Justiz- und Polizeidepartement eine Bewilligung gemäss Artikel 161 Absatz 2 IPRG, so muss die entsprechende Verfügung dem Handelsregisteramt als Beleg eingereicht werden.
 
-[^126-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^126-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^126-2]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 
 ### 3. Abschnitt: Verlegung des Sitzes einer schweizerischen Rechtseinheit ins Ausland
@@ -2683,11 +2686,11 @@ Ins Handelsregister müssen eingetragen werden:
 - d. das Datum des Revisionsberichts, der bestätigt, dass die Vorkehrungen zum Schutz der Gläubigerinnen und Gläubiger erfüllt worden sind;
 - e. die Tatsache, dass die Rechtseinheit gelöscht wird.
 
-[^127-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^127-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^127-2]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^127-3]: Eingefügt durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^127-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^127-5]: [SR 211.412.41](https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148)
+[^127-5]: [SR 211.412.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5770)
 
 ### 3. Kapitel: Umstrukturierungen
 
@@ -2699,8 +2702,8 @@ Ins Handelsregister müssen eingetragen werden:
 
 Rechtseinheiten dürfen Fusionen, Spaltungen, Umwandlungen und Vermögensübertragungen erst zur Eintragung ins Handelsregister anmelden, wenn die von Gesetzes wegen erforderlichen Zustimmungen anderer Behörden vorliegen. Dies gilt insbesondere für den Fall, dass die Umstrukturierung die Anforderungen eines zu meldenden Zusammenschlusses gemäss Artikel 9 des Kartellgesetzes vom 6. Oktober 1995[^128-1] erfüllt oder einer Bewilligung durch die Aufsichtsbehörde gemäss den Artikeln 3 und 5 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^128-2] bedarf.
 
-[^128-1]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
-[^128-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^128-1]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
+[^128-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 129
 
@@ -3008,7 +3011,7 @@ Mit der Anmeldung zur Eintragung der Löschung der übertragenden Rechtseinheit 
 
 <sup>3</sup> Der Inhalt des Eintrags richtet sich nach Artikel 132. Zusätzlich muss im Eintrag darauf hingewiesen werden, dass es sich um eine grenzüberschreitende Fusion nach den Vorschriften des IPRG handelt.
 
-[^146-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^146-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^146-2]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^146-3]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^146-4]: Eingefügt durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
@@ -3314,7 +3317,7 @@ Ins Handelsregister müssen eingetragen werden:
 
 <sup>4</sup> Wird die Nachlassstundung aufgehoben, so muss diese Tatsache ins Handelsregister eingetragen werden.[^160-3]
 
-[^160-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^160-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^160-2]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^160-3]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
@@ -3344,7 +3347,7 @@ Ins Handelsregister müssen eingetragen werden:
 
 <sup>5</sup> Zusammen mit der Löschung muss der Löschungsgrund ins Handelsregister eingetragen werden.
 
-[^161-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^161-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ## 6. Titel: Wiedereintragung gelöschter Rechtseinheiten
 
@@ -3390,7 +3393,7 @@ Aufgehoben
 
 <sup>7</sup> Anmeldungen, Belege oder sonstige Dokumente, die in elektronischer Form vorliegen, dürfen nicht gelöscht werden. Sie müssen durch das Handelsregisteramt so aufbewahrt werden, dass die Daten nicht mehr verändert werden können.[^166-3]
 
-[^166-1]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^166-1]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 [^166-2]: Eingefügt durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)). Fassung gemäss Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^166-3]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
@@ -3580,7 +3583,7 @@ In diesem Fall muss das oberste Stiftungsorgan in einem Protokoll oder Protokoll
 - h. Die zur Vertretung berechtigten Personen.
 
 [^181a-1]: Eingefügt durch Anhang 2 Ziff. II 2 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^181a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^181a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^181a-3]: [AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289)
 
 #### Art. 181b
