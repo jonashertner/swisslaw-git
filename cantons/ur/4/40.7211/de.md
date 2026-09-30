@@ -1,34 +1,32 @@
 ---
 canton: UR
 number: "40.7211"
-title: ENERGIEGESETZ DES KANTONS URI
+title: Energiegesetz des Kantons Uri
 short: EnG
 language: de
-version: 2000-01-01
-corrected: 2025-08-19
-version_adopted: 1999-04-18
+version: 2026-10-01
+version_adopted: 2026-03-08
 adopted: 1999-04-18
 in_force: 2000-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7211"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/313/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/1162/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# ENERGIEGESETZ DES KANTONS URI
+# Energiegesetz des Kantons Uri
 
-ENERGIEGESETZ DES KANTONS URI (EnG)
+(EnG)
 
-(vom 18. April 1999[^t-1]; Stand am 1. Januar 2000)
+Vom 18.04.1999 (Stand 01.10.2026)
 
-Das Volk des Kantons Uri, gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung<sup>2</sup>,
+Das Volk des Kantons Uri,
+
+gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
 
 beschliesst:
 
-[^t-1]: AB vom 12. März 1999
-
-### 1. Kapitel: ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Artikel 1
 
@@ -48,9 +46,9 @@ beschliesst:
 
 <sup>2</sup> Die Kosten für die Energieversorgung sind möglichst jenen Verbrauchern und Verbraucherinnen anzurechnen, die sie verursachen (Verursacherprinzip).
 
-### 2. Kapitel: SPARMASSNAHMEN IM GEBÄUDEBEREICH
+## 2 Sparmassnahmen im Gebäudebereich
 
-### 1. Abschnitt: Wärme- und Kälteschutz, Haustechnik
+### 2.1 Wärme- und Kälteschutz, Haustechnik
 
 #### Artikel 3
 
@@ -62,39 +60,36 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat ordnet die Einzelheiten in einem Reglement und passt dieses dem Stand der Technik an. Er kann Normen von Fachorganisationen verbindlich erklären. Er regelt insbesondere die Anforderungen an:
 
-- a) den Wärme- und Kälteschutz sowie;
-
-- b) die Haustechnik.
+- a) den Wärme- und Kälteschutz sowie
+- b) die Haustechnik
 
 #### Artikel 4
 
-**Ausnahmen**
+**Ausnahmen: Vertragliche Vereinbarung**
 
-- a) Vertragliche Vereinbarung
-
-<sup>1</sup> Bei gewerblichen und industriellen Anlagen und Bauten kann nach vertraglicher Vereinbarung zwischen der Bauherrschaft und der Baubewilligungsbehörde von den einzelnen Energiesparvorschriften abgewichen werden, sofern mit einem geeigneten Energiekonzept dargelegt wird, dass die Ziele dieses Gesetzes in gleicher Weise erfüllt werden. Die Richtigkeit des Nachweises ist von der zuständigen Direktion[^4-1] zu bestätigen.
+<sup>1</sup> Bei gewerblichen und industriellen Anlagen und Bauten kann nach vertraglicher Vereinbarung zwischen der Bauherrschaft und der Baubewilligungsbehörde von den einzelnen Energiesparvorschriften abgewichen werden, sofern mit einem geeigneten Energiekonzept dargelegt wird, dass die Ziele dieses Gesetzes in gleicher Weise erfüllt werden. Die Richtigkeit des Nachweises ist von der zuständigen Direktion[^Artikel4-1] zu bestätigen.
 
 <sup>2</sup> Der Regierungsrat kann in einem Reglement die Anwendbarkeit dieser Bestimmung auf weitere Gruppen von Anlagen und Bauten ausdehnen.
 
-[^4-1]: Baudirektion; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322)
+[^Artikel4-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
 
-#### Artikel 5 b
+#### Artikel 5
 
-**) Erleichterungen**
+**Ausnahmen: Erleichterungen**
 
-<sup>1</sup> Bei den Anforderungen an den Wärme- und Kälteschutz und die Haustechnik ganzer oder einzelner Gebäudeteile können Erleichterungen gewährt werden, wenn a) die Erfüllung der Anforderungen technisch nicht durchführbar oder wirtschaftlich unverhältnismässig wäre;
+<sup>1</sup> Bei den Anforderungen an den Wärme- und Kälteschutz und die Haustechnik ganzer oder einzelner Gebäudeteile können Erleichterungen gewährt werden, wenn:
 
-- b) die Massnahmen in keinem angemessenen Verhältnis zum erzielbaren Nutzen stehen;
-
-- c) überwiegende öffentliche Interessen entgegenstehen.
+- a) die Erfüllung der Anforderungen technisch nicht durchführbar oder wirtschaftlich unverhältnismässig wäre
+- b) die Massnahmen in keinem angemessenen Verhältnis zum erzielbaren Nutzen stehen
+- c) überwiegende öffentliche Interessen entgegenstehen
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten in einem Reglement.
 
-### 2. Abschnitt: Heizung
+### 2.2 Heizung
 
 #### Artikel 6
 
-Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
+**Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung**
 
 <sup>1</sup> Zentralbeheizte neue Bauten mit fünf und mehr Wärmebezügern sind mit den nötigen Geräten zur Erfassung des Wärmeverbrauchs (Heizenergie und Warmwasser) auszurüsten.
 
@@ -102,17 +97,16 @@ Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
 <sup>3</sup> Soweit Einrichtungen gemäss Absatz 1 und 2 vorgeschrieben werden, sind die Wärmekosten überwiegend nach dem tatsächlichen Verbrauch abzurechnen.
 
-<sup>4</sup> Auf Massnahmen gemäss den Absätzen 1 bis 3 kann verzichtet werden, wenn a) der tatsächliche Energieverbrauch bedeutend geringer ist, als es die Gesetzgebung vorschreibt;
+<sup>4</sup> Auf Massnahmen gemäss den Absätzen 1 bis 3 kann verzichtet werden, wenn:
 
-- b) der Energieverbrauch zu über 50 Prozent aus selbst erzeugter, erneuerbarer Energie oder durch anderweitig nicht nutzbare Abwärme gedeckt wird.
+- a) der tatsächliche Energieverbrauch bedeutend geringer ist, als es die Gesetzgebung vorschreibt
+- b) der Energieverbrauch zu über 50 Prozent aus selbst erzeugter, erneuerbarer Energie oder durch anderweitig nicht nutzbare Abwärme gedeckt wird
 
 <sup>5</sup> Der Regierungsrat setzt in diesem Rahmen insbesondere fest:
 
-- a) die Anwendungsbestimmungen für neue Bauten;
-
-- b) die Anwendungs- und Übergangsbestimmungen für bestehende Gebäude;
-
-- c) die Ausnahmen von der Ausrüstungspflicht.
+- a) die Anwendungsbestimmungen für neue Bauten
+- b) die Anwendungs- und Übergangsbestimmungen für bestehende Gebäude
+- c) die Ausnahmen von der Ausrüstungspflicht
 
 #### Artikel 7
 
@@ -124,11 +118,9 @@ Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
 <sup>3</sup> Der Regierungsrat regelt die Einzelheiten. Er kann Ausnahmen vorsehen, namentlich für:
 
-- a) zeitlich befristete Anlagen;
-
-- b) unabhängige Produzenten;
-
-- c) Anlagen, die der Sicherheit von Personen und Sachen dienen.
+- a) zeitlich befristete Anlagen
+- b) unabhängige Produzenten
+- c) Anlagen, die der Sicherheit von Personen und Sachen dienen
 
 #### Artikel 8
 
@@ -138,7 +130,7 @@ Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
 <sup>2</sup> Er kann namentlich die Installation neuer sowie den Ersatz und die Änderung bestehender Aussenheizungen und heizbarer Freiluftbäder für bewilligungspflichtig erklären und vom Verbrauch bestimmter erneuerbarer Energien abhängig machen.
 
-### 3. Kapitel: ENERGIEVERSORGUNG
+## 3 Energieversorgung
 
 #### Artikel 9
 
@@ -156,7 +148,7 @@ Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
 <sup>1</sup> Kanton, Gemeinden und Korporationen können im Rahmen des Bundesrechts Energieanlagen selbst erstellen, betreiben und die dort produzierte Energie zu Marktpreisen verkaufen. Sie können sich an solchen Energieversorgungs-Unternehmen beteiligen und die erforderlichen Zusammenarbeitsverträge abschliessen.
 
-<sup>2</sup> Der Landrat beschliesst die Errichtung eigener kantonaler Anlagen oder Unternehmen und entscheidet über die Beteiligung des Kantons an Unternehmen der Energieversorgung. Vorbehalten bleiben die Finanzkompetenzen gemäss Kantonsverfassung<sup>4</sup>.
+<sup>2</sup> Der Landrat beschliesst die Errichtung eigener kantonaler Anlagen oder Unternehmen und entscheidet über die Beteiligung des Kantons an Unternehmen der Energieversorgung. Vorbehalten bleiben die Finanzkompetenzen gemäss Kantonsverfassung (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)).
 
 <sup>3</sup> Der Regierungsrat regelt Organisation und Betrieb kantonaler Anlagen, trifft die entsprechenden Vereinbarungen und beschliesst die damit verbundenen Ausgaben.
 
@@ -168,7 +160,7 @@ Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
 <sup>2</sup> In Streitfällen setzt der Regierungsrat die Anschlussbedingungen für unabhängige Produzenten fest. Er kann in Einzelfällen die Vergütung angemessen reduzieren, wenn zwischen Übernahmepreis und Produktionskosten ein offensichtliches Missverhältnis besteht.
 
-<sup>3</sup> Der Regierungsrat wird ermächtigt, bei Bedarf einen Ausgleichsfonds zu schaffen, um einzelne Unternehmungen der öffentlichen Energieversorgung zu entschädigen, wenn sie überproportional elektrische Energie von unabhängigen Produzenten übernehmen müssen. Der Fonds wird von allen Unternehmen gespiesen, die im Kanton Uri elektrische Energie produzieren, übertragen und verteilen. Massgeblich hiefür ist deren Anteil an der Energieproduktion, -verteilung und -übertragung im Kanton Uri. Das Nähere ordnet der Regierungsrat in einem Reglement.
+<sup>3</sup> Der Regierungsrat wird ermächtigt, bei Bedarf einen Ausgleichsfonds zu schaffen, um einzelne Unternehmungen der öffentlichen Energieversorgung zu entschädigen, wenn sie überproportional elektrische Energie von unabhängigen Produzenten übernehmen müssen. Der Fonds wird von allen Unternehmen gespiesen, die im Kanton Uri elektrische Energie produzieren, übertragen und verteilen. Massgeblich hiefür ist deren Anteil an der Energieproduktion, ‑verteilung und ‑übertragung im Kanton Uri. Das Nähere ordnet der Regierungsrat in einem Reglement.
 
 #### Artikel 12
 
@@ -176,32 +168,29 @@ Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
 <sup>1</sup> Der Kanton kann im Verfahren der Richtplanung, die Gemeinden im Verfahren der Nutzungsplanung Gebiete bezeichnen, in denen die Erschliessung durch einen bestimmten Energieträger vorgesehen ist beziehungsweise gemeinschaftliche Energieanlagen vorgeschrieben sind.
 
-2 Für Quartier- und Quartiergestaltungspläne bleibt Artikel 31 Absatz 3 des kantonalen Baugesetzes<sup>5</sup> vorbehalten.
+<sup>2</sup> Für Quartier- und Quartiergestaltungspläne bleibt Artikel 31 Absatz 3 des kantonalen Baugesetzes (RB [40.1111](https://rechtsbuch.ur.ch/data/40.1111/de)) vorbehalten.
 
-### 4. Kapitel: FÖRDERUNG
+## 4 Förderung
 
-### 1. Abschnitt: Beratung und Ausbildung
+### 4.1 Beratung und Ausbildung
 
 #### Artikel 13
 
-**Information und Beratung**
+**Nutzung der Sonnenenergie bei Gebäuden**
 
-<sup>1</sup> Der Kanton führt eine Energiefachstelle[^13-1].
+<sup>1</sup> An Neubauten sowie Erweiterungen von bestehenden Gebäuden ab einer minimalen anrechenbaren Gebäudefläche ist eine Anlage zur Nutzung der Sonnenenergie, beispielsweise eine Photovoltaik- oder eine Solarthermieanlage, zu erstellen.
 
-<sup>2</sup> Die Fachstelle informiert und berät in Zusammenarbeit mit privaten Organisationen die Öffentlichkeit und die Behörden über die Sicherung einer wirtschaftlichen und umweltverträglichen Energieversorgung, die Möglichkeiten einer sparsamen und rationellen Energienutzung sowie die Nutzung erneuerbarer Energien.
+<sup>2</sup> Wird das Dach eines Gebäudes ab einer minimalen anrechenbaren Gebäudefläche eingreifend saniert, muss das Gebäude mit einer Anlage zur Nutzung der Sonnenenergie, beispielsweise einer Photovoltaik- oder eine Solarthermieanlage, ausgerüstet werden.
 
-3 Sie ist die Kontaktstelle zum zuständigen Bundesamt[^13-2].
-
-[^13-1]: Amt für Energie; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322)
-[^13-2]: Bundesamt für Energie
+<sup>3</sup> Der Landrat regelt die Einzelheiten in einer Verordnung. Er regelt insbesondere die minimale anrechenbare Gebäudefläche für die Anforderung zur Nutzung der Sonnenenergie sowie die Art und den Umfang der Anlage zur Nutzung der Sonnenenergie. Er berücksichtigt dabei die anrechenbare Gebäudefläche als Bemessungsgrundlage für die Anlagenleistung.
 
 #### Artikel 14
 
 **Aus- und Weiterbildung**
 
-Der Kanton fördert und unterstützt die Aus- und Weiterbildung von Personen, die mit Aufgaben nach diesem Gesetz betraut sind.
+<sup>1</sup> Der Kanton fördert und unterstützt die Aus- und Weiterbildung von Personen, die mit Aufgaben nach diesem Gesetz betraut sind.
 
-### 2. Abschnitt: Förderungsinstrumente
+### 4.2 Förderungsinstrumente
 
 #### Artikel 15
 
@@ -223,9 +212,9 @@ Der Kanton fördert und unterstützt die Aus- und Weiterbildung von Personen, di
 
 <sup>2</sup> Im Rahmen der ordentlichen Finanzkompetenzen kann der Kanton einen Fonds äufnen, über den der Regierungsrat bestimmt.
 
-### 5. Kapitel: ORGANISATION UND VOLLZUG
+## 5 Organisation und Vollzug
 
-### 1. Abschnitt: Organisation
+### 5.1 Organisation
 
 #### Artikel 17
 
@@ -239,15 +228,15 @@ Der Kanton fördert und unterstützt die Aus- und Weiterbildung von Personen, di
 
 **Zuständige Direktion**
 
-<sup>1</sup> Die zuständige Direktion[^18-1]übt die unmittelbare Aufsicht über den Vollzug der Energiegesetzgebung aus und ist zuständig für den Vollzug, soweit dieses Gesetz oder die besondere Gesetzgebung nichts anderes bestimmt. Sie erfüllt diese Aufgabe durch das zuständige Amt[^18-2].
+<sup>1</sup> Die zuständige Direktion[^Artikel18-1] übt die unmittelbare Aufsicht über den Vollzug der Energiegesetzgebung aus und ist zuständig für den Vollzug, soweit dieses Gesetz oder die besondere Gesetzgebung nichts anderes bestimmt. Sie erfüllt diese Aufgabe durch das zuständige Amt[^Artikel18-2].
 
-<sup>2</sup> Die zuständige Direktion[^18-3] ist die zuständige Behörde im Sinne der Bundesgesetzgebung, soweit diese oder das kantonale Recht nichts anderes bestimmt.
+<sup>2</sup> Die zuständige Direktion[^Artikel18-3] ist die zuständige Behörde im Sinne der Bundesgesetzgebung, soweit diese oder das kantonale Recht nichts anderes bestimmt.
 
-[^18-1]: Baudirektion; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322)
-[^18-2]: Amt für Energie; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322)
-[^18-3]: Baudirektion; vgl. Art. 1 und 6 Organisationsreglement (RB 2.3322)
+[^Artikel18-1]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^Artikel18-2]: Amt für Energie; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
+[^Artikel18-3]: Baudirektion; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
 
-### 2. Abschnitt: Vollzug
+### 5.2 Vollzug
 
 #### Artikel 19
 
@@ -269,17 +258,17 @@ Der Kanton fördert und unterstützt die Aus- und Weiterbildung von Personen, di
 
 **Gebühren**
 
-<sup>1</sup> Für Bewilligungen, Kontrollen und besondere Dienstleistungen der Behörden werden entsprechend dem tatsächlichen Aufwand Gebühren erhoben. Die kantonalen Gebühren richten sich nach den Bestimmungen der Gebührenverordnung<sup>11</sup> und des Gebührenreglements<sup>12</sup>.
+<sup>1</sup> Für Bewilligungen, Kontrollen und besondere Dienstleistungen der Behörden werden entsprechend dem tatsächlichen Aufwand Gebühren erhoben. Die kantonalen Gebühren richten sich nach den Bestimmungen der Gebührenverordnung (RB [3.2512](https://rechtsbuch.ur.ch/data/3.2512/de)) und des Gebührenreglements (RB [3.2521](https://rechtsbuch.ur.ch/data/3.2521/de)).
 
-2 Die Informations- und Beratungstätigkeiten der Energiefachstelle sind grundsätzlich gebührenfrei.
+<sup>2</sup> Die Informations- und Beratungstätigkeiten der Energiefachstelle sind grundsätzlich gebührenfrei.
 
-### 6. Kapitel: SCHLUSSBESTIMMUNGEN
+## 6 Schlussbestimmungen
 
 #### Artikel 22
 
 **Rechtspflegeverfahren**
 
-<sup>1</sup> Das Verwaltungsverfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege<sup>13</sup>.
+<sup>1</sup> Das Verwaltungsverfahren richtet sich nach der Verordnung über die Verwaltungsrechtspflege (RB [2.2345](https://rechtsbuch.ur.ch/data/2.2345/de)).
 
 <sup>2</sup> Streitigkeiten im Zusammenhang mit der Abrechnung der Heiz- und Warmwasserkosten beurteilt der Zivilrichter. Bei Mietverhältnissen gilt das Anfechtungsverfahren nach Mietrecht.
 
@@ -297,10 +286,8 @@ Der Kanton fördert und unterstützt die Aus- und Weiterbildung von Personen, di
 
 **Inkrafttreten**
 
-Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt[^24-1].
+<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt[^Artikel24-1].
 
-Im Namen des Volkes
+[^Artikel24-1]: Vom Regierungsrat in Kraft gesetzt am 1. Januar 2000.
 
-Der Landammann: Peter Mattli Der Kanzleidirektor: Dr. Peter Huber
-
-[^24-1]: vom Regierungsrat in Kraft gesetzt am 1. Januar 2000
+AB 12.03.1999
