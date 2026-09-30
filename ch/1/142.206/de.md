@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (
 short: EESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: de
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20260612-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20261001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/de"
 
 (EESV)
 
-vom 10. November 2021 (Stand am 12. Juni 2026)
+vom 10. November 2021 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -41,8 +41,8 @@ Diese Verordnung regelt:
 - d. die Berichtigung, Ergänzung und Löschung von Daten;
 - e. die Rechte der betroffenen Personen, den Datenschutz, die Datensicherheit und die Aufsicht über die Datenbearbeitung.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 262](https://fedlex.data.admin.ch/eli/oc/2026/262)).
-[^1-2]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2024/1356, ABl. L, 2024/1356, 22.5.2024.
+[^1-1]: Fassung gemäss Anhang 3 Ziff. 3 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^1-2]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABL L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
 
 #### Art. 2
 
@@ -55,13 +55,15 @@ In dieser Verordnung bedeuten:
 - a. *Schengen-Staat:* Staat, der durch eines der Schengen-Assoziierungsabkommen gebunden ist;
 - b. *Schengen-Aussengrenzen:* Grenzen, die nach Artikel 29 Absatz 1 der Verordnung vom 15. August 2018[^2-1] über die Einreise und die Visumerteilung festgelegt wurden;
 - c. *Drittstaatsangehörige oder* *Drittstaatsangehöriger:* Angehörige oder Angehöriger eines Staates, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation ist;
-- d. *terroristische Straftat:* Straftat nach Anhang 1*a* der N-SIS-Verordnung vom 8. März 2013[^2-2];
-- e. *sonstige schwere Straftat:* Straftat nach Anhang 1*b* der N-SIS-Verordnung.
+- d.[^2-2] terroristische und sonstige schwere Straftaten: die in Anhang 3 des Schengen-Informationsaustauschgesetzes vom 21. März 2025[^2-3] aufgeführten Straftaten;
+- e.[^2-4] ...
 
 <sup>2</sup> Die Schengen-Assoziierungsabkommen sind in Anhang 1 aufgeführt.
 
 [^2-1]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
-[^2-2]: [SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
+[^2-2]: Fassung gemäss Ziff. III 1 der V vom 26. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^2-3]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^2-4]: Aufgehoben durch Ziff. III 1 der V vom 26. Aug. 2026, mit Wirkung seit 1. Okt. 2026 ([AS 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## 2. Abschnitt: Datenkatalog des EES und Zugangsberechtigungen
 
@@ -141,11 +143,13 @@ Die Abfrage des EES zur Prüfung von Visumgesuchen und zum Entscheid über solch
 Folgende Stellen des SEM können auf die durch den Informationsmechanismus nach Artikel 12 der Verordnung (EU) 2017/2226[^9-1] generierte Liste von Drittstaatsangehörigen, die die Höchstdauer des zulässigen Aufenthalts im Schengen-Raum überschritten haben, zugreifen:
 
 - a. der Direktionsbereich Planung und Ressourcen: zur Erstellung von Statistiken;
-- b. der Direktionsbereich Zuwanderung und Integration: zur Erfüllung seiner Aufgaben in den Bereichen Visa, Reisedokumente und Identifikation.
+- b. der Direktionsbereich Zuwanderung und Integration: zur Erfüllung seiner Aufgaben in den Bereichen Visa, Reisedokumente und Identifikation;
+- c.[^9-2] die nationale ETIAS-Stelle: zur Erfüllung der ihr übertragenen Aufgaben nach Artikel 108*c* Absatz 1 AIG.
 
 <sup>2</sup> Die Liste enthält die Daten der Kategorien I, II, V und VI nach Anhang 2.
 
 [^9-1]: Siehe Fussnote zu Art. 1 Bst. a.
+[^9-2]: Eingefügt durch Anhang 3 Ziff. 3 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ## 4. Abschnitt: Zugang zu den Daten des EES über die zentrale Zugangsstelle zur Gefahrenabwehr und Strafverfolgung
 
@@ -157,7 +161,7 @@ Folgende Stellen des SEM können auf die durch den Informationsmechanismus nach 
 
 <sup>1</sup>
 
-Folgende Stellen des Bundes nach Artikel 103*c* Absatz 4 Buchstaben a–c AIG können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Rahmen ihrer gesetzlichen Aufgaben bei der Einsatz- und Alarmzentrale fedpol (EAZ fedpol) Daten des EES beantragen:
+Folgende Stellen des Bundes nach Artikel 103*c* Absatz 4 Buchstaben a–c und e AIG können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Rahmen ihrer gesetzlichen Aufgaben bei der Einsatz- und Alarmzentrale fedpol (EAZ fedpol) Daten des EES beantragen:[^10-1]
 
 - a.
 
@@ -182,13 +186,18 @@ Folgende Stellen des Bundes nach Artikel 103*c* Absatz 4 Buchstaben a–c AIG k�
 
   bei der Bundesanwaltschaft:
 
-  - 1\. der Dienst Urteilsvollzug: für den Vollzug der Entscheide der Strafbehörden des Bundes, wenn nicht die Kantone zuständig sind, namentlich in Anwendung von Artikel 82 Absatz 1 der Verordnung vom 24. Oktober 2007[^10-1] über Zulassung, Aufenthalt und Erwerbstätigkeit,
-  - 2\. die verfahrensführenden Abteilungen Staatsschutz und kriminelle Organisationen, Wirtschaftskriminalität, Rechtshilfe, Terrorismus, Völkerstrafrecht und Cyberkriminalität in Bern und in den Zweigstellen in Lausanne, Lugano und Zürich: für die Ermittlung und Anklageerhebung bei Straftaten, die nach den Artikeln 23 und 24 der Strafprozessordnung[^10-2] oder besonderen Bundesgesetzen der Bundesgerichtsbarkeit unterstehen.
+  - 1\.[^10-2] der Bereich Urteilsvollzug: für den Vollzug der Entscheide der Strafbehörden des Bundes, wenn nicht die Kantone zuständig sind, namentlich in Anwendung von Artikel 82 Absatz 1 der Verordnung vom 24. Oktober 2007[^10-3] über Zulassung, Aufenthalt und Erwerbstätigkeit,
+  - 2\. die verfahrensführenden Abteilungen Staatsschutz und kriminelle Organisationen, Wirtschaftskriminalität, Rechtshilfe, Terrorismus, Völkerstrafrecht und Cyberkriminalität in Bern und in den Zweigstellen in Lausanne, Lugano und Zürich: für die Ermittlung und Anklageerhebung bei Straftaten, die nach den Artikeln 23 und 24 der Strafprozessordnung[^10-4] oder besonderen Bundesgesetzen der Bundesgerichtsbarkeit unterstehen;
+
+- d.[^10-5] beim Bundesamt für Zoll und Grenzsicherheit: die für die Strafverfolgung zuständigen Mitarbeitenden.
 
 <sup>2</sup> Die Polizei- und Strafverfolgungsbehörden der Kantone nach Artikel 103*c* Absatz 4 Buchstabe d AIG können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Rahmen ihrer gesetzlichen Aufgaben bei der EAZ fedpol Daten des EES beantragen.
 
-[^10-1]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
-[^10-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-1]: Fassung gemäss Anhang 3 Ziff. 3 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-2]: Fassung gemäss Anhang 3 Ziff. 3 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-3]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^10-4]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-5]: Eingefügt durch Anhang 3 Ziff. 3 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 11
 

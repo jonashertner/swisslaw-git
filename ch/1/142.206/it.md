@@ -4,11 +4,11 @@ title: Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: it
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20260612-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20261001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/it"
 
 (OEES)
 
-del 10 novembre 2021 (Stato 12 giugno 2026)
+del 10 novembre 2021 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -41,8 +41,8 @@ La presente ordinanza disciplina:
 - d. il diritto di rettifica, integrazione e cancellazione dei dati;
 - e. i diritti degli interessati, la protezione dei dati, la sicurezza dei dati e la vigilanza sul trattamento dei dati.
 
-[^1-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 262](https://fedlex.data.admin.ch/eli/oc/2026/262)).
-[^1-2]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2024/1356, GU L, 2024/1356, 22.5.2024.
+[^1-1]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^1-2]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 novembre 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20, modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
 
 #### Art. 2
 
@@ -55,13 +55,15 @@ Ai sensi della presente ordinanza s’intende per:
 - a. *Stato Schengen:* Stato vincolato da uno degli accordi d’associazione a Schengen;
 - b. *frontiere esterne Schengen*: frontiere stabilite secondo l’articolo 29 capoverso 1 dell’ordinanza del 15 agosto 2018[^2-1] concernente l’entrata e il rilascio del visto;
 - c. *cittadino di uno Stato terzo:* cittadino di uno Stato che non è membro né dell’Unione europea (UE) né dell’Associazione europea di libero scambio;
-- d. *reato di terrorismo*: reato secondo l’allegato 1*a* dell’ordinanza N-SIS dell’8 marzo 2013[^2-2];
-- e. *altro reato grave:* reato secondo l’allegato 1*b* dell’ordinanza N-SIS.
+- d.[^2-2] *reati di terrorismo e altri reati gravi*: i reati elencati nell’allegato 3 della legge del 21 marzo 2025[^2-3] sullo scambio di informazioni con gli Stati Schengen;
+- e.[^2-4] …
 
 <sup>2</sup> Gli accordi di associazione alla normativa di Schengen figurano nell’allegato 1.
 
 [^2-1]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
-[^2-2]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
+[^2-2]: Nuovo testo giusta la cifra III n. 1 dell’O del 26 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^2-3]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^2-4]: Abrogata dalla cifra III n. 1 dell’O del 26 ago. 2026, con effetto dal 1° ott. 2026 ([RU 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## Sezione 2: Elenco dei dati dell’EES e diritti di accesso
 
@@ -141,11 +143,13 @@ La consultazione dell’EES ai fini dell’esame delle domande di visto e della 
 I seguenti servizi della SEM possono accedere all’elenco generato dal meccanismo di informazioni di cui all’articolo 12 del regolamento (UE) 2017/2226[^9-1] riportante i cittadini di Stati terzi il cui soggiorno nello spazio Schengen ha superato la durata massima autorizzata:
 
 - a. l’Ambito direzionale Pianificazione e risorse, per allestire statistiche;
-- b. l’Ambito direzionale Immigrazione e integrazione, per adempiere i suoi compiti legati ai settori dei visti, dei documenti di viaggio e dell’identificazione.
+- b. l’Ambito direzionale Immigrazione e integrazione, per adempiere i suoi compiti legati ai settori dei visti, dei documenti di viaggio e dell’identificazione;
+- c.[^9-2] l’unità nazionale ETIAS, per adempiere i compiti che le sono assegnati in virtù dell’articolo 108*c* capoverso 1 LStrI.
 
 <sup>2</sup> L’elenco contiene i dati delle categorie I, II, V e VI menzionati nell’allegato 2.
 
 [^9-1]: Cfr. nota a piè di pagina relativa all’art. 1 lett. a.
+[^9-2]: Introdotta dall’all. 3 n. 3 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ## Sezione 4: Accesso ai dati dell’EES tramite il punto di accesso centrale a fini di contrasto
 
@@ -157,7 +161,7 @@ I seguenti servizi della SEM possono accedere all’elenco generato dal meccanis
 
 <sup>1</sup>
 
-Nell’ambito dei loro compiti legali, i servizi seguenti delle autorità della Confederazione di cui all’articolo 103*c* capoverso 4 lettere a–c LStrI possono chiedere alla Centrale operativa e di allarme fedpol (COA fedpol) dati dell’EES per prevenire, individuare e investigare reati di terrorismo o altri reati gravi:
+Nell’ambito dei loro compiti legali, i servizi seguenti delle autorità federali di cui all’articolo 103*c* capoverso 4 lettere a–c ed e LStrI possono chiedere alla Centrale operativa e di allarme fedpol (COA fedpol) dati dell’EES per prevenire, individuare e investigare reati di terrorismo o altri reati gravi:[^10-1]
 
 - a.
 
@@ -182,13 +186,18 @@ Nell’ambito dei loro compiti legali, i servizi seguenti delle autorità della 
 
   presso il Ministero pubblico della Confederazione:
 
-  - 1\. il servizio Esecuzione delle sentenze, per l’esecuzione delle decisioni delle autorità penali della Confederazione, se la competenza non spetta ai Cantoni, in particolare in applicazione dell’articolo 82 capoverso 1 dell’ordinanza del 24 ottobre 2007[^10-1] sull’ammissione, il soggiorno e l’attività lucrativa,
-  - 2\. le divisioni Protezione dello Stato e organizzazioni criminali, Criminalità economica, Assistenza giudiziaria, Terrorismo, Diritto penale internazionale e Cybercriminalità che conducono i procedimenti a Berna e presso le filiali di Losanna, Lugano e Zurigo, per l’indagine e l’accusa in caso di reati che sottostanno alla giurisdizione federale secondo gli articoli 23 e 24 del codice di procedura penale[^10-2] o secondo leggi federali speciali.
+  - 1\.[^10-2] il settore Esecuzione delle sentenze, per l’esecuzione delle decisioni delle autorità penali della Confederazione, se la competenza non spetta ai Cantoni, in particolare in applicazione dell’articolo 82 capoverso 1 dell’ordinanza del 24 ottobre 2007[^10-3] sull’ammissione, il soggiorno e l’attività lucrativa,
+  - 2\. le divisioni Protezione dello Stato e organizzazioni criminali, Criminalità economica, Assistenza giudiziaria, Terrorismo, Diritto penale internazionale e Cybercriminalità che conducono i procedimenti a Berna e presso le filiali di Losanna, Lugano e Zurigo, per l’indagine e l’accusa in caso di reati che sottostanno alla giurisdizione federale secondo gli articoli 23 e 24 del codice di procedura penale[^10-4] o secondo leggi federali speciali;
+
+- d.[^10-5] presso l’Ufficio federale della dogana e della sicurezza dei confini: i collaboratori addetti al perseguimento penale.
 
 <sup>2</sup> Nell’ambito dei loro compiti legali, le autorità cantonali di polizia e di perseguimento penale di cui all’articolo 103*c* capoverso 4 lettera d LStrI possono chiedere alla COA fedpol dati dell’EES per prevenire, individuare e investigare reati di terrorismo o altri reati gravi.
 
-[^10-1]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
-[^10-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-1]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-2]: Nuovo testo giusta l’all. 3 n. 3 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^10-4]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-5]: Introdotta dall’all. 3 n. 3 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 11
 
@@ -296,7 +305,7 @@ La SEM rettifica, integra o cancella, su richiesta, dati di cittadini di Stati t
 <sup>2</sup> La SEM tratta le richieste di accesso.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^18-2]: Nuovo testo giusta l’all. 2 n. II 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-2]: Nuovo testo giusta l’all. 2 cifra II n. 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 19
 
@@ -326,8 +335,8 @@ La sicurezza dei dati per le autorità federali è inoltre retta:
 - b.[^20-3] dall’ordinanza dell’8 novembre 2023[^20-4] sulla sicurezza delle informazioni.
 
 [^20-1]: Cfr. nota a piè di pagina relativa all’art. 1 lett. a.
-[^20-2]: Nuovo testo giusta l’all. 2 n. II 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^20-3]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^20-2]: Nuovo testo giusta l’all. 2 cifra II n. 5 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^20-3]: Nuovo testo giusta l’all. 2 cifra II n. 3 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^20-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 21

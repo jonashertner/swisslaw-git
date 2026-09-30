@@ -4,11 +4,11 @@ title: Ordonnance du 10 novembre 2021 sur le système d’entrée et de sortie (
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: fr
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2021-734-20260612-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-734-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/fr"
 
 (OEES)
 
-du 10 novembre 2021 (État le 12 juin 2026)
+du 10 novembre 2021 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -41,8 +41,8 @@ La présente ordonnance:
 - d. réglemente la rectification, l’ajout ou l’effacement de données;
 - e. règle les droits des personnes concernées, la protection des données, la sécurité des données et la surveillance du traitement des données.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 262](https://fedlex.data.admin.ch/eli/oc/2026/262)).
-[^1-2]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée / de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9.12.2017, p. 20; modifié en dernier lieu par le règlement (UE) 2024/1356, JO L, 2024/1356, 22.5.2024.
+[^1-1]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^1-2]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n° 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9.12.2017, p. 20, modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
 
 #### Art. 2
 
@@ -55,13 +55,15 @@ Au sens de la présente ordonnance, on entend par:
 - a. *État Schengen:* un État lié par l’un des accords d’association à Schengen;
 - b. *frontières extérieures de l’espace Schengen:* les frontières qui ont été fixées conformément à l’art. 29, al. 1, de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas (OEV)[^2-1];
 - c. r*essortissant d’un État tiers:* un citoyen d’un État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre-échange;
-- d. *infraction terroriste:* une infraction au sens de l’annexe 1*a* de l’ordonnance N-SIS du 8 mars 2013[^2-2];
-- e. *autre infraction pénale grave:* une infraction au sens de l’annexe 1*b* de l’ordonnance N-SIS.
+- d.[^2-2] *infractions terroristes et autres infractions pénales graves:* les infractions mentionnées à l’annexe 3 de la loi du 21 mars 2025 sur l’échange d’informations Schengen[^2-3];
+- e.[^2-4] *…*
 
 <sup>2</sup> Les accords d’association à Schengen sont mentionnés à l’annexe 1.
 
 [^2-1]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
-[^2-2]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
+[^2-2]: Nouvelle teneur selon le ch. III 1 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^2-3]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^2-4]: Abrogée par le ch. III 1 de l’O du 26 août 2026, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## Section 2 Catalogue des données de l’EES et autorisations d’accès
 
@@ -141,11 +143,13 @@ La consultation de l’EES aux fins de l’examen des demandes de visas et des d
 Les services suivants du SEM peuvent accéder à la liste générée par le mécanisme d’information visé à l’art. 12 du règlement (UE) 2017/2226[^9-1] et contenant les données des ressortissants d’États tiers identifiés comme ayant dépassé la durée maximale du séjour autorisé dans l’espace Schengen:
 
 - a. le Domaine de direction Planification et ressources, pour établir des statistiques;
-- b. le Domaine de direction Immigration et intégration, pour accomplir ses tâches dans les domaines des visas, des documents de voyage et de l’identification.
+- b. le Domaine de direction Immigration et intégration, pour accomplir ses tâches dans les domaines des visas, des documents de voyage et de l’identification;
+- c.[^9-2] l’unité nationale ETIAS, pour accomplir les tâches qui lui sont dévolues en vertu de l’art. 108*c*, al. 1, LEI.
 
 <sup>2</sup> La liste contient les données des catégories I, II, V et VI mentionnées à l’annexe 2.
 
 [^9-1]: Cf. note de bas de page relative à l’art. 1, let. a.
+[^9-2]: Introduite par l’annexe 3 ch. 3 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 ## Section 4 Accès des autorités répressives aux données de l’EES par le point d’accès central
 
@@ -157,7 +161,7 @@ Les services suivants du SEM peuvent accéder à la liste générée par le méc
 
 <sup>1</sup>
 
-Dans le cadre de leurs tâches légales, les services suivants des autorités fédérales visées à l’art. 103*c*, al. 4, let. a à c, LEI peuvent demander des données de l’EES à la Centrale d’engagement et d’alarme de fedpol (CEA fedpol) pour prévenir et détecter les infractions terroristes ou d’autres infractions pénales graves, et enquêter en la matière:
+Dans le cadre de leurs tâches légales, les services suivants des autorités fédérales visées à l’art. 103*c*, al. 4, let. a à c et e, LEI peuvent demander des données de l’EES à la Centrale d’engagement et d’alarme de fedpol (CEA fedpol) pour prévenir et détecter les infractions terroristes ou d’autres infractions pénales graves, et enquêter en la matière:[^10-1]
 
 - a.
 
@@ -182,13 +186,18 @@ Dans le cadre de leurs tâches légales, les services suivants des autorités f�
 
   auprès du Ministère public de la Confédération:
 
-  - 1\. le Service de l’exécution des jugements: pour exécuter les décisions des autorités pénales de la Confédération, dans la mesure où elle ne relève pas des cantons, notamment en application de l’art. 82, al. 1, de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative[^10-1],
-  - 2\. les divisions Protection de l’État et organisations criminelles, Criminalité économique, Entraide judiciaire, Terrorisme, Droit pénal international et Cybercriminalité établies à Berne et dans les succursales de Lausanne, de Lugano et de Zurich qui sont chargées de conduire les procédures: pour mener les investigations et dresser les actes d’accusation concernant les infractions qui relèvent de la juridiction fédérale en vertu des art. 23 et 24 du code de procédure pénale[^10-2] ou de lois fédérales spéciales.
+  - 1\.[^10-2] le domaine Exécution des jugements: pour exécuter les décisions des autorités pénales de la Confédération, dans la mesure où elle ne relève pas des cantons, notamment en application de l’art. 82, al. 1, de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative[^10-3],
+  - 2\. les divisions Protection de l’État et organisations criminelles, Criminalité économique, Entraide judiciaire, Terrorisme, Droit pénal international et Cybercriminalité établies à Berne et dans les succursales de Lausanne, de Lugano et de Zurich qui sont chargées de conduire les procédures: pour mener les investigations et dresser les actes d’accusation concernant les infractions qui relèvent de la juridiction fédérale en vertu des art. 23 et 24 du code de procédure pénale[^10-4] ou de lois fédérales spéciales;
+
+- d.[^10-5] auprès de l’Office fédéral de la douane et de la sécurité des frontières: les collaborateurs chargés de la poursuite pénale.
 
 <sup>2</sup> Dans le cadre de leurs tâches légales, les autorités cantonales de police et de poursuite pénale visées à l’art. 103*c*, al. 4, let. d, LEI peuvent demander des données de l’EES à la CEA fedpol pour prévenir et détecter les infractions terroristes ou d’autres infractions pénales graves, et enquêter en la matière.
 
-[^10-1]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
-[^10-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-1]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-2]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^10-3]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^10-4]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^10-5]: Introduite par l’annexe 3 ch. 3 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 #### Art. 11
 
