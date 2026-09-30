@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2026-07-01
+version: 2026-10-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20260701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20260701/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (État le 1<sup>er</sup> juillet 2026)
+du 19 juin 1995 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -97,12 +97,12 @@ La présente ordonnance s’applique aux conducteurs de voitures automobiles et 
 
 <sup>2</sup> Lorsqu’un conducteur conduit à l’étranger un véhicule immatriculé en Suisse, la présente ordonnance s’applique dans la mesure où les accords internationaux que la Suisse a ratifiés ne prévoient pas des prescriptions plus sévères.
 
-<sup>3</sup> Les conducteurs qui circulent en Suisse avec des véhicules immatriculés à l’étranger ne doivent observer que les prescriptions énoncées aux art. 5, 7, 8, al. 1, 2, 4 et 5, et aux art. 9 à 12, 14 à 14*c*, et 18, al. 1.[^3-2]
+<sup>3</sup> Les conducteurs qui circulent en Suisse avec des véhicules immatriculés à l’étranger ne doivent observer que les prescriptions énoncées aux art. 5, 7, 8, al. 1, 2, 4 et 5, et aux art. 9 à 12, 13*a*, 13*b*, 14 à 14*c*, et 18, al. 1.[^3-2]
 
 <sup>4</sup> La présente ordonnance s’applique aux employeurs, entreprises et ateliers pour autant que certaines dispositions le prévoient expressément.[^3-3]
 
 [^3-1]: Introduite par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 456](https://fedlex.data.admin.ch/eli/oc/2026/456)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 #### Art. 4
@@ -137,20 +137,39 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 
 - a.[^4-7] véhicules automobiles affectés au transport de personnes ne comptant pas plus de 16 places assises en plus du siège du conducteur;
 - b. ensembles de véhicules affectés au transport de choses, pour autant que le poids total du véhicule tracteur n’excède pas 3,5 t et, s’il s’agit de tracteurs à sellette, que le poids total autorisé de l’ensemble inscrit dans le permis de circulation du tracteur à sellette n’excède pas 5 t;
-- c.[^4-8] véhicules de l’administration de la Confédération (art. 2, al. 1, de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs[^4-9]);
-- d.[^4-10] véhicules spécialement équipés pour des projets mobiles et destinés principalement à des fins d’enseignement lorsqu’ils sont à l’arrêt;
-- e.[^4-11] véhicules des écoles de conduite, à condition de ne pas être utilisés pour le transport commercial de personnes et de choses;
-- f.[^4-12] véhicules utilisés dans le cadre de la formation pratique de conduite ou de la formation continue organisée par des moniteurs de conduite ou des centres de formation continue, pour autant qu’aucun transport commercial de personnes et de choses ne soit effectué durant ces courses;
-- g.[^4-13] véhicules utilisés par les services responsables des canalisations, de la protection contre les inondations, de l’entretien des routes et de la collecte des déchets ménagers, par les services en charge des eaux, du gaz et de l’électricité, par les opérateurs télégraphiques ou téléphoniques, par les émetteurs de radio et de télévision ainsi que pour la détection des émetteurs ou récepteurs de radio ou de télévision;
-- h.[^4-14] véhicules transportant du matériel de cirque ou de fêtes foraines;
-- i.[^4-15] véhicules affectés au trafic interne d’une entreprise, autorisés à circuler sur la voie publique uniquement sur autorisation des pouvoirs publics (art. 33 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^4-16] et art. 72, al. 1, let. e, de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, OAC[^4-17]) ou véhicules utilisés exclusivement sur route dans des installations de plates-formes telles que les ports, ports de transbordement intermodaux et terminaux ferroviaires;
-- j.[^4-18] véhicules sans conducteur, pour autant que ces derniers soient conduits en utilisant d’autres moyens que les commandes conventionnelles.
+- b<sup>bis</sup>.[^4-8]
 
-<sup>2bis</sup> En trafic interne, les conducteurs qui utilisent des véhicules au sens de l’al. 2, let. a, pour le transport professionnel de personnes sont soumis à l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes[^4-19].[^4-20]
+  ensembles de véhicules affectés au transport de choses dont le véhicule tracteur dispose d’une propulsion non polluante (art. 9*a*, al. 2, de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, OETV[^4-9]), pour autant:
 
-<sup>3</sup> En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs soumis à la loi du 8 octobre 1971 sur la durée du travail[^4-21] et qui n’effectuent que des transports régis par ladite loi. Lorsque ces conducteurs effectuent en outre d’autres transports, ils sont tenus d’observer, pour toute leur activité professionnelle, les prescriptions des art. 5 à 12 sur la durée du travail, de la conduite et du repos et de tenir à jour les moyens de contrôle indiqués aux art. 14 à 16.
+  - 1\. que le poids total du véhicule tracteur n’excède pas 4,25 t, et
+  - 2\. que le dépassement de poids par rapport à la limite de 3,5 t soit imputable au seul surplus de poids induit par le système de propulsion non polluante;
 
-<sup>4</sup> …[^4-22]
+- b<sup>ter</sup>.[^4-10]
+
+  véhicules articulés, dont les tracteurs à sellette disposent d’une propulsion non polluante (art. 9*a*, al. 2, OETV), pour autant:
+
+  - 1\. que le poids total autorisé de l’ensemble inscrit dans le permis de circulation du tracteur à sellette n’excède pas 5,75 t, et
+  - 2\. que le dépassement de poids par rapport à la limite de 5 t soit imputable au seul surplus de poids induit par le système de propulsion non polluante;
+
+- c.[^4-11] véhicules de l’administration de la Confédération (art. 2, al. 1, de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs[^4-12]);
+- d.[^4-13] véhicules spécialement équipés pour des projets mobiles et destinés principalement à des fins d’enseignement lorsqu’ils sont à l’arrêt;
+- e.[^4-14] véhicules des écoles de conduite, à condition de ne pas être utilisés pour le transport commercial de personnes et de choses;
+- f.[^4-15] véhicules utilisés dans le cadre de la formation pratique de conduite ou de la formation continue organisée par des moniteurs de conduite ou des centres de formation continue, pour autant qu’aucun transport commercial de personnes et de choses ne soit effectué durant ces courses;
+- g.[^4-16] véhicules utilisés par les services responsables des canalisations, de la protection contre les inondations, de l’entretien des routes et de la collecte des déchets ménagers, par les services en charge des eaux, du gaz et de l’électricité, par les opérateurs télégraphiques ou téléphoniques, par les émetteurs de radio et de télévision ainsi que pour la détection des émetteurs ou récepteurs de radio ou de télévision;
+- h.[^4-17] véhicules transportant du matériel de cirque ou de fêtes foraines;
+- i.[^4-18] véhicules affectés au trafic interne d’une entreprise, autorisés à circuler sur la voie publique uniquement sur autorisation des pouvoirs publics (art. 33 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^4-19] et art. 72, al. 1, let. e, de l’O du 27 oct. 1976 réglant l’admission des personnes et des véhicules à la circulation routière, OAC[^4-20]) ou véhicules utilisés exclusivement sur route dans des installations de plates-formes telles que les ports, ports de transbordement intermodaux et terminaux ferroviaires;
+- j.[^4-21] véhicules sans conducteur, pour autant que ces derniers soient conduits en utilisant d’autres moyens que les commandes conventionnelles.
+
+<sup>2bis</sup> En trafic interne, les conducteurs qui utilisent des véhicules au sens de l’al. 2, let. a, pour le transport professionnel de personnes sont soumis à l’ordonnance du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes[^4-22].[^4-23]
+
+<sup>3</sup> En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs soumis à la loi du 8 octobre 1971 sur la durée du travail[^4-24] et qui n’effectuent que des transports régis par ladite loi. Lorsque ces conducteurs effectuent en outre d’autres transports, ils sont tenus d’observer, pour toute leur activité professionnelle, les prescriptions des art. 5 à 12 sur la durée du travail, de la conduite et du repos et de tenir à jour les moyens de contrôle indiqués aux art. 14 à 16.
+
+<sup>4</sup>
+
+En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs de véhicules affectés au transport de choses dont le poids total dépasse 3,5 t et qui disposent d’une propulsion non polluante (art. 9*a*, al. 2, OETV), pour autant:
+
+- a. que le poids du véhicule n’excède pas 4,25 t, et
+- b. que le dépassement de poids par rapport à la limite de 3,5 t soit imputable au seul surplus de poids induit par le système de propulsion non polluante.[^4-25]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
@@ -159,21 +178,24 @@ En trafic interne, la présente ordonnance ne s’applique pas aux conducteurs q
 [^4-5]: Introduite par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-7]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-8]: Nouvelle teneur selon l’annexe ch. II 7 de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
-[^4-9]: [RS 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
-[^4-10]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-11]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-12]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-13]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-14]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-8]: Introduite par le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 456](https://fedlex.data.admin.ch/eli/oc/2026/456)).
+[^4-9]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^4-10]: Introduite par le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 456](https://fedlex.data.admin.ch/eli/oc/2026/456)).
+[^4-11]: Nouvelle teneur selon l’annexe ch. II 7 de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^4-12]: [RS 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
+[^4-13]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-14]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-15]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-16]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
-[^4-17]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
-[^4-18]: Introduite par l’annexe ch. 4 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
-[^4-19]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
-[^4-20]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-21]: [RS 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
-[^4-22]: Introduit par l’annexe 1 ch. 4 de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogé par le ch. I de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-16]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-17]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-18]: Introduite par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-19]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^4-20]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^4-21]: Introduite par l’annexe ch. 4 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-22]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^4-23]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-24]: [RS 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
+[^4-25]: Introduit par l’annexe 1 ch. 4 de l’O du 2 sept. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 456](https://fedlex.data.admin.ch/eli/oc/2026/456)).
 
 ## Section 3 Durée de la conduite, du travail, des pauses et du repos
 
@@ -299,7 +321,7 @@ En dérogation à l’art. 11, al. 3, le conducteur peut repousser le début de 
 - a. le conducteur effectue un seul circuit de transport de personnes (art. 8, al. 1, let. f, de l’ordonnance du 4 novembre 2009 sur le transport de voyageurs, OTV[^11a-2]);
 - b. le véhicule est équipé d’un tachygraphe numérique.
 
-<sup>2</sup> Lors de transports effectués entre 22 h 00 et 6 h 00, la durée de conduite selon l’art. 8, al. 1, est réduite à trois heures, sauf en cas de conduite en équipage.
+<sup>2</sup> Si le temps de repos hebdomadaire est ajourné, la pause prévue à l’art. 8, al. 1, doit déjà être prise après trois heures de conduite lors de transports effectués entre 22 h 00 et 6 h 00. Cette disposition ne s’applique pas en cas de conduite en équipage.[^11a-3]
 
 <sup>3</sup> En dérogation à l’art. 8, al. 2, il est possible d’effectuer deux pauses d’au moins 15 minutes chacune lors des circuits; ces pauses doivent être prises de manière à respecter l’art. 8, al. 1.
 
@@ -319,6 +341,7 @@ En dérogation à l’art. 9, al. 1, le conducteur peut prendre un temps de repo
 
 [^11a-1]: Introduit par le ch. I de l’O du 30 juin 2010 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 [^11a-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^11a-3]: Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 456](https://fedlex.data.admin.ch/eli/oc/2026/456)).
 
 #### Art. 11b
 
@@ -460,7 +483,7 @@ Les cartes de tachygraphe sont retirées avant l’expiration de leur durée de 
 
 **Carte d’atelier**[^13c-1]
 
-<sup>1</sup> Les cartes d’atelier sont délivrées aux ateliers qui disposent d’une autorisation au sens de l’art. 101 de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^13c-2] et qui ne remplissent pas les conditions posées pour la délivrance d’une carte d’entreprise. Dans des cas justifiés, elles peuvent aussi être délivrées à des ateliers satisfaisant auxdites conditions, si l’activité entrepreneuriale de ceux-ci ne compromet pas le système de contrôle conformément au règlement (UE) n<sup>o</sup> 165/2014[^13c-3].[^13c-4]
+<sup>1</sup> Les cartes d’atelier sont délivrées aux ateliers qui disposent d’une autorisation au sens de l’art. 101 OETV[^13c-2] et qui ne remplissent pas les conditions posées pour la délivrance d’une carte d’entreprise. Dans des cas justifiés, elles peuvent aussi être délivrées à des ateliers satisfaisant auxdites conditions, si l’activité entrepreneuriale de ceux-ci ne compromet pas le système de contrôle conformément au règlement (UE) n<sup>o</sup> 165/2014[^13c-3].[^13c-4]
 
 <sup>2</sup> La demande de carte d’atelier doit être déposée auprès de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^13c-5]; elle contient des données sur l’atelier et sur le technicien de l’atelier conformément aux ch. 222 et 223 de l’annexe 2 OSIAC[^13c-6].[^13c-7]
 
@@ -473,7 +496,7 @@ Les cartes de tachygraphe sont retirées avant l’expiration de leur durée de 
 [^13c-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13c-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^13c-3]: Règlement (UE) n<sup>o</sup> 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n<sup>o</sup> 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n<sup>o</sup> 561/2006 du Parlement européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, version du JO L 60 du 28.2.2014, p. 1.
-[^13c-4]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-4]: Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 456](https://fedlex.data.admin.ch/eli/oc/2026/456)).
 [^13c-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^13c-6]: [RS 741.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8684)
 [^13c-7]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
