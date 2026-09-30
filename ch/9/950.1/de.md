@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzdienstleistungen (Finanzd
 short: FIDLEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: de
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20240301-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20261001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/de"
 
 (Finanzdienstleistungsgesetz, FIDLEG)
 
-vom 15. Juni 2018 (Stand am 1. März 2024)
+vom 15. Juni 2018 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95, 97, 98 und 122 Absatz 1 der Bundesverfassung[^ingr
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -67,8 +67,8 @@ Diesem Gesetz nicht unterstellt sind:
 
 - e. öffentlich-rechtliche Versicherungseinrichtungen nach Artikel 67 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^2-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge.
 
-[^2-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -112,11 +112,11 @@ In diesem Gesetz gelten als:
 - h. *öffentliches Angebot:* an das Publikum gerichtetes Angebot;
 - i. *Ersteller:* Personen, die ein Finanzinstrument erstellen oder Änderungen an einem bestehenden Finanzinstrument, einschliesslich Änderungen seines Risiko- und Renditeprofils oder der mit einer Anlage in das Finanzinstrument verbundenen Kosten, vornehmen.
 
-[^3-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-2]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^3-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-3]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^3-4]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^3-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 4
 
@@ -161,9 +161,9 @@ Als grosses Unternehmen gilt ein Unternehmen, das zwei der folgenden Grössen ü
 <sup>7</sup> Finanzdienstleister können auf eine Kundensegmentierung verzichten, wenn sie alle Kundinnen und Kunden als Privatkundinnen und ‑kunden behandeln.
 
 [^4-1]: Weil es sich bei den professionellen Kunden hauptsächlich um juristische Personen handelt, wird statt der Paarform nur die männliche Form verwendet.
-[^4-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^4-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^4-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^4-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^4-5]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^4-6]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^4-7]: Weil es sich bei den institutionellen Kunden um juristische Personen handelt, wird statt der Paarform nur die männliche Form verwendet.
@@ -386,7 +386,7 @@ Finanzdienstleister stellen durch interne Vorschriften und eine angemessene Betr
 
 <sup>2</sup> Finanzdienstleister, die nicht nach Artikel 3 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^22-1] (FINMAG) beaufsichtigt werden, stellen zudem sicher, dass nur Personen als Kundenberaterinnen und ‑berater für sie tätig sind, die im Beraterregister (Art. 29) eingetragen sind.
 
-[^22-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^22-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 23
 
@@ -451,7 +451,7 @@ Finanzdienstleister dürfen im Zusammenhang mit der Erbringung von Finanzdienstl
 
 <sup>3</sup> Er kann die Ausnahme nach Absatz 2 davon abhängig machen, dass Gegenrecht gewährt wird.
 
-[^28-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^28-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 29
 
@@ -475,9 +475,9 @@ Nicht ins Beraterregister eingetragen werden Kundenberaterinnen und ‑berater:
 <sup>3</sup> Sind die Kundenberaterinnen und ‑berater als Mitarbeiterinnen oder Mitarbeiter für einen Finanzdienstleister tätig, so kann die Voraussetzung nach Absatz 1 Buchstabe b durch diesen erfüllt werden.
 
 [^29-1]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^29-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^29-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^29-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^29-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^29-4]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 30
 
@@ -536,7 +536,7 @@ Die zuständigen Aufsichtsbehörden melden der Registrierungsstelle, wenn sie:
 
 <sup>2</sup> Der Bundesrat regelt die Gebühren. Die Regelung richtet sich nach Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^33-1].
 
-[^33-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^33-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34
 
@@ -544,7 +544,7 @@ Die zuständigen Aufsichtsbehörden melden der Registrierungsstelle, wenn sie:
 
 Das Verfahren über den Registereintrag richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^34-1].
 
-[^34-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## 3. Titel: Anbieten von Finanzinstrumenten
 
@@ -562,7 +562,7 @@ Das Verfahren über den Registereintrag richtet sich nach dem Verwaltungsverfahr
 
 <sup>2</sup> Ist der Emittent der Effekten nicht am öffentlichen Angebot beteiligt, so treffen ihn keine Mitwirkungspflichten bei der Erstellung des Prospekts.
 
-[^35-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^35-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^35-2]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^35-3]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -727,8 +727,8 @@ Besteht er aus mehreren Einzeldokumenten, so kann er aufgeteilt werden auf:
 
 <sup>4</sup> Eine Genehmigung der endgültigen Bedingungen ist nicht erforderlich.
 
-[^45-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^45-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^45-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^45-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 46
 
@@ -785,8 +785,8 @@ Er gestaltet die Erleichterungen einheitlich aus und richtet sich insbesondere n
 
 <sup>4</sup> Der Prospekt und seine Änderungen sind unverzüglich der FINMA einzureichen.
 
-[^48-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^48-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^48-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^48-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 49
 
@@ -798,7 +798,7 @@ Er gestaltet die Erleichterungen einheitlich aus und richtet sich insbesondere n
 
 <sup>3</sup> Für den Prospekt der Investmentgesellschaft mit festem Kapital nach Artikel 110 KAG gilt Artikel 48 sinngemäss.
 
-[^49-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^49-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 50
 
@@ -809,7 +809,7 @@ Er gestaltet die Erleichterungen einheitlich aus und richtet sich insbesondere n
 <sup>2</sup> Die FINMA kann kollektive Kapitalanlagen nach dem KAG[^50-2] ganz oder teilweise von den Bestimmungen dieses Kapitels befreien, sofern sie ausschliesslich qualifizierten Anlegerinnen und Anlegern nach Artikel 10 Absätze 3 und 3<sup>ter</sup> KAG offenstehen und der Schutzzweck dieses Gesetzes dadurch nicht beeinträchtigt wird.
 
 [^50-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^50-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^50-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### 5. Abschnitt: Prüfung des Prospekts
 
@@ -823,9 +823,9 @@ Er gestaltet die Erleichterungen einheitlich aus und richtet sich insbesondere n
 
 <sup>3</sup> Nicht geprüft werden müssen Prospekte kollektiver Kapitalanlagen. Vorbehalten bleibt die Genehmigungspflicht für Dokumentationen ausländischer kollektiver Kapitalanlagen nach den Artikeln 15 Absatz 1 Buchstabe e und 120 KAG[^51-3].
 
-[^51-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^51-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^51-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^51-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^51-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^51-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 52
 
@@ -857,7 +857,7 @@ Er gestaltet die Erleichterungen einheitlich aus und richtet sich insbesondere n
 
 <sup>6</sup> Ergeht innert der in den Absätzen 4 und 5 genannten Fristen kein Entscheid der Prüfstelle, so gilt dies nicht als Genehmigung des Prospekts.
 
-[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -882,8 +882,8 @@ Die Prüfstelle kann einen nach ausländischen Rechtsvorschriften erstellten Pro
 
 <sup>2</sup> Prospekte für Forderungspapiere, die von einer Bank nach dem BankG[^55-1] oder einem Wertpapierhaus nach dem FINIG[^55-2] in einem Angebotsprogramm ausgegeben werden, sind gültig, bis keines der betroffenen Forderungspapiere mehr dauernd oder wiederholt ausgegeben wird.
 
-[^55-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^55-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 56
 
@@ -907,7 +907,7 @@ Die Prüfstelle kann einen nach ausländischen Rechtsvorschriften erstellten Pro
 
 <sup>2</sup> Der Bundesrat regelt die Gebühren. Die Regelung richtet sich nach Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^57-1].
 
-[^57-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^57-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 2. Kapitel: Basisinformationsblatt für Finanzinstrumente
 
@@ -1084,10 +1084,10 @@ Die Ausgabe von strukturierten Produkten an Privatkundinnen und -kunden durch So
 
 <sup>3</sup> Der Bundesrat regelt die Anforderungen an die Sicherung.
 
-[^70-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^70-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^70-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^70-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^70-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^70-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^70-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^70-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 71
 
@@ -1107,8 +1107,8 @@ Interne Sondervermögen vertraglicher Art zur kollektiven Verwaltung von Vermög
 
 <sup>4</sup> Sachen und Rechte, die zum Sondervermögen gehören, werden im Konkurs der Bank oder des Wertpapierhauses zugunsten der Anlegerinnen und Anleger abgesondert.
 
-[^71-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^71-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^71-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^71-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ## 4. Titel: Herausgabe von Dokumenten
 
@@ -1179,7 +1179,7 @@ Ein Vermittlungsgesuch ist jederzeit zulässig, wenn:
 
 <sup>3</sup> Die Ombudsstelle beendet das Verfahren, sobald eine Schlichtungsbehörde, ein Gericht, ein Schiedsgericht oder eine Verwaltungsbehörde mit der Sache befasst ist.
 
-[^76-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^76-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 2. Kapitel: Pflichten der Finanzdienstleister
 
@@ -1291,9 +1291,11 @@ Die Ombudsstelle veröffentlicht jährlich einen Tätigkeitsbericht.
 
 #### Art. 88
 
-**Informationsaustausch**
+**Informationsaustausch**[^88-1]
 
-Die FINMA, die Aufsichtsorganisation, die Registrierungsstelle, die Prüfstelle, die Ombudsstelle und das EFD können einander die nicht öffentlich zugänglichen Informationen übermitteln, die sie zur Erfüllung ihrer Aufgaben benötigen.
+Die FINMA, die Aufsichtsorganisation, die Registrierungsstelle, die Prüfstelle, die Ombudsstelle und das EFD können untereinander alle Auskünfte und Unterlagen austauschen, die sie zur Erfüllung ihrer jeweiligen Aufgaben benötigen.
+
+[^88-1]: Fassung gemäss Anhang Ziff. 7 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## 7. Titel: Strafbestimmungen
 
@@ -1335,7 +1337,7 @@ Mit Busse bis zu 500 000 Franken wird bestraft, wer vorsätzlich:
 
 Die Artikel 89–91 gelten nicht für nach Artikel 3 FINMAG[^92-1] Beaufsichtigte und für Personen, die für sie tätig sind.
 
-[^92-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^92-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## 8. Titel: Schlussbestimmungen
 
@@ -1382,7 +1384,7 @@ Die Vorschriften des 3. Titels dieses Gesetzes gelten nach Ablauf von zwei Jahre
 
 Datum des Inkrafttretens: 1. Januar 2020[^96-2]
 
-[^96-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^96-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^96-2]: V vom 6. Nov. 2019 über die abschliessende Inkraftsetzung des Finanzinstitutsgesetzes ([AS 2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762)).
 
 Anhang
@@ -1393,6 +1395,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758)konsultiert werden.

@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les services financiers (LSFin)
 short: LSFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: fr
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20240301-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20261001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/fr"
 
 (LSFin)
 
-du 15 juin 2018 (État le 1<sup>er</sup> mars 2024)
+du 15 juin 2018 (État le 1<sup>er</sup> octobre 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 95, 97, 98 et 122, al. 1, de la Constitution[^ingress-1], vu le mess
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)
 
 ## Titre 1 Dispositions générales
@@ -67,8 +67,8 @@ Ne sont pas soumis à la présente loi:
 
 - e. les institutions d’assurance de droit public visées à l’art. 67, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^2-2].
 
-[^2-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -112,11 +112,11 @@ Au sens de la présente loi, on entend par:
 - h. *offre au public:* toute offre adressée au public;
 - i. *producteurs:* les personnes qui créent un instrument financier ou modifient un instrument financier existant, y compris son profil de risque et de rendement ou les frais liés au placement dans l’instrument financier.
 
-[^3-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-2]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^3-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-3]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^3-4]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^3-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 4
 
@@ -160,9 +160,9 @@ Est considérée comme grande entreprise toute entreprise qui dépasse deux des 
 
 <sup>7</sup> Les prestataires de services financiers peuvent renoncer à une classification de leur clientèle s’ils traitent tous leurs clients comme des clients privés.
 
-[^4-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^4-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^4-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^4-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^4-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^4-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^4-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^4-5]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 
@@ -384,7 +384,7 @@ Les prestataires de services financiers assurent le respect des obligations éno
 
 <sup>2</sup> Les prestataires de services financiers non assujettis à la surveillance en vertu de l’art. 3 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^22-1] s’assurent également que seules les personnes inscrites dans le registre des conseillers (art. 29) exercent l’activité de conseillers à la clientèle.
 
-[^22-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^22-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 23
 
@@ -449,7 +449,7 @@ Les prestataires de services financiers peuvent accepter de la part de tiers des
 
 <sup>3</sup> Il peut subordonner l’exception visée à l’al. 2 à l’octroi de la réciprocité.
 
-[^28-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^28-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 29
 
@@ -473,9 +473,9 @@ Ne sont pas inscrits au registre les conseillers à la clientèle:
 <sup>3</sup> Si les conseillers à la clientèle sont des collaborateurs d’un prestataire de services financiers, la condition prévue par l’al. 1, let. b, peut être satisfaite par ce dernier.
 
 [^29-1]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^29-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^29-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^29-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^29-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^29-4]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 30
 
@@ -534,7 +534,7 @@ Les autorités de surveillance compétentes informent l’organe d’enregistrem
 
 <sup>2</sup> Le Conseil fédéral fixe les émoluments. Il se fonde ce faisant sur l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^33-1].
 
-[^33-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^33-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34
 
@@ -542,7 +542,7 @@ Les autorités de surveillance compétentes informent l’organe d’enregistrem
 
 La procédure d’inscription au registre est régie par la loi du 20 décembre 1968 sur la procédure administrative[^34-1].
 
-[^34-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Titre 3 Offre d’instruments financiers
 
@@ -560,7 +560,7 @@ La procédure d’inscription au registre est régie par la loi du 20 décembre 
 
 <sup>2</sup> Si l’émetteur des valeurs mobilières n’est pas associé à l’offre au public, il n’est pas tenu de participer à l’établissement du prospectus.
 
-[^35-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^35-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^35-2]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^35-3]: Introduit par le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -725,8 +725,8 @@ S’il se compose de plusieurs documents, il peut se subdiviser en:
 
 <sup>4</sup> L’approbation des conditions définitives n’est pas requise.
 
-[^45-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^45-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^45-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^45-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 46
 
@@ -783,8 +783,8 @@ Il conçoit les allégements de manière uniforme en se fondant notamment sur:
 
 <sup>4</sup> Le prospectus et ses modifications doivent être soumis immédiatement à la FINMA.
 
-[^48-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^48-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^48-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^48-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 49
 
@@ -796,7 +796,7 @@ Il conçoit les allégements de manière uniforme en se fondant notamment sur:
 
 <sup>3</sup> L’art. 48 s’applique par analogie au prospectus de la société d’investissement à capital fixe au sens de l’art. 110 LPCC.
 
-[^49-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^49-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 50
 
@@ -807,7 +807,7 @@ Il conçoit les allégements de manière uniforme en se fondant notamment sur:
 <sup>2</sup> La FINMA peut soustraire totalement ou partiellement aux dispositions du présent chapitre les placements collectifs au sens de la LPCC[^50-2] pour autant qu’ils soient exclusivement ouverts à des investisseurs qualifiés au sens de l’art. 10, al. 3 et 3<sup>ter</sup>, LPCC et que la protection assurée par la présente loi n’en soit pas compromise.
 
 [^50-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^50-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^50-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### Section 5 Contrôle du prospectus
 
@@ -821,9 +821,9 @@ Il conçoit les allégements de manière uniforme en se fondant notamment sur:
 
 <sup>3</sup> Les prospectus de placements collectifs de capitaux ne doivent pas être vérifiés. Est réservée l’obligation d’obtenir une approbation pour les documents de placements collectifs étrangers au sens des art. 15, al. 1, let. e, et 120, LPCC[^51-3].
 
-[^51-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^51-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^51-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^51-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^51-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^51-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 52
 
@@ -855,7 +855,7 @@ Il conçoit les allégements de manière uniforme en se fondant notamment sur:
 
 <sup>6</sup> Si l’organe de contrôle ne rend pas de décision dans les délais mentionnés aux al. 4 et 5, le prospectus n’est pas considéré comme ayant été approuvé.
 
-[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -880,8 +880,8 @@ L’organe de contrôle peut approuver un prospectus établi selon des dispositi
 
 <sup>2</sup> Les prospectus concernant les titres de créance émis par une banque au sens de la LB[^55-1] ou une maison de titres au sens de la LEFin[^55-2] dans le cadre d’un programme d’offre sont valables jusqu’à ce qu’aucun des titres de créance concernés ne soit plus émis de manière continue ou répétée.
 
-[^55-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^55-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 56
 
@@ -905,7 +905,7 @@ L’organe de contrôle peut approuver un prospectus établi selon des dispositi
 
 <sup>2</sup> Le Conseil fédéral fixe les émoluments. Il se fonde ce faisant sur l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^57-1].
 
-[^57-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^57-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Chapitre 2 Feuille d’information de base pour instruments financiers
 
@@ -1051,7 +1051,7 @@ Le prospectus peut être publié:
 
 <sup>3</sup> La responsabilité concernant les indications inexactes ou trompeuses sur les perspectives principales est limitée aux cas où ces indications ont été fournies ou diffusées sciemment ou sans mentionner l’incertitude liée aux évolutions futures.
 
-[^69-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^69-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### Chapitre 6 Offre de produits structurés et constitution de portefeuilles collectifs
 
@@ -1084,10 +1084,10 @@ L’émission, par des sociétés à but spécial, de produits structurés desti
 
 <sup>3</sup> Le Conseil fédéral règle les exigences en matière de sûretés.
 
-[^70-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^70-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^70-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^70-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^70-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^70-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^70-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^70-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 71
 
@@ -1107,8 +1107,8 @@ Les banques au sens de la LB[^71-1] et les maisons de titres au sens de la LEFin
 
 <sup>4</sup> En cas de faillite de la banque ou de la maison de titres, les avoirs et les droits liés au portefeuille collectif interne sont distraits de la masse au bénéfice des investisseurs.
 
-[^71-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^71-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^71-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^71-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ## Titre 4 Remise de documents
 
@@ -1179,7 +1179,7 @@ Une demande de médiation est admissible en tout temps:
 
 <sup>3</sup> L’organe de médiation clôt la procédure dès qu’une autorité de conciliation, un tribunal, un tribunal arbitral ou une autorité administrative est saisi de l’affaire.
 
-[^76-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^76-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### Chapitre 2 Obligations des prestataires de services financiers
 
@@ -1291,9 +1291,11 @@ L’organe de médiation publie chaque année un rapport d’activité.
 
 #### Art. 88
 
-**Échange d’informations**
+**Échange d’informations**[^88-1]
 
-La FINMA, l’organisme de surveillance, l’organe d’enregistrement, l’organe de contrôle, l’organe de médiation et le DFF peuvent échanger les informations non accessibles au public dont ils ont besoin pour remplir leurs tâches.
+La FINMA, l’organisme de surveillance, l’organe d’enregistrement, l’organe de contrôle, l’organe de médiation et le DFF peuvent s’échanger tous les renseignements et les documents nécessaires à l’accomplissement de leurs tâches respectives.
+
+[^88-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Titre 7 Dispositions pénales
 
@@ -1335,7 +1337,7 @@ Est puni d’une amende de 500 000 francs au plus quiconque, intentionnellement:
 
 Les art. 89 à 91 ne s’appliquent ni aux assujettis au sens de l’art. 3 LFINMA[^92-1] ni aux personnes qui exercent une activité pour ceux-ci.
 
-[^92-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^92-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Titre 8 Dispositions finales
 
@@ -1382,7 +1384,7 @@ Les prescriptions énoncées au titre 3 de la présente loi s’appliquent dans 
 
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2020[^96-2]
 
-[^96-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^96-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^96-2]: O du 6 nov. 2019 portant dernière mise en vigueur partielle de la loi fédérale sur les établissements financiers ([RO 2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762)).
 
 Annexe

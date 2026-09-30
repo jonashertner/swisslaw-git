@@ -4,11 +4,11 @@ title: "Federal Act of 15 June 2018 on Financial Services (Financial Services Ac
 short: FinSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: en
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20240301-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20240301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20261001/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20261001-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Services Act, FinSA)
 
-of 15 June 2018 (Status as of 1 March 2024)
+of 15 June 2018 (Last amended on 1 October 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 95, 97, 98 and 122 paragraph 1 of the Federal Constitution[^in
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)
 
 ## Title 1 General Provisions
@@ -69,8 +69,8 @@ This Act does not apply to:
 
 - e. public insurance institutions in accordance with Article 67 paragraph 1 of the Federal Act of 25 June 1982[^2-2] on Occupational Old Age, Survivors' and Invalidity Pension Provision.
 
-[^2-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^2-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 3
 
@@ -114,11 +114,11 @@ For the purposes of this Act:
 - h. a *public offer* is an offer to the public;
 - i. *producers* are persons who produce a financial instrument or modify an existing financial instrument, including its risk and return profile or the costs associated with investing in the financial instrument.
 
-[^3-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^3-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^3-2]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^3-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-3]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^3-4]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^3-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 4
 
@@ -163,9 +163,9 @@ equity of CHF 2 million.
 <sup>7</sup> Financial service providers may refrain from client segmentation if they treat all clients as retail clients.
 
 [^4-1]: As professional clients are primarily legal entities, they are referred to herein as ‘it’.
-[^4-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^4-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^4-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^4-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^4-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^4-5]: Amended by Annex No 4 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^4-6]: Amended by Annex No 4 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^4-7]: As institutional clients are primarily legal entities, they are referred to as «it».
@@ -388,7 +388,7 @@ Financial service providers shall ensure that they fulfil their duties under thi
 
 <sup>2</sup> Financial service providers not subject to supervision in accordance with Article 3 of the Financial Market Supervision Act of 22 June 2007[^22-1] (FINMASA) must also ensure that only persons listed in the register of advisers (Article 29) act as client advisers for them.
 
-[^22-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^22-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 23
 
@@ -453,7 +453,7 @@ Financial service providers may accept compensation from third parties in associ
 
 <sup>3</sup> It may make the exception under paragraph 2 dependent on a reciprocal right being granted.
 
-[^28-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^28-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 29
 
@@ -471,15 +471,15 @@ Client advisers are entered in the register of advisers if they prove that they:
 
 Client advisers shall not be entered in the register of advisers if they:
 
-- a. have been convicted of criminal offences in accordance with Articles 89 to 92 of this Act or Article 86 ISA[^29-2] or of property offences under Articles 137 to 172<sup>ter</sup> of the Swiss Criminal Code[^29-3]; or
+- have been convicted of criminal offences in accordance with Articles 89 to 92 of this Act or Article 86 ISA[^29-2] or of property offences under Articles 137 to 172<sup>ter</sup> of the Swiss Criminal Code[^29-3]; or
 - b. have been prohibited from performing the registrable activity in accordance with Article 33*a* FINMASA[^29-4] or from practising a profession in accordance with Article 33 FINMASA.
 
 <sup>3</sup> If client advisers are employed as staff by a financial service provider, the condition set out in paragraph 1 letter b may be fulfilled by the latter.
 
 [^29-1]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^29-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^29-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^29-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^29-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^29-4]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 30
 
@@ -538,7 +538,7 @@ The competent supervisory authorities shall notify the registration body if they
 
 <sup>2</sup> The Federal Council shall regulate the details. This regulation is based on Article 46*a* of the Government and Administration Organisation Act of 21 March 1997[^33-1].
 
-[^33-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^33-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34
 
@@ -546,7 +546,7 @@ The competent supervisory authorities shall notify the registration body if they
 
 The procedure for registration entries is based on the Administrative Procedure Act of 20 December 1968[^34-1].
 
-[^34-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Title 3 Offering of Financial Instruments
 
@@ -564,7 +564,7 @@ The procedure for registration entries is based on the Administrative Procedure 
 
 <sup>2</sup> If the issuer of the securities does not participate in the public offer, it is not obliged to cooperate with the preparation of the prospectus.
 
-[^35-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^35-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^35-2]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^35-3]: Inserted by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -590,7 +590,7 @@ A prospectus does not need to be published if the public offer:
 
 A financial service provider need not publish a prospectus for securities offered publicly at a later stage:
 
-- a. as long as a valid prospectus exists; and
+- as long as a valid prospectus exists; and
 - b. if the issuer or the persons who have assumed responsibility for the prospectus have consented to its use.
 
 <sup>5</sup> Taking account of recognised international standards and legal developments abroad, the Federal Council may adjust the number of investors and the amounts specified under paragraph 1 letters b to e.
@@ -603,7 +603,7 @@ A financial service provider need not publish a prospectus for securities offere
 
 A prospectus need not be published if the following types of securities are offered publicly:
 
-- a. equity securities issued outside the scope of a capital increase in exchange for previously issued equity securities of the same class;
+- equity securities issued outside the scope of a capital increase in exchange for previously issued equity securities of the same class;
 - b. equity securities issued or delivered on the conversion or exchange of financial instruments of the same issuer or corporate group;
 - c. equity securities issued or delivered following the exercise of a right linked to financial instruments of the same issuer or corporate group;
 - d. securities offered for exchange in connection with a takeover, provided that information exists that is equivalent in terms of content to a prospectus;
@@ -677,7 +677,7 @@ The prospectus shall contain the essential information for the investor's decisi
 
 The reviewing body may provide that information need not be included in the prospectus if:
 
-- a. disclosure would be seriously detrimental to the issuer and omission would not mislead investors with regard to facts and circumstances that are essential to an informed assessment of the quality of the issuer and the characteristics of the securities;
+- disclosure would be seriously detrimental to the issuer and omission would not mislead investors with regard to facts and circumstances that are essential to an informed assessment of the quality of the issuer and the characteristics of the securities;
 - b. the information in question is only of minor importance and has no bearing on the assessment of the business situation and the main prospects, risks and litigation of the issuer or of the guarantor and security provider; or
 - c. the information concerns securities traded on a trading venue, and the issuer's periodic reporting over the preceding three years complied with the applicable financial reporting requirements.
 
@@ -729,8 +729,8 @@ If it consists of two or more individual documents, it may be broken down into:
 
 <sup>4</sup> Approval of the final terms is not necessary.
 
-[^45-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^45-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^45-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^45-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 46
 
@@ -787,8 +787,8 @@ It shall grant a relaxation of the requirements uniformly and, in particular, wi
 
 <sup>4</sup> The prospectus and its amendments shall be submitted to FINMA without delay.
 
-[^48-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^48-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^48-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^48-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 49
 
@@ -800,7 +800,7 @@ It shall grant a relaxation of the requirements uniformly and, in particular, wi
 
 <sup>3</sup> For the prospectus of an investment company with fixed capital (SICAF) in accordance with Article 110 CISA, Article 48 applies by analogy.
 
-[^49-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^49-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 50
 
@@ -811,7 +811,7 @@ It shall grant a relaxation of the requirements uniformly and, in particular, wi
 <sup>2</sup> FINMA may exempt collective investment schemes under the CISA[^50-2] from all or some of the provisions of this chapter provided that they are open only to qualified investors in accordance with Article 10 paragraphs 3 and 3ter CISA and the protective purpose of the law is not thereby affected.
 
 [^50-1]: Amended by Annex No 4 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^50-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^50-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 ### Section 5 Review of the Prospectus
 
@@ -825,9 +825,9 @@ It shall grant a relaxation of the requirements uniformly and, in particular, wi
 
 <sup>3</sup> Prospectuses for collective investment schemes do not have to be reviewed; the foregoing does not apply to the approval requirement for the documentation of foreign collective investment schemes under Article 15 paragraph 1 letter e and Article 120 CISA[^51-3].
 
-[^51-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^51-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^51-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^51-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^51-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^51-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 52
 
@@ -859,7 +859,7 @@ It shall grant a relaxation of the requirements uniformly and, in particular, wi
 
 <sup>6</sup> If the reviewing body fails to issue its decision within the time frames set out in paragraphs 4 and 5, this shall not constitute approval of the prospectus.
 
-[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^53-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54
 
@@ -869,7 +869,7 @@ It shall grant a relaxation of the requirements uniformly and, in particular, wi
 
 The reviewing body may approve a prospectus produced under foreign legislation if:
 
-- a. it was produced in accordance with international standards established by international organisations of securities regulators; and
+- it was produced in accordance with international standards established by international organisations of securities regulators; and
 - b. the duty to inform, including with regard to providing financial information, is equivalent to the requirements set out in this Act; audited individual financial statements are not required.
 
 <sup>2</sup> It may provide that prospectuses approved in certain jurisdictions are considered approved in Switzerland too.
@@ -884,8 +884,8 @@ The reviewing body may approve a prospectus produced under foreign legislation i
 
 <sup>2</sup> Prospectuses for debt instruments issued by a bank in accordance with the BankA[^55-1] or a securities firm in accordance with the FinIA[^55-2] in an offer programme shall be valid until none of the debt instruments in question is issued in a continuous or repeated manner any more.
 
-[^55-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^55-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 56
 
@@ -909,7 +909,7 @@ The reviewing body may approve a prospectus produced under foreign legislation i
 
 <sup>2</sup> The Federal Council shall regulate the fees. This regulation is based on Article 46a of the Government and Administration Organisation Act of 21 March 1997[^57-1].
 
-[^57-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^57-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Chapter 2 Key Information Document for Financial Instruments
 
@@ -1086,10 +1086,10 @@ The issuing of structured products to retail clients by special purpose entities
 
 <sup>3</sup> The Federal Council shall regulate the requirements for such collateral.
 
-[^70-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^70-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^70-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^70-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^70-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^70-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^70-3]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^70-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 71
 
@@ -1109,8 +1109,8 @@ In-house funds of a contractual nature for the purpose of collectively managing 
 
 <sup>4</sup> In the event of bankruptcy of the bank or securities firm, assets and rights that form part of in-house funds shall be segregated in favour of the investors.
 
-[^71-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^71-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^71-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^71-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ## Title 4 Provision of Documents
 
@@ -1181,7 +1181,7 @@ A mediation request is permissible at any time if:
 
 <sup>3</sup> The ombudsman shall terminate proceedings once a conciliation authority, a court, a court of arbitration or an administrative authority begins dealing with the case.
 
-[^76-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^76-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### Chapter 2 Duties of Financial Service Providers
 
@@ -1293,9 +1293,11 @@ Ombudsman's offices shall publish an activity report annually.
 
 #### Art. 88
 
-**Exchange of information**
+**Information exchange**[^88-1]
 
-FINMA, the supervisory organisation, the registration body, the reviewing body, the ombudsman's office and the FDF may exchange information not in the public domain which they require to fulfil their tasks.
+FINMA, the supervisory organisation, the registration authority, the reviewing body, the ombudsman’s office and the FDF may exchange all information and documents they require to fulfil their respective duties.
+
+[^88-1]: Amended by Annex No 7 of the FA of 26 Sept. 2025 on the Transparency of Legal Persons and the Identification of Beneficial Owners, in force since 1 Oct. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Title 7 Criminal Provisions
 
@@ -1337,7 +1339,7 @@ A fine not exceeding CHF 500,000 shall be imposed on any person who wilfully:
 
 Articles 89 to 91 do not apply to persons and entities subject to supervision in accordance with Article 3 FINMASA[^92-1] and to persons working for them.
 
-[^92-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^92-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ## Title 8 Final Provisions
 
@@ -1384,7 +1386,7 @@ The provisions of Title 3 of this Act will come into force two years after this 
 
 Commencement date: 1 January 2020[^96-2]
 
-[^96-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^96-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^96-2]: O of 6 Nov. 2019 on the Final Commencement of the Financial Institutions Act ([AS 2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762)).
 
 Annex
@@ -1395,6 +1397,6 @@ Annex
 
 The legislative instruments below are amended as follows:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758).
