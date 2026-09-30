@@ -3,10 +3,10 @@ canton: ZH
 number: "215.2"
 title: Verordnung des Obergerichts über die Aufsichtskommission über die Anwältinnen und Anwälte
 language: de
-nachtrag: "91"
-valid_until: 2026-10-01
+version: "2026-10-01"
+nachtrag: "134"
 adopted: 2004-12-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-215_2-2004_12_15-2005_01_01-091.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-215_2-2004_12_15-2005_01_01-134.html"
 text: pdf
 ---
 
@@ -36,29 +36,17 @@ verordnet:
 
 Diese Verordnung regelt in Ergänzung des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte vom 23. Juni 2000 (BGFA)[^hIAllgemeines-1] und des Anwaltsgesetzes des Kantons Zürich vom 17. November 2003 (Anwaltsgesetz)[^hIAllgemeines-2] die Organisation und die Geschäftsführung der Aufsichtskommission über die Anwältinnen und Anwälte.
 
-#### § 2
-
 **Besetzung**
 
-<sup>1</sup> An den Entscheiden der Aufsichtskommission in Disziplinarverfahren und betreffend Patententzug, die mündlich beraten werden, wirken vier vom Obergericht und drei von der Anwaltschaft gewählte Mitglieder oder Ersatzmitglieder mit.
+§ 2.[^1-1] <sup>1</sup> An den Entscheiden der Aufsichtskommission in Disziplinarverfahren und betreffend Patententzug, die mündlich beraten werden, wirken vier vom Obergericht und drei von der Anwaltschaft gewählte Mitglieder oder Ersatzmitglieder mit.
 
-<sup>2</sup> Über Eintragungen in das Anwaltsregister und die öffentliche Liste wird im Zirkularweg in Dreierbesetzung entschieden. Diese besteht aus einem durch die Anwaltschaft und zwei durch das Obergericht gewählten Mitgliedern oder Ersatzmitgliedern.
-
-<sup>3</sup> Im Übrigen gilt § 20 des Anwaltsgesetzes[^2-1].
-
-[^2-1]: LS 215.1.
-
-#### § 3
+<sup>2</sup> Vorbehältlich präsidialer Zuständigkeiten gilt im Übrigen § 20 des Anwaltsgesetzes[^1-2].
 
 **Präsidialaufgaben**
 
-<sup>1</sup> Die Präsidentin oder der Präsident leitet die Geschäfte und sorgt für die beförderliche Erledigung.
+§ 3.[^1-1] <sup>1</sup> Die Präsidentin oder der Präsident leitet die Geschäfte und sorgt für die beförderliche Erledigung.
 
-<sup>2</sup> Zur Behandlung der Geschäfte und zur Antragstellung bezeichnet sie oder er ein Mitglied oder Ersatzmitglied als Referentin oder Referenten. In einfachen oder dringlichen Fällen kann sie oder er selbst einen Antrag ausarbeiten oder die juristische Sekretärin oder den juristischen Sekretär damit beauftragen; ausnahmsweise kann sie oder er auch in anderen Fällen Antrag stellen.
-
-**1**
-
-- 1\. 1. 16 - 91
+<sup>2</sup> Zur Behandlung der Geschäfte und zur Antragstellung bezeichnet sie oder er ein Mitglied oder Ersatzmitglied als Referentin oder Referenten. In einfachen oder dringlichen Fällen kann sie oder er selbst einen Antrag ausarbeiten oder die Gerichtsschreiberin oder den Gerichtsschreiber damit beauftragen; ausnahmsweise kann sie oder er auch in anderen Fällen Antrag stellen.
 
 <sup>3</sup> Sie oder er a. vertritt die Kommission nach aussen,
 
@@ -66,19 +54,23 @@ Diese Verordnung regelt in Ergänzung des Bundesgesetzes über die Freizügigkei
 
 - c. kann aus zureichenden Gründen die Sistierung eines Verfahrens anordnen,
 
-- d. nimmt Stellung in Rechtsmittelverfahren oder entscheidet über den Verzicht auf Vernehmlassung,
+**1**
 
-- e. kann in dringlichen Fällen vorsorgliche Eintragungen im Anwaltsregister und in der öffentlichen Liste anordnen,
+1.10. 26 - 134 d. nimmt Stellung in Rechtsmittelverfahren oder entscheidet über den Verzicht auf Vernehmlassung,
+
+- e. entscheidet über Eintragungen in das Anwaltsregister und die öffentliche Liste,
 
 - f. veranlasst bei entsprechendem Begehren einer Anwältin oder eines Anwalts sowie im Todesfall die Löschung des Registereintrages,
 
 - g. entbindet Anwältinnen und Anwälte vorläufig vom Berufsgeheimnis und entscheidet endgültig bei Einwilligung der Klientschaft zur Entbindung, bei Gegenstandslosigkeit sowie bei Rückzug des Gesuches,
 
-- h. entscheidet über Auskunftsgesuche von Aufsichtsbehörden anderer Kantone und über Auskunftsgesuche im Sinne von Art. 10 BGFA[^3-1],
+- h. entscheidet über Auskunftsgesuche von Aufsichtsbehörden anderer Kantone und über Auskunftsgesuche im Sinne von Art. 10 BGFA[^1-3],
 
 - i. bewilligt die Einsichtnahme in die Spruchbücher oder die Aushändigung von Entscheiden für wissenschaftliche Zwecke.
 
-[^3-1]: SR 935.61.
+[^1-1]: Fassung gemäss B des Obergerichts vom 1. Juli 2026 (OS 81, 383; ABl 2026- 07-10). In Kraft seit 1. Oktober 2026.
+[^1-2]: LS 215.1.
+[^1-3]: SR 935.61.
 
 #### § 4
 
@@ -98,15 +90,17 @@ Diese Verordnung regelt in Ergänzung des Bundesgesetzes über die Freizügigkei
 
 <sup>2</sup> Die Mehrheit der Stimmen entscheidet.
 
-#### § 6
-
 **Unterzeichnung**
 
-<sup>1</sup> Die Entscheide der Aufsichtskommission betreffend den Entzug des Anwaltspatents und die Disziplinarverfahren sind von der Präsidentin oder dem Präsidenten und der juristischen Sekretärin oder dem juristischen Sekretär zu unterzeichnen. Wird die Sitzung nicht von der Präsidentin oder dem Präsidenten geleitet, so unterzeichnet das Mitglied, das die Sitzung geleitet hat.
+§ 6.[^5-1] <sup>1</sup> Die Entscheide der Aufsichtskommission betreffend den Entzug des Anwaltspatents und die Disziplinarverfahren, die in Papierform ausgefertigt werden, sind von der Präsidentin oder dem Präsidenten und der Gerichtsschreiberin oder dem Gerichtsschreiber zu unterzeichnen. Wird die Sitzung nicht von der Präsidentin oder dem Präsidenten geleitet, so unterzeichnet das Mitglied, das die Sitzung geleitet hat.
 
-<sup>2</sup> Die übrigen Entscheide sind von der juristischen Sekretärin oder dem juristischen Sekretär zu unterzeichnen.
+<sup>2</sup> Die übrigen Entscheide, die in Papierform ausgefertigt werden, sind von der Gerichtsschreiberin oder dem Gerichtsschreiber zu unterzeichnen.
 
-<sup>3</sup> Mitteilungen tragen die Unterschrift der Präsidentin oder des Präsidenten und/oder der juristischen Sekretärin oder des juristischen Sekretärs.
+<sup>3</sup> Mitteilungen, die in Papierform ausgefertigt werden, tragen die Unterschrift der Präsidentin oder des Präsidenten und/oder der Gerichtsschreiberin oder des Gerichtsschreibers.
+
+<sup>4</sup> Entscheide und Mitteilungen, die elektronisch ausgefertigt werden, werden gemäss Verwaltungsrechtspflegegesetz und dessen Ausführungsbestimmungen mit einer elektronischen Signatur oder einem elektronischen Siegel versehen.
+
+[^5-1]: Fassung gemäss B des Obergerichts vom 1. Juli 2026 (OS 81, 383; ABl 2026- 07-10). In Kraft seit 1. Oktober 2026.
 
 #### § 7
 
@@ -136,10 +130,6 @@ Diese Verordnung regelt in Ergänzung des Bundesgesetzes über die Freizügigkei
 
 Über die Veröffentlichung von Entscheiden in Fachzeitschriften entscheidet die Aufsichtskommission. Diese erfolgt ohne Namensnennung. Erwägungen, welche die Identifikation der Beteiligten erleichtern, sind nach Möglichkeit auszulassen.
 
-**3**
-
-- 1\. 1. 16 - 91
-
 ### II. Disziplinarverfahren
 
 #### § 10
@@ -147,6 +137,10 @@ Diese Verordnung regelt in Ergänzung des Bundesgesetzes über die Freizügigkei
 **Einleitung**
 
 <sup>1</sup> Bleibt bei einer Verzeigung unklar, was vorgeworfen wird, so wird mit der Empfangsbestätigung auf Klarstellung oder Ergänzung gedrängt. Die Verzeigerin oder der Verzeiger ist von aussichtslosen Verzeigungen abzuhalten.
+
+**3**
+
+1.10. 26 - 134
 
 <sup>2</sup> Ist unklar, was mit einer Eingabe angestrebt wird, so kann mit der Empfangsbestätigung festgehalten werden, dass die Eingabe einstweilen nicht als Verzeigung behandelt wird.
 
@@ -178,24 +172,18 @@ Diese Verordnung regelt in Ergänzung des Bundesgesetzes über die Freizügigkei
 
 <sup>2</sup> Die Referentin oder der Referent erlässt die für die Untersuchung des Sachverhalts notwendigen Verfügungen und Vorladungen und veranlasst die Vorkehrungen gemäss Art. 16 Abs. 2 und Art. 29 Abs. 2 BGFA[^13-1]. Sie oder er führt ein Verfahrensprotokoll.
 
-<sup>3</sup> Befragungen werden nach Massgabe des Gerichtsverfassungsgesetzes[^13-2] protokolliert. Das Protokoll wird durch die juristische Sekretärin oder den juristischen Sekretär geführt.
-
-<sup>4</sup> Die Referentin oder der Referent erstellt einen schriftlichen, begründeten Antrag.
-
-<sup>5</sup> Das Geschäft ist beförderlich zu behandeln.
-
-[^13-1]: SR 935.61.
-[^13-2]: LS 211.1.
-
-#### § 14
+<sup>3</sup> Befragungen werden in sinngemässer Anwendung der Bestimmungen der Zivilprozessordnung protokolliert. Das Protokoll wird durch die Gerichtsschreiberin oder den Gerichtsschreiber geführt.[^13-2]
 
 **Erledigung**
 
-<sup>1</sup> Ist ein Geschäft spruchreif, so entscheidet die Aufsichtskommission in der Regel an ihrer nächsten Sitzung aufgrund des Antrages der Referentin oder des Referenten.
+§ 14. <sup>1</sup> Ist ein Geschäft spruchreif, so entscheidet die Aufsichtskommission in der Regel an ihrer nächsten Sitzung aufgrund des Antrages der Referentin oder des Referenten.
 
 <sup>2</sup> Die Aufsichtskommission stellt entweder eine Verletzung einer Berufsregel fest und ordnet eine Disziplinarmassnahme an, oder sie stellt das Verfahren ein.
 
 <sup>3</sup> Der Entscheid enthält eine Begründung sowie die Regelung der Kosten- und Entschädigungsfolgen und die Rechtsmittelbelehrung.
+
+[^13-1]: SR 935.61.
+[^13-2]: Fassung gemäss B des Obergerichts vom 1. Juli 2026 (OS 81, 383; ABl 2026- 07-10). In Kraft seit 1. Oktober 2026.
 
 ### III. Verlust des Anwaltspatents
 
@@ -242,31 +230,31 @@ Die vorläufige Entbindung richtet sich nach § 35 des Anwaltsgesetzes[^16-1].
 
 <sup>3</sup> Die Register sind über das Internet zugänglich, soweit dies unter Berücksichtigung des Datenschutzes zulässig ist.
 
-**5**
-
-- 1\. 1. 16 - 91 § 19. <sup>1</sup> Eintragungsgesuche sind schriftlich einzureichen.
+#### § 19
 
 **Eintragungsgesuche**
+
+<sup>1</sup> Eintragungsgesuche sind schriftlich einzureichen.
 
 <sup>2</sup> Die zur Beurteilung der persönlichen Voraussetzungen einzureichenden Belege dürfen nicht älter als drei Monate sein.
 
 <sup>3</sup> Mit dem Gesuch um Eintragung in ein Register ist der Nachweis einer genügenden Haftpflichtversicherung zu erbringen. Diese hat pro Fall einen Schaden bis mindestens Fr. 1 000 000 abzudecken. Der Nachweis hat die ausdrückliche Verpflichtung des Versicherers zu enthalten, dass die Aufsichtskommission über das Aussetzen oder die Beendigung der Versicherung umgehend in Kenntnis gesetzt wird.
 
-#### § 20
+**5**
+
+1.10. 26 - 134 § 20. <sup>1</sup> Der Entscheid wird der gesuchstellenden Person mitgeteilt. Er enthält eine Begründung sowie die Regelung der Kostenfolgen und die Rechtsmittelbelehrung.
 
 **Verfahren**
 
-<sup>1</sup> Der Entscheid wird der gesuchstellenden Person mitgeteilt. Er enthält eine Begründung sowie die Regelung der Kostenfolgen und die Rechtsmittelbelehrung.
-
 <sup>2</sup> Der Entscheid über die Eintragung in das kantonale Anwaltsregister wird überdies den beschwerdeberechtigten Anwaltsverbänden mitgeteilt.
 
-[^20-1]: LS 215.1.
+[^19-1]: LS 215.1.
 
 #### § 21
 
 **Löschung**
 
-Es gelten die Vorschriften von § 28 und § 29 des Anwaltsgesetzes[^20-1].
+Es gelten die Vorschriften von § 28 und § 29 des Anwaltsgesetzes[^19-1].
 
 ### VI. Schlussbestimmungen
 
@@ -275,3 +263,7 @@ Es gelten die Vorschriften von § 28 und § 29 des Anwaltsgesetzes[^20-1].
 <sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2005 in Kraft.
 
 <sup>2</sup> Die Geschäftsordnung der Aufsichtskommission über die Rechtsanwälte im Kanton Zürich vom 7. Dezember 1983 wird aufgehoben.
+
+## Weitere Fussnoten
+
+- [2] LS 211.1.
