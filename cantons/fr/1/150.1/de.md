@@ -4,13 +4,12 @@ number: "150.1"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2024-03-01
-valid_until: 2026-09-30
-version_adopted: 2023-11-24
+version: 2026-10-01
+version_adopted: 2026-05-26
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7947/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gesetz über die Verwaltungsrechtspflege (VRG)
 
 (VRG)
 
-vom 23.05.1991 (Fassung in Kraft getreten am 01.03.2024)
+vom 23.05.1991 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1639,7 +1638,7 @@ beschliesst:
 
 **Zulässigkeit des elektronischen Bearbeitens**
 
-<sup>1</sup> Die nötigen Daten für den Ablauf eines Verwaltungsverfahrens können in elektronischer Form bearbeitet werden, sofern sie den Anforderungen dieses Anhangs und dessen Ausführungsbestimmungen entsprechen. In diesem Rahmen haben Dokumente, die mit einer qualifizierten elektronischen Signatur im Sinne der Bundesgesetzgebung bestätigt wurden, den gleichen Wert und verpflichten genau gleich wie bei einer handgeschriebenen Unterschrift.
+<sup>1</sup> Die nötigen Daten für den Ablauf eines Verwaltungsverfahrens können in elektronischer Form bearbeitet werden, sofern sie den Anforderungen dieses Anhangs und dessen Ausführungsbestimmungen entsprechen. In diesem Rahmen haben Dokumente, die mit einer qualifizierten elektronischen Signatur im Sinne der Bundesgesetzgebung bestätigt wurden, den gleichen Wert und verpflichten genau gleich wie bei einer handgeschriebenen Unterschrift. Von der Anforderung einer qualifizierten elektronischen Signatur kann abgewichen werden, wenn die Identifizierung der Absenderin oder des Absenders und die Integrität der Übermittlung in anderer geeigneter Weise sichergestellt sind.
 
 <sup>2</sup> Die Beweiserhebung kann auf elektronischem Weg erfolgen, wenn die Sicherheit der Daten und der Kommunikationen gewährleistet und die Beweiskraft der Handlung angemessen sichergestellt wird.
 

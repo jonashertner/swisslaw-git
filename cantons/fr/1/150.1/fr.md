@@ -4,13 +4,12 @@ number: "150.1"
 title: Code de procédure et de juridiction administrative
 short: CPJA
 language: fr
-version: 2024-03-01
-valid_until: 2026-09-30
-version_adopted: 2023-11-24
+version: 2026-10-01
+version_adopted: 2026-05-26
 adopted: 1991-05-23
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/150.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7947/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8637/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Code de procédure et de juridiction administrative (CPJA)
 
 (CPJA)
 
-du 23.05.1991 (version entrée en vigueur le 01.03.2024)
+du 23.05.1991 (version entrée en vigueur le 01.10.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1639,7 +1638,7 @@ Décrète:
 
 **Admissibilité du traitement électronique**
 
-<sup>1</sup> Les données nécessaires au déroulement d'une procédure administrative peuvent être traitées sous forme électronique à condition que les exigences de la présente annexe et de ses dispositions d'exécution soient respectées. Dans ce cadre, les documents validés au moyen d'une signature électronique qualifiée, au sens de la législation fédérale, ont la même valeur et engagent de la même manière qu'en cas de signature manuscrite.
+<sup>1</sup> Les données nécessaires au déroulement d'une procédure administrative peuvent être traitées sous forme électronique à condition que les exigences de la présente annexe et de ses dispositions d'exécution soient respectées. Dans ce cadre, les documents validés au moyen d'une signature électronique qualifiée, au sens de la législation fédérale, ont la même valeur et engagent de la même manière qu'en cas de signature manuscrite. Il peut être dérogé à l'exigence de la signature électronique qualifiée lorsque l'identification de l'expéditeur ou de l'expéditrice et l'intégrité de la communication sont assurées de manière adéquate par d'autres moyens.
 
 <sup>2</sup> L'administration des preuves peut se faire par voie électronique si la sécurité des données et des communications est garantie et si la force probatoire de l'opération est assurée de manière appropriée.
 
