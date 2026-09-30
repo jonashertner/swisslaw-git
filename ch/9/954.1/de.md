@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzinstitute (Finanzinstitut
 short: FINIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: de
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20261001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/de"
 
 (Finanzinstitutsgesetz, FINIG)
 
-vom 15. Juni 2018 (Stand am 1. März 2024)
+vom 15. Juni 2018 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 95 und 98 Absätze 1 und 2 der Bundesverfassung[^ingre
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -69,11 +69,11 @@ Diesem Gesetz nicht unterstellt sind:
 - i. öffentlich-rechtliche Versicherungseinrichtungen nach Artikel 67 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^2-4] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge;
 - j. Banken im Sinne des Bankengesetzes vom 8. November 1934[^2-5] (BankG).
 
-[^2-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-2]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
-[^2-3]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^2-2]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
+[^2-3]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^2-5]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 3
 
@@ -120,7 +120,7 @@ Den insolvenzrechtlichen Massnahmen nach Artikel 67 Absatz 1 unterstehen, soweit
 
 <sup>4</sup> Die Bewilligung zur Tätigkeit als Verwalter von Kollektivvermögen ermächtigt auch zur Tätigkeit als Vermögensverwalter.
 
-[^6-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^6-2]: Fassung gemäss Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
@@ -133,7 +133,7 @@ Den insolvenzrechtlichen Massnahmen nach Artikel 67 Absatz 1 unterstehen, soweit
 
 <sup>3</sup> Der Bundesrat kann zusätzliche Bewilligungsvoraussetzungen festlegen, falls dies zur Umsetzung anerkannter internationaler Standards notwendig ist.
 
-[^7-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^7-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 8
 
@@ -190,7 +190,7 @@ Wer hauptsächlich im Finanzbereich tätig ist, darf folgende Tätigkeiten nur a
 - a. gewerbsmässig Effekten, die von Drittpersonen ausgegeben werden, übernehmen und auf dem Primärmarkt öffentlich anbieten;
 - b. gewerbsmässig Derivate in Form von Effekten schaffen und auf dem Primärmarkt öffentlich anbieten.
 
-[^12-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^12-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 13
 
@@ -224,7 +224,7 @@ Ein Finanzinstitut erstattet der FINMA Meldung, bevor es:
 Finanzinstitute, die nicht ausschliesslich gegenüber institutionellen oder professionellen Kunden nach Artikel 4 Absätze 3 und 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^16-2] (FIDLEG) Finanzdienstleistungen nach Artikel 3 Buchstabe c FIDLEG erbringen, müssen sich spätestens mit Aufnahme ihrer Tätigkeit einer Ombudsstelle nach den Bestimmungen des 5. Titels FIDLEG anschliessen.
 
 [^16-1]: Fassung gemäss Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^16-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## 2. Kapitel: Finanzinstitute
 
@@ -238,8 +238,8 @@ Finanzinstitute, die nicht ausschliesslich gegenüber institutionellen oder prof
 
 <sup>2</sup> Als Trustee gilt, wer gestützt auf die Errichtungsurkunde eines Trusts im Sinne des Übereinkommens vom 1. Juli 1985[^17-2] über das auf Trusts anzuwendende Recht und über ihre Anerkennung gewerbsmässig Sondervermögen zugunsten der Begünstigten oder für einen bestimmten Zweck verwaltet oder darüber verfügt.
 
-[^17-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^17-2]: [SR 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^17-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^17-2]: [SR 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 #### Art. 18
 
@@ -337,7 +337,7 @@ Als Vermögensverwalter im Sinne von Artikel 17 Absatz 1 gelten:
 
 <sup>3</sup> Vermögensverwalter nach Absatz 2 können eine Bewilligung als Verwalter von Kollektivvermögen verlangen, sofern dies vom Staat verlangt wird, in dem die kollektive Kapitalanlage gebildet oder angeboten oder die Vorsorgeeinrichtung geführt wird. Der Bundesrat regelt die Einzelheiten.
 
-[^24-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^24-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 25
 
@@ -402,7 +402,7 @@ Der Verwalter von Kollektivvermögen meldet die Übernahme seiner Rechte und Pfl
 Als Fondsleitung gilt, wer in eigenem Namen und für Rechnung der Anlegerinnen und Anleger selbstständig Anlagefonds nach Artikel 15 Absatz 1 Buchstabe a des Kollektivanlagengesetzes vom 23. Juni 2006[^32-2] (KAG) verwaltet oder die Administration einer SICAV nach Artikel 13 Absatz 2 Buchstabe b KAG wahrnimmt.
 
 [^32-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^32-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^32-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 33
 
@@ -481,7 +481,7 @@ Die Fondsleitung hat Anspruch auf:
 
 <sup>6</sup> Sie veröffentlicht den Entscheid in den Publikationsorganen.
 
-[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 39a
 
@@ -541,7 +541,7 @@ Als Wertpapierhaus gilt, wer gewerbsmässig:
 - c. für eigene Rechnung kurzfristig mit Effekten handelt und öffentlich dauernd oder auf Anfrage Kurse für einzelne Effekten stellt (*Market Maker*).
 
 [^41-1]: Eingefügt durch Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 42
 
@@ -555,7 +555,7 @@ Ein Wertpapierhaus mit Sitz in der Schweiz muss die Rechtsform einer Handelsgese
 
 Die Vorschriften des BankG[^43-1] über ausländisch beherrschte Banken gelten sinngemäss.
 
-[^43-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^43-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 44
 
@@ -604,7 +604,7 @@ Das Wertpapierhaus kann insbesondere:
 
 Die Vorschriften des BankG[^47-1] über das zusätzliche Kapital gelten sinngemäss.
 
-[^47-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^47-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 48
 
@@ -612,7 +612,7 @@ Die Vorschriften des BankG[^47-1] über das zusätzliche Kapital gelten sinngem�
 
 Die Vorschriften des BankG[^48-1] über die Rechnungslegung gelten sinngemäss.
 
-[^48-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^48-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 49
 
@@ -630,7 +630,7 @@ Als wertpapierhausdominierte Finanzgruppe gelten zwei oder mehrere Unternehmen:
 
 <sup>3</sup> Die Vorschriften des BankG[^49-1] über Finanzgruppen und Finanzkonglomerate gelten sinngemäss.
 
-[^49-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^49-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 50
 
@@ -648,7 +648,7 @@ Das Wertpapierhaus muss die Aufträge und die von ihm getätigten Geschäfte mit
 
 <sup>3</sup> Sofern die Erreichung des Gesetzeszweckes dies verlangt, kann der Bundesrat die Meldepflicht nach Absatz 1 auch Personen und Gesellschaften auferlegen, die Effekten gewerbsmässig, aber ohne Beizug eines Wertpapierhauses kaufen und verkaufen. Die Gesellschaften haben die Einhaltung dieser Meldepflicht durch eine von der Eidgenössischen Revisionsaufsichtsbehörde (RAB) nach Artikel 9*a* Absatz 1 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^51-1] (RAG) zugelassene Prüfgesellschaft prüfen zu lassen und sind der FINMA zur Auskunft verpflichtet.
 
-[^51-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^51-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### 5. Abschnitt: Zweigniederlassungen
 
@@ -769,7 +769,15 @@ Der Bundesrat kann vorsehen, dass Vertretungen ausländischer Finanzinstitute vo
 
 <sup>4</sup> Besteht keine Aufsichtsorganisation nach Absatz 1, so wird die Aufsicht durch die FINMA wahrgenommen.
 
-[^61-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^61-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+
+#### Art. 61a
+
+**Informationsaustausch zwischen der FINMA und den Aufsichtsorganisationen**[^61a-1]
+
+Die FINMA und die Aufsichtsorganisationen können untereinander alle Auskünfte und Unterlagen austauschen, die sie zur Erfüllung ihrer jeweiligen Aufgaben benötigen.
+
+[^61a-1]: Eingefügt durch Anhang Ziff. 10 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 62
 
@@ -781,7 +789,7 @@ Der Bundesrat kann vorsehen, dass Vertretungen ausländischer Finanzinstitute vo
 
 <sup>3</sup> In den Jahren, in denen keine periodische Prüfung stattfindet, erstatten die Vermögensverwalter und Trustees der Aufsichtsorganisation einen Bericht über die Konformität ihrer Geschäftstätigkeit mit den Gesetzesvorschriften. Dieser Bericht kann in standardisierter Form abgegeben werden.
 
-[^62-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^62-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 63
 
@@ -802,9 +810,9 @@ Die Verwalter von Kollektivvermögen, die Fondsleitungen, die Wertpapierhäuser,
 
 <sup>5</sup> Die FINMA kann selbst direkte Prüfungen durchführen.
 
-[^63-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^63-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^63-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^63-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^63-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 64
 
@@ -814,7 +822,7 @@ Die Verwalter von Kollektivvermögen, die Fondsleitungen, die Wertpapierhäuser,
 
 <sup>2</sup> Die FINMA kann bei diesen Personen jederzeit Prüfungen vornehmen.
 
-[^64-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^64-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 65
 
@@ -840,7 +848,7 @@ Zur Durchsetzung von Artikel 11 Absätze 3 und 5 kann die FINMA das Stimmrecht s
 
 <sup>2</sup> Die Bestimmungen des BankG über die Einlagensicherung und die nachrichtenlosen Vermögenswerte gelten für Wertpapierhäuser nach Artikel 41 Buchstabe a sinngemäss.[^67-2]
 
-[^67-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^67-2]: Fassung gemäss Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## 4. Kapitel: Verantwortlichkeit und Strafbestimmungen
@@ -855,7 +863,7 @@ Zur Durchsetzung von Artikel 11 Absätze 3 und 5 kann die FINMA das Stimmrecht s
 
 <sup>3</sup> Für Handlungen der Personen, denen die Fondsleitung Aufgaben nach Artikel 35 Absatz 1 übertragen hat, haftet die Fondsleitung wie für eigenes Handeln.
 
-[^68-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Abschnitt: Strafbestimmungen
 
@@ -925,14 +933,14 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 
 <sup>4</sup> In besonderen Fällen kann die FINMA die Fristen nach den Absätzen 1 und 2 erstrecken.
 
-[^74-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^74-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^74-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^74-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 74a
 
 **Koordination mit der Änderung des Geldwäschereigesetzes im Rahmen des Geldspielgesetzes vom 29. September 2017**[^74a-1]
 
-...[^74a-2]
+…[^74a-2]
 
 [^74a-1]: Eingefügt durch Berichtigung der RedK der BVers vom 24. Sept. 2019 ([AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)).
 [^74a-2]: Die Koordinationsbestimmungen können unter [AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)und [AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)konsultiert werden. Berichtigung der RedK der BVers vom 31. Jan. 2020, veröffentlicht am 18. Febr. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
@@ -961,12 +969,12 @@ Der Bundesrat kann folgende Bestimmungen vorzeitig in Kraft setzen:
 
 Datum des Inkrafttretens: 1. Januar 2020[^75-7]
 
-[^75-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^75-2]: [SR 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
-[^75-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^75-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^75-5]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^75-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^75-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^75-2]: [SR 221.214.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5873)
+[^75-3]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^75-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^75-5]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^75-6]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^75-7]: V vom 6. Nov. 2019 ([AS 2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762)).
 
 Anhang
@@ -983,7 +991,7 @@ II
 
 Die folgenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044), [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Anhang Ziff. II 7, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 146, [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)Anhang Ziff. 16, [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)Anhang Ziff. 8, [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250), [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)Anhang Ziff. 6, [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)Ziff. I 3 [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)Anhang Ziff. 11]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801)konsultiert werden.

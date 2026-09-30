@@ -4,11 +4,11 @@ title: "Legge federale del 15 giugno 2018 sugli istituti finanziari (Legge sugli
 short: LIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: it
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20261001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/it"
 
 (Legge sugli istituti finanziari, LIsFi)
 
-del 15 giugno 2018 (Stato 1° marzo 2024)
+del 15 giugno 2018 (Stato 1° ottobre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 95 e 98 capoversi 1 e 2 della Costituzione federale[^ingress-
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)
 
 ## Capitolo 1: Disposizioni generali
@@ -69,11 +69,11 @@ Non sottostanno alla presente legge:
 - i. gli istituti d’assicurazione di diritto pubblico ai sensi dell’articolo 67 capoverso 1 della legge federale del 25 giugno 1982[^2-4] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità;
 - j. le banche ai sensi della legge dell’8 novembre 1934[^2-5] sulle banche (LBCR).
 
-[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-2]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
-[^2-3]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^2-2]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
+[^2-3]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^2-5]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 3
 
@@ -120,8 +120,8 @@ Sottostanno alle misure in materia di insolvenza ai sensi dell’articolo 67 cap
 
 <sup>4</sup> L’autorizzazione all’esercizio dell’attività di gestore di patrimoni collettivi permette di esercitare anche l’attività di gestore patrimoniale.
 
-[^6-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^6-2]: Nuovo testo giusta il n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^6-2]: Nuovo testo giusta la cifra I n. 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
@@ -133,7 +133,7 @@ Sottostanno alle misure in materia di insolvenza ai sensi dell’articolo 67 cap
 
 <sup>3</sup> Se necessario per l’attuazione di standard internazionali riconosciuti, il Consiglio federale può stabilire condizioni di autorizzazione supplementari.
 
-[^7-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^7-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 8
 
@@ -190,7 +190,7 @@ Chi opera prevalentemente nel settore finanziario può esercitare le seguenti at
 - a. assumere a titolo professionale valori mobiliari emessi da terzi e offrirli pubblicamente sul mercato primario;
 - b. creare a titolo professionale derivati sotto forma di valori mobiliari e offrirli pubblicamente sul mercato primario.
 
-[^12-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^12-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 13
 
@@ -223,8 +223,8 @@ L’istituto finanziario effettua una comunicazione alla FINMA prima di:
 
 Al più tardi all’inizio della loro attività, gli istituti finanziari che forniscono servizi finanziari secondo l’articolo 3 lettera c della legge del 15 giugno 2018[^16-2] sui servizi finanziari (LSerFi) devono affiliarsi a un organo di mediazione secondo le disposizioni contenute nel titolo quinto della LSerFi; sono eccettuati da tale obbligo gli istituti finanziari che forniscono tali servizi unicamente a clienti professionali o istituzionali ai sensi dell’articolo 4 capoversi 3 e 4 LSerFi.
 
-[^16-1]: Nuovo testo giusta il n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^16-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-1]: Nuovo testo giusta la cifra I n. 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^16-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Capitolo 2: Istituti finanziari
 
@@ -238,8 +238,8 @@ Al più tardi all’inizio della loro attività, gli istituti finanziari che for
 
 <sup>2</sup> Per trustee s’intende chiunque, in base all’atto che istituisce un trust ai sensi della Convenzione del 1° luglio 1985[^17-2] relativa alla legge applicabile ai trust ed al loro riconoscimento, gestisce a titolo professionale un patrimonio distinto nell’interesse di un beneficiario o per un fine determinato oppure ne dispone.
 
-[^17-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^17-2]: [RS 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^17-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^17-2]: [RS 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 #### Art. 18
 
@@ -337,7 +337,7 @@ Sono tuttavia considerati gestori patrimoniali ai sensi dell’articolo 17 capov
 
 <sup>3</sup> Un gestore patrimoniale secondo il capoverso 2 può chiedere l’autorizzazione quale gestore di patrimoni collettivi se lo esige lo Stato in cui l’investimento collettivo di capitale è costituito od offerto o in cui l’istituto di previdenza è gestito. Il Consiglio federale disciplina i dettagli.
 
-[^24-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^24-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 25
 
@@ -402,7 +402,7 @@ Il gestore di patrimoni collettivi comunica previamente l’assunzione dei suoi 
 Per direzione del fondo s’intende chiunque, in nome proprio e per conto degli investitori, gestisce autonomamente fondi di investimento di cui all’articolo 15 capoverso 1 lettera a della legge del 23 giugno 2006[^32-2] sugli investimenti collettivi (LICol) o esercita l’amministrazione di una SICAV di cui all’articolo 13 capoverso 2 lettera b LICol.
 
 [^32-1]: Nuovo testo giusta l’all. n. 5 della LF del 17 dic. 2021, in vigore dal 1° mar. 2024 ([RU 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6011](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^32-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^32-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 33
 
@@ -481,7 +481,7 @@ La direzione del fondo ha diritto:
 
 <sup>6</sup> Essa pubblica la sua decisione negli organi di pubblicazione.
 
-[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 39a
 
@@ -540,8 +540,8 @@ Per società di intermediazione mobiliare s’intende chiunque, a titolo profess
 
 - c. negozia per conto proprio e a breve scadenza valori mobiliari e fissa i corsi di singoli valori mobiliari pubblicamente e durevolmente oppure su richiesta (*market maker*).
 
-[^41-1]: Introdotto dal n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^41-1]: Introdotto dalla cifra I n. 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 42
 
@@ -555,7 +555,7 @@ Le società di intermediazione mobiliare con sede in Svizzera rivestono la forma
 
 Le disposizioni della LBCR[^43-1] relative alle banche sotto dominio straniero si applicano per analogia.
 
-[^43-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^43-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 44
 
@@ -604,7 +604,7 @@ La società di intermediazione mobiliare può in particolare:
 
 Le disposizioni della LBCR[^47-1] relative al capitale supplementare si applicano per analogia.
 
-[^47-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^47-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 48
 
@@ -612,7 +612,7 @@ Le disposizioni della LBCR[^47-1] relative al capitale supplementare si applican
 
 Le disposizioni della LBCR[^48-1] relative alla presentazione dei conti si applicano per analogia.
 
-[^48-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^48-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 49
 
@@ -630,7 +630,7 @@ Due o più imprese sono considerate gruppo finanziario dominato da una società 
 
 <sup>3</sup> Le disposizioni della LBCR[^49-1] relative ai gruppi finanziari e ai conglomerati finanziari si applicano per analogia.
 
-[^49-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^49-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 50
 
@@ -648,7 +648,7 @@ La società di intermediazione mobiliare registra i mandati e le operazioni da e
 
 <sup>3</sup> Se lo scopo della presente legge lo esige, il Consiglio federale può sottoporre all’obbligo di comunicazione secondo il capoverso 1 anche le persone e le società che acquistano e alienano a titolo professionale valori mobiliari senza il concorso di una società di intermediazione mobiliare. Le società sono tenute a incaricare una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* capoverso 1 della legge del 16 dicembre 2005[^51-1] sui revisori (LSR) di controllare l’osservanza di questo obbligo e a comunicare alla FINMA le informazioni richieste.
 
-[^51-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^51-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### Sezione 5: Succursali
 
@@ -769,7 +769,15 @@ Il Consiglio federale può prevedere che le rappresentanze di istituti finanziar
 
 <sup>4</sup> Se non è istituito un organismo di vigilanza ai sensi del capoverso 1, la vigilanza è esercitata dalla FINMA.
 
-[^61-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^61-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+
+#### Art. 61a
+
+**Scambio di informazioni tra la FINMA e gli organismi di vigilanza**[^61a-1]
+
+La FINMA e gli organismi di vigilanza possono scambiarsi tutte le informazioni e i documenti necessari all’adempimento dei loro compiti.
+
+[^61a-1]: Introdotto dall’all. n. 10 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 62
 
@@ -781,7 +789,7 @@ Il Consiglio federale può prevedere che le rappresentanze di istituti finanziar
 
 <sup>3</sup> Negli anni in cui non ha luogo alcuna verifica periodica, i gestori patrimoniali e i trustee presentano all’organismo di vigilanza un rapporto sulla conformità della loro attività alle disposizioni di legge. Il rapporto può essere presentato in forma standardizzata.
 
-[^62-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^62-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 63
 
@@ -802,9 +810,9 @@ I gestori di patrimoni collettivi, le direzioni dei fondi, le società di interm
 
 <sup>5</sup> La FINMA può effettuare essa stessa verifiche dirette.
 
-[^63-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^63-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^63-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^63-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^63-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 64
 
@@ -814,7 +822,7 @@ I gestori di patrimoni collettivi, le direzioni dei fondi, le società di interm
 
 <sup>2</sup> La FINMA può effettuare in ogni momento verifiche presso queste persone.
 
-[^64-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^64-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 65
 
@@ -840,8 +848,8 @@ Al fine di far rispettare l’articolo 11 capoversi 3 e 5, la FINMA può sospend
 
 <sup>2</sup> Le disposizioni della LBCR relative alla garanzia dei depositi e agli averi non rivendicati si applicano per analogia alle società di intermediazione mobiliare secondo l’articolo 41 lettera a.[^67-2]
 
-[^67-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^67-2]: Nuovo testo giusta il n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^67-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^67-2]: Nuovo testo giusta la cifra I n. 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Capitolo 4: Responsabilità e disposizioni penali
 
@@ -855,7 +863,7 @@ Al fine di far rispettare l’articolo 11 capoversi 3 e 5, la FINMA può sospend
 
 <sup>3</sup> La direzione del fondo risponde degli atti dei terzi cui ha delegato compiti secondo l’articolo 35 capoverso 1 come fossero suoi propri atti.
 
-[^68-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Sezione 2: Disposizioni penali
 
@@ -925,8 +933,8 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>4</sup> In casi particolari la FINMA può prorogare i termini di cui ai capoversi 1 e 2.
 
-[^74-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^74-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^74-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^74-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 74a
 
@@ -934,7 +942,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 ...[^74a-2]
 
-[^74a-1]: Introdotto dalla correzione della Commissione di redazione dell’AF del 24 sett. 2019 ([RU 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)). Correzione della Commissione di redazione dell’AF del 31 gen. 2020, pubblicata il 18 feb. 2020 ([RU 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
+[^74a-1]: Introdotto dalla correzione della Commissione di redazione dell’AF del 24 set. 2019 ([RU 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)). Correzione della Commissione di redazione dell’AF del 31 gen. 2020, pubblicata il 18 feb. 2020 ([RU 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
 [^74a-2]: La mod. può essere consultata alla [RU 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803), [2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91).
 
 #### Art. 75
@@ -961,12 +969,12 @@ Il Consiglio federale può anticipare l’entrata in vigore delle disposizioni s
 
 Data dell’entrata in vigore: 1° gennaio 2020[^75-7]
 
-[^75-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^75-2]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
-[^75-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^75-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^75-5]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^75-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^75-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^75-2]: [RS 221.214.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5873)
+[^75-3]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^75-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^75-5]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^75-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^75-7]: O del 6 nov. 2019 concernente l’entrata in vigore integrale della legge sugli istituti finanziari ([RU 2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762)).
 
 Allegato

@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)
 short: LEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: fr
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/fr"
 
 (LEFin)[^t-1]\*
 
-du 15 juin 2018 (État le 1<sup>er</sup> mars 2024)
+du 15 juin 2018 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu les art. 95 et 98, al. 1 et 2, de la Constitution[^ingress-1], vu le message 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)
 
 ## Chapitre 1 Dispositions générales
@@ -71,11 +71,11 @@ Ne sont pas soumis à la présente loi:
 - i. les institutions d’assurance de droit public visées à l’art. 67, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité[^2-4];
 - j. les banques au sens de la loi du 8 novembre 1934 sur les banques (LB)[^2-5].
 
-[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-2]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
-[^2-3]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^2-2]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
+[^2-3]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^2-5]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 3
 
@@ -122,7 +122,7 @@ Sont soumises aux mesures relevant du droit de l’insolvabilité selon l’art.
 
 <sup>4</sup> L’autorisation d’opérer en tant que gestionnaire de fortune collective vaut autorisation d’opérer en tant que gestionnaire de fortune.
 
-[^6-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^6-2]: Nouvelle teneur selon le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
@@ -135,7 +135,7 @@ Sont soumises aux mesures relevant du droit de l’insolvabilité selon l’art.
 
 <sup>3</sup> Le Conseil fédéral peut fixer des conditions supplémentaires si cela s’avère nécessaire à la mise en œuvre de normes internationales reconnues.
 
-[^7-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^7-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 8
 
@@ -192,7 +192,7 @@ Quiconque opère principalement dans le domaine financier ne peut exercer les ac
 - a. reprendre, à titre professionnel, des valeurs mobilières émises par des tiers et les offrir au public sur le marché primaire;
 - b. créer, à titre professionnel, des dérivés sous la forme de valeurs mobilières et les offrir au public sur le marché primaire.
 
-[^12-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^12-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 13
 
@@ -226,7 +226,7 @@ Un établissement financier informe la FINMA au préalable lorsqu’il entend:
 Les établissements financiers qui ne fournissent pas de services financiers, tels qu’ils sont définis à l’art. 3, let. c, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^16-2], exclusivement à des clients institutionnels ou à des clients professionnels au sens de l’art. 4, al. 3, et 4, LSFin doivent être affiliés à un organe de médiation au sens des dispositions du titre 5 LSFin au plus tard au moment où ils commencent leur activité.
 
 [^16-1]: Nouvelle teneur selon le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^16-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Chapitre 2 Établissements financiers
 
@@ -240,8 +240,8 @@ Les établissements financiers qui ne fournissent pas de services financiers, te
 
 <sup>2</sup> Est réputé trustee quiconque, à titre professionnel, gère un patrimoine distinct ou en dispose en faveur d’un bénéficiaire ou dans un but déterminé, sur la base de l’acte constitutif d’un trust au sens de la Convention du 1<sup>er</sup> juillet 1985 relative à la loi applicable au trust et à sa reconnaissance[^17-2].
 
-[^17-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^17-2]: [RS 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^17-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^17-2]: [RS 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 #### Art. 18
 
@@ -339,7 +339,7 @@ Sont toutefois réputés gestionnaires de fortune au sens de l’art. 17, al. 1:
 
 <sup>3</sup> Les gestionnaires de fortune visés à l’al. 2 peuvent demander une autorisation en qualité de gestionnaires de fortune collective, dans la mesure où une telle autorisation est requise par l’État dans lequel le placement collectif est constitué ou proposé, ou dans lequel l’institution de prévoyance est gérée. Le Conseil fédéral fixe les modalités.
 
-[^24-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^24-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 25
 
@@ -404,7 +404,7 @@ Le gestionnaire de fortune collective annonce au préalable la reprise de ses dr
 Est réputé direction de fonds quiconque, pour le compte d’investisseurs, de façon indépendante et en son propre nom, gère des fonds de placement conformément à l’art. 15, al. 1, let. a, de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^32-2] ou assume l’administration de la SICAV visée à l’art. 13, al. 2, let. b, LPCC.
 
 [^32-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [FF 2020 6667](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^32-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^32-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 33
 
@@ -483,7 +483,7 @@ La direction de fonds a droit:
 
 <sup>6</sup> Elle publie la décision dans les organes de publication du fonds.
 
-[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 39a
 
@@ -543,7 +543,7 @@ Est réputé maison de titres quiconque, à titre professionnel:
 - c. fait le commerce de valeurs mobilières à court terme pour son propre compte et propose au public, en permanence ou sur demande, un cours pour certaines valeurs mobilières (teneur de marché).
 
 [^41-1]: Introduit par le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 42
 
@@ -557,7 +557,7 @@ Une maison de titres dont le siège est en Suisse doit revêtir la forme juridiq
 
 Les dispositions de la LB[^43-1] concernant les banques en mains étrangères s’appliquent par analogie.
 
-[^43-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^43-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 44
 
@@ -606,7 +606,7 @@ La maison de titres peut notamment:
 
 Les dispositions de la LB[^47-1] concernant le capital complémentaire s’appliquent par analogie.
 
-[^47-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^47-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 48
 
@@ -614,7 +614,7 @@ Les dispositions de la LB[^47-1] concernant le capital complémentaire s’appli
 
 Les dispositions de la LB[^48-1] concernant l’établissement des comptes s’appliquent par analogie.
 
-[^48-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^48-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 49
 
@@ -632,7 +632,7 @@ Deux ou plusieurs entreprises constituent un groupe financier dominé par la né
 
 <sup>3</sup> Les dispositions de la LB[^49-1] concernant les groupes financiers et les conglomérats financiers s’appliquent par analogie.
 
-[^49-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^49-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 50
 
@@ -650,7 +650,7 @@ La maison de titres enregistre les ordres et les opérations qu’elle effectue 
 
 <sup>3</sup> Si le but de la présente loi l’exige, le Conseil fédéral peut étendre l’obligation de déclarer selon l’al. 1 aux personnes et aux entreprises qui achètent et vendent des valeurs mobilières à titre professionnel, mais sans faire appel à une maison de titres. Les entreprises doivent faire vérifier le respect de cette obligation de déclarer par une société d’audit agréée par l’Autorité fédérale de surveillance en matière de révision (ASR) conformément à l’art. 9*a*, al. 1, de la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^51-1]; elles sont tenues d’informer la FINMA.
 
-[^51-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^51-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### Section 5 Succursales
 
@@ -771,7 +771,15 @@ Le Conseil fédéral peut prévoir d’exempter des représentations d’établi
 
 <sup>4</sup> À défaut d’organisme de surveillance au sens de l’al. 1, la surveillance incombe à la FINMA.
 
-[^61-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^61-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+
+#### Art. 61a
+
+**Échange d’informations entre la FINMA et les organismes de surveillance**[^61a-1]
+
+La FINMA et les organismes de surveillance peuvent s’échanger tous les renseignements et les documents nécessaires à l’accomplissement de leurs tâches respectives.
+
+[^61a-1]: Introduit par l’annexe ch. 10 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 62
 
@@ -783,7 +791,7 @@ Le Conseil fédéral peut prévoir d’exempter des représentations d’établi
 
 <sup>3</sup> Les années durant lesquelles aucun audit périodique n’a lieu, les gestionnaires de fortune et les trustees établissent, à l’intention de l’organisme de surveillance, un rapport sur la conformité de leurs activités avec les prescriptions légales. Ce rapport peut être remis sous une forme standardisée.
 
-[^62-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^62-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 63
 
@@ -804,9 +812,9 @@ Les gestionnaires de fortune collective, les directions de fonds, les maisons de
 
 <sup>5</sup> La FINMA peut réaliser elle-même des audits directs.
 
-[^63-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^63-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^63-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^63-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^63-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 64
 
@@ -816,7 +824,7 @@ Les gestionnaires de fortune collective, les directions de fonds, les maisons de
 
 <sup>2</sup> La FINMA peut à tout moment effectuer des audits auprès de ces personnes.
 
-[^64-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^64-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 65
 
@@ -842,7 +850,7 @@ Afin d’assurer l’application de l’art. 11, al. 3 et 5, la FINMA peut suspe
 
 <sup>2</sup> Les dispositions de la LB concernant la garantie des dépôts et les avoirs en déshérence s’appliquent par analogie aux maisons de titres au sens de l’art. 41, let. a.[^67-2]
 
-[^67-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^67-2]: Nouvelle teneur selon le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Chapitre 4 Responsabilité et dispositions pénales
@@ -857,7 +865,7 @@ Afin d’assurer l’application de l’art. 11, al. 3 et 5, la FINMA peut suspe
 
 <sup>3</sup> La direction de fonds répond des actes des personnes auxquelles elle a confié des tâches au sens de l’art. 35, al. 1, comme de ses propres actes.
 
-[^68-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 2 Dispositions pénales
 
@@ -927,8 +935,8 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 <sup>4</sup> Dans certains cas, la FINMA peut prolonger les délais fixés aux al. 1 et 2.
 
-[^74-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^74-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^74-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^74-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 74a
 
@@ -963,12 +971,12 @@ Le Conseil fédéral peut mettre en vigueur les dispositions suivantes de maniè
 
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2020[^75-7]
 
-[^75-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758); [FF 2018 3733](https://fedlex.data.admin.ch/eli/fga/2018/1355)
-[^75-2]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
-[^75-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^75-4]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^75-5]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^75-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^75-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500); [FF 2018 3733](https://fedlex.data.admin.ch/eli/fga/2018/1355)
+[^75-2]: [RS 221.214.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5873)
+[^75-3]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^75-4]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^75-5]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^75-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^75-7]: O du 6 nov. 2019 ([RO 2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762)).
 
 Annexe

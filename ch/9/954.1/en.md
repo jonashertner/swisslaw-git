@@ -4,11 +4,11 @@ title: "Federal Act of 15 June 2018 on Financial Institutions (Financial Institu
 short: FinIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: en
-version: 2024-03-01
+version: 2026-10-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20240301-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20240301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20261001/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20261001-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Act, FinIA)
 
-of 15 June 2018 (Status as of 1 March 2024)
+of 15 June 2018 (Last amended on 1 October 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Articles 95 and 98 paragraphs 1 and 2 of the Federal Constitution[^ingr
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)
 
 ## Chapter 1 General Provisions
@@ -71,11 +71,11 @@ This Act does not apply to:
 - i public insurance institutions in accordance with Article 67 paragraph 1 of the Federal Act of 25 June 1982[^2-4] on Occupational Old Age, Survivors' and Invalidity Pension Provision;
 - j. banks pursuant to the Banking Act of 8 November 1934[^2-5] (BankA).
 
-[^2-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-2]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
-[^2-3]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^2-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^2-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^2-2]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
+[^2-3]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^2-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^2-5]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 3
 
@@ -122,7 +122,7 @@ The following are subject to the insolvency law measures under Article 67 paragr
 
 <sup>4</sup> Authorisation to operate as a manager of collective assets also authorises an entity to operate as a portfolio manager.
 
-[^6-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^6-2]: Amended by No I 7 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
@@ -135,7 +135,7 @@ The following are subject to the insolvency law measures under Article 67 paragr
 
 <sup>3</sup> The Federal Council may define additional authorisation conditions if this is necessary for implementing recognised international standards.
 
-[^7-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^7-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 8
 
@@ -192,7 +192,7 @@ Persons operating primarily in the financial sector may perform the following ac
 - a. underwriting securities issued by third parties and offering these to the public on a primary market on a commercial basis;
 - b. creating derivatives in the form of securities and offering these to the public on the primary market on a commercial basis.
 
-[^12-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^12-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 13
 
@@ -226,7 +226,7 @@ A financial institution must notify FINMA before:
 Financial institutions that provide financial services under Article 3 letter c of the Financial Services Act of 15 June 2018[^16-2] (FinSA) must affiliate to an ombudsman as stipulated in the provisions of Title 5 of the FinSA at the latest on assuming their activity.
 
 [^16-1]: Amended by No I 7 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^16-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Chapter 2 Financial Institutions
 
@@ -240,8 +240,8 @@ Financial institutions that provide financial services under Article 3 letter c 
 
 <sup>2</sup> A trustee is a person who on a commercial basis manages or holds a separate fund for the benefit of the beneficiaries or for a specified purpose based on the instrument creating a trust within the meaning of the Hague Convention of 1 July 1985[^17-2] on the Law Applicable to Trusts and on their Recognition.
 
-[^17-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^17-2]: [SR 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^17-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^17-2]: [SR 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 #### Art. 18
 
@@ -339,7 +339,7 @@ Portfolio managers within the meaning of Article 17 paragraph 1 are:
 
 <sup>3</sup> Portfolio managers in accordance with paragraph 2 may request authorisation as managers of collective assets provided this is required by the state where the collective investment scheme is established or offered or where the occupational pension scheme is managed. The Federal Council shall regulate the details.
 
-[^24-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^24-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 25
 
@@ -404,7 +404,7 @@ A manager of collective assets shall give advance notice of the assumption of it
 A fund management company is an entity that manages investment funds independently in its own name and for the account of investors in accordance with Article 15 paragraph 1 letter a of the Collective Investment Schemes Act (CISA) of 23 June 2006[^32-2] or administers a SICAV in accordance with Article 13 paragraph 2 letter b CISA.
 
 [^32-1]: Amended by Annex No 5 of the FA of 17 Dec. 2021, in force since 1 March 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
-[^32-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^32-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 33
 
@@ -483,7 +483,7 @@ The fund management company is entitled to:
 
 <sup>6</sup> It shall publish the decision in the publication media.
 
-[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^39-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 39a
 
@@ -543,7 +543,7 @@ A securities firm is an entity that, on a commercial basis:
 - c. trades in securities for its own account on a short-term basis and publicly quotes prices for individual securities upon request or on an ongoing basis (*market maker*).
 
 [^41-1]: Inserted by No I 7 of the FA of 26 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 42
 
@@ -557,7 +557,7 @@ A securities firm that has its registered office in Switzerland must have the le
 
 The provisions of the BankA[^43-1] on foreign-controlled banks apply by analogy.
 
-[^43-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^43-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 44
 
@@ -606,7 +606,7 @@ In particular, the securities firm may:
 
 The provisions of the BankA[^47-1] on additional capital apply by analogy.
 
-[^47-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^47-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 48
 
@@ -614,7 +614,7 @@ The provisions of the BankA[^47-1] on additional capital apply by analogy.
 
 The provisions of the BankA[^48-1] on accounting apply by analogy.
 
-[^48-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^48-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 49
 
@@ -632,7 +632,7 @@ Two or more companies are deemed to be a financial group dominated by a securiti
 
 <sup>3</sup> The provisions of the BankA[^49-1] on financial groups and financial conglomerates apply by analogy.
 
-[^49-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^49-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 50
 
@@ -650,7 +650,7 @@ The securities firm must keep a record of the orders and transactions it conduct
 
 <sup>3</sup> Provided this is required for the purposes of the Act, the Federal Council may also impose the reporting duty in accordance with paragraph 1 on persons and companies that buy and sell securities on a commercial basis but without the involvement of a securities firm. Any such company must instruct an audit firm licensed by the Federal Audit Oversight Authority (FAOA) in accordance with Article 9*a* paragraph 1 of the Auditor Oversight Act of 16 December 2005[^51-1] (AOA) to audit compliance with this reporting duty and must inform FINMA.
 
-[^51-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^51-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### Section 5 Branches
 
@@ -771,7 +771,15 @@ The Federal Council may make provision for exempting representations of foreign 
 
 <sup>4</sup> Where no supervisory organisation exists in accordance with paragraph 1, supervision is performed by FINMA.
 
-[^61-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^61-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+
+#### Art. 61a
+
+**Information exchange between FINMA and the supervisory organisations**[^61a-1]
+
+FINMA and the supervisory organisations may exchange all information and documents they require to fulfil their respective duties.
+
+[^61a-1]: Inserted by Annex No 10 of the FA of 26 Sept. 2025 on the Transparency of Legal Persons and the Identification of Beneficial Owners, in force since 1 Oct. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 62
 
@@ -783,7 +791,7 @@ The Federal Council may make provision for exempting representations of foreign 
 
 <sup>3</sup> In the years without a periodic audit, portfolio managers and trustees shall submit to the supervisory organisation a report on their business activity's compliance with the legislative provisions. This report may be delivered in a standardised format.
 
-[^62-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^62-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 63
 
@@ -804,9 +812,9 @@ The managers of collective assets, fund management companies, securities firms, 
 
 <sup>5</sup> FINMA may itself conduct audits directly.
 
-[^63-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^63-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^63-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^63-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^63-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 64
 
@@ -816,7 +824,7 @@ The managers of collective assets, fund management companies, securities firms, 
 
 <sup>2</sup> FINMA may conduct audits of these persons at any time.
 
-[^64-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^64-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 65
 
@@ -842,7 +850,7 @@ In order to enforce Article 11 paragraphs 3 and 5, FINMA may suspend the voting 
 
 <sup>2</sup> The provisions of the BankA on the protection of deposits and dormant assets apply by analogy to securities firms under Article 41 letter a.[^67-2]
 
-[^67-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^67-2]: Amended by No I 7 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Chapter 4 Liability and Criminal Law Provisions
@@ -857,7 +865,7 @@ In order to enforce Article 11 paragraphs 3 and 5, FINMA may suspend the voting 
 
 <sup>3</sup> The fund management company remains liable for the actions of persons to whom it has delegated tasks in accordance with Article 35 paragraph 1 as if it had performed those tasks itself.
 
-[^68-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 2 Criminal Provisions
 
@@ -927,17 +935,17 @@ The repeal and amendment of other legislative instruments are set out in the Ann
 
 <sup>4</sup> In special cases, FINMA may extend the deadlines under paragraphs 1 and 2.
 
-[^74-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^74-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^74-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^74-2]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 74a
 
 **Coordination with the Amendment of the Anti-Money Laundering Act within the context of the Gambling Act of 29 September 2017**[^74a-1]
 
-...[^74a-2]
+…[^74a-2]
 
 [^74a-1]: Inserted by the correction made by the Federal Assembly Drafting Committee of 24 Sept. 2019 ([AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)).
-[^74a-2]: The coordination provisions can be consulted under [AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)and [AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91). Correction by Federal Assembly Drafting Committee of 31 Jan. 2020, published on 18 Feb. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
+[^74a-2]: The coordination provisions may be consulted under [AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)and [AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91). Correction by the FA Drafting Committee of 31 Jan. 2020, published on 18 Feb. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
 
 #### Art. 75
 
@@ -963,12 +971,12 @@ The Federal Council may implement the following provisions early:
 
 Commencement date: 1 January 2020[^75-7]
 
-[^75-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^75-2]: [SR 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
-[^75-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^75-4]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^75-5]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^75-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^75-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^75-2]: [SR 221.214.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5873)
+[^75-3]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^75-4]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^75-5]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^75-6]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^75-7]: O of 6 Nov. 2019 ([AS 2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762)).
 
 Annex
@@ -985,7 +993,7 @@ II
 
 The legislative instruments below are amended as follows:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68), [2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044); [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Annex No II 7; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 146; [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)Annex No 16; [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)Annex No 8; [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)Annex No 6; [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)No I 3, [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)Annex No 11]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801).
