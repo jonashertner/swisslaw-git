@@ -4,11 +4,11 @@ title: "Ordinanza del 17 febbraio 2010 sull'organizzazione del Dipartimento fede
 short: Org-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: it
-version: 2025-05-01
+version: 2026-10-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20250501/it"
 
 (Org-DFF)
 
-del 17 febbraio 2010 (Stato 1° maggio 2025)
+del 17 febbraio 2010 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 43 capoverso 2 e 47 capoverso 2 della legge federale del 21 m
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Capitolo 1: Il Dipartimento
 
@@ -103,9 +103,9 @@ Il DFF osserva i principi generali dell’attività amministrativa (art. 11 OLOG
 
 <sup>3</sup> Il DFF istruisce i ricorsi contro decisioni del Dipartimento federale di giustizia e polizia che non si fondano sul diritto in materia di personale federale (art. 75 cpv. 2 della LF del 20 dicembre 1968[^3-3] sulla procedura amministrativa).
 
-[^3-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^3-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^3-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^3-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^3-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 4
 
@@ -137,16 +137,21 @@ La Segreteria generale (SG) esercita le funzioni secondo l’articolo 42 LOGA e 
 - e.[^5-5] è competente per lo svolgimento dei compiti di cui all’articolo 3 e in generale per la consulenza giuridica a livello dipartimentale;
 - f. fornisce alle unità amministrative del DFF prestazioni di sostegno in ambito di traduzione;
 - g.[^5-6] ...
-- h.[^5-7] esegue i compiti relativi al riconoscimento degli organi di mediazione assegnati al DFF negli articoli 84 e 85 della legge del 15 giugno 2018[^5-8] sui servizi finanziari.
+- h.[^5-7] esegue i compiti relativi al riconoscimento degli organi di mediazione assegnati al DFF negli articoli 84 e 85 della legge del 15 giugno 2018[^5-8] sui servizi finanziari;
+- i.[^5-9] gestisce l’autorità di controllo di cui all’articolo 39 della legge del 26 settembre 2025[^5-10] sulla trasparenza delle persone giuridiche (LTPG), che verifica l’esattezza, la completezza e l’attualità delle informazioni contenute nel registro per la trasparenza e sorveglia l’esecuzione della LTPG nella misura necessaria alla sua attività di controllo;
+- j.[^5-11] persegue e giudica le violazioni degli obblighi di annuncio o di collaborazione secondo l’articolo 43 LTPG e punisce l’inosservanza di decisioni secondo l’articolo 44 LTPG.
 
 [^5-1]: Nuovo testo giusta la cifra II n. 2 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^5-2]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^5-3]: Introdotta dalla cifra I dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^5-4]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^5-4]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^5-5]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^5-6]: Abrogata dall’all n. 3 dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 [^5-7]: Introdotta dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^5-8]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-8]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^5-9]: Introdotta dall’all. n. 3 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^5-10]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^5-11]: Introdotta dall’all. n. 3 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 6
 
@@ -157,7 +162,7 @@ La Segreteria generale (SG) esercita le funzioni secondo l’articolo 42 LOGA e 
 <sup>2</sup> Svolge i compiti che gli sono assegnati dall’ordinanza del 4 giugno 2010[^6-2] sulle lingue.
 
 [^6-1]: Nuovo testo giusta la cifra II n. 2 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^6-2]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^6-2]: [RS 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 6a
 
@@ -287,7 +292,7 @@ Sono sottoposte all’AFF le seguenti unità:
 
 [^9-1]: Nuovo testo giusta l’all. n. 4 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^9-2]: Introdotta dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
-[^9-3]: [RS 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^9-3]: [RS 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
 [^9-4]: Introdotto dall’all n. 3 dell’O del 25 nov. 2020 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 2 apr. 2025 sulla digitalizzazione, in vigore dal 1° mag. 2025 ([RU 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 [^9-5]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° ott. 2016 ([RU 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^9-6]: Abrogato dall’all. n. 2 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
@@ -345,7 +350,7 @@ Sono aggregati amministrativamente all’UFPER:
 - b. l’Organo di mediazione per il personale federale.
 
 [^11-1]: Introdotta dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^11-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^11-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### Sezione 5: Amministrazione federale delle contribuzioni
 
@@ -387,9 +392,9 @@ L’AFC adempie i seguenti compiti particolari:
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^13-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^13-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^13-4]: [RS 653.1](https://fedlex.data.admin.ch/eli/cc/2016/259)
+[^13-4]: [RS 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 [^13-5]: Introdotta dalla cifra I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^13-6]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^13-6]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ### Sezione 6: Ufficio federale della dogana e della sicurezza dei confini
 
@@ -477,7 +482,7 @@ L’UFIT adempie i seguenti compiti:
 
 [^18-1]: Abrogato dall’all. n. 2 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), con effetto dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 [^18-2]: Nuovo testo giusta l’all. n. 2 dell’O del 14 ott. 2015 (Ottimizzazione del Nuovo modello contabile e del Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^18-3]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^18-3]: [RS 172.010.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5038)
 [^18-4]: Nuovo testo giusta l’all n. 3 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 
 ### Sezione 8: Ufficio federale delle costruzioni e della logistica
@@ -516,7 +521,7 @@ Allo scopo di perseguire i suoi obiettivi, l’UFCL svolge in particolare le seg
 - c. quale servizio centralizzato, diffonde pubblicazioni federali e stampati all’attenzione del pubblico e dell’Amministrazione federale;
 - d. è competente dell’allestimento e della pubblicazione di dati federali.
 
-[^19-1]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^19-1]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 #### Art. 20
 
@@ -535,7 +540,7 @@ L’UFCL adempie i seguenti compiti particolari:
 
 [^20-1]: Nuovo testo giusta l’art. 44 cpv. 2 n. 2 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 [^20-2]: Nuovo testo giusta l’art. 44 cpv. 2 n. 2 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
-[^20-3]: [[RU 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 all. n. 4. [RU 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)art. 46]. Vedi ora l’O del 9 dic. 2014 ([RS 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
+[^20-3]: [[RU 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 all. n. 4. [RU 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)art. 46]. Vedi ora l’O del 9 dic. 2014 ([RS 933.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11044)).
 
 ### Sezione 9: ...
 
@@ -563,7 +568,7 @@ L’UFCL adempie i seguenti compiti particolari:
 
 <sup>2</sup> Il suo ruolo, i suoi compiti, le sue competenze e la sua organizzazione sono disciplinati nella LFINMA[^23-1].
 
-[^23-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^23-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ### Sezione 3: Cassa pensioni della Confederazione PUBLICA
 
@@ -573,7 +578,7 @@ L’UFCL adempie i seguenti compiti particolari:
 
 <sup>2</sup> Il suo ruolo, i suoi compiti, le sue competenze e la sua organizzazione sono disciplinati nella legge su PUBLICA.
 
-[^24-1]: [RS 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^24-1]: [RS 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 ### Sezione 4: Controllo federale delle finanze
 
@@ -612,7 +617,7 @@ Il DFF emana un regolamento interno conformemente all’articolo 29 OLOGA.
 
 Ordinanza dell’11 dicembre 2000[^28-1] sull’organizzazione del Dipartimento federale delle finanze è abrogata.
 
-[^28-1]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56), [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19 [2122](https://fedlex.data.admin.ch/eli/oc/2003/311)[3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. cifra II n. 1, [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)cifra II n. 1 [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2]
+[^28-1]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56); [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19, [2122](https://fedlex.data.admin.ch/eli/oc/2003/311), [3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. cifra II n. 1; [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)cifra II n. 1, [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2]
 
 #### Art. 29
 
@@ -632,7 +637,7 @@ Fino all’entrata in vigore degli articoli 27, 38, 52, 71 e 76*b* della modific
 
 [^29a-1]: Introdotto dall’all. 2 cifra II n. 4 dell’O del 15 set. 2017 sull’acol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 [^29a-2]: [RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)
-[^29a-3]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^29a-3]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 #### Art. 29b
 
@@ -645,7 +650,7 @@ Fino all’entrata in vigore degli articoli 71 e 76*b* della modifica del 30 set
 
 [^29b-1]: Introdotto dall’art. 4 dell’O del 28 set. 2018 concernente la ripartizione del capitale della Regìa federale degli alcool in favore della Confederazione, in vigore dal 1° nov. 2018 ([RU 2018 3503](https://fedlex.data.admin.ch/eli/oc/2018/569)).
 [^29b-2]: [RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)
-[^29b-3]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^29b-3]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 #### Art. 30
 

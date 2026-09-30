@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. Februar 2010 für das Eidgenössische Fin
 short: OV-EFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: de
-version: 2025-05-01
+version: 2026-10-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20250501/de"
 
 (OV-EFD)
 
-vom 17. Februar 2010 (Stand am 1. Mai 2025)
+vom 17. Februar 2010 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 43 Absatz 2 und 47 Absatz 2 des Regierungs- und Verwal
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## 1. Kapitel: Das Departement
 
@@ -103,9 +103,9 @@ Das EFD beachtet die allgemeinen Grundsätzen der Verwaltungstätigkeit (Art. 11
 
 <sup>3</sup> Es instruiert Beschwerden gegen Entscheide des Eidgenössischen Justiz- und Polizeidepartements, die sich nicht auf Bundespersonalrecht stützen (Art. 75 Abs. 2 des Verwaltungsverfahrensgesetzes vom 20. Dez. 1968[^3-3]).
 
-[^3-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^3-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^3-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^3-2]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^3-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 4
 
@@ -137,16 +137,21 @@ Das Generalsekretariat (GS) übt die Funktionen nach Artikel 42 RVOG aus und nim
 - e.[^5-5] Es ist zuständig für die Erfüllung der Aufgaben nach Artikel 3 und für die allgemeine Rechtsberatung auf Departementsstufe.
 - f. Es erbringt zugunsten der Verwaltungseinheiten des EFD Unterstützungsleistungen im Bereich Übersetzung.
 - g.[^5-6] …
-- h.[^5-7] Es nimmt die in den Artikeln 84 und 85 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^5-8] dem EFD übertragenen Aufgaben bei der Anerkennung der Ombudsstellen wahr.
+- h.[^5-7] Es nimmt die in den Artikeln 84 und 85 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^5-8] dem EFD übertragenen Aufgaben bei der Anerkennung der Ombudsstellen wahr;
+- i.[^5-9] Es führt die Kontrollstelle gemäss Artikel 39 des Bundesgesetzes vom 26. September 2025[^5-10] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen (TJPG), welche die Informationen im Transparenzregister auf Richtigkeit, Vollständigkeit und Aktualität kontrolliert und den Vollzug des TJPG überwacht, soweit dies für die Kontrolltätigkeit erforderlich ist;
+- j.[^5-11] Es verfolgt und beurteilt Verletzungen der Melde- und Auskunftspflichten nach Artikel 43 TJPG und bestraft das Missachten von Verfügungen nach Artikel 44 TJPG.
 
 [^5-1]: Fassung gemäss Ziff. II 2 der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 17. Aug. 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^5-3]: Eingefügt durch Ziff. I der V vom 17. Aug. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)). Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
-[^5-4]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^5-4]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
 [^5-5]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^5-6]: Aufgehoben durch Anhang Ziff. 3 der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 [^5-7]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^5-8]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-8]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
+[^5-9]: Eingefügt durch Anhang Ziff. 3 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^5-10]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^5-11]: Eingefügt durch Anhang Ziff. 3 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 6
 
@@ -157,7 +162,7 @@ Das Generalsekretariat (GS) übt die Funktionen nach Artikel 42 RVOG aus und nim
 <sup>2</sup> Sie oder er nimmt die in der Sprachenverordnung vom 4. Juni 2010[^6-2] genannten Aufgaben wahr.
 
 [^6-1]: Fassung gemäss Ziff. II 2 der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^6-2]: [SR 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^6-2]: [SR 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 6a
 
@@ -288,7 +293,7 @@ Der EFV unterstellt sind folgende Einheiten:
 [^9-1]: Fassung gemäss Anhang Ziff. 4 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2241](https://fedlex.data.admin.ch/eli/oc/2015/416)).
 [^9-3]: MDG = Master Data Governance
-[^9-4]: [SR 172.019.1](https://fedlex.data.admin.ch/eli/cc/2023/754)
+[^9-4]: [SR 172.019.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40169)
 [^9-5]: Eingefügt durch Anhang Ziff. 3 der V vom 25. Nov. 2020 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)). Fassung gemäss Anhang 2 Ziff. II 8 der Digitalisierungsverordnung vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 235](https://fedlex.data.admin.ch/eli/oc/2025/235)).
 [^9-6]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 4149](https://fedlex.data.admin.ch/eli/oc/2016/687)).
 [^9-7]: Aufgehoben durch Anhang Ziff. 2 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
@@ -346,7 +351,7 @@ Dem EPA sind administrativ zugeordnet:
 - b. die Vertrauensstelle für das Bundespersonal.
 
 [^11-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^11-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^11-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ### 5. Abschnitt: Eidgenössische Steuerverwaltung
 
@@ -388,9 +393,9 @@ Die ESTV hat die folgenden besonderen Aufgaben:
 [^13-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
 [^13-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
 [^13-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^13-4]: [SR 653.1](https://fedlex.data.admin.ch/eli/cc/2016/259)
+[^13-4]: [SR 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 [^13-5]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4103](https://fedlex.data.admin.ch/eli/oc/2019/718)).
-[^13-6]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^13-6]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ### 6. Abschnitt: Bundesamt für Zoll und Grenzsicherheit
 
@@ -478,7 +483,7 @@ Das BIT hat die folgenden Aufgaben:
 
 [^18-1]: Aufgehoben durch Anhang Ziff. 2 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), mit Wirkung seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 [^18-2]: Fassung gemäss Anhang Ziff. 2 der V vom 14. Okt. 2015 (Optimierung Neues Rechnungsmodell und Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
-[^18-3]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^18-3]: [SR 172.010.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5038)
 [^18-4]: Fassung gemäss Anhang Ziff. 3 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
 
 ### 8. Abschnitt: Bundesamt für Bauten und Logistik
@@ -517,7 +522,7 @@ Zur Verfolgung seiner Ziele nimmt das BBL insbesondere die folgenden Funktionen 
 - c. Es vertreibt als zentrale Stelle Bundespublikationen und Drucksachen zuhanden der Öffentlichkeit sowie der Bundesverwaltung.
 - d. Es ist zuständig für die Aufbereitung und Ausgabe von Bundesdaten.
 
-[^19-1]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^19-1]: [SR 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 #### Art. 20
 
@@ -536,7 +541,7 @@ Das BBL hat die folgenden besonderen Aufgaben:
 
 [^20-1]: Fassung gemäss Art. 44 Abs. 2 Ziff. 2 der V vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Juli 2024 ([AS 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 [^20-2]: Fassung gemäss Ziff. I der V vom 17. Aug. 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^20-3]: [[AS 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18); [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)Ziff. IV; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 4. [AS 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)Art. 46]. Siehe heute: die V vom 27. Aug. 2014 ([SR 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
+[^20-3]: [[AS 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18); [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)Ziff. IV; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 4. [AS 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)Art. 46]. Siehe heute: die V vom 27. Aug. 2014 ([SR 933.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11044)).
 
 ### 9. Abschnitt: …
 
@@ -564,7 +569,7 @@ Das BBL hat die folgenden besonderen Aufgaben:
 
 <sup>2</sup> Ihre Stellung, ihre Aufgaben, ihre Zuständigkeiten sowie ihre Organisation richten sich nach dem FINMAG[^23-1].
 
-[^23-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^23-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ### 3. Abschnitt: Pensionskasse des Bundes PUBLICA
 
@@ -574,7 +579,7 @@ Das BBL hat die folgenden besonderen Aufgaben:
 
 <sup>2</sup> Ihre Stellung, ihre Aufgaben, ihre Zuständigkeiten sowie ihre Organisation richten sich nach dem PUBLICA-Gesetz.
 
-[^24-1]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
+[^24-1]: [SR 172.222.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5518)
 
 ### 4. Abschnitt: Eidgenössische Finanzkontrolle
 
@@ -633,7 +638,7 @@ Bis zum Inkrafttreten der Artikel 27, 38, 52, 71 und 76*b* der Änderungen vom 3
 
 [^29a-1]: Eingefügt durch Anhang 2 Ziff. II 4 der Alkoholverordnung vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 [^29a-2]: [AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)
-[^29a-3]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^29a-3]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 [^29a-4]: Fassung gemäss Art. 4 der V vom 28. Sept. 2018 über die Vermögensausscheidung der Eidgenössischen Alkoholverwaltung zugunsten des Bundes, in Kraft seit 1. Nov. 2018 ([AS 2018 3503](https://fedlex.data.admin.ch/eli/oc/2018/569)).
 
 #### Art. 29b
@@ -647,7 +652,7 @@ Bis zum Inkrafttreten der Artikel 71 und 76*b* der Änderungen vom 30. September
 
 [^29b-1]: Eingefügt durch Art. 4 der V vom 28. Sept. 2018 über die Vermögensausscheidung der Eidgenössischen Alkoholverwaltung zugunsten des Bundes, in Kraft seit 1. Nov. 2018 ([AS 2018 3503](https://fedlex.data.admin.ch/eli/oc/2018/569)).
 [^29b-2]: [AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)
-[^29b-3]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^29b-3]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 #### Art. 30
 
