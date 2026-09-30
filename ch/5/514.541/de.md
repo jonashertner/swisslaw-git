@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2026-06-01
+version: 2026-10-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20260601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20260601/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. Juni 2026)
+vom 2. Juli 2008 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2033,17 +2033,14 @@ Anhang 3[^t-3]
 
 ## Zugriffsrechte
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 14. Juni 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Bereinigt gemäss Anhang 2 Ziff. 9 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353))
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 14. Juni 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Bereinigt gemäss Anhang 2 Ziff. 9 der Vorläuferstoffverordnung vom 25. Mai 2022 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) und Ziff. III 3 der V vom 26. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
-A = Abfrage online
+- A = Abfrage online
+- Aa = Abfrage online bis 10 Jahre nach Vernichtung der Waffe
+- B = Bearbeiten
+- leer = kein Zugriff
 
-Aa = Abfrage online bis 10 Jahre nach Vernichtung der Waffe
-
-B = Bearbeiten
-
-leer = kein Zugriff
-
-### Bundesbehörden
+## Bundesbehörden
 
 ### Kriminalprävention und Direktionsstab fedpol
 
@@ -2077,8 +2074,9 @@ leer = kein Zugriff
 ### Internationale Polizeikooperation fedpol
 
 <table>
-<tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Informationssystem nach Art. 32*a* Abs. 3 WG</th></tr>
+<tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Informationssystem nach Artikel 32*a* Absatz 3 WG</th></tr>
 <tr><td>Einsatzzentrale</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>SIRENE-Büro</td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td></tr>
 </table>
 
 ### Bundesamt für Zoll und Grenzsicherheit

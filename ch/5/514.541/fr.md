@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2026-06-01
+version: 2026-10-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20260601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20260601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20260601/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (État le 1<sup>er</sup> juin 2026)
+du 2 juillet 2008 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -2045,17 +2045,14 @@ Annexe 3[^t-2]
 
 ## Droits d’accès
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 14 juin 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Mise à jour par l’annexe 2 ch. 9 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 14 juin 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Mise à jour par l’annexe 2 ch. 9 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) et le ch. III 3 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
-A = consulter
+- A = consulter
+- Aa = consulter jusqu’à 10 ans après la destruction de l’arme
+- B = traiter
+- vide = pas d’accès
 
-Aa = consulter jusqu’à 10 ans après la destruction de l’arme
-
-B = traiter
-
-vide = pas d’accès
-
-### Autorités fédérales
+## Autorités fédérales
 
 ### Prévention de la criminalité et État-major de direction fedpol
 
@@ -2091,6 +2088,7 @@ vide = pas d’accès
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Système d’information visé à l’art.32*a*, al. 3, LArm</th></tr>
 <tr><td>Centrale d’engagement</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Bureau SIRENE</td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td></tr>
 </table>
 
 ### Office fédéral de la douane et de la sécurité des frontières
