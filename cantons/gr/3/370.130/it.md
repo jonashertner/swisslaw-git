@@ -5,12 +5,12 @@ title: Ordinanza sullo scambio di atti giuridici per via elettronica
 short: OAGE
 language: it
 version: 2026-05-01
-corrected: 2026-09-22
+corrected: 2026-10-01
 version_adopted: 2026-04-07
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/370.130"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3631/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3744/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -192,5 +192,31 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 6e cpv.
 <sup>1</sup> Se nella procedura in questione l'autorità ammette l'inoltro di istanze tramite un sistema di trasmissione, essa può concedere alle parti coinvolte nella procedura la presa in visione degli atti tramite questo sistema di trasmissione se le parti coinvolte sono registrate nel sistema di trasmissione e hanno acconsentito a un utilizzo per la presa in visione degli atti.
 
 <sup>2</sup> Il consenso secondo il capoverso 1 non vale per l'ulteriore svolgimento della procedura, salvo nel caso in cui la parte coinvolta nella procedura lo dichiari espressamente.
+
+## A1 Allegato 1: Sistemi di trasmissione riconosciuti (art. 3 cpv. 3)
+
+#### Art. A1-1
+
+<sup>1</sup> Sistemi di trasmissione conformemente all'art. 3 cpv. 1:
+
+<table>
+<tr><th>Dipartimento / Servizio</th><th>Designazione</th><th>Descrizione dello scopo</th></tr>
+<tr><td>DEPS/UAG</td><td>NikA</td><td>Piattaforma elettronica per il disbrigo di pagamenti diretti e di altre misure agricole</td></tr>
+<tr><td>DEPS/UST-GR</td><td>eBau</td><td>Piattaforma elettronica per l'evasione delle procedure per il rilascio della licenza edilizia per edifici all'interno e al di fuori delle zone edificabili</td></tr>
+<tr><td>DEPS/USo</td><td>quint</td><td>Piattaforma elettronica per la concessione di agevolazioni per offerte riconosciute di assistenza ai bambini</td></tr>
+<tr><td>DIEM/UenTr</td><td>Programma Edifici</td><td>Piattaforma elettronica per l'inoltro di domande per la promozione di misure volte a incrementare l'efficienza energetica nel settore degli edifici</td></tr>
+<tr><td>DIEM/UCP</td><td>Applicazione web per il conteggio relativo alla cura della selvaggina</td><td>Evasione elettronica di richieste di cura della selvaggina e di conteggi relativi alla cura della selvaggina</td></tr>
+<tr><td>DIEM/UCP</td><td>Shop online per le licenze di pesca</td><td>Shop online per la richiesta e il rilascio di licenze di pesca</td></tr>
+<tr><td>DGSS/UMDC</td><td>Sportello online per domande di carte di soggiorno</td><td>Inoltro digitale di domande da parte di PMI</td></tr>
+<tr><td>DGSS/UMDC</td><td>Optimy</td><td>Inoltri online di progetti al Servizio specializzato per l'integrazione</td></tr>
+<tr><td>DGSS/UIP</td><td>Portale web HeDAW</td><td>Piattaforma elettronica per la richiesta di indennità di picchetto per levatrici e ostetrici</td></tr>
+<tr><td>DGSS/UC</td><td>Cariportal</td><td>Piattaforma elettronica con vari servizi relativi all'ammissione alla circolazione di conducenti e di veicoli nonché al controllo di veicoli</td></tr>
+<tr><td>DECA/UCFP</td><td>Portale relativo alla formazione professionale</td><td>Servizi per aziende formatrici e privati in relazione alla formazione professionale nonché all'orientamento professionale, negli studi e nella carriera</td></tr>
+<tr><td>DECA/UNA</td><td>DESRE (dichiarazione elettronica di smaltimento per rifiuti edili)</td><td>Rilevamento e notifica elettronici di sostanze inquinanti di origine edile, suolo contaminato e siti contaminati nel quadro di procedure per il rilascio della licenza edilizia in vista del corretto smaltimento</td></tr>
+<tr><td>DECA/UNA</td><td>TUBO</td><td>Piattaforma online per autorizzazioni di deroga dall'obbligo di impiego di un tubo flessibile a strascico</td></tr>
+<tr><td>DECA/UNA</td><td>ONL</td><td>Piattaforma elettronica per l'attuazione dell'obbligo di notifica e di lavaggio dei natanti</td></tr>
+<tr><td>DECA/SDDECA</td><td>Portale delle borse di studio</td><td>Inoltro basato sul web di domande per la verifica della possibilità di versare borse di studio a persone che frequentano una formazione postobbligatoria</td></tr>
+<tr><td>DFC/AImp</td><td>tax.GR.ch</td><td>Piattaforma elettronica per l'inoltro della dichiarazione d'imposta di persone fisiche</td></tr>
+</table>
 
 2024-008
