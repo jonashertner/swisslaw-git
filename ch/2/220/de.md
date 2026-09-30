@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2026-01-01
+version: 2026-10-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20261001/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20261001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Januar 2026)
+vom 30. März 1911 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -636,7 +636,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 [^49-1]: Fassung gemäss Ziff. II 1 des BG vom 16. Dez. 1983, in Kraft seit 1. Juli 1985 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
-### VI. Haftung mehrerer
+### VI. Haftungmehrerer
 
 ### 1. Bei unerlaubter Handlung
 
@@ -10018,7 +10018,7 @@ Die Schwellenwerte sind für Aktionäre und Partizipanten gesondert zu berechnen
 
 - 1\. der Einleitung einer Sonderuntersuchung im Fall der Ablehnung eines entsprechenden Antrags durch die Generalversammlung;
 - 2\. der Auflösung der Gesellschaft durch Urteil des Gerichts;
-- 3\. der Meldung der wirtschaftlich berechtigten Person gemäss Artikel 697*j*.
+- 3\.[^656b-2] …
 
 <sup>5</sup>
 
@@ -10035,6 +10035,7 @@ Sie sind ausschliesslich auf der Grundlage des Aktienkapitals zu berechnen:
 - 2\. für das Traktandierungs- und Antragsrecht.
 
 [^656b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656b-2]: Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### III. Rechtsstellung des Partizipanten
 
@@ -11083,25 +11084,13 @@ Entspricht die Generalversammlung dem Antrag nicht, so können Aktionäre innerh
 
 [^697i-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, mit Wirkung seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-### K. Meldepflicht des Aktionärs
-
-### I. Meldung der an Aktien wirtschaftlich berechtigten Person
+### K. …
 
 #### Art. 697j
 
 [^697j-1]
 
-<sup>1</sup> Wer allein oder in gemeinsamer Absprache mit Dritten Aktien einer Gesellschaft, deren Beteiligungsrechte nicht an einer Börse kotiert sind, erwirbt und dadurch den Grenzwert von 25 Prozent des Aktienkapitals oder der Stimmrechte erreicht oder überschreitet, muss der Gesellschaft innert Monatsfrist den Vor- und den Nachnamen und die Adresse der natürlichen Person melden, für die er letztendlich handelt (wirtschaftlich berechtigte Person).
-
-<sup>2</sup> Ist der Aktionär eine juristische Person oder Personengesellschaft, so muss als wirtschaftlich berechtigte Person jede natürliche Person gemeldet werden, die den Aktionär in sinngemässer Anwendung von Artikel 963 Absatz 2 kontrolliert. Gibt es keine solche Person, so muss der Aktionär dies der Gesellschaft melden.
-
-<sup>3</sup> Ist der Aktionär eine Kapitalgesellschaft, deren Beteiligungsrechte an einer Börse kotiert sind, wird er von einer solchen Gesellschaft im Sinne von Artikel 963 Absatz 2 kontrolliert oder kontrolliert er in diesem Sinne eine solche Gesellschaft, so muss er nur diese Tatsache sowie die Firma und den Sitz der Kapitalgesellschaft melden.
-
-<sup>4</sup> Der Aktionär muss der Gesellschaft innert 3 Monaten jede Änderung des Vor- oder des Nachnamens oder der Adresse der wirtschaftlich berechtigten Person melden.
-
-<sup>5</sup> Die Meldepflicht besteht nicht, wenn die Aktien als Bucheffekten ausgestaltet und bei einer Verwahrungsstelle in der Schweiz hinterlegt oder im Hauptregister eingetragen sind. Die Gesellschaft bezeichnet die Verwahrungsstelle.
-
-[^697j-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^697j-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 697k
 
@@ -11109,41 +11098,11 @@ Entspricht die Generalversammlung dem Antrag nicht, so können Aktionäre innerh
 
 [^697k-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, mit Wirkung seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-### II. Verzeichnis der wirtschaftlich berechtigten Personen
+#### Art. 697l und 697m
 
-#### Art. 697l
+[^697l697m-1]
 
-[^697l-1]
-
-<sup>1</sup> Die Gesellschaft führt ein Verzeichnis über die ihr gemeldeten wirtschaftlich berechtigten Personen.
-
-<sup>2</sup> Dieses Verzeichnis enthält den Vor- und den Nachnamen sowie die Adresse der wirtschaftlich berechtigten Personen.
-
-<sup>3</sup> Die Belege, die einer Meldung nach Artikel 697*j* zugrunde liegen, müssen nach der Streichung der Person aus dem Verzeichnis während zehn Jahren aufbewahrt werden.
-
-<sup>4</sup> Das Verzeichnis muss so geführt werden, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
-
-[^697l-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-
-### III. Nichteinhaltung der Meldepflichten
-
-[^part3-tit26-chap2-lvlK-lvlIII-1]
-
-[^part3-tit26-chap2-lvlK-lvlIII-1]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-
-#### Art. 697m
-
-[^697m-1]
-
-<sup>1</sup> Solange der Aktionär seinen Meldepflichten nicht nachgekommen ist, ruhen die Mitgliedschaftsrechte, die mit den Aktien verbunden sind, deren Erwerb gemeldet werden muss.
-
-<sup>2</sup> Die Vermögensrechte, die mit solchen Aktien verbunden sind, kann der Aktionär erst geltend machen, wenn er seinen Meldepflichten nachgekommen ist.
-
-<sup>3</sup> Kommt der Aktionär seinen Meldepflichten nicht innert eines Monats nach dem Erwerb der Aktien nach, so sind die Vermögensrechte verwirkt. Holt er die Meldung zu einem späteren Zeitpunkt nach, so kann er die ab diesem Zeitpunkt entstehenden Vermögensrechte geltend machen.
-
-<sup>4</sup> Der Verwaltungsrat stellt sicher, dass keine Aktionäre unter Verletzung der Meldepflichten ihre Rechte ausüben.
-
-[^697m-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^697l697m-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### L. Schiedsgericht
 
@@ -11821,10 +11780,11 @@ Der Verwaltungsrat hat folgende unübertragbare und unentziehbare Aufgaben:
 
 <sup>3</sup> Mindestens ein Mitglied des Verwaltungsrates muss zur Vertretung befugt sein.
 
-<sup>4</sup> Die Gesellschaft muss durch eine Person vertreten werden können, die Wohnsitz in der Schweiz hat. Diese Person muss Mitglied des Verwaltungsrates oder Direktor sein. Sie muss Zugang zum Aktienbuch sowie zum Verzeichnis nach Artikel 697*l* haben, soweit dieses Verzeichnis nicht von einem Finanzintermediär geführt wird.[^718-2]
+<sup>4</sup> Die Gesellschaft muss durch eine Person vertreten werden können, die Wohnsitz in der Schweiz hat. Diese Person muss Mitglied des Verwaltungsrates oder Direktor sein. Sie muss Zugang zum Aktienbuch haben.[^718-2] [^718-3]
 
 [^718-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^718-2]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht) ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)). Fassung gemäss Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^718-2]: Fassung des dritten Satzes gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^718-3]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht) ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)). Fassung gemäss Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### 2. Umfang und Beschränkung
 
@@ -12279,9 +12239,9 @@ Ein Aktionär oder ein Gläubiger kann dem Gericht bei folgenden Mängeln in der
 
 - 1\. Der Gesellschaft fehlt eines der vorgeschriebenen Organe.
 - 2\. Ein vorgeschriebenes Organ der Gesellschaft ist nicht richtig zusammengesetzt.
-- 3\. Die Gesellschaft führt das Aktienbuch oder das Verzeichnis über die ihr gemeldeten wirtschaftlich berechtigten Personen nicht vorschriftsgemäss.
+- 3\.[^731b-1] Die Gesellschaft führt das Aktienbuch nicht vorschriftsgemäss.
 - 4\. Die Gesellschaft hat Inhaberaktien ausgegeben, ohne dass sie Beteiligungspapiere an einer Börse kotiert hat oder die Inhaberaktien als Bucheffekten ausgestaltet sind.
-- 5\. Die Gesellschaft hat an ihrem Sitz kein Rechtsdomizil mehr.[^731b-1]
+- 5\. Die Gesellschaft hat an ihrem Sitz kein Rechtsdomizil mehr.[^731b-2]
 
 <sup>1bis</sup>
 
@@ -12289,17 +12249,18 @@ Das Gericht kann insbesondere:
 
 - 1\. der Gesellschaft unter Androhung ihrer Auflösung eine Frist ansetzen, binnen deren der rechtmässige Zustand wiederherzustellen ist;
 - 2\. das fehlende Organ oder einen Sachwalter ernennen;
-- 3\. die Gesellschaft auflösen und ihre Liquidation nach den Vorschriften über den Konkurs anordnen.[^731b-2]
+- 3\. die Gesellschaft auflösen und ihre Liquidation nach den Vorschriften über den Konkurs anordnen.[^731b-3]
 
 <sup>2</sup> Ernennt das Gericht das fehlende Organ oder einen Sachwalter, so bestimmt es die Dauer, für die die Ernennung gültig ist. Es verpflichtet die Gesellschaft, die Kosten zu tragen und den ernannten Personen einen Vorschuss zu leisten.
 
 <sup>3</sup> Liegt ein wichtiger Grund vor, so kann die Gesellschaft vom Gericht die Abberufung von Personen verlangen, die dieses eingesetzt hat.
 
-<sup>4</sup> Die zur Liquidation der Gesellschaft nach den Vorschriften über den Konkurs eingesetzten Liquidatoren haben, sobald sie eine Überschuldung feststellen, das Gericht zu benachrichtigen; es eröffnet den Konkurs.[^731b-3]
+<sup>4</sup> Die zur Liquidation der Gesellschaft nach den Vorschriften über den Konkurs eingesetzten Liquidatoren haben, sobald sie eine Überschuldung feststellen, das Gericht zu benachrichtigen; es eröffnet den Konkurs.[^731b-4]
 
-[^731b-1]: Fassung gemäss Ziff. II des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Jan. 2021, Ziff. 4 in Kraft seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^731b-2]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^731b-3]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^731b-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^731b-2]: Fassung gemäss Ziff. II des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Jan. 2021, Ziff. 4 in Kraft seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^731b-3]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^731b-4]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
 ### Vierter Abschnitt: Vergütungen bei Gesellschaften, deren Aktien an einer Börse kotiert sind
 
@@ -12647,17 +12608,17 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 Nach Beendigung der Liquidation ist das Erlöschen der Firma von den Liquidatoren beim Handelsregisteramt anzumelden.
 
-### V. Aufbewahrung von Aktienbuch, Geschäftsbüchern und Verzeichnis
+### V. Aufbewahrung von Aktienbuch und Geschäftsbüchern
 
 #### Art. 747
 
 [^747-1]
 
-<sup>1</sup> Das Aktienbuch, die Geschäftsbücher und das Verzeichnis nach Artikel 697*l* sowie die diesem zugrunde liegenden Belege müssen während zehn Jahren nach der Löschung der Gesellschaft an einem sicheren Ort aufbewahrt werden. Dieser Ort wird von den Liquidatoren bezeichnet oder, wenn sie sich nicht einigen können, vom Handelsregisteramt.
+<sup>1</sup> Das Aktienbuch und die Geschäftsbücher der Gesellschaft müssen während zehn Jahren nach der Löschung der Gesellschaft an einem sicheren Ort aufbewahrt werden. Dieser Ort wird von den Liquidatoren bezeichnet oder, wenn sie sich nicht einigen können, vom Handelsregisteramt.
 
-<sup>2</sup> Das Aktienbuch sowie das Verzeichnis sind so aufzubewahren, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
+<sup>2</sup> Das Aktienbuch ist so aufzubewahren, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
 
-[^747-1]: Fassung gemäss Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^747-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### C. Auflösung ohne Liquidation
 
@@ -13289,23 +13250,13 @@ In das Anteilbuch sind einzutragen:
 [^790-1]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^790-2]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### III<sup>bis</sup>. Meldung der an Stammanteilen wirtschaftlich berechtigten Person
+### III<sup>bis</sup>. …
 
 #### Art. 790a
 
 [^790a-1]
 
-<sup>1</sup> Wer allein oder in gemeinsamer Absprache mit Dritten Stammanteile erwirbt und dadurch den Grenzwert von 25 Prozent des Stammkapitals oder der Stimmrechte erreicht oder überschreitet, muss der Gesellschaft innert Monatsfrist den Vor- und den Nachnamen und die Adresse der natürlichen Person melden, für die er letztendlich handelt (wirtschaftlich berechtigte Person).
-
-<sup>2</sup> Ist der Gesellschafter eine juristische Person oder Personengesellschaft, so muss als wirtschaftlich berechtigte Person jede natürliche Person gemeldet werden, die den Gesellschafter in sinngemässer Anwendung von Artikel 963 Absatz 2 kontrolliert. Gibt es keine solche Person, so muss der Gesellschafter dies der Gesellschaft melden.
-
-<sup>3</sup> Ist der Gesellschafter eine Kapitalgesellschaft, deren Beteiligungsrechte an einer Börse kotiert sind, wird er von einer solchen Gesellschaft im Sinne von Artikel 963 Absatz 2 kontrolliert oder kontrolliert er in diesem Sinne eine solche Gesellschaft, so muss er nur diese Tatsache sowie die Firma und den Sitz dieser Kapitalgesellschaft melden.
-
-<sup>4</sup> Der Gesellschafter muss der Gesellschaft innert 3 Monaten jede Änderung des Vor- oder des Nachnamens oder der Adresse der wirtschaftlich berechtigten Person melden.
-
-<sup>5</sup> Die Bestimmungen des Aktienrechts betreffend das Verzeichnis über die wirtschaftlich berechtigten Personen (Art. 697*l*) und die Folgen der Nichteinhaltung der Meldepflichten (Art. 697*m*) sind sinngemäss anwendbar.
-
-[^790a-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^790a-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### IV. Eintragung ins Handelsregister
 
@@ -13740,16 +13691,17 @@ Die Geschäftsführer sowie Dritte, die mit der Geschäftsführung befasst sind,
 
 <sup>2</sup> Die Statuten können die Vertretung abweichend regeln, jedoch muss mindestens ein Geschäftsführer zur Vertretung befugt sein. Für Einzelheiten können die Statuten auf ein Reglement verweisen.
 
-<sup>3</sup> Die Gesellschaft muss durch eine Person vertreten werden können, die Wohnsitz in der Schweiz hat. Diese Person muss Geschäftsführer oder Direktor sein. Sie muss Zugang zum Anteilbuch sowie zum Verzeichnis über die wirtschaftlich berechtigten Personen nach Artikel 697*l* haben.[^814-1]
+<sup>3</sup> Die Gesellschaft muss durch eine Person vertreten werden können, die Wohnsitz in der Schweiz hat. Diese Person muss Geschäftsführer oder Direktor sein. Sie muss Zugang zum Anteilbuch haben.[^814-1] [^814-2]
 
 <sup>4</sup> Für den Umfang und die Beschränkung der Vertretungsbefugnis sowie für Verträge zwischen der Gesellschaft und der Person, die sie vertritt, sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
 <sup>5</sup> Die zur Vertretung der Gesellschaft befugten Personen haben in der Weise zu zeichnen, dass sie der Firma der Gesellschaft ihre Unterschrift beifügen.
 
-<sup>6</sup> …[^814-2]
+<sup>6</sup> …[^814-3]
 
-[^814-1]: Fassung gemäss Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^814-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^814-1]: Fassung des dritten Satzes gemäss Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^814-2]: Fassung gemäss Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^814-3]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Abberufung von Geschäftsführern; Entziehung der Vertretungsbefugnis
 
@@ -15085,11 +15037,14 @@ Rechtseinheiten im Sinne dieses Titels sind:
 
 <sup>3</sup> Die Datenerfassung für die zentrale Datenbank Personen obliegt den Handelsregisterämtern. Die Oberaufsichtsbehörde des Bundes über das Handelsregister macht die Daten der natürlichen Personen für Einzelabfragen im Internet gebührenfrei zugänglich.[^928b-3]
 
+<sup>3bis</sup> Der Bundesrat kann die zentrale Datenbank Personen auf Daten von nicht im Handelsregister eingetragenen Personen ausweiten, die in einem Informationssystem des Bundes erfasst sind, um die Identität dieser Personen zu prüfen. Dazu kann er Bundesbehörden sowohl die Abfrage als auch die Erfassung von Daten in dieser Datenbank erlauben. Er regelt den Zugang zu den Daten, die von den Bundesbehörden in der zentralen Datenbank Personen erfasst wurden.[^928b-4]
+
 <sup>4</sup> Der Bundist für die Sicherheit der Informationssysteme und die Rechtmässigkeit der Datenbearbeitung verantwortlich.
 
 [^928b-1]: Fassung gemäss Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^928b-2]: Fassung gemäss Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^928b-3]: Zweiter Satz eingefügt durch Ziff. I 1 des BG vom 18. März 2022 über die Bekämpfung des missbräuchlichen Konkurses, in Kraft seit 1. Jan. 2025 ([AS 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [BBl 2019 5193](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### D. AHV-Nummer und Personennummer
 

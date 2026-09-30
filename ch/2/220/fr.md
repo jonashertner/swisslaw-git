@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2026-01-01
+version: 2026-10-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20261001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 1<sup>er</sup> janvier 2026)
+du 30 mars 1911 (État le 1<sup>er</sup> octobre 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2447,9 +2447,9 @@ L’aliénation des immeubles agricoles est en outre régie par la loi fédéral
 
 ### I. Contenance
 
-[^part2-tit6-chap3-lvlE-1]
+[^part2-tit6-chap3-lvlD-lvlI-1]
 
-[^part2-tit6-chap3-lvlE-1]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^part2-tit6-chap3-lvlD-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 #### Art. 219
 
@@ -2457,9 +2457,9 @@ L’aliénation des immeubles agricoles est en outre régie par la loi fédéral
 
 <sup>2</sup> Si l’immeuble vendu n’a pas la contenance portée au registre foncier d’après une mensuration officielle, le vendeur n’est tenu d’indemniser l’acheteur que lorsqu’il s’y est expressément obligé.
 
-<sup>3</sup> …[^220-1]
+<sup>3</sup> …[^219-1]
 
-[^220-1]: Abrogé par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^219-1]: Abrogé par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### II. Avis des défauts, réparation sans frais et prescription
 
@@ -5952,7 +5952,7 @@ art. 342, al. 2 (effets de droit civil du droit public);
 
 …[^361-4]
 
-art. 346, (résiliation anticipée du contrat d’apprentis sage);
+art. 346, (résiliation anticipée du contrat d’apprentissage);
 
 art. 349*c*, al. 3 (empêchement de voyager);
 
@@ -10026,7 +10026,7 @@ Les seuils prévus sont calculés séparément pour les actionnaires et pour les
 
 - 1\. l’institution d’un examen spécial en cas de rejet d’une proposition en ce sens par l’assemblée générale;
 - 2\. la dissolution de la société par un jugement;
-- 3\. l’annonce de l’ayant droit économique selon l’art. 697*j*.
+- 3\.[^656b-2] …
 
 <sup>5</sup>
 
@@ -10043,6 +10043,7 @@ Ils sont calculés exclusivement sur la base du capital-actions en ce qui concer
 - 2\. le droit à l’inscription d’un objet à l’ordre du jour et le droit de proposition.
 
 [^656b-1]: Introduit par le ch. I de la LF du 4 oct. 1991 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656b-2]: Abrogé par l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### III. Statut juridique du participant
 
@@ -11090,25 +11091,13 @@ Si l’assemblée générale ne donne pas suite à la proposition, des actionnai
 
 [^697i-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, avec effet au 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-### K. Obligation d’annoncer de l’actionnaire
-
-### I. Annonce de l’ayant droit économique des actions
+### K. …
 
 #### Art. 697j
 
 [^697j-1]
 
-<sup>1</sup> Quiconque acquiert, seul ou de concert avec un tiers, des actions d’une société dont les droits de participation ne sont pas cotés en bourse et dont la participation, à la suite de cette opération, atteint ou dépasse le seuil de 25 % du capital-actions ou des droits de vote, est tenu d’annoncer dans un délai d’un mois à la société le prénom, le nom et l’adresse de la personne physique pour le compte de laquelle il agit en dernier lieu (ayant droit économique).
-
-<sup>2</sup> Si l’actionnaire est une personne morale ou une société de personnes, chaque personne physique qui contrôle l’actionnaire en application par analogie de l’art. 963, al. 2, doit être annoncée comme étant l’ayant droit économique. S’il n’y a pas d’ayant droit économique, l’actionnaire est tenu d’en informer la société.
-
-<sup>3</sup> Si l’actionnaire est une société de capitaux dont les droits de participation sont cotés en bourse ou s’il contrôle une telle société ou est contrôlé par elle au sens de l’art. 963, al. 2, il doit annoncer uniquement ce fait ainsi que la raison sociale et le siège de la société de capitaux.
-
-<sup>4</sup> L’actionnaire est tenu de communiquer à la société dans un délai de trois mois toute modification du prénom, du nom ou de l’adresse de l’ayant droit économique.
-
-<sup>5</sup> N’est pas soumise à l’obligation d’annoncer l’acquisition d’actions émises sous forme de titres intermédiés et déposées auprès d’un dépositaire en Suisse ou inscrites au registre principal. La société désigne le dépositaire.
-
-[^697j-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^697j-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 697k
 
@@ -11116,41 +11105,11 @@ Si l’assemblée générale ne donne pas suite à la proposition, des actionnai
 
 [^697k-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, avec effet au 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-### II. Liste des ayants droit économiques
+#### Art. 697l et 697m
 
-#### Art. 697l
+[^697l697m-1]
 
-[^697l-1]
-
-<sup>1</sup> La société tient une liste des ayants droit économiques qui lui ont été annoncés.
-
-<sup>2</sup> Cette liste mentionne le prénom et le nom ainsi que l’adresse des ayants droit économiques.
-
-<sup>3</sup> Les pièces justificatives de l’annonce au sens de l’art. 697*j* doivent être conservées pendant dix ans après la radiation de la personne de la liste.
-
-<sup>4</sup> La liste doit être tenue de manière à ce qu’il soit possible d’y accéder en tout temps en Suisse.
-
-[^697l-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-
-### III. Non-respect des obligations d’annoncer
-
-[^part3-tit26-chap2-lvlK-lvlIII-1]
-
-[^part3-tit26-chap2-lvlK-lvlIII-1]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-
-#### Art. 697m
-
-[^697m-1]
-
-<sup>1</sup> L’actionnaire ne peut pas exercer les droits sociaux liés aux actions dont l’acquisition est soumise aux obligations d’annoncer tant qu’il ne s’est pas conformé à ces dernières.
-
-<sup>2</sup> Il ne peut faire valoir les droits patrimoniaux liés à ses actions qu’une fois qu’il s’est conformé à ses obligations d’annoncer.
-
-<sup>3</sup> Si l’actionnaire omet de se conformer à ses obligations d’annoncer dans un délai d’un mois à compter de l’acquisition de l’action, ses droits patrimoniaux s’éteignent. S’il répare cette omission à une date ultérieure, il peut faire valoir les droits patrimoniaux qui naissent à compter de cette date.
-
-<sup>4</sup> Le conseil d’administration s’assure qu’aucun actionnaire n’exerce ses droits en violation de ses obligations d’annoncer.
-
-[^697m-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^697l697m-1]: Introduits par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogés par l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### L. Tribunal arbitral
 
@@ -11834,10 +11793,11 @@ Le conseil d’administration a les attributions intransmissibles et inaliénabl
 
 <sup>3</sup> Un membre du conseil d’administration au moins doit avoir qualité pour représenter la société.
 
-<sup>4</sup> La société doit pouvoir être représentée par une personne domiciliée en Suisse. Cette personne doit être un membre du conseil d’administration ou un directeur. Elle doit avoir accès au registre des actions et à la liste visée à l’art. 697*l* à moins que cette liste ne soit tenue par un intermédiaire financier.[^718-2]
+<sup>4</sup> La société doit pouvoir être représentée par une personne domiciliée en Suisse. Cette personne doit être un membre du conseil d’administration ou un directeur. Elle doit avoir accès au registre des actions.[^718-2] [^718-3]
 
 [^718-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^718-2]: Introduit par le ch. I 3 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce) ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)). Nouvelle teneur selon le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^718-2]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^718-3]: Introduit par le ch. I 3 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce) ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)). Nouvelle teneur selon le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### 2. Étendue et limitation
 
@@ -12297,9 +12257,9 @@ Un actionnaire ou un créancier peut requérir du tribunal qu’il prenne les me
 
 - 1\. un des organes prescrits fait défaut;
 - 2\. un organe prescrit n’est pas composé correctement;
-- 3\. la société ne tient pas conformément aux prescriptions le registre des actions ou la liste des ayants droit économiques qui lui ont été annoncés;
+- 3\.[^731b-1] la société ne tient pas conformément aux prescriptions le registre des actions;
 - 4\. la société a émis des actions au porteur sans avoir de titres de participation cotés en bourse ou sous une forme autre que celle de titres intermédiés;
-- 5\. la société n’a plus de domicile à son siège.[^731b-1]
+- 5\. la société n’a plus de domicile à son siège.[^731b-2]
 
 <sup>1bis</sup>
 
@@ -12307,17 +12267,18 @@ Le tribunal peut notamment:
 
 - 1\. fixer un délai à la société pour rétablir la situation légale, sous peine de dissolution;
 - 2\. nommer l’organe qui fait défaut ou un commissaire;
-- 3\. prononcer la dissolution de la société et ordonner sa liquidation selon les dispositions applicables à la faillite.[^731b-2]
+- 3\. prononcer la dissolution de la société et ordonner sa liquidation selon les dispositions applicables à la faillite.[^731b-3]
 
 <sup>2</sup> Si le tribunal nomme l’organe qui fait défaut ou un commissaire, il détermine la durée pour laquelle la nomination est valable. Il astreint la société à supporter les frais et à verser une provision aux personnes nommées.
 
 <sup>3</sup> La société peut, pour de justes motifs, demander au tribunal la révocation de personnes qu’il a nommées.
 
-<sup>4</sup> Si l’actif ne couvre plus les dettes, les personnes mandatées pour liquider la société selon les dispositions applicables à la faillite en informent le tribunal; celui-ci prononce la faillite.[^731b-3]
+<sup>4</sup> Si l’actif ne couvre plus les dettes, les personnes mandatées pour liquider la société selon les dispositions applicables à la faillite en informent le tribunal; celui-ci prononce la faillite.[^731b-4]
 
-[^731b-1]: Nouvelle teneur selon le ch. II de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> janv. 2021, sous réserve du ch. 4, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^731b-2]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^731b-3]: Introduit par le ch. I 2 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^731b-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^731b-2]: Nouvelle teneur selon le ch. II de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> janv. 2021, sous réserve du ch. 4, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^731b-3]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^731b-4]: Introduit par le ch. I 2 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
 ### Chapitre IV: Rémunérations dans les sociétés dont les actions sont cotées en bourse
 
@@ -12665,17 +12626,17 @@ La société dissoute entre en liquidation, sauf en cas de fusion, de division o
 
 Après la fin de la liquidation, les liquidateurs sont tenus d’aviser le préposé au registre du commerce que la raison sociale est éteinte.
 
-### V. Conservation du registre des actions, des livres de la société et de la liste
+### V. Conservation du registre des actions et des livres de la société
 
 #### Art. 747
 
 [^747-1]
 
-<sup>1</sup> Le registre des actions, les livres de la société, la liste visée à l’art. 697*l* et les pièces justificatives qui la concernent, doivent être conservés pendant dix ans après la radiation de la société en un lieu sûr. Celui-ci est désigné par les liquidateurs ou, si ces derniers ne peuvent s’entendre, par l’office du registre du commerce.
+<sup>1</sup> Le registre des actions et les livres de la société doivent être conservés en un lieu sûr pendant dix ans après la radiation de la société. Ce lieu est désigné par les liquidateurs ou, si ces derniers ne peuvent s’entendre, par l’office du registre du commerce.
 
-<sup>2</sup> Le registre des actions et la liste doivent être conservés de manière à ce qu’il soit possible d’y accéder en tout temps en Suisse.
+<sup>2</sup> Le registre des actions doit être conservé de manière à ce qu’il soit possible d’y accéder en tout temps en Suisse.
 
-[^747-1]: Nouvelle teneur selon le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^747-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### C. Dissolution sans liquidation
 
@@ -13307,23 +13268,13 @@ Le registre des parts sociales doit mentionner:
 [^790-1]: Phrase introduite par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^790-2]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### III<sup>bis</sup>. Annonce de l’ayant droit économique des parts sociales
+### III<sup>bis</sup>. …
 
 #### Art. 790a
 
 [^790a-1]
 
-<sup>1</sup> Quiconque acquiert, seul ou de concert avec un tiers, des parts sociales et dont la participation, à la suite de cette opération, atteint ou dépasse le seuil de 25 % du capital social ou des droits de vote, est tenu d’annoncer dans un délai d’un mois à la société le prénom, le nom et l’adresse de la personne physique pour le compte de laquelle il agit en dernier lieu (ayant droit économique).
-
-<sup>2</sup> Si l’associé est une personne morale ou une société de personnes, chaque personne physique qui contrôle l’associé en application par analogie de l’art. 963, al. 2, doit être annoncée comme étant l’ayant droit économique. S’il n’y a pas d’ayant droit économique, l’associé est tenu d’en informer la société.
-
-<sup>3</sup> Si l’associé est une société de capitaux dont les droits de participation sont cotés en bourse ou s’il contrôle une telle société ou est contrôlé par elle au sens de l’art. 963, al. 2, il doit annoncer uniquement ce fait ainsi que la raison sociale et le siège de la société de capitaux.
-
-<sup>4</sup> L’associé est tenu de communiquer à la société dans un délai de trois mois toute modification du prénom, du nom ou de l’adresse de l’ayant droit économique.
-
-<sup>5</sup> Les dispositions du droit de la société anonyme relatives à la liste des ayants droit économiques (art. 697*l*) et aux conséquences du non-respect des obligations d’annoncer (art. 697*m*) sont applicables par analogie.
-
-[^790a-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^790a-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### IV. Inscription au registre du commerce
 
@@ -13760,16 +13711,17 @@ Les gérants ainsi que les tiers chargés de la gestion traitent de la même man
 
 <sup>2</sup> Les statuts peuvent régler la représentation de manière différente, mais un gérant au moins doit avoir qualité pour représenter la société. Les statuts peuvent renvoyer à un règlement pour les détails.
 
-<sup>3</sup> La société doit pouvoir être représentée par une personne domiciliée en Suisse. Cette personne doit être un gérant ou un directeur. Elle doit avoir accès au registre des parts sociales et à la liste des ayants droit économiques selon l’art. 697*l*.[^814-1]
+<sup>3</sup> La société doit pouvoir être représentée par une personne domiciliée en Suisse. Cette personne doit être un gérant ou un directeur. Elle doit avoir accès au registre des parts sociales.[^814-1] [^814-2]
 
 <sup>4</sup> Le droit de la société anonyme s’applique par analogie à l’étendue et à la limitation des pouvoirs de représentation ainsi qu’aux contrats conclus entre la société et son représentant.
 
 <sup>5</sup> Les personnes autorisées à représenter la société signent en ajoutant leur signature personnelle à la raison sociale.
 
-<sup>6</sup> …[^814-2]
+<sup>6</sup> …[^814-3]
 
-[^814-1]: Nouvelle teneur selon le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^814-2]: Abrogé par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^814-1]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^814-2]: Nouvelle teneur selon le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^814-3]: Abrogé par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Révocation de gérants; retrait des pouvoirs de représentation
 
@@ -15113,11 +15065,14 @@ Par entités juridiques au sens du présent titre, on entend:
 
 <sup>3</sup> La saisie dans la base de données centrale des personnes incombe aux offices du registre du commerce. L’autorité fédérale de haute surveillance du registre du commerce fait en sorte que les données des personnes physiques puissent faire gratuitement l’objet d’interrogations spécifiques sur Internet.[^928b-3]
 
+<sup>3bis</sup> Le Conseil fédéral peut étendre la base de données centrales de personnes aux données de personnes non inscrites au registre du commerce qui sont saisies dans un système d’information de la Confédération afin de vérifier l’identité de ces personnes. À cet effet, il peut autoriser les autorités fédérales tant à consulter qu’à saisir des données dans cette base de données. Il règle l’accès aux données saisies par les autorités fédérales dans la base de données centrale de personnes.[^928b-4]
+
 <sup>4</sup> La Confédération est responsable de la sécurité des systèmes d’information et de la légalité du traitement des données.
 
 [^928b-1]: Nouvelle teneur selon le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^928b-2]: Nouvelle teneur selon le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^928b-3]: Phrase introduite par le ch. I 1 de la LF du 18 mars 2022 sur la lutte contre l’usage abusif de la faillite, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4977](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^928b-4]: Introduit par l’annexe ch. 2 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### D. Numéro AVS et numéro personnel
 
