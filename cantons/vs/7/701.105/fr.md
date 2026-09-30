@@ -3,20 +3,19 @@ canton: VS
 number: "701.105"
 title: Règlement sur les mesures d’encouragement et sur le régime de compensation en matière d’aménagement du territoire
 language: fr
-version: 2019-04-19
-valid_until: 2026-09-30
-version_adopted: 2019-03-27
+version: 2026-10-01
+version_adopted: 2026-10-14
 adopted: 2019-03-27
 in_force: 2019-04-19
 url: "https://lex.vs.ch/app/fr/texts_of_law/701.105"
-pdf: "https://lex.vs.ch/api/fr/versions/2519/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3665/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement sur les mesures d’encouragement et sur le régime de compensation en matière d’aménagement du territoire
 
-du 27.03.2019 (état 19.04.2019)
+du 27.03.2019 (état 01.10.2026)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -81,12 +80,12 @@ arrête:
 
 **Frais pris en considération**
 
-<sup>1</sup> Sont pris en considération les frais effectifs occasionnés par:
+<sup>1</sup> Sont pris en considération les frais effectifs occasionnés par l’élaboration d’études entreprises au sens de la LcAT et du plan directeur cantonal ainsi que par l’élaboration ou la révision:
 
-- a) l’élaboration, l’adaptation ou la révision des plans d’affectation de zones et de leurs règlements;
-- b) les plans directeurs communaux et intercommunaux soumis à l’approbation du Conseil d’Etat;
-- c) les plans d’affectation spéciaux reconnus d’intérêt public et soumis à l’homologation du Conseil d’Etat (art. 12 LcAT);
-- d) les études entreprises au sens de la LcAT et du plan directeur cantonal.
+- a) des plans d’affectation de zones et de leurs règlements;
+- b) des plans directeurs communaux et intercommunaux soumis à l’approbation du Conseil d’Etat;
+- c) des plans d’affectation spéciaux reconnus d’intérêt public et soumis à l’homologation du Conseil d’Etat.
+- d) …
 
 <sup>2</sup> Les honoraires doivent correspondre à ceux en usage dans la profession.
 
@@ -105,6 +104,8 @@ arrête:
 
 <sup>3</sup> Le service en charge de l’aménagement du territoire peut exiger la production d'autres documents nécessaires à l'examen de la demande.
 
+<sup>4</sup> Les demandes complémentaires postérieures à l'allocation d'une subvention ne peuvent être acceptées qu'après présentation d'un cahier des charges établi par la commune au service en charge de l'aménagement du territoire.
+
 #### Art. 7
 
 **Examen des demandes et notification**
@@ -119,7 +120,9 @@ arrête:
 
 **Acomptes**
 
-<sup>1</sup> Des acomptes peuvent être versés jusqu'à concurrence de 50 pour cent de la subvention allouée pour des travaux effectués, dès que le dossier a été préavisé favorablement par le service en charge de l’aménagement du territoire dans le cadre de l’avis de principe (art. 33 LcAT).
+<sup>1</sup> Pour les dossiers de révision globale des plans d’affectation de zones et des règlements communaux de constructions et des zones, des acomptes peuvent être versés jusqu'à concurrence de 50 pour cent de la subvention allouée pour des travaux effectués, dès que le rapport élaboré par le service en charge de l’aménagement du territoire dans le cadre de l’avis de principe (art. 33 LcAT) a été transmis à la commune.
+
+<sup>1<sup>bis</sup></sup> Pour les dossiers de modification partielle de plans d’affectation de zones et des règlements communaux de constructions et des zones ainsi que pour les cas cités aux lettres b, c et d de l’article 5 alinéa 1 du présent règlement, aucun acompte n’est versé.
 
 <sup>2</sup> La demande de versement d'acomptes doit être accompagnée d'un récapitulatif des frais, d'une description des tâches entreprises et des factures originales acquittées.
 
@@ -133,13 +136,13 @@ arrête:
 
 **Décompte**
 
-<sup>1</sup> Dès l'entrée en force de la décision d’homologation des plans et règlements par le Conseil d'Etat selon l'article 38 LcAT, les communes ou leurs associations soumettent au service en charge de l’aménagement du territoire le décompte final accompagné des justificatifs de paiement.
+<sup>1</sup> Dès l'entrée en force de la décision d’homologation des plans et règlements par le Conseil d'Etat, les communes ou leurs associations soumettent au service en charge de l’aménagement du territoire le décompte final accompagné des justificatifs de paiement.
 
 <sup>2</sup> Le montant final est versé seulement après transmission des données numériques des plans par la commune selon les directives du service en charge de l’aménagement du territoire.
 
 <sup>3</sup> En cas d'homologation partielle, la participation financière peut être réduite de façon proportionnelle.
 
-<sup>4</sup> En cas de refus de l'assemblée primaire ou de non-homologation par le Conseil d'Etat, la participation financière sera réduite de moitié.
+<sup>4</sup> En cas de refus par l'organe législatif communal ou par votation populaire, de non homologation ou d’annulation sur recours par le Conseil d'Etat ou encore de rejet par une instance judiciaire, la participation financière sera réduite de moitié.
 
 <sup>5</sup> Sous réserve des disponibilités budgétaires et des conditions de l'octroi, le service en charge de l’aménagement du territoire ordonne le versement de la subvention.
 
@@ -176,6 +179,12 @@ arrête:
 <sup>2</sup> Le Conseil d’Etat fixe par décision le montant autorisé en post-financement.
 
 <sup>3</sup> Les montants figurant dans le fonds cantonal ne portent pas intérêt.
+
+#### Art. 13a
+
+**Prime de démolition**
+
+<sup>1</sup> Une fois les obligations financières relatives aux plus-values, aux moins-values et aux frais d'équipement acquittées, le solde du fonds compensera les moyens ordinaires mis à disposition.
 
 ### 3.2 Plus-value
 

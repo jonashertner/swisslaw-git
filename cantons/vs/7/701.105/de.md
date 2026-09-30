@@ -3,20 +3,19 @@ canton: VS
 number: "701.105"
 title: Reglement betreffend die Förderungsmassnahmen und die Ausgleichsregelung in Sachen Raumplanung
 language: de
-version: 2019-04-19
-valid_until: 2026-09-30
-version_adopted: 2019-03-27
+version: 2026-10-01
+version_adopted: 2026-10-14
 adopted: 2019-03-27
 in_force: 2019-04-19
 url: "https://lex.vs.ch/app/de/texts_of_law/701.105"
-pdf: "https://lex.vs.ch/api/de/versions/2519/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3665/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement betreffend die Förderungsmassnahmen und die Ausgleichsregelung in Sachen Raumplanung
 
-vom 27.03.2019 (Stand 19.04.2019)
+vom 27.03.2019 (Stand 01.10.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -81,12 +80,12 @@ beschliesst:
 
 **In Betracht fallende Kosten**
 
-<sup>1</sup> Berücksichtigt werden die effektiven Kosten, die verursacht werden durch:
+<sup>1</sup> Berücksichtigt werden die effektiven Kosten, die verursacht werden durch die Erarbeitung von Studien, die im Sinne des kRPG oder aufgrund des kantonalen Richtplanes durchgeführt werde und die Erarbeitung oder Revision:
 
-- a) die Erarbeitung, Anpassung oder Revision der Zonennutzungspläne und ihrer Reglemente;
-- b) die kommunalen und interkommunalen Richtpläne, die dem Staatsrat zur Genehmigung unterbreitet worden sind;
-- c) die Sondernutzungspläne, die im öffentlichen Interesse liegen und dem Staatsrat zur Genehmigung unterbreitetet worden sind (Art. 12 kRPG);
-- d) Studien, die im Sinne des kRPG oder aufgrund des kantonalen Richtplanes durchgeführt werden.
+- a) der Zonennutzungspläne und ihrer Reglemente;
+- b) der kommunalen und interkommunalen Richtpläne, die dem Staatsrat zur Genehmigung unterbreitet worden sind;
+- c) der Sondernutzungspläne, die im öffentlichen Interesse liegen und dem Staatsrat zur Genehmigung unterbreitetet worden sind.
+- d) …
 
 <sup>2</sup> Die Honorare haben den berufsüblichen Ansätzen zu entsprechen.
 
@@ -105,6 +104,8 @@ beschliesst:
 
 <sup>3</sup> Die für die Raumplanung zuständige Dienststelle kann bei der Prüfung des Gesuchs die Unterbreitung weiterer notwendiger Unterlagen verlangen.
 
+<sup>4</sup> Nachträgliche Anträge, die nach der Gewährung einer Subvention gestellt werden, können erst nach Vorlage eines von der Gemeinde erstellten Pflichtenheftes bei der für die Raumplanung zuständige Dienststelle berücksichtigt werden.
+
 #### Art. 7
 
 **Prüfung der Gesuche und Mitteilung**
@@ -119,7 +120,9 @@ beschliesst:
 
 **Anzahlungen**
 
-<sup>1</sup> Nachdem das Dossier von der für die Raumplanung zuständigen Dienststelle im Rahmen der Vorprüfung eine positive Vormeinung erhalten hat (Art. 33 kRPG), können für die ausgeführten Arbeiten Anzahlungen bis zu einem Betrag von 50 Prozent der zugesprochenen Subvention geleistet werden.
+<sup>1</sup> Für Dossiers betreffend Gesamtrevision des Zonennutzungsplans und des kommunalen Bau- und Zonenreglements können sobald der von der für die Raumplanung zuständigen Dienststelle im Rahmen der Vorprüfung (Art. 33 kRPG), erstellte Bericht an die Gemeinde übermittelt wurde für die ausgeführten Arbeiten Anzahlungen bis zu einem Betrag von 50 Prozent der zugesprochenen Subvention geleistet werden.
+
+<sup>1<sup>bis</sup></sup> Für Dossiers betreffend Teilrevision des Zonennutzungsplans und des kommunalen Bau- und Zonenreglements sowie für die in Artikel 5 Absatz 1 Buchstaben b, c und d dieses Reglements aufgeführten Fälle, werden keine Anzahlungen geleistet.
 
 <sup>2</sup> Dem Gesuch zur Anzahlung von Subventionen sind ein Kostenüberblick, ein Beschrieb der ausgeführten Arbeiten und die Originale der bezahlten Rechnungen beizulegen.
 
@@ -133,13 +136,13 @@ beschliesst:
 
 **Abrechnung**
 
-<sup>1</sup> Nach der Genehmigung der Pläne und Reglemente durch den Staatsrat (gemäss Art. 38 kRPG) unterbreiten die Gemeinden oder ihre Verbände der für die Raumplanung zuständigen Dienststelle die Schlussabrechnung mit den Zahlungsbelegen.
+<sup>1</sup> Nach Inkrafttreten der Genehmigung der Pläne und Reglemente durch den Staatsrat unterbreiten die Gemeinden oder ihre Verbände der für die Raumplanung zuständigen Dienststelle die Schlussabrechnung mit den Zahlungsbelegen.
 
 <sup>2</sup> Der Schlussbetrag wird erst nach Abgabe der digitalen Pläne durch die Gemeinde entsprechend den Richtlinien der für die Raumplanung zuständigen Dienststelle bezahlt.
 
 <sup>3</sup> Im Fall einer Teilgenehmigung kann die finanzielle Beteiligung proportional gekürzt werden.
 
-<sup>4</sup> Bei einer Ablehnung durch die Urversammlung oder bei einer Nichtgenehmigung durch den Staatsrat reduziert sich die finanzielle Beteiligung auf die Hälfte.
+<sup>4</sup> Bei einer Ablehnung durch das kommunale Gesetzgebungsorgan oder durch eine Volksabstimmung, bei einer Nichtgenehmigung oder einer Aufhebung aufgrund einer Beschwerde durch den Staatsrat oder bei einer Ablehnung durch ein Gericht reduziert sich die finanzielle Beteiligung auf die Hälfte.
 
 <sup>5</sup> Die für die Raumplanung zuständige Dienststelle ordnet die Auszahlung der Subvention unter Vorbehalt der verfügbaren finanziellen Mittel und der Gewährungsbedingungen an.
 
@@ -176,6 +179,12 @@ beschliesst:
 <sup>2</sup> Der Staatsrat legt mittels Entscheid den bewilligten Nachfinanzierungsbetrag fest.
 
 <sup>3</sup> Die Beträge im kantonalen Fonds werden nicht verzinst.
+
+#### Art. 13a
+
+**Abbruchprämie**
+
+<sup>1</sup> Sobald die finanziellen Verpflichtungen im Zusammenhang mit Mehrwerten, Minderwerten und Erschliessungskosten beglichen sind, wird der Restbetrag des Fonds mit den zur Verfügung gestellten regulären Mitteln verrechnet.
 
 ### 3.2 Mehrwert
 
