@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die internationale Amtshilfe i
 short: StAhiG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: de
-version: 2023-09-01
+version: 2026-10-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2013-31-20261001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/de"
 
 (Steueramtshilfegesetz, StAhiG)
 
-vom 28. September 2012 (Stand am 1. September 2023)
+vom 28. September 2012 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -110,7 +110,7 @@ In diesem Gesetz gelten als:
 
 <sup>2</sup> Artikel 22*a* Absatz 1 VwVG über den Stillstand der Fristen ist nicht anwendbar.
 
-[^5-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^5-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 5a
 
@@ -119,7 +119,7 @@ In diesem Gesetz gelten als:
 Sieht das anwendbare Abkommen vor, dass die informierende Behörde Datenschutzbestimmungen bezeichnen kann, die von der empfangenden Behörde einzuhalten sind, so kann der Bundesrat Vereinbarungen über den Datenschutz abschliessen. Die einzuhaltenden Datenschutzbestimmungen müssen mindestens dem Schutzniveau des Datenschutzgesetzes vom 25. September 2020[^5a-2] entsprechen.[^5a-3]
 
 [^5a-1]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
-[^5a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^5a-3]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 54 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## 2. Kapitel: Informationsaustausch auf Ersuchen
@@ -191,7 +191,7 @@ Auf das Ersuchen wird nicht eingetreten, wenn:
 
 <sup>6</sup> Anwältinnen und Anwälte, die nach dem Anwaltsgesetz vom 23. Juni 2000[^8-1] (BGFA) zur Vertretung vor schweizerischen Gerichten berechtigt sind, können die Herausgabe von Unterlagen und Informationen verweigern, die durch das Anwaltsgeheimnis geschützt sind.
 
-[^8-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^8-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 9
 
@@ -268,7 +268,7 @@ Die ESTV kann zur Beschaffung von Informationen ausschliesslich folgende Zwangsm
 
 <sup>7</sup> Im Übrigen sind die Artikel 42 sowie 45–50 Absätze 1 und 2 des Bundesgesetzes vom 22. März 1974[^13-1] über das Verwaltungsstrafrecht anwendbar.
 
-[^13-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^13-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 14
 
@@ -344,7 +344,7 @@ Sie informiert zudem die vom Gruppenersuchen betroffenen Personen ohne Namensnen
 
 <sup>2</sup> Soweit die ausländische Behörde Geheimhaltungsgründe hinsichtlich gewisser Aktenstücke glaubhaft macht, kann die ESTV einer beschwerdeberechtigten Person die Einsicht in die entsprechenden Aktenstücke nach Artikel 27 VwVG[^15-1] verweigern.[^15-2]
 
-[^15-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^15-2]: Fassung gemäss Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
 ### 3. Abschnitt: Verfahren
@@ -414,7 +414,7 @@ Amtshilfe kann betreffend verstorbene Personen geleistet werden. Deren Rechtsnac
 
 <sup>5</sup> Im Übrigen gelten die Bestimmungen über die Bundesrechtspflege.
 
-[^19-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -448,7 +448,7 @@ Amtshilfe kann betreffend verstorbene Personen geleistet werden. Deren Rechtsnac
 
 <sup>3</sup> Die ESTV informiert die Informationsinhaberinnen, Informationsinhaber und Behörden, denen das Ersuchen zur Kenntnis gebracht wurde, über den Informationsaufschub. Diese Personen und Behörden dürfen die beschwerdeberechtigten Personen bis zu deren nachträglicher Information nicht über das Ersuchen informieren.
 
-<sup>4</sup> und <sup>5</sup> …[^21a-3]
+<sup>4 und <sup>5</sup></sup> …[^21a-3]
 
 [^21a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^21a-2]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
@@ -511,7 +511,7 @@ Amtshilfe kann betreffend verstorbene Personen geleistet werden. Deren Rechtsnac
 
 <sup>3</sup> Kann eine beschwerdeberechtigte Person nicht erreicht werden, so informiert die ESTV sie durch Veröffentlichung im Bundesblatt über die vorgesehene Übermittlung von Informationen. Sie fordert sie auf, eine zur Zustellung bevollmächtigte Person zu bezeichnen. Sie setzt hierfür eine Frist.
 
-[^22b-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22b-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22c
 
@@ -600,15 +600,13 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>2</sup> Es besteht kein Recht auf Zugang zu weiter gehenden als den nach Absatz 1 veröffentlichten Informationen.
 
-## 4*a*. Kapitel: Transparenz von Rechtseinheiten mit Hauptsitz im Ausland und tatsächlicher Verwaltung in der Schweiz
-
-[^chap4a-1]
-
-[^chap4a-1]: Eingefügt durch Ziff. I 3 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+## 4*a*. Kapitel: …
 
 #### Art. 22i<sup>bis</sup>
 
-Hat eine Rechtseinheit mit Hauptsitz im Ausland ihre tatsächliche Verwaltung in der Schweiz, so muss sie am Ort der tatsächlichen Verwaltung ein Verzeichnis ihrer Inhaberinnen und Inhaber führen. Das Verzeichnis muss den Vor- und den Nachnamen oder die Firma sowie die Adresse dieser Personen enthalten.
+[^22ibis-1]
+
+[^22ibis-1]: Eingefügt durch Ziff. I 3 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Aufgehoben durch Anhang Ziff. 6 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## 5. Kapitel: Strafbestimmungen
 
@@ -636,7 +634,7 @@ Mit Busse bis zu 10 000 Franken wird bestraft, wer vorsätzlich oder fahrlässig
 
 <sup>2</sup> Verfolgende und urteilende Behörde ist die ESTV.
 
-[^22l-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^22l-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -656,7 +654,7 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 Die Ausführungsbestimmungen, die sich auf den Bundesbeschluss vom 22. Juni 1951[^24-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung stützen, gelten weiter für die Amtshilfeersuchen, die beim Inkrafttreten dieses Gesetzes bereits eingereicht waren.
 
-[^24-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^24-1]: [SR 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
 
 #### Art. 24a
 

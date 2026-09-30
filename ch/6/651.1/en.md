@@ -4,11 +4,11 @@ title: "Federal Act of 28 September 2012 on International Administrative Assista
 short: TAAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: en
-version: 2023-09-01
+version: 2026-10-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20261001/en/xml/fedlex-data-admin-ch-eli-cc-2013-31-20261001-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Tax Administrative Assistance Act, TAAA)
-
-of 28 September 2012 (Status as of 1 September 2023)
+of 28 September 2012 (Last amended on 1 October 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +25,7 @@ based on Article 173 paragraph 2 of the Federal Constitution[^ingress-1], and ha
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
 ## Chapter 1 General Provisions
@@ -112,7 +110,7 @@ For the purposes of this Act:
 
 <sup>2</sup> Article 22*a* paragraph 1 of the APA on statutory or official periods does not apply.
 
-[^5-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^5-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 5a
 
@@ -121,7 +119,7 @@ For the purposes of this Act:
 If the applicable convention provides that the informing authority may stipulate data protection provisions that must be observed by the recipient authority, the Federal Council may enter into agreements on data protection. The data protection provisions that must be observed must provide at least the same level of protection as the Data Protection Act of 25 September 2020[^5a-2].[^5a-3]
 
 [^5a-1]: Inserted by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
-[^5a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^5a-3]: Second sentence amended by Annex 1 No II 54 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Chapter 2 Exchange of Information on Request
@@ -193,7 +191,7 @@ The request will not be considered if:
 
 <sup>6</sup> Lawyers who are authorised to represent parties before judicial authorities in Switzerland under the Lawyers Act of 23 June 2000[^8-1] (LawA) may refuse to surrender documents and information protected under the provisions on professional secrecy for lawyers.
 
-[^8-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^8-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 9
 
@@ -270,7 +268,7 @@ The FTA may use only the following compulsory measures to obtain information:
 
 <sup>7</sup> Furthermore, Articles 42 and 45 to 50 paragraphs 1 and 2 of the Federal Act of 22 March 1974[^13-1] on Administrative Criminal Law apply.
 
-[^13-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^13-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 14
 
@@ -346,7 +344,7 @@ It shall further notify persons concerned by the group request anonymously via a
 
 <sup>2</sup> If the foreign authority demonstrates grounds for secrecy regarding certain case documents, the FTA may refuse to allow a person entitled to appeal to inspect the corresponding files in accordance with Article 27 of the APA[^15-1].[^15-2]
 
-[^15-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^15-2]: Amended by No I of the Federal Act of 21 March 2014, in force since 1 Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
 ### Section 3 Transmission of Information
@@ -416,7 +414,7 @@ Administrative assistance may be provided in connection with deceased persons. T
 
 <sup>5</sup> For all other matters, the general provisions on federal justice apply.
 
-[^19-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -450,7 +448,7 @@ Administrative assistance may be provided in connection with deceased persons. T
 
 <sup>3</sup> The FTA shall inform the information holders and authorities who were made aware of the request about the deferred notification. These persons and authorities may not inform persons entitled to appeal about the request until after their deferred notification.
 
-<sup>4</sup> and <sup>5</sup> …[^21a-3]
+<sup>4 and <sup>5</sup></sup> …[^21a-3]
 
 [^21a-1]: Inserted by No I of the Federal Act of 21 March 2014, in force since 1 Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^21a-2]: Inserted by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
@@ -513,7 +511,7 @@ Administrative assistance may be provided in connection with deceased persons. T
 
 <sup>3</sup> If it is not possible to contact a person entitled to appeal, the FTA shall notify the person of the planned transmission of information by publication in the Federal Gazette. It shall request the person concerned to designate a person authorised to accept service. It shall specify a deadline for doing so.
 
-[^22b-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22b-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22c
 
@@ -602,15 +600,13 @@ No duty of confidentiality applies:
 
 <sup>2</sup> There is no right of access to information beyond that published in accordance with paragraph 1.
 
-## Chapter 4*a* Transparency of Legal Entities based abroad with De Facto Management in Switzerland
-
-[^chap4a-1]
-
-[^chap4a-1]: Inserted by No I 3 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+## Chapter 4*a* …
 
 #### Art. 22i<sup>bis</sup>
 
-If a legal entity that is based abroad is in fact managed in Switzerland, it must keep a register of its proprietors at its actual place of management. The register must record the first name and surname or company name and the address of these persons.
+[^22ibis-1]
+
+[^22ibis-1]: Inserted by No I 3 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Repealed by Annex No 6 of the FA of 26 Sept. 2025 on the Transparency of Legal Persons and the Identification of Beneficial Owners, with effect from 1 Oct. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Chapter 5 Criminal Provisions
 
@@ -638,7 +634,7 @@ Any person who wilfully or negligently violates the ban on providing information
 
 <sup>2</sup> The prosecuting and adjudicating authority is the FTA.
 
-[^22l-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^22l-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapter 6 Final Provisions
 
@@ -658,7 +654,7 @@ Amendments to existing legislation are set out in the Annex.
 
 Implementing provisions that are based on the Federal Decree of 22 June 1951[^24-1] on the Implementation of Intergovernmental Federal Conventions on the Avoidance of Double Taxation continue to apply for administrative assistance requests that have already been submitted when this Act comes into force.
 
-[^24-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^24-1]: [SR 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
 
 #### Art. 24a
 

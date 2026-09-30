@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur l'assistance administrative inte
 short: LAAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: fr
-version: 2023-09-01
+version: 2026-10-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2013-31-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/fr"
 
 (Loi sur l’assistance administrative fiscale, LAAF)
 
-du 28 septembre 2012 (État le 1<sup>er</sup> septembre 2023)
+du 28 septembre 2012 (État le 1<sup>er</sup> octobre 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
 ## Chapitre 1 Dispositions générales
@@ -111,7 +111,7 @@ Dans la présente loi, on entend par:
 
 <sup>2</sup> L’art. 22*a*, al. 1, PA sur les féries n’est pas applicable.
 
-[^5-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^5-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 5a
 
@@ -120,7 +120,7 @@ Dans la présente loi, on entend par:
 Si la convention applicable prévoit que l’autorité qui transmet les renseignements peut spécifier des dispositions en matière de protection des données devant être respectées par l’autorité qui reçoit les renseignements, le Conseil fédéral peut conclure des accords en la matière. Ces dispositions doivent offrir au moins le même niveau de protection que la loi fédérale du 25 septembre 2020 sur la protection des données[^5a-2].[^5a-3]
 
 [^5a-1]: Introduit par l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
-[^5a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^5a-3]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 54 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Chapitre 2 Échange de renseignements sur demande
@@ -192,7 +192,7 @@ Il n’est pas entré en matière lorsque la demande présente l’une des carac
 
 <sup>6</sup> Les avocats qui sont autorisés à pratiquer la représentation en justice aux termes de la loi du 23 juin 2000 sur les avocats (LLCA)[^8-1] peuvent refuser de remettre des documents et des informations qui sont couverts par le secret professionnel.
 
-[^8-1]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^8-1]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 9
 
@@ -269,7 +269,7 @@ L’AFC peut mettre en oeuvre uniquement les mesures de contrainte suivantes aux
 
 <sup>7</sup> Au surplus, les art. 42 et 45 à 50, al. 1 et 2, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^13-1] sont applicables.
 
-[^13-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^13-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 14
 
@@ -345,7 +345,7 @@ Elle informe en outre par publication anonyme dans la Feuille fédérale les per
 
 <sup>2</sup> Dans la mesure où l’autorité étrangère émet des motifs vraisemblables de garder le secret sur certaines pièces du dossier, l’AFC peut refuser à une personne habilitée à recourir la consultation des pièces concernées, en application de l’art. 27 PA[^15-1].[^15-2]
 
-[^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^15-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7501](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
 ### Section 3 Procédure
@@ -415,7 +415,7 @@ L’assistance administrative peut être exécutée concernant des personnes dé
 
 <sup>5</sup> Au surplus, les dispositions de la procédure fédérale sont applicables.
 
-[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -449,7 +449,7 @@ L’assistance administrative peut être exécutée concernant des personnes dé
 
 <sup>3</sup> L’AFC informe du report de l’information les détenteurs des renseignements et les autorités qui ont été mis au courant de la demande. Les détenteurs des renseignements et les autorités ne peuvent pas informer les personnes habilitées à recourir de la demande tant que celles-ci n’ont pas reçu l’information reportée.
 
-<sup>4</sup> et <sup>5</sup> …[^21a-3]
+<sup>4 et <sup>5</sup></sup> …[^21a-3]
 
 [^21a-1]: Introduit par le ch. I de la LF du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7501](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^21a-2]: Introduit par l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
@@ -512,7 +512,7 @@ L’assistance administrative peut être exécutée concernant des personnes dé
 
 <sup>3</sup> Lorsqu’une personne habilitée à recourir ne peut être contactée, l’AFC l’informe de la transmission prévue de renseignements par publication dans la Feuille fédérale. Elle invite la personne habilitée à recourir à désigner un représentant autorisé à recevoir des notifications. Elle fixe un délai pour ce faire.
 
-[^22b-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22b-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22c
 
@@ -601,15 +601,13 @@ L’obligation de garder le secret ne s’applique pas:
 
 <sup>2</sup> Nul ne peut se prévaloir d’un droit d’accès à des informations plus détaillées que celles publiées en vertu de l’al. 1.
 
-## Chapitre 4*a* Transparence des entités juridiques dont le siège principal se trouve à l’étranger et l’administration effective en Suisse
-
-[^chap4a-1]
-
-[^chap4a-1]: Introduit par le ch. I 3 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+## Chapitre 4*a* …
 
 #### Art. 22i<sup>bis</sup>
 
-Si une entité juridique dont le siège principal se trouve à l’étranger a son administration effective en Suisse, elle doit tenir une liste de ses détenteurs au lieu de son administration effective. Cette liste doit contenir soit le prénom et le nom soit la raison sociale, ainsi que l’adresse de ces personnes.
+[^22ibis-1]
+
+[^22ibis-1]: Introduit par le ch. I 3 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)). Abrogé par l’annexe ch. 6 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Chapitre 5 Dispositions pénales
 
@@ -637,7 +635,7 @@ Est puni d’une amende de 10 000 francs au plus quiconque enfreint intentionnel
 
 <sup>2</sup> L’AFC est l’autorité de poursuite et de jugement.
 
-[^22l-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^22l-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 6 Dispositions finales
 
@@ -657,7 +655,7 @@ La modification du droit en vigueur est réglée en annexe.
 
 Les dispositions d’exécution fondées sur l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^24-1] demeurent applicables aux demandes d’assistance administrative déposées avant l’entrée en vigueur de la présente loi.
 
-[^24-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^24-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
 
 #### Art. 24a
 

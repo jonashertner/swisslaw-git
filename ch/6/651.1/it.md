@@ -4,11 +4,11 @@ title: "Legge federale del 28 settembre 2012 sull'assistenza amministrativa inte
 short: LAAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: it
-version: 2023-09-01
+version: 2026-10-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-31-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2013-31-20261001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20230901/it"
 
 (Legge sull’assistenza amministrativa fiscale, LAAF)
 
-del 28 settembre 2012 (Stato 1° settembre 2023)
+del 28 settembre 2012 (Stato 1° ottobre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)
 
 ## Capitolo 1: Disposizioni generali
@@ -58,7 +58,7 @@ La presente legge disciplina l’esecuzione dell’assistenza amministrativa nel
 <sup>2</sup> I tribunali svizzeri e le autorità fiscali competenti secondo il diritto cantonale o comunale possono notificare direttamente per posta documenti a una persona che si trova in uno Stato estero, qualora la convenzione applicabile lo consenta.[^2-2]
 
 [^2-1]: Nuovo testo giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
-[^2-2]: Introdotto dal n. I 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^2-2]: Introdotto dalla cifra I n. 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 3
 
@@ -74,7 +74,7 @@ Nella presente legge s’intende per:
 
 [^3-1]: Nuovo testo giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^3-2]: Introdotta dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
-[^3-3]: Introdotta dal n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^3-3]: Introdotta dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^3-4]: Introdotta dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
 #### Art. 4
@@ -100,7 +100,7 @@ Nella presente legge s’intende per:
 
 <sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte della persona che li trasmette.
 
-[^4a-1]: Introdotto dal n. I 6 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^4a-1]: Introdotto dalla cifra I n. 6 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 5
 
@@ -110,7 +110,7 @@ Nella presente legge s’intende per:
 
 <sup>2</sup> L’articolo 22*a* capoverso 1 PA concernente la sospensione dei termini non è applicabile.
 
-[^5-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^5-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 5a
 
@@ -119,8 +119,8 @@ Nella presente legge s’intende per:
 Se la convenzione applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni garantiscono almeno il livello di protezione della legge federale del 25 settembre 2020[^5a-2] sulla protezione dei dati.[^5a-3]
 
 [^5a-1]: Introdotto dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
-[^5a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^5a-3]: Nuovo testo del per. giusta l’all. 1 n. II 54 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^5a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^5a-3]: Nuovo testo del per. giusta l’all. 1 cifra II n. 54 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ## Capitolo 2: Scambio di informazioni su domanda
 
@@ -156,8 +156,8 @@ Se la convenzione applicabile non contiene disposizioni sul contenuto della doma
 
 <sup>3</sup> Se le condizioni di cui ai capoversi 1 e 2 non sono soddisfatte, l’AFC lo comunica per scritto all’autorità richiedente, dandole la possibilità di completare per scritto la domanda.[^6-2]
 
-[^6-1]: Introdotto dal n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
-[^6-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^6-1]: Introdotto dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^6-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
 #### Art. 7
 
@@ -191,7 +191,7 @@ Non si entra nel merito della domanda se:
 
 <sup>6</sup> Gli avvocati legittimati a esercitare la rappresentanza in giudizio in Svizzera conformemente alla legge del 23 giugno 2000[^8-1] sugli avvocati (LLCA) possono negare la consegna di documenti e informazioni tutelati dal segreto professionale.
 
-[^8-1]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
+[^8-1]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
 
 #### Art. 9
 
@@ -268,7 +268,7 @@ Per ottenere informazioni l’AFC può applicare esclusivamente i seguenti provv
 
 <sup>7</sup> Per il rimanente sono applicabili gli articoli 42 e 45–50 capoversi 1 e 2 della legge federale del 22 marzo 1974[^13-1] sul diritto penale amministrativo.
 
-[^13-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^13-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 14
 
@@ -289,8 +289,8 @@ L’AFC può informare direttamente la persona legittimata a ricorrere residente
 
 <sup>5</sup> Se una persona legittimata a ricorrere non è raggiungibile, l’AFC la informa della domanda per il tramite dell’autorità richiedente o mediante pubblicazione nel Foglio federale. Essa la invita a designare un rappresentante autorizzato a ricevere le notificazioni. Il termine per la designazione del rappresentante autorizzato è di dieci giorni.[^14-4]
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
-[^14-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^14-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^14-3]: Nuovo testo giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^14-4]: Nuovo testo del per. giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
@@ -331,7 +331,7 @@ Mediante pubblicazione in forma anonima nel Foglio federale, informa inoltre le 
 
 <sup>6</sup> Se non può notificare la decisione finale alle persone legittimate a ricorrere, l’AFC la notifica mediante comunicazione in forma anonima nel Foglio federale. Il termine di ricorso decorre dal giorno successivo alla comunicazione nel Foglio federale.
 
-[^14a-1]: Introdotto dal n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^14a-1]: Introdotto dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^14a-2]: Introdotto dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^14a-3]: Nuovo testo giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^14a-4]: Nuovo testo giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
@@ -344,8 +344,8 @@ Mediante pubblicazione in forma anonima nel Foglio federale, informa inoltre le 
 
 <sup>2</sup> Se l’autorità estera rende verosimili motivi per mantenere segreti determinati atti, l’AFC può negare alle persone legittimate a ricorrere l’esame di tali atti conformemente all’articolo 27 PA[^15-1].[^15-2]
 
-[^15-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^15-2]: Nuovo testo giusta il n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^15-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^15-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
 ### Sezione 3: Procedura
 
@@ -398,7 +398,7 @@ L’AFC può addossare integralmente o parzialmente alla persona interessata o a
 
 L’assistenza amministrativa può essere eseguita in relazione a persone defunte. I loro successori ottengono la qualità di parte.
 
-[^18a-1]: Introdotto dal n. I 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^18a-1]: Introdotto dalla cifra I n. 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 19
 
@@ -414,7 +414,7 @@ L’assistenza amministrativa può essere eseguita in relazione a persone defunt
 
 <sup>5</sup> Per il rimanente si applicano le disposizioni sull’amministrazione della giustizia federale.
 
-[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 20
 
@@ -448,9 +448,9 @@ L’assistenza amministrativa può essere eseguita in relazione a persone defunt
 
 <sup>3</sup> L’AFC informa i detentori delle informazioni e le autorità messe al corrente della domanda in merito al differimento dell’informazione. Queste persone e autorità non possono informare della domanda le persone legittimate a ricorrere fintanto che queste ultime non siano state informate a posteriori.
 
-<sup>4</sup> e <sup>5</sup> ...[^21a-3]
+<sup>4 e <sup>5</sup></sup> ...[^21a-3]
 
-[^21a-1]: Introdotto dal n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^21a-1]: Introdotto dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^21a-2]: Introdotta dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^21a-3]: Abrogati dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, con effetto dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
@@ -511,7 +511,7 @@ L’assistenza amministrativa può essere eseguita in relazione a persone defunt
 
 <sup>3</sup> Se la persona legittimata a ricorrere non può essere contattata, l’AFC la informa sulla prevista trasmissione di informazioni mediante pubblicazione nel Foglio federale. La invita a designare un rappresentante autorizzato a ricevere le notificazioni. Stabilisce un termine per la designazione del rappresentante autorizzato.
 
-[^22b-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^22b-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 22c
 
@@ -576,7 +576,7 @@ Il Consiglio federale definisce i dettagli concernenti in particolare:
 - d. le autorizzazioni di accesso e di trattamento;
 - e. la durata di conservazione, l’archiviazione e la distruzione dei dati.
 
-[^22g-1]: Introdotto dal n. I 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^22g-1]: Introdotto dalla cifra I n. 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 22h
 
@@ -600,15 +600,13 @@ L’obbligo del segreto non si applica:
 
 <sup>2</sup> Non sussiste alcun diritto di accesso a informazioni più ampie rispetto a quelle pubblicate secondo il capoverso 1.
 
-## Capitolo 4*a*: Trasparenza degli enti giuridici con sede principale all’estero e amministrazione effettiva in Svizzera
-
-[^chap4a-1]
-
-[^chap4a-1]: Introdotto dal n. I 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+## Capitolo 4*a*: …
 
 #### Art. 22i<sup>bis</sup>
 
-Un ente giuridico con sede principale all’estero che ha la sua amministrazione effettiva in Svizzera deve tenere, nel luogo dell’amministrazione effettiva, un elenco dei suoi titolari. L’elenco deve menzionare il nome e il cognome o la ditta nonché l’indirizzo di tali persone.
+[^22ibis-1]
+
+[^22ibis-1]: Introdotto dalla cifra I n. 3 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)). Abrogato dall’all. n. 6 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, con effetto dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Capitolo 5: Disposizioni penali
 
@@ -636,7 +634,7 @@ La persona interessata o il detentore delle informazioni è punito con una multa
 
 <sup>2</sup> L’autorità di perseguimento e di giudizio è l’AFC.
 
-[^22l-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^22l-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -656,7 +654,7 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 Le disposizioni di esecuzione fondate sul decreto federale del 22 giugno 1951[^24-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione rimangono applicabili alle domande di assistenza amministrativa presentate prima dell’entrata in vigore della presente legge.
 
-[^24-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^24-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
 
 #### Art. 24a
 
@@ -666,7 +664,7 @@ Le disposizioni di esecuzione fondate sul decreto federale del 22 giugno 1951[^2
 
 <sup>2</sup> Gli articoli 14 capoversi 1 e 2, 15 capoverso 2 nonché 21*a* del nuovo diritto si applicano anche alle domande di assistenza amministrativa presentate prima dell’entrata in vigore della modifica del 21 marzo 2014 della presente legge.
 
-[^24a-1]: Introdotta dal n. I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
+[^24a-1]: Introdotta dalla cifra I della LF del 21 mar. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [FF 2013 7203](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 
 #### Art. 25
 
