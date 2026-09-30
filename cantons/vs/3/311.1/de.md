@@ -4,13 +4,12 @@ number: "311.1"
 title: Einführungsgesetz zum Strafgesetzbuch
 short: EGStGB
 language: de
-version: 2026-02-01
-valid_until: 2026-09-30
-version_adopted: 2025-09-11
+version: 2026-10-01
+version_adopted: 2026-03-12
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/de/versions/3565/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3565/pdf_file"
 
 (EGStGB)
 
-vom 12.05.2016 (Stand 01.02.2026)
+vom 12.05.2016 (Stand 01.10.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -193,7 +192,60 @@ verordnet:[^ingress-1]
 
 <sup>4</sup> Der Dienstchef erlässt in einer Weisung, welche Kompetenzen er an seine Vertreter delegiert.
 
-<sup>5</sup> Aufgaben im Zusammenhang mit dem Straf- und Massnahmenvollzug kann er an öffentliche oder private Instanzen übertragen.
+<sup>5</sup> Er kann öffentliche oder private Einrichtungen (nachfolgend: die Beauftragten) mit Aufgaben im Zusammenhang mit dem Straf- und Massnahmenvollzug betrauen, insbesondere in den Bereichen Gesundheit, Betreuung, Sicherheit und Transport.
+
+#### Art. 15a
+
+**Leistungsauftrag mit Beauftragten und Zwangsmassnahmen**
+
+<sup>1</sup> Die Dienststelle legt in einem Leistungsauftrag die Pflichten, Verantwortlichkeiten und Befugnisse der Beauftragten, die Finanzierungsmodalitäten, die Indikatoren für die periodischen Überprüfungen und die Sanktionen fest und bestimmt insbesondere, welche Zwangsmassnahmen von den Beauftragten angewandt werden und im konkreten Fall zulässig sind.
+
+<sup>2</sup> Die Beauftragten müssen über die erforderlichen Fachkenntnisse verfügen. Sie müssen einer Sicherheitsprüfung unterzogen werden.
+
+<sup>3</sup> Unter Wahrung der Verhältnismässigkeit und wenn es für die Erfüllung ihrer Aufgaben unbedingt erforderlich ist, der beabsichtigte Zweck nicht auf andere Weise erreicht werden kann und unter Vorbehalt von Absatz 1 können die Beauftragten physische Zwangsmassnahmen anwenden, insbesondere:
+
+- a) gegen eine renitente oder gewalttätige inhaftierte Person;
+- b) um die Fluchtgefahr oder die Flucht einer inhaftierten Person zu verhindern und um sie festzunehmen;
+- c) gegen Personen, die sich unbefugt auf dem Gelände einer Anstalt aufhalten, versuchen, in die Anstalt einzudringen oder eine inhaftierte Person zu befreien, oder die sich gewalttätig verhalten.
+
+<sup>4</sup> Bei der Anwendung von physischen Zwangsmassnahmen:
+
+- a) gelten Hand- und Fussfesseln sowie Diensthunde als zulässige Hilfsmittel;
+- b) gelten Schlagstöcke, Abwehrstöcke und Reizstoffe als zulässige Waffen;
+- c) sind Hilfsmittel, insbesondere Integralhelme und Mundknebel, sowie Techniken zur Anwendung von physischer Gewalt, welche die Atemwege beeinträchtigen können, verboten.
+
+<sup>5</sup> Der Staatsrat kann die in Absatz 4 aufgeführte Liste der zulässigen Hilfsmittel und Waffen, die in ihrer Art und Wirkung ähnlich sind, mittels Verordnung erweitern.
+
+#### Art. 15b
+
+**Pflichten der Beauftragten und Aufsicht**
+
+<sup>1</sup> Die Beauftragten sind verpflichtet, die eidgenössische und kantonale Gesetzgebung zu beachten, und unterstehen der Aufsicht der betroffenen Dienststellen.
+
+<sup>2</sup> In dem für diese Aufsicht erforderlichen Umfang und ohne von allfälligen Geheimhaltungspflichten entbunden werden zu müssen, sind die Beauftragten verpflichtet:
+
+- a) den betroffenen Dienststellen jederzeit Zugang zu den Akten und den erforderlichen Informationen sowie zu den Standorten und Räumlichkeiten zu gewähren;
+- b) den betroffenen Dienststellen Auskünfte über den Betrieb, die Leistungen und die Qualität zu erteilen;
+- c) die Dienststelle unverzüglich über alle besonderen Vorkommnisse im Zusammenhang mit der übertragenen Aufgabe zu informieren, insbesondere über Mängel oder Versäumnisse;
+- d) der Dienststelle jede Änderung der relevanten gesetzlichen Anforderungen im Zusammenhang mit dem Abschluss des Leistungsauftrags zu melden.
+
+<sup>3</sup> Personen, die von den Beauftragten angestellt werden und befugt sind, Sicherheitsmassnahmen und Disziplinarstrafen anzuordnen und umzusetzen sowie physische Zwangsmassnahmen anzuwenden, müssen über eine anerkannte Ausbildung im Sicherheitsbereich verfügen und sich regelmässig weiterbilden. Der Leistungsauftrag legt die erforderlichen Anforderungen und Vorschriften fest.
+
+<sup>4</sup> Die Dienststelle überprüft regelmässig, ob die Beauftragten die gesetzlichen Anforderungen erfüllen und qualitativ hochstehende Leistungen erbringen.
+
+#### Art. 15c
+
+**Informationsaustausch und Datenverarbeitung**
+
+<sup>1</sup> Der Kanton und die Beauftragten können Informationen, einschliesslich Personendaten und besonders schützenswerter Personendaten, austauschen, um die öffentliche Sicherheit sowie die Einweisung und Betreuung einer Person, die sich im Straf- oder Massnahmenvollzug befindet, zu gewährleisten.
+
+<sup>2</sup> Die Angestellten im Sinne des Gesetzes über das Personal des Staates Wallis (kGPers) und die Mitglieder der Behörden sind von ihrem Amtsgeheimnis entbunden.
+
+<sup>3</sup> Gesundheitsfachpersonen sind gemäss den Bedingungen des Gesundheitsgesetzes (GG) vom Berufsgeheimnis entbunden.
+
+<sup>4</sup> Die Beauftragten dürfen die Daten verarbeiten, die zur Erfüllung ihrer Aufgaben erforderlich sind, einschliesslich Personendaten und besonders schützenswerter Personendaten einer Person, die sich im Straf- oder Massnahmenvollzug befindet.
+
+<sup>5</sup> Personendaten und besonders schützenswerte Daten werden gemäss eidgenössischer und kantonaler Datenschutzgesetzgebung bearbeitet.
 
 #### Art. 16
 

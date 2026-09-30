@@ -4,13 +4,12 @@ number: "311.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2026-02-01
-valid_until: 2026-09-30
-version_adopted: 2025-09-11
+version: 2026-10-01
+version_adopted: 2026-03-12
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3565/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3653/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3565/pdf_file"
 
 (LACP)
 
-du 12.05.2016 (état 01.02.2026)
+du 12.05.2016 (état 01.10.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -193,7 +192,60 @@ ordonne:[^ingress-1]
 
 <sup>4</sup> Le chef de service arrête dans une directive les compétences déléguées à ses représentants.
 
-<sup>5</sup> Il peut confier à des entités publiques ou privées des tâches relatives à l'exécution des peines et des mesures.
+<sup>5</sup> Il peut confier à des entités publiques ou privées (ci-après: les délégataires) des tâches relatives à l'exécution des peines et des mesures, en particulier dans les domaines de la santé, de l’encadrement, de la sécurité et du transport.
+
+#### Art. 15a
+
+**Mandat de prestations avec les délégataires et mesures de contrainte**
+
+<sup>1</sup> Le service définit les obligations, les responsabilités et les compétences des délégataires, les modalités de financement, les indicateurs des vérifications périodiques et les sanctions dans un mandat de prestations et détermine notamment les mesures de contrainte administrées par les délégataires et qui sont admissibles dans des cas concrets.
+
+<sup>2</sup> Les délégataires doivent disposer des connaissances techniques nécessaires. Ils doivent être soumis à un contrôle de sécurité.
+
+<sup>3</sup> Dans le respect de la proportionnalité et lorsque cela est absolument nécessaire à l'accomplissement de leurs tâches, que le but envisagé ne peut pas être atteint d’une autre manière et sous réserve de l'alinéa 1, les délégataires peuvent user de la contrainte physique notamment:
+
+- a) à l’encontre d'une personne détenue récalcitrante ou violente;
+- b) pour éviter les risques d'évasion ou l’évasion d'une personne détenue et pour sa capture;
+- c) contre les personnes qui se trouvent sans droit sur les lieux d'un établissement, qui tentent d’y pénétrer ou de libérer une personne détenue ou font preuve d’un comportement violent.
+
+<sup>4</sup> Lors de l’utilisation de la contrainte physique:
+
+- a) les moyens d’attache des mains et des pieds ainsi que les chiens de service sont considérés comme moyens auxiliaires admissibles;
+- b) les matraques, les bâtons de défense et les substances irritantes sont considérés comme armes admissibles;
+- c) les moyens auxiliaires, notamment les casques intégraux et les baillons, et les techniques d'utilisation de la force physique susceptibles d'entraver les voies respiratoires, sont interdits.
+
+<sup>5</sup> Le Conseil d'Etat peut étendre par voie d'ordonnance la liste des moyens auxiliaires et des armes admissibles mentionnée à l'alinéa 4, dont la nature et les effets sont similaires.
+
+#### Art. 15b
+
+**Obligations des délégataires et surveillance**
+
+<sup>1</sup> Tenus de respecter la législation fédérale et cantonale, les délégataires sont soumis à la surveillance des services concernés.
+
+<sup>2</sup> Dans la mesure nécessaire à cette surveillance et sans avoir à être déliés d’éventuelles obligations de garder le secret professionnel ou de fonction, les délégataires sont tenus:
+
+- a) d'accorder, en tout temps, aux services concernés l’accès au dossier et aux informations nécessaires, ainsi qu'aux sites et aux locaux;
+- b) de fournir aux services concernés des renseignements sur le fonctionnement, sur les prestations et sur la qualité;
+- c) d'informer sans délai le service de tout événement particulier qui a trait à la tâche déléguée, en particulier en cas de carences ou manquements;
+- d) d'annoncer au service tout changement des exigences légales pertinentes par rapport à la conclusion du mandat de prestations.
+
+<sup>3</sup> Les personnes engagées par les délégataires et habilitées à ordonner et à mettre en œuvre des mesures de sécurité et des sanctions disciplinaires ainsi qu’à utiliser la contrainte physique doivent disposer d’une formation reconnue dans le domaine sécuritaire et suivre une formation continue de manière régulière. Le mandat de prestations fixe les exigences et les prescriptions requises.
+
+<sup>4</sup> Le service vérifie régulièrement que les délégataires remplissent les exigences légales et fournissent des prestations de qualité.
+
+#### Art. 15c
+
+**Echange d’informations et traitement des données**
+
+<sup>1</sup> Le canton et les délégataires peuvent échanger des informations, y compris les données personnelles et sensibles, dans le but d’assurer la sécurité publique ainsi que le placement et le suivi d’une personne se trouvant en exécution de peine ou de mesure.
+
+<sup>2</sup> Les employés au sens de la loi sur le personnel de l’Etat du Valais (LcPers) et les membres des autorités sont déliés de leur secret de fonction.
+
+<sup>3</sup> Les professionnels de la santé sont déliés de leur secret professionnel aux conditions fixées par la loi sur la santé (LS).
+
+<sup>4</sup> Les délégataires sont autorisés à traiter les données, y compris les données personnelles et sensibles d’une personne se trouvant en exécution de peine ou de mesure, qui leur sont nécessaires à l’accomplissement de leurs tâches.
+
+<sup>5</sup> Les données personnelles et sensibles sont traitées conformément à la législation fédérale et cantonale en matière de protection des données.
 
 #### Art. 16
 
