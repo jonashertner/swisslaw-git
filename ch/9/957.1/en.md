@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 2008 on Intermediated Securities (Federal Inter
 short: FISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: en
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20261001/en/xml/fedlex-data-admin-ch-eli-cc-2009-450-20261001-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Federal Intermediated Securities Act, FISA)
 
-of 3 October 2008 (Status as of 1 January 2023)
+of 3 October 2008 (Last amended on 1 October 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -408,15 +408,9 @@ An instruction issued by a custodian which is a participant in a securities clea
 
 #### Art. 23a
 
-**Passing on of information**[^23a-1]
+[^23a-1]
 
-The custodian designated by a company limited by shares under Article 697*i* paragraph 4 or Article 697*j* paragraph 3 of the Code of Obligations[^23a-2] must ensure that on request downstream custodians pass on the following information:
-
-- a. the first name and surname or business name and address of the shareholder; and
-- b. the first name and surname and address of the beneficial owner.
-
-[^23a-1]: Inserted by No I 8 of the Federal Act of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^23a-1]: Inserted by No I 8 of the Federal Act of 12 Dec. 2014 on the Implementation of the Revised Recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Repealed by Annex No 12 of the FA of 26 Sept. 2025 on the Transparency of Legal Persons and the Identification of Beneficial Owners, with effect from 1 Oct. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Chapter 5 Disposition of Intermediated Securities and Effectiveness against Third Parties
 

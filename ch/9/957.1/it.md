@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 2008 sui titoli contabili (Legge sui titoli
 short: LTCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: it
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2009-450-20261001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/it"
 
 (Legge sui titoli contabili, LTCo)
 
-del 3 ottobre 2008 (Stato 1° gennaio 2023)
+del 3 ottobre 2008 (Stato 1° ottobre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -88,17 +88,17 @@ Sono considerati enti di custodia:
 <sup>3</sup> Sono considerati enti di custodia, sempre che gestiscano conti titoli nel quadro della loro attività, anche le banche estere, le società di intermediazione mobiliare estere e altri istituti finanziari esteri come pure gli enti di custodia centrali esteri.[^4-12]
 
 [^4-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
-[^4-2]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-2]: Nuovo testo giusta l’all. cifra II n. 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-3]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
-[^4-4]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-4]: Nuovo testo giusta l’all. cifra II n. 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-5]: Nuovo testo giusta l’all. n. 14 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^4-6]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
-[^4-7]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-7]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^4-8]: [RS 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)
-[^4-9]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-9]: Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^4-10]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 [^4-11]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^4-12]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-12]: Nuovo testo giusta l’all. cifra II n. 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -116,8 +116,8 @@ Nella presente legge sono considerati:
 - h.[^5-3] *diritti valori registrati*: diritti ai sensi dell’articolo 973*d* del Codice delle obbligazioni.
 
 [^5-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^5-2]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^5-3]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^5-2]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^5-3]: Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Capitolo 2: Costituzione, conversione ed estinzione dei titoli contabili
 
@@ -138,10 +138,10 @@ I titoli contabili si costituiscono:
 
 <sup>3</sup> In occasione del trasferimento a un ente di custodia, i diritti valori registrati vanno immobilizzati nel registro dei diritti valori.[^6-4]
 
-[^6-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^6-2]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^6-3]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^6-4]: Introdotto dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-1]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-2]: Introdotta dalla cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-3]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-4]: Introdotto dalla cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
@@ -153,8 +153,8 @@ I titoli contabili si costituiscono:
 
 <sup>3</sup> L’ente di custodia assicura che la conversione non comporti un mutamento del numero complessivo dei diritti di credito o inerenti alla qualità di membro emessi.
 
-[^7-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^7-2]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^7-1]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^7-2]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 8
 
@@ -171,7 +171,7 @@ I titolari dei conti possono esigere in qualsiasi momento che l’ente di custod
 
 <sup>3</sup> L’ente di custodia assicura che i titoli di credito vengano forniti unicamente se sul corrispondente conto titoli è stato addebitato lo stesso numero di titoli contabili della stessa categoria.
 
-[^8-1]: Nuovo testo giusta il n. I 4 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^8-1]: Nuovo testo giusta la cifra I n. 4 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 8a
 
@@ -196,7 +196,7 @@ Per le società anonime senza titoli di partecipazione quotati in borsa le cui a
 
 <sup>2</sup> La subcustodia all’estero necessita tuttavia del consenso esplicito del titolare del conto se l’ente di custodia estero non sottostà a una vigilanza adeguata alla sua attività.
 
-[^9-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^9-1]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 10
 
@@ -222,7 +222,7 @@ Sono considerati disponibili:
 - b.[^11-1] i titoli di credito, i diritti valori registrati, i certificati globali o i diritti valori semplici custoditi collettivamente presso l’ente di custodia e iscritti nel suo registro principale; e
 - c. le pretese, di cui l’ente di custodia può disporre liberamente, tendenti alla fornitura di titoli contabili da parte di altri enti di custodia durante il periodo prescritto o usuale sul mercato corrispondente per un’operazione ordinaria, ma al massimo durante otto giorni.
 
-[^11-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^11-1]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 11a
 
@@ -346,8 +346,8 @@ I titoli contabili e le pretese della loro fornitura, separati dalla massa, sono
 
 <sup>5</sup> Sono salve le pretese dell’ente di custodia secondo l’articolo 21.
 
-[^17-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^17-2]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-1]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-2]: Nuovo testo giusta la cifra I n. 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 18
 
@@ -402,15 +402,9 @@ Le istruzioni di un ente di custodia che partecipa a un sistema di conteggio e d
 
 #### Art. 23a
 
-**Trasmissione di informazioni**[^23a-1]
+[^23a-1]
 
-L’ente di custodia designato da una società anonima secondo l’articolo 697*i* capoverso 4 o l’articolo 697*j* capoverso 3 del Codice delle obbligazioni[^23a-2] deve assicurare che gli enti di custodia che, a catena, lo seguono, trasmettano su richiesta le seguenti informazioni:
-
-- a. il nome e il cognome o la ditta nonché l’indirizzo dell’azionista; e
-- b. il nome e il cognome o la ditta nonché l’indirizzo dell’avente economicamente diritto.
-
-[^23a-1]: Introdotto dal n. I 8 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^23a-1]: Introdotto dalla cifra I n. 8 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogato dall’all. n. 12 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, con effetto dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Capitolo 5: Facoltà di disporre dei titoli contabili ed effetti nei confronti di terzi
 

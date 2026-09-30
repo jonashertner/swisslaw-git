@@ -4,11 +4,11 @@ title: Loi fédérale du 3 octobre 2008 sur les titres intermédiés (LTI)
 short: LTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: fr
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2009-450-20261001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/fr"
 
 (LTI)[^t-1]
 
-du 3 octobre 2008 (État le 1<sup>er</sup> janvier 2023)
+du 3 octobre 2008 (État le 1<sup>er</sup> octobre 2026)
 
-[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -403,15 +403,9 @@ L’instruction d’un dépositaire qui participe à un système de compensation
 
 #### Art. 23a
 
-**Transmission des informations**[^23a-1]
+[^23a-1]
 
-Le dépositaire désigné par une société anonyme en vertu des art. 697*i*, al. 4, ou 697*j*, al. 3, du code des obligations[^23a-2] doit veiller à ce que les dépositaires situés en aval de la chaîne lui transmettent, sur demande, les informations suivantes:
-
-- a. nom et prénom ou raison sociale et adresse de l’actionnaire;
-- b. nom, prénom et adresse de l’ayant droit économique.
-
-[^23a-1]: Introduit par le ch. I 8 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^23a-1]: Introduit par le ch. I 8 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par l’annexe ch. 12 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## Chapitre 5 Actes de disposition sur les titres intermédiés et effets à l’égard des tiers
 

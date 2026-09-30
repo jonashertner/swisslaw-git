@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 2008 über Bucheffekten (Bucheffektengesetz,
 short: BEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: de
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-450-20230101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2009-450-20261001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20230101/de"
 
 (Bucheffektengesetz, BEG)
 
-vom 3. Oktober 2008 (Stand am 1. Januar 2023)
+vom 3. Oktober 2008 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -406,15 +406,9 @@ Die Weisung einer Verwahrungsstelle, die an einem Effektenabrechnungs- und ‑ab
 
 #### Art. 23a
 
-**Weiterleitung von Informationen**[^23a-1]
+[^23a-1]
 
-Die von einer Aktiengesellschaft nach Artikel 697*i* Absatz 4 oder Artikel 697*j* Absatz 3 des Obligationenrechts[^23a-2] bezeichnete Verwahrungsstelle muss sicherstellen, dass ihr die in der Kette nachgelagerten Verwahrungsstellen auf Anfrage die folgenden Informationen weiterleiten:
-
-- a. Vor- und Nachname oder Firma sowie Adresse der Aktionärin oder des Aktionärs; und
-- b. Vor- und Nachname sowie Adresse der wirtschaftlich berechtigten Person.
-
-[^23a-1]: Eingefügt durch Ziff. I 8 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d'action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^23a-1]: Eingefügt durch Ziff. I 8 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Anhang Ziff. 12 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ## 5. Kapitel: Verfügung über Bucheffekten und Wirkung gegenüber Dritten
 
