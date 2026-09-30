@@ -5,11 +5,12 @@ title: "Ordinanza d'esecuzione del diritto federale sugli esplosivi"
 short: "Ordinanza cantonale sugli esplosivi, OCEspl"
 language: it
 version: 2026-01-01
+corrected: 2026-10-01
 version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.325"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3812/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3605/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -55,7 +56,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'Istituto nazionale svizzero di assicurazione contro gli infortuni sorveglia le aziende e le imprese nel settore della protezione dei lavoratori.
 
-<sup>2</sup> Esso collabora con l'Ufficio del lavoro.
+<sup>2</sup> Esso collabora con l'Ufficio per l'industria, arti e mestieri e lavoro.
 
 #### Art. 5
 

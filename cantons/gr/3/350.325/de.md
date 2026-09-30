@@ -5,11 +5,12 @@ title: Vollziehungsverordnung zum eidgenössischen Sprengstoffrecht
 short: "Kantonale Sprengstoffverordnung, KSprstV"
 language: de
 version: 2026-01-01
+corrected: 2026-10-01
 version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.325"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3812/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3605/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -55,7 +56,7 @@ von der Regierung erlassen am 16. Dezember 2025
 
 <sup>1</sup> Die Schweizerische Unfallversicherungsanstalt überwacht die Betriebe und Unternehmen im Bereich des Arbeitnehmerschutzes.
 
-<sup>2</sup> Sie arbeitet mit dem Amt für Arbeit zusammen.
+<sup>2</sup> Sie arbeitet mit dem Amt für Industrie, Gewerbe und Arbeit zusammen.
 
 #### Art. 5
 

@@ -5,11 +5,12 @@ title: Ordinaziun executiva tar il dretg federal davart las materias explosivas
 short: "Ordinaziun chantunala davart las materias explosivas, OCExpl"
 language: rm
 version: 2026-01-01
+corrected: 2026-10-01
 version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.325"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3812/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3605/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -55,7 +56,7 @@ relaschada da la Regenza ils 16 da december 2025
 
 <sup>1</sup> L'Institut svizzer d'assicuranza d'accidents surveglia ils manaschis e las interpresas en il sectur da la protecziun da las lavurantas e dals lavurants.
 
-<sup>2</sup> El collavura cun l'Uffizi da lavur.
+<sup>2</sup> El collavura cun l'Uffizi per industria, mastergn e lavur.
 
 #### Art. 5
 
