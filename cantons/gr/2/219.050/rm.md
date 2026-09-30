@@ -4,40 +4,39 @@ number: "219.050"
 title: Lescha davart ils uffants confidads
 language: rm
 version: 2013-01-01
-corrected: 2014-10-09
+corrected: 2026-10-01
 version_adopted: 2012-12-11
 adopted: 2007-02-14
 in_force: 2007-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/219.050"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1665/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2020/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart ils uffants confidads
 
-dals 14 da favrer 2007
+dals 14-02-2007 (versiun dals 01-01-2013)
 
-Il cussegl grond dal chantun Grischun[^t-1],
+Il cussegl grond dal chantun Grischun[^ingress-1],
 
-sa basond sin l'art. 31 al. 1 da la constituziun chantunala[^t-2], suenter avair gì invista da la missiva da la regenza dals 31 d'october 2006[^t-3],
+sa basond sin l'art. 31 al. 1 da la constituziun chantunala[^ingress-2], suenter avair gì invista da la missiva da la regenza dals 31 d'october 2006[^ingress-3],
 
 concluda:
 
-I. Disposiziuns generalas
+[^ingress-1]: PCG 2006/2007, 814
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 1587
 
-[^t-1]: PCG 2006/2007, 814
-[^t-2]: DG 110.100
-[^t-3]: pagina 1587
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
 **Cuntegn**
 
-Questa lescha regla – cumplettond il dretg federal[^1-1] – la recepziun e l'intermediaziun d'uffants e da giuvenils ordaifer la chasa dals geniturs per la tgira, per l'educaziun e per l'assistenza sco er per l'adopziun posteriura.
+<sup>1</sup> Questa lescha regla – cumplettond il dretg federal[^1-1] – la recepziun e l'intermediaziun d'uffants e da giuvenils ordaifer la chasa dals geniturs per la tgira, per l'educaziun e per l'assistenza sco er per l'adopziun posteriura.
 
-[^1-1]: CS 211.222.338 1-1-2013 1
+[^1-1]: CS [211.222.338](https://db.clex.ch/link/Bund/211.222.338/rm)
 
 #### Art. 2
 
@@ -46,9 +45,7 @@ Questa lescha regla – cumplettond il dretg federal[^1-1] – la recepziun e l'
 <sup>1</sup> L'uffizi dal servetsch social dat a la persuna responsabla la permissiun per:
 
 - a) la tgira en famiglia e la tgira en chasas da dimora;
-
 - b) la recepziun d'uffants confidads cun l'intent d'ina adopziun posteriura;
-
 - c) l'intermediaziun d'uffants confidads e da plazzas da tgira.
 
 <sup>2</sup> L'uffizi dal servetsch social è il post d'annunzia per relaziuns da tgira da di e da tgira da notg.
@@ -64,7 +61,6 @@ Questa lescha regla – cumplettond il dretg federal[^1-1] – la recepziun e l'
 <sup>2</sup> En spezial po el:
 
 - a) far da tut temp visitas da controlla, sch'i dat in suspect ch'il bain da l'uffant saja periclità, e quai senza annunziar ordavant questas visitas;
-
 - b) ordinar ina controlla medicinala per laschar sclerir il stadi da sanadad da l'uffant confidà.
 
 <sup>3</sup> Geniturs e geniturs da tgira ston dar a l'uffizi dal servetsch social las infurmaziuns ch'èn necessarias per ademplir la surveglianza.
@@ -84,15 +80,12 @@ Questa lescha regla – cumplettond il dretg federal[^1-1] – la recepziun e l'
 <sup>1</sup> L'uffizi dal servetsch social retira la permissiun, sche:
 
 - a) igl èn avant maun grevas cuntravenziuns cunter questa lescha; u
-
 - b) la taxa ch'è vegnida fixada da la regenza vegn surpassada.
 
 <sup>2</sup> La permissiun d'intermediar uffants e giuvenils sco er plazzas per la tgira e per l'educaziun sto ultra da quai vegnir retratga, sche:
 
 - a) las premissas ch'èn stadas decisivas per la concessiun n'èn betg pli ademplidas;
-
 - b) la procedura, ch'è cuntegnida en il concept, per sclerir la qualificaziun dals geniturs da tgira respectivamain da la plazza da tgira na vegn betg observada;
-
 - c) la permissiun è vegnida retratga en in auter chantun.
 
 <sup>3</sup> L'uffizi dal servetsch social po publitgar uffizialmain la retratga d'ina permissiun.
@@ -101,13 +94,13 @@ Questa lescha regla – cumplettond il dretg federal[^1-1] – la recepziun e l'
 
 **Scumond da recepziun e d'assistenza**
 
-Tar relaziuns da tgira da di respectivamain da notg scumonda l'uffizi dal servetsch social da recepir e d'assister uffants, sche la taxa ch'è vegnida fixada da la regenza vegn surpassada.
+<sup>1</sup> Tar relaziuns da tgira da di respectivamain da notg scumonda l'uffizi dal servetsch social da recepir e d'assister uffants, sche la taxa ch'è vegnida fixada da la regenza vegn surpassada.
 
 #### Art. 7
 
 **Delegaziun d'incumbensas a terzas persunas**
 
-L'uffizi dal servetsch social po delegar singulas da sias incumbensas a terzas persunas e las indemnisar per quai. Exceptadas da quai èn incumbensas suveranas.
+<sup>1</sup> L'uffizi dal servetsch social po delegar singulas da sias incumbensas a terzas persunas e las indemnisar per quai. Exceptadas da quai èn incumbensas suveranas.
 
 #### Art. 8
 
@@ -115,14 +108,8 @@ L'uffizi dal servetsch social po delegar singulas da sias incumbensas a terzas p
 
 <sup>1</sup> La taxa per conceder e per renovar ina permissiun vegn incassada tenor ils custs ch'èn colliads cun quai. Ella importa:
 
-**2**
-
-**3**
-
-1-1-2013 a) per la tgira en famiglia maximalmain 1000 francs;
-
+- a) per la tgira en famiglia maximalmain 1000 francs;
 - b) per la tgira en chasas da dimora maximalmain 2000 francs;
-
 - c) per l'intermediaziun d'uffants confidads u da plazzas da tgira maximalmain 2500 francs.
 
 <sup>2</sup> Per la concessiun e per la renovaziun d'ina permissiun per la tgira en famiglia na ston vegnir pajadas naginas taxas, sch'i vegnan mess a quint mo ils agens custs.
@@ -130,7 +117,6 @@ L'uffizi dal servetsch social po delegar singulas da sias incumbensas a terzas p
 <sup>3</sup> Tar la tgira en famiglia poi vegnir renunzià d'incassar ina taxa:
 
 - a) en cas da plazzaments ch'èn vegnids fatgs sin cumond d'ina autoritad;
-
 - b) en cas che la permissiun vegn renovada.
 
 <sup>4</sup> Sche la tgira en famiglia, sche la tgira da di, sche la tgira da notg u sche la tgira en chasas da dimora chaschuna repetidamain reclamaziuns u chaschuna grevas reclamaziuns, vegn incassada – tenor il temp impundì – ina taxa d'inspecziun e d'elavuraziun da 150 francs per ura.
@@ -149,33 +135,28 @@ L'uffizi dal servetsch social po delegar singulas da sias incumbensas a terzas p
 
 **Promoziun dals fatgs dals uffants confidads**
 
-Il chantun promova ils fatgs dals uffants confidads:
+<sup>1</sup> Il chantun promova ils fatgs dals uffants confidads:
 
 - a) cun cussegliar ils geniturs da tgira;
-
 - b) cun metter a disposiziun purschidas da furmaziun supplementara per geniturs da tgira;
-
 - c) cun sustegnair la creaziun e l'intermediaziun da plazzas da tgira;
-
 - d) cun edir contracts da model.
 
-### II. Tgira en famiglia
+## 2. Tgira en famiglia
 
 #### Art. 11
 
 **Obligaziun da dumandar ina permissiun**
 
-La recepziun d'uffants e da giuvenils per la tgira e per l'educaziun è suttamessa a l'obligaziun da dumandar ina permissiun, e quai a partir d'ina durada da dapli ch'in mais e fin a la vegliadetgna da 18 onns.
-
-1-1-2013
+<sup>1</sup> La recepziun d'uffants e da giuvenils per la tgira e per l'educaziun è suttamessa a l'obligaziun da dumandar ina permissiun, e quai a partir d'ina durada da dapli ch'in mais e fin a la vegliadetgna da 18 onns.
 
 #### Art. 12
 
 **Vischnancas**
 
-Las vischnancas ston communitgar a l'uffizi dal servetsch social ils uffants ed ils giuvenils che vivan en ina famiglia da tgira cun l'intent da tgira e d'educaziun, e quai fin ch'els han cumplenì 18 onns. Ellas ston er communitgar a l'uffizi dal servetsch social, sch'ils uffants u sch'ils giuvenils dischlocheschan lur domicil.
+<sup>1</sup> Las vischnancas ston communitgar a l'uffizi dal servetsch social ils uffants ed ils giuvenils che vivan en ina famiglia da tgira cun l'intent da tgira e d'educaziun, e quai fin ch'els han cumplenì 18 onns. Ellas ston er communitgar a l'uffizi dal servetsch social, sch'ils uffants u sch'ils giuvenils dischlocheschan lur domicil.
 
-### III. Tgira da di e tgira da notg
+## 3. Tgira da di e tgira da notg
 
 #### Art. 13
 
@@ -185,7 +166,7 @@ Las vischnancas ston communitgar a l'uffizi dal servetsch social ils uffants ed 
 
 <sup>2</sup> Per la tgira da notg valan las disposiziuns ch'èn decisivas per la tgira da di tenor il dretg federal.
 
-### IV. Tgira en chasas da dimora
+## 4. Tgira en chasas da dimora
 
 #### Art. 14
 
@@ -193,23 +174,18 @@ Las vischnancas ston communitgar a l'uffizi dal servetsch social ils uffants ed 
 
 <sup>1</sup> La recepziun d'uffants e da giuvenils è suttamessa a l'obligaziun da dumandar ina permissiun, sche:
 
-- a)[^14-1]i vegnan purschidas durant il di e durant la notg quatter e dapli plazzas a persunas minorennas per l'educaziun, per l'assistenza, per la scolaziun, per l'observaziun u per il tractament;
-
+- a) i vegnan purschidas durant il di e durant la notg quatter e dapli plazzas a persunas minorennas per l'educaziun, per l'assistenza, per la scolaziun, per l'observaziun u per il tractament;
 - b) i vegnan assistids durant il di u durant la notg il medem mument quatter u dapli uffants da la vegliadetgna prescolara u da la vegliadetgna da scola.
 
 <sup>2</sup> Da l'obligaziun da dumandar ina permissiun èn exceptads servetschs che guardan d'uffants en instituziuns da vacanzas e da temp liber, en gronds negozis ed en centers da cumpra.
-
-[^14-1]: versiun tenor l'art. 163 al. 1 da la lescha introductiva tar il cudesch civil svizzer, DG 210.100; entrà en vigur il 1. da schaner 2013 4 1-1-2013
 
 #### Art. 15
 
 **Premissas per la permissiun**
 
-En cumplettaziun dal dretg federal vegn la permissiun concedida mo, sche l'uffizi dal servetsch social è sa persvadì che la direcziun responsabla haja fixà l'adempliment da las incumbensas d'educaziun e d'assistenza en moda adequata ed en scrit, e quai uschia che questa fixaziun è accessibla per terzas persunas. Exceptadas da questas premissas per la permissiun èn las maisas da mezdi.
+<sup>1</sup> En cumplettaziun dal dretg federal vegn la permissiun concedida mo, sche l'uffizi dal servetsch social è sa persvadì che la direcziun responsabla haja fixà l'adempliment da las incumbensas d'educaziun e d'assistenza en moda adequata ed en scrit, e quai uschia che questa fixaziun è accessibla per terzas persunas. Exceptadas da questas premissas per la permissiun èn las maisas da mezdi.
 
-### V. Intermediaziun d'uffants confidads u da plazzas da
-
-tgira
+## 5. Intermediaziun d'uffants confidads u da plazzas da tgira
 
 #### Art. 16
 
@@ -226,11 +202,8 @@ tgira
 <sup>1</sup> La permissiun per l'intermediaziun vegn concedida, sche la persuna responsabla:
 
 - a) è abla d'agir tenor il dretg civil;
-
 - b) n'ha commess nagins acts chastiabels ch'èn relevants per l'activitad d'intermediaziun;
-
 - c) preschenta in concept adequat per sclerir la qualificaziun dals geniturs da tgira respectivamain da la plazza da tgira;
-
 - d) cumprova che collavuraturas e che collavuraturs che intermedieschan adempleschian las premissas tenor las literas a e b.
 
 <sup>2</sup> L'intermediaziun è limitada al territori da la Svizra.
@@ -239,7 +212,7 @@ tgira
 
 **Intermediaziun a l'exteriur**
 
-En il cas singul po l'uffizi dal servetsch social permetter ina intermediaziun a l'exteriur, sch'i vegn cumprovà ch'ils uffants e ch'ils giuvenils intermediads vegnian assistids da persunas qualifitgadas.
+<sup>1</sup> En il cas singul po l'uffizi dal servetsch social permetter ina intermediaziun a l'exteriur, sch'i vegn cumprovà ch'ils uffants e ch'ils giuvenils intermediads vegnian assistids da persunas qualifitgadas.
 
 #### Art. 19
 
@@ -249,23 +222,19 @@ En il cas singul po l'uffizi dal servetsch social permetter ina intermediaziun a
 
 <sup>2</sup> La permissiun d'intermediaziun vegn retratga, sche la glista na vegn betg manada, sch'ella na vegn betg manada endretg u sch'ella na vegn betg inoltrada a l'uffizi dal servetsch social.
 
-### VI. Disposiziun penala
+## 6. Disposiziun penala
 
 #### Art. 20
 
 **Disposiziun penala**
 
-<sup>1</sup> Cuntravenziuns che vegnan fatgas intenziunadamain u per negligientscha cunter questa lescha u cunter las disposiziuns che sa basan sin ella
-
-**5**
-
-1-1-2013 vegnan chastiadas – uschenavant che disposiziuns penalas spezialas n'èn betg applitgablas – tras l'uffizi dal servetsch social cun ina multa da fin a 10 000 francs.
+<sup>1</sup> Cuntravenziuns che vegnan fatgas intenziunadamain u per negligientscha cunter questa lescha u cunter las disposiziuns che sa basan sin ella vegnan chastiadas – uschenavant che disposiziuns penalas spezialas n'èn betg applitgablas – tras l'uffizi dal servetsch social cun ina multa da fin a 10 000 francs.
 
 <sup>2</sup> Persunas che ageschan da professiun vegnan chastiadas cun ina multa da fin a 50 000 francs.
 
 <sup>3</sup> En cas levs poi vegnir pronunzià in avertiment.
 
-### VII. Disposiziuns finalas
+## 7. Disposiziuns finalas
 
 #### Art. 21
 
@@ -279,23 +248,9 @@ En il cas singul po l'uffizi dal servetsch social permetter ina intermediaziun a
 
 #### Art. 22
 
-**Midada da relaschs**
+**Midada da relaschs[^22-1]**
 
-La lescha introductiva tar il cudesch civil svizzer dals 12 da zercladur 1994[^22-1] vegn midada sco suonda:
-
-[^22-1]: CS 210
-
-#### Art. 36
-
-**al. 1 e 3**
-
-abolì
-
-#### Art. 41
-
-**al. 4**
-
-La regenza relascha in'ordinaziun davart la collavuraziun en la protecziun da la giuventetgna (art. 317).
+[^22-1]: Las midadas dal dretg vertent na vegnan betg inditgadas.
 
 #### Art. 23
 
@@ -305,4 +260,6 @@ La regenza relascha in'ordinaziun davart la collavuraziun en la protecziun da la
 
 <sup>2</sup> La regenza fixescha l'entrada en vigur da questa lescha[^23-1].
 
-[^23-1]: messa en vigur cun CR dals 5 da zercladur 2007 per il 1. da fanadur 2007 6 1-1-2013
+[^23-1]: messa en vigur cun CR dals 5 da zercladur 2007 per il 1. da fanadur 2007
+
+-
