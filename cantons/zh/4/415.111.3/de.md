@@ -4,11 +4,10 @@ number: "415.111.3"
 title: Organisationsreglement der Erweiterten Universitätsleitung (OrgR EUL)
 short: OrgR EUL
 language: de
-version: "2024-08-01"
-nachtrag: "126"
-valid_until: 2026-10-01
+version: "2026-10-01"
+nachtrag: "134"
 adopted: 2022-05-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111_3-2022_05_17-2022_08_01-126.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111_3-2022_05_17-2022_08_01-134.html"
 text: pdf
 ---
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **1**
 
-1.10. 24 - 126 § 4. <sup>1</sup> Die EUL berät und beschliesst anhand einer Traktandenliste.
+1.10. 26 - 134 § 4. <sup>1</sup> Die EUL berät und beschliesst anhand einer Traktandenliste.
 
 **Traktandierung**
 
@@ -83,23 +82,29 @@ beschliesst:
 
 <sup>4</sup> Die Stimmabgabe kann weder vorgängig erfolgen noch an eine Sitzungsteilnehmerin oder einen Sitzungsteilnehmer delegiert werden.
 
-[^5-1]: LS 415.111.2.
-
-#### § 6
-
 **Gäste**
 
-<sup>1</sup> Neben der Generalsekretärin oder dem Generalsekretär und der Präsidentin oder dem Präsidenten der Gleichstellungskommission lädt die EUL folgende ständige Gäste mit beratender Stimme zu ihren Sitzungen ein:
+§ 6.[^5-2] <sup>1</sup> Neben der Generalsekretärin oder dem Generalsekretär und der Präsidentin oder dem Präsidenten der Gleichstellungskommission lädt die EUL folgende ständige Gäste mit beratender Stimme zu ihren Sitzungen ein:
 
-- a. die Leiterin oder den Leiter von Recht und Datenschutz,
+- a. die Präsidentin oder den Präsidenten der Kommission für Inklusion,
 
-- b. die Leiterin oder den Leiter der Zentralen Informatik,
+- b. die Vertreterin oder den Vertreter der Professorenschaft im Universitätsrat nach § 47 Abs. 1 Ziff. 2 UniO[^5-3],
 
-- c. die Leiterin oder den Leiter Kommunikation,
+- c. die Stellvertreterin oder den Stellvertreter der Vertretung nach lit. b,
 
-- d. die Aktuarin oder den Aktuar.
+- d. die Leiterin oder den Leiter von Recht und Datenschutz,
+
+- e. die Leiterin oder den Leiter der Zentralen Informatik,
+
+- f. die Leiterin oder den Leiter Kommunikation,
+
+- g. die Aktuarin oder den Aktuar.
 
 <sup>2</sup> Sie kann für einzelne Geschäfte weitere Gäste einladen.
+
+[^5-1]: LS 415.111.2.
+[^5-2]: Fassung gemäss Beschluss der Erweiterten Universitätsleitung vom 23. Juni 2026 (OS 81, 420; ABl 2026-06-26). In Kraft seit 1. Oktober 2026. 1.10. 26 - 134 5
+[^5-3]: LS 415.111.
 
 #### § 7
 
@@ -127,7 +132,7 @@ beschliesst:
 
 § 10. Die EUL ist beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten Mitglieder anwesend ist.
 
-[^8-1]: Aufgehoben durch die Erweiterte Universitätsleitung mit Beschluss vom 25. Juni 2024 (OS 79, 287; ABl 2024-07-05). In Kraft seit 1. August 2024. 1.10. 24 - 126 5
+[^8-1]: Aufgehoben durch Beschluss der Erweiterten Universitätsleitung vom 25. Juni 2024 (OS 79, 287; ABl 2024-07-05). In Kraft seit 1. August 2024.
 
 #### § 11
 
@@ -149,19 +154,23 @@ beschliesst:
 
 <sup>2</sup> Die Beschlussfassung über die Erteilung der Venia Legendi sowie über Verleihung und Verlängerung der Titularprofessur und der weiteren vom Universitätsrat bezeichneten akademischen Titel erfolgt in der Regel im Zirkularverfahren.
 
+**3**
+
+1.10. 26 - 134
+
 <sup>3</sup> Der Beschluss kommt zustande, wenn keines der stimmberechtigten Mitglieder innerhalb der von der Rektorin oder dem Rektor angesetzten Frist mitteilt, dass es die Beratung des Geschäfts an einer Sitzung verlangt.
 
 <sup>4</sup> Die Frist nach Abs. 3 beträgt mindestens fünf Arbeitstage.
 
-**3**
-
-1.10. 24 - 126 § 13. Die Mitglieder der EUL treten in den Ausstand, wenn sie in der Sache persönlich befangen erscheinen. Es gilt § 5 a des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^12-1].
-
 [^12-1]: LS 175.2.
 
-#### § 14
+#### § 13
 
 **Ausstand**
+
+Die Mitglieder der EUL treten in den Ausstand, wenn sie in der Sache persönlich befangen erscheinen. Es gilt § 5 a des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^12-1].
+
+#### § 14
 
 **Informationsrecht**
 
