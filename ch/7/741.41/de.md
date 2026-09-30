@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Stras
 short: VTS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425"
 language: de
-version: 2026-07-01
+version: 2026-10-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20260701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de"
 
 (VTS)
 
-vom 19. Juni 1995 (Stand am 1. Juli 2026)
+vom 19. Juni 1995 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -974,7 +974,15 @@ Bei Fahrzeugen, die nicht neu sind (Art. 29 Abs. 5), wird der Nachweis über die
 
 <sup>1</sup> Die Zulassungsbehörde kann für neue Fahrzeuge mit einer Typengenehmigung, einem Datenblatt, einer EU-Übereinstimmungsbescheinigung in Papierform oder einem elektronischen Einzelfahrzeugdatensatz (Art. 72*b* VZV[^32-1]) das Ausfüllen des Prüfungsberichts und die Funktionskontrolle an Personen delegieren, die für eine einwandfreie Durchführung Gewähr bieten.[^32-2]
 
-<sup>2</sup> Diese Ermächtigung kann sich auf leichte Motorwagen, Anhänger mit einem Gesamtgewicht bis 3,50 t, Motorräder, Leicht‑, Klein- und dreirädrige Motorfahrzeuge erstrecken.
+<sup>2</sup>
+
+Diese Ermächtigung kann sich erstrecken auf:
+
+- a. leichte Motorwagen;
+- b. schwere Transportmotorwagen mit emissionsfreiem Antrieb, deren Gesamtgewicht höchstens 4,25 t beträgt und deren 3,50 t überschreitendes Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
+- c. Motorräder;
+- d. Leicht-, Klein- und dreirädrige Motorfahrzeuge;
+- e. Anhänger mit einem Gesamtgewicht bis 3,50 t.[^32-3]
 
 <sup>3</sup> Die Ermächtigung gilt nicht für Fahrzeuge, die von der typengenehmigten Ausführung abweichen.
 
@@ -982,6 +990,7 @@ Bei Fahrzeugen, die nicht neu sind (Art. 29 Abs. 5), wird der Nachweis über die
 
 [^32-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^32-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^32-3]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
 
 ### 2. Kapitel: Nachprüfungen
 
@@ -2663,18 +2672,20 @@ Von Absatz 1 ausgenommen sind:
 - a.[^99-2] Motorwagen der Feuerwehr, der Polizei, des Zolls, der Sanität und des Zivilschutzes;
 - b. Militärfahrzeuge;
 - c.[^99-3] Motorwagen, die eine öffentliche Dienstleistung erbringen und ausschliesslich innerorts verkehren;
-- d.[^99-4] Fahrzeuge der Klassen T und C mit einer bauartbedingten Höchstgeschwindigkeit bis 60 km/h.
+- d.[^99-4] Fahrzeuge der Klassen T und C mit einer bauartbedingten Höchstgeschwindigkeit bis 60 km/h;
+- e.[^99-5] Fahrzeuge der Klasse N<sub>2</sub> mit emissionsfreiem Antrieb, deren Gesamtgewicht höchstens 4,25 t beträgt und deren 3,50 t überschreitendes Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
 
-<sup>3</sup> Für Fahrzeuge der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> und N<sub>3</sub> richten sich die Regelgeschwindigkeiten nach der Richtlinie Nr. 92/6/EWG. Für Fahrzeuge der Klassen T und C richtet sich die Regelgeschwindigkeit nach der bauartbedingten Höchstgeschwindigkeit.[^99-5]
+<sup>3</sup> Für Fahrzeuge der Klassen M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> und N<sub>3</sub> richten sich die Regelgeschwindigkeiten nach der Richtlinie Nr. 92/6/EWG. Für Fahrzeuge der Klassen T und C richtet sich die Regelgeschwindigkeit nach der bauartbedingten Höchstgeschwindigkeit.[^99-6]
 
-<sup>4</sup> Geschwindigkeitsbegrenzungseinrichtungen und Anschlussteile müssen ständig mit den erforderlichen Plomben einer bewilligten Werkstätte versehen sein. Ein sichtbar an gut zugänglicher Stelle angebrachtes Schild muss auf die eingebaute Geschwindigkeitsbegrenzungseinrichtung hinweisen und mindestens das Typengenehmigungszeichen, die eingestellte Geschwindigkeit und das Datum der letzten Kalibrierung enthalten. Nach Arbeiten am Fahrzeug muss der Halter oder die Halterin sich vergewissern, dass die Plomben unverletzt sind.[^99-6]
+<sup>4</sup> Geschwindigkeitsbegrenzungseinrichtungen und Anschlussteile müssen ständig mit den erforderlichen Plomben einer bewilligten Werkstätte versehen sein. Ein sichtbar an gut zugänglicher Stelle angebrachtes Schild muss auf die eingebaute Geschwindigkeitsbegrenzungseinrichtung hinweisen und mindestens das Typengenehmigungszeichen, die eingestellte Geschwindigkeit und das Datum der letzten Kalibrierung enthalten. Nach Arbeiten am Fahrzeug muss der Halter oder die Halterin sich vergewissern, dass die Plomben unverletzt sind.[^99-7]
 
 [^99-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^99-2]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^99-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^99-4]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^99-5]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
-[^99-6]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^99-5]: Eingefügt durch Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
+[^99-6]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^99-7]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 99a
 
@@ -2696,7 +2707,7 @@ Zur Kontrolle der Arbeits- und Ruhezeit und zur Abklärung von Unfällen müssen
 
 - a. Fahrzeuge, deren Führer und Führerinnen der ARV 1[^100-2] unterstehen: mit einem digitalen Fahrtschreiber;
 - b. Fahrzeuge, deren Führer und Führerinnen der ARV 2[^100-3] unterstehen: mit einem analogen oder digitalen Fahrtschreiber;
-- c. andere schwere Motorwagen als nach Buchstabe a oder b mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h, ausgenommen Arbeitsmotorwagen, Wohnmotorwagen und schwere Personenwagen: mit einem Datenaufzeichnungsgerät oder einem analogen oder digitalen Fahrtschreiber;
+- c.[^100-4] andere schwere Motorwagen als nach Buchstabe a oder b mit einer bauartbedingten Höchstgeschwindigkeit über 40 km/h, ausgenommen Arbeitsmotorwagen, Wohnmotorwagen und schwere Personenwagen: mit einem Datenaufzeichnungsgerät, einem System zur ereignisbezogenen Datenaufzeichnung nach EU-Recht oder einem analogen oder digitalen Fahrtschreiber;
 - d. Kleinbusse mit mehr als 16 Sitzplätzen ausser dem Führersitz, die zum berufsmässigen Transport von Schülern und Schülerinnen verwendet werden, und Fahrzeuge, die für berufsmässige Fahrten nach Artikel 4 Absatz 1 Buchstabe c oder Absatz 4 ARV 2 verwendet werden: mit einem Datenaufzeichnungsgerät oder einem analogen oder digitalen Fahrtschreiber.
 
 <sup>2</sup> Digitale Fahrtschreiber müssen der Verordnung (EU) Nr. 165/2014 und Anhang I C der Durchführungsverordnung (EU) 2016/799 entsprechen (intelligenter Fahrtschreiber).
@@ -2712,6 +2723,7 @@ Zur Kontrolle der Arbeits- und Ruhezeit und zur Abklärung von Unfällen müssen
 [^100-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^100-2]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 [^100-3]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^100-4]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
 
 #### Art. 101
 
@@ -2887,12 +2899,14 @@ Von Absatz 4 ausgenommen sind:
 Von Absatz 2 ausgenommen sind:
 
 - a. Motorwagen, bei denen die Zulassungsbehörde im Einzelfall eine Ausnahme gestattet, weil das Anbringen von seitlichen Schutzvorrichtungen aus technischen oder betrieblichen Gründen nicht möglich ist;
-- b. Militärfahrzeuge.
+- b. Militärfahrzeuge;
+- c.[^104b-5] Fahrzeuge der Klasse N<sub>2</sub> mit emissionsfreiem Antrieb, deren Gesamtgewicht höchstens 4,25 t beträgt und deren 3,50 t überschreitendes Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
 
 [^104b-1]: Eingefügt durch Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 [^104b-2]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^104b-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^104b-4]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^104b-5]: Eingefügt durch Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
 
 #### Art. 104c
 
@@ -3368,7 +3382,7 @@ Für Motorwagen, deren Höchstgeschwindigkeit 10 km/h nicht überschreiten kann,
 
 <sup>3</sup> Gesellschaftswagen und Kleinbusse benötigen Notausstiege mit einer lichten Weite von mindestens 0,60 m auf 0,43 m. Die Anzahl (n) richtet sich nach folgender Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image1.png)Türen zählen ebenfalls als Notausstiege. Die Notausstiege sind deutlich zu kennzeichnen und möglichst gleichmässig auf beiden Fahrzeugseiten anzuordnen. Sie müssen sich rasch und leicht öffnen oder freimachen lassen. Erforderliche Werkzeuge sind gut sichtbar und griffbereit anzuordnen.[^123-3]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image1.png)Türen zählen ebenfalls als Notausstiege. Die Notausstiege sind deutlich zu kennzeichnen und möglichst gleichmässig auf beiden Fahrzeugseiten anzuordnen. Sie müssen sich rasch und leicht öffnen oder freimachen lassen. Erforderliche Werkzeuge sind gut sichtbar und griffbereit anzuordnen.[^123-3]
 
 <sup>4</sup> In Gesellschaftswagen muss eine Bordapotheke mit noch nicht überschrittenem Ablaufdatum nach der DIN -Norm 13164 vorhanden sein.[^123-4]
 
@@ -6369,7 +6383,7 @@ Anhang 4[^t-3]
 ### (Art. 117 Abs. 2 sowie 62 Abs. 2, 144 Abs. 7 und 195 Abs. 5)
 
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image2.png)</td><td>Das Zeichen weist schwarze Zahlen auf weissem Grund und einen roten Rand auf.Es darf retroreflektierend sein.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image2.png)</td><td>Das Zeichen weist schwarze Zahlen auf weissem Grund und einen roten Rand auf.Es darf retroreflektierend sein.</td></tr>
 </table>
 
 <table>
@@ -6387,7 +6401,7 @@ Anhang 4[^t-3]
 ### (Art. 92 Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image3.png)</td><td>Der Grund des Zeichens ist blau, das Symbol weiss. Seitenlänge des Quadrates 8 cm Höhe des Symbols 6,5 cm Breite des Symbols 6,5 cm Strichbreite 0,4 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image3.png)</td><td>Der Grund des Zeichens ist blau, das Symbol weiss. Seitenlänge des Quadrates 8 cm Höhe des Symbols 6,5 cm Breite des Symbols 6,5 cm Strichbreite 0,4 cm</td></tr>
 </table>
 
 ### 3 Zeichen für Fahrzeuge von Gehörlosen
@@ -6395,7 +6409,7 @@ Anhang 4[^t-3]
 ### (Art. 92 Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image4.png)</td><td>Der Grund des quadratischen Zeichens (Seitenlänge gleich 8 cm) ist blau, das Symbol weiss.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image4.png)</td><td>Der Grund des quadratischen Zeichens (Seitenlänge gleich 8 cm) ist blau, das Symbol weiss.</td></tr>
 </table>
 
 ### 4 Schweizerisches Landeszeichen
@@ -6405,7 +6419,7 @@ Anhang 4[^t-3]
 Das Landeszeichen setzt sich aus den zwei lateinischen grossen Buchstaben «CH» zusammen. Sie müssen schwarz auf einer elliptischen weissen Fläche angebracht sein, deren Hauptachse waagrecht liegt.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image5.png)</td><td>Mindestmasse: Höhe der Ellipse 11,5 cm Breite der Ellipse 17,5 cm Höhe der Buchstaben 8 cm Breite der Buchstaben 4 cm Strichbreite 1 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image5.png)</td><td>Mindestmasse: Höhe der Ellipse 11,5 cm Breite der Ellipse 17,5 cm Höhe der Buchstaben 8 cm Breite der Buchstaben 4 cm Strichbreite 1 cm</td></tr>
 </table>
 
 ### 5 Zeichen für Lernfahrzeuge
@@ -6415,7 +6429,7 @@ Das Landeszeichen setzt sich aus den zwei lateinischen grossen Buchstaben «CH»
 Die quadratförmige Tafel ist möglichst senkrecht und gut sichtbar an der Rückseite des Fahrzeuges zu befestigen. Der Grund der Tafel ist von blauer, das «L» von weisser Farbe.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image6.png)</td><td></td><td colspan="2">Masse der L-Tafel für:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image6.png)</td><td></td><td colspan="2">Masse der L-Tafel für:</td></tr>
 <tr><td></td><td></td><td>vierrädrige Fahrzeuge</td><td>zwei- u. dreirädrige Fzge sowie Klein- u. Leichtmotorfzge.</td></tr>
 <tr><td></td><td>Seitenlänge des Quadrates Höhe des «L» Länge des waagrechten «L»-Striches Strichbreite des «L»</td><td>16,0 cm 10,0 cm 6,0 cm 2,0 cm</td><td>12,0 cm 8,0 cm 5,0 cm 1,5 cm</td></tr>
 </table>
@@ -6426,14 +6440,14 @@ Die quadratförmige Tafel ist möglichst senkrecht und gut sichtbar an der Rück
 
 Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müssen aus retroreflektierendem Material sein.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image7.png)
 
 ### 7 Zeichen für Schülertransporte
 
 ### (Art. 123*a* Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image8.png)</td><td>Der Grund der quadratischen Tafel mit abgerundeten Ecken ist hellgelb (selektivgelb) oder gelb (orangenfarbig), das Symbol und der Rand sind schwarz. Das Symbol hat demjenigen des Gefahrensignals 1.23 zu entsprechen. Seitenlänge 40 cm Randbreite 2 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image8.png)</td><td>Der Grund der quadratischen Tafel mit abgerundeten Ecken ist hellgelb (selektivgelb) oder gelb (orangenfarbig), das Symbol und der Rand sind schwarz. Das Symbol hat demjenigen des Gefahrensignals 1.23 zu entsprechen. Seitenlänge 40 cm Randbreite 2 cm</td></tr>
 </table>
 
 ### 7*a* Beispiele für Hinweisschilder betreffend Gurtentragpflicht
@@ -6441,7 +6455,7 @@ Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müsse
 ### (Art. 3*a* Abs. 3 VRV)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image10.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image10.png)</td></tr>
 <tr><td colspan="2">Die Symbole sind weiss, der Grund blau**.**</td></tr>
 </table>
 
@@ -6451,19 +6465,19 @@ Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müsse
 
 Anordnung I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image11.png)
 
 Anordnung II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image12.png)
 
 Anordnung III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image13.png)
 
 Anordnung IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image14.png)
 
 ### 9 Hintere Markierungstafeln für Anhänger und Sattelanhänger
 
@@ -6471,25 +6485,25 @@ Anordnung IV
 
 Anordnung I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image15.png)
 
 Anordnung II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image16.png)
 
 Anordnung III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image17.png)
 
 Anordnung IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image18.png)
 
 ### 10 Heckmarkierungstafel für Fahrzeuge mit einer Höchstgeschwindigkeit bis 45 km/h
 
 ### (Art. 68 Abs. 4)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image19.png)
 
 (1) rotes retroreflektierendes Material oder prismatische Rückstrahler (Klasse 1 und Klasse 2)
 
@@ -6522,7 +6536,7 @@ Können bei besonderen Fahrzeugen, namentlich bei Arbeitsfahrzeugen, wegen ihrer
 Das Zeichen ist möglichst senkrecht und gut sichtbar an der Vorder- und Rückseite des Fahrzeugs resp. der Fahrzeugkombination zu befestigen. Der Grund des quadratischen Zeichens ist rot, das «S» gelb. Die Mindestmasse betragen:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image20.png)</td><td>Seitenlänge: Höhe des «S»: Breite des «S»: Strichbreite des «S»:</td><td>25 cm <sup>2</sup>/<sub>3</sub> Seitenlänge <sup>1</sup>/<sub>2</sub> Seitenlänge <sup>1</sup>/<sub>10</sub> Seitenlänge</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image20.png)</td><td>Seitenlänge: Höhe des «S»: Breite des «S»: Strichbreite des «S»:</td><td>25 cm <sup>2</sup>/<sub>3</sub> Seitenlänge <sup>1</sup>/<sub>2</sub> Seitenlänge <sup>1</sup>/<sub>10</sub> Seitenlänge</td></tr>
 </table>
 
 [^annex4-lvlu1-lvl11-1]: [SR 741.631](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8693)
@@ -6712,7 +6726,7 @@ Abbildung 1
 
 **Messanordnung für die Vorbeifahrtmessung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image21.png)
 
 ### 34 Messanordnung
 
@@ -6747,7 +6761,7 @@ Abbildung 1
 - 351\.212 Leichte Motorwagen mit einem Getriebe, das mehr als vier Abstufungen (Vorwärtsfahrmöglichkeiten) aufweist, werden nacheinander in der zweiten und dritten Abstufung geprüft. Dabei sind lediglich diejenigen Gesamtübersetzungsverhältnisse zu berücksichtigen, die für normalen Strassenbetrieb bestimmt sind. Aus den beiden ermittelten Schallpegeln wird das arithmetische Mittel gebildet.
 - 351\.213 Schwere Motorwagen, bei denen die Anzahl Abstufungen (Vorwärtsfahrmöglichkeiten) X beträgt (einschliesslich derjenigen Abstufungen, die durch ein Zusatzgetriebe oder durch eine Achse mit mehreren Überset-
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image22.png)
 
 - nächsten darüber gelegene Abstufung für die erste Messung zu wählen). Massgebend ist der dabei gemessene höchste Schallpegel.
 - 351\.214 Bei leichten Motorwagen sind allfällig vorhandene Geländegänge (Ziff. 351.215) weder für die Bestimmung der Anzahl Abstufungen noch für die Wahl der Abstufung für die Prüfung zu berücksichtigen. Bei schweren Motorwagen sind Abstufungen, die nur mit eingeschaltetem Zusatzantrieb (Ziff. 333) eingelegt werden können oder die diesen automatisch einschalten, für die Prüfung nicht zu berücksichtigen.
@@ -6819,7 +6833,7 @@ Abbildung 2
 
 **Messanordnung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image23.png)
 
 - 422 Betriebszustand
 - 422\.1 Die Geräuschmessung ist, ausgenommen bei Fahrzeugen nach Ziffer 422.2, bei Dreiviertel der stabilisierten höchsten Drehzahl der grössten Motornutzleistung durchzuführen. Ist die Messung technisch nicht möglich, ist bei der noch stabilisierbaren Drehzahl zu messen, die der vorgeschriebenen Drehzahl am nächsten liegt.
@@ -6856,7 +6870,7 @@ Abbildung 6
 
 **Messanordnung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image24.png)
 
 - 442 Betriebszustand
 - 442\.1 Die Druckluftanlage muss vor jeder Messung auf den höchsten Betriebsdruck gebracht werden; die Messung erfolgt bei abgestelltem Motor.
@@ -6955,7 +6969,7 @@ Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Verordnu
 
 Die Wirksamkeit der Bremsen kann insbesondere auch anlässlich der Nachprüfung über die Abbremsung nach dem folgenden Verfahren ermittelt werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image25.png)
 
 ### 21 Fahrzeuge der Klassen M, N, T und C
 
@@ -7094,7 +7108,7 @@ Die Bremsprüfungen nach den Ziffern 211, 212 und 214 sind mit ausgekuppeltem Mo
 - 311\.1 Die Bremsverzögerung muss vom leeren und vom beladenen Fahrzeug auf ebener Strasse mit trockenem Hartbelag erreicht werden. Die Bremswirkung muss bei kalten Bremsen (Temperatur an den Bremstrommeln oder Bremsscheiben unter 100 °C) erreicht werden. Gemessen wird die mittlere Verzögerung, die definiert ist als die durchschnittliche Geschwindigkeitsminderung in m/s<sup>2</sup> auf der Strecke, die vom Beginn der Betätigung der Bremsanlage (inklusive der Ansprech- und Schwellzeit) bis zum Stillstand des Fahrzeuges zurückgelegt wird. Kann mit einem Messgerät nur die maximale Verzögerung ermittelt werden, so muss sie mindestens 20 Prozent höher sein als die vorgeschriebene mittlere Verzögerung.
 - Die Wirksamkeit der Bremsen kann, insbesondere anlässlich der Nachprüfung, über die Abbremsung nach dem folgenden Verfahren ermittelt werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image26.png)
 
 - 311\.2 Prüfgeschwindigkeit
 - Die Prüfgeschwindigkeit für die Prüfung der Betriebsbremse beträgt 50 km/h und für die Prüfung der Hilfsbremse 30 km/h. Erreicht ein Fahrzeug diese Geschwindigkeiten nicht, so ist es bei der möglichen Höchstgeschwindigkeit zu prüfen.
@@ -7419,7 +7433,7 @@ Die Grundfläche eines Stehplatzes muss mindestens 0,125 m<sup>2</sup> betragen.
 
 - 341 Die Gesamtzahl der Plätze (N) ist wie folgt zu berechnen:
 
-<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image27.png)
+<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image27.png)
 
 - 342 N = Gesamtanzahl der Plätze
   - [tab] A = Anzahl Sitzplätze
@@ -7634,31 +7648,31 @@ Anhang 10[^t-9]
 Anordnung I
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image28.png)</td><td>Nur für Fahrzeuge bis 4 m Länge zulässig, die nicht den Klassen M oder N angehören.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image28.png)</td><td>Nur für Fahrzeuge bis 4 m Länge zulässig, die nicht den Klassen M oder N angehören.</td></tr>
 </table>
 
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image29.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image29.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig</td></tr>
 </table>
 
 Anordnung III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image30.png)</td><td>Nur für Fahrzeuge zulässig, die nicht den Klassen M oder N angehören. Distanz der Blinker vom vorderen Fahrzeugrand höchstens 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image30.png)</td><td>Nur für Fahrzeuge zulässig, die nicht den Klassen M oder N angehören. Distanz der Blinker vom vorderen Fahrzeugrand höchstens 1,80 m</td></tr>
 </table>
 
 Anordnung IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image31.png)</td><td>Für alle Fahrzeuge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image31.png)</td><td>Für alle Fahrzeuge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m</td></tr>
 </table>
 
 Anordnung V
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image32.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m. Die leuchtende Fläche der mitblinkenden seitlichen Markierlichter muss mindestens je 12,5 cm<sup>2</sup> betragen.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image32.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m. Die leuchtende Fläche der mitblinkenden seitlichen Markierlichter muss mindestens je 12,5 cm<sup>2</sup> betragen.</td></tr>
 </table>
 
 ### 52 Motorräder
@@ -7668,13 +7682,13 @@ Anordnung I …
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image33.png)</td><td>Minimalabstand zwischen den Blinkern vorne 24 cm hinten 18 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image33.png)</td><td>Minimalabstand zwischen den Blinkern vorne 24 cm hinten 18 cm</td></tr>
 </table>
 
 ### 53 Motorräder mit Seitenwagen
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image34.png)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image34.png)</td><td></td></tr>
 </table>
 
 ### 54 Land- und forstwirtschaftliche Traktoren
@@ -7682,25 +7696,25 @@ Anordnung II
 Anordnung I
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image35.png)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image35.png)</td><td></td></tr>
 </table>
 
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image36.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image36.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 1,80 m</td></tr>
 </table>
 
 Anordnung III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image37.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 2,60 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image37.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 2,60 m</td></tr>
 </table>
 
 Anordnung IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image38.png)</td><td>Der Wert von 10° für die Sichtbarkeit der vorderen Richtungsblinker nach innen kann bei Fahrzeugen mit einer Breite über alles von nicht mehr als 1,40 m auf 3° verringert werden.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image38.png)</td><td>Der Wert von 10° für die Sichtbarkeit der vorderen Richtungsblinker nach innen kann bei Fahrzeugen mit einer Breite über alles von nicht mehr als 1,40 m auf 3° verringert werden.</td></tr>
 </table>
 
 Kategorien der Richtungsblinker:
@@ -7712,7 +7726,7 @@ Kategorien der Richtungsblinker:
 ### 55 Anhänger
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image39.png)</td><td>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image39.png)</td><td>.</td></tr>
 </table>
 
 ### 6 Sichtwinkel für Stand‑, Schluss‑, Brems‑, Markier‑, Park- und Nebelschlusslichter
@@ -7722,25 +7736,25 @@ Kategorien der Richtungsblinker:
 
 ### 63 Für Stand- und Schlusslichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image40.png)
 
 - Bei Fahrzeugen der Klassen M<sub>1</sub> und N<sub>1</sub> können die horizontalen Sichtwinkel nach aussen auf 45° reduziert werden, wenn vorne bzw. hinten ergänzende seitliche Markierlichter mit einer Leuchtfläche von mindestens je 12,5 cm<sup>2</sup> angebracht sind. Bei Anhängern muss der innere Sichtwinkel mindestens 5° betragen
 
 ### 64 Für Bremslichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image41.png)
 
 ### 65 Für das zusätzliche Bremslicht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image42.png)
 
 ### 66 Für Parklichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image43.png)
 
 ### 67 Für Nebelschlusslichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image44.png)
 
 ### 7 Einstellung
 
@@ -7751,7 +7765,7 @@ Kategorien der Richtungsblinker:
 - 713 Die Horizontallinie der Kontrollwand muss sich auf gleicher Höhe über dem Boden, die Vertikallinie in gleichem seitlichem Abstand von der Fahrzeuglängsachse befinden wie der Glühfaden des zu prüfenden Lichtes.
 - 714 Bei Fahrzeugen, deren Anbau der Beleuchtungseinrichtungen nach anerkannten internationalen Vorschriften genehmigt ist, richtet sich die Einstellung nach diesen Vorschriften.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/de/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/de/xml/image/image45.png)
 
 ### 72 Fernlichter
 

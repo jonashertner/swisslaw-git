@@ -4,11 +4,11 @@ title: Ordinanza del 19 giugno 1995 concernente le esigenze tecniche per i veico
 short: OETV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425"
 language: it
-version: 2026-07-01
+version: 2026-10-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20260701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it"
 
 (OETV)
 
-del 19 giugno 1995 (Stato 1° luglio 2026)
+del 19 giugno 1995 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -126,7 +126,7 @@ Per i testi legislativi sono impiegate le abbreviazioni seguenti:[^3-16]
 - w.[^3-46] …
 - x.[^3-47] EN norma europea del Comitato europeo di normazione (CEN).
 
-<sup>4 e <sup>5</sup></sup> …[^3-48]
+<sup>4–5</sup> …[^3-48]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^3-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
@@ -989,7 +989,15 @@ Per i veicoli non nuovi (art. 29 cpv. 5), la prova di conformità alle prescrizi
 
 <sup>1</sup> Per i veicoli nuovi provvisti di un’approvazione del tipo, una scheda tecnica, un certificato di conformità UE in formato cartaceo o un set di dati elettronico del singolo veicolo (art. 72*b* OAC[^32-1]), l’autorità d’immatricolazione può delegare la compilazione del rapporto di perizia e il controllo di funzionamento a persone che ne garantiscono l’esecuzione a regola d’arte.[^32-2]
 
-<sup>2</sup> Questa delega può estendersi agli autoveicoli leggeri, ai rimorchi con un peso totale fino a 3,50 t, ai motoveicoli, ai quadricicli leggeri a motore, ai quadricicli a motore e ai tricicli a motore.
+<sup>2</sup>
+
+Questa delega può estendersi:
+
+- a. agli autoveicoli leggeri;
+- b. agli autoveicoli di trasporto pesanti a emissioni zero il cui peso totale è al massimo di 4,25 t e nei quali l’eccedenza rispetto a 3,50 t è dovuta unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero;
+- c. ai motoveicoli;
+- d. ai quadricicli leggeri a motore, ai quadricicli a motore e ai tricicli a motore;
+- e. ai rimorchi con un peso totale fino a 3,50 t.[^32-3]
 
 <sup>3</sup> La delega non si applica ai veicoli che divergono dalla versione omologata.
 
@@ -997,6 +1005,7 @@ Per i veicoli non nuovi (art. 29 cpv. 5), la prova di conformità alle prescrizi
 
 [^32-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^32-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^32-3]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
 
 ### Capitolo 2: Esami successivi
 
@@ -2051,7 +2060,7 @@ Le porte di accesso ai compartimenti occupati da persone durante la corsa devono
 
 <sup>3</sup> Le porte sulla parete posteriore devono essere munite di un dispositivo di sicurezza che, in caso di apertura involontaria, eviti che sporgano dalle parti esterne fisse del veicolo. Sono eccettuate le porte che, per il carico e lo scarico, possono venirsi a trovare a contatto con la parte laterale esterna del veicolo ed essere bloccate in questa posizione. Le porte di compartimenti adibiti al trasporto di persone devono potersi aprire dall’interno, eccettuato per i veicoli adibiti ai trasporti di polizia.[^71-5]
 
-<sup>4 e <sup>5</sup></sup> …[^71-6]
+<sup>4–5</sup> …[^71-6]
 
 [^71-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^71-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -2688,18 +2697,20 @@ Il capoverso 1 non si applica:
 - a.[^99-2] agli autoveicoli del servizio antincendio, della polizia, del servizio doganale, del servizio sanitario e della protezione civile;
 - b. ai veicoli militari;
 - c.[^99-3] agli autoveicoli che forniscono una prestazione di servizio pubblica e circolano esclusivamente all’interno delle località;
-- d.[^99-4] ai veicoli delle categorie T e C aventi una velocità massima per costruzione fino a 60 km/h.
+- d.[^99-4] ai veicoli delle categorie T e C aventi una velocità massima per costruzione fino a 60 km/h;
+- e.[^99-5] ai veicoli a emissioni zero della categoria N<sub>2</sub> il cui peso totale è al massimo di 4,25 t e nei quali l’eccedenza rispetto a 3,50 t è dovuta unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
 
-<sup>3</sup> Per i veicoli delle categorie M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> e N<sub>3</sub> le velocità regolate si fondano sulla direttiva n. 92/6/CEE. Per i veicoli delle categorie T e C la velocità regolata si basa sulla velocità massima per costruzione.[^99-5]
+<sup>3</sup> Per i veicoli delle categorie M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> e N<sub>3</sub> le velocità regolate si fondano sulla direttiva n. 92/6/CEE. Per i veicoli delle categorie T e C la velocità regolata si basa sulla velocità massima per costruzione.[^99-6]
 
-<sup>4</sup> I dispositivi di limitazione della velocità e i relativi raccordi devono sempre essere muniti dei sigilli di un’officina autorizzata. Una targhetta visibile e fissata in un punto facilmente accessibile deve indicare la presenza del dispositivo di limitazione della velocità, riportando almeno il marchio di omologazione, la velocità impostata e la data dell’ultima calibrazione. Dopo l’esecuzione di lavori sul veicolo, il detentore deve assicurarsi che i sigilli siano intatti.[^99-6]
+<sup>4</sup> I dispositivi di limitazione della velocità e i relativi raccordi devono sempre essere muniti dei sigilli di un’officina autorizzata. Una targhetta visibile e fissata in un punto facilmente accessibile deve indicare la presenza del dispositivo di limitazione della velocità, riportando almeno il marchio di omologazione, la velocità impostata e la data dell’ultima calibrazione. Dopo l’esecuzione di lavori sul veicolo, il detentore deve assicurarsi che i sigilli siano intatti.[^99-7]
 
 [^99-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^99-2]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^99-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^99-4]: Introdotta dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^99-5]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
-[^99-6]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^99-5]: Introdotta dalla cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
+[^99-6]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
+[^99-7]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 #### Art. 99a
 
@@ -2721,7 +2732,7 @@ Per permettere di controllare la durata del lavoro e del riposo o di accertare l
 
 - a. di un tachigrafo digitale i veicoli i cui conducenti sottostanno all’OLR 1[^100-2];
 - b. di un tachigrafo analogico o digitale i veicoli i cui conducenti sottostanno all’OLR 2[^100-3];
-- c. di un apparecchio per la registrazione dei dati oppure di un tachigrafo analogico o digitale gli altri autoveicoli pesanti che non rientrano nel campo d’applicazione della lettera a o b aventi una velocità massima per costruzione superiore a 40 km/h, ad eccezione degli autoveicoli di lavoro, degli autoveicoli adibiti ad abitazione e delle automobili pesanti;
+- c.[^100-4] di un apparecchio per la registrazione dei dati, di un sistema di registrazione dei dati di eventi secondo il diritto UE oppure di un tachigrafo analogico o digitale gli altri autoveicoli pesanti che non rientrano nel campo d’applicazione della lettera a o b aventi una velocità massima per costruzione superiore a 40 km/h, ad eccezione degli autoveicoli di lavoro, degli autoveicoli adibiti ad abitazione e delle automobili pesanti;
 - d. di un apparecchio per la registrazione dei dati oppure di un tachigrafo analogico o digitale i minibus aventi più di 16 posti a sedere, oltre a quello del conducente, adibiti al trasporto professionale di scolari e i veicoli usati per corse professionali secondo l’articolo 4 capoverso 1 lettera c oppure capoverso 4 OLR 2.
 
 <sup>2</sup> I tachigrafi digitali devono essere conformi al regolamento (UE) n. 165/2014 e all’allegato I C del regolamento di esecuzione (UE) n. 2016/799 (tachigrafo intelligente).
@@ -2737,6 +2748,7 @@ Per permettere di controllare la durata del lavoro e del riposo o di accertare l
 [^100-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^100-2]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 [^100-3]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^100-4]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
 
 #### Art. 101
 
@@ -2914,12 +2926,14 @@ Il capoverso 4 non si applica a:
 Il capoverso 2 non si applica:
 
 - a. agli autoveicoli cui, nel singolo caso, l’autorità di immatricolazione ha concesso un’eccezione poiché l’applicazione di protezioni laterali non è possibile per motivi tecnici e di uso;
-- b. ai veicoli militari.
+- b. ai veicoli militari;
+- c.[^104b-5] ai veicoli a emissioni zero della categoria N<sub>2</sub> il cui peso totale è al massimo di 4,25 t e nei quali l’eccedenza rispetto a 3,50 t è dovuta unicamente al peso aggiuntivo del sistema di propulsione a emissioni zero.
 
 [^104b-1]: Introdotto dalla cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 [^104b-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^104b-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^104b-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^104b-5]: Introdotta dalla cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 454](https://fedlex.data.admin.ch/eli/oc/2026/454)).
 
 #### Art. 104c
 
@@ -3399,7 +3413,7 @@ Oltre alle agevolazioni di cui negli articoli 118, 119 e 120, per gli autoveicol
 
 <sup>3</sup> Gli autobus e i minibus devono essere muniti di un’uscita di sicurezza dalle dimensioni utili di almeno 0,60 × 0,43 m. Il numero (n) si determina in base alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image1.png)
 
 Le porte sono assimilate alle uscite di sicurezza. Le uscite di sicurezza devono essere indicate in modo chiaro ed essere ripartite il più regolarmente possibile sui due lati del veicolo. Esse devono potersi aprire o liberare facilmente e rapidamente; gli strumenti necessari a tale scopo devono essere ben visibili e a portata di mano.[^123-3]
 
@@ -4562,7 +4576,7 @@ Sono inoltre autorizzati i seguenti dispositivi d’illuminazione:
 
 <sup>1</sup> Il veicolo deve essere munito esternamente a sinistra di uno specchio retrovisore con una superficie minima di 50 cm<sup>2</sup>.
 
-<sup>2</sup> ...[^179b-1]
+<sup>2</sup> …[^179b-1]
 
 [^179b-1]: Abrogato dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
@@ -4603,15 +4617,15 @@ Gli indicatori di direzione lampeggianti dei ciclomotori leggeri con carrozzeria
 
 #### Art. 181
 
-<sup>1</sup> ...[^181-1]
+<sup>1</sup> …[^181-1]
 
 <sup>2</sup> Le luci sulle sedie a rotelle con un dispositivo di propulsione elettrica e una velocità massima di 10 km/h possono essere amovibili. Devono essere apposte sul veicolo se, in loro assenza, quest’ultimo non potrebbe essere scorto per tempo dagli altri utenti della strada.
 
-<sup>3 e <sup>4</sup></sup> ...[^181-2]
+<sup>3–<sup>4</sup></sup> …[^181-2]
 
 <sup>5</sup> Le sedie a rotelle con propulsione elettrica e una velocità massima per costruzione di 10 km/h possono essere a due posti. Se la velocità massima per costruzione è superiore a 10 km/h è ammesso soltanto un posto.[^181-3]
 
-<sup>6</sup> ...[^181-4]
+<sup>6</sup> …[^181-4]
 
 [^181-1]: Abrogato dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^181-2]: Abrogati dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
@@ -4639,7 +4653,7 @@ Il freno di servizio può consistere in:
 
 <sup>3</sup> Il freno ausiliario di cui al capoverso 2 lettera b può essere utilizzato come freno di stazionamento. Il dispositivo di sostegno può fungere da freno di stazionamento se è in grado di impedire che il veicolo carico si metta improvvisamente in moto su una salita o una discesa con una pendenza fino al 12 per cento. Per i veicoli a una sola ruota è sufficiente un altro sostegno appropriato, purché soddisfi le stesse condizioni.
 
-<sup>4 e <sup>5</sup></sup> ...[^181a-1]
+<sup>4–5</sup> …[^181a-1]
 
 [^181a-1]: Abrogati dalla cifra I dell’O del 13 dic. 2024, con effetto dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 
@@ -5058,7 +5072,7 @@ La targa, se non può essere apposta posteriormente, deve essere applicata later
 
 **Agganciamento di sicurezza[^203-1]**
 
-<sup>1 e <sup>2</sup></sup> … [^203-2]
+<sup>1–2</sup> … [^203-2]
 
 <sup>3</sup> Per i rimorchi di lavoro trainati da veicoli trattori la cui velocità massima non supera 30 km/h non è necessario un agganciamento di sicurezza conformemente all’articolo 189 capoverso 5.
 
@@ -6414,7 +6428,7 @@ Allegato 4[^t-3]
 ### (art. 117 cpv. 2, 62 cpv. 2, 144 cpv. 7 e 195 cpv. 5)
 
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image2.png)</td><td>Il disco è provvisto di cifre nere su fondo bianco e di un bordo rosso. Può essere retroriflettente.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image2.png)</td><td>Il disco è provvisto di cifre nere su fondo bianco e di un bordo rosso. Può essere retroriflettente.</td></tr>
 </table>
 
 <table>
@@ -6432,7 +6446,7 @@ Allegato 4[^t-3]
 ### (art. 92 cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image3.png)</td><td>Il fondo è di colore blu, il simbolo è bianco Lato del quadrato 8 cm Altezza del simbolo 6,5 cm Larghezza del simbolo 6,5 cm Larghezza del tratto 0,4 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image3.png)</td><td>Il fondo è di colore blu, il simbolo è bianco Lato del quadrato 8 cm Altezza del simbolo 6,5 cm Larghezza del simbolo 6,5 cm Larghezza del tratto 0,4 cm</td></tr>
 </table>
 
 ### 3 Segnale per veicoli degli audiolesi
@@ -6440,7 +6454,7 @@ Allegato 4[^t-3]
 ### (art. 92 cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image4.png)</td><td>Il fondo del segnale quadrato (lunghezza del lato = 8 cm) è blu, il simbolo è bianco.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image4.png)</td><td>Il fondo del segnale quadrato (lunghezza del lato = 8 cm) è blu, il simbolo è bianco.</td></tr>
 </table>
 
 ### 4 Sigla distintiva di nazionalità svizzera
@@ -6450,7 +6464,7 @@ Allegato 4[^t-3]
 La sigla di nazionalità è composta da due grandi lettere latine «CH». Le lettere, di colore nero, devono essere applicate su un fondo bianco di forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image5.png)</td><td>Dimensioni minime: Altezza dell’ellisse Larghezza dell’ellisse Altezza delle lettere Larghezza delle lettere Larghezza del tratto</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image5.png)</td><td>Dimensioni minime: Altezza dell’ellisse Larghezza dell’ellisse Altezza delle lettere Larghezza delle lettere Larghezza del tratto</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
 </table>
 
 ### 5 Contrassegno per veicoli a motore adibiti a corse di esercitazione
@@ -6460,7 +6474,7 @@ La sigla di nazionalità è composta da due grandi lettere latine «CH». Le let
 La targhetta quadrata deve essere applicata sul dietro del veicolo, il più verticalmente possibile e in maniera ben visibile. Il fondo della targhetta è blu, la lettera «L» è bianca.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image6.png)</td><td></td><td colspan="2">Dimensioni della targhetta «L» per:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image6.png)</td><td></td><td colspan="2">Dimensioni della targhetta «L» per:</td></tr>
 <tr><td></td><td></td><td>Veicoli a quattro ruote</td><td>Veicoli a motore a due ruote, tricicli a motore, quadricicli motore e quadricicli leggeri a motore</td></tr>
 <tr><td></td><td>Lato del quadrato</td><td>16,0 cm</td><td>12,0 cm</td></tr>
 <tr><td></td><td>Altezza della «L»</td><td>10,0 cm</td><td>8,0 cm</td></tr>
@@ -6474,14 +6488,14 @@ La targhetta quadrata deve essere applicata sul dietro del veicolo, il più vert
 
 La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di materia retroriflettente.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image7.png)
 
 ### 7 Segnali per trasporto di scolari
 
 ### (art. 123*a* cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image8.png)</td><td>Il fondo della targhetta quadrata con angoli arrotondati è giallo chiaro (giallo selettivo) o giallo (arancione), il simbolo e il bordo sono neri. Il simbolo deve corrispondere al segnale di pericolo 1.23. Lunghezza del lato 40 cm Larghezza del bordo 2 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image8.png)</td><td>Il fondo della targhetta quadrata con angoli arrotondati è giallo chiaro (giallo selettivo) o giallo (arancione), il simbolo e il bordo sono neri. Il simbolo deve corrispondere al segnale di pericolo 1.23. Lunghezza del lato 40 cm Larghezza del bordo 2 cm</td></tr>
 </table>
 
 ### 7*a* Esempi di cartelli d’indicazione concernenti l’obbligo di allacciarsi la cintura di sicurezza
@@ -6489,7 +6503,7 @@ La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di
 ### (art. 3*a* cpv. 3 ONC)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image10.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image10.png)</td></tr>
 <tr><td colspan="2">I simboli sono di colore bianco, il fondo è blu.</td></tr>
 </table>
 
@@ -6499,19 +6513,19 @@ La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di
 
 Disposizione I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image11.png)
 
 Disposizione II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image12.png)
 
 Disposizione III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image13.png)
 
 Disposizione IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image14.png)
 
 ### 9 Tavole posteriori di demarcazione per rimorchi e semirimorchi
 
@@ -6519,25 +6533,25 @@ Disposizione IV
 
 Disposizione I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image15.png)
 
 Disposizione II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image16.png)
 
 Disposizione III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image17.png)
 
 Disposizione IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image18.png)
 
 ### 10 Cartello di demarcazione posteriore per veicoli con una velocità massima di 45 km/h
 
 ### (art. 68 cpv. 4)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image19.png)
 
 (1) materiale rosso retroriflettente o catarifrangente a forma di prisma (classe 1 e classe 2)
 
@@ -6570,7 +6584,7 @@ Se, per ragioni tecniche o di uso, i cartelli di demarcazione posteriore non pos
 Il segnale deve essere applicato sul davanti e sul dietro del veicolo o della combinazione di veicoli, il più verticalmente possibile e in maniera ben visibile. Il fondo del segnale quadrato è rosso, la lettera «S» è gialla. Le dimensioni minime sono:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image20.png)</td><td>Lato del quadrato: Altezza della «S»: Larghezza della «S»: Larghezza del tratto:</td><td>25 cm <sup>2</sup>/<sub>3</sub> del lato <sup>1</sup>/<sub>2</sub> del lato <sup>1</sup>/<sub>10</sub> del lato</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image20.png)</td><td>Lato del quadrato: Altezza della «S»: Larghezza della «S»: Larghezza del tratto:</td><td>25 cm <sup>2</sup>/<sub>3</sub> del lato <sup>1</sup>/<sub>2</sub> del lato <sup>1</sup>/<sub>10</sub> del lato</td></tr>
 </table>
 
 [^annex4-lvlu1-lvl11-1]: [RS 741.631](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8693)
@@ -6760,7 +6774,7 @@ Figura 1
 
 Posizione del microfono per la misurazione del rumore con il veicolo in marcia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image21.png)
 
 ### 34 Posizione dei microfoni
 
@@ -6795,7 +6809,7 @@ Posizione del microfono per la misurazione del rumore con il veicolo in marcia
 - 351\.212 Gli autoveicoli leggeri con cambio di velocità che abbia più di quattro rapporti (tutte le possibilità di marcia avanti) sono controllati in successione sul secondo e terzo rapporto. Devono essere presi in considerazione soltanto i rapporti globali destinati a un’utilizzazione normale su strada. Si fa la media aritmetica dei due livelli sonori rilevati.
 - 351\.213 Gli autoveicoli pesanti, il cui numero totale di rapporti (tutte le possibilità di marcia avanti) è X (compresi i rapporti ottenuti per mezzo di un cambio ausiliario o di un asse con diversi rapporti) sono controllati in successione sui rapporti il cui rango è
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image22.png)
 
 - è scelto il rapporto immediatamente superiore). È determinante il livello sonoro massimo misurato.
 - 351\.214 Per gli autoveicoli leggeri non sono prese in considerazione le eventuali marce per l’uso fuoristrada (n. 351.215) né per la determinazione del numero dei rapporti né per la scelta di questi ultimi al momento del controllo. Per gli autoveicoli pesanti non sono presi in considerazione, al momento del controllo, i rapporti che non possono essere innestati senza usare la trasmissione ausiliaria o i rapporti che la inseriscono automaticamente (n. 333).
@@ -6869,7 +6883,7 @@ Figura 2
 
 **Disposizione per la misurazione**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image23.png)
 
 - 422 Condizioni di funzionamento
 - 422\.1 Ad eccezione dei veicoli di cui al numero 422.2, la misurazione del rumore è effettuata ai tre quarti del regime massimo stabilizzato al quale il motore sviluppa la potenza utile massima. Se è impossibile, tecnicamente, effettuare la misurazione, la si farà con il regime ancora stabilizzabile il più vicino al regime prescritto.
@@ -6906,7 +6920,7 @@ Figura 6
 
 **Disposizione per la misurazione**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image24.png)
 
 - 442 Condizioni di funzionamento
 - 442\.1 Prima di ogni misurazione, l’installazione ad aria compressa viene portata alla pressione di funzionamento massima; la misurazione del rumore è effettuata a motore spento.
@@ -7009,7 +7023,7 @@ Per quanto riguarda i veicoli della categoria M<sub>1</sub> adibiti a uno scopo 
 
 L’efficacia dei freni può anche essere controllata, in particolare in occasione del controllo successivo, determinando il tasso di frenata conformemente alla seguente formula:
 
-<sup>Tasso di frenata in % =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image25.png)<sup>× 100</sup>
+<sup>Tasso di frenata in % =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image25.png)<sup>× 100</sup>
 
 ### 21 Veicoli delle categorie M, N, T e C
 
@@ -7148,7 +7162,7 @@ I controlli dei freni secondo i numeri 211, 212 e 214 sono eseguiti con motore d
 - 311\.1 La decelerazione deve essere raggiunta sia con il veicolo vuoto sia con il veicolo carico su una strada piana e con rivestimento duro asciutto. L’efficacia di frenatura deve essere raggiunta con i freni freddi (temperatura non superiore a 100°C, misurata sui tamburi o sui dischi dei freni). Viene misurata la decelerazione media, definita come diminuzione media della velocità in m/s<sup>2</sup> sul tratto percorso tra il momento in cui è azionato il freno (inclusi i tempi di risposta e di incremento) e il momento in cui il veicolo è immobile. Se un apparecchio di misurazione permette di registrare soltanto la decelerazione massima, questa deve essere almeno del 20 per cento più alta della decelerazione media prescritta.
 - L’efficacia dei freni può essere controllata, in particolare in occasione del controllo successivo, determinando il tasso di frenata conformemente alla seguente formula:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image26.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image26.png)</sub>
 
 - 311\.2 Velocità di controllo
 - La velocità per il controllo dei freni di servizio ammonta a 50 km/h e per il controllo dei freni ausiliari a 30 km/h. Se un veicolo non raggiunge queste velocità, il controllo viene eseguito alla velocità massima raggiungibile.
@@ -7477,7 +7491,7 @@ La superficie di un posto in piedi deve essere di almeno 0,125 m<sup>2</sup>. Le
 
 - 341 Il numero totale dei posti (N) dev’essere calcolato come segue:
 
-<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image27.png)
+<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image27.png)
 
 - 342 N = numero totale dei posti
   - A = numero dei posti a sedere
@@ -7689,31 +7703,31 @@ Allegato 10[^t-9]
 Schema 1
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image28.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 4 m, che non appartengono alle categorie M o N.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image28.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 4 m, che non appartengono alle categorie M o N.</td></tr>
 </table>
 
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image29.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image29.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m</td></tr>
 </table>
 
 Schema III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image30.png)</td><td>Valido soltanto per i veicoli che non appartengono alle categorie M o N. Distanza tra gli indicatori di direzione lampeggianti e la parte frontale del veicolo: 1,80 m al massimo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image30.png)</td><td>Valido soltanto per i veicoli che non appartengono alle categorie M o N. Distanza tra gli indicatori di direzione lampeggianti e la parte frontale del veicolo: 1,80 m al massimo</td></tr>
 </table>
 
 Schema IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image31.png)</td><td>Valido per i veicoli di qualsiasi lunghezza. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image31.png)</td><td>Valido per i veicoli di qualsiasi lunghezza. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo</td></tr>
 </table>
 
 Schema V
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image32.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo. La superficie luminosa delle luci di ingombro laterali che lampeggiano insieme deve essere almeno di 12,5 cm<sup>2</sup>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image32.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo. La superficie luminosa delle luci di ingombro laterali che lampeggiano insieme deve essere almeno di 12,5 cm<sup>2</sup>.</td></tr>
 </table>
 
 ### 52 Motoveicoli
@@ -7725,13 +7739,13 @@ Schema I
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image33.png)</td><td>Distanza minima tra gli indicatori di direzione lampeggianti: davanti 24 cm dietro 18 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image33.png)</td><td>Distanza minima tra gli indicatori di direzione lampeggianti: davanti 24 cm dietro 18 cm</td></tr>
 </table>
 
 ### 53 Motoveicoli con carrozzino laterale
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image34.png)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image34.png)</td><td></td></tr>
 </table>
 
 ### 54 Trattori agricoli
@@ -7739,25 +7753,25 @@ Schema II
 Schema I
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image35.png)</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image35.png)</td><td></td></tr>
 </table>
 
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image36.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image36.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 1,80 m</td></tr>
 </table>
 
 Schema III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image37.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 2,60 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image37.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 2,60 m</td></tr>
 </table>
 
 Schema IV
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image38.png)</td><td>Il valore di 10° per la visibilità degli indicatori di direzione lampeggianti anteriori rivolti verso l’interno può essere ridotto a 3 per i veicoli con una larghezza non superiore ovunque a 1,40 m.</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image38.png)</td><td>Il valore di 10° per la visibilità degli indicatori di direzione lampeggianti anteriori rivolti verso l’interno può essere ridotto a 3 per i veicoli con una larghezza non superiore ovunque a 1,40 m.</td></tr>
 </table>
 
 Categorie di indicatori di direzione lampeggiante:
@@ -7769,7 +7783,7 @@ Categorie di indicatori di direzione lampeggiante:
 ### 55 Rimorchi
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image39.png)</td><td>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image39.png)</td><td>.</td></tr>
 </table>
 
 ### 6 Angolo di visibilità delle luci di posizione, delle luci di coda, delle luci di fermata, delle luci di ingombro e di parcheggio e dei fari fendinebbia di coda
@@ -7779,25 +7793,25 @@ Categorie di indicatori di direzione lampeggiante:
 
 ### 63 Per le luci di posizione e le luci di coda
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image40.png)
 
 - Per i veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> gli angoli di visibilità orizzontali possono essere ridotti a 45° verso l’esterno, se davanti risp. dietro sono montate luci di ingombro laterali supplementari con una superficie illuminante di almeno 12,5 cm<sup>2</sup>. Per i rimorchi l’angolo di visibilità interno deve essere pari ad almeno 5°.
 
 ### 64 Per le luci di fermata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image41.png)
 
 ### 65 Per le luci supplementari di fermata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image42.png)
 
 ### 66 Per le luci di parcheggio
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image43.png)
 
 ### 67 Per i fari fendinebbia di coda
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image44.png)
 
 ### 7 Regolazione
 
@@ -7808,7 +7822,7 @@ Categorie di indicatori di direzione lampeggiante:
 - 713 La linea orizzontale dello schermo deve avere dal suolo la medesima distanza del filamento del proiettore controllato; la linea verticale deve avere dall’asse longitudinale del veicolo la stessa distanza che il filamento.
 - 714 Per i veicoli il cui montaggio dei dispositivi d’illuminazione è approvato conformemente alle prescrizioni internazionali riconosciute, la regolazione si fonda sulle medesime prescrizioni.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260701/it/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20261001/it/xml/image/image45.png)
 
 ### 72 Fari di profondità
 
