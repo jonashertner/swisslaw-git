@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2026-06-12
+version: 2026-10-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261001/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 12. Juni 2026)
+vom 21. Dezember 1937 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -5825,16 +5825,11 @@ Wer als Organ einer Personalvorsorgeeinrichtung gesetzlich verpflichtet ist, Beg
 
 [^326quater-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
-### Verletzung der Pflichten zur Meldung der an Aktien oder Stammanteilen wirtschaftlich berechtigten Person
-
 #### Art. 327
 
 [^327-1]
 
-Wer vorsätzlich den Pflichten nach Artikel 697*j* Absätze 1–4 oder Artikel 790*a* Absätze 1–4 des Obligationenrechts (OR)[^327-2] zur Meldung der an den Aktien oder Stammanteilen wirtschaftlich berechtigten Person nicht nachkommt, wird mit Busse bestraft.
-
-[^327-1]: Fassung gemäss Ziff. I 2 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^327-1]: Aufgehoben durch Anhang Ziff. 3 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, mit Wirkung seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### Verletzung der gesellschaftsrechtlichen Pflichten zur Führung von Verzeichnissen
 
@@ -5844,14 +5839,16 @@ Wer vorsätzlich den Pflichten nach Artikel 697*j* Absätze 1–4 oder Artikel 7
 
 Mit Busse wird bestraft, wer vorsätzlich eines der folgenden Verzeichnisse nicht vorschriftsgemäss führt oder die damit verbundenen gesellschaftsrechtlichen Pflichten verletzt:
 
-- a. bei einer Aktiengesellschaft: das Aktienbuch nach Artikel 686 Absätze 1–3 und 5 OR[^327a-2] oder das Verzeichnis über die an Aktien wirtschaftlich berechtigten Personen nach Artikel 697*l* OR;
-- b. bei einer Gesellschaft mit beschränkter Haftung: das Anteilbuch nach Artikel 790 Absätze 1–3 und 5 OR oder das Verzeichnis der an Stammanteilen wirtschaftlich berechtigten Personen nach Artikel 790*a* Absatz 5 OR in Verbindung mit Artikel 697*l* OR;
+- a. bei einer Aktiengesellschaft: das Aktienbuch nach Artikel 686 Absätze 1–3 und 5 OR[^327a-2];
+- b. bei einer Gesellschaft mit beschränkter Haftung: das Anteilbuch nach Artikel 790 Absätze 1–3 und 5 OR;
 - c. bei einer Genossenschaft: das Verzeichnis der Genossenschafter nach Artikel 837 Absätze 1 und 2 OR;
-- d. bei einer Investmentgesellschaft mit variablem Kapital (Art. 36 des Kollektivanlagengesetzes vom 23. Juni 2006[^327a-3]): das Aktienbuch über die Unternehmeraktionärinnen und Unternehmeraktionäre oder das Verzeichnis der Personen, die an den Aktien der Unternehmeraktionärinnen und -aktionäre wirtschaftlich berechtigt sind, nach Artikel 46 Absatz 3 des Kollektivanlagengesetzes vom 23. Juni 2006.
+- d. bei einer Investmentgesellschaft mit variablem Kapital: das Aktienbuch über die Unternehmeraktionäre nach Artikel 46 Absatz 3 des Kollektivanlagengesetzes vom 23. Juni 2006[^327a-3];
+- e. bei einer Rechtseinheit des ausländischen Rechts mit tatsächlicher Verwaltung in der Schweiz: das Verzeichnis der Inhaber nach Artikel 18 des Bundesgesetzes vom 26. September 2025[^327a-4] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen.
 
-[^327a-1]: Eingefügt durch Ziff. I 2 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^327a-1]: Eingefügt durch Ziff. I 2 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Fassung gemäss Anhang Ziff. 3 des BG vom 26. Sept. 2025 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 [^327a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^327a-4]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 ### Verletzung gesetzlicher Pflichten von Vereinen
 

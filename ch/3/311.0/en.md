@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2026-06-12
+version: 2026-10-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261001/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261001-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Last amended on 12 June 2026)
+of 21 December 1937 (Last amended on 1 October 2026)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -295,7 +295,7 @@ Any person who carries out an act that carries a criminal penalty in order to sa
 
 #### Art. 20
 
-If there are serious grounds for believing that the accused may not be legally responsible due to a mental disorder, the investigating authority or the court shall order a specialist report from an expert.
+If there are serious grounds for believing that the defendant may not be legally responsible due to a mental disorder, the investigating authority or the court shall order a specialist report from an expert.
 
 ### Error as to unlawfulness
 
@@ -662,11 +662,11 @@ The court shall reduce the sentence if:
 
 Where a judgment must be justified, the court shall also specify the circumstances taken into account in determining the sentence and their weighting.
 
-### 5. Taking account of time spend on remand
+### 5. Taking account of time spent in detention pending judgment
 
 #### Art. 51
 
-When determining the sentence, the court shall take account of any time spent on remand that the offender has served in respect of the proceedings in question or any other proceedings. One day in detention corresponds to one daily penalty unit of a monetary penalty.[^51-1]
+When determining the sentence, the court shall take account of any time spent in detention pending judgment that the offender has served in respect of the proceedings in question or any other proceedings. One day in detention corresponds to one daily penalty unit of a monetary penalty.[^51-1]
 
 [^51-1]: Second sentence amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
@@ -743,14 +743,14 @@ In a case of common assault (Art. 123 no 2 para. 3–5), repeated acts of aggres
 - b.[^55a-4] the victim or, if they lack legal capacity, their legal representative requests this to be done; and
 - c.[^55a-5] suspension appears appropriate in order to stabilise or improve the victim’s situation.
 
-<sup>2</sup> The public prosecutor or the court may during the period of suspension require the accused to attend a course on violence prevention. The public prosecutor or the court shall notify the authority or organisation competent under cantonal law for matters relating to domestic violence about the measures taken.[^55a-6]
+<sup>2</sup> The public prosecutor or the court may during the period of suspension require the defendant to attend a course on violence prevention. The public prosecutor or the court shall notify the authority or organisation competent under cantonal law for matters relating to domestic violence about the measures taken.[^55a-6]
 
 <sup>3</sup>
 
 Suspension is not permitted if:
 
-- a. the accused has been convicted of a felony or misdemeanour against life and limb, against liberty, or against sexual integrity;
-- b. the accused has received a sentence or been made subject to a measure; and
+- a. the defendant has been convicted of a felony or misdemeanour against life and limb, against liberty, or against sexual integrity;
+- b. the defendant has received a sentence or been made subject to a measure; and
 - c. the victim of the offence is a person listed in paragraph 1 letter a.[^55a-7]
 
 <sup>4</sup> Suspension is limited to six months. The public prosecutor or the court shall resume the proceedings if the victim or, if they lack legal capacity, their legal representative requests this to be done or it transpires that the suspension has neither stabilised nor improved the victim’s situation.[^55a-8]
@@ -1479,7 +1479,7 @@ If the offender has used a motor vehicle in order to commit a felony or misdemea
 
 <sup>4</sup> The court decides on the form and extent of publication.
 
-### 5. Forfeiture
+### 5. Forfeiture and confiscation
 
 ### a. Forfeiture of dangerous objects
 
@@ -1489,41 +1489,41 @@ If the offender has used a motor vehicle in order to commit a felony or misdemea
 
 <sup>2</sup> The court may order that the objects forfeited be rendered unusable or be destroyed.
 
-### b. Forfeiture of assets
+### b. Confiscation of assets
 
 ### Principles
 
 #### Art. 70
 
-<sup>1</sup> The court shall order the forfeiture of assets that have been acquired through the commission of an offence or that are intended to be used in the commission of an offence or as payment therefor, unless the assets are passed on to the person harmed for the purpose of restoring the prior lawful position.
+<sup>1</sup> The court shall order the confiscation of assets that have been acquired through the commission of an offence or that are intended to be used in the commission of an offence or as payment therefor, unless the assets are passed on to the person harmed for the purpose of restoring the prior lawful position.
 
-<sup>2</sup> Forfeiture is not permitted if a third party has acquired the assets in ignorance of the grounds for forfeiture, provided they have paid a consideration of equal value therefor or forfeiture would cause them to endure disproportionate hardship.
+<sup>2</sup> Confiscation is not permitted if a third party has acquired the assets in ignorance of the grounds for confiscation, provided they have paid a consideration of equal value therefor or confiscation would cause them to endure disproportionate hardship.
 
-<sup>3</sup> The right to order forfeiture is limited to seven years; if, however, the prosecution of the offence is subject to a longer limitation period, this period also applies to the right to order forfeiture.
+<sup>3</sup> The right to order confiscation is limited to seven years; if, however, the prosecution of the offence is subject to a longer limitation period, this period also applies to the right to order confiscation.
 
-<sup>4</sup> Official notice must be given of forfeiture. The rights of persons harmed or third parties expire five years after the date on which official notice is given.
+<sup>4</sup> Official notice must be given of confiscation. The rights of persons harmed or third parties expire five years from the date on which official notice is given.
 
-<sup>5</sup> If the amount of the assets to be forfeited cannot be ascertained, or may be ascertained only by incurring a disproportionate level of trouble and expense, the court may make an estimate.
+<sup>5</sup> If the amount of the assets to be confiscated cannot be ascertained, or may be ascertained only by incurring a disproportionate level of trouble and expense, the court may make an estimate.
 
-### Equivalent claim
+### Compensatory claim
 
 #### Art. 71
 
-<sup>1</sup> If the assets subject to forfeiture are no longer available, the court may uphold a claim for compensation by the State in respect of a sum of equivalent value, which claim may be enforced against a third party only if this is not excluded by Article 70 paragraph 2.
+<sup>1</sup> If the assets subject to confiscation are no longer available, the court may uphold a claim for compensation by the State in respect of a sum of equivalent value, which claim may be enforced against a third party only if this is not excluded by Article 70 paragraph 2.
 
-<sup>2</sup> The court may dismiss an equivalent claim in its entirety or in part if the claim is likely to be unrecoverable or if the claim would seriously hinder the rehabilitation of the person concerned.
+<sup>2</sup> The court may dismiss a compensatory claim in its entirety or in part if the claim is likely to be unrecoverable or if the claim would seriously hinder the rehabilitation of the person concerned.
 
 <sup>3</sup> …[^71-1]
 
 [^71-1]: Repealed by Annex 1 No 4 of the FA of 17 June 2022, with effect from 1 Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
-### Forfeiture of assets of a criminal or terrorist organisation
+### Confiscation of assets of a criminal or terrorist organisation
 
 #### Art. 72
 
 [^72-1]
 
-The court shall order the forfeiture of all assets that are subject to the power of disposal of a criminal or terrorist organisation. In the case of the assets of a person who participates in or supports such an organisation (Art. 260<sup>ter</sup>), it is presumed that the assets are subject to the power of disposal of the organisation until the contrary is proven.
+The court shall order the confiscation of all assets that are subject to the power of disposal of a criminal or terrorist organisation. In the case of the assets of a person who participates in or supports such an organisation (Art. 260<sup>ter</sup>), it is presumed that the assets are subject to the power of disposal of the organisation until the contrary is proven.
 
 [^72-1]: Amended by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
@@ -1536,7 +1536,7 @@ The court shall order the forfeiture of all assets that are subject to the power
 If as a result of a felony or misdemeanour a person has suffered harm and is not entitled to benefits under an insurance policy, and if it is anticipated that the offender will not pay damages or satisfaction, the court shall award the person harmed, at that person’s request, a sum of money up to the amount of damages or satisfaction set by a court or agreed in a settlement with the person harmed and obtained from:
 
 - a. the monetary penalty or fine paid by the offender;
-- b. objects and assets that have been forfeited, or the proceeds of their sale after deduction of expenses;
+- b. objects and assets that have been forfeited or confiscated, or the proceeds of their sale after deduction of expenses;
 - c. compensatory claims;
 - d. the amount of the good behaviour bond.
 
@@ -1629,14 +1629,14 @@ Prison inmates normally spend their working, rest and leisure time in the instit
 
 <sup>1</sup>
 
-At the offender’s request, a custodial sentence of no more than 12 months or the remainder of a sentence after taking account of time spent on remand of no more than six months may be served in the form of semi-detention provided:
+At the offender’s request, a custodial sentence of no more than 12 months or the remainder of a sentence after taking account of time spent in detention pending judgment of no more than six months may be served in the form of semi-detention provided:
 
 - a. it is not anticipated that the offender will abscond or commit further offences; and
 - b. the offender does regulated work or training or is similarly occupied for at least 20 hours a week.
 
 <sup>2</sup> Prison inmates shall work, be trained or similarly occupied outside the institution and spend their rest and leisure time in the institution.
 
-<sup>3</sup> Semi-detention may be served in a special section of a remand centre provided the offender is guaranteed the required supervision.
+<sup>3</sup> Semi-detention may be served in a special section of a detention centre provided the offender is guaranteed the required supervision.
 
 <sup>4</sup> If the offender no longer meets the authorisation requirements or if they fail to comply with the conditions of semi-detention imposed by the executive authority despite being warned to do so, the custodial sentence shall be served in the normal manner.
 
@@ -1672,7 +1672,7 @@ Solitary confinement in the form of uninterrupted separation from other prison i
 If it is not anticipated that the offender will abscond or commit further offences, the following sentences may be served in the form of community service:
 
 - a. a custodial sentence of no more than six months;
-- b. the remainder of a sentence of no more than six months after taking account of time spent on remand; or
+- b. the remainder of a sentence of no more than six months after taking account of time spent in detention pending judgment; or
 - c. a monetary penalty or a fine.
 
 <sup>2</sup> Community service is not permitted as a means of serving an alternative custodial sentence.
@@ -1827,7 +1827,7 @@ If the person released on parole is of good behaviour throughout the probationar
 
 <sup>4</sup> A recall to custody may not be ordered if three years have elapsed since the expiry of the probationary period.
 
-<sup>5</sup> Any period spent on remand that the offender has served during the recall to custody proceedings is taken into account in the remainder of their sentence.
+<sup>5</sup> Any period spent in detention pending judgment that the offender has served during the recall to custody proceedings is taken into account in the remainder of their sentence.
 
 <sup>6</sup> If the requirements for an unsuspended custodial sentence are fulfilled due to the new offence and if this coincides with the remainder of the sentence that must be executed by the recall to custody, the court shall impose a cumulative sentence in application of Article 49 a. The rules on parole again apply to this sentence. If only the remainder of the sentence is executed, Article 86 paragraphs 1–4 applies.
 
@@ -2166,7 +2166,7 @@ The right to prosecute and to execute a sentence is subject to a limitation peri
 
 <sup>6</sup> A *day* has 24 successive hours. The month and the year are calculated according to the calendar.
 
-<sup>7</sup> Time spent on remand is any form of detention, remand, preventive detention or detention pending extradition imposed in criminal proceedings.
+<sup>7</sup> *Detention pending judgment* is any form of detention imposed in criminal proceedings, including detention pending investigation, pre-trial detention or detention pending extradition.
 
 [^110-1]: Amended by Art. 37 No 1 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^110-2]: [AS 2006 3583](https://fedlex.data.admin.ch/eli/oc/2006/555)
@@ -3061,13 +3061,13 @@ any person who disseminates such accusations or suspicions,
 
 shall be liable on complaint to a monetary penalty.[^173-2]
 
-<sup>2.</sup> If the accused proves that the statement that they made or disseminated corresponds to the truth or that they had substantial grounds to hold an honest belief that it was true, they shall not be liable to a penalty.
+<sup>2.</sup> If the defendant proves that the statement that they made or disseminated corresponds to the truth or that they had substantial grounds to hold an honest belief that it was true, they shall not be liable to a penalty.
 
-<sup>3.</sup> The accused is not permitted to lead evidence in support of and is criminally liable for statements that are made or disseminated with the primary intention of accusing someone of disreputable conduct without there being any public interest or any other justified cause, and particularly where such statements refer to a person’s private or family life.
+<sup>3.</sup> The defendant is not permitted to lead evidence in support of and is criminally liable for statements that are made or disseminated with the primary intention of accusing someone of disreputable conduct without there being any public interest or any other justified cause, and particularly where such statements refer to a person’s private or family life.
 
 <sup>4.</sup> If the offender recants their statement, the court may impose a more lenient penalty or no penalty at all.
 
-<sup>5.</sup> If the accused is unable to prove the truth of their statement, or if it is shown to be untrue, or if the accused recants their statement, the court must state this in its judgment or in another document.
+<sup>5.</sup> If the defendant is unable to prove the truth of their statement, or if it is shown to be untrue, or if the defendant recants their statement, the court must state this in its judgment or in another document.
 
 [^173-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
 [^173-2]: Penalties revised by No II 1 of the FA of 19 June 2015 (Amendment to the Law on Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -3253,9 +3253,9 @@ Any person who uses a telecommunications installation in order to cause distress
 
 [^179novies-1]
 
-[^179novies-1]: Inserted by Annex No 4 of the FA of 19 June 1992 on Data Protection, ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+Any person who without authorisation obtains personal data that are particularly sensitive and that are not publicly accessible shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-### Any person who without authorisation obtains personal data that are particularly sensitive and that are not publicly accessible shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+[^179novies-1]: Inserted by Annex No 4 of the FA of 19 June 1992 on Data Protection, ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Identity theft
 
@@ -3544,7 +3544,7 @@ Any person who, in exercising a professional or organised extra-professional act
 
 <sup>2</sup> In serious cases, a monetary penalty shall be imposed. The offence shall be prosecuted on complaint.
 
-<sup>3</sup> If the accused undergoes medical treatment as ordered by the competent authority, the criminal proceedings shall be discontinued.
+<sup>3</sup> If the defendant undergoes medical treatment as ordered by the competent authority, the criminal proceedings shall be discontinued.
 
 [^194-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
@@ -3990,7 +3990,7 @@ If the offender carries on a commercial operation to produce or treat animal fee
 
 <sup>2</sup> If the offence is committed through negligence, a monetary penalty shall be imposed.[^236-1]
 
-<sup>3</sup> The products are forfeited. They may be rendered harmless or destroyed.
+<sup>3</sup> The products shall be forfeited. They may be rendered harmless or destroyed.
 
 [^236-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -4064,17 +4064,17 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^242-1]: Term in accordance with No II 1 para. 2 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979). This amendment has been taken into account throughout the Second Book.
 
-### Imitating bank notes, coins or official stamps without intent to commit forgery
+### Imitating bank notes, coins or official stamps without intent to falsify them
 
 #### Art. 243
 
 [^243-1]
 
-<sup>1</sup> Any person who, without the intention of committing the offence of forgery, reproduces or imitates bank notes and thus creates the risk that persons or machines will confuse such notes with genuine notes, in particular if the overall appearance, one side or the greater part of one side of a bank note reproduces or imitates a material and a size that is identical or similar to the material and size of the original,
+<sup>1</sup> Any person who, without the intention of committing the offence of falsification, reproduces or imitates bank notes and thus creates the risk that persons or machines will confuse such notes with genuine notes, in particular if the overall appearance, one side or the greater part of one side of a bank note reproduces or imitates a material and a size that is identical or similar to the material and size of the original,
 
-any person who, without the intention of committing the offence of forgery, produces objects which in their appearance, weight and size are similar to coins in circulation, or which show the nominal value or other characteristics of coins which have been officially struck, and thus creates the risk that persons or machines will confuse such coins with coins which are in circulation,
+any person who, without the intention of committing the offence of falsification, produces objects which in their appearance, weight and size are similar to coins in circulation, or which show the nominal value or other characteristics of coins which have been officially struck, and thus creates the risk that persons or machines will confuse such coins with coins which are in circulation,
 
-any person who, without the intention of committing the offence of forgery reproduces or imitates official stamps and thus creates the risk that such stamps will be confused with genuine stamps,
+any person who, without the intention of committing the offence of falsification, reproduces or imitates official stamps and thus creates the risk that such stamps will be confused with genuine stamps,
 
 any person who imports, offers or puts into circulation such objects articles,
 
@@ -4096,7 +4096,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^244-1]: Amended by Annex No 3 of the FA of 22 Dec. 1999 on Currency and Payment Instruments, in force since 1 May 2000 ([AS 2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186); [BBl 1999 7258](https://fedlex.data.admin.ch/eli/fga/1999/1_7258_6536_6201)).
 
-### Forgery of official stamps
+### Falsification of official stamps
 
 #### Art. 245
 
@@ -4114,7 +4114,7 @@ The offender is also liable to the foregoing penalties if they committed the act
 
 [^245-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Forgery of official marks
+### Falsification of official marks
 
 #### Art. 246
 
@@ -4158,9 +4158,9 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 [^249-1]
 
-<sup>1</sup> Forged or falsified coins, paper money, banknotes, official stamps, official marks, weights and measures, scales or other measuring instruments as well as the counterfeiting equipment is forfeited and rendered unusable or destroyed.
+<sup>1</sup> Forged or falsified coins, paper money, banknotes, official stamps, official marks, weights and measures, scales or other measuring instruments as well as the counterfeiting equipment shall be forfeited and rendered unusable or destroyed.
 
-<sup>2</sup> Banknotes, coins or official stamps that have been reproduced, imitated or produced without the intent to commit forgery, but which create a risk of confusion, are also forfeited and rendered unusable or destroyed.
+<sup>2</sup> Banknotes, coins or official stamps that have been reproduced, imitated or produced without the intent to falsify them, but which create a risk of confusion, shall also be forfeited and rendered unusable or destroyed.
 
 [^249-1]: Amended by Annex No 3 of the FA of 22 Dec. 1999 on Currency and Payment Instruments, in force since 1 May 2000 ([AS 2000 1144](https://fedlex.data.admin.ch/eli/oc/2000/186); [BBl 1999 7258](https://fedlex.data.admin.ch/eli/fga/1999/1_7258_6536_6201)).
 
@@ -4170,9 +4170,9 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 The provisions this Title also apply in the case of foreign coins, paper money, banknotes and stamps.
 
-### Title Eleven: Forgery
+### Title Eleven: Falsification
 
-### Forgery of a document
+### Falsification of a document
 
 #### Art. 251
 
@@ -4191,7 +4191,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 [^251-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)2307; [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^251-2]: Repealed by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Forgery of certificates
+### Falsification of certificates
 
 #### Art. 252
 
@@ -4873,7 +4873,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 In serious cases, a custodial sentence of not less than one year shall be imposed.[^274-2]
 
-<sup>2.</sup> Any correspondence and materials shall be confiscated.
+<sup>2.</sup> Any correspondence and materials shall be forfeited.
 
 [^274-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
 [^274-2]: Fourth paragraph amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -4912,7 +4912,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>2.</sup> Where the incitement or inducement relates to mutiny or the preparation for mutiny, a custodial sentence or a monetary penalty shall be imposed.
 
-### Forgery of military orders or instructions
+### Falsification of military orders or instructions
 
 #### Art. 277
 
@@ -5251,7 +5251,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^305bis-1]
 
-<sup>1.</sup> Any person who carries out an act that is aimed at frustrating the identification of the origin, the tracing or the forfeiture of assets which they know or must reasonably believe originate from a felony or aggravated tax misdemeanour shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^305bis-2]
+<sup>1.</sup> Any person who carries out an act that is aimed at frustrating the identification of the origin, the tracing or the confiscation of assets which they know or must reasonably believe originate from a felony or aggravated tax misdemeanour shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.[^305bis-2]
 
 1<sup>bis</sup>. An aggravated tax misdemeanour is any of the offences set out in Article 186 of the Federal Act of 14 December 1990[^305bis-3] on Direct Federal Taxation and Article 59 paragraph 1 clause one of the Federal Act of 14 December 1990[^305bis-4] on the Harmonisation of Direct Federal Taxation at Cantonal and Communal Levels, if the tax evaded in any tax period exceeds 300 000 francs.[^305bis-5]
 
@@ -5413,7 +5413,7 @@ Any member of an authority or public official who, in the course of a legal tran
 
 [^315316-1]: Repealed by No I 1 of the FA of 22 Dec. 1999, with effect from 1 May 2000 (Revision of the Criminal Law on Corruption; [AS 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180); [BBl 1999 5497](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
-### Forgery of a document by a public official
+### Falsification of a document by a public official
 
 #### Art. 317
 
@@ -5771,7 +5771,7 @@ shall be liable on complaint by the tenant to a fine.
 [^325quater-1]: Originally Article 325<sup>bis</sup>. Inserted by No II Art. 4 of the FA of 15 Dec. 1989 on the Amendment of the CO (Leases and Tenancies) ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)at the end, final provisions on Titles VIII and VIII<sup>bis</sup>). Amended by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^325quater-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
-### Application to legal entities, trading companies and sole proprietorships
+### Application to legal entities, trading companies and sole proprietorship
 
 [^book2-tit20-lvlu7-1]
 
@@ -5833,16 +5833,11 @@ Any person who as a management officer of an employee benefits institution is un
 
 [^326quater-1]: Inserted by No I of the FA of 17 June 1994, in force since 1 Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)2307; [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
-### Violation of obligations to give notice of the beneficial owner of shares or capital contributions
-
 #### Art. 327
 
 [^327-1]
 
-Any person who intentionally fails to comply with obligations under Article 697*j* paragraphs 1–4 or Article 790*a* paragraphs 1–4 of the CO[^327-2] to give notice of beneficial owner of shares or capital contributions shall be liable to a fine.
-
-[^327-1]: Amended by No I 2 of the FA of 21 June 2019 on Implementing the Recommendations of the Global Forum on Transparency and Transfer of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^327-1]: Repealed by Annex No 3 of the FA of 26 Sept. 2025 on the Transparency of Legal Persons and the Identification of Beneficial Owners, with effect from 1 Oct. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### Violation of company law obligations on keeping registers
 
@@ -5852,14 +5847,16 @@ Any person who intentionally fails to comply with obligations under Article 697*
 
 A person shall be liable to a fine if they intentionally fail to keep any of the following registers in accordance with the regulations or if they infringe associated company law obligations:
 
-- a. in the case of a company limited by shares: the share register in accordance with Article 686 paragraphs 1–3 and 5 CO[^327a-2] or the register of the beneficial owners of the shares in accordance with Article 697*l* CO;
-- b. in the case of a limited liability company: the register of contributions in accordance with Article 790 paragraphs 1–3 and 5 CO or the register of the beneficial owners of the capital contributions in accordance with Article 790*a* paragraph 5 CO in conjunction with Article 697*l* CO;
+- a. in the case of a company limited by shares: the share register in accordance with Article 686 paragraphs 1–3 and 5 CO[^327a-2];
+- b. in the case of a limited liability company: the register of contributions in accordance with Article 790 paragraphs 1–3 and 5 CO;
 - c. in the case of a cooperative: the register of cooperative members in accordance with Article 837 paragraphs 1 and 2 CO;
-- d. in the case of an investment company with variable capital (Art. 36 of the Collective Investment Schemes Act of 23 June 2006[^327a-3]); the share register recording the company shareholders or the register of the beneficial owners of the shares held by the company shareholders in accordance with Article 46 paragraph 3 of the Collective Investment Schemes Act of 23 June 2006.
+- d. in the case of an investment company with variable capital: the share register recording the company shareholders in accordance with Article 46 paragraph 3 of the Collective Investment Schemes Act of 23 June 2006[^327a-3];
+- e. in the case of a legal entity governed by foreign law with effective management in Switzerland: the register of owners in accordance with Article 18 of the Federal Act of 26 September 2025[^327a-4] on the Transparency of Legal Persons and the Identification of Beneficial Owners.
 
-[^327a-1]: Inserted by No I 2 of the FA of 21 June 2019 on Implementing the Recommendations of the Global Forum on Transparency and Transfer of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^327a-1]: Inserted by No I 2 of the FA of 21 June 2019 on Implementing the Recommendations of the Global Forum on Transparency and Transfer of Information for Tax Purposes ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Amended by Annex No 3 of the FA of 26 Sept. 2025 on the Transparency of Legal Persons and the Identification of Beneficial Owners, in force since 1 Oct. 2026 ([AS 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [BBl 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 [^327a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^327a-4]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 ### Failure to comply with the statutory obligations of associations
 
@@ -5867,10 +5864,10 @@ A person shall be liable to a fine if they intentionally fail to keep any of the
 
 [^327b-1]
 
-Any person who intentionally fails to comply with the any of obligations for associations specified in Articles 61*a* and 69 paragraph 2 of the Civil Code[^327b-2] shall be liable to a fine.
+Any person who intentionally fails to comply with any of the obligations for associations specified in Articles 61*a* and 69 paragraph 2 of the Civil Code[^327b-2] shall be liable to a fine.
 
 [^327b-1]: Inserted by Annex 1 No 2 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
-[^327b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^327b-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 328
 
@@ -6213,11 +6210,11 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 <sup>2</sup> The FADP[^352-2] applies to the exchange of information in connection with searches for missing persons and the identification of unknown persons and for administrative purposes.[^352-3]
 
+<sup>3</sup> The Federal Office may provide information directly to the Central Bureaus of other states provided the recipient state is subject to the INTERPOL data protection regulations.
+
 [^352-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 [^352-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^352-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-
-### <sup>3</sup> The Federal Office may provide information directly to the Central Bureaus of other states provided the recipient state is subject to the INTERPOL data protection regulations.
 
 ### d. Financial aid and other payments
 
@@ -6489,29 +6486,29 @@ If an investigating authority establishes that pornographic articles (Art. 197 p
 
 [^372-1]: Inserted by No II 2 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and the Division of Tasks between the Confederation and the Cantons (NFA), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)5817; [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### 2. Monetary penalties, fines, costs and forfeitures
+### 2. Monetary penalties, fines, costs and forfeitures or confiscations
 
 ### Execution
 
 #### Art. 373
 
-Legally binding decisions issued on the basis of federal or cantonal criminal law relating to monetary penalties, fines, costs and the forfeiture of property or assets may be executed anywhere in Switzerland.
+Legally binding decisions issued on the basis of federal or cantonal criminal law relating to monetary penalties, fines, costs and the forfeiture or confiscation of property or assets may be executed anywhere in Switzerland.
 
 ### Right of disposal
 
 #### Art. 374
 
-<sup>1</sup> The cantons are entitled to the monetary penalties and fines imposed and the property and assets forfeited in accordance with this Code.
+<sup>1</sup> The cantons are entitled to the monetary penalties and fines imposed and the property and assets forfeited or confiscated in accordance with this Code.
 
 <sup>2</sup> The Confederation is entitled to the proceeds of the cases judged by the Criminal or Appeals Chamber of the Federal Criminal Court.[^374-1]
 
 <sup>3</sup> The use of proceeds for the benefit of persons harmed in accordance with Article 73 is reserved.
 
-<sup>4</sup> The provisions of the Federal Act of 19 March 2004[^374-2] on the Division of Forfeited Assets are reserved.[^374-3]
+<sup>4</sup> The provisions of the Federal Act of 19 March 2004[^374-2] on the Sharing of Confiscated Assets are reserved.[^374-3]
 
 [^374-1]: Amended by No II 2 of the FA of 17 March 2017 (Creation of an Appeals Chamber in the Federal Criminal Court), in force since 1 Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 [^374-2]: [SR 312.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6224)
-[^374-3]: Inserted by Annex No 1 of the FA of 19 March 2004 on the Division of Forfeited Assets, in force since 1 Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^374-3]: Inserted by Annex No 1 of the FA of 19 March 2004 on the Sharing of Confiscated Assets, in force since 1 Aug. 2004 ([AS 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [BBl 2002 441](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 ### 3. Community service
 
@@ -6809,6 +6806,6 @@ Article 305<sup>bis</sup> does not apply to aggravated tax misdemeanours as defi
 
 [^u5-1]
 
-[^u5-1]: [AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670).
+[^u5-1]: [AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)
 
 If the offender was sentenced under the previous law to a monetary penalty of more than 180 daily penalty units within the five years prior to the offence the sentence may only be suspended (Art. 42 para. 1) where the circumstances are especially favourable.

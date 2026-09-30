@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2026-06-12
+version: 2026-10-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261001/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-21 dicembre 1937 (Stato 12 giugno 2026)
+21 dicembre 1937 (Stato 1° ottobre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -5757,7 +5757,7 @@ chiunque impone o tenta di imporre illecitamente pigioni o altre pretese dopo il
 
 [^326bis-1]
 
-<sup>1</sup> Se una delle infrazioni previste nell’articolo 325<sup>ter</sup> è commessa nella gestione degli affari di una persona giuridica, di una società in nome collettivo o in accomandita o di una ditta individuale[^326bis-2], o altrimenti nell’esercizio di incombenze d’affari o di servizio per terze persone, le disposizioni penali si applicano alle persone fisiche che l’hanno commessa.[^326bis-3]
+<sup>1</sup> Se una delle infrazioni previste nell’articolo 325<sup>quater</sup> è commessa nella gestione degli affari di una persona giuridica, di una società in nome collettivo o in accomandita o di una ditta individuale[^326bis-2], o altrimenti nell’esercizio di incombenze d’affari o di servizio per terze persone, le disposizioni penali si applicano alle persone fisiche che l’hanno commessa.[^326bis-3]
 
 <sup>2</sup> Il padrone d’azienda o il datore di lavoro, il mandante o la persona rappresentata che era a conoscenza dell’infrazione o ne ha avuto successivamente notizia e, benché ne avesse la possibilità, non si è adoperato per impedirla o per paralizzarne gli effetti, è punibile come l’autore.
 
@@ -5795,16 +5795,11 @@ Chiunque, tenuto legalmente nella sua qualità di organo di un istituto di previ
 
 [^326quater-1]: Introdotto dalla cifra I della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
-### Violazione dell’obbligo di annunciare l’avente economicamente diritto alle azioni o alle quote sociali
-
 #### Art. 327
 
 [^327-1]
 
-Chiunque, intenzionalmente, non ottempera all’obbligo di cui all’articolo 697*j* capoversi 1–4 o all’articolo 790*a* capoversi 1–4 del Codice delle obbligazioni (CO)[^327-2] di annunciare l’avente economicamente diritto alle azioni o alle quote sociali, è punito con la multa.
-
-[^327-1]: Nuovo testo giusta la cifra I n. 2 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^327-1]: Abrogato dall’all. n. 3 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, con effetto dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 ### Violazione degli obblighi del diritto societario sulla tenuta di elenchi
 
@@ -5814,16 +5809,18 @@ Chiunque, intenzionalmente, non ottempera all’obbligo di cui all’articolo 69
 
 è punito con la multa.
 
-Chiunque, intenzionalmente, non tiene conformemente alle prescrizioni uno dei seguenti elenchi o viola gli obblighi imposti al riguardo dal diritto societario:
+Chiunque, intenzionalmente, non tiene conformemente alle prescrizioni uno dei seguenti elenchi o viola i relativi obblighi del diritto societario:
 
-- a. nel caso di una società anonima, il libro delle azioni di cui all’articolo 686 capoversi 1–3 e 5 CO[^327a-2] o l’elenco degli aventi economicamente diritto alle azioni di cui all’articolo 697*l* CO;
-- b. nel caso di una società a garanzia limitata, il libro delle quote di cui all’articolo 790 capoversi 1–3 e 5 CO o l’elenco degli aventi economicamente diritto alle quote sociali di cui all’articolo 790*a* capoverso 5 CO in combinato disposto con l’articolo 697*l* CO;
+- a. nel caso di una società anonima, il libro delle azioni di cui all’articolo 686 capoversi 1–3 e 5 CO[^327a-2];
+- b. nel caso di una società a garanzia limitata, il libro delle quote di cui all’articolo 790 capoversi 1–3 e 5 CO;
 - c. nel caso di una società cooperativa, l’elenco dei soci di cui all’articolo 837 capoversi 1 e 2 CO;
-- d. nel caso di una società di investimento a capitale variabile (art. 36 della legge del 23 giugno 2006[^327a-3] sugli investimenti collettivi), il registro delle azioni d’imprenditore o l’elenco degli aventi economicamente diritto alle azioni degli azionisti imprenditori di cui all’articolo 46 capoverso 3 della legge del 23 giugno 2006 sugli investimenti collettivi,
+- d. nel caso di una società di investimento a capitale variabile, il registro degli azionisti imprenditori di cui all’articolo 46 capoverso 3 della legge del 23 giugno 2006[^327a-3] sugli investimenti collettivi;
+- e. nel caso di un ente giuridico di diritto estero con amministrazione effettiva in Svizzera, l’elenco dei titolari di cui all’articolo 18 della legge del 26 settembre 2025[^327a-4] sulla trasparenza delle persone giuridiche,
 
-[^327a-1]: Introdotto dalla cifra I n. 2 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^327a-1]: Introdotto dalla cifra I n. 2 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)). Nuovo testo giusta l’all. n. 3 della L del 26 set. 2025 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 [^327a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^327a-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^327a-4]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 ### Violazione degli obblighi legali applicabili alle associazioni
 

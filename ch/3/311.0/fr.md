@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2026-06-12
+version: 2026-10-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20261001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 12 juin 2026)
+du 21 décembre 1937 (État le 1<sup>er</sup> octobre 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -6122,33 +6122,30 @@ Quiconque, en sa qualité d’organe d’une institution de prévoyance en faveu
 
 [^326quater-1]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2021 sur l’harmonisation des peines, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Violation des obligations d’annoncer l’ayant droit économique des actions ou des parts sociales
-
 #### Art. 327
 
 [^327-1]
 
-Est puni d’une amende quiconque contrevient intentionnellement aux obligations prévues aux art. 697*j*, al. 1 à 4, ou 790*a*, al. 1 à 4, du code des obligations[^327-2] d’annoncer l’ayant droit économique des actions ou des parts sociales.
+[^327-1]: Abrogé par l’annexe ch. 3 de la LF du 26 sept. 2025 sur la transparence des personnes morales, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
-[^327-1]: Nouvelle teneur selon le ch. I 2 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^327-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-
-### Violation des obligations du droit des sociétés sur la tenue de listes et registres
+### Violation des obligations du droit des sociétés sur la tenue de registres
 
 #### Art. 327a
 
 [^327a-1]
 
-Est puni d’une amende quiconque, intentionnellement, ne tient pas conformément aux prescriptions l’un des registres suivants ou viole les obligations du droit des sociétés y relatives:
+Est puni d’une amende quiconque, intentionnellement, ne tient pas conformément aux prescriptions l’un des registres suivants ou viole les obligations du droit des sociétés qui s’y rapportent:
 
-- a. pour une société anonyme: le registre des actions au sens de l’art. 686, al. 1 à 3 et 5, du code des obligations[^327a-2] ou la liste des ayants droit économiques des actions au sens de l’art. 697*l* du code des obligations;
-- b. pour une société à responsabilité limitée: le registre des parts sociales au sens de l’art. 790, al. 1 à 3 et 5, du code des obligations ou la liste des ayants droit économiques des parts sociales au sens de l’art. 790*a,* al. 5, du code des obligations en relation avec l’art. 697*l* du code des obligations;
-- c. pour une société coopérative: la liste des associés au sens de l’art. 837, al. 1 et 2, du code des obligations;
-- d. pour une société d’investissement à capital variable (art. 36 de la loi du 23 juin 2006 sur les placements collectifs[^327a-3]): le registre des actionnaires entrepreneurs ou la liste des ayants droit économiques des actions d’actionnaires entrepreneurs au sens de l’art. 46, al. 3, de la loi du 23 juin 2006 sur les placements collectifs.
+- a. pour une société anonyme, le registre des actions au sens de l’art. 686, al. 1 à 3 et 5, CO[^327a-2];
+- b. pour une société à responsabilité limitée, le registre des parts sociales au sens de l’art. 790, al. 1 à 3 et 5, CO;
+- c. pour une société coopérative, la liste des associés au sens de l’art. 837, al. 1 et 2, CO;
+- d. pour une société d’investissement à capital variable, le registre des actionnaires entrepreneurs au sens de l’art. 46, al. 3, de la loi du 23 juin 2006 sur les placements collectifs[^327a-3];
+- e. pour une entité juridique de droit étranger qui a son administration effective en Suisse, la liste des détenteurs au sens de l’art. 18 de la loi du 26 septembre 2025 sur la transparence des personnes morales[^327a-4].
 
-[^327a-1]: Introduit par le ch. I 2 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^327a-1]: Introduit par le ch. I 2 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)). Nouvelle teneur selon l’annexe ch. 3 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 [^327a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^327a-3]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^327a-4]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 ### Inobservation des obligations applicables aux associations
 
