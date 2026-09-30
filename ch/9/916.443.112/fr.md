@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2026-06-24
+version: 2026-10-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260624-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260624/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 24 juin 2026)
+du 17 juillet 2025 (État le 1<sup>er</sup> octobre 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -136,13 +136,15 @@ Les sous-produits animaux issus d’animaux des espèces réceptives provenant d
 
 #### Art. 10
 
-**Zones de vaccination et obligation de vacciner**[^10-1]
+**Zones de vaccination[^10-2]**[^10-1]
 
-<sup>1</sup> Les animaux des espèces réceptives détenus dans une zone de vaccination doivent être vaccinés contre la DNC.
+<sup>1</sup> …[^10-3]
 
 <sup>2</sup> L’étendue des zones de vaccination est fixée dans l’annexe 3.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 29 sept. 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
+[^10-3]: Abrogé par le ch. I de l’O de l’OSAV du 29 sept. 2026, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
 
 #### Art. 11
 
@@ -296,8 +298,11 @@ Dans les zones de vaccination, le vétérinaire cantonal ordonne les examens né
 
 <sup>4</sup> Elle est prorogée jusqu’au 28 février 2027.[^22-2]
 
+<sup>5</sup> Elle est prorogée jusqu’au 31 mai 2027.[^22-3]
+
 [^22-1]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 [^22-2]: Introduit par le ch. I de l’O de l’OSAV du 11 mars 2026, en vigueur depuis le 13 mars 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^22-3]: Introduit par le ch. I de l’O de l’OSAV du 29 sept. 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
 
 Annexe 1
 
@@ -332,4 +337,4 @@ Sont des zones de vaccination:
 - – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20261001/fr/xml/image/image1.png)

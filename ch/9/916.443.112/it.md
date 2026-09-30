@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2026-06-24
+version: 2026-10-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260624-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260624/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20261001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 24 giugno 2026)
+del 17 luglio 2025 (Stato 1° ottobre 2026)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -136,13 +136,15 @@ I sottoprodotti di animali delle specie ricettive provenienti dalla zona di sorv
 
 #### Art. 10
 
-**Zone di vaccinazione e obbligo di vaccinazione**[^10-1]
+**Zone di vaccinazione[^10-2]**[^10-1]
 
-<sup>1</sup> Gli animali delle specie ricettive tenuti nelle zone di vaccinazione devono essere vaccinati contro la LSD.
+<sup>1</sup> …[^10-3]
 
 <sup>2</sup> L’estensione delle zone di vaccinazione è definita nell’allegato 3.
 
 [^10-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 29 set. 2026, in vigore dal 1° ott. 2026 ([RU 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
+[^10-3]: Abrogato dalla cifra I dell’O dell’USAV del 29 set. 2026, con effetto dal 1° ott. 2026 ([RU 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
 
 #### Art. 11
 
@@ -296,8 +298,11 @@ Il veterinario cantonale ordina nelle zone di vaccinazione le analisi necessarie
 
 <sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 28 febbraio 2027.[^22-2]
 
+<sup>5</sup> La durata di validità della presente ordinanza è prorogata sino al 31 maggio 2027.[^22-3]
+
 [^22-1]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 [^22-2]: Introdotto dalla cifra I dall’O dell’USAV dell’11 mar. 2026, in vigore dal 13 mar. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^22-3]: Introdotto dalla cifra I dell’O dell’USAV del 29 set. 2026, in vigore dal 1° ott. 2026 ([RU 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
 
 Allegato 1
 
@@ -332,4 +337,4 @@ Sono zone di vaccinazione:
 - – la zona di La Pile Dessus del Comune di Saint-Cergue nel Cantone di Vaud;
 - – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20261001/it/xml/image/image1.png)

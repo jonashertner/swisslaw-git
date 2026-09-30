@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2026-06-24
+version: 2026-10-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260624-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260624/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20261001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 24. Juni 2026)
+vom 17. Juli 2025 (Stand am 1. Oktober 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -136,13 +136,15 @@ Tierische Nebenprodukte von Tieren empfänglicher Arten aus der Überwachungszon
 
 #### Art. 10
 
-**Impfzonen und Impfpflicht**[^10-1]
+**Impfzonen[^10-2]**[^10-1]
 
-<sup>1</sup> Tiere empfänglicher Arten, die in den Impfzonen gehalten werden, müssen gegen LSD geimpft werden.
+<sup>1</sup> ... [^10-3]
 
 <sup>2</sup> Der Umfang der Impfzonen ist in Anhang 3 festgelegt.
 
 [^10-1]: Fassung gemäss Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^10-2]: Fassung gemäss Ziff. I der V des BLV vom 29. Sept. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
+[^10-3]: Aufgehoben durch Ziff. I der V des BLV vom 29. Sept. 2026, mit Wirkung seit 1. Okt. 2026 ([AS 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
 
 #### Art. 11
 
@@ -296,8 +298,11 @@ Die Kantonstierärztin oder der Kantonstierarzt ordnet in den Impfzonen für die
 
 <sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 28. Februar 2027 verlängert.[^22-2]
 
+<sup>5</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Mai 2027 verlängert.[^22-3]
+
 [^22-1]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 [^22-2]: Eingefügt durch Ziff. I der V des BLV vom 11. März 2026, in Kraft seit 13. März 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+[^22-3]: Eingefügt durch Ziff. I der V des BLV vom 29. Sept. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 500](https://fedlex.data.admin.ch/eli/oc/2026/500)).
 
 Anhang 1
 
@@ -332,4 +337,4 @@ Als Impfzonen gelten:
 - – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20261001/de/xml/image/image1.png)
