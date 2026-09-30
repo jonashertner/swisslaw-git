@@ -4,13 +4,12 @@ number: "215.1"
 title: Mittelschulgesetz
 short: MSG
 language: de
-version: 2024-09-01
-valid_until: 2026-09-30
-version_adopted: 2024-06-25
+version: 2026-10-01
+version_adopted: 2026-08-04
 adopted: 1980-06-12
 in_force: 1981-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3655/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3935/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3655/pdf_file"
 
 (MSG)
 
-vom 12.06.1980 (Stand 01.09.2024)
+vom 12.06.1980 (Stand 01.10.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -383,6 +382,16 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Die Schule sorgt für eine angemessene Beratung und Betreuung der Schülerinnen und Schüler.
 
 <sup>2</sup> Vorbehalten bleibt die elterliche Sorge für nicht volljährige Schülerinnen und Schüler.
+
+#### Art. 36ter
+
+**Spezifische Massnahmen**
+
+<sup>1</sup> Schülerinnen und Schüler mit Behinderung können durch spezifische Massnahmen gefördert werden.
+
+<sup>2</sup> Der Kanton sorgt für den Transport von Schülerinnen und Schülern, die aus behinderungsbedingten Gründen einen unzumutbaren Schulweg haben.
+
+<sup>3</sup> Die zuständige Stelle des Staates bewilligt die Massnahmen nach Abs. 1 dieser Bestimmung auf Antrag der Rektorin oder des Rektors.
 
 #### Art. 37
 
