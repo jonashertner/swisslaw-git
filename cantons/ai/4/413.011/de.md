@@ -3,20 +3,19 @@ canton: AI
 number: "413.011"
 title: Standeskommissionsbeschluss betreffend Brückenangebote
 language: de
-version: 2021-08-01
-valid_until: 2026-09-30
-version_adopted: 2021-10-26
+version: 2026-10-01
+version_adopted: 2026-09-15
 adopted: 2008-05-26
 in_force: 2008-05-26
 url: "https://ai.clex.ch/app/de/texts_of_law/413.011"
-pdf: "https://ai.clex.ch/api/de/versions/1969/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss betreffend Brückenangebote
 
-vom 26.05.2008 (Stand 01.08.2021)
+vom 26.05.2008 (Stand 01.10.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -28,9 +27,9 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Brückenangebote bereiten Jugendliche mit individuellen Bildungsdefiziten und Bildungsbedürfnissen, die am Ende der Sekundarstufe I keinen Ausbildungsplatz gefunden haben, oder in begründeten Fällen Jugendliche, die vom Abbruch eines Lehrverhältnisses betroffen sind, auf den Einstieg oder Wiedereinstieg in eine Ausbildung vor.
+<sup>1</sup> Brückenangebote bereiten Jugendliche, die am Ende der Sekundarstufe I keinen Ausbildungsplatz gefunden haben, oder in begründeten Fällen Jugendliche, die von einer Auflösung eines Lehrverhältnisses betroffen sind, auf den Einstieg oder Wiedereinstieg in die Ausbildung vor.
 
-<sup>2</sup> Lernende werden in Brückenangeboten in schulischen, methodischen, lebenspraktischen, persönlichen und sozialen Schlüsselkompetenzen gefördert. Sie werden bei der Berufswahl, bei der Lehrstellensuche oder der Vorbereitung auf eine Prüfung unterstützt.
+<sup>2</sup> Lernende werden in Brückenangeboten in schulischen, methodischen, lebenspraktischen, persönlichen und sozialen Schlüsselkompetenzen gefördert. Sie werden bei der Berufswahl, bei der Lehrstellensuche oder der Vorbereitung auf eine weiterführende Schule unterstützt.
 
 <sup>3</sup> Brückenangebote können rein schulisch, rein praktisch oder kombiniert ausgestaltet sein.
 
@@ -59,7 +58,7 @@ beschliesst:
 - c) der Jugendliche motiviert ist für den Besuch des Brückenangebotes;
 - d) das bisherige Verhalten genügend war.
 
-<sup>2</sup> Die Beteiligung umfasst ein oder mehrere Brückenangebote mit einer Dauer von insgesamt höchstens einem Jahr. Die Standeskommission kann in Ausnahmefällen einen Beitrag für eine Wiederholung oder ein weiteres Brückenangebot bewilligen.
+<sup>2</sup> Die Beteiligung umfasst ein oder mehrere Brückenangebote mit einer Dauer von insgesamt höchstens einem Jahr. Das Erziehungsdepartement kann in begründeten Ausnahmefällen einen Beitrag für eine Wiederholung oder ein weiteres Brückenangebot bewilligen. In allen Fällen darf ein Sprachaufenthalt nicht mehr als ein halbes Jahr dauern.
 
 <sup>3</sup> Fallen die Voraussetzungen für die kantonale Beteiligung dahin, kann das Erziehungsdepartement einen Entzug anordnen.
 
@@ -83,11 +82,11 @@ beschliesst:
 
 **Beitragshöhe und -form**
 
-<sup>1</sup> Der Kantonsbeitrag beträgt 90% des effektiven Schulgeldbeitrages, höchstens aber Fr. 12'000.-- pro Schüler.
+<sup>1</sup> Der gesamte Kantonsbeitrag für ein Brückenjahr beträgt 90% des effektiven Schulgeldbeitrages, höchstens aber Fr. 12'000.-- pro lernende Person.
 
 <sup>2</sup> Handelt es sich um ein Angebot des Kantons, wird der Beitrag des Kantons durch Bereitstellen des Angebotes erbracht, wobei die Kostengrenzen gemäss vorstehendem Absatz gelten, so dass 10% der Kosten oder ein Fr. 12'000.-- übersteigender Betrag als Schulgeld erhoben wird.
 
-<sup>3</sup> Der Kanton kann das gesamte Schulgeld des Brückenangebotes übernehmen, sofern dieses als erstes Lehrjahr einer eidgenössischen beruflichen Grundbildung anerkannt wird.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
@@ -149,7 +148,7 @@ beschliesst:
   - c) …
 - 3\. Sprachaufenthalte
   - a) Didac-Schulen AG
-  - b) go 2 talk (Au-pair)
+  - b) …
   - c) Pro Filia (Au-pair)
 
 cGS -
