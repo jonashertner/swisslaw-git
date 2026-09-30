@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Ordinanza della SEFRI del 16 agosto 2021 sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: it
-version: 2026-01-01
+version: 2026-10-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20260101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 
-del 16 agosto 2021 (Stato 1° gennaio 2026)
+del 16 agosto 2021 (Stato 1° ottobre 2026)
 
 <table>
 <tr><td>68800</td><td>Impiegata di commercio AFC / Impiegato di commercio AFC Kauffrau EFZ/Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC</td></tr>
@@ -370,7 +370,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>3</sup> Nella maturità professionale svolta parallelamente al tirocinio vengono meno le note di cui ai capoversi 1 e 2.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 28 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 281](https://fedlex.data.admin.ch/eli/oc/2022/281)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 28 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 281](https://fedlex.data.admin.ch/eli/oc/2022/281)).
 
 #### Art. 20
 
@@ -647,7 +647,7 @@ Allegato 2[^t-1]
 
 ## Numero di giornate dei corsi interaziendali nella formazione organizzata dall’azienda
 
-[^t-1]: Aggiornato dal n. I cpv. 1 dell’O della SEFRI del 31 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+[^t-1]: Aggiornato dalla cifra I cpv. 1 dell’O della SEFRI del 31 mar. 2023 ([RU 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)) e dalla cifra I dell’O della SEFRI del 27 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 447](https://fedlex.data.admin.ch/eli/oc/2026/447)).
 
 <table>
 <tr><td>Numero</td><td>Ramo di formazione e d’esame</td><td>Gruppo di aziende</td><td>1° anno</td><td>2° anno</td><td>3° anno</td><td>Totale</td></tr>
@@ -657,7 +657,7 @@ Allegato 2[^t-1]
 <tr><td>68804</td><td>Ammin. federale</td><td></td><td>8</td><td>5</td><td>3</td><td>16</td></tr>
 <tr><td>68805</td><td>Servizi e amministrazione (SA)</td><td>Avvocatura</td><td>5</td><td>5</td><td>3</td><td>13</td></tr>
 <tr><td></td><td></td><td>altre aziende</td><td>4</td><td>4</td><td>2</td><td>10</td></tr>
-<tr><td>68806</td><td>Salute</td><td></td><td>7</td><td>6</td><td>3</td><td>16</td></tr>
+<tr><td>68806</td><td>Salute</td><td></td><td>7</td><td>5</td><td>4</td><td>16</td></tr>
 <tr><td>68807</td><td>Commercio</td><td></td><td>4</td><td>4</td><td>4</td><td>12</td></tr>
 <tr><td>68808</td><td>Alberghiero-gastronomico-Turistico</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68809</td><td>Logistica e spedizione internazionale (LSI)</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
@@ -679,7 +679,7 @@ Allegato 3[^t-2]
 
 ## Numero di giornate dei corsi interaziendali nella formazione organizzata dalla scuola
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 2 dell’O della SEFRI del 31 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+[^t-2]: Nuovo testo giusta la cifra I cpv. 2 dell’O della SEFRI del 31 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
 
 <table>
 <tr><td>Numero</td><td>Ramo di formazione e d’esame</td><td>Numero di giorni (totale)</td></tr>

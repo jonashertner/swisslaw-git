@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Ordonnance du SEFRI du 16 août 2021 sur la formation professionnelle initiale d’employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: fr
-version: 2026-01-01
+version: 2026-10-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-495-20260101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-495-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’employée de commerce / employé de commerce avec certificat fédéral de capacité (CFC)
 
-du 16 août 2021 (État le 1<sup>er</sup> janvier 2026)
+du 16 août 2021 (État le 1<sup>er</sup> octobre 2026)
 
 <table>
 <tr><td>68800</td><td>Employée de commerce CFC / Employé de commerce CFC Kauffrau EFZ / Kaufmann EFZ Impiegata di commercio AFC / Impiegato di commercio AFC</td></tr>
@@ -646,7 +646,7 @@ Annexe 2[^t-1]
 
 ## Nombre de jours de cours interentreprises dans la formation initiale en entreprise
 
-[^t-1]: Mise à jour par le ch. I al. 1 de l’O du SEFRI du 31 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+[^t-1]: Mise à jour par le ch. I al. 1 de l’O du SEFRI du 31 mars 2023 ([RO 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)) et le ch. I de l’O du SEFRI du 27 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 447](https://fedlex.data.admin.ch/eli/oc/2026/447)).
 
 <table>
 <tr><td>Numéro</td><td>Branche de formation et d’examens</td><td>Groupe d’entreprises</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>3<sup>e</sup> année</td><td>Total</td></tr>
@@ -656,7 +656,7 @@ Annexe 2[^t-1]
 <tr><td>68804</td><td>Administration fédérale</td><td></td><td>8</td><td>5</td><td>3</td><td>16</td></tr>
 <tr><td>68805</td><td>Services et administration (SA)</td><td>Avocats</td><td>5</td><td>5</td><td>3</td><td>13</td></tr>
 <tr><td></td><td></td><td>Autres entreprises</td><td>4</td><td>4</td><td>2</td><td>10</td></tr>
-<tr><td>68806</td><td>Santé-social</td><td></td><td>7</td><td>6</td><td>3</td><td>16</td></tr>
+<tr><td>68806</td><td>Santé-social</td><td></td><td>7</td><td>5</td><td>4</td><td>16</td></tr>
 <tr><td>68807</td><td>Commerce</td><td></td><td>4</td><td>4</td><td>4</td><td>12</td></tr>
 <tr><td>68808</td><td>Hôtellerie-Gastronomie- Tourisme</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68809</td><td>Logistique et transports internationaux (LTI)</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>

@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Verordnung des SBFI vom 16. August 2021 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: de
-version: 2026-01-01
+version: 2026-10-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20260101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 16. August 2021 (Stand am 1. Januar 2026)
+vom 16. August 2021 (Stand am 1. Oktober 2026)
 
 <table>
 <tr><td>68800</td><td>Kauffrau EFZ / Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC Impiegata di commercio AFC / Impiegato di commercio AFC</td></tr>
@@ -646,7 +646,7 @@ Anhang 2[^t-1]
 
 ## Anzahl Tage der überbetrieblichen Kurse in der betrieblich organisierten Grundbildung
 
-[^t-1]: Bereinigt gemäss Ziff. I Abs. 1 der V des SBFI vom 31. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+[^t-1]: Bereinigt gemäss Ziff. I Abs. 1 der V des SBFI vom 31. März 2023 ([AS 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)) und Ziff. I der V des SBFI vom 27. Aug. 2026, in Kraft seit 1. Okt. 2026 (AS **202****6** 447).
 
 <table>
 <tr><td>Nummer</td><td>Ausbildungs- und Prüfungsbranche</td><td>Betriebsgruppe</td><td>1. Lehrjahr</td><td>2. Lehrjahr</td><td>3. Lehrjahr</td><td>Total</td></tr>
@@ -656,7 +656,7 @@ Anhang 2[^t-1]
 <tr><td>68804</td><td>Bundesverwaltung</td><td></td><td>8</td><td>5</td><td>3</td><td>16</td></tr>
 <tr><td>68805</td><td>Dienstleistung und Administration (DA)</td><td>Advokatur</td><td>5</td><td>5</td><td>3</td><td>13</td></tr>
 <tr><td></td><td></td><td>andere Betriebe</td><td>4</td><td>4</td><td>2</td><td>10</td></tr>
-<tr><td>68806</td><td>Gesundheit</td><td></td><td>7</td><td>6</td><td>3</td><td>16</td></tr>
+<tr><td>68806</td><td>Gesundheit</td><td></td><td>7</td><td>5</td><td>4</td><td>16</td></tr>
 <tr><td>68807</td><td>Handel</td><td></td><td>4</td><td>4</td><td>4</td><td>12</td></tr>
 <tr><td>68808</td><td>Hotel-Gastro-Tourismus</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
 <tr><td>68809</td><td>Internationale Speditionslogistik (ISL)</td><td></td><td>8</td><td>4</td><td>4</td><td>16</td></tr>
