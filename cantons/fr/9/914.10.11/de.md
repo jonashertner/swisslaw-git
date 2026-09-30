@@ -4,13 +4,12 @@ number: "914.10.11"
 title: Tierseuchenverordnung
 short: TiersV
 language: de
-version: 2022-12-01
-valid_until: 2026-09-30
-version_adopted: 2022-11-08
+version: 2026-10-01
+version_adopted: 2026-09-29
 adopted: 2014-04-08
 in_force: 2014-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/914.10.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7832/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8681/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Tierseuchen – V
 
 (TiersV)
 
-vom 08.04.2014 (Fassung in Kraft getreten am 01.12.2022)
+vom 08.04.2014 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -437,7 +436,7 @@ beschliesst:
 
 #### Art. 37
 
-**Zusammenarbeit mit der Einsatzgruppe – Führung in Notlagen**
+**Zusammenarbeit mit der Einsatzgruppe – Führung in besonderen und ausserordentlichen Lagen**
 
 <sup>1</sup> Liegt ein Seuchenereignis vor, welches das Amt mit seinen eigenen Mitteln und der Verstärkung durch die übrigen Verwaltungseinheiten des Staates nicht mehr kontrollieren kann, so informiert die Kantonstierärztin oder der Kantonstierarzt die Chefin oder den Chef des KFO.
 

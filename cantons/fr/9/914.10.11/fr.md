@@ -4,13 +4,12 @@ number: "914.10.11"
 title: Ordonnance sur les épizooties
 short: OEpiz
 language: fr
-version: 2022-12-01
-valid_until: 2026-09-30
-version_adopted: 2022-11-08
+version: 2026-10-01
+version_adopted: 2026-09-29
 adopted: 2014-04-08
 in_force: 2014-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/914.10.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7832/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8681/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Epizooties – O
 
 (OEpiz)
 
-du 08.04.2014 (version entrée en vigueur le 01.12.2022)
+du 08.04.2014 (version entrée en vigueur le 01.10.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -437,7 +436,7 @@ Arrête:
 
 #### Art. 37
 
-**Collaboration avec l'équipe d'intervention – Conduite en situation extraordinaire**
+**Collaboration avec l'équipe d'intervention – Conduite en situation particulière et extraordinaire**
 
 <sup>1</sup> En présence d'un événement épizootique qui ne peut plus être contenu par le Service avec ses propres moyens et les renforts des autres unités administratives de l'Etat, le ou la vétérinaire cantonal-e informe le ou la chef-fe de l'OCC.
 
