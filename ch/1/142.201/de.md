@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260612-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 12. Juni 2026)
+vom 24. Oktober 2007 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -97,9 +97,13 @@ Als grenzüberschreitende Dienstleistung gilt die Ausübung einer zeitlich befri
 
 **Einreiseerlaubnis**[^5-1]
 
-Wird ein Gesuch um eine Kurzaufenthalts- oder Aufenthaltsbewilligung mit Erwerbstätigkeit von der zuständigen Behörde gutgeheissen und befindet sich die betroffene Person noch im Ausland, so ermächtigt die zuständige Behörde die Auslandvertretung zur Visumausstellung. Besteht keine Visumpflicht, so stellt die zuständige Behörde der betroffenen Person auf Gesuch hin eine Zusicherung der Bewilligung aus.
+Wird ein Gesuch um eine Kurzaufenthalts- oder Aufenthaltsbewilligung mit Erwerbstätigkeit von der zuständigen Behörde gutgeheissen und befindet sich die betroffene Person noch im Ausland, so unternimmt die zuständige Behörde die folgenden Schritte:
 
-[^5-1]: Fassung gemäss Ziff. I 3 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+- a. Bei visumpflichtigen Personen ermächtigt sie die Auslandvertretung zur Visumausstellung.
+- b. Bei Personen, die im Besitz einer Reisegenehmigung sein müssen gemäss der Verordnung (EU) 2018/1240[^5-2], stellt sie auf Gesuch hin eine Zusicherung der Kurzaufenthalts- oder Aufenthaltsbewilligung aus.
+
+[^5-1]: Fassung gemäss Anhang 3 Ziff. 1 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^5-2]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und -genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, Fassung gemäss ABl. L 249 vom 14.7.2021, S. 15.
 
 #### Art. 6
 

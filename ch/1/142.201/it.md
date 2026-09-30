@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260612-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 12 giugno 2026)
+del 24 ottobre 2007 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -97,9 +97,13 @@ ordina:
 
 **Permesso d’entrata**[^5-1]
 
-Se la domanda per un permesso di soggiorno di breve durata o per un permesso di dimora in vista di svolgere un’attività lucrativa è accolta e il richiedente si trova ancora all’estero, l’autorità competente autorizza la rappresentanza svizzera all’estero a rilasciare il visto. Se il visto non è obbligatorio, l’autorità competente rilascia, su domanda, l’assicurazione di un tale permesso.
+Se la domanda per un permesso di soggiorno di breve durata o per un permesso di dimora in vista di svolgere un’attività lucrativa è accolta e il richiedente si trova ancora all’estero, l’autorità competente procede nel modo seguente:
 
-[^5-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+- a. per le persone soggette all’obbligo del visto, autorizza la rappresentanza svizzera all’estero a rilasciare il visto;
+- b. per le persone soggette all’obbligo dell’autorizzazione ai viaggi in virtù del regolamento (UE) 2018/1240[^5-2], rilascia, su domanda, l’assicurazione di un permesso di soggiorno di breve durata o di un permesso di dimora.
+
+[^5-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^5-2]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, versione della GU L 249 del 14.7.2021, pag. 15.
 
 #### Art. 6
 
@@ -603,7 +607,7 @@ Per consentire a uno straniero senza statuto di soggiorno regolare di acquisire 
 - b. vi è la domanda di un datore di lavoro del richiedente secondo l’articolo 18 lettera b LStrI;
 - c. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI;
 - d.[^30a-3] il richiedente soddisfa i criteri d’integrazione conformemente all’articolo 58*a* capoverso 1 LStrI;
-- e.[^30a-4] ...
+- e.[^30a-4] …
 - f. rivela la sua identità.
 
 <sup>2</sup> Al termine della formazione il permesso può essere prorogato se sono rispettate le condizioni di cui all’articolo 31.
@@ -626,7 +630,7 @@ Per consentire a uno straniero senza statuto di soggiorno regolare di acquisire 
 Se sussiste un caso personale particolarmente grave, può essere rilasciato un permesso di dimora. Nella valutazione occorre considerare in particolare:
 
 - a.[^31-1] l’integrazione del richiedente conformemente ai criteri di cui all’articolo 58*a* capoverso 1 LStrI;
-- b.[^31-2] ...
+- b.[^31-2] …
 - c. la situazione familiare, in particolare il momento e la durata della scolarizzazione dei figli;
 - d.[^31-3] la situazione finanziaria;
 - e. la durata della presenza in Svizzera;
@@ -637,7 +641,7 @@ Se sussiste un caso personale particolarmente grave, può essere rilasciato un p
 
 <sup>3</sup> L’esercizio di un’attività lucrativa dipendente o indipendente non è soggetto ad autorizzazione.[^31-4]
 
-<sup>4</sup> *...*[^31-5]
+<sup>4</sup> …[^31-5]
 
 <sup>5</sup> Se il richiedente non ha potuto partecipare alla vita economica o acquisire una formazione (art. 58*a* cpv. 1 lett. d LStrI) a causa dell’età, dello stato di salute o del divieto di lavoro secondo l’articolo 43 LAsi, occorre tenerne conto nella valutazione della situazione finanziaria.[^31-6]
 
@@ -1003,7 +1007,7 @@ Sempreché le condizioni secondo il diritto in materia d’asilo (art. 43 cpv. 1
 - d. è rispettata la priorità secondo l’articolo 21 LStrI.
 - e.[^52-1] non è oggetto di un’espulsione giudiziaria ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^52-2] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^52-3] passata in giudicato.
 
-<sup>2</sup> ...[^52-4]
+<sup>2</sup> …[^52-4]
 
 [^52-1]: Introdotta dalla cifra I n. 1 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^52-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
@@ -1206,7 +1210,7 @@ Lo straniero titolare del permesso di domicilio deve presentare o consegnare, pe
 
 <sup>1</sup> Il richiedente l’asilo può essere autorizzato a cambiare impiego se sono adempite le condizioni del diritto in materia d’asilo (art. 43 cpv. 1–3 LAsi) e le condizioni di cui all’articolo 52.
 
-<sup>2</sup> ...[^64-3]
+<sup>2</sup> …[^64-3]
 
 <sup>3</sup> Al cambiamento d’impiego di stranieri, rifugiati o apolidi ammessi provvisoriamente in Svizzera, di rifugiati che vi hanno ottenuto asilo, di persone bisognose di protezione, di apolidi che vi sono riconosciuti nonché di rifugiati o di apolidi oggetto di un’espulsione giudiziaria passata in giudicato si applicano per analogia gli articoli 65–65*c*.[^64-4]
 

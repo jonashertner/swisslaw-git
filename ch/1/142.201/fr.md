@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260612-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 12 juin 2026)
+du 24 octobre 2007 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -97,9 +97,13 @@ Est considérée comme prestation de service transfrontière une prestation de d
 
 **Autorisation d’entrée en Suisse**[^5-1]
 
-Si une demande d’autorisation de séjour ou de courte durée avec activité lucrative est acceptée et si la personne concernée se trouve encore à l’étranger, l’autorité compétente autorise la représentation suisse à délivrer un visa. Si le visa n’est pas requis, une assurance de l’autorisation est établie sur demande par l’autorité compétente.
+Si une demande d’autorisation de courte durée ou de séjour avec activité lucrative est acceptée et si la personne concernée se trouve encore à l’étranger, l’autorité compétente procède de la manière suivante:
 
-[^5-1]: Nouvelle teneur selon le ch. I 3 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+- a. pour les personnes soumises à l’obligation de visa, elle autorise la représentation suisse à délivrer un visa;
+- b. pour les personnes soumises à l’obligation d’être en possession d’une autorisation de voyage en vertu du règlement (UE) 2018/1240[^5-2], elle établit sur demande une assurance de l’autorisation de courte durée ou de séjour.
+
+[^5-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^5-2]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226, version du JO L 249 du 14.7.2021, p. 15.
 
 #### Art. 6
 
