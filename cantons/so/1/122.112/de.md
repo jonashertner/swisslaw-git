@@ -4,13 +4,12 @@ number: "122.112"
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: RVOV
 language: de
-version: 2025-08-01
-valid_until: 2026-09-30
-version_adopted: 2024-10-29
+version: 2026-10-01
+version_adopted: 2026-06-02
 adopted: 2000-04-11
 in_force: 2000-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.112"
-pdf: "https://bgs.so.ch/api/de/versions/5506/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5506/pdf_file"
 
 (RVOV)
 
-Vom 11.04.2000 (Stand 01.08.2025)
+Vom 11.04.2000 (Stand 01.10.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
