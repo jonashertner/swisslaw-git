@@ -3,11 +3,11 @@ sr: "366.1"
 title: Ordonnance du 21 juin 2013 concernant le Bureau central national Interpol Bern (Ordonnance Interpol)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/466"
 language: fr
-version: 2023-09-01
+version: 2026-10-01
 adopted: 2013-06-21
 in_force: 2013-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-466-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2013-466-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20230901/fr"
 
 (Ordonnance Interpol)
 
-du 21 juin 2013 (État le 1<sup>er</sup> septembre 2023)
+du 21 juin 2013 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu les art. 350 à 353 du code pénal[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Section 1 Organisation et tâches
 
@@ -34,7 +34,7 @@ arrête:
 
 L’Office fédéral de la police (fedpol) gère le Bureau central national (BCN), conformément à l’art. 32 du statut de l’Organisation internationale de police criminelle[^1-1] (Interpol).
 
-[^1-1]: Statut de l’Organisation internationale de police criminelle, entré en vigueur le 13 juin 1956, dans sa version du 7 oct. 2008, entrée en vigueur le 5 déc. 2008. Ce document est disponible gratuitement auprès de l’Office fédéral de la police (fedpol), Nussbaumstrasse 29, 3003 Berne; il peut être aussi consulté sur le site internet: www.fedpol.admin.ch.
+[^1-1]: Statut de l’Organisation internationale de police criminelle, entré en vigueur le 13 juin 1956, dans sa version du 7 oct. 2008, entrée en vigueur le 5 déc. 2008. Ce document est disponible gratuitement auprès de l’Office fédéral de la police (fedpol), Nussbaumstrasse 29, 3003 Berne; il peut être aussi consulté sur le site internet: [www.fedpol.admin.ch](http://www.fedpol.admin.ch).
 
 #### Art. 2
 
@@ -66,7 +66,7 @@ Il assume également les tâches suivantes:
 <sup>4</sup> Dans son activité, le BCN veille à ce que le droit suisse soit respecté, et il prend au besoin les mesures nécessaires à cet effet.
 
 [^2-1]: Cf. note de bas de page se rapportant à l’art. 1.
-[^2-2]: R du 2 nov. 2011 sur le traitement des données, entré en vigueur le 1<sup>er</sup> juil. 2012. Ce document est disponible gratuitement auprès de l’Office fédéral de la police (fedpol), Nussbaumstrasse 29, 3003 Berne; il peut être aussi consulté sur le site internet: www.fedpol.admin.ch.
+[^2-2]: R du 2 nov. 2011 sur le traitement des données, entré en vigueur le 1<sup>er</sup> juil. 2012. Ce document est disponible gratuitement auprès de l’Office fédéral de la police (fedpol), Nussbaumstrasse 29, 3003 Berne; il peut être aussi consulté sur le site internet: [www.fedpol.admin.ch](http://www.fedpol.admin.ch).
 
 #### Art. 3
 
@@ -90,17 +90,20 @@ Les autorités suivantes peuvent accéder en ligne aux données du système d’
 - d. les autorités policières et les autorités douanières de la Confédération, pour l’accomplissement des tâches qui leur incombent en vertu de la loi du 18 mars 2005 sur les douanes[^4-6], et les autorités policières ou douanières des cantons, dans le cadre des tâches qui leur sont assignées par la loi;
 - e. les polices cantonales des étrangers, pour autant qu’elles exercent des tâches de police judiciaire ou de police de sécurité en vertu du droit cantonal;
 - f.[^4-7] le conseiller à la protection des données de fedpol, pour l’accomplissement de ses tâches de surveillance;
-- g. les services chargés de la maintenance, pour l’accomplissement de leurs tâches.
+- g. les services chargés de la maintenance, pour l’accomplissement de leurs tâches;
+- h.[^4-8] le Secrétariat d’État aux migrations, pour l’accomplissement des tâches qui lui sont dévolues en vertu de l’art. 108*c*, al. 1, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^4-9].
 
 <sup>2</sup> Fedpol édicte un règlement de traitement.
 
-[^4-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^4-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^4-3]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^4-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^4-5]: [RS 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
-[^4-6]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^4-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^4-3]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
+[^4-4]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^4-5]: [RS 172.213.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5295)
+[^4-6]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-7]: Nouvelle teneur selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^4-8]: Introduite par l’annexe 3 ch. 9 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^4-9]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 5
 
@@ -118,7 +121,7 @@ Les autorités suivantes peuvent accéder en ligne aux données du système d’
 
 <sup>2</sup> Est réservée la compétence des cantons de correspondre directement avec les organes de police étrangers dans les cas visés à l’art. 35, al. 2, de l’ordonnance du 24 février 1982 sur l’entraide pénale internationale[^6-1].
 
-[^6-1]: [RS 351.11](https://fedlex.data.admin.ch/eli/cc/1982/878_878_878)
+[^6-1]: [RS 351.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6278)
 
 #### Art. 7
 
@@ -126,7 +129,7 @@ Les autorités suivantes peuvent accéder en ligne aux données du système d’
 
 Le Ministère public de la Confédération peut demander des informations à d’autres pays par l’entremise du BCN dans les procédures pénales conduites selon le code de procédure pénale[^7-1] ainsi qu’aux fins de prévention d’infractions soumises à la juridiction fédérale.
 
-[^7-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^7-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 8
 
@@ -189,7 +192,7 @@ En outre, le BCN informe le Secrétariat général d’Interpol et les BCN d’a
 
 [^11-1]: Cf. note de bas de page se rapportant à l’art. 2, al. 3.
 [^11-2]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^11-3]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^11-3]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 12
 
@@ -226,7 +229,7 @@ Le BCN garantit l’exactitude et l’actualité des informations de police qu�
 
 <sup>3</sup> L’effacement des données incombe au service de contrôle de fedpol.
 
-[^14-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^14-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 15
 
@@ -234,7 +237,7 @@ Le BCN garantit l’exactitude et l’actualité des informations de police qu�
 
 Toutes les données dont le BCN n’a plus besoin sont proposées aux Archives fédérales en vue de leur archivage, conformément à la loi fédérale du 26 juin 1998 sur l’archivage[^15-1].
 
-[^15-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^15-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Section 3 Droit à l’information, à la rectification et à l’effacement de données
 
@@ -254,11 +257,11 @@ Toutes les données dont le BCN n’a plus besoin sont proposées aux Archives f
 
 <sup>7</sup> L’exercice d’autres droits par la personne concernée est régi par l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données[^16-5].[^16-6]
 
-[^16-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^16-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^16-2]: Nouvelle teneur selon l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^16-3]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^16-3]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
 [^16-4]: Cf. note de bas de page se rapportant à l’art. 2, al. 3.
-[^16-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^16-6]: Introduit par l’annexe 2 ch. II 48 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 4 Surveillance et sécurité des données

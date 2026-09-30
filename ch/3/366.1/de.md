@@ -3,11 +3,11 @@ sr: "366.1"
 title: Verordnung vom 21. Juni 2013 über das Nationale Zentralbüro Interpol Bern (Interpol-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/466"
 language: de
-version: 2023-09-01
+version: 2026-10-01
 adopted: 2013-06-21
 in_force: 2013-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-466-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/466/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2013-466-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/466/20230901/de"
 
 (Interpol-Verordnung)
 
-vom 21. Juni 2013 (Stand am 1. September 2023)
+vom 21. Juni 2013 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 350–353 des Strafgesetzbuches[^ingress-1],
 
 verordnet:
 
-[^ingress-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^ingress-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 1. Abschnitt: Organisation und Aufgaben
 
@@ -34,7 +34,7 @@ verordnet:
 
 Das Bundesamt für Polizei (fedpol) führt das Nationale Zentralbüro (NZB) im Sinne von Artikel 32 der Statuten der Internationalen Kriminalpolizeilichen Organisation[^1-1] (Interpol).
 
-[^1-1]: Statuten der Internationalen Kriminalpolizeilichen Organisation, in Kraft getreten am 13. Juni 1956, in der Fassung vom 7. Okt. 2008, in Kraft getreten am 5. Dez. 2008. Die Statuten können beim Bundesamt für Polizei (fedpol), 3003 Bern unentgeltlich bestellt oder unter www.fedpol.admin.ch eingesehen werden.
+[^1-1]: Statuten der Internationalen Kriminalpolizeilichen Organisation, in Kraft getreten am 13. Juni 1956, in der Fassung vom 7. Okt. 2008, in Kraft getreten am 5. Dez. 2008. Die Statuten können beim Bundesamt für Polizei (fedpol), 3003 Bern unentgeltlich bestellt oder unter: [www.fedpol.admin.ch](http://www.fedpol.admin.ch) eingesehen werden.
 
 #### Art. 2
 
@@ -66,7 +66,7 @@ Es erfüllt folgende, weitere Aufgaben:
 <sup>4</sup> Das NZB ist bei seiner Tätigkeit für die Einhaltung des schweizerischen Rechts verantwortlich und trifft nötigenfalls die entsprechenden Massnahmen.
 
 [^2-1]: Siehe Fussnote zu Art. 1.
-[^2-2]: Reglement vom 2. Nov. 2011 über die Bearbeitung von Daten, in Kraft getreten am 1. Juli 2012. Das Reglement kann beim Bundesamt für Polizei (fedpol), 3003 Bern, unentgeltlich bestellt oder unter www.fedpol.admin.ch eingesehen werden.
+[^2-2]: Reglement vom 2. Nov. 2011 über die Bearbeitung von Daten, in Kraft getreten am 1. Juli 2012. Das Reglement kann beim Bundesamt für Polizei (fedpol), 3003 Bern, unentgeltlich bestellt oder unter: [www.fedpol.admin.ch](http://www.fedpol.admin.ch) eingesehen werden.
 
 #### Art. 3
 
@@ -90,17 +90,20 @@ Folgende Behörden können im Abrufverfahren auf die Daten im polizeilichen Info
 - d. die Zoll- und Grenzbehörden des Bundes zur Erfüllung ihrer Aufgaben nach dem Zollgesetz vom 18. März 2005[^4-6] und der Kantone im Rahmen ihrer gesetzlichen Aufgaben;
 - e. die Fremdenpolizeien der Kantone, soweit sie gemäss kantonalem Recht mit gerichts- und sicherheitspolizeilichen Aufgaben betraut sind;
 - f.[^4-7] der Datenschutzberater oder die Datenschutzberaterin von fedpol zur Erfüllung der Kontrollaufgaben;
-- g. die mit Wartungsaufgaben betrauten Stellen zur Erfüllung ihrer Aufgaben.
+- g. die mit Wartungsaufgaben betrauten Stellen zur Erfüllung ihrer Aufgaben;
+- h.[^4-8] das Staatssekretariat für Migration zur Erfüllung der ihm übertragenen Aufgaben nach Artikel 108*c* Absatz 1 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^4-9].
 
 <sup>2</sup> Fedpol erlässt ein Bearbeitungsreglement.
 
-[^4-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^4-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^4-3]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^4-4]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^4-5]: [SR 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
-[^4-6]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-1]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^4-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^4-3]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
+[^4-4]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^4-5]: [SR 172.213.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5295)
+[^4-6]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-7]: Fassung gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^4-8]: Eingefügt durch Anhang 3 Ziff. 9 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^4-9]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 5
 
@@ -118,7 +121,7 @@ Folgende Behörden können im Abrufverfahren auf die Daten im polizeilichen Info
 
 <sup>2</sup> Die Befugnis der kantonalen Polizeibehörden, in Fällen nach Artikel 35 Absatz 2 der Rechtshilfeverordnung vom 24. Februar 1982[^6-1] mit ausländischen Polizeibehörden direkt zu verkehren, bleibt vorbehalten.
 
-[^6-1]: [SR 351.11](https://fedlex.data.admin.ch/eli/cc/1982/878_878_878)
+[^6-1]: [SR 351.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6278)
 
 #### Art. 7
 
@@ -126,7 +129,7 @@ Folgende Behörden können im Abrufverfahren auf die Daten im polizeilichen Info
 
 In Strafverfahren nach der Strafprozessordnung[^7-1] sowie zur Verhütung von Straftaten, die der Bundesgerichtsbarkeit unterstehen, kann die Bundesanwaltschaft über das NZB Informationen von anderen Ländern einholen.
 
-[^7-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^7-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 8
 
@@ -189,7 +192,7 @@ Zusätzlich unterrichtet das NZB das Generalsekretariat von Interpol und die Nat
 
 [^11-1]: Siehe Fussnote zu Art. 2 Abs. 3.
 [^11-2]: Fassung des dritten Satzes gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^11-3]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^11-3]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 12
 
@@ -226,7 +229,7 @@ Das NZB stellt die Richtigkeit und Aktualität der von ihm weitergegebenen poliz
 
 <sup>3</sup> Für die Löschung der Daten ist der Kontrolldienst von fedpol zuständig.
 
-[^14-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^14-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 15
 
@@ -234,7 +237,7 @@ Das NZB stellt die Richtigkeit und Aktualität der von ihm weitergegebenen poliz
 
 Sämtliche vom NZB nicht mehr benötigten Daten werden gemäss Archivierungsgesetz vom 26. Juni 1998[^15-1] dem Bundesarchiv zur Übernahme angeboten.
 
-[^15-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^15-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 3. Abschnitt: Auskunfts-, Berichtigungs- und Löschungsrecht
 
@@ -254,11 +257,11 @@ Sämtliche vom NZB nicht mehr benötigten Daten werden gemäss Archivierungsgese
 
 <sup>7</sup> Die Geltendmachung weiterer Ansprüche durch die betroffene Person richtet sich nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020[^16-5].[^16-6]
 
-[^16-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^16-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^16-2]: Fassung gemäss Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^16-3]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^16-3]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
 [^16-4]: Siehe Fussnote zu Art. 2 Abs. 3.
-[^16-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^16-6]: Eingefügt durch Anhang 2 Ziff. II 48 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 4. Abschnitt: Aufsicht und Datensicherung
