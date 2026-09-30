@@ -4,13 +4,12 @@ number: "52.11"
 title: Règlement sur la protection civile
 short: RPCi
 language: fr
-version: 2022-12-01
-valid_until: 2026-09-30
-version_adopted: 2022-11-08
+version: 2026-10-01
+version_adopted: 2026-09-29
 adopted: 2004-06-23
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/52.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7630/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8677/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection civile – R
 
 (RPCi)
 
-du 23.06.2004 (version entrée en vigueur le 01.12.2022)
+du 23.06.2004 (version entrée en vigueur le 01.10.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -57,7 +56,7 @@ Arrête:
 
 <sup>1</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la Direction) est l'autorité cantonale compétente en matière de protection civile. Elle exerce ses tâches et compétences par le Service de la sécurité civile et militaire (ci-après: le Service), conformément aux dispositions du présent règlement.
 
-<sup>2</sup> Elle nomme les commandants des compagnies d'intervention, les commandants remplaçants et les officiers de l'état-major de ces compagnies. Les préfets concernés donnent leur préavis.
+<sup>2</sup> Les commandants, les membres des états-majors des corps de troupe et les aides de commandement des compagnies sont nommés par la Direction.
 
 <sup>3</sup> Elle émet, à l'intention des communes et des particuliers, les dispositions d'exécution complémentaires nécessaires.
 
@@ -65,7 +64,7 @@ Arrête:
 
 **Service de la santé publique (art. 4 et 19 LPCi)**
 
-<sup>1</sup> Le Service de la santé publique est compétent pour prendre les mesures incombant à l'Etat en matière de constructions du service sanitaire (cf. art. 38 al. 2).
+<sup>1</sup> Le Service du médecin cantonal est compétent pour prendre les mesures incombant à l'Etat en matière de constructions du service sanitaire (cf. art. 38 al. 2).
 
 #### Art. 4
 
@@ -79,27 +78,56 @@ Arrête:
 
 #### Art. 6
 
-**Compagnies d'intervention (art. 6 LPCi)**
+**…**
 
-<sup>1</sup> Les compagnies d'intervention comprennent l'effectif nécessaire pour remplir les missions de protection civile qui leur sont dévolues, en fonction de la population des régions de protection civile.
+#### Art. 6a
 
-<sup>2</sup> Les compagnies d'intervention Nord et Sud se composent des éléments suivants:
+**Découpage territorial (art. 6a LPCi)**
 
-- a) des sections d'aide à la conduite;
-- b) des sections d'assistance;
-- c) des sections d'appui;
-- d) une section logistique;
-- e) une section infrastructures destinée aux contrôles périodiques des abris et à l'entretien des installations de protection civile dans tout le canton;
-- f) des groupes d'aide à la conduite pouvant être engagés par les organes communaux de conduite (ORCOC).
+<sup>1</sup> Le territoire cantonal comprend trois régions de protection civile:
 
-<sup>3</sup> La compagnie d'intervention Centre est organisée de façon à pouvoir être prête à l'engagement dans les trois heures. Elle se compose des éléments suivants:
+- a) région Nord: districts de la Broye et du Lac;
+- b) région Centre: districts de la Sarine et de la Singine;
+- c) région Sud: districts de la Glâne, de la Veveyse et de la Gruyère.
 
-- a) une section d'aide à la conduite;
-- b) des sections d'appui;
-- c) une section d'assistance;
-- d) une section logistique.
+<sup>2</sup> Chaque région dispose d'un poste de commandement principal et de plusieurs postes de commandement secondaires pour l'ensemble des formations de protection civile rattachées à la région.
 
-<sup>4</sup> Le Service détermine le détail de l'organisation des compagnies d'intervention. Il nomme les cadres qui ne sont pas nommés par la Direction.
+<sup>3</sup> Chaque région dispose des moyens logistiques nécessaires aux premières heures d'une intervention. Le centre logistique cantonal assure la montée en puissance et la capacité à durer.
+
+#### Art. 6b
+
+**Organisation opérationnelle de la protection civile (art. 6b LPCi)**
+
+<sup>1</sup> Les états-majors des formations de protection civile ont notamment pour tâches:
+
+- a) de déterminer les risques présents dans leur région;
+- b) de contribuer à la planification préalable du canton;
+- c) d'élaborer, en collaboration avec les bureaux communaux de protection de la population et les conseillers locaux et conseillères locales en matière de dangers naturels, une planification préventive afin de réduire la vulnérabilité de la population face aux risques reconnus;
+- d) de mettre en œuvre le profil de prestation décidé par l'Etat-major cantonal de protection de la population (EMCP);
+- e) d'assurer la disponibilité de base de leurs unités;
+- f) de se tenir prêt à planifier et conduire les interventions en toutes situations.
+
+<sup>2</sup> Le bataillon d'état-major de protection civile (ci-après: PCi) a notamment pour tâches:
+
+- a) d'exploiter les ouvrages de conduite cantonaux destinés, au Conseil d'Etat, à l'EMCP et à la protection civile;
+- b) de fournir les prestations nécessaires à l'élaboration de l'image globale de la situation pertinente en matière de protection civile et de protection de la population;
+- c) de renforcer les bataillons PCi régionaux avec les moyens dédiés à des tâches particulières.
+
+<sup>3</sup> Les bataillons PCi régionaux ont notamment pour tâches:
+
+- a) d'appuyer subsidiairement les communes pour l'assistance aux victimes civiles et le rétablissement de leurs bases d'existence;
+- b) de reprendre les tâches subsidiaires des partenaires de la protection de la population et de les renforcer pour certaines de leurs tâches primaires;
+- c) de garantir en fonction des moyens disponibles les interventions en faveur des collectivités.
+
+#### Art. 6c
+
+**Organisation réglementaire des compagnies et corps de troupe**
+
+<sup>1</sup> L'organisation réglementaire du régiment, des bataillons et des compagnies est décidée par le Service.
+
+<sup>2</sup> Les officiers sont promus par le chef du Service.
+
+<sup>3</sup> Les sous-officiers sont promus par le commandant cantonal de la protection civile.
 
 #### Art. 7
 
@@ -188,7 +216,7 @@ Arrête:
 
 <sup>3</sup> Le Service accède à la plate-forme informatique contenant les données des registres des habitants, conformément à l'ordonnance y relative.
 
-<sup>4</sup> Le Service fournit aux commandants des formations les résultats du contrôle de corps des personnes astreintes.
+<sup>4</sup> Le Service fournit aux commandants d'unité des formations, ainsi qu'aux officiers d'état-major et sous-officiers supérieurs en charge du personnel, les résultats du contrôle de corps des personnes astreintes.
 
 ## 5 Instruction
 
@@ -200,7 +228,7 @@ Arrête:
 
 <sup>2</sup> L'instruction des cadres et des spécialistes peut être organisée en collaboration avec d'autres cantons.
 
-<sup>3</sup> Le Service est responsable de l'instruction de base ainsi que des cours de cadres et des cours de perfectionnement pour les cadres. Les commandants des formations de protection civile sont responsables des cours de répétition.
+<sup>3</sup> Le Service est responsable de l'instruction de base ainsi que des cours de cadres et des cours de perfectionnement pour les cadres. Les commandants de bataillon, en collaboration avec leurs commandants d'unité, sont responsables des cours de répétition.
 
 #### Art. 17
 
@@ -255,29 +283,17 @@ Arrête:
 
 #### Art. 21
 
-**Alarme – En général (art. 17 OAL)**
-
-<sup>1</sup> Le Service établit la planification générale du réseau d'alarme et de l'installation des sirènes fixes.
-
-<sup>2</sup> Les communes établissent une planification concernant la mise en œuvre des moyens d'alarme nécessaires pour que la population qui ne peut pas être atteinte par les moyens usuels d'alarme puisse être informée.
-
-<sup>3</sup> La préparation de l'alarme, la transmission de l'alarme à la population et la diffusion des consignes de comportement sont exécutées par les organes prévus par la législation sur la protection de la population. La compétence des organes de la Confédération demeure réservée.
+**…**
 
 #### Art. 22
 
-**Alarme – Sirènes (art. 18 OAL)**
-
-<sup>1</sup> Les communes sont tenues de procéder à l'installation des sirènes d'alarme et veillent à l'entretien de celles-ci, conformément aux dispositions du droit fédéral et aux directives du Service.
-
-<sup>2</sup> En cas de carence, le Service peut faire procéder à l'installation.
-
-<sup>3</sup> Des essais d'alarme générale sont effectués conformément aux prescriptions fédérales. Le Service en avise la population par la voie de la Feuille officielle et de la presse.
+**…**
 
 #### Art. 23
 
 **Engagement des formations (art. 14 LPCi) – Requêtes**
 
-<sup>1</sup> Les collectivités et les organes qui veulent requérir l'intervention de formations de protection civile en informent au plus vite le Service, en précisant la nature et la durée prévisible de l'intervention ainsi que les effectifs qu'il est prévu d'engager.
+<sup>1</sup> Les collectivités et les organes qui veulent requérir l'intervention de la PCi en informent au plus vite le Service, en précisant la nature et la durée prévisible de l'intervention ainsi que les effectifs qu'il est prévu d'engager.
 
 <sup>2</sup> A la fin de l'engagement, les commandants des formations engagées fournissent au Service un rapport d'intervention comprenant notamment la liste des participants et le nombre de jours accomplis.
 
@@ -285,13 +301,15 @@ Arrête:
 
 **Engagement des formations (art. 14 LPCi) – Frais**
 
-<sup>1</sup> Les frais des interventions sont à la charge de la collectivité qui requiert l'intervention de la formation de protection civile.
+<sup>1</sup> Les frais d'intervention sont répartis entre les communes et l'Etat à raison de 50 % à la charge des communes et de 50 % à la charge de l'Etat.
 
 <sup>2</sup> Par frais, on entend la solde des personnes astreintes, les frais de subsistance, les frais d'hébergement, les frais de matériel d'emploi et les frais d'utilisation des véhicules.
 
+<sup>3</sup> Les officiers professionnels et de milice nécessaires à la conduite des interventions perçoivent une indemnité annuelle pour leur mobilisation au pied levé.
+
 #### Art. 25
 
-**Travaux pratiques au profit de la collectivité (art. 2 et 8 à 12 OIPCC) – Requêtes**
+**Travaux pratiques au profit de la collectivité – Requêtes**
 
 <sup>1</sup> Les communes qui requièrent l'intervention de la protection civile pour des travaux pratiques à leur profit doivent déposer une requête écrite motivée auprès du Service, en règle générale jusqu'au 30 septembre de l'année précédant les travaux.
 
@@ -299,7 +317,7 @@ Arrête:
 
 #### Art. 26
 
-**Travaux pratiques au profit de la collectivité (art. 2 et 8 à 12 OIPCC) – Motivation**
+**Travaux pratiques au profit de la collectivité – Motivation**
 
 <sup>1</sup> Les requérants doivent exposer leur besoin ainsi que la nature et la durée des travaux.
 
@@ -312,7 +330,7 @@ Arrête:
 
 #### Art. 27
 
-**Travaux pratiques au profit de la collectivité (art. 2 et 8 à 12 OIPCC) – Procédure et décision**
+**Travaux pratiques au profit de la collectivité – Procédure et décision**
 
 <sup>1</sup> Les requêtes sont transmises au préfet concerné, pour préavis.
 
@@ -320,7 +338,7 @@ Arrête:
 
 #### Art. 28
 
-**Travaux pratiques au profit de la collectivité (art. 2 et 8 à 12 OIPCC) – Frais**
+**Travaux pratiques au profit de la collectivité – Frais**
 
 <sup>1</sup> Les frais des travaux pratiques effectués au profit des communes sont répartis entre l'Etat et toutes les communes, conformément aux principes fixés à l'article 23 al. 2 et 4 LPCi.
 
@@ -413,7 +431,7 @@ Arrête:
 
 <sup>1</sup> Le Conseil d'Etat arrête le plan cantonal des constructions du service sanitaire (centres sanitaires protégés et unités d'hôpital protégées), comprenant notamment l'implantation, la réalisation et la gestion de ces constructions.
 
-<sup>2</sup> Le Service de la santé publique assure la réalisation, l'équipement, l'entretien et la modernisation des constructions du service sanitaire. Il peut, par voie de convention, déléguer cette tâche à une autre instance.
+<sup>2</sup> Le Service du médecin cantonal assure la réalisation, l'équipement, l'entretien et la modernisation des constructions du service sanitaire. Il peut, par voie de convention, déléguer cette tâche à une autre instance.
 
 <sup>3</sup> Les tâches confiées par le droit fédéral aux institutions dont relèvent les constructions du service sanitaire sont réservées.
 
@@ -421,7 +439,7 @@ Arrête:
 
 **Contrôles périodiques (art. 19 LPCi)**
 
-<sup>1</sup> Le Service est chargé du contrôle périodique des constructions du service sanitaire ainsi que du matériel qui équipe ces constructions. Il peut requérir à cet effet la collaboration de la compagnie d'intervention concernée.
+<sup>1</sup> Le Service du médecin cantonal est chargé du contrôle périodique des constructions du service sanitaire ainsi que du matériel qui équipe ces constructions. Il peut requérir à cet effet l'appui du Service.
 
 <sup>2</sup> Il peut être chargé par l'autorité fédérale compétente du contrôle final des nouvelles constructions et des installations modernisées.
 
@@ -441,7 +459,7 @@ Arrête:
 
 **Réparations**
 
-<sup>1</sup> Les petites réparations sont effectuées par les compagnies d'intervention.
+<sup>1</sup> Les petites réparations sont effectuées par les compagnies.
 
 <sup>2</sup> Les formations qui ne sont pas en mesure de procéder elles-mêmes à la réparation en avisent le Service. Celui-ci fait établir un devis par une entreprise spécialisée.
 
@@ -457,7 +475,7 @@ Arrête:
 
 **Préposé au matériel**
 
-<sup>1</sup> Les formations de protection civile disposent chacune au moins d'un préposé au matériel.
+<sup>1</sup> Les unités de PCi disposent chacune au moins d'un préposé au matériel.
 
 <sup>2</sup> Elles remettent annuellement au Service, en janvier, un rapport sur l'état du matériel et des installations. Les rapports sont visés par les commandants des formations concernées.
 
@@ -481,11 +499,11 @@ Arrête:
 
 #### Art. 46
 
-**Définitions (art. 23 al. 2 let. b et d LPCi)**
+**Définitions (art. 23 al. 2 let. b, d et e LPCi)**
 
-<sup>1</sup> Par frais d'instruction, au sens de l'article 23 al. 2 let. b LPCi, on entend:
+<sup>1</sup> Par frais d'instruction et d'intervention, au sens de l'article 23 al. 2 let. b et e LPCi, on entend:
 
-- a) la rémunération du personnel instructeur du Service;
+- a) la rémunération du personnel instructeur et d'intervention du Service;
 - b) les frais de subsistance;
 - c) la solde des personnes astreintes;
 - d) la participation aux coûts d'exploitation du centre d'instruction;
@@ -498,9 +516,12 @@ Arrête:
 <sup>2</sup> Par frais d'exploitation des systèmes d'alarme, au sens de l'article 23 al. 2 let. d LPCi, on entend:
 
 - a) les frais de location de lignes;
+- a1) les frais du personnel nécessaire à la gestion du parc;
 - b) les frais de maintenance du système de télécommande;
-- c) les frais de réparation;
-- d) les frais de remplacement des sirènes lorsqu'ils ne sont pas pris en charge par la Confédération.
+- c) les frais de maintenance, d'entretien et de réparation;
+- d) les frais de remplacement des sirènes et des batteries;
+- e) les frais de démontage ou de déplacement de sirènes;
+- f) les frais de densification.
 
 #### Art. 47
 
@@ -510,13 +531,13 @@ Arrête:
 
 #### Art. 48
 
-**Contributions de remplacement (art. 24a et 24b LPCi)**
+**Contributions de remplacement (art. 24a et 24b LPCi et art. 75 OPCi)**
 
-<sup>1</sup> Les contributions de remplacement pour les places protégées dans les abris publics, privés ou privés communs sont fixées à 800 francs par place.
+<sup>1</sup> …
 
 <sup>2</sup> Les préfectures facturent le montant des contributions de remplacement lors de l'établissement du permis de construire, en se référant aux informations du Service.
 
-<sup>3</sup> Le Service détermine les montants qui doivent être versés par les communes ou par l'Etat aux propriétaires qui construisent des abris privés communs.
+<sup>3</sup> Le Service détermine les montants qui doivent être versés par l'Etat aux propriétaires qui construisent des abris publics ou des abris privés communs.
 
 #### Art. 48a
 

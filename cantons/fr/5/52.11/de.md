@@ -4,13 +4,12 @@ number: "52.11"
 title: Reglement über den Zivilschutz
 short: ZSR
 language: de
-version: 2022-12-01
-valid_until: 2026-09-30
-version_adopted: 2022-11-08
+version: 2026-10-01
+version_adopted: 2026-09-29
 adopted: 2004-06-23
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/52.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7630/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8677/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Zivilschutz – R
 
 (ZSR)
 
-vom 23.06.2004 (Fassung in Kraft getreten am 01.12.2022)
+vom 23.06.2004 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -57,7 +56,7 @@ beschliesst:
 
 <sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) ist die zuständige kantonale Behörde im Bereich des Zivilschutzes. Für die Erfüllung ihrer Aufgaben und für die Wahrnehmung ihrer Kompetenzen gemäss den Bestimmungen dieses Reglements verfügt sie über das Amt für zivile Sicherheit und Militär (das Amt).
 
-<sup>2</sup> Sie ernennt die Kommandanten der Einsatzkompanien, die stellvertretenden Kommandanten sowie die Stabsoffiziere dieser Kompanien. Die betroffenen Oberamtmänner nehmen dazu Stellung.
+<sup>2</sup> Die Kommandanten, die Stabsmitglieder der Truppenkörper und die Führungsgehilfen der Kompanien werden von der Direktion ernannt.
 
 <sup>3</sup> Sie erlässt die notwendigen Ausführungsbestimmungen zuhanden der Gemeinden und der Privatpersonen.
 
@@ -65,7 +64,7 @@ beschliesst:
 
 **Amt für Gesundheit (Art. 4 und 19 ZSG)**
 
-<sup>1</sup> Das Amt für Gesundheit ist zuständig für die staatlichen Massnahmen im Bereich der Bauten des Sanitätsdienstes (vgl. Art. 38 Abs. 2).
+<sup>1</sup> Das Kantonsarztamt ist zuständig für die staatlichen Massnahmen im Bereich der Bauten des Sanitätsdienstes (vgl. Art. 38 Abs. 2).
 
 #### Art. 4
 
@@ -79,27 +78,56 @@ beschliesst:
 
 #### Art. 6
 
-**Einsatzkompanien (Art. 6 ZSG)**
+**…**
 
-<sup>1</sup> Die Einsatzkompanien haben den Bestand, der je nach Bevölkerungszahl der Zivilschutzregionen zur Erfüllung der ihnen zugewiesenen Aufträge notwendig ist.
+#### Art. 6a
 
-<sup>2</sup> Die Einsatzkompanien Nord und Süd umfassen folgende Elemente:
+**Gebietsaufteilung (Art. 6a ZSG)**
 
-- a) Züge für die Führungsunterstützung;
-- b) Betreuungszüge;
-- c) Unterstützungszüge;
-- d) einen Logistikzug;
-- e) einen Infrastrukturzug für die periodischen Kontrollen der Schutzbauten und den Unterhalt der Zivilschutzeinrichtungen im ganzen Kanton;
-- f) Führungsunterstützungsgruppen, die von den Gemeindeführungsorganen (GFO) eingesetzt werden können.
+<sup>1</sup> Das Kantonsgebiet umfasst drei Zivilschutzregionen:
 
-<sup>3</sup> Die Einsatzkompanie Mitte ist so organisiert, dass sie innert drei Stunden einsatzbereit ist. Sie umfasst folgende Elemente:
+- a) Region Nord: Broye- und Seebezirk;
+- b) Region Zentrum: Saane- und Sensebezirk;
+- c) Region Süd: Glane- Vivisbach- und Greyerzbezirk.
 
-- a) einen Zug für die Führungsunterstützung;
-- b) Unterstützungszüge;
-- c) einen Betreuungszug;
-- d) einen Logistikzug.
+<sup>2</sup> Jede Region verfügt über einen Hauptkommandoposten und mehrere sekundäre Kommandoposten für alle Zivilschutzformationen, die der Region zugewiesen sind.
 
-<sup>4</sup> Das Amt legt die Organisation der Einsatzkompanien genauer fest. Es ernennt die Mitglieder des Kaders, die nicht von der Direktion ernannt werden.
+<sup>3</sup> Jede Region verfügt über die nötigen logistischen Mittel für die ersten Einsatzstunden. Das kantonale Logistikzentrum sorgt für den Aufwuchs und die Durchhaltefähigkeit.
+
+#### Art. 6b
+
+**Operative Organisation des Zivilschutzes (Art. 6b ZSG)**
+
+<sup>1</sup> Die Führungsstäbe der Zivilschutzformationen haben namentlich folgende Aufgaben:
+
+- a) Sie ermitteln die Risiken ihrer Region.
+- b) Sie tragen zur Vorausplanung des Kantons bei.
+- c) Sie erarbeiten in Zusammenarbeit mit den kommunalen Verbindungsstellen für den Bevölkerungsschutz und den lokalen Naturgefahrenberaterinnen und Naturgefahrenberatern eine Vorsorgeplanung, um die Verletzlichkeit der Bevölkerung angesichts der erkannten Risiken zu reduzieren.
+- d) Sie setzen das Leistungsprofil um, das der kantonale Stab Bevölkerungsschutz (KSBS) beschlossen hat.
+- e) Sie stellen die Grundbereitschaft ihrer Einheiten sicher.
+- f) Sie halten sich bereit, in jeder Lage Einsätze zu planen und zu leiten.
+
+<sup>2</sup> Das Stabsbataillon des Zivilschutzes (ZS) hat namentlich folgende Aufgaben:
+
+- a) Es betreibt die kantonalen Führungsanlagen für den Staatsrat, den KSBS und den Zivilschutz.
+- b) Es erbringt die nötigen Leistungen für die Erstellung eines aussagekräftigen Gesamtlagebildes für den Zivilschutz und den Bevölkerungsschutz.
+- c) Es verstärkt die regionalen ZS-Bataillone mit den Mitteln, die für besondere Aufgaben bestimmt sind.
+
+<sup>3</sup> Die regionalen ZS-Bataillone haben namentlich folgende Aufgaben:
+
+- a) Sie leisten den Gemeinden subsidiäre Unterstützung bei der Betreuung der zivilen Opfer und bei der Wiederherstellung ihrer Lebensgrundlagen.
+- b) Sie übernehmen die subsidiären Aufgaben der Partner des Bevölkerungsschutzes und unterstützen sie bei einigen ihrer primären Aufgaben.
+- c) Sie garantieren mit den verfügbaren Mitteln die Einsätze zugunsten der Gemeinwesen.
+
+#### Art. 6c
+
+**Reglementarische Organisation der Kompanien und Truppenkörper**
+
+<sup>1</sup> Die reglementarische Organisation des Regiments, der Bataillone und der Kompanien wird vom Amt beschlossen.
+
+<sup>2</sup> Die Offiziere werden vom Vorsteher des Amts befördert.
+
+<sup>3</sup> Die Unteroffiziere werden vom kantonalen Zivilschutzkommandanten befördert.
 
 #### Art. 7
 
@@ -188,7 +216,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt hat gemäss der einschlägigen Verordnung Zugang zur Informatikplattform der Einwohnerregisterdaten.
 
-<sup>4</sup> Das Amt teilt den Kommandanten der Formationen die Ergebnisse der Kontrolle über die Schutzdienstpflichtigen mit.
+<sup>4</sup> Das Amt teilt den Einheitskommandanten der Formationen sowie den für das Personal zuständigen Stabsoffizieren und höheren Unteroffizieren die Ergebnisse der Kontrolle über die Schutzdienstpflichtigen mit.
 
 ## 5 Ausbildung
 
@@ -200,7 +228,7 @@ beschliesst:
 
 <sup>2</sup> Die Ausbildung der Kader und Spezialisten kann in Zusammenarbeit mit anderen Kantonen erfolgen.
 
-<sup>3</sup> Das Amt ist für die Grundausbildung sowie für die Kaderkurse und die Weiterbildungskurse für Kader verantwortlich. Die Kommandanten der Zivilschutzformationen sind für die Wiederholungskurse zuständig.
+<sup>3</sup> Das Amt ist für die Grundausbildung sowie für die Kaderkurse und die Weiterbildungskurse für Kader verantwortlich. Die Bataillonskommandanten sind in Zusammenarbeit mit ihren Einheitskommandanten für die Wiederholungskurse zuständig.
 
 #### Art. 17
 
@@ -255,29 +283,17 @@ beschliesst:
 
 #### Art. 21
 
-**Alarm – Im Allgemeinen (Art. 17 AV)**
-
-<sup>1</sup> Das Amt erstellt eine allgemeine Planung des Alarmnetzes und der Installation von stationären Sirenen.
-
-<sup>2</sup> Die Gemeinden erstellen eine Planung für die Inbetriebsetzung der notwendigen Alarmierungsmittel für die Information jenes Bevölkerungsteils, der durch die üblichen Alarmierungsmittel nicht erreicht werden kann.
-
-<sup>3</sup> Die Alarmierungsbereitschaft, die Alarmierung der Bevölkerung und die Verbreitung von Verhaltensanweisungen werden von den Organen ausgeführt, die in der Gesetzgebung über den Bevölkerungsschutz dafür vorgesehen sind. Die Zuständigkeit der Bundesorgane bleibt vorbehalten.
+**…**
 
 #### Art. 22
 
-**Alarm – Sirenen (Art. 18 AV)**
-
-<sup>1</sup> Die Gemeinden sind gemäss den Bestimmungen des Bundesrechts und den Richtlinien des Amtes dazu verpflichtet, Alarmsirenen zu installieren und für deren Wartung zu sorgen.
-
-<sup>2</sup> Kommen die Gemeinden ihren Pflichten nicht nach, so kann das Amt die Ausführung anordnen.
-
-<sup>3</sup> Probealarme für den «Allgemeinen Alarm» werden entsprechend den Vorschriften des Bundes durchgeführt. Das Amt benachrichtigt die Bevölkerung über das Amtsblatt und die Presse.
+**…**
 
 #### Art. 23
 
 **Einsatz der Formationen (Art. 14 ZSG) – Gesuche**
 
-<sup>1</sup> Körperschaften und Organe, die den Einsatz von Zivilschutzformationen beantragen wollen, teilen dies dem Amt unverzüglich mit und geben die Art und die voraussichtliche Dauer des Einsatzes sowie die vorgesehene Zahl der einzusetzenden Schutzdienstpflichtigen an.
+<sup>1</sup> Gemeinwesen und Organe, die den Einsatz des ZS beantragen wollen, teilen dies dem Amt unverzüglich mit und geben die Art und die voraussichtliche Dauer des Einsatzes sowie die vorgesehene Zahl der einzusetzenden Schutzdienstpflichtigen an.
 
 <sup>2</sup> Bei Einsatzende liefern die Kommandanten der eingesetzten Formationen dem Amt einen Einsatzbericht mit der Teilnehmerliste und der Anzahl der geleisteten Diensttage.
 
@@ -285,13 +301,15 @@ beschliesst:
 
 **Einsatz der Formationen (Art. 14 ZSG) – Kosten**
 
-<sup>1</sup> Die Einsatzkosten werden von der Körperschaft übernommen, die um den Einsatz der Zivilschutzformation ersucht.
+<sup>1</sup> Die Einsatzkosten werden zu 50 % von den Gemeinden und zu 50 % vom Staat übernommen.
 
 <sup>2</sup> Bei den Kosten handelt es sich um den Sold der schutzdienstpflichtigen Personen, die Kosten für Verpflegung, Unterkunft, Verbrauchsmaterial und die Benützung von Fahrzeugen.
 
+<sup>3</sup> Die für die Einsatzführung benötigten Berufs- und Milizoffiziere erhalten für ihre Mobilisierung aus dem Stand eine Jahresentschädigung.
+
 #### Art. 25
 
-**Praktische Arbeiten zugunsten der Gemeinschaft (Art. 2 und 8–12 VEZG) – Gesuche**
+**Praktische Arbeiten zu Gunsten der Gemeinschaft – Gesuche**
 
 <sup>1</sup> Gemeinden, die den Einsatz des Zivilschutzes für praktische Arbeiten zu ihren Gunsten beantragen, müssen grundsätzlich vor dem 30. September des Vorjahres ein begründetes schriftliches Gesuch beim Amt einreichen.
 
@@ -299,7 +317,7 @@ beschliesst:
 
 #### Art. 26
 
-**Praktische Arbeiten zugunsten der Gemeinschaft (Art. 2 und 8–12 VEZG) – Begründung**
+**Praktische Arbeiten zu Gunsten der Gemeinschaft – Begründung**
 
 <sup>1</sup> Die Gesuchsteller müssen ihren Bedarf sowie die Art und die Dauer der Arbeiten darlegen.
 
@@ -312,7 +330,7 @@ beschliesst:
 
 #### Art. 27
 
-**Praktische Arbeiten zugunsten der Gemeinschaft (Art. 2 und 8–12 VEZG) – Verfahren und Entscheid**
+**Praktische Arbeiten zu Gunsten der Gemeinschaft – Verfahren und Entscheid**
 
 <sup>1</sup> Die Gesuche werden dem betreffenden Oberamtmann zur Stellungnahme unterbreitet.
 
@@ -320,7 +338,7 @@ beschliesst:
 
 #### Art. 28
 
-**Praktische Arbeiten zugunsten der Gemeinschaft (Art. 2 und 8–12 VEZG) – Kosten**
+**Praktische Arbeiten zu Gunsten der Gemeinschaft – Kosten**
 
 <sup>1</sup> Die Kosten der zu Gunsten von Gemeinden geleisteten Arbeiten werden gemäss den in Artikel 23 Abs. 2 und 4 ZSG festgelegten Grundsätzen zwischen dem Staat und allen Gemeinden aufgeteilt.
 
@@ -413,7 +431,7 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat legt die kantonale Planung der Bauten des Sanitätsdienstes (geschützte Sanitätsstellen und geschützte Spitäler) fest, die namentlich den Standort, die Erstellung und die Verwaltung dieser Bauten umfasst.
 
-<sup>2</sup> Das Amt für Gesundheit sorgt für die Erstellung, die Ausrüstung, den Unterhalt und die Erneuerung der Bauten des Sanitätsdienstes. Es kann diese Aufgabe durch Vertrag einer anderen Instanz übertragen.
+<sup>2</sup> Das Kantonsarztamt sorgt für die Erstellung, die Ausrüstung, den Unterhalt und die Erneuerung der Bauten des Sanitätsdienstes. Es kann diese Aufgabe durch Vertrag einer anderen Instanz übertragen.
 
 <sup>3</sup> Die Aufgaben, die vom Bundesrecht den Trägerschaften der Bauten des Sanitätsdienstes übertragen werden, bleiben vorbehalten.
 
@@ -421,7 +439,7 @@ beschliesst:
 
 **Periodische Kontrollen (Art. 19 ZSG)**
 
-<sup>1</sup> Das Amt ist mit der periodischen Kontrolle der Bauten des Sanitätsdienstes sowie des Materials, mit dem diese Bauten ausgerüstet sind, beauftragt. Es kann zu diesem Zweck die Unterstützung der betreffenden Einsatzkompanie anfordern.
+<sup>1</sup> Das Kantonsarztamt ist mit der periodischen Kontrolle der Bauten des Sanitätsdienstes sowie des Materials, mit dem diese Bauten ausgerüstet sind, beauftragt. Es kann zu diesem Zweck die Unterstützung des Amts anfordern.
 
 <sup>2</sup> Es kann von der zuständigen Bundesbehörde mit der Schlusskontrolle der neuen Bauten und der erneuerten Anlagen beauftragt werden.
 
@@ -441,7 +459,7 @@ beschliesst:
 
 **Reparaturen**
 
-<sup>1</sup> Kleinere Reparaturen werden von den Einsatzkompanien durchgeführt.
+<sup>1</sup> Kleinere Reparaturen werden von den Kompanien durchgeführt.
 
 <sup>2</sup> Formationen, die nicht in der Lage sind, diese Reparaturen selbst auszuführen, teilen dies dem Amt mit. Das Amt lässt von einem spezialisierten Unternehmen einen Kostenvoranschlag erstellen.
 
@@ -457,7 +475,7 @@ beschliesst:
 
 **Materialwart**
 
-<sup>1</sup> Die Zivilschutzformationen verfügen je über mindestens einen Materialwart.
+<sup>1</sup> Die ZS-Einheiten verfügen je über mindestens einen Materialwart.
 
 <sup>2</sup> Sie stellen dem Amt jährlich im Januar einen Bericht über den Zustand des Materials und der Anlagen zu. Die Berichte sind vorher von den Kommandanten der betreffenden Formationen zu genehmigen.
 
@@ -481,11 +499,11 @@ beschliesst:
 
 #### Art. 46
 
-**Begriffe (Art. 23 Abs. 2 Bst. b und d ZSG)**
+**Begriffe (Art. 23 Abs. 2 Bst. b, d und e ZSG)**
 
-<sup>1</sup> Als Ausbildungskosten im Sinne von Artikel 23 Abs. 2 Bst. b ZSG gelten:
+<sup>1</sup> Als Ausbildungs- und Einsatzkosten im Sinne von Artikel 23 Abs. 2 Bst. b und e ZSG gelten:
 
-- a) die Entlöhnung des Ausbildungspersonals des Amtes;
+- a) die Entlöhnung des Ausbildungs- und Einsatzpersonals des Amtes;
 - b) die Verpflegungskosten;
 - c) der Sold der schutzdienstpflichtigen Personen;
 - d) die Beteiligung an den Betriebskosten des Ausbildungszentrums;
@@ -498,9 +516,12 @@ beschliesst:
 <sup>2</sup> Als Betriebskosten der Alarmsysteme im Sinne von Artikel 23 Abs. 2 Bst. d ZSG gelten:
 
 - a) die Kosten für Mietleitungen;
+- a1) die Personalkosten für die Verwaltung der Alarmsysteme;
 - b) die Kosten für die Wartung des Fernsteuerungssystems;
-- c) die Reparaturkosten;
-- d) die Kosten für den Austausch von Sirenen, sofern diese nicht vom Bund übernommen werden.
+- c) die Kosten für Wartung, Unterhalt und Reparatur;
+- d) die Kosten für den Ersatz von Sirenen und Akkus;
+- e) die Kosten für die Demontage oder Neumontage von Sirenen;
+- f) die Kosten für die Verdichtung.
 
 #### Art. 47
 
@@ -510,9 +531,9 @@ beschliesst:
 
 #### Art. 48
 
-**Ersatzbeiträge (Art. 24a und 24b ZSG)**
+**Ersatzbeiträge (Art. 24a und 24b ZSG und Art. 75 ZSV)**
 
-<sup>1</sup> Die Ersatzbeiträge für Schutzplätze in öffentlichen, privaten oder gemeinsamen privaten Schutzräumen betragen 800 Franken pro Platz.
+<sup>1</sup> …
 
 <sup>2</sup> Die Oberämter stellen den Betrag der Ersatzbeiträge bei der Erteilung der Baubewilligung aufgrund der Angaben des Amts in Rechnung.
 
