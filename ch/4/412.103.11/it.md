@@ -4,11 +4,11 @@ title: Ordinanza della SEFRI del 5 maggio 2022 sull’esame federale di maturit�
 short: OEFMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/303"
 language: it
-version: 2022-10-01
+version: 2026-10-01
 adopted: 2022-05-05
 in_force: 2022-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/303/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2022-303-20221001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/303/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2022-303-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20221001/it"
 
 (OEFMP)
 
-del 5 maggio 2022 (Stato 1° ottobre 2022)
+del 5 maggio 2022 (Stato 1° ottobre 2026)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
-visto l’articolo 4 capoverso 2 dell’ordinanza del 24 giugno 2009[^ingress-1] sulla maturità professionale (OMPr),
+visto l’articolo 4 capoverso 2 dell’ordinanza del 13 giugno 2025[^ingress-1] sulla maturità professionale (OMPr),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
+[^ingress-1]: [RS 412.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6599)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## Sezione 1: Oggetto e scopo dell’esame
 
@@ -37,9 +38,11 @@ La presente ordinanza disciplina l’organizzazione e lo svolgimento dell’esam
 
 #### Art. 2
 
-**Scopo dell’esame**
+**Scopo dell’esame**[^2-1]
 
-L’esame federale di maturità professionale ha lo scopo di stabilire se i candidati che hanno acquisito le competenze della formazione generale approfondita al di fuori di un ciclo di formazione riconosciuto ai sensi dell’articolo 29 OMPr hanno raggiunto gli obiettivi di cui all’articolo 3 OMPr e sono in grado di intraprendere gli studi presso una scuola universitaria professionale.
+L’esame federale di maturità professionale ha lo scopo di stabilire se i candidati che hanno acquisito le competenze della formazione generale approfondita al di fuori di un ciclo di formazione riconosciuto secondo l’articolo 28 OMPr hanno raggiunto gli obiettivi di cui all’articolo 3 OMPr e sono in grado di intraprendere gli studi presso una scuola universitaria professionale.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## Sezione 2: Direzione
 
@@ -54,12 +57,14 @@ L’esame federale di maturità professionale ha lo scopo di stabilire se i cand
 La direzione d’esame svolge in particolare i seguenti compiti:
 
 - a. stabilisce il luogo e le date della sessione d’esame nonché il termine d’iscrizione;
-- b. pubblica sul sito della SEFRI le informazioni di cui alla lettera a e il termine per la consegna del progetto didattico interdisciplinare (PDI);
+- b.[^3-1] pubblica sul sito della SEFRI le informazioni di cui alla lettera a e il termine per la consegna del lavoro di progetto interdisciplinare (LPI);
 - c. definisce il programma d’esame;
 - d. propone alla presidenza degli esami il personale specializzato da impiegare;
 - e. controlla le iscrizioni all’esame e decide in merito all’ammissione;
 - f. organizza una volta all’anno la sessione d’esame e ne cura lo svolgimento;
 - g. compila i fogli delle note e rilascia le pagelle.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 4
 
@@ -72,10 +77,12 @@ La direzione d’esame svolge in particolare i seguenti compiti:
 La presidenza degli esami adempie i seguenti compiti:
 
 - a. nomina il personale specializzato;
-- b. definisce il tema del PDI;
+- b. definisce il tema del LPI[^4-1];
 - c. decide in merito alla concessione di strumenti ausiliari particolari o di più tempo (compensazione degli svantaggi);
 - d. prende le decisioni relative agli esami;
 - e. decide in merito alle sanzioni.
+
+[^4-1]: Nuova espr. giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Sezione 3: Procedura di ammissione
 
@@ -87,7 +94,7 @@ All’ esame può partecipare chi:
 
 - a. è titolare di un attestato federale di capacità (AFC) o dispone di una qualifica professionale equivalente;
 - b. ha inviato una domanda d’iscrizione completa secondo i requisiti formali ed entro il termine previsto; e
-- c. ha consegnato il PDI secondo i requisiti formali ed entro il termine previsto.
+- c. ha consegnato il LPI secondo i requisiti formali ed entro il termine previsto.
 
 #### Art. 6
 
@@ -102,11 +109,13 @@ L’iscrizione all’esame deve essere corredata dei seguenti documenti:
 
 <sup>2</sup> I candidati che, a causa di una problematica specifica, necessitano di strumenti ausiliari particolari o di più tempo (art. 4 cpv. 2 lett. c) devono presentare un’apposita domanda al momento dell’iscrizione.
 
-<sup>3</sup> I candidati in possesso di un diploma di lingue straniere riconosciuto per la seconda lingua nazionale o la terza lingua possono chiedere di essere esonerati dall’esame scritto e sostenere soltanto l’esame orale. La domanda deve essere presentata al momento dell’iscrizione. Il riconoscimento dei diplomi di lingue straniere si basa sull’articolo 23 OMPr.
+<sup>3</sup> I candidati in possesso di un diploma di lingue straniere riconosciuto per la seconda lingua nazionale o l’inglese possono chiedere di essere esonerati dall’esame scritto e sostenere soltanto l’esame orale. La domanda deve essere presentata al momento dell’iscrizione. Il riconoscimento dei diplomi di lingue straniere si basa sull’articolo 22 OMPr.[^6-1]
 
 <sup>4</sup> Devono essere utilizzati i moduli messi a disposizione dalla SEFRI.
 
 <sup>5</sup> È possibile cambiare il tipo di esame o l’indirizzo fino alla scadenza del termine d’iscrizione.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 7
 
@@ -118,7 +127,7 @@ Al massimo 60 giorni prima dell’esame la segreteria d’esame comunica per isc
 
 **Ritiro**
 
-<sup>1</sup> I candidati possono ritirare la propria iscrizione fino alla scadenza del termine per la consegna del PDI senza fornire motivazioni.
+<sup>1</sup> I candidati possono ritirare la propria iscrizione fino alla scadenza del termine per la consegna del LPI senza fornire motivazioni.
 
 <sup>2</sup>
 
@@ -135,15 +144,16 @@ Trascorso questo termine, il ritiro è ammesso soltanto per motivi validi. Sono 
 
 #### Art. 9
 
-**Base**
+**Base**[^9-1]
 
-Le competenze, gli ambiti di apprendimento e i requisiti per le singole materie e per il PDI nonché le materie dei singoli indirizzi si basano sul programma quadro d’insegnamento del 18 dicembre 2012[^9-1] per la maturità professionale (PQ MP).
+Le competenze, gli ambiti di apprendimento e i requisiti per le singole materie e per il LPI nonché le materie dei singoli indirizzi si basano sul programma quadro d’insegnamento del 13 giugno 2025[^9-2] per la maturità professionale (PQ MP).
 
-[^9-1]: Disponibile su www.sefri.admin.ch &gt; Formazione &gt; Maturità &gt; Maturità professionale &gt; Documentazione
+[^9-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^9-2]: Disponibile su [www.sbfi.admin.ch](https://www.sbfi.admin.ch/)&gt; Formazione &gt; Maturità &gt; Maturità professionale &gt; Documentazione.
 
 #### Art. 10
 
-**Materie d’esame e PDI**
+**Materie d’esame e LPI**
 
 <sup>1</sup>
 
@@ -151,7 +161,7 @@ Le materie d’esame dell’ambito fondamentale sono, per tutti gli indirizzi:
 
 - a. prima lingua nazionale: tedesco, francese o italiano;
 - b. seconda lingua nazionale: tedesco, francese o italiano;
-- c. terza lingua: tedesco, francese, italiano o inglese;
+- c.[^10-1] inglese;
 - d. matematica.
 
 <sup>2</sup>
@@ -232,7 +242,10 @@ Le materie d’esame dell’ambito complementare sono:
   - 1\. storia e politica,
   - 2\. tecnica e ambiente.
 
-<sup>4</sup> L’approccio interdisciplinare è verificato nell’ambito di un PDI. Il PDI deve essere redatto e presentato in base al tema prestabilito e includendo le due materie prestabilite.
+<sup>4</sup> L’approccio interdisciplinare è valutato nell’ambito di un LPI. I candidati devono redigere il LPI su un tema prestabilito facendo riferimento a due materie prestabilite, presentarlo e discuterlo con gli esaminatori.[^10-2]
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## Sezione 5: Modalità dell’esame
 
@@ -251,7 +264,7 @@ Le direttive della SEFRI concernenti l’esame sono elaborate in collaborazione 
 - a. la suddivisione dell’esame;
 - b. la forma e la durata dell’esame nelle singole materie, qualora ciò non sia riportato nel programma quadro d’insegnamento;
 - c. la struttura dell’esame e i criteri di valutazione;
-- d. i requisiti per l’elaborazione e la presentazione del PDI;
+- d. i requisiti per l’elaborazione e la presentazione del LPI;
 - e. la lista delle opere letterarie (suddivise per epoche e lingue);
 - f. la lista degli strumenti ausiliari autorizzati.
 
@@ -301,16 +314,18 @@ Il personale specializzato è costituito da:
 
   - 1\. correggono le prove scritte,
   - 2\. preparano e conducono gli esami orali,
-  - 3\. correggono il PDI e assistono alla presentazione,
+  - 3\.[^15-1] correggono il LPI, fanno sostenere la presentazione del LPI e conducono la discussione approfondita,
   - 4\. valutano le prestazioni;
 
 - d. i periti, che partecipano agli esami orali e alla loro valutazione.
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 16
 
 **Valutazione delle prestazioni**
 
-<sup>1</sup> Le prestazioni fornite nelle materie d’esame e nel PDI sono valutate con note intere o mezze note.
+<sup>1</sup> Le prestazioni fornite nelle materie d’esame e nel LPI sono valutate con note intere o mezze note.
 
 <sup>2</sup> La nota più alta è il 6, la nota più bassa è l’1. Le note inferiori al 4 indicano prestazioni insufficienti.
 
@@ -327,14 +342,35 @@ Per i candidati esonerati dall’esame scritto nella seconda lingua nazionale o 
 - a. per il 70 per cento dal risultato dell’esame del diploma di lingue straniere convertito in nota; e
 - b. per il 30 per cento dalla nota dell’esame orale.
 
+<sup>2</sup>
+
+Per i candidati esonerati dall’esame scritto nella seconda lingua nazionale o in inglese la nota della relativa lingua è composta:
+
+- a. per il 50 per cento dal risultato dell’esame del diploma di lingue straniere convertito in nota; e
+- b. per il 50 per cento dalla nota dell’esame orale.[^17-1]
+
 <sup>3</sup>
 
 La nota dell’approccio interdisciplinare è composta:
 
-- a. per due terzi dalla nota del PDI;
-- b. per un terzo dalla nota della presentazione.
+- a.
+
+  per l’indirizzo «creazione e arte»:
+
+  - 1\. per il 50 per cento dalla nota del processo di elaborazione e del prodotto del LPI, e
+  - 2\. per il 50 per cento dalla nota della presentazione con discussione approfondita del LPI;
+
+- b.
+
+  per gli altri indirizzi:
+
+  - 1\. per un terzo dalla nota del processo di elaborazione e del prodotto del LPI, e
+  - 2\. per due terzi dalla nota della presentazione con discussione approfondita del LPI.[^17-2]
 
 <sup>4</sup> La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note di tutte le materie dell’ambito fondamentale, dell’ambito specifico e dell’ambito complementare, nonché della nota dell’approccio interdisciplinare.
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 18
 
@@ -352,7 +388,7 @@ L’esame è considerato superato se:
 
 L’esame è considerato non superato se le condizioni di cui al capoverso 1 non sono adempiute oppure se il candidato:
 
-- a. presenta un PDI copiato (plagio);
+- a. presenta un LPI copiato (plagio);
 - b. non si presenta all’esame o a parti d’esame senza fornire tempestivamente motivi validi;
 - c. dopo aver sostenuto il primo esame parziale non sostiene il secondo esame parziale entro il termine stabilito all’articolo 13 capoverso 2;
 - d. si serve di strumenti ausiliari non autorizzati, disturba durante l’esame o si rende colpevole di altri comportamenti sleali;
@@ -386,16 +422,16 @@ L’esame è considerato non superato se le condizioni di cui al capoverso 1 non
 
 <sup>1</sup> Chi non ha superato l’esame può ripeterlo una volta.
 
-<sup>2</sup> In caso di ripetizione entro due anni dalla notifica della decisione relativa all’esame devono essere esaminate soltanto le materie in cui è stata fornita una prestazione insufficiente. Ciò vale anche per il PDI.
+<sup>2</sup> In caso di ripetizione entro due anni dalla notifica della decisione relativa all’esame devono essere esaminate soltanto le materie in cui è stata fornita una prestazione insufficiente. Ciò vale anche per il LPI.
 
 <sup>3</sup>
 
-Per la ripetizione di un PDI insufficiente entro il termine di cui al capoverso 2 il candidato può scegliere se:
+Per la ripetizione di un LPI insufficiente entro il termine di cui al capoverso 2 il candidato può scegliere se:
 
-- a. rielaborare il PDI; o
-- b. elaborare un PDI sul nuovo tema prestabilito.
+- a. rielaborare il LPI; o
+- b. elaborare un LPI sul nuovo tema prestabilito.
 
-<sup>4</sup> In caso di ripetizione dopo la scadenza del termine di cui al capoverso 2 tutte le materie e il PDI devono essere sostenuti nuovamente.
+<sup>4</sup> In caso di ripetizione dopo la scadenza del termine di cui al capoverso 2 tutte le materie e il LPI devono essere sostenuti nuovamente.
 
 <sup>5</sup> Le materie da ripetere possono essere sostenute in una o in due sessioni d’esame.
 
@@ -410,7 +446,7 @@ Chi ha superato l’esame consegue l’attestato federale di maturità professio
 - a. cognome, nome, luogo di origine o Paese di origine e data di nascita;
 - b. il titolo protetto riportato nell’AFC;
 - c. le note delle materie d’esame;
-- d. la nota dell’approccio interdisciplinare e il tema del PDI;
+- d. la nota dell’approccio interdisciplinare e il tema del LPI;
 - e. la nota complessiva;
 - f. l’indirizzo della maturità professionale secondo il PQ MP[^22-1];
 - g. la data del rilascio nonché la firma del presidente degli esami e della segretaria di Stato per la formazione, la ricerca e l’innovazione.
@@ -429,9 +465,15 @@ L’ordinanza della SEFRI del 16 novembre 2016[^23-1] sull’esame federale di m
 
 #### Art. 24
 
-**Disposizioni transitorie**
+**Disposizioni transitorie della modifica del 22 giugno 2026**[^24-1]
 
-I candidati che hanno sostenuto il primo esame parziale o il primo tentativo d’esame secondo il diritto anteriore portano a termine il secondo esame parziale o il secondo tentativo d’esame secondo la presente ordinanza.
+<sup>1</sup> I candidati che hanno sostenuto il primo esame parziale prima dell’entrata in vigore della modifica del 22 giugno 2026 portano a termine l’esame secondo il diritto anteriore.
+
+<sup>2</sup> La ripetizione dell’esame secondo il diritto anteriore è possibile per l’ultima volta nel 2029.
+
+<sup>3</sup> La prima procedura di qualificazione secondo le disposizioni della modifica del 22 giugno 2026 si svolge nel 2027.
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 22 giu. 2026, in vigore dal 1° ott. 2026 ([RU 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 25
 

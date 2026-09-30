@@ -4,11 +4,11 @@ title: Verordnung des SBFI vom 5. Mai 2022 über die eidgenössische Berufsmatur
 short: VEBMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/303"
 language: de
-version: 2022-10-01
+version: 2026-10-01
 adopted: 2022-05-05
 in_force: 2022-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/303/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2022-303-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/303/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2022-303-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20221001/de"
 
 (VEBMP)
 
-vom 5. Mai 2022 (Stand am 1. Oktober 2022)
+vom 5. Mai 2022 (Stand am 1. Oktober 2026)
 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
-gestützt auf Artikel 4 Absatz 2 der Berufsmaturitätsverordnung vom 24. Juni 2009[^ingress-1] (BMV),
+gestützt auf Artikel 4 Absatz 2 der Berufsmaturitätsverordnung vom 13. Juni 2025[^ingress-1] (BMV),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
+[^ingress-1]: [SR 412.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6599)
+[^ingress-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## 1. Abschnitt: Gegenstand und Prüfungszweck
 
@@ -37,9 +38,11 @@ Diese Verordnung regelt die Organisation und die Durchführung der eidgenössisc
 
 #### Art. 2
 
-**Prüfungszweck**
+**Prüfungszweck**[^2-1]
 
-Mit der eidgenössischen Berufsmaturitätsprüfung soll festgestellt werden, ob Kandidatinnen und Kandidaten, welche die Kompetenzen der erweiterten Allgemeinbildung ausserhalb eines nach Artikel 29 BMV anerkannten Bildungsgangs erworben haben, die Ziele nach Artikel 3 BMV erreicht haben und befähigt sind, ein Fachhochschulstudium aufzunehmen.
+Mit der eidgenössischen Berufsmaturitätsprüfung soll festgestellt werden, ob Kandidatinnen und Kandidaten, welche die Kompetenzen der erweiterten Allgemeinbildung ausserhalb eines nach Artikel 28 BMV anerkannten Bildungsgangs erworben haben, die Ziele nach Artikel 3 BMV erreicht haben und befähigt sind, ein Fachhochschulstudium aufzunehmen.
+
+[^2-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## 2. Abschnitt: Leitung
 
@@ -102,11 +105,13 @@ Die Anmeldung zur Prüfung muss folgende Unterlagen enthalten:
 
 <sup>2</sup> Wer aufgrund einer Beeinträchtigung besondere Hilfsmittel oder mehr Zeit benötigt (Art. 4 Abs. 2 Bst. c), muss dies mit der Anmeldung beantragen.
 
-<sup>3</sup> Wer für die zweite Landessprache oder die dritte Sprache über ein anerkanntes Fremdsprachendiplom verfügt, kann auf Antrag von der entsprechenden schriftlichen Prüfung dispensiert werden und muss nur die mündliche Prüfung ablegen. Der Antrag ist mit der Anmeldung einzureichen. Die Anerkennung der Fremdsprachendiplome richtet sich nach Artikel 23 BMV.
+<sup>3</sup> Wer für die zweite Landessprache oder Englisch über ein anerkanntes Fremdsprachendiplom verfügt, kann auf Antrag von der entsprechenden schriftlichen Prüfung dispensiert werden und muss nur die mündliche Prüfung ablegen. Der Antrag ist mit der Anmeldung einzureichen. Die Anerkennung der Fremdsprachendiplome richtet sich nach Artikel 22 BMV.[^6-1]
 
 <sup>4</sup> Es sind die vom SBFI zur Verfügung gestellten Formulare zu verwenden.
 
 <sup>5</sup> Ein Wechsel der Prüfungsart oder der Ausrichtung ist bis zum Ablauf der Anmeldefrist möglich.
+
+[^6-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 7
 
@@ -135,11 +140,12 @@ Später ist ein Rückzug nur möglich, wenn ein hinreichender Grund vorliegt. Al
 
 #### Art. 9
 
-**Grundlage**
+**Grundlage**[^9-1]
 
-Die Kompetenzen, Lerngebiete, Anforderungen in den einzelnen Fächern und in der IDPA sowie die Prüfungsfächer in den einzelnen Ausrichtungen richten sich nach dem Rahmenlehrplan vom 18. Dezember 2012[^9-1] für die Berufsmaturität (RLP-BM).
+Die Kompetenzen, Lerngebiete, Anforderungen in den einzelnen Fächern und in der IDPA sowie die Prüfungsfächer in den einzelnen Ausrichtungen richten sich nach dem Rahmenlehrplan vom 13. Juni 2025[^9-2] für die Berufsmaturität (RLP-BM).
 
-[^9-1]: Abrufbar unter www.sbfi.admin.ch &gt; Bildung &gt; Maturität &gt; Berufsmaturität &gt; Dokumentation.
+[^9-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^9-2]: Abrufbar unter www.sbfi.admin.ch &gt; Bildung &gt; Maturität &gt; Berufsmaturität &gt; Dokumentation.
 
 #### Art. 10
 
@@ -151,7 +157,7 @@ Prüfungsfächer im Grundlagenbereich sind für alle Ausrichtungen:
 
 - a. erste Landessprache: Deutsch, Französisch oder Italienisch;
 - b. zweite Landessprache: Deutsch, Französisch oder Italienisch;
-- c. dritte Sprache: Deutsch, Französisch, Italienisch oder Englisch;
+- c.[^10-1] Englisch;
 - d. Mathematik.
 
 <sup>2</sup>
@@ -232,7 +238,10 @@ Prüfungsfächer im Ergänzungsbereich sind:
   - 1\. Geschichte und Politik,
   - 2\. Technik und Umwelt.
 
-<sup>4</sup> Das interdisziplinäre Arbeiten wird im Rahmen einer IDPA geprüft. Die IDPA ist zum vorgegebenen Thema und unter Berücksichtigung von zwei vorgegebenen Fächern zu erstellen und zu präsentieren.
+<sup>4</sup> Das interdisziplinäre Arbeiten wird im Rahmen einer IDPA geprüft. Die Kandidatinnen und Kandidaten müssen zu einem vorgegebenen Thema und unter Berücksichtigung von zwei vorgegebenen Fächern die IDPA erstellen, präsentieren und mit den Examinierenden diskutieren.[^10-2]
+
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^10-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## 5. Abschnitt: Prüfungsmodalitäten
 
@@ -301,16 +310,18 @@ Das Fachpersonal besteht aus:
 
   - 1\. die schriftlich abgelegten Prüfungen korrigieren,
   - 2\. die mündlichen Prüfungen vorbereiten und abnehmen,
-  - 3\. die IDPA korrigieren und deren Präsentation abnehmen,
+  - 3\.[^15-1] die IDPA korrigieren und die Präsentation mit vertiefender Diskussion der IDPA abnehmen,
   - 4\. die Leistungen bewerten;
 
 - d. Expertinnen und Experten, die an der mündlichen Prüfung teilnehmen und an der Bewertung mitwirken.
+
+[^15-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 16
 
 **Leistungsbewertung**
 
-<sup>1</sup> Die in den Prüfungsfächern sowie in der IDPA erbrachten Leistungen werden in ganzen oder halben Noten ausgedrückt.
+<sup>1</sup> Die in den Prüfungsfächern sowie in der IDPA erbrachten Leistungen werden in ganzen oder halben Noten ausgedrückt.:
 
 <sup>2</sup> 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
@@ -322,19 +333,33 @@ Das Fachpersonal besteht aus:
 
 <sup>2</sup>
 
-Bei Kandidatinnen und Kandidaten, die von der schriftlichen Prüfung in der zweiten Landessprache oder der dritten Sprache dispensiert sind, beruht die Note für die entsprechende Sprache:
+Bei Kandidatinnen und Kandidaten, die von der schriftlichen Prüfung in der zweiten Landessprache oder in Englisch dispensiert sind, beruht die Note für die entsprechende Sprache:
 
-- a. zu 70 Prozent auf dem umgerechneten Prüfungsergebnis des Fremdsprachendiploms; und
-- b. zu 30 Prozent auf der Note der mündlichen Prüfung.
+- a. zu 50 Prozent auf dem umgerechneten Prüfungsergebnis des Fremdsprachendiploms; und
+- b. zu 50 Prozent auf der Note der mündlichen Prüfung.[^17-1]
 
 <sup>3</sup>
 
 Die Note für das interdisziplinäre Arbeiten beruht:
 
-- a. zu zwei Dritteln auf der Note für die IDPA;
-- b. zu einem Drittel auf der Note für die Präsentation der IDPA.
+- a.
+
+  für die Ausrichtung Gestaltung und Kunst:
+
+  - 1\. zu 50 Prozent auf der Note für den Erarbeitungsprozess und das Produkt der IDPA, und
+  - 2\. zu 50 Prozent auf der Note für die Präsentation mit vertiefender Diskussion der IDPA;
+
+- b.
+
+  für die anderen Ausrichtungen:
+
+  - 1\. zu einem Drittel auf der Note für den Erarbeitungsprozess und das Produkt der IDPA, und
+  - 2\. zu zwei Dritteln auf der Note für die Präsentation mit vertiefender Diskussion der IDPA.[^17-2]
 
 <sup>4</sup> Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der Noten aller Fächer im Grundlagenbereich, im Schwerpunktbereich und im Ergänzungsbereich sowie der Note für das interdisziplinäre Arbeiten.
+
+[^17-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^17-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 18
 
@@ -415,7 +440,7 @@ Wer die Prüfung bestanden hat, erhält das eidgenössische Berufsmaturitätszeu
 - f. die Ausrichtung der Berufsmaturität nach dem RLP-BM[^22-1];
 - g. das Datum der Ausstellung sowie die Unterschrift der Prüfungspräsidentin oder des Prüfungspräsidenten und der Staatssekretärin oder des Staatssekretärs für Bildung, Forschung und Innovation.
 
-[^22-1]: Abrufbar unter www.sbfi.admin.ch &gt; Bildung &gt; Maturität &gt; Berufsmaturität &gt; Dokumentation.
+[^22-1]: Abrufbar unter: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Bildung &gt; Maturität &gt; Berufsmaturität &gt; Dokumentation.
 
 ## 8. Abschnitt: Schlussbestimmungen
 
@@ -429,9 +454,15 @@ Die Verordnung des SBFI vom 16. November 2016[^23-1] über die eidgenössische B
 
 #### Art. 24
 
-**Übergangsbestimmungen**
+**Übergangsbestimmungen zur Änderung vom 22. Juni 2026**[^24-1]
 
-Kandidatinnen und Kandidaten, welche die erste Teilprüfung oder den ersten Prüfungsversuch nach bisherigem Recht absolviert haben, absolvieren die zweite Teilprüfung oder den zweiten Prüfungsversuch nach dieser Verordnung.
+<sup>1</sup> Kandidatinnen und Kandidaten, die vor dem Inkrafttreten der Änderung vom 22. Juni 2026 die erste Teilprüfung absolviert haben, beenden die Prüfung nach bisherigem Recht.
+
+<sup>2</sup> Prüfungswiederholungen nach bisherigem Recht sind letztmals 2029 möglich.
+
+<sup>3</sup> Das erste Qualifikationsverfahren nach den Bestimmungen der Änderung vom 22. Juni 2026 wird 2027 durchgeführt.
+
+[^24-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Juni 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 25
 

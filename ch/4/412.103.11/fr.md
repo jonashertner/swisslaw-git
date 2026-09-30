@@ -4,11 +4,11 @@ title: Ordonnance du SEFRI du 5 mai 2022 sur l’examen fédéral de maturité p
 short: OEFMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/303"
 language: fr
-version: 2022-10-01
+version: 2026-10-01
 adopted: 2022-05-05
 in_force: 2022-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/303/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2022-303-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/303/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2022-303-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/303/20221001/fr"
 
 (OEFMP)
 
-du 5 mai 2022 (État le 1<sup>er</sup> octobre 2022)
+du 5 mai 2022 (État le 1<sup>er</sup> octobre 2026)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
-vu l’art. 4, al. 2 de l’ordonnance du 24 juin 2009 sur la maturité professionnelle fédérale (OMPr)[^ingress-1],
+vu l’art. 4, al. 2, de l’ordonnance du 13 juin 2025 sur la maturité professionnelle fédérale (OMPr)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
+[^ingress-1]: [RS 412.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6599)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## Section 1 Objet et but de l’examen
 
@@ -37,9 +38,11 @@ La présente ordonnance régit l’organisation et le déroulement de l’examen
 
 #### Art. 2
 
-**But de l’examen**
+**But de l’examen**[^2-1]
 
-L’examen doit permettre de juger si les candidats ayant acquis les compétences de la formation générale approfondie hors du cadre d’une filière de formation reconnue au sens de l’art. 29 OMPr ont atteint les objectifs au sens de l’art. 3 OMPr et sont aptes à entamer des études dans une haute école spécialisée (HES).
+L’examen doit permettre de juger si les candidats ayant acquis les compétences de la formation générale approfondie hors du cadre d’une filière de formation reconnue au sens de l’art. 28 OMPr ont atteint les objectifs au sens de l’art. 3 OMPr et sont aptes à entamer des études dans une haute école spécialisée (HES).
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## Section 2 Direction
 
@@ -102,11 +105,13 @@ L’inscription à l’examen doit comprendre les documents suivants:
 
 <sup>2</sup> Si, en raison d’un handicap, le candidat a besoin de moyens auxiliaires spécifiques ou de plus de temps (art. 4, al. 2, let. c), il doit en faire la demande en même temps que l’inscription.
 
-<sup>3</sup> Le candidat qui possède un diplôme de langue étrangère reconnu pour la deuxième langue nationale ou la troisième langue peut, sur demande, être dispensé de l’examen écrit dans cette langue et ne passer que l’examen oral. La demande doit être déposée en même temps que l’inscription. La reconnaissance des diplômes de langue étrangère est régie par l’art. 23 OMPr.
+<sup>3</sup> Le candidat qui possède un diplôme de langue étrangère reconnu pour la deuxième langue nationale ou l’anglais peut, sur demande, être dispensé de l’examen écrit dans cette langue et ne passer que l’examen oral. La demande doit être déposée en même temps que l’inscription. La reconnaissance des diplômes de langue étrangère est régie par l’art. 22 OMPr.[^6-1]
 
 <sup>4</sup> Il convient d’utiliser les formulaires mis à disposition par le SEFRI.
 
 <sup>5</sup> Un changement de la forme d’examen ou de l’orientation est possible jusqu’à l’échéance du délai d’inscription.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 7
 
@@ -135,11 +140,12 @@ Passé ce délai, le retrait n’est possible que si un motif suffisant le justi
 
 #### Art. 9
 
-**Fondement**
+**Fondement**[^9-1]
 
-Les compétences, les domaines de formation, les exigences concernant les différentes branches et le TIP ainsi que les branches d’examen dans les différentes orientations sont régis par le plan d’études cadre du 18 décembre 2012 pour la maturité professionnelle (PEC MP)[^9-1].
+Les compétences, les domaines de formation, les exigences concernant les différentes branches et le TIP ainsi que les branches d’examen dans les différentes orientations sont régis par le plan d’études cadre du 13 juin 2025 pour la maturité professionnelle (PEC MP)[^9-2].
 
-[^9-1]: Disponible sur www.sefri.admin.ch &gt; Formation &gt; Maturité &gt; Maturité professionnelle &gt; Documentation
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^9-2]: Disponible sur [www.sefri.admin.ch](https://www.sbfi.admin.ch/fr) &gt; Formation &gt; Maturité &gt; Maturité professionnelle &gt; Documentation.
 
 #### Art. 10
 
@@ -151,7 +157,7 @@ Les branches d’examen du domaine fondamental sont les suivantes pour toutes le
 
 - a. première langue nationale: allemand, français ou italien;
 - b. deuxième langue nationale: allemand, français ou italien;
-- c. troisième langue: allemand, français, italien ou anglais;
+- c.[^10-1] anglais;
 - d. mathématiques.
 
 <sup>2</sup>
@@ -232,7 +238,10 @@ Les branches d’examen du domaine complémentaire sont les suivantes:
   - 1\. histoire et institutions politiques,
   - 2\. technique et environnement.
 
-<sup>4</sup> L’aptitude au travail interdisciplinaire est évaluée dans le cadre d’un TIP. Le TIP doit être élaboré et présenté sur le thème prescrit et pour deux branches prescrites.
+<sup>4</sup> L’aptitude au travail interdisciplinaire est évaluée dans le cadre d’un TIP. Le candidat élabore le TIP sur un thème prescrit et pour deux branches prescrites, le présente et le discute avec les examinateurs.[^10-2]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 ## Section 5 Modalités de l’examen
 
@@ -301,10 +310,12 @@ Le personnel spécialisé comprend:
 
   - 1\. corrigent les examens écrits,
   - 2\. préparent et mènent les examens oraux,
-  - 3\. corrigent le TIP et mènent sa présentation,
+  - 3\.[^15-1] corrigent le TIP et mènent sa présentation suivie d’une discussion approfondie,
   - 4\. évaluent les prestations;
 
 - d. des experts qui participent aux examens oraux et à leur évaluation.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 16
 
@@ -322,19 +333,33 @@ Le personnel spécialisé comprend:
 
 <sup>2</sup>
 
-Pour les candidats qui sont dispensés de l’examen écrit dans la deuxième langue nationale ou dans la troisième langue, la note de la langue concernée est basée:
+Pour les candidats qui sont dispensés de l’examen écrit dans la deuxième langue nationale ou en anglais, la note de la langue concernée est basée:
 
-- a. à raison de 70 % sur le résultat converti de l’examen de diplôme dans la langue étrangère;
-- b. à raison de 30 % sur la note de l’examen oral.
+- a. à raison de 50 % sur le résultat converti de l’examen de diplôme dans la langue étrangère, et
+- b. à raison de 50 % sur la note de l’examen oral.[^17-1]
 
 <sup>3</sup>
 
 La note du travail interdisciplinaire est basée:
 
-- a. à raison de deux tiers sur la note du TIP;
-- b. à raison d’un tiers sur la note de la présentation du TIP.
+- a.
+
+  dans l’orientation arts visuels et arts appliqués:
+
+  - 1\. à raison de 50 % sur la note du processus d’élaboration et du produit du TIP, et
+  - 2\. à raison de 50 % sur la note de la présentation suivie d’une discussion approfondie du TIP;
+
+- b.
+
+  dans les autres orientations:
+
+  - 1\. à raison d’un tiers sur la note du processus d’élaboration et du produit du TIP, et
+  - 2\. à raison de deux tiers sur la note de la présentation suivie d’une discussion approfondie du TIP.[^17-2]
 
 <sup>4</sup> La note globale correspond à la moyenne, arrondie à une décimale, des notes obtenues dans toutes les branches d’examen du domaine fondamental, du domaine spécifique et du domaine complémentaire ainsi que de la note du travail interdisciplinaire.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 18
 
@@ -415,7 +440,7 @@ Le candidat qui a réussi l’examen reçoit le certificat fédéral de maturit�
 - f. l’orientation de la maturité professionnelle selon le PEC MP[^22-1];
 - g. la date de délivrance du certificat et la signature de la présidence de l’examen et du secrétaire d’État à la formation, à la recherche et à l’innovation.
 
-[^22-1]: Disponible sur www.sefri.admin.ch &gt; Formation &gt; Maturité &gt; Maturité professionnelle &gt; Documentation
+[^22-1]: Disponible sur [www.sefri.admin.ch](https://www.sbfi.admin.ch/fr) &gt; Formation &gt; Maturité &gt; Maturité professionnelle &gt; Documentation
 
 ## Section 8 Dispositions finales
 
@@ -429,9 +454,15 @@ L’ordonnance du SEFRI du 16 novembre 2016 sur l’examen fédéral de maturit�
 
 #### Art. 24
 
-**Dispositions transitoires**
+**Dispositions transitoires relatives à la modification du 22 juin 2026**[^24-1]
 
-Les candidats qui ont passé le premier examen partiel ou effectué la première tentative d’examen selon l’ancien droit passent le second examen partiel ou effectuent la seconde tentative d’examen selon la présente ordonnance.
+<sup>1</sup> Les candidats qui ont passé le premier examen partiel avant l’entrée en vigueur de la modification du 22 juin 2026 terminent l’examen selon l’ancien droit.
+
+<sup>2</sup> Les répétitions de l’examen selon l’ancien droit sont possibles jusqu’en 2029 au plus tard.
+
+<sup>3</sup> La première procédure de qualification régie par les dispositions de la modification du 22 juin 2026 a lieu en 2027.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 juin 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 367](https://fedlex.data.admin.ch/eli/oc/2026/367)).
 
 #### Art. 25
 
