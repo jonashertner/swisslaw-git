@@ -4,13 +4,12 @@ number: "381.4"
 title: Gesetz über die soziale Sicherung und Integration von Menschen mit Behinderung
 short: BehG
 language: de
-version: 2019-04-01
-valid_until: 2026-09-30
-version_adopted: 2019-01-29
+version: 2026-10-01
+version_adopted: 2026-08-04
 adopted: 2012-08-07
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.4"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2525/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3934/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2525/pdf_file"
 
 (BehG)
 
-vom 07.08.2012 (Stand 01.04.2019)
+vom 07.08.2012 (Stand 01.10.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -58,28 +57,43 @@ als Gesetz:[^ingress-5]
 
 **Koordination**
 
-<sup>1</sup> Das zuständige Departement koordiniert die Zusammenarbeit zwischen Organisationen, Einrichtungen und Verbänden sowie den zuständigen Stellen von Kanton, Gemeinden und anderen Kantonen.
+<sup>1</sup> Das zuständige Departement koordiniert die Umsetzung des Übereinkommens über die Rechte von Menschen mit Behinderungen vom 13. Dezember 2006[^2-1].
+
+<sup>2</sup> Zu diesem Zweck:
+
+- a) koordiniert es die Zusammenarbeit zwischen Organisationen, Einrichtungen, Leistungserbringenden und Verbänden sowie den zuständigen Stellen von Kanton, politischen Gemeinden, anderen Kantonen und dem Bund;
+- b) ist es zuständig für die Wirkungsüberprüfung nach [Art. 3](https://www.gesetzessammlung.sg.ch/data/381.4/de/art3) dieses Erlasses.
+
+<sup>3</sup> Für die Erfüllung der Aufgaben nach Abs. 1 und 2 dieser Bestimmung werden Menschen mit Behinderung und deren Verbände einbezogen.
+
+[^2-1]: SR [0.109](https://db.clex.ch/link/Bund/0.109/de); nachfolgend Behindertenrechtskonvention.
 
 #### Art. 3
 
-**Wirkungsbericht**
+**Wirkungsüberprüfung**
 
-<sup>1</sup> Das zuständige Departement erstattet der Regierung periodisch Bericht über die Wirkung der kantonalen Gesetzgebung für Menschen mit Behinderung. Der Bericht ist öffentlich und enthält insbesondere Ausführungen über die Wirkung auf:
+<sup>1</sup> Das zuständige Departement erstattet der Regierung periodisch Bericht über die Umsetzung der Behindertenrechtskonvention im Kanton und legt Ziele und Massnahmen für die folgende Berichtsperiode fest. Der Bericht ist öffentlich und enthält insbesondere Ausführungen über die Wirkung auf:
 
-- a) Rahmenbedingungen, die eine eigenverantwortliche und selbstbestimmte Lebensführung von Menschen mit Behinderung fördern;
+- a) eine eigenverantwortliche und selbstbestimmte Lebensführung von Menschen mit Behinderung;
 - b) den gleichberechtigten Zugang zu Infrastrukturen und Dienstleistungen, die der Allgemeinheit offenstehen;
 - c) bedarfsgerechte spezialisierte Angebote für Menschen mit Behinderung;
-- d) den Schutz der Persönlichkeit und Unversehrtheit betreuter Menschen mit Behinderung in Einrichtungen.
+- d) den Schutz der Persönlichkeit und Unversehrtheit unterstützter Menschen mit Behinderung.
 
-<sup>2</sup> Das zuständige Departement bezieht bei der Beurteilung der Wirkung Organisationen, Verbände und zuständige Stellen des Kantons ein.
+<sup>2</sup> Das zuständige Departement bezieht bei der Beurteilung der Wirkung Menschen mit Behinderung und deren Verbände, Organisationen, Einrichtungen, Leistungserbringende sowie zuständige Stellen des Kantons und der politischen Gemeinden ein.
 
 #### Art. 4
 
-**Pilotprojekte**
+**Projekte**
 
-<sup>1</sup> Die Regierung kann gestützt auf den Wirkungsbericht im Rahmen der bewilligten Kredite Beiträge an befristete Pilotprojekte ausrichten.
+<sup>1</sup> Die Regierung kann im Rahmen der bewilligten Kredite Beiträge an befristete Projekte ausrichten, die einen Beitrag zur Umsetzung der Behindertenrechtskonvention im Kanton leisten.
 
 <sup>2</sup> Pilotprojekte dienen insbesondere der Schaffung von Grundlagen für Weiterentwicklung, Vernetzung und Beurteilung der Wirkung staatlicher Massnahmen zur sozialen Sicherung und Integration von Menschen mit Behinderung.
+
+#### Art. 4bis
+
+**Kommunikation**
+
+<sup>1</sup> Die Behörden von Kanton und politischen Gemeinden kommunizieren mit und informieren Menschen mit Behinderung in einer für diese verständlichen Art und Weise.
 
 ## II. Ambulante Leistungen
 
@@ -372,11 +386,7 @@ als Gesetz:[^ingress-5]
 
 #### Art. 31
 
-**Kosten**
-
-<sup>1</sup> Die oder der Leistungsnutzende und die Einrichtung beteiligen sich an den Kosten für die Tätigkeit der Ombudsstelle IFEG im Einzelfall.
-
-<sup>2</sup> Das zuständige Departement entscheidet auf Gesuch hin über Kostenbefreiungen.
+**…**
 
 ## IV. Schlussbestimmungen
 
@@ -397,7 +407,7 @@ als Gesetz:[^ingress-5]
 - i) Darlehenshöhe, Zinssätze und weitere Voraussetzungen für die Darlehensgewährung sowie Auszahlungs- und Rückzahlungsmodalitäten;
 - j) Voraussetzungen für die Bürgschaftsgewährung;
 - k) Äufnung und Verwendung des Kapitals des Schwankungsfonds sowie Organisation und Verfahren für seine Verwaltung;
-- l) Verfahren der Ombudsstelle IFEG und Kostenbeteiligung der Leistungsnutzenden und Einrichtungen für die Tätigkeit der Ombudsstelle im Einzelfall.
+- l) Verfahren der Ombudsstelle IFEG.
 
 #### Art. 33
 
