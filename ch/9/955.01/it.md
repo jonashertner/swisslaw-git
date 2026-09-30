@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 novembre 2015 relativa alla lotta contro il riciclagg
 short: ORD
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: it
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-791-20230101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2015-791-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/it"
 
 (Ordinanza sul riciclaggio di denaro, ORD)
 
-dell’11 novembre 2015 (Stato 1° gennaio 2023)
+dell’11 novembre 2015 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 8*a* capoverso 5 e 41 della legge del 10 ottobre 1997[^ingress-1] sul riciclaggio di denaro (LRD),
+visti gli articoli 2 capoverso 5, 2*b* capoverso 2, 8*a* capoverso 5 e 41 della legge del 10 ottobre 1997[^ingress-1] sul riciclaggio di denaro (LRD),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -37,23 +38,26 @@ La presente ordinanza disciplina:
 
 - a.[^1-1] i requisiti per l’esercizio a titolo professionale dell’attività di intermediario finanziario secondo l’articolo 2 capoverso 3 LRD;
 - a<sup>bis</sup>.[^1-2] gli obblighi in caso di sospetto di riciclaggio di denaro (art. 9–11 LRD) che gli intermediari finanziari secondo l’articolo 2 capoversi 2 e 3 LRD devono osservare;
-- b. gli obblighi di diligenza e di comunicazione a cui sottostanno i commercianti conformemente agli articoli 8*a* e 9 capoverso 1<sup>bis</sup> LRD;
-- c.[^1-3] la vigilanza sugli intermediari finanziari secondo l’articolo 2 capoverso 3 LRD da parte degli organismi di autodisciplina riconosciuti.
+- a<sup>ter</sup>.[^1-3]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-2]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-3]: Introdotta dall’all. 1 n. II 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+  i requisiti per:
+
+  - 1\. l’esercizio a titolo professionale dell’attività di consulente secondo l’articolo 2 capoversi 3<sup>bis</sup> e 3<sup>ter</sup> LRD,
+  - 2\. l’esercizio dell’attività di consulente secondo l’articolo 2 capoverso 3<sup>quater</sup> LRD;
+
+- b. gli obblighi di diligenza e di comunicazione a cui sottostanno i commercianti conformemente agli articoli 8*a* e 9 capoverso 1<sup>bis</sup> LRD;
+- c.[^1-4] la vigilanza sugli intermediari finanziari ai sensi dell’articolo 2 capoverso 3 LRD da parte degli organismi di autodisciplina (OAD) riconosciuti.
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-2]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-3]: Introdotto dall’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-4]: Introdotta dall’all. 1 cifra II n. 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 2
 
 **Campo d’applicazione**
 
-<sup>1</sup>
-
-La presente ordinanza si applica:
-
-- a.[^2-1] agli intermediari finanziari secondo l’articolo 2 capoversi 2 e 3 LRD che esercitano la loro attività in Svizzera o dalla Svizzera;
-- b. ai commercianti ai sensi dell’articolo 2 capoverso 1 lettera b LRD che esercitano la loro attività in Svizzera o dalla Svizzera.
+<sup>1</sup> La presente ordinanza si applica agli intermediari finanziari, ai commercianti e ai consulenti che esercitano la loro attività in Svizzera o dalla Svizzera.[^2-1]
 
 <sup>2</sup>
 
@@ -71,16 +75,58 @@ Non sono considerati intermediari finanziari ai sensi dell’articolo 2 capovers
 
 - b.
 
-  il personale ausiliario di intermediari finanziari che per la loro attività detengono un’autorizzazione in Svizzera o che sono affiliati a un organismo di autodisciplina (OAD), se adempie le seguenti condizioni:
+  il personale ausiliario di intermediari finanziari, se adempie le seguenti condizioni:[^2-2]
 
   - 1\. è selezionato accuratamente dall’intermediario finanziario e sottostà alle sue istruzioni e ai suoi controlli,
-  - 2\. è integrato nei provvedimenti organizzativi adottati dall’intermediario finanziario per impedire il riciclaggio di denaro e il finanziamento del terrorismo secondo l’articolo 8 LRD e riceve una formazione e una formazione continua in questo ambito,
+  - 2\.[^2-3] è integrato nei provvedimenti organizzativi adottati dall’intermediario finanziario secondo l’articolo 8 LRD e riceve una formazione e una formazione continua in questo ambito,
   - 3\. agisce unicamente in nome e per conto dell’intermediario finanziario,
   - 4\. è retribuito dall’intermediario finanziario e non dal cliente finale,
   - 5\. effettua operazioni di trasferimento di denaro o di valori per un unico intermediario finanziario autorizzato o affiliato a un OAD, e
   - 6\. ha concluso con l’intermediario finanziario un accordo scritto concernente l’osservanza delle condizioni che precedono.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+<sup>3</sup>
+
+Non sono considerati consulenti:
+
+- a. le persone che prestano servizi tra società del medesimo gruppo;
+- b.
+
+  il personale ausiliario di consulenti, se adempie le seguenti condizioni:
+
+  - 1\. è selezionato accuratamente dal consulente e sottostà alle sue istruzioni e ai suoi controlli,
+  - 2\. è integrato nei provvedimenti organizzativi adottati dal consulente secondo l’articolo 8*d* LRD e riceve una formazione e una formazione continua in questo ambito,
+  - 3\. agisce unicamente in nome e per conto del consulente,
+  - 4\. è retribuito dal consulente e non dal cliente finale,
+  - 5\. ha concluso con il consulente un accordo scritto concernente l’osservanza delle condizioni che precedono;
+
+- c. gli intermediari assicurativi e i terzi ai quali, in virtù di contratti scritti di delega conclusi con imprese di assicurazione, è stata delegata l’osservanza degli obblighi di diligenza nell’ambito della loro attività esercitata per l’impresa di assicurazione.[^2-4]
+
+[^2-1]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-2]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-3]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-4]: Introdotto dall’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+
+#### Art. 2a
+
+**Dichiarazione sull’assoggettamento dell’insieme delle attività alle disposizioni applicabili agli intermediari finanziari**[^2a-1]
+
+<sup>1</sup> La dichiarazione secondo l’articolo 2*b* capoverso 2 LRD è effettuata presso l’autorità o l’organismo competente per la vigilanza.
+
+<sup>2</sup>
+
+Essa contiene le informazioni richieste dall’autorità o dall’organismo competente per la vigilanza, in particolare:
+
+- a. la descrizione dell’attività interessata;
+- b. le eventuali modifiche dell’organizzazione interna connesse all’attività interessata, comprese le direttive interne.
+
+<sup>3</sup> La dichiarazione è applicabile dal 1° gennaio dell’anno civile successivo alla sua presentazione presso l’autorità o l’organismo competente per la vigilanza. Su richiesta del consulente, l’autorità o l’organismo competente per la vigilanza può approvare un termine anteriore.
+
+<sup>4</sup> La dichiarazione può essere revocata. La revoca è applicabile dal 1° gennaio dell’anno civile successivo alla sua presentazione.
+
+<sup>5</sup> Agli intermediari finanziari secondo l’articolo 2 capoverso 2 lettere a–d<sup>quater</sup> LRD che non hanno presentato tale dichiarazione si applica per analogia l’ordinanza FINMA del 3 giugno 2015[^2a-2] sul riciclaggio di denaro.
+
+[^2a-1]: Introdotto dall’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2a-2]: [RS 955.033.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11604)
 
 ## Capitolo 2: Intermediari finanziari
 
@@ -130,8 +176,8 @@ Per trasferimento di denaro o di valori si intende il trasferimento di valori pa
 - a. il pagamento di una somma corrispondente in contanti, metalli preziosi o valute virtuali; o
 - b. il trasferimento scritturale o il bonifico mediante un sistema di pagamento o di conteggio.
 
-[^4-1]: Nuovo testo giusta il n. I 8 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
-[^4-2]: Introdotto dal n. I 8 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-1]: Nuovo testo giusta la cifra I n. 8 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Introdotto dalla cifra I n. 8 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 5
 
@@ -151,8 +197,8 @@ Si considera attività commerciale ai sensi dell’articolo 2 capoverso 3 letter
 
 <sup>3</sup> L’attività di cambio esercitata a titolo accessorio non costituisce un’attività commerciale.
 
-[^5-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-2]: Nuovo testo giusta l’all. 1 n. II 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^5-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^5-2]: Nuovo testo giusta l’all. 1 cifra II n. 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 6
 
@@ -176,7 +222,7 @@ Non sono considerate società di domicilio le società che:
 - a. perseguono la salvaguardia degli interessi dei propri membri o dei loro beneficiari mediante un’azione comune oppure fini politici, religiosi, scientifici, artistici, di pubblica utilità, ricreativi o simili;
 - b. controllano una o più società operative e il cui scopo non consiste prevalentemente nella gestione di patrimoni di terzi (società holding).
 
-[^6-1]: Nuovo testo giusta l’all. 1 n. II 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^6-1]: Nuovo testo giusta l’all. 1 cifra II n. 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Sezione 2: Attività a titolo professionale
 
@@ -210,7 +256,7 @@ Sono considerate persone prossime:
 - e. gli eredi sostituiti e i legatari sostituiti ai sensi dell’articolo 488 del Codice civile[^7-1];
 - f. le persone che convivono con l’intermediario finanziario in una comunione di vita durevole.
 
-[^7-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^7-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 8
 
@@ -245,14 +291,16 @@ Nel caso dell’attività commerciale, ai fini della valutazione del criterio di
 
 <sup>1</sup>
 
-Chiunque passa da un’attività di intermediario finanziario esercitata a titolo non professionale a un’attività di intermediario finanziario secondo l’articolo 2 capoverso 3 LRD esercitata a titolo professionale deve:
+Chiunque passa a un’attività di intermediario finanziario secondo l’articolo 2 capoverso 3 LRD esercitata a titolo professionale deve:[^11-2]
 
-- a. rispettare senza indugio gli obblighi di cui agli articoli 3–11 LRD; e
+- a.[^11-3] rispettare senza indugio gli obblighi di cui agli articoli 3–8, 9–10*a* e 11*a* LRD; e
 - b. presentare, entro due mesi dal cambiamento di statuto, una richiesta di affiliazione a un OAD.
 
 <sup>2</sup> Fino ad avvenuta affiliazione a un OAD, all’intermediario finanziario in questione è vietato intraprendere azioni in tale veste che vanno oltre a quelle strettamente necessarie alla conservazione dei valori patrimoniali.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^11-2]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^11-3]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 12
 
@@ -264,14 +312,14 @@ Chiunque passa da un’attività di intermediario finanziario esercitata a titol
 
 <sup>3</sup> Se entro il termine prescritto non ha presentato una richiesta a un OAD, oppure se gli viene rifiutata l’affiliazione, gli è vietato continuare a svolgere la sua attività di intermediario finanziario.[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### Sezione 3: Obblighi in caso di sospetto di riciclaggio di denaro
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^chap2-sec3-1]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 12a
 
@@ -286,7 +334,7 @@ Se sussistono indizi concreti di imminenti misure di sicurezza da parte di un’
 - a. interrompere una relazione d’affari per la quale decide di non esercitare il diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 CP anche se le condizioni sono soddisfatte;
 - b. permettere il prelievo di importanti valori patrimoniali.
 
-[^12a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12a-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 12b
 
@@ -304,7 +352,7 @@ Oltre al caso previsto nell’articolo 9*b* capoverso 1 LRD, l’intermediario f
 
 <sup>3</sup> Nei casi di cui al capoverso 1, l’interruzione della relazione d’affari e la data dell’interruzione non devono essere comunicate all’Ufficio di comunicazione.
 
-[^12b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12b-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 12c
 
@@ -312,7 +360,99 @@ Oltre al caso previsto nell’articolo 9*b* capoverso 1 LRD, l’intermediario f
 
 Un intermediario finanziario che informa un altro intermediario finanziario di avere effettuato una comunicazione ai sensi dell’articolo 9 LRD o secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^12c-1] lo documenta in forma adeguata.
 
-[^12c-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12c-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+## Capitolo 2*a*: Consulenti
+
+[^chap2a-1]
+
+[^chap2a-1]: Introdotto dall’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+
+#### Art. 12d
+
+**Partecipazione ai sensi dell’articolo 2 capoverso 3<sup>bis</sup> LRD**
+
+La partecipazione ai sensi dell’articolo 2 capoverso 3<sup>bis</sup> LRD comprende la consulenza che contribuisce in modo causale a un atto o negozio giuridico in relazione con una transazione finanziaria di cui all’articolo 2 capoverso 3<sup>bis</sup> lettere a–e LRD.
+
+#### Art. 12e
+
+**Vendita o acquisto di un fondo**
+
+<sup>1</sup> Rientrano nel campo d’applicazione dell’articolo 2 capoverso 3<sup>bis</sup> lettera a LRD la vendita o l’acquisto di un fondo ai sensi dell’articolo 655 capoverso 2 del Codice civile[^12e-1].
+
+<sup>2</sup>
+
+Rientrano inoltre nel campo d’applicazione dell’articolo 2 capoverso 3<sup>bis</sup> lettera a LRD:
+
+- a. i negozi giuridici che producono i medesimi effetti economici della vendita o dell’acquisto sul potere di disporre di un fondo;
+- b. la costituzione d’usufrutto o di un diritto di superficie sul fondo, se si fanno contro versamento di un’indennità.
+
+<sup>3</sup> L’attività dei consulenti in relazione con la vendita o l’acquisto di un fondo è sottoposta alla LRD non appena entrambe le parti dichiarano la loro volontà di concludere un contratto di compravendita e in assenza di un’eccezione ai sensi dell’articolo 2 capoverso 4<sup>ter</sup> LRD.
+
+[^12e-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+#### Art. 12f
+
+**Consulenza a titolo professionale**
+
+<sup>1</sup>
+
+La consulenza è svolta a titolo professionale se rappresenta un’attività economica indipendente e orientata al conseguimento di un guadagno durevole. È considerata in ogni caso svolta a titolo professionale se i consulenti:
+
+- a. durante un anno civile realizzano un ricavo lordo superiore a 50 000 franchi;
+- b. durante un anno civile forniscono consulenza a oltre 20 clienti o partecipano a oltre 20 atti e negozi giuridici;
+- c. applicando la diligenza richiesta dalle circostanze, devono presumere che la loro consulenza riguardi valori patrimoniali di terzi che in un qualsiasi momento superano i 5 milioni di franchi; oppure
+- d. applicando la diligenza richiesta dalle circostanze, devono presumere che la loro consulenza riguardi transazioni finanziarie il cui volume complessivo supera i 2 milioni di franchi per anno civile.
+
+<sup>2</sup> Non è determinante se la consulenza è svolta quale attività principale o accessoria.
+
+<sup>3</sup> L’attività esercitata per persone prossime è presa in considerazione ai fini della valutazione dell’esercizio a titolo professionale della stessa soltanto se il ricavo lordo realizzato durante un anno civile è superiore a 50 000 franchi.
+
+<sup>4</sup>
+
+Sono considerate persone prossime:
+
+- a. i parenti e gli affini in linea diretta;
+- b. i parenti fino al terzo grado in linea collaterale;
+- c. i coniugi e i partner registrati;
+- d. i coeredi fino alla chiusura della divisione successoria;
+- e. gli eredi sostituiti e i legatari sostituiti ai sensi dell’articolo 488 del Codice civile[^12f-1];
+- f. le persone che convivono con il consulente in una comunione di vita durevole.
+
+[^12f-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+#### Art. 12g
+
+**Passaggio a un’attività esercitata a titolo professionale**
+
+<sup>1</sup>
+
+Chiunque passa a un’attività di consulente secondo l’articolo 2 capoverso 3<sup>bis</sup> o 3<sup>ter</sup> LRD esercitata a titolo professionale deve:
+
+- a. rispettare senza indugio gli obblighi di cui agli articoli 8*b*, 8*d*, 9, 9*b*, 10*a* e 11*a* LRD; e
+- b. presentare, entro due mesi dal cambiamento di statuto, una richiesta di affiliazione a un OAD o dichiarare la sua attività di consulenza all’autorità o all’organismo competenti per la vigilanza.
+
+<sup>2</sup> Fino ad avvenuta affiliazione a un OAD, il consulente in questione può continuare a fornire consulenza ai clienti esistenti e accettare da questi ultimi mandati per nuove operazioni e nuovi servizi.
+
+<sup>3</sup> Se non ha presentato una richiesta a un OAD o non ha dichiarato la sua attività di consulenza all’autorità o all’organismo competente per la vigilanza entro il termine prescritto, oppure se gli viene rifiutata l’affiliazione, gli è vietato continuare a svolgere la sua attività di consulente secondo l’articolo 2 capoverso 3<sup>bis</sup> o 3<sup>ter</sup> LRD.
+
+#### Art. 12h
+
+**Uscita ed espulsione da un OAD**
+
+<sup>1</sup> Se un consulente che intende continuare a esercitare l’attività di consulente a titolo professionale esce da un OAD o ne viene espulso, deve presentare una richiesta di affiliazione a un altro OAD entro due mesi dall’uscita o dal passaggio in giudicato della decisione di espulsione.
+
+<sup>2</sup> Fino al ricevimento della decisione in merito alla richiesta, può continuare a svolgere la sua attività solo nell’ambito delle relazioni d’affari già esistenti.
+
+<sup>3</sup> Se entro il termine prescritto non ha presentato una richiesta a un OAD, oppure se gli viene rifiutata l’affiliazione, gli è vietato continuare a svolgere la sua attività di consulente.
+
+#### Art. 12i
+
+**Cessazione dell’attività**
+
+<sup>1</sup> Chiunque cessa la propria attività di consulente a titolo professionale ma intende continuare a esercitare l’attività di intermediario finanziario a titolo professionale, lo comunica all’autorità o all’organismo competente per la vigilanza entro due mesi.
+
+<sup>2</sup> Chiunque cessa la propria attività di intermediario finanziario ma intende continuare a esercitare l’attività di consulente a titolo professionale, deve presentare una richiesta di affiliazione a un OAD entro due mesi, salvo se è già affiliato a un OAD e continua ad adempiere le condizioni di affiliazione. L’articolo 12*h* capoversi 2 e 3 si applica per analogia.
 
 ## Capitolo 3: Commercianti
 
@@ -338,7 +478,25 @@ Sono considerate commercianti ai sensi dell’articolo 2 capoverso 1 lettera b L
 
 Sono considerati beni le cose mobili corporee che possono essere oggetto di una vendita di cose mobili ai sensi dell’articolo 187 del Codice delle obbligazioni[^15-1], o i fondi che possono essere oggetto di un contratto di vendita ai sensi dell’articolo 216 del Codice delle obbligazioni.
 
-[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+#### Art. 15a
+
+**Metalli preziosi e pietre preziose contemplati**[^15a-1]
+
+<sup>1</sup>
+
+Sono considerati metalli preziosi secondo l’articolo 8*a* capoverso 2<sup>bis</sup> LRD quelli che rivestono la forma di:
+
+- a. prodotti della fusione ai sensi dell’articolo 1 capoverso 2 della legge del 20 giugno 1933[^15a-2] sul controllo dei metalli preziosi (LCMP);
+- b. materie da fondere ai sensi dell’articolo 1 capoverso 3 LCMP;
+- c. prodotti semifiniti ai sensi dell’articolo 52 capoverso 2 dell’ordinanza dell’8 maggio 1934[^15a-3] sul controllo dei metalli preziosi.
+
+<sup>2</sup> Sono considerate pietre preziose secondo l’articolo 8*a* capoverso 2<sup>bis</sup> LRD i rubini, gli zaffiri, gli smeraldi e i diamanti non infilati, non montati e non incastonati.
+
+[^15a-1]: Introdotto dall’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^15a-2]: [RS 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
+[^15a-3]: [RS 941.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11223)
 
 #### Art. 16
 
@@ -442,8 +600,8 @@ Sussistono indizi di riciclaggio di denaro specialmente se:
 
 <sup>3</sup> La trasmissione delle comunicazioni è retta dall’articolo 3*a* capoversi 1, 2 e 3 dell’ordinanza del 25 agosto 2004[^20-1] sull’Ufficio di comunicazione in materia di riciclaggio di denaro.[^20-2]
 
-[^20-1]: [RS 955.23](https://fedlex.data.admin.ch/eli/cc/2004/626)
-[^20-2]: Nuovo testo giusta il n. III dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^20-1]: [RS 955.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11612)
+[^20-2]: Nuovo testo giusta la cifra III dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
 #### Art. 21
 
@@ -463,21 +621,23 @@ Nel modulo o documento vengono riportati:
 
 <sup>4</sup> Esso va conservato per almeno dieci anni.
 
-### Sezione 3: Incarico affidato a un ufficio di revisione
+### Sezione 3: Incarico affidato a un’impresa di revisione
+
+[^chap3-sec3-1]
+
+[^chap3-sec3-1]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 22
 
-<sup>1</sup> L’obbligo ai sensi dell’articolo 15 LRD, secondo cui il commerciante deve incaricare della verifica un ufficio di revisione, sussiste indipendentemente dall’obbligo di sottoporre a revisione il conto annuale ed eventualmente il conto di gruppo.
+<sup>1</sup> L’obbligo ai sensi dell’articolo 15 LRD, secondo cui il commerciante deve incaricare della verifica un’impresa di revisione, sussiste indipendentemente dall’obbligo di sottoporre a revisione il conto annuale ed eventualmente il conto di gruppo.
 
-<sup>2</sup> Se il commerciante non dispone di un ufficio di revisione, l’organo superiore di direzione o di amministrazione affida l’incarico di eseguire la verifica a revisori ai sensi dell’articolo 5 o a un’impresa di revisione ai sensi dell’articolo 6 della legge del 16 dicembre 2005[^22-1] sui revisori (LSR).
-
-[^22-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+<sup>2</sup> Se il commerciante è una persona giuridica, l’obbligo ai sensi dell’articolo 15 LRD spetta all’organo superiore di direzione o di amministrazione.
 
 ## Capitolo 3*a*: Organismi di autodisciplina
 
 [^chap3a-1]
 
-[^chap3a-1]: Introdotto dall’all. 1 n. II 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^chap3a-1]: Introdotto dall’all. 1 cifra II n. 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 22a
 
@@ -501,8 +661,8 @@ L’attività che necessita di un’autorizzazione secondo le leggi sui mercati 
 
 <sup>3</sup> Una società di audit è sufficientemente assicurata contro i rischi di responsabilità se, a copertura della responsabilità civile derivante da verifiche ai sensi dell’articolo 24*a* LRD, ha stipulato un’assicurazione per i danni patrimoniali o fornito garanzie finanziarie equivalenti. La copertura assicurativa messa a disposizione per tutti i danni patrimoniali in un anno deve ammontare almeno a 250 000 franchi.
 
-[^22a-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^22a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^22a-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^22a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 22b
 
@@ -525,21 +685,22 @@ Dopo l’abilitazione, l’auditor responsabile continua a disporre delle conosc
 
 <sup>3</sup> L’abilitazione rilasciata per eseguire verifiche in un ambito di vigilanza ai sensi dell’articolo 11*a* capoverso 1 lettere a–c dell’ordinanza del 22 agosto 2007[^22b-1] sui revisori o dell’articolo 62 LIsFi[^22b-2] autorizza anche ad eseguire verifiche nell’ambito della LRD.
 
-[^22b-1]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
-[^22b-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^22b-1]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
+[^22b-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 22c
 
 **Abilitazione alla verifica di avvocati e notai nell’ambito della LRD**
 
-<sup>1</sup> Un auditor responsabile dispone delle pertinenti conoscenze della LRD, della relativa esperienza e della formazione continua richiesta (art. 18 cpv. 4 lett. c LRD) se soddisfa le condizioni di cui all’articolo 22*b*.
+<sup>1</sup> Un auditor responsabile dispone delle pertinenti conoscenze della LRD, della relativa esperienza e della formazione continua richiesta (art. 18*a* cpv. 2 lett. c LRD) se soddisfa le condizioni di cui all’articolo 22*b*.[^22c-1]
 
-<sup>2</sup> Le persone fisiche abilitate alla verifica di avvocati e notai ai sensi della LRD possono svolgere i controlli a titolo indipendente senza essere iscritte nel registro di commercio quale impresa individuale abilitata e senza essere abilitate a esercitare la funzione di revisore secondo l’articolo 5 LSR [^22c-1].
+<sup>2</sup> Le persone fisiche abilitate alla verifica di avvocati e notai ai sensi della LRD possono svolgere i controlli a titolo indipendente senza essere iscritte nel registro di commercio quale impresa individuale abilitata e senza essere abilitate a esercitare la funzione di revisore secondo l’articolo 5 LSR [^22c-2].
 
-<sup>3</sup> Le persone abilitate alla verifica di avvocati e notai ai sensi della LRD sono considerate indipendenti dal membro oggetto della verifica se osservano le prescrizioni di cui agli articoli 11 LSR e 728 CO[^22c-2].
+<sup>3</sup> Le persone abilitate alla verifica di avvocati e notai ai sensi della LRD sono considerate indipendenti dal membro oggetto della verifica se osservano le prescrizioni di cui agli articoli 11 LSR e 728 CO[^22c-3].
 
-[^22c-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^22c-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22c-1]: Nuovo testo giusta l’all. n. 6 dell’O del 12 giu. 2026 sulla trasparenza delle persone giuridiche, in vigore dal 1° ott. 2026 ([RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^22c-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^22c-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 22d
 
@@ -561,7 +722,7 @@ I corsi di perfezionamento ai sensi degli articoli 22*b* e 22*c*, compresi i cor
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta l’all. 1 n. II 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^chap4-1]: Nuovo testo giusta l’all. 1 cifra II n. 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 23
 
@@ -582,6 +743,16 @@ La presente ordinanza entra in vigore il 1° gennaio 2016.
 [^u1-1]: [RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)
 
 Se un intermediario finanziario direttamente sottoposto alla FINMA prima dell’entrata in vigore della legge si affilia a un organismo di autodisciplina ai sensi dell’articolo 24 LRD, presenta all’organismo di autodisciplina un rapporto sulla conformità della sua attività alle disposizioni della LRD.
+
+## Disposizione transitoria della modifica del 26 settembre 2025
+
+[^u2-1]
+
+[^u2-1]: [RU 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)
+
+<sup>1</sup> Chiunque esercita già un’attività di consulente ai sensi dell’articolo 2 capoverso 3<sup>bis</sup> o 3<sup>ter</sup> LRD il 1° ottobre 2026, deve richiedere l’affiliazione a un OAD entro il 1° dicembre 2026. Fino al ricevimento della decisione in merito alla richiesta, può continuare a svolgere la sua attività solo nell’ambito delle relazioni d’affari già esistenti.
+
+<sup>2</sup> Gli intermediari finanziari che il 1° ottobre 2026 esercitano un’attività di consulente ai sensi dell’articolo 2 capoverso 3<sup>bis</sup> o 3<sup>ter</sup> LRD devono comunicare tale attività all’autorità o all’organismo competente per la vigilanza entro il 1° dicembre 2026. Possono continuare a fornire consulenza ai clienti esistenti e accettare mandati per nuove operazioni e nuovi servizi.
 
 Allegato 1
 

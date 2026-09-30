@@ -4,11 +4,11 @@ title: "Ordonnance du 11 novembre 2015 sur la lutte contre le blanchiment d'arge
 short: OBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: fr
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-791-20230101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-791-20261001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/fr"
 
 (Ordonnance sur le blanchiment d’argent, OBA)
 
-du 11 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
+du 11 novembre 2015 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 8*a*, al. 5 et 41 de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^ingress-1],
+vu les art. 2, al. 5, 2*b*, al. 2, 8*a*, al. 5, et 41 de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -37,23 +38,26 @@ La présente ordonnance fixe:
 
 - a.[^1-1] les exigences régissant l’activité d’intermédiaire financier exercée à titre professionnel au sens de l’art. 2, al. 3, LBA;
 - a<sup>bis</sup>.[^1-2] les obligations que doivent respecter les intermédiaires financiers au sens de l’art. 2, al. 2 et 3, LBA en cas de soupçon de blanchiment d’argent (art. 9 à 11 LBA);
+- a<sup>ter</sup>.[^1-3]
+
+  les exigences régissant:
+
+  - 1\. l’activité de conseiller exercée à titre professionnel au sens de l’art. 2, al. 3<sup>bis</sup> et 3<sup>ter</sup>, LBA,
+  - 2\. l’activité de conseiller au sens de l’art. 2, al. 3<sup>quater</sup>, LBA;
+
 - b. les obligations de diligence et de communication dont doivent s’acquitter les négociants au sens des art. 8*a* et 9, al. 1<sup>bis</sup>, LBA;
-- c.[^1-3] la surveillance des intermédiaires financiers au sens de l’art. 2, al. 3, LBA par des organismes d’autorégulation reconnus.
+- c.[^1-4] la surveillance des intermédiaires financiers au sens de l’art. 2, al. 3, LBA par des organismes d’autorégulation (OAR) reconnus.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^1-2]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-3]: Introduite par l’annexe 1 ch. II 12 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-3]: Introduite par l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-4]: Introduite par l’annexe 1 ch. II 12 de l’O du 6 nov. 2019 sur les établissements financiers ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 2
 
 **Champ d’application**
 
-<sup>1</sup>
-
-La présente ordonnance s’applique:
-
-- a.[^2-1] aux intermédiaires financiers au sens de l’art. 2, al. 2 et 3, LBA, qui exercent leur activité en Suisse ou depuis la Suisse;
-- b. aux négociants au sens de l’art. 2, al. 1, let. b, LBA, qui exercent leur activité en Suisse ou depuis la Suisse.
+<sup>1</sup> La présente ordonnance s’applique aux intermédiaires financiers, aux négociants et aux conseillers qui exercent leur activité en Suisse ou depuis la Suisse.[^2-1]
 
 <sup>2</sup>
 
@@ -71,16 +75,58 @@ Ne sont pas considérés comme intermédiaires financiers au sens de l’art. 2,
 
 - b.
 
-  les auxiliaires d’intermédiaires financiers qui sont titulaires d’une autorisation en Suisse pour exercer leur activité ou qui sont affiliés à un organisme d’autorégulation (OAR), s’ils satisfont aux conditions suivantes:
+  les auxiliaires d’intermédiaires financiers s’ils satisfont aux conditions suivantes:[^2-2]
 
   - 1\. ils sont choisis avec soin par l’intermédiaire financier et sont soumis aux instructions et aux contrôles de ce dernier,
-  - 2\. ils sont intégrés dans les mesures organisationnelles de l’intermédiaire financier visant à empêcher le blanchiment d’argent et le financement du terrorisme prévues à l’art. 8 LBA et reçoivent une formation initiale et une formation continue dans ce domaine,
+  - 2\.[^2-3] ils sont intégrés dans les mesures organisationnelles de l’intermédiaire financier prévues à l’art. 8 LBA et reçoivent une formation initiale et une formation continue dans ce domaine,
   - 3\. ils n’agissent qu’au nom et pour le compte de l’intermédiaire financier,
   - 4\. ils sont rémunérés par l’intermédiaire financier et non par le client final,
   - 5\. ils n’exercent l’activité de transmission de fonds ou de valeurs que pour un intermédiaire financier autorisé ou affilié à un OAR, et
   - 6\. ils ont conclu avec l’intermédiaire financier une convention écrite portant sur les conditions précitées.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+<sup>3</sup>
+
+Ne sont pas considérés comme conseillers:
+
+- a. les personnes qui fournissent des prestations entre sociétés d’un groupe;
+- b.
+
+  les auxiliaires de conseillers, s’ils satisfont aux conditions suivantes:
+
+  - 1\. ils sont choisis avec soin par le conseiller et sont soumis aux instructions et aux contrôles de ce dernier,
+  - 2\. ils sont intégrés dans les mesures organisationnelles du conseiller prévues à l’art. 8*d* LBA et reçoivent une formation initiale et une formation continue dans ce domaine,
+  - 3\. ils n’agissent qu’au nom et pour le compte du conseiller,
+  - 4\. ils sont rémunérés par le conseiller et non par le client final, et
+  - 5\. ils ont conclu avec le conseiller une convention écrite portant sur les conditions précitées;
+
+- c. les intermédiaires d’assurance et les tiers, lorsque leur est déléguée, dans le cadre d’une activité exercée pour le compte d’une entreprise d’assurance, l’exécution des obligations de diligence sur la base d’un contrat de délégation écrit avec l’entreprise d’assurance.[^2-4]
+
+[^2-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-4]: Introduit par l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+
+#### Art. 2a
+
+**Déclaration de soumission de l’ensemble des activités aux règles applicables aux intermédiaires financiers**[^2a-1]
+
+<sup>1</sup> La déclaration prévue par l’art. 2*b*, al. 2, LBA est faite à l’autorité ou à l’organisme compétent pour la surveillance.
+
+<sup>2</sup>
+
+Elle contient les informations requises par l’autorité ou l’organisme compétent pour la surveillance, en particulier:
+
+- a. la description de l’activité concernée;
+- b. les éventuelles modifications de l’organisation interne en lien avec l’activité concernée, y compris des directives internes.
+
+<sup>3</sup> Elle prend effet à partir du 1<sup>er</sup> janvier de l’année civile qui suit son envoi à l’autorité ou à l’organisme compétent pour la surveillance. Sur demande du conseiller, l’autorité ou l’organisme compétent peut accepter que la déclaration prenne effet à une date antérieure.
+
+<sup>4</sup> La déclaration peut être révoquée. La révocation prend effet à partir du 1<sup>er</sup> janvier de l’année civile suivant son envoi.
+
+<sup>5</sup> Pour les intermédiaires financiers visés à l’art. 2, al. 2, let. a à d<sup>quater</sup>, LBA qui n’ont pas fait une telle déclaration, l’ordonnance de la FINMA du 3 juin 2015 sur le blanchiment d’argent[^2a-2] s’applique par analogie.
+
+[^2a-1]: Introduit par l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2a-2]: [RS 955.033.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11604)
 
 ## Chapitre 2 Intermédiaires financiers
 
@@ -151,7 +197,7 @@ Sont considérés comme activités de négoce au sens de l’art. 2, al. 3, let.
 
 <sup>3</sup> L’activité de change à titre accessoire n’est pas considérée comme une activité de négoce.
 
-[^5-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^5-2]: Nouvelle teneur selon l’annexe 1 ch. II 12 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 6
@@ -210,7 +256,7 @@ Sont considérés comme des personnes proches:
 - e. les appelés et les substituts du légataire au sens de l’art. 488 du code civil[^7-1];
 - f. les personnes qui vivent avec un intermédiaire financier dans une communauté de vie établie sur le long terme.
 
-[^7-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^7-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 8
 
@@ -245,14 +291,16 @@ Pour l’activité de négoce, le critère déterminant est le bénéfice brut a
 
 <sup>1</sup>
 
-Quiconque passe d’une activité d’intermédiaire financier exercée à titre non professionnel à une activité d’intermédiaire financier au sens de l’art. 2, al. 3, exercée à titre professionnel doit:
+Quiconque passe à une activité d’intermédiaire financier au sens de l’art. 2, al. 3, LBA exercée à titre professionnel doit:[^11-2]
 
-- a. respecter aussitôt les obligations visées aux art. 3 à 11 LBA, et
+- a.[^11-3] respecter aussitôt les obligations visées aux art. 3 à 8, 9 à 10*a* et 11*a* LBA, et
 - b. dans un délai de deux mois à compter du changement de statut, avoir déposé une demande d’affiliation à un OAR.
 
 <sup>2</sup> Tant qu’il n’est pas affilié à un OAR, un tel intermédiaire financier a l’interdiction d’effectuer tout acte qui n’est pas absolument nécessaire à la conservation des valeurs patrimoniales.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^11-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^11-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 12
 
@@ -286,7 +334,7 @@ Lorsqu’il existe des signes concrets de l’imminence de mesures de sûreté d
 - a. rompre une relation d’affaires pour laquelle il décide de ne pas exercer le droit de communication prévu à l’art. 305<sup>ter</sup>, al. 2, CP, bien que les conditions en soient remplies;
 - b. autoriser le retrait d’importantes valeurs patrimoniales.
 
-[^12a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12a-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 12b
 
@@ -304,7 +352,7 @@ Outre le cas prévu à l’art. 9*b*, al. 1, LBA, l’intermédiaire financier p
 
 <sup>3</sup> Dans les cas visés à l’al. 1, la rupture de la relation d’affaires et sa date ne doivent pas être communiquées au bureau de communication.
 
-[^12b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12b-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 12c
 
@@ -312,7 +360,99 @@ Outre le cas prévu à l’art. 9*b*, al. 1, LBA, l’intermédiaire financier p
 
 Lorsqu’un intermédiaire financier informe un autre intermédiaire financier du fait qu’il a effectué une communication en vertu de l’art. 9 LBA ou de l’art. 305<sup>ter</sup>, al. 2, CP[^12c-1], il le consigne sous une forme appropriée.
 
-[^12c-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12c-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+## Chapitre 2*a* Conseillers
+
+[^chap2a-1]
+
+[^chap2a-1]: Introduit par l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+
+#### Art. 12d
+
+**Participation au sens de l’art. 2, al. 3<sup>bis</sup>, LBA**
+
+La participation au sens de l’art. 2, al. 3<sup>bis</sup>, LBA comprend tout conseil qui contribue de manière causale à une opération juridique en relation avec une transaction financière mentionnée à l’art. 2, al. 3<sup>bis</sup>, let. a à e, LBA.
+
+#### Art. 12e
+
+**Vente ou achat d’un immeuble**
+
+<sup>1</sup> Relèvent de l’art. 2, al. 3<sup>bis</sup>, let. a, LBA la vente ou l’achat d’un immeuble au sens de l’art. 655, al. 2, CC[^12e-1].
+
+<sup>2</sup>
+
+Relèvent également de l’art. 2, al. 3<sup>bis</sup>, let. a, LBA:
+
+- a. les actes juridiques qui ont les mêmes effets économiques qu’un achat ou une vente sur le pouvoir de disposer d’un immeuble;
+- b. la constitution sur un immeuble d’un usufruit ou d’un droit de superficie qui donne lieu à une indemnité.
+
+<sup>3</sup> L’activité des conseillers en rapport avec l’achat ou la vente d’un immeuble est soumise à la LBA dès lors que les parties ont déclaré vouloir conclure un contrat de vente et qu’une exception au sens de l’art. 2, al. 4<sup>ter</sup>, LBA n’est pas applicable.
+
+[^12e-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+#### Art. 12f
+
+**Conseil pratiqué à titre professionnel**
+
+<sup>1</sup>
+
+Le conseil est réputé pratiqué à titre professionnel lorsqu’il constitue une activité économique indépendante orientée vers l’obtention d’un revenu durable. Il est dans tous les cas réputé pratiqué à titre professionnel lorsque les conseillers:
+
+- a. en tirent un produit brut de plus de 50 000 francs par année civile;
+- b. conseillent plus de 20 clients par année civile ou participent à plus de 20 opérations juridiques par année civile;
+- c. doivent présumer, en faisant preuve de la diligence requise par les circonstances, que leur conseil porte sur des valeurs patrimoniales appartenant à des tiers dont le montant dépasse 5 millions de francs à un moment donné, ou
+- d. doivent présumer, en faisant preuve de la diligence requise par les circonstances, que leur conseil porte sur des transactions financières dont le volume total dépasse 2 millions de francs par année civile.
+
+<sup>2</sup> Que le conseil soit pratiqué à titre d’activité principale ou accessoire n’est pas déterminant.
+
+<sup>3</sup> L’activité exercée par des personnes proches n’est prise en considération pour l’évaluation visant à déterminer si elle est exercée à titre professionnel que si le produit brut réalisé par année civile est supérieur à 50 000 francs.
+
+<sup>4</sup>
+
+Sont considérés comme des personnes proches:
+
+- a. les parents et alliés en ligne directe;
+- b. les parents en ligne collatérale jusqu’au troisième degré;
+- c. les conjoints ou les partenaires enregistrés;
+- d. les cohéritiers jusqu’à la clôture du partage successoral;
+- e. les appelés et les substituts du légataire au sens de l’art. 488 CC[^12f-1];
+- f. les personnes qui vivent avec un conseiller dans une communauté de vie établie sur le long terme.
+
+[^12f-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+#### Art. 12g
+
+**Passage à l’activité exercée à titre professionnel**
+
+<sup>1</sup>
+
+Quiconque passe à une activité de conseiller au sens de l’art. 2, al. 3<sup>bis</sup> ou 3<sup>ter</sup>, LBA exercée à titre professionnel doit:
+
+- a. respecter aussitôt les obligations visées aux art. 8*b*, 8*d*, 9, 9*b*, 10*a* et 11*a* LBA, et
+- b. dans un délai de deux mois à compter du changement de statut, avoir déposé une demande d’affiliation à un OAR ou déclarer son activité de conseiller à l’autorité ou l’organisme compétent pour la surveillance.
+
+<sup>2</sup> Jusqu’à son affiliation à un OAR, un tel conseiller peut continuer à conseiller la clientèle existante et accepter de celle-ci des mandats pour de nouvelles opérations et prestations.
+
+<sup>3</sup> S’il n’a pas déposé de demande auprès d’un OAR ou n’a pas fait de déclaration à l’autorité ou à l’organisme compétent pour la surveillance dans le délai prescrit ou si sa demande d’affiliation a été rejetée, il lui est interdit de poursuivre son activité de conseiller au sens de l’art. 2, al. 3<sup>bis</sup> ou 3<sup>ter</sup>, LBA.
+
+#### Art. 12h
+
+**Démission ou exclusion d’un OAR**
+
+<sup>1</sup> Lorsqu’un conseiller qui entend poursuivre son activité de conseiller à titre professionnel démissionne ou est exclu d’un OAR, il est tenu de déposer une demande d’affiliation auprès d’un autre OAR dans les deux mois qui suivent la démission ou l’entrée en force de la décision d’exclusion.
+
+<sup>2</sup> Jusqu’à l’obtention de la décision concernant la demande, il n’est autorisé à poursuivre son activité de conseiller que dans le cadre des relations d’affaires existantes.
+
+<sup>3</sup> S’il n’a pas déposé de demande auprès d’un OAR dans le délai prescrit ou si sa demande d’affiliation a été rejetée, il lui est interdit de poursuivre son activité de conseiller.
+
+#### Art. 12i
+
+**Cessation d’activité**
+
+<sup>1</sup> Lorsqu’une personne cesse son activité de conseiller à titre professionnel, mais veut continuer à exercer son activité d’intermédiaire financier à titre professionnel, elle l’annonce à l’autorité ou à l’organisme compétent pour la surveillance dans un délai de deux mois.
+
+<sup>2</sup> Lorsqu’une personne cesse son activité d’intermédiaire financier à titre professionnel, mais veut continuer à exercer son activité de conseiller à titre professionnel, elle doit déposer une demande d’affiliation auprès d’un OAR dans les deux mois, sauf si elle est déjà affiliée à un OAR et continue à satisfaire aux conditions d’affiliation. L’art. 12*h*, al. 2 et 3, est applicable par analogie.
 
 ## Chapitre 3 Négociants
 
@@ -338,7 +478,25 @@ Sont également considérées comme négociants au sens de l’art. 2, al. 1, le
 
 Sont considérés comme biens les objets mobiliers corporels qui peuvent faire l’objet d’une vente mobilière en vertu de l’art. 187 du code des obligations[^15-1] ou les immeubles qui peuvent faire l’objet d’une vente d’immeubles en vertu de l’art. 216 du code des obligations.
 
-[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+#### Art. 15a
+
+**Métaux précieux et pierres précieuses visés**[^15a-1]
+
+<sup>1</sup>
+
+Sont considérés comme des métaux précieux visés à l’art. 8*a*, al. 2<sup>bis</sup>, LBA ceux qui se présentent sous l’une des formes suivantes:
+
+- a. produits de la fonte au sens de l’art. 1, al. 2, de la loi du 20 juin 1933 sur le contrôle des métaux précieux (LCMP)[^15a-2];
+- b. matières pour la fonte au sens de l’art. 1, al. 3, LCMP;
+- c. produits semi-ouvrés au sens de l’art. 52, al. 2, de l’ordonnance du 8 mai 1934 sur le contrôle des métaux précieux[^15a-3].
+
+<sup>2</sup> Sont considérés comme des pierres précieuses visées à l’art. 8*a*, al. 2<sup>bis</sup>, LBA les rubis, les saphirs, les émeraudes et les diamants non enfilés, non montés et non sertis.
+
+[^15a-1]: Introduit par l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^15a-2]: [RS 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
+[^15a-3]: [RS 941.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11223)
 
 #### Art. 16
 
@@ -443,7 +601,7 @@ Il existe des indices de blanchiment d’argent notamment lorsque:
 <sup>3</sup> La transmission des communications est régie par l’art. 3*a*, al. 1, 2 et 3, de l’ordonnance du 25 août 2004 sur le Bureau de communication en matière de blanchiment d’argent[^20-2].[^20-3]
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^20-2]: [RS 955.23](https://fedlex.data.admin.ch/eli/cc/2004/626)
+[^20-2]: [RS 955.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11612)
 [^20-3]: Nouvelle teneur selon le ch. III de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
 #### Art. 21
@@ -464,15 +622,17 @@ Dans ce formulaire ou document, le négociant inscrit:
 
 <sup>4</sup> Il doit être conservé pendant dix ans au moins.
 
-### Section 3 Organe de révision
+### Section 3 Entreprise de révision
+
+[^chap3-sec3-1]
+
+[^chap3-sec3-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 22
 
-<sup>1</sup> L’obligation de mandater un organe de révision en vertu de l’art. 15 LBA incombe aux négociants indépendamment de leur obligation de faire réviser leurs comptes annuels ou, le cas échéant, les comptes de leur groupe.
+<sup>1</sup> L’obligation de mandater une entreprise de révision en vertu de l’art. 15 LBA incombe aux négociants indépendamment de leur obligation de faire réviser leurs comptes annuels ou, le cas échéant, les comptes de leur groupe.
 
-<sup>2</sup> Lorsque le négociant ne dispose pas d’un organe de révision, l’organe supérieur de direction ou d’administration charge de procéder à la révision un réviseur selon l’art. 5 ou une entreprise de révision selon l’art. 6 de la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^22-1].
-
-[^22-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+<sup>2</sup> Si le négociant est une personne morale, l’obligation visée à l’art. 15 LBA incombe à l’organe supérieur de direction ou d’administration.
 
 ## Chapitre 3*a* Organismes d’autorégulation
 
@@ -502,8 +662,8 @@ N’est pas compatible avec l’agrément en tant que société d’audit pour l
 
 <sup>3</sup> Une société d’audit est considérée comme ayant une couverture d’assurance suffisante contre les risques de responsabilité civile découlant de la réalisation d’audits au sens de l’art. 24*a* LBA si elle possède une assurance contre les dommages pécuniaires ou dispose de sûretés financières équivalentes. La somme d’assurance disponible pour couvrir l’ensemble des sinistres sur une année doit s’élever à 250 000 francs au minimum.
 
-[^22a-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^22a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^22a-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^22a-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 22b
 
@@ -526,21 +686,22 @@ Un auditeur responsable continue à disposer des connaissances techniques requis
 
 <sup>3</sup> Tout agrément délivré dans un des domaines de surveillance visés à l’art. 11*a*, let. a à c, de l’ordonnance du 22 août 2007 sur la surveillance de la révision[^22b-1] ou à l’art. 62 LEFin[^22b-2] autorise également à effectuer des audits dans le domaine de la LBA.
 
-[^22b-1]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
-[^22b-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^22b-1]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
+[^22b-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 22c
 
 **Agrément en vue de l’audit des avocats et des notaires dans le domaine de la LBA**
 
-<sup>1</sup> Un auditeur responsable dispose des connaissances requises en matière de législation sur le blanchiment d’argent, de l’expérience correspondante et de la formation nécessaire (art. 18, al. 4, let. c, LBA) lorsqu’il satisfait aux conditions fixées à l’art. 22*b*.
+<sup>1</sup> Un auditeur responsable dispose des connaissances requises en matière de législation sur le blanchiment d’argent, de l’expérience correspondante et de la formation nécessaire (art. 18*a*, al. 2, let. c, LBA) lorsqu’il satisfait aux conditions fixées à l’art. 22*b*.[^22c-1]
 
-<sup>2</sup> Une personne physique agréée en vue de l’audit en matière de blanchiment d’argent auprès des avocats et des notaires selon la LBA a le droit d’effectuer des audits de manière indépendante sans être inscrite au registre du commerce en tant qu’entreprise individuelle agréée et sans être agréée en qualité de réviseur selon l’art. 5 LSR[^22c-1].
+<sup>2</sup> Une personne physique agréée en vue de l’audit en matière de blanchiment d’argent auprès des avocats et des notaires selon la LBA a le droit d’effectuer des audits de manière indépendante sans être inscrite au registre du commerce en tant qu’entreprise individuelle agréée et sans être agréée en qualité de réviseur selon l’art. 5 LSR[^22c-2].
 
-<sup>3</sup> Une personne agréée en vue de l’audit en matière de blanchiment d’argent auprès des avocats et des notaires selon la LBA est indépendante du membre faisant l’objet du contrôle si elle respecte les prescriptions de l’art. 11 LSR et de l’art. 728 du code des obligations[^22c-2].
+<sup>3</sup> Une personne agréée en vue de l’audit en matière de blanchiment d’argent auprès des avocats et des notaires selon la LBA est indépendante du membre faisant l’objet du contrôle si elle respecte les prescriptions de l’art. 11 LSR et de l’art. 728 du code des obligations[^22c-3].
 
-[^22c-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^22c-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22c-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^22c-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^22c-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 22d
 
@@ -548,7 +709,7 @@ Un auditeur responsable continue à disposer des connaissances techniques requis
 
 <sup>1</sup>
 
-La formation continue selon les art. 22b et 22c, y compris celle basée sur les nouvelles technologies de l’information et les cours à distance, doit au moins respecter les critères suivants:
+La formation continue selon les art. 22*b* et 22*c*, y compris celle basée sur les nouvelles technologies de l’information et les cours à distance, doit au moins respecter les critères suivants:
 
 - a. la formation continue comprend le domaine de la LBA;
 - b. les séminaires externes et internes durent au moins une heure;
@@ -583,6 +744,16 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 [^u1-1]: [RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)
 
 Si un intermédiaire financier qui était directement soumis à la surveillance de la FINMA jusqu’à l’entrée en vigueur de la loi s’affilie à un organisme d’autorégulation au sens de l’art. 24 LBA, il présente à l’organisme d’autorégulation un rapport sur la conformité de ses activités avec les prescriptions de la LBA.
+
+## Disposition transitoire relative à la modification du 26 septembre 2025
+
+[^u2-1]
+
+[^u2-1]: [RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)
+
+<sup>1</sup> Toute personne qui exerce, en date du 1<sup>er</sup> octobre 2026, une activité de conseiller au sens de l’art. 2, al. 3<sup>bis</sup> ou 3<sup>ter</sup> LBA doit, avant le 1<sup>er</sup> décembre 2026, demander son affiliation à un OAR. Jusqu’à l’obtention de la décision concernant la demande, il n’est autorisé à poursuivre son activité de conseiller que dans le cadre des relations d’affaires existantes.
+
+<sup>2</sup> Tout intermédiaire financier qui, en date du 1<sup>er</sup> octobre 2026, exerce une activité de conseiller au sens de l’art. 2, al. 3<sup>bis</sup> ou 3<sup>ter</sup>, LBA, doit annoncer cette activité à l’autorité ou à l’organisme compétent pour la surveillance avant le 1<sup>er</sup> décembre 2026. Il peut continuer à conseiller la clientèle existante et accepter de celle-ci des mandats pour de nouvelles opérations et prestations.
 
 Annexe 1
 

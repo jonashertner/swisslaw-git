@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2015 über die Bekämpfung der Geldwäschere
 short: GwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: de
-version: 2023-01-01
+version: 2026-10-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-791-20230101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2015-791-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/de"
 
 (Geldwäschereiverordnung, GwV)
 
-vom 11. November 2015 (Stand am 1. Januar 2023)
+vom 11. November 2015 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 8*a* Absatz 5 und 41 des Geldwäschereigesetzes vom 10. Oktober 1997[^ingress-1] (GwG),
+gestützt auf die Artikel 2 Absatz 5, 2*b* Absatz 2, 8*a* Absatz 5 und 41 des Geldwäschereigesetzes vom 10. Oktober 1997[^ingress-1] (GwG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -37,23 +38,26 @@ Diese Verordnung regelt:
 
 - a.[^1-1] die Anforderungen an die berufsmässige Ausübung der Tätigkeit als Finanzintermediär nach Artikel 2 Absatz 3 GwG;
 - a<sup>bis</sup>.[^1-2] die Pflichten bei Geldwäschereiverdacht (Art. 9–11 GwG), welche die Finanzintermediäre nach Artikel 2 Absätze 2 und 3 erfüllen müssen;
+- a<sup>ter</sup>.[^1-3]
+
+  die Anforderungen an:
+
+  - 1\. die berufsmässige Ausübung der Tätigkeit als Beraterin oder Berater nach Artikel 2 Absätze 3<sup>bis</sup> und 3<sup>ter</sup> GwG,
+  - 2\. die Ausübung der Tätigkeit als Beraterin oder Berater nach Artikel 2 Absatz 3<sup>quater</sup> GwG;
+
 - b. die Sorgfalts- und Meldepflichten, die Händlerinnen und Händler nach den Artikeln 8*a* und 9 Absatz 1<sup>bis</sup> GwG erfüllen müssen;
-- c.[^1-3] die Aufsicht über Finanzintermediäre nach Artikel 2 Absatz 3 GwG durch anerkannte Selbstregulierungsorganisationen.
+- c.[^1-4] die Aufsicht über Finanzintermediäre nach Artikel 2 Absatz 3 GwG durch anerkannte Selbstregulierungsorganisationen (SRO).
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^1-2]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
-[^1-3]: Eingefügt durch Anhang 1 Ziff. II 12 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-3]: Eingefügt durch Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^1-4]: Eingefügt durch Anhang 1 Ziff. II 12 der Finanzinstitutsverordnung vom 6. Nov. 2019 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup>
-
-Diese Verordnung gilt für:
-
-- a.[^2-1] Finanzintermediäre nach Artikel 2 Absätze 2 und 3 GwG, die in der Schweiz oder von der Schweiz aus tätig sind;
-- b. Händlerinnen und Händler nach Artikel 2 Absatz 1 Buchstabe b GwG, die in der Schweiz oder von der Schweiz aus tätig sind.
+<sup>1</sup> Diese Verordnung gilt für Finanzintermediäre, Händlerinnen und Händler, Beraterinnen und Berater, die in der Schweiz oder von der Schweiz aus tätig sind.[^2-1]
 
 <sup>2</sup>
 
@@ -71,16 +75,58 @@ Keine Finanzintermediäre nach Artikel 2 Absatz 3 GwG sind:
 
 - b.
 
-  Hilfspersonen von Finanzintermediären, die für ihre Tätigkeit eine Bewilligung in der Schweiz haben oder die einer Selbstregulierungsorganisation (SRO) angeschlossen sind, sofern sie:
+  Hilfspersonen von Finanzintermediären, sofern die Hilfspersonen:[^2-2]
 
   - 1\. vom Finanzintermediär sorgfältig ausgewählt sind und dessen Weisungen und Kontrolle unterstehen,
-  - 2\. in die organisatorischen Massnahmen des Finanzintermediärs zur Verhinderung der Geldwäscherei und der Terrorismusfinanzierung nach Artikel 8 GwG einbezogen sind und entsprechend aus- und weitergebildet werden,
+  - 2\.[^2-3] in die organisatorischen Massnahmen des Finanzintermediärs nach Artikel 8 GwG einbezogen sind und entsprechend aus- und weitergebildet werden,
   - 3\. ausschliesslich im Namen des Finanzintermediärs und auf dessen Rechnung handeln,
   - 4\. vom Finanzintermediär und nicht von der Endkundin oder dem Endkunden entschädigt werden,
   - 5\. beim Geld- oder Wertübertragungsgeschäft nur für einen einzigen bewilligten oder einer SRO angeschlossenen Finanzintermediär tätig sind, und
   - 6\. mit dem Finanzintermediär über die Einhaltung der vorstehenden Anforderungen eine schriftliche Vereinbarung abgeschlossen haben.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+<sup>3</sup>
+
+Keine Beraterinnen und Berater sind:
+
+- a. Personen, die Dienstleistungen unter Konzerngesellschaften erbringen;
+- b.
+
+  Hilfspersonen von Beraterinnen und Beratern, sofern die Hilfspersonen:
+
+  - 1\. von der Beraterin oder dem Berater sorgfältig ausgewählt sind und deren oder dessen Weisungen und Kontrolle unterstehen,
+  - 2\. in die organisatorischen Massnahmen der Beraterin oder des Beraters nach Artikel 8*d* GwG einbezogen sind und entsprechend aus- und weitergebildet werden,
+  - 3\. ausschliesslich im Namen der Beraterin oder des Beraters und auf deren oder dessen Rechnung handeln,
+  - 4\. von der Beraterin oder dem Berater und nicht von der Endkundin oder dem Endkunden entschädigt werden, und
+  - 5\. mit der Beraterin oder dem Berater über die Einhaltung der vorstehenden Anforderungen eine schriftliche Vereinbarung abgeschlossen haben;
+
+- c. Versicherungsvermittlerinnen, Versicherungsvermittler und Dritte, welchen aufgrund schriftlicher Delegationsverträge mit Versicherungsunternehmen die Einhaltung der Sorgfaltspflichten delegiert wurde, im Rahmen ihrer Tätigkeit für Versicherungsunternehmen.[^2-4]
+
+[^2-1]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-2]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-3]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2-4]: Eingefügt durch Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+
+#### Art. 2a
+
+**Erklärung über die Unterstellung der gesamten Tätigkeiten unter die Bestimmungen, die auf die Finanzintermediäre anwendbar sind**[^2a-1]
+
+<sup>1</sup> Die Erklärung nach Artikel 2*b* Absatz 2 GwG muss gegenüber der für die Aufsicht zuständigen Behörde oder Organisation erfolgen.
+
+<sup>2</sup>
+
+Sie muss die von der für die Aufsicht zuständigen Behörde oder Organisation geforderten Informationen enthalten, insbesondere:
+
+- a. die Beschreibung der betroffenen Tätigkeit;
+- b. die mit der betroffenen Tätigkeit verbundenen allfälligen Änderungen der internen Organisation, einschliesslich der internen Weisungen.
+
+<sup>3</sup> Sie gilt ab dem 1. Januar des Kalenderjahres, das auf ihre Einreichung bei der für die Aufsicht zuständigen Behörde oder Organisation folgt. Auf Antrag der Beraterin oder des Beraters kann die für die Aufsicht zuständige Behörde oder Organisation einen früheren Zeitpunkt genehmigen.
+
+<sup>4</sup> Die Erklärung kann widerrufen werden. Der Widerruf gilt ab dem 1. Januar des Kalenderjahres, das auf dessen Einreichung folgt.
+
+<sup>5</sup> Für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–d<sup>quater</sup> GwG, die eine solche Erklärung nicht abgegeben haben, findet die Geldwäschereiverordnung-FINMA vom 3. Juni 2015[^2a-2] sinngemäss Anwendung.
+
+[^2a-1]: Eingefügt durch Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^2a-2]: [SR 955.033.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11604)
 
 ## 2. Kapitel: Finanzintermediäre
 
@@ -151,7 +197,7 @@ Als Handelstätigkeit im Sinne von Artikel 2 Absatz 3 Buchstabe c GwG gilt:
 
 <sup>3</sup> Der akzessorische Geldwechsel gilt nicht als Handelstätigkeit.
 
-[^5-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^5-2]: Fassung gemäss Anhang 1 Ziff. II 12 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 6
@@ -210,7 +256,7 @@ Als nahestehende Personen gelten:
 - e. Nacherbinnen und -erben und Nachvermächtnisnehmerinnen und -nehmer nach Artikel 488 des Zivilgesetzbuches[^7-1];
 - f. Personen, die mit einem Finanzintermediär in einer auf Dauer angelegten Lebensgemeinschaft leben.
 
-[^7-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^7-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 8
 
@@ -245,14 +291,16 @@ Für die Handelstätigkeit wird zur Beurteilung des Kriteriums nach Artikel 7 Ab
 
 <sup>1</sup>
 
-Wer von einer nichtberufsmässigen Tätigkeit als Finanzintermediär zu einer berufsmässigen Tätigkeit als Finanzintermediär nach Artikel 2 Absatz 3 wechselt, muss:
+Wer zu einer berufsmässigen Tätigkeit als Finanzintermediär nach Artikel 2 Absatz 3 GwG wechselt, muss:[^11-2]
 
-- a. unverzüglich die Pflichten nach den Artikeln 3–11 GwG einhalten; und
+- a.[^11-3] unverzüglich die Pflichten nach den Artikeln 3–8, 9–10*a* und 11*a* GwG einhalten; und
 - b. innerhalb von zwei Monaten nach dem Wechsel bei einer SRO ein Gesuch um Anschluss einreichen.
 
 <sup>2</sup> Bis zum Anschluss an eine SRO ist es einem solchen Finanzintermediär untersagt, als Finanzintermediär Handlungen vorzunehmen, die weiter gehen als diejenigen, die zwingend zur Erhaltung der Vermögenswerte erforderlich sind.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^11-2]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^11-3]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 12
 
@@ -286,7 +334,7 @@ Wenn konkrete Anzeichen bestehen, dass behördliche Sicherstellungsmassnahmen un
 - a. eine Geschäftsbeziehung abzubrechen, für welche er entscheidet, das Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 StGB nicht in Anspruch zu nehmen, obwohl die Voraussetzungen erfüllt sind;
 - b. den Rückzug bedeutender Vermögenswerte zu gestatten.
 
-[^12a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12a-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 12b
 
@@ -304,7 +352,7 @@ Ausser in dem in Artikel 9*b* Absatz 1 GwG vorgesehenen Fall kann der Finanzinte
 
 <sup>3</sup> In den Fällen nach Absatz 1 müssen der Abbruch der Geschäftsbeziehung und das Datum des Abbruchs der Meldestelle nicht mitgeteilt werden.
 
-[^12b-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12b-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 12c
 
@@ -312,7 +360,99 @@ Ausser in dem in Artikel 9*b* Absatz 1 GwG vorgesehenen Fall kann der Finanzinte
 
 Informiert ein Finanzintermediär einen anderen Finanzintermediär darüber, dass er eine Meldung nach Artikel 9 GwG oder Artikel 305<sup>ter</sup> Absatz 2 StGB[^12c-1] erstattet hat, so hält er diese Tatsache in geeigneter Form fest.
 
-[^12c-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^12c-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+## 2*a*. Kapitel: Beraterinnen und Berater
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+
+#### Art. 12d
+
+**Mitwirkung nach Artikel 2 Absatz 3<sup>bis</sup> GwG**
+
+Die Mitwirkung nach Artikel 2 Absatz 3<sup>bis</sup> GwG umfasst die Beratung, die kausal zu einem Rechtsvorgang im Zusammenhang mit einer finanziellen Transaktion nach Artikel 2 Absatz 3<sup>bis</sup> Buchstaben a–e GwG beiträgt.
+
+#### Art. 12e
+
+**Kauf und Verkauf von Grundstücken**
+
+<sup>1</sup> Unter Artikel 2 Absatz 3<sup>bis</sup> Buchstabe a GwG fallen der Kauf und Verkauf eines Grundstücks nach Artikel 655 Absatz 2 des Zivilgesetzbuches[^12e-1].
+
+<sup>2</sup>
+
+Unter Artikel 2 Absatz 3<sup>bis</sup> Buchstabe a GwG fallen überdies:
+
+- a. die Rechtsgeschäfte, die in Bezug auf die Verfügungsgewalt über ein Grundstück wirtschaftlich wie ein Kauf oder Verkauf wirken;
+- b. die Belastung eines Grundstückes mit einer Nutzniessung oder einem Baurecht, wenn dafür ein Entgelt entrichtet wird.
+
+<sup>3</sup> Die Tätigkeit der Beraterinnen und Berater im Zusammenhang mit dem Kauf und Verkauf eines Grundstücks wird unterstellt, sobald beide Parteien ihren Willen zum Abschluss des Kaufvertrags erklärt haben, und keine Ausnahme nach Artikel 2 Absatz 4<sup>ter</sup> GwG vorliegt.
+
+[^12e-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+#### Art. 12f
+
+**Berufsmässige Beratung**
+
+<sup>1</sup>
+
+Die Beratung gilt als berufsmässig, wenn sie eine selbstständige, auf dauernden Erwerb gerichtete wirtschaftliche Tätigkeit darstellt. Sie gilt in jedem Fall als berufsmässig, wenn die Beraterinnen und Berater:
+
+- a. damit pro Kalenderjahr einen Bruttoerlös von mehr als 50 000 Franken erzielen;
+- b. pro Kalenderjahr mehr als 20 Kundinnen oder Kunden beraten oder pro Kalenderjahr bei mehr als 20 Rechtsvorgängen mitwirken;
+- c. bei Anwendung der nach den Umständen gebotenen Sorgfalt annehmen müssen, dass ihre Beratung Vermögenswerte Dritter betrifft, die zu einem beliebigen Zeitpunkt 5 Millionen Franken überschreiten; oder
+- d. bei Anwendung der nach den Umständen gebotenen Sorgfalt annehmen müssen, dass ihre Beratung finanzielle Transaktionen betrifft, deren Gesamtvolumen 2 Millionen Franken pro Kalenderjahr überschreitet.
+
+<sup>2</sup> Nicht massgeblich ist, ob die Beratung als Haupt- oder Nebentätigkeit betrieben wird.
+
+<sup>3</sup> Die Tätigkeit für nahestehende Personen wird für die Beurteilung der Berufsmässigkeit nur berücksichtigt, wenn damit im Kalenderjahr ein Bruttoerlös von mehr als 50 000 Franken erzielt wird.
+
+<sup>4</sup>
+
+Als nahestehende Personen gelten:
+
+- a. Verwandte und Verschwägerte in gerader Linie;
+- b. Verwandte bis zum dritten Grad der Seitenlinie;
+- c. Ehegatten und eingetragene Partnerinnen und Partner;
+- d. Miterbinnen und -erben bis zum Abschluss der Erbteilung;
+- e. Nacherbinnen und -erben und Nachvermächtnisnehmerinnen und -nehmer nach Artikel 488 des Zivilgesetzbuches[^12f-1];
+- f. Personen, die mit einer Beraterin oder einem Berater in einer auf Dauer angelegten Lebensgemeinschaft leben.
+
+[^12f-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+#### Art. 12g
+
+**Wechsel zur berufsmässigen Tätigkeit**
+
+<sup>1</sup>
+
+Wer zu einer berufsmässigen Tätigkeit als Beraterin oder Berater nach Artikel 2 Absatz 3<sup>bis</sup> oder 3<sup>ter</sup> GwG wechselt, muss:
+
+- a. unverzüglich die Pflichten nach den Artikeln 8*b*, 8*d*, 9, 9*b*, 10*a* und 11*a* GwG einhalten; und
+- b. innerhalb von zwei Monaten nach dem Wechsel bei einer SRO ein Gesuch um Anschluss einreichen oder seine Beratungstätigkeit der für die Aufsicht zuständigen Behörde oder Organisation mitteilen.
+
+<sup>2</sup> Bis zum Anschluss an eine SRO darf eine solche Beraterin oder ein solcher Berater die bestehenden Kundinnen und Kunden weiterhin beraten und von ihnen Aufträge für neue Geschäfte und Dienstleistungen annehmen.
+
+<sup>3</sup> Hat sie oder er innert der vorgeschriebenen Frist kein Gesuch bei einer SRO eingereicht oder seine Beratungstätigkeit der für die Aufsicht zuständigen Behörde oder Organisation nicht gemeldet oder wird ihr oder ihm der Anschluss verweigert, so ist es ihr oder ihm untersagt, weiterhin als Beraterin oder Berater nach Artikel 2 Absatz 3<sup>bis</sup> oder 3<sup>ter</sup> GwG tätig zu sein.
+
+#### Art. 12h
+
+**Austritt und Ausschluss aus einer SRO**
+
+<sup>1</sup> Tritt eine Beraterin oder ein Berater, die oder der weiterhin berufsmässig als Beraterin oder Berater tätig sein will, aus einer SRO aus oder wird sie oder er aus einer solchen ausgeschlossen, so muss sie oder er innerhalb von zwei Monaten nach dem Austritt oder nach dem rechtskräftigen Ausschlussentscheid bei einer anderen SRO ein Gesuch um Anschluss einreichen.
+
+<sup>2</sup> Sie oder er darf ihre oder seine Tätigkeit bis zum Erhalt des Entscheids über das Gesuch nur im Rahmen der bestehenden Geschäftsbeziehungen weiterhin ausüben.
+
+<sup>3</sup> Hat sie oder er innert der vorgeschriebenen Frist kein Gesuch bei einer SRO eingereicht oder wird ihr oder ihm der Anschluss verweigert, so ist es ihr oder ihm untersagt, weiterhin als Beraterin oder Berater tätig zu sein.
+
+#### Art. 12i
+
+**Aufgabe der Tätigkeit**
+
+<sup>1</sup> Wer seine berufsmässige Beratungstätigkeit aufgibt, aber weiterhin berufsmässig als Finanzintermediär tätig sein will, muss dies der für die Aufsicht zuständigen Behörde oder Organisation innerhalb von zwei Monaten mitteilen.
+
+<sup>2</sup> Wer seine berufsmässige Tätigkeit als Finanzintermediär aufgibt, aber weiterhin berufsmässig als Beraterin oder Berater tätig sein will, muss innerhalb von zwei Monaten bei einer SRO ein Gesuch um Anschluss einreichen, es sei denn, er ist bereits bei einer SRO angeschlossen und erfüllt weiterhin die Anschlussvoraussetzungen. Artikel 12*h* Absätze 2 und 3 sind sinngemäss anwendbar.
 
 ## 3. Kapitel: Händlerinnen und Händler
 
@@ -338,7 +478,25 @@ Als Händlerinnen und Händler nach Artikel 2 Absatz 1 Buchstabe b GwG gelten au
 
 Als Güter gelten bewegliche körperliche Sachen, die Gegenstand eines Fahrniskaufs nach Artikel 187 des Obligationenrechts[^15-1] sein können, oder Grundstücke, die Gegenstand eines Grundstückkaufs nach Artikel 216 des Obligationenrechts sein können.
 
-[^15-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+#### Art. 15a
+
+**Erfasste Edelmetalle und Edelsteine**[^15a-1]
+
+<sup>1</sup>
+
+Als von Artikel 8*a* Absatz 2<sup>bis</sup> GwG erfasste Edelmetalle gelten solche in Form von:
+
+- a. Schmelzprodukten im Sinne von Artikel 1 Absatz 2 des Edelmetallkontrollgesetzes vom 20. Juni 1933[^15a-2] (EMKG);
+- b. Schmelzgut im Sinne von Artikel 1 Absatz 3 EMKG;
+- c. Halbfabrikaten im Sinne von Artikel 52 Absatz 2 der Edelmetallkontrollverordnung vom 8. Mai 1934[^15a-3].
+
+<sup>2</sup> Als von Artikel 8*a* Absatz 2<sup>bis</sup> GwG erfasste Edelsteine gelten Rubine, Saphire, Smaragde und Diamanten, die nicht aufgereiht, nicht montiert und nicht gefasst sind.
+
+[^15a-1]: Eingefügt durch Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^15a-2]: [SR 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
+[^15a-3]: [SR 941.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11223)
 
 #### Art. 16
 
@@ -442,7 +600,7 @@ Anhaltspunkte für Geldwäscherei liegen namentlich vor, wenn:
 
 <sup>3</sup> Die Übermittlung der Meldungen richtet sich nach Artikel 3*a* Absätze 1, 2 und 3 der Verordnung vom 25. August 2004[^20-1] über die Meldestelle für Geldwäscherei.[^20-2]
 
-[^20-1]: [SR 955.23](https://fedlex.data.admin.ch/eli/cc/2004/626)
+[^20-1]: [SR 955.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11612)
 [^20-2]: Fassung gemäss Ziff. III der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
 #### Art. 21
@@ -463,15 +621,17 @@ In das Formular oder Dokument eingetragen werden:
 
 <sup>4</sup> Es ist während mindestens zehn Jahren aufzubewahren.
 
-### 3. Abschnitt: Beauftragung einer Revisionsstelle
+### 3. Abschnitt: Beauftragung eines Revisionsunternehmens
+
+[^chap3-sec3-1]
+
+[^chap3-sec3-1]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
 
 #### Art. 22
 
-<sup>1</sup> Die Pflicht der Händlerin oder des Händlers nach Artikel 15 GwG, eine Revisionsstelle zu beauftragen, besteht unabhängig von der Pflicht, die Jahres- und gegebenenfalls die Konzernrechnung prüfen zu lassen.
+<sup>1</sup> Die Pflicht der Händlerin oder des Händlers nach Artikel 15 GwG, ein Revisionsunternehmen zu beauftragen, besteht unabhängig von der Pflicht, die Jahres- und gegebenenfalls die Konzernrechnung prüfen zu lassen.
 
-<sup>2</sup> Verfügt die Händlerin oder der Händler über keine Revisionsstelle, so beauftragt das oberste Leitungs- oder Verwaltungsorgan Revisorinnen oder Revisoren nach Artikel 5 oder ein Revisionsunternehmen nach Artikel 6 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^22-1] (RAG) mit der Prüfung.
-
-[^22-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+<sup>2</sup> Handelt es sich bei der Händlerin um eine juristische Person, so obliegt die Pflicht nach Artikel 15 GwG dem obersten Leitungs- oder Verwaltungsorgan.
 
 ## 3*a*. Kapitel: Selbstregulierungsorganisationen
 
@@ -501,8 +661,8 @@ Nicht vereinbar mit der Zulassung als Prüfgesellschaft für Prüfungen nach Art
 
 <sup>3</sup> Eine Prüfgesellschaft ist für die Haftungsrisiken ausreichend versichert, wenn sie zur Deckung ihrer Haftpflicht aus Prüfungen nach Artikel 24*a* GwG über eine Versicherung für Vermögensschäden oder über eine gleichwertige finanzielle Sicherheit verfügt. Die Deckungssumme, die für alle Schadenfälle eines Jahres zur Verfügung steht, muss mindestens 250 000 Franken betragen.
 
-[^22a-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^22a-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^22a-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^22a-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 22b
 
@@ -525,21 +685,22 @@ Eine leitende Prüferin oder ein leitender Prüfer verfügt nach der Zulassung w
 
 <sup>3</sup> Die für die Prüfung in einem Aufsichtsbereich nach Artikel 11*a* Absatz 1 Buchstaben a–c der Revisionsaufsichtsverordnung vom 22. August 2007[^22b-1] oder nach Artikel 62 FINIG[^22b-2] erteilte Zulassung ermächtigt auch zur Prüfung im Bereich des GwG.
 
-[^22b-1]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
-[^22b-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^22b-1]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
+[^22b-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 22c
 
 **Zulassung zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren im GwG-Bereich**
 
-<sup>1</sup> Eine leitende Prüferin oder ein leitender Prüfer verfügt über die einschlägigen GwG-Kenntnisse, die entsprechende Praxis und die erforderliche Weiterbildung (Art. 18 Abs. 4 Bst. c GwG), wenn sie oder er die Voraussetzungen nach Artikel 22*b* erfüllt.
+<sup>1</sup> Eine leitende Prüferin oder ein leitender Prüfer verfügt über die einschlägigen GwG-Kenntnisse, die entsprechende Praxis und die erforderliche Weiterbildung (Art. 18*a* Abs. 2 Bst. c GwG), wenn sie oder er die Voraussetzungen nach Artikel 22*b* erfüllt.[^22c-1]
 
-<sup>2</sup> Eine zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren nach dem GwG zugelassene natürliche Person darf selbstständig prüfen, ohne als zugelassenes Einzelunternehmen im Handelsregister eingetragen zu sein und ohne als Revisorin oder Revisor nach Artikel 5 RAG[^22c-1] zugelassen zu sein.
+<sup>2</sup> Eine zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren nach dem GwG zugelassene natürliche Person darf selbstständig prüfen, ohne als zugelassenes Einzelunternehmen im Handelsregister eingetragen zu sein und ohne als Revisorin oder Revisor nach Artikel 5 RAG[^22c-2] zugelassen zu sein.
 
-<sup>3</sup> Eine zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren nach dem GwG zugelassene Person ist vom zu prüfenden Mitglied unabhängig, wenn sie die Vorgaben nach Artikel 11 RAG und Artikel 728 OR[^22c-2] einhält.
+<sup>3</sup> Eine zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren nach dem GwG zugelassene Person ist vom zu prüfenden Mitglied unabhängig, wenn sie die Vorgaben nach Artikel 11 RAG und Artikel 728 OR[^22c-3] einhält.
 
-[^22c-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^22c-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22c-1]: Fassung gemäss Anhang Ziff. 6 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^22c-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^22c-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 22d
 
@@ -582,6 +743,16 @@ Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 [^u1-1]: [AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)
 
 Schliesst sich ein Finanzintermediär, der bis zum Inkrafttreten des Gesetzes der FINMA direkt unterstellt ist, einer Selbstregulierungsorganisation nach Artikel 24 GwG an, so erstattet er der Selbstregulierungsorganisation einen Bericht über die Konformität seiner Geschäftstätigkeit mit den Vorschriften des GwG.
+
+## Übergangsbestimmung zur Änderung vom 26. September 2025
+
+[^u2-1]
+
+[^u2-1]: [AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)
+
+<sup>1</sup> Wer am 1. Oktober 2026 eine Tätigkeit als Beraterin oder Berater nach Artikel 2 Absätze 3<sup>bis</sup> oder 3<sup>ter</sup> GwG ausübt, muss bis zum 1. Dezember 2026 bei einer SRO ein Gesuch um Anschluss einreichen. Sie oder er darf ihre oder seine Tätigkeit bis zum Erhalt des Entscheids über das Gesuch nur im Rahmen der bestehenden Geschäftsbeziehungen weiterhin ausüben.
+
+<sup>2</sup> Finanzintermediäre, die am 1. Oktober 2026 als Beraterin oder Berater nach Artikel 2 Absätze 3<sup>bis</sup> oder 3<sup>ter</sup> GwG ausüben, müssen diese Beratungstätigkeit bis am 1. Dezember 2026 der für die Aufsicht zuständigen Behörde oder Organisation mitteilen. Sie dürfen die bestehenden Kundinnen und Kunden weiterhin beraten und Aufträge für neue Geschäfte und Dienstleistungen annehmen.
 
 Anhang 1
 
