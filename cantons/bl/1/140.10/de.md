@@ -3,20 +3,19 @@ canton: BL
 number: "140.10"
 title: Verordnung über die Verteilung der Direktionen
 language: de
-version: 2026-01-01
-valid_until: 2026-09-30
-version_adopted: 2025-12-09
+version: 2026-10-01
+version_adopted: 2026-06-16
 adopted: 2023-02-14
 in_force: 2023-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.10"
-pdf: "https://bl.clex.ch/api/de/versions/4377/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4522/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Verteilung der Direktionen
 
-Vom 14.02.2023 (Stand 01.01.2026)
+Vom 14.02.2023 (Stand 01.10.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -40,13 +39,13 @@ beschliesst:
   - 1\. Vorsteher: Thomi Jourdan
   - 2\. Stellvertreter: Anton Lauber
 - c. Bau- und Umweltschutzdirektion
-  - 1\. Vorsteher: Isaac Reber
+  - 1\. Vorsteher: Matthias Liechti
   - 2\. Stellvertreterin: Kathrin Schweizer
 - d. Sicherheitsdirektion
   - 1\. Vorsteherin: Kathrin Schweizer
   - 2\. Stellvertreter: Markus Eigenmann
 - e. Bildungs-, Kultur- und Sportdirektion
   - 1\. Vorsteher: Markus Eigenmann
-  - 2\. Stellvertreter: Isaac Reber
+  - 2\. Stellvertreter: Matthias Liechti
 
 GS 2023.013
