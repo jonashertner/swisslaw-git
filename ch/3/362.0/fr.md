@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordonnance du 8 mars 2013 sur la partie nationale du Système d'information Schengen (N-SIS) et sur le bureau SIRENE (Ordonnance N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: fr
-version: 2024-01-01
+version: 2026-10-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20240101/fr"
 
 (Ordonnance N-SIS)
 
-du 8 mars 2013 (État le 1<sup>er</sup> janvier 2024)
+du 8 mars 2013 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -24,8 +24,8 @@ vu l’art. 355*e* du code pénal (CP)[^ingress-1], vu l’art. 16 de la loi fé
 
 arrête:
 
-[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^ingress-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^ingress-2]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
 ## Chapitre 1 Objet et définitions
@@ -93,8 +93,8 @@ Dans la présente ordonnance, on entend par:
 - j.[^2-4] *image faciale:* une photographie numérique du visage d’une résolution et d’une qualité suffisantes pour servir à l’établissement automatisé de correspondances biométriques;
 - k.[^2-5] *photographie:* une image numérique;
 - l.[^2-6] *État Schengen:* État lié par l’un des accords d’association à Schengen[^2-7];
-- m.[^2-8] *infractions terroristes**:* les infractions énumérées à l’annexe 1*a*;
-- n.[^2-9] *autres infractions pénales graves**:* les infractions énumérées à l’annexe 1*b*.
+- m.[^2-8] *infractions terroristes:* les infractions énumérées à l’annexe 3, ch. 22, de la loi du 21 mars 2025 sur l’échange d’informations Schengen (LEIS)[^2-9];
+- n.[^2-10] *autres infractions pénales graves:* les infractions énumérées à l’annexe 3, ch. 1 à 21 et 23 à 32, LEIS.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
@@ -102,9 +102,10 @@ Dans la présente ordonnance, on entend par:
 [^2-4]: Introduite par le ch. I de l’O du 11 juin 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^2-5]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^2-6]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
-[^2-7]: Ces accords sont énumérés à l’annexe 3 LSIP ([RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)).
-[^2-8]: Anciennement let. i. Introduite par le ch. I de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Erratum du 11 nov. 2022 ([RO 2022 672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
-[^2-9]: Anciennement let. j. Introduite par le ch. I de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Erratum du 11 nov. 2022 ([RO 2022 672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
+[^2-7]: Ces accords sont énumérés à l’annexe 3 LSIP ([RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)).
+[^2-8]: Anciennement let. i. Introduite par le ch. I de l’O du 11 juin 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^2-9]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^2-10]: Anciennement let. j. Introduite par le ch. I de l’O du 11 juin 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## Chapitre 2 Responsabilité, architecture du système et gestion des affaires et des dossiers du bureau SIRENE
 
@@ -153,9 +154,9 @@ Le règlement de traitement au sens de l’art. 3, al. 2, régit:
 - a. les cas dans lesquels des données du RIPOL, du SYMIC, du système de gestion des affaires et des dossiers du bureau SIRENE et du système automatique d’identification des empreintes digitales (AFIS) sont transférées dans le N-SIS par une procédure automatisée;
 - b. la transmission automatisée de données du RIPOL, du SYMIC et d’AFIS dans le système de gestion des affaires et des dossiers du bureau SIRENE, notamment lorsque des signalements multiples sont constatés.[^4-4]
 
-[^4-1]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^4-1]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
 [^4-2]: Introduite par l’annexe ch. 2 de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)).
-[^4-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
 #### Art. 5
@@ -173,7 +174,7 @@ Le règlement de traitement au sens de l’art. 3, al. 2, régit:
 <sup>5</sup> Les droits des collaborateurs de fedpol, de l’Office fédéral de la justice (OFJ) et du Secrétariat d’État aux migrations (SEM)[^5-5] en matière d’accès et de traitement des données du système de gestion des dossiers et des affaires du bureau SIRENE sont fixés à l’annexe 2.
 
 [^5-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^5-2]: [RS 331](https://fedlex.data.admin.ch/eli/cc/2022/698)
+[^5-2]: [RS 331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6258)
 [^5-3]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^5-5]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -192,7 +193,7 @@ Afin d’accomplir leurs tâches selon l’art. 16, al. 2, LSIP, les autorités 
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^6-2]: Introduite par le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^6-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^6-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 7
 
@@ -251,37 +252,32 @@ Afin d’accomplir les tâches définies à l’art. 16, al. 2, LSIP, les autori
   - 1\. pour examiner les demandes de visas, pour octroyer des titres de séjour et des documents de voyage, pour ordonner et vérifier des décisions de non-admission et des interdictions de séjour prononcées à l’encontre de ressortissants d’États tiers et pour contrôler et émettre dans le SIS les signalements y afférents,
   - 2\. pour comparer systématiquement et de manière automatisée les données du système API livrées à l’avance par les entreprises de transport aérien avec celles du SIS afin d’améliorer le contrôle à la frontière, de lutter efficacement contre l’entrée illégale dans l’espace Schengen et le passage illégal par la zone internationale de transit des aéroports et de lutter contre la criminalité internationale organisée, le terrorisme, l’espionnage et les actes préparatoires relatifs au commerce illicite d’armes et de substances radioactives ainsi que ceux relatifs au transfert illégal de technologie,
   - 3\. pour identifier les personnes ayant déposé une demande d’asile,
-  - 4\. pour examiner les demandes de naturalisation;
+  - 4\. pour examiner les demandes de naturalisation,
+  - 5\.[^7-13] pour accomplir les tâches qui leur sont dévolues en vertu de l’art. 108*c*, al. 1, et 108*e*, al. 1, 2<sup>e</sup> phrase, LEI;
 
-- f<sup>bis</sup>.[^7-13] les services compétents des domaines de direction Immigration et intégration et Asile du SEM: pour consulter les signalements aux fins de retour inscrits dans le SIS et pour y contrôler et y émettre de tels signalements;
-- f<sup>ter</sup>.[^7-14] les services compétents du domaine de direction Affaires internationales du SEM: pour soutenir les cantons dans leurs tâches d’exécution des renvois et des expulsions pénales;
+- f<sup>bis</sup>.[^7-14] les services compétents des domaines de direction Immigration et intégration et Asile du SEM: pour consulter les signalements aux fins de retour inscrits dans le SIS et pour y contrôler et y émettre de tels signalements;
+- f<sup>ter</sup>.[^7-15] les services compétents du domaine de direction Affaires internationales du SEM: pour soutenir les cantons dans leurs tâches d’exécution des renvois et des expulsions pénales;
 - g. les représentations suisses à l’étranger: pour vérifier les demandes de visa;
-- h.[^7-15]
-
-  les services du Service de renseignement de la Confédération chargés de l’exécution de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^7-16]:
-
-  - 1\. pour la recherche du lieu de séjour de personnes et la recherche de véhicules ainsi qu’à des fins de surveillance discrète ou de contrôle ciblé de personnes et de véhicules, conformément aux tâches incombant à ces services pour garantir la sécurité intérieure,
-  - 2\. pour la prévention ou la détection des infractions terroristes ou d’autres infractions pénales graves;
-
-- h<sup>bis</sup>.[^7-17]
+- h.[^7-16] les services du Service de renseignement de la Confédération chargés de l’exécution de la loi fédérale du 25 septembre 2015 sur le renseignement[^7-17]: pour prévenir et détecter les infractions terroristes ou d’autres infractions pénales graves;
+- h<sup>bis</sup>.[^7-18]
 
   les services du SECO chargés de délivrer les autorisations d’exportation d’armes à feu:
 
   - 1\. pour vérifier si la personne qui demande une telle autorisation est recherchée, que ce soit à des fins d’extradition ou en vue d’une surveillance discrète, de contrôles d’investigation ou de contrôle ciblé,
   - 2\. pour vérifier si les armes à feu à exporter sont recherchées en vue de leur saisie ou de la sauvegarde de preuves dans une procédure pénale;
 
-- h<sup>ter</sup>.[^7-18] les services de l’Office fédéral de l’aviation civile chargés de délivrer des autorisations de certification des aéronefs: pour vérifier si les aéronefs ou moteurs d’aéronef qui leur sont présentés pour certification ont été volés ou sont recherchés comme moyens de preuve dans une procédure pénale;
-- i.[^7-19]
+- h<sup>ter</sup>.[^7-19] les services de l’Office fédéral de l’aviation civile chargés de délivrer des autorisations de certification des aéronefs: pour vérifier si les aéronefs ou moteurs d’aéronef qui leur sont présentés pour certification ont été volés ou sont recherchés comme moyens de preuve dans une procédure pénale;
+- i.[^7-20]
 
   les services cantonaux et communaux des migrations:
 
   - 1\. pour examiner les demandes de visas, pour octroyer des titres de séjour et pour vérifier dans le SIS les signalements aux fins de non-admission et d’interdiction de séjour prononcées à l’encontre de ressortissants d’États tiers,
   - 2\. pour consulter les signalements aux fins de retour inscrits dans le SIS et pour y contrôler et y émettre de tels signalements;
 
-- i<sup>bis</sup>.[^7-20] les autorités cantonales et communales: pour examiner les demandes de naturalisation;
-- j.[^7-21] les offices de la circulation routière: pour vérifier si les véhicules qui leur sont présentés, les documents qui s’y rapportent ou leurs plaques d’immatriculation ont été volés ou sont recherchés en vue de la sauvegarde de preuves dans une procédure pénale;
-- k.[^7-22] les offices de la navigation: pour vérifier si les embarcations qui leur sont présentées ou leur moteur ont été volés ou perdus ou sont recherchés en vue de la sauvegarde de preuves dans une procédure pénale;
-- l.[^7-23]
+- i<sup>bis</sup>.[^7-21] les autorités cantonales et communales: pour examiner les demandes de naturalisation;
+- j.[^7-22] les offices de la circulation routière: pour vérifier si les véhicules qui leur sont présentés, les documents qui s’y rapportent ou leurs plaques d’immatriculation ont été volés ou sont recherchés en vue de la sauvegarde de preuves dans une procédure pénale;
+- k.[^7-23] les offices de la navigation: pour vérifier si les embarcations qui leur sont présentées ou leur moteur ont été volés ou perdus ou sont recherchés en vue de la sauvegarde de preuves dans une procédure pénale;
+- l.[^7-24]
 
   les offices cantonaux des armes:
 
@@ -291,28 +287,29 @@ Afin d’accomplir les tâches définies à l’art. 16, al. 2, LSIP, les autori
 <sup>2</sup> Les droits des autorités en matière d’accès et de traitement aux catégories de signalement dans le SIS sont fixés à l’annexe 3, chap. 1.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^7-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-4]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-5]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-6]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-7]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^7-8]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
+[^7-7]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^7-8]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
 [^7-9]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-10]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-10]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^7-11]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
 [^7-12]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-13]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-13]: Introduit par l’annexe 3 ch. 8 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 [^7-14]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-15]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-16]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^7-17]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-15]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-16]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^7-17]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^7-18]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-19]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-20]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-21]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-22]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-19]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-20]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-21]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-22]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-23]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-24]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
 ## Chapitre 3*a* Autorité compétente pour conclure des traités internationaux
 
@@ -331,7 +328,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 - a. les tâches du Bureau SIRENE Suisse et l’échange d’informations supplémentaires sous la forme d’un manuel intitulé «manuel SIRENE» (art. 8, par. 4, des règlements (UE) 2018/1861 et (UE) 2018/1862;
 - b. les normes communes, les protocoles et les procédures techniques que doit respecter le N-SIS (art. 9, par. 5, des règlements (UE) 2018/1861 et (UE) 2018/1862);
 - c. le contenu du registre des recherches automatisées par scan de plaques minéralogiques des véhicules à moteur figurant dans le système de recherche automatisée de véhicules et surveillance du trafic (RVS) (art. 12, par. 8, du règlement (UE) 2018/1862);
-- d. les règles techniques nécessaires pour l’introduction, la mise à jour et la suppression des données et informations supplémentaires et pour les recherches dans ces données et informations supplémentaires (art. 20, par. 3, du règlement (UE) 2018/1861 et art. 20, par. 4, 26, par. 6, 32, par. 9, 34, par. 3, 36, par. 6, et 62, par. 4, du règlement (UE) 2018/1862);
+- d.[^7a-4] les règles techniques nécessaires pour l’introduction, la mise à jour et la suppression des données et informations supplémentaires et pour les recherches dans ces données et informations supplémentaires (art. 20, par. 3, du règlement (UE) 2018/1861 et art. 20, par. 4, 26, par. 6, 32, par. 9, 34, par. 3, 36, par. 6, 37<sup>bis</sup>, par. 15, et 62, par. 4, du règlement (UE) 2018/1862);
 - e. les règles relatives à la catégorisation des signalements de personnes et des types de dossiers et à l’introduction des données en cas de lien vers des signalements d’objets (art. 32, par. 9, du règlement (UE) 2018/1862);
 - f. les normes minimales en matière de qualité des données et les spécifications techniques des photographies, des images faciales, des données dactyloscopiques et des profils d’ADN (art. 32, par. 4, du règlement (UE) 2018/1861 et art. 42, par. 5, du règlement (UE) 2018/1862);
 - g. les règles techniques nécessaires pour l’introduction et le traitement ultérieur des données pour traiter les cas d’usurpation d’identité (art. 47, par. 4, du règlement (UE) 2018/1861 et art. 62, par. 4, du règlement (UE) 2018/1862);
@@ -344,9 +341,10 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 - a. les autres circonstances dans lesquelles des photographies et des images faciales peuvent être utilisées pour identifier des personnes (art. 33, par. 4, du règlement (UE) 2018/1861);
 - b. de nouvelles sous-catégories d’objets (art. 38, par. 3, du règlement (UE) 2018/1862).
 
-[^7a-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^7a-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^7a-2]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 1
 [^7a-3]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 2
+[^7a-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 #### Art. 7b
 
@@ -365,7 +363,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 
 <sup>2</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne, pour autant que ces actes constituent des traités internationaux de portée mineure au sens de l’art. 7*a* LOGA et qu’ils soient édictés sur la base de l’art. 39. par. 5, des règlements (UE) 2019/817 et (UE) 2019/818, et qu’ils fixent le fonctionnement du répertoire central des rapports et statistiques (CRRS), notamment des garanties spécifiques pour le traitement des données à caractère personnel, ainsi que des règles de sécurité applicables au répertoire.[^7b-8]
 
-[^7b-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^7b-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^7b-2]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 3
 [^7b-3]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 4
 [^7b-4]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
@@ -384,7 +382,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 - b. les spécifications techniques pour l’entrée et le stockage des informations;
 - c. les procédures de contrôle et de vérification des informations contenues dans le système FADO.
 
-[^7c-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^7c-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^7c-2]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 5
 
 ## Chapitre 4 Bureau SIRENE
@@ -418,24 +416,25 @@ Le bureau SIRENE accomplit les tâches suivantes:
 - c.[^9-2] il émet tous les signalements de personnes, à l’exception des signalements du SEM et des cantons aux fins de retour ou de non-admission et d’interdiction de séjour concernant des ressortissants d’États tiers; cette exception ne s’applique cependant pas aux signalements liés à une expulsion pénale;
 - d.[^9-3] il vérifie les signalements sortants, y compris les données complémentaires, ainsi que les informations supplémentaires, en veillant à ce qu’ils soient admissibles sur le plan formel, exacts, complets et actuels, à l’exception des signalements du SEM et des cantons aux fins de retour ou de non-admission et d’interdiction de séjour concernant des ressortissants d’États tiers; cette exception ne s’applique cependant pas aux signalements liés à une expulsion pénale;
 - e. sur ordre de l’OFJ, il fait apposer un indicateur de validité sur les signalements entrants en vue d’une arrestation aux fins d’extradition;
-- f. il fait apposer un indicateur de validité sur les signalements entrants concernant des personnes disparues et les signalements entrants aux fins de surveillance discrète ou de contrôle ciblé;
+- f.[^9-4] il fait apposer un indicateur de validité sur les signalements entrants de personnes disparues, les signalements entrants aux fins de surveillance discrète ou de contrôle ciblé et les signalements pour information entrants concernant des ressortissants de pays tiers;
 - g. il appose un indicateur de validité sur les signalements sortants sur demande d’autres bureaux SIRENE;
 - h. sur demande de l’autorité signalante, il assure l’échange d’opinions selon l’art. 13, al. 4;
 - i. sur demande de l’autorité signalante, il assure l’échange d’opinions selon l’art. 40, al. 1;
-- j.[^9-4] il consulte les systèmes d’information s’il y a lieu et réceptionne, échange et conserve les informations supplémentaires et les documents sur lesquels se fonde le signalement;
+- j.[^9-5] il consulte les systèmes d’information s’il y a lieu et réceptionne, échange et conserve les informations supplémentaires et les documents sur lesquels se fonde le signalement;
 - k. il conseille et soutient les autorités fédérales et cantonales ainsi que ses partenaires internationaux sur les questions liées au SIS;
 - l. il met en relation des signalements selon l’art. 14;
 - m. il vérifie l’existence de signalements multiples;
 - n. il mène la procédure applicable aux cas d’usurpation d’identité et complète les signalements nationaux conformément à l’art. 42;
-- o.[^9-5] conformément aux art. 11 à 11*b,* il ajoute des données complémentaires à un signalement ou y inscrit des données différentes qui lui sont communiquées;
-- p.[^9-6] il veille à la qualité des données saisies et informe l’autorité responsable du signalement lorsqu’elle doit corriger ou supprimer un signalement.
+- o.[^9-6] conformément aux art. 11 à 11*b,* il ajoute des données complémentaires à un signalement ou y inscrit des données différentes qui lui sont communiquées;
+- p.[^9-7] il veille à la qualité des données saisies et informe l’autorité responsable du signalement lorsqu’elle doit corriger ou supprimer un signalement.
 
 [^9-1]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^9-3]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^9-4]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^9-5]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^9-5]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^9-6]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^9-7]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
 #### Art. 9a
 
@@ -448,13 +447,24 @@ Afin d’accomplir ses tâches, le bureau SIRENE est habilité à vérifier par 
 - c. le SYMIC;
 - d. le système de gestion des affaires et des dossiers du bureau SIRENE;
 - e. le VOSTRA;
-- f. le système informatisé de gestion et d’indexation de dossiers et de personnes de l’Office fédéral de la police (IPAS);
-- g.[^9a-2] le Système national d’enquête;
-- h. le système national d’information sur les visas (ORBIS);
-- i. la banque de données Automated Search Facility d’Interpol (ASF).
+- f.[^9a-2] le système informatisé de gestion et d’indexation de dossiers et de personnes de fedpol (IPAS) visé à l’art. 14 LSIP;
+- g.[^9a-3] le Système national d’enquête;
+- h.[^9a-4] le système national d’information sur les visas (ORBIS) visé à l’art. 109*c* LEI[^9a-5];
+- i. la banque de données Automated Search Facility d’Interpol (ASF);
+- j.[^9a-6] le système d’information relatif à l’admission à la circulation (SIAC-Véhicules et SIAC-Personnes) visé aux art. 89*a* à 89*h* de la loi fédérale du 19 décembre 1958 sur la circulation routière[^9a-7];
+- k.[^9a-8] la banque de données relative à l’acquisition d’armes par des ressortissants étrangers non titulaires d’un permis d’établissement (DEWA) ou la banque de données relative au refus de délivrer des autorisations, à la révocation d’autorisations et à la mise sous séquestre d’armes (DEBBWA) visées à l’art. 32*a*, al. 1, let. a et c, de la loi du 20 juin 1997 sur les armes (LArm)[^9a-9], et
+- l.[^9a-10] le système d’information commun harmonisé visé à l’art. 32*a*, al. 3, LArm.
 
 [^9a-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^9a-2]: Nouvelle teneur selon l’annexe 3 ch. 4 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^9a-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^9a-3]: Nouvelle teneur selon l’annexe 3 ch. 4 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^9a-4]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^9a-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^9a-6]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^9a-7]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^9a-8]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^9a-9]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^9a-10]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 ## Chapitre 5 N-SIS
 
@@ -506,15 +516,17 @@ Concernant les signalements de personnes, les données suivantes doivent être s
 - b. date de naissance;
 - c. motif du signalement;
 - d. mesure à prendre;
-- e. données dactyloscopiques et images faciales, si ces éléments sont disponibles.
+- e. données dactyloscopiques et images faciales, si ces éléments sont disponibles;
+- f.[^11-2] données sur le document d’identité, si ces données sont disponibles.
 
 <sup>3</sup> Les données traitées dans le système peuvent être indexées selon les signalements, les personnes, les objets, les photographies, les images faciales, les données ou traces dactyloscopiques ou les profils d’ADN.
 
-<sup>4</sup> Si des données complémentaires ou des données différentes sont connues concernant un signalement préexistant, le signalement est complété ou modifié conformément à l’art. 59, par. 2, du règlement (UE) 2018/1862[^11-2] et à l’art. 44, par. 2, du règlement (UE) 2018/1861[^11-3].
+<sup>4</sup> Si des données complémentaires ou des données différentes sont connues concernant un signalement préexistant, le signalement est complété ou modifié conformément à l’art. 59, par. 2, du règlement (UE) 2018/1862[^11-3] et à l’art. 44, par. 2, du règlement (UE) 2018/1861[^11-4].
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^11-2]: Voir la note de bas de page relative à l’art. 3, al. 2.
+[^11-2]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 [^11-3]: Voir la note de bas de page relative à l’art. 3, al. 2.
+[^11-4]: Voir la note de bas de page relative à l’art. 3, al. 2.
 
 #### Art. 11a
 
@@ -544,9 +556,12 @@ La saisie des données supplémentaires suivantes est obligatoire:
   en cas de signalement d’un ressortissant d’un État tiers aux fins de non-admission et d’interdiction de séjour:
 
   - 1\. un renvoi à la décision qui est à l’origine du signalement,
-  - 2\. l’indication de la catégorie du motif de signalement.
+  - 2\. l’indication de la catégorie du motif de signalement;
+
+- e.[^11a-2] en cas de signalement pour information concernant des ressortissants de pays tiers: le type d’infraction au sens de l’annexe 4 LSIP.
 
 [^11a-1]: Introduit par le ch. I de l’O du 11 juin 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^11a-2]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 #### Art. 11b
 
@@ -577,19 +592,20 @@ Les signalements dans le SIS et l’échange d’informations s’y référant p
 
 <sup>1</sup>
 
-Le bureau SIRENE demande à son homologue de l’État Schengen qui a émis le signalement d’apposer un indicateur de validité sur le signalement entrant d’une personne disparue ou d’une personne à protéger ou d’une personne ou d’un objet aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé, lorsque le signalement n’est pas compatible avec:[^13-1]
+Lorsque le signalement n’est pas compatible avec le droit suisse, les obligations découlant de traités internationaux ou des intérêts nationaux prépondérants, le bureau SIRENE demande à son homologue de l’État Schengen qui a émis le signalement d’apposer un indicateur de validité sur:
 
-- a. le droit suisse;
-- b. les obligations découlant de traités internationaux;
-- c. des intérêts nationaux prépondérants.
+- a. le signalement entrant d’une personne disparue ou d’une personne à protéger;
+- b. le signalement entrant d’une personne ou d’un objet aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé, ou
+- c. le signalement pour information entrant concernant des ressortissants de pays tiers.[^13-1]
 
 <sup>2</sup> Il demande que le signalement d’une personne en vue d’une arrestation aux fins d’extradition soit accompagné d’un indicateur de validité lorsqu’un motif de refus de l’extradition peut être invoqué en vertu des traités internationaux applicables et que le droit suisse ne permet pas l’extradition.
 
-<sup>3</sup> L’indicateur signifie que la mesure demandée dans le signalement ne sera pas exécutée en Suisse.
+<sup>3</sup> Un indicateur signifie que la mesure demandée dans le signalement ne sera pas exécutée en Suisse.[^13-2]
 
 <sup>4</sup> Si, dans des cas particulièrement urgents et graves, l’État Schengen qui a émis le signalement réclame l’exécution de la mesure, le bureau SIRENE transmet sans délai la demande à l’autorité responsable du signalement, laquelle doit réexaminer sa demande initiale visant à apposer un indicateur sur le signalement.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 #### Art. 14
 
@@ -617,11 +633,17 @@ La procédure visée à l’al. 1 peut être mise en œuvre pour les signalement
 
 - a. les signalements en vue d’une arrestation aux fins d’extradition;
 - b. les signalements en vue d’une participation à une procédure pénale;
-- c. les signalements de personnes disparues ou de personnes à protéger.
+- c. les signalements de personnes disparues ou de personnes à protéger;
+- d.[^14a-2] les signalements pour information concernant des ressortissants de pays tiers.
 
-<sup>3</sup> Le signalement d’une personne au titre de l’al. 2, let. a, peut également être complété par une arme à feu.
+<sup>3</sup> Le signalement d’une personne au titre de l’al. 2, let. a ou d, peut également être complété par une arme à feu.[^14a-3]
+
+<sup>4</sup> Le signalement pour information concernant des ressortissants de pays tiers peut également être complété par un moyen de paiement scriptural.[^14a-4]
 
 [^14a-1]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^14a-2]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^14a-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^14a-4]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 #### Art. 14b
 
@@ -670,12 +692,15 @@ Le bureau SIRENE agit sans délai dans les cas suivants:
 
 <sup>3</sup> Le bureau SIRENE informe Europol des réponses positives liées à des signalements émis en relation avec des infractions terroristes par la transmission d’informations supplémentaires. Aucune information n’est communiquée si une enquête en cours ou la sécurité d’une personne risquent d’être compromises ou si cette communication nuirait à des intérêts essentiels ayant trait à la sécurité de l’État Schengen qui a émis le signalement.[^15-6]
 
+<sup>4</sup> L’al. 3 ne s’applique pas aux signalements pour information visés aux art. 34*c* à 34*e*.[^15-7]
+
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^15-3]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^15-4]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^15-5]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^15-6]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^15-7]: Introduit par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 #### Art. 15a
 
@@ -716,18 +741,10 @@ Le bureau SIRENE agit sans délai dans les cas suivants:
 
 <sup>2</sup> Si les conditions pour un signalement sont remplies, le Domaine Recherches d’objets et infractions non élucidées RIPOL émet les données et le signalement demeure. Si le Domaine Recherches d’objets et infractions non élucidées RIPOL renvoie les données à l’autorité signalante, le signalement est immédiatement effacé.
 
-<sup>3</sup>
+<sup>3</sup> Le RIPOL émet automatiquement dans le SIS les signalements d’objets qui ont été saisis dans le RIPOL par l’intermédiaire du SIAC ou du système d’information relatif aux documents d’identité visé à l’art. 11 de la loi du 22 juin 2001 sur les documents d’identité[^17-1].[^17-2]
 
-Le RIPOL émet automatiquement dans le SIS les signalements d’objets qui ont été saisis dans le RIPOL par le biais de l’un des systèmes d’information suivants:
-
-- a.[^17-1] le système d’information relatif à l’admission à la circulation (SIAC) au sens des art. 89*a* à 89*h* de la loi fédérale du 19 décembre 1958 sur la circulation routière[^17-2];
-- b. le système d’information relatif aux documents d’identité (ISA) au sens de l’art. 11 de la loi du 22 juin 2001 sur les documents d’identité[^17-3];
-- c.[^17-4] …
-
-[^17-1]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^17-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^17-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^17-4]: Abrogée par l’annexe ch. 3 de l’O du 15 sept. 2023, avec effet au 15 oct. 2023 ([RO 2023 552](https://fedlex.data.admin.ch/eli/oc/2023/552)).
+[^17-1]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 #### Art. 18
 
@@ -750,7 +767,7 @@ En cas de réponse positive à une interrogation visant une personne ou un objet
 <sup>5</sup> …[^18-4]
 
 [^18-1]: Nouvelle expression selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)). Il a été tenu compte de cette mod. dans tout le texte.
-[^18-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^18-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^18-3]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^18-4]: Introduit par le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Abrogé par le ch. I de l’O du 19 oct. 2022, avec effet au 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
@@ -801,7 +818,7 @@ L’autorité signalante consulte via le bureau SIRENE l’État Schengen concer
 
 <sup>6</sup> Le SEM et fedpol peuvent transmettre de manière automatisée au N-SIS les données signalétiques biométriques contenues dans AFIS.
 
-[^19b-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^19b-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 19c
 
@@ -815,9 +832,9 @@ L’autorité signalante consulte via le bureau SIRENE l’État Schengen concer
 
 <sup>4</sup> Lorsque l’autorité suisse souhaite octroyer un titre de séjour ou un visa de long séjour à un ressortissant d’un État tiers qui fait l’objet d’un signalement aux fins de retour, le bureau SIRENE consulte l’État qui a émis le signalement.
 
-[^19c-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^19c-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^19c-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^19c-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^19c-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^19c-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 19d
 
@@ -873,7 +890,7 @@ L’autorité signalante consulte via le bureau SIRENE l’État Schengen concer
 <sup>6</sup> Le SEM et fedpol peuvent transmettre de manière automatisée au N-SIS les données signalétiques biométriques contenues dans AFIS.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^21-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^21-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 22
 
@@ -887,10 +904,10 @@ L’autorité signalante consulte via le bureau SIRENE l’État Schengen concer
 
 <sup>4</sup> Lorsque l’autorité souhaite octroyer un titre de séjour ou un visa de long séjour à un ressortissant d’un État tiers qui fait l’objet d’un signalement, le bureau SIRENE consulte l’État qui a émis celui-ci.[^22-6]
 
-[^22-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^22-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^22-2]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^22-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^22-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^22-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^22-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^22-5]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^22-6]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
@@ -1149,7 +1166,7 @@ Les autorités compétentes peuvent, par l’entremise du bureau SIRENE, transme
 
 <sup>6</sup> Si l’autorité n’est pas habilitée à procéder à des contrôles d’investigation, les informations doivent être transmises dans le cadre d’une surveillance discrète, à condition que l’autorité soit habilitée à procéder à une telle surveillance.
 
-[^34-1]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^34-1]: [RS 235.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6031)
 [^34-2]: Voir la note de bas de page relative à l’art. 3, al. 2.
 
 ### Section 5*a* Signalements de suspects dont l’identité est inconnue
@@ -1187,6 +1204,66 @@ Lorsque l’État Schengen qui a émis le signalement confirme l’identité de 
 - b. l’information selon laquelle les données relatives à l’identité ne sont pas connues.
 
 <sup>3</sup> Lorsqu’une personne signalée a été identifiée, l’État Schengen qui a émis le signalement concerné efface ce dernier.
+
+### Section 5*b* Signalements pour information concernant des ressortissants de pays tiers
+
+[^chap6-sec5b-1]
+
+[^chap6-sec5b-1]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+
+#### Art. 34c
+
+**Conditions**
+
+<sup>1</sup>
+
+Un signalement pour information concernant un ressortissant de pays tiers au sens de l’art. 37<sup>bis</sup> du règlement (UE) 2018/1862[^34c-1] peut être émis sur proposition d’Europol pour autant:
+
+- a. que la vérification des informations fournies par Europol confirme que la personne concernée prépare ou commet une infraction au sens de l’annexe 4 LSIP, ou
+- b. que l’évaluation générale d’une personne, notamment les infractions qu’elle a déjà commises, laisse supposer qu’elle pourrait commettre une telle infraction.
+
+<sup>2</sup> Aucun signalement pour information n’est émis s’il ressort de la consultation du SIS que la personne concernée y est déjà signalée.
+
+[^34c-1]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 2.
+
+#### Art. 34d
+
+**Procédure**
+
+<sup>1</sup> Si Europol propose à la Suisse d’émettre dans le SIS un signalement pour information concernant un ressortissant de pays tiers, fedpol vérifie que les conditions prévues sont remplies. Si une autre autorité fédérale ou un canton sont concernés spécifiquement par un signalement pour information, il consulte ces derniers.
+
+<sup>2</sup> Fedpol décide librement d’introduire ou non le signalement.
+
+<sup>3</sup> Le bureau SIRENE informe Europol et les autres États Schengen conformément à l’art. 37<sup>bis</sup>, par. 7, du règlement (UE) 2018/1862[^34d-1].
+
+<sup>4</sup> Fedpol informe Europol de sa décision concernant le signalement pour information dans un délai de douze mois suivant la proposition d’Europol, conformément à l’art. 37<sup>bis</sup>, par. 9, du règlement (UE) 2018/1862.
+
+[^34d-1]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 2.
+
+#### Art. 34e
+
+**Mesures à prendre en cas de réponse positive à un signalement pour information**
+
+<sup>1</sup>
+
+En cas de réponse positive, l’autorité compétente recueille et transmet au bureau SIRENE les informations suivantes sur la personne signalée, conformément aux prescriptions de l’art. 37<sup>ter</sup>, par. 4, du règlement (UE) 2018/1862[^34e-1]:
+
+- a. le lieu, l’heure et la raison du contrôle;
+- b. l’itinéraire suivi et la destination visée;
+- c. les personnes qui accompagnent la personne faisant l’objet du signalement, dont il est raisonnablement permis de supposer qu’elles sont liées à cette dernière;
+- d. les objets transportés et les documents de voyage;
+- e. les circonstances dans lesquelles la personne a été localisée.
+
+<sup>2</sup>
+
+Le bureau SIRENE transmet les informations visées à l’al. 1:
+
+- a. à l’État Schengen qui a émis le signalement, en cas de réponse positive à un signalement entrant;
+- b. à Europol, en cas de réponse positive à un signalement sortant.
+
+<sup>3</sup> Il transmet aussi à Europol les communications reçues d’un État Schengen ayant obtenu une réponse positive à un signalement sortant.
+
+[^34e-1]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 2.
 
 ### Section 6 Signalements concernant des objets en vue de leur saisie ou de la sauvegarde de preuves dans le cadre de procédures pénales
 
@@ -1247,7 +1324,7 @@ Le traitement n’est autorisé que dans un des cas suivants:
 
 <sup>3</sup> On entend par infractions graves au sens de l’al. 2, let. c, les infractions visées à l’art. 286, al. 2, du code de procédure pénale[^38-1].
 
-[^38-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^38-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 39
 
@@ -1331,7 +1408,7 @@ Seules peuvent être saisies et traitées dans le cas des personnes dont l’ide
 
 **Durée, effacement et prolongation des signalements de personnes**[^43-1]
 
-<sup>1</sup> Conformément aux art. 53, par. 1 à 7, et 55, par. 1 à 4 et 6, du règlement (UE) 2018/1862[^43-2], aux art. 39 et 40 du règlement (UE) 2018/1861[^43-3] et à l’art. 14 du règlement (UE) 2018/1860[^43-4], les signalements de personnes doivent être effacés lorsque leur but est atteint.
+<sup>1</sup> Conformément aux art. 53, par. 1 à 7, et 55, par. 1 à 4<sup>bis</sup> et 6, du règlement (UE) 2018/1862[^43-2], aux art. 39 et 40 du règlement (UE) 2018/1861[^43-3] et à l’art. 14 du règlement (UE) 2018/1860[^43-4], les signalements de personnes doivent être effacés lorsque leur but est atteint.[^43-5]
 
 <sup>2</sup> Les signalements aux fins de retour sont effacés dès que le retour a eu lieu au départ de la Suisse ou qu’une confirmation de retour est arrivée. Le SEM peut assumer les tâches des cantons si l’effacement s’en trouve simplifié.
 
@@ -1345,7 +1422,8 @@ Les signalements de personnes sont automatiquement effacés dans les délais sui
 - d. pour les personnes à protéger: après un an;
 - e. en vue d’une participation à une procédure pénale: après trois ans;
 - f. aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé: après un an;
-- g. pour les personnes suspectes dont l’identité est inconnue: après trois ans.
+- g. pour les personnes suspectes dont l’identité est inconnue: après trois ans;
+- h.[^43-6] pour information concernant des ressortissants de pays tiers: après un an.
 
 <sup>4</sup> Le bureau SIRENE est avisé automatiquement de l’effacement programmé dans le système avec un préavis de quatre mois.
 
@@ -1362,9 +1440,11 @@ Les signalements de personnes sont automatiquement effacés dans les délais sui
 <sup>10</sup> La procédure applicable lorsque le bureau SIRENE constate que le but d’un signalement est atteint est régie par les art. 53, par. 9, du règlement (UE) 2018/1862 et 39, par. 7, du règlement (UE) 2018/1861.
 
 [^43-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^43-2]: Voir la note de bas de page relative à l’art. 3, al. 2.
-[^43-3]: Voir la note de bas de page relative à l’art. 3, al. 2.
+[^43-2]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 2.
+[^43-3]: Cf. note de bas de page relative à l’art. 1, al. 1, let. b<sup>bis</sup>, ch. 1.
 [^43-4]: Règlement (UE) 2018/1860 du Parlement européen et du Conseil du 28 novembre 2018 relatif à l’utilisation du système d’information Schengen aux fins du retour des ressortissants de pays tiers en séjour irrégulier, version du JO L 312 du 7.12.2018, p. 1.
+[^43-5]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^43-6]: Introduite par le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
 #### Art. 44
 
@@ -1381,17 +1461,18 @@ Les signalements d’objets sont automatiquement effacés dans les délais suiva
 - c. pour les conteneurs, en vue de leur saisie ou de la sauvegarde de preuves dans des procédures pénales: après cinq ans;
 - d. pour les objets de la technologie de l’information: après un an.
 
-<sup>3</sup> Les extensions de signalements de personnes et les associations à des signalements aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé sont effacés dès qu’ils ne sont plus nécessaires. L’effacement a lieu automatiquement au plus tard lors de la suppression du signalement de personnes dans les délais prévus à l’art. 43, al. 3, let. c à g.
+<sup>3</sup> Les extensions de signalements de personnes et les associations à des signalements aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé sont effacés dès qu’ils ne sont plus nécessaires. L’effacement a lieu automatiquement au plus tard lors de la suppression du signalement de personne dans les délais prévus à l’art. 43, al. 3, let. c à h.[^44-2]
 
-<sup>4</sup> Un signalement peut être prolongé en conformité avec l’art. 54, par. 4, du règlement (UE) 2018/1862[^44-2] lorsque son but l’exige. Dans ce cas, une évaluation individuelle doit être effectuée; cette dernière doit être journalisée.
+<sup>4</sup> Un signalement peut être prolongé en conformité avec l’art. 54, par. 4, du règlement (UE) 2018/1862[^44-3] lorsque son but l’exige. Dans ce cas, une évaluation individuelle doit être effectuée; cette dernière doit être journalisée.
 
 <sup>5</sup> En cas de prolongation, les al. 1 à 4 sont applicables.
 
-<sup>6</sup> Pour le reste, l’effacement des signalements d’objets est régie par l’art. 55, par. 4, 5 et 7, du règlement (UE) 2018/1862 et l’art. 40 du règlement (UE) 2018/1861[^44-3].
+<sup>6</sup> Pour le reste, l’effacement des signalements d’objets est régie par l’art. 55, par. 4, 5 et 7, du règlement (UE) 2018/1862 et l’art. 40 du règlement (UE) 2018/1861[^44-4].
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^44-2]: Voir la note de bas de page relative à l’art. 3, al. 2.
+[^44-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 [^44-3]: Voir la note de bas de page relative à l’art. 3, al. 2.
+[^44-4]: Voir la note de bas de page relative à l’art. 3, al. 2.
 
 #### Art. 45
 
@@ -1503,8 +1584,8 @@ Il convient de tenir des statistiques distinctes:
 <sup>6</sup> L’art. 8*a* LSIP sur la restriction du droit d’accès aux signalements en vue d’une arrestation aux fins d’extradition est réservé.[^50-5]
 
 [^50-1]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^50-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^50-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^50-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^50-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^50-4]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^50-5]: Introduit par l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1523,7 +1604,7 @@ La communication des informations selon l’al. 1 n’est pas nécessaire dans l
 - c.[^51-4] une restriction du droit à l’information conformément à l’art. 26 LPD est prévue.
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^51-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^51-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^51-3]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^51-4]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
@@ -1544,7 +1625,7 @@ Fedpol fait annuellement rapport au Comité européen de la protection des donn�
 
 La responsabilité en cas de dommages liés à l’exploitation du SIS se fonde sur les art. 19*a* à 19*c* de la loi du 14 mars 1958 sur la responsabilité[^52-1].
 
-[^52-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^52-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### Section 3 Sécurité des données, conseillers à la protection des données et surveillance du traitement des données
 
@@ -1563,9 +1644,9 @@ La sécurité des données se fonde sur:
 <sup>2</sup> Fedpol fixe les mesures organisationnelles et techniques prévues pour prévenir un traitement indu des données dans le règlement de traitement visé à l’art. 3, al. 2, et règle la journalisation automatique du traitement et de la consultation des données.
 
 [^53-1]: Nouvelle teneur selon l’annexe 2 ch. II 46 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^53-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^53-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^53-3]: Nouvelle teneur selon l’annexe 2 ch. II 22 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^53-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^53-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^53-5]: Abrogée par l’annexe ch. 22 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 53a
@@ -1636,118 +1717,17 @@ Annexe 1[^t-1]
 
 [^t-1]: Abrogée par le ch. II al. 1 de l’O du 19 oct. 2022, avec effet au 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
-Annexe 1a[^t-2]
+Annexe 1a et 1b[^t-2]
 
-(art. 2, let. m)
+[^t-2]: Introduites par le ch. II de l’O du 11 juin 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Abrogées par le ch. II al. 1 de l’O du 26 août 2026, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
 
-## Infractions selon le droit suisse qui correspondent ou sont équivalentes à celles prévues par la directive (UE) 2017/541 (infractions terroristes)
-
-[^annex1a-lvlu1-1]
-
-[^t-2]: Introduite par le ch. II de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Mise à jour par le ch. II al. 2 de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
-[^annex1a-lvlu1-1]: Directive (UE) 2017/541 du Parlement européen et du Conseil du 15 mars 2017 relative à la lutte contre le terrorisme et remplaçant la décision-cadre 2002/475/JAI du Conseil et modifiant la décision 2005/671/JAI du Conseil, JO L 88 du 31.3.2017, p. 6.
-
-- 1\. Menaces alarmant la population (art. 258 du code pénal [CP][^annex1a-lvlu1-2])
-- 2\. Provocation publique au crime ou à la violence (art. 259 CP)
-- 3\. Émeute (art. 260 CP)
-- 4\. Actes préparatoires délictueux (art. 260<sup>bis</sup> CP)
-- 5\. Organisations criminelles et terroristes (art. 260<sup>ter</sup> CP)
-- 6\. Mise en danger de la sécurité publique au moyen d’armes (art. 260<sup>quater</sup> CP)
-- 7\. Financement du terrorisme (art. 260<sup>quinquies</sup> CP)
-- 8\. Recrutement, formation et voyage en vue d’un acte terroriste (art. 260<sup>sexies</sup> CP)
-- 9\. Groupements illicites (art. 275<sup>ter</sup> CP)
-- 10\. Interdiction d’organisations (art. 74 LRens[^annex1a-lvlu1-3])
-- 11\. Dispositions pénales selon l’art. 2 de la loi fédérale du 12 décembre 2014 interdisant les groupes «Al-Qaïda» et «État islamique» et les organisations apparentées[^annex1a-lvlu1-4]
-- 12\. Crimes violents visant à intimider la population ou à contraindre un État ou une organisation internationale à faire ou à ne pas faire quelque chose
-
-[^annex1a-lvlu1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^annex1a-lvlu1-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^annex1a-lvlu1-4]: [RS 122](https://fedlex.data.admin.ch/eli/cc/2014/764)
-
-Annexe 1b[^t-3]
-
-(art. 2, let. n)
-
-## Infractions selon le droit suisse qui correspondent ou sont équivalentes à celles prévues par la décision-cadre 2002/584/JAI
-
-[^annex1b-lvlu1-1]
-
-[^t-3]: Introduite par le ch. II de l’O du 11 juin 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)). Nouvelle teneur selon le ch. II al. 3 de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
-[^annex1b-lvlu1-1]: Décision-cadre du Conseil du 13 juin 2002 relative au mandat d’arrêt européen et aux procédures de remise entre États membres, version du JO L 190 du 18.7.2002, p. 1; modifié en dernier lieu par la décision-cadre 2009/299/JAI du Conseil du 26 février 2009, JO L 81 du 27.2.2009, p. 24.
-
-<table>
-<tr><th>Décision-cadre 2002/584/JAI</th><th>Infractions selon le droit suisse</th></tr>
-<tr><td>1. Homicide volontaire, coups et blessures graves</td><td>meurtre, assassinat, meurtre passionnel, meurtre sur la demande de la victime, infanticide, lésions corporelles graves, mutilation d’organes génitaux féminins (art. 111 à 114, 116, 122 et 124 CP[^annex1b-lvlu1-2])</td></tr>
-<tr><td>2. Vols organisés ou avec arme</td><td>Vol et brigandage (art. 139, ch. 3, et 140 CP)</td></tr>
-<tr><td>3. Cybercriminalité</td><td>Soustraction de données, accès indu à un système informatique, détérioration de données, utilisation frauduleuse d’un ordinateur, obtention frauduleuse d’une prestation (art. 143, 143<sup>bis</sup>, 144<sup>bis</sup>, 147, al. 1 et 2, et 150 CP)</td></tr>
-<tr><td>4. Sabotage</td><td>Dommage à la propriété, incendie intentionnel, explosion, emploi, avec dessein délictueux, d’explosifs ou de gaz toxiques, fabriquer, dissimuler et transporter des explosifs ou des gaz toxiques, inondation, écroulement, dommage aux installations électriques, travaux hydrauliques et ouvrages de protection (art. 144, 221, 223, 224, 226, 227 et 228 CP)</td></tr>
-<tr><td>5. Escroquerie</td><td>Escroquerie (art. 146, al. 1 et 2, CP)</td></tr>
-<tr><td>6. Fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995[^annex1b-lvlu1-3] relative à la protection des intérêts financiers des Communautés européennes</td><td>Utilisation frauduleuse d’un ordinateur, abus de cartes-chèques et de cartes de crédit, filouterie d’auberge, obtention frauduleuse d’une prestation, atteinte astucieuse aux intérêts pécuniaires d’autrui, faux renseignements sur des entreprises commerciales, fausses communications aux autorités chargées du registre du commerce, falsification de marchandises, banqueroute frauduleuse et fraude dans la saisie, obtention frauduleuse d’un concordat judiciaire, (art. 147 à 150, 151 à 155, 163 et 170 CP) Escroquerie en matière de prestations et de contributions, faux dans les titres, obtention frauduleuse d’une constatation fausse prévue par la loi fédérale sur le droit pénal administratif (art. 14, al. 1 et 4, 15, 16, al. 1 et 3, DPA[^annex1b-lvlu1-4]) Usage de faux, détournement de l’impôt à la source (art. 186, al. 1, et 187, al. 1, LIFD[^annex1b-lvlu1-5]) Fraude fiscale (art. 59, al. 1, LHID[^annex1b-lvlu1-6]) Crimes et délits (art. 148, al. 1, LPCC[^annex1b-lvlu1-7]) Faux, constatation fausse, obtention frauduleuse d’une constatation fausse, utilisation d’attestations fausses ou inexactes, titres étrangers, établissement non autorisé de déclarations de conformité, apposition et utilisation non autorisées de signes de conformité (art. 23 à 28 LETC[^annex1b-lvlu1-8])</td></tr>
-<tr><td>7. Contrefaçon et piratage de produits</td><td>Falsification de marchandises (art. 155 CP) Violation du droit à la marque, usage frauduleux, usage d’une marque de garantie ou d’une marque collective contraire au règlement, usage d’indications de provenance inexactes (art. 61, al. 3, 62, al. 2, 63, al. 4 et 64, al. 2, LPM[^annex1b-lvlu1-9]) Violation du droit sur un design (art. 41, al. 2, LDes[^annex1b-lvlu1-10]) Violation du droit d’auteur, violation de droits voisins (art. 67, al. 2, et 69, al. 2, LDA[^annex1b-lvlu1-11]) Violation du brevet (art. 81, al. 3, LBI[^annex1b-lvlu1-12])</td></tr>
-<tr><td>8. Racket et extorsion de fonds</td><td>Extorsion et chantage (art. 156 CP)</td></tr>
-<tr><td>9. Détournement d’avion/navire</td><td>Extorsion et chantage, contrainte, séquestration et enlèvement, prise d’otage (art. 156, 181 et 183 à 185 CP)</td></tr>
-<tr><td>10. Trafic de véhicules volés</td><td>Recel (art. 160 CP)</td></tr>
-<tr><td>11. Traite des êtres humains</td><td>Mariage forcé, partenariat forcé, traite d’êtres humains (art. 181*a* et 182, al. 1, 2 et 4, CP)</td></tr>
-<tr><td>12. Enlèvement, séquestration et prise d’otage</td><td>Séquestration et enlèvement, circonstances aggravantes, prise d’otage (art. 183 à 185 CP) Actes exécutés sans droit pour un État étranger (art. 271, ch. 2, CP)</td></tr>
-<tr><td>13. Exploitation sexuelle des enfants et pédopornographie</td><td>Mineurs: actes d’ordre sexuel avec des enfants, pornographie (articles 187, 195, let. a, 196 et 197, al 1, 3, 4 et 5, StGB)</td></tr>
-<tr><td>14. Viol</td><td>Viol (art. 189 à 191 CP)</td></tr>
-<tr><td>15. Incendie volontaire</td><td>Incendie intentionnel (art. 221 CP)</td></tr>
-<tr><td>16. Trafic illicite de matières nucléaires et radioactives</td><td>Danger imputable à l’énergie nucléaire, à la radioactivité et aux rayonnements ionisants, actes préparatoires punissables (art. 226<sup>bis</sup> et 226<sup>ter</sup> CP) Infractions aux mesures de sécurité et de sûreté de la loi sur l’énergie nucléaire (art. 88 à 91 LENu[^annex1b-lvlu1-13])</td></tr>
-<tr><td>17. Faux monnayage, y compris la contrefaçon de l’euro</td><td>Fabrication de fausse monnaie, falsification de la monnaie (art. 240 et 241 CP)</td></tr>
-<tr><td>18. Falsification de moyens de paiement</td><td>Fabrication de fausse monnaie, falsification de la monnaie, mise en circulation de fausse monnaie, imitation de billets de banque, de pièces de monnaie ou de timbres officiels de valeur sans dessein de faux, importation, acquisition et prise en dépôt de fausse monnaie (art. 240 à 244 CP)</td></tr>
-<tr><td>19. Falsification de documents administratifs et trafic de faux</td><td>Falsification des timbres officiels de valeur, falsification de marques officielles, falsification des poids et des mesures, faux dans les titres, faux dans les certificats, obtention frauduleuse d’une constatation fausse, titres étrangers, faux dans les titres commis dans l’exercice de fonctions publiques (art. 245, 246, 248, 251 à 253, 255 et 317, ch. 1, CP)</td></tr>
-<tr><td>20. Participation à une organisation criminelle</td><td>Organisation criminelle, groupements illicites (art. 260<sup>ter</sup> et 275<sup>ter</sup> CP)</td></tr>
-<tr><td>21. Trafic illicite d’armes, de munitions et d’explosifs</td><td>Mise en danger de la sécurité publique au moyen d’armes (art. 260<sup>quater</sup> CP) Délits prévus par la loi sur les armes (art. 33, al. 1 et 3, LArm[^annex1b-lvlu1-14])</td></tr>
-<tr><td>22. Terrorisme</td><td>Menace alarmant la population, provocation publique au crime ou à la violence, émeute, actes préparatoire délictueux, organisations criminelles et terroristes, mise en danger de la sécurité publique au moyen d’armes, financement du terrorisme, recrutement, entraînement et voyage en vue d’un acte terroriste, groupements illicites (art. 258 à 260<sup>bis</sup>, 260<sup>ter</sup>, 260<sup>quater</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 275<sup>ter</sup> CP) Interdiction d’organisation (art. 74 LRens[^annex1b-lvlu1-15]) Dispositions pénales (art. 2 de la loi fédérale interdisant les groupes «Al-Qaïda» et «État islamique» et les organisations apparentées[^annex1b-lvlu1-16])</td></tr>
-<tr><td>23. Racisme et xénophobie</td><td>Discrimination et incitation à la haine (art. 261<sup>bis</sup> CP)</td></tr>
-<tr><td>24. Crimes relevant de la juridiction de la Cour pénale internationale</td><td>Génocide, crimes contre l’humanité, infractions graves aux Convention de Genève, autres crimes de guerre, attaque contre des civils ou des biens de caractère civil, traitement médical immotivé, atteinte au droit à l’autodétermination sexuelle ou à la dignité de la personne, recrutement ou utilisation d’enfants soldats, méthodes de guerre prohibées, utilisation d’armes prohibées, rupture d’un armistice ou de la paix, délit contre un parlementaire, retardement du rapatriement de prisonniers de guerre, autres infractions au droit international humanitaire (art. 264, 264*a*, 264*c* à 264*j* CP)</td></tr>
-<tr><td>25. Blanchiment du produit du crime</td><td>Blanchiment d’argent (art. 305<sup>bis</sup> CP)</td></tr>
-<tr><td>26. Corruption</td><td>Corruption d’agents publics suisses (corruption active, corruption passive, octroi d’un avantage, acceptation d’un avantage), corruption d’agents publics étrangers (art. 322<sup>ter</sup> à 322<sup>septies</sup> CP)</td></tr>
-<tr><td>27. Aide à l’entrée et au séjour irréguliers</td><td>Incitation à l’entrée, à la sortie ou au séjour illégaux (art. 116, al. 1, let. a, a<sup>bis</sup> et c, en relation avec l’al. 3 LEI[^annex1b-lvlu1-17])</td></tr>
-<tr><td>28. Trafic illicite de substances hormonales et autres facteurs de croissance</td><td>Disposition pénale de la loi sur l’encouragement du sport (art. 22 LESp[^annex1b-lvlu1-18]) Délits et crimes prévus par la loi sur les denrées alimentaires (art. 63 LDAI[^annex1b-lvlu1-19]) Délits et crimes prévus par la loi sur les produits thérapeutiques (art. 86, al. 1 à 3, LPTh[^annex1b-lvlu1-20])</td></tr>
-<tr><td>29. Trafic illicite de biens culturels, y compris antiquités et œuvres d’art</td><td>Dispositions pénales prévues par la loi sur le transfert des biens culturels (art. 24 à 29 LTBC[^annex1b-lvlu1-21])</td></tr>
-<tr><td>30. Trafic illicite d’organes et de tissus humains</td><td>Délits prévus par la loi relative à la recherche sur les cellules souches (art. 24, al. 1 à 3, LRCS[^annex1b-lvlu1-22]) Utilisation abusive du patrimoine germinal et défaut de consentement ou d’autorisation selon la loi fédérale sur la procréation médicalement assistée (art. 32 et 34 LPMA[^annex1b-lvlu1-23]) Délits prévus par la loi sur la transplantation (art. 69, al. 1 et 2, de la loi sur la transplantation[^annex1b-lvlu1-24])</td></tr>
-<tr><td>31. Trafic illicite de stupéfiants et de substances psychotropes</td><td>Dispositions pénales de la loi sur les stupéfiants (art. 19, al. 1 et 2, 19<sup>bis</sup>, 20 et 21 LStup[^annex1b-lvlu1-25])</td></tr>
-<tr><td>32. Crimes contre l’environnement, y compris le trafic illicite d’espèces animales menacées et le trafic illicite d’espèces et d’essences végétales menacées</td><td>Délits prévus par la loi sur la protection de l’environnement (art. 60, al. 1, LPE[^annex1b-lvlu1-26]) Délits prévus par la loi fédérale sur la protection des eaux (art. 70, al. 1, LEaux[^annex1b-lvlu1-27]) Dispositions pénales de la loi sur la radioprotection (art. 43 et 43*a*, al. 1, LRaP[^annex1b-lvlu1-28]) Dispositions pénales de la loi sur le génie génétique (art. 35, al. 1, LGG[^annex1b-lvlu1-29]) Dispositions pénales de la loi sur les espèces protégées (art. 26, al. 2, LCITES[^annex1b-lvlu1-30])</td></tr>
-</table>
-
-[^annex1b-lvlu1-2]: Code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799))
-[^annex1b-lvlu1-3]: JO C 316 du 27.11.1995, p. 49.
-[^annex1b-lvlu1-4]: LF du 22 mars 1974 sur le droit pénal administratif ([RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857))
-[^annex1b-lvlu1-5]: LF du 14 décembre 1990 sur l’impôt fédéral direct ([RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184))
-[^annex1b-lvlu1-6]: LF du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes ([RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256))
-[^annex1b-lvlu1-7]: L du 23 juin 2006 sur les placements collectifs ([RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822))
-[^annex1b-lvlu1-8]: LF du 6 octobre 1995 sur les entraves techniques au commerce ([RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725))
-[^annex1b-lvlu1-9]: L du 28 août 1992 sur la protection des marques ([RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274))
-[^annex1b-lvlu1-10]: L du 5 octobre 2001 sur les designs ([RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226))
-[^annex1b-lvlu1-11]: L du 9 octobre 1992 sur le droit d’auteur ([RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798))
-[^annex1b-lvlu1-12]: L du 25 juin 1954 sur les brevets ([RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899))
-[^annex1b-lvlu1-13]: L du 21 mars 2003 sur l’énergie nucléaire ([RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723))
-[^annex1b-lvlu1-14]: L du 20 juin 1997 sur les armes ([RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535))
-[^annex1b-lvlu1-15]: LF du 25 décembre 2015 sur le renseignement ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494))
-[^annex1b-lvlu1-16]: LF du 12 décembre 2014 interdisant les groupes «Al-Qaïda» et «État islamique» et les organisations apparentées ([RS 122](https://fedlex.data.admin.ch/eli/cc/2014/764))
-[^annex1b-lvlu1-17]: LF du 16 décembre 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758))
-[^annex1b-lvlu1-18]: L du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460))
-[^annex1b-lvlu1-19]: L du 20 juin 2014 sur les denrées alimentaires ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62))
-[^annex1b-lvlu1-20]: L du 15 décembre 2000 sur les produits thérapeutiques ([RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422))
-[^annex1b-lvlu1-21]: L du 20 juin 2003 sur le transfert des biens culturels ([RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317))
-[^annex1b-lvlu1-22]: L du 19 décembre 2003 relative à la recherche sur les cellules souches ([RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104))
-[^annex1b-lvlu1-23]: LF du 18 décembre 1998 sur la procréation médicalement assistée ([RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554))
-[^annex1b-lvlu1-24]: L du 8 octobre 2004 sur la transplantation ([RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279))
-[^annex1b-lvlu1-25]: L du 3 octobre 1951 sur les stupéfiants ([RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245))
-[^annex1b-lvlu1-26]: L du 7 octobre 1983 sur la protection de l’environnement ([RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122))
-[^annex1b-lvlu1-27]: LF du 24 janvier 1991 sur la protection des eaux ([RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860))
-[^annex1b-lvlu1-28]: L du 22 mars 1991 sur la radioprotection ([RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933))
-[^annex1b-lvlu1-29]: L du 21 mars 2003 sur le génie génétique ([RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705))
-[^annex1b-lvlu1-30]: L du 16 mars 2012 sur les espèces protégées ([RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600))
-
-Annexe 2[^t-4]
+Annexe 2[^t-3]
 
 (art. 5, al. 5)
 
 ## Droits d’accès et de traitement concernant le système de gestion des affaires et des dossiers du bureau SIRENE
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 3 de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 3 de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
 
 Niveaux d’accès
 
@@ -1766,7 +1746,7 @@ Abréviations des autorités
 
 <table>
 <tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>fedpol IV</th><th>OFJ I</th><th>SEM</th></tr>
-<tr><th>**But du signalement**</th><th>[tab]</th><th>[tab]</th><th>[tab]</th><th>[tab]</th><th>[tab]</th><th>[tab]</th></tr>
+<tr><th>**But du signalement**</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>a. Ressortissants d’États tiers aux fins de non-admission et d’interdiction de séjour</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td>b. Signalements aux fins de retour</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td>B</td></tr>
 <tr><td>c. Personnes en vue d’une arrestation aux fins d’extradition</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td></tr>
@@ -1778,13 +1758,13 @@ Abréviations des autorités
 <tr><td>i. Signalement d’objets</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A\*</td></tr>
 </table>
 
-Annexe 3[^t-5]
+Annexe 3[^t-4]
 
 (art. 7, al. 2, et 11, al. 1)
 
 ## 1. Droits d’accès et de traitement concernant les données enregistrées dans le SIS
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 3 de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
+[^t-4]: Nouvelle teneur selon l’annexe 3 ch. 8 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 Niveaux d’accès
 
@@ -1795,11 +1775,11 @@ Niveaux d’accès
 Abréviations des autorités
 
 - fedpol I Auprès de l’Office fédéral de la police: la division Droit
-- fedpol II Auprès de l’Office fédéral de la police: les services chargés de la correspondance Interpol, ainsi que la Centrale d’engagement et d’alarme
+- fedpol II Auprès de l’Office fédéral de la police: les services chargés de la correspondance Interpol et la Centrale d’engagement et d’alarme
 - fedpol III Auprès de l’Office fédéral de la police: le bureau SIRENE
 - fedpol IV Auprès de l’Office fédéral de la police: les services chargés du traitement des données signalétiques biométriques
 - fedpol V Auprès de l’Office fédéral de la police: la Police judiciaire fédérale
-- fedpol VI Auprès de l’Office fédéral de la police: le domaine Documents d’identité
+- fedpol VI Auprès de l’Office fédéral de la police: le service Documents d’identité et le service d’identité de l’État
 - fedpol VII Auprès de l’Office fédéral de la police: les services chargés du RIPOL
 - fedpol VIII Auprès de l’Office fédéral de la police: le Bureau de communication en matière de blanchiment d’argent (\*consultation seulement via SwissPol-Index)
 - fedpol IX Auprès de l’Office fédéral de la police: l’Office central des armes
@@ -1813,7 +1793,7 @@ Abréviations des autorités
 - SEM III Auprès du Secrétariat d’État aux migrations: le domaine de direction Immigration et intégration et le domaine de direction Asile pour les tâches visées à l’art. 7, al. 1, let. f<sup>bis</sup>, ainsi que le domaine de direction Affaires internationales pour les tâches visées à l’art. 7, al. 1, let. f<sup>ter</sup>
 - SEM IV Auprès du Secrétariat d’État aux migrations: le domaine de direction Immigration et intégration pour les tâches visées à l’art. 7, al. 1, let. f, ch. 3
 - SEM V Auprès du Secrétariat d’État aux migrations: le domaine de direction Immigration et intégration pour les tâches visées à l’art. 7, al. 1, let. f, ch. 4
-- NAT Autorités cantonales et communales compétentes pour examiner les demandes de naturalisation
+- SEM VI Auprès du Secrétariat d’État aux migrations: le domaine de direction Immigration et intégration pour les tâches visées à l’art. 7, al. 1, let. f, ch. 5
 - Cgfr Corps des gardes-frontière
 - OFDF I Auprès de l’Office fédéral de la douane et de la sécurité des frontières: la division principale Antifraude douanière
 - OFDF II Auprès de l’Office fédéral de la douane et de la sécurité des frontières: les bureaux de douane
@@ -1823,43 +1803,54 @@ Abréviations des autorités
 - Pol. cant. Autorités de poursuite pénale, de justice et d’exécution des peines des cantons
 - OCA Offices cantonaux des armes pour les tâches visées à l’art. 7, al. 1, let. l
 - Pol. étr. Police des étrangers, Office des migrations et autorités régionales et communales compétentes en matière d’étrangers pour les tâches visées à l’art. 7, al. 1, let. i, ch. 1 et 2
+- NAT Autorités cantonales et communales compétentes pour examiner les demandes de naturalisation
 - OCN Offices de la circulation routière et de la navigation pour les tâches visées à l’art. 7, al. 1, let. k
 - RSE Représentations suisses à l’étranger
 
 <table>
-<tr><th>Dénomination des champs de données</th><th colspan="6">Confédération</th><th colspan="3"></th><th colspan="3"></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="2">Cantons</th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th>Étranger</th></tr>
-<tr><th></th><th>fedpol I</th><th>fedpol II\*</th><th colspan="3">fedpol III</th><th colspan="6">fedpol IV</th><th colspan="3">fedpol V</th><th>fedpol VI</th><th colspan="2">fedpol VII\*</th><th colspan="2">fedpol VIII</th><th colspan="2">fedpol IX</th><th colspan="2">fedpol X</th><th colspan="2">SRC</th><th colspan="2">MPC</th><th colspan="2">OFJ I</th><th>OFJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>SEM IV</th><th>SEM V</th><th>Cgfr</th><th>OFDF I</th><th>OFDF II</th><th>OFDF III</th><th>OFAC</th><th>SECO</th><th>Pol. cant.</th><th>OCA</th><th colspan="2">Pol. étr.</th><th colspan="2">NAT</th><th colspan="2">OCN</th><th>RSE</th></tr>
-<tr><td colspan="6">**1.** **Signalements de personnes**</td><td colspan="2">[tab]</td><td>[tab]</td><td colspan="2">[tab]</td><td>[tab]</td><td colspan="3">[tab]</td><td>[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td colspan="2">[tab]</td><td>[tab]</td></tr>
-<tr><td>a. Ressortissants d’États tiers aux fins de non-admission et d’interdiction de séjour</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>b. Ressortissants d’États tiers aux fins de retour</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>c. Personnes en vue d’une arrestation aux fins d’extradition</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>d. Personnes disparues</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>e. Personnes recherchées en vue de leur participation à une procédure pénale</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>f. Personnes aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td>A</td></tr>
-<tr><td>g. Personnes suspectes dont l’identité est inconnue</td><td></td><td></td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3"></td><td></td><td colspan="2">B</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>h. Personnes à protéger</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6">B</td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td>A</td></tr>
-<tr><td colspan="4">**2.** **Signalements d’objets**</td><td></td><td colspan="3"></td><td colspan="3"></td><td></td><td colspan="3"></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>a. Véhicule à moteur</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>b. Embarcation</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>c. Moteur d’embarcation</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>d. Aéronef</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>e. Moteur d’aéronef</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>f. Remorque (poids à vide &gt; 750 kg)</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>g. Caravane</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>h. Matériel industriel (par ex. machines)</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>i. Conteneur</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>j. Arme à feu</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>k. Documents officiels vierges</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td></tr>
-<tr><td>l. Documents d’identité tels que passeports, cartes d’identité, permis de conduire, titres de séjour, et documents de voyage</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td></tr>
-<tr><td>m. Papiers de véhicule</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>n. Plaque d’immatriculation</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>o. Billet de banque</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>p. Objets de la technologie de l’information</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>q. Pièces identifiables de véhicules à moteur</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>r. Pièces identifiables d’équipements industriels</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td></td></tr>
-<tr><td>s. Autres objets identifiables et de grande valeur</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2"></td><td colspan="2"></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>t. Objets aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé</td><td>A</td><td>A</td><td colspan="3">B</td><td colspan="6"></td><td colspan="3">A</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A\*</td><td>A\*</td><td></td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td colspan="2"></td><td>A\*</td></tr>
-<tr><td colspan="51">[tab] \* cette possibilité de recherche est limitée aux signalements d’objets auxquels l’autorité a accès selon cette tabelle</td></tr>
+<tr><th>Dénomination des champs de données</th><th colspan="26">Confédération</th><th colspan="5">Cantons</th><th>Étranger</th></tr>
+<tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>fedpol IV</th><th>fedpol V</th><th>fedpol VI</th><th>fedpol VII</th><th>fedpol VIII\*</th><th>fedpol IX</th><th>fedpol X</th><th>SRC</th><th>MPC</th><th>OFJ I</th><th>OFJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>SEM IV</th><th>SEM V</th><th>SEM VI</th><th>Cgfr</th><th>OFDF I</th><th>OFDF II</th><th>OFDF III</th><th>OFAC</th><th>SECO</th><th>Pol. cant.</th><th>OCA</th><th>Pol. étr.</th><th>NAT</th><th>OCN</th><th>RSE</th></tr>
+<tr><td colspan="33">**1.** **Signalements de personnes**</td></tr>
+<tr><td>a. Ressortissants d’États tiers aux fins de non-admission et d’interdiction de séjour</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>b. Ressortissants d’États tiers aux fins de retour</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>c. Personnes en vue d’une arrestation aux fins d’extradition</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>d. Personnes disparues</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>e. Personnes recherchées en vue de leur participation à une procédure pénale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>f. Personnes aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>g. Personnes suspectes dont l’identité est inconnue</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>h. Personnes à protéger</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>i. Signalement pour information d’Europol</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="33">**2.** **Signalements d’objets en vue de leur saisie ou de la sauvegarde de preuves**</td></tr>
+<tr><td>a. Véhicules à moteur</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>b. Embarcations</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>c. Moteurs d’embarcation</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>d. Aéronefs</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>e. Moteurs d’aéronef</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>f. Remorques (poids à vide &gt; 750 kg)</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>g. Caravanes</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>h. Matériel industriel (par ex. machines)</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>i. Conteneurs</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>j. Armes à feu</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>k. Documents officiels vierges</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>l. Documents d’identité tels que passeports, cartes d’identité, permis de conduire, titres de séjour, et documents de voyage</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>m. Papiers de véhicule</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>n. Plaques d’immatriculation</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>o. Billets de banque</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>p. Objets de la technologie de l’information</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>q. Pièces identifiables de véhicules à moteur</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>r. Pièces identifiables d’équipements industriels</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>s. Autres objets identifiables et de grande valeur</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td colspan="33">**3.** **Signalements d’objets aux fins de surveillance discrète, de contrôles d’investigation ou de contrôle ciblé**</td></tr>
+<tr><td>a. Véhicules à moteur</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>b. Embarcations</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>c. Aéronefs</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>d. Remorques (poids à vide &gt; 750 kg)</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>e. Caravanes</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>f. Conteneurs</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>g. Armes à feu</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>h. Documents officiels vierges</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>i. Documents d’identité tels que passeports, cartes d’identité, permis de conduire, titres de séjour, et documents de voyage</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>j. Moyens de paiement scripturaux</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ## 2. Données enregistrées dans le SIS
@@ -2074,7 +2065,7 @@ Catégorie
 
 Pays
 
-Numéro de série (range)
+Numéro de série (*range*)
 
 Statut du document
 
@@ -2092,11 +2083,11 @@ Calibre
 
 Autre numéro 1 et autre numéro 2
 
-RFID set ID[^annex3-lvl2-lvl22-lvl222-1]
+RFID set ID[^annexu1-lvl2-lvl22-lvl222-1]
 
 Numéro du tag RFID
 
-[^annex3-lvl2-lvl22-lvl222-1]: RFID: radio-frequency identification (technologie d’identification par radiofréquence).
+[^annexu1-lvl2-lvl22-lvl222-1]: RFID: *radio-frequency identification* (technologie d’identification par radiofréquence).
 
 ### 2.2.3 Document d’identité
 
@@ -2138,7 +2129,7 @@ Monnaie
 
 Valeur nominale
 
-Numéro de série (range)
+Numéro de série (*range*)
 
 Remarque
 
@@ -2350,11 +2341,11 @@ Statut de l’immatriculation
 
 ### 2.2.13 Moyen de paiement scriptural
 
-International Securities Identification Number (numéro ISIN)
+*International Securities Identification Number* (numéro ISIN)
 
 Numéro de compte
 
-Numéro de série (range)
+Numéro de série (*range*)
 
 Monnaie
 
@@ -2478,13 +2469,13 @@ Matériau
 
 Marquage de sécurité
 
-Annexe 4[^t-6]
+Annexe 4[^t-5]
 
 (art. 26, al. 2 et 3)
 
 ## Informations supplémentaires relatives aux signalements en vue d’une arrestation aux fins d’extradition
 
-[^t-6]: Nouvelle teneur selon le ch. II al. 3 de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 3 de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651), [672](https://fedlex.data.admin.ch/eli/oc/2022/672)).
 
 ### 1 Identité
 
