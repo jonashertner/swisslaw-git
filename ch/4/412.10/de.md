@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (Berufsbildun
 short: BBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: de
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20261001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/de"
 
 (Berufsbildungsgesetz, BBG)
 
-vom 13. Dezember 2002 (Stand am 1. März 2025)
+vom 13. Dezember 2002 (Stand am 1. Oktober 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -413,14 +413,20 @@ Die höhere Berufsbildung wird erworben durch:
 
 <sup>1</sup> Die eidgenössischen Berufsprüfungen und die eidgenössischen höheren Fachprüfungen setzen eine einschlägige berufliche Praxis und einschlägiges Fachwissen voraus.
 
-<sup>2</sup> Die zuständigen Organisationen der Arbeitswelt regeln die Zulassungsbedingungen, Lerninhalte, Qualifikationsverfahren, Ausweise und Titel. Sie berücksichtigen dabei die anschliessenden Bildungsgänge. Die Vorschriften unterliegen der Genehmigung durch das SBFI. Sie werden in Form eines Verweises nach Artikel 13 Absätze 1 Buchstabe g und 3 des Publikationsgesetzes vom 18. Juni 2004[^28-1] im Bundesblatt veröffentlicht.[^28-2]
+<sup>1bis</sup> Sie werden in den Amtssprachen des Bundes angeboten. Sie können zusätzlich auf Englisch angeboten werden.[^28-1]
+
+<sup>2</sup> Die zuständigen Organisationen der Arbeitswelt regeln in den Prüfungsordnungen die Zulassungsbedingungen, Lerninhalte, Qualifikationsverfahren, Ausweise, Titel, vereinfachten englischen Übersetzungen dieser Titel und Titelzusätze. Sie berücksichtigen dabei die anschliessenden Bildungsgänge.[^28-2]
+
+<sup>2bis</sup> Die Prüfungsordnungen unterliegen der Genehmigung durch das SBFI. Sie werden in Form eines Verweises nach Artikel 13 Absätze 1 Buchstabe g und 3 des Publikationsgesetzes vom 18. Juni 2004[^28-3] im Bundesblatt veröffentlicht.[^28-4]
 
 <sup>3</sup> Der Bundesrat regelt Voraussetzungen und Verfahren der Genehmigung.
 
 <sup>4</sup> Die Kantone können vorbereitende Kurse anbieten.
 
-[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
-[^28-2]: Vierter Satz eingefügt durch Art. 21 Ziff. 2 des Publikationsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+[^28-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-3]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
+[^28-4]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 29
 
@@ -430,13 +436,25 @@ Die höhere Berufsbildung wird erworben durch:
 
 <sup>2</sup> Die vollzeitliche Bildung dauert inklusive Praktika mindestens zwei Jahre, die berufsbegleitende Bildung mindestens drei Jahre.
 
-<sup>3</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^29-1] stellt in Zusammenarbeit mit den zuständigen Organisationen für die eidgenössische Anerkennung der Bildungsgänge und Nachdiplomstudien an höheren Fachschulen Mindestvorschriften auf. Sie betreffen die Zulassungsbedingungen, Lerninhalte, Qualifikationsverfahren, Ausweise und Titel.
+<sup>3</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) stellt in Zusammenarbeit mit den zuständigen Organisationen Mindestvorschriften für die eidgenössische Anerkennung der Bildungsgänge an höheren Fachschulen auf. Diese Vorschriften betreffen die Zulassungsbedingungen, Lerninhalte, Qualifikationsverfahren, Ausweise, Titel, vereinfachten englischen Übersetzungen dieser Titel und Titelzusätze.[^29-1]
+
+<sup>3bis</sup> Das WBF stellt Mindestvorschriften für das Weiterbildungsangebot an höheren Fachschulen auf. Diese Vorschriften betreffen insbesondere die Zulassungsbedingungen, den Umfang und die Titel.[^29-2]
 
 <sup>4</sup> Die Kantone können selber Bildungsgänge anbieten.
 
-<sup>5</sup> Die Kantone üben die Aufsicht über die höheren Fachschulen aus, soweit sie eidgenössisch anerkannte Bildungsgänge anbieten.
+<sup>5</sup> Die Kantone üben die Aufsicht über die höheren Fachschulen aus.[^29-3]
 
-[^29-1]: Ausdruck gemäss Ziff. I 8 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^29-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+
+#### Art. 29a
+
+**Bezeichnungsrecht**[^29a-1]
+
+Bietet eine Bildungsinstitution mindestens einen eidgenössisch anerkannten Bildungsgang an, so kann sie in ihrem Namen die Bezeichnung «Höhere Fachschule», «École supérieure» oder «Scuola specializzata superiore» führen.
+
+[^29a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## 4. Kapitel: Berufsorientierte Weiterbildung
 
@@ -577,6 +595,29 @@ Nur Inhaberinnen und Inhaber eines Abschlusses der beruflichen Grundbildung und 
 <sup>1</sup> Wer an einer höheren Fachschule die Prüfung besteht oder ein gleichwertiges Qualifikationsverfahren erfolgreich durchläuft, erhält ein Diplom der Schule.
 
 <sup>2</sup> Das Prüfungsverfahren und das gleichwertige Qualifikationsverfahren richten sich nach den Mindestvorschriften (Art. 29 Abs. 3).
+
+#### Art. 44a
+
+**Titelzusätze und vereinfachte englische Übersetzungen**[^44a-1]
+
+<sup>1</sup>
+
+Die Titelzusätze der höheren Berufsbildung lauten:
+
+- a. «Professional Bachelor», wenn der Titel durch eine eidgenössische Berufsprüfung oder einen eidgenössisch anerkannten Bildungsgang einer höheren Fachschule erworben wurde;
+- b. «Professional Master», wenn der Titel durch eine eidgenössische höhere Fachprüfung erworben wurde.
+
+<sup>2</sup> Sie dürfen nur mit einem geschützten Titel der höheren Berufsbildung in einer Amtssprache des Bundes oder als Teil der vereinfachten englischen Übersetzung verwendet werden, wie diese in der Prüfungsordnung oder im Rahmenlehrplan festgehalten sind.
+
+<sup>3</sup>
+
+Die vereinfachten englischen Übersetzungen der geschützten Titel richten sich nach der folgenden Struktur:
+
+- a. bei eidgenössischen Berufsprüfungen: die berufsspezifische Bezeichnung auf Englisch, gefolgt von einem Komma und «Professional Bachelor»;
+- b. bei eidgenössischen höheren Fachprüfungen: die berufsspezifische Bezeichnung auf Englisch, gefolgt von einem Komma und «Professional Master»;
+- c. bei Bildungsgängen der höheren Fachschulen: «Professional Bachelor in», gefolgt von der berufsspezifischen Bezeichnung auf Englisch.
+
+[^44a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## 6. Kapitel: Bildung von Berufsbildungsverantwortlichen
 
@@ -906,6 +947,21 @@ Mit Busse wird bestraft, wer:
 
 [^63-1]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
+#### Art. 63a
+
+**Unzulässige Verwendung der Bezeichnung**[^63a-1]
+
+<sup>1</sup> Wer als Verantwortlicher eines Geschäftsbetriebs ohne eidgenössisch anerkannten Bildungsgang vorsätzlich die Bezeichnung «Höhere Fachschule», «École supérieure» oder «Scuola specializzata superiore» verwendet, wird mit Busse bis zu 100 000 Franken bestraft.
+
+<sup>2</sup> Für Widerhandlungen in Geschäftsbetrieben ist Artikel 6 des Bundesgesetzes vom 22. März 1974[^63a-2] über das Verwaltungsstrafrecht anwendbar.
+
+<sup>3</sup> Fällt eine Busse von höchstens 20 000 Franken in Betracht und würde die Ermittlung der nach Absatz 2 strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann von einer Verfolgung dieser Personen abgesehen und an ihrer Stelle die juristische Person, die Kollektiv- oder Kommanditgesellschaft oder die Einzelfirma zur Bezahlung der Busse verurteilt werden.
+
+<sup>4</sup> Für Personengesamtheiten ohne Rechtspersönlichkeit gilt Absatz 3 sinngemäss.
+
+[^63a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^63a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
 #### Art. 64
 
 **Strafverfolgung**
@@ -943,7 +999,7 @@ Soweit der Vollzug nicht dem Bund zugewiesen ist, obliegt er den Kantonen.
 
 Bund und Kantone können Organisationen der Arbeitswelt Vollzugsaufgaben übertragen. Diese können für Verfügungen und Dienstleistungen Gebühren erheben.[^67-1]
 
-[^67-1]: Satz eingefügt durch Ziff. II des BG vom 17. Dez. 2004, in Kraft seit 5. Okt. 2005 ([AS 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [BBl 2004 145](https://fedlex.data.admin.ch/eli/fga/2004/49)).
+[^67-1]: Satz eingefügt durch Ziff. II des BG vom 17. Dez. 2004, in Kraft seit 5. Okt. 2005 (AS **2005** 4635; BBl **2004** 145).
 
 #### Art. 68
 
@@ -972,15 +1028,11 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 
 #### Art. 73
 
-**Übergangsbestimmungen**
+**Übergangsbestimmung**[^73-1]
 
-<sup>1</sup> Die geltenden kantonalen und eidgenössischen Bildungsverordnungen sind innert fünf Jahren nach Inkrafttreten dieses Gesetzes anzupassen beziehungsweise zu ersetzen.
+Nach bisherigem Recht erworbene geschützte Titel sind weiterhin geschützt.
 
-<sup>2</sup> Nach bisherigem Recht erworbene geschützte Titel sind weiterhin geschützt.
-
-<sup>3</sup> Die Umstellung auf Pauschalbeiträge nach Artikel 53 Absatz 2 findet stufenweise innert vier Jahren statt.
-
-<sup>4</sup> Die Kostenbeteiligung des Bundes wird innert vier Jahren stufenweise auf den in Artikel 59 Absatz 2 festgelegten Anteil erhöht.
+[^73-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 73a
 
@@ -991,6 +1043,16 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 <sup>2</sup> Der Bundesrat kann diese Aufgabe an Dritte delegieren. Diese können für ihre Leistungen Gebühren erheben. Der Bundesrat regelt die Gebühren.
 
 [^73a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft seit 1. Juli 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+
+#### Art. 73b
+
+**Übergangsbestimmungen zur Änderung vom 19. Dezember 2025**[^73b-1]
+
+<sup>1</sup> Nachdiplomstudien von höheren Fachschulen, die nicht auf einem Rahmenlehrplan beruhen und vor Inkrafttreten der Änderung vom 19. Dezember 2025 anerkannt wurden, gelten bis längstens drei Jahre nach Inkrafttreten dieser Änderung weiterhin als anerkannt.
+
+<sup>2</sup> Nachdiplomstudien von höheren Fachschulen, die auf einem Rahmenlehrplan beruhen und vor Inkrafttreten dieser Änderung anerkannt wurden, gelten bis längstens fünf Jahre nach Inkrafttreten dieser Änderung weiterhin als anerkannt.
+
+[^73b-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Okt. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 74
 

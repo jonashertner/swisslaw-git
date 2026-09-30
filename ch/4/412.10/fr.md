@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFP
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: fr
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20261001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/fr"
 
 (LFPr)[^t-1]
 
-du 13 décembre 2002 (État le 1<sup>er</sup> mars 2025)
+du 13 décembre 2002 (État le 1<sup>er</sup> octobre 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -415,14 +415,20 @@ La formation professionnelle supérieure s’acquiert:
 
 <sup>1</sup> La personne qui souhaite se présenter aux examens professionnels fédéraux ou aux examens professionnels fédéraux supérieurs doit disposer d’une expérience professionnelle et de connaissances spécifiques dans le domaine concerné.
 
-<sup>2</sup> Les organisations du monde du travail compétentes définissent les conditions d’admission, le niveau exigé, les procédures de qualification, les certificats délivrés et les titres décernés. Elles tiennent compte des filières de formation qui font suite aux examens. Leurs prescriptions sont soumises à l’approbation du SEFRI. Elles sont publiées dans la Feuille fédérale sous la forme d’un renvoi au sens de l’art. 13, al. 1, let. g, et 3, de la loi du 18 juin 2004 sur les publications officielles[^28-1].[^28-2]
+<sup>1bis</sup> Les examens sont proposés dans les langues officielles de la Confédération. Ils peuvent en outre être proposés en anglais.[^28-1]
+
+<sup>2</sup> Les organisations du monde du travail compétentes règlent dans les règlements d’examen les conditions d’admission, les contenus de la formation, les procédures de qualification, les certificats délivrés, les titres décernés, les traductions anglaises simplifiées de ces titres ainsi que les compléments de titre. Elles tiennent compte des filières de formation qui font suite aux examens.[^28-2]
+
+<sup>2bis</sup> Les règlements d’examen sont soumis à l’approbation du SEFRI. Ils sont publiés dans la Feuille fédérale sous la forme d’un renvoi au sens de l’art. 13, al. 1, let. g, et 3, de la loi du 18 juin 2004 sur les publications officielles[^28-3].[^28-4]
 
 <sup>3</sup> Le Conseil fédéral fixe les conditions d’obtention de l’approbation et la procédure à suivre.
 
 <sup>4</sup> Les cantons peuvent proposer des cours préparatoires.
 
-[^28-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
-[^28-2]: Phrase introduite par l’art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+[^28-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-3]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
+[^28-4]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 29
 
@@ -432,13 +438,25 @@ La formation professionnelle supérieure s’acquiert:
 
 <sup>2</sup> La formation à temps complet dure au moins deux ans, y compris les stages; la formation en marge d’une activité professionnelle dure au minimum trois ans.
 
-<sup>3</sup> En collaboration avec les organisations compétentes, le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^29-1] fixe des prescriptions minimales pour la reconnaissance par la Confédération des filières de formation et des cours post-diplôme proposés par les écoles supérieures. Ces prescriptions portent sur les conditions d’admission, le niveau exigé en fin d’études, les procédures de qualification, les certificats délivrés et les titres décernés.
+<sup>3</sup> Le Département fédéral de l’économie, de la formation et de la recherche (DEFR) fixe, en collaboration avec les organisations compétentes, des prescriptions minimales pour la reconnaissance par la Confédération des filières de formation proposées par les écoles supérieures. Ces prescriptions portent sur les conditions d’admission, les contenus de la formation, les procédures de qualification, les certificats délivrés, les titres décernés, les traductions anglaises simplifiées de ces titres et les compléments de titre.[^29-1]
+
+<sup>3bis</sup> Le DEFR fixe des prescriptions minimales pour l’offre de formation continue proposée par les écoles supérieures. Ces prescriptions portent en particulier sur les conditions d’admission, le volume de l’offre et les titres décernés.[^29-2]
 
 <sup>4</sup> Les cantons peuvent proposer eux-mêmes des filières de formation.
 
-<sup>5</sup> Les cantons exercent la surveillance des écoles supérieures lorsqu’elles offrent des filières de formation reconnues par la Confédération.
+<sup>5</sup> Les cantons exercent la surveillance sur les écoles supérieures.[^29-3]
 
-[^29-1]: Nouvelle expression selon le ch. I 8 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Il a été tenu compte de cette mod. dans tout le texte.
+[^29-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-2]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+
+#### Art. 29a
+
+**Droit à l’appellation**[^29a-1]
+
+Les institutions qui proposent au moins une filière de formation reconnue par la Confédération ont le droit d’utiliser l’appellation «école supérieure», «Höhere Fachschule» ou «scuola specializzata superiore» dans leur dénomination.
+
+[^29a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## Chapitre 4 Formation continue à des fins professionnelles
 
@@ -579,6 +597,29 @@ Seuls les titulaires d’un diplôme sanctionnant une formation professionnelle 
 <sup>1</sup> La personne qui a réussi l’examen ou suivi avec succès une procédure de qualification équivalente dans une école supérieure obtient un diplôme de l’école.
 
 <sup>2</sup> La procédure d’examen et la procédure de qualification équivalente sont régies par les prescriptions minimales prévues à l’art. 29, al. 3.
+
+#### Art. 44a
+
+**Compléments de titre et traduction anglaise simplifiée**[^44a-1]
+
+<sup>1</sup>
+
+Les compléments de titre de la formation professionnelle supérieure sont les suivants:
+
+- a. «Professional Bachelor», si le titre a été obtenu à la suite d’un examen professionnel fédéral ou dans le cadre d’une filière de formation reconnue par la Confédération proposée par une école supérieure;
+- b. «Professional Master», si le titre a été obtenu à la suite d’un examen professionnel fédéral supérieur.
+
+<sup>2</sup> Ils ne peuvent être utilisés qu’avec un titre protégé de la formation professionnelle supérieure dans une langue officielle de la Confédération ou en tant qu’élément de la traduction anglaise simplifiée, tels que fixés dans le règlement d’examen ou le plan d’études cadre.
+
+<sup>3</sup>
+
+Les traductions anglaises simplifiées des titres protégés ont la structure suivante:
+
+- a. pour les examens professionnels fédéraux: dénomination spécifique à la profession en anglais, suivie d’une virgule et de «Professional Bachelor»;
+- b. pour les examens professionnels fédéraux supérieurs: dénomination spécifique à la profession en anglais, suivie d’une virgule et de «Professional Master»;
+- c. pour les filières de formation des écoles supérieures: «Professional Bachelor in», suivi de la dénomination spécifique à la profession en anglais.
+
+[^44a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## Chapitre 6 Formation des responsables de la formation professionnelle
 
@@ -887,12 +928,14 @@ Les autorités de recours sont:
 
 <sup>1</sup>
 
-Sera puni de l’amende quiconque forme des personnes:
+Est puni de l’amende quiconque forme des personnes:[^62-1]
 
 - a. sans détenir l’autorisation mentionnée aux art. 20, al. 2;
 - b. sans avoir conclu de contrat d’apprentissage (art. 14).
 
 <sup>2</sup> En cas de faute légère, l’autorité de jugement peut adresser un avertissement.
+
+[^62-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 63
 
@@ -900,14 +943,30 @@ Sera puni de l’amende quiconque forme des personnes:
 
 <sup>1</sup>
 
-Sera puni de l’amende quiconque:
+Est puni de l’amende quiconque:[^63-1]
 
 - a. porte un titre protégé sans avoir réussi l’examen correspondant ou sans avoir suivi avec succès une procédure de qualification équivalente;
 - b. utilise un titre donnant l’impression qu’il a réussi l’examen correspondant ou suivi avec succès une procédure de qualification équivalente.
 
-<sup>2</sup> Les dispositions pénales de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^63-1] sont réservées.
+<sup>2</sup> Les dispositions pénales de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^63-2] sont réservées.
 
-[^63-1]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
+[^63-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^63-2]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
+
+#### Art. 63a
+
+**Utilisation illicite de l’appellation**[^63a-1]
+
+<sup>1</sup> Quiconque, en tant que responsable d’une entreprise ne proposant aucune filière de formation reconnue par la Confédération, utilise intentionnellement l’appellation «école supérieure», «Höhere Fachschule» ou «scuola specializzata superiore» est puni d’une amende de 100 000 francs au plus.
+
+<sup>2</sup> L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^63a-2] est applicable aux infractions commises dans une entreprise.
+
+<sup>3</sup> Lorsque l’amende entrant en ligne de compte ne dépasse pas 20 000 francs et que l’enquête rendrait nécessaires à l’égard des personnes punissables selon l’al. 2 des mesures d’instruction hors de proportion avec la peine encourue, il est loisible de renoncer à poursuivre ces personnes et de condamner à leur place au paiement de l’amende la personne morale, la société en nom collectif ou en commandite ou l’entreprise individuelle.
+
+<sup>4</sup> L’al. 3 est applicable par analogie aux collectivités sans personnalité juridique.
+
+[^63a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^63a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 64
 
@@ -975,15 +1034,11 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 #### Art. 73
 
-**Dispositions transitoires**
+**Disposition transitoire**[^73-1]
 
-<sup>1</sup> Les ordonnances en vigueur de la Confédération et des cantons sur la formation professionnelle doivent être remplacées ou adaptées dans le délai de cinq ans à compter de la date d’entrée en vigueur de la présente loi.
+Les titres protégés acquis selon l’ancien droit restent protégés.
 
-<sup>2</sup> Les titres protégés acquis selon l’ancien droit restent protégés.
-
-<sup>3</sup> Le passage à un subventionnement basé sur des forfaits au sens de l’art. 53, al. 2, se fera progressivement dans un délai de quatre ans.
-
-<sup>4</sup> La participation de la Confédération aux coûts de la formation professionnelle sera adaptée progressivement en vue d’atteindre, dans un délai de quatre ans, la part définie à l’art. 59, al. 2.
+[^73-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 73a
 
@@ -994,6 +1049,16 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 <sup>2</sup> Le Conseil fédéral peut déléguer cette tâche à des tiers. Ces derniers peuvent percevoir des émoluments pour leurs prestations. Le Conseil fédéral règle les émoluments.
 
 [^73a-1]: Introduit par l’annexe ch. 3 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+
+#### Art. 73b
+
+**Dispositions transitoires relatives à la modification du 19 décembre 2025**[^73b-1]
+
+<sup>1</sup> Les études postdiplômes des écoles supérieures qui ne se fondent pas sur un plan d’études cadre et qui ont été reconnues avant l’entrée en vigueur de la modification du 19 décembre 2025 sont réputées reconnues pendant trois ans au plus après l’entrée en vigueur de ladite modification.
+
+<sup>2</sup> Les études postdiplômes des écoles supérieures qui se fondent sur un plan d’études cadre et ont été reconnues avant l’entrée en vigueur de la présente modification sont réputées reconnues pendant cinq ans au plus après l’entrée en vigueur de ladite modification.
+
+[^73b-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 74
 

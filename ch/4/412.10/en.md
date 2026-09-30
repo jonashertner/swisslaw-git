@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on Vocational and Professional Education
 short: VPETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: en
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20261001/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20261001-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Act, VPETA)
 
-of 13 December 2002 (Status as of 1 March 2025)
+of 13 December 2002 (Last amended on 1 October 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -135,7 +135,7 @@ The Confederation may promote VPET initiatives intended to help disadvantaged re
 
 <sup>1</sup> Regulations on the VET and professional education sectors shall ensure the greatest possible permeability both within the VET and professional education sectors as well as between the VET and professional education sectors and other sectors of the education system.
 
-<sup>2</sup> The professional or non-professional experience or technical or general skills gained outside usual formal education and training pathways shall also be recognised and/or validated where appropriate.
+<sup>2</sup> The work or non-work experience or technical or general skills gained outside usual formal education and training pathways shall also be recognised and/or validated where appropriate.
 
 #### Art. 10
 
@@ -407,38 +407,56 @@ Within the framework of their supervisory activities, the Cantons may:
 A tertiary-level professional qualification may be obtained:
 
 - a. by preparing for a federal professional examination or advanced federal professional examination;
-- b. by enrolling in a federally recognised study programme at a professional education institution.
+- b. by enrolling in a federally recognised study programme at a college of professional education.
 
 #### Art. 28
 
-**Federal professional examinations and advanced federal professional examinations**
+**Federal examinations**
 
-<sup>1</sup> Suitable professional experience and expertise are required in order to take a federal professional examination or an advanced federal professional examination.
+<sup>1</sup> Suitable work experience and expertise are required in order to take a federal professional examination or an advanced federal professional examination.
 
-<sup>2</sup> The corresponding professional organisations shall establish admission requirements, course content, qualification procedures, qualifications and titles. They shall take into account completed courses of study. The examination rules shall be subject to approval by SERI. They shall be published in the Federal Gazette in the form of a reference made in accordance with Article 13 paragraph 1 letter g and 3 of the Publications Act of 18 June 2004[^28-1].[^28-2]
+<sup>1bis</sup> They are given in the official languages of the Confederation. They may also be given in English.[^28-1]
+
+<sup>2</sup> In the examination rules, the corresponding professional organisations shall establish admission requirements, course content, qualification procedures, qualifications, titles, simplified English translations of these titles and title add-ons. They shall take into account subsequent study programmes.[^28-2]
+
+<sup>2bis</sup> The examination rules shall be subject to approval by SERI. They shall be published in the Federal Gazette in the form of a reference made in accordance with Article 13 paragraph 1 letter g and paragraph 3 of the Publications Act of 18 June 2004[^28-3].[^28-4]
 
 <sup>3</sup> The Federal Council shall establish the requirements and procedures for obtaining approval.
 
 <sup>4</sup> The Cantons may offer preparatory courses.
 
-[^28-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
-[^28-2]: Fourth sentence inserted by Art. 21 No 2 of the Publications Act of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+[^28-1]: Inserted by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-2]: Amended by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-3]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
+[^28-4]: Inserted by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 29
 
-**Professional education institutions**
+**Colleges of professional education**
 
-<sup>1</sup> Anyone wishing to attend a federally recognised study programme at a professional qualification institution must have sufficient professional experience, unless such professional experience is included in the course of study.
+<sup>1</sup> Anyone wishing to attend a federally recognised study programme at a college of professional education must have sufficient work experience, unless such professional work is included in the course of study.
 
 <sup>2</sup> The full-time study programme shall last a minimum of two years, including traineeships at host companies. The part-time study programme shall last a minimum of three years.
 
-<sup>3</sup> The Federal Department of Economic Affairs, Education and Research (EAER)[^29-1] shall work with professional organisations to establish the minimum requirements for federal recognition of study programmes and continuing education and training at professional education institutions. They shall establish the admission requirements, course content, qualification procedures, qualifications and titles.
+<sup>3</sup> The Federal Department of Economic Affairs, Education and Research (EAER) shall work with professional organisations to establish the minimum requirements for federal recognition of study programmes at colleges of professional education. These relate to admission requirements, course content, qualification procedures, qualifications, titles, simplified English translations of these titles and title add-ons.[^29-1]
+
+<sup>3bis</sup> The EAER shall establish the minimum requirements for continuing education and training courses at colleges of professional education. These relate in particular to admission requirements, content coverage and qualification titles.[^29-2]
 
 <sup>4</sup> The Cantons may offer their own courses of study.
 
-<sup>5</sup> The Cantons shall be responsible for overall supervision of professional education institutions that offer federally recognised study programmes.
+<sup>5</sup> The Cantons shall be responsible for overall supervision of colleges of professional education.[^29-3]
 
-[^29-1]: Term in accordance with No I 8 of the O of 15 June 2012 (Reorganisation of the Departments), in force since 1 Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). This amendment has been made throughout the text.
+[^29-1]: Amended by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-2]: Inserted by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-3]: Amended by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+
+#### Art. 29a
+
+**Right to use reserved designations**[^29a-1]
+
+Institutions that offer at least one federally recognised study programme are entitled to use the designation ‘Höhere Fachschule’, ‘École supérieure’ or ‘Scuola specializzata superiore’ in their name.
+
+[^29a-1]: Inserted by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## Chapter 4 Job-Related Continuing Education and Training
 
@@ -574,11 +592,34 @@ Only holders of an upper secondary-level vocational qualification or a tertiary-
 
 #### Art. 44
 
-**Professional education institutions**
+**Colleges of professional education**
 
-<sup>1</sup> Candidates enrolled in a professional education institution who obtain passing scores on the final examination or equivalent qualification procedure shall be awarded the corresponding tertiary-level professional qualification.
+<sup>1</sup> Candidates enrolled in a college of professional education who obtain passing scores on the final examination or equivalent qualification procedure shall be awarded the corresponding tertiary-level professional qualification.
 
 <sup>2</sup> The examination procedure and equivalent qualification procedures are subject to the minimum requirements (Article 29 paragraph 3).
+
+#### Art. 44a
+
+**Title add-ons and simplified English translations**[^44a-1]
+
+<sup>1</sup>
+
+The title add-ons to professional qualifications are as follows:
+
+- a. ‘Professional Bachelor’, when the qualification is awarded via a federal professional examination or successful completion of a federally recognised study programme at a college of professional education;
+- b. ‘Professional Master’, when the qualification is awarded via an advanced federal professional examination.
+
+<sup>2</sup> They may only be used in combination with a legally protected qualification title in an official language of the Confederation or as part of a simplified English translation, as they appear in examination rules or in the core syllabus.
+
+<sup>3</sup>
+
+Simplified English translations of legally protected qualification titles are structured as follows:
+
+- a. in the case of federal professional examinations: title of the profession in English, followed by a comma and ‘Professional Bachelor’;
+- b. in the case of advanced federal professional examinations: title of the profession in English, followed by a comma and ‘Professional Master’;
+- c. in the case of study programmes at colleges of professional education: ‘Professional Bachelor in’, followed by the field of activity in English.
+
+[^44a-1]: Inserted by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## Chapter 6 Training of Professionals working within VPET system
 
@@ -671,7 +712,7 @@ The Confederation shall pay the remaining portion of funding to:
 
 - a. the Cantons and third parties so that they may carry out projects designed to develop and improve the quality of VET and professional education (Art. 54);
 - b. the Cantons and third parties so that they may carry out specific activities that serve the public interest (Art. 55);
-- c. third parties so that they may organise federal professional examinations, advanced federal professional examinations and other study programmes at professional education institutions (Art. 56);
+- c. third parties so that they may organise federal professional examinations, advanced federal professional examinations and other study programmes at colleges of professional education (Art. 56);
 - d.[^52-1] persons who have completed a preparatory course for a federal professional examination or advanced federal professional examination. (Art. 56*a*).
 
 [^52-1]: Inserted by No I of the FA of 16 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
@@ -696,7 +737,7 @@ Lump-sum funding shall be used for the following purpose:
   - 4\. branch courses or similar third-party training courses (Art. 23),
   - 5\. the preparatory course for the FVB Examination (Art. 25),
   - 6\. preparatory courses for a federal professional examination or an advanced federal professional examination (Art. 28),
-  - 7\. study programmes at professional education institutions (Art. 29),
+  - 7\. study programmes at colleges of professional education (Art. 29),
   - 8\. job-related CET (Art. 30–32),
   - 9\. training events for workplace trainers (Art. 45),
   - 10\. qualification of vocational, educational and career guidance counsellors (Art. 50);
@@ -738,9 +779,9 @@ Specific activities that serve the public interest include the following:
 
 #### Art. 56
 
-**Subsidies for federal professional examinations, advanced federal professional examinations; study programmes at professional education institutions**
+**Subsidies for federal professional examinations, advanced federal professional examinations; study programmes at colleges of professional education**
 
-The Confederation may provide subsidies to professional organisations wishing to conduct federal professional examinations, advanced federal professional examinations and study programmes at professional education institutions.
+The Confederation may provide subsidies to professional organisations wishing to conduct federal professional examinations, advanced federal professional examinations and study programmes at colleges of professional education.
 
 #### Art. 56a
 
@@ -814,7 +855,7 @@ For each multi-year subsidy period, the Federal Assembly shall issue a simple Fe
 
   the expenditure limits for:
 
-  - 1\. the subsidies referred to in Article 56 for organising federal professional examinations, advanced federal professional examinations and study programmes at professional education institutions,
+  - 1\. the subsidies referred to in Article 56 for organising federal professional examinations, advanced federal professional examinations and study programmes at colleges of professional education,
   - 2\. the subsidies referred to in Article 56*a* to persons who complete a preparatory course;
 
 - b.
@@ -908,6 +949,21 @@ Any person who:
 
 [^63-1]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
+#### Art. 63a
+
+**Prohibited use of the legally protected designation**[^63a-1]
+
+<sup>1</sup> If the legally protected designation ‘Höhere Fachschule’, ‘École supérieure’ or ‘Scuola specializzata superiore’ is intentionally used by a business establishment that does not offer a federally recognised study programme, then the natural person responsible for the said establishment shall be fined up to CHF 100,000.
+
+<sup>2</sup> Article 6 of the Federal Act of 22 March 1974[^63a-2] on Administrative Criminal Law shall apply to offences committed in the course of business activities.
+
+<sup>3</sup> If the fine considered does not exceed CHF 20,000 and if the corresponding amount does not justify the effort required to ascertain the natural person subject to the fine under paragraph 2, then punitive action against a natural person can be waived in favour of a decision to fine the legal person, general partnership, limited partnership, or sole proprietorship instead.
+
+<sup>4</sup> Paragraph 3 applies *mutatis mutandis* to groups of persons without legal personality.
+
+[^63a-1]: Inserted by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^63a-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
 #### Art. 64
 
 **Prosecution**
@@ -974,15 +1030,11 @@ The repeal and amendment of current legislation are regulated in the Annex.
 
 #### Art. 73
 
-**Transitional provisions**
+**Transitional provision**[^73-1]
 
-<sup>1</sup> The applicable cantonal and federal education ordinances must be amended or replaced within five years of commencement of this Act.
+Qualification titles awarded under the previous law shall retain their legally protected status.
 
-<sup>2</sup> Titles that are protected under current legislation shall remain protected.
-
-<sup>3</sup> The implementation of lump-sum funding mentioned in Article 53 paragraph 2 shall be phased in over a period of four years.
-
-<sup>4</sup> The Confederation shall gradually increase its subsidy over a period of four years until this subsidy reaches the level established in Article 59 paragraph 2.
+[^73-1]: Amended by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 73a
 
@@ -993,6 +1045,16 @@ The repeal and amendment of current legislation are regulated in the Annex.
 <sup>2</sup> The Federal Council may delegate this task to third parties. These may charge fees for their services. The Federal Council shall regulate the fees.
 
 [^73a-1]: Inserted by Annex No 3 of the FA of 16 Dec. 2022 on Promoting Training in the Nursing Profession, in force since 1 July 2024 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+
+#### Art. 73b
+
+**Transitional provisions to the Amendment of 19 December 2025**[^73b-1]
+
+<sup>1</sup> Continuing education and training at colleges of professional education that are not based on a core syllabus and were recognised before the Amendment of 19 December 2025 came into force shall continue to be recognised for a maximum of three years after its entry into force.
+
+<sup>2</sup> Continuing education and training at colleges of professional education that are based on a core syllabus and were recognised before the said amendment came into force shall continue to be recognised for a maximum of five years after its entry into force.
+
+[^73b-1]: Inserted by No I of the FA of 19 Dec. 2025, in force since 1 Oct. 2026 ([AS 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [BBl 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 74
 

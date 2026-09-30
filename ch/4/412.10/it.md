@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legg
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: it
-version: 2025-03-01
+version: 2026-10-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20250301-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20261001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20250301/it"
 
 (Legge sulla formazione professionale, LFPr)
 
-del 13 dicembre 2002 (Stato 1° marzo 2025)
+del 13 dicembre 2002 (Stato 1° ottobre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -415,14 +415,20 @@ La formazione professionale superiore viene acquisita mediante:
 
 <sup>1</sup> Gli esami federali di professione e gli esami professionali federali superiori presuppongono un’esperienza professionale e conoscenze specifiche nel settore interessato.
 
-<sup>2</sup> Le organizzazioni competenti del mondo del lavoro disciplinano le condizioni di ammissione, il programma d’insegnamento, le procedure di qualificazione, i certificati e i titoli. In tal senso tengono conto dei successivi cicli di formazione. Le prescrizioni devono essere approvate dalla SEFRI. Sono pubblicate nel Foglio federale mediante rimando secondo l’articolo 13 capoversi 1 lettera g e 3 della legge del 18 giugno 2004[^28-1] sulle pubblicazioni ufficiali.[^28-2]
+<sup>1bis</sup> Questi esami sono offerti nelle lingue ufficiali della Confederazione. In aggiunta, possono essere offerti anche in inglese.[^28-1]
+
+<sup>2</sup> Le organizzazioni del mondo del lavoro competenti disciplinano nei regolamenti d’esame le condizioni di ammissione, il programma d’insegnamento, le procedure di qualificazione, i certificati, i titoli, le traduzioni inglesi semplificate dei titoli e i titoli complementari. Nel farlo, tengono conto dei successivi cicli di formazione.[^28-2]
+
+<sup>2bis</sup> I regolamenti d’esame necessitano dell’approvazione della SEFRI. Sono pubblicati nel Foglio federale mediante rimando secondo l’articolo 13 capoversi 1 lettera g e 3 della legge del 18 giugno 2004[^28-3] sulle pubblicazioni ufficiali.[^28-4]
 
 <sup>3</sup> Il Consiglio federale disciplina i presupposti e la procedura d’approvazione.
 
 <sup>4</sup> I Cantoni possono proporre corsi preparatori.
 
-[^28-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
-[^28-2]: Per. introdotto dall’art. 21 n. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2005 ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+[^28-1]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-2]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^28-3]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
+[^28-4]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 29
 
@@ -432,14 +438,25 @@ La formazione professionale superiore viene acquisita mediante:
 
 <sup>2</sup> Inclusi i periodi di pratica, la formazione a tempo pieno dura almeno due anni; quella acquisita parallelamente all’esercizio di un’attività professionale, almeno tre.
 
-<sup>3</sup> In collaborazione con le organizzazioni competenti, il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^29-1] stabilisce le esigenze minime per il riconoscimento federale dei cicli di formazione e della formazione postdiploma[^29-2] dispensati da scuole specializzate superiori. Esse riguardano le condizioni d’ammissione, il programma d’insegnamento, le procedure di qualificazione, i certificati e i titoli.
+<sup>3</sup> In collaborazione con le organizzazioni competenti, il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) stabilisce le esigenze minime per il riconoscimento federale dei cicli di formazione dispensati dalle scuole specializzate superiori. Tali esigenze riguardano le condizioni d’ammissione, il programma d’insegnamento, le procedure di qualificazione, i certificati, i titoli, le traduzioni inglesi semplificate dei titoli e i titoli complementari.[^29-1]
+
+<sup>3bis</sup> Il DEFR stabilisce esigenze minime per l’offerta di formazione continua delle scuole specializzate superiori. Tali esigenze riguardano in particolare le condizioni d’ammissione, la durata e i titoli.[^29-2]
 
 <sup>4</sup> I Cantoni stessi possono proporre cicli di formazione.
 
-<sup>5</sup> Esercitano la vigilanza sulle scuole specializzate superiori, sempreché esse propongano cicli di formazione riconosciuti dalla Confederazione.
+<sup>5</sup> I Cantoni esercitano la vigilanza sulle scuole specializzate superiori.[^29-3]
 
-[^29-1]: Nuova espr. giusta la cifra I n. 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^29-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-2]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^29-3]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+
+#### Art. 29a
+
+**Diritto alla denominazione**[^29a-1]
+
+L’istituto di formazione che offre almeno un ciclo di formazione riconosciuto dalla Confederazione può affiancare al suo nome la denominazione «Scuola specializzata superiore», «Höhere Fachschule» o «École supérieure».
+
+[^29a-1]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## Capitolo 4: Formazione professionale continua
 
@@ -580,6 +597,29 @@ Unicamente i titolari di un diploma di formazione professionale di base e di for
 <sup>1</sup> Chi ha superato l’esame o ha seguito con successo una procedura di qualificazione equivalente di una scuola specializzata superiore riceve un diploma rilasciato dalla scuola.
 
 <sup>2</sup> La procedura d’esame e la procedura di qualificazione equivalente devono soddisfare le esigenze minime di cui all’articolo 29 capoverso 3.
+
+#### Art. 44a
+
+**Titoli complementari e traduzioni inglesi semplificate**[^44a-1]
+
+<sup>1</sup>
+
+I titoli complementari della formazione professionale superiore sono:
+
+- a. «Professional Bachelor» se il titolo è stato conseguito mediante un esame federale di professione o al termine di un ciclo di formazione di una scuola specializzata superiore riconosciuto dalla Confederazione;
+- b. «Professional Master» se il titolo è stato conseguito mediante un esame professionale federale superiore.
+
+<sup>2</sup> I titoli complementari possono essere utilizzati soltanto insieme a un titolo protetto della formazione professionale superiore coniato in una lingua ufficiale della Confederazione o come parte della traduzione inglese semplificata, così come riportati nel regolamento d’esame o nel programma quadro d’insegnamento.
+
+<sup>3</sup>
+
+Le traduzioni inglesi semplificate dei titoli protetti presentano la seguente struttura:
+
+- a. per gli esami federali di professione: denominazione professionale in inglese seguita da una virgola e da «Professional Bachelor»;
+- b. per gli esami professionali federali superiori: denominazione professionale in inglese seguita da una virgola e da «Professional Master»;
+- c. per i cicli di formazione delle scuole specializzate superiori: «Professional Bachelor in» seguito dalla denominazione professionale in inglese.
+
+[^44a-1]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 ## Capitolo 6: Formazione dei responsabili della formazione professionale
 
@@ -909,6 +949,21 @@ Le autorità di ricorso sono:
 
 [^63-1]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
+#### Art. 63a
+
+**Utilizzo illecito della denominazione**[^63a-1]
+
+<sup>1</sup> Chi, in qualità di responsabile di un’azienda che non offre cicli di formazione riconosciuti dalla Confederazione, si avvale intenzionalmente della denominazione «Scuola specializzata superiore», «Höhere Fachschule» o «École supérieure» è punito con una multa fino a 100 000 franchi.
+
+<sup>2</sup> Alle infrazioni commesse nell’azienda si applica l’articolo 6 della legge federale del 22 marzo 1974[^63a-2] sul diritto penale amministrativo.
+
+<sup>3</sup> Se la multa applicabile non supera i 20 000 franchi e se la determinazione delle persone punibili secondo il capoverso 2 esige provvedimenti d’inchiesta sproporzionati all’entità della pena, si può prescindere da un procedimento contro dette persone e, in loro vece, condannare al pagamento della multa la persona giuridica, la società in nome collettivo o in accomandita o la ditta individuale.
+
+<sup>4</sup> Il capoverso 3 si applica per analogia alle comunità di persone senza personalità giuridica.
+
+[^63a-1]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
+[^63a-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
 #### Art. 64
 
 **Procedimento penale**
@@ -975,15 +1030,11 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 #### Art. 73
 
-**Disposizioni transitorie**
+**Disposizione transitoria**[^73-1]
 
-<sup>1</sup> Le vigenti ordinanze cantonali e federali in materia di formazione professionale devono essere sostituite o adeguate entro cinque anni dall’entrata in vigore della presente legge.
+I titoli protetti conseguiti secondo il diritto previgente rimangono protetti.
 
-<sup>2</sup> I titoli protetti acquisiti conformemente al diritto previgente continuano ad essere tutelati.
-
-<sup>3</sup> Il passaggio ai contributi forfettari ai sensi dell’articolo 53 capoverso 2 avviene in modo progressivo entro quattro anni.
-
-<sup>4</sup> La partecipazione alle spese della Confederazione è adeguata progressivamente alla quota stabilita nell’articolo 59 capoverso 2 entro quattro anni.
+[^73-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 73a
 
@@ -994,6 +1045,16 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 <sup>2</sup> Il Consiglio federale può delegare questo compito a terzi. Questi ultimi possono riscuotere emolumenti per le loro prestazioni. Il Consiglio federale disciplina gli emolumenti.
 
 [^73a-1]: Introdotto dall’all. n. 3 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
+
+#### Art. 73b
+
+**Disposizioni transitorie della modifica del 19 dicembre 2025**[^73b-1]
+
+<sup>1</sup> Gli studi postdiploma delle scuole specializzate superiori che non si basano su un programma quadro d’insegnamento e sono stati riconosciuti prima dell’entrata in vigore della presente modifica sono considerati riconosciuti per tre anni al massimo dopo tale entrata in vigore.
+
+<sup>2</sup> Gli studi postdiploma delle scuole specializzate superiori che si basano su un programma quadro d’insegnamento e sono stati riconosciuti prima dell’entrata in vigore della presente modifica sono considerati riconosciuti per cinque anni al massimo dopo tale entrata in vigore.
+
+[^73b-1]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° ott. 2026 ([RU 2026 342](https://fedlex.data.admin.ch/eli/oc/2026/342); [FF 2025 1595](https://fedlex.data.admin.ch/eli/fga/2025/1595)).
 
 #### Art. 74
 
@@ -1026,6 +1087,6 @@ Gli atti legislativi seguenti sono modificati come segue:
 
 ...[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 all. n. 1; [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 2; [1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)I 2; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)cifra II n. 2]
+[^annexu1-lvlu1-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 all. n. 1; [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 2; [1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)I n. 2; [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)cifra II n. 2]
 [^annexu1-lvlu1-2]: [[RU 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674).
