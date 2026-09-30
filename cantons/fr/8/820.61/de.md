@@ -4,13 +4,12 @@ number: "820.61"
 title: Verordnung über die Neuordnung der Pflegefinanzierung
 short: NPFV
 language: de
-version: 2022-01-01
-valid_until: 2026-09-30
-version_adopted: 2022-06-14
+version: 2026-10-01
+version_adopted: 2026-08-25
 adopted: 2011-01-25
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/820.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/7504/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7504/pdf_file"
 
 (NPFV)
 
-vom 25.01.2011 (Fassung in Kraft getreten am 01.01.2022)
+vom 25.01.2011 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,9 +44,9 @@ beschliesst:
 
 <sup>3a</sup> Für die Pflegefachpersonen werden die Pflegekosten wie folgt festgesetzt (pro Stunde):
 
-- a) Abklärung, Beratung und Koordination: — Fr. 95.50
-- b) Untersuchung und Behandlung: — Fr. 78.50
-- c) Grundpflege: — Fr. 65.00
+- a) Abklärung, Beratung und Koordination: — Fr. 106.40
+- b) Untersuchung und Behandlung: — Fr. 92.10
+- c) Grundpflege: — Fr. 69.00
 
 <sup>4</sup> Die Direktion für Gesundheit und Soziales bestimmt die Bedingungen und Modalitäten der Fakturierung von Pflegekosten, die von der obligatorischen Krankenversicherung nicht übernommen werden.
 

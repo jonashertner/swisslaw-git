@@ -4,13 +4,12 @@ number: "820.61"
 title: Ordonnance sur le nouveau régime de financement des soins
 short: ORFS
 language: fr
-version: 2022-01-01
-valid_until: 2026-09-30
-version_adopted: 2022-06-14
+version: 2026-10-01
+version_adopted: 2026-08-25
 adopted: 2011-01-25
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/820.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7504/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8661/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7504/pdf_file"
 
 (ORFS)
 
-du 25.01.2011 (version entrée en vigueur le 01.01.2022)
+du 25.01.2011 (version entrée en vigueur le 01.10.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -45,9 +44,9 @@ Arrête:
 
 <sup>3a</sup> Pour les infirmiers et infirmières, les coûts des soins sont fixés comme il suit (par heure):
 
-- a) évaluation, conseils et coordination: — Fr. 95.50
-- b) examens et traitements: — Fr. 78.50
-- c) soins de base: — Fr. 65.00
+- a) évaluation, conseils et coordination: — Fr. 106.40
+- b) examens et traitements: — Fr. 92.10
+- c) soins de base: — Fr. 69.00
 
 <sup>4</sup> La Direction de la santé et des affaires sociales est compétente pour fixer les modalités et conditions de facturation des coûts non pris en charge par l'assurance obligatoire des soins.
 
