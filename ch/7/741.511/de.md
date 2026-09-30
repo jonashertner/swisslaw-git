@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrz
 short: TGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: de
-version: 2026-01-01
+version: 2026-10-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20261001/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20261001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20260101/de"
 
 (TGV)
 
-vom 19. Juni 1995 (Stand am 1. Januar 2026)
+vom 19. Juni 1995 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -804,7 +804,7 @@ Anhang 2[^t-2]
 
 ## Anerkannte Prüfstellen
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 455](https://fedlex.data.admin.ch/eli/oc/2026/455)).
 
 DTC Dynamic Test Center AG Route Principale 127 2537 Vauffelin
 
@@ -812,7 +812,7 @@ Fakt GmbH Grüntenstrasse 3–5 D-87751 Heimertingen
 
 Vertreten durch: FAKT AG Burstriet 11 9465 Salez
 
-Eidgenössisches Institut für Metrologie (METAS) Lindenweg 50 3084 Wabern
+Fakt S.r.l. Via Lithos 53 I-25086 Rezzato (BS)
 
 Berner Fachhochschule, Hochschule für Technik und Informatik Biel Automobiltechnische Abteilung Abgasprüfstelle Gwerdtstrasse 5 2560 Nidau
 

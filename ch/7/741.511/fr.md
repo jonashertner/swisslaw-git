@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 sur la réception par type des véhicules rout
 short: ORT
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: fr
-version: 2026-01-01
+version: 2026-10-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20260101/fr"
 
 (ORT)
 
-du 19 juin 1995 (État le 1<sup>er</sup> janvier 2026)
+du 19 juin 1995 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -811,7 +811,7 @@ Annexe 2[^t-2]
 
 ## Organes d’expertise reconnus
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 15 janv. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2026, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 455](https://fedlex.data.admin.ch/eli/oc/2026/455)).
 
 DTC Dynamic Test Center AG Route Principale 127 2537 Vauffelin
 
@@ -819,11 +819,11 @@ Fakt GmbH Grüntenstrasse 3–5 D-87751 Heimertingen
 
 Représenté par: FAKT AG Burstriet 11 9465 Salez
 
-Institut fédéral de métrologie (METAS) Lindenweg 50 3084 Wabern
+Fakt S.r.l. Via Lithos 53 I-25086 Rezzato (BS)
 
-Haute école spécialisée bernoise, Haute école technique et informatique, Bienne Section Technique automobile Laboratoire de gaz d’échappement Gwerdtstrasse 5 2560 Nidau
+Berner Fachhochschule, Hochschule für Technik und Informatik Biel Automobiltechnische Abteilung Abgasprüfstelle Gwerdtstrasse 5 2560 Nidau
 
-Association suisse pour la technique du soudage (ASS) St. Alban-Rheinweg 222 4052 Bâle
+Schweizerischer Verein für Schweisstechnik (SVS) St. Alban-Rheinweg 222 4052 Basel
 
 Swiss Safety Center AG Industry Services Richtistrasse 15 8304 Wallisellen
 

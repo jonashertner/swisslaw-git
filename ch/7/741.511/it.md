@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 concernente l'approvazione del tipo di veic
 short: OATV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: it
-version: 2026-01-01
+version: 2026-10-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20261001/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20261001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20260101/it"
 
 (OATV)
 
-del 19 giugno 1995 (Stato 1° gennaio 2026)
+del 19 giugno 1995 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -106,7 +106,7 @@ Per i veicoli viene rilasciata una scheda tecnica invece di un’approvazione de
 
 <sup>1</sup> I veicoli e i telai importati per uso proprio sono esonerati dall’approvazione del tipo.[^4-1]
 
-<sup>1bis</sup> ...[^4-2]
+<sup>1bis</sup> …[^4-2]
 
 <sup>2</sup> Sono esonerati dall’approvazione del tipo i veicoli per i quali è disponibile un certificato di conformità UE.[^4-3]
 
@@ -445,7 +445,7 @@ Le prescrizioni e i documenti relativi agli esami sono retti da:
 
 <sup>2</sup> Il richiedente è responsabile dello stato conforme alla serie e del funzionamento sicuro dell’oggetto esaminato e, ove lo esiga il modulo d’iscrizione, anche dell’ancoraggio sicuro del carico.
 
-<sup>3</sup> Veicoli, telai e sistemi di veicoli devono essere presentati da una persona che sia in grado di fornire informazioni sugli aspetti tecnici e sull’equipaggiamento dell’oggetto. ...[^20-1]
+<sup>3</sup> Veicoli, telai e sistemi di veicoli devono essere presentati da una persona che sia in grado di fornire informazioni sugli aspetti tecnici e sull’equipaggiamento dell’oggetto. …[^20-1]
 
 [^20-1]: Per. abrogato dalla cifra I dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
 
@@ -624,9 +624,9 @@ Se l’Ufficio federale constata che un tipo approvato non dà tutte le garanzie
 
 [^31c-1]: Introdotto dalla cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
-## Capitolo 4: ...
+## Capitolo 4: …
 
-#### Art. 32 a 42
+#### Art. 32–42
 
 [^3242-1]
 
@@ -646,7 +646,7 @@ Se l’Ufficio federale constata che un tipo approvato non dà tutte le garanzie
 
 #### Art. 44
 
-**...[^44-1]**
+**…[^44-1]**
 
 È punito con la multa, ove non siano applicabili disposizioni penali più severe:[^44-2]
 
@@ -808,7 +808,7 @@ Allegato 2[^t-2]
 
 ## Organi di controllo riconosciuti
 
-[^t-2]: Nuovo testo giusta la cifra II dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^t-2]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 455](https://fedlex.data.admin.ch/eli/oc/2026/455)).
 
 DTC Dynamic Test Center AG Route Principale 127 2537 Vauffelin
 
@@ -816,11 +816,11 @@ Fakt GmbH Grüntenstrasse 3–5 D-87751 Heimertingen
 
 Rappresentato da: FAKT AG Burstriet 11 9465 Salez
 
-Istituto federale di metrologia (METAS) Lindenweg 50 3084 Wabern
+Fakt S.r.l. Via Lithos 53 I-25086 Rezzato (BS)
 
 Berner Fachhochschule, Hochschule für Technik und Informatik Biel Automobiltechnische Abteilung Abgasprüfstelle Gwerdtstrasse 5 2560 Nidau
 
-Associazione svizzera per la tecnica della saldatura (ASTS) St. Alban-Rheinweg 222 4052 Basilea
+Associazione svizzera per la tecnica della saldatura (ASS) St. Alban-Rheinweg 222 4052 Basel
 
 Swiss Safety Center AG Industry Services Richtistrasse 15 8304 Wallisellen
 
