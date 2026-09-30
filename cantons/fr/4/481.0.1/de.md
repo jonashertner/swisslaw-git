@@ -1,33 +1,34 @@
 ---
 canton: FR
 number: "481.0.1"
-title: Gesetz über die kulturellen Institutionen des Staates
+title: Gesetz über die Kulturinstitutionen des Staates
 short: KISG
 language: de
-version: 2016-01-01
-valid_until: 2026-09-30
-version_adopted: 2015-09-10
+version: 2026-10-01
+version_adopted: 2026-02-12
 adopted: 2026-02-12
 in_force: 2026-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/481.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7191/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8682/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die kulturellen Institutionen des Staates
+# Gesetz über die Kulturinstitutionen des Staates
 
-Kulturelle Institutionen des Staates – G
+Kulturinstitutionen des Staates – G
 
 (KISG)
 
-vom 02.10.1991 (Fassung in Kraft getreten am 01.01.2016)
+vom 12.02.2026 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 24. Mai 1991 über die kulturellen Angelegenheiten;
+gestützt auf Artikel 79 der Verfassung des Kantons Freiburg vom 16. Mai 2004 Kanton Freiburg (KV);
 
-nach Einsicht in die Botschaft des Staatsrates vom 19. Februar 1990;
+gestützt auf das Gesetz vom 12. Februar 2026 über die Förderung kultureller Aktivitäten (FKAG);
+
+nach Einsicht in die Botschaft 2024-DFAC-10 des Staatsrates vom 15. April 2025;
 
 auf Antrag dieser Behörde,
 
@@ -39,390 +40,336 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz hat die Rechtsstellung, die Organisation, den Zweck und den Betrieb der kulturellen Institutionen des Staates zum Gegenstand.
+<sup>1</sup> Dieses Gesetz regelt die Rechtsstellung, den Auftrag, die Organisation und die Arbeitsweise der Kulturinstitutionen des Staates.
 
 #### Art. 2
 
-**Bestimmung der kulturellen Institutionen**
+**Allgemeines**
 
-<sup>1</sup> Die kulturellen Institutionen des Staates im Sinne dieses Gesetzes sind:
+<sup>1</sup> Die Kulturinstitutionen des Staates beteiligen sich an der kantonalen Aufgabe, das Kulturerbe zu bewahren und die Kultur im gesamten Kanton zu fördern.
 
-- a) das Staatsarchiv;
-- b) die Kantons- und Universitätsbibliothek;
-- c) das Konservatorium;
-- d) das Archäologische Museum;
-- e) das Museum für Kunst und Geschichte;
-- f) das Naturhistorische Museum;
-- g) die in Anwendung von Artikel 4 Abs. 2 errichteten Institutionen, denen die Rechtsstellung einer staatlichen Anstalt verliehen wird.
+<sup>2</sup> Sie stellen einen wesentlichen Teil des Engagements des Staates im Bereich der kulturellen Produktion, Ausbildung und Teilhabe sicher.
 
 #### Art. 3
 
-**Rechtsstellung**
+**Bezeichnung der Kulturinstitutionen des Staates**
 
-<sup>1</sup> Die kulturellen Institutionen des Staates (im folgenden: die Institutionen) haben die Stellung von staatlichen Anstalten ohne Rechtspersönlichkeit.
+<sup>1</sup> Die Kulturinstitutionen des Staates (Kulturinstitutionen) im Sinne dieses Gesetzes sind:
 
-<sup>2</sup> Sie stehen unter der Aufsicht des Staates. Mit Ausnahme des Staatsarchivs, dessen Tätigkeit in einem besonderen Gesetz geregelt wird, sind die Institutionen dem Amt unterstellt, das für die kulturellen Institutionen zuständig ist[^3-1].
+- a) das Staatsarchiv;
+- b) die Kantons- und Universitätsbibliothek;
+- c) das Konservatorium, Freiburger Schule für Musik, Tanz und Theater (Konservatorium);
+- d) das Museum für Kunst, Archäologie und Geschichte;
+- e) das Naturhistorische Museum;
+- f) die in Anwendung von Artikel 5 Abs. 2 geschaffenen Institutionen, denen die Rechtsstellung einer staatlichen Anstalt verliehen wird.
 
-[^3-1]: Heute: Amt für Kultur.
+<sup>2</sup> Das Staatsarchiv unterliegt einer besonderen Gesetzgebung. In diesem Gesetz gelten nur die Artikel 1 bis 7 für das Staatsarchiv.
 
 #### Art. 4
 
-**Andere kulturelle Institutionen**
+**Rechtsstellung**
 
-<sup>1</sup> Das Schloss Greyerz ist eine öffentlich-rechtliche Stiftung; diese untersteht den Bestimmungen des Errichtungsaktes.
+<sup>1</sup> Die Kulturinstitutionen haben die Stellung von staatlichen Anstalten ohne Rechtspersönlichkeit.
 
-<sup>2</sup> Der Staatsrat kann weitere kulturelle Institutionen errichten und ihnen die Stellung einer staatlichen Anstalt oder einer Stiftung oder eine andere geeignete Rechtsstellung verleihen.
+<sup>2</sup> Sie verfügen im Rahmen der Kulturstrategie des Staates über eine Teilautonomie in ihrer Organisation und in der Gestaltung des Kulturprogramms; die Bestimmungen in Kapitel 2 bleiben vorbehalten.
 
-<sup>3</sup> Er kann auch die Beteiligung des Staates an der Errichtung, an der Finanzierung oder an der Führung von durch Dritte gegründeten kulturellen Institutionen beschliessen.
+<sup>3</sup> Sie stehen unter der Aufsicht des Staates. Mit Ausnahme des Staatsarchivs sind die Kulturinstitutionen dem Amt unterstellt, das für die Kulturinstitutionen zuständig ist[^4-1].
+
+[^4-1]: Heute: Amt für Kultur
 
 #### Art. 5
 
-**Dienst für die Öffentlichkeit und kulturelle Veranstaltungen**
+**Weitere Kulturinstitutionen**
 
-<sup>1</sup> Zusätzlich zu ihren eigentlichen Aufgaben erbringen die Institutionen weitere Dienstleistungen für die Öffentlichkeit.
+<sup>1</sup> Das Schloss Greyerz ist eine öffentlich-rechtliche Stiftung, die den Bestimmungen der Stiftungsurkunde untersteht.
 
-<sup>2</sup> Zudem leisten sie, jede gemäss ihrem Hauptauftrag, durch Ausstellungen, Besuche, Forschungen, Veröffentlichungen, Konzerte, andere Veranstaltungen oder weitere, ihrem Zweck entsprechende, geeignete Mittel Beiträge zum kulturellen Leben.
+<sup>2</sup> Der Staatsrat kann weitere Kulturinstitutionen errichten und ihnen die Stellung einer staatlichen Anstalt oder einer Stiftung oder eine andere geeignete Rechtsstellung verleihen.
 
-## 2 Organisation
+<sup>3</sup> Er kann auch die Beteiligung des Staates an der Errichtung, an der Finanzierung oder an der Führung von durch Dritte, z. B. durch Kulturregionen im Sinne von Artikel 12 Abs. 3 FKAG, gegründeten Kulturinstitutionen von kantonalem Interesse beschliessen.
 
 #### Art. 6
 
-**Befugnisse des Staatsrates**
+**Gemeinsame Aufgaben – Allgemeines**
 
-<sup>1</sup> Der Staatsrat übt die Oberaufsicht über die Institutionen aus und erfüllt die weiteren Aufgaben, die ihm die Gesetze und die Reglemente übertragen.
+<sup>1</sup> Neben ihrem spezifischen Auftrag haben die Kulturinstitutionen die folgen-den gemeinsamen Aufgaben:
 
-<sup>2</sup> Er kann die Institutionen mit besonderen Aufgaben, die mit ihrem jeweiligen Zweck in Zusammenhang stehen, betrauen.
+- a) Sie tragen zur Kulturproduktion, zum Zugang zur Kultur und zur kulturellen Teilhabe (im Sinne von Art. 4 Abs. 2 Bst. b und c FKAG) sowie zum Schutz des Kulturerbes bei.
+- b) Sie bieten Räume, die der Bildung, der kulturellen und intellektuellen Entfaltung sowie dem sozialen Zusammenhalt förderlich sind.
+- c) Sie tragen zur kulturellen Ausstrahlung des Kantons bei.
+
+<sup>2</sup> Bei der Erfüllung ihres Auftrags achten sie auf die Einhaltung der sozialen, wirtschaftlichen und ökologischen Nachhaltigkeit im Sinne von Artikel 5 Abs. 3 Bst. d FKAG und insbesondere auf die Einhaltung angemessener Lohn- und Vorsorgebedingungen im Sinne von Artikel 6 Abs. 2 Bst. e FKAG, wenn sie Kulturakteurinnen und Kulturakteure anstellen oder mit anderen Kulturinstitutionen zusammenarbeiten.
+
+<sup>3</sup> Sie sorgen dafür, dass die Vielfalt kultureller Ausdrucksformen gefördert wird.
 
 #### Art. 7
 
-**Befugnisse der Direktion**
+**Gemeinsame Aufgaben – Zusammenarbeit**
 
-<sup>1</sup> Die Direktion, die für die Kultur zuständig ist[^7-1] (die Direktion), übt die folgenden Befugnisse aus:
+<sup>1</sup> Im Bereich der Zusammenarbeit stimmen sich die Kulturinstitutionen ab, um die folgenden gemeinsamen Aufgaben sicherzustellen:
 
-- a) Sie nimmt in Bezug auf die Institutionen die Aufgaben wahr, die ihr durch die Gesetze und Reglemente übertragen werden.
-- b) Sie erfüllt die Aufgaben, für die kein anderes Organ zuständig ist.
+- a) Gemeinsam mit den anderen zuständigen Verwaltungseinheiten des Staates koordinieren sie den Schutz des Freiburger Kulturerbes. Die für die Kultur zuständige Direktion[^7-1] (Direktion) kann gemeinsame Infrastrukturen, Leistungen und Arbeitsregeln vorsehen;
+- b) Sie arbeiten untereinander und mit Kulturinstitutionen von Dritten und zuständigen Ämtern zusammen. Sie tragen zu ihrer Vernetzung bei, insbesondere im Rahmen der Kulturregionen;
+- c) Sie tragen in Zusammenarbeit mit den Unterrichtsämtern und Bildungsinstitutionen zur Bereicherung der Ausbildung auf allen Stufen bei.
 
-[^7-1]: Heute: Direktion für Bildung und kulturelle Angelegenheiten.
-
-#### Art. 7a
-
-**Befugnisse des Amtes**
-
-<sup>1</sup> Das Amt, das für die kulturellen Institutionen zuständig ist[^7a-1] (das Amt), übt die folgenden Befugnisse aus:
-
-- a) Es übt die Aufsicht über die Institutionen aus und sorgt dafür, dass sie gemäss ihren Zielen geführt werden.
-- b) Es sorgt für die Koordination ihrer Tätigkeiten.
-- c) Es legt ihr allgemeines Tätigkeitsprogamm fest.
-- d) Es übt die weiteren Aufgaben aus, die ihm die Direktion zuweist.
-
-[^7a-1]: Heute: Amt für Kultur.
+[^7-1]: Heute: Direktion für Bildung und kulturelle Angelegenheiten
 
 #### Art. 8
 
-**Institutionsorgane**
+**Datenschutz**
 
-<sup>1</sup> Die Organe einer Institution sind der Direktor und die Kommission.
+<sup>1</sup> Kulturinstitutionen sind berechtigt, Personendaten zu bearbeiten, die sie zur Erfüllung ihrer Aufgaben nach diesem Gesetz benötigen.
+
+<sup>2</sup> Der Umfang dieser Daten sowie die Art und Weise der Bearbeitung werden in den Ausführungsbestimmungen der jeweiligen Institution festgelegt.
+
+## 2 Organisation
 
 #### Art. 9
 
-**Direktor**
+**Befugnisse des Staatsrats**
 
-<sup>1</sup> Der Direktor leitet die Institution und fördert ihre Entwicklung; insbesondere arbeitet er ihr allgemeines Tätigkeitsprogramm aus.
+<sup>1</sup> Der Staatsrat übt die Oberaufsicht über die Kulturinstitutionen aus und erfüllt die weiteren Aufgaben, die ihm die Gesetze und Reglemente übertragen.
 
-<sup>2</sup> Er untersteht der Gesetzgebung über das Staatspersonal und ist dem Amt unterstellt.
+<sup>2</sup> Er kann den Kulturinstitutionen besondere Aufgaben, die mit ihrem jeweiligen Auftrag in Zusammenhang stehen, übertragen.
 
 #### Art. 10
 
-**Kommission – Zusammensetzung**
+**Befugnisse der Direktion**
 
-<sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Zusammensetzung und den Betrieb der Kommission und ernennt ihren Präsidenten, den Vizepräsidenten und die übrigen Mitglieder.
+<sup>1</sup> Die Direktion übt die folgenden Befugnisse aus:
 
-<sup>2</sup> Der Dienstchef sowie der Direktor der Institution nehmen mit beratender Stimme an den Sitzungen teil. Die Kommission kann jedoch ohne den Direktor der Institution beraten, wenn der zu behandelnde Gegenstand diesen persönlich betrifft.
+- a) Sie nimmt bei den Kulturinstitutionen die Aufgaben wahr, die ihr die Gesetze und Reglemente übertragen.
+- b) Sie erfüllt die Aufgaben, für die kein anderes Organ zuständig ist.
 
 #### Art. 11
 
-**Kommission – Aufgabe**
+**Befugnisse des Amtes**
 
-<sup>1</sup> Die Kommission ist um einen guten Institutionsbetrieb besorgt und trägt zur Entwicklung der Institution bei.
+<sup>1</sup> Das Amt übt die folgenden Befugnisse aus:
 
-<sup>2</sup> Sie ist beratendes Organ der Direktion. Der Direktor der Institution kann sie ebenfalls zu Rate ziehen.
+- a) Es legt die allgemeine Governance fest, überwacht und koordiniert die Kulturinstitutionen und stellt sicher, dass sie gemäss ihrem Auftrag geführt werden;
+- b) Es genehmigt ihr allgemeines Tätigkeitsprogramm;
+- c) Es übt die weiteren Aufgaben aus, die ihm die Direktion zuweist.
 
 #### Art. 12
 
-**Kommission – Befugnisse**
+**Organe der Kulturinstitutionen**
 
-<sup>1</sup> Die Kommission äussert sich zu den wichtigen Fragen des Betriebs und der Entwicklung der Institution.
-
-<sup>2</sup> Der Staatsrat erlässt Bestimmungen über die weiteren Befugnisse jeder Kommission.
+<sup>1</sup> Jede Kulturinstitution hat eine Direktion und eine Kommission.
 
 #### Art. 13
 
-**Personal**
+**Direktion der Kulturinstitutionen**
 
-<sup>1</sup> Die Mitarbeiter der Institution unterstehen der Gesetzgebung über das Staatspersonal.
+<sup>1</sup> Die Direktion leitet und fördert die Institution; insbesondere erarbeitet sie ihr allgemeines Tätigkeitsprogramm.
+
+<sup>2</sup> Sie ist der Amtsvorsteherin oder dem Amtsvorsteher unterstellt.
 
 #### Art. 14
 
-**Benützung von Räumlichkeiten durch Dritte**
+**Kommission – Zusammensetzung**
 
-<sup>1</sup> Die Benützung von Räumlichkeiten und von Grundstücken durch Dritte kann gestattet werden, wenn der Institution dadurch kein Schaden entsteht.
+<sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Zusammensetzung und die Arbeitsweise der Kommission und ernennt deren Mitglieder, das Präsidium und das Vizepräsidium.
 
-<sup>2</sup> Der Direktor ist für die Erteilung der Bewilligung zuständig.
-
-<sup>3</sup> Die Bewilligung wird mit den Bedingungen und Auflagen verbunden, die im Interesse der Institution erforderlich sind.
+<sup>2</sup> Die Amtsvorsteherin oder der Amtsvorsteher und die Direktion der Kulturinstitution nehmen an den Sitzungen mit beratender Stimme teil. Die Kommission kann jedoch ohne die Direktion der Institution beraten, wenn der zu behandelnde Gegenstand sie persönlich betrifft.
 
 #### Art. 15
 
-**Gebühren**
+**Kommission – Auftrag**
 
-<sup>1</sup> Es können vom Staatsrat festzusetzende Gebühren erhoben werden für:
+<sup>1</sup> Die Kommission begleitet die Entwicklung der Kulturinstitution und unterstützt ihre gesellschaftliche Verankerung, ihre Zusammenarbeit mit Vereinen und ihre Ausstrahlung.
 
-- a) den Eintritt in die Museen;
-- b) die Gewährung von Dienstleistungen oder die Abgabe von Material an Besucher oder Benützer, mit Ausnahme der üblichen Konsultationen von Werken oder von Dokumenten;
-- c) die Benützung von Räumlichkeiten oder Grundstücken durch Dritte;
-- d) die Kurse und die Prüfungen des Konservatoriums.
+<sup>2</sup> Sie ist ein beratendes Organ der Direktion und des Amtes. Die Direktion der Institution kann sie ebenfalls zu Rate ziehen.
+
+<sup>3</sup> Die Kommission äussert sich zu den wichtigen Fragen des Betriebs und der Entwicklung der Kulturinstitution.
+
+<sup>4</sup> Der Staatsrat erlässt Bestimmungen über die weiteren Befugnisse jeder Kommission.
 
 #### Art. 16
 
-**Ausleihe, Hinterlegung, Tausch und Veräusserung**
+**Personal**
 
-<sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Ausleihe, die Hinterlegung, den Tausch und die Veräusserung von Gegenständen, Dokumenten und Sammlungen der Institutionen.
-
-<sup>2</sup> Er kann diese Geschäfte aus Gründen des Kulturgüterschutzes, des Persönlichkeitsschutzes, des Willens von Hinterlegern oder des Institutionsbetriebes einschränken oder verbieten.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sowie die Direktion der Kulturinstitution sind der Gesetzgebung über das Staatspersonal unterstellt.
 
 #### Art. 17
 
-**Fonds**
+**Gebühren**
 
-<sup>1</sup> Die Institutionen können durch Staatsratsbeschluss mit Fonds ausgestattet werden, die zur Entgegennahme von Geschenken, Vermächtnissen und andern Zuweisungen bestimmt sind.
-
-<sup>2</sup> Der Staatsrat regelt die Verwendung dieser Fonds.
+<sup>1</sup> Der Staatsrat bestimmt die Leistungen, für die Gebühren erhoben werden können, und legt die Grundsätze für die Festlegung ihrer Modalitäten und Höhe fest.
 
 #### Art. 18
 
-**Rechtsmittel**
+**Kulturgütersammlungen**
 
-<sup>1</sup> Gegen die Entscheide des Direktors einer Institution kann bei der Direktion Beschwerde eingereicht werden.
+<sup>1</sup> Die Kulturgütersammlungen der Kulturinstitutionen sind Eigentum des Staates Freiburg.
 
-<sup>2</sup> Gegen die Entscheide der Direktion kann Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege erhoben werden.
+<sup>2</sup> Der Staatsrat legt die Grundsätze fest, die für die Kulturgütersammlungen gelten, insbesondere für Verwaltung, Schenkungen, Leihgaben, Hinterlegungen, Tausch, Verkauf und Einsichtnahme.
 
-## 3 Zweck und Betrieb der Institutionen
-
-### 3.1 Staatsarchiv
+<sup>3</sup> Die Objekte der Kulturgütersammlungen sind unveräusserlich, vorbehaltlich der vom Staatsrat festgelegten Ausnahmen. Der Gewinn aus dem Verkauf oder Tausch eines Objekts kommt der Sammlung zugute, aus der das veräusserte Objekt stammt.
 
 #### Art. 19
 
-**…**
+**Fonds**
+
+<sup>1</sup> Die Kulturinstitutionen können durch Staatsratsbeschluss mit Fonds für die Entgegennahme von Geschenken, Vermächtnissen und anderen Zuweisungen ausgestattet werden.
+
+<sup>2</sup> Der Staatsrat regelt die Verwaltung und die Verwendung dieser Fonds.
+
+## 3 Auftrag und Betrieb der Kulturinstitutionen
+
+### 3.1 Kantons- und Universitätsbibliothek (KUB)
 
 #### Art. 20
 
-**…**
+**Auftrag**
+
+<sup>1</sup> Neben den gemeinsamen Aufgaben nach den Artikeln 6 und 7 erfüllt die Kantons- und Universitätsbibliothek (KUB) spezifische Aufträge im Dienst der Kantonsbevölkerung, der Universitätsgemeinschaft und des Freiburger Kulturerbes.
+
+<sup>2</sup> Der Auftrag der KUB im Dienst der Kantonsbevölkerung ist:
+
+- a) Dokumentationsressourcen auf allen Arten von Datenträgern, die für die Information, das lebenslange Lernen und die Kultur nützlich sind, zu beschaffen, zu bewahren und zugänglich zu machen;
+- b) zur Entwicklung von Informations- und digitalen Kompetenzen beizutragen;
+- c) den Zugang zu hochwertigen bibliothekswirtschaftlichen Diensten durch die Entwicklung einer koordinierten Strategie in einem kohärenten und effizienten Netzwerk zu fördern, insbesondere durch Unterstützung der Vernetzung der öffentlichen Bibliotheken und Schulbibliotheken in den Kulturregionen.
+
+<sup>3</sup> Der Auftrag der KUB im Dienst der Universitätsgemeinschaft ist:
+
+- a) Dokumentationsressourcen auf allen Arten von Datenträgern, die für die wissenschaftliche Ausbildung, Information und Forschung von Nutzen sind, zu beschaffen, zu bewahren und zugänglich zu machen;
+- b) zur öffentlichen Vermittlung von Wissenschaften und zur Unterstützung wissenschaftlicher Publikationen beizutragen.
+
+<sup>4</sup> Der Auftrag der KUB im Dienst des Freiburger Kulturerbes ist:
+
+- a) die Einhaltung der Vorschriften über die Pflichtabgabe sicherzustellen;
+- b) das dokumentarische Kulturerbe des Kantons auf allen Arten von Datenträgern, namentlich Manuskripte und Altdrucke, audiovisuelle Produktionen und Bestände aus privaten Archiven von kultureller, historischer und wissenschaftlicher Bedeutung, zu sammeln, zu bewahren, zu restaurieren, zu inventarisieren, zugänglich zu machen und zur Geltung zu bringen.
 
 #### Art. 21
 
-**…**
+**Beziehungen zur Universität – Organisatorische Modalitäten**
 
-### 3.2 Kantons- und Universitätsbibliothek
+<sup>1</sup> Die KUB besteht aus einer Zentralbibliothek mit allgemeiner Zweckbestimmung und spezialisierten Dokumentationszentren an der Universität (Dokumentationszentren).
+
+<sup>2</sup> Die Beziehungen zwischen der Zentrale und den Dokumentationszentren werden durch Bestimmungen geregelt, die vom Staatsrat und von der Universität gemäss ihren jeweiligen Zuständigkeiten auf Antrag der Kommission der KUB erlassen werden.
+
+<sup>3</sup> Eine Vereinbarung regelt die Beziehungen und die gegenseitigen Leistungen zwischen der Universität und der KUB.
+
+### 3.2 Konservatorium, Freiburger Schule für Musik, Tanz und Theater (KF)
 
 #### Art. 22
 
-**Zweck**
+**Auftrag**
 
-<sup>1</sup> Die Kantons- und Universitätsbibliothek (im folgenden: die Bibliothek) hat zum Zweck:
+<sup>1</sup> Neben den gemeinsamen Aufgaben nach den Artikeln 6 und 7 hat das Konservatorium, die Freiburger Schule für Musik, Tanz und Theater (das Konservatorium), folgenden spezifischen Auftrag:
 
-- a) Bücher, Zeitschriften und andere zur Aus- und Allgemeinbildung erforderliche Informationsträger zu erwerben, aufzubewahren und der Öffentlichkeit zugänglich zu machen;
-- b) Bücher, Zeitschriften und andere für den Hochschulunterricht und die wissenschaftliche Forschung erforderliche Informationsträger zu erwerben, aufzubewahren und den Mitgliedern der Universitätsgemeinschaft sowie der Öffentlichkeit zugänglich zu machen;
-- c) die Anwendung der Bestimmungen über die obligatorische Abgabe von für die Öffentlichkeit bestimmten Druckerzeugnissen und Aufnahmen sicherzustellen;
-- d) eine Freiburger Dokumentation zu erstellen und eine Bibliographie dazu zu führen;
-- e) Handschriften, die zum kulturellen Erbe des Kantons Freiburg gehören, zu erwerben, aufzubewahren, zu verzeichnen und der Öffentlichkeit zugänglich zu machen;
-- f) Bild- und Tondokumente von kultureller Bedeutung, die vom Staat, seinen Anstalten und ihren Diensten erstellt oder von Dritten abgegeben wurden, zu erwerben, aufzubewahren, zu verzeichnen und der Öffentlichkeit zugänglich zu machen;
-- g) sich für die Erhaltung privater Sammlungen von geschichtlicher und wissenschaftlicher Bedeutung einzusetzen;
-- h) für die Sicherheit, den Unterhalt und gegebenenfalls die Restauration ihrer Sammlungen zu sorgen;
-- i) zur Entwicklung des allgemeinen öffentlichen Bibliothekswesens im Kanton beizutragen.
+- a) den Unterricht in Vokal- und Instrumentalmusik, Tanz und Schauspiel von der Grundausbildung bis zur Amateur- oder Intensivausbildung und berufsvorbereitenden Ausbildung anzubieten;
+- b) durch die Entwicklung der künstlerischen Praxis und insbesondere durch die Zusammenarbeit mit der obligatorischen Schule, den Freiburger Dachverbänden und Kunstensembles zum Freiburger Kulturleben beizutragen.
 
 #### Art. 23
 
-**Konsultation von Dokumenten**
-
-<sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Konsultation von Dokumenten.
-
-<sup>2</sup> Er kann die unmittelbare Konsultation kostbarer Dokumente einschränken oder verbieten und die Konsultation gewisser Archivdokumente auf eine den Bedürfnissen angepasste Dauer, die aber hundert Jahre nicht übersteigen darf, aussetzen.
-
-<sup>3</sup> Die Aussetzung der Konsultation darf jedoch die Rechte, die sich aus der Gesetzgebung über die Information und den Zugang zu Dokumenten ergeben, nicht einschränken.
-
-#### Art. 24
-
-**Dezentralisation**
-
-<sup>1</sup> Die Bibliothek setzt sich aus einer Zentralbibliothek und aus dezentralisierten Bibliotheken an der Universität zusammen.
-
-<sup>2</sup> Die Bibliothek kann dezentralisierte Dienste anbieten.
-
-#### Art. 25
-
-**Beziehungen zur Universität – Grundsatz**
-
-<sup>1</sup> Bei ihrer Organisation und ihren Dienstleistungen berücksichtigt die Bibliothek die Bedürfnisse des Hochschulunterrichts und der wissenschaftlichen Forschung.
-
-#### Art. 26
-
-**Beziehungen zur Universität – Durchführung der Dezentralisation**
-
-<sup>1</sup> Die Dezentralisation muss die Identität der Bibliothek als Dokumentationszentrum von allgemeiner Ausrichtung wahren; sie berücksichtigt die jeweiligen Eigenheiten der dezentralisierten Bibliotheken.
-
-<sup>2</sup> Die Bibliotheken an der Universität werden auf eine beschränkte Anzahl Örtlichkeiten konzentriert.
-
-#### Art. 27
-
-**Beziehungen zur Universität – Führung der Bibliotheken an der Universität**
-
-<sup>1</sup> Alle Bibliotheken werden nach denselben vom Direktor der Bibliothek festgesetzten bibliothekarischen Grundsätzen geführt.
-
-<sup>2</sup> Die Werke der Bibliotheken an der Universität sind der Öffentlichkeit zugänglich, es sei denn, sie befinden sich auch in der Zentralbibliothek oder sie unterliegen einer in Anwendung des Artikels 16 oder des Artikels 23 getroffenen Massnahme.
-
-#### Art. 28
-
-**Beziehungen zur Universität – Reglement**
-
-<sup>1</sup> Im übrigen werden die Beziehungen zwischen der Zentralbibliothek und den Bibliotheken an der Universität durch Bestimmungen geregelt, die vom Staatsrat auf Antrag der Bibliothekskommission und der Universität erlassen werden.
-
-### 3.3 Konservatorium
-
-#### Art. 29
-
-**Zweck**
-
-<sup>1</sup> Das Konservatorium bietet Gesangs- und Instrumentalunterricht sowie Tanz- und Schauspielunterricht auf Amateurstufe und im Rahmen der berufsvorbereitenden Ausbildung an.
-
-#### Art. 30
-
-**Dezentralisation**
+**Dezentralisierung**
 
 <sup>1</sup> Der Unterricht des Konservatoriums erfolgt dezentral in jedem Bezirk.
 
-<sup>2</sup> Für die örtliche Organisation ist die Direktion zuständig. Sie entscheidet auf Antrag der Kommission.
+<sup>2</sup> Für die örtliche Organisation ist die Direktion zuständig. Sie entscheidet auf Antrag der Kommission des Konservatoriums.
 
-#### Art. 31
+#### Art. 24
 
 **Organisation**
 
-<sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Organisation des Konservatoriums. Er berücksichtigt dabei die Verschiedenartigkeit der Unterrichtsfächer und die örtliche Dezentralisation.
+<sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Organisation des Konservatoriums. Er berücksichtigt dabei die Verschiedenartigkeit der Unterrichtsfächer und die örtliche Dezentralisierung.
 
-#### Art. 32
+#### Art. 25
 
-**Studien**
+**Zulassungs-, Promotions- und Zertifizierungsmodalitäten**
 
-<sup>1</sup> Die Aufnahme der Schüler, die Beförderungen, die Prüfungen und die Aushändigung der Diplome werden durch vom Staatsrat zu erlassende Bestimmungen geregelt.
+<sup>1</sup> Der Staatsrat legt die Grundsätze für die Zulassung, die Lehrpläne sowie die Promotion und Zertifizierung fest.
 
-#### Art. 33
+<sup>2</sup> Die Umsetzung fällt in die Zuständigkeit der Direktion des Konservatoriums.
+
+#### Art. 26
 
 **Finanzierung**
 
-<sup>1</sup> Die Kosten des Konservatoriums werden je zur Hälfte vom Staat und von den Gemeinden getragen. Die Kosten für Schüler, welche ausserhalb des Kantons wohnen, trägt jedoch der Staat allein.
+<sup>1</sup> Die Kosten des Konservatoriums werden je zur Hälfte vom Staat und von den Gemeinden getragen. Die Kosten für Schülerinnen und Schüler, welche ausserhalb des Kantons wohnen, trägt jedoch der Staat allein.
 
-<sup>2</sup> Der Anteil jeder Gemeinde berechnet sich nach der Anzahl und der Dauer der Unterrichtseinheiten, die von den in der Gemeinde wohnhaften jungen Schülern belegt werden. Der Staatsrat bestimmt den Begriff der jungen Schüler.
+<sup>2</sup> Der Anteil jeder Gemeinde berechnet sich nach der Anzahl und der Dauer der Unterrichtseinheiten, die von den in der Gemeinde wohnhaften jungen Schülerinnen und Schülern belegt werden. Der Staatsrat bestimmt den Begriff der «jungen Schülerinnen und Schüler».
 
-<sup>3</sup> Die Betriebskosten der zur Verfügung gestellten Räumlichkeiten sind in den Kosten des Konservatoriums inbegriffen, wenn diese Räumlichkeiten besonders für den durch das Konservatorium erteilten Unterricht erstellt oder eingerichtet worden sind und ausschliesslich für diesen Unterricht bestimmt sind.
+<sup>3</sup> Der Staat und die Gemeinden stimmen sich ab, damit die Planung der für den Unterricht erforderlichen Ressourcen die Entwicklung des Bedarfs berücksichtigt. Über die vom Staat und den Gemeinden gemeinsam bereitgestellten Ressourcen hinaus können die Gemeinden, wenn sie dies wünschen, mit Zustimmung der Direktion die Anzahl der Unterrichtslektionen erhöhen. In diesem Fall müssen sie jedoch die anfallenden Kosten selber tragen.
 
-#### Art. 34
+<sup>4</sup> Die Betriebskosten der zur Verfügung gestellten Räumlichkeiten sind in den Kosten des Konservatoriums inbegriffen, wenn diese Räumlichkeiten eigens für den durch das Konservatorium erteilten Unterricht erstellt oder eingerichtet worden und ausschliesslich für diesen Unterricht bestimmt sind.
+
+#### Art. 27
 
 **Lehrpersonal – Dienstverhältnis**
 
-<sup>1</sup> Das Dienstverhältnis der Lehrer am Konservatorium untersteht den Bestimmungen, die für die Mittelschullehrer gelten. Die Artikel 35 bis 37 bleiben vorbehalten.
+<sup>1</sup> Das Dienstverhältnis der Lehrpersonen am Konservatorium untersteht den Bestimmungen, die für das Lehrpersonal der Sekundarstufe 2 gelten. Die Artikel 28 und 29 bleiben vorbehalten.
 
-#### Art. 35
+#### Art. 28
 
-**Lehrpersonal – Wirkung der Anstellung**
+**Lehrpersonal – Umfang der Anstellung**
 
-<sup>1</sup> Der angestellte Lehrer hat keinen Anspruch auf strikte Beibehaltung der im Vertrag festgesetzten Anzahl Unterrichtsstunden, wenn die Verminderung eine Folge der Abnahme der Zahl seiner Schüler ist. Die Direktion des Konservatoriums muss jedoch dafür sorgen, dass ihm vorrangig soweit möglich die neu für sein Fach angemeldeten Schüler zugeteilt werden.
+<sup>1</sup> Die Lektionen werden jeder Lehrperson von der Direktion des Konservatoriums in Absprache mit dem Fachdekanat und, soweit möglich, unter Berücksichtigung der Wahl der Schülerin oder des Schülers zugeteilt.
 
-<sup>2</sup> Nimmt die Schülerzahl während des Schuljahres ab (vorzeitige Austritte), so bildet die Anzahl der Unterrichtsstunden vor einem Austritt die Grundlage für das Gehalt, das während drei Monaten nach dem jeweiligen Austritt unverändert bleibt.
+<sup>2</sup> Die angestellte Lehrperson hat keinen Anspruch auf die strikte Beibehaltung der im Vertrag festgelegten Anzahl von Unterrichtslektionen, wenn die Reduzierung der Lektionen auf eine geringere Anzahl ihrer Schülerinnen und Schüler zurückzuführen ist. Die Direktion des Konservatoriums muss jedoch dafür sorgen, dass ihr soweit möglich vorrangig die neu für ihr Fach angemeldeten Schülerinnen und Schüler zugeteilt werden.
 
-#### Art. 36
+<sup>3</sup> Nimmt die Anzahl der Schülerinnen und Schüler während des Schuljahres ab (vorzeitige Austritte), so bildet die Anzahl der Unterrichtslektionen vor dem Austritt der Schülerin oder des Schülers die Grundlage für das Gehalt. Dieses Gehalt wird für einen Zeitraum von drei Monaten nach dem Austritt von Schülerinnen und Schülern nicht geändert.
 
-**Lehrpersonal – Stundenzuteilung**
-
-<sup>1</sup> Die Stunden werden jedem Lehrer vom Direktor zugeteilt, wobei den Wünschen der Schüler nach Möglichkeit Rechnung getragen wird.
-
-#### Art. 37
+#### Art. 29
 
 **Lehrpersonal – Rücktritt**
 
 <sup>1</sup> Der Rücktritt wird auf Ende des Schuljahres erklärt. Ein Rücktritt auf einen anderen Zeitpunkt kann eingereicht werden, wenn wichtige Gründe vorliegen oder die Parteien ihn vereinbaren.
 
-### 3.4 Archäologisches Museum
+### 3.3 Museum für Kunst, Archäologie und Geschichte (MAHF)
 
-#### Art. 38
+#### Art. 30
 
-**Zweck**
+**Auftrag**
 
-<sup>1</sup> Das Archäologische Museum hat zum Zweck:
+<sup>1</sup> Neben den gemeinsamen Aufgaben nach den Artikeln 6 und 7 hat das Museum für Kunst, Archäologie und Geschichte folgenden spezifischen Auftrag:
 
-- a) der Öffentlichkeit die Möglichkeit zu bieten, das archäologische Erbe des Kantons Freiburg kennenzulernen;
-- b) den Schülern und Studenten, den Mitgliedern des Lehrkörpers aller Stufen und den Forschern besondere Informations- und Forschungsmöglichkeiten zu bieten;
-- c) die Erstellung des Verzeichnisses seiner Sammlungen sicherzustellen und für deren Sicherheit, deren Unterhalt und gegebenenfalls deren Restauration zu sorgen;
-- d) an den Bestrebungen der Museen des Kantons, sich untereinander abzustimmen, mitzuwirken und gegebenenfalls zur Entwicklung derjenigen Museen des Kantons beizutragen, die einen gleichartigen Zweck verfolgen wie es selbst.
+- a) bewegliche Kulturgüter, insbesondere des kantonalen Kulturerbes, zu erhalten, zu dokumentieren und historisch und künstlerisch zu erforschen, für deren Sicherheit, Unterhalt und allenfalls Restaurierung zu sorgen;
+- b) seine Sammlungen durch den Erwerb von beweglichen Kulturgütern, insbesondere des Freiburger Kulturerbes, zu erweitern und deren physische und digitale Zugänglichkeit zu fördern;
+- c) die Sammlungen durch eine Dauerausstellung und durch Wechselausstellungen, kulturelle Aktivitäten und Veröffentlichungen zur Geltung zu bringen;
+- d) der Öffentlichkeit die Möglichkeit zu geben, die Geschichte des Kantons durch dessen künstlerisches, historisches und archäologisches Erbe und die vielfältigen Formen des zeitgenössischen Schaffens, insbesondere im Bereich der bildenden Kunst, kennenzulernen;
+- e) als Referenzzentrum für die beweglichen Güter des Kantons in den Bereichen Kunst und Geschichte sowie für das zeitgenössische Schaffen im Bereich der bildenden Kunst zu fungieren;
+- f) vielfältige Museumserfahrungen im Rahmen des Wissensaustauschs und der Kultur- und Wissenschaftsvermittlung anzubieten, die möglichst vielen zugänglich sind;
+- g) zur Vertiefung des Wissens in den Bereichen Kunst, Geschichte und Archäologie beizutragen, indem es sich in Netzwerke einbringt, die in diesen Bereichen auf lokaler, regionaler, kantonaler, nationaler und internationaler Ebene tätig sind;
+- h) zur Entwicklung der lokalen und regionalen Museen beizutragen sowie die Abstimmung und die Zusammenarbeit zwischen den Museen des Kantons zu begünstigen;
+- i) das zeitgenössische Kunstschaffen aufzuwerten, indem Freiburger Künstlerinnen und Künstlern besondere Ausstellungsmöglichkeiten geboten werden.
 
-### 3.5 Museum für Kunst und Geschichte
+### 3.4 Naturhistorisches Museum (NHMF)
 
-#### Art. 39
+#### Art. 31
 
-**Zweck**
+**Auftrag**
 
-<sup>1</sup> Das Museum für Kunst und Geschichte hat zum Zweck:
+<sup>1</sup> Neben den gemeinsamen Aufgaben nach den Artikeln 6 und 7 hat das Naturhistorische Museum folgenden spezifischen Auftrag:
 
-- a) der Öffentlichkeit die Möglichkeit zu bieten, das künstlerische und das geschichtliche Erbe des Kantons sowie die verschiedenen Formen ehemaligen und zeitgenössischen Schaffens im Bereiche der visuellen Künste kennenzulernen;
-- b) den Schülern und Studenten, den Mitgliedern des Lehrkörpers aller Stufen und den Forschern besondere Informations- und Forschungsmöglichkeiten zu bieten;
-- c) den Freiburger Künstlern besondere Ausstellungsmöglichkeiten zu bieten;
-- d) die Erstellung des Verzeichnisses seiner Sammlungen und derjenigen des Staates und seiner Anstalten sicherzustellen und für deren Sicherheit, deren Unterhalt und gegebenenfalls deren Restauration zu sorgen;
-- e) seine Sammlungen durch den Erwerb von Kulturgütern, namentlich von solchen, die zum kulturellen Erbe des Kantons Freiburg gehören, zu bereichern;
-- f) zur Entwicklung der regionalen Museen beizutragen und die Bestrebungen der Museen des Kantons, sich untereinander abzustimmen, zu fördern.
-
-#### Art. 40
-
-**Beziehungen zu den Ausstellern**
-
-<sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Beziehungen zwischen dem Museum und den Ausstellern. Er kann den Abschluss von Verträgen vorsehen.
-
-<sup>2</sup> Der Verkauf ausgestellter Werke kann gestattet werden. In diesem Falle kann das Museum vom Aussteller einen Beitrag an die Organisations- und Betriebskosten der Ausstellung erheben, der im Verhältnis zu den Einkünften aus dem Verkauf festgesetzt wird.
-
-### 3.6 Naturhistorisches Museum
-
-#### Art. 41
-
-**Zweck**
-
-<sup>1</sup> Das Naturhistorische Museum hat zum Zweck:
-
-- a) der Öffentlichkeit die Möglichkeit zu bieten, die Natur, insbesondere das dem Kanton von der Natur überlassene Erbe, im Lichte der Naturwissenschaften kennenzulernen;
-- b) den Schülern und Studenten, den Mitgliedern des Lehrkörpers aller Stufen und den Forschern besondere Informations- und Forschungsmöglichkeiten zu bieten.
-- c) die Erstellung des Verzeichnisses seiner Sammlungen, derjenigen der Institute der Mathematisch-Naturwissenschaftlichen Fakultät[^41-1] und der andern gleichartigen Sammlungen des Staates oder seiner Anstalten sicherzustellen und für die Sicherheit dieser Sammlungen, deren Unterhalt und gegebenenfalls deren Restauration zu sorgen;
-- d) seine Sammlungen durch den Erwerb von Gegenständen, namentlich von solchen, die zum Erbe der freiburgischen Natur gehören, zu bereichern;
-- e) für die Erstellung des Verzeichnisses der wissenschaftlichen Gegenstände und Geräte, die an den Anstalten des Staates für den Unterricht in naturwissenschaftlichen Fächern verwendet werden, zu sorgen und sie in seine Sammlungen aufzunehmen, wenn sie nicht mehr gebraucht werden und überdies von genügendem Interesse sind;
-- f) an den Bestrebungen der Museen des Kantons, sich untereinander abzustimmen, mitzuwirken und gegebenenfalls zur Entwicklung derjenigen Museen des Kantons beizutragen, die einen gleichartigen Zweck verfolgen wie es selbst.
-
-[^41-1]: Heute: Mathematisch-Naturwissenschaftliche und Medizinische Fakultät.
-
-#### Art. 42
-
-**Beziehungen zur Universität**
-
-<sup>1</sup> Die Beziehungen zwischen dem Museum und der Universität werden durch Bestimmungen geregelt, die vom Staatsrat auf Antrag der Museumskommission und der Universität erlassen werden.
+- a) naturkundliche Objekte, insbesondere des kantonalen Kulturerbes, aufzubereiten, zu erhalten, zu dokumentieren und zu erforschen, für deren Sicherheit, Unterhalt und allenfalls Restaurierung zu sorgen;
+- b) seine Sammlungen durch den Erwerb von naturkundlichen Objekten, insbesondere des Freiburger Naturerbes, zu erweitern und deren physische und digitale Zugänglichkeit zu fördern;
+- c) die Sammlungen durch eine Dauerausstellung und durch Wechselausstellungen, kulturelle Aktivitäten und Veröffentlichungen aufzuwerten;
+- d) der Öffentlichkeit die Möglichkeit zu geben, den Kanton durch sein Natur- und Landschaftserbe kennenzulernen und die Bevölkerung für die grossen Herausforderungen im Bereich der Naturwissenschaften zu sensibilisieren;
+- e) als Referenzzentrum für naturkundliche Objekte des Kantons, insbesondere für die Geo- und Biowissenschaften, zu fungieren;
+- f) vielfältige Museumserfahrungen im Rahmen des Wissensaustauschs und der Kultur- und Wissenschaftsvermittlung anzubieten, die möglichst vielen zugänglich sind;
+- g) zur Vertiefung des Wissens in den Bereichen Natur, Landschaft und Wissenschaft beizutragen, indem es sich in Netzwerke einbringt, die in diesen Bereichen auf lokaler, regionaler, kantonaler, nationaler und internationaler Ebene tätig sind;
+- h) zur Entwicklung der lokalen und regionalen Museen beizutragen und die Abstimmung und die Zusammenarbeit zwischen den Museen des Kantons zu begünstigen.
 
 ## 4 Schlussbestimmungen
 
-#### Art. 43
+#### Art. 32
 
-**Aufhebung**
+**Rechtsmittel**
 
-<sup>1</sup> Das Gesetz vom 17. Mai 1978 über das Konservatorium wird aufgehoben.
+<sup>1</sup> Gegen die Entscheide einer Kulturinstitution kann bei der Instanz, die den Entscheid getroffen hat, Einsprache erhoben werden.
 
-#### Art. 44
+<sup>2</sup> Gegen den Einspracheentscheid kann Beschwerde bei der Direktion eingelegt werden.
 
-**Vollzug und Inkrafttreten**
+<sup>3</sup> Gegen die Entscheide der Direktion kann Beschwerde gemäss dem Gesetz vom 23. Mai 1991 über die Verwaltungsrechtspflege erhoben werden (VRG)[^32-1].
 
-<sup>1</sup> Der Staatsrat wird mit dem Vollzug dieses Gesetzes beauftragt. Er bestimmt den Zeitpunkt des Inkrafttretens.[^44-1]
+[^32-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
-[^44-1]: Datum des Inkrafttretens: 1. Januar 1993 (StRB 04.02.1992).
+#### Art. 33
 
-BL/AGS 1991 f 528 / d 538
+**Aufsichtsbeschwerde**
+
+<sup>1</sup> Eine Aufsichtsbeschwerde gemäss Artikel 112 VRG kann bei der Amtsvorsteherin oder dem Amtsvorsteher eingereicht werden.
+
+2026\_013
