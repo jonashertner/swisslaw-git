@@ -4,13 +4,13 @@ number: "710.11"
 title: Ausführungsreglement zum Raumplanungs- und Baugesetz
 short: RPBR
 language: de
-version: 2024-03-01
-valid_until: 2026-09-30
-version_adopted: 2024-02-20
+version: 2026-10-01
+valid_until: 2026-10-31
+version_adopted: 2026-09-22
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8170/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8672/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz – R
 
 (RPBR)
 
-vom 01.12.2009 (Fassung in Kraft getreten am 01.03.2024)
+vom 01.12.2009 (Fassung in Kraft getreten am 01.10.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -635,13 +635,13 @@ beschliesst:
 
 **Prioritätenordnung des kantonalen Mehrwertfonds (Art. 113c RPBG)**
 
-<sup>1</sup> Der kantonale Mehrwertfonds dient in erster Linie dazu, die Finanzierung aller geschuldeten Entschädigungen wegen materieller Enteignung gemäss Artikel 113c Abs. 2 Bst. a RPBG höchstens bis zu den verfügbaren Beträgen zu decken.
+<sup>1</sup> Der kantonale Mehrwertfonds dient in erster Linie dazu, die Finanzierung aller geschuldeten Entschädigungen wegen materieller Enteignung sowie der Abbruchprämien gemäss Artikel 113c Abs. 2 Bst. a RPBG höchstens bis zu den verfügbaren Beträgen zu decken.
 
 <sup>2</sup> Objekte nach Artikel 113c Abs. 2 Bst. b–d RPBG können erst finanziell unterstützt werden, wenn die im Fonds kumulierten Beträge 20 Millionen Franken überstiegen haben.
 
 <sup>3</sup> Ab diesem Zeitpunkt werden die neu dem Fonds zugewiesenen Beträge wie folgt verteilt:
 
-- a) 60 % für die Finanzierung der geschuldeten Entschädigungen wegen materieller Enteignung;
+- a) 60 % für die Finanzierung der geschuldeten Entschädigungen wegen materieller Enteignung und der Abbruchprämien gemäss Artikel 113c Abs. 2 Bst. a RPBG;
 - b) 20 % für die Finanzierung der regionalen Richtpläne oder deren Revision, der Agglomerationsprogramme und der Studien gemäss Artikel 113c Abs. 2 Bst. b RPBG;
 - c) 10 % für die Finanzierung der Infrastrukturen gemäss Artikel 113c Abs. 2 Bst. c RPBG;
 - d) 10 % für die Finanzierung der weiteren Raumplanungsmassnahmen gemäss Artikel 113c Abs. 2 Bst. d RPBG.
@@ -703,6 +703,38 @@ beschliesst:
 <sup>4</sup> Beträge für Gesuche, die aufgrund einer ungenügenden Speisung des Fonds nicht finanziert werden können, werden bezahlt, sobald die verfügbaren Beträge es ermöglichen. Es wird kein Zins gezahlt.
 
 <sup>5</sup> Das Recht auf Bezahlung des Betrags, der vom Fonds an die Gemeinde geleistet werden muss, verjährt, zehn Jahre nachdem der Entscheid nach Absatz 1 rechtskräftig geworden ist.
+
+#### Art. 51dbis
+
+**Abbruchprämie (Art. 113cbis Abs. 3 RPBG) – Grundsätze**
+
+<sup>1</sup> Das Gesuch für den Erhalt einer Prämie muss dem Gesuch um Abbruchbewilligung für das betreffende Objekt beigelegt werden.
+
+<sup>2</sup> Die Kriterien für die Berechnung der Prämie sind in Anhang 4 festgelegt.
+
+<sup>3</sup> Der Betrag der Prämie bildet Gegenstand eines vorgängigen Entscheids, den die Direktion im Rahmen des Bewilligungsverfahrens fällt.
+
+<sup>4</sup> Die Prämie wird von der Direktion unter folgenden Bedingungen ausgerichtet:
+
+- a) die Fläche, auf der das Objekt stand, ist wieder unversiegelt, vorbehalten bleiben Fälle eines Wiederaufbaus zu landwirtschaftlichen oder touristischen Zwecken in Anwendung von Artikel 5a Abs. 1 des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung;
+- b) allfällige widerrechtliche Bauten und Anlagen auf der entsprechenden Parzelle, die von der Direktion im Rahmen ihres Entscheids gemäss Absatz 3 festgestellt worden sind, wurden von der Eigentümerschaft wiederhergestellt oder der Rechtmässigkeit zugeführt;
+- c) die Gemeinde hat die ordnungsgemässe Ausführung der Arbeiten auf der Grundlage des Übereinstimmungsnachweises (Art. 166 RPBG) sowie die Wiederherstellung allfälliger gemäss Buchstabe b festgestellter widerrechtlicher Bauten und Anlagen bestätigt.
+
+<sup>5</sup> Die Auszahlung der Prämien erfolgt in der Reihenfolge der Datierungen des Gemeindenachweises, welcher gemäss Absatz 4 Bst. c dem Amt vorgelegt wird.
+
+<sup>6</sup> Artikel 51d Abs. 4 ist anwendbar.
+
+#### Art. 51dter
+
+**Abbruchprämie (Art. 113cbis Abs. 3 RPBG) – Ausnahmen**
+
+<sup>1</sup> Die Auszahlung der Prämie ist nicht geschuldet für den Abbruch:
+
+- a) von zeitlich befristeten Bauten und Anlagen, einschliesslich solcher, die in einer Spezialzone gemäss Artikel 18 des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung bewilligt wurden;
+- b) von Gebäuden, deren Rohbau, einschliesslich der Dachdeckung, nicht fertiggestellt wurde;
+- c) von vollständig unterirdischen Bauten und Anlagen;
+- d) von Verkehrsinfrastrukturen;
+- e) von anderen Infrastrukturen und Anlagen von öffentlichem Interesse.
 
 #### Art. 51e
 

@@ -4,13 +4,13 @@ number: "710.11"
 title: "Règlement d'exécution de la loi sur l'aménagement du territoire et les constructions"
 short: ReLATeC
 language: fr
-version: 2024-03-01
-valid_until: 2026-09-30
-version_adopted: 2024-02-20
+version: 2026-10-01
+valid_until: 2026-10-31
+version_adopted: 2026-09-22
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8170/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8672/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – R
 
 (ReLATeC)
 
-du 01.12.2009 (version entrée en vigueur le 01.03.2024)
+du 01.12.2009 (version entrée en vigueur le 01.10.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -635,13 +635,13 @@ Arrête:
 
 **Ordre de priorité du Fonds cantonal (art. 113c LATeC)**
 
-<sup>1</sup> Le Fonds cantonal de la plus-value est destiné en premier lieu à couvrir le financement de l'intégralité des indemnités dues pour expropriation matérielle au sens de l'article 113c al. 2 let. a LATeC, à concurrence des montants disponibles.
+<sup>1</sup> Le Fonds cantonal de la plus-value est destiné en premier lieu à couvrir le financement de l'intégralité des indemnités dues pour expropriation matérielle ainsi que les primes de démolition au sens de l'article 113c al. 2 let. a LATeC, à concurrence des montants disponibles.
 
 <sup>2</sup> Les objets mentionnés à l'article 113c al. 2 let. b à d LATeC ne peuvent faire l'objet d'une aide financière qu'à partir du moment où les montants cumulés ayant été alloués au Fonds auront dépassé les 20 millions de francs.
 
 <sup>3</sup> Dès ce moment, les montants nouvellement affectés au Fonds sont répartis à raison de:
 
-- a) 60 % pour le financement des indemnités dues pour expropriation matérielle;
+- a) 60 % pour le financement des indemnités dues pour expropriation matérielle et les primes de démolition au sens de l'article 113c al. 2 let. a LATeC;
 - b) 20 % pour le financement des plans directeurs régionaux ou de leur révision, des projets d'agglomération ainsi que des études au sens de l'article 113c al. 2 let. b LATeC;
 - c) 10 % pour le financement des infrastructures au sens de l'article 113c al. 2 let. c LATeC;
 - d) 10 % pour le financement des autres mesures d'aménagement au sens de l'article 113c al. 2 let. d LATeC.
@@ -703,6 +703,38 @@ Arrête:
 <sup>4</sup> Les demandes qui ne peuvent pas être financées en raison d'une alimentation insuffisante du Fonds sont honorées dès que les montants disponibles le permettent. Il n'est pas payé d'intérêt.
 
 <sup>5</sup> Le droit au paiement du montant qui doit être versé par le Fonds à une commune se prescrit par dix ans à compter de l'entrée en force de la décision selon l'alinéa 1.
+
+#### Art. 51dbis
+
+**Prime de démolition (art. 113cbis al. 3 LATeC) – Principes**
+
+<sup>1</sup> La demande pour l'obtention d'une prime doit être jointe à la demande de permis de démolir portant sur l'objet correspondant.
+
+<sup>2</sup> Les critères pour le calcul de la prime sont fixés dans l'annexe 4.
+
+<sup>3</sup> Le montant de la prime fait l'objet d'une décision préalable rendue par la Direction dans le cadre de la procédure d'autorisation.
+
+<sup>4</sup> La prime est versée par la Direction aux conditions suivantes:
+
+- a) la surface sur laquelle était implantée l'objet est à nouveau perméable, les cas de reconstruction à des fins agricoles ou touristiques étant réservés en application de l'article 5a al. 1 de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire;
+- b) les éventuelles constructions et installations illicites sises sur la parcelle correspondante et identifiées par la Direction dans le cadre de sa décision selon l'alinéa 3, ont été remises en état par le ou la propriétaire ou mises en conformité;
+- c) la commune a attesté de la bonne exécution des travaux sur la base du certificat de conformité (art. 166 LATeC) ainsi que de la remise en état des éventuelles constructions et installations illicites identifiées selon la lettre b.
+
+<sup>5</sup> Le versement des primes s'effectue dans l'ordre des dates de l'attestation communale remise au Service au sens de l'alinéa 4 let. c.
+
+<sup>6</sup> L'article 51d al. 4 est applicable.
+
+#### Art. 51dter
+
+**Prime de démolition (art. 113cbis al. 3 LATeC) - Exceptions**
+
+<sup>1</sup> La prime n'est pas due pour la démolition:
+
+- a) de constructions et installations limitées dans le temps, y compris celles autorisées dans une zone spéciale au sens de l'article 18 de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire;
+- b) de bâtiments dont le gros œuvre, y compris la pose de la toiture, n'a pas été achevé;
+- c) de constructions et installations entièrement souterraines;
+- d) d'infrastructures de mobilité;
+- e) d'autres infrastructures et installations d'intérêt public.
 
 #### Art. 51e
 
