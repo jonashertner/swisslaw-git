@@ -4,11 +4,10 @@ number: "702.111"
 title: Verordnung über die Sachverständigenkommissionen gemäss § 216 PBG (VSVK)
 short: VSVK
 language: de
-version: "2016-05-01"
-nachtrag: "93"
-valid_until: 2026-10-01
+version: "2026-10-01"
+nachtrag: "134"
 adopted: 2005-01-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_111-2005_01_12-2005_03_01-093.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_111-2005_01_12-2005_03_01-134.html"
 text: pdf
 ---
 
@@ -52,43 +51,39 @@ Der Regierungsrat beschliesst:
 
 <sup>4</sup> Die Kommissionen verfügen über ein gemeinsames Sekretariat, das administrativ dem Generalsekretariat der Baudirektion zugeordnet ist.
 
-#### § 3
-
 **Aufgaben**
 
-<sup>1</sup> Die Kommissionen nehmen zu folgenden wichtigen Fragen des Natur- und Heimatschutzes von überkommunaler Bedeutung Stellung:
+§ 3.[^2-1] <sup>1</sup> Die Kommissionen nehmen zu folgenden wichtigen Fragen Stellung:
 
-- a. zu den Inventaren des Kantons,
+- a. zum Inventar der überkommunalen Ortsbilder,
 
-- b. zur Schutzwürdigkeit von überkommunalen Schutzobjekten,
+- b. zur Entlassung eines Objekts aus einem überkommunalen Inventar,
 
 - c. zur Schutzwürdigkeit neu entdeckter oder nicht erforschter Schutzobjekte von hoher archäologischer Bedeutung,
 
 **1**
 
-- 1\. 7. 16 - 93
-
-- d. zu Projekten des Kantons und der Gemeinden für grössere Bauten und Anlagen im Bereich von Schutzobjekten von überkommunaler Bedeutung.
+1.10. 26 - 134 d. zu Projekten des Kantons und der Gemeinden für grössere Bauten und Anlagen im Bereich von Inventar- und Schutzobjekten von überkommunaler Bedeutung, wenn eine erhebliche Beeinträchtigung des Objekts nicht ausgeschlossen werden kann oder sich grundsätzliche Fragen stellen.
 
 <sup>2</sup> Die Kommissionen können zu weiteren Fragen des Natur- und Heimatschutzes Stellung nehmen.
 
-#### § 4
+<sup>3</sup> Sie werden zu den übrigen überkommunalen Inventaren angehört.
 
 **Sachgebiete**
 
-<sup>1</sup> Die Kommissionen befassen sich namentlich mit folgenden Sachgebieten:
+§ 4.[^2-1] <sup>1</sup> Die Kommissionen befassen sich namentlich mit folgenden Sachgebieten:
 
 - a. Natur- und Heimatschutzkommission:
 
-- 1\. Beurteilung der Gestaltung und Einordnung von Bauten und Anlagen (Gebäude, Strassen, elektrische Leitungen, Wasserbauten usw.) gemäss § 238 des Planungs- und Baugesetzes (PBG)[^4-1],
+- 1\. Beurteilung der Gestaltung und Einordnung von Bauten und Anlagen (Gebäude, Strassen, elektrische Leitungen, Wasserbauten usw.) gemäss § 238 des Planungs- und Baugesetzes (PBG)[^2-2],
 
-- 2\. Behandlung von allgemeinen Fragen des Ortsbildschutzes gemäss § 23 Abs. 1 der Natur- und Heimatschutzverordnung (NHV)[^4-2],
+- 2\. Behandlung von allgemeinen Fragen des Ortsbildschutzes gemäss § 23 der Kantonalen Natur- und Heimatschutzverordnung (KNHV)[^2-3],
 
-- 3\. Behandlung von Fragen des Natur- und Landschaftsschutzes gemäss §§ 13 ff. und 19 ff. NHV[^4-2].
+- 3\. Behandlung von Fragen des Natur- und Landschaftsschutzes gemäss §§ 13 ff. und 19 ff. KNHV.
 
 - b. Denkmalpflegekommission:
 
-- 1\. Beurteilung von Fragen der Erhaltung, Instandstellung und Pflege von Objekten des Denkmalschutzes gemäss § 23 ff. NHV[^4-2], insbesondere Begutachtung der Schutzwürdigkeit,
+- 1\. Beurteilung von Fragen der Erhaltung, Instandstellung und Pflege von Objekten des Denkmalschutzes gemäss §§ 23 ff. KNHV, insbesondere Entlassungen von Schutzobjekten,
 
 - 2\. Stellungnahmen zuhanden der NHK bei Fragen des Ortsbildschutzes,
 
@@ -102,8 +97,9 @@ Behandlung von Fragen der Erhaltung, Wiederherstellung, Erforschung und Pflege v
 
 <sup>3</sup> Die Kommissionen orientieren sich über ihre Tätigkeiten gegenseitig, insbesondere durch Zustellung der Einladungen zu den Kommissionssitzungen und der Sitzungsprotokolle an die Vorsitzenden.
 
-[^4-1]: LS 700.1.
-[^4-2]: LS 702.11.
+[^2-1]: Fassung gemäss RRB vom 10. Juni 2026 (OS 81, 421; ABl 2026-06-26). In Kraft seit 1. Oktober 2026. 1.10. 26 - 134 5
+[^2-2]: LS 700.1.
+[^2-3]: LS 702.11.
 
 ### 2. Verfahren
 
@@ -111,9 +107,12 @@ Behandlung von Fragen der Erhaltung, Wiederherstellung, Erforschung und Pflege v
 
 § 5.[^h2Verfahren-1] <sup>1</sup> Die Direktionen des Regierungsrates, die Gemeinden und Dritte können um Erstattung einer Stellungnahme ersuchen. Gesuche sind der Baudirektion einzureichen.
 
-<sup>2</sup> Die Baudirektion entscheidet über das Gesuch und beauftragt die zuständige Kommission mit der Begutachtung.
+<sup>2</sup> Ob die Voraussetzungen für eine Stellungnahme gemäss § 3 Abs. 1 lit. c oder d erfüllt sind, beurteilt die zuständige Fachstelle der Baudirektion.[^h2Verfahren-2]
+
+<sup>3</sup> Die Baudirektion entscheidet über das Gesuch und beauftragt die zuständige Kommission mit der Begutachtung.
 
 [^h2Verfahren-1]: Fassung gemäss RRB vom 19. Juli 2006 (OS 61, 320; ABl 2006, 1062). In Kraft seit 15. Mai 2006.
+[^h2Verfahren-2]: Eingefügt durch RRB vom 10. Juni 2026 (OS 81, 421; ABl 2026-06-26). In Kraft seit 1. Oktober 2026.
 
 #### § 6
 
@@ -154,9 +153,7 @@ Die Kommissionsmitglieder werden nach § 55 der Vollzugsverordnung zum Personalg
 
 **3**
 
-- 1\. 7. 16 - 93
-
-- 3\. Kostendeckung
+1.10. 26 - 134 3. Kostendeckung
 
 **Grundsatz**
 
@@ -209,5 +206,5 @@ Die Kommissionsmitglieder werden nach § 55 der Vollzugsverordnung zum Personalg
 <sup>2</sup> Auf den gleichen Zeitpunkt wird das Reglement für die Sachverständigenkommissionen gemäss § 216 PBG[^11-1] vom 31. August 1977 aufgehoben.
 
 [^11-1]: LS 700.1.
-[^11-2]: Aufgehoben durch RRB vom 19. Januar 2016 (OS 71, 118; ABl 2016-01-29). In Kraft seit 1. Mai 2016. 1. 7. 16 - 93 5
+[^11-2]: Aufgehoben durch RRB vom 19. Januar 2016 (OS 71, 118; ABl 2016-01-29). In Kraft seit 1. Mai 2016.
 [^11-3]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 604; ABl 2011, 2320). In Kraft seit 1. November 2011.
