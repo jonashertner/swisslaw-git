@@ -3,11 +3,11 @@ sr: "361.4"
 title: Verordnung vom 15. Oktober 2008 über den Nationalen Polizeiindex (Polizeiindex-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: de
-version: 2024-01-01
+version: 2026-10-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20261001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20240101/de"
 
 (Polizeiindex-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2024)
+vom 15. Oktober 2008 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 17 Absatz 8 Buchstabe a und 19 des Bundesgesetzes vom 
 
 verordnet:
 
-[^ingress-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^ingress-1]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -54,7 +54,7 @@ Am Index angeschlossen sind die folgenden Informationssysteme:
 <sup>4</sup> Am Index können zudem die polizeilichen Informationssysteme der Kantone angeschlossen werden.
 
 [^2-1]: Fassung gemäss Anhang 3 Ziff. 3 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^2-2]: [SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^2-2]: [SR 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 
 #### Art. 3
 
@@ -109,7 +109,8 @@ Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten A
 - l. die Datenschutzberaterin, bzw. der Datenschutzberater fedpol;
 - m die Projektleiterin, bzw. der Projektleiter und die Systemadministratoren des vom Eidgenössischen Justiz- und Polizeidepartement beauftragten Informatik-Leistungserbringers für den technischen Unterhalt des Systems;
 - n.[^5-5] die Stelle von fedpol, die für die Erfüllung der Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020[^5-6] zuständig ist;
-- o.[^5-7] das Staatsekretariat für Migration zur Wahrnehmung seiner Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c* und 99 Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^5-8] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^5-9].
+- o.[^5-7] das Staatsekretariat für Migration zur Wahrnehmung der ihm übertragenen Aufgaben nach den Artikeln 5 Absatz 1 Buchstabe c, 98*c*, 99 und 108*c* Absatz 1 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^5-8] sowie nach den Artikeln 5*a*, 26 Absatz 2 und 53 Buchstabe b des Asylgesetzes vom 26. Juni 1998[^5-9];
+- p.[^5-10] das Eidgenössische Finanzdepartement zur Erfüllung der ihm obliegenden Aufgaben nach den Artikeln 35–39 des Bundesgesetzes vom 26. September 2025[^5-11] über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen (TJPG).
 
 <sup>2</sup>
 
@@ -121,14 +122,16 @@ Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten A
 <sup>3</sup> Die Zugriffsberechtigungen auf die Daten sind im Anhang geregelt.
 
 [^5-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^5-2]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^5-2]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 [^5-3]: Fassung gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen, in Kraft seit 1. April 2011 ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
-[^5-4]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-4]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^5-5]: Eingefügt durch Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^5-6]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^5-7]: Eingefügt durch Anhang 3 Ziff. 3 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^5-8]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^5-9]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^5-6]: [SR 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^5-7]: Eingefügt durch Anhang 3 Ziff. 3 der V vom 16. Aug. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Fassung gemäss Anhang 3 Ziff. 6 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^5-8]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^5-9]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^5-10]: Eingefügt durch Anhang Ziff. 5 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen, in Kraft seit 1. Okt. 2026 ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^5-11]: [SR 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 6
 
@@ -142,11 +145,11 @@ Die Aufbewahrungsdauer der Daten richtet sich:
 - d. für Daten aus dem Quellsystem N-SIS nach Artikel der 43–45 der N-SIS Verordnung vom 7. Mai 2008[^6-5];
 - e. für Daten aus den polizeilichen Informationssystemen der mitwirkenden Kantone nach dem anwendbaren kantonalen Recht.
 
-[^6-1]: [SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^6-1]: [SR 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 [^6-2]: Fassung gemäss Anhang 3 Ziff. 3 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^6-3]: [SR 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
-[^6-4]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^6-5]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute: die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^6-3]: [SR 360.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6302)
+[^6-4]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^6-5]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute: die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 #### Art. 7
 
@@ -158,10 +161,10 @@ Die Aufbewahrungsdauer der Daten richtet sich:
 
 <sup>3</sup> Die Ablieferung von Daten zur Archivierung aus den polizeilichen Informationssystemen der mitwirkenden Kantone richtet sich nach dem anwendbaren kantonalen Recht.
 
-[^7-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^7-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^7-2]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 [^7-3]: Fassung gemäss Anhang 2 Ziff. II 45 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^7-4]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute: die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^7-4]: [[AS 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)Anhang Ziff. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 18. [AS 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)Art. 57]. Siehe heute: die V vom 8. März 2013 ([SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 ## 3. Abschnitt: Datenschutz und Datensicherheit
 
@@ -183,12 +186,12 @@ Das Recht der im Index aufgeführten Personen auf Auskunft, Berichtigung oder Ve
 
 [^8-1]: Fassung gemäss Anhang 2 Ziff. II 45 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^8-2]: Fassung gemäss Anhang 3 Ziff. 3 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^8-3]: [SR 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
-[^8-4]: [SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^8-3]: [SR 360.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6302)
+[^8-4]: [SR 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 [^8-5]: Fassung gemäss Anhang 2 Ziff. II 45 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^8-6]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^8-6]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
 [^8-7]: Fassung gemäss Anhang 2 Ziff. II 45 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^8-8]: [SR 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^8-8]: [SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
 
 #### Art. 9
 
@@ -235,9 +238,9 @@ Für die Gewährleistung der Datensicherheit gelten:
 <sup>2</sup> Die angeschlossenen Stellen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
 [^12-1]: Fassung gemäss Anhang 2 Ziff. II 45 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^12-3]: Fassung gemäss Anhang 2 Ziff. II 21 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^12-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^12-5]: Fassung gemäss Anhang Ziff. 21 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
@@ -281,7 +284,7 @@ Anhang[^t-1]
 
 ## Zugriffsrechte auf den Nationalen Polizeiindex
 
-[^t-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), Anhang Ziff. 9 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), Ziff. II der V vom 21. Nov. 2018 ([AS 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) und Anhang 3 Ziff. 3 der V vom 16. Aug. 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^t-1]: Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Bereinigt gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen ([AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), Anhang Ziff. 9 der V über den ausserprozessualen Zeugenschutz vom 7. Nov. 2012 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), Ziff. II der V vom 21. Nov. 2018 ([AS 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)), Anhang 3 Ziff. 3 der V vom 16. Aug. 2023 ([AS 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)), Anhang Ziff. 5 der V vom 12. Juni 2026 über die Transparenz juristischer Personen und die Identifikation der wirtschaftlich berechtigten Personen ([AS 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)) und Anhang 3 Ziff. 6 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 X = Zugriff
 
@@ -414,20 +417,20 @@ leer = kein Zugriff
 ### Nachrichtendienst des Bundes
 
 <table>
-<tr><th></th><th>Personenidentifizierung</th><th>Eintragungsdatum</th><th>Eintragungsgrund</th><th colspan="2">Zuständige Behörde</th><th colspan="2">Informationsquelle</th></tr>
-<tr><td>Terrorismusabwehr</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Extremismusabwehr</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>ND / Spionageabwehr</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Non-Proliferation</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Bundeslagezentrum</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Beschaffung Inland</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>OPSEC und Sicherheit</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Querschnittssensoren</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Datenerfassung / Triage</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>OSINT</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Ausländerdienst</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>Auswertung / Analyse</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
-<tr><td>ComCenter</td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="2">X</td></tr>
+<tr><th></th><th>Personenidentifizierung</th><th>Eintragungsdatum</th><th>Eintragungsgrund</th><th>Zuständige Behörde</th><th>Informationsquelle</th></tr>
+<tr><td>Terrorismusabwehr</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Extremismusabwehr</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>ND / Spionageabwehr</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Non-Proliferation</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Bundeslagezentrum</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Beschaffung Inland</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>OPSEC und Sicherheit</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Querschnittssensoren</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Datenerfassung / Triage</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>OSINT</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Ausländerdienst</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Auswertung / Analyse</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>ComCenter</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
 ### Informatik-Leistungserbringer
@@ -451,6 +454,14 @@ leer = kein Zugriff
 
 <table>
 <tr><th></th><th>Personenidentifizierung</th><th>Eintragungsdatum</th><th>Eintragungsgrund</th><th>Zuständige Behörde</th><th>Informationsquelle</th></tr>
-<tr><td>Fachreferent/in Sicherheit</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Sektion Identifikation und Visumkonsultation</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><th>Fachreferent/in Sicherheit</th><th>X</th><th>X</th><th>X</th><th>X</th><th>X</th></tr>
+<tr><th>Sektion Identifikation und Visumkonsultation</th><th>X</th><th>X</th><th>X</th><th>X</th><th>X</th></tr>
+<tr><td>Nationale ETIAS-Stelle</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+</table>
+
+### Eidgenössisches Finanzdepartement
+
+<table>
+<tr><th></th><th>Personenidentifizierung</th><th>Eintragungsdatum</th><th>Eintragungsgrund</th><th>Zuständige Behörde</th><th>Informationsquelle</th></tr>
+<tr><td>Kontrollstelle nach Art. 39 TJPG</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>

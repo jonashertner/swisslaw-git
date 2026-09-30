@@ -3,18 +3,18 @@ sr: "361.4"
 title: "Ordonnance du 15 octobre 2008 sur l'index national de police"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: fr
-version: 2024-01-01
+version: 2026-10-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20261001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20261001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’index national de police
 
-du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2024)
+du 15 octobre 2008 (État le 1<sup>er</sup> octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 17, al. 8, let. a, et 19 de la loi fédérale du 13 juin 2008 sur le
 
 arrête:
 
-[^ingress-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^ingress-1]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 
 ## Section 1 Dispositions générales
 
@@ -52,7 +52,7 @@ Les systèmes d’information suivants sont raccordés à l’index:
 <sup>4</sup> Les systèmes d’information de police des cantons peuvent également être raccordés à l’index.
 
 [^2-1]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^2-2]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^2-2]: [RS 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 
 #### Art. 3
 
@@ -107,7 +107,8 @@ Les unités administratives suivantes de la Confédération disposent d’un acc
 - l. le conseiller à la protection des données de fedpol;
 - m. le chef de projet et les administrateurs système du fournisseur de prestations informatiques mandaté par le Département fédéral de justice et police (DFJP) pour la maintenance technique du système;
 - n.[^5-7] le service de fedpol chargé de l’accomplissement des tâches prévues par la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^5-8];
-- o.[^5-9] le Secrétariat d’État aux migrations, pour l’accomplissement de ses tâches en vertu des art. 5, al. 1, let. c, 98*c* et 99 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^5-10] et des art. 5*a*, 26, al. 2, et 53, let. b, de la loi du 26 juin 1998 sur l’asile[^5-11].
+- o.[^5-9] le Secrétariat d’État aux migrations, pour l’accomplissement des tâches qui lui sont dévolues en vertu des art. 5, al. 1, let. c, 98*c*, 99 et 108*c*, al. 1, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^5-10] et des art. 5*a*, 26, al. 2, et 53, let. b, de la loi du 26 juin 1998 sur l’asile[^5-11];
+- p.[^5-12] le Département fédéral des finances, pour l’accomplissement des tâches qui lui incombent en vertu des art. 35 à 39 de la loi du 26 septembre 2025 sur la transparence des personnes morales (LTPM)[^5-13].
 
 <sup>2</sup>
 
@@ -120,15 +121,17 @@ L’accès en ligne aux données désignées à l’art. 4 est également accord
 
 [^5-1]: Nouvelle teneur selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
 [^5-2]: Nouvelle teneur selon le l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^5-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^5-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
 [^5-5]: Nouvelle teneur selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
-[^5-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^5-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^5-7]: Introduite par l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^5-8]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
-[^5-9]: Introduite par l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^5-10]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^5-11]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^5-8]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^5-9]: Introduite par l’annexe 3 ch. 3 de l’O du 16 août 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)). Nouvelle teneur selon l’annexe 3 ch. 6 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^5-10]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^5-11]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^5-12]: Introduite par l’annexe ch. 5 de l’O du 12 juin 2026 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)).
+[^5-13]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 6
 
@@ -142,11 +145,11 @@ La durée de conservation des données découle:
 - d. pour les données issues du système-source N-SIS, des art. 43 à 45 de l’ordonnance N-SIS du 7 mai 2008[^6-5];
 - e. pour les données issues des systèmes d’information de police des cantons participants, du droit cantonal applicable.
 
-[^6-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^6-1]: [RS 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 [^6-2]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^6-3]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
-[^6-4]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^6-5]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^6-3]: [RS 360.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6302)
+[^6-4]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^6-5]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 #### Art. 7
 
@@ -158,10 +161,10 @@ La durée de conservation des données découle:
 
 <sup>3</sup> La remise pour archivage de données issues des systèmes d’information de police des cantons participants est régie par le droit cantonal applicable.
 
-[^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^7-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^7-2]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 [^7-3]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^7-4]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
+[^7-4]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)).
 
 ## Section 3 Protection et sécurité des données
 
@@ -183,12 +186,12 @@ Le droit des personnes inscrites dans l’index à obtenir des informations sur 
 
 [^8-1]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^8-2]: Nouvelle teneur selon l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
-[^8-3]: [RS 360.2](https://fedlex.data.admin.ch/eli/cc/2008/697)
-[^8-4]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^8-3]: [RS 360.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6302)
+[^8-4]: [RS 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 [^8-5]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^8-6]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
+[^8-6]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
 [^8-7]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^8-8]: [RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)
+[^8-8]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
 
 #### Art. 9
 
@@ -234,9 +237,9 @@ La sécurité des données est garantie par:
 <sup>2</sup> Les organes rattachés à l’index prennent les mesures nécessaires du point de vue organisationnel et technique, conformément aux dispositions de la législation sur la protection des données, pour empêcher les tiers non autorisés d’accéder aux données.
 
 [^12-1]: Nouvelle teneur selon l’annexe 2 ch. II 45 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^12-3]: Nouvelle teneur selon l’annexe 2 ch. II 21 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^12-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^12-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^12-5]: Nouvelle teneur selon l’annexe ch. 21 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
@@ -280,7 +283,7 @@ Annexe[^t-1]
 
 ## Droits d’accès à l’index national de police
 
-[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)) et l’annexe 3 ch. 3 de l’O du 16 août 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)), le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)), l’annexe 2 ch. 8 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)), l’annexe 3 ch. 3 de l’O du 16 août 2023 ([RO 2023 464](https://fedlex.data.admin.ch/eli/oc/2023/464)), l’annexe ch. 3 de l’O du 12 juin 2026 sur la transparence des personnes morales ([RO 2026 364](https://fedlex.data.admin.ch/eli/oc/2026/364)) et l’annexe 3 ch. 6 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 
 X = accès
 
@@ -449,7 +452,15 @@ vide = pas d’accès
 ### Secrétariat d’État aux migrations
 
 <table>
-<tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
+<tr><th></th><th>Identifica- tion de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
 <tr><td>Conseiller spécialisé sécurité</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Section Identification et consultation des visas</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Unité nationale ETIAS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+</table>
+
+### Département fédéral des finances
+
+<table>
+<tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
+<tr><td>Autorité de contrôle au sens de l’art. 39 LTPM</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
