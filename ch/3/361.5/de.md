@@ -4,11 +4,11 @@ title: Verordnung vom 6. Mai 2026 über die Interoperabilität zwischen den Sche
 short: IOSDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/222"
 language: de
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2026-05-06
 in_force: 2026-06-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/222/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2026-222-20260612-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/222/20260612/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/222/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2026-222-20261001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/222/20261001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/222/20260612/de"
 
 (IOSDV)
 
-vom 6. Mai 2026 (Stand am 12. Juni 2026)
+vom 6. Mai 2026 (Stand am 1. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -247,12 +247,15 @@ Sind die Voraussetzungen nach Artikel 22 Absatz 1 der Verordnung (EU) 2019/817[^
 Die Voraussetzungen für den vollständigen Zugang zu den Daten der zugrundeliegenden Informationssysteme richten sich nach:
 
 - a. den Artikeln 11 und 12 der Verordnung vom 10. November 2021[^14-1] über das Einreise- und Ausreisesystem (EESV);
-- b. den Artikeln 19 und 20 der Visa-Informationssystem-Verordnung vom 18. Dezember 2013[^14-2] (VISV).
+- b. den Artikeln 19 und 20 der Visa-Informationssystem-Verordnung vom 18. Dezember 2013[^14-2] (VISV);
+- c.[^14-3] Artikel 7 der Verordnung vom 26. August 2026[^14-4] über das europäische und das nationale Reiseinformations- und -genehmigungssystem (ETIASV).
 
 <sup>3</sup> Sind die Voraussetzungen erfüllt, stellt die EAZ fedpol der antragstellenden Behörde die Daten zur Verfügung.
 
 [^14-1]: [SR 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 [^14-2]: [SR 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
+[^14-3]: Eingefügt durch Anhang 3 Ziff. 7 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^14-4]: [SR 142.207](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40462)
 
 #### Art. 15
 
@@ -269,15 +272,16 @@ Das SEM protokolliert jede Abfrage von Daten im CIR. Das Protokoll muss folgende
 - a. die abfragende Person und deren eindeutige Benutzernummer;
 - b. die abfragende Behörde;
 - c. der Zweck der Abfrage;
-- d. die abgefragten Schengen/Dublin-Informationssysteme;
+- d.[^16-1] …
 - e. das Datum und die Uhrzeit der Abfrage;
-- f. bei Abfragen nach Artikel 20 der Verordnung (EU) 2019/817[^16-1] und Artikel 20 der Verordnung (EU) 2019/818[^16-2]: die Art der für die Abfrage verwendeten Daten;
+- f. bei Abfragen nach Artikel 20 der Verordnung (EU) 2019/817[^16-2] und Artikel 20 der Verordnung (EU) 2019/818[^16-3]: die Art der für die Abfrage verwendeten Daten;
 - g. bei Abfragen nach Artikel 22 der Verordnung (EU) 2019/817 und Artikel 22 der Verordnung (EU) 2019/818: die für die Abfrage verwendeten Daten;
 - h. die Abfrageergebnisse;
 - i. das nationale Aktenzeichen und das nationale polizeiliche Informationssystem, in dem das Aktenzeichen verwendet wird.
 
-[^16-1]: Siehe Fussnote zu Art. 1.
+[^16-1]: Aufgehoben durch Anhang 3 Ziff. 7 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, mit Wirkung seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 [^16-2]: Siehe Fussnote zu Art. 1.
+[^16-3]: Siehe Fussnote zu Art. 1.
 
 ## 4. Abschnitt: Europäisches Suchportal (ESP)
 
@@ -293,15 +297,18 @@ Die Rechte der Behörden zur Abfrage über das ESP richten sich nach:
 
 - a. Artikel 10 EESV[^17-1];
 - b. Artikel 11 VISV[^17-2];
-- c. Artikel 7 der N-SIS-Verordnung vom 8. März 2013[^17-3].
+- c. Artikel 7 der N-SIS-Verordnung vom 8. März 2013[^17-3];
+- d.[^17-4] Artikel 6 ETIASV[^17-5].
 
-<sup>2</sup> Die Nutzung des ESP richtet sich nach den Artikeln 7 und 9 der Verordnung (EU) 2019/817[^17-4] und den Artikeln 7 und 9 der Verordnung (EU) 2019/818[^17-5].
+<sup>2</sup> Die Nutzung des ESP richtet sich nach den Artikeln 7 und 9 der Verordnung (EU) 2019/817[^17-6] und den Artikeln 7 und 9 der Verordnung (EU) 2019/818[^17-7].
 
 [^17-1]: [SR 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 [^17-2]: [SR 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 [^17-3]: [SR 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
-[^17-4]: Siehe Fussnote zu Art. 1.
-[^17-5]: Siehe Fussnote zu Art. 1.
+[^17-4]: Eingefügt durch Anhang 3 Ziff. 7 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-5]: [SR 142.207](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40462)
+[^17-6]: Siehe Fussnote zu Art. 1.
+[^17-7]: Siehe Fussnote zu Art. 1.
 
 #### Art. 18
 
@@ -359,7 +366,8 @@ Das Recht der in den Schengen/Dublin-Informationssystemen aufgeführten Personen
 - a. bei Einträgen aus dem N-SIS: nach den Artikeln 50 und 51 der N‑SIS-Verordnung vom 8. März 2013[^21-1];
 - b. bei Einträgen aus dem C-VIS: nach Artikel 31 VISV[^21-2];
 - c. bei Einträgen aus dem EES: nach den Artikeln 18 und 19 EESV[^21-3];
-- d. bei Einträgen aus Eurodac: nach Artikel 11*a* der Asylverordnung 3 vom 11. August 1999[^21-4]*.*
+- d. bei Einträgen aus Eurodac: nach Artikel 11*a* der Asylverordnung 3 vom 11. August 1999[^21-4];
+- e.[^21-5] Artikel 22 ETIASV[^21-6] betreffend Dateneingaben im ETIAS.
 
 <sup>2</sup> Gesuche um Auskunft, Berichtigung oder Löschung von Daten im CIR sind schriftlich an das SEM zu richten.
 
@@ -369,6 +377,8 @@ Das Recht der in den Schengen/Dublin-Informationssystemen aufgeführten Personen
 [^21-2]: [SR 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 [^21-3]: [SR 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 [^21-4]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^21-5]: Eingefügt durch Anhang 3 Ziff. 7 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^21-6]: [SR 142.207](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40462)
 
 ## 6. Abschnitt: Inkrafttreten
 

@@ -4,11 +4,11 @@ title: Ordinanza del 6 maggio 2026 sull’interoperabilità tra i sistemi d’in
 short: O-IOSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2026/222"
 language: it
-version: 2026-06-12
+version: 2026-10-01
 adopted: 2026-05-06
 in_force: 2026-06-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/222/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2026-222-20260612-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2026/222/20260612/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2026/222/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2026-222-20261001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2026/222/20261001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2026/222/20260612/it"
 
 (O-IOSD)
 
-del 6 maggio 2026 (Stato 12 giugno 2026)
+del 6 maggio 2026 (Stato 1° ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -247,12 +247,15 @@ Se le condizioni di cui all’articolo 22 paragrafo 1 dei regolamenti (UE) 2019/
 Le condizioni per l’accesso completo ai dati dei sistemi d’informazione sottostanti sono rette:
 
 - a. dagli articoli 11 e 12 dell’ordinanza del 10 novembre 2021[^14-1] sul sistema di ingressi/uscite (OEES);
-- b. dagli articoli 19 e 20 dell’ordinanza VIS del 18 dicembre 2013[^14-2] (OVIS).
+- b. dagli articoli 19 e 20 dell’ordinanza VIS del 18 dicembre 2013[^14-2] (OVIS);
+- c.[^14-3] dall’articolo 7 dell’ordinanza del 26 agosto 2026[^14-4] sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi (OETIAS).
 
 <sup>3</sup> Se le condizioni sono adempiute, la COA fedpol mette i dati a disposizione dell’autorità richiedente.
 
 [^14-1]: [RS 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 [^14-2]: [RS 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
+[^14-3]: Introdotta dall’all. 3 n. 7 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^14-4]: [RS 142.207](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40462)
 
 #### Art. 15
 
@@ -269,15 +272,16 @@ La SEM verbalizza ogni consultazione di dati nel CIR. Il verbale deve contenere 
 - a. la persona che ha effettuato la consultazione e il suo numero utente univoco;
 - b. l’autorità che ha effettuato la consultazione;
 - c. lo scopo della consultazione;
-- d. i sistemi d’informazione Schengen/Dublino consultati;
+- d.[^16-1] …
 - e. la data e l’ora della consultazione;
-- f. per le consultazioni secondo l’articolo 20 dei regolamenti (UE) 2019/817[^16-1] e (UE) 2019/818[^16-2]: il tipo di dati usati per effettuare la consultazione;
+- f. per le consultazioni secondo l’articolo 20 dei regolamenti (UE) 2019/817[^16-2] e (UE) 2019/818[^16-3]: il tipo di dati usati per effettuare la consultazione;
 - g. per le consultazioni secondo l’articolo 22 dei regolamenti (UE) 2019/817 e (UE) 2019/818: i dati usati per effettuare la consultazione;
 - h. i risultati della consultazione;
 - i. il numero di incarto nazionale e il sistema d’informazione nazionale di polizia nel quale è usato tale numero.
 
-[^16-1]: Cfr. nota a piè di pagina relativa all’art. 1.
+[^16-1]: Abrogata dall’all. 3 n. 7 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, con effetto dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
 [^16-2]: Cfr. nota a piè di pagina relativa all’art. 1.
+[^16-3]: Cfr. nota a piè di pagina relativa all’art. 1.
 
 ## Sezione 4: Portale di ricerca europeo (ESP)
 
@@ -293,15 +297,18 @@ I diritti di consultazione delle autorità tramite l’ESP sono retti:
 
 - a. dall’articolo 10 OEES[^17-1];
 - b. dall’articolo 11 OVIS[^17-2];
-- c. dall’articolo 7 dell’ordinanza N-SIS dell’8 marzo 2013[^17-3].
+- c. dall’articolo 7 dell’ordinanza N-SIS dell’8 marzo 2013[^17-3];
+- d.[^17-4] dall’articolo 6 OETIAS[^17-5].
 
-<sup>2</sup> L’uso dell’ESP è retto dagli articoli 7 e 9 dei regolamenti (UE) 2019/817[^17-4] e (UE) 2019/818[^17-5].
+<sup>2</sup> L’uso dell’ESP è retto dagli articoli 7 e 9 dei regolamenti (UE) 2019/817[^17-6] e (UE) 2019/818[^17-7].
 
 [^17-1]: [RS 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 [^17-2]: [RS 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 [^17-3]: [RS 362.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6314)
-[^17-4]: Cfr. nota a piè di pagina relativa all’art. 1.
-[^17-5]: Cfr. nota a piè di pagina relativa all’art. 1.
+[^17-4]: Introdotta dall’all. 3 n. 7 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^17-5]: [RS 142.207](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40462)
+[^17-6]: Cfr. nota a piè di pagina relativa all’art. 1.
+[^17-7]: Cfr. nota a piè di pagina relativa all’art. 1.
 
 #### Art. 18
 
@@ -359,7 +366,8 @@ Il diritto delle persone registrate nei sistemi d’informazione Schengen/Dublin
 - a. per le registrazioni nell’N-SIS: dagli articoli 50–51 dell’ordinanza N‑SIS[^21-1];
 - b. per le registrazioni nel C-VIS: dall’articolo 31 OVIS[^21-2];
 - c. per le registrazioni nell’EES: dagli articoli 18 e 19 OEES[^21-3];
-- d. per le registrazioni nell’Eurodac: dall’articolo 11*a* dell’ordinanza 3 dell’11 agosto 1999[^21-4] sull’asilo.
+- d. per le registrazioni nell’Eurodac: dall’articolo 11*a* dell’ordinanza 3 dell’11 agosto 1999[^21-4] sull’asilo;
+- e.[^21-5] per le registrazioni nell’ETIAS: dall’articolo 22 OETIAS[^21-6].
 
 <sup>2</sup> Le richieste di accesso, rettifica o cancellazione di dati nel CIR devono essere presentate per iscritto alla SEM.
 
@@ -369,6 +377,8 @@ Il diritto delle persone registrate nei sistemi d’informazione Schengen/Dublin
 [^21-2]: [RS 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 [^21-3]: [RS 142.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30009)
 [^21-4]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^21-5]: Introdotta dall’all. 3 n. 7 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^21-6]: [RS 142.207](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40462)
 
 ## Sezione 6: Entrata in vigore
 
