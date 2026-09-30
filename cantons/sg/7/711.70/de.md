@@ -4,13 +4,12 @@ number: "711.70"
 title: Gesetz über die Strassenverkehrsabgaben
 short: SVAG
 language: de
-version: 2026-01-01
-valid_until: 2026-09-30
-version_adopted: 2025-01-28
+version: 2026-10-01
+version_adopted: 2026-08-04
 adopted: 1978-01-05
 in_force: 1979-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/711.70"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3759/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3936/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3759/pdf_file"
 
 (SVAG)
 
-vom 05.01.1978 (Stand 01.01.2026)
+vom 05.01.1978 (Stand 01.10.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -90,7 +89,7 @@ erlässt als Gesetz:[^ingress-2]
 
 **Steuererlass**
 
-<sup>1</sup> Invaliden, die wegen ihres Gebrechens auf ein Fahrzeug angewiesen sind, wird auf Gesuch die Steuer erlassen.
+<sup>1</sup> Menschen, die wegen ihrer Behinderung auf ein Fahrzeug angewiesen sind, wird auf Gesuch die Steuer erlassen.
 
 #### Art. 7
 
