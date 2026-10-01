@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Statut de Rome de la Cour pénale internationale du 17 juillet 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: fr
-version: 2026-05-22
+version: 2026-10-02
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20260522/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20260522-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20260522/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20261002/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20261002-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20261002/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 octobre 2001
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2002
 
-(État le 22 mai 2026)
+(État le 2 octobre 2026)
 
 [^t-1]: Les Am. du 10 juin 2010 ([RS 0.312.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1328); [RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) et du 11 juin 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1327); [[RO 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sont insérés dans ce texte, mais ils sont applicables uniquement aux États les ayant ratifiés. Voir en conséquence leur propre champ d’application.
 [^t-2]: Art. 1 al. 1 de l’AF du 22 juin 2001 ([RO 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
@@ -2290,7 +2290,7 @@ L’original du présent Statut, dont les textes anglais, arabe, chinois, espagn
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés par leur gouvernement respectif, ont signé le présent Statut. Fait à Rome ce dix-septième jour de juillet de l’an mil neuf cent quatre-vingt-dix-huit. *(Suivent les signatures)*
 
-Champ d’application le 22 mai 2026[^t-3]
+Champ d’application le 2 octobre 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -2314,7 +2314,6 @@ Champ d’application le 22 mai 2026[^t-3]
 <tr><td>Botswana</td><td>8 septembre</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Brésil\*</td><td>20 juin</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
 <tr><td>Bulgarie</td><td>11 avril</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td>Burkina Faso</td><td>16 avril</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Cambodge</td><td>11 avril</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Canada</td><td>7 juillet</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Cap-Vert\*</td><td>10 octobre</td><td>2011</td><td>1<sup>er</sup> janvier</td><td>2012</td></tr>
@@ -2350,6 +2349,7 @@ Champ d’application le 22 mai 2026[^t-3]
 <tr><td>Guinée</td><td>14 juillet</td><td>2003</td><td>1<sup>er</sup> octobre</td><td>2003</td></tr>
 <tr><td>Guyana</td><td>24 septembre</td><td>2004</td><td>1<sup>er</sup> décembre</td><td>2004</td></tr>
 <tr><td>Honduras\*</td><td>1<sup>er</sup> juillet</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
+<tr><td>Hongrie\*</td><td>30 novembre</td><td>2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Îles Cook</td><td>18 juillet</td><td>2008 A</td><td>1<sup>er</sup> octobre</td><td>2008</td></tr>
 <tr><td>Îles Marshall\*</td><td>7 décembre</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Irlande</td><td>11 avril</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
@@ -2369,7 +2369,6 @@ Champ d’application le 22 mai 2026[^t-3]
 <tr><td>Madagascar</td><td>14 mars</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2008</td></tr>
 <tr><td>Malawi</td><td>19 septembre</td><td>2002</td><td>1<sup>er</sup> décembre</td><td>2002</td></tr>
 <tr><td>Maldives</td><td>21 septembre</td><td>2011 A</td><td>1<sup>er</sup> décembre</td><td>2011</td></tr>
-<tr><td>Mali\*</td><td>16 août</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Malte\*</td><td>29 novembre</td><td>2002</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
 <tr><td>Maurice</td><td>5 mars</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Mexique\*</td><td>28 octobre</td><td>2005</td><td>1<sup>er</sup> janvier</td><td>2006</td></tr>
@@ -2377,8 +2376,6 @@ Champ d’application le 22 mai 2026[^t-3]
 <tr><td>Mongolie</td><td>11 avril</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Namibie\*</td><td>25 juin</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
-<tr><td>Nauru</td><td>12 novembre</td><td>2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td>Niger</td><td>11 avril</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Nigéria</td><td>27 septembre</td><td>2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Norvège\*</td><td>16 février</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Nouvelle-Zélande\* <sup>a</sup></td><td>7 septembre</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
@@ -2427,19 +2424,17 @@ Champ d’application le 22 mai 2026[^t-3]
 <tr><td>Suriname\*</td><td>15 juillet</td><td>2008 A</td><td>1<sup>er</sup> octobre</td><td>2008</td></tr>
 <tr><td>Tadjikistan</td><td>5 mai</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Tanzanie</td><td>20 août</td><td>2002</td><td>1<sup>er</sup> novembre</td><td>2002</td></tr>
-<tr><td>Tchad\*</td><td>1<sup>er</sup> novembre</td><td>2006</td><td>1<sup>er</sup> janvier</td><td>2007</td></tr>
 <tr><td>Timor-Leste\*</td><td>6 septembre</td><td>2002 A</td><td>1<sup>er</sup> décembre</td><td>2002</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>6 avril</td><td>1999</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Tunisie</td><td>24 juin</td><td>2011 A</td><td>1<sup>er</sup> septembre</td><td>2011</td></tr>
 <tr><td>Ukraine\*</td><td>25 octobre</td><td>2024</td><td>1<sup>er</sup> janvier</td><td>2025</td></tr>
 <tr><td>Uruguay\*</td><td>28 juin</td><td>2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
 <tr><td>Vanuatu</td><td>2 décembre</td><td>2011 A</td><td>1<sup>er</sup> février</td><td>2012</td></tr>
-<tr><td>Venezuela</td><td>7 juin</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td>Zambie</td><td>13 novembre</td><td>2002</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
 <tr><td colspan="5">\* [tab] Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La présente ratification ne s’appliquera aux Tokélaou que lorsque le Gouvernement néo‑zélandais aura déposé une déclaration à ce sujet auprès du dépositaire à la suite d’une consultation appropriée avec ce territoire. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: RO **2002** 3816; [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293); [2026 251](https://fedlex.data.admin.ch/eli/oc/2026/251). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
+[^t-3]: RO **2002** 3816; [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293); [2026 251](https://fedlex.data.admin.ch/eli/oc/2026/251), [530](https://fedlex.data.admin.ch/eli/oc/2026/530). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

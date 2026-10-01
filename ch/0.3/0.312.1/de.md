@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Römer Statut des Internationalen Strafgerichtshofs vom 17. Juli 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: de
-version: 2026-05-22
+version: 2026-10-02
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20260522/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20260522-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20260522/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20261002/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20261002-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20261002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
 Abgeschlossen in Rom am 17. Juli 1998 Von der Bundesversammlung genehmigt am 22. Juni 2001[^t-3] Ratifikationsurkunde durch die Schweiz hinterlegt am 12. Oktober 2001 In Kraft getreten für die Schweiz am 1. Juli 2002
 
-(Stand am 22. Mai 2026)
+(Stand am 2. Oktober 2026)
 
 [^t-1]: Der Titel der abgestimmten deutschen Übersetzung dieses Vertrags lautet: «Römisches Statut des Internationalen Strafgerichtshofs». Es wurde Einvernehmen unter den Beteiligten erzielt, dass jede Seite in innerstaatlichen Dokumenten die Bezeichnung «Römer Statut des Internationalen Strafgerichtshofs» verwenden kann.
 [^t-2]: Die Änd. vom 10. Juni 2010 ([SR [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1328); [[AS 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) und 11. Juni 2010 ([SR [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1327); [[AS 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe die entsprechenden Geltungsbereiche.
@@ -2230,7 +2230,7 @@ Die Urschrift dieses Statuts, dessen arabischer, chinesischer, englischer, franz
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Statut unterschrieben. Geschehen zu Rom am 17. Juli 1998. (Es folgen die Unterschriften)
 
-Geltungsbereich am 22. Mai 2026[^t-4]
+Geltungsbereich am 2. Oktober 2026[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2251,7 +2251,6 @@ Geltungsbereich am 22. Mai 2026[^t-4]
 <tr><td>Botsuana</td><td>8. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Brasilien<sup>\*</sup></td><td>20. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
 <tr><td>Bulgarien</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Burkina Faso</td><td>16. April</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
 <tr><td>Chile\*</td><td>29. Juni</td><td>2009</td><td>1. September</td><td>2009</td></tr>
 <tr><td>Cook-Inseln</td><td>18. Juli</td><td>2008 B</td><td>1. Oktober</td><td>2008</td></tr>
 <tr><td>Costa Rica</td><td>7. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
@@ -2304,7 +2303,6 @@ Geltungsbereich am 22. Mai 2026[^t-4]
 <tr><td>Madagaskar</td><td>14. März</td><td>2008</td><td>1. Juni</td><td>2008</td></tr>
 <tr><td>Malawi</td><td>19. September</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
 <tr><td>Malediven</td><td>21. September</td><td>2011 B</td><td>1. Dezember</td><td>2011</td></tr>
-<tr><td>Mali<sup>\*</sup></td><td>16. August</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>29. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
 <tr><td>Marshallinseln<sup>\*</sup></td><td>7. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Mauritius</td><td>5. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
@@ -2313,14 +2311,12 @@ Geltungsbereich am 22. Mai 2026[^t-4]
 <tr><td>Mongolei</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Namibia<sup>\*</sup></td><td>25. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td>Nauru</td><td>12. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Neuseeland<sup>\*</sup> <sup>a</sup></td><td>7. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Niederlande\* \*\* <sup>b</sup></td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Aruba</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Curaçao</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Sint Maarten</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Niger</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Nigeria</td><td>27. September</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Nordmazedonien<sup>\*</sup></td><td>6. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Norwegen<sup>\*</sup></td><td>16. Februar</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
@@ -2353,14 +2349,13 @@ Geltungsbereich am 22. Mai 2026[^t-4]
 <tr><td>Tansania</td><td>20. August</td><td>2002</td><td>1. November</td><td>2002</td></tr>
 <tr><td>Timor-Leste<sup>\*</sup></td><td>6. September</td><td>2002 B</td><td>1. Dezember</td><td>2002</td></tr>
 <tr><td>Trinidad und Tobago</td><td>6. April</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Tschad\*</td><td>1. November</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
 <tr><td>Tschechische Republik\*</td><td>21. Juli</td><td>2009</td><td>1. Oktober</td><td>2009</td></tr>
 <tr><td>Tunesien</td><td>24. Juni</td><td>2011 B</td><td>1. September</td><td>2011</td></tr>
 <tr><td>Uganda</td><td>14. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
 <tr><td>Ukraine\*</td><td>25. Oktober</td><td>2024</td><td>1. Januar</td><td>2025</td></tr>
+<tr><td>Ungarn<sup>\*</sup></td><td>30. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Uruguay<sup>\*</sup></td><td>28. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
 <tr><td>Vanuatu</td><td>2. Dezember</td><td>2011 B</td><td>1. Februar</td><td>2012</td></tr>
-<tr><td>Venezuela</td><td>7. Juni</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>4. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td>Akrotiri und Dhekelia</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
 <tr><td>Anguilla</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
@@ -2379,7 +2374,7 @@ Geltungsbereich am 22. Mai 2026[^t-4]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293); [2026 251](https://fedlex.data.admin.ch/eli/oc/2026/251). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293); [2026 251](https://fedlex.data.admin.ch/eli/oc/2026/251), [530](https://fedlex.data.admin.ch/eli/oc/2026/530). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
