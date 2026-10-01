@@ -5,11 +5,12 @@ title: Ordinaziun davart la furmaziun professiunala e davart purschidas da furma
 short: OFurm
 language: rm
 version: 2025-01-01
+corrected: 2026-10-02
 version_adopted: 2024-10-15
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/430.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3819/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -82,7 +83,7 @@ relaschada da la regenza ils 5 da favrer 2008
 - a) la surveglianza da la furmaziun fundamentala professiunala sco er la coordinaziun e la direcziun en dumondas da la legislaziun, da las incaricas da prestaziun, da la finanziaziun, da la planisaziun da la purschida, da la garanzia da qualitad, da la collavuraziun, da la promoziun da la permeabilitad, dal barat d'infurmaziuns e dal marketing da furmaziun;
 - b) la collavuraziun cun la confederaziun, cun las instituziuns da la furmaziun professiunala, cun organisaziuns chantunalas e regiunalas dal mund da lavur sco er cun las vischnancas, cun auters chantuns e cun l'exteriur;
 - c) la promoziun da la collavuraziun tranter ils trais lieus d'emprender;
-- d) la regulaziun da la cumpetenza per la furmaziun supplementara professiunala cun l'Uffizi da scolas medias e furmaziun terziara;
+- d) la regulaziun da la cumpetenza per la furmaziun supplementara professiunala cun l'uffizi per la furmaziun media-superiura;
 - e) la preparaziun da contracts da basa e da contracts annuals;
 - f) la controlla, sche las instituziuns da la furmaziun professiunala observan las disposiziuns da la confederaziun e dal chantun;
 - g) la controlla, sche las incaricas da prestaziun e sche las calculaziuns da las contribuziuns èn vegnidas ademplidas;
@@ -93,9 +94,9 @@ relaschada da la regenza ils 5 da favrer 2008
 
 #### Art. 5
 
-**4. Uffizi da scolas medias e furmaziun terziara**
+**4. uffizi per la furmaziun media-superiura**
 
-<sup>1</sup> En il sectur da las purschidas da furmaziun cuntinuanta ha l'Uffizi da scolas medias e furmaziun terziara en spezial las suandantas incumbensas:
+<sup>1</sup> En il sectur da las purschidas da furmaziun cuntinuanta ha l'uffizi per la furmaziun media-superiura en spezial las suandantas incumbensas:
 
 - a) coordinar e diriger il champ da furmaziun terziar en dumondas da la legislaziun, da las incaricas da prestaziun, da la finanziaziun, da la planisaziun da la purschida, da la garanzia da qualitad, da la collavuraziun, da la promoziun da la permeabilitad, dal barat d'infurmaziuns e dal marketing da furmaziun;
 - b) collavurar cun la confederaziun, cun las instituziuns da la furmaziun professiunala, cun organisaziuns chantunalas e regiunalas dal mund da lavur sco er cun chantuns interessads e cun l'exteriur en dumondas da la furmaziun professiunala superiura e da la scolaziun professiunala supplementara;
@@ -166,7 +167,7 @@ relaschada da la regenza ils 5 da favrer 2008
 
 **Dumondas da renconuschientscha**
 
-<sup>1</sup> Dumondas per renconuscher – sin basa dal dretg da survegnir contribuziuns – las scolas professiunalas superiuras u las instituziuns che porschan la furmaziun supplementara professiunala sco part essenziala da lur activitad, ston vegnir inoltradas a l'Uffizi da scolas medias e furmaziun terziara.
+<sup>1</sup> Dumondas per renconuscher – sin basa dal dretg da survegnir contribuziuns – las scolas professiunalas superiuras u las instituziuns che porschan la furmaziun supplementara professiunala sco part essenziala da lur activitad, ston vegnir inoltradas a l'uffizi per la furmaziun media-superiura.
 
 ## 4. Scolas autas
 

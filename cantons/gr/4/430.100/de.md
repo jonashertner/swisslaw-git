@@ -5,11 +5,12 @@ title: Verordnung über die Berufsbildung und weiterführende Bildungsangebote
 short: BwBGV
 language: de
 version: 2025-01-01
+corrected: 2026-10-02
 version_adopted: 2024-10-15
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3819/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -82,7 +83,7 @@ von der Regierung erlassen am 5. Februar 2008
 - a) Aufsicht über die berufliche Grundbildung sowie Koordination und Steuerung in Fragen der Gesetzgebung, der Leistungsaufträge, der Finanzierung, der Angebotsplanung, der Qualitätssicherung, der Zusammenarbeit, der Förderung der Durchlässigkeit, des Informationsaustausches und des Bildungsmarketings;
 - b) Zusammenarbeit mit dem Bund, mit den Institutionen der Berufsbildung, mit kantonalen und regionalen Organisationen der Arbeitswelt sowie mit den Gemeinden, anderen Kantonen und dem Ausland;
 - c) Fördern der Zusammenarbeit zwischen den drei Lernorten;
-- d) Regelung der Zuständigkeit für die berufliche Weiterbildung mit dem Amt für Mittelschulen und Tertiärbildung;
+- d) Regelung der Zuständigkeit für die berufliche Weiterbildung mit dem Amt für Höhere Bildung;
 - e) Vorbereiten der Rahmenkontrakte und Jahreskontrakte;
 - f) Überprüfen der Einhaltung der Bestimmungen des Bundes und des Kantons durch die Institutionen der Berufsbildung;
 - g) Prüfen der Erfüllung der Leistungsaufträge und Beitragsbemessung;
@@ -93,9 +94,9 @@ von der Regierung erlassen am 5. Februar 2008
 
 #### Art. 5
 
-**4. Amt für Mittelschulen und Tertiärbildung**
+**4. Amt für Höhere Bildung**
 
-<sup>1</sup> Dem Amt für Mittelschulen und Tertiärbildung obliegen im Bereich weiterführender Bildungsangebote insbesondere folgende Aufgaben:
+<sup>1</sup> Dem Amt für Höhere Bildung obliegen im Bereich weiterführender Bildungsangebote insbesondere folgende Aufgaben:
 
 - a) Koordination und Steuerung des tertiären Bildungsbereichs in Fragen der Gesetzgebung, der Leistungsaufträge, der Finanzierung, der Angebotsplanung, der Qualitätssicherung, der Zusammenarbeit, der Förderung der Durchlässigkeit, des Informationsaustausches und des Bildungsmarketings;
 - b) Zusammenarbeit mit dem Bund, mit den Institutionen der Berufsbildung, mit kantonalen und regionalen Organisationen der Arbeitswelt sowie mit interessierten Kantonen und dem Ausland in Fragen der höheren Berufsbildung und der beruflichen Weiterbildung;
@@ -166,7 +167,7 @@ von der Regierung erlassen am 5. Februar 2008
 
 **Anerkennungsgesuche**
 
-<sup>1</sup> Gesuche um beitragsrechtliche Anerkennung von höheren Fachschulen oder Institutionen, die berufliche Weiterbildung als wesentlichen Bestandteil ihrer Tätigkeit anbieten, sind dem Amt für Mittelschulen und Tertiärbildung einzureichen.
+<sup>1</sup> Gesuche um beitragsrechtliche Anerkennung von höheren Fachschulen oder Institutionen, die berufliche Weiterbildung als wesentlichen Bestandteil ihrer Tätigkeit anbieten, sind dem Amt für Höhere Bildung einzureichen.
 
 ## 4. Hochschulen
 

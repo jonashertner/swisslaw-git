@@ -5,11 +5,12 @@ title: Ordinanza sulla formazione professionale e sulle offerte di formazione co
 short: OFPFC
 language: it
 version: 2025-01-01
+corrected: 2026-10-02
 version_adopted: 2024-10-15
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/430.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3819/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3471/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -82,7 +83,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 - a) la vigilanza sulla formazione professionale di base, nonché il coordinamento e la direzione in questioni relative alla legislazione, ai mandati di prestazioni, al finanziamento, alla pianificazione dell'offerta, alla garanzia della qualità, alla collaborazione, alla promozione della permeabilità, allo scambio di informazioni e al marketing della formazione;
 - b) la collaborazione con la Confederazione, con le istituzioni della formazione professionale, con organizzazioni cantonali e regionali del mondo del lavoro, nonché con i comuni, altri Cantoni e l'estero;
 - c) la promozione della collaborazione fra i tre luoghi di apprendimento;
-- d) la regolamentazione della competenza per il perfezionamento professionale insieme all'Ufficio delle scuole medie superiori e della formazione terziaria;
+- d) la regolamentazione della competenza per il perfezionamento professionale insieme all'Ufficio della formazione medio-superiore;
 - e) la preparazione dei contratti quadro e dei contratti annuali;
 - f) la verifica dell'osservanza da parte delle istituzioni della formazione professionale delle disposizioni di Confederazione e Cantone;
 - g) l'esame dell'adempimento dei mandati di prestazioni e il calcolo dei sussidi;
@@ -93,9 +94,9 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 #### Art. 5
 
-**4. Ufficio delle scuole medie superiori e della formazione terziaria**
+**4. Ufficio della formazione medio-superiore**
 
-<sup>1</sup> Nel settore delle offerte di formazione continua, all'Ufficio delle scuole medie superiori e della formazione terziaria competono in particolare i seguenti compiti:
+<sup>1</sup> Nel settore delle offerte di formazione continua, all'Ufficio della formazione medio-superiore competono in particolare i seguenti compiti:
 
 - a) il coordinamento e la direzione del settore della formazione terziaria in questioni relative alla legislazione, ai mandati di prestazioni, al finanziamento, alla pianificazione dell'offerta, alla garanzia della qualità, alla collaborazione, alla promozione della permeabilità, allo scambio di informazioni e al marketing della formazione;
 - b) la collaborazione con la Confederazione, con le istituzioni della formazione professionale, con organizzazioni cantonali e regionali del mondo del lavoro, nonché con i Cantoni interessati e l'estero in questioni della formazione professionale superiore e del perfezionamento professionale;
@@ -166,7 +167,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Domande di riconoscimento**
 
-<sup>1</sup> Domande di riconoscimento dal punto di vista del diritto a sussidi di scuole specializzate superiori o di istituzioni che fanno del perfezionamento professionale una parte essenziale della loro attività vanno inoltrate all'Ufficio delle scuole medie superiori e della formazione terziaria.
+<sup>1</sup> Domande di riconoscimento dal punto di vista del diritto a sussidi di scuole specializzate superiori o di istituzioni che fanno del perfezionamento professionale una parte essenziale della loro attività vanno inoltrate all'Ufficio della formazione medio-superiore.
 
 ## 4. Scuole universitarie
 
