@@ -5,12 +5,12 @@ title: "Ordinanza sul finanziamento del disavanzo delle istituzioni della formaz
 short: Ordinanza sul disavanzo
 language: it
 version: 2025-01-01
-corrected: 2026-09-27
+corrected: 2026-10-02
 version_adopted: 2024-11-26
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/430.300"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3492/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3803/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -230,5 +230,107 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 **Entrata in vigore**
 
 <sup>1</sup> La presente ordinanza entra in vigore retroattivamente il 1° gennaio 2008.
+
+## A1 Allegato 1: Stipendi massimi computabili (art. 9 cpv. 1)
+
+### A1.1. In generale
+
+#### Art. A1-1
+
+**Retribuzione e numero di lezioni obbligatorie**
+
+<sup>1</sup> Le aliquote massime computabili per la retribuzione fissate nel presente allegato si basano sul sistema delle classi di funzione dell'Amministrazione cantonale.
+
+<sup>2</sup> Per la determinazione concreta degli stipendi, gli enti scolastici devono eventualmente osservare aliquote locali inferiori.
+
+<sup>3</sup> Le scuole stabiliscono il numero delle lezioni obbligatorie del corpo insegnante in un regolamento che deve essere approvato dal Dipartimento. Nel quadro degli accordi di prestazioni, il Dipartimento può determinare gli sgravi possibili e quelli massimi applicabili o applicare i coefficienti, rispettivamente gli indicatori, per il loro riconoscimento.
+
+### A1.2. Regolamentazione degli stipendi in formazioni transitorie, scuole professionali di base e nella Scuola specializzata per l'industria alberghiera
+
+#### Art. A1-2
+
+**Dimensione della scuola**
+
+<sup>1</sup> Per determinate funzioni, una determinazione dello stipendio adeguata ai compiti e differenziata dipende dalla dimensione della scuola. Si differenzia tra:
+
+- a) scuole che impartiscono più di 24 000 lezioni, considerate scuole grandi. Queste hanno la possibilità di designare un membro a tempo pieno della direzione scolastica per ogni 24 000 lezioni impartite
+- b) scuole che complessivamente impartiscono meno di 24 000 lezioni, queste hanno un diritto proporzionale a una direzione scolastica. La percentuale e l'attribuzione computabili vengono fissate individualmente dal Dipartimento
+
+#### Art. A1-3
+
+**Categorie di collaboratori e stipendi massimi riconosciuti**
+
+<sup>1</sup> Vengono distinte le seguenti categorie di insegnanti e collaboratori e fissati gli stipendi massimi riconosciuti secondo il sistema delle classi di funzione dell'Amministrazione cantonale:
+
+<table>
+<tr><th>Funzione</th><th>Classe di funzione</th></tr>
+<tr><td>Rettore, direttore (scuola grande)</td><td>25</td></tr>
+<tr><td>Membro della direzione scolastica (vicedirettore, prorettore, corettore, ecc. di una scuola grande)</td><td>23</td></tr>
+<tr><td>Insegnante MP e insegnanti di materie per le quali è necessario uno studio universitario</td><td>21</td></tr>
+<tr><td>Insegnante ICG</td><td>21</td></tr>
+<tr><td>Insegnante di educazione fisica (diploma universitario quale maestro di ginnastica e sport, con formazione pedagogico-professionale di 300 ore)</td><td>21</td></tr>
+<tr><td>Insegnante di conoscenze professionali IV (esame professionale superiore con diploma federale o master, con formazione pedagogico-professionale di 1800 ore)</td><td>21</td></tr>
+<tr><td>Insegnante di conoscenze professionali III (esame professionale superiore con diploma federale o master, con formazione pedagogico-professionale di 300 ore)</td><td>20</td></tr>
+<tr><td>Insegnante di conoscenze professionali II (scuola specializzata superiore o bachelor, con formazione pedagogico-professionale di 1800 ore)</td><td>20</td></tr>
+<tr><td>Insegnante di conoscenze professionali I (scuola specializzata superiore o bachelor, con formazione pedagogico-professionale di 300 ore)</td><td>19</td></tr>
+<tr><td>Orientatore professionale (autorizzazione all'insegnamento per il grado secondario I con formazione complementare quale coach per la scelta professionale)</td><td>19</td></tr>
+<tr><td>Insegnante specialista II (esame professionale superiore con diploma federale o autorizzazione all'insegnamento per il grado secondario I)</td><td>18</td></tr>
+<tr><td>Insegnante specialista I (esame professionale con attestato professionale)</td><td>15</td></tr>
+</table>
+
+<sup>1.1</sup> Per le seguenti funzioni senza specificazione o con più classi di funzione possibili, l'attribuzione definitiva a una classe di funzione viene effettuata in base al mansionario, previo accordo con l'Ufficio competente:
+
+<table>
+<tr><th>Funzione</th><th>Classe di funzione</th></tr>
+<tr><td>Funzione stato maggiore superiore</td><td>19</td></tr>
+<tr><td>Responsabile IT</td><td>18</td></tr>
+<tr><td>Responsabile sezione servizi</td><td>17</td></tr>
+<tr><td>Specialista I+D II (con bachelor)</td><td>15</td></tr>
+<tr><td>Funzionario incaricato risorse umane II (con attestato professionale federale)</td><td>14</td></tr>
+<tr><td>Contabile (con attestato professionale federale)</td><td>14</td></tr>
+<tr><td>Specialista I+D I (con attestato federale di capacità)</td><td>13</td></tr>
+<tr><td>Segretario I–IV</td><td>10–13</td></tr>
+<tr><td>Custode</td><td>10</td></tr>
+<tr><td>Segretario, centralinista</td><td>8/9</td></tr>
+<tr><td>Assistente d'ufficio</td><td>7/8</td></tr>
+</table>
+
+<sup>2</sup> Le persone impiegate a tempo parziale vengono retribuite proporzionalmente secondo la loro funzione. Per insegnanti a tempo pieno di scuole professionali di base che insegnano fino a un massimo del 30 per cento in formazioni transitorie sono computabili le aliquote per insegnanti di scuole professionali di base. Per insegnanti a tempo pieno di formazioni transitorie che insegnano singole materie presso una scuola professionale di base, il Dipartimento può approvare una classificazione proporzionale quale insegnante di scuola professionale di base.
+
+<sup>3</sup> Per insegnanti che non soddisfano i requisiti minimi di legge, l'Ufficio, su richiesta della direzione scolastica, può rilasciare in casi eccezionali un'autorizzazione individuale all'insegnamento. Gli insegnanti con un'autorizzazione individuale all'insegnamento vanno classificati in una classe di stipendio di almeno uno scatto inferiore rispetto a insegnanti della corrispondente classe di funzione che soddisfano tutti i requisiti formali.
+
+### A1.3. Regolamentazione degli stipendi in istituzioni di perfezionamento professionale e in scuole specializzate superiori
+
+#### Art. A1-4
+
+**Principio**
+
+<sup>1</sup> Gli stipendi nell'ambito della direzione scolastica, dell'insegnamento, del trasferimento di tecnologie e di sapere, nonché della ricerca e dello sviluppo applicati si conformano all'articolo A1-5.
+
+<sup>2</sup> Per il personale insegnante nel perfezionamento professionale e per gli altri collaboratori fanno stato le categorie e le classi di stipendio conformemente all'articolo 3. Per persone impiegate a tempo parziale e per insegnanti che non soddisfano i requisiti minimi di legge valgono le disposizioni contenute nell'articolo A1-3 capoversi 2 e 3.
+
+<sup>3</sup> Fanno parte del perfezionamento professionale corsi di preparazione a esami professionali federali e a esami professionali superiori. Sono parificati a essi curricoli di maturità professionale dopo l'apprendistato.
+
+<sup>4</sup> Per la classificazione dei collaboratori che non possono essere classificati secondo l'articolo A1-3 fa stato il piano generale di classificazione del Cantone dei Grigioni.
+
+#### Art. A1-5
+
+**Scuole specializzate superiori**
+
+<sup>1</sup> Vengono distinte le seguenti categorie di insegnanti e fissati gli stipendi massimi riconosciuti secondo il sistema delle classi di funzione dell'Amministrazione cantonale (per le seguenti funzioni senza specificazione o con più classi di funzione possibili, l'attribuzione definitiva a una classe di funzione viene effettuata in base al mansionario, previo accordo con l'Ufficio competente):
+
+<table>
+<tr><th>Funzione</th><th>Classe di funzione</th></tr>
+<tr><td>Direttore</td><td>25</td></tr>
+<tr><td>Membro della direzione scolastica (membro della direzione)</td><td>23</td></tr>
+<tr><td>Direttore amministrativo (membro della direzione)</td><td>23</td></tr>
+<tr><td>Responsabile di sezione</td><td>22</td></tr>
+<tr><td>Docente III (master [consecutivo] con formazione pedagogico-professionale e didattica di 1800 ore)</td><td>22</td></tr>
+<tr><td>Docente II (bachelor, scuola specializzata superiore o esame professionale superiore con diploma federale, nonché con formazione pedagogico-professionale e didattica di 1800 ore)</td><td>21</td></tr>
+<tr><td>Responsabile servizi</td><td>21</td></tr>
+<tr><td>Docente I (bachelor, scuola specializzata superiore o esame professionale superiore con diploma federale, nonché con formazione pedagogico-professionale e didattica di 300 ore)</td><td>20</td></tr>
+</table>
+
+<sup>2</sup> Per docenti a tempo pieno di scuole specializzate superiori che insegnano fino a un massimo del 30 per cento nel perfezionamento professionale, sono computabili le aliquote per docenti delle scuole specializzate superiori. Per docenti a tempo pieno di perfezionamento professionale e di scuola secondaria II che insegnano singole materie presso una scuola specializzata superiore il Dipartimento può accordare un inquadramento proporzionale quale docente SSS.
 
 -

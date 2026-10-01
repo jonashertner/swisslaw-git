@@ -5,12 +5,12 @@ title: "Ordinaziun davart la finanziaziun dal deficit da las instituziuns da la 
 short: ordinaziun da deficit
 language: rm
 version: 2025-01-01
-corrected: 2026-09-27
+corrected: 2026-10-02
 version_adopted: 2024-11-26
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/430.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3492/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3803/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -230,5 +230,107 @@ relaschada da la regenza ils 5 da favrer 2008
 **Entrada en vigur**
 
 <sup>1</sup> Questa ordinaziun entra en vigur retroactivamain per il 1. da schaner 2008.
+
+## A1 Agiunta 1: Salaris maximals imputabels (art. 9 al. 1)
+
+### A1.1. Chaussas generalas
+
+#### Art. A1-1
+
+**Salarisaziun e pensums obligatorics**
+
+<sup>1</sup> Las tariffas maximalas imputablas per la salarisaziun, ch'èn fixadas en questa agiunta, sa basan sin il sistem da classas da funcziun da l'administraziun chantunala.
+
+<sup>2</sup> Tar la fixaziun concreta dals salaris ston ils purtaders da scola eventualmain observar las tariffas pli bassas d'usit local.
+
+<sup>3</sup> Las scolas determineschan ils pensums obligatorics da las persunas d'instrucziun en in reglament che vegn approvà dal departament. En il rom da las incaricas da prestaziun po il departament determinar las distgargias pussaivlas e maximalmain applitgablas u applitgar indicaturs per lur renconuschientscha.
+
+### A1.2. Reglamentaziun dals salaris per purschidas transitoricas, per scolas professiunalas spezialisadas e per la scola professiunala d'hotellaria
+
+#### Art. A1-2
+
+**Grondezza da la scola**
+
+<sup>1</sup> Tar tschertas funcziuns dependa ina determinaziun dal salari, che correspunda a l'incumbensa e ch'è differenziada, da la grondezza da la scola. I vegnan differenziadas:
+
+- a) scolas, en las qualas vegnan instruidas dapli che 24 000 lecziuns, valan sco scolas grondas. Ellas han la pussaivladad da nominar mintgamai ina commembra u in commember da la direcziun da la scola en uffizi cumplain per mintga 24 000 lecziuns dadas
+- b) scolas, en las qualas vegnan instruidas main che 24 000 lecziuns, han il dretg d'ina direcziun da la scola proporziunala. La quota imputabla e la classificaziun imputabla vegnan fixadas individualmain dal departament
+
+#### Art. A1-3
+
+**Categorias da collavuraturas e collavuraturs e salaris maximals renconuschids**
+
+<sup>1</sup> I vegnan differenziadas las suandantas categorias da persunas d'instrucziun e da collavuraturas e collavuraturs e fixads ils suandants salaris maximals renconuschids tenor il sistem da classas da funcziun da l'administraziun chantunala:
+
+<table>
+<tr><th>Funcziun</th><th>Classa da funcziun</th></tr>
+<tr><td>rectur/-a, directur/-a (scola gronda)</td><td>25</td></tr>
+<tr><td>commember/-bra da la direcziun da la scola (vicedirectur/-a, prorectur/-a, conrectur/-a e.u.v. d'ina scola gronda)</td><td>23</td></tr>
+<tr><td>persuna d'instrucziun da la maturitad professiunala e persunas d'instrucziun da roms che premettan in studi universitar</td><td>21</td></tr>
+<tr><td>persuna d'instrucziun da l'instrucziun da furmaziun generala</td><td>21</td></tr>
+<tr><td>persuna d'instrucziun da sport (diplom universitar sco persuna d'instrucziun da sport, cun furmaziun pedagogica da la professiun da 300 uras d'emprender)</td><td>21</td></tr>
+<tr><td>persuna d'instrucziun da las enconuschientschas da la professiun IV (examen professiunal superiur cun diplom federal u master, cun ina furmaziun pedagogica da la professiun da 1800 uras d'emprender)</td><td>21</td></tr>
+<tr><td>persuna d'instrucziun da las enconuschientschas da la professiun III (examen professiunal superiur cun diplom federal u master, cun ina furmaziun pedagogica da la professiun da 300 uras d'emprender)</td><td>20</td></tr>
+<tr><td>persuna d'instrucziun da las enconuschientschas da la professiun II (scola spezialisada superiura u bachelor, cun furmaziun pedagogica da la professiun da 1800 uras d'emprender)</td><td>20</td></tr>
+<tr><td>persuna d'instrucziun da las enconuschientschas da la professiun I (scola spezialisada superiura u bachelor, cun furmaziun pedagogica da la professiun da 300 uras d'emprender)</td><td>19</td></tr>
+<tr><td>persuna d'instrucziun da tscherna da professiun (autorisaziun d'instruir sin il stgalim secundar I cun scolaziun supplementara sco coach da tscherna da professiun)</td><td>19</td></tr>
+<tr><td>persuna d'instrucziun spezialisada II (examen professiunal superiur cun diplom federal u autorisaziun d'instruir sin il stgalim secundar I)</td><td>18</td></tr>
+<tr><td>persuna d'instrucziun spezialisada I (examen professiunal cun certificat professiunal)</td><td>15</td></tr>
+</table>
+
+<sup>1.1</sup> Tar las funcziuns menziunadas qua sutvart che n'han nagina specificaziun u che appartegnan a pliras classas da funcziun pussaivlas, vegn l'attribuziun definitiva ad ina classa da funcziun fatga sin basa dal carnet d'obligaziuns, suenter avair consultà l'uffizi cumpetent:
+
+<table>
+<tr><th>Funcziun</th><th>Classa da funcziun</th></tr>
+<tr><td>funcziun da stab pli auta</td><td>19</td></tr>
+<tr><td>manader/-dra da las tecnologias d'infurmaziun</td><td>18</td></tr>
+<tr><td>manader/-dra da partiziun dals servetschs</td><td>17</td></tr>
+<tr><td>spezialist/-a dad I+D II (cun bachelor)</td><td>15</td></tr>
+<tr><td>referendari/-a da fatgs da persunal II (cun certificat professiunal federal)</td><td>14</td></tr>
+<tr><td>contabilist/-a (cun certificat professiunal federal)</td><td>14</td></tr>
+<tr><td>spezialist/-a dad I+D I (cun attestat federal da qualificaziun)</td><td>13</td></tr>
+<tr><td>secretari/-a I–IV</td><td>10–13</td></tr>
+<tr><td>pedel/-la</td><td>10</td></tr>
+<tr><td>secretari/-a, telefonist/-a</td><td>8/9</td></tr>
+<tr><td>assistent/-a da biro</td><td>7/8</td></tr>
+</table>
+
+<sup>2</sup> Persunas che lavuran a temp parzial survegnan in salari proporziunal a lur funcziun. Per persunas d'instrucziun a temp cumplain da scolas autas professiunalas che adempleschan in pensum parzial da maximalmain 30 pertschient da soluziuns transitoricas èn imputablas las tariffas per persunas d'instrucziun da scolas autas professiunalas. A persunas d'instrucziun a temp cumplain da soluziuns transitoricas che instrueschan singuls roms en scolas professiunalas spezialisadas po il departament approvar ina classificaziun proporziunala sco persuna d'instrucziun da scolas autas professiunalas.
+
+<sup>3</sup> Per persunas d'instrucziun che n'adempleschan betg las pretensiuns minimalas legalas po l'uffizi conceder en cas excepziunals – sin dumonda da la direcziun da la scola – ina permissiun individuala d'instrucziun. Persunas d'instrucziun cun ina permissiun individuala d'instrucziun ston vegnir classifitgadas almain ina classa da salari sut las persunas d'instrucziun da la classa da funcziun correspundenta che adempleschan tut las pretensiuns formalas.
+
+### A1.3. Reglamentaziun dals salaris tar las instituziuns da la furmaziun professiunala supplementara e tar las scolas spezialisadas superiuras
+
+#### Art. A1-4
+
+**Princip**
+
+<sup>1</sup> Ils salaris en il sectur da la direcziun da la scola, da l'instrucziun, dal transfer da tecnologia e da savida sco er da la perscrutaziun e dal svilup ch'è orientà a l'applicaziun sa drizzan tenor l'artitgel A1-5.
+
+<sup>2</sup> Per il persunal che instruescha en la scolaziun professiunala supplementara e per las ulteriuras collavuraturas e per ils ulteriurs collavuraturs valan las categorias da salari e las classas da salari tenor l'artitgel A1-3. Per persunas che lavuran a temp parzial e per persunas d'instrucziun che n'adempleschan betg las pretensiuns minimalas legalas, valan las disposiziuns da l'artitgel A1-3 alineas 2 e 3.
+
+<sup>3</sup> Tar la furmaziun supplementara professiunala tutgan curs preparatorics per examens professiunals federals e per examens professiunals superiurs. Il medem vala per scolaziuns da maturitad professiunala che vegnan fatgas suenter l'emprendissadi.
+
+<sup>4</sup> Per la classificaziun da collavuraturas e collavuraturs che na pon betg vegnir classifitgads tenor l'artitgel 3 vala il plan general da classificaziun dal chantun Grischun.
+
+#### Art. A1-5
+
+**Scolas spezialisadas superiuras**
+
+<sup>1</sup> Las suandantas categorias da persunas d'instrucziun vegnan differenziadas, ed i vegnan fixads ils suandants salaris maximals renconuschids tenor il sistem da classas da funcziun da l'administraziun chantunala (tar las funcziuns menziunadas qua sutvart che n'han nagina specificaziun u che appartegnan a pliras classas da funcziun pussaivlas, vegn l'attribuziun definitiva ad ina classa da funcziun fatga sin basa dal carnet d'obligaziuns, suenter avair consultà l'uffizi cumpetent):
+
+<table>
+<tr><th>Funcziun</th><th>Classa da funcziun</th></tr>
+<tr><td>directur/-a</td><td>25</td></tr>
+<tr><td>commember/-bra da la direcziun da la scola (commember/-bra da la direcziun)</td><td>23</td></tr>
+<tr><td>directur/-a administrativ/-a (commember/-bra da la direcziun)</td><td>23</td></tr>
+<tr><td>manader/-dra da partiziun</td><td>22</td></tr>
+<tr><td>docent/-a III (master [consecutiv] cun furmaziun pedagogica da la professiun e cun furmaziun didactica da 1800 uras d'emprender)</td><td>22</td></tr>
+<tr><td>docent/-a II (bachelor, scola spezialisada superiura u examen professiunal superiur cun diplom federal sco furmaziun pedagogica da la professiun e cun furmaziun didactica da 1800 uras d'emprender)</td><td>21</td></tr>
+<tr><td>manader/-dra dals servetschs</td><td>21</td></tr>
+<tr><td>docent/-a I (bachelor, scola spezialisada superiura u examen professiunal superiur cun diplom federal sco er cun furmaziun pedagogica da la professiun e cun furmaziun didactica da 300 uras d'emprender)</td><td>20</td></tr>
+</table>
+
+<sup>2</sup> Per docentas e docents en uffizi cumplain da scolas spezialisadas superiuras che adempleschan in pensum parzial da maximalmain 30 pertschient en la scolaziun professiunala supplementara èn imputablas las tariffas per docentas e docents da las scolas spezialisadas superiuras. A docentas e docents en uffizi cumplain dal stgalim da la furmaziun supplementara e dal stgalim secundar II che instrueschan singuls roms en ina scola spezialisada superiura po vegnir concedì dal departament ina classificaziun proporziunala sco docenta u docent da las scolas spezialisadas superiuras.
 
 -
