@@ -2,24 +2,24 @@
 canton: GR
 number: "440.110"
 title: Verordnung zur sozialen und beruflichen Integration von Menschen mit Behinderung
-short: Behindertenintegrationsverordnung; BIV
+short: "Behindertenintegrationsverordnung, BIV"
 language: de
-version: 2012-01-01
-corrected: 2018-01-10
-version_adopted: 2012-02-07
+version: 2021-01-01
+corrected: 2026-10-02
+version_adopted: 2021-01-12
 adopted: 2012-02-07
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/440.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2332/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur sozialen und beruflichen Integration von Menschen mit Behinderung
 
-(Behindertenintegrationsverordnung; BIV)
+(Behindertenintegrationsverordnung, BIV)
 
-Vom 07.02.2012 (Stand 01.01.2012)
+Vom 07.02.2012 (Stand 01.01.2021)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -264,11 +264,11 @@ von der Regierung erlassen am 7. Februar 2012
 
 <sup>1</sup> Für geschützte Wohnplätze entspricht die Taxe für die Kostenbeteiligung bei Anwesenheit der Höhe der Taxe des Jahres 2007 unter Berücksichtigung allfälliger Anpassungen:
 
-- a) der Leistungen der IV;
-- b) des im Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^22-1] für alleinstehende, zuhause lebende Personen festgelegten Betrages für den allgemeinen Lebensbedarf und des Höchstbetrages für den Mietzins;
-- c) der für die Prämienverbilligung massgebenden Prämien;
-- d) der AHV-Mindestbeiträge;
-- e) der Hilflosenentschädigung;
+- a) der IV-Rente beziehungsweise AHV-Rente;
+- b) des im Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^22-1] festgelegten Betrags für den allgemeinen Lebensbedarf bei alleinstehenden Personen (Art. 10 Abs. 1 lit. a Ziff. 1) und den Mietzins (Art. 13 Abs. 2);
+- c) …
+- d) des AHV/IV/EO-Mindestbeitrags für nichterwerbstätige Personen;
+- e) der Hilflosenentschädigung zur IV-Rente beziehungsweise AHV-Rente;
 - f) des im Gesetz über kantonale Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^22-2] festgelegten Betrages für persönliche Auslagen.
 
 <sup>2</sup> Nicht enthalten sind Krankheits- und Behinderungskosten bis zum im Gesetz über kantonale Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung festgelegten Maximalbetrag.
@@ -375,7 +375,7 @@ von der Regierung erlassen am 7. Februar 2012
 
 <sup>1</sup> Die Gliederung des Kontenrahmens für die Bilanz und die Erfolgsrechnung richtet sich nach den Vorgaben der IVSE.
 
-<sup>2</sup> Die Betriebsrechnung ist nach dem Grundsatz des Bruttoprinzipes darzustellen.
+<sup>2</sup> Die Betriebsrechnung ist nach dem Grundsatz des Bruttoprinzips darzustellen.
 
 <sup>3</sup> Die Geschäftsbücher (Buchhaltung, Rechnung) der Einrichtungen sind am Ende eines Jahres periodengerecht abzuschliessen.
 
@@ -386,6 +386,8 @@ von der Regierung erlassen am 7. Februar 2012
 - a) immobile Sachanlagen 3,3 Prozent;
 - b) Mobilien, Maschinen, Fahrzeuge 10 Prozent;
 - c) Informatik- und Kommunikationssysteme 20 Prozent.
+
+<sup>6</sup> Stationäre und teilstationäre Einrichtungen, die einen jährlichen kantonalen Leistungsbeitrag von mindestens 300 000 Franken erhalten, wenden die Rechnungslegung nach Swiss GAAP FER 21 an. Vorbehalten bleiben die Absätze 1 bis 5.
 
 ## 6. Schlussbestimmungen
 

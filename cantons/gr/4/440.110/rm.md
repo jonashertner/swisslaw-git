@@ -2,24 +2,24 @@
 canton: GR
 number: "440.110"
 title: "Ordinaziun davart l'integraziun sociala e professiunala da persunas cun impediments"
-short: "ordinaziun d'integraziun da persunas cun impediments; OIPI"
+short: "ordinaziun d'integraziun da persunas cun impediments, OIPI"
 language: rm
-version: 2012-01-01
-corrected: 2018-01-10
-version_adopted: 2012-02-07
+version: 2021-01-01
+corrected: 2026-10-02
+version_adopted: 2021-01-12
 adopted: 2012-02-07
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/440.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2332/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart l'integraziun sociala e professiunala da persunas cun impediments
 
-(ordinaziun d'integraziun da persunas cun impediments; OIPI)
+(ordinaziun d'integraziun da persunas cun impediments, OIPI)
 
-dals 07-02-2012 (versiun dals 01-01-2012)
+dals 07-02-2012 (versiun dals 01-01-2021)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -264,11 +264,11 @@ relaschada da la regenza ils 7 da favrer 2012
 
 <sup>1</sup> Per plazzas d'abitar protegidas correspunda la taxa per la participaziun als custs en cas da preschientscha a l'autezza da la taxa da l'onn 2007, resguardond eventualas adattaziuns:
 
-- a) da las prestaziuns da la AI;
-- b) da l'import per persunas che vivan sulettas a chasa, fixà en la lescha federala davart las prestaziuns supplementaras tar l'assicuranza per vegls, survivents ed invaliditad[^22-1] per ils bains generals necessaris per viver, e da l'import maximal per il tschains da locaziun;
-- c) da las premias ch'èn decisivas per la reducziun da las premias;
-- d) da las contribuziuns minimalas da la AVS;
-- e) da l'indemnisaziun a persunas dependentas d'agid;
+- a) da la renta da la AI respectivamain da la renta da la AVS;
+- b) da l'import fixà en la Lescha federala davart las prestaziuns supplementaras tar l'assicuranza per vegls, survivents ed invaliditad[^22-1] per ils bains generals necessaris per viver da persunas che vivan sulettas (art. 10 al. 1 lit. a cifra 1) e per il tschains da locaziun (art. 13 al. 2);
+- c) …
+- d) da la contribuziun minimala da la AVS/AI/CG per persunas senza activitad da gudogn;
+- e) da l'indemnisaziun a persunas dependentas d'agid tar la renta da la AI respectivamain tar la renta da la AVS;
 - f) da l'import per expensas persunalas, fixà en la lescha davart las prestaziuns supplementaras chantunalas tar l'assicuranza da vegls, survivents ed invalids[^22-2].
 
 <sup>2</sup> Betg cuntegnids n'èn ils custs che vegnan chaschunads da malsognas e d'impediments fin a l'import maximal fixà en la lescha davart las prestaziuns supplementaras chantunalas tar l'assicuranza da vegls, survivents ed invalids.
@@ -386,6 +386,8 @@ relaschada da la regenza ils 7 da favrer 2012
 - a) per investiziuns materialas immobilas: 3,3 pertschient;
 - b) per mobiglias, maschinas, vehichels: 10 pertschient;
 - c) per sistems d'informatica e da communicaziun: 20 pertschient.
+
+<sup>6</sup> Instituziuns staziunaras e parzialmain staziunaras che survegnan annualmain ina contribuziun da prestaziun chantunala d'almain 300 000 francs, fan il rendaquint tenor Swiss GAAP RRQ 21. Resalvads restan ils alineas 1 fin 5.
 
 ## 6. Disposiziuns finalas
 

@@ -2,24 +2,24 @@
 canton: GR
 number: "440.110"
 title: "Ordinanza per l'integrazione sociale e professionale di persone disabili"
-short: "Ordinanza sull'integrazione dei disabili; OIDis"
+short: "Ordinanza sull'integrazione dei disabili, OIDis"
 language: it
-version: 2012-01-01
-corrected: 2018-01-10
-version_adopted: 2012-02-07
+version: 2021-01-01
+corrected: 2026-10-02
+version_adopted: 2021-01-12
 adopted: 2012-02-07
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/440.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2332/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3134/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza per l'integrazione sociale e professionale di persone disabili
 
-(Ordinanza sull'integrazione dei disabili; OIDis)
+(Ordinanza sull'integrazione dei disabili, OIDis)
 
-del 07.02.2012 (stato 01.01.2012)
+del 07.02.2012 (stato 01.01.2021)
 
 emanata dal Governo il 7 febbraio 2012
 
@@ -264,11 +264,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Per i posti abitativi protetti, la retta per la partecipazione ai costi in caso di presenza corrisponde alla retta del 2007, in considerazione di eventuali cambiamenti:
 
-- a) delle prestazioni dell'AI;
-- b) dell'importo destinato alla copertura del fabbisogno generale vitale e dell'importo massimo per la pigione fissato nella legge federale sulle prestazioni complementari all'assicurazione per la vecchiaia, i superstiti e l'invalidità[^22-1] per le persone sole che vivono a casa;
-- c) dei premi determinanti per la riduzione dei premi;
-- d) dei contributi minimi AVS;
-- e) dell'assegno per grande invalidità;
+- a) della rendita AI o della rendita AVS;
+- b) dell'importo fissato nella legge federale sulle prestazioni complementari all'assicurazione per la vecchiaia, i superstiti e l'invalidità[^22-1] destinato alla copertura del fabbisogno generale vitale per le persone sole (art. 10 cpv. 1 lett. a n. 1) e della pigione (art. 13 cpv. 2);
+- c) …
+- d) del contributo minimo AVS/AI/IPG per persone non esercitanti un'attività lavorativa;
+- e) dell'assegno per grandi invalidi AI o AVS;
 - f) dell'importo fissato nella legge concernente le prestazioni complementari cantonali all'assicurazione per la vecchiaia, i superstiti e l'invalidità[^22-2] per le spese personali.
 
 <sup>2</sup> Non sono comprese le spese dovute a malattia e disabilità fino all'importo massimo stabilito nella legge concernente le prestazioni complementari cantonali all'assicurazione per la vecchiaia, i superstiti e l'invalidità.
@@ -386,6 +386,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) investimenti materiali immobili 3,3 percento;
 - b) mobili, macchine, veicoli 10 percento;
 - c) sistemi informatici e di comunicazione 20 percento.
+
+<sup>6</sup> Le istituzioni stazionarie e semistazionarie che ricevono un sussidio alle prestazioni cantonale annuo pari almeno a 300 000 franchi applicano il sistema di presentazione dei conti secondo Swiss GAAP FER 21. Sono fatti salvi i capoversi da 1 a 5.
 
 ## 6. Disposizioni finali
 
