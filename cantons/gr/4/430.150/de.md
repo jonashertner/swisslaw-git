@@ -1,36 +1,39 @@
 ---
 canton: GR
 number: "430.150"
-title: "Verordnung über die Subventionierung von Bauten in der Berufsbildung, in weiterführenden Bildungsangeboten und an Hochschulen (Bauverordnung BwBG)"
+title: "Verordnung über die Subventionierung von Bauten in der Berufsbildung, in weiterführenden Bildungsangeboten und an Hochschulen"
 short: Bauverordnung BwBG
 language: de
-version: 2012-08-01
-corrected: 2014-10-09
-version_adopted: 2012-05-22
+version: 2016-01-01
+corrected: 2026-10-02
+version_adopted: 2015-06-30
 adopted: 2012-05-22
 in_force: 2012-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.150"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1464/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2575/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Subventionierung von Bauten in der Berufsbildung, in weiterführenden Bildungsangeboten und an Hochschulen (Bauverordnung BwBG)
+# Verordnung über die Subventionierung von Bauten in der Berufsbildung, in weiterführenden Bildungsangeboten und an Hochschulen
 
-Gestützt auf Art. 45 Abs. 1 des Gesetzes über die Berufsbildung und weiterführende Bildungsangebote (BwBG)[^t-1]
+(Bauverordnung BwBG)
+
+Vom 22.05.2012 (Stand 01.01.2016)
+
+Gestützt auf Art. 45 Abs. 1 des Gesetzes über die Berufsbildung und weiterführende Bildungsangebote (BwBG)[^ingress-1]
 
 von der Regierung erlassen am 22. Mai 2012
 
-I. Allgemeine Bestimmungen
+[^ingress-1]: BR [430.000](https://www.gr-lex.gr.ch/data/430.000/de)
 
-[^t-1]: BR 430.000 01.08.2012 1
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Geltungsbereich**
 
-Diese Verordnung findet Anwendung auf Bauten und Anlagen, welche gemäss Gesetz über die Berufsbildung und weiterführende Bildungsangebote (BwBG) beitragsberechtigt sind.
+<sup>1</sup> Diese Verordnung findet Anwendung auf Bauten und Anlagen, welche gemäss Gesetz über die Berufsbildung und weiterführende Bildungsangebote (BwBG) beitragsberechtigt sind.
 
 #### Art. 2
 
@@ -46,13 +49,13 @@ Diese Verordnung findet Anwendung auf Bauten und Anlagen, welche gemäss Gesetz 
 
 <sup>5</sup> Das Hochbauamt wird für die bautechnische Prüfung beigezogen.
 
-### II. Gesuchseingaben und -behandlung
+## 2. Gesuchseingaben und -behandlung
 
 #### Art. 3
 
 **Phasen**
 
-Das Verfahren gliedert sich in der Regel in Phase I "Grundlagen/Raumprogramm" und Phase II "Vorprojekt".
+<sup>1</sup> Das Verfahren gliedert sich in der Regel in Phase I "Grundlagen/Raumprogramm" und Phase II "Vorprojekt".
 
 #### Art. 4
 
@@ -63,9 +66,7 @@ Das Verfahren gliedert sich in der Regel in Phase I "Grundlagen/Raumprogramm" un
 <sup>2</sup> Die Anerkennung des Bedarfs erfolgt, wenn insbesondere folgende Voraussetzungen erfüllt sind:
 
 - a) der Bedarf aufgrund der Zahlen von Lernenden und Nutzenden ist nachgewiesen;
-
 - b) die Bedarfsdeckung durch kooperative Nutzung von bestehender Infrastruktur mit anderen Institutionen ist ausgeschlossen;
-
 - c) die baulichen Defizite in Bezug auf das Angebot sind nachgewiesen.
 
 <sup>3</sup> Nach Prüfung der Gesuchsunterlagen und des Bedarfs genehmigt die Regierung das Raumprogramm und erteilt die zur Weiterbearbeitung des Projekts notwendigen Empfehlungen und Weisungen.
@@ -82,7 +83,7 @@ Das Verfahren gliedert sich in der Regel in Phase I "Grundlagen/Raumprogramm" un
 
 <sup>3</sup> Die Beitragszusicherung entfällt, wenn nicht innerhalb von drei Jahren mit dem Bau begonnen wird.
 
-### III. Beitragsberechtigung und Beitragsleistung
+## 3. Beitragsberechtigung und Beitragsleistung
 
 #### Art. 6
 
@@ -91,50 +92,41 @@ Das Verfahren gliedert sich in der Regel in Phase I "Grundlagen/Raumprogramm" un
 <sup>1</sup> Folgende Ausgaben, die gemäss Verordnung über den kantonalen Finanzhaushalt den Investitionen zugeordnet werden, sind beitragsberechtigt:
 
 - a) die von der Institution für das Angebot benötigten Räume, Anlagen und Einrichtungen sowie eine angemessene Raumreserve;
-
 - b) Räume, die auch anderen Zwecken als jenen der Bildung gemäss dieser Verordnung dienen, im Verhältnis der Benützung durch die Bildung;
-
 - c) Umbauten bestehender Räumlichkeiten, sofern dadurch eine wesentliche Verbesserung eines ungenügenden Angebotes erfolgt;
-
 - d) die Erschliessungs- und Umgebungsarbeiten innerhalb des erforderlichen Grundstückes, soweit sie für die Institution notwendig sind;
-
 - e) die von der Institution in den subventionsberechtigten Räumen benötigten Betriebseinrichtungen und Ausstattungen, die im Zusammenhang mit dem Bau angeschafft werden.
 
 <sup>2</sup> Nicht beitragsberechtigt sind Kosten für den Erwerb des Grundstückes.
-
-**2**
-
-01.08.2012
 
 #### Art. 7
 
 **Anrechenbare Kosten**
 
-Die anrechenbaren Kosten werden aufgrund von Kennwerten oder des Kostenvoranschlages ermittelt.
+<sup>1</sup> Die anrechenbaren Kosten werden aufgrund von Kennwerten oder des Kostenvoranschlages ermittelt.
 
 #### Art. 8
 
 **Beitragssatz und Beitragsleistung**
 
-Die Beiträge für Bauten betragen in Prozenten der anrechenbaren Kosten:
+<sup>1</sup> Die Beiträge für Bauten betragen in Prozenten der anrechenbaren Kosten:
 
-- a) 80 Prozent für Bauten, welche direkt der Ausbildung dienen;
-
+- a) bis zu 100 Prozent für Bauten, welche direkt der Ausbildung dienen;
 - b) 50 Prozent für die übrigen Bauten.
 
-### IV. Bauausführung und Auszahlung
+## 4. Bauausführung und Auszahlung
 
 #### Art. 9
 
 **Bauausführung**
 
-Gebäude, Einrichtungen und Anlagen werden nur in zweckmässiger und fachgemässer Ausführung subventioniert.
+<sup>1</sup> Gebäude, Einrichtungen und Anlagen werden nur in zweckmässiger und fachgemässer Ausführung subventioniert.
 
 #### Art. 10
 
 **Projektänderungen**
 
-Wesentliche Änderungen am Bauvorhaben sowie Änderungen, welche eine Anpassung der Beitragsleistung zur Folge haben können, sind dem zuständigen Amt unverzüglich mitzuteilen. Für eine Anpassung der Beitragszusicherung ist ein entsprechendes Gesuch einzureichen.
+<sup>1</sup> Wesentliche Änderungen am Bauvorhaben sowie Änderungen, welche eine Anpassung der Beitragsleistung zur Folge haben können, sind dem zuständigen Amt unverzüglich mitzuteilen. Für eine Anpassung der Beitragszusicherung ist ein entsprechendes Gesuch einzureichen.
 
 #### Art. 11
 
@@ -150,44 +142,26 @@ Wesentliche Änderungen am Bauvorhaben sowie Änderungen, welche eine Anpassung 
 
 **Vorzeitige Baufreigabe**
 
-Sind nicht voraussehbare Bauarbeiten unverzüglich vorzunehmen, kann die Regierung unter dem Vorbehalt der Beitragsgewährung ausnahmsweise eine vorzeitige Baufreigabe erteilen.
+<sup>1</sup> Sind nicht voraussehbare Bauarbeiten unverzüglich vorzunehmen, kann die Regierung unter dem Vorbehalt der Beitragsgewährung ausnahmsweise eine vorzeitige Baufreigabe erteilen.
 
-### V. Schlussbestimmungen
+## 5. Schlussbestimmungen
 
 #### Art. 13
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^13-1]**
 
-Die Verordnung über die Subventionierung von Schul- und Schulsportanlagen (Schulbauverordnung) vom 29. Juni 2010 (BR 421.300) wird wie folgt geändert:
-
-#### Art. 1
-
-**Abs. 2**
-
-### Aufgehoben
-
-**3**
-
-01.08.2012
-
-#### Art. 2
-
-**Abs. 3**
-
-### Aufgehoben
+[^13-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 14
 
 **Übergangsbestimmung**
 
-Für die im Zeitpunkt des Inkrafttretens der vorliegenden Verordnung hängigen Gesuche gilt das Verfahren nach neuem Recht.
+<sup>1</sup> Für die im Zeitpunkt des Inkrafttretens der vorliegenden Verordnung hängigen Gesuche gilt das Verfahren nach neuem Recht.
 
 #### Art. 15
 
 **Inkrafttreten**
 
-**4**
+<sup>1</sup> Diese Verordnung tritt auf den 1. August 2012 in Kraft.
 
-**01.08.2012**
-
-Diese Verordnung tritt auf den 1. August 2012 in Kraft.
+-

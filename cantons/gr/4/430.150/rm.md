@@ -1,36 +1,39 @@
 ---
 canton: GR
 number: "430.150"
-title: "Ordinaziun davart il subvenziunament d'edifizis en la furmaziun professiunala, en purschidas da furmaziun cuntinuanta e da scolas autas (ordinaziun da construcziun LFurm)"
+title: "Ordinaziun davart il subvenziunament d'edifizis en la furmaziun professiunala, en purschidas da furmaziun cuntinuanta e da scolas autas"
 short: ordinaziun da construcziun LFurm
 language: rm
-version: 2012-08-01
-corrected: 2014-10-09
-version_adopted: 2012-05-22
+version: 2016-01-01
+corrected: 2026-10-02
+version_adopted: 2015-06-30
 adopted: 2012-05-22
 in_force: 2012-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/430.150"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1464/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2575/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart il subvenziunament d'edifizis en la furmaziun professiunala, en purschidas da furmaziun cuntinuanta e da scolas autas (ordinaziun da construcziun LFurm)
+# Ordinaziun davart il subvenziunament d'edifizis en la furmaziun professiunala, en purschidas da furmaziun cuntinuanta e da scolas autas
 
-sa basond sin l'art. 45 al. 1 da la lescha davart la furmaziun professiunala e davart purschidas da furmaziun cuntinuanta (LFurm)[^t-1],
+(ordinaziun da construcziun LFurm)
+
+dals 22-05-2012 (versiun dals 01-01-2016)
+
+sa basond sin l'art. 45 al. 1 da la lescha davart la furmaziun professiunala e davart purschidas da furmaziun cuntinuanta (LFurm)[^ingress-1]
 
 relaschada da la regenza ils 22 da matg 2012
 
-I. Disposiziuns generalas
+[^ingress-1]: DG [430.000](https://www.gr-lex.gr.ch/data/430.000/rm)
 
-[^t-1]: DG 430.000 01-08-2012 1
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
 **Champ d'applicaziun**
 
-Questa ordinaziun vegn applitgada per edifizis e per stabiliments che han il dretg da survegnir contribuziuns tenor la lescha davart la furmaziun professiunala e davart purschidas da furmaziun cuntinuanta (LFurm).
+<sup>1</sup> Questa ordinaziun vegn applitgada per edifizis e per stabiliments che han il dretg da survegnir contribuziuns tenor la lescha davart la furmaziun professiunala e davart purschidas da furmaziun cuntinuanta (LFurm).
 
 #### Art. 2
 
@@ -46,13 +49,13 @@ Questa ordinaziun vegn applitgada per edifizis e per stabiliments che han il dre
 
 <sup>5</sup> Per controllar la tecnica da construcziun vegn consultà l'uffizi da construcziun auta.
 
-### II. Inoltraziun e tractament da dumondas
+## 2. Inoltraziun e tractament da dumondas
 
 #### Art. 3
 
 **Fasas**
 
-Per regla è la procedura dividida en la fasa I "basa/program da spazi" ed en la fasa II "project preliminar".
+<sup>1</sup> Per regla è la procedura dividida en la fasa I "basa/program da spazi" ed en la fasa II "project preliminar".
 
 #### Art. 4
 
@@ -63,9 +66,7 @@ Per regla è la procedura dividida en la fasa I "basa/program da spazi" ed en la
 <sup>2</sup> Il basegn vegn renconuschì, en spezial, sche las suandantas premissas èn ademplidas:
 
 - a) il basegn sto vegnir cumprovà sin basa da las cifras da las emprendistas e dals emprendists sco er da las utilisadras e dals utilisaders;
-
 - b) la cuvrida dal basegn tras in'utilisaziun cooperativa da l'infrastructura existenta ensemen cun autras instituziuns è exclusa;
-
 - c) ils deficits architectonics areguard la purschida ston vegnir cumprovads.
 
 <sup>3</sup> Suenter avair examinà ils documents da dumonda ed il basegn approvescha la regenza il program da spazi e relascha las recumandaziuns e las directivas ch'èn necessarias per cuntinuar cun l'elavuraziun dal project.
@@ -82,9 +83,7 @@ Per regla è la procedura dividida en la fasa I "basa/program da spazi" ed en la
 
 <sup>3</sup> Las contribuziuns garantidas scrodan, sch'i na vegn betg cumenzà cun la construcziun entaifer 3 onns.
 
-### III. Dretg da survegnir contribuziuns e pajament da las
-
-contribuziuns
+## 3. Dretg da survegnir contribuziuns e pajament da las contribuziuns
 
 #### Art. 6
 
@@ -93,50 +92,41 @@ contribuziuns
 <sup>1</sup> Las suandantas expensas che vegnan – tenor l'ordinaziun davart las finanzas dal chantun Grischun – attribuidas a las investiziuns han il dretg da survegnir contribuziuns:
 
 - a) las localitads, ils stabiliments ed ils indrizs che vegnan duvrads da l'instituziun per la purschida, sco er ina reserva da spazi adequata;
-
 - b) localitads che servan er ad auters intents che a quels da la furmaziun tenor questa ordinaziun, en la relaziun, co ch'ellas vegnan duvradas da la furmaziun;
-
-**2**
-
-**3**
-
-01-08-2012 c) midadas architectonicas da localitads existentas, premess ch'ina purschida insuffizienta vegnia meglierada essenzialmain tras quai;
-
+- c) midadas architectonicas da localitads existentas, premess ch'ina purschida insuffizienta vegnia meglierada essenzialmain tras quai;
 - d) las lavurs d'avertura e da conturn entaifer il bain immobigliar respectiv, uschenavant ch'ellas èn necessarias per l'instituziun;
-
 - e) ils indrizs da manaschi ed ils equipaments, ils quals vegnan duvrads da l'instituziun en las localitads, che han il dretg da survegnir subvenziuns, ed ils quals vegnan acquistads en connex cun la construcziun.
 
 <sup>2</sup> Ils custs per acquistar il bain immobigliar èn exclus dal dretg da survegnir contribuziuns.
 
-#### Art. 8
+#### Art. 7
 
 **Custs imputabels**
 
-Ils custs imputabels vegnan eruids sin basa d'indicaturs u sin basa dal preventiv dals custs.
+<sup>1</sup> Ils custs imputabels vegnan eruids sin basa d'indicaturs u sin basa dal preventiv dals custs.
 
 #### Art. 8
 
 **Tariffa e pajament da las contribuziuns**
 
-Las contribuziuns per edifizis importan en pertschients dals custs imputabels:
+<sup>1</sup> Las contribuziuns per edifizis importan en pertschients dals custs imputabels:
 
-- a) 80 pertschient per edifizis che servan directamain a la scolaziun;
-
+- a) fin a 100 pertschient per edifizis che servan directamain a la scolaziun;
 - b) 50 pertschient per ils ulteriurs edifizis.
 
-### IV. Realisaziun da la construcziun e pajament
+## 4. Realisaziun da la construcziun e pajament
 
 #### Art. 9
 
 **Realisaziun da la construcziun**
 
-Edifizis, indrizs e stabiliments vegnan mo subvenziunads, sch'els vegnan realisads en ina moda cunvegnenta e professiunala.
+<sup>1</sup> Edifizis, indrizs e stabiliments vegnan mo subvenziunads, sch'els vegnan realisads en ina moda cunvegnenta e professiunala.
 
 #### Art. 10
 
 **Midadas dal project**
 
-Midadas essenzialas dal project da construcziun sco er midadas che pon avair per consequenza che las contribuziuns stuessan vegnir adattadas, ston vegnir communitgadas immediatamain a l'uffizi cumpetent. Per adattar las contribuziuns garantidas sto vegnir inoltrada ina dumonda correspundenta.
+<sup>1</sup> Midadas essenzialas dal project da construcziun sco er midadas che pon avair per consequenza che las contribuziuns stuessan vegnir adattadas, ston vegnir communitgadas immediatamain a l'uffizi cumpetent. Per adattar las contribuziuns garantidas sto vegnir inoltrada ina dumonda correspundenta.
 
 #### Art. 11
 
@@ -148,46 +138,30 @@ Midadas essenzialas dal project da construcziun sco er midadas che pon avair per
 
 <sup>3</sup> Il pajament final vegn concedì suenter ch'il rendaquint da construcziun sco er suenter ch'ils documents che tutgan tiers èn vegnids controllads.
 
-01-08-2012
-
 #### Art. 12
 
 **Liberaziun anticipada da las lavurs da construcziun**
 
-Sche lavurs da construcziun che n'èn betg stadas previsiblas ston vegnir fatgas immediatamain, po la regenza – cun resalva da la concessiun da las contribuziuns – dar excepziunalmain liber anticipadamain las lavurs da construcziun.
+<sup>1</sup> Sche lavurs da construcziun che n'èn betg stadas previsiblas ston vegnir fatgas immediatamain, po la regenza – cun resalva da la concessiun da las contribuziuns – dar excepziunalmain liber anticipadamain las lavurs da construcziun.
 
-### V. Disposiziuns finalas
+## 5. Disposiziuns finalas
 
 #### Art. 13
 
-**Midada dal dretg vertent**
+**Midada dal dretg vertent[^13-1]**
 
-L'ordinaziun davart il subvenziunament da stabiliments da scola e da sport da scola (ordinaziun davart la construcziun da scolas) dals 29 da zercladur 2010 (DG 421.300) vegn midada sco suonda:
-
-#### Art. 1
-
-**al. 2**
-
-abolì
-
-#### Art. 2
-
-**al. 3**
-
-abolì
+[^13-1]: Las midadas dal dretg vertent na vegnan betg inditgadas.
 
 #### Art. 14
 
 **Disposiziun transitorica**
 
-Per las proceduras ch'èn pendentas il mument che questa lescha entra en vigur vala la procedura tenor il dretg nov.
+<sup>1</sup> Per las proceduras ch'èn pendentas il mument che questa lescha entra en vigur vala la procedura tenor il dretg nov.
 
 #### Art. 15
 
 **Entrada en vigur**
 
-Questa ordinaziun entra en vigur il 1. d'avust 2012.
+<sup>1</sup> Questa ordinaziun entra en vigur il 1. d'avust 2012.
 
-**4**
-
-01-08-2012
+-
