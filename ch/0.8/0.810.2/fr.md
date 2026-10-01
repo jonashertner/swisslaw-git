@@ -3,11 +3,11 @@ sr: "0.810.2"
 title: "Convention du 4 avril 1997 pour la protection des Droits de l'Homme et de la dignité de l'être humain à l'égard des applications de la biologie et de la médecine (Convention sur les Droits de l'Homme et la biomédecine)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/718"
 language: fr
-version: 2012-08-08
+version: 2026-10-02
 adopted: 1997-04-04
 in_force: 2008-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/718/20120808/fr/xml/fedlex-data-admin-ch-eli-cc-2008-718-20120808-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/718/20120808/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/718/20261002/fr/xml/fedlex-data-admin-ch-eli-cc-2008-718-20261002-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/718/20261002/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,13 +28,13 @@ Instrument de ratification déposé par la Suisse le 24 juillet 2008
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 2008
 
-(Etat le 8 août 2012)
+(État le 2 octobre 2026)
 
 [^t-1]: [RO 2008 5125](https://fedlex.data.admin.ch/eli/oc/2008/717).
 
-Préambule
+*Préambule*
 
-Les Etats membres du Conseil de l’Europe, les autres Etats et la Communauté européenne signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, les autres États et la Communauté européenne signataires de la présente Convention,
 
 considérant la Déclaration universelle des Droits de l’Homme, proclamée par l’Assemblée générale des Nations Unies le 10 décembre 1948;
 
@@ -70,11 +70,11 @@ résolus à prendre, dans le domaine des applications de la biologie et de la m�
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
-[^ingress-4]: [RS 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
-[^ingress-5]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
+[^ingress-4]: [RS 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
+[^ingress-5]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 
 ## Chapitre I Dispositions générales
 
@@ -162,7 +162,7 @@ Les souhaits précédemment exprimés au sujet d’une intervention médicale pa
 
 <sup>(2)</sup> Toute personne a le droit de connaître toute information recueillie sur sa santé. Cependant, la volonté d’une personne de ne pas être informée doit être respectée.
 
-<sup>(3)</sup> A titre exceptionnel, la loi peut prévoir, dans l’intérêt du patient, des restrictions à l’exercice des droits mentionnés au par. 2.
+<sup>(3)</sup> À titre exceptionnel, la loi peut prévoir, dans l’intérêt du patient, des restrictions à l’exercice des droits mentionnés au par. 2.
 
 ## Chapitre IV Génome humain
 
@@ -226,7 +226,7 @@ Une recherche ne peut être entreprise sur une personne n’ayant pas, conformé
 
 <sup>(2)</sup>
 
-A titre exceptionnel et dans les conditions de protection prévues par la loi, une recherche dont les résultats attendus ne comportent pas de bénéfice direct pour la santé de la personne peut être autorisée si les conditions énoncées aux al. i), iii), iv) et v) du par. 1 ci-dessus ainsi que les conditions supplémentaires suivantes sont réunies:
+À titre exceptionnel et dans les conditions de protection prévues par la loi, une recherche dont les résultats attendus ne comportent pas de bénéfice direct pour la santé de la personne peut être autorisée si les conditions énoncées aux al. i), iii), iv) et v) du par. 1 ci-dessus ainsi que les conditions supplémentaires suivantes sont réunies:
 
 - i) la recherche a pour objet de contribuer, par une amélioration significative de la connaissance scientifique de l’état de la personne, de sa maladie ou de son trouble, à l’obtention, à terme, de résultats permettant un bénéfice pour la personne concernée ou pour d’autres personnes dans la même catégorie d’âge ou souffrant de la même maladie ou trouble ou présentant les mêmes caractéristiques;
 - ii) la recherche ne présente pour la personne qu’un risque minimal et une contrainte minimale.
@@ -257,7 +257,7 @@ A titre exceptionnel et dans les conditions de protection prévues par la loi, u
 
 <sup>(2)</sup>
 
-A titre exceptionnel et dans les conditions de protection prévues par la loi, le prélèvement de tissus régénérables sur une personne qui n’a pas la capacité de consentir peut être autorisé si les conditions suivantes sont réunies:
+À titre exceptionnel et dans les conditions de protection prévues par la loi, le prélèvement de tissus régénérables sur une personne qui n’a pas la capacité de consentir peut être autorisé si les conditions suivantes sont réunies:
 
 - i) on ne dispose pas d’un donneur compatible jouissant de la capacité de consentir,
 - ii) le receveur est un frère ou une sœur du donneur,
@@ -358,17 +358,17 @@ Les Protocoles sont ouverts à la signature des signataires de la Convention. Il
 
 <sup>(1)</sup> Les tâches confiées au «Comité» dans le présent article et dans l’art. 29 sont effectuées par le Comité Directeur pour la Bioéthique (CDBI), ou par tout autre comité désigné à cette fin par le Comité des Ministres.
 
-<sup>(2)</sup> Sans préjudice des dispositions spécifiques de l’art. 29, tout Etat membre du Conseil de l’Europe ainsi que toute Partie à la présente Convention qui n’est pas membre du Conseil de l’Europe peut se faire représenter au sein du Comité, lorsque celui-ci accomplit les tâches confiées par la présente Convention, et y dispose d’une voix.
+<sup>(2)</sup> Sans préjudice des dispositions spécifiques de l’art. 29, tout État membre du Conseil de l’Europe ainsi que toute Partie à la présente Convention qui n’est pas membre du Conseil de l’Europe peut se faire représenter au sein du Comité, lorsque celui-ci accomplit les tâches confiées par la présente Convention, et y dispose d’une voix.
 
-<sup>(3)</sup> Tout Etat visé à l’art. 33 ou invité à adhérer à la Convention conformément aux dispositions de l’art. 34, qui n’est pas Partie à la présente Convention, peut désigner un observateur auprès du Comité. Si la Communauté européenne n’est pas Partie, elle peut désigner un observateur auprès du Comité.
+<sup>(3)</sup> Tout État visé à l’art. 33 ou invité à adhérer à la Convention conformément aux dispositions de l’art. 34, qui n’est pas Partie à la présente Convention, peut désigner un observateur auprès du Comité. Si la Communauté européenne n’est pas Partie, elle peut désigner un observateur auprès du Comité.
 
 <sup>(4)</sup> Afin de tenir compte des évolutions scientifiques, la présente Convention fera l’objet d’un examen au sein du comité dans un délai maximum de cinq ans après son entrée en vigueur, et par la suite à des intervalles que le Comité pourra déterminer.
 
-<sup>(5)</sup> Toute proposition d’amendement à la présente Convention ainsi que toute proposition de protocole ou d’amendement à un Protocole, présentée par une Partie, par le Comité ou le Comité des Ministres, est communiquée au Secrétaire Général du Conseil de l’Europe et transmise par ses soins aux Etats membres du Conseil de l’Europe, à la Communauté européenne, à tout Signataire, à toute Partie, à tout Etat invité à signer la présente Convention conformément aux dispositions de l’art. 33, et à tout Etat invité à y adhérer conformément aux dispositions de l’art. 34.
+<sup>(5)</sup> Toute proposition d’amendement à la présente Convention ainsi que toute proposition de protocole ou d’amendement à un Protocole, présentée par une Partie, par le Comité ou le Comité des Ministres, est communiquée au Secrétaire Général du Conseil de l’Europe et transmise par ses soins aux États membres du Conseil de l’Europe, à la Communauté européenne, à tout Signataire, à toute Partie, à tout État invité à signer la présente Convention conformément aux dispositions de l’art. 33, et à tout État invité à y adhérer conformément aux dispositions de l’art. 34.
 
 <sup>(6)</sup> Le Comité examine la proposition au plus tôt deux mois après qu’elle a été transmise par le Secrétaire Général conformément au par. 5. Le Comité soumet le texte adopté à la majorité des deux tiers des voix exprimées à l’approbation du Comité des Ministres. Après son approbation, ce texte est communiqué aux Parties en vue de sa ratification, son acceptation ou son approbation.
 
-<sup>(7)</sup> Tout amendement entrera en vigueur, à l’égard des Parties qui l’ont accepté, le premier jour du mois qui suit l’expiration d’une période d’un mois après la date à laquelle cinq Parties, y compris au moins quatre Etats membres du Conseil de l’Europe, auront informé le Secrétaire Général qu’elles l’ont accepté.
+<sup>(7)</sup> Tout amendement entrera en vigueur, à l’égard des Parties qui l’ont accepté, le premier jour du mois qui suit l’expiration d’une période d’un mois après la date à laquelle cinq Parties, y compris au moins quatre États membres du Conseil de l’Europe, auront informé le Secrétaire Général qu’elles l’ont accepté.
 
 Pour toute Partie qui l’aura accepté ultérieurement, l’amendement entrera en vigueur le premier jour du mois qui suit l’expiration d’une période d’un mois après la date à laquelle ladite Partie aura informé le Secrétaire Général de son acceptation.
 
@@ -378,29 +378,29 @@ Pour toute Partie qui l’aura accepté ultérieurement, l’amendement entrera 
 
 **Signature, ratification et entrée en vigueur**
 
-<sup>(1)</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe, des Etats non membres qui ont participé à son élaboration et de la Communauté européenne.
+<sup>(1)</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe, des États non membres qui ont participé à son élaboration et de la Communauté européenne.
 
 <sup>(2)</sup> La présente Convention sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>(3)</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle cinq Etats, incluant au moins quatre Etats membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention, conformément aux dispositions du paragraphe précédent.
+<sup>(3)</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle cinq États, incluant au moins quatre États membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention, conformément aux dispositions du paragraphe précédent.
 
 <sup>(4)</sup> Pour tout Signataire qui exprimera ultérieurement son consentement à être lié par la Convention, celle-ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de son instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 34
 
-**Etats non membres**
+**États non membres**
 
-<sup>(1)</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des Parties, inviter tout Etat non membre du Conseil de l’Europe à adhérer à la présente Convention par une décision prise à la majorité prévue à l’art. 20, let. d, du Statut du Conseil de l’Europe[^34-1] et à l’unanimité des voix des représentants des Etats contractants ayant le droit de siéger au Comité des Ministres.
+<sup>(1)</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des Parties, inviter tout État non membre du Conseil de l’Europe à adhérer à la présente Convention par une décision prise à la majorité prévue à l’art. 20, let. d, du Statut du Conseil de l’Europe[^34-1] et à l’unanimité des voix des représentants des États contractants ayant le droit de siéger au Comité des Ministres.
 
-<sup>(2)</sup> Pour tout Etat adhérent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>(2)</sup> Pour tout État adhérent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
-[^34-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^34-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 35
 
 **Application territoriale**
 
-<sup>(1)</sup> Tout Signataire peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, désigner le territoire ou les territoires auxquels s’appliquera la présente Convention. Tout autre Etat peut formuler la même déclaration au moment du dépôt de son instrument d’adhésion.
+<sup>(1)</sup> Tout Signataire peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, désigner le territoire ou les territoires auxquels s’appliquera la présente Convention. Tout autre État peut formuler la même déclaration au moment du dépôt de son instrument d’adhésion.
 
 <sup>(2)</sup> Toute Partie peut, à tout moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans la déclaration et dont elle assure les relations internationales ou pour lequel elle est habilitée à stipuler. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
@@ -410,7 +410,7 @@ Pour toute Partie qui l’aura accepté ultérieurement, l’amendement entrera 
 
 **Réserves**
 
-<sup>(1)</sup> Tout Etat et la Communauté européenne peuvent, au moment de la signature de la présente Convention ou du dépôt de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion, formuler une réserve au sujet d’une disposition particulière de la Convention, dans la mesure où une loi alors en vigueur sur son territoire n’est pas conforme à cette disposition. Les réserves de caractère général ne sont pas autorisées aux termes du présent article.
+<sup>(1)</sup> Tout État et la Communauté européenne peuvent, au moment de la signature de la présente Convention ou du dépôt de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion, formuler une réserve au sujet d’une disposition particulière de la Convention, dans la mesure où une loi alors en vigueur sur son territoire n’est pas conforme à cette disposition. Les réserves de caractère général ne sont pas autorisées aux termes du présent article.
 
 <sup>(2)</sup> Toute réserve émise conformément au présent article comporte un bref exposé de la loi pertinente.
 
@@ -430,7 +430,7 @@ Pour toute Partie qui l’aura accepté ultérieurement, l’amendement entrera 
 
 **Notifications**
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil, à la Communauté européenne, à tout Signataire, à toute Partie et à tout autre Etat qui a été invité à adhérer à la présente Convention:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil, à la Communauté européenne, à tout Signataire, à toute Partie et à tout autre État qui a été invité à adhérer à la présente Convention:
 
 - a) toute signature;
 - b) le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -440,48 +440,49 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 - f) toute réserve et tout retrait de réserve formulés conformément aux dispositions de l’art. 36;
 - g) tout autre acte, notification ou communication ayant trait à la présente Convention.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Oviedo (Asturies), le 4 avril 1997, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe, à la Communauté européenne, aux Etats non membres qui ont participé à l’élaboration de la présente Convention, et à tout Etat invité à adhérer à la présente Convention. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Oviedo (Asturies), le 4 avril 1997, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, à la Communauté européenne, aux États non membres qui ont participé à l’élaboration de la présente Convention, et à tout État invité à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 8 août 2012[^t-2]
+Champ d’application le 2 octobre 2026[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Albanie</td><td>30 mars</td><td>2011</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>11 mai</td><td>2007</td><td>1<sup>er</sup> septembre</td><td>2007</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>23 avril</td><td>2003</td><td>1<sup>er</sup> août</td><td>2003</td></tr>
-<tr><td colspan="2">Chypre</td><td>20 mars</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td colspan="2">Croatie\*</td><td>28 novembre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
-<tr><td colspan="2">Danemark\* <sup>a</sup></td><td>10 août</td><td>1999</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Espagne</td><td>1<sup>er</sup> septembre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
-<tr><td colspan="2">Estonie</td><td>8 février</td><td>2002</td><td>1<sup>er</sup> juin</td><td>2002</td></tr>
-<tr><td colspan="2">Finlande</td><td>30 novembre</td><td>2009</td><td>1<sup>er</sup> mars</td><td>2010</td></tr>
-<tr><td colspan="2">France\*</td><td>13 décembre</td><td>2011</td><td>1<sup>er</sup> avril</td><td>2012</td></tr>
-<tr><td colspan="2">Géorgie</td><td>22 novembre</td><td>2000</td><td>1<sup>er</sup> mars</td><td>2001</td></tr>
-<tr><td colspan="2">Grèce</td><td>6 octobre</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Hongrie</td><td>9 janvier</td><td>2002</td><td>1<sup>er</sup> mai</td><td>2002</td></tr>
-<tr><td colspan="2">Islande</td><td>12 octobre</td><td>2004</td><td>1<sup>er</sup> février</td><td>2005</td></tr>
-<tr><td colspan="2">Lettonie</td><td>25 février</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
-<tr><td colspan="2">Lituanie</td><td>17 octobre</td><td>2002</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
-<tr><td colspan="2">Macédoine</td><td>3 septembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
-<tr><td colspan="2">Moldova\*</td><td>26 novembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2003</td></tr>
-<tr><td colspan="2">Monténégro</td><td>19 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
-<tr><td colspan="2">Norvège\*</td><td>13 octobre</td><td>2006</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
-<tr><td colspan="2">Portugal</td><td>13 août</td><td>2001</td><td>1<sup>er</sup> décembre</td><td>2001</td></tr>
-<tr><td colspan="2">République tchèque</td><td>22 juin</td><td>2001</td><td>1<sup>er</sup> octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Roumanie</td><td>24 avril</td><td>2001</td><td>1<sup>er</sup> août</td><td>2001</td></tr>
-<tr><td colspan="2">Saint-Marin</td><td>20 mars</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Serbie</td><td>10 février</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
-<tr><td colspan="2">Slovaquie</td><td>15 janvier</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Slovénie</td><td>5 novembre</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>24 juillet</td><td>2008</td><td>1<sup>er</sup> novembre</td><td>2008</td></tr>
-<tr><td colspan="2">Turquie\*</td><td>2 juillet</td><td>2004</td><td>1<sup>er</sup> novembre</td><td>2004</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">La Convention ne s’applique pas aux Iles Féroé et au Groënland.</td></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>30 mars</td><td>2011</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
+<tr><td>Andorre\*</td><td>15 juin</td><td>2023</td><td>1<sup>er</sup> octobre</td><td>2023</td></tr>
+<tr><td>Arménie\*</td><td>15 octobre</td><td>2025</td><td>1<sup>er</sup> février</td><td>2026</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>11 mai</td><td>2007</td><td>1<sup>er</sup> septembre</td><td>2007</td></tr>
+<tr><td>Bulgarie</td><td>23 avril</td><td>2003</td><td>1<sup>er</sup> août</td><td>2003</td></tr>
+<tr><td>Chypre</td><td>20 mars</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
+<tr><td>Croatie\*</td><td>28 novembre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
+<tr><td>Danemark\* <sup>a</sup></td><td>10 août</td><td>1999</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Espagne</td><td>1<sup>er</sup> septembre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
+<tr><td>Estonie</td><td>8 février</td><td>2002</td><td>1<sup>er</sup> juin</td><td>2002</td></tr>
+<tr><td>Finlande</td><td>30 novembre</td><td>2009</td><td>1<sup>er</sup> mars</td><td>2010</td></tr>
+<tr><td>France\*</td><td>13 décembre</td><td>2011</td><td>1<sup>er</sup> avril</td><td>2012</td></tr>
+<tr><td>Géorgie</td><td>22 novembre</td><td>2000</td><td>1<sup>er</sup> mars</td><td>2001</td></tr>
+<tr><td>Grèce</td><td>6 octobre</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Hongrie</td><td>9 janvier</td><td>2002</td><td>1<sup>er</sup> mai</td><td>2002</td></tr>
+<tr><td>Islande</td><td>12 octobre</td><td>2004</td><td>1<sup>er</sup> février</td><td>2005</td></tr>
+<tr><td>Lettonie</td><td>25 février</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
+<tr><td>Lituanie</td><td>17 octobre</td><td>2002</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
+<tr><td>Macédoine du Nord</td><td>3 septembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
+<tr><td>Moldova\*</td><td>26 novembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2003</td></tr>
+<tr><td>Monténégro</td><td>19 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
+<tr><td>Norvège\*</td><td>13 octobre</td><td>2006</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
+<tr><td>Portugal</td><td>13 août</td><td>2001</td><td>1<sup>er</sup> décembre</td><td>2001</td></tr>
+<tr><td>République tchèque</td><td>22 juin</td><td>2001</td><td>1<sup>er</sup> octobre</td><td>2001</td></tr>
+<tr><td>Roumanie</td><td>24 avril</td><td>2001</td><td>1<sup>er</sup> août</td><td>2001</td></tr>
+<tr><td>Saint-Marin</td><td>20 mars</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Serbie</td><td>10 février</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
+<tr><td>Slovaquie</td><td>15 janvier</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Slovénie</td><td>5 novembre</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Suisse\*</td><td>24 juillet</td><td>2008</td><td>1<sup>er</sup> novembre</td><td>2008</td></tr>
+<tr><td>Turquie\*</td><td>2 juillet</td><td>2004</td><td>1<sup>er</sup> novembre</td><td>2004</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé et au Groënland.</td></tr>
 </table>
 
-## Réserves et déclarations
+[^t-2]: [RO 2008 5137](https://fedlex.data.admin.ch/eli/oc/2008/718); [2012 4537](https://fedlex.data.admin.ch/eli/oc/2012/538); [2026 521](https://fedlex.data.admin.ch/eli/oc/2026/521). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
-[^t-2]: [RO 2008 5137](https://fedlex.data.admin.ch/eli/oc/2008/718)et **2012** 4537
+Réserves et déclarations
 
 Suisse
 
@@ -491,14 +492,14 @@ Jusqu’à l’entrée en vigueur de la loi fédérale sur la révision du code 
 
 b. réserves portant sur les art. 19 et 20:
 
-- 1\. Les art. 19 et 20 sont applicables sous réserve des art. 12 et 13 de la loi du 8 octobre 2004 sur la transplantation[^annexu1-lvlu2-1] (état au 1<sup>er</sup> juillet 2007), qui ne prévoient pas le principe de la subsidiarité d’un prélèvement sur une personne vivante.
+- 1\. Les art. 19 et 20 sont applicables sous réserve des art. 12 et 13 de la loi du 8 octobre 2004 sur la transplantation[^t-3] (état au 1<sup>er</sup> juillet 2007), qui ne prévoient pas le principe de la subsidiarité d’un prélèvement sur une personne vivante.
 - 2\. L’art. 20, al. 2, est applicable en outre sous réserve de l’art. 13, al. 2, let. d, de la loi du 8 octobre 2004 sur la transplantation (état au 1<sup>er</sup> juillet 2007), qui autorise également, à titre exceptionnel, le prélèvement de tissus ou de cellules qui se régénèrent lorsque le receveur est le père ou la mère ou encore un enfant du donneur.
 
-[^annexu1-lvlu2-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^t-3]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
-## Liste des dispositions cantonales
+Liste des dispositions cantonales
 
-### 1. Dekret des Kantons Aargau vom 21. August 1990 über die Rechte und Pflichten der Krankenhauspatienten (Patientendekret)
+## 1. Dekret des Kantons Aargau vom 21. August 1990 über die Rechte und Pflichten der Krankenhauspatienten (Patientendekret)
 
 #### § 17
 
@@ -510,7 +511,7 @@ b. réserves portant sur les art. 19 et 20:
 
 <sup>3</sup> Hat ein nicht urteilsfähiger Patient keinen gesetzlichen Vertreter, entscheidet für ihn der Arzt in seinem Interesse. Die nächsten Angehörigen sind vor dem Entscheid anzuhören. In Notfällen kann diese Anhörung unterbleiben.
 
-### 2. Verordnung des Kantons Appenzell Ausserrhoden vom 6. Dezember 1993 über die Rechtsstellung der Patienten und Patientinnen der kantonalen Spitäler (Patientenverordnung)
+## 2. Verordnung des Kantons Appenzell Ausserrhoden vom 6. Dezember 1993 über die Rechtsstellung der Patienten und Patientinnen der kantonalen Spitäler (Patientenverordnung)
 
 #### Art. 20
 
@@ -527,7 +528,7 @@ b. réserves portant sur les art. 19 et 20:
 
 <sup>4</sup> Grössere oder mit erheblichen Risiken verbundene Eingriffe werden nur durchgeführt, wenn eine schwere, nicht anders abwendbare Gefahr für Leben und Gesundheit vorliegt.
 
-### 3. Verordnung des Kantons Basel-Landschaft vom 1. November 1988 über die Rechte und Pflichten der Patienten in den kantonalen Krankenanstalten (Patientenverordnung)
+## 3. Verordnung des Kantons Basel-Landschaft vom 1. November 1988 über die Rechte und Pflichten der Patienten in den kantonalen Krankenanstalten (Patientenverordnung)
 
 #### § 6
 
@@ -547,7 +548,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>4</sup> Verweigert der Vertreter die Zustimmung zu einer medizinischen Massnahme, kann der Arzt an die Vormundschaftsbehörde gelangen, die über die Zustimmung entscheidet. In dringenden Fällen entscheidet der Arzt, ob die Verweigerung der Zustimmung missbräuchlich ist und daher missachtet werden darf. Die Verweigerung der Zustimmung zu einer lebensrettenden medizinischen Massnahme ist immer missbräuchlich.
 
-### 4. Verordnung des Kantons Basel-Stadt vom 4. Mai 1982 zum Spitalgesetz
+## 4. Verordnung des Kantons Basel-Stadt vom 4. Mai 1982 zum Spitalgesetz
 
 #### § 13
 
@@ -561,7 +562,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>4</sup> Verweigert der gesetzliche Vertreter die Vornahme eines Eingriffs, der zur fachgerechten Behandlung des Patienten geboten ist, sind der behandelnde Arzt oder die Spitalleitung befugt, die Vormundschaftsbehörde zu benachrichtigen, damit diese die zum Schutze des Patienten geeigneten Massnahmen treffen kann.
 
-### 5. Gesundheitsgesetz des Kantons Bern vom 2. Dezember 1984
+## 5. Gesundheitsgesetz des Kantons Bern vom 2. Dezember 1984
 
 #### Art. 40a
 
@@ -571,7 +572,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>2</sup> Ist die Patientin oder der Patient urteilsunfähig und nicht gesetzlich vertreten, so hört die Fachperson die nächsten Angehörigen oder eine nahe stehende Person an und handelt gemäss den objektiven Interessen, dem mutmasslichen Willen sowie allfälligen im Zustand der Urteilsfähigkeit getroffenen Anordnungen der Patientin oder des Patienten. Grosse oder risikoreiche Eingriffe dürfen nur durchgeführt werden, wenn eine schwere, nicht anders abwendbare Gefahr für Leben und Gesundheit vorliegt.
 
-### 6. Verordnung des Kantons Luzern vom 16. November 1993 über die Rechte und Pflichten der Patienten und Patientinnen der kantonalen Spitäler (Patientenverordnung)
+## 6. Verordnung des Kantons Luzern vom 16. November 1993 über die Rechte und Pflichten der Patienten und Patientinnen der kantonalen Spitäler (Patientenverordnung)
 
 #### § 22
 
@@ -585,7 +586,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>4</sup> Hat der nicht urteilsfähige Patient oder die nicht urteilsfähige Patientin keinen gesetzlichen Vertreter oder keine gesetzliche Vertreterin, entscheiden Arzt oder Ärztin nach pflichtgemässem Ermessen. Sie berücksichtigen dabei die objektiven Interessen und den mutmasslichen Willen des Patienten oder der Patientin. Vor grösseren oder mit erheblichen Risiken verbundenen Eingriffen soll wenn möglich mit den nächsten Angehörigen des Patienten oder der Patientin Rücksprache genommen werden.
 
-### 7. Vollziehungsverordnung des Kantons Nidwalden vom 27. März 1981 zum Gesetz über das Kantonsspital (Spitalverordnung)
+## 7. Vollziehungsverordnung des Kantons Nidwalden vom 27. März 1981 zum Gesetz über das Kantonsspital (Spitalverordnung)
 
 #### § 77
 
@@ -599,7 +600,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>4</sup> Der Patient ist nach Möglichkeit anzuhören.
 
-### 8. Verordnung des Kantons Obwalden vom 24. Oktober 1991 über die Patientenrechte
+## 8. Verordnung des Kantons Obwalden vom 24. Oktober 1991 über die Patientenrechte
 
 #### Art. 7
 
@@ -611,7 +612,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>3</sup> Ist kein gesetzlicher Vertreter vorhanden, so hat die behandelnde Person nach pflichtgemässem Ermessen zu handeln. Sie berücksichtigt die objektiven Interessen und den mutmasslichen Willen der behandelten Person. Grössere oder mit erheblichen Risiken verbundene Eingriffe sollen nur vorgenommen werden, wenn eine schwere, nicht anders abwendbare Gefahr für Leben und Gesundheit vorliegt.
 
-### 9. Gesundheitsgesetz des Kantons Schaffhausen vom 19. Oktober 1970
+## 9. Gesundheitsgesetz des Kantons Schaffhausen vom 19. Oktober 1970
 
 #### Art. 30c
 
@@ -627,7 +628,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>5</sup> Vorbehalten bleiben Behandlungen ohne Zustimmung gestützt auf eine entsprechende Rechtsgrundlage.
 
-### 10. Gesundheitsverordnung des Kantons Schwyz vom 16. Oktober 2002
+## 10. Gesundheitsverordnung des Kantons Schwyz vom 16. Oktober 2002
 
 #### § 39
 
@@ -639,7 +640,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>3</sup> Patientenverfügungen sind im Rahmen der Rechtsordnung zu beachten. Der Regierungsrat kann darüber nähere Bestimmungen erlassen, insbesondere über die Gültigkeit der Patientenverfügungen sowie die Informations- und Anhörungsrechte im Falle einer Urteilsunfähigkeit.
 
-### 11. Gesundheitsgesetz des Kantons Solothurn vom 27. Januar 1999
+## 11. Gesundheitsgesetz des Kantons Solothurn vom 27. Januar 1999
 
 #### § 35
 
@@ -653,7 +654,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>4</sup> Ein in urteilsfähigem Zustand zum Voraus geäusserter Wille ist zu respektieren.
 
-### 12. Gesetz des Kantons Thurgau vom 5. Juni 1985 über das Gesundheitswesen (Gesundheitsgesetz)
+## 12. Gesetz des Kantons Thurgau vom 5. Juni 1985 über das Gesundheitswesen (Gesundheitsgesetz)
 
 #### Art. 33b
 
@@ -663,7 +664,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>2</sup> Der urteilsunfähige Patient ist nach pflichtgemässem Ermessen zu behandeln, sofern eine Vertretung nicht vorliegt oder unzulässig ist. Die objektiven Umstände und der mutmassliche Wille des Patienten sind zu berücksichtigen.
 
-### 13. Gesundheitsgesetz des Kantons Wallis vom 9. Februar 1996
+## 13. Gesundheitsgesetz des Kantons Wallis vom 9. Februar 1996
 
 #### Art. 33
 
@@ -675,7 +676,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>3</sup> Ist ein Patient nicht in der Lage, seinen Willen zu äussern, und hat er keinen gesetzlichen Vertreter, so handelt die Gesundheitsfachperson gemäss den objektiven Interessen des Patienten unter Berücksichtigung seines vermutlichen Willens. Sie erkundigt sich, ob der Patient im voraus Bestimmungen formuliert hat.
 
-### 14. Gesetz vom 21. Mai 1970 über das Gesundheitswesen im Kanton Zug
+## 14. Gesetz vom 21. Mai 1970 über das Gesundheitswesen im Kanton Zug
 
 #### § 36
 
@@ -687,7 +688,7 @@ Kann der Patient wegen Bewusstlosigkeit oder infolge von Drogenrausch, Fieberdel
 
 <sup>3</sup> Bei einem Patienten, der sich im Zustand der Urteilsunfähigkeit befindet und keine gesetzliche Vertretung hat oder von dessen gesetzlicher Vertretung die Zustimmung nicht rechtzeitig eingeholt werden kann, wird die Zustimmung zu den nach anerkannten Berufsregeln indizierten dringlichen und notwendigen medizinischen Massnahmen vermutet, sofern nicht eine gegenteilige Anordnung des Patienten vorliegt.
 
-### 15. Patientinnen- und Patientengesetz des Kantons Zürich vom 5. April 2004
+## 15. Patientinnen- und Patientengesetz des Kantons Zürich vom 5. April 2004
 
 #### § 21
 

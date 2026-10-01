@@ -3,33 +3,30 @@ sr: "0.810.2"
 title: "Convenzione del 4 aprile 1997 per la protezione dei diritti dell'uomo e della dignità dell'essere umano riguardo alle applicazioni della biologia e della medicina (Convenzione sui diritti dell'uomo e la biomedicina)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/718"
 language: it
-version: 2012-08-08
+version: 2026-10-02
 adopted: 1997-04-04
 in_force: 2008-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/718/20120808/it/xml/fedlex-data-admin-ch-eli-cc-2008-718-20120808-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/718/20120808/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/718/20261002/it/xml/fedlex-data-admin-ch-eli-cc-2008-718-20261002-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/718/20261002/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione per la protezione dei diritti dell’uomo e della dignità dell’essere umano riguardo alle applicazioni della biologia e della medicina
 
-Traduzione*[^t-1]*
+RU **2008** 5137; FF **2002** 245
+
+Traduzione
 
 (Convenzione sui diritti dell’uomo e la biomedicina)
 
-Conclusa a Oviedo il 4 aprile 1997
+Conclusa a Oviedo il 4 aprile 1997 Approvata dall’Assemblea federale il 20 marzo 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 24 luglio 2008 Entrata in vigore per la Svizzera il 1° novembre 2008
 
-Approvata dall’Assemblea federale il 20 marzo 2008[^t-2]
+(Stato 2 ottobre 2026)
 
-Strumento di ratifica depositato dalla Svizzera il 24 luglio 2008 Entrata in vigore per la Svizzera il 1° novembre 2008
+[^t-1]: [RU 2008 5125](https://fedlex.data.admin.ch/eli/oc/2008/717)
 
-(Stato 8 agosto 2012)
-
-[^t-1]: RU **2008** 5137; FF **2002** 245 Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 2008 5125](https://fedlex.data.admin.ch/eli/oc/2008/717)
-
-Preambolo
+*Preambolo*
 
 Gli Stati membri del Consiglio d’Europa, gli altri Stati e la Comunità europea, firmatari della presente Convenzione,
 
@@ -67,11 +64,11 @@ decisi a prendere, nel campo delle applicazioni della biologia e della medicina,
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
-[^ingress-4]: [RS 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
-[^ingress-5]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
+[^ingress-4]: [RS 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
+[^ingress-5]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 
 ## Capitolo I: Disposizioni generali
 
@@ -101,7 +98,7 @@ Le Parti prendono, tenuto conto dei bisogni della salute e delle risorse disponi
 
 Ogni intervento nel campo della salute, compresa la ricerca, deve essere effettuato nel rispetto delle norme e degli obblighi professionali, così come nel rispetto delle regole di condotta applicabili nella fattispecie.
 
-### Capitolo II: Consenso
+## Capitolo II: Consenso
 
 #### Art. 5
 
@@ -391,7 +388,7 @@ Per ogni Parte che l’ha accettata ulteriormente, l’emendamento entra in vigo
 
 <sup>(2)</sup> Per ogni Stato aderente, la Convenzione entra in vigore il primo giorno del mese che segue la scadenza di un periodo di tre mesi dopo la data di deposito dello strumento di adesione presso il Segretario generale del Consiglio d’Europa.
 
-[^34-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^34-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 35
 
@@ -439,46 +436,47 @@ Il Segretario generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di ciò,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Oviedo il 4 aprile 1997 in francese e in inglese, i due testi facenti egualmente fede, in un solo esemplare depositato negli archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne trasmette copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa, alla Comunità europea, agli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione, e a ogni Stato invitato ad aderire alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione l’8 agosto 2012**[^t-3]**
+Campo d’applicazione il 2 ottobre 2026[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania</td><td>30 marzo</td><td>2011</td><td>1° luglio</td><td>2011</td></tr>
-<tr><td colspan="2">Bosnia ed Erzegovina</td><td>11 maggio</td><td>2007</td><td>1° settembre</td><td>2007</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>23 aprile</td><td>2003</td><td>1° agosto</td><td>2003</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>22 giugno</td><td>2001</td><td>1° ottobre</td><td>2001</td></tr>
-<tr><td colspan="2">Cipro</td><td>20 marzo</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
-<tr><td colspan="2">Croazia\*</td><td>28 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Danimarca\* <sup>a</sup></td><td>10 agosto</td><td>1999</td><td>1° dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Estonia</td><td>8 febbraio</td><td>2002</td><td>1° giugno</td><td>2002</td></tr>
-<tr><td colspan="2">Finlandia</td><td>30 novembre</td><td>2009</td><td>1° marzo</td><td>2010</td></tr>
-<tr><td colspan="2">Francia\*</td><td>13 dicembre</td><td>2011</td><td>1° aprile</td><td>2012</td></tr>
-<tr><td colspan="2">Georgia</td><td>22 novembre</td><td>2000</td><td>1° marzo</td><td>2001</td></tr>
-<tr><td colspan="2">Grecia</td><td>6 ottobre</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Islanda</td><td>12 ottobre</td><td>2004</td><td>1° febbraio</td><td>2005</td></tr>
-<tr><td colspan="2">Lettonia</td><td>25 febbraio</td><td>2010</td><td>1° giugno</td><td>2010</td></tr>
-<tr><td colspan="2">Lituania</td><td>17 ottobre</td><td>2002</td><td>1° febbraio</td><td>2003</td></tr>
-<tr><td colspan="2">Macedonia</td><td>3 settembre</td><td>2009</td><td>1° gennaio</td><td>2010</td></tr>
-<tr><td colspan="2">Moldova\*</td><td>26 novembre</td><td>2002</td><td>1° marzo</td><td>2003</td></tr>
-<tr><td colspan="2">Montenegro</td><td>19 marzo</td><td>2010</td><td>1° luglio</td><td>2010</td></tr>
-<tr><td colspan="2">Norvegia\*</td><td>13 ottobre</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
-<tr><td colspan="2">Portogallo</td><td>13 agosto</td><td>2001</td><td>1° dicembre</td><td>2001</td></tr>
-<tr><td colspan="2">Romania</td><td>24 aprile</td><td>2001</td><td>1° agosto</td><td>2001</td></tr>
-<tr><td colspan="2">San Marino</td><td>20 marzo</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Serbia</td><td>10 febbraio</td><td>2011</td><td>1° giugno</td><td>2011</td></tr>
-<tr><td colspan="2">Slovacchia</td><td>15 gennaio</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Slovenia</td><td>5 novembre</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Spagna</td><td>1<sup>°</sup> settembre</td><td>1999</td><td>1° gennaio</td><td>2000</td></tr>
-<tr><td colspan="2">Svizzera\*</td><td>24 luglio</td><td>2008</td><td>1° novembre</td><td>2008</td></tr>
-<tr><td colspan="2">Turchia\*</td><td>2 luglio</td><td>2004</td><td>1° novembre</td><td>2004</td></tr>
-<tr><td colspan="2">Ungheria</td><td>9 gennaio</td><td>2002</td><td>1° maggio</td><td>2002</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">La Conv. non si applica alle isole Färöer, né alla Groenlandia.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>30 marzo</td><td>2011</td><td>1° luglio</td><td>2011</td></tr>
+<tr><td>Andorra\*</td><td>15 giugno</td><td>2023</td><td>1° ottobre</td><td>2023</td></tr>
+<tr><td>Armenia\*</td><td>15 ottobre</td><td>2025</td><td>1° febbraio</td><td>2026</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>11 maggio</td><td>2007</td><td>1° settembre</td><td>2007</td></tr>
+<tr><td>Bulgaria</td><td>23 aprile</td><td>2003</td><td>1° agosto</td><td>2003</td></tr>
+<tr><td>Ceca, Repubblica</td><td>22 giugno</td><td>2001</td><td>1° ottobre</td><td>2001</td></tr>
+<tr><td>Cipro</td><td>20 marzo</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
+<tr><td>Croazia\*</td><td>28 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Danimarca\* <sup>a</sup></td><td>10 agosto</td><td>1999</td><td>1° dicembre</td><td>1999</td></tr>
+<tr><td>Estonia</td><td>8 febbraio</td><td>2002</td><td>1° giugno</td><td>2002</td></tr>
+<tr><td>Finlandia</td><td>30 novembre</td><td>2009</td><td>1° marzo</td><td>2010</td></tr>
+<tr><td>Francia\*</td><td>13 dicembre</td><td>2011</td><td>1° aprile</td><td>2012</td></tr>
+<tr><td>Georgia</td><td>22 novembre</td><td>2000</td><td>1° marzo</td><td>2001</td></tr>
+<tr><td>Grecia</td><td>6 ottobre</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
+<tr><td>Islanda</td><td>12 ottobre</td><td>2004</td><td>1° febbraio</td><td>2005</td></tr>
+<tr><td>Lettonia</td><td>25 febbraio</td><td>2010</td><td>1° giugno</td><td>2010</td></tr>
+<tr><td>Lituania</td><td>17 ottobre</td><td>2002</td><td>1° febbraio</td><td>2003</td></tr>
+<tr><td>Macedonia del Nord</td><td>3 settembre</td><td>2009</td><td>1° gennaio</td><td>2010</td></tr>
+<tr><td>Moldova\*</td><td>26 novembre</td><td>2002</td><td>1° marzo</td><td>2003</td></tr>
+<tr><td>Montenegro</td><td>19 marzo</td><td>2010</td><td>1° luglio</td><td>2010</td></tr>
+<tr><td>Norvegia\*</td><td>13 ottobre</td><td>2006</td><td>1° febbraio</td><td>2007</td></tr>
+<tr><td>Portogallo</td><td>13 agosto</td><td>2001</td><td>1° dicembre</td><td>2001</td></tr>
+<tr><td>Romania</td><td>24 aprile</td><td>2001</td><td>1° agosto</td><td>2001</td></tr>
+<tr><td>San Marino</td><td>20 marzo</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
+<tr><td>Serbia</td><td>10 febbraio</td><td>2011</td><td>1° giugno</td><td>2011</td></tr>
+<tr><td>Slovacchia</td><td>15 gennaio</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
+<tr><td>Slovenia</td><td>5 novembre</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
+<tr><td>Spagna</td><td>1<sup>°</sup> settembre</td><td>1999</td><td>1° gennaio</td><td>2000</td></tr>
+<tr><td>Svizzera\*</td><td>24 luglio</td><td>2008</td><td>1° novembre</td><td>2008</td></tr>
+<tr><td>Turchia\*</td><td>2 luglio</td><td>2004</td><td>1° novembre</td><td>2004</td></tr>
+<tr><td>Ungheria</td><td>9 gennaio</td><td>2002</td><td>1° maggio</td><td>2002</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito internet del Consiglio d’Europa: [https://conventions.coe.int](https://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle isole Färöer, né alla Groenlandia.</td></tr>
 </table>
 
-## Riserve e dichiarazioni
+[^t-2]: [RU 2008 5137](https://fedlex.data.admin.ch/eli/oc/2008/718); [2012 4537](https://fedlex.data.admin.ch/eli/oc/2012/538); [2026 521](https://fedlex.data.admin.ch/eli/oc/2026/521). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
-[^t-3]: [RU 2008 5137](https://fedlex.data.admin.ch/eli/oc/2008/718)e [2012 4537](https://fedlex.data.admin.ch/eli/oc/2012/538)Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+Riserve e dichiarazioni
 
 Svizzera
 
@@ -488,12 +486,12 @@ Sino all’entrata in vigore della legge federale che modifica il Codice civile 
 
 b. Riserve agli articoli 19 e 20:
 
-- 1\. Gli articoli 19 e 20 sono applicabili salvi restando gli articoli 12 e 13 della legge dell’8 ottobre 2004[^annexu1-lvlu2-1] sui trapianti (stato il 1° luglio 2007), che non prevedono il principio della sussidiarietà della donazione da una persona vivente.
+- 1\. Gli articoli 19 e 20 sono applicabili salvi restando gli articoli 12 e 13 della legge dell’8 ottobre 2004[^t-3] sui trapianti (stato il 1° luglio 2007), che non prevedono il principio della sussidiarietà della donazione da una persona vivente.
 - 2\. L’articolo 20 paragrafo 2 è applicabile inoltre salvo restando l’articolo 13 capoverso 2 lettera d della legge dell’8 ottobre 2004 sui trapianti (stato il 1° luglio 2007), che eccezionalmente ammette anche il prelievo di tessuti o cellule rigenerabili a favore di un genitore o di un figlio del donatore.
 
-[^annexu1-lvlu2-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^t-3]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
-## Elenco delle disposizioni cantonali applicabili
+Elenco delle disposizioni cantonali applicabili
 
 ## 1. Dekret des Kantons Aargau vom 21. August 1990 über die Rechte und Pflichten der Krankenhauspatienten (Patientendekret)
 

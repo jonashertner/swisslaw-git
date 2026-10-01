@@ -3,11 +3,11 @@ sr: "0.810.2"
 title: Übereinkommen vom 4. April 1997 zum Schutz der Menschenrechte und der Menschenwürde im Hinblick auf die Anwendung von Biologie und Medizin (Übereinkommen über Menschenrechte und Biomedizin)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/718"
 language: de
-version: 2012-08-08
+version: 2026-10-02
 adopted: 1997-04-04
 in_force: 2008-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/718/20120808/de/xml/fedlex-data-admin-ch-eli-cc-2008-718-20120808-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/718/20120808/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/718/20261002/de/xml/fedlex-data-admin-ch-eli-cc-2008-718-20261002-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/718/20261002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,24 +16,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/718/20120808/de"
 
 AS **2008** 5137; BBl **2002** 271
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 (Übereinkommen über Menschenrechte und Biomedizin)
 
 Abgeschlossen in Oviedo am 4. April 1997
 
-Von der Bundesversammlung genehmigt am 20. März 2008[^t-2]
+Von der Bundesversammlung genehmigt am 20. März 2008[^t-1]
 
 Ratifikationsurkunde von der Schweiz hinterlegt am 24. Juli 2008
 
 In Kraft getreten für die Schweiz am 1. November 2008
 
-(Stand am 8. August 2012)
+(Stand am 2. Oktober 2026)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: [AS 2008 5125](https://fedlex.data.admin.ch/eli/oc/2008/717)
+[^t-1]: [AS 2008 5125](https://fedlex.data.admin.ch/eli/oc/2008/717)
 
-Präambel
+*Präambel*
 
 Die Mitgliedstaaten des Europarats, die anderen Staaten und die Europäische Gemeinschaft, die dieses Übereinkommen unterzeichnen,
 
@@ -71,11 +70,11 @@ entschlossen, im Hinblick auf die Anwendung von Biologie und Medizin die notwend
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [SR 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
-[^ingress-4]: [SR 0.235.1](https://fedlex.data.admin.ch/eli/cc/2002/422)
-[^ingress-5]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [SR 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
+[^ingress-4]: [SR 0.235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1116)
+[^ingress-5]: [SR 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
 
 ## Kapitel I: Allgemeine Bestimmungen
 
@@ -395,7 +394,7 @@ Für jede Vertragspartei, welche die Änderung später annimmt, tritt sie am ers
 
 <sup>(2)</sup> Für jeden beitretenden Staat tritt dieses Übereinkommen am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung der Beitrittsurkunde beim Generalsekretär des Europarats folgt.
 
-[^34-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^34-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 35
 
@@ -443,47 +442,47 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates, d
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Oviedo (Asturien) am 4. April 1997 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, der Europäischen Gemeinschaft, den Nichtmitgliedstaaten, die an der Ausarbeitung dieses Übereinkommens beteiligt waren, und allen zum Beitritt zu diesem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. August 2012**[^t-3]**
+Geltungsbereich am 2. Oktober 2026[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Albanien</td><td>30. März</td><td>2011</td><td>1. Juli</td><td>2011</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>11. Mai</td><td>2007</td><td>1. September</td><td>2007</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>23. April</td><td>2003</td><td>1. August</td><td>2003</td></tr>
-<tr><td colspan="2">Dänemark\* <sup>a</sup></td><td>10. August</td><td>1999</td><td>1. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Estland</td><td>8. Februar</td><td>2002</td><td>1. Juni</td><td>2002</td></tr>
-<tr><td colspan="2">Finnland</td><td>30. November</td><td>2009</td><td>1. März</td><td>2010</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td>13. Dezember</td><td>2011</td><td>1. April</td><td>2012</td></tr>
-<tr><td colspan="2">Georgien</td><td>22. November</td><td>2000</td><td>1. März</td><td>2001</td></tr>
-<tr><td colspan="2">Griechenland</td><td>6. Oktober</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Island</td><td>12. Oktober</td><td>2004</td><td>1. Februar</td><td>2005</td></tr>
-<tr><td colspan="2">Kroatien\*</td><td>28. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Lettland</td><td>25. Februar</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
-<tr><td colspan="2">Litauen</td><td>17. Oktober</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>3. September</td><td>2009</td><td>1. Januar</td><td>2010</td></tr>
-<tr><td colspan="2">Moldau\*</td><td>26. November</td><td>2002</td><td>1. März</td><td>2003</td></tr>
-<tr><td colspan="2">Montenegro</td><td>19. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
-<tr><td colspan="2">Norwegen\*</td><td>13. Oktober</td><td>2006</td><td>1. Februar</td><td>2007</td></tr>
-<tr><td colspan="2">Portugal</td><td>13. August</td><td>2001</td><td>1. Dezember</td><td>2001</td></tr>
-<tr><td colspan="2">Rumänien</td><td>24. April</td><td>2001</td><td>1. August</td><td>2001</td></tr>
-<tr><td colspan="2">San Marino</td><td>20. März</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>24. Juli</td><td>2008</td><td>1. November</td><td>2008</td></tr>
-<tr><td colspan="2">Serbien</td><td>10. Februar</td><td>2011</td><td>1. Juni</td><td>2011</td></tr>
-<tr><td colspan="2">Slowakei</td><td>15. Januar</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Slowenien</td><td>5. November</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Spanien</td><td>1. September</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>22. Juni</td><td>2001</td><td>1. Oktober</td><td>2001</td></tr>
-<tr><td colspan="2">Türkei\*</td><td>2. Juli</td><td>2004</td><td>1. November</td><td>2004</td></tr>
-<tr><td colspan="2">Ungarn</td><td>9. Januar</td><td>2002</td><td>1. Mai</td><td>2002</td></tr>
-<tr><td colspan="2">Zypern</td><td>20. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Das Übereinkommen gilt nicht für Färöer-Inseln und Grönland.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>30. März</td><td>2011</td><td>1. Juli</td><td>2011</td></tr>
+<tr><td>Andorra\*</td><td>15. Juni</td><td>2023</td><td>1. Oktober</td><td>2023</td></tr>
+<tr><td>Armenien\*</td><td>15. Oktober</td><td>2025</td><td>1. Februar</td><td>2026</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>11. Mai</td><td>2007</td><td>1. September</td><td>2007</td></tr>
+<tr><td>Bulgarien</td><td>23. April</td><td>2003</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Dänemark\* <sup>a</sup></td><td>10. August</td><td>1999</td><td>1. Dezember</td><td>1999</td></tr>
+<tr><td>Estland</td><td>8. Februar</td><td>2002</td><td>1. Juni</td><td>2002</td></tr>
+<tr><td>Finnland</td><td>30. November</td><td>2009</td><td>1. März</td><td>2010</td></tr>
+<tr><td>Frankreich\*</td><td>13. Dezember</td><td>2011</td><td>1. April</td><td>2012</td></tr>
+<tr><td>Georgien</td><td>22. November</td><td>2000</td><td>1. März</td><td>2001</td></tr>
+<tr><td>Griechenland</td><td>6. Oktober</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
+<tr><td>Island</td><td>12. Oktober</td><td>2004</td><td>1. Februar</td><td>2005</td></tr>
+<tr><td>Kroatien\*</td><td>28. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Lettland</td><td>25. Februar</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
+<tr><td>Litauen</td><td>17. Oktober</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
+<tr><td>Moldau\*</td><td>26. November</td><td>2002</td><td>1. März</td><td>2003</td></tr>
+<tr><td>Montenegro</td><td>19. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
+<tr><td>Nordmazedonien</td><td>3. September</td><td>2009</td><td>1. Januar</td><td>2010</td></tr>
+<tr><td>Norwegen\*</td><td>13. Oktober</td><td>2006</td><td>1. Februar</td><td>2007</td></tr>
+<tr><td>Portugal</td><td>13. August</td><td>2001</td><td>1. Dezember</td><td>2001</td></tr>
+<tr><td>Rumänien</td><td>24. April</td><td>2001</td><td>1. August</td><td>2001</td></tr>
+<tr><td>San Marino</td><td>20. März</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
+<tr><td>Schweiz\*</td><td>24. Juli</td><td>2008</td><td>1. November</td><td>2008</td></tr>
+<tr><td>Serbien</td><td>10. Februar</td><td>2011</td><td>1. Juni</td><td>2011</td></tr>
+<tr><td>Slowakei</td><td>15. Januar</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
+<tr><td>Slowenien</td><td>5. November</td><td>1998</td><td>1. Dezember</td><td>1999</td></tr>
+<tr><td>Spanien</td><td>1. September</td><td>1999</td><td>1. Januar</td><td>2000</td></tr>
+<tr><td>Tschechische Republik</td><td>22. Juni</td><td>2001</td><td>1. Oktober</td><td>2001</td></tr>
+<tr><td>Türkei\*</td><td>2. Juli</td><td>2004</td><td>1. November</td><td>2004</td></tr>
+<tr><td>Ungarn</td><td>9. Januar</td><td>2002</td><td>1. Mai</td><td>2002</td></tr>
+<tr><td>Zypern</td><td>20. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Färöer-Inseln und Grönland.</td></tr>
 </table>
 
-## Vorbehalte und Erklärungen
+[^t-2]: [AS 2008 5137](https://fedlex.data.admin.ch/eli/oc/2008/718); [2012 4537](https://fedlex.data.admin.ch/eli/oc/2012/538); [2026 521](https://fedlex.data.admin.ch/eli/oc/2026/521). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-[^t-3]: [AS 2008 5137](https://fedlex.data.admin.ch/eli/oc/2008/718)und [2012 4537](https://fedlex.data.admin.ch/eli/oc/2012/538). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+Vorbehalte und Erklärungen
 
 Schweiz
 
@@ -493,12 +492,12 @@ Bis zum Inkrafttreten des Bundesgesetzes über die Änderung des Schweizeischen 
 
 b. Vorbehalte zu den Artikeln 19 und 20:
 
-- 1\. Die Anwendung der Artikel 19 und 20 erfolgt unter Vorbehalt der Artikel 12 und 13 des Transplantationsgesetzes vom 8. Oktober 2004[^annexu1-lvlu2-1] (Stand 1. Juli 2007), die das Prinzip der Subsidiarität der Lebendspende nicht vorsehen.
+- 1\. Die Anwendung der Artikel 19 und 20 erfolgt unter Vorbehalt der Artikel 12 und 13 des Transplantationsgesetzes vom 8. Oktober 2004[^t-3] (Stand 1. Juli 2007), die das Prinzip der Subsidiarität der Lebendspende nicht vorsehen.
 - 2\. Die Anwendung von Artikel 20 Absatz 2 erfolgt zudem unter Vorbehalt von Artikel 13 Absatz 2 Buchstabe d des Transplantationsgesetzes vom 8. Oktober 2004 (Stand 1. Juli 2007), der ausnahmsweise die Entnahme regenerierbarer Gewebe oder Zellen auch zugunsten eines Elternteils oder eines Kindes der Spenderin oder des Spenders erlaubt.
 
-[^annexu1-lvlu2-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^t-3]: [SR 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
 
-## Liste der kantonalen Bestimmungen
+Liste der kantonalen Bestimmungen
 
 ## 1. Dekret des Kantons Aargau vom 21. August 1990 über die Rechte und Pflichten der Krankenhauspatienten (Patientendekret)
 
