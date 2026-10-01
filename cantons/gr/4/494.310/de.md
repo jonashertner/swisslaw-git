@@ -5,12 +5,12 @@ title: Verordnung zum Gesetz über die Förderung der Kultur
 short: "Kulturförderungsverordnung, KFV"
 language: de
 version: 2020-01-01
-corrected: 2023-11-28
+corrected: 2026-10-02
 version_adopted: 2020-10-13
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/494.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3085/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3344/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

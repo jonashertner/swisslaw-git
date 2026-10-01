@@ -5,12 +5,12 @@ title: Ordinaziun tar la lescha davart la promoziun da la cultura
 short: "ordinaziun davart la promoziun da la cultura, OPC"
 language: rm
 version: 2020-01-01
-corrected: 2023-11-28
+corrected: 2026-10-02
 version_adopted: 2020-10-13
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/494.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3085/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3344/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -227,6 +227,6 @@ relaschada da la regenza ils 12 da december 2017
 
 <sup>2</sup> El po designar las medias cun dretg da survegnir contribuziuns e reglar la procedura.
 
-<sup>3</sup> Contribuziuns a las acquisiziuns da medias da l'onn precedent ston vegnir inoltradas al departament mintgamai fin ils 31 da schaner agiuntond ils documents pretendids.
+<sup>3</sup> Dumondas per contribuziuns a las acquisiziuns da medias da l'onn precedent ston vegnir inoltradas al departament mintgamai fin ils 31 da schaner agiuntond ils documents pretendids.
 
 2017-042
