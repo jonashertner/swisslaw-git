@@ -5,11 +5,12 @@ title: Verordnung über die Förderung von Sport und Bewegung
 short: Sportförderungsverordnung
 language: de
 version: 2024-09-01
+corrected: 2026-10-02
 version_adopted: 2024-08-20
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3824/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -32,7 +33,7 @@ von der Regierung erlassen am 7. Juli 2015
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Departement für Bildung, Umwelt und Kultur (Departement) sorgt für die Umsetzung des Sportförderungsgesetzes und übt alle Befugnisse aus, die keiner anderen Behörde oder Verwaltungseinheit übertragen sind. Kantonale Dienststelle ist das Amt für Volksschule und Sport (Amt).
+<sup>1</sup> Das Erziehungs-, Kultur- und Umweltschutzdepartement (Departement) sorgt für die Umsetzung des Sportförderungsgesetzes und übt alle Befugnisse aus, die keiner anderen Behörde oder Verwaltungseinheit übertragen sind. Kantonale Dienststelle ist das Amt für Volksschule und Sport (Amt).
 
 <sup>2</sup> Für die Bewegungsförderung im Bereich Gesundheitsförderung ist das Departement für Justiz, Sicherheit und Gesundheit zuständig.
 
