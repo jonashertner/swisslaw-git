@@ -5,12 +5,12 @@ title: Ordinaziun chantunala davart la protecziun da la natira e da la patria
 short: ONPGR
 language: rm
 version: 2024-09-01
-corrected: 2026-09-22
+corrected: 2026-10-02
 version_adopted: 2024-08-20
 adopted: 2011-04-18
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/496.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3456/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3764/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -417,5 +417,113 @@ relaschada da la regenza ils 18 d'avrigl 2011
 <sup>1</sup> Questa ordinaziun entra en vigur ensemen cun lescha chantunala davart la protecziun da la natira e da la patria (LNPGR)[^36-1].
 
 [^36-1]: 1. da matg 2011
+
+## A1 Agiunta 1: Saivs vivas e chagliom (art. 9)
+
+#### Art. A1-1
+
+**Mesirar correctamain saivs vivas e chagliom**
+
+<sup>1</sup> Saivs vivas e chagliom cumpiglian la surfatscha, nua che questas plantas creschan inclusiv in ur enturn ed enturn. La surfatscha, nua che questas plantas creschan, vegn mesirada da la lingia da colliaziun dal center dal tschep al center dal tschep dals bostgs a l'ur da mintga vart u – en cas da chaglias – dal center da la chaglia e l'ur da la saiv viva dal perimeter da la surfatscha, nua che questas plantas creschan. Sche la distanza tranter surfatschas, nua che questas plantas creschan, importa main che 10 m, valan questas surfatschas sco ina surfatscha.
+
+<sup>2</sup> La zona da plimatsch en il senn da l'artitgel 14 alinea 2 litera d da l'ordinaziun federala davart la protecziun da la natira e da la patria (CS [451.1](https://db.clex.ch/link/Bund/451.1/rm)) vegn mesirada dal perimeter da l'ur da la saiv viva. Per regla ha ella ina ladezza da 5 m.
+
+<sup>3</sup> Dissegn:
+
+#### Art. A1-2
+
+**Cumpensaziun reala**
+
+<sup>1</sup> Sche saivs vivas e chagliom ston vegnir cumpensads, stoi vegnir dà adatg ch'ina surfatscha gronda avunda stettia a disposiziun per l'ur da la saiv viva che ha ina ladezza da 2 m.
+
+<sup>2</sup> Emplantaziuns da cumpensaziun per saivs vivas ston vegnir fatgas cun chaglias indigenas e dal lieu sco er cun singuls bostgs locals. I ston vegnir duvradas differentas spezias da chaglias e da bostgs. La part da chaglias cun spinas sto importar almain 20 pertschient dal chagliom.
+
+## A2 Agiunta 2: Plantas ed animals protegids en il chantun (art. 10)
+
+#### Art. A2-1
+
+<sup>1</sup> Glista da las plantas protegidas en il Grischun:
+
+<table>
+<tr><th>num scientific</th><th>rumantsch</th></tr>
+<tr><td>anthericum liliago</td><td>gilgia-fain</td></tr>
+<tr><td>asplenium adulterinum</td><td>felesch strivlà falsifitgà</td></tr>
+<tr><td>asplenium cuneifolium</td><td>felesch strivlà dal serpentin</td></tr>
+<tr><td>campanula thyrsoides</td><td>brunsina puschlada</td></tr>
+<tr><td>cortusa matthioli L.</td><td>cortusa da Matthioli</td></tr>
+<tr><td>cyclamen purpurascens Mill.</td><td>ciclama europeica</td></tr>
+<tr><td>daphne mezereum L.</td><td>dafna paivretta</td></tr>
+<tr><td>draba ladina</td><td>drava ladina</td></tr>
+<tr><td>eriophorum spp.</td><td>minalvas, tut las spezias</td></tr>
+<tr><td>gentiana asclepiadea</td><td>giansauna da palì</td></tr>
+<tr><td>gentiana prostrata</td><td>giansauna bassa</td></tr>
+<tr><td>helleborus viridis</td><td>starnidella verda</td></tr>
+<tr><td>leontopodium alpinum</td><td>stailalva</td></tr>
+<tr><td>lomatogonium carinthiacum</td><td>urnatta tschairada</td></tr>
+<tr><td>silene flos-jovis (L.) Clairv.</td><td>silena da Jupiter</td></tr>
+<tr><td>menyanthes trifoliata</td><td>traifegl amar</td></tr>
+<tr><td>pinguicula, tut las spezias</td><td>grassettas</td></tr>
+<tr><td>primula auricula L.</td><td>primula auricla</td></tr>
+<tr><td>narcissus, spezias alvas</td><td>narcissa, spezias alvas</td></tr>
+<tr><td>pulsatilla montana Rchb.</td><td>anemona da muntogna (violet stgir)</td></tr>
+<tr><td>ranunculus pygmaeus</td><td>ranunchel nanin</td></tr>
+<tr><td>saxifraga cernua</td><td>fendacrap pendus</td></tr>
+<tr><td>scilla bifolia</td><td>stailetta blaua</td></tr>
+<tr><td>stipa, tut las spezias</td><td>stipa pennada</td></tr>
+<tr><td>swertia perennis</td><td>taranta</td></tr>
+<tr><td>trientalis europaea L.</td><td>trientala europeica</td></tr>
+</table>
+
+<sup>2</sup> Glista dals animals protegids en il Grischun:
+
+<table>
+<tr><th>num scientific</th><th>rumantsch</th></tr>
+<tr><td>coenonympha tullia</td><td>egliet grond</td></tr>
+<tr><td>erinaceidae</td><td>erizun</td></tr>
+<tr><td>helix pomatia</td><td>lindorna bella</td></tr>
+</table>
+
+## A3 Agiunta 3: Glista da las multas per surpassaments da las disposiziuns chantunalas da la protecziun dals bulieus e da las plantas (art. 30 al. 2)
+
+#### Art. A3-1
+
+<sup>1</sup> Surpassaments da las disposiziuns da la protecziun dals bulieus:
+
+- a) Rimnar bulieus en territoris da protecziun dals bulieus: — fr. 400.00
+- b) Rimnar bulieus durant il temp da schanetg: — fr. 200.00
+- c) Surpassar la quantitad admessa:
+  - 1\. fin 0.5 kg: — fr. 50.00
+  - 2\. fin 1 kg: — fr. 100.00
+  - 3\. fin 2 kg: — fr. 200.00
+  - 4\. fin 3 kg: — fr. 300.00
+  - 5\. fin 4 kg: — fr. 400.00
+  - 6\. fin 5 kg: — fr. 500.00
+  - 7\. Sche la restricziun da la quantitad vegn surpassada per passa 5 kg, inizieschan ils organs da surveglianza la procedura penala davant autoritads administrativas
+- d) Rimnar en gruppas da passa 3 persunas, per persuna: — fr. 100.00
+- e) Duvrar rastels, zappins ed auters guaffens: — fr. 200.00
+- f) Destruir aposta bulieus: — fr. 200.00
+
+<sup>2</sup> Surpassaments da las disposiziuns da la protecziun da las plantas:
+
+- a) Cleger, chavar ora e strair ora senza autorisaziun betg dapli che tschintg plantas en territoris da protecziun da las plantas (art. 21 al. 1 LNPGR, DG [496.000](https://www.gr-lex.gr.ch/data/496.000/rm)): — fr. 400.00
+- b) Cleger, chavar ora, strair ora, manar davent, offrir, vender, cumprar u destruir senza autorisaziun betg dapli che tschintg plantas selvadias tenor l'agiunta 2: — fr. 100.00
+
+<sup>3</sup> Sch'i vegnan ademplids plirs causals, vegnan las multas cumuladas.
+
+## A4 Agiunta 4: Pretensiuns minimalas per formulars (art. 34)
+
+#### Art. A4-1
+
+**Formulars da multa**
+
+<sup>1</sup> Ils formulars da multa ston cuntegnair almain las suandantas indicaziuns:
+
+- a) il num, il prenum, la data da naschientscha ed il lieu da domicil da la delinquenta u dal delinquent
+- b) il gener, las uras ed il lieu da la cuntravenziun sco er las cifras respectivas da la glista da multas
+- c) l'import da la multa
+- d) l'indicaziun ch'i vegnia exequida la procedura penala davant autoritads administrativas, sche la multa na vegn betg pajada entaifer 30 dis
+- e) la durada dal temp da ponderaziun
+- f) la data da la consegna dal formular da multa
+- g) la suttascripziun da l'organ da surveglianza
 
 -
