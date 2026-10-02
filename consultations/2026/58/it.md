@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Titolo: 23.443 n Iv. pa. Addor. Espulsione degli stranieri che commettono reati. Per una ponderazione degli interessi conforme al buon senso"
 document: Progetto posto in consultazione
 language: it

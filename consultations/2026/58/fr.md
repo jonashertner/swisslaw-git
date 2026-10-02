@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.443 n Iv. pa. Addor. Expulsion des étrangers criminels. Pour une pesée des intérêts conforme au bon sens
 document: Projet mis en consultation
 language: fr

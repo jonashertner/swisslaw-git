@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.443 n Pa. Iv. Addor. Ausweisung krimineller Ausländerinnen und Ausländer. Interessenabwägung mit gesundem Menschenverstand
 document: Vernehmlassungsvorlage
 language: de
