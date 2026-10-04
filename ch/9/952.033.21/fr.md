@@ -4,11 +4,11 @@ title: Ordonnance de la FINMA du 6 mars 2024 sur les risques de crédit des banq
 short: OCré-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/141"
 language: fr
-version: 2025-05-19
+version: 2026-10-05
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/fedlex-data-admin-ch-eli-cc-2024-141-20250519-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/141/20250519/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/fedlex-data-admin-ch-eli-cc-2024-141-20261005-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/141/20261005/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/141/20250519/fr"
 
 (OCré-FINMA)
 
-du 6 mars 2024 (État le 19 mai 2025)
+du 6 mars 2024 (État le 5 octobre 2026)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -267,7 +267,7 @@ La banque doit estimer la MPOR pour l’ensemble de compensation. Si l’estimat
 
 **Delta prudentiel**
 
-<sup>1</sup> Un delta prudentiel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image1.png)</sub> est calculé pour chaque opération sur dérivés.
+<sup>1</sup> Un delta prudentiel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image1.png)</sub> est calculé pour chaque opération sur dérivés.
 
 <sup>2</sup> Pour les options, le delta prudentiel est calculé selon la formule à l’annexe 1, ch. 12.
 
@@ -912,7 +912,7 @@ La couverture d’une position par une mesure visant à atténuer le risque dont
 
 <sup>2</sup> En cas d’asymétrie d’échéances, la couverture est calculée conformément à l’annexe 3, ch. 1.
 
-<sup>3</sup> Comme durée résiduelle de la position couverte, il faut utiliser la période après l’expration de laquelle la contrepartie doit s’être acquittée au plus tard de ses obligations, recours éventuel à des délais suspensifs compris. Comme durée résiduelle de la couverture, il y a lieu d’utiliser l’échéance la plus proche possible en tenant compte des options implicites et des droits de résiliation.
+<sup>3</sup> Comme durée résiduelle de la position couverte, il faut utiliser la période après l’expiration de laquelle la contrepartie doit s’être acquittée au plus tard de ses obligations, recours éventuel à des délais suspensifs compris. Comme durée résiduelle de la couverture, il y a lieu d’utiliser l’échéance la plus proche possible en tenant compte des options implicites et des droits de résiliation.
 
 #### Art. 65
 
@@ -2169,7 +2169,7 @@ Annexe 1[^t-1]
 
 ### 1 Calcul de l’équivalent-crédit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image2.png)
 
 <table>
 <tr><td>*EAD*</td><td>équivalent-crédit (*exposure at default*)</td></tr>
@@ -2179,7 +2179,7 @@ Annexe 1[^t-1]
 
 ### 2 Calcul des coûts de remplacement prudentiels pour les opérations sur dérivés sans compensation des marges
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image3.png)
 
 <table>
 <tr><td>*RC*</td><td>coûts de remplacement prudentiels (*replacement costs*)</td></tr>
@@ -2189,7 +2189,7 @@ Annexe 1[^t-1]
 
 ### 3 Calcul des coûts de remplacement prudentiels pour les opérations sur dérivés avec compensation des marges
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image4.png)
 
 <table>
 <tr><td>*RC*</td><td>coûts de remplacement prudentiels (*replacement costs*)</td></tr>
@@ -2202,7 +2202,7 @@ Annexe 1[^t-1]
 
 ### 4 Calcul des coûts de remplacement prudentiels au niveau de l’accord de marge en cas de valeur nette positive des sûretés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image5.png)
 
 <table>
 <tr><td>*RC*</td><td>coûts de remplacement prudentiels (*replacement costs*)</td></tr>
@@ -2214,7 +2214,7 @@ La somme se compose de tous les ensembles de compensation contenus dans l’acco
 
 ### 5 Calcul des coûts de remplacement prudentiels au niveau de l’accord de marge en cas de valeur nette négative CN des sûretés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image6.png)
 
 <table>
 <tr><td>*RC*</td><td>coûts de remplacement prudentiels (*replacement costs*)</td></tr>
@@ -2226,7 +2226,7 @@ La somme se compose de tous les ensembles de compensation contenus dans l’acco
 
 ### 6 Calcul de la valeur nette positive ou négative des sûretés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image7.png)
 
 <table>
 <tr><td>*CN*</td><td>valeur nette des sûretés *(**net collateral value**)*</td></tr>
@@ -2237,7 +2237,7 @@ La somme se compose de tous les ensembles de compensation contenus dans l’acco
 
 ### 7 Multiplicateur pour le calcul de l’augmentation potentielle de la valeur
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image8.png)
 
 <table>
 <tr><td>exp()</td><td>fonction exponentielle</td></tr>
@@ -2248,7 +2248,7 @@ La somme se compose de tous les ensembles de compensation contenus dans l’acco
 
 ### 8 Multiplicateur agrégé pour le calcul de l’augmentation potentielle de la valeur au niveau de l’accord de marge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image9.png)
 
 <table>
 <tr><td>exp()</td><td>fonction exponentielle</td></tr>
@@ -2259,7 +2259,7 @@ La somme se compose de tous les ensembles de compensation contenus dans l’acco
 
 ### 9 Duration prudentielle
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image10.png)
 
 <table>
 <tr><td>*SD*</td><td>duration prudentielle</td></tr>
@@ -2279,7 +2279,7 @@ Pour les *swaps* de taux d’intérêt et les *credit default swaps* (CDS) habit
 
 ### 11 Facteur de maturité pour dérivés avec compensation des marges
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image13.png)
 
 <table>
 <tr><td>MPOR</td><td>période de marge en risque (*margin period of risk*)</td></tr>
@@ -2295,17 +2295,17 @@ Pour les *swaps* de taux d’intérêt et les *credit default swaps* (CDS) habit
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image14.png)</td><td>fonction de répartition cumulative de la répartition normale standard</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image14.png)</td><td>fonction de répartition cumulative de la répartition normale standard</td></tr>
 <tr><td>ln(…)</td><td>fonction logarithme naturel</td></tr>
 <tr><td>*K*</td><td>prix d’exercice (*strike*) de l’option</td></tr>
-<tr><td>*P*</td><td>prix de marché de la valeur de base ou, dans le cas d’options asiatiques, le montant actuel de la valeur moyenne sur laquelle repose le profil de paiement. Dans le cas d’options de taux libellés dans des devises à taux d’intérêt du marché négatifs ou de contrats aux taux d’exercice négatifs, *P* doit être remplacé par ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image15.png) et K par ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image16.png), où ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image15.png) &gt; 0 et ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image17.png). Pour toutes les options sur taux libellées dans la même devise, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image18.png) a la même valeur ou doit être calculée spécifiquement pour l’option considérée comme suit: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image19.png)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image20.png)</td><td>volatilité selon ch. 15</td></tr>
+<tr><td>*P*</td><td>prix de marché de la valeur de base ou, dans le cas d’options asiatiques, le montant actuel de la valeur moyenne sur laquelle repose le profil de paiement. Dans le cas d’options de taux libellés dans des devises à taux d’intérêt du marché négatifs ou de contrats aux taux d’exercice négatifs, *P* doit être remplacé par ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image15.png) et K par ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image16.png), où ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image15.png) &gt; 0 et ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image17.png). Pour toutes les options sur taux libellées dans la même devise, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image18.png) a la même valeur ou doit être calculée spécifiquement pour l’option considérée comme suit: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image19.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image20.png)</td><td>volatilité selon ch. 15</td></tr>
 <tr><td>*T*</td><td>durée résiduelle en années jusqu’au moment d’exercice de l’option le plus tardif prévu par le contrat (*time to maturity*)</td></tr>
 </table>
 
 ### 13 Delta prudentiel pour les tranches de CDO avec la banque comme preneuse de protection
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image21.png)
 
 <table>
 <tr><td>*A*</td><td>point d’attachement (*attachment point*) de la tranche de CDO avec protection du crédit</td></tr>
@@ -2316,7 +2316,7 @@ Pour les *swaps* de taux d’intérêt et les *credit default swaps* (CDS) habit
 
 ### 14 Delta prudentiel pour les tranches de CDO avec la banque comme donneuse de protection
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image22.png)
 
 <table>
 <tr><td>*A*</td><td>point d’attachement (*attachment point*) de la tranche de CDO avec protection du crédit</td></tr>
@@ -2328,7 +2328,7 @@ Pour les *swaps* de taux d’intérêt et les *credit default swaps* (CDS) habit
 ### 15 Facteurs scalaires, corrélations et volatilités pour chaque valeur de base
 
 <table>
-<tr><th colspan="3">Valeur de base</th><th>Facteur scalaire, en %</th><th>Corrélation <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image23.png)</sub> en %</th><th>Volatilité <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image24.png)</sub> en %</th></tr>
+<tr><th colspan="3">Valeur de base</th><th>Facteur scalaire, en %</th><th>Corrélation <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image23.png)</sub> en %</th><th>Volatilité <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image24.png)</sub> en %</th></tr>
 <tr><td colspan="3">Taux d’intérêt</td><td>0,50</td><td></td><td>50</td></tr>
 <tr><td colspan="3">Devises</td><td>4,00</td><td></td><td>15</td></tr>
 <tr><td>Dérivés de crédit</td><td>Débiteur de référence</td><td>AAA-AA</td><td>0,38</td><td>50</td><td>100</td></tr>
@@ -2348,23 +2348,23 @@ Pour les *swaps* de taux d’intérêt et les *credit default swaps* (CDS) habit
 
 ### 16 Compensation partielle des SEN<sub>1</sub>, SEN<sub>2</sub> et SEN<sub>3</sub> spécifiques aux tranches d’échéance dans le cas des dérivés de taux
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image25.png)
 
 ### 17 Compensation partielle des SEN dans le cas de dérivés de crédit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image26.png)
 
 où la somme reprend l’ensemble des débiteurs de référence et des indices *i*; *p**<sub>i</sub>* correspond au paramètre de corrélation concerné selon le ch. 15, et *SEN**<sub>i</sub>* correspond à la *SEN* complètement compensée en lien avec le débiteur de référence *i* ou l’indice *i*.
 
 ### 18 Compensation partielle des SEN dans le cas de dérivés sur actions
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image27.png)
 
 où la somme reprend l’ensemble des titres individuels et des indices *j;* *p**<sub>j</sub>* correspond au paramètre de corrélation concerné selon le ch. 15, et *SEN**<sub>j</sub>* correspond à la *SEN* complètement compensée en lien avec le *j*-ième titre individuel ou l’indice *j*.
 
 ### 19 Compensation partielle des SEN dans le cas de dérivés sur matières premières
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image28.png)
 
 où la somme reprend l’ensemble des types de matières premières *k*; *p**<sub>k</sub>* correspond au paramètre de corrélation concerné selon le ch. 15 et *SEN**<sub>k</sub>* correspond à la *SEN* complètement compensée en lien avec le type de matières premières.
 
@@ -2376,7 +2376,7 @@ Annexe 2
 
 ### 1 Calcul de l’équivalent-crédit pour les ensembles de compensation
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image29.png)
 
 <table>
 <tr><td>*EAD*</td><td>équivalent-crédit (e*xposure at default*)</td></tr>
@@ -2403,7 +2403,7 @@ Annexe 2
 
 ### 3 Calcul de la majoration nette de valeur
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image30.png)
 
 <table>
 <tr><td>*NWA*</td><td>majoration nette de valeur</td></tr>
@@ -2412,15 +2412,17 @@ Annexe 2
 <tr><td>*<sub>SWBp</sub>*</td><td>somme des valeurs de remplacement positives</td></tr>
 </table>
 
-Annexe 3
+Annexe 3[^t-2]
 
 (art. 64, al. 2, 66, al. 2, 77, 94, al. 1 et 4, 95, 97, al. 1, 98, al. 1 et 2, 99, al. 1 et 100, al. 3)
 
 ## Mesures d’atténuation des risques
 
+[^t-2]: Mise à jour par l’erratum du 5 oct. 2026 ([RO 2026 508](https://fedlex.data.admin.ch/eli/oc/2026/508)).
+
 ### 1 Protection d’une position en cas d’asymétrie d’échéances
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image31.png)
 
 <table>
 <tr><td>*P**<sub>a</sub>*</td><td>valeur de la protection ajustée pour asymétrie d’échéances (*value of the credit protection adjusted for maturity mismatch*)</td></tr>
@@ -2429,9 +2431,9 @@ Annexe 3
 <tr><td>*t*</td><td>la plus petite valeur entre *T* et la durée résiduelle de la protection, exprimée en années</td></tr>
 </table>
 
-### 2 Positions à pondérer en fonction du risque après atténuation du dans l’approche globale
+### 2 Positions à pondérer en fonction du risque après atténuation du risque dans l’approche globale
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image32.png)
 
 <table>
 <tr><td>*E**<sup>\*</sup>*</td><td>position après atténuation du risque par des sûretés financières (*adjusted exposure*)</td></tr>
@@ -2444,7 +2446,7 @@ Annexe 3
 
 ### 3 Protection d’une position en cas d’asymétrie de devises
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image33.png)
 
 <table>
 <tr><td>*G**<sub>a</sub>*</td><td>valeur nominale adaptée de la protection en tenant compte de l’asymétrie de devises (*adjusted nominal amount of the credit protection*)</td></tr>
@@ -2467,7 +2469,7 @@ Annexe 3
 
 ### 5 Décote standard pour marge de sécurité dans le cas d’un panier d’actifs
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image34.png)
 
 <table>
 <tr><td>*a**<sub>i</sub>*</td><td>part de valeur de l’actif i rapporté à l’ensemble de la valeur du panier</td></tr>
@@ -2478,7 +2480,7 @@ Annexe 3
 
 ### 6.1 Pour les sûretés reconnues selon les art. 92 et 93
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image35.png)
 
 <table>
 <tr><td>*H*<sub>10</sub></td><td>décote standard pour marge de sécurité (*haircut*) applicable à l’instrument</td></tr>
@@ -2488,7 +2490,7 @@ Annexe 3
 
 ### 6.2 Pour les avoirs de prévoyance mis en gage reconnus comme sûretés selon l’art. 98
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image36.png)
 
 <table>
 <tr><td>*H*<sub>20</sub></td><td>décote pour marge de sécurité (*haircut*) applicable aux avoirs de prévoyance</td></tr>
@@ -2497,20 +2499,20 @@ Annexe 3
 
 ### 7 Prise en compte d’accords de compensation
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image37.png)
 
 <table>
 <tr><td>*E**<sup>\*</sup>*</td><td>valeur de position de l’ensemble de compensation après atténuation du risque</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image38.png)</sub></td><td>montant actuel de la créance résultant de l’ensemble des fonds prêtés dans le cadre de l’accord de compensation à la contrepartie et des titres prêtés ou vendus dans le cadre d’un engagement de rachat ou mis à disposition d’une autre manière</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image39.png)</sub></td><td>valeur actuelle de l’ensemble des fonds empruntés dans le cadre de l’accord de compensation à la contrepartie et des titres empruntés ou vendus dans le cadre d’un engagement de rachat ou détenus d’une autre manière sous la forme de sûretés</td></tr>
-<tr><td>*n*</td><td>nombre de titres dans l’ensemble de compensation sans compter les positions en titres dont la valeur *E**<sub>s</sub>* est inférieure à 10 % de la valeur de la position en titres la plus élevée <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image40.png)</sub></td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image38.png)</sub></td><td>montant actuel de la créance résultant de l’ensemble des fonds prêtés dans le cadre de l’accord de compensation à la contrepartie et des titres prêtés ou vendus dans le cadre d’un engagement de rachat ou mis à disposition d’une autre manière</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image39.png)</sub></td><td>valeur actuelle de l’ensemble des fonds empruntés dans le cadre de l’accord de compensation à la contrepartie et des titres empruntés ou vendus dans le cadre d’un engagement de rachat ou détenus d’une autre manière sous la forme de sûretés</td></tr>
+<tr><td>*n*</td><td>nombre de titres dans l’ensemble de compensation sans compter les positions en titres dont la valeur *E**<sub>s</sub>* est inférieure à 10 % de la valeur de la position en titres la plus élevée <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image40.png)</sub></td></tr>
 <tr><td>*<sub>E</sub>**<sub>f</sub>*</td><td>montant absolue de la position nette dans la devise *f*, qui n’est pas une devise de règlement</td></tr>
 <tr><td>*<sub>H</sub>**<sub>f</sub>*</td><td>décote pour marge de sécurité (*haircut*) en cas d’asymétrie de devises pour la devise *f*</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image41.png)</sub></td><td>créance nette</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image42.png)</sub></td><td>créance brute</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image41.png)</sub></td><td>créance nette</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image42.png)</sub></td><td>créance brute</td></tr>
 </table>
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image43.png)</sub> représente la valeur nette actuelle de la s-ième position en titres dans l’ensemble de compensation et *H**<sub>s</sub>* la décote pour marge de sécurité spécifique au titre; cette décote est positive pour les titres prêtés ou vendus dans le cadre d’un engagement de rachat ou mis à disposition d’une autre manière et négative pour les titres empruntés ou achetés dans le cadre d’un engagement de rachat ou détenus d’une autre manière sous la forme de sûretés
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image43.png)</sub> représente la valeur nette actuelle de la s-ième position en titres dans l’ensemble de compensation et *H**<sub>s</sub>* la décote pour marge de sécurité spécifique au titre; cette décote est positive pour les titres prêtés ou vendus dans le cadre d’un engagement de rachat ou mis à disposition d’une autre manière et négative pour les titres empruntés ou achetés dans le cadre d’un engagement de rachat ou détenus d’une autre manière sous la forme de sûretés
 
 ### 8 Décotes pour marge de sécurité relatives aux avoirs de prévoyance reconnus comme sûretés
 
@@ -2615,7 +2617,7 @@ Annexe 6
 
 ## IRB: calcul de la corrélation *R* pour la pondération en fonction des risques des entreprises
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/fr/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/fr/xml/image/image44.png)
 
 <table>
 <tr><td>*R*</td><td>corrélation</td></tr>

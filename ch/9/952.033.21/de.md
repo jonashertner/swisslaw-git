@@ -4,11 +4,11 @@ title: Verordnung der FINMA vom 6. März 2024 über die Kreditrisiken der Banken
 short: KreV-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/141"
 language: de
-version: 2025-05-19
+version: 2026-10-05
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/fedlex-data-admin-ch-eli-cc-2024-141-20250519-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/141/20250519/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/fedlex-data-admin-ch-eli-cc-2024-141-20261005-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/141/20261005/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/141/20250519/de"
 
 (KreV-FINMA)
 
-vom 6. März 2024 (Stand am 19. Mai 2025)
+vom 6. März 2024 (Stand am 5. Oktober 2026)
 
 Die Eidgenössische Finanzmarktaufsicht (FINMA),
 
@@ -267,7 +267,7 @@ Die Bank muss die MPOR für das Netting-Set schätzen. Liegt die Schätzung tief
 
 **Aufsichtsrechtliches Delta**
 
-<sup>1</sup> Für jedes Derivatgeschäft ist ein aufsichtsrechtliches Delta <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image1.png)</sub> zu berechnen.
+<sup>1</sup> Für jedes Derivatgeschäft ist ein aufsichtsrechtliches Delta <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image1.png)</sub> zu berechnen.
 
 <sup>2</sup> Für Optionen berechnet sich das aufsichtsrechtliche Delta nach der Formel in Anhang 1 Ziffer 12.
 
@@ -2169,7 +2169,7 @@ Anhang 1[^t-1]
 
 ### 1 Berechnung des Kreditäquivalents
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image2.png)
 
 <table>
 <tr><td>*EAD*</td><td>Kreditäquivalent (*Exposure at Default*)</td></tr>
@@ -2179,7 +2179,7 @@ Anhang 1[^t-1]
 
 ### 2 Berechnung der aufsichtsrechtlichen Wiederbeschaffungskosten bei Derivatgeschäften ohne Margenausgleich
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image3.png)
 
 <table>
 <tr><td>*RC*</td><td>aufsichtsrechtliche Wiederbeschaffungskosten (*Replacement Costs)*</td></tr>
@@ -2189,7 +2189,7 @@ Anhang 1[^t-1]
 
 ### 3 Berechnung der aufsichtsrechtlichen Wiederbeschaffungskosten bei Derivatgeschäften mit Margenausgleich
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image4.png)
 
 <table>
 <tr><td>*RC*</td><td>aufsichtsrechtliche Wiederbeschaffungskosten (*Replacement Costs)*</td></tr>
@@ -2202,7 +2202,7 @@ Anhang 1[^t-1]
 
 ### 4 Berechnung der aufsichtsrechtlichen Wiederbeschaffungskosten auf Stufe Margenvereinbarung, bei positivem Nettowert der Sicherheiten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image5.png)
 
 <table>
 <tr><td>*RC*</td><td>aufsichtsrechtliche Wiederbeschaffungskosten (*Replacement Costs)*</td></tr>
@@ -2214,7 +2214,7 @@ Die Summenbildung erfolgt über alle in der Margenvereinbarung enthaltenen Netti
 
 ### 5 Berechnung der aufsichtsrechtlichen Wiederbeschaffungskosten auf Stufe Margenvereinbarung, bei negativem Nettowert der Sicherheiten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image6.png)
 
 <table>
 <tr><td>*RC*</td><td>aufsichtsrechtliche Wiederbeschaffungskosten (*Replacement Costs)*</td></tr>
@@ -2226,7 +2226,7 @@ Die Summenbildung erfolgt über alle in der Margenvereinbarung enthaltenen Netti
 
 ### 6 Berechnung des positiven oder negativen Nettowerts der Sicherheiten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image7.png)
 
 <table>
 <tr><td>*CN*</td><td>Nettowert der Sicherheiten (*Net Collateral Value*)</td></tr>
@@ -2237,7 +2237,7 @@ Die Summenbildung erfolgt über alle in der Margenvereinbarung enthaltenen Netti
 
 ### 7 Multiplikator zur Berechnung des potenziellen Wertanstiegs
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image8.png)
 
 <table>
 <tr><td>exp()</td><td>Exponentialfunktion</td></tr>
@@ -2248,7 +2248,7 @@ Die Summenbildung erfolgt über alle in der Margenvereinbarung enthaltenen Netti
 
 ### 8 Aggregierter Multiplikator zur Berechnung des potenziellen Wertanstiegs auf Stufe Margenvereinbarung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image9.png)
 
 <table>
 <tr><td>exp()</td><td>Exponentialfunktion</td></tr>
@@ -2259,7 +2259,7 @@ Die Summenbildung erfolgt über alle in der Margenvereinbarung enthaltenen Netti
 
 ### 9 Aufsichtsrechtliche Duration
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image10.png)
 
 <table>
 <tr><td>*SD*</td><td>aufsichtsrechtliche Duration</td></tr>
@@ -2279,7 +2279,7 @@ Gewöhnliche Zinsswaps und Kreditausfall-Swaps haben eine Startzeit von null und
 
 ### 11 Maturitätsfaktor für Derivate mit Margenausgleich
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image13.png)
 
 <table>
 <tr><td>MPOR</td><td>Nachschuss-Risikodauer (*Margin Period of Risk*)</td></tr>
@@ -2295,17 +2295,17 @@ Gewöhnliche Zinsswaps und Kreditausfall-Swaps haben eine Startzeit von null und
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image14.png)</td><td>kumulative Verteilungsfunktion der Standard-Normalverteilung</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image14.png)</td><td>kumulative Verteilungsfunktion der Standard-Normalverteilung</td></tr>
 <tr><td>ln(…)</td><td>natürliche Logarithmusfunktion</td></tr>
 <tr><td>*K*</td><td>Ausübungspreis der Option (*Strike*)</td></tr>
-<tr><td>*P*</td><td>Marktwert des Basiswerts oder im Fall von asiatischen Optionen der momentane Betrag desjenigen Mittelwerts, der dem Auszahlungsprofil zugrunde liegt. Bei Zinsoptionen in Währungen mit negativen Marktzinsen oder bei Kontrakten mit negativen Ausübungszinsen ist *P* durch <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image15.png)</sub> und *K* durch <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image16.png)</sub> zu ersetzen, wobei <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image15.png)</sub> &gt; 0 und <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image17.png)</sub>. Für alle Zinsoptionen in derselben Währung hat <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image18.png)</sub> denselben Wert oder ist optionsspezifisch zu berechnen als <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image19.png)</sub>.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image20.png)</td><td>Volatilität nach Ziffer 15</td></tr>
+<tr><td>*P*</td><td>Marktwert des Basiswerts oder im Fall von asiatischen Optionen der momentane Betrag desjenigen Mittelwerts, der dem Auszahlungsprofil zugrunde liegt. Bei Zinsoptionen in Währungen mit negativen Marktzinsen oder bei Kontrakten mit negativen Ausübungszinsen ist *P* durch <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image15.png)</sub> und *K* durch <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image16.png)</sub> zu ersetzen, wobei <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image15.png)</sub> &gt; 0 und <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image17.png)</sub>. Für alle Zinsoptionen in derselben Währung hat <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image18.png)</sub> denselben Wert oder ist optionsspezifisch zu berechnen als <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image19.png)</sub>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image20.png)</td><td>Volatilität nach Ziffer 15</td></tr>
 <tr><td>*T*</td><td>Restlaufzeit in Jahren bis zum vertraglich spätesten Ausübungszeitpunkt der Option (*Time to Maturity*)</td></tr>
 </table>
 
 ### 13 Aufsichtsrechtliches Delta für CDO-Tranchen mit der Bank als Sicherungsnehmer
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image21.png)
 
 <table>
 <tr><td>*A*</td><td>Anknüpfungspunkt (*Attachment Point*) der CDO-Tranche mit Kreditschutz</td></tr>
@@ -2316,7 +2316,7 @@ Gewöhnliche Zinsswaps und Kreditausfall-Swaps haben eine Startzeit von null und
 
 ### 14 Aufsichtsrechtliches Delta für CDO-Tranchen mit der Bank als Sicherungsgeber
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image22.png)
 
 <table>
 <tr><td>*A*</td><td>Anknüpfungspunkt (*Attachment Point*) der CDO-Tranche mit Kreditschutz</td></tr>
@@ -2328,7 +2328,7 @@ Gewöhnliche Zinsswaps und Kreditausfall-Swaps haben eine Startzeit von null und
 ### 15 Skalierungsfaktoren, Korrelationen und Volatilitäten pro Basiswert
 
 <table>
-<tr><th colspan="3">Basiswert</th><th>Skalierungs- faktor, in Prozent</th><th>Korrelation <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image23.png)</sub> in Prozent</th><th>Volatilität <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image24.png)</sub> in Prozent</th></tr>
+<tr><th colspan="3">Basiswert</th><th>Skalierungs- faktor, in Prozent</th><th>Korrelation <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image23.png)</sub> in Prozent</th><th>Volatilität <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image24.png)</sub> in Prozent</th></tr>
 <tr><td colspan="3">Zinsen</td><td>0,50</td><td></td><td>50</td></tr>
 <tr><td colspan="3">Währungen</td><td>4,00</td><td></td><td>15</td></tr>
 <tr><td>Kreditderivate</td><td>Referenz-schuldner</td><td>AAA–AA</td><td>0,38</td><td>50</td><td>100</td></tr>
@@ -2348,23 +2348,23 @@ Gewöhnliche Zinsswaps und Kreditausfall-Swaps haben eine Startzeit von null und
 
 ### 16 Partielle Verrechnung der laufzeitbandspezifischen SEN<sub>1</sub>, SEN<sub>2</sub> und SEN<sub>3</sub> bei Zinsderivaten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image25.png)
 
 ### 17 Partielle Verrechnung der SEN bei Kreditderivaten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image26.png)
 
 Die Summenbildung erfolgt über alle Referenzschuldner und Indizes *i*, mit zugehörigem Korrelationsparameter *p**<sub>i</sub>* nach Ziffer 15 und mit *SEN**<sub>i</sub>* als zum *i*-ten Referenzschuldner oder Index zugehörigen vollständig verrechneten *SEN*.
 
 ### 18 Partielle Verrechnung der SEN bei Aktienderivaten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image27.png)
 
 Die Summerbildung erfolgt über alle Einzeltitel und Indizes *j*, mit zugehörigem Korrelationsparameter *p**<sub>j</sub>* nach Ziffer 15 und mit *SEN**<sub>j</sub>* als zum *j*-ten Einzeltitel oder Index zugehörigen vollständig verrechneten *SEN*.
 
 ### 19 Partielle Verrechnung der SEN bei Rohstoffderivaten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image28.png)
 
 Die Summenbildung erfolgt über alle Rohstofftypen *k* innerhalb der jeweiligen Rohstoffgruppe, mit zugehörigem Korrelationsparameter *p**<sub>k</sub>* nach Ziffer 15 und mit *SEN**<sub>k</sub>* als zum Rohstofftyp zugehörigen vollständig verrechneten *SEN*.
 
@@ -2376,7 +2376,7 @@ Anhang 2
 
 ### 1 Berechnung des Kreditäquivalents für Netting-Sets
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image29.png)
 
 <table>
 <tr><td>*EAD*</td><td>Kreditäquivalent (E*xposure at Default*)</td></tr>
@@ -2403,7 +2403,7 @@ Anhang 2
 
 ### 3 Berechnung des Netto-Wertaufschlags
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image30.png)
 
 <table>
 <tr><td>*NWA*</td><td>Netto-Wertaufschlag</td></tr>
@@ -2412,15 +2412,17 @@ Anhang 2
 <tr><td>*<sub>SWBp</sub>*</td><td>Summe der positiven Wiederbeschaffungswerte</td></tr>
 </table>
 
-Anhang 3
+Anhang 3[^t-2]
 
 (Art. 64 Abs. 2, 66 Abs. 2, 77, 94 Abs. 1 und 4, 95, 97 Abs. 1, 98 Abs. 1 und 2, 99 Abs. 1 und 100 Abs. 3)
 
 ## Risikomindernde Massnahmen
 
+[^t-2]: Die Berichtigung vom 5. Okt. 2026 betrifft nur den französischen Text ([AS 2026 508](https://fedlex.data.admin.ch/eli/oc/2026/508)).
+
 ### 1 Absicherung einer Position im Fall einer Laufzeitinkongruenz
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image31.png)
 
 <table>
 <tr><td>*P**<sub>a</sub>*</td><td>Wert der um die Laufzeitinkongruenz angepassten Absicherung (*Value of the Credit Protection Adjusted for Maturity Mismatch*)</td></tr>
@@ -2431,7 +2433,7 @@ Anhang 3
 
 ### 2 Nach Risiko zu gewichtende Positionen nach Risikominderung nach dem umfassenden Ansatz
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image32.png)
 
 <table>
 <tr><td>*E**<sup>\*</sup>*</td><td>Position nach Risikominderung durch finanzielle Sicherheiten (*Adjusted Exposure*)</td></tr>
@@ -2444,7 +2446,7 @@ Anhang 3
 
 ### 3 Absicherung einer Position bei Währungsinkongruenz
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image33.png)
 
 <table>
 <tr><td>*G**<sub>a</sub>*</td><td>angepasster Nominalwert der Absicherung, nach Berücksichtigung der Währungsinkongruenz (*Adjusted Nominal Amount of the Credit Protection*)</td></tr>
@@ -2467,7 +2469,7 @@ Anhang 3
 
 ### 5 Standard-Sicherheitsabschlag bei einem Korb von Aktiven
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image34.png)
 
 <table>
 <tr><td>*a**<sub>i</sub>*</td><td>wertmässiger Anteil des i-ten Aktivums am Gesamtwert des Korbs</td></tr>
@@ -2478,7 +2480,7 @@ Anhang 3
 
 ### 6.1 Bei anerkannten Sicherheiten nach den Artikeln 92 und 93
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image35.png)
 
 <table>
 <tr><td>*H*<sub>10</sub></td><td>Standard-Sicherheitsabschlag (*Haircut*) für das Instrument</td></tr>
@@ -2488,7 +2490,7 @@ Anhang 3
 
 ### 6.2 Bei anerkannten verpfändeten Vorsorgevermögen nach Artikel 98
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image36.png)
 
 <table>
 <tr><td>*H*<sub>20</sub></td><td>Sicherheitsabschlag (*Haircut*) für das Vorsorgevermögen</td></tr>
@@ -2497,20 +2499,20 @@ Anhang 3
 
 ### 7 Berücksichtigung von Verrechnungsvereinbarungen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image37.png)
 
 <table>
 <tr><td>*E**<sup>\*</sup>*</td><td>Positionswert des Netting-Sets nach Risikominderung</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image38.png)</sub></td><td>gegenwärtiger Forderungsbetrag aller im Rahmen der Verrechnungsvereinbarung der Gegenpartei geliehenen Gelder sowie geliehenen oder mit Rückkaufsvereinbarung verkauften oder anderweitig zur Verfügung gestellten Wertpapiere</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image39.png)</sub></td><td>gegenwärtiger Wert aller im Rahmen der Verrechnungsvereinbarung von der Gegenpartei geborgten Gelder sowie geborgten oder mit Rückverkaufsvereinbarung verkauften oder anderweitig als Sicherheit gehaltenen Wertpapiere</td></tr>
-<tr><td>*n*</td><td>Anzahl Wertpapiertitel im Netting-Set ohne Zählung von solchen Titeln, deren Positionswert *E**<sub>s</sub>* kleiner als 10 Prozent des grössten Positionswerts <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image40.png)</sub> ist</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image38.png)</sub></td><td>gegenwärtiger Forderungsbetrag aller im Rahmen der Verrechnungsvereinbarung der Gegenpartei geliehenen Gelder sowie geliehenen oder mit Rückkaufsvereinbarung verkauften oder anderweitig zur Verfügung gestellten Wertpapiere</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image39.png)</sub></td><td>gegenwärtiger Wert aller im Rahmen der Verrechnungsvereinbarung von der Gegenpartei geborgten Gelder sowie geborgten oder mit Rückverkaufsvereinbarung verkauften oder anderweitig als Sicherheit gehaltenen Wertpapiere</td></tr>
+<tr><td>*n*</td><td>Anzahl Wertpapiertitel im Netting-Set ohne Zählung von solchen Titeln, deren Positionswert *E**<sub>s</sub>* kleiner als 10 Prozent des grössten Positionswerts <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image40.png)</sub> ist</td></tr>
 <tr><td>*<sub>E</sub>**<sub>f</sub>*</td><td>absoluter Betrag der Nettoposition in der Währung *f*, die nicht Abwicklungswährung ist</td></tr>
 <tr><td>*<sub>H</sub>**<sub>f</sub>*</td><td>Sicherheitsabschlag (*Haircut*) bei Währungsinkongruenz für die Währung *f*</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image41.png)</sub></td><td>Nettoforderung</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image42.png)</sub></td><td>Bruttoforderung</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image41.png)</sub></td><td>Nettoforderung</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image42.png)</sub></td><td>Bruttoforderung</td></tr>
 </table>
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image43.png)</sub> ist der gegenwärtige Nettowert der s-ten Wertpapierposition im Netting-Set und *H**<sub>s</sub>* ist der wertpapierspezifische Sicherheitsabschlag; dieser Abschlag ist positiv für ausgeliehene oder mit Rückkaufsvereinbarung verkaufte oder anderweitig zur Verfügung gestellte Wertpapiere und negativ für geborgte oder mit Rückverkaufsvereinbarung gekaufte oder anderweitig als Sicherheit erhaltene Wertpapiere.
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image43.png)</sub> ist der gegenwärtige Nettowert der s-ten Wertpapierposition im Netting-Set und *H**<sub>s</sub>* ist der wertpapierspezifische Sicherheitsabschlag; dieser Abschlag ist positiv für ausgeliehene oder mit Rückkaufsvereinbarung verkaufte oder anderweitig zur Verfügung gestellte Wertpapiere und negativ für geborgte oder mit Rückverkaufsvereinbarung gekaufte oder anderweitig als Sicherheit erhaltene Wertpapiere.
 
 ### 8 Sicherheitsabschläge für anerkannte Vorsorgevermögen
 
@@ -2615,7 +2617,7 @@ Anhang 6
 
 ## IRB: Berechnung der Korrelation *R* für die Risikogewichtung von Unternehmen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20250519/de/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/141/20261005/de/xml/image/image44.png)
 
 <table>
 <tr><td>*R*</td><td>Korrelation</td></tr>
