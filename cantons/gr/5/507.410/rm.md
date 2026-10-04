@@ -4,11 +4,12 @@ number: "507.410"
 title: "Tariffa d'indemnisaziun per la controlla dals animals da maz e da la charn *"
 language: rm
 version: 2025-10-01
+corrected: 2026-10-05
 version_adopted: 2025-09-02
 adopted: 1999-12-21
 in_force: 2000-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/507.410"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3831/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3569/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -90,7 +91,7 @@ relaschada da la regenza ils 21 da december 1999
 
 <sup>1</sup> La controlla da l'igiena da maz sco er ulteriuras incumbensas da controlla ordaifer l'artitgel 2 e l'artitgel 3 vegnan indemnisadas tenor il temp impundì.
 
-<sup>2</sup> Ina indemnisaziun tenor il temp impundì po plinavant vegnir pajada suenter avair consultà l'Uffizi da veterinari e victualias, sche veterinarias e veterinaris vegnan clamads en acziun ordaifer las uras da fatschenta usitadas, sch'i resultan per ellas ed els temps da spetga ordvart lungs en connex cun la controlla dals animals da maz e da la charn u sch'il viadi al lieu respectivamain il return dura ordvart ditg.
+<sup>2</sup> Ina indemnisaziun tenor il temp impundì po plinavant vegnir pajada suenter avair consultà l'Uffizi per la segirezza da victualias e per la sanadad d'animals, sche veterinarias e veterinaris vegnan clamads en acziun ordaifer las uras da fatschenta usitadas, sch'i resultan per ellas ed els temps da spetga ordvart lungs en connex cun la controlla dals animals da maz e da la charn u sch'il viadi al lieu respectivamain il return dura ordvart ditg.
 
 <sup>3</sup> L'indemnisaziun importa 130 francs per ura.
 

@@ -4,11 +4,12 @@ number: "507.410"
 title: Entschädigungstarif für die Schlachttier- und Fleischuntersuchung
 language: de
 version: 2025-10-01
+corrected: 2026-10-05
 version_adopted: 2025-09-02
 adopted: 1999-12-21
 in_force: 2000-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/507.410"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3831/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3569/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -90,7 +91,7 @@ von der Regierung erlassen am 21. Dezember 1999
 
 <sup>1</sup> Die Entschädigung für die Kontrolle der Schlachthygiene sowie für weitere Kontrollaufgaben ausserhalb von Artikel 2 und Artikel 3 erfolgt nach Zeitaufwand.
 
-<sup>2</sup> Weiter kann eine Entschädigung nach Zeitaufwand nach Rücksprache mit dem Veterinär- und Lebensmittelamt erfolgen, wenn Tierärztinnen oder Tierärzte ausserhalb der üblichen Geschäftszeiten aufgeboten werden, wenn für sie bei der Schlachttier- und Fleischuntersuchung übermässige Wartezeiten entstehen oder wenn die Anfahrt beziehungsweise Rückfahrt übermässig lange dauert.
+<sup>2</sup> Weiter kann eine Entschädigung nach Zeitaufwand nach Rücksprache mit dem Amt für Lebensmittelsicherheit und Tiergesundheit erfolgen, wenn Tierärztinnen oder Tierärzte ausserhalb der üblichen Geschäftszeiten aufgeboten werden, wenn für sie bei der Schlachttier- und Fleischuntersuchung übermässige Wartezeiten entstehen oder wenn die Anfahrt beziehungsweise Rückfahrt übermässig lange dauert.
 
 <sup>3</sup> Die Entschädigung beträgt 130 Franken pro Stunde.
 

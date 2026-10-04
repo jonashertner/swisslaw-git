@@ -4,11 +4,12 @@ number: "507.410"
 title: "Tariffario delle indennità per il controllo degli animali da macello e delle carni *"
 language: it
 version: 2025-10-01
+corrected: 2026-10-05
 version_adopted: 2025-09-02
 adopted: 1999-12-21
 in_force: 2000-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/507.410"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3831/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3569/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -90,7 +91,7 @@ ai sensi dell'art. 11 dell'ordinanza cantonale sull'igiene delle carni del 5 ott
 
 <sup>1</sup> L'indennità per il controllo dell'igiene della macellazione nonché per altri compiti di controllo al di fuori dell'articolo 2 e dell'articolo 3 viene calcolata secondo il dispendio di tempo.
 
-<sup>2</sup> Inoltre, in accordo con l'Ufficio veterinario e alimentare, un'indennità può essere calcolata secondo il dispendio di tempo se i veterinari vengono chiamati in servizio al di fuori degli orari di lavoro usuali, se devono attendere eccessivamente a lungo prima di effettuare il controllo degli animali da macello e delle carni oppure se il viaggio di andata o di ritorno risulta eccessivamente lungo.
+<sup>2</sup> Inoltre, in accordo con l'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali, un'indennità può essere calcolata secondo il dispendio di tempo se i veterinari vengono chiamati in servizio al di fuori degli orari di lavoro usuali, se devono attendere eccessivamente a lungo prima di effettuare il controllo degli animali da macello e delle carni oppure se il viaggio di andata o di ritorno risulta eccessivamente lungo.
 
 <sup>3</sup> L'indennità ammonta a 130 franchi all'ora.
 
