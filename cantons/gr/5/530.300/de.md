@@ -4,11 +4,12 @@ number: "530.300"
 title: Verordnung zum Vollzug des Personenverkehrsabkommens
 language: de
 version: 2025-01-01
+corrected: 2026-10-05
 version_adopted: 2023-04-04
 adopted: 2004-06-01
 in_force: 2004-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/530.300"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3836/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -30,7 +31,7 @@ von der Regierung erlassen am 1. Juni 2004
 
 <sup>1</sup> Die tripartite Kommission flankierende Massnahmen (tripartite Kommission) besteht aus zwölf Mitgliedern, welche von der Regierung gewählt werden.
 
-<sup>2</sup> Das Präsidium wird von einem Vertreter oder einer Vertreterin des Amtes für Arbeit (AFA) übernommen. Die Kommission wählt aus den eigenen Reihen eine Person, welche das Vizepräsidium übernimmt.
+<sup>2</sup> Das Präsidium wird von einem Vertreter oder einer Vertreterin des kantonalen Amtes für Industrie, Gewerbe und Arbeit (KIGA) übernommen. Die Kommission wählt aus den eigenen Reihen eine Person, welche das Vizepräsidium übernimmt.
 
 <sup>3</sup> Die Regierung regelt, soweit notwendig, die Arbeitsabläufe innerhalb der Kommission sowie die Koordination der Vollzugsaufgaben mit Dritten nach Anhörung der Kommission.
 
@@ -52,7 +53,7 @@ von der Regierung erlassen am 1. Juni 2004
 
 **4. Geschäftsstelle**
 
-<sup>1</sup> Das AFA führt die Geschäftsstelle der tripartiten Kommission. Neben allgemeinen Sekretariatsarbeiten hat die Geschäftsstelle insbesondere folgende Aufgaben:
+<sup>1</sup> Das KIGA führt die Geschäftsstelle der tripartiten Kommission. Neben allgemeinen Sekretariatsarbeiten hat die Geschäftsstelle insbesondere folgende Aufgaben:
 
 - a) Bereitstellen der Unterlagen und Informationen (Berichte, Statistiken, Übersichten über Löhne usw.), welche die tripartite Kommission zur Erfüllung ihrer Aufgaben braucht;
 - b) Vorbereitung der Sitzungen sowie die Protokollführung in diesen Sitzungen;
@@ -62,7 +63,7 @@ von der Regierung erlassen am 1. Juni 2004
 
 **Zuständigkeiten**
 
-<sup>1</sup> Kantonale Vollzugsbehörde gemäss Artikel 7 Absatz 1 Litera d und Artikel 9 des Entsendegesetzes[^5-1] ist das AFA.
+<sup>1</sup> Kantonale Vollzugsbehörde gemäss Artikel 7 Absatz 1 Litera d und Artikel 9 des Entsendegesetzes[^5-1] ist das KIGA.
 
 <sup>2</sup> Entscheidbehörde im Sinne von Artikel 360b Absatz 5 OR[^5-2] ist das Obergericht. Es entscheidet in einzelrichterlicher Kompetenz.
 
@@ -75,11 +76,11 @@ von der Regierung erlassen am 1. Juni 2004
 
 <sup>1</sup> Die für den Vollzug des Personenverkehrsabkommens sowie der flankierenden Massnahmen zuständigen Organe sind befugt, bei Bedarf die Unterstützung der Kantonspolizei anzufordern.
 
-<sup>2</sup> Im Rahmen der Kontrolle von GAV-unterstellten Betrieben ist das AFA berechtigt, Unterlagen einzuverlangen, welche zur Überprüfung der Einhaltung der orts- und berufsüblichen Lohn- und Arbeitsbedingungen notwendig sind. Es leitet diese Unterlagen zur Überprüfung an die zuständigen paritätischen Kommissionen weiter.
+<sup>2</sup> Im Rahmen der Kontrolle von GAV-unterstellten Betrieben ist das KIGA berechtigt, Unterlagen einzuverlangen, welche zur Überprüfung der Einhaltung der orts- und berufsüblichen Lohn- und Arbeitsbedingungen notwendig sind. Es leitet diese Unterlagen zur Überprüfung an die zuständigen paritätischen Kommissionen weiter.
 
 <sup>3</sup> Zur Überprüfung des rechtmässigen Aufenthaltes sowie der Einhaltung der Meldepflicht von ausländischen Arbeitskräften sind die Kontrollorgane berechtigt, Einblick in Ausländerausweise und Reisepapiere zu nehmen.
 
-<sup>4</sup> Falls sich im Rahmen der Kontrollarbeiten der paritätischen Berufskommissionen Hinweise auf den Verstoss gegen arbeitgesetzliche Bestimmungen ergeben, ist dem AFA unter Beilage der Arbeitskontrollblätter oder anderer Beweismittel Meldung zu erstatten.
+<sup>4</sup> Falls sich im Rahmen der Kontrollarbeiten der paritätischen Berufskommissionen Hinweise auf den Verstoss gegen arbeitgesetzliche Bestimmungen ergeben, ist dem KIGA unter Beilage der Arbeitskontrollblätter oder anderer Beweismittel Meldung zu erstatten.
 
 #### Art. 7
 
@@ -98,7 +99,7 @@ von der Regierung erlassen am 1. Juni 2004
 
 <sup>1</sup> Das Departement für Volkswirtschaft und Soziales legt nach Anhörung der in der tripartiten Kommission vertretenen Sozialpartner die Höhe und die Modalitäten der Entschädigung der paritätischen Kommissionen fest.
 
-<sup>2</sup> Entschädigt werden die nach vorgängiger Absprache mit dem AFA durchgeführten Vollzugsmassnahmen.
+<sup>2</sup> Entschädigt werden die nach vorgängiger Absprache mit dem KIGA durchgeführten Vollzugsmassnahmen.
 
 #### Art. 9
 

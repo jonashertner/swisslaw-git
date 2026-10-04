@@ -4,11 +4,12 @@ number: "530.300"
 title: "Ordinaziun tar l'execuziun da la cunvegna davart la circulaziun da persunas"
 language: rm
 version: 2025-01-01
+corrected: 2026-10-05
 version_adopted: 2023-04-04
 adopted: 2004-06-01
 in_force: 2004-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/530.300"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3836/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -30,7 +31,7 @@ relaschada da la regenza il 1. da zercladur 2004
 
 <sup>1</sup> La cumissiun tripartita per mesiras accumpagnantas (cumissiun tripartita) consista da 12 commembras e commembers che vegnan elegids da la regenza.
 
-<sup>2</sup> Il presidi vegn surpiglià d'ina represchentanta u d'in represchentant da l'Uffizi da lavur (ULAV). La cumissiun elegia ina persuna or da ses ravugl che surpiglia il vicepresidi.
+<sup>2</sup> Il presidi vegn surpiglià d'ina represchentanta u d'in represchentant da l'uffizi chantunal per industria, mastergn e lavur (UCIML). La cumissiun elegia ina persuna or da ses ravugl che surpiglia il vicepresidi.
 
 <sup>3</sup> La regenza regla, uschenavant che quai è necessari, ils process da lavur da la cumissiun sco er la coordinaziun da las incumbensas executivas cun terzas persunas suenter avair consultà la cumissiun.
 
@@ -52,7 +53,7 @@ relaschada da la regenza il 1. da zercladur 2004
 
 **4. secretariat**
 
-<sup>1</sup> Il ULAV maina il secretariat per la cumissiun tripartita. Ultra da las lavurs generalas da secretariat ha il secretariat spezialmain las suandantas incumbensas:
+<sup>1</sup> Il UCIML maina il secretariat per la cumissiun tripartita. Ultra da las lavurs generalas da secretariat ha il secretariat spezialmain las suandantas incumbensas:
 
 - a) metter a disposiziun ils documents e las infurmaziuns (rapports, statisticas, survistas da salaris e.u.v.) che la cumissiun tripartita basegna per ademplir sias incumbensas;
 - b) preparar las sesidas sco er far il protocol en questas sesidas;
@@ -62,7 +63,7 @@ relaschada da la regenza il 1. da zercladur 2004
 
 **Cumpetenzas**
 
-<sup>1</sup> L'autoritad executiva chantunala tenor l'artitgel 7 alinea 1 litera d e l'artitgel 9 da la Lescha davart ils lavurants tramess en Svizra[^5-1] è il ULAV.
+<sup>1</sup> L'autoritad executiva chantunala è tenor l'artitgel 7 alinea 1 litera d e l'artitgel 9 da la lescha davart ils lavurants tramess en Svizra[^5-1] il UCIML.
 
 <sup>2</sup> L'autoritad da decisiun en il senn da l'artitgel 360b alinea 5 DO[^5-2] è la Dretgira superiura. Ella decida en cumpetenza da derschader singul.
 
@@ -75,11 +76,11 @@ relaschada da la regenza il 1. da zercladur 2004
 
 <sup>1</sup> Ils organs ch'èn cumpetents per l'execuziun da la cunvegna davart la circulaziun da persunas sco er da las mesiras accumpagnantas èn autorisads da dumandar sustegn da la polizia chantunala en cas da basegn.
 
-<sup>2</sup> En il rom da las controllas da manaschis ch'èn suttamess al CCL è il ULAV autorisà da pretender documents ch'èn necessaris per examinar l'observaziun da las cundiziuns da lavur e da salari localas e da la professiun. El transmetta quests documents a las cumissiuns pariteticas cumpetentas per l'examinaziun.
+<sup>2</sup> En il rom da las controllas da manaschis ch'èn suttamess al CCL è il UCIML autorisà da pretender documents ch'èn necessaris per examinar l'observaziun da las cundiziuns da lavur e da salari localas e da la professiun. El transmetta quests documents a las cumissiuns pariteticas cumpetentas per l'examinaziun.
 
 <sup>3</sup> Per examinar la dimora legala sco er l'observaziun da l'obligaziun d'annunzia da forzas da lavur estras èn ils organs da controlla autorisads da prender invista da las legitimaziuns d'esters e dals documents da viadi.
 
-<sup>4</sup> Sch'i sa mussan – en il rom da las lavurs da controlla da las cumissiuns professiunalas pariteticas – indizis d'ina cuntravenziun cunter las disposiziuns da la Lescha da lavur, sto vegnir fatg in rapport al ULAV cun l'agiunta dals fegls da controlla da la lavur u d'auters mussaments.
+<sup>4</sup> Sch'i sa mussan – en il rom da las lavurs da controlla da las cumissiuns professiunalas pariteticas – indizis d'ina cuntravenziun cunter las disposiziuns da la lescha da lavur, sto vegnir fatg in rapport al UCIML cun l'agiunta dals fegls da controlla da la lavur u d'auters mussaments.
 
 #### Art. 7
 
@@ -98,7 +99,7 @@ relaschada da la regenza il 1. da zercladur 2004
 
 <sup>1</sup> Il departament d'economia publica e fatgs socials fixescha – suenter avair consultà las partenarias ed ils partenaris socials ch'èn represchentads en la cumissiun tripartita – l'autezza e las modalitads da l'indemnisaziun da las cumissiuns pariteticas.
 
-<sup>2</sup> Indemnisadas vegnan las mesiras executivas ch'èn vegnidas realisadas tenor la cunvegna ch'è vegnida fatga ordavant cun il ULAV.
+<sup>2</sup> Indemnisadas vegnan las mesiras executivas ch'èn vegnidas realisadas tenor la cunvegna ch'è vegnida fatga ordavant cun il UCIML.
 
 #### Art. 9
 
