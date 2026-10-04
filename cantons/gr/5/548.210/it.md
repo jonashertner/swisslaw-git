@@ -4,12 +4,12 @@ number: "548.210"
 title: Disposizioni di attuazione della legge sugli assegni maternità
 language: it
 version: 1998-12-01
-corrected: 2015-02-12
+corrected: 2026-10-05
 version_adopted: 1998-10-27
 adopted: 1991-12-17
 in_force: 1992-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/548.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2100/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2468/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -47,7 +47,7 @@ emanate dal Governo il 17 dicembre 1991
 - c) un attestato sul totale delle entrate e sulla sostanza netta dell'ultima dichiarazione d'imposta confermato dall'ufficio fiscale comunale e altri certificati sulla situazione economica del genitore assistente rispettivamente dei genitori sposati o conviventi, per quanto essi siano determinanti per il diritto all'assegno;
 - d) il contratto di locazione oppure la pezza giustificativa degli oneri degli interessi ipotecari;
 - e) una dichiarazione che i presupposti per l'assegno ai sensi dell'articolo 2 lettere c)-e) della legge sono adempiti;
-- f) il certificato assicurativo della cassa malati. Il Servizio cantonale di assistenza sociale può richiedere altra documentazione.
+- f) il certificato assicurativo della cassa malati.
 
 #### Art. 4
 

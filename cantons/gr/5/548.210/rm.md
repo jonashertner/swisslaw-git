@@ -4,12 +4,12 @@ number: "548.210"
 title: Disposiziuns executivas tar la lescha davart contribuziuns da maternitad
 language: rm
 version: 1998-12-01
-corrected: 2015-02-12
+corrected: 2026-10-05
 version_adopted: 1998-10-27
 adopted: 1991-12-17
 in_force: 1992-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/548.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2100/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
