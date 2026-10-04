@@ -4,33 +4,34 @@ number: "545.200"
 title: Ordinanza della legge federale concernente i provvedimenti in materia di lotta contro il lavoro nero
 language: it
 version: 2008-01-01
-corrected: 2014-10-09
+corrected: 2026-10-05
 version_adopted: 2007-12-11
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/545.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/309/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2089/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza della legge federale concernente i provvedimenti in materia di lotta contro il lavoro nero
 
+del 11.12.2007 (stato 01.01.2008)
+
 emanata dal Governo l'11 dicembre 2007
 
-visti l'art. 4 legge federale concernente i provvedimenti in materia di lotta contro il lavoro nero[^t-1] e l'art. 45 della Costituzione cantonale[^t-2]
+visti l'art. 4 legge federale concernente i provvedimenti in materia di lotta contro il lavoro nero[^ingress-1] e l'art. 45 della Costituzione cantonale[^ingress-2]
 
-[^t-1]: RS 822.41
-[^t-2]: CSC 110.100
+[^ingress-1]: RS [822.41](https://db.clex.ch/link/Bund/822.41/it)
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 
 #### Art. 1
 
 **Organo di controllo**
 
-L'Ufficio per l'industria, arti e mestieri e lavoro (UCIAML) è l'organo di controllo ai sensi dell'articolo 4 capoverso 1 della legge federale concernente i provvedimenti in materia di lotta contro il lavoro nero (LLN)[^1-1].
+<sup>1</sup> L'Ufficio per l'industria, arti e mestieri e lavoro (UCIAML) è l'organo di controllo ai sensi dell'articolo 4 capoverso 1 della legge federale concernente i provvedimenti in materia di lotta contro il lavoro nero (LLN)[^1-1].
 
-[^1-1]: RS 822.41
+[^1-1]: RS [822.41](https://db.clex.ch/link/Bund/822.41/it)
 
 #### Art. 2
 
@@ -42,16 +43,16 @@ L'Ufficio per l'industria, arti e mestieri e lavoro (UCIAML) è l'organo di cont
 
 <sup>3</sup> La Commissione tripartita ha funzione consultiva nella determinazione dei settori da controllare.
 
-[^2-1]: RS 220
-[^2-2]: RS 822.41
+[^2-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
+[^2-2]: RS [822.41](https://db.clex.ch/link/Bund/822.41/it)
 
 #### Art. 3
 
 **Notifica di emolumenti e multe riscossi**
 
-Le autorità e le organizzazioni secondo l'articolo 11 capoverso 1 LLN[^3-1] notificano all'organo cantonale di controllo gli emolumenti riscossi e le multe intimate in relazione al lavoro nero.
+<sup>1</sup> Le autorità e le organizzazioni secondo l'articolo 11 capoverso 1 LLN[^3-1]. notificano all'organo cantonale di controllo gli emolumenti riscossi e le multe intimate in relazione al lavoro nero.
 
-[^3-1]: RS 822.41 1.1.2008 1
+[^3-1]: RS [822.41](https://db.clex.ch/link/Bund/822.41/it)
 
 #### Art. 4
 
@@ -61,8 +62,12 @@ Le autorità e le organizzazioni secondo l'articolo 11 capoverso 1 LLN[^3-1] not
 
 <sup>2</sup> Esso informa il Dipartimento competente per l'esecuzione delle prescrizioni sugli appalti pubblici in merito a un blocco.
 
-[^4-1]: RS 822.41 2 1.1.2008
+[^4-1]: RS [822.41](https://db.clex.ch/link/Bund/822.41/it)
 
 #### Art. 5
 
-Entrata in vigore La presente ordinanza entra in vigore il 1° gennaio 2008.
+**Entrata in vigore**
+
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2008.
+
+-

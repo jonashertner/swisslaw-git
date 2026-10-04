@@ -4,33 +4,34 @@ number: "545.200"
 title: Verordnung zum Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit
 language: de
 version: 2008-01-01
-corrected: 2014-10-09
+corrected: 2026-10-05
 version_adopted: 2007-12-11
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/545.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/309/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2089/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit
 
-Gestützt auf Artikel 4 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit[^t-1] und Artikel 45 der Kantonsverfassung[^t-2]
+Vom 11.12.2007 (Stand 01.01.2008)
+
+Gestützt auf Art. 4 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit[^ingress-1] und Art. 45 der Kantonsverfassung[^ingress-2]
 
 von der Regierung erlassen am 11. Dezember 2007
 
-[^t-1]: SR 822.41
-[^t-2]: BR 110.100
+[^ingress-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
 #### Art. 1
 
 **Kontrollorgan**
 
-Das Amt für Industrie, Gewerbe und Arbeit (KIGA) ist das Kontrollorgan im Sinne von Artikel 4 Absatz 1 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit (BGSA)[^1-1].
+<sup>1</sup> Das Amt für Industrie, Gewerbe und Arbeit (KIGA) ist das Kontrollorgan im Sinne von Artikel 4 Absatz 1 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit (BGSA)[^1-1].
 
-[^1-1]: SR 822.41
+[^1-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
 
 #### Art. 2
 
@@ -42,16 +43,16 @@ Das Amt für Industrie, Gewerbe und Arbeit (KIGA) ist das Kontrollorgan im Sinne
 
 <sup>3</sup> Die tripartite Kommission hat bei der Festlegung der zu kontrollierenden Branchen beratende Funktion.
 
-[^2-1]: SR 220
-[^2-2]: SR 822.41
+[^2-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+[^2-2]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
 
 #### Art. 3
 
 **Meldung der erhobenen Gebühren und Bussen**
 
-Die Behörden und Organisationen nach Artikel 11 Absatz 1 BGSA[^3-1] melden dem kantonalen Kontrollorgan die im Zusammenhang mit Schwarzarbeit erhobenen Gebühren und verfügten Bussen.
+<sup>1</sup> Die Behörden und Organisationen nach Artikel 11 Absatz 1 BGSA[^3-1] melden dem kantonalen Kontrollorgan die im Zusammenhang mit Schwarzarbeit erhobenen Gebühren und verfügten Bussen.
 
-[^3-1]: SR 822.41 1.01.2008 1
+[^3-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
 
 #### Art. 4
 
@@ -61,10 +62,12 @@ Die Behörden und Organisationen nach Artikel 11 Absatz 1 BGSA[^3-1] melden dem 
 
 <sup>2</sup> Sie informiert das für den Vollzug der Submissionsvorschriften zuständige Departement über eine Sperre.
 
-[^4-1]: SR 822.41 2 1.01.2008
+[^4-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
 
 #### Art. 5
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Januar 2008 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2008 in Kraft.
+
+-
