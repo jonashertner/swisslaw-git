@@ -5,12 +5,12 @@ title: "Legge sull'assistenza alle persone nel bisogno *"
 short: "Legge cantonale sull'assistenza, LCAss"
 language: it
 version: 2025-01-01
-corrected: 2025-02-04
+corrected: 2026-10-05
 version_adopted: 2024-10-22
 adopted: 1978-12-03
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.250"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3528/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3530/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -78,13 +78,15 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 <sup>1</sup> La persona da assistere o assistita è obbligata a dare ogni informazione utile, a produrre i documenti necessari e ad osservare le condizioni poste delle autorità sociali per la prestazione assistenziale.
 
+<sup>2</sup> Per dieci anni dopo l'ultimo versamento di una prestazione essa è inoltre tenuta a notificare cambiamenti rilevanti nelle sue condizioni di reddito e di sostanza all'autorità che ha fornito per ultima l'assistenza.
+
 #### Art. 4a
 
 **Garanzia dei contributi**
 
 <sup>1</sup> I contributi ai sensi della presente legge non sono cedibili. Ogni cessione di diritti a contributi è nulla.
 
-## 2. Prestazioni dei comuni di domicilio e patriziali
+## 2. Prestazioni del comune di domicilio
 
 #### Art. 5
 
@@ -141,24 +143,58 @@ accettata dal Popolo il 3 dicembre 1978[^ingress-1]
 
 #### Art. 11
 
-**Restituzioni**
+**Obbligo di restituzione 1. Principi**
 
-<sup>1</sup> I contributi versati da parenti con obbligo d'assistenza vanno ripartiti tra il Cantone, il comune di domicilio e quel comune politico nel quale la persona interessata ha il proprio diritto di cittadinanza, in proporzione alle spese d'assistenza da essi dovute.
+<sup>1</sup> …
 
-<sup>2</sup> Se le condizioni di sostanza o di reddito della persona assistita migliorano, essa deve restituire senza interessi le prestazioni assistenziali percepite negli ultimi 15 anni. La restituzione deve avvenire solo in misura da non provocare una nuova situazione di bisogno.
+<sup>2</sup> Prestazioni assistenziali percepite in modo legittimo devono essere restituite senza interessi, se le condizioni finanziarie della persona assistita migliorano. Fanno stato gli articoli da 11a fino a 11c.
 
-<sup>3</sup> Una prestazione percepita illegalmente dev'essere restituita con gli interessi.
+<sup>3</sup> Prestazioni assistenziali percepite in modo illegittimo devono essere restituite con gli interessi.
 
-<sup>4</sup> L'autorità assistente ha diritto alla successione dell'assistito in misura delle sue prestazioni.
+<sup>4</sup> L'autorità assistente ha diritto alla successione della persona assistita in misura delle prestazioni erogate.
 
 <sup>5</sup> Il diritto alla restituzione cade in prescrizione:
 
-- a) nei confronti della persona assistita, 15 anni dopo l'ultimo pagamento di una prestazione;
-- b) nei confronti degli eredi della persona assistita, entro un anno da quando hanno adito l'eredità.
+- a) in caso di prestazioni assistenziali percepite in modo legittimo: 10 anni dopo l'ultimo versamento di una prestazione;
+- b) in caso di prestazioni assistenziali percepite in modo illegittimo o in caso di violazione dell'obbligo di notifica conformemente all'articolo 4 capoverso 2: 20 anni dopo l'ultimo versamento di una prestazione;
+- c) nei confronti degli eredi della persona assistita, se nei confronti di quest'ultima il diritto non era ancora prescritto: un anno dopo la devoluzione dell'eredità.
 
-<sup>6</sup> I contributi restituiti vengono ripartiti come le prestazioni assistenziali dei parenti.
+<sup>6</sup> I comuni e il Cantone sono autorizzati a scambiarsi le informazioni necessarie per la restituzione indipendentemente da un eventuale obbligo di mantenere il segreto.
 
-<sup>7</sup> Spese di assistenza versate per la partecipazione a programmi occupazionali o a offerte lavorative del secondo mercato del lavoro non sono soggette all'obbligo di restituzione.
+<sup>7</sup> …
+
+#### Art. 11a
+
+**2. Restituzione tramite il reddito**
+
+<sup>1</sup> Se le condizioni di reddito della persona assistita migliorano, essa diviene soggetta all'obbligo di restituzione, purché ciò non comporti una nuova situazione di bisogno.
+
+<sup>2</sup> Il Governo definisce le basi di calcolo per definire il reddito determinante ai fini della restituzione. Nel fare questo si orienta alle linee guida della Conferenza svizzera delle istituzioni dell'azione sociale (CSIAS).
+
+<sup>3</sup> L'obbligo di restituzione inizia un anno dopo la cessazione dell'assistenza e dura quattro anni.
+
+#### Art. 11b
+
+**3. Restituzione in caso di incremento patrimoniale**
+
+<sup>1</sup> Se le condizioni di sostanza della persona assistita migliorano a seguito di incremento patrimoniale, essa diviene soggetta all'obbligo di restituzione in tale misura, tenendo conto delle franchigie.
+
+<sup>2</sup> Il Governo stabilisce l'ammontare delle franchigie. Nel fare questo si orienta alle linee guida della CSIAS.
+
+<sup>3</sup> Se la persona soggetta all'obbligo di restituzione dispone di altra sostanza, la franchigia si riduce in misura di tale sostanza.
+
+#### Art. 11c
+
+**4. Eccezioni**
+
+<sup>1</sup> Non sono soggette all'obbligo di restituzione le prestazioni assistenziali le quali:
+
+- a) sono state erogate a una persona che non aveva ancora compiuto 25 anni e che svolgeva una prima formazione;
+- b) si trovano in relazione all'integrazione professionale e sociale;
+- c) sono state erogate in considerazione di una disabilità, a complemento dell'assistenza sanitaria inclusa nella copertura dei bisogni primari;
+- d) riguardano premi per l'assicurazione malattie obbligatoria che non sono stati coperti integralmente tramite la riduzione individuale dei premi.
+
+<sup>2</sup> Il Governo può prevedere altre eccezioni. Nel fare questo si orienta alle linee guida della CSIAS.
 
 #### Art. 12
 

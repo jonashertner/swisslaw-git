@@ -5,12 +5,12 @@ title: "Lescha davart il sustegn da persunas basegnusas *"
 short: "Lescha chantunala da sustegn, LS"
 language: rm
 version: 2025-01-01
-corrected: 2025-02-04
+corrected: 2026-10-05
 version_adopted: 2024-10-22
 adopted: 1978-12-03
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.250"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3528/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3530/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -78,13 +78,15 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 <sup>1</sup> La persuna che sto vegnir sustegnida e la persuna sustegnida èn obligadas da dar tut las infurmaziuns utilas, da metter a disposiziun ils documents necessaris sco er da dar suatientscha a las cundiziuns da las autoritads socialas ch'èn colliadas cun la prestaziun da sustegn.
 
+<sup>2</sup> Ultra da quai èn ellas obligadas d'annunziar durant 10 onns suenter ch'ellas han retschavì la prestaziun, las midadas relevantas en lur relaziuns d'entrada e da facultad a quella autoritad che las ha sustegnì sco ultima.
+
 #### Art. 4a
 
 **Garanzia da las contribuziuns**
 
 <sup>1</sup> Contribuziuns en il senn da questa lescha na pon betg vegnir cedidas. Cessiuns da dretgs da contribuziun èn en mintga cas nunvalaivlas.
 
-## 2. Prestaziuns da la vischnanca da domicil e da la vischnanca burgaisa
+## 2. Prestaziuns da la vischnanca da domicil
 
 #### Art. 5
 
@@ -143,24 +145,58 @@ acceptada dal pievel ils 3 da december 1978[^ingress-1]
 
 #### Art. 11
 
-**Restituziuns**
+**Obligaziun da restituziun 1. princips**
 
-<sup>1</sup> Contribuziuns che vegnan pajadas da parentas e parents cun obligaziun da sustegn, ston vegnir repartidas tranter il chantun, la vischnanca da domicil e quella vischnanca politica, en la quala la persuna pertutgada ha ses dretg da burgais, e quai proporziunalmain als custs da sustegn che als tutgan.
+<sup>1</sup> …
 
-<sup>2</sup> Sche las relaziuns da facultad u da gudogn da la persuna sustegnida sa megliereschan, sto ella restituir senza tschains l'agid ch'ella ha retratg durant ils ultims 15 onns. L'agid da sustegn sto vegnir restituì mo, per quant ch'i na resulta nagina nova basegnusadad.
+<sup>2</sup> Prestaziuns da sustegn ch'èn vegnidas retratgas legalmain, ston vegnir restituidas senza tschains, sche las relaziuns finanzialas da la persuna sustegnida sa megliereschan. Valair valan ils artitgels 11a fin 11c.
 
-<sup>3</sup> In sustegn ch'è vegnì retratg nungiustifitgadamain sto vegnir restituì cun tschains.
+<sup>3</sup> Prestaziuns da sustegn ch'èn vegnidas retratgas illegalmain, ston vegnir restituidas cun tschains.
 
-<sup>4</sup> L'autoritad da sustegn ha il dretg sin il relasch da la persuna sustegnida a norma da l'agid prestà.
+<sup>4</sup> A norma da l'agid prestà ha l'autoritad da sustegn il dretg a l'ierta da la persuna sustegnida.
 
 <sup>5</sup> Il dretg da restituziun surannescha:
 
-- a) envers la persuna sustegnida 15 onns suenter l'ultim pajament d'ina prestaziun;
-- b) envers las ertavlas ed ils ertavels da la persuna sustegnida 1 onn suenter il cumenzament da l'ierta.
+- a) en cas da prestaziuns da sustegn retratgas legalmain: 10 onns suenter l'ultim pajament da la prestaziun;
+- b) en cas da prestaziuns da sustegn retratgas illegalmain u en cas d'ina violaziun da l'obligaziun d'annunzia tenor l'artitgel 4 alinea 2: 20 onns suenter l'ultim pajament da la prestaziun;
+- c) envers ils ertavels da la persuna sustegnida, sche la pretensiun envers la persuna sustegnida n'era anc betg surannada: 1 onn suenter la successiun d'ierta.
 
-<sup>6</sup> Las contribuziuns restituidas vegnan repartidas sco sustegniments da persunas parentas.
+<sup>6</sup> Independentamain da l'obligaziun da discreziun, han las vischnancas ed il chantun il dretg da barattar las infurmaziuns ch'èn necessarias per la restituziun.
 
-<sup>7</sup> Custs da sustegn per la participaziun a programs d'occupaziun u a purschidas da lavur dal segund martgà da lavur na suttastattan betg a l'obligaziun da restituziun.
+<sup>7</sup> …
+
+#### Art. 11a
+
+**2. restituziun ord entradas**
+
+<sup>1</sup> Sche las relaziuns da las entradas da la persuna sustegnida sa megliereschan, è ella suttamessa a l'obligaziun da restituziun, premess che tala na chaschunia nagina ulteriura basegnusadad.
+
+<sup>2</sup> La Regenza fixescha las basas da calculaziun per determinar las entradas ch'èn relevantas per la restituziun. Per quest intent s'orientescha ella a las Directivas da la Conferenza svizra da l'agid social (COSAS).
+
+<sup>3</sup> L'obligaziun da restituziun cumenza 1 onn suenter ch'il sustegn è terminà e dura 4 onns.
+
+#### Art. 11b
+
+**3. restituziun ord augment da facultad**
+
+<sup>1</sup> Sche las relaziuns da facultad da la persuna sustegnida sa megliereschan pervia d'in augment da facultad, è ella suttamessa a l'obligaziun da restituziun en questa dimensiun, resguardond imports libers.
+
+<sup>2</sup> La Regenza fixescha ils imports libers. Per quest intent s'orientescha ella a las Directivas da la COSAS.
+
+<sup>3</sup> Sche la persuna ch'è suttamessa a l'obligaziun da restituziun dispona d'autra facultad, sa reducescha l'import liber per questa facultad.
+
+#### Art. 11c
+
+**4. excepziuns**
+
+<sup>1</sup> Betg suttamessas a l'obligaziun da restituziun n'èn las prestaziuns da sustegn che:
+
+- a) èn vegnidas pajadas ad ina persuna fin ch'ella ha cumplenì ses 25. anniversari durant ch'ella absolveva in'emprima scolaziun;
+- b) stattan en connex cun l'integraziun professiunala e sociala;
+- c) èn vegnidas pajadas – per motivs d'in impediment – al provediment material da basa cumplementarmain al provediment da sanadad;
+- d) pertutgan las premias da l'assicuranza obligatorica da malsauns, che n'èn betg vegnidas garantidas cumplainamain tras la reducziun individuala da las premias.
+
+<sup>2</sup> La Regenza po prevair ulteriuras excepziuns. Per quest intent s'orientescha ella a las Directivas da la COSAS.
 
 #### Art. 12
 

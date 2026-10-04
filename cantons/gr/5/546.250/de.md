@@ -5,12 +5,12 @@ title: Gesetz über die Unterstützung Bedürftiger
 short: "Kantonales Unterstützungsgesetz, UG"
 language: de
 version: 2025-01-01
-corrected: 2025-02-04
+corrected: 2026-10-05
 version_adopted: 2024-10-22
 adopted: 1978-12-03
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.250"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3528/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3530/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -78,13 +78,15 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 <sup>1</sup> Die zu unterstützende und die unterstützte Person sind verpflichtet, jede sachdienliche Auskunft zu erteilen, die nötigen Unterlagen beizubringen sowie den mit der Unterstützungsleistung verbundenen Auflagen der Sozialbehörden Folge zu leisten.
 
+<sup>2</sup> Sie sind zudem verpflichtet, während zehn Jahren nach der letzten Leistungsausrichtung relevante Veränderungen in ihren Einkommens- und Vermögensverhältnissen der Behörde zu melden, die zuletzt unterstützt hat.
+
 #### Art. 4a
 
 **Sicherung der Beiträge**
 
 <sup>1</sup> Beiträge im Sinne dieses Gesetzes sind nicht abtretbar. Jede Abtretung von Beitragsansprüchen ist nichtig.
 
-## 2. Leistungen der Wohnorts- und Bürgergemeinde
+## 2. Leistungen der Wohnortsgemeinde
 
 #### Art. 5
 
@@ -143,24 +145,58 @@ Vom Volke angenommen am 3. Dezember 1978[^ingress-1]
 
 #### Art. 11
 
-**Rückerstattungen**
+**Rückerstattungspflicht 1. Grundsätze**
 
-<sup>1</sup> Beiträge, die von unterstützungspflichtigen Verwandten geleistet werden, sind zwischen dem Kanton, der Wohngemeinde und derjenigen politischen Gemeinde, in welcher die betroffene Person ihr Bürgerrecht hat, im Verhältnis der auf sie entfallenden Unterstützungskosten zu verteilen.
+<sup>1</sup> …
 
-<sup>2</sup> Verbessern sich die Vermögens- oder Erwerbsverhältnisse der unterstützten Person, so hat sie die in den letzten 15 Jahren bezogene Unterstützungshilfe ohne Zins zurückzuerstatten. Die Rückerstattung hat nur soweit zu erfolgen, als dadurch keine neue Bedürftigkeit entsteht.
+<sup>2</sup> Rechtmässig bezogene Unterstützungsleistungen sind ohne Zinsen zu erstatten, wenn sich die finanziellen Verhältnisse der unterstützten Person verbessern. Es gelten die Artikel 11a bis 11c.
 
-<sup>3</sup> Eine zu Unrecht bezogene Unterstützung muss mit Zinsen zurückerstattet werden.
+<sup>3</sup> Zu Unrecht bezogene Unterstützungsleistungen müssen mit Zinsen zurückerstattet werden.
 
-<sup>4</sup> Die unterstützende Behörde hat nach Massgabe der geleisteten Hilfe Anspruch auf den Nachlass des Unterstützten.
+<sup>4</sup> Die unterstützende Behörde hat nach Massgabe der geleisteten Hilfe Anspruch auf den Nachlass der unterstützten Person.
 
 <sup>5</sup> Der Rückerstattungsanspruch verjährt:
 
-- a) gegenüber der unterstützten Person 15 Jahre nach der letzten Leistungszahlung;
-- b) gegenüber den Erben der unterstützten Person ein Jahr nach dem Erbschaftsantritt.
+- a) bei rechtmässig bezogenen Unterstützungsleistungen: 10 Jahre nach der letzten Leistungsausrichtung;
+- b) bei zu Unrecht bezogenen Unterstützungsleistungen oder bei Verletzung der Meldepflicht gemäss Artikel 4 Absatz 2: 20 Jahre nach der letzten Leistungsausrichtung;
+- c) gegenüber den Erben der unterstützten Person, sofern dieser gegenüber der Anspruch noch nicht verjährt war: ein Jahr nach dem Erbgang.
 
-<sup>6</sup> Die erstatteten Beiträge werden wie Verwandtenunterstützungen verteilt.
+<sup>6</sup> Die Gemeinden und der Kanton sind berechtigt, die für die Rückerstattung notwendigen Informationen unabhängig von einer allfälligen Geheimhaltungspflicht auszutauschen.
 
-<sup>7</sup> Unterstützungsaufwendungen für die Teilnahme an Beschäftigungsprogrammen oder Arbeitsangeboten des zweiten Arbeitsmarktes unterliegen nicht der Rückerstattungspflicht.
+<sup>7</sup> …
+
+#### Art. 11a
+
+**2. Rückerstattung aus Einkommen**
+
+<sup>1</sup> Verbessern sich die Einkommensverhältnisse der unterstützten Person, so ist sie rückerstattungspflichtig, soweit dadurch keine neue Bedürftigkeit entsteht.
+
+<sup>2</sup> Die Regierung legt die Berechnungsgrundlagen zur Bestimmung des für die Rückerstattung massgebenden Einkommens fest. Sie orientiert sich dabei an den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS).
+
+<sup>3</sup> Die Rückerstattungspflicht beginnt ein Jahr nach Ende der Unterstützung und dauert vier Jahre.
+
+#### Art. 11b
+
+**3. Rückerstattung bei Vermögensanfall**
+
+<sup>1</sup> Verbessern sich die Vermögensverhältnisse der unterstützten Person aufgrund eines Vermögensanfalls, so ist sie in diesem Umfang unter Berücksichtigung von Freibeträgen rückerstattungspflichtig.
+
+<sup>2</sup> Die Regierung legt die Freibeträge fest. Dabei orientiert sie sich an den Richtlinien der SKOS.
+
+<sup>3</sup> Verfügt die rückerstattungspflichtige Person über anderweitiges Vermögen, so reduziert sich der Freibetrag um dieses Vermögen.
+
+#### Art. 11c
+
+**4. Ausnahmen**
+
+<sup>1</sup> Nicht der Rückerstattungspflicht unterliegen Unterstützungsleistungen, welche:
+
+- a) einer Person bis zum 25. Geburtstag während der Absolvierung einer Erstausbildung ausgerichtet wurden;
+- b) im Zusammenhang mit der beruflichen und sozialen Integration stehen;
+- c) aus Gründen einer Behinderung ergänzend zur Gesundheitsversorgung der materiellen Grundsicherung ausgerichtet wurden;
+- d) Prämien für die obligatorische Krankenversicherung betreffen, die nicht vollumfänglich über die individuelle Prämienverbilligung gedeckt wurden.
+
+<sup>2</sup> Die Regierung kann weitere Ausnahmen vorsehen. Sie orientiert sich dabei an den Richtlinien der SKOS.
 
 #### Art. 12
 
