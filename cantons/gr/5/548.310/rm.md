@@ -5,11 +5,12 @@ title: "Ordinaziun davart la promoziun da la tgira d'uffants cumplementara a la 
 short: OTGU
 language: rm
 version: 2025-08-01
+corrected: 2026-10-05
 version_adopted: 2025-04-22
 adopted: 2025-04-22
 in_force: 2025-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/548.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3846/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -51,7 +52,7 @@ relaschada da la Regenza ils 22 d'avrigl 2025
 
 **Uffizi**
 
-<sup>1</sup> L'Uffizi da fatgs socials (uffizi) è l'autoritad d'execuziun chantunala generala. El è en spezial cumpetent per:
+<sup>1</sup> L'Uffizi dal servetsch social (uffizi) è l'autoritad d'execuziun chantunala generala. El è en spezial cumpetent per:
 
 - a) la concessiun, il pajament e la dumonda da restituir reducziuns dals custs;
 - b) la concessiun, la revocaziun e la privaziun da permissiuns per purschidas da la tgira d'uffants cumplementara a la famiglia;

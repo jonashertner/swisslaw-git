@@ -5,11 +5,12 @@ title: "Ordinanza sulla promozione dell'assistenza ai bambini complementare alla
 short: OASBA
 language: it
 version: 2025-08-01
+corrected: 2026-10-05
 version_adopted: 2025-04-22
 adopted: 2025-04-22
 in_force: 2025-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/548.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3846/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3551/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -51,7 +52,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Ufficio**
 
-<sup>1</sup> L'Ufficio degli affari sociali (Ufficio) è l'autorità esecutiva cantonale generale. Esso è competente in particolare per:
+<sup>1</sup> L'Ufficio del servizio sociale (Ufficio) è l'autorità esecutiva cantonale generale. Esso è competente in particolare per:
 
 - a) la concessione, il versamento e la richiesta di rimborso di riduzioni;
 - b) il rilascio, la revoca e il ritiro di autorizzazioni per offerte di assistenza ai bambini complementare alla famiglia;

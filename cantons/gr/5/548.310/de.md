@@ -5,11 +5,12 @@ title: Verordnung über die Förderung der familienergänzenden Kinderbetreuung 
 short: KIBEV
 language: de
 version: 2025-08-01
+corrected: 2026-10-05
 version_adopted: 2025-04-22
 adopted: 2025-04-22
 in_force: 2025-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3846/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -51,7 +52,7 @@ von der Regierung erlassen am 22. April 2025
 
 **Amt**
 
-<sup>1</sup> Das Amt für Soziales (Amt) ist generelle kantonale Vollzugsbehörde. Es ist insbesondere zuständig für:
+<sup>1</sup> Das Sozialamt (Amt) ist generelle kantonale Vollzugsbehörde. Es ist insbesondere zuständig für:
 
 - a) die Gewährung, Ausrichtung und Rückforderung von Vergünstigungen;
 - b) die Erteilung, den Widerruf und den Entzug von Bewilligungen für Angebote der familienergänzenden Kinderbetreuung;
