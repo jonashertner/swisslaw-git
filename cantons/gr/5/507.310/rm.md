@@ -4,13 +4,13 @@ number: "507.310"
 title: "Ordinaziun davart las taxas en il sectur da las victualias, da las chemicalias e da l'equiliber ecologic"
 short: OTVC
 language: rm
-version: 2014-01-01
-corrected: 2016-11-18
-version_adopted: 2013-11-19
+version: 2019-10-01
+corrected: 2026-10-05
+version_adopted: 2019-08-27
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/507.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2075/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2969/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2075/pdf_file"
 
 (OTVC)
 
-dals 16-12-2008 (versiun dals 01-01-2014)
+dals 16-12-2008 (versiun dals 01-10-2019)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -47,15 +47,7 @@ relaschada da la regenza ils 16 da december 2008
 
 #### Art. 3
 
-**Stabiliments da bogn**
-
-<sup>1</sup> Per las activitads per ed en stabiliments da bogn vegnan incassadas las suandantas taxas:
-
-- a) permissiun da gestiun: fr. 400.–
-- b) controlla (per manaschi): fr. 70.–
-- c) analisa (per bogn/per batschigl): fr. 200.–
-
-<sup>2</sup> En cas d'analisas tenor l'alinea 1 cifra 3 vegn concedida ina reducziun da 10 pertschient a partir da 5 batschigls dal medem manaschi.
+**…**
 
 #### Art. 4
 

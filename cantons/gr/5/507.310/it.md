@@ -4,13 +4,13 @@ number: "507.310"
 title: "Ordinanza sulle tasse nei settori delle derrate alimentari, dei prodotti chimici e dell'equilibrio ecologico"
 short: OTACEE
 language: it
-version: 2014-01-01
-corrected: 2016-11-18
-version_adopted: 2013-11-19
+version: 2019-10-01
+corrected: 2026-10-05
+version_adopted: 2019-08-27
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/507.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2075/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2969/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2075/pdf_file"
 
 (OTACEE)
 
-del 16.12.2008 (stato 01.01.2014)
+del 16.12.2008 (stato 01.10.2019)
 
 emanata dal Governo il 16 dicembre 2008
 
@@ -47,15 +47,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 #### Art. 3
 
-**Stabilimenti balneari**
-
-<sup>1</sup> Per le attività per e in stabilimenti balneari vengono riscosse le seguenti tasse:
-
-- a) Autorizzazione d'esercizio: fr. 400.–
-- b) Controllo (per esercizio): fr. 70.–
-- c) Analisi (per piscina/vasca): fr. 200.–
-
-<sup>2</sup> Per analisi conformemente al capoverso 1 numero 3 viene concessa una riduzione del 10 percento a partire da cinque vasche nello stesso esercizio.
+**…**
 
 #### Art. 4
 

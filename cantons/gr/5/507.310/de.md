@@ -4,13 +4,13 @@ number: "507.310"
 title: "Verordnung über die Gebühren in den Bereichen Lebensmittel, Chemikalien und ökologisches Gleichgewicht"
 short: GebVLC
 language: de
-version: 2014-01-01
-corrected: 2016-11-18
-version_adopted: 2013-11-19
+version: 2019-10-01
+corrected: 2026-10-05
+version_adopted: 2019-08-27
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/507.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2075/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2969/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2075/pdf_file"
 
 (GebVLC)
 
-Vom 16.12.2008 (Stand 01.01.2014)
+Vom 16.12.2008 (Stand 01.10.2019)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -47,15 +47,7 @@ von der Regierung erlassen am 16. Dezember 2008
 
 #### Art. 3
 
-**Badeanstalten**
-
-<sup>1</sup> Für die Tätigkeiten für und in Badeanstalten werden folgende Gebühren erhoben:
-
-- a) Betriebsbewilligung: Fr. 400.–
-- b) Kontrolle (pro Betrieb): Fr. 70.–
-- c) Analyse (pro Bad/Becken): Fr. 200.–
-
-<sup>2</sup> Bei Analysen gemäss Absatz 1 Ziffer 3 wird ab fünf Becken im gleichen Betrieb eine Ermässigung von zehn Prozent gewährt.
+**…**
 
 #### Art. 4
 
