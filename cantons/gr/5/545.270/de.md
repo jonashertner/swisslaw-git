@@ -5,11 +5,12 @@ title: Verordnung zum Einführungsgesetz zur Arbeitsvermittlung und Arbeitslosen
 short: VOzEGzAVG/AVIG
 language: de
 version: 2021-07-01
+corrected: 2026-10-05
 version_adopted: 2021-03-16
 adopted: 2009-06-30
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/545.270"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3839/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -32,7 +33,7 @@ von der Regierung erlassen am 30. Juni 2009
 
 **Amt**
 
-<sup>1</sup> Das Amt für Arbeit (AFA) ist zuständiges Amt im Sinne des Gesetzes.
+<sup>1</sup> Das Amt für Industrie, Gewerbe und Arbeit (KIGA) ist zuständiges Amt im Sinne des Gesetzes.
 
 #### Art. 2
 
@@ -40,7 +41,7 @@ von der Regierung erlassen am 30. Juni 2009
 
 <sup>1</sup> …
 
-<sup>2</sup> Das AFA führt sechs regionale Arbeitsvermittlungszentren (RAV), nämlich in Chur, Thusis, Ilanz, Roveredo, Davos und Samedan.
+<sup>2</sup> Das KIGA führt sechs regionale Arbeitsvermittlungszentren (RAV), nämlich in Chur, Thusis, Ilanz, Roveredo, Davos und Samedan.
 
 <sup>3</sup> Die Erstanmeldung zur Arbeitsvermittlung erfolgt beim RAV.
 
@@ -68,7 +69,7 @@ von der Regierung erlassen am 30. Juni 2009
 
 <sup>1</sup> …
 
-<sup>2</sup> Das AFA ist jederzeit berechtigt, private Arbeitsvermittlungs- und Personalverleihunternehmungen auf das Vorhandensein der Bewilligungsvoraussetzungen zu überprüfen.
+<sup>2</sup> Das KIGA ist jederzeit berechtigt, private Arbeitsvermittlungs- und Personalverleihunternehmungen auf das Vorhandensein der Bewilligungsvoraussetzungen zu überprüfen.
 
 #### Art. 8
 
@@ -78,7 +79,7 @@ von der Regierung erlassen am 30. Juni 2009
 
 **Meldepflicht der Arbeitgeber**
 
-<sup>1</sup> Die nach den Bundesvorschriften zu erstattenden Meldungen der Arbeitgeber über Entlassungen von Arbeitnehmern und Betriebsschliessungen sowie für die Arbeitsmarktstatistik sind beim AFA einzureichen.
+<sup>1</sup> Die nach den Bundesvorschriften zu erstattenden Meldungen der Arbeitgeber über Entlassungen von Arbeitnehmern und Betriebsschliessungen sowie für die Arbeitsmarktstatistik sind beim KIGA einzureichen.
 
 <sup>2</sup> Sofern die Voraussetzungen gemäss Bundesrecht erfüllt sind, kann die Regierung beim Bundesrat die Einführung der Stellenmeldepflicht auf dem Gebiet des Kantons beantragen.
 

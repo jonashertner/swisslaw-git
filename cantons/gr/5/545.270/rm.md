@@ -5,11 +5,12 @@ title: "Ordinaziun tar la lescha introductiva tar l'intermediaziun da lavur e ta
 short: OtLItLIL/LADI
 language: rm
 version: 2021-07-01
+corrected: 2026-10-05
 version_adopted: 2021-03-16
 adopted: 2009-06-30
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/545.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3839/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -32,7 +33,7 @@ relaschada da la regenza ils 30 da zercladur 2009
 
 **Uffizi**
 
-<sup>1</sup> L'Uffizi da lavur (ULAV) è l'uffizi cumpetent en il senn da la lescha.
+<sup>1</sup> L'Uffizi per industria, mastergn e lavur (UCIML) è l'uffizi cumpetent en il senn da la lescha.
 
 #### Art. 2
 
@@ -40,7 +41,7 @@ relaschada da la regenza ils 30 da zercladur 2009
 
 <sup>1</sup> …
 
-<sup>2</sup> Il ULAV maina sis centers regiunals per intermediaziun da lavur (CIL), numnadamain a Cuira, a Tusaun, a Glion, a Roveredo, a Tavau ed a Samedan.
+<sup>2</sup> Il UCIML maina sis centers regiunals per intermediaziun da lavur (CIL), numnadamain a Cuira, a Tusaun, a Glion, a Roveredo, a Tavau ed a Samedan.
 
 <sup>3</sup> L'emprima annunzia per l'intermediaziun da lavur vegn fatga tar il CIL.
 
@@ -68,7 +69,7 @@ relaschada da la regenza ils 30 da zercladur 2009
 
 <sup>1</sup> …
 
-<sup>2</sup> Il ULAV ha da tut temp il dretg da controllar, sche las premissas per conceder ina permissiun èn avant maun tar las interpresas privatas d'intermediaziun da lavur e d'emprest da persunal.
+<sup>2</sup> Il UCIML ha da tut temp il dretg da controllar, sche las premissas per conceder ina permissiun èn avant maun tar las interpresas privatas d'intermediaziun da lavur e d'emprest da persunal.
 
 #### Art. 8
 
@@ -78,7 +79,7 @@ relaschada da la regenza ils 30 da zercladur 2009
 
 **Obligaziun d'annunzia da las patrunas e dals patruns**
 
-<sup>1</sup> Las annunzias da las patrunas e dals patruns davart relaschadas da lavurantas e da lavurants e davart serradas da manaschis sco er per la statistica dal martgà da lavur, che ston vegnir fatgas tenor las prescripziuns federalas, ston vegnir inoltradas al ULAV.
+<sup>1</sup> Las annunzias da las patrunas e dals patruns davart relaschadas da lavurantas e da lavurants e davart serradas da manaschis sco er per la statistica dal martgà da lavur, che ston vegnir fatgas tenor las prescripziuns federalas, ston vegnir inoltradas al UCIML.
 
 <sup>2</sup> Sche las premissas tenor il dretg federal èn ademplidas, po la Regenza dumandar il Cussegl federal d'introducir l'obligaziun d'annunziar plazzas libras sin il territori dal chantun.
 

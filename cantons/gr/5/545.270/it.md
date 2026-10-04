@@ -5,11 +5,12 @@ title: "Ordinanza della legge d'applicazione sul collocamento e sull'assicurazio
 short: OLAdLC/LADI
 language: it
 version: 2021-07-01
+corrected: 2026-10-05
 version_adopted: 2021-03-16
 adopted: 2009-06-30
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/545.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3839/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3164/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -32,7 +33,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Ufficio**
 
-<sup>1</sup> L'Ufficio del lavoro (ULAV) è l'ufficio competente ai sensi della legge.
+<sup>1</sup> L'Ufficio cantonale per l'industria, arti e mestieri e lavoro (UCIAML) è l'ufficio competente ai sensi della legge.
 
 #### Art. 2
 
@@ -40,7 +41,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> …
 
-<sup>2</sup> L'ULAV gestisce sei uffici regionali di collocamento (URC), segnatamente a Coira, Thusis, Ilanz, Roveredo, Davos e Samedan.
+<sup>2</sup> L'UCIAML gestisce sei uffici regionali di collocamento (URC), segnatamente a Coira, Thusis, Ilanz, Roveredo, Davos e Samedan.
 
 <sup>3</sup> Il primo annuncio per il collocamento avviene presso l'URC.
 
@@ -68,7 +69,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> …
 
-<sup>2</sup> L'ULAV è autorizzato in ogni momento a verificare l'esistenza dei presupposti per il rilascio dell'autorizzazione presso le imprese private di collocamento e personale a prestito.
+<sup>2</sup> L'UCIAML è autorizzato in ogni momento a verificare l'esistenza dei presupposti per il rilascio dell'autorizzazione presso le imprese private di collocamento e personale a prestito.
 
 #### Art. 8
 
@@ -78,7 +79,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Obbligo di notifica dei datori di lavoro**
 
-<sup>1</sup> Le notifiche dei datori di lavoro da effettuarsi secondo le prescrizioni federali relative a licenziamenti di lavoratori e a chiusure di aziende, nonché alla statistica del mercato del lavoro devono essere inoltrate all'ULAV.
+<sup>1</sup> Le notifiche dei datori di lavoro da effettuarsi secondo le prescrizioni federali relative a licenziamenti di lavoratori e a chiusure di aziende, nonché alla statistica del mercato del lavoro devono essere inoltrate all'UCIAML.
 
 <sup>2</sup> Se i presupposti conformemente al diritto federale sono soddisfatti, il Governo può chiedere al Consiglio federale l'introduzione dell'obbligo di notificare i posti vacanti sul territorio del Cantone.
 
