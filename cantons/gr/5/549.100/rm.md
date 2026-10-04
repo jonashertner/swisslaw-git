@@ -5,11 +5,12 @@ title: "Ordinaziun executiva tar la lescha federala davart l'agid a victimas da 
 short: OECGtLAV
 language: rm
 version: 2025-01-01
+corrected: 2026-10-05
 version_adopted: 2023-04-04
 adopted: 1993-10-01
 in_force: 1993-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/549.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3847/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -31,7 +32,7 @@ relaschada dal cussegl grond il 1. d'october 1993[^ingress-2]
 
 **Post da cussegliaziun**
 
-<sup>1</sup> Il post da cussegliaziun en il senn da la legislaziun federala davart l'agid a victimas da delicts è il post da cussegliaziun per l'agid a victimas da l'Uffizi da fatgs socials. En cas da basegn po la Regenza renconuscher ulteriuras instituziuns sco posts da cussegliaziun.
+<sup>1</sup> Il post da cussegliaziun en il senn da la legislaziun federala davart l'agid a victimas da delicts è il post da cussegliaziun per l'agid a victimas da l'uffizi chantunal dal servetsch social. En cas da basegn po la regenza renconuscher ulteriuras instituziuns sco posts da cussegliaziun.
 
 <sup>2</sup> Sche quai è necessari è il post da cussegliaziun autorisà da consultar autras instituziuns u persunas.
 
@@ -43,7 +44,7 @@ relaschada dal cussegl grond il 1. d'october 1993[^ingress-2]
 
 **Indemnisaziun e bunificaziun, cumpetenza**
 
-<sup>1</sup> Sin dumonda da la victima d'in delict vegnan ils dretgs d'indemnisaziun e da bunificaziun giuditgads e pajads da l'Uffizi da fatgs socials (uffizi).
+<sup>1</sup> Sin dumonda da la victima d'in delict vegnan ils dretgs d'indemnisaziun e da bunificaziun giuditgads e pajads da l'uffizi chantunal dal servetsch social (uffizi).
 
 <sup>2</sup> L'uffizi decida er, sch'i sto vegnir concedì in pajament anticipà.
 

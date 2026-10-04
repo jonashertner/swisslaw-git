@@ -5,11 +5,12 @@ title: Vollziehungsverordnung zum Bundesgesetz über die Hilfe an Opfer von Stra
 short: VVzOHG
 language: de
 version: 2025-01-01
+corrected: 2026-10-05
 version_adopted: 2023-04-04
 adopted: 1993-10-01
 in_force: 1993-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/549.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3847/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -31,7 +32,7 @@ vom Grossen Rat erlassen am 1. Oktober 1993[^ingress-2]
 
 **Beratungsstelle**
 
-<sup>1</sup> Beratungsstelle im Sinne der Bundesgesetzgebung über die Hilfe an Opfer von Straftaten ist die Opferhilfe-Beratungsstelle des Amts für Soziales. Die Regierung kann bei Bedarf weitere Institutionen als Beratungsstellen anerkennen.
+<sup>1</sup> Beratungsstelle im Sinne der Bundesgesetzgebung über die Hilfe an Opfer von Straftaten ist die Opferhilfe-Beratungsstelle des kantonalen Sozialamtes. Die Regierung kann bei Bedarf weitere Institutionen als Beratungsstellen anerkennen.
 
 <sup>2</sup> Sofern erforderlich, ist die Beratungsstelle ermächtigt, andere Institutionen oder Personen beizuziehen.
 
@@ -43,7 +44,7 @@ vom Grossen Rat erlassen am 1. Oktober 1993[^ingress-2]
 
 **Entschädigung und Genugtuung, Zuständigkeit**
 
-<sup>1</sup> Entschädigungs- und Genugtuungsansprüche werden auf Gesuch des Opfers einer Straftat vom Amt für Soziales (Amt) beurteilt und ausgerichtet.
+<sup>1</sup> Entschädigungs- und Genugtuungsansprüche werden auf Gesuch des Opfers einer Straftat vom kantonalen Sozialamt (Amt) beurteilt und ausgerichtet.
 
 <sup>2</sup> Das Amt entscheidet auch, ob ein Vorschuss zu gewähren ist.
 

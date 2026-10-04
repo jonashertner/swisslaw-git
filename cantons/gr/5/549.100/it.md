@@ -5,11 +5,12 @@ title: "Ordinanza d'esecuzione della legge federale concernente l'aiuto alle vit
 short: OE della LAV
 language: it
 version: 2025-01-01
+corrected: 2026-10-05
 version_adopted: 2023-04-04
 adopted: 1993-10-01
 in_force: 1993-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/549.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3847/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3453/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -31,7 +32,7 @@ in base all'art. 15 cpv. 3 della costituzione cantonale[^ingress-2]
 
 **Consultori**
 
-<sup>1</sup> È considerato consultorio ai sensi della legge federale concernente l'aiuto alle vittime di reati l'ufficio di consulenza per l'aiuto alle vittime dell'Ufficio degli affari sociali. In caso di necessità il Governo può riconoscere quali consultori altre istituzioni.
+<sup>1</sup> È considerato consultorio ai sensi della legge federale concernente l'aiuto alle vittime di reati l'ufficio di consulenza per l'aiuto alle vittime dell'Ufficio cantonale del servizio sociale. In caso di necessità il Governo può riconoscere quali consultori altre istituzioni.
 
 <sup>2</sup> Se necessario, il consultorio è autorizzato a ricorrere all'aiuto di altre istituzioni o persone.
 
@@ -43,7 +44,7 @@ in base all'art. 15 cpv. 3 della costituzione cantonale[^ingress-2]
 
 **Indennizzo e riparazione morale, competenza**
 
-<sup>1</sup> I diritti d'indennizzo e di riparazione morale vengono giudicati e gli importi versati dall'Ufficio degli affari sociali (Ufficio) su domanda della vittima di un reato.
+<sup>1</sup> I diritti d'indennizzo e di riparazione morale vengono giudicati e gli importi versati dall'Ufficio cantonale del servizio sociale (Ufficio) su domanda della vittima di un reato.
 
 <sup>2</sup> L'Ufficio decide pure se debba essere concesso un acconto.
 
