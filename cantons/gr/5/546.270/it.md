@@ -5,11 +5,12 @@ title: "Disposizioni esecutive della legge cantonale sull'assistenza *"
 short: DELCAss
 language: it
 version: 2026-02-01
+corrected: 2026-10-05
 version_adopted: 2026-01-19
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3844/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3625/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -244,7 +245,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 **Verifica periodica**
 
-<sup>1</sup> L'Ufficio degli affari sociali verifica periodicamente il grado di copertura dei costi garantito dai contributi versati ai comuni nonché i compiti sovraordinati e i relativi costi.
+<sup>1</sup> L'Ufficio cantonale del servizio sociale verifica periodicamente il grado di copertura dei costi garantito dai contributi versati ai comuni nonché i compiti sovraordinati e i relativi costi.
 
 ## 3. Obbligo di restituzione
 

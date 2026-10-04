@@ -5,11 +5,12 @@ title: "Disposiziuns executivas tar la lescha chantunala da sustegn *"
 short: DEtLS
 language: rm
 version: 2026-02-01
+corrected: 2026-10-05
 version_adopted: 2026-01-19
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3844/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3625/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -244,7 +245,7 @@ relaschadas da la regenza ils 8 da november 2005
 
 **Controlla periodica**
 
-<sup>1</sup> L'Uffizi da fatgs socials controlla periodicamain il grad da la cuvrida dals custs da las contribuziuns pajadas a las vischnancas sco er las incumbensas surordinadas ed ils custs da talas.
+<sup>1</sup> L'uffizi chantunal dal servetsch social controlla periodicamain il grad da la cuvrida dals custs da las contribuziuns pajadas a las vischnancas sco er las incumbensas surordinadas ed ils custs da talas.
 
 ## 3. Obligaziun da restituziun
 
