@@ -1,28 +1,31 @@
 ---
 canton: GR
 number: "546.100"
-title: "Lescha davart l'agid social public en il chantun Grischun (lescha davart l'agid social)"
+title: "Lescha davart l'agid social public en il chantun Grischun"
 short: "lescha davart l'agid social"
 language: rm
-version: 2013-01-01
-corrected: 2014-10-09
-version_adopted: 2011-12-07
+version: 2016-01-01
+corrected: 2026-10-05
+version_adopted: 2014-11-18
 adopted: 1986-12-07
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1678/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2538/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart l'agid social public en il chantun Grischun (lescha davart l'agid social)
+# Lescha davart l'agid social public en il chantun Grischun
 
-acceptada dal pievel ils 7 da december 1986[^t-1]
+(lescha davart l'agid social)
 
-I. En general
+dals 07-12-1986 (versiun dals 01-01-2016)
 
-[^t-1]: M dals 21 d'october 1985, 555; PCG 1986/87, 235
+acceptada dal pievel ils 7 da december 1986[^ingress-1]
+
+[^ingress-1]: M dals 21 d'october 1985, 555; PCG 1986/87, 235
+
+## 1. En general
 
 #### Art. 1
 
@@ -50,9 +53,9 @@ I. En general
 
 <sup>2</sup> Persunas basegnusas survegnan lur agid da sustegn a norma da la lescha davart il sustegn da persunas basegnusas[^3-1].
 
-[^3-1]: DG 546.250 1-1-2013 1
+[^3-1]: DG [546.250](https://www.gr-lex.gr.ch/data/546.250/rm)
 
-### II. Organisaziun
+## 2. Organisaziun
 
 #### Art. 4
 
@@ -62,13 +65,15 @@ I. En general
 
 <sup>2</sup> L'agid social material è chaussa da las vischnancas. Il chantun sa participescha vi da quel tenor la lescha da sustegn[^4-1].
 
-[^4-1]: DG 546.250 2 1-1-2013
+[^4-1]: DG [546.250](https://www.gr-lex.gr.ch/data/546.250/rm)
 
 #### Art. 5
 
 **Purtaders da l'agid social**
 
-L'agid social vegn prestà dals servetschs socials privats e communals ed – en cas che nagins servetschs socials communalas n'èn activs – dals servetschs socials chantunals. Ademplind lur incumbensas collavuran ils differents servetschs.
+<sup>1</sup> L'agid social vegn prestà dals servetschs socials privats e communals ed – en cas che nagins servetschs socials communals n'èn activs – dals servetschs socials chantunals. Ademplind lur incumbensas collavuran ils differents servetschs.
+
+<sup>2</sup> Ils servetschs socials adempleschan lur incumbensas cun persunal spezialisà scolà.
 
 #### Art. 6
 
@@ -80,35 +85,24 @@ L'agid social vegn prestà dals servetschs socials privats e communals ed – en
 
 #### Art. 7
 
-**Contribuziuns chantunalas**
+**Custs dals servetschs socials chantunals**
 
-<sup>1</sup> Il chantun paja mintga onn contribuziuns als servetschs socials communals, sche:
+<sup>1</sup> Ils custs annuals dals servetschs socials chantunals vegnan repartids sin las vischnancas dal servetsch mintgamai pertutgà en relaziun cun il dumber d'abitantas e d'abitants. Ils custs per la direcziun e per ils posts spezialisads da l'uffizi chantunal dal servetsch social surpiglia il chantun.
 
-- a) l'intschess che tutga ensemen cumpiglia per regla almain 7500 abitantas ed abitants; e
+- a) …
+- b) …
 
-- b) ils servetschs socials communals adempleschan tut las incumbensas da l'agid social public tras lavureras socialas e tras lavurers socials scolads.
-
-<sup>2</sup> La contribuziun chantunala importa per persuna da la populaziun cumpigliada tant sco la media da las expensas chantunalas per tut ils servetschs socials regiunals, arundà giu sin il proxim franc entir, maximalmain dentant fin che las expensas communalas èn cuvridas.
+<sup>2</sup> Per ses servetschs socials maina il chantun ina contabilitad transparenta e chapaivla dals custs e da las prestaziuns. La basa per scuntrar ils custs cun las vischnancas èn ils custs da l'onn precedent.
 
 #### Art. 8
 
 **Agid social privat**
 
-Il chantun po pajar contribuziuns a l'agid social d'organisaziuns privatas u conceder auters sustegns per quai.
+<sup>1</sup> Il chantun po pajar contribuziuns a l'agid social d'organisaziuns privatas u conceder auters sustegns per quai.
 
 #### Art. 9
 
-**Servetsch social chantunal**
-
-Il servetsch social chantunal è dividì en:
-
-- a) l'uffizi chantunal dal servetsch social;
-
-- b) ils servetschs socials regiunals;
-
-- c) ...[^9-1]
-
-[^9-1]: abolì tenor l'art. 25 cifra 2 LORA, DG 170.300; entrà en vigur il 1. da schaner 2007
+**…**
 
 #### Art. 10
 
@@ -119,45 +113,33 @@ Il servetsch social chantunal è dividì en:
 <sup>2</sup> En spezial ademplescha el las incumbensas en il sectur:
 
 - a) dal post chantunal per sustegns;
-
 - b) dal post da coordinaziun per mesiras d'agid a persunas attempadas;
-
 - c) dals uffants da tgira;
-
 - d) da la controlla da chasas d'uffants;
-
 - e) da la cussegliaziun e da l'accumpagnament professiunal da las lavureras socialas e dals lavurers socials;
-
 - f) da la scolaziun, dal perfecziunament e da la scolaziun supplementara dal persunal dals servetschs socials;
-
-- g) ...[^10-1]
-
+- g) …
 - h) da l'organisaziun d'incumbensas d'assistenza extraordinarias.
-
-[^10-1]: abolì tenor l'art. 25 cifra 2 LORA, DG 170.300; entrà en vigur il 1. da schaner 2007
 
 #### Art. 11
 
-**Servetschs socials regiunals**
+**Servetschs socials chantunals**
 
-<sup>1</sup> Resguardond il dumber d'abitantas e d'abitants, la cuntanschibladad e relaziuns spezialas organisescha la regenza ils servetschs socials regiunals sche pussaivel tenor valladas. Els vegnan – sche pussaivel – concepids sco servetschs socials polivalents ed unids en localitads da biro cuminaivlas.
+<sup>1</sup> Resguardond il dumber d'abitantas e d'abitants, la cuntanschibladad e relaziuns spezialas organisescha la regenza ils servetschs socials chantunals sche pussaivel tenor valladas. Els vegnan – sche pussaivel – concepids sco servetschs socials polivalents ed unids en localitads da biro cuminaivlas.
 
-<sup>2</sup>[^11-1]Ils servetschs socials regiunals collavuran cun las autoritads per la protecziun d'uffants e da creschids e cun las curatellas professiunalas.
-
-[^11-1]: versiun tenor l'art. 163 al. 1 da la lescha introductiva tar il cudesch civil svizzer, DG 210.100; entrà en vigur il 1. da schaner 2013 1-1-2013 3
-[^11-2]: abolì tenor l'art. 25 cifra 2 LORA, DG 170.300; entrà en vigur il 1. da schaner 2007
+<sup>2</sup> Ils servetschs socials chantunals collavuran cun las autoritads per la protecziun d'uffants e da creschids e cun las curatellas professiunalas.
 
 #### Art. 12
 
-[^11-2]
+**…**
 
-### III. Disposiziuns cumplementaras
+## 3. Disposiziuns cumplementaras
 
 #### Art. 13
 
 **Obligaziun dal secret professiunal**
 
-Las persunas ch'èn activas en ils servetschs socials publics èn obligadas a la discreziun.
+<sup>1</sup> Las persunas ch'èn activas en ils servetschs socials publics èn obligadas a la discreziun.
 
 #### Art. 14
 
@@ -167,15 +149,15 @@ Las persunas ch'èn activas en ils servetschs socials publics èn obligadas a la
 
 <sup>2</sup> Las autoritads, las dretgiras e las instituziuns vegnan orientadas en il rom da las disposiziuns legalas respectivas per regla tras la consegna dals rapports correspundents.
 
-### IV. Disposiziuns finalas
+## 4. Disposiziuns finalas
 
 #### Art. 15
 
 **Execuziun**
 
-La regenza relascha las disposiziuns executivas[^15-1] necessarias.
+<sup>1</sup> La regenza relascha las disposiziuns executivas[^15-1] necessarias.
 
-[^15-1]: DG 546.210
+[^15-1]: DG [546.210](https://www.gr-lex.gr.ch/data/546.210/rm)
 
 #### Art. 16
 
@@ -186,4 +168,6 @@ La regenza relascha las disposiziuns executivas[^15-1] necessarias.
 <sup>2</sup> Per quest termin vegnan abolids tut ils relaschs che stattan en cuntradicziun cun ella, spezialmain la lescha da provediment dals 11 d'avrigl 1920[^16-2].
 
 [^16-1]: messa en vigur cun CR dals 15 da december 1986 per il 1. da schaner 1987
-[^16-2]: vDG 1415; CUL 1971, 111 4 1-1-2013
+[^16-2]: vDG 1415; CUL 1971, 111
+
+-

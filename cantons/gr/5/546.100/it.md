@@ -1,28 +1,31 @@
 ---
 canton: GR
 number: "546.100"
-title: "Legge sull'assistenza sociale pubblica nel Cantone dei Grigioni (Legge sull'assistenza sociale)"
+title: "Legge sull'assistenza sociale pubblica nel Cantone dei Grigioni"
 short: "Legge sull'assistenza sociale"
 language: it
-version: 2013-01-01
-corrected: 2014-10-09
-version_adopted: 2011-12-07
+version: 2016-01-01
+corrected: 2026-10-05
+version_adopted: 2014-11-18
 adopted: 1986-12-07
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1678/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2538/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sull'assistenza sociale pubblica nel Cantone dei Grigioni (Legge sull'assistenza sociale)
+# Legge sull'assistenza sociale pubblica nel Cantone dei Grigioni
 
-accettata dal Popolo il 7 dicembre 1986[^t-1]
+(Legge sull'assistenza sociale)
 
-I. Generalità
+del 07.12.1986 (stato 01.01.2016)
 
-[^t-1]: M 21 ott. 1985, 555; PGC 1986/87, 235 1.1.2013 1
+accettata dal Popolo il 7 dicembre 1986[^ingress-1]
+
+[^ingress-1]: M 21 ott. 1985, 555; PGC 1986/87, 235
+
+## 1. Generalità
 
 #### Art. 1
 
@@ -50,7 +53,7 @@ I. Generalità
 
 <sup>2</sup> Le persone nel bisogno vengono assistite in base alla legge sull'assistenza alle persone nel bisogno.
 
-### II. Organizzazione
+## 2. Organizzazione
 
 #### Art. 4
 
@@ -60,13 +63,15 @@ I. Generalità
 
 <sup>2</sup> L'assistenza sociale materiale è compito dei comuni. Il Cantone vi partecipa giusta la legge cantonale sull'assistenza alle persone nel bisogno.[^4-1]
 
-[^4-1]: CSC 546.250 2 1.1.2013
+[^4-1]: CSC [546.250](https://www.gr-lex.gr.ch/data/546.250/it)
 
 #### Art. 5
 
 **Organizzatori dell'assistenza sociale**
 
-L'assistenza sociale viene prestata dai servizi sociali privati, da quelli comunali oppure in mancanza di quest'ultimi da quelli del Cantone. I diversi servizi collaborano nell'adempimento dei loro compiti.
+<sup>1</sup> L'assistenza sociale viene prestata dai servizi sociali privati, da quelli comunali oppure, in mancanza di quest'ultimi, da quelli del Cantone. I diversi servizi collaborano nell'adempimento dei loro compiti.
+
+<sup>2</sup> I servizi sociali adempiono i loro compiti con personale specializzato.
 
 #### Art. 6
 
@@ -78,35 +83,24 @@ L'assistenza sociale viene prestata dai servizi sociali privati, da quelli comun
 
 #### Art. 7
 
-**Sussidi cantonali**
+**Costi dei servizi sociali cantonali**
 
-<sup>1</sup> Il Cantone versa dei sussidi annui ai servizi sociali comunali, se:
+<sup>1</sup> I costi annui dei servizi sociali cantonali vengono ripartiti tra i comuni del rispettivo servizio in rapporto al numero di abitanti. I costi per la direzione e per i servizi specializzati dell'Ufficio cantonale del servizio sociale sono a carico del Cantone.
 
-- a) il comprensorio contiguo di regola comprende almeno 7 500 abitanti e
+- a) …
+- b) …
 
-- b) i servizi sociali propri dei comuni fanno svolgere tutti i compiti dell'assistenza sociale pubblica da assistenti sociali diplomati.
-
-<sup>2</sup> Il sussidio cantonale pro capite della popolazione residente nel comprensorio corrisponde alla media delle spese sostenute dal Cantone per tutti i servizi sociali regionali, arrotondata per difetto al prossimo franco intero, al massimo comunque fino alla copertura della spesa del comune.
+<sup>2</sup> Il Cantone allestisce per i suoi servizi sociali un calcolo dei costi e delle prestazioni trasparente e comprensibile. La base per la fatturazione dei costi ai comuni è costituita dai costi dell'anno precedente.
 
 #### Art. 8
 
 **Assistenza sociale privata**
 
-Il Cantone può accordare dei sussidi all'assistenza sociale di organizzazioni private oppure fornire altri aiuti a tal fine.
+<sup>1</sup> Il Cantone può accordare dei sussidi all'assistenza sociale di organizzazioni private oppure fornire altri aiuti a tal fine.
 
 #### Art. 9
 
-**Servizio sociale cantonale**
-
-Il servizio sociale cantonale si compone:
-
-- a) dell'Ufficio cantonale del servizio sociale;
-
-- b) dei servizi sociali regionali;
-
-- c) ...[^9-1]
-
-[^9-1]: ° gennaio 2007 1.1.2013 3
+**…**
 
 #### Art. 10
 
@@ -117,45 +111,33 @@ Il servizio sociale cantonale si compone:
 <sup>2</sup> Esso adempie segnatamente i compiti nei seguenti settori:
 
 - a) del Servizio cantonale di assistenza;
-
 - b) del Servizio per il coordinamento delle misure di assistenza agli anziani;
-
 - c) degli affiliati;
-
 - d) del controllo degli asili infantili;
-
 - e) della consulenza, anche tecnica-specifica, degli assistenti sociali;
-
 - f) della formazione, dell'aggiornamento e del perfezionamento professionale del personale dei servizi sociali;
-
-- g) ...[^10-1]
-
+- g) …
 - h) dell'organizzazione di compiti assistenziali straordinari.
-
-[^10-1]: Abrogazione giusta art. 25 n. 2 LCOGA, CSC 170.300; entrata in vigore il
 
 #### Art. 11
 
-**Servizi sociali regionali**
+**Servizi sociali cantonali**
 
-<sup>1</sup> I servizi sociali regionali vengono organizzati dal Governo per quanto possibile per valle, tenendo conto del numero degli abitanti, della raggiungibilità e delle condizioni particolari. Se la situazione lo consente, essi vengono strutturati sotto forma di servizi sociali polivalenti e raggruppati in locali d'ufficio in comune.
+<sup>1</sup> I servizi sociali cantonali vengono organizzati dal Governo per quanto possibile per valle, tenendo conto del numero degli abitanti, della raggiungibilità e delle condizioni particolari. Se la situazione lo consente, essi vengono strutturati sotto forma di servizi sociali polivalenti e raggruppati in locali d'ufficio in comune.
 
-<sup>2</sup>[^11-1]I servizi sociali regionali collaborano con le autorità di protezione dei minori e degli adulti e gli uffici dei curatori professionali.
-
-[^11-1]: Testo giusta art. 163 cpv. 1 della legge d'introduzione al Codice civile svizzero, CSC 210.100; entrato in vigore il 1° gennaio 2013
-[^11-2]: Abrogazione giusta art. 25 n. 2 LCOGA, CSC 170.300; entrata in vigore il
+<sup>2</sup> I servizi sociali cantonali collaborano con le autorità di protezione dei minori e degli adulti e gli uffici dei curatori professionali.
 
 #### Art. 12
 
-[^11-2]
+**…**
 
-### III. Disposizioni complementari
+## 3. Disposizioni complementari
 
 #### Art. 13
 
 **Obbligo di mantenere il segreto**
 
-Le persone operanti nei servizi sociali pubblici sono tenute a mantenere il segreto.
+<sup>1</sup> Le persone operanti nei servizi sociali pubblici sono tenute a mantenere il segreto.
 
 #### Art. 14
 
@@ -165,15 +147,15 @@ Le persone operanti nei servizi sociali pubblici sono tenute a mantenere il segr
 
 <sup>2</sup> L'informazione delle autorità, dei tribunali e delle istituzioni avviene nell'ambito delle relative disposizioni legali, di regola presentando i rispettivi rapporti.
 
-### IV. Disposizioni finali
+## 4. Disposizioni finali
 
 #### Art. 15
 
 **Esecuzione**
 
-Il Governo emana le necessarie disposizioni di attuazione.[^15-1]
+<sup>1</sup> Il Governo emana le necessarie disposizioni di attuazione.[^15-1]
 
-[^15-1]: CSC 546.210
+[^15-1]: CSC [546.210](https://www.gr-lex.gr.ch/data/546.210/it)
 
 #### Art. 16
 
@@ -184,4 +166,6 @@ Il Governo emana le necessarie disposizioni di attuazione.[^15-1]
 <sup>2</sup> A tal data vengono abrogati tutti gli atti legislativi in contraddizione con essa, soprattutto la legge sui provvedimenti pro alcoolici dell'11 aprile 1920.[^16-2]
 
 [^16-1]: Dichiarata in vigore per il 1° gen. 1987 con DG 15 dic. 1986
-[^16-2]: PDG, 542; RC 1971, 111 4 1.1.2013
+[^16-2]: PDG, 542; RC 1971, 111
+
+-
