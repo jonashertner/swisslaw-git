@@ -3,11 +3,11 @@ sr: "0.311.544"
 title: "Protocollo addizionale del 31 maggio 2001 della Convenzione delle Nazioni Unite contro la criminalità organizzata transnazionale per prevenire, reprimere e punire la fabbricazione e il traffico illeciti di armi da fuoco, loro parti, elementi e munizioni"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/14"
 language: it
-version: 2025-01-17
+version: 2026-10-06
 adopted: 2001-05-31
 in_force: 2012-12-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20250117/it/xml/fedlex-data-admin-ch-eli-cc-2013-14-20250117-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20250117/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20261006/it/xml/fedlex-data-admin-ch-eli-cc-2013-14-20261006-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20261006/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a New York il 31 maggio 2001 Approvato dall’Assemblea federale il 23 dicembre 2011[^t-1] Strumento d’adesione depositato dalla Svizzera il 27 novembre 2012 Entrato in vigore per la Svizzera il 27 dicembre 2012
 
-(Stato 17 gennaio 2025)
+(Stato 6 ottobre 2026)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 23 dic. 2011 ([RU 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819)).
 
@@ -40,8 +40,8 @@ convinti del fatto che l’integrazione della Convenzione delle Nazioni Unite co
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
 
 ## I. Disposizioni generali
 
@@ -299,12 +299,13 @@ Per prevenire e combattere la fabbricazione e il traffico illeciti di armi da fu
 
 *In fede di ciò*, i sottoscritti plenipotenziari, all’uopo debitamente autorizzati dai rispettivi Governi, hanno sottoscritto il presente Protocollo. (Seguono le firme)
 
-Campo d’applicazione il 17 gennaio 2025[^t-2]
+Campo d’applicazione il 6 ottobre 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>8 febbraio</td><td>2008 A</td><td>9 marzo</td><td>2008</td></tr>
 <tr><td>Algeria<sup>\*</sup></td><td>25 agosto</td><td>2004 A</td><td>3 luglio</td><td>2005</td></tr>
+<tr><td>Andorra</td><td>22 settembre</td><td>2026 A</td><td>22 ottobre</td><td>2026</td></tr>
 <tr><td>Angola</td><td>19 settembre</td><td>2014 A</td><td>19 ottobre</td><td>2014</td></tr>
 <tr><td>Antigua e Barbuda</td><td>27 aprile</td><td>2010 A</td><td>27 maggio</td><td>2010</td></tr>
 <tr><td>Arabia Saudita<sup>\*</sup></td><td>11 marzo</td><td>2008 A</td><td>10 aprile</td><td>2008</td></tr>
@@ -328,9 +329,9 @@ Campo d’applicazione il 17 gennaio 2025[^t-2]
 <tr><td>Ceca, Repubblica</td><td>24 settembre</td><td>2013 A</td><td>24 ottobre</td><td>2013</td></tr>
 <tr><td>Centrafricana, Repubblica</td><td>6 ottobre</td><td>2006 A</td><td>5 novembre</td><td>2006</td></tr>
 <tr><td>Cile</td><td>17 giugno</td><td>2010 A</td><td>17 luglio</td><td>2010</td></tr>
-<tr><td>Cina\*</td><td>19 dicembre</td><td>2023</td><td>18 gennaio</td><td>2024</td></tr>
-<tr><td>Hong Kong\*</td><td>19 dicembre</td><td>2023</td><td>18 gennaio</td><td>2024</td></tr>
-<tr><td>Macao\*</td><td>19 dicembre</td><td>2023</td><td>18 gennaio</td><td>2024</td></tr>
+<tr><td>Cina<sup>\*</sup></td><td>19 dicembre</td><td>2023</td><td>18 gennaio</td><td>2024</td></tr>
+<tr><td>Hong Kong<sup>\*</sup></td><td>19 dicembre</td><td>2023</td><td>18 gennaio</td><td>2024</td></tr>
+<tr><td>Macao<sup>\*</sup></td><td>19 dicembre</td><td>2023</td><td>18 gennaio</td><td>2024</td></tr>
 <tr><td>Cipro</td><td>6 agosto</td><td>2003</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Comore</td><td>4 giugno</td><td>2021 A</td><td>4 luglio</td><td>2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 ottobre</td><td>2005 A</td><td>27 novembre</td><td>2005</td></tr>
@@ -401,19 +402,23 @@ Campo d’applicazione il 17 gennaio 2025[^t-2]
 <tr><td>Perù</td><td>23 settembre</td><td>2003 A</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Polonia</td><td>4 aprile</td><td>2005</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Portogallo</td><td>3 giugno</td><td>2011</td><td>3 luglio</td><td>2011</td></tr>
+<tr><td>Qatar<sup>\*</sup></td><td>6 marzo</td><td>2026 A</td><td>5 aprile</td><td>2026</td></tr>
 <tr><td>Romania</td><td>16 aprile</td><td>2004 A</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Ruanda</td><td>4 ottobre</td><td>2006 A</td><td>3 novembre</td><td>2006</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>21 maggio</td><td>2004 A</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>29 ottobre</td><td>2010 A</td><td>28 novembre</td><td>2010</td></tr>
+<tr><td>San Marino</td><td>15 maggio</td><td>2025 A</td><td>14 giugno</td><td>2025</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>12 aprile</td><td>2006 A</td><td>12 maggio</td><td>2006</td></tr>
 <tr><td>Senegal</td><td>7 aprile</td><td>2006</td><td>7 maggio</td><td>2006</td></tr>
 <tr><td>Serbia</td><td>20 dicembre</td><td>2005 A</td><td>19 gennaio</td><td>2006</td></tr>
 <tr><td>Sierra Leone</td><td>12 agosto</td><td>2014</td><td>11 settembre</td><td>2014</td></tr>
 <tr><td>Slovacchia</td><td>21 settembre</td><td>2004</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Slovenia</td><td>21 maggio</td><td>2004</td><td>3 luglio</td><td>2005</td></tr>
+<tr><td>Somalia<sup>\*</sup></td><td>25 marzo</td><td>2025 A</td><td>24 aprile</td><td>2025</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>9 febbraio</td><td>2007 A</td><td>11 marzo</td><td>2007</td></tr>
 <tr><td>Sudafrica<sup>\*</sup></td><td>20 febbraio</td><td>2004</td><td>3 luglio</td><td>2005</td></tr>
 <tr><td>Sudan</td><td>4 ottobre</td><td>2018 A</td><td>3 novembre</td><td>2018</td></tr>
+<tr><td>Sudan del Sud</td><td>9 aprile</td><td>2025 A</td><td>9 maggio</td><td>2025</td></tr>
 <tr><td>Svezia</td><td>28 giugno</td><td>2011</td><td>28 luglio</td><td>2011</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>27 novembre</td><td>2012 A</td><td>27 dicembre</td><td>2012</td></tr>
 <tr><td>Tanzania</td><td>24 maggio</td><td>2006 A</td><td>23 giugno</td><td>2006</td></tr>
@@ -429,11 +434,13 @@ Campo d’applicazione il 17 gennaio 2025[^t-2]
 <tr><td>Uruguay</td><td>3 aprile</td><td>2008 A</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>10 giugno</td><td>2013 A</td><td>10 luglio</td><td>2013</td></tr>
 <tr><td>Zambia</td><td>24 aprile</td><td>2005 A</td><td>3 luglio</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le dichiarazioni degli Stati partecipanti sulle autorità centrali secondo l’art. 13 para. 2 del Prot. addizionale non sono elencate nel presente campo d’applicazione. \*\* Obbiezioni. Le riserve, le dichiarazioni ed obbiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Prot. non si applica alla Groenlandia e alle Isole Faeröer. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296); [2025 53](https://fedlex.data.admin.ch/eli/oc/2025/53). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+<table>
+<tr><td><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obbiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](https://treaties.un.org)/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica alla Groenlandia e alle Isole Faeröer. <sup>b</sup> Per il Regno in Europa.</td></tr>
+</table>
+
+[^t-2]: [RU 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296); [2025 53](https://fedlex.data.admin.ch/eli/oc/2025/53); [2026 531](https://fedlex.data.admin.ch/eli/oc/2026/531). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

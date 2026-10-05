@@ -3,11 +3,11 @@ sr: "0.311.544"
 title: "Protocole additionnel du 31 mai 2001 à la Convention des Nations Unies contre la criminalité transnationale organisée, contre la fabrication et le trafic illicites d'armes à feu, de leurs pièces, éléments et munitions"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/14"
 language: fr
-version: 2025-01-17
+version: 2026-10-06
 adopted: 2001-05-31
 in_force: 2012-12-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20250117/fr/xml/fedlex-data-admin-ch-eli-cc-2013-14-20250117-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20250117/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20261006/fr/xml/fedlex-data-admin-ch-eli-cc-2013-14-20261006-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20261006/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 27 novembre 2012
 
 Entré en vigueur pour la Suisse le 27 décembre 2012
 
-(État le 17 janvier 2025)
+(État le 6 octobre 2026)
 
 [^t-1]: [RO 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819)
 
@@ -46,8 +46,8 @@ convaincus que le fait d’adjoindre à la Convention des Nations Unies contre l
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
 
 ## I. Dispositions générales
 
@@ -305,7 +305,7 @@ En vue de prévenir et de combattre la fabrication et le trafic illicites d’ar
 
 *En foi de quoi,* les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements respectifs, ont signé le présent Protocole. (Suivent les signatures)
 
-Champ d’application le 17 janvier 2025[^t-2]
+Champ d’application le 6 octobre 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -313,6 +313,7 @@ Champ d’application le 17 janvier 2025[^t-2]
 <tr><td>Albanie</td><td>8 février</td><td>2008 A</td><td>9 mars</td><td>2008</td></tr>
 <tr><td>Algérie\*</td><td>25 août</td><td>2004 A</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Allemagne</td><td>14 octobre</td><td>2021</td><td>13 novembre</td><td>2021</td></tr>
+<tr><td>Andorre</td><td>22 septembre</td><td>2026 A</td><td>22 octobre</td><td>2026</td></tr>
 <tr><td>Angola</td><td>19 septembre</td><td>2014 A</td><td>19 octobre</td><td>2014</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>27 avril</td><td>2010 A</td><td>27 mai</td><td>2010</td></tr>
 <tr><td>Arabie Saoudite\*</td><td>11 mars</td><td>2008 A</td><td>10 avril</td><td>2008</td></tr>
@@ -408,12 +409,14 @@ Champ d’application le 17 janvier 2025[^t-2]
 <tr><td>Pérou</td><td>23 septembre</td><td>2003 A</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Pologne</td><td>4 avril</td><td>2005</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Portugal</td><td>3 juin</td><td>2011</td><td>3 juillet</td><td>2011</td></tr>
+<tr><td>Qatar\*</td><td>6 mars</td><td>2026 A</td><td>5 avril</td><td>2026</td></tr>
 <tr><td>République centrafricaine</td><td>6 octobre</td><td>2006 A</td><td>5 novembre</td><td>2006</td></tr>
 <tr><td>République dominicaine</td><td>7 avril</td><td>2009</td><td>7 mai</td><td>2009</td></tr>
 <tr><td>République tchèque</td><td>24 septembre</td><td>2013 A</td><td>24 octobre</td><td>2013</td></tr>
 <tr><td>Roumanie</td><td>16 avril</td><td>2004 A</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Rwanda</td><td>4 octobre</td><td>2006 A</td><td>3 novembre</td><td>2006</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>21 mai</td><td>2004 A</td><td>3 juillet</td><td>2005</td></tr>
+<tr><td>Saint-Marin</td><td>15 mai</td><td>2025 A</td><td>14 juin</td><td>2025</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>29 octobre</td><td>2010 A</td><td>28 novembre</td><td>2010</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>12 avril</td><td>2006 A</td><td>12 mai</td><td>2006</td></tr>
 <tr><td>Sénégal</td><td>7 avril</td><td>2006</td><td>7 mai</td><td>2006</td></tr>
@@ -421,7 +424,9 @@ Champ d’application le 17 janvier 2025[^t-2]
 <tr><td>Sierra Leone</td><td>12 août</td><td>2014</td><td>11 septembre</td><td>2014</td></tr>
 <tr><td>Slovaquie</td><td>21 septembre</td><td>2004</td><td>3 juillet</td><td>2005</td></tr>
 <tr><td>Slovénie</td><td>21 mai</td><td>2004</td><td>3 juillet</td><td>2005</td></tr>
+<tr><td>Somalie\*</td><td>25 mars</td><td>2025 A</td><td>24 avril</td><td>2025</td></tr>
 <tr><td>Soudan</td><td>4 octobre</td><td>2018 A</td><td>3 novembre</td><td>2018</td></tr>
+<tr><td>Soudan du Sud</td><td>9 avril</td><td>2025 A</td><td>9 mai</td><td>2025</td></tr>
 <tr><td>Suède</td><td>28 juin</td><td>2011</td><td>28 juillet</td><td>2011</td></tr>
 <tr><td>Suisse\*</td><td>27 novembre</td><td>2012 A</td><td>27 décembre</td><td>2012</td></tr>
 <tr><td>Tanzanie</td><td>24 mai</td><td>2006 A</td><td>23 juin</td><td>2006</td></tr>
@@ -435,10 +440,10 @@ Champ d’application le 17 janvier 2025[^t-2]
 <tr><td>Uruguay</td><td>3 avril</td><td>2008 A</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Venezuela\*</td><td>10 juin</td><td>2013 A</td><td>10 juillet</td><td>2013</td></tr>
 <tr><td>Zambie</td><td>24 avril</td><td>2005 A</td><td>3 juillet</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations (les \* du champ d’application ci-dessus ne comprennent pas les déclarations de tous les États parties concernant les autorités centrales, selon l’art. 13, par. 2). \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Prot. ne s’applique pas au Groenland et aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations (les \* du champ d’application ci-dessus ne comprennent pas les déclarations de tous les États parties concernant les autorités centrales, selon l’art. 13, par. 2). \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Prot. ne s’applique pas au Groenland et aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296); [2025 53](https://fedlex.data.admin.ch/eli/oc/2025/53). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296); [2025 53](https://fedlex.data.admin.ch/eli/oc/2025/53); [2026 531](https://fedlex.data.admin.ch/eli/oc/2026/531). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

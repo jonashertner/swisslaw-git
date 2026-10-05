@@ -3,11 +3,11 @@ sr: "0.311.544"
 title: "Zusatzprotokoll vom 31. Mai 2001 gegen die unerlaubte Herstellung von Schusswaffen, dazugehörigen Teilen und Komponenten und Munition und gegen den unerlaubten Handel damit zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/14"
 language: de
-version: 2025-01-17
+version: 2026-10-06
 adopted: 2001-05-31
 in_force: 2012-12-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20250117/de/xml/fedlex-data-admin-ch-eli-cc-2013-14-20250117-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20250117/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/14/20261006/de/xml/fedlex-data-admin-ch-eli-cc-2013-14-20261006-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/14/20261006/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 27. November 2012
 
 In Kraft getreten für die Schweiz am 27. Dezember 2012
 
-(Stand am 17. Januar 2025)
+(Stand am 6. Oktober 2026)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 23. Dez. 2011 ([AS 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819))
 
@@ -46,8 +46,8 @@ eingedenk des Grundsatzes der Gleichberechtigung und der Selbstbestimmung der V�
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
 
 ## I. Allgemeine Bestimmungen
 
@@ -305,12 +305,13 @@ Mit dem Ziel, die unerlaubte Herstellung von Schusswaffen, dazugehörigen Teilen
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 17. Januar 2025[^t-2]
+Geltungsbereich am 6. Oktober 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>8. Februar</td><td>2008 B</td><td>9. März</td><td>2008</td></tr>
 <tr><td>Algerien\*</td><td>25. August</td><td>2004 B</td><td>3. Juli</td><td>2005</td></tr>
+<tr><td>Andorra</td><td>22. September</td><td>2026 B</td><td>22. Oktober</td><td>2026</td></tr>
 <tr><td>Angola</td><td>19. September</td><td>2014 B</td><td>19. Oktober</td><td>2014</td></tr>
 <tr><td>Antigua und Barbuda</td><td>27. April</td><td>2010 B</td><td>27. Mai</td><td>2010</td></tr>
 <tr><td>Argentinien\*</td><td>18. Dezember</td><td>2006</td><td>17. Januar</td><td>2007</td></tr>
@@ -362,6 +363,7 @@ Geltungsbereich am 17. Januar 2025[^t-2]
 <tr><td>Kambodscha</td><td>12. Dezember</td><td>2005 B</td><td>11. Januar</td><td>2006</td></tr>
 <tr><td>Kap Verde</td><td>15. Juli</td><td>2004 B</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Kasachstan</td><td>31. Juli</td><td>2008 B</td><td>30. August</td><td>2008</td></tr>
+<tr><td>Katar\*</td><td>6. März</td><td>2026 B</td><td>5. April</td><td>2026</td></tr>
 <tr><td>Kenia</td><td>5. Januar</td><td>2005 B</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Komoren</td><td>4. Juni</td><td>2021 B</td><td>4. Juli</td><td>2021</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>28. Oktober</td><td>2005 B</td><td>27. November</td><td>2005</td></tr>
@@ -407,6 +409,7 @@ Geltungsbereich am 17. Januar 2025[^t-2]
 <tr><td>Ruanda</td><td>4. Oktober</td><td>2006 B</td><td>3. November</td><td>2006</td></tr>
 <tr><td>Rumänien</td><td>16. April</td><td>2004 B</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Sambia</td><td>24. April</td><td>2005 B</td><td>3. Juli</td><td>2005</td></tr>
+<tr><td>San Marino</td><td>15. Mai</td><td>2025 B</td><td>14. Juni</td><td>2025</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>12. April</td><td>2006 B</td><td>12. Mai</td><td>2006</td></tr>
 <tr><td>Saudi-Arabien\*</td><td>11. März</td><td>2008 B</td><td>10. April</td><td>2008</td></tr>
 <tr><td>Schweden</td><td>28. Juni</td><td>2011</td><td>28. Juli</td><td>2011</td></tr>
@@ -416,11 +419,13 @@ Geltungsbereich am 17. Januar 2025[^t-2]
 <tr><td>Sierra Leone</td><td>12. August</td><td>2014</td><td>11. September</td><td>2014</td></tr>
 <tr><td>Slowakei</td><td>21. September</td><td>2004</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Slowenien</td><td>21. Mai</td><td>2004</td><td>3. Juli</td><td>2005</td></tr>
+<tr><td>Somalia\*</td><td>25. März</td><td>2025 B</td><td>24. April</td><td>2025</td></tr>
 <tr><td>Spanien\*</td><td>9. Februar</td><td>2007 B</td><td>11. März</td><td>2007</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>21. Mai</td><td>2004 B</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>29. Oktober</td><td>2010 B</td><td>28. November</td><td>2010</td></tr>
 <tr><td>Südafrika\*</td><td>20. Februar</td><td>2004</td><td>3. Juli</td><td>2005</td></tr>
 <tr><td>Sudan</td><td>4. Oktober</td><td>2018 B</td><td>3. November</td><td>2018</td></tr>
+<tr><td>Südsudan</td><td>9. April</td><td>2025 B</td><td>9. Mai</td><td>2025</td></tr>
 <tr><td>Tansania</td><td>24. Mai</td><td>2006 B</td><td>23. Juni</td><td>2006</td></tr>
 <tr><td>Togo</td><td>17. Juli</td><td>2012 B</td><td>16. August</td><td>2012</td></tr>
 <tr><td>Trinidad und Tobago</td><td>6. November</td><td>2007 B</td><td>6. Dezember</td><td>2007</td></tr>
@@ -435,10 +440,10 @@ Geltungsbereich am 17. Januar 2025[^t-2]
 <tr><td>Venezuela<sup>\*</sup></td><td>10. Juni</td><td>2013 B</td><td>10. Juli</td><td>2013</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006 B</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>6. August</td><td>2003</td><td>3. Juli</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Erklärungen der Vertragsstaaten über die zentralen Behörden, gemäss Artikel 13 Absatz 2 des Zusatzprotokolls, sind im vorliegenden Geltungsbereich nicht aufgeführt. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Erklärungen der Vertragsstaaten über die zentralen Behörden, gemäss Artikel 13 Absatz 2 des Zusatzprotokolls, sind im vorliegenden Geltungsbereich nicht aufgeführt. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296); [2025 53](https://fedlex.data.admin.ch/eli/oc/2025/53). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-2]: [AS 2013 65](https://fedlex.data.admin.ch/eli/oc/2013/14), [3525](https://fedlex.data.admin.ch/eli/oc/2013/656); [2014 3199](https://fedlex.data.admin.ch/eli/oc/2014/545); [2017 195](https://fedlex.data.admin.ch/eli/oc/2017/51); [2020 1183](https://fedlex.data.admin.ch/eli/oc/2020/219); [2023 296](https://fedlex.data.admin.ch/eli/oc/2023/296); [2025 53](https://fedlex.data.admin.ch/eli/oc/2025/53); [202](https://fedlex.data.admin.ch/eli/oc/2025/202)**6** 531. Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
