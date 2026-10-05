@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla verifica degli investimenti esteri (OVI)
 document: Progetto posto in consultazione
 language: it

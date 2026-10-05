@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur l’examen des investissements étrangers (OEIEtr)
 document: Projet mis en consultation
 language: fr

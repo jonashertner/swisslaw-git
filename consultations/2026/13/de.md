@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Prüfung ausländischer Investitionen (IPV)
 document: Vernehmlassungsvorlage
 language: de
