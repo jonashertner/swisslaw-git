@@ -4,33 +4,30 @@ number: "630.200"
 title: "Legge cantonale d'applicazione sull'approvvigionamento economico del Paese"
 language: it
 version: 2006-02-01
-corrected: 2014-10-27
+corrected: 2026-10-06
 version_adopted: 2005-10-19
 adopted: 2005-10-19
 in_force: 2006-02-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/630.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/351/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2264/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge cantonale d'applicazione sull'approvvigionamento economico del Paese
 
-del 19 ottobre 2005
+del 19.10.2005 (stato 01.02.2006)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-visti l'articolo 54 della legge federale dell'8 ottobre 1982 sull'approvvigionamento economico del Paese[^t-2] e l'articolo 33 della legge cantonale sull'aiuto in caso di catastrofi[^t-3];
-
-visto il messaggio del Governo del 28 giugno 2005[^t-4],
+visti l'articolo 54 della legge federale dell'8 ottobre 1982 sull'approvvigionamento economico del Paese[^ingress-2] e l'articolo 33 della legge cantonale sull'aiuto in caso di catastrofi[^ingress-3]; visto il messaggio del Governo del 28 giugno 2005[^ingress-4],
 
 decide:
 
-[^t-1]: PGC 2005/2006, 597
-[^t-2]: SR 531
-[^t-3]: CSC 630.100
-[^t-4]: Pagina 879 1.7.2006 1
+[^ingress-1]: PGC 2005/2006, 597
+[^ingress-2]: SR [531](https://db.clex.ch/link/Bund/531/it)
+[^ingress-3]: CSC [630.100](https://www.gr-lex.gr.ch/data/630.100/it)
+[^ingress-4]: Pagina 879
 
 #### Art. 1
 
@@ -72,6 +69,8 @@ decide:
 
 **Entrata in vigore**
 
-La presente legge entra in vigore il 1° febbraio 2006, dopo la scadenza del termine di referendum[^5-1].
+<sup>1</sup> La presente legge entra in vigore il 1° febbraio 2006, dopo la scadenza del termine di referendum[^5-1].
 
-[^5-1]: Il termine di referendum è scaduto inutilizzato il 25 gennaio 2006 2 1.7.2006
+[^5-1]: Il termine di referendum è scaduto inutilizzato il 25 gennaio 2006
+
+-

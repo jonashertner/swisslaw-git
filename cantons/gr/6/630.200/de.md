@@ -4,31 +4,32 @@ number: "630.200"
 title: Kantonales Einführungsgesetz zur wirtschaftlichen Landesversorgung
 language: de
 version: 2006-02-01
-corrected: 2014-10-27
+corrected: 2026-10-06
 version_adopted: 2005-10-19
 adopted: 2005-10-19
 in_force: 2006-02-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/630.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/351/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2264/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonales Einführungsgesetz zur wirtschaftlichen Landesversorgung
 
-vom 19. Oktober 2005
+Vom 19.10.2005 (Stand 01.02.2006)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
-gestützt auf Artikel 54 des Bundesgesetzes vom 8. Oktober 1982 über die wirtschaftliche Landesversorgung[^t-2] sowie auf Artikel 33 des kantonalen Gesetzes über die Katastrophenhilfe[^t-3], nach Einsicht in die Botschaft der Regierung vom 28. Juni 2005[^t-4],
+gestützt auf Art. 54 des Bundesgesetzes vom 8. Oktober 1982 über die wirtschaftliche Landesversorgung[^ingress-2] sowie auf Art. 33 des kantonalen Gesetzes über die Katastrophenhilfe[^ingress-3],
+
+nach Einsicht in die Botschaft der Regierung vom 28. Juni 2005[^ingress-4],
 
 beschliesst:
 
-[^t-1]: GRP 2005/2006, 597
-[^t-2]: SR 531
-[^t-3]: BR 630.100
-[^t-4]: Seite 879 1.7.2006 1
+[^ingress-1]: GRP 2005/2006, 597
+[^ingress-2]: SR [531](https://db.clex.ch/link/Bund/531/de)
+[^ingress-3]: BR [630.100](https://www.gr-lex.gr.ch/data/630.100/de)
+[^ingress-4]: Seite 879
 
 #### Art. 1
 
@@ -70,6 +71,8 @@ beschliesst:
 
 **In-Kraft-Treten**
 
-Dieses Gesetz tritt nach Ablauf der Referendumsfrist[^5-1] auf den 1. Februar 2006 in Kraft.
+<sup>1</sup> Dieses Gesetz tritt nach Ablauf der Referendumsfrist[^5-1] auf den 1. Februar 2006 in Kraft.
 
-[^5-1]: Die Referendumsfrist ist am 25. Januar 2006 unbenutzt abgelaufen 2 1.7.2006
+[^5-1]: Die Referendumsfrist ist am 25. Januar 2006 unbenutzt abgelaufen.
+
+-
