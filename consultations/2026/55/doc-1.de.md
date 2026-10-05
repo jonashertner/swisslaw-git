@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Sprachengesetzes
 document: Vernehmlassungsvorlage-2
 language: de
