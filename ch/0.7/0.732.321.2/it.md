@@ -3,11 +3,11 @@ sr: "0.732.321.2"
 title: "Convenzione del 26 settembre 1986 relativa all'assistenza in caso di incidente nucleare o di situazione di emergenza radiologica"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371"
 language: it
-version: 2022-11-25
+version: 2026-10-06
 adopted: 1986-09-26
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371/20221125/it/xml/fedlex-data-admin-ch-eli-cc-1988-1371_1371_1371-20221125-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1371_1371_1371/20221125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371/20261006/it/xml/fedlex-data-admin-ch-eli-cc-1988-1371_1371_1371-20261006-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1371_1371_1371/20261006/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1988** 1371; FF **1987** III 81
 
 Traduzione
 
-Conclusa a Vienna il 26 settembre 1986
+Conclusa a Vienna il 26 settembre 1986 Approvata dall’Assemblea federale il 3 marzo 1988[^t-1] Istrumenti di ratificazione depositati dalla Svizzera il 31 maggio 1988 Entrata in vigore per la Svizzera il 1° luglio 1988
 
-Approvata dall’Assemblea federale il 3 marzo 1988[^t-1]
-
-Istrumenti di ratificazione depositati dalla Svizzera il 31 maggio 1988
-
-Entrata in vigore per la Svizzera il 1° luglio 1988
-
-(Stato 25 novembre 2022)
+(Stato 6 ottobre 2026)
 
 [^t-1]: [RU 1988 1370](https://fedlex.data.admin.ch/eli/oc/1988/1370_1370_1370)
 
@@ -317,7 +311,7 @@ L’originale della presente Convenzione, di cui fanno ugualmente fede le versio
 
 *In fede di che,* i sottoscritti, debitamente abilitati, hanno firmato la presente Convenzione, aperta alla firma in conformità alle disposizioni del paragrafo 1 dell’articolo 14. Adottata dalla Conferenza generale dell’Agenzia Internazionale dell’Energia Atomica riunita in sessione straordinaria a Vienna il 26 settembre 1986. *(Seguono le firme)*
 
-Campo d’applicazione il 25 novembre 2022[^t-2]
+Campo d’applicazione il 6 ottobre 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -379,11 +373,13 @@ Campo d’applicazione il 25 novembre 2022[^t-2]
 <tr><td>Israele<sup>\*</sup></td><td>25 maggio</td><td>1989</td><td>25 giugno</td><td>1989</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>25 ottobre</td><td>1990</td><td>25 novembre</td><td>1990</td></tr>
 <tr><td>Kazakistan</td><td>10 marzo</td><td>2010 A</td><td>9 aprile</td><td>2010</td></tr>
+<tr><td>Kirghizistan</td><td>17 settembre</td><td>2025 A</td><td>17 ottobre</td><td>2025</td></tr>
 <tr><td>Kuwait</td><td>13 maggio</td><td>2003 A</td><td>13 giugno</td><td>2003</td></tr>
 <tr><td>Laos</td><td>10 maggio</td><td>2013 A</td><td>9 giugno</td><td>2013</td></tr>
 <tr><td>Lesotho</td><td>17 settembre</td><td>2013 A</td><td>17 ottobre</td><td>2013</td></tr>
 <tr><td>Lettonia</td><td>28 dicembre</td><td>1992 A</td><td>28 gennaio</td><td>1993</td></tr>
 <tr><td>Libano</td><td>17 aprile</td><td>1997</td><td>18 maggio</td><td>1997</td></tr>
+<tr><td>Liberia</td><td>18 settembre</td><td>2024 A</td><td>18 ottobre</td><td>2024</td></tr>
 <tr><td>Libia</td><td>27 giugno</td><td>1990 A</td><td>28 luglio</td><td>1990</td></tr>
 <tr><td>Liechtenstein</td><td>19 aprile</td><td>1994</td><td>20 maggio</td><td>1994</td></tr>
 <tr><td>Lituania</td><td>21 settembre</td><td>2000 A</td><td>22 ottobre</td><td>2000</td></tr>
@@ -449,12 +445,14 @@ Campo d’applicazione il 25 novembre 2022[^t-2]
 <tr><td>Thailandia<sup>\*</sup></td><td>21 marzo</td><td>1989</td><td>21 aprile</td><td>1989</td></tr>
 <tr><td>Tunisia</td><td>24 febbraio</td><td>1989</td><td>27 marzo</td><td>1989</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>3 gennaio</td><td>1991</td><td>3 febbraio</td><td>1991</td></tr>
+<tr><td>Turkmenistan</td><td>14 novembre</td><td>2023 A</td><td>14 dicembre</td><td>2023</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>26 gennaio</td><td>1987</td><td>26 febbraio</td><td>1987</td></tr>
 <tr><td>Ungheria</td><td>10 marzo</td><td>1987</td><td>10 aprile</td><td>1987</td></tr>
 <tr><td>Uruguay</td><td>21 dicembre</td><td>1989 A</td><td>21 gennaio</td><td>1990</td></tr>
+<tr><td>Uzbekistan\*</td><td>30 luglio</td><td>2025 A</td><td>29 agosto</td><td>2025</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>29 settembre</td><td>1987 A</td><td>30 ottobre</td><td>1987</td></tr>
 <tr><td>Zimbabwe</td><td>20 settembre</td><td>2021</td><td>20 ottobre</td><td>2021</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet dell’Agenzia internazionale per l’energia atomica (AIEA): www.iaea.org/ &gt; Français &gt; Ressources &gt; Traités &gt; Traités adoptés sous les auspices de l’AIEA, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeroer e alla Groenlandia.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito internet dell’Agenzia internazionale per l’energia atomica (AIEA): [www.iaea.org/resources/treaties/treaties-under-IAEA-auspices](https://www.iaea.org/resources/treaties/treaties-under-IAEA-auspices%20) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeroer e alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: [RU 1988 1371](https://fedlex.data.admin.ch/eli/oc/1988/1371_1371_1371); [1989 400](https://fedlex.data.admin.ch/eli/oc/1989/400_400_400); [1990 1625](https://fedlex.data.admin.ch/eli/oc/1990/1625_1625_1625);[1991 2220](https://fedlex.data.admin.ch/eli/oc/1991/2220_2220_2220); [2005 2231](https://fedlex.data.admin.ch/eli/oc/2005/373); [2007 3597](https://fedlex.data.admin.ch/eli/oc/2007/443); [2010 1631](https://fedlex.data.admin.ch/eli/oc/2010/239); [2013 2311](https://fedlex.data.admin.ch/eli/oc/2013/482); [2016 507](https://fedlex.data.admin.ch/eli/oc/2016/90); [2018 301](https://fedlex.data.admin.ch/eli/oc/2018/52); [2020 2177](https://fedlex.data.admin.ch/eli/oc/2020/431); [2022 762](https://fedlex.data.admin.ch/eli/oc/2022/762). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 1988 1371](https://fedlex.data.admin.ch/eli/oc/1988/1371_1371_1371); [1989 400](https://fedlex.data.admin.ch/eli/oc/1989/400_400_400); [1990 1625](https://fedlex.data.admin.ch/eli/oc/1990/1625_1625_1625); [1991 2220](https://fedlex.data.admin.ch/eli/oc/1991/2220_2220_2220); [2005 2231](https://fedlex.data.admin.ch/eli/oc/2005/373); [2007 3597](https://fedlex.data.admin.ch/eli/oc/2007/443); [2010 1631](https://fedlex.data.admin.ch/eli/oc/2010/239); [2013 2311](https://fedlex.data.admin.ch/eli/oc/2013/482); [2016 507](https://fedlex.data.admin.ch/eli/oc/2016/90); [2018 3011](https://fedlex.data.admin.ch/eli/oc/2018/467); [2020 2177](https://fedlex.data.admin.ch/eli/oc/2020/431); [2022 762](https://fedlex.data.admin.ch/eli/oc/2022/762); [2026 522](https://fedlex.data.admin.ch/eli/oc/2026/522). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

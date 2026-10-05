@@ -3,11 +3,11 @@ sr: "0.732.321.2"
 title: Übereinkommen vom 26. September 1986 über Hilfeleistung bei nuklearen Unfällen oder strahlungsbedingten Notfällen
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371"
 language: de
-version: 2022-11-25
+version: 2026-10-06
 adopted: 1986-09-26
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371/20221125/de/xml/fedlex-data-admin-ch-eli-cc-1988-1371_1371_1371-20221125-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1371_1371_1371/20221125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371/20261006/de/xml/fedlex-data-admin-ch-eli-cc-1988-1371_1371_1371-20261006-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1371_1371_1371/20261006/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 1371; BBl **1987** III 105
 
 Abgeschlossen in Wien am 26. September 1986 Von der Bundesversammlung genehmigt am 3. März 1988[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 31. Mai 1988 In Kraft getreten für die Schweiz am 1. Juli 1988
 
-(Stand am 25. November 2022)
+(Stand am 6. Oktober 2026)
 
 [^t-1]: [AS 1988 1370](https://fedlex.data.admin.ch/eli/oc/1988/1370_1370_1370)
 
@@ -296,7 +296,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die gehörig befugten Unterzeichneten dieses Übereinkommen, das nach Artikel 14 Absatz 1 zur Unterzeichnung aufliegt, unterschrieben. Angenommen von der Generalkonferenz der Internationalen Atomenergie‑Organisation auf einer Sondertagung in Wien am 26. September 1986. (Es folgen die Unterschriften)
 
-Geltungsbereich am 25. November 2022[^t-2]
+Geltungsbereich am 6. Oktober 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -350,6 +350,7 @@ Geltungsbereich am 25. November 2022[^t-2]
 <tr><td>Kanada\*</td><td>12. August</td><td>2002</td><td>12. September</td><td>2002</td></tr>
 <tr><td>Kasachstan</td><td>10. März</td><td>2010 B</td><td>9. April</td><td>2010</td></tr>
 <tr><td>Katar</td><td>4. November</td><td>2005 B</td><td>4. Dezember</td><td>2005</td></tr>
+<tr><td>Kirgisistan</td><td>17. September</td><td>2025 B</td><td>17. Oktober</td><td>2025</td></tr>
 <tr><td>Kolumbien\*</td><td>23. Juni</td><td>2005 B</td><td>23. Juli</td><td>2005</td></tr>
 <tr><td>Korea (Süd-)\*</td><td>8. Juni</td><td>1990 B</td><td>9. Juli</td><td>1990</td></tr>
 <tr><td>Kroatien</td><td>29. September</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
@@ -360,6 +361,7 @@ Geltungsbereich am 25. November 2022[^t-2]
 <tr><td>Lettland</td><td>28. Dezember</td><td>1992 B</td><td>28. Januar</td><td>1993</td></tr>
 <tr><td>Libanon</td><td>17. April</td><td>1997</td><td>18. Mai</td><td>1997</td></tr>
 <tr><td>Libyen</td><td>27. Juni</td><td>1990 B</td><td>28. Juli</td><td>1990</td></tr>
+<tr><td>Liberia</td><td>18. September</td><td>2024 B</td><td>18. Oktober</td><td>2024</td></tr>
 <tr><td>Liechtenstein</td><td>19. April</td><td>1994</td><td>20. Mai</td><td>1994</td></tr>
 <tr><td>Litauen</td><td>21. September</td><td>2000 B</td><td>22. Oktober</td><td>2000</td></tr>
 <tr><td>Luxemburg</td><td>26. September</td><td>2000 B</td><td>27. Oktober</td><td>2000</td></tr>
@@ -423,9 +425,11 @@ Geltungsbereich am 25. November 2022[^t-2]
 <tr><td>Tschechische Republik</td><td>24. März</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>24. Februar</td><td>1989</td><td>27. März</td><td>1989</td></tr>
 <tr><td>Türkei\*</td><td>3. Januar</td><td>1991</td><td>3. Februar</td><td>1991</td></tr>
+<tr><td>Turkmenistan</td><td>14. November</td><td>2023 B</td><td>14. Dezember</td><td>2023</td></tr>
 <tr><td>Ukraine\*</td><td>26. Januar</td><td>1987</td><td>26. Februar</td><td>1987</td></tr>
 <tr><td>Ungarn</td><td>10. März</td><td>1987</td><td>10. April</td><td>1987</td></tr>
 <tr><td>Uruguay</td><td>21. Dezember</td><td>1989 B</td><td>21. Januar</td><td>1990</td></tr>
+<tr><td>Usbekistan\*</td><td>30. Juli</td><td>2025 B</td><td>29. August</td><td>2025</td></tr>
 <tr><td>Vereinigte Arabische Emirate\*</td><td>2. Oktober</td><td>1987 B</td><td>2. November</td><td>1987</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>19. September</td><td>1988</td><td>20. Oktober</td><td>1988</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>9. Februar</td><td>1990</td><td>12. März</td><td>1990</td></tr>
@@ -433,9 +437,7 @@ Geltungsbereich am 25. November 2022[^t-2]
 <tr><td>Weltgesundheitsorganisation (WHO)\*</td><td>10. August</td><td>1988 B</td><td>10. September</td><td>1988</td></tr>
 <tr><td>Weltorganisation für Meteorologie (WMO)\*</td><td>17. April</td><td>1990 B</td><td>18. Mai</td><td>1990</td></tr>
 <tr><td>Zypern</td><td>4. Januar</td><td>1989 B</td><td>4. Februar</td><td>1989</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEO): [www.iaea.org/resources/treaties/treaties-under-IAEA-auspices](https://www.iaea.org/resources/treaties/treaties-under-IAEA-auspices%20) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [AS 1988 1371](https://fedlex.data.admin.ch/eli/oc/1988/1371_1371_1371); [1989 400](https://fedlex.data.admin.ch/eli/oc/1989/400_400_400); [1990 1625](https://fedlex.data.admin.ch/eli/oc/1990/1625_1625_1625); [1991 2220](https://fedlex.data.admin.ch/eli/oc/1991/2220_2220_2220); [2005 2231](https://fedlex.data.admin.ch/eli/oc/2005/373); [2007 3597](https://fedlex.data.admin.ch/eli/oc/2007/443); [2010 1631](https://fedlex.data.admin.ch/eli/oc/2010/239); [2013 2311](https://fedlex.data.admin.ch/eli/oc/2013/482); [2016 507](https://fedlex.data.admin.ch/eli/oc/2016/90); [2018 3011](https://fedlex.data.admin.ch/eli/oc/2018/467); [2020 2177](https://fedlex.data.admin.ch/eli/oc/2020/431); [2022 762](https://fedlex.data.admin.ch/eli/oc/2022/762). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 1988 1371](https://fedlex.data.admin.ch/eli/oc/1988/1371_1371_1371); [1989 400](https://fedlex.data.admin.ch/eli/oc/1989/400_400_400); [1990 1625](https://fedlex.data.admin.ch/eli/oc/1990/1625_1625_1625); [1991 2220](https://fedlex.data.admin.ch/eli/oc/1991/2220_2220_2220); [2005 2231](https://fedlex.data.admin.ch/eli/oc/2005/373); [2007 3597](https://fedlex.data.admin.ch/eli/oc/2007/443); [2010 1631](https://fedlex.data.admin.ch/eli/oc/2010/239); [2013 2311](https://fedlex.data.admin.ch/eli/oc/2013/482); [2016 507](https://fedlex.data.admin.ch/eli/oc/2016/90); [2018 3011](https://fedlex.data.admin.ch/eli/oc/2018/467); [2020 2177](https://fedlex.data.admin.ch/eli/oc/2020/431); [2022 762](https://fedlex.data.admin.ch/eli/oc/2022/762); [2026 522](https://fedlex.data.admin.ch/eli/oc/2026/522). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
