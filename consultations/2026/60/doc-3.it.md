@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ratifica e attuazione dell’Accordo internazionale nel quadro della Convenzione delle Nazioni Unite sul diritto del mare, relativo alla conservazione e all’uso sostenibile della biodiversità marina delle zone non soggette a giurisdizione nazionale (Accordo per la protezione dell’alto mare)"
 document: Progetto posto in consultazione-3
 language: it

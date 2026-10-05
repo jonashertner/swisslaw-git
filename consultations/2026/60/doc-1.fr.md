@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ratification et mise en œuvre de l’Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l’utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale (accord de protection de la haute mer)
 document: Projet mis en consultation
 language: fr

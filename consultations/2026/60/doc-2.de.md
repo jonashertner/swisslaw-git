@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ratifikation und Umsetzung des internationalen Übereinkommens im Rahmen des Seerechtsübereinkommens der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt der Meere ausserhalb nationaler Hoheitsbefugnisse (Hochseeschutzabkommen)
 document: Vernehmlassungsvorlage-2
 language: de
