@@ -5,11 +5,12 @@ title: Einführungsgesetz zum Bundesgesetz über die Wehrpflichtersatzabgabe
 short: EGzWPEG
 language: de
 version: 2025-01-01
+corrected: 2026-10-06
 version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2017-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/620.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3850/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -35,9 +36,9 @@ beschliesst:
 
 #### Art. 1
 
-**Amt für Bevölkerungsschutz und Militär**
+**Amt für Militär und Zivilschutz**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär (Amt) ist zuständig für:
+<sup>1</sup> Das Amt für Militär und Zivilschutz (Amt) ist zuständig für:
 
 - a) die Veranlagung und den Einzug der Ersatzabgabe;
 - b) die Beurteilung von Gesuchen um Befreiung, Ermässigung, Erlass und Stundung der Ersatzabgabe;

@@ -5,11 +5,12 @@ title: "Legge d'applicazione della legge federale sulla tassa d'esenzione dall'o
 short: LAdLTEO
 language: it
 version: 2025-01-01
+corrected: 2026-10-06
 version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2017-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/620.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3850/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3412/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -35,9 +36,9 @@ decide:
 
 #### Art. 1
 
-**Ufficio della protezione della popolazione e del militare**
+**Ufficio del militare e della protezione civile**
 
-<sup>1</sup> L'Ufficio della protezione della popolazione e del militare (Ufficio) è competente per:
+<sup>1</sup> L'Ufficio del militare e della protezione civile (Ufficio) è competente per:
 
 - a) l'applicazione e la riscossione della tassa d'esenzione;
 - b) la valutazione di istanze di esenzione, riduzione, condono e dilazione della tassa;

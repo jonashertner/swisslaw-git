@@ -5,11 +5,12 @@ title: "Lescha introductiva tar la lescha federala davart la taxa d'exemziun dal
 short: LItLTES
 language: rm
 version: 2025-01-01
+corrected: 2026-10-06
 version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2017-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/620.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3850/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -35,9 +36,9 @@ concluda:
 
 #### Art. 1
 
-**Uffizi da protecziun da la populaziun e militar**
+**Uffizi da militar e da protecziun civila**
 
-<sup>1</sup> L'Uffizi da protecziun da la populaziun e militar (uffizi) è cumpetent per:
+<sup>1</sup> L'uffizi da militar e da protecziun civila (uffizi) è cumpetent per:
 
 - a) disponer ed incassar la taxa d'exemziun;
 - b) giuditgar dumondas da deliberar, da reducir, da relaschar e da prorogar la taxa d'exemziun;
