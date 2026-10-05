@@ -5,11 +5,12 @@ title: Verordnung zum Einführungsgesetz zur Ausländer- und Asylgesetzgebung
 short: RVzEGzAAG
 language: de
 version: 2024-09-01
+corrected: 2026-10-06
 version_adopted: 2024-08-20
 adopted: 2009-06-30
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/618.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3849/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -70,7 +71,7 @@ von der Regierung erlassen am 30. Juni 2009
 
 **Arbeitsmarktbehörde**
 
-<sup>1</sup> Das Amt für Arbeit ist die zuständige Arbeitsmarktbehörde.
+<sup>1</sup> Das Kantonale Amt für Industrie, Gewerbe und Arbeit ist die zuständige Arbeitsmarktbehörde.
 
 <sup>2</sup> Die Arbeitsmarktbehörde kann dem Amt mit Vereinbarung Aufgaben ganz oder teilweise übertragen.
 
@@ -232,7 +233,7 @@ von der Regierung erlassen am 30. Juni 2009
 
 <sup>1</sup> Die kantonalen Behörden und die Gemeinden fördern die Integration über die Regelstrukturen, insbesondere in den Bereichen Bildung, Arbeit und soziale Sicherheit. Sie stellen Angebote bereit, um allen Anspruchsberechtigten ungeachtet ihrer Herkunft chancengleichen Zugang zum gesellschaftlichen, wirtschaftlichen und kulturellen Leben zu ermöglichen.
 
-<sup>2</sup> Gemeinden, welche die erforderlichen Integrationsmassnahmen zur sprachlichen Förderung von Kindern und Jugendlichen im Rahmen der Regelstrukturen der Grundschule nicht gemäss den Richtlinien des Departements für Bildung, Umwelt und Kultur bereitgestellt haben, können vom Amt für Berufsbildung zur Übernahme der Kosten von Sprachkursen im Hinblick auf die berufliche Integration verpflichtet werden.
+<sup>2</sup> Gemeinden, welche die erforderlichen Integrationsmassnahmen zur sprachlichen Förderung von Kindern und Jugendlichen im Rahmen der Regelstrukturen der Grundschule nicht gemäss den Richtlinien des Erziehungs-, Kultur- und Umweltschutzdepartements bereitgestellt haben, können vom Amt für Berufsbildung zur Übernahme der Kosten von Sprachkursen im Hinblick auf die berufliche Integration verpflichtet werden.
 
 #### Art. 25
 

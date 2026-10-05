@@ -5,11 +5,12 @@ title: "Ordinaziun tar la lescha introductiva tar la legislaziun davart las pers
 short: OtLItLEA
 language: rm
 version: 2024-09-01
+corrected: 2026-10-06
 version_adopted: 2024-08-20
 adopted: 2009-06-30
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/618.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3849/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -70,7 +71,7 @@ relaschada da la regenza ils 30 da zercladur 2009
 
 **Autoritad dal martgà da lavur**
 
-<sup>1</sup> L'Uffizi da lavur è l'autoritad cumpetenta per il martgà da lavur.
+<sup>1</sup> L'uffizi chantunal per industria, mastergn e lavur è l'autoritad cumpetenta per il martgà da lavur.
 
 <sup>2</sup> Tras ina cunvegna po l'autoritad dal martgà da lavur delegar totalmain u parzialmain incumbensas a l'uffizi.
 
@@ -232,7 +233,7 @@ relaschada da la regenza ils 30 da zercladur 2009
 
 <sup>1</sup> Las autoritads chantunalas e las vischnancas promovan l'integraziun sur las structuras regularas, en spezial en ils secturs da la furmaziun, da la lavur e da la segirezza sociala. Ellas mettan a disposiziun purschidas per pussibilitar a tut las persunas che han il dretg da survegnir prestaziuns – independentamain da lur derivanza – las medemas schanzas tar l'access a la vita sociala, economica e culturala.
 
-<sup>2</sup> Las vischnancas che n'han betg mess a disposiziun las mesiras d'integraziun ch'èn necessarias per la promoziun linguistica d'uffants e da giuvenils en il rom da las structuras regularas da la scola obligatorica tenor las directivas dal Departament da furmaziun, ambient e cultura, pon vegnir obligadas da l'Uffizi per la furmaziun professiunala da surpigliar ils custs per ils curs da lingua che resultan en vista a l'integraziun professiunala.
+<sup>2</sup> Las vischnancas che n'han betg mess a disposiziun las mesiras d'integraziun ch'èn necessarias per la promoziun linguistica d'uffants e da giuvenils en il rom da las structuras regularas da la scola obligatorica tenor las directivas dal departament d'educaziun, cultura e protecziun da l'ambient, pon vegnir obligadas da l'uffizi per la furmaziun professiunala da surpigliar ils custs per ils curs da lingua che resultan en vista a l'integraziun professiunala.
 
 #### Art. 25
 

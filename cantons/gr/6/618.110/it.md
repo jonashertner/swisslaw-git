@@ -5,11 +5,12 @@ title: "Ordinanza relativa alla legge d'applicazione della legislazione federale
 short: OLAdLSA
 language: it
 version: 2024-09-01
+corrected: 2026-10-06
 version_adopted: 2024-08-20
 adopted: 2009-06-30
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/618.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3849/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3457/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -70,7 +71,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Autorità preposta al mercato del lavoro**
 
-<sup>1</sup> L'Ufficio del lavoro è l'autorità preposta al mercato del lavoro.
+<sup>1</sup> L'Ufficio cantonale per l'industria, arti e mestieri e lavoro è l'autorità preposta al mercato del lavoro.
 
 <sup>2</sup> Con degli accordi l'autorità preposta al mercato del lavoro può delegare completamente o parzialmente dei compiti all'Ufficio.
 
@@ -232,7 +233,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Le autorità cantonali e i comuni promuovono l'integrazione tramite le strutture ordinarie, in particolare nei settori della formazione, del lavoro e della sicurezza sociale. Essi mettono a disposizione delle offerte per permettere a tutti gli aventi diritto, indipendentemente dalla loro origine, di accedere in misura uguale alla vita sociale, economica e culturale.
 
-<sup>2</sup> I comuni che nell'ambito delle strutture ordinarie della scuola dell'obbligo non hanno messo a disposizione le misure di integrazione necessarie alla pomozione linguistica di bambini e di giovani conformemente alle direttive del Dipartimento formazione, ambiente e cultura, possono essere chiamati dall'Ufficio della formazione professionale a sostenere le spese dei corsi di lingua in vista dell'integrazione professionale.
+<sup>2</sup> I comuni che nell'ambito delle strutture ordinarie della scuola dell'obbligo non hanno messo a disposizione le misure di integrazione necessarie alla pomozione linguistica di bambini e di giovani conformemente alle direttive del Dipartimento dell'educazione, cultura e protezione dell'ambiente, possono essere chiamati dall'Ufficio della formazione professionale a sostenere le spese dei corsi di lingua in vista dell'integrazione professionale.
 
 #### Art. 25
 
