@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Hisbollah-Verbot: Änderung des Bundesgesetzes über das Verbot der Hamas sowie verwandter Organisationen"
 document: Vernehmlassungsvorlage
 language: de

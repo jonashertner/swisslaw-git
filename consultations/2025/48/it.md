@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Divieto di Hezbollah: Modifica della legge federale che vieta Hamas e le organizzazioni associate"
 document: Progetto posto in consultazione
 language: it
