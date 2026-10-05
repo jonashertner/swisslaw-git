@@ -5,12 +5,12 @@ title: Verordnung über den Finanzausgleich
 short: FAV
 language: de
 version: 2021-03-01
-corrected: 2026-09-23
+corrected: 2026-10-06
 version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3147/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -276,5 +276,22 @@ von der Regierung erlassen am 30. Juni 2015
 #### Art. 22
 
 **…**
+
+## A1 Anhang 1: Befristeter Ausgleich (Art. 20)
+
+#### Art. A1-1
+
+<sup>1</sup> Dieser Anhang basiert auf der FA-Globalbilanz aufgrund des vom Grossen Rat am 5. Dezember 2013 beschlossenen Mantelgesetzes über die FA-Reform.
+
+<sup>2</sup> Der befristete Ausgleich für die im Anhang zum Finanzausgleichsgesetz aufgeführten Gemeinden entspricht höchstens der Mehrbelastung durch die Einführung der FA-Reform gemäss der FA-Globalbilanz. Massgebend sind die folgenden Beträge:
+
+- a) Fideris: — Fr. 62'485.00
+- b) Küblis: — Fr. 470'541.00
+- c) Masein: — Fr. 140'220.00
+- d) Rhäzüns: — Fr. 451'245.00
+- e) Sagogn: — Fr. 142'454.00
+- f) Schmitten: — Fr. 67'651.00
+- g) Trun: — Fr. 793'694.00
+- h) Verdabbio: — Fr. 60'042.00
 
 2015-021

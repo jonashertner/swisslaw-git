@@ -5,12 +5,12 @@ title: Ordinaziun davart la gulivaziun da finanzas
 short: OGF
 language: rm
 version: 2021-03-01
-corrected: 2026-09-23
+corrected: 2026-10-06
 version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3147/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -276,5 +276,22 @@ relaschada da la regenza ils 30 da zercladur 2015
 #### Art. 22
 
 **…**
+
+## A1 Agiunta 1: Gulivaziun limitada (art. 20)
+
+#### Art. A1-1
+
+<sup>1</sup> Questa agiunta sa basa sin la bilantscha globala da la GF sin fundament da la lescha generala davart la refurma da la GF concludida dal cussegl grond ils 5 da december 2013.
+
+<sup>2</sup> La gulivaziun limitada per las vischnancas che figureschan en l'agiunta tar la lescha davart la gulivaziun da finanzas correspunda maximalmain a l'import supplementar pervia da l'introducziun da la refurma da la GF tenor la bilantscha globala da la GF. Decisivs èn ils suandants imports:
+
+- a) Fideris: — fr. 62'485.00
+- b) Küblis: — fr. 470'541.00
+- c) Masagn: — fr. 140'220.00
+- d) Razén: — fr. 451'245.00
+- e) Sagogn: — fr. 142'454.00
+- f) Schmitten: — fr. 67'651.00
+- g) Trun: — fr. 793'694.00
+- h) Verdabbio: — fr. 60'042.00
 
 2015-021

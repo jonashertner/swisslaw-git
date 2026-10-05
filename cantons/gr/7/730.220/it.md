@@ -5,12 +5,12 @@ title: Ordinanza sulla perequazione finanziaria
 short: OPF
 language: it
 version: 2021-03-01
-corrected: 2026-09-23
+corrected: 2026-10-06
 version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3147/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3789/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -276,5 +276,22 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 #### Art. 22
 
 **…**
+
+## A1 Appendice 1: perequazione limitata nel tempo (art. 20)
+
+#### Art. A1-1
+
+<sup>1</sup> La presente appendice si basa sul bilancio globale PF in base alla legge mantello sulla riforma PF decisa dal Gran Consiglio il 5 dicembre 2013.
+
+<sup>2</sup> La perequazione limitata nel tempo per i comuni indicati nell'appendice alla legge sulla perequazione finanziaria corrisponde al massimo all'onere supplementare dovuto all'introduzione della riforma PF secondo il bilancio globale PF. I seguenti importi risultano determinanti:
+
+- a) Fideris: — fr. 62'485.00
+- b) Küblis: — fr. 470'541.00
+- c) Masein: — fr. 140'220.00
+- d) Rhäzüns: — fr. 451'245.00
+- e) Sagogn: — fr. 142'454.00
+- f) Schmitten: — fr. 67'651.00
+- g) Trun: — fr. 793'694.00
+- h) Verdabbio: — fr. 60'042.00
 
 2015-021
