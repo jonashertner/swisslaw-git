@@ -5,11 +5,12 @@ title: "Reglament per pajar contribuziuns or da la finanziaziun speziala \"lotta
 short: "reglament davart la lottaria naziunala, RLN"
 language: rm
 version: 2024-09-01
+corrected: 2026-10-06
 version_adopted: 2024-08-20
 adopted: 1998-03-17
 in_force: 1998-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.600"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3853/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -50,7 +51,7 @@ relaschà da la regenza ils 17 da mars 1998
 
 **Surveglianza, budget, pajament**
 
-<sup>1</sup> La finanziaziun speziala "lottaria naziunala" stat sut la surveglianza dal Departament da furmaziun, ambient e cultura (departament) e sut la surveglianza suprema da la Regenza.
+<sup>1</sup> La finanziaziun speziala "lottaria naziunala" stat sut la surveglianza dal departament d'educaziun, cultura e protecziun da l'ambient (departament) e sut la surveglianza suprema da la regenza.
 
 <sup>2</sup> Il departament è cumpetent per la budgetaziun e per la surveglianza da l'effectiv da facultad sco er per il pajament da las contribuziuns.
 

@@ -5,11 +5,12 @@ title: Reglement für die Ausrichtung von Beiträgen aus der Spezialfinanzierung
 short: "Landeslotterie-Reglement, LLR"
 language: de
 version: 2024-09-01
+corrected: 2026-10-06
 version_adopted: 2024-08-20
 adopted: 1998-03-17
 in_force: 1998-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.600"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3853/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -50,7 +51,7 @@ von der Regierung erlassen am 17. März 1998
 
 **Aufsicht, Budget, Auszahlung**
 
-<sup>1</sup> Die Spezialfinanzierung Landeslotterie steht unter der Aufsicht des Departements für Bildung, Umwelt und Kultur (Departement) und der Oberaufsicht der Regierung.
+<sup>1</sup> Die Spezialfinanzierung Landeslotterie steht unter der Aufsicht des Erziehungs-, Kultur- und Umweltschutzdepartementes (Departement) und der Oberaufsicht der Regierung.
 
 <sup>2</sup> Das Departement ist zuständig für die Budgetierung und Überwachung des Vermögensbestandes sowie die Auszahlung der Beiträge.
 

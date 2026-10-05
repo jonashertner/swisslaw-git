@@ -5,11 +5,12 @@ title: "Regolamento concernente l'erogazione di sussidi dal finanziamento specia
 short: "Regolamento sulla lotteria, RFL"
 language: it
 version: 2024-09-01
+corrected: 2026-10-06
 version_adopted: 2024-08-20
 adopted: 1998-03-17
 in_force: 1998-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.600"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3853/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3459/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -50,7 +51,7 @@ in virtù dell'Accordo intercantonale concernente l'esecuzione collettiva delle 
 
 **Vigilanza, preventivo, versamento**
 
-<sup>1</sup> Il finanziamento speciale lotteria intercantonale è soggetto alla vigilanza del Dipartimento formazione, ambiente e cultura (Dipartimento) e all'alta vigilanza del Governo.
+<sup>1</sup> Il finanziamento speciale lotteria intercantonale è soggetto alla vigilanza del Dipartimento dell'educazione, cultura e protezione dell'ambiente (Dipartimento) e all'alta vigilanza del Governo.
 
 <sup>2</sup> Il Dipartimento è competente della stesura del preventivo e del controllo del patrimonio, nonché del pagamento dei contributi.
 
