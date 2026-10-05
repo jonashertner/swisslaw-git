@@ -5,12 +5,12 @@ title: Ordinaziun tar la lescha da protecziun civila
 short: OtLPC
 language: rm
 version: 2026-01-01
-corrected: 2026-09-23
+corrected: 2026-10-06
 version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/640.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3610/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3781/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -155,5 +155,34 @@ relaschada da la regenza il 1. da december 2015
 **Tariffas**
 
 <sup>1</sup> Las tariffas per las prestaziuns da l'uffizi vegnan regladas en l'agiunta 2.
+
+## A2 Agiunta 2: Tariffas per las prestaziuns da l'uffizi (art. 15)
+
+#### Art. A2-1
+
+**Taxas per l'execuziun da la construcziun da locals da protecziun obligatorics**
+
+<sup>1</sup> Per l'execuziun chantunala da la construcziun da locals da protecziun obligatorics tenor la lescha federala davart la protecziun da la populaziun e la protecziun civila e tenor la lescha davart la protecziun civila dal chantun Grischun vegnan incassadas las suandantas taxas:
+
+- a) per examinar projects da construcziun da locals da protecziun:
+  - 1\. fin 13 plazzas protegidas: — fr. 250.00
+  - 2\. 14–30 plazzas protegidas: — fr. 350.00
+  - 3\. 31–50 plazzas protegidas: — fr. 400.00
+  - 4\. 51–100 plazzas protegidas: — fr. 500.00
+  - 5\. 101–200 plazzas protegidas: — fr. 750.00
+  - 6\. passa 200 plazzas protegidas: metter a quint ils custs, almain però fr. 1'000.00
+- b) per examinar midadas da projects da construcziun da locals da protecziun: metter a quint la lavur per ina tariffa da fr. 100.00 per ura, maximalmain però las tariffas tenor la litera a
+- c) per relaschar ina disposiziun concernent la construcziun da locals da protecziun u per pajar contribuziuns substitutivas: — fr. 100.00
+- d) per examinar e per approvar ina dumonda per ina contribuziun substitutiva: — fr. 60.00
+- e) per controllar periodicamain ils locals da protecziun e per far controllas posteriuras:
+  - 1\. locals da protecziun senza sclusa: — fr. 120.00
+  - 2\. locals da protecziun cun sclusa: — fr. 160.00
+  - 3\. supplement per la controlla posteriura: — fr. 60.00
+
+#### Art. A2-2
+
+**Taxas per ulteriuras lavurs**
+
+<sup>1</sup> Per lavurs che n'èn betg regladas en las taxas per l'execuziun da la construcziun da locals da protecziun obligatorics vegn mess a quint il temp impundì per ina tariffa da fr. 100.00 per ura.
 
 2015-040
