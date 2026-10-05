@@ -5,11 +5,12 @@ title: Ordinaziun da polizia
 short: OPol
 language: rm
 version: 2026-05-01
+corrected: 2026-10-06
 version_adopted: 2026-04-14
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3848/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -387,7 +388,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 - c) da l'Autoritad per la protecziun d'uffants e da creschids;
 - d) da l'Uffizi per l'execuziun giudiziala;
 - e) da l'Uffizi da migraziun e da dretg civil;
-- f) da l'Uffizi da fatgs socials;
+- f) da l'Uffizi chantunal dal servetsch social;
 - g) dals Servetschs psichiatrics dal Grischun.
 
 <sup>3</sup> Las commembras ed ils commembers vegnan mintgamai designads da las autoritads respectivas.

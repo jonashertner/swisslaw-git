@@ -5,11 +5,12 @@ title: Ordinanza sulla polizia
 short: OPol
 language: it
 version: 2026-05-01
+corrected: 2026-10-06
 version_adopted: 2026-04-14
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3848/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3636/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -387,7 +388,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 - c) Autorità di protezione dei minori e degli adulti;
 - d) Ufficio per l'esecuzione giudiziaria;
 - e) Ufficio della migrazione e del diritto civile;
-- f) Ufficio degli affari sociali;
+- f) Ufficio cantonale del servizio sociale;
 - g) Servizi psichiatrici dei Grigioni.
 
 <sup>3</sup> I membri vengono designati dalla rispettiva autorità.

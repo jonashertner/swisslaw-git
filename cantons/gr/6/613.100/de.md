@@ -5,11 +5,12 @@ title: Polizeiverordnung
 short: PolV
 language: de
 version: 2026-05-01
+corrected: 2026-10-06
 version_adopted: 2026-04-14
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3848/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -387,7 +388,7 @@ von der Regierung erlassen am 21. Juni 2005
 - c) der Kindes- und Erwachsenenschutzbehörde;
 - d) des Amts für Justizvollzug;
 - e) des Amts für Migration und Zivilrecht;
-- f) des Amts für Soziales;
+- f) des kantonalen Sozialamts;
 - g) der Psychiatrischen Dienste Graubünden.
 
 <sup>3</sup> Die Mitglieder werden von den jeweiligen Behörden bezeichnet.
