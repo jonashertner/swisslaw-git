@@ -2,22 +2,22 @@
 canton: GR
 number: "917.400"
 title: Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein
-short: kantonale Weinverordnung
+short: Kantonale Weinverordnung
 language: de
 version: 2019-07-01
-corrected: 2022-01-07
+corrected: 2026-10-07
 version_adopted: 2019-06-18
 adopted: 2018-02-27
 in_force: 2018-03-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/917.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2946/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3232/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein
 
-(kantonale Weinverordnung)
+(Kantonale Weinverordnung)
 
 Vom 27.02.2018 (Stand 01.07.2019)
 

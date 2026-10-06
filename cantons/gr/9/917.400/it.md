@@ -5,12 +5,12 @@ title: "Disposizioni esecutive dell'ordinanza concernente la viticoltura e l'imp
 short: Ordinanza cantonale sul vino
 language: it
 version: 2019-07-01
-corrected: 2022-01-07
+corrected: 2026-10-07
 version_adopted: 2019-06-18
 adopted: 2018-02-27
 in_force: 2018-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/917.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2946/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3232/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
