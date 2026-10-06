@@ -1,37 +1,40 @@
 ---
 canton: GR
 number: "507.100"
-title: "Ordinanza d'esecuzione della legge federale sulle derrate alimentari e gli oggetti d'uso (Ordinanza sulle derrate alimentari)"
+title: "Ordinanza d'esecuzione della legge federale sulle derrate alimentari e gli oggetti d'uso"
 short: Ordinanza sulle derrate alimentari
 language: it
 version: 2011-01-01
-corrected: 2014-10-09
+corrected: 2026-10-07
 version_adopted: 2010-06-16
 adopted: 1995-02-28
 in_force: 1996-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/507.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1201/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2073/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza d'esecuzione della legge federale sulle derrate alimentari e gli oggetti d'uso (Ordinanza sulle derrate alimentari)
+# Ordinanza d'esecuzione della legge federale sulle derrate alimentari e gli oggetti d'uso
 
-emanata dal Gran Consiglio il 28 febbraio 1995[^t-1]
+(Ordinanza sulle derrate alimentari)
 
-ai sensi dell'art. 39 della legge federale sulle derrate alimentari e gli oggetti d'uso del 9 ottobre 1992[^t-2]
+del 28.02.1995 (stato 01.01.2011)
 
-I. Organizzazione
+emanata dal Gran Consiglio il 28 febbraio 1995[^ingress-1]
 
-[^t-1]: RS 817.0
-[^t-2]: M del 13 giu. 1994, 175, PGC 1994/95, 452 (1a lettura), 859 (2a lettura)
+ai sensi dell'art. 39 della legge federale sulle derrate alimentari e gli oggetti d'uso del 9 ottobre 1992[^ingress-2]
+
+[^ingress-1]: M del 13 giu. 1994, 175, PGC 1994/95, 452 (1a lettura), 859 (2a lettura)
+[^ingress-2]: RS [817.0](https://db.clex.ch/link/Bund/817.0/it)
+
+## 1. Organizzazione
 
 #### Art. 1
 
 **Autorità esecutive**
 
-L'esecuzione del controllo delle derrate alimentari spetta al Cantone. Sono considerate autorità esecutive il Laboratorio cantonale[^1-1] e l'Ufficio veterinario cantonale[^1-2].
+<sup>1</sup> L'esecuzione del controllo delle derrate alimentari spetta al Cantone. Sono considerate autorità esecutive il Laboratorio cantonale[^1-1] e l'Ufficio veterinario cantonale[^1-2].
 
 [^1-1]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
 [^1-2]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
@@ -40,7 +43,7 @@ L'esecuzione del controllo delle derrate alimentari spetta al Cantone. Sono cons
 
 **Parità dei sessi**
 
-Denominazioni di persona, funzione e professione contenute nella presente ordinanza si riferiscono ad entrambi i sessi, per quanto dal senso dell'ordinanza non risulti altrimenti.
+<sup>1</sup> Denominazioni di persona, funzione e professione contenute nella presente ordinanza si riferiscono ad entrambi i sessi, per quanto dal senso dell'ordinanza non risulti altrimenti.
 
 #### Art. 3
 
@@ -52,7 +55,7 @@ Denominazioni di persona, funzione e professione contenute nella presente ordina
 
 <sup>3</sup> Esso provvede alla formazione e al perfezionamento degli ispettori e dei controllori delle derrate alimentari.
 
-[^3-1]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali 1.1.2011 1
+[^3-1]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
 
 #### Art. 4
 
@@ -102,9 +105,9 @@ Denominazioni di persona, funzione e professione contenute nella presente ordina
 
 **Ispettori / controllori delle carni**
 
-L'organizzazione del controllo delle carni viene disciplinata nell'ordinanza cantonale sull'ispezione delle carni[^8-1].
+<sup>1</sup> L'organizzazione del controllo delle carni viene disciplinata nell'ordinanza cantonale sull'ispezione delle carni[^8-1].
 
-[^8-1]: Corretto: ordinanza cantonale sull'igiene delle carni, CSC 507.400 2 1.1.2011
+[^8-1]: Corretto: ordinanza cantonale sull'igiene delle carni, CSC [507.400](https://www.gr-lex.gr.ch/data/507.400/it)
 
 #### Art. 9
 
@@ -114,24 +117,23 @@ L'organizzazione del controllo delle carni viene disciplinata nell'ordinanza can
 
 <sup>2</sup> Le tariffe in caso di ispezioni di animali da macello e delle carni si conformano all'ordinanza cantonale sull'ispezione delle carni[^9-1].
 
-[^9-1]: Corretto: ordinanza cantonale sull'igiene delle carni, CSC 507.400
+[^9-1]: Corretto: ordinanza cantonale sull'igiene delle carni, CSC [507.400](https://www.gr-lex.gr.ch/data/507.400/it)
 
 #### Art. 10
 
 **Emanazione e comunicazione di decisioni**
 
-Decisioni ai sensi della legge sulle derrate alimentari vengono emanate dal Laboratorio cantonale[^10-1] e dall'Ufficio veterinario cantonale[^10-2]. Esse vanno comunicate all'autorità sanitaria del luogo.
+<sup>1</sup> Decisioni ai sensi della legge sulle derrate alimentari vengono emanate dal Laboratorio cantonale e dall'Ufficio veterinario cantonale[^10-1]. Esse vanno comunicate all'autorità sanitaria del luogo.
 
 [^10-1]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
-[^10-2]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
 
-### II. Competenza
+## 2. Competenza
 
 #### Art. 11
 
 **Laboratorio cantonale**
 
-Il Laboratorio cantonale[^11-1] è competente per l'esecuzione della legge sulle derrate alimentari, per quanto non sia data la competenza dell'Ufficio veterinario cantonale[^11-2] sulla base della legge sulle derrate alimentari o della presente ordinanza.
+<sup>1</sup> Il Laboratorio cantonale[^11-1] è competente per l'esecuzione della legge sulle derrate alimentari, per quanto non sia data la competenza dell'Ufficio veterinario cantonale[^11-2] sulla base della legge sulle derrate alimentari o della presente ordinanza.
 
 [^11-1]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
 [^11-2]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
@@ -143,46 +145,32 @@ Il Laboratorio cantonale[^11-1] è competente per l'esecuzione della legge sulle
 <sup>1</sup> L'Ufficio veterinario cantonale[^12-1] è competente per:
 
 - a) la sorveglianza della produzione animale;
-
 - b) il rilascio di autorizzazioni per l'esercizio di macelli;
-
 - c) il controllo generale dei macelli;
-
 - d) il controllo delle ispezioni degli animali da macello e delle carni dopo la macellazione;
-
 - e) il controllo delle aziende di trinciatura e di lavorazione delle carni.
 
 <sup>2</sup> Il Laboratorio cantonale[^12-2] e l'Ufficio veterinario cantonale[^12-3] elaborano un elenco delle aziende di trinciatura e di lavorazione che devono essere controllate dall'Ufficio veterinario cantonale.
 
 [^12-1]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
 [^12-2]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
-[^12-3]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali 1.1.2011 3
-[^12-4]: Abrogazione giusta ordinanza sull'abrogazione e sull'adeguamento di ordinanze del Gran Consiglio in relazione all'emanazione della legge sulla giustizia amministrativa; AGS 2006, FUC 2006\_5018; entrata in vigore il 1° gen. 2007
-
-### III. …
-
-[^12-4]
+[^12-3]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
 
 #### Art. 13
 
-**… 2)**
+**…**
 
 #### Art. 14
 
-**…[^14-1]**
+**…**
 
-[^14-1]: Abrogazione giusta ordinanza sull'abrogazione e sull'adeguamento di ordinanze del Gran Consiglio in relazione all'emanazione della legge sulla giustizia amministrativa; AGS 2006, FUC 2006\_5018; entrata in vigore il 1° gen. 2007
-[^14-2]: Numerazione giusta ordinanza sull'abrogazione e sull'adeguamento di ordinanze del Gran Consiglio in relazione all'emanazione della legge sulla giustizia amministrativa; AGS 2006, FUC 2006\_5018; entrata in vigore il 1° gen. 2007
-
-### III. Procedura penale
-
-[^14-2]
+## 3. Procedura penale
 
 #### Art. 15
 
 **Azione penale**
 
-Gli organi del controllo delle derrate alimentari hanno carattere di funzionari di polizia giudiziaria.
+<sup>1</sup> Gli organi del controllo delle derrate alimentari hanno carattere di funzionari di polizia giudiziaria.
 
 #### Art. 16
 
@@ -190,48 +178,41 @@ Gli organi del controllo delle derrate alimentari hanno carattere di funzionari 
 
 <sup>1</sup> Le multe vengono emesse dal dipartimento competente.
 
-<sup>2</sup>[^16-1]Per la procedura fanno stato le disposizioni concernenti la procedura penale dinanzi ad autorità amministrative.
-
-[^16-1]: Testo giusta ordinanza sull'abrogazione e l'adeguamento di ordinanze del Gran Consiglio in relazione all'entrata in vigore del Codice di procedura penale e della legge cantonale d'applicazione articolo 2 numero 6, AGS 2010, FUC 4806; entrato in vigore il 1° gennaio 2011
+<sup>2</sup> Per la procedura fanno stato le disposizioni concernenti la procedura penale dinanzi ad autorità amministrative.
 
 #### Art. 17
 
 **Sentenze penali**
 
-I tribunali devono trasmettere al Laboratorio cantonale[^17-1] rispettivamente all'Ufficio veterinario cantonale[^17-2] le sentenze in merito a violazioni della legislazione sulle derrate alimentari.
+<sup>1</sup> I tribunali devono trasmettere al Laboratorio cantonale[^17-1] rispettivamente all'Ufficio veterinario cantonale[^17-2] le sentenze in merito a violazioni della legislazione sulle derrate alimentari.
 
 [^17-1]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
-[^17-2]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali 4 1.1.2011
-[^17-3]: Numerazione giusta ordinanza sull'abrogazione e sull'adeguamento di ordinanze del Gran Consiglio in relazione all'emanazione della legge sulla giustizia amministrativa; AGS 2006, FUC 2006\_5018; entrata in vigore il 1° gen. 2007
+[^17-2]: Ora Ufficio per la sicurezza delle derrate alimentari e la salute degli animali
 
-### IV. Disposizioni finali
-
-[^17-3]
+## 4. Disposizioni finali
 
 #### Art. 18
 
 **Disposizioni di attuazione**
 
-Il Governo emana le necessarie disposizioni di attuazione.
+<sup>1</sup> Il Governo emana le necessarie disposizioni di attuazione.
 
 #### Art. 19
 
 **Abrogazione di atti legislativi**
 
-Con l'entrata in vigore della presente ordinanza vengono abrogati tutti gli atti legislativi in contraddizione con essa, in particolare l'ordinanza cantonale sulla derrate alimentari del 30 maggio 1941[^19-1], il regolamento sul commercio dei funghi mangerecci del 30 maggio 1934[^19-2] nonché l'articolo l'articolo 9 capoverso 2 cifra 1 dell'ordinanza sulla procedura penale amministrativa del 28 maggio 1975[^19-3].
+<sup>1</sup> Con l'entrata in vigore della presente ordinanza vengono abrogati tutti gli atti legislativi in contraddizione con essa, in particolare l'ordinanza cantonale sulla derrate alimentari del 30 maggio 1941[^19-1], il regolamento sul commercio dei funghi mangerecci del 30 maggio 1934[^19-2] nonché l'articolo 9 capoverso 2 cifra 1 dell'ordinanza sulla procedura penale amministrativa del 28 maggio 1975[^19-3].
 
 [^19-1]: DG 932; AGS 1958, 196
-[^19-2]: CSC 507.300
-[^19-3]: CSC 350.490
+[^19-2]: CSC [507.300](https://www.gr-lex.gr.ch/data/507.300/it)
+[^19-3]: CSC [350.490](https://www.gr-lex.gr.ch/data/350.490/it)
 
 #### Art. 20
 
 **Entrata in vigore**
 
-Il Governo determina la data dell'entrata in vigore[^20-1] della presente ordinanza.
+<sup>1</sup> Il Governo determina la data dell'entrata in vigore[^20-1] della presente ordinanza.
 
-[^20-1]: Entrata in vigore il 1o lug. 1996 con DG del 12 mar. 1996 1.1.2011 5
+[^20-1]: Entrata in vigore il 1° lug. 1996 con DG del 12 mar. 1996
 
-## Altre note
-
-- [2] Abrogazione giusta ordinanza sull'abrogazione e sull'adeguamento di ordinanze del Gran Consiglio in relazione all'emanazione della legge sulla giustizia amministrativa; AGS 2006, FUC 2006\_5018; entrata in vigore il 1° gen. 2007
+-

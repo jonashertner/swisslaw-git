@@ -5,33 +5,36 @@ title: Vollziehungsverordnung zum Bundesgesetz über Lebensmittel und Gebrauchsg
 short: Lebensmittelverordnung
 language: de
 version: 2011-01-01
-corrected: 2014-10-09
+corrected: 2026-10-07
 version_adopted: 2010-06-16
 adopted: 1995-02-28
 in_force: 1996-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/507.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1201/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2073/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollziehungsverordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände (Lebensmittelverordnung)
+# Vollziehungsverordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände
 
-Gestützt auf Art. 39 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 9. Oktober 1992[^t-1]
+(Lebensmittelverordnung)
 
-vom Grossen Rat erlassen am 28. Februar 1995[^t-2]
+Vom 28.02.1995 (Stand 01.01.2011)
 
-I. Organisation
+Gestützt auf Art. 39 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 9. Oktober 1992[^ingress-1]
 
-[^t-1]: SR 817.0
-[^t-2]: B vom 13. Juni 1994, 175, GRP 1994/95, 452 (1. Lesung), 895 (2. Lesung)
+vom Grossen Rat erlassen am 28. Februar 1995[^ingress-2]
+
+[^ingress-1]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de)
+[^ingress-2]: B vom 13. Juni 1994, 175, GRP 1994/95, 452 (1. Lesung), 895 (2. Lesung)
+
+## 1. Organisation
 
 #### Art. 1
 
 **Vollzugsbehörden**
 
-Der Vollzug der Lebensmittelkontrolle obliegt dem Kanton. Vollzugsbehörden sind das kantonale Laboratorium[^1-1] und das kantonale Veterinäramt[^1-2].
+<sup>1</sup> Der Vollzug der Lebensmittelkontrolle obliegt dem Kanton. Vollzugsbehörden sind das kantonale Laboratorium[^1-1] und das kantonale Veterinäramt[^1-2].
 
 [^1-1]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
 [^1-2]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
@@ -40,7 +43,7 @@ Der Vollzug der Lebensmittelkontrolle obliegt dem Kanton. Vollzugsbehörden sind
 
 **Gleichstellung der Geschlechter**
 
-Personen-, Funktions- und Berufsbezeichnungen in dieser Verordnung beziehen sich auf beide Geschlechter, soweit sich aus dem Sinn der Verordnung nicht etwas anderes ergibt.
+<sup>1</sup> Personen-, Funktions- und Berufsbezeichnungen in dieser Verordnung beziehen sich auf beide Geschlechter, soweit sich aus dem Sinn der Verordnung nicht etwas anderes ergibt.
 
 #### Art. 3
 
@@ -52,7 +55,7 @@ Personen-, Funktions- und Berufsbezeichnungen in dieser Verordnung beziehen sich
 
 <sup>3</sup> Es sorgt für die Aus- und Weiterbildung der Lebensmittelinspektoren und Lebensmittelkontrolleure.
 
-[^3-1]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit 1.01.2011 1
+[^3-1]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
 
 #### Art. 4
 
@@ -102,9 +105,9 @@ Personen-, Funktions- und Berufsbezeichnungen in dieser Verordnung beziehen sich
 
 **Fleischinspektoren/-kontrolleure**
 
-Die Organisation der Fleischkontrolle wird in der kantonalen Fleischverordnung[^8-1] geregelt.
+<sup>1</sup> Die Organisation der Fleischkontrolle wird in der kantonalen Fleischverordnung[^8-1] geregelt.
 
-[^8-1]: Richtig: Fleischhygieneverordnung BR 507.400 2 1.01.2011
+[^8-1]: Richtig: Fleischhygieneverordnung BR [507.400](https://www.gr-lex.gr.ch/data/507.400/de)
 
 #### Art. 9
 
@@ -114,24 +117,24 @@ Die Organisation der Fleischkontrolle wird in der kantonalen Fleischverordnung[^
 
 <sup>2</sup> Die Gebühren bei Schlachttier- und Fleischuntersuchungen richten sich nach der kantonalen Fleischverordnung[^9-1].
 
-[^9-1]: Richtig: Fleischhygieneverordnung BR 507.400
+[^9-1]: Richtig: Fleischhygieneverordnung BR [507.400](https://www.gr-lex.gr.ch/data/507.400/de)
 
 #### Art. 10
 
 **Erlass und Mitteilungen von Verfügungen**
 
-Verfügungen im Sinne des Lebensmittelgesetzes werden vom kantonalen Laboratorium[^10-1] und vom kantonalen Veterinäramt[^10-2] erlassen. Sie sind der örtlichen Gesundheitsbehörde zur Kenntnis zu bringen.
+<sup>1</sup> Verfügungen im Sinne des Lebensmittelgesetzes werden vom kantonalen Laboratorium[^10-1] und vom kantonalen Veterinäramt[^10-2] erlassen. Sie sind der örtlichen Gesundheitsbehörde zur Kenntnis zu bringen.
 
 [^10-1]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
 [^10-2]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
 
-### II. Zuständigkeit
+## 2. Zuständigkeit
 
 #### Art. 11
 
 **Kantonales Laboratorium**
 
-Das kantonale Laboratorium[^11-1] ist zuständig für den Vollzug des Lebensmittelgesetzes, soweit nicht aufgrund des Lebensmittelgesetzes oder dieser Verordnung die Zuständigkeit des kantonalen Veterinäramtes[^11-2] gegeben ist.
+<sup>1</sup> Das kantonale Laboratorium[^11-1] ist zuständig für den Vollzug des Lebensmittelgesetzes, soweit nicht aufgrund des Lebensmittelgesetzes oder dieser Verordnung die Zuständigkeit des kantonalen Veterinäramtes[^11-2] gegeben ist.
 
 [^11-1]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
 [^11-2]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
@@ -143,47 +146,31 @@ Das kantonale Laboratorium[^11-1] ist zuständig für den Vollzug des Lebensmitt
 <sup>1</sup> Das kantonale Veterinäramt[^12-1] ist zuständig für:
 
 - a) die Überwachung der Tierproduktion;
-
 - b) die Bewilligungserteilung für den Betrieb der Schlachtanlagen;
-
 - c) die generelle Kontrolle der Schlachtanlagen;
-
 - d) die Kontrolle der Schlachttier- und Fleischuntersuchung nach der Schlachtung;
-
 - e) die Kontrolle von Fleischzerlegungs- und -verarbeitungsbetrieben.
 
 <sup>2</sup> Das kantonale Laboratorium[^12-2] und das kantonale Veterinäramt listen die Zerlegungs- und Verarbeitungsbetriebe auf, welche vom kantonalen Veterinäramt zu kontrollieren sind.
 
 [^12-1]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
-[^12-2]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit 1.01.2011 3
-[^12-3]: Aufgehoben gemäss Verordnung über die Aufhebung und Änderung grossrätlicher Verordnungen im Zusammenhang mit dem Erlass des Verwaltungsrechtspflegegesetzes; AGS 2006, KA 2006\_5018; am 1. Januar 2007 in Kraft getreten.
-
-### III. …
-
-[^12-3]
-
-[^hIII123-1]: Aufgehoben gemäss Verordnung über die Aufhebung und Änderung grossrätlicher Verordnungen im Zusammenhang mit dem Erlass des Verwaltungsrechtspflegegesetzes; AGS 2006, KA 2006\_5018; am 1. Januar 2007 in Kraft getreten.
+[^12-2]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
 
 #### Art. 13
 
-[^hIII123-1]
+**…**
 
 #### Art. 14
 
-**…[^14-1]**
+**…**
 
-[^14-1]: Aufgehoben gemäss Verordnung über die Aufhebung und Änderung grossrätlicher Verordnungen im Zusammenhang mit dem Erlass des Verwaltungsrechtspflegegesetzes; AGS 2006, KA 2006\_5018; am 1. Januar 2007 in Kraft getreten.
-[^14-2]: Nummerierung gemäss Verordnung über die Aufhebung und Änderung grossrätlicher Verordnungen im Zusammenhang mit dem Erlass des Verwaltungsrechtspflegegesetzes; AGS 2006, KA 2006\_5018; am 1. Januar 2007 in Kraft getreten.
-
-### III. Strafverfahren
-
-[^14-2]
+## 3. Strafverfahren
 
 #### Art. 15
 
 **Strafverfolgung**
 
-Die Organe der Lebensmittelkontrolle haben die Eigenschaft von Beamten der gerichtlichen Polizei.
+<sup>1</sup> Die Organe der Lebensmittelkontrolle haben die Eigenschaft von Beamten der gerichtlichen Polizei.
 
 #### Art. 16
 
@@ -191,44 +178,41 @@ Die Organe der Lebensmittelkontrolle haben die Eigenschaft von Beamten der geric
 
 <sup>1</sup> Bussen werden vom zuständigen Departement erlassen.
 
-<sup>2</sup>[^16-1]Für das Verfahren gelten die Bestimmungen über das Strafverfahren vor Verwaltungsbehörden.
-
-[^16-1]: Fassung gemäss VO über die Aufhebung und Anpassung von grossrätlichen Verordnungen im Zusammenhang mit dem Inkrafttreten der Strafprozessordnung und des kantonalen Einführungsgesetzes Artikel 2 Ziffer 6, AGS 2010, KA 4806; am 1. Januar 2011 in Kraft getreten
+<sup>2</sup> Für das Verfahren gelten die Bestimmungen über das Strafverfahren vor Verwaltungsbehörden.
 
 #### Art. 17
 
 **Strafurteile**
 
-Die Gerichte haben Urteile über Widerhandlungen gegen die Lebensmittelgesetzgebung dem kantonalen Laboratorium[^17-1] bzw. dem kantonalen Veterinäramt[^17-2] zuzustellen.
+<sup>1</sup> Die Gerichte haben Urteile über Widerhandlungen gegen die Lebensmittelgesetzgebung dem kantonalen Laboratorium[^17-1] bzw. dem kantonalen Veterinäramt[^17-2] zuzustellen.
 
 [^17-1]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
-[^17-2]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit 4 1.01.2011
-[^17-3]: Nummerierung gemäss Verordnung über die Aufhebung und Änderung grossrätlicher Verordnungen im Zusammenhang mit dem Erlass des Verwaltungsrechtspflegegesetzes; AGS 2006, KA 2006\_5018; am 1. Januar 2007 in Kraft getreten.
+[^17-2]: Nunmehr Amt für Lebensmittelsicherheit und Tiergesundheit
 
-### IV. Schlussbestimmungen
-
-[^17-3]
+## 4. Schlussbestimmungen
 
 #### Art. 18
 
 **Ausführungsbestimmungen**
 
-Die Regierung erlässt die erforderlichen Ausführungsbestimmungen.
+<sup>1</sup> Die Regierung erlässt die erforderlichen Ausführungsbestimmungen.
 
 #### Art. 19
 
 **Aufhebung von Erlassen**
 
-Mit dem Inkrafttreten der Verordnung werden alle mit ihr in Widerspruch stehenden Erlasse, insbesondere die kantonale Lebensmittelverordnung vom 30. Mai 1941[^19-1], die Verordnung betreffend den Verkehr mit essbaren Pilzen vom 30. Mai 1934[^19-2] sowie Art. 9 Abs. 2 Ziff. 1 der Verordnung über das Verwaltungsstrafverfahren vom 28. Mai 1975[^19-3] aufgehoben.
+<sup>1</sup> Mit dem Inkrafttreten der Verordnung werden alle mit ihr in Widerspruch stehenden Erlasse, insbesondere die kantonale Lebensmittelverordnung vom 30. Mai 1941[^19-1], die Verordnung betreffend den Verkehr mit essbaren Pilzen vom 30. Mai 1934[^19-2] sowie Artikel 9 Absatz 2 Ziffer 1 der Verordnung über das Verwaltungsstrafverfahren vom 28. Mai 1975[^19-3] aufgehoben.
 
 [^19-1]: RB 932; AGS 1958, 196
 [^19-2]: aRB 945
-[^19-3]: BR 350.490
+[^19-3]: BR [350.490](https://www.gr-lex.gr.ch/data/350.490/de)
 
 #### Art. 20
 
 **Inkrafttreten**
 
-Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^20-1] dieser Verordnung.
+<sup>1</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^20-1] dieser Verordnung.
 
-[^20-1]: Mit RB vom 12. März 1996 auf den 1. Juli 1996 in Kraft gesetzt 1.01.2011 5
+[^20-1]: Mit RB vom 12. März 1996 auf den 1. Juli 1996 in Kraft gesetzt.
+
+-
