@@ -5,11 +5,12 @@ title: "Ordinaziun tar la lescha davart l'assicuranza da malsauns e la reducziun
 short: OEtLARP
 language: rm
 version: 2026-01-01
+corrected: 2026-10-07
 version_adopted: 2025-12-16
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3891/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3606/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -42,7 +43,7 @@ relaschada da la regenza ils 22 da november 2011
 
 <sup>3</sup> Las vischnancas infurmeschan lur abitantas e lur abitants sco er las persunas cun obligaziun da s'assicurar ch'èn annunziadas a basa d'ina activitad da gudogn en Svizra u a basa da la retratga da prestaziuns da l'assicuranza svizra da dischoccupads, las qualas vivan en in stadi commember da l'uniun europeica u da la AECL, periodicamain davart l'obligaziun da s'assicurar. En spezial dattan ellas attenziun che persunas che vegnan natiers da nov, che geniturs da novnaschids sco er che persunas pensiunadas che partan d'in stadi commember da la UE u da la AECL vegnian infurmads a temp davart l'obligaziun da s'assicurar.
 
-<sup>4</sup> Las vischnancas ston trametter las datas da las persunas ch'èn liberadas da l'obligaziun da s'assicurar mintgamai per ils 30 da zercladur e per ils 31 da december sin via electronica a l'Uffizi da sanadad (uffizi).
+<sup>4</sup> Las vischnancas ston trametter las datas da las persunas ch'èn liberadas da l'obligaziun da s'assicurar mintgamai per ils 30 da zercladur e per ils 31 da december sin via electronica a l'uffizi da sanadad (uffizi).
 
 #### Art. 2
 
@@ -133,7 +134,7 @@ relaschada da la regenza ils 22 da november 2011
 
 **Post d'annunzia**
 
-<sup>1</sup> Furnituras e furniturs da prestaziuns che refusan da furnir prestaziuns tenor la Lescha federala davart l'assicuranza da malsauns[^11-1] ston annunziar la recusaziun en scrit a l'Uffizi da sanadad.
+<sup>1</sup> Furnituras e furniturs da prestaziuns che refusan da furnir prestaziuns tenor la lescha federala davart l'assicuranza da malsauns[^11-1] ston annunziar la recusaziun en scrit a l'uffizi da sanadad.
 
 [^11-1]: CS [832.10](https://db.clex.ch/link/Bund/832.10/rm)
 
@@ -237,7 +238,7 @@ relaschada da la regenza ils 22 da november 2011
 
 **3. persunas cun contribuziuns da maternitad**
 
-<sup>1</sup> Suenter l'annunzia da l'Uffizi da fatgs socials vegn la premia da persunas cun contribuziuns da maternitad reducida cumplettamain a partir da l'emprim di dal mais suandant, e quai per la durada fixada da l'Uffizi da fatgs socials.
+<sup>1</sup> Suenter l'annunzia da l'uffizi dal servetsch social vegn la premia da persunas cun contribuziuns da maternitad reducida cumplettamain a partir da l'emprim di dal mais suandant, e quai per la durada fixada da l'uffizi dal servetsch social.
 
 #### Art. 21
 

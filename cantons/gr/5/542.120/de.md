@@ -5,11 +5,12 @@ title: Verordnung zum Gesetz über die Krankenversicherung und die Prämienverbi
 short: VOzKPVG
 language: de
 version: 2026-01-01
+corrected: 2026-10-07
 version_adopted: 2025-12-16
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3891/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3606/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -237,7 +238,7 @@ von der Regierung erlassen am 22. November 2011
 
 **3. Personen mit Mutterschaftsbeiträgen**
 
-<sup>1</sup> Die Prämie von Personen mit Mutterschaftsbeiträgen wird ab dem ersten Tag des Folgemonats nach Meldung des Amts für Soziales während der vom Amt für Soziales festgelegten Dauer vollumfänglich verbilligt.
+<sup>1</sup> Die Prämie von Personen mit Mutterschaftsbeiträgen wird ab dem ersten Tag des Folgemonats nach Meldung des Sozialamtes während der vom Sozialamt festgelegten Dauer vollumfänglich verbilligt.
 
 #### Art. 21
 

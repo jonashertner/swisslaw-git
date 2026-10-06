@@ -5,11 +5,12 @@ title: "Ordinanza relativa alla legge sull'assicurazione malattie e la riduzione
 short: OLAMRP
 language: it
 version: 2026-01-01
+corrected: 2026-10-07
 version_adopted: 2025-12-16
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3891/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3606/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -42,7 +43,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> I comuni informano periodicamente sull'obbligo di assicurazione la popolazione residente, nonché le persone soggette all'obbligo d'assicurazione sulla base di un'attività lucrativa in Svizzera o sulla base della percezione di prestazioni dell'assicurazione svizzera contro la disoccupazione e che dimorano in uno Stato membro della Comunità europea o dell'AELS. I comuni provvedono in particolare affinché le persone recentemente immigrate, i genitori di neonati, nonché i beneficiari di rendite che si trasferiscono in uno Stato membro della CE o dell'AELS, siano informati tempestivamente sull'obbligo d'assicurazione
 
-<sup>4</sup> I comuni devono trasmettere in forma elettronica all'Ufficio della sanità (Ufficio) con scadenze il 30 giugno e il 31 dicembre, i dati delle persone esentate dall'obbligo di assicurazione.
+<sup>4</sup> I comuni devono trasmettere in forma elettronica all'Ufficio dell'igiene pubblica (Ufficio) con scadenze il 30 giugno e il 31 dicembre, i dati delle persone esentate dall'obbligo di assicurazione.
 
 #### Art. 2
 
@@ -133,7 +134,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Ufficio di notifica**
 
-<sup>1</sup> Fornitori di prestazioni che rifiutano di fornire prestazioni giusta la legge federale sull'assicurazione malattie[^11-1], sono tenuti a notificare per iscritto la ricusa all'Ufficio della sanità.
+<sup>1</sup> Fornitori di prestazioni che rifiutano di fornire prestazioni giusta la legge federale sull'assicurazione malattie[^11-1], sono tenuti a notificare per iscritto la ricusa all'Ufficio dell'igiene pubblica.
 
 [^11-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/it)
 
@@ -237,7 +238,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **3. Persone con assegni maternità**
 
-<sup>1</sup> Il premio di persone con assegni maternità viene integralmente ridotto a partire dal primo giorno del mese seguente la notifica da parte dell'Ufficio degli affari sociali, per la durata da esso stabilita.
+<sup>1</sup> Il premio di persone con assegni maternità viene integralmente ridotto a partire dal primo giorno del mese seguente la notifica da parte dell'Ufficio del servizio sociale, per la durata da esso stabilita.
 
 #### Art. 21
 
@@ -326,7 +327,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> Le domande di ammissione nei campi di specializzazione secondo il capoverso 1 vengono tenute in considerazione, purché siano complete, secondo l'ordine in cui pervengono. Fanno eccezione le domande finalizzate a garantire l'assistenza stazionaria centralizzata. Queste vengono tenute in considerazione in via prioritaria.
 
-<sup>4</sup> Al fine di garantire l'assistenza stazionaria centralizzata, l'Ufficio della sanità può eccezionalmente determinare un nuovo numero massimo nel campo di specializzazione secondo il capoverso 1, valido al massimo per sei mesi.
+<sup>4</sup> Al fine di garantire l'assistenza stazionaria centralizzata, l'Ufficio dell'igiene pubblica può eccezionalmente determinare un nuovo numero massimo nel campo di specializzazione secondo il capoverso 1, valido al massimo per sei mesi.
 
 ## 5. Disposizioni finali
 
