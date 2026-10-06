@@ -5,11 +5,12 @@ title: Verordnung über die Handelsmittelschule
 short: HMSV
 language: de
 version: 2026-07-01
+corrected: 2026-10-07
 version_adopted: 2026-06-23
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3896/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3643/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -97,13 +98,13 @@ von der Regierung erlassen am 8. November 2011
 
 <sup>1</sup> Die schriftlichen und mündlichen Abschlussprüfungen der Berufsmaturität finden vor den Sommerferien am Ende des dritten Ausbildungsjahres statt. Die schriftliche Abschlussprüfung im Fach Mathematik wird ein Jahr früher absolviert.
 
-<sup>2</sup> Den Zeitpunkt der mündlichen Abschlussprüfungen der Berufsmaturität bestimmt das Amt für Mittelschulen und Tertiärbildung unter Berücksichtigung der Vorgaben des Bundes.
+<sup>2</sup> Den Zeitpunkt der mündlichen Abschlussprüfungen der Berufsmaturität bestimmt das Amt für Höhere Bildung unter Berücksichtigung der Vorgaben des Bundes.
 
 #### Art. 7
 
 **Zulassung**
 
-<sup>1</sup> Sofern betreffend Schulbesuch keine Ausnahmebewilligung des Amts für Mittelschulen und Tertiärbildung vorliegt, erfordert die Zulassung den Besuch einer Handelsmittelschule im Kanton Graubünden während mindestens der letzten zwei Jahre vor dem Abschluss des schulischen Ausbildungsteils und mindestens eine provisorische Promotion im zweitletzten Semester vor den Abschlussprüfungen der Berufsmaturität.
+<sup>1</sup> Sofern betreffend Schulbesuch keine Ausnahmebewilligung des Amts für Höhere Bildung vorliegt, erfordert die Zulassung den Besuch einer Handelsmittelschule im Kanton Graubünden während mindestens der letzten zwei Jahre vor dem Abschluss des schulischen Ausbildungsteils und mindestens eine provisorische Promotion im zweitletzten Semester vor den Abschlussprüfungen der Berufsmaturität.
 
 <sup>2</sup> Wer die Berufsmaturitätsprüfung nicht besteht, ist einmal zur Wiederholung der Berufsmaturitätsprüfung zugelassen, unabhängig davon, ob der Unterricht zur Vorbereitung erneut besucht wird.
 
@@ -156,7 +157,7 @@ von der Regierung erlassen am 8. November 2011
 
 **Langzeitpraktikum**
 
-<sup>1</sup> Das Amt für Mittelschulen und Tertiärbildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend Ausgestaltung des einjährigen betrieblichen Langzeitpraktikums.
+<sup>1</sup> Das Amt für Höhere Bildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend Ausgestaltung des einjährigen betrieblichen Langzeitpraktikums.
 
 <sup>2</sup> Die Lernenden suchen ihren Praktikumsplatz selbst. Die Schule unterstützt die Lernenden bei der Suche nach einer Praktikumsstelle.
 

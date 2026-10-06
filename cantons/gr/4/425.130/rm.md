@@ -5,11 +5,12 @@ title: "Ordinaziun davart la scola media commerziala *"
 short: OSMC
 language: rm
 version: 2026-07-01
+corrected: 2026-10-07
 version_adopted: 2026-06-23
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3896/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3643/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -97,13 +98,13 @@ relaschada da la regenza ils 8 da november 2011
 
 <sup>1</sup> Ils examens finals da la maturitad professiunala en scrit ed a bucca han lieu avant las vacanzas da stad a la fin dal 3. onn da scolaziun. L'examen final a scrit en il rom matematica vegn absolvì in onn avant.
 
-<sup>2</sup> Il termin dals examens finals a bucca da la maturitad professiunala fixescha l'Uffizi da scolas medias e furmaziun terziara, quai resguardond las prescripziuns da la Confederaziun.
+<sup>2</sup> Il termin dals examens finals a bucca da la maturitad professiunala fixescha l'Uffizi per la furmaziun media-superiura, quai resguardond las prescripziuns da la Confederaziun.
 
 #### Art. 7
 
 **Admissiun**
 
-<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'Uffizi da scolas medias e furmaziun terziara che concerna la frequentaziun da la scola, dovri per l'admissiun la frequentaziun d'ina scola media commerziala en il chantun Grischun durant almain ils 2 ultims onns avant la terminaziun da la part scolastica da la furmaziun ed almain ina promoziun provisorica il penultim semester avant ils examens finals da la maturitad professiunala.
+<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'Uffizi per la furmaziun media-superiura che concerna la frequentaziun da la scola, dovri per l'admissiun la frequentaziun d'ina scola media commerziala en il chantun Grischun durant almain ils 2 ultims onns avant la terminaziun da la part scolastica da la furmaziun ed almain ina promoziun provisorica il penultim semester avant ils examens finals da la maturitad professiunala.
 
 <sup>2</sup> Tgi che na dumogna betg l'examen da maturitad professiunala, dastga repeter ina giada l'examen da maturitad professiunala, independentamain dal fatg, sche l'instrucziun da preparaziun vegn frequentada danovamain.
 
@@ -156,7 +157,7 @@ relaschada da la regenza ils 8 da november 2011
 
 **Praticum lung**
 
-<sup>1</sup> L'Uffizi da scolas medias e furmaziun terziara relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung dad 1 onn.
+<sup>1</sup> L'Uffizi per la furmaziun media-superiura relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung dad 1 onn.
 
 <sup>2</sup> Las emprendistas ed ils emprendists tschertgan sezs lur plazza da praticum. La scola sustegna las emprendistas ed ils emprendists a tschertgar ina plazza da praticum.
 

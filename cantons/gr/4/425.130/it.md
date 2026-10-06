@@ -5,11 +5,12 @@ title: "Ordinanza concernente la scuola media di commercio *"
 short: OSMC
 language: it
 version: 2026-07-01
+corrected: 2026-10-07
 version_adopted: 2026-06-23
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3896/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3643/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -97,13 +98,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 19 dell
 
 <sup>1</sup> Gli esami finali scritti e orali della maturità professionale si tengono prima delle vacanze estive alla fine del terzo anno di formazione. L'esame finale scritto nella materia matematica viene sostenuto un anno prima.
 
-<sup>2</sup> L'Ufficio delle scuole medie superiori e della formazione terziaria stabilisce le date degli esami finali orali della maturità professionale, tenendo conto delle direttive della Confederazione.
+<sup>2</sup> L'Ufficio della formazione medio-superiore stabilisce le date degli esami finali orali della maturità professionale, tenendo conto delle direttive della Confederazione.
 
 #### Art. 7
 
 **Ammissione**
 
-<sup>1</sup> Se per quanto concerne la frequenza della scuola non esiste un'autorizzazione d'eccezione dell'Ufficio delle scuole medie superiori e della formazione terziaria, l'ammissione presuppone la frequenza di una scuola media di commercio nel Cantone dei Grigioni almeno per i due anni precedenti la conclusione della parte scolastica della formazione e almeno una promozione provvisoria nel penultimo semestre prima degli esami finali della maturità professionale.
+<sup>1</sup> Se per quanto concerne la frequenza della scuola non esiste un'autorizzazione d'eccezione dell'Ufficio della formazione medio-superiore, l'ammissione presuppone la frequenza di una scuola media di commercio nel Cantone dei Grigioni almeno per i due anni precedenti la conclusione della parte scolastica della formazione e almeno una promozione provvisoria nel penultimo semestre prima degli esami finali della maturità professionale.
 
 <sup>2</sup> Chi non supera l'esame di maturità professionale è ammesso una volta a ripetere l'esame, indipendentemente dalla nuova frequenza delle lezioni a scopo di preparazione.
 
@@ -156,7 +157,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 19 dell
 
 **Stage di lunga durata**
 
-<sup>1</sup> L'Ufficio delle scuole medie superiori e della formazione terziaria emana in accordo con le competenti organizzazioni del mondo del lavoro, con l'Ufficio della formazione professionale, nonché con le direzioni scolastiche, istruzioni concernenti l'organizzazione dello stage aziendale di lunga durata di un anno.
+<sup>1</sup> L'Ufficio della formazione medio-superiore emana in accordo con le competenti organizzazioni del mondo del lavoro, con l'Ufficio della formazione professionale, nonché con le direzioni scolastiche, istruzioni concernenti l'organizzazione dello stage aziendale di lunga durata di un anno.
 
 <sup>2</sup> Le persone in formazione cercano da sole il loro posto di stage. La scuola sostiene le persone in formazione nella ricerca di un posto di stage.
 
