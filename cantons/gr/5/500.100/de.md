@@ -4,11 +4,12 @@ number: "500.100"
 title: Verordnung über die Gebühren im Gesundheitsbereich
 language: de
 version: 2023-11-01
+corrected: 2026-10-07
 version_adopted: 2023-10-24
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3888/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

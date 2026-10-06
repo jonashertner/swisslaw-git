@@ -4,11 +4,12 @@ number: "500.100"
 title: Ordinaziun davart las taxas per il sectur da sanadad
 language: rm
 version: 2023-11-01
+corrected: 2026-10-07
 version_adopted: 2023-10-24
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3888/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
