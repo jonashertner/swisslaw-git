@@ -5,11 +5,12 @@ title: Ausführungsbestimmungen zur Kantonalen Gewässerschutzverordnung
 short: ABzKGSchV
 language: de
 version: 2025-01-01
+corrected: 2026-10-07
 version_adopted: 2024-12-17
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/815.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3867/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -31,7 +32,7 @@ von der Regierung erlassen am 17. Dezember 2024
 
 **Delegationen**
 
-<sup>1</sup> Die Befugnis zur Erteilung der folgenden Bewilligungen wird an das Amt für Umwelt delegiert:
+<sup>1</sup> Die Befugnis zur Erteilung der folgenden Bewilligungen wird an das Amt für Natur und Umwelt delegiert:
 
 - a) Bewilligung für Wasserentnahmen gemäss Artikel 29 des Gewässerschutzgesetzes[^1-1] und Artikel 5 Absatz 1 Litera a der Kantonalen Gewässerschutzverordnung[^1-2], für welche ein Bewilligungsverfahren im Sinne von Artikel 113 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^1-3] durchgeführt wird;
 - b) Bewilligung für Wasserentnahmen gemäss Artikel 29 des Gewässerschutzgesetzes und Artikel 6 Absatz 1 Litera b der Kantonalen Gewässerschutzverordnung;
@@ -52,7 +53,7 @@ von der Regierung erlassen am 17. Dezember 2024
 
 <sup>1</sup> Ausnahmen von den Bewirtschaftungseinschränkungen im Gewässerraum nach Artikel 41c Absatz 4<sup>bis</sup> der Gewässerschutzverordnung[^2-1] in der Landwirtschaft werden durch das Amt für Landwirtschaft und Geoinformation bewilligt.
 
-<sup>2</sup> Die übrigen Ausnahmen von den Bewirtschaftungseinschränkungen im Gewässerraum werden durch das Amt für Umwelt bewilligt.
+<sup>2</sup> Die übrigen Ausnahmen von den Bewirtschaftungseinschränkungen im Gewässerraum werden durch das Amt für Natur und Umwelt bewilligt.
 
 [^2-1]: SR [814.201](https://db.clex.ch/link/Bund/814.201/de)
 

@@ -5,11 +5,12 @@ title: "Disposizioni esecutive dell'ordinanza cantonale sulla protezione delle a
 short: DEOCPAc
 language: it
 version: 2025-01-01
+corrected: 2026-10-07
 version_adopted: 2024-12-17
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/815.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3867/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3518/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -31,7 +32,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 22 dell
 
 **Deleghe**
 
-<sup>1</sup> La competenza per il rilascio delle seguenti autorizzazioni viene delegata all'Ufficio dell'ambiente:
+<sup>1</sup> La competenza per il rilascio delle seguenti autorizzazioni viene delegata all'Ufficio per la natura e l'ambiente:
 
 - a) autorizzazione per prelievi d'acqua conformemente all'articolo 29 della legge sulla protezione delle acque[^1-1] e all'articolo 5 capoverso 1 lettera a dell'ordinanza cantonale sulla protezione delle acque[^1-2], per i quali viene eseguita una procedura di autorizzazione ai sensi dell'articolo 113 della legge d'introduzione al Codice civile svizzero[^1-3];
 - b) autorizzazione per prelievi d'acqua conformemente all'articolo 29 della legge sulla protezione delle acque e all'articolo 6 capoverso 1 lettera b dell'ordinanza cantonale sulla protezione delle acque;
@@ -52,7 +53,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 22 dell
 
 <sup>1</sup> Le deroghe alle limitazioni di utilizzazione nello spazio riservato alle acque secondo l'articolo 41c capoverso 4<sup>bis</sup> dell'ordinanza sulla protezione delle acque[^2-1] nell'agricoltura vengono autorizzate dall'Ufficio per l'agricoltura e la geoinformazione.
 
-<sup>2</sup> Le rimanenti deroghe alle limitazioni di utilizzazione nello spazio riservato alle acque vengono autorizzate dall'Ufficio dell'ambiente.
+<sup>2</sup> Le rimanenti deroghe alle limitazioni di utilizzazione nello spazio riservato alle acque vengono autorizzate dall'Ufficio per la natura e l'ambiente.
 
 [^2-1]: RS [814.201](https://db.clex.ch/link/Bund/814.201/it)
 

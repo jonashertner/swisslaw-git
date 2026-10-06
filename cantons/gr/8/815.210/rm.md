@@ -5,11 +5,12 @@ title: "Disposiziuns executivas tar l'Ordinaziun chantunala davart la protecziun
 short: DEtOCPA
 language: rm
 version: 2025-01-01
+corrected: 2026-10-07
 version_adopted: 2024-12-17
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/815.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3867/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -31,7 +32,7 @@ relaschadas da la Regenza ils 17 da december 2024
 
 **Delegaziuns**
 
-<sup>1</sup> La cumpetenza da conceder las suandantas permissiuns vegn delegada a l'Uffizi d'ambient:
+<sup>1</sup> La cumpetenza da conceder las suandantas permissiuns vegn delegada a l'Uffizi per la natira e l'ambient:
 
 - a) permissiun per retratgas d'aua tenor l'artitgel 29 da la Lescha federala davart la protecziun da las auas[^1-1] e tenor l'artitgel 5 alinea 1 litera a da l'Ordinaziun chantunala davart la protecziun da las auas[^1-2], per las qualas vegn exequida ina procedura da permissiun en il senn da l'artitgel 113 da la Lescha introductiva tar il Cudesch civil svizzer[^1-3];
 - b) permissiun per retratgas d'aua tenor l'artitgel 29 da la Lescha federala davart la protecziun da las auas e tenor l'artitgel 6 alinea 1 litera b da l'Ordinaziun chantunala davart la protecziun da las auas;
@@ -52,7 +53,7 @@ relaschadas da la Regenza ils 17 da december 2024
 
 <sup>1</sup> Excepziuns da las restricziuns da cultivaziun en il spazi d'auas tenor l'artitgel 41c alinea 4<sup>bis</sup> da l'Ordinaziun federala davart la protecziun da las auas[^2-1] en l'agricultura vegnan permessas da l'Uffizi d'agricultura e da geoinfurmaziun.
 
-<sup>2</sup> Las ulteriuras excepziuns da las restricziuns da cultivaziun en il spazi d'auas vegnan permessas da l'Uffizi d'ambient.
+<sup>2</sup> Las ulteriuras excepziuns da las restricziuns da cultivaziun en il spazi d'auas vegnan permessas da l'Uffizi per la natira e l'ambient.
 
 [^2-1]: CS [814.201](https://db.clex.ch/link/Bund/814.201/rm)
 
