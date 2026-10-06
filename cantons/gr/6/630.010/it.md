@@ -5,11 +5,12 @@ title: Ordinanza relativa alla legge sulla protezione della popolazione
 short: OLCPP
 language: it
 version: 2026-01-01
+corrected: 2026-10-07
 version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/630.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3893/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3608/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -80,9 +81,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 5
 
-**Ufficio della protezione della popolazione e del militare**
+**Ufficio del militare e della protezione civile**
 
-<sup>1</sup> L'Ufficio della protezione della popolazione e del militare (Ufficio) esegue gli atti normativi in materia di protezione della popolazione e prende le misure e le decisioni necessarie, se tali compiti non sono espressamente assegnati al Governo, al Dipartimento, ad altri servizi o ai comuni dalla presente ordinanza o dalla legislazione speciale.
+<sup>1</sup> L'Ufficio del militare e della protezione civile (Ufficio) esegue gli atti normativi in materia di protezione della popolazione e prende le misure e le decisioni necessarie, se tali compiti non sono espressamente assegnati al Governo, al Dipartimento, ad altri servizi o ai comuni dalla presente ordinanza o dalla legislazione speciale.
 
 <sup>2</sup> Inoltre, esso è competente in particolare per:
 
@@ -101,9 +102,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 6
 
-**Ufficio dell'ambiente**
+**Ufficio per la natura e l'ambiente**
 
-<sup>1</sup> In relazione all'approvvigionamento con acqua potabile in situazioni di emergenza, secondo quanto previsto dalla legislazione federale sull'approvvigionamento economico del Paese, l'Ufficio dell'ambiente è competente per:
+<sup>1</sup> In relazione all'approvvigionamento con acqua potabile in situazioni di emergenza, secondo quanto previsto dalla legislazione federale sull'approvvigionamento economico del Paese, l'Ufficio per la natura e l'ambiente è competente per:
 
 - a) il coordinamento della pianificazione dell'approvvigionamento con acqua potabile in situazioni particolari e straordinarie tra i servizi cantonali e i proprietari di impianti di approvvigionamento idrico;
 - b) la consulenza a proprietari di impianti di approvvigionamento idrico in sede di allestimento delle pianificazioni regionali per l'approvvigionamento idrico;
@@ -115,7 +116,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Stato maggiore di condotta cantonale 1. Composizione**
 
-<sup>1</sup> Lo Stato maggiore di condotta cantonale è composto dal comandante della Polizia cantonale, dai capi della Sezione pompieri dell'Assicurazione fabbricati, dell'Ufficio della sanità, dell'Ufficio tecnico, dell'Ufficio foreste e pericoli naturali, dell'Ufficio dell'ambiente, dell'Ufficio veterinario e alimentare, dell'Ufficio d'informatica, dell'Ufficio del personale e dell'Ufficio della protezione della popolazione e del militare nonché da un rappresentante della Cancelleria dello Stato.
+<sup>1</sup> Lo Stato maggiore di condotta cantonale è composto dal comandante della Polizia cantonale, dai capi della Sezione pompieri dell'Assicurazione fabbricati, dell'Ufficio dell'igiene pubblica, dell'Ufficio tecnico, dell'Ufficio foreste e pericoli naturali, dell'Ufficio per la natura e l'ambiente, dell'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali, dell'Ufficio d'informatica, dell'Ufficio del personale e dell'Ufficio del militare e della protezione civile nonché da un rappresentante della Cancelleria dello Stato.
 
 <sup>2</sup> Per la prevenzione e la gestione di eventi legati a situazioni particolari o straordinarie lo Stato maggiore di condotta cantonale può rivolgersi ai rappresentanti di servizi, comuni o aziende.
 
@@ -219,7 +220,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **2. Ospedali**
 
-<sup>1</sup> Con organizzazioni d'emergenza adeguate, gli ospedali pubblici devono fare in modo di essere in grado di aumentare la loro capacità di accoglienza nella misura prescritta dall'Ufficio della sanità ed entro il termine di tempo prescritto. A tal fine è necessario allestire un piano che disciplini le procedure, le competenze e gli schemi di comunicazione previsti in caso di evento.
+<sup>1</sup> Con organizzazioni d'emergenza adeguate, gli ospedali pubblici devono fare in modo di essere in grado di aumentare la loro capacità di accoglienza nella misura prescritta dall'Ufficio dell'igiene pubblica ed entro il termine di tempo prescritto. A tal fine è necessario allestire un piano che disciplini le procedure, le competenze e gli schemi di comunicazione previsti in caso di evento.
 
 <sup>2</sup> La competenza per l'obbligo relativo allo stoccaggio e alla gestione di medicamenti e di dispositivi medici in ambito umano spetta al medico cantonale, mentre in ambito veterinario spetta al veterinario cantonale.
 

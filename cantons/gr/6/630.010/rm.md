@@ -5,11 +5,12 @@ title: Ordinaziun tar la lescha davart la protecziun da la populaziun
 short: ORtLPPC
 language: rm
 version: 2026-01-01
+corrected: 2026-10-07
 version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/630.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3893/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3608/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -80,9 +81,9 @@ relaschada da la regenza il 1. da december 2015
 
 #### Art. 5
 
-**Uffizi da protecziun da la populaziun e militar**
+**Uffizi da militar e da protecziun civila**
 
-<sup>1</sup> L'Uffizi da protecziun da la populaziun e militar (uffizi) exequescha ils relaschs da la protecziun da la populaziun e prenda las mesiras e las disposiziuns necessarias, nun che questas incumbensas sajan surdadas tras questa ordinaziun u tras la legislaziun speziala explicitamain a la Regenza, al departament, ad auters uffizis u a las vischnancas.
+<sup>1</sup> L'uffizi da militar e da protecziun civila (uffizi) exequescha ils relaschs da la protecziun da la populaziun e prenda las mesiras e las disposiziuns necessarias, nun che questas incumbensas sajan surdadas tras questa ordinaziun u tras la legislaziun speziala explicitamain a la regenza, al departament, ad auters uffizis u a las vischnancas.
 
 <sup>2</sup> Plinavant ha el en spezial las suandantas incumbensas:
 
@@ -101,9 +102,9 @@ relaschada da la regenza il 1. da december 2015
 
 #### Art. 6
 
-**Uffizi d'ambient**
+**Uffizi per la natira e l'ambient**
 
-<sup>1</sup> En connex cun il provediment d'aua da baiver en situaziuns d'urgenza en il senn da la legislaziun federala davart il provediment economic dal pajais ha l'Uffizi d'ambient las suandantas incumbensas:
+<sup>1</sup> En connex cun il provediment d'aua da baiver en situaziuns d'urgenza en il senn da la legislaziun federala davart il provediment economic dal pajais ha l'uffizi per la natira e l'ambient las suandantas incumbensas:
 
 - a) coordinar la planisaziun dal provediment d'aua da baiver en situaziuns spezialas ed extraordinarias tranter ils uffizis chantunals e las proprietarias ed ils proprietaris da stabiliments dal provediment d'aua da baiver;
 - b) cussegliar las proprietarias ed ils proprietaris da stabiliments dal provediment d'aua da baiver en connex cun l'elavuraziun da planisaziuns regiunalas dal provediment d'aua da baiver;
@@ -115,7 +116,7 @@ relaschada da la regenza il 1. da december 2015
 
 **Stab directiv chantunal 1. cumposiziun**
 
-<sup>1</sup> Al Stab directiv chantunal appartegnan la cumandanta u il cumandant da la Polizia chantunala, las manadras ed ils manaders da la partiziun Pumpiers da l'Assicuranza d'edifizis, da l'Uffizi da sanadad, da l'Uffizi da construcziun bassa, da l'Uffizi da guaud e privels da la natira, da l'Uffizi d'ambient, da l'Uffizi da veterinari e victualias, da l'Uffizi d'informatica, da l'Uffizi da persunal e da l'Uffizi da protecziun da la populaziun e militar sco er ina represchentanza da la Chanzlia chantunala.
+<sup>1</sup> Al stab directiv chantunal appartegnan la cumandanta u il cumandant da la Polizia chantunala, las manadras ed ils manaders da la partiziun Pumpiers da l'Assicuranza d'edifizis, da l'Uffizi da sanadad, da l'Uffizi da construcziun bassa, da l'Uffizi da guaud e privels da la natira, da l'Uffizi per la natira e l'ambient, da l'Uffizi per la segirezza da victualias e per la sanadad d'animals, da l'Uffizi d'informatica, da l'Uffizi da persunal e da l'Uffizi da militar e da protecziun civila sco er ina represchentanza da la Chanzlia chantunala.
 
 <sup>2</sup> Per la prevenziun e per la liquidaziun d'eveniments da las situaziuns spezialas u extraordinarias po il stab directiv engaschar las represchentantas ed ils represchentants necessaris d'uffizis, da vischnancas u da manaschis.
 
@@ -219,7 +220,7 @@ relaschada da la regenza il 1. da december 2015
 
 **2. ospitals**
 
-<sup>1</sup> Cun agid d'organisaziuns d'urgenza adattadas ston ils ospitals publics garantir ch'els possian augmentar lur capacitad da recepziun en la dimensiun prescritta da l'Uffizi da sanadad ed entaifer il temp prescrit. Per quest intent sto vegnir fatg in concept che regla tge proceduras, tge cumpetenzas e tge vias da communicaziun ch'èn planisadas en cas d'in eveniment.
+<sup>1</sup> Cun agid d'organisaziuns d'urgenza adattadas ston ils ospitals publics garantir ch'els possian augmentar lur capacitad da recepziun en la dimensiun prescritta da l'uffizi da sanadad ed entaifer il temp prescrit. Per quest intent sto vegnir fatg in concept che regla tge proceduras, tge cumpetenzas e tge vias da communicaziun ch'èn planisadas en cas d'in eveniment.
 
 <sup>2</sup> La responsabladad per l'obligaziun da magasinar e d'administrar medicaments e products medicinals ha la media chantunala u il medi chantunal per il sectur uman e la veterinaria chantunala u il veterinari chantunal per il sectur veterinar.
 

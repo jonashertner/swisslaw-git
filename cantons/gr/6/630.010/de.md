@@ -5,11 +5,12 @@ title: Verordnung zum Bevölkerungsschutzgesetz
 short: VOzBSG
 language: de
 version: 2026-01-01
+corrected: 2026-10-07
 version_adopted: 2025-12-16
 adopted: 2015-12-01
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/630.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3893/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3608/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -80,9 +81,9 @@ von der Regierung erlassen am 1. Dezember 2015
 
 #### Art. 5
 
-**Amt für Bevölkerungsschutz und Militär**
+**Amt für Militär und Zivilschutz**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär (Amt) vollzieht die Erlasse des Bevölkerungsschutzes und trifft die notwendigen Massnahmen und Verfügungen, sofern diese Aufgaben in dieser Verordnung oder in der Spezialgesetzgebung nicht ausdrücklich der Regierung, dem Departement, anderen Dienststellen oder den Gemeinden übertragen sind.
+<sup>1</sup> Das Amt für Militär und Zivilschutz (Amt) vollzieht die Erlasse des Bevölkerungsschutzes und trifft die notwendigen Massnahmen und Verfügungen, sofern diese Aufgaben in dieser Verordnung oder in der Spezialgesetzgebung nicht ausdrücklich der Regierung, dem Departement, anderen Dienststellen oder den Gemeinden übertragen sind.
 
 <sup>2</sup> Ihm obliegen zudem insbesondere:
 
@@ -101,9 +102,9 @@ von der Regierung erlassen am 1. Dezember 2015
 
 #### Art. 6
 
-**Amt für Umwelt**
+**Amt für Natur und Umwelt**
 
-<sup>1</sup> Dem Amt für Umwelt obliegt im Zusammenhang mit der Trinkwasserversorgung in Notlagen im Sinne der Bundesgesetzgebung über die wirtschaftliche Landesversorgung:
+<sup>1</sup> Dem Amt für Natur und Umwelt obliegt im Zusammenhang mit der Trinkwasserversorgung in Notlagen im Sinne der Bundesgesetzgebung über die wirtschaftliche Landesversorgung:
 
 - a) die Koordination der Planung der Trinkwasserversorgung in besonderen und ausserordentlichen Lagen zwischen den kantonalen Fachstellen und den Eigentümerinnen und Eigentümern von Trinkwasserversorgungsanlagen;
 - b) die Beratung der Eigentümerinnen und Eigentümer von Trinkwasserversorgungsanlagen bei der Erstellung von regionalen Wasserversorgungsplanungen;
@@ -115,7 +116,7 @@ von der Regierung erlassen am 1. Dezember 2015
 
 **Kantonaler Führungsstab 1. Zusammensetzung**
 
-<sup>1</sup> Dem kantonalen Führungsstab gehören der Kommandant beziehungsweise die Kommandantin der Kantonspolizei, die Leiter beziehungsweise die Leiterinnen der Abteilung Feuerwehr der Gebäudeversicherung, des Gesundheitsamts, des Tiefbauamts, des Amts für Wald und Naturgefahren, des Amts für Umwelt, des Veterinär- und Lebensmittelamts, des Amts für Informatik, des Personalamts und des Amts für Bevölkerungsschutz und Militär sowie eine Vertretung der Standeskanzlei an.
+<sup>1</sup> Dem kantonalen Führungsstab gehören der Kommandant beziehungsweise die Kommandantin der Kantonspolizei, die Leiter beziehungsweise die Leiterinnen der Abteilung Feuerwehr der Gebäudeversicherung, des Gesundheitsamts, des Tiefbauamts, des Amts für Wald und Naturgefahren, des Amts für Natur und Umwelt, des Amts für Lebensmittelsicherheit und Tiergesundheit, des Amts für Informatik, des Personalamts und des Amts für Militär und Zivilschutz sowie eine Vertretung der Standeskanzlei an.
 
 <sup>2</sup> Der Führungsstab kann für die Vorsorge und die Bewältigung von Ereignissen der besonderen oder ausserordentlichen Lagen benötigte Vertreter beziehungsweise Vertreterinnen von Dienststellen, Gemeinden oder Betrieben beiziehen.
 
