@@ -3,11 +3,11 @@ sr: "0.232.121.4"
 title: "Acte de Genève du 2 juillet 1999 de l'Arrangement de La Haye concernant l'enregistrement international des dessins et modèles industriels"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/98"
 language: fr
-version: 2024-08-21
+version: 2026-10-07
 adopted: 1999-07-02
 in_force: 2003-12-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20240821/fr/xml/fedlex-data-admin-ch-eli-cc-2004-98-20240821-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20240821/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20261007/fr/xml/fedlex-data-admin-ch-eli-cc-2004-98-20261007-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20261007/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 septembre 2002
 
 Entré en vigueur pour la Suisse le 23 décembre 2003
 
-(État le 21 août 2024)
+(État le 7 octobre 2026)
 
 [^t-1]: [RO 2004 839](https://fedlex.data.admin.ch/eli/oc/2004/97)
 
@@ -68,13 +68,13 @@ Au sens du présent Acte, il faut entendre par
 - [tab] xxviii) «Bureau international», le Bureau international de l’Organisation;
 - [tab] xxix) «instrument de ratification», également les instruments d’acceptation ou d’approbation.
 
-[^1-1]: [RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
-[^1-2]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^1-3]: [RS **11** 988, [RO 1971 270](https://fedlex.data.admin.ch/eli/oc/1971/266_270_270), [1975 1598](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598), [1984 886](https://fedlex.data.admin.ch/eli/oc/1984/886_886_886), [1987 587](https://fedlex.data.admin.ch/eli/oc/1987/587_587_587), [2004 3885](https://fedlex.data.admin.ch/eli/oc/2004/540), [2009 3635](https://fedlex.data.admin.ch/eli/oc/2009/453). [RO 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)].
-[^1-4]: [RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
+[^1-1]: [RS 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)
+[^1-2]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^1-3]: [[RS 11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4723)988, [RO 1971 270](https://fedlex.data.admin.ch/eli/oc/1971/266_270_270), [1975 1598](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598), [1984 886](https://fedlex.data.admin.ch/eli/oc/1984/886_886_886), [1987 587](https://fedlex.data.admin.ch/eli/oc/1987/587_587_587), [2004 3885](https://fedlex.data.admin.ch/eli/oc/2004/540), [2009 3635](https://fedlex.data.admin.ch/eli/oc/2009/453). [RO 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)].
+[^1-4]: [RS 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)
 [^1-5]: [[RO 1962 1613](https://fedlex.data.admin.ch/eli/oc/1962/1555_1613_1635), [1975 1598](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598), [1977 225](https://fedlex.data.admin.ch/eli/oc/1977/225_225_225), [1979 157](https://fedlex.data.admin.ch/eli/oc/1979/157_157_157). [RO 2010 405](https://fedlex.data.admin.ch/eli/oc/2010/48)].
-[^1-6]: [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)
-[^1-7]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)
+[^1-6]: [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)
+[^1-7]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)
 
 #### Art. 2
 
@@ -84,7 +84,7 @@ Au sens du présent Acte, il faut entendre par
 
 \2) [*Obligation de se conformer à la Convention de Paris*] Chaque Partie contractante se conforme aux dispositions de la Convention de Paris qui concernent les dessins et modèles industriels.
 
-[^2-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1C
+[^2-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)annexe 1C
 
 ## Chapitre I Demande internationale et enregistrement international
 
@@ -619,12 +619,13 @@ Le Directeur général est le dépositaire du présent Acte.
 
 (Suivent les signatures)
 
-Champ d’application le 21 août 2024[^t-2]
+Champ d’application le 7 octobre 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>19 février</td><td>2007 A</td><td>19 mai</td><td>2007</td></tr>
 <tr><td>Allemagne</td><td>13 novembre</td><td>2009</td><td>13 février</td><td>2010</td></tr>
+<tr><td>Arabie Saoudite</td><td>7 janvier</td><td>2025 A</td><td>7 avril</td><td>2025</td></tr>
 <tr><td>Arménie</td><td>13 avril</td><td>2007 A</td><td>13 juillet</td><td>2007</td></tr>
 <tr><td>Azerbaïdjan</td><td>8 septembre</td><td>2010 A</td><td>8 décembre</td><td>2010</td></tr>
 <tr><td>Bélarus</td><td>19 avril</td><td>2021 A</td><td>19 juillet</td><td>2021</td></tr>
@@ -645,6 +646,7 @@ Champ d’application le 21 août 2024[^t-2]
 <tr><td>[tab] Groenland</td><td>11 octobre</td><td>2010</td><td>11 janvier</td><td>2011</td></tr>
 <tr><td>Îles Féroé</td><td>13 janvier</td><td>2016</td><td>13 avril</td><td>2016</td></tr>
 <tr><td>Égypte</td><td>27 mai</td><td>2004 A</td><td>27 août</td><td>2004</td></tr>
+<tr><td>El Salvador</td><td>7 juillet</td><td>2026 A</td><td>10 juillet</td><td>2026</td></tr>
 <tr><td>Espagne\*</td><td>23 septembre</td><td>2003</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Estonie</td><td>21 mars</td><td>2002</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>États-Unis</td><td>13 février</td><td>2015</td><td>13 mai</td><td>2015</td></tr>
@@ -661,6 +663,7 @@ Champ d’application le 21 août 2024[^t-2]
 <tr><td>Jamaïque</td><td>10 novembre</td><td>2021 A</td><td>10 février</td><td>2022</td></tr>
 <tr><td>Japon</td><td>13 février</td><td>2015 A</td><td>13 mai</td><td>2015</td></tr>
 <tr><td>Kirghizistan</td><td>17 février</td><td>2003 A</td><td>23 décembre</td><td>2003</td></tr>
+<tr><td>Laos</td><td>14 juillet</td><td>2026 A</td><td>14 octobre</td><td>2026</td></tr>
 <tr><td>Lettonie</td><td>26 avril</td><td>2005</td><td>26 juillet</td><td>2005</td></tr>
 <tr><td>Liechtenstein\*</td><td>11 août</td><td>2003 A</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Lituanie</td><td>26 juin</td><td>2008 A</td><td>26 septembre</td><td>2008</td></tr>
@@ -677,6 +680,8 @@ Champ d’application le 21 août 2024[^t-2]
 <tr><td>Norvège</td><td>17 mars</td><td>2010 A</td><td>17 juin</td><td>2010</td></tr>
 <tr><td>Oman</td><td>4 décembre</td><td>2008 A</td><td>4 mars</td><td>2009</td></tr>
 <tr><td>Organisation africaine de la propriété intellectuelle (OAPI)</td><td>16 juin</td><td>2008 A</td><td>16 septembre</td><td>2008</td></tr>
+<tr><td>Organisation eurasienne des brevets (OEAB)</td><td>10 juillet</td><td>2026 A</td><td>10 octobre</td><td>2026</td></tr>
+<tr><td>Ouzbékistan</td><td>10 octobre</td><td>2024 A</td><td>10 janvier</td><td>2025</td></tr>
 <tr><td>Pays-Bas\*</td><td>18 septembre</td><td>2018</td><td>18 décembre</td><td>2018</td></tr>
 <tr><td>Pologne</td><td>2 avril</td><td>2009 A</td><td>2 juillet</td><td>2009</td></tr>
 <tr><td>Roumanie</td><td>11 mai</td><td>2001</td><td>23 décembre</td><td>2003</td></tr>
@@ -702,7 +707,7 @@ Champ d’application le 21 août 2024[^t-2]
 <tr><td>Ukraine</td><td>28 mai</td><td>2002 A</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Union européenne (UE)</td><td>24 septembre</td><td>2007 A</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
 <tr><td>Vietnam</td><td>30 septembre</td><td>2019 A</td><td>30 décembre</td><td>2019</td></tr>
-<tr><td colspan="5"><sup>a</sup> L’acte de Genève ne s’applique pas à Hong Kong et Macao. \* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int/](http://www.wipo.int/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int/](http://www.wipo.int/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’acte de Genève ne s’applique pas à Hong Kong et Macao.</td></tr>
 </table>
 
-[^t-2]: [RO 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530); [2024 443](https://fedlex.data.admin.ch/eli/oc/2024/443). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty
+[^t-2]: [RO 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530); [2024 443](https://fedlex.data.admin.ch/eli/oc/2024/443); [2026 539](https://fedlex.data.admin.ch/eli/oc/2026/539). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

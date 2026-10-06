@@ -3,11 +3,11 @@ sr: "0.232.121.4"
 title: "Atto di Ginevra del 2 luglio 1999 relativo all'Accordo dell'Aja concernente la registrazione internazionale dei disegni e modelli industriali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/98"
 language: it
-version: 2024-08-21
+version: 2026-10-07
 adopted: 1999-07-02
 in_force: 2003-12-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20240821/it/xml/fedlex-data-admin-ch-eli-cc-2004-98-20240821-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20240821/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20261007/it/xml/fedlex-data-admin-ch-eli-cc-2004-98-20261007-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20261007/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 2 luglio 1999 Approvato dall’Assemblea federale l’11 giugno 2001[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 settembre 2002 Entrato in vigore per la Svizzera il 23 dicembre 2003
 
-(Stato 21 agosto 2024)
+(Stato 7 ottobre 2026)
 
 [^t-1]: [RU 2004 839](https://fedlex.data.admin.ch/eli/oc/2004/97)
 
@@ -62,13 +62,13 @@ Ai sensi del presente Atto si intende per:
 - [tab] xxviii) «Ufficio internazionale», l’Ufficio internazionale dell’Organizzazione;
 - [tab] xxix) «strumento di ratifica», anche gli strumenti d’accettazione o d’approvazione.
 
-[^1-1]: [RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
-[^1-2]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^1-1]: [RS 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)
+[^1-2]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^1-3]: [CS **11** 1005; [RU 1971 270](https://fedlex.data.admin.ch/eli/oc/1971/266_270_270), [1975 1598](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598), [1984 886](https://fedlex.data.admin.ch/eli/oc/1984/886_886_886), [1987 587](https://fedlex.data.admin.ch/eli/oc/1987/587_587_587), [2004 3885](https://fedlex.data.admin.ch/eli/oc/2004/540), [2009 3635](https://fedlex.data.admin.ch/eli/oc/2009/453). [RU 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
-[^1-4]: [RS 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
+[^1-4]: [RS 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)
 [^1-5]: [[RU 1962 1635](https://fedlex.data.admin.ch/eli/oc/1962/1555_1613_1635), [1975 1598](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598), [1977 225](https://fedlex.data.admin.ch/eli/oc/1977/225_225_225), [1979 157](https://fedlex.data.admin.ch/eli/oc/1979/157_157_157). [RU 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
-[^1-6]: [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)
-[^1-7]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)
+[^1-6]: [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)
+[^1-7]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)
 
 #### Art. 2
 
@@ -78,7 +78,7 @@ Ai sensi del presente Atto si intende per:
 
 \2) [*Obbligazione di conformarsi alla Convenzione di Parigi*] Ogni Parte contraente si conforma alle disposizioni della Convenzione di Parigi relative ai disegni e modelli industriali.
 
-[^2-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1C
+[^2-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), All. 1C
 
 ## Capitolo I: Domanda internazionale e registrazione internazionale
 
@@ -619,11 +619,12 @@ Il Direttore generale è il depositario del presente Atto.
 
 (Seguono le firme)
 
-Campo d’applicazione il 21 agosto 2024[^t-2]
+Campo d’applicazione il 7 ottobre 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>19 febbraio</td><td>2007 A</td><td>19 maggio</td><td>2007</td></tr>
+<tr><td>Arabia Saudita</td><td>7 gennaio</td><td>2025 A</td><td>7 aprile</td><td>2025</td></tr>
 <tr><td>Armenia</td><td>13 aprile</td><td>2007 A</td><td>13 luglio</td><td>2007</td></tr>
 <tr><td>Azerbaigian</td><td>8 settembre</td><td>2010 A</td><td>8 dicembre</td><td>2010</td></tr>
 <tr><td>Belgio\*</td><td>7 giugno</td><td>2013</td><td>18 dicembre</td><td>2018</td></tr>
@@ -644,6 +645,7 @@ Campo d’applicazione il 21 agosto 2024[^t-2]
 <tr><td>Faeröer, Isole</td><td>13 gennaio</td><td>2016</td><td>13 aprile</td><td>2016</td></tr>
 <tr><td>Groenlandia</td><td>11 ottobre</td><td>2010</td><td>11 gennaio</td><td>2011</td></tr>
 <tr><td>Egitto</td><td>27 maggio</td><td>2004 A</td><td>27 agosto</td><td>2004</td></tr>
+<tr><td>El Salvador</td><td>7 luglio</td><td>2026 A</td><td>10 luglio</td><td>2026</td></tr>
 <tr><td>Estonia</td><td>21 marzo</td><td>2002</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Finlandia</td><td>1° febbraio</td><td>2011 A</td><td>1° maggio</td><td>2011</td></tr>
 <tr><td>Francia</td><td></td><td></td><td></td><td></td></tr>
@@ -658,6 +660,7 @@ Campo d’applicazione il 21 agosto 2024[^t-2]
 <tr><td>Israele</td><td>3 ottobre</td><td>2019 A</td><td>3 gennaio</td><td>2020</td></tr>
 <tr><td>Italia</td><td>14 dicembre</td><td>2023</td><td>14 marzo</td><td>2024</td></tr>
 <tr><td>Kirghizistan</td><td>17 febbraio</td><td>2003 A</td><td>23 dicembre</td><td>2003</td></tr>
+<tr><td>Laos</td><td>14 luglio</td><td>2026 A</td><td>14 ottobre</td><td>2026</td></tr>
 <tr><td>Lettonia</td><td>26 aprile</td><td>2005</td><td>26 luglio</td><td>2005</td></tr>
 <tr><td>Liechtenstein\*</td><td>11 agosto</td><td>2003 A</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Lituania</td><td>26 giugno</td><td>2008 A</td><td>26 settembre</td><td>2008</td></tr>
@@ -673,7 +676,8 @@ Campo d’applicazione il 21 agosto 2024[^t-2]
 <tr><td>Namibia</td><td>31 marzo</td><td>2004 A</td><td>30 giugno</td><td>2004</td></tr>
 <tr><td>Norvegia</td><td>17 marzo</td><td>2010 A</td><td>17 giugno</td><td>2010</td></tr>
 <tr><td>Oman</td><td>4 dicembre</td><td>2008 A</td><td>4 marzo</td><td>2009</td></tr>
-<tr><td>Organisation africaine de la propriété intellectuelle (OAPI)</td><td>16 giugno</td><td>2008 A</td><td>16 settembre</td><td>2008</td></tr>
+<tr><td>Organizzazione africana della proprietà intellettuale (OAPI)</td><td>16 giugno</td><td>2008 A</td><td>16 settembre</td><td>2008</td></tr>
+<tr><td>Organizzazione euroasiatica dei brevetti (EAPO)</td><td>10 luglio</td><td>2026 A</td><td>10 ottobre</td><td>2026</td></tr>
 <tr><td>Paesi Bassi\*</td><td>18 settembre</td><td>2018</td><td>18 dicembre</td><td>2018</td></tr>
 <tr><td>Polonia</td><td>2 aprile</td><td>2009 A</td><td>2 luglio</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>13 marzo</td><td>2018</td><td>13 giugno</td><td>2018</td></tr>
@@ -701,8 +705,9 @@ Campo d’applicazione il 21 agosto 2024[^t-2]
 <tr><td>Ucraina</td><td>28 maggio</td><td>2002 A</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Ungheria</td><td>1° febbraio</td><td>2004</td><td>1° maggio</td><td>2004</td></tr>
 <tr><td>Unione europea (UE)</td><td>24 settembre</td><td>2007 A</td><td>1° gennaio</td><td>2008</td></tr>
+<tr><td>Uzbekistan</td><td>10 ottobre</td><td>2024 A</td><td>10 gennaio</td><td>2025</td></tr>
 <tr><td>Vietnam</td><td>30 settembre</td><td>2019 A</td><td>30 dicembre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: [www.wipo.int/](http://www.wipo.int/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> L’Atto di Ginevra non si applica a Hong Kong e Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: [www.wipo.int/](http://www.wipo.int/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI www.wipo.int %3e Français %3e Trouver et découvrir %3e Traités administrés par l’OMPI , oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> L’Atto di Ginevra non si applica a Hong Kong e Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530); [2024 443](https://fedlex.data.admin.ch/eli/oc/2024/443). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530); [2024 443](https://fedlex.data.admin.ch/eli/oc/2024/443); [2026 539](https://fedlex.data.admin.ch/eli/oc/2026/539). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

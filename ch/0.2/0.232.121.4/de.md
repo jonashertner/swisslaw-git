@@ -3,11 +3,11 @@ sr: "0.232.121.4"
 title: Genfer Akte vom 2. Juli 1999 des Haager Abkommens über die internationale Eintragung gewerblicher Muster und Modelle
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/98"
 language: de
-version: 2024-08-21
+version: 2026-10-07
 adopted: 1999-07-02
 in_force: 2003-12-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20240821/de/xml/fedlex-data-admin-ch-eli-cc-2004-98-20240821-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20240821/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20261007/de/xml/fedlex-data-admin-ch-eli-cc-2004-98-20261007-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20261007/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. September 2002
 
 In Kraft getreten für die Schweiz am 23. Dezember 2003
 
-(Stand am 21. August 2024)
+(Stand am 7. Oktober 2026)
 
 [^t-1]: [AS 2004 839](https://fedlex.data.admin.ch/eli/oc/2004/97)
 
@@ -68,13 +68,13 @@ Im Sinne dieses Abkommens bedeutet:
 - [tab] xxviii) «Internationales Büro» das Internationale Büro der Organisation.
 - [tab] xxix) «Ratifikationsurkunde» inklusive die Annahme- oder Zustimmungsurkunden.
 
-[^1-1]: [SR 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
-[^1-2]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^1-1]: [SR 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)
+[^1-2]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^1-3]: [BS **11** 1045; [AS 1971 266](https://fedlex.data.admin.ch/eli/oc/1971/266_270_270); [1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598); [1984 886](https://fedlex.data.admin.ch/eli/oc/1984/886_886_886); [1987 587](https://fedlex.data.admin.ch/eli/oc/1987/587_587_587); [2004 3885](https://fedlex.data.admin.ch/eli/oc/2004/540); [2009 3635](https://fedlex.data.admin.ch/eli/oc/2009/453). [AS 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
-[^1-4]: [SR 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
+[^1-4]: [SR 0.232.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1075)
 [^1-5]: [[AS 1962 1555](https://fedlex.data.admin.ch/eli/oc/1962/1555_1613_1635); [1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598); [1975 1797](https://fedlex.data.admin.ch/eli/oc/1975/1797_1797_1797); [1977 225](https://fedlex.data.admin.ch/eli/oc/1977/225_225_225); [1979 157](https://fedlex.data.admin.ch/eli/oc/1979/157_157_157). [AS 2010 405](https://fedlex.data.admin.ch/eli/oc/2010/48)]
-[^1-6]: [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)
-[^1-7]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)
+[^1-6]: [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)
+[^1-7]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)
 
 #### Art. 2
 
@@ -84,7 +84,7 @@ Im Sinne dieses Abkommens bedeutet:
 
 \2) [*Verpflichtung zur Erfüllung der Pariser Verbandsübereinkunft*] Jede Vertragspartei muss die Bestimmungen der Pariser Verbandsübereinkunft betreffend die gewerblichen Muster und Modelle einhalten.
 
-[^2-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1C
+[^2-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
 
 ## Kapitel I Internationale Anmeldung und internationale Eintragung
 
@@ -618,10 +618,11 @@ Der Generaldirektor ist Verwahrer dieses Abkommens.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 21. August 2024[^t-2]
+Geltungsbereich am 7. Oktober 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>[tab] Afrikanische Organisation für Geistiges Eigentum (OAPI)</td><td>16. Juni</td><td>2008 B</td><td>16. September</td><td>2008</td></tr>
 <tr><td>Ägypten</td><td>27. Mai</td><td>2004 B</td><td>27. August</td><td>2004</td></tr>
 <tr><td>Albanien</td><td>19. Februar</td><td>2007 B</td><td>19. Mai</td><td>2007</td></tr>
 <tr><td>Armenien</td><td>13. April</td><td>2007 B</td><td>13. Juli</td><td>2007</td></tr>
@@ -639,7 +640,9 @@ Geltungsbereich am 21. August 2024[^t-2]
 <tr><td>Färöer</td><td>13. Januar</td><td>2016</td><td>13. April</td><td>2016</td></tr>
 <tr><td>Grönland</td><td>11. Oktober</td><td>2010</td><td>11. Januar</td><td>2011</td></tr>
 <tr><td>Deutschland</td><td>13. November</td><td>2009</td><td>13. Februar</td><td>2010</td></tr>
+<tr><td>El Salvador</td><td>7. Juli</td><td>2026 B</td><td>10. Juli</td><td>2026</td></tr>
 <tr><td>Estland</td><td>21. März</td><td>2002</td><td>23. Dezember</td><td>2003</td></tr>
+<tr><td>Eurasische Patentorganisation (EAPO)</td><td>10. Juli</td><td>2026 B</td><td>10. Oktober</td><td>2026</td></tr>
 <tr><td>Europäische Union (EU)</td><td>24. September</td><td>2007 B</td><td>1. Januar</td><td>2008</td></tr>
 <tr><td>Finnland</td><td>1. Februar</td><td>2011 B</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Frankreich</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
@@ -658,6 +661,7 @@ Geltungsbereich am 21. August 2024[^t-2]
 <tr><td>Korea (Nord-)</td><td>13. Juni</td><td>2016 B</td><td>13. September</td><td>2016</td></tr>
 <tr><td>Korea (Süd-)</td><td>31. März</td><td>2014 B</td><td>1. Juli</td><td>2014</td></tr>
 <tr><td>Kroatien</td><td>12. Januar</td><td>2004</td><td>12. April</td><td>2004</td></tr>
+<tr><td>Laos</td><td>14. Juli</td><td>2026 B</td><td>14. Oktober</td><td>2026</td></tr>
 <tr><td>Lettland</td><td>26. April</td><td>2005</td><td>26. Juli</td><td>2005</td></tr>
 <tr><td>Liechtenstein\*</td><td>11. August</td><td>2003 B</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Litauen</td><td>26. Juni</td><td>2008 B</td><td>26. September</td><td>2008</td></tr>
@@ -674,7 +678,6 @@ Geltungsbereich am 21. August 2024[^t-2]
 <tr><td>Nordmazedonien</td><td>22. Dezember</td><td>2005 B</td><td>22. März</td><td>2006</td></tr>
 <tr><td>Norwegen</td><td>17. März</td><td>2010 B</td><td>17. Juni</td><td>2010</td></tr>
 <tr><td>Oman</td><td>4. Dezember</td><td>2008 B</td><td>4. März</td><td>2009</td></tr>
-<tr><td>[tab] Organisation africaine de la propriété intellectuelle (OAPI)</td><td>16. Juni</td><td>2008 B</td><td>16. September</td><td>2008</td></tr>
 <tr><td>Polen</td><td>2. April</td><td>2009 B</td><td>2. Juli</td><td>2009</td></tr>
 <tr><td>Ruanda</td><td>31. Mai</td><td>2011 B</td><td>31. August</td><td>2011</td></tr>
 <tr><td>Rumänien</td><td>11. Mai</td><td>2001</td><td>23. Dezember</td><td>2003</td></tr>
@@ -682,6 +685,7 @@ Geltungsbereich am 21. August 2024[^t-2]
 <tr><td>Samoa</td><td>2. Oktober</td><td>2019 B</td><td>2. Januar</td><td>2020</td></tr>
 <tr><td>San Marino</td><td>26. Oktober</td><td>2018 B</td><td>26. Januar</td><td>2019</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>8. September</td><td>2008 B</td><td>8. Dezember</td><td>2008</td></tr>
+<tr><td>Saudi-Arabien</td><td>7. Januar</td><td>2025 B</td><td>7. April</td><td>2025</td></tr>
 <tr><td>Schweiz</td><td>11. September</td><td>2002</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Serbien</td><td>9. September</td><td>2009 B</td><td>9. Dezember</td><td>2009</td></tr>
 <tr><td>Singapur</td><td>17. Januar</td><td>2005 B</td><td>17. April</td><td>2005</td></tr>
@@ -696,13 +700,14 @@ Geltungsbereich am 21. August 2024[^t-2]
 <tr><td>Turkmenistan</td><td>16. Dezember</td><td>2015 B</td><td>16. März</td><td>2016</td></tr>
 <tr><td>Ukraine</td><td>28. Mai</td><td>2002 B</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Ungarn</td><td>1. Februar</td><td>2004</td><td>1. Mai</td><td>2004</td></tr>
+<tr><td>Usbekistan</td><td>10. Oktober</td><td>2024 B</td><td>10. Januar</td><td>2025</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>13. März</td><td>2018</td><td>13. Juni</td><td>2018</td></tr>
 <tr><td>Guernsey</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
 <tr><td>Insel Man</td><td>13. März</td><td>2018</td><td>13. Juni</td><td>2018</td></tr>
 <tr><td>Vereinigte Staaten</td><td>13. Februar</td><td>2015</td><td>13. Mai</td><td>2015</td></tr>
 <tr><td>Vietnam</td><td>30. September</td><td>2019 B</td><td>30. Dezember</td><td>2019</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Trouver et decouvrir &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Genfer Akte gilt nicht für Hongkong und Macao.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Trouver et decouvrir &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Genfer Akte gilt nicht für Hongkong und Macao.</td></tr>
 </table>
 
-[^t-2]: [AS 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530); [2024 443](https://fedlex.data.admin.ch/eli/oc/2024/443). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530); [2024 443](https://fedlex.data.admin.ch/eli/oc/2024/443); [2026 539](https://fedlex.data.admin.ch/eli/oc/2026/539). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
