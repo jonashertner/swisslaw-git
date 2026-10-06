@@ -5,11 +5,12 @@ title: Verordnung zum Gesundheitsgesetz
 short: VOzGesG
 language: de
 version: 2025-01-01
+corrected: 2026-10-07
 version_adopted: 2025-02-18
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3887/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3535/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -39,12 +40,12 @@ von der Regierung erlassen am 20. Juni 2017
 <sup>2</sup> Die Gesundheitsförderung und Prävention im Schulbereich obliegt:
 
 - a) im Kindergarten- und Volksschulbereich dem Amt für Volksschule und Sport;
-- b) im Mittel- und Hochschulbereich dem Amt für Mittelschulen und Tertiärbildung;
+- b) im Mittel- und Hochschulbereich dem Amt für höhere Bildung;
 - c) in der Berufsschule dem Amt für Berufsbildung.
 
-<sup>3</sup> Die sekundäre und tertiäre Suchtprävention obliegt dem Amt für Soziales.
+<sup>3</sup> Die sekundäre und tertiäre Suchtprävention obliegt dem Sozialamt.
 
-<sup>4</sup> Der Gesundheitsschutz im Sinne der Arbeitsgesetzgebung und der Unfallversicherungsgesetzgebung obliegt, soweit er den Kanton betrifft, dem Amt für Arbeit.
+<sup>4</sup> Der Gesundheitsschutz im Sinne der Arbeitsgesetzgebung und der Unfallversicherungsgesetzgebung obliegt, soweit er den Kanton betrifft, dem Amt für Industrie, Gewerbe und Arbeit.
 
 [^1-1]: BR [500.000](https://www.gr-lex.gr.ch/data/500.000/de)
 
