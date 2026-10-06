@@ -4,12 +4,12 @@ number: "910.050"
 title: "Ordinaziun davart l'agricultura"
 language: rm
 version: 2012-12-01
-corrected: 2016-02-10
+corrected: 2026-10-07
 version_adopted: 2012-09-25
 adopted: 2000-03-28
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/910.050"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2606/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2659/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -51,7 +51,7 @@ relaschada dal cussegl grond ils 28 da mars 2000[^ingress-3]
 
 **b) ulteriuras autoritads**
 
-<sup>1</sup> L'autoritad da surveglianza è il departament da giustia, polizia e sanadad. Las autoritads da stimaziun èn las cumissiuns da stimaziun.
+<sup>1</sup> L'autoritad da surveglianza è il departament da giustia, segirezza e sanadad. Las autoritads da stimaziun èn las cumissiuns da stimaziun.
 
 #### Art. 3
 

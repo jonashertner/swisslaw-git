@@ -4,12 +4,12 @@ number: "910.050"
 title: Landwirtschaftsverordnung
 language: de
 version: 2012-12-01
-corrected: 2016-02-10
+corrected: 2026-10-07
 version_adopted: 2012-09-25
 adopted: 2000-03-28
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/910.050"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2606/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2659/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -51,7 +51,7 @@ vom Grossen Rat erlassen am 28. März 2000[^ingress-3]
 
 **b) Weitere Behörden**
 
-<sup>1</sup> Aufsichtsbehörde ist das Justiz-, Polizei- und Sanitätsdepartement. Schätzungsbehörden sind die Schätzungskommissionen.
+<sup>1</sup> Aufsichtsbehörde ist das Departement für Justiz, Sicherheit und Gesundheit. Schätzungsbehörden sind die Schätzungskommissionen.
 
 #### Art. 3
 

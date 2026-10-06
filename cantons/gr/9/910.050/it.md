@@ -4,12 +4,12 @@ number: "910.050"
 title: "Ordinanza sull'agricoltura"
 language: it
 version: 2012-12-01
-corrected: 2016-02-10
+corrected: 2026-10-07
 version_adopted: 2012-09-25
 adopted: 2000-03-28
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/910.050"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2606/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2659/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -51,7 +51,7 @@ ai sensi dell'art. 15 cpv. 3 e 4 della Costituzione cantonale[^ingress-2] nonch�
 
 **b) Altre autorità**
 
-<sup>1</sup> Il Dipartimento di giustizia, polizia e sanità è l'autorità di vigilanza. Le autorità di stima sono le commissioni di stima.
+<sup>1</sup> Il Dipartimento di giustizia, sicurezza e sanità è l'autorità di vigilanza. Le autorità di stima sono le commissioni di stima.
 
 #### Art. 3
 
