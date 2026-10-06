@@ -4,11 +4,12 @@ number: "915.100"
 title: Lescha da meglieraziun dal chantun Grischun
 language: rm
 version: 2025-12-31
+corrected: 2026-10-07
 version_adopted: 2025-04-24
 adopted: 1981-04-05
 in_force: 1981-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/915.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3871/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -69,7 +70,7 @@ acceptada dal pievel ils 5 d'avrigl 1981[^ingress-1]
 
 **Cumpetenza da determinar il territori cumpiglià**
 
-<sup>1</sup> Il territori cumpiglià vegn determinà da l'uffizi chantunal cumpetent en enclegientscha cun las suprastanzas communalas. Sch'i na dat nagina cunvegna, decida il Departament d'economia publica e fatgs socials.
+<sup>1</sup> Il territori cumpiglià vegn determinà da l'uffizi chantunal cumpetent en enclegientscha cun las suprastanzas communalas. Sch'i na dat nagina cunvegna, decida il departament da l'intern e da l'economia publica.
 
 <sup>2</sup> Analogamain èsi d'agir tar midadas dal territori cumpiglià. Tar las meglieraziuns che vegnan realisadas d'ina associaziun entra en quest cas la suprastanza da l'associaziun empè da la suprastanza communala.
 
@@ -580,6 +581,6 @@ acceptada dal pievel ils 5 d'avrigl 1981[^ingress-1]
 - a) declerar per applitgablas tschertas prescripziuns dals chapitels I fin III da questa lescha;
 - b) declerar ils chapitels I fin III da questa lescha per applitgabels en lur cumplaina dimensiun per meglieraziuns ch'èn vegnidas concludidas dals proprietaris da bains immobigliars suenter ils 31 da december 1976.
 
-<sup>3</sup> Ils statuts da las interpresas existentas ston vegnir inoltrads al Departament d'economia publica e fatgs socials per l'examinaziun, e quai entaifer in onn suenter l'entrada en vigur da questa lescha.
+<sup>3</sup> Ils statuts da las interpresas existentas ston vegnir inoltrads al departament da l'intern e da l'economia publica per l'examinaziun, e quai entaifer in onn suenter l'entrada en vigur da questa lescha.
 
 -
