@@ -4,13 +4,13 @@ number: "544.320"
 title: Disposizioni esecutive della legge cantonale sulle prestazioni complementari
 short: DELCPC
 language: it
-version: 2017-01-01
-corrected: 2019-02-01
-version_adopted: 2016-06-13
+version: 2021-01-01
+corrected: 2026-10-07
+version_adopted: 2020-11-17
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/544.320"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2694/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3095/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2694/pdf_file"
 
 (DELCPC)
 
-del 27.11.2007 (stato 01.01.2017)
+del 27.11.2007 (stato 01.01.2021)
 
 emanate dal Governo il 27 novembre 2007
 
@@ -47,7 +47,7 @@ visto l'art. 20 della legge cantonale sulle prestazioni complementari[^ingress-1
 
 - a) alla persona avente diritto o eventualmente al suo rappresentante;
 - b) alla persona o all'autorità che ha inoltrato il modulo d'annuncio e ne era competente;
-- c) all'agenzia AVS competente.
+- c) all'agenzia AVS competente, se i corrispondenti dati non sono consultabili in forma elettronica.
 
 ## 2. Rimborso delle spese di malattia e d'invalidità
 
@@ -115,9 +115,11 @@ visto l'art. 20 della legge cantonale sulle prestazioni complementari[^ingress-1
 
 #### Art. 9
 
-**Spese in caso di soggiorno temporaneo in un ospedale**
+**Spese in caso di soggiorno temporaneo in istituto o in ospedale**
 
-<sup>1</sup> In caso di soggiorno temporaneo in un ospedale, la partecipazione ai costi secondo l'articolo 64 capoverso 5 della legge federale sull'assicurazione malattie (LAMal)[^9-1] non viene rimborsata.
+<sup>1</sup> Le spese per soggiorni temporanei in un istituto o in un ospedale secondo l'articolo 14 capoverso 1 lettera b<sup>bis</sup> LPC vengono rimborsate.
+
+<sup>2</sup> In caso di soggiorni temporanei in un ospedale, non viene rimborsata la partecipazione ai costi secondo l'articolo 64 capoverso 5 della legge federale sull'assicurazione malattie (LAMal)[^9-1].
 
 [^9-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/it)
 
@@ -125,11 +127,11 @@ visto l'art. 20 della legge cantonale sulle prestazioni complementari[^ingress-1
 
 **Spese di cure e soggiorni rigeneratori**
 
-<sup>1</sup> Per le spese di vitto e di alloggio in case di cura riconosciute dall'associazione di categoria degli assicuratori malattia svizzeri santésuisse per cure prescritte dal medico in seguito a un soggiorno ospedaliero, viene considerata una retta giornaliera di al massimo 160 franchi. Viene computata un'adeguata franchigia per il vitto ed eventuali prestazioni di terzi.
+<sup>1</sup> Per le spese di vitto e di alloggio in case di cura riconosciute dall'associazione di categoria degli assicuratori malattia svizzeri santésuisse per cure prescritte dal medico in seguito a un soggiorno ospedaliero, viene considerata una retta giornaliera di al massimo 160 franchi. Viene computata un'adeguata franchigia per il vitto ed eventuali prestazioni di terzi. Vengono rimborsati al massimo 21 giorni per anno civile.
 
 <sup>2</sup> Le spese per soggiorni rigeneratori per lo sgravio di congiunti vengono considerate se il soggiorno avviene presso un istituto o un ospedale riconosciuto.
 
-<sup>3</sup> Vengono rimborsati al massimo 21 giorni per anno civile.
+<sup>3</sup> …
 
 #### Art. 11
 
@@ -208,7 +210,7 @@ visto l'art. 20 della legge cantonale sulle prestazioni complementari[^ingress-1
 
 **Spese per appartamenti protetti**
 
-<sup>1</sup> Le rette giornaliere per le spese dell'assistenza di base conformemente all'articolo 29a della legge sulla cura degli ammalati e per le spese supplementari risultanti dall'appartamento adatto agli anziani conformemente all'articolo 29b della legge sulla cura degli ammalati vengono rimborsate, fino a un importo massimo di dieci franchi ciascuna, ai beneficiari di prestazioni complementari che vivono in una struttura con appartamenti protetti riconosciuta conformemente all'articolo 29c della legge sulla cura degli ammalati e che ricevono prestazioni di cura, di assistenza o di economia domestica da parte di un servizio di cura e assistenza a domicilio o da parte di un infermiere diplomato riconosciuto.
+<sup>1</sup> Le rette giornaliere per le spese dell'assistenza di base conformemente all'articolo 46 della legge sulla cura degli ammalati e per le spese supplementari risultanti dall'appartamento adatto agli anziani conformemente all'articolo 47 della legge sulla cura degli ammalati vengono rimborsate, fino a un importo massimo di dieci franchi ciascuna, ai beneficiari di prestazioni complementari che vivono in una struttura con appartamenti protetti riconosciuta conformemente all'articolo 48 della legge sulla cura degli ammalati e che ricevono prestazioni di cura, di assistenza o di economia domestica da parte di un servizio di cura e assistenza a domicilio o da parte di un infermiere diplomato riconosciuto.
 
 #### Art. 17
 
@@ -216,7 +218,7 @@ visto l'art. 20 della legge cantonale sulle prestazioni complementari[^ingress-1
 
 <sup>1</sup> Le spese di trasporto comprovate vengono rimborsate se dovute a seguito di un trasporto d'urgenza o di un altro trasferimento necessario in Svizzera.
 
-<sup>2</sup> Vengono rimborsate anche le spese comprovate per trasporti verso il più vicino luogo dove vengono prestate cure mediche. Vengono rimborsate le spese che corrispondono ai prezzi dei mezzi di trasporto pubblici (2a classe) per viaggi per la via più diretta. Se a causa del suo handicap l'assicurato dipende dall'utilizzo di un altro mezzo di trasporto, vengono rimborsate le spese per quest'ultimo. Per veicoli privati vengono rimborsati al massimo 70 centesimi al chilometro.
+<sup>2</sup> Vengono rimborsate anche le spese comprovate per trasporti verso il più vicino luogo dove vengono prestate cure mediche, se il corrispondente trattamento è elencato nell'articolo 14 capoverso 1 LPC. Vengono rimborsate le spese che corrispondono ai prezzi dei mezzi di trasporto pubblici (2a classe) per viaggi per la via più diretta. Se a causa del suo handicap l'assicurato dipende dall'utilizzo di un altro mezzo di trasporto, vengono rimborsate le spese per quest'ultimo. Per veicoli privati vengono rimborsati al massimo 70 centesimi al chilometro.
 
 <sup>3</sup> Le strutture diurne secondo l'articolo 16 sono equiparate ai luoghi dove vengono prestate cure mediche ai sensi del capoverso 2.
 
@@ -265,6 +267,23 @@ visto l'art. 20 della legge cantonale sulle prestazioni complementari[^ingress-1
 - a) ogni cambiamento della situazione personale;
 - b) ogni cambiamento di indirizzo;
 - c) ogni cambiamento sostanziale del reddito o della sostanza del quale viene a conoscenza.
+
+<sup>4</sup> Per lo scambio di dati, la Cassa di compensazione AVS mette l'applicazione apposita (ZAP) a disposizione delle agenzie AVS.
+
+#### Art. 19a
+
+**Scambio di dati con gli assicuratori malattia**
+
+<sup>1</sup> Conformemente all'articolo 6 dell'ordinanza relativa alla legge sull'assicurazione malattie e la riduzione dei premi (OLAMRP)[^19a-1], l'Istituto delle assicurazioni sociali del Cantone dei Grigioni è competente per lo scambio di dati con gli assicuratori malattia secondo l'articolo 54a capoverso 5<sup>bis</sup> dell'ordinanza sulle prestazioni complementari all'assicurazione per la vecchiaia, i superstiti e l'invalidità (OPC-AVS/AI)[^19a-2].
+
+[^19a-1]: CSC [542.120](https://www.gr-lex.gr.ch/data/542.120/it)
+[^19a-2]: RS [831.301](https://db.clex.ch/link/Bund/831.301/it)
+
+#### Art. 19b
+
+**Collaborazione dell'Amministrazione cantonale delle imposte**
+
+<sup>1</sup> L'Amministrazione cantonale delle imposte mette i dati del programma informatico di tassazione necessari per l'esecuzione delle prestazioni complementari a disposizione della Cassa di compensazione AVS tramite una procedura di richiamo.
 
 ## 4. Disposizioni finali
 

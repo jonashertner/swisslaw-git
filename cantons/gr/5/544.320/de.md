@@ -4,13 +4,13 @@ number: "544.320"
 title: Ausführungsbestimmungen zum kantonalen Gesetz über Ergänzungsleistungen
 short: ABzKELG
 language: de
-version: 2017-01-01
-corrected: 2019-02-01
-version_adopted: 2016-06-13
+version: 2021-01-01
+corrected: 2026-10-07
+version_adopted: 2020-11-17
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/544.320"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2694/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2694/pdf_file"
 
 (ABzKELG)
 
-Vom 27.11.2007 (Stand 01.01.2017)
+Vom 27.11.2007 (Stand 01.01.2021)
 
 Gestützt auf Art. 20 des kantonalen Gesetzes über Ergänzungsleistungen[^ingress-1]
 
@@ -47,7 +47,7 @@ von der Regierung erlassen am 27. November 2007
 
 - a) der anspruchsberechtigten Person oder allenfalls ihrer Vertretung;
 - b) derjenigen Person oder Behörde, welche das Anmeldeformular eingereicht hat und hiefür zuständig war;
-- c) der zuständigen AHV-Zweigstelle.
+- c) der zuständigen AHV-Zweigstelle, sofern die entsprechenden Daten nicht elektronisch abrufbar sind.
 
 ## 2. Vergütung der Krankheits- und Behinderungskosten
 
@@ -115,9 +115,11 @@ von der Regierung erlassen am 27. November 2007
 
 #### Art. 9
 
-**Kosten bei vorübergehendem Aufenthalt in einem Spital**
+**Kosten bei vorübergehendem Heim- oder Spitalaufenthalt**
 
-<sup>1</sup> Bei vorübergehendem Aufenthalt in einem Spital wird die Kostenbeteiligung nach Artikel 64 Absatz 5 des Bundesgesetzes über die Krankenversicherung (KVG)[^9-1] nicht vergütet.
+<sup>1</sup> Kosten für vorübergehende Aufenthalte in einem anerkannten Heim oder Spital nach Artikel 14 Absatz 1 Buchstabe b<sup>bis</sup> ELG werden vergütet.
+
+<sup>2</sup> Nicht vergütet wird bei vorübergehenden Aufenthalten in einem Spital die Kostenbeteiligung nach Artikel 64 Absatz 5 des Bundesgesetzes über die Krankenversicherung (KVG)[^9-1].
 
 [^9-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
@@ -125,11 +127,11 @@ von der Regierung erlassen am 27. November 2007
 
 **Kosten von Erholungskuren und -aufenthalte**
 
-<sup>1</sup> Bei Unterkunfts- und Verpflegungskosten für ärztlich verordnete Kuren nach einem Spitalaufenthalt in Kurhäusern, die vom Branchenverband der schweizerischen Krankenversicherer santésuisse anerkannt sind, wird höchstens eine Tagestaxe von 160 Franken berücksichtigt. Ein angemessener Selbstbehalt für Verpflegung und allfällige Leistungen Dritter werden angerechnet.
+<sup>1</sup> Bei Unterkunfts- und Verpflegungskosten für ärztlich verordnete Kuren nach einem Spitalaufenthalt in Kurhäusern, die vom Branchenverband der schweizerischen Krankenversicherer santésuisse anerkannt sind, wird höchstens eine Tagestaxe von 160 Franken berücksichtigt. Ein angemessener Selbstbehalt für Verpflegung und allfällige Leistungen Dritter werden angerechnet. Vergütet werden höchstens 21 Tage pro Kalenderjahr.
 
 <sup>2</sup> Kosten von Erholungsaufenthalten zur Entlastung von Angehörigen werden berücksichtigt, wenn der Aufenthalt in einem anerkannten Heim oder Spital erfolgt.
 
-<sup>3</sup> Vergütet werden höchstens 21 Tage pro Kalenderjahr.
+<sup>3</sup> …
 
 #### Art. 11
 
@@ -208,7 +210,7 @@ von der Regierung erlassen am 27. November 2007
 
 **Kosten für betreutes Wohnen**
 
-<sup>1</sup> Die Tagestaxen für die Kosten der Grundbetreuung gemäss Artikel 29a des Krankenpflegegesetzes und für die Mehrkosten der altersgerechten Wohnung gemäss Artikel 29b des Krankenpflegegesetzes werden den Bezügerinnen und Bezügern von Ergänzungsleistungen bis zum maximalen Betrag von je zehn Franken vergütet, wenn sie in einer anerkannten Einrichtung des betreuten Wohnens gemäss Artikel 29c des Krankenpflegegesetzes leben und pflegerische, betreuerische oder hauswirtschaftliche Leistungen durch einen Dienst der häuslichen Pflege und Betreuung oder durch eine anerkannte Pflegefachperson beziehen.
+<sup>1</sup> Die Tagestaxen für die Kosten der Grundbetreuung gemäss Artikel 46 des Krankenpflegegesetzes und für die Mehrkosten der altersgerechten Wohnung gemäss Artikel 47 des Krankenpflegegesetzes werden den Bezügerinnen und Bezügern von Ergänzungsleistungen bis zum maximalen Betrag von je zehn Franken vergütet, wenn sie in einer anerkannten Einrichtung des betreuten Wohnens gemäss Artikel 48 des Krankenpflegegesetzes leben und pflegerische, betreuerische oder hauswirtschaftliche Leistungen durch einen Dienst der häuslichen Pflege und Betreuung oder durch eine anerkannte Pflegefachperson beziehen.
 
 #### Art. 17
 
@@ -216,7 +218,7 @@ von der Regierung erlassen am 27. November 2007
 
 <sup>1</sup> Ausgewiesene Transportkosten werden vergütet, soweit sie in der Schweiz durch einen Notfalltransport oder durch eine notwendige Verlegung entstanden sind.
 
-<sup>2</sup> Vergütet werden auch ausgewiesene Kosten für Transporte zum nächstgelegenen medizinischen Behandlungsort. Vergütet werden die Kosten, die den Preisen der öffentlichen Transportmittel (2. Klasse) für Fahrten auf dem direkten Weg entsprechen. Ist die versicherte Person wegen ihrer Behinderung auf die Benützung eines andern Transportmittels angewiesen, so werden diese Kosten vergütet. Für private Personenwagen werden höchstens 70 Rappen pro Kilometer erstattet.
+<sup>2</sup> Vergütet werden auch ausgewiesene Kosten für Transporte zum nächstgelegenen medizinischen Behandlungsort, wenn die entsprechende Behandlung in Artikel 14 Absatz 1 ELG aufgeführt ist. Vergütet werden die Kosten, die den Preisen der öffentlichen Transportmittel (2. Klasse) für Fahrten auf dem direkten Weg entsprechen. Ist die versicherte Person wegen ihrer Behinderung auf die Benützung eines andern Transportmittels angewiesen, so werden diese Kosten vergütet. Für private Personenwagen werden höchstens 70 Rappen pro Kilometer erstattet.
 
 <sup>3</sup> Tagesstrukturen nach Artikel 16 sind den medizinischen Behandlungsorten im Sinne von Absatz 2 gleichgestellt.
 
@@ -265,6 +267,23 @@ von der Regierung erlassen am 27. November 2007
 - a) jede Änderung in den persönlichen Verhältnissen;
 - b) jede Adressänderung;
 - c) jede wesentliche Änderung im Einkommen oder Vermögen, von welcher sie Kenntnis erhalten hat.
+
+<sup>4</sup> Die AHV-Ausgleichskasse stellt den AHV-Zweigstellen für den Datenaustausch die Zweigstellenapplikation (ZAP) zur Verfügung.
+
+#### Art. 19a
+
+**Datenaustausch mit Krankenversicherern**
+
+<sup>1</sup> Für den Datenaustausch mit den Krankenversicherern nach Artikel 54a Absatz 5<sup>bis</sup> der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^19a-1] ist gemäss Artikel 6 der Verordnung zum Gesetz über die Krankenversicherung und die Prämienverbilligung (VOzKPVG)[^19a-2] die Sozialversicherungsanstalt des Kantons Graubünden zuständig.
+
+[^19a-1]: SR [831.301](https://db.clex.ch/link/Bund/831.301/de)
+[^19a-2]: BR [542.120](https://www.gr-lex.gr.ch/data/542.120/de)
+
+#### Art. 19b
+
+**Mitwirkung der kantonalen Steuerverwaltung**
+
+<sup>1</sup> Die kantonale Steuerverwaltung stellt der AHV-Ausgleichskasse über ein Abrufverfahren die für den Vollzug der Ergänzungsleistungen notwendigen Daten des EDV-Veranlagungsprogramms zur Verfügung.
 
 ## 4. Schlussbestimmungen
 

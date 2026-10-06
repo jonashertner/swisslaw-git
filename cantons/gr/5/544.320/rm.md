@@ -4,13 +4,13 @@ number: "544.320"
 title: Disposiziuns executivas tar la lescha chantunala davart las prestaziuns supplementaras
 short: DEtLCPS
 language: rm
-version: 2017-01-01
-corrected: 2019-02-01
-version_adopted: 2016-06-13
+version: 2021-01-01
+corrected: 2026-10-07
+version_adopted: 2020-11-17
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/544.320"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2694/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2694/pdf_file"
 
 (DEtLCPS)
 
-dals 27-11-2007 (versiun dals 01-01-2017)
+dals 27-11-2007 (versiun dals 01-01-2021)
 
 sa basond sin l'art. 20 da la lescha chantunala davart las prestaziuns supplementaras[^ingress-1]
 
@@ -47,7 +47,7 @@ relaschadas da la regenza ils 27 da november 2007
 
 - a) a la persuna che ha il dretg da survegnir questas prestaziuns u eventualmain a sia represchentanza;
 - b) a quella persuna u a quella autoritad che ha inoltrà il formular d'annunzia e ch'era cumpetenta en chaussa;
-- c) a la filiala cumpetenta da la AVS.
+- c) a la filiala cumpetenta da la AVS, sche las datas correspundentas na pon betg vegnir consultadas sin via electronica.
 
 ## 2. Indemnisaziun dals custs pervia da malsogna e pervia d'impediments
 
@@ -115,9 +115,11 @@ relaschadas da la regenza ils 27 da november 2007
 
 #### Art. 9
 
-**Custs en cas d'ina dimora transitorica en in ospital**
+**Custs en cas d'ina dimora transitorica en ina chasa da dimora u en in ospital**
 
-<sup>1</sup> En cas d'ina dimora transitorica en in ospital na vegn la participaziun als custs tenor l'artitgel 64 alinea 5 da la lescha federala davart l'assicuranza da malsauns (LAMal)[^9-1] betg indemnisada.
+<sup>1</sup> En cas d'ina dimora transitorica en ina chasa da dimora renconuschida u en in ospital renconuschì tenor l'artitgel 14 alinea 1 litera b<sup>bis</sup> LPS vegnan indemnisads ils custs.
+
+<sup>2</sup> En cas d'ina dimora transitorica en in ospital na vegn la participaziun als custs tenor l'artitgel 64 alinea 5 da la Lescha federala davart l'assicuranza da malsauns (LAMal)[^9-1] betg indemnisada.
 
 [^9-1]: CS [832.10](https://db.clex.ch/link/Bund/832.10/rm)
 
@@ -125,11 +127,11 @@ relaschadas da la regenza ils 27 da november 2007
 
 **Custs da curas da recreaziun e da dimoras da recreaziun**
 
-<sup>1</sup> En cas da custs d'alloschi e d'alimentaziun per curas che vegnan ordinadas d'ina media u d'in medi suenter ina dimora a l'ospital vegn resguardada maximalmain ina taxa da di da 160 francs, sche quellas curas vegnan fatgas en chasas da cura ch'èn renconuschidas da la federaziun interprofessiunala da las assicuranzas svizras da malsauns santésuisse. Messas a quint vegnan ina participaziun adequata als custs da l'alimentaziun ed eventualas prestaziuns da terzas persunas.
+<sup>1</sup> En cas da custs d'alloschi e d'alimentaziun per curas che vegnan ordinadas d'ina media u d'in medi suenter ina dimora a l'ospital vegn resguardada maximalmain ina taxa da di da 160 francs, sche quellas curas vegnan fatgas en chasas da cura ch'èn renconuschidas da la federaziun interprofessiunala da las assicuranzas svizras da malsauns santésuisse. Messas a quint vegnan ina participaziun adequata als custs da l'alimentaziun ed eventualas prestaziuns da terzas persunas. Indemnisads vegnan maximalmain 21 dis per onn chalendar.
 
 <sup>2</sup> Ils custs per dimoras da recreaziun per distgargiar las confamigliaras ed ils confamigliars vegnan resguardads, sche la dimora vegn fatga en ina chasa renconuschida u en in ospital renconuschì.
 
-<sup>3</sup> I vegnan indemnisads maximalmain 21 dis per onn chalendar.
+<sup>3</sup> …
 
 #### Art. 11
 
@@ -208,7 +210,7 @@ relaschadas da la regenza ils 27 da november 2007
 
 **Custs da l'abitar assistì**
 
-<sup>1</sup> Las taxas da di per ils custs da la tgira da basa tenor l'artitgel 29a da la lescha per promover la tgira da persunas malsaunas e per ils custs supplementars d'ina abitaziun adattada a persunas attempadas tenor l'artitgel 29b da la lescha per promover la tgira da persunas malsaunas vegnan indemnisadas a las persunas che retiran prestaziuns supplementaras fin a l'import maximal da 10 francs, sch'ellas vivan en ina instituziun renconuschida da l'abitar assistì tenor l'artitgel 29c da la lescha per promover la tgira da persunas malsaunas e sch'ellas retiran prestaziuns da tgira, d'assistenza e da tegnairchasa tras in servetsch da la tgira ed assistenza a chasa u tras ina tgirunza diplomada renconuschida.
+<sup>1</sup> Las taxas da di per ils custs da la tgira da basa tenor l'artitgel 46 da la lescha per promover la tgira da persunas malsaunas e per ils custs supplementars d'ina abitaziun adattada a persunas attempadas tenor l'artitgel 47 da la lescha per promover la tgira da persunas malsaunas vegnan indemnisadas a las persunas che retiran prestaziuns supplementaras fin a l'import maximal da 10 francs, sch'ellas vivan en ina instituziun renconuschida da l'abitar assistì tenor l'artitgel 48 da la lescha per promover la tgira da persunas malsaunas e sch'ellas retiran prestaziuns da tgira, d'assistenza e da tegnairchasa tras in servetsch da la tgira ed assistenza a chasa u tras ina tgirunza diplomada renconuschida.
 
 #### Art. 17
 
@@ -216,7 +218,7 @@ relaschadas da la regenza ils 27 da november 2007
 
 <sup>1</sup> Ils custs da transport cumprovads vegnan indemnisads, uschenavant ch'els èn resultads en Svizra pervia d'in transport d'in cas d'urgenza u pervia d'ina dischlocaziun necessaria.
 
-<sup>2</sup> Indemnisads vegnan er ils custs cumprovads per transports tar il proxim lieu da tractament medicinal. Indemnisads vegnan ils custs che correspundan als custs dals meds da transport publics (2. classa) per viadis sin via directa. Sche la persuna assicurada è dependenta da l'utilisaziun d'in auter med da transport pervia da ses impediment, vegnan indemnisads quests custs. Per vehichels da persunas privats vegnan indemnisads maximalmain 70 raps per kilometer.
+<sup>2</sup> Indemnisads vegnan er ils custs cumprovads per transports tar il proxim lieu da tractament medicinal, sch'il tractament correspundent figurescha en l'artitgel 14 alinea 1 LPS. Indemnisads vegnan ils custs che correspundan als custs dals meds da transport publics (2. classa) per viadis sin via directa. Sche la persuna assicurada è dependenta da l'utilisaziun d'in auter med da transport pervia da ses impediment, vegnan indemnisads quests custs. Per vehichels da persunas privats vegnan indemnisads maximalmain 70 raps per kilometer.
 
 <sup>3</sup> Structuras dal di tenor l'artitgel 16 han il medem status sco ils lieus da tractament medicinal en il senn da l'alinea 2.
 
@@ -265,6 +267,23 @@ relaschadas da la regenza ils 27 da november 2007
 - a) mintga midada da las relaziuns persunalas;
 - b) mintga midada d'adressa;
 - c) mintga midada essenziala da las entradas u da la facultad, da la quala ella ha survegnì enconuschientscha.
+
+<sup>4</sup> Per barattar las datas metta la cassa da cumpensaziun da la AVS a disposiziun l'applicaziun da filialas (APF) a las filialas da la AVS.
+
+#### Art. 19a
+
+**Barat da datas cun las assicuranzas da malsauns**
+
+<sup>1</sup> Cumpetent per il barat da datas cun las assicuranzas da malsauns tenor l'artitgel 54a alinea 5<sup>bis</sup> da l'Ordinaziun davart las prestaziuns supplementaras tar l'assicuranza per vegls, survivents ed invaliditad (OPS-AVS/AI)[^19a-1] è tenor l'artitgel 6 da l'Ordinaziun tar la Lescha davart l'assicuranza da malsauns e la reducziun da las premias (OEtLARP)[^19a-2] l'Institut d'assicuranza sociala dal chantun Grischun.
+
+[^19a-1]: CS [831.301](https://db.clex.ch/link/Bund/831.301/rm)
+[^19a-2]: DG [542.120](https://www.gr-lex.gr.ch/data/542.120/rm)
+
+#### Art. 19b
+
+**Collavuraziun da l'Administraziun chantunala da taglia**
+
+<sup>1</sup> Sur ina procedura d'invista metta l'Administraziun chantunala da taglia a disposiziun a la cassa da cumpensaziun da la AVS las datas dal program da taxaziun dad EED ch'èn necessarias per exequir las prestaziuns supplementaras.
 
 ## 4. Disposiziuns finalas
 
