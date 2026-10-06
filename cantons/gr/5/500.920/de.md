@@ -5,12 +5,12 @@ title: Verordnung zum Gesetz über die Psychiatrischen Dienste Graubünden
 short: VzPDGRG
 language: de
 version: 2019-01-01
-corrected: 2020-04-01
+corrected: 2026-10-07
 version_adopted: 2019-11-12
 adopted: 2013-06-10
 in_force: 2013-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.920"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2982/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -45,7 +45,7 @@ von der Regierung erlassen am 10. Juni 2013
 
 **Immobilienstrategie**
 
-<sup>1</sup> Die Psychiatrischen Dienste Graubünden haben ihre Immobilienstrategie alle vier Jahre dem Departement für Justiz, Sicherheit und Gesundheit im Benehmen mit dem Bau-, Verkehrs- und Forstdepartement zur Genehmigung vorzulegen.
+<sup>1</sup> Die Psychiatrischen Dienste Graubünden haben ihre Immobilienstrategie alle vier Jahre dem Departement für Justiz, Sicherheit und Gesundheit im Benehmen mit dem Departement für Infrastruktur, Energie und Mobilität zur Genehmigung vorzulegen.
 
 ## 2. Rechnungsführung
 

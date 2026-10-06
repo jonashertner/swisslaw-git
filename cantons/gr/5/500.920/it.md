@@ -5,12 +5,12 @@ title: Ordinanza relativa alla legge sui Servizi psichiatrici dei Grigioni
 short: OSPGR
 language: it
 version: 2019-01-01
-corrected: 2020-04-01
+corrected: 2026-10-07
 version_adopted: 2019-11-12
 adopted: 2013-06-10
 in_force: 2013-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.920"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2982/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3031/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -45,7 +45,7 @@ visto l'art. 45 della Costituzione cantonale del 18 maggio/14 settembre 2003[^in
 
 **Strategia immobiliare**
 
-<sup>1</sup> Ogni quattro anni, i Servizi psichiatrici dei Grigioni devono sottoporre per approvazione la loro strategia immobiliare al Dipartimento di giustizia, sicurezza e sanità, che decide d'intesa con il Dipartimento costruzioni, trasporti e foreste.
+<sup>1</sup> Ogni quattro anni, i Servizi psichiatrici dei Grigioni devono sottoporre per approvazione la loro strategia immobiliare al Dipartimento di giustizia, sicurezza e sanità, che decide d'intesa con il Dipartimento infrastrutture, energia e mobilità.
 
 ## 2. Contabilità
 

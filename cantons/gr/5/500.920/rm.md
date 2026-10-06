@@ -5,12 +5,12 @@ title: Ordinaziun tar la lescha davart ils servetschs psichiatrics dal Grischun
 short: OtLSPGR
 language: rm
 version: 2019-01-01
-corrected: 2020-04-01
+corrected: 2026-10-07
 version_adopted: 2019-11-12
 adopted: 2013-06-10
 in_force: 2013-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.920"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2982/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -45,7 +45,7 @@ relaschada da la regenza ils 10 da zercladur 2013
 
 **Strategia d'immobiglias**
 
-<sup>1</sup> Ils servetschs psichiatrics dal Grischun ston preschentar lur strategia d'immobiglias per l'approvaziun mintga 4 onns al departament da giustia, segirezza e sanadad en enclegientscha cun il departament da construcziun, traffic e selvicultura.
+<sup>1</sup> Ils Servetschs psichiatrics dal Grischun ston preschentar lur strategia d'immobiglias per l'approvaziun mintga 4 onns al Departament da giustia, segirezza e sanadad en enclegientscha cun il Departament d'infrastructura, energia e mobilitad.
 
 ## 2. Manar la contabilitad
 
