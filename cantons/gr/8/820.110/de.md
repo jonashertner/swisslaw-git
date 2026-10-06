@@ -5,12 +5,12 @@ title: Kantonale Umweltschutzverordnung
 short: KUSV
 language: de
 version: 2025-01-01
-corrected: 2026-09-22
+corrected: 2026-10-07
 version_adopted: 2023-04-04
 adopted: 2002-08-13
 in_force: 2002-09-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3454/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -484,5 +484,82 @@ von der Regierung erlassen am 13. August 2002
 
 [^40-1]: BR [820.100](https://www.gr-lex.gr.ch/data/820.100/de)
 [^40-2]: Mit RB vom 13. August 2002 auf den 1. September 2002 in Kraft gesetzt.
+
+## A1 Anhang 1: Gewerbe- und Industrieanlagen (Art. 4 Abs. 1 lit. f)
+
+#### Art. A1-1
+
+<sup>1</sup> Die nachfolgende Aufzählung ist nicht abschliessend. Weitere Anlagen, von denen Emissionen in ähnlicher Art und ähnlichem Umfang zu erwarten sind, bedürfen ebenfalls der Zustimmung der Fachstelle und sind dieser ebenfalls zu melden:
+
+- a) Nahrungsmittelindustrie:
+  - 1\. Fleischräucherei
+  - 2\. Kaffeerösterei
+- b) Landwirtschaft:
+  - 1\. Grastrocknerei
+- c) Textilindustrie:
+  - 1\. Färberei
+  - 2\. Gerberei
+- d) Holzverarbeitung:
+  - 1\. Sägewerk
+  - 2\. Hobelwerk
+  - 3\. Schreinerei
+  - 4\. Beiz- und Polierwerkstätte
+- e) Kunststoffverarbeitung:
+  - 1\. Pulverbeschichtungswerk
+  - 2\. Spritzgusswerk
+  - 3\. Anlage zur Herstellung von Kunststoffen oder Gummiwaren
+- f) Abbau und Verarbeitung von Steinen und Erden:
+  - 1\. Steinbruch
+  - 2\. Kieswerk
+  - 3\. Zement-, Kalk-, Gipswerk
+  - 4\. Asphaltmischanlage
+  - 5\. Ziegelei
+  - 6\. Anlage zur Materialaufbereitung
+- g) Metallindustrie:
+  - 1\. Schmiede
+  - 2\. Verzinkerei
+  - 3\. Galvanikbetrieb
+  - 4\. Schlosserei
+  - 5\. Giesserei
+  - 6\. Sandstrahlanlage
+- h) Baugewerbe:
+  - 1\. Bauunternehmen mit Gerätepark
+  - 2\. Malerbetrieb
+  - 3\. Ablaugerei
+  - 4\. Grössere Baustellen
+- i) Energie:
+  - 1\. Anlagen zur Herstellung von Biogas, Klärgas und dgl.
+  - 2\. Anlagen zur energetische Nutzung von Biogas, Klärgas und dgl.
+- j) Abfallentsorgung:
+  - 1\. Abfallverbrennungsanlage
+- k) Handel:
+  - 1\. Anlagen zum Handel mit Heizöl, Diesel, Benzin oder Flüssiggas
+  - 2\. Tankstelle
+  - 3\. Anlagen für den Umschlag staubende Güter
+- l) Dienstleistungen:
+  - 1\. Pizzaofen
+  - 2\. Spritzwerke
+  - 3\. Reparaturwerkstätte für Autos
+  - 4\. Reparaturwerkstätte für andere Fahrzeuge oder Maschinen
+  - 5\. Textilreinigung
+  - 6\. Tankreinigung
+  - 7\. Krematorium
+  - 8\. Spital
+
+## A2 Anhang 2: Tierhaltungsanlagen (Art. 4 Abs. 1 lit. g)
+
+#### Art. A2-1
+
+**Innerhalb von Bauzonen**
+
+<sup>1</sup> Als Tierhaltungsanlagen, die erhebliche Luftverunreinigungen verursachen, gelten Anlagen zur Tierhaltung mit einer Kapazität für so viele Tiere, dass diese insgesamt eine Geruchsbelastung (GB) von mehr als 4 verursachen.
+
+#### Art. A2-2
+
+**Ausserhalb von Bauzonen**
+
+<sup>1</sup> Als Tierhaltungsanlagen, die erhebliche Luftverunreinigungen verursachen, gelten Anlagen zur Tierhaltung mit einer Kapazität für so viele Tiere, dass diese insgesamt eine Geruchsbelastung (GB) von mehr als 6 verursachen.
+
+<sup>2</sup> DDie Geruchsbelastung (GB) wird gemäss den geltenden Empfehlungen über Mindestabstände von Tierhaltungsbetrieben der Eidgenössischen Forschungsanstalt für Agrarwirtschaft und Landtechnik, Tänikon, aufgrund der Anzahl Tiere und der Geruchsbelastungsfaktoren für die verschiedenen Tierarten ermittelt.
 
 -
