@@ -5,11 +5,12 @@ title: Verordnung zum kantonalen Gesetz über Härtefallmassnahmen für Unterneh
 short: "Kantonale COVID-19-Härtefallverordnung 2022, KHFV 22"
 language: de
 version: 2022-01-01
+corrected: 2026-10-07
 version_adopted: 2022-05-10
 adopted: 2022-05-10
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/932.210"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3878/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -54,7 +55,7 @@ von der Regierung erlassen am 10. Mai 2022
 - a) das Departement für Volkswirtschaft und Soziales (DVS);
 - b) die Steuerverwaltung (STV);
 - c) die Finanzverwaltung (FIVE);
-- d) das Amt für Arbeit (AFA);
+- d) das Amt für Industrie, Gewerbe und Arbeit (KIGA);
 - e) die Sozialversicherungsanstalt des Kantons Graubünden (SVA);
 - f) die Finanzkontrolle (FIKO).
 
@@ -70,7 +71,7 @@ von der Regierung erlassen am 10. Mai 2022
 
 <sup>3</sup> Die FIVE übernimmt im Rahmen ihrer üblichen Zuständigkeit die Ausführung der Auszahlung.
 
-<sup>4</sup> Das AFA und die SVA erteilen dem DVS oder den von ihm mit Vollzugsaufgaben beauftragten Dritten auf Verlangen Auskunft über die Unterstützung wie Kurzarbeitsentschädigung oder Erwerbsersatz, die den entsprechenden Unternehmen im massgebenden Zeitraum geleistet wurde.
+<sup>4</sup> Das KIGA und die SVA erteilen dem DVS oder den von ihm mit Vollzugsaufgaben beauftragten Dritten auf Verlangen Auskunft über die Unterstützung wie Kurzarbeitsentschädigung oder Erwerbsersatz, die den entsprechenden Unternehmen im massgebenden Zeitraum geleistet wurde.
 
 <sup>5</sup> Die FIKO unterstützt im Rahmen ihrer Finanzaufsicht die Missbrauchsbekämpfung.
 

@@ -5,11 +5,12 @@ title: "Ordinanza relativa alla legge cantonale sui provvedimenti per i casi di 
 short: "Ordinanza cantonale sui casi di rigore COVID-19 2022, OCCR 22"
 language: it
 version: 2022-01-01
+corrected: 2026-10-07
 version_adopted: 2022-05-10
 adopted: 2022-05-10
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/932.210"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3878/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3248/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -54,7 +55,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge canto
 - a) il Dipartimento dell'economia pubblica e socialità (DEPS);
 - b) l'Amministrazione delle imposte;
 - c) l'Amministrazione delle finanze;
-- d) l'Ufficio del lavoro (ULAV);
+- d) l'Ufficio per l'industria, arti e mestieri e lavoro (UCIAML);
 - e) l'Istituto delle assicurazioni sociali del Cantone dei Grigioni (IAS);
 - f) il Controllo delle finanze.
 
@@ -70,7 +71,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge canto
 
 <sup>3</sup> Nel quadro delle sue consuete competenze, l'Amministrazione delle finanze procede al versamento.
 
-<sup>4</sup> Su richiesta, l'ULAV e l'IAS forniscono al DEPS o ai terzi da esso incaricati di compiti esecutivi informazioni sul sostegno, come l'indennità per lavoro ridotto o l'indennità per perdita di guadagno, che è stato concesso alle corrispondenti imprese nel periodo determinante.
+<sup>4</sup> Su richiesta, l'UCIAML e l'IAS forniscono al DEPS o ai terzi da esso incaricati di compiti esecutivi informazioni sul sostegno, come l'indennità per lavoro ridotto o l'indennità per perdita di guadagno, che è stato concesso alle corrispondenti imprese nel periodo determinante.
 
 <sup>5</sup> Nel quadro della propria vigilanza finanziaria il Controllo delle finanze sostiene la lotta contro gli abusi.
 

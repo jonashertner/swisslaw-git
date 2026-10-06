@@ -5,11 +5,12 @@ title: "Ordinaziun tar la Lescha chantunala davart mesiras per interpresas en ca
 short: "Ordinaziun chantunala davart COVID-19 cas da direzza 2022, OCDir 22"
 language: rm
 version: 2022-01-01
+corrected: 2026-10-07
 version_adopted: 2022-05-10
 adopted: 2022-05-10
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/932.210"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3878/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -54,7 +55,7 @@ relaschada da la Regenza ils 10 da matg 2022
 - a) il Departament d'economia publica e fatgs socials (DES);
 - b) l'Administraziun da taglia (ATa);
 - c) l'Administraziun da finanzas (AdFi);
-- d) l'Uffizi da lavur (ULAV);
+- d) l'Uffizi per industria, mastergn e lavur (UCIML);
 - e) l'Institut d'assicuranza sociala dal chantun Grischun (IAS);
 - f) la Controlla da finanzas (CFI).
 
@@ -70,7 +71,7 @@ relaschada da la Regenza ils 10 da matg 2022
 
 <sup>3</sup> La AdFi surpiglia – en il rom da sias cumpetenzas usitadas – l'execuziun dal pajament.
 
-<sup>4</sup> Il ULAV ed il IAS dattan al DES u a terzas parts che tal ha incaricà cun incumbensas executivas, sin dumonda, infurmaziuns davart il sustegn che l'interpresa correspundenta ha survegnì durant la perioda decisiva, sco ina indemnisaziun per lavur reducida u ina cumpensaziun dal gudogn.
+<sup>4</sup> Il UCIML ed il IAS dattan al DES u a terzas parts che tal ha incaricà cun incumbensas executivas, sin dumonda, infurmaziuns davart il sustegn che l'interpresa correspundenta ha survegnì durant la perioda decisiva, sco ina indemnisaziun per lavur reducida u ina cumpensaziun dal gudogn.
 
 <sup>5</sup> La CFI sustegna – en il rom da sia surveglianza da las finanzas – il cumbat cunter abus.
 
