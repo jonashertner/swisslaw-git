@@ -5,12 +5,12 @@ title: Verordnung zum Einführungsgesetz zur Interkantonalen Vereinbarung über 
 short: RVzEGzIVöB
 language: de
 version: 2022-10-01
-corrected: 2022-09-13
+corrected: 2026-10-07
 version_adopted: 2022-09-13
 adopted: 2022-07-05
 in_force: 2022-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.610"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3261/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3269/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -209,7 +209,7 @@ von der Regierung erlassen am 5. Juli 2022
 
 <sup>3</sup> Ausgenommen hiervon sind Beschaffungen der Gerichtsbehörden und des Grossen Rats.
 
-<sup>4</sup> Kantonale Behörden, die Leistungsvereinbarungen mit Trägern öffentlicher Aufgaben abschliessen, regeln in diesen auch die Einhaltung des öffentlichen Beschaffungsrechts durch die Leistungserbringer, namentlich:
+<sup>4</sup> Kantonale Behörden, die Leistungsvereinbarungen mit Trägern öffentlicher Aufgaben abschliessen, regeln in diesen auch die Einhaltung des öffentlichen Beschaffungsrechts durch diese Träger öffentlicher Aufgaben, namentlich:
 
 - a) die Pflicht zur Durchführung öffentlicher Beschaffungsverfahren in Bezug auf Aufträge im Bereich der Leistungsvereinbarung;
 - b) die Berichterstattung über die Erfüllung dieser Pflicht.
