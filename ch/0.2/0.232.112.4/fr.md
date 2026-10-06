@@ -3,11 +3,11 @@ sr: "0.232.112.4"
 title: "Protocole du 27 juin 1989 relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350"
 language: fr
-version: 2025-02-26
+version: 2026-10-07
 adopted: 1989-06-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20250226/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20250226-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20250226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20261007/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20261007-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20261007/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> février 199
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> mai 1997
 
-(État le 26 février 2025)
+(État le 7 octobre 2026)
 
 [^t-1]: RO **1997** 2350; FF **1996** II 1393 Art. 1 al. 1 let. a de l’AF du 1<sup>er</sup> oct. 1996 (RO **1997** 2283).
 
@@ -88,7 +88,7 @@ Art. 16 Signature; langues; fonctions de dépositaire
 
 Les États parties au présent Protocole (dénommés ci-après «les États contractants»), même s’ils ne sont pas parties à l’Arrangement de Madrid concernant l’enregistrement international des marques[^1-1] révisé à Stockholm en 1967 et modifié en 1979 (ci-après dénommé «l’Arrangement de Madrid (Stockholm)»), et les organisations visées à l’art. 14.1)b) qui sont parties au présent Protocole (dénommées ci-après «les organisations contractantes») sont membres de la même Union dont sont membres les pays qui sont parties à l’Arrangement de Madrid (Stockholm). Dans le présent Protocole, l’expression «parties contractantes» désigne aussi bien les États contractants que les organisations contractantes.
 
-[^1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
+[^1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
 
 #### Art. 2
 
@@ -127,8 +127,8 @@ L’Office d’origine indiquera également la date de la demande internationale
 - i) de le déclarer et d’accompagner sa demande internationale d’une mention indiquant la couleur ou la combinaison de couleurs revendiquée;
 - ii) de joindre à sa demande internationale des exemplaires en couleur de ladite marque, qui seront annexés aux notifications faites par le Bureau international; le nombre de ces exemplaires sera fixé par le règlement d’exécution.
 
-[^3-1]: [RS 0.232.112.21](https://fedlex.data.admin.ch/eli/cc/2020/338)
-[^3-2]: [RS 0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^3-1]: [RS 0.232.112.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1056)
+[^3-2]: [RS 0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 3<sup>bis</sup>
 
@@ -153,7 +153,7 @@ La protection résultant de l’enregistrement international ne s’étendra à 
 - 1) a) À partir de la date de l’enregistrement ou de l’inscription effectué selon les dispositions des art. 3 et 3<sup>ter</sup>, la protection de la marque dans chacune des parties contractantes intéressées sera la même que si cette marque avait été déposée directement auprès de l’Office de cette partie contractante. Si aucun refus n’a été notifié au Bureau international conformément à l’art. 5.1) et 2) ou si un refus notifié conformément audit article a été retiré ultérieurement, la protection de la marque dans la partie contractante intéressée sera, à partir de ladite date, la même que si cette marque avait été enregistrée par l’Office de cette partie contractante.
 - b) L’indication des classes de produits et de services prévue à l’art. 3 ne lie pas les parties contractantes quant à l’appréciation de l’étendue de la protection de la marque.
 
-[^4-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^4-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 4<sup>bis</sup>
 
@@ -193,7 +193,7 @@ La protection résultant de l’enregistrement international ne s’étendra à 
 - d) Toute déclaration selon les sous-alinéas b) ou c) peut être faite dans les instruments visés à l’art. 14.2), et la date à laquelle la déclaration prendra effet sera la même que la date d’entrée en vigueur du présent Protocole à l’égard de l’État ou de l’organisation intergouvernementale qui a fait la déclaration. Une telle déclaration peut également être faite ultérieurement, auquel cas la déclaration prendra effet trois mois après sa réception par le Directeur général de l’organisation (ci-après dénommé «le Directeur général»), ou à toute date ultérieure indiquée dans la déclaration, à l’égard des enregistrements internationaux dont la date est la même que celle à laquelle la déclaration prend effet ou est postérieure à cette date.
 - e)[^5-3] À l’expiration d’une période de dix ans à compter de l’entrée en vigueur du présent Protocole, l’Assemblée procédera à une vérification du fonctionnement du système établi par les sous-alinéas a) à d). Après cela, les dispositions desdits sous-alinéas pourront être modifiées par une décision unanime de l’Assemblée[^5-4].
 
-[^5-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^5-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^5-2]: Nouvelle teneur selon la D de l’Assemblée de l’Union de Madrid du 3 oct. 2006 ([RO 2007 2867](https://fedlex.data.admin.ch/eli/oc/2007/377)).
 [^5-3]: Nouvelle teneur selon la D de l’Assemblée de l’Union de Madrid du 3 oct. 2006 ([RO 2007 2867](https://fedlex.data.admin.ch/eli/oc/2007/377)).
 [^5-4]: Déclaration interprétative adoptée par l’Assemblée de l’Union de Madrid: «L’art. 5.2)e) du Protocole est compris comme permettant à l’Assemblée de maintenir à l’examen le fonctionnement du système institué par les sous-al. a) à d), étant entendu que toute modification desdites dispositions nécessitera une décision unanime de l’Assemblée.».
@@ -367,7 +367,7 @@ Lorsque, au cas où l’enregistrement international est radié à la requête d
 
 En ce qui concerne les parties contractantes, les finances de l’Union sont régies par les mêmes dispositions que celles qui figurent à l’art. 12 de l’Arrangement de Madrid (Stockholm), étant entendu que tout renvoi à l’article 8 dudit Arrangement est considéré comme un renvoi à l’art. 8 du présent Protocole. En outre, aux fins de l’art. 12.6)b) dudit Arrangement, les organisations contractantes sont, sous réserve d’une décision unanime contraire de l’Assemblée, considérées comme appartenant à la classe de contribution I (un) selon la Convention de Paris pour la protection de la propriété industrielle[^12-1].
 
-[^12-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^12-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 13
 
@@ -400,7 +400,7 @@ En ce qui concerne les parties contractantes, les finances de l’Union sont ré
 - 4) a) Le présent Protocole entre en vigueur trois mois après le dépôt de quatre instruments de ratification, d’acceptation, d’approbation ou d’adhésion, sous réserve qu’au moins un des ces instruments ait été déposé par un pays partie à l’Arrangement de Madrid (Stockholm) et qu’au moins un autre de ces instruments ait été déposé par un État non partie à l’Arrangement de Madrid (Stockholm) ou par une des organisations visées à l’al. 1)b).
 - b) À l’égard de tout autre État ou organisation visé à l’al. 1), le présent Protocole entre en vigueur trois mois après la date à laquelle sa ratification, son acceptation, son approbation ou son adhésion a été notifiée par le Directeur général.
 
-[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 15
 
@@ -438,7 +438,7 @@ En ce qui concerne les parties contractantes, les finances de l’Union sont ré
 
 (Suivent les signatures)
 
-Champ d’application le 26 février 2025[^t-2]
+Champ d’application le 7 octobre 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -447,6 +447,7 @@ Champ d’application le 26 février 2025[^t-2]
 <tr><td>Algérie\*</td><td>31 juillet</td><td>2015 A</td><td>31 octobre</td><td>2015</td></tr>
 <tr><td>Allemagne</td><td>20 décembre</td><td>1995</td><td>20 mars</td><td>1996</td></tr>
 <tr><td>Antigua-et-Barbuda\*</td><td>17 décembre</td><td>1999 A</td><td>17 mars</td><td>2000</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>8 juillet</td><td>2026 A</td><td>8 octobre</td><td>2026</td></tr>
 <tr><td>Arménie\*</td><td>19 juillet</td><td>2000 A</td><td>19 octobre</td><td>2000</td></tr>
 <tr><td>Australie\*</td><td>11 avril</td><td>2001 A</td><td>11 juillet</td><td>2001</td></tr>
 <tr><td>Autriche</td><td>13 janvier</td><td>1999</td><td>13 avril</td><td>1999</td></tr>
@@ -487,6 +488,7 @@ Champ d’application le 26 février 2025[^t-2]
 <tr><td>Géorgie\*</td><td>20 mai</td><td>1998 A</td><td>20 août</td><td>1998</td></tr>
 <tr><td>Ghana\*</td><td>16 juin</td><td>2008 A</td><td>16 septembre</td><td>2008</td></tr>
 <tr><td>Grèce\*</td><td>10 mai</td><td>2000 A</td><td>10 août</td><td>2000</td></tr>
+<tr><td>Grenade\*</td><td>15 décembre</td><td>2025 A</td><td>15 mars</td><td>2026</td></tr>
 <tr><td>Hongrie</td><td>3 juillet</td><td>1997</td><td>3 octobre</td><td>1997</td></tr>
 <tr><td>Inde\*</td><td>8 avril</td><td>2013 A</td><td>8 juillet</td><td>2013</td></tr>
 <tr><td>Indonésie\*</td><td>2 octobre</td><td>2017 A</td><td>2 janvier</td><td>2018</td></tr>
@@ -497,7 +499,7 @@ Champ d’application le 26 février 2025[^t-2]
 <tr><td>Italie\*</td><td>17 janvier</td><td>2000</td><td>17 avril</td><td>2000</td></tr>
 <tr><td>Jamaïque\*</td><td>27 décembre</td><td>2021 A</td><td>27 mars</td><td>2022</td></tr>
 <tr><td>Japon\*</td><td>14 décembre</td><td>1999 A</td><td>14 mars</td><td>2000</td></tr>
-<tr><td>Kazakhstan</td><td>8 septembre</td><td>2010 A</td><td>8 décembre</td><td>2010</td></tr>
+<tr><td>Kazakhstan\*</td><td>8 septembre</td><td>2010 A</td><td>8 décembre</td><td>2010</td></tr>
 <tr><td>Kenya\*</td><td>26 mars</td><td>1998 A</td><td>26 juin</td><td>1998</td></tr>
 <tr><td>Kirghizistan\*</td><td>17 mars</td><td>2004 A</td><td>17 juin</td><td>2004</td></tr>
 <tr><td>Laos\*</td><td>7 décembre</td><td>2015 A</td><td>7 mars</td><td>2016</td></tr>
@@ -535,11 +537,12 @@ Champ d’application le 26 février 2025[^t-2]
 <tr><td>Portugal</td><td>20 décembre</td><td>1996</td><td>20 mars</td><td>1997</td></tr>
 <tr><td>Qatar\*</td><td>3 mai</td><td>2024 A</td><td>3 août</td><td>2024</td></tr>
 <tr><td>République tchèque</td><td>25 juin</td><td>1996 A</td><td>25 septembre</td><td>1996</td></tr>
-<tr><td>Roumanie</td><td>28 avril</td><td>1998</td><td>28 juillet</td><td>1998</td></tr>
+<tr><td>Roumanie0.hhhhh</td><td>28 avril</td><td>1998</td><td>28 juillet</td><td>1998</td></tr>
 <tr><td>Royaume-Uni\*</td><td>6 avril</td><td>1995</td><td>1<sup>er</sup> décembre</td><td>1995</td></tr>
 <tr><td>Gibraltar</td><td>1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
-<tr><td>Guernesey\*</td><td>1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
+<tr><td>Guernesey\*</td><td>1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Île de Man\*</td><td>6 avril</td><td>1995</td><td>1<sup>er</sup> décembre</td><td>1995</td></tr>
+<tr><td>Jersey\*</td><td>12 mai</td><td>2026</td><td>1<sup>er</sup> août</td><td>2026</td></tr>
 <tr><td>Russie</td><td>10 mars</td><td>1997</td><td>10 juin</td><td>1997</td></tr>
 <tr><td>Rwanda</td><td>17 mai</td><td>2013 A</td><td>17 août</td><td>2013</td></tr>
 <tr><td>Saint-Marin\*</td><td>12 juin</td><td>2007 A</td><td>12 septembre</td><td>2007</td></tr>
@@ -565,10 +568,10 @@ Champ d’application le 26 février 2025[^t-2]
 <tr><td>Vietnam\*</td><td>11 avril</td><td>2006 A</td><td>11 juillet</td><td>2006</td></tr>
 <tr><td>Zambie\*</td><td>15 août</td><td>2001 A</td><td>15 novembre</td><td>2001</td></tr>
 <tr><td>Zimbabwe\*</td><td>11 décembre</td><td>2014 A</td><td>11 mars</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int/treaties/fr/registration/madrid\_protocol/index.html](https://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Non applicable à la région administrative spéciale de Hong Kong et à la région administrative spéciale de Macao. <sup>b</sup> Applicable aux départements et territoires d’outre-mer. <sup>c</sup> Le Protocole ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): [www.wipo.int/treaties/fr/registration/madrid\_protocol/index.html](http://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Non applicable à la région administrative spéciale de Hong Kong et à la région administrative spéciale de Macao. <sup>b</sup> Applicable aux départements et territoires d’outre-mer. <sup>c</sup> Le Protocole ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144); [2026 538](https://fedlex.data.admin.ch/eli/oc/2026/538). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

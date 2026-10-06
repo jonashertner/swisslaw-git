@@ -3,11 +3,11 @@ sr: "0.232.112.4"
 title: Protokoll vom 27. Juni 1989 zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350"
 language: de
-version: 2025-02-26
+version: 2026-10-07
 adopted: 1989-06-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20250226/de/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20250226-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20250226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20261007/de/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20261007-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20261007/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1997** 2350; BBl **1996** II 1425
 
 Abgeschlossen in Madrid am 27. Juni 1989 Von der Bundesversammlung genehmigt am 1. Oktober 1996[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Februar 1997 In Kraft getreten für die Schweiz am 1. Mai 1997
 
-(Stand am 26. Februar 2025)
+(Stand am 7. Oktober 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 1. Okt. 1996 ([AS 1997 2283](https://fedlex.data.admin.ch/eli/oc/1997/2283_2283_2283))
 
@@ -84,7 +84,7 @@ Artikel 16: Unterzeichnung; Sprachen; Aufgaben des Verwahrers
 
 Die Staaten, die Vertragsparteien dieses Protokolls sind (im folgenden als «Vertragsstaaten» bezeichnet), auch wenn sie nicht Vertragsparteien des Madrider Abkommens über die internationale Registrierung von Marken[^1-1] in der Stockholmer Fassung von 1967 mit den Änderungen von 1979 (im folgenden als «Madrider Abkommen [Stockholmer Fassung]» bezeichnet) sind, und die in Artikel 14 Absatz 1 Buchstabe b bezeichneten Organisationen, die Vertragsparteien dieses Protokolls sind (im folgenden als «Vertragsorganisationen» bezeichnet), sind Mitglieder desselben Verbands, dem die Vertragsparteien des Madrider Abkommens (Stockholmer Fassung) als Mitglieder angehören. Jede Bezugnahme in diesem Protokoll auf «Vertragsparteien» ist als Bezugnahme sowohl auf die Vertragsstaaten als auch auf die Vertragsorganisationen auszulegen.
 
-[^1-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
+[^1-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
 
 #### Art. 2
 
@@ -123,8 +123,8 @@ Jedes internationale Gesuch aufgrund dieses Protokolls ist auf dem von der Ausf�
 
 <sup>(5)</sup> Um die im internationalen Register eingetragenen Marken zur allgemeinen Kenntnis zu bringen, erhält jede Behörde vom Internationalen Büro unentgeltlich eine Anzahl von Stücken des genannten Blattes sowie eine Anzahl von Stücken zu ermässigtem Preis zu den Bedingungen, die von der in Artikel 10 genannten Versammlung (im folgenden als «Versammlung» bezeichnet) festgelegt werden. Diese Bekanntgabe gilt für die Zwecke aller Vertragsparteien als ausreichend; eine weitere Bekanntgabe darf vom Inhaber der internationalen Registrierung nicht verlangt werden.
 
-[^3-1]: [SR 0.232.112.21](https://fedlex.data.admin.ch/eli/cc/2020/338)
-[^3-2]: [SR 0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^3-1]: [SR 0.232.112.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1056)
+[^3-2]: [SR 0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Art. 3<sup>bis</sup>
 
@@ -149,7 +149,7 @@ Der Schutz aus der internationalen Registrierung erstreckt sich auf eine Vertrag
 
 <sup>(2)</sup> Jede internationale Registrierung geniesst das durch Artikel 4 der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums[^4-1] festgelegte Prioritätsrecht, ohne dass es erforderlich ist, die unter Buchstabe D jenes Artikels vorgesehenen Förmlichkeiten zu erfüllen.
 
-[^4-1]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^4-1]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 4<sup>bis</sup>
 
@@ -186,7 +186,7 @@ Der Schutz aus der internationalen Registrierung erstreckt sich auf eine Vertrag
 
 <sup>(6)</sup> Die zuständigen Behörden einer Vertragspartei dürfen die Wirkung einer internationalen Registrierung im Gebiet einer Vertragspartei nicht für ungültig erklären, ohne dem Inhaber der internationalen Registrierung Gelegenheit gegeben zu haben, seine Rechte rechtzeitig geltend zu machen. Die Ungültigerklärung ist dem Internationalen Büro mitzuteilen.
 
-[^5-1]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^5-1]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^5-2]: Fassung gemäss Beschluss der Versammlung des Madrider Verbands am 3. Okt. 2006 ([AS 2007 2867](https://fedlex.data.admin.ch/eli/oc/2007/377)).
 [^5-3]: Fassung gemäss Beschluss der Versammlung des Madrider Verbands am 3. Okt. 2006 ([AS 2007 2867](https://fedlex.data.admin.ch/eli/oc/2007/377)).
 [^5-4]: Erklärende Deklaration der Versammlung des Madrider Verbands: «Der Artikel 5.2)e) des Protokolls ist so zu verstehen, dass die Versammlung erlaubt, den Ablauf des von den Unterabsätzen a)–d) eingeführten Systems weiterzuprüfen. Es wird präzisiert, dass für jegliche Änderung dieser Bestimmungen eine einstimmige Entscheidung der Versammlung nötig ist.»
@@ -362,7 +362,7 @@ Die Versammlung hat zusätzlich zu den Aufgaben, die sie nach dem Madrider Abkom
 
 Soweit die Vertragsparteien betroffen sind, werden die Finanzen des Verbands nach denselben Bestimmungen geregelt, die in Artikel 12 des Madrider Abkommens (Stockholmer Fassung) enthalten sind, wobei jede Bezugnahme auf Artikel 8 jenes Abkommens als Bezugnahme auf Artikel 8 dieses Protokolls gilt. Ausserdem gelten, vorbehaltlich eines gegenteiligen einstimmigen Beschlusses der Versammlung, Vertragsorganisationen für die Zwecke des Artikels 12 Absatz 6 Buchstabe b jenes Abkommens als der Beitragsklasse I (eins) nach der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums[^12-1] zugehörig.
 
-[^12-1]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^12-1]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 13
 
@@ -395,7 +395,7 @@ Soweit die Vertragsparteien betroffen sind, werden die Finanzen des Verbands nac
 
 <sup>(5)</sup> Die in Absatz 1 bezeichneten Staaten oder Organisationen können bei der Hinterlegung ihrer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde zu diesem Protokoll erklären, dass der Schutz aus einer internationalen Registrierung, die vor Inkrafttreten des Protokolls für sie aufgrund des Protokolls bewirkt wurde, auf sie nicht ausgedehnt werden kann.
 
-[^14-1]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^14-1]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 15
 
@@ -433,7 +433,7 @@ Soweit die Vertragsparteien betroffen sind, werden die Finanzen des Verbands nac
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. Februar 2025[^t-2]
+Geltungsbereich am 7. Oktober 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -470,6 +470,7 @@ Geltungsbereich am 26. Februar 2025[^t-2]
 <tr><td>Gambia\*</td><td>18. September</td><td>2015 B</td><td>18. Dezember</td><td>2015</td></tr>
 <tr><td>Georgien\*</td><td>20. Mai</td><td>1998 B</td><td>20. August</td><td>1998</td></tr>
 <tr><td>Ghana\*</td><td>16. Juni</td><td>2008 B</td><td>16. September</td><td>2008</td></tr>
+<tr><td>Grenada\*</td><td>15. Dezember</td><td>2025 B</td><td>15. März</td><td>2026</td></tr>
 <tr><td>Griechenland\*</td><td>10. Mai</td><td>2000 B</td><td>10. August</td><td>2000</td></tr>
 <tr><td>Indien\*</td><td>8. April</td><td>2013 B</td><td>8. Juli</td><td>2013</td></tr>
 <tr><td>Indonesien\*</td><td>2. Oktober</td><td>2017 B</td><td>2. Januar</td><td>2018</td></tr>
@@ -483,7 +484,7 @@ Geltungsbereich am 26. Februar 2025[^t-2]
 <tr><td>Kambodscha\*</td><td>5. März</td><td>2015 B</td><td>5. Juni</td><td>2015</td></tr>
 <tr><td>Kanada\*</td><td>17. März</td><td>2019 B</td><td>17. Juni</td><td>2019</td></tr>
 <tr><td>Kap Verde\*</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td>2022</td></tr>
-<tr><td>Kasachstan</td><td>8. September</td><td>2010 B</td><td>8. Dezember</td><td>2010</td></tr>
+<tr><td>Kasachstan\*</td><td>8. September</td><td>2010 B</td><td>8. Dezember</td><td>2010</td></tr>
 <tr><td>Katar\*</td><td>3. Mai</td><td>2024 B</td><td>3. August</td><td>2024</td></tr>
 <tr><td>Kenia\*</td><td>26. März</td><td>1998 B</td><td>26. Juni</td><td>1998</td></tr>
 <tr><td>Kolumbien\*</td><td>29. Mai</td><td>2012 B</td><td>29. August</td><td>2012</td></tr>
@@ -531,6 +532,7 @@ Geltungsbereich am 26. Februar 2025[^t-2]
 <tr><td>Samoa\*</td><td>4. Dezember</td><td>2018 B</td><td>4. März</td><td>2019</td></tr>
 <tr><td>San Marino\*</td><td>12. Juni</td><td>2007 B</td><td>12. September</td><td>2007</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>8. September</td><td>2008 B</td><td>8. Dezember</td><td>2008</td></tr>
+<tr><td>Saudi-Arabien\*</td><td>8. Juli</td><td>2026 B</td><td>8. Oktober</td><td>2026</td></tr>
 <tr><td>Schweden\*</td><td>30. Dezember</td><td>1994</td><td>1. Dezember</td><td>1995</td></tr>
 <tr><td>Schweiz\*</td><td>1. Februar</td><td>1997</td><td>1. Mai</td><td>1997</td></tr>
 <tr><td>Serbien</td><td>17. November</td><td>1997</td><td>17. Februar</td><td>1998</td></tr>
@@ -556,14 +558,15 @@ Geltungsbereich am 26. Februar 2025[^t-2]
 <tr><td>Vereinigte Staaten\*</td><td>2. August</td><td>2003 B</td><td>2. November</td><td>2003</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>6. April</td><td>1995</td><td>1. Dezember</td><td>1995</td></tr>
 <tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
-<tr><td>Guernsey\*</td><td>1. Oktober</td><td>2020</td><td>1. Oktober</td><td>2021</td></tr>
+<tr><td>Guernsey\*</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Insel Man\*</td><td>6. April</td><td>1995</td><td>1. Dezember</td><td>1995</td></tr>
+<tr><td>Jersey\*</td><td>12. Mai</td><td>2026</td><td>1. August</td><td>2026</td></tr>
 <tr><td>Vietnam\*</td><td>11. April</td><td>2006 B</td><td>11. Juli</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>4. August</td><td>2003 B</td><td>4. November</td><td>2003</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): [www.wipo.int/treaties/fr/registration/madrid\_protocol/index.html](https://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao. <sup>b</sup> Anwendbar auf die Überseedepartemente und -territorien. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144); [2026 538](https://fedlex.data.admin.ch/eli/oc/2026/538). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

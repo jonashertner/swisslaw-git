@@ -3,24 +3,26 @@ sr: "0.232.112.4"
 title: "Protocollo del 27 giugno 1989 relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350"
 language: it
-version: 2025-02-26
+version: 2026-10-07
 adopted: 1989-06-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20250226/it/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20250226-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20250226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350/20261007/it/xml/fedlex-data-admin-ch-eli-cc-1997-2350_2350_2350-20261007-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2350_2350_2350/20261007/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo relativo all’Accordo di Madrid per la registrazione internazionale dei marchi
 
+RU **1997** 2350; FF **1996** II 1273
+
 Traduzione
 
 Concluso a Madrid il 27 giugno 1989 Approvato dall’Assemblea federale il 1° ottobre 1996[^t-1] Ratificato dalla Svizzera con strumento depositato il 1° febbraio 1997 Entrato in vigore per la Svizzera il 1° maggio 1997
 
-(Stato 26 febbraio 2025)
+(Stato 7 ottobre 2026)
 
-[^t-1]: RU **1997** 2350; FF **1996** II 1273 Art. 1 cpv. 1 lett. a del DAF del 1° ott. 1996 (RU **1997** 2283).
+[^t-1]: Art. 1 cpv. 1 lett. a del DAF del 1° ott. 1996 ([RU 1997 2283](https://fedlex.data.admin.ch/eli/oc/1997/2283_2283_2283)).
 
 ## Elenco degli articoli del Protocollo
 
@@ -82,19 +84,19 @@ Articolo 16: Firma; lingue; funzioni del depositario
 
 Gli Stati partecipi di questo Protocollo (denominati più avanti «Stati contraenti»), anche se non sono partecipi dell’Accordo di Madrid[^1-1] per la registrazione internazionale dei marchi riveduto a Stoccolma nel 1967 e modificato nel 1979 (più avanti denominato «Accordo di Madrid (Stoccolma)»), e le organizzazioni indicate nell’articolo 14.1)b) che sono partecipi di questo Protocollo (denominate più avanti «organizzazioni contraenti») sono membri della stessa Unione di cui sono membri i paesi che sono partecipi dell’Accordo di Madrid (Stoccolma). In questo Protocollo, l’espressione «parti contraenti» designerà sia gli Stati contraenti che le organizzazioni contraenti.
 
-[^1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
+[^1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
 
 #### Art. 2
 
 **Ottenimento della protezione attraverso la registrazione internazionale**
-
-\1) Quando una domanda di registrazione di un marchio è stata depositata presso l’Ufficio di una parte contraente, o quando un marchio è stato registrato nel registro dell’Ufficio di una parte contraente, la persona che ha depositato tale domanda (in seguito denominata «domanda di base») o il titolare di tale registrazione (più avanti denominata «registrazione di base») può, riservate le disposizioni del presente Protocollo, assicurare la protezione del proprio marchio sul territorio delle parti contraenti, ottenendo la registrazione di questo marchio nel registro dell’Ufficio internazionale dell’Organizzazione Mondiale della Proprietà Intellettuale (più avanti denominati, rispettivamente, «registrazione internazionale», «registro internazionale», «Ufficio internazionale» e «Organizzazione»), a condizione
 
 \2) La domanda di registrazione internazionale (denominata più avanti «domanda internazionale») deve essere depositata presso l’Ufficio internazionale per il tramite dell’Ufficio presso il quale è stata depositata la domanda di base o dal quale è stata effettuata la registrazione di base (più avanti denominato «Ufficio di origine»), a seconda del caso.
 
 \3) Nel presente Protocollo, il termine «Ufficio» o «Ufficio di una parte contraente» designa l’ufficio cui è affidato il compito, per conto di una parte contraente, di registrare i marchi, e il termine «marchi» designa sia i marchi dei prodotti che i marchi dei servizi.
 
 \4) Nel presente Protocollo, si intende per «territorio di una parte contraente,» allorquando la parte contraente è uno Stato, il territorio di codesto Stato e, allorquando la parte contraente è un’organizzazione intergovernativa, il territorio sul quale viene applicato il trattato costitutivo di tale organizzazione intergovernativa.
+
+\1) Quando una domanda di registrazione di un marchio è stata depositata presso l’Ufficio di una parte contraente, o quando un marchio è stato registrato nel registro dell’Ufficio di una parte contraente, la persona che ha depositato tale domanda (in seguito denominata «domanda di base») o il titolare di tale registrazione (più avanti denominata «registrazione di base») può, riservate le disposizioni del presente Protocollo, assicurare la protezione del proprio marchio sul territorio delle parti contraenti, ottenendo la registrazione di questo marchio nel registro dell’Ufficio internazionale dell’Organizzazione Mondiale della Proprietà Intellettuale (più avanti denominati, rispettivamente, «registrazione internazionale», «registro internazionale», «Ufficio internazionale» e «Organizzazione»), a condizione:
 
 - i) che quando la domanda di base è stata depositata presso l’Ufficio di uno Stato contraente o quando la registrazione di base è stata effettuata da codesto Ufficio, la persona che ha depositato questa domanda o il titolare di questa registrazione sia cittadino di codesto Stato contraente o abbia il proprio domicilio, o abbia uno stabilimento industriale o commerciale effettivo e serio nel suddetto Stato contraente;
 - ii) che quando la domanda di base è stata depositata presso l’Ufficio di un’organizzazione contraente o quando la registrazione di base è stata effettuata da codesto Ufficio, la persona che ha depositato questa domanda o il titolare di questa registrazione sia cittadino di uno Stato membro di questa organizza zione contraente o abbia il proprio domicilio, o abbia uno stabilimento industriale o commerciale effettivo e serio nel territorio della suddetta organizzazione contraente.
@@ -103,25 +105,26 @@ Gli Stati partecipi di questo Protocollo (denominati più avanti «Stati contrae
 
 **Domanda internazionale**
 
-\1) Ogni domanda internazionale fatta in virtù del presente Protocollo dovrà essere presentata sul modulo prescritto dal regolamento d’esecuzione[^3-1]. L’Ufficio d’origine certificherà che le indicazioni che figurano nella domanda internazionale corrispondono a quelle che figurano, al momento della certificazione, nella domanda di base o nella registrazione di base, a seconda del caso. Inoltre, il suddetto Ufficio indicherà,
+L’Ufficio d’origine indicherà pure la data della domanda internazionale.
 
-\2) Il depositante dovrà indicare i prodotti e i servizi per i quali la protezione del marchio è richiesta, come pure, se possibile, la o le classi corrispondenti, secondo la classificazione stabilita dall’Accordo di Nizza[^3-2] sulla classificazione internazionale dei prodotti e dei servizi per la registrazione dei marchi. Se il depositante non fornisce tale indicazione, l’Ufficio internazionale classificherà i prodotti e i servizi nelle classi corrispondenti della suddetta classificazione. L’indicazione delle classi fornita dal depositante sarà sottoposta al controllo dell’Ufficio internazionale, che lo eseguirà insieme all’Ufficio d’origine. In caso di disaccordo tra il suddetto Ufficio e l’Ufficio internazionale, il parere di quest’ultimo sarà decisivo.
+\2) Il depositante dovrà indicare i prodotti e i servizi per i quali la protezione del marchio è richiesta, come pure, se possibile, la o le classi corrispondenti, secondo la classificazione stabilita dall’Accordo di Nizza[^3-1] sulla classificazione internazionale dei prodotti e dei servizi per la registrazione dei marchi. Se il depositante non fornisce tale indicazione, l’Ufficio internazionale classificherà i prodotti e i servizi nelle classi corrispondenti della suddetta classificazione. L’indicazione delle classi fornita dal depositante sarà sottoposta al controllo dell’Ufficio internazionale, che lo eseguirà insieme all’Ufficio d’origine. In caso di disaccordo tra il suddetto Ufficio e l’Ufficio internazionale, il parere di quest’ultimo sarà decisivo.
 
 \4) L’Ufficio internazionale registrerà immediatamente i marchi depositati in conformità dell’articolo 2. La registrazione internazionale porterà la data in cui la domanda internazionale è stata ricevuta dall’Ufficio d’origine a condizione che la domanda internazionale sia stata ricevuta dall’Ufficio internazionale entro due mesi da tale data. Se la domanda internazionale non è stata ricevuta entro tale termine, la registrazione internazionale porterà la data in cui la suddetta domanda internazionale è stata ricevuta dall’Ufficio internazionale. L’Ufficio internazionale notificherà senza indugio la registrazione internazionale agli Uffici interessati. I marchi registrati nel registro internazionale saranno pubblicati in un bollettino periodico edito dall’Ufficio internazionale, secondo le indicazioni contenute nella domanda internazionale.
 
 \5) Ai fini della pubblicità da dare ai marchi registrati nel registro internazionale, ciascun Ufficio riceverà dall’Ufficio internazionale un certo numero di esemplari gratuiti ed altri a prezzo ridotto del suddetto bollettino secondo le condizioni stabilite dall’Assemblea di cui all’articolo 10 (più avanti denominata «Assemblea»). Tale pubblicità sarà considerata sufficiente per tutte le parti contraenti, e nessun’altra potrà essere richiesta al titolare della registrazione internazionale.
 
+\1) Ogni domanda internazionale fatta in virtù del presente Protocollo dovrà essere presentata sul modulo prescritto dal regolamento d’esecuzione[^3-2]. L’Ufficio d’origine certificherà che le indicazioni che figurano nella domanda internazionale corrispondono a quelle che figurano, al momento della certificazione, nella domanda di base o nella registrazione di base, a seconda del caso. Inoltre, il suddetto Ufficio indicherà:
+
 - i) nel caso di una domanda di base, la data e il numero di tale domanda,
 - ii) nel caso di una registrazione di base, la data e il numero di tale registrazione come pure la data e il numero della domanda da cui proviene la registrazione di base.
-- [tab] L’Ufficio d’origine indicherà pure la data della domanda internazionale.
 
 \3) Se il depositante rivendica il colore a titolo di elemento distintivo del suo marchio, egli dovrà:
 
 - i) fare una dichiarazione in tal senso e integrare la sua domanda internazionale con l’indicazione del colore o della combinazione di colori rivendicata;
 - ii) unire alla sua domanda internazionale esemplari a colore di detto marchio, che saranno allegati alle notificazioni fatte dall’Ufficio internazionale; il numero di questi esemplari sarà stabilito dal regolamento di esecuzione.
 
-[^3-1]: [RS 0.232.112.21](https://fedlex.data.admin.ch/eli/cc/2020/338)
-[^3-2]: [RS 0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^3-1]: [RS 0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
+[^3-2]: [RS 0.232.112.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1056)
 
 #### Art. 3<sup>bis</sup>
 
@@ -146,18 +149,18 @@ La protezione risultante dalla registrazione internazionale si estenderà a una 
 - 1) a) A decorrere dalla data della registrazione o dell’iscrizione effettuata secondo le disposizioni degli articoli 3 e 3<sup>ter</sup>, la protezione del marchio in ciascuna delle parti contraenti interessate sarà la medesima come se questo marchio fosse stato direttamente depositato presso l’Ufficio di tale parte contraente. Se non è stato notificato all’Ufficio internazionale nessun rifiuto in conformità dell’articolo 5.1) e 2) o se un rifiuto notificato in conformità del suddetto articolo è stato ritirato in seguito, la protezione del marchio nella parte contraente interessata sarà, a decorrere da tale data, la medesima come se questo marchio fosse stato registrato dall’Ufficio di codesta parte contraente.
 - b) L’indicazione delle classi di prodotti e di servizi prevista nell’articolo 3 non impegna le parti contraenti per quanto riguarda la valutazione dell’estensione della protezione del marchio.
 
-[^4-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^4-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 4<sup>bis</sup>
 
 **Sostituzione di una registrazione nazionale o regionale con una registrazione internazionale**
 
-\1) Quando un marchio che è oggetto di una registrazione nazionale o regionale presso l’Ufficio di una parte contraente è ugualmente oggetto di una registrazione internazionale e le due registrazioni sono iscritte a nome della medesima persona, la registrazione internazionale è considerata come sostitutiva della registrazione nazionale o regionale, senza pregiudizio dei diritti acquisiti per effetto di quest’ultima, a condizione
-
 \2) L’Ufficio di cui all’alinea 1) è tenuto, su domanda, a prendere nota, nel suo registro, della registrazione internazionale.
 
-- i) che la protezione risultante dalla registrazione internazionale si estenda alla suddetta parte contraente in conformità dell’articolo 3<sup>ter</sup>.1) o 2),
-- ii) che tutti i prodotti e servizi elencati nella registrazione nazionale o regionale siano parimenti elencati nella registrazione internazionale per quanto riguarda la suddetta parte contraente.
+\1) Quando un marchio che è oggetto di una registrazione nazionale o regionale presso l’Ufficio di una parte contraente è ugualmente oggetto di una registrazione internazionale e le due registrazioni sono iscritte a nome della medesima persona, la registrazione internazionale è considerata come sostitutiva della registrazione nazionale o regionale, senza pregiudizio dei diritti acquisiti per effetto di quest’ultima, a condizione:
+
+- i) che la protezione risultante dalla registrazione internazionale si estenda alla suddetta parte contraente in conformità dell’articolo 3<sup>ter</sup>.1) o 2);
+- ii) che tutti i prodotti e servizi elencati nella registrazione nazionale o regionale siano parimenti elencati nella registrazione internazionale per quanto riguarda la suddetta parte contraente;
 - iii) che l’estensione summenzionata entri in vigore dopo la data della registrazione nazionale o regionale.
 
 #### Art. 5
@@ -177,7 +180,7 @@ La protezione risultante dalla registrazione internazionale si estenderà a una 
 - 2) a) Qualsiasi Ufficio che intendesse avvalersi di tale facoltà dovrà notificare il proprio rifiuto all’Ufficio internazionale, indicandone tutti i motivi, nel termine previsto dalla legge applicabile a tale Ufficio e, al più tardi, riservati i punti b) e c), prima della scadenza di un anno a decorrere dalla data in cui la notificazione dell’estensione oggetto dell’alinea 1) è stata inviata a detto Ufficio dall’Ufficio internazionale.
 - b) Nonostante il punto a), qualsiasi parte contraente può dichiarare che, per le registrazioni internazionali effettuate in virtù del presente Protocollo, il termine di un anno oggetto del punto a) è sostituito da 18 mesi.
 - c) Tale dichiarazione può inoltre precisare che, qualora un rifiuto di protezione risulti da un’opposizione alla concessione di protezione, tale rifiuto può essere notificato all’Ufficio internazionale dall’Ufficio della suddetta parte contraente dopo la scadenza del termine di 18 mesi. Detto Ufficio può, per ciò che concerne una data registrazione internazionale, notificare un rifiuto di protezione dopo la scadenza di 18 mesi, ma soltanto a condizione
-  - i) che esso abbia informato, prima della scadenza del termine di 18 mesi, l’Ufficio internazionale della possibilità che le opposizioni siano depositate dopo la scadenza del termine di 18 mesi, e
+  - i) che esso abbia informato, prima della scadenza del termine di 18 mesi, l’Ufficio internazionale della possibilità che le opposizioni siano depositate dopo la scadenza del termine di 18 mesi; e
   - ii)[^5-1] che la notificazione del rifiuto basato su un’opposizione sia effettuata entro un mese a decorrere dalla scadenza del termine di opposizione, ma in ogni caso entro un termine massimo di sette mesi dalla data da cui decorre il termine di opposizione.
 
 - d) Qualsiasi dichiarazione in conformità dei punti b) oppure c) può essere fatta negli strumenti oggetto dell’articolo 14.2), e la data in cui la dichiarazione entrerà in vigore sarà la medesima della data di entrata in vigore del presente Protocollo per ciò che concerne lo Stato o l’organizzazione intergovernativa che ha fatto tale dichiarazione. Questa dichiarazione può essere fatta anche in seguito, ed in questo caso la dichiarazione entrerà in vigore tre mesi dopo ricezione di essa da parte del Direttore generale dell’Organizzazione (più avanti denominato «Direttore generale»), oppure a qualsiasi data ulteriore indicata nella dichiarazione, per ciò che concerne le registrazioni internazionali la cui data è la medesima di quella in cui la dichiarazione entra in vigore oppure è posteriore a tale data.
@@ -217,8 +220,8 @@ si conclude, dopo lo scadere del periodo di cinque anni, con una decisione final
 
 \4) L’Ufficio d’origine notificherà all’Ufficio internazionale, come prescritto nel regolamento d’esecuzione, i fatti e le decisioni pertinenti in virtù dell’alinea 3), e l’Ufficio internazionale informerà le parti interessate e procederà ad ogni pubblicazione corrispondente, secondo quanto prescritto nel regolamento d’esecuzione. L’Ufficio richiederà, se del caso, all’Ufficio internazionale di radiare, nei limiti applicabili, la registrazione internazionale, e l’Ufficio internazionale darà corso a tale richiesta.
 
-- i) un ricorso contro una decisione che rifiuti gli effetti della domanda di base,
-- ii) un’azione mirante al ritiro della domanda di base o alla revoca, alla radiazione o all’invalidazione della registrazione che risulta dalla domanda di base, o dalla registrazione di base, o
+- i) un ricorso contro una decisione che rifiuti gli effetti della domanda di base;
+- ii) un’azione mirante al ritiro della domanda di base o alla revoca, alla radiazione o all’invalidazione della registrazione che risulta dalla domanda di base, o dalla registrazione di base; o
 - iii) un’opposizione alla domanda di base
 
 #### Art. 7
@@ -239,8 +242,6 @@ si conclude, dopo lo scadere del periodo di cinque anni, con una decisione final
 
 \1) L’Ufficio d’origine avrà la facoltà di fissare, a suo criterio, e di percepire, a suo favore, una tassa che richiederà al depositante o al titolare della registrazione internazionale al momento del deposito della domanda internazionale o al momento della rinnovazione della registrazione internazionale.
 
-\2) La registrazione di un marchio presso l’Ufficio internazionale sarà subordinata al preventivo pagamento di un emolumento internazionale che comprenderà, riservate le disposizioni dell’alinea 7)a),
-
 \3) Tuttavia, l’emolumento suppletivo specificato nell’alinea 2)ii) potrà essere versato entro il termine fissato dal regolamento di esecuzione, qualora il numero delle classi di prodotti o servizi sia stato stabilito o contestato dall’Ufficio internazionale e senza pregiudizio per la data della registrazione internazionale. Se, alla scadenza di detto termine, l’emolumento suppletivo non sarà stato pagato o se la lista dei prodotti o servizi non sarà stata adeguatamente ridotta dal depositante, la domanda internazionale sarà considerata come abbandonata.
 
 \4) Il ricavo annuo dei diversi proventi della registrazione internazionale, eccetto i proventi ricavati dagli emolumenti oggetto dell’alinea 2, punti ii) e iii), sarà suddiviso in parti uguali tra le parti contraenti a cura dell’Ufficio internazionale, previa detrazione delle spese e degli oneri relativi all’esecuzione di questo Protocollo.
@@ -249,12 +250,17 @@ si conclude, dopo lo scadere del periodo di cinque anni, con una decisione final
 
 \6) Le somme ricavate dagli emolumenti complementari previsti nell’alinea 2, punto iii), saranno ripartite secondo le stesse disposizioni di quelle previste nell’alinea 5).
 
+\2) La registrazione di un marchio presso l’Ufficio internazionale sarà subordinata al preventivo pagamento di un emolumento internazionale che comprenderà, riservate le disposizioni dell’alinea 7)a):
+
 - i) un emolumento di base;
 - ii) un emolumento suppletivo per ogni classe della classificazione internazionale oltre la terza, nella quale siano inclusi i prodotti o servizi cui si applica il marchio;
 - iii) un emolumento complementare per ogni domanda di estensione della protezione in conformità dell’articolo 3<sup>ter</sup>.
 
-- 7) a) Qualsiasi parte contraente può dichiarare che, per ciò che concerne ogni registrazione internazionale in cui essa è menzionata in conformità dell’articolo 3<sup>ter</sup>, come pure per ciò che concerne la rinnovazione di tale registrazione internazionale, essa intende percepire, invece di una parte dei proventi ricavati dagli emolumenti suppletivi e da quelli complementari, una tassa (più avanti denominata «tassa individuale»), il cui ammontare è indicato nella dichiarazione, e che può essere modificato in dichiarazioni ulteriori, ma che non può essere superiore ad una somma corrispondente alla somma, dedotte le economie risultanti dalla procedura internazionale, che l’Ufficio della suddetta parte contraente avrebbe il diritto di ricevere da un depositante per una registrazione di dieci anni, o dal titolare di una registrazione per una rinnovazione di dieci anni di tale registrazione, del marchio nel registro del suddetto Ufficio. Quando questa tassa individuale deve essere pagata,
-  - i) non sarà dovuto nessun emolumento suppletivo previsto nell’alinea 2, punto ii), se solo le parti contraenti che abbiano fatto una dichiarazione in conformità di questo punto sono menzionate in conformità dell’articolo 3<sup>ter</sup>, e
+- 7) a)
+
+  Qualsiasi parte contraente può dichiarare che, per ciò che concerne ogni registrazione internazionale in cui essa è menzionata in conformità dell’articolo 3<sup>ter</sup>, come pure per ciò che concerne la rinnovazione di tale registrazione internazionale, essa intende percepire, invece di una parte dei proventi ricavati dagli emolumenti suppletivi e da quelli complementari, una tassa (più avanti denominata «tassa individuale»), il cui ammontare è indicato nella dichiarazione, e che può essere modificato in dichiarazioni ulteriori, ma che non può essere superiore ad una somma corrispondente alla somma, dedotte le economie risultanti dalla procedura internazionale, che l’Ufficio della suddetta parte contraente avrebbe il diritto di ricevere da un depositante per una registrazione di dieci anni, o dal titolare di una registrazione per una rinnovazione di dieci anni di tale registrazione, del marchio nel registro del suddetto Ufficio. Quando questa tassa individuale deve essere pagata:
+
+  - i) non sarà dovuto nessun emolumento suppletivo previsto nell’alinea 2, punto ii), se solo le parti contraenti che abbiano fatto una dichiarazione in conformità di questo punto sono menzionate in conformità dell’articolo 3<sup>ter</sup>; e
   - ii) non sarà dovuto nessun emolumento complementare previsto nell’alinea 2, punto iii), nei confronti di qualsiasi parte contraente che abbia fatto una dichiarazione in conformità di questo punto.
 
 - b) Qualsiasi dichiarazione in conformità del punto a) può essere fatta negli strumenti previsti nell’articolo 14.2), e la data in cui tale dichiarazione entrerà in vigore sarà la medesima della data di entrata in vigore di questo Protocollo per ciò che concerne lo Stato o l’organizzazione intergovernativa che ha fatto la dichiarazione. Tale dichiarazione può anche essere fatta ulteriormente, nel qual caso la dichiarazione entrerà in vigore tre mesi dopo la ricezione di essa da parte del Direttore generale, oppure a qualsiasi data ulteriore indicata nella dichiarazione, per ciò che concerne le registrazioni internazionali la cui data sia la medesima di quella in cui la dichiarazione entra in vigore o sia posteriore a tale data.
@@ -269,12 +275,12 @@ Dietro richiesta della persona al cui nome è iscritta la registrazione internaz
 
 **Talune iscrizioni riguardanti una registrazione internazionale**
 
-L’Ufficio internazionale iscriverà nel registro internazionale
+L’Ufficio internazionale iscriverà nel registro internazionale:
 
-- i) qualsiasi modificazione riguardante il nome o l’indirizzo del titolare della registrazione internazionale,
-- ii) la costituzione di un mandatario del titolare della registrazione internazionale e qualsiasi altro dato pertinente che riguardi tale mandatario,
-- iii) qualsiasi limitazione, per ciò che riguarda l’insieme o talune delle parti contraenti, dei prodotti e servizi elencati nella registrazione internazionale,
-- iv) qualsiasi rinuncia, radiazione o invalidazione della registrazione internazionale per ciò che concerne l’insieme o talune delle parti contraenti,
+- i) qualsiasi modificazione riguardante il nome o l’indirizzo del titolare della registrazione internazionale;
+- ii) la costituzione di un mandatario del titolare della registrazione internazionale e qualsiasi altro dato pertinente che riguardi tale mandatario;
+- iii) qualsiasi limitazione, per ciò che riguarda l’insieme o talune delle parti contraenti, dei prodotti e servizi elencati nella registrazione internazionale;
+- iv) qualsiasi rinuncia, radiazione o invalidazione della registrazione internazionale per ciò che concerne l’insieme o talune delle parti contraenti;
 - v) qualsiasi altro dato pertinente, identificato nel regolamento d’esecuzione, riguardante i diritti su un marchio che è oggetto di una registrazione internazionale.
 
 #### Art. 9<sup>ter</sup>
@@ -287,21 +293,21 @@ Ogni iscrizione effettuata in conformità dell’articolo 9 o in conformità del
 
 **Ufficio comune a più Stati contraenti**
 
-\1) Se più Stati contraenti convengono di realizzare l’unificazione delle loro leggi nazionali in materia di marchi, essi potranno notificare al Direttore generale
-
 \2) Questa notificazione avrà effetto soltanto tre mesi dopo la data della comunicazione che ne sarà data dal Direttore generale alle altre parti contraenti.
 
-- i) che un Ufficio comune si sostituirà all’Ufficio nazionale di ciascuno di loro, e
+\1) Se più Stati contraenti convengono di realizzare l’unificazione delle loro leggi nazionali in materia di marchi, essi potranno notificare al Direttore generale:
+
+- i) che un Ufficio comune si sostituirà all’Ufficio nazionale di ciascuno di loro; e
 - ii) che l’insieme dei loro territori rispettivi dovrà essere considerato come un solo Stato per l’applicazione totale o parziale delle disposizioni precedenti il presente articolo come pure delle disposizioni degli articoli 9<sup>quinquies</sup> e 9<sup>sexies</sup>.
 
 #### Art. 9<sup>quinquies</sup>
 
 **Trasformazione di una registrazione internazionale in domande nazionali o regionali**
 
-Quando, nel caso in cui la registrazione internazionale sia radiata dietro richiesta dell’Ufficio d’origine in virtù dell’articolo 6.4), per ciò che concerne la totalità o parte dei prodotti e servizi elencati nella suddetta registrazione, la persona che era il titolare della registrazione deposita una domanda di registrazione dello stesso marchio presso l’Ufficio di una delle parti contraenti sul cui territorio la registrazione internazionale aveva validità, tale domanda sarà trattata come se essa fosse stata depositata alla data della registrazione internazionale in conformità dell’articolo 3.4) o alla data di iscrizione dell’estensione territoriale in conformità dell’articolo 3<sup>ter</sup>.2) e, nel caso in cui la registrazione internazionale beneficiasse di priorità, tale domanda dovrà beneficiare della medesima priorità, a condizione
+Quando, nel caso in cui la registrazione internazionale sia radiata dietro richiesta dell’Ufficio d’origine in virtù dell’articolo 6.4), per ciò che concerne la totalità o parte dei prodotti e servizi elencati nella suddetta registrazione, la persona che era il titolare della registrazione deposita una domanda di registrazione dello stesso marchio presso l’Ufficio di una delle parti contraenti sul cui territorio la registrazione internazionale aveva validità, tale domanda sarà trattata come se essa fosse stata depositata alla data della registrazione internazionale in conformità dell’articolo 3.4) o alla data di iscrizione dell’estensione territoriale in conformità dell’articolo 3<sup>ter</sup>.2) e, nel caso in cui la registrazione internazionale beneficiasse di priorità, tale domanda dovrà beneficiare della medesima priorità, a condizione:
 
-- i) che la suddetta domanda sia depositata entro i tre mesi a decorrere dalla data in cui la registrazione internazionale è stata radiata,
-- ii) che i prodotti e servizi elencati nella domanda siano effettivamente coperti dalla lista dei prodotti e servizi iscritti nella registrazione internazionale per ciò che concerne la parte contraente interessata, e
+- i) che la suddetta domanda sia depositata entro i tre mesi a decorrere dalla data in cui la registrazione internazionale è stata radiata;
+- ii) che i prodotti e servizi elencati nella domanda siano effettivamente coperti dalla lista dei prodotti e servizi iscritti nella registrazione internazionale per ciò che concerne la parte contraente interessata; e
 - iii) che tale domanda sia conforme a tutte le prescrizioni della legislazione applicabile, comprese quelle che si riferiscono alle tasse.
 
 #### Art. 9<sup>sexies</sup>
@@ -356,7 +362,7 @@ Quando, nel caso in cui la registrazione internazionale sia radiata dietro richi
 
 Per ciò che concerne le parti contraenti, le finanze dell’Unione sono regolate dalle medesime disposizioni contenute nell’articolo 12 dell’Accordo di Madrid (Stoccolma), essendo convenuto che qualsiasi rinvio all’articolo 8 di detto Accordo sarà considerato come un rinvio all’articolo 8 del presente Protocollo. Inoltre, per quanto riguarda l’articolo 12.6)b) di detto Accordo, le organizzazioni contraenti sono, riservata una risoluzione unanimemente contraria dell’Assemblea, considerate come appartenenti alla classe di contribuzione I (uno) in conformità della Convenzione di Parigi[^12-1] per la protezione della proprietà industriale.
 
-[^12-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^12-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 13
 
@@ -389,7 +395,7 @@ Per ciò che concerne le parti contraenti, le finanze dell’Unione sono regolat
 - 4) a) Il presente Protocollo entra in vigore tre mesi dopo il deposito di quattro strumenti di ratifica, accettazione, approvazione o adesione, a condizione che almeno uno di tali strumenti sia stato depositato da un paese partecipe dell’Accordo di Madrid (Stoccolma) e che almeno un altro di tali strumenti sia stato depositato da uno Stato non partecipe dell’Accordo di Madrid (Stoccolma) o da una delle organizzazioni di cui all’alinea 1)b).
 - b) Nei riguardi di qualsiasi altro Stato od organizzazione elencato nell’alinea 1), il presente Protocollo entra in vigore tre mesi dopo la data in cui la sua ratifica, accettazione, approvazione o adesione è stata notificata dal Direttore generale.
 
-[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 #### Art. 15
 
@@ -404,8 +410,8 @@ Per ciò che concerne le parti contraenti, le finanze dell’Unione sono regolat
 \4) La facoltà di denuncia prevista nel presente articolo non potrà essere esercitata da una parte contraente prima dello scadere di un periodo di cinque anni a contare dalla data in cui il presente Protocollo è entrato in vigore nei confronti di tale parte contraente.
 
 - 5) a) Quando un marchio è oggetto di una registrazione internazionale che ha validità, nello Stato o nell’organizzazione intergovernativa che denuncia il presente Protocollo, alla data in cui la denuncia diventa effettiva, il titolare di tale registrazione può depositare, presso l’Ufficio di detto Stato o di detta organizzazione, una domanda di registrazione del medesimo marchio, la quale sarà trattata come se fosse stata depositata alla data della registrazione internazionale in conformità dell’articolo 3.4) o alla data di iscrizione dell’estensione territoriale in conformità dell’articolo 3<sup>ter</sup>.2) e, se la registrazione beneficiasse di priorità, tale domanda beneficerà della medesima priorità, a condizione
-  - i) che la suddetta domanda sia depositata entro due anni a contare dalla data in cui la denuncia è diventata effettiva,
-  - ii) che i prodotti e servizi elencati nella domanda siano effettivamente coperti dall’elenco dei prodotti e servizi iscritti nella registrazione internazionale nei confronti dello Stato o dell’organizzazione intergovernativa che ha denunciato il presente Protocollo e
+  - i) che la suddetta domanda sia depositata entro due anni a contare dalla data in cui la denuncia è diventata effettiva;
+  - ii) che i prodotti e servizi elencati nella domanda siano effettivamente coperti dall’elenco dei prodotti e servizi iscritti nella registrazione internazionale nei confronti dello Stato o dell’organizzazione intergovernativa che ha denunciato il presente Protocollo; e
   - iii) che la suddetta domanda sia conforme a tutti i requisiti della legislazione applicabile, compresi quelli relativi alle tasse.
 
 - b) Le disposizioni del punto a) si applicano anche nei riguardi di qualsiasi marchio che faccia oggetto di una registrazione internazionale la quale sia in vigore, in parti contraenti diverse dallo Stato o dall’organizzazione intergovernativa che denuncia il presente Protocollo, alla data in cui la denuncia diventa effettiva, e il cui titolare, a causa della denuncia, non è più abilitato a depositare domande internazionali in conformità dell’articolo 2.1).
@@ -427,7 +433,7 @@ Per ciò che concerne le parti contraenti, le finanze dell’Unione sono regolat
 
 (Seguono le firme)
 
-Campo d’applicazione il 26 febbraio 2025[^t-2]
+Campo d’applicazione il 7 ottobre 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -435,6 +441,7 @@ Campo d’applicazione il 26 febbraio 2025[^t-2]
 <tr><td>Albania</td><td>30 aprile</td><td>2003 A</td><td>30 luglio</td><td>2003</td></tr>
 <tr><td>Algeria\*</td><td>31 luglio</td><td>2015 A</td><td>31 ottobre</td><td>2015</td></tr>
 <tr><td>Antigua e Barbuda\*</td><td>17 dicembre</td><td>1999 A</td><td>17 marzo</td><td>2000</td></tr>
+<tr><td>Arabia Saudita\*</td><td>8 luglio</td><td>2026 A</td><td>8 ottobre</td><td>2026</td></tr>
 <tr><td>Armenia\*</td><td>19 luglio</td><td>2000 A</td><td>19 ottobre</td><td>2000</td></tr>
 <tr><td>Australia\*</td><td>11 aprile</td><td>2001 A</td><td>11 luglio</td><td>2001</td></tr>
 <tr><td>Austria</td><td>13 gennaio</td><td>1999</td><td>13 aprile</td><td>1999</td></tr>
@@ -478,6 +485,7 @@ Campo d’applicazione il 26 febbraio 2025[^t-2]
 <tr><td>Giamaica\*</td><td>27 dicembre</td><td>2021 A</td><td>27 marzo</td><td>2022</td></tr>
 <tr><td>Giappone\*</td><td>14 dicembre</td><td>1999 A</td><td>14 marzo</td><td>2000</td></tr>
 <tr><td>Grecia\*</td><td>10 maggio</td><td>2000 A</td><td>10 agosto</td><td>2000</td></tr>
+<tr><td>Grenada\*</td><td>15 dicembre</td><td>2025 A</td><td>15 marzo</td><td>2026</td></tr>
 <tr><td>India\*</td><td>8 aprile</td><td>2013 A</td><td>8 luglio</td><td>2013</td></tr>
 <tr><td>Indonesia\*</td><td>2 ottobre</td><td>2017 A</td><td>2 gennaio</td><td>2018</td></tr>
 <tr><td>Iran</td><td>25 settembre</td><td>2003 A</td><td>25 dicembre</td><td>2003</td></tr>
@@ -485,7 +493,7 @@ Campo d’applicazione il 26 febbraio 2025[^t-2]
 <tr><td>Islanda\*</td><td>15 gennaio</td><td>1997 A</td><td>15 aprile</td><td>1997</td></tr>
 <tr><td>Israele\*</td><td>31 maggio</td><td>2010 A</td><td>1° settembre</td><td>2010</td></tr>
 <tr><td>Italia\*</td><td>17 gennaio</td><td>2000</td><td>17 aprile</td><td>2000</td></tr>
-<tr><td>Kazakistan</td><td>8 settembre</td><td>2010 A</td><td>8 dicembre</td><td>2010</td></tr>
+<tr><td>Kazakistan\*</td><td>8 settembre</td><td>2010 A</td><td>8 dicembre</td><td>2010</td></tr>
 <tr><td>Kenya\*</td><td>26 marzo</td><td>1998 A</td><td>26 giugno</td><td>1998</td></tr>
 <tr><td>Kirghizistan\*</td><td>17 marzo</td><td>2004 A</td><td>17 giugno</td><td>2004</td></tr>
 <tr><td>Laos\*</td><td>7 dicembre</td><td>2015 A</td><td>7 marzo</td><td>2016</td></tr>
@@ -498,7 +506,7 @@ Campo d’applicazione il 26 febbraio 2025[^t-2]
 <tr><td>Macedonia del Nord</td><td>30 maggio</td><td>2002 A</td><td>30 agosto</td><td>2002</td></tr>
 <tr><td>Madagascar\*</td><td>28 gennaio</td><td>2008 A</td><td>28 aprile</td><td>2008</td></tr>
 <tr><td>Malawi\*</td><td>25 settembre</td><td>2018 A</td><td>25 dicembre</td><td>2018</td></tr>
-<tr><td>Malaysia\* <sup>a</sup></td><td>27 settembre</td><td>2019 A</td><td>27 dicembre</td><td>2019</td></tr>
+<tr><td>Malaysia\*</td><td>27 settembre</td><td>2019 A</td><td>27 dicembre</td><td>2019</td></tr>
 <tr><td>Marocco\*</td><td>8 luglio</td><td>1999</td><td>8 ottobre</td><td>1999</td></tr>
 <tr><td>Maurizio\*</td><td>6 febbraio</td><td>2023 A</td><td>6 maggio</td><td>2023</td></tr>
 <tr><td>Messico\*</td><td>19 novembre</td><td>2012 A</td><td>19 febbraio</td><td>2013</td></tr>
@@ -522,8 +530,9 @@ Campo d’applicazione il 26 febbraio 2025[^t-2]
 <tr><td>Qatar\*</td><td>3 maggio</td><td>2024 A</td><td>3 agosto</td><td>2024</td></tr>
 <tr><td>Regno Unito\*</td><td>6 aprile</td><td>1995</td><td>1° dicembre</td><td>1995</td></tr>
 <tr><td>Gibilterra</td><td>1° ottobre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
-<tr><td>Guernesey\*</td><td>1° ottobre</td><td>2020</td><td>1° ottobre</td><td>2021</td></tr>
+<tr><td>Guernsey\*</td><td>1° ottobre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Isola di Man\*</td><td>6 aprile</td><td>1995</td><td>1° dicembre</td><td>1995</td></tr>
+<tr><td>Jersey\*</td><td>12 maggio</td><td>2026</td><td>1° agosto</td><td>2026</td></tr>
 <tr><td>Romania</td><td>28 aprile</td><td>1998</td><td>28 luglio</td><td>1998</td></tr>
 <tr><td>Ruanda</td><td>17 maggio</td><td>2013 A</td><td>17 agosto</td><td>2013</td></tr>
 <tr><td>Russia</td><td>10 marzo</td><td>1997</td><td>10 giugno</td><td>1997</td></tr>
@@ -554,10 +563,10 @@ Campo d’applicazione il 26 febbraio 2025[^t-2]
 <tr><td>Vietnam\*</td><td>11 aprile</td><td>2006 A</td><td>11 luglio</td><td>2006</td></tr>
 <tr><td>Zambia\*</td><td>15 agosto</td><td>2001 A</td><td>15 novembre</td><td>2001</td></tr>
 <tr><td>Zimbabwe\*</td><td>11 dicembre</td><td>2014 A</td><td>11 marzo</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int/treaties/fr/registration/](https://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html) [madrid\_protocol/index.html](https://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Non applicabile alla Regione amministrativa speciale di Hong Kong e alla Regione amministrativa speciale di Macao. <sup>b</sup> Applicabile ai dipartimenti e territori d’oltremare. <sup>c</sup> Il Prot. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int/treaties/fr/registration/](http://www.wipo.int/treaties/fr/registration/)[madrid\_protocol/index.html](https://www.wipo.int/treaties/fr/registration/madrid_protocol/index.html)oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Non applicabile alla Regione amministrativa speciale di Hong Kong e alla Regione amministrativa speciale di Macao. <sup>b</sup> Applicabile ai dipartimenti e territori d’oltremare. <sup>c</sup> Il Prot. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 1997 2350](https://fedlex.data.admin.ch/eli/oc/1997/2350_2350_2350); [2003 3889](https://fedlex.data.admin.ch/eli/oc/2003/567); [2004 4131](https://fedlex.data.admin.ch/eli/oc/2004/609); [2007 1331](https://fedlex.data.admin.ch/eli/oc/2007/217); [2008 3703](https://fedlex.data.admin.ch/eli/oc/2008/489); [2010 1519](https://fedlex.data.admin.ch/eli/oc/2010/215); [2011 3299](https://fedlex.data.admin.ch/eli/oc/2011/438); [2013 1471](https://fedlex.data.admin.ch/eli/oc/2013/341); [2015 2123](https://fedlex.data.admin.ch/eli/oc/2015/392); [2018 1191](https://fedlex.data.admin.ch/eli/oc/2018/182); [2020 3453](https://fedlex.data.admin.ch/eli/oc/2020/596); [2022 320](https://fedlex.data.admin.ch/eli/oc/2022/320); [2025 144](https://fedlex.data.admin.ch/eli/oc/2025/144); [2026 538](https://fedlex.data.admin.ch/eli/oc/2026/538). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
