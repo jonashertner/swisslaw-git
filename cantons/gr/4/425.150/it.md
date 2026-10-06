@@ -5,12 +5,12 @@ title: Ordinanza concernente la scuola media di informatica
 short: OSMI
 language: it
 version: 2026-07-01
-corrected: 2026-09-22
+corrected: 2026-10-07
 version_adopted: 2026-06-23
 adopted: 2024-04-29
 in_force: 2024-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.150"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3644/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3746/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -242,5 +242,27 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 **Esecuzione**
 
 <sup>1</sup> L'esecuzione della presente ordinanza compete all'Ufficio della formazione medio-superiore.
+
+## A1 Allegato 1: Materie di promozione (art. 4) e materie d'esame (art. 9) dell'opzione specifica e dell'opzione complementare
+
+#### Art. A1-1
+
+**Scuola media di informatica con maturità professionale indirizzo economia e servizi, tipo economia**
+
+<sup>1</sup> Materie dell'opzione specifica: Finanze e contabilità nonché economia e diritto.
+
+<sup>2</sup> Materie dell'opzione complementare: Storia e politica nonché tecnica e ambiente.
+
+<sup>3</sup> Materie d'esame: Finanze e contabilità nonché economia e diritto.
+
+#### Art. A1-2
+
+**Scuola media di informatica con maturità professionale indirizzo tecnica, architettura, scienze della vita (MPT)**
+
+<sup>1</sup> Materie dell'opzione specifica: Scienze naturali e matematica.
+
+<sup>2</sup> Materie dell'opzione complementare: Storia e politica nonché economia e diritto.
+
+<sup>3</sup> Materie d'esame: Scienze naturali e matematica.
 
 2024-009

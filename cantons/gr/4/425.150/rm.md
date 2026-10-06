@@ -5,12 +5,12 @@ title: "Ordinaziun davart la scola media d'informatica"
 short: OSMI
 language: rm
 version: 2026-07-01
-corrected: 2026-09-22
+corrected: 2026-10-07
 version_adopted: 2026-06-23
 adopted: 2024-04-29
 in_force: 2024-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.150"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3644/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3746/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -242,5 +242,27 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 **Execuziun**
 
 <sup>1</sup> L'execuziun da questa ordinaziun è chaussa da l'Uffizi per la furmaziun media-superiura.
+
+## A1 Agiunta 1: Roms da promoziun (art. 4) e roms d'examen (art. 9) en il sectur d'accent ed en il sectur cumplementar
+
+#### Art. A1-1
+
+**Scola media d'informatica cun maturitad professiunala, direcziun economia e servetschs, tip economia**
+
+<sup>1</sup> Roms dal sectur d'accent: Finanzas e contabilitad sco er economia e dretg.
+
+<sup>2</sup> Roms dal sectur cumplementar: Istorgia e politica sco er tecnica ed ambient.
+
+<sup>3</sup> Roms d'examen: Finanzas e contabilitad sco er economia e dretg.
+
+#### Art. A1-2
+
+**Scola media d'informatica cun maturitad professiunala direcziun tecnica, architectura, life sciences (TALS)**
+
+<sup>1</sup> Roms dal sectur d'accent: Scienzas natiralas e matematica.
+
+<sup>2</sup> Roms dal sectur cumplementar: Istorgia e politica sco er economia e dretg.
+
+<sup>3</sup> Roms d'examen: Scienzas natiralas e matematica.
 
 2024-009
