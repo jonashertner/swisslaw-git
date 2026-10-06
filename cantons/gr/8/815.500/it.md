@@ -4,12 +4,12 @@ number: "815.500"
 title: Ordinanza sul servizio avarie
 language: it
 version: 2005-01-01
-corrected: 2026-09-23
+corrected: 2026-10-07
 version_adopted: 2004-12-21
 adopted: 1998-10-27
 in_force: 1998-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/815.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2370/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3791/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -206,5 +206,46 @@ visto l'articolo 49 capoverso 1 della legge federale del 24 gennaio 1991 sulla p
 
 [^20-1]: AGS 1987, 1819 e AGS 1996, 3571
 [^20-2]: AGS 1993, 2731
+
+## A1 Appendice 1: Prestazioni del Cantone per l'intervento del servizio avarie
+
+#### Art. A1-1
+
+<sup>1</sup> Per le prestazioni lavorative dei pompieri in caso di sinistri vengono versati agli enti responsabili dei punti d'appoggio i seguenti indennizzi per persona, in base al dispendio di tempo (incluso il supplemento per lavori rischiosi e svolti sul terreno):
+
+- a) in caso di prestazione lavorativa nel comune: fr. 35.00 all'ora
+- b) in caso di prestazione lavorativa al di fuori del comune: 50 percento di supplemento sull'aliquota in base alla lettera a
+- c) in caso di prestazione lavorativa fra le ore 20.00 e le ore 6.00, nonché di sabato e di domenica: 50 percento di supplemento sull'aliquota in base alla lettera a
+
+<sup>2</sup> L'indennità di vitto si conforma alle aliquote secondo l'ordinanza cantonale sul personale e le relative disposizioni esecutive.
+
+## A2 Appendice 2: Assunzione delle spese da parte di chi è all'origine del sinistro
+
+#### Art. A2-1
+
+**Spese legate all'impiego di personale**
+
+<sup>1</sup> Per le prestazioni lavorative e per il vitto dei pompieri si conteggiano almeno le spese secondo l'appendice 1, art. A1-1, cpv. 1 e 2.
+
+<sup>2</sup> Per le prestazioni lavorative del personale cantonale si applicano le aliquote secondo il vigente decreto governativo sulle spese al prezzo di costo del Cantone per prestazioni speciali. Per le spese si applicano le aliquote secondo l'ordinanza cantonale sul personale[^A21-1] e le relative disposizioni esecutive[^A21-2].
+
+[^A21-1]: Ora secondo la legge cantonale sul personale, CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it).
+[^A21-2]: CSC [170.410](https://www.gr-lex.gr.ch/data/170.410/it).
+
+#### Art. A2-2
+
+**Spese legate all'impiego di materiale**
+
+<sup>1</sup> Per l'impiego di veicoli del servizio avarie, di equipaggiamento e di altro materiale vengono conteggiate le seguenti spese:
+
+- a) veicoli dei punti di appoggio per la difesa dalla fuoriuscita di sostanze chimiche (senza manovratore di veicoli):
+  - 1\. tassa base: — fr. 1'000.00
+  - 2\. per ogni ora di lavoro: — fr. 250.00
+- b) veicoli dei punti di appoggio per la difesa dalla fuoriuscita di idrocarburi (senza manovratore di veicoli):
+  - 1\. tassa base: — fr. 750.00
+  - 2\. per ogni ora di lavoro: — fr. 185.00
+- c) veicoli dei pompieri secondo tariffa dell'ente responsabile dei pompieri
+- d) Se l'equipaggiamento e altro materiale vengono messi a disposizione oltre l'orario di lavoro ordinario, può essere conteggiato un supplemento adeguato
+- e) La pulizia, la riparazione o l'impiego dell'equipaggiamento e di altro materiale, nonché di materiale di consumo vengono conteggiati secondo il dispendio
 
 -

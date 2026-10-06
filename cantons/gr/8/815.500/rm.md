@@ -4,12 +4,12 @@ number: "815.500"
 title: Ordinaziun davart il servetsch cunter donns
 language: rm
 version: 2005-01-01
-corrected: 2026-09-23
+corrected: 2026-10-07
 version_adopted: 2004-12-21
 adopted: 1998-10-27
 in_force: 1998-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/815.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2370/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3791/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -206,5 +206,46 @@ relaschada da la regenza ils 27 d'october 1998
 
 [^20-1]: CUL 1987, 1819 e CUL 1996, 3571
 [^20-2]: CUL 1993, 2731
+
+## A1 Agiunta 1: Prestaziuns dal chantun per l'acziun dal servetsch cunter donns
+
+#### Art. A1-1
+
+<sup>1</sup> Per lavurs dals pumpiers tar cas da donn vegnan pajadas als purtaders da las basas las suandantas indemnisaziuns tenor temp da lavur per persuna (incl. supplement da champagna e da ristga):
+
+- a) tar prestaziun da lavur entaifer la vischnanca: fr. 35.00 per ura
+- b) tar prestaziun da lavur ordaifer la vischnanca: 50 pertschient supplement sin la tariffa tenor la litera a
+- c) tar prestaziun da lavur da las 20.00 fin las 6.00 sco er durant sondas e dumengias: 50 pertschient supplement sin la tariffa tenor la litera a
+
+<sup>2</sup> L'indemnisaziun d'alimentaziun sa drizza tenor las tariffas da l'ordinaziun chantunala dal persunal e tenor sias disposiziuns executivas.
+
+## A2 Agiunta 2: Purtada dals custs tras la chaschunadra u tras il chaschunader
+
+#### Art. A2-1
+
+**Custs dal persunal**
+
+<sup>1</sup> Per las prestaziuns da lavur e per l'alimentaziun dals pumpiers vegnan mess a quint minimalmain ils custs tenor l'agiunta 1, art. A1-1 al. 1 e 2.
+
+<sup>2</sup> Per las prestaziuns da lavur dal persunal chantunal valan las tariffas da scuntrada tenor il conclus da la regenza davart il pretsch custant dal chantun per prestaziuns spezialas che vala mintgamai. Per las expensas valan las tariffas tenor l'ordinaziun chantunala dal persunal[^A21-1] e tenor sias disposiziuns executivas[^A21-2].
+
+[^A21-1]: Ussa tenor la lescha chantunala dal persunal, DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm).
+[^A21-2]: DG [170.410](https://www.gr-lex.gr.ch/data/170.410/rm).
+
+#### Art. A2-2
+
+**Custs da material**
+
+<sup>1</sup> Per l'acziun da vehichels dal servetsch cunter donns, per l'equipament e per l'ulteriur material vegnan mess a quint ils suandants custs:
+
+- a) vehichels da las basas per la dustanza da chemia (senza manischunz dal vehichel):
+  - 1\. taxa fundamentala: — fr. 1'000.00
+  - 2\. per ura d'acziun: — fr. 250.00
+- b) vehichels da las basas per la dustanza d'ieli (senza manischunz dal vehichel):
+  - 1\. taxa fundamentala: — fr. 750.00
+  - 2\. per ura d'acziun: — fr. 185.00
+- c) vehichels a motor dals pumpiers tenor la tariffa dals purtaders dals pumpiers
+- d) Sch'i vegn mess a disposiziun equipament ed ulteriur material sur il temp d'acziun ordinari or, po vegnir mess a quint in supplement adequat
+- e) Il nettegiament, la reparatura u il remplazzament da l'equipament e d'ulteriur material sco er il material da diever vegn mess a quint tenor las expensas
 
 -

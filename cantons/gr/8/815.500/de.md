@@ -5,12 +5,12 @@ title: Verordnung über den Schadendienst
 short: Schadendienstverordnung
 language: de
 version: 2005-01-01
-corrected: 2026-09-23
+corrected: 2026-10-07
 version_adopted: 2004-12-21
 adopted: 1998-10-27
 in_force: 1998-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/815.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2370/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3791/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -209,5 +209,46 @@ von der Regierung erlassen am 27. Oktober 1998
 
 [^20-1]: AGS 1987, 1819 und AGS 1996, 3571
 [^20-2]: AGS 1993, 2731
+
+## A1 Anhang 1: Leistungen des Kantons für den Einsatz des Schadendienstes
+
+#### Art. A1-1
+
+<sup>1</sup> Für die Arbeitsleistungen der Feuerwehr bei Schadenfällen werden den Trägerschaften der Stützpunkte nach Zeitaufwand pro Person folgende Entschädigung (einschliesslich Feld- und Risikozuschlag) ausgerichtet:
+
+- a) bei Arbeitsleistung innerhalb der Gemeinde: Fr. 35.00 pro Stunde
+- b) bei Arbeitsleistung ausserhalb der Gemeinde: 50 Prozent Zuschlag auf den Ansatz gemäss Litera a
+- c) bei Arbeitsleistung von 20.00 Uhr bis 6.00 Uhr sowie an Samstagen und Sonntagen: 50 Prozent Zuschlag auf den Ansatz gemäss Litera a
+
+<sup>2</sup> Die Verpflegungsentschädigung richtet sich nach den Ansätzen gemäss der Kantonalen Personalverordnung und den dazugehörigen Ausführungsbestimmungen.
+
+## A2 Anhang 2: Kostentragung durch die Verursacher
+
+#### Art. A2-1
+
+**Personalkosten**
+
+<sup>1</sup> Für die Arbeitsleistungen und die Verpflegung der Feuerwehr werden mindestens die Kosten gemäss Anhang 1, Art. A1-1, Abs. 1 und 2 verrechnet.
+
+<sup>2</sup> Für die Arbeitsleistungen des kantonalen Personals gelten die Verrechnungsansätze gemäss dem jeweils geltenden Beschluss der Regierung über die Selbstkosten des Kantons für besondere Leistungen. Für die Spesen gelten die Ansätze nach der kantonalen Personalverordnung[^A21-1] und den dazugehörigen Ausführungsbestimmungen[^A21-2].
+
+[^A21-1]: Nunmehr nach dem kantonalen Personalgesetz, BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de).
+[^A21-2]: BR [170.410](https://www.gr-lex.gr.ch/data/170.410/de).
+
+#### Art. A2-2
+
+**Materialkosten**
+
+<sup>1</sup> Für den Einsatz von Schadendienst-Fahrzeugen, Ausrüstung und weiterem Material werden folgende Kosten verrechnet:
+
+- a) Fahrzeuge der Stützpunkte für Chemiewehr (ohne Fahrzeugbedienung):
+  - 1\. Grundgebühr: — Fr. 1'000.00
+  - 2\. pro Einsatzstunde: — Fr. 250.00
+- b) Fahrzeuge der Stützpunkte für Ölwehr (ohne Fahrzeugbedienung):
+  - 1\. Grundgebühr: — Fr. 750.00
+  - 2\. pro Einsatzstunde: — Fr. 185.00
+- c) Motorfahrzeuge der Feuerwehr gemäss Tarif der Trägerschaft der Feuerwehr
+- d) Wird Ausrüstung und weiteres Material über die ordentliche Einsatzzeit hinaus zur Verfügung gestellt, kann ein angemessener Zuschlag verrechnet werden
+- e) Reinigung, Reparatur oder Ersatz der Ausrüstung und von weiterem Material sowie Verbrauchsmaterial wird nach Aufwand verrechnet
 
 -
