@@ -4,12 +4,12 @@ number: "815.350"
 title: "Ordinanza sulle tasse per la protezione dell'ambiente *"
 language: it
 version: 2015-01-01
-corrected: 2026-09-27
+corrected: 2026-10-07
 version_adopted: 2014-12-23
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/815.350"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2450/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3798/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -124,5 +124,119 @@ ai sensi dell'articolo 48 della legge federale sulla protezione dell'ambiente (L
 <sup>2</sup> A tale data è abrogata la tariffa per la protezione delle acque e dell'ambiente del 3 dicembre 1991[^9-1].
 
 [^9-1]: AGS 1991, 2596
+
+## A1 Appendice 1: Tasse per le autorizzazioni e altre disposizioni
+
+#### Art. A1-1
+
+**Autorizzazioni e altre disposizioni in base alla legislazione sulla protezione dell'ambiente**
+
+<sup>1</sup> Autorizzazioni e altre disposizioni in base alla legislazione sulla protezione dell'ambiente:
+
+- a) Autorizzazione per l'allestimento di una discarica (art. 30e cpv. 2 LPAmb): — giusta dispendio
+- b) Consenso per il rilascio dell'autorizzazione di costruzione per altri impianti di trattamento dei rifiuti utilizzati come discariche (art. 42 cpv. 2 LCPAmb):
+  - 1\. impianti di incenerimento di rifiuti urbani: — giusta dispendio
+  - 2\. impianti per il compostaggio: — fr. 300.00–fr. 1'500.00
+  - 3\. posti di raccolta e di selezionamento dei rifiuti edilizi: — fr. 600.00–fr. 3'000.00
+  - 4\. posti di raccolta per veicoli fuori uso: — fr. 300.00–fr. 1'500.00
+  - 5\. depositi temporanei per rifiuti: — fr. 300.00–fr. 1'500.00
+  - 6\. altri: — giusta dispendio
+- c) Autorizzazione per l'esercizio di una discarica (art. 30e cpv. 2 LPAmb) o di un altro impianto di trattamento dei rifiuti (art. 43 LCPAmb): — fr. 600.00–fr. 6'000.00
+- d) Autorizzazione per la ricezione di rifiuti speciali o altri rifiuti soggetti a controllo (art. 8 OTRif): — fr. 300.00–fr. 1'500.00
+- e) Consenso per il rilascio dell'autorizzazione di costruzione per impianti che provocano un elevato inquinamento atmosferico (art. 13 LCPAmb):
+  - 1\. per impianti di combustione: — fr. 100.00–fr. 600.00
+  - 2\. per altri impianti: — giusta dispendio
+- f) Esito della misurazione per impianti di combustione e motori a combustione interna stazionari (art. 13 OIAt, art. 15 LCPAmb), se del caso con decisione di risanamento (art. 8 OIAt, art. 16 LCPAmb): — fr. 100.00–fr. 500.00
+- g) Proroga del termine di risanamento per impianti di combustione (art. 11 OIAt): — fr. 100.00–fr. 500.00
+- h) Consenso per il rilascio dell'autorizzazione di costruzione per edifici con locali sensibili al rumore in zone esposte al rumore (art. 25 cpv. 2 LCPAmb): — giusta dispendio
+- i) Autorizzazione per l'incenerimento di rifiuti verdi (art. 26b OIAt): — fr. 50.00–fr. 500.00
+- j) Consenso per il rilascio dell'autorizzazione di costruzione in caso di interventi in fondi inquinati da rifiuti (art. 48 LCPAmb): — fr. 300.00–fr. 3'000.00
+- k) Consenso per il rilascio dell'autorizzazione di costruzione per impianti in aziende soggette all'ordinanza sulla protezione dai guasti (art. 52 cpv. 2 LCPAmb): — fr. 300.00–fr. 3'000.00
+- l) Determinazione degli obiettivi di risanamento e dei provvedimenti di risanamento, ecc., per siti contaminati (art. 18 cpv. 2 OSiti): — fr. 300.00–fr. 3'000.00
+- m) Decisione in merito alla ripartizione delle spese per il risanamento di siti contaminati (art. 32d LPAmb): — fr. 300.00–fr. 5'000.00
+- n) Autorizzazione dell'alienazione o della divisione di un fondo sul quale si trova un sito iscritto nel catasto dei siti inquinati (art. 32d<sup>bis</sup> cpv. 3 LPAmb): — fr. 300.00–fr. 5'000.00
+- o) Altre decisioni in base alla legge federale sulla protezione dell'ambiente, alle relative ordinanze d'attuazione, nonché alla legislazione cantonale sulla protezione dell'ambiente: — giusta dispendio
+
+#### Art. A1-2
+
+**Autorizzazioni e altre decisioni in base alla legislazione sulla protezione delle acque e alla legge sugli impianti di trasporto in condotta (RS [746.1](https://db.clex.ch/link/Bund/746.1/it))**
+
+<sup>1</sup> Autorizzazioni e altre decisioni in base alla legislazione sulla protezione delle acque e alla legge sugli impianti di trasporto in condotta (RS [746.1](https://db.clex.ch/link/Bund/746.1/it)):
+
+- a) Autorizzazioni per l'immissione di acque di scarico depurate in acque di superficie risp. per lasciar filtrare le acque di scarico depurate nel sottosuolo (art. 7 cpv. 1 LPAc):
+  - 1\. da edifici abitativi: — fr. 200.00–fr. 1'000.00
+  - 2\. da impianti per la ghiaia, cantieri, aziende industriali e artigianali, ecc.: — fr. 300.00–fr. 1'500.00
+- b) Autorizzazioni per l'immissione di acque di scarico non inquinate in acque di superficie (art. 7 cpv. 2 LPAc): — fr. 200.00–fr. 1'000.00
+- c) Disposizione di un pretrattamento per acque di scarico (art. 12 cpv. 1 LPAc) risp. autorizzazione per l'immissione di acque di scarico trattate nelle canalizzazioni: — fr. 300.00–fr. 1'500.00
+- d) Disposizione di uno smaltimento appropriato di acque di scarico non idonee al trattamento in una stazione centrale di depurazione (art. 12 cpv. 2 LPAc): — fr. 300.00–fr. 1'500.00
+- e) Autorizzazione eccezionale per l'introduzione di acque di scarico non inquinate con afflusso permanente in una stazione centrale di depurazione (art. 12 cpv. 3 LPAc): — fr. 300.00–fr. 1'500.00
+- f) Autorizzazione per la costruzione e la modificazione di edifici e impianti come pure l'esecuzione di lavori di scavo, di sterro e simili nei settori particolarmente minacciati (art. 19 cpv. 2 LPAc, art. 32 cpv. 2 lett. a–f OPAc):
+  - 1\. costruzioni sotterranee: — fr. 300.00–fr. 1'500.00
+  - 2\. impianti che danneggiano lo strato di copertura o il sostrato impermeabile: — fr. 300.00–fr. 1'500.00
+  - 3\. utilizzazioni di acque sotterranee: — fr. 300.00–fr. 1'500.00
+  - 4\. drenaggi e irrigazioni permanenti: — giusta dispendio
+  - 5\. scoprimenti della falda freatica: — giusta dispendio
+  - 6\. perforazioni: — fr. 300.00–fr. 1'500.00
+- g) Autorizzazione per la costruzione e la modificazione di impianti di deposito e piazzole di travaso nei settori particolarmente minacciati (art. 19 cpv. 2 LPAc, art. 32 cpv. 2 lett. g–j OPAc):
+  - 1\. impianti adibiti al deposito dei concimi aziendali liquidi: — fr. 300.00–fr. 1'500.00
+  - 2\.1. impianti di deposito per liquidi nocivi alle acque che in piccole quantità sono suscettibili di inquinare le acque, aventi un volume utile di oltre 2'000 l per contenitore per il deposito oltre 2'000 l fino a 10'000 l di capienza totale: — fr. 600.00
+  - 2\.2. impianti di deposito per liquidi nocivi alle acque che in piccole quantità sono suscettibili di inquinare le acque, aventi un volume utile di oltre 2'000 l per contenitore per il deposito oltre 10'000 l fino a 100'000 l di capienza totale: — fr. 1'000.00
+  - 2\.3. impianti di deposito per liquidi nocivi alle acque che in piccole quantità sono suscettibili di inquinare le acque, aventi un volume utile di oltre 2'000 l per contenitore per il deposito oltre 100'000 l di capienza totale: — giusta dispendio
+  - 3\.1. impianti di deposito per liquidi nocivi alle acque, aventi un volume utile di oltre 450 l, situati in zone ed aree di protezione delle acque sotterranee fino a 10'000 l di capienza totale: — fr. 500.00–fr. 1'500.00
+  - 3\.2. impianti di deposito per liquidi nocivi alle acque, aventi un volume utile di oltre 450 l, situati in zone ed aree di protezione delle acque sotterranee oltre 10'000 l fino a 30'000 l di capienza totale: — fr. 1'000.00–fr. 3'000.00
+  - 4\.1. piazzole di travaso per liquidi nocivi alle acque: stazioni di servizio con 1–4 pompe distributrici: — fr. 500.00–fr. 1'500.00
+  - 4\.2. piazzole di travaso per liquidi nocivi alle acque: stazioni di servizio con più di 4 pompe distributrici: — fr. 1'000.00–fr. 2'000.00
+  - 4\.3. piazzole di travaso per liquidi nocivi alle acque: altre piazzole di travaso: — giusta dispendio
+- h) Registrazione della costruzione o della modifica di un impianto di deposito soggetto all'obbligo di notifica contenente liquidi che costituiscono un pericolo per le acque (art. 22 cpv. 5 LPAc): — fr. 100.00–fr. 300.00
+- i) Autorizzazione per impianti di esercizio e circuiti contenenti liquidi nocivi alle acque che prelevano calore dalle acque o dal suolo (art. 28 legge cantonale d'introduzione alla LPAc):
+  - 1\. in zone sicure dal punto di vista idrologico per impianto: — fr. 300.00
+  - 2\. in zone delicate dal punto di vista idrologico: — giusta dispendio
+  - 3\. in caso di grandi impianti (oltre 10 sonde geotermiche): — giusta dispendio
+- j) Approvazione di zone di protezione per captazioni di acque freatiche e di sorgenti dell'ente pubblico (art. 20 cpv. 1 LPAc e art. 24 cpv. 2 legge cantonale d'introduzione alla LPAc): — fr. 1'000.00–fr. 5'000.00
+- k) Autorizzazione per prelievi d'acqua:
+  - 1\. da corsi d'acque a deflusso permanente o da lago (art. 29 LPAc): — giusta dispendio
+  - 2\. da falde freatiche (art. 29 LPAc, art. 113 LICC): — fr. 700.00–fr. 3'500.00
+- l) Autorizzazione eccezionale per il rifacimento di coperture o messe in gallerie di corsi d'acqua (art. 38 cpv. 2 LPAc): — fr. 300.00–fr. 1'500.00
+- m) Autorizzazione per il riporto in laghi (art. 39 cpv. 2 LPAc): — giusta dispendio
+- n) Autorizzazione per spurgo o svuotamenti di bacini di accumulazione (art. 40 cpv. 2 LPAc): — giusta dispendio
+- o) Autorizzazione eccezionale per la restituzione di detriti fluttuanti nei corsi d'acqua (art. 42 cpv. 1 LPAc): — giusta dispendio
+- p) Autorizzazione eccezionale per impianti di accumulazione con modesta altezza dell'acqua (art. 43 cpv. 5 LPAc): — giusta dispendio
+- q) Autorizzazione per l'estrazione di ghiaia, sabbia o altri materiali oppure per scavi a tale scopo (art. 44 LPAc):
+  - 1\. quantitativo prelevato fino a 5'000 m³ all'anno: — fr. 500.00–fr. 2'500.00
+  - 2\. quantitativo prelevato oltre 5'000 m³ fino a 20'000 m³ all'anno: — fr. 2'000.00–fr. 10'000.00
+  - 3\. quantitativo prelevato oltre 20'000 m³ all'anno: — giusta dispendio
+- r) Altre decisioni in base alla legislazione sulla protezione delle acque: — giusta dispendio
+- s) Costruzione ed esercizio di impianti di trasporto in condotta (art. 42 LITC): — fr. 300.00–fr. 3'000.00
+
+## A2 Appendice 2: Tariffe per controlli e misurazioni, nonché per servizi speciali
+
+#### Art. A2-1
+
+**Controlli e misurazioni**
+
+<sup>1</sup> Controlli e misurazioni:
+
+- a) Misurazioni delle emissioni per impianti di combustione e motori a combustione interna stazionari (art. 13 OIAt, art. 15 LCPAmb): — fr. 500.00–fr. 2'500.00
+- b) Analisi delle ceneri in caso di sospetto di abuso di sostanze combustibili: — fr. 100.00–fr. 250.00
+- c) Misurazioni del rumore sulla base dell'ordinanza contro l'inquinamento fonico (durata massima due ore): — fr. 750.00
+  - 1\. ogni ora supplementare: — fr. 100.00
+  - 2\. interpretazione e allestimento di un rapporto: — giusta dispendio
+- d) Rilevazioni fonometriche sulla base dell'ordinanza sugli stimoli sonori ed i raggi laser (durata massima un'ora): — fr. 600.00
+  - 1\. ogni ora supplementare: — fr. 100.00
+  - 2\. interpretazione e allestimento di un rapporto: — giusta dispendio
+- e) Altri controlli e misurazioni: — giusta dispendio
+
+#### Art. A2-2
+
+**Servizi particolari**
+
+<sup>1</sup> Servizi particolari:
+
+- a) Fornitura di dati di misurazione, piani, rapporti, ecc.: — giusta dispendio
+- b) Prelievo di campioni ad opere dell'Ufficio per la natura e l'ambiente su richiesta di terzi: — giusta dispendio
+- c) Utilizzazione di stazioni di misurazione e strumenti di misura da parte di terzi: — fr. 100.00–fr. 1'000.00
+- d) Rapporto specialistico sulle emissioni di impianti con radiazioni non ionizzanti: — fr. 500.00–fr. 3'500.00
+- e) Accompagnamento di spurghi di bacini di accumulazione: — giusta dispendio
+- f) Altre prestazioni particolari: — giusta dispendio
 
 -
