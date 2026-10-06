@@ -5,11 +5,12 @@ title: Verordnung über den Gewässerschutz in der Landwirtschaft
 short: KGSchVL
 language: de
 version: 2020-01-01
+corrected: 2026-10-07
 version_adopted: 2019-11-19
 adopted: 2019-11-19
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/910.150"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3870/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -42,7 +43,7 @@ von der Regierung erlassen am 19. November 2019
 
 **Koordination des Vollzugs**
 
-<sup>1</sup> Sind auf einen zusammenhängenden Sachverhalt sowohl Bestimmungen über den Gewässerschutz in der Landwirtschaft als auch übrige Gewässerschutzbestimmungen anwendbar, so koordinieren das Amt für Landwirtschaft und Geoinformation und das Amt für Umwelt den Vollzug und legen die Zuständigkeiten fest.
+<sup>1</sup> Sind auf einen zusammenhängenden Sachverhalt sowohl Bestimmungen über den Gewässerschutz in der Landwirtschaft als auch übrige Gewässerschutzbestimmungen anwendbar, so koordinieren das Amt für Landwirtschaft und Geoinformation und das Amt für Natur und Umwelt den Vollzug und legen die Zuständigkeiten fest.
 
 ## 2. Bauliche Anforderungen an die Lagerung von Hofdünger
 

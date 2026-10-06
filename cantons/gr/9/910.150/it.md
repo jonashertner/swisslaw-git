@@ -5,11 +5,12 @@ title: "Ordinanza sulla protezione delle acque nell'agricoltura"
 short: OPAA
 language: it
 version: 2020-01-01
+corrected: 2026-10-07
 version_adopted: 2019-11-19
 adopted: 2019-11-19
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/910.150"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3870/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2985/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -42,7 +43,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Coordinamento dell'esecuzione**
 
-<sup>1</sup> Se a una fattispecie correlata sono applicabili sia disposizioni in materia di protezione delle acque nell'agricoltura sia altre disposizioni relative alla protezione delle acque, l'Ufficio per l'agricoltura e la geoinformazione e l'Ufficio dell'ambiente coordinano l'esecuzione e definiscono le competenze.
+<sup>1</sup> Se a una fattispecie correlata sono applicabili sia disposizioni in materia di protezione delle acque nell'agricoltura sia altre disposizioni relative alla protezione delle acque, l'Ufficio per l'agricoltura e la geoinformazione e l'Ufficio per la natura e l'ambiente coordinano l'esecuzione e definiscono le competenze.
 
 ## 2. Requisiti edilizi per il deposito di concimi aziendali
 

@@ -5,11 +5,12 @@ title: "Ordinaziun davart la protecziun da las auas en l'agricultura"
 short: OCPAAgr
 language: rm
 version: 2020-01-01
+corrected: 2026-10-07
 version_adopted: 2019-11-19
 adopted: 2019-11-19
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/910.150"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3870/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -42,7 +43,7 @@ relaschada da la regenza ils 19 da november 2019
 
 **Coordinaziun da l'execuziun**
 
-<sup>1</sup> Sche tant las disposiziuns davart la protecziun da las auas en l'agricultura sco er ulteriuras disposiziuns davart la protecziun da las auas èn applitgablas en fatgs coerents, coordineschan l'Uffizi d'agricultura e da geoinfurmaziun e l'Uffizi d'ambient l'execuziun e fixeschan las cumpetenzas.
+<sup>1</sup> Sche tant las disposiziuns davart la protecziun da las auas en l'agricultura sco er ulteriuras disposiziuns davart la protecziun da las auas èn applitgablas en fatgs coerents, coordineschan l'uffizi d'agricultura e da geoinfurmaziun e l'uffizi per la natira e l'ambient l'execuziun e fixeschan las cumpetenzas.
 
 ## 2. Pretensiuns da construcziun envers il deposit da ladim natiral
 
