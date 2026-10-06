@@ -5,11 +5,12 @@ title: Vollziehungsverordnung zum Bundesgesetz über Tabakprodukte und elektroni
 short: VVzTabPG
 language: de
 version: 2025-04-01
+corrected: 2026-10-07
 version_adopted: 2025-02-18
 adopted: 2025-02-18
 in_force: 2025-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/507.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3884/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3533/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -38,7 +39,7 @@ von der Regierung erlassen am 18. Februar 2025
 
 **Generelle Zuständigkeit**
 
-<sup>1</sup> Das Veterinär- und Lebensmittelamt ist die generelle Vollzugsstelle für Tabakprodukte und elektronische Zigaretten.
+<sup>1</sup> Das Amt für Lebensmittelsicherheit und Tiergesundheit ist die generelle Vollzugsstelle für Tabakprodukte und elektronische Zigaretten.
 
 #### Art. 3
 

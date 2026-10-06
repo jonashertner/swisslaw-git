@@ -5,11 +5,12 @@ title: "Ordinanza d'esecuzione della legge federale sui prodotti del tabacco e s
 short: OEdLPTab
 language: it
 version: 2025-04-01
+corrected: 2026-10-07
 version_adopted: 2025-02-18
 adopted: 2025-02-18
 in_force: 2025-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/507.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3884/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3533/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -38,7 +39,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Competenza generale**
 
-<sup>1</sup> L'Ufficio veterinario e alimentare è l'organo esecutivo generale per quanto riguarda i prodotti del tabacco e le sigarette elettroniche.
+<sup>1</sup> L'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali è l'organo esecutivo generale per quanto riguarda i prodotti del tabacco e le sigarette elettroniche.
 
 #### Art. 3
 

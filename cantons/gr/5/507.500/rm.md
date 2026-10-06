@@ -5,11 +5,12 @@ title: Ordinaziun executiva tar la Lescha federala davart ils products da tubac 
 short: OEtLPTub
 language: rm
 version: 2025-04-01
+corrected: 2026-10-07
 version_adopted: 2025-02-18
 adopted: 2025-02-18
 in_force: 2025-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/507.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3884/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3533/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -38,7 +39,7 @@ relaschada da la Regenza ils 18 da favrer 2025
 
 **Cumpetenza generala**
 
-<sup>1</sup> L'Uffizi da veterinari e victualias è l'organ executiv general per products da tubac e cigarettas electronicas.
+<sup>1</sup> L'Uffizi per la segirezza da victualias e per la sanadad d'animals è l'organ executiv general per products da tubac e cigarettas electronicas.
 
 #### Art. 3
 
