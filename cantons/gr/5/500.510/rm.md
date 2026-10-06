@@ -5,12 +5,12 @@ title: Ordinaziun tar la lescha introductiva tar la lescha federala davart ils m
 short: "ordinaziun tar la lescha introductiva tar la lescha davart ils products terapeutics, OtLItLPTer"
 language: rm
 version: 2018-01-01
-corrected: 2026-09-22
+corrected: 2026-10-07
 version_adopted: 2017-06-20
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.510"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2869/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3748/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -165,5 +165,51 @@ concludida da la regenza ils 21 da december 2010
 
 [^13-1]: 1. da schaner 2011
 [^13-2]: DG [500.500](https://www.gr-lex.gr.ch/data/500.500/rm)
+
+## A1 Agiunta 1: art. 1
+
+#### Art. A1-1
+
+<sup>1</sup> Ils suandants medicaments che basegnan in recept dastgan vegnir applitgads da:
+
+- a) spendreras e spendrers:
+  - 1\. Ecodolor tabl. 50mg, 100mg, guts 100mg/ml
+  - 2\. Tramadol Helvepharm caps. 50mg, guts 100mg/ml, supp. 100mg
+  - 3\. Tramadol Mepha caps. 50mg, guts 100mg/ml, supp. 100mg, amp. 100mg/2ml
+  - 4\. Tramadol Streuli caps. 50mg, guts 100mg/ml, amp. 100mg/2ml
+  - 5\. Tramal caps. 50mg, guts 100mg/ml, amp. 100mg/2ml
+  - 6\. Tramundin tabl. ret. 100mg, guts 100mg/ml
+  - 7\. Stesolid-Novum amp. 10mg/2ml
+  - 8\. Valium amp. 10mg/2ml
+  - 9\. Rhophylac 300 amp. 2ml
+  - 10\. NaCl 0.9% amp. 10ml, infusiun curta 100ml, cumpensaziun dal volumen 250ml, 500ml, 1000ml
+  - 11\. Ringer-Lactat cumpensaziun dal volumen 250ml, 500ml, 1000ml
+  - 12\. Ringer-Lactat + glucosa 5% cumpensaziun dal volumen 250ml, 500ml, 1000ml
+  - 13\. Lidocain ACS Dobfar 1% amp.
+  - 14\. Lidocain HCl Bichsel 1% amp.
+  - 15\. Lidocain Streuli 1% amp.
+  - 16\. Rapidocain 1% amp.
+  - 17\. Xylesin 1% amp.
+  - 18\. Xylocain vapurisader 10%
+  - 19\. Buscopan pirlas 10mg, supp. 10mg
+  - 20\. Buscopan Inject amp. 20mg/ml
+  - 21\. Gynipral amp. 10mcg
+  - 22\. Syntocinon amp. 5 IE/ml
+  - 23\. Methergin amp. 0.2mg/ml
+  - 24\. Konakion MM paediatric amp. 2mg/0.2ml
+- b) chiropraticantas e chiropraticants:
+  - 1\. Assan Forte schel e crema
+  - 2\. Histalgan mite liniment
+  - 3\. Fastum schel tuba e distribuider
+  - 4\. Nisulid schel
+  - 5\. Äthylchlorid Sintetica vapurisader
+  - 6\. Lidocain ACS Dobfar 1% amp.
+  - 7\. Lidocain HCl Bichsel 1% amp.
+  - 8\. Lidocain Streuli 1% amp.
+  - 9\. Rapidocain 1% amp.
+  - 10\. Xylesin 1% amp.
+  - 11\. Formasan amp.
+  - 12\. Diprophos amp.
+  - 13\. Olfen-75 amp.
 
 -

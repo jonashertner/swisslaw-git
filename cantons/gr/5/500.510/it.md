@@ -5,12 +5,12 @@ title: "Ordinanza della legge d'applicazione della legge federale sui medicament
 short: "Ordinanza della legge d'applicazione della legge sugli agenti terapeutici, OLAdLATer"
 language: it
 version: 2018-01-01
-corrected: 2026-09-22
+corrected: 2026-10-07
 version_adopted: 2017-06-20
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.510"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2869/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3748/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -165,5 +165,51 @@ visto l'art. 45 della Costituzione cantonale del 18 maggio / 14 settembre 2003[^
 
 [^13-1]: CSC [500.500](https://www.gr-lex.gr.ch/data/500.500/it)
 [^13-2]: 1° gennaio 2011
+
+## A1 Appendice 1: Art. 1
+
+#### Art. A1-1
+
+<sup>1</sup> I seguenti medicamenti soggetti a prescrizione possono essere utilizzati da:
+
+- a) levatrici e ostetrici:
+  - 1\. Ecodolor compresse 50mg, 100mg, gocce 100mg/ml
+  - 2\. Tramadol Helvepharm capsule 50mg, gocce 100mg/ml, supp. 100mg
+  - 3\. Tramadol Mepha capsule 50mg, gocce 100mg/ml, supp. 100mg, fiale 100mg/2ml
+  - 4\. Tramadol Streuli capsule 50mg, gocce 100mg/ml, fiale 100mg/2ml
+  - 5\. Tramal capsule 50mg, gocce 100mg/ml, fiale 100mg/2ml
+  - 6\. Tramundin Ret. compresse 100mg, gocce 100mg/ml
+  - 7\. Stesolid-Novum fiale 10mg/2ml
+  - 8\. Valium fiale 10mg/2ml
+  - 9\. Rhophylac 300 fiale 2ml
+  - 10\. NaCl 0.9% fiale 10ml, infusione breve 100ml, sostituzione volume 250ml, 500ml, 1000ml
+  - 11\. Ringer-Lactat sostituzione volume 250ml, 500ml, 1000ml
+  - 12\. Ringer-Lactat + glucosio 5% sostituzione volume 250ml, 500ml, 1000ml
+  - 13\. Lidocain ACS Dobfar 1% fiale
+  - 14\. Lidocain HCl Bichsel 1% fiale
+  - 15\. Lidocain Streuli 1% fiale
+  - 16\. Rapidocain 1% fiale
+  - 17\. Xylesin 1% fiale
+  - 18\. Xylocain spray 10%
+  - 19\. Buscopan confetti 10mg, supp. 10mg
+  - 20\. Buscopan Inject fiale 20mg/ml
+  - 21\. Gynipral fiale 10mcg
+  - 22\. Syntocinon fiale 5 IE/ml
+  - 23\. Methergin fiale 0.2mg/ml
+  - 24\. Konakion MM paediatric fiale 2mg/0.2ml
+- b) chiropratici:
+  - 1\. Assan Forte Gel e Crème
+  - 2\. Histalgan mite Liniment
+  - 3\. Fastum Gel tubo e dispenser
+  - 4\. Nisulid Gel
+  - 5\. Äthylchlorid Sintetica spray
+  - 6\. Lidocain ACS Dobfar 1% fiale
+  - 7\. Lidocain HCl Bichsel 1% fiale
+  - 8\. Lidocain Streuli 1% fiale
+  - 9\. Rapidocain 1% fiale
+  - 10\. Xylesin 1% fiale
+  - 11\. Formasan fiale
+  - 12\. Diprophos fiale
+  - 13\. Olfen-75 fiale
 
 -

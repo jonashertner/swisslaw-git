@@ -5,12 +5,12 @@ title: Verordnung zum Einführungsgesetz zum Bundesgesetz über Arzneimittel und
 short: "Verordnung zum Einführungsgesetz zum Heilmittelgesetz, VOzEGzHMG"
 language: de
 version: 2018-01-01
-corrected: 2026-09-22
+corrected: 2026-10-07
 version_adopted: 2017-06-20
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.510"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2869/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3748/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -165,5 +165,51 @@ von der Regierung beschlossen am 21. Dezember 2010
 
 [^13-1]: BR [500.500](https://www.gr-lex.gr.ch/data/500.500/de)
 [^13-2]: 1. Januar 2011
+
+## A1 Anhang 1: Art. 1
+
+#### Art. A1-1
+
+<sup>1</sup> Folgende verschreibungspflichtige Arzneimittel dürfen angewendet werden von:
+
+- a) Hebammen und Entbindungspfleger:
+  - 1\. Ecodolor Tabl. 50mg, 100mg, Tropfen 100mg/ml
+  - 2\. Tramadol Helvepharm Kaps. 50mg, Tropfen 100mg/ml, Supp. 100mg
+  - 3\. Tramadol Mepha Kaps. 50mg, Tropfen 100mg/ml, Supp. 100mg, Amp. 100mg/2ml
+  - 4\. Tramadol Streuli Kaps. 50mg, Tropfen 100mg/ml, Amp. 100mg/2ml
+  - 5\. Tramal Kaps. 50mg, Tropfen 100mg/ml, Amp. 100mg/2ml
+  - 6\. Tramundin Ret. Tab. 100mg, Tropfen 100mg/ml
+  - 7\. Stesolid-Novum Amp.10mg/2ml
+  - 8\. Valium Amp. 10mg/2ml
+  - 9\. Rhophylac 300 Amp. 2ml
+  - 10\. NaCl 0.9% Amp.10ml, Kurzinfusion 100ml, Volumenersatz 250ml, 500ml, 1000ml
+  - 11\. Ringer-Lactat Volumenersatz 250ml, 500ml, 1000ml
+  - 12\. Ringer-Lactat + Glucose 5% Volumenersatz 250ml, 500ml, 1000ml
+  - 13\. Lidocain ACS Dobfar 1% Amp.
+  - 14\. Lidocain HCl Bichsel 1% Amp.
+  - 15\. Lidocain Streuli 1% Amp.
+  - 16\. Rapidocain 1% Amp.
+  - 17\. Xylesin 1% Amp.
+  - 18\. Xylocain Spray 10%
+  - 19\. Buscopan Dragées 10mg, Supp. 10mg
+  - 20\. Buscopan Inject Amp. 20mg/ml
+  - 21\. Gynipral Amp. 10mcg
+  - 22\. Syntocinon Amp. 5 IE/ml
+  - 23\. Methergin Amp. 0.2mg/ml
+  - 24\. Konakion MM paediatric Amp. 2mg/0.2ml
+- b) Chiropraktorinnen und Chiropraktoren:
+  - 1\. Assan Forte Gel und Crème
+  - 2\. Histalgan mite Liniment
+  - 3\. Fastum Gel Tube und Dispenser
+  - 4\. Nisulid Gel
+  - 5\. Äthylchlorid Sintetica Spray
+  - 6\. Lidocain ACS Dobfar 1% Amp.
+  - 7\. Lidocain HCl Bichsel 1% Amp.
+  - 8\. Lidocain Streuli 1% Amp.
+  - 9\. Rapidocain 1% Amp.
+  - 10\. Xylesin 1% Amp.
+  - 11\. Formasan Amp.
+  - 12\. Diprophos Amp.
+  - 13\. Olfen-75 Amp.
 
 -
