@@ -4,11 +4,12 @@ number: "421.850"
 title: Verordnung über die Schulzahnpflege
 language: de
 version: 2026-08-01
+corrected: 2026-10-07
 version_adopted: 2026-04-07
 adopted: 2026-04-07
 in_force: 2026-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.850"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3874/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3632/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

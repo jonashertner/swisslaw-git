@@ -4,11 +4,12 @@ number: "421.850"
 title: Ordinanza sul servizio dentistico scolastico
 language: it
 version: 2026-08-01
+corrected: 2026-10-07
 version_adopted: 2026-04-07
 adopted: 2026-04-07
 in_force: 2026-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.850"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3874/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3632/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -45,7 +46,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 51 dell
 
 **Cantone**
 
-<sup>1</sup> L'Ufficio della sanità è competente per la vigilanza sullo svolgimento del servizio dentistico scolastico.
+<sup>1</sup> L'Ufficio dell'igiene pubblica è competente per la vigilanza sullo svolgimento del servizio dentistico scolastico.
 
 #### Art. 4
 
@@ -69,7 +70,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 51 dell
 
 **Regolamenti, contratti**
 
-<sup>1</sup> Gli enti responsabili sono tenuti a trasmettere all'Ufficio della sanità e al segretariato dell'Ordine dei dentisti grigionesi (ODG) una copia ciascuno dei regolamenti sul servizio dentistico scolastico e dei contratti stipulati con i dentisti scolastici.
+<sup>1</sup> Gli enti responsabili sono tenuti a trasmettere all'Ufficio dell'igiene pubblica e al segretariato dell'Ordine dei dentisti grigionesi (ODG) una copia ciascuno dei regolamenti sul servizio dentistico scolastico e dei contratti stipulati con i dentisti scolastici.
 
 ## 2. Svolgimento
 
