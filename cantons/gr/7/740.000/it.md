@@ -5,11 +5,12 @@ title: "Legge cantonale sulla caccia *"
 short: LCC
 language: it
 version: 2025-08-01
+corrected: 2026-10-07
 version_adopted: 2025-06-10
 adopted: 1989-06-04
 in_force: 1990-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/740.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3894/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3558/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -412,7 +413,7 @@ accettata dal Popolo il 4 giugno 1989
 
 **Detenzione di selvaggina**
 
-<sup>1</sup> Il permesso per la detenzione di selvaggina viene rilasciato dall'ufficio competente. Va previamente sentito l'Ufficio veterinario e alimentare.
+<sup>1</sup> Il permesso per la detenzione di selvaggina viene rilasciato dall'ufficio competente. Va previamente sentito l'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali.
 
 <sup>2</sup> …
 

@@ -5,11 +5,12 @@ title: Kantonales Jagdgesetz
 short: KJG
 language: de
 version: 2025-08-01
+corrected: 2026-10-07
 version_adopted: 2025-06-10
 adopted: 1989-06-04
 in_force: 1990-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/740.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3894/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3558/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -412,7 +413,7 @@ Vom Volke angenommen am 4. Juni 1989
 
 **Halten von Wildtieren**
 
-<sup>1</sup> Die Bewilligung zum Halten von Wildtieren wird vom zuständigen Amt erteilt. Das Veterinär- und Lebensmittelamt ist vorgängig anzuhören.
+<sup>1</sup> Die Bewilligung zum Halten von Wildtieren wird vom zuständigen Amt erteilt. Das Amt für Lebensmittelsicherheit und Tiergesundheit ist vorgängig anzuhören.
 
 <sup>2</sup> …
 

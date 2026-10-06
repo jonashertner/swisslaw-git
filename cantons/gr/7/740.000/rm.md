@@ -5,11 +5,12 @@ title: "Lescha chantunala da chatscha *"
 short: LCC
 language: rm
 version: 2025-08-01
+corrected: 2026-10-07
 version_adopted: 2025-06-10
 adopted: 1989-06-04
 in_force: 1990-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/740.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3894/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3558/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -412,7 +413,7 @@ acceptada dal pievel ils 4 da zercladur 1989
 
 **Tegnair animals selvadis**
 
-<sup>1</sup> La permissiun da tegnair animals selvadis vegn concedida da l'uffizi cumpetent. L'Uffizi da veterinari e victualias sto vegnir tadlà ordavant.
+<sup>1</sup> La permissiun da tegnair animals selvadis vegn concedida da l'uffizi cumpetent. L'uffizi per la segirezza da victualias e per la sanadad d'animals sto vegnir tadlà ordavant.
 
 <sup>2</sup> …
 
