@@ -5,11 +5,12 @@ title: Verordnung über die Vollzugseinrichtungen im Kanton Graubünden
 short: VEV
 language: de
 version: 2025-01-01
+corrected: 2026-10-07
 version_adopted: 2023-04-04
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.520"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3864/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -155,7 +156,7 @@ von der Regierung erlassen am 21. Dezember 2021
 
 **Für den ausserdienstlichen Arrest**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär schuldet dem Amt für die Unterbringung von Personen, die sich im ausserdienstlichen Arrest befinden, das Kostgeld, das die Ostschweizer Strafvollzugskommission für den Strafvollzug festgelegt hat.
+<sup>1</sup> Das Amt für Militär und Zivilschutz schuldet dem Amt für die Unterbringung von Personen, die sich im ausserdienstlichen Arrest befinden, das Kostgeld, das die Ostschweizer Strafvollzugskommission für den Strafvollzug festgelegt hat.
 
 #### Art. 11
 
@@ -808,7 +809,7 @@ von der Regierung erlassen am 21. Dezember 2021
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär vollzieht den ausserdienstlichen Arrest. Für die zwangsweise Durchsetzung des ausserdienstlichen Arrests kann es die Hilfe der Kantonspolizei in Anspruch nehmen.
+<sup>1</sup> Das Amt für Militär und Zivilschutz vollzieht den ausserdienstlichen Arrest. Für die zwangsweise Durchsetzung des ausserdienstlichen Arrests kann es die Hilfe der Kantonspolizei in Anspruch nehmen.
 
 <sup>2</sup> Der ausserdienstliche Arrest wird in der Regel in den militärischen Einrichtungen unter der Verantwortung des Militärs durchgeführt.
 
@@ -824,9 +825,9 @@ von der Regierung erlassen am 21. Dezember 2021
 
 **Rechtsschutz**
 
-<sup>1</sup> Wird der ausserdienstliche Arrest in einer Justizvollzugsanstalt durchgeführt, richtet sich die Zuständigkeit für die Anordnung von Disziplinarmassnahmen und deren Weiterzug nach Artikel 46 und Artikel 47 Absatz 1 JVG[^76-1]. Die übrigen vollzugsrechtlichen Entscheide trifft das Amt für Bevölkerungsschutz und Militär.
+<sup>1</sup> Wird der ausserdienstliche Arrest in einer Justizvollzugsanstalt durchgeführt, richtet sich die Zuständigkeit für die Anordnung von Disziplinarmassnahmen und deren Weiterzug nach Artikel 46 und Artikel 47 Absatz 1 JVG[^76-1]. Die übrigen vollzugsrechtlichen Entscheide trifft das Amt für Militär und Zivilschutz.
 
-<sup>2</sup> Wird der ausserdienstliche Arrest in militärischen Einrichtungen vollzogen, trifft das Amt für Bevölkerungsschutz und Militär alle vollzugsrechtlichen Entscheide.
+<sup>2</sup> Wird der ausserdienstliche Arrest in militärischen Einrichtungen vollzogen, trifft das Amt für Militär und Zivilschutz alle vollzugsrechtlichen Entscheide.
 
 [^76-1]: BR [350.500](https://www.gr-lex.gr.ch/data/350.500/de)
 

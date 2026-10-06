@@ -5,11 +5,12 @@ title: "Ordinaziun davart las instituziuns d'execuziun en il chantun Grischun"
 short: OIExe
 language: rm
 version: 2025-01-01
+corrected: 2026-10-07
 version_adopted: 2023-04-04
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.520"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3864/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -155,7 +156,7 @@ relaschada da la Regenza ils 21 da december 2021
 
 **Per l'arrest ordaifer il servetsch**
 
-<sup>1</sup> Per plazzar persunas ch'èn en arrest ordaifer il servetsch debitescha l'Uffizi da protecziun da la populaziun e militar a l'uffizi la dunsena che la Cumissiun d'execuziun da chastis da la Svizra orientala ha fixà per l'execuziun da chastis.
+<sup>1</sup> Per plazzar persunas ch'èn en arrest ordaifer il servetsch debitescha l'Uffizi da militar e da protecziun civila a l'uffizi la dunsena che la Cumissiun d'execuziun da chastis da la Svizra orientala ha fixà per l'execuziun da chastis.
 
 #### Art. 11
 
@@ -808,7 +809,7 @@ relaschada da la Regenza ils 21 da december 2021
 
 **Cumpetenza**
 
-<sup>1</sup> L'Uffizi da protecziun da la populaziun e militar exequescha l'arrest ordaifer il servetsch. Per l'execuziun sfurzada da l'arrest ordaifer il servetsch po el revegnir a l'agid da la Polizia chantunala.
+<sup>1</sup> L'Uffizi da militar e da protecziun civila exequescha l'arrest ordaifer il servetsch. Per l'execuziun sfurzada da l'arrest ordaifer il servetsch po el revegnir a l'agid da la Polizia chantunala.
 
 <sup>2</sup> L'arrest ordaifer il servetsch vegn per regla exequì en ils stabiliments militars sut la responsabladad dal militar.
 
@@ -824,9 +825,9 @@ relaschada da la Regenza ils 21 da december 2021
 
 **Protecziun giuridica**
 
-<sup>1</sup> Sche l'arrest ordaifer il servetsch vegn exequì en in stabiliment giudizial, sa drizzan la cumpetenza per ordinar mesiras disciplinaras sco er il recurs cunter talas mesiras tenor l'artitgel 46 e l'artitgel 47 alinea 1 LExeG[^76-1]. Las ulteriuras decisiuns dal dretg d'execuziun vegnan prendidas da l'Uffizi da protecziun da la populaziun e militar.
+<sup>1</sup> Sche l'arrest ordaifer il servetsch vegn exequì en in stabiliment giudizial, sa drizzan la cumpetenza per ordinar mesiras disciplinaras sco er il recurs cunter talas mesiras tenor l'artitgel 46 e l'artitgel 47 alinea 1 LExeG[^76-1]. Las ulteriuras decisiuns dal dretg d'execuziun vegnan prendidas da l'Uffizi da militar e da protecziun civila.
 
-<sup>2</sup> Sche l'arrest ordaifer il servetsch vegn exequì en stabiliments militars, prenda l'Uffizi da protecziun da la populaziun e militar tut las decisiuns dal dretg d'execuziun.
+<sup>2</sup> Sche l'arrest ordaifer il servetsch vegn exequì en stabiliments militars, prenda l'Uffizi da militar e da protecziun civila tut las decisiuns dal dretg d'execuziun.
 
 [^76-1]: DG [350.500](https://www.gr-lex.gr.ch/data/350.500/rm)
 

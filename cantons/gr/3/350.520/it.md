@@ -5,11 +5,12 @@ title: "Ordinanza sulle istituzioni d'esecuzione del Cantone dei Grigioni"
 short: OIE
 language: it
 version: 2025-01-01
+corrected: 2026-10-07
 version_adopted: 2023-04-04
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.520"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3864/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3463/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -155,7 +156,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] nonché l'art. 3
 
 **Per l'arresto da scontare fuori del servizio**
 
-<sup>1</sup> Per il collocamento di persone che si trovano in arresto da scontare fuori del servizio, l'Ufficio della protezione della popolazione e del militare deve all'Ufficio le spese di vitto e alloggio stabilite dalla Commissione della Svizzera Orientale per l'esecuzione delle pene.
+<sup>1</sup> Per il collocamento di persone che si trovano in arresto da scontare fuori del servizio, l'Ufficio del militare e della protezione civile deve all'Ufficio le spese di vitto e alloggio stabilite dalla Commissione della Svizzera Orientale per l'esecuzione delle pene.
 
 #### Art. 11
 
@@ -590,7 +591,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] nonché l'art. 3
 
 <sup>2</sup> Esso verifica periodicamente se l'istituzione d'esecuzione di misure terapeutiche rispetta le direttive giuridiche.
 
-<sup>3</sup> Ogni anno richiede un rapporto ai Servizi psichiatrici dei Grigioni, all'Ufficio e all'Ufficio della sanità sull'attività dell'istituzione d'esecuzione di misure terapeutiche.
+<sup>3</sup> Ogni anno richiede un rapporto ai Servizi psichiatrici dei Grigioni, all'Ufficio e all'Ufficio dell'igiene pubblica sull'attività dell'istituzione d'esecuzione di misure terapeutiche.
 
 <sup>4</sup> Esso può eseguire visite di controllo con il coinvolgimento di uno specialista.
 
@@ -598,7 +599,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] nonché l'art. 3
 
 **2. Obbligo di notifica**
 
-<sup>1</sup> I Servizi psichiatrici dei Grigioni, l'Ufficio e l'Ufficio della sanità notificano al Dipartimento di giustizia, sicurezza e sanità episodi che potrebbero richiedere un intervento di vigilanza.
+<sup>1</sup> I Servizi psichiatrici dei Grigioni, l'Ufficio e l'Ufficio dell'igiene pubblica notificano al Dipartimento di giustizia, sicurezza e sanità episodi che potrebbero richiedere un intervento di vigilanza.
 
 #### Art. 56
 
@@ -808,7 +809,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] nonché l'art. 3
 
 **Competenza**
 
-<sup>1</sup> L'Ufficio della protezione della popolazione e del militare esegue l'arresto da scontare fuori del servizio. Per l'esecuzione coattiva dell'arresto da scontare fuori del servizio si può fare capo all'aiuto della Polizia cantonale.
+<sup>1</sup> L'Ufficio del militare e della protezione civile esegue l'arresto da scontare fuori del servizio. Per l'esecuzione coattiva dell'arresto da scontare fuori del servizio si può fare capo all'aiuto della Polizia cantonale.
 
 <sup>2</sup> Di regola l'arresto da scontare fuori dal servizio viene eseguito nelle strutture militari sotto la responsabilità dell'esercito.
 
@@ -824,9 +825,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] nonché l'art. 3
 
 **Protezione giuridica**
 
-<sup>1</sup> Se l'arresto da scontare fuori del servizio viene eseguito in un penitenziario, la competenza di disporre misure disciplinari e per la relativa impugnazione si conforma all'articolo 46 e all'articolo 47 capoverso 1 LEG[^76-1]. L'Ufficio della protezione della popolazione e del militare adotta le ulteriori decisioni di diritto dell'esecuzione.
+<sup>1</sup> Se l'arresto da scontare fuori del servizio viene eseguito in un penitenziario, la competenza di disporre misure disciplinari e per la relativa impugnazione si conforma all'articolo 46 e all'articolo 47 capoverso 1 LEG[^76-1]. L'Ufficio del militare e della protezione civile adotta le ulteriori decisioni di diritto dell'esecuzione.
 
-<sup>2</sup> Se l'arresto da scontare fuori del servizio viene eseguito in una struttura militare, l'Ufficio della protezione della popolazione e del militare adotta tutte le decisioni di diritto dell'esecuzione.
+<sup>2</sup> Se l'arresto da scontare fuori del servizio viene eseguito in una struttura militare, l'Ufficio del militare e della protezione civile adotta tutte le decisioni di diritto dell'esecuzione.
 
 [^76-1]: CSC [350.500](https://www.gr-lex.gr.ch/data/350.500/it)
 
