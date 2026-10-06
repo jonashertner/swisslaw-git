@@ -5,12 +5,12 @@ title: Ordinaziun davart il management integral da las ristgas tar privels da la
 short: OMIR
 language: rm
 version: 2021-01-01
-corrected: 2026-09-23
+corrected: 2026-10-07
 version_adopted: 2020-12-15
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/920.150"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3121/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3778/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -200,5 +200,48 @@ relaschada da la Regenza ils 15 da december 2020
 **Cussegliaziun**
 
 <sup>1</sup> L'uffizi po cussegliar vischnancas e terzs responsabels co ir enturn cun privels da la natira e co dumagnar eveniments da la natira.
+
+## A1 Agiunta 1: Matriza da las finamiras da protecziun per abitadis (art. 9 al. 1)
+
+#### Art. A1-1
+
+<sup>1</sup> Giudicament dals privels (directivas svizras):
+
+<sup>2</sup> Bains protegids:
+
+<sup>3</sup> Basegn d'agir:
+
+<sup>4</sup> Zonas da construcziun or dal plan d'utilisaziun:
+
+<sup>5</sup> Areals da registraziun oransch:
+
+<sup>6</sup> Areals da registraziun verd:
+
+<sup>7</sup> Edifizis singuls betg abitads, utilisaziun agricula intensiva, guaud da protecziun[^A11-1]:
+
+[^A11-1]: La valitaziun da las ristgas tutga al champ da cumpetenza da las vischnancas
+
+## A2 Agiunta 2: Matriza da las finamiras da protecziun per meds da traffic (art. 9 al. 1)
+
+#### Art. A2-1
+
+<sup>1</sup> Bains protegids:
+
+<sup>2</sup> Basegn d'agir:
+
+<sup>3</sup> Lingias da viafier (Viafier retica):
+
+<sup>4</sup> Vias naziunalas:
+
+<sup>5</sup> Vias principalas chantunalas:
+
+<sup>6</sup> Vias chantunala da colliaziun (Per exempel: unica avertura d'in lieu, d'ina staziun u d'in auter stabiliment da provediment impurtant):
+
+<sup>7</sup> Vias communalas (cun rumida da la naiv)[^A21-1]:
+
+<sup>8</sup> Ulteriuras vias (privatas, forestalas, agriculas)[^A21-2]:
+
+[^A21-1]: La valitaziun da las ristgas tutga al champ da cumpetenza da las vischnancas.
+[^A21-2]: La valitaziun da las ristgas tutga al champ da cumpetenza da las vischnancas.
 
 2020-073
