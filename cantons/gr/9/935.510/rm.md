@@ -5,11 +5,12 @@ title: Ordinaziun tar la Lescha davart gieus per daners dal chantun Grischun
 short: Ordinaziun davart gieus per daners; OCGD
 language: rm
 version: 2021-01-01
+corrected: 2026-10-07
 version_adopted: 2020-12-15
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/935.510"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3882/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3104/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -57,7 +58,7 @@ relaschada da la Regenza ils 15 da december 2020
 
 **Post spezialisà per prevenziun e per cumbat cunter dependenza**
 
-<sup>1</sup> L'Uffizi da fatgs socials è il post spezialisà per prevenziun e per cumbat cunter dependenza.
+<sup>1</sup> L'Uffizi dal servetsch social dal chantun Grischun è il post spezialisà per prevenziun e per cumbat cunter dependenza.
 
 ## 2. Casinos
 

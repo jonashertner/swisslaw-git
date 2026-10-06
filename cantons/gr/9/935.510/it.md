@@ -5,11 +5,12 @@ title: Ordinanza relativa alla legge sui giochi in denaro del Cantone dei Grigio
 short: OCGD
 language: it
 version: 2021-01-01
+corrected: 2026-10-07
 version_adopted: 2020-12-15
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/935.510"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3882/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3104/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -57,7 +58,7 @@ visto l'art. 45 cpv. 1 della Costituzione[^ingress-1]
 
 **Servizio specializzato per la prevenzione e la lotta alla dipendenza dal gioco**
 
-<sup>1</sup> L'Ufficio degli affari sociali è il servizio specializzato competente per la prevenzione e la lotta alla dipendenza dal gioco.
+<sup>1</sup> L'Ufficio del servizio sociale del Cantone dei Grigioni è il servizio specializzato competente per la prevenzione e la lotta alla dipendenza dal gioco.
 
 ## 2. Case da gioco
 

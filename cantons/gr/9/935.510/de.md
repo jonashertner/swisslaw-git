@@ -5,11 +5,12 @@ title: Verordnung zum Geldspielgesetz des Kantons Graubünden
 short: Geldspielverordnung; VKGS
 language: de
 version: 2021-01-01
+corrected: 2026-10-07
 version_adopted: 2020-12-15
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/935.510"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3882/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3104/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -57,7 +58,7 @@ von der Regierung erlassen am 15. Dezember 2020
 
 **Fachstelle für Prävention und Suchtbekämpfung**
 
-<sup>1</sup> Das Amt für Soziales ist die Fachstelle für Prävention und Suchtbekämpfung.
+<sup>1</sup> Das Sozialamt des Kantons Graubünden ist die Fachstelle für Prävention und Suchtbekämpfung.
 
 ## 2. Spielbanken
 
