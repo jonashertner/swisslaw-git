@@ -5,11 +5,12 @@ title: "Lescha per mantegnair e promover l'agricultura"
 short: "lescha d'agricultura"
 language: rm
 version: 2025-12-31
+corrected: 2026-10-07
 version_adopted: 2025-04-24
 adopted: 1994-09-25
 in_force: 1995-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/910.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3868/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3596/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -345,7 +346,7 @@ acceptada dal pievel ils 25 da settember 1994[^ingress-1]
 
 **3. Departament cumpetent**
 
-<sup>1</sup> Il departament cumpetent en il senn da questa lescha sco er da las disposiziuns executivas è il Departament d'economia publica e fatgs socials, nun che la Regenza designeschia in auter departament.
+<sup>1</sup> Il departament cumpetent en il senn da questa lescha sco er da las disposiziuns executivas è il departament da l'intern e da l'economia publica, nun che la regenza designeschia in auter departament.
 
 #### Art. 38
 

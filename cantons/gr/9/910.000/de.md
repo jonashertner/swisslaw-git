@@ -5,11 +5,12 @@ title: Gesetz über die Erhaltung und Förderung der Landwirtschaft
 short: Landwirtschaftsgesetz
 language: de
 version: 2025-12-31
+corrected: 2026-10-07
 version_adopted: 2025-04-24
 adopted: 1994-09-25
 in_force: 1995-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/910.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3868/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3596/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -345,7 +346,7 @@ Vom Volke angenommen am 25. September 1994[^ingress-1]
 
 **3. Zuständiges Departement**
 
-<sup>1</sup> Zuständiges Departement im Sinne des vorliegenden Gesetzes sowie der Vollziehungs- und Ausführungsbestimmungen ist das Departement für Volkswirtschaft und Soziales, sofern die Regierung nicht ein anderes Departement bezeichnet.
+<sup>1</sup> Zuständiges Departement im Sinne des vorliegenden Gesetzes sowie der Vollziehungs- und Ausführungsbestimmungen ist das Departement des Innern und der Volkswirtschaft, sofern die Regierung nicht ein anderes Departement bezeichnet.
 
 #### Art. 38
 

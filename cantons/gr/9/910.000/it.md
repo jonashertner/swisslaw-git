@@ -5,11 +5,12 @@ title: "Legge sulla conservazione e il promovimento dell'agricoltura"
 short: "Legge sull'agricoltura"
 language: it
 version: 2025-12-31
+corrected: 2026-10-07
 version_adopted: 2025-04-24
 adopted: 1994-09-25
 in_force: 1995-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/910.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3868/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3596/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -345,7 +346,7 @@ accettata dal Popolo il 25 settembre 1994[^ingress-1]
 
 **3. Dipartimento competente**
 
-<sup>1</sup> Il dipartimento competente ai sensi della presente legge nonché delle disposizioni esecutive e d'attuazione è il Dipartimento dell'economia pubblica e socialità, per quanto il Governo non designi un altro dipartimento.
+<sup>1</sup> Il dipartimento competente ai sensi della presente legge nonché delle disposizioni esecutive e d'attuazione è il Dipartimento dell'interno e dell'economia pubblica, per quanto il Governo non designi un altro dipartimento.
 
 #### Art. 38
 
