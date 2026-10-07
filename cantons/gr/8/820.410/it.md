@@ -5,11 +5,12 @@ title: "Ordinanza concernente la promozione e il finanziamento di misure per la 
 short: "Ordinanza grigionese sul clima e sull'innovazione, OGCI"
 language: it
 version: 2025-12-31
+corrected: 2026-10-08
 version_adopted: 2025-12-02
 adopted: 2025-12-02
 in_force: 2025-12-31
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.410"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3897/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3598/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -276,7 +277,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Competenze**
 
-<sup>1</sup> Il Dipartimento formazione, ambiente e cultura definisce i dettagli per la concessione di sussidi e prestiti in disposizioni esecutive.
+<sup>1</sup> Il Dipartimento dell'educazione, cultura e protezione dell'ambiente definisce i dettagli per la concessione di sussidi e prestiti in disposizioni esecutive.
 
 <sup>2</sup> L'Ufficio svolge i bandi di gara. Stabilisce, per ogni bando di gara, i criteri e le condizioni di partecipazione nonché le informazioni da fornire.
 

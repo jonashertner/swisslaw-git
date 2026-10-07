@@ -5,11 +5,12 @@ title: "Ordinaziun davart la promoziun e la finanziaziun da mesiras per la prote
 short: "Ordinaziun grischuna davart il clima e l'innovaziun, OGCI"
 language: rm
 version: 2025-12-31
+corrected: 2026-10-08
 version_adopted: 2025-12-02
 adopted: 2025-12-02
 in_force: 2025-12-31
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.410"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3897/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -276,7 +277,7 @@ relaschada da la Regenza ils 2 da december 2025
 
 **Cumpetenzas**
 
-<sup>1</sup> Il Departament da furmaziun, ambient e cultura fixescha ils detagls per la concessiun da contribuziuns e d'emprests en directivas executivas.
+<sup>1</sup> Il Departament d'educaziun, cultura e protecziun da l'ambient fixescha ils detagls per la concessiun da contribuziuns e d'emprests en directivas executivas.
 
 <sup>2</sup> L'uffizi realisescha las submissiuns. Per mintga submissiun definescha el ils criteris e las cundiziuns da participaziun sco er las infurmaziuns che ston vegnir inoltradas.
 

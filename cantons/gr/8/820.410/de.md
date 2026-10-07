@@ -5,11 +5,12 @@ title: Verordnung über die Förderung und Finanzierung von Massnahmen zu Klimas
 short: "Bündner Klima- und Innovationsverordnung, BKIV"
 language: de
 version: 2025-12-31
+corrected: 2026-10-08
 version_adopted: 2025-12-02
 adopted: 2025-12-02
 in_force: 2025-12-31
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.410"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3897/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -276,7 +277,7 @@ von der Regierung erlassen am 2. Dezember 2025
 
 **Zuständigkeiten**
 
-<sup>1</sup> Das Departement für Bildung, Umwelt und Kultur legt die Einzelheiten für die Gewährung von Beiträgen und Darlehen in Vollzugsrichtlinien fest.
+<sup>1</sup> Das Erziehungs-, Kultur- und Umweltschutzdepartement legt die Einzelheiten für die Gewährung von Beiträgen und Darlehen in Vollzugsrichtlinien fest.
 
 <sup>2</sup> Das Amt führt die Ausschreibungen durch. Es legt für jede Ausschreibung die Kriterien und Bedingungen für die Teilnahme sowie die einzureichenden Angaben fest.
 
