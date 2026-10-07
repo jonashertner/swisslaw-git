@@ -5,12 +5,12 @@ title: Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöB
 language: de
 version: 2024-01-01
-corrected: 2024-01-10
+corrected: 2026-10-08
 version_adopted: 2019-11-15
 adopted: 2019-11-15
 in_force: 2024-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/726.1-1"
-pdf: "https://lex.vs.ch/api/de/versions/3249/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3276/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.

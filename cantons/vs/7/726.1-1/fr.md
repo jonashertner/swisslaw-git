@@ -5,12 +5,12 @@ title: Accord intercantonal sur les marchés publics
 short: AIMP
 language: fr
 version: 2024-01-01
-corrected: 2024-01-10
+corrected: 2026-10-08
 version_adopted: 2019-11-15
 adopted: 2019-11-15
 in_force: 2024-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/726.1-1"
-pdf: "https://lex.vs.ch/api/fr/versions/3249/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3276/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -814,7 +814,7 @@ Selon l'arrêt de l'Autorité interantonale pour les marchés publics (AiMp) et 
 - b) la décision concernant le choix des participants à la procédure sélective;
 - c) la décision d’inscrire un soumissionnaire sur une liste ou de l’en radier;
 - d) la décision concernant les demandes de récusation;
-- e) la décision concernant les demandes de récusation;
+- e) l’adjudication;
 - f) la révocation de l’adjudication;
 - g) l’interruption de la procédure;
 - h) l’exclusion de la procédure;
