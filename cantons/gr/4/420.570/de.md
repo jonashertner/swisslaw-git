@@ -3,13 +3,13 @@ canton: GR
 number: "420.570"
 title: Beitritt des Kantons Graubünden zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993
 language: de
-version: 2011-01-01
-corrected: 2011-01-25
-version_adopted: 2010-06-16
+version: 2017-01-01
+corrected: 2026-10-08
+version_adopted: 2015-04-21
 adopted: 1995-06-25
 in_force: 1995-07-04
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/420.570"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/929/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2859/pdf_file"
 text: pdf
 ---
 
@@ -23,7 +23,7 @@ text: pdf
 
 **1.**
 
-### Der Kanton Graubünden tritt der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 bei. <sup>3)</sup> … <sup>4)</sup> <sup>5)</sup>Übertretungen gemäss Artikel 11 der Vereinbarung werden vom Erziehungs-, Kultur- und Umweltschutzdepartement beurteilt. Das Verfahren richtet sich nach den Bestimmungen über das Strafverfahren vor Verwaltungsbehörden. Die Regierung vollzieht diesen Beschluss. <sup>6)</sup>
+### Der Kanton Graubünden tritt der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 bei. <sup>3)</sup> 1a. Der Kanton Graubünden genehmigt die Änderungen vom 24. Oktober 2013/ 21. November 2013 der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993. <sup>4)</sup> … <sup>5)</sup> <sup>6)</sup>Übertretungen gemäss Artikel 11 der Vereinbarung werden vom Erziehungs-, Kultur- und Umweltschutzdepartement beurteilt. Das Verfahren richtet sich nach den Bestimmungen über das Strafverfahren vor Verwaltungsbehörden. Die Regierung vollzieht diesen Beschluss. <sup>7)</sup>
 
 **2. 3.**
 
@@ -33,14 +33,10 @@ text: pdf
 
 In der neuen KV Art. 16 und 17; BR 110.100 B vom 31. Oktober 1994, 504; GRP 1994/95, 859 Mit Beschluss vom 25. April 2006 hat der Grosse Rat der Teilrevision vom 16. Juni 2005 der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 zugestimmt. B vom 10. Januar 2006, 1409; GRP 2005/2006, 1125;
 
-Gemäss Ziffer 3 des GRB unterliegen die Ziffern 1 und 2 des GRB dem fakultativen Referendum. Die Referendumsfrist ist am 9. August unbenutzt abgelaufen; mit RB vom 12. Dezember 2006 auf den 1. Januar 2007 in Kraft gesetzt. Aufgehoben gemäss Gesetz über die Anpassung von Beitrittsbeschlüssen und - bestimmungen zu Konkordaten und Vereinbarungen an die Kantonsverfassung; AGS 2005, KA\_2052 und KA\_3268; am 1. November 2005 in Kraft getreten Fassung gemäss Anhang Ziffer 5 EGzStPO, KA 2010, 2404; am 1. Januar 2011 in Kraft getreten Mit RB vom 4. Juli 1995 den Beitritt erklärt
-
-**4)**
-
-**5)**
+**4) 5)**
 
 **6)**
 
-**1**
+**7)**
 
-1.01.2011
+Gemäss Ziffer 3 des GRB unterliegen die Ziffern 1 und 2 des GRB dem fakultativen Referendum. Die Referendumsfrist ist am 9. August unbenutzt abgelaufen; mit RB vom 12. Dezember 2006 auf den 1. Januar 2007 in Kraft gesetzt. Fassung gemäss RB vom 18. August 2015; am 1. Januar 2017 in Kraft getreten. Aufgehoben gemäss Gesetz über die Anpassung von Beitrittsbeschlüssen und - bestimmungen zu Konkordaten und Vereinbarungen an die Kantonsverfassung; AGS 2005, KA\_2052 und KA\_3268; am 1. November 2005 in Kraft getreten Fassung gemäss Anhang Ziffer 5 EGzStPO, KA 2010, 2404; am 1. Januar 2011 in Kraft getreten Mit RB vom 4. Juli 1995 den Beitritt erklärt
