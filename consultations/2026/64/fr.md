@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Projet visant à répondre aux besoins de mobilité de manière intermodale: Transports ’45"
 document: Projets (14)
 language: fr

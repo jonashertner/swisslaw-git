@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Progetto per soddisfare le esigenze di mobilità sulla base di tutti i vettori di trasporto: Trasporti ’45"
 document: Progetti (14)
 language: it

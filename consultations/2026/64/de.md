@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Vorlage zur verkehrsträgerübergreifenden Bewältigung der Mobilitätsbedürfnisse: Verkehr ’45"
 document: Vorlagen (14)
 language: de
