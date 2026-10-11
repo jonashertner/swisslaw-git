@@ -1,32 +1,35 @@
 ---
 canton: UR
 number: "3.1310"
-title: Gesetz über die amtliche Publikation
-short: "Publikationsgesetz, PuG"
+title: GESETZ über die amtliche Publikation
+short: "Publikationsgesetz, PUG"
 language: de
 version: 2022-01-01
+corrected: 2026-10-12
 version_adopted: 2021-09-26
 adopted: 2021-09-26
 in_force: 2022-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.1310"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/1157/pdf_file"
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/87/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die amtliche Publikation
+# GESETZ über die amtliche Publikation
 
-(Publikationsgesetz, PuG)
+GESETZ über die amtliche Publikation (Publikationsgesetz, PUG)
 
-Vom 26.09.2021 (Stand 01.01.2022)
+(vom 26. September 2021[^t-1]; Stand am 1. Januar 2022)
 
-Das Volk des Kantons Uri,
-
-gestützt auf Artikel 90 Absatz 1 der Verfassung des Kantons Uri (RB [1.1101](https://rechtsbuch.ur.ch/data/1.1101/de)),
+Das Volk des Kantons Uri, gestützt auf 90 Absatz 1 der Verfassung des Kantons Uri[^t-2]
 
 beschliesst:
 
-## 1 Amtliche Publikationsorgane
+[^t-1]: AB vom 29. Oktober 2021
+[^t-2]: RB 1.1101
+
+### 1. Abschnitt: Amtliche Publikationsorgane
 
 #### Artikel 1
 
@@ -34,23 +37,27 @@ beschliesst:
 
 <sup>1</sup> Die amtlichen Publikationsorgane sind:
 
-- a) das Amtsblatt des Kantons Uri
-- b) das Urner Rechtsbuch und
-- c) der Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster)
+- a) das Amtsblatt des Kantons Uri;
+
+- b) das Urner Rechtsbuch; und
+
+- c) der Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster).
 
 <sup>2</sup> Der Regierungsrat kann für bestimmte Sachgebiete weitere amtliche Publikationsorgane bezeichnen.
 
-## 2 Amtsblatt
+### 2. Abschnitt: Amtsblatt
 
 #### Artikel 2
 
 **Inhalt**
 
-<sup>1</sup> Im Amtsblatt werden veröffentlicht:
+Im Amtsblatt werden veröffentlicht:
 
-- a) alle Erlasse und Beschlüsse, die nach diesem Gesetz in das Rechtsbuch aufzunehmen sind
-- b) amtliche Bekanntmachungen von Behörden und Amtsstellen des Bunds, des Kantons und der Gemeinden und öffentlich-rechtlichen Körperschaften oder Anstalten
-- c) amtliche Bekanntmachungen von Organisationen und Personen, die mit kantonalen Verwaltungsaufgaben betraut sind
+- a) alle Erlasse und Beschlüsse, die nach diesem Gesetz in das Rechtsbuch aufzunehmen sind;
+
+- b) amtliche Bekanntmachungen von Behörden und Amtsstellen des Bunds, des Kantons und der Gemeinden und öffentlich-rechtlichen Körperschaften oder Anstalten;
+
+- c) amtliche Bekanntmachungen von Organisationen und Personen, die mit kantonalen Verwaltungsaufgaben betraut sind.
 
 #### Artikel 3
 
@@ -68,13 +75,13 @@ beschliesst:
 
 <sup>2</sup> Für Druckausgaben werden angemessene Gebühren nach Aufwand erhoben.
 
-## 3 Urner Rechtsbuch
+### 3. Abschnitt: Urner Rechtsbuch
 
 #### Artikel 5
 
 **Inhalt**
 
-<sup>1</sup> Das Urner Rechtsbuch ist die bereinigte und nach Sachgebieten geordnete Sammlung des kantonalen Rechts.
+1 Das Urner Rechtsbuch ist die bereinigte und nach Sachgebieten geordnete Sammlung des kantonalen Rechts.
 
 <sup>2</sup> Es wird laufend nachgeführt.
 
@@ -82,20 +89,25 @@ beschliesst:
 
 **Erscheinungsform**
 
-<sup>1</sup> Das Urner Rechtsbuch erscheint auf elektronischem Weg auf der Internetseite des Kantons Uri.
+Das Urner Rechtsbuch erscheint auf elektronischem Weg auf der Internetseite des Kantons Uri.
 
 #### Artikel 7
 
 **Aufnahme**
 
-<sup>1</sup> In das Urner Rechtsbuch aufzunehmen sind:
+1 In das Urner Rechtsbuch aufzunehmen sind:
 
-- a) die Verfassung des Kantons Uri
-- b) die Gesetze
-- c) die Verordnungen und die übrigen allgemeinverbindlichen Beschlüsse des Landrats
-- d) die Reglemente und die übrigen allgemeinverbindlichen Beschlüsse des Regierungsrats, seiner Direktionen, des Erziehungsrats und der Gerichte
-- e) die Konkordate und die übrigen Vereinbarungen mit anderen Kantonen mit rechtsetzendem Inhalt
-- f) die Erlasse und Beschlüsse interkantonaler Kommissionen mit rechtsetzendem Inhalt
+- a) die Verfassung des Kantons Uri;
+
+- b) die Gesetze;
+
+- c) die Verordnungen und die übrigen allgemeinverbindlichen Beschlüsse des Landrats;
+
+- d) die Reglemente und die übrigen allgemeinverbindlichen Beschlüsse des Regierungsrats, seiner Direktionen, des Erziehungsrats und der Gerichte;
+
+- e) die Konkordate und die übrigen Vereinbarungen mit anderen Kantonen mit rechtsetzendem Inhalt;
+
+- f) die Erlasse und Beschlüsse interkantonaler Kommissionen mit rechtsetzendem Inhalt.
 
 <sup>2</sup> Der Regierungsrat kann Ausnahmen zu Absatz 1 und die Aufnahme weiterer Rechtsakte in das Rechtsbuch vorsehen.
 
@@ -121,9 +133,11 @@ beschliesst:
 
 <sup>1</sup> Bei besonderer Dringlichkeit, zur Sicherstellung der Wirkung oder im Fall ausserordentlicher Umstände kann eine Veröffentlichung im ausserordentlichen Verfahren erfolgen:
 
-- a) über das Internet
-- b) durch Presse, Radio und Fernsehen
-- c) durch andere zweckmässige Mittel
+- a) über das Internet;
+
+- b) durch Presse, Radio und Fernsehen;
+
+- c) durch andere zweckmässige Mittel.
 
 <sup>2</sup> Die ordentliche Publikation ist so bald als möglich nachzuholen.
 
@@ -139,48 +153,49 @@ beschliesst:
 
 #### Artikel 12
 
-**Zeitpunkt des Inkrafttretens bei fehlender Regelung**
+Zeitpunkt des Inkrafttretens bei fehlender Regelung Ergibt sich der Zeitpunkt des Inkrafttretens eines rechtsetzenden Erlasses nicht aus dessen In-halt, wird er vom Regierungsrat bestimmt.
 
-<sup>1</sup> Ergibt sich der Zeitpunkt des Inkrafttretens eines rechtsetzenden Erlasses nicht aus dessen Inhalt, wird er vom Regierungsrat bestimmt.
+### 4. Abschnitt: Kataster der öffentlich-rechtlichen Eigentumsbeschrän-
 
-## 4 Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster)
+kungen (ÖREB-Kataster)
 
 #### Artikel 13
 
 **Inhalt**
 
-<sup>1</sup> Der Gegenstand des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster) richtet sich nach Artikel 16 des Bundesgesetzes über Geoinformation (SR [510.62](https://db.clex.ch/link/Bund/510.62/de)).
+<sup>1</sup> Der Gegenstand des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster) richtet sich nach Artikel 16 des Bundesgesetzes über Geoinformation[^13-1].
 
 <sup>2</sup> Im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster) werden insbesondere veröffentlicht:
 
-- a) amtliche Auflagen von öffentlich-rechtlichen Eigentumsbeschränkungen, für die das massgebende Verfahren eine öffentliche Auflage vorsieht
-- b) öffentlich-rechtliche Eigentumsbeschränkungen, sobald sie genehmigt sind
+- a) amtliche Auflagen von öffentlich-rechtlichen Eigentumsbeschränkungen, für die das massgebende Verfahren eine öffentliche Auflage vorsieht;
+
+- b) öffentlich-rechtliche Eigentumsbeschränkungen, sobald sie genehmigt sind.
+
+[^13-1]: SR 510.62
 
 #### Artikel 14
 
 **Erscheinungsform**
 
-<sup>1</sup> Der ÖREB-Kataster wird auf elektronischem Weg im Internet angeboten.
+Der ÖREB-Kataster wird auf elektronischem Weg im Internet angeboten.
 
 #### Artikel 15
 
 **Rechtswirkung**
 
-<sup>1</sup> Den genehmigten digitalen Daten der öffentlich-rechtlichen Eigentumsbeschränkungen kommt mit ihrer Veröffentlichung die Rechtswirkung zu.
+Den genehmigten digitalen Daten der öffentlich-rechtlichen Eigentumsbeschränkungen kommt mit ihrer Veröffentlichung die Rechtswirkung zu.
 
-## 5 Gemeinsame Bestimmungen
+### 5. Abschnitt: Gemeinsame Bestimmungen
 
 #### Artikel 16
 
 **Zugang und Einsicht**
 
-<sup>1</sup> Zugang und Einsicht in das Amtsblatt, das Rechtsbuch und den ÖREB-Kataster im Internet sind unentgeltlich.
+Zugang und Einsicht in das Amtsblatt, das Rechtsbuch und den ÖREB-Kataster im Internet sind unentgeltlich.
 
 #### Artikel 17
 
-**Redaktion und Herausgabe**
-
-<sup>1</sup> Die Redaktion und die Herausgabe von Amtsblatt und Rechtsbuch obliegen dem Landammannamt, diejenige des ÖREB-Katasters der katasterführenden Stelle.
+Redaktion und Herausgabe Die Redaktion und die Herausgabe von Amtsblatt und Rechtsbuch obliegen dem Landammannamt, diejenige des ÖREB-Katasters der katasterführenden Stelle.
 
 #### Artikel 18
 
@@ -190,28 +205,30 @@ beschliesst:
 
 <sup>2</sup> Zudem passt es Angaben wie Bezeichnungen von Verwaltungseinheiten, Verweise, Fundstellen oder Abkürzungen an und entfernt Eintragungen im Rechtsbuch formlos, wenn diese gegenstandslos geworden sind.
 
-<sup>3</sup> Die formelle Berichtigung der Daten im ÖREB-Kataster richtet sich nach den Bestimmungen des Bundesrechts (SR [510.62](https://db.clex.ch/link/Bund/510.62/de)).
+<sup>3</sup> Die formelle Berichtigung der Daten im ÖREB-Kataster richtet sich nach den Bestimmungen des Bundesrechts[^18-1].
 
-## 6 Schlussbestimmungen
+[^18-1]: SR 510.62
+
+### 6. Abschnitt: Schlussbestimmungen
 
 #### Artikel 19
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat vollzieht dieses Gesetz. Er erlässt die dazu erforderlichen Bestimmungen in einem Reglement.
+Der Regierungsrat vollzieht dieses Gesetz. Er erlässt die dazu erforderlichen Bestimmungen in einem Reglement.
+
+[^19-1]: Die Änderungen wurden in die entsprechenden Erlasse eingefügt.
 
 #### Artikel 20
 
-**Änderung bisherigen Rechts[^Artikel20-1]**
+Änderung bisherigen Rechts ...[^19-1]
 
-[^Artikel20-1]: Die Änderungen wurden in die entsprechenden Erlasse eingefügt.
+[^20-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2022 (AB vom 29. Oktober 2021).
 
 #### Artikel 21
 
-**Inkrafttreten**
+**Im Namen des Volkes**
 
-<sup>1</sup> Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt[^Artikel21-1].
+**Der Landammann: Urban Camenzind Der Kanzleidirektor: Roman Balli**
 
-[^Artikel21-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. Januar 2022 (AB vom 29. Oktober 2021).
-
-AB 29.10.2021
+Inkrafttreten Dieses Gesetz unterliegt der Volksabstimmung. Der Regierungsrat bestimmt, wann es in Kraft tritt[^20-1].
