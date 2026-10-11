@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Convention du 20 octobre 2005 sur la protection et la promotion de la diversité des expressions culturelles (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: fr
-version: 2025-03-20
+version: 2026-10-12
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20250320/fr/xml/fedlex-data-admin-ch-eli-cc-2008-676-20250320-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20250320/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20261012/fr/xml/fedlex-data-admin-ch-eli-cc-2008-676-20261012-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20261012/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 16 juillet 2008
 
 Entrée en vigueur pour la Suisse le 16 octobre 2008
 
-(État le 20 mars 2025)
+(État le 12 octobre 2026)
 
 [^t-1]: [RO 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -134,7 +134,7 @@ L’accès équitable à une gamme riche et diversifiée d’expressions culture
 
 Quand les États adoptent des mesures pour favoriser la diversité des expressions culturelles, ils devraient veiller à promouvoir, de façon appropriée, l’ouverture aux autres cultures du monde et à s’assurer que ces mesures sont conformes aux objectifs poursuivis par la présente Convention.
 
-[^2-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^2-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## II. Champ d’application
 
@@ -198,7 +198,7 @@ La diversité culturelle se manifeste non seulement dans les formes variées à 
 
 <sup>2.</sup> Lorsqu’une Partie met en œuvre des politiques et prend des mesures pour protéger et promouvoir la diversité des expressions culturelles sur son territoire, ses politiques et mesures doivent être compatibles avec les dispositions de la présente Convention.
 
-[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -378,7 +378,9 @@ Les ressources du Fonds sont constituées par:
 
 **Relations avec les autres instruments: soutien mutuel, complémentarité et non-subordination**
 
-<sup>1.</sup> Les Parties reconnaissent qu’elles doivent remplir de bonne foi leurs obligations en vertu de la présente Convention et de tous les autres traités auxquels elles sont parties. Ainsi, sans subordonner cette Convention aux autres traités,
+<sup>1.</sup>
+
+Les Parties reconnaissent qu’elles doivent remplir de bonne foi leurs obligations en vertu de la présente Convention et de tous les autres traités auxquels elles sont parties. Ainsi, sans subordonner cette Convention aux autres traités:
 
 - a) elles encouragent le soutien mutuel entre cette Convention et les autres traités auxquels elles sont parties, et
 - b) lorsqu’elles interprètent et appliquent les autres traités auxquels elles sont parties ou lorsqu’elles souscrivent à d’autres obligations internationales, les Parties prennent en compte les dispositions pertinentes de la présente Convention.
@@ -569,7 +571,7 @@ La présente Convention est établie en anglais, arabe, chinois, espagnol, fran�
 
 Conformément à l’art. 102 de la Charte des Nations Unies[^35-1], la présente Convention sera enregistrée au Secrétariat de l’Organisation des Nations Unies à la requête du Directeur général de l’UNESCO.
 
-[^35-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^35-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 (Suivent les signatures)
 
@@ -613,7 +615,7 @@ La Commission de conciliation prend ses décisions à la majorité des voix de s
 
 En cas de désaccord au sujet de la compétence de la Commission de conciliation, celle-ci décide si elle est ou non compétente.
 
-Champ d’application le 20 mars 2025[^t-2]
+Champ d’application le 12 octobre 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -632,6 +634,7 @@ Champ d’application le 20 mars 2025[^t-2]
 <tr><td>Autriche</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>15 février</td><td>2010 A</td><td>15 mai</td><td>2010</td></tr>
 <tr><td>Bahamas</td><td>29 décembre</td><td>2014</td><td>29 mars</td><td>2015</td></tr>
+<tr><td>Bahreïn</td><td>1<sup>er</sup> octobre</td><td>2025</td><td>1<sup>er</sup> janvier</td><td>2026</td></tr>
 <tr><td>Bangladesh</td><td>31 mai</td><td>2007</td><td>31 août</td><td>2007</td></tr>
 <tr><td>Barbade</td><td>2 octobre</td><td>2008 A</td><td>2 janvier</td><td>2009</td></tr>
 <tr><td>Bélarus</td><td>6 septembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
@@ -703,6 +706,7 @@ Champ d’application le 20 mars 2025[^t-2]
 <tr><td>Laos</td><td>5 novembre</td><td>2007 A</td><td>5 février</td><td>2008</td></tr>
 <tr><td>Lesotho</td><td>18 février</td><td>2010 A</td><td>18 mai</td><td>2010</td></tr>
 <tr><td>Lettonie</td><td>6 juillet</td><td>2007 A</td><td>6 octobre</td><td>2007</td></tr>
+<tr><td>Liban</td><td>30 juillet</td><td>2026</td><td>30 octobre</td><td>2026</td></tr>
 <tr><td>Lituanie</td><td>18 décembre</td><td>2006 A</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Luxembourg</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Macédoine du Nord</td><td>22 mai</td><td>2007</td><td>22 août</td><td>2007</td></tr>
@@ -754,10 +758,12 @@ Champ d’application le 20 mars 2025[^t-2]
 <tr><td>Sénégal</td><td>7 novembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Serbie</td><td>2 juillet</td><td>2009</td><td>2 octobre</td><td>2009</td></tr>
 <tr><td>Seychelles</td><td>20 juin</td><td>2008 A</td><td>20 septembre</td><td>2008</td></tr>
+<tr><td>Sierra Leone</td><td>19 juin</td><td>2025</td><td>19 septembre</td><td>2025</td></tr>
 <tr><td>Slovaquie</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Slovénie</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Soudan</td><td>19 juin</td><td>2008</td><td>19 septembre</td><td>2008</td></tr>
 <tr><td>Soudan du Sud</td><td>9 mars</td><td>2016 A</td><td>9 juin</td><td>2016</td></tr>
+<tr><td>Sri Lanka</td><td>1<sup>er</sup> avril</td><td>2025 A</td><td>1<sup>er</sup> juillet</td><td>2025</td></tr>
 <tr><td>Suède</td><td>18 décembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
 <tr><td>Suisse</td><td>16 juillet</td><td>2008</td><td>16 octobre</td><td>2008</td></tr>
 <tr><td>Syrie</td><td>5 février</td><td>2008 A</td><td>5 mai</td><td>2008</td></tr>
@@ -766,6 +772,7 @@ Champ d’application le 20 mars 2025[^t-2]
 <tr><td>Tchad</td><td>17 juin</td><td>2008</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Timor-Leste</td><td>31 octobre</td><td>2016 A</td><td>31 janvier</td><td>2017</td></tr>
 <tr><td>Togo</td><td>5 septembre</td><td>2006</td><td>18 mars</td><td>2007</td></tr>
+<tr><td>Tonga</td><td>7 juillet</td><td>2026</td><td>7 octobre</td><td>2026</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>26 juillet</td><td>2010</td><td>26 octobre</td><td>2010</td></tr>
 <tr><td>Tunisie</td><td>15 février</td><td>2007</td><td>15 mai</td><td>2007</td></tr>
 <tr><td>Turkménistan</td><td>2 avril</td><td>2021 A</td><td>2 juillet</td><td>2021</td></tr>
@@ -781,4 +788,4 @@ Champ d’application le 20 mars 2025[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535](https://www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: RO [RO 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211); [2026 557](https://fedlex.data.admin.ch/eli/oc/2026/557). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

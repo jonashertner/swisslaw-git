@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Convenzione del 20 ottobre 2005 sulla protezione e la promozione della diversità delle espressioni culturali (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: it
-version: 2025-03-20
+version: 2026-10-12
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20250320/it/xml/fedlex-data-admin-ch-eli-cc-2008-676-20250320-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20250320/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20261012/it/xml/fedlex-data-admin-ch-eli-cc-2008-676-20261012-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20261012/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Parigi il 20 ottobre 2005 Approvata dall’Assemblea federale il 20 marzo 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 16 luglio 2008 Entrata in vigore per la Svizzera il 16 ottobre 2008
 
-(Stato 20 marzo 2025)
+(Stato 12 ottobre 2026)
 
 [^t-1]: [RU 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -128,7 +128,7 @@ L’accesso equo a un ventaglio ampio ed eterogeneo di espressioni culturali pro
 
 Quando gli Stati adottano misure volte a favorire la diversità delle espressioni culturali, dovrebbero provvedere anche a promuovere adeguatamente l’apertura ad altre culture umane e assicurarsi che le misure in questione rispettino gli obiettivi della presente Convenzione.
 
-[^2-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^2-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## II. Campo d’applicazione
 
@@ -192,7 +192,7 @@ Per «industrie culturali» s’intendono le industrie che producono e distribui
 
 <sup>2.</sup> Nel momento in cui una Parte contraente adotta una determinata politica e prende misure volte a proteggere e promuovere la diversità delle espressioni culturali sul proprio territorio deve accertarsi che queste politiche e misure siano compatibili con le disposizioni sancite dalla presente Convenzione.
 
-[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -295,11 +295,14 @@ Le Parti contraenti s’impegnano a sostenere una cooperazione allo sviluppo sos
   - iii) permettendo il sorgere di mercati locali e regionali duraturi,
   - iv) adottando, per quanto possibile, misure adeguate nei Paesi sviluppati in vista di agevolare l’accesso al loro territorio delle attività, dei beni e dei servizi culturali dei Paesi in via di sviluppo,
   - v) sostenendo il lavoro creativo e facilitando nella misura del possibile la mobilità degli artisti provenienti da Paesi in via di sviluppo,
-  - vi) sostenendo una collaborazione adeguata tra Paesi sviluppati e Paesi in via di sviluppo, segnatamente nel settore musicale e cinematografico,
+  - vi) sostenendo una collaborazione adeguata tra Paesi sviluppati e Paesi in via di sviluppo, segnatamente nel settore musicale e cinematografico;
 
 - b) rafforzare le capacità mediante lo scambio d’informazioni, di esperienze e di perizie, nonché attraverso la creazione di risorse umane nel settore pubblico e privato dei Paesi in via di sviluppo, segnatamente nell’ambito delle capacità strategiche e gestionali, dell’elaborazione e dell’attuazione di politiche, della promozione e della distribuzione delle espressioni culturali, dello sviluppo di medie, piccole e microimprese, dell’impiego tecnologico nonché dello sviluppo e del trasferimento di competenze;
 - c) trasferire tecnologie e sapere attraverso l’attuazione di misure d’incitamento adeguate, segnatamente nell’ambito delle industrie e imprese culturali;
-- d) garantire un sostegno finanziario mediante
+- d)
+
+  garantire un sostegno finanziario mediante:
+
   - i) l’istituzione di un Fondo internazionale per la diversità culturale in conformità all’articolo 18,
   - ii) l’attribuzione di un aiuto pubblico allo sviluppo in base alle esigenze, compresa un’assistenza tecnica volta a stimolare e a sostenere la creatività,
   - iii) altre forme di sostegno economico, quali prestiti con tassi d’interesse contenuti, sussidi e altri meccanismi di finanziamento.
@@ -369,7 +372,9 @@ Le risorse del Fondo sono costituite da:
 
 **Relazioni con gli altri strumenti: sostegno reciproco, complementarità e non subordinazione**
 
-<sup>1.</sup> Le Parti contraenti riconoscono la necessità di soddisfare in buona fede i loro obblighi in virtù della presente Convenzione e di tutti gli altri trattati di cui sono parte. Senza quindi subordinare la presente Convenzione agli altri trattati,
+<sup>1.</sup>
+
+Le Parti contraenti riconoscono la necessità di soddisfare in buona fede i loro obblighi in virtù della presente Convenzione e di tutti gli altri trattati di cui sono parte. Senza quindi subordinare la presente Convenzione agli altri trattati:
 
 - a) esse promuovono il sostegno reciproco tra la presente Convenzione e gli altri trattati a cui hanno aderito; e
 - b) quando interpretano e applicano gli altri trattati a cui hanno aderito o quando sottoscrivono altri obblighi internazionali, le Parti contraenti tengono conto delle disposizioni pertinenti della presente Convenzione.
@@ -560,7 +565,7 @@ La presente Convenzione è stata redatta in lingua araba, cinese, francese, ingl
 
 In conformità all’articolo 102 dello Statuto delle Nazioni Unite[^35-1], la presente Convenzione sarà registrata presso il Segretariato delle Nazioni Unite su richiesta del Direttore generale dell’UNESCO.
 
-[^35-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^35-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 (Seguono le firme)
 
@@ -604,7 +609,7 @@ La Commissione di conciliazione adotta le sue decisioni alla maggioranza dei vot
 
 Nel caso di disaccordi riguardanti la competenza della Commissione di conciliazione, spetta alla Commissione stessa decidere in merito.
 
-Campo d’applicazione il 20 marzo 2025[^t-2]
+Campo d’applicazione il 12 ottobre 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -617,10 +622,9 @@ Campo d’applicazione il 20 marzo 2025[^t-2]
 <tr><td>Arabia Saudita</td><td>22 aprile</td><td>2024 A</td><td>22 luglio</td><td>2024</td></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>7 maggio</td><td>2008</td><td>7 agosto</td><td>2008</td></tr>
 <tr><td>Armenia</td><td>27 febbraio</td><td>2007 A</td><td>27 maggio</td><td>2007</td></tr>
-<tr><td>Azerbaigian\*</td><td>15 febbraio</td><td>2010 A</td><td>15 maggio</td><td>2010</td></tr>
 <tr><td>Australia<sup>\*</sup></td><td>18 settembre</td><td>2009 A</td><td>18 dicembre</td><td>2009</td></tr>
 <tr><td>Austria</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
-<tr><td>Azerbaigian</td><td>15 febbraio</td><td>2010 A</td><td>15 maggio</td><td>2010</td></tr>
+<tr><td>Azerbaigian\*</td><td>15 febbraio</td><td>2010 A</td><td>15 maggio</td><td>2010</td></tr>
 <tr><td>Bahama</td><td>29 dicembre</td><td>2014</td><td>29 marzo</td><td>2015</td></tr>
 <tr><td>Bangladesh</td><td>31 maggio</td><td>2007</td><td>31 agosto</td><td>2007</td></tr>
 <tr><td>Barbados</td><td>2 ottobre</td><td>2008 A</td><td>2 gennaio</td><td>2009</td></tr>
@@ -631,6 +635,7 @@ Campo d’applicazione il 20 marzo 2025[^t-2]
 <tr><td>Bolivia</td><td>4 agosto</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>27 gennaio</td><td>2009</td><td>27 aprile</td><td>2009</td></tr>
 <tr><td>Botswana</td><td>7 gennaio</td><td>2020 A</td><td>7 aprile</td><td>2020</td></tr>
+<tr><td>Bahrein</td><td>1° ottobre</td><td>2025</td><td>1° gennaio</td><td>2026</td></tr>
 <tr><td>Brasile</td><td>16 gennaio</td><td>2007</td><td>16 aprile</td><td>2007</td></tr>
 <tr><td>Bulgaria</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Burkina Faso</td><td>15 settembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
@@ -697,6 +702,7 @@ Campo d’applicazione il 20 marzo 2025[^t-2]
 <tr><td>Laos</td><td>5 novembre</td><td>2007 A</td><td>5 febbraio</td><td>2008</td></tr>
 <tr><td>Lesotho</td><td>18 febbraio</td><td>2010 A</td><td>18 maggio</td><td>2010</td></tr>
 <tr><td>Lettonia</td><td>6 luglio</td><td>2007 A</td><td>6 ottobre</td><td>2007</td></tr>
+<tr><td>Libano</td><td>30 luglio</td><td>2026</td><td>30 ottobre</td><td>2026</td></tr>
 <tr><td>Lituania</td><td>18 dicembre</td><td>2006 A</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Lussemburgo</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Macedonia del Nord</td><td>22 maggio</td><td>2007</td><td>22 agosto</td><td>2007</td></tr>
@@ -738,23 +744,26 @@ Campo d’applicazione il 20 marzo 2025[^t-2]
 <tr><td>Saint Vincent e Grenadine</td><td>25 settembre</td><td>2009 A</td><td>25 dicembre</td><td>2009</td></tr>
 <tr><td>Samoa</td><td>23 ottobre</td><td>2015 A</td><td>23 gennaio</td><td>2016</td></tr>
 <tr><td>San Marino</td><td>10 dicembre</td><td>2024 A</td><td>10 marzo</td><td>2025</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>3 ottobre</td><td>2024</td><td>3 ottobre</td><td>2025</td></tr>
 <tr><td>Seicelle</td><td>20 giugno</td><td>2008 A</td><td>20 settembre</td><td>2008</td></tr>
 <tr><td>Senegal</td><td>7 novembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Serbia</td><td>2 luglio</td><td>2009</td><td>2 ottobre</td><td>2009</td></tr>
+<tr><td>Sierra Leone</td><td>19 giugno</td><td>2025</td><td>19 settembre</td><td>2025</td></tr>
 <tr><td>Siria</td><td>5 febbraio</td><td>2008 A</td><td>5 maggio</td><td>2008</td></tr>
 <tr><td>Slovacchia</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Slovenia</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Spagna</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
+<tr><td>Sri Lanka</td><td>1° aprile</td><td>2025 A</td><td>1° luglio</td><td>2025</td></tr>
 <tr><td>Sudafrica</td><td>21 dicembre</td><td>2006</td><td>21 marzo</td><td>2007</td></tr>
 <tr><td>Sudan</td><td>19 giugno</td><td>2008</td><td>19 settembre</td><td>2008</td></tr>
 <tr><td>Sudan del Sud</td><td>9 marzo</td><td>2016 A</td><td>9 giugno</td><td>2016</td></tr>
 <tr><td>Svezia</td><td>18 dicembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
 <tr><td>Svizzera</td><td>16 luglio</td><td>2008</td><td>16 ottobre</td><td>2008</td></tr>
-<tr><td>São Tomé e Príncipe</td><td>3 ottobre</td><td>2024</td><td>3 ottobre</td><td>2025</td></tr>
 <tr><td>Tagikistan</td><td>24 ottobre</td><td>2007</td><td>24 gennaio</td><td>2008</td></tr>
 <tr><td>Tanzania</td><td>18 ottobre</td><td>2011</td><td>18 gennaio</td><td>2012</td></tr>
 <tr><td>Timor Est</td><td>31 ottobre</td><td>2016 A</td><td>31 gennaio</td><td>2017</td></tr>
 <tr><td>Togo</td><td>5 settembre</td><td>2006</td><td>18 marzo</td><td>2007</td></tr>
+<tr><td>Tonga</td><td>7 luglio</td><td>2026</td><td>7 ottobre</td><td>2026</td></tr>
 <tr><td>Trinidad e Tobago</td><td>26 luglio</td><td>2010</td><td>26 ottobre</td><td>2010</td></tr>
 <tr><td>Tunisia</td><td>15 febbraio</td><td>2007</td><td>15 maggio</td><td>2007</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>2 novembre</td><td>2017 A</td><td>2 febbraio</td><td>2018</td></tr>
@@ -767,11 +776,11 @@ Campo d’applicazione il 20 marzo 2025[^t-2]
 <tr><td>Uzbekistan</td><td>15 novembre</td><td>2019</td><td>15 febbraio</td><td>2020</td></tr>
 <tr><td>Venezuela</td><td>28 maggio</td><td>2013</td><td>28 agosto</td><td>2013</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>7 agosto</td><td>2007</td><td>7 novembre</td><td>2007</td></tr>
+<tr><td>Yemen</td><td>5 giugno</td><td>2024</td><td>5 settembre</td><td>2024</td></tr>
 <tr><td>Zambia</td><td>11 luglio</td><td>2023 A</td><td>11 ottobre</td><td>2023</td></tr>
 <tr><td>Zimbabwe</td><td>15 maggio</td><td>2008</td><td>15 agosto</td><td>2008</td></tr>
-<tr><td>Yemen</td><td>5 giugno</td><td>2024</td><td>5 settembre</td><td>2024</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535](https://www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non vale per Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211); [2026 557](https://fedlex.data.admin.ch/eli/oc/2026/557). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty.](https://www.fedlex.admin.ch/it/treaty)

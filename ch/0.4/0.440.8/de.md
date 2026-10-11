@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Übereinkommen vom 20. Oktober 2005 über den Schutz und die Förderung der Vielfalt kultureller Ausdrucksformen (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: de
-version: 2025-03-20
+version: 2026-10-12
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20250320/de/xml/fedlex-data-admin-ch-eli-cc-2008-676-20250320-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20250320/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20261012/de/xml/fedlex-data-admin-ch-eli-cc-2008-676-20261012-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20261012/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2008** 4823; BBl **2007** 7297
 
 Abgeschlossen in Paris am 20. Oktober 2005 Von der Bundesversammlung genehmigt am 20. März 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 2008 In Kraft getreten für die Schweiz am 16. Oktober 2008
 
-(Stand am 20. März 2025)
+(Stand am 12. Oktober 2026)
 
 [^t-1]: [AS 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -128,7 +128,7 @@ Der gleichberechtigte Zugang zu einem reichen und vielfältigen Spektrum kulture
 
 Beschliessen die Staaten Massnahmen, um die Vielfalt kultureller Ausdrucksformen zu unterstützen, so sollen sie danach streben, in geeigneter Weise die Offenheit gegenüber anderen Kulturen der Welt zu fördern und sicherzustellen, dass diese Massnahmen im Einklang mit den durch dieses Übereinkommen verfolgten Zielen stehen.
 
-[^2-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^2-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## II. Geltungsbereich
 
@@ -192,7 +192,7 @@ Die kulturelle Vielfalt zeigt sich nicht nur in der unterschiedlichen Weise, in 
 
 <sup>2.</sup> Setzt eine Vertragspartei eine Politik zum Schutz und zur Förderung der Vielfalt kultureller Ausdrucksformen in ihrem Hoheitsgebiet um beziehungsweise ergreift sie derartige Massnahmen, so müssen ihre Politik und ihre Massnahmen mit diesem Übereinkommen vereinbar sein.
 
-[^5-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -565,7 +565,7 @@ Dieses Übereinkommen ist in arabischer, chinesischer, englischer, französische
 
 Auf Ersuchen des Generaldirektors der UNESCO wird dieses Übereinkommen nach Artikel 102 der Charta der Vereinten Nationen[^35-1] beim Sekretariat der Vereinten Nationen registriert.
 
-[^35-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^35-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 (Es folgen die Unterschriften)
 
@@ -609,7 +609,7 @@ Die Vergleichskommission entscheidet mit der Mehrheit ihrer Mitglieder. Sofern d
 
 Bei Uneinigkeit darüber, ob die Vergleichskommission zuständig ist, entscheidet die Kommission.
 
-Geltungsbereich am 20. März 2025[^t-2]
+Geltungsbereich am 12. Oktober 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -627,6 +627,7 @@ Geltungsbereich am 20. März 2025[^t-2]
 <tr><td>Äthiopien</td><td>2. September</td><td>2008</td><td>2. Dezember</td><td>2008</td></tr>
 <tr><td>Australien\*</td><td>18. September</td><td>2009 B</td><td>18. Dezember</td><td>2009</td></tr>
 <tr><td>Bahamas</td><td>29. Dezember</td><td>2014</td><td>29. März</td><td>2015</td></tr>
+<tr><td>Bahrain</td><td>1. Oktober</td><td>2025</td><td>1. Januar</td><td>2026</td></tr>
 <tr><td>Bangladesch</td><td>31. Mai</td><td>2007</td><td>31. August</td><td>2007</td></tr>
 <tr><td>Barbados</td><td>2. Oktober</td><td>2008 B</td><td>2. Januar</td><td>2009</td></tr>
 <tr><td>Belarus</td><td>6. September</td><td>2006</td><td>18. März</td><td>2007</td></tr>
@@ -696,6 +697,7 @@ Geltungsbereich am 20. März 2025[^t-2]
 <tr><td>Laos</td><td>5. November</td><td>2007 B</td><td>5. Februar</td><td>2008</td></tr>
 <tr><td>Lesotho</td><td>18. Februar</td><td>2010 B</td><td>18. Mai</td><td>2010</td></tr>
 <tr><td>Lettland</td><td>6. Juli</td><td>2007 B</td><td>6. Oktober</td><td>2007</td></tr>
+<tr><td>Libanon</td><td>30. Juli</td><td>2026</td><td>30. Oktober</td><td>2026</td></tr>
 <tr><td>Litauen</td><td>18. Dezember</td><td>2006 B</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Luxemburg</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Madagaskar</td><td>11. September</td><td>2006</td><td>18. März</td><td>2007</td></tr>
@@ -742,10 +744,12 @@ Geltungsbereich am 20. März 2025[^t-2]
 <tr><td>Senegal</td><td>7. November</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Serbien</td><td>2. Juli</td><td>2009</td><td>2. Oktober</td><td>2009</td></tr>
 <tr><td>Seychellen</td><td>20. Juni</td><td>2008 B</td><td>20. September</td><td>2008</td></tr>
+<tr><td>Sierra Leone</td><td>19. Juni</td><td>2025</td><td>19. September</td><td>2025</td></tr>
 <tr><td>Simbabwe</td><td>15. Mai</td><td>2008</td><td>15. August</td><td>2008</td></tr>
 <tr><td>Slowakei</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Slowenien</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Spanien</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
+<tr><td>Sri Lanka</td><td>1. April</td><td>2025 B</td><td>1. Juli</td><td>2025</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>26. April</td><td>2016</td><td>26. Juli</td><td>2016</td></tr>
 <tr><td>St. Lucia</td><td>1. Februar</td><td>2007</td><td>1. Mai</td><td>2007</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>25. September</td><td>2009 B</td><td>25. Dezember</td><td>2009</td></tr>
@@ -757,6 +761,7 @@ Geltungsbereich am 20. März 2025[^t-2]
 <tr><td>Tansania</td><td>18. Oktober</td><td>2011</td><td>18. Januar</td><td>2012</td></tr>
 <tr><td>Timor-Leste</td><td>31. Oktober</td><td>2016 A</td><td>31. Januar</td><td>2017</td></tr>
 <tr><td>Togo</td><td>5. September</td><td>2006</td><td>18. März</td><td>2007</td></tr>
+<tr><td>Tonga</td><td>7. Juli</td><td>2026</td><td>7. Oktober</td><td>2026</td></tr>
 <tr><td>Trinidad und Tobago</td><td>26. Juli</td><td>2010</td><td>26. Oktober</td><td>2010</td></tr>
 <tr><td>Tschad</td><td>17. Juni</td><td>2008</td><td>17. September</td><td>2008</td></tr>
 <tr><td>Tschechische Republik</td><td>12. August</td><td>2010 B</td><td>12. November</td><td>2010</td></tr>
@@ -777,4 +782,4 @@ Geltungsbereich am 20. März 2025[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur (UNESCO): [www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535](https://www.unesco.org/fr/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398); [2025 211](https://fedlex.data.admin.ch/eli/oc/2025/211); [2026 557](https://fedlex.data.admin.ch/eli/oc/2026/557). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
