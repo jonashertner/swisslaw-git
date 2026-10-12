@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur la TVA (LTVA) et de la loi fédérale sur les droits de timbre (LT) (Renforcer la compétitivité de l’économie suisse)
 document: Projet mis en consultation
 language: fr

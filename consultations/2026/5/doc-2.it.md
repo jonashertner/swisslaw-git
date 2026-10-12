@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sull’IVA (LIVA) e della legge sulle tasse di bollo (LTB) (Rafforzare la competitività dell’economia svizzera)
 document: Progetto posto in consultazione
 language: it

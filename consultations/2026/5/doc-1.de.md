@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Mehrwertsteuergesetzes (MWSTG) und des Bundesgesetzes über die Stempelabgaben (StG) (Wettbewerbsfähigkeit der Schweizer Wirtschaft stärken)
 document: Vernehmlassungsvorlage-2
 language: de
