@@ -1,0 +1,305 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2026 532
+title: Reglement vom 12. Dezember 2025 über die Verwendung der Mittel des Fonds für Verkehrssicherheit
+language: de
+adopted: 2026-09-25
+published: 2026-10-13
+in_force: ["2026-11-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2026/532/de"
+---
+
+> Nicht amtliche Wiedergabe aus der Amtlichen Sammlung (AS). Der Erlass ist veröffentlicht, aber noch nicht in Kraft; massgebend ist die Veröffentlichung in der AS (Art. 15 PublG, SR 170.512).
+
+# Reglement über die Verwendung der Mittel des Fonds für Verkehrssicherheit
+
+vom 12. Dezember 2025
+
+vom Bundesrat genehmigt am 25. September 2026
+
+Die Verwaltungskommission des Fonds für Verkehrssicherheit,
+
+gestützt auf Artikel 6 Absatz 2 Buchstabe a des Unfallverhütungsbeitragsgesetzes vom 25. Juni 1976[^ingress-1],
+
+verordnet:
+
+[^ingress-1]: [SR 741.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8708)
+
+## 1. Abschnitt: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Dieses Reglement legt die Verwendung der Mittel und das Verfahren für die Ausrichtung von Finanzhilfen des Schweizerischen Fonds für Unfallverhütung im Strassenverkehr (Fonds für Verkehrssicherheit, FVS) fest.
+
+#### Art. 2
+
+**Grundsätze zur Mittelverwendung**
+
+<sup>1</sup> Die Verwaltungskommission des FVS (Verwaltungskommission) verfügt über die Mittel des FVS. Sie fördert, koordiniert oder trifft Massnahmen zur Verringerung von Unfällen und Unfallfolgen.
+
+<sup>2</sup>
+
+Die Mittel aus den Unfallverhütungsbeiträgen werden wie folgt verwendet:
+
+- a. mehrheitlich für die vom FVS festgelegten Schwerpunktthemen, für die freiwillige Weiterbildung von am Strassenverkehr Teilnehmenden und für Projekte des FVS;
+- b. im Übrigen für Projekte, welche sich in kein Schwerpunktthema einordnen lassen.
+
+#### Art. 3
+
+**Arten der Mittelverwendung**
+
+Der FVS setzt seine Mittel insbesondere in folgenden Bereichen ein:
+
+- a. eigene Projekte des FVS;
+- b. Finanzhilfen im Rahmen des FVS-Labs; und
+- c. Finanzhilfen für Projekte, Kampagnen und Forschung.
+
+#### Art. 4
+
+**Evaluation**
+
+<sup>1</sup> Der FVS überprüft regelmässig die Zweckmässigkeit und die Wirksamkeit seiner eigenen und der von ihm unterstützten Projekte und Kampagnen.
+
+<sup>2</sup> Er kann externe Fachpersonen mit der Evaluation beauftragen.
+
+#### Art. 5
+
+**Eigene Projekte des FVS**
+
+<sup>1</sup> Der FVS kann eigene Initiativen, Projekte und Kampagnen durchführen oder Aufträge für deren Durchführung vergeben.
+
+<sup>2</sup> Das Beschaffungsrecht des Bundes ist anwendbar.
+
+## 2. Abschnitt: Finanzhilfen
+
+#### Art. 6
+
+**Empfängerinnen und Empfänger von Finanzhilfen**
+
+<sup>1</sup> Der FVS kann Finanzhilfen Organisationen des Strassenverkehrs, Gemeinwesen ausserhalb der Bundesverwaltung sowie juristischen und natürlichen Personen gewähren, die Projekte, Kampagnen oder Forschung in der Schweiz oder mit einem engen Bezug zur Schweiz durchführen.
+
+<sup>2</sup> Aufgaben im Bereich der Verkehrssicherheit, zu denen das Gemeinwesen gesetzlich verpflichtet ist, werden nicht unterstützt.
+
+#### Art. 7
+
+**Grundsätze**
+
+<sup>1</sup> Die Empfängerin oder der Empfänger einer Finanzhilfe erbringt die Eigenleistung, die ihr oder ihm aufgrund ihrer oder seiner wirtschaftlichen Leistungsfähigkeit zugemutet werden kann.
+
+<sup>2</sup> Das Subventionsgesetz vom 5. Oktober 1990[^7-1] ist anwendbar.
+
+<sup>3</sup> Die Beteiligung an Kosten für strassenbauliche und verkehrspolizeiliche Massnahmen ist ausgeschlossen (Art. 2 Abs. 2 des Unfallverhütungsbeitragsgesetzes vom 25. Juni 1976).
+
+<sup>4</sup> Als strassenbauliche Massnahmen gelten alle baulichen und technischen Massnahmen, die zur Verbesserung, Erweiterung oder Erhaltung von Strassen sowie der angrenzenden Infrastruktur durchgeführt werden.
+
+<sup>5</sup> Verkehrspolizeiliche Massnahmen betreffen die Nutzung des Strassennetzes wie Signalisation, Verkehrslenkung, Verkehrskontrollen durch die Polizei und befristete Strassensperrungen betreffen.
+
+<sup>6</sup> Es werden keine Strukturbeiträge ausgerichtet. Ein Strukturbeitrag ist eine für die laufenden Betriebskosten einer Organisation ausgerichtete Finanzhilfe, die nicht mit einem bestimmten vom FVS unterstützten Projekt verknüpft ist und welche die Organisation beliebig einsetzen kann.
+
+[^7-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+
+#### Art. 8
+
+**FVS-Lab**
+
+<sup>1</sup> Das FVS-Lab ist ein der Gesuchseingabe vorgelagertes Instrument zur frühen Unterstützung von Projektideen und Präventionsansätzen, die zur Verringerung von Unfällen und Unfallfolgen im Strassenverkehr beitragen oder Erkenntnisse dazu liefern sollen. Es dient der iterativen Weiterentwicklung aussichtsreicher Vorhaben bis zur Umsetzung oder zur Antragsreife gemäss Artikel 9.
+
+<sup>2</sup> Die Geschäftsstelle kann Projekte im FVS-Lab im Rahmen des jährlich hierfür gesprochenen Budgets finanziell unterstützen.
+
+<sup>3</sup> Gesuche um Finanzhilfen im FVS-Lab müssen die Notwendigkeit der eingereichten Vorhaben und deren Innovationscharakter begründen.
+
+<sup>4</sup> Es besteht kein Rechtsanspruch auf Aufnahme ins oder Verbleiben im FVS-Lab oder auf die Gewährung einer Finanzhilfe.
+
+#### Art. 9
+
+**Finanzhilfen für Projekte, Kampagnen und Forschung**
+
+<sup>1</sup> Der FVS gewährt Finanzhilfen für Projekte, Kampagnen und Forschung, die zur Verringerung von Unfällen und Unfallfolgen im Strassenverkehr beitragen oder Erkenntnisse dazu liefern sollen.
+
+<sup>2</sup> Gesuche um Finanzhilfen müssen die Notwendigkeit der eingereichten Vorhaben und deren unfallverhütende Wirkung begründen sowie die Verkehrssicherheit betreffen.
+
+<sup>3</sup> Gesuche um Finanzhilfen sind vor der Durchführung des entsprechenden Vorhabens einzureichen. Mit der Umsetzung des Vorhabens darf erst begonnen werden, nachdem dem Gesuch um Finanzhilfe mittels Verfügung entsprochen wurde. Erfolgt ein Projektstart vor diesem Zeitpunkt, kann die Geschäftsstelle von der weiteren Gesuchsbehandlung absehen und einen Nichteintretensentscheid fällen.
+
+<sup>4</sup> Gesuche um Finanzhilfen, Gesuche um Akontozahlungen und Schlussabrechnungen sind ausschliesslich elektronisch über das Portal des FVS in einer Amtssprache oder in Englisch einzureichen.
+
+<sup>5</sup> Es besteht kein Rechtsanspruch auf die Gewährung einer Finanzhilfe.
+
+#### Art. 10
+
+**Mitwirkung während des Gesuchverfahrens**
+
+<sup>1</sup>
+
+Gesuchstellende sind verpflichtet, die notwendige und zumutbare Mitwirkung zu leisten. Sie haben insbesondere jederzeit:
+
+- a. verlangte Auskünfte zu erteilen;
+- b. Einsicht in die relevanten Unterlagen zu gewähren;
+- c. an Tatsachenabklärungen mitzuwirken; und
+- d. neue, zum Zeitpunkt der Gesuchseinreichung nicht bekannte oder vorhandene und für die Entscheidfindung erhebliche Tatsachen unverzüglich vorzubringen.
+
+<sup>2</sup> Bei einer Verletzung der Mitwirkungspflichten kann die Geschäftsstelle von der weiteren Gesuchsbehandlung absehen und einen Nichteintretensentscheid fällen.
+
+<sup>3</sup> Gesuchstellende haben grundsätzlich keinen Anspruch darauf, ihr Gesuch nachträglich zu ergänzen. Auf unvollständige oder formell fehlerhafte Gesuche tritt die Geschäftsstelle grundsätzlich nicht ein.
+
+#### Art. 11
+
+**Entscheid über Finanzhilfen für Projekte, Kampagnen und Forschung**
+
+<sup>1</sup> Die Verwaltungskommission entscheidet über die Gesuche gestützt auf die eingereichten Unterlagen (massgeblicher Sachverhalt). Sie kann für die Beurteilung der Gesuche Beurteilungen von externen Expertinnen und Experten einholen.
+
+<sup>2</sup> Die Geschäftsstelle eröffnet den Entscheid mittels Verfügung.
+
+<sup>3</sup> Die Gewährung einer Finanzhilfe kann mit Auflagen oder Bedingungen verbunden werden.
+
+<sup>4</sup> Finanzhilfen werden für die Dauer von höchstens vier Jahren gesprochen.
+
+#### Art. 12
+
+**Wiedereinreichung**
+
+Der FVS tritt auf wiedereingereichte Gesuche nicht ein, wenn sie gegenüber der abgelehnten Version nicht wesentlich verändert wurden.
+
+#### Art. 13
+
+**Projektcontrolling**
+
+<sup>1</sup> Die Geschäftsstelle begleitet und überwacht die unterstützten Projekte im FVS-Lab und die übrigen Projekte, Kampagnen und Forschung.
+
+<sup>2</sup> Die Geschäftsstelle prüft die rechtmässige Beitragsverwendung regelmässig anhand der von den Empfängerinnen und Empfängern von Finanzhilfen eingereichten Berichte sowie aufgrund von Meldungen Dritter oder eigener Feststellungen im Einzelfall.
+
+<sup>3</sup> Die Geschäftsstelle kann Abrechnungen über bewilligte Gesuche einer Treuhandüberprüfung unterziehen lassen.
+
+#### Art. 14
+
+**Mitwirkung während des Projekts**
+
+Empfängerinnen und Empfänger von Finanzhilfen sind verpflichtet, die im Rahmen des Projektcontrollings verlangte Mitwirkung zu leisten. Sie haben insbesondere jederzeit:
+
+- a. auf Verlangen der Geschäftsstelle einen schriftlichen Bericht über den Verlauf der Arbeiten und der beanspruchten Finanzhilfe einzureichen;
+- b. verlangte Auskünfte zu erteilen;
+- c. Einsicht in die relevanten Unterlagen zu gewähren; und
+- d. an Tatsachenabklärungen mitzuwirken.
+
+#### Art. 15
+
+**Projektänderungen**
+
+<sup>1</sup> Empfängerinnen und Empfänger von Finanzhilfen sind verpflichtet, sämtliche Projektänderungen unverzüglich der Geschäftsstelle mitzuteilen.
+
+<sup>2</sup> Erhebliche Abweichungen bei der Umsetzung und in der Verwendung der bewilligten Finanzhilfe müssen von der Verwaltungskommission bewilligt werden.
+
+<sup>3</sup> Unerhebliche Abweichungen bei der Umsetzung und in der Verwendung der bewilligten Finanzhilfe müssen von der Geschäftsstelle bewilligt werden.
+
+<sup>4</sup> Die Übernahme anfallender Mehrkosten bei Projekten im FVS-Lab kann schriftlich bei der Geschäftsstelle beantragt werden.
+
+<sup>5</sup> Die Übernahme anfallender Mehrkosten bei Projekten, Kampagnen und Forschung kann im Rahmen eines Nachtraggesuchs bei der Verwaltungskommission beantragt werden.
+
+#### Art. 16
+
+**Akontozahlungen**
+
+<sup>1</sup> Finanzhilfen werden frühestens ausbezahlt, soweit Aufwendungen unmittelbar bevorstehen.
+
+<sup>2</sup> Akontozahlungen werden den Empfängerinnen und Empfängern von Finanzhilfen auf begründetes Begehren ausbezahlt.
+
+<sup>3</sup> Bei Projekten, Kampagnen und Forschung werden Akontozahlungen in der Regel zu den im Gesuch angegebenen Zeitpunkten ausbezahlt.
+
+<sup>4</sup> Bei Projekten, Kampagnen und Forschung betragen die Akontozahlungen höchstens 80 Prozent des bewilligten Betrags.
+
+#### Art. 17
+
+**Schlussabrechnungen**
+
+<sup>1</sup>
+
+Empfängerinnen und Empfänger von Finanzhilfen müssen nach Abschluss des Projekts dem FVS eine Schlussabrechnung einreichen. Diese enthält insbesondere:
+
+- a. einen Schlussbericht über Verlauf und Ergebnisse des Projekts;
+- b. eine detaillierte, nach Budgetpositionen gegliederte Abrechnung;
+- c. auf Verlangen des FVS im Rahmen des Projekts erarbeitete Materialien wie Drucksachen und Give-Aways.
+
+<sup>2</sup> Anrechenbar sind nur tatsächliche Aufwendungen, die für die zweckmässige Erfüllung der Aufgabe unbedingt erforderlich sind.
+
+<sup>3</sup> Die Restzahlung erfolgt innerhalb von 30 Tagen nach Genehmigung der Schlussabrechnung.
+
+#### Art. 18
+
+**Veröffentlichung**
+
+<sup>1</sup> Vom FVS unterstützte Projekte im FVS-Lab sowie die übrigen Projekte, Kampagnen und Forschung dürfen nur mit Einwilligung der Geschäftsstelle veröffentlicht werden.
+
+<sup>2</sup> Forschungsberichte dürfen nach der Genehmigung der Schlussabrechnung veröffentlicht werden.
+
+<sup>3</sup> Die Veröffentlichung kann mit Auflagen oder Bedingungen verbunden werden.
+
+<sup>4</sup> Alle zur Veröffentlichung bestimmten Forschungsberichte müssen eine Zusammenfassung in den Amtssprachen enthalten.
+
+<sup>5</sup> Die Forschungsergebnisse dürfen vom FVS für seine eigenen Tätigkeiten oder für weitere Forschungsprojekte verwendet werden.
+
+<sup>6</sup> Die mit Finanzhilfen des FVS erhobenen Daten sind auch anderen Forschenden für die weitere Forschung zur Verfügung zu stellen und in anerkannte wissenschaftliche Datensammlungen einzubringen.
+
+<sup>7</sup> Bei der Bearbeitung von Personendaten für nicht personenbezogene Zwecke, insbesondere für Forschung, Planung oder Statistik, sind die Vorgaben von Artikel 39 des Datenschutzgesetzes vom 25. September 2020[^18-1] einzuhalten. Namentlich dürfen Forschungsergebnisse nur so veröffentlicht werden, dass die betroffenen Personen nicht bestimmbar sind.
+
+[^18-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
+#### Art. 19
+
+**Hinweis auf die finanzielle Unterstützung durch den FVS**
+
+<sup>1</sup> Empfängerinnen und Empfänger von Finanzhilfen müssen auf die finanzielle Unterstützung durch den FVS hinweisen.
+
+<sup>2</sup> Sämtliche Materialien, namentlich der Webauftritt, Drucksachen und Give-Aways, müssen grundsätzlich das Logo des FVS tragen.
+
+<sup>3</sup> Das Logo des FVS und das Logo der Empfängerin oder des Empfängers der Finanzhilfe sind gleichwertig zu platzieren.
+
+<sup>4</sup> Werden Materialien ohne Hinweis auf die Empfängerin oder den Empfänger der Finanzhilfe abgegeben, so genügt es, wenn der FVS anlässlich der Abgabe der Materialien erwähnt wird.
+
+#### Art. 20
+
+**Weitergabe von Personendaten**
+
+<sup>1</sup> Empfängerinnen und Empfänger von Finanzhilfen sind verpflichtet, dem FVS sämtliche im Rahmen eines geförderten Projekts erhobenen Personendaten natürlicher und juristischer Personen weiterzuleiten, sofern eine entsprechende Einwilligung der betroffenen Personen vorliegt.
+
+<sup>2</sup> Die Einwilligung ist aktiv einzuholen und muss den Anforderungen des Datenschutzgesetzes vom 25. September 2020[^20-1] entsprechen.
+
+<sup>3</sup> Die Einwilligung ist zu dokumentieren und dem FVS auf Anfrage vorzulegen.
+
+<sup>4</sup> Liegt keine Einwilligung vor, so dürfen die entsprechenden Daten nicht an den FVS übermittelt werden. Für die betroffenen Personen entstehen daraus keine Nachteile.
+
+<sup>5</sup> Die Weitergabe erfolgt zum Zweck der Qualitätssicherung, der statistischen Auswertung sowie der Planung und Durchführung zukünftiger Projekte und Kampagnen. Dies umfasst insbesondere die Speicherung und die Nutzung von Kontaktangaben zur gezielten Information der betroffenen Personen über relevante Angebote und Entwicklungen.
+
+[^20-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
+#### Art. 21
+
+**Immaterialgüterrechte**
+
+Unter Vorbehalt von Artikel 18 behalten Empfängerinnen und Empfänger von Finanzhilfen die Immaterialgüterrechte auf den Ergebnissen ihrer Projekte im Rahmen dieses Reglements.
+
+## 3. Abschnitt: Änderungen und Inkrafttreten
+
+#### Art. 22
+
+**Reglementsänderungen**
+
+Änderungen dieses Reglements bedürfen der Zustimmung der Mehrheit aller Mitglieder der Verwaltungskommission und der Genehmigung durch den Bundesrat.
+
+#### Art. 23
+
+**Aufhebung eines anderen Erlasses**
+
+Das Reglement vom 5. Dezember 1989[^23-1] über die Verwendung der Mittel des Fonds für Verkehrssicherheit wird aufgehoben.
+
+[^23-1]: [AS 1991 2204](https://fedlex.data.admin.ch/eli/oc/1991/2204_2204_2204); [2004 4627](https://fedlex.data.admin.ch/eli/oc/2004/708); [2006 4799](https://fedlex.data.admin.ch/eli/oc/2006/735)
+
+#### Art. 24
+
+**Inkrafttreten**
+
+Dieses Reglement tritt am 1. November 2026 in Kraft.
+
+<table>
+<tr><td>25. September 2026</td><td>Im Namen des Schweizerischen Bundesrates Der Präsident der Verwaltungskommission des Fonds für Verkehrssicherheit: Lorenzo Cascioni</td></tr>
+</table>
