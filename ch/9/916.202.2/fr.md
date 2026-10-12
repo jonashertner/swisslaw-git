@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFEV sur les mesures phytosanitaires au profit de la for
 short: OMP-OFEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: fr
-version: 2026-01-15
+version: 2026-10-13
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20260115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-825-20260115-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20261013/fr/xml/fedlex-data-admin-ch-eli-cc-2017-825-20261013-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20261013/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/fr"
 
 (OMP-OFEV)
 
-du 29 novembre 2017 (État le 15 janvier 2026)
+du 29 novembre 2017 (État le 13 octobre 2026)
 
 L’Office fédéral de l’environnement (OFEV),
 
@@ -80,7 +80,7 @@ Annexe 1[^t-1]
 
 ## Correspondances terminologiques et droit applicable
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Mise à jour par le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) et le ch. I de l’O de l’OFEV du 6 avr. 2023, en vigueur depuis le 15 mai 2023 ([RO 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFEV du 19 nov. 2019 ([RO 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Mise à jour par le ch. II al. 1 de l’O de l’OFEV du 17 nov. 2020 ([RO 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) et le ch. I de l’O de l’OFEV du 6 avr. 2023, en vigueur depuis le 15 mai 2023 ([RO 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)). Erratum du 13 oct. 2026, ne concerne que le texte italien ([RO 2026 537](https://fedlex.data.admin.ch/eli/oc/2026/537)).
 
 ### 1 Correspondances terminologiques
 

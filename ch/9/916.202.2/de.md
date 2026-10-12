@@ -4,11 +4,11 @@ title: Verordnung des BAFU vom 29. November 2017 über phytosanitäre Massnahmen
 short: VpM-BAFU
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: de
-version: 2026-01-15
+version: 2026-10-13
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20260115/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20260115-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20261013/de/xml/fedlex-data-admin-ch-eli-cc-2017-825-20261013-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20261013/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/de"
 
 (VpM-BAFU)
 
-vom 29. November 2017 (Stand am 15. Januar 2026)
+vom 29. November 2017 (Stand am 13. Oktober 2026)
 
 Das Bundesamt für Umwelt (BAFU),
 
@@ -80,7 +80,7 @@ Anhang 1[^t-1]
 
 ## Entsprechung von Ausdrücken und anwendbares Recht
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. I der V des BAFU vom 6. April 2023, in Kraft seit 15. Mai 2023 ([AS 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAFU vom 19. Nov. 2019 ([AS 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Bereinigt gemäss Ziff. II Abs. 1 der V des BAFU vom 17. Nov. 2020 ([AS 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) und Ziff. I der V des BAFU vom 6. April 2023, in Kraft seit 15. Mai 2023 ([AS 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)). Die Berichtigung vom 13. Okt. 2026 betrifft nur den italienischen Text ([AS 2026 537](https://fedlex.data.admin.ch/eli/oc/2026/537)).
 
 ### 1 Entsprechung von Ausdrücken
 
@@ -448,5 +448,4 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Agrilus planipennis* Fai
 
 - 6\.2.1 Pflanzen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss der Durchführungsverordnung (EU) 2024/434 erfüllen, dürfen auch in die Schweiz eingeführt und in der Schweiz in Verkehr gebracht werden.
 - 6\.2.2 Anstelle der Frist nach Artikel 9 der Durchführungsverordnung (EU) 2024/434 gelten die vom EPSD festgelegten Fristen. Dieser gibt die Fristen den Kantonen in geeigneter Form bekannt.
-
-6.2.3 Wo gemäss den Artikeln 8 und 9 der Durchführungsverordnung (EU) 2024/434 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.
+- 6\.2.3 Wo gemäss den Artikeln 8 und 9 der Durchführungsverordnung (EU) 2024/434 die Zuständigkeit bei den Mitgliedstaaten liegt, ist in der Schweiz der EPSD zuständig.

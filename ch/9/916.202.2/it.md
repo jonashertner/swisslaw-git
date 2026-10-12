@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFAM concernente le misure fitosanitarie per le foreste (
 short: OMF-UFAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/825"
 language: it
-version: 2026-01-15
+version: 2026-10-13
 adopted: 2017-11-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20260115/it/xml/fedlex-data-admin-ch-eli-cc-2017-825-20260115-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/825/20261013/it/xml/fedlex-data-admin-ch-eli-cc-2017-825-20261013-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20261013/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/825/20260115/it"
 
 (OMF-UFAM)
 
-del 29 novembre 2017 (Stato 15 gennaio 2026)
+del 29 novembre 2017 (Stato 13 ottobre 2026)
 
 L’Ufficio federale dell’ambiente (UFAM),
 
@@ -80,7 +80,7 @@ Allegato 1[^t-1]
 
 ## Equivalenze terminologiche e diritto applicabile
 
-[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dalla cifra II cpv. 1 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)) e dalla cifra I dell’O dell’UFAM del 6 apr. 2023, in vigore dal 15 mag. 2023 ([RU 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)). Aggiornato dalla cifra II cpv. 1 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)), dalla cifra I dell’O dell’UFAM del 6 apr. 2023, in vigore dal 15 mag. 2023 ([RU 2023 183](https://fedlex.data.admin.ch/eli/oc/2023/183)) e dalla correzione del 13 ott. 2026 ([RU 2026 537](https://fedlex.data.admin.ch/eli/oc/2026/537)).
 
 ### 1 Equivalenze terminologiche
 
@@ -96,18 +96,21 @@ Salvo disposizioni contrarie negli allegati 2–4, le espressioni qui appresso d
 <tr><td>Stati terzi</td><td>Stati terzi secondo l’art. 2 lett. k OSalV</td></tr>
 <tr><td>Introduzione nel territorio della Comunità</td><td>Importazione in Svizzera da uno Stato terzo</td></tr>
 <tr><td>Zona infestata</td><td>Focolaio d’infestazione</td></tr>
-<tr><td>b. Espressioni in francese</td><td></td></tr>
-<tr><td>[tab] Union européenne / Union</td><td>Suisse</td></tr>
-<tr><td>[tab] Commission européenne / Commission</td><td>Service phytosanitaire fédéral (SPF)</td></tr>
-<tr><td>[tab] États membres</td><td>Cantons</td></tr>
-<tr><td>[tab] Importation dans l’Union / la Communauté</td><td>Importation en provenance d’un État tiers</td></tr>
-<tr><td>[tab] Zone contaminée</td><td>Foyer d’infestation</td></tr>
+<tr><td>b. Espressioni in tedesco</td><td></td></tr>
+<tr><td>Europäische Gemeinschaft / Gemeinschaft</td><td>Schweiz</td></tr>
+<tr><td>Europäische Union / Union</td><td>Schweiz</td></tr>
+<tr><td>Europäische Kommission / Kommission</td><td>Eidgenössischer Pflanzenschutzdienst (EPSD)</td></tr>
+<tr><td>Mitgliedstaaten</td><td>Kantone</td></tr>
+<tr><td>Einfuhr in das Gebiet der Union / Gemeinschaft</td><td>Einfuhr aus einem Drittland in die Schweiz</td></tr>
+<tr><td>Befallszone</td><td>Befallsherd</td></tr>
+<tr><td>Ausrottung</td><td>Tilgung</td></tr>
+<tr><td>Kahlschlagzone</td><td>Fokuszone</td></tr>
 <tr><td>c. Espressioni in francese</td><td></td></tr>
 <tr><td>Union européenne / Union</td><td>Suisse</td></tr>
 <tr><td>Commission européenne / Commission</td><td>Service phytosanitaire fédéral (SPF)</td></tr>
 <tr><td>États membres</td><td>Cantons</td></tr>
-<tr><td>Importation dans l’Union / la Communauté</td><td>Importation en provenance d’un Pays tiers</td></tr>
-<tr><td>Zone contaminée</td><td>Foyer de contamination</td></tr>
+<tr><td>Importation dans l’Union / la Communauté</td><td>Importation en provenance d’un État tiers</td></tr>
+<tr><td>Zone contaminée</td><td>Foyer d’infestation</td></tr>
 </table>
 
 ### 2 Diritto applicabile
@@ -217,7 +220,7 @@ Allegato 2a[^t-3]
 
 [^t-3]: Introdotto dalla cifra II cpv. 2 dell’O dell’UFAM del 17 nov. 2020 ([RU 2020 5313](https://fedlex.data.admin.ch/eli/oc/2020/920)). Aggiornato dalla cifra I cpv. 2 dell’O dell’UFAM del 10 dic. 2025, in vigore dal 15 gen. 2026 ([RU 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 e 2 ...
+### 1 e 2 …
 
 ### 3 Legno di quercia (*Quercus* L.), che ha conservato la superficie rotonda naturale insieme alla corteccia, originario degli Stati Uniti d’America
 
@@ -232,11 +235,9 @@ Per l’importazione di legno di quercia (*Quercus* L.) secondo l’allegato 7 n
 
 Al SFF devono essere comunicati almeno con una settimana di anticipo:
 
-a. la data prevista d’arrivo di una partita destinata all’importazione contenente vegetali di cui al numero 3.1;
-
-b. la quantità dei vegetali importati; e
-
-c. il luogo di sbarco della partita nell’UE.
+- a. la data prevista d’arrivo di una partita destinata all’importazione contenente vegetali di cui al numero 3.1;
+- b. la quantità dei vegetali importati; e
+- c. il luogo di sbarco della partita nell’UE.
 
 ### 3.3 Durata di validità delle condizioni specifiche riconosciute come equivalenti
 
@@ -254,9 +255,9 @@ Allegato 3[^t-4]
 
 [^t-4]: Aggiornato dalla cifra II cpv. 2 dell’O dell’UFAM del 19 nov. 2019 ([RU 2019 4989](https://fedlex.data.admin.ch/eli/oc/2019/788)), dalla cifra II dell’O dell’UFAM del 30 nov. 2021 ([RU 2021 833](https://fedlex.data.admin.ch/eli/oc/2021/833)) e dalla cifra I cpv. 2 dell’O dell’UFAM del 10 dic. 2025, in vigore dal 15 gen. 2026 ([RU 2025 850](https://fedlex.data.admin.ch/eli/oc/2025/850)).
 
-### 1 ...
+### 1 …
 
-### 2 ...
+### 2 …
 
 Allegato 4[^t-5]
 
