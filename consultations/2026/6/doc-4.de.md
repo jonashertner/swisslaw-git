@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnungen über die Verrechnungssteuer, über die Stempelabgaben, über die Steuerentlastung schweizerischer Dividenden aus wesentlichen Beteiligungen ausländischer Gesellschaften und zum schweizerisch-amerikanischen Doppel-besteuerungsabkommen vom 2. Oktober 1996 (Wettbewerbsfähigkeit der Schweizer Wirtschaft stärken)"
 document: Vernehmlassungsvorlage-3
 language: de

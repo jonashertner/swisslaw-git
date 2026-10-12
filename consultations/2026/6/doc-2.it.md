@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sull’imposta preventiva, dell’ordinanza concernente le tasse di bollo, dell’ordinanza concernente lo sgravio fiscale dei dividendi svizzeri da partecipazioni determinanti di società straniere e dell’ordinanza concernente la convenzione svizzero-americana di doppia imposizione (rafforzare la competitività dell’economia svizzera)"
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur l’impôt anticipé, de l’ordonnance sur les droits de timbre, de l’ordonnance sur le dégrèvement des dividendes suisses payés dans les cas de participations importantes détenues par des sociétés étrangères et de l’ordonnance concernant la convention de double imposition américano-suisse du 2 octobre 1996 (renforcer la compétitivité de l’économie suisse)"
 document: Projet mis en consultation-4
 language: fr
