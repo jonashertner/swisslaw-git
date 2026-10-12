@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur la Bibliothèque nationale suisse (dépôt légal numérique)
 document: Projet mis en consultation
 language: fr

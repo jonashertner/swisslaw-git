@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Schweizerische Nationalbibliothek (Dépôt légal numérique)
 document: Vernehmlassungsvorlage
 language: de
