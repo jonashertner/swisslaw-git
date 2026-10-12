@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Energiegesetzes: Pflicht zur Erstellung einer Grundinstallation zum Laden elektrischer Fahrzeuge (Umsetzung Motion 23.3936)"
 document: Vernehmlassungsvorlage
 language: de

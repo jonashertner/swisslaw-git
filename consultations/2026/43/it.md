@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sull’energia: obbligo di realizzare un’installazione di base per la ricarica dei veicoli elettrici (attuazione della mozione 23.3936)"
 document: Progetto posto in consultazione
 language: it

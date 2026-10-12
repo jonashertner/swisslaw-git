@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi sur l’énergie: obligation de réaliser une installation de base pour la recharge de véhicules électriques (mise en œuvre de la motion 23.3936)"
 document: Projet mis en consultation
 language: fr
