@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza del DFI concernente gli elenchi dei Paesi secondo l’ordinanza sulle derrate alimentari e gli oggetti d’uso
 document: Progetto posto in consultazione
 language: it

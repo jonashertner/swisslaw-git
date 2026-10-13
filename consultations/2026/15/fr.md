@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance du DFI relative aux listes de pays prévues par l’ordonnance sur les denrées alimentaires et les objets usuels
 document: Projet mis en consultation
 language: fr

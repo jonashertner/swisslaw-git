@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Verordnung des EDI über die Länderlisten nach der Lebensmittel- und Gebrauchsgegenständeverordnung
 document: Vernehmlassungsvorlage
 language: de
