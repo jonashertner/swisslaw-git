@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "ÉNERGIE: Révision mesures de gestion réglementée en cas de pénurie grave de gaz"
 document: Projet mis en consultation O sur les restrictions et interdictions d’utilisation du gaz transporté par conduites
 language: fr

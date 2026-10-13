@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "ENERGIE: Überarbeitung Bewirtschaftungsmassnahmen für eine schwere Gasmangellage"
 document: Vernehmlassungsvorlage V über die Kontingentierung von leitungsgebundenem Gas
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "ENERGIA: Revisione misure di gestione in caso di grave penuria di gas"
 document: Progetto posto in consultazione O concernente limitazioni e divieti di utilizzo di gas trasportato in condotta
 language: it

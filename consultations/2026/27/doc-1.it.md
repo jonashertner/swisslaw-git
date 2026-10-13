@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "ENERGIA: Revisione misure di gestione in caso di grave penuria di gas"
 document: Progetto O sulla commutazione e la disattivazione degli impianti bicombustibili a gas
 language: it
