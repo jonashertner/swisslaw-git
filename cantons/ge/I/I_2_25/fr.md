@@ -1,0 +1,370 @@
+---
+canton: GE
+number: I 2 25
+title: "Loi sur la remise à titre gratuit et la vente à l’emporter de boissons alcooliques, de produits du tabac et de produits assimilés au tabac (LTGVEAT)"
+short: LTGVEAT
+language: fr
+version: 2026-10-14
+adopted: 2020-01-17
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_i2_25.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi sur la remise à titre gratuit et la vente à l’emporter de boissons alcooliques, de produits du tabac et de produits assimilés au tabac (LTGVEAT)
+**Dernières modifications au 14 octobre 2026**
+
+du 17 janvier 2020
+
+(Entrée en vigueur : 4 juillet 2020)
+
+Le GRAND CONSEIL de la République et canton de Genève,
+
+vu la loi fédérale sur l’alcool, du 21 juin 1932;
+
+vu l’ordonnance fédérale sur l’alcool, du 15 septembre 2017;
+
+vu la loi fédérale sur les denrées alimentaires et les objets usuels, du 20 juin 2014;
+
+vu l’ordonnance fédérale sur les denrées alimentaires et les objets usuels, du 16 décembre 2016;
+
+vu la loi fédérale sur le commerce itinérant, du 23 mars 2001;
+
+vu l’ordonnance fédérale sur le commerce itinérant, du 4 septembre 2002;
+
+vu la loi fédérale sur les stupéfiants et les substances psychotropes, du 3 octobre 1951;
+
+vu la loi fédérale sur les produits du tabac et les cigarettes électroniques, du 1<sup>er</sup> octobre 2021,<sup>(5)</sup>
+
+décrète ce qui suit :
+
+## Chapitre I Dispositions générales
+
+#### Art. 1
+
+**Buts**
+
+<sup>1</sup> La présente loi a pour buts d’assurer qu’aucun établissement ou aucune installation qui lui est soumis ne soit susceptible de troubler l’ordre public, en particulier la tranquillité et la santé publiques, du fait de son propriétaire ou de son exploitant, ainsi qu’en raison de sa construction, de son aménagement et de son implantation. Elle vise également à protéger la santé des mineurs, notamment contre les risques d’addiction.<sup>(5)</sup>
+
+<sup>2</sup> Toute autorisation prévue par la présente loi ne peut être délivrée que si les buts énoncés à l’alinéa 1 sont susceptibles d’être atteints.
+
+#### Art. 2
+
+**Champ d’application**
+
+La présente loi régit la remise à titre gratuit et la vente à l’emporter de boissons alcooliques, ainsi que la remise à titre gratuit et la vente de produits du tabac et de produits assimilés au tabac.
+
+#### Art. 3
+
+**Dispositions réservées**
+
+Sont expressément réservées :
+
+- a) les dispositions de l’article 41 de la loi fédérale sur l’alcool, du 21 juin 1932, qui interdisent notamment la vente ambulante de boissons distillées, le colportage de boissons distillées, la prise et l’exécution de commandes collectives de boissons distillées, ainsi que la vente de boissons distillées au moyen de distributeurs automatiques;
+- b) les dispositions de l’article 11 de la loi fédérale sur le commerce itinérant, du 23 mars 2001, et de l’article 3 de l’ordonnance fédérale sur le commerce itinérant, du 4 septembre 2002, qui interdisent la vente itinérante de boissons alcooliques, sous réserve de la prise de commandes de boissons fermentées, ainsi que la prise de commandes et la vente de boissons fermentées dans les marchés;
+- c) la loi fédérale sur les stupéfiants et les substances psychotropes, du 3 octobre 1951.
+
+#### Art. 4
+
+**Définitions**
+
+<sup>1</sup> Dans la présente loi, on entend par :
+
+- a) *boissons alcooliques* : les boissons distillées et/ou fermentées au sens des lettres b et c;
+- b) *boissons distillées* : l’éthanol et les boissons spiritueuses au sens de l’article 1, lettres a à c, de l’ordonnance fédérale sur l’alcool, du 15 septembre 2017;
+- c) *boissons fermentées* :
+  - 1° les bières, vins, cidres, vins de fruit ou toutes autres boissons dont la teneur en alcool ne dépasse pas 15% du volume,
+  - 2° les vins naturels obtenus à partir de raisins frais ou toutes autres boissons dont la teneur en alcool ne dépasse pas 18% du volume.
+
+<sup>2</sup> Dans la présente loi, on entend par *produits du tabac* :
+
+- a) les produits du tabac, composés de parties de feuilles de plantes du genre Nicotiana (tabac) ou qui en contiennent et sont fumés, chauffés, prisés ou à usage oral;
+- b) les produits du tabac à fumer, contenant du tabac et consommés au moyen d’un processus de combustion, notamment les cigarettes, les cigares ou le tabac à rouler;
+- c) les produits du tabac à chauffer, présentant un dispositif permettant d’inhaler de la vapeur obtenue par chauffage d’un produit contenant du tabac, ainsi que les recharges pour ce dispositif;
+- d) les produits du tabac à usage oral, présentant un dispositif contenant du tabac qui, lors de sa consommation, entre en contact avec les muqueuses buccales et qui n’est ni fumé ni chauffé.
+
+<sup>3</sup> Sont considérés comme des *produits assimilés au tabac* :
+
+- a) les produits à base de végétaux qui peuvent être consommés selon un mode similaire aux produits du tabac (fumés, chauffés, prisés ou à usage oral), notamment le cannabis légal, à savoir du cannabis présentant un faible taux de tétrahydrocannabinol (THC);
+- b) les cigarettes électroniques, présentant un dispositif utilisé sans tabac et permettant d’inhaler de la vapeur obtenue par chauffage d’un liquide avec ou sans nicotine, ainsi que les flacons de recharge et les cartouches pour ce dispositif. Un sous-type à usage unique de ces cigarettes électroniques est dénommé « puffs ».<sup>(2)</sup>
+
+#### Art. 5
+
+**Autorités compétentes et traitement des données**
+
+<sup>1</sup> Le service chargé de la police du commerce (ci-après : service) est chargé de l’application de la présente loi, sauf exception prévue par celle-ci ou son règlement d’exécution. Les compétences du département chargé de la santé sont réservées.
+
+<sup>2</sup> Les données des personnes physiques et morales, nécessaires à la mise en œuvre de la présente loi, peuvent être répertoriées et traitées par les autorités compétentes dans une base de données.
+
+<sup>3</sup> Les autorités compétentes dans la mise en œuvre et celles participant à l’application de la présente loi et de ses dispositions d’exécution collaborent entre elles. Elles se transmettent mutuellement les renseignements et les documents en tant que cela est nécessaire à l’accomplissement de leurs tâches.<sup>(5)</sup>
+
+<sup>4</sup> Le Conseil d’Etat édicte les dispositions nécessaires à l’application de la présente loi par voie réglementaire.<sup>(5)</sup>
+
+#### Art. 6
+
+**Interdiction**
+
+### Boissons alcooliques
+
+<sup>1</sup> La remise à titre gratuit et la vente de boissons distillées et fermentées est formellement interdite dans les stations-service et les magasins accessoires à celles-ci.
+
+<sup>2</sup> La remise à titre gratuit et la vente de boissons distillées à des mineurs est strictement interdite (art. 41, al. 1, lettre i, de la loi fédérale sur l’alcool, du 21 juin 1932).
+
+<sup>3</sup> La remise à titre gratuit et la vente de boissons fermentées à des mineurs de moins de 16 ans est strictement interdite (art. 14, al. 1, de la loi fédérale sur les denrées alimentaires et les objets usuels, du 20 juin 2014).
+
+### Produits du tabac et produits assimilés au tabac
+
+<sup>4</sup> La remise à titre gratuit et la vente de produits du tabac et de produits assimilés au tabac aux mineurs est interdite.
+
+<sup>5</sup> Les cigarettes électroniques à usage unique, communément appelées « puffs », sont interdites à la vente et ne peuvent obtenir d’autorisation de la part du service.<sup>(a)</sup>
+
+#### Art. 6A<sup>(5)</sup>
+
+**Appareils automatiques**
+
+### Boissons alcooliques
+
+<sup>1</sup> La remise à titre gratuit et la vente de boissons distillées et fermentées au moyen d’un appareil automatique ou de tout autre moyen assimilé sont strictement interdites, sous réserve de l’alinéa 2.
+
+<sup>2</sup> Par dérogation à l’alinéa 1, les productrices et producteurs de boissons fermentées domiciliés dans le canton peuvent vendre leur propre production, au sens de l’article 4, alinéa 1, lettre c, chiffres 1 et 2, de la présente loi, issue de récoltes genevoises, au moyen d’un appareil automatique installé exclusivement sur leur domaine agricole. L’installation sur tout ou partie du domaine public est expressément interdite.
+
+<sup>3</sup> Les productrices et producteurs de boissons fermentées domiciliés dans le canton sont soumis aux obligations visées aux articles 6, alinéa 3, 12, alinéas 1 et 2, 13, alinéa 1, et 14 de la présente loi.
+
+<sup>4</sup> L’exploitation d’un tel appareil est soumise à une annonce préalable auprès du service de la consommation et des affaires vétérinaires, conformément à l’article 20 de l’ordonnance fédérale sur les denrées alimentaires et les objets usuels, du 16 décembre 2016.
+
+### Produits du tabac et produits assimilés au tabac
+
+<sup>5</sup> La remise à titre gratuit et la vente de produits du tabac ou de produits assimilés au tabac au moyen d’un appareil automatique sont strictement interdites sur le domaine public.
+
+<sup>6</sup> Les appareils automatiques installés au sein d’un établissement doivent garantir le respect des limites d’âge prescrit à l’article 6, alinéa 4, de la présente loi et permettre une surveillance et être munis de l’affichage au sens de l’article 16, alinéa 2, de la présente loi.
+
+#### Art. 7
+
+**Autorisation**
+
+### Principes
+
+<sup>1</sup> Est soumise à l’obtention préalable d’une autorisation délivrée par le service :
+
+- a) la vente à l’emporter de boissons alcooliques, sous réserve de l’alinéa 7;
+- b) la vente de produits du tabac et de produits assimilés au tabac, y compris l’exploitation d’appareils automatiques délivrant ces produits.
+
+<sup>2</sup> Une autorisation est nécessaire pour chacune des activités.
+
+<sup>3</sup> Elle doit être requise lors de chaque création ou reprise d’un commerce existant.
+
+<sup>4</sup> L’autorisation, strictement personnelle et intransmissible, ne peut être accordée qu’à une personne physique, soit pour son propre compte, soit pour le compte d’une société commerciale ou d’une personne morale qu’elle a, en fait et en droit, le pouvoir de diriger, d’engager et de représenter. L’autorisation est délivrée pour un établissement et des locaux déterminés.
+
+<sup>5</sup> Sa durée est illimitée sous réserve de l’article 9.<sup>(3)</sup>
+
+<sup>6</sup> L’autorisation réserve expressément les autorisations d’autres départements ou services de l’administration prescrites par d’autres textes législatifs ou réglementaires.
+
+### Exceptions
+
+<sup>7</sup> Les producteurs de boissons fermentées du canton peuvent vendre leur production, issue de récoltes genevoises, sans être soumis à l’obtention d’une autorisation.<sup>(1)</sup>
+
+#### Art. 8
+
+**Conditions de délivrance de l’autorisation**
+
+### Conditions personnelles
+
+<sup>1</sup> L’autorisation est délivrée à condition que le requérant :
+
+- a) soit de nationalité suisse, ou au bénéfice d’un permis d’établissement, ou visé par l’accord entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes, du 21 juin 1999, ou par l’accord amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange, du 21 juin 2001;
+- b) ait l’exercice des droits civils;
+- c) offre, par ses antécédents et son comportement, toute garantie que l’établissement soit exploité conformément aux dispositions de la présente loi et aux prescriptions en matière de police des étrangers, de sécurité sociale et de droit du travail;
+- d) dispose des locaux nécessaires.
+
+### Conditions relatives aux locaux
+
+<sup>2</sup> L’autorisation d’exploiter est délivrée à condition que les locaux :
+
+- a) ne soient pas susceptibles de troubler concrètement l’ordre public, en particulier la tranquillité publique, du fait de leur construction, de leur aménagement et de leur implantation manifestement inappropriés;
+- b) ne permettent pas à des mineurs d’accéder sans surveillance aux produits qui leur sont interdits;
+- c) fassent l’objet, le cas échéant, d’un préavis favorable du service de la consommation et des affaires vétérinaires.
+
+#### Art. 9
+
+**Caducité**
+
+<sup>1</sup> L’autorisation est caduque :
+
+- a) lorsque son titulaire y renonce, ou qu’il n’en fait pas ou plus usage pendant 12 mois consécutifs;
+- b) lorsque les conditions de son octroi ne sont plus remplies.
+
+<sup>2</sup> Le service constate, par décision, la caducité de l’autorisation.
+
+<sup>3</sup> La caducité de l’autorisation portant sur l’une des activités n’entraîne pas la caducité de l’autorisation des autres activités. Le cas échéant, elles font l’objet de décisions distinctes.
+
+#### Art. 10
+
+**Obligations générales**
+
+<sup>1</sup> Les titulaires d’une autorisation prévue par la présente loi sont tenus d’informer sans délai le service de tous les faits qui peuvent affecter les conditions de l’une ou l’autre des autorisations.
+
+<sup>2</sup> Ils sont tenus de respecter les dispositions de la présente loi et celles de la législation fédérale.
+
+<sup>3</sup> Ils doivent en particulier veiller à ce que le personnel de vente contrôle l’âge des jeunes clients. A cette fin, une pièce d’identité peut être exigée.
+
+<sup>4</sup> Ils doivent exploiter leur commerce de manière à ne pas engendrer d’inconvénients graves ni de troubles de l’ordre public tant à l’intérieur du commerce que dans ses environs immédiats.
+
+<sup>5</sup> Si l’ordre est sérieusement troublé ou menacé de l’être, que ce soit à l’intérieur du commerce ou dans ses environs immédiats, l’exploitant doit faire appel à la police.
+
+#### Art. 11<sup>(5)</sup>
+
+**Achats-tests**
+
+Le service peut effectuer ou organiser des achats-tests afin de vérifier si les prescriptions de la présente loi sont respectées. Sont réservés les achats-tests portant sur la limite d’âge.
+
+## Chapitre II Obligations spécifiques pour la remise à titre gratuit et la vente à l’emporter de boissons alcooliques
+
+#### Art. 12
+
+**Horaires et obligations y relatives**
+
+<sup>1</sup> La remise à titre gratuit et la vente de boissons alcooliques à l’emporter sont interdites de 21 h à 7 h, indépendamment des dispositions de la loi sur les heures d’ouverture des magasins, du 15 novembre 1968, et de la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015.
+
+<sup>2</sup> Durant l’interdiction visée à l’alinéa 1, les boissons alcooliques sont mises sous clé et soustraites à la vue du public. Ces mesures ne s’appliquent pas aux entreprises autorisées au sens de la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015.
+
+<sup>3</sup> L’interdiction et les mesures visées aux alinéas 1 et 2 ne sont pas applicables aux buvettes d’événements au sens de la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015.
+
+#### Art. 13
+
+**Conditions de vente**
+
+<sup>1</sup> Les boissons distillées et fermentées vendues à l’emporter ne peuvent être vendues qu’en bouteilles ou en boîtes, fermées et cachetées.
+
+<sup>2</sup> Le débit de toute boisson distillée ou fermentée à consommer sur place est strictement interdit, sous réserve d’une autorisation prévue par la loi sur la restauration, le débit de boissons, l’hébergement et le divertissement, du 19 mars 2015.
+
+#### Art. 14
+
+**Obligation d’affichage**
+
+Les points de vente sont tenus de signaler par un affichage bien visible les limites d’âge pour la vente de boissons alcooliques, conformément à l’article 42, alinéa 2, de l’ordonnance fédérale sur les denrées alimentaires et les objets usuels, du 16 décembre 2016 (soit 18 ans pour les boissons distillées et 16 ans pour les boissons fermentées).
+
+## Chapitre III Obligations spécifiques pour la remise à titre gratuit et la vente de produits du tabac et de produits assimilés au tabac
+
+#### Art. 15
+
+**Obligation d’annonce**
+
+Les exploitants de points de vente de produits finis conditionnés de cannabis légal ont l’obligation de procéder à une annonce de l’établissement auprès du service.
+
+#### Art. 16
+
+**Obligation d’affichage**
+
+<sup>1</sup> Les points de vente sont tenus de signaler par un affichage bien visible l’interdiction de remise à titre gratuit et de vente de produits du tabac et de produits assimilés au tabac aux mineurs.
+
+<sup>2</sup> L’interdiction doit également être signalée par un affichage bien visible sur les appareils ou distributeurs automatiques.
+
+## Chapitre IV Emoluments
+
+#### Art. 17
+
+**Emoluments**
+
+<sup>1</sup> L’examen des demandes d’autorisation prévues par la présente loi donne lieu à la perception d’un émolument.
+
+<sup>2</sup> Le montant de l’émolument, compris entre 20 francs et 500 francs, est fixé par le règlement d’exécution de la présente loi.
+
+<sup>3</sup> La limite maximale fixée à l’alinéa 2 est adaptée à l’évolution du coût de la vie, calculée à partir de l’entrée en vigueur de la présente loi, selon l’indice genevois des prix à la consommation.
+
+<sup>4</sup> Le service est habilité à percevoir les émoluments dès le dépôt de la requête et à différer l’examen de celle-ci en cas de non-paiement.
+
+<sup>5</sup> Les émoluments restent acquis ou dus en cas de refus de l’autorisation ou de retrait de la requête.
+
+## Chapitre V Mesures et sanctions
+
+#### Art. 18
+
+**Mesures administratives**
+
+### Défaut d’autorisation
+
+<sup>1</sup> Le service intime l’ordre de retirer immédiatement de la vente la marchandise dépourvue de l’autorisation exigée par l’article 7, alinéas 1 à 6.
+
+<sup>2</sup> A défaut d’exécution de l’injonction, le service procède à la fermeture du commerce.
+
+### Suspension et retrait de l’autorisation
+
+<sup>3</sup> En cas de violation des prescriptions de la présente loi ou de ses dispositions d’exécution, le service peut prononcer, sans préjudice de l’amende prévue à l’article 19, l’une des mesures suivantes :
+
+- a) la suspension de l’autorisation pour une durée de 7 jours à 6 mois;
+- b) le retrait de l’autorisation.
+
+<sup>4</sup> Si, dans les 3 ans qui précèdent l’acte ou l’omission, le contrevenant a déjà fait l’objet d’une mesure de suspension ou de retrait devenue exécutoire, la sanction est au moins une suspension de 30 jours. S’il a fait l’objet de plusieurs mesures de suspension ou de retrait devenues exécutoires, la sanction est au moins une suspension de 60 jours.
+
+<sup>5</sup> Si, dans les 3 ans qui précèdent une infraction à l’interdiction visée à l’article 6, alinéas 2 à 4, le contrevenant a déjà fait l’objet d’une mesure de suspension ou de retrait devenue exécutoire en raison d’une violation de la même disposition, la sanction est le retrait de l’autorisation assorti d’un délai de carence de 36 mois au plus, à compter de l’entrée en force de la décision, pendant lequel le service ne peut entrer en matière sur une nouvelle demande d’autorisation.
+
+<sup>6</sup> Pour fixer la durée de la mesure ou décider d’un retrait, outre les seuils prévus par la présente disposition, l’autorité tient compte notamment de la gravité de la faute, des antécédents et de leur gravité. Est notamment considérée comme grave la violation des prescriptions visées aux articles 6, 14 et 16.
+
+<sup>7</sup> La suspension ou le retrait de l’autorisation portant sur l’une des activités n’entraîne pas la suspension ou le retrait de l’autorisation de l’autre activité. Le cas échéant, le service prononce des décisions distinctes.
+
+### Fermeture pour cause de perturbation de l’ordre public
+
+<sup>8</sup> Si les circonstances le justifient, la police ou tout autre agent de la force publique habilité à constater les infractions à la présente loi procède à la fermeture immédiate, avec apposition de scellés, pour une durée maximale de 10 jours, de tout commerce remettant ou vendant des boissons distillées et/ou fermentées à l’emporter, ainsi que des produits du tabac ou des produits assimilés au tabac, dans lequel survient une perturbation flagrante de l’ordre public. Il fait rapport sans délai au service.
+
+<sup>9</sup> Le service ordonne la fermeture, pour une durée maximum de 6 mois, de tout commerce remettant ou vendant des boissons distillées et/ou fermentées à l’emporter, ainsi que des produits du tabac ou des produits assimilés au tabac, dont l’exploitation perturbe ou menace l’ordre public, notamment la sécurité et la tranquillité publiques, ou en cas de violation de la présente loi. A défaut d’exécution spontanée dès réception de l’ordre, le service procède à la fermeture du commerce, avec apposition de scellés.
+
+#### Art. 19
+
+**Dispositions pénales**
+
+<sup>1</sup> Indépendamment du prononcé d’une mesure administrative, les contrevenants à la présente loi ou à ses dispositions d’exécution sont passibles d’une amende pénale de 1 000 francs à 40 000 francs.
+
+<sup>2</sup> Si, dans les 3 ans qui précèdent l’acte ou l’omission, le contrevenant a déjà été condamné par une amende devenue exécutoire en raison d’une violation des prescriptions de la loi ou de ses dispositions d’exécution, l’amende est d’au moins 3 000 francs. S’il a fait l’objet de plusieurs condamnations devenues exécutoires, elle sera d’au moins 5 000 francs.
+
+<sup>3</sup> L’acte ou l’omission commis au sein d’une entreprise dans l’exercice d’activités commerciales conformes à ses buts est imputé à l’entreprise s’il ne peut être imputé à aucune personne physique déterminée en raison du manque d’organisation de l’entreprise. Dans ce cas, l’amende est d’au moins 2 000 francs et peut être portée à 80 000 francs.
+
+<sup>4</sup> Pour fixer la quotité de l’amende, outre les seuils prévus par le présent article, l’autorité tient compte notamment de la gravité de la faute, des antécédents et de leur gravité.
+
+<sup>5</sup> Le service des contraventions est chargé de poursuivre et de juger les contrevenants.
+
+<sup>6</sup> L’article 357 du code de procédure pénale suisse, du 5 octobre 2007, s’applique.
+
+## Chapitre VI Dispositions finales et transitoires
+
+#### Art. 20
+
+**Clause abrogatoire**
+
+La loi sur la vente à l’emporter des boissons alcooliques, du 22 janvier 2004, est abrogée.
+
+#### Art. 21
+
+**Entrée en vigueur**
+
+La présente loi entre en vigueur le lendemain de sa promulgation dans la Feuille d’avis officielle.
+
+#### Art. 22
+
+**Dispositions transitoires**
+
+<sup>1</sup> <sup>(3)</sup>
+
+### Autorisations pour la vente à l’emporter de produits du tabac et de produits assimilés au tabac
+
+<sup>2</sup> Les autorisations nécessaires à la vente de produits du tabac ou de produits assimilés au tabac au sens de l’article 7 de la présente loi doivent faire l’objet d’une requête déposée dans un délai d’un an à compter de l’entrée en vigueur de la présente loi.
+
+### Obligation d’annonce des points de vente de produits finis conditionnés de cannabis légal
+
+<sup>3</sup> Les exploitants de points de vente de produits finis conditionnés de cannabis légal ont l’obligation de procéder à l’annonce de l’établissement dans un délai d’un an à compter de l’entrée en vigueur de la présente loi.
+
+### Autorisations pour la remise à titre gratuit et la vente à l’emporter de boissons alcooliques, de produits du tabac et de produits assimilés au tabac
+
+<sup>4</sup> Les autorisations délivrées avant l’entrée en vigueur de la loi 13364, du 3 octobre 2025, ne nécessitent plus de renouvellement sous réserve de l’article 7, alinéas 1 à 4 et 6 à 7. Elles deviennent automatiquement illimitées.<sup>(3)</sup>
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| I 2 25 L sur la remise à titre gratuit et la vente à l’emporter de boissons alcooliques, de produits du tabac et de produits assimilés au tabac | 17.01.2020 | 04.07.2020 |
+| Modifications et commentaire : |  |  |
+| 1. *n.t.* : 7/7 | 26.03.2021 | 22.05.2021 |
+| 2. *n.* : 6/5; *n.t.* : 4/3b | 29.08.2025 | 29.08.2025 |
+| 3. *n.* : 22/4; *n.t.* : 7/5; *a.* : 22/1 | 03.10.2025 | 29.11.2025 |
+| 4. *a.* : 6/5 (Arrêts de la chambre constitutionnelle de la Cour de justice ACST/19-22/2026) | 28.04.2026 | 28.04.2026 |
+| 5. *n.* : 8°cons., (*d.* : 5/3 &gt;&gt; 5/4) 5/3, 6A; *n.t.* : 1/1; 11 | 19.06.2026 | 14.10.2026 |
+| a. Ordonnances du TF du 16 juillet 2026 admettant les requêtes d’effet suspensif (ad 6/5) 2C\_328/2026, 2C\_329/2026, 2C\_330/2026, 2C\_331/2026 | 16.07.2026 | 16.07.2026 |
