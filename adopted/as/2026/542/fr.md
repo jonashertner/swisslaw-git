@@ -1,0 +1,128 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2026 542
+title: "Ordonnance du 2 octobre 2026 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027"
+language: fr
+adopted: 2026-10-02
+published: 2026-10-15
+in_force: ["2027-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2026/542/fr"
+---
+
+> Reproduction non officielle du Recueil officiel (RO). L’acte est publié mais n’est pas encore en vigueur ; seule la publication au RO fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2027
+
+du 2 octobre 2026
+
+Le Conseil fédéral suisse,
+
+vu les art. 9<sup>bis</sup>, 10, al. 1, et 33<sup>ter</sup> de la loi fédérale du 20 décembre 1946 sur l’assurance‑vieillesse et survivants (LAVS)[^ingress-1], vu l’art. 3, al. 1, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^ingress-2], vu les art. 16*a*, al. 2, 16*f*, al. 1, et 27, al. 2, de la loi du 25 septembre 1952 sur les allocations pour perte de gain (LAPG)[^ingress-3],
+
+arrête:
+
+[^ingress-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^ingress-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^ingress-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+
+## Section 1: Assurance-vieillesse et survivants
+
+#### Art. 1
+
+**Barème dégressif des cotisations**
+
+Les limites du barème dégressif des cotisations des personnes exerçant une activité lucrative indépendante sont fixées comme suit:
+
+<table>
+<tr><th></th><th>francs</th></tr>
+<tr><td>a. la limite supérieure selon l’art. 8, al. 1, LAVS est de</td><td>61 500</td></tr>
+<tr><td>b. la limite inférieure selon l’art. 8, al. 1, LAVS est de</td><td>10 300</td></tr>
+</table>
+
+#### Art. 2
+
+**Cotisation minimale des assurés exerçant une activité lucrative indépendante et des assurés n’exerçant aucune activité lucrative**
+
+<sup>1</sup> La limite du revenu provenant d’une activité lucrative indépendante au sens de l’art. 8, al. 2, LAVS est fixée à 10 200 francs.
+
+<sup>2</sup> La cotisation minimale des personnes exerçant une activité lucrative indépendante, prévue à l’art. 8, al. 2, LAVS, et celle des assurés n’exerçant aucune activité lucrative, prévue à l’art. 10, al. 1, LAVS, sont fixées à 444 francs par an. Dans l’assurance facultative, la cotisation minimale prévue à l’art. 2, al. 4 et 5, LAVS est fixée à 888 francs par an.
+
+#### Art. 3
+
+**Rentes ordinaires**
+
+<sup>1</sup> Le montant minimum de la rente complète de vieillesse selon l’art. 34, al. 5, LAVS est fixé à 1280 francs.
+
+<sup>2</sup> Les rentes complètes et partielles en cours sont adaptées de sorte que le revenu annuel moyen déterminant qui leur servait de base est augmenté de:
+
+Les tables de rentes valables à partir du 1<sup>er</sup> janvier 2027 sont applicables.
+
+<table>
+<tr><td>1280 – 1260</td><td>= 1,587 %</td></tr>
+<tr><td>1260</td><td></td></tr>
+</table>
+
+<sup>3</sup> Les nouvelles rentes, complètes ou partielles, ne doivent pas être inférieures aux anciennes.
+
+#### Art. 4
+
+**Niveau de l’indice**
+
+Les rentes adaptées en vertu de l’art. 3, al. 2, correspondent à 232,7 points de l’indice des rentes. Aux termes de l’art. 33<sup>ter</sup>, al. 2, LAVS, l’indice des rentes équivaut à la moyenne arithmétique des deux valeurs suivantes:
+
+- a. 204,4 points pour l’évolution des prix, correspondant à un niveau de 212,8 points (septembre 1977 = 100) de l’indice suisse des prix à la consommation;
+- b. 261,0 points pour l’évolution des salaires, correspondant à un niveau de 2620 points (juin 1939 = 100) de l’indice des salaires nominaux.
+
+#### Art. 5
+
+**Autres prestations**
+
+Outre les rentes ordinaires, toutes les autres prestations de l’AVS et de l’AI dont le montant dépend de la rente ordinaire en vertu de la loi ou du règlement sont augmentées en conséquence.
+
+## Section 2 Assurance-invalidité
+
+#### Art. 6
+
+La cotisation minimale des personnes n’exerçant aucune activité lucrative assurées obligatoirement, prévue à l’art. 3, al. 1<sup>bis</sup>, LAI, est fixée à 71 francs par an; celle des personnes sans activité lucrative assurées facultativement est fixée à 142 francs par an.
+
+## Section 3 Régime des allocations pour perte de gain
+
+#### Art. 7
+
+**Montant maximum de l’allocation totale**
+
+<sup>1</sup> Le montant maximum de l’allocation totale prévu à l’art. 16*a* LAPG s’élève à 275 francs par jour.
+
+<sup>2</sup> Le montant maximum de l’allocation prévu à l’art. 16*f*, al. 1, LAPG s’élève à 220 francs par jour.
+
+#### Art. 8
+
+**Niveau de l’indice**
+
+Le montant maximum de l’allocation totale correspond à un indice de 2494 points de l’indice des salaires établi par l’Office fédéral de la statistique (juin 1939 = 100).
+
+#### Art. 9
+
+**Cotisation minimale**
+
+La cotisation minimale des assurés n’exerçant aucune activité lucrative, prévue à l’art. 27, al. 2, LAPG, s’élève à 26 francs par an.
+
+## Section 4 Dispositions finales
+
+#### Art. 10
+
+**Abrogation d’un autre acte**
+
+L’ordonnance du 28 août 2024 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG à partir de 2025[^10-1] est abrogée.
+
+[^10-1]: [RO 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)
+
+#### Art. 11
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2027.
+
+<table>
+<tr><td>2 octobre 2026</td><td>Au nom du Conseil fédéral suisse: Le président de la Confédération, Guy Parmelin Le chancelier de la Confédération, Viktor Rossi</td></tr>
+</table>
