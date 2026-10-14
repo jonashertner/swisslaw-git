@@ -4,11 +4,11 @@ title: "Verordnung vom 30. April 2025 über die Bundesstatistik (Bundesstatistik
 short: BStatV
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/318"
 language: de
-version: 2025-06-01
+version: 2026-10-15
 adopted: 2025-04-30
 in_force: 2025-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/318/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2025-318-20250601-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/318/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/318/20261015/de/xml/fedlex-data-admin-ch-eli-cc-2025-318-20261015-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/318/20261015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/318/20250601/de"
 
 (Bundesstatistikverordnung, BStatV)
 
-vom 30. April 2025 (Stand am 1. Juni 2025)
+vom 30. April 2025 (Stand am 15. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -466,26 +466,19 @@ Die zuständigen Organe können die Personendaten und die Daten juristischer Per
   Die Empfängerin oder der Empfänger verpflichtet sich in einem Datenschutzvertrag:
 
   - 1\. die bekanntgegebenen Daten nicht ohne Zustimmung des zuständigen Organs an Dritte weiterzuleiten; und
+  - 2\. die Daten nach Beendigung der Arbeit zu vernichten oder, in begründeten Fällen, dem BFS oder dem zuständigen Organ zur Aufbewahrung zu geben.
 
-- 2. die Daten nach Beendigung der Arbeit zu vernichten oder, in begründeten Fällen, dem BFS oder dem zuständigen Organ zur Aufbewahrung zu geben.
 - c. Es werden die nötigen Massnahmen zur Gewährleistung der Datensicherheit ergriffen.
 
 <sup>2</sup> Die zuständigen Organe dürfen personenbezogene Verwaltungsdaten, die einer spezialrechtlichen Geheimhaltungspflicht unterliegen und die sie gestützt auf Artikel 7 Absatz 2 oder Artikel 10 Absatz 5 BStatG erhalten haben, nur in vollständig anonymisierter Form weitergeben
 
-<sup>3</sup>
-
-Für die Bekanntgabe von Einzeldaten im Rahmen des Abkommens vom 26. Oktober 2004[^37-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik sind anwendbar:
-
-- a. die Bestimmungen der Verordnung (EG) Nr. 223/2009[^37-2];
-- b. die Bestimmungen der Verordnung (EG) Nr. 557/2013[^37-3].
+<sup>3</sup> …[^37-1]
 
 <sup>4</sup> Die zuständigen Organe dürfen Personendaten und Daten juristischer Personen an die Partner im System der Bundesstatistik (Art. 14 Abs. 3) weitergeben, wenn diese die Daten für statistische Arbeiten, namentlich für die Plausibilisierung von Daten und für Datenverknüpfungen im Sinne von Artikel 30, benötigen. Die Einzelheiten werden in einem Vertrag festgelegt.
 
 <sup>5</sup> Nicht personenbezogene Daten dürfen ohne Vertrag weitergegeben werden.
 
-[^37-1]: [SR 0.431.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1789)
-[^37-2]: Verordnung (EG) Nr. 223/2009 des Europäischen Parlaments und des Rates vom 11. März 2009 über Europäische Statistiken und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1101/2008 des Europäischen Parlaments und des Rates über die Übermittlung von unter die Geheimhaltungspflicht fallenden Informationen an das Statistische Amt der Europäischen Gemeinschaften, der Verordnung (EG) Nr. 322/97 des Rates über die Gemeinschaftsstatistiken und des Beschlusses 89/382/EWG, Euratom des Rates zur Einsetzung eines Ausschusses für das Statistische Programm der Europäischen Gemeinschaften, ABl. L 87 vom 31.3.2009, S. 164; geändert durch Verordnung (EU) 2015/759, Fassung gemäss ABl. L 123 vom 19.5.2015, S. 90.
-[^37-3]: Verordnung (EU) Nr. 557/2013 der Kommission vom 17. Juni 2013 zur Durchführung der Verordnung (EG) Nr. 223/2009 des Europäischen Parlaments und des Rates über europäische Statistiken in Bezug auf den Zugang zu vertraulichen Daten für wissenschaftliche Zwecke und zur Aufhebung der Verordnung (EG) Nr. 831/2002 der Kommission, Fassung gemäss ABl. L 164 vom 18.6.2013, S. 16.
+[^37-1]: Aufgehoben durch Ziff. I der V vom 2. Sept. 2026, mit Wirkung seit 15. Okt. 2026 ([AS 2026 472](https://fedlex.data.admin.ch/eli/oc/2026/472)).
 
 #### Art. 38
 
@@ -667,13 +660,15 @@ Die Änderung anderer Erlasse wird in Anhang 3 geregelt.
 
 Diese Verordnung tritt am 1. Juni 2025 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 1, 4 Abs. 2 und 18 Abs. 2)
 
 ## Liste der Datenbeschaffungen nach Thema
 
-### 00. Register und weitere Grundlagen der statistischen Produktion
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 15. Okt. 2026 ([AS 2026 492](https://fedlex.data.admin.ch/eli/oc/2026/492)).
+
+### 00. Grundlagen des Statistiksystems
 
 ### 00.01. Befragung zur Aktualisierung des Betriebs- und Unternehmensregisters
 
@@ -836,7 +831,7 @@ Anhang 1
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
 <tr><td>Gegenstand:</td><td>Soziodemografische und ökonomische Merkmale, wechselnde Themenbereiche bei jeder Befragung</td></tr>
-<tr><td>Art und Methode:</td><td>Befragung einer Stichprobe von Personen in Privathaushalten, Erhebung von Administrativdaten und von Registern: STATPOP, BUR, GWS, NRS, Register der Sozialversicherungen (ZAS, AHV-Ausgleichskassen und SECO) und SHS</td></tr>
+<tr><td>Art und Methode:</td><td>Befragung einer Stichprobe von 3000 bis 10 000 Personen in Privathaushalten, Erhebung von Administrativdaten und von Registern: STATPOP, BUR, GWS, NRS, Register der Sozialversicherungen (ZAS, AHV-Ausgleichskassen und SECO) und SHS</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Nach Bedarf</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Befragungsinstitute</td></tr>
@@ -848,7 +843,7 @@ Anhang 1
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
 <tr><td>Gegenstand:</td><td>Rassismus, Fremdenfeindlichkeit, Feindschaft gegenüber muslimischen Personen, Feindschaft gegenüber Personen schwarzer Hautfarbe, Feindschaft gegenüber jüdischen Personen, Diskriminierungserfahrung, soziodemografische und sozioökonomische Variablen</td></tr>
-<tr><td>Art und Methode:</td><td>Befragung einer repräsentativen Stichprobe von 3000 Personen zwischen 15 und 88 Jahren in Privathaushalten</td></tr>
+<tr><td>Art und Methode:</td><td>Befragung einer repräsentativen Stichprobe von 3000 bis 10 000 Personen zwischen 15 und 88 Jahren in Privathaushalten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Alle zwei Jahre</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Befragungsinstitute</td></tr>
@@ -860,7 +855,7 @@ Anhang 1
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
 <tr><td>Gegenstand:</td><td>Merkmale nach Artikel 6 RHG und des Erhebungsprogramms nach Artikel 9 der Volkszählungsverordnung sowie ausgewählte Angaben aus Personenregistern über den Bestand und die Bewegungen (Geburten, Todesfälle, Zivilstandswechsel, Wanderungsbewegungen, Erwerb des Schweizer Bürgerrechts, Wechsel des Aufenthaltsstatus usw.) der ständigen schweizerischen und ausländischen Wohnbevölkerung, der nichtständigen ausländischen Wohnbevölkerung und der Wohnbevölkerung am Nebenwohnsitz; Gebäude- und Wohnungsdaten (einschliesslich geographischer Koordinaten) sowie Angaben zur Erwerbstätigkeit und zum Einkommen</td></tr>
-<tr><td>Art und Methode:</td><td>Vollerhebung von Administrativdaten: kantonale und kommunale Einwohnerregister, Infostar, ZEMIS, Informationssystem Ordipro, Register der Sozialversicherungen (ZAS und SECO), BUR, GWR; GWS, BEVNAT, SE</td></tr>
+<tr><td>Art und Methode:</td><td>Vollerhebung von Administrativdaten: kantonale und kommunale Einwohnerregister, Infostar, ZEMIS, Informationssystem Ordipro, Register der Sozialversicherungen (ZAS und SECO), BUR, GWR; GWS, BEVNAT, SE, LABB, Erhebung für die Statistik der Sozialhilfeempfängerinnen und Sozialhilfeempfänger, Befragung: Lohnstrukturerhebung, eidgenössische Volkszählungen 1990 und 2000</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Vierteljährlich</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
@@ -879,7 +874,7 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>Volkszählungsgesetz und Volkszählungsverordnung</td></tr>
 </table>
 
-### 01.12. Befragung zu den privaten und öffentlichen Arbeitsvermittlungen und zum Personalverleih
+### 01.12. Befragung zu den privaten Arbeitsvermittlungen und zum Personalverleih
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Staatssekretariat für Wirtschaft</th></tr>
@@ -893,57 +888,23 @@ Anhang 1
 
 [^annex1-lvlu1-lvl01-lvl0112-1]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
-### 01.13. Erhebung für die Statistik über die Arbeitslosenversicherung und die Insolvenzentschädigung
+### 01.13. Befragung für die Statistik der Arbeitslosigkeit und der Leistungen der Arbeitslosenversicherung
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Staatssekretariat für Wirtschaft</th></tr>
-<tr><td>Gegenstand:</td><td>Finanzen und Höhe der Leistungen der Arbeitslosenversicherung: Beiträge, Leistungen, Darlehen, Garantiefonds, Verwaltungsausgaben; Merkmale der Leistungsbezügerinnen und -bezüger</td></tr>
-<tr><td>Art und Methode:</td><td>Erhebung von Administrativdaten der Arbeitslosenkassen</td></tr>
-<tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
+<tr><td>Gegenstand:</td><td>Arbeitslose und Stellensuchende, die bei den regionalen Arbeitsvermittlungszentren registriert sind, unter Berücksichtigung verschiedener soziodemografischer Kriterien; Bezügerinnen und Bezüger (natürliche und juristische Personen) von Leistungen der Arbeitslosenversicherung nach verschiedenen soziodemografischen und sozioökonomischen Kriterien; bei den regionalen Arbeitsvermittlungszentren gemeldete offene Stellen nach verschiedenen wirtschaftlichen Kriterien</td></tr>
+<tr><td>Art und Methode:</td><td>Vollbefragung aller bei den regionalen Arbeitsvermittlungsstellen gemeldeten Personen, Vollerhebung von Administrativdaten und Registern: Informationssysteme für die Arbeitslosenversicherung und die Arbeitsmarktanalyse (ALV-IsV), SE, Befragung für die Beschäftigungsstatistik, STATENT, GWR, BUR, amtliches Gemeindeverzeichnis der Schweiz</td></tr>
+<tr><td>Auskunftspflicht:</td><td>Obligatorisch für Anspruchsberechtigte der Arbeitslosenversicherung; freiwillig für andere Stellensuchende Obligatorisch für Stellenanzeigen, die meldepflichtige Berufe betreffen; freiwillig für andere Berufe</td></tr>
 <tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Monatlich</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
-<tr><td>Weitere Informationen:</td><td>ALV-Informationssystemeverordnung vom 26. Mai 2021[^annex1-lvlu1-lvl01-lvl0113-1]</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>Regionale Arbeitsvermittlungszentren, Arbeitslosenkassen</td></tr>
+<tr><td>Weitere Informationen:</td><td>Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^annex1-lvlu1-lvl01-lvl0113-1] Arbeitsvermittlungsgesetz vom 6. Oktober 1989[^annex1-lvlu1-lvl01-lvl0113-2] ALV-Informationssystemverordnung vom 26. Mai 2021[^annex1-lvlu1-lvl01-lvl0113-3]</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl01-lvl0113-1]: [SR 837.063.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10298)
+[^annex1-lvlu1-lvl01-lvl0113-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^annex1-lvlu1-lvl01-lvl0113-2]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^annex1-lvlu1-lvl01-lvl0113-3]: [SR 837.063.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10298)
 
-### 01.14. Erhebung der offenen Stellen
-
-<table>
-<tr><th>Zuständiges Organ:</th><th>Staatssekretariat für Wirtschaft</th></tr>
-<tr><td>Gegenstand:</td><td>Bei den Arbeitsämtern gemeldete offene Stellen</td></tr>
-<tr><td>Art und Methode:</td><td>Teilerhebung von Administrativdaten des Informationssystems PLASTA</td></tr>
-<tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Monatlich</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Kantonale und kommunale Arbeitsämter</td></tr>
-<tr><td>Weitere Informationen:</td><td>ALV-Informationssystemeverordnung</td></tr>
-</table>
-
-### 01.15. Erhebung der registrierten arbeitslosen und der nicht arbeitslosen Stellensuchenden
-
-<table>
-<tr><th>Zuständiges Organ:</th><th>Staatssekretariat für Wirtschaft</th></tr>
-<tr><td>Gegenstand:</td><td>Stellensuchende nach sozioökonomischen Merkmalen</td></tr>
-<tr><td>Art und Methode:</td><td>Vollerhebung von Administrativdaten des Informationssystems PLASTA</td></tr>
-<tr><td>Auskunftspflicht:</td><td>Obligatorisch für Arbeitslose, die Anspruch auf eine Arbeitslosenentschädigung haben</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Monatlich</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Kantonale und kommunale Arbeitsämter</td></tr>
-<tr><td>Weitere Informationen:</td><td>ALV-Informationssystemeverordnung</td></tr>
-</table>
-
-### 01.16. Erhebung der arbeitsmarktlichen Massnahmen (AM)
-
-<table>
-<tr><th>Zuständiges Organ:</th><th>Staatssekretariat für Wirtschaft</th></tr>
-<tr><td>Gegenstand:</td><td>Arbeitsmarktliche Massnahmen</td></tr>
-<tr><td>Art und Methode:</td><td>Vollerhebung von Administrativdaten des Informationssystems PLASTA</td></tr>
-<tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Jährlich; Januar</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Kantone</td></tr>
-<tr><td>Weitere Informationen:</td><td>Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^annex1-lvlu1-lvl01-lvl0116-1]</td></tr>
-</table>
-
-[^annex1-lvlu1-lvl01-lvl0116-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+### 01.14. 0 −01.16 ...
 
 ### 01.17. Erhebung zur Tätigkeit der paritätischen Schlichtungsbehörden
 
@@ -1201,17 +1162,7 @@ Anhang 1
 
 ### 04. Gesellschaft
 
-### 04.01. Befragung für die Schweizerische Bibliothekenstatistik
-
-<table>
-<tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
-<tr><td>Gegenstand:</td><td>Informationen über die Struktur, die Funktionsweise und die Entwicklung der Bibliotheken</td></tr>
-<tr><td>Art und Methode:</td><td>Vollbefragung aller öffentlich zugänglicher Bibliotheken</td></tr>
-<tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Jährlich; im Frühling</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Kantone</td></tr>
-<tr><td>Weitere Informationen:</td><td>–</td></tr>
-</table>
+### 04.01. ...
 
 ### 04.02. Befragung für die Film- und Kinostatistik
 
@@ -1600,6 +1551,20 @@ Anhang 1
 
 [^annex1-lvlu1-lvl05-lvl0512-1]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
+### 05.13. Befragung für die Statistik der Suchtberatung und Suchtbehandlung in der Schweiz (act-info)
+
+<table>
+<tr><th>Zuständiges Organ:</th><th>Bundesamt für Gesundheit</th></tr>
+<tr><td>Gegenstand:</td><td>Eintritts- und Austrittsmeldungen; Bestand an Personen in Suchthilfeinstitutionen; soziodemografische Angaben der Patientinnen und Patienten; Risikoverhalten; konsumierte Substanzen und damit verbundene Probleme; soziale Integration</td></tr>
+<tr><td>Art und Methode:</td><td>Befragung bei Patientinnen und Patienten; Erhebung von Administrativdaten bei den zuständigen kantonalen Behörden und Suchthilfeinstitutionen für Personen mit problematischem Konsum und anderen Abhängigkeiten</td></tr>
+<tr><td>Auskunftspflicht:</td><td>Obligatorisch für die Erhebungen im Bereich der Substitutionsbehandlung (Opioid-Agonisten-Therapie und Heroingestützte Behandlung) Freiwillig für die Befragungen und Erhebungen im Rahmen der Suchtbehandlung</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Laufend</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>Sucht Schweiz</td></tr>
+<tr><td>Besondere Bestimmungen:</td><td>Betäubungsmittelgesetz vom 3. Oktober 1951[^annex1-lvlu1-lvl05-lvl0513-1]</td></tr>
+</table>
+
+[^annex1-lvlu1-lvl05-lvl0513-1]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+
 ### 06. Mobilität und Verkehr
 
 ### 06.01. Erhebung der Inverkehrsetzung neuer Fahrzeuge und des Strassenfahrzeugbestands:
@@ -1774,7 +1739,7 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
 
-### 07. Raum, Umwelt, nachhaltige Entwicklung und Legislaturindikatoren
+### 07. Raum, Umwelt, Nachhaltige Entwicklung
 
 ### 07.01. Befragung zu den Umweltschutzausgaben
 
@@ -1783,7 +1748,7 @@ Anhang 1
 <tr><td>Gegenstand:</td><td>Laufende Ausgaben, Investitionen, Beschäftigte</td></tr>
 <tr><td>Art und Methode:</td><td>Vollbefragung grosser Unternehmen und repräsentative Stichprobe bei KMU</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Alle zwei Jahre</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Alle vier Jahre</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
@@ -1812,12 +1777,12 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>Die Ergebnisse dieser Erhebung werden mit der Zustimmung der Befragten publiziert.</td></tr>
 </table>
 
-### 07.04. Erhebung für die Abfallstatistik
+### 07.04. Erhebung für die Siedlungsabfallstatistik
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Umwelt</th></tr>
 <tr><td>Gegenstand:</td><td>Siedlungsabfälle und ihre Behandlung</td></tr>
-<tr><td>Art und Methode:</td><td>Vollerhebung bei den kantonalen Umweltschutzfachstellen und den Branchenverbänden der Verbrennungsanlagen und Deponien</td></tr>
+<tr><td>Art und Methode:</td><td>Vollerhebung bei den kantonalen Umweltschutzfachstellen, den Branchenverbänden sowie den Kehrichtverbrennungsanlagen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
 <tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Jährlich</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
@@ -1840,30 +1805,34 @@ Anhang 1
 
 [^annex1-lvlu1-lvl07-lvl0705-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
-### 07.06. Befragung zu den HFKW, PFKW und SF6 für das Treibhausgasinventar
+### 07.06. Befragung zu den HFKW, PFKW, SF<sub>6</sub> und NF<sub>3</sub> für das Treibhausgasinventar
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Umwelt</th></tr>
-<tr><td>Gegenstand:</td><td>Emissionen von teilhalogenierten Fluorkohlenwasserstoffen (HFKW), perfluorierten Kohlenwasserstoffen (PFKW) und Schwefelhexafluorid (SF<sub>6</sub>).</td></tr>
-<tr><td>Art und Methode:</td><td>Vollerhebung bei Fachverbänden für die HFKW, die PFKW und die SF<sub>6</sub>; Befragung der Importeure, Erhebung bei der Vollzugsstelle nach Artikel 64 des Energiegesetzes</td></tr>
+<tr><td>Gegenstand:</td><td>Importe und Exporte, Anwendungszweck, Aufbereitung, Nachfüllung und Entsorgung, Füllmengen, Leckageraten von teilhalogenierten Fluorkohlenwasserstoffen (HFKW), perfluorierten Kohlenwasserstoffen (PFKW), Schwefelhexafluorid (SF<sub>6</sub>) und Stickstofftrifluorid (NF<sub>3</sub>)</td></tr>
+<tr><td>Art und Methode:</td><td>Vollbefragung der Importeure und Exporteure von HFKW, PFKW, SF<sub>6</sub> und NF<sub>3</sub>; Befragung der Fachverbände, Anlagenhersteller und -betreiber und Serviceunternehmen; Erhebung von Administrativdaten zu in der Luft stabilen Stoffen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Jährlich</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Vollbefragung und Erhebung Administrativdaten jährlich, Befragung und Teilerhebungen periodisch (alle zwei bis fünf Jahre)</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>Private Auftragnehmer</td></tr>
-<tr><td>Weitere Informationen:</td><td>Richtlinien des Zwischenstaatlichen Ausschusses für Klimaänderungen und des Rahmenübereinkommens der Vereinten Nationen vom 9. Mai 1992[^annex1-lvlu1-lvl07-lvl0706-1] über Klimaänderungen</td></tr>
+<tr><td>Weitere Informationen:</td><td>Anhang 1.5 Ziffer 7 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^annex1-lvlu1-lvl07-lvl0706-1], Richtlinien für die Erstellung der Treibhausgasinventare des Zwischenstaatlichen Ausschusses für Klimaänderungen ([*2006 IPCC Guidelines for National Greenhouse Gas Inventories*](https://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)[^annex1-lvlu1-lvl07-lvl0706-2] und [*2019 Refinement to the 2006 IPCC Guidelines*](https://www.ipcc-nggip.iges.or.jp/public/2019rf/index.html)[^annex1-lvlu1-lvl07-lvl0706-3]), des Rahmenübereinkommens der Vereinten Nationen vom 9. Mai 1992[^annex1-lvlu1-lvl07-lvl0706-4] über Klimaänderungen und des Klimaübereinkommens vom 12. Dezember 2015[^annex1-lvlu1-lvl07-lvl0706-5]</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl07-lvl0706-1]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex1-lvlu1-lvl07-lvl0706-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^annex1-lvlu1-lvl07-lvl0706-2]: Die Richtlinien können abgerufen werden unter: www.ipcc-nggip.iges.or.jp &gt; Publications &gt; 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+[^annex1-lvlu1-lvl07-lvl0706-3]: Die Weiterentwicklung des Jahres 2019 der Richtlinien kann abgerufen werden unter: www.ipcc-nggip.iges.or.jp &gt; Publications &gt; 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+[^annex1-lvlu1-lvl07-lvl0706-4]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex1-lvlu1-lvl07-lvl0706-5]: [SR 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 ### 07.07. Befragung zu den landwirtschaftlichen Betriebsparametern zur Berechnung der Ammoniak-Emissionen
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Umwelt</th></tr>
 <tr><td>Gegenstand:</td><td>Ausgestaltung und Nutzung von Stall-Systemen für verschiedene Tierkategorien; Fütterung der Nutztiere; Weidedauer; Art der Lagerung; Aufbereitung und Ausbringung der flüssigen und festen Hofdünger; eingesetzte Mineraldüngermengen</td></tr>
-<tr><td>Art und Methode:</td><td>Befragung einer repräsentativen Stichprobe von Landwirtschaftsbetrieben, die vom BFS auf der Grundlage der SE gezogen wird; Erhebung bei den Kantonen und bei der Vollzugsstelle nach Artikel 64 des Energiegesetzes</td></tr>
+<tr><td>Art und Methode:</td><td>Befragung einer repräsentativen Stichprobe von Landwirtschaftsbetrieben, die vom BFS auf der Grundlage der landwirtschaftlichen Strukturerhebung gezogen wird;</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>In der Regel alle fünf Jahre; für die Zwischenjahre wird interpoliert und auf die landwirtschaftliche Betriebszählung (Grund- und Zusatzbefragung) abgestellt</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>BFS, Berner Fachhochschule: Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften; Vollzugsstelle nach Artikel 64 des Energiegesetztes</td></tr>
-<tr><td>Weitere Informationen:</td><td>Der Bund ist nach Artikel 44 des Umweltschutzgesetzes vom 7. Oktober 1983[^annex1-lvlu1-lvl07-lvl0707-1] verpflichtet, Erhebungen über die Umweltbelastung durchzuführen. Nach Artikel 12 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^annex1-lvlu1-lvl07-lvl0707-2] besteht für Anlagebetreiber, die Luftverunreinigungen verursachen eine Auskunftspflicht. Die Schweiz ist nach Artikel 7 des Göteborg-Protokolls vom 30. November 1999[^annex1-lvlu1-lvl07-lvl0707-3] verpflichtet, über die Emissionen Bericht zu erstatten.</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>In der Regel alle fünf Jahre; für die Zwischenjahre wird interpoliert und auf die landwirtschaftliche Strukturerhebung abgestellt</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>BFS, Berner Fachhochschule: Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften</td></tr>
+<tr><td>Weitere Informationen:</td><td>Artikel 44 des Umweltschutzgesetzes vom 7. Oktober 1983[^annex1-lvlu1-lvl07-lvl0707-1], Artikel 12 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^annex1-lvlu1-lvl07-lvl0707-2], Artikel 7 des Göteborg-Protokolls vom 30. November 1999[^annex1-lvlu1-lvl07-lvl0707-3]</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl07-lvl0707-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
@@ -1901,11 +1870,11 @@ Anhang 1
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
 <tr><td>Gegenstand:</td><td>Bestimmung der Bodennutzung und der Bodenbedeckung nach 46 Nutzungs- und 27 Bedeckungskategorien für das Gebiet der ganzen Schweiz</td></tr>
-<tr><td>Art und Methode:</td><td>Erhebung von Stichprobenpunkten im Abstand von je 100 m; computergestützte Interpretation von 4,1 Millionen Punkten auf der Grundlage von digitalen Luftaufnahmen und Bildstreifen; weitere Geobasisdaten, die gemäss dem eidgenössischen oder dem kantonalen Recht frei verfügbar sind, sowie als offene Daten verfügbare Satelliten- und Geodaten Dritter zur Verwendung als Hilfsdaten</td></tr>
+<tr><td>Art und Methode:</td><td>Erhebung von Stichprobenpunkten im Abstand von je 100 m; computergestützte Interpretation von 4,1 Millionen Punkten auf der Grundlage von digitalen Luftaufnahmen und Bildstreifen des Bundesamts für Landestopografie; weitere Geobasisdaten aus dem BUR und GWR als Hilfsdaten</td></tr>
 <tr><td>Auskunftspflicht:</td><td>–</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Alle sechs Jahre</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Alle neun Jahre</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
-<tr><td>Weitere Informationen:</td><td>Geoinformationsgesetz vom 5. Oktober 2007[^annex1-lvlu1-lvl07-lvl0710-1]) und Geoinformationsverordnung vom 21. Mai 2008[^annex1-lvlu1-lvl07-lvl0710-2]</td></tr>
+<tr><td>Weitere Informationen:</td><td>Geoinformationsgesetz vom 5. Oktober 2007[^annex1-lvlu1-lvl07-lvl0710-1] und Geoinformationsverordnung vom 21. Mai 2008[^annex1-lvlu1-lvl07-lvl0710-2]</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl07-lvl0710-1]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
@@ -1937,7 +1906,7 @@ Anhang 1
 
 ### 08. Soziales
 
-### 08.01. Haushaltsbudgetbefragung
+### 08.01. Befragung: Haushaltsbudgeterhebung (HABE)
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
@@ -1949,7 +1918,7 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
 
-### 08.02. Erhebung über die Einkommen und die Lebensbedingungen (SILC)
+### 08.02. Befragung zum Einkommen und den Lebensbedingungen (SILC)
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
@@ -2047,14 +2016,14 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
 
-### 09.04. Befragung: Lohnstrukturerhebung
+### 09.04. Befragung: Lohnstrukturerhebung (LSE)
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
 <tr><td>Gegenstand:</td><td>Löhne, Arbeitszeit, personen- und arbeitsplatzbezogene Merkmale</td></tr>
-<tr><td>Art und Methode:</td><td>Befragung einer repräsentativen Stichprobe von öffentlichen Verwaltungen, Privatunternehmen, Betrieben des öffentlichen Rechts und anderen öffentlich-rechtlichen Körperschaften; Erhebung von Administrativdaten: ZEMIS, STATPOP</td></tr>
+<tr><td>Art und Methode:</td><td>Befragung einer repräsentativen Stichprobe von öffentlichen Verwaltungen, Privatunternehmen, Betrieben des öffentlichen Rechts und anderen öffentlich-rechtlichen Körperschaften; Erhebung von Administrativdaten: ZEMIS, STATPOP, Erhebung der Statistik der Auslandschweizerinnen und Auslandschweizer, Erhebung der Bildungsabschlüsse</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Alle zwei Jahre; Januar bis September</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Alle zwei Jahre</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
@@ -2170,16 +2139,16 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
 
-### 09.14. Befragung für die landwirtschaftliche Betriebszählung
+### 09.14. Landwirtschaftliche Strukturerhebung
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
-<tr><td>Gegenstand:</td><td>Betriebsfläche, Tierbestand, Beschäftigte und weitere Daten zur Ausbildung, ausserbetriebliche Tätigkeiten, Betriebsverhältnisse, innerbetriebliche Diversifikation, Mechanisierung, Ausrüstung, Bewässerung und Bodenbearbeitung</td></tr>
-<tr><td>Art und Methode:</td><td>Die landwirtschaftliche Betriebszählung setzt sich zusammen aus: a. Strukturerhebung: via das Agrarinformationssystem des Bundesamtes für Landwirtschaft, Daten der Landwirtschaftsbetriebe, die von der Umsetzung von agrarpolitischen Massnahmen und Massnahmen zur Bekämpfung von Tierseuchen- betroffen sind; via Daten der Tierverkehrsdatenbank (TVD) von Identitas, Daten der Rindvieh-, Wasserbüffel-, Bisons-, Equiden-, Schaf- und Ziegenbestände; b. Ergänzungsbefragung: bei allen Landwirtschaftsbetrieben, die nicht von der Umsetzung von agrarpolitischen Massnahmen und Massnahmen zur Bekämpfung von Tierseuchen betroffen sind; c. Zusatzbefragung: bei einer Stichprobe zur Erhebung der aus den Buchstaben a und b nicht verfügbaren Merkmalen.</td></tr>
+<tr><td>Gegenstand:</td><td>Anzahl Landwirtschaftsbetriebe, landwirtschaftliche Nutzfläche, Tierbestand, Beschäftigte</td></tr>
+<tr><td>Art und Methode:</td><td>Erhebung von Administrativdaten aus dem Informationssystem für Betriebs-, Struktur- und Beitragsdaten (AGIS) des Bundesamts für Landwirtschaft; die Landwirtschaftsbetriebe werden vom BFS definiert</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Strukturerhebung: Die Kantone liefern die Daten bis spätestens am 31. Dezember jedes Kalenderjahrs. Ergänzungsbefragung: alle drei Jahre (2022, 2025, 2028, 2031); im Frühling Zusatzbefragung alle drei bis vier Jahre (2020, 2023, 2026, 2030); im Herbst</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>Kantone</td></tr>
-<tr><td>Weitere Informationen:</td><td>Die Landwirtschaftsbetriebe werden vom BFS definiert. Strukturerhebung: Die Daten werden gestützt auf die Verordnung vom 23. Oktober 2013[^annex1-lvlu1-lvl09-lvl0914-1] über Informationssysteme im Bereich der Landwirtschaft im Rahmen der Umsetzung der agrarpolitischen Massnahmen und der Massnahmen zur Bekämpfung von Tierseuchen durch die Kantone erhoben. Ergänzungsbefragung und Zusatzbefragung: Die Daten werden direkt durch das BFS erhoben.</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Jährlich, Dezember provisorische Daten, Januar definitive Daten.</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
+<tr><td>Weitere Informationen:</td><td>Verordnung vom 23. Oktober 2013[^annex1-lvlu1-lvl09-lvl0914-1] über Informationssysteme im Bereich der Landwirtschaft</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl09-lvl0914-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
@@ -2252,7 +2221,7 @@ Anhang 1
 <tr><td>Art und Methode:</td><td>Vollbefragung der Papier-, der Zellstoff-, der Spanplatten- und der Faserplattenfabriken</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Freiwillig</td></tr>
 <tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Jährlich; Februar bis März</td></tr>
-<tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
+<tr><td>Mitwirkende bei der Durchführung:</td><td>BFS</td></tr>
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
 
@@ -2280,7 +2249,7 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
 
-### 09.23. Befragung für die schweizerische Forststatistik (Testbetriebsnetz)
+### 09.23. Befragung für das forstwirtschaftliche Testbetriebsnetz der Schweiz (TBN)
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Umwelt</th></tr>
@@ -2299,7 +2268,7 @@ Anhang 1
 <tr><td>Gegenstand:</td><td>Kosten und Merkmale der geplanten, der im Bau befindlichen sowie der abgeschlossenen Bauten; Ausgaben für öffentliche Unterhaltsarbeiten; Anzahl und Merkmale der Gebäude und der Wohnungen</td></tr>
 <tr><td>Art und Methode:</td><td>Vollerhebung im Rahmen der Aktualisierung des GWR, Befragung von Bauherrinnen und Bauherren, Architektinnen und Architekten, Amtsstellen sowie Unternehmen</td></tr>
 <tr><td>Auskunftspflicht:</td><td>Obligatorisch</td></tr>
-<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Vierteljährlich oder jährlich</td></tr>
+<tr><td>Periodizität und Zeitpunkt der Durchführung:</td><td>Jährlich</td></tr>
 <tr><td>Mitwirkende bei der Durchführung:</td><td>–</td></tr>
 <tr><td>Weitere Informationen:</td><td>Verordnung vom 9. Juni 2017[^annex1-lvlu1-lvl09-lvl0924-1] über das eidgenössische Gebäude- und Wohnungsregister</td></tr>
 </table>
@@ -2318,7 +2287,7 @@ Anhang 1
 <tr><td>Weitere Informationen:</td><td>–</td></tr>
 </table>
 
-### 09.26. Befragung für die konjunkturelle Umsatzstatistik
+### 09.26. Befragung für die Konjunkturerhebung Umsatz
 
 <table>
 <tr><th>Zuständiges Organ:</th><th>Bundesamt für Statistik</th></tr>
@@ -2627,28 +2596,34 @@ Anhang 1
 
 [^annex1-lvlu1-lvl09-lvl0949-1]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 3 Abs. 1)
 
 ## Liste der dem BStatG teilweise unterstellten Körperschaften, Anstalten und übrigen juristischen Personen:
 
+[^t-2]: Bereinigt gemäss Ziff. I der V vom 9. Sept. 2026, in Kraft seit 15. Okt. 2026 ([AS 2026 492](https://fedlex.data.admin.ch/eli/oc/2026/492)).
+
 Als Körperschaften, Anstalten und übrige juristische Personen, die teilweise dem BStatG unterstellt sind, gelten:
 
-- 1 der Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) bestehend aus:
-- 1\.1 dem ETH-Rat, einschliesslich seines Stabs,
-- 1\.2 der Eidgenössischen Technischen Hochschule Zürich, einschliesslich der Konjunkturforschungsstelle
-- 1\.3 der Eidgenössischen Technischen Hochschule Lausanne,
-- 1\.4 dem Paul Scherrer Institut,
-- 1\.5 der Eidgenössischen Materialprüfungs- und Forschungsanstalt,
-- 1\.6 der Eidgenössischen Forschungsanstalt für Wald, Schnee und Landschaft,
-- 1\.7 der Eidgenössischen Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz;
-- 2\. der Sammelstelle für die Statistik der Unfallversicherung, geführt von der Schweizerischen Unfallversicherungsanstalt;
-- 3\. der Schweizerischen Beratungsstelle für Unfallverhütung;
+- 1
+
+  der Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) bestehend aus:
+
+  - 1\.1 dem ETH-Rat, einschliesslich seines Stabs,
+  - 1\.2 der Eidgenössischen Technischen Hochschule Zürich, einschliesslich der Konjunkturforschungsstelle
+  - 1\.3 der Eidgenössischen Technischen Hochschule Lausanne,
+  - 1\.4 dem Paul Scherrer Institut,
+  - 1\.5 der Eidgenössischen Materialprüfungs- und Forschungsanstalt,
+  - 1\.6 der Eidgenössischen Forschungsanstalt für Wald, Schnee und Landschaft,
+  - 1\.7 der Eidgenössischen Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz;
+
+- 2\. die Sammelstelle für die Statistik der Unfallversicherung, geführt von der Schweizerischen Unfallversicherungsanstalt;
+- 3\. die Schweizerische Beratungsstelle für Unfallverhütung;
 - 4\. der Statistische Dienst des Schweizer Bauernverbandes;
-- 5\. der Stiftung Gemeinsame Einrichtung KVG;
-- 6\. der Eidgenössischen Kommission für Jugend- und Rekrutenbefragungen;
-- 7\. der Nationalen Krebsregistrierungsstelle.
+- 5\. …
+- 6\. die Eidgenössische Kommission für Jugend- und Rekrutenbefragungen;
+- 7\. die Nationale Krebsregistrierungsstelle.
 
 Anhang 3
 

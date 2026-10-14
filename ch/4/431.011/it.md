@@ -4,11 +4,11 @@ title: Ordinanza del 30 aprile 2025 sulla statistica federale (OStatF)
 short: OStatF
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/318"
 language: it
-version: 2025-06-01
+version: 2026-10-15
 adopted: 2025-04-30
 in_force: 2025-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/318/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2025-318-20250601-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/318/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/318/20261015/it/xml/fedlex-data-admin-ch-eli-cc-2025-318-20261015-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/318/20261015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/318/20250601/it"
 
 (OStatF)
 
-del 30 aprile 2025 (Stato 1° giugno 2025)
+del 30 aprile 2025 (Stato 15 ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -472,20 +472,13 @@ Gli organi responsabili possono mettere, in maniera appropriata, i dati di perso
 
 <sup>2</sup> Gli organi responsabili possono trasmettere i dati amministrativi personali sottoposti all’obbligo di segreto in virtù di una legge speciale e ricevuti in virtù dell’articolo 7 capoverso 2 o dell’articolo 10 capoverso 5 LStat unicamente in forma completamente anonimizzata.
 
-<sup>3</sup>
-
-Le disposizioni seguenti regolano la comunicazione di dati individuali nel quadro dell’Accordo del 26 ottobre 2004[^37-1] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico:
-
-- a. le disposizioni del regolamento (CE) n. 223/2009[^37-2];
-- b. le disposizioni del regolamento (CE) n. 557/2013[^37-3].
+<sup>3</sup> …[^37-1]
 
 <sup>4</sup> Gli organi responsabili sono autorizzati a comunicare dati di persone fisiche e quelli di persone giuridiche ai partner del sistema della statistica federale (art. 14 cpv. 3) se questi ultimi hanno bisogno di tali dati per eseguire lavori statistici, ossia per plausibilizzare dati e per effettuare collegamenti ai sensi dell’articolo 30. I dettagli sono definiti in un contratto di protezione dei dati.
 
 <sup>5</sup> I dati non personali possono essere trasmessi senza previa sottoscrizione di un contratto di protezione dei dati.
 
-[^37-1]: [RS 0.431.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1789)
-[^37-2]: Regolamento (CE) n. 223/2009 del Parlamento europeo e del Consiglio dell’11 marzo 2009 relativo alle statistiche europee e che abroga il regolamento (CE, Euratom) n. 1101/2008 relativo alla trasmissione all’Istituto statistico delle Comunità europee di dati statistici protetti dal segreto, il regolamento (CE) n. 322/97 del Consiglio, relativo alle statistiche comunitarie, e la decisione 89/382/CEE, Euratom del Consiglio, che istituisce un comitato del programma statistico delle Comunità europee, GU L 87 del 31.3.2009, pag. 164; modificato dal regolamento (CE) n. 2015/759, nella versione della GU L 123 del 19.5.2015, pag. 90.
-[^37-3]: Regolamento (UE) n. 557/2013 della Commissione, del 17 giugno 2013, che applica il regolamento (CE) n. 223/2009 del Parlamento europeo e del Consiglio relativo alle statistiche europee per quanto riguarda l’accesso ai dati riservati destinati a fini scientifici e che abroga il regolamento (CE) n. 831/2002 della Commissione, nella versione della GU L 164 del 18.6.2013, pag. 16.
+[^37-1]: Abrogato dalla cifra I dell’O del 2 set. 2026, con effetto dal 15 ott. 2026 ([RU 2026 472](https://fedlex.data.admin.ch/eli/oc/2026/472)).
 
 #### Art. 38
 
@@ -667,13 +660,15 @@ La modifica di altri atti normativi è disciplinata nell’allegato 3.
 
 La presente ordinanza entra in vigore il 1° giugno 2025.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 1 cpv. 1, 4 cpv. 2 e 18 cpv. 2)
 
 ## Elenco delle collezioni per tema
 
-### 00. Registri e altre basi per la produzione statistica
+[^t-1]: Aggiornato dalla cifra I dell’O del 9 set. 2026, in vigore dal 15 ott. 2026 ([RU 2026 492](https://fedlex.data.admin.ch/eli/oc/2026/492)).
+
+### 00. Fondamenti del sistema statistico
 
 ### 00.01. Indagine per l’aggiornamento del Registro delle imprese e degli stabilimenti
 
@@ -753,7 +748,7 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>1. La notifica delle cause di natimortalità avviene per via elettronica o postale da parte del medico o del personale ostetrico direttamente all’UST 2. L’UST può inviare al medico competente richieste di informazioni complementari per migliorare la qualità delle proprie statistiche</td></tr>
 </table>
 
-### 01.02. Indagine sulle forze di lavoro in Svizzera (RIFOS)
+### 01.02. Indagine per la rilevazione sulle forze di lavoro in Svizzera (RIFOS)
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
@@ -790,7 +785,7 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
 
-### 01.05. Indagine strutturale (RS)
+### 01.05. Indagine per la rilevazione strutturale (RS)
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
@@ -836,7 +831,7 @@ Allegato 1
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
 <tr><td>Oggetto:</td><td>caratteristiche sociodemografiche ed economiche, moduli tematici differenti da un’indagine all’altra</td></tr>
-<tr><td>Tipo e metodo:</td><td>indagine su un campione di persone viventi in un’economia domestica privata, rilevazioni di dati amministrativi e di registri: STATPOP, RIS, SEA, NRS, registri delle assicurazioni sociali (UCC, casse AVS e SECO) e SHS</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine su un campione compreso tra 3000 e 10 000 persone viventi in un’economia domestica privata, rilevazioni di dati amministrativi e di registri: STATPOP, RIS, SEA, NRS, registri delle assicurazioni sociali (UCC, casse AVS e SECO) e SHS</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione facoltativa</td></tr>
 <tr><td>Periodicità e data di esecuzione:</td><td>in base alle necessità</td></tr>
 <tr><td>Partecipanti:</td><td>istituti di sondaggio</td></tr>
@@ -848,7 +843,7 @@ Allegato 1
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
 <tr><td>Oggetto:</td><td>razzismo, xenofobia, ostilità nei confronti delle persone musulmane, ostilità nei confronti delle persone di colore, ostilità nei confronti delle persone ebree, esperienza di discriminazione, variabili sociodemografiche ed economiche</td></tr>
-<tr><td>Tipo e metodo:</td><td>indagine su un campione rappresentativo di 3000 persone dai 15 agli 88 anni viventi in un’economia domestica privata</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine su un campione rappresentativo compreso tra 3000 e 10 000 persone dai 15 agli 88 anni viventi in un’economia domestica privata</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione facoltativa</td></tr>
 <tr><td>Periodicità e data di esecuzione:</td><td>ogni due anni</td></tr>
 <tr><td>Partecipanti:</td><td>istituti di sondaggio</td></tr>
@@ -859,8 +854,8 @@ Allegato 1
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
-<tr><td>Oggetto:</td><td>caratteristiche di cui all’articolo 6 della legge del 23 giugno 2006 sull’armonizzazione dei registri (LArRa) nonché del programma di rilevazione di cui all’articolo 9 dell’ordinanza sul censimento; dati selezionati tratti dai registri di persone sull’effettivo e sui movimenti (nascite, decessi, cambiamenti di stato civile, movimenti migratori, acquisto della cittadinanza svizzera, cambiamento dello statuto di soggiorno ecc.) della popolazione residente permanente di nazionalità svizzera e straniera, della popolazione residente non permanente di nazionalità straniera e della popolazione residente nel domicilio secondario; dati su edifici e abitazioni (comprese le coordinate geografiche) e dati su lavoro e reddito</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione totale di dati amministrativi: registri cantonali e comunali degli abitanti, Infostar, SIMIC; sistema di informazione Ordipro; registri delle assicurazioni sociali (UCC e SECO), RIS, REA; SEA; BEVNAT, SE</td></tr>
+<tr><td>Oggetto:</td><td>caratteristiche di cui all’articolo 6 LArRa nonché del programma di rilevazione di cui all’articolo 9 dell’ordinanza sul censimento; dati selezionati tratti dai registri di persone sull’effettivo e sui movimenti (nascite, decessi, cambiamenti di stato civile, movimenti migratori, acquisizione della cittadinanza svizzera, cambiamento dello statuto di soggiorno ecc.) della popolazione residente permanente di nazionalità svizzera e straniera, della popolazione residente non permanente di nazionalità straniera e della popolazione residente con domicilio secondario; dati su edifici e abitazioni (comprese le coordinate geografiche) e dati su lavoro e reddito</td></tr>
+<tr><td>Tipo e metodo:</td><td>rilevazione totale di dati amministrativi: registri cantonali e comunali degli abitanti, Infostar, SIMIC, sistema di informazione Ordipro, registri delle assicurazioni sociali (UCC e SECO), RIS, REA, SEA, BEVNAT, SE, LABB, rilevazione per la statistica dei beneficiari dell’aiuto sociale, indagine per la rilevazione della struttura dei salari, censimenti federali della popolazione del 1990 e del 2000</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
 <tr><td>Periodicità e data di esecuzione:</td><td>trimestrale</td></tr>
 <tr><td>Partecipanti:</td><td>–</td></tr>
@@ -879,7 +874,7 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>legge sul censimento e ordinanza sul censimento</td></tr>
 </table>
 
-### 01.12. Indagine sui servizi di collocamento privati e pubblici e sulla fornitura di personale a prestito
+### 01.12. Indagine sui servizi di collocamento privati e sulla fornitura di personale a prestito
 
 <table>
 <tr><th>Organo responsabile:</th><th>Segreteria di Stato dell’economia</th></tr>
@@ -893,57 +888,23 @@ Allegato 1
 
 [^annex1-lvlu1-lvl01-lvl0112-1]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
-### 01.13. Rilevazione per la statistica sull’assicurazione contro la disoccupazione e l’indennità d’insolvenza
+### 01.13. Indagine per la statistica sulla disoccupazione e sulle prestazioni dell’assicurazione contro la disoccupazione
 
 <table>
 <tr><th>Organo responsabile:</th><th>Segreteria di Stato dell’economia</th></tr>
-<tr><td>Oggetto:</td><td>finanze e ammontare delle prestazioni dell’assicurazione contro la disoccupazione: contributi, prestazioni, prestiti, fondi di garanzia, spese amministrative; caratteristiche dei beneficiari di prestazioni</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione di dati amministrativi presso le casse dell’assicurazione contro la disoccupazione</td></tr>
-<tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
+<tr><td>Oggetto:</td><td>disoccupati e persone in cerca d’impiego iscritte presso gli uffici regionali di collocamento, tenuto conto di diversi criteri sociodemografici; beneficiari (persone fisiche e giuridiche) di prestazioni dell’assicurazione contro la disoccupazione in base a diversi criteri sociodemografici e socioeconomici; posti vacanti annunciati dagli uffici regionali di collocamento in base a diversi criteri economici</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine totale tra tutte le persone iscritte presso gli uffici regionali di collocamento, rilevazione totale dei dati amministrativi e dei registri: sistemi d’informazione per l’assicurazione contro la disoccupazione e l’analisi del mercato del lavoro (OSI-AD), RS, indagine per la statistica dell’impiego, STATENT, REA, RIS, elenco ufficiale dei Comuni della Svizzera</td></tr>
+<tr><td>Obbligo d’informare:</td><td>informazione obbligatoria per le persone aventi diritto alle prestazioni dell’assicurazione contro la disoccupazione; informazione facoltativa per altre persone in cerca d’impiego informazione obbligatoria per gli annunci di lavoro relativi a professioni soggette all’obbligo di annuncio; informazione facoltativa per altre professioni</td></tr>
 <tr><td>Periodicità e data di esecuzione:</td><td>mensile</td></tr>
-<tr><td>Partecipanti:</td><td>–</td></tr>
-<tr><td>Informazioni supplementari:</td><td>ordinanza del 26 maggio 2021[^annex1-lvlu1-lvl01-lvl0113-1] sui sistemi d’informazione AD</td></tr>
+<tr><td>Partecipanti:</td><td>uffici regionali di collocamento, casse di disoccupazione</td></tr>
+<tr><td>Informazioni supplementari:</td><td>legge del 25 giugno 1982[^annex1-lvlu1-lvl01-lvl0113-1] sull’assicurazione contro la disoccupazione legge del 6 ottobre 1989[^annex1-lvlu1-lvl01-lvl0113-2] sul collocamento ordinanza del 26 maggio 2021[^annex1-lvlu1-lvl01-lvl0113-3] sui sistemi d’informazione AD</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl01-lvl0113-1]: [RS 837.063.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10298)
+[^annex1-lvlu1-lvl01-lvl0113-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^annex1-lvlu1-lvl01-lvl0113-2]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^annex1-lvlu1-lvl01-lvl0113-3]: [RS 837.063.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10298)
 
-### 01.14. Rilevazione dei posti liberi
-
-<table>
-<tr><th>Organo responsabile:</th><th>Segreteria di Stato dell’economia</th></tr>
-<tr><td>Oggetto:</td><td>posti liberi annunciati agli uffici del lavoro</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione parziale dei dati amministrativi del sistema di informazione COLSTA</td></tr>
-<tr><td>Obbligo d’informare:</td><td>informazione facoltativa</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>mensile</td></tr>
-<tr><td>Partecipanti:</td><td>uffici del lavoro cantonali e comunali</td></tr>
-<tr><td>Informazioni supplementari:</td><td>ordinanza sui sistemi d’informazione AD</td></tr>
-</table>
-
-### 01.15. Rilevazione delle persone disoccupate registrate e delle persone in cerca d’impiego non disoccupate
-
-<table>
-<tr><th>Organo responsabile:</th><th>Segreteria di Stato dell’economia</th></tr>
-<tr><td>Oggetto:</td><td>persone in cerca d’impiego secondo caratteristiche socioeconomiche</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione totale dei dati amministrativi del sistema d’informazione COLSTA</td></tr>
-<tr><td>Obbligo d’informare:</td><td>informazione obbligatoria per i disoccupati aventi diritto alle prestazioni dell’assicurazione contro la disoccupazione</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>mensile</td></tr>
-<tr><td>Partecipanti:</td><td>uffici del lavoro cantonali e comunali</td></tr>
-<tr><td>Informazioni supplementari:</td><td>ordinanza sui sistemi d’informazione AD</td></tr>
-</table>
-
-### 01.16. Rilevazione sui provvedimenti inerenti al mercato del lavoro (PML)
-
-<table>
-<tr><th>Organo responsabile:</th><th>Segreteria di Stato dell’economia</th></tr>
-<tr><td>Oggetto:</td><td>provvedimenti inerenti al mercato del lavoro</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione totale dei dati amministrativi del sistema d’informazione COLSTA</td></tr>
-<tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>annuale; gennaio</td></tr>
-<tr><td>Partecipanti:</td><td>Cantoni</td></tr>
-<tr><td>Informazioni supplementari:</td><td>legge del 25 giugno 1982[^annex1-lvlu1-lvl01-lvl0116-1] sull’assicurazione contro la disoccupazione</td></tr>
-</table>
-
-[^annex1-lvlu1-lvl01-lvl0116-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+### 01.14.– 01.16.…
 
 ### 01.17. Rilevazione sull’attività delle autorità paritetiche di conciliazione
 
@@ -1201,17 +1162,7 @@ Allegato 1
 
 ### 04. Società
 
-### 04.01. Indagine per la statistica svizzera delle biblioteche
-
-<table>
-<tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
-<tr><td>Oggetto:</td><td>informazioni su struttura, modalità di funzionamento ed evoluzione delle biblioteche</td></tr>
-<tr><td>Tipo e metodo:</td><td>indagine totale presso tutte le biblioteche aperte al pubblico</td></tr>
-<tr><td>Obbligo d’informare:</td><td>informazione facoltativa</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>annuale, in primavera</td></tr>
-<tr><td>Partecipanti:</td><td>Cantoni</td></tr>
-<tr><td>Informazioni supplementari:</td><td>–</td></tr>
-</table>
+### 04.01. …
 
 ### 04.02. Indagine per la statistica del film e del cinema
 
@@ -1602,6 +1553,20 @@ Allegato 1
 
 [^annex1-lvlu1-lvl05-lvl0512-1]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
+### 05.13. Indagine per la statistica della consulenza e del trattamento delle dipendenze in Svizzera (act‑info)
+
+<table>
+<tr><th>Organo responsabile:</th><th>Ufficio federale della sanità pubblica</th></tr>
+<tr><td>Oggetto:</td><td>notifiche di entrata e di uscita; numero di persone ospitate in istituzioni di aiuto in caso di dipendenza; dati sociodemografici dei pazienti; comportamenti a rischio; sostanze assunte e problemi ad esse correlati; integrazione sociale</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine tra i pazienti; rilevazione di dati amministrativi presso le autorità cantonali competenti e le istituzioni di aiuto alle persone con consumo problematico e altre dipendenze</td></tr>
+<tr><td>Obbligo d’informare:</td><td>informazione obbligatoria per le rilevazioni relative ai trattamenti sostitutivi (terapia con agonisti oppioidi e trattamento basato sulla prescrizione di eroina) informazione facoltativa per le indagini e le rilevazioni nel quadro del trattamento delle dipendenze</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>continuativa</td></tr>
+<tr><td>Partecipanti:</td><td>Dipendenze Svizzera</td></tr>
+<tr><td>Disposizioni particolari:</td><td>legge del 3 ottobre 1951[^annex1-lvlu1-lvl05-lvl0513-1] sugli stupefacenti</td></tr>
+</table>
+
+[^annex1-lvlu1-lvl05-lvl0513-1]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+
 ### 06. Mobilità e trasporti
 
 ### 06.01. Rilevazione sull’immatricolazione di veicoli nuovi e sul parco veicoli stradali
@@ -1776,16 +1741,16 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
 
-### 07. Territorio, ambiente, sviluppo sostenibile e indicatori della legislatura
+### 07. Territorio, ambiente, sviluppo sostenibile
 
 ### 07.01. Indagine sulle spese per la protezione dell’ambiente
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
 <tr><td>Oggetto:</td><td>spese correnti, investimenti, impieghi</td></tr>
-<tr><td>Tipo e metodo:</td><td>indagine totale per le grandi imprese, campione rappresentativo per le PMI</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine totale tra le grandi imprese e campione rappresentativo tra le PMI</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione facoltativa</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>ogni due anni</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>ogni quattro anni</td></tr>
 <tr><td>Partecipanti:</td><td>–</td></tr>
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
@@ -1814,12 +1779,12 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>i risultati nominali di questa indagine sono pubblicati con il consenso degli interpellati</td></tr>
 </table>
 
-### 07.04. Rilevazione per la statistica dei rifiuti
+### 07.04. Rilevazione per la statistica dei rifiuti urbani
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale dell’ambiente</th></tr>
 <tr><td>Oggetto:</td><td>rifiuti urbani e loro trattamento</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione totale presso i servizi cantonali di protezione dell’ambiente e le associazioni di impianti d’incenerimento e discariche</td></tr>
+<tr><td>Tipo e metodo:</td><td>rilevazione totale presso i servizi cantonali della protezione dell’ambiente, le associazioni di categoria e gli impianti d’incenerimento</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
 <tr><td>Periodicità e data di esecuzione:</td><td>annuale</td></tr>
 <tr><td>Partecipanti:</td><td>–</td></tr>
@@ -1842,30 +1807,34 @@ Allegato 1
 
 [^annex1-lvlu1-lvl07-lvl0705-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
-### 07.06. Indagine su HFC, PFC e SF<sub>6</sub> per l’inventario dei gas serra
+### 07.06 Indagine su HFC, PFC, SF<sub>6</sub> e NF<sub>3</sub> per l’inventario dei gas serra
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale dell’ambiente</th></tr>
-<tr><td>Oggetto:</td><td>emissioni di idrofluorocarburi parzialmente alogenati (HFC), perfluorocarburi (PFC) ed esafluoro di zolfo (SF<sub>6</sub>)</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione totale presso le associazioni di categoria per HFC, PFC e SF<sub>6</sub>; indagine presso gli importatori, rilevazione presso l’organo d’esecuzione di cui all’articolo 64 LEne</td></tr>
+<tr><td>Oggetto:</td><td>importazioni ed esportazioni, destinazione d’uso, trattamento, ricarica e smaltimento, contenuto effettivo, tassi di perdita di idrofluorocarburi parzialmente alogenati (HFC), perfluorocarburi (PFC), esafluoruro di zolfo (SF<sub>6</sub>) e trifluoruro di azoto (NF<sub>3</sub>)</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine totale tra gli importatori e gli esportatori di HFC, PFC, SF<sub>6</sub> e NF<sub>3</sub>; indagine tra le associazioni di categoria, i produttori e i gestori di impianti e le imprese di servizi; rilevazione di dati amministrativi relativi alle sostanze stabili nell’aria</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>annuale</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>indagine totale e rilevazione di dati amministrativi su base annuale; indagine e rilevazioni parziali a cadenza periodica (ogni due–cinque anni)</td></tr>
 <tr><td>Partecipanti:</td><td>mandatari privati</td></tr>
-<tr><td>Informazioni supplementari:</td><td>direttive del Gruppo intergovernativo di esperti sul cambiamento climatico e Convenzione quadro delle Nazioni Unite del 9 maggio 1992[^annex1-lvlu1-lvl07-lvl0706-1] sui cambiamenti climatici</td></tr>
+<tr><td>Informazioni supplementari:</td><td>allegato 1.5 numero 7 dell’ordinanza del 18 maggio 2005[^annex1-lvlu1-lvl07-lvl0706-1] sulla riduzione dei rischi inerenti ai prodotti chimici, linee guida per la redazione degli inventari delle emissioni di gas serra del Gruppo intergovernativo sul cambiamento climatico ([*2006 IPCC Guidelines for National Greenhouse Gas Inventories*](https://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)[^annex1-lvlu1-lvl07-lvl0706-2] e [*2019 Refinement to the 2006 IPCC* *Guide* *lines*](https://www.ipcc-nggip.iges.or.jp/public/2019rf/index.html)[^annex1-lvlu1-lvl07-lvl0706-3]), della Convenzione quadro delle Nazioni Unite del 9 maggio 1992[^annex1-lvlu1-lvl07-lvl0706-4] sui cambiamenti climatici e dell’Accordo del 12 dicembre 2015[^annex1-lvlu1-lvl07-lvl0706-5] sul clima</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl07-lvl0706-1]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex1-lvlu1-lvl07-lvl0706-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^annex1-lvlu1-lvl07-lvl0706-2]: Le linee guida sono disponibili all’indirizzo: [www.ipcc-nggip.iges.or.jp](https://www.ipcc-nggip.iges.or.jp/) &gt; Publications &gt; 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+[^annex1-lvlu1-lvl07-lvl0706-3]: L’aggiornamento 2019 delle linee guida è disponibile all’indirizzo: [www.ipcc ‑nggip.iges.or.jp](https://www.ipcc-nggip.iges.or.jp/) &gt; Publications &gt; 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+[^annex1-lvlu1-lvl07-lvl0706-4]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^annex1-lvlu1-lvl07-lvl0706-5]: [RS 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 ### 07.07. Indagine sui parametri agricoli di esercizio per il calcolo delle emissioni di ammoniaca
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale dell’ambiente</th></tr>
 <tr><td>Oggetto:</td><td>allestimento e utilizzo di sistemi di stabulazione per diverse categorie di animali; foraggiamento degli animali da reddito; durata del pascolo; tipo di stoccaggio; trattamento e spargimento di concimi aziendali fluidi e solidi; quantità di concimi minerali impiegata</td></tr>
-<tr><td>Tipo e metodo:</td><td>indagine su un campione rappresentativo di aziende agricole che l’UST ha estratto a sorte sulla base del censimento strutturale; rilevazione presso i Cantoni e l’organo d’esecuzione di cui all’articolo 64 LEne</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine su un campione rappresentativo di aziende agricole che l’UST ha estratto a sorte sulla base della rilevazione delle strutture agricole</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>di regola ogni cinque anni; per gli anni intermedi la rilevazione viene interpolata e conformata al censimento delle aziende agricole (rilevazione di base e rilevazione supplementare)</td></tr>
-<tr><td>Partecipanti:</td><td>UST, scuola universitaria professionale di Berna: Scuola universitaria professionale di scienze agrarie, forestali e alimentari; organo d’esecuzione di cui all’articolo 64 LEne</td></tr>
-<tr><td>Informazioni supplementari:</td><td>l’articolo 44 della legge del 7 ottobre 1983[^annex1-lvlu1-lvl07-lvl0707-1] sulla protezione dell’ambiente obbliga la Confederazione a procedere a rilevazioni sul carico ambientale; l’articolo 12 dell’ordinanza del 16 dicembre 1985[^annex1-lvlu1-lvl07-lvl0707-2] contro l’inquinamento atmosferico prevede l’obbligo d’informare per chi gestisce un impianto che causa inquinamenti atmosferici; l’articolo 7 del Protocollo di Göteborg del 30 novembre 1999[^annex1-lvlu1-lvl07-lvl0707-3] obbliga ciascuna delle parti, tra cui la Svizzera, a comunicare informazioni sulle proprie emissioni</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>di regola ogni cinque anni; per gli anni intermedi la rilevazione viene interpolata e conformata alla rilevazione delle strutture agricole</td></tr>
+<tr><td>Partecipanti:</td><td>UST, scuola universitaria professionale di Berna: Scuola universitaria professionale di scienze agrarie, forestali e alimentari</td></tr>
+<tr><td>Informazioni supplementari:</td><td>articolo 44 della legge del 7 ottobre 1983[^annex1-lvlu1-lvl07-lvl0707-1] sulla protezione dell’ambiente, articolo 12 dell’ordinanza del 16 dicembre 1985[^annex1-lvlu1-lvl07-lvl0707-2] contro l’inquinamento atmosferico, articolo 7 del Protocollo di Göteborg del 30 novembre 1999[^annex1-lvlu1-lvl07-lvl0707-3]</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl07-lvl0707-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
@@ -1903,9 +1872,9 @@ Allegato 1
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
 <tr><td>Oggetto:</td><td>determinazione dell’utilizzazione e della copertura del suolo secondo 46 categorie di utilizzazione e 27 categorie di copertura per l’intero territorio svizzero</td></tr>
-<tr><td>Tipo e metodo:</td><td>rilevazione di una rete di punti campionari con equidistanza di 100 m; interpretazione computerizzata di 4,1 milioni di punti basati su fotografie aeree e di strisce di immagini aeree digitali; come dati ausiliari vengono utilizzati altri geodati di base liberamente accessibili al pubblico in virtù di leggi federali o cantonali, nonché dati satellite e geodati di terzi disponibili con licenza open data</td></tr>
+<tr><td>Tipo e metodo:</td><td>rilevazione di una rete di punti campionari con equidistanza di 100 m; interpretazione computerizzata di 4,1 milioni di punti basati su fotografie aeree e di strisce di immagini aeree digitali dell’Ufficio federale di topografia; come dati ausiliari vengono utilizzati altri geodati di base tratti da RIS e REA</td></tr>
 <tr><td>Obbligo d’informare:</td><td>–</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>ogni sei anni</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>ogni nove anni</td></tr>
 <tr><td>Partecipanti:</td><td>–</td></tr>
 <tr><td>Informazioni supplementari:</td><td>legge del 5 ottobre 2007[^annex1-lvlu1-lvl07-lvl0710-1] sulla geoinformazione e ordinanza del 21 maggio 2008[^annex1-lvlu1-lvl07-lvl0710-2] sulla geoinformazione</td></tr>
 </table>
@@ -2049,14 +2018,14 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
 
-### 09.04. Rilevazione della struttura dei salari
+### 09.04. Indagine per la rilevazione della struttura dei salari (RSS)
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
 <tr><td>Oggetto:</td><td>salari, durata del lavoro, caratteristiche riguardanti le persone salariate e i posti di lavoro</td></tr>
-<tr><td>Tipo e metodo:</td><td>indagine campionaria rappresentativa presso amministrazioni pubbliche, imprese private e di diritto pubblico e altre corporazioni di diritto pubblico; rilevazione di dati amministrativi: SIMIC, STATPOP</td></tr>
+<tr><td>Tipo e metodo:</td><td>indagine campionaria rappresentativa presso amministrazioni pubbliche, imprese private e di diritto pubblico e altre corporazioni di diritto pubblico; rilevazione di dati amministrativi: SIMIC, STATPOP, rilevazione della statistica sulle svizzere e sugli svizzeri all’estero, rilevazione degli esami finali</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>ogni due anni; gennaio–settembre</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>ogni due anni</td></tr>
 <tr><td>Partecipanti:</td><td>–</td></tr>
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
@@ -2172,17 +2141,16 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
 
-### 09.14. Indagine per il censimento delle aziende agricole
+### 09.14. Rilevazione delle strutture agricole
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale di statistica</th></tr>
-<tr><td>Oggetto:</td><td>superficie aziendale, effettivo del bestiame, impieghi e altri dati sulla formazione, attività lucrativa al di fuori dell’azienda, condizioni aziendali, diversificazione nell’azienda, meccanizzazione, equipaggiamento, irrigazione e lavorazione del suolo</td></tr>
-<tr><td>Tipo e metodo:</td><td>il censimento delle aziende agricole si compone come segue:</td></tr>
-<tr><td></td><td>a. rilevazione strutturale: tramite il sistema d’informazione sulla politica agricola dell’Ufficio federale dell’agricoltura, i dati delle aziende agricole interessate dall’attuazione delle misure di politica agricola e di lotta contro le epizoozie; tramite la banca dati sul traffico di animali (BDTA) di Identitas, i dati sull’effettivo di bovini, bufali, bisonti ed equini, ovini e capre; b. indagine complementare presso tutte le aziende agricole non interessate dall’applicazione delle misure di politica agricola e contro le epizoozie; c. indagine supplementare: indagine su un campione per rilevare le caratteristiche non disponibili nelle indagini di cui alle lettere a e b</td></tr>
+<tr><td>Oggetto:</td><td>numero delle aziende agricole, superficie agricola utile, effettivo del bestiame, impieghi</td></tr>
+<tr><td>Tipo e metodo:</td><td>rilevazione di dati amministrativi dal sistema d’informazione per i dati su aziende, strutture e contributi (AGIS) dell’Ufficio federale dell’agricoltura; le aziende agricole sono definite dall’UST</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>rilevazione strutturale: i Cantoni sono tenuti a inviare i dati necessari alla statistica entro e non oltre il 31 dicembre di ogni anno indagine complementare: ogni tre anni (2022, 2025, 2028 e 2031) in primavera indagine supplementare: ogni tre o quattro anni (2020, 2023, 2026, 2030) in autunno</td></tr>
-<tr><td>Partecipanti:</td><td>Cantoni</td></tr>
-<tr><td>Informazioni supplementari:</td><td>aziende agricole secondo le norme dell’UST rilevazione strutturale: i dati sono rilevati dai Cantoni nell’ambito dell’attuazione delle misure di politica agricola e di lotta contro le epizoozie conformemente all’ordinanza del 23 ottobre 2013[^annex1-lvlu1-lvl09-lvl0914-1] sui sistemi d’informazione nel campo dell’agricoltura indagine complementare e indagine supplementare: i dati sono rilevati direttamente dall’UST</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>annuale: dati provvisori a dicembre, dati definitivi a gennaio.</td></tr>
+<tr><td>Partecipanti:</td><td>–</td></tr>
+<tr><td>Informazioni supplementari:</td><td>ordinanza del 23 ottobre 2013[^annex1-lvlu1-lvl09-lvl0914-1] sui sistemi d’informazione nel campo dell’agricoltura</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl09-lvl0914-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
@@ -2255,7 +2223,7 @@ Allegato 1
 <tr><td>Tipo e metodo:</td><td>indagine totale presso le cartiere e le fabbriche di cellulosa, pannelli di particelle e pannelli di fibre di legno</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione facoltativa</td></tr>
 <tr><td>Periodicità e data di esecuzione:</td><td>annuale; da febbraio a marzo</td></tr>
-<tr><td>Partecipanti:</td><td>–</td></tr>
+<tr><td>Partecipanti:</td><td>UST</td></tr>
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
 
@@ -2283,7 +2251,7 @@ Allegato 1
 <tr><td>Informazioni supplementari:</td><td>–</td></tr>
 </table>
 
-### 09.23. Indagine per la statistica forestale (rete delle aziende forestali)
+### 09.23. Indagine per la rete di aziende forestali pilota della Svizzera (RAP)
 
 <table>
 <tr><th>Organo responsabile:</th><th>Ufficio federale dell’ambiente</th></tr>
@@ -2302,7 +2270,7 @@ Allegato 1
 <tr><td>Oggetto:</td><td>costi e caratteristiche delle costruzioni progettate, iniziate o già terminate; spese pubbliche di manutenzione; numero e caratteristiche degli edifici e delle abitazioni</td></tr>
 <tr><td>Tipo e metodo:</td><td>rilevazione totale nell’ambito dell’aggiornamento del REA, indagine presso committenti, architetti, servizi amministrativi e imprese</td></tr>
 <tr><td>Obbligo d’informare:</td><td>informazione obbligatoria</td></tr>
-<tr><td>Periodicità e data di esecuzione:</td><td>trimestrale o annuale</td></tr>
+<tr><td>Periodicità e data di esecuzione:</td><td>annuale</td></tr>
 <tr><td>Partecipanti:</td><td>–</td></tr>
 <tr><td>Informazioni supplementari:</td><td>ordinanza del 9 giugno 2017[^annex1-lvlu1-lvl09-lvl0924-1] sul Registro federale degli edifici e delle abitazioni</td></tr>
 </table>
@@ -2630,11 +2598,13 @@ Allegato 1
 
 [^annex1-lvlu1-lvl09-lvl0949-1]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 3 cpv. 1)
 
 ## Elenco delle corporazioni, degli istituti e delle altre persone giuridiche parzialmente sottoposti alla LStat
+
+[^t-2]: Aggiornato dalla cifra I dell’O del 9 set. 2026, in vigore dal 15 ott. 2026 ([RU 2026 492](https://fedlex.data.admin.ch/eli/oc/2026/492)).
 
 Sono considerati corporazioni, istituti e altre persone giuridiche parzialmente sottoposti alla LStat:
 
@@ -2653,7 +2623,7 @@ Sono considerati corporazioni, istituti e altre persone giuridiche parzialmente 
 - 2\. il Servizio centrale delle statistiche dell’assicurazione contro gli infortuni dell’Istituto nazionale svizzero di assicurazione contro gli infortuni;
 - 3\. l’Ufficio svizzero per la prevenzione degli infortuni;
 - 4\. il Servizio statistico dell’Unione Svizzera dei Contadini;
-- 5\. l’Istituzione comune LAMal;
+- 5\. …
 - 6\. la Commissione federale delle inchieste presso i giovani e le reclute;
 - 7\. il Servizio nazionale di registrazione dei tumori.
 
@@ -2665,6 +2635,6 @@ Allegato 3
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Le mod. possono essere consultate nella [RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318).
