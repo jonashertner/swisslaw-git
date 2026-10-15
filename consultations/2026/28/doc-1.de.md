@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision Postgesetz (PG) und Teilrevision Postorganisationsgesetz (POG)
 document: Vernehmlassungsvorlage
 language: de

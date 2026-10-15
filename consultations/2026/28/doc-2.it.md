@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge sulle poste (LPO) e della legge sull’organizzazione della Posta (LOP)
 document: Progetto posto in consultazione-2
 language: it

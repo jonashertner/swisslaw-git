@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi sur la poste (LPO) et révision partielle de la loi sur l’organisation de la Poste (LOP)
 document: Projet mis en consultation-2
 language: fr
