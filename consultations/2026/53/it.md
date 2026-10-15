@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’Ordinanza n. 2 sull’asilo relativa alle questioni finanziarie (OAsi 2)
 document: Progetto posto in consultazione
 language: it
