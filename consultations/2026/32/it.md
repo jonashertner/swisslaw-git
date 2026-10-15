@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’Ordinanza sugli emolumenti in materia di stato civile (OESC)
 document: Progetto posto in consultazione
 language: it
