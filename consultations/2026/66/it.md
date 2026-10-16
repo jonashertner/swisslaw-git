@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione della Legge federale sulla caccia e la protezione dei mammiferi e degli uccelli selvatici
 document: Progetto posto in consultazione
 language: it

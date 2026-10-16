@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de la loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages
 document: Projet mis en consultation
 language: fr

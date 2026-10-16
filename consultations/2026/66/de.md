@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel
 document: Vernehmlassungsvorlage
 language: de
