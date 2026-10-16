@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale contro il lavoro nero (attuazione della mozione 24.3202 Candinas Martin)
 document: Progetto posto in consultazione
 language: it

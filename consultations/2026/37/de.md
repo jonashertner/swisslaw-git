@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes gegen die Schwarzarbeit (Umsetzung Motion 24.3202 Candinas Martin)
 document: Vernehmlassungsvorlage
 language: de
