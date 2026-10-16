@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Heilmittelgesetzes 3b
 document: Vernehmlassungsvorlage
 language: de

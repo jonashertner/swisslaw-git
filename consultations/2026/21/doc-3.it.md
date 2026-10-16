@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sugli agenti terapeutici 3b
 document: Progetto posto in consultazione
 language: it

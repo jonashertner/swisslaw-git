@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification 3b de la loi sur les produits thérapeutiques
 document: Projet mis en consultation-2
 language: fr
