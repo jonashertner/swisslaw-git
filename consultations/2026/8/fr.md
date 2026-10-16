@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur la réforme du Ministère public de la Confédération et de son Autorité de surveillance et sur les modifications de la juridiction fédérale
 document: Projet mis en consultation
 language: fr

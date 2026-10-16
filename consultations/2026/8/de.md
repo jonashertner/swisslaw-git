@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz zur Reform der Bundesanwaltschaft und ihrer Aufsicht und zu Änderungen der Bundesgerichtsbarkeit
 document: Vernehmlassungsvorlage
 language: de

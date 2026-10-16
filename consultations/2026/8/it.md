@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale che riforma il Ministero pubblico della Confederazione e la sua autorità di vigilanza e modifica la giurisdizione federale
 document: Progetto posto in consultazione
 language: it
