@@ -10,7 +10,7 @@ version_adopted: 2026-04-28
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3638/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3899/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -695,5 +695,148 @@ relaschada da la regenza ils 19 da december 2017
 
 - a) l'acziun da tschertga, da deliberaziun u da salvament è vegnida incumbensada d'ina organisaziun autorisada respectivamain d'in post da coordinaziun autorisà; e
 - b) igl è vegnida tschertgada e betg chattada ina persuna betg identifitgabla tar questa acziun.
+
+## A1 Agiunta 1: Chasas da persunas attempadas e da tgira e gruppas da tgira (art. 16 al. 7)
+
+#### Art. A1-1
+
+**Custs renconuschids da las chasas da persunas attempadas e da tgira sco er da las gruppas da tgira**
+
+<sup>1</sup> Custs renconuschids per di:
+
+<table>
+<tr><th>Stgalim dal basegn da tgira</th><th>Basegn da tgira en minutas</th><th>Pensiun</th><th>Assistenza</th><th>Tgira</th><th>Total</th></tr>
+<tr><td>0</td><td>nagin</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 0.00</td><td>fr. 189.00</td></tr>
+<tr><td>1</td><td>0–20</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 14.40</td><td>fr. 203.40</td></tr>
+<tr><td>2</td><td>21–40</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 43.20</td><td>fr. 232.20</td></tr>
+<tr><td>3</td><td>41–60</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 72.00</td><td>fr. 261.00</td></tr>
+<tr><td>4</td><td>61–80</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 100.80</td><td>fr. 289.80</td></tr>
+<tr><td>5</td><td>81–100</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 129.60</td><td>fr. 318.60</td></tr>
+<tr><td>6</td><td>101–120</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 158.40</td><td>fr. 347.40</td></tr>
+<tr><td>7</td><td>121–140</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 187.20</td><td>fr. 376.20</td></tr>
+<tr><td>8</td><td>141–160</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 216.00</td><td>fr. 405.00</td></tr>
+<tr><td>9</td><td>161–180</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 244.80</td><td>fr. 433.80</td></tr>
+<tr><td>10</td><td>181–200</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 273.60</td><td>fr. 462.60</td></tr>
+<tr><td>11</td><td>201–220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 302.40</td><td>fr. 491.40</td></tr>
+<tr><td>12</td><td>&gt; 220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 331.20</td><td>fr. 520.20</td></tr>
+</table>
+
+<sup>2</sup> Per la tgira ed assistenza d'abitantas e d'abitants che dovran extraordinariamain blera tgira u assistenza pon vegnir renconuschids supplementarmain fr. 86.40 per ura.
+
+<sup>3</sup> Custs supplementars pon vegnir renconuschids fin ad in temp da lavur da 7.5 uras per di minus la lavur tenor il stgalim dal basegn da tgira fixà.
+
+#### Art. A1-2
+
+**Custs che dastgan vegnir adossads maximalmain a las abitantas ed als abitants da las chasas da persunas attempadas e da tgira sco er da las gruppas da tgira**
+
+<sup>1</sup> Custs che dastgan vegnir adossads maximalmain per di:
+
+<table>
+<tr><th>Stgalim dal basegn da tgira</th><th>Basegn da tgira en minutas</th><th>Pensiun</th><th>Assistenza</th><th>Tgira</th><th>Total</th></tr>
+<tr><td>0</td><td>nagin</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 0.00</td><td>fr. 189.00</td></tr>
+<tr><td>1</td><td>0–20</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 4.80</td><td>fr. 193.80</td></tr>
+<tr><td>2</td><td>21–40</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>3</td><td>41–60</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>4</td><td>61–80</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>5</td><td>81–100</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>6</td><td>101–120</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>7</td><td>121–140</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>8</td><td>141–160</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>9</td><td>161–180</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>10</td><td>181–200</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>11</td><td>201–220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>12</td><td>&gt; 220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+</table>
+
+#### Art. A1-3
+
+**Supplements e reducziuns sin ils custs renconuschids**
+
+<sup>1</sup> Sin ils custs renconuschids pon vegnir incassads maximalmain ils suandants supplements:
+
+- a) infrastructura: locaziun d'ina chombra cun ina surfatscha da basa da passa 30 m² inclusiv ina plazza davantvart ed in local sanitar respectivamain d'ina chombra supplementara: fr. 1.00 per m² e di da tgira per la surfatscha da basa che surpassa 30 m²
+- b) supplements individuals per prestaziuns da confort (p.ex. service en la stanza che n'è betg d'attribuir a la malsogna resp. a l'impediment): supplement da 20 pertschient sin ils custs cumplains cumprovads
+- c) per ina dimora da vacanzas che dura main che 4 emnas: fr. 300.00 u fr. 20.00 per di
+
+<sup>2</sup> Ils supplements individuals ston vegnir cumprovads mintgin per sasez e na dastgan betg vegnir incassads generalmain per stgalim dal basegn da tgira. Els ston vegnir fixads en moda clera e chapaivla en ils contracts tranter la chasa da tgira e las abitantas ed ils abitants da la chasa da tgira. I sto er vegnir resguardada la situaziun finanziala da las abitantas e dals abitants da la chasa da tgira, damai ch'ils supplements per l'infrastructura e per il confort individual na vegnan betg finanziads cun contribuziuns da prestaziuns supplementaras.
+
+<sup>3</sup> I n'è betg admess d'incassar ulteriurs supplements.
+
+<sup>4</sup> Betg tar ils supplements individuals na tutgan ils servetschs persunals, sco p.ex. l'attatg da telefon, taxas per discurs al telefon, taxas per la televisiun a cabel, taxas per l'attatg d'internet, transports da taxi e.u.v. Servetschs persunals giavischads da las persunas che retiran prestaziuns pon vegnir mess a quint supplementarmain tenor ils custs chaschunads.
+
+<sup>5</sup> Dals custs renconuschids ston vegnir fatgas almain las suandantas reducziuns:
+
+- a) per chombras dublas e per chombras da trais: fr. 10.00 per di da tgira
+- b) nagin agen local sanitar: fr. 10.00 per di da tgira
+- c) en cas d'absenzas dastgan vegnir mess a quint – a partir da l'emprim di d'absenza – mo ils custs da pensiun minus fr. 15.00 (maximalmain fr. 131.00 per di)
+
+#### Art. A1-4
+
+**Structuras dal di e da la notg da las chasas da persunas attem-padas e da tgira sco er da las gruppas da tgira**
+
+<sup>1</sup> Per la dimora en las structuras dal di u da la notg vegnan renconuschids ils custs tenor la tabella «Custs renconuschids da las chasas da persunas attempadas e da tgira sco er da las gruppas da tgira» sco suonda:
+
+- a) custs da pensiun: — 50%
+- b) custs d'assistenza: — 100%
+
+<sup>2</sup> Sche las persunas che retiran prestaziuns prendan dimora en las structuras dal di u da la notg, ston ellas sa participar sco suonda vi da las contribuziuns menziunadas en la tabella «Custs che dastgan vegnir adossads maximalmain a las abitantas ed als abitants da las chasas da persunas attempadas e da tgira sco er da las gruppas da tgira»:
+
+- a) custs da pensiun: — 50%
+- b) custs d'assistenza: — 100%
+
+## A2 Agiunta 2: Servetschs da la tgira ed assistenza a chasa (art. 20 al. 3)
+
+#### Art. A2-1
+
+**Custs renconuschids dals servetschs da la tgira ed assistenza a chasa**
+
+<sup>1</sup> Prestaziuns da tgira, per ura:
+
+<table>
+<tr><th>Prestader da servetsch</th><th>Prestaziuns OPMa</th><th>Prestaziuns OPMb</th><th>Prestaziuns OPMc</th><th>Media da las prestaziuns da tgira</th></tr>
+<tr><td>Servetschs da la tgira ed assistenza a chasa cun ina incarica da prestaziun communala</td><td>fr. 118.30</td><td>fr. 111.80</td><td>fr. 101.20</td><td>(fr. 105.90)</td></tr>
+<tr><td>Servetschs da la tgira ed assistenza a chasa senza ina incarica da prestaziun communala</td><td>fr. 100.60</td><td>fr. 95.00</td><td>fr. 86.00</td><td>---</td></tr>
+<tr><td>Tgirunzas e tgirunzs diplomads renconu-schids</td><td>---</td><td>---</td><td>---</td><td>fr. 95.30</td></tr>
+</table>
+
+<sup>2</sup> Explicaziuns:
+
+- a) Prestaziuns OPMa: Mesiras dal scleriment, da la cussegliaziun e da la coordinaziun (art. 7 al. 2 lit. a da l'Ordinaziun dal DFI davart las prestaziuns da l'assicuranza obligatorica per la tgira da malsauns [Ordinaziun davart las prestaziuns per la tgira da malsauns, OPM, CS [832.112.31](https://db.clex.ch/link/Bund/832.112.31/rm)])
+- b) Prestaziuns OPMb: Mesiras da la visita medicala e dal tractament (art. 7 al. 2 lit. b OPM)
+- c) Prestaziuns OPMc: Mesiras da la tgira da basa (art. 7 al. 2 lit. c OPM)
+
+<sup>3</sup> Per prestaziuns en connex cun mesiras da la tgira da basa tenor l'art. 7 al. 2 lit. c da l'Ordinaziun dal Departament federal da l'intern (DFI) davart las prestaziuns da l'assicuranza obligatorica per la tgira da malsauns (Ordinaziun davart las prestaziuns per la tgira da malsauns, OPM; CS [832.112.31](https://db.clex.ch/link/Bund/832.112.31/rm)), nua ch'i resultan nagins temps da viadi, vegnan ils custs renconuschids reducids per fr. 14.00 per ura en cas da servetschs cun ina incarica da prestaziun communala e per fr. 11.90 per ura en cas da servetschs senza ina incarica da prestaziun communala.
+
+<sup>4</sup> Autras prestaziuns, per ura:
+
+<table>
+<tr><th>Prestader da servetsch</th><th>Prestaziuns da la tgira acuta e transitorica</th><th>Prestaziuns da tegnair- chasa e d'assistenza</th><th>Servetsch da pasts (per past)</th></tr>
+<tr><td>Servetschs da la tgira ed assistenza a chasa cun ina incarica da prestaziun communala</td><td>fr. 100.00</td><td>fr. 91.50</td><td>fr. 22.90</td></tr>
+<tr><td>Servetschs da la tgira ed assistenza a chasa senza ina incarica da prestaziun communala</td><td>fr. 85.00</td><td>---</td><td>---</td></tr>
+<tr><td>Tgirunzas e tgirunzs diplomads renconu-schids</td><td>fr. 90.00</td><td>---</td><td>---</td></tr>
+</table>
+
+#### Art. A2-2
+
+**Custs che dastgan vegnir adossads maximalmain a la clientella dals servetschs da la tgira ed assistenza a chasa**
+
+<sup>1</sup> Participaziun maximala als custs:
+
+- a) Prestaziuns da tgira, per ura: — fr. 7.70
+- b) Prestaziuns da la tgira acuta e transitorica, per ura: — fr. 0.00
+- c) Prestaziuns da tegnairchasa e d'assistenza, per ura: — fr. 26.00
+- d) Servetsch da pasts, per past: — fr. 14.00
+
+#### Art. A2-3
+
+**Custs renconuschids dal servetsch transitoric palliativ dal Grischun**
+
+<sup>1</sup> Ils custs renconuschids per prestaziuns da tgira importan fr. 350.00 per ura.
+
+## A3 Agiunta 3: Indemnisaziun da la lavur prestada da las praticantas e dals praticants da scolas dals fatgs da sanadad (art. 30 al. 2)
+
+#### Art. A3-1
+
+<sup>1</sup> L'indemnisaziun importa fr. 687.00 per emna da praticum prestada.
 
 2017-051
