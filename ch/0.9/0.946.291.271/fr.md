@@ -3,11 +3,11 @@ sr: "0.946.291.271"
 title: Accord commercial du 5 juillet 1963 entre la Confédération suisse et la République algérienne démocratique et populaire (avec listes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/248_248_248"
 language: fr
-version: 1963-07-01
+version: 2026-10-21
 adopted: 1963-07-05
 in_force: 1963-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/248_248_248/19630701/fr/xml/fedlex-data-admin-ch-eli-cc-1990-248_248_248-19630701-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/248_248_248/19630701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/248_248_248/20261021/fr/xml/fedlex-data-admin-ch-eli-cc-1990-248_248_248-20261021-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/248_248_248/20261021/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Alger le 5 juillet 1963
 
-(État le 1<sup>er</sup> juillet 1963)
+(État le 21 octobre 2026)
 
 Le Gouvernement de la Confédération suisse et le Gouvernement de la République algérienne démocratique et populaire,
 
@@ -72,9 +72,11 @@ Fait à Alger, en deux exemplaires originaux, le 5 juillet 1963.
 <tr><td>Pour le Gouvernement de la Confédération suisse: Marcuard</td><td>Pour le Gouvernement de la République algérienne démocratique et populaire: Bouattoura</td></tr>
 </table>
 
-Liste A
+Liste A[^t-1]
 
 ## Importation en Suisse de produits originaires et en provenance de l’Algérie
+
+[^t-1]: Erratum du 21 oct. 2026, ne concerne que le texte italien ([RO 2026 558](https://fedlex.data.admin.ch/eli/oc/2026/558)).
 
 <table>
 <tr><th></th><th>Contingents annuels en 1000 fr. suisses</th></tr>

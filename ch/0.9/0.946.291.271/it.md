@@ -3,11 +3,11 @@ sr: "0.946.291.271"
 title: Accordo commerciale del 5 luglio 1963 tra la Confederazione Svizzera e la Repubblica algerina democratica e popolare (con elenchi)
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/248_248_248"
 language: it
-version: 1963-07-01
+version: 2026-10-21
 adopted: 1963-07-05
 in_force: 1963-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/248_248_248/19630701/it/xml/fedlex-data-admin-ch-eli-cc-1990-248_248_248-19630701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/248_248_248/19630701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/248_248_248/20261021/it/xml/fedlex-data-admin-ch-eli-cc-1990-248_248_248-20261021-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/248_248_248/20261021/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso ad Algeri il 5 luglio 1963
 
-(Stato 1° luglio 1963)
+(Stato 21 ottobre 2026)
 
 Il Governo della Confederazione Svizzera e il Governo della Repubblica algerina democratica e popolare,
 
@@ -66,15 +66,13 @@ Il presente accordo estende i suoi effetti al Principato del Liechtenstein finta
 
 Il presente accordo estende i suoi effetti dal 1° luglio 1963 al 31 dicembre 1964. Esso è rinnovabile di anno in anno, per tacita riconduzione, per un periodo di un anno, fintantoché l’una o l’altra parte Contraente non l’avrà denunciato per scritto con un preavviso di tre mesi prima della sua scadenza.
 
-Fatto ad Algeri, in due esemplari originali, il 5 luglio 1963.
+Fatto ad Algeri, in due esemplari originali, il 5 luglio 1963. Per il Governo della Confederazione Svizzera: Marcuard Per il Governo della Repubblica algerina democratica e popolare: Bouattoura
 
-<table>
-<tr><td>Per il Governo della Confederazione Svizzera: Marcuard</td><td>Per il Governo della Repubblica algerina democratica e popolare: Bouattoura</td></tr>
-</table>
-
-Elenco A
+Elenco A[^t-1]
 
 ## Importazione in Svizzera di prodotti originari dell’Algeria e provenienti dalla stessa
+
+[^t-1]: Aggiornato dalla correzione del 21 ott. 2026 ([RU 2026 558](https://fedlex.data.admin.ch/eli/oc/2026/558)).
 
 <table>
 <tr><th></th><th>Contingenti annui in 1000 fr. svizzeri</th></tr>
@@ -83,7 +81,7 @@ Elenco A
 </table>
 
 <table>
-<tr><th></th><th>Valori indicativi in 100 fr. svizzeri</th></tr>
+<tr><th></th><th>Valori indicativi in 1000 fr. svizzeri</th></tr>
 <tr><td>Prodotti la cui importazione è controllata</td><td></td></tr>
 <tr><td>Verdura e frutta fresca o refrigerata</td><td>3000[^annexu1-lvlu1-1]</td></tr>
 <tr><td>Prodotti liberati</td><td></td></tr>

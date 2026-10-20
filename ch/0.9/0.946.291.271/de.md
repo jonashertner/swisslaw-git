@@ -3,11 +3,11 @@ sr: "0.946.291.271"
 title: Handelsabkommen vom 5. Juli 1963 zwischen der Schweizerischen Eidgenossenschaft und der Algerischen demokratischen Volksrepublik (mit Listen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/248_248_248"
 language: de
-version: 1963-07-01
+version: 2026-10-21
 adopted: 1963-07-05
 in_force: 1963-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/248_248_248/19630701/de/xml/fedlex-data-admin-ch-eli-cc-1990-248_248_248-19630701-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/248_248_248/19630701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/248_248_248/20261021/de/xml/fedlex-data-admin-ch-eli-cc-1990-248_248_248-20261021-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/248_248_248/20261021/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1990** 248
 
 Abgeschlossen in Algier am 5. Juli 1963
 
-(Stand am 1. Juli 1963)
+(Stand am 21. Oktober 2026)
 
 Die Regierung der Schweizerischen Eidgenossenschaft und die Regierung der Algerischen demokratischen Volksrepublik,
 
@@ -72,9 +72,11 @@ Geschehen in Algier in doppelter Ausfertigung am 5. Juli 1963.
 <tr><td>Für die Regierung der Schweizerischen Eidgenossenschaft: Marcuard</td><td>Für die Regierung der Algerischen demokratischen Volksrepublik: Bouattoura</td></tr>
 </table>
 
-Liste A
+Liste A[^t-1]
 
 ## Einfuhr von Waren algerischen Ursprungs und algerischer Herkunft in der Schweiz
+
+[^t-1]: Die Berichtigung vom 21. Okt. 2026 betrifft nur den italienischen Text ([AS 2026 558](https://fedlex.data.admin.ch/eli/oc/2026/558)).
 
 <table>
 <tr><th></th><th>jährliche Kontingente in 1000 Fr.</th></tr>
