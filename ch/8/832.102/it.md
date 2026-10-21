@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2026-08-01
+version: 2026-10-22
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260801/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20261022/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20261022-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20261022/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° agosto 2026)
+del 27 giugno 1995 (Stato 22 ottobre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -99,11 +99,11 @@ Non sono soggetti all’obbligo d’assicurazione:
 
 <sup>2</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone obbligatoriamente assicurate contro le malattie in virtù del diritto di uno Stato con il quale non sussiste alcuna normativa concernente la delimitazione dell’obbligo di assicurazione, se l’assoggettamento all’assicurazione svizzera costituirebbe un doppio onere e se esse beneficiano di una copertura assicurativa equivalente per le cure in Svizzera. Alla domanda va accluso un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie.[^2-12]
 
-<sup>3</sup> ...[^2-13]
+<sup>3</sup> …[^2-13]
 
 <sup>4</sup> A domanda, sono esentate dall’obbligo di assicurazione le persone che soggiornano in Svizzera nell’ambito di una formazione o di un perfezionamento, quali studenti, allievi, praticanti e stagisti, come pure i familiari ai sensi dell’articolo 3 capoverso 2 che li accompagnano, purché durante l’intera durata di validità dell’esenzione beneficino di una copertura assicurativa equivalente per le cure in Svizzera.[^2-14] La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’autorità cantonale competente può esonerare queste persone dall’obbligo di assicurarsi per al massimo tre anni. A domanda, l’esenzione può essere prolungata di altri tre anni al massimo. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-15]
 
-<sup>4bis</sup> ...[^2-16]
+<sup>4bis</sup> …[^2-16]
 
 <sup>5</sup> Su domanda, sono esentati dall’obbligo d’assicurazione i lavoratori distaccati in Svizzera non tenuti a pagare i contributi dell’assicurazione per la vecchiaia, i superstiti e l’invalidità (AVS/AI) in virtù di una convenzione internazionale di sicurezza sociale come pure i loro familiari ai sensi dell’articolo 3 capoverso 2, se il datore di lavoro provvede affinché durante l’intera durata di validità dell’esenzione siano almeno coperte le prestazioni secondo la LAMal per le cure in Svizzera. Questa norma si applica per analogia ad altre persone non tenute a pagare contributi dell’AVS/AI in caso di soggiorno temporaneo in Svizzera in virtù di un’autorizzazione prevista da una convenzione internazionale. L’interessato e il suo datore di lavoro non può revocare l’esenzione o la rinuncia all’esenzione.[^2-17]
 
@@ -346,9 +346,9 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 ### Titolo 2: Organizzazione
 
-### Capitolo 1: ...
+### Capitolo 1: …
 
-#### Art. 12 a 15
+#### Art. 12–15
 
 [^1215-1]
 
@@ -360,9 +360,9 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 [^15a-1]: Introdotto dalla cifra I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### Capitolo 2: ...
+### Capitolo 2: …
 
-#### Art. 16 a 18
+#### Art. 16–18
 
 [^1618-1]
 
@@ -414,7 +414,7 @@ L’istituzione comune assume inoltre compiti di coordinamento per l’adempimen
 
 [^19b-1]: Introdotto dalla cifra I dell’O del 26 apr. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-#### Art. 20 e 21
+#### Art. 20–21
 
 [^2021-1]
 
@@ -468,9 +468,9 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 
 ### Capitolo 5: Vigilanza
 
-### Sezione 1: ...
+### Sezione 1: …
 
-#### Art. 24 a 26
+#### Art. 24–26
 
 [^2426-1]
 
@@ -1169,7 +1169,7 @@ I chiropratici sono autorizzati se adempiono le seguenti condizioni:
 - a. disporre di un’autorizzazione cantonale a esercitare la professione di chiropratico conformemente all’articolo 34 LPMed[^44-2];
 - b. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.[^44-3]
 
-<sup>2</sup> ...[^44-4]
+<sup>2</sup> …[^44-4]
 
 <sup>3</sup> Sono fatte salve le disposizioni relative all’applicazione di radiazioni ionizzanti in chiropratica, segnatamente l’articolo 182 capoverso 1 lettera d dell’ordinanza del 26 aprile 2017[^44-5] sulla radioprotezione nonché le relative disposizioni d’esecuzione del Dipartimento federale dell’interno.[^44-6]
 
@@ -1475,11 +1475,12 @@ Le organizzazioni di logopedia sono autorizzate se adempiono le seguenti condizi
 
 - a. essere autorizzate ai sensi della legislazione del Cantone nel quale esercitano la loro attività;
 - b. avere delimitato il loro campo d’attività in relazione al luogo e all’orario degli interventi, alle prestazioni fornite e ai pazienti ai quali forniscono le prestazioni;
-- c. fornire le loro prestazioni facendo ricorso a personale che adempie le condizioni dell’articolo 50 lettere a e b;
+- c.[^52b-2] fornire le loro prestazioni facendo ricorso a personale che adempie le condizioni dell’articolo 50a lettere a–c;
 - d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
 - e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g*.
 
 [^52b-1]: Introdotto dalla cifra I dell’O del 4 lug. 2012 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nuovo testo giusta la cifra I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52b-2]: Correzione del 22 ott. 2026 ([RU 2026 560](https://fedlex.data.admin.ch/eli/oc/2026/560)).
 
 #### Art. 52c
 
@@ -1547,7 +1548,7 @@ Sono autorizzati quali laboratori gli istituti che:
 
 - a. eseguono analisi mediche;
 - b. sono autorizzati giusta il diritto cantonale;
-- c.[^53-1] ...
+- c.[^53-1] …
 - d. adempiono le altre condizioni stabilite per i laboratori dalla legislazione della Confederazione o del Cantone;
 - e.[^53-2] dispongono di un’autorizzazione corrispondente di Swissmedic, se eseguono analisi per la diagnosi di malattie trasmissibili;
 - e<sup>bis</sup>.[^53-3] dispongono di una corrispondente autorizzazione dell’UFSP se eseguono esami citogenetici o genetico-molecolari;
@@ -2142,7 +2143,7 @@ Il DFI designa le analisi che:
 - b. possono essere prescritte dai chiropratici conformemente all’articolo 25 capoverso 2 lettera b LAMal;
 - c. possono essere prescritte dalle levatrici conformemente all’articolo 29 capoverso 2 lettera a LAMal.
 
-<sup>2</sup> ...[^62-2]
+<sup>2</sup> …[^62-2]
 
 [^62-1]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2000, in vigore dal 1° apr. 2000 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
 [^62-2]: Abrogato dalla cifra I dell’O del 4 giu. 2021, con effetto dal 1° ott. 2021 ([RU 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
@@ -2604,7 +2605,7 @@ Un medicamento iscritto nell’elenco delle specialità è radiato se:
 - f.[^68-4] il titolare dell’omologazione si rifiuta di presentare i documenti necessari ai riesami di cui agli articoli 65*d*–65*g*;
 - g.[^68-5] il titolare dell’omologazione si rifiuta di restituire le eccedenze conseguite secondo l’articolo 67*a*.
 
-<sup>2</sup> ...[^68-6]
+<sup>2</sup> …[^68-6]
 
 [^68-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4245](https://fedlex.data.admin.ch/eli/oc/2009/520)).
 [^68-2]: Introdotta dalla cifra I dell’O del 26 giu. 2002 ([RU 2002 2129](https://fedlex.data.admin.ch/eli/oc/2002/316)). Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1255](https://fedlex.data.admin.ch/eli/oc/2015/258)).
@@ -2863,7 +2864,7 @@ L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi di un 
 
 <sup>1</sup> L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi del medicamento soltanto previa garanzia speciale dell’assicuratore e previa consultazione del medico di fiducia.
 
-<sup>2</sup> ...[^71d-2]
+<sup>2</sup> …[^71d-2]
 
 <sup>3</sup> Se la domanda di garanzia di assunzione dei costi è completa, l’assicuratore decide in merito entro due settimane.
 
@@ -3387,7 +3388,7 @@ Basandosi su tale esame, presenta al Consiglio federale un rapporto:
 
 ### Titolo 5: Finanziamento
 
-### Capitolo 1: ...
+### Capitolo 1: …
 
 #### Art. 78
 
@@ -3395,7 +3396,7 @@ Basandosi su tale esame, presenta al Consiglio federale un rapporto:
 
 [^78-1]: Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-#### Art. 78a a 78c
+#### Art. 78a–78c
 
 [^78a78c-1]
 
@@ -3413,13 +3414,13 @@ Basandosi su tale esame, presenta al Consiglio federale un rapporto:
 
 [^80-1]: Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-#### Art. 80aa 80i
+#### Art. 80a–80i
 
 [^80a80i-1]
 
 [^80a80i-1]: Introdotto dalla cifra I dell’O del 3 dic. 2010 ([RU 2010 6155](https://fedlex.data.admin.ch/eli/oc/2010/878)). Abrogati dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-#### Art. 81 a 85
+#### Art. 81–85
 
 [^8185-1]
 
@@ -3431,7 +3432,7 @@ Basandosi su tale esame, presenta al Consiglio federale un rapporto:
 
 [^85a-1]: Introdotto dalla cifra I dell’O del 6 giu. 2003 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)). Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-#### Art. 86 a 88
+#### Art. 86–88
 
 [^8688-1]
 
@@ -3512,7 +3513,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 **Riduzione dei premi per assoggettamento a un’altra assicurazione**[^91a-1]
 
-<sup>1</sup> ...[^91a-2]
+<sup>1</sup> …[^91a-2]
 
 <sup>2</sup> Gli assicuratori riducono, per la durata della copertura degli infortuni, i premi dell’assicurazione obbligatoria delle cure medico-sanitarie delle persone che hanno concluso un’assicurazione obbligatoria secondo la LAINF[^91a-3].[^91a-4]
 
@@ -3568,7 +3569,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 Se l’assicurato risiede all’estero, l’assicuratore riscuote i premi in franchi svizzeri oppure in euro. L’assicuratore può riscuotere questi premi trimestralmente, senza il consenso dell’assicurato.
 
-#### Art. 92b e 92c
+#### Art. 92b–92c
 
 [^92b92c-1]
 
@@ -3645,11 +3646,11 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 <sup>1bis</sup> Gli assicuratori stabiliscono l’ammontare della riduzione del premio in base alle esigenze attuariali. Si attengono alle riduzioni massime dei premi stabilite nel capoverso 2<sup>bis</sup> e nell’articolo 90*c*.[^95-1]
 
-<sup>2</sup> ...[^95-2]
+<sup>2</sup> …[^95-2]
 
 <sup>2bis</sup> La riduzione dei premi per anno civile non deve superare il 70 per cento del rischio di partecipare ai costi assunto dagli assicurati che hanno scelto una franchigia più elevata.[^95-3]
 
-<sup>3</sup> ...[^95-4]
+<sup>3</sup> …[^95-4]
 
 [^95-1]: Introdotto dalla cifra I dell’O del 23 feb. 2000 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)). Nuovo testo giusta la cifra I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^95-2]: Abrogato dalla cifra I dell’O del 26 apr. 2006, con effetto dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
@@ -4199,7 +4200,7 @@ I Cantoni e gli assicuratori assumono i costi derivanti dall’applicazione dell
 
 ## Parte seconda: Assicurazione facoltativa d’indennità giornaliera
 
-#### Art. 107 e 108
+#### Art. 107–108
 
 [^107108-1]
 
@@ -4350,9 +4351,9 @@ Trattandosi di prestazioni in natura, vi è sovrindennizzo nella misura in cui, 
 
 [^122-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-### Titolo 2: ...
+### Titolo 2: …
 
-#### Art. 123 a 126
+#### Art. 123–126
 
 [^123126-1]
 
@@ -4372,7 +4373,7 @@ L’assicuratore è tenuto a emanare entro 30 giorni le decisioni richieste seco
 
 [^127-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-#### Art. 128 e 129
+#### Art. 128–129
 
 [^128129-1]
 
@@ -4537,9 +4538,9 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 <sup>3</sup> Gli articoli 65–65*c* nonché 66*a* si applicano ai medicamenti che sono stati ammessi nell’elenco delle specialità prima dell’entrata in vigore della presente modifica.
 
-<sup>4</sup> ...[^u10-3]
+<sup>4</sup> …[^u10-3]
 
-<sup>5</sup> ...[^u10-4]
+<sup>5</sup> …[^u10-4]
 
 [^u10-2]: [RU 2001 138](https://fedlex.data.admin.ch/eli/oc/2001/31)
 [^u10-3]: Abrogato dalla cifra I dell’O del 27 giu. 2007, con effetto dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
@@ -4679,7 +4680,7 @@ Se un beneficiario del soccorso d’emergenza oggetto di una decisione in materi
 
 [^u20-1]: [RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)
 
-Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’entrata in vigore della modifica del ...[^u20-2] dell’allegato K dell’Accordo AELS[^u20-3].
+Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’entrata in vigore della modifica del …[^u20-2] dell’allegato K dell’Accordo AELS[^u20-3].
 
 [^u20-2]: RU **2012** …
 [^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
@@ -4922,8 +4923,8 @@ Sono abrogate:
 [^annex2-lvlu1-lvl1-8]: [[RU 1968 1282](https://fedlex.data.admin.ch/eli/oc/1968/1318_1366_1282), [1982 2178](https://fedlex.data.admin.ch/eli/oc/1982/2178_2178_2178), [1984 1486](https://fedlex.data.admin.ch/eli/oc/1984/1486_1486_1486), [1986 89](https://fedlex.data.admin.ch/eli/oc/1986/89_89_89), [1988 1563](https://fedlex.data.admin.ch/eli/oc/1988/1563_1563_1563)]
 [^annex2-lvlu1-lvl1-9]: [[RU 1989 2430](https://fedlex.data.admin.ch/eli/oc/1989/2430_2430_2430)]
 
-### 2. a 10.
+### 2.–10.
 
-...[^annex2-lvlu1-lvl2-1]
+…[^annex2-lvlu1-lvlu2-1]
 
-[^annex2-lvlu1-lvl2-1]: Le mod. possono essere consultate alla [RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867).
+[^annex2-lvlu1-lvlu2-1]: Le mod. possono essere consultate alla [RU 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867).

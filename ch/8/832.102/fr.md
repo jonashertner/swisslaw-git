@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2026-08-01
+version: 2026-10-22
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20261022/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20261022-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20261022/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> août 2026)
+du 27 juin 1995 (État le 22 octobre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1476,11 +1476,12 @@ Les organisations de logopédistes-orthophonistes sont admises si elles rempliss
 
 - a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
 - b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
-- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 50, let. a à c;
+- c.[^52b-2] fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 50, let. a à c;
 - d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
 - e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*
 
 [^52b-1]: Introduit par le ch. I de l’O du 4 juil. 2012 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52b-2]: Erratum du 22 oct. 2026, ne concerne que le texte italien ([RO 2026 560](https://fedlex.data.admin.ch/eli/oc/2026/560)).
 
 #### Art. 52c
 
@@ -4932,6 +4933,6 @@ Sont abrogées:
 
 ### 2. à 10.
 
-…[^annex2-lvlu1-lvl2-1]
+…[^annex2-lvlu1-lvlu2-1]
 
-[^annex2-lvlu1-lvl2-1]: Les mod. peuvent être consultées au [RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867).
+[^annex2-lvlu1-lvlu2-1]: Les mod. peuvent être consultées au [RO 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867).

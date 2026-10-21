@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2026-08-01
+version: 2026-10-22
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260801/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20261022/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20261022-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20261022/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260801/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. August 2026)
+vom 27. Juni 1995 (Stand am 22. Oktober 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -824,7 +824,7 @@ Das Eidgenössische Departement des Innern (EDI) bezeichnet nach Anhören der zu
 [^33-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 2).
 [^33-3]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 2).
 [^33-4]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)Ziff. II 2).
-[^33-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 (AS **20****26** 347).
+[^33-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2026, in Kraft seit 1. Aug. 2026 ([AS 2026 347](https://fedlex.data.admin.ch/eli/oc/2026/347)).
 
 #### Art. 34
 
@@ -1478,11 +1478,12 @@ Organisationen der Logopädie werden zugelassen, wenn sie die folgenden Vorausse
 
 - a. Sie sind nach der Gesetzgebung des Kantons zugelassen, in dem sie ihre Tätigkeit ausüben.
 - b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
-- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50 Buchstaben a–c erfüllen.
+- c.[^52b-2] Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50 Buchstaben a–c erfüllen.
 - d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
 - e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
 
 [^52b-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^52b-2]: Die Berichtigung vom 22. Okt. 2026 betrifft nur den italienischen Text ([AS 2026 560](https://fedlex.data.admin.ch/eli/oc/2026/560)).
 
 #### Art. 52c
 
@@ -4928,6 +4929,6 @@ Es werden aufgehoben:
 
 ### 2.‒10.
 
-…[^annex2-lvlu1-lvl2-1]
+…[^annex2-lvlu1-lvlu2-1]
 
-[^annex2-lvlu1-lvl2-1]: Die Änderungen können unter [AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)konsultiert werden.
+[^annex2-lvlu1-lvlu2-1]: Die Änderungen können unter [AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)konsultiert werden.
