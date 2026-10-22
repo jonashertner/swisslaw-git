@@ -3,20 +3,19 @@ canton: SH
 number: "923.101"
 title: Verordnung über die Fischerei
 language: de
-version: 2026-05-01
-valid_until: 2026-10-22
-version_adopted: 2026-04-07
+version: 2026-10-23
+version_adopted: 2026-10-20
 adopted: 1993-11-30
 in_force: 1994-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/923.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2081/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2133/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Fischerei
 
-Vom 30.11.1993 (Stand 01.05.2026)
+Vom 30.11.1993 (Stand 23.10.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -379,7 +378,7 @@ beschliesst:
 <sup>1</sup> Für die nachstehend angeführten Fischarten werden folgende Schonzeiten festgesetzt:
 
 - a) Forellen (einschliesslich Regenbogenforellen): 1. Oktober bis Ende Februar
-- b) Äschen: 1. Februar bis 30. April
+- b) Äschen: ganzjährig
 - c) Felchen: 15. November bis 31. Dezember
 - d) Hechte (nur unterhalb des Rheinfalls): 1. März bis 30. April
 - e) Zander: 1. April bis 31. Mai
@@ -397,7 +396,7 @@ beschliesst:
 - a) Forellen (einschliesslich Regenbogenforellen):
   - 1\. in Bächen: — 22 cm
   - 2\. in andern Gewässern: — 30 cm
-- b) Äschen: — 30 cm
+- b) …
 - c) Felchen: — 25 cm
 - d) Hechte: — 45 cm
 - e) Zander: — 40 cm
