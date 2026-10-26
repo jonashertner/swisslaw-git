@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Not official: cite the law by its official publication (AS/BBl, the cantons' collections). Cite this repository as below."
+type: dataset
+title: "Schweizer Recht – Swiss federal and cantonal law as a git repository"
+abstract: "Every federal act in force and the law of 24 cantons as Markdown, one file per act and language, one commit per version dated on the day it applies, since 2021."
+authors:
+  - family-names: Hertner
+    given-names: Jonas
+    website: "https://jonashertner.com"
+repository-code: "https://github.com/jonashertner/swisslaw-git"
+url: "https://jonashertner.github.io/swiss-law-graph/"
+license: CC0-1.0
+version: "2026-10-27"
+date-released: "2026-10-27"
+keywords:
+  - Swiss law
+  - legislation
+  - Fedlex
+  - cantonal law
+  - git
