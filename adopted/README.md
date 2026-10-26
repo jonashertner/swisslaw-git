@@ -152,7 +152,7 @@ Stand 27. Oktober 2026. Erlasse der Amtlichen Sammlung (AS), die veröffentlicht
 
 ## Künftige konsolidierte Fassungen (Branch `future`)
 
-Fassungen, die Bund und Kantone bereits konsolidiert veröffentlichen, die aber erst später gelten: Bund 219, AG 13, AI 4, AR 3, BE 8, BL 2, BS 7, FR 14, GL 18, GR 5, LU 13, NW 6, OW 3, SG 9, SH 13, SO 7, TG 5, VD 10, VS 5. `git checkout future` zeigt sie im Text.
+Fassungen, die Bund und Kantone bereits konsolidiert veröffentlichen, die aber erst später gelten: Bund 219, AG 13, AI 4, AR 3, BE 8, BL 2, BS 8, FR 14, GL 18, GR 5, LU 13, NW 6, OW 3, SG 9, SH 13, SO 8, TG 5, VD 10, VS 5. `git checkout future` zeigt sie im Text.
 
 | Gilt ab | Erlass | Datei (future) |
 |:---|:---|:---|
@@ -214,6 +214,7 @@ Fassungen, die Bund und Kantone bereits konsolidiert veröffentlichen, die aber 
 | 2026-11-01 | SR 951.131 NBV | [ch/9/951.131](../../../tree/future/ch/9/951.131) |
 | 2026-11-02 | GR 170.310 RVOV | [cantons/gr/1/170.310](../../../tree/future/cantons/gr/1/170.310) |
 | 2026-11-02 | SH 143.112 Ausweisverordnung | [cantons/sh/1/143.112](../../../tree/future/cantons/sh/1/143.112) |
+| 2026-11-03 | BS 952.300 Zufahrtsverordnung | [cantons/bs/9/952.300](../../../tree/future/cantons/bs/9/952.300) |
 | 2026-11-05 | SR 360.2 Verordnung vom 15. Oktober 2008 über das Nationale Ermittlun… | [ch/3/360.2](../../../tree/future/ch/3/360.2) |
 | 2026-11-05 | SR 361.2 Verordnung vom 15. Oktober 2008 über das informatisierte Per… | [ch/3/361.2](../../../tree/future/ch/3/361.2) |
 | 2026-11-05 | SR 361.6 GuAV | [ch/3/361.6](../../../tree/future/ch/3/361.6) |
@@ -487,6 +488,7 @@ Fassungen, die Bund und Kantone bereits konsolidiert veröffentlichen, die aber 
 | 2027-08-01 | LU 506 Reglement für die Maturitätsprüfungen im Kanton Luzern | [cantons/lu/5/506](../../../tree/future/cantons/lu/5/506) |
 | 2027-08-01 | SH 410.401 Lehrerverordnung | [cantons/sh/4/410.401](../../../tree/future/cantons/sh/4/410.401) |
 | 2027-08-01 | SH 410.403 Berufseinführungsverordnung | [cantons/sh/4/410.403](../../../tree/future/cantons/sh/4/410.403) |
+| 2027-08-01 | SO 414.114 Gymnasiumsverordnung; GymV | [cantons/so/4/414.114](../../../tree/future/cantons/so/4/414.114) |
 | 2027-08-16 | BS 413.820 Maturitätsprüfungsverordnung, MPV | [cantons/bs/4/413.820](../../../tree/future/cantons/bs/4/413.820) |
 | 2027-08-16 | BS 460.200 Verordnung über die Maturitätskurse für Berufstätige | [cantons/bs/4/460.200](../../../tree/future/cantons/bs/4/460.200) |
 | 2027-08-16 | BS 460.220 Verordnung über die Abschlussprüfungen der Maturitätskurse f… | [cantons/bs/4/460.220](../../../tree/future/cantons/bs/4/460.220) |

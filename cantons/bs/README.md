@@ -1,6 +1,6 @@
 # Kanton Basel-Stadt · Bâle-Ville
 
-983 Erlasse in Kraft am 27. Oktober 2026 · 1 aus dem PDF gelesen · [Kantone](../README.md)
+986 Erlasse in Kraft am 27. Oktober 2026 · 1 aus dem PDF gelesen · [Kantone](../README.md)
 
 | Nummer | Abkürzung | Titel | Sprachen |
 |:---|:---|:---|:---|
@@ -548,6 +548,9 @@
 | 731.150.135 | BP 135 | Bebauungsplan 135: Basel Bahnhof SBB Masterplan / Peter Merian-Strasse / Nauenstrasse / Münchensteinerstrasse / Gleisareal | [de](7/731.150.135/de.md) |
 | 731.150.136 | BP 136 | Bebauungsplan 136: Basel Pax-Areal / St. Alban-Anlage / Malzgasse / Aeschenplatz | [de](7/731.150.136/de.md) |
 | 731.150.138 | BP 138 | Bebauungsplan 138: Basel Peter Merian-Strasse / Nauenstrasse / Münchensteinerstrasse / Gleisareal / Bahnhof SBB Masterplan / Gundeli-Passerelle / Lindenhofstrasse | [de](7/731.150.138/de.md) |
+| 731.150.140 | BP 140 | Bebauungsplan 140: Basel Burgfelderstrasse / Waldighoferstrasse / Theodor Herzl-Strasse | [de](7/731.150.140/de.md) |
+| 731.150.142 | BP 142 | Bebauungsplan 142: Basel Grenzacherstrasse / Burgweg / Alemannengasse und Fischerweg (ehemalige Brauerei Warteck) | [de](7/731.150.142/de.md) |
+| 731.150.143 | BP 143 | Bebauungsplan 143: Basel Dreirosen-Schulhaus (Anlage) / Breisacherstrasse / Klybeckstrasse / Dreirosen-Anlage | [de](7/731.150.143/de.md) |
 | 731.150.165 | BP 165 | Bebauungsplan 165: Basel Bahnhof St. Johann / Voltastrasse | [de](7/731.150.165/de.md) |
 | 731.150.226.A | BP 226.A | Bebauungsplan 226.A: Basel Bereich Lysbüchelstrasse, Elsässerstrasse (Areal VoltaNord) | [de](7/731.150.226.A/de.md) |
 | 731.150.226.B | BP 226.B | Bebauungsplan 226.B: Basel Lysbüchelstrasse / Elsässerstrasse / Gleisanlage (Areal VoltaNord) | [de](7/731.150.226.B/de.md) |

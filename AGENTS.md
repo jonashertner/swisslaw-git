@@ -2,7 +2,7 @@
 
 Swiss federal law and the law of the cantons, as Markdown: one file per act and language, one commit per version, each
 commit dated 00:00 Europe/Zurich on the day its version applies (2021-01-01 to 2026-10-27). Not official: the official
-publication (AS/BBl for the Confederation, the canton's collection) is authoritative. 39,330 files, 22,529 acts and
+publication (AS/BBl for the Confederation, the canton's collection) is authoritative. 39,333 files, 22,532 acts and
 drafts in the last tree of `main`.
 
 ## Find a file without opening it: `index.csv`, `index.jsonl`
@@ -36,9 +36,14 @@ One row per file of the last tree of `main` (the same rows in both files; `futur
 | `consultations/<year>/<nr>/` | federal consultation drafts from their opening; `status: Vernehmlassung abgeschlossen` once closed |
 | `README.md` in each directory | human-readable lists |
 
-Branches and tags: `main` = the law as it applied each day up to 2026-10-27; `future` = `main` plus versions already
-published for a later day; `stand/YYYY-MM-01` = the law on the first of every month (the law only: README and indexes
-are in the last commit).
+Branches and tags: `main` = the law as it applied each day up to 2026-10-27, extended twice a week by
+`.github/workflows/update.yml` and never rewritten; `future` = `main` plus versions already published for a later day,
+rebuilt on every run (do not build on it); `stand/YYYY-MM-01` = the law on the first of every month (the law only:
+README and indexes are in the last commit). Dates: a commit's author date is the day its version applies from; its
+committer date is the day this repository shows it from. Up to 2026-10-27 both are the same; since then a version
+published only after the day it applies from arrives with the next run (author date: that day; committer date: the
+first day of the run's window). `git rev-list -1 --before=<day> main` is the state this repository showed on that day;
+`git log --format='%ad %s'` lists when each version applies.
 
 ## Inside a file
 

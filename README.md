@@ -9,7 +9,7 @@ Das Recht des Bundes und der Kantone als Git-Repository: jeder Erlass eine Datei
 |  | Erlasse | Fassungen seit 2021 |
 |:---|---:|---:|
 | [Bundesrecht](ch/README.md) · Landesrecht und Staatsverträge | 5'338 | 11'674 |
-| [Kantonales Recht](cantons/README.md) · 24 Kantone | 16'437 | 30'874 |
+| [Kantonales Recht](cantons/README.md) · 24 Kantone | 16'440 | 30'877 |
 | [Beschlossen, noch nicht in Kraft](adopted/README.md) · AS und Referendumsvorlagen | 145 | |
 | [Vernehmlassungen](consultations/README.md) · Entwürfe des Bundes, 22 offen | 609 | |
 
@@ -60,7 +60,7 @@ Jeder Artikel ist eine Überschrift und damit verlinkbar: [`ch/2/220/de.md#art-4
 | `consultations/<year>/<nr>/` | Vernehmlassungsvorlagen des Bundes, ab Eröffnung; nach dem Ende der Frist «abgeschlossen» |
 | `index.csv`, `index.jsonl` | jede Datei mit Nummer, Titel, Fassung und Quelle |
 
-`main` gilt bis heute; `future` enthält zusätzlich die bereits veröffentlichten künftigen Fassungen; Tags `stand/JJJJ-MM-01` den Stand jedes Monatsersten.
+`main` gilt bis heute und wird zweimal pro Woche ergänzt, nie umgeschrieben; `future` enthält zusätzlich die bereits veröffentlichten künftigen Fassungen und wird bei jedem Lauf neu aufgebaut; Tags `stand/JJJJ-MM-01` den Stand jedes Monatsersten. Autor-Datum eines Commits = Tag, ab dem die Fassung gilt; Commit-Datum = Tag, ab dem dieses Repository sie zeigt (eine erst danach veröffentlichte Fassung folgt mit dem nächsten Lauf).
 
 **Eine Datei**: Kopf (YAML): Nummer, Titel, Kurztitel, Sprache, Fassung (gilt ab), Beschluss, Inkrafttreten, Quelle; Titel, Ingress, Gliederung als Überschriften, jeder Artikel `#### Art. N`; jeder Absatz eine Zeile (`<sup>1</sup> …`), damit Diffs und `blame` genau sind; Fussnoten (Änderungen mit Fundstelle) gleich nach ihrem Artikel; Tabellen als HTML.
 
@@ -73,10 +73,10 @@ Jeder Artikel ist eine Überschrift und damit verlinkbar: [`ch/2/220/de.md#art-4
 | Quelle | Dateien | Wörter der Quelle | fehlen |
 |:---|---:|---:|---:|
 | Bund (Fedlex, XML) | 37'274 | 333'497'234 | 703 |
-| Kantone, LexWork (strukturiert) | 27'846 | 68'800'929 | 343 |
+| Kantone, LexWork (strukturiert) | 27'851 | 68'803'393 | 343 |
 | Kantone, LexWork (aus dem PDF gelesen) | 5'883 | 14'192'665 | 113 |
 | Waadt (BLV) | 3'452 | 5'910'511 | 22 |
-| Genf, Neuenburg (SIL) | 1'687 | 4'374'100 | 13 |
+| Genf, Neuenburg (SIL) | 1'687 | 4'374'185 | 13 |
 | Zürich (aus dem PDF gelesen) | 1'786 | 5'275'451 | 17 |
 | Jura (aus dem PDF gelesen) | 855 | 1'653'093 | 467 |
 | AS und BBl (XML) | 7'695 | 13'006'466 | 189 |

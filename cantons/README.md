@@ -1,6 +1,6 @@
 # Kantonales Recht · Droit cantonal · Diritto cantonale
 
-16'437 Erlasse in Kraft am 27. Oktober 2026, 24 Kantone in der Reihenfolge der Bundesverfassung (Art. 1 BV). [Schweizer Recht](../README.md)
+16'440 Erlasse in Kraft am 27. Oktober 2026, 24 Kantone in der Reihenfolge der Bundesverfassung (Art. 1 BV). [Schweizer Recht](../README.md)
 
 | Kanton | Erlasse | Fassungen seit 2021 | Quelle | Geschichte |
 |:---|---:|---:|:---|:---|
@@ -15,7 +15,7 @@
 | [ZG · Zug](zg/README.md) | 686 | 1'067 | LexWork | jede Fassung seit 2021 |
 | [FR · Fribourg](fr/README.md) | 812 | 1'735 | LexWork | jede Fassung seit 2021 |
 | [SO · Solothurn](so/README.md) | 539 | 905 | LexWork | jede Fassung seit 2021 |
-| [BS · Basel-Stadt](bs/README.md) | 983 | 1'618 | LexWork | jede Fassung seit 2021 |
+| [BS · Basel-Stadt](bs/README.md) | 986 | 1'621 | LexWork | jede Fassung seit 2021 |
 | [BL · Basel-Landschaft](bl/README.md) | 860 | 1'647 | LexWork | jede Fassung seit 2021 |
 | [SH · Schaffhausen](sh/README.md) | 432 | 998 | LexWork | jede Fassung seit 2021 |
 | [AR · Appenzell Ausserrhoden](ar/README.md) | 332 | 469 | LexWork | jede Fassung seit 2021 |

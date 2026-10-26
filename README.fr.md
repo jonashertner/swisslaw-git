@@ -9,7 +9,7 @@ Le droit de la Confédération et des cantons en dépôt Git : chaque acte un fi
 |  | Actes | Versions depuis 2021 |
 |:---|---:|---:|
 | [Droit fédéral](ch/README.md) · droit interne et traités | 5 338 | 11 674 |
-| [Droit cantonal](cantons/README.md) · 24 cantons | 16 437 | 30 874 |
+| [Droit cantonal](cantons/README.md) · 24 cantons | 16 440 | 30 877 |
 | [Adopté, pas encore en vigueur](adopted/README.md) · RO et projets soumis au référendum | 145 | |
 | [Consultations](consultations/README.md) · projets de la Confédération, 22 ouvertes | 609 | |
 
@@ -60,7 +60,7 @@ Chaque article est un titre, donc un lien : [`ch/2/220/fr.md#art-41`](ch/2/220/f
 | `consultations/<year>/<nr>/` | projets mis en consultation par la Confédération, dès l’ouverture ; « clos » après le délai |
 | `index.csv`, `index.jsonl` | chaque fichier avec numéro, titre, version et source |
 
-`main` vaut jusqu’à aujourd’hui ; `future` contient en plus les versions futures déjà publiées ; les tags `stand/AAAA-MM-01` l’état au premier de chaque mois.
+`main` vaut jusqu’à aujourd’hui et s’enrichit deux fois par semaine, sans jamais être réécrite ; `future` contient en plus les versions futures déjà publiées et est reconstruite à chaque mise à jour ; les tags `stand/AAAA-MM-01` l’état au premier de chaque mois. Date d’auteur d’un commit = jour dès lequel la version s’applique ; date de commit = jour dès lequel ce dépôt la montre (une version publiée plus tard suit avec la mise à jour suivante).
 
 **Un fichier** : en-tête (YAML) : numéro, titre, titre abrégé, langue, version (dès le), adoption, entrée en vigueur, source ; titre, préambule, structure en titres, chaque article `#### Art. N` ; chaque alinéa sur une ligne (`<sup>1</sup> …`), pour des diffs et un `blame` exacts ; notes (modifications avec leur référence) juste après leur article ; tableaux en HTML.
 
@@ -73,10 +73,10 @@ Chaque article est un titre, donc un lien : [`ch/2/220/fr.md#art-41`](ch/2/220/f
 | Source | Fichiers | Mots de la source | manquent |
 |:---|---:|---:|---:|
 | Confédération (Fedlex, XML) | 37 274 | 333 497 234 | 703 |
-| Cantons, LexWork (structuré) | 27 846 | 68 800 929 | 343 |
+| Cantons, LexWork (structuré) | 27 851 | 68 803 393 | 343 |
 | Cantons, LexWork (lu dans le PDF) | 5 883 | 14 192 665 | 113 |
 | Vaud (BLV) | 3 452 | 5 910 511 | 22 |
-| Genève, Neuchâtel (SIL) | 1 687 | 4 374 100 | 13 |
+| Genève, Neuchâtel (SIL) | 1 687 | 4 374 185 | 13 |
 | Zurich (lu dans le PDF) | 1 786 | 5 275 451 | 17 |
 | Jura (lu dans le PDF) | 855 | 1 653 093 | 467 |
 | RO et FF (XML) | 7 695 | 13 006 466 | 189 |

@@ -9,7 +9,7 @@ The law of the Confederation and the cantons as a git repository: one file per a
 |  | Acts | Versions since 2021 |
 |:---|---:|---:|
 | [Federal law](ch/README.md) · domestic law and treaties | 5,338 | 11,674 |
-| [Cantonal law](cantons/README.md) · 24 cantons | 16,437 | 30,874 |
+| [Cantonal law](cantons/README.md) · 24 cantons | 16,440 | 30,877 |
 | [Adopted, not yet in force](adopted/README.md) · Official Compilation and bills subject to referendum | 145 | |
 | [Consultations](consultations/README.md) · federal drafts, 22 open | 609 | |
 
@@ -60,7 +60,7 @@ Every article is a heading, so it can be linked: [`ch/2/220/en.md#art-41`](ch/2/
 | `consultations/<year>/<nr>/` | federal consultation drafts, from their opening; “closed” after the deadline |
 | `index.csv`, `index.jsonl` | every file with number, title, version and source |
 
-`main` applies up to today; `future` adds the versions already published for a later day; tags `stand/YYYY-MM-01` the state on the first of every month.
+`main` applies up to today and is extended twice a week, never rewritten; `future` adds the versions already published for a later day and is rebuilt on every run; tags `stand/YYYY-MM-01` the state on the first of every month. A commit's author date is the day its version applies from; its commit date is the day this repository shows it from (a version published later follows with the next run).
 
 **A file**: front matter (YAML): number, title, short title, language, version (applies from), adoption, entry into force, source; title, preamble, the structure as headings, each article `#### Art. N`; each paragraph on one line (`<sup>1</sup> …`), so diffs and `blame` are exact; footnotes (amendments with their reference) right after their article; tables as HTML.
 
@@ -73,10 +73,10 @@ Every article is a heading, so it can be linked: [`ch/2/220/en.md#art-41`](ch/2/
 | Source | Files | Words of the source | missing |
 |:---|---:|---:|---:|
 | Confederation (Fedlex, XML) | 37,274 | 333,497,234 | 703 |
-| Cantons, LexWork (structured) | 27,846 | 68,800,929 | 343 |
+| Cantons, LexWork (structured) | 27,851 | 68,803,393 | 343 |
 | Cantons, LexWork (read from the PDF) | 5,883 | 14,192,665 | 113 |
 | Vaud (BLV) | 3,452 | 5,910,511 | 22 |
-| Geneva, Neuchâtel (SIL) | 1,687 | 4,374,100 | 13 |
+| Geneva, Neuchâtel (SIL) | 1,687 | 4,374,185 | 13 |
 | Zurich (read from the PDF) | 1,786 | 5,275,451 | 17 |
 | Jura (read from the PDF) | 855 | 1,653,093 | 467 |
 | Official Compilation and Gazette (XML) | 7,695 | 13,006,466 | 189 |

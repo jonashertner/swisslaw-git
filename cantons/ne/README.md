@@ -61,18 +61,18 @@
 | 151.115 | LDPé | Loi sur le droit de pétition (LDPé) | [fr](1/151.115/fr.md) |
 | 152.72 |  | Arrêté concernant les indemnités de présence et de déplacement des membres des commissions administratives, consultatives, d'examens ou d'experts | [fr](1/152.72/fr.md) |
 | 152.100 | LCE | Loi sur l'organisation du Conseil d'Etat et de l'administration cantonale (LCE) | [fr](1/152.100/fr.md) |
-| 152.100.00 |  | Règlement protocolaire de la République et Canton de Neuchâtel | [fr](1/152.100.00/fr.md) |
 | 152.100.0 |  | Arrêté fixant les attributions et l'organisation des départements et de la chancellerie d'Etat | [fr](1/152.100.0/fr.md) |
+| 152.100.00 |  | Règlement protocolaire de la République et Canton de Neuchâtel | [fr](1/152.100.00/fr.md) |
 | 152.100.001 |  | Règlement sur l'organisation du Conseil d'Etat | [fr](1/152.100.001/fr.md) |
-| 152.100.1 |  | Arrêté concernant la réorganisation et la gestion des achats effectués par les unités de l’administration cantonale et les entités autonomes (arrêté sur les achats) | [fr](1/152.100.1/fr.md) |
 | 152.100.01 | RO-DSDC | Règlement d’organisation du Département de la sécurité, de la digitalisation et de la culture (RO-DSDC) | [fr](1/152.100.01/fr.md) |
+| 152.100.1 |  | Arrêté concernant la réorganisation et la gestion des achats effectués par les unités de l’administration cantonale et les entités autonomes (arrêté sur les achats) | [fr](1/152.100.1/fr.md) |
 | 152.100.02 | RO-DECS | Règlement d’organisation du Département de l’économie et de la cohésion sociale (RO-DECS) | [fr](1/152.100.02/fr.md) |
 | 152.100.003 | Règlement GestionNE | Règlement de gestion opérationnelle des services de l'administration cantonale neuchâteloise (Règlement GestionNE) | [fr](1/152.100.003/fr.md) |
 | 152.100.03 | RO-DDTE | Règlement d’organisation du Département du développement territorial et de l’environnement (RO-DDTE) | [fr](1/152.100.03/fr.md) |
 | 152.100.04 | RO-DSJS | Règlement d’organisation du Département de la santé, de la jeunesse et des sports (RO-DSJS) | [fr](1/152.100.04/fr.md) |
 | 152.100.4 | Vitamine | Arrêté concernant la relocalisation de services et la création de centres de compétences au sein de l’administration cantonale (Vitamine) | [fr](1/152.100.4/fr.md) |
-| 152.100.5 |  | Arrêté concernant le plan de mobilité de l’administration cantonale | [fr](1/152.100.5/fr.md) |
 | 152.100.05 | RO-DFFI | Règlement d’organisation du Département de la formation et des finances (RO-DFFI) | [fr](1/152.100.05/fr.md) |
+| 152.100.5 |  | Arrêté concernant le plan de mobilité de l’administration cantonale | [fr](1/152.100.5/fr.md) |
 | 152.100.06 | RO-CHAN | Règlement d’organisation de la chancellerie d’État (RO-CHAN) | [fr](1/152.100.06/fr.md) |
 | 152.100.08 |  | Arrêté déléguant à la chancellerie la compétence de faire opposition aux commandements de payer notifiés à l'Etat | [fr](1/152.100.08/fr.md) |
 | 152.100.020 |  | Arrêté instituant le Département de la sécurité, de la digitalisation et de la culture comme autorité cantonale inférieure de surveillance des offices des poursuites et faillites | [fr](1/152.100.020/fr.md) |
@@ -257,8 +257,8 @@
 | 414.110 |  | Règlement d’application de la loi sur la formation professionnelle | [fr](4/414.110/fr.md) |
 | 414.110.01 | RG-CPNE | Règlement général du Centre de formation professionnelle neuchâtelois (RG-CPNE) | [fr](4/414.110.01/fr.md) |
 | 414.110.1 |  | Règlement général des filières de maturité professionnelle | [fr](4/414.110.1/fr.md) |
-| 414.110.2 |  | Règlement concernant le projet pilote pour la maturité professionnelle flexible anticipée | [fr](4/414.110.2/fr.md) |
 | 414.110.02 |  | Arrêté relatif au subventionnement des cours interentreprises dans le canton et hors du canton | [fr](4/414.110.02/fr.md) |
+| 414.110.2 |  | Règlement concernant le projet pilote pour la maturité professionnelle flexible anticipée | [fr](4/414.110.2/fr.md) |
 | 414.110.03 |  | Arrêté relatif au subventionnement de la formation des adultes dans le Canton de Neuchâtel | [fr](4/414.110.03/fr.md) |
 | 414.110.06 |  | Arrêté concernant le financement des formations en compétences de base | [fr](4/414.110.06/fr.md) |
 | 414.110.07 |  | Arrêté fixant la taxe forfaitaire annuelle pour le Centre de formation professionnelle neuchâtelois | [fr](4/414.110.07/fr.md) |
@@ -410,8 +410,8 @@
 | 631.0 | LCdir | Loi sur les contributions directes (LCdir) | [fr](6/631.0/fr.md) |
 | 631.00 |  | Décret fixant les coefficients de l'impôt cantonal direct et de l'impôt communal direct dus par les personnes physiques | [fr](6/631.00/fr.md) |
 | 631.00.1 |  | Décret fixant les coefficients de l'impôt cantonal et communal sur le bénéfice et le capital des personnes morales | [fr](6/631.00.1/fr.md) |
-| 631.1 |  | Loi d'introduction de la loi fédérale sur la constitution de réserves de crise bénéficiant d'allégements fiscaux | [fr](6/631.1/fr.md) |
 | 631.01 | RELCdir | Règlement général d'application de la loi sur les contributions directes (RELCdir) | [fr](6/631.01/fr.md) |
+| 631.1 |  | Loi d'introduction de la loi fédérale sur la constitution de réserves de crise bénéficiant d'allégements fiscaux | [fr](6/631.1/fr.md) |
 | 631.2 |  | Loi sur la redistribution du produit de l'impôt communal sur le bénéfice et le capital des personnes morales entre les communes | [fr](6/631.2/fr.md) |
 | 631.03 |  | Règlement concernant la perception de l'impôt cantonal direct, de l'impôt communal direct et de leurs contributions annexes | [fr](6/631.03/fr.md) |
 | 631.10 |  | Arrêté d'exécution de la loi d'introduction de la loi fédérale sur la constitution de réserves de crise bénéficiant d'allégements fiscaux | [fr](6/631.10/fr.md) |
@@ -458,8 +458,8 @@
 | 681.1 |  | Convention intercantonale sur la vente du sel en Suisse | [fr](6/681.1/fr.md) |
 | 701.0 | LCAT | Loi cantonale sur l'aménagement du territoire (LCAT) | [fr](7/701.0/fr.md) |
 | 701.01 |  | Décret sur la conception directrice cantonale de l'aménagement du territoire 2004 | [fr](7/701.01/fr.md) |
-| 701.2 | LMD | Loi sur la mobilité douce (LMD) | [fr](7/701.2/fr.md) |
 | 701.02 | RELCAT | Règlement d'exécution de la loi cantonale sur l'aménagement du territoire (RELCAT) | [fr](7/701.02/fr.md) |
+| 701.2 | LMD | Loi sur la mobilité douce (LMD) | [fr](7/701.2/fr.md) |
 | 701.05 |  | Décret concernant la protection des marais, des sites marécageux et des zones alluviales d'importance nationale | [fr](7/701.05/fr.md) |
 | 701.5 |  | Convention relative à la communauté d'études pour l'aménagement du territoire | [fr](7/701.5/fr.md) |
 | 701.06 | Aem-PDIEN | Arrêté concernant les émoluments perçus pour les préavis relatifs à la prévention et la défense contre les incendies et les éléments naturels établis dans le cadre des permis de construire et des mesures d’aménagement (Aem-PDIEN) | [fr](7/701.06/fr.md) |
@@ -700,10 +700,10 @@
 | 824.0 |  | Concordat sur la création et l'exploitation de l'Autorité de surveillance LPP et des fondations de Suisse occidentale | [fr](8/824.0/fr.md) |
 | 831.0 | LASoc | Loi sur l'action sociale (LASoc) | [fr](8/831.0/fr.md) |
 | 831.01 | RELASoc | Règlement d'exécution de la loi sur l'action sociale (RELASoc) | [fr](8/831.01/fr.md) |
-| 831.2 |  | Décret portant création d'un fonds de désendettement et de prévention sociale en faveur de la famille | [fr](8/831.2/fr.md) |
 | 831.02 | ANCAM | Arrêté fixant les normes pour le calcul de l'aide matérielle (ANCAM) | [fr](8/831.02/fr.md) |
-| 831.3 | LLPS | Loi sur la lutte et la prévention contre le surendettement (LLPS) | [fr](8/831.3/fr.md) |
+| 831.2 |  | Décret portant création d'un fonds de désendettement et de prévention sociale en faveur de la famille | [fr](8/831.2/fr.md) |
 | 831.03 |  | Arrêté fixant les normes pour le calcul de l'aide matérielle versée aux requérant-e-s d'asile, aux personnes admises provisoirement et aux personnes bénéficiaires d’une protection provisoire | [fr](8/831.03/fr.md) |
+| 831.3 | LLPS | Loi sur la lutte et la prévention contre le surendettement (LLPS) | [fr](8/831.3/fr.md) |
 | 831.4 | LHaCoPS | Loi sur l'harmonisation et la coordination des prestations sociales (LHaCoPS) | [fr](8/831.4/fr.md) |
 | 831.30 | RLLPS | Règlement d’exécution de la loi sur la lutte et la prévention contre le surendettement (RLLPS) | [fr](8/831.30/fr.md) |
 | 831.40 | RELHaCoPS | Règlement d'exécution de la loi sur l'harmonisation et la coordination des prestations sociales (RELHaCoPS) | [fr](8/831.40/fr.md) |

@@ -5,8 +5,8 @@
 | SR | Abkürzung | Titel | Sprachen |
 |:---|:---|:---|:---|
 | 311.0 | StGB | Schweizerisches Strafgesetzbuch vom 21. Dezember 1937 | [de](311.0/de.md) [en](311.0/en.md) [fr](311.0/fr.md) [it](311.0/it.md) |
-| 311.1 | JStG | Bundesgesetz vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafgesetz, JStG) | [de](311.1/de.md) [fr](311.1/fr.md) [it](311.1/it.md) [rm](311.1/rm.md) |
 | 311.01 | V-StGB-MStG-JStG | Verordnung vom 19. September 2006 zum Strafgesetzbuch, zum Militärstrafgesetz und zum Jugendstrafgesetz (V-StGB-MStG-JStG) | [de](311.01/de.md) [fr](311.01/fr.md) [it](311.01/it.md) |
+| 311.1 | JStG | Bundesgesetz vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafgesetz, JStG) | [de](311.1/de.md) [fr](311.1/fr.md) [it](311.1/it.md) [rm](311.1/rm.md) |
 | 311.6 | BVVG | Bundesgesetz vom 29. September 2023 über das Verbot der Verhüllung des Gesichts (BVVG) | [de](311.6/de.md) [en](311.6/en.md) [fr](311.6/fr.md) [it](311.6/it.md) |
 | 311.039.1 | Verordnung vom 11. Juni 2010 über Massnahmen zum Schutz von … | Verordnung vom 11. Juni 2010 über Massnahmen zum Schutz von Kindern und Jugendlichen sowie zur Stärkung der Kinderrechte | [de](311.039.1/de.md) [fr](311.039.1/fr.md) [it](311.039.1/it.md) |
 | 311.039.2 | Verordnung vom 26. Juni 2013 über die Eidgenössische Fachkom… | Verordnung vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandelbarkeit lebenslänglich verwahrter Straftäter | [de](311.039.2/de.md) [fr](311.039.2/fr.md) [it](311.039.2/it.md) |
