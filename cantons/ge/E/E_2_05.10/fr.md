@@ -4,7 +4,7 @@ number: E 2 05.10
 title: Règlement de fonctionnement de la commission de gestion du pouvoir judiciaire de la République et canton de Genève (RCGPJ)
 short: RCGPJ
 language: fr
-version: 2014-09-19
+version: 2026-10-27
 adopted: 2014-09-18
 url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_e2_05p10.htm"
 ---
@@ -12,9 +12,7 @@ url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_e2_05p10.htm"
 > Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
 
 # Règlement de fonctionnement de la commission de gestion du pouvoir judiciaire de la République et canton de Genève (RCGPJ)
-**Texte en vigueur**
-
-**Refonte**
+**Dernières modifications au 27 octobre 2026**
 
 du 18 septembre 2014
 
@@ -58,13 +56,13 @@ Le présent règlement définit la mission, les attributions et le fonctionnemen
 
 - a) adopte la proposition de budget du pouvoir judiciaire;
 - b) coordonne de manière rationnelle et efficace l'usage des moyens administratifs et financiers accordés au pouvoir judiciaire;
-- c) détermine la dotation des juridictions en greffiers, greffiers-adjoints, collaborateurs scientifiques et personnel administratif;
+- c) détermine la dotation des juridictions en greffières et greffiers, greffières-adjointes et greffiers-adjoints, collaboratrices et collaborateurs scientifiques et personnel administratif;<sup>(1)</sup>
 - d) détermine les qualifications du personnel du pouvoir judiciaire et le recrute dans le cadre de son budget de fonctionnement tel qu’approuvé par le Grand Conseil;
 - e) surveille le fonctionnement des greffes et des services centraux;
 - f) organise le contrôle de gestion et l’audit internes;
 - g) établit le rapport annuel de gestion du pouvoir judiciaire et le transmet au Conseil d’Etat et au Grand Conseil;
-- h) valide l’élection des présidents et vice-présidents des juridictions, puis en communique le résultat au Conseil d’Etat et au Grand Conseil;
-- i) nomme le secrétaire général, sur préavis de la conférence des présidents;
+- h) valide l’élection des présidences et vice-présidences des juridictions, puis en communique le résultat au Conseil d’Etat et au Grand Conseil;<sup>(1)</sup>
+- i) nomme la secrétaire générale ou le secrétaire général, sur préavis de la conférence des présidentes et présidents de juridiction;<sup>(1)</sup>
 - j) approuve les règlements des juridictions;
 - k) édite les règlements nécessaires à l’exercice des compétences du pouvoir judiciaire, notamment en matière de personnel;
 - l) arrête l'organisation et le règlement du secrétariat général et des services centraux;
@@ -78,28 +76,27 @@ Le présent règlement définit la mission, les attributions et le fonctionnemen
 <sup>2</sup> En outre, la commission de gestion :
 
 - a) exerce les autres attributions que la loi lui confère;
-- b) remplit toutes les tâches qui ne relèvent ni de la compétence du conseil supérieur de la magistrature ni de celle de la conférence des présidents de juridiction.
+- b) remplit toutes les tâches qui ne relèvent ni de la compétence du conseil supérieur de la magistrature ni de celle de la conférence des présidentes et présidents de juridiction.<sup>(1)</sup>
 
 #### Art. 4
 
 **Secrétaire général du pouvoir judiciaire**
 
-<sup>1</sup> La commission de gestion est assistée par le secrétaire général du pouvoir judiciaire et son état-major.
+<sup>1</sup> La commission de gestion est assistée par la secrétaire générale ou le secrétaire général du pouvoir judiciaire.<sup>(1)</sup>
 
-<sup>2</sup> Le secrétaire général :
+<sup>2</sup> La secrétaire générale ou le secrétaire général :<sup>(1)</sup>
 
 - a) dirige le personnel du pouvoir judiciaire;
 - b) prépare les projets de budget de fonctionnement, de budget d'investissements et de comptes;
 - c) établit le projet de rapport de gestion du pouvoir judiciaire;
-- d) assure l'exécution des décisions de la commission de gestion et de la conférence des présidents de juridiction;
-- e) remplit les tâches qui lui sont déléguées par la commission de gestion ou la conférence des présidents de juridiction;
-- f) exerce les autres attributions que la loi lui confère.
+- d) assure l'exécution des décisions de la commission de gestion et de la conférence des présidentes et présidents de juridiction;<sup>(1)</sup>
+- e) remplit les tâches qui lui sont déléguées par la commission de gestion ou la conférence des présidentes et présidents de juridiction;<sup>(1)</sup>
+- f) exerce les autres attributions que la loi lui confère;
+- g) prépare le projet de plan stratégique défini à l’article 3, alinéa 1, lettre q.<sup>(1)</sup>
 
-<sup>3</sup> Il assiste, avec voix consultative, aux séances de la commission de gestion.
+<sup>3</sup> Elle ou il assiste, avec voix consultative, aux séances de la commission de gestion.<sup>(1)</sup>
 
-<sup>4</sup> En cas d'absence, d'empêchement ou de récusation, le secrétaire général est suppléé par la directrice générale des greffes ou, si celle-ci est également empêchée, par le secrétaire général adjoint qu'il aura préalablement désigné à cet effet.
-
-<sup>5</sup> L'état-major prépare à l'attention de la commission de gestion le projet de plan stratégique tel que défini à l'article 3, alinéa 1, lettre q.
+<sup>4</sup> En cas d'absence, d'empêchement ou de récusation, la secrétaire générale ou le secrétaire général est suppléé par une secrétaire générale adjointe ou un secrétaire général adjoint.<sup>(1)</sup>
 
 ## Chapitre II Règles de fonctionnement
 
@@ -111,13 +108,11 @@ Le présent règlement définit la mission, les attributions et le fonctionnemen
 
 <sup>2</sup> Les membres de la commission de gestion défendent les décisions prises par le collège.
 
-#### Art. 6
+#### Art. 6<sup>(1)</sup>
 
-**Présidence et vice-présidence**
+**Suppléance et représentation**
 
-<sup>1</sup> La commission de gestion est présidée par le procureur général.
-
-<sup>2</sup> Le magistrat de la commission de gestion le plus ancien en rang assure la vice-présidence (art. 40, al. 2, de la loi sur l'organisation judiciaire, du 26 septembre 2010). A ce titre, il supplée le procureur général dans ses tâches découlant du présent règlement ou dans son activité de représentation du troisième pouvoir, notamment en cas d'empêchement ou de récusation.
+La vice-présidente ou le vice-président supplée la présidente ou le président dans ses tâches découlant du présent règlement ou dans son activité de représentation du pouvoir judiciaire, notamment en cas d'empêchement ou de récusation.
 
 #### Art. 7
 
@@ -127,7 +122,7 @@ Le présent règlement définit la mission, les attributions et le fonctionnemen
 
 <sup>2</sup> Elle peut exceptionnellement habiliter les délégations à prendre des décisions. Dans ce cas, tout membre d'une délégation peut demander que celles-ci soient soumises à l'approbation de la commission de gestion.
 
-<sup>3</sup> Les délégations peuvent être assistées par le secrétaire général ou par toute autre personne dont elles estiment devoir s'entourer.
+<sup>3</sup> Les délégations peuvent être assistées par la secrétaire générale ou le secrétaire général ou par toute autre personne dont elles estiment devoir s'entourer.<sup>(1)</sup>
 
 #### Art. 8
 
@@ -143,9 +138,11 @@ Le présent règlement définit la mission, les attributions et le fonctionnemen
 
 **Ordre du jour des séances**
 
-<sup>1</sup> L'ordre du jour des séances est établi sur proposition de chacun de ses membres, y compris du secrétaire général ou de son adjoint. Il est transmis électroniquement aux membres de la commission de gestion, au plus tard 3 jours avant la séance ordinaire, accompagné des pièces nécessaires.
+<sup>1</sup> L’ordre du jour des séances est établi par la présidente ou le président, sur proposition de la secrétaire générale ou du secrétaire général ou de son adjointe ou adjoint. Chaque membre peut proposer l’ajout d’un point à l’ordre du jour.<sup>(1)</sup>
 
-<sup>2</sup> Les objets ne figurant pas à l'ordre du jour ne sont examinés qu'avec l'accord exprès de tous les membres présents de la commission de gestion.
+<sup>2</sup> L’ordre du jour est transmis électroniquement, au plus tard 3 jours ouvrables avant la séance ordinaire, accompagné des pièces nécessaires.<sup>(1)</sup>
+
+<sup>3</sup> Les objets ne figurant pas à l'ordre du jour ne sont examinés qu'avec l'accord exprès de tous les membres présents de la commission de gestion.<sup>(1)</sup>
 
 #### Art. 10
 
@@ -153,7 +150,7 @@ Le présent règlement définit la mission, les attributions et le fonctionnemen
 
 <sup>1</sup> Le président de la commission de gestion dirige les débats.
 
-<sup>2</sup> Le président veille à ce que chacun parle à son tour, ne soit pas interrompu et ne s'écarte pas de l'objet traité.
+<sup>2</sup> La présidente ou le président veille à ce que chacune et chacun parle à son tour, ne soit pas interrompu et ne s'écarte pas de l'objet traité.<sup>(1)</sup>
 
 <sup>3</sup> La commission de gestion siège à huis clos.
 
@@ -167,25 +164,25 @@ Le présent règlement définit la mission, les attributions et le fonctionnemen
 
 <sup>1</sup> Sous réserve de l'article 7 et de l'alinéa 5 de la présente disposition, la commission de gestion ne peut statuer qu'à condition que 3 de ses membres au moins prennent part à la décision.
 
-<sup>2</sup> Les décisions de la commission de gestion sont en principe prises par consensus ou, en cas de divergences non conciliées, à la majorité simple des membres présents. En cas d'égalité des voix, le président dispose d'une voix décisive. Le résultat du vote est consigné au procès-verbal.
+<sup>2</sup> Les décisions de la commission de gestion sont en principe prises par consensus ou, en cas de divergences non conciliées, à la majorité simple des membres présents. En cas d'égalité des voix, la présidente ou le président dispose d'une voix décisive. Le résultat du vote est consigné au procès-verbal.<sup>(1)</sup>
 
 <sup>3</sup> En cas d'urgence ou suite à une décision spécifique adoptée en séance, les décisions peuvent être adoptées par voie de circulation électronique.
 
-<sup>4</sup> En cas d'extrême urgence, le président peut décider seul. Il en réfère à la commission de gestion lors de sa plus proche séance.
+<sup>4</sup> En cas d'extrême urgence, la présidente ou le président peut décider seul. Elle ou il en réfère à la commission de gestion lors de sa plus proche séance.<sup>(1)</sup>
 
 <sup>5</sup> Chaque décision est formalisée et numérotée dans les 10 jours suivant son adoption. Elle est répertoriée systématiquement et diffusée dans la mesure nécessaire.
 
-#### Art. 12
+#### Art. 12<sup>(1)</sup>
 
 **Signatures**
 
-Les décisions et lettres de la commission de gestion comportent la double signature de son président et du secrétaire général.
+Les décisions et lettres de la commission de gestion comportent la double signature de sa présidente ou de son président et de la secrétaire générale ou du secrétaire général.
 
-#### Art. 13
+#### Art. 13<sup>(1)</sup>
 
 **Communication**
 
-La commission de gestion tient régulièrement informés les magistrats et le personnel du pouvoir judiciaire de son activité. Elle informe le public dans la mesure qu'elle juge opportune.
+La commission de gestion tient régulièrement informés les magistrates et magistrats et le personnel du pouvoir judiciaire de son activité. Elle informe le public dans la mesure qu'elle juge opportune.
 
 #### Art. 14
 
@@ -208,4 +205,5 @@ Le secrétariat général assure le secrétariat de la commission de gestion.
 | RSG Intitulé | Date d'adoption | Entrée en vigueur |
 |---|---|---|
 | E 2 05.10 R de fonctionnement de la commission de gestion du pouvoir judiciaire de la République et canton de Genève | 18.09.2014 | 19.09.2014 |
-| Modification : néant |  |  |
+| Modifications : |  |  |
+| 1. *n.* : 4/2g, 9/3; *n.t.* : 3/1c, 3/1h, 3/1i, 3/2b, 4/1, 4/2 phr. 1, 4/2d, 4/2e, 4/3, 4/4, 6, 7/3, 9/1, 9/2, 10/2, 11/2, 11/4, 12, 13; *a.* : 4/5 | 11.06.2026 | 27.10.2026 |
