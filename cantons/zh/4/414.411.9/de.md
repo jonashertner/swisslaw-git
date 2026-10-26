@@ -3,11 +3,10 @@ canton: ZH
 number: "414.411.9"
 title: Weisung zur externen Nutzung von Räumen und Anlagen der Pädagogischen Hochschule Zürich
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2026-10-26
+version: "2026-08-01"
+nachtrag: "135"
 adopted: 2011-12-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_411_9-2011_12_12-2012_04_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_411_9-2011_12_12-2012_04_01-135.html"
 text: pdf
 ---
 
@@ -58,7 +57,7 @@ Die Verwaltungsdirektion verweigert die externe Nutzung von Räumen und Anlagen,
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 27 - 135
 
 - d. die Veranstaltenden Räume oder Anlagen weitervermieten oder zu einem anderen als dem angegebenen Zweck verwenden,
 
@@ -78,7 +77,7 @@ Die Verwaltungsdirektion verweigert die externe Nutzung von Räumen und Anlagen,
 
 <sup>2</sup> Die Schulküche, die Medien- und die Werkräume (einschliesslich Ateliers) werden nur mit einer Zusatzvereinbarung und nach vorheriger Einführung vermietet.
 
-**Nutzungsdauer**
+**Nutzungszeiten**
 
 § 5.[^4-1] <sup>1</sup> Die Nutzungszeiten gestalten sich in der Regel wie folgt. Verlängerungen sind im Vertrag festzulegen.
 
@@ -100,25 +99,21 @@ Die Verwaltungsdirektion verweigert die externe Nutzung von Räumen und Anlagen,
 
 <sup>5</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor kann die Nutzungszeiten aus betrieblichen Gründen beschränken.
 
-<sup>6</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor kann die Nutzungszeiten analog § 3 Abs. 1 der Weisung zur Allgemeinen Hausordnung der Pädagogischen Hochschule Zürich aufgrund begründeter Anlässe oder aussergewöhnlicher Umstände beschränken.
-
-[^4-1]: Fassung gemäss B vom 6. Oktober 2021 (OS 76, 556; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
-[^4-2]: Fassung gemäss B vom 30. Mai 2018 (OS 73, 329; ABl 2018-06-08). In Kraft seit 1. September 2018.
-
-#### § 6
+<sup>6</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor kann die Nutzungszeiten oder den Zutritt mittels elektronischer Eingangskontrolle analog § 3 Abs. 1 der Weisung zur Allgemeinen Hausordnung der Pädagogischen Hochschule Zürich für bestimmte Personengruppen beschränken.[^4-2]
 
 **Verpflegung**
 
-<sup>1</sup> Das Anbieten von Speisen und Getränken ist der PHZH und den von ihr zugelassenen Cateringunternehmen vorbehalten. Über Ausnahmen entscheidet das Eventmanagement bzw. das Tagungszentrum Schloss Au.[^4-2]
+§ 6. <sup>1</sup> Das Anbieten von Speisen und Getränken ist der PHZH und den von ihr zugelassenen Cateringunternehmen vorbehalten. Über Ausnahmen entscheidet das Eventmanagement bzw. das Tagungszentrum Schloss Au.[^4-3]
 
-<sup>2</sup> Verpflegung darf nur an den dafür vorgesehenen Orten stattfinden. Die Benutzung entsprechender Räumlichkeiten bzw. Flächen wird verrechnet.[^6-1]
+<sup>2</sup> Verpflegung darf nur an den dafür vorgesehenen Orten stattfinden. Die Benutzung entsprechender Räumlichkeiten bzw. Flächen wird verrechnet.[^4-1]
 
 **Einhaltung der geltenden Bestimmungen**
 
-§ 7.[^6-2] Die Veranstaltenden sind dafür verantwortlich, dass geltende Bestimmungen, Auflagen sowie Anweisungen des Hausdienstes auch von den weiteren Beteiligten (Veranstaltungsteilnehmenden, Gästen, Mitarbeitenden usw.) befolgt werden.
+§ 7.[^4-3] Die Veranstaltenden sind dafür verantwortlich, dass geltende Bestimmungen, Auflagen sowie Anweisungen des Hausdienstes auch von den weiteren Beteiligten (Veranstaltungsteilnehmenden, Gästen, Mitarbeitenden usw.) befolgt werden.
 
-[^6-1]: Fassung gemäss B vom 6. Oktober 2021 (OS 76, 556; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
-[^6-2]: Fassung gemäss B vom 30. Mai 2018 (OS 73, 329; ABl 2018-06-08). In Kraft seit 1. September 2018.
+[^4-1]: Fassung gemäss B vom 6. Oktober 2021 (OS 76, 556; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
+[^4-2]: Fassung gemäss B vom 19. August 2026 (OS 81, 434; ABl 2026-08-28). In Kraft seit 1. August 2026.
+[^4-3]: Fassung gemäss B vom 30. Mai 2018 (OS 73, 329; ABl 2018-06-08). In Kraft seit 1. September 2018.
 
 #### § 8
 
@@ -144,7 +139,7 @@ Die Verwaltungsdirektion verweigert die externe Nutzung von Räumen und Anlagen,
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 27 - 135
 
 <sup>2</sup> Interessentinnen und Interessenten können ablehnende Entscheide des Eventmanagements bzw. des Tagungszentrums Schloss Au innert zehn Tagen seit Ablehnung von der Verwaltungsdirektorin oder vom Verwaltungsdirektor überprüfen lassen.
 
@@ -214,7 +209,7 @@ Die Verwaltungsdirektorin oder der Verwaltungsdirektor ist jederzeit berechtigt,
 
 **5**
 
-- 1\. 1. 22 - 115 § 16. <sup>1</sup> Die Nutzung von Geräten, die nicht zur Grundausstattung eines Raums oder einer Anlage gehören, ausserordentliche Dienstleistungen und die Kosten für die Behebung von Schäden werden nach Aufwand zusätzlich in Rechnung gestellt.[^hDTarife-1]
+- 1\. 1. 27 - 135 § 16. <sup>1</sup> Die Nutzung von Geräten, die nicht zur Grundausstattung eines Raums oder einer Anlage gehören, ausserordentliche Dienstleistungen und die Kosten für die Behebung von Schäden werden nach Aufwand zusätzlich in Rechnung gestellt.[^hDTarife-1]
 
 **Zusätzliche Gerätenutzungen und Aufwendungen**
 
@@ -291,7 +286,7 @@ Zusätzliche Gerätenutzungen und Leistungen werden in Rechnung gestellt, nament
 
 **7**
 
-- 1\. 1. 22 - 115 b.[^h13Tarifartenh12N-1] Semestertarif (Abgeltung der regelmässigen Nutzung über zehn Wochen bis längstens für ein Semester, an maximal einem Tag pro Woche). Der Semestertarif gilt für nichtgewinnorientierte Vereine mit sportlicher oder kultureller Ausrichtung und ist für Sporthallen und Musik-/Performance-Räume im Campus PH Zürich anwendbar.
+- 1\. 1. 27 - 135 b.[^h13Tarifartenh12N-1] Semestertarif (Abgeltung der regelmässigen Nutzung über zehn Wochen bis längstens für ein Semester, an maximal einem Tag pro Woche). Der Semestertarif gilt für nichtgewinnorientierte Vereine mit sportlicher oder kultureller Ausrichtung und ist für Sporthallen und Musik-/Performance-Räume im Campus PH Zürich anwendbar.
 
 <sup>2</sup> Für das Tagungszentrum Schloss Au gelten folgende Tarife:
 
@@ -369,7 +364,7 @@ Raumtyp Grösse Max. Ausstattung Plätze (vgl. Ziff. 1.3 des Anhangs) Foyer Sihl
 
 **9**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 27 - 135
 
 [^hSpezialräumeundAnl-1]: Fassung gemäss B vom 6. Oktober 2021 (OS 76, 556; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
@@ -428,7 +423,7 @@ Gerät
 
 **11**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 27 - 135
 
 - 5\. Tarife Gerätenutzung Tagungszentrum Schloss Au[^hMikrofonanlageHead-1]
 
