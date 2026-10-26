@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Anpassung der Waffenverordnung (WV)
 document: Vernehmlassungsvorlage
 language: de
