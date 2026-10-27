@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’Ordinanza sulla radiotelevisione (ORTV) – Adeguamento delle categorie tariffarie per il canone delle imprese.
 document: Progetto posto in consultazione
 language: it

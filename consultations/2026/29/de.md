@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Radio- und Fernsehverordnung (RTVV) – Anpassung der Tarifkategorien bei der Unternehmensabgabe
 document: Vernehmlassungsvorlage
 language: de

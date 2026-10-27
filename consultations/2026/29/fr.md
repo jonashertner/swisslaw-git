@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance sur la radio et la télévision (ORTV) – Adaptation des catégories tarifaires de la redevance des entreprises
 document: Projet mis en consultation
 language: fr
