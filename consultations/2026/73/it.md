@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iv.pa. 18.434 Rendere finalmente perseguibile l’adescamento in rete di minorenni
 document: Progetto posto in consultazione
 language: it

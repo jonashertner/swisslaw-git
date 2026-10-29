@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iv.pa. 18.434 Punir enfin le pédopiégeage en ligne
 document: Projet mis en consultation
 language: fr

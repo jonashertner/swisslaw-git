@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pa.Iv. 18.434 Cybergrooming mit Minderjährigen endlich unter Strafe stellen
 document: Vernehmlassungsvorlage
 language: de
