@@ -4,13 +4,12 @@ number: "861.112"
 title: "Verordnung über die Datenbearbeitung im Asyl-, Flüchtlings- und Ausländerbereich"
 short: DAFAV
 language: de
-version: 2026-09-01
-valid_until: 2026-10-31
-version_adopted: 2026-06-24
+version: 2026-11-01
+version_adopted: 2026-09-09
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/861.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3475/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3475/pdf_file"
 
 (DAFAV)
 
-vom 20.05.2020 (Stand 01.09.2026)
+vom 20.05.2020 (Stand 01.11.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -130,13 +129,15 @@ beschliesst:
 
 #### Art. 9
 
-<sup>1</sup> Das AIS stellt die Informationssicherheit und den Datenschutz des AFA-Systems als Ganzes sicher.
+<sup>1</sup> Das AIS sorgt für die Umsetzung der erforderlichen Schutzmassnahmen nach der Verordnung über die Informations- und Datensicherheit vom 9. September 2026 (IDSV)[^9-1] zum Schutz des AFA-Systems als Ganzes. Es erstellt insbesondere die erforderlichen Unterlagen und unterbreitet sie der kantonalen Datenschutzbehörde zur Vorabkontrolle (Art. 20 KDSG).
 
 <sup>2</sup> Im Übrigen sind das AIS und das ABEV in ihrem Zuständigkeitsbereich für die Informationssicherheit und den Datenschutz (ISDS) des AFA-Systems nach Massgabe der Datenschutz- und besonderen Gesetzgebung verantwortlich.
 
 <sup>3</sup> Sie erlassen die zur Umsetzung der ISDS-Massnahmen erforderlichen Weisungen oder Verfügungen.
 
 <sup>4</sup> Sie sorgen für eine angemessene Ausbildung der Benutzerinnen und Benutzer des AFA-Sytems.
+
+[^9-1]: BSG [152.091](https://www.belex.sites.be.ch/data/152.091/de)
 
 ### 3.2 Berechtigungsregeln und -verwaltung
 

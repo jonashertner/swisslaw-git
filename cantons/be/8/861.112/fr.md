@@ -4,13 +4,12 @@ number: "861.112"
 title: "Ordonnance sur le traitement des données dans le domaine de l'asile, des réfugiés et des étrangers"
 short: ODARE
 language: fr
-version: 2026-09-01
-valid_until: 2026-10-31
-version_adopted: 2026-06-24
+version: 2026-11-01
+version_adopted: 2026-09-09
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/861.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3475/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3494/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3475/pdf_file"
 
 (ODARE)
 
-du 20.05.2020 (état au 01.09.2026)
+du 20.05.2020 (état au 01.11.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -130,13 +129,15 @@ arrête:
 
 #### Art. 9
 
-<sup>1</sup> L'OIAS assure la sécurité de l'information et la protection des données pour l'ensemble du système ARE.
+<sup>1</sup> L'OIAS veille à l'application des mesures de sécurité requises selon l'ordonnance du 9 septembre 2026 sur la sécurité de l'information et des données (OSID)[^9-1] en vue de la protection du système ARE dans son ensemble. Il établit en particulier les documents requis et les soumet pour contrôle préalable à l'autorité cantonale de protection des données (art. 20 LCPD).
 
 <sup>2</sup> L'OIAS et l'OPOP sont au surplus responsables, chacun dans son domaine de compétences, de la sécurité de l'information et de la protection des données (SIPD) du système ARE, en application de la législation sur la protection des données et de la législation spéciale.
 
 <sup>3</sup> Ils édictent les directives ou prononcent les décisions visant à mettre en œuvre les mesures SIPD.
 
 <sup>4</sup> Ils veillent à ce que les utilisateurs et les utilisatrices du système ARE bénéficient d'une formation appropriée.
+
+[^9-1]: RSB [152.091](https://www.belex.sites.be.ch/data/%20152.091/fr)
 
 ### 3.2 Réglementation et gestion des autorisations
 
