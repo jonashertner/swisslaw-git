@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2002 sur les documents d'identité des ressor
 short: OLDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: fr
-version: 2023-09-01
+version: 2026-11-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230901-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20261101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230901/fr"
 
 (Ordonnance sur les documents d’identité, OLDI)
 
-du 20 septembre 2002 (État le 1<sup>er</sup> septembre 2023)
+du 20 septembre 2002 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -47,41 +47,51 @@ Les types de documents d’identité sont:
 Les types de passeports sont:
 
 - a. le passeport ordinaire;
-- b. le passeport provisoire;
+- b. le passeport d’urgence;
 - c. le passeport diplomatique ordinaire;
-- d. le passeport diplomatique provisoire;
-- e. le passeport de service ordinaire;
-- f. le passeport de service provisoire.
+- d. le passeport diplomatique d’urgence;
+- e. le passeport de service ordinaire.[^2-2]
 
 <sup>2</sup> Les passeports ordinaires, les passeports diplomatiques ordinaires et les passeports de service ordinaires sont munis d’une puce.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 2a
 
-[^2a-1]
+**Types de cartes d’identité**[^2a-1]
 
-[^2a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+Les types de cartes d’identité sont:
+
+- a. la carte d’identité ne contenant pas de données électroniques (carte d’identité sans puce);
+- b. la carte d’identité contenant des données électroniques (carte d’identité munie d’une puce).
+
+[^2a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 3
 
-**Passeport provisoire**
+**Passeport d’urgence[^3-1]**
 
 <sup>1</sup>
 
-Un passeport provisoire est émis en cas d’urgence:
+Un passeport d’urgence est émis:[^3-2]
 
 - a. lorsqu’il n’est pas possible d’attendre l’établissement d’un passeport ordinaire;
 - b. lorsqu’il n’est pas possible de présenter un document d’identité valable;
 - c. lorsqu’un document d’identité valable ne remplit pas les conditions du pays de destination.
 
-<sup>2</sup> Un passeport provisoire peut être émis s’il est indispensable au retour en Suisse.
+<sup>2</sup> Un passeport d’urgence peut être émis s’il est indispensable au retour en Suisse.
+
+[^3-1]: Nouvelle expression selon le ch. I al. 1 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 4
 
-**Forme et édition**
+**Forme et édition**[^4-1]
 
-Le Département fédéral de justice et police (département) détermine la forme et la présentation des documents d’identité et les édite.
+Le Département fédéral de justice et police (DFJP) détermine la forme et la présentation des documents d’identité et les édite.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 5
 
@@ -97,29 +107,31 @@ Le passeport ordinaire et la carte d’identité sont émis:
 
 <sup>1bis</sup> …[^5-4]
 
-<sup>2</sup> Le passeport provisoire est émis pour la durée du séjour à l’étranger, au besoin pour la durée requise par le pays de séjour, mais au maximum pour 12 mois.
+<sup>2</sup> Le passeport d’urgence est émis pour la durée du séjour à l’étranger, au besoin pour la durée requise par le pays de séjour, mais au maximum pour 12 mois.
 
 <sup>3</sup> En cas de perte de trois documents d’identité ou plus du même type en l’espace de cinq ans, la durée de validité du nouveau document d’identité est limitée à deux ans sauf si l’intéressé rend vraisemblable le fait qu’il en a pris soin. La limitation de la durée de validité n’a pas d’incidence sur le montant des émoluments.[^5-5]
 
 <sup>4</sup> En règle générale, la durée de validité d’un document d’identité ne peut pas être prolongée.
 
-<sup>5</sup> Si la production de nouveaux passeports s’avère impossible pendant une longue période, la durée de validité des passeports déjà émis peut être prolongée de 3 ans au plus et des passeports provisoires peuvent être émis pour une durée de 3 ans. Le département règle les détails.
+<sup>5</sup> …[^5-6]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 [^5-3]: Abrogée par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 [^5-4]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^5-6]: Abrogé par le ch. I de l’O du 26 août 2026, avec effet au 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 5a
 
 **Lecture de la puce**[^5a-1]
 
-Le département peut conclure des accords internationaux relatifs à la lecture des empreintes digitales enregistrées dans la puce avec les États qui respectent le règlement (CE) n<sup>o</sup> 2252/2004[^5a-2] et ses dispositions d’exécution.[^5a-3]
+Le DFJP[^5a-2] peut conclure des accords internationaux relatifs à la lecture des empreintes digitales enregistrées dans la puce avec les États qui respectent le règlement (CE) n<sup>o</sup> 2252/2004[^5a-3] et ses dispositions d’exécution.[^5a-4]
 
 [^5a-1]: Introduit par le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
-[^5a-2]: Règlement (CE) n<sup>o</sup> 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les États membres, JO L 385 du 29.12.2004, p. 1, modifié par le règlement (CE) n<sup>o</sup> 444/2009, JO L 142 du 6.6.2009, p. 1
-[^5a-3]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
+[^5a-2]: Nouvelle expression selon le ch. I al. 2 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5a-3]: Règlement (CE) n<sup>o</sup> 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les États membres, JO L 385 du 29.12.2004, p. 1, modifié par le règlement (CE) n<sup>o</sup> 444/2009, JO L 142 du 6.6.2009, p. 1
+[^5a-4]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
 
 #### Art. 5b
 
@@ -137,7 +149,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 
 ## Chapitre 2 Demande, établissement, perte et restitution
 
-### Section 1 Autorité d'établissement
+### Section 1 Autorité d’établissement
 
 [^chap2-sec1-1]
 
@@ -160,11 +172,11 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 
 #### Art. 7
 
-**Passeports provisoires**
+**Passeports d’urgence**
 
-<sup>1</sup> Le passeport provisoire doit être demandé à l’autorité d’établissement compétente (art. 6). Il est produit par l’autorité d’établissement compétente et remis au requérant. L’art. 6, al. 3 et 4, est applicable par analogie. Il n’est pas nécessaire de requérir l’accord préalable prévu à l’art. 6, al. 4, lorsque l’identité et les données personnelles du requérant sont établies de manière univoque.
+<sup>1</sup> Le passeport d’urgence doit être demandé à l’autorité d’établissement compétente (art. 6). Il est produit par l’autorité d’établissement compétente et remis au requérant. L’art. 6, al. 3 et 4, est applicable par analogie. Il n’est pas nécessaire de requérir l’accord préalable prévu à l’art. 6, al. 4, lorsque l’identité et les données personnelles du requérant sont établies de manière univoque.
 
-<sup>2</sup> Les cantons peuvent désigner, dans les aéroports en particulier, des autorités exclusivement chargées d’établir des passeports provisoires. Ces services peuvent être exploités notamment par le Corps des gardes-frontière ou par la police, sous la surveillance du canton.
+<sup>2</sup> Les cantons peuvent désigner, dans les aéroports en particulier, des autorités exclusivement chargées d’établir des passeports d’urgence. Ces services peuvent être exploités notamment par le Corps des gardes-frontière ou par la police, sous la surveillance du canton.
 
 #### Art. 8
 
@@ -176,7 +188,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 
 <sup>3</sup> Si l’autorité d’établissement ne peut être déterminée de façon certaine et incontestable entre les services responsables visés à l’art. 4, al. 1, LDI et les autorités d’établissement visées à l’art. 4, al. 2, LDI, l’office tranche.
 
-### Section 2 Procédure de demande et procédure d'établissement
+### Section 2 Procédure de demande et procédure d’établissement
 
 [^chap2-sec2-1]
 
@@ -188,15 +200,16 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 
 <sup>1</sup> Le requérant peut transmettre ses données personnelles à l’autorité d’établissement compétente par Internet ou par téléphone avant de se présenter personnellement (art. 12) ou au moment de se présenter personnellement. Les autorités d’établissement compétentes déterminent le mode de transmission de la demande qu’elles autorisent.
 
-<sup>2</sup> Les cantons décident si le requérant peut apporter une photographie numérique. Le département détermine les exigences auxquelles cette photographie doit satisfaire. Les autorités d’établissement examinent la qualité de la photographie et décident si celle-ci satisfait aux exigences.
+<sup>2</sup> …[^9-2]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^9-2]: Abrogé par le ch. I de l’O du 26 août 2026, avec effet au 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 10
 
 **Reprise et vérification des données personnelles**[^10-1]
 
-<sup>1</sup> L’autorité d’établissement compétente reprend les données personnelles du registre électronique de l’état civil (Infostar) et les transfère dans le système d’information relatif aux documents d’identité (ISA) visé à l’art. 11 LDI. Si cela n’est pas possible, les données personnelles peuvent être reprises du registre du contrôle des habitants, pour autant que celui-ci soit géré sur la base des actes d’origine ou du registre des familles.
+<sup>1</sup> L’autorité d’établissement compétente reprend les données personnelles du registre électronique de l’état civil (Infostar) et les transfère dans le système d’information relatif aux documents d’identité (ISA) visé à l’art. 11 LDI. Si cela n’est pas possible, les données personnelles peuvent être reprises du registre du contrôle des habitants.[^10-2]
 
 <sup>2</sup> Les données personnelles déjà enregistrées dans ISA peuvent être reprises pour une nouvelle demande lorsqu’il n’est pas possible de reprendre les données des registres visés à l’al. 1. Elles doivent impérativement être comparées à une deuxième source de données. À ces fins, les autorités d’établissement peuvent exiger du requérant qu’il apporte un document (par ex. document de l’office de l’état civil ou attestation de domicile).
 
@@ -215,10 +228,11 @@ Les données suivantes peuvent être reprises d’Infostar:
 - e. droit de cité ou nationalité;
 - f. lieu(x) d’origine;
 - g. statut de vie;
-- h. numéro AVS[^10-2].
+- h. numéro AVS[^10-3].
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^10-2]: Nouvelle expression selon l’annexe ch. II 4 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
+[^10-3]: Nouvelle expression selon l’annexe ch. II 4 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 11
 
@@ -238,24 +252,25 @@ Les données suivantes peuvent être reprises d’Infostar:
 
 <sup>3</sup> Une personne enregistrée à l’étranger peut se présenter personnellement à n’importe quelle autorité d’établissement à l’étranger. Dans des cas particuliers, le requérant peut se présenter à l’autorité d’établissement d’un canton si les autorités concernées ont donné leur accord. La demande selon l’art. 9, al. 1, doit être déposée auprès de la représentation diplomatique ou consulaire suisse auprès de laquelle le requérant est enregistré.[^12-2]
 
-<sup>4</sup> L’autorité d’établissement compétente peut dispenser le requérant qui souffre de graves infirmités physiques ou psychiques de se présenter personnellement si son identité peut être attestée de façon certaine d’une autre manière et si les données nécessaires peuvent être obtenues par un autre biais.
+<sup>4</sup> L’autorité d’établissement compétente peut dispenser le requérant qui souffre de graves infirmités physiques ou psychiques de se présenter personnellement si son identité peut être attestée de façon certaine d’une autre manière et si les données nécessaires, y compris la photographie, peuvent être obtenues par un autre biais. Le DFJP détermine les exigences auxquelles la photographie doit satisfaire.[^12-3]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 [^12-2]: Nouvelle teneur selon l’art. 76 ch. 1 de l’O du 7 oct. 2015 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3879](https://fedlex.data.admin.ch/eli/oc/2015/654)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 13
 
-**Saisie de la photographie et des empreintes digitales**[^13-1]
+**Prise de la photographie et des empreintes digitales**[^13-1]
 
-<sup>1</sup> L’autorité d’établissement compétente prend une photographie numérique du requérant si celui-ci n’en a pas apporté une lui-même ou que la photographie ne satisfait pas aux exigences visées à l’art. 9, al. 2.
+<sup>1</sup> L’autorité d’établissement compétente prend une photographie numérique du requérant.
 
-<sup>2</sup> Elle prend à plat les empreintes digitales des index gauche et droit du requérant. En cas d’absence d’index, de qualité insuffisante de l’empreinte ou de blessure au bout du doigt, l’empreinte du majeur, de l’annulaire ou du pouce est prise.
+<sup>2</sup> Pour l’établissement d’un passeport ou d’une carte d’identité munie d’une puce, elle prend à plat les empreintes digitales des index gauche et droit du requérant. En cas d’absence d’index, de qualité insuffisante de l’empreinte ou de blessure au bout du doigt, c’est l’empreinte à plat du majeur, de l’annulaire ou du pouce qui est prise. Les empreintes digitales ne sont pas prises pour les demandes de carte d’identité sans puce.
 
-<sup>3</sup> Les empreintes digitales ne sont pas prises lorsque le requérant a moins de douze ans ou lorsque des raisons médicales durables rendent leur prise impossible. Les empreintes digitales ne sont pas prises pour les demandes de carte d’identité.
+<sup>3</sup> Les empreintes digitales ne sont pas prises lorsque le requérant a moins de 12 ans ou lorsque des raisons médicales durables rendent leur prise impossible.
 
-<sup>4</sup> Lorsque, pour des raisons médicales temporaires, les empreintes digitales ne peuvent être prises, l’autorité d’établissement établit un passeport dont la durée de validité est limitée à une année. La limitation de la durée de validité n’a pas d’incidence sur le montant des émoluments.
+<sup>4</sup> Lorsque, pour des raisons médicales temporaires, les empreintes digitales ne peuvent être prises, l’autorité d’établissement établit un passeport ou une carte d’identité munie d’une puce dont la durée de validité est limitée à une année. La limitation de la durée de validité n’a pas d’incidence sur le montant des émoluments.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 13a
 
@@ -283,7 +298,7 @@ L’autorité d’établissement compétente vérifie:
 
 **Contenu du document d’identité**[^14-1]
 
-<sup>1</sup> Les données énumérées à l’art. 2, al. 1, let. a à f, LDI sont celles qui figurent dans Infostar, au registre des familles ou, exceptionnellement, dans ISA (cf. art. 10, al. 1 et 2). Le requérant peut toutefois demander l’inscription de son nom d’alliance.
+<sup>1</sup> Les données énumérées à l’art. 2, al. 1, let. a à f, LDI sont celles qui figurent dans Infostar ou, exceptionnellement, dans ISA (cf. art. 10, al. 1 et 2). Le requérant peut toutefois demander l’inscription de son nom d’alliance.[^14-2]
 
 <sup>2</sup> Seul un lieu d’origine peut figurer dans le document d’identité. Si le requérant a plusieurs lieux d’origine, il doit choisir le lieu d’origine qui sera inscrit dans le document d’identité. Seul ce lieu d’origine sera enregistré dans ISA.
 
@@ -296,26 +311,30 @@ L’autorité d’établissement compétente vérifie:
 <sup>6</sup> À l’exception du nom d’alliance, les inscriptions particulières selon l’art. 2, al. 4 et 5, LDI sont exclues pour la carte d’identité.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 14a
 
-**Contenu supplémentaire du passeport**[^14a-1]
+**Contenu supplémentaire du passeport et de la carte d’identité munie d’une puce[^14a-2]**[^14a-1]
 
 <sup>1</sup>
 
-Les données suivantes sont enregistrées dans la puce des passeports visés à l’art. 2, al. 2:
+Les données suivantes sont enregistrées dans la puce des passeports visés à l’art. 2, al. 2, et de la carte d’identité visée à l’art. 2*a*, let. b:[^14a-3]
 
-- a.[^14a-2] les données prévues à l’art. 2, al. 1, let. a à d, f, l et m, LDI;
+- a.[^14a-4] les données prévues à l’art. 2, al. 1, let. a à d, f, l et m, LDI;
 - b. une photographie du visage;
 - c. deux empreintes digitales.
 
 <sup>2</sup> Le contenu de la puce est certifié par une signature électronique.
 
-<sup>3</sup> Le règlement (CE) n<sup>o</sup> 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les États membres[^14a-3] est applicable.
+<sup>3</sup> Le règlement (CE) n<sup>o</sup> 2252/2004[^14a-5] s’applique aux passeports.[^14a-6]
 
 [^14a-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
-[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> février 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)).
-[^14a-3]: JO L 385 du 29.12.2004, p. 1; mod. la plus récente par le R (CE) n<sup>o</sup> 444/2009, JO L 142 du 6.6.2009, p. 1.
+[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
+[^14a-3]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
+[^14a-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> février 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)).
+[^14a-5]: Règlement (CE) n<sup>o</sup> 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les États membres, JO L 385 du 29.12.2004, p. 1; modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 444/2009, JO L 142 du 6.6.2009, p. 1.
+[^14a-6]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 14b
 
@@ -323,25 +342,27 @@ Les données suivantes sont enregistrées dans la puce des passeports visés à 
 
 [^14b-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 
-### Section 2*a* Procédure de demande de cartes d’identité auprès de la commune de domicile
+### Section 2*a* Procédure de demande de cartes d’identité sans puce auprès de la commune de domicile
 
-[^chap2-sec2a-1]
+[^chap2-sec2a-1][^chap2-sec2a-2]
 
 [^chap2-sec2a-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> février 2012, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 779](https://fedlex.data.admin.ch/eli/oc/2012/115)).
+[^chap2-sec2a-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 14c
 
 **Exigences applicables à la commune de domicile**[^14c-1]
 
-<sup>1</sup> La commune de domicile utilise l’application ISA-NAVIG mise à disposition par la Confédération pour traiter les demandes de cartes d’identité.
+<sup>1</sup> La commune de domicile utilise l’application ISA-NAVIG mise à disposition par la Confédération pour traiter les demandes de cartes d’identité sans puce.[^14c-2]
 
 <sup>2</sup> La commune de domicile prend à sa charge les coûts du matériel informatique requis et les frais d’installation de l’application ISA-NAVIG.
 
 <sup>3</sup> La commune de domicile est responsable du traitement des données. Elle efface les données traitées en dehors de l’application ISA-NAVIG une fois la procédure d’établissement terminée, dans la mesure où elles ne sont soumises à aucune obligation de conservation.
 
-<sup>4</sup> Le département détermine les exigences auxquelles doivent satisfaire les communes de domicile en matière d’infrastructure technique, notamment en ce qui concerne la connexion Internet, les antivirus ainsi que le logiciel et le matériel informatiques à utiliser.
+<sup>4</sup> Le DFJP détermine les exigences auxquelles doivent satisfaire les communes de domicile en matière d’infrastructure technique, notamment en ce qui concerne la connexion Internet, les antivirus ainsi que le logiciel et le matériel informatiques à utiliser.
 
 [^14c-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
+[^14c-2]: Nouvelle teneur selon le ch. I de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 #### Art. 14d
 
@@ -349,7 +370,7 @@ Les données suivantes sont enregistrées dans la puce des passeports visés à 
 
 <sup>1</sup> Les cantons peuvent autoriser les communes de domicile à accepter les demandes d’établissement de cartes d’identité sans puce.
 
-<sup>2</sup> Le requérant doit se présenter personnellement à la commune de domicile compétente, apporter les documents éventuellement requis et attester son identité. La commune de domicile détermine si le requérant doit se munir d’une photographie ou s’il peut la faire faire sur place. Le département fixe les exigences auxquelles la photographie doit répondre.
+<sup>2</sup> Le requérant doit se présenter personnellement à la commune de domicile compétente, apporter les documents éventuellement requis et attester son identité. La commune de domicile détermine si le requérant doit se munir d’une photographie ou s’il peut la faire faire sur place. Le DFJP fixe les exigences auxquelles la photographie doit répondre.
 
 <sup>3</sup> La commune de domicile remplit le formulaire électronique de demande de manière complète et exacte sur la base des indications des registres des habitants, qui se fondent sur les données figurant dans le registre électronique de l’état civil Infostar. Elle joint à la demande la photographie.
 
@@ -524,11 +545,11 @@ Le requérant d’un document d’identité de remplacement doit présenter un a
 
 #### Art. 26
 
-**Restitution des passeports provisoires**
+**Restitution des passeports d’urgence**
 
-<sup>1</sup> Les passeports provisoires doivent être restitués à l’autorité d’établissement après le retour en Suisse.
+<sup>1</sup> Les passeports d’urgence doivent être restitués à l’autorité d’établissement après le retour en Suisse.
 
-<sup>2</sup> Si cela se justifie, un passeport provisoire peut être utilisé au plus tard jusqu’à l’expiration de sa durée de validité.
+<sup>2</sup> Si cela se justifie, un passeport d’urgence peut être utilisé au plus tard jusqu’à l’expiration de sa durée de validité.
 
 ### Section 7 Remise, contrôle et manipulation
 
@@ -807,14 +828,14 @@ Quiconque demande un document d’identité doit s’acquitter d’un émolument
 Un émolument est perçu pour les prestations suivantes:
 
 - a. les inscriptions ultérieures visées à l’art. 2, al. 4, LDI;
-- b. l’établissement d’un passeport provisoire par une autorité d’établissement en dehors des heures de bureau ordinaires ainsi que le samedi, le dimanche et les jours fériés légaux;
-- c. l’établissement d’un passeport provisoire dans un aéroport.
+- b. l’établissement d’un passeport d’urgence par une autorité d’établissement en dehors des heures de bureau ordinaires ainsi que le samedi, le dimanche et les jours fériés légaux;
+- c. l’établissement d’un passeport d’urgence dans un aéroport.
 
 <sup>2</sup>
 
 Un émolument peut être perçu pour les prestations suivantes:
 
-- a.[^46-1] les investigations supplémentaires liées à l’établissement d’un document d’identité ordinaire ou d’un passeport provisoire en vertu de l’art. 6, al. 4;
+- a.[^46-1] les investigations supplémentaires liées à l’établissement d’un document d’identité ordinaire ou d’un passeport d’urgence en vertu de l’art. 6, al. 4;
 - b. le retrait d’un document d’identité;
 - c. la restitution d’un document d’identité retiré;
 - d. l’obtention de documents supplémentaires et la transmission de documents.
@@ -879,9 +900,9 @@ Si le document d’identité demandé ne peut être établi, l’autorité d’�
 
 <sup>2</sup> Le délai de livraison du document d’identité est, en Suisse, de dix jours ouvrables et, à l’étranger, de 30 jours ouvrables à compter de l’approbation de la demande par l’autorité compétente. Dans des cas d’espèce, la représentation étrangère peut prévoir un délai de livraison plus long.
 
-<sup>3</sup> Si les circonstances le justifient, par exemple en cas de problème technique, le département peut décider d’un délai plus long. La prolongation du délai est publiée dans la Feuille fédérale.
+<sup>3</sup> Si les circonstances le justifient, par exemple en cas de problème technique, le DFJP peut décider d’un délai plus long. La prolongation du délai est publiée dans la Feuille fédérale.
 
-<sup>4</sup> Si le délai de livraison n’est pas respecté, le requérant peut le signaler dans les cinq jours ouvrables qui suivent. Dans ce cas, il a droit à l’établissement sans frais d’un passeport provisoire s’il en a besoin pour un voyage ou à d’autres fins. Si le requérant ne reçoit pas le passeport qu’il a demandé et si sa réception ne peut plus raisonnablement être escomptée, le requérant a droit à l’établissement sans frais d’un nouveau passeport.
+<sup>4</sup> Si le délai de livraison n’est pas respecté, le requérant peut le signaler dans les cinq jours ouvrables qui suivent. Dans ce cas, il a droit à l’établissement sans frais d’un passeport d’urgence s’il en a besoin pour un voyage ou à d’autres fins. Si le requérant ne reçoit pas le passeport qu’il a demandé et si sa réception ne peut plus raisonnablement être escomptée, le requérant a droit à l’établissement sans frais d’un nouveau passeport.
 
 <sup>5</sup> Si le centre chargé de produire les documents d’identité est responsable du défaut ou du retard de livraison, l’autorité d’établissement compétente lui fournit les documents justifiant la production gratuite du document d’identité.
 
@@ -961,7 +982,7 @@ Les décisions et les prescriptions de service du DFAE relatives à l’établis
 
 **Exécution**[^58-1]
 
-<sup>1</sup> Le département est chargé de l’exécution de la présente ordonnance.
+<sup>1</sup> Le DFJP est chargé de l’exécution de la présente ordonnance.
 
 <sup>2</sup> Il édicte les directives relatives aux documents d’identité nécessaires à l’exécution de la présente ordonnance.
 
@@ -1022,94 +1043,105 @@ Sont abrogées:
 
 <sup>2</sup> Les art. 59 et 60 entrent en vigueur le 1<sup>er</sup> janvier 2003.
 
+## Disposition transitoire de la modification du 26 août 2026
+
+[^u1-1]
+
+[^u1-1]: [RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)
+
+Les passeports provisoires, passeports diplomatiques provisoires et passeports de service provisoires établis avant l’entrée en vigueur de la modification du 26 août 2026 restent valables jusqu’à leur date d’expiration. Les dispositions relatives au passeport d’urgence s’appliquent par analogie.
+
 Annexe 1[^t-1]
 
 (art. 30, al. 1)
 
 ## Autorisation de traiter ou de consulter des données enregistrées dans ISA
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 2 déc. 2022, en vigueur depuis le 1<sup>er</sup> fév. 2023 ([RO 2022 781](https://fedlex.data.admin.ch/eli/oc/2022/781)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 514](https://fedlex.data.admin.ch/eli/oc/2026/514)).
 
 A = Consultation; E = Entrée et consultation
 
 <table>
-<tr><th>Nom du champ de données</th><th colspan="4">Confédération</th><th></th><th></th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th colspan="2">Cantons</th><th colspan="2">Tiers</th><th colspan="2"></th><th></th></tr>
-<tr><th></th><th>fedpol DEI</th><th>fedpol Pol</th><th>DFAE Ext A. ét.</th><th colspan="4">DFAE Int A. ét.</th><th colspan="3">DFAE Int Doc suppl.</th><th colspan="2">Cgfr</th><th>Cant. A. ét.</th><th>APP</th><th>A. pol. Vérif. Id.</th><th colspan="2">A. pol. Perte doc.</th><th colspan="2">C. co.</th></tr>
-<tr><td colspan="20">Enregistrement documents d’identité + banque de données</td></tr>
-<tr><td colspan="20">I. Données relatives aux documents d’identité</td></tr>
-<tr><td>Nom d’état civil selon art. 2, al. 1, let. a, LDI, ou nom d’alliance</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Prénom(s), let. b</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Sexe, let. c</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Date de naissance, let. d</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Lieu d’origine, let. e</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Nationalité, let. f</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2">E</td></tr>
-<tr><td>Taille, let. g</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Signature, let. h</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Photographie, let. i/photographie numérique, art. 14*a*, al. 1, let. b, OLDI</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2">E</td></tr>
-<tr><td>Empreintes digitales, art. 14*a*, al. 1, let. c, OLDI</td><td>E</td><td>A<sup>1</sup></td><td>E<sup>1</sup></td><td colspan="4">E<sup>1</sup></td><td colspan="3"></td><td colspan="2">A<sup>1</sup></td><td>E<sup>1</sup></td><td>E<sup>1</sup></td><td>A<sup>1</sup></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Autorité d’établissement, let. j, LDI</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Date d’établissement, let. k</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2">E</td></tr>
-<tr><td>Date d’expiration, let. l</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2">E</td></tr>
-<tr><td colspan="20"><sup>1</sup> Seulement à titre de comparaison, pas d’affichage à l’écran et pas de possibilité d’exporter des données.</td></tr>
-<tr><td>Numéro du document, let. m</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2">E</td></tr>
-<tr><td>Type de document, let. m</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Zone de lecture automatisée, art. 2, al. 2, LDI</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2">E</td></tr>
-<tr><td>Restrictions de validité, al. 3</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Inscriptions sur demande du requérant, al. 4</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Représentation légale des mineurs, al. 5</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td colspan="20">II. Données supplémentaires de la banque de données</td></tr>
-<tr><td>Autorité qui transmet la demande d’établissement, art. 11, al. 1, let. a, LDI</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Numéro de la demande</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Date de la demande</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Numéro de l’objet</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Numéro du dossier</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Type de la demande</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Motif de la demande</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Remarques concernant la demande</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Documents relatifs à la demande</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Documents de voyage supplétifs</td><td>E</td><td></td><td>E</td><td colspan="4"></td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Date de la saisie</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Unité de production</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2">E</td></tr>
-<tr><td>État de la production</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2">E</td></tr>
-<tr><td>Numéro d’envoi</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>A</td><td></td><td colspan="2"></td><td colspan="2">E</td></tr>
-<tr><td>Code de langue</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Date de prise en charge</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td></td><td></td><td colspan="2"></td><td colspan="2">E</td></tr>
-<tr><td>Type d’émoluments</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Confirmation de production</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td></td><td></td><td colspan="2"></td><td colspan="2">E</td></tr>
-<tr><td>Date d’envoi</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td></td><td></td><td colspan="2"></td><td colspan="2">E</td></tr>
-<tr><td>Adresse du domicile</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Données de contact</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Adresse d’envoi</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Lieu de naissance, art. 11, al. 1, let. b, LDI</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Noms et prénoms des parents, let. d</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Numéro AVS</td><td>A</td><td></td><td></td><td colspan="4"></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Date du premier et du nouvel établissement, let. e</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Modifications des mentions figurant dans le document d’identité</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>E</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Inscriptions concernant la saisie de documents d’identité, let. f</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>A</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Dépôt de documents d’identité</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Refus de documents d’identité</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>A</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Avis de perte / révocation</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>A</td><td></td><td colspan="2">E</td><td colspan="2"></td></tr>
-<tr><td>Retrait</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
-<tr><td>Mesures de protection des mineurs et des interdits, let. g</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>A</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Signature des représentants légaux pour les documents d’identité des mineurs, let. h</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>E</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Perte et révocation de la nationalité, let. i</td><td>E</td><td></td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2"></td><td>E</td><td>A</td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Particularités des documents d’identité diplomatiques et consulaires, let. j (champ particulier)</td><td>A</td><td></td><td></td><td colspan="4">E</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>Statut du document d’identité</td><td>E</td><td>A</td><td>E</td><td colspan="4">E</td><td colspan="3">A</td><td colspan="2">A</td><td>E</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2"></td></tr>
+<tr><th>Nom du champ de données</th><th colspan="7">Confédération</th><th colspan="2">Cantons</th><th colspan="3">Tiers</th></tr>
+<tr><th></th><th>fedpol DEI</th><th>fedpol UIP</th><th>fedpol Pol</th><th>DFAE Ext A. ét.</th><th>DFAE Int A. ét.</th><th>DFAE Int Doc suppl.</th><th>Cgfr</th><th>Cant. A. ét.</th><th>APP</th><th>A. pol. Vérif. Id.</th><th>A. pol. Perte doc.</th><th>C. co.</th></tr>
+<tr><td colspan="13">**Enregistrement documents d’identité + banque de données**</td></tr>
+<tr><td colspan="13">**I. Données relatives aux documents d’identité**</td></tr>
+<tr><td>Nom d’état civil selon art. 2, al. 1, let. a, LDI, ou nom d’alliance</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Prénom(s), let. b</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Sexe, let. c</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date de naissance, let. d</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Lieu d’origine, let. e</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Nationalité, let. f</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Taille, let. g</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Signature, let. h</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Photographie, let. i/photographie numérique, art. 14*a*, al. 1, let. b, OLDI</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Empreintes digitales, art. 14*a*, al. 1, let. c, OLDI</td><td>E</td><td></td><td>A<sup>1</sup></td><td>E<sup>1</sup></td><td>E<sup>1</sup></td><td></td><td>A<sup>1</sup></td><td>E<sup>1</sup></td><td>E<sup>1</sup></td><td>A<sup>1</sup></td><td></td><td></td></tr>
+<tr><td>Autorité d’établissement, let. j, LDI</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date d’établissement, let. k</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Date d’expiration, let. l</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Numéro du document, let. m</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Type de document, let. m</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Zone de lecture automatisée, art. 2, al. 2, LDI</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td colspan="13"><sup>1</sup> Seulement à titre de comparaison, pas d’affichage à l’écran et pas de possibilité d’exporter des données.</td></tr>
+<tr><td>Restrictions de validité, al. 3</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Inscriptions sur demande du requérant, al. 4</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Représentation légale des mineurs, al. 5</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td colspan="13">II. Données supplémentaires de la banque de données</td></tr>
+<tr><td>Autorité qui transmet la demande d’établissement, art. 11, al. 1, let. a, LDI</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numéro de la demande</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date de la demande</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numéro de l’objet</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Numéro du dossier</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Type de la demande</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Motif de la demande</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Remarques concernant la demande</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Documents relatifs à la demande</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Documents de voyage supplétifs</td><td>E</td><td>A</td><td></td><td>E</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Date de la saisie</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Unité de production</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td>E</td></tr>
+<tr><td>État de la production</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td></tr>
+<tr><td>Numéro d’envoi</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td>E</td></tr>
+<tr><td>Code de langue</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Date de prise en charge</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td></td><td></td><td></td><td>E</td></tr>
+<tr><td>Type d’émoluments</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Confirmation de production</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td></td><td></td><td></td><td>E</td></tr>
+<tr><td>Date d’envoi</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td></td><td></td><td></td><td>E</td></tr>
+<tr><td>Adresse du domicile</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Données de contact</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Adresse d’envoi</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Lieu de naissance, art. 11, al. 1, let. b, LDI</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Noms et prénoms des parents, let. d</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Numéro AVS</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date du premier et du nouvel établissement, let. e</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Modifications des mentions figurant dans le document d’identité</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Inscriptions concernant la saisie de documents d’identité, let. f</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Dépôt de documents d’identité</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Refus de documents d’identité</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Avis de perte / révocation</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td>E</td><td></td></tr>
+<tr><td>Retrait</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Mesures de protection des mineurs et des interdits, let. g</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Signature des représentants légaux pour les documents d’identité des mineurs, let. h</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
+<tr><td>Perte et révocation de la nationalité, let. i</td><td>E</td><td></td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Particularités des documents d’identité diplomatiques et consulaires, let. j (champ particulier)</td><td>A</td><td>A</td><td></td><td></td><td>E</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Statut du document d’identité</td><td>E</td><td></td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 </table>
 
-**Abréviations**
+Abréviations
 
-- fedpol DEI: Documents d’identité de l’Office fédéral de la police (service compétent de la Confédération, art. 12, al. 1, let. a, LDI)
-- fedpol Pol: Office fédéral de la police en tant que service de police compétent de la Confédération (art. 12, al. 2, let. d et f, et art. 12, al. 3, LDI)
-- DFAE Ext A. ét.: Autorité d’établissement externe du DFAE pour les documents d’identité, les passeports provisoires et les passeports biométriques (art. 12, al. 1, let. b, LDI) = représentation suisse à l’étranger
-- DFAE Int A. ét.: Autorité d’établissement interne du DFAE pour les passeports diplomatiques biométriques, les passeports de service biométriques et les passeports provisoires (art. 12, al. 1, let. b, LDI)
-- DFAE Int Doc Autorité d’établissement interne au DFAE pour les documents de suppl.: voyage supplétifs
-- Cgfr: Corps des gardes-frontière (art. 12, al. 2, let. c, LDI)
-- Cant. A. ét.: Autorité d’établissement cantonale (art. 12, al. 1, let. b, LDI)
-- APP: Autorité d’établissement pour les passeports provisoires (art. 12, al. 1, let. b, LDI)
-- A. pol. Vérif. Id.: Autorités de police désignées par les cantons pour vérifier l’identité (art. 12, al. 2, let. d, LDI)
-- A. pol. Perte doc.: Autorités de police désignées par les cantons pour enregistrer les annonces de perte (art. 12, al. 2, let. e, LDI)
-- C. co.: Centre chargé de produire les documents d’identité ordinaires (art. 12, al. 1, let. c, LDI)
+<table>
+<tr><td>fedpol DEI:</td><td>Office fédéral de la police, Domaine Documents d’identité (art. 12, al. 1, let. a, LDI)</td></tr>
+<tr><td>fedpol UIP:</td><td>Office fédéral de la police, unité nationale chargée du traitement des données relatives aux passagers aériens (Unité d’information passagers, UIP; art. 12, al. 2, let a, LDI)</td></tr>
+<tr><td>fedpol Pol:</td><td>Office fédéral de la police en tant que service de police compétent de la Confédération (art. 12, al. 2, let. d et f, et art. 12, al. 3, LDI)</td></tr>
+<tr><td>DFAE Ext A. ét.:</td><td>Autorité d’établissement externe du DFAE pour les documents d’identité, les passeports provisoires et les passeports biométriques (art. 12, al. 1, let. b, LDI) = représentation suisse à l’étranger</td></tr>
+<tr><td>DFAE Int A. ét.:</td><td>Autorité d’établissement interne du DFAE pour les passeports diplomatiques biométriques, les passeports de service biométriques et les passeports provisoires (art. 12, al. 1, let. b, LDI)</td></tr>
+<tr><td>DFAE Int Doc:</td><td>Autorité d’établissement interne au DFAE pour les documents de voyage supplétifs</td></tr>
+<tr><td>Cgfr:</td><td>Corps des gardes-frontière (art. 12, al. 2, let. c, LDI)</td></tr>
+<tr><td>Cant. A. ét.:</td><td>Autorité d’établissement cantonale (art. 12, al. 1, let. b, LDI)</td></tr>
+<tr><td>APP:</td><td>Autorité d’établissement pour les passeports provisoires (art. 12, al. 1, let. b, LDI)</td></tr>
+<tr><td>A. pol. Vérif. Id.:</td><td>Autorités de police désignées par les cantons pour vérifier l’identité (art. 12, al. 2, let. d, LDI)</td></tr>
+<tr><td>A. pol. Perte doc.:</td><td>Autorités de police désignées par les cantons pour enregistrer les annonces de perte (art. 12, al. 2, let. e, LDI)</td></tr>
+<tr><td>C. co.:</td><td>Centre chargé de produire les documents d’identité ordinaires (art. 12, al. 1, let. c, LDI)</td></tr>
+</table>
 
 Annexe 2[^t-2]
 
@@ -1117,13 +1149,16 @@ Annexe 2[^t-2]
 
 ## Émoluments pour les documents d’identité (art. 45)
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 21 oct. 2009 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)). Mise à jour par le ch. II al. 1 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 <table>
-<tr><td></td><td>Carte d’identité fr.</td><td>Passeport fr.</td><td>Passeport + carte d’identité fr.</td><td>Passeport provisoire fr.</td></tr>
-<tr><td>Enfants\*</td><td>30.–</td><td>60.–</td><td>68.–</td><td>100.–</td></tr>
-<tr><td>Adultes\*</td><td>65.–</td><td>140.–</td><td>148.–</td><td>100.–</td></tr>
-<tr><td colspan="5">\* Passeport: enfants = personnes âgées de moins de 18 ans; adultes = personnes âgées de 18 ans ou plus.</td></tr>
+<tr><th>Document d’identité</th><th>Enfants Personnes âgées de moins de 18 ans fr.</th><th>Adultes Personnes âgées de 18 ans ou plus fr.</th></tr>
+<tr><td>Carte d’identité sans puce</td><td>30.—</td><td>65.—</td></tr>
+<tr><td>Carte d’identité munie d’une puce</td><td>30.—</td><td>65.—</td></tr>
+<tr><td>Passeport</td><td>60.—</td><td>140.—</td></tr>
+<tr><td>Passeport + carte d’identité sans puce</td><td>68.—</td><td>148.—</td></tr>
+<tr><td>Passeport + carte d’identité munie d’une puce</td><td>68.—</td><td>148.—</td></tr>
+<tr><td>Passeport d’urgence</td><td>100.—</td><td>100.—</td></tr>
 </table>
 
 ## Émoluments pour d’autres prestations (art. 46)
@@ -1132,12 +1167,12 @@ Annexe 2[^t-2]
 <tr><td></td><td>fr.</td></tr>
 <tr><td>Suppléments obligatoires (al. 1):</td><td></td></tr>
 <tr><td>a. inscriptions ultérieures par une autorité d’établissement</td><td>20.–</td></tr>
-<tr><td>b. établissement d’un passeport provisoire:</td><td></td></tr>
+<tr><td>b. établissement d’un passeport d’urgence:</td><td></td></tr>
 <tr><td>– en dehors des heures de bureau normales</td><td>25.–</td></tr>
 <tr><td>– le samedi, le dimanche, les jours fériés légaux</td><td>50.–</td></tr>
-<tr><td>c. établissement d’un passeport provisoire à l’aéroport</td><td>50.–</td></tr>
+<tr><td>c. établissement d’un passeport d’urgence à l’aéroport</td><td>50.–</td></tr>
 <tr><td>Suppléments facultatifs (al. 2):</td><td></td></tr>
-<tr><td>a. investigations particulières liées à l’établissement d’un document d’identité ordinaire ou d’un passeport provisoire:</td><td></td></tr>
+<tr><td>a. investigations particulières liées à l’établissement d’un document d’identité ordinaire ou d’un passeport d’urgence:</td><td></td></tr>
 <tr><td>– temps de travail / barème horaire</td><td>80.–</td></tr>
 <tr><td>b. retrait d’un document d’identité</td><td>40.–</td></tr>
 <tr><td>c. restitution d’un document d’identité</td><td>40.–</td></tr>
@@ -1152,19 +1187,25 @@ Annexe 3[^t-3]
 
 ## Répartition des émoluments entre la Confédération et les cantons
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 26 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 436](https://fedlex.data.admin.ch/eli/oc/2026/436)).
 
 <table>
-<tr><td>Documents</td><td>Confédération</td><td></td><td>Cantons ou représentations suisses à l’étranger</td></tr>
-<tr><td></td><td>Part production fr.</td><td>Part fédérale au sens étroit fr.</td><td>fr.</td></tr>
-<tr><td>Carte d’identité</td><td></td><td></td><td></td></tr>
-<tr><td>Enfants</td><td>3.80</td><td>2.40</td><td>23.80</td></tr>
-<tr><td>Adultes</td><td>8.25</td><td>5.15</td><td>51.60</td></tr>
-<tr><td>Passeport</td><td></td><td></td><td></td></tr>
-<tr><td>Enfants</td><td>17.70</td><td>11.10</td><td>31.20</td></tr>
-<tr><td>Adultes</td><td>45.90</td><td>24.20</td><td>69.90</td></tr>
-<tr><td>Passeport + carte d’identité</td><td></td><td></td><td></td></tr>
-<tr><td>Enfants</td><td>25.70</td><td>11.10</td><td>31.20</td></tr>
-<tr><td>Adultes</td><td>53.90</td><td>24.20</td><td>69.90</td></tr>
-<tr><td>Passeport provisoire</td><td>30.—</td><td>0.—</td><td>70.—</td></tr>
+<tr><th>Document d’identité</th><th>Part de l’autorité d’établissement</th><th colspan="2">Part de la Confédération</th></tr>
+<tr><th></th><th>(cantons ou représentations suisses à l’étranger) fr.</th><th>Part du centre chargé de produire les documents d’identité fr.</th><th>Part de fedpol fr.</th></tr>
+<tr><td colspan="4">Carte d’identité sans puce</td></tr>
+<tr><td>Enfants</td><td>23.80</td><td>5.—</td><td>1.20</td></tr>
+<tr><td>Adultes</td><td>51.60</td><td>11.—</td><td>2.40</td></tr>
+<tr><td colspan="4">Carte d’identité munie d’une puce</td></tr>
+<tr><td>Enfants</td><td>23.80</td><td>5.—</td><td>1.20</td></tr>
+<tr><td>Adultes</td><td>51.60</td><td>11.—</td><td>2.40</td></tr>
+<tr><td colspan="4">Passeport</td></tr>
+<tr><td>Enfants</td><td>31.20</td><td>20.—</td><td>8.80</td></tr>
+<tr><td>Adultes</td><td>69.90</td><td>49.—</td><td>21.10</td></tr>
+<tr><td colspan="4">Passeport + carte d’identité sans puce</td></tr>
+<tr><td>Enfants</td><td>31.20</td><td>28.—</td><td>8.80</td></tr>
+<tr><td>Adultes</td><td>69.90</td><td>57.—</td><td>21.10</td></tr>
+<tr><td colspan="4">Passeport + carte d’identité munie d’une puce</td></tr>
+<tr><td>Enfants</td><td>31.20</td><td>28.—</td><td>8.80</td></tr>
+<tr><td>Adultes</td><td>69.90</td><td>57.—</td><td>21.10</td></tr>
+<tr><td>Passeport d’urgence</td><td>70.—</td><td>30.—</td><td>0.—</td></tr>
 </table>
