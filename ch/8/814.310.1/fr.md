@@ -4,11 +4,11 @@ title: "Ordonnance du 27 novembre 2024 relative à la loi fédérale sur les obj
 short: OCI
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/772"
 language: fr
-version: 2026-01-01
+version: 2026-11-01
 adopted: 2024-11-27
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-772-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-772-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20260101/fr"
 
 (Ordonnance sur la protection du climat, OCl)
 
-du 27 novembre 2024 (État le 1<sup>er</sup> janvier 2026)
+du 27 novembre 2024 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 3, al. 5, 4, al. 2, 6, al. 3, 7, 11, al. 1, et 13, al. 1, de la loi fédérale du 30 septembre 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique (LCl)[^ingress-1], vu la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^ingress-2],
+vu les art. 3, al. 5, 4, al. 2, 6, al. 3, 7, 10, al. 3, 11, al. 1, et 13, al. 1, de la loi fédérale du 30 septembre 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique (LCl)[^ingress-1], vu la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
 [^ingress-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -40,7 +41,10 @@ La présente ordonnance régit:
 - b. l’encouragement de technologies et de processus innovants permettant de mettre en œuvre les feuilles de route ou différentes mesures prévues par celles‑ci (art. 6 LCl);
 - c. la couverture des risques liés aux investissements dans les infrastructures publiques nécessaires pour atteindre l’objectif de zéro net (art. 7 LCl);
 - d. le réseau pour l’adaptation et la protection face aux effets des changements climatiques (art. 8 LCl);
-- e. les modalités du test facultatif visant à examiner la compatibilité des flux financiers avec les objectifs climatiques (art. 9 LCl).
+- e. les modalités du test facultatif visant à examiner la compatibilité des flux financiers avec les objectifs climatiques (art. 9 LCl);
+- f.[^1-1] le rôle de modèle de la Confédération et des cantons (art. 10 LCl).
+
+[^1-1]: Introduite par le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 2
 
@@ -522,6 +526,109 @@ Il accomplit notamment les tâches suivantes:
 
 <sup>5</sup> Il se base sur les résultats du test climatique pour déterminer l’état de compatibilité climatique des flux financiers et de la contribution effective à la réalisation des objectifs visés à l’art. 3 LCl. Il publie les résultats et la part de participants sous forme agrégée par secteur.
 
+## Chapitre 5*a* Rôle de modèle de la Confédération et des cantons
+
+[^chap5a-1]
+
+[^chap5a-1]: Introduit par le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
+
+#### Art. 30a
+
+**Atteinte de l’objectif de zéro net**
+
+<sup>1</sup> Les sites de l’administration fédérale centrale au sens de l’art. 7, al. 1, de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^30a-1] situés en Suisse, à l’exception du Groupement Défense et de l’Office fédéral de l’armement (armasuisse), atteignent ou surpassent l’objectif de zéro net fixé à l’art. 3, al. 1, LCl d’ici à 2040. Ils tiennent compte à cet égard non seulement des émissions directes et indirectes, mais aussi, de manière progressive, des émissions générées en amont et en aval.
+
+<sup>2</sup> Les sites de l’administration fédérale centrale situés à l’étranger, l’armée, le Groupement Défense et armasuisse atteignent ou surpassent l’objectif de zéro net fixé à l’art. 3, al. 1, LCl d’ici à 2050. Ils tiennent compte à cet égard non seulement des émissions directes et indirectes, mais aussi, autant que possible, des émissions générées en amont et en aval.
+
+<sup>3</sup> L’OFEV se charge d’obtenir les attestations nationales et internationales nécessaires pour que l’administration fédérale centrale et l’armée recourent à des NET.
+
+<sup>4</sup> Les administrations centrales des cantons, les unités de l’administration fédérale décentralisée au sens de l’annexe 1 OLOGA ainsi que les entités de la Confédération devenues autonomes au sens de l’annexe 3 OLOGA visent à atteindre ou à surpasser l’objectif de zéro net fixé à l’art. 3, al. 1, LCl d’ici à 2040. Elles tiennent compte à cet égard non seulement des émissions directes et indirectes, mais aussi, autant que possible, des émissions générées en amont et en aval.
+
+<sup>5</sup>
+
+L’administration fédérale centrale ne doit pas tenir compte des émissions suivantes concernant les objectifs fixés aux al. 1 et 2:
+
+- a. les émissions générées en aval par les activités subventionnées;
+- b. les émissions générées en amont et en aval dans le cadre de projets liés à la coopération internationale au développement, à la coopération avec l’Europe de l’Est, à l’aide humanitaire ainsi qu’à la promotion de la paix et de la sécurité humaine;
+- c. les émissions directes et indirectes ainsi que les émissions générées en amont et en aval par les bâtiments sous la responsabilité du domaine des EPF au sens de l’art. 6, al. 3, de l’ordonnance du 5 décembre 2008 concernant la gestion de l’immobilier et la logistique de la Confédération[^30a-2].
+
+[^30a-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^30a-2]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
+
+#### Art. 30b
+
+**Établissement du bilan et de l’aperçu de la trajectoire suivie par l’administration fédérale centrale et l’armée**
+
+<sup>1</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) établit le bilan des émissions directes et indirectes ainsi que des émissions générées en amont et en aval par l’administration fédérale centrale, à l’exception du Groupement Défense et d’armasuisse.
+
+<sup>2</sup> Il établit un aperçu de la trajectoire vers l’atteinte de l’objectif de zéro net pour les sites de l’administration fédérale centrale situés en Suisse, à l’exception du Groupement Défense et d’armasuisse, et coordonne les travaux nécessaires à l’établissement de cet aperçu. Il définit notamment les méthodes et les normes utilisées par l’administration fédérale centrale et l’armée.
+
+<sup>3</sup> Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) établit le bilan des émissions directes et indirectes ainsi que des émissions générées en amont et en aval par l’armée, le Groupement Défense et armasuisse.
+
+<sup>4</sup> Il établit un aperçu de la trajectoire vers l’atteinte de l’objectif de zéro net pour l’armée, le Groupement Défense et armasuisse.
+
+#### Art. 30c
+
+**Feuilles de route pour l’administration fédérale centrale et l’armée: coordination et élaboration**
+
+<sup>1</sup> Les départements et la Chancellerie fédérale sont responsables de l’atteinte de l’objectif de zéro net dans leur domaine de compétence.
+
+<sup>2</sup> Les départements désignent leurs unités administratives clés qui disposent de leviers importants pour atteindre l’objectif de zéro net et mettre en œuvre des mesures et qui peuvent contribuer de manière significative à la réduction des émissions.
+
+<sup>3</sup> Les départements, la Chancellerie fédérale et les unités administratives clés établissent les feuilles de route visant l’objectif de zéro net pour leur domaine.
+
+<sup>4</sup> Le DETEC établit une feuille de route générale pour les sites de l’administration fédérale centrale situés en Suisse, à l’exception du Groupement Défense et d’armasuisse; cette feuille de route générale se base sur les feuilles de route des départements et de la Chancellerie fédérale. Il établit une feuille de route séparée pour les sites de l’administration fédérale centrale situés à l’étranger.
+
+<sup>5</sup> Le DDPS établit une feuille de route séparée pour l’armée, le Groupement Défense et armasuisse.
+
+<sup>6</sup> Le Conseil fédéral approuve la feuille de route générale et la feuille de route pour les sites à l’étranger visées à l’al. 4 ainsi que la feuille de route du DDPS visée à l’al. 5. Au besoin, il charge les départements et la Chancellerie fédérale d’adapter leurs feuilles de route visées à l’al. 3 à la feuille de route générale qu’il a approuvée.
+
+<sup>7</sup> Les feuilles de route pour les sites en Suisse sont établies pour la première fois pour la législature 2027–2031 et sont ensuite mises à jour en vue de la législature suivante. La feuille de route pour les sites de l’administration fédérale centrale situés à l’étranger est établie pour la première fois pour la législature 2031–2035. La feuille de route générale, la feuille de route pour les sites à l’étranger ainsi que la feuille de route du DDPS sont publiées.
+
+#### Art. 30d
+
+**Feuilles de route pour l’administration fédérale centrale et l’armée: contenu**
+
+<sup>1</sup> Une feuille de route porte sur les émissions qui relèvent de la compétence de décision et de financement de l’unité administrative responsable de l’élaboration de la feuille de route.
+
+<sup>2</sup>
+
+Elle contient au moins:
+
+- a. un bilan des émissions directes et indirectes et des émissions générées en amont et en aval;
+- b. une description des installations et procédés existants;
+- c. une analyse présentant les solutions qui permettent de réduire les émissions de gaz à effet de serre en vue d’atteindre l’objectif de zéro net et qui permettent de recourir à des NET, et la mesure dans laquelle ces solutions permettent de le faire;
+- d. les mesures à prendre sur la base de l’analyse visée à la let. c afin de réduire les émissions de gaz à effet de serre ou de recourir à des NET;
+- e. une trajectoire de réduction des émissions directes et indirectes et des émissions générées en amont et en aval; les trajectoires de réduction nécessaires pour atteindre l’objectif de zéro net doivent être continues, pour autant que cela soit techniquement réalisable et finançable, et prévoir des objectifs intermédiaires;
+- f. une trajectoire continue de développement du recours à des NET, pour autant que cela soit finançable, afin de compenser d’ici aux années cibles visées à l’art. 30*a*, al. 1 et 2, les émissions directes et indirectes ainsi que les émissions générées en amont et en aval ne pouvant pas être réduites avec les mesures visées à la let. d;
+- g. les mesures à prendre pour l’adaptation aux effets des changements climatiques prévue à l’art. 8 LCl.
+
+#### Art. 30e
+
+**Établissement du rapport de l’administration fédérale centrale et de l’armée**
+
+<sup>1</sup> Les départements et la Chancellerie fédérale veillent à ce que les données brutes nécessaires au calcul des émissions directes et indirectes ainsi que des émissions générées en amont et en aval de l’administration fédérale centrale, à l’exception du Groupement Défense et d’armasuisse, soient transmises chaque année au DETEC par le biais d’une plateforme de collaboration centrale.
+
+<sup>2</sup> Le DETEC calcule toutes les émissions de l’administration fédérale centrale, à l’exception du Groupement Défense et d’armasuisse.
+
+<sup>3</sup> À partir de 2027, pour les années durant lesquelles aucun rapport au sens de l’al. 4 n’est établi, il informe le Conseil fédéral de l’avancement de la réalisation des objectifs de l’administration fédérale centrale, à l’exception du Groupement Défense et d’armasuisse.
+
+<sup>4</sup> À la fin de chaque législature, pour la première fois en 2032, il établit un rapport à l’intention du Conseil fédéral sur la réalisation des objectifs en matière de réduction des émissions directes et indirectes et des émissions générées en amont et en aval ainsi que sur les mesures pour l’adaptation aux changements climatiques destinées à l’administration fédérale centrale, à l’exception du Groupement Défense et d’armasuisse. Ce rapport est publié.
+
+<sup>5</sup> Le DDPS calcule toutes les émissions de l’armée, du Groupement Défense et d’armasuisse.
+
+<sup>6</sup> À la fin de chaque législature, pour la première fois en 2032, il établit un rapport à l’intention du Conseil fédéral sur la réalisation des objectifs en matière de réduction des émissions directes et indirectes et des émissions générées en amont et en aval ainsi que sur les mesures pour l’adaptation aux changements climatiques destinées à l’armée, au Groupement Défense et à armasuisse. Ce rapport est publié.
+
+#### Art. 30f
+
+**Bases pour les cantons, l’administration fédérale décentralisée et les entités de la Confédération devenues autonomes**
+
+<sup>1</sup> Les services spécialisés compétents de l’administration fédérale centrale mettent à la disposition des cantons, des unités de l’administration fédérale décentralisée au sens de l’annexe 1 OLOGA[^30f-1] et des entités de la Confédération devenues autonomes au sens de l’annexe 3 OLOGA des aides à la mise en œuvre spécifiques à l’établissement du bilan des émissions de gaz à effet de serre ainsi que des bases, des méthodes et du matériel pour atteindre l’objectif de zéro net; ils encouragent également les échanges de connaissances.
+
+<sup>2</sup> Les objectifs stratégiques des entités de la Confédération devenues autonomes au sens de l’annexe 3 OLOGA contiennent des prescriptions visant à atteindre l’objectif de zéro net.
+
+[^30f-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+
 ## Chapitre 6 Dispositions finales
 
 #### Art. 31
@@ -546,9 +653,11 @@ Il accomplit notamment les tâches suivantes:
 
 #### Art. 33
 
-**Adaptation de l’annexe 1**
+**Adaptation de l’annexe 1**[^33-1]
 
-Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication adapte l’annexe 1 en fonction de l’évolution des connaissances scientifiques.
+Le DETEC adapte l’annexe 1 en fonction de l’évolution des connaissances scientifiques.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 9 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 478](https://fedlex.data.admin.ch/eli/oc/2026/478)).
 
 #### Art. 34
 
