@@ -4,13 +4,12 @@ number: "123.121"
 title: Vollziehungsverordnung zum Bundesgesetz über die Ausweise für Schweizer Staatsangehörige
 short: VV Ausweisgesetz
 language: de
-version: 2024-07-01
-valid_until: 2026-10-31
-version_adopted: 2024-03-13
+version: 2026-11-01
+version_adopted: 2026-10-14
 adopted: 2002-12-18
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/123.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3481/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/4024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3481/pdf_file"
 
 (VV Ausweisgesetz)
 
-Vom 18.12.2002 (Stand 01.07.2024)
+Vom 18.12.2002 (Stand 01.11.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die Art. 4 Abs. 1, 4a Abs. 1, 5 Abs. 1 und 12 Abs. 2 lit. d und e des Bundesgesetzes über die Ausweise für Schweizer Staatsangehörige (Ausweisgesetz, AwG) vom 22. Juni 2001[^ingress-1] sowie Art. 9 Abs. 2 der Verordnung über die Ausweise für Schweizer Staatsangehörige (Ausweisverordnung, VAwG) vom 20. September 2002[^ingress-2],
+gestützt auf die Art. 4 Abs. 1, 4a Abs. 1, 5 Abs. 1 und 12 Abs. 2 lit. d und e des Bundesgesetzes über die Ausweise für Schweizer Staatsangehörige (Ausweisgesetz, AwG) vom 22. Juni 2001[^ingress-1] sowie Art. 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung,
 
 beschliesst:
 
 [^ingress-1]: SR [143.1](https://db.clex.ch/link/Bund/143.1/de)
-[^ingress-2]: SR [143.11](https://db.clex.ch/link/Bund/143.11/de)
 
 #### § 1
 
@@ -40,7 +38,7 @@ beschliesst:
 
 #### § 2a
 
-<sup>1</sup> Die antragstellende Person kann eine digitale Fotografie beibringen, die den bundesrechtlichen Anforderungen entspricht.
+<sup>1</sup> …
 
 #### § 3
 
@@ -48,15 +46,13 @@ beschliesst:
 
 #### § 3a
 
-<sup>1</sup> Identitätskarten sind bei der Wohnsitzgemeinde zu beantragen.
+<sup>1</sup> Identitätskarten ohne Datenchip sind bei der Wohnsitzgemeinde zu beantragen.
 
 <sup>2</sup> Von den nach Abzug des Bundesanteils verbleibenden Gebühren gemäss Anhang 3 VAwG beansprucht der Kanton die Hälfte für die Deckung seiner Aufwendungen.
 
 #### § 4
 
-<sup>1</sup> Die Passverordnung vom 15. Dezember 1975[^4-1] ist aufgehoben.
-
-[^4-1]: AGS Bd. 9 S. 245; Bd. 10 S. 394, 695; Bd. 11 S. 504; Bd. 14 S. 692; 1999 S. 41
+**…**
 
 #### § 5
 
