@@ -3,26 +3,27 @@ sr: "143.111"
 title: Verordnung des EJPD vom 16. Februar 2010 über die Ausweise für Schweizer Staatsangehörige
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/96"
 language: de
-version: 2024-11-11
+version: 2026-11-01
 adopted: 2010-02-16
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20241111/de/xml/fedlex-data-admin-ch-eli-cc-2010-96-20241111-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20241111/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2010-96-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über die Ausweise für Schweizer Staatsangehörige
 
-vom 16. Februar 2010 (Stand am 11. November 2024)
+vom 16. Februar 2010 (Stand am 1. November 2026)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
-gestützt auf die Artikel 4, 9 Absatz 2 und 58 Absatz 1 der Ausweisverordnung vom 20. September 2002[^ingress-1] (VAwG),
+gestützt auf die Artikel 4, 12 Absatz 4 zweiter Satz, 14*d* Absatz 2 dritter Satz und 58 Absatz 1 der Ausweisverordnung vom 20. September 2002[^ingress-1] (VAwG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+[^ingress-1]: [SR 143.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4905)
+[^ingress-2]: Fassung gemäss Ziff. I der V des EJPD vom 25. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -34,7 +35,7 @@ verordnet:
 
 <sup>2</sup> Die Bestimmungen der Verordnung des EDA vom 13. November 2002[^1-1] zur Ausweisverordnung bleiben vorbehalten.
 
-[^1-1]: [SR 143.116](https://fedlex.data.admin.ch/eli/cc/2002/664)
+[^1-1]: [SR 143.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4907)
 
 #### Art. 2
 
@@ -50,14 +51,15 @@ verordnet:
 
 **Erscheinungsform**
 
-<sup>1</sup> Der ordentliche und provisorische Pass werden in Form eines Büchleins nach dem ID-3-Format[^3-1] ausgestellt.[^3-2]
+<sup>1</sup> Der ordentliche und der Notpass[^3-1] werden in Form eines Büchleins nach dem ID-3-Format[^3-2] ausgestellt.[^3-3]
 
-<sup>2</sup> Die Identitätskarte (IDK) wird im Kreditkartenformat nach dem ID-1-Format[^3-3] ausgestellt.[^3-4]
+<sup>2</sup> Die Identitätskarte (IDK) wird im Kreditkartenformat nach dem ID-1-Format[^3-4] ausgestellt.[^3-5]
 
-[^3-1]: ISO/IEC 7810; ID-3-Format; ICAO 9303; die Norm kann im Internet unter [www.iso.org](http://www.iso.org)/store.html &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 gegen Bezahlung abgerufen oder kostenlos eingesehen werden bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8404 Winterthur.
-[^3-2]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^3-3]: ISO/IEC 7810; ID-1-Format; ICAO 9303; die Norm kann im Internet unter [www.iso.org](http://www.iso.org)/store.html &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 gegen Bezahlung abgerufen oder kostenlos eingesehen werden bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8404 Winterthur.
-[^3-4]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-1]: Ausdruck gemäss Ziff. I der V des EJPD vom 25. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3-2]: ISO/IEC 7810; ID-3-Format; ICAO 9303; die Norm kann im Internet unter [www.iso.org](http://www.iso.org)/store.html &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 gegen Bezahlung abgerufen oder kostenlos eingesehen werden bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8404 Winterthur.
+[^3-3]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-4]: ISO/IEC 7810; ID-1-Format; ICAO 9303; die Norm kann im Internet unter [www.iso.org](http://www.iso.org)/store.html &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 gegen Bezahlung abgerufen oder kostenlos eingesehen werden bei der Schweizerischen Normen-Vereinigung, Sulzerallee 70, 8404 Winterthur.
+[^3-5]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### 2. Abschnitt: Inhalt des Ausweises
 
@@ -65,16 +67,17 @@ verordnet:
 
 **Name**
 
-<sup>1</sup> Der amtliche Name wird gemäss Infostar, Einwohnerkontrollregister, Heimatschein, Familienregister oder dem Informationssystem Ausweisschriften (ISA) eingetragen.
+<sup>1</sup> Der amtliche Name wird gemäss Infostar, Einwohnerkontrollregister oder dem Informationssystem Ausweisschriften (ISA) eingetragen.[^4-1]
 
-<sup>2</sup> Bei der Ausstellung eines Passes oder einer Identitätskarte stehen für den Namen inklusive Leerzeichen maximal 50 Zeichen zur Verfügung.[^4-1]
+<sup>2</sup> Bei der Ausstellung eines Passes oder einer Identitätskarte stehen für den Namen inklusive Leerzeichen maximal 50 Zeichen zur Verfügung.[^4-2]
 
 <sup>3</sup> Ist der meistverwendete Name innerhalb der verfügbaren Zeilenlänge nicht enthalten, so wird er in Absprache mit der antragstellenden Person vorgezogen und als letzter Name eingetragen. Gekürzte Namen sind im Pass in der Rubrik amtliche Ergänzungen vollständig und in der korrekten Reihenfolge aufzuführen.
 
-<sup>4</sup> …[^4-2]
+<sup>4</sup> …[^4-3]
 
-[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^4-2]: Aufgehoben durch Ziff. I der V des EJPD vom 29. Jan. 2014, mit Wirkung seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 25. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+[^4-2]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^4-3]: Aufgehoben durch Ziff. I der V des EJPD vom 29. Jan. 2014, mit Wirkung seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 4a
 
@@ -97,15 +100,16 @@ Als erster Teil des Allianznamens steht der aktuelle amtliche Name der antragste
 
 **Vorname**
 
-<sup>1</sup> Der Vorname wird gemäss Reihenfolge im Infostar, Einwohnerkontrollregister, Heimatschein, Familienregister oder ISA eingetragen. Der Rufname wird nicht gekennzeichnet.
+<sup>1</sup> Der Vorname wird gemäss Reihenfolge im Infostar, Einwohnerkontrollregister oder ISA eingetragen. Der Rufname wird nicht gekennzeichnet.[^5-1]
 
-<sup>2</sup> Bei der Ausstellung eines Passes oder einer Identitätskarte stehen für den Vornamen inklusive Leerzeichen maximal 50 Zeichen zur Verfügung.[^5-1]
+<sup>2</sup> Bei der Ausstellung eines Passes oder einer Identitätskarte stehen für den Vornamen inklusive Leerzeichen maximal 50 Zeichen zur Verfügung.[^5-2]
 
 <sup>3</sup> Ist der Rufname innerhalb der verfügbaren Zeilenlänge nicht enthalten, so wird er in Absprache mit der antragstellenden Person vorgezogen und als letzter ungekürzter Vorname eingetragen. Gekürzte Vornamen sind im Pass in der Rubrik amtliche Ergänzungen vollständig und in der korrekten Reihenfolge aufzuführen. Im Pass kann der Rufname auf Verlangen der antragstellenden Person in der Rubrik amtliche Ergänzungen eingetragen werden.
 
 <sup>4</sup> Hat die antragstellende Person keinen Vornamen, so werden drei Sterne (\*\*\*) eingetragen.
 
-[^5-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^5-1]: Fassung gemäss Ziff. I der V des EJPD vom 25. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+[^5-2]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 6
 
@@ -161,38 +165,17 @@ Die Schreibweise des Heimatortes richtet sich nach dem amtlichen Gemeindeverzeic
 
 #### Art. 12
 
-**Fotografie**
+**Fotografie**[^12-1]
 
-<sup>1</sup> Die ausstellende Behörde kann das Mitbringen einer digitalen Fotografie zulassen. Will die antragstellende Person diese Möglichkeit nutzen, so muss sie dies beim Antrag auf Ausstellung eines Ausweises mitteilen. Die ausstellende Behörde versendet diesfalls einen Link per E-Mail, über den die digitale Fotografie in das Ausweissystem hochgeladen werden kann.[^12-1]
+Die Anforderungen an die Fotografie nach den Artikeln 12 Absatz 4 zweiter Satz und 14*d* Absatz 2 dritter Satz VAwG sind im Anhang festgelegt.
 
-<sup>2</sup> Die Fotografie muss als Farbbild (8 Bit/Pixel) im Format JPEG mit Kompression mit hoher Qualität (Dateigrösse ca. 700 kB) und Baseline (Standard)-Format beigebracht werden. Sie darf nicht retouchiert sein.[^12-2]
-
-<sup>3</sup> Mit Ausnahme der Anforderungen betreffend Format müssen die Vorgaben der Fotomustertafel nach Artikel 13 eingehalten werden.
-
-<sup>4</sup>
-
-Es gelten folgende Anforderungen bezüglich Format:
-
-- a. Die Grösse des Bildes muss 1980 × 1440 Pixel (Höhe × Breite) betragen;
-- b. Der Augenabstand (Pupille zu Pupille) muss zwischen 15 und 20 Prozent der Bildbreite betragen;
-- c.[^12-3] Die Augen müssen im Bereich von 50–60 Prozent der Bildhöhe, gemessen vom unteren Bildrand, liegen.
-
-<sup>5</sup> Die mitgebrachte Fotografie wird mit einem vor Ort erfassten Bild verifiziert und im System nachbearbeitet. Es besteht kein Anspruch auf Verwendung der Fotografie, wenn diese nicht alle Anforderungen erfüllt.
-
-<sup>6</sup> Das Mitbringen einer Fotografie hat keine Gebührenreduktion zu Folge. Der antragstellenden Person wird kein Ersatz für ihre Auslagen erstattet.
-
-[^12-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-2]: Fassung gemäss Ziff. I der V des EJPD vom 13. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-3]: Fassung gemäss Ziff. I der V des EJPD vom 29. Jan. 2014, in Kraft seit 1. März 2014 ([AS 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^12-1]: Fassung gemäss Ziff. I der V des EJPD vom 25. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 13
 
-**Fotomustertafel**
+[^13-1]
 
-Die Fotomustertafel wird nach Artikel 5 des Publikationsgesetzes vom 18. Juni 2004[^13-1] nicht in der Amtlichen Sammlung des Bundesrechts veröffentlicht. Sie ist in elektronischer Form[^13-2] zugänglich und kann unentgeltlich bei den ausstellenden Behörden eingesehen werden.
-
-[^13-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^13-2]: [www.schweizerpass.ch](http://www.schweizerpass.ch)
+[^13-1]: Aufgehoben durch Ziff. I der V des EJPD vom 25. Aug. 2026, mit Wirkung seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 14
 
@@ -224,9 +207,11 @@ Jedem Ausweis wird durch die Ausfertigungsstelle eine einmalige Ausweisnummer zu
 
 <sup>1</sup> Die Schreibweise des Geburtsortes in der Schweiz richtet sich nach dem amtlichen Gemeindeverzeichnis der Schweiz des Bundesamtes für Statistik, gefolgt von der offiziellen Abkürzung des betreffenden Kantons.
 
-<sup>2</sup> Die Schreibweise eines Geburtsortes im Ausland richtet sich nach dem Eintrag im Infostar, dem Heimatschein oder dem Familienregister.
+<sup>2</sup> Die Schreibweise eines Geburtsortes im Ausland richtet sich nach dem Eintrag im Infostar.[^17-1]
 
 <sup>3</sup> Ist der Geburtsort unbekannt, so werden drei Sterne (\*\*\*) eingetragen.
+
+[^17-1]: Fassung gemäss Ziff. I der V des EJPD vom 25. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 18
 
@@ -267,7 +252,7 @@ Bei der Antragstellung können namentlich folgende Dokumente von der antragstell
 
 <sup>2</sup> Der antragstellenden Person wird kein Ersatz für die Beschaffung der Unterlagen nach Absatz 1 erstattet.
 
-[^20-1]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^20-1]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 #### Art. 21
 
@@ -275,7 +260,7 @@ Bei der Antragstellung können namentlich folgende Dokumente von der antragstell
 
 In Zusammenhang mit der Datenbearbeitung nach Artikel 13 AwG[^21-1] und Artikel 29 VAwG werden im ISA Name(n), Vorname(n), Geburtsdatum und -ort, Heimatort sowie Geschlecht und Elternnamen erfasst.
 
-[^21-1]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^21-1]: [SR 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ## 3. Kapitel: Antrag, Ausstellung und Verlust
 
@@ -358,13 +343,13 @@ Bei häufigen Ausweisverlusten nach Artikel 5 Absatz 3 VAwG verlangt die zustän
 
 Stellen ausstellende Behörden Fälschungen und Verfälschungen oder den Versuch der Erschleichung von Ausweisen fest oder liegen Verdachtsgründe vor, so ist das Bundesamt unverzüglich zu informieren.
 
-## 4. Kapitel: Provisorischer Pass
+## 4. Kapitel: Notpass
 
 #### Art. 30
 
 **Aufbewahrung von Blankopässen**
 
-<sup>1</sup> Noch nicht personalisierte provisorische Pässe (Blankopässe) sind von den ausstellenden Behörden unter Zuzug von angemessenen Sicherheitsmassnahmen bei der Ausfertigungsstelle abzuholen.
+<sup>1</sup> Noch nicht personalisierte Notpässe (Blankopässe) sind von den ausstellenden Behörden unter Zuzug von angemessenen Sicherheitsmassnahmen bei der Ausfertigungsstelle abzuholen.
 
 <sup>2</sup> Blankopässe sind von den ausstellenden Behörden sicher und in dokumentierter Form zu verwalten bzw. aufzubewahren.
 
@@ -374,7 +359,7 @@ Stellen ausstellende Behörden Fälschungen und Verfälschungen oder den Versuch
 
 **Besondere Fälle**
 
-Beantragt eine Person wiederholt provisorische Pässe und liegen Verdachtsgründe vor, dass die provisorischen Pässen zu missbräuchlichen Zwecken verwendet wurden, ist dies durch die ausstellende Behörde mit Bericht über die Umstände, insbesondere die Dringlichkeit der Ausstellung und angeordneten Massnahmen, dem Bundesamt zu melden.
+Beantragt eine Person wiederholt Notpässe und liegen Verdachtsgründe vor, dass die Notpässe zu missbräuchlichen Zwecken verwendet wurden, ist dies durch die ausstellende Behörde mit Bericht über die Umstände, insbesondere die Dringlichkeit der Ausstellung und angeordneten Massnahmen, dem Bundesamt zu melden.
 
 ## 5. Kapitel: Laissez-passer
 
@@ -468,4 +453,70 @@ Diese Verordnung tritt am 1. März 2010 in Kraft.
 
 Anhang[^t-1]
 
-[^t-1]: Aufgehoben durch Ziff. II der V des EJPD vom 13. April 2025, mit Wirkung seit 11. Nov. 2024 ([AS 2025 265](https://fedlex.data.admin.ch/eli/oc/2025/265)).
+(Art. 12)
+
+## Anforderungen an die Fotografie
+
+[^t-1]: Fassung gemäss Ziff. II der V des EJPD vom 25. Aug. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+
+Format
+
+Die Grösse der Fotografie muss 35 × 45 mm (ohne Rand) betragen.
+
+Die Gesichtshöhe vom Kinn bis zur Schädeldecke muss mindestens 29 mm und darf höchstens 34 mm betragen. Die Haare dürfen ausnahmsweise den Rand der Fotografie überschreiten.
+
+Bei Kindern unter 11 Jahren muss die Gesichtshöhe vom Kinn bis zur Schädeldecke mindestens 23 mm betragen.
+
+Körperhaltung, Kopfposition, Gesichtsausdruck und Blickrichtung
+
+Die Person muss aufrecht mit geraden Schultern vor der Kamera sitzen und direkt in die Kamera blicken. Die Kopfhaltung darf nicht geneigt, gedreht oder gekippt sein. Die Nase muss auf der gekennzeichneten Vertikal-Mittellinie der Schablone liegen.
+
+Beide Augen müssen offen, auf gleicher Höhe und deutlich sichtbar sein; dies gilt auch für Brillenträgerinnen und -träger.
+
+Der Gesichtsausdruck muss neutral sein.
+
+Der Mund muss geschlossen sein.
+
+Das Gesicht darf nicht teilweise durch eine Hand, einen Gegenstand (z. B. eine Pfeife) oder eine andere Person abgedeckt sein.
+
+Brillenträgerinnen und -träger
+
+Bei Brillenträgerinnen und -trägern dürfen die Augen nicht durch Brillengestelle verdeckt werden. Die Brillengläser dürfen nicht spiegeln. Die Gläser dürfen nicht getönt sein. Es darf keine Sonnenbrille getragen werden. Bei Menschen mit einer Sehbehinderung sind verdunkelte Brillengläser gestattet.
+
+Ausleuchtung, Schärfe und Kontrast
+
+Die Fotografie muss scharf und kontrastreich sowie gleichmässig ausgeleuchtet sein; es dürfen keine Schatten auf dem Gesicht liegen.
+
+Die Hauttöne müssen natürlich sein. Es dürfen keine Spiegelungen auf der Haut und keine roten Augen vorliegen.
+
+Hintergrund
+
+Der Hintergrund muss einfarbig, einheitlich und neutral sein. Die Person darf keine Schatten werfen. Kopf und Hintergrund müssen klar getrennt sein.
+
+Kopfbedeckung
+
+Kopfbedeckungen sind grundsätzlich nicht erlaubt. Nicht zulässig sind auch das Tragen eines Stirnbands oder eines augenfälligen Haarbands oder eine auf den Kopf geschobene Brille etc.
+
+Ausnahmen sind nur aus nachgewiesenen medizinischen oder religiösen Gründen gestattet, beispielsweise bei Ordensfrauen oder Personen, die einer Glaubensgemeinschaft angehören, die das Tragen einer Kopfbedeckung in der Öffentlichkeit vorschreibt. In diesen Fällen muss das Gesicht mindestens von der unteren Kinnkante bis zum Haaransatz erkennbar sein. Es dürfen keine Schatten auf dem Gesicht entstehen.
+
+Fotoqualität und weitere Anforderungen
+
+Zugelassen sind Schwarzweiss- und Farbfotografien. Im Ausweis wird die Fotografie als Graustufenbild abgebildet.
+
+Die Oberfläche des Fotopapiers muss glatt sein (hochglanz oder halbmatt). Die Oberfläche darf keine mit dem Finger spürbare Struktur haben (sog. Pearl- oder Seidenraster-Effekt).
+
+Für die Herstellung der Bilder darf nur speziell für Fotoabbildungen vorgesehenes Papier verwendet werden.
+
+Die Fotografie darf nicht älter als ein Jahr sein.
+
+Sie darf keine Knicke, Unebenheiten oder Verunreinigungen aufweisen. Die Ecken dürfen nicht abgerundet sein. Es darf keine Pixelstruktur ersichtlich sein.
+
+Fotografien mit Personen in Uniform sind nicht gestattet.
+
+Bei Kleinkindern oder Menschen mit einer Behinderung müssen nicht alle Anforderungen erfüllt sein. Insbesondere bezüglich Blick in die Kamera, neutralem Gesichtsausdruck und Kopfgrösse sind Abweichungen akzeptabel.
+
+### Fotomustertafel
+
+Zusätzliche Vorgaben ergeben sich aus den Muster-Bildern in der Fotomustertafel.[^annexu1-lvlu1-lvlu1-1]
+
+[^annexu1-lvlu1-lvlu1-1]: Der Inhalt der Fotomustertafel wird in der AS und in der SR nur durch Verweis veröffentlicht. Sie kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/437](https://fedlex.data.admin.ch/eli/oc/2026/437) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

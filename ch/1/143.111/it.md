@@ -3,26 +3,27 @@ sr: "143.111"
 title: "Ordinanza del DFGP del 16 febbraio 2010 sui documenti d'identità dei cittadini svizzeri"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/96"
 language: it
-version: 2024-11-11
+version: 2026-11-01
 adopted: 2010-02-16
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20241111/it/xml/fedlex-data-admin-ch-eli-cc-2010-96-20241111-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20241111/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2010-96-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sui documenti d’identità dei cittadini svizzeri
 
-del 16 febbraio 2010 (Stato 11 novembre 2024)
+del 16 febbraio 2010 (Stato 1° novembre 2026)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
-visti gli articoli 4, 9 capoverso 2 e 58 capoverso 1 dell’ordinanza del 20 settembre 2002[^ingress-1] sui documenti d’identità (ODI),
+visti gli articoli 4, 12 capoverso 4 secondo periodo, 14*d* capoverso 2 terzo periodo e 58 capoverso 1 dell’ordinanza del 20 settembre 2002[^ingress-1] sui documenti d’identità (ODI),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+[^ingress-1]: [RS 143.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4905)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 25 ago. 2026, in vigore dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -34,7 +35,7 @@ ordina:
 
 <sup>2</sup> Sono fatte salve le disposizioni dell’ordinanza del DFAE del 13 novembre 2002[^1-1] concernente l’ordinanza sui documenti d’identità.
 
-[^1-1]: [RS 143.116](https://fedlex.data.admin.ch/eli/cc/2002/664)
+[^1-1]: [RS 143.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4907)
 
 #### Art. 2
 
@@ -50,14 +51,15 @@ ordina:
 
 **Forma**
 
-<sup>1</sup> Il passaporto ordinario e quello provvisorio sono rilasciati sotto forma di libretto in formato ID-3[^3-1].[^3-2]
+<sup>1</sup> Il passaporto ordinario e quello di emergenza[^3-1] sono rilasciati sotto forma di libretto in formato ID-3[^3-2].[^3-3]
 
-<sup>2</sup> La carta d’identità (CID) è rilasciata in formato carta di credito in formato ID-1[^3-3].[^3-4]
+<sup>2</sup> La carta d’identità (CID) è rilasciata in formato carta di credito in formato ID-1[^3-4].[^3-5]
 
-[^3-1]: ISO/IEC 7810; formato ID-3; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV) Sulzerallee 70, 8404 Winterthur.
-[^3-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^3-3]: ISO/IEC 7810; formato ID-1; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur.
-[^3-4]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-1]: Nuova espr. giusta la cifra I dell’O del DFGP del 25 ago. 2026, in vigore dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-2]: ISO/IEC 7810; formato ID-3; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV) Sulzerallee 70, 8404 Winterthur.
+[^3-3]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-4]: ISO/IEC 7810; formato ID-1; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur.
+[^3-5]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Sezione 2: Contenuto del documento d’identità
 
@@ -65,16 +67,17 @@ ordina:
 
 **Cognome**
 
-<sup>1</sup> Il cognome ufficiale è iscritto in base a quanto figura in Infostar, nel registro del controllo degli abitanti, nell’atto d’origine, nel registro delle famiglie o nel sistema d’informazione per documenti d’identità (ISA).
+<sup>1</sup> Il cognome ufficiale è iscritto in base a quanto figura in Infostar, nel registro del controllo degli abitanti o nel sistema d’informazione per documenti d’identità (ISA).[^4-1]
 
-<sup>2</sup> Per il rilascio di un passaporto o di una carta d’identità sono disponibili per il cognome al massimo 50 caratteri compresi gli spazi vuoti.[^4-1]
+<sup>2</sup> Per il rilascio di un passaporto o di una carta d’identità sono disponibili per il cognome al massimo 50 caratteri compresi gli spazi vuoti.[^4-2]
 
 <sup>3</sup> Se per ragioni di spazio non rientra nel campo disponibile, il cognome usuale è anticipato e iscritto nel campo come ultima componente del cognome, d’intesa con la persona richiedente. I cognomi abbreviati sono iscritti interamente e nell’ordine corretto nella rubrica delle integrazioni d’ufficio del passaporto.
 
-<sup>4</sup> ...[^4-2]
+<sup>4</sup> …[^4-3]
 
-[^4-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^4-2]: Abrogato dalla cifra I dell’O del DFGP del 29 gen. 2014, con effetto dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 25 ago. 2026, in vigore dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^4-3]: Abrogato dalla cifra I dell’O del DFGP del 29 gen. 2014, con effetto dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 4a
 
@@ -97,15 +100,16 @@ La prima parte del cognome d’affinità è costituita dall’attuale cognome uf
 
 **Nome**
 
-<sup>1</sup> Il nome è iscritto nello stesso ordine figurante in Infostar, nel registro del controllo degli abitanti, nell’atto d’origine, nel registro delle famiglie o in ISA. Il nome usuale non è contrassegnato.
+<sup>1</sup> Il nome è iscritto nello stesso ordine figurante in Infostar, nel registro del controllo degli abitanti o in ISA. Il nome usuale non è contrassegnato.[^5-1]
 
-<sup>2</sup> Per il rilascio di un passaporto o di una carta d’identità sono disponibili per il nome al massimo 50 caratteri compresi gli spazi vuoti.[^5-1]
+<sup>2</sup> Per il rilascio di un passaporto o di una carta d’identità sono disponibili per il nome al massimo 50 caratteri compresi gli spazi vuoti.[^5-2]
 
 <sup>3</sup> Se per ragioni di spazio non rientra nel campo disponibile, il nome usuale è anticipato e iscritto nel campo come ultima componente non abbreviata del nome, d’intesa con la persona richiedente. I nomi abbreviati sono iscritti interamente e nell’ordine corretto nella rubrica delle integrazioni d’ufficio del passaporto. Su richiesta della persona richiedente il nome usuale può essere iscritto nella rubrica delle integrazioni d’ufficio del passaporto.
 
 <sup>4</sup> Se la persona richiedente non ha un nome, si iscrivono tre asterischi (\*\*\*).
 
-[^5-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 25 ago. 2026, in vigore dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 6
 
@@ -164,38 +168,17 @@ Il luogo d’origine in Svizzera è iscritto conformemente alla grafia dell’el
 
 #### Art. 12
 
-**Fotografia**
+**Fotografia**[^12-1]
 
-<sup>1</sup> L’autorità di rilascio può consentire di portare con sé una fotografia digitale. Se la persona richiedente intende avvalersi di questa possibilità, lo deve comunicare nel momento in cui richiede il rilascio di un documento d’identità. In questo caso, l’autorità di rilascio invia un link per posta elettronica, tramite il quale è possibile caricare la fotografia digitale nel sistema relativo ai documenti d’identità.[^12-1]
+I requisiti concernenti la fotografia di cui agli articoli 12 capoverso 4 secondo periodo e 14*d* capoverso 2 terzo periodo ODI sono stabiliti nell’allegato.
 
-<sup>2</sup> La fotografia dev’essere consegnata come immagine a colori (8 bit/pixel) in formato JPEG compresso e di qualità elevata (dimensioni del file pari a circa 700 KB) nonché in formato Baseline (standard). È vietato ritoccarla.[^12-2]
-
-<sup>3</sup> Ad eccezione dei requisiti riguardanti il formato si devono rispettare le prescrizioni del campionario di fotografie di cui all’articolo 13.
-
-<sup>4</sup>
-
-Per il formato valgono i requisiti seguenti:
-
-- a. la dimensione dell’immagine deve essere di 1980 × 1440 pixel (altezza × larghezza);
-- b. la distanza fra gli occhi (da pupilla a pupilla) deve corrispondere al 15–20 per cento della larghezza dell’immagine;
-- c.[^12-3] gli occhi devono essere situati in una zona compresa tra il 50 e il 60 per cento dell’altezza dell’immagine misurata dal margine inferiore.
-
-<sup>5</sup> La fotografia portata dalla persona richiedente è controllata con l’ausilio di un’immagine registrata sul posto e ulteriormente trattata nel sistema. Non esiste alcun diritto all’uso della fotografia se essa non soddisfa tutti i requisiti.
-
-<sup>6</sup> Il fatto di portare una fotografia non comporta una riduzione dell’emolumento. Alla persona richiedente non sono rimborsate le spese.
-
-[^12-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-3]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 25 ago. 2026, in vigore dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 13
 
-**Campionario di fotografie**
+[^13-1]
 
-In virtù dell’articolo 5 della legge del 18 giugno 2004[^13-1] sulle pubblicazioni ufficiali il campionario di fotografie non è pubblicato nella Raccolta ufficiale delle leggi federali. Esso è accessibile in forma elettronica[^13-2] e può essere consultato gratuitamente presso le autorità di rilascio.
-
-[^13-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^13-2]: [www.passaportosvizzero.ch](http://www.passaportosvizzero.ch)
+[^13-1]: Abrogato dalla cifra I dell’O del DFGP del 25 ago. 2026, con effetto dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 14
 
@@ -227,9 +210,11 @@ Il servizio preposto all’allestimento assegna un numero unico a ogni documento
 
 <sup>1</sup> Il luogo di nascita in Svizzera è iscritto conformemente alla grafia dell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica, seguito dalla sigla ufficiale del relativo Cantone.
 
-<sup>2</sup> La grafia di un luogo di nascita all’estero si basa su quella riportata in Infostar, sull’atto d’origine o nel registro delle famiglie.
+<sup>2</sup> La grafia di un luogo di nascita all’estero si basa su quella riportata in Infostar.[^17-1]
 
 <sup>3</sup> Se il luogo di nascita è sconosciuto, si iscrivono tre asterischi (\*\*\*).
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 25 ago. 2026, in vigore dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 18
 
@@ -270,7 +255,7 @@ Al momento della presentazione della richiesta, è consentito in particolare esi
 
 <sup>2</sup> Alla persona richiedente non sono rimborsate le spese sostenute per procurarsi la documentazione di cui al capoverso 1.
 
-[^20-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^20-1]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 #### Art. 21
 
@@ -278,7 +263,7 @@ Al momento della presentazione della richiesta, è consentito in particolare esi
 
 In relazione al trattamento dei dati previsto all’articolo 13 LDI[^21-1] e all’articolo 29 ODI, sono registrati in ISA cognome/i, nome/i, data e luogo di nascita, luogo d’origine, sesso e cognome dei genitori.
 
-[^21-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^21-1]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ## Capitolo 3: Richiesta, rilascio e perdita
 
@@ -361,13 +346,13 @@ In caso di perdite frequenti di documenti d’identità ai sensi dell’articolo
 
 Se le autorità di rilascio constatano o hanno ragione di sospettare falsificazioni o contraffazioni di documenti d’identità oppure tentativi di ottenerli in modo fraudolento, ne informano senza indugio l’Ufficio federale.
 
-## Capitolo 4: Passaporto provvisorio
+## Capitolo 4: Passaporto di emergenza
 
 #### Art. 30
 
 **Conservazione di passaporti vergini**
 
-<sup>1</sup> Le autorità di rilascio ritirano i passaporti provvisori non ancora personalizzati (passaporti vergini) presso il servizio preposto all’allestimento adottando misure di sicurezza adeguate.
+<sup>1</sup> Le autorità di rilascio ritirano i passaporti di emergenza non ancora personalizzati (passaporti vergini) presso il servizio preposto all’allestimento adottando misure di sicurezza adeguate.
 
 <sup>2</sup> Le autorità di rilascio gestiscono e conservano i passaporti vergini in modo sicuro e documentato.
 
@@ -377,7 +362,7 @@ Se le autorità di rilascio constatano o hanno ragione di sospettare falsificazi
 
 **Casi speciali**
 
-Se una persona richiede ripetutamente passaporti provvisori e vi è motivo di sospettare che siano stati utilizzati in maniera abusiva, l’autorità di rilascio ne informa l’Ufficio federale mediante un rapporto sulle circostanze, illustrando in particolare l’urgenza del rilascio e le misure adottate.
+Se una persona richiede ripetutamente passaporti di emergenza e vi è motivo di sospettare che siano stati utilizzati in maniera abusiva, l’autorità di rilascio ne informa l’Ufficio federale mediante un rapporto sulle circostanze, illustrando in particolare l’urgenza del rilascio e le misure adottate.
 
 ## Capitolo 5: Lasciapassare
 
@@ -434,7 +419,7 @@ Il software utilizzato dal Comune di domicilio deve soddisfare i seguenti requis
 - a. sistema operativo: Windows 7 o versioni successive;
 - b. terminal server: Citrix Xenapp 6.5 con Windows 2008 R2 o versioni successive;
 - c. software antivirus aggiornato;
-- d.[^35a-2] ...
+- d.[^35a-2] …
 - e. architettura interamente a 32 o 64 bit.
 
 [^35a-1]: Introdotto dalla cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
@@ -446,7 +431,7 @@ Il software utilizzato dal Comune di domicilio deve soddisfare i seguenti requis
 
 <sup>1</sup> La data in cui la persona richiedente si presenta personalmente presso l’autorità è considerata come data della richiesta e costituisce la base per il calcolo della validità ai sensi dell’articolo 5 capoverso 1 ODI.[^36-1]
 
-<sup>2</sup> ...[^36-2]
+<sup>2</sup> …[^36-2]
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 [^36-2]: Abrogato dalla cifra I dell’O del DFGP del 29 gen. 2014, con effetto dal 31 dic. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
@@ -457,7 +442,7 @@ Il software utilizzato dal Comune di domicilio deve soddisfare i seguenti requis
 
 I requisiti che la fotografia deve soddisfare si basano sul campionario di fotografie (art. 13).
 
-#### Art. 38 e 39
+#### Art. 38–39
 
 [^3839-1]
 
@@ -471,4 +456,70 @@ La presente ordinanza entra in vigore il 1° marzo 2010.
 
 Allegato[^t-1]
 
-[^t-1]: Abrogato dalla cifra II dell’O del DFGP del 13 apr. 2025, con effetto dall’11 nov. 2024 ([RU 2025 265](https://fedlex.data.admin.ch/eli/oc/2025/265)).
+(art. 12)
+
+## Requisiti concernenti la fotografia
+
+[^t-1]: Nuovo testo giusta la cifra II dell’O del DFGP del 25 ago. 2026, in vigore dal 1° nov. 2026 ([RU 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+
+Formato
+
+Le dimensioni della fotografia devono essere di 35 × 45 mm (senza margine).
+
+La lunghezza del viso dal mento alla scatola cranica deve essere di almeno 29 mm e al massimo 34 mm. Eccezionalmente i capelli possono oltrepassare il margine della fotografia.
+
+Per i bambini di età inferiore a 11 anni, la lunghezza del viso dal mento alla scatola cranica deve essere di almeno 23 mm.
+
+Postura del corpo, posizione della testa, espressione del viso e direzione dello sguardo
+
+La persona deve essere seduta con le spalle diritte di fronte alla macchina fotografica e guardare direttamente nell’obiettivo. La testa non deve essere inclinata, girata verso un lato o piegata in avanti. Il naso deve trovarsi sulla linea verticale al centro della sagoma.
+
+Entrambi gli occhi devono essere aperti, alla stessa altezza e chiaramente visibili; lo stesso vale anche per i portatori di occhiali.
+
+L’espressione del viso deve essere neutrale.
+
+La bocca deve essere chiusa.
+
+Il viso non deve essere in parte coperto da una mano, un oggetto (p. es. una pipa) o un’altra persona.
+
+Portatori di occhiali
+
+La montatura degli occhiali non deve coprire gli occhi. Le lenti non devono creare riflessi. È vietato l’uso di lenti colorate. È vietato indossare occhiali da sole. Le persone ipovedenti sono autorizzate a portare lenti scure.
+
+Illuminazione, nitidezza e contrasto
+
+La fotografia deve essere nitida e ricca di contrasti e l’illuminazione deve essere regolare; il viso non deve presentare ombre.
+
+Il tono della pelle deve essere naturale. La pelle non deve presentare riflessi e gli occhi non devono essere rossi.
+
+Sfondo
+
+Lo sfondo deve essere monocromatico, unitario e neutrale. La persona non deve causare ombre. Lo sfondo deve distinguersi chiaramente dalla testa.
+
+Copricapo
+
+I copricapo sono di principio vietati. Non è nemmeno consentito indossare fasce frontali, fasce vistose nei capelli o occhiali spostati sopra la testa ecc.
+
+Sono consentite eccezioni solo per comprovati motivi di ordine medico o religioso, per esempio per le donne affiliate a ordini religiosi o persone che fanno parte di congregazioni che prescrivono di portare un copricapo in pubblico. In questi casi il viso deve essere visibile almeno dalla parte inferiore del mento all’attaccatura dei capelli. Il viso non deve presentare ombre.
+
+Qualità della fotografia e altri requisiti
+
+Sono consentite fotografie in bianco e nero e a colori. La fotografia sul documento d’identità è riprodotta in una scala di grigi.
+
+La carta della fotografia deve avere una superficie liscia (lucida o semi-opaca). La superficie non deve avere rilievi percettibili al tatto (effetto perlato o ricamo).
+
+Per sviluppare le fotografie è consentito utilizzare unicamente la carta speciale prevista per tale scopo.
+
+La fotografia può risalire al massimo a un anno prima.
+
+Non deve avere alcuna piegatura, scalfittura o macchia. Gli angoli non devono essere smussati. La struttura dei pixel non deve essere visibile.
+
+Non sono ammesse fotografie in cui la persona raffigurata porta un’uniforme.
+
+Le fotografie di bambini piccoli o di persone con disabilità non devono necessariamente soddisfare tutti i requisiti. Sono consentite lievi divergenze in particolare per quanto riguarda lo sguardo diretto all’obiettivo, l’espressione neutrale del viso e la grandezza della testa.
+
+### Campionario di fotografie
+
+Gli esempi fotografici contenuti nel campionario di fotografie[^annexu1-lvlu1-lvlu1-1] illustrano requisiti aggiuntivi.
+
+[^annexu1-lvlu1-lvlu1-1]: Il contenuto del campionario di fotografie è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2026/437](https://fedlex.data.admin.ch/eli/oc/2026/437) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

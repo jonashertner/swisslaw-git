@@ -3,26 +3,27 @@ sr: "143.111"
 title: "Ordonnance du DFJP du 16 février 2010 sur les documents d'identité des ressortissants suisses"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/96"
 language: fr
-version: 2024-11-11
+version: 2026-11-01
 adopted: 2010-02-16
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20241111/fr/xml/fedlex-data-admin-ch-eli-cc-2010-96-20241111-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20241111/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-96-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP sur les documents d’identité des ressortissants suisses
 
-du 16 février 2010 (État le 11 novembre 2024)
+du 16 février 2010 (État le 1<sup>er</sup> novembre 2026)
 
 Le Département fédéral de justice et police (DFJP),
 
-vu les art. 4, 9, al. 2, et 58, al. 1, de l’ordonnance du 20 septembre 2002 sur les documents d’identité (OLDI)[^ingress-1],
+vu les art. 4, 12, al. 4, 2<sup>e</sup> phrase, 14*d*, al. 2, 3<sup>e</sup> phrase, et 58, al. 1, de l’ordonnance du 20 septembre 2002 sur les documents d’identité (OLDI)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+[^ingress-1]: [RS 143.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4905)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 25 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -34,7 +35,7 @@ arrête:
 
 <sup>2</sup> Les dispositions de l’ordonnance du DFAE du 13 novembre 2002 concernant l’ordonnance sur les documents d’identité des ressortissants suisses[^1-1] sont réservées.
 
-[^1-1]: [RS 143.116](https://fedlex.data.admin.ch/eli/cc/2002/664)
+[^1-1]: [RS 143.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4907)
 
 #### Art. 2
 
@@ -50,14 +51,15 @@ arrête:
 
 **Présentation**
 
-<sup>1</sup> Le passeport ordinaire et le passeport provisoire sont émis sous forme de livret selon le format ID-3[^3-1].[^3-2]
+<sup>1</sup> Le passeport ordinaire et le passeport d’urgence[^3-1] sont émis sous forme de livret selon le format ID-3[^3-2].[^3-3]
 
-<sup>2</sup> La carte d’identité est émise sous forme de carte de crédit selon le format ID-1[^3-3].[^3-4]
+<sup>2</sup> La carte d’identité est émise sous forme de carte de crédit selon le format ID-1[^3-4].[^3-5]
 
-[^3-1]: ISO/IEC 7810; format ID-3; OACI 9303; la norme peut être consultée sur Internet moyennant paiement à l’adresse [www.iso.org](https://www.iso.org/fr/home.html) &gt; Store &gt; Catalogue de normes &gt; 35 &gt; 35.240 &gt; 35.240.15 ou gratuitement auprès de l’Association Suisse de Normalisation, Sulzerallee 70, 8404 Winterthour.
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^3-3]: ISO/IEC 7810; format ID-1; OACI 9303; la norme peut être consultée sur Internet moyennant paiement à l’adresse [www.iso.org](https://www.iso.org/fr/home.html) &gt; Store &gt; Catalogue de normes &gt; 35 &gt; 35.240 &gt; 35.240.15 ou gratuitement auprès de l’Association Suisse de Normalisation, Sulzerallee 70, 8404 Winterthour.
-[^3-4]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-1]: Nouvelle expression selon le ch. I de l’O du DFJP du 25 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-2]: ISO/IEC 7810; format ID-3; OACI 9303; la norme peut être consultée sur Internet moyennant paiement à l’adresse [www.iso.org](https://www.iso.org/fr/home.html) &gt; Store &gt; Catalogue de normes &gt; 35 &gt; 35.240 &gt; 35.240.15 ou gratuitement auprès de l’Association Suisse de Normalisation, Sulzerallee 70, 8404 Winterthour.
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-4]: ISO/IEC 7810; format ID-1; OACI 9303; la norme peut être consultée sur Internet moyennant paiement à l’adresse [www.iso.org](https://www.iso.org/fr/home.html) &gt; Store &gt; Catalogue de normes &gt; 35 &gt; 35.240 &gt; 35.240.15 ou gratuitement auprès de l’Association Suisse de Normalisation, Sulzerallee 70, 8404 Winterthour.
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Section 2 Contenu
 
@@ -65,16 +67,17 @@ arrête:
 
 **Nom**
 
-<sup>1</sup> Le nom officiel est inscrit conformément à celui figurant dans Infostar, dans le registre du contrôle des habitants, sur l’acte d’origine, dans le registre des familles ou dans le système d’information relatif aux documents d’identité (ISA).
+<sup>1</sup> Le nom officiel est inscrit conformément à celui figurant dans Infostar, dans le registre du contrôle des habitants ou dans le système d’information relatif aux documents d’identité (ISA).[^4-1]
 
-<sup>2</sup> Pour l’établissement d’un passeport ou d’une carte d’identité, le nom ne peut pas comporter plus de 50 caractères, espaces incluses.[^4-1]
+<sup>2</sup> Pour l’établissement d’un passeport ou d’une carte d’identité, le nom ne peut pas comporter plus de 50 caractères, espaces incluses.[^4-2]
 
 <sup>3</sup> Si le nom le plus usité ne peut pas figurer, pour des raisons de place, dans la zone disponible pour le nom, il peut être placé comme dernier nom dans l’espace disponible, avec l’accord du requérant. Les noms doivent figurer en entier et dans l’ordre correct à la rubrique des compléments officiels du passeport.
 
-<sup>4</sup> …[^4-2]
+<sup>4</sup> …[^4-3]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^4-2]: Abrogé par le ch. I de l’O du DFJP du 29 janv. 2014, avec effet au 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 25 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^4-3]: Abrogé par le ch. I de l’O du DFJP du 29 janv. 2014, avec effet au 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 4a
 
@@ -97,15 +100,16 @@ La première partie du nom d’alliance est le nom officiel actuel du requérant
 
 **Prénom**
 
-<sup>1</sup> Le prénom est inscrit dans l’ordre figurant dans Infostar, dans le registre du contrôle des habitants, sur l’acte d’origine, dans le registre des familles ou dans ISA. Le prénom usuel n’est pas mentionné.
+<sup>1</sup> Le prénom est inscrit dans l’ordre figurant dans Infostar, dans le registre du contrôle des habitants ou dans ISA. Le prénom usuel n’est pas mentionné.[^5-1]
 
-<sup>2</sup> Pour l’établissement d’un passeport ou d’une carte d’identité, le prénom ne peut pas comporter plus de 50 caractères, espaces incluses.[^5-1]
+<sup>2</sup> Pour l’établissement d’un passeport ou d’une carte d’identité, le prénom ne peut pas comporter plus de 50 caractères, espaces incluses.[^5-2]
 
 <sup>3</sup> Si le prénom usuel ne peut pas figurer, pour des raisons de place, dans la zone disponible pour le prénom, il peut être placé comme dernier prénom dans l’espace disponible, avec l’accord du requérant. Les prénoms doivent figurer en entier et dans l’ordre correct à la rubrique des compléments officiels du passeport. Sur demande du requérant, le prénom usuel peut être inscrit à la rubrique des compléments officiels du passeport.
 
 <sup>4</sup> Si le requérant n’a pas de prénom, trois astérisques (\*\*\*) sont inscrits dans le champ.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 25 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 6
 
@@ -147,7 +151,7 @@ L’orthographe du lieu d’origine est conforme à la liste officielle des comm
 
 <sup>4</sup> L’inscription ultérieure ou la suppression d’un complément officiel doit être requise auprès de l’autorité d’établissement compétente, qui la consigne. Le requérant doit être muni de son passeport lorsqu’il se présente en personne auprès de l’autorité.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 avr. 2025, en vigueur depuis le 11 nov. 2024 (RO **202****5** 265).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 avr. 2025, en vigueur depuis le 11 nov. 2024 ([RO 2025 265](https://fedlex.data.admin.ch/eli/oc/2025/265)).
 
 #### Art. 11
 
@@ -161,38 +165,17 @@ L’orthographe du lieu d’origine est conforme à la liste officielle des comm
 
 #### Art. 12
 
-**Photographie**
+**Photographie**[^12-1]
 
-<sup>1</sup> L’autorité d’établissement peut accepter que le requérant apporte une photographie numérique. Si le requérant souhaite recourir à cette possibilité, il doit le faire savoir lorsqu’il demande l’établissement d’un document d’identité. Dans ce cas, l’autorité d’établissement lui envoie par courriel un lien via lequel la photographie numérique peut être téléchargée dans le système de documents d’identité.[^12-1]
+Les exigences auxquelles doit satisfaire la photographie qui sont visées aux art. 12, al. 4, 2<sup>e</sup> phrase, et 14*d*, al. 2, 3<sup>e</sup> phrase, OLDI sont définies en annexe.
 
-<sup>2</sup> La photographie doit comporter les caractéristiques suivantes: image couleur (8 bits par pixel) en format JPEG, avec une compression de haute qualité (taille du fichier: env. 700 kB) de format baseline (standard). Elle ne peut pas être retouchée.[^12-2]
-
-<sup>3</sup> À l’exception des exigences relatives au format, les prescriptions prévues par le tableau des photos-types selon l’art. 13 doivent être respectées.
-
-<sup>4</sup>
-
-Le format doit répondre aux exigences suivantes:
-
-- a. les dimensions de la photographie doivent être les suivantes: 1980 × 1440 pixels (hauteur × largeur);
-- b. l’espace entre les yeux (entre les deux pupilles) doit représenter entre 15 et 20 % de la largeur de la photographie;
-- c.[^12-3] Les yeux doivent figurer dans une zone se situant entre 50 et 60 % de la hauteur de la photographie à compter du bord inférieur de celle-ci.
-
-<sup>5</sup> La photographie apportée par le requérant est vérifiée à l’aide d’une photographie prise sur place et est adaptée dans le système. Il n’existe aucun droit à l’utilisation de cette photographie si elle ne répond pas à toutes les exigences requises.
-
-<sup>6</sup> Le fait d’apporter une photographie ne donne aucun droit à une réduction de l’émolument. Le requérant n’est pas remboursé pour les frais occasionnés.
-
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-3]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 25 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 13
 
-**Tableau des photos-types**
+[^13-1]
 
-Conformément à l’art. 5 de la loi du 18 juin 2004 sur les publications officielles[^13-1], le tableau des photos-types n’est pas publié dans le Recueil officiel du droit fédéral. Il est accessible sous forme électronique[^13-2] et peut être consulté gratuitement auprès des autorités d’établissement.
-
-[^13-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^13-2]: [www.passeportsuisse.ch](http://www.passeportsuisse.ch)
+[^13-1]: Abrogé par le ch. I de l’O du DFJP du 25 août 2026, avec effet au 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 14
 
@@ -224,9 +207,11 @@ Le centre chargé de produire les documents d’identité attribue un numéro di
 
 <sup>1</sup> L’orthographe du lieu de naissance en Suisse est conforme à la liste officielle des communes de Suisse établie par l’Office fédéral de la statistique; il est suivi de l’abréviation officielle du canton correspondant.
 
-<sup>2</sup> L’orthographe d’un lieu de naissance à l’étranger est conforme à l’inscription figurant dans Infostar, sur l’acte d’origine ou dans le registre des familles.
+<sup>2</sup> L’orthographe d’un lieu de naissance à l’étranger est conforme à l’inscription figurant dans Infostar.[^17-1]
 
 <sup>3</sup> Si le lieu de naissance n’est pas connu, trois astérisques (\*\*\*) sont inscrits dans le champ correspondant.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 25 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
 
 #### Art. 18
 
@@ -267,7 +252,7 @@ Les documents suivants notamment peuvent être requis lors de la demande et sais
 
 <sup>2</sup> Le requérant ne perçoit aucune indemnité pour l’acquisition des documents visés à l’al. 1.
 
-[^20-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^20-1]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 #### Art. 21
 
@@ -275,7 +260,7 @@ Les documents suivants notamment peuvent être requis lors de la demande et sais
 
 Lorsqu’il y a traitement de données conformément aux art. 13 LDI[^21-1] et 29 OLDI, les noms, prénoms, date de naissance, lieu de naissance, lieu d’origine et sexe sont saisis dans ISA, ainsi que les noms des parents.
 
-[^21-1]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^21-1]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
 
 ## Chapitre 3 Demande, établissement et perte
 
@@ -358,13 +343,13 @@ En cas de pertes réitérées du document d’identité conformément à l’art
 
 L’office doit être immédiatement informé si les autorités d’établissement constatent des contrefaçons, des falsifications ou toute tentative d’obtention frauduleuse de documents d’identité ou si des éléments permettent d’en soupçonner l’existence.
 
-## Chapitre 4 Passeport provisoire
+## Chapitre 4 Passeport d’urgence
 
 #### Art. 30
 
 **Conservation des passeports vierges**
 
-<sup>1</sup> Les autorités d’établissement doivent se procurer les passeports provisoires non personnalisés (passeports vierges) auprès du centre chargé de les produire en veillant à prendre les mesures de sécurité appropriées.
+<sup>1</sup> Les autorités d’établissement doivent se procurer les passeports d’urgence non personnalisés (passeports vierges) auprès du centre chargé de les produire en veillant à prendre les mesures de sécurité appropriées.
 
 <sup>2</sup> Elles doivent gérer et conserver les passeports vierges de manière sûre et les répertorier.
 
@@ -374,7 +359,7 @@ L’office doit être immédiatement informé si les autorités d’établisseme
 
 **Cas particuliers**
 
-Si une personne dépose à plusieurs reprises des demandes de passeport provisoire, et si des éléments donnent à croire que ces passeports ont été utilisés frauduleusement, l’autorité d’établissement doit en informer l’office et établir à son intention un rapport sur les circonstances entourant le cas, notamment sur l’urgence de l’établissement et les mesures ordonnées.
+Si une personne dépose à plusieurs reprises des demandes de passeport d’urgence, et si des éléments donnent à croire que ces passeports ont été utilisés frauduleusement, l’autorité d’établissement doit en informer l’office et établir à son intention un rapport sur les circonstances entourant le cas, notamment sur l’urgence de l’établissement et les mesures ordonnées.
 
 ## Chapitre 5 Laissez-passer
 
@@ -468,4 +453,70 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2010.
 
 Annexe[^t-1]
 
-[^t-1]: Abrogée par le ch. II de l’O du DFJP du 13 avr. 2025, avec effet au 11 nov. 2024 ([RO 2025 265](https://fedlex.data.admin.ch/eli/oc/2025/265)).
+(art. 12)
+
+## Exigences auxquelles la photographie doit satisfaire
+
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFJP du 25 août 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 437](https://fedlex.data.admin.ch/eli/oc/2026/437)).
+
+Format
+
+Le format de la photographie doit être de 35 × 45 mm (sans cadre).
+
+La hauteur du visage, du menton au sommet du crâne, doit être de 29 mm au minimum et de 34 mm au maximum. À titre exceptionnel, les cheveux peuvent dépasser le cadre de la photographie.
+
+Pour les enfants de moins de 11 ans, la hauteur du visage, du menton au sommet du crâne, doit être de 23 mm au minimum.
+
+Posture, position de la tête, expression du visage et orientation du regard
+
+La personne doit être assise les épaules droites en face de l’appareil et regarder en direction de l’objectif. La tête ne doit être ni tournée, ni inclinée vers l’avant ou l’arrière ou vers un côté ou l’autre. Le nez doit se trouver sur la ligne médiane verticale indiquée par le gabarit.
+
+Les deux yeux doivent être ouverts, à la même hauteur et clairement visibles, même en cas de port de lunettes.
+
+L’expression du visage doit être neutre.
+
+La bouche doit être fermée.
+
+Le visage ne doit pas être partiellement caché par une main, un objet (p. ex. une pipe) ou une autre personne.
+
+Port de lunettes
+
+Les yeux ne doivent pas être masqués par la monture des lunettes. Les verres ne doivent pas faire de reflets. Les verres teintés ne sont pas admis. Les lunettes de soleil ne sont pas admises. Les verres foncés sont admis pour les personnes malvoyantes.
+
+Éclairage, netteté et contraste
+
+La photographie doit être nette et présenter un bon contraste et un éclairage régulier; le visage ne doit pas présenter d’ombres.
+
+La carnation de la peau doit être naturelle. Il ne doit pas y avoir de reflets sur la peau et les yeux ne doivent pas être rouges.
+
+Arrière-plan
+
+L’arrière-plan doit être monochrome, uniforme et neutre. La personne ne doit pas y projeter d’ombres. La tête et l’arrière-plan doivent être clairement séparés.
+
+Coiffure
+
+Aucun objet ne doit couvrir la tête. Le port d’un bandeau, d’un serre-tête voyant ou de lunettes remontées sur la tête notamment ne sont non plus autorisés.
+
+Des exceptions ne sont admises que pour des motifs médicaux ou religieux attestés, par exemple pour les religieuses ou les personnes appartenant à une communauté religieuse prescrivant de se couvrir la tête en public. En pareil cas, le visage doit être visible au moins de la pointe du menton à la naissance des cheveux. Il ne doit pas présenter d’ombres.
+
+Qualité de la photographie et autres exigences
+
+Sont admises les photographies en noir et blanc ou en couleur. La photographie du document d’identité est reproduite en niveaux de gris.
+
+Le papier photographique doit présenter une surface lisse (tirage brillant ou semi-mat). Celle-ci ne doit pas être perceptible au toucher (effet perlé ou tramé).
+
+La photographie doit être reproduite exclusivement sur du papier conçu à cet effet.
+
+Elle ne doit pas dater de plus d’un an.
+
+Elle ne doit présenter aucun pli ni aucune inégalité ou salissure. Ses coins ne doivent pas être arrondis. La structure des pixels ne doit pas être visible.
+
+Le port de l’uniforme n’est pas admis sur la photographie.
+
+La photographie d’un enfant en bas âge ou d’une personne handicapée ne doit pas remplir impérativement toutes les exigences. Des écarts sont admis en ce qui concerne notamment l’orientation du regard en direction de l’objectif, l’expression neutre du visage et la dimension de la tête.
+
+### Tableau des photos-types
+
+Les exemples photographiques du tableau des photos-types fixent des exigences supplémentaires[^annexu1-lvlu1-lvlu1-1].
+
+[^annexu1-lvlu1-lvlu1-1]: Le contenu du tableau des photos-types est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/437](https://fedlex.data.admin.ch/eli/oc/2026/437) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
