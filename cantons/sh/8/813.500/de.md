@@ -4,39 +4,41 @@ number: "813.500"
 title: Altersbetreuungs- und Pflegegesetz
 short: AbPG
 language: de
-version: 2013-01-01
-corrected: 2024-06-18
-version_adopted: 2011-11-21
+version: 2026-11-01
+version_adopted: 2026-06-29
 adopted: 2007-07-02
 in_force: 2008-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.500"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/238/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2134/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Altersbetreuungs- und Pflegegesetz (AbPG) <sup>10)</sup>
+# Altersbetreuungs- und Pflegegesetz
 
-vom 2. Juli 2007
+(AbPG)
 
-Der Kantonsrat Schaffhausen
+Vom 02.07.2007 (Stand 01.11.2026)
 
-beschliesst als Gesetz:
+Der Kantonsrat Schaffhausen,
 
-## I. Allgemeine Bestimmungen
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-Dieses Gesetz regelt – in Ergänzung zum Gesundheitsgesetz <sup>1)</sup>, zum Spitalgesetz <sup>2)</sup> und zum Sozialhilfegesetz <sup>3)</sup> – die Aufgaben und Zuständigkeiten von Kanton und Gemeinden sowie die Zulassung von Leistungserbringern in folgenden Bereichen:
+<sup>1</sup> Dieses Gesetz regelt – in Ergänzung zum Gesundheitsgesetz[^1-1], zum Spitalgesetz[^1-2] und zum Sozialhilfegesetz[^1-3] – die Aufgaben und Zuständigkeiten von Kanton und Gemeinden sowie die Zulassung von Leistungserbringern in folgenden Bereichen:
 
-- a) medizinische Behandlung und Pflege von Betagten in Spitälern und Heimen;
+- a) medizinische Behandlung und Pflege von Betagten in Spitälern und Heimen
+- b) Hilfe und Pflege zu Hause (Spitex-Dienste) für Personen aller Altersgruppen
+- c) Beratung von Betagten und Angehörigen und Prävention
 
-- b) Hilfe und Pflege zu Hause (Spitex-Dienste) für Personen aller Altersgruppen;
-
-- c) Beratung von Betagten und Angehörigen und Prävention.
+[^1-1]: SHR [810.100](https://rechtsbuch.sh.ch/data/810.100/de).
+[^1-2]: SHR [813.100](https://rechtsbuch.sh.ch/data/813.100/de).
+[^1-3]: SHR [850.100](https://rechtsbuch.sh.ch/data/850.100/de).
 
 #### Art. 2
 
@@ -44,17 +46,16 @@ Dieses Gesetz regelt – in Ergänzung zum Gesundheitsgesetz <sup>1)</sup>, zum 
 
 <sup>1</sup> Der Kanton nimmt die Oberaufsicht über die Institutionen der stationären und teilstationären Pflege (Spitäler und Heime) sowie der Organisationen der Hilfe und Pflege zu Hause wahr.
 
-<sup>1bis</sup> Über die privat geführten Institutionen nimmt der Kanton die Aufsicht wahr. <sup>13)</sup>
+<sup>1<sup>bis</sup></sup> Über die privat geführten Institutionen nimmt der Kanton die Aufsicht wahr.
 
-<sup>2</sup> Er bezeichnet die im Sinne des Bundesgesetzes über die Krankenversicherung (KVG) <sup>4)</sup> zugelassenen Leistungserbringer.
+<sup>2</sup> Er bezeichnet die im Sinne des Bundesgesetzes über die Krankenversicherung (KVG)[^2-1] zugelassenen Leistungserbringer.
 
 <sup>3</sup> Er sorgt im Rahmen seiner Spitäler oder durch Beizug anderer Leistungserbringer für bedarfsgerechte Angebote in den folgenden Bereichen:
 
-- a) Untersuchung, Behandlung und Rehabilitation von Personen mit spezifischen Alterserkrankungen, für die im Kanton keine anderweitigen geeigneten Leistungsangebote verfügbar sind;
-
-Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach Spitalbehandlungen; <sup>10)</sup> c) Langzeitpflege von Personen, die aufgrund der Art und Schwere des Unterstützungsbedarfs (fachliche Anforderungen, medizinische Infrastruktur) in anderen Institutionen nicht angemessen betreut werden können;
-
-- d) Beratung von Heimen und Organisationen der Hilfe und Pflege zu Hause in altersmedizinischen Belangen.
+- a) Untersuchung, Behandlung und Rehabilitation von Personen mit spezifischen Alterserkrankungen, für die im Kanton keine anderweitigen geeigneten Leistungsangebote verfügbar sind
+- b) befristete stationäre Akut- und Übergangspflege nach Spitalbehandlungen
+- c) Langzeitpflege von Personen, die aufgrund der Art und Schwere des Unterstützungsbedarfs (fachliche Anforderungen, medizinische Infrastruktur) in anderen Institutionen nicht angemessen betreut werden können
+- d) Beratung von Heimen und Organisationen der Hilfe und Pflege zu Hause in altersmedizinischen Belangen
 
 <sup>4</sup> Er unterstützt Beratungsstellen und spezielle Dienste, welche die Befähigung der betagten Bevölkerung zu einer möglichst langen Lebensgestaltung in hoher Autonomie stärken.
 
@@ -62,17 +63,17 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 <sup>6</sup> Er fördert die Aus-, Weiter- und Fortbildung in den Berufen der Pflege und der Altersbetreuung durch eigene Bildungsangebote und finanzielle Beiträge.
 
+[^2-1]: SHR [832.10](https://rechtsbuch.sh.ch/data/832.10/de).
+
 #### Art. 3
 
 **Aufgaben der Gemeinden**
 
 <sup>1</sup> Die Gemeinden stellen in gegenseitiger Absprache und Zusammenarbeit die Verfügbarkeit bedarfsgerechter Leistungsangebote in folgenden Bereichen sicher:
 
-- a) Hilfe und Pflege zu Hause für Personen aller Altersgruppen, die aus gesundheitlichen Gründen auf entsprechende Unterstützung angewiesen sind;
-
-- b) Heimplätze für stationär pflegebedürftige Betagte, deren Betreuung nicht in die Zuständigkeit des Kantons bzw. der kantonalen Spitäler fällt;
-
-- c) teilstationäre und temporäre Heimpflege-Angebote für Betagte zur Entlastung pflegender Angehöriger.
+- a) Hilfe und Pflege zu Hause für Personen aller Altersgruppen, die aus gesundheitlichen Gründen auf entsprechende Unterstützung angewiesen sind
+- b) Heimplätze für stationär pflegebedürftige Betagte, deren Betreuung nicht in die Zuständigkeit des Kantons bzw. der kantonalen Spitäler fällt
+- c) teilstationäre und temporäre Heimpflege-Angebote für Betagte zur Entlastung pflegender Angehöriger
 
 <sup>2</sup> Sie betreiben dazu eigene Heime und Organisationen der Hilfe und Pflege zu Hause oder schliessen Leistungsverträge mit geeigneten Partnern ab.
 
@@ -88,13 +89,12 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 <sup>2</sup> Für die Zulassung von Organisationen der Hilfe und Pflege zu Hause gelten die Bestimmungen des Gesundheitsgesetzes und der darauf gestützten Regelungen sinngemäss.
 
-<sup>3</sup> Die Bewilligung zum Betrieb von Heimen wird erteilt, wenn a) zweckentsprechende Räumlichkeiten und Einrichtungen vorhanden sind;
+<sup>3</sup> Die Bewilligung zum Betrieb von Heimen wird erteilt, wenn:
 
-- b) das erforderliche Fachpersonal verfügbar ist;
-
-- c) eine einwandfreie Betriebsführung mit geklärten Verantwortlichkeiten für alle relevanten Leistungsbereiche gewährleistet ist;
-
-- d) ein der operativen Geschäftsleitung übergeordnetes Aufsichtsorgan besteht, das die Geschäftsführung überwacht und den Heimbewohnerinnen und -bewohnern und ihren Angehörigen als Anlaufstelle zur Verfügung steht.
+- a) zweckentsprechende Räumlichkeiten und Einrichtungen vorhanden sind
+- b) das erforderliche Fachpersonal verfügbar ist
+- c) eine einwandfreie Betriebsführung mit geklärten Verantwortlichkeiten für alle relevanten Leistungsbereiche gewährleistet ist
+- d) ein der operativen Geschäftsleitung übergeordnetes Aufsichtsorgan besteht, das die Geschäftsführung überwacht und den Heimbewohnerinnen und ‑bewohnern und ihren Angehörigen als Anlaufstelle zur Verfügung steht
 
 <sup>4</sup> Die Bewilligung kann entzogen werden, wenn eine Voraussetzung für die Bewilligung nicht mehr gegeben ist.
 
@@ -104,11 +104,13 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 **Versorgungsplanung**
 
-<sup>1</sup> Die Verfügbarkeit hinlänglicher Leistungsangebote im Sinne von Art. 2 Abs. 3 dieses Gesetzes wird vom Kanton im Rahmen der Spitalplanung und des Leistungsauftrages an die Spitäler Schaffhausen gemäss Art. 4 und Art. 9 des Spitalgesetzes <sup>5)</sup> sichergestellt.
+<sup>1</sup> Die Verfügbarkeit hinlänglicher Leistungsangebote im Sinne von Art. 2 Abs. 3 dieses Gesetzes wird vom Kanton im Rahmen der Spitalplanung und des Leistungsauftrages an die Spitäler Schaffhausen gemäss Art. 4 und Art. 9 des Spitalgesetzes[^5-1] sichergestellt.
 
 <sup>2</sup> Die benötigten Angebote der Hilfe und Pflege zu Hause werden durch die Gemeinden im Rahmen von Versorgungsregionen, welche die Bildung leistungsfähiger betrieblicher Einheiten erlauben, ermittelt und festgelegt. Die Versorgungsregionen sowie die Minimalstandards der Leistungsangebote werden vom Regierungsrat nach Anhörung der Gemeinden festgelegt.
 
 <sup>3</sup> Im Heimbereich (stationäre und teilstationäre Plätze für pflegebedürftige Betagte) ermitteln die Gemeinden ihren Kapazitätsbedarf unter Beizug der vom Kanton festgelegten Rahmenvorgaben und Richtwerte. Abweichungen aufgrund von Besonderheiten der örtlichen Versorgungslage und Entwicklungsperspektiven sind zulässig.
+
+[^5-1]: SHR [813.100](https://rechtsbuch.sh.ch/data/813.100/de).
 
 #### Art. 6
 
@@ -118,25 +120,16 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 <sup>2</sup> Die Leistungsaufträge bzw. Verträge regeln insbesondere:
 
-- a) die bereitzustellenden Kapazitäten;
-
-- b) die fachliche Differenzierung der Angebote;
-
-- c) die zeitliche Erreichbarkeit und Verfügbarkeit von ambulanten Diensten;
-
-- d) die Aufnahmebereitschaft für teilstationäre und temporäre Betreuungen bei stationären Einrichtungen;
-
-- e) die Zusammenarbeit mit den anderen in die Versorgungsplanung einbezogenen Leistungsanbietern;
-
-- f) die Gestaltung der Tarife;
-
-- g) die finanziellen Beiträge der Gemeinden;
-
-- h) die Zuständigkeiten und das Verfahren im Falle von Beanstandungen und Streitigkeiten zwischen Klienten und Leistungserbringern;
-
-- i) Massnahmen der Qualitätssicherung;
-
-- j) die kommunale Aufsicht.
+- a) die bereitzustellenden Kapazitäten
+- b) die fachliche Differenzierung der Angebote
+- c) die zeitliche Erreichbarkeit und Verfügbarkeit von ambulanten Diensten
+- d) die Aufnahmebereitschaft für teilstationäre und temporäre Betreuungen bei stationären Einrichtungen
+- e) die Zusammenarbeit mit den anderen in die Versorgungsplanung einbezogenen Leistungsanbietern
+- f) die Gestaltung der Tarife
+- g) die finanziellen Beiträge der Gemeinden
+- h) die Zuständigkeiten und das Verfahren im Falle von Beanstandungen und Streitigkeiten zwischen Klienten und Leistungserbringern
+- i) Massnahmen der Qualitätssicherung
+- j) die kommunale Aufsicht
 
 <sup>3</sup> Die Leistungsaufträge und Verträge betreffend die Hilfe und Pflege zu Hause sind so auszugestalten, dass für alle Einwohnerinnen und Einwohner der gleichen Versorgungsregion gleichwertige Leistungen zu gleichen Konditionen verfügbar sind.
 
@@ -164,25 +157,20 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 <sup>3</sup> Der Kanton ist befugt, die planungsrelevanten Leistungs- und Finanzkennzahlen der Leistungserbringer in geeigneter Form zu publizieren.
 
-## II. Finanzierung
+## 2 Finanzierung
 
 #### Art. 9
 
-<sup>10)</sup>
-
-**Leistungsverrechnung 10)**
+**Leistungsverrechnung**
 
 <sup>1</sup> Die Anbieter von Leistungen nach diesem Gesetz sind gegenüber allen involvierten Finanzierungspartnern zu einer transparenten Rechnungsstellung verpflichtet.
 
 <sup>2</sup> In den Heimen sind die verrechneten Kostenanteile insbesondere für folgende Leistungsbereiche separat auszuweisen:
 
-- a) Hotellerie und allgemeine Grundleistungen;
-
-- b) Pflege im Sinne des KVG;
-
-- c) andere Betreuungsleistungen;
-
-- d) weitere individuell beanspruchte Leistungen.
+- a) Hotellerie und allgemeine Grundleistungen
+- b) Pflege im Sinne des KVG
+- c) andere Betreuungsleistungen
+- d) weitere individuell beanspruchte Leistungen
 
 <sup>3</sup> Die Betreuungsleistungen können im Rahmen von aufwandgerecht differenzierten Pauschalen verrechnet werden.
 
@@ -192,9 +180,7 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 #### Art. 10
 
-<sup>10)</sup>
-
-**Beiträge des Kantons und der Gemeinden 10)**
+**Beiträge des Kantons und der Gemeinden**
 
 <sup>1</sup> Der Kanton und die Gemeinden finanzieren die Restkosten der Pflege gemäss Art. 25a KVG in den in ihrer Zuständigkeit liegenden Leistungsbereichen gemäss Art. 2 und 3 dieses Gesetzes.
 
@@ -204,8 +190,6 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 #### Art. 10a
 
-<sup>11)</sup>
-
 **Beiträge der Patientinnen und Patienten an die Pflegekosten**
 
 <sup>1</sup> Bei Pflege im Heim sowie bei ambulanter Pflege durch Anbieter mit oder ohne Leistungsauftrag der Gemeinden können die gepflegten Personen im Rahmen der bundesrechtlichen Vorgaben gemäss Art. 25a Abs. 5 KVG zur Mitfinanzierung herangezogen werden.
@@ -213,8 +197,6 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 <sup>2</sup> Für die Pflege von Kindern und Jugendlichen bis zum vollendeten 18. Altersjahr werden keine Kostenbeiträge der Betroffenen erhoben.
 
 #### Art. 10b
-
-<sup>11)</sup>
 
 **Restfinanzierung der Pflege gemäss KVG**
 
@@ -230,8 +212,6 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 #### Art. 10c
 
-<sup>11)</sup>
-
 **Akut- und Übergangspflege**
 
 <sup>1</sup> Die Zulassung zur stationären Akut- und Übergangspflege im Sinne von Art. 25a Abs. 2 KVG setzt einen entsprechenden Leistungsauftrag des Kantons voraus.
@@ -242,17 +222,13 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 #### Art. 10d
 
-<sup>11)</sup>
-
 **Zuständige Gemeinde**
 
-<sup>1</sup> Die Zuständigkeit für die Restfinanzierung der Pflege in den Leistungsbereichen gemäss Art. 3 dieses Gesetzes (Heime und Pflege zu Hause) liegt grundsätzlich bei der Wohnsitzgemeinde der betroffenen Person. Massgeblich ist der steuerrechtliche Wohnsitz.
+<sup>1</sup> Die Zuständigkeit für die Restfinanzierung der Pflege in den Leistungsbereichen gemäss Art. 3 dieses Gesetzes (Heime und Pflege zu Hause) liegt grundsätzlich bei der Wohnsitzgemeinde der betroffenen Person. Massgeblich ist der zivilrechtliche Wohnsitz.
 
-<sup>2</sup> Der Heimeintritt einer pflegebedürftigen Person begründet keinen Wohnsitzwechsel.
+<sup>2</sup> Bei Pflegeleistungen von Pflegeheimen ist die Restfinanzierung von der Gemeinde zu leisten, in der die pflegebedürftige Person vor dem Eintritt in das Pflegeheim ihren zivilrechtlichen Wohnsitz hatte. Der Aufenthalt in einem Pflegeheim begründet keine neue Zuständigkeit.
 
 #### Art. 10e
-
-<sup>11)</sup>
 
 **Pflege in Heimen ohne Leistungsauftrag der Gemeinde**
 
@@ -266,17 +242,16 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 #### Art. 11
 
-<sup>10)</sup>
+**Beiträge an die Spitäler Schaffhausen**
 
-**Beiträge an die Spitäler Schaffhausen 10)**
+<sup>1</sup> Bei Betreuung in den Spitäler Schaffhausen übernimmt der Kanton die Restkosten der Pflege:
 
-<sup>1</sup> Bei Betreuung in den Spitäler Schaffhausen übernimmt der Kanton die Restkosten der Pflege a) bei der stationären Akut- und Übergangspflege im Sinne von Art. 25a Abs. 3 KVG während einer gegenüber dem Bundesrecht erweiterten Dauer bis zu 60 Tagen;
+- a) bei der stationären Akut- und Übergangspflege im Sinne von Art. 25a Abs. 3 KVG während einer gegenüber dem Bundesrecht erweiterten Dauer bis zu 60 Tagen
+- b) bei Personen, die aufgrund von Behinderungen, Unfällen oder chronischen Erkrankungen vor Erreichen des 70. Altersjahres dauerhaft pflegebedürftig wurden
 
-- b) bei Personen, die aufgrund von Behinderungen, Unfällen oder chronischen Erkrankungen vor Erreichen des 70. Altersjahres dauerhaft pflegebedürftig wurden.
+<sup>2</sup> Bei anderen Pflegepatientinnen und ‑patienten der Spitäler Schaffhausen beteiligen sich die Gemeinden nach den Grundsätzen von Art. 10e an den Kosten. Bei Personen, die primär im Rahmen der Akut- und Übergangspflege aufgenommen werden, gilt der 61. Pflegetag sinngemäss als Heimeintrittstag.
 
-<sup>2</sup> Bei anderen Pflegepatientinnen und -patienten der Spitäler Schaffhausen beteiligen sich die Gemeinden nach den Grundsätzen von Art. 10e an den Kosten. Bei Personen, die primär im Rahmen der Akut- und Übergangspflege aufgenommen werden, gilt der 61. Pflegetag sinngemäss als Heimeintrittstag.
-
-<sup>3</sup> Bei Personen in der Zuständigkeit der Gemeinden, die in den Spitälern Schaffhausen gepflegt werden, weil kein geeigneter Platz in einem Vertragsheim der Gemeinde verfügbar ist, übernehmen die Gemeinden die vom Regierungsrat festgesetzten Restkosten der Pflege bis zu einem Höchstwert von 120 % der Richtwerte gemäss Art. 10b Abs. 4. In anderen Fällen zahlen die Gemeinden die genannten Richtwerte ohne Zuschlag.
+<sup>3</sup> Bei Personen in der Zuständigkeit der Gemeinden, die in den Spitälern Schaffhausen gepflegt werden, weil kein geeigneter Platz in einem Vertragsheim der Gemeinde verfügbar ist, übernehmen die Gemeinden die vom Regierungsrat festgesetzten Restkosten der Pflege bis zu einem Höchstwert von 120% der Richtwerte gemäss Art. 10b Abs. 4. In anderen Fällen zahlen die Gemeinden die genannten Richtwerte ohne Zuschlag.
 
 #### Art. 12
 
@@ -284,23 +259,23 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 <sup>1</sup> Der Kanton erstattet den Gemeinden die Hälfte ihrer anrechenbaren Aufwendungen für Altersbetreuung und Pflege. Die Beiträge werden jährlich aufgrund der ausgewiesenen Aufwendungen im Vorjahr ermittelt und ausbezahlt.
 
-<sup>2</sup> Anrechenbar sind folgende Aufwendungen der Gemeinden: <sup>10)</sup> a) Betriebsbeiträge an Organisationen und Heime mit Leistungsaufträgen gemäss Art. 6 dieses Gesetzes;
+<sup>2</sup> Anrechenbar sind folgende Aufwendungen der Gemeinden:
 
-- b) analoge Aufwendungen der Gemeinden durch die ungedeckten Betriebskosten eigener Heime und Dienste;
-
-- c) Beiträge an die Restfinanzierung der Pflege durch weitere Leistungsanbieter im Sinne von Art. 10 ff. dieses Gesetzes.
+- a) Betriebsbeiträge an Organisationen und Heime mit Leistungsaufträgen gemäss Art. 6 dieses Gesetzes
+- b) analoge Aufwendungen der Gemeinden durch die ungedeckten Betriebskosten eigener Heime und Dienste
+- c) Beiträge an die Restfinanzierung der Pflege durch weitere Leistungsanbieter im Sinne von Art. 10 ff. dieses Gesetzes
 
 <sup>3</sup> Nicht anrechenbar sind Kosten der Gemeinden, die im Rahmen von politischen, planerischen und allgemeinen administrativen Prozessen ausserhalb der eigenen Heime und klientenbezogenen Dienstbereiche anfallen, sowie individuelle Sozialhilfeleistungen.
 
 <sup>4</sup> Allfällige Betriebsgewinne gemeindeeigener Heime und Dienste, die von den Gemeinden vereinnahmt werden, sowie allfällige Rückzahlungen von früher angerechneten Beiträgen durch externe Leistungserbringer werden von den anrechenbaren Kosten in Abzug gebracht.
 
-<sup>5</sup> Bei kommunalen Heimen, deren Investitionen über die Investitionsrechnungen der Gemeinden finanziert werden, können die folgenden mit der Anlagenutzung zusammenhängenden Kosten in der Heimrechnung ausgewiesen und an die Gemeindebeiträge angerechnet werden: <sup>11)</sup> a) Abschreibungen von Investitionen der Trägergemeinden;
+<sup>5</sup> Bei kommunalen Heimen, deren Investitionen über die Investitionsrechnungen der Gemeinden finanziert werden, können die folgenden mit der Anlagenutzung zusammenhängenden Kosten in der Heimrechnung ausgewiesen und an die Gemeindebeiträge angerechnet werden:
 
-- b) Zinsen auf den nicht abgeschriebenen Investitionen;
+- a) Abschreibungen von Investitionen der Trägergemeinden
+- b) Zinsen auf den nicht abgeschriebenen Investitionen
+- c) bedarfsgerechte Einlagen in zweckgebundene Erneuerungsfonds bei Heimen, deren Investitionen vollständig abgeschrieben sind
 
-- c) bedarfsgerechte Einlagen in zweckgebundene Erneuerungsfonds bei Heimen, deren Investitionen vollständig abgeschrieben sind.
-
-## III. Übergangsbestimmungen
+## 3 Übergangsbestimmungen
 
 #### Art. 13
 
@@ -318,23 +293,22 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 <sup>1</sup> Ab Inkrafttreten dieses Gesetzes bis zum Abschluss der Planungen, Leistungsaufträge und Verträge im Sinne von Art. 5 und 6 dieses Gesetzes zahlen die Gemeinden den altrechtlich beitragsberechtigten Institutionen zumindest folgende Beiträge:
 
-- a) den subventionierten Alters- und Pflegeheimen zumindest Fr. 18.-- pro Pflegetag der Stufe BESA 4 bzw. Fr. 9.-- pro Pflegetag der Stufe BESA 3 (Basis: ausgewiesene Leistungen des Vorjahres);
-
-- b) den subventionierten Organisationen der Hilfe und Pflege zu Hause (inkl. Mahlzeitendienst) zumindest den Kostenanteil, der im Mittel der beiden Jahre vor Inkrafttreten dieses Gesetzes durch Bund, Kanton und Gemeinden insgesamt aufgebracht wurde (Basis: Anteil der anrechenbaren Lohnsumme des Vorjahres bzw. Pauschalbeitrag pro ausgelieferte Mahlzeit);
+- a) den subventionierten Alters- und Pflegeheimen zumindest Fr. 18.00 pro Pflegetag der Stufe BESA 4 bzw. Fr. 9.00 pro Pflegetag der Stufe BESA 3 (Basis: ausgewiesene Leistungen des Vorjahres)
+- b) den subventionierten Organisationen der Hilfe und Pflege zu Hause (inkl. Mahlzeitendienst) zumindest den Kostenanteil, der im Mittel der beiden Jahre vor Inkrafttreten dieses Gesetzes durch Bund, Kanton und Gemeinden insgesamt aufgebracht wurde (Basis: Anteil der anrechenbaren Lohnsumme des Vorjahres bzw. Pauschalbeitrag pro ausgelieferte Mahlzeit)
 
 <sup>2</sup> Bei Heimen und Organisationen der Hilfe und Pflege zu Hause, die Leistungen für Einwohnerinnen und Einwohner mehrerer Gemeinden erbringen, werden die Beiträge unter den Gemeinden entsprechend ihrem Anteil an den erbrachten Leistungen aufgeteilt.
 
 <sup>3</sup> Die Gemeindebeiträge ersetzen die bisherigen Kantons- und Bundesbeiträge. Nachschüssige Beiträge des Kantons für die im Jahr vor Inkrafttreten dieses Gesetzes erbrachten Leistungen nach bisherigem Recht werden nicht mehr ausbezahlt.
 
-<sup>4</sup> Bei Personen, die vor dem 1. Januar 2009 in ein Heim eingetreten sind, liegt die Zuständigkeit für die Finanzierung der Restkosten der Pflege bei jener Gemeinde, in der die betroffene Person im Jahre 2008 ihren steuerrechtlichen Wohnsitz hatte. <sup>11)</sup>
+<sup>4</sup> Bei Personen, die vor dem 1. Januar 2009 in ein Heim eingetreten sind, liegt die Zuständigkeit für die Finanzierung der Restkosten der Pflege bei jener Gemeinde, in der die betroffene Person im Jahre 2008 ihren steuerrechtlichen Wohnsitz hatte.
 
 #### Art. 15
 
 **Gemeindebeiträge an die kantonalen Spitäler**
 
-<sup>1</sup> Im ersten Jahr ab Inkrafttreten dieses Gesetzes bleiben die Gemeindebeiträge an die Spitäler für Leistungen gemäss Art. 11 Abs. 1 dieses Gesetzes auf Fr. 25.-- pro Pflegetag begrenzt.
+<sup>1</sup> Im ersten Jahr ab Inkrafttreten dieses Gesetzes bleiben die Gemeindebeiträge an die Spitäler für Leistungen gemäss Art. 11 Abs. 1 dieses Gesetzes auf Fr. 25.00 pro Pflegetag begrenzt.
 
-<sup>2</sup> … <sup>12)</sup>
+<sup>2</sup> …
 
 #### Art. 16
 
@@ -342,11 +316,9 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 <sup>1</sup> Die Kantonsbeiträge an die Gemeinden im ersten Jahr nach Inkrafttreten des Gesetzes bemessen sich nach den im Mittel der beiden Vorjahre ausbezahlten Kantonsbeiträgen an die von den Gemeinden getragenen bzw. mitfinanzierten Heime und Organisationen der Hilfe und Pflege zu Hause wie folgt:
 
-- a) 75 % der Betriebsbeiträge an kommunale Heime im Sinne von Art. 8 des Altersbetreuungs- und Pflegegesetzes vom 21. August 1995 <sup>6)</sup> ;
-
-- b) 100 % der Betriebsbeiträge an von den Gemeinden mitfinanzierte private Heime im Sinne von Art. 9 Abs. 1 des Altersbetreuungs- und Pflegegesetzes vom 21. August 1995 <sup>6)</sup>;
-
-- c) 160 % der Betriebsbeiträge an Organisationen der Krankenpflege, Hauspflege und Haushilfe im Sinne von § 2 und § 3 des Dekrets über die finanzielle Unterstützung der spitalexternen Krankenpflege vom 15. November 1993 <sup>7)</sup>;
+- a) 75% der Betriebsbeiträge an kommunale Heime im Sinne von Art. 8 des Altersbetreuungs- und Pflegegesetzes vom 21. August 1995
+- b) 100% der Betriebsbeiträge an von den Gemeinden mitfinanzierte private Heime im Sinne von Art. 9 Abs. 1 des Altersbetreuungs- und Pflegegesetzes vom 21. August 1995
+- c) 160% der Betriebsbeiträge an Organisationen der Krankenpflege, Hauspflege und Haushilfe im Sinne von § 2 und § 3 des Dekrets über die finanzielle Unterstützung der spitalexternen Krankenpflege vom 15. November 1993
 
 <sup>2</sup> Bei Heimen und Organisationen, die von mehreren Gemeinden mitfinanziert wurden, werden die resultierenden Kantonsbeiträge entsprechend den Gemeindebeiträgen in den beiden Referenzjahren anteilsmässig aufgeteilt.
 
@@ -354,15 +326,15 @@ Amtsblatt 2007, S.969 b) befristete stationäre Akut- und Übergangspflege nach 
 
 **Investitionsbeiträge an Heime**
 
-Investitionsbeiträge des Kantons an den Bau, den Umbau und die Einrichtung von Heimen werden nach bisherigem Recht geleistet für Projekte, für die zum Zeitpunkt des Inkrafttretens dieses Gesetzes ein bewilligungsreifes Bauprojekt und die nötigen Kreditbeschlüsse der zuständigen kommunalen Organe rechtsverbindlich vorliegen.
+<sup>1</sup> Investitionsbeiträge des Kantons an den Bau, den Umbau und die Einrichtung von Heimen werden nach bisherigem Recht geleistet für Projekte, für die zum Zeitpunkt des Inkrafttretens dieses Gesetzes ein bewilligungsreifes Bauprojekt und die nötigen Kreditbeschlüsse der zuständigen kommunalen Organe rechtsverbindlich vorliegen.
 
-## IV. Schlussbestimmungen
+## 4 Schlussbestimmungen
 
 #### Art. 18
 
 **Ausführungsbestimmungen**
 
-Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen.
 
 #### Art. 19
 
@@ -370,62 +342,21 @@ Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Ausfü
 
 <sup>1</sup> Dieses Gesetz ersetzt das Altersbetreuungs- und Pflegegesetz vom 21. August 1995.
 
-<sup>2</sup> Das Gesundheitsgesetz vom 19. Oktober 1970 wird wie folgt geändert:
+<sup>2</sup> Das Gesundheitsgesetz vom 19. Oktober 1970 wird wie folgt geändert[^19-1]:
 
-#### Art. 30
-
-**Aufgehoben**
-
-#### Art. 33a
-
-**Mütter- und Väterberatung**
-
-Der Kanton sorgt für die Beratung der Eltern von Säuglingen und Kleinkindern in Belangen der Gesundheitsvorsorge.
-
-#### Art. 33b
-
-Aufgehoben Dekret über die finanzielle Unterstützung der spitalexternen Krankenpflege vom 15. November 1993 wird aufgehoben.
+[^19-1]: Gegenstandslos.
 
 #### Art. 20
-
-**3 Das**
 
 **Inkrafttreten**
 
 <sup>1</sup> Dieses Gesetz untersteht dem Referendum.
 
-<sup>2</sup> Der Regierungsrat bestimmt das Inkrafttreten <sup>8)</sup>.
+<sup>2</sup> Der Regierungsrat bestimmt das Inkrafttreten[^20-1].
 
-<sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen <sup>9)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^20-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
+[^20-1]: In Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1872).
+[^20-2]: Amtsblatt 2007, S. 969.
 
-**1) 2) 3) 4) 5) 6) 7) 8)**
-
-SHR 810.100.
-
-SHR 813.100.
-
-SHR 850.100.
-
-SHR 832.10.
-
-SHR 813.100.
-
-SHR 813.500.
-
-SHR 813.710.
-
-In Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1872).
-
-**9) 10)**
-
-Amtsblatt 2007, S. 969.
-
-**11)**
-
-**12)**
-
-**13)**
-
-Fassung gemäss G vom 20. September 2010, in Kraft getreten am 1. Januar 2012 (Amtsblatt 2011, S. 1547, S. 1552). Eingefügt durch G vom 20. September 2010, in Kraft getreten am 1. Januar 2012 (Amtsblatt 2011, S. 1547, S. 1552). Aufgehoben durch G vom 20. September 2010, in Kraft getreten am 1. Januar 2012 (Amtsblatt 2011, S. 1547, S. 1552). Eingefügt durch G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
+Abl. 2007, S. 969, S. 1872
