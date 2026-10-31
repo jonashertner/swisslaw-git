@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordinanza dell' 8 marzo 2013 sulla parte nazionale del Sistema d'informazione di Schengen (N-SIS) e sull'ufficio SIRENE (Ordinanza N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: it
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20261001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20261001/it"
 
 (Ordinanza N-SIS)
 
-dell’8 marzo 2013 (Stato 1° ottobre 2026)
+dell’8 marzo 2013 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -222,23 +222,29 @@ Per svolgere i propri compiti di cui all’articolo 16 capoverso 2 LSIP, le auto
     - – per verificare se il richiedente di un’autorizzazione al porto d’armi è ricercato ai fini dell’estradizione oppure di una sorveglianza discreta, un controllo d’indagine o un controllo mirato, e
     - – per verificare se l’arma da fuoco in questione sia ricercata per sequestro o ai fini di prova in un procedimento penale,
 
-  - 9\.[^7-6] il servizio competente per lo scambio internazionale d’informazioni di polizia in occasione di manifestazioni sportive: per raccogliere e scambiare informazioni nel quadro di una sorveglianza discreta, un controllo d’indagine o un controllo mirato di persone, veicoli o altri oggetti, ai fini della prevenzione dei rischi per la sicurezza pubblica o della salvaguardia della sicurezza interna ed esterna;
+  - 9\.[^7-6] il servizio competente per lo scambio internazionale d’informazioni di polizia in occasione di manifestazioni sportive: per raccogliere e scambiare informazioni nel quadro di una sorveglianza discreta, un controllo d’indagine o un controllo mirato di persone, veicoli o altri oggetti, ai fini della prevenzione dei rischi per la sicurezza pubblica o della salvaguardia della sicurezza interna ed esterna,
+  - 10\.[^7-7]
+
+    l’unità nazionale incaricata del trattamento dei dati dei passeggeri aerei:
+
+    - – per il confronto automatico secondo l’articolo 6 capoverso 1 della legge del 21 marzo 2025[^7-8] sui dati dei passeggeri aerei (LDPA)
+    - – per la verifica manuale di una corrispondenza secondo l’articolo 6 capoverso 2 LDPA;
 
 - b. il Ministero pubblico della Confederazione: nell’ambito delle sue competenze per combattere i crimini e i delitti internazionali e per perseguire i reati sottoposti alla giurisdizione federale;
 - c.
 
   nell’UFG:
 
-  - 1\. la divisione Assistenza giudiziaria internazionale: in relazione con le procedure di assistenza giudiziaria internazionale ai sensi della legge del 20 marzo 1981[^7-7] sull’assistenza in materia penale,
-  - 2\. l’Autorità centrale in materia di rapimento internazionale dei minori: in relazione ai suoi compiti ai sensi della Convenzione del 25 ottobre 1980[^7-8] sugli aspetti civili del rapimento internazionale dei minori;
+  - 1\. la divisione Assistenza giudiziaria internazionale: in relazione con le procedure di assistenza giudiziaria internazionale ai sensi della legge del 20 marzo 1981[^7-9] sull’assistenza in materia penale,
+  - 2\. l’Autorità centrale in materia di rapimento internazionale dei minori: in relazione ai suoi compiti ai sensi della Convenzione del 25 ottobre 1980[^7-10] sugli aspetti civili del rapimento internazionale dei minori;
 
-- d.[^7-9] le autorità cantonali di giustizia e polizia, nonché le autorità competenti per l’esecuzione dell’espulsione giudiziaria;
+- d.[^7-11] le autorità cantonali di giustizia e polizia, nonché le autorità competenti per l’esecuzione dell’espulsione giudiziaria;
 - e.
 
-  nell’Ufficio federale della dogana e della sicurezza dei confini[^7-10]:
+  nell’Ufficio federale della dogana e della sicurezza dei confini[^7-12]:
 
   - 1\. il Corpo delle guardie di confine,
-  - 2\.[^7-11] la divisione principale Antifrode doganale: per eseguire i suoi compiti nell’ambito degli accertamenti preliminari, delle indagini, del perseguimento e dell’esecuzione penali, nonché dell’assistenza amministrativa e giudiziaria internazionale,
+  - 2\.[^7-13] la divisione principale Antifrode doganale: per eseguire i suoi compiti nell’ambito degli accertamenti preliminari, delle indagini, del perseguimento e dell’esecuzione penali, nonché dell’assistenza amministrativa e giudiziaria internazionale,
   - 3\.
 
     gli uffici doganali:
@@ -246,7 +252,7 @@ Per svolgere i propri compiti di cui all’articolo 16 capoverso 2 LSIP, le auto
     - – l’Ispettorato doganale: per sorvegliare e controllare il traffico delle persone e delle merci,
     - – tutti gli altri uffici doganali: per sorvegliare e controllare il traffico delle merci;
 
-- f.[^7-12]
+- f.[^7-14]
 
   i servizi competenti dell’ambito direzionale Immigrazione e integrazione della SEM:
 
@@ -254,34 +260,34 @@ Per svolgere i propri compiti di cui all’articolo 16 capoverso 2 LSIP, le auto
   - 2\. per confrontare sistematicamente e in modo automatizzato i dati dei passeggeri aerei precedentemente trasmessi dal sistema API con i dati del SIS allo scopo di migliorare il controllo alla frontiera e di lottare efficacemente contro l’entrata illegale nello spazio Schengen e l’attraversamento illegale delle zone di transito internazionali degli aeroporti e per lottare contro la criminalità internazionale organizzata, il terrorismo, lo spionaggio e la preparazione del commercio illecito di armi e materiali radioattivi e dei trasferimenti di tecnologia illegali,
   - 3\. per identificare le persone che hanno presentato una domanda d’asilo,
   - 4\. per esaminare le domande di naturalizzazione,
-  - 5\.[^7-13] per adempiere i compiti che sono loro assegnati in virtù dell’articolo 108*c* capoverso 1 e 108*e* capoverso 1, secondo periodo LStrI;
+  - 5\.[^7-15] per adempiere i compiti che sono loro assegnati in virtù dell’articolo 108*c* capoverso 1 e 108*e* capoverso 1, secondo periodo LStrI;
 
-- f<sup>bis</sup>.[^7-14] i servizi competenti degli ambiti direzionali Immigrazione e integrazione nonché Asilo della SEM: per consultare le segnalazioni ai fini del rimpatrio iscritte nel SIS e per controllare e diffondere nel SIS tali segnalazioni;
-- f<sup>ter</sup>.[^7-15] i servizi competenti dell’ambito direzionale Affari internazionali della SEM: per sostenere i Cantoni nei loro compiti riguardanti l’esecuzione degli allontanamenti e delle espulsioni;
+- f<sup>bis</sup>.[^7-16] i servizi competenti degli ambiti direzionali Immigrazione e integrazione nonché Asilo della SEM: per consultare le segnalazioni ai fini del rimpatrio iscritte nel SIS e per controllare e diffondere nel SIS tali segnalazioni;
+- f<sup>ter</sup>.[^7-17] i servizi competenti dell’ambito direzionale Affari internazionali della SEM: per sostenere i Cantoni nei loro compiti riguardanti l’esecuzione degli allontanamenti e delle espulsioni;
 - g. le rappresentanze svizzere all’estero: per controllare le domande di visto;
-- h.[^7-16] i servizi del Servizio delle attività informative della Confederazione competenti per l’esecuzione della legge federale del 25 settembre 2015[^7-17] sulle attività informative: per prevenire o individuare reati di terrorismo o altri reati gravi;
-- h<sup>bis</sup>.[^7-18]
+- h.[^7-18] i servizi del Servizio delle attività informative della Confederazione competenti per l’esecuzione della legge federale del 25 settembre 2015[^7-19] sulle attività informative: per prevenire o individuare reati di terrorismo o altri reati gravi;
+- h<sup>bis</sup>.[^7-20]
 
   le unità della SECO competenti per il rilascio delle autorizzazioni d’esportazione di armi da fuoco:
 
   - 1\. per verificare se il richiedente di un’autorizzazione è ricercato ai fini dell’estradizione oppure di una sorveglianza discreta, un controllo d’indagine o un controllo mirato,
   - 2\. per verificare se le armi da fuoco da esportare sono ricercate per sequestro o per salvaguardare le prove in un procedimento penale;
 
-- h<sup>ter</sup>.[^7-19] i servizi dell’Ufficio federale dell’aviazione civile competenti per il rilascio delle autorizzazioni di certificazione degli aeromobili: per verificare se gli aeromobili e i relativi motori presentati per la certificazione sono stati rubati o sono ricercati per salvaguardare le prove in un procedimento penale;
+- h<sup>ter</sup>.[^7-21] i servizi dell’Ufficio federale dell’aviazione civile competenti per il rilascio delle autorizzazioni di certificazione degli aeromobili: per verificare se gli aeromobili e i relativi motori presentati per la certificazione sono stati rubati o sono ricercati per salvaguardare le prove in un procedimento penale;
   - 1\. per esaminare le domande di visto, per rilasciare titoli di soggiorno nonché per verificare le segnalazioni ai fini della non ammissione e del divieto di soggiorno nei confronti di cittadini di Stati terzi nel SIS,
   - 2\. per consultare le segnalazioni ai fini del rimpatrio iscritte nel SIS e per controllare e diffondere nel SIS tali segnalazioni;
 
-- i.[^7-20]
+- i.[^7-22]
 
   le autorità cantonali e comunali della migrazione:
 
   - 1\. per esaminare le domande di visto, per rilasciare titoli di soggiorno nonché per verificare le segnalazioni ai fini della non ammissione e del divieto di soggiorno nei confronti di cittadini di Stati terzi nel SIS,
   - 2\. per consultare le segnalazioni ai fini del rimpatrio iscritte nel SIS e per controllare e diffondere nel SIS tali segnalazioni;
 
-- i<sup>bis</sup>.[^7-21] le autorità cantonali e comunali: per verificare le domande di naturalizzazione;
-- j.[^7-22] gli uffici della circolazione stradale: per verificare se il veicolo loro presentato, il relativo documento o la targa sono stati rubati o altrimenti sottratti o se sono ricercati per salvaguardare le prove in un procedimento penale;
-- k.[^7-23] gli uffici della navigazione: per verificare se il natante loro presentato o il relativo motore è stato rubato o altrimenti sottratto o se è ricercato per salvaguardare le prove in un procedimento penale;
-- l.[^7-24]
+- i<sup>bis</sup>.[^7-23] le autorità cantonali e comunali: per verificare le domande di naturalizzazione;
+- j.[^7-24] gli uffici della circolazione stradale: per verificare se il veicolo loro presentato, il relativo documento o la targa sono stati rubati o altrimenti sottratti o se sono ricercati per salvaguardare le prove in un procedimento penale;
+- k.[^7-25] gli uffici della navigazione: per verificare se il natante loro presentato o il relativo motore è stato rubato o altrimenti sottratto o se è ricercato per salvaguardare le prove in un procedimento penale;
+- l.[^7-26]
 
   gli uffici cantonali delle armi:
 
@@ -296,24 +302,26 @@ Per svolgere i propri compiti di cui all’articolo 16 capoverso 2 LSIP, le auto
 [^7-4]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-5]: Introdotto dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-6]: Introdotto dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-7]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^7-8]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
-[^7-9]: Nuovo testo giusta la cifra I n. 13 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-10]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^7-11]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
-[^7-12]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-13]: Introdotto dall’all. 3 n. 8 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
-[^7-14]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-15]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-16]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
-[^7-17]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^7-18]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-19]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-20]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-7]: Introdotto dalla cifra I dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 519](https://fedlex.data.admin.ch/eli/oc/2026/519)).
+[^7-8]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^7-9]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^7-10]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
+[^7-11]: Nuovo testo giusta la cifra I n. 13 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^7-12]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-13]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
+[^7-14]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-15]: Introdotto dall’all. 3 n. 8 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^7-16]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-17]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-18]: Nuovo testo giusta la cifra I dell’O del 26 ago. 2026, in vigore dal 1° ott. 2026 ([RU 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^7-19]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^7-20]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-21]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-22]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-23]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-24]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-24]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-25]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-26]: Introdotta dalla cifra I dell’O del 19 nov. 2022, in vigore dal 22 nov. 2022 ([RU 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
 ## Capitolo 3*a*: Autorità competente per la conclusione di trattati internazionali
 
@@ -1762,95 +1770,99 @@ Allegato 3[^t-4]
 
 (art. 7 cpv. 2 e 11 cpv. 1)
 
-## 1. Diritti d’accesso e di trattamento dei dati memorizzati nel SIS
+## 1 Diritti d’accesso e di trattamento dei dati memorizzati nel SIS
 
-[^t-4]: Nuovo testo giusta l’all. 3 n. 8 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi, in vigore dal 1° ott. 2026 ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^t-4]: Nuovo testo giusta l’all. 3 n. 8 dell’O del 26 ago. 2026 sui sistemi europeo e nazionale di informazione e autorizzazione ai viaggi ([RU 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)). Aggiornato dalla cifra II dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 519](https://fedlex.data.admin.ch/eli/oc/2026/519)).
 
 Livelli d’accesso
 
-- A = consultare
-- B = trattare
-- Vuoto = nessun diritto d’accesso
+A = consultare
+
+B = trattare
+
+vuoto = nessun diritto d’accesso
 
 Abbreviazioni delle autorità
 
-- fedpol I Ufficio federale di polizia: divisione Diritto
-- fedpol II Ufficio federale di polizia: servizi responsabili della corrispondenza con Interpol e Centrale operativa e d’allarme
-- fedpol III Ufficio federale di polizia: ufficio SIRENE
-- fedpol IV Ufficio federale di polizia: servizi responsabili del trattamento dei dati segnaletici di natura biometrica
-- fedpol V Ufficio federale di polizia: Polizia giudiziaria federale
-- fedpol VI Ufficio federale di polizia: settore Documenti d’identità, settore Servizio statale d’identità
-- fedpol VII Ufficio federale di polizia: servizi responsabili di RIPOL
-- fedpol VIII Ufficio federale di polizia: Ufficio di comunicazione in materia di riciclaggio di denaro (\*consultazione unicamente tramite Swisspol Index)
-- fedpol IX Ufficio federale di polizia: Ufficio centrale armi
-- fedpol X Ufficio federale di polizia: servizio responsabile dello scambio internazionale di informazioni di polizia in occasione di manifestazioni sportive
-- SIC Servizio delle attività informative della Confederazione
-- MPC Ministero pubblico della Confederazione
-- UFG I Ufficio federale di giustizia: ambito direzionale Assistenza giudiziaria internazionale
-- UFG II Ufficio federale di giustizia: Autorità centrale in materia di rapimento internazionale dei minori
-- SEM I Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 1
-- SEM II Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 2
-- SEM III Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione e ambito direzionale Asilo per i compiti di cui all’articolo 7 capoverso 1 lettera f<sup>bis</sup> e ambito direzionale Affari internazionali per i compiti di cui all’articolo 7 capoverso 1 lettera f<sup>ter</sup>
-- SEM IV Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 3
-- SEM V Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 4
-- SEM VI Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 5
-- Cgcf Corpo delle guardie di confine
-- UDSC I Ufficio federale della dogana e della sicurezza dei confini: divisione principale Antifrode doganale
-- UDSC II Ufficio federale della dogana e della sicurezza dei confini: uffici doganali
-- UDSC III Uffici doganali: Ispettorato doganale aeroporti svizzeri (BE, BS, ZH)
-- UFAC Ufficio federale dell’aviazione civile
-- SECO Segreteria di Stato dell’economia: settore Controllo degli armamenti e politica del controllo degli armamenti per i compiti di cui all’articolo 7 capoverso 1 lettera h<sup>bis</sup>
-- PolCa Autorità cantonali di perseguimento penale, di giustizia e di esecuzione penale
-- UCA Uffici cantonali delle armi per i compiti di cui all’articolo 7 capoverso 1 lettera l
-- PolStr Polizia degli stranieri, uffici della migrazione, autorità regionali e comunali degli stranieri per i compiti di cui all’articolo 7 capoverso 1 lettera i numeri 1 e 2
-- NAT Autorità cantonali e comunali cui compete l’esame delle domande di naturalizzazione
-- UCSN Uffici della circolazione stradale e della navigazione per i compiti di cui all’articolo 7 capoverso 1 lettera k
-- RSE Rappresentanze svizzere all’estero
+<table>
+<tr><td>fedpol I</td><td>Ufficio federale di polizia: divisione Diritto</td></tr>
+<tr><td>fedpol II</td><td>Ufficio federale di polizia: servizi responsabili della corrispondenza con Interpol e Centrale operativa e d’allarme</td></tr>
+<tr><td>fedpol III</td><td>Ufficio federale di polizia: SIRENE CH</td></tr>
+<tr><td>fedpol IV</td><td>Ufficio federale di polizia: servizi responsabili del trattamento dei dati segnaletici di natura biometrica</td></tr>
+<tr><td>fedpol V</td><td>Ufficio federale di polizia: Polizia giudiziaria federale</td></tr>
+<tr><td>fedpol VI</td><td>Ufficio federale di polizia: settore Documenti d’identità, settore Servizio statale d’identità</td></tr>
+<tr><td>fedpol VII</td><td>Ufficio federale di polizia: servizi responsabili di RIPOL</td></tr>
+<tr><td>fedpol VIII</td><td>Ufficio federale di polizia: Ufficio di comunicazione in materia di riciclaggio di denaro (\*consultazione unicamente tramite SwissPol Index)</td></tr>
+<tr><td>fedpol IX</td><td>Ufficio federale di polizia: Ufficio centrale armi</td></tr>
+<tr><td>fedpol X</td><td>Ufficio federale di polizia: servizio responsabile dello scambio internazionale di informazioni di polizia in occasione di manifestazioni sportive</td></tr>
+<tr><td>fedpol XI</td><td>Ufficio federale di polizia: unità nazionale incaricata del trattamento dei dati dei passeggeri aerei (Unità d’informazione sui passeggeri, UIP)</td></tr>
+<tr><td>SIC</td><td>Servizio delle attività informative della Confederazione</td></tr>
+<tr><td>MPC</td><td>Ministero pubblico della Confederazione</td></tr>
+<tr><td>UFG I</td><td>Ufficio federale di giustizia: ambito direzionale Assistenza giudiziaria internazionale</td></tr>
+<tr><td>UFG II</td><td>Ufficio federale di giustizia: Autorità centrale in materia di rapimento internazionale di minori</td></tr>
+<tr><td>SEM I</td><td>Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 1</td></tr>
+<tr><td>SEM II</td><td>Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 2</td></tr>
+<tr><td>SEM III</td><td>Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione e ambito direzionale Asilo per i compiti di cui all’articolo 7 capoverso 1 lettera f<sup>bis</sup> e ambito direzionale Affari internazionali per i compiti di cui all’articolo 7 capoverso 1 lettera f<sup>ter</sup></td></tr>
+<tr><td>SEM IV</td><td>Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 3</td></tr>
+<tr><td>SEM V</td><td>Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 4</td></tr>
+<tr><td>Cgcf</td><td>Corpo delle guardie di confine</td></tr>
+<tr><td>UDSC I</td><td>Ufficio federale della dogana e della sicurezza dei confini: divisione principale Antifrode doganale</td></tr>
+<tr><td>UDSC II</td><td>Ufficio federale della dogana e della sicurezza dei confini: uffici doganali</td></tr>
+<tr><td>UDSC III</td><td>Uffici doganali: Ispettorato doganale aeroporti svizzeri (BE, BS, ZH)</td></tr>
+<tr><td>UFAC</td><td>Ufficio federale dell’aviazione civile</td></tr>
+<tr><td>SECO</td><td>Segreteria di Stato dell’economia: settore Controllo degli armamenti e politica del controllo degli armamenti per i compiti di cui all’articolo 7 capoverso 1 lettera h<sup>bis</sup></td></tr>
+<tr><td>PolCa</td><td>Autorità cantonali di perseguimento penale, di giustizia e di esecuzione penale</td></tr>
+<tr><td>UCA</td><td>Uffici cantonali delle armi per i compiti di cui all’articolo 7 capoverso 1 lettera l</td></tr>
+<tr><td>PolStr</td><td>Polizia degli stranieri, uffici della migrazione, autorità regionali e comunali degli stranieri per i compiti di cui all’articolo 7 capoverso 1 lettera i numeri 1 e 2</td></tr>
+<tr><td>NAT</td><td>Autorità cantonali e comunali cui compete l’esame delle domande di naturalizzazione</td></tr>
+<tr><td>UCSN</td><td>Uffici della circolazione stradale e della navigazione per i compiti di cui all’articolo 7 capoverso 1 lettera k</td></tr>
+<tr><td>RSE</td><td>Rappresentanze svizzere all’estero</td></tr>
+</table>
 
 <table>
 <tr><th>Denominazione per campo dati</th><th colspan="26">Confederazione</th><th colspan="5">Cantoni</th><th>Estero</th></tr>
-<tr><th></th><th>fedpol I</th><th>fedpol II\*</th><th>fedpol III</th><th>fedpol IV</th><th>fedpol V</th><th>fedpol VI</th><th>fedpol VII</th><th>fedpol VIII\*</th><th>fedpol IX</th><th>fedpol X</th><th>SIC</th><th>MPC</th><th>UFG I</th><th>UFG II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>SEM IV</th><th>SEM V</th><th>SEM VI</th><th>Cgcf</th><th>UDSC I</th><th>UDSC II</th><th>UDSC III</th><th>UFAC</th><th>SECO</th><th>PolCa</th><th>UCA</th><th>PolStr</th><th>NAT</th><th>UCSN</th><th>RSE</th></tr>
-<tr><td colspan="4">**1.** **Segnalazioni di persone**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>a. Cittadini di Stati terzi ai fini della non ammissione e del divieto di soggiorno</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>b. Cittadini di Stati terzi ai fini del rimpatrio</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>c. Persone per l’arresto ai fini dell’estradizione</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>d. Persone scomparse</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>e. Persone ricercate nell’ambito di un procedimento penale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>f. Persone ai fini di una sorveglianza discreta, di un controllo d’indagine o di un controllo mirato</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>g. Indiziati la cui identità è sconosciuta</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>h. Persone bisognose di protezione</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>i. Segnalazione informativa di Europol</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td colspan="33">**2.** **Segnalazione di oggetti ai fini di sequestro o di prova**</td></tr>
-<tr><td>a. Veicoli a motore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>b. Natanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>c. Motori di natanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>d. Aeromobili</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>e. Motori di aeromobili</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>f. Rimorchi di peso a vuoto &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>g. Roulotte</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>h. Apparecchiature industriali (p. es. macchinari)</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>i. Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>j. Armi da fuoco</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>k. Documenti ufficiali vergini</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>l. Documenti d’identificazione quali passaporti, carte d’identità, licenze di condurre, titoli di soggiorno e documenti di viaggio</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>m. Documenti dei veicoli</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>n. Targhe dei veicoli</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>o. Banconote</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>p. Oggetti della tecnologia dell’informazione</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>q. Parti identificabili di veicoli a motore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>r. Parti identificabili di apparecchiature industriali</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>s. Altri oggetti identificabili di alto valore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td colspan="33">**3.** **Segnalazioni di oggetti ai fini di una sorveglianza discreta, un controllo d’indagine o un controllo mirato**</td></tr>
-<tr><td>Veicoli a motore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Natanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Aeromobili</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Rimorchi di peso a vuoto t &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Roulotte</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Armi da fuoco</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Documenti ufficiali vergini</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Documenti d’identificazione quali passaporti, carte d’identità, licenze di condurre, titoli di soggiorno e documenti di viaggio</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Mezzi di pagamento diversi dai contanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>fedpol IV</th><th>fedpol V</th><th>fedpol VI</th><th>fedpol VII</th><th>fedpol VIII\*</th><th>fedpol IX</th><th>fedpol X</th><th>fedpol XI</th><th>SIC</th><th>MPC</th><th>UFG I</th><th>UFG II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>SEM IV</th><th>SEM V</th><th>Cgcf</th><th>UDSC I</th><th>UDSC II</th><th>UDSC III</th><th>UFAC</th><th>SECO</th><th>PolCa</th><th>UCA</th><th>PolStr</th><th>NAT</th><th>UCSN</th><th>RSE</th></tr>
+<tr><td colspan="33">1. Segnalazioni di persone</td></tr>
+<tr><td>a. Cittadini di Stati terzi ai fini della non ammissione e del divieto di soggiorno</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>b. Cittadini di Stati terzi ai fini del rimpatrio</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>c. Persone per l’arresto ai fini dell’estradizione</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>d. Persone scomparse</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>e. Persone ricercate nell’ambito di un procedimento penale</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>f. Persone ai fini di una sorveglianza discreta, di un controllo d’indagine o di un controllo mirato</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>g. Indiziati la cui identità è sconosciuta</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>h. Persone bisognose di protezione</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>i. Segnalazione informativa di Europol</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="33">2. Segnalazioni di oggetti ai fini di sequestro o di prova</td></tr>
+<tr><td>a. Veicoli a motore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>b. Natanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>c. Motori di natanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>d. Aeromobili</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>e. Motori di aeromobile</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>f. Rimorchi di peso a vuoto &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>g. Roulotte</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>h. Apparecchiatura industriale (p. es. macchinari)</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>i. Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>j. Armi da fuoco</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>k. Documenti ufficiali vergini</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>l. Documenti d’identificazione quali passaporti, carte d’identità, licenze di condurre, titoli di soggiorno e documenti di viaggio</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>m. Documenti dei veicoli</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>n. Targhe dei veicoli</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>o. Banconote</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>p. Oggetti della tecnologia dell’informazione</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>q. Parti identificabili di veicoli a motore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>r. Parti identificabili di apparecchiature industriali</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>s. Altri oggetti identificabili di alto valore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td colspan="33">3. Segnalazioni di oggetti ai fini di una sorveglianza discreta, un controllo d’indagine o un controllo mirato</td></tr>
+<tr><td>a. Veicoli a motore</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>b. Natanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>c. Aeromobili</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>d. Rimorchi di peso a vuoto &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>e. Roulotte</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>f. Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>g. Armi da fuoco</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>h. Documenti ufficiali vergini</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>i. Documenti d’identificazione quali passaporti, carte d’identità, licenze di condurre, titoli di soggiorno e documenti di viaggio</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>j. Mezzi di pagamento diversi dai contanti</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ## 2. Dati memorizzati nel SIS

@@ -3,11 +3,11 @@ sr: "362.0"
 title: Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: de
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20261001/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20261001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20261001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20261001/de"
 
 (N-SIS-Verordnung)
 
-vom 8. März 2013 (Stand am 1. Oktober 2026)
+vom 8. März 2013 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -219,23 +219,29 @@ Die folgenden Behörden haben zur Erfüllung ihrer Aufgaben nach Artikel 16 Absa
     - – ob die Person, die eine Bewilligung beantragt, zwecks Auslieferung oder zum Zweck verdeckter Kontrollen, Ermittlungsanfragen oder gezielter Kontrollen gesucht wird und
     - – ob die betreffende Feuerwaffe zur Sicherstellung oder Beweissicherung in Strafverfahren gesucht wird,
 
-  - 9\.[^7-6] die Stelle, die für den internationalen polizeilichen Informationsaustausch bei Sportveranstaltungen zuständig ist: für die Informationsgewinnung und den Informationsaustausch im Rahmen einer verdeckten Registrierung, Ermittlungsanfrage oder gezielten Kontrolle von Personen, Fahrzeugen oder anderen Gegenständen für die Abwehr von Gefahren für die öffentliche Sicherheit oder der Wahrung der inneren oder äusseren Sicherheit;
+  - 9\.[^7-6] die Stelle, die für den internationalen polizeilichen Informationsaustausch bei Sportveranstaltungen zuständig ist: für die Informationsgewinnung und den Informationsaustausch im Rahmen einer verdeckten Registrierung, Ermittlungsanfrage oder gezielten Kontrolle von Personen, Fahrzeugen oder anderen Gegenständen für die Abwehr von Gefahren für die öffentliche Sicherheit oder der Wahrung der inneren oder äusseren Sicherheit,
+  - 10\.[^7-7]
+
+    die nationale Stelle für die Bearbeitung von Flugpassagierdaten:
+
+    - – zum automatischen Abgleich nach Artikel 6 Absatz 1 des Flugpassagierdatengesetzes vom 21. März 2025[^7-8] (FPG)
+    - – zur manuellen Überprüfung einer Übereinstimmung nach Artikel 6 Absatz 2 FPG;
 
 - b. die Bundesanwaltschaft: im Rahmen ihrer Zuständigkeiten für die Bekämpfung internationaler Verbrechen und Vergehen sowie für die Verfolgung von Straftaten, die der Bundesgerichtsbarkeit unterstehen;
 - c.
 
   im BJ:
 
-  - 1\. der Direktionsbereich Internationale Rechtshilfe: im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^7-7],
-  - 2\. die Zentralbehörde zur Behandlung internationaler Kindesentführungen: im Zusammenhang mit ihren Aufgaben nach dem Übereinkommen vom 25. Oktober 1980[^7-8] über die zivilrechtlichen Aspekte internationaler Kindesentführung;
+  - 1\. der Direktionsbereich Internationale Rechtshilfe: im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^7-9],
+  - 2\. die Zentralbehörde zur Behandlung internationaler Kindesentführungen: im Zusammenhang mit ihren Aufgaben nach dem Übereinkommen vom 25. Oktober 1980[^7-10] über die zivilrechtlichen Aspekte internationaler Kindesentführung;
 
-- d.[^7-9] die kantonalen Polizei- und Justizbehörden sowie die zum Vollzug der Landesverweisung zuständigen Behörden;
+- d.[^7-11] die kantonalen Polizei- und Justizbehörden sowie die zum Vollzug der Landesverweisung zuständigen Behörden;
 - e.
 
-  im Bundesamt für Zoll und Grenzsicherheit[^7-10]:
+  im Bundesamt für Zoll und Grenzsicherheit[^7-12]:
 
   - 1\. das Grenzwachtkorps,
-  - 2\.[^7-11] die Hauptabteilung Zollfahndung: im Rahmen ihrer Aufgaben der Vorermittlung, Untersuchung, Strafverfolgung und Strafvollstreckung sowie der internationalen Amts- und Rechtshilfe,
+  - 2\.[^7-13] die Hauptabteilung Zollfahndung: im Rahmen ihrer Aufgaben der Vorermittlung, Untersuchung, Strafverfolgung und Strafvollstreckung sowie der internationalen Amts- und Rechtshilfe,
   - 3\.
 
     die Zollstellen:
@@ -243,7 +249,7 @@ Die folgenden Behörden haben zur Erfüllung ihrer Aufgaben nach Artikel 16 Absa
     - – das Zollinspektorat: zur Überwachung und Kontrolle des Personen- und des Warenverkehrs,
     - – alle anderen Zollstellen: zur Überwachung und Kontrolle des Warenverkehrs;
 
-- f.[^7-12]
+- f.[^7-14]
 
   die zuständigen Stellen im Direktionsbereich Zuwanderung und Integration im SEM:
 
@@ -251,31 +257,31 @@ Die folgenden Behörden haben zur Erfüllung ihrer Aufgaben nach Artikel 16 Absa
   - 2\. für den systematischen und automatisierten Abgleich von vorab übermittelten Flugpassagierdaten durch das API-System mit Daten des SIS: zur Verbesserung der Grenzkontrollen und zur wirksamen Bekämpfung der rechtswidrigen Einreisen in den Schengen-Raum und der rechtswidrigen Durchreisen durch die internationalen Transitzonen der Flughäfen und zur Bekämpfung des organisierten und international tätigen Verbrechens sowie des Terrorismus, des verbotenen Nachrichtendienstes und der Vorbereitung von verbotenem Handel mit Waffen und radioaktiven Materialien sowie von verbotenem Technologietransfer,
   - 3\. für die Identifikation von Personen, die ein Asylgesuch gestellt haben,
   - 4\. für die Prüfung von Einbürgerungsanträgen,
-  - 5\.[^7-13] für die Erfüllung der ihnen übertragenen Aufgaben nach den Artikeln 108*c* Absatz 1 und 108*e* Absatz 1 zweiter Satz AIG;
+  - 5\.[^7-15] für die Erfüllung der ihnen übertragenen Aufgaben nach den Artikeln 108*c* Absatz 1 und 108*e* Absatz 1 zweiter Satz AIG;
 
-- f<sup>bis</sup>.[^7-14] die zuständigen Stellen in den Direktionsbereichen Zuwanderung und Integration sowie Asyl im SEM: zur Abfrage der Ausschreibungen zur Rückkehr im SIS sowie für die Kontrolle und Freigabe solcher Ausschreibungen im SIS;
-- f<sup>ter</sup>.[^7-15] die zuständigen Stellen im Direktionsbereich Internationales im SEM: zur Unterstützung der Kantone bei ihren Aufgaben betreffend den Vollzug der Wegweisungen und der Landesverweisungen;
+- f<sup>bis</sup>.[^7-16] die zuständigen Stellen in den Direktionsbereichen Zuwanderung und Integration sowie Asyl im SEM: zur Abfrage der Ausschreibungen zur Rückkehr im SIS sowie für die Kontrolle und Freigabe solcher Ausschreibungen im SIS;
+- f<sup>ter</sup>.[^7-17] die zuständigen Stellen im Direktionsbereich Internationales im SEM: zur Unterstützung der Kantone bei ihren Aufgaben betreffend den Vollzug der Wegweisungen und der Landesverweisungen;
 - g. die schweizerischen Vertretungen im Ausland: zur Prüfung eines Visumsgesuchs;
-- h.[^7-16] die für den Vollzug des Nachrichtendienstgesetzes vom 25. September 2015[^7-17] zuständigen Stellen des Nachrichtendienstes des Bundes zur Verhütung oder Aufdeckung terroristischer oder sonstiger schwerer Straftaten;
-- h<sup>bis</sup>.[^7-18]
+- h.[^7-18] die für den Vollzug des Nachrichtendienstgesetzes vom 25. September 2015[^7-19] zuständigen Stellen des Nachrichtendienstes des Bundes zur Verhütung oder Aufdeckung terroristischer oder sonstiger schwerer Straftaten;
+- h<sup>bis</sup>.[^7-20]
 
   die für die Erteilung von Ausfuhrbewilligungen für Feuerwaffen zuständigen Stellen im SECO:
 
   - 1\. zur Überprüfung, ob die Person, die eine Bewilligung beantragt, zwecks Auslieferung oder zum Zweck verdeckter Kontrollen, Ermittlungsanfragen oder gezielter Kontrollen gesucht wird,
   - 2\. zur Überprüfung, ob die auszuführende Feuerwaffe zur Sicherstellung oder Beweissicherung in Strafverfahren gesucht wird;
 
-- h<sup>ter</sup>.[^7-19] die Stellen im Bundesamt für Zivilluftfahrt, die Bewilligungen für die Zulassung von Luftfahrzeugen erteilen: zur Überprüfung, ob die zur Zulassung vorgeführten Luftfahrzeuge und dazugehörige Motoren gestohlen sind oder als Beweismittel in Strafverfahren gesucht werden;
-- i.[^7-20]
+- h<sup>ter</sup>.[^7-21] die Stellen im Bundesamt für Zivilluftfahrt, die Bewilligungen für die Zulassung von Luftfahrzeugen erteilen: zur Überprüfung, ob die zur Zulassung vorgeführten Luftfahrzeuge und dazugehörige Motoren gestohlen sind oder als Beweismittel in Strafverfahren gesucht werden;
+- i.[^7-22]
 
   die kantonalen und kommunalen Migrationsbehörden:
 
   - 1\. für die Prüfung eines Visumsgesuchs, die Erteilung eines Aufenthaltstitels sowie zur Überprüfung von Ausschreibungen zur Einreise- und Aufenthaltsverweigerung gegenüber Drittstaatsangehörigen im SIS,
   - 2\. zur Abfrage der Ausschreibungen zur Rückkehr im SIS sowie für die Kontrolle und Freigabe solcher Ausschreibungen im SIS;
 
-- i<sup>bis</sup>.[^7-21] die kantonalen und kommunalen Behörden: zur Prüfung von Einbürgerungsgesuchen;
-- j.[^7-22] die Strassenverkehrsämter: zur Überprüfung, ob das ihnen vorgeführte Fahrzeug, das zugehörige Dokument oder Nummernschild gestohlen oder sonst abhanden gekommen ist oder ob es zur Beweissicherung in Strafverfahren gesucht wird;
-- k.[^7-23] die Schifffahrtsämter: zur Überprüfung, ob das ihnen vorgezeigte Wasserfahrzeug oder der dazugehörige Motor gestohlen oder sonst abhanden gekommen ist oder zur Beweissicherung in Strafverfahren gesucht wird;
-- l.[^7-24] die kantonalen Waffenbüros: zur Überprüfung,
+- i<sup>bis</sup>.[^7-23] die kantonalen und kommunalen Behörden: zur Prüfung von Einbürgerungsgesuchen;
+- j.[^7-24] die Strassenverkehrsämter: zur Überprüfung, ob das ihnen vorgeführte Fahrzeug, das zugehörige Dokument oder Nummernschild gestohlen oder sonst abhanden gekommen ist oder ob es zur Beweissicherung in Strafverfahren gesucht wird;
+- k.[^7-25] die Schifffahrtsämter: zur Überprüfung, ob das ihnen vorgezeigte Wasserfahrzeug oder der dazugehörige Motor gestohlen oder sonst abhanden gekommen ist oder zur Beweissicherung in Strafverfahren gesucht wird;
+- l.[^7-26] die kantonalen Waffenbüros: zur Überprüfung,
   - 1\. ob die Person, die eine Bewilligung beantragt, zwecks Auslieferung oder zum Zweck verdeckter Kontrollen, Ermittlungsanfragen oder gezielter Kontrollen gesucht wird, und
   - 2\. ob die betreffende Feuerwaffe zur Sicherstellung oder Beweissicherung in Strafverfahren gesucht wird.
 
@@ -287,24 +293,26 @@ Die folgenden Behörden haben zur Erfüllung ihrer Aufgaben nach Artikel 16 Absa
 [^7-4]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-5]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-6]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-7]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^7-8]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
-[^7-9]: Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^7-11]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
-[^7-12]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-13]: Eingefügt durch Anhang 3 Ziff. 8 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
-[^7-14]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-15]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-16]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
-[^7-17]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^7-18]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-19]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-20]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-7]: Eingefügt durch Ziff. I der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 519](https://fedlex.data.admin.ch/eli/oc/2026/519)).
+[^7-8]: [SR 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^7-9]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^7-10]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
+[^7-11]: Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^7-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-13]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
+[^7-14]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-15]: Eingefügt durch Anhang 3 Ziff. 8 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^7-16]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-17]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-18]: Fassung gemäss Ziff. I der V vom 26. Aug. 2026, in Kraft seit 1. Okt. 2026 ([AS 2026 444](https://fedlex.data.admin.ch/eli/oc/2026/444)).
+[^7-19]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^7-20]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-21]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-22]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 [^7-23]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
-[^7-24]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-24]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-25]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
+[^7-26]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 651](https://fedlex.data.admin.ch/eli/oc/2022/651)).
 
 ## 3*a*. Kapitel: zuständige Behörde für den Abschluss völkerrechtlicher Verträge
 
@@ -1761,93 +1769,97 @@ Anhang 3[^t-4]
 
 ## 1. Zugriffs- und Bearbeitungsrechte in Bezug auf die im SIS gespeicherten Daten
 
-[^t-4]: Fassung gemäss Anhang 3 Ziff. 8 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem, in Kraft seit 1. Okt. 2026 ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^t-4]: Fassung gemäss Anhang 3 Ziff. 8 der V vom 26. Aug. 2026 über das europäische und das nationale Reiseinformations- und -genehmigungssystem ([AS 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)). Bereinigt gemäss Ziff. II der V vom 18. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 519](https://fedlex.data.admin.ch/eli/oc/2026/519)).
 
 Zugriffsstufen
 
-- A = Abfragen
-- B = Bearbeiten
-- leer = kein Zugriff
+A = Abfragen
+
+B = Bearbeiten
+
+leer = kein Zugriff
 
 Abkürzungen für Behörden
 
-- fedpol I Im Bundesamt für Polizei: die Abteilung Recht
-- fedpol II Im Bundesamt für Polizei: die Dienststellen, die für den Interpol-Schriftverkehr zuständigen sind, sowie die Einsatz- und Alarmzentrale
-- fedpol III Im Bundesamt für Polizei: das SIRENE-Büro
-- fedpol IV Im Bundesamt für Polizei: die für die Bearbeitung von biometrischen erkennungsdienstlichen Daten zuständigen Dienststellen
-- fedpol V Im Bundesamt für Polizei: die Bundeskriminalpolizei
-- fedpol VI Im Bundesamt für Polizei: der Bereich Ausweise und der Bereich Staatliche Identitätsstelle
-- fedpol VII Im Bundesamt für Polizei: die für das RIPOL zuständigen Dienststellen
-- fedpol VIII Im Bundesamt für Polizei: die Meldestelle Geldwäscherei (\* Abfrage nur via SwissPol-Index)
-- fedpol IX Im Bundesamt für Polizei: die Zentralstelle Waffen
-- fedpol X Im Bundesamt für Polizei: die für den internationalen polizeilichen Informationsaustausch bei Sportveranstaltungen zuständige Stelle
-- NDB Nachrichtendienst des Bundes
-- BA Bundesanwaltschaft
-- BJ I Im Bundesamt für Justiz: der Direktionsbereich Internationale Rechtshilfe
-- BJ II Im Bundesamt für Justiz: die Zentralbehörde zur Behandlung internationaler Kindesentführungen
-- SEM I Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 1
-- SEM II Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 2
-- SEM III Im Staatssekretariat für Migration: die Direktionsbereiche Zuwanderung und Integration sowie Asyl für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f<sup>bis</sup> sowie der Direktionsbereich Internationales für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f<sup>ter</sup>
-- SEM IV Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 3
-- SEM V Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 4
-- SEM VI Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 5
-- GWK Grenzwachtkorps
-- BAZG I Im Bundesamt für Zoll und Grenzsicherheit: Hauptabteilung Zollfahndung
-- BAZG II Im Bundesamt für Zoll und Grenzsicherheit: die Zollstellen
-- BAZG III Innerhalb der Zollstellen: Zollinspektorat Schweizer Flughäfen (BE, BS, ZH)
-- BAZL Bundesamt für Zivilluftfahrt
-- SECO Im Staatssekretariat für Wirtschaft: Ressort Rüstungskontrolle und Rüstungskontrollpolitik für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe h<sup>bis</sup>
-- KAPO Strafverfolgungs-, Gerichts- und Strafvollstreckungsbehörden der Kantone
-- WAFF Kantonale Waffenbüros für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe l
-- FREPO Fremdenpolizei, Migrationsamt, regionale und kommunale Ausländerbehörden für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe i Ziffern 1 und 2
-- NAT Die kantonalen und kommunalen Behörden zur Prüfung von Einbürgerungsgesuchen
-- SVSA Strassenverkehrs- und Schifffahrtsämter für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe k
-- OAS Schweizerische Vertretungen im Ausland
+<table>
+<tr><td>fedpol I</td><td>Im Bundesamt für Polizei: die Abteilung Recht</td></tr>
+<tr><td>fedpol II</td><td>Im Bundesamt für Polizei: die Dienststellen, die für den Interpol-Schriftverkehr zuständig sind, sowie die Einsatz- und Alarmzentral</td></tr>
+<tr><td>fedpol III</td><td>Im Bundesamt für Polizei: SIRENE CH</td></tr>
+<tr><td>fedpol IV</td><td>Im Bundesamt für Polizei: die für die Bearbeitung von biometrischen erkennungsdienstlichen Daten zuständigen Dienststellen</td></tr>
+<tr><td>fedpol V</td><td>Im Bundesamt für Polizei: die Bundeskriminalpolizei</td></tr>
+<tr><td>fedpol VI</td><td>Im Bundesamt für Polizei: der Bereich Ausweise</td></tr>
+<tr><td>fedpol VII</td><td>Im Bundesamt für Polizei: die für das RIPOL zuständigen Dienststellen</td></tr>
+<tr><td>fedpol VIII</td><td>Im Bundesamt für Polizei: die Meldestelle Geldwäscherei (\*Abfrage nur via SwissPol‑Index)</td></tr>
+<tr><td>fedpol IX</td><td>Im Bundesamt für Polizei: die Zentralstelle Waffen</td></tr>
+<tr><td>fedpol X</td><td>Im Bundesamt für Polizei: die für den internationalen polizeilichen Informationsaustausch bei Sportveranstaltungen zuständige Stelle</td></tr>
+<tr><td>fedpol XI</td><td>Im Bundesamt für Polizei: die nationale Stelle für die Bearbeitung von Flugpassagierdaten (Passenger Information Unit, PIU)</td></tr>
+<tr><td>NDB</td><td>Nachrichtendienst des Bundes</td></tr>
+<tr><td>BA</td><td>Bundesanwaltschaft</td></tr>
+<tr><td>BJ I</td><td>Im Bundesamt für Justiz: der Direktionsbereich Internationale Rechtshilfe</td></tr>
+<tr><td>BJ II</td><td>Im Bundesamt für Justiz: die Zentralbehörde zur Behandlung internationaler Kindesentführungen</td></tr>
+<tr><td>SEM I</td><td>Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 1</td></tr>
+<tr><td>SEM II</td><td>Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 2</td></tr>
+<tr><td>SEM III</td><td>Im Staatssekretariat für Migration: die Direktionsbereiche Zuwanderung und Integration sowie Asyl für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f<sup>bis</sup>, sowie der Direktionsbereich Internationales für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f<sup>ter</sup></td></tr>
+<tr><td>SEM IV</td><td>SEM IV Im Staatssekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 3</td></tr>
+<tr><td>SEM V</td><td>Im Staatsekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 4</td></tr>
+<tr><td>GWK</td><td>Grenzwachtkorps</td></tr>
+<tr><td>BAZG I</td><td>Im Bundesamt für Zoll und Grenzsicherheit: Hauptabteilung Zollfahndung</td></tr>
+<tr><td>BAZG II</td><td>Im Bundesamt für Zoll und Grenzsicherheit: die Zollstellen</td></tr>
+<tr><td>BAZG III</td><td>Innerhalb der Zollstellen: Zollinspektorat Schweizer Flughäfen (BE, BS, ZH)</td></tr>
+<tr><td>BAZL</td><td>Bundesamt für Zivilluftfahrt</td></tr>
+<tr><td>SECO</td><td>Im Staatssekretariat für Wirtschaft: Ressort Rüstungskontrolle und Rüstungskontrollpolitik für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe h<sup>bis</sup></td></tr>
+<tr><td>KAPO</td><td>Strafverfolgungs-, Gerichts- und Strafvollstreckungsbehörden der Kantone</td></tr>
+<tr><td>WAFF</td><td>Kantonale Waffenbüros für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe l</td></tr>
+<tr><td>FREPO</td><td>Fremdenpolizei, Migrationsamt, regionale und kommunale Ausländerbehörden für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe i Ziffer 1 und 2</td></tr>
+<tr><td>NAT</td><td>Die kantonalen und kommunalen Behörden zur Prüfung von Einbürgerungsgesuchen</td></tr>
+<tr><td>SVSA</td><td>Strassenverkehrs- und Schifffahrtsämter für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe k</td></tr>
+<tr><td>OAS</td><td>Schweizerische Vertretungen im Ausland</td></tr>
+</table>
 
 <table>
 <tr><th>Datenfeldnamen</th><th colspan="26">Bund</th><th colspan="5">Kantone</th><th>Ausland</th></tr>
-<tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>fedpol IV</th><th>fedpol V</th><th>fedpol VI</th><th>fedpol VII</th><th>fedpol VIII\*</th><th>fedpol IX</th><th>fedpol X</th><th>NDB</th><th>BA</th><th>BJ I</th><th>BJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>SEM IV</th><th>SEM V</th><th>SEM VI</th><th>GWK</th><th>BAZG I</th><th>BAZG II</th><th>BAZG III</th><th>BAZL</th><th>SECO</th><th>KAPO</th><th>WAFF</th><th>FREPO</th><th>NAT</th><th>SVSA</th><th>OAS</th></tr>
-<tr><td colspan="33">**1.** **Personenausschreibungen**</td></tr>
-<tr><td>a. Drittstaatsangehörige zur Einreise- und Aufenthaltsverweigerung</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>b. Drittstaatsangehörige zur Rückkehr</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>c. Personen zur Festnahme zum Zweck der Auslieferung</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>d. Vermisste</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>e. Personen, die im Hinblick auf ihre Teilnahme an einem Strafverfahren gesucht werden</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>f. Personen zum Zweck der verdeckten Registrierung, der Ermittlungsanfrage oder der gezielten Kontrolle</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>g. Tatverdächtige Personen, deren Identität unbekannt ist</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>h. Schutzbedürftige Personen</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>i. Europol Informationsauschreibung</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td colspan="33">**2.** **Sachausschreibungen zur Sicherstellung und Beweissicherung**</td></tr>
-<tr><td>a. Motorfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>b. Wasserfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>c. Wasserfahrzeugmotoren</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>d. Luftfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>e. Flugzeugmotoren</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>f. Anhänger mit Leergewicht &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>g. Wohnwagen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>h. Industrielle Ausrüstung wie Arbeitsmaschinen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>i. Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>j. Feuerwaffen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>k. Amtliche Blankodokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>l. Identitätsdokumente wie Pässe, Personalausweise, Führerausweise, Aufenthaltstitel und Reisedokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>m. Fahrzeugpapiere</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>n. Motorfahrzeugkennzeichen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>o. Banknoten</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>p. Gegenstände der Informationstechnik</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>q. Identifizierbare Teile von Motorfahrzeugen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>r. Identifizierbare Teile von industrieller Ausrüstung</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>s. Andere hochwertige identifizierbare Gegenstände</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td colspan="33">**3.** **Sachausschreibungen zum Zweck der verdeckten Registrierung, der Ermittlungsanfrage oder der gezielten Kontrolle**</td></tr>
-<tr><td>a. Motorfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>b. Wasserfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>c. Luftfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>d. Anhänger mit Leergewicht &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>e. Wohnwagen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>f. Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>g. Feuerwaffen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>h. Amtliche Blankodokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>i. Identitätsdokumente wie Pässe, Personalausweise, Führerausweise, Aufenthaltstitel und Reisedokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>j. Bargeldlose Zahlungsmittel</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th>fedpol I</th><th>fedpol II</th><th>fedpol III</th><th>fedpol IV</th><th>fedpol V</th><th>fedpol VI</th><th>fedpol VII</th><th>fedpol VIII\*</th><th>fedpol IX</th><th>fedpol X</th><th>fedpol XI</th><th>NDB</th><th>BA</th><th>BJ I</th><th>BJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>SEM IV</th><th>SEM V</th><th>GWK</th><th>BAZG I</th><th>BAZG II</th><th>BAZG III</th><th>BAZL</th><th>SECO</th><th>KAPO</th><th>WAFF</th><th>FREPO</th><th>NAT</th><th>SVSA</th><th>OAS</th></tr>
+<tr><td colspan="33">1. Personenausschreibungen</td></tr>
+<tr><td>a. Drittstaatsangehörige zur Einreise‑ und Aufenthaltsverweigerung</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>b. Drittstaatsangehörige zur Rückkehr</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>c. Personen zur Festnahme zum Zweck der Auslieferung</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>d. Vermisste</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>e. Personen, die im Hinblick auf ihre Teilnahme an einem Strafverfahren gesucht werden</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>f. Personen zum Zweck der verdeckten Registrierung, der Ermittlungsanfrage oder der gezielten Kontrolle</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>g. Tatverdächtige Personen, deren Identität unbekannt ist</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>h. Schutzbedürftige Personen</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>i. Informationsausschreibung von Europol</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td colspan="33">2. Sachausschreibungen zur Sicherstellung und Beweissicherung</td></tr>
+<tr><td>a. Motorfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>b. Wasserfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>c. Wasserfahrzeugmotoren</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>d. Luftfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>e. Flugzeugmotoren</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>f. Anhänger mit Leergewicht &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>g. Wohnwagen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>h. industrielle Ausrüstung wie Arbeitsmaschinen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>i. Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>j. Feuerwaffen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>k. Amtliche Blankodokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>l. Identitätsdokumente wie Pässe, Personalausweise, Führerausweise, Aufenthaltstitel und Reisedokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>m. Fahrzeugpapiere</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>n. Motorfahrzeug-Kennzeichen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>o. Banknoten</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>p. Gegenstände der Informationstechnik</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>q. identifizierbare Teile von Motorfahrzeugen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>r. identifizierbare Teile von industrieller Ausrüstung</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td>s. andere hochwertige identifizierbare Gegenstände</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td colspan="33">3. Sachausschreibungen zum Zweck der verdeckten Registrierung, der Ermittlungsanfrage oder der gezielten Kontrolle</td></tr>
+<tr><td>a. Motorfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>b. Wasserfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>c. Luftfahrzeuge</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>d. Anhänger mit Leergewicht &gt; 750 kg</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>e. Wohnwagen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>f. Container</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>g. Feuerwaffen</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>h. Amtliche Blankodokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>i. Identitätsdokumente wie Pässe, Personalausweise, Führerausweise, Aufenthaltstitel und Reisedokumente</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>j. bargeldlose Zahlungsmittel</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ## 2. Im SIS gespeicherte Daten
