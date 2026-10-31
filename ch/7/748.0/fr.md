@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2026-01-01
+version: 2026-11-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/fr"
 
 (LA)[^t-1] [^t-2]
 
-du 21 décembre 1948 (État le 1<sup>er</sup> janvier 2026)
+du 21 décembre 1948 (État le 1<sup>er</sup> novembre 2026)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -828,9 +828,14 @@ L’autorisation est délivrée aux conditions suivantes:
 
 <sup>4</sup> L’autorisation peut être modifiée ou annulée.[^29-3]
 
+<sup>5</sup> L’OFAC peut, à la demande de l’autorité compétente pour les sanctions, retirer l’autorisation d’exploitation d’une entreprise de transport aérien qui ne s’est pas acquittée à temps du paiement d’un montant dû à la suite d’une sanction entrée en force visée à l’art. 31 de la loi du 21 mars 2025 sur les données relatives aux passagers aériens[^29-4] ou aux art. 122*a* et 122*b* de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^29-5].[^29-6]
+
 [^29-1]: Nouvelle teneur selon le ch. I de la LF du 26 juin 1998, en vigueur depuis le 15 nov. 1998 ([RO 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 1058](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 [^29-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^29-3]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^29-4]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^29-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^29-6]: Introduit par l’annexe 3 ch. 7 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
 
 ### b. Concession de routes
 
@@ -2582,7 +2587,7 @@ La Confédération peut participer à des entreprises exploitant des aérodromes
 
 [^102-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 287](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
-### II*a.* …
+### IIa. …
 
 #### Art. 102a
 

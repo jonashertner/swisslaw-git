@@ -4,11 +4,11 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2026-01-01
+version: 2026-11-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20261101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/it"
 
 (LNA[^t-1])
 
-del 21 dicembre 1948 (Stato 1° gennaio 2026)
+del 21 dicembre 1948 (Stato 1° novembre 2026) (Stato 1° novembre 2026)
 
 [^t-1]: Abbreviazione introdotta dalla cifra I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -824,9 +824,14 @@ L’autorizzazione viene rilasciata se:
 
 <sup>4</sup> L’autorizzazione può essere modificata o revocata.[^29-3]
 
+<sup>5</sup> Su domanda dell’autorità competente per la sanzione, l’UFAC può revocare l’autorizzazione di esercizio alle imprese di trasporto aereo che non hanno corrisposto tempestivamente l’importo dovuto in seguito a una sanzione passata in giudicato inflitta sulla base dell’articolo 31 della legge del 21 marzo 2025[^29-4] sui dati dei passeggeri aerei o degli articoli 122*a* e 122*b* della legge federale del 16 dicembre 2005[^29-5] sugli stranieri e la loro integrazione.[^29-6]
+
 [^29-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 [^29-2]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^29-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^29-4]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^29-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^29-6]: Introdotto dall’all. 3 n. 7 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
 
 ### b. Concessione di rotte
 
@@ -962,7 +967,7 @@ Il regolamento d’esercizio stabilisce le modalità concrete dell’esercizio c
 
 <sup>4</sup> Se il gerente adotta o modifica il regolamento d’esercizio in relazione con la costruzione o la modifica di impianti aeroportuali, l’UFAC approva il regolamento d’esercizio al più presto al momento dell’approvazione dei piani.
 
-[^36c-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ( [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^36c-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### d. Modifiche rilevanti del regolamento d’esercizio
 
@@ -1742,7 +1747,7 @@ Sono inoltre a suo carico:
 
 <sup>2</sup> La Confederazione può versare un’indennità speciale, se l’adattamento di un nuovo impianto indispensabile provoca spese eccessivamente elevate.
 
-[^47-1]: Nuovo testo giusta la cifra I 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, in vigore dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
+[^47-1]: Nuovo testo giusta la cifra I n. 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, in vigore dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
 
 ### 4. Confederazione
 
@@ -1848,9 +1853,9 @@ Un aeromobile può essere iscritto nella matricola svizzera soltanto se:
 [^52-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^52-2]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1994 733](https://fedlex.data.admin.ch/eli/oc/1994/733_733_733); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
-### 2. e 3 …
+### 2. e 3. …
 
-#### Art. 53 e 54
+#### Art. 53–54
 
 [^5354-1]
 
@@ -2179,7 +2184,7 @@ Sono esclusi dal sequestro conservativo:
 
 ### III.a V. ….
 
-#### Art. 82 a 84
+#### Art. 82–84
 
 [^8284-1]
 
@@ -2586,7 +2591,7 @@ La Confederazione può partecipare a imprese esercitanti aerodromi e a imprese d
 
 [^102-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
-### II*a*. ...
+### II*a*. …
 
 #### Art. 102a
 
@@ -2663,7 +2668,7 @@ Possono essere promossi in particolare provvedimenti e progetti in Svizzera e al
 
 [^103b-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
-#### Art. 103c e 103d
+#### Art. 103c–103d
 
 [^103c103d-1]
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2026-01-01
+version: 2026-11-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20261101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/de"
 
 (Luftfahrtgesetz, LFG)[^t-1]
 
-vom 21. Dezember 1948 (Stand am 1. Januar 2026)
+vom 21. Dezember 1948 (Stand am 1. November 2026)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -818,9 +818,14 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>4</sup> Die Bewilligung kann geändert oder aufgehoben werden.[^29-3]
 
+<sup>5</sup> Das BAZL kann einem Luftverkehrsunternehmen, das den aufgrund einer rechtskräftigen Sanktion nach Artikel 31 des Flugpassagierdatengesetzes vom 21. März 2025[^29-4] oder nach den Artikeln 122*a* und 122*b* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^29-5] geschuldeten Betrag nicht fristgerecht bezahlt, auf Antrag der für die Sanktionsmassnahme zuständigen Behörde die Betriebsbewilligung entziehen.[^29-6]
+
 [^29-1]: Fassung gemäss Ziff. I des BG vom 26. Juni 1998, in Kraft seit 15. Nov. 1998 ([AS 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [BBl 1997 III 1181](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 [^29-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^29-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^29-4]: [SR 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^29-5]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^29-6]: Eingefügt durch Anhang 3 Ziff. 7 des Flugpassagierdatengesetzes vom 21. März 2025, in Kraft seit 1. Nov. 2026 ( [[AS 2025 739](https://www.fedlex.admin.ch/eli/oc/2025/739/de)](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [BBl 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
 
 ### b. Streckenkonzession
 
