@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2026-08-01
+version: 2026-11-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260801/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20261101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. August 2026)
+vom 6. Dezember 2001 (Stand am 1. November 2026)
 
 Das Eidgenössische Finanzdepartement (EFD),[^ingress-1]
 
@@ -174,9 +174,10 @@ Die Mitarbeitenden und die direkten Vorgesetzten bestätigen über eine digitale
 
 <sup>1</sup> Lohnentwicklungen, die gestützt auf die Personalbeurteilung erfolgen, werden auf den 1. Januar des folgenden Jahres wirksam.
 
-<sup>2</sup> Beginnt das Arbeitsverhältnis während des Jahres, so wird die Lohnentwicklung für das Folgejahr anteilsmässig berechnet. Bestand im Jahr, auf das sich die Personalbeurteilung bezieht, ein Arbeitsverhältnis bei einem anderen Arbeitgeber nach Artikel 2 Absatz 1 Buchstaben f und g BPG oder in einer anderen Verwaltungseinheit nach Artikel 1 Absatz 1 BPV, so wird die Dauer dieses Arbeitsverhältnisses angerechnet.
+<sup>2</sup> Beginnt das Arbeitsverhältnis während des Jahres, so wird die Lohnentwicklung für das Folgejahr anteilsmässig berechnet. Von der anteilsmässigen Berechnung kann abgewichen werden, wenn diese Lohnentwicklung bei der Festsetzung des Anfangslohns berücksichtigt wird.[^9-2]
 
 [^9-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^9-2]: Fassung gemäss Ziff. I der V des EFD vom 8. Sept. 2026, in Kraft seit 1. Nov. 2026 ([AS 2026 463](https://fedlex.data.admin.ch/eli/oc/2026/463)).
 
 #### Art. 9a
 
@@ -381,7 +382,7 @@ Der Zuschlag anstelle des Ferienanspruchs beträgt:
 
 <sup>1</sup> Grundlage für die Bewertung einer Funktion ist die Stellenbeschreibung (Art. 2).[^20-1]
 
-- [tab] <sup>2</sup> Die Bewertung erfolgt gestützt auf die Anforderungen der Funktion nach Artikel 52 Absatz 3 BPV und den Vergleich mit anderen Stellen.
+<sup>2</sup> Die Bewertung erfolgt gestützt auf die Anforderungen der Funktion nach Artikel 52 Absatz 3 BPV und den Vergleich mit anderen Stellen.
 
 <sup>3</sup> …[^20-2]
 

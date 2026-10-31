@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2026-08-01
+version: 2026-11-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260801/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° agosto 2026)
+del 6 dicembre 2001 (Stato 1° novembre 2026)
 
 Il Dipartimento federale delle finanze (DFF),[^ingress-1]
 
@@ -40,7 +40,7 @@ ordina:
 
 <sup>2</sup> La competenza per decisioni del datore di lavoro nel quadro della presente ordinanza si fonda sull’articolo 2 OPers.
 
-<sup>3</sup> ...[^1-2]
+<sup>3</sup> …[^1-2]
 
 <sup>4</sup> Nella presente ordinanza il termine «dipartimenti» designa i dipartimenti e la Cancelleria federale.
 
@@ -152,7 +152,7 @@ I collaboratori e i loro diretti superiori attestano, attraverso una piattaforma
 
 [^7-1]: Abrogato dalla cifra I dell’O del DFF dell’11 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Capitolo 3: ...
+## Capitolo 3: …
 
 #### Art. 8
 
@@ -184,13 +184,14 @@ I collaboratori e i loro diretti superiori attestano, attraverso una piattaforma
 
 <sup>1</sup> Se lo stipendio dell’impiegato è inferiore al valore della curva di evoluzione dello stipendio, la proposta è calcolata secondo l’allegato 1 fino a quando lo stipendio raggiunge il valore della curva di evoluzione dello stipendio.
 
-<sup>2</sup> Se lo stipendio dell’impiegato è pari al valore della curva di evoluzione dello stipendio, la proposta corrisponde all’aumento del valore della curva di evoluzione secondo l’articolo 39 capoverso 1 lettere a–d OPers.
+<sup>2</sup> Se il rapporto di lavoro ha inizio nel corso dell’anno, l’evoluzione dello stipendio per l’anno successivo è calcolata in misura proporzionale. È possibile derogare al calcolo proporzionale quando tale evoluzione dello stipendio viene presa in considerazione per la fissazione dello stipendio iniziale.[^9a-2]
 
 <sup>3</sup> Se lo stipendio dell’impiegato è superiore al valore della curva di evoluzione dello stipendio, il superiore riceve la proposta di non richiedere alcuna evoluzione dello stipendio.
 
 <sup>4</sup> Gli impiegati sono informati sul numero di anni di esperienza su cui si basa la proposta di evoluzione del loro stipendio.
 
 [^9a-1]: Introdotto dalla cifra I dell’O del DFF del 24 giu. 2026, in vigore dal 1° ago. 2026 ([RU 2026 377](https://fedlex.data.admin.ch/eli/oc/2026/377)).
+[^9a-2]: Nuovo testo giusta la cifra I dell’O del DFF dell’8 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 463](https://fedlex.data.admin.ch/eli/oc/2026/463)).
 
 #### Art. 9b
 
@@ -382,9 +383,9 @@ Il supplemento sostitutivo del diritto alle vacanze ammonta a:
 
 <sup>2</sup> La valutazione avviene sulla base delle esigenze della funzione ai sensi dell’articolo 52 capoverso 3 OPers e del confronto con gli altri posti.
 
-<sup>3</sup> ...[^20-2]
+<sup>3</sup> …[^20-2]
 
-<sup>4</sup> ...[^20-3]
+<sup>4</sup> …[^20-3]
 
 [^20-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 [^20-2]: Abrogato dalla cifra I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
@@ -600,7 +601,7 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>4</sup> Il saldo attivo decade dopo cinque anni dal suo riporto nel conto sabbatico. In casi giustificati il termine può essere prolungato.
 
-<sup>5</sup> ... [^34-5]
+<sup>5</sup> … [^34-5]
 
 [^34-1]: Nuovo testo giusta la cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^34-2]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
@@ -729,7 +730,7 @@ Un congedo pagato può essere concesso in particolare per le seguenti attività:
 Un congedo pagato viene concesso all’impiegato per i seguenti eventi:
 
 - a.[^40-2] matrimonio, compreso il matrimonio civile: 1 giorno lavorativo;
-- b.[^40-3] ...
+- b.[^40-3] …
 - c.[^40-4] assistenza a un familiare o al partner in caso di malattia o infortunio, se l’assistenza da parte dell’impiegato è necessaria: il tempo necessario fino a un massimo di tre giorni lavorativi per ogni evento;
 - d. decesso del coniuge, del convivente, di un genitore o di un figlio: tre giorni lavorativi;
 - e. decesso di un altro parente o di un terzo per consentire la partecipazione al rito funebre: il tempo necessario fino a un massimo di 1 giorno lavorativo;
@@ -819,7 +820,7 @@ Durante il primo anno di vita del bambino, per l’allattamento e il tiraggio de
 
 [^42-1]
 
-<sup>1</sup> ... [^42-2]
+<sup>1</sup> … [^42-2]
 
 <sup>2</sup> L’utilizzo di veicoli a motore privati per i viaggi di servizio può essere autorizzato se ne risulta un notevole risparmio di tempo o denaro e se non sono disponibili veicoli della Confederazione adeguati.[^42-3]
 
@@ -1002,7 +1003,7 @@ I Dipartimenti disciplinano nel proprio settore i rimborsi delle spese:
 
 I dipartimenti possono:
 
-- a.[^51a-4] ...
+- a.[^51a-4] …
 - b. finanziare posti in strutture di custodia esterne e riservarli per i bambini dei loro impiegati.
 
 [^51a-1]: Introdotto dalla cifra I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
@@ -1018,7 +1019,7 @@ I dipartimenti possono:
 
 <sup>1</sup> L’importo del rimborso dei costi per la custodia di bambini complementare alla famiglia è calcolato in base all’allegato 2. Il rimborso non può superare i costi effettivi.[^51b-2]
 
-<sup>2</sup> e <sup>3</sup> ...[^51b-3]
+<sup>2</sup> e <sup>3</sup> …[^51b-3]
 
 <sup>4</sup> Il rimborso proporzionale per figlio corrisponde alla somma dei tassi di occupazione delle persone che vivono in un’unione domestica ai sensi dell’articolo 75*b* lettera a OPers diminuita del 100 per cento.[^51b-4]
 
@@ -1057,7 +1058,7 @@ I dipartimenti possono:
 
 Se al momento del versamento del premio di fedeltà il tasso di occupazione dell’impiegato è inferiore al suo tasso di occupazione medio degli ultimi cinque anni, possono essere concessi al massimo i seguenti giorni di congedo pagato:
 
-- a.[^52-3] ...
+- a.[^52-3] …
 - b. 11 giorni dopo dieci o quindici anni d’impiego;
 - c. 22 giorni dopo ulteriori cinque anni d’impiego.[^52-4]
 

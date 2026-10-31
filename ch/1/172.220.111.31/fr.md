@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2026-08-01
+version: 2026-11-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260801/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (État le 1<sup>er</sup> août 2026)
+du 6 décembre 2001 (État le 1<sup>er</sup> novembre 2026)
 
 Le Département fédéral des finances (DFF),[^ingress-1]
 
@@ -172,9 +172,10 @@ Les collaborateurs et leurs supérieurs directs confirment sur une plateforme nu
 
 <sup>1</sup> Les évolutions du salaire fondées sur l’évaluation personnelle prennent effet à partir du 1<sup>er</sup> janvier suivant.
 
-<sup>2</sup> Lorsque les rapports de travail ont débuté dans l’année, l’évolution du salaire pour l’année suivante est calculée au prorata. Lorsque des rapports de travail sont exercés pendant l’année d’évaluation auprès des employeurs visés à l’art. 2, al. 1, let. f et g, LPers ou au sein d’une unité administrative visée à l’art. 1, al. 1, OPers, leur durée est prise en compte.
+<sup>2</sup> Lorsque les rapports de travail ont débuté dans l’année, l’évolution du salaire pour l’année suivante est calculée au prorata. Il est possible de déroger à ce principe si l’évolution du salaire est prise en compte lors de la fixation du salaire de départ.[^9-2]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 8 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 463](https://fedlex.data.admin.ch/eli/oc/2026/463)).
 
 #### Art. 9a
 
@@ -311,7 +312,7 @@ L’indemnité pour le service de permanence s’élève aux montants suivants:
 
 [^14-1]
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 11 déc. 2009 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)). Abrogé par le ch. I de l’O du DFF du 15 oct. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
+[^14-1]: Abrogé par le ch. I de l’O du DFF du 15 oct. 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
 
 #### Art. 15
 
@@ -909,10 +910,12 @@ Lorsque l’autorisation d’utiliser un véhicule privé pour des voyages de se
 
 <sup>1</sup> Les voyages en avion ont en principe lieu en classe «Economy» la meilleur marché d’une compagnie aérienne membre de l’IATA.
 
-b. lorsque des motifs l’exigent, comme la conciliation entre vie familiale et vie professionnelle, des atteintes à la santé du voyageur ainsi que des exigences du service.
+<sup>2</sup>
 
-- [tab] <sup>2</sup> Dans les cas justifiés, l’autorité compétente peut autoriser un voyage en classe «Business» à la place de la classe «Economy» (classe «Business» la meilleur marché d’une compagnie aérienne membre de l’IATA). Le cas est justifié notamment:
+Dans les cas justifiés, l’autorité compétente peut autoriser un voyage en classe «Business» à la place de la classe «Economy» (classe «Business» la meilleur marché d’une compagnie aérienne membre de l’IATA). Le cas est justifié notamment:
+
 - a. lorsque la durée du voyage est d’au moins 9 heures pour les vols directs (du décollage à l’atterrissage à la destination finale) ou d’au moins 11 heures pour les vols avec une ou plusieurs escales, y compris un temps de correspondance d’au plus 2 heures, ou
+- b. lorsque des motifs l’exigent, comme la conciliation entre vie familiale et vie professionnelle, des atteintes à la santé du voyageur ainsi que des exigences du service.
 
 <sup>3</sup> Les al. 1 et 2, let. a, ainsi que l’art. 42, al. 4, ne sont pas applicables aux personnes autorisées conformément à l’art. 2, al. 2, let. a et b, de l’ordonnance du 24 juin 2009 concernant le service de transport aérien de la Confédération (O-STAC)[^47-2], dans la mesure où elles peuvent faire appel à des prestations selon l’O-STAC afin d’éviter des vols à vide.
 
