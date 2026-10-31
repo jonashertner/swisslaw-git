@@ -4,13 +4,12 @@ number: "841.111"
 title: Verordnung über die Ausgleichskasse des Kantons Bern und ihre Zweigstellen
 short: AKBV
 language: de
-version: 2012-01-01
-valid_until: 2026-10-31
-version_adopted: 2011-10-26
+version: 2026-11-01
+version_adopted: 2026-09-09
 adopted: 1998-11-04
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/841.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/241/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/241/pdf_file"
 
 (AKBV)
 
-vom 04.11.1998 (Stand 01.01.2012)
+vom 04.11.1998 (Stand 01.11.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -94,9 +93,9 @@ beschliesst:
 
 <sup>2</sup> Der Zugriff auf die Register-, Veranlagungs- und Leitdaten zur Festsetzung der Leistungen nach Absatz 1 Buchstabe b und c darf nur erfolgen, soweit die betroffene steuerpflichtige Person die kantonale Steuerverwaltung vom Steuergeheimnis schriftlich entbunden hat.
 
-<sup>3</sup> Die kantonale Steuerverwaltung kann Kontrollen bezüglich der Einhaltung von Absatz 2 durchführen. Sie protokolliert zu diesem Zweck die Datenzugriffe im Sinne von Artikel 6 der Datenschutzverordnung vom 22. Oktober 2008 (DSV)[^6-1]. Zugriff auf die Protokolldaten haben die Kontrollorgane der kantonalen Steuerverwaltung.
+<sup>3</sup> Die kantonale Steuerverwaltung kann Kontrollen bezüglich der Einhaltung von Absatz 2 durchführen. Sie protokolliert zu diesem Zweck die Datenzugriffe im Sinne von Artikel 6 der Verordnung vom 9. September 2026 über die Informations- und Datensicherheit (IDSV)[^6-1]. Zugriff auf die Protokolldaten haben die Kontrollorgane der kantonalen Steuerverwaltung.
 
-[^6-1]: BSG 152.040.1
+[^6-1]: BSG 152.091
 
 #### Art. 7
 

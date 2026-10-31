@@ -4,13 +4,12 @@ number: "841.111"
 title: Ordonnance sur la Caisse de compensation du canton de Berne et ses agences
 short: OCCB
 language: fr
-version: 2012-01-01
-valid_until: 2026-10-31
-version_adopted: 2011-10-26
+version: 2026-11-01
+version_adopted: 2026-09-09
 adopted: 1998-11-04
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/841.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/241/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3493/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/241/pdf_file"
 
 (OCCB)
 
-du 04.11.1998 (état au 01.01.2012)
+du 04.11.1998 (état au 01.11.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -93,9 +92,9 @@ arrête:
 
 <sup>2</sup> L’accès aux données du registre, aux données de la taxation fiscale et aux données pilotes informatisées en vue de déterminer les prestations mentionnées à l’alinéa 1, lettres b et c, ne peut avoir lieu que lorsque la personne contribuable a délié par écrit l’Intendance cantonale des impôts du secret fiscal.
 
-<sup>3</sup> L’Intendance cantonale des impôts peut effectuer des contrôles portant sur le respect des dispositions de l’alinéa 2. A cet effet, elle journalise les accès aux données conformément à l’article 6 de l’ordonnance du 22 octobre 2008 sur la protection des données (OPD)[^6-1]. Les organes de contrôle de l’Intendance des impôts ont accès aux données de la journalisation.
+<sup>3</sup> L’Intendance cantonale des impôts peut effectuer des contrôles portant sur le respect des dispositions de l’alinéa 2. À cet effet, elle journalise les accès aux données conformément à l’article 6 de l’ordonnance du 9 septembre 2026 sur la sécurité de l'information et des données (OSID)[^6-1]. Les organes de contrôle de l’Intendance des impôts ont accès aux données de la journalisation.
 
-[^6-1]: RSB 152.040.1
+[^6-1]: RSB 152.091
 
 #### Art. 7
 
