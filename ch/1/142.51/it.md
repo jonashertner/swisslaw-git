@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul sistema d'informazione per il sett
 short: LSISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: it
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20261001/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20261001-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20261001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20261001/it"
 
 (LSISA)
 
-del 20 giugno 2003 (Stato 1° ottobre 2026)
+del 20 giugno 2003 (Stato 1° novembre 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -151,7 +151,7 @@ Il sistema d’informazione contiene:[^4-1]
 - a.[^4-2] dati concernenti l’identità delle persone registrate;
 - a<sup>bis</sup>.[^4-3] immagine del viso, impronte digitali e firma (dati biometrici);
 - b.[^4-4] dati concernenti i compiti specifici della SEM di cui all’articolo 3 capoversi 2 e 3;
-- c.[^4-5] ...
+- c.[^4-5] …
 - d.[^4-6] un sottosistema con i fascicoli in forma elettronica delle procedure del settore degli stranieri e dell’asilo;
 - e.[^4-7] registrazioni sonore per perizie linguistiche nel settore dell’asilo;
 - f.[^4-8] l’annotazione «caso medico», in vista della ripartizione dei richiedenti l’asilo tra i Cantoni;
@@ -178,7 +178,7 @@ Il sistema d’informazione contiene:[^4-1]
 
 <sup>1</sup> La SEM è responsabile della sicurezza del sistema d’informazione e della legalità del trattamento dei dati personali.[^5-1]
 
-<sup>2</sup> ...[^5-2]
+<sup>2</sup> …[^5-2]
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^5-2]: Abrogato dalla cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, con effetto dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
@@ -280,7 +280,7 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 
 - a.[^9-2] autorità cantonali e comunali competenti in materia di stranieri, autorità cantonali e comunali di polizia, autorità cantonali di aiuto sociale e autorità cantonali preposte al mercato del lavoro e alle questioni in materia di cittadinanza, per l’adempimento dei loro compiti in materia di stranieri, nonché autorità cantonali e comunali di polizia, per l’identificazione di persone;
 - a<sup>bis</sup>.[^9-3] autorità competenti per l’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^9-4] o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^9-5] (CPM);
-- b.[^9-6] ...
+- b.[^9-6] …
 - c.[^9-7]
 
   autorità federali competenti in materia di sicurezza interna, esclusivamente per l’identificazione delle persone nell’ambito di:
@@ -317,20 +317,21 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 - m.[^9-19] servizio incaricato dell’allestimento dei documenti di viaggio;
 - n.[^9-20] autorità o servizi designati dai Cantoni, per la ricezione delle domande di rilascio di documenti di viaggio;
 - o.[^9-21] autorità o servizi designati dai Cantoni, per la registrazione dell’immagine del viso e delle impronte digitali in relazione al rilascio di documenti di viaggio;
-- p[^9-22]. Ufficio federale di polizia, per l’esame di misure di respingimento e di allontanamento ai sensi della LStrI;
-- q.[^9-23] Dipartimento federale delle finanze, per l’adempimento dei compiti di cui agli articoli 35–39 della legge del 26 settembre 2025[^9-24] sulla trasparenza delle persone giuridiche.
+- p.[^9-22] Ufficio federale di polizia, per l’esame di misure di respingimento e di allontanamento ai sensi della LStrI;
+- q.[^9-23] unità nazionale incaricata del trattamento dei dati dei passeggeri aerei, per la verifica dell’identità dei passeggeri aerei (art. 6 cpv. 3 lett. b della legge del 21 marzo 2025[^9-24] sui dati dei passeggeri aerei);
+- r.[^9-25] Dipartimento federale delle finanze, per l’adempimento dei compiti di cui agli articoli 35–39 della legge del 26 settembre 2025[^9-26] sulla trasparenza delle persone giuridiche.
 
 <sup>2</sup>
 
-La SEM può permettere alle seguenti autorità o servizi di accedere con procedura di richiamo ai dati del settore dell’asilo che ha trattato o ha fatto trattare nel sistema d’informazione:[^9-25]
+La SEM può permettere alle seguenti autorità o servizi di accedere con procedura di richiamo ai dati del settore dell’asilo che ha trattato o ha fatto trattare nel sistema d’informazione:[^9-27]
 
-- a.[^9-26] autorità cantonali e comunali competenti in materia di stranieri, autorità cantonali e comunali di polizia, autorità cantonali di aiuto sociale e autorità cantonali preposte al mercato del lavoro, per l’adempimento dei loro compiti in materia di asilo, nonché autorità cantonali e comunali di polizia, per l’identificazione di persone;
-- b.[^9-27] autorità competenti per l’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM;
-- c.[^9-28]
+- a.[^9-28] autorità cantonali e comunali competenti in materia di stranieri, autorità cantonali e comunali di polizia, autorità cantonali di aiuto sociale e autorità cantonali preposte al mercato del lavoro, per l’adempimento dei loro compiti in materia di asilo, nonché autorità cantonali e comunali di polizia, per l’identificazione di persone;
+- b.[^9-29] autorità competenti per l’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM;
+- c.[^9-30]
 
-  autorità federali competenti in materia di sicurezza interna:[^9-29]
+  autorità federali competenti in materia di sicurezza interna:[^9-31]
 
-  - 1\.[^9-30] esclusivamente per l’identificazione delle persone nell’ambito di scambi di informazioni di polizia, inchieste di polizia di sicurezza e di polizia giudiziaria, procedure d’estradizione, assistenza giudiziaria e amministrativa, perseguimento ed esecuzione penali in via sostitutiva, lotta al riciclaggio di denaro, al traffico di stupefacenti e alla criminalità organizzata, lotta all’uso abusivo di precursori di sostanze esplodenti, controllo di documenti d’identità, ricerche di persone scomparse, controllo delle registrazioni nel sistema di ricerca informatizzato di polizia di cui all’articolo 15 LSIP e valutazione dell’indegnità ai sensi dell’articolo 53 LAsi,
+  - 1\.[^9-32] esclusivamente per l’identificazione delle persone nell’ambito di scambi di informazioni di polizia, inchieste di polizia di sicurezza e di polizia giudiziaria, procedure d’estradizione, assistenza giudiziaria e amministrativa, perseguimento ed esecuzione penali in via sostitutiva, lotta al riciclaggio di denaro, al traffico di stupefacenti e alla criminalità organizzata, lotta all’uso abusivo di precursori di sostanze esplodenti, controllo di documenti d’identità, ricerche di persone scomparse, controllo delle registrazioni nel sistema di ricerca informatizzato di polizia di cui all’articolo 15 LSIP e valutazione dell’indegnità ai sensi dell’articolo 53 LAsi,
   - 2\. per l’adempimento dei compiti di cui all’articolo 99 LAsi;
 
 - d. autorità di ricorso della Confederazione, per l’istruzione dei ricorsi giusta la LAsi;
@@ -338,14 +339,14 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 - f. Controllo federale delle finanze, per la vigilanza finanziaria;
 - g. Centrale di compensazione, per l’esame delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS;
 - h. autorità fiscali cantonali, per i loro compiti in materia di riscossione dell’imposta alla fonte;
-- i.[^9-31] uffici dello stato civile e relative autorità di vigilanza: per l’identificazione delle persone in relazione con eventi di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica nonché per evitare l’elusione del diritto in materia di stranieri giusta gli articoli 97*a* capoverso 1 del Codice civile e 6 capoverso 2 della legge del 18 giugno 2004 sull’unione domestica registrata;
-- j.[^9-32] Servizio di protezione dei testimoni della Confederazione conformemente alla legge federale del 23 dicembre 2011 sulla protezione extraprocessuale dei testimoni, per adempiere i suoi compiti;
-- k.[^9-33] autorità competenti in materia di visti, per verificare se un richiedente il visto è o è stato oggetto di una procedura d’asilo;
-- l.[^9-34] Servizio delle attività informative della Confederazione, esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a LAIn, nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi dell’articolo 14 lettera d LCit, nonché della LStrI e della LAsi;
-- m.[^9-35] servizio incaricato dell’allestimento dei documenti di viaggio;
-- n.[^9-36] autorità o servizi designati dai Cantoni, per la ricezione delle domande di rilascio di documenti di viaggio;
-- o.[^9-37] autorità o servizi designati dai Cantoni, per la registrazione dell’immagine del viso e delle impronte digitali in relazione al rilascio di documenti di viaggio;
-- p.[^9-38] Dipartimento federale delle finanze, per l’adempimento dei compiti di cui agli articoli 35–39 della legge sulla trasparenza delle persone giuridiche.
+- i.[^9-33] uffici dello stato civile e relative autorità di vigilanza: per l’identificazione delle persone in relazione con eventi di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica nonché per evitare l’elusione del diritto in materia di stranieri giusta gli articoli 97*a* capoverso 1 del Codice civile e 6 capoverso 2 della legge del 18 giugno 2004 sull’unione domestica registrata;
+- j.[^9-34] Servizio di protezione dei testimoni della Confederazione conformemente alla legge federale del 23 dicembre 2011 sulla protezione extraprocessuale dei testimoni, per adempiere i suoi compiti;
+- k.[^9-35] autorità competenti in materia di visti, per verificare se un richiedente il visto è o è stato oggetto di una procedura d’asilo;
+- l.[^9-36] Servizio delle attività informative della Confederazione, esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a LAIn, nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi dell’articolo 14 lettera d LCit, nonché della LStrI e della LAsi;
+- m.[^9-37] servizio incaricato dell’allestimento dei documenti di viaggio;
+- n.[^9-38] autorità o servizi designati dai Cantoni, per la ricezione delle domande di rilascio di documenti di viaggio;
+- o.[^9-39] autorità o servizi designati dai Cantoni, per la registrazione dell’immagine del viso e delle impronte digitali in relazione al rilascio di documenti di viaggio;
+- p.[^9-40] Dipartimento federale delle finanze, per l’adempimento dei compiti di cui agli articoli 35–39 della legge sulla trasparenza delle persone giuridiche.
 
 [^9-1]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-2]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
@@ -369,28 +370,30 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 [^9-20]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-21]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-22]: Introdotta dalla cifra I n. 4 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-23]: Introdotta dall’all. n. 1 della LF del 26 set. 2025 sulla trasparenza delle persone giuridiche e sull’identificazione degli aventi economicamente diritto, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
-[^9-24]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
-[^9-25]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-26]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^9-27]: Nuovo testo giusta l’all. 1 n. 3 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^9-28]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^9-29]: Nuovo testo giusta la cifra I n. 4 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-30]: Nuovo testo giusta l’all. n. 4 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2023 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-31]: Introdotta dalla cifra II n. 1 della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-32]: Introdotta dall’all. n. 2 della LF del 23 dic. 2011 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-33]: Introdotta dall’all. n. 2 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^9-34]: Introdotta dall’all. cifra II n. 2 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^9-35]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-36]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^9-23]: Introdotta dall’all. 3 n. 3 della LF del 21 mar. 2025 sui dati dei passeggeri aerei, in vigore dal 1° nov. 2026 ([RU 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^9-24]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^9-25]: Introdotta dall’all. n. 1 della LF del 26 set. 2025 sulla trasparenza delle persone giuridiche e sull’identificazione degli aventi economicamente diritto, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^9-26]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^9-27]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^9-28]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
+[^9-29]: Nuovo testo giusta l’all. 1 n. 3 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^9-30]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^9-31]: Nuovo testo giusta la cifra I n. 4 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-32]: Nuovo testo giusta l’all. n. 4 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2023 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^9-33]: Introdotta dalla cifra II n. 1 della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^9-34]: Introdotta dall’all. n. 2 della LF del 23 dic. 2011 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^9-35]: Introdotta dall’all. n. 2 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^9-36]: Introdotta dall’all. cifra II n. 2 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^9-37]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^9-38]: Introdotta dall’all. n. 1 della LF del 26 set. 2025 sulla trasparenza delle persone giuridiche e sull’identificazione degli aventi economicamente diritto, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^9-38]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^9-39]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
+[^9-40]: Introdotta dall’all. n. 1 della LF del 26 set. 2025 sulla trasparenza delle persone giuridiche e sull’identificazione degli aventi economicamente diritto, in vigore dal 1° ott. 2026 ([RU 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
 
 #### Art. 10
 
 **Concessione dell’accesso**
 
-<sup>1</sup> La decisione relativa alla concessione dell’accesso al sistema d’informazione alle autorità di cui all’articolo 9 spetta alla SEM.[^10-1] ...[^10-2]
+<sup>1</sup> La decisione relativa alla concessione dell’accesso al sistema d’informazione alle autorità di cui all’articolo 9 spetta alla SEM.[^10-1] …[^10-2]
 
 <sup>2</sup> I collaboratori delle autorità che hanno diritto d’accesso al sistema d’informazione possono accedere, su richiesta, esclusivamente ai dati necessari all’adempimento dei loro compiti giusta l’articolo 9.
 
@@ -503,7 +506,7 @@ Il Consiglio federale emana le disposizioni esecutive. Disciplina segnatamente:
 
 **Modifica del diritto vigente**
 
-...[^18-1]
+…[^18-1]
 
 [^18-1]: Le mod. possono essere consultate alla [RU 2006 1931](https://fedlex.data.admin.ch/eli/oc/2006/301).
 
@@ -513,7 +516,7 @@ Il Consiglio federale emana le disposizioni esecutive. Disciplina segnatamente:
 
 Fino alla loro abrogazione al momento dell’introduzione del sistema nazionale visti, gli articoli 4 capoverso 1 lettera c e 8*a* hanno il tenore seguente:
 
-...[^18a-2]
+…[^18a-2]
 
 [^18a-1]: Introdotto dall’art. 2 n. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dall’11 ott. 2011 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^18a-2]: Le mod. possono essere consultate alla [RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272).
