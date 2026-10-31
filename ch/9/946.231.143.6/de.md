@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 12. Dezember 2025 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: de
-version: 2026-08-18
+version: 2026-11-01
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260818/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260818-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260818/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20261101/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20261101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20261101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 12. Dezember 2025 (Stand am 18. August 2026)
+vom 12. Dezember 2025 (Stand am 1. November 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -182,7 +182,7 @@ Es kann Ausnahmen vom Verbot nach Absatz 2 bewilligen, sofern:
 
 **Verbote betreffend Rohöl und Erdölprodukte aus dem Iran**
 
-<sup>1</sup> Der Kauf, die Einfuhr oder der Transport von Rohöl oder Erdölprodukten nach Anhang 8 aus dem Iran oder mit Ursprung im Iran in die Schweiz sind verboten.
+<sup>1</sup> Der Kauf, die Einfuhr oder der Transport von Rohöl oder Erdölprodukten nach Anhang 8 aus dem Iran oder mit Ursprung im Iran sind verboten.[^9-1]
 
 <sup>2</sup> Die Gewährung von Finanzmitteln und Finanzhilfen, einschliesslich Finanzderivaten, Versicherungen und Rückversicherungen, im Zusammenhang mit Tätigkeiten nach Absatz 1 ist verboten.
 
@@ -204,6 +204,8 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
 
   - 1\. vor dem 12. Dezember 2025 aus dem Iran ausgeführt wurden, oder
   - 2\. nach Buchstabe b oder nach Artikel 33 Absatz 3 aus dem Iran ausgeführt wurden.
+
+[^9-1]: Fassung gemäss Ziff. I 4 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 10
 
@@ -330,11 +332,13 @@ Es ist Unternehmen nach Absatz 1 Buchstabe a verboten:
 
 <sup>1</sup>
 
-Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter Kontrolle befinden von:
+Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der Kontrolle befinden von:
 
 - a. natürlichen Personen, Unternehmen und Organisationen nach den Anhängen 11 und 12;
 - b. natürlichen Personen, Unternehmen und Organisationen nach Anhang 13;
-- c. natürlichen Personen nach Anhang 14.
+- c. natürlichen Personen nach Anhang 14;
+- d. natürliche Personen, Unternehmen und Organisationen, die im Namen oder auf Anweisung der natürlichen Personen, Unternehmen und Organisationen nach Buchstabe a, b oder c handeln;
+- e. Unternehmen und Organisationen, die sich im Eigentum oder unter der Kontrolle der natürlichen Personen, Unternehmen und Organisationen nach Buchstabe a, b oder c befinden.[^16-1]
 
 <sup>2</sup>
 
@@ -346,7 +350,7 @@ Es ist verboten:
 
 <sup>3</sup>
 
-Die Verbote nach Absatz 2 gelten nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+Absatz 1 und das Verbot nach Absatz 2 gelten nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:[^16-2]
 
 - a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
 - b. internationale Organisationen;
@@ -367,9 +371,12 @@ Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot 
 
 <sup>6</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfengesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.
 
+[^16-1]: Fassung gemäss Ziff. I 4 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^16-2]: Fassung gemäss Ziff. I 4 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
 #### Art. 17
 
-**Ausnahmebestimmungen betreffend gesperrte Gelder oder wirtschaftliche Ressourcen**
+**Ausnahmebestimmungen betreffend gesperrte Gelder und wirtschaftliche Ressourcen[^17-1]**
 
 <sup>1</sup>
 
@@ -400,6 +407,8 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 - c. Wahrung schweizerischer Interessen.
 
 <sup>4</sup> Es bewilligt Ausnahmen nach den Absätzen 1–3 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD) sowie, falls anwendbar, nach Meldung an das zuständige Komitee des Sicherheitsrats der Vereinten Nationen und in Übereinstimmung mit den Beschlüssen dieses Komitees.
+
+[^17-1]: Fassung gemäss Ziff. I 4 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 18
 
@@ -468,14 +477,18 @@ Das Verbot nach Absatz 1 gilt nicht für Schiffe, die Hilfe benötigen und aus f
 
 Die Absätze 1 und 2 gelten nicht, wenn:
 
-- a. der Geldtransfer für die Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch Organisationen nach Artikel 16 Absätze 3 und 4 erforderlich ist;
-- b. die Bewilligung für einen Geldtransfer nach den Artikeln 2 Absätze 5 und 6, 3 Absatz 1, 4 Absatz 4, 5 Absätze 8 und 9, 14 Absatz 4, 17 Absätze 1–4 und 18 Absätze 2–4 erteilt worden ist.
+- a. der Geldtransfer durch oder für eine diplomatische oder konsularische Vertretung des Iran in der Schweiz durchgeführt wird und für die Tätigkeit dieser Vertretung erforderlich ist, einschliesslich zur Deckung von Unterhalts- und Verwaltungskosten;
+- b. der Geldtransfer durch oder für eine internationale Organisation durchgeführt wird;
+- c. der Geldtransfer für die Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch Organisationen nach Artikel 16 Absätze 3 Buchstaben c–f und 4 erforderlich ist;
+- d. die Bewilligung für einen Geldtransfer nach den Artikeln 2 Absätze 5 und 6, 3 Absatz 1, 4 Absatz 4, 5 Absätze 8 und 9, 14 Absatz 4, 17 Absätze 1–4 und 18 Absätze 2–4 erteilt worden ist.[^21-4]
 
-<sup>6</sup> Absatz 2 gilt nicht für Geldtransfers im Zusammenhang mit Transaktionen betreffend Lebensmittel, Gesundheitsleistungen und medizinische Ausrüstung sowie für humanitäre Zwecke.
+<sup>6</sup> Absatz 2 gilt nicht für Geldtransfers im Zusammenhang mit Transaktionen betreffend Lebensmittel, pharmazeutische Erzeugnisse und Medizinprodukte, Gesundheitsleistungen und medizinische Ausrüstung sowie für landwirtschaftliche und humanitäre Zwecke.[^21-5]
 
 [^21-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^21-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 [^21-3]: Die Berichtigung vom 10. Febr. 2026 betrifft nur den italienischen Text ([AS 2026 64](https://fedlex.data.admin.ch/eli/oc/2026/64)).
+[^21-4]: Fassung gemäss Ziff. I 4 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^21-5]: Fassung gemäss Ziff. I 4 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 22
 
@@ -1428,19 +1441,24 @@ Anhang 10
 <tr><td>3901</td><td>Polyymere des Ethylens, in Primärformen</td></tr>
 </table>
 
-Anhang 11
+Anhang 11[^t-2]
 
-(Art. 16 Abs. 1 Bst. a und 2 Bst. a und b, 17 Abs. 3, 26 Abs. 1 und 2 sowie 27 Bst. b und 30)
+(Art. 16 Abs. 1 Bst. a, 2 Bst. a und b, 17 Abs. 3, 26 Abs. 1 und 2, 27 Bst. b sowie 30)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
+[^t-2]: Fassung gemäss Ziff. I 4 der V vom 25. Sept. 2026 über die Änderung von Sanktionsverordnungen in Bezug auf die Proliferations und Terrorismusfinanzierung, in Kraft seit 1. Nov. 2026 ([AS 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
 Anmerkung
 
-\1. Dieser Anhang entspricht den Listen der natürlichen Personen, Unternehmen und Organisationen, die vom Sicherheitsrat der Vereinten Nationen oder vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichnet worden sind.
+\1. Dieser Anhang entspricht den Listen der natürlichen Personen, Unternehmen und Organisationen, die vom Sicherheitsrat der Vereinten Nationen oder vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichnet worden sind.[^annex11-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex11-lvlu1-2]
 
-Anhang 12[^t-2]
+[^annex11-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [www.un.org/en/sc](https://www.un.org/en/sc/) &gt; Sanctions Committees &gt; 1737 Sanctions Committee &gt; Sanctions List Materials.
+[^annex11-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [www.seco.admin.ch](https://www.seco.admin.ch/de/suche-nach-sanktionsadressaten) &gt; Themen &gt; Aussenwirtschaft &gt; Exportkontrollen, Investitionsprüfung und Sanktionen &gt; Sanktionen &gt; Suche nach Sanktionsadressaten. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+
+Anhang 12[^t-3]
 
 (Art. 16 Abs. 1 Bst. a, 2 Bst. a und b, 4 und 5 Bst. c, 17 Abs. 3, 26 Abs. 1 und 3, 27 Bst. b sowie 31)
 
@@ -1448,10 +1466,10 @@ Anhang 12[^t-2]
 
 [^annex12-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)), Ziff. I der V des WBF vom 13. April 2026 ([AS 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) und vom 17. Aug. 2026, in Kraft seit 18. Aug. 2026 um 23 Uhr ([AS 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)), Ziff. I der V des WBF vom 13. April 2026 ([AS 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) und vom 17. Aug. 2026, in Kraft seit 18. Aug. 2026 um 23 Uhr ([AS 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
 [^annex12-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 13[^t-3]
+Anhang 13[^t-4]
 
 (Art. 16 Abs. 1 Bst. b, 2 Bst. c, 4 und 5 Bst. c, 17 Abs. 3, 20 Abs. 4, 26 Abs. 1 und 3, 27 Bst. b sowie 31)
 
@@ -1459,10 +1477,10 @@ Anhang 13[^t-3]
 
 [^annex13-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) und Ziff. I der V des WBF vom 17. Aug. 2026, in Kraft seit 18. Aug. 2026 um 23 Uhr ([AS 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^t-4]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) und Ziff. I der V des WBF vom 17. Aug. 2026, in Kraft seit 18. Aug. 2026 um 23 Uhr ([AS 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
 [^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 14[^t-4]
+Anhang 14[^t-5]
 
 (Art. 16 Abs. 1 Bst. c, 2 Bst. a, 4 und 5 Bst. c, 17 Abs. 3, 27 Bst. b sowie 31)
 
@@ -1470,7 +1488,7 @@ Anhang 14[^t-4]
 
 [^annex14-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)), Ziff. I der V des WBF vom 13. April 2026 ([AS 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) und vom 17. Aug. 2026, in Kraft seit 18. Aug. 2026 um 23 Uhr ([AS 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^t-5]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)), Ziff. I der V des WBF vom 13. April 2026 ([AS 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) und vom 17. Aug. 2026, in Kraft seit 18. Aug. 2026 um 23 Uhr ([AS 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
 [^annex14-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 15

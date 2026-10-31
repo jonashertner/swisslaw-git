@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Ordonnance du 12 décembre 2025 instituant des mesures à l’encontre de la République islamique d’Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: fr
-version: 2026-08-18
+version: 2026-11-01
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260818/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260818-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260818/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-838-20261101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 12 décembre 2025 (État le 18 août 2026)
+du 12 décembre 2025 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -182,7 +182,7 @@ Il peut autoriser des dérogations aux interdictions prévues à l’al. 2 dans 
 
 **Interdictions concernant le pétrole brut et les produits pétroliers en provenance d’Iran**
 
-<sup>1</sup> L’achat, l’importation ou le transport en Suisse de pétrole brut ou de produits pétroliers visés à l’annexe 8 en provenance d’Iran ou originaires d’Iran sont interdits.
+<sup>1</sup> L’achat, l’importation ou le transport de pétrole brut ou de produits pétroliers visés à l’annexe 8 en provenance d’Iran ou originaires d’Iran sont interdits.[^9-1]
 
 <sup>2</sup> L’octroi de moyens financiers et d’aides financières, y compris de produits financiers dérivés, d’assurances et de réassurances en rapport avec les activités visées à l’al. 1 est interdit.
 
@@ -204,6 +204,8 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
   - 1\. ont été exportés d’Iran avant le 12 décembre 2025, ou
   - 2\. ont été exportés d’Iran conformément à la let. b ou à l’art. 33, al. 3.
+
+[^9-1]: Nouvelle teneur selon le ch. I 4 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 10
 
@@ -330,11 +332,13 @@ Les entreprises visées à l’al. 1, let. a, ont l’interdiction:
 
 <sup>1</sup>
 
-Les avoirs et les ressources économiques qui appartiennent aux personnes suivantes ou qui sont sous leur contrôle sont gelés:
+Sont gelés les avoirs et les ressources économiques qui sont la propriété ou sous le contrôle:
 
-- a. personnes physiques, entreprises et entités visées aux annexes 11 et 12;
-- b. personnes physiques, entreprises et entités visées à l’annexe 13;
-- c. personnes physiques visées à l’annexe 14.
+- a. des personnes physiques, entreprises et entités visées aux annexes 11 et 12;
+- b. des personnes physiques, entreprises et entités visées à l’annexe 13;
+- c. des personnes physiques visées à l’annexe 14;
+- d. des personnes physiques, entreprises et entités agissant au nom ou selon les instructions des personnes physiques, entreprises et entités visées à la let. a, b ou c;
+- e. des entreprises et entités qui sont la propriété ou sous le contrôle des personnes physiques, entreprises et entités visées à la let. a, b ou c.[^16-1]
 
 <sup>2</sup>
 
@@ -346,7 +350,7 @@ Il est interdit:
 
 <sup>3</sup>
 
-Les interdictions prévues à l’al. 2 ne s’appliquent pas lorsque le transfert d’avoirs ou la mise à disposition d’avoirs ou de ressources économiques est nécessaire à la réalisation d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par:
+L’al. 1 et l’interdiction prévue à l’al. 2 ne s’appliquent pas lorsque le transfert d’avoirs ou la mise à disposition d’avoirs ou de ressources économiques est nécessaire à la réalisation d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par:[^16-2]
 
 - a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
 - b. des organisations internationales;
@@ -367,9 +371,12 @@ Pour autant que les montants crédités soient également bloqués, l’interdic
 
 <sup>6</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, à condition que les montants crédités sur ces comptes soient également bloqués.
 
+[^16-1]: Nouvelle teneur selon le ch. I 4 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^16-2]: Nouvelle teneur selon le ch. I 4 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
 #### Art. 17
 
-**Dispositions dérogatoires concernant les avoirs ou ressources économiques gelés**
+**Dérogations concernant les avoirs et les ressources économiques gelés[^17-1]**
 
 <sup>1</sup>
 
@@ -400,6 +407,8 @@ Il peut, exceptionnellement, autoriser aux fins suivantes le déblocage de certa
 - c. sauvegarder des intérêts suisses.
 
 <sup>4</sup> Il autorise les dérogations au titre des al. 1 à 3 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF) et, le cas échéant, après avoir effectué la déclaration auprès du comité compétent du Conseil de sécurité des Nations Unies et conformément aux décisions de ce comité.
+
+[^17-1]: Nouvelle teneur selon le ch. I 4 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 18
 
@@ -468,14 +477,18 @@ L’interdiction prévue à l’al. 1 ne s’applique pas aux navires qui ont be
 
 Les al. 1 et 2 ne s’appliquent pas dans les cas suivants:
 
-- a. le transfert d’avoirs est nécessaire à la réalisation d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par des entités visées à l’art. 16, al. 3 et 4;
-- b. l’autorisation d’un transfert a été accordée au titre des art. 2, al. 5 et 6, 3, al. 1, 4, al. 4, 5, al. 8 et 9, 14, al. 4, 17, al. 1 à 4, et 18, al. 2 à 4.
+- a. le transfert d’avoirs est réalisé par ou pour une représentation diplomatique ou consulaire de l’Iran en Suisse et est nécessaire à l’exercice des activités de cette représentation, y compris à la couverture des frais d’entretien et d’administration;
+- b. le transfert d’avoirs est réalisé par ou pour une organisation internationale;
+- c. le transfert d’avoirs est nécessaire à la réalisation d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par des entités visées à l’art. 16, al. 3, let. c à f, et 4;
+- d. l’autorisation d’un transfert a été accordée au titre des art. 2, al. 5 et 6, 3, al. 1, 4, al. 4, 5, al. 8 et 9, 14, al. 4, 17, al. 1 à 4, et 18, al. 2 à 4.[^21-4]
 
-<sup>6</sup> L’al. 2 ne s’applique pas aux transferts d’avoirs relatifs à des transactions concernant des denrées alimentaires, des prestations de santé ou des équipements médicaux ou répondant à des besoins humanitaires.
+<sup>6</sup> L’al. 2 ne s’applique pas aux transferts d’avoirs relatifs à des transactions concernant des denrées alimentaires, des produits pharmaceutiques et des dispositifs médicaux, des prestations de santé et des équipements médicaux, ou servant à des fins agricoles ou humanitaires.[^21-5]
 
 [^21-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 [^21-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 [^21-3]: Erratum du 10 fév. 2026, ne concerne que le texte italien ([RO 2026 64](https://fedlex.data.admin.ch/eli/oc/2026/64)).
+[^21-4]: Nouvelle teneur selon le ch. I 4 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+[^21-5]: Nouvelle teneur selon le ch. I 4 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
 
 #### Art. 22
 
@@ -1428,19 +1441,24 @@ Annexe 10
 <tr><td>3901</td><td>Polymères de l’éthylène, sous formes primaires</td></tr>
 </table>
 
-Annexe 11
+Annexe 11[^t-2]
 
 (art. 16, al. 1, let. a, et 2, let. a et b, 17, al. 3, 26, al. 1 et 2, 27, let. b, et 30)
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
+[^t-2]: Nouvelle teneur selon le ch. I 4 de l’O du 25 sept. 2026 sur la modification d’ordonnances relatives aux sanctions concernant le financement de la prolifération et du terrorisme, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 501](https://fedlex.data.admin.ch/eli/oc/2026/501)).
+
 Remarque
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et organisations désignées par le Conseil de sécurité des Nations Unies ou par le comité compétent du Conseil de sécurité des Nations Unies.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et organisations désignées par le Conseil de sécurité des Nations Unies ou par le comité compétent du Conseil de sécurité des Nations Unies.[^annex11-lvlu1-1]
 
-\2. Les listes sont généralement intégrées par le SECO dans la base de données SESAM (SECO Sanctions Management) un jour ouvrable après leur communication par les Nations Unies.
+\2. Les listes sont généralement intégrées par le SECO dans la base de données SESAM (SECO Sanctions Management) un jour ouvrable après leur communication par les Nations Unies.[^annex11-lvlu1-2]
 
-Annexe 12[^t-2]
+[^annex11-lvlu1-1]: La liste peut être consultée à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/fr/sc) &gt; Comités des sanctions &gt; Comité des sanctions 1737 &gt; Matériaux relatifs à la liste de sanctions.
+[^annex11-lvlu1-2]: La banque de données SESAM est librement accessible à l’adresse suivante: [www.seco.admin.ch](https://www.seco.admin.ch/fr/recherche-destinataires-sanctions) &gt; Thèmes &gt; Économie extérieure &gt; Contrôle à l’exportation, examen des investissements et sanctions &gt; Sanctions &gt; Recherche des destinataires de sanctions. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+
+Annexe 12[^t-3]
 
 (art. 16, al. 1, let. a, 2, let. a et b, 4 et 5, let. c, 17, al. 3, 26, al. 1 et 3, 27, let. b, et 31)
 
@@ -1448,10 +1466,10 @@ Annexe 12[^t-2]
 
 [^annex12-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I des O du DEFR du 13 avr. 2026 ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) et du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^t-3]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I des O du DEFR du 13 avr. 2026 ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) et du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
 [^annex12-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 13[^t-3]
+Annexe 13[^t-4]
 
 (art. 16, al. 1, let. b, 2, let. c, 4 et 5, let. c, 17, al. 3, 20, al. 4, 26, al. 1 et 3, 27, let. b, et 31)
 
@@ -1459,10 +1477,10 @@ Annexe 13[^t-3]
 
 [^annex13-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I de l’O du DEFR du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^t-4]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I de l’O du DEFR du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
 [^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 14[^t-4]
+Annexe 14[^t-5]
 
 (art. 16, al. 1, let. c, 2, let. a, 4 et 5, let. c, 17, al. 3, 27, let. b, et 31)
 
@@ -1470,7 +1488,7 @@ Annexe 14[^t-4]
 
 [^annex14-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I des O du DEFR du 13 avr. 2026 ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) et du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
+[^t-5]: Mise à jour par le ch. I al. 2 de l’O du DEFR du 9 mars 2026 ([RO 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) et le ch. I des O du DEFR du 13 avr. 2026 ([RO 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)) et du 17 août 2026, en vigueur depuis le 18 août 2026 à 23 heures ([RO 2026 422](https://fedlex.data.admin.ch/eli/oc/2026/422)).
 [^annex14-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/422](https://fedlex.data.admin.ch/eli/oc/2026/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 15
