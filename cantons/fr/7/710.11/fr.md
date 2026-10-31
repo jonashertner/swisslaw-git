@@ -4,13 +4,12 @@ number: "710.11"
 title: "Règlement d'exécution de la loi sur l'aménagement du territoire et les constructions"
 short: ReLATeC
 language: fr
-version: 2026-10-01
-valid_until: 2026-10-31
-version_adopted: 2026-09-22
+version: 2026-11-01
+version_adopted: 2026-06-30
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8672/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8674/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Aménagement du territoire et constructions – R
 
 (ReLATeC)
 
-du 01.12.2009 (version entrée en vigueur le 01.10.2026)
+du 01.12.2009 (version entrée en vigueur le 01.11.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -312,6 +311,12 @@ Arrête:
 
 <sup>2</sup> La Direction approuve le retour des terrains à leur affectation initiale s'il apparaît conforme aux exigences légales ainsi qu'aux planifications d'ordre supérieur et s'il est opportun. Elle publie sa décision dans la Feuille officielle dans un délai de dix jours dès la date d'approbation.
 
+#### Art. 25a
+
+**Logements d'intérêt public (art. 55 LATeC)**
+
+<sup>1</sup> La réglementation communale peut admettre dans les zones d'intérêt général des logements d'intérêt public, majoritairement en propriété de la commune.
+
 #### Art. 26
 
 **Réglementation communale (art. 60 LATeC) – En général**
@@ -380,7 +385,7 @@ Arrête:
 
 #### Art. 30a
 
-**Dispense d'examen préalable (art. 77a al. 2 LATeC)**
+**Dispense d'examen préalable (art. 77 al. 2 LATeC)**
 
 <sup>1</sup> Le secteur bénéficiant d'une rocade dans la zone à bâtir doit:
 
@@ -1193,7 +1198,7 @@ Arrête:
 - d1) les infrastructures souterraines servant au raccordement des bâtiments au réseau de distribution principal;
 - e) …
 - f) les installations solaires, dans la mesure où elles ne sont pas dispensées de permis en vertu du droit fédéral; sont notamment soumises à l'obligation de permis les installations solaires prévues sur des bâtiments situés dans une zone de protection au sens de l'article 59 LATeC ou dans un périmètre de protection au sens de l'article 72 al. 1 LATeC;
-- f1) les bornes de recharge pour véhicules électriques sous réserve de l'article 87 al.1 let. b1;
+- f1) …
 - g) les déblais et remblais d'une hauteur maximale de 1,20 m par rapport au terrain naturel et dont la surface n'excède pas 500 m²;
 - h) les panneaux et autres supports destinés aux réclames, sous réserve de l'article 84 let. i;
 - i) les distributeurs automatiques;
@@ -1223,7 +1228,7 @@ Arrête:
 
 - a) les travaux d'entretien et de réparation ainsi que les travaux de rénovation de façades et de toitures qui ne modifient pas sensiblement l'aspect de l'ouvrage;
 - b) les petites installations annexes telles qu'antennes paraboliques, terrasses de jardin non couvertes, cheminées de jardin privées, installations privées de jeux pour enfants, ainsi que les piscines à caractère saisonnier, démontées en fin de saison;
-- b1) les bornes de recharge pour véhicules électriques en relation avec une habitation individuelle au sens des articles 55 et 56;
+- b1) les bornes de recharge pour véhicules électriques;
 - c) les installations et aménagements des espaces extérieurs ou de jardins tels qu'escaliers, fontaines, sculptures;
 - c1) les croix sommitales d'une hauteur maximale de 2 mètres;
 - d) …
@@ -1252,15 +1257,7 @@ Arrête:
 
 #### Art. 87a
 
-**Dispense de permis (art. 135 al. 3 LATeC) – Téléphonie mobile**
-
-<sup>1</sup> Les modifications mineures sur les stations émettrices pour téléphonie mobile ne sont pas soumises à permis de construire.
-
-<sup>2</sup> Sont qualifiées de mineures les modifications qui n'aboutissent pas à une augmentation significative des immissions auprès des lieux à utilisation sensible au sens de la législation fédérale sur la protection contre le rayonnement non ionisant.
-
-<sup>3</sup> Les modifications mineures au sens des alinéas 1 et 2 doivent être annoncées au Service de l'environnement. La modification mineure ne peut être réalisée qu'après l'obtention de l'accord de ce Service, qui doit intervenir au maximum trente jours après le dépôt de l'annonce.
-
-<sup>4</sup> Les modifications mineures ainsi que les plans et les documents qui doivent être joints à l'annonce sont définis dans une directive édictée par la Direction.
+**…**
 
 ### 3.2.2 Procédure de permis de construire (art. 137, 140, 144 et 147 à 149 LATeC)
 
@@ -1268,13 +1265,15 @@ Arrête:
 
 **Demande préalable (art. 137 LATeC)**
 
-<sup>1</sup> La demande préalable est déposée auprès de la commune au moyen de l'application pour la gestion de la procédure de permis de construire. Le conseil communal préavise la demande et transmet le dossier au SeCA.
+<sup>1</sup> La demande préalable est déposée auprès du SeCA au moyen de l'application pour la gestion de la procédure de permis de construire.
 
 <sup>2</sup> Toutes les pièces du dossier doivent être numérisées et remises au moyen de l'application pour la gestion de la procédure de permis de construire.
 
-<sup>3</sup> La demande doit également être déposée sous forme papier. Des directives édictées par la Direction précisent le nombre de dossiers sur papier.
+<sup>3</sup> …
 
-<sup>4</sup> Le SeCA requiert les préavis des services et organes intéressés. Il communique ces préavis, ainsi que le sien, au requérant ou à la requérante, à la commune et au préfet.
+<sup>4</sup> Le SeCA consulte sans délai la commune ainsi que les services et organes intéressés qui disposent d'un délai de trente jours dès réception du dossier pour formuler leur préavis.
+
+<sup>4a</sup> Dès réception du dernier préavis, le SeCA dispose d'un délai de trente jours pour formuler son préavis de synthèse et communiquer l'ensemble des préavis au requérant ou à la requérante, en informant simultanément la commune et le préfet.
 
 <sup>5</sup> La demande préalable est obligatoire pour les cas mentionnés à l'article 155 LATeC.
 
@@ -1286,9 +1285,9 @@ Arrête:
 
 <sup>2</sup> Toutes les pièces du dossier doivent être numérisées et remises au moyen de l'application pour la gestion de la procédure de permis de construire.
 
-<sup>3</sup> La demande doit également être déposée sous forme papier.
+<sup>3</sup> …
 
-<sup>4</sup> La demande doit contenir toutes les indications et tous les documents nécessaires à son examen, conformément aux directives édictées par la Direction. Celle-ci veille à ce que les exigences formelles requises pour la procédure simplifiée se limitent aux informations indispensables au traitement de la demande. Les directives précisent également le nombre d'exemplaires des dossiers sur papier.
+<sup>4</sup> La demande doit contenir toutes les indications et tous les documents nécessaires à son examen, conformément aux directives édictées par la Direction. Celle-ci veille à ce que les exigences formelles requises pour la procédure simplifiée se limitent aux informations indispensables au traitement de la demande.
 
 #### Art. 89a
 
@@ -1302,11 +1301,11 @@ Arrête:
 
 **Examen de la demande de permis**
 
-<sup>1</sup> La commune procède à l'examen de la conformité formelle et matérielle de la demande; au besoin, elle requiert les compléments nécessaires.
+<sup>1</sup> La commune procède à l'examen de la conformité formelle et matérielle de la demande dans un délai de quinze jours dès la réception du dossier; au besoin, elle requiert les compléments nécessaires.
 
-<sup>2</sup> Si elle constate des vices d'ordre formel, elle renvoie la demande au requérant ou à la requérante pour correction. Elle n'entre pas en matière lorsqu'une demande présentée pour la seconde fois est entachée de vices formels.
+<sup>2</sup> Si elle constate que le dossier contient des vices d'ordre formel et/ou que le projet contrevient manifestement aux prescriptions de droit public sur les constructions ou qu'il ne pourrait être autorisé que par le biais d'une dérogation qui n'a pas été requise, elle renvoie la demande au requérant ou à la requérante pour correction et/ou pour complément.
 
-<sup>3</sup> Lorsqu'un projet contrevient manifestement aux prescriptions de droit public sur les constructions ou qu'il ne pourrait être autorisé que par le biais d'une dérogation qui n'a pas été requise, la commune en avise par écrit le requérant ou la requérante ou son ou sa mandataire. La procédure est poursuivie lorsque, dans les trente jours dès notification de l'avis, le requérant ou la requérante ou son ou sa mandataire informe l'autorité communale du maintien de sa demande. Sinon, la demande est considérée comme retirée.
+<sup>3</sup> Le requérant ou la requérante dispose d'un délai de quinze jours dès l'avis de la commune pour procéder aux corrections et compléments requis ou pour se déterminer sur la suite à donner à sa demande. En l'absence d'une détermination de sa part dans ce délai, sa demande est considérée comme maintenue sans modification.
 
 #### Art. 91
 
@@ -1324,7 +1323,7 @@ Arrête:
 
 **Publication**
 
-<sup>1</sup> Dès l'acceptation du dossier complet, la commune fait diligence pour faire procéder à la publication dans la Feuille officielle. Elle peut en outre publier l'avis par tout autre moyen de communication dont elle dispose.
+<sup>1</sup> Dès la fin de l'examen de la demande de permis selon l'article 90, la commune procède sans délai à la publication dans la Feuille officielle. Elle peut en outre publier l'avis par tout autre moyen de communication dont elle dispose.
 
 <sup>2</sup> L'avis de mise à l'enquête ou, en cas de procédure simplifiée, la lettre recommandée mentionne le nom du requérant ou de la requérante, du ou de la propriétaire du fonds (le cas échéant, du ou de la bénéficiaire d'une promesse de vente), de l'architecte, de l'ingénieur-e ou de tout ou toute autre mandataire responsable du projet, les coordonnées cartographiques ainsi que l'objet et la nature des travaux.
 
@@ -1334,7 +1333,7 @@ Arrête:
 
 **Opposition (art. 140 al. 3 LATeC)**
 
-<sup>1</sup> Si une opposition est déposée, la commune en informe le requérant ou la requérante en lui transmettant une copie de l'opposition.
+<sup>1</sup> Si une opposition est déposée, la commune la transmet au requérant ou la requérante pour information.
 
 <sup>2</sup> En cas d'opposition, la commune ou le préfet peut inviter les parties à une séance de conciliation.
 
@@ -1342,15 +1341,19 @@ Arrête:
 
 **Préavis et décisions préalables – dans la procédure ordinaire**
 
-<sup>1</sup> La commune préavise les demandes de permis et se détermine sur les éventuelles oppositions. Sauf circonstances particulières, elle transmet le dossier au SeCA dans un délai de vingt jours dès la clôture de l'enquête.
+<sup>1</sup> Une fois l'enquête publique close et les éventuelles oppositions saisies dans l'application de gestion de la procédure de permis de construire, la commune transmet la demande de permis au SeCA.
 
-<sup>2</sup> Le SeCA consulte les services et organes intéressés qui formulent leur préavis dans un délai de trente jours dès réception du dossier. Si la complexité particulière ou la non-conformité du projet le justifie, une prolongation de quinze jours peut être accordée sur requête.
+<sup>1a</sup> Si la commune organise une séance de conciliation, elle lui transmet la demande dans les dix jours qui suivent celle-ci.
+
+<sup>2</sup> Le SeCA consulte sans délai la commune ainsi que les services et organes intéressés qui formulent leur préavis, en se déterminant de manière circonstanciée, sur les éventuelles oppositions, dans un délai de trente jours dès réception du dossier. Dans le même délai, la commune statue sur les éventuelles demandes de dérogation concernant la distance de construction aux itinéraires de mobilité en application de la législation spéciale.
+
+<sup>2a</sup> Si la complexité particulière ou la non-conformité du projet le justifie, une prolongation de quinze jours peut être accordée, sur requête, à la commune ainsi qu'aux services et organes intéressés.
 
 <sup>3</sup> Le service ou l'organe qui ne respecte pas le délai initial ou prolongé est censé avoir renoncé à émettre un préavis.
 
 <sup>4</sup> Le SeCA s'assure, le cas échéant, que les décisions préalables ont été obtenues. Il transmet le dossier, avec son préavis de synthèse, au préfet pour décision.
 
-<sup>5</sup> Pour le surplus, l'article 90 al. 1 et 2 est applicable par analogie.
+<sup>5</sup> …
 
 #### Art. 95
 
@@ -1387,7 +1390,7 @@ Arrête:
 
 <sup>1</sup> Le permis avec le dossier est communiqué au requérant ou à la requérante, à l'auteur-e des plans et, dans la procédure ordinaire, à la commune.
 
-<sup>2</sup> Dans la procédure simplifiée, le conseil communal communique une copie du permis au préfet, aux services qu'il a consultés et, pour les objets sis hors de la zone à bâtir, au SeCA.
+<sup>2</sup> Dans la procédure simplifiée, le conseil communal communique le permis au préfet, aux services qu'il a consultés et, pour les objets sis hors de la zone à bâtir, au SeCA.
 
 <sup>3</sup> D'ordinaire, l'autorité adresse ses communications par transmission électronique. Les règles concernant la notification des décisions sont réservées.
 

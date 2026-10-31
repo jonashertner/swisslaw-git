@@ -4,13 +4,12 @@ number: "710.11"
 title: Ausführungsreglement zum Raumplanungs- und Baugesetz
 short: RPBR
 language: de
-version: 2026-10-01
-valid_until: 2026-10-31
-version_adopted: 2026-09-22
+version: 2026-11-01
+version_adopted: 2026-06-30
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8672/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8674/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Raumplanungs- und Baugesetz – R
 
 (RPBR)
 
-vom 01.12.2009 (Fassung in Kraft getreten am 01.10.2026)
+vom 01.12.2009 (Fassung in Kraft getreten am 01.11.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -311,6 +310,12 @@ beschliesst:
 <sup>1</sup> Wenn eine Gemeinde einen Widerrufsentscheid gemäss Artikel 47 Abs. 2 RPBG fällt, veröffentlicht sie diesen im Amtsblatt und räumt den betroffenen Personen eine Frist von 30 Tagen ein, damit sie eine Stellungnahme einreichen können. Nach dieser Frist übermittelt sie der Direktion die angepassten Pläne, einen zusätzlichen erläuternden Bericht und die allfälligen Stellungnahmen.
 
 <sup>2</sup> Die Direktion genehmigt die Wiederherstellung der ursprünglichen Nutzung der Grundstücke, wenn diese den rechtlichen Anforderungen und den übergeordneten Planungen entspricht und angemessen ist. Sie veröffentlicht ihren Entscheid innert zehn Tagen ab dem Datum der Genehmigung im Amtsblatt.
+
+#### Art. 25a
+
+**Wohnungen im öffentlichen Interesse (Art. 55 RPBG)**
+
+<sup>1</sup> Das Gemeindereglement kann in Zonen von allgemeinem Interesse Wohnungen im öffentlichen Interesse zulassen, die sich mehrheitlich im Eigentum der Gemeinde befinden.
 
 #### Art. 26
 
@@ -1193,7 +1198,7 @@ beschliesst:
 - d1) unterirdische Leitungen, die dem Anschluss von Gebäuden an das Hauptverteilungsnetz dienen;
 - e) …
 - f) Solaranlagen, sofern sie nicht gemäss dem Bundesrecht bewilligungsfrei sind; insbesondere sind Solaranlagen auf Bauten, die sich in der Schutzzone gemäss Artikel 59 RPBG oder in einem Schutzperimeter gemäss Artikel 72 Abs. 1 RPBG befinden, der Baubewilligungspflicht unterstellt;
-- f1) Ladestationen für Elektrofahrzeuge unter Vorbehalt von Artikel 87 Abs. 1 Bst. b1;
+- f1) …
 - g) Abgrabungen und Aufschüttungen bis zu einer maximalen Höhe von 1,20 m ab gewachsenem Boden und deren Fläche 500 m² nicht überschreitet;
 - h) Tafeln und andere Reklameträger unter Vorbehalt von Artikel 84 Bst. i;
 - i) Automaten;
@@ -1223,7 +1228,7 @@ beschliesst:
 
 - a) Unterhalts- und Ausbesserungsarbeiten sowie Renovationsarbeiten an Dach und Fassade, die das Aussehen des Bauwerkes nicht wesentlich verändern;
 - b) kleinere Nebenanlagen wie Parabolantennen, nicht überdachte Gartenterrassen, private Gartenkamine, private Kinderspielplätze und Schwimmbäder mit saisonalem Charakter, die bei Saisonende wieder abgebaut werden;
-- b1) Ladestationen für Elektrofahrzeuge in Zusammenhang mit einem Einzelwohnhaus gemäss Artikel 55 und 56;
+- b1) Ladestationen für Elektrofahrzeuge;
 - c) Garten- und Aussenraumgestaltungen oder Anlagen wie Treppen, Brunnen, Skulpturen;
 - c1) Gipfelkreuze mit einer maximalen Höhe von 2 Meter;
 - d) …
@@ -1252,15 +1257,7 @@ beschliesst:
 
 #### Art. 87a
 
-**Befreiung von der Bewilligung (Art. 135 Abs. 3 RPBG) – Mobilfunk**
-
-<sup>1</sup> Geringfügige Änderungen an Sendeanlagen für den Mobilfunk sind von der Baubewilligungspflicht befreit.
-
-<sup>2</sup> Als geringfügig gelten Änderungen, die nicht zu einer nennenswerten Erhöhung der Immissionen an Orten mit empfindlicher Nutzung im Sinne der eidgenössischen Gesetzgebung zum Schutz vor nichtionisierender Strahlung führen.
-
-<sup>3</sup> Geringfügige Änderungen im Sinne der Absätze 1 und 2 müssen dem Amt für Umwelt gemeldet werden. Die geringfügige Änderung darf erst vorgenommen werden, wenn dieses Amt seine Zustimmung erteilt hat, die höchstens dreissig Tage nach Eingang der Meldung zu erfolgen hat.
-
-<sup>4</sup> Die geringfügigen Änderungen und die Pläne und Unterlagen, die der Meldung beigelegt werden müssen, werden in einer Richtlinie der Direktion festgelegt.
+**…**
 
 ### 3.2.2 Baubewilligungsverfahren (Art. 137, 140, 144, 147–149 RPBG)
 
@@ -1268,13 +1265,15 @@ beschliesst:
 
 **Vorprüfungsgesuch (Art. 137 RPBG)**
 
-<sup>1</sup> Das Vorprüfungsgesuch wird mit Hilfe der Informatikanwendung für das Baubewilligungsverfahren bei der Gemeinde eingereicht. Der Gemeinderat nimmt Stellung zum Gesuch und übergibt das Dossier dem BRPA.
+<sup>1</sup> Das Vorprüfungsgesuch wird mit Hilfe der Informatikanwendung für das Baubewilligungsverfahren beim BRPA eingereicht.
 
 <sup>2</sup> Sämtliche Bestandteile des Gesuchs müssen elektronisch erfasst und mit Hilfe der Anwendung für das Baubewilligungsverfahren eingereicht werden.
 
-<sup>3</sup> Das Gesuch muss ebenfalls in Papierform eingereicht werden. Die Direktion legt in einer Richtlinie die Anzahl der in Papierform einzureichenden Dossiers fest.
+<sup>3</sup> …
 
-<sup>4</sup> Das BRPA holt die Stellungnahmen der interessierten Amtsstellen und Organe ein. Es gibt diese sowie die eigene Stellungnahme dem Gesuchsteller oder der Gesuchstellerin, der Gemeinde und der Oberamtsperson bekannt.
+<sup>4</sup> Das BRPA konsultiert unverzüglich die Gemeinde sowie die interessierten Amtsstellen und Organe, die über eine Frist von 30 Tagen nach Empfang des Dossiers verfügen, um ihr Gutachten zu erstellen.
+
+<sup>4a</sup> Nach Erhalt des letzten Gutachtens verfügt das BRPA über eine Frist von 30 Tagen, um sein Gesamtgutachten zu erstellen und alle Gutachten der Gesuchstellerin oder dem Gesuchsteller bekannt zu geben, wobei es gleichzeitig die Gemeinde und die Oberamtsperson informiert.
 
 <sup>5</sup> Für die Fälle nach Artikel 155 RPBG ist ein Vorprüfungsgesuch obligatorisch.
 
@@ -1286,9 +1285,9 @@ beschliesst:
 
 <sup>2</sup> Sämtliche Bestandteile des Gesuchs müssen elektronisch erfasst und mit Hilfe der Anwendung für das Baubewilligungsverfahren eingereicht werden.
 
-<sup>3</sup> Das Gesuch muss ebenfalls in Papierform eingereicht werden.
+<sup>3</sup> …
 
-<sup>4</sup> Im Gesuch müssen sämtliche zur Prüfung erforderlichen Angaben und Dokumente gemäss den Richtlinien der Direktion enthalten sein. Diese stellt sicher, dass sich die Formerfordernisse für das vereinfachte Verfahren auf die Angaben beschränken, die für die Bearbeitung des Gesuchs erforderlich sind. In diesen Richtlinien wird auch die Anzahl der in Papierform einzureichenden Dossiers festgelegt.
+<sup>4</sup> Im Gesuch müssen sämtliche zur Prüfung erforderlichen Angaben und Dokumente gemäss den Richtlinien der Direktion enthalten sein. Diese stellt sicher, dass sich die Formerfordernisse für das vereinfachte Verfahren auf die Angaben beschränken, die für die Bearbeitung des Gesuchs erforderlich sind.
 
 #### Art. 89a
 
@@ -1302,11 +1301,11 @@ beschliesst:
 
 **Prüfung des Baugesuchs**
 
-<sup>1</sup> Die Gemeinde prüft das Gesuch formell und materiell; nötigenfalls beantragt sie die erforderlichen Ergänzungen.
+<sup>1</sup> Die Gemeinde prüft das Gesuch formell und materiell innert einer Frist von 15 Tagen nach Empfang des Dossiers; nötigenfalls beantragt sie die erforderlichen Ergänzungen.
 
-<sup>2</sup> Falls sie einen Formmangel feststellt, schickt sie der Gesuchstellerin oder dem Gesuchsteller das Gesuch zur Verbesserung zurück. Auf ein zweites mit Formmängeln behaftetes Gesuch tritt sie nicht ein.
+<sup>2</sup> Falls sie feststellt, dass das Dossier Formmängel enthält und/oder das Projekt offensichtlich den Vorschriften des öffentlichen Baurechts widerspricht oder nur mit einer Abweichung bewilligt werden könnte, die nicht beantragt worden ist, schickt sie der Gesuchstellerin oder dem Gesuchsteller das Gesuch zur Verbesserung und/oder Ergänzung zurück.
 
-<sup>3</sup> Widerspricht ein Projekt offensichtlich dem öffentlichen Baurecht oder könnte es nur mit einer Abweichung bewilligt werden, die nicht beantragt wurde, benachrichtigt die Gemeinde die Gesuchstellerin oder den Gesuchsteller oder die Person, die sie oder ihn vertritt, schriftlich darüber. Das Verfahren wird fortgesetzt, sofern die Gesuchstellerin oder der Gesuchsteller oder die Person, die sie oder ihn vertritt, die Gemeindebehörde innert dreissig Tagen ab Eröffnung des Mangels darüber informiert, am Gesuch festhalten zu wollen. Ansonsten gilt das Gesuch als zurückgezogen.
+<sup>3</sup> Die Gesuchstellerin oder der Gesuchsteller verfügt über eine Frist von 15 Tagen nach Mitteilung durch die Gemeinde, um die erforderlichen Korrekturen und Ergänzungen vorzunehmen oder über das weitere Vorgehen in Bezug auf das Gesuch Stellung zu nehmen. Bei Ausbleiben einer Stellungnahme innerhalb dieser Frist gilt das Gesuch als unverändert aufrechterhalten.
 
 #### Art. 91
 
@@ -1324,7 +1323,7 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Die Gemeinde veranlasst nach Annahme des vollständigen Dossiers so rasch als möglich die Veröffentlichung im Amtsblatt. Sie kann überdies die Anzeige mit anderen zur Verfügung stehenden Kommunikationsmitteln veröffentlichen.
+<sup>1</sup> Sobald die Prüfung des Baugesuchs nach Artikel 90 abgeschlossen ist, veranlasst die Gemeinde unverzüglich die Veröffentlichung im Amtsblatt. Sie kann überdies die Anzeige mit anderen zur Verfügung stehenden Kommunikationsmitteln veröffentlichen.
 
 <sup>2</sup> Die Anzeige der öffentlichen Auflage oder im Falle des vereinfachten Verfahrens der eingeschriebene Brief enthält den Namen der Gesuchstellerin oder des Gesuchstellers, der Grundeigentümerschaft (gegebenenfalls den Namen der Nutzniesserin oder des Nutzniessers eines Verkaufsversprechens), der Architektin oder des Architekten, der Ingenieurin oder des Ingenieurs oder einer anderen projektverantwortlichen Person, die kartographischen Koordinaten sowie Gegenstand und Art der Arbeiten.
 
@@ -1334,7 +1333,7 @@ beschliesst:
 
 **Einsprache (Art. 140 Abs. 3 RPBG)**
 
-<sup>1</sup> Wird eine Einsprache eingereicht, so informiert die Gemeinde die Gesuchstellerin oder den Gesuchsteller darüber und leitet ihr oder ihm eine Kopie der Einsprache zu.
+<sup>1</sup> Wird eine Einsprache eingereicht, übermittelt die Gemeinde diese zur Information an die Gesuchstellerin oder den Gesuchsteller.
 
 <sup>2</sup> Im Falle einer Einsprache kann die Gemeinde oder die Oberamtsperson die Parteien zu einer Einigungsverhandlung einladen.
 
@@ -1342,15 +1341,19 @@ beschliesst:
 
 **Stellungnahmen und Vorentscheide – Im ordentlichen Verfahren**
 
-<sup>1</sup> Die Gemeinde begutachtet die Baubewilligungsgesuche und nimmt Stellung zu den allfälligen Einsprachen. Sie übergibt das Dossier dem BRPA innert einer Frist von 20 Tagen nach Ablauf der öffentlichen Auflage; besondere Umstände bleiben vorbehalten.
+<sup>1</sup> Nach Ablauf der öffentlichen Auflage und Erfassung allfälliger Einsprachen in der Informatikanwendung für das Bewilligungsverfahren, übergibt die Gemeinde das Baugesuch dem BRPA.
 
-<sup>2</sup> Das BRPA konsultiert die betroffenen Amtsstellen und Organe; diese erstellen ihre Stellungnahmen in einer Frist von dreissig Tagen nach Empfang des Dossiers. Wenn es aufgrund des besonderen Schwierigkeitsgrads oder weil das Projekt nicht den Vorschriften entspricht, gerechtfertigt ist, kann auf Antrag eine Verlängerung von fünfzehn Tagen gewährt werden.
+<sup>1a</sup> Wenn die Gemeinde eine Einigungsverhandlung durchführt, übergibt sie das Baugesuch innerhalb von zehn Tagen nach dieser Sitzung.
+
+<sup>2</sup> Das BRPA konsultiert unverzüglich die Gemeinde sowie die interessierten Amtsstellen und Organe, die innerhalb von 30 Tagen nach Empfang des Dossiers ihr Gutachten erstellen und sich dabei ausführlich zu allfälligen Einsprachen äussern. Innerhalb derselben Frist entscheidet die Gemeinde über mögliche Abweichungsgesuche hinsichtlich des Bauabstands zu Mobilitätsrouten in Anwendung der Spezialgesetzgebung.
+
+<sup>2a</sup> Wenn es aufgrund des besonderen Schwierigkeitsgrads oder weil das Projekt nicht den Vorschriften entspricht, gerechtfertigt ist, kann der Gemeinde sowie den interessierten Amtsstellen und Organen auf Antrag eine Verlängerung von fünfzehn Tagen gewährt werden.
 
 <sup>3</sup> Es wird angenommen, dass die Amtsstelle oder das Organ, die oder das die anfängliche oder verlängerte Frist nicht einhält, auf eine Stellungnahme verzichtet.
 
 <sup>4</sup> Das BRPA vergewissert sich gegebenenfalls, dass es die Vorentscheide erhalten hat. Es leitet das Dossier mit seinem Gesamtgutachten der Oberamtsperson zum Entscheid weiter.
 
-<sup>5</sup> Im Übrigen gilt Artikel 90 Abs. 1 und 2 sinngemäss.
+<sup>5</sup> …
 
 #### Art. 95
 
@@ -1387,7 +1390,7 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligung wird mit dem Dossier der Gesuchstellerin oder dem Gesuchsteller, der Verfasserin oder dem Verfasser der Pläne und im ordentlichen Verfahren der Gemeinde übermittelt.
 
-<sup>2</sup> Im vereinfachten Verfahren übermittelt der Gemeinderat eine Kopie der Bewilligung der Oberamtsperson, den konsultierten Amtsstellen und, für Bauten ausserhalb der Bauzone, dem BRPA.
+<sup>2</sup> Im vereinfachten Verfahren übermittelt der Gemeinderat die Bewilligung der Oberamtsperson, den konsultierten Amtsstellen und, für Bauten ausserhalb der Bauzone, dem BRPA.
 
 <sup>3</sup> In der Regel verwenden die Behörden für Mitteilungen die elektronische Übermittlung. Die Vorschriften über die Zustellung von Entscheiden bleiben vorbehalten.
 
