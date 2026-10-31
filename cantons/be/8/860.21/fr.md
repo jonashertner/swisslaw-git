@@ -4,13 +4,12 @@ number: "860.21"
 title: Ordonnance sur les programmes d’action sociale
 short: OPASoc
 language: fr
-version: 2026-01-01
-valid_until: 2026-10-31
-version_adopted: 2025-12-10
+version: 2026-11-01
+version_adopted: 2026-09-16
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3265/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3486/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,17 +18,18 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3265/pdf_file"
 
 (OPASoc)
 
-du 24.11.2021 (état au 01.01.2026)
+du 24.11.2021 (état au 01.11.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 8, alinéa 3, l’article 16, alinéa 2, l’article 19, alinéa 3, l’article 20, alinéa 3, l’article 29, alinéa 2, l’article 80, alinéa 3, l’article 83, alinéa 4, l’article 84, alinéa 4, l’article 85, alinéa 5, l’article 89, alinéa 2, l’article 92, alinéa 2, l’article 96, alinéa 2, l’article 98, alinéa 2, l’article 106, l’article 116, l’article 119, alinéa 2, l’article 120, alinéas 2 et 3, l’article 130, alinéa 2 et l’article 131 de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^ingress-1],
+vu l’article 8, alinéa 3, l’article 16, alinéa 2, l’article 19, alinéa 3, l’article 20, alinéa 3, l’article 29, alinéa 2, l’article 80, alinéa 3, l’article 83, alinéa 4, l’article 84, alinéa 4, l’article 85, alinéa 5, l’article 89, alinéa 2, l’article 92, alinéa 2, l’article 96, alinéa 2, l’article 98, alinéa 2, l’article 106, l’article 116, l’article 119, alinéa 2, l’article 120, alinéas 2 et 3, l’article 130, alinéa 2 et l’article 131 de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^ingress-1] ainsi que l’article 20, alinéa 2 de la loi du 13 juin 2023 sur les prestations de soutien aux personnes en situation de handicap (LPHand)[^ingress-2],
 
 sur proposition de la Direction de la santé, des affaires sociales et de l’intégration,
 
 arrête:
 
 [^ingress-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
+[^ingress-2]: RSB [860.3](https://www.belex.sites.be.ch/data/860.3/fr)
 
 ## 1 Dispositions générales
 
@@ -394,7 +394,7 @@ arrête:
   - 1\. Évaluation, conseils et coordination: — CHF 18.80 par heure
   - 2\. Examens et traitements: — CHF 33.30 par heure
   - 3\. Soins de base: — CHF 35.80 par heure
-- c Prestataires proposant des appartements protégés
+- c Prestataires proposant des appartements protégés ainsi que homes et autres formes de logement collectif avec encadrement au sens de la LPHand
   - 1\. Évaluation, conseils et coordination: — CHF 12.60 par heure
   - 2\. Examens et traitements: — CHF 27.10 par heure
   - 3\. Soins de base: — CHF 29.10 par heure
@@ -438,6 +438,14 @@ arrête:
 **Participation des bénéficiaires aux frais des prestations**
 
 <sup>1</sup> Les bénéficiaires ayant atteint l’âge de 65 ans participent aux coûts des soins ambulatoires à hauteur du pourcentage maximal admis selon l’article 25a, alinéa 5 LAMal.
+
+<sup>2</sup> Aucune participation selon l’alinéa 1 n’est à verser par les bénéficiaires qui
+
+- a vivent dans un foyer visé à l’article 2, alinéa 1, lettre b, chiffre 2 de l’ordonnance du 16 septembre 2009 portant introduction de la loi fédérale sur les prestations complémentaires à l’AVS et à l’AI (Oi LPC)[^31-1] et
+- b ont droit à des prestations complémentaires annuelles selon l’article 3, alinéa 1, lettre a de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI (loi sur les prestations complémentaires, LPC)[^31-2].
+
+[^31-1]: RSB [841.311](https://www.belex.sites.be.ch/data/841.311/fr)
+[^31-2]: RS [831.30](https://db.clex.ch/link/Bund/831.30/fr)
 
 ### 2.4.3.4 Remise des données
 

@@ -4,13 +4,12 @@ number: "860.21"
 title: Verordnung über die sozialen Leistungsangebote
 short: SLV
 language: de
-version: 2026-01-01
-valid_until: 2026-10-31
-version_adopted: 2025-12-10
+version: 2026-11-01
+version_adopted: 2026-09-16
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3265/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,18 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3265/pdf_file"
 
 (SLV)
 
-vom 24.11.2021 (Stand 01.01.2026)
+vom 24.11.2021 (Stand 01.11.2026)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf die Artikel 8 Absatz 3, Artikel 16 Absatz 2, Artikel 19 Absatz 3, Artikel 20 Absatz 3, Artikel 29 Absatz 2, Artikel 80 Absatz 3, Artikel 83 Absatz 4, Artikel 84 Absatz 4, Artikel 85 Absatz 5, Artikel 89 Absatz 2, Artikel 92 Absatz 2, Artikel 96 Absatz 2, Artikel 98 Absatz 2, Artikel 106, Artikel 116, Artikel 119 Absatz 2, Artikel 120 Absatz 2 und 3, Artikel 130 Absatz 2 und Artikel 131 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^ingress-1],
+gestützt auf die Artikel 8 Absatz 3, Artikel 16 Absatz 2, Artikel 19 Absatz 3, Artikel 20 Absatz 3, Artikel 29 Absatz 2, Artikel 80 Absatz 3, Artikel 83 Absatz 4, Artikel 84 Absatz 4, Artikel 85 Absatz 5, Artikel 89 Absatz 2, Artikel 92 Absatz 2, Artikel 96 Absatz 2, Artikel 98 Absatz 2, Artikel 106, Artikel 116, Artikel 119 Absatz 2, Artikel 120 Absatz 2 und 3, Artikel 130 Absatz 2 und Artikel 131 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^ingress-1] sowie Artikel 20 Absatz 2 des Gesetzes vom 13. Juni 2023 über die Leistungen für Menschen mit Behinderungen (BLG)[^ingress-2],
 
 auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion,
 
 beschliesst:
 
 [^ingress-1]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
+[^ingress-2]: BSG [860.3](https://www.belex.sites.be.ch/data/860.3/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -394,7 +394,7 @@ beschliesst:
   - 1\. Abklärung, Beratung und Koordination: — CHF 18.80 pro Stunde
   - 2\. Untersuchung und Behandlung: — CHF 33.30 pro Stunde
   - 3\. Grundpflege: — CHF 35.80 pro Stunde
-- c Anbieterinnen und Anbieter des Wohnens mit Dienstleistungen:
+- c Anbieterinnen und Anbieter des Wohnens mit Dienstleistungen sowie Wohnheime und andere betreute kollektive Wohnformen nach BLG:
   - 1\. Abklärung, Beratung und Koordination: — CHF 12.60 pro Stunde
   - 2\. Untersuchung und Behandlung: — CHF 27.10 pro Stunde
   - 3\. Grundpflege: — CHF 29.10 pro Stunde
@@ -438,6 +438,14 @@ beschliesst:
 **Kostenbeteiligung der Leistungsempfängerinnen und Leistungsempfänger**
 
 <sup>1</sup> Leistungsempfängerinnen und Leistungsempfänger, die das 65. Altersjahr vollendet haben, beteiligen sich in der nach Artikel 25a Absatz 5 KVG maximal zulässigen Höhe an den Pflegekosten.
+
+<sup>2</sup> Keine Beteiligung nach Absatz 1 leisten müssen Leistungsempfängerinnen und Leistungsempfänger, die
+
+- a in einem Heim nach Artikel 2 Absatz 1 Buchstabe b Ziffer 2 der Einführungsverordnung vom 16. September 2009 zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (EV ELG)[^31-1] leben und
+- b Anspruch auf jährliche Ergänzungsleistungen nach Artikel 3 Absatz 1 Buchstabe a des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^31-2] haben.
+
+[^31-1]: BSG [841.311](https://www.belex.sites.be.ch/data/841.311/de)
+[^31-2]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
 
 ### 2.4.3.4 Datenlieferung
 
