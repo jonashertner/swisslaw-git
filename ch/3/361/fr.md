@@ -4,11 +4,11 @@ title: "Loi fédérale du 13 juin 2008 sur les systèmes d'information de police
 short: LSIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: fr
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-698-20261001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-698-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20261001/fr"
 
 (LSIP)
 
-du 13 juin 2008 (État le 1<sup>er</sup> octobre 2026)
+du 13 juin 2008 (État le 1<sup>er</sup> novembre 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -239,22 +239,25 @@ Fedpol exploite un réseau de systèmes d’information qui comprend les systèm
 Ont accès en ligne à ces données:
 
 - a.[^10-3] la PJF, les divisions Engagement et recherches ainsi que Coopération policière opérationnelle de la division principale Coopération policière internationale et la section Systèmes de police de la division principale Services;
+- a<sup>bis</sup>.[^10-4] l’unité nationale chargée du traitement des données relatives aux passagers aériens (UIP; art. 1, al. 1, let. a, de la loi du 21 mars 2025 sur les données relatives aux passagers aériens[^10-5]), pour vérifier les concordances au cas par cas;
 - b. le Ministère public de la Confédération;
 - c. les autorités cantonales de police et de poursuite pénale;
-- d.[^10-4] fedpol et le Service de renseignement de la Confédération (SRC)[^10-5], pour élaborer des analyses et pour prononcer et lever des mesures d’éloignement contre des étrangers qui menacent la sûreté intérieure ou extérieure de la Suisse;
-- e.[^10-6] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles (LPSE)[^10-7];
-- f.[^10-8] l’Office fédéral des douanes et de la sécurité des frontières (OFDF) dans le cadre de ses tâches douanières et autres que douanières, pour effectuer ses tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population.
+- d.[^10-6] fedpol et le Service de renseignement de la Confédération (SRC)[^10-7], pour élaborer des analyses et pour prononcer et lever des mesures d’éloignement contre des étrangers qui menacent la sûreté intérieure ou extérieure de la Suisse;
+- e.[^10-8] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles (LPSE)[^10-9];
+- f.[^10-10] l’Office fédéral des douanes et de la sécurité des frontières (OFDF) dans le cadre de ses tâches douanières et autres que douanières, pour effectuer ses tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population.
 
 <sup>5</sup> L’accès aux données relatives à une procédure pénale déterminée peut être restreint sur décision du Ministère public de la Confédération.
 
 [^10-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^10-2]: Voir l’annexe 2 ch. I 2, ci-après.
 [^10-3]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-4]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^10-5]: Nouvelle expression selon le ch. I 5 de l’O du 4 déc. 2009 concernant l’adaptation de disp. légales à la suite de la création du Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)). Il a été tenu compte de cette mod. dans tout le texte.
-[^10-6]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^10-7]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
-[^10-8]: Anciennement let. e. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^10-4]: Introduite par l’annexe 3 ch. 6 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^10-5]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^10-6]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^10-7]: Nouvelle expression selon le ch. I 5 de l’O du 4 déc. 2009 concernant l’adaptation de disp. légales à la suite de la création du Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-8]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^10-9]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^10-10]: Anciennement let. e. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 11
 
@@ -281,10 +284,11 @@ Ont accès en ligne à ces données:
 
 - a.[^11-2] la PJF, les divisions Engagement et recherches ainsi que Coopération policière opérationnelle de la division principale Coopération policière internationale et la section Systèmes de police de la division principale Services;
 - b. le Bureau central national Interpol Berne, le Bureau SIRENE, le point de contact national Europol et l’Office fédéral de la justice (OFJ), dans le cadre de l’accomplissement des tâches incombant à ce dernier en vertu de la loi du 20 mars 1981 sur l’entraide pénale internationale[^11-3];
+- b<sup>bis</sup>.[^11-4] l’UIP, pour vérifier les concordances au cas par cas;
 - c. les services cantonaux de police et les services fédéraux désignés par le Conseil fédéral qui, dans le cadre de leurs tâches légales, collaborent avec la PJF;
-- d.[^11-4] fedpol et le SRC, pour élaborer des analyses et pour prononcer et lever des mesures d’éloignement contre des étrangers qui menacent la sûreté intérieure ou extérieure de la Suisse;
-- e.[^11-5] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^11-6];
-- f.[^11-7] l’OFDF dans le cadre de ses tâches douanières et autres que douanières, pour effectuer des tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population.
+- d.[^11-5] fedpol et le SRC, pour élaborer des analyses et pour prononcer et lever des mesures d’éloignement contre des étrangers qui menacent la sûreté intérieure ou extérieure de la Suisse;
+- e.[^11-6] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^11-7];
+- f.[^11-8] l’OFDF dans le cadre de ses tâches douanières et autres que douanières, pour effectuer des tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population.
 
 <sup>6</sup>
 
@@ -297,10 +301,11 @@ Les données personnelles peuvent être collectées par la PJF à l’insu de la
 [^11-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 [^11-2]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^11-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^11-4]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^11-5]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^11-6]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
-[^11-7]: Anciennement let. e. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^11-4]: Introduite par l’annexe 3 ch. 6 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^11-5]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+[^11-6]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^11-7]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^11-8]: Anciennement let. e. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 12
 
@@ -346,16 +351,18 @@ Ont accès en ligne à ces données:
 
 - a.[^12-2] la PJF, les divisions Engagement et recherches ainsi que Coopération policière opérationnelle de la division principale Coopération policière internationale et la section Systèmes de police de la division principale Services;
 - b. le Bureau central national Interpol Berne, le Bureau SIRENE, le point de contact national Europol et l’OFJ, dans le cadre de l’accomplissement des tâches incombant à ce dernier en vertu de la loi du 20 mars 1981 sur l’entraide pénale internationale[^12-3];
+- b<sup>bis</sup>.[^12-4] l’UIP, pour vérifier les concordances au cas par cas;
 - c. les services cantonaux de police et les services fédéraux désignés par le Conseil fédéral qui, dans le cadre de leurs tâches, collaborent avec la PJF;
-- d.[^12-4] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^12-5];
-- e.[^12-6] l’OFDF dans le cadre de ses tâches douanières et autres que douanières, pour effectuer des tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population.
+- d.[^12-5] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^12-6];
+- e.[^12-7] l’OFDF dans le cadre de ses tâches douanières et autres que douanières, pour effectuer des tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population.
 
 [^12-1]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
 [^12-2]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^12-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^12-4]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^12-5]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
-[^12-6]: Anciennement let. d. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^12-4]: Introduite par l’annexe 3 ch. 6 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^12-5]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^12-6]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^12-7]: Anciennement let. d. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 13
 
@@ -455,26 +462,27 @@ Les autorités suivantes peuvent diffuser en ligne des signalements par le biais
 Dans l’accomplissement de leurs tâches, les autorités et les services suivants peuvent consulter en ligne les données du système informatisé:
 
 - a. les autorités mentionnées à l’al. 3;
+- a<sup>bis</sup>.[^15-17] l’UIP, pour procéder à la comparaison automatique et vérifier les concordances au cas par cas;
 - b. le Corps des gardes-frontière et les bureaux de douane;
 - c. les représentations suisses à l’étranger et le service de protection consulaire du Département fédéral des affaires étrangères (DFAE);
 - d. le Secrétariat général d’Interpol et les Bureaux centraux nationaux Interpol d’autres pays, en ce qui concerne la recherche de véhicules et d’objets, à l’exclusion des données se rapportant à des personnes;
 - e. les offices de la circulation routière et de la navigation, en ce qui concerne les véhicules et les embarcations ainsi que les documents et plaques d’immatriculation y afférents;
-- f.[^15-17] ...
+- f.[^15-18] …
 - g. le Secrétariat d’État à l’économie et les autorités cantonales et communales compétentes en matière de migrations et d’emploi, afin de vérifier si un étranger est inscrit dans le système d’information;
-- h. les autorités visées à l’art. 4 de la loi du 22 juin 2001 sur les documents d’identité[^15-18], afin de déterminer s’il existe des motifs empêchant l’établissement de documents d’identité;
-- i. le SRC, pour la recherche du lieu de séjour de personnes et la recherche concernant des véhicules conformément à la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^15-19];
+- h. les autorités visées à l’art. 4 de la loi du 22 juin 2001 sur les documents d’identité[^15-19], afin de déterminer s’il existe des motifs empêchant l’établissement de documents d’identité;
+- i. le SRC, pour la recherche du lieu de séjour de personnes et la recherche concernant des véhicules conformément à la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^15-20];
 - j. l’Office fédéral de l’aviation civile, en ce qui concerne les aéronefs, y compris les documents, moteurs et autres parties identifiables y afférents;
-- k.[^15-20] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^15-21];
-- k<sup>bis</sup>.[^15-22]
+- k.[^15-21] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^15-22];
+- k<sup>bis</sup>.[^15-23]
 
   le SEM, les autorités migratoires cantonales et communales aux fins suivantes:
 
   - 1\. examen des conditions d’entrée et de séjour en Suisse,
-  - 2\. procédure régissant l’acquisition ou la perte de la nationalité dans le cadre de la loi du 20 juin 2014 sur la nationalité suisse (LN)[^15-23];
+  - 2\. procédure régissant l’acquisition ou la perte de la nationalité dans le cadre de la loi du 20 juin 2014 sur la nationalité suisse (LN)[^15-24];
 
-- k<sup>ter</sup>.[^15-24] le SEM, dans le cadre de ses tâches en qualité d’unité nationale ETIAS;
-- l.[^15-25] la police des transports;
-- m[^15-26]. les autres autorités judiciaires et administratives désignées par le Conseil fédéral par voie d’ordonnance.
+- k<sup>ter</sup>.[^15-25] le SEM, dans le cadre de ses tâches en qualité d’unité nationale ETIAS;
+- l.[^15-26] la police des transports;
+- m[^15-27]. les autres autorités judiciaires et administratives désignées par le Conseil fédéral par voie d’ordonnance.
 
 <sup>5</sup> Le système informatisé de recherche de personnes et d’objets et d’autres systèmes d’information peuvent être interconnectés de manière à donner aux utilisateurs mentionnés à l’al. 4 la possibilité de consulter les autres systèmes au moyen d’une seule interrogation, lorsqu’ils disposent des autorisations d’accès nécessaires.
 
@@ -494,16 +502,17 @@ Dans l’accomplissement de leurs tâches, les autorités et les services suivan
 [^15-14]: Nouvelle teneur selon l’annexe ch. I de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen de signalements pour information concernant des ressortissants de pays tiers dans l’intérêt de l’Union, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 435](https://fedlex.data.admin.ch/eli/oc/2026/435); [FF 2024 3015](https://fedlex.data.admin.ch/eli/fga/2024/3015)).
 [^15-15]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^15-16]: Anciennement let. l.
-[^15-17]: Abrogée par l’annexe 2 ch. 6 de la L du 18 déc. 2020 sur la sécurité de l’information, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^15-18]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
-[^15-19]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
-[^15-20]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^15-21]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
-[^15-22]: Anciennement let. k.
-[^15-23]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
-[^15-24]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^15-25]: Anciennement let. k. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^15-26]: Anciennement let. l.
+[^15-17]: Introduite par l’annexe 3 ch. 6 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^15-18]: Abrogée par l’annexe 2 ch. 6 de la L du 18 déc. 2020 sur la sécurité de l’information, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^15-19]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
+[^15-20]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^15-21]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^15-22]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^15-23]: Anciennement let. k.
+[^15-24]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^15-25]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^15-26]: Anciennement let. k. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^15-27]: Anciennement let. l.
 
 ## Section 3*a* Systèmes d’information Schengen/Dublin
 
@@ -534,20 +543,21 @@ Les services fédéraux et cantonaux utilisent le N-SIS dans l’accomplissement
 - j.[^16-9] prévention de l’usage abusif de substances pouvant servir à préparer des substances explosibles;
 - j<sup>bis</sup>[^16-10]. vérification, s’il existe des éléments d’information à prendre en compte, qui sont apparus dans le cadre de la délivrance des autorisations relatives aux armes à feu selon la loi du 20 juin 1997 sur les armes (LArm)[^16-11] et la loi fédérale du 13 décembre 1996 sur le matériel de guerre (LFMG)[^16-12];
 - k. comparaison systématique des données du système d’information sur les passagers avec le N-SIS conformément à l’art. 104*a*, al. 4, LEI;
+- k<sup>bis</sup>.[^16-13] comparaison automatique des données relatives aux passagers aériens et vérification des concordances au cas par cas;
 - l. examen des conditions d’entrée et de séjour des ressortissants d’États tiers en Suisse et prise des décisions y afférentes;
 - m. identification des ressortissants d’États tiers entrés sur le territoire ou séjournant en Suisse de manière illégale;
 - n. identification des requérants d’asile;
-- o.[^16-13] contrôle à la frontière, conformément au règlement (UE) 2016/399 (code frontières Schengen)[^16-14];
-- p. examen des demandes de visas et prise des décisions y afférentes, conformément au règlement (CE) n<sup>o</sup> 810/2009 (code des visas)[^16-15];
-- q. procédure régissant l’acquisition ou la perte de la nationalité dans le cadre de la LN[^16-16];
+- o.[^16-14] contrôle à la frontière, conformément au règlement (UE) 2016/399 (code frontières Schengen)[^16-15];
+- p. examen des demandes de visas et prise des décisions y afférentes, conformément au règlement (CE) n<sup>o</sup> 810/2009 (code des visas)[^16-16];
+- q. procédure régissant l’acquisition ou la perte de la nationalité dans le cadre de la LN[^16-17];
 - r. contrôle douanier sur le territoire suisse;
-- s.[^16-17] examen des demandes d’autorisation de voyage ETIAS et traitement des données dans la liste de surveillance ETIAS en vertu de l’art. 108*a*, al. 2, LEI.
+- s.[^16-18] examen des demandes d’autorisation de voyage ETIAS et traitement des données dans la liste de surveillance ETIAS en vertu de l’art. 108*a*, al. 2, LEI.
 
 <sup>3</sup> Le système contient les données visées à l’art. 15, al. 2. Il peut également contenir des profils d’ADN de personnes disparues, aux fins d’identification.
 
 <sup>4</sup>
 
-Afin d’accomplir les tâches visées à l’al. 2, let. a à g et h à s, les services suivants peuvent annoncer des signalements en vue de leur diffusion dans le SIS:[^16-18]
+Afin d’accomplir les tâches visées à l’al. 2, let. a à g et h à s, les services suivants peuvent annoncer des signalements en vue de leur diffusion dans le SIS:[^16-19]
 
 - a. fedpol;
 - b. le Ministère public de la Confédération;
@@ -560,7 +570,7 @@ Afin d’accomplir les tâches visées à l’al. 2, let. a à g et h à s, les 
 - i. les autorités de justice militaire;
 - j. les autres autorités cantonales désignées par le Conseil fédéral par voie d’ordonnance qui accomplissent des tâches visées à l’al. 2, let. d et e.
 
-<sup>4bis</sup> Fedpol est responsable de la réception et de l’examen des propositions d’Europol conformément à l’art. 37 bis du règlement (UE) 2018/1862[^16-19], ainsi que de la saisie des signalements visés à l’al. 2, let. g<sup>bis</sup> du présent article.[^16-20]
+<sup>4bis</sup> Fedpol est responsable de la réception et de l’examen des propositions d’Europol conformément à l’art. 37 bis du règlement (UE) 2018/1862[^16-20], ainsi que de la saisie des signalements visés à l’al. 2, let. g<sup>bis</sup> du présent article.[^16-21]
 
 <sup>5</sup>
 
@@ -572,7 +582,7 @@ Les services suivants ont accès en ligne aux données figurant dans le N-SIS po
 
   les autorités douanières et de police des frontières aux fins suivantes:
 
-  - 1\.[^16-21] contrôle à la frontière, conformément au code frontières Schengen,
+  - 1\.[^16-22] contrôle à la frontière, conformément au code frontières Schengen,
   - 2\. contrôle douanier sur le territoire suisse;
 
 - d. le SEM, après la comparaison systématique des données du système d’information sur les passagers avec le N-SIS conformément à l’art. 104*a*, al. 4, LEI;
@@ -585,17 +595,17 @@ Les services suivants ont accès en ligne aux données figurant dans le N-SIS po
   - 2\. procédure régissant l’acquisition ou la perte de la nationalité dans le cadre de la LN;
 
 - g. le SEM et les autorités cantonales migratoires et policières, aux fins d’identification des requérants d’asile et des ressortissants d’États tiers entrés ou séjournant de manière illégale en Suisse;
-- g<sup>bis</sup>.[^16-22] le SEM, dans le cadre de ses tâches en qualité d’unité nationale ETIAS;
+- g<sup>bis</sup>.[^16-23] le SEM, dans le cadre de ses tâches en qualité d’unité nationale ETIAS;
 - h. les autorités qui ordonnent et exécutent les mesures d’éloignement en vertu des art. 121, al. 2, Cst., 66*a* ou 66*a*<sup>bis</sup> CP ou 49*a* ou 49*a*<sup>bis</sup> CPM, de la LEI ou de la LAsi;
 - i. fedpol, le SECO et les autorités cantonales chargées de la délivrance des autorisations relatives aux armes à feu selon la LArm et la LFMG;
 - j. l’Office fédéral de l’aviation civile;
 - k. les offices de la circulation routière et de la navigation.
 
-<sup>6</sup> …[^16-23]
+<sup>6</sup> …[^16-24]
 
 <sup>7</sup> Pour autant qu’ils y soient dûment habilités, les utilisateurs peuvent consulter les données du N-SIS par le biais d’une interface commune à d’autres systèmes d’information.
 
-<sup>8</sup> Les données contenues dans le système de recherches informatisées de police, dans le système d’identification informatisé des empreintes digitale prévu à l’art. 354 CP et dans le système d’information central sur la migration prévu à l’art. 1 de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^16-24] peuvent, si nécessaire, être transférées dans le N-SIS par une procédure informatisée.
+<sup>8</sup> Les données contenues dans le système de recherches informatisées de police, dans le système d’identification informatisé des empreintes digitale prévu à l’art. 354 CP et dans le système d’information central sur la migration prévu à l’art. 1 de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^16-25] peuvent, si nécessaire, être transférées dans le N-SIS par une procédure informatisée.
 
 <sup>9</sup>
 
@@ -616,7 +626,7 @@ Le Conseil fédéral se fonde sur les accords d’association à Schengen pour r
 
 - g. la responsabilité des organes fédéraux et cantonaux chargés de la protection des données.
 
-<sup>10</sup> S’agissant des droits visés à l’al. 9, let. e et f, l’art. 8 de la présente loi et les art. 63 à 66 LRens[^16-25] sont réservés.
+<sup>10</sup> S’agissant des droits visés à l’al. 9, let. e et f, l’art. 8 de la présente loi et les art. 63 à 66 LRens[^16-26] sont réservés.
 
 [^16-1]: Nouvelle teneur selon l’annexe 1 ch. 5 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), les al. 6 à 10 en vigueur depuis le 1<sup>er</sup> juil. 2021, les autres dispositions, en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 637](https://fedlex.data.admin.ch/eli/oc/2022/637); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^16-2]: Nouvelle teneur selon l’annexe 2 ch. III de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
@@ -630,19 +640,20 @@ Le Conseil fédéral se fonde sur les accords d’association à Schengen pour r
 [^16-10]: Anciennement let. j.
 [^16-11]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^16-12]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
-[^16-13]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2024/1717 modifiant le règlement (UE) 2016/399 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes, en vigueur depuis le 12 juin 2026 ([RO 2026 198](https://fedlex.data.admin.ch/eli/oc/2026/198); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
-[^16-14]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.6.2024
-[^16-15]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1155, JO L 77 du 12.7.2019, p. 25.
-[^16-16]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
-[^16-17]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^16-18]: Nouvelle teneur selon l’annexe ch. I de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règle-ment (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen de signalements pour in-formation concernant des ressortissants de pays tiers dans l’intérêt de l’Union, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 435](https://fedlex.data.admin.ch/eli/oc/2026/435); [FF 2024 3015](https://fedlex.data.admin.ch/eli/fga/2024/3015)).
-[^16-19]: Règlement (UE) 2018/1862 du Parlement européen et du Conseil du 28 novembre 2018 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS) dans le domaine de la coopération policière et de la coopération judiciaire en matière pénale, modifiant et abrogeant la décision 2007/533/JAI du Conseil, et abrogeant le règlement (CE) n<sup>o</sup> 1986/2006 du Parlement européen et du Conseil et la décision 2010/261/UE de la Commission, JO L 312 du 7.12.2018, p. 56; modifié en dernier lieu par le règlement (UE) 2022/1190, JO L 185 du 12.7.2022, p. 1.
-[^16-20]: Introduit par l’annexe ch. I de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen de signalements pour information concernant des ressortissants de pays tiers dans l’intérêt de l’Union, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 435](https://fedlex.data.admin.ch/eli/oc/2026/435); [FF 2024 3015](https://fedlex.data.admin.ch/eli/fga/2024/3015)).
-[^16-21]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2024/1717 modifiant le règlement (UE) 2016/399 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes, en vigueur depuis le 12 juin 2026 ([RO 2026 198](https://fedlex.data.admin.ch/eli/oc/2026/198); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
-[^16-22]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^16-23]: Abrogé par l’annexe ch. I de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen de signalements pour information concernant des ressortissants de pays tiers dans l’intérêt de l’Union, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 435](https://fedlex.data.admin.ch/eli/oc/2026/435); [FF 2024 3015](https://fedlex.data.admin.ch/eli/fga/2024/3015)).
-[^16-24]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
-[^16-25]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^16-13]: Introduite par l’annexe 3 ch. 6 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^16-14]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2024/1717 modifiant le règlement (UE) 2016/399 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes, en vigueur depuis le 12 juin 2026 ([RO 2026 198](https://fedlex.data.admin.ch/eli/oc/2026/198); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
+[^16-15]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.6.2024
+[^16-16]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1155, JO L 77 du 12.7.2019, p. 25.
+[^16-17]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^16-18]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16-19]: Nouvelle teneur selon l’annexe ch. I de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règle-ment (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen de signalements pour in-formation concernant des ressortissants de pays tiers dans l’intérêt de l’Union, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 435](https://fedlex.data.admin.ch/eli/oc/2026/435); [FF 2024 3015](https://fedlex.data.admin.ch/eli/fga/2024/3015)).
+[^16-20]: Règlement (UE) 2018/1862 du Parlement européen et du Conseil du 28 novembre 2018 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS) dans le domaine de la coopération policière et de la coopération judiciaire en matière pénale, modifiant et abrogeant la décision 2007/533/JAI du Conseil, et abrogeant le règlement (CE) n<sup>o</sup> 1986/2006 du Parlement européen et du Conseil et la décision 2010/261/UE de la Commission, JO L 312 du 7.12.2018, p. 56; modifié en dernier lieu par le règlement (UE) 2022/1190, JO L 185 du 12.7.2022, p. 1.
+[^16-21]: Introduit par l’annexe ch. I de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen de signalements pour information concernant des ressortissants de pays tiers dans l’intérêt de l’Union, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 435](https://fedlex.data.admin.ch/eli/oc/2026/435); [FF 2024 3015](https://fedlex.data.admin.ch/eli/fga/2024/3015)).
+[^16-22]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2024/1717 modifiant le règlement (UE) 2016/399 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes, en vigueur depuis le 12 juin 2026 ([RO 2026 198](https://fedlex.data.admin.ch/eli/oc/2026/198); [FF 2025 1146](https://fedlex.data.admin.ch/eli/fga/2025/1146)).
+[^16-23]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^16-24]: Abrogé par l’annexe ch. I de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2022/1190 modifiant le règlement (UE) 2018/1862 en ce qui concerne l’introduction dans le système d’information Schengen de signalements pour information concernant des ressortissants de pays tiers dans l’intérêt de l’Union, avec effet au 1<sup>er</sup> oct. 2026 ([RO 2026 435](https://fedlex.data.admin.ch/eli/oc/2026/435); [FF 2024 3015](https://fedlex.data.admin.ch/eli/fga/2024/3015)).
+[^16-25]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^16-26]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 16a
 
@@ -780,21 +791,22 @@ L’index contient les informations suivantes:
 Ont accès en ligne à ces données:[^17-1]
 
 - a. la PJF;
+- a<sup>bis</sup>.[^17-2] l’UIP, pour vérifier les concordances au cas par cas;
 - b. le Ministère public de la Confédération et les autorités cantonales de poursuite pénale;
 - c. le SRC;
 - d. le Service fédéral de sécurité;
 - e. le Bureau de communication en matière de blanchiment d’argent;
 - f. les autorités cantonales de police;
 - g. le service chargé de l’exploitation du système de recherches informatisées de police;
-- h. l’OFJ, pour l’accomplissement des tâches qui lui incombent en vertu de la loi du 20 mars 1981 sur l’entraide internationale en matière pénale[^17-2];
+- h. l’OFJ, pour l’accomplissement des tâches qui lui incombent en vertu de la loi du 20 mars 1981 sur l’entraide internationale en matière pénale[^17-3];
 - i. le Corps des gardes-frontière et le service antifraude douanier;
 - j. la sécurité militaire;
 - k. les autorités de la justice militaire;
-- l.[^17-3] les services spécialisés chargés des contrôles de sécurité relatifs à des personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^17-4], afin d’évaluer le risque pour la sécurité dans le cadre d’un contrôle de sécurité relatif aux personnes, d’un contrôle de loyauté ou d’une évaluation du potentiel de violence[^17-5];
-- m.[^17-6] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^17-7].
-- n.[^17-8] le SEM, pour l’accomplissement des tâches qui lui incombent en vertu des art. 5, al. 1, let. c, 98*c* et 99 LEI[^17-9] et 5*a*, 26, al. 2, et 53, let. b, de la loi du 26 juin 1998 sur l’asile[^17-10];
-- o.[^17-11] le SEM, dans le cadre de ses tâches en qualité d’unité nationale ETIAS;
-- p.[^17-12] le Département fédéral des finances, pour l’accomplissement des tâches qui lui incombent en vertu des art. 35 à 39 de la loi du 26 septembre 2025 sur la transparence des personnes morales[^17-13].
+- l.[^17-4] les services spécialisés chargés des contrôles de sécurité relatifs à des personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI)[^17-5], afin d’évaluer le risque pour la sécurité dans le cadre d’un contrôle de sécurité relatif aux personnes, d’un contrôle de loyauté ou d’une évaluation du potentiel de violence[^17-6];
+- m.[^17-7] fedpol, pour traiter les demandes d’autorisation, vérifier les autorisations et traiter les signalements d’événements suspects conformément à la LPSE[^17-8].
+- n.[^17-9] le SEM, pour l’accomplissement des tâches qui lui incombent en vertu des art. 5, al. 1, let. c, 98*c* et 99 LEI[^17-10] et 5*a*, 26, al. 2, et 53, let. b, de la loi du 26 juin 1998 sur l’asile[^17-11];
+- o.[^17-12] le SEM, dans le cadre de ses tâches en qualité d’unité nationale ETIAS;
+- p.[^17-13] le Département fédéral des finances, pour l’accomplissement des tâches qui lui incombent en vertu des art. 35 à 39 de la loi du 26 septembre 2025 sur la transparence des personnes morales[^17-14].
 
 <sup>5</sup> Le Conseil fédéral est habilité à restreindre l’accès à l’index des utilisateurs mentionnés à l’al. 4. Ces restrictions peuvent porter tant sur les données énumérées à l’al. 3 que sur les systèmes visés à l’al. 1.
 
@@ -810,18 +822,19 @@ Les autorités cantonales décident librement du raccordement de leur système �
 - b. les normes informatiques arrêtées par la Confédération pour faciliter l’échange de données.
 
 [^17-1]: Nouvelle teneur selon l’annexe 1 ch. 11 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^17-2]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^17-3]: Nouvelle teneur selon l’annexe 1 ch. 11 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^17-4]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
-[^17-5]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^17-6]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
-[^17-7]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
-[^17-8]: Anciennement let. m. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^17-9]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^17-10]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
-[^17-11]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^17-12]: Introduite par l’annexe ch. 5 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
-[^17-13]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
+[^17-2]: Introduite par l’annexe 3 ch. 6 de la LF du 21 mars 2025 sur les données relatives aux passagers aériens, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2025 739](https://fedlex.data.admin.ch/eli/oc/2025/739); [2026 510](https://fedlex.data.admin.ch/eli/oc/2026/510); [FF 2024 1485](https://fedlex.data.admin.ch/eli/fga/2024/1485)).
+[^17-3]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^17-4]: Nouvelle teneur selon l’annexe 1 ch. 11 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^17-5]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^17-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^17-7]: Introduite par l’annexe ch. 3 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^17-8]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^17-9]: Anciennement let. m. Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^17-10]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^17-11]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^17-12]: Introduite par l’annexe ch. 4 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^17-13]: Introduite par l’annexe ch. 5 de la LF du 26 sept. 2025 sur la transparence des personnes morales, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 323](https://fedlex.data.admin.ch/eli/oc/2026/323); [FF 2024 1607](https://fedlex.data.admin.ch/eli/fga/2024/1607)).
+[^17-14]: [RS 955.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40441)
 
 #### Art. 17a
 
