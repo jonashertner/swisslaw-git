@@ -4,11 +4,11 @@ title: Ordinanza del 28 giugno 2000 sulla pianificazione del territorio (OPT)
 short: OPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: it
-version: 2026-07-01
+version: 2026-11-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20261101/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20261101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20261101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260701/it"
 
 (OPT)
 
-del 28 giugno 2000 (Stato 1° luglio 2026)
+del 28 giugno 2000 (Stato 1° novembre 2026)
 
 Il Consiglio federale svizzero,
 
@@ -682,19 +682,25 @@ Fatte salve disposizioni diverse del diritto cantonale, devono soddisfare inoltr
 
 **Impianti solari su monumenti culturali**
 
+<sup>1</sup>
+
 Per monumenti culturali di importanza cantonale e nazionale (art. 18*a* cpv. 3 LPT) si intendono:
 
 - a.[^32b-1] beni culturali secondo l’articolo 1 lettere a e b dell’ordinanza del 29 ottobre 2014[^32b-2] sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza;
-- b. perimetri edificati, gruppi edilizi ed elementi eminenti annoverati nell’Inventario federale degli abitati meritevoli di protezione, d’importanza nazionale e appartenenti alla categoria di rilievo A[^32b-3];
-- c. beni culturali di importanza nazionale o regionale annoverati in un altro inventario che la Confederazione ha adottato in virtù della legge del 1° luglio 1966[^32b-4] sulla protezione della natura e del paesaggio (LPN);
+- b.[^32b-3] componenti dell’insediamento rispettivamente perimetri edificati, gruppi edilizi ed elementi eminenti annoverati nell’Inventario federale degli insediamenti svizzeri da proteggere d’importanza nazionale associati all’obiettivo di conservazione «conservazione della sostanza» ai sensi dell’articolo 9 capoverso 4 lettera a prima parte del periodo dell’ordinanza del 13 novembre 2019[^32b-4] riguardante l’inventario federale degli insediamenti svizzeri da proteggere;
+- c. beni culturali di importanza nazionale o regionale annoverati in un altro inventario che la Confederazione ha adottato in virtù della legge del 1° luglio 1966[^32b-5] sulla protezione della natura e del paesaggio (LPN);
 - d. beni culturali di importanza nazionale o regionale per i quali sono stati concessi sussidi federali ai sensi dell’articolo 13 LPN;
 - e. edifici e impianti che, in quanto degni di protezione, rientrano nel campo d’applicazione dell’articolo 24*d* capoverso 2 LPT o dell’articolo 39 capoverso 2 della presente ordinanza;
 - f. oggetti che, nel piano direttore approvato dalla Confederazione, sono designati quali monumenti culturali di importanza cantonale ai sensi dell’articolo 18*a* capoverso 3 LPT.
 
+<sup>2</sup> Gli edifici nuovi e sostitutivi all’interno di una componente dell’insediamento rispettivamente di un perimetro edificato o di un gruppo edilizio ai sensi del capoverso 1 lettera b sono considerati parte di un monumento culturale d’importanza nazionale una volta avvenuto il collaudo dell’opera da parte dell’autorità competente. Se nell’ambito della realizzazione di un edificio nuovo o sostitutivo viene installato su di esso un impianto solare, si applica l’articolo 18*a* capoverso 1 LPT. Sono fatte salve le disposizioni del diritto cantonale ai sensi dell’articolo 18*a* capoverso 2 lettera b LPT.[^32b-6]
+
 [^32b-1]: Nuovo testo giusta l’all. cifra II n. 3 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza, in vigore dal 1° gen. 2015 ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
 [^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
-[^32b-3]: I singoli oggetti possono essere visualizzati presso l’Organo di coordinamento nel settore della geoinformazione della Confederazione a questo indirizzo: map.geo.admin.ch &gt; Geocatalogo &gt; Popolazione ed economia &gt; Società e cultura &gt; Inventario federale ISOS.
-[^32b-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^32b-3]: Nuovo testo giusta la cifra III dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
+[^32b-4]: [RS 451.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7169)
+[^32b-5]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^32b-6]: Introdotto dalla cifra III dell’O del 18 set. 2026, in vigore dal 1° nov. 2026 ([RU 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 32c
 
@@ -879,7 +885,7 @@ Sono ammessi edifici e impianti necessari per:
 
 - a. la produzione di combustibili o carburanti;
 - b. la produzione di elettricità con recupero di calore dai combustibili o dai carburanti ottenuti;
-- c.[^34a-2] ...
+- c.[^34a-2] …
 - d. le condotte per il trasporto dell’energia prodotta a utenti adeguati nonché le condotte per il trasporto della biomassa e per lo sgombero delle sostanze residue della produzione di energia;
 - e. il trattamento della biomassa fornita e delle sostanze residue della produzione di energia.
 
@@ -1023,7 +1029,7 @@ In caso di reclami per gli odori o le immissioni foniche, di eventuale inosserva
 
 **Edifici tipici del paesaggio[^39-1]**
 
-<sup>1</sup> ...[^39-2]
+<sup>1</sup> …[^39-2]
 
 <sup>2</sup>
 
@@ -1135,7 +1141,7 @@ Il quesito se l’identità dell’edificio o dell’impianto rimanga sostanzial
 
 <sup>1</sup> La tenuta di animali a scopo di hobby è considerata un ampliamento dell’utilizzazione a scopo abitativo dell’abitazione situata nelle vicinanze. Essa è computata solamente nei casi di cui all’articolo 42 capoverso 3 lettera b e unicamente come superficie accessoria lorda.[^42b-3]
 
-<sup>2</sup> *...*[^42b-4]
+<sup>2</sup> …[^42b-4]
 
 <sup>3</sup> Possono essere tenuti soltanto tanti animali quanti gli abitanti degli edifici situati nelle vicinanze sono in grado di accudire personalmente.[^42b-5]
 
@@ -1183,7 +1189,7 @@ Cambiamenti di destinazione e ampliamenti di edifici e impianti usati a scopo co
 - a. l’edificio o l’impianto è stato legalmente costruito o modificato;
 - b. non insorgono nuove implicazioni rilevanti su territorio e ambiente;
 - c. la nuova utilizzazione non è inammissibile secondo un altro atto legislativo federale.
-- [tab] d. a f.[^43-2]…
+- [tab] d.–f.[^43-2]…
 
 <sup>2</sup> La superficie utilizzata in modo non conforme alla destinazione della zona può essere ampliata del 30 per cento; gli ampliamenti all’interno del volume esistente dell’edificio sono computati soltanto per la metà.
 
@@ -1499,7 +1505,7 @@ Allegato 3[^t-3]
 
 ## Delimitazione di nuove zone edificabili inammissibile a causa della mancanza di una regolamentazione conforme al diritto federale in merito alla compensazione di vantaggi derivanti da pianificazioni
 
-[^t-3]: Originario all. Introdotto dalla cifra I dell’O del 10 apr. 2019 ([RU 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Aggiornato dal n. I delle O del 13 nov. 2019 ([RU 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), del 29 gen. 2020 ([RU 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), del 29 apr. 2020 ([RU 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) e dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
+[^t-3]: Originario all. Introdotto dalla cifra I dell’O del 10 apr. 2019 ([RU 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Aggiornato dalla cifra I delle O del 13 nov. 2019 ([RU 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), del 29 gen. 2020 ([RU 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), del 29 apr. 2020 ([RU 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) e dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
 
 In virtù dell’articolo 38*a* capoverso 5 LPT e dell’articolo 52*a* capoverso 5 della presente ordinanza, nei seguenti Cantoni la delimitazione di nuove zone edificabili non è ammessa:
 

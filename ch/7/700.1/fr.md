@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'aménagement du territoire (OAT)"
 short: OAT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: fr
-version: 2026-07-01
+version: 2026-11-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260701/fr"
 
 (OAT)
 
-du 28 juin 2000 (État le 1<sup>er</sup> juillet 2026)
+du 28 juin 2000 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -680,19 +680,25 @@ Sauf disposition contraire du droit cantonal, elles doivent en sus remplir les c
 
 **Installations solaires sur des biens culturels**
 
+<sup>1</sup>
+
 Sont considérés comme des biens culturels d’importance cantonale ou nationale (art. 18*a*, al. 3, LAT):
 
 - a.[^32b-1] les biens culturels au sens de l’art. 1, let. a et b, de l’ordonnance du 29 octobre 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence[^32b-2];
-- b. les périmètres, ensembles et éléments individuels figurant à l’Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse et assortis d’un objectif de sauvegarde A[^32b-3];
-- c. les biens culturels d’importance nationale ou régionale répertoriés dans un autre inventaire adopté par la Confédération sur la base de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^32b-4];
+- b.[^32b-3] les parties de site, respectivement les périmètres, ensembles et éléments individuels figurant à l’Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse et assortis de l’objectif «sauvegarde de la substance» visé à l’art. 9, al. 4, let. a, première partie de la phrase, de l’ordonnance du 13 novembre 2019 concernant l’Inventaire fédéral des sites construits à protéger en Suisse[^32b-4];
+- c. les biens culturels d’importance nationale ou régionale répertoriés dans un autre inventaire adopté par la Confédération sur la base de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^32b-5];
 - d. les biens culturels d’importance nationale ou régionale auxquels des contributions fédérales au sens de l’art. 13 LPN ont été accordées;
 - e. les constructions et installations entrant dans le champ d’application de l’art. 24*d*, al. 2, LAT ou de l’art. 39, al. 2, de la présente ordonnance en raison de la protection dont elles bénéficient;
 - f. les objets qui, dans le plan directeur approuvé par la Confédération, sont désignés comme étant des biens culturels d’importance cantonale au sens de l’art. 18*a*, al. 3, LAT.
 
+<sup>2</sup> Les nouvelles constructions et les constructions de remplacement édifiées dans une partie de site, respectivement un périmètre ou un ensemble visé à l’al. 1, let. b, font partie d’un bien culturel d’importance nationale dès le moment de la réception de l’ouvrage par l’autorité compétente. Si l’édification de la nouvelle construction ou de la construction de remplacement inclut la pose d’une installation solaire sur l’ouvrage ou contre celui-ci, l’art. 18*a*, al. 1, LAT s’applique. Sont réservées les dispositions du droit cantonal visées à l’art. 18*a*, al. 2, let. b, LAT.[^32b-6]
+
 [^32b-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janvier 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
 [^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
-[^32b-3]: La carte des objets peut être consultée gratuitement sur le site de l’organe de coordination de la géoinformation au niveau fédéral à l’adresse suivante: map.geo.admin.ch &gt; Géocatalogue &gt; Population et économie &gt; Société, culture &gt; Inventaire fédéral ISOS.
-[^32b-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^32b-3]: Nouvelle teneur selon le ch. III de l’O du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
+[^32b-4]: [RS 451.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7169)
+[^32b-5]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^32b-6]: Introduit par le ch. III de l’O du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 488](https://fedlex.data.admin.ch/eli/oc/2026/488)).
 
 #### Art. 32c
 
