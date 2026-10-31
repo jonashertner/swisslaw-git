@@ -4,11 +4,11 @@ title: "Ordonnance du 18 décembre 2013 sur le système central d'information su
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: fr
-version: 2026-10-01
+version: 2026-11-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20261001/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20261001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20261001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20261101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-2-20261101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20261101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20261001/fr"
 
 (Ordonnance VIS, OVIS)
 
-du 18 décembre 2013 (État le 1<sup>er</sup> octobre 2026)
+du 18 décembre 2013 (État le 1<sup>er</sup> novembre 2026)
 
 Le Conseil fédéral suisse,
 
@@ -218,18 +218,19 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 
   - 5\. le service compétent en matière de documents d’identité et de recherches de personnes disparues: pour les recherches concernant la résidence de ces personnes,
   - 6\. le service chargé de la gestion du système d’identification automatique par empreintes digitales (AFIS): pour l’identification de personnes visée à l’art. 102, al. 1, LEI,
-  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-7];
+  - 7\. le service en charge du Bureau de communication en matière de blanchiment d’argent: en vue de l’identification de personnes et de leur statut légal en relation avec ses obligations légales de lutte contre le blanchiment d’argent et ses infractions préalables, la criminalité organisée et le financement du terrorisme selon l’art. 23 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^10-7],
+  - 8\.[^10-8] l’unité nationale chargée du traitement des données relatives aux passagers aériens: pour la vérification de l’identité des passagers aériens (art. 6, al. 3, let. b, ch. 2, de la loi du 21 mars 2025 sur les données relatives aux passagers aériens[^10-9]);
 
-- g.[^10-8] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
+- g.[^10-10] les autorités cantonales et communales chargées des questions relatives aux étrangers et les autorités cantonales et communales de police: pour l’accomplissement des tâches qui leur sont assignées dans le domaine des étrangers;
 - h. les offices de l’état civil et leurs autorités de surveillance, ainsi que l’Office fédéral de l’état civil: pour la vérification de la légalité du séjour en Suisse des fiancés qui ne sont pas citoyens suisses et pour la communication à l’autorité compétente de l’identité des fiancés qui n’ont pas établi la légalité de leur séjour;
 - i.
 
   les services suivants de l’Office fédéral de la justice (OFJ):
 
-  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-9],
-  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-10];
+  - 1\. le domaine de direction Entraide judiciaire internationale: en relation avec la procédure d’entraide judiciaire internationale visée par la loi du 20 mars 1981 sur l’entraide pénale internationale[^10-11],
+  - 2\. le domaine de direction Droit privé: en relation avec la procédure régie par la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^10-12];
 
-- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-11];
+- j. le Service de renseignement de la Confédération: pour l’examen de mesures d’éloignement destinées à sauvegarder la sûreté intérieure et extérieure de la Suisse conformément à la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^10-13];
 - k. le Tribunal administratif fédéral: pour l’instruction des recours conformément à la LEI;
 - l.
 
@@ -238,14 +239,14 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
   - 1\. au prélèvement de la taxe sur la valeur ajoutée portant sur les prestations que les assujettis fournissent à titre onéreux sur le territoire suisse (impôt grevant les opérations réalisées sur le territoire suisse) et sur l’acquisition, par un destinataire se trouvant sur le territoire suisse, de prestations fournies par une entreprise ayant son siège à l’étranger (impôt sur les acquisitions), ainsi qu’à l’application de l’impôt anticipé,
   - 2\. à l’exécution de procédures pénales et de procédures d’assistance administrative ou d’entraide judiciaire;
 
-- m.[^10-12]
+- m.[^10-14]
 
-  l’Office fédéral de la douane et de la sécurité des frontières[^10-13]:
+  l’Office fédéral de la douane et de la sécurité des frontières[^10-15]:
 
   - 1\. pour l’accomplissement des tâches liées au prélèvement de la taxe sur la valeur ajoutée portant sur l’importation de biens (impôt sur les importations),
   - 2\. pour l’identification des personnes dans le cadre de l’exécution des tâches de la division principale Antifraude douanière;
 
-- n.[^10-14] …
+- n.[^10-16] …
 
 <sup>2</sup> Les droits d’accès sont réglés à l’annexe 2.
 
@@ -256,13 +257,15 @@ Afin d’accomplir les tâches qui leurs sont assignées, les services suivants 
 [^10-5]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
 [^10-6]: Nouvelle expression selon le ch. I al. 1 de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Il a été tenu compte de cette mod. dans tout le texte.
 [^10-7]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^10-8]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-9]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^10-10]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
-[^10-11]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^10-12]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-13]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
-[^10-14]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-8]: Introduit par le ch. I de l’O du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 512](https://fedlex.data.admin.ch/eli/oc/2026/512)).
+[^10-9]: [RS 129](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40121)
+[^10-10]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-11]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-12]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-13]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-14]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-15]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^10-16]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Chapitre 3 Système central d’information sur les visas
 
@@ -812,132 +815,136 @@ Annexe 2[^t-2]
 
 ## Droits d’accès à ORBIS
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020 ([RO 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)). Mise à jour par l’annexe 3 ch. 4 de l’O du 26 août 2026 sur les systèmes européen et national d’information et d’autorisation concernant les voyages, en vigueur depuis le 1<sup>er</sup> oct. 2026 ([RO 2026 474](https://fedlex.data.admin.ch/eli/oc/2026/474)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 18 sept. 2026, en vigueur depuis le 1<sup>er</sup> nov. 2026 ([RO 2026 512](https://fedlex.data.admin.ch/eli/oc/2026/512)).
 
 ### Légende
 
-Niveaux d’accès:
+Niveaux d’accès
 
 - A Consulter en ligne
 - B Traiter et transférer les données au C-VIS conformément au règlement VIS UE[^annex2-lvlu1-lvlu1-1]
 - Vide Pas d’accès
 
-Unités organisationnelles:
+Unités organisationnelles
 
-- AFC Administration fédérale des contributions
-- CdC Centrale de compensation
-- CP Autorités cantonales et communales de police opérant sur le territoire suisse dans le cadre des tâches du droit des étrangers
-- DFAE Département fédéral des affaires étrangères (Secrétariat d’État, Direction consulaire et Direction politique)
-- EC Offices de l’état civil et leurs autorités de surveillance, ainsi que l’Office fédéral de l’état civil
-- Fedpol Office fédéral de la police, Service juridique, Police judiciaire fédérale (PJF), Bureau central national INTERPOL, Centrale d’engagement et d’alarme, Division Documents d’identité et services centraux, Division Identification biométrique, Section MROS, Division Recherches et surveillance
-- MIGRA Autorités cantonales, régionales et communales chargées des questions relatives aux étrangers
-- OCF Organes fédéraux et cantonaux procédant à des contrôles à la frontière extérieure Schengen et sur le territoire suisse, émetteurs de visas
-- OFDF Office fédéral de la douane et de la sécurité des frontières, y compris le Domaine de direction Poursuite pénales
-- OFJ Office fédéral de la justice, Division de l’entraide judiciaire internationale, Domaine de direction Droit privé
-- RSE Représentations suisses à l’étranger et Mission suisse auprès de l’ONU à Genève
-- – CT Collaborateur transférable ou collaborateur responsable avec compétence de décision sur les demandes de visas
-- – CL Collaborateur local, sans compétence décisionnelle
-- SEM Secrétariat d’État aux migrations
-- – I Section informatique et service des statistiques, division Admission Séjour et division Entrée, service des dossiers
-- – II Domaine de direction Asile, division Admission Marché du travail, collaborateurs de l’unité nationale ETIAS
-- SRC Service de renseignement de la Confédération
-- TAF Tribunal administratif fédéral: quatrième, cinquième et sixième cours
+<table>
+<tr><td>AFC</td><td>Administration fédérale des contributions</td></tr>
+<tr><td>CdC</td><td>Centrale de compensation</td></tr>
+<tr><td>CP</td><td>Autorités cantonales et communales de police opérant sur le territoire suisse dans le cadre des tâches du droit des étrangers</td></tr>
+<tr><td>DFAE</td><td>Département fédéral des affaires étrangères (Secrétariat d’État, Direction consulaire et Direction politique)</td></tr>
+<tr><td>EC</td><td>Offices de l’état civil et leurs autorités de surveillance, ainsi que l’Office fédéral de l’état civil</td></tr>
+<tr><td>fedpol</td><td>Office fédéral de la police</td></tr>
+<tr><td>– I</td><td>Service juridique, Police judiciaire fédérale (PJF), Bureau central national Interpol, Centrale d’engagement, Division Documents d’identité et offices centraux, Division Identification biométrique, Division MROS, Division Recherches et surveillance</td></tr>
+<tr><td>– II</td><td>Unité nationale chargée du traitement des données relatives aux passagers aériens (Unité d’information passagers, UIP)</td></tr>
+<tr><td>MIGRA</td><td>Autorités cantonales, régionales et communales chargées des questions relatives aux étrangers</td></tr>
+<tr><td>OCF</td><td>Organes fédéraux et cantonaux procédant à des contrôles à la frontière extérieure Schengen et sur le territoire suisse, émetteurs de visas</td></tr>
+<tr><td>OFDF</td><td>Office fédéral de la douane et de la sécurité des frontières, y compris le Domaine de direction Poursuite pénales</td></tr>
+<tr><td>OFJ</td><td>Office fédéral de la justice, Division de l’entraide judiciaire internationale, Domaine de direction Droit privé</td></tr>
+<tr><td>RSE</td><td>Représentations suisses à l’étranger et Mission suisse auprès de l’ONU à Genève</td></tr>
+<tr><td>– CT</td><td>Collaborateur transférable ou collaborateur responsable avec compétence de décision sur les demandes de visas</td></tr>
+<tr><td>– CL</td><td>Collaborateur local, sans compétence décisionnelle</td></tr>
+<tr><td>SEM</td><td>Secrétariat d’État aux migrations</td></tr>
+<tr><td>– I</td><td>Section informatique et service des statistiques, Division Admission Séjour et division Entrée, Service des dossiers</td></tr>
+<tr><td>– II</td><td>Domaine de direction Asile, Division Admission Marché du travail</td></tr>
+<tr><td>SRC</td><td>Service de renseignement de la Confédération</td></tr>
+<tr><td>TAF</td><td>Tribunal administratif fédéral: quatrième, cinquième et sixième cours</td></tr>
+</table>
 
 [^annex2-lvlu1-lvlu1-1]: Cf. note de bas de page relative à l’art. 2, let. a.
 
 ### ORBIS
 
 <table>
-<tr><th>Dénomination des champs de données</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th>OCF</th><th>CP</th><th>EC</th><th>Fedpol</th><th>SRC</th><th>TAF</th><th>RSE CT</th><th>RSE CL</th><th>DFAE</th><th>CdC</th><th>OFJ</th><th>AFC</th><th>OFDF</th></tr>
-<tr><td colspan="17">I. Données du dépôt de la demande</td></tr>
-<tr><td>Numéro de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>État de la procédure: demande déposée</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Sur mandat de représentation d’un autre État Schengen (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Noms</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Prénoms</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Date de naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Lieu de naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nationalité actuelle et à la naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Pays de naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Sexe</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type de document de voyage</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Autorité émettrice</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Numéro du document</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dates de délivrance et d’expiration</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Lieu et date de la demande</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Hôte et/ou garant (noms, prénoms, adresse); si organisation ou société: nom et adresse de la société ou de l’organisation, nom et prénom de l’interlocuteur au sein de celle-ci</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>États Schengen de destination</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Durée du séjour ou du transit prévu</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Buts principaux du voyage</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dates prévues d’arrivée et de départ de l’espace Schengen</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>État Schengen de la première entrée</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Adresse du domicile du demandeur</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Profession actuelle et employeur; pour les étudiants: nom de l’établissement scolaire</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Pour les mineurs: nom et prénom des titulaires de l’autorité parentale ou du tuteur légal</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td></tr>
-<tr><td>Photographie du demandeur</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Empreintes digitales du demandeur</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="17">II. Données en cas de délivrance du visa</td></tr>
-<tr><td>État de la procédure: délivré</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Sur mandat de représentation d’un autre État Schengen (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Territoire sur lequel le titulaire est autorisé à voyager conformément au code des visas UE[^annex2-lvlu1-lvlu2-1]</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nombre d’entrées autorisées durant la période de validité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Durée de validité du visa: dates de début et de fin</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Catégorie de visa</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Numéro de la vignette visa</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visa délivré sur un feuillet séparé (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Vignette visa remplie à la main</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="17">III. Données en cas d’interruption de l’examen de la demande</td></tr>
-<tr><td>État de la procédure: interrompu</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>État Schengen compétent pour traiter la demande</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="17">IV. Données en cas de refus du visa</td></tr>
-<tr><td>État de la procédure: refusé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Sur mandat de représentation d’un autre État Schengen (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nom et adresse de l’autorité compétente</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Motifs du refus</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="17">V. Données en cas d’annulation ou de révocation du visa</td></tr>
-<tr><td>État de la procédure: annulation/ révocation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nouvelle date d’expiration</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Motifs de l’annulation ou de la révocation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="17">VI. Données en cas de prolongation du visa</td></tr>
-<tr><td>État de la procédure: prolongation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dates de début et de fin de la période prolongée</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Numéro de la vignette visa du visa prolongé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Durée de la prolongation du séjour autorisé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Territoire sur lequel le titulaire du visa est autorisé à voyager si la validité territoriale diffère du visa d’origine</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type de visa prolongé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Motifs de la prolongation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="17">Autre</td></tr>
-<tr><td>Dossiers liés (parenté: conjoint, enfants)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dossiers liés (groupe)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dossiers successifs du demandeur</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="17">VII Données utiles aux autorités suisses</td></tr>
-<tr><td>Date de l’établissement de la déclaration de prise en charge</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Identité et profession des membres de la famille</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Parenté avec des citoyens de l’UE/AELE</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>État civil</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Couverture des frais de séjour</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Déclaration de prise en charge (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Avis temporaire de transmission</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Numéro personnel SYMIC</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Durée du séjour autorisé par le visa (&gt; 90 jours)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Communication des visas délivrés</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dossier VIS Mail (annonces)</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Annexes concernant le demandeur de visa[^annex2-lvlu1-lvlu2-2]</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Émoluments et frais</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><th>Dénomination des champs de données</th><th>SEM I</th><th>SEM II</th><th>MIGRA</th><th>OCF</th><th>CP</th><th>EC</th><th>fedpol I</th><th>fedpol II</th><th>SRC</th><th>TAF</th><th>RSE CT</th><th>RSE CL</th><th>DFAE</th><th>CdC</th><th>OFJ</th><th>AFC</th><th>OFDF</th></tr>
+<tr><td colspan="18">I. Données du dépôt de la demande</td></tr>
+<tr><td>Numéro de la demande</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>État de la procédure: demande déposée</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Sur mandat de représentation d’un autre État Schengen (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Noms</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Prénoms</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Lieu de naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nationalité actuelle et à la naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Pays de naissance</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Sexe</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Type de document de voyage</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Autorité émettrice</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numéro du document</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dates de délivrance et d’expiration</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Lieu et date de la demande</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Hôte et/ou garant (noms, prénoms, adresse); si organisation ou société: nom et adresse de la société ou de l’organisation, nom et prénom de l’interlocuteur au sein de celle-ci</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>États Schengen de destination</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Durée du séjour ou du transit prévu</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Buts principaux du voyage</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dates prévues d’arrivée et de départ de l’espace Schengen</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>État Schengen de la première entrée</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Adresse du domicile du demandeur</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Profession actuelle et employeur; pour les étudiants: nom de l’établissement scolaire</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Pour les mineurs: nom et prénom des titulaires de l’autorité parentale ou du tuteur légal</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Photographie du demandeur</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Empreintes digitales du demandeur</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="18">II. Données en cas de délivrance du visa</td></tr>
+<tr><td>État de la procédure: délivré</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Sur mandat de représentation d’un autre État Schengen (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Territoire sur lequel le titulaire est autorisé à voyager conformément au code des visas UE[^annex2-lvlu1-lvlu2-1]</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nombre d’entrées autorisées durant la période de validité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Durée de validité du visa: dates de début et de fin</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Catégorie de visa</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numéro de la vignette visa</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visa délivré sur un feuillet séparé (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Vignette visa remplie à la main</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="18">III. Données en cas d’interruption de l’examen de la demande</td></tr>
+<tr><td>État de la procédure: interrompu</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>État Schengen compétent pour traiter la demande</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="18">IV. Données en cas de refus du visa</td></tr>
+<tr><td>État de la procédure: refusé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Sur mandat de représentation d’un autre État Schengen (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nom et adresse de l’autorité compétente</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Motifs du refus</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="18">V. Données en cas d’annulation ou de révocation du visa</td></tr>
+<tr><td>État de la procédure: annulation/révocation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nouvelle date d’expiration</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Motifs de l’annulation ou de la révocation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="18">VI. Données en cas de prolongation du visa</td></tr>
+<tr><td>État de la procédure: prolongation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Lieu et date de la décision</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nom et adresse de l’autorité</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dates de début et de fin de la période prolongée</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numéro de la vignette visa du visa prolongé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Durée de la prolongation du séjour autorisé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Territoire sur lequel le titulaire du visa est autorisé à voyager si la validité territoriale diffère du visa d’origine</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Type de visa prolongé</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Motifs de la prolongation</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="18">Autre</td></tr>
+<tr><td>Dossiers liés (parenté: conjoint, enfants)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dossiers liés (groupe)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dossiers successifs du demandeur</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>VII. Données utiles aux autorités suisses</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Date de l’établissement de la déclaration de prise en charge</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Identité et profession des membres de la famille</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Parenté avec des citoyens de l’UE/AELE</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>État civil</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Couverture des frais de séjour</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Déclaration de prise en charge (oui/non)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Avis temporaire de transmission</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numéro personnel SYMIC</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Durée du séjour autorisé par le visa (&gt; 90 jours)</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Communication des visas délivrés</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dossier VIS Mail (annonces)</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Annexes concernant le demandeur de visa[^annex2-lvlu1-lvlu2-2]</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>A</td><td>B</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Émoluments et frais</td><td>B</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu2-1]: Cf. note de bas de page relative à l’art. 6, al. 1.
-[^annex2-lvlu1-lvlu2-2]: Ces annexes sont sous forme pdf (documents du demandeur de visa, notices) et seront remplacées ultérieurement, quand tous les documents seront scannés, par un e-dossier.
+[^annex2-lvlu1-lvlu2-2]: Ces annexes sont sous forme pdf (documents du demandeur de visa, notices) et seront remplacées ultérieurement, quand tous les documents seront scannés, par un e‑dossier.
 
 Annexe 3[^t-3]
 
